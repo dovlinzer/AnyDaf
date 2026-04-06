@@ -84,6 +84,24 @@ TRACTATE_PLAYLIST_IDS: dict[str, int] = {
 # Build set of known tractate names (lowercase) for title parsing
 _KNOWN_TRACTATES_LOWER = {t.lower(): t for t in TRACTATE_PLAYLIST_IDS}
 
+# Spelling variants found in SoundCloud track titles → canonical name
+_ALIASES: dict[str, str] = {
+    "ta'anit":    "Ta\u2019anit",  # straight apostrophe vs curly
+    "taanit":     "Ta\u2019anit",
+    "ketuvot":    "Ketubot",
+    "ketubot":    "Ketubot",
+    "avodah zara": "Avodah Zarah",  # missing trailing h
+    "avoda zarah": "Avodah Zarah",
+    "avoda zara":  "Avodah Zarah",
+    "menahot":    "Menachot",
+    "me'ilah":    "Meilah",        # apostrophe variant
+    "meilah":     "Meilah",
+    "peschim":    "Pesachim",      # typo in SoundCloud title
+}
+# Merge aliases into lookup (aliases do not override canonical spellings)
+for _alias, _canonical in _ALIASES.items():
+    _KNOWN_TRACTATES_LOWER.setdefault(_alias, _canonical)
+
 
 # ---------------------------------------------------------------------------
 # Helpers
