@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme used by AndroidManifest; Compose renders over it -->
+    <style name="Theme.AnyDaf" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Window background matches the Compose Surface color so there's no flash -->
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!--
+        Starting theme for MainActivity (used by core-splashscreen).
+        The system splash screen on Android 12+ uses the same #1B3A8A blue as our
+        custom SplashScreen composable, so the transition is invisible to the user.
+    -->
+    <style name="Theme.AnyDaf.Starting" parent="Theme.SplashScreen">
+        <!-- Same blue as SplashScreen.kt / iOS SplashView -->
+        <item name="windowSplashScreenBackground">#1B3A8A</item>
+        <!--
+            Solid-blue icon + matching icon background = completely invisible against
+            the #1B3A8A splash background. Android 12+ always renders an icon, so
+            this is the only way to make the system splash look like a plain blue screen.
+        -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_transparent</item>
+        <item name="windowSplashScreenIconBackgroundColor">#1B3A8A</item>
+        <!-- Switch to the normal theme once splash exits -->
+        <item name="postSplashScreenTheme">@style/Theme.AnyDaf</item>
+    </style>
+</resources>

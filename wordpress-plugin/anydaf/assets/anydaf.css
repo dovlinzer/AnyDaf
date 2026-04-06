@@ -1,0 +1,264 @@
+/* AnyDaf player widget — all selectors prefixed .anydaf-* */
+
+.anydaf-player {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #111827;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 4px 24px rgba(0,0,0,.10), 0 1px 4px rgba(0,0,0,.06);
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.anydaf-player *, .anydaf-player *::before, .anydaf-player *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Header ─────────────────────────────────────────────────────────────────── */
+
+.anydaf-header {
+  background: linear-gradient(135deg, #1A3E8F 0%, #2563EB 100%);
+  padding: 20px 24px 16px;
+  text-align: center;
+  color: #fff;
+}
+
+.anydaf-title {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  line-height: 1;
+}
+
+.anydaf-subtitle {
+  font-size: 13px;
+  opacity: .8;
+  margin-top: 4px;
+}
+
+/* ── Body ───────────────────────────────────────────────────────────────────── */
+
+.anydaf-body {
+  padding: 20px;
+}
+
+/* ── Pickers ────────────────────────────────────────────────────────────────── */
+
+.anydaf-pickers {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.anydaf-picker-group {
+  flex: 1;
+  min-width: 0;
+}
+
+.anydaf-picker-group.anydaf-daf-group {
+  flex: 0 0 90px;
+}
+
+.anydaf-picker-group label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  color: #6B7280;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin-bottom: 5px;
+}
+
+.anydaf-picker-wrap {
+  position: relative;
+}
+
+.anydaf-picker-wrap::after {
+  content: "";
+  position: absolute;
+  right: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 5px solid transparent;
+  border-top-color: #9CA3AF;
+  pointer-events: none;
+}
+
+.anydaf-picker-wrap select {
+  width: 100%;
+  padding: 10px 30px 10px 12px;
+  border: 1.5px solid #E5E7EB;
+  border-radius: 10px;
+  font-size: 14px;
+  font-family: inherit;
+  color: #111827;
+  background: #F9FAFB;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+}
+
+.anydaf-picker-wrap select:focus {
+  outline: none;
+  border-color: #2563EB;
+  background: #fff;
+}
+
+/* ── Image section ──────────────────────────────────────────────────────────── */
+
+.anydaf-image-section {
+  margin-bottom: 16px;
+}
+
+.anydaf-amud-toggle {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.anydaf-amud-btn {
+  flex: 1;
+  padding: 7px 10px;
+  border: 1.5px solid #E5E7EB;
+  border-radius: 8px;
+  background: #F9FAFB;
+  color: #6B7280;
+  font-size: 13px;
+  font-family: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color .15s, background .15s, color .15s;
+}
+
+.anydaf-amud-btn.anydaf-amud-active {
+  border-color: #2563EB;
+  background: #EFF6FF;
+  color: #2563EB;
+  font-weight: 600;
+}
+
+.anydaf-amud-btn:hover:not(.anydaf-amud-active) {
+  border-color: #9CA3AF;
+  background: #F3F4F6;
+}
+
+.anydaf-image-wrap {
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.anydaf-image-wrap img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+
+.anydaf-no-image {
+  font-size: 13px;
+  color: #9CA3AF;
+  text-align: center;
+  padding: 12px 0;
+}
+
+/* ── Play button ────────────────────────────────────────────────────────────── */
+
+.anydaf-play-btn {
+  width: 100%;
+  padding: 13px 16px;
+  border: none;
+  border-radius: 12px;
+  background: #2563EB;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  transition: background .15s, transform .1s;
+}
+
+.anydaf-play-btn:hover:not(:disabled) { background: #1D4ED8; }
+.anydaf-play-btn:active:not(:disabled) { transform: scale(.98); }
+.anydaf-play-btn:disabled { background: #D1D5DB; cursor: default; }
+.anydaf-play-btn svg { flex-shrink: 0; }
+
+/* ── Progress bar ───────────────────────────────────────────────────────────── */
+
+.anydaf-progress-wrap {
+  margin-top: 14px;
+  display: none;
+}
+
+.anydaf-progress-track {
+  width: 100%;
+  height: 4px;
+  background: #E5E7EB;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  transition: height .1s;
+}
+
+.anydaf-progress-track:hover { height: 6px; }
+
+.anydaf-progress-fill {
+  height: 100%;
+  background: #2563EB;
+  border-radius: 2px;
+  width: 0%;
+  pointer-events: none;
+  transition: width .1s linear;
+}
+
+.anydaf-progress-times {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #9CA3AF;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Status ─────────────────────────────────────────────────────────────────── */
+
+.anydaf-status {
+  margin-top: 14px;
+  text-align: center;
+  font-size: 12px;
+  color: #9CA3AF;
+  min-height: 16px;
+}
+
+.anydaf-status a {
+  color: #2563EB;
+  text-decoration: none;
+}
+
+.anydaf-status a:hover { text-decoration: underline; }
+
+/* ── Spinner ────────────────────────────────────────────────────────────────── */
+
+@keyframes anydaf-spin { to { transform: rotate(360deg); } }
+
+.anydaf-spinner {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #D1D5DB;
+  border-top-color: #2563EB;
+  border-radius: 50%;
+  animation: anydaf-spin .7s linear infinite;
+  vertical-align: middle;
+  margin-right: 6px;
+}

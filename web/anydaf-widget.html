@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AnyDaf – Daf Yomi with Rabbi Dov Linzer</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #ffffff;
+    color: #111827;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 440px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(0,0,0,.10), 0 1px 4px rgba(0,0,0,.06);
+    overflow: hidden;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: linear-gradient(135deg, #1A3E8F 0%, #2563EB 100%);
+    padding: 24px 24px 20px;
+    text-align: center;
+    color: #fff;
+  }
+  .header-logo {
+    height: 36px;
+    margin-bottom: 10px;
+    filter: brightness(0) invert(1);   /* tint logo white */
+    opacity: .9;
+  }
+  .header h1 {
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    line-height: 1;
+  }
+  .header p {
+    font-size: 13px;
+    opacity: .8;
+    margin-top: 4px;
+  }
+
+  /* ── Body ── */
+  .body { padding: 20px; }
+
+  /* ── Pickers ── */
+  .pickers {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .picker-group { flex: 1; min-width: 0; }
+  .picker-group.daf-group { flex: 0 0 90px; }
+
+  .picker-group label {
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    margin-bottom: 5px;
+  }
+
+  .picker-wrap {
+    position: relative;
+  }
+  .picker-wrap::after {
+    content: "";
+    position: absolute;
+    right: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 5px solid transparent;
+    border-top-color: #9CA3AF;
+    pointer-events: none;
+  }
+  select {
+    width: 100%;
+    padding: 10px 30px 10px 12px;
+    border: 1.5px solid #E5E7EB;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: inherit;
+    color: #111827;
+    background: #F9FAFB;
+    appearance: none;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  select:focus {
+    outline: none;
+    border-color: #2563EB;
+    background: #fff;
+  }
+
+  /* ── Play button ── */
+  .play-btn {
+    width: 100%;
+    padding: 13px 16px;
+    border: none;
+    border-radius: 12px;
+    background: #2563EB;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    transition: background .15s, transform .1s;
+  }
+  .play-btn:hover:not(:disabled) { background: #1D4ED8; }
+  .play-btn:active:not(:disabled) { transform: scale(.98); }
+  .play-btn:disabled { background: #D1D5DB; cursor: default; }
+
+  .play-btn svg { flex-shrink: 0; }
+
+  /* ── Progress ── */
+  .progress-wrap {
+    margin-top: 14px;
+    display: none;
+  }
+  .progress-track {
+    width: 100%;
+    height: 4px;
+    background: #E5E7EB;
+    border-radius: 2px;
+    cursor: pointer;
+    position: relative;
+  }
+  .progress-track:hover { height: 6px; }
+  .progress-fill {
+    height: 100%;
+    background: #2563EB;
+    border-radius: 2px;
+    width: 0%;
+    pointer-events: none;
+    transition: width .1s linear;
+  }
+  .progress-times {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #9CA3AF;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ── Status / footer ── */
+  .status {
+    margin-top: 14px;
+    text-align: center;
+    font-size: 12px;
+    color: #9CA3AF;
+    min-height: 16px;
+  }
+  .status a {
+    color: #2563EB;
+    text-decoration: none;
+  }
+  .status a:hover { text-decoration: underline; }
+
+  /* ── Spinner ── */
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .spinner {
+    display: inline-block;
+    width: 14px; height: 14px;
+    border: 2px solid #D1D5DB;
+    border-top-color: #2563EB;
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    vertical-align: middle;
+    margin-right: 6px;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="header">
+    <!-- YCT logo — swap src for the real hosted URL of your logo if desired -->
+    <!-- <img class="header-logo" src="yct-logo.png" alt="YCT"> -->
+    <h1>AnyDaf</h1>
+    <p>Daf Yomi with Rabbi Dov Linzer</p>
+  </div>
+
+  <div class="body">
+    <div class="pickers">
+      <div class="picker-group">
+        <label for="tractate-sel">Tractate</label>
+        <div class="picker-wrap">
+          <select id="tractate-sel"></select>
+        </div>
+      </div>
+      <div class="picker-group daf-group">
+        <label for="daf-sel">Daf</label>
+        <div class="picker-wrap">
+          <select id="daf-sel"></select>
+        </div>
+      </div>
+    </div>
+
+    <button class="play-btn" id="play-btn" disabled>
+      <!-- Play icon (inline SVG so no external requests needed) -->
+      <svg id="play-icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M8 5v14l11-7z"/>
+      </svg>
+      <span id="play-label">Play</span>
+    </button>
+
+    <div class="progress-wrap" id="progress-wrap">
+      <div class="progress-track" id="progress-track">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+      <div class="progress-times">
+        <span id="time-cur">0:00</span>
+        <span id="time-tot">0:00</span>
+      </div>
+    </div>
+
+    <div class="status" id="status">
+      <span class="spinner"></span> Loading episodes…
+    </div>
+  </div>
+</div>
+
+<audio id="audio" preload="none"></audio>
+
+<script>
+// ─────────────────────────────────────────────────────────────────────────────
+// Configuration
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Path to the pre-built episode index (relative to this HTML file).
+const EPISODES_URL = "./episodes.json";
+
+// Optional: URL of your Cloudflare Worker proxy for resolving older episodes
+// that are stored as "soundcloud-track:TRACKID". Leave empty to show a
+// "Listen on SoundCloud" fallback link instead.
+const PROXY_URL = "";  // e.g. "https://anydaf-proxy.YOUR-NAME.workers.dev"
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Tractate definitions  (name, first daf, last daf)
+// ─────────────────────────────────────────────────────────────────────────────
+
+const TRACTATES = [
+  // Seder Zeraim
+  { name: "Berakhot",      start: 2,  end: 64  },
+  // Seder Moed
+  { name: "Shabbat",       start: 2,  end: 157 },
+  { name: "Eruvin",        start: 2,  end: 105 },
+  { name: "Pesachim",      start: 2,  end: 121 },
+  { name: "Shekalim",      start: 2,  end: 22  },
+  { name: "Yoma",          start: 2,  end: 88  },
+  { name: "Sukkah",        start: 2,  end: 56  },
+  { name: "Beitzah",       start: 2,  end: 40  },
+  { name: "Rosh Hashanah", start: 2,  end: 35  },
+  { name: "Ta'anit",       start: 2,  end: 31  },
+  { name: "Megillah",      start: 2,  end: 32  },
+  { name: "Moed Katan",    start: 2,  end: 29  },
+  { name: "Chagigah",      start: 2,  end: 27  },
+  // Seder Nashim
+  { name: "Yevamot",       start: 2,  end: 122 },
+  { name: "Ketubot",       start: 2,  end: 112 },
+  { name: "Nedarim",       start: 2,  end: 91  },
+  { name: "Nazir",         start: 2,  end: 66  },
+  { name: "Sotah",         start: 2,  end: 49  },
+  { name: "Gittin",        start: 2,  end: 90  },
+  { name: "Kiddushin",     start: 2,  end: 82  },
+  // Seder Nezikin
+  { name: "Bava Kamma",    start: 2,  end: 119 },
+  { name: "Bava Metzia",   start: 2,  end: 119 },
+  { name: "Bava Batra",    start: 2,  end: 176 },
+  { name: "Sanhedrin",     start: 2,  end: 113 },
+  { name: "Makkot",        start: 2,  end: 24  },
+  { name: "Shevuot",       start: 2,  end: 49  },
+  { name: "Avodah Zarah",  start: 2,  end: 76  },
+  { name: "Horayot",       start: 2,  end: 14  },
+  // Seder Kodashim
+  { name: "Zevahim",       start: 2,  end: 120 },
+  { name: "Menachot",      start: 2,  end: 110 },
+  { name: "Hullin",        start: 2,  end: 142 },
+  { name: "Bekhorot",      start: 2,  end: 61  },
+  { name: "Arachin",       start: 2,  end: 34  },
+  { name: "Temurah",       start: 2,  end: 34  },
+  { name: "Keritot",       start: 2,  end: 28  },
+  { name: "Me'ilah",       start: 2,  end: 22  },
+  { name: "Kinnim",        start: 22, end: 25  },
+  { name: "Tamid",         start: 25, end: 33  },
+  // Seder Taharot
+  { name: "Niddah",        start: 2,  end: 73  },
+];
+
+// ─────────────────────────────────────────────────────────────────────────────
+// State
+// ─────────────────────────────────────────────────────────────────────────────
+
+let episodeIndex = {};   // { tractate: { "daf": url } }
+let isPlaying    = false;
+let isSCTrack    = false; // current audio needs proxy resolution
+
+const audio        = document.getElementById("audio");
+const tractaceSel  = document.getElementById("tractate-sel");
+const dafSel       = document.getElementById("daf-sel");
+const playBtn      = document.getElementById("play-btn");
+const playIcon     = document.getElementById("play-icon");
+const playLabel    = document.getElementById("play-label");
+const progressWrap = document.getElementById("progress-wrap");
+const progressFill = document.getElementById("progress-fill");
+const progressTrack= document.getElementById("progress-track");
+const timeCur      = document.getElementById("time-cur");
+const timeTot      = document.getElementById("time-tot");
+const statusEl     = document.getElementById("status");
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Initialise pickers
+// ─────────────────────────────────────────────────────────────────────────────
+
+function buildTractateOptions() {
+  TRACTATES.forEach((t, i) => {
+    const opt = document.createElement("option");
+    opt.value = i;
+    opt.textContent = t.name;
+    tractaceSel.appendChild(opt);
+  });
+}
+
+function buildDafOptions() {
+  const t = TRACTATES[+tractaceSel.value];
+  const current = +dafSel.value;
+  dafSel.innerHTML = "";
+  for (let d = t.start; d <= t.end; d++) {
+    const opt = document.createElement("option");
+    opt.value = d;
+    opt.textContent = d;
+    if (d === current) opt.selected = true;
+    dafSel.appendChild(opt);
+  }
+  updatePlayButton();
+}
+
+tractaceSel.addEventListener("change", () => {
+  stopAudio();
+  buildDafOptions();
+});
+
+dafSel.addEventListener("change", () => {
+  stopAudio();
+  updatePlayButton();
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Episode index loading
+// ─────────────────────────────────────────────────────────────────────────────
+
+async function loadIndex() {
+  try {
+    const r = await fetch(EPISODES_URL);
+    if (!r.ok) throw new Error(r.statusText);
+    episodeIndex = await r.json();
+    const total = Object.values(episodeIndex).reduce((s, v) => s + Object.keys(v).length, 0);
+    setStatus(`${total.toLocaleString()} episodes available`);
+    updatePlayButton();
+  } catch (e) {
+    setStatus("Could not load episode index — check server configuration.");
+  }
+}
+
+function currentUrl() {
+  const tractate = TRACTATES[+tractaceSel.value].name;
+  const daf      = String(dafSel.value);
+  return episodeIndex[tractate]?.[daf] ?? null;
+}
+
+function updatePlayButton() {
+  const url = currentUrl();
+  if (!url) {
+    playBtn.disabled = true;
+    setPlayState(false);
+    if (Object.keys(episodeIndex).length > 0) {
+      const tractate = TRACTATES[+tractaceSel.value].name;
+      setStatus(episodeIndex[tractate] ? "No recording found for this daf." : "No recordings available for this tractate.");
+    }
+  } else {
+    playBtn.disabled = false;
+    const total = Object.values(episodeIndex).reduce((s, v) => s + Object.keys(v).length, 0);
+    setStatus(`${total.toLocaleString()} episodes available`);
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Playback
+// ─────────────────────────────────────────────────────────────────────────────
+
+playBtn.addEventListener("click", async () => {
+  if (isPlaying) {
+    audio.pause();
+    setPlayState(false);
+    return;
+  }
+
+  // If already loaded and paused, just resume
+  if (audio.src && audio.currentTime > 0 && audio.paused) {
+    audio.play();
+    setPlayState(true);
+    return;
+  }
+
+  const url = currentUrl();
+  if (!url) return;
+
+  // soundcloud-track: needs proxy resolution
+  if (url.startsWith("soundcloud-track:")) {
+    const trackId = url.split(":")[1];
+    if (PROXY_URL) {
+      setStatus("Resolving audio…");
+      playBtn.disabled = true;
+      try {
+        const r   = await fetch(`${PROXY_URL}?track_id=${trackId}`);
+        const data = await r.json();
+        if (!data.url) throw new Error("No URL returned");
+        startPlayback(data.url);
+      } catch (e) {
+        setStatus(`Could not load audio. <a href="https://soundcloud.com/yct-dafyomi" target="_blank">Listen on SoundCloud ↗</a>`);
+        playBtn.disabled = false;
+      }
+    } else {
+      // No proxy configured — open SoundCloud
+      const tractate = TRACTATES[+tractaceSel.value].name;
+      const daf      = dafSel.value;
+      setStatus(`<a href="https://soundcloud.com/yct-dafyomi" target="_blank">Listen to ${tractate} ${daf} on SoundCloud ↗</a>`);
+    }
+    return;
+  }
+
+  startPlayback(url);
+});
+
+function startPlayback(url) {
+  stopAudio();
+  audio.src = url;
+  audio.play().then(() => {
+    setPlayState(true);
+    progressWrap.style.display = "block";
+    updatePlayButton();
+  }).catch(e => {
+    setStatus("Playback failed — the audio may have moved. Try refreshing.");
+  });
+}
+
+function stopAudio() {
+  audio.pause();
+  audio.src = "";
+  audio.currentTime = 0;
+  setPlayState(false);
+  progressWrap.style.display = "none";
+  progressFill.style.width = "0%";
+  timeCur.textContent = "0:00";
+  timeTot.textContent = "0:00";
+}
+
+function setPlayState(playing) {
+  isPlaying = playing;
+  playIcon.innerHTML = playing
+    ? '<path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>'   // pause
+    : '<path d="M8 5v14l11-7z"/>';                       // play
+  playLabel.textContent = playing ? "Pause" : "Play";
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Audio events
+// ─────────────────────────────────────────────────────────────────────────────
+
+audio.addEventListener("timeupdate", () => {
+  if (!audio.duration) return;
+  const pct = audio.currentTime / audio.duration * 100;
+  progressFill.style.width = pct + "%";
+  timeCur.textContent = fmt(audio.currentTime);
+  timeTot.textContent = fmt(audio.duration);
+});
+
+audio.addEventListener("ended", () => setPlayState(false));
+
+audio.addEventListener("error", () => {
+  setPlayState(false);
+  setStatus("Playback error. The URL may have expired — run build-episodes.py to refresh.");
+});
+
+// Progress bar scrubbing
+progressTrack.addEventListener("click", e => {
+  if (!audio.duration) return;
+  const rect = progressTrack.getBoundingClientRect();
+  audio.currentTime = ((e.clientX - rect.left) / rect.width) * audio.duration;
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Utilities
+// ─────────────────────────────────────────────────────────────────────────────
+
+function fmt(s) {
+  if (!isFinite(s)) return "0:00";
+  const m = Math.floor(s / 60);
+  const sec = String(Math.floor(s % 60)).padStart(2, "0");
+  return `${m}:${sec}`;
+}
+
+function setStatus(html) {
+  statusEl.innerHTML = html;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Boot
+// ─────────────────────────────────────────────────────────────────────────────
+
+buildTractateOptions();
+buildDafOptions();
+loadIndex();
+</script>
+</body>
+</html>
