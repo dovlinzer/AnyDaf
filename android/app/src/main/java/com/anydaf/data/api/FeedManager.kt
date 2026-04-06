@@ -147,42 +147,54 @@ object FeedManager {
     }
 
     /** Fetch the full episode index from Supabase episode_audio table.
+     *  Paginates in batches of 1000 to work around PostgREST's server-side max-rows cap.
      *  Returns null if the request fails (caller should fall back to RSS crawl). */
     private suspend fun fetchFromSupabase(): Map<String, Map<Int, String>>? = withContext(Dispatchers.IO) {
-        val url = "$SUPABASE_URL/rest/v1/episode_audio?select=tractate,daf,audio_url&limit=10000"
-        val body = try {
-            val req = Request.Builder()
-                .url(url)
-                .addHeader("apikey", SUPABASE_ANON_KEY)
-                .addHeader("Authorization", "Bearer $SUPABASE_ANON_KEY")
-                .build()
-            client.newCall(req).execute().use { resp ->
-                if (resp.code != 200) {
-                    Log.w(TAG, "Supabase episode_audio HTTP ${resp.code}")
-                    return@withContext null
-                }
-                resp.body?.string()
-            }
-        } catch (e: Exception) {
-            Log.w(TAG, "Supabase episode_audio fetch failed", e)
-            return@withContext null
-        } ?: return@withContext null
+        val index = mutableMapOf<String, MutableMap<Int, String>>()
+        val batchSize = 1000
+        var offset = 0
 
-        try {
-            val arr = org.json.JSONArray(body)
-            val index = mutableMapOf<String, MutableMap<Int, String>>()
-            for (i in 0 until arr.length()) {
-                val row      = arr.getJSONObject(i)
-                val tractate = row.optString("tractate").takeIf { it.isNotEmpty() } ?: continue
-                val daf      = row.optInt("daf", -1).takeIf { it > 0 } ?: continue
-                val audioUrl = row.optString("audio_url").takeIf { it.isNotEmpty() } ?: continue
-                index.getOrPut(tractate) { mutableMapOf() }[daf] = audioUrl
+        while (true) {
+            val url = "$SUPABASE_URL/rest/v1/episode_audio" +
+                "?select=tractate,daf,audio_url" +
+                "&limit=$batchSize&offset=$offset" +
+                "&order=tractate,daf"
+            val body = try {
+                val req = Request.Builder()
+                    .url(url)
+                    .addHeader("apikey", SUPABASE_ANON_KEY)
+                    .addHeader("Authorization", "Bearer $SUPABASE_ANON_KEY")
+                    .build()
+                client.newCall(req).execute().use { resp ->
+                    if (resp.code != 200) {
+                        Log.w(TAG, "Supabase episode_audio HTTP ${resp.code}")
+                        return@withContext if (index.isEmpty()) null else index.mapValues { it.value.toMap() }
+                    }
+                    resp.body?.string()
+                }
+            } catch (e: Exception) {
+                Log.w(TAG, "Supabase episode_audio fetch failed", e)
+                return@withContext if (index.isEmpty()) null else index.mapValues { it.value.toMap() }
+            } ?: break
+
+            try {
+                val arr = org.json.JSONArray(body)
+                for (i in 0 until arr.length()) {
+                    val row      = arr.getJSONObject(i)
+                    val tractate = row.optString("tractate").takeIf { it.isNotEmpty() } ?: continue
+                    val daf      = row.optInt("daf", -1).takeIf { it > 0 } ?: continue
+                    val audioUrl = row.optString("audio_url").takeIf { it.isNotEmpty() } ?: continue
+                    index.getOrPut(tractate) { mutableMapOf() }[daf] = audioUrl
+                }
+                if (arr.length() < batchSize) break  // last page
+                offset += batchSize
+            } catch (e: Exception) {
+                Log.w(TAG, "Supabase episode_audio JSON parse failed", e)
+                break
             }
-            if (index.isEmpty()) null else index.mapValues { it.value.toMap() }
-        } catch (e: Exception) {
-            Log.w(TAG, "Supabase episode_audio JSON parse failed", e)
-            null
         }
+
+        if (index.isEmpty()) null else index.mapValues { it.value.toMap() }
     }
 
     /** Force a full re-fetch from RSS + SoundCloud playlists. */

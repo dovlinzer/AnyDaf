@@ -113,29 +113,41 @@ class FeedManager: ObservableObject {
     }
 
     /// Fetch the full episode index from Supabase episode_audio table.
+    /// Paginates in batches of 1000 to work around PostgREST's server-side max-rows cap.
     /// Returns nil if the request fails (caller should fall back to RSS crawl).
     private func fetchFromSupabase() async -> [String: [Int: String]]? {
-        guard let url = URL(string: "\(supabaseURL)/rest/v1/episode_audio?select=tractate,daf,audio_url&limit=10000") else {
-            return nil
-        }
-        var request = URLRequest(url: url)
-        request.setValue(anonKey, forHTTPHeaderField: "apikey")
-        request.setValue("Bearer \(anonKey)", forHTTPHeaderField: "Authorization")
-
-        guard let (data, response) = try? await URLSession.shared.data(for: request),
-              (response as? HTTPURLResponse)?.statusCode == 200,
-              let rows = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]]
-        else { return nil }
-
         var index: [String: [Int: String]] = [:]
-        for row in rows {
-            guard let tractate = row["tractate"] as? String,
-                  let daf      = row["daf"]      as? Int,
-                  let audioURL = row["audio_url"] as? String
-            else { continue }
-            if index[tractate] == nil { index[tractate] = [:] }
-            index[tractate]![daf] = audioURL
+        let batchSize = 1000
+        var offset = 0
+
+        while true {
+            let urlStr = "\(supabaseURL)/rest/v1/episode_audio"
+                + "?select=tractate,daf,audio_url"
+                + "&limit=\(batchSize)&offset=\(offset)"
+                + "&order=tractate,daf"
+            guard let url = URL(string: urlStr) else { return nil }
+            var request = URLRequest(url: url)
+            request.setValue(anonKey, forHTTPHeaderField: "apikey")
+            request.setValue("Bearer \(anonKey)", forHTTPHeaderField: "Authorization")
+
+            guard let (data, response) = try? await URLSession.shared.data(for: request),
+                  (response as? HTTPURLResponse)?.statusCode == 200,
+                  let rows = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]]
+            else { return index.isEmpty ? nil : index }
+
+            for row in rows {
+                guard let tractate = row["tractate"] as? String,
+                      let daf      = row["daf"]      as? Int,
+                      let audioURL = row["audio_url"] as? String
+                else { continue }
+                if index[tractate] == nil { index[tractate] = [:] }
+                index[tractate]![daf] = audioURL
+            }
+
+            if rows.count < batchSize { break }  // last page
+            offset += batchSize
         }
+
         return index.isEmpty ? nil : index
     }
 
