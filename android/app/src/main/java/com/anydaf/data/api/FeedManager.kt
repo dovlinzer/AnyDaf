@@ -30,7 +30,7 @@ import java.util.concurrent.TimeUnit
 object FeedManager {
     private const val TAG = "FeedManager"
     private const val FEED_BASE = "https://feeds.soundcloud.com/users/soundcloud:users:958779193/sounds.rss"
-    const val SOUNDCLOUD_CLIENT_ID = "1IzwHiVxAHeYKAMqN0IIGD3ZARgJy2kl"
+    var SOUNDCLOUD_CLIENT_ID = "tkIWLs4MIowq7bCXP80TOwx6DnDa7UPc"
     private const val SUPABASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co"
     private const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8"
     private const val CACHE_FILE = "episode_index.json"
@@ -195,6 +195,33 @@ object FeedManager {
         }
 
         if (index.isEmpty()) null else index.mapValues { it.value.toMap() }
+            .also { fetchClientId() }
+    }
+
+    /** Fetch soundcloud_client_id from app_config and update SOUNDCLOUD_CLIENT_ID if found. */
+    private fun fetchClientId() {
+        val url = "$SUPABASE_URL/rest/v1/app_config?key=eq.soundcloud_client_id&select=value"
+        try {
+            val req = Request.Builder()
+                .url(url)
+                .addHeader("apikey", SUPABASE_ANON_KEY)
+                .addHeader("Authorization", "Bearer $SUPABASE_ANON_KEY")
+                .build()
+            val body = client.newCall(req).execute().use { resp ->
+                if (resp.code != 200) return
+                resp.body?.string()
+            } ?: return
+            val arr = org.json.JSONArray(body)
+            if (arr.length() > 0) {
+                val value = arr.getJSONObject(0).optString("value")
+                if (value.isNotEmpty()) {
+                    SOUNDCLOUD_CLIENT_ID = value
+                    Log.d(TAG, "soundcloud_client_id updated from app_config")
+                }
+            }
+        } catch (e: Exception) {
+            Log.w(TAG, "app_config fetch failed", e)
+        }
     }
 
     /** Force a full re-fetch from RSS + SoundCloud playlists. */

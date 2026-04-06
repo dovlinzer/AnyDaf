@@ -394,6 +394,18 @@ def upsert_episodes(
     return succeeded, failed
 
 
+def upsert_app_config(service_key: str, key: str, value: str) -> None:
+    """Upsert a single key-value pair to the app_config table."""
+    url = f"{SUPABASE_URL}/rest/v1/app_config"
+    headers = {**supabase_headers(service_key), "Prefer": "resolution=merge-duplicates"}
+    payload = [{"key": key, "value": value, "updated_at": "now()"}]
+    resp = requests.post(url, headers=headers, json=payload, timeout=30)
+    if resp.status_code not in (200, 201):
+        logger.warning(f"  app_config upsert failed: HTTP {resp.status_code}")
+    else:
+        logger.info(f"  ✓ app_config: {key} updated")
+
+
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
@@ -456,6 +468,9 @@ def main() -> int:
     logger.info("Upserting to Supabase…")
     succeeded, failed = upsert_episodes(merged, service_key or "dry-run", args.dry_run)
     logger.info(f"Done: {succeeded} upserted, {failed} failed")
+
+    if SOUNDCLOUD_CLIENT_ID and not args.dry_run:
+        upsert_app_config(service_key, "soundcloud_client_id", SOUNDCLOUD_CLIENT_ID)
 
     # Exit non-zero if client ID was bad OR any upsert rows failed
     if failed > 0:

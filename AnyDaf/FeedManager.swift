@@ -10,7 +10,7 @@ class FeedManager: ObservableObject {
     private(set) var episodeIndex: [String: [Int: String]] = [:]
 
     private let feedBase = "https://feeds.soundcloud.com/users/soundcloud:users:958779193/sounds.rss"
-    static let soundcloudClientID = "1IzwHiVxAHeYKAMqN0IIGD3ZARgJy2kl"
+    static var soundcloudClientID = "tkIWLs4MIowq7bCXP80TOwx6DnDa7UPc"
 
     private let supabaseURL = "https://zewdazoijdpakugfvnzt.supabase.co"
     private let anonKey = Secrets.supabaseAnonKey
@@ -146,6 +146,21 @@ class FeedManager: ObservableObject {
 
             if rows.count < batchSize { break }  // last page
             offset += batchSize
+        }
+
+        // Fetch soundcloud_client_id from app_config and update the static property
+        if let configURL = URL(string: "\(supabaseURL)/rest/v1/app_config?key=eq.soundcloud_client_id&select=value") {
+            var configRequest = URLRequest(url: configURL)
+            configRequest.setValue(anonKey, forHTTPHeaderField: "apikey")
+            configRequest.setValue("Bearer \(anonKey)", forHTTPHeaderField: "Authorization")
+            if let (configData, configResponse) = try? await URLSession.shared.data(for: configRequest),
+               (configResponse as? HTTPURLResponse)?.statusCode == 200,
+               let rows = try? JSONSerialization.jsonObject(with: configData) as? [[String: Any]],
+               let firstRow = rows.first,
+               let value = firstRow["value"] as? String,
+               !value.isEmpty {
+                FeedManager.soundcloudClientID = value
+            }
         }
 
         return index.isEmpty ? nil : index
