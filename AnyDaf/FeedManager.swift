@@ -74,12 +74,13 @@ class FeedManager: ObservableObject {
         return URL(string: str)
     }
 
-    // Fetch only if cache is missing or older than 7 days.
+    // Fetch only if cache is missing, older than 7 days, or suspiciously small
+    // (e.g. populated before the Supabase row-limit fix — full index is 2000+).
     // Tries Supabase first (fast single request); falls back to RSS crawl if unavailable.
     func refreshIfNeeded() async {
         let lastFetch = UserDefaults.standard.double(forKey: cacheTimestampKey)
         let age = Date().timeIntervalSince1970 - lastFetch
-        guard !hasIndex || age > 7 * 24 * 3600 else { return }
+        guard !hasIndex || age > 7 * 24 * 3600 || episodeCount < 2000 else { return }
 
         if let supabaseIndex = await fetchFromSupabase(), !supabaseIndex.isEmpty {
             episodeIndex = supabaseIndex
@@ -94,7 +95,7 @@ class FeedManager: ObservableObject {
     /// Fetch the full episode index from Supabase episode_audio table.
     /// Returns nil if the request fails (caller should fall back to RSS crawl).
     private func fetchFromSupabase() async -> [String: [Int: String]]? {
-        guard let url = URL(string: "\(supabaseURL)/rest/v1/episode_audio?select=tractate,daf,audio_url") else {
+        guard let url = URL(string: "\(supabaseURL)/rest/v1/episode_audio?select=tractate,daf,audio_url&limit=10000") else {
             return nil
         }
         var request = URLRequest(url: url)

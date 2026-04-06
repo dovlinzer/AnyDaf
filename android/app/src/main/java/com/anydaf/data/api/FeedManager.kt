@@ -106,12 +106,14 @@ object FeedManager {
     fun audioUrl(tractate: String, daf: Int): String? =
         _episodeIndex.value[tractate]?.get(daf)
 
-    /** Fetch only if cache is missing or older than 7 days.
+    /** Fetch only if cache is missing, older than 7 days, or suspiciously small
+     *  (e.g. populated before the Supabase row-limit fix — full index is 2000+).
      *  Tries Supabase first (fast single request); falls back to RSS crawl if unavailable. */
     suspend fun refreshIfNeeded() {
         val lastFetch = prefs.getLong(CACHE_TIMESTAMP_KEY, 0L)
         val age = System.currentTimeMillis() - lastFetch
-        if (hasIndex && age <= CACHE_TTL_MS) return
+        val cachedCount = _episodeIndex.value.values.sumOf { it.size }
+        if (hasIndex && age <= CACHE_TTL_MS && cachedCount >= 2000) return
 
         val supabaseIndex = fetchFromSupabase()
         if (supabaseIndex != null && supabaseIndex.isNotEmpty()) {
@@ -127,7 +129,7 @@ object FeedManager {
     /** Fetch the full episode index from Supabase episode_audio table.
      *  Returns null if the request fails (caller should fall back to RSS crawl). */
     private suspend fun fetchFromSupabase(): Map<String, Map<Int, String>>? = withContext(Dispatchers.IO) {
-        val url = "$SUPABASE_URL/rest/v1/episode_audio?select=tractate,daf,audio_url"
+        val url = "$SUPABASE_URL/rest/v1/episode_audio?select=tractate,daf,audio_url&limit=10000"
         val body = try {
             val req = Request.Builder()
                 .url(url)
