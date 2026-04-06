@@ -96,6 +96,20 @@ def supabase_headers(service_key: str) -> dict:
         "Content-Type":  "application/json",
     }
 
+# Headers that mimic a browser request — needed for SoundCloud API-v2 calls,
+# which return 403 for requests with a Python/requests user-agent.
+SC_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept":          "application/json, text/javascript, */*; q=0.01",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Origin":          "https://soundcloud.com",
+    "Referer":         "https://soundcloud.com/",
+}
+
 
 def parse_title(title: str) -> tuple[Optional[str], Optional[int]]:
     """
@@ -194,7 +208,7 @@ def check_client_id() -> bool:
         return False
     url = f"https://api-v2.soundcloud.com/tracks?ids=1&client_id={SOUNDCLOUD_CLIENT_ID}"
     try:
-        resp = requests.get(url, timeout=15)
+        resp = requests.get(url, headers=SC_HEADERS, timeout=15)
     except Exception as e:
         logger.error(f"  Client ID check network error: {e}")
         return False
@@ -216,7 +230,7 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
     dafs: dict[int, str] = {}
     url = f"https://api-v2.soundcloud.com/playlists/{playlist_id}?client_id={SOUNDCLOUD_CLIENT_ID}"
     try:
-        resp = requests.get(url, timeout=30)
+        resp = requests.get(url, headers=SC_HEADERS, timeout=30)
     except Exception as e:
         logger.warning(f"  ✗ Playlist {tractate} ({playlist_id}) network error: {e}")
         return dafs
@@ -248,7 +262,7 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
             f"?ids={','.join(map(str, batch))}&client_id={SOUNDCLOUD_CLIENT_ID}"
         )
         try:
-            batch_resp = requests.get(batch_url, timeout=30)
+            batch_resp = requests.get(batch_url, headers=SC_HEADERS, timeout=30)
             if batch_resp.status_code == 200:
                 full_tracks.extend(batch_resp.json())
         except Exception:
