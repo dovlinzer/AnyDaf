@@ -106,6 +106,21 @@ object FeedManager {
     fun audioUrl(tractate: String, daf: Int): String? =
         _episodeIndex.value[tractate]?.get(daf)
 
+    /** Force a fresh fetch regardless of cache age.
+     *  Always tries Supabase first; falls back to RSS+playlist only if Supabase is unavailable.
+     *  Use this for the "Refresh Episodes" button and auto-retry on playback failure. */
+    suspend fun forceRefresh() {
+        val supabaseIndex = fetchFromSupabase()
+        if (supabaseIndex != null && supabaseIndex.isNotEmpty()) {
+            _episodeIndex.value = supabaseIndex
+            saveToCache(supabaseIndex)
+            prefs.edit().putLong(CACHE_TIMESTAMP_KEY, System.currentTimeMillis()).apply()
+            Log.d(TAG, "forceRefresh: loaded ${supabaseIndex.values.sumOf { it.size }} episodes from Supabase")
+        } else {
+            fetchAll()
+        }
+    }
+
     /** Fetch only if cache is missing, older than 7 days, or suspiciously small
      *  (e.g. populated before the Supabase row-limit fix — full index is 2000+).
      *  Tries Supabase first (fast single request); falls back to RSS crawl if unavailable. */

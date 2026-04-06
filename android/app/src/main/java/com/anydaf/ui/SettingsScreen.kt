@@ -165,7 +165,7 @@ fun SettingsScreen(
                     if (!isReloading) {
                         scope.launch {
                             isReloading = true
-                            FeedManager.fetchAll()
+                            FeedManager.forceRefresh()
                             isReloading = false
                         }
                     }

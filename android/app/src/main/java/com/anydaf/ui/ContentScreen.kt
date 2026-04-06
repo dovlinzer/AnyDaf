@@ -165,7 +165,7 @@ fun ContentScreen(
     LaunchedEffect(resolutionFailed) {
         if (resolutionFailed && !hasAutoRefreshedForAudio) {
             hasAutoRefreshedForAudio = true
-            FeedManager.fetchAll()
+            FeedManager.forceRefresh()
             // Re-look up URL — may now be a direct RSS MP3 rather than a soundcloud-track stub
             val freshUrl = FeedManager.episodeIndex.value[tractate.name]?.get(selectedDaf)
             if (freshUrl != null) {

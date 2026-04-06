@@ -74,6 +74,20 @@ class FeedManager: ObservableObject {
         return URL(string: str)
     }
 
+    // Force a fresh fetch regardless of cache age.
+    // Always tries Supabase first; falls back to RSS+playlist crawl only if Supabase is unavailable.
+    // Use this for the "Refresh Episodes" button and auto-retry on playback failure.
+    func forceRefresh() async {
+        if let supabaseIndex = await fetchFromSupabase(), !supabaseIndex.isEmpty {
+            episodeIndex = supabaseIndex
+            episodeCount = supabaseIndex.values.reduce(0) { $0 + $1.count }
+            saveToCache(supabaseIndex)
+            UserDefaults.standard.set(Date().timeIntervalSince1970, forKey: cacheTimestampKey)
+        } else {
+            await fetchAll()
+        }
+    }
+
     // Fetch only if cache is missing, older than 7 days, or suspiciously small
     // (e.g. populated before the Supabase row-limit fix — full index is 2000+).
     // Tries Supabase first (fast single request); falls back to RSS crawl if unavailable.

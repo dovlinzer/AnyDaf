@@ -424,7 +424,7 @@ struct ContentView: View {
             SettingsView(
                 bookmarkManager: bookmarkManager,
                 isReloading: feedManager.isLoading,
-                onReload: { Task { await feedManager.fetchAll() } }
+                onReload: { Task { await feedManager.forceRefresh() } }
             )
         }
         .sheet(isPresented: $showBookmarkEdit) {
@@ -486,7 +486,7 @@ struct ContentView: View {
             guard failed, !hasAutoRefreshedForAudio else { return }
             hasAutoRefreshedForAudio = true
             Task {
-                await feedManager.fetchAll()
+                await feedManager.forceRefresh()
                 // Re-look up the URL — it may now be a direct MP3 from the RSS feed
                 if let url = feedManager.audioURL(tractate: tractate.name, daf: selectedDaf) {
                     audioPlayer.play(url: url, title: "\(tractate.name) \(selectedDaf)")

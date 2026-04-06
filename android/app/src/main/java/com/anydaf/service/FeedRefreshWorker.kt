@@ -12,7 +12,7 @@ class FeedRefreshWorker(
 
     override suspend fun doWork(): Result {
         return try {
-            FeedManager.fetchAll()
+            FeedManager.forceRefresh()
             Result.success()
         } catch (e: Exception) {
             Result.retry()
