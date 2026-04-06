@@ -20,11 +20,22 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Scrape fresh SoundCloud client ID
+        id: scrape_id
+        env:
+          FALLBACK_CLIENT_ID: ${{ secrets.SOUNDCLOUD_CLIENT_ID }}
+        # Scrapes client_id fresh from SoundCloud's JS bundle each run.
+        # Falls back to stored secret if scraping fails.
+        # Output captured in steps.scrape_id.outputs.client_id
+        run: |
+          CLIENT_ID=$(python3 daf-processor/refresh_client_id.py --validate --fallback "$FALLBACK_CLIENT_ID")
+          echo "client_id=$CLIENT_ID" >> $GITHUB_OUTPUT
+
       - name: Sync episodes to Supabase
         env:
           SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-          SOUNDCLOUD_CLIENT_ID: ${{ secrets.SOUNDCLOUD_CLIENT_ID }}
+          SOUNDCLOUD_CLIENT_ID: ${{ steps.scrape_id.outputs.client_id }}
         run: python3 daf-processor/sync_episodes.py
         # Exit codes:
         #   0 = full success
