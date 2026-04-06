@@ -2,7 +2,7 @@ name: Sync episode index to Supabase
 
 on:
   schedule:
-    - cron: "0 5 * * 1"   # Every Monday at 5 am UTC
+    - cron: "0 5 * * *"   # Every day at 5 am UTC
   workflow_dispatch:        # Also allows manual "Run workflow" from GitHub UI
 
 jobs:
