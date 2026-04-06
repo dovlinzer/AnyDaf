@@ -287,6 +287,7 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
             pass
 
     parse_failures = []
+    duplicates = []
     for track in full_tracks:
         title = (track.get("title") or "").strip()
         urn   = (track.get("urn")   or "").strip()
@@ -299,7 +300,10 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
         track_id = urn.split(":")[-1]
         if not track_id:
             continue
-        dafs.setdefault(daf, f"soundcloud-track://{track_id}")
+        if daf in dafs:
+            duplicates.append(title)
+        else:
+            dafs[daf] = f"soundcloud-track://{track_id}"
 
     track_count_reported = data.get("track_count", "?")
     logger.info(
@@ -309,6 +313,8 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
     )
     if parse_failures:
         logger.warning(f"    {tractate}: {len(parse_failures)} unparseable titles: {parse_failures[:5]}")
+    if duplicates:
+        logger.info(f"    {tractate}: {len(duplicates)} duplicate daf(s) skipped: {duplicates[:5]}")
 
     return dafs
 
