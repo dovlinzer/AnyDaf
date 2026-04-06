@@ -24,10 +24,7 @@ jobs:
         env:
           SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
-          SOUNDCLOUD_CLIENT_ID: ${{ secrets.SOUNDCLOUD_CLIENT_ID }}
-        run: python3 daf-processor/sync_episodes.py
+        run: python3 daf-processor/sync_episodes.py --rss-only
         # Exit codes:
         #   0 = full success
         #   1 = hard failure (Supabase write error)
-        #   2 = partial success: RSS synced but SoundCloud client ID is invalid
-        #       → GitHub will mark this run as FAILED and email you automatically
