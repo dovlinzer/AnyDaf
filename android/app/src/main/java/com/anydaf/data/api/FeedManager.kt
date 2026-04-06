@@ -110,14 +110,19 @@ object FeedManager {
      *  Always tries Supabase first; falls back to RSS+playlist only if Supabase is unavailable.
      *  Use this for the "Refresh Episodes" button and auto-retry on playback failure. */
     suspend fun forceRefresh() {
-        val supabaseIndex = fetchFromSupabase()
-        if (supabaseIndex != null && supabaseIndex.isNotEmpty()) {
-            _episodeIndex.value = supabaseIndex
-            saveToCache(supabaseIndex)
-            prefs.edit().putLong(CACHE_TIMESTAMP_KEY, System.currentTimeMillis()).apply()
-            Log.d(TAG, "forceRefresh: loaded ${supabaseIndex.values.sumOf { it.size }} episodes from Supabase")
-        } else {
-            fetchAll()
+        _isLoading.value = true
+        try {
+            val supabaseIndex = fetchFromSupabase()
+            if (supabaseIndex != null && supabaseIndex.isNotEmpty()) {
+                _episodeIndex.value = supabaseIndex
+                saveToCache(supabaseIndex)
+                prefs.edit().putLong(CACHE_TIMESTAMP_KEY, System.currentTimeMillis()).apply()
+                Log.d(TAG, "forceRefresh: loaded ${supabaseIndex.values.sumOf { it.size }} episodes from Supabase")
+            } else {
+                fetchAll()
+            }
+        } finally {
+            _isLoading.value = false
         }
     }
 

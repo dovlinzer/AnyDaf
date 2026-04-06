@@ -78,6 +78,12 @@ class FeedManager: ObservableObject {
     // Always tries Supabase first; falls back to RSS+playlist crawl only if Supabase is unavailable.
     // Use this for the "Refresh Episodes" button and auto-retry on playback failure.
     func forceRefresh() async {
+        isLoading = true
+        loadingProgress = "Loading episodes…"
+        defer {
+            isLoading = false
+            loadingProgress = ""
+        }
         if let supabaseIndex = await fetchFromSupabase(), !supabaseIndex.isEmpty {
             episodeIndex = supabaseIndex
             episodeCount = supabaseIndex.values.reduce(0) { $0 + $1.count }
