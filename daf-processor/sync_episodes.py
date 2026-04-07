@@ -129,10 +129,15 @@ SC_HEADERS = {
 }
 
 
-def parse_title(title: str) -> tuple[Optional[str], Optional[int]]:
+def parse_title(title: str) -> tuple[Optional[str], Optional[float]]:
     """
     Parse 'Tractate Name DafNumber' from an RSS/playlist title.
-    Returns (canonical_tractate, daf) or (None, None) on failure.
+    Returns (canonical_tractate, daf_float) or (None, None) on failure.
+
+    Daf encoding:
+      - "N" or "Na"          → N + 0.0  (amud aleph / a-side)
+      - "Nb" or "Nb - ..."   → N + 0.5  (amud bet / b-side interstitial)
+
     Handles multi-word tractates like 'Bava Kamma 10' and
     trailing suffixes like 'Berakhot 2 (some text)'.
     """
@@ -146,11 +151,18 @@ def parse_title(title: str) -> tuple[Optional[str], Optional[int]]:
     for end in range(len(parts) - 1, 0, -1):
         candidate = " ".join(parts[:end]).lower()
         if candidate in _KNOWN_TRACTATES_LOWER:
-            daf_str = re.match(r"^\d+", parts[end])
-            if daf_str:
-                daf = int(daf_str.group())
-                if daf > 0:
-                    return _KNOWN_TRACTATES_LOWER[candidate], daf
+            daf_token = parts[end]
+            m = re.match(r"^(\d+)(.*)", daf_token)
+            if not m:
+                continue
+            base = int(m.group(1))
+            if base <= 0:
+                continue
+            suffix = m.group(2).lower()
+            # "b" suffix or a range starting at b (e.g. "5b-6a", "5b - 6") → half-daf
+            is_half = suffix.startswith("b")
+            daf_float = float(base) + (0.5 if is_half else 0.0)
+            return _KNOWN_TRACTATES_LOWER[candidate], daf_float
     return None, None
 
 
@@ -163,9 +175,9 @@ _NS = {
     "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
 }
 
-def fetch_rss_episodes() -> dict[str, dict[int, str]]:
+def fetch_rss_episodes() -> dict[str, dict[float, str]]:
     """Walk all RSS pages and return tractate → daf → direct MP3 URL."""
-    index: dict[str, dict[int, str]] = {}
+    index: dict[str, dict[float, str]] = {}
     next_url: Optional[str] = RSS_BASE
     page = 0
 
@@ -243,9 +255,12 @@ def check_client_id() -> bool:
     return True
 
 
-def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
+def fetch_playlist(tractate: str, playlist_id: int) -> dict[float, str]:
     """Fetch all tracks from a SoundCloud playlist → daf → soundcloud-track://ID URL."""
-    dafs: dict[int, str] = {}
+    dafs: dict[float, str] = {}
+    # Track which .0 slots were claimed by an explicit "Na" title vs a plain "N" title,
+    # so a plain "N" can be bumped to N+0.5 when an "Na" arrives later.
+    explicit_a: set[float] = set()  # .0 keys claimed via explicit "a" suffix
     url = f"https://api-v2.soundcloud.com/playlists/{playlist_id}?client_id={SOUNDCLOUD_CLIENT_ID}"
     try:
         resp = requests.get(url, headers=SC_HEADERS, timeout=30)
@@ -294,16 +309,42 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
         if not title or not urn:
             continue
         _, daf = parse_title(title)
-        if not daf:
+        if daf is None:
             parse_failures.append(title)
             continue
         track_id = urn.split(":")[-1]
         if not track_id:
             continue
-        if daf in dafs:
-            duplicates.append(title)
+
+        url = f"soundcloud-track://{track_id}"
+
+        # Detect whether this title had an explicit "a" suffix (vs plain "N")
+        # by checking if the daf token in the title contains "a" before any space/hyphen.
+        daf_part = title.split()[-1] if title.split() else ""
+        has_explicit_a = bool(re.match(r"^\d+a", daf_part, re.IGNORECASE))
+
+        if daf not in dafs:
+            dafs[daf] = url
+            if has_explicit_a:
+                explicit_a.add(daf)
+        elif daf % 1 == 0:  # collision on a .0 slot
+            half = daf + 0.5
+            if has_explicit_a and daf not in explicit_a:
+                # Incoming has explicit "a" → it wins the .0 slot; bump the plain incumbent to .5
+                if half not in dafs:
+                    dafs[half] = dafs[daf]
+                dafs[daf] = url
+                explicit_a.add(daf)
+            elif not has_explicit_a and daf in explicit_a:
+                # Incumbent has explicit "a" → incoming plain "N" is really the b-side
+                if half not in dafs:
+                    dafs[half] = url
+                else:
+                    duplicates.append(title)
+            else:
+                duplicates.append(title)
         else:
-            dafs[daf] = f"soundcloud-track://{track_id}"
+            duplicates.append(title)
 
     track_count_reported = data.get("track_count", "?")
     logger.info(
@@ -319,9 +360,9 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[int, str]:
     return dafs
 
 
-def fetch_playlist_episodes(existing: dict[str, dict[int, str]]) -> dict[str, dict[int, str]]:
+def fetch_playlist_episodes(existing: dict[str, dict[float, str]]) -> dict[str, dict[float, str]]:
     """Fetch all playlists and return gaps not already covered by existing (RSS) URLs."""
-    index: dict[str, dict[int, str]] = {}
+    index: dict[str, dict[float, str]] = {}
     client_ok = check_client_id()
     if not client_ok:
         # Don't fail the whole sync — RSS URLs were already collected and are fine.
@@ -353,7 +394,7 @@ def fetch_playlist_episodes(existing: dict[str, dict[int, str]]) -> dict[str, di
 # ---------------------------------------------------------------------------
 
 def upsert_episodes(
-    index: dict[str, dict[int, str]],
+    index: dict[str, dict[float, str]],
     service_key: str,
     dry_run: bool,
 ) -> tuple[int, int]:
@@ -456,7 +497,7 @@ def main() -> int:
             playlist_index = {}
 
     # Merge: RSS wins over playlist (direct MP3 > soundcloud-track://)
-    merged: dict[str, dict[int, str]] = {}
+    merged: dict[str, dict[float, str]] = {}
     all_tractates = set(rss_index) | set(playlist_index)
     for tractate in all_tractates:
         merged[tractate] = {**playlist_index.get(tractate, {}), **rss_index.get(tractate, {})}
