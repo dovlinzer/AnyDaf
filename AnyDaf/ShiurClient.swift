@@ -4,6 +4,8 @@ import Foundation
 
 struct ShiurSegment: Identifiable, Decodable {
     let title: String
+    /// Short label (≤25 chars) for audio navigation pills; falls back to title if absent.
+    let displayTitle: String
     let timestamp: String   // "MM:SS"
     var microSegments: [ShiurMicroSegment]
 
@@ -18,12 +20,23 @@ struct ShiurSegment: Identifiable, Decodable {
 
     enum CodingKeys: String, CodingKey {
         case title, timestamp
+        case displayTitle = "display_title"
         case microSegments = "micro_segments"
+    }
+
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        title = try c.decode(String.self, forKey: .title)
+        displayTitle = (try? c.decode(String.self, forKey: .displayTitle)) ?? title
+        timestamp = try c.decode(String.self, forKey: .timestamp)
+        microSegments = (try? c.decode([ShiurMicroSegment].self, forKey: .microSegments)) ?? []
     }
 }
 
 struct ShiurMicroSegment: Identifiable, Decodable {
     let title: String
+    /// Short label (≤25 chars) for audio chapter markers; falls back to title if absent.
+    let displayTitle: String
     let timestamp: String
 
     var id: String { timestamp }
@@ -32,6 +45,18 @@ struct ShiurMicroSegment: Identifiable, Decodable {
         let parts = timestamp.split(separator: ":").compactMap { Double($0) }
         guard parts.count == 2 else { return 0 }
         return parts[0] * 60 + parts[1]
+    }
+
+    enum CodingKeys: String, CodingKey {
+        case title, timestamp
+        case displayTitle = "display_title"
+    }
+
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        title = try c.decode(String.self, forKey: .title)
+        displayTitle = (try? c.decode(String.self, forKey: .displayTitle)) ?? title
+        timestamp = try c.decode(String.self, forKey: .timestamp)
     }
 }
 
@@ -60,9 +85,9 @@ class ShiurClient: ObservableObject {
     // Anon key — read-only, safe to embed
     private let anonKey = Secrets.supabaseAnonKey
 
-    private var loadedKey: String? = nil   // "Tractate-daf" — avoids redundant fetches
+    private var loadedKey: String? = nil   // "Tractate-daf_float" — avoids redundant fetches
 
-    func loadSegments(tractate: String, daf: Int) async {
+    func loadSegments(tractate: String, daf: Double) async {
         let key = "\(tractate)-\(daf)"
         guard key != loadedKey else { return }
         segments = []

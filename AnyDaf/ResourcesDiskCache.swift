@@ -26,12 +26,12 @@ struct ResourcesDiskCache {
 
     // MARK: - Public API
 
-    /// Reads cached articles for the given tractate.
+    /// Reads cached articles for the given tractate and source.
     /// Returns `nil` if no entry exists or the entry has expired.
     /// Articles are stored with `.tractateWide(daf:)` so the daf number is preserved;
     /// callers should run `categorize(articles:forDaf:)` to split into sections.
-    static func load(tractate: String) -> [YCTArticle]? {
-        guard let url = cacheURL(tractate: tractate),
+    static func load(tractate: String, source: YCTSource = .library) -> [YCTArticle]? {
+        guard let url = cacheURL(tractate: tractate, source: source),
               let data = try? Data(contentsOf: url),
               let envelope = try? JSONDecoder().decode(CacheEnvelope.self, from: data)
         else { return nil }
@@ -46,8 +46,8 @@ struct ResourcesDiskCache {
 
     /// Writes a flat list of tractate articles to disk.
     /// Articles should be stored with `.tractateWide(daf:)` so the daf is recoverable.
-    static func save(tractate: String, articles: [YCTArticle]) {
-        guard let url = cacheURL(tractate: tractate) else { return }
+    static func save(tractate: String, source: YCTSource = .library, articles: [YCTArticle]) {
+        guard let url = cacheURL(tractate: tractate, source: source) else { return }
         let envelope = CacheEnvelope(savedAt: Date(), articles: articles)
         guard let data = try? JSONEncoder().encode(envelope) else { return }
         try? data.write(to: url, options: .atomic)
@@ -77,13 +77,13 @@ struct ResourcesDiskCache {
             .appendingPathComponent("YCTLibrary", isDirectory: true)
     }
 
-    private static func cacheURL(tractate: String) -> URL? {
+    private static func cacheURL(tractate: String, source: YCTSource) -> URL? {
         guard let dir = cacheDirectory() else { return nil }
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
         let safe = tractate
             .replacingOccurrences(of: " ", with: "_")
             .replacingOccurrences(of: "/", with: "-")
             .replacingOccurrences(of: "'", with: "")
-        return dir.appendingPathComponent("yct_\(safe).json")
+        return dir.appendingPathComponent("yct_\(source.rawValue)_v2_\(safe).json")
     }
 }

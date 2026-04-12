@@ -32,7 +32,7 @@ object FeedManager {
     private const val FEED_BASE = "https://feeds.soundcloud.com/users/soundcloud:users:958779193/sounds.rss"
     var SOUNDCLOUD_CLIENT_ID = "tkIWLs4MIowq7bCXP80TOwx6DnDa7UPc"
     private const val SUPABASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co"
-    private const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8"
+    private val SUPABASE_ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
     private const val CACHE_FILE = "episode_index.json"
     private const val CACHE_TIMESTAMP_KEY = "episodeIndexTimestamp"
     private const val CACHE_TTL_MS = 7L * 24 * 60 * 60 * 1000
@@ -90,8 +90,9 @@ object FeedManager {
         File(AnyDafApp.context.filesDir, CACHE_FILE)
 
     // tractate → daf → "soundcloud-track://ID" or direct MP3 URL
-    private val _episodeIndex = MutableStateFlow<Map<String, Map<Int, String>>>(emptyMap())
-    val episodeIndex: StateFlow<Map<String, Map<Int, String>>> = _episodeIndex.asStateFlow()
+    // Daf keys: N.0 = amud a (or full), N.5 = amud b / interstitial
+    private val _episodeIndex = MutableStateFlow<Map<String, Map<Double, String>>>(emptyMap())
+    val episodeIndex: StateFlow<Map<String, Map<Double, String>>> = _episodeIndex.asStateFlow()
 
     private val _isLoading = MutableStateFlow(false)
     val isLoading: StateFlow<Boolean> = _isLoading.asStateFlow()
@@ -103,8 +104,12 @@ object FeedManager {
     }
 
     /** Returns the audio URL string for a given tractate+daf, or null if not in the index. */
-    fun audioUrl(tractate: String, daf: Int): String? =
+    fun audioUrl(tractate: String, daf: Double): String? =
         _episodeIndex.value[tractate]?.get(daf)
+
+    /** Human-readable label for a daf Double key. 5.0 → "5", 5.5 → "5b" */
+    fun dafLabel(daf: Double): String =
+        if (daf % 1.0 == 0.0) daf.toInt().toString() else "${daf.toInt()}b"
 
     /** Force a fresh fetch regardless of cache age.
      *  Always tries Supabase first; falls back to RSS+playlist only if Supabase is unavailable.
@@ -149,8 +154,8 @@ object FeedManager {
     /** Fetch the full episode index from Supabase episode_audio table.
      *  Paginates in batches of 1000 to work around PostgREST's server-side max-rows cap.
      *  Returns null if the request fails (caller should fall back to RSS crawl). */
-    private suspend fun fetchFromSupabase(): Map<String, Map<Int, String>>? = withContext(Dispatchers.IO) {
-        val index = mutableMapOf<String, MutableMap<Int, String>>()
+    private suspend fun fetchFromSupabase(): Map<String, Map<Double, String>>? = withContext(Dispatchers.IO) {
+        val index = mutableMapOf<String, MutableMap<Double, String>>()
         val batchSize = 1000
         var offset = 0
 
@@ -182,7 +187,7 @@ object FeedManager {
                 for (i in 0 until arr.length()) {
                     val row      = arr.getJSONObject(i)
                     val tractate = row.optString("tractate").takeIf { it.isNotEmpty() } ?: continue
-                    val daf      = row.optInt("daf", -1).takeIf { it > 0 } ?: continue
+                    val daf      = row.optDouble("daf", -1.0).takeIf { it > 0 } ?: continue
                     val audioUrl = row.optString("audio_url").takeIf { it.isNotEmpty() } ?: continue
                     index.getOrPut(tractate) { mutableMapOf() }[daf] = audioUrl
                 }
@@ -227,7 +232,7 @@ object FeedManager {
     /** Force a full re-fetch from RSS + SoundCloud playlists. */
     suspend fun fetchAll() = withContext(Dispatchers.IO) {
         _isLoading.value = true
-        val index = mutableMapOf<String, MutableMap<Int, String>>()
+        val index = mutableMapOf<String, MutableMap<Double, String>>()
 
         // ── Phase 1: RSS feed ─────────────────────────────────────────────
         var nextUrl: String? = FEED_BASE
@@ -246,7 +251,7 @@ object FeedManager {
             parser.parse()
             for (item in parser.items) {
                 val tractate = item.tractate ?: continue
-                val daf = item.daf ?: continue
+                val daf: Double = item.daf ?: continue
                 if (item.audioUrl.isEmpty()) continue
                 index.getOrPut(tractate) { mutableMapOf() }.putIfAbsent(daf, item.audioUrl)
             }
@@ -277,8 +282,8 @@ object FeedManager {
 
     // ── SoundCloud playlist fetch ─────────────────────────────────────────
 
-    private suspend fun fetchPlaylist(tractate: String, playlistId: Long): Pair<String, Map<Int, String>> {
-        val dafs = mutableMapOf<Int, String>()
+    private suspend fun fetchPlaylist(tractate: String, playlistId: Long): Pair<String, Map<Double, String>> {
+        val dafs = mutableMapOf<Double, String>()
         val url = "https://api-v2.soundcloud.com/playlists/$playlistId?client_id=$SOUNDCLOUD_CLIENT_ID"
         val body = try {
             val req = Request.Builder().url(url).build()
@@ -320,8 +325,13 @@ object FeedManager {
             val cleaned = title.replace(Regex("""\s*\(\d+\)\s*$"""), "").trim()
             val parts = cleaned.split(" ")
             if (parts.size < 2) continue
-            val daf = parts.last().takeWhile { it.isDigit() }.toIntOrNull() ?: continue
-            if (daf <= 0) continue
+            val dafToken = parts.last()
+            val digits = dafToken.takeWhile { it.isDigit() }
+            val base = digits.toIntOrNull() ?: continue
+            if (base <= 0) continue
+            val afterDigits = dafToken.drop(digits.length).lowercase()
+            val isHalf = afterDigits.startsWith("b")
+            val daf = base.toDouble() + if (isHalf) 0.5 else 0.0
             val trackId = urn.split(":").lastOrNull()?.takeIf { it.isNotEmpty() } ?: continue
             dafs.putIfAbsent(daf, "soundcloud-track://$trackId")
         }
@@ -336,14 +346,14 @@ object FeedManager {
         if (!file.exists()) return
         try {
             val root = JSONObject(file.readText())
-            val index = mutableMapOf<String, MutableMap<Int, String>>()
+            val index = mutableMapOf<String, MutableMap<Double, String>>()
             for (tractate in root.keys()) {
                 // Migrate stale "Middos" key from before the rename to "Middot"
                 val canonicalTractate = if (tractate == "Middos") "Middot" else tractate
                 val dafObj = root.getJSONObject(tractate)
                 val existing = index.getOrPut(canonicalTractate) { mutableMapOf() }
                 for (key in dafObj.keys()) {
-                    val dafNum = key.toIntOrNull() ?: continue
+                    val dafNum = key.toDoubleOrNull() ?: continue
                     existing.putIfAbsent(dafNum, dafObj.getString(key))
                 }
             }
@@ -354,7 +364,7 @@ object FeedManager {
         }
     }
 
-    private fun saveToCache(index: Map<String, Map<Int, String>>) {
+    private fun saveToCache(index: Map<String, Map<Double, String>>) {
         try {
             val root = JSONObject()
             for ((tractate, dafs) in index) {

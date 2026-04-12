@@ -17,6 +17,8 @@ import java.net.URLEncoder
 
 data class ShiurMicroSegment(
     val title: String,
+    /** Short label (≤25 chars) for audio chapter markers; falls back to title if absent in JSON. */
+    val displayTitle: String,
     val timestamp: String   // "MM:SS"
 ) {
     val seconds: Double get() = parseShiurTimestamp(timestamp)
@@ -24,6 +26,8 @@ data class ShiurMicroSegment(
 
 data class ShiurSegment(
     val title: String,
+    /** Short label (≤25 chars) for audio navigation pills; falls back to title if absent in JSON. */
+    val displayTitle: String,
     val timestamp: String,  // "MM:SS"
     val microSegments: List<ShiurMicroSegment>
 ) {
@@ -44,7 +48,7 @@ private fun parseShiurTimestamp(ts: String): Double {
 object ShiurClient {
 
     private const val SUPABASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co"
-    private const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8"
+    private val SUPABASE_ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
 
     private val scope = CoroutineScope(Dispatchers.IO + SupervisorJob())
     private val httpClient = OkHttpClient()
@@ -63,9 +67,9 @@ object ShiurClient {
     private val _shiurFinal = MutableStateFlow<String?>(null)
     val shiurFinal: StateFlow<String?> = _shiurFinal.asStateFlow()
 
-    private var loadedKey: String? = null   // "Tractate-daf" — avoids redundant fetches
+    private var loadedKey: String? = null   // "Tractate-daf_float" — avoids redundant fetches
 
-    fun load(tractate: String, daf: Int) {
+    fun load(tractate: String, daf: Double) {
         val key = "$tractate-$daf"
         if (key == loadedKey) return
         _segments.value = emptyList()
@@ -115,12 +119,14 @@ object ShiurClient {
                                     val m = microsArr.getJSONObject(j)
                                     ShiurMicroSegment(
                                         title = m.optString("title"),
+                                        displayTitle = m.optString("display_title").ifEmpty { m.optString("title") },
                                         timestamp = m.optString("timestamp")
                                     )
                                 }
                             } else emptyList()
                             ShiurSegment(
                                 title = macro.optString("title"),
+                                displayTitle = macro.optString("display_title").ifEmpty { macro.optString("title") },
                                 timestamp = macro.optString("timestamp"),
                                 microSegments = micros
                             )

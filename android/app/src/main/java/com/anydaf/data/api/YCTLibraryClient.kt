@@ -2,7 +2,7 @@ package com.anydaf.data.api
 
 import com.anydaf.model.ResourceMatchType
 import com.anydaf.model.YCTArticle
-import com.anydaf.model.YCTReferenceTerm
+import com.anydaf.model.YCTSource
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import okhttp3.OkHttpClient
@@ -12,36 +12,78 @@ import org.json.JSONObject
 import java.text.SimpleDateFormat
 import java.util.Locale
 
-object YCTLibraryClient {
+class YCTLibraryClient(
+    private val baseURL: String,
+    val source: YCTSource,
+    /** Term ID for the root "Talmud" node. null = tractate terms are at root level. */
+    private val talmudTermID: Int?,
+    /** When true, articles tagged directly on the tractate term are also fetched (daf = 0). */
+    val fetchesTractateLevel: Boolean
+) {
 
-    private val httpClient = OkHttpClient()
-    private const val BASE_URL = "https://library.yctorah.org/wp-json/wp/v2"
-    private const val TALMUD_TERM_ID = 1899
+    companion object {
+        private val httpClient = OkHttpClient()
 
-    private val anyDafToYCT = mapOf(
-        "Eiruvin" to "Eruvin",
-        "Ta\u2019anit" to "Taanit",
-        "Hullin" to "Chullin",
-        "Middos" to "Middot",
-        "Moed Katan" to "Moed Katan",
-        "Beitzah" to "Beitza",
-        "Zevachim" to "Zevahim",
-        "Shevuot" to "Shevu'ot",
-        "Rosh Hashanah" to "Rosh HaShanah",
-        "Bekhorot" to "Bekhorot",
-        "Avodah Zarah" to "Avoda Zarah",
-        "Bava Kamma" to "Bava Kamma",
-    )
+        /** Client for library.yctorah.org — tractate terms live under the Talmud root (ID 1899). */
+        val library = YCTLibraryClient(
+            baseURL = "https://library.yctorah.org/wp-json/wp/v2",
+            source = YCTSource.LIBRARY,
+            talmudTermID = 1899,
+            fetchesTractateLevel = false
+        )
 
-    private val nonEnglishSuffixes = listOf("-he", "-fr", "-sp", "-ar", "-ru", "-de", "-pt")
+        /** Client for psak.yctorah.org — tractate terms are at root level. */
+        val psak = YCTLibraryClient(
+            baseURL = "https://psak.yctorah.org/wp-json/wp/v2",
+            source = YCTSource.PSAK,
+            talmudTermID = null,
+            fetchesTractateLevel = true
+        )
 
-    private fun yctName(tractate: String) = anyDafToYCT[tractate] ?: tractate
+        private val anyDafToYCT = mapOf(
+            "Eiruvin" to "Eruvin",
+            "Ta\u2019anit" to "Taanit",
+            "Hullin" to "Chullin",
+            "Middos" to "Middot",
+            "Moed Katan" to "Moed Katan",
+            "Beitzah" to "Beitza",
+            "Zevachim" to "Zevahim",
+            "Shevuot" to "Shevu'ot",
+            "Rosh Hashanah" to "Rosh HaShanah",
+            "Bekhorot" to "Bekhorot",
+            "Avodah Zarah" to "Avoda Zarah",
+            "Bava Kamma" to "Bava Kamma",
+        )
 
-    // MARK: - Term Lookup
+        private val nonEnglishSuffixes = listOf("-he", "-fr", "-sp", "-ar", "-ru", "-de", "-pt")
 
-    suspend fun fetchTractateTermID(tractate: String): Int? = withContext(Dispatchers.IO) {
+        private fun yctName(tractate: String) = anyDafToYCT[tractate] ?: tractate
+    }
+
+    // Per-instance term ID caches
+    private val tractateTermCache = mutableMapOf<String, Int>()
+    private val dafTermCache = mutableMapOf<String, Map<Int, Int>>()
+
+    // MARK: - Term Lookup (with in-session caching)
+
+    suspend fun resolveTractateTermID(tractate: String): Int? {
+        tractateTermCache[tractate]?.let { return it }
+        val id = fetchTractateTermID(tractate) ?: return null
+        tractateTermCache[tractate] = id
+        return id
+    }
+
+    suspend fun resolveDafTermIDs(tractate: String, tractateTermID: Int): Map<Int, Int> {
+        dafTermCache[tractate]?.let { return it }
+        val map = fetchDafTermIDs(tractateTermID)
+        dafTermCache[tractate] = map
+        return map
+    }
+
+    private suspend fun fetchTractateTermID(tractate: String): Int? = withContext(Dispatchers.IO) {
         val name = yctName(tractate)
-        val url = "$BASE_URL/reference?search=${encode(name)}&parent=$TALMUD_TERM_ID&per_page=10"
+        val parentParam = talmudTermID?.let { "&parent=$it" } ?: ""
+        val url = "$baseURL/reference?search=${encode(name)}$parentParam&per_page=10"
         val body = fetchString(url) ?: return@withContext null
         val arr = JSONArray(body)
         for (i in 0 until arr.length()) {
@@ -54,8 +96,8 @@ object YCTLibraryClient {
     }
 
     /** Returns a map of daf number → term ID for all daf-level children of a tractate term. */
-    suspend fun fetchDafTermIDs(tractateTermID: Int): Map<Int, Int> = withContext(Dispatchers.IO) {
-        val url = "$BASE_URL/reference?parent=$tractateTermID&per_page=100"
+    private suspend fun fetchDafTermIDs(tractateTermID: Int): Map<Int, Int> = withContext(Dispatchers.IO) {
+        val url = "$baseURL/reference?parent=$tractateTermID&per_page=100"
         val body = fetchString(url) ?: return@withContext emptyMap()
         val arr = JSONArray(body)
         val result = mutableMapOf<Int, Int>()
@@ -72,21 +114,12 @@ object YCTLibraryClient {
 
     // MARK: - Post Fetching
 
-    /**
-     * Fetches articles for the given term IDs.
-     * [exactTermIDs] are matched to current daf; [nearbyTermIDs] map to nearby dafs.
-     * English-only filter applied via slug suffix check.
-     */
-    suspend fun fetchArticles(
-        exactTermIDs: List<Int>,
-        nearbyTermIDs: Map<Int, Int>,  // termID → daf number
-        tractateTermID: Int? = null
-    ): List<YCTArticle> = withContext(Dispatchers.IO) {
-        val allTermIDs = (exactTermIDs + nearbyTermIDs.keys + listOfNotNull(tractateTermID)).distinct()
-        if (allTermIDs.isEmpty()) return@withContext emptyList()
+    /** Fetches articles tagged with any of the given term IDs. English-only filter applied. */
+    suspend fun fetchArticles(termIDs: List<Int>): List<YCTArticle> = withContext(Dispatchers.IO) {
+        if (termIDs.isEmpty()) return@withContext emptyList()
 
-        val ids = allTermIDs.joinToString(",")
-        val url = "$BASE_URL/posts?reference=$ids&per_page=20&_fields=id,title,excerpt,date,link,slug"
+        val ids = termIDs.joinToString(",")
+        val url = "$baseURL/posts?reference=$ids&per_page=20&_fields=id,title,excerpt,content,date,link,slug"
         val body = fetchString(url) ?: return@withContext emptyList()
         val arr = JSONArray(body)
 
@@ -100,11 +133,13 @@ object YCTLibraryClient {
             if (nonEnglishSuffixes.any { slug.endsWith(it) }) continue
 
             val title = stripHtml(post.getJSONObject("title").getString("rendered"))
-            val excerpt = stripHtml(post.getJSONObject("excerpt").getString("rendered"))
+            var excerpt = stripHtml(post.getJSONObject("excerpt").getString("rendered"))
+            if (excerpt.isEmpty()) {
+                val full = stripHtml(post.optJSONObject("content")?.getString("rendered") ?: "")
+                excerpt = if (full.length > 200) full.take(200).trimEnd() + "…" else full
+            }
             val date = formatDate(post.optString("date", ""))
             val link = post.getString("link")
-
-            val matchType = resolveMatchType(id, exactTermIDs, nearbyTermIDs, tractateTermID)
 
             articles.add(YCTArticle(
                 id = id,
@@ -113,45 +148,24 @@ object YCTLibraryClient {
                 date = date,
                 link = link,
                 authorName = "",
-                matchType = matchType
+                matchType = ResourceMatchType.Exact(0),
+                source = source
             ))
         }
 
-        // Sort: exact first, nearby second, tractate-wide last
         articles.sortedBy { matchRank(it.matchType) }
     }
 
     // MARK: - Article Content
 
     suspend fun fetchArticleContent(id: Int): String = withContext(Dispatchers.IO) {
-        val url = "$BASE_URL/posts/$id?_fields=id,content"
+        val url = "$baseURL/posts/$id?_fields=id,content"
         val body = fetchString(url) ?: return@withContext ""
         val json = JSONObject(body)
         json.getJSONObject("content").getString("rendered")
     }
 
     // MARK: - Private Helpers
-
-    private fun resolveMatchType(
-        postID: Int,
-        exactTermIDs: List<Int>,
-        nearbyTermIDs: Map<Int, Int>,
-        tractateTermID: Int?
-    ): ResourceMatchType {
-        // Since we can't cheaply determine which term matched a post without a separate API call,
-        // ResourcesViewModel passes exact vs nearby term IDs separately. Here we default to
-        // exact if any exact term was requested, nearby otherwise, tractate-wide as fallback.
-        // Note: this return value is overridden by fetchAndTag's .copy(matchType = …) call,
-        // so the daf placeholder of 0 here is never surfaced in the UI.
-        return when {
-            exactTermIDs.isNotEmpty() -> ResourceMatchType.Exact(0)
-            nearbyTermIDs.isNotEmpty() -> {
-                val daf = nearbyTermIDs.values.firstOrNull() ?: 0
-                ResourceMatchType.Nearby(daf)
-            }
-            else -> ResourceMatchType.TractateWide(0)
-        }
-    }
 
     private fun matchRank(type: ResourceMatchType) = when (type) {
         is ResourceMatchType.Exact -> 0
@@ -171,7 +185,6 @@ object YCTLibraryClient {
     private fun encode(value: String) = java.net.URLEncoder.encode(value, "UTF-8")
 
     private fun stripHtml(html: String): String {
-        // Html.fromHtml handles all named and numeric HTML entities and strips tags
         val spanned = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
             android.text.Html.fromHtml(html, android.text.Html.FROM_HTML_MODE_LEGACY)
         } else {

@@ -11,7 +11,7 @@ struct ContentView: View {
     private let pageManager = TalmudPageManager.shared
 
     @AppStorage("lastTractateIndex") private var selectedTractateIndex = 0
-    @AppStorage("lastDaf") private var selectedDaf: Int = 2
+    @AppStorage("lastDaf") private var selectedDaf: Double = 2.0
     @AppStorage("lastAmud") private var selectedSide: Int = 0
     @State private var imageDaf: Int = 2
     @State private var imageSide: Int = 0   // actual displayed amud; decoupled from picker
@@ -40,6 +40,19 @@ struct ContentView: View {
         feedManager.audioURL(tractate: tractate.name, daf: selectedDaf)
     }
 
+    /// Integer range for the current tractate augmented with half-daf entries from the episode index.
+    var dafPickerItems: [Double] {
+        var items: [Double] = []
+        for n in tractate.dafRange {
+            items.append(Double(n))
+            let half = Double(n) + 0.5
+            if feedManager.episodeIndex[tractate.name]?[half] != nil {
+                items.append(half)
+            }
+        }
+        return items
+    }
+
     var body: some View {
         NavigationStack {
             VStack(spacing: 0) {
@@ -61,8 +74,8 @@ struct ContentView: View {
 
                     // Daf picker
                     Picker("Daf", selection: $selectedDaf) {
-                        ForEach(tractate.dafRange, id: \.self) { daf in
-                            Text("\(daf)").tag(daf)
+                        ForEach(dafPickerItems, id: \.self) { daf in
+                            Text(FeedManager.dafLabel(daf)).tag(daf)
                         }
                     }
                     .pickerStyle(.wheel)
@@ -82,7 +95,7 @@ struct ContentView: View {
                     if suppressTractateReset {
                         suppressTractateReset = false
                     } else {
-                        selectedDaf = tractate.startDaf
+                        selectedDaf = Double(tractate.startDaf)
                         imageDaf = tractate.startDaf
                         imageSide = tractate.startAmud
                         selectedSide = tractate.startAmud
@@ -90,8 +103,14 @@ struct ContentView: View {
                     }
                 }
                 .onChange(of: selectedDaf) { _, newVal in
-                    imageDaf = newVal
-                    let side = (newVal == tractate.startDaf) ? tractate.startAmud : 0
+                    imageDaf = Int(newVal)
+                    let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
+                    let side: Int
+                    if isHalf {
+                        side = 1  // half-daf entries are always b-side
+                    } else {
+                        side = (newVal == Double(tractate.startDaf)) ? tractate.startAmud : 0
+                    }
                     imageSide = side
                     selectedSide = side
                     // Don't stop audio — if playing/paused, keep it going; play button will load the new daf when stopped.
@@ -193,7 +212,7 @@ struct ContentView: View {
                                         hasAutoRefreshedForAudio = false
                                         audioPlayer.play(
                                             url: url,
-                                            title: "\(tractate.name) \(selectedDaf)")
+                                            title: "\(tractate.name) \(FeedManager.dafLabel(selectedDaf))")
                                     }
                                 } label: {
                                     Image(systemName: "play.circle.fill")
@@ -317,6 +336,7 @@ struct ContentView: View {
                                             .font(.system(size: 38))
                                             .foregroundStyle(appFg)
                                     }
+                                    .padding(.leading, 14)
                                 }
 
                                 Spacer()
@@ -446,7 +466,7 @@ struct ContentView: View {
                         suppressTractateReset = true
                         selectedTractateIndex = bookmark.tractateIndex
                     }
-                    selectedDaf = bookmark.daf
+                    selectedDaf = Double(bookmark.daf)
                     imageDaf = bookmark.daf
                     imageSide = bookmark.amud
                     selectedSide = bookmark.amud
@@ -454,7 +474,7 @@ struct ContentView: View {
             )
         }
         .onAppear {
-            imageDaf = selectedDaf
+            imageDaf = Int(selectedDaf)
             // Read-Aloud (commented out — re-enable when ready)
 //            readAloudManager.studyManager = studyManager
 //            readAloudManager.audioPlayer  = audioPlayer
@@ -489,7 +509,7 @@ struct ContentView: View {
                 await feedManager.forceRefresh()
                 // Re-look up the URL — it may now be a direct MP3 from the RSS feed
                 if let url = feedManager.audioURL(tractate: tractate.name, daf: selectedDaf) {
-                    audioPlayer.play(url: url, title: "\(tractate.name) \(selectedDaf)")
+                    audioPlayer.play(url: url, title: "\(tractate.name) \(FeedManager.dafLabel(selectedDaf))")
                 }
             }
         }
@@ -508,7 +528,7 @@ struct ContentView: View {
                 suppressTractateReset = true
                 selectedTractateIndex = dafYomi.tractateIndex
             }
-            selectedDaf = dafYomi.daf
+            selectedDaf = Double(dafYomi.daf)
             imageDaf = dafYomi.daf
             imageSide = 0
             selectedSide = 0
@@ -531,7 +551,7 @@ struct ContentView: View {
                         Button {
                             audioPlayer.seek(to: seg.seconds / audioPlayer.duration)
                         } label: {
-                            Text(seg.title)
+                            Text(seg.displayTitle)
                                 .font(.caption2)
                                 .lineLimit(1)
                                 .padding(.horizontal, 8)
@@ -564,7 +584,7 @@ struct ContentView: View {
                 withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
                 Task {
                     await studyManager.startSession(
-                        tractate: tractate.name, daf: selectedDaf, mode: .facts, quizMode: quizMode)
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
                 }
             } label: {
                 Image(systemName: "book.circle.fill")

@@ -7,6 +7,8 @@ import com.anydaf.data.ResourcesDiskCache
 import com.anydaf.data.api.YCTLibraryClient
 import com.anydaf.model.ResourceMatchType
 import com.anydaf.model.YCTArticle
+import com.anydaf.model.YCTSource
+import kotlinx.coroutines.async
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
@@ -51,11 +53,12 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
 
     // MARK: - Cache
 
-    /** In-memory tractate-level article cache. Keyed by tractate name. */
+    /** In-memory tractate-level article cache. Keyed by "<source>:<tractate>". */
     private val allArticlesCache = mutableMapOf<String, List<YCTArticle>>()
 
-    private val tractateTermCache = mutableMapOf<String, Int>()
-    private val dafTermCache = mutableMapOf<String, Map<Int, Int>>()
+    private val libraryClient = YCTLibraryClient.library
+    private val psakClient    = YCTLibraryClient.psak
+
     private var lastLoaded: Pair<String, Int>? = null
 
     // MARK: - Public: article list
@@ -65,21 +68,29 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         lastLoaded = tractate to daf
 
         viewModelScope.launch {
-            // Step 1: re-categorise from in-memory tractate cache (instant, no I/O)
-            allArticlesCache[tractate]?.let { all ->
-                categorize(all, daf)
+            val libraryKey = cacheKey(YCTSource.LIBRARY, tractate)
+            val psakKey    = cacheKey(YCTSource.PSAK, tractate)
+
+            // Step 1: re-categorise from in-memory cache (instant, no I/O)
+            val memLib  = allArticlesCache[libraryKey]
+            val memPsak = allArticlesCache[psakKey]
+            if (memLib != null && memPsak != null) {
+                categorize(memLib + memPsak, daf)
                 return@launch
             }
 
             // Step 2: try disk cache
-            ResourcesDiskCache.load(context, tractate)?.let { all ->
-                val clean = mergeAndDeduplicate(all)
-                allArticlesCache[tractate] = clean
-                categorize(clean, daf)
+            val cachedLib  = memLib  ?: ResourcesDiskCache.load(context, tractate, YCTSource.LIBRARY)
+            val cachedPsak = memPsak ?: ResourcesDiskCache.load(context, tractate, YCTSource.PSAK)
+
+            if (cachedLib != null && cachedPsak != null) {
+                allArticlesCache[libraryKey] = cachedLib
+                allArticlesCache[psakKey]    = cachedPsak
+                categorize(cachedLib + cachedPsak, daf)
                 return@launch
             }
 
-            // Step 3: cache miss — fetch every daf in the tractate from the network
+            // Step 3: cache miss — fetch from network (both sources in parallel)
             _isLoading.value = true
             _error.value = null
             _exactArticles.value = emptyList()
@@ -87,25 +98,30 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
             _tractateArticles.value = emptyList()
 
             try {
-                val tractateTermID = resolveTractateTermID(tractate) ?: run {
-                    _isLoading.value = false
-                    return@launch
+                val libraryDeferred = async { fetchAllFromClient(libraryClient, tractate, cachedLib) }
+                val psakDeferred    = async { fetchAllFromClient(psakClient,    tractate, cachedPsak) }
+
+                val lib  = libraryDeferred.await()
+                val psak = psakDeferred.await()
+
+                if (cachedLib == null) {
+                    allArticlesCache[libraryKey] = lib
+                    ResourcesDiskCache.save(context, tractate, YCTSource.LIBRARY, lib)
+                } else {
+                    allArticlesCache[libraryKey] = cachedLib
+                }
+                if (cachedPsak == null) {
+                    allArticlesCache[psakKey] = psak
+                    ResourcesDiskCache.save(context, tractate, YCTSource.PSAK, psak)
+                } else {
+                    allArticlesCache[psakKey] = cachedPsak
                 }
 
-                val dafTermMap = resolveDafTermIDs(tractate, tractateTermID)
-
-                val all = mutableListOf<YCTArticle>()
-                for (dafNum in dafTermMap.keys.sorted()) {
-                    val termID = dafTermMap[dafNum] ?: continue
-                    all += fetchAndTag(listOf(termID), ResourceMatchType.TractateWide(dafNum))
-                }
-
-                val merged = mergeAndDeduplicate(all)
-
-                // Step 4: persist and categorise
-                allArticlesCache[tractate] = merged
-                ResourcesDiskCache.save(context, tractate, merged)
-                categorize(merged, daf)
+                categorize(
+                    (allArticlesCache[libraryKey] ?: emptyList()) +
+                    (allArticlesCache[psakKey]    ?: emptyList()),
+                    daf
+                )
 
             } catch (e: Exception) {
                 _error.value = e.message ?: "Unknown error"
@@ -122,8 +138,7 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         _isLoading.value = false
         _error.value = null
         lastLoaded = null
-        // allArticlesCache is intentionally preserved: if the user returns to a
-        // previously visited tractate the articles are available instantly.
+        // allArticlesCache is intentionally preserved.
     }
 
     // MARK: - Public: article reader
@@ -134,7 +149,10 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         _isLoadingArticle.value = true
         viewModelScope.launch {
             try {
-                _articleHtml.value = YCTLibraryClient.fetchArticleContent(article.id)
+                _articleHtml.value = when (article.source) {
+                    YCTSource.LIBRARY -> libraryClient.fetchArticleContent(article.id)
+                    YCTSource.PSAK    -> psakClient.fetchArticleContent(article.id)
+                }
             } catch (e: Exception) {
                 _articleHtml.value = "<p>Failed to load article.</p>"
             } finally {
@@ -149,15 +167,8 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         _isLoadingArticle.value = false
     }
 
-    suspend fun fetchArticleContent(id: Int): String =
-        YCTLibraryClient.fetchArticleContent(id)
-
     // MARK: - Categorisation
 
-    /**
-     * Splits a flat tractate article list into exact / nearby / tractate-wide
-     * sections based on [currentDaf], then publishes the results.
-     */
     private fun categorize(articles: List<YCTArticle>, currentDaf: Int) {
         val exact    = mutableListOf<YCTArticle>()
         val nearby   = mutableListOf<YCTArticle>()
@@ -166,14 +177,27 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         for (article in articles) {
             val d = article.matchType.referencedDaf
             when {
-                d == currentDaf        -> exact.add(article.copy(matchType = ResourceMatchType.Exact(d)))
+                // daf 0 is the sentinel for psak articles tagged at the tractate level
+                d == 0              -> tractate.add(article.copy(matchType = ResourceMatchType.TractateWide(0)))
+                d == currentDaf     -> exact.add(article.copy(matchType = ResourceMatchType.Exact(d)))
                 abs(d - currentDaf) <= 2 -> nearby.add(article.copy(matchType = ResourceMatchType.Nearby(d)))
-                else                   -> tractate.add(article.copy(matchType = ResourceMatchType.TractateWide(d)))
+                else                -> tractate.add(article.copy(matchType = ResourceMatchType.TractateWide(d)))
             }
         }
 
-        // Sort nearby by proximity so ±1 appears before ±2
-        nearby.sortBy { abs(it.matchType.referencedDaf - currentDaf) }
+        // Sort nearby by ascending daf number
+        nearby.sortBy { it.matchType.referencedDaf }
+
+        // Sort tractate-wide by daf number; daf 0 (tractate-level psak) goes last
+        tractate.sortWith(Comparator { a, b ->
+            val da = a.matchType.referencedDaf
+            val db = b.matchType.referencedDaf
+            when {
+                da == 0 -> 1
+                db == 0 -> -1
+                else    -> da - db
+            }
+        })
 
         _exactArticles.value    = exact
         _nearbyArticles.value   = nearby
@@ -182,26 +206,42 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
 
     // MARK: - Private
 
-    private suspend fun resolveTractateTermID(tractate: String): Int? {
-        tractateTermCache[tractate]?.let { return it }
-        val id = YCTLibraryClient.fetchTractateTermID(tractate) ?: return null
-        tractateTermCache[tractate] = id
-        return id
-    }
+    private fun cacheKey(source: YCTSource, tractate: String) = "${source.name}:$tractate"
 
-    private suspend fun resolveDafTermIDs(tractate: String, tractateTermID: Int): Map<Int, Int> {
-        dafTermCache[tractate]?.let { return it }
-        val map = YCTLibraryClient.fetchDafTermIDs(tractateTermID)
-        dafTermCache[tractate] = map
-        return map
+    /**
+     * Fetches all articles for a tractate from a single client, or returns the
+     * cached slice when available.
+     */
+    private suspend fun fetchAllFromClient(
+        client: YCTLibraryClient,
+        tractate: String,
+        cached: List<YCTArticle>?
+    ): List<YCTArticle> {
+        if (cached != null) return cached
+
+        val tractateTermID = client.resolveTractateTermID(tractate) ?: return emptyList()
+        val dafTermMap = client.resolveDafTermIDs(tractate, tractateTermID)
+
+        val all = mutableListOf<YCTArticle>()
+
+        // Fetch articles for each daf-level term
+        for (dafNum in dafTermMap.keys.sorted()) {
+            val termID = dafTermMap[dafNum] ?: continue
+            all += fetchAndTag(client, listOf(termID), ResourceMatchType.TractateWide(dafNum))
+        }
+
+        // For psak: also fetch articles tagged directly on the tractate term (daf = 0 sentinel)
+        if (client.fetchesTractateLevel) {
+            all += fetchAndTag(client, listOf(tractateTermID), ResourceMatchType.TractateWide(0))
+        }
+
+        return mergeAndDeduplicate(all)
     }
 
     /**
      * Two-pass deduplication:
-     * Pass 1 — same article ID, different daf: merge into one entry, collecting
-     *          extra dafs in additionalDafs; same ID + same daf = API duplicate, skip.
-     * Pass 2 — different ID, same title (WordPress duplicate posts): keep the more
-     *          recently published version at the first-encountered daf position.
+     * Pass 1 — same article ID, different daf: merge into one entry.
+     * Pass 2 — different ID, same title: keep the more recently published version.
      */
     private fun mergeAndDeduplicate(articles: List<YCTArticle>): List<YCTArticle> {
         // Pass 1: merge by article ID
@@ -257,14 +297,11 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
     }
 
     private suspend fun fetchAndTag(
+        client: YCTLibraryClient,
         termIDs: List<Int>,
         matchType: ResourceMatchType
     ): List<YCTArticle> {
-        val fetched = YCTLibraryClient.fetchArticles(
-            exactTermIDs = termIDs,
-            nearbyTermIDs = emptyMap(),
-            tractateTermID = null
-        )
+        val fetched = client.fetchArticles(termIDs)
         return fetched.map { it.copy(matchType = matchType) }
     }
 }

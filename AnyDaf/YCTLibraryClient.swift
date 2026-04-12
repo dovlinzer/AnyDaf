@@ -30,12 +30,29 @@ private let nonEnglishSuffixes = ["-he", "-fr", "-sp", "-ar", "-ru", "-de", "-pt
 @MainActor
 class YCTLibraryClient {
 
-    static let shared = YCTLibraryClient()
-    private init() {}
+    /// Client for library.yctorah.org.
+    /// Tractate terms live under a shared "Talmud" root term (ID 1899).
+    static let shared = YCTLibraryClient(
+        baseURL: "https://library.yctorah.org/wp-json/wp/v2",
+        source: .library,
+        talmudTermID: 1899,
+        fetchesTractateLevel: false
+    )
 
-    private let baseURL = "https://library.yctorah.org/wp-json/wp/v2"
-    /// Term ID for the root "Talmud" node in the reference taxonomy
-    private let talmudTermID = 1899
+    /// Client for psak.yctorah.org (Rosh Yeshiva Responds).
+    /// Tractate terms live at root level (no Talmud parent); articles are often tagged
+    /// at the tractate level rather than a specific daf.
+    static let psak = YCTLibraryClient(
+        baseURL: "https://psak.yctorah.org/wp-json/wp/v2",
+        source: .psak,
+        talmudTermID: nil,
+        fetchesTractateLevel: true
+    )
+
+    let source: YCTSource
+    /// When true, articles tagged directly on the tractate term (not a daf child) are
+    /// also fetched and tagged as `.tractateWide(daf: 0)`.
+    let fetchesTractateLevel: Bool
 
     enum YCTError: LocalizedError {
         case invalidURL
@@ -51,17 +68,49 @@ class YCTLibraryClient {
         }
     }
 
-    // MARK: - Term Lookup
+    private let baseURL: String
+    /// Term ID for the root "Talmud" node in the reference taxonomy.
+    /// `nil` means tractate terms are at root level (no parent filter when searching).
+    private let talmudTermID: Int?
 
-    /// Finds the WordPress taxonomy term ID for a given tractate name under the Talmud root.
-    func fetchTractateTermID(tractate: String) async throws -> Int? {
+    /// Per-session term ID caches.
+    private var tractateTermCache: [String: Int] = [:]
+    private var dafTermCache: [String: [Int: Int]] = [:]
+
+    init(baseURL: String, source: YCTSource, talmudTermID: Int?, fetchesTractateLevel: Bool) {
+        self.baseURL = baseURL
+        self.source = source
+        self.talmudTermID = talmudTermID
+        self.fetchesTractateLevel = fetchesTractateLevel
+    }
+
+    // MARK: - Term Lookup (with in-session caching)
+
+    func resolveTractateTermID(tractate: String) async throws -> Int? {
+        if let cached = tractateTermCache[tractate] { return cached }
+        let id = try await fetchTractateTermID(tractate: tractate)
+        if let id { tractateTermCache[tractate] = id }
+        return id
+    }
+
+    func resolveDafTermIDs(tractate: String, tractateTermID: Int) async throws -> [Int: Int] {
+        if let cached = dafTermCache[tractate] { return cached }
+        let map = try await fetchDafTermIDs(tractateTermID: tractateTermID)
+        dafTermCache[tractate] = map
+        return map
+    }
+
+    private func fetchTractateTermID(tractate: String) async throws -> Int? {
         let name = yctName(for: tractate)
         var components = URLComponents(string: "\(baseURL)/reference")!
-        components.queryItems = [
+        var queryItems: [URLQueryItem] = [
             URLQueryItem(name: "search", value: name),
-            URLQueryItem(name: "parent", value: "\(talmudTermID)"),
             URLQueryItem(name: "per_page", value: "10"),
         ]
+        if let parentID = talmudTermID {
+            queryItems.append(URLQueryItem(name: "parent", value: "\(parentID)"))
+        }
+        components.queryItems = queryItems
         guard let url = components.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)
         guard let terms = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]] else {
@@ -80,7 +129,7 @@ class YCTLibraryClient {
 
     /// Fetches all daf-level children of a tractate term.
     /// Returns a dict mapping daf number → term ID (e.g. 28 → 2486).
-    func fetchDafTermIDs(tractateTermID: Int) async throws -> [Int: Int] {
+    private func fetchDafTermIDs(tractateTermID: Int) async throws -> [Int: Int] {
         var components = URLComponents(string: "\(baseURL)/reference")!
         components.queryItems = [
             URLQueryItem(name: "parent", value: "\(tractateTermID)"),
@@ -116,8 +165,8 @@ class YCTLibraryClient {
         components.queryItems = [
             URLQueryItem(name: "reference", value: ids),
             URLQueryItem(name: "per_page", value: "20"),
-            URLQueryItem(name: "_fields", value: "id,title,excerpt,date,link,slug,_links,_embedded"),
-            URLQueryItem(name: "_embed",   value: "author"),   // embeds author name in _embedded
+            URLQueryItem(name: "_fields", value: "id,title,excerpt,content,date,link,slug,_links,_embedded"),
+            URLQueryItem(name: "_embed",   value: "author"),
         ]
         guard let url = components.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)
@@ -144,7 +193,12 @@ class YCTLibraryClient {
             if nonEnglishSuffixes.contains(where: { slug.hasSuffix($0) }) { continue }
 
             let title = stripHTML(titleRaw)
-            let excerpt = stripHTML(excerptRaw)
+            var excerpt = stripHTML(excerptRaw)
+            if excerpt.isEmpty, let contentObj = post["content"] as? [String: Any],
+               let contentRaw = contentObj["rendered"] as? String {
+                let full = stripHTML(contentRaw)
+                excerpt = full.count > 200 ? String(full.prefix(200)).trimmingCharacters(in: .whitespaces) + "…" : full
+            }
             let authorName = authorName(from: post)
             let matchType = resolveMatchType(postID: id, termIDs: termIDs, termToDaf: termToDaf, currentDaf: currentDaf)
             let formattedDate = formatDate(date)
@@ -156,7 +210,8 @@ class YCTLibraryClient {
                 date: formattedDate,
                 link: link,
                 authorName: authorName,
-                matchType: matchType
+                matchType: matchType,
+                source: source
             ))
         }
 
@@ -170,7 +225,7 @@ class YCTLibraryClient {
 
     /// Fetches the full rendered HTML body of a single post by its WordPress ID.
     func fetchArticleContent(id: Int) async throws -> String {
-        var comps = URLComponents(string: "https://library.yctorah.org/wp-json/wp/v2/posts/\(id)")!
+        var comps = URLComponents(string: "\(baseURL)/posts/\(id)")!
         comps.queryItems = [URLQueryItem(name: "_fields", value: "id,content")]
         guard let url = comps.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)

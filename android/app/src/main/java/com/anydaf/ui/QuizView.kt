@@ -12,7 +12,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -25,6 +27,10 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
+import androidx.compose.animation.core.RepeatMode
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.rememberInfiniteTransition
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -41,6 +47,62 @@ import com.anydaf.model.StudySection
 import com.anydaf.viewmodel.StudySessionViewModel
 
 @Composable
+private fun QuizSkeletonQuestion(choices: List<Float>) {
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .background(
+                MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.35f),
+                RoundedCornerShape(12.dp)
+            )
+            .padding(16.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+        SkeletonBlock(widthFraction = 1.00f)
+        SkeletonBlock(widthFraction = 0.70f)
+        Spacer(Modifier.height(4.dp))
+        choices.forEach { fraction ->
+            Row(
+                horizontalArrangement = Arrangement.spacedBy(10.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                val infiniteTransition = rememberInfiniteTransition(label = "circle")
+                val alpha by infiniteTransition.animateFloat(
+                    initialValue = 0.25f, targetValue = 0.55f,
+                    animationSpec = infiniteRepeatable(
+                        animation = androidx.compose.animation.core.tween(900),
+                        repeatMode = RepeatMode.Reverse
+                    ), label = "circle_alpha"
+                )
+                Box(
+                    Modifier
+                        .size(18.dp)
+                        .background(
+                            MaterialTheme.colorScheme.onSurface.copy(alpha = alpha),
+                            CircleShape
+                        )
+                )
+                SkeletonBlock(widthFraction = fraction)
+            }
+        }
+    }
+}
+
+@Composable
+fun QuizSkeleton() {
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(16.dp),
+        verticalArrangement = Arrangement.spacedBy(24.dp)
+    ) {
+        QuizSkeletonQuestion(listOf(0.70f, 0.55f, 0.80f, 0.60f))
+        QuizSkeletonQuestion(listOf(0.65f, 0.80f, 0.50f, 0.75f))
+        QuizSkeletonQuestion(listOf(0.75f, 0.60f, 0.85f, 0.55f))
+    }
+}
+
+@Composable
 fun QuizTab(
     section: StudySection?,
     isLoading: Boolean,
@@ -49,13 +111,7 @@ fun QuizTab(
 ) {
     when {
         section == null -> Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
-        isLoading -> Box(Modifier.fillMaxSize(), Alignment.Center) {
-            Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                CircularProgressIndicator()
-                Spacer(Modifier.height(12.dp))
-                Text("Generating questions…")
-            }
-        }
+        isLoading -> QuizSkeleton()
         section.quizQuestions.isEmpty() && section.summary == null -> {
             Box(Modifier.fillMaxSize(), Alignment.Center) {
                 Button(onClick = onLoad) { Text("Load Questions") }

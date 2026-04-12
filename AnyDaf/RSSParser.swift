@@ -2,7 +2,7 @@ import Foundation
 
 struct ParsedItem {
     let tractate: String?
-    let daf: Int?
+    let daf: Double?
     let audioURL: String
 }
 
@@ -120,8 +120,9 @@ class RSSParser: NSObject, XMLParserDelegate {
 
     // MARK: - Title parsing
 
-    // Titles look like: "Menachot 48 (5786)" or "Bava Batra 113 (5785)" or "Menahot 29b (5786)"
-    private func parseTitle(_ title: String) -> (tractate: String, daf: Int)? {
+    // Titles look like: "Menachot 48 (5786)" or "Menahot 29b (5786)" or "Berakhot 5b-6a"
+    // Returns daf as Double: N+0.0 for a-side (plain or explicit "a"), N+0.5 for b-side.
+    private func parseTitle(_ title: String) -> (tractate: String, daf: Double)? {
         // Strip the year suffix
         let cleaned = title.replacingOccurrences(
             of: #"\s*\(\d+\)\s*$"#, with: "", options: .regularExpression
@@ -130,9 +131,14 @@ class RSSParser: NSObject, XMLParserDelegate {
         let parts = cleaned.split(separator: " ")
         guard parts.count >= 2 else { return nil }
 
-        // Last part is the daf (may have an 'a'/'b' suffix like "29b")
-        let dafStr = String(parts.last!)
-        guard let daf = Int(dafStr.prefix(while: { $0.isNumber })), daf > 0 else { return nil }
+        let dafToken = String(parts.last!)
+        let digits = dafToken.prefix(while: { $0.isNumber })
+        guard let base = Int(digits), base > 0 else { return nil }
+
+        // "b" suffix (or range starting at b like "5b-6a") → half-daf
+        let afterDigits = dafToken.dropFirst(digits.count).lowercased()
+        let isHalf = afterDigits.hasPrefix("b")
+        let daf = Double(base) + (isHalf ? 0.5 : 0.0)
 
         let feedName = parts.dropLast().joined(separator: " ")
         guard let canonical = canonicalTractate(feedName: feedName) else { return nil }

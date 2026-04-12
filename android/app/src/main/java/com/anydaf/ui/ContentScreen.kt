@@ -169,7 +169,7 @@ fun ContentScreen(
             // Re-look up URL — may now be a direct RSS MP3 rather than a soundcloud-track stub
             val freshUrl = FeedManager.episodeIndex.value[tractate.name]?.get(selectedDaf)
             if (freshUrl != null) {
-                audioViewModel.play(freshUrl, "${tractate.name} $selectedDaf")
+                audioViewModel.play(freshUrl, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
             }
         }
     }
@@ -237,8 +237,19 @@ fun ContentScreen(
                             )
                         }
                         Box(modifier = Modifier.width(56.dp)) {
+                            val dafPickerItems = remember(tractate.name, episodeIndex) {
+                                buildList {
+                                    for (n in tractate.dafRange) {
+                                        add(n.toDouble())
+                                        val half = n.toDouble() + 0.5
+                                        if (episodeIndex[tractate.name]?.containsKey(half) == true) {
+                                            add(half)
+                                        }
+                                    }
+                                }
+                            }
                             DafWheelPicker(
-                                dafRange = tractate.dafRange,
+                                dafRange = dafPickerItems,
                                 selectedDaf = selectedDaf,
                                 onSelected = { contentViewModel.selectDaf(it) }
                             )
@@ -306,7 +317,7 @@ fun ContentScreen(
                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                         ) {
                             androidx.compose.material3.Text(
-                                text = seg.title,
+                                text = seg.displayTitle,
                                 style = MaterialTheme.typography.labelSmall,
                                 color = if (isActive) MaterialTheme.colorScheme.onPrimary
                                         else MaterialTheme.colorScheme.onSurfaceVariant,
@@ -350,7 +361,7 @@ fun ContentScreen(
                             amud = selectedAmud,
                             pdfViewModel = pdfViewModel,
                             onDafAmudChange = { newDaf, newAmud ->
-                                contentViewModel.selectDaf(newDaf)
+                                contentViewModel.selectDaf(newDaf.toDouble())
                                 contentViewModel.selectAmud(newAmud)
                             },
                             modifier = Modifier.fillMaxSize()
@@ -393,7 +404,7 @@ fun ContentScreen(
                         } else {
                             val url = audioUrl ?: return@FilledTonalButton
                             hasAutoRefreshedForAudio = false
-                            audioViewModel.play(url, "${tractate.name} $selectedDaf")
+                            audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
                         }
                     },
                     enabled = hasAudio || !isAudioStopped,
@@ -411,7 +422,7 @@ fun ContentScreen(
                 }
 
                 FilledTonalButton(
-                    onClick = { onStartStudy(tractate.name, selectedDaf, studyMode, quizMode) },
+                    onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
                     modifier = Modifier.weight(1f)
                 ) {
                     Icon(Icons.Default.MenuBook, null, Modifier.size(18.dp))
@@ -473,9 +484,9 @@ fun TractateWheelPicker(
 
 @Composable
 fun DafWheelPicker(
-    dafRange: List<Int>,
-    selectedDaf: Int,
-    onSelected: (Int) -> Unit
+    dafRange: List<Double>,
+    selectedDaf: Double,
+    onSelected: (Double) -> Unit
 ) {
     val startIdx = dafRange.indexOf(selectedDaf).coerceAtLeast(0)
     val listState = rememberLazyListState(startIdx)
@@ -493,7 +504,7 @@ fun DafWheelPicker(
         itemsIndexed(dafRange) { _, daf ->
             val isSelected = daf == selectedDaf
             Text(
-                text = "$daf",
+                text = FeedManager.dafLabel(daf),
                 style = if (isSelected) MaterialTheme.typography.bodyLarge.copy(fontWeight = FontWeight.Bold)
                 else MaterialTheme.typography.bodyMedium,
                 color = if (isSelected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface,

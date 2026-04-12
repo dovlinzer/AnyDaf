@@ -12,7 +12,7 @@ data class BookmarkEntity(
     val name: String,
     val notes: String,
     val tractateIndex: Int,
-    val daf: Int,
+    val daf: Double,
     val amud: Int,
     val studySectionIndex: Int?,
     val createdAt: Long  // epoch millis

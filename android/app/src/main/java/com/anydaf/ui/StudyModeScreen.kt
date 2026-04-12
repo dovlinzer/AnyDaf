@@ -125,17 +125,17 @@ fun StudyModeScreen(
                     if (sessionObj != null) {
                         val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
                         val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
-                        val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf, amud)
+                        val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
                         IconButton(onClick = {
                             if (tractateIndex < 0) return@IconButton
                             if (isBookmarked) {
-                                bookmarkViewModel.existing(tractateIndex, sessionObj.daf, amud)?.let { bookmarkViewModel.delete(it) }
+                                bookmarkViewModel.existing(tractateIndex, sessionObj.daf.toDouble(), amud)?.let { bookmarkViewModel.delete(it) }
                             } else {
                                 bookmarkViewModel.add(
                                     com.anydaf.model.Bookmark(
-                                        name = com.anydaf.model.Bookmark.defaultName(tractateIndex, sessionObj.daf, amud),
+                                        name = com.anydaf.model.Bookmark.defaultName(tractateIndex, sessionObj.daf.toDouble(), amud),
                                         tractateIndex = tractateIndex,
-                                        daf = sessionObj.daf,
+                                        daf = sessionObj.daf.toDouble(),
                                         amud = amud,
                                         studySectionIndex = sessionObj.currentSectionIndex
                                     )

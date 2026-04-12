@@ -103,15 +103,17 @@ fun ArticleReaderScreen(
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.onSurfaceVariant
                     )
-                    SuggestionChip(
-                        onClick = {},
-                        label = {
-                            Text(
-                                "Daf $referencedDaf",
-                                style = MaterialTheme.typography.labelSmall
-                            )
-                        }
-                    )
+                    if (referencedDaf > 0) {
+                        SuggestionChip(
+                            onClick = {},
+                            label = {
+                                Text(
+                                    "Daf $referencedDaf",
+                                    style = MaterialTheme.typography.labelSmall
+                                )
+                            }
+                        )
+                    }
                 }
             }
             Spacer(Modifier.width(8.dp))
@@ -267,7 +269,7 @@ private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean)
             font-family: sans-serif;
             font-size: ${fontSize}px;
             line-height: 1.75;
-            padding: 16px 4px 60px;
+            padding: 16px 20px 60px;
             margin: 0;
         }
         a { color: $linkColor; }
@@ -277,7 +279,6 @@ private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean)
             border-left: 3px solid $bqBorder;
             margin: 12px 0; padding-left: 14px;
             color: $bqColor;
-            font-style: italic;
         }
         ul,ol { padding-left: 20px; margin-bottom: 14px; }
         li { margin-bottom: 6px; }

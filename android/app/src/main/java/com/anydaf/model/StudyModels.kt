@@ -4,6 +4,8 @@ import java.util.UUID
 
 // YCT Library Models
 
+enum class YCTSource { LIBRARY, PSAK }
+
 sealed class ResourceMatchType {
     data class Exact(val daf: Int) : ResourceMatchType()
     data class Nearby(val daf: Int) : ResourceMatchType()
@@ -32,7 +34,9 @@ data class YCTArticle(
     val authorName: String,
     val matchType: ResourceMatchType = ResourceMatchType.Exact(0),
     /** Additional daf references beyond the primary one (sorted ascending). */
-    val additionalDafs: List<Int> = emptyList()
+    val additionalDafs: List<Int> = emptyList(),
+    /** Which YCT site this article came from. */
+    val source: YCTSource = YCTSource.LIBRARY
 )
 
 // Study Models

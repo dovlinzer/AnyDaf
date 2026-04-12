@@ -123,7 +123,7 @@ struct StudyModeView: View {
                             isLoadingArticle = true
                             Task {
                                 do {
-                                    let content = try await resourcesManager.fetchArticleContent(id: article.id)
+                                    let content = try await resourcesManager.fetchArticleContent(article: article)
                                     withAnimation { articleHTML = content }
                                 } catch {
                                     articleHTML = "<p style='color:rgba(255,255,255,0.6)'>Could not load article. Please use \"Open in Browser\" below.</p>"
@@ -478,6 +478,7 @@ struct SectionStudyView: View {
                     tabPillButton("Quiz",      tag: 2)
                     tabPillButton("Resources", tag: 3)
                 }
+                .padding(.trailing, 8)
                 .background(
                     RoundedRectangle(cornerRadius: 10)
                         .stroke(fg.opacity(0.22), lineWidth: 0.5)
@@ -697,26 +698,72 @@ struct SectionStudyView: View {
         }
     }
 
+    // MARK: - Skeleton views
+
+    /// Animated placeholder card matching the summary layout.
+    @ViewBuilder
+    private var summarySkeleton: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            SkeletonBlock(widthFraction: 0.32, height: 16, color: fg)
+            Spacer().frame(height: 2)
+            SkeletonBlock(widthFraction: 1.00, color: fg)
+            SkeletonBlock(widthFraction: 0.92, color: fg)
+            SkeletonBlock(widthFraction: 1.00, color: fg)
+            SkeletonBlock(widthFraction: 0.75, color: fg)
+            SkeletonBlock(widthFraction: 0.85, color: fg)
+            SkeletonBlock(widthFraction: 0.60, color: fg)
+        }
+        .padding()
+        .background(RoundedRectangle(cornerRadius: 12).fill(cardFill))
+    }
+
+    /// Animated placeholder cards matching the quiz layout (3 MC questions).
+    @ViewBuilder
+    private var quizSkeleton: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            quizSkeletonQuestion(choices: [0.70, 0.55, 0.80, 0.60])
+            quizSkeletonQuestion(choices: [0.65, 0.80, 0.50, 0.75])
+            quizSkeletonQuestion(choices: [0.75, 0.60, 0.85, 0.55])
+        }
+    }
+
+    @ViewBuilder
+    private func quizSkeletonQuestion(choices: [CGFloat]) -> some View {
+        VStack(alignment: .leading, spacing: 8) {
+            SkeletonBlock(widthFraction: 1.00, color: fg)
+            SkeletonBlock(widthFraction: 0.70, color: fg)
+            Spacer().frame(height: 2)
+            ForEach(Array(choices.enumerated()), id: \.offset) { _, w in
+                HStack(spacing: 8) {
+                    Circle()
+                        .fill(fg.opacity(0.28))
+                        .frame(width: 16, height: 16)
+                    SkeletonBlock(widthFraction: w, color: fg)
+                }
+            }
+        }
+        .padding()
+        .background(RoundedRectangle(cornerRadius: 12).fill(cardFill))
+    }
+
     // MARK: - Summary tab
 
     @ViewBuilder
     private func summaryTabContent(proxy: ScrollViewProxy) -> some View {
         if isLoadingContent {
-            VStack(spacing: 12) {
-                ProgressView().tint(fg)
-                if isRateLimited {
+            if isRateLimited {
+                VStack(spacing: 12) {
+                    ProgressView().tint(fg)
                     Text("Too many requests — please wait (\(rateLimitCountdown)s)…")
                         .font(.caption)
                         .foregroundStyle(.yellow.opacity(0.85))
                         .multilineTextAlignment(.center)
-                } else {
-                    Text("Generating summary…")
-                        .font(.caption)
-                        .foregroundStyle(fg.opacity(0.7))
                 }
+                .frame(maxWidth: .infinity)
+                .padding(.vertical, 40)
+            } else {
+                summarySkeleton
             }
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 40)
         } else if let summary = section.summary {
             VStack(alignment: .leading, spacing: 12) {
                 // Summary card
@@ -762,21 +809,19 @@ struct SectionStudyView: View {
     @ViewBuilder
     private func quizTabContent(proxy: ScrollViewProxy) -> some View {
         if isLoadingContent && section.quizQuestions.isEmpty {
-            VStack(spacing: 12) {
-                ProgressView().tint(fg)
-                if isRateLimited {
+            if isRateLimited {
+                VStack(spacing: 12) {
+                    ProgressView().tint(fg)
                     Text("Too many requests — please wait (\(rateLimitCountdown)s)…")
                         .font(.caption)
                         .foregroundStyle(.yellow.opacity(0.85))
                         .multilineTextAlignment(.center)
-                } else {
-                    Text("Generating quiz…")
-                        .font(.caption)
-                        .foregroundStyle(fg.opacity(0.7))
                 }
+                .frame(maxWidth: .infinity)
+                .padding(.vertical, 40)
+            } else {
+                quizSkeleton
             }
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 40)
         } else {
             quizContent(proxy: proxy)
         }
@@ -1279,7 +1324,8 @@ struct SectionStudyView: View {
                     Spacer()
                     HStack(spacing: 4) {
                         ForEach(
-                            ([article.matchType.referencedDaf] + article.additionalDafs).sorted(),
+                            ([article.matchType.referencedDaf] + article.additionalDafs)
+                                .filter { $0 > 0 }.sorted(),
                             id: \.self
                         ) { d in
                             Text("Daf \(d)")
@@ -1536,6 +1582,32 @@ struct FillBlankQuestionView: View {
         guard !trimmed.isEmpty else { return }
         isFocused = false
         onSubmit(trimmed)
+    }
+}
+
+// MARK: - Skeleton block
+
+/// A single animated placeholder bar used by the skeleton loading views.
+/// Width is expressed as a fraction (0–1) of the available container width.
+private struct SkeletonBlock: View {
+    var widthFraction: CGFloat = 1.0
+    var height: CGFloat = 14
+    var color: Color
+
+    @State private var opacity: Double = 0.28
+
+    var body: some View {
+        GeometryReader { geo in
+            RoundedRectangle(cornerRadius: height / 2)
+                .fill(color.opacity(opacity))
+                .frame(width: geo.size.width * widthFraction, height: height)
+        }
+        .frame(height: height)
+        .onAppear {
+            withAnimation(.easeInOut(duration: 0.9).repeatForever(autoreverses: true)) {
+                opacity = 0.58
+            }
+        }
     }
 }
 

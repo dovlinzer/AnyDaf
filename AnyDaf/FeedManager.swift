@@ -7,7 +7,8 @@ class FeedManager: ObservableObject {
     @Published var episodeCount: Int = 0
 
     // tractate name → daf number → audio URL string
-    private(set) var episodeIndex: [String: [Int: String]] = [:]
+    // Daf keys: N.0 = amud a (or full), N.5 = amud b / interstitial
+    private(set) var episodeIndex: [String: [Double: String]] = [:]
 
     private let feedBase = "https://feeds.soundcloud.com/users/soundcloud:users:958779193/sounds.rss"
     static var soundcloudClientID = "tkIWLs4MIowq7bCXP80TOwx6DnDa7UPc"
@@ -69,7 +70,7 @@ class FeedManager: ObservableObject {
         loadFromCache()
     }
 
-    func audioURL(tractate: String, daf: Int) -> URL? {
+    func audioURL(tractate: String, daf: Double) -> URL? {
         guard let str = episodeIndex[tractate]?[daf] else { return nil }
         return URL(string: str)
     }
@@ -94,6 +95,12 @@ class FeedManager: ObservableObject {
         }
     }
 
+    /// Returns all daf keys (sorted) for a tractate that have audio, including half-dafs.
+    func availableDafs(tractate: String) -> [Double] {
+        guard let dafs = episodeIndex[tractate] else { return [] }
+        return dafs.keys.sorted()
+    }
+
     // Fetch only if cache is missing, older than 7 days, or suspiciously small
     // (e.g. populated before the Supabase row-limit fix — full index is 2000+).
     // Tries Supabase first (fast single request); falls back to RSS crawl if unavailable.
@@ -112,11 +119,17 @@ class FeedManager: ObservableObject {
         }
     }
 
+    /// Human-readable label for a daf Double key.
+    /// 5.0 → "5", 5.5 → "5b"
+    static func dafLabel(_ daf: Double) -> String {
+        daf.truncatingRemainder(dividingBy: 1) == 0 ? "\(Int(daf))" : "\(Int(daf))b"
+    }
+
     /// Fetch the full episode index from Supabase episode_audio table.
     /// Paginates in batches of 1000 to work around PostgREST's server-side max-rows cap.
     /// Returns nil if the request fails (caller should fall back to RSS crawl).
-    private func fetchFromSupabase() async -> [String: [Int: String]]? {
-        var index: [String: [Int: String]] = [:]
+    private func fetchFromSupabase() async -> [String: [Double: String]]? {
+        var index: [String: [Double: String]] = [:]
         let batchSize = 1000
         var offset = 0
 
@@ -137,11 +150,11 @@ class FeedManager: ObservableObject {
 
             for row in rows {
                 guard let tractate = row["tractate"] as? String,
-                      let daf      = row["daf"]      as? Int,
+                      let dafNumber = (row["daf"] as? NSNumber)?.doubleValue,
                       let audioURL = row["audio_url"] as? String
                 else { continue }
                 if index[tractate] == nil { index[tractate] = [:] }
-                index[tractate]![daf] = audioURL
+                index[tractate]![dafNumber] = audioURL
             }
 
             if rows.count < batchSize { break }  // last page
@@ -168,7 +181,7 @@ class FeedManager: ObservableObject {
 
     func fetchAll() async {
         isLoading = true
-        var index: [String: [Int: String]] = [:]
+        var index: [String: [Double: String]] = [:]
 
         // Phase 1: RSS feed (covers the most recent ~1,200 episodes)
         var nextURL: URL? = URL(string: feedBase)
@@ -184,13 +197,14 @@ class FeedManager: ObservableObject {
                 if index[tractate] == nil { index[tractate] = [:] }
                 if index[tractate]![daf] == nil { index[tractate]![daf] = item.audioURL }
             }
+
             nextURL = parser.nextPageURL
         }
 
         // Phase 2: SoundCloud playlist API — fills in dafs missing from the RSS
         loadingProgress = "Loading playlists…"
         let clientID = FeedManager.soundcloudClientID
-        let playlistResults = await withTaskGroup(of: (String, [Int: String]).self) { group in
+        let playlistResults = await withTaskGroup(of: (String, [Double: String]).self) { group in
             for (tractate, playlistID) in tractatePlaylistIDs {
                 group.addTask {
                     await FeedManager.fetchPlaylist(tractate: tractate,
@@ -198,16 +212,16 @@ class FeedManager: ObservableObject {
                                                    clientID: clientID)
                 }
             }
-            var collected: [(String, [Int: String])] = []
+            var collected: [(String, [Double: String])] = []
             for await result in group { collected.append(result) }
             return collected
         }
 
         for (tractate, dafs) in playlistResults {
             if index[tractate] == nil { index[tractate] = [:] }
-            for (daf, url) in dafs {
+            for (daf, url) in dafs where index[tractate]![daf] == nil {
                 // Don't overwrite RSS URLs — they're direct MP3s (no resolution step needed)
-                if index[tractate]![daf] == nil { index[tractate]![daf] = url }
+                index[tractate]![daf] = url
             }
         }
 
@@ -221,8 +235,8 @@ class FeedManager: ObservableObject {
 
     // Fetch all tracks from a SoundCloud playlist and return daf → soundcloud-track://ID URLs.
     // Static so it runs off the main actor, enabling true parallelism in the task group.
-    private static func fetchPlaylist(tractate: String, playlistID: Int, clientID: String) async -> (String, [Int: String]) {
-        var dafs: [Int: String] = [:]
+    private static func fetchPlaylist(tractate: String, playlistID: Int, clientID: String) async -> (String, [Double: String]) {
+        var dafs: [Double: String] = [:]
         guard let url = URL(string: "https://api-v2.soundcloud.com/playlists/\(playlistID)?client_id=\(clientID)"),
               let (data, _) = try? await URLSession.shared.data(from: url),
               let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
@@ -265,10 +279,13 @@ class FeedManager: ObservableObject {
             let cleaned = title.replacingOccurrences(of: #"\s*\(\d+\)\s*$"#, with: "",
                                                       options: .regularExpression)
             let parts = cleaned.split(separator: " ")
-            guard parts.count >= 2,
-                  let daf = Int(String(parts.last!).prefix(while: { $0.isNumber })),
-                  daf > 0
-            else { continue }
+            guard parts.count >= 2 else { continue }
+            let dafToken = String(parts.last!)
+            let digits = dafToken.prefix(while: { $0.isNumber })
+            guard let base = Int(digits), base > 0 else { continue }
+            let afterDigits = dafToken.dropFirst(digits.count).lowercased()
+            let isHalf = afterDigits.hasPrefix("b")
+            let daf = Double(base) + (isHalf ? 0.5 : 0.0)
 
             // urn looks like "soundcloud:tracks:1004549059"
             guard let trackID = urn.split(separator: ":").last.map(String.init),
@@ -296,14 +313,14 @@ class FeedManager: ObservableObject {
         }
         episodeIndex = raw.mapValues { dafMap in
             Dictionary(uniqueKeysWithValues: dafMap.compactMap { key, url in
-                guard let daf = Int(key) else { return nil }
+                guard let daf = Double(key) else { return nil }
                 return (daf, url)
             })
         }
         episodeCount = episodeIndex.values.reduce(0) { $0 + $1.count }
     }
 
-    private func saveToCache(_ index: [String: [Int: String]]) {
+    private func saveToCache(_ index: [String: [Double: String]]) {
         let raw = index.mapValues { dafMap in
             Dictionary(uniqueKeysWithValues: dafMap.map { (String($0.key), $0.value) })
         }

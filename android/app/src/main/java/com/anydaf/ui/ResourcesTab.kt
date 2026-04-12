@@ -201,7 +201,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                     horizontalArrangement = Arrangement.spacedBy(4.dp),
                     modifier = Modifier.padding(start = 8.dp)
                 ) {
-                    (listOf(referencedDaf) + article.additionalDafs).sorted().forEach { d ->
+                    (listOf(referencedDaf) + article.additionalDafs).filter { it > 0 }.sorted().forEach { d ->
                         SuggestionChip(
                             onClick = {},
                             label = {

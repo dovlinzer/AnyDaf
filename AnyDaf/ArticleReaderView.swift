@@ -60,7 +60,8 @@ struct ArticleReaderView: View {
                                     .foregroundStyle(subtleFg)
                             }
                             ForEach(
-                                ([article.matchType.referencedDaf] + article.additionalDafs).sorted(),
+                                ([article.matchType.referencedDaf] + article.additionalDafs)
+                                    .filter { $0 > 0 }.sorted(),
                                 id: \.self
                             ) { d in
                                 Text("Daf \(d)")
@@ -227,7 +228,7 @@ private struct ArticleWebView: UIViewRepresentable {
             font-family: -apple-system, 'Helvetica Neue', sans-serif;
             font-size: \(fontSize)px;
             line-height: 1.75;
-            padding: 16px 4px 60px;
+            padding: 16px 20px 60px;
             margin: 0;
         }
         a               { color: \(linkColor); }
@@ -238,7 +239,6 @@ private struct ArticleWebView: UIViewRepresentable {
             margin: 12px 0;
             padding-left: 14px;
             color: \(bqColor);
-            font-style: italic;
         }
         ul, ol { padding-left: 20px; margin-bottom: 14px; }
         li     { margin-bottom: 6px; }

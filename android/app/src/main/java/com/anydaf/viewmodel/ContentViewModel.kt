@@ -31,8 +31,8 @@ class ContentViewModel : ViewModel() {
     private val _selectedTractateIndex = MutableStateFlow(0)
     val selectedTractateIndex: StateFlow<Int> = _selectedTractateIndex.asStateFlow()
 
-    private val _selectedDaf = MutableStateFlow(2)
-    val selectedDaf: StateFlow<Int> = _selectedDaf.asStateFlow()
+    private val _selectedDaf = MutableStateFlow(2.0)
+    val selectedDaf: StateFlow<Double> = _selectedDaf.asStateFlow()
 
     private val _selectedAmud = MutableStateFlow(0)
     val selectedAmud: StateFlow<Int> = _selectedAmud.asStateFlow()
@@ -60,7 +60,7 @@ class ContentViewModel : ViewModel() {
     init {
         viewModelScope.launch {
             _selectedTractateIndex.value = AppPreferences.lastTractateIndex.first()
-            _selectedDaf.value = AppPreferences.lastDaf.first()
+            _selectedDaf.value = AppPreferences.lastDaf.first()  // now Double
             _selectedAmud.value = AppPreferences.lastAmud.first()
             _quizMode.value = AppPreferences.quizMode.first()
             _sourceDisplayMode.value = AppPreferences.sourceDisplayMode.first()
@@ -73,14 +73,19 @@ class ContentViewModel : ViewModel() {
 
     fun selectTractate(index: Int) {
         _selectedTractateIndex.value = index
-        _selectedDaf.value = allTractates[index].startDaf
+        _selectedDaf.value = allTractates[index].startDaf.toDouble()
         _selectedAmud.value = allTractates[index].startAmud
         saveSelection()
     }
 
-    fun selectDaf(daf: Int) {
+    fun selectDaf(daf: Double) {
         _selectedDaf.value = daf
-        _selectedAmud.value = if (daf == tractate.startDaf) tractate.startAmud else 0
+        val isHalf = daf % 1.0 != 0.0
+        _selectedAmud.value = when {
+            isHalf -> 1  // half-daf entries are always b-side
+            daf == tractate.startDaf.toDouble() -> tractate.startAmud
+            else -> 0
+        }
         saveSelection()
     }
 
@@ -115,7 +120,7 @@ class ContentViewModel : ViewModel() {
             try {
                 val dafYomi = DafYomiService.fetchToday()
                 _selectedTractateIndex.value = dafYomi.tractateIndex
-                _selectedDaf.value = dafYomi.daf
+                _selectedDaf.value = dafYomi.daf.toDouble()
                 _selectedAmud.value = 0
                 saveSelection()
             } catch (e: Exception) {

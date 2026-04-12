@@ -7,7 +7,7 @@ import java.io.StringReader
 
 data class ParsedItem(
     val tractate: String?,
-    val daf: Int?,
+    val daf: Double?,
     val audioUrl: String
 )
 
@@ -110,14 +110,20 @@ class RssParser(private val xmlData: String) {
         }
     }
 
-    private fun parseTitle(title: String): Pair<String, Int>? {
+    // Returns daf as Double: N+0.0 for a-side (plain or explicit "a"), N+0.5 for b-side.
+    private fun parseTitle(title: String): Pair<String, Double>? {
         val cleaned = title.replace(Regex("""\s*\(\d+\)\s*$"""), "").trim()
         val parts = cleaned.split(" ")
         if (parts.size < 2) return null
 
-        val dafStr = parts.last()
-        val daf = dafStr.takeWhile { it.isDigit() }.toIntOrNull() ?: return null
-        if (daf <= 0) return null
+        val dafToken = parts.last()
+        val digits = dafToken.takeWhile { it.isDigit() }
+        val base = digits.toIntOrNull() ?: return null
+        if (base <= 0) return null
+
+        val afterDigits = dafToken.drop(digits.length).lowercase()
+        val isHalf = afterDigits.startsWith("b")
+        val daf = base.toDouble() + if (isHalf) 0.5 else 0.0
 
         val feedName = parts.dropLast(1).joinToString(" ")
         val canonical = canonicalTractate(feedName) ?: return null

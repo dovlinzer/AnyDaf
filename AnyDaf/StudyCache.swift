@@ -4,7 +4,7 @@ import Foundation
 // After creating your Supabase project, replace these two values with your own.
 // Find them at: Project Dashboard → Settings → API
 private let supabaseBaseURL = "https://zewdazoijdpakugfvnzt.supabase.co/rest/v1/study_cache"
-private let supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8"
+private let supabaseAnonKey = Secrets.supabaseAnonKey
 
 /// Shared read-through cache for Claude-generated study content, backed by Supabase.
 ///

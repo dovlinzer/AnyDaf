@@ -8,14 +8,14 @@ data class Bookmark(
     var name: String,
     var notes: String = "",
     val tractateIndex: Int,
-    val daf: Int,
+    val daf: Double,
     val amud: Int,              // 0 = amud a, 1 = amud b
     val studySectionIndex: Int? = null,
     val createdAt: Date = Date()
 ) {
     val tractate: Tractate get() = allTractates[tractateIndex]
     val amudLabel: String get() = if (amud == 0) "a" else "b"
-    val subtitle: String get() = "${tractate.name} Daf $daf$amudLabel"
+    val subtitle: String get() = "${tractate.name} Daf ${com.anydaf.data.api.FeedManager.dafLabel(daf)}$amudLabel"
 
     fun matches(query: String): Boolean {
         val q = query.lowercase()
@@ -23,9 +23,9 @@ data class Bookmark(
     }
 
     companion object {
-        fun defaultName(tractateIndex: Int, daf: Int, amud: Int): String {
+        fun defaultName(tractateIndex: Int, daf: Double, amud: Int): String {
             val amudLabel = if (amud == 0) "a" else "b"
-            return "${allTractates[tractateIndex].name} $daf$amudLabel"
+            return "${allTractates[tractateIndex].name} ${com.anydaf.data.api.FeedManager.dafLabel(daf)}$amudLabel"
         }
     }
 }

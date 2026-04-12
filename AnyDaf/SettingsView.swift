@@ -26,8 +26,6 @@ struct SettingsView: View {
                     }
                 } header: {
                     Text("Support AnyDaf")
-                } footer: {
-                    Text("AnyDaf is provided free by Yeshivat Chovevei Torah. Your donation supports Torah learning.")
                 }
 
                 Section {
@@ -36,13 +34,8 @@ struct SettingsView: View {
                             sourceDisplayMode = mode
                         } label: {
                             HStack {
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text(mode.displayName)
-                                        .foregroundStyle(.primary)
-                                    Text(mode.modeDescription)
-                                        .font(.caption)
-                                        .foregroundStyle(.secondary)
-                                }
+                                Text(mode.displayName)
+                                    .foregroundStyle(.primary)
                                 Spacer()
                                 if sourceDisplayMode == mode {
                                     Image(systemName: "checkmark")
@@ -54,8 +47,6 @@ struct SettingsView: View {
                     }
                 } header: {
                     Text("Translation Display")
-                } footer: {
-                    Text("How the original Hebrew/Aramaic source is shown alongside the English translation.")
                 }
 
                 Section {
@@ -64,13 +55,8 @@ struct SettingsView: View {
                             quizMode = mode
                         } label: {
                             HStack {
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text(mode.displayName)
-                                        .foregroundStyle(.primary)
-                                    Text(mode.modeDescription)
-                                        .font(.caption)
-                                        .foregroundStyle(.secondary)
-                                }
+                                Text(mode.displayName)
+                                    .foregroundStyle(.primary)
                                 Spacer()
                                 if quizMode == mode {
                                     Image(systemName: "checkmark")
@@ -88,16 +74,12 @@ struct SettingsView: View {
                     Toggle("Include source text", isOn: $shiurShowSources)
                 } header: {
                     Text("Shiur")
-                } footer: {
-                    Text("Show Hebrew/Aramaic sources embedded in lecture notes.")
                 }
 
                 Section {
                     Toggle("White Background", isOn: $useWhiteBackground)
                 } header: {
                     Text("Appearance")
-                } footer: {
-                    Text("Replaces the blue background with white.")
                 }
 
                 Section {
@@ -117,8 +99,8 @@ struct SettingsView: View {
                         }
                     }
                     .disabled(isReloading)
-                } footer: {
-                    Text("Fetches the latest list of available audio episodes.")
+                } header: {
+                    Text("Audio")
                 }
 
                 Section {

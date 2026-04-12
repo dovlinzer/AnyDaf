@@ -46,7 +46,7 @@ import com.anydaf.viewmodel.BookmarkViewModel
 @Composable
 fun BookmarksScreen(
     bookmarkViewModel: BookmarkViewModel,
-    onSelectBookmark: (tractateIndex: Int, daf: Int, amud: Int) -> Unit,
+    onSelectBookmark: (tractateIndex: Int, daf: Double, amud: Int) -> Unit,
     onBack: () -> Unit
 ) {
     val bookmarks by bookmarkViewModel.bookmarks.collectAsState()

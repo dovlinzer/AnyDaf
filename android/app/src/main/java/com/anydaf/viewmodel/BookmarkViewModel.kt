@@ -31,9 +31,9 @@ class BookmarkViewModel : ViewModel() {
         viewModelScope.launch { dao.update(BookmarkEntity.from(bookmark)) }
     }
 
-    fun isBookmarked(tractateIndex: Int, daf: Int, amud: Int): Boolean =
+    fun isBookmarked(tractateIndex: Int, daf: Double, amud: Int): Boolean =
         bookmarks.value.any { it.tractateIndex == tractateIndex && it.daf == daf && it.amud == amud }
 
-    fun existing(tractateIndex: Int, daf: Int, amud: Int): Bookmark? =
+    fun existing(tractateIndex: Int, daf: Double, amud: Int): Bookmark? =
         bookmarks.value.firstOrNull { it.tractateIndex == tractateIndex && it.daf == daf && it.amud == amud }
 }

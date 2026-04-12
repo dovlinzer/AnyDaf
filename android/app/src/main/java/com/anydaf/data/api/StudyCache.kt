@@ -16,7 +16,7 @@ import org.json.JSONObject
 // After creating your Supabase project, replace these two values with your own.
 // Find them at: Project Dashboard → Settings → API
 private const val SUPABASE_BASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co/rest/v1/study_cache"
-private const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8"
+private val SUPABASE_ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
 // ───────────────────────────────────────────────────────────────────────────
 
 /**

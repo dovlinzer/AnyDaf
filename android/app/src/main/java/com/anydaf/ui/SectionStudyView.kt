@@ -1,5 +1,13 @@
 package com.anydaf.ui
 
+import androidx.compose.animation.core.FastOutSlowInEasing
+import androidx.compose.animation.core.RepeatMode
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.rememberInfiniteTransition
+import androidx.compose.animation.core.tween
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -8,6 +16,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
 import androidx.compose.material3.CircularProgressIndicator
@@ -21,7 +30,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -127,6 +138,53 @@ fun TranslationTab(
     }
 }
 
+// MARK: - Skeleton
+
+/** Single animated placeholder bar. [widthFraction] is 0–1 relative to the parent width. */
+@Composable
+internal fun SkeletonBlock(
+    modifier: Modifier = Modifier,
+    height: Dp = 14.dp,
+    widthFraction: Float = 1f
+) {
+    val infiniteTransition = rememberInfiniteTransition(label = "skeleton")
+    val alpha by infiniteTransition.animateFloat(
+        initialValue = 0.25f,
+        targetValue = 0.55f,
+        animationSpec = infiniteRepeatable(
+            animation = tween(900, easing = FastOutSlowInEasing),
+            repeatMode = RepeatMode.Reverse
+        ),
+        label = "skeleton_alpha"
+    )
+    Box(
+        modifier
+            .fillMaxWidth(widthFraction)
+            .height(height)
+            .clip(RoundedCornerShape(height / 2))
+            .background(MaterialTheme.colorScheme.onSurface.copy(alpha = alpha))
+    )
+}
+
+@Composable
+fun StudySkeleton() {
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(16.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+        SkeletonBlock(height = 18.dp, widthFraction = 0.32f)
+        Spacer(Modifier.height(4.dp))
+        SkeletonBlock(widthFraction = 1.00f)
+        SkeletonBlock(widthFraction = 0.92f)
+        SkeletonBlock(widthFraction = 1.00f)
+        SkeletonBlock(widthFraction = 0.75f)
+        SkeletonBlock(widthFraction = 0.85f)
+        SkeletonBlock(widthFraction = 0.60f)
+    }
+}
+
 // MARK: - Study Tab
 
 @Composable
@@ -137,13 +195,7 @@ fun StudyTab(
 ) {
     when {
         section == null -> Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
-        isLoading -> Box(Modifier.fillMaxSize(), Alignment.Center) {
-            Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                CircularProgressIndicator()
-                Spacer(Modifier.height(12.dp))
-                Text("Generating summary…")
-            }
-        }
+        isLoading -> StudySkeleton()
         section.summary == null -> Box(Modifier.fillMaxSize(), Alignment.Center) {
             Button(onClick = onLoad) { Text("Load Summary") }
         }

@@ -3,18 +3,16 @@ package com.anydaf.data
 import android.content.Context
 import com.anydaf.model.ResourceMatchType
 import com.anydaf.model.YCTArticle
+import com.anydaf.model.YCTSource
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
 
 /**
- * Disk cache for YCT Library article lists keyed by tractate name only.
- * One cache file per tractate (e.g. yct_Berakhot.json) holds all articles for
- * that tractate, each tagged with its daf via matchType.referencedDaf.
+ * Disk cache for YCT Library article lists keyed by tractate name + source.
+ * One cache file per (source, tractate) pair (e.g. yct_library_Berakhot.json).
+ * Articles are tagged with their daf via matchType.referencedDaf.
  * TTL is 7 days; expired entries can be evicted via [evictExpired].
- *
- * Callers should call categorize() on the returned list to split articles into
- * exact / nearby / tractate-wide sections for the current daf.
  */
 object ResourcesDiskCache {
 
@@ -22,13 +20,8 @@ object ResourcesDiskCache {
 
     // MARK: - Public API
 
-    /**
-     * Loads all cached articles for a tractate.
-     * Returns null if no entry exists or the entry has expired.
-     * Articles are stored with TractateWide(daf) so the daf number is preserved.
-     */
-    fun load(context: Context, tractate: String): List<YCTArticle>? {
-        val file = cacheFile(context, tractate)
+    fun load(context: Context, tractate: String, source: YCTSource = YCTSource.LIBRARY): List<YCTArticle>? {
+        val file = cacheFile(context, tractate, source)
         if (!file.exists()) return null
         return try {
             val root = JSONObject(file.readText())
@@ -44,16 +37,12 @@ object ResourcesDiskCache {
         }
     }
 
-    /**
-     * Saves a flat list of tractate articles to disk.
-     * Articles should use TractateWide(daf) so the daf is recoverable.
-     */
-    fun save(context: Context, tractate: String, articles: List<YCTArticle>) {
+    fun save(context: Context, tractate: String, source: YCTSource = YCTSource.LIBRARY, articles: List<YCTArticle>) {
         try {
             val root = JSONObject()
             root.put("savedAt", System.currentTimeMillis())
             root.put("articles", serializeArticleArray(articles))
-            val file = cacheFile(context, tractate)
+            val file = cacheFile(context, tractate, source)
             file.parentFile?.mkdirs()
             file.writeText(root.toString())
         } catch (_: Exception) {}
@@ -83,9 +72,9 @@ object ResourcesDiskCache {
     private fun cacheDir(context: Context): File =
         File(context.cacheDir, "yct_resources")
 
-    private fun cacheFile(context: Context, tractate: String): File {
+    private fun cacheFile(context: Context, tractate: String, source: YCTSource): File {
         val safeTractate = tractate.replace(Regex("[^A-Za-z0-9]"), "_")
-        return File(cacheDir(context), "yct_${safeTractate}.json")
+        return File(cacheDir(context), "yct_${source.name.lowercase()}_v2_${safeTractate}.json")
     }
 
     private fun serializeArticleArray(articles: List<YCTArticle>): JSONArray {
@@ -100,6 +89,7 @@ object ResourcesDiskCache {
             obj.put("authorName", article.authorName)
             obj.put("matchTypeTag", matchTypeTag(article.matchType))
             obj.put("matchTypeDaf", article.matchType.referencedDaf)
+            obj.put("source", article.source.name)
             val dafsArr = JSONArray()
             article.additionalDafs.forEach { dafsArr.put(it) }
             obj.put("additionalDafs", dafsArr)
@@ -119,6 +109,9 @@ object ResourcesDiskCache {
                 "nearby"   -> ResourceMatchType.Nearby(daf)
                 else       -> ResourceMatchType.TractateWide(daf)
             }
+            val source = runCatching {
+                YCTSource.valueOf(obj.optString("source", "LIBRARY"))
+            }.getOrDefault(YCTSource.LIBRARY)
             val additionalDafs = mutableListOf<Int>()
             val dafsArr = obj.optJSONArray("additionalDafs")
             if (dafsArr != null) {
@@ -133,7 +126,8 @@ object ResourcesDiskCache {
                     link           = obj.getString("link"),
                     authorName     = obj.optString("authorName", ""),
                     matchType      = matchType,
-                    additionalDafs = additionalDafs
+                    additionalDafs = additionalDafs,
+                    source         = source
                 )
             )
         }

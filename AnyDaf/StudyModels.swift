@@ -2,6 +2,12 @@ import Foundation
 
 // MARK: - YCT Library Models
 
+/// Which YCT site an article comes from
+enum YCTSource: String, Codable {
+    case library // library.yctorah.org
+    case psak    // psak.yctorah.org
+}
+
 /// How closely an article matches the current daf
 enum ResourceMatchType: Equatable, Codable {
     case exact(daf: Int)          // matches current daf exactly
@@ -59,15 +65,18 @@ struct YCTArticle: Identifiable, Codable {
     var matchType: ResourceMatchType
     /// Additional daf references beyond the primary one (sorted ascending).
     var additionalDafs: [Int]
+    /// Which YCT site this article came from.
+    var source: YCTSource
 
     init(id: Int, title: String, excerpt: String, date: String, link: String,
-         authorName: String, matchType: ResourceMatchType, additionalDafs: [Int] = []) {
+         authorName: String, matchType: ResourceMatchType, additionalDafs: [Int] = [],
+         source: YCTSource = .library) {
         self.id = id; self.title = title; self.excerpt = excerpt; self.date = date
         self.link = link; self.authorName = authorName; self.matchType = matchType
-        self.additionalDafs = additionalDafs
+        self.additionalDafs = additionalDafs; self.source = source
     }
 
-    // Backward-compatible decoder: old cache files lack `additionalDafs`.
+    // Backward-compatible decoder: old cache files lack `additionalDafs` and `source`.
     init(from decoder: Decoder) throws {
         let c = try decoder.container(keyedBy: CodingKeys.self)
         id             = try c.decode(Int.self,               forKey: .id)
@@ -78,6 +87,7 @@ struct YCTArticle: Identifiable, Codable {
         authorName     = try c.decode(String.self,            forKey: .authorName)
         matchType      = try c.decode(ResourceMatchType.self, forKey: .matchType)
         additionalDafs = try c.decodeIfPresent([Int].self,    forKey: .additionalDafs) ?? []
+        source         = try c.decodeIfPresent(YCTSource.self, forKey: .source) ?? .library
     }
 }
 

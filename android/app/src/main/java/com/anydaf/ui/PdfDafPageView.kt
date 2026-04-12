@@ -47,14 +47,15 @@ import com.anydaf.viewmodel.PdfViewModel
 @Composable
 fun DafPageView(
     tractate: Tractate,
-    daf: Int,
+    daf: Double,
     amud: Int,                              // 0 = amud aleph (a), 1 = amud bet (b)
     pdfViewModel: PdfViewModel,
     onDafAmudChange: (daf: Int, amud: Int) -> Unit,
     modifier: Modifier = Modifier
 ) {
+    val dafInt = daf.toInt()
     val sideA = amud == 0
-    val imageUrl = pdfViewModel.imageUrl(tractate.name, daf, sideA)
+    val imageUrl = pdfViewModel.imageUrl(tractate.name, dafInt, sideA)
 
     // Reset zoom when page changes
     var scale by remember { mutableFloatStateOf(1f) }
@@ -65,19 +66,19 @@ fun DafPageView(
     }
 
     fun advanceAmud() {
-        if (amud == 0) onDafAmudChange(daf, 1)
-        else if (daf < tractate.endDaf) onDafAmudChange(daf + 1, 0)
+        if (amud == 0) onDafAmudChange(dafInt, 1)
+        else if (dafInt < tractate.endDaf) onDafAmudChange(dafInt + 1, 0)
     }
 
     fun retreatAmud() {
-        if (amud == 1) onDafAmudChange(daf, 0)
-        else if (daf > tractate.startDaf) onDafAmudChange(daf - 1, 1)
+        if (amud == 1) onDafAmudChange(dafInt, 0)
+        else if (dafInt > tractate.startDaf) onDafAmudChange(dafInt - 1, 1)
     }
 
     if (imageUrl == null) {
         Box(modifier.fillMaxWidth(), contentAlignment = Alignment.Center) {
             Text(
-                "No image for daf $daf${if (sideA) "a" else "b"}",
+                "No image for daf $dafInt${if (sideA) "a" else "b"}",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
             )
@@ -90,7 +91,7 @@ fun DafPageView(
         // ── Image with pinch-to-zoom ──────────────────────────────────────
         SubcomposeAsyncImage(
             model = imageUrl,
-            contentDescription = "${tractate.name} $daf${if (sideA) "a" else "b"}",
+            contentDescription = "${tractate.name} $dafInt${if (sideA) "a" else "b"}",
             contentScale = ContentScale.Fit,
             loading = {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
