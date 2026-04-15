@@ -1,0 +1,506 @@
+{
+  "masechta": "Chullin",
+  "daf": 26,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction: Structure of Mishnayot Across Six Orders and the Metamed Water Case",
+      "display_title": "Survey of Six Orders",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks on the structure of mishnayot dealing with what is true for A but not B",
+          "display_title": "Structure Overview",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Survey of topics covered: Kodashim, Taharot, Zeraim, and progression through Shas",
+          "display_title": "All Six Orders",
+          "timestamp": "01:03"
+        },
+        {
+          "title": "Introduction to the metamed case: water soaked with grape juice and the question of wine status",
+          "display_title": "Metamed Water-Wine",
+          "timestamp": "03:20"
+        }
+      ]
+    },
+    {
+      "title": "The Gemara's First Resolution: When Has It Fermented Debate Between Rabbi Yehuda and the Rabbis",
+      "display_title": "Fermentation Debate",
+      "timestamp": "03:29",
+      "micro_segments": [
+        {
+          "title": "The mishnah from Maasrot: taking out equal water and the debate on wine status",
+          "display_title": "Maasrot Mishna",
+          "timestamp": "03:29"
+        },
+        {
+          "title": "Rav Nachman's statement: the debate occurs when it has fermented, explaining Rabbi Yehuda's position",
+          "display_title": "Rav Nachman: Hichmit",
+          "timestamp": "07:05"
+        },
+        {
+          "title": "Rabba bar Avuha's reinterpretation: wine status based on potential to ferment, not actual fermentation",
+          "display_title": "Potential Fermentation",
+          "timestamp": "08:50"
+        },
+        {
+          "title": "Rabba's resolution: reading the mishnah as referring to a sample held to test future fermentation",
+          "display_title": "Sample Test",
+          "timestamp": "12:11"
+        }
+      ]
+    },
+    {
+      "title": "Alternative Resolution: Rabbi Yochanan ben Nuri's Appearance-Based Standard",
+      "display_title": "Appearance & Taste",
+      "timestamp": "17:05",
+      "micro_segments": [
+        {
+          "title": "The mishnah from Mikva'ot about water and milk: three log of water missing a tiny amount plus milk",
+          "display_title": "Water-Milk Mixture",
+          "timestamp": "17:05"
+        },
+        {
+          "title": "Rabbi Yochanan ben Nuri's principle: identity determined by appearance, not actual composition",
+          "display_title": "Rav's Position",
+          "timestamp": "20:47"
+        },
+        {
+          "title": "The Gemara's expansion: appearance and taste both determine identity according to Rabbi Yochanan ben Nuri",
+          "display_title": "Appearance & Taste",
+          "timestamp": "22:02"
+        },
+        {
+          "title": "Applying Rabbi Yochanan ben Nuri to metamed: still tastes and appears as water, so it is water",
+          "display_title": "Applied to Metamed",
+          "timestamp": "25:02"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Elazar's Objection: The Debate Occurs Before Fermentation, Not After",
+      "display_title": "Rabbi Elazar",
+      "timestamp": "29:22",
+      "micro_segments": [
+        {
+          "title": "Rabbi Elazar argues the debate in Maasrot occurs when it has not yet fermented",
+          "display_title": "Before Fermentation",
+          "timestamp": "29:22"
+        },
+        {
+          "title": "Explanation: even Rabbi Yehuda's obligation to tithe is only rabbinic, not full wine status",
+          "display_title": "Rabbinic Status",
+          "timestamp": "30:32"
+        }
+      ]
+    },
+    {
+      "title": "Practical Application: Metamed's Status for Mikvah Purification",
+      "display_title": "Mikvah Application",
+      "timestamp": "34:07",
+      "micro_segments": [
+        {
+          "title": "Baraita: metamed before fermentation can be brought into a mikvah; after fermentation it cannot",
+          "display_title": "Metamed Mikvah",
+          "timestamp": "34:07"
+        },
+        {
+          "title": "Rava's qualification: only when originally pure water became tamei; not for originally tamei water",
+          "display_title": "Pure Water Only",
+          "timestamp": "35:54"
+        },
+        {
+          "title": "Rav Ashi's challenge: why the distinction between originally pure and originally tamei water",
+          "display_title": "Rav Ashi's Q",
+          "timestamp": "36:44"
+        },
+        {
+          "title": "Resolution: wine floats above water; only wine touches mikvah water, causing problem; solution is to stir",
+          "display_title": "Density Separation",
+          "timestamp": "37:04"
+        }
+      ]
+    },
+    {
+      "title": "Transition to Nashim Section: Sale and Fine Status by Age",
+      "display_title": "Nashim: Sale & Fine",
+      "timestamp": "39:13",
+      "micro_segments": [
+        {
+          "title": "Mishnah principle: where there is sale, there is no fine; where there is fine, there is no sale",
+          "display_title": "Mutual Exclusion",
+          "timestamp": "39:13"
+        },
+        {
+          "title": "Rabbi Meir's position: underage allows sale but no fine; between 12 and six months allows fine but no sale",
+          "display_title": "Rabbi Meir",
+          "timestamp": "46:33"
+        },
+        {
+          "title": "Sages' position: overlap of both sale and fine from age three to adulthood",
+          "display_title": "Sages' Overlap",
+          "timestamp": "47:03"
+        }
+      ]
+    },
+    {
+      "title": "Miun and Chalitzah by Age Status",
+      "display_title": "Miun & Chalitzah",
+      "timestamp": "49:44",
+      "micro_segments": [
+        {
+          "title": "Mishnah principle: where there is miun rejection, there is no chalitzah; where there is chalitzah, there is no miun",
+          "display_title": "Mutual Exclusion",
+          "timestamp": "49:44"
+        },
+        {
+          "title": "Rabbi Meir's position: miun only while minor; chalitzah only when adult",
+          "display_title": "Rabbi Meir",
+          "timestamp": "52:05"
+        },
+        {
+          "title": "Sages' position: both miun and chalitzah possible for a naarah between 12 and six months",
+          "display_title": "Sages' Overlap",
+          "timestamp": "52:11"
+        }
+      ]
+    },
+    {
+      "title": "Moed Section: Tekiah and Havdalah on Festival-Shabbat Boundaries",
+      "display_title": "Tekiah & Havdalah",
+      "timestamp": "54:28",
+      "micro_segments": [
+        {
+          "title": "Principle: where there is tekiah forbidding melachah, there is no havdalah; where there is havdalah permitting melachah, there is no tekiah",
+          "display_title": "Mutual Exclusion",
+          "timestamp": "54:28"
+        },
+        {
+          "title": "Yom Tov on erev Shabbat: tekiah done; no havdalah because melachah remains forbidden",
+          "display_title": "Yom Tov Erev",
+          "timestamp": "54:54"
+        },
+        {
+          "title": "Yom Tov on motzei Shabbat: havdalah done; no tekiah because moving from more forbidden to less forbidden",
+          "display_title": "Yom Tov Motza'ei",
+          "timestamp": "55:21"
+        },
+        {
+          "title": "How tekiah is performed when Yom Tov transitions into Shabbat: Rav Yehuda vs. Rav Assi positions",
+          "display_title": "Tekiah Method",
+          "timestamp": "56:30"
+        },
+        {
+          "title": "Havdalah blessing when Yom Tov falls in middle of Shabbat: keeping biblical formula despite context",
+          "display_title": "Havdalah Text",
+          "timestamp": "59:06"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Metamed (watered wine)",
+      "timestamps": [
+        "03:20",
+        "08:50",
+        "12:11",
+        "25:02",
+        "34:07",
+        "35:54"
+      ]
+    },
+    {
+      "term": "Fermentation (hichmit) as criterion",
+      "timestamps": [
+        "07:05",
+        "08:02",
+        "29:22",
+        "34:07"
+      ]
+    },
+    {
+      "term": "Rabbi Yehuda vs. Rabbis",
+      "timestamps": [
+        "04:46",
+        "05:06",
+        "07:05",
+        "08:02",
+        "29:22",
+        "30:32"
+      ]
+    },
+    {
+      "term": "Rabba bar Avuha's potential fermentation theory",
+      "timestamps": [
+        "08:50",
+        "12:11",
+        "14:00"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan ben Nuri: appearance-based identity",
+      "timestamps": [
+        "17:12",
+        "20:47",
+        "22:02",
+        "25:02",
+        "26:02"
+      ]
+    },
+    {
+      "term": "Appearance (mareh) and taste (ta'am)",
+      "timestamps": [
+        "22:02",
+        "22:16",
+        "25:02"
+      ]
+    },
+    {
+      "term": "Water invalidates mikvah",
+      "timestamps": [
+        "11:32",
+        "34:07",
+        "35:51"
+      ]
+    },
+    {
+      "term": "Mikvah purification (hashkakah)",
+      "timestamps": [
+        "34:07",
+        "35:54",
+        "36:44",
+        "37:04",
+        "38:20"
+      ]
+    },
+    {
+      "term": "Maaser Sheni money (kesef ma'aser)",
+      "timestamps": [
+        "01:57",
+        "09:13",
+        "10:42",
+        "13:34"
+      ]
+    },
+    {
+      "term": "Terumot u'Ma'asrot (tithes)",
+      "timestamps": [
+        "01:53",
+        "04:36",
+        "29:29",
+        "30:32"
+      ]
+    },
+    {
+      "term": "Rabbi Elazar's objection",
+      "timestamps": [
+        "29:22",
+        "30:32"
+      ]
+    },
+    {
+      "term": "Kodashim (holy things)",
+      "timestamps": [
+        "01:17",
+        "03:04",
+        "39:02"
+      ]
+    },
+    {
+      "term": "Taharot (purity laws)",
+      "timestamps": [
+        "01:29",
+        "03:04",
+        "39:02"
+      ]
+    },
+    {
+      "term": "Zeraim (agricultural laws)",
+      "timestamps": [
+        "01:35",
+        "03:04",
+        "39:02"
+      ]
+    },
+    {
+      "term": "Nashim (women's laws)",
+      "timestamps": [
+        "02:37",
+        "03:04",
+        "39:07",
+        "39:13"
+      ]
+    },
+    {
+      "term": "Mo'ed (festival laws)",
+      "timestamps": [
+        "02:50",
+        "03:04",
+        "39:08",
+        "54:28"
+      ]
+    },
+    {
+      "term": "Ketanah (underage girl)",
+      "timestamps": [
+        "39:13",
+        "40:27",
+        "41:09",
+        "47:03",
+        "47:54"
+      ]
+    },
+    {
+      "term": "Na'arah (young woman, 12-12.5 years)",
+      "timestamps": [
+        "39:37",
+        "40:26",
+        "43:34",
+        "46:40",
+        "47:54",
+        "52:00",
+        "52:22"
+      ]
+    },
+    {
+      "term": "Bogeret (adult woman, over 12.5 years)",
+      "timestamps": [
+        "43:35",
+        "53:59"
+      ]
+    },
+    {
+      "term": "Knas (fine for seduction/rape)",
+      "timestamps": [
+        "39:26",
+        "39:30",
+        "40:13",
+        "40:22",
+        "40:26",
+        "41:20",
+        "42:03",
+        "43:34",
+        "44:09",
+        "44:38",
+        "45:21",
+        "45:50",
+        "46:33",
+        "47:40",
+        "49:03"
+      ]
+    },
+    {
+      "term": "Mecher (sale into servitude)",
+      "timestamps": [
+        "39:19",
+        "40:29",
+        "46:45",
+        "47:03",
+        "47:40",
+        "49:03"
+      ]
+    },
+    {
+      "term": "Rabbi Meir position",
+      "timestamps": [
+        "46:33",
+        "47:40",
+        "52:07"
+      ]
+    },
+    {
+      "term": "Sages (Chachamim) position",
+      "timestamps": [
+        "46:44",
+        "47:03",
+        "52:11"
+      ]
+    },
+    {
+      "term": "Miun (girl's rejection of marriage)",
+      "timestamps": [
+        "49:44",
+        "50:14",
+        "50:51",
+        "52:11",
+        "52:29"
+      ]
+    },
+    {
+      "term": "Chalitzah (brother-in-law strap ceremony)",
+      "timestamps": [
+        "49:44",
+        "49:59",
+        "50:10",
+        "51:21",
+        "52:07",
+        "52:29"
+      ]
+    },
+    {
+      "term": "Tekiah (shofar blast)",
+      "timestamps": [
+        "54:30",
+        "54:54",
+        "55:05",
+        "56:30",
+        "57:04"
+      ]
+    },
+    {
+      "term": "Havdalah (blessing separating holy from mundane)",
+      "timestamps": [
+        "54:38",
+        "55:13",
+        "55:21",
+        "56:54",
+        "58:00",
+        "59:06",
+        "59:35"
+      ]
+    },
+    {
+      "term": "Erev Shabbat (Friday night transition)",
+      "timestamps": [
+        "54:54",
+        "55:05"
+      ]
+    },
+    {
+      "term": "Motzei Shabbat (Saturday night, end of Shabbat)",
+      "timestamps": [
+        "55:21",
+        "57:56",
+        "58:00"
+      ]
+    },
+    {
+      "term": "Melachah (creative work)",
+      "timestamps": [
+        "54:35",
+        "54:50",
+        "55:30"
+      ]
+    },
+    {
+      "term": "Kodesh (holy)",
+      "timestamps": [
+        "56:08",
+        "58:00",
+        "58:14",
+        "59:35"
+      ]
+    },
+    {
+      "term": "Chol (weekday, mundane)",
+      "timestamps": [
+        "58:00",
+        "58:14",
+        "59:35"
+      ]
+    }
+  ]
+}

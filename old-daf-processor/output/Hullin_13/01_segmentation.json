@@ -1,0 +1,495 @@
+{
+  "masechta": "Chullin",
+  "daf": 13,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to the Mishna: Deaf, Mentally Impaired, and Minors Performing Shechita",
+      "display_title": "Cheresh, Shoteh, Katan",
+      "timestamp": "00:22",
+      "micro_segments": [
+        {
+          "title": "Opening question: Does shechita require only physical action or does it require intention (kavana)?",
+          "display_title": "Physical Act vs. Intenti…",
+          "timestamp": "00:22"
+        },
+        {
+          "title": "The fundamental status of cheresh, shoteh, and katan as non-agents (lo bnei daat) and their capacity to effect halakhic change",
+          "display_title": "Non-Agency & Halakhic St…",
+          "timestamp": "00:34"
+        },
+        {
+          "title": "Distinction between daat (comprehensive legal agency) and kavana (specific intention) in halakhic analysis",
+          "display_title": "Daat vs. Kavana",
+          "timestamp": "00:58"
+        }
+      ]
+    },
+    {
+      "title": "The Three Categories of Action and Intention for Minors",
+      "display_title": "Three Categories",
+      "timestamp": "03:42",
+      "micro_segments": [
+        {
+          "title": "Category 1: Naked intention alone (machshava grudit) without action—not recognized by halakha",
+          "display_title": "Intention Alone",
+          "timestamp": "03:42"
+        },
+        {
+          "title": "Category 2: Self-evident action whose purpose is clear from context (maaseh atzmo mevuat)",
+          "display_title": "Self-Evident Action",
+          "timestamp": "04:04"
+        },
+        {
+          "title": "Category 3: The middle case—intention evident through action but with ambiguity (machshavto nikeret mitoch maasav)",
+          "display_title": "Ambiguous Action",
+          "timestamp": "04:04"
+        },
+        {
+          "title": "Tosafot's interpretation: Halakha does not acknowledge a minor's stated intention but can recognize the type of action performed objectively",
+          "display_title": "Tosafot's Framework",
+          "timestamp": "05:51"
+        },
+        {
+          "title": "Rashi's interpretation: A minor's intention is believed only when backed by both statement and corresponding action",
+          "display_title": "Rashi's Framework",
+          "timestamp": "14:51"
+        }
+      ]
+    },
+    {
+      "title": "Case Study: Moving Fruit to the Roof (Machshavto Nikeret Mitoch Maasav)",
+      "display_title": "Fruit on Roof Case",
+      "timestamp": "16:56",
+      "micro_segments": [
+        {
+          "title": "The case of fruit brought to a roof to protect from infestation, then dew falls on it (kiyutan status)",
+          "display_title": "Case Setup",
+          "timestamp": "16:56"
+        },
+        {
+          "title": "For an adult, pure intention (even without action) gives the dew halakhic significance for tumah",
+          "display_title": "Adult's Intention",
+          "timestamp": "18:03"
+        },
+        {
+          "title": "For cheresh, shoteh, and katan, intention alone (even if stated) does not render fruit susceptible to tumah",
+          "display_title": "Minor's Intention",
+          "timestamp": "18:21"
+        },
+        {
+          "title": "Rabbi Yochanan's qualification: The middle case applies when the action itself is not completely self-evident (e.g., flipping fruit after dew)",
+          "display_title": "Middle Case Example",
+          "timestamp": "19:25"
+        }
+      ]
+    },
+    {
+      "title": "Resolution: Action, Intention, and Biblical versus Rabbinic Weight",
+      "display_title": "Action vs. Intention Lev…",
+      "timestamp": "23:06",
+      "micro_segments": [
+        {
+          "title": "Yesh lahem maaseh ve-afilu mi-d'oraita: Self-evident action has biblical weight for minors",
+          "display_title": "Action Biblically Valid",
+          "timestamp": "23:06"
+        },
+        {
+          "title": "Ein lahem machshava ve-afilu mi-derabanan: Intention alone has no weight even rabbinically",
+          "display_title": "Intention Never Valid",
+          "timestamp": "23:19"
+        },
+        {
+          "title": "Middle case (machshavto nikeret mitoch maasav): Has rabbinic weight only, no biblical weight",
+          "display_title": "Middle Case Level",
+          "timestamp": "23:30"
+        },
+        {
+          "title": "Philosophical synthesis: Intention (kavana) defines the type of action, not a separate criterion; for minors, only objective action analysis applies",
+          "display_title": "Kavana's Role",
+          "timestamp": "24:56"
+        }
+      ]
+    },
+    {
+      "title": "Intentionality Requirements in Offerings (Korbanot): Contrast with Chulin",
+      "display_title": "Offerings & Intention",
+      "timestamp": "29:42",
+      "micro_segments": [
+        {
+          "title": "Question: How do we identify someone acting unintentionally (mitasek) when slaughtering a korban?",
+          "display_title": "Mitasek Definition",
+          "timestamp": "29:42"
+        },
+        {
+          "title": "Torah requirement for korbanot: Shechita must be done knowing one is slaughtering an animal (shechita leshem ben bakar)",
+          "display_title": "Korban Requirement",
+          "timestamp": "30:24"
+        },
+        {
+          "title": "Implication for minors: Can a minor perform shechitat kedoshim? Depends on whether the action objectively reveals knowledge of the korban's status",
+          "display_title": "Minor & Korban",
+          "timestamp": "31:33"
+        },
+        {
+          "title": "Tosafot's expansion: Beyond knowing it is an animal, one must know it is a korban (kedoshim), not think it is chulin (unconsecrated)",
+          "display_title": "Kedoshim Intent",
+          "timestamp": "31:59"
+        }
+      ]
+    },
+    {
+      "title": "Shechitat Oved Kochavim (Non-Jew's Slaughter): Categorical Exclusion and Status",
+      "display_title": "Non-Jew's Slaughter",
+      "timestamp": "34:47",
+      "micro_segments": [
+        {
+          "title": "Mishna: A non-Jew's slaughter is neveilah (invalid) and causes tumah even through carrying; technically correct slaughter does not validate it",
+          "display_title": "Neveilah Status",
+          "timestamp": "34:47"
+        },
+        {
+          "title": "The non-Jew is categorically excluded from the role of shochet—not about intention or technical skill but legal incapacity",
+          "display_title": "Categorical Exclusion",
+          "timestamp": "35:33"
+        },
+        {
+          "title": "Concern addressed: Is the non-Jew's slaughter forbidden in benefit because performed as avodah zarah (idolatry)?",
+          "display_title": "Avodah Zarah Concern",
+          "timestamp": "35:54"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Eliezer's Position: Assumption of Idolatrous Intent vs. Mainstream View",
+      "display_title": "Rabbi Eliezer View",
+      "timestamp": "36:46",
+      "micro_segments": [
+        {
+          "title": "Rabbi Eliezer: Stam machshavas oved kochavim (default assumption) is for avodah zarah; slaughter is forbidden in benefit",
+          "display_title": "Eliezer's Assumption",
+          "timestamp": "36:46"
+        },
+        {
+          "title": "Objection: Even if he states intent to avodah zarah, it is not an action that changes the status of your animal",
+          "display_title": "Objection to Intent",
+          "timestamp": "37:20"
+        },
+        {
+          "title": "Mainstream view (not Rabbi Eliezer): We do not assume stam non-Jew intends avodah zarah; animal is neveilah but not assur in benefit",
+          "display_title": "Mainstream View",
+          "timestamp": "38:43"
+        }
+      ]
+    },
+    {
+      "title": "Whether Minim (Apostate Jews and Committed Idolaters) Exist Among Non-Jews",
+      "display_title": "Minim Question",
+      "timestamp": "43:27",
+      "micro_segments": [
+        {
+          "title": "Concern: Even if most non-Jews are not sincere idolaters, perhaps we should worry about the minority who are (minim)?",
+          "display_title": "Minority Concern",
+          "timestamp": "43:27"
+        },
+        {
+          "title": "Response (Rav Nachman): Ein minim ba-umot ovdei kochavim—there are no minim among non-Jews; even committed ones are not considered minim",
+          "display_title": "No Minim Among",
+          "timestamp": "43:57"
+        },
+        {
+          "title": "Explanation: The majority of non-Jews outside Israel (chutz la-aretz) practice idolatry as mere custom (minhag avoteihen), not sincere belief",
+          "display_title": "Custom vs. Belief",
+          "timestamp": "45:18"
+        },
+        {
+          "title": "Medieval application: Tosafot and others invoke this principle to permitting transactions with Christians, treating it as a halakhic fiction",
+          "display_title": "Medieval Application",
+          "timestamp": "46:30"
+        }
+      ]
+    },
+    {
+      "title": "Clarification: Minim Definition and Non-Jews Bringing Sacrifices",
+      "display_title": "Minim & Sacrifices",
+      "timestamp": "49:33",
+      "micro_segments": [
+        {
+          "title": "Different contexts for 'minim': For slaughter, a non-Jew minin is not assumed to sacrifice to idolatry; for slaughter, a Jew min is so assumed",
+          "display_title": "Context-Specific",
+          "timestamp": "49:33"
+        },
+        {
+          "title": "Different contexts for execution: Both Jewish and non-Jewish minim should be killed per kal vachomer logic",
+          "display_title": "Execution Rule",
+          "timestamp": "50:36"
+        },
+        {
+          "title": "Torah text (mikkem—'from you') allows non-Jews to bring sacrifices without distinction, even if idolaters; Jews (min) cannot",
+          "display_title": "Sacrifices Allowed",
+          "timestamp": "52:02"
+        }
+      ]
+    },
+    {
+      "title": "Tumah of Idolatrous Offerings: Comparison to Neveilah and Corpse Tumah",
+      "display_title": "Idolatry & Tumah",
+      "timestamp": "54:29",
+      "micro_segments": [
+        {
+          "title": "Shimush distinction: Non-Jew's slaughter causes tumah only by carrying (masses); idolatrous offering may cause tumah even in tent (ohel)",
+          "display_title": "Tumah Levels",
+          "timestamp": "54:29"
+        },
+        {
+          "title": "Rabbi Yehuda ben Beseira: Idolatrous offering is compared to corpse tumah, causing tumah in tent; debate over whether mishna follows his view",
+          "display_title": "Rabbi Yehuda View",
+          "timestamp": "55:59"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Cheresh, shoteh, katan (deaf, mentally impaired, minor)",
+      "timestamps": [
+        "00:10",
+        "00:34",
+        "01:19",
+        "02:01",
+        "03:07",
+        "12:07",
+        "18:24",
+        "31:33"
+      ]
+    },
+    {
+      "term": "Daat (legal agency/capacity)",
+      "timestamps": [
+        "00:37",
+        "01:50",
+        "16:23",
+        "28:02"
+      ]
+    },
+    {
+      "term": "Kavana (intention)",
+      "timestamps": [
+        "00:58",
+        "01:00",
+        "09:10",
+        "10:22",
+        "10:51",
+        "11:17"
+      ]
+    },
+    {
+      "term": "Maaseh (action)",
+      "timestamps": [
+        "02:33",
+        "03:01",
+        "06:32",
+        "07:01",
+        "23:06"
+      ]
+    },
+    {
+      "term": "Machshava (thought/intention) vs. maaseh",
+      "timestamps": [
+        "02:33",
+        "03:01",
+        "03:42",
+        "04:04"
+      ]
+    },
+    {
+      "term": "Machshavto nikeret mitoch maasav (intention evident through action)",
+      "timestamps": [
+        "04:04",
+        "07:04",
+        "23:30"
+      ]
+    },
+    {
+      "term": "Tosafot interpretation",
+      "timestamps": [
+        "05:53",
+        "07:47",
+        "12:01",
+        "14:30",
+        "31:59"
+      ]
+    },
+    {
+      "term": "Rashi interpretation",
+      "timestamps": [
+        "05:55",
+        "14:54",
+        "15:20",
+        "31:51"
+      ]
+    },
+    {
+      "term": "Kiyutan (fruit susceptible to tumah via liquid)",
+      "timestamps": [
+        "17:47",
+        "18:03",
+        "18:33"
+      ]
+    },
+    {
+      "term": "Mi-d'oraita vs. mi-derabanan (biblical vs. rabbinic weight)",
+      "timestamps": [
+        "21:14",
+        "23:06",
+        "23:19",
+        "23:30"
+      ]
+    },
+    {
+      "term": "Shechitat chulin vs. shechitat kedoshim (unconsecrated vs. consecrated slaughter)",
+      "timestamps": [
+        "30:33",
+        "31:39",
+        "31:47"
+      ]
+    },
+    {
+      "term": "Korban (sacrifice/offering)",
+      "timestamps": [
+        "04:20",
+        "04:41",
+        "04:54",
+        "29:42",
+        "30:24",
+        "31:59",
+        "52:02"
+      ]
+    },
+    {
+      "term": "Mitasek (unintentional/incidental action)",
+      "timestamps": [
+        "29:59",
+        "32:16"
+      ]
+    },
+    {
+      "term": "Oved kochavim (non-Jew/idolater)",
+      "timestamps": [
+        "34:47",
+        "35:16",
+        "36:56",
+        "43:47",
+        "44:00",
+        "49:56"
+      ]
+    },
+    {
+      "term": "Neveilah (invalid animal; non-ritually slaughtered)",
+      "timestamps": [
+        "34:48",
+        "35:03",
+        "35:12",
+        "38:43"
+      ]
+    },
+    {
+      "term": "Avodah zarah (idolatry/idolatrous worship)",
+      "timestamps": [
+        "36:56",
+        "37:13",
+        "38:49",
+        "43:06",
+        "46:38",
+        "51:26",
+        "52:39",
+        "54:33"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer position on non-Jew intent",
+      "timestamps": [
+        "36:49",
+        "36:56"
+      ]
+    },
+    {
+      "term": "Min/minim (apostate Jew, committed idolater)",
+      "timestamps": [
+        "38:01",
+        "39:04",
+        "43:27",
+        "43:57",
+        "49:33",
+        "50:36",
+        "50:44",
+        "51:34"
+      ]
+    },
+    {
+      "term": "Chutz la-aretz (outside Israel)",
+      "timestamps": [
+        "45:18",
+        "47:31"
+      ]
+    },
+    {
+      "term": "Eretz Yisrael vs. chutz la-aretz distinction",
+      "timestamps": [
+        "45:18",
+        "47:29"
+      ]
+    },
+    {
+      "term": "Nochrim (non-Jews) sincerity and religious practice",
+      "timestamps": [
+        "45:18",
+        "45:43"
+      ]
+    },
+    {
+      "term": "Minhag avoteihen (custom of ancestors)",
+      "timestamps": [
+        "45:58"
+      ]
+    },
+    {
+      "term": "Medieval application to Christianity",
+      "timestamps": [
+        "46:30",
+        "47:23"
+      ]
+    },
+    {
+      "term": "Sacrifices of non-Jews (korban mi-nochrim)",
+      "timestamps": [
+        "52:02",
+        "52:40"
+      ]
+    },
+    {
+      "term": "Tumah (ritual impurity)",
+      "timestamps": [
+        "17:19",
+        "17:31",
+        "35:03",
+        "54:29",
+        "55:59"
+      ]
+    },
+    {
+      "term": "Ohel (tent; causes tumah even without contact)",
+      "timestamps": [
+        "54:33",
+        "56:30"
+      ]
+    },
+    {
+      "term": "Rabbi Yehuda ben Beseira",
+      "timestamps": [
+        "55:11",
+        "55:59"
+      ]
+    }
+  ]
+}

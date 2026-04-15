@@ -1,0 +1,57 @@
+### Menachot 99a
+
+**1.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר צָפוֹן וְדָרוֹם, שַׁפִּיר.
+*Translation:* The Gemara continues: **Granted, according to the one who said** the tables were positioned along the width of the Sanctuary, from **north** to **south,** it works out **well.** According to this opinion there was enough room on the east and the west of the Table for the two priests arranging the new loaves to stand on one side of the Table and for the two priests removing the old loaves to stand on the other side.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא לְמַאן דְּאָמַר מִזְרָח וּמַעֲרָב, מִכְּדֵי שֻׁלְחָן כַּמָּה מָשׁוּךְ מִן הַכּוֹתֶל? שְׁתֵּי אַמּוֹת וּמֶחֱצָה, וְאַמָּה דִּידֵיהּ, וּשְׁתֵּי אַמּוֹת וּמֶחֱצָה דְּבֵינֵי בֵּינֵי.
+*Translation:* **But according to the one who said** the tables were positioned along the length of the Sanctuary, from **east** to **west,** in which case the priests arranging and removing the shewbread would stand at the north and south of the Table, this is difficult. **Now,** consider how much space was taken up by the tables: **How far** was the **Table removed from the** northern **wall** of the Sanctuary? It was **two and a half cubits** away from the wall, as this is the space necessary for the two priests to pass. **And** to this one must add one **cubit** for the width of the northern row of tables **itself, and** another **two and a half cubits that** were **between** the northern row of five tables and Moses’ Table, as space for two priests to pass is required here as well.
+
+**3.**
+*Hebrew/Aramaic:* וְאַמָּה, וּשְׁתֵּי אַמּוֹת וּמֶחֱצָה דְּבֵינֵי בֵּינֵי, וְאַמָּה דִּידֵיהּ – אִישְׁתְּכַח דְּקָאָכֵיל שׁוּלְחָן פַּלְגָא דְּאַמְּתָא בְּדָרוֹם.
+*Translation:* The Gemara continues to calculate the area occupied by the tables: **And** then one must add one **cubit** for the width of the Table of Moses, **and two and a half cubits that** were **between** Moses’ Table and the southern row of tables, **and** another **cubit** for the width of the southern row **itself.** This totals ten and a half cubits, according to which **it is found that** the **Table occupies half a cubit in the south** of the Sanctuary, although the Table is supposed to be entirely in the north of the Sanctuary.
+
+**4.**
+*Hebrew/Aramaic:* מִי סָבְרַתְּ שֻׁלְחָן דְּמֹשֶׁה בַּהֲדַיְיהוּ הֲוָה יָתֵיב? לָא, דְּמַידְלֵי לֵיהּ, וּמַנַּח לֵיהּ, וּמְיתַתֵּי לְהוּ לְדִידְהוּ פּוּרְתָּא, כְּתַלְמִיד הַיּוֹשֵׁב לִפְנֵי רַבּוֹ.
+*Translation:* The Gemara answers: **Do you maintain** that the **Table of Moses resided together with** the other ten tables, i.e., parallel to them? It was **not** so. The Table of Moses was situated to the west of the other tables, in the space corresponding to the space between the two rows of tables, and its width should not be added to the width of the two rows of Solomon’s tables. All the tables were therefore situated in the north of the Sanctuary. Since the Temple was built on terrain that sloped downward from west to east, this means **that** the Table of Moses **was raised** above the tables of Solomon. The Table of Moses **was placed** to the west **and** the tables of Solomon **were lowered slightly** toward the east. Solomon’s tables therefore appeared in relation to Moses’ Table **as a student who sits** on a lower level **before his teacher.**
+
+**5.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: עֲשָׂרָה שֻׁלְחָנוֹת עָשָׂה שְׁלֹמֹה, וְלֹא הָיוּ מְסַדְּרִין אֶלָּא עַל שֶׁל מֹשֶׁה, שֶׁנֶּאֱמַר: ״וְאֶת הַשֻּׁלְחָן אֲשֶׁר עָלָיו לֶחֶם הַפָּנִים זָהָב״.
+*Translation:* § **The Sages taught** in a *baraita*: **Solomon built ten tables** that were situated in the Sanctuary, in addition to Moses’ Table, **but** the priests **would arrange** the shewbread **only upon** the Table **of Moses.** This is derived from a verse, **as it is stated:** “And Solomon made all the vessels that were in the House of the Lord, the golden altar, **and the Table upon which the shewbread was, of gold”** (I Kings 7:48), indicating that the shewbread was placed on only one Table.
+
+**6.**
+*Hebrew/Aramaic:* עֶשֶׂר מְנוֹרוֹת עָשָׂה שְׁלֹמֹה, וְלֹא הָיוּ מַדְלִיקִין אֶלָּא בְּשֶׁל מֹשֶׁה, שֶׁנֶּאֱמַר: ״אֶת מְנוֹרַת הַזָּהָב וְנֵרֹתֶיהָ לְבָעֵר בָּעֶרֶב״.
+*Translation:* Likewise, **Solomon built ten candelabra, but** the priests **would kindle** the lamps **only on** the Candelabrum **of Moses.** This is derived from a verse, **as it is stated:** “And they burn unto the Lord every morning and every evening burnt offerings and sweet incense; the shewbread also they arrange in order upon the pure Table, and **the Candelabrum of gold with its lamps, to burn** every **evening”** (II Chronicles 13:11). The singular form indicates that the lamps were kindled on only one Candelabrum.
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ אוֹמֵר: עַל כּוּלָּם הָיוּ מְסַדְּרִין, שֶׁנֶּאֱמַר: ״אֶת הַשֻּׁלְחָנוֹת וַעֲלֵיהֶם לֶחֶם הַפָּנִים״, וּבְכוּלָּן הָיוּ מַדְלִיקִין, שֶׁנֶּאֱמַר: ״אֶת הַמְּנֹרוֹת וְנֵרֹתֵיהֶם לְבַעֲרָם כַּמִּשְׁפָּט לִפְנֵי הַדְּבִיר זָהָב סָגוּר״.
+*Translation:* **Rabbi Elazar ben Shammua says: They would arrange** the shewbread **upon all** the tables, **as it is stated:** “And Solomon made all the vessels that were in the House of God, the golden altar as well, and **the tables upon which was the shewbread”** (II Chronicles 4:19). The plural form indicates that the shewbread was arranged on all the tables. **And they would kindle** the lamps **on all** the candelabra, **as it is stated** in the subsequent verse: **“And the candelabra with their lamps, which they should burn according to the ordinance before the Sanctuary, of pure gold”** (II Chronicles 4:20).
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: לֹא הָיוּ מְסַדְּרִין אֶלָּא עַל שֶׁל מֹשֶׁה, אֶלָּא מָה אֲנִי מְקַיֵּים ״וְאֶת הַשֻּׁלְחָנוֹת אֲשֶׁר עֲלֵיהֶם לֶחֶם הַפָּנִים זָהָב״? אֵלּוּ שְׁלֹשָׁה שֻׁלְחָנוֹת שֶׁהָיוּ בַּמִּקְדָּשׁ: שְׁנַיִם שֶׁהָיוּ בְּאוּלָם מִבִּפְנִים לְפֶתַח הַבַּיִת, אֶחָד שֶׁל כֶּסֶף וְאֶחָד שֶׁל זָהָב.
+*Translation:* **Rabbi Yosei, son of Rabbi Yehuda, says: They would arrange** the shewbread **only upon** the Table **of Moses. Rather, how do I realize** the meaning of the verse: **“And the tables upon which was the shewbread…**of pure **gold”** (II Chronicles 4:19–20)? **These are** the **three tables that were in the Temple,** of which there were **two that were** situated **in the Entrance Hall** to the Sanctuary, **on the inside** near **to the entrance to the Temple,** i.e., near the entrance to the Sanctuary. **One** of these tables was made **of silver, and** the other **one** was made **of gold.**
+
+**9.**
+*Hebrew/Aramaic:* עַל שֶׁל כֶּסֶף נוֹתֵן לֶחֶם הַפָּנִים בִּכְנִיסָתוֹ, וְעַל שֶׁל זָהָב בִּיצִיאָתוֹ, שֶׁמַּעֲלִין בַּקּוֹדֶשׁ וְלֹא מוֹרִידִין. אֶחָד שֶׁל זָהָב בִּפְנִים, שֶׁעָלָיו לֶחֶם הַפָּנִים תָּמִיד.
+*Translation:* **On** the table **of silver** the priest **places the** new **shewbread** that has been baked, **before its entrance** into the Sanctuary, so that the loaves may cool a little from the heat of the oven. **And** when the old shewbread is removed from the shewbread Table it is placed **on** the table **of gold upon its exit** from the Sanctuary, until the frankincense is burned on the altar. The reason the shewbread is placed on a silver table before it is brought into the Sanctuary and on a gold one when it is removed is **that one elevates** to a higher level **in** matters of **sanctity and one does not downgrade.** Since it is set on the gold shewbread Table all week, it cannot be downgraded to a silver table upon its removal. The Gemara concludes: The third of the three tables is the **one** Table **of gold inside** the Sanctuary **upon which the shewbread** is **always** found.
+
+**10.**
+*Hebrew/Aramaic:* וּמְנָא לַן דְּאֵין מוֹרִידִין? אָמַר רַבִּי: דְּאָמַר קְרָא: ״וַיָּקֶם מֹשֶׁה אֶת הַמִּשְׁכָּן וַיִּתֵּן אֶת אֲדָנָיו וַיָּשֶׂם אֶת קְרָשָׁיו וַיִּתֵּן אֶת בְּרִיחָיו וַיָּקֶם אֶת עַמּוּדָיו״.
+*Translation:* The Gemara asks: **And from where do we** derive **that one does not downgrade** in matters of sanctity? **Rabbi** Yehuda HaNasi **said:** This is derived from a verse, **as the verse states: “And Moses erected the Tabernacle, and he laid its sockets, and set up its boards, and put in its bars, and erected its pillars”** (Exodus 40:18). This teaches that once Moses, who was at a greater level of sanctity than the rest of the people, began the work of erecting the Tabernacle, he alone completed it.
+
+**11.**
+*Hebrew/Aramaic:* וּמְנָלַן דְּמַעֲלִין? אָמַר רַבִּי אַחָא בַּר יַעֲקֹב: דְּאָמַר קְרָא ״אֵת מַחְתּוֹת הַחַטָּאִים הָאֵלֶּה בְּנַפְשֹׁתָם וְעָשׂוּ אֹתָם רִקֻּעֵי פַחִים צִפּוּי לַמִּזְבֵּחַ כִּי הִקְרִיבֻם לִפְנֵי ה׳ וַיִּקְדָּשׁוּ וְיִהְיוּ לְאוֹת לִבְנֵי יִשְׂרָאֵל״ – בַּתְּחִילָּה תַּשְׁמִישֵׁי מִזְבֵּחַ, וְעַכְשָׁיו גּוּפוֹ שֶׁל מִזְבֵּחַ.
+*Translation:* The Gemara asks: **And from where do we** derive **that one elevates** to a higher level in matters of sanctity? **Rabbi Aḥa bar Ya’akov said:** This is derived from a verse, **as the verse states** with regard to the coal pans of the men of Korah’s assembly, in which they burned incense before they were consumed by a fire: **“The coal pans of these men who have sinned at the cost of their lives, and let them be made beaten plates for a covering of the altar, for they have become sacred because they were brought before the Lord, that they may be a sign to the children of Israel”** (Numbers 17:3). **Initially** the coal pans had the status of **articles** used in the service **of** the **altar,** as they contained the incense, **and now** that they have been made into a covering for the altar their status has been elevated to that of **the altar itself.**
+
+**12.**
+*Hebrew/Aramaic:* ״אֲשֶׁר שִׁבַּרְתָּ וְשַׂמְתָּם בָּאָרוֹן״ – תָּנֵי רַב יוֹסֵף: מְלַמֵּד שֶׁהַלּוּחוֹת וְשִׁבְרֵי לוּחוֹת מוּנָּחִין בָּאָרוֹן. מִכָּאן לְתַלְמִיד חָכָם שֶׁשָּׁכַח תַּלְמוּדוֹ מֵחֲמַת אוֹנְסוֹ, שֶׁאֵין נוֹהֲגִין בּוֹ מִנְהַג בִּזָּיוֹן.
+*Translation:* § Having mentioned the principle that one does not downgrade in matters of sanctity, the Gemara cites a related issue. The verse states: “At that time the Lord said to me: Hew for yourself two tablets of stone like the first…And I will write on the tablets the words that were on the first tablets, **which you broke, and you shall put them in the Ark”** (Deuteronomy 10:1–2). **Rav Yosef teaches** a *baraita*: This verse **teaches that** both **the tablets** of the Covenant **and** the **pieces of** the broken **tablets are placed in the Ark.** One should learn **from here that with regard to a Torah scholar who has forgotten his** Torah **knowledge due to** circumstances **beyond his control,** e.g., illness, **one may not behave toward him** in **a degrading manner.** Although the first tablets were broken it is prohibited to treat them with disrespect, due to their sanctity. A Torah scholar who forgot the Torah knowledge he once possessed is likened to these broken tablets.
+
+**13.**
+*Hebrew/Aramaic:* (סִימָן ״בִּיטֵּל״ ״סָרַח״ ״וְשָׁכַח״).
+*Translation:* The Gemara notes **a mnemonic** for the following three statements of Reish Lakish, which are all related to the concept stated by Rav Yosef: One who **caused dereliction** of the study of Torah for the sake of a mitzva, a Torah scholar who **sinned, and** a Torah scholar who **forgot** his studies.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: פְּעָמִים
+*Translation:* **Reish Lakish says: Sometimes**

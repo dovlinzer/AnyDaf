@@ -1,0 +1,311 @@
+# Berakhot 5 — Daf Yomi Shiur
+
+## Geulah LeTefillah Recap
+
+### Geulah Arichta Review
+
+> **Hebrew/Aramaic:** אָמְרִי: כֵּיוָן דְּתַקִּינוּ רַבָּנַן ״הַשְׁכִּיבֵנוּ״ — כִּגְאוּלָּה אֲרִיכְתָּא דָּמְיָא. דְּאִי לָא תֵּימָא הָכִי, שַׁחֲרִית הֵיכִי מָצֵי סָמֵיךְ? וְהָא אָמַר רַבִּי יוֹחָנָן: בַּתְּחִלָּה אוֹמֵר: ״ה׳ שְׂפָתַי תִּפְתָּח״, וּלְבַסּוֹף הוּא אוֹמֵר: ״יִהְיוּ לְרָצוֹן אִמְרֵי פִי״.
+>
+> **Translation:** **They say** in response: **Since the Sages instituted** the practice of reciting: **Help us lie down, it is considered one extended blessing of redemption,** and therefore does not constitute an interruption. **As if you fail to say** that the sections added by the Sages are considered no less significant than the original prayers, **then can one juxtapose redemption to prayer** even **in the morning? Didn't Rabbi Yoḥanan say: Before** every prayer **one recites** the verse: **"Lord, open my lips, that my mouth may declare Your glory"** (Psalms 51:17) as a prelude to prayer? **Afterward, one recites** the verse: **"May the words of my mouth and the meditations of my heart be acceptable before You"** (Psalms 19:15). Doesn't the verse: Lord, open my lips, constitute an interruption between redemption and prayer?
+
+The Gemara on daf 4b had been engaged with the question of when one davens Shemoneh Esrei at night — whether one first says Shema and then davens, or the reverse — and, more precisely, the ideal of *somech geulah letfillah*: juxtaposing Shema with Shemoneh Esrei. As a concluding remark on that topic, the Gemara noted that at night we do not always achieve this juxtaposition precisely, because there is a second bracha — Hashkivenu — that intervenes between the conclusion of Shema and the beginning of Shemoneh Esrei. The resolution offered was the concept of geulah arichta: an extended geulah. Once the Rabbis established Hashkivenu as part of the liturgy, even though it is not thematically about geulah, it becomes incorporated into and continuous with the geulah bracha. It is therefore still regarded as a form of juxtaposition. This ongoing tension — between Shema as an independent mitzvah recited in the morning and afternoon, and Shema as something that has been transformed and embedded within the structure of the liturgy — is a thread that will continue to run through the sugya.
+
+### Baruch Hashem Le'olam
+
+*[Continued from above]*
+
+Tosfos points out that the distance between Shema and Shemoneh Esrei at Maariv is extended even further in many communities outside Eretz Yisrael, where a third bracha — the lengthy *Baruch Hashem Le'olam* — was inserted. This bracha was instituted primarily because people davened in the fields outside, and one did not want those who had davened to leave, leaving latecomers to walk home alone in the dark. Accordingly, this additional bracha was added to give everyone a chance to catch up. Notably, *Baruch Hashem Le'olam* contains eighteen divine names and functions as something of a miniature Shemoneh Esrei in its own right. Tosfos acknowledges that in principle this insertion creates the same problem of failing to juxtapose Shema and Shemoneh Esrei, but argues that once it becomes part of the established liturgy, it too is absorbed into the extended geulah and is therefore acceptable.
+
+## Ashrei & Missing Nun
+
+### Ashrei Three Times Daily
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֱלְעָזָר, אָמַר רַבִּי אֲבִינָא: כָּל הָאוֹמֵר ״תְּהִלָּה לְדָוִד״ בְּכָל יוֹם שָׁלֹשׁ פְּעָמִים — מוּבְטָח לוֹ שֶׁהוּא בֶּן הָעוֹלָם הַבָּא.
+>
+> **Translation:** **Rabbi Elazar said** that **Rabbi Avina said: Anyone who recites: "A Psalm of David"** (Psalms 145) **three times every day is assured of** a place in **the World-to-Come.**
+
+The Gemara, continuing to address liturgical matters, cites Rabbi Elazar in the name of Rabbi Avina: whoever says *Tehillah LeDavid* — which we call Ashrei, a name drawn from the additional pasuk appended before that perek of *Tehillim begins*, a name which the Gemara itself already uses, suggesting this addition was established at a very early stage — every day, *shalosh pe'amim*, three times, can be assured of being a ben olam habah. This is why we say Ashrei three times: twice in the morning and once at Mincha. It is worth noting that Rashi associates the three recitations with morning, afternoon, and evening, though in practice we do not say it at Maariv.
+
+> **Hebrew/Aramaic:** מַאי טַעְמָא? אִילֵּימָא מִשּׁוּם דְּאָתְיָא בְּאָלֶף בֵּית, נֵימָא ״אַשְׁרֵי תְמִימֵי דָרֶךְ״ דְּאָתְיָא בִּתְמָנְיָא אַפִּין.
+>
+> **Translation:** This statement extolling the significance of this particular chapter of Psalms, usually referred to as *ashrei* because its recitation is preceded by recitation of the verse, "Happy [*ashrei*] are those who dwell in Your House, they praise You Selah" (Psalms 84:5), raises the question: **What is the reason** that such significance is ascribed to this particular chapter? **If you say that it is because it is arranged alphabetically,** then **let us say: "Happy are they who are upright in the way"** (Psalms 119) **where** the alphabetical arrangement **appears eight times**.
+
+The Gemara then asks: mai tama — what is the reason for its special significance? One might suppose it is because of the alef-bet structure of the psalm. The alef-bet as an organizing principle appears to express the idea that the praises are complete and total — from beginning to end, from A to Z, encompassing all possible praise. But if that were the sole reason, one should instead say Ashrei Temimei Darech, the longest perek in Tehillim, which traverses the alef-bet eight times, betamnaya alpin. That alone cannot be the reason.
+
+> **Hebrew/Aramaic:** אֶלָּא מִשּׁוּם דְּאִית בֵּיהּ ״פּוֹתֵחַ אֶת יָדֶךָ״, נֵימָא ״הַלֵּל הַגָּדוֹל״ דִּכְתִיב בֵּיהּ ״נֹתֵן לֶחֶם לְכָל בָּשָׂר״.
+>
+> **Translation:** **Rather,** if you suggest that this particular chapter is recited **because it contains** praise for God's provision of sustenance to all of creation: **"You open Your hand** and satisfy every living thing with favor" (Psalms 145:16), then **let him recite the great *hallel*** (Psalms 136), **in which** numerous praises are **written,** including: **"Who provides food to all flesh,** Whose kindness endures forever" (Psalms 136:25).
+
+Alternatively, perhaps it is because *Tehillah LeDavid* contains the pasuk Poteach et yadecha umasbia lechol chai ratzon — You open Your hand and satisfy the needs of all living creatures. This pasuk articulates the most central and universal expression of divine beneficence: that God provides sustenance for all of creation, not merely for Jews or for human beings. Some have the practice of physically opening their hands when reciting this pasuk as a kind of bodily enactment of the idea. But if that were the sole reason, one should instead say Hallel Hagadol — not Hallel Hamitzri recited on Yamim Tovim, but the Hallel embedded in the Pesukei D'zimra of Shabbos — which likewise contains the expression Nosein lechem l'chol basar, conveying the same idea.
+
+> **Hebrew/Aramaic:** אֶלָּא מִשּׁוּם דְּאִית בֵּיהּ תַּרְתֵּי.
+>
+> **Translation:** **Rather,** the reason why *tehilla leDavid* is accorded preference **is because it contains both** an alphabetic acrostic as well as mention of God's provision of sustenance to all creation.
+
+The Gemara therefore concludes: mishum d'is bei tarti — because *Tehillah LeDavid* has both. It combines the comprehensive quality of the alef-bet structure with the fundamental expression of God's universal beneficence. Together these convey, with the most complete totality, the idea of God's constant and all-encompassing provision for every creature. Presumably, the significance of reciting this three times daily lies in what it does for the one who says it: impressing upon us, day after day, this profound awareness of God's constant sustenance of all creation — and it is this deep, ongoing awareness that is connected to becoming a ben olam habah.
+
+### Missing Nun in Ashrei
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מִפְּנֵי מָה לֹא נֶאֱמַר נוּן בְּ״אַשְׁרֵי״ — מִפְּנֵי שֶׁיֵּשׁ בָּהּ מַפַּלְתָּן שֶׁל שׂוֹנְאֵי יִשְׂרָאֵל, דִּכְתִיב: ״נָפְלָה לֹא תוֹסִיף קוּם בְּתוּלַת יִשְׂרָאֵל״.
+>
+> **Translation:** Additionally, with regard to this psalm, **Rabbi Yoḥanan said: Why is there no** verse beginning with the letter ***nun* in *ashrei*? Because it contains** an allusion to **the downfall of the enemies of Israel,** a euphemism for Israel itself. **As it is written: "The virgin of Israel has fallen and she will rise no more;** abandoned in her land, none will raise her up" (Amos 5:2), which begins with the letter *nun*. Due to this verse, *ashrei* does not include a verse beginning with the letter *nun*.
+
+Rabbi Yochanan raises a striking question: mipnei mah lo ne'emar nun b'Ashrei — why is the letter nun absent from *Tehillah LeDavid*? The answer given is that the nun carries with it an ominous association: mipnei sheyesh bo mapalatan shel sonei Yisrael — because it evokes the falling of the enemies of Israel. The phrase sonei Yisrael is a euphemism; the text means Israel itself. The reference is to the pasuk in Amos: Nafla lo tosif kum besulas Yisrael — She has fallen, she will no longer rise, O maiden of Israel. To include a nun verse in a psalm of praise would have risked evoking this dark resonance.
+
+> **Hebrew/Aramaic:** בְּמַעְרְבָא מְתָרְצִי לַהּ הָכִי: ״נָפְלָה וְלֹא תּוֹסִיף לִנְפּוֹל עוֹד, קוּם בְּתוּלַת יִשְׂרָאֵל״. אָמַר רַב נַחְמָן בַּר יִצְחָק: אֲפִילּוּ הָכִי, חָזַר דָּוִד וּסְמָכָן בְּרוּחַ הַקֹּדֶשׁ, שֶׁנֶּאֱמַר ״סוֹמֵךְ ה׳ לְכָל הַנֹּפְלִים״.
+>
+> **Translation:** In order to ease the harsh meaning of this verse, **in the West,** in Eretz Yisrael, **they interpreted it** with a slight adjustment: **"She has fallen but she shall fall no more; rise, virgin of Israel." Rav Naḥman bar Yitzḥak** adds: **Even so, David went and** provided **support, through divine inspiration.** Although King David did not include a verse beginning with the letter *nun* alluding to Israel's downfall, he foresaw the verse that would be written by Amos through divine inspiration; and the very next verse, which begins with the letter *samekh*, reads: **"The Lord upholds the fallen** and raises up those who are bowed down" (Psalms 145:14). Therefore, through divine inspiration, David offered hope and encouragement; although the virgin of Israel may have fallen, the Lord upholds the fallen.
+
+In Eretz Yisrael, the Gemara notes, the difficult pasuk was reread differently: Nafla v'lo tosif linpol, kum b'nos Yisrael — She has fallen, but she shall fall no more; arise, O daughter of Israel. By shifting where the pause falls, the verse is transformed from a sentence of doom into an expression of hope. This is admittedly a striking answer. Among the many alef-bet psalms throughout Tanach, the omission of a single letter in this one psalm is attributed to the fact that it would have evoked this particular pasuk. What precisely this means — and why the association is so powerful — is left open by the Gemara, though other biblical scholars have proposed alternative explanations for the missing nun.
+
+### Somech Hashem L'Noflim
+
+*[Continued from above]*
+
+Rav Nachman bar Yitzchak adds a further dimension: afilu hachi chazar bei David u'smachan b'ruach hakodesh — even so, David returned and through divine inspiration anchored the letter nun implicitly in the following verse. For the samech verse that comes immediately after where the nun would have stood reads: Somech Hashem l'chol hanoflim — God supports all those who have fallen. Precisely here, in the verse that follows the missing nun, the word noflim — those who have fallen — appears, but now in a context where God is already providing support. One might even say that the nun is embedded within the samech verse: the idea of nefila is present, but it is immediately preceded by and encompassed within the divine act of support. The absence of the nun is thus not a void but a deliberate theological statement.
+
+### Michael vs Gabriel Speed
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר בַּר אֲבִינָא: גָּדוֹל מַה שֶּׁנֶּאֱמַר בְּמִיכָאֵל יוֹתֵר מִמַּה שֶּׁנֶּאֱמַר בְּגַבְרִיאֵל, דְּאִילּוּ בְּמִיכָאֵל כְּתִיב: ״וַיָּעׇף אֵלַי אֶחָד מִן הַשְּׂרָפִים״. וְאִילּוּ גַּבֵּי גַבְרִיאֵל כְּתִיב: ״וְהָאִישׁ גַּבְרִיאֵל אֲשֶׁר רָאִיתִי בֶחָזוֹן בַּתְּחִלָּה מֻעָף בִּיעָף וְגוֹ׳״.
+>
+> **Translation:** After this discussion of the statement that Rabbi Elazar said that Rabbi Avina said, another statement of Rabbi Elazar is cited. **Rabbi Elazar bar Avina said: What was said about** the angel **Michael is greater than what was said about** the angel **Gabriel. As about Michael, it is written: "And one of the seraphim flew to me"** (Isaiah 6:6), indicating that with a single flight, the seraph arrived and performed his mission, while **regarding Gabriel, it is written: "The man, Gabriel, whom I had seen at the beginning, in a vision, being caused to fly swiftly,** approached close to me about the time of the evening offering" (Daniel 9:21). The double language used in the phrase "to fly swiftly [*muaf biaf]*," indicates that he did not arrive at his destination in a single flight, but rather, that it took him two flights.
+
+Rabbi Elazar Bar Avina — the same authority who introduced the teaching about Ashrei — states: gadol mah shene'emar b'Michael yoser mah shene'emar b'Gavriel — greater is what is said of the angel Michael than what is said of the angel Gabriel. Regarding Michael, the pasuk says Vaya'af elay echad min hasrafim — one of the fiery angels flew to me — a single flight, an immediate arrival. Regarding Gabriel, the pasuk says veha'ish Gavriel asher ra'isi bachazon betchila *me'uf bi'af* — Gabriel was flying to fly — the doubled language indicating two stages of flight. Michael thus moves more swiftly than Gabriel.
+
+> **Hebrew/Aramaic:** מַאי מַשְׁמַע דְּהַאי ״אֶחָד״ מִיכָאֵל הוּא? אָמַר רַבִּי יוֹחָנָן: אַתְיָא ״אֶחָד״ ״אֶחָד״. כְּתִיב הָכָא ״וַיָּעׇף אֵלַי אֶחָד מִן הַשְּׂרָפִים״, וּכְתִיב הָתָם: ״וְהִנֵּה מִיכָאֵל אֶחָד (מִן) הַשָּׂרִים הָרִאשׁוֹנִים בָּא לְעָזְרֵנִי״.
+>
+> **Translation:** To Rabbi Elazar bar Avina, it is clear that "one of the seraphim" refers to Michael, and the Gemara asks: **From where is it inferred that the one** mentioned in the verse **is Michael?** **Rabbi Yoḥanan said: This is derived** through a verbal analogy between the words **one and one. Here, it is written: "And one of the seraphim flew to me"** (Isaiah 6:6), **and there, it is written: "And behold, Michael, one of the chief ministers of the king, came to my aid"** (Daniel 10:13). Since the verse from Daniel refers to Michael as "one," which aggadic midrash interprets as "the unique one," so, too, "one of the seraphs" described in Isaiah must also refer to the unique one, Michael.
+
+The Gemara then asks: how do we know that the echad — the one — in the first pasuk refers to Michael? Rabbi Yochanan answers: asya echad echad — a gezerah shavah, a linkage between two uses of the word echad. The pasuk in Yeshayahu says echad min hasrafim, and a pasuk in Daniel says vehinei Michael echad hasarim harishonim ba le'ozreni — Michael, one of the foremost officers, came to help me. The word echad connects the two passages and identifies the anonymous one as Michael. The fact that Michael's name does not appear explicitly in Yeshayahu is itself noteworthy: the names Michael and Gabriel appear only in Daniel and in the post-exilic period. Indeed, the Yerushalmi states shmos malachim alu imahem mibavel — the names of the angels came up with them from Babylonia. Before the exile, angels in Tanach appear only generically or by category; the attribution of individual names to angels was something that entered from the Babylonian cultural context at the time of Daniel.
+
+### Ashrei Before Mincha
+
+*[Continued from above]*
+
+One might ask why the discussion of Ashrei appears precisely at this point in the Gemara. The preceding sugya had been addressing the juxtaposition of Shema and Shemoneh Esrei — *somech geulah letfillah* — as it applies to Shacharit and Maariv. But what of Mincha? At Mincha, one does not precede Shemoneh Esrei with geulah, but one does precede it with Ashrei, serving as a kind of buildup and preparation before moving into Shemoneh Esrei. It is worth considering whether the placement of this passage in the Gemara already reflects, or even implies, a liturgical reality in which Ashrei was positioned before the Shemoneh Esrei of Mincha. The precise development and crystallization of the daily liturgy — when Birchos Hashachar was established, when Pesukei D'zimra was formalized, when the various components were fixed in their current sequence — is something the Gemara never sets forth systematically. One finds scattered pieces of the liturgy treated here and there, primarily Shema and Shemoneh Esrei, and one must work to understand when and how the other elements were introduced and consolidated.
+
+### Angels' Flight Speeds
+
+> **Hebrew/Aramaic:** תָּנָא: מִיכָאֵל — בְּאַחַת, גַּבְרִיאֵל — בִּשְׁתַּיִם, אֵלִיָּהוּ — בְּאַרְבַּע, וּמַלְאַךְ הַמָּוֶת — בִּשְׁמֹנֶה. וּבִשְׁעַת הַמַּגֵּפָה, בְּאֶחָת.
+>
+> **Translation:** This discussion in the Gemara concludes with a *Tosefta* that arrives at a hierarchy of angels based on the number of flights required by each to arrive at his destination. **It was taught** in a *Tosefta*: **Michael,** as stated above, **in one** flight; **Gabriel, in two** flights; **Elijah** the Prophet, **in four** flights; **and the Angel of Death, in eight** flights. **During a time of plague,** however, when the Angel of Death seems ubiquitous, he arrives everywhere **in one** flight.
+
+A Tanna teaches: Michael arrives in one movement, Gabriel in two, Eliyahu in four, and the Angel of Death in eight — but during a time of plague, the Angel of Death arrives in one. The speeds are presumably symbolic. Death does not ordinarily come instantaneously — it typically unfolds in stages. The exceptional speed during a plague reflects the swiftness and immediacy of mass mortality. Similarly, the four stages associated with Eliyahu likely allude to the fact that the redemption he heralds — the arrival of Mashiach — will not come suddenly. The world will not simply be normal and then, in an instant, the Mashiach will appear; it is something that unfolds progressively. The distinction between Michael in one and Gabriel in two is somewhat harder to decode thematically, though the gradations in any case paint a picture of a heavenly realm with differentiated levels of speed and immediacy of action.
+
+## Shema Al HaMita
+
+### Bedtime Shema Mitzvah
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אַף עַל פִּי שֶׁקָּרָא אָדָם קְרִיאַת שְׁמַע בְּבֵית הַכְּנֶסֶת — מִצְוָה לִקְרוֹתוֹ עַל מִטָּתוֹ.
+>
+> **Translation:** **Rabbi Yehoshua ben Levi said: Even though one recited *Shema* in the synagogue, it is a mitzva to recite it upon his bed** in fulfillment of the verse: "When you lie down."
+
+The Gemara now returns to the topic of Shema. Rabbi Yehoshua Ben Levi states: af al pi shekara adam Krias Shema beveis haknesses — even though a person has already said Shema in shul — *Mitzva likroso al mitaso* — it is a mitzvah to say it again right before going to sleep. This is Krias Shema Al HaMita.
+
+### Rigzu V'al Techeta'u
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹסֵי: מַאי קְרָא — ״רִגְזוּ וְאַל תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה״.
+>
+> **Translation:** **Rabbi Yosei said: What verse** alludes to the fact that one must recite *Shema* in the evening, upon his bed, as well? **"Tremble, and do not sin; say to your heart upon your bed and be still, Selah"** (Psalms 4:5). This is understood to mean: Recite *Shema*, about which it is written, "on your hearts," upon your bed, and afterward be still and sleep.
+
+Rabbi Yosi identifies the source: the pasuk Rigzu v'al techeta'u, imru bilvavchem *Al mishkavchem* vedomu sela — Tremble and do not sin; say in your heart upon your bed, and be still. The word bilvavchem, in your hearts, connects to the phrase *al levavecha* from the Shema: the words one is to carry on one's heart are the words of Shema — and those words are to be said *Al mishkavchem*, upon your bed. Vedomu sela: then be still, then go to sleep.
+
+The framing of this through rigzu v'al techeta'u — tremble and do not sin — suggests that the bedtime recitation serves as some form of protection or moral orientation against sin, perhaps guarding against improper thoughts at the moment of sleep. But there is another way to understand the underlying logic: the pasuk in Devarim mandates *beshochbecha uvkumecha* — when you lie down and when you rise. In practice, we say the evening Shema in shul, followed by Shemoneh Esrei, and then one comes home, eats, and only later goes to sleep. The recitation in shul is thus no longer exactly beshochbecha. The bedtime Shema restores that quality, maintaining the sense of the pasuk by saying Shema precisely at the moment of lying down. There is also yet another dimension: vedomu sela may carry overtones of permanent silence — the silence of death. One goes to sleep not knowing with certainty that one will wake, and the bedtime Shema thus takes on an aspect of prayer and bakasha: an acknowledgment that one is, in a sense, surrendering one's soul each night, and a petition to God to restore it in the morning.
+
+### Scholar & Bedtime Shema
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן: אִם תַּלְמִיד חָכָם הוּא — אֵין צָרִיךְ. אָמַר אַבָּיֵי: אַף תַּלְמִיד חָכָם מִיבְּעֵי לֵיהּ לְמֵימַר חַד פְּסוּקָא דְרַחֲמֵי, כְּגוֹן: ״בְּיָדְךָ אַפְקִיד רוּחִי, פָּדִיתָה אוֹתִי ה׳ אֵל אֱמֶת״.
+>
+> **Translation:** **If one is a Torah scholar, he need not** recite *Shema* on his bed since he is always engaged in the study of Torah and will likely fall asleep engrossed in matters of Torah. **Abaye said: Even a Torah scholar must recite at least one verse of prayer, such as: "Into Your hand I trust my spirit; You have redeemed me, Lord, God of truth"** (Psalms 31:6).
+
+Rav Nachman states: im talmid chacham hu ein tzarich — if one is a Torah scholar, he need not recite Shema at bedtime. Rashi explains: sheragil bemishnavo lachazor girsato tamid dayo b'kach — since a talmid chacham is constantly reviewing and thinking about Torah, he is in any case engaged in Torah study right before sleep. This reflects another reading of the pasuk's intent: vedibarta bam *beshochbecha uvkumecha* need not mean Shema specifically, but may refer to Torah in the broader sense — one should always be speaking and thinking about Torah, including when lying down. The scholar who naturally inhabits that state has already fulfilled the spirit of the obligation.
+
+Abaye, however, qualifies: af talmid chacham mibayei lei l'meimar chad pasuka derachamei — even a talmid chacham should say at least one pasuk of prayer, of rachamei. The example given is: beyadcha afkid ruchi, padita oti Hashem Kel emet — Into Your hand I entrust my spirit; You have redeemed me, O Lord, God of truth. This encapsulates the theological heart of Krias Shema Al HaMita: the recognition that when one goes to sleep, the soul is returned to God, and that waking in the morning — the basis for Modeh Ani — is a gift contingent upon divine grace. The bedtime recitation is thus not only about directing one's thoughts or protecting from sin, but also contains a genuine dimension of prayer and petition for the soul's return.
+
+### Rashi-Tosfos Shema Debate
+
+*[Continued from above]*
+
+Before proceeding further in the Gemara, it is important to address a significant dispute between Rashi and Tosfos that bears directly on this topic, rooted in the very first Rashi of the masechta. The question is: why do we say Shema at Maariv when it is still well before nightfall, given that the mitzvah of Shema requires tzeis hakochavim? The historical background in Ashkenaz — where midsummer daylight stretched very late, making it socially and practically necessary to daven Maariv earlier — is addressed in a well-known article by Jacob Katz.
+
+Rashi's position is that when we daven early Maariv and recite Shema before the stars appear, we have not yet fulfilled the nighttime mitzvah of Shema. We fulfill it later, through Krias Shema Al HaMita, at which point it is genuinely night. For Rashi, accordingly, the bedtime Shema does double service: it is both the mitzvah of Krias Shema Al HaMita and the fulfillment of the mitzvah of Shema for the night. Rashi holds that one paragraph suffices for this purpose. Many people who daven early Maariv follow this approach today, either saying Shema again when the stars come out or relying on the bedtime recitation.
+
+Tosfos objects strenuously. For Tosfos, the mitzvah of Shema cannot be divorced from its brachos; the mitzvah of Shema must be fulfilled together with the brachos of Shema, as part of the Maariv liturgy. Tosfos therefore argues that davening Maariv before sunset can itself satisfy the nighttime obligation of Shema — there is a halachic position defining that time as sufficiently nocturnal — and therefore the mitzvah is fulfilled at Maariv itself. The bedtime Shema is then exclusively Krias Shema Al HaMita, not a vehicle for fulfilling the mitzvah of Shema as an independent obligation.
+
+The significance of this dispute extends beyond the practical question. It reflects the deeper conceptual issue running throughout these pages: the relationship between Shema as an independent mitzvah and Shema as it exists embedded within the liturgy. For Tosfos, the two are inseparable — one cannot conceive of the brachos of Shema being recited without those brachos serving as the frame for the mitzvah itself. For Rashi, the two can stand independently, and the mitzvah of Shema can be satisfied by a solitary recitation at bedtime, entirely outside the liturgical context. In practice, we tend to follow Rashi's approach.
+
+### Yetzer Tov vs Yetzer Hara
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי לֵוִי בַּר חָמָא, אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: לְעוֹלָם יַרְגִּיז אָדָם יֵצֶר טוֹב עַל יֵצֶר הָרַע, שֶׁנֶּאֱמַר: ״רִגְזוּ וְאַל תֶּחֱטָאוּ״ אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יַעֲסוֹק בַּתּוֹרָה, שֶׁנֶּאֱמַר: ״אִמְרוּ בִלְבַבְכֶם״. אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יִקְרָא קְרִיאַת שְׁמַע, שֶׁנֶּאֱמַר: ״עַל מִשְׁכַּבְכֶם״. אִם נִצְּחוֹ — מוּטָב, וְאִם לָאו — יִזְכּוֹר לוֹ יוֹם הַמִּיתָה, שֶׁנֶּאֱמַר: ״וְדֹמּוּ סֶלָה״.
+>
+> **Translation:** Incidental to the verse, "Tremble, and do not sin," the Gemara mentions that **Rabbi Levi bar Ḥama said** that **Rabbi Shimon ben Lakish said: One should always incite his good inclination against his evil inclination,** i.e., that one must constantly struggle so that his evil inclination does not lead him to transgression, **as it is stated: "Tremble, and do not sin."** **If** one succeeds and **subdues** his evil inclination, **excellent,** but **if** he does **not** succeed in subduing it, he should **study Torah,** as alluded to in **the verse: "Say to your heart."**  **If** he **subdues** his evil inclination, **excellent; if not, he should recite *Shema*,** which contains the acceptance of the yoke of God, and the concept of reward and punishment, **as it is stated** in the verse: **"Upon your bed,"** which alludes to *Shema*, where it says: "When you lie down."  **If** he **subdues** his evil inclination, **excellent; if not, he should remind himself of the day of death,** whose silence is alluded to in the continuation of **the verse: "And be still, Selah."**
+
+Reish Lakish, cited by Rabbi Levi bar Chama, teaches: l'olam yargiz adam yetzer hatov al yetzer hara — one should always set one's yetzer hatov in battle against the yetzer hara. Rather than waiting for temptation to present itself and then struggling to resist it, one should be in a constant state of proactive engagement, working on one's middos and moral character before the moment of trial arrives.
+
+The pasuk cited is Rigzu v'al techeta'u — tremble and do not sin. If working directly on one's middos achieves victory over the yetzer hara, good. If not, then ya'asok baTorah — one should engage in Torah study. Learning Torah can work indirectly, strengthening one's character rather than attacking the baser inclinations head-on. Again: if that achieves victory, good. If not, yikra Krias Shema — recite Shema. Then: if that too achieves victory, good. If not, yizkor lo yom hamisa — recall the day of death. Ve'domu sela: be silent forever. Keeping in mind the transient nature of this world and the ultimate accountability before God may succeed where direct struggle, Torah, and Shema have not.
+
+The sequence raises a genuine question: it is not immediately obvious why reciting Shema should be more practically effective against the yetzer hara than learning Torah in general. And indeed one might ask whether this passage is concerned specifically with the moment of temptation or with the general ongoing cultivation of character — though the Gemara itself does not resolve this.
+
+### Torah Given at Sinai
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי לֵוִי בַּר חָמָא, אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, מַאי דִּכְתִיב ״וְאֶתְּנָה לְךָ אֶת לֻחֹת הָאֶבֶן וְהַתּוֹרָה וְהַמִּצְוָה אֲשֶׁר כָּתַבְתִּי לְהוֹרֹתָם״. ״לֻחֹת״ — אֵלּוּ עֲשֶׂרֶת הַדִּבְּרוֹת, ״תּוֹרָה״ — זֶה מִקְרָא, ״וְהַמִּצְוָה״ — זוֹ מִשְׁנָה, ״אֲשֶׁר כָּתַבְתִּי״ — אֵלּוּ נְבִיאִים וּכְתוּבִים, ״לְהוֹרוֹתָם״ — זֶה תַּלְמוּד, מְלַמֵּד שֶׁכּוּלָּם נִתְּנוּ לְמֹשֶׁה מִסִּינַי.
+>
+> **Translation:** **And Rabbi Levi bar Ḥama said** that **Rabbi Shimon ben Lakish said:** God said to Moses, "Ascend to Me on the mountain and be there, **and I will give you the stone tablets and the Torah and the mitzva that I have written that you may teach them"** (Exodus 24:12), meaning that God revealed to Moses not only the Written Torah, but all of Torah, as it would be transmitted through the generations.  **The "tablets" are the ten commandments** that were written on the tablets of the Covenant,  **the "Torah" is the five books of Moses.**  **The "mitzva" is the Mishna,** which includes explanations for the mitzvot and how they are to be performed.  **"That I have written" refers to the Prophets and Writings,** written with divine inspiration.  **"That you may teach them" refers to the Talmud,** which explains the Mishna.  These explanations are the foundation for the rulings of practical *halakha*. This verse **teaches** that **all** aspects of Torah **were given to** Moses **from Sinai.**
+
+The same Reish Lakish, cited by Rav Levi bar Chama, expounds the pasuk: Ve'etnah lecha et luchot ha'even vehatorah vehamitzvah *Asher katavti* lehorotam — And I will give you the tablets of stone, and the Torah, and the commandment that I have written to teach them. Each element of this verse is decoded: Luchot refers to the Aseret HaDibrot, the Ten Commandments. Torah is Mikra — the written Torah. Vehamitzvah is Mishnah — Mishnah focuses on presenting laws straightforwardly, the parameters of one's obligations, which is why it is identified with the word mitzvah. *Asher katavti* encompasses Nevi'im and Ketuvim — the prophets and the later holy writings. Lehorotam is Gemara — not just the statement of laws but the argumentation, analysis, and discussion that ultimately enables hora'ah, the capacity to rule on new and ambiguous cases. Melamed shekulam nitnu *Le-Moshe mi-Sinai* — this teaches that all of it was given to Moshe at Sinai.
+
+This passage represents one pole of an ongoing debate in Jewish thought about the nature of oral tradition. Some speak as though everything was directly transmitted and we are merely uncovering what was already given. Others hold that the written Torah was revealed at Sinai and the Rabbis were authorized to interpret and derive from it — that much of the oral law was not directly received but was the product of human encounter with the text under principles of interpretation. There are ways to reconcile these positions: one may say that everything was given in potential, since the capacity to derive it was itself divinely granted. This is the spirit of the well-known aggadah in which Moshe, sitting at the back of Rabbi Akiva's *Beit Midrash*, does not recognize what Rabbi Akiva is teaching — until someone asks Rabbi Akiva the source of a ruling and he replies: *Halacha le-Moshe mi-Sinai*. In some sense everything derived does trace back to Sinai. The present passage is one that emphasizes the most direct form of this claim.
+
+### Shema as Two-Edged Sword
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יִצְחָק: כׇּל הַקּוֹרֵא קְרִיאַת שְׁמַע עַל מִטָּתוֹ ke'ilu ochez cherev shel shtei pifiyot beyado. שֶׁנֶּאֱמַר: ״רוֹמְמוֹת אֵל בִּגְרוֹנָם וְחֶרֶב פִּיפִיּוֹת בְּיָדָם״. מַאי מַשְׁמַע? אָמַר מָר זוּטְרָא וְאִיתֵּימָא רַב אָשֵׁי: מֵרֵישָׁא דְעִנְיָנָא, דִּכְתִיב: ״יַעְלְזוּ חֲסִידִים בְּכָבוֹד יְרַנְּנוּ עַל מִשְׁכְּבוֹתָם״. וּכְתִיב בָּתְרֵיהּ: ״רוֹמְמוֹת אֵל בִּגְרוֹנָם וְחֶרֶב פִּיפִיּוֹת בְּיָדָם״.
+>
+> **Translation:** The Gemara continues its treatment of the recitation of *Shema* upon one's bed. **Rabbi Yitzḥak said: Anyone who recites *Shema* on his bed, it is as if he holds a double-edged sword,** guarding him from all evil, **as it is stated: "High praises of God in their mouths, and a double-edged sword in their hands"** (Psalms 149:6). The Gemara asks: **From where is it inferred** that this verse from Psalms refers to the recitation of *Shema*? **Mar Zutra, and some say Rav Ashi, said:** We derive it **from the preceding** verse, **as it is written: "Let the pious exult in glory; let them joyously sing upon their beds."** The praise of God from one's bed is the recitation of *Shema*. **And it is written thereafter: "High praises of God in their mouths, and a double-edged sword in their hands."**
+
+Rabbi Yitzchak teaches: kol hakoreh Krias Shema al mitato ke'ilu ochez cherev shel shtei pifiyot beyado — whoever says Krias Shema at bedtime is as one who holds a two-edged sword in his hand. The source is the pasuk: *Romemot El bigronam vecherev pifiyot beyadam* — the praise of God is in their throats and a two-edged sword in their hands. The connection to bedtime is established by Mar Zutra, or some say Rav Ashi, who traces it to the earlier verse in that passage: *Ya'alzu chasidim bechavod yeranenu al mishkevotam* — the righteous will rejoice in glory and sing upon their beds. It is thus the Krias Shema said upon the bed that produces the metaphorical sword.
+
+The sword is wielded against the evil spirits that are active at night — a dimension of the bedtime Shema that goes beyond prayer for divine protection or the moral framing of one's day, and enters the realm of protection from harmful supernatural forces.
+
+### Torah Repels Mazikin
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי יִצְחָק: כׇּל הַקּוֹרֵא קְרִיאַת שְׁמַע עַל מִטָּתוֹ, מַזִּיקִין בְּדֵילִין הֵימֶנּוּ. שֶׁנֶּאֱמַר: ״וּבְנֵי רֶשֶׁף יַגְבִּיהוּ עוּף״, וְאֵין ״עוּף״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר: ״הֲתָעִיף עֵינֶיךָ בּוֹ וְאֵינֶנּוּ״. וְאֵין ״רֶשֶׁף״ אֶלָּא מַזִּיקִין, שֶׁנֶּאֱמַר: ״מְזֵי רָעָב וּלְחֻמֵי רֶשֶׁף וְקֶטֶב מְרִירִי״.
+>
+> **Translation:** **And Rabbi Yitzḥak said: Anyone who recites *Shema* upon his bed, demons stay away from him.** This is alluded to, **as it is stated:** "But man is born into trouble, **and the sparks [*reshef* ] fly [*uf* ] upward"** (Job 5:7). The verse is explained: The word **fly [*uf* ]** means **nothing other than Torah,** as Torah is difficult to grasp and easy to lose, like something that floats away, **as it is stated: "Will you set your eyes upon it? It is gone;** for riches certainly make themselves wings, like an eagle that flies into the heavens" (Proverbs 23:5). The word **"sparks"** means **nothing other than demons, as it is stated: "Wasting of hunger, and the devouring of the sparks [*reshef*] and bitter destruction [*ketev meriri*],** and the teeth of beasts I will send upon them, with the venom of crawling things of the dust" (Deuteronomy 32:24). Here we see *reshef* listed along with *ketev meriri*, both of which are understood by the Sages to be names of demons.
+
+Rabbi Yitzchak further states explicitly: kol hakoreh Krias Shema al mitato, *Mazikin bedilin heimenu* — whoever says Krias Shema at bedtime, the mazikin withdraw from him. The proof-text invokes the word reshef, which the Gemara identifies with mazikin, from the pasuk Mizeh ra'av *ulichumei reshef* veketev meriri — a verse from the curses in Devarim listing famine and demonic affliction. The sons of reshef will fly away — uf, which the Gemara identifies with Torah, based on the verse Hata'if einecha bo v'einenu — if you avert your eyes from it, it vanishes — where uf appears in the context of Torah study. The mazikin flee before Torah, here understood concretely as the recitation of Shema.
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: כׇּל הָעוֹסֵק בַּתּוֹרָה יִסּוּרִין בְּדִילִין הֵימֶנּוּ, שֶׁנֶּאֱמַר: ״וּבְנֵי רֶשֶׁף יַגְבִּיהוּ עוּף״. וְאֵין ״עוּף״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר ״הֲתָעִיף עֵינֶיךָ בּוֹ וְאֵינֶנּוּ״, וְאֵין ״רֶשֶׁף״ אֶלָּא יִסּוּרִין, שֶׁנֶּאֱמַר: ״מְזֵי רָעָב וּלְחֻמֵי רֶשֶׁף״.
+>
+> **Translation:** Regarding this unclear verse, **Rabbi Shimon ben Lakish said: If one engages in Torah** study, **suffering stays away from him, as it is stated: "And the sparks fly upward."** And **fly** means **nothing other than Torah, as it is stated: "Will you set your eyes upon it? It is gone;** and sparks means **nothing other than suffering, as it is stated: "Wasting of hunger, and the devouring of the sparks,"** equating devouring sparks with wasting hunger, as both are types of suffering. From here, we derive that through Torah, fly, one is able to distance himself, upward, from suffering, sparks.
+
+Reish Lakish then broadens the principle considerably: kol haosek baTorah yissurin bdilin heimenu — whoever engages in Torah study, afflictions withdraw from him. The same reshef verse is employed, but now reshef is read not as mazikin but as yissurin — afflictions in general. This is a striking expansion. Protecting oneself from supernatural mazikin through Torah study has a certain internal logic, but claiming that Torah study protects from yissurin in general raises profound questions about tzaddik v'ra lo and rasha v'tov lo. The Gemara is clearly aware of the tension, and the next section addresses it directly.
+
+## Yissurin Shel Ahava
+
+### Torah Protects — Really?
+
+> **Hebrew/Aramaic:** אָמַר לֵיהּ רַבִּי יוֹחָנָן: הָא אֲפִילּוּ תִּינוֹקוֹת שֶׁל בֵּית רַבָּן, יוֹדְעִים אוֹתוֹ, שֶׁנֶּאֱמַר ״וַיֹּאמֶר אִם שָׁמוֹעַ תִּשְׁמַע לְקוֹל ה׳ אֱלֹהֶיךָ וְהַיָּשָׁר בְּעֵינָיו תַּעֲשֶׂה וְהַאֲזַנְתָּ לְמִצְוֹתָיו וְשָׁמַרְתָּ כׇּל חֻקָּיו כׇּל הַמַּחֲלָה אֲשֶׁר שַׂמְתִּי בְּמִצְרַיִם לֹא אָשִׂים עָלֶיךָ כִּי אֲנִי ה׳ רוֹפְאֶךָ״. אֶלָּא: כׇּל שֶׁאֶפְשָׁר לוֹ לַעֲסוֹק בַּתּוֹרָה וְאֵינוֹ עוֹסֵק — הַקָּדוֹשׁ בָּרוּךְ הוּא מֵבִיא עָלָיו יִסּוּרִין מְכוֹעָרִין וְעוֹכְרִים אוֹתוֹ, שֶׁנֶּאֱמַר: ״נֶאֱלַמְתִּי דוּמִיָּה הֶחֱשֵׁיתִי מִטּוֹב וּכְאֵבִי נֶעְכָּר״, וְאֵין ״טוֹב״ אֶלָּא תּוֹרָה, שֶׁנֶּאֱמַר: ״כִּי לֶקַח טוֹב נָתַתִּי לָכֶם תּוֹרָתִי אַל תַּעֲזֹבוּ״.
+>
+> **Translation:** **Rabbi Yoḥanan said to him: Even schoolchildren,** who learn only the Written Torah, **know this** concept **as it is stated: "And He said you shall surely hear the voice of the Lord your God, and what is upright in His eyes you shall do and you shall listen to His mitzvot and guard His statutes; any disease that I have placed upon Egypt I will not place upon you for I am the Lord your healer"** (Exodus 15:26). **Rather,** one must interpret the verse: **Anyone who is able to engage in Torah** study **yet does not engage** in that study, not only does **the Holy One, Blessed be He,** fail to protect him, but He **brings upon him hideous afflictions,** that embarrass him **and trouble him, as it is stated: "I was mute with silence; I was silent from good, and my pain was strong"** (Psalms 39:3). The word **good** means **nothing other than Torah, as it is stated: "For I have given you a good portion, My Torah, do not abandon it"** (Proverbs 4:2). The verse should be understood: "I have been silent from the study of Torah, and my pain was strong."
+
+Rabbi Yochanan immediately challenges Reish Lakish's claim that Torah protects from afflictions: ha afilu tinokos shel beis raban yodin osah — even cheder children know this. The pasuk in the Torah states explicitly: if you hearken to God's voice, do what is right, follow the mitzvos, and observe all the statutes — kol hamachalah asher samti beMitzrayim lo asim alecha ki ani Hashem rofecha — all the afflictions I brought upon Egypt I will not bring upon you, for I am God your healer. This divine promise is taught to children. One need not derive it from a complex gezerah shavah involving reshef and uf.
+
+The point of Reish Lakish's interpretation must therefore be something more specific. The implicit question pressing on the Gemara is the one that everyone already knows: it does not always work out this way. Good people suffer. Torah scholars suffer. The promise of protection is not self-evidently borne out by experience.
+
+### Neglecting Torah = Suffe…
+
+*[Continued from above]*
+
+The Gemara therefore reads Reish Lakish's teaching not as a general promise that Torah scholars are exempt from affliction, but as a more pointed warning: kol she'efshar lo la'asok baTorah v'eino osek — one who has the capacity to learn Torah and does not avail himself of it — Hakadosh Baruch Hu meivi alav yissurin mechoarin — God will bring upon him particularly harsh and troubling afflictions.
+
+The proof-text is: *ne'elamti dumiyah hechashaiti mitov*, uche'eivi ne'echar — I was silent, stilled from good, and my pain was stirred up. Ve'ein tov ela Torah: tov here is Torah, as the verse states ki lekach tov natati lachem, Torati al ta'azovu — I have given you a good gift; do not abandon my Torah. Thus hechashaiti mitov does not merely mean that good things ceased; it means I was silent from Torah, which is the tov. And the consequence is uche'eivi ne'echar — wounding and affliction follow.
+
+This shifts the framework: the world does operate according to a divine moral economy, but within that economy there is a category beyond clear sins of commission — a category of failure to actualize one's potential for Torah. Even that omission carries consequences. The Gemara is operating in a straightforward world of reward and punishment — but is clearly aware that this framework is incomplete.
+
+### God Gave Torah With Joy
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא וְאִיתֵּימָא רַבִּי חֲנִינָא בַּר פָּפָּא: בֹּא וּרְאֵה שֶׁלֹּא כְּמִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא מִדַּת בָּשָׂר וָדָם. מִדַּת בָּשָׂר וָדָם, אָדָם מוֹכֵר חֵפֶץ לַחֲבֵרוֹ, מוֹכֵר עָצֵב, וְלוֹקֵחַ שָׂמֵחַ, אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא אֵינוֹ כֵּן, נָתַן לָהֶם תּוֹרָה לְיִשְׂרָאֵל — וְשָׂמַח, שֶׁנֶּאֱמַר: ״כִּי לֶקַח טוֹב נָתַתִּי לָכֶם תּוֹרָתִי אַל תַּעֲזֹבוּ״.
+>
+> **Translation:** With regard to the verse: "For I have given you a good portion," **Rabbi Zeira, and some say Rabbi Ḥanina bar Pappa, said: Come and see how the characteristics of the Holy One, Blessed be He, are unlike the characteristics of flesh and blood. It is characteristic of flesh and blood that when one sells an object to another** person, **the seller grieves** the loss of his possession **and the buyer rejoices. With regard to the Holy One, Blessed be He,** however, **this is not so. He gave the Torah to Israel and rejoiced, as it is stated: "For I have given you a good portion, My Torah, do not abandon it."** A good portion is understood as a good purchase; although God sold Torah to Israel, He rejoices in the sale and praises the object before its new owner (Rabbi Yoshiyahu Pinto).
+
+Rabbi Levi, or some say Rabbi Chanina bar Pappa, introduces a striking contrast: bo u're'ei she-lo ke-middat HaKadosh Baruch Hu middat basar va-dam — come and see that the ways of God are not like the ways of flesh and blood. When a person sells something to another, the seller is sad and the buyer is happy. This assumes a commercial context in which one sells not as a merchant but out of necessity — selling something dear to put food on the table, parting with something of real personal significance. In such circumstances, the seller grieves while the buyer rejoices.
+
+God's way is different. Natan la-hem Torah le-Yisrael ve-samach — God gave Torah to Israel and was joyous. The proof is in the very pasuk: ki lekach tov natati lachem, Torati al ta'azovu — I have given you this wonderful gift; do not abandon my Torah. The giving is expressed with joy, not with the grief of one who must part with something beloved. The analogy is to a parent who passes on something precious to a child: the giving is a joyous act because the gift expresses love, the depth of the relationship, and the desire to share something of profound significance. God gives Torah to Israel not with reluctance but with delight — and that delight is itself part of the gift.
+
+## Yissurin Shel Ahava…
+
+### Yissurin Shel Ahava
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, וְאִיתֵּימָא רַב חִסְדָּא: אִם רוֹאֶה אָדָם שֶׁיִּסּוּרִין בָּאִין עָלָיו — יְפַשְׁפֵּשׁ בְּמַעֲשָׂיו, שֶׁנֶּאֱמַר: ״נַחְפְּשָׂה דְרָכֵינוּ וְנַחְקֹרָה וְנָשׁוּבָה עַד ה׳״. פִּשְׁפֵּשׁ וְלֹא מָצָא — יִתְלֶה בְּבִטּוּל תּוֹרָה, שֶׁנֶּאֱמַר: ״אַשְׁרֵי הַגֶּבֶר אֲשֶׁר תְּיַסְּרֶנּוּ יָּהּ וּמִתּוֹרָתְךָ תְלַמְּדֶנּוּ״.
+>
+> **Translation:** Previously, the Gemara discussed suffering that results from one's transgressions. The Gemara shifts the focus and discusses suffering that does not result from one's transgressions and the suffering of the righteous. **Rava, and some say Rav Ḥisda, said: If a person sees that suffering has befallen him, he should examine his actions.** Generally, suffering comes about as punishment for one's transgressions, **as it is stated: "We will search and examine our ways, and return to God"** (Lamentations 3:40). **If he examined** his ways and **found no** transgression for which that suffering is appropriate, **he may attribute** his suffering **to dereliction** in the study **of Torah.** God punishes an individual for dereliction in the study of Torah in order to emphasize the gravity of the issue, **as it is stated: "Happy is the man whom You punish, Lord, and teach out of Your law"** (Psalms 94:12). This verse teaches us that his suffering will cause him to return to Your law.
+
+Rav, or some say Rav Chisda, sets out a systematic protocol for the person beset by afflictions. Im ra'ah adam sheyissurin ba'im alav — if a person sees that afflictions are befalling him — *yefashpesh be-ma'asav* — he should examine his deeds. Perhaps there is a sin for which he bears responsibility; he should use the suffering as an occasion for teshuvah, as the pasuk says: nachpesa deracheinu venachkorah — let us search our ways and investigate — venashuva ad Hashem. If, upon examination, a sin is found, he should do teshuvah.
+
+> **Hebrew/Aramaic:** וְאִם תָּלָה וְלֹא מָצָא — בְּיָדוּעַ שֶׁיִּסּוּרִין שֶׁל אַהֲבָה הֵם, שֶׁנֶּאֱמַר: ״כִּי אֶת אֲשֶׁר יֶאֱהַב ה׳ יוֹכִיחַ״.
+>
+> **Translation:** **And if he did attribute** his suffering to dereliction in the study of Torah, **and did not find** this to be so, **he may be confident that these are afflictions of love, as it is stated: "For whom the Lord loves, He rebukes,** as does a father the son in whom he delights" (Proverbs 3:12).
+
+If he examined and found nothing — *pishpesh ve-lo matza* — then yitleh be-vittel Torah: he should attribute the afflictions to insufficient Torah study. Not all consequences flow from sins of commission; sometimes it is the failure to do what one could and should have been doing, as the pasuk implies: ashrei hagaver asher teyassrennu yah, umi-Toratecha telamdennu — praiseworthy is the man whom God afflicts and teaches from Your Torah. The yissurin become a spur to greater Torah engagement.
+
+And if, even then — *ve-im talah ve-lo matza* — neither sin nor Torah neglect provides an explanation, beyadu'a: one should understand that these are yissurin shel ahava — afflictions of love — as the pasuk states: ki et asher ye'ehav Hashem yochiach — those whom God loves, God will rebuke.
+
+This sequential logic is itself significant. The Gemara does not simply assert that the good are rewarded and the wicked punished and leave it at that. It knows — implicitly, though it will address it more explicitly in a daf or two — that Moshe himself challenged God on the problem of the righteous who suffer. The framework here represents an attempt to work through that problem systematically, preserving the structure of divine justice while acknowledging that sometimes no accounting suffices.
+
+### Accepting Yissurin Lovin…
+
+> **Hebrew/Aramaic:** אָמַר רָבָא, אָמַר רַב סְחוֹרָה, אָמַר רַב הוּנָא: כׇּל שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא חָפַץ בּוֹ, מְדַכְּאוֹ בְּיִסּוּרִין, שֶׁנֶּאֱמַר: ״וַה׳ חָפֵץ דַּכְּאוֹ הֶחֱלִי״.
+>
+> **Translation:** So too, **Rava said** that **Rav Seḥora said** that **Rav Huna said: Anyone in whom the Holy One, Blessed be He, delights, He oppresses him with suffering, as it is stated: "Yet in whom the Lord delights, He oppresses him with disease;** to see if his soul would offer itself in guilt, that he might see his children, lengthen his days, and that the desire of the Lord might prosper by his hand" (Isaiah 53:10). This verse illustrates that in whomever God delights, he afflicts with illness.
+
+Rava, citing Rav Sechora citing Rav Huna, teaches: kol she'Hakadosh Baruch Hu chafetz bo, medake'o beyissurin — whomever God desires, He crushes with afflictions, as the pasuk says vaHashem chafetz dake'o hechali — God desired to crush him with illness.
+
+> **Hebrew/Aramaic:** יָכוֹל אֲפִילּוּ לֹא קִבְּלָם מֵאַהֲבָה? — תַּלְמוּד לוֹמַר: ״אִם תָּשִׂים אָשָׁם נַפְשׁוֹ״, מָה אָשָׁם לְדַעַת, אַף יִסּוּרִין — לְדַעַת.
+>
+> **Translation:** I **might** have thought that God delights in him even **if he does not accept** his suffering **with love. Therefore the verse teaches: "If his soul would offer itself in guilt." Just as a guilt-offering is brought knowingly,** as it is one of the sacrifices offered willingly, without coercion, **so too** his **suffering** must be accepted **knowingly.**
+
+But a condition follows: yachol afilu lo kiblam me'ahava — one might think these afflictions have value even if not accepted with love. The Gemara therefore qualifies: im tasim asham nafsho — if you place your soul as an asham. Just as an asham, a guilt offering, achieves atonement only when brought with conscious intent and awareness — mah asham lada'at — so too yissurin lada'at: the afflictions carry their significance only when accepted intentionally and willingly, with full awareness of what they are.
+
+> **Hebrew/Aramaic:** וְאִם קִבְּלָם מַה שְּׂכָרוֹ: ״יִרְאֶה זֶרַע יַאֲרִיךְ יָמִים״. וְלֹא עוֹד אֶלָּא שֶׁתַּלְמוּדוֹ מִתְקַיֵּים בְּיָדוֹ, שֶׁנֶּאֱמַר: ״וְחֵפֶץ ה׳ בְּיָדוֹ יִצְלָח״.
+>
+> **Translation:** **And if one accepts** that suffering with love, **what is his reward?** As the second part of the verse states: **"That he might see his children, lengthen his days." Moreover,** in addition to these earthly rewards, **his** Torah **study will endure** and his Torah study will be successful, **as it is stated: "The purpose of the Lord,"** the Torah, the revelation of God's will, **"might prosper by his hand."**
+
+The reward for accepting them this way: yireh zera ya'arich yamim — he will see offspring and lengthen his days. And further: she'talmudo mitkayem beyado — his Torah will be sustained in his hand, shene'emar vechafetz Hashem beyado yitzlach — the one whom God desires will succeed.
+
+### Soloveitchik on Yissurin
+
+*[Continued from above]*
+
+HaRav Soloveitchik offered a reading of this passage that clarifies what yissurin lada'at — acceptance with intention — actually means in practice. The Gemara itself gives an example of yissurin shel ahava: even something as minor as reaching into one's pocket for change and pulling out the wrong coin qualifies. On its face this seems trivializing. But the Rav's insight is that yissurin shel ahava is defined not by the objective nature or severity of the suffering, but by how the person experiencing it interprets and responds to it. If one sees one's difficulties — whatever their scale — as part of one's relationship with God and uses them as an occasion for self-examination, for reflecting on what could be improved, for investigating one's deeds and one's Torah engagement, then even minor disruptions become yissurin shel ahava. They become part of a process of spiritual refinement and relational deepening with the divine. If, however, one simply experiences the hardship as arbitrary misfortune without any interpretive frame of meaning, then the afflictions are not yissurin shel ahava — not because they fail to happen, but because they are not received as such. The designation is thus not an external metaphysical label applied from outside, but a category that is partly constituted by the subjective response of the one who suffers.
+
+## Bikur Cholim Stories
+
+### 1/60 of Suffering
+
+*[Continued from above]*
+
+Rav Huna teaches: kol ha-mevaker choleh notel echad mi-shishim be-tza'aro — one who visits the sick takes away one-sixtieth of the patient's suffering. The response to this is an obvious objection: if so, let sixty people visit the sick person, and they will collectively remove all his suffering and restore him. Rav Huna replies: ke-asirit shel peirot — it is like a tenth of the fruit, meaning a tenth of what currently remains. Each visitor takes a sixtieth of whatever suffering is present at that moment, not a sixtieth of the original total. The portions diminish progressively; no finite number of visitors will reduce the suffering to nothing. This sugya appears as well in *Bava Metzia* daf 30.
+
+### Rav Papa's Illness
+
+*[Continued from above]*
+
+Rav Papa was ill. Rav Shimi bar Ashi came to visit him, saw that his condition was becoming difficult — chaza de-takif leih alma — and said to those present: pray for him. The brevity of this account is itself significant: it illustrates bikur cholim in action, showing a visitor who responds to the severity of the patient's condition with urgent intercession.
+
+### Yochanan Heals Chanina
+
+> **Hebrew/Aramaic:** רַבִּי חִיָּיא בַּר אַבָּא חֲלַשׁ. עָל לְגַבֵּיהּ רַבִּי יוֹחָנָן אֲמַר לֵיהּ: חֲבִיבִין עָלֶיךָ יִסּוּרִין? אֲמַר לֵיהּ: לֹא הֵן וְלֹא שְׂכָרָן. אֲמַר לֵיהּ: הַב לִי יְדָךְ. יְהַב לֵיהּ יְדֵיהּ, וְאוֹקְמֵיהּ.
+>
+> **Translation:** Similarly, **Rabbi Yoḥanan fell ill. Rabbi Ḥanina entered to** visit **him,** and **said to him: Is your suffering dear to you?** Rabbi Yoḥanan **said to him:** I welcome **neither** this suffering **nor its reward.** Rabbi Ḥanina **said to him: Give me your hand. He gave him his hand, and** Rabbi Ḥanina **stood him up** and restored him to health.
+
+Rabbi Yochanan was ill, and Rabbi Chanina came to visit him. He said to him: chavinim alecha yissurin — are your sufferings beloved to you? Rabbi Yochanan replied: lo hen velo secharan — neither them nor their reward. Immediately Rabbi Chanina said: hav li yadecha — give me your hand. Rabbi Yochanan gave him his hand, and Rabbi Chanina raised him up.
+
+The exchange is remarkable. The question chavinim alecha yissurin is precisely the question the Gemara has been wrestling with — are these yissurin shel ahava, accepted willingly? Rabbi Yochanan's answer is unambiguous: no. He does not want them, and he does not want even the reward that may come from them. And yet Rabbi Chanina heals him — not despite this answer, but without requiring any other. The healing does not depend on Rabbi Yochanan's theological acceptance of his suffering.
+
+### Ein Chavush Matir Atzmo
+
+> **Hebrew/Aramaic:** רַבִּי יוֹחָנָן חֲלַשׁ. עָל לְגַבֵּיהּ רַבִּי חֲנִינָא. אֲמַר לֵיהּ: חֲבִיבִין עָלֶיךָ יִסּוּרִין? אֲמַר לֵיהּ: לֹא הֵן וְלֹא שְׂכָרָן. אֲמַר לֵיהּ: הַב לִי יְדָךְ. יְהַב לֵיהּ יְדֵיהּ, וְאוֹקְמֵיהּ.
+>
+> **Translation:** Similarly, **Rabbi Yoḥanan fell ill. Rabbi Ḥanina entered to** visit **him,** and **said to him: Is your suffering dear to you?** Rabbi Yoḥanan **said to him:** I welcome **neither** this suffering **nor its reward.** Rabbi Ḥanina **said to him: Give me your hand. He gave him his hand, and** Rabbi Ḥanina **stood him up** and restored him to health.
+
+The pattern recurs: Rabbi Chiyya bar Abba was ill. Rabbi Yochanan came to visit him, asked chavinim alecha yissurin, received the same answer — lo hen velo secharan — extended his hand, and healed him. The Gemara immediately raises the question: amai? Why did Rabbi Yochanan need Rabbi Chanina to heal him? Lokim Rabbi Yochanan lenafsheih — let Rabbi Yochanan heal himself, since he clearly has the power to heal others by clasping their hand. The answer: ein chavush matir atzmo mi-beis ha-asurim — a prisoner cannot release himself from prison. The one who is ill is in a kind of captivity from which one cannot, by one's own power, extricate oneself. One requires another person — a visitor — for that.
+
+This principle gives bikur cholim a dimension beyond comfort and prayer. The visitor brings something the patient cannot provide for himself, something structurally inaccessible to the one who is suffering from within the suffering.
+
+### Yochanan Heals Elazar
+
+> **Hebrew/Aramaic:** רַבִּי אֶלְעָזָר חֲלַשׁ. עַל לְגַבֵּיהּ רַבִּי יוֹחָנָן. חֲזָא דַּהֲוָה קָא גָּנֵי בְּבֵית אָפֵל. גַּלְיֵיהּ לִדְרָעֵיהּ וּנְפַל נְהוֹרָא. חַזְיֵיהּ דַּהֲוָה קָא בָּכֵי רַבִּי אֶלְעָזָר. אֲמַר לֵיהּ: אַמַּאי קָא בָּכֵית? אִי מִשּׁוּם תּוֹרָה דְּלָא אַפֵּשְׁתְּ — שָׁנִינוּ: אֶחָד הַמַּרְבֶּה וְאֶחָד הַמַּמְעִיט, וּבִלְבַד שֶׁיְּכַוֵּין לִבּוֹ לַשָּׁמַיִם. וְאִי מִשּׁוּם מְזוֹנֵי — לֹא כׇּל אָדָם זוֹכֶה לִשְׁתֵּי שֻׁלְחָנוֹת. וְאִי מִשּׁוּם בְּנֵי — דֵּין גַּרְמָא דַּעֲשִׂירָאָה בִּיר.
+>
+> **Translation:** The Gemara relates that **Rabbi Elazar,** another of Rabbi Yoḥanan's students, **fell ill. Rabbi Yoḥanan entered** to visit him, and **saw that he was lying in a dark room.** Rabbi Yoḥanan **exposed his arm, and light** radiated from his flesh, **filling the house.** He **saw that** Rabbi Elazar **was crying,** and **said to him: Why are you crying?** Thinking that his crying was over the suffering that he endured throughout his life, Rabbi Yoḥanan attempted to comfort him: **If** you are weeping **because you did not study** as **much Torah** as you would have liked, **we learned: One who brings a substantial** sacrifice **and one who brings a meager** sacrifice have equal merit, **as long as he directs his heart toward Heaven. If** you are weeping **because** you lack **sustenance** and are unable to earn a livelihood, as Rabbi Elazar was, indeed, quite poor, **not every person merits** to eat off of **two tables,** one of wealth and one of Torah, so you need not bemoan the fact that you are not wealthy. **If** you are crying **over children** who have died, **this is the bone of my tenth son,** and suffering of that kind afflicts great people, and they are afflictions of love.
+
+Rabbi Elazar was ill and was lying in a dark room. Rabbi Yochanan came to visit him. He uncovered his arm — galyeih le-daraeih — and light fell into the room. The beauty of Rabbi Yochanan was legendary; the Gemara elsewhere describes it in extraordinary terms, and here that beauty literally illuminates a darkened room.
+
+Rabbi Yochanan saw that Rabbi Elazar was weeping. He said to him: amai ka bachit — why are you crying? He offered several possibilities. Is it because you did not learn enough Torah? We have learned: echad ha-marbeh ve-echad ha-mameit u-vilvad she-yechaven libo la-shamayim — one who does much and one who does little are equal, so long as one directs one's heart to Heaven. Is it because of insufficient sustenance? Lo kol adam zocheh li-shnei shulchanot — not every person merits two tables, meaning not everyone is granted both Torah greatness and material prosperity. Is it because of children you did not have? Dein girma de-asira'ah bir — Rabbi Yochanan gestured toward a certain bone he carried with him, a relic of a child he had lost, one of ten children who died in his lifetime.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: לְהַאי שׁוּפְרָא דְּבָלֵי בְּעַפְרָא קָא בָּכֵינָא. אֲמַר לֵיהּ: עַל דָּא וַדַּאי קָא בָּכֵית, וּבְכוֹ תַּרְוַיְיהוּ.
+>
+> **Translation:** Rabbi Elazar **said to** Rabbi Yoḥanan: **I am** not **crying** over my misfortune, but rather, **over this beauty** of yours **that will decompose in the earth,** as Rabbi Yoḥanan's beauty caused him to consider human mortality. **Rabbi Yoḥanan said to him: Over this, it is certainly** appropriate **to weep. Both cried** over the fleeting nature of beauty in the world and death that eventually overcomes all.
+
+Rabbi Elazar answered: le-hai shufra de-vali be-ara'a ka bachina — I am weeping for this beauty that will one day rot in the ground. Rabbi Yochanan replied: *al da vadai ka bachit* — for this, you should indeed cry. And they wept together. Then Rabbi Yochanan asked: chavinim alecha yissurin? Rabbi Elazar answered: lo hen velo secharan. Rabbi Yochanan said: hav li yadecha. He gave him his hand, and Rabbi Yochanan raised him up.
+
+The shared weeping is as striking as the healing. Rabbi Yochanan does not dismiss Rabbi Elazar's grief over transient beauty or offer consolation that deflects it. He affirms it: yes, this is worth weeping over. Two great sages, one of them radiating physical beauty that lights up a room, sit together and mourn the inevitable loss of that beauty to the earth. It is only after this moment of shared grief — this genuine human encounter in the darkness — that the healing follows.

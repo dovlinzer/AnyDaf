@@ -33,6 +33,7 @@
 		FE8774E02F73000000AC3ED2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8774DE2F73000000AC3ED2 /* SettingsView.swift */; };
 		FE8774E12F7A000000AC3ED2 /* ReadAloudManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8774E02F7A000000AC3ED2 /* ReadAloudManager.swift */; };
 		FE9C6CBC2F7DAC2900295AA5 /* ShiurClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */; };
+		FEA914DC2F8C0E3C00D5D66B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */; };
 		FEB8B37B2F82035D00B963FB /* ShiurTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */; };
 		FEE5E3A02F56497B00E38810 /* TalmudPageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E39F2F56497B00E38810 /* TalmudPageManager.swift */; };
 		FEE5E3A22F5649FF00E38810 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E3A12F5649FF00E38810 /* SplashView.swift */; };
@@ -72,6 +73,7 @@
 		FE8774DE2F73000000AC3ED2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		FE8774E02F7A000000AC3ED2 /* ReadAloudManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadAloudManager.swift; sourceTree = "<group>"; };
 		FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurClient.swift; sourceTree = "<group>"; };
+		FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurTextView.swift; sourceTree = "<group>"; };
 		FEE5E39F2F56497B00E38810 /* TalmudPageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalmudPageManager.swift; sourceTree = "<group>"; };
 		FEE5E3A12F5649FF00E38810 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				FE8774CA2F60F80800AC3ED2 /* StudySessionManager.swift */,
 				FE7936D12F7342420086F637 /* ResourcesManager.swift */,
 				FE7936D72F74142C0086F637 /* ResourcesDiskCache.swift */,
+				FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */,
 				FE7936D52F7389280086F637 /* ArticleReaderView.swift */,
 				FE7936D32F73426D0086F637 /* YCTLibraryClient.swift */,
 				FE7936DD2F76E3D00086F637 /* DonationNudgeView.swift */,
@@ -242,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB0000000000000000000009 /* AnyDafApp.swift in Sources */,
+				FEA914DC2F8C0E3C00D5D66B /* AboutView.swift in Sources */,
 				FEE5E3A22F5649FF00E38810 /* SplashView.swift in Sources */,
 				BB000000000000000000000A /* ContentView.swift in Sources */,
 				FE7936D22F7342420086F637 /* ResourcesManager.swift in Sources */,

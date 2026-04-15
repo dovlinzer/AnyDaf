@@ -26,6 +26,8 @@ struct SettingsView: View {
                     }
                 } header: {
                     Text("Support AnyDaf")
+                } footer: {
+                    Text("AnyDaf is provided free by Yeshivat Chovevei Torah. Your donation supports Torah learning.")
                 }
 
                 Section {
@@ -116,6 +118,14 @@ struct SettingsView: View {
                     }
                 } header: {
                     Text("Bookmarks")
+                }
+
+                Section {
+                    NavigationLink {
+                        AboutView()
+                    } label: {
+                        Text("About AnyDaf")
+                    }
                 }
             }
             .navigationTitle("Settings")

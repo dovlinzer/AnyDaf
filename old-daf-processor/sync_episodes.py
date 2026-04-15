@@ -11,6 +11,15 @@ Direct MP3 URLs from RSS are permanent and stored forever. As dafs cycle through
 the RSS window and are synced, they accumulate direct URLs in Supabase, reducing
 dependence on the SoundCloud client ID over time.
 
+Daf numbering:
+  N.0 = amud aleph (full-daf recording, or explicit "Na" label)
+  N.5 = amud bet (explicit "Nb" label, or interstitial range "Nb–(N+1)a")
+
+Conflict resolution when two tracks map to the same .0 slot:
+  - Explicit "Na" displaces a plain "N" incumbent → plain "N" is bumped to N.5
+  - Plain "N" arriving after an explicit "Na" is stored as N.5
+  - Two titles with the same computed daf and no displacement possible → skipped
+
 Required env vars:
   SUPABASE_URL          e.g. https://zewdazoijdpakugfvnzt.supabase.co
   SUPABASE_SERVICE_KEY  Service-role key (bypasses RLS)
@@ -129,23 +138,26 @@ SC_HEADERS = {
 }
 
 
-def parse_title(title: str) -> tuple[Optional[str], Optional[float]]:
+def parse_title(title: str) -> tuple[Optional[str], Optional[float], bool]:
     """
-    Parse 'Tractate Name DafNumber' from an RSS/playlist title.
-    Returns (canonical_tractate, daf_float) or (None, None) on failure.
+    Parse 'Tractate Name DafNumber[suffix]' from an RSS/playlist title.
+    Returns (canonical_tractate, daf_float, has_explicit_a) or (None, None, False).
 
-    Daf encoding:
-      - "N" or "Na"          → N + 0.0  (amud aleph / a-side)
-      - "Nb" or "Nb - ..."   → N + 0.5  (amud bet / b-side interstitial)
+    daf_float: N.0 = amud aleph (or full-daf), N.5 = amud bet / interstitial
+    has_explicit_a: True when the daf token has a trailing 'a' (e.g. "5a", "24a")
 
-    Handles multi-word tractates like 'Bava Kamma 10' and
-    trailing suffixes like 'Berakhot 2 (some text)'.
+    Examples:
+      "Berakhot 5"       → ("Berakhot", 5.0, False)
+      "Berakhot 5a"      → ("Berakhot", 5.0, True)
+      "Berakhot 5b"      → ("Berakhot", 5.5, False)
+      "Berakhot 5b-6a"   → ("Berakhot", 5.5, False)  [leading token sets slot]
+      "Berakhot 5b - 6a" → ("Berakhot", 5.5, False)  [spaces around dash ok]
     """
     # Strip trailing parenthetical: "Title (123)" → "Title"
     cleaned = re.sub(r"\s*\(\d+\)\s*$", "", title.strip())
     parts = cleaned.split()
     if len(parts) < 2:
-        return None, None
+        return None, None, False
 
     # Try longest prefix as tractate name first (handles multi-word tractates)
     for end in range(len(parts) - 1, 0, -1):
@@ -159,11 +171,12 @@ def parse_title(title: str) -> tuple[Optional[str], Optional[float]]:
             if base <= 0:
                 continue
             suffix = m.group(2).lower()
-            # "b" suffix or a range starting at b (e.g. "5b-6a", "5b - 6") → half-daf
             is_half = suffix.startswith("b")
+            has_explicit_a = suffix.startswith("a")
             daf_float = float(base) + (0.5 if is_half else 0.0)
-            return _KNOWN_TRACTATES_LOWER[candidate], daf_float
-    return None, None
+            return _KNOWN_TRACTATES_LOWER[candidate], daf_float, has_explicit_a
+
+    return None, None, False
 
 
 # ---------------------------------------------------------------------------
@@ -211,8 +224,8 @@ def fetch_rss_episodes() -> dict[str, dict[float, str]]:
             if not audio_url or not audio_url.startswith("http"):
                 continue
 
-            tractate, daf = parse_title(title)
-            if tractate and daf:
+            tractate, daf, _ = parse_title(title)
+            if tractate and daf is not None:
                 index.setdefault(tractate, {}).setdefault(daf, audio_url)
 
         # Next page link
@@ -256,11 +269,16 @@ def check_client_id() -> bool:
 
 
 def fetch_playlist(tractate: str, playlist_id: int) -> dict[float, str]:
-    """Fetch all tracks from a SoundCloud playlist → daf → soundcloud-track://ID URL."""
+    """Fetch all tracks from a SoundCloud playlist → daf_float → soundcloud-track://ID URL.
+
+    Conflict resolution for two tracks mapping to the same .0 slot:
+      - Explicit "Na" displaces a plain "N" → plain "N" is re-slotted at N.5
+      - Plain "N" arriving after an explicit "Na" → stored directly at N.5
+      - Any other collision → the later track is skipped (logged as duplicate)
+    """
     dafs: dict[float, str] = {}
-    # Track which .0 slots were claimed by an explicit "Na" title vs a plain "N" title,
-    # so a plain "N" can be bumped to N+0.5 when an "Na" arrives later.
-    explicit_a: set[float] = set()  # .0 keys claimed via explicit "a" suffix
+    explicit_a: set[float] = set()   # .0 slots claimed by an explicit "Na" label
+
     url = f"https://api-v2.soundcloud.com/playlists/{playlist_id}?client_id={SOUNDCLOUD_CLIENT_ID}"
     try:
         resp = requests.get(url, headers=SC_HEADERS, timeout=30)
@@ -308,42 +326,41 @@ def fetch_playlist(tractate: str, playlist_id: int) -> dict[float, str]:
         urn   = (track.get("urn")   or "").strip()
         if not title or not urn:
             continue
-        _, daf = parse_title(title)
+        _, daf, has_explicit_a = parse_title(title)
         if daf is None:
             parse_failures.append(title)
             continue
         track_id = urn.split(":")[-1]
         if not track_id:
             continue
-
-        url = f"soundcloud-track://{track_id}"
-
-        # Detect whether this title had an explicit "a" suffix (vs plain "N")
-        # by checking if the daf token in the title contains "a" before any space/hyphen.
-        daf_part = title.split()[-1] if title.split() else ""
-        has_explicit_a = bool(re.match(r"^\d+a", daf_part, re.IGNORECASE))
+        sc_url = f"soundcloud-track://{track_id}"
 
         if daf not in dafs:
-            dafs[daf] = url
+            # Slot is free — store it
+            dafs[daf] = sc_url
             if has_explicit_a:
                 explicit_a.add(daf)
-        elif daf % 1 == 0:  # collision on a .0 slot
+        elif daf % 1 == 0:
+            # Collision on an integer (.0) slot
             half = daf + 0.5
             if has_explicit_a and daf not in explicit_a:
-                # Incoming has explicit "a" → it wins the .0 slot; bump the plain incumbent to .5
+                # Incoming "Na" outranks a plain incumbent → bump plain to .5
                 if half not in dafs:
                     dafs[half] = dafs[daf]
-                dafs[daf] = url
+                dafs[daf] = sc_url
                 explicit_a.add(daf)
+                logger.debug(f"    {title}: explicit 'a' displaced plain incumbent to {half}")
             elif not has_explicit_a and daf in explicit_a:
-                # Incumbent has explicit "a" → incoming plain "N" is really the b-side
+                # Incumbent is "Na"; incoming plain "N" is the b-side
                 if half not in dafs:
-                    dafs[half] = url
+                    dafs[half] = sc_url
+                    logger.debug(f"    {title}: plain 'N' after 'Na' stored as {half}")
                 else:
                     duplicates.append(title)
             else:
                 duplicates.append(title)
         else:
+            # Collision on a .5 slot (two b-side episodes)
             duplicates.append(title)
 
     track_count_reported = data.get("track_count", "?")
@@ -410,6 +427,11 @@ def upsert_episodes(
 
     if dry_run:
         logger.info(f"  [DRY RUN] Would upsert {len(rows)} rows to {EPISODE_TABLE}")
+        for tractate, dafs in sorted(index.items()):
+            half_dafs = sorted(d for d in dafs if d % 1 != 0)
+            if half_dafs:
+                labels = [f"{int(d)}b" for d in half_dafs]
+                logger.info(f"    {tractate} half-dafs: {labels}")
         return len(rows), 0
 
     # Supabase REST upsert in batches of 500
@@ -482,12 +504,12 @@ def main() -> int:
 
     # Phase 1: RSS (no client ID needed)
     logger.info("Phase 1: RSS feed")
-    rss_index = fetch_rss_episodes()
+    rss_index: dict[str, dict[float, str]] = fetch_rss_episodes()
 
     # Phase 2: SoundCloud playlists (fills in older dafs not in RSS)
     client_id_valid = True
     if args.rss_only:
-        playlist_index: dict[str, dict[int, str]] = {}
+        playlist_index: dict[str, dict[float, str]] = {}
     else:
         logger.info("Phase 2: SoundCloud playlists")
         client_id_valid = check_client_id()
@@ -503,7 +525,8 @@ def main() -> int:
         merged[tractate] = {**playlist_index.get(tractate, {}), **rss_index.get(tractate, {})}
 
     total = sum(len(v) for v in merged.values())
-    logger.info(f"Merged: {total} episodes across {len(merged)} tractates")
+    half_daf_total = sum(1 for dafs in merged.values() for d in dafs if d % 1 != 0)
+    logger.info(f"Merged: {total} episodes across {len(merged)} tractates ({half_daf_total} half-dafs)")
 
     # Upsert to Supabase
     logger.info("Upserting to Supabase…")

@@ -82,8 +82,13 @@ fun AnyDafNavGraph(
         composable("settings") {
             SettingsScreen(
                 contentViewModel = contentViewModel,
-                onBack = { navController.popBackStack() }
+                onBack = { navController.popBackStack() },
+                onAbout = { navController.navigate("about") }
             )
+        }
+
+        composable("about") {
+            AboutScreen(onBack = { navController.popBackStack() })
         }
     }
 }

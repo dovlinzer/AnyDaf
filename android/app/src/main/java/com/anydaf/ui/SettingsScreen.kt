@@ -16,6 +16,7 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.Favorite
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -50,7 +51,8 @@ import kotlinx.coroutines.launch
 @Composable
 fun SettingsScreen(
     contentViewModel: ContentViewModel,
-    onBack: () -> Unit
+    onBack: () -> Unit,
+    onAbout: () -> Unit = {}
 ) {
     val quizMode by contentViewModel.quizMode.collectAsState()
     val sourceDisplayMode by contentViewModel.sourceDisplayMode.collectAsState()
@@ -92,6 +94,12 @@ fun SettingsScreen(
                 Spacer(Modifier.width(16.dp))
                 Text("Donate to YCT", style = MaterialTheme.typography.bodyLarge)
             }
+            Text(
+                "AnyDaf is provided free by Yeshivat Chovevei Torah. Your donation supports Torah learning.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(start = 16.dp, end = 16.dp, bottom = 8.dp)
+            )
 
             SectionDivider()
 
@@ -130,6 +138,21 @@ fun SettingsScreen(
                     checked = shiurShowSources,
                     onCheckedChange = { contentViewModel.setShiurShowSources(it) }
                 )
+            }
+
+            SectionDivider()
+
+            SectionHeader("About")
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { onAbout() }
+                    .padding(horizontal = 16.dp, vertical = 12.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(Icons.Default.Info, null, Modifier.size(20.dp), tint = MaterialTheme.colorScheme.primary)
+                Spacer(Modifier.width(16.dp))
+                Text("About AnyDaf", style = MaterialTheme.typography.bodyLarge)
             }
 
             SectionDivider()

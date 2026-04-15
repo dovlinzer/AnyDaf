@@ -25,7 +25,7 @@ struct SplashView: View {
                         .font(.system(size: 17))
                         .foregroundStyle(Color(red: 0.75, green: 0.85, blue: 1))
                     Text("Powered by YCT and Sefaria")
-                        .font(.system(size: 14).italic())
+                        .font(.system(size: 13).italic())
                         .foregroundStyle(Color(red: 0.75, green: 0.85, blue: 1).opacity(0.75))
                 }
                 .position(x: geo.size.width / 2,
