@@ -176,7 +176,7 @@ A subsequent Braita addresses the case of bringing Rekikin alone, without any Ch
 
 The next Mishna states: "Kol haMinchos hana'asos b'kli te'unos Pesisa" — all Minchos made in a vessel require breaking into pieces. This rule applies broadly: the Machvas, Marcheshes, and oven-baked Minchos all require Pesisa, though not the Minchat Soles in the usual sense, since it is a raw dough and the verse "*patot otah pitim*" does not apply to flour.
 
-The Gemara asks "*L'ma'utei Mai*" — what does this qualifier exclude? Rav Pappa answers: it excludes the *Shtei HaLechem* and *Lechem HaPanim*. Neither of these communal offerings requires Pesisa.
+The Gemara asks "*L'ma'utei Mai*" — what does this qualifier exclude? Rav Pappa answers: it excludes the *shtei haLechem* and *lechem haPanim*. Neither of these communal offerings requires Pesisa.
 
 ### Half-and-Half Mix
 
@@ -184,13 +184,13 @@ The Gemara asks "*L'ma'utei Mai*" — what does this qualifier exclude? Rav Papp
 >
 > **Translation:** § **The Sages taught** in a *baraita* that the verse discussing a meal offering prepared in a pan states: **"You shall break it in pieces,** and pour oil upon it; it is **a meal offering"** (Leviticus 2:6). The fact that the verse concludes with the phrase: "It is a meal offering," indicates that the Torah means **to include all the meal offerings** in the requirement **of breaking** into pieces. One **might** have thought **that I** should **include even the two loaves and the shewbread.** Therefore, **the verse states:** "You shall break **it** in pieces"; i.e., the meal offering baked in a pan, but not the two loaves and the shewbread.
 
-The Braita derives the requirement from the verse by the Machvas: "*patot otah pitim* — Mincha hi" — it is a Mincha, which might suggest the rule extends to all Minchos, including the *Shtei HaLechem* and *Lechem HaPanim*. The word "otah" — "it," in the singular and limiting — restricts the application and excludes certain categories. Similarly, "v'yatzakta aleha shemen — Mincha hi" might have suggested extending the final oil-pouring to the Ma'afeh Tanur; "aleha," "on it," limits it, and "hi" introduces a second restriction.
+The Braita derives the requirement from the verse by the Machvas: "*patot otah pitim* — Mincha hi" — it is a Mincha, which might suggest the rule extends to all Minchos, including the *shtei haLechem* and *lechem haPanim*. The word "otah" — "it," in the singular and limiting — restricts the application and excludes certain categories. Similarly, "v'yatzakta aleha shemen — Mincha hi" might have suggested extending the final oil-pouring to the Ma'afeh Tanur; "aleha," "on it," limits it, and "hi" introduces a second restriction.
 
 > **Hebrew/Aramaic:** ״וְיָצַקְתָּ ... שָׁמֶן מִנְחָה״ – לְרַבּוֹת כׇּל הַמְּנָחוֹת לִיצִיקָה. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף מִנְחַת מַאֲפֶה? תַּלְמוּד לוֹמַר ״עָלֶיהָ שָׁמֶן״.
 >
 > **Translation:** The *baraita* continues that the same verse states: **"And you shall pour oil** upon it; it is **a meal offering."** The fact that the verse concludes with the phrase "It is a meal offering" indicates that the Torah means **to include all the meal offerings** in the requirement **of pouring.** One **might** have thought **that I** should **include even the** oven-**baked meal offering.** Therefore, **the verse states:** "And you shall pour **oil upon it,"** i.e., upon this meal offering, but not upon the oven-baked meal offering.
 
-Two reasons are given for why Pesisa does not apply to the *Shtei HaLechem* and *Lechem HaPanim*. First, the primary function of Pesisa is to enable Kemitza — once the Mincha is broken into small pieces, the Kohen can take his three-finger handful. The *Shtei HaLechem* and *Lechem HaPanim* do not require Kemitza at all: the *Lechem HaPanim* has its Levonah burned, and the *Shtei HaLechem* is accompanied by the *Kivsei Atzeres*. Second, these are communal offerings and are thus outside the framework of the individual Mincha described in Parshat Vayikra. It is the combination of both factors — no Kemitza and communal status — that removes them from the Pesisa requirement. The Omer, by contrast, is also a communal offering but does require Pesisa, because it does require Kemitza.
+Two reasons are given for why Pesisa does not apply to the *shtei haLechem* and *lechem haPanim*. First, the primary function of Pesisa is to enable Kemitza — once the Mincha is broken into small pieces, the Kohen can take his three-finger handful. The *shtei haLechem* and *lechem haPanim* do not require Kemitza at all: the *lechem haPanim* has its Levonah burned, and the *shtei haLechem* is accompanied by the *kivsei atzeres*. Second, these are communal offerings and are thus outside the framework of the individual Mincha described in Parshat Vayikra. It is the combination of both factors — no Kemitza and communal status — that removes them from the Pesisa requirement. The Omer, by contrast, is also a communal offering but does require Pesisa, because it does require Kemitza.
 
 ### Full Rekikin
 
@@ -202,9 +202,9 @@ Two reasons are given for why Pesisa does not apply to the *Shtei HaLechem* and 
 >
 > **Translation:** **Rabba says:** This is the reason that wafers are also excluded from the mitzva of pouring, while a meal offering brought by a priest is not excluded: The verse uses two expressions of exclusion: "Upon it," and: "It is a meal offering." **What is the matter that requires two exclusions? You must say: It is the** oven-**baked meal offering,** of which there are two types of offerings: Wafers and loaves.
 
-Rava then addresses the question of why the two rules — Pesisa and the final oil pouring — have different scopes. Pesisa extends to the Ma'afeh Tanur; the final oil-pouring does not. Why does the single word "otah" exclude only the *Shtei HaLechem* and *Lechem HaPanim* from Pesisa, while the oil rule requires two exclusionary terms ("aleha" and "hi") to exclude the Ma'afeh Tanur?
+Rava then addresses the question of why the two rules — Pesisa and the final oil pouring — have different scopes. Pesisa extends to the Ma'afeh Tanur; the final oil-pouring does not. Why does the single word "otah" exclude only the *shtei haLechem* and *lechem haPanim* from Pesisa, while the oil rule requires two exclusionary terms ("aleha" and "hi") to exclude the Ma'afeh Tanur?
 
-Rava's answer is that the Ma'afeh Tanur has two components — Challos and Rekikin — and thus it needs two limiting words to exclude both of them from the general rule of post-baking oil pouring. The *Shtei HaLechem* and *Lechem HaPanim*, being single categories, need only one limiting word to exclude them from Pesisa. Since the Torah itself describes the oil of the Ma'afeh Tanur differently for Challos and Rekikin, we do not derive the oil stages of the Ma'afeh Tanur from the Machvas and Marcheshes — we accept the Torah's own account of how oil is applied there.
+Rava's answer is that the Ma'afeh Tanur has two components — Challos and Rekikin — and thus it needs two limiting words to exclude both of them from the general rule of post-baking oil pouring. The *shtei haLechem* and *lechem haPanim*, being single categories, need only one limiting word to exclude them from Pesisa. Since the Torah itself describes the oil of the Ma'afeh Tanur differently for Challos and Rekikin, we do not derive the oil stages of the Ma'afeh Tanur from the Machvas and Marcheshes — we accept the Torah's own account of how oil is applied there.
 
 ---
 
@@ -220,7 +220,6 @@ The next Mishna describes the method of Pesisa — the breaking into pieces — 
 
 ### Folding Process
 
-*[Continued from above]*
 
 For a *minchat kohanim*, one folds it in the same manner — one fold then another, making four — but one does not actually separate the pieces. Since a *minchat kohanim* is burned entirely on the Mizbe'ach and no Kemitza is taken, there is no practical need to achieve discrete pieces. Yet the Chachamim hold that one still performs the folding, without the final separation.
 
@@ -250,13 +249,11 @@ Rabbi Shimon's two positions are internally consistent: the entire logic of Pesi
 
 ### Rabbi Shimon View
 
-*[Continued from above]*
 
 At the same time, "pitim" — the plural — implies more than just two pieces. So the derivation runs: "Yachol l'shnayim" — maybe just two? No, "pitim" implies more. "Yachol ya'asenah perurin" — maybe crumbs, tiny fragments? No, "otah" requires that the original integrity be maintained. The result is the procedure described in the Mishna: the Minchat Yisrael is folded into halves and then quarters — two folds, producing four sections.
 
 ### Hamotzi Source
 
-*[Continued from above]*
 
 The Braita then states that the *minchat kohanim* and Minchat Kohen Gadol were folded. The Mishna appears to say the Kohen Gadol did not fold at all. As Rava resolves: the Mishna means not folded into four; the Braita means he did fold into two. Both sources are compatible once we understand that the Mishna denies only the full four-fold process, not all folding.
 
@@ -302,7 +299,6 @@ Abaye, however, challenges Rav Yosef's derivation. He argues that the source can
 
 ### Abaye's Crumb-Size Question
 
-*[Continued from above]*
 
 Abaye then suggests: perhaps according to the Tanna of the School of Rabbi Yishmael, the Kohen indeed would not recite Hamotzi on such thoroughly pulverized material. The Gemara entertains this possibility in order to sharpen the question.
 

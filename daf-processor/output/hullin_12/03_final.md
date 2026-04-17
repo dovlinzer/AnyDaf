@@ -60,13 +60,11 @@ The Gemara ultimately resolves its question by locating Rav Nachman's ruling in 
 
 ### Correct Start Not Enough
 
-*[Continued from above]*
 
 The Gemara teaches: perhaps the first siman was done correctly by chance — even a stopped clock is right twice a day — while the second siman was done with a shehiya or a derasa, errors he would not recognize because he does not know the laws. Even a correct beginning does not guarantee a correct finish when the person is known to be ignorant of the halachic requirements. This underscores what was established earlier: experience alone is insufficient. If we know the person does not know the laws, we cannot trust even a technically convincing start.
 
 ### Rov vs. Standards
 
-*[Continued from above]*
 
 This creates what appears to be an interesting tension. We permit reliance on rov metzuyin when we find an animal shechted and know nothing about who did it — even though the chezkat issur of the animal would seem to demand certainty. Yet when we know a person has failed the test, we do not permit reliance on his extensive experience or even on a correctly performed first siman. The resolution appears to lie not purely in the logic of rov, but in the regulatory framework of shechita: we set requirements — passing a test, checking the simanim — and when those requirements are violated, we do not permit eating from the shechita even where rov might theoretically support leniency. Where we simply do not know who performed the shechita and no standard has been violated, rov metzuyin applies in full. The two situations are structurally different: one is about applying standards, the other is about making reasonable inferences in the absence of information.
 
@@ -108,19 +106,16 @@ Rav Nachman responds with the Aramaic idiom lichi tichol ala kor demilcha — an
 
 ### Torem Shelo Mida'at
 
-*[Continued from above]*
 
 The terumah case is fundamentally different. Even if someone performed the separation with full technical competence, if it was done by a random person who heard the owner's instructions and acted on his own initiative, that constitutes torem shelo mida'at — separating terumah without the knowledge and authorization of the owner. Ve-hatorem shelo mida'at ein trumaso trumah: terumah separated without the owner's authorization is not valid. The halacha of terumah requires that it be separated by the owner himself, or by someone formally empowered by the owner to do so. Technical correctness does not suffice.
 
 ### Agency for Terumah
 
-*[Continued from above]*
 
 This raises the question of whether a blanket authorization can be given for terumah. The answer is that a person can in principle declare that anyone who hears his instruction is authorized — kol hashomeia koli — but the key point is that terumah requires proper shlichut, the formal transfer of agency from the owner. If that formal authorization was not given, a random person's act is invalid regardless of how carefully it was performed. The distinction between shechita and terumah thus lies not in technical competence but in the nature of the respective acts: shechita is validated by the physical performance alone, while terumah is bound up with the owner's personal authority over his grain and requires formal empowerment of an agent.
 
 ### Shaliach in Gittin
 
-*[Continued from above]*
 
 The practical stakes of the question of chazakah shaliach oseh shlichuto extend well beyond the present context. As the citation in the margin of the daf indicates, this principle appears in Gittin 64 in connection with the question of whether a man who sends a shaliach to deliver a get to his wife — or a woman who sends a shaliach to receive one — may assume the act has been accomplished without receiving confirmation. When the shaliach reports back, there is of course no question. The issue is whether an assumption can be made in the absence of such a report. That is where the question of chazakah shaliach oseh shlichuto carries its full halachic weight.
 
@@ -138,13 +133,11 @@ Having established and applied the principle of rov metzuyin etzel shechita mumc
 
 ### Lost Animals Baraita
 
-*[Continued from above]*
 
 A Baraita is cited: if one's kid goats or chickens went missing and were found slaughtered — perhaps someone found them, slaughtered them thinking they were his, realized the mistake, and left them — Rabbi Yehuda forbids eating them, while Rabbi Chanina the son of Rabbi Yose HaGlili permits. This appears to be precisely the dispute about whether we apply rov metzuyin etzel shechita mumchin hein. It is worth noting, as raised in the discussion, that the Baraita is speaking of chickens and small goats, animals whose slaughter is a common and widespread skill, which only strengthens the case for applying rov metzuyin. One would have thought that if rov metzuyin applies anywhere, it applies here.
 
 ### Rebbi's Split Ruling
 
-*[Continued from above]*
 
 Rebbi offers a nuanced ruling. The position of Rabbi Yehuda — that the animals are forbidden — seems correct when they were found in a garbage dump, since one would naturally infer that they were discarded because the shechita was invalid. The position of Rabbi Chanina the son of Rabbi Yose HaGlili — that the animals are permitted — seems correct when they were found inside a house. This appears to suggest that both opinions are correct in their respective circumstances.
 
@@ -166,7 +159,6 @@ Rav Nachman bar Yitzchak offers an alternative reading. There is no need to say 
 
 ### Neveilah in Home Garbage
 
-*[Continued from above]*
 
 The logical basis of the dispute, under this reading, is a factual question about human behavior. Rabbi Yehuda holds that a person will ordinarily discard a neveilah — an invalidly slaughtered animal — into his private garbage dump. If that is so, then finding the animal in one's private garbage is evidence of invalidity, and one cannot rely on rov metzuyin to override it. Rabbi Chanina the son of Rabbi Yose HaGlili holds that a person would not leave a neveilah in his private garbage dump, since it would attract vermin and create a hygiene hazard; if one were truly discarding an invalid animal, one would take it to the public garbage dump. Therefore, finding it in the private garbage is ambiguous and rov metzuyin still applies.
 
@@ -200,19 +192,16 @@ The Gemara now returns fully to the Mishnah's treatment of who may and may not p
 
 ### Rava: No Animals Lechatc…
 
-*[Continued from above]*
 
 Rava draws an inference from the precise language of the Mishnah. The Mishnah does not say "lest they have ruined" — it says "lest they will ruin." This indicates we are not speaking about a fait accompli; we are speaking prospectively. Rava therefore rules: zot omeret ein mosrin lahem chullin lechatchila — one may not give animals to a *cheresh shoteh ve-katan* to slaughter in the first place, even lechatchila.
 
 ### Rashi: Even With Observe…
 
-*[Continued from above]*
 
 Rashi explains that this prohibition applies even when others are present and intend to observe the shechita. Even if you are planning to watch, we are so concerned that they will ruin the shechita that it is irresponsible to give them the animal to begin with. The halachic consequence might not be severe if something goes wrong — the shechita is simply invalid — but there is a concern of wasting a good animal. As Rashi puts it: afilu chullin lechatchila ve-afilu acherim omdin al gaban.
 
 ### Rabbenu Tam Extension
 
-*[Continued from above]*
 
 Rabbenu Tam extends the prohibition further. Even if one intends the animal for non-kosher use — for dog food or to be sold to non-Jews — one should still not give it to a *cheresh shoteh ve-katan* to slaughter. The reason is ma'arit ayin: observers may see the shechita being performed and draw the incorrect conclusion that one may rely on the shechita of a *cheresh shoteh ve-katan* in general.
 
@@ -226,7 +215,6 @@ The Mishnah continues: if they did slaughter and others were observing them, the
 
 ### Physical Act, Not Da'at
 
-*[Continued from above]*
 
 The implicit assumption requires examination. Why are the *cheresh shoteh ve-katan* not categorically excluded from performing shechita entirely? In many halachic contexts these individuals are disqualified, but that is typically because the relevant act is not merely a physical performance but an effecting of a change of status — marriage, divorce, commercial transactions, freeing of a slave. Such acts require a bar da'at, a legally competent adult who is empowered to effect the change. Shechita, by contrast, is fundamentally about a physical act performed correctly. The Torah does not use the word ish in the context of shechita, and the halachic validity of the act turns on its physical execution rather than on the status of the one performing it. It is for this reason that the *cheresh shoteh ve-katan* are not categorically excluded — their shechita, if physically correct, is valid bedieved when observed.
 
@@ -248,19 +236,16 @@ The Gemara raises an objection: shechita requires the molich u-meivi, the back-a
 
 ### Da'at vs. Kavanah
 
-*[Continued from above]*
 
 With the ruling of Rabbi Natan established, the Gemara opens a deeper analytical question. There are two distinct categories of intention that must be kept apart. The first is da'at: the legally competent intention required to effect a change of status — to sell, to marry, to divorce, to separate terumah. This is what the *cheresh shoteh ve-katan* categorically lack, not because they are incapable of thought, but because halacha designates adult competence as the precondition for exercising such legal powers. The second is kavanah: the intention relevant to physical acts, and in particular to acts of mitzvah. The question of *mitzvot tzrichot kavanah* — whether one must intend to fulfill a mitzvah in performing a mitzvah act — is a distinct issue. But even on the more lenient view that mitzvot do not require kavanah, there remains a lower threshold: the act must not be mitasek. *mitasek means* the act was entirely incidental — one did not even intend to do what was physically done. The example given is someone blowing through a shofar to clean it, with no intention of producing a blast at all. Even if mitzvot do not require formal kavanah, one cannot be yotzei on an act that was completely incidental.
 
 ### Ma'aseh Shechita Defined
 
-*[Continued from above]*
 
 The central question raised here is whether shechita requires more than physical correctness. Does the act need to be defined as a ma'aseh shechita — formally intended as an act of slaughter — or is it sufficient that the physical criteria were met? When the knife is thrown as a dart and happens to cut through the simanim correctly, the physical act was performed correctly. But the person was doing an act of playing darts, not an act of shechita. Does the halachic validity of shechita depend solely on the physical reality, or does it require that the act be constituted as a ma'aseh shechita? The existence of technical requirements such as shehiya and derasa, which define what constitutes a valid act of shechita, suggests that there is a formal halachic definition of the act, not merely a physical description. The debate between Rabbi Natan and the Chachamim turns precisely on this question, and the ruling follows Rabbi Natan: the physical correctness of the act suffices.
 
 ### Automated Shechita/Koach…
 
-*[Continued from above]*
 
 A related question arises concerning automated shechita — whether a mechanical device could perform a valid shechita. This question is structurally similar to the knife-throw case but introduces an additional consideration independent of kavanah: koach gavra, the requirement that the act proceed through human power and agency. Even if kavanah is not required, and even if the physical criteria are met, there remains the question of whether the act derives from a human being's physical force. If a person presses a button and the rest proceeds mechanically, or if the energy of running water turns a mechanism, the question is whether that still counts as koach gavra. These issues are discussed in the relevant halachic literature, but they represent a separate dimension of the analysis from kavanah alone.
 
@@ -274,7 +259,7 @@ A related question arises concerning automated shechita — whether a mechanical
 >
 > **Translation:** § **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan raises a dilemma:** In matters that require thought and intent, **does a minor have** halakhically effective **thought, or does he not have** halakhically effective **thought?**
 
-Rabbi Chiya bar Abba reports a question posed by Rabbi Yochanan: *Katan yesh lo machshava o ein lo machshava*? Does a minor have machshava — halachically relevant intention? This question can be read as a potential critique of the earlier sugya. If we rule that *cheresh shoteh ve-katan* can perform valid shechita bedieved because the act requires only physical correctness and not da'at, one might ask whether they can even supply kavanah. Rabbi Yochanan is pressing on exactly this point: is the intention of a minor halachically meaningful?
+Rabbi Chiya bar Abba reports a question posed by Rabbi Yochanan: *katan yesh lo machshava o ein lo machshava*? Does a minor have machshava — halachically relevant intention? This question can be read as a potential critique of the earlier sugya. If we rule that *cheresh shoteh ve-katan* can perform valid shechita bedieved because the act requires only physical correctness and not da'at, one might ask whether they can even supply kavanah. Rabbi Yochanan is pressing on exactly this point: is the intention of a minor halachically meaningful?
 
 ### Rabbi Ami: Ask Ma'aseh F…
 
@@ -294,12 +279,10 @@ The Mishnah cited is the following. If tinokot — minors — hollowed out gourd
 
 ### Tension With Earlier Sug…
 
-*[Continued from above]*
 
 This Mishnah creates an implicit tension with the earlier discussion. If a minor's act accompanied by intent is halachically significant enough to render a vessel susceptible to tumah, why would we assume they lack the kavanah necessary to constitute a ma'aseh shechita? The Gemara appears to be working toward a distinction, but the Mishnah seems to suggest that a minor's acts are indeed meaningful and are understood to be accompanied by the guiding intention that shapes them. If they can hollow out a gourd with the intent to make it a vessel, and that act is valid, it is difficult to see why their shechita should be disqualified on grounds of lacking kavanah.
 
 ### Preview: Tomorrow's Gema…
 
-*[Continued from above]*
 
 The exact question being posed and the way the Gemara resolves it will be clarified in tomorrow's shiur.

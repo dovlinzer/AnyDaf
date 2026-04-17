@@ -16,37 +16,31 @@
 
 ### Tosfos on Snakes
 
-*[Continued from above]*
 
 The Yerushalmi mentions a variety of snake called a *shfiphon* that is as thin as a hair, and states that *reshus nitna lekarka lehibakeia lefanav* — permission is granted for the ground to crack open before it. This means that even if no visible hole is present near the vessel, one cannot confidently rule out the snake's access, since it can apparently find or create an entry point in the earth that is invisible to the observer. Consequently, the time threshold must account for this more expansive possibility, and the standard of concern is accordingly heightened.
 
 ### Ashkenazi Practice
 
-*[Continued from above]*
 
-Despite the explicit and early halakhic formulation of *mayim megulim* — appearing at the Tannaitic level with the language of *assur* and with detailed parameters — Tosfos in several places states that this halakha is not practiced among Ashkenazim. His reasoning is that the entire prohibition is grounded in a concern for *sakana*, specifically the prevalence of dangerous snakes, and that this environmental condition no longer applies in the communities where Ashkenazim live. This is why many are unfamiliar with the law that leaving one's drink unattended renders it forbidden. The Rambam, however, rules it straightforwardly, and the *Shulchan Aruch* similarly appears to rule it for Sefardim.
+Despite the explicit and early halakhic formulation of *mayim megulim* — appearing at the Tannaitic level with the language of *assur* and with detailed parameters — Tosfos in several places states that this halakha is not practiced among Ashkenazim. His reasoning is that the entire prohibition is grounded in a concern for *sakana*, specifically the prevalence of dangerous snakes, and that this environmental condition no longer applies in the communities where Ashkenazim live. This is why many are unfamiliar with the law that leaving one's drink unattended renders it forbidden. The Rambam, however, rules it straightforwardly, and the *shulchan aruch* similarly appears to rule it for Sefardim.
 
 ### Health-Based Laws
 
-*[Continued from above]*
 
-This situation closely parallels the halakha of *mayim acharonim*, where the Gemara requires washing one's hands at the end of a meal on account of the salt residue left on one's fingers — a concern rooted in the heavy salting used to preserve meat in the Talmudic era, compounded by the absence of forks, which were not introduced into European usage until roughly the 14th century. Here too Tosfos states that the practice is not required in his day, though his precise reasoning is less transparent given that salted meat preservation was still practiced in his time. The Rambam and *Shulchan Aruch* continue to rule *mayim acharonim* as obligatory. What is striking about the comparison between these two halakhot is that *mayim megulim* employs far stronger halakhic language — *assur*, with detailed Tannaitic parameters — and yet Tosfos sets it aside, just as he does with the Amoraic, and in some ways more modest, formulation of *mayim acharonim*. In both cases, the principle that underlies the halakha — a health concern — is treated by Tosfos as the operative factor that determines the law's ongoing applicability.
+This situation closely parallels the halakha of *mayim acharonim*, where the Gemara requires washing one's hands at the end of a meal on account of the salt residue left on one's fingers — a concern rooted in the heavy salting used to preserve meat in the Talmudic era, compounded by the absence of forks, which were not introduced into European usage until roughly the 14th century. Here too Tosfos states that the practice is not required in his day, though his precise reasoning is less transparent given that salted meat preservation was still practiced in his time. The Rambam and *shulchan aruch* continue to rule *mayim acharonim* as obligatory. What is striking about the comparison between these two halakhot is that *mayim megulim* employs far stronger halakhic language — *assur*, with detailed Tannaitic parameters — and yet Tosfos sets it aside, just as he does with the Amoraic, and in some ways more modest, formulation of *mayim acharonim*. In both cases, the principle that underlies the halakha — a health concern — is treated by Tosfos as the operative factor that determines the law's ongoing applicability.
 
 ### Halacha Obsolescence
 
-*[Continued from above]*
 
 One might ask: who decides which halakhot have become obsolete, and by what authority? The general principle holds that even when the underlying reason for a halakha no longer applies, the halakha itself does not change. However, matters of health and *sakana* occupy a somewhat distinct category. The Rambam, for instance, readily sets aside Talmudic medical remedies — and even the Gemara's prohibition of eating fish and meat together, which also uses the language of *assur* — on the grounds that the scientific assumptions underlying those rulings were simply incorrect. So specifically in the domain of health, one can argue that such statements were never purely halakhic in the same sense as other prohibitions and are therefore more susceptible to revision based on changed circumstances.
 
 ### Rambam/SA Ruling
 
-*[Continued from above]*
 
 The Rambam's approach is nonetheless inconsistent, retaining some health-based halakhot while discarding others. The Rambam rules *mayim megulim* and *mayim acharonim* while dismissing certain Talmudic medical prescriptions — reflecting that even within this domain there is no single clean criterion.
 
 ### Tosfos Method
 
-*[Continued from above]*
 
 An important methodological point about Tosfos bears emphasis here, one that is sometimes misunderstood. Tosfos does not proceed by examining a halakha, reasoning that its underlying rationale no longer applies, and concluding that the community need not observe it. Rather, Tosfos almost invariably begins from the observed fact that the halakha was *not* being practiced in his community and then works backward to explain why this practice — or non-practice — might be correct. He is reconciling the fact on the ground with the Talmudic text, not abolishing laws from the top down. This is a characteristically Ashkenazic and community-oriented halakhic posture: assume the community's practice may be defensible and seek the justification, rather than assume the community is wrong. It is worth emphasizing that one cannot find a case in all of Shas where Tosfos says: "although the community observes this halakha, since the reason no longer applies we may abandon it." The directionality always runs the other way.
 
@@ -86,13 +80,11 @@ An important methodological point about Tosfos bears emphasis here, one that is 
 
 ### External vs. Intrinsic
 
-*[Continued from above]*
 
 Tosfos finds this distinction deeply unsatisfying. In what way does the formal location of the problem — knife versus animal — change the halakhic reality? If the knife was nicked, the shechita was invalid regardless of whether we call the doubt "external" or "intrinsic." The question of validity still reduces to whether the knife had a nick at the time of shechita, which is precisely the doubt. Tosfos therefore offers an alternative reading: in the knife case there is a *double* doubt. First, it is uncertain when the nick occurred. Second, even if it is assumed the knife had a nick, the nick might have been located on a part of the blade that did not actually contact the *simanim* during the cut — a long knife could conceivably be nicked at one point while the shechita was performed with a different portion of the blade. This double doubt, he argues, is what actually distinguishes the case from the *tevilah* scenario, which involves only a single doubt.
 
 ### Tosfos Critique
 
-*[Continued from above]*
 
 A cleaner explanation, however, may lie in the distinction between what can be directly inspected after the fact. In the shechita case, as the previous daf established, one examines the *simanim* — the trachea and esophagus — after the fact, and that direct inspection provides affirmative evidence that the cut appears to have been performed correctly. This post-facto examination constitutes meaningful evidence that the shechita was valid, giving substance to the claim that the knife was likely fine at the moment of the cut and the nick occurred later. In the mikvah case, by contrast, emerging wet from the water provides no equivalent evidence. One cannot inspect the immersion retroactively the way one can inspect the *simanim*. The person's being wet shows that they dunked, not that they dunked without a *chatzitza*. In this reading, the Gemara's phrase *harei shechuta l'fanecha* — here the slaughter is before you — refers precisely to this: the visible evidence of the *simanim* supports the presumption of validity. By contrast, *harei tavul l'fanecha* carries no such evidentiary weight. This explanation may in fact be embedded in the Gemara's own language, rendering the Gemara's distinction less purely formalistic than it at first appears.
 
@@ -120,7 +112,6 @@ A cleaner explanation, however, may lie in the distinction between what can be d
 
 ### Animal vs. Knife Doubts
 
-*[Continued from above]*
 
 At this point the Gemara clarifies that both Rav Huna and Rav Chisda actually agree on the general principle of *kol safek bashechita pasul*. Their dispute is not about whether doubts are generally disqualifying — both agree they are — but rather about whether the specific configuration of the knife case, particularly when there is bone-breaking to attribute the nick to, constitutes the kind of resolved situation that removes it from the category of genuine doubt. The Gemara's distinction between doubts about the animal and doubts about the knife is the formal mechanism by which that resolution is achieved, at least according to Rav Chisda.
 
@@ -166,7 +157,6 @@ At this point the Gemara clarifies that both Rav Huna and Rav Chisda actually ag
 
 ### Knife Inspection
 
-*[Continued from above]*
 
 This is grounded in the principle *eid echad ne'eman b'issurin* — a single witness is trusted in matters of kashrut. Just as one trusts one's butcher or household members regarding the status of food, the shochet is trusted to inspect his own knife competently. Accordingly, after the initial formal presentation to the sage, the shochet may check his own knife between animals without requiring external validation, and that intermediate self-inspection is halakhically sufficient to establish the knife's status at each stage of the shechita process.
 
@@ -226,13 +216,11 @@ The practical upshot: we rule like Rav Huna in cases without bone-breaking, mean
 
 ### Final Challenge
 
-*[Continued from above]*
 
 In the end, the Gemara concludes: the principle of chazakah — assuming that an established status persists until one knows definitively otherwise — is derived from the *tzara'at* passage. The kohen can seal the house and declare it *tamei* based on his earlier observation of the spot because we presume things to remain as they were last known to be.
 
 ### Chazaka Conclusion
 
-*[Continued from above]*
 
 Tosfos raises two further refinements. First, one might object that the *tzara'at* source only demonstrates chazakah being applied stringently — to render a house *tamei*. How do we know the principle also operates leniently, to permit something or preserve a status of *taharah*? Tosfos responds that once the principle is established as a mechanism for resolving uncertainty, it applies symmetrically to both strict and lenient outcomes; we do not distinguish between the two. He also notes that leniency is implicitly present even in the *tzara'at* case, since the kohen who declares the house sealed is thereby enabling the bringing of a *korban* at the conclusion of the process — a leniency of sorts, since permitting a *korban* to be brought by someone who is not a genuine *metzora* would itself be a problem. Second, Tosfos addresses the question of chazakah when there is a later *rei'uta* — an undermining development. If the kohen returns and finds the spot has shrunk below the minimum size, we do not retroactively assume it was already undersized when the house was sealed. Rather, we assume it remained at the qualifying size until it was observed to have shrunk, meaning the chazakah held for its full duration and only ended at the point of observed change. This maps directly onto the question about the nicked knife discussed at length earlier in the shiur.
 

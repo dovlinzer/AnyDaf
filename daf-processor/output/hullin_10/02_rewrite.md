@@ -40,7 +40,7 @@ An important methodological point about Tosfos bears emphasis here, one that is 
 
 ### Case Setup
 
-The Gemara now turns to what becomes one of the central and most analytically rich cases of this section. *Hashochet besakin venimtset peguma* — one slaughtered with a knife, having checked it beforehand, and upon completing the shechita discovered that the knife was nicked. The question is: when did the nick occur? Before the shechita, rendering the animal non-kosher, or after?
+The Gemara now turns to what becomes one of the central and most analytically rich cases of this section. *hashochet besakin venimtset peguma* — one slaughtered with a knife, having checked it beforehand, and upon completing the shechita discovered that the knife was nicked. The question is: when did the nick occur? Before the shechita, rendering the animal non-kosher, or after?
 
 ### Rav Huna Position
 
@@ -48,7 +48,7 @@ Rav Huna rules: *afilu shiber bah atzamot kol hayom pesula* — even if after th
 
 To appreciate the stakes here, it is important to distinguish this case from the cases discussed previously. Before, the principle of *chazakah* was invoked to say: we had a status quo and a doubt arose — we dismiss the doubt and maintain the status quo. Here, by contrast, the status quo has demonstrably ended. The knife was good; now it is not. The question is no longer whether a change occurred — it did — but *when*. And the question of when a chazakah ends, and whether one can assume it held as long as possible, is the crux of the dispute.
 
-An instructive parallel is the case of a *Sefer Torah* being read and a letter found to be cracked mid-reading. The ruling is that only the last *aliyah* must be repeated, because we assume the crack occurred at the last possible moment and not during an earlier *aliyah*. This suggests that in some contexts the principle of extending the chazakah until the last possible moment does apply. Whether that principle governs the shechita case — where, crucially, the animal begins with a chazakah of being non-kosher — is precisely what Rav Huna and Rav Chisda dispute.
+An instructive parallel is the case of a *sefer torah* being read and a letter found to be cracked mid-reading. The ruling is that only the last *aliyah* must be repeated, because we assume the crack occurred at the last possible moment and not during an earlier *aliyah*. This suggests that in some contexts the principle of extending the chazakah until the last possible moment does apply. Whether that principle governs the shechita case — where, crucially, the animal begins with a chazakah of being non-kosher — is precisely what Rav Huna and Rav Chisda dispute.
 
 ### Rav Chisda Position
 
@@ -80,7 +80,7 @@ A cleaner explanation, however, may lie in the distinction between what can be d
 
 ### Baraita on Trachea
 
-The Gemara cites a Tannaitic case to probe the question further. *Shachat es haveshet ve'achar kach nishmata hagargeres* — one slaughtered the esophagus of a bird and then found that the trachea had been displaced from its proper location. To be clear on the anatomy: *veshet* is the esophagus and *gargeres* is the trachea. For a bird, only one of the two *simanim* must be cut, but both must be in their correct anatomical position at the time of shechita, lest the cut constitute an *ikkur* — a dislodgment that invalidates the shechita. If the trachea was already displaced before the shechita, the shechita is invalid; if it moved afterward, it is valid. The case arose in practice — *zeh hayah ma'aseh* — and the ruling was issued: *kol safek bashechita pasul* — any doubt in shechita renders it invalid.
+The Gemara cites a Tannaitic case to probe the question further. *shachat es haveshet ve'achar kach nishmata hagargeres* — one slaughtered the esophagus of a bird and then found that the trachea had been displaced from its proper location. To be clear on the anatomy: *veshet* is the esophagus and *gargeres* is the trachea. For a bird, only one of the two *simanim* must be cut, but both must be in their correct anatomical position at the time of shechita, lest the cut constitute an *ikkur* — a dislodgment that invalidates the shechita. If the trachea was already displaced before the shechita, the shechita is invalid; if it moved afterward, it is valid. The case arose in practice — *zeh hayah ma'aseh* — and the ruling was issued: *kol safek bashechita pasul* — any doubt in shechita renders it invalid.
 
 ### Doubt Principle
 
@@ -88,7 +88,7 @@ The Gemara asks what the word "any" in *kol safek bashechita pasul* comes to inc
 
 ### Animal vs. Knife Doubts
 
-The Gemara responds: *lo le'asuyei safek she-hasafek daras* — the broad principle of *kol safek* is directed at standard categories of doubt about the act itself, such as *shehiyah* (pausing mid-cut) or *derisah* (applying pressure rather than cutting), not at the specific case where one has a definite causal explanation attributable to something that occurred after the shechita. Furthermore, the Gemara reasserts its earlier distinction: *hasam israyei be'reisha bavehema* — in the trachea case, the locus of doubt is the animal itself, its own physical condition and the act performed upon it. *Sakin israyei beheima lo israyei* — in the knife case, the doubt concerns the knife, which is external to the animal.
+The Gemara responds: *lo le'asuyei safek she-hasafek daras* — the broad principle of *kol safek* is directed at standard categories of doubt about the act itself, such as *shehiyah* (pausing mid-cut) or *derisah* (applying pressure rather than cutting), not at the specific case where one has a definite causal explanation attributable to something that occurred after the shechita. Furthermore, the Gemara reasserts its earlier distinction: *hasam israyei be'reisha bavehema* — in the trachea case, the locus of doubt is the animal itself, its own physical condition and the act performed upon it. *sakin israyei beheima lo israyei* — in the knife case, the doubt concerns the knife, which is external to the animal.
 
 ### Principle Agreement
 
@@ -100,7 +100,7 @@ At this point the Gemara clarifies that both Rav Huna and Rav Chisda actually ag
 
 ### Hilcheta Rav Huna
 
-The Gemara renders its final ruling in two parts. *V'hilchata kevastei de-Rav Kahana* — the halakha follows Rav Huna when no bone-breaking took place. If one slaughtered an animal, found a nick in the knife afterward, and had not used the knife on bones in the interim, the shechita is invalid. The reasoning is that without a definite cause to attribute the nick to, the concern that the nick was present at the time of shechita — that it arose *ba'or*, in the skin — cannot be dismissed, and we rule stringently consistent with the animal's initial chazakah of being non-kosher.
+The Gemara renders its final ruling in two parts. *v'hilchata kevastei de-rav kahana* — the halakha follows Rav Huna when no bone-breaking took place. If one slaughtered an animal, found a nick in the knife afterward, and had not used the knife on bones in the interim, the shechita is invalid. The reasoning is that without a definite cause to attribute the nick to, the concern that the nick was present at the time of shechita — that it arose *ba'or*, in the skin — cannot be dismissed, and we rule stringently consistent with the animal's initial chazakah of being non-kosher.
 
 ### Hilcheta Rav Chisda
 

@@ -20,7 +20,7 @@ These are excellent questions, and the Gemara is aware of them. To make sense of
 >
 > **Translation:** **Rava said** in establishing the parameters of the dispute between Rabbi Shimon ben Lakish and Rabbi Yoḥanan: **Everyone concedes** in a case **where a gentile slaughtered,** i.e., cut, **one *siman* and a Jew** slaughtered **one *siman*, that** the slaughter **is not valid** even if slaughter is accomplished only at its conclusion, as **an action** rendering the animal **a *tereifa* was performed at the hand of a gentile.** Since slaughter by a gentile is not valid, the gentile renders the animal a *tereifa*.
 
-Rava begins by identifying scenarios where both opinions would agree on the outcome. *Ha-kol modim heicha di-shachat siman echad oved kochavim ve-siman echad Yisrael she-hi pesulah* — if a non-Jew cut the first siman and a Jew cut the second, everyone agrees it is invalid. This requires no appeal to the debate about when shechita occurs. Even if one says the act of shechita is only at the end, by the time the Jew arrives, the animal is already a treifa. The non-Jew's act rendered it a treifa; it is not the non-Jew's shechita that is the problem but the prior physical state of the animal.
+Rava begins by identifying scenarios where both opinions would agree on the outcome. *ha-kol modim heicha di-shachat siman echad oved kochavim ve-siman echad yisrael she-hi pesulah* — if a non-Jew cut the first siman and a Jew cut the second, everyone agrees it is invalid. This requires no appeal to the debate about when shechita occurs. Even if one says the act of shechita is only at the end, by the time the Jew arrives, the animal is already a treifa. The non-Jew's act rendered it a treifa; it is not the non-Jew's shechita that is the problem but the prior physical state of the animal.
 
 Similarly, regarding an olas ha-of — a bird brought as an olah — if one cut one siman at the bottom of the altar and one siman at the top, and an *olah bird* must be performed at the top, everyone agrees it is pesulah. One might have thought: according to the view that shechita is only at the end, the act performed at the bottom does not yet count as shechita, so no violation has occurred there. But that reasoning fails. Even if the cut at the bottom is not yet a shechita act, it does constitute *ma'aseh chatas ha-of lemata* — it is an act equivalent to the shechita of a bird chatat performed at the bottom, which is precisely how a chatat bird is treated. By doing that at the bottom of the altar, one has treated the olah as a chatat, which everyone agrees is an invalidation. So both of these cases are not disputed regardless of which position one holds.
 
@@ -30,9 +30,9 @@ Similarly, regarding an olas ha-of — a bird brought as an olah — if one cut 
 >
 > **Translation:** **In** the case **of a bird burnt offering as well, where one *siman* was pinched** by a priest **below** the red line marking half the height of the altar, in accordance with the procedure of the sin offering, **and one *siman*** was pinched **above** the red line, in accordance with the procedure of the burnt offering, the pinching is **not valid, as** the priest **performed an action** appropriate for **a bird sin offering below** the red line, disqualifying it from being sacrificed as a burnt offering.
 
-Where then is the practical difference between the two opinions? *Lo nechelku ela kegon she-shachat siman echad ba-chutz ve-siman echad bi-fnim* — the original framing of the debate is a case where one shechted one siman of a korban outside the *Beit HaMikdash* and completed the second siman inside. One who shechts a korban outside the *Beit HaMikdash* transgresses the prohibition of *shochtei chutz*. According to Rabbi Yochanan, who says the process begins at the beginning, one has already performed a shechita act outside — one is chayav. According to Reish Lakish, one has only begun a process; no shechita has yet been done, and one is not chayav.
+Where then is the practical difference between the two opinions? *lo nechelku ela kegon she-shachat siman echad ba-chutz ve-siman echad bi-fnim* — the original framing of the debate is a case where one shechted one siman of a korban outside the *beit haMikdash* and completed the second siman inside. One who shechts a korban outside the *beit haMikdash* transgresses the prohibition of *shochtei chutz*. According to Rabbi Yochanan, who says the process begins at the beginning, one has already performed a shechita act outside — one is chayav. According to Reish Lakish, one has only begun a process; no shechita has yet been done, and one is not chayav.
 
-However, Rava bar Shimi reports in the name of Rav Yosef that this framing is incorrect. *Heicha di-shachat siman echad ba-chutz ve-siman echad bi-fnim, nami pasul* — even according to the view that shechita is only at the end, everyone would agree that shechting one complete siman outside transgresses the prohibition, because cutting one siman is sufficient for a bird chatat, and thus it constitutes a complete act relative to that category of korban. Accordingly, the proper framing of the debate must involve a lesser act.
+However, Rava bar Shimi reports in the name of Rav Yosef that this framing is incorrect. *heicha di-shachat siman echad ba-chutz ve-siman echad bi-fnim, nami pasul* — even according to the view that shechita is only at the end, everyone would agree that shechting one complete siman outside transgresses the prohibition, because cutting one siman is sufficient for a bird chatat, and thus it constitutes a complete act relative to that category of korban. Accordingly, the proper framing of the debate must involve a lesser act.
 
 > **Hebrew/Aramaic:** לֹא נֶחְלְקוּ אֶלָּא כְּגוֹן שֶׁשָּׁחַט מִיעוּט סִימָנִין בַּחוּץ וּגְמָרוֹ בִּפְנִים, לְמַאן דְּאָמַר יֶשְׁנָהּ לִשְׁחִיטָה מִתְּחִלָּה וְעַד סוֹף – מִיחַיַּיב, לְמַאן דְּאָמַר אֵינָהּ לִשְׁחִיטָה אֶלָּא בַּסּוֹף – לָא מִיחַיַּיב.
 >
@@ -42,7 +42,6 @@ However, Rava bar Shimi reports in the name of Rav Yosef that this framing is in
 
 ### Rav Yosef Refines
 
-*[Continued from above]*
 
 Rav Yosef's refinement thus limits the practical scope of the dispute. The debate only surfaces in a case of *miyut simanim* — a minority of the siman cut outside. Only there does the question of whether the process-beginning constitutes an act become determinative. A full siman cut outside generates liability regardless, because it independently constitutes a complete act for the category of chatat ha-of.
 
@@ -68,7 +67,6 @@ The Mishnah then addresses cases of invalidity. If some form of pesul occurred d
 
 ### Pesul During Haza'ah
 
-*[Continued from above]*
 
 The rule differs when the invalidity occurs at the stage of haza'ah — the sprinkling of the blood of the parah. Here, the distinction is temporal: one who was involved before the pesul *does* become metamei begadim, because at the time of that involvement the process was still valid. One who becomes involved after the pesul does not become tamei. This contrast — full preclusion of tumah when shechita fails versus partial preclusion keyed to the timing of the pesul when haza'ah fails — sets up the Gemara's central question.
 
@@ -116,11 +114,10 @@ Abaye objects: this exclusion of two people from shechting a *parah adumah* is t
 >
 > **Translation:** **And according to** the opinion of **Rabbi Elazar, son of Rabbi Shimon,** who holds that two people may not slaughter one offering, **let** the *tanna* of the mishna **also distinguish** and teach a case **where one man slaughtered with two cloths** on his head, starting the slaughter with one and replacing it with the other midway through the slaughter, **as** in that case, since halakhic slaughter is accomplished only at its conclusion, the **first cloth is not rendered impure but the latter cloth is rendered impure. Rather,** one must say that the *tanna* **is speaking** only **in** reference to cases involving the **disqualification of the** red **heifer** itself, but he **is not speaking in** reference to cases involving **a fit** red heifer, and no proof may be cited from here.
 
-And, continues Abaye, even according to Rabbi Eliezer son of Rabbi Shimon who prohibits two people, one can construct an equivalent scenario with one person and two garments. *K'gon she-shachat chad gavrah bi-shnei sudarin* — if the shochet was wearing one garment at the beginning of shechita and a different garment at the end, the first garment was only present during the beginning of the process and not at its completion. According to the view that shechita is only at the end, only the final garment would become tamei. This scenario requires only one person and could have been stated by the Mishnah to illustrate the principle.
+And, continues Abaye, even according to Rabbi Eliezer son of Rabbi Shimon who prohibits two people, one can construct an equivalent scenario with one person and two garments. *k'gon she-shachat chad gavrah bi-shnei sudarin* — if the shochet was wearing one garment at the beginning of shechita and a different garment at the end, the first garment was only present during the beginning of the process and not at its completion. According to the view that shechita is only at the end, only the final garment would become tamei. This scenario requires only one person and could have been stated by the Mishnah to illustrate the principle.
 
 ### Gemara Clarifies
 
-*[Continued from above]*
 
 The Gemara acknowledges the force of Abaye's question but explains why the Mishnah does not use such scenarios: *ela be-psulah de-para ka'amiri, bi-cheshirah lo ka'amiri* — the Mishnah was discussing cases where the *parah adumah* process was invalidated; it was not interested in exploring scenarios where the process was completed validly and the question is only which garment one was wearing. The structural focus of the Mishnah is on when invalidity disrupts the process and how that affects tumah. Exploring the nuances of which moment during a valid shechita generates tumah was simply not the Mishnah's concern. In principle, however, Abaye is correct: if shechita is only at the end, only the garment worn at the end would become tamei.
 
@@ -134,7 +131,7 @@ The Gemara acknowledges the force of Abaye's question but explains why the Mishn
 >
 > **Translation:** **Rav Idi bar Avin raises an objection** from a mishna (*Pesaḥim* 63a) to the opinion that halakhic slaughter is accomplished only at its conclusion. If one slaughters an animal for the sake of the Paschal offering on the fourteenth of Nisan after noon while he has leaven in his possession, he is flogged for violating the prohibition: "You shall not slaughter the blood of My sacrifice with leavened bread" (Exodus 23:18). If he slaughtered the animal not for the sake of the Paschal offering, he is exempt from receiving lashes. **And** if he slaughtered the animal **during the festival** of Passover **for** the **sake** of the Paschal offering with leaven in his possession, **he is exempt,** because it is a disqualified Paschal offering, as it was slaughtered beyond its appointed time. But if he slaughtered the animal during the Festival **not for** the **sake** of the Paschal offering, but rather as a peace offering, **he is liable** for slaughtering the animal with leaven in his possession.
 
-The Gemara introduces a new challenge from a passage concerning the *korban pesach*. The rule is well known from Zevachim: a *korban pesach* shechted not on the fourteenth of Nisan, and shechted with a different designation in mind, is reclassified as a shelamim. There is also a prohibition derived from the verse *lo tishchat al chameitz dam zivchi* — one may not slecht a sacrifice while one possesses chametz. This applies not only to the *korban pesach* itself but to any valid korban during *Chag Hamatzos* when chametz is present.
+The Gemara introduces a new challenge from a passage concerning the *korban pesach*. The rule is well known from Zevachim: a *korban pesach* shechted not on the fourteenth of Nisan, and shechted with a different designation in mind, is reclassified as a shelamim. There is also a prohibition derived from the verse *lo tishchat al chameitz dam zivchi* — one may not slecht a sacrifice while one possesses chametz. This applies not only to the *korban pesach* itself but to any valid korban during *chag hamatzos* when chametz is present.
 
 The Mishnah states: *u-ve-moed li-shmo patur, she-lo li-shmo chayav* — if on Chol Hamoed Pesach one slechts what was designated as a *korban pesach* *li-shmo*, with the intent to bring it as a pesach, one is exempt from the violation of slaughtering over chametz, because the sacrifice is invalid. If one slects it *she-lo li-shmo*, consciously redesignating it as a shelamim, it is a valid sacrifice and one is chayav.
 
@@ -166,7 +163,7 @@ Rabbi Chiya bar Gamda clarifies the context. This ruling was taught in a setting
 >
 > **Translation:** Returning to the matter at hand, if a Paschal offering that is designated for use on the second *Pesaḥ* is slaughtered on Passover while one has leaven in his possession, he is exempt from receiving lashes because it is a disqualified Paschal offering. **Granted, if you say** that halakhic **slaughter is** accomplished **from the beginning to the end** of the act, the offering is **disqualified from the beginning of the slaughter** as a Paschal offering slaughtered beyond its appointed time. Therefore, one is exempt from receiving lashes. **But if you say** that halakhic **slaughter is** accomplished **only at** its **conclusion,** why is one exempt if he slaughtered the animal with leaven in his possession? **Once he** began and **cut a bit** of the *siman*, **it is rejected from** its status as **a Paschal offering** and can no longer be offered on the second *Pesaḥ*. Therefore, **when he slaughters the other,** remaining, portion of the *simanim* without specification, **it is a peace offering that he is slaughtering.**
 
-The Gemara now applies the earlier debate about shechita timing directly to this case. *Ei amrat bishlama yeshno li-shechita mi-techilah ve-ad sof* — if *shechita begins* at the beginning, then from the very first moment one starts cutting the animal, one has begun a shechita act upon a pesach. It is already being shechted as a pesach at the wrong time, and it is immediately invalid. The framework is coherent.
+The Gemara now applies the earlier debate about shechita timing directly to this case. *ei amrat bishlama yeshno li-shechita mi-techilah ve-ad sof* — if *shechita begins* at the beginning, then from the very first moment one starts cutting the animal, one has begun a shechita act upon a pesach. It is already being shechted as a pesach at the wrong time, and it is immediately invalid. The framework is coherent.
 
 But *ei amrat eino li-shechita ela be-sof* — if shechita is only at the end — then when one begins cutting the animal, one has not yet performed any shechita act. One has merely made a cut, which creates a mum. As soon as the animal has a mum, it can no longer be brought as a *pesach sheini* next month. As soon as it can no longer serve as a *pesach sheini*, why should it not automatically be redesignated as a shelamim — even without conscious akira — since its future as a pesach is foreclosed the instant one starts cutting? If so, by the time one finishes the shechita, the animal is already a shelamim, not a pesach, and one should be chayav even without any intent. The Mishnah's ruling that *stam* intent leads to exemption becomes inexplicable.
 
@@ -178,7 +175,7 @@ This is a penetrating question and highlights the recurring difficulty with the 
 >
 > **Translation:** **Abaye said to** Rav Idi bar Avin: Even if you say that halakhic slaughter is accomplished only at its conclusion, **although it was rejected from** the possibility of being sacrificed on the second ***Pesaḥ*, was it rejected from** the possibility of being redeemed and from the possibility of **the monetary value of a Paschal offering** being used to purchase an animal to be sacrificed on the second *Pesaḥ*? As long as the slaughter is not yet complete, redemption of the animal remains possible. Therefore, unspecified slaughter at that time is for the sake of a Paschal offering and one should be exempt from receiving lashes.
 
-Abaye provides the response: *nehi d'id'chayei lah mi-pesach* — it is true that from the moment one begins cutting, the animal can no longer be brought as a *pesach sheini* in its current form. *Bi-dmei pesach mi id'chayei* — but it has not been removed from the *category* of pesach entirely. Even after acquiring a mum, the animal could be redeemed: its kedusha could be transferred to money, and that money could be used to purchase an animal for the *pesach sheini*. Therefore, the animal has not been fully uprooted from its pesach identity. It remains within the ambit of pesach, and without a conscious act of akira it will not become a shelamim.
+Abaye provides the response: *nehi d'id'chayei lah mi-pesach* — it is true that from the moment one begins cutting, the animal can no longer be brought as a *pesach sheini* in its current form. *bi-dmei pesach mi id'chayei* — but it has not been removed from the *category* of pesach entirely. Even after acquiring a mum, the animal could be redeemed: its kedusha could be transferred to money, and that money could be used to purchase an animal for the *pesach sheini*. Therefore, the animal has not been fully uprooted from its pesach identity. It remains within the ambit of pesach, and without a conscious act of akira it will not become a shelamim.
 
 > **Hebrew/Aramaic:** וְכִי תֵּימָא, בָּעֵי הַעֲמָדָה וְהַעֲרָכָה, וְהָתְנַן: שָׁחַט בָּהּ שְׁנַיִם אוֹ רוֹב שְׁנַיִם וַעֲדַיִין הִיא מְפַרְכֶּסֶת – הֲרֵי הִיא כְּחַיָּה לְכׇל דְּבָרֶיהָ.
 >
@@ -186,7 +183,6 @@ Abaye provides the response: *nehi d'id'chayei lah mi-pesach* — it is true tha
 
 One might object: once one has begun shechita, can the animal still be redeemed? The verse requires that the animal be stood before the kohen and evaluated while alive — *ha'amada ve-ha'aracha* — which would seem to foreclose redemption once shechita has begun. Abaye responds: the animal is not yet dead when *shechita begins*, and the Mishnah elsewhere teaches that even after two simanim have been cut, as long as the animal is still *mefarchesets* — convulsing, showing signs of life — it retains a degree of halakhic vitality. Therefore, theoretically, even during an ongoing shechita the possibility of redemption has not been entirely foreclosed, and the animal remains within the pesach category.
 
-*[Continued from above]*
 
 The broader discussion is admittedly frustrating at a conceptual level. If one defines the two positions as: (a) one is *in the process of shechita* from the beginning versus (b) the *act of shechita* is only complete at the end, then in some sense both positions ought to be simultaneously true — one is always in the process from the beginning, and the act is always complete at the end. The only meaningful debate would be whether being in-process is itself halakhically significant for specific purposes, such as triggering chiyuv for *shochtei chutz* or generating tumah in the context of *parah adumah*. That framing helps make both positions intelligible, but it does not fully eliminate the difficulties around why the animal is not a treifa or *ba'al mum* for most halakhic purposes even according to the view that nothing counts until the end.
 
@@ -254,7 +250,6 @@ A practical story is brought to illustrate how this was handled in practice. A c
 
 ### Rav Zeira Infers
 
-*[Continued from above]*
 
 Rav Zeira draws an inference from this ruling: *limadatenu rabbeinu, mishnatenu bi-shnei sakinim u-vi-shnei bnei adam* — from Rav Yosef bar Shmuel bar Marta's action, one can infer that the Mishnah describing two people shechting should indeed be understood as referring to two separate knives cutting at two separate locations on the siman, not merely two handles on one knife. His lenient ruling on the cow with multiple cuts supports the reading that genuinely discontinuous shechita in two locations is valid.
 
@@ -274,19 +269,16 @@ The Gemara introduces the pesul of chaldah — burrowing. Rav Yehuda said in the
 
 ### Tachat Ha-Or Valid
 
-*[Continued from above]*
 
 An important distinction is immediately introduced: *tachat ha-or, kesherah* — if one inserted the knife not between the simanim themselves but between the simanim and the outer skin, and then proceeded to cut the simanim in the normal outward motion, this is valid. Inserting the knife beneath the skin is not considered chaldah, because the burrowing that is prohibited is specifically entering the interior space between the simanim and the spinal cord. Beginning beneath the skin while still cutting from the outside toward the simanim and beyond does not constitute the prohibited form of burrowing.
 
 ### R. Yeshevav vs. Akiva
 
-*[Continued from above]*
 
 The Gemara notes that there is already a Mishnah addressing a related case: *o she-hechlid et ha-sakin tachat ha-sheni u-pesakah* — if one inserted the knife above the second siman and then cut downward. Rabbi Yeshevav says this produces a neveilah; Rabbi Akiva says it is a treifa. The distinction between neveilah and treifa here will be addressed elsewhere in the masechta.
 
 ### Cutting Direction
 
-*[Continued from above]*
 
 The Gemara clarifies what the new ruling adds beyond the Mishnah. One might have thought that the problem of burrowing above the second siman is specifically because one is cutting in the wrong direction — moving away from the spinal cord rather than toward it, which is the natural direction of shechita. Perhaps burrowing is only a pesul when one cuts in the wrong direction. If so, inserting the knife between the simanim but then cutting toward the spinal cord — the correct direction — might be valid.
 
@@ -294,9 +286,8 @@ The ruling of Rav Yehuda in the name of Rav teaches that even burrowing in the c
 
 ### Cloth Wool Cases
 
-*[Continued from above]*
 
-The passage then raises a series of unresolved questions. The school of Rav held that *tachat ha-or eini yodea* — they were uncertain whether inserting the knife beneath the outer skin, as described above, is in fact valid or not. And building on this uncertainty, the Gemara asks two further questions that remain in teiku. *Tachat ha-matlit mahu* — what if there was a cloth wrapped around the neck of the animal and one inserted the knife beneath the cloth? The cloth is not part of the animal at all, yet if beginning beneath even the skin of the animal is already suspect, perhaps beginning beneath an external cloth is equally or more problematic.
+The passage then raises a series of unresolved questions. The school of Rav held that *tachat ha-or eini yodea* — they were uncertain whether inserting the knife beneath the outer skin, as described above, is in fact valid or not. And building on this uncertainty, the Gemara asks two further questions that remain in teiku. *tachat ha-matlit mahu* — what if there was a cloth wrapped around the neck of the animal and one inserted the knife beneath the cloth? The cloth is not part of the animal at all, yet if beginning beneath even the skin of the animal is already suspect, perhaps beginning beneath an external cloth is equally or more problematic.
 
 *O tachat tzemer mesubach mahu* — or what if it is a sheep whose wool covers the area of shechita, and one begins cutting beneath the wool? The wool at least belongs to the sheep and grows from its body, so it is not as external as a cloth, but it is also not the skin proper. Both questions — burrowing under cloth and burrowing under wool — remain unresolved.
 

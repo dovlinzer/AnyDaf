@@ -20,7 +20,6 @@ The Mishna presents several cases. If the Toda was slaughtered with a thought of
 
 ### Treifa vs. Mum
 
-*[Continued from above]*
 
 By contrast, if the korban was slaughtered and was subsequently found to be a Treifa — meaning it had an internal injury that renders it non-viable — the ruling is Lo Kadesh Halechem: the bread is not sanctified. The distinction is fairly clear at the outset. A Treifa is a problem that predated the shechita; the animal was already a Treifa before the knife came down, and therefore the act of shechita was meaningless from the beginning. Since the shechita was not a valid act of sanctification, it could not confer Kedusha upon the bread. And that outcome, counterintuitively, is the better one — because if the bread was not sanctified, it remains free to be used for another korban.
 
@@ -78,7 +77,6 @@ This outcome requires explanation, since from a purely logical standpoint the ar
 
 ### Chutz Limkomo Debate
 
-*[Continued from above]*
 
 Tosafot raises the deeper question: even granting that there are two competing models, why should Chutz Lizmano — which is a greater Psul, carrying Karet — retain the power to sanctify the bread, while Chutz Limkomo — in our ordinary understanding a weaker version of Piggul — would not? The apparent irony is that the more severe disqualification results in Kidesh Halechem, while the less severe does not.
 
@@ -134,7 +132,6 @@ The Mishna now turns from the bread to the Nesachim — the wine libations — a
 
 ### Meratzeh L'Piggulo
 
-*[Continued from above]*
 
 The Mishna states: Ha-Nesachim she-Kiddshu bi-kli — Nesachim that were already sanctified through placement in a Kli Sharet — ve-nimtza Zevach Pasul — and the korban was found to be Pasul — im yesh Zevach acher, Yakrivu imo: if there is another korban available, bring the Nesachim with that one. Ve-im lav, Yipslu be-Lina: if there is no other korban, the Nesachim will become Pasul through Lina — by remaining overnight.
 
@@ -228,7 +225,6 @@ The Gemara answers: Shani hasam de-is lehu takanta bi-re'iya — the case of the
 
 ### Rav Chisda Objection
 
-*[Continued from above]*
 
 The accumulated weight of all these difficulties — the forced reading of the Mishna's language, the conceptual strangeness of decoupling the Nesachim from the shechita that supposedly sanctified them, the tension with Rabbi Shimon's rejection of Lev Beis Din, the requirement to limit the permissible transfer to a case where another korban was already slaughtered at that exact moment — all of this argues powerfully for the simple reading of the Mishna. The simple reading distinguishes the Nesachim from the bread of the Toda precisely because the Nesachim may be brought on a different day and are not closely bound to the korban. Their Kedusha derives from the Kli Sharet, not from the shechita. The Mishna is making exactly this contrast. It is Ze'iri's contrary position, insisting that shechita sanctifies the Nesachim just as it sanctifies the bread, that creates all of the difficulties that the Gemara then labors so strenuously to resolve.
 

@@ -10,7 +10,7 @@ Rav Katina answers that the pasuk states: *ve'asita ke'arotav vekapotav ukesotav
 
 ### Vessel Interpretation
 
-The Gemara does not read this pasuk according to its simple translation. Rather: *ke'arotav* — the dishes — *elu dfusin*, these are the frame-molds. *Kapotav* — the spoons — *elu bezichin*, these are the spoons used for the levona. *Kesotav* — *elu snifin*, these are the poles of the framework we are discussing. *Umenakiotav* — *elu kanim*, these are the rods that separate the loaves of lechem hapanim from one another. The phrase *asher yusach bahen* — with which you cover — refers to the kanim, *shemesach'chin bahen et halechem*: with which you cover the bread.
+The Gemara does not read this pasuk according to its simple translation. Rather: *ke'arotav* — the dishes — *elu dfusin*, these are the frame-molds. *kapotav* — the spoons — *elu bezichin*, these are the spoons used for the levona. *kesotav* — *elu snifin*, these are the poles of the framework we are discussing. *umenakiotav* — *elu kanim*, these are the rods that separate the loaves of lechem hapanim from one another. The phrase *asher yusach bahen* — with which you cover — refers to the kanim, *shemesach'chin bahen et halechem*: with which you cover the bread.
 
 ### Rava's Challenge
 
@@ -26,7 +26,7 @@ A baraita describes the precise procedure. On erev Shabbat, the kohen would ente
 
 ### Rods Per Loaf
 
-The baraita continues with further detail. The lechem hapanim was arranged in two stacks of six loaves each. Of the loaves in a given stack: *arba challos tzerichos shelosha shelosha kanim* — four of the loaves required three rods each beneath them. *Ha'elyonah einah tzerichah ela shenayim* — the topmost loaf required only two rods, *lefi she'einah lah masoi* — because it bears no additional weight on top of it. *Hatachtonah einah tzerichah kol ikar* — the bottom loaf requires no rods at all, *lefi shehu munach al taharo shel shulchan* — because it rests directly on the shulchan itself. Rashi explains *taharo shel shulchan* as indicating that the golden table is cool, and it is the contact of warm bread against warm bread that risks mold; contact with the cold metal surface does not present the same concern. The Shita Mekubetzet similarly explains: *shulchan d'karir* — the table is cool.
+The baraita continues with further detail. The lechem hapanim was arranged in two stacks of six loaves each. Of the loaves in a given stack: *arba challos tzerichos shelosha shelosha kanim* — four of the loaves required three rods each beneath them. *ha'elyonah einah tzerichah ela shenayim* — the topmost loaf required only two rods, *lefi she'einah lah masoi* — because it bears no additional weight on top of it. *hatachtonah einah tzerichah kol ikar* — the bottom loaf requires no rods at all, *lefi shehu munach al taharo shel shulchan* — because it rests directly on the shulchan itself. Rashi explains *taharo shel shulchan* as indicating that the golden table is cool, and it is the contact of warm bread against warm bread that risks mold; contact with the cold metal surface does not present the same concern. The Shita Mekubetzet similarly explains: *shulchan d'karir* — the table is cool.
 
 ---
 
@@ -46,7 +46,7 @@ Rabbi Yochanan observes: *misheneihem mikra echad darshu* — both Rabbi Meir an
 
 ### Yechezkel Parsing
 
-The Gemara proceeds to parse this pasuk, and it must be said that this is Yechezkel — one must suspend ordinary reading expectations. In a preliminary reading: *v'eileh middos hamizbeiach ba'amos* — these are the measurements of the mizbeiach in amot — the Gemara will interpret *ba'amos* as referring to medium amot. *Amah amah vatofach* — the Gemara understands this as: a standard amah is five tefachim, and the medium amah is that five plus one tefach, equaling six. *Cheik ha'amah* will be interpreted as the base. *Ve'amah rochav* concerns a width of an amah. *U'gevulah el sfatah saviv* — the distance from the border to the edge — refers to the keren. *Zeres ha'echad* — that width is one zeret, which is half an amah. *V'zeh gav hamizbeiach* — this is the top of the mizbeiach.
+The Gemara proceeds to parse this pasuk, and it must be said that this is Yechezkel — one must suspend ordinary reading expectations. In a preliminary reading: *v'eileh middos hamizbeiach ba'amos* — these are the measurements of the mizbeiach in amot — the Gemara will interpret *ba'amos* as referring to medium amot. *amah amah vatofach* — the Gemara understands this as: a standard amah is five tefachim, and the medium amah is that five plus one tefach, equaling six. *cheik ha'amah* will be interpreted as the base. *ve'amah rochav* concerns a width of an amah. *u'gevulah el sfatah saviv* — the distance from the border to the edge — refers to the keren. *zeres ha'echad* — that width is one zeret, which is half an amah. *v'zeh gav hamizbeiach* — this is the top of the mizbeiach.
 
 Rabbi Meir understands *zeh gav hamizbeiach* as: these specific measurements of the mizbeiach — those just enumerated — use the five-tefach amah, while all other kelim in the Mikdash used the six-tefach amah. Rabbi Yehuda reads the same phrase *zeh gav hamizbeiach* differently: just as this mizbeiach was measured with five-tefach amot, so too the other kelim likewise used five-tefach amot for their assembly.
 
@@ -60,7 +60,7 @@ The Gemara now attempts to work through these measurements. The initial assumpti
 
 ### 54 Tefachim
 
-With this interpretation, the total height of the mizbeiach is: six times five equals thirty tefachim, plus four times six equals twenty-four tefachim, for a total of fifty-four tefachim. *Palga d'mizbeach kamah haveh esrin v'shiv'ah* — the halfway point of the mizbeiach is twenty-seven tefachim. This matters because certain matnos dam had to be applied to the upper half of the mizbeiach and others to the lower half, and there was a red line — *chut shel sikra chogro b'emtza* — painted around the mizbeiach at the halfway mark to distinguish *damim ha'elyonim* from *damim hatachtonim*.
+With this interpretation, the total height of the mizbeiach is: six times five equals thirty tefachim, plus four times six equals twenty-four tefachim, for a total of fifty-four tefachim. *palga d'mizbeach kamah haveh esrin v'shiv'ah* — the halfway point of the mizbeiach is twenty-seven tefachim. This matters because certain matnos dam had to be applied to the upper half of the mizbeiach and others to the lower half, and there was a red line — *chut shel sikra chogro b'emtza* — painted around the mizbeiach at the halfway mark to distinguish *damim ha'elyonim* from *damim hatachtonim*.
 
 From the top of the karnot down to the surface of the sovev is four amot of six tefachim each, equaling twenty-four tefachim. The difference between twenty-four and twenty-seven is three tefachim — meaning the surface of the sovev is three tefachim above the halfway mark of the mizbeiach.
 
@@ -68,7 +68,7 @@ From the top of the karnot down to the surface of the sovev is four amot of six 
 
 At this point the Gemara raises a difficulty from a baraita concerning olas ha'of, the bird elevation offering, whose blood must be applied to the upper portion of the mizbeiach. The procedure: the kohen ascends the ramp, turns off at the sovev, proceeds to the southeast corner, performs the melika, and *umamatze es damo al kir hamizbe'ach* — squeezes the blood against the wall of the mizbeiach. Since he is standing on the sovev, he is already above the halfway mark.
 
-But the baraita then states: *ve'im asah l'mata meraglav afilu amah achas kesherah* — if he applied the blood below his feet, even a full amah below the surface of the sovev, it is still valid. This is the problem. Under our current calculation, the halfway mark is only three tefachim below the sovev. A full amah — whether five or six tefachim — brings him well below the halfway mark. *Hacha yehei elyona lemata mishnei tefachim* — under this calculation the kohen would be placing blood two tefachim below the halfway point and calling it valid. Our calculations must therefore be wrong, and the interpretation of the pasuk must be revisited.
+But the baraita then states: *ve'im asah l'mata meraglav afilu amah achas kesherah* — if he applied the blood below his feet, even a full amah below the surface of the sovev, it is still valid. This is the problem. Under our current calculation, the halfway mark is only three tefachim below the sovev. A full amah — whether five or six tefachim — brings him well below the halfway mark. *hacha yehei elyona lemata mishnei tefachim* — under this calculation the kohen would be placing blood two tefachim below the halfway point and calling it valid. Our calculations must therefore be wrong, and the interpretation of the pasuk must be revisited.
 
 ### Reinterpret Horizontal
 
@@ -80,11 +80,11 @@ The Gemara therefore reinterprets: *cheik ha'amah kenisa* — when the navi says
 
 ### 60 Tefachim
 
-With all vertical measurements now in six-tefach amot, the total height of the mizbeiach is ten times six, equaling sixty tefachim. *Palga demizbeach kama havei sheloshim* — the halfway point is now thirty tefachim. From the top of the karnot to the surface of the sovev is four amot of six tefachim, equaling twenty-four. The gap between the sovev surface and the halfway mark is therefore thirty minus twenty-four, which is six tefachim.
+With all vertical measurements now in six-tefach amot, the total height of the mizbeiach is ten times six, equaling sixty tefachim. *palga demizbeach kama havei sheloshim* — the halfway point is now thirty tefachim. From the top of the karnot to the surface of the sovev is four amot of six tefachim, equaling twenty-four. The gap between the sovev surface and the halfway mark is therefore thirty minus twenty-four, which is six tefachim.
 
 ### Baraita Fit
 
-The baraita's ruling now fits perfectly. If the kohen stands on the sovev and applies the blood even one full amah — six tefachim — below his feet, he is still exactly at the halfway mark. *Detanya mesulak lemata meraglav va'afilu amah achas kesherah* — the ruling that even one amah below the sovev surface is valid is precisely accounted for by the corrected calculation.
+The baraita's ruling now fits perfectly. If the kohen stands on the sovev and applies the blood even one full amah — six tefachim — below his feet, he is still exactly at the halfway mark. *detanya mesulak lemata meraglav va'afilu amah achas kesherah* — the ruling that even one amah below the sovev surface is valid is precisely accounted for by the corrected calculation.
 
 ### Surface Area
 
@@ -118,9 +118,9 @@ The 187 amot are accounted for as follows: eleven amot for the walking space of 
 
 ### Final Interp
 
-The Gemara's final resolution: *cheik ha'amah begovah* — the phrase *cheik ha'amah* refers to height, the first amah of the base measured vertically, and that amah is a five-tefach amah. *Amah rochav kenisah* — the next phrase, *amah rochav*, refers to the width of the horizontal indentation of the yesod, which is also a five-tefach amah. As for *gevulah el sfatah saviv* — the border of the keren — the Gemara says *lo shanah hachi velo shanah hachi*: it does not significantly affect the calculation either way. The conclusion is that the mizbeiach's total height is fifty-eight tefachim — eight amot of six tefachim each, plus two amot (the bottom yesod and the top keren) of five tefachim each: 8 × 6 + 2 × 5 = 58.
+The Gemara's final resolution: *cheik ha'amah begovah* — the phrase *cheik ha'amah* refers to height, the first amah of the base measured vertically, and that amah is a five-tefach amah. *amah rochav kenisah* — the next phrase, *amah rochav*, refers to the width of the horizontal indentation of the yesod, which is also a five-tefach amah. As for *gevulah el sfatah saviv* — the border of the keren — the Gemara says *lo shanah hachi velo shanah hachi*: it does not significantly affect the calculation either way. The conclusion is that the mizbeiach's total height is fifty-eight tefachim — eight amot of six tefachim each, plus two amot (the bottom yesod and the top keren) of five tefachim each: 8 × 6 + 2 × 5 = 58.
 
-The halfway mark is therefore twenty-nine tefachim. From the top of the karnot down to the sovev is four full amot plus one small amah: 4 × 6 = 24, plus approximately half of 5, giving roughly 23 tefachim from the karnot to the sovev. The gap between the sovev surface and the halfway mark is six tefachim — one full six-tefach amah. *Detanya mesulak lemata meraglav va'afilu amah achas kesherah* — the baraita's ruling that blood applied one full amah below the sovev is valid is confirmed: one amah below the sovev is exactly the halfway mark. *Dayka nami dechsiv cheik ha'amah ve'amah rochav* — this is further corroborated by the phrasing of the pasuk itself, which describes both a vertical base-amah and a horizontal width-amah, corresponding precisely to the two applications of the five-tefach measure.
+The halfway mark is therefore twenty-nine tefachim. From the top of the karnot down to the sovev is four full amot plus one small amah: 4 × 6 = 24, plus approximately half of 5, giving roughly 23 tefachim from the karnot to the sovev. The gap between the sovev surface and the halfway mark is six tefachim — one full six-tefach amah. *detanya mesulak lemata meraglav va'afilu amah achas kesherah* — the baraita's ruling that blood applied one full amah below the sovev is valid is confirmed: one amah below the sovev is exactly the halfway mark. *dayka nami dechsiv cheik ha'amah ve'amah rochav* — this is further corroborated by the phrasing of the pasuk itself, which describes both a vertical base-amah and a horizontal width-amah, corresponding precisely to the two applications of the five-tefach measure.
 
 ---
 
@@ -140,7 +140,7 @@ Why were two standards maintained? The mishna explains: *kdei sheyiyu haumnim no
 
 ### Two Rationales
 
-One might ask why two distinct enlarged standards were necessary rather than one. *Tartei lama li?* The Gemara answers: *chada lchaspa vedahava* — one was for gold and silver work, *vechada livinyana* — and one for building materials. Since precious materials are costly, it would be unduly burdensome to require craftsmen working with gold and silver to over-deliver by a full etzba; therefore the half-etzba standard was used for such work. For ordinary building materials — wood, plaster, and the like — the additional cost of a full etzba's surplus is negligible, so the larger standard was applied there.
+One might ask why two distinct enlarged standards were necessary rather than one. *tartei lama li?* The Gemara answers: *chada lchaspa vedahava* — one was for gold and silver work, *vechada livinyana* — and one for building materials. Since precious materials are costly, it would be unduly burdensome to require craftsmen working with gold and silver to over-deliver by a full etzba; therefore the half-etzba standard was used for such work. For ordinary building materials — wood, plaster, and the like — the additional cost of a full etzba's surplus is negligible, so the larger standard was applied there.
 
 ---
 
@@ -158,10 +158,10 @@ The other opinion holds that the image was placed there not for gratitude but *k
 
 ### Fear Government
 
-This second rationale leads into a broader statement: *Amar Rav Yannai le'olam tehei eimat malchut alecha* — one should always maintain fear of governmental authority.
+This second rationale leads into a broader statement: *amar rav yannai le'olam tehei eimat malchut alecha* — one should always maintain fear of governmental authority.
 
 ### Textual Support
 
-Rav Yannai derives this from the incident of the tenth plague. When Moshe warned Pharaoh, he said: *ve'yardu kol avadecha eileh elai vehishtachavu li leimor* — all your servants will come down to me and bow before me. He said "your servants" — he did not say "you yourself will come down." *V'ilu ledidi lo ka'amar lei* — he did not address Pharaoh directly in this way, as an expression of *eimat malchut*, a show of deference to the king even in the moment of confrontation.
+Rav Yannai derives this from the incident of the tenth plague. When Moshe warned Pharaoh, he said: *ve'yardu kol avadecha eileh elai vehishtachavu li leimor* — all your servants will come down to me and bow before me. He said "your servants" — he did not say "you yourself will come down." *v'ilu ledidi lo ka'amar lei* — he did not address Pharaoh directly in this way, as an expression of *eimat malchut*, a show of deference to the king even in the moment of confrontation.
 
 Rabbi Yochanan derives the same principle from a different pasuk: *veyad Hashem hayetah el Eliyahu vayeshannes matnav vayaratz lifnei Achav ad bo Yizreel* — the hand of God came upon Eliyahu and he girded his loins and ran before Achav all the way to Yizreel. Rashi explains that Achav was riding and it would not have been proper conduct toward the king for Eliyahu simply to let him pass; therefore Eliyahu ran as an escort before the royal chariot for the entire distance, as a demonstration of respect for *malchus*.

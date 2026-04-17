@@ -1,0 +1,61 @@
+### Hullin 49b
+
+**1.**
+*Hebrew/Aramaic:* וְגוֹ׳״ – לְהָבִיא חֵלֶב שֶׁעַל גַּבֵּי הַדַּקִּין, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר: לְהָבִיא חֵלֶב שֶׁעַל גַּבֵּי הַקֵּבָה.
+*Translation:* the word “all” serves **to include** the **fat that is on the small intestines;** this is **the statement of Rabbi Yishmael. Rabbi Akiva says:** The word “all” serves **to include** the **fat that is on the abomasum.** According to Rabbi Yishmael, the fat of the abomasum is permitted.
+
+**2.**
+*Hebrew/Aramaic:* וּרְמִינְהִי: ״אֶת הַחֵלֶב אֲשֶׁר עַל הַקֶּרֶב״ – רַבִּי שִׁמְעוֹן אוֹמֵר: מָה חֵלֶב הַמְכַסֶּה אֶת הַקֶּרֶב קְרוּם וְנִקְלָף, אַף כֹּל קְרוּם וְנִקְלָף. רַבִּי עֲקִיבָא אוֹמֵר: מָה חֵלֶב הַמְכַסֶּה אֶת הַקֶּרֶב תּוֹתָב קְרוּם וְנִקְלָף, אַף כֹּל תּוֹתָב קְרוּם וְנִקְלָף.
+*Translation:* **And** the Gemara **raises a contradiction** from another *baraita*: The verse states: “The fat that covers the innards, and all **the fat that is upon the innards”** (Leviticus 3:3). **Rabbi Shimon,** i.e., Rabbi Yishmael, **says: Just as the fat that covers the innards** possesses **a membrane, and** that membrane is easily **peeled** off, **so too, all** fat possessing **a membrane and** whose membrane is easily **peeled** is forbidden, including the fat on the abomasum. **Rabbi Akiva says: Just as the fat that covers the innards is spread out** loosely over them, and it possesses **a membrane, and** the membrane is easily **peeled** off, **so too, all** fat that is **spread out** loosely, and possesses **a membrane, and** whose membrane is easily **peeled,** e.g., the fat on the intestines, is forbidden. The fat on the abomasum is fixed tightly and is therefore permitted. It would seem from this *baraita* that Rabbi Akiva and Rabbi Yishmael contradict themselves.
+
+**3.**
+*Hebrew/Aramaic:* שְׁלַח רָבִין מִשְּׁמֵיהּ דְּרַבִּי יוֹחָנָן: כָּךְ הִיא הַצָּעָה שֶׁל מִשְׁנָה, וְאֵיפוֹךְ קַמַּיְיתָא.
+*Translation:* **Ravin sent** an answer **in the name of Rabbi Yoḥanan: Such is the** proper **layout of the mishna,** i.e., the *baraita*. The latter attribution of the opinions is correct, **and** one must **reverse** the attribution of opinions in **the first** *baraita*. Accordingly, Rabbi Akiva deems the fat on the intestines prohibited, while Rabbi Yishmael deems the fat on the abomasum prohibited as well.
+
+**4.**
+*Hebrew/Aramaic:* מַאי חָזֵית דְּאָפְכַתְּ קַמַּיְיתָא? אֵיפוֹךְ בָּתְרָיְיתָא! שָׁאנֵי הָכָא, כֵּיוָן דְּקָתָנֵי ״מָה״, דַּוְוקָא.
+*Translation:* The Gemara asks: **What did you see that** led **you** to **reverse the first** *baraita*? Why not **reverse the second** *baraita* instead? The Gemara responds: The second *baraita* **here is different, since it teaches** using the formula: **Just as.** Because it takes care to **specifically** provide the textual justifications for the opinions, it is presumably accurate about the attributions as well.
+
+**5.**
+*Hebrew/Aramaic:* אִי הָכִי, כְּרַבִּי יִשְׁמָעֵאל? כְּרַבִּי עֲקִיבָא הִיא! אָמַר רַב נַחְמָן בַּר יִצְחָק: שֶׁאָמַר מִשּׁוּם אֲבוֹתָיו, וְלֵיהּ לָא סְבִירָא לֵיהּ.
+*Translation:* The Gemara asks: **If so,** how can Rabbi Oshaya claim above that the priests acted **in accordance with** the opinion of **Rabbi Yishmael? It** was actually **in accordance with** the opinion of **Rabbi Akiva. Rav Naḥman bar Yitzḥak said:** Rabbi Oshaya meant only **that** Rabbi Yishmael **says** the lenient opinion **in the name of his forefathers, but** Rabbi Yishmael **himself does not hold accordingly,** and he considers the fat of the abomasum forbidden.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב: חֵלֶב טָהוֹר – סוֹתֵם, טָמֵא – אֵינוֹ סוֹתֵם. וְרַב שֵׁשֶׁת אוֹמֵר: אֶחָד זֶה וְאֶחָד זֶה סוֹתֵם.
+*Translation:* § The Gemara discusses a connection between the issue of fats and that of *tereifot*: **Rav says: Kosher fat** effectively **seals** a perforation that it covers, and the animal is not rendered a *tereifa*. **Non-kosher** fat **does not** effectively **seal** a perforation, and the animal is a *tereifa*. **And Rav Sheshet says: Both this and that** fat effectively **seal** a perforation.
+
+**7.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי זֵירָא: חֵלֶב חַיָּה מַאי? דַּוְקָא אָמַר חֵלֶב טָהוֹר סוֹתֵם, וְהַאי נָמֵי טָהוֹר הוּא, אוֹ דִלְמָא מִשּׁוּם דִּמְהַדַּק, וְהַאי לָא מְהַדַּק?
+*Translation:* **Rabbi Zeira raises a dilemma:** With regard to the **fat of an undomesticated animal,** all of which is permitted for consumption, **what** is the *halakha*? Shall one say that Rav **specifically said** that **kosher fat seals** a perforation, **and** since **this too,** i.e., all the fat of an undomesticated animal, **is kosher,** it is all considered an effective seal? **Or perhaps** Rav specified that permitted fat of a domesticated animal seals a perforation only **because it is** firmly **attached. But this,** the fat on the innards of an undomesticated animal, **is not** firmly **attached,** and it is not an effective seal, even though it is permitted for consumption.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: מַאי תִּיבְּעֵי לֵיהּ? נְהִי דִּשְׁרֵי בַּאֲכִילָה, אִהַדּוֹקֵי לָא מְהַדַּק.
+*Translation:* **Abaye said: Why** does Rabbi Zeira **raise this dilemma? Granted that** the fat of the innards is **permitted for consumption,** but still, **it is not** firmly **attached** and clearly does not form an effective seal.
+
+**9.**
+*Hebrew/Aramaic:* הָהוּא נֶקֶב דְּסַתְמֵהּ חֵלֶב טָמֵא, דַּאֲתָא לְקַמֵּיהּ דְּרָבָא. אָמַר רָבָא: לְמַאי נֵיחוּשׁ לַהּ? חֲדָא – דְּהָא אָמַר רַב שֵׁשֶׁת: חֵלֶב טָמֵא נָמֵי סוֹתֵם, וְעוֹד – הַתּוֹרָה חָסָה עַל מָמוֹנָם שֶׁל יִשְׂרָאֵל. אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא: רַב, וְאִיסּוּרָא דְּאוֹרָיְיתָא, וְאַתְּ אָמְרַתְּ ״הַתּוֹרָה חָסָה עַל מָמוֹנָן שֶׁל יִשְׂרָאֵל״?!
+*Translation:* The Gemara relates: There was **a certain perforation that was sealed by non-kosher fat that came before Rava. Rava said: With regard to what** need **we be concerned? First, doesn’t Rav Sheshet say: Non-kosher fat also** effectively **seals** a perforation? **And furthermore,** in general, **the Torah spares the money of the Jewish people,** and it is appropriate to rule leniently in this regard. **Rav Pappa said to Rava:** But there is also the opinion of **Rav** that non-kosher fat does not seal a perforation, **and** this dispute concerns **a prohibition by Torah law, and** yet **you say** that **the Torah spares the money of the Jewish people?** One cannot rely on this principle to rule in accordance with the lenient opinion with regard to such matters.
+
+**10.**
+*Hebrew/Aramaic:* מִנְיוֹמִין כַּנְדּוּקָא אִיגַּלִּי לֵיהּ בֻּסְתְּקָא דְּדוּבְשָׁא, אֲתָא לְקַמֵּיהּ דְּרָבָא. אָמַר רָבָא: לְמַאי נֵיחוּשׁ לַהּ? חֲדָא – דִּתְנַן, שְׁלֹשָׁה מַשְׁקִים אֲסוּרִים מִשּׁוּם גִּילּוּי: הַיַּיִן וְהַמַּיִם וְהֶחָלָב, וּשְׁאָר כׇּל הַמַּשְׁקִים מוּתָּרִים, וְעוֹד – הַתּוֹרָה חָסָה עַל מָמוֹנָם שֶׁל יִשְׂרָאֵל. אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק לְרָבָא: רַבִּי שִׁמְעוֹן, וְסַכָּנַת נְפָשׁוֹת, וְאַתְּ אָמְרַתְּ ״הַתּוֹרָה חָסָה עַל מָמוֹנָם שֶׁל יִשְׂרָאֵל״?
+*Translation:* The Gemara relates a similar episode: **Manyumin the jug maker** had **a jug [*bisteka*]** full **of honey** that **was** left **uncovered,** and he was concerned it might have been contaminated by snake venom. **He came before Rava** to inquire as to the *halakha*. **Rava said: With regard to what** need **we be concerned? First, as we learned** in a mishna (*Terumot* 8:4): **Three liquids are prohibited due to exposure: Wine, water, and milk; and all other liquids are permitted.** Honey, therefore, is permitted. **And furthermore, the Torah spares the money of the Jewish people. Rav Naḥman bar Yitzḥak said to Rava:** But there is also the opinion of **Rabbi Shimon** that exposed honey is prohibited, **and** this dispute concerns a matter of **mortal danger, and** yet **you say** that **the Torah spares the money of the Jewish people?**
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן מַאי הִיא? דְּתַנְיָא: חֲמִשָּׁה אֵין בָּהֶם מִשּׁוּם גִּילּוּי: צִיר, וָחוֹמֶץ, שֶׁמֶן, וּדְבַשׁ, וּמוּרְיָיס. רַבִּי שִׁמְעוֹן אוֹמֵר: אַף הֵן יֵשׁ בָּהֶן מִשּׁוּם גִּילּוּי. וְאָמַר רַבִּי שִׁמְעוֹן: אֲנִי רָאִיתִי נָחָשׁ שֶׁשָּׁתָה צִיר בְּצַיְדָּן. אָמְרוּ לוֹ: שָׁטְיָא הֲוָה, וְאֵין מְבִיאִין רְאָיָה מִן הַשּׁוֹטִים.
+*Translation:* The Gemara clarifies: **What is** this opinion of **Rabbi Shimon? As it is taught** in a *baraita*: **Five** liquids **are not** subject to the prohibition of **exposure,** since snakes do not drink from them: **Fish brine, vinegar, oil, honey, and fish gravy [*morayes*]** made from fish brine mixed with oil and salt. **Rabbi Shimon says: Even they are** subject to prohibition **due to exposure. And Rabbi Shimon said: I** once **saw a snake that drank fish brine in Tzaidan.** The Rabbis **said to him:** That snake **was strange,** i.e., it behaved differently than other snakes, **and one does not bring a proof from strange** creatures.
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אוֹדִי לִי מִיהַת בְּצִיר, דְּהָא רַב פָּפָּא וְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ וְרַבָּנַן, כִּי הֲוָה לְהוּ גִּילּוּיָא, שָׁדוּ לֵיהּ בְּצִיר. אֲמַר לֵיהּ: אוֹדִי לִי מִיהָא בִּדְבַשׁ, דְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר קָאֵי כְּוָותֵיהּ, דְּתַנְיָא: וְכֵן הָיָה רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹסֵר בִּדְבַשׁ.
+*Translation:* Rava **said to** Rav Naḥman bar Yitzḥak: **Concede to me, at least, with regard to fish brine** that it is not prohibited by exposure, **as when Rav Pappa and Rav Huna, son of Rabbi Yehoshua, and the Sages would have** a case of **exposure** of some liquid, **they would cast it into fish brine.** The sharpness of the brine neutralizes the snake venom. Accordingly, just as the *halakha* is not in accordance with the opinion of Rabbi Shimon with regard to fish brine, so too it is not in accordance with his opinion with regard to honey. Rav Naḥman bar Yitzḥak **said to him: Concede to me, at least, with regard to honey** that it is prohibited by exposure, **as Rabbi Shimon ben Elazar held in accordance with** the opinion of Rabbi Shimon. **As it is taught** in a *baraita*: **And likewise, Rabbi Shimon ben Elazar would deem** exposed **honey prohibited.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: חֵלֶב הֶעָשׂוּי כְּכוֹבַע אֵינוֹ סוֹתֵם. הֵיכָא? אָמְרִי לַהּ: חִיטֵּי דְּכַרְכְּשָׁא, וְאָמְרִי לַהּ: טַרְפְּשָׁא דְּלִיבָּא.
+*Translation:* The Gemara returns to the initial discussion with regard to fats and perforations: **Rav Naḥman says:** Permitted **fat that is made like a hat does not** effectively **seal** a perforation, even though it is permitted for consumption. The Gemara clarifies: **Where** is this fat? **Some say** it is the **grains** of fat found **on the rectum,** which, if perforated, renders the animal a *tereifa*. **And some say** that it is **the membrane** surrounding **the heart,** which, if perforated to the chambers, renders the animal a *tereifa*.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רָבָא: שְׁמַעִית מִינֵּיהּ דְּרַב נַחְמָן תַּרְתֵּי, חִימְצָא וּבַר חִימְצָא, חַד סָתֵים וְחַד לָא סָתֵים, וְלָא יָדַעְנָא הֵי מִינַּיְיהוּ. רַב הוּנָא בַּר חִינָּנָא וְרַב הוּנָא בְּרֵיהּ דְּרַב נַחְמָן אָמַר: בַּר חִימְצָא סָתֵים, חִימְצָא לָא סָתֵים. אָמַר רַב טָבוּת: וְסִימָנָיךְ – יָפֶה כֹּחַ הַבֵּן מִכֹּחַ הָאָב.
+*Translation:* § **Rava said: I heard from Rav Naḥman** about **two** fats found on the abomasum, in different places. One is called the ***ḥimtza* and** one the ***bar ḥimtza*,** meaning: Son of *ḥimtza*. **One** effectively **seals** a perforation of the abomasum, **and one does not** effectively **seal** a perforation of the abomasum. **But I do not know which of them** is which. **Rav Huna bar Ḥinnana and Rav Huna, son of Rav Naḥman, said:** The ***bar ḥimtza* seals;** the ***ḥimtza* does not seal. Rav Tavot said: And your mnemonic** is: **The power of the son is greater than the power of the father.**
+
+**15.**
+*Hebrew/Aramaic:* הֵי חִימְצָא וְהֵי בַּר חִימְצָא? תָּא שְׁמַע, דְּאָמַר רַב נַחְמָן: אִינְהוּ מֵיכָל אָכְלִי,
+*Translation:* The Gemara asks: **Which is the *ḥimtza* and which is the *bar ḥimtza*?** The Gemara suggests: **Come** and **hear** proof from that **which Rav Naḥman says** with regard to one of the fats on the abomasum. Can it be that **they,** the residents of Eretz Yisrael, **eat** it, considering it permitted for consumption,

@@ -104,6 +104,12 @@ exactly — do not simplify, omit, or reorder arguments
 (e.g. *shechita*, *basar b'chalav*, *treif*) — do not use Hebrew script inline in the \
 prose body, and do not leave transliterations unitalicized. Hebrew script belongs only \
 in the Sefaria blockquotes, not in running English text.
+- Transliterated terms are always **lowercase** in prose body text, regardless of how \
+they appear in the source transcript. Do not capitalize common Hebrew/Aramaic nouns \
+mid-sentence (e.g. *kaveiret*, *lechatchila*, *meitivei*, *tanur*, not *Kaveiret*, \
+*Lechatchila*, *Meitivei*, *Tanur*). The only exceptions are proper nouns: names of \
+people (*Rabbi Hiyya*), places (*Sura*, *Bavel*), and tractate names (*Chullin*, \
+*Menachot*) retain their initial capital.
 - Hebrew letter names used as numbers: when a Hebrew letter name is spoken as a numerical \
 reference (daf number, amud, pasuk, perek, mishnah, etc.), convert it to its Arabic numeral. \
 Standard values — alef=1, bet/beis=2, gimel=3, dalet/daled=4, heh/hey=5, vav=6, zayin=7, \
@@ -232,34 +238,23 @@ Insert the first part as the blockquote for the first section and the second par
 as the blockquote for the following section. Do not force the entire segment into \
 whichever section happens to contain the later anchor.
 
-*[Continued from above]* usage — STRICT RULE:
-*[Continued from above]* is a blockquote substitute ONLY. It occupies exactly the \
-same position as a > blockquote — between the heading line and the essay prose — \
-and signals that no new Sefaria passage begins here. The essay prose that follows \
-the heading is ALWAYS preserved in full, whether or not a blockquote or \
-*[Continued from above]* precedes it.
-
-Use *[Continued from above]* ONLY when BOTH of the following are true: \
-(1) the essay section contains no Hebrew or Aramaic text that can be located in \
-the Sefaria text — i.e. the lecturer is doing pure analysis with no new Talmudic \
-quotation; AND (2) there are no Sefaria segments remaining between the end of the \
-previous blockquote and the anchor of the next anchored section. If condition (2) \
-fails — meaning there ARE Sefaria segments that come after your last insertion \
-point and before the next real anchor — those segments must be inserted here as a \
-blockquote; do not use *[Continued from above]*. \
-Additionally, *[Continued from above]* must NEVER appear before the first Sefaria \
-blockquote in the document. If the opening section(s) of the essay have no \
-Hebrew/Aramaic anchor, leave them with no blockquote and no placeholder — the \
-first *[Continued from above]* can only appear after at least one real blockquote \
-has already been inserted. If the section body \
-contains ANY Hebrew/Aramaic string (even a single short clause like הָוֵי בַּהּ \
-רַב עַמְרָם: אַהֵיָיא) that appears in the Sefaria text, that text is a new anchor \
-and must get its own blockquote covering from the end of the previous insertion up \
-to and including that passage — never collapsed into *[Continued from above]*.
+Sections with no new Sefaria text — STRICT RULE:
+If an essay section contains no Hebrew or Aramaic text that can be located in the \
+Sefaria text (i.e. the lecturer is doing pure analysis with no new Talmudic \
+quotation) AND there are no Sefaria segments remaining between the end of the \
+previous blockquote and the anchor of the next anchored section, leave the section \
+with NO blockquote and NO placeholder of any kind — go directly from the heading \
+line to the essay prose. Do NOT insert *[Continued from above]* or any similar \
+placeholder. If condition (2) fails — meaning there ARE Sefaria segments that come \
+after your last insertion point and before the next real anchor — those segments \
+must be inserted here as a blockquote. If the section body contains ANY \
+Hebrew/Aramaic string (even a single short clause like הָוֵי בַּהּ רַב עַמְרָם: \
+אַהֵיָיא) that appears in the Sefaria text, that text is a new anchor and must get \
+its own blockquote covering from the end of the previous insertion up to and \
+including that passage.
 
 CORRECT format for a section with no new Sefaria text and no pending segments:
   ### Section Title
-  *[Continued from above]*
   [full essay prose for this section — never omitted]
 
 CORRECT format for an anchor-less section where pending Sefaria segments exist \
@@ -272,13 +267,12 @@ between the last insertion and the next anchor:
 
 INCORRECT — prose deleted:
   ### Section Title
-  *[Continued from above]*
   [nothing]
 
-INCORRECT — *[Continued from above]* used when pending segments exist:
+INCORRECT — placeholder inserted when no blockquote is needed:
   ### Section Title
   *[Continued from above]*
-  [essay prose]   ← wrong if there are uninserted segments before the next anchor
+  [essay prose]   ← wrong; omit the placeholder entirely
 
 Do not alter the essay text in any way — only insert blockquotes after headings. \
 Every word of prose from the input essay must appear in the output.

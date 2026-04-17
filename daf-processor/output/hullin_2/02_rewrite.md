@@ -16,7 +16,7 @@ The masechet is extremely well organized, covering all the steps involved in eat
 
 ### Anyone May Slaughter
 
-Our perek opens with the mishnah: *Hakol shochtin* — anyone may slaughter — *veshechitasan kesheira* — and their shechita is valid.
+Our perek opens with the mishnah: *hakol shochtin* — anyone may slaughter — *veshechitasan kesheira* — and their shechita is valid.
 
 ### Cheresh Shoteh VeKatan
 
@@ -46,15 +46,15 @@ Contemporary poskim have engaged seriously with whether this assumption still ap
 
 ### L'chatchila vs B'diavad
 
-The Gemara opens with an observation about the mishnah's language. *Hakol shochtin* — anyone may slaughter — implies that *lechatchila* anyone may do so. Yet the subsequent phrase *ushechitasan kesheira* — their shechita is valid — sounds like a post-facto endorsement, implying that certain people should not have done it *lechatchila* but that *bediavad* it is acceptable. The two halves of the mishnah appear to be in tension.
+The Gemara opens with an observation about the mishnah's language. *hakol shochtin* — anyone may slaughter — implies that *lechatchila* anyone may do so. Yet the subsequent phrase *ushechitasan kesheira* — their shechita is valid — sounds like a post-facto endorsement, implying that certain people should not have done it *lechatchila* but that *bediavad* it is acceptable. The two halves of the mishnah appear to be in tension.
 
-Rav Acha brei deRav poses this to Rav Ashi: *Vechol hakol lechatchila hu?* — Is it always the case that the word *hakol* implies *lechatchila*? Perhaps *hakol* simply means that whoever does it produces a valid result, without implying that all such people are equally preferred *lechatchila*.
+Rav Acha brei deRav poses this to Rav Ashi: *vechol hakol lechatchila hu?* — Is it always the case that the word *hakol* implies *lechatchila*? Perhaps *hakol* simply means that whoever does it produces a valid result, without implying that all such people are equally preferred *lechatchila*.
 
 The Gemara then surveys a range of mishnayot that open with the word *hakol*, in order to determine whether *hakol* normally implies *lechatchila* or only *bediavad*. It should be noted that in Masechet Erchin a parallel discussion examines *hakol* from a different angle entirely — asking whom the word is coming to include. Here in Chullin, the Gemara takes a different tack, asking not who is included but whether their inclusion is *lechatchila* or merely *bediavad*.
 
 ### Temura Challenge
 
-The first challenge comes from Masechet Temura: *Hakol memirin* — anyone can effect a temura. Temura is the act of attempting to transfer the kedusha from one korban to another. The Torah explicitly prohibits this: *lo yachlifenu velo yamir oso, tov bera o ra betov* — do not exchange it, do not transfer it, good for bad or bad for good. If you attempt it, both animals become kadosh — the kedusha does not leave the original, but the replacement animal also acquires sanctity. *Hakol memirin* means that everyone who attempts temura succeeds in effecting it. But can this mean that it is permitted *lechatchila*? Clearly not, since doing so is a biblical prohibition.
+The first challenge comes from Masechet Temura: *hakol memirin* — anyone can effect a temura. Temura is the act of attempting to transfer the kedusha from one korban to another. The Torah explicitly prohibits this: *lo yachlifenu velo yamir oso, tov bera o ra betov* — do not exchange it, do not transfer it, good for bad or bad for good. If you attempt it, both animals become kadosh — the kedusha does not leave the original, but the replacement animal also acquires sanctity. *hakol memirin* means that everyone who attempts temura succeeds in effecting it. But can this mean that it is permitted *lechatchila*? Clearly not, since doing so is a biblical prohibition.
 
 ### Temura Answer
 
@@ -62,11 +62,11 @@ The Gemara answers: *hatam kidekatani ta'ama* — there, the mishnah in Temura i
 
 ### Erchin Challenge
 
-The Gemara continues with a challenge from the opening mishnah of Masechet Erchin: *Hakol maarichin vene'erachin, nodrim venidrim* — everyone can pledge an erech and be the subject of an erech; everyone can make a neder and be the subject of one.
+The Gemara continues with a challenge from the opening mishnah of Masechet Erchin: *hakol maarichin vene'erachin, nodrim venidrim* — everyone can pledge an erech and be the subject of an erech; everyone can make a neder and be the subject of one.
 
 To understand the challenge, it is necessary to explain the two modes of valuation described at the end of Sefer Vayikra. If one says *dmei ploni alai* — the monetary value of that person is upon me — one obligates oneself to give the market value of that person to the Beis Hamikdash. Since a person has no market value in ordinary circumstances, this is determined by asking what that person would be worth if sold as a slave. If one instead uses the technical term *erech* — which also means value but functions as a terminus technicus — the obligation is fixed by the schedule the Torah itself provides: male or female, within various age ranges, each carries a specified amount. The word *erech* thus bypasses market value entirely and substitutes a Toraitic list.
 
-The word *hakol* in that mishnah comes to include, among others, a *mufla samuch le'ish* — a minor within a year of adulthood who understands the significance of vows, whose vows are binding. *Vene'erachin* — being the subject of an erech — includes even one who is terminally ill or unable to do any labor and thus has no market value: when the word *erech* is used, one pays the fixed Toraitic rate regardless. *Nidrim* — being the subject of a neder of market value — includes even a newborn, who has no erech since the Toraitic list begins at one month, but who may have a market value.
+The word *hakol* in that mishnah comes to include, among others, a *mufla samuch le'ish* — a minor within a year of adulthood who understands the significance of vows, whose vows are binding. *vene'erachin* — being the subject of an erech — includes even one who is terminally ill or unable to do any labor and thus has no market value: when the word *erech* is used, one pays the fixed Toraitic rate regardless. *nidrim* — being the subject of a neder of market value — includes even a newborn, who has no erech since the Toraitic list begins at one month, but who may have a market value.
 
 ### Vow Debate: Meir/Yehuda
 
@@ -90,7 +90,7 @@ It is also worth noting that the Torah never formulates a mitzvah to donate mone
 
 ### Smicha Challenge
 
-The Gemara continues. Having argued back and forth, it now tries the opposite position: perhaps *hakol* never means *lechatchila*. To test this, the Gemara cites: *Hakol somchin* — everyone may perform smicha, the act of pressing one's hands on a korban. The verse says *vesamach yado venirtzah* — and he shall press his hand and it will be desired for him — which clearly establishes smicha as an obligation, something one should do *lechatchila*. Can *hakol somchin* be read as only *bediavad*? Surely not.
+The Gemara continues. Having argued back and forth, it now tries the opposite position: perhaps *hakol* never means *lechatchila*. To test this, the Gemara cites: *hakol somchin* — everyone may perform smicha, the act of pressing one's hands on a korban. The verse says *vesamach yado venirtzah* — and he shall press his hand and it will be desired for him — which clearly establishes smicha as an obligation, something one should do *lechatchila*. Can *hakol somchin* be read as only *bediavad*? Surely not.
 
 ### Hakol: Either Way
 
@@ -104,7 +104,7 @@ This is frankly a strange piece of reasoning. Having already established that *h
 
 ### Smicha & Women MSS
 
-Before moving on, a textual point regarding the smicha case. The Gemara here reads *hakol somchin, echad hanashim ve'echad ha'anashim* — whether men or women. This is striking, because a marginal note in the printed text — attributed to the scholar responsible for the cross-references, Yehoshua Boaz — states: *chipasnu bechol hamakomot velo matzanu ken beshum makom bashas* — we searched everywhere and found this formulation nowhere else in the entire Talmud. On the contrary, *ve'adaraba ipecha matzanu* — we found the opposite: that women are excluded from smicha. Even Rabbi Yose and Rabbi Shimon, who permitted women to perform smicha, held only that it was *reshus* — permissible if they wished — not that women are obligated at the same level as men. The inclusion of *echad hanashim ve'echad ha'anashim* in the context of smicha, which in every other place in the Talmud is described as not obligatory for women, is an outlier. A check of the *Dikdukei Soferim* confirms that this phrase does not appear in some manuscripts, making it quite plausible that it entered the text as a copyist's error.
+Before moving on, a textual point regarding the smicha case. The Gemara here reads *hakol somchin, echad hanashim ve'echad ha'anashim* — whether men or women. This is striking, because a marginal note in the printed text — attributed to the scholar responsible for the cross-references, Yehoshua Boaz — states: *chipasnu bechol hamakomot velo matzanu ken beshum makom bashas* — we searched everywhere and found this formulation nowhere else in the entire Talmud. On the contrary, *ve'adaraba ipecha matzanu* — we found the opposite: that women are excluded from smicha. Even Rabbi Yose and Rabbi Shimon, who permitted women to perform smicha, held only that it was *reshus* — permissible if they wished — not that women are obligated at the same level as men. The inclusion of *echad hanashim ve'echad ha'anashim* in the context of smicha, which in every other place in the Talmud is described as not obligatory for women, is an outlier. A check of the *dikdukei soferim* confirms that this phrase does not appear in some manuscripts, making it quite plausible that it entered the text as a copyist's error.
 
 ---
 
@@ -112,7 +112,7 @@ Before moving on, a textual point regarding the smicha case. The Gemara here rea
 
 ### Tamei in Chullin
 
-Rabbah bar Ula now proposes a reading of the mishnah that resolves the manufactured tension and simultaneously introduces new material. He says: *hachi katani* — this is how the mishnah should be read. *Hakol shochtin* — anyone may slaughter — means that even a tamei person may slaughter *lechatchila*. Why would one have thought otherwise? Because the mishnah is referring to chullin shena'asu al taharat hakodesh — non-sanctified food that is being treated with the purity standards of kodesh.
+Rabbah bar Ula now proposes a reading of the mishnah that resolves the manufactured tension and simultaneously introduces new material. He says: *hachi katani* — this is how the mishnah should be read. *hakol shochtin* — anyone may slaughter — means that even a tamei person may slaughter *lechatchila*. Why would one have thought otherwise? Because the mishnah is referring to chullin shena'asu al taharat hakodesh — non-sanctified food that is being treated with the purity standards of kodesh.
 
 This practice had a historical reality. There was a group known as the *chaverim* who were scrupulous about maintaining purity even for their ordinary food, treating their chullin with the same level of taharah ordinarily required for kodshim. This practice existed both during and after the period of the Beis Hamikdash. The question therefore arises: if you are part of such a group and you are tamei, may you slaughter your meat?
 
@@ -128,7 +128,7 @@ While a tamei person may slaughter chullin al taharat hakodesh with a long knife
 
 ### VeChullan Referent
 
-With this framework, the full mishnah takes on a more complex reading. *Hakol shochtin* — everyone may slaughter *lechatchila*, including even a tamei person slaughtering chullin al taharat hakodesh with a long knife. *Ushechitasan kesheira* — and *bediavad* it is valid — refers to the tamei person who slaughtered actual kodshim: even though *lechatchila* he should not have, if he did and did not touch the meat, the korban is valid.
+With this framework, the full mishnah takes on a more complex reading. *hakol shochtin* — everyone may slaughter *lechatchila*, including even a tamei person slaughtering chullin al taharat hakodesh with a long knife. *ushechitasan kesheira* — and *bediavad* it is valid — refers to the tamei person who slaughtered actual kodshim: even though *lechatchila* he should not have, if he did and did not touch the meat, the korban is valid.
 
 *Chutz mecheresh shoteh vekatan* — excepting the cheresh, shoteh, and katan — means that even *bediavad*, if they slaughtered even ordinary chullin, their shechita is not valid: *shema yishhu, shema yidresu, shema yachlidu* — lest they have paused, applied pressure, or displaced the simanim. These are categorical concerns about technical performance that apply to the plainest case of chullin.
 
@@ -140,7 +140,7 @@ Tosafot raises a pointed practical question about the scenario of a tamei person
 
 ### Women Shecht L'chatchila
 
-On this point Tosafot cites a ruling from a Geonic work called Hilchos Eretz Yisrael to the effect that women should not perform shechita because *daatan kalos* — they are of insufficiently serious and focused mind. Tosafot rejects this categorically. In Tosafot's view, not only may women slaughter chullin, they may slaughter even kodshim *lechatchila*. The verse in Zevachim, to be discussed shortly, explicitly lists women among those who may perform shechita on sacrifices, and the word *lechatchila* is appropriate. *Hakol shochtin* thus clearly includes women — and not merely in a *bediavad* sense, but fully *lechatchila*, even for kodshim. There are in fact one or two known historical cases of women who served as shochtos, and there is contemporary interest among women in studying Hilchos Shechitah. The halachic sources are unambiguous that gender is no barrier to shechita; only cheresh shoteh vekatan are excluded.
+On this point Tosafot cites a ruling from a Geonic work called Hilchos Eretz Yisrael to the effect that women should not perform shechita because *daatan kalos* — they are of insufficiently serious and focused mind. Tosafot rejects this categorically. In Tosafot's view, not only may women slaughter chullin, they may slaughter even kodshim *lechatchila*. The verse in Zevachim, to be discussed shortly, explicitly lists women among those who may perform shechita on sacrifices, and the word *lechatchila* is appropriate. *hakol shochtin* thus clearly includes women — and not merely in a *bediavad* sense, but fully *lechatchila*, even for kodshim. There are in fact one or two known historical cases of women who served as shochtos, and there is contemporary interest among women in studying Hilchos Shechitah. The halachic sources are unambiguous that gender is no barrier to shechita; only cheresh shoteh vekatan are excluded.
 
 ### Why Repeat Here?
 
@@ -148,7 +148,7 @@ The Gemara now raises an objection to Rabbah bar Ula's reading: *hai tamei bemuk
 
 ### Zevachim Primary Source
 
-The Gemara offers two answers. The first: *hacha ikar* — the primary teaching is actually here, with Zevachim's inclusion being secondary. The second, which the Gemara identifies as the better answer: *hasam ikar* — the primary teaching is indeed in Zevachim, where the context is kodshim and the ruling fits naturally. *Debekodshim kai* — since Zevachim is speaking about korbanot, that is where the ruling about a tamei shochet properly belongs. Our mishnah, however, since it is discussing tamei and chullin, also implicitly brings in the case of tamei and kodshim alongside it. The case is not the primary teaching of our mishnah; it is carried along by the discussion. What makes this exchange remarkable is that the discussion in our Gemara is a lengthy elaboration of two short phrases — *hakol shochtin ushechitasan kesheira* — from which an entire framework regarding tumah and shechita has been constructed, including then an inquiry into why that which was never stated needed to have been stated.
+The Gemara offers two answers. The first: *hacha ikar* — the primary teaching is actually here, with Zevachim's inclusion being secondary. The second, which the Gemara identifies as the better answer: *hasam ikar* — the primary teaching is indeed in Zevachim, where the context is kodshim and the ruling fits naturally. *debekodshim kai* — since Zevachim is speaking about korbanot, that is where the ruling about a tamei shochet properly belongs. Our mishnah, however, since it is discussing tamei and chullin, also implicitly brings in the case of tamei and kodshim alongside it. The case is not the primary teaching of our mishnah; it is carried along by the discussion. What makes this exchange remarkable is that the discussion in our Gemara is a lengthy elaboration of two short phrases — *hakol shochtin ushechitasan kesheira* — from which an entire framework regarding tumah and shechita has been constructed, including then an inquiry into why that which was never stated needed to have been stated.
 
 ---
 
@@ -156,7 +156,7 @@ The Gemara offers two answers. The first: *hacha ikar* — the primary teaching 
 
 ### Yaakov's Vow
 
-Before closing, it is worth pausing on the issue of vows. The Ramban poses a difficulty: the very Torah figures held up as models of piety made vows. *Vayidor Yaakov neder leimor* — Yaakov made a vow. *Vayidor Yisrael* — Yisrael made a vow. And we have the exhortation *nidru veshalmu la'Hashem Elokeichem kol sevivav* — make vows and fulfill them to Hashem your God, all those around Him. How is all of this reconciled with the discouragements of vowing found in Kohelet and in the Gemara?
+Before closing, it is worth pausing on the issue of vows. The Ramban poses a difficulty: the very Torah figures held up as models of piety made vows. *vayidor yaakov neder leimor* — Yaakov made a vow. *vayidor yisrael* — Yisrael made a vow. And we have the exhortation *nidru veshalmu la'Hashem Elokeichem kol sevivav* — make vows and fulfill them to Hashem your God, all those around Him. How is all of this reconciled with the discouragements of vowing found in Kohelet and in the Gemara?
 
 ### Vow in Distress
 

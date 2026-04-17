@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 # Models — Haiku for mechanical passes, Sonnet for quality rewrite
 SEGMENTATION_MODEL = "claude-haiku-4-5-20251001"
 REWRITE_MODEL = "claude-sonnet-4-6"

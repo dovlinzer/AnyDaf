@@ -41,6 +41,8 @@ import xml.etree.ElementTree as ET
 from typing import Optional
 
 import requests
+from dotenv import load_dotenv
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -84,6 +86,9 @@ TRACTATE_PLAYLIST_IDS: dict[str, int] = {
     "Arakhin":       1224424696,
     "Temurah":       1225194493,
     "Meilah":        1224865387,
+    "Keritot":       1224780505,
+    "Megilah":       1224639490,
+    "Shekalim":      1224387193,
     "Kinnim":        1954771503,
     "Tamid":         1954771299,
     "Middot":        1954771395,

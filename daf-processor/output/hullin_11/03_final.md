@@ -14,7 +14,6 @@ The new topic, rov, is in many ways the more intuitive principle. It directs us 
 
 ### Mina Ha-Milta
 
-*[Continued from above]*
 
 At the top of 11a, the Gemara asks: mina ha-milta — where is this well-established principle derived from? The question is not whether rov is rabbinic in origin, since the Gemara will immediately derive it from psukim and apply it to biblical prohibitions; rather, it asks where in the Torah this broadly accepted principle — zil batar ruba, go by the majority — is grounded. The Gemara answers: dechtiv *acharei rabim lehatot*, the verse in Shemot that instructs us to incline after the majority.
 
@@ -32,7 +31,6 @@ The Gemara immediately qualifies this answer. The verse *acharei rabim lehatot* 
 
 ### Nine Stores Example
 
-*[Continued from above]*
 
 The distinction between ruba de-ita kaman and ruba de-leisa kaman is worth spelling out carefully. Ruba de-ita kaman means that the majority is actually present and identifiable before you. Consider a case of three pots of meat, two of which are kosher and one of which is neveilah. If one accidentally ladles from one of them and cannot recall which, the question of what to assume is grounded in a concrete, present set: two out of three are fine. One can attribute one's action to the majority because the items that constitute that majority are right there.
 
@@ -40,7 +38,6 @@ The classic Talmudic formulation of this is *tesha chanuyot* — nine kosher but
 
 ### Leisa Kaman & Yibbum
 
-*[Continued from above]*
 
 Ruba de-leisa kaman, by contrast, involves general statistical probabilities not anchored in any present, identifiable set. The Gemara's example is the case of yibbum involving a katan or ketanah. When a man dies without children, the mitzvah of yibbum or chalitzah applies — but only if there is the possibility of children, since the entire purpose of yibbum is le-hakim shem achiv ha-met, to perpetuate the brother's name. If either party is sterile, the mitzvah does not apply, and their union would instead be a biblical prohibition.
 
@@ -48,7 +45,6 @@ If one of the parties is a minor, there is no way to determine whether they will
 
 ### Formal vs. Probability
 
-*[Continued from above]*
 
 One might ask why this distinction should matter at all. In both cases the question ultimately reduces to likelihood: what is more probable? The Gemara's insistence on the distinction, however, points toward something deeper. As was seen in the discussion of chazakah, halacha does not operate purely as a probability-calculating machine. Chazakah is a formal rule — assume status quo until you know otherwise — and does not claim to tell you what the actual likelihood is that something has changed. Similarly, the Gemara's treatment of rov suggests that it is not simply about percentages.
 
@@ -56,7 +52,6 @@ When dealing with ruba de-ita kaman, one can do something more than calculate pr
 
 ### Sanhedrin & Birur
 
-*[Continued from above]*
 
 The Gemara includes Sanhedrin voting within the category of ruba de-ita kaman, and this is a striking inclusion. When a court takes a vote and twelve judges say one thing and eleven say the other, the majority determines the ruling — this is the halacha of *acharei rabim lehatot* in its most direct application. But it is immediately apparent that this is categorically different from inferring where a piece of meat came from. When one says the majority of stores were kosher, there is at least a sense in which one is making a claim about the real-world origin of the meat. When a Sanhedrin votes, however, no one is claiming that the majority vote tells us anything about the actual facts of the case. The majority vote is a procedural mechanism for reaching a decision, not a truth-tracking device.
 
@@ -66,7 +61,6 @@ The inclusion of Sanhedrin voting suggests that rov has at least a hanhaga dimen
 
 ### Birur vs. Hanhaga
 
-*[Continued from above]*
 
 This leads to a nuanced theoretical point. One might argue that birur does not require absolute certainty, only that a sufficient evidentiary threshold has been crossed. On this reading, when one says the piece of meat probably came from the kosher stores, one is not claiming certainty — one is claiming that the threshold for treating the matter as established has been met. Whether one frames this as "we have established the facts sufficiently" or "we have a rule for acting in the absence of established facts" may turn on precisely how one defines the concept of birur and what level of certainty it requires.
 
@@ -148,7 +142,7 @@ Tosafot notes that one might ask why the Gemara does not raise the same rebuttal
 
 Rabba bar Shila brings a parallel proof from the *parah adumah*, the red heifer. The Torah states ve-shachat ve-saraf — it is slaughtered and then burned. The drasha is: mah shechitatah ke-shehee shleimah, just as at the moment of slaughter it is whole, af srefiatah ke-shehee shleimah, so too at the moment of burning it is whole. The same term shleimah appears here as in the *eglah arufah*, and the emphasis is similarly on the animal remaining completely untouched and unhandled other than the act of killing. No cutting, no internal inspection is possible.
 
-The question then arises: how can one ever perform the *parah adumah* ritual without concern that the animal was a treifah? And who says a *parah adumah* cannot be a treifah? Chatat karyah rachmana — the Torah calls it a chatat, a sin offering. There are extensive sugyot in Shas debating the precise status of the *parah adumah* — it is performed outside the *Beis Hamikdash*, yet the blood is sprinkled toward it, and in many respects it is treated like a korban. But for present purposes, the Gemara grants that since it is called a chatat, it has sufficient korban-like status that it cannot be a treifah. Yet since it must be whole and untouched, there is no way to inspect it, and one must rely on rov — ruba de-leisa kaman.
+The question then arises: how can one ever perform the *parah adumah* ritual without concern that the animal was a treifah? And who says a *parah adumah* cannot be a treifah? Chatat karyah rachmana — the Torah calls it a chatat, a sin offering. There are extensive sugyot in Shas debating the precise status of the *parah adumah* — it is performed outside the *beis hamikdash*, yet the blood is sprinkled toward it, and in many respects it is treated like a korban. But for present purposes, the Gemara grants that since it is called a chatat, it has sufficient korban-like status that it cannot be a treifah. Yet since it must be whole and untouched, there is no way to inspect it, and one must rely on rov — ruba de-leisa kaman.
 
 ---
 
@@ -166,7 +160,6 @@ The Gemara answers: ela lav mishum de-amrinan zil batar ruba — we go by majori
 
 ### Rov vs. Chazakah Nature
 
-*[Continued from above]*
 
 This proof raises a fundamental question. The Gemara's initial rebuttal is: dilma kegon she-haya aviv ve-imo chavushin be-veis ha-asurin — perhaps the Torah only permits prosecution in a case where the parents were held together in jail, such that the wife had no opportunity to commit adultery and paternity was certain? The Gemara dismisses this: afilu hachi, ein apitropus la-arayos — even in that case, there is no absolute guarantee, since when the sexual drive is involved, normal assumptions about behavior cannot be made with certainty. The Gemara invokes this as a general principle: one can never completely rule out the possibility of adultery based on circumstantial controls alone.
 
@@ -188,7 +181,6 @@ The problem for our Gemara, then, is that one can never know whether the murder 
 
 ### Autopsy & Kevod Hamet
 
-*[Continued from above]*
 
 The Gemara raises the possibility: v-chi teima, dibadkinan lei — perhaps we do perform an autopsy on the victim and determine whether he was a treifah? The Gemara responds: *ha ka menavel* — that would constitute a nivul, an indignity to the dead body, which is prohibited on account of kevod ha-met.
 
@@ -238,17 +230,15 @@ This is the principle the Rishonim frame as efshar le-varer — can one use rov 
 
 The Gemara responds with a powerful reductio. L-Rabbi Meir d-chaish le-miuta — Rabbi Meir holds that one must be concerned about the minority; he does not permit relying on rov and ignoring the miut at a rabbinic level. If Rav Shimi's principle is correct, then Rabbi Meir's position would extend further: even when checking is possible, one would have to check, and even then there are things that cannot be checked. Hacha nami d-lo achil bisra — would one conclude that Rabbi Meir simply never ate meat? Because there is always the possibility that the trachea had a pre-existing hole precisely at the site of shechitah, and there is no way to verify this after the fact.
 
-V-chi teima, hacha nami — perhaps Rabbi Meir was indeed a vegetarian? The Gemara dismisses this: pesach ve-kodashim mai eika le-meimar — Rabbi Meir still lived under the obligation to eat *korban pesach* and, in the time of the *Beis Hamikdash*, to participate in the eating of korbanos. He could not have been a vegetarian in any complete sense. Therefore, even Rabbi Meir would concede that where there is genuinely no alternative, one cannot remain in a state of perpetual abstention. This demonstrates that the distinction between possible and impossible checking cannot be the operative line.
+V-chi teima, hacha nami — perhaps Rabbi Meir was indeed a vegetarian? The Gemara dismisses this: pesach ve-kodashim mai eika le-meimar — Rabbi Meir still lived under the obligation to eat *korban pesach* and, in the time of the *beis hamikdash*, to participate in the eating of korbanos. He could not have been a vegetarian in any complete sense. Therefore, even Rabbi Meir would concede that where there is genuinely no alternative, one cannot remain in a state of perpetual abstention. This demonstrates that the distinction between possible and impossible checking cannot be the operative line.
 
 ### Rashi Halacha Misinai
 
-*[Continued from above]*
 
 The Gemara does not resolve this tension explicitly in the text, but Rashi, at the end of 11b and the beginning of 12a, provides the resolution. Looking at the first narrow column of Rashi on 12a: ella vadai — since one cannot prove from any of the evidence brought that rov applies even when checking is possible, one must instead say halacha le-Moshe mi-Sinai — ha de-samchinan a-ruba afilu heicha de-efshar. There is a transmitted tradition that one may rely on rov even when the facts could theoretically be ascertained. Alternatively, Rashi adds, one returns to the verse *acharei rabim lehatot* — mashma bein ruba de-ita kaman bein ruba de-leisa kaman, and regardless of whether checking is possible, de-mai shna hai me-hai, there is no basis for distinguishing.
 
 ### Lungs Matzui Rule
 
-*[Continued from above]*
 
 Rashi then states the practical bottom line: de-ha milta samchinan — we rely on the fact that one goes by rov even when more information could be obtained, velo badkinan kol yud-chet trefos, and we do not check for all eighteen categories of treifot. The one exception is nekuvat ha-reia — the possibility of holes in the lung. Mishum de-shachi bei re-uta — because it is common, shachi'ach, to have problems in the lung. Hatam badkinan — there we check.
 
@@ -256,7 +246,6 @@ Rashi also addresses the case where inspection of the lung becomes impossible: v
 
 ### Matzui vs. Eino Matzui
 
-*[Continued from above]*
 
 The Rishonim's distinction between miut ha-matzui and miut she-eino matzui — a likely minority possibility and an unlikely one — is not stated explicitly in the Gemara but provides the conceptual framework for the ruling. In practice, the threshold is generally understood to be around five percent: a defect that occurs in five percent or fewer cases is considered miut she-eino matzui; more than that is miut matzui.
 

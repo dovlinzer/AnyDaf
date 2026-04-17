@@ -8,7 +8,7 @@
 >
 > **Translation:** § The mishna teaches: **All offerings of an individual require placing hands except for the firstborn** offering, **the** animal **tithe** offering, **and the Paschal offering.**
 
-The daf begins at the bottom of 92b, where the Mishnah turns from the various questions of measure to the laws of semichah — the act of laying hands upon the korban. The Mishnah states: *Kol korbanos hayachid te'unin semichah* — all individual korbanot require semichah. We had already learned that communal korbanot are essentially two: the par for helam davar, when the beis din rules incorrectly, and then there is a debate as to whether the second is the goat brought for *avodah zarah* when beis din rules incorrectly, or the goat for azazel on Yom Kippur. The act of semichah on the se'ir hamishtale'ach is something we recall every Yom Kippur in the Mussaf avodah, though the question of whether it constitutes classic semichah turns on whether the kohanim themselves are considered part-owners of that korban.
+The daf begins at the bottom of 92b, where the Mishnah turns from the various questions of measure to the laws of semichah — the act of laying hands upon the korban. The Mishnah states: *kol korbanos hayachid te'unin semichah* — all individual korbanot require semichah. We had already learned that communal korbanot are essentially two: the par for helam davar, when the beis din rules incorrectly, and then there is a debate as to whether the second is the goat brought for *avodah zarah* when beis din rules incorrectly, or the goat for azazel on Yom Kippur. The act of semichah on the se'ir hamishtale'ach is something we recall every Yom Kippur in the Mussaf avodah, though the question of whether it constitutes classic semichah turns on whether the kohanim themselves are considered part-owners of that korban.
 
 The Mishnah now turns to individual korbanot, stating that all require semichah — the chatas, the asham, the olah, the shelamim — with the exception of the bechor, ma'aser, and pesach. This is a striking exception. The excluded three are obligatory korbanot, yet they fall into a kind of intermediate category: they are obligatory, but they are kodshim kalim. The chatas and asham, also obligatory, do require semichah. The free-will korbanot — olah and shelamim — also require it. Only these three fall between the cracks.
 
@@ -18,7 +18,7 @@ The Mishnah now turns to individual korbanot, stating that all require semichah 
 >
 > **Translation:** Leviticus, chapter 3, discusses peace offerings and details the obligation of placing hands. The term "his offering" is mentioned a number of times. Each time serves to emphasize that peace offerings require placing hands and to exclude another type of offering from that requirement. **The Sages taught** a *baraita* detailing which offerings are excluded and why one might have thought otherwise. **"His offering"** (Leviticus 3:1) requires placing hands, **but not the firstborn** offering. **As** one **might** have thought: **Could this not** be derived through an *a fortiori* **inference,** as follows: **If a peace offering, whose consecration does not** originate **from** being in its mother's **womb,** nevertheless **requires placing hands,** then with regard to **a firstborn** offering, **whose consecration** originates **from the womb, is it not logical that it requires placing hands?** To counter this inference, **the verse states: "His offering,"** teaching that a peace offering requires placing hands **but the firstborn** offering does **not.**
 
-The Gemara proceeds through a baraita: *Korbano* — the possessive form, "his korban" — is written three times in the context of semichah by shelamim, and each instance is understood as an exclusionary term. The Torah says *v'samach yado al rosh korbano* — he shall place his hand on the head of his korban — and the possessive *vav* signals that it refers to some offerings but not all.
+The Gemara proceeds through a baraita: *korbano* — the possessive form, "his korban" — is written three times in the context of semichah by shelamim, and each instance is understood as an exclusionary term. The Torah says *v'samach yado al rosh korbano* — he shall place his hand on the head of his korban — and the possessive *vav* signals that it refers to some offerings but not all.
 
 From the first *korbano*: not the bechor. From the second: not ma'aser. From the third: not the pesach.
 
@@ -40,7 +40,6 @@ Regarding the pesach: shelamim, which are a free-will offering, require semichah
 
 ### Kal Vachomer
 
-*[Continued from above]*
 
 The logic of the exclusions calls for explanation. It is not simply a matter of obligatory versus free-will korbanot, because semichah is performed on the chatas and asham, which are obligatory. Indeed, the entire act of semichah on Yom Kippur — where the kohen lays his hands on the korban and recites the viduy — is the paradigmatic example of semichah on an obligatory offering. So what is the principle?
 
@@ -54,11 +53,10 @@ The bechor, ma'aser, and pesach fall into neither category. They are not atoning
 
 ### Ma'aser Logic
 
-*[Continued from above]*
 
 Although this understanding does not appear explicitly in the Gemara, the Rambam develops a strikingly parallel idea. He writes *yeira'eh li* — it would seem to me — that when bringing a shelamim one should also recite a verbal declaration. This is remarkable: the Rambam is introducing, without direct Talmudic backing, the principle that every korban requires some form of verbal declaration at the moment of semichah to designate its function.
 
-What precisely does one say? For a chatas or asham, the Rambam specifies: *Chatasi, avisi, pashati, v'asisi kach v'kach, v'chazarti b'teshuvah lefanecha, v'zu kaparasi* — I have sinned, transgressed, committed iniquity, done such-and-such, I have returned in teshuvah before You, and this is my atonement. Notably, the Rambam incorporates teshuvah into the formula of the korban, which is theologically significant. For the shelamim, he says *yeira'eh li* — it appears to me — that one does not recite viduy but does recite *divrei shevach*, words of praise and thanksgiving.
+What precisely does one say? For a chatas or asham, the Rambam specifies: *chatasi, avisi, pashati, v'asisi kach v'kach, v'chazarti b'teshuvah lefanecha, v'zu kaparasi* — I have sinned, transgressed, committed iniquity, done such-and-such, I have returned in teshuvah before You, and this is my atonement. Notably, the Rambam incorporates teshuvah into the formula of the korban, which is theologically significant. For the shelamim, he says *yeira'eh li* — it appears to me — that one does not recite viduy but does recite *divrei shevach*, words of praise and thanksgiving.
 
 The Rambam's formulation strongly supports the understanding that semichah is fundamentally about designating the personal meaning and function of the korban. This is precisely what is lacking — and therefore not required — by bechor, ma'aser, and pesach. There is nothing personal to declare.
 
@@ -80,7 +78,7 @@ The Gemara accepts this point: *kra asmachto be'alma* — the verses excluding b
 >
 > **Translation:** if the repeated term "his offering" is not needed to counter the *a fortiori* inferences, **why do I** need these three **verses?** The Gemara explains: One instance of **"his offering"** teaches that one places hands only on one's own offering, **but not** on **an offering of another** person. Another instance of **"his offering"** teaches that one places hands only on one's own offering, **but not** on **an offering of a gentile.** The third instance of **"his offering"** serves **to include all** the **owners of** a jointly owned **offering in** the requirement of **placing hands,** i.e., they are all required to place their hands on the offering.
 
-The Gemara answers: *Korbano velo korban chaveiro* — his korban and not the korban of another. One may not perform semichah on someone else's korban; the act must be performed by the owner on his own offering. Additionally, *korbano velo korban oved kochavim* — a non-Jew's korban does not require semichah. As is noted, this is not entirely distinct from the exclusion of *korban chaveiro*, since the assumption that a non-Jew does not enter the Azara — though this is only a rabbinic restriction — would mean that any non-Jew's korban would necessarily be brought by someone else, making the problem of performing semichah on another's korban automatic. The separate derivation is nevertheless needed according to the logic of the Gemara.
+The Gemara answers: *korbano velo korban chaveiro* — his korban and not the korban of another. One may not perform semichah on someone else's korban; the act must be performed by the owner on his own offering. Additionally, *korbano velo korban oved kochavim* — a non-Jew's korban does not require semichah. As is noted, this is not entirely distinct from the exclusion of *korban chaveiro*, since the assumption that a non-Jew does not enter the Azara — though this is only a rabbinic restriction — would mean that any non-Jew's korban would necessarily be brought by someone else, making the problem of performing semichah on another's korban automatic. The separate derivation is nevertheless needed according to the logic of the Gemara.
 
 ### Viduy & Declaration
 
@@ -126,7 +124,6 @@ Rabbi Yehudah then adds a structural argument: *u'tchilat hekdesh misof hekdesh*
 
 ### Heir Dispute
 
-*[Continued from above]*
 
 Tosafot raises an objection: there are many ways in which the beginning and end of the process of kedushah differ, so how can we simply derive one from the other? Tosafot answers that this is not an arbitrary structural parallel. The point is not merely that what applies at the end applies at the beginning or vice versa. Rather, the question being asked in both cases is identical: are you considered the owner of this korban in the relevant sense?
 
@@ -162,7 +159,6 @@ The Gemara brings a baraita that asks directly: since the entire subject is disc
 
 ### Rabbis Counter
 
-*[Continued from above]*
 
 This raises an obvious question: the Torah almost universally uses masculine language, and we routinely assume women are included unless explicitly excluded. Why would we need a special derivation here to include women in temurah?
 
@@ -188,17 +184,15 @@ The Gemara identifies the underlying principle uniting the exclusions: *korbano 
 
 ### Mishnah List
 
-*[Continued from above]*
 
-The Gemara begins with the cheresh, shoteh, and katan: *bilshama *Cheresh Shoteh ve'Katan* de'lav bnei de'ah ninhu* — these are not people of intellect, and therefore their exclusion is self-evident. This, however, raises a deeper question. If semichah were merely a formal ritual act — analogous to, say, placing an object — there would be no obvious reason to disqualify those lacking mental capacity, provided the physical act was performed. The fact that they are excluded points precisely to semichah being something more. The connection being forged between the person and the korban requires mental engagement; it is not a bare physical gesture.
+The Gemara begins with the cheresh, shoteh, and katan: *bilshama *cheresh shoteh ve'katan* de'lav bnei de'ah ninhu* — these are not people of intellect, and therefore their exclusion is self-evident. This, however, raises a deeper question. If semichah were merely a formal ritual act — analogous to, say, placing an object — there would be no obvious reason to disqualify those lacking mental capacity, provided the physical act was performed. The fact that they are excluded points precisely to semichah being something more. The connection being forged between the person and the korban requires mental engagement; it is not a bare physical gesture.
 
 This is illustrated by considering the scenario where someone sanctifies a korban and then loses mental capacity. Even if the korban could theoretically be brought in that state, semichah would not be appropriate — not because the person is exempt from mitzvot in that state, but because semichah is about an active, conscious connection to the korban. The question of whether a korban brought on behalf of a mentally incapacitated person achieves kapparah in some technical sense is a separate and interesting one, but semichah in any case requires the person to be *bnei de'ah*. The Gemara takes this for granted.
 
 ### Shiyrei Mitzvah
 
-*[Continued from above]*
 
-The non-Jew's exclusion from semichah is derived from the verse at the opening of Vayikra — *Daber el Bnei Yisrael* — which restricts the obligation of semichah to the children of Israel: *Bnei Yisrael somchin ve'ein ovdei kochavim somchin*.
+The non-Jew's exclusion from semichah is derived from the verse at the opening of Vayikra — *daber el bnei yisrael* — which restricts the obligation of semichah to the children of Israel: *bnei yisrael somchin ve'ein ovdei kochavim somchin*.
 
 ### Mental Capacity
 
@@ -212,7 +206,7 @@ The exclusion of the blind person requires derivation, and two amoraim dispute i
 >
 > **Translation:** **And** the other **one said** that it is **derived** from a verbal analogy between the mention of **placing hands** in the passage detailing the general requirement to do so, and the mention of **placing hands** stated with regard to the **burnt offering of appearance** brought by an individual on the pilgrimage Festivals: Just as a blind person is exempt from making the pilgrimage to Jerusalem and bringing the offering (see *Ḥagiga* 2a), so too he is excluding from the requirement of placing hands.
 
-The other holds: *atya semicha semicha mi'Olat Re'iyah* — we derive it from the korban of the olat re'iyah, the obligatory olah brought on the three regalim. The Gemara there makes the famous drasha: *yireh yira'eh* — just as it says you shall appear before God, so too you must be able to see. *Keshem sheba'im leira'ot kach ba'im lirot* — just as they come to be seen, so they come to see. One who is blind, even in one eye, is exempt from olat re'iyah, and therefore exempt from the semichah associated with it. By extension, this restriction on semichah applies universally.
+The other holds: *atya semicha semicha mi'Olat Re'iyah* — we derive it from the korban of the olat re'iyah, the obligatory olah brought on the three regalim. The Gemara there makes the famous drasha: *yireh yira'eh* — just as it says you shall appear before God, so too you must be able to see. *keshem sheba'im leira'ot kach ba'im lirot* — just as they come to be seen, so they come to see. One who is blind, even in one eye, is exempt from olat re'iyah, and therefore exempt from the semichah associated with it. By extension, this restriction on semichah applies universally.
 
 It is worth noting that the simple reading of the pasuk is actually *yireh et pnei Hashem Elokecha*, where *et* marks the object of the verb — meaning the person does the seeing of God's presence. The more anthropomorphic implication prompted the traditional reading as *yira'eh* — he shall appear. The drasha in a sense restores the plain meaning: the verse really does speak of the person seeing, and that requires sight.
 
@@ -240,7 +234,6 @@ The Gemara introduces a baraita that derives the exclusion of the slave, the age
 
 ### Non-Jew & Slave
 
-*[Continued from above]*
 
 *Yado* — his hand, and not the hand of his slave. A Canaanite slave is not obligated in positive time-bound commandments and is therefore not fully a *bar mitzvah* in the relevant sense. One who is not personally obligated in a mitzvah cannot discharge another's obligation through it. The slave therefore cannot stand in for his master.
 
@@ -262,7 +255,6 @@ The Gemara introduces a baraita that derives the exclusion of the slave, the age
 
 ### Woman's Own Korban
 
-*[Continued from above]*
 
 The Gemara concludes that all three exclusions are necessary: each presents an independent argument for inclusion that the others do not. The underlying principle is absolute: *ani velo hashaliach* — I, and not my agent. Semichah must be performed by the owner himself, directly and without intermediary. No matter how close the relationship — slave, agent, or wife — the connection must be the owner's own, unmediated connection to his korban.
 
@@ -274,17 +266,15 @@ The Gemara concludes that all three exclusions are necessary: each presents an i
 >
 > **Translation:** § The mishna states: The requirement of **placing hands is a non-essential mitzva. The Sages taught** in a *baraita*: **"And he shall place his hand** upon the head of the burnt offering, **and it shall be accepted for him** to effect atonement for him" (Leviticus 1:4). The *baraita* asks: **But does** the rite of **placing hands effect atonement? Isn't atonement** effected **only through** the presentation of the **blood? As it is stated** with regard to blood: "For the soul of the flesh is in the blood, and I have given it to you upon the altar to effect atonement for your souls, **for it is the blood of the soul that effects atonement"** (Leviticus 17:11). **Rather,** the verse serves **to say to you that if one treated placing hands** as though it were **a non-essential mitzva** and therefore neglected to perform it, then **the verse ascribes him** blame **as though he did not effect atonement; but** nevertheless, in actuality, the offering **atones** for his sin and he does not need to bring another offering.
 
-The Mishnah describes semichah as *she'yarei mitzvah* — the remnant of the mitzvah. This phrase, which the Gemara also uses in connection with tenufah and similar acts, conveys that while semichah is a genuine and important mitzvah, its omission does not disqualify the korban. *Be'dieved*, the korban still achieves its purpose.
+The Mishnah describes semichah as *she'yarei mitzvah* — the remnant of the mitzvah. This phrase, which the Gemara also uses in connection with tenufah and similar acts, conveys that while semichah is a genuine and important mitzvah, its omission does not disqualify the korban. *be'dieved*, the korban still achieves its purpose.
 
 ### Blood & Semichah
 
-*[Continued from above]*
 
 The baraita in the Gemara probes the verse *v'samach v'nirtzah* — he shall perform semichah and it shall be accepted for him. Does semichah itself achieve the atonement? The Gemara answers: *v'halo ein kaparah ela b'dam* — atonement is achieved only through the blood, as it is written *ki hadam hu banefesh yechaper*. Semichah alone is not the vehicle of kapparah. Rather, as the Gemara explains, *ela lomar lecha* — the verse teaches that if one treated the semichah as a mere remnant of the mitzvah — that is, if one omitted it — the Torah regards it as though no atonement occurred.
 
 ### Hollow Atonement
 
-*[Continued from above]*
 
 This is a subtle but important distinction. The formal statement is that omitting semichah is treated *k'ilu lo kiper* — as if atonement was not achieved. Yet the Gemara also says *v'chiper* — technically, the bare atonement does occur. The korban is not invalidated. There are thus two levels: the full and intended atonement, which is bound up with the entire experience of semichah and its accompanying viduy; and the bare technical atonement, which is achieved by the blood even when semichah was not performed.
 
@@ -346,7 +336,7 @@ Rabbi Yirmiyah raises a further question: if a cloth or rag intervene between th
 >
 > **Translation:** § The mishna adds that the placing of hands is performed **with two hands.** The Gemara asks: **From where are these matters** derived? **Reish Lakish said: As the verse states** with regard to the Yom Kippur service: **"And Aaron shall place both his hands [*yadav*]** upon the head of the live goat" (Leviticus 16:21). The word *yadav*, meaning: His hands, is written without a second *yod*, and so if read without vowels it reads as: **His hand. But it is** also **written "both,"** which makes clear that the intention is that he must use both of his hands. **This established a paradigm** that in **any place where it is stated** in the Torah: **His hand, there are here two** hands, **unless the verse** explicitly **specifies** that there is only **one.**
 
-The Mishnah states that semichah requires both hands. *Reish Lakish* derives this from the verse concerning Yom Kippur: *v'samach Aharon et shtei yadav* — and Aaron shall place his two hands. The word is written *yado* in the singular, yet the full phrase is *shtei yadav* — two hands. *Reish Lakish* establishes a paradigm: *kol makom shene'emar yado harei kan shtayim* — wherever the Torah writes *yado* in the context of semichah, it means both hands, until the Torah explicitly specifies one hand. This is a substantial chiddush: the verse governing semichah says *v'samach yado* — his hand, singular — and from this alone one would never infer two hands. Reish Lakish's drasha reverses the intuition.
+The Mishnah states that semichah requires both hands. *reish lakish* derives this from the verse concerning Yom Kippur: *v'samach Aharon et shtei yadav* — and Aaron shall place his two hands. The word is written *yado* in the singular, yet the full phrase is *shtei yadav* — two hands. *reish lakish* establishes a paradigm: *kol makom shene'emar yado harei kan shtayim* — wherever the Torah writes *yado* in the context of semichah, it means both hands, until the Torah explicitly specifies one hand. This is a substantial chiddush: the verse governing semichah says *v'samach yado* — his hand, singular — and from this alone one would never infer two hands. Reish Lakish's drasha reverses the intuition.
 
 ### The Story of Rabbi Elazar: Taking Credit Without Attribution
 
@@ -354,7 +344,7 @@ The Mishnah states that semichah requires both hands. *Reish Lakish* derives thi
 >
 > **Translation:** The Gemara relates: **Rabbi Elazar went and stated this *halakha* in the study hall, but he did not say it in the name of Reish Lakish. Reish Lakish heard** about this **and became angry.** He **said to** Rabbi Elazar: **If it enters your mind** that **wherever it is written: His hand,** the meaning is that **there are** actually **two** hands, then **why do I** ever need the Torah **to write: His hands, his hands,** i.e., *yadav* in the plural, which it does on numerous occasions?
 
-Rabbi Elazar went and taught this drasha in the *beit midrash* without attributing it to *Reish Lakish*. *Reish Lakish heard* of this and was angered. In response, he confronted Rabbi Elazar: if every instance of *yado* in the singular means two hands, why does the Torah ever use *yadav* in the plural? He challenged him twenty-four times the Torah uses the plural form — *yadav tevi'ena*, *yadav rav lo*, *shikel et yadav* — and why would any of those have been necessary if *yado* already implies two? Rabbi Elazar had no answer and was silent.
+Rabbi Elazar went and taught this drasha in the *beit midrash* without attributing it to *reish lakish*. *reish lakish heard* of this and was angered. In response, he confronted Rabbi Elazar: if every instance of *yado* in the singular means two hands, why does the Torah ever use *yadav* in the plural? He challenged him twenty-four times the Torah uses the plural form — *yadav tevi'ena*, *yadav rav lo*, *shikel et yadav* — and why would any of those have been necessary if *yado* already implies two? Rabbi Elazar had no answer and was silent.
 
 ### Reish Lakish's Challenge: Why Does Torah Ever Use Yadav in Plural?
 
@@ -368,9 +358,9 @@ Rabbi Elazar went and taught this drasha in the *beit midrash* without attributi
 >
 > **Translation:** **After** Reish Lakish had **calmed down, he said to** Rabbi Elazar: **What is the reason** that **you did not say to me** the following: When I established that paradigm, **I was speaking** only about the term: **His hands [*yadav*], with regard to placing hands.** But with regard to other *halakhot*, when the Torah says "his hand" the reference is to just one hand, and so when referring to two hands it must say "his hands." The Gemara asks: But **also with regard to placing hands it is written,** concerning Moses' ordination of Joshua: **"And he placed his hands [*yadav*] upon him** and gave him a charge" (Numbers 27:23), using the plural "his hands" [*yadav*] instead of: His hand [*yado*]. The Gemara clarifies that Reish Lakish meant that one could say: When I established that paradigm, **I was speaking** only about the term: His hands [*yadav*], **with regard to placing hands** on **an animal** offering. But in all other cases, if the intention is that there were two hands, the plural must be used.
 
-After *Reish Lakish* calmed down, he told Rabbi Elazar what he should have said: *yada d'semichah ka'amri* — my drasha applies only to semichah. It is not a universal principle that *yado* means two wherever it appears. Rather, in the specific context of semichah on animals, *yado* means two hands. This is why the Torah never needs to say *yadav* in the context of semichah on animals — *yado* is sufficient to indicate two.
+After *reish lakish* calmed down, he told Rabbi Elazar what he should have said: *yada d'semichah ka'amri* — my drasha applies only to semichah. It is not a universal principle that *yado* means two wherever it appears. Rather, in the specific context of semichah on animals, *yado* means two hands. This is why the Torah never needs to say *yadav* in the context of semichah on animals — *yado* is sufficient to indicate two.
 
-The Gemara raises a further challenge: but even in the context of semichah the Torah does write *yadav* in the plural — *vayismoch et yadav alav vayitzaveihu*, when Moshe performs semichah on Yehoshua. *Reish Lakish* narrows the drasha still further: *semicha d'behema ka'amri* — the principle applies only to semichah performed on animals. When it is semichah on a person, the Torah does use the plural. Within the specific context of semichah on animal korbanot, however, *yado* in the singular means both hands, and the verse never needs to say *yadav* in that context.
+The Gemara raises a further challenge: but even in the context of semichah the Torah does write *yadav* in the plural — *vayismoch et yadav alav vayitzaveihu*, when Moshe performs semichah on Yehoshua. *reish lakish* narrows the drasha still further: *semicha d'behema ka'amri* — the principle applies only to semichah performed on animals. When it is semichah on a person, the Torah does use the plural. Within the specific context of semichah on animal korbanot, however, *yado* in the singular means both hands, and the verse never needs to say *yadav* in that context.
 
 ### Semichah Shechita
 
@@ -384,12 +374,10 @@ The Mishnah concludes: *uv'makom shesomchin shochtin* — in the place where sem
 
 ### Immediate Succession: Shechita Follows Immediately After Semichah
 
-*[Continued from above]*
 
 The Gemara explains: *hachi ka'amar* — this is what the Mishnah means: you must perform semichah in the same location where the shechita will occur, and the reason is *shetechef l'semichah shechitah* — because the shechita must immediately follow the semichah. The location requirement and the timing requirement are therefore connected: since shechita must follow immediately, you perform semichah precisely where the shechita will take place, so that no movement of the animal is required after semichah.
 
 ### The Meaning: The Relationship Defined Through Semichah Immediately Translates to Offering
 
-*[Continued from above]*
 
 The juxtaposition of semichah and shechita is not merely procedural. Whatever relationship is being articulated through the semichah — the personal identification with the korban, the designation of its purpose, the connection of the owner to this offering — is immediately, without interruption, translated into the act of bringing the korban. The semichah defines the meaning of what is about to occur, and the shechita immediately actualizes it. The two acts together constitute a single continuous gesture: this is my korban, and now it is being offered.

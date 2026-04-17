@@ -12,19 +12,16 @@ We open on 8a with the statement of Rav Zeira in the name of Shmuel. Having conc
 
 ### Heat Burning the Simanim
 
-*[Continued from above]*
 
 The Gemara immediately raises a difficulty. One might well grant that as the knife first enters the throat, the sharpness does its work. But as the knife continues through the cut — moving laterally through the trachea and esophagus — the heat of the blade is burning the inner walls of the opening it has created. Is this not burning the simanim before the cut is complete, potentially rendering the animal a treifa? At the very least, the heat seems to be acting upon the animal in a problematic way before the shechita is finished.
 
 ### Wound Opens (Mivrach)
 
-*[Continued from above]*
 
 The Gemara responds: *beit hashechita mivrach ravach* — the place of the cut opens up as the shechita proceeds. When one draws the knife through the throat, the wound naturally spreads open, so that the sides of the blade — which carry the bulk of the heat — are no longer in direct contact with the flesh. Only the cutting edge itself, the very tip that is making contact, is touching the skin at any given moment, and that edge is doing the work of sharpness, not of heat.
 
 ### Blood Sealing
 
-*[Continued from above]*
 
 This explanation prompts a further observation worth noting: the heat might in principle be sealing the wound as the knife passes through, preventing blood from flowing. But this does not invalidate the shechita. The halachic requirement of shechita is specifically the severing of the trachea and esophagus — the simanim — and not the draining of blood. While cutting the carotid artery facilitates the subsequent removal of blood, it is not part of the formal requirement of *hechsher shechita*. The blood-sealing concern would therefore not passel the shechita itself; it might complicate the later stages of preparing the meat, but the act of shechita stands as valid.
 
@@ -46,7 +43,7 @@ The Gemara now introduces a related question by way of analogy: *liben shipud ve
 >
 > **Translation:** **What is the** practical **difference** whether it is adjudged a boil or a burn? The difference is **for that which is taught** in a *baraita*: Both a leprous **boil and** a leprous **burn become impure during one week** of quarantine **with two symptoms: With white hair** that grows in the leprous mark **and with spreading** of the leprous mark. **And why did the verse divide them** into two separate passages even though their halakhic status is the same? The verse divided them **to say that they do not join together** to constitute the requisite measure of impure leprous marks. Rather, there is impurity only if the boil or the burn constitutes that measure individually.
 
-The practical difference is established through a braita: *shechin umichva *Metama'im beshavua echad* *bishnei simanim* *Bese'ar lavan* uvifisyon* — both a shechin and a michva are assessed over only one week, not two. In most cases of tzara'at, if the appearance of the spot is indeterminate at the end of the first week, it is closed up for a second week of observation. But for lesions arising from a wound or a burn, there is only one week, and two signs are looked for: the growth of white hair and the spreading of the lesion.
+The practical difference is established through a braita: *shechin umichva *metama'im beshavua echad* *bishnei simanim* *bese'ar lavan* uvifisyon* — both a shechin and a michva are assessed over only one week, not two. In most cases of tzara'at, if the appearance of the spot is indeterminate at the end of the first week, it is closed up for a second week of observation. But for lesions arising from a wound or a burn, there is only one week, and two signs are looked for: the growth of white hair and the spreading of the lesion.
 
 Now, if shechin and michva carry the same law, one might ask why the Torah devotes separate passages to each. The answer is *she'ein mitztarfin ze im ze* — they do not combine with one another. The minimum size for a leprous spot is *k'gris*, the size of a lentil bean. If a person has two adjacent spots, each half a gris, one a shechin and one a michva, they cannot be combined to satisfy the minimum size. Each must independently meet the threshold. This is why the distinction between the two categories matters at all.
 
@@ -60,7 +57,6 @@ The Gemara proceeds to define each category. A shechin is produced when one is s
 
 ### Michva Definition
 
-*[Continued from above]*
 
 A michva, by contrast, requires heat that originates from fire. The mishna gives examples: being burned by a coal (*gachelet*), by hot ashes (*remetz*), by boiling plaster heated by fire (*sid roteach*), or by *gafsit* — another type of plaster that has been heated. The governing principle is *u'vchol davar haba machamat ha'or* — anything whose heat derives from fire, including water that has been heated by fire (*chamei ha'or*). It is specifically the origin of the heat — fire versus non-fire — that determines the classification.
 
@@ -108,7 +104,6 @@ The Gemara then cites an explicit braita: *liben shipud vehika bo, nidon mishum 
 
 ### Kilkul vs. Tikun
 
-*[Continued from above]*
 
 The Gemara ultimately leaves the question open. When a blunt white-hot object strikes the skin, does the physical force or the heat register first as the causative agent of the wound? The question is left unresolved. The practical stakes — whether the resulting half-gris lesion is a shechin or a michva, and therefore whether it combines with an adjacent half-gris lesion of the other type to produce actionable tzara'at — remain without a definitive answer.
 
@@ -128,7 +123,6 @@ The Gemara now shifts to a series of rulings about knives that have been used in
 
 ### Ill Animal Exception
 
-*[Continued from above]*
 
 This ruling is striking to the modern sensibility, since the entire meat industry exists to profit from the slaughter of animals. The answer lies in the agricultural context presupposed by the Gemara. In an agrarian economy, animals are kept primarily for their ongoing productivity — for milk, eggs, wool, and labor. Slaughter is not the productive use of the animal; it terminates that productivity. One would only slaughter an animal for a special occasion or when it had outlived its agricultural utility. Shechita, in this context, represents the end of the animal's value, not the realization of it. Cutting meat into usable portions, by contrast, transforms a carcass into something directly edible and is therefore a clear *tikun*.
 
@@ -194,7 +188,6 @@ A further possibility inverts the previous one: perhaps both Rav and Rabba bar B
 
 ### Rav Aha & Ravina
 
-*[Continued from above]*
 
 This sugya gives rise to two significant halachic discussions. The first concerns the definition of *yad soledet bo* — the threshold of heat required for halachic absorption of taste, relevant both to shabbat and to kashrus. Several Rishonim assume that the heat needed for taste absorption in kashrus is identical to the standard of yad soledet bo. Since the Gemara here presents a debate about whether the beit hashechita is hot or cold, some authorities reason that this site must be near the borderline of that threshold — otherwise there would be no debate — and attempt to translate that into a quantifiable temperature. The figure arrived at is quite low, perhaps around 102–106 degrees Fahrenheit.
 
@@ -218,7 +211,6 @@ The Gemara now turns to an analogous but distinct scenario: a knife that has bee
 
 ### Blood Adhesion
 
-*[Continued from above]*
 
 The halacha is ruled in accordance with the lenient position: *afilu b'tzonin* — cold water is sufficient. Moreover, if one has a material such as steel wool with which to scrub the surface, that alone suffices even without water, since the concern is only surface residue and not absorbed matter. The underlying principle is that the knife does not become heated to the point where it absorbs the forbidden taste from the animal into its metal. The forbidden matter remains on the surface and can be removed mechanically or by rinsing.
 
@@ -232,13 +224,11 @@ Rashi raises a pointed question: if we are concerned about the knife absorbing t
 
 ### Post-Shechita Absorption
 
-*[Continued from above]*
 
 The Gemara then addresses a subtle but important question. If one holds that absorption into metal does occur through heat — the position that was rejected as halacha but is worth understanding — one might ask: even when the animal is kosher, doesn't the knife absorb the taste of the flesh as it cuts through? The Gemara responds: *eimas d'ka chamima, l'chi gamra shechita* — the moment at which the knife is surrounded by the heat of the animal is only when the blade is fully embedded deep within the neck, and that is precisely when the shechita is already complete. The absorption, if any, would occur after the animal has already been rendered kosher.
 
 ### Non-Shechted Meat: Absorption Only After Shechita Completes
 
-*[Continued from above]*
 
 This logic resolves a potential circularity. One might have worried that the very beginning of the shechita — before it is complete — involves the knife contacting flesh that is still *eiver min hachai*, meat from a living (or not-yet-shechted) animal, which is itself forbidden. The Gemara addresses this directly: the heat that would drive any absorption is only present when the knife has penetrated deeply into the neck. But by that point, the shechita is already complete and the animal is permissible. There is therefore no moment at which the knife is simultaneously hot enough to absorb and in contact with forbidden meat — the two conditions never coincide in the shechita of a kosher animal.
 

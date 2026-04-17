@@ -28,7 +28,6 @@ Rav Kahana disagrees: *mechtza al mechtza eino ke-rov*, half is not like the maj
 
 ### Defining Valid vs. Inval…
 
-*[Continued from above]*
 
 This debate reflects a fundamental conceptual distinction: are we positively defining the criteria required to make the shechita valid, or are we positively defining the conditions under which it is invalid? The one you are defining creates the higher standard, and anything that falls into a grey area goes on the other side of the definition.
 
@@ -56,7 +55,7 @@ The Gemara responds: *miderabbanan*. The Mishna's ruling may be only rabbinic. T
 
 Rav Katina now attempts a proof from a different area of halacha entirely — and this is where the Gemara makes a striking move, implicitly treating the question of whether half counts as majority as a universal principle rather than a context-specific rule of shechita. The case concerns a pottery vessel — specifically a tanur, an oven — that becomes tamei. A pottery vessel cannot be immersed in a mikvah to become tahor; it can only become tahor if it is considered broken, which requires that the majority of it is no longer present. What if the oven is split exactly in half?
 
-The passage reads: *chilko lishnayim ve-heim shavin* — if it was divided into two exactly equal halves, *shneihem tme'in* — both halves retain their tumah. Why? *Lefi she'i efshar letzamtzem* — because it is impossible to determine with certainty. This introduces the principle of *ai efshar letzamtzem*: we cannot measure with perfect precision, and therefore we cannot know with certainty which half is actually larger.
+The passage reads: *chilko lishnayim ve-heim shavin* — if it was divided into two exactly equal halves, *shneihem tme'in* — both halves retain their tumah. Why? *lefi she'i efshar letzamtzem* — because it is impossible to determine with certainty. This introduces the principle of *ai efshar letzamtzem*: we cannot measure with perfect precision, and therefore we cannot know with certainty which half is actually larger.
 
 This principle extends beyond the question of exactly half — it applies to any situation requiring real precision. The classic example is twins born simultaneously: did they really emerge at exactly the same moment, or do we simply lack the ability to determine which came first? The question of *efshar letzamtzem* or *ai efshar letzamtzem* — whether perfect simultaneity or exact halves are even possible — is itself a significant dispute. Tosafot address this at length, raising, among other factors, the distinction between *bidei adam*, where human action controls the situation and precision is more achievable, and *bidei shamayim*, where we are not in control and exact precision is more doubtful.
 
@@ -76,7 +75,6 @@ This universalized framing explains why the Gemara felt free to move from shechi
 
 ### Universal Half=Majority…
 
-*[Continued from above]*
 
 The force of Rav Papa's response is that the Gemara has now committed to a more general position: the question of whether fifty percent counts as majority is not merely a local question about how to define the requirements of shechita. It is a universal question about how the concept of majority functions. Once framed that way, the Gemara will need to contend with cases in other areas of halacha where the answer appears to differ — and that tension will drive the next section.
 
@@ -100,7 +98,7 @@ The Gemara asks: but if half counts as majority, then the initial half-cut alrea
 >
 > **Translation:** The Gemara answers: **Do you hold** that this *baraita* is referring to the slaughter **of an animal? No,** it is referring to the slaughter **of a bird,** which requires the cutting of only one *siman*. **Whichever** way **you** look at it, the slaughter should be valid. **If** the halakhic status of a *siman* of which precisely **half** was cut and **half** remained uncut **is like** that of the **majority, he has performed** the cutting of **the majority** and the slaughter is valid. And **if** the halakhic status of a *siman* of which precisely **half** was cut and **half** remained uncut **is not like** that of the **majority,** then in cutting half the *siman* **he did not perform any** action that would render the animal a *tereifa*.
 
-The Gemara responds: *mi savrat be-behemah* — why do you assume this case concerns a cow? *Lo — be-of*, it concerns a bird. And *miman nafshach* — either way you go: if half counts as majority, then when one cut half the trachea of a bird, that already constitutes the majority of the one siman required for shechita of a bird, and the shechita is complete. If half does not count as majority, then cutting exactly half neither constitutes valid shechita nor renders the bird a treifa, since the trachea is only considered a treifa when the majority is cut. The animal therefore remains in a neutral state — not yet shechted and not yet treifa — and the shochet can return and complete the act, with the second cut constituting the actual shechita.
+The Gemara responds: *mi savrat be-behemah* — why do you assume this case concerns a cow? *lo — be-of*, it concerns a bird. And *miman nafshach* — either way you go: if half counts as majority, then when one cut half the trachea of a bird, that already constitutes the majority of the one siman required for shechita of a bird, and the shechita is complete. If half does not count as majority, then cutting exactly half neither constitutes valid shechita nor renders the bird a treifa, since the trachea is only considered a treifa when the majority is cut. The animal therefore remains in a neutral state — not yet shechted and not yet treifa — and the shochet can return and complete the act, with the second cut constituting the actual shechita.
 
 The reason this distinction between bird and animal matters is that a mammal requires both simanim. For a mammal, if one says half counts as majority, cutting half the trachea makes it as if the majority of the trachea is cut, rendering the animal a treifa. The shochet is then trapped: the only way out is to treat the shechita as one continuous process, but doing so incorporates the shehiya in the middle, generating a psul of shehiya. For a bird, by contrast, there is only one siman, and the situation resolves cleanly either way.
 
@@ -140,7 +138,7 @@ This argument turns the reasoning on its head: the very feature that makes treif
 >
 > **Translation:** **Rather,** the Gemara revises its understanding of the dispute between Rav and Rav Kahana. **Everyone** agrees that the halakhic status of a *siman* of which precisely **half** was cut and **half** remained uncut **is not like** that of a *siman* of which the **majority** was cut. **And when** the dispute **of Rav and Rav Kahana was stated, it was stated with regard to** the **matter of the Paschal offering.**
 
-The Gemara responds: *ela, de-kuli alma *mechtza al mechtza* eino ke-rov* — in fact, everyone agrees that for shechita, and indeed for most other areas of halacha, fifty percent is not majority and majority means a real majority. *Ve-chi itmar de-Rav u-de-Rav Kahana* — when the dispute of Rav and Rav Kahana was stated, *le-inyan Pesach itmar* — it was stated in the context of the *Korban Pesach*. This is a striking move by the Gemara, and it raises an important point that is worth pausing on: the original statements of Rav and Rav Kahana — *mechtza al mechtza ke-rov* and *mechtza al mechtza eino ke-rov* — were formulated without specifying their context. The Gemara is now suggesting that the original context was entirely different from what was initially assumed. From an academic perspective, this is a fascinating illustration of how the Gemara attributes and recontextualizes statements whose internal evidence does not make the original setting clear.
+The Gemara responds: *ela, de-kuli alma *mechtza al mechtza* eino ke-rov* — in fact, everyone agrees that for shechita, and indeed for most other areas of halacha, fifty percent is not majority and majority means a real majority. *ve-chi itmar de-rav u-de-rav kahana* — when the dispute of Rav and Rav Kahana was stated, *le-inyan Pesach itmar* — it was stated in the context of the *korban pesach*. This is a striking move by the Gemara, and it raises an important point that is worth pausing on: the original statements of Rav and Rav Kahana — *mechtza al mechtza ke-rov* and *mechtza al mechtza eino ke-rov* — were formulated without specifying their context. The Gemara is now suggesting that the original context was entirely different from what was initially assumed. From an academic perspective, this is a fascinating illustration of how the Gemara attributes and recontextualizes statements whose internal evidence does not make the original setting clear.
 
 ### Pesach: Half Tamei/Tahor
 
@@ -148,7 +146,7 @@ The Gemara responds: *ela, de-kuli alma *mechtza al mechtza* eino ke-rov* — in
 >
 > **Translation:** In a case where **the Jewish people were** equally divided on the fourteenth of Nisan, with **half** of them **pure and half** of them **impure, Rav said:** The *halakha* in the case where **half** the people were impure and **half** were pure **is like** that of a case where the **majority** was impure, and the entire people brings the Paschal offering in Nisan. **And Rav Kahana said:** The *halakha* in the case where **half** the people were impure and **half** were pure is **not like** that of a case where the **majority** was impure. Therefore, those who are pure bring the Paschal offering on the fourteenth of Nisan, and those who are impure bring the Paschal offering on the second *Pesaḥ*.
 
-The Pesach case is as follows: *harei she-hayu Yisrael mechtza tehorim u-mechtza temeim* — suppose the Jewish people were exactly half tahor and half tamei. The governing principle is that if a majority of the people are tamei, the *Korban Pesach* is brought be-tumah; if a minority are tamei, the tamei individuals are deferred to *Pesach Sheni*. What happens if it is exactly fifty-fifty? And here, crucially, this is a case where one can obtain an exact count — it is a whole number, and a precise fifty-fifty result is possible. Rav says: *mechtza al mechtza ke-rov* — fifty-fifty counts as majority, so the half that is tamei counts as if the majority is tamei. Rav Kahana says: *mechtza al mechtza einah ke-rov* — the tamei minority goes to *Pesach Sheni*.
+The Pesach case is as follows: *harei she-hayu Yisrael mechtza tehorim u-mechtza temeim* — suppose the Jewish people were exactly half tahor and half tamei. The governing principle is that if a majority of the people are tamei, the *korban pesach* is brought be-tumah; if a minority are tamei, the tamei individuals are deferred to *pesach sheni*. What happens if it is exactly fifty-fifty? And here, crucially, this is a case where one can obtain an exact count — it is a whole number, and a precise fifty-fifty result is possible. Rav says: *mechtza al mechtza ke-rov* — fifty-fifty counts as majority, so the half that is tamei counts as if the majority is tamei. Rav Kahana says: *mechtza al mechtza einah ke-rov* — the tamei minority goes to *pesach sheni*.
 
 ### Ish Nidcheh, Not Tzibur
 
@@ -156,15 +154,14 @@ The Pesach case is as follows: *harei she-hayu Yisrael mechtza tehorim u-mechtza
 >
 > **Translation:** The Gemara asks: **And there,** with regard to the Paschal offering, **what is the reason that Rav** accords half the people the status of a majority? It is **as it is written: "Any man who shall be impure by reason of a corpse…**shall observe the Passover to the Lord. On the fourteenth day of the second month at evening they shall observe it" (Numbers 9:10–11), from which it is derived: A ritually impure **person** is **deferred** to observe the second *Pesaḥ*, **but** a ritually impure **congregation is not deferred** to observe the second *Pesaḥ*. The status of half the people is that of a congregation, not that of a collection of individuals.
 
-The Gemara asks: *mai ta'ama de-Rav* — what is Rav's reasoning in this case? *De-chtiv: ish ish ki yihyeh tamei la-nefesh* — the verse says: a person who is tamei brings the korban at *Pesach Sheni*. *Ish nidcheh* — only an individual is deferred, *ve-ein tzibur nidchin* — but not a tzibur. At fifty percent, the tamei group is no longer a mere minority of individuals. They are half of Klal Yisrael, and at that level they cannot be treated as simply *ish*, individuals. The logic is structurally the same as the earlier conceptual debate: if I am defining when individuals are deferred, the moment the tamei group reaches fifty percent, they are no longer individuals and cannot be deferred. The fifty percent falls on the other side of the definition.
+The Gemara asks: *mai ta'ama de-Rav* — what is Rav's reasoning in this case? *de-chtiv: ish ish ki yihyeh tamei la-nefesh* — the verse says: a person who is tamei brings the korban at *pesach sheni*. *ish nidcheh* — only an individual is deferred, *ve-ein tzibur nidchin* — but not a tzibur. At fifty percent, the tamei group is no longer a mere minority of individuals. They are half of Klal Yisrael, and at that level they cannot be treated as simply *ish*, individuals. The logic is structurally the same as the earlier conceptual debate: if I am defining when individuals are deferred, the moment the tamei group reaches fifty percent, they are no longer individuals and cannot be deferred. The fifty percent falls on the other side of the definition.
 
 In general, however, the Gemara concludes that Rav would not say fifty percent counts as majority universally — the specific ruling here is anchored in a pasuk that refers to individuals, and fifty percent falls outside the definition of individuals.
 
 ### Tosafot's Contradictions
 
-*[Continued from above]*
 
-Tosafot note a significant difficulty: there are other gemarot where fifty percent does in fact count. The classic example comes from Eruvin, in the context of mechitzot and carrying on Shabbat. If a fence has spaced poles — without relying on *lavud* — and the question is whether the majority of the perimeter must be sealed for it to qualify as a mechitzah: the Gemara there comes out that fifty-fifty is acceptable. Tosafot are troubled because the Gemara here universalized the question of whether fifty percent counts as majority, and that universalization was the very thing that drove the Gemara to restrict the Rav-Rav Kahana debate to the narrow context of the *Korban Pesach*. Yet in other places, the answer differs. The problem is not merely that different areas of halacha yield different conclusions about fifty percent — that would be unremarkable. The problem is that the Gemara's universalization of the issue, and the framework it built on that universalization, sits in tension with the variation found in other tractates.
+Tosafot note a significant difficulty: there are other gemarot where fifty percent does in fact count. The classic example comes from Eruvin, in the context of mechitzot and carrying on Shabbat. If a fence has spaced poles — without relying on *lavud* — and the question is whether the majority of the perimeter must be sealed for it to qualify as a mechitzah: the Gemara there comes out that fifty-fifty is acceptable. Tosafot are troubled because the Gemara here universalized the question of whether fifty percent counts as majority, and that universalization was the very thing that drove the Gemara to restrict the Rav-Rav Kahana debate to the narrow context of the *korban pesach*. Yet in other places, the answer differs. The problem is not merely that different areas of halacha yield different conclusions about fifty percent — that would be unremarkable. The problem is that the Gemara's universalization of the issue, and the framework it built on that universalization, sits in tension with the variation found in other tractates.
 
 ---
 
@@ -176,7 +173,7 @@ Tosafot note a significant difficulty: there are other gemarot where fifty perce
 >
 > **Translation:** § The mishna teaches: If one cut **the majority of one** *siman* **in a bird** or the majority of two *simanim* in an animal,his slaughter is valid. The Gemara asks: **We** already **learn** this on **another occasion,** in the first clause of the mishna: The halakhic status of **the majority of one** *siman* **is like** that of the entire *siman*. Why is the redundancy necessary? **Rav Hoshaya said: One** mention of the equivalence between majority and whole is referring to slaughter **of non-sacred** birds and animals **and one** is referring to slaughter **of sacrificial** birds and animals. **And** it **is necessary** for the *tanna* to teach both cases.
 
-The Mishna both opens and closes with the statement that majority suffices — majority of one by a bird and majority of two by a mammal. This repetition raises the question: why state it twice? Rav Hoshaya answers: *echad be-chulin ve-echad* — one statement refers to non-sanctified animals (chulin) and one refers to sacrifices (kodshim). *Ve-tzricha* — both are necessary.
+The Mishna both opens and closes with the statement that majority suffices — majority of one by a bird and majority of two by a mammal. This repetition raises the question: why state it twice? Rav Hoshaya answers: *echad be-chulin ve-echad* — one statement refers to non-sanctified animals (chulin) and one refers to sacrifices (kodshim). *ve-tzricha* — both are necessary.
 
 ### Blood in Kodshim
 
@@ -246,9 +243,8 @@ Whether this ideal extends to chulin as well is left somewhat open. The question
 
 ### Summary of Principles
 
-*[Continued from above]*
 
-Before turning to the practical discussion, it is worth summarizing the major principles established. Mammals require shechita of two simanim; birds require one, with a debate as to whether this is biblical or rabbinic; fish require none. The majority of each required siman suffices. Whether fifty percent counts as majority was debated by Rav and Rav Kahana, but the Gemara ultimately concludes that this debate concerned only the case of the *Korban Pesach*, where the question was whether the tamei half of the population must wait for *Pesach Sheni*. In general, majority means a real majority and not merely fifty percent. The Mishna's repetition of the majority rule addresses both chulin and kodshim: neither more nor less than majority is required by either, though by kodshim there is a positive ideal to complete the cut. And while in kodshim blood is the central purpose of the sacrificial act, the requirement to cut the blood vessels — per Rabbi Yehuda — is separately addressed and is not itself a part of the shechita requirement even there, though the rationale for cutting them is particularly compelling in the sacrificial context.
+Before turning to the practical discussion, it is worth summarizing the major principles established. Mammals require shechita of two simanim; birds require one, with a debate as to whether this is biblical or rabbinic; fish require none. The majority of each required siman suffices. Whether fifty percent counts as majority was debated by Rav and Rav Kahana, but the Gemara ultimately concludes that this debate concerned only the case of the *korban pesach*, where the question was whether the tamei half of the population must wait for *pesach sheni*. In general, majority means a real majority and not merely fifty percent. The Mishna's repetition of the majority rule addresses both chulin and kodshim: neither more nor less than majority is required by either, though by kodshim there is a positive ideal to complete the cut. And while in kodshim blood is the central purpose of the sacrificial act, the requirement to cut the blood vessels — per Rabbi Yehuda — is separately addressed and is not itself a part of the shechita requirement even there, though the rationale for cutting them is particularly compelling in the sacrificial context.
 
 ---
 
@@ -256,13 +252,11 @@ Before turning to the practical discussion, it is worth summarizing the major pr
 
 ### Aaron's Kabbala Intro
 
-*[Continued from above]*
 
 At this point in the shiur, Aaron Braund joins — someone who has been studying for his kabbala in shechita over the past several months. What follows is a practical discussion of the art and halacha of shechita as it is actually practiced. Aaron notes at the outset something important: much of what the Gemara discusses, while normative halacha, is not always followed with the precision one might expect from the text alone. For instance, the question of fifty percent versus majority: in practice, a visibly discernible majority is required, and the Simlah Chadasha — the major work on the laws of shechita — indicates this is approximately sixty percent. Most shochtim do not measure; they rely on trained eye. A small minority of authorities, including a position cited in the Simlah Chadasha, do permit measurement, but this is not general practice.
 
 ### Chalaf Construction
 
-*[Continued from above]*
 
 The chalaf — the shechita knife — is flat on one side, with a double-edged blade. In America it is typically made from raw, unpolished metal, while in Israel it is more common to find knives that are shined and polished, reflecting a Chassidic minhag. The handle is constructed with a fiber grip in American-made knives; Israeli versions sometimes resemble molded plastic handles of the kind found on commercial cutlery. The tang — the metal portion extending from the blade into the handle — must pass sufficiently through the handle so that when the shochet grips the knife, he is in effect holding the metal itself, ensuring the knife functions as a single unified implement. A Nakiri knife, which resembles the chalaf in shape, is typically disqualified because either the tang does not extend adequately through the handle, or the knife is too heavy.
 
@@ -270,7 +264,6 @@ The weight of the knife is a significant practical concern. The heavier the knif
 
 ### Knife Bedika Methods
 
-*[Continued from above]*
 
 The chalaf must be examined before and after each shechita. This is not a case where one relies on a chazakah of a previously checked knife — the knife must be actively checked each time, particularly given how readily a blade of this sharpness can be damaged. In principle, the check involves twelve examinations: the blade has three edges — the two flat sides and the actual cutting edge — and each is examined twice with the fingernail and twice with the pad of the finger, never checking two edges simultaneously. In current practice in America, finger-checking has largely been set aside; the nail check remains standard.
 
@@ -280,7 +273,6 @@ The sides of the blade are also worth checking — not merely the edge. Aaron re
 
 ### Sharpening the Chalaf
 
-*[Continued from above]*
 
 The primary sharpening stone used for the chalaf is known as the green stone. Unlike the practice in general knife sharpening, oil-based whetstones are prohibited for a shechita knife: oil fills a pegimah and prevents the shochet from detecting it during the bedika, making the check unreliable. Only water-based stones are used. The green stone is used for routine maintenance once the knife has already been brought to its proper sharpness; coarser stones are used for initial shaping. A chalaf of this kind requires approximately fifty hours of sharpening work before it reaches the standard required for shechita.
 
@@ -288,7 +280,6 @@ The resulting sharpness is extraordinary — sufficient to catch on paper and ac
 
 ### Holding the Chicken
 
-*[Continued from above]*
 
 Restraining the bird correctly is essential both for the validity of the shechita and for the animal's welfare, since the shochet bears responsibility for the pain and suffering of the animal. The technique, handed down as practical tradition, involves first layering the wings — the right wing is placed over the left — and inserting the left hand beneath both wings into the armpits of the bird. This, combined with gentle downward pressure, causes the bird to go limp almost immediately; a bird that is struggling will go quiet when held this way. The shochet then quickly pulls the skin from the back of the head and neck and flips the bird, which ends up lying calmly on the back of the hand with the head separated forward and a clear red zone at the throat where the shechita is performed.
 
@@ -296,7 +287,6 @@ The point at which birds typically react is precisely when the skin at the back 
 
 ### Act of Shechita
 
-*[Continued from above]*
 
 The bracha — *asher kid'shanu be-mitzvotav ve-tzivanu al ha-shechita* — is recited once at the beginning of a session, with the kavvanah that all birds brought during that session are covered under the bracha, provided there is no interruption. It is not recited before each individual bird.
 
@@ -306,7 +296,6 @@ After the cut, the knife is returned to the mouth and the shochet checks for ikk
 
 ### Trachea & Esophagus Cut
 
-*[Continued from above]*
 
 In practice, the shochet aims to cut both the trachea and the esophagus. The esophagus, being soft and longer than the distance it must travel, typically falls in front of the trachea in the living bird, but when the skin is pulled back during restraint, the rigid trachea is drawn upward to its full extent while the soft esophagus falls behind it. The cut therefore passes through the esophagus and then the trachea in sequence.
 
@@ -314,7 +303,6 @@ The working window is narrow. One must not cut into the spine — getting into t
 
 ### Blood Vessels & Rubashkin
 
-*[Continued from above]*
 
 As discussed in the Gemara, cutting the blood vessels — the jugular vein or carotid artery — is not itself part of the shechita requirement but is necessary for the blood to drain while the animal is still alive, without which salting will not be effective in drawing the blood. The practical requirement is that the vessels must be cut while the bird's heart is still pumping. In most properly performed shechitot, the stroke that cuts the simanim also severs the blood vessels simultaneously. However, there are cases where the vessels are not cut in the stroke, and then the shochet must nick them while the heart is still active.
 
@@ -324,9 +312,8 @@ Halachically, after shechita has been performed, a Jew may in principle immediat
 
 ### Five Psulei Shechita
 
-*[Continued from above]*
 
-The five psulim of shechita — recalled by the mnemonic *Ashi-chad*: ikkur, shehiya, hagramah, chaladah, and derisah — each present practical challenges. Shehiya applies not only to stopping and resuming; it also applies if the blade is momentarily arrested on something outside the zone of shechita — for example, if the shochet accidentally cuts his own finger during the stroke, the blade has paused and the shehiya invalidates the shechita. Derisah — downward pressure — is a constant concern and is one reason heavy knives are problematic. It is also considered derisah to press one's finger against the back of the blade during the stroke. Cutting through the spinal column is treated as derisah because reaching it implies the application of downward force beyond what is appropriate.
+The five psulim of shechita — recalled by the mnemonic *ashi-chad*: ikkur, shehiya, hagramah, chaladah, and derisah — each present practical challenges. Shehiya applies not only to stopping and resuming; it also applies if the blade is momentarily arrested on something outside the zone of shechita — for example, if the shochet accidentally cuts his own finger during the stroke, the blade has paused and the shehiya invalidates the shechita. Derisah — downward pressure — is a constant concern and is one reason heavy knives are problematic. It is also considered derisah to press one's finger against the back of the blade during the stroke. Cutting through the spinal column is treated as derisah because reaching it implies the application of downward force beyond what is appropriate.
 
 Hagramah requires that the cut be made within the valid zone. Chaladah — burrowing, beginning a cut from within the neck rather than at the surface — is addressed practically by the flat, non-pointed back of the chalaf, which prevents the knife from being inserted beneath the simanim. For small animals (behemah dakah), the animal is typically suspended and the head is pulled upward so the shochet can see what he is doing; cutting with the animal simply standing would risk chaladah by blocking the shochet's view of the stroke. Ikkur — tearing the simanim from their connections — manifests primarily when there is a pegimah in the knife, causing the blade to catch and tear rather than cut. It can also occur if the simanim are detached from above or below; pressing the shipui hakova and confirming the trachea pops out is the practical check for this.
 
@@ -334,7 +321,6 @@ A note on the scythe (magal) discussed in the Mishna: the issue raised there con
 
 ### Kisuy Dam & Non-Jewish
 
-*[Continued from above]*
 
 After the bird is placed in the cone and bleeds out, the blood that collects must be covered with earth — *kisuy hadam*. The container prepared beneath the cone is filled with dirt for this purpose, fulfilling the mitzvah as the blood drains.
 
@@ -344,7 +330,6 @@ Non-Jewish methods of slaughter differ substantially. Chickens in industrial set
 
 ### Giraffe Shechita Problem
 
-*[Continued from above]*
 
 A question naturally arises about giraffes, which are a kosher species. The practical difficulty with shechita of a giraffe is not the biblical requirement — bedi'avad, as long as one does not cut above the shipui hakova or below the junction with the body, one has twelve feet of valid zone to work with. The problem is that *lechatchila*, the Simlah Chadasha requires cutting in the middle of the neck, and the traditional method for identifying the middle is to bend the animal's ear downward — the tip of the ear, when pressed to the neck, points to the precise midpoint. This method works reliably for cows and several other animals for which there is an established tradition.
 
@@ -354,6 +339,5 @@ The question is largely academic given that giraffes are endangered and not avai
 
 ### Kaddish DeRabbanan
 
-*[Continued from above]*
 
-The shiur closes with *Kaddish DeRabbanan*.
+The shiur closes with *kaddish deRabbanan*.

@@ -55,6 +55,8 @@ from pathlib import Path
 from typing import List, Optional, Tuple  # noqa: F401 — Tuple used in type comments
 
 import requests
+from dotenv import load_dotenv
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -106,13 +108,13 @@ logger = logging.getLogger(__name__)
 MASECHTA_MAP = {
     "berakhot": "Berakhot", "berachot": "Berakhot", "brachos": "Berakhot",
     "shabbat": "Shabbat", "shabbos": "Shabbat",
-    "eruvin": "Eruvin", "eiruvin": "Eruvin",
+    "eruvin": "Eiruvin", "eiruvin": "Eiruvin",
     "pesachim": "Pesachim",
     "yoma": "Yoma",
     "sukkah": "Sukkah",
     "beitzah": "Beitzah",
-    "taanit": "Taanit", "taanis": "Taanit",
-    "megillah": "Megillah",
+    "taanit": "Ta\u2019anit", "taanis": "Ta\u2019anit",
+    "megillah": "Megilah", "megila": "Megilah",
     "yevamot": "Yevamot", "yevamos": "Yevamot",
     "ketubot": "Ketubot", "kesuvos": "Ketubot",
     "nedarim": "Nedarim",

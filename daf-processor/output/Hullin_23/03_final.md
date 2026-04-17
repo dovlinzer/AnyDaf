@@ -16,9 +16,9 @@ The sugyot of Daf 23 continue the broader theme running through the Mishnayot of
 >
 > **Translation:** **Rabbi Zeira raises a dilemma:** With regard to **one who says: It** is incumbent **upon me** to bring **a burnt offering of doves or of pigeons, and he brought** birds at **the beginning of the yellowing** of their neck plumage **of this,** doves, **and of that,** pigeons, **what is** the *halakha*? **Is** it a case of **uncertainty** whether it is considered older or younger, **and** therefore when he brings both **he fulfills** his obligation, as one of the birds was fit for sacrifice; **or perhaps** a bird at the beginning of the yellowing **is an entity** in and of itself and is neither older nor younger, **and he does not fulfill** his obligation?
 
-The specific case that opened this discussion involves bird korbanot. Torim (turtle doves) must be adults, and Bnei Yona (young pigeons) must be juveniles. What then is the status of a bird in the transitional stage — *Tchilat Hatzihuv*, when the feathers begin to brighten or yellow? Is this adolescence simply a state about which we are uncertain (is it adulthood or childhood?), or is it a genuine third category, neither adulthood nor childhood?
+The specific case that opened this discussion involves bird korbanot. Torim (turtle doves) must be adults, and Bnei Yona (young pigeons) must be juveniles. What then is the status of a bird in the transitional stage — *tchilat hatzihuv*, when the feathers begin to brighten or yellow? Is this adolescence simply a state about which we are uncertain (is it adulthood or childhood?), or is it a genuine third category, neither adulthood nor childhood?
 
-The Gemara framed its question through a case: if someone vows to bring a korban of either Torim or Bnei Yona and then brings both species, each at the stage of *Tchilat Hatzihuv*, can we say that definitively one of them was valid — that at least one was either fully adult or fully juvenile — or must we say that both were invalid because that middle stage belongs to neither category? The Gemara had attempted to prove that *Tchilat Hatzihuv* is its own distinct category from the fact that a Pasuk is required to exclude it. The reasoning: if it were merely a doubt about categorization, no Pasuk would be needed — we would simply apply normal rules of doubt resolution. The need for a Pasuk implies a positive, independent category requiring explicit exclusion.
+The Gemara framed its question through a case: if someone vows to bring a korban of either Torim or Bnei Yona and then brings both species, each at the stage of *tchilat hatzihuv*, can we say that definitively one of them was valid — that at least one was either fully adult or fully juvenile — or must we say that both were invalid because that middle stage belongs to neither category? The Gemara had attempted to prove that *tchilat hatzihuv* is its own distinct category from the fact that a Pasuk is required to exclude it. The reasoning: if it were merely a doubt about categorization, no Pasuk would be needed — we would simply apply normal rules of doubt resolution. The need for a Pasuk implies a positive, independent category requiring explicit exclusion.
 
 ## Pasuk Purpose
 
@@ -28,7 +28,7 @@ The Gemara framed its question through a case: if someone vows to bring a korban
 >
 > **Translation:** The Gemara rejects that proof: **When** the phrase in **the verse** "of doves or of young pigeons" **was necessary,** it was **to exclude** a bird **that was the object of bestiality or** a bird that **was worshipped** as a deity.
 
-The Gemara now challenges that inference. It asks: Ki itztarich kra — for what was the Pasuk actually needed? Perhaps the Pasuk was not needed to exclude *Tchilat Hatzihuv* at all. Perhaps it was either an Asmachta, or its primary purpose was to exclude an entirely different set of problematic birds, in which case the exclusion of adolescent birds might rest on a different basis entirely — perhaps on genuine doubtful categorization rather than on their constituting a third category.
+The Gemara now challenges that inference. It asks: Ki itztarich kra — for what was the Pasuk actually needed? Perhaps the Pasuk was not needed to exclude *tchilat hatzihuv* at all. Perhaps it was either an Asmachta, or its primary purpose was to exclude an entirely different set of problematic birds, in which case the exclusion of adolescent birds might rest on a different basis entirely — perhaps on genuine doubtful categorization rather than on their constituting a third category.
 
 ### Hashchata Midrash
 
@@ -38,7 +38,7 @@ The Gemara now challenges that inference. It asks: Ki itztarich kra — for what
 
 The Gemara proposes: Lemiutei nirva vene'evad — the Pasuk is needed to exclude birds that were used in an act of bestiality or that were worshipped as idols. These are well-established grounds for invalidating large animals as korbanot. But why would one think they might not apply to birds? The answer begins with the Pasuk concerning blemishes in animals: Ki *moshchatam bahem mum bam* — because their corruption is in them, their blemish is in them. The Midrash of the school of Rabbi Yishmael teaches: Kol makom shene'emar hashchata — wherever the Torah uses the root hashchata (to corrupt), it refers to one of two things: devar erva (illicit sexual behavior) or avodat kochavim (idolatry).
 
-How do we know hashchata refers to illicit sexual behavior? Because the Torah says before the Flood: Ki hishchit *Kol basar* et darko al ha'aretz — all flesh had corrupted its way upon the earth. The emphasis on *Kol basar*, on flesh, and the broader context of midrashic tradition, associates the sin of the generation of the Flood with sexual transgression. How do we know hashchata refers to idolatry? Because the Torah says: Pen tashchitun va'asitem lachem pasel — lest you act corruptly and make for yourselves an image.
+How do we know hashchata refers to illicit sexual behavior? Because the Torah says before the Flood: Ki hishchit *kol basar* et darko al ha'aretz — all flesh had corrupted its way upon the earth. The emphasis on *kol basar*, on flesh, and the broader context of midrashic tradition, associates the sin of the generation of the Flood with sexual transgression. How do we know hashchata refers to idolatry? Because the Torah says: Pen tashchitun va'asitem lachem pasel — lest you act corruptly and make for yourselves an image.
 
 ### Two Forms Avoda Zara
 
@@ -54,7 +54,6 @@ These are thus two conceptually distinct forms of Avoda Zara. The zenut imagery 
 
 ### Nirva v'Ne'evad
 
-*[Continued from above]*
 
 Returning to the Gemara: the Pasuk by animal blemishes reads *moshchatam bahem mum bam* — their hashchata is in them, their mum is in them. The Gemara understands this as an equation: the Torah likens hashchata to mum, and therefore the grounds that render animals unfit for the altar are not limited to physical blemishes but extend to hashchata in its two forms — erva and idolatry. Thus an animal used in an act of bestiality (nirva) or worshipped as an idol (ne'evad) is rendered unfit, as though it bore a moral blemish comparable to a physical one.
 
@@ -62,13 +61,11 @@ From this equation, one might draw the following inference: Kol shemum posel bo 
 
 ### Birds Physical Blemishes
 
-*[Continued from above]*
 
 This inference becomes relevant to birds. The Gemara states: Ho'il velo paslei behu muma — since physical blemishes do not disqualify birds. The source is the principle that tamut vezachrut bebiheimah ve'ein tamut vezachrut be'ofot — the Torah requires that animals be tamim (unblemished) and zachar (male) in various contexts, but when it speaks of bird offerings, it never invokes these requirements. The word tamim never appears in connection with birds; nor does the Torah ever specify that a bird offering be male or female. It is therefore understood that these standards simply do not apply to birds. If so, one might reason by analogy that the moral disqualifications — used in bestiality or idolatry — should also not apply to birds, since all of these are derived through comparison to physical blemishes.
 
 ### Moral Blemishes Priority
 
-*[Continued from above]*
 
 This, then, is why the Pasuk is needed: to teach that nirva and ne'evad do disqualify birds, notwithstanding the fact that physical blemishes do not. Kamashmalan — the verse teaches us otherwise. The conclusion is, in a certain sense, striking: physical blemishes are not a disqualifying factor for birds, but moral and religious blemishes are. The categories that one might think are weightier — an animal's physical integrity — turn out to be less determinative for birds than the categories rooted in moral corruption.
 
@@ -106,7 +103,7 @@ Notably, the Gemara does not seem troubled by the question of whether a palgas i
 >
 > **Translation:** **And Rabbi Yoḥanan says** that the requirement to bring the meal offering and libations of a ram offering is derived from the verse in the portion of the libations: **"Or for a ram,** you shall prepare for a meal offering two-tenths of an ephah of fine flour mixed with one-third of a *hin* of oil" (Numbers 15:6); that serves **to include the *palges*,** whose meal offering and libations are like that of a ram. Based on that derivation, there is no uncertainty with regard to the status of the *palges*.
 
-The Mishnah teaches: if one brings a palgas as a korban, ma'aleh alav niskei ayil — one brings the libations appropriate for a ram (the larger quantity). *Ve-ein oleh lo mizivcho* — but the obligation or vow is not discharged, since one required a keves or an ayil and a palgas satisfies neither.
+The Mishnah teaches: if one brings a palgas as a korban, ma'aleh alav niskei ayil — one brings the libations appropriate for a ram (the larger quantity). *ve-ein oleh lo mizivcho* — but the obligation or vow is not discharged, since one required a keves or an ayil and a palgas satisfies neither.
 
 Rabbi Yochanan explains the source for bringing the ram's libations: the verse says o la'ayil — "or for a ram" — and this extra formulation serves lerabbos es hapalgas, to include even that which is not yet fully a ram. The logic parallels the earlier inference from the birds: if the verse itself addresses the palgas as a distinct case, this implies it is its own category. A mere doubt about which existing category it belongs to would not require scriptural address — that would be a matter of doubt resolution. The fact that the verse legislates for the palgas specifically indicates that it is a biryah, its own independent state, to which the Torah assigns the ram's libations.
 
@@ -194,25 +191,22 @@ The Gemara therefore narrows the case further: lo, tzricha delo amar liftoor —
 
 If the se'or is a biryah — a genuine middle state, neither chametz nor matzah — then it does not count as any of the loaves of the Todah, and his vow to bring ten of those loaves has not been satisfied. If it is a safek — truly either chametz or matzah but unknown — then objectively he has brought ten loaves toward the other's Todah obligation, even though the other person still cannot know which ten. His own vow, in that case, would be satisfied, since he did bring ten loaves; which ten they are remains unclear, but the contribution itself was real. Teiku — the Gemara leaves this unresolved.
 
-The parallel to the birds and the palgas is clear. In all three cases, a middle stage sits between two defined categories, and the same fundamental question is posed: is this an uncertainty about which of the two categories applies, or is it a genuinely independent state? The consequences differ as well. By birds in *Tchilat Hatzihuv*, the animal appears to be invalid as a korban entirely. By the palgas, it is apparently a valid korban but does not satisfy any vow or obligation. By the se'or loaves, the question is whether they count toward a vow at all.
+The parallel to the birds and the palgas is clear. In all three cases, a middle stage sits between two defined categories, and the same fundamental question is posed: is this an uncertainty about which of the two categories applies, or is it a genuinely independent state? The consequences differ as well. By birds in *tchilat hatzihuv*, the animal appears to be invalid as a korban entirely. By the palgas, it is apparently a valid korban but does not satisfy any vow or obligation. By the se'or loaves, the question is whether they count toward a vow at all.
 
 ## General Middle States
 
 ### Compare Middle States
 
-*[Continued from above]*
 
 Comparing these three cases — birds, sheep, and bread — reveals both the consistency of the underlying question and the divergence in consequences. In each case, the Gemara asks whether the middle stage is a doubt about categorization or a biryah. The answer has different practical implications in each domain, and what constitutes a valid korban, a satisfied obligation, or a discharged vow may depend on how one resolves this question in each particular sphere.
 
 ### Other Middle States
 
-*[Continued from above]*
 
 This question is not unique to korbanot. The same structure appears in many other areas of halacha. Bein hashmashot — the period of twilight between sunset and the emergence of stars — is a paradigmatic example. Is dusk simply a period of uncertainty (is it night or day, we cannot tell?), or is it its own halachic state, neither night nor day? If it is genuinely its own state, it requires its own set of halachot, since it cannot be fully subsumed under the rules of either day or night. Similarly, the period between the morning star and sunrise — dawn — presents a parallel question. Rav Soloveitchik, for example, held that this period is not merely rabbinic in its special status but reflects a genuine parallel to bein hashmashot: it is a transitional state with its own character, neither night nor day, and therefore certain day-mitzvot may not be performed lechatchilah during this period, even though bedieved they are fulfilled.
 
 ### Category vs Doubt
 
-*[Continued from above]*
 
 The key question across all these cases is whether a middle state constitutes its own halachic category or merely represents our epistemic uncertainty about how to classify something that objectively belongs to one of the two established categories. If it is the former, one must determine what halachic rules govern this independent state. If it is the latter, one applies normal rules for cases of doubt. The answer may differ not only from domain to domain but potentially even within a single domain, as Tosafot's analysis of se'or suggests: a borderline state might be classified differently for the purposes of lashes than for the purposes of karet, or differently in the context of Pesach than in other areas. How a middle state is resolved may thus be an inherently context-sensitive question.
 

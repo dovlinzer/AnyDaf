@@ -88,13 +88,12 @@ The Gemara answers: קרומא מפסיק מתתאי — there is a membrane sur
 >
 > **Translation:** § **And Rav Yehuda says** that **Rav says: A Torah scholar is required to learn** the requisite skills to perform **three matters: Writing,** so that he will be able to write texts on various occasions, **ritual slaughter, and circumcision.**
 
-Rav Yehuda said in the name of Rav: תלמיד *chacham* צריך שיהא למוד שלשה דברים — a student of the sages must know three practical skills: *ktav*, *shechita houses*, *Ktav shchita umila* — writing, shechita, and milah. These are not conventional rabbinic disciplines in the sense of textual analysis, but practical skills essential for a rabbi serving a community, particularly one in a far-flung locale without ready access to specialists. A rabbi must be able to write, since even basic literacy was not universal; he must be able to perform shechita, since a remote community may have no access to a trained shochet; and he must be able to perform milah, since a community may have no mohel.
+Rav Yehuda said in the name of Rav: תלמיד *chacham* צריך שיהא למוד שלשה דברים — a student of the sages must know three practical skills: *ktav*, *shechita houses*, *ktav shchita umila* — writing, shechita, and milah. These are not conventional rabbinic disciplines in the sense of textual analysis, but practical skills essential for a rabbi serving a community, particularly one in a far-flung locale without ready access to specialists. A rabbi must be able to write, since even basic literacy was not universal; he must be able to perform shechita, since a remote community may have no access to a trained shochet; and he must be able to perform milah, since a community may have no mohel.
 
 ### Writing/Ktav
 
-*[Continued from above]*
 
-The word *ktav*, ktav, admits of several interpretations among the Rishonim. Rashi understands it simply as the ability to sign one's name — something not everyone knew how to do — since a talmid chacham might sit on a beit din and be required to sign documents. The *Ittur says*, Ittur, interprets ktav as knowledge of *shtaros*, shtaros — the ability to draft legal documents — which makes considerable practical sense for a communal rabbi. The מהרש"א, Maharsha, understands it as the ability to write a Sefer Torah. The ים של שלמה, Yam Shel Shlomo, suggests it means the ability to write in a literate and articulate style — a reading that is difficult to derive from the word *ktav* alone. In any case, the list reflects a curriculum of practical rabbinic competence: whatever you know in learning, you must arrive in a community equipped with skills the community will actually need.
+The word *ktav*, ktav, admits of several interpretations among the Rishonim. Rashi understands it simply as the ability to sign one's name — something not everyone knew how to do — since a talmid chacham might sit on a beit din and be required to sign documents. The *ittur says*, Ittur, interprets ktav as knowledge of *shtaros*, shtaros — the ability to draft legal documents — which makes considerable practical sense for a communal rabbi. The מהרש"א, Maharsha, understands it as the ability to write a Sefer Torah. The ים של שלמה, Yam Shel Shlomo, suggests it means the ability to write in a literate and articulate style — a reading that is difficult to derive from the word *ktav* alone. In any case, the list reflects a curriculum of practical rabbinic competence: whatever you know in learning, you must arrive in a community equipped with skills the community will actually need.
 
 ## Ritual Skills
 
@@ -104,11 +103,10 @@ The word *ktav*, ktav, admits of several interpretations among the Rishonim. Ras
 >
 > **Translation:** **And Rav Ḥananya bar Shelamya says in the name of Rav:** He must **also** learn to tie **the knot of the phylacteries, and** to recite **the blessing of the grooms** by heart and with the traditional intonation, **and** to tie **ritual fringes** to the corners of a garment.
 
-Rav Chanina bar Shlamya said in the name of Rav: אף קשר של *tefillin*, וברכת חתנים, *Af kesher shel tfillin u'virchas chasanim v'tzitzis* — in addition to the three already mentioned, one must also know how to tie the knot of the tfillin, how to recite the *sheva brachos*, and how to attach tzitzit. These are three further practical skills that a community might rely upon its rabbi to perform.
+Rav Chanina bar Shlamya said in the name of Rav: אף קשר של *tefillin*, וברכת חתנים, *af kesher shel tfillin u'virchas chasanim v'tzitzis* — in addition to the three already mentioned, one must also know how to tie the knot of the tfillin, how to recite the *sheva brachos*, and how to attach tzitzit. These are three further practical skills that a community might rely upon its rabbi to perform.
 
 ### Rabbi's Role
 
-*[Continued from above]*
 
 The inclusion of ברכת חתנים, *birchas chasanim*, is particularly striking. There is a question throughout halachic literature regarding who recites the *sheva brachos* — whether it is the chasan or members of the community. The Rambam holds that under the chupah the chasan recites the brachos, while at the meals they are recited by community members. The fact that this Gemara specifically requires the rabbi to know *birchas chasanim* implies that the rabbi is the one who will be reciting them — and further implies that the rabbi serves in the role of *mesader kiddushin*. This is one of the few places in the Gemara where such a role for the rabbi is suggested.
 
@@ -120,7 +118,7 @@ On the question of the knot of tfillin: there is a debate in Tosafos about wheth
 >
 > **Translation:** The Gemara notes: **And the other** *amora*, Rav Yehuda, holds that **those** skills **are commonplace** and do not require special training.
 
-The Gemara asks: why does the first authority list only ktav, shechita, and milah, and not the three additional skills of tfillin, *birchas chasanim*, and tzitzit? The answer: *Ve'idach* הני שכיחי — those latter three are commonplace. Everyone knows how to make *birchas chasanim*, tie tzitzit, and make the knot of tfillin. The first three skills are the greater *chiddush*, chiddush — they are specifically the skills that are not naturally assumed and that must be deliberately acquired.
+The Gemara asks: why does the first authority list only ktav, shechita, and milah, and not the three additional skills of tfillin, *birchas chasanim*, and tzitzit? The answer: *ve'idach* הני שכיחי — those latter three are commonplace. Everyone knows how to make *birchas chasanim*, tie tzitzit, and make the knot of tfillin. The first three skills are the greater *chiddush*, chiddush — they are specifically the skills that are not naturally assumed and that must be deliberately acquired.
 
 ## Shochet Knowledge
 
@@ -134,7 +132,6 @@ Returning now to themes central to the beginning of the masechta, Rav Yehuda sai
 
 ### Five Halachos
 
-*[Continued from above]*
 
 The Gemara specifies the five primary halachic concerns of shechita: *shehiyah* — pausing in the middle of the shechita; *derasah* — applying pressure to the knife rather than drawing it; *chaladah* — tunneling, meaning inserting the knife between the trachea and esophagus and cutting from the inside rather than from without; *hagramah* — shechting in the wrong location, too high or too low; and *ikur* — a term whose precise meaning is debated. Rashi understands ikur as the physical tearing out of one of the simanim — the trachea or esophagus — rather than cutting it. Tosafos objects that this would simply mean the siman was not cut, not that a separate psul occurred, and therefore cites another opinion: that ikur refers to a situation in which one of the simanim has been displaced from its normal anatomical position in the animal while still alive — not enough to render the animal a treifa, but such that the shechita requires the simanim to be in their original locations or it is pasul.
 
@@ -148,7 +145,6 @@ The Gemara asks: is this ruling not obvious? These five categories are all taugh
 
 ### Competence Presumption
 
-*[Continued from above]*
 
 The Gemara earlier established two distinct categories: *gamir somebody*, gamir — one who has been tested on the laws — and *mumcheh somebody*, mumcheh — one who has demonstrated practical experience. The present ruling addresses the case where we positively know the shochet does not know the laws: in that case, experience alone is insufficient. But there is a third category: what if we simply do not know whether the shochet knows the laws, and had no opportunity to ask or test him? The Gemara earlier established the principle of רוב מצויין אצל *shechita houses* מומחין הם — those who regularly engage in shechita may be presumed competent, meaning that a person performing shechita is presumed to know what he is doing. Thus: if we have tested the shochet and confirmed knowledge, the shechita is valid; if we have confirmed that he does not know the laws, the shechita is invalid regardless of his practical skill; and if we simply do not know, we may rely on the presumption of competence.
 
@@ -182,7 +178,6 @@ The Gemara then raises a practical objection to the interpretation of ביקור
 
 ### Resolution
 
-*[Continued from above]*
 
 Although the Gemara could not conclusively prove from the Mishnah that ביקור refers to inspection of the simanim, the halakhic requirement to inspect the simanim after shechita nonetheless stands as stated by Rav Yehuda in the name of Shmuel.
 
@@ -198,7 +193,6 @@ The Gemara now asks: *lo* בדק מאי — if the shochet did not inspect the s
 
 ### Nevela Status
 
-*[Continued from above]*
 
 A braita goes further: *nevela* ומטמאה במשא — the animal is not merely treifa but nevela, and conveys tumah through carrying. The distinction between treifa and nevela is significant: treifa refers to an animal that was shechted correctly but had an internal defect — a ruptured organ, for example — rendering it non-kosher; nevela refers to an animal that was not shechted correctly at all, whether because it died on its own, was killed in another way, or the shechita was invalid, such as due to a nick in the knife causing tearing. Both are forbidden to eat, but only nevela conveys tumah. If the shechita was not confirmed to be valid, then if it was indeed invalid, the animal would be a nevela — and the braita holds that without confirmation, we treat it as such.
 
@@ -222,11 +216,10 @@ The question is: what does chazaka track? One position holds that chazaka follow
 >
 > **Translation:** § The Gemara proceeds to analyze **the** matter **itself. Rav Huna says: An animal during its lifetime exists with the presumptive status of prohibition until it will become known to you in what** manner **it was slaughtered.** Once the animal **was slaughtered, it exists with the presumptive status of permissibility until it will become known to you in what** manner **it was rendered a *tereifa*.** The Gemara challenges this: **And let us say** that once the animal **was slaughtered, it became permitted,** instead of saying that it exists with the presumptive status of permissibility. The Gemara explains: **This teaches us that even if a flaw developed in** the animal that raises uncertainty with regard to its permitted status, it retains its presumptive status of permissibility.
 
-The Gemara now examines Rav Huna's statement in its own right. Rav Huna declares: בהמה בחייה בחזקת *Issur* עומדת — a live animal stands in a presumptive status of being forbidden. One cannot consume a live animal, and one cannot rip off a limb from a living creature. This forbidden status persists until one establishes that a proper shechita was performed. Chazaka, then, works *l'chumra* here: the presumption of being forbidden remains until affirmatively overridden by knowledge of a valid shechita.
+The Gemara now examines Rav Huna's statement in its own right. Rav Huna declares: בהמה בחייה בחזקת *issur* עומדת — a live animal stands in a presumptive status of being forbidden. One cannot consume a live animal, and one cannot rip off a limb from a living creature. This forbidden status persists until one establishes that a proper shechita was performed. Chazaka, then, works *l'chumra* here: the presumption of being forbidden remains until affirmatively overridden by knowledge of a valid shechita.
 
 ### Kosher Status
 
-*[Continued from above]*
 
 Once proper shechita has been confirmed, the animal acquires a new chazaka — חזקת היתר — a presumptive status of being permitted. This chazaka now works *l'kula once*: the animal is presumed kosher unless there is positive knowledge that it became a treifa. This is why in practice we do not inspect every internal organ after shechita. Most organs present no commonly occurring defects, and relying on the chazaka of heter is sufficient. The only exception is the lungs, where tears and perforations are a relatively common occurrence — a מיעוט המצוי, *miyut hamatzui* — which obligates inspection. For all other organs, since the defect would be a מיעוט שאינו מצוי, *miyut she'eino matzui* — a rare occurrence — there is no obligation to investigate.
 
@@ -266,7 +259,6 @@ The Gemara answers: מי קמידמי איסורא לסכנתא — how can you 
 
 ### Rava's Challenge
 
-*[Continued from above]*
 
 Rava challenged this answer: מאי שנא ספק *sakana* *l'chumra* — why is a doubt regarding danger treated strictly, ספק איסורא נמי *l'chumra* — if so, should a doubt regarding prohibition not also be treated strictly? Rava does not see a principled distinction; both involve doubt, and strictness seems to apply in both domains.
 
@@ -280,13 +272,12 @@ Rava challenged this answer: מאי שנא ספק *sakana* *l'chumra* — why is
 >
 > **Translation:** Rava **said to** Abaye: **There,** in the case of ritual impurity in the public domain, the Sages **learned this *halakha* through tradition from** the case of **a *sota*,** a woman who enters into seclusion with a particular man after her husband warns her not to. She is forbidden to her husband even though there is uncertainty whether or not she committed adultery. **Just as a *sota* is** forbidden only in a case of uncertainty **in the private domain,** as there is no seclusion in the public domain; **so too** with regard to **ritual impurity,** one becomes ritually impure in a case of uncertainty only **in the private domain.**
 
-Abaye responded: ולא שני בין *Issur* לסכנתא — are you saying there is no difference between issur and sakana? He demonstrates the difference with a compelling example. The rule is ספק *tumah whatever* ברשות הרבים ספיקו *tahor either* — a doubt about tumah in a public domain is resolved leniently, the status is tahor. Yet ספק מים מגולים *asurin that's forbidden* — a doubt about uncovered water is treated strictly. Here we have two parallel cases of doubt, and the outcomes are opposite. For halachic tumah, we have a formal rule directing leniency; for health concerns about exposed water, we are strict regardless. This proves that the two domains operate under fundamentally different principles.
+Abaye responded: ולא שני בין *issur* לסכנתא — are you saying there is no difference between issur and sakana? He demonstrates the difference with a compelling example. The rule is ספק *tumah whatever* ברשות הרבים ספיקו *tahor either* — a doubt about tumah in a public domain is resolved leniently, the status is tahor. Yet ספק מים מגולים *asurin that's forbidden* — a doubt about uncovered water is treated strictly. Here we have two parallel cases of doubt, and the outcomes are opposite. For halachic tumah, we have a formal rule directing leniency; for health concerns about exposed water, we are strict regardless. This proves that the two domains operate under fundamentally different principles.
 
 ## Sota Rules
 
 ### Tumah Criteria
 
-*[Continued from above]*
 
 Abaye's proof is challenged: perhaps the leniency regarding tumah in the public domain is not based on the general principle of chazaka at all, but on a specific law derived from the case of Sotah. The Torah employs the phrase ונסתרה *venitma'ah* — she was secluded and she became defiled — in the context of the suspected sotah. From this phrase, the Sages derived that a doubt about tumah is treated as definite tumah only when two criteria are met: it occurred in a private domain, and there was present a party who in theory could know what happened. When either criterion is absent — when the doubt arises in a public domain, or when no party capable of reporting was present — the doubt does not generate a presumption of tumah. This is not chazaka; it is a formal derivation from the laws of sotah.
 
@@ -300,7 +291,7 @@ Abaye's proof is challenged: perhaps the leniency regarding tumah in the public 
 >
 > **Translation:** The Gemara answers: **There too, the *halakha* is derived from** the case of **a *sota*. Just as** the uncertainty in the case of ***sota*** involves **an entity that has consciousness** in order for her **to be asked** whether she was unfaithful and is forbidden to her husband, **so too here,** only uncertainty involving **an entity that has consciousness** in order for it **to be asked** whether the loaves were rendered impure would become impure. The weasel does not have that consciousness.
 
-The Gemara further illustrates this framework with the case of a vessel used to store water for the *Parah Adumah* purification ritual. If one left a pitcher uncovered and returned to find it covered, one must be concerned that a tamei person entered and covered it — and the vessel may therefore be tamei. Conversely, if one left it covered and returned to find it uncovered, the concern is not about human agency but about animals: could a weasel or snake have drunk from it, rendering the water invalid for use in the *Parah Adumah* ritual? As Rabbi Yehoshua ben Levi explains: *Mipnei* שדרכן של שרצים לגלות ואין דרכן לכסות — because the nature of small animals and insects is to uncover vessels, not to cover them. When the vessel was found covered, a human being must have been involved, raising the concern of tumah. When found uncovered, only animal access is suspected, and that raises no tumah concern — only the separate question of whether the water has been invalidated for ritual use.
+The Gemara further illustrates this framework with the case of a vessel used to store water for the *parah adumah* purification ritual. If one left a pitcher uncovered and returned to find it covered, one must be concerned that a tamei person entered and covered it — and the vessel may therefore be tamei. Conversely, if one left it covered and returned to find it uncovered, the concern is not about human agency but about animals: could a weasel or snake have drunk from it, rendering the water invalid for use in the *parah adumah* ritual? As Rabbi Yehoshua ben Levi explains: *mipnei* שדרכן של שרצים לגלות ואין דרכן לכסות — because the nature of small animals and insects is to uncover vessels, not to cover them. When the vessel was found covered, a human being must have been involved, raising the concern of tumah. When found uncovered, only animal access is suspected, and that raises no tumah concern — only the separate question of whether the water has been invalidated for ritual use.
 
 ### Stricter Scrutiny
 

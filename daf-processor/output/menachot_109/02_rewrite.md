@@ -174,7 +174,7 @@ The Gemara then notes a discussion in Tosafot relevant to contemporary applicati
 
 The Gemara establishes from the mishna's formulation that Beit Chonyo was not regarded as a house of avodah zarah. A *baraita* then begins the narrative of how it came to be founded. In the year that Shimon HaTzaddik died, he emerged from the Kodesh HaKodashim on Yom Kippur and said to those around him: this year, he himself would die. They asked how he knew. He told them: every Yom Kippur, when I entered the Kodesh HaKodashim, I would encounter an elderly man dressed entirely in white, wrapped in white, who would enter and depart with me. This year I saw an elderly man dressed entirely in black, wrapped in black, who entered with me but did not come out with me — a sign of mourning and departure.
 
-After Sukkot he became ill, lingered seven days, and died. Following his death, his fellow kohanim ceased to pronounce the *Shem HaMeforash* — the explicit divine name — in birkat kohanim, since the level of piety required to utter that name safely was no longer present among them.
+After Sukkot he became ill, lingered seven days, and died. Following his death, his fellow kohanim ceased to pronounce the *shem haMeforash* — the explicit divine name — in birkat kohanim, since the level of piety required to utter that name safely was no longer present among them.
 
 ### The Garb Trick
 

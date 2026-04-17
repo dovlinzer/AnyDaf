@@ -106,7 +106,7 @@ The Gemara declares that Kutim were made ke-ovdei kochavim gemurim — like full
 
 ### Rambam on Tumah
 
-There is, however, a striking indication in a Rambam in one location in the Peirush HaMishnayot that the matter may go further. There is a Mishnah in Niddah that deals with the bloodstains of Kuti women — the stains of niddah, menstrual bleeding. The Rambam there rules that such stains do not convey tumah, because *Chazal made* Kutim like ovdei kochavim. This is remarkable on several levels.
+There is, however, a striking indication in a Rambam in one location in the Peirush HaMishnayot that the matter may go further. There is a Mishnah in Niddah that deals with the bloodstains of Kuti women — the stains of niddah, menstrual bleeding. The Rambam there rules that such stains do not convey tumah, because *chazal made* Kutim like ovdei kochavim. This is remarkable on several levels.
 
 The laws of niddah tumah apply to Jewish women, not to non-Jewish women — but they do apply even to a Jewish woman who is an idolater. The exclusion entailed by being classified as an idolater pertains to functional matters like shechita and wine; it does not reassign a person's fundamental halachic identity for purposes of tumah. So when the Rambam says their bloodstains do not convey tumah, he appears to be treating Kutim not merely as Jewish idolaters but as actual non-Jews.
 
@@ -154,13 +154,13 @@ The Baraita cited earlier in the Sefaria indicates the case of a non-observant J
 
 ### Public Shabbat Violator
 
-She'eino *meshameir Shabatto bashuk* — one who does not keep Shabbos in public, meaning a mechalel Shabbos b'farhesia, a public *Shabbos violator* — eino *mevattel reshus v'notein reshus*. His verbal annulment is ineffective. To incorporate his space into an eruv, his domain must be rented from him, exactly as one would have to rent from a non-Jew.
+She'eino *meshameir Shabatto bashuk* — one who does not keep Shabbos in public, meaning a mechalel Shabbos b'farhesia, a public *shabbos violator* — eino *mevattel reshus v'notein reshus*. His verbal annulment is ineffective. To incorporate his space into an eruv, his domain must be rented from him, exactly as one would have to rent from a non-Jew.
 
 ### Jewish Verbal Annulment
 
 The Baraita articulates the general principle that Yisrael notein reshus u'mevattel reshus — a Jew who forgot to participate in the eruv can verbally give or annul his domain on Shabbos itself. Reshusi knuya lach, reshusi mevutela lach — my domain is acquired by you, my domain is nullified — and that verbal act alone is sufficient; v'ein tzarich lizkos, no physical act of acquisition is needed.
 
-The conclusion that follows is that not only a non-Jew, but also a public *Shabbos violator* — and now, by extension, a Kuti — requires actual rental rather than verbal annulment. The eruv must treat the Kuti's domain as it would treat that of a non-Jew or a mechalel Shabbos b'farhesia.
+The conclusion that follows is that not only a non-Jew, but also a public *shabbos violator* — and now, by extension, a Kuti — requires actual rental rather than verbal annulment. The eruv must treat the Kuti's domain as it would treat that of a non-Jew or a mechalel Shabbos b'farhesia.
 
 ---
 

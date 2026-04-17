@@ -12,9 +12,8 @@ We pick up on the bottom of Daf 2b. The first discussion in the Gemara may have 
 
 ### Opening Sugya Pattern
 
-*[Continued from above]*
 
-This is a classic move at the beginning of a masechet. The Gemara will often focus on what appears to be a side issue — sometimes purely linguistic, sometimes a question that does not seem to demand much attention — and use it as a vehicle for introducing major themes that will recur throughout the masechet. One finds this pattern across numerous masechtos. The beginning of *Bava Kamma*, for instance, uses the question of arba avos and tolada as an occasion to survey all the categories of nezikin. In some cases, one has the sense that the opening sugya was constructed quite late, specifically for this introductory purpose.
+This is a classic move at the beginning of a masechet. The Gemara will often focus on what appears to be a side issue — sometimes purely linguistic, sometimes a question that does not seem to demand much attention — and use it as a vehicle for introducing major themes that will recur throughout the masechet. One finds this pattern across numerous masechtos. The beginning of *bava kamma*, for instance, uses the question of arba avos and tolada as an occasion to survey all the categories of nezikin. In some cases, one has the sense that the opening sugya was constructed quite late, specifically for this introductory purpose.
 
 That is precisely what is happening here. We insisted that the Mishnah first indicates something le'chatchila and then something be'di'avad, and we are going to use that framework to examine four or five different answers — each of which lays out a different understanding of the le'chatchila and be'di'avad of shechita. Taken together, they serve as an introduction to the central questions of the masechet: who can shecht, under what circumstances, what constitutes le'chatchila, what constitutes be'di'avad, and where the debates lie. That is the agenda for the remainder of this daf.
 
@@ -50,7 +49,6 @@ The Gemara's first answer: *de'itmei besheretz* — he did not become tamei thro
 
 ### Shechita Objects
 
-*[Continued from above]*
 
 The second answer takes a different route: ve'iba'it eima, *le'olam de'itmei bemeis* — even if he did become tamei through a met, the case is ukegon shebadak kerumit shel kaneh veshachat bah — he checked a reed, like a hard bamboo reed, sharpened it sufficiently, and used it to shecht. And here the Gemara takes the opportunity to cite a braita: *bechol shochtin* — you may shecht with anything — bein betzur bein bizchuchit, whether a rock or a piece of glass, *bein bikrumit shel kaneh*, or a reed — as long as it is sharp and smooth and does the job.
 
@@ -58,7 +56,6 @@ This is already significant in its own right: you do not need a knife per se. Th
 
 ### Kli Requirement Debate
 
-*[Continued from above]*
 
 Tosafot raises an important question here. There is a principle, derived from the pasuk concerning Avraham and Yitzchak — vayikach es hama'achelet lishchot es beno — that shechita requires a kli. Tosafot asks two things. First: the objects listed in the braita — a sharp rock, a piece of glass — are not recognized as kelim for the purposes of tuma law. They do not carry the formal halakhic designation of a vessel. So if we say shechita requires a kli, we evidently do not mean a kli in the technical sense recognized in other legal contexts. We just mean something fashioned to serve the purpose — which renders the requirement nearly circular, because it reduces to: the object has to be capable of doing the job. For all practical purposes, there is no formal specification of what the shechita implement must be. There is no defined "shechita knife" with prescribed characteristics; it only needs to be sharp and smooth.
 
@@ -86,11 +83,10 @@ So the concern is not that the Kuti does not know the laws or is technically inc
 >
 > **Translation:** **And if** the Samaritan **slaughtered** the animal without supervision, the Jew **cuts an olive-bulk of meat** from the slaughtered animal **and gives it to** the Samaritan to eat. If the Samaritan **ate it,** it is **permitted** for the Jew **to eat** meat **from** what the Samaritan **slaughtered.** Since Samaritans are meticulous with regard to the meat that they eat and eat meat only from an animal that was slaughtered properly, the Jew may partake of the meat. But if the Samaritan **did not eat** the meat, there is concern that the animal was not slaughtered properly, and it is **prohibited to eat from** what the Samaritan **slaughtered.**
 
-With that background, Abaye parses the Mishnah as follows: *hachi katani* — hakol shochtin, everybody may shecht, va'afilu Kuti, even a Samaritan. *B'meh devarim amurim* — when is this true? Kshe'Yisrael omeid al gabav — when a Jew is standing over him, in direct and constant supervision. Under those conditions, even though the Kuti's motivations might be suspect, the direct observation ensures he is performing the shechita correctly. That is the le'chatchila. Aval *yotzei v'nichnas* *lo yishchot* — but if the supervision is merely yotzei ve'nichnas — the supervisor popping in and out at intervals rather than maintaining constant presence — that is not sufficient le'chatchila.
+With that background, Abaye parses the Mishnah as follows: *hachi katani* — hakol shochtin, everybody may shecht, va'afilu Kuti, even a Samaritan. *b'meh devarim amurim* — when is this true? Kshe'Yisrael omeid al gabav — when a Jew is standing over him, in direct and constant supervision. Under those conditions, even though the Kuti's motivations might be suspect, the direct observation ensures he is performing the shechita correctly. That is the le'chatchila. Aval *yotzei v'nichnas* *lo yishchot* — but if the supervision is merely yotzei ve'nichnas — the supervisor popping in and out at intervals rather than maintaining constant presence — that is not sufficient le'chatchila.
 
 ### Meat-Eating Test
 
-*[Continued from above]*
 
 Then the be'di'avad: ve'im shachat — if he went ahead and shechted without the required constant supervision, there is still a mechanism to salvage the shechita. Choteich kezayit basar, you cut a piece of the meat, *v'nosein lo*, and offer it to the Kuti himself. *achal lo* — if he eats it, mutar le'echol mishchitato — you may eat the rest of the shechita. *lo achal lo* — if he refuses to eat it, assur le'echol mishchitato — you may not. The logic is precise: we assume the Kuti knows the laws and is technically competent; the only concern is whether he would willfully feed others treif. If he himself eats from it, we know he performed it correctly, because he would not eat neveilah.
 
@@ -136,7 +132,7 @@ The key distinction that emerges, which explains Abaye's position, concerns both
 >
 > **Translation:** **Rather, Rava said** in resolution of the apparent contradiction similar to the resolution proposed by Abaye, that **this** is what the mishna **is teaching: Everyone slaughters, and even a Samaritan. In what** case **is this statement said?** It is said in a case **where a Jew exits and enters; but** if the Jew does not exit and enter and instead **came and found that** the Samaritan **slaughtered** the animal, the Jew **cuts an olive-bulk of meat** from the slaughtered animal **and gives it to** the Samaritan to eat. If the Samaritan **ate it,** it is **permitted** for the Jew **to eat** meat **from** what the Samaritan **slaughtered.** But if the Samaritan **did not eat** the meat, it is **prohibited to eat from** what the Samaritan **slaughtered.**
 
-Rava accordingly re-reads the Mishnah on his own terms. Ela amar Rava, *hachi katani*: hakol shochtin va'afilu kuti — everybody may shecht, even a Samaritan. *B'meh devarim amurim* — when? Keshe'yisrael yotzei ve'nichnas — when a Jew is periodically checking in. That, says Rava, is sufficient le'chatchila. Aval ba umatza sheshachat — if you arrived and found that he had already shechted, with no supervision at all, then chotech kezayit basar ve'nosein lo — you cut a piece of the meat and give it to him. Achlo — if he eats it, mutar le'echol mishchitato. *lo achlo* — if he refuses, assur. *chutz mecheresh shoteh vekatan* — de'afilu be'di'avad nami lo, with the same reasoning as before. And the final phrase *vechulan sheshachatu* again generates the same difficulty under Rava's reading that it did under Abaye's — kashya.
+Rava accordingly re-reads the Mishnah on his own terms. Ela amar Rava, *hachi katani*: hakol shochtin va'afilu kuti — everybody may shecht, even a Samaritan. *b'meh devarim amurim* — when? Keshe'yisrael yotzei ve'nichnas — when a Jew is periodically checking in. That, says Rava, is sufficient le'chatchila. Aval ba umatza sheshachat — if you arrived and found that he had already shechted, with no supervision at all, then chotech kezayit basar ve'nosein lo — you cut a piece of the meat and give it to him. Achlo — if he eats it, mutar le'echol mishchitato. *lo achlo* — if he refuses, assur. *chutz mecheresh shoteh vekatan* — de'afilu be'di'avad nami lo, with the same reasoning as before. And the final phrase *vechulan sheshachatu* again generates the same difficulty under Rava's reading that it did under Abaye's — kashya.
 
 ---
 
@@ -164,7 +160,6 @@ The reasoning is elegant. A mumar le'te'avon only violates when there is some ga
 
 ### Mumar Le'Te'avon
 
-*[Continued from above]*
 
 Aval lo badak ve'natan lo — but if the knife was not pre-checked and the responsibility was left to him, *lo yishchot* — he should not shecht le'chatchila, because checking a knife is an effort, and he might not be motivated to do it properly. Ve'im shachat — if he did shecht, bodek sakino acharav — you check the knife afterwards. The knife can only become worse in the process of shechita, never better — it can become duller or nicked, but it cannot become sharper or smoother on its own. So if the post-shechita inspection finds the knife in good condition, it was certainly in good condition before and during. Nimtza sakin yafeh — mutar le'echol mishchitato. Ve'im lav, assur le'echol mishchitato — and if the knife is not good afterwards, or if it cannot be located to be checked, the shechita is invalid. The unavailability of the knife for post-facto checking thus creates a serious problem that even direct supervision cannot remedy: if you do not have the knife, even if you observed the physical motions of the shechita perfectly, you cannot rule out the possibility that the knife had a nick — dilma be'sakin pguma ka'shachat.
 
@@ -236,7 +231,6 @@ The Gemara is careful to explain what muchzak means here: *she'shachtu lefanenu 
 
 ### Ravina II: Experience
 
-*[Continued from above]*
 
 Aval lo shachat lefanenu shtei ve'shalosh pe'amim — if prior experience has not been witnessed, *lo yishchot* — he should not shecht, shema yitalef — lest he faint. The concern is not only about the dramatic case of full unconsciousness; even a momentary loss of control or a reflexive recoil upon first confronting the act could cause an invalid pause or pressure.
 

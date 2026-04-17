@@ -24,7 +24,7 @@ The Gemara asks: *mai ve-chein* — why was it necessary to state this whole sec
 
 ### Why Repeat Chatas
 
-With that clarification behind us, Rabbi Chiya introduces an entirely new and considerably more vexing case — one that will consume the remainder of this daf and the first amud of the next before the Mishna resumes. *Tani Rabbi Chiya*: you have a todah and its tmura. One brings bread and one does not — a tmura retains only a derivative kedusha and never receives bread — but they have become mixed up, so you no longer know which is which. Then one of them dies. Now you are left with one animal of uncertain identity.
+With that clarification behind us, Rabbi Chiya introduces an entirely new and considerably more vexing case — one that will consume the remainder of this daf and the first amud of the next before the Mishna resumes. *tani rabbi chiya*: you have a todah and its tmura. One brings bread and one does not — a tmura retains only a derivative kedusha and never receives bread — but they have become mixed up, so you no longer know which is which. Then one of them dies. Now you are left with one animal of uncertain identity.
 
 *Chavratah ein lah takanah* — the remaining animal has no solution. You cannot bring it with bread, because if it is the tmura, the bread would constitute chulin b'azarah. You cannot bring it without bread, because if it is the todah, a todah brought without bread does not fulfill the obligation.
 
@@ -68,7 +68,7 @@ A third proposal is then put forward, this time by Levi directly to Rebbi. Bring
 
 ### Conditional Bread
 
-Rebbi's response to Levi is famous for its sharpness: *k'midumeh ani she-ein lo moach b'kadkado* — it appears to me that whoever would suggest such a thing has no brain in his skull. The rebuke is softened somewhat by the distancing formulation — Rebbi says "he," not "you" — but the point is clear. *V'chi mafrishin techilah l'mosarot* — you cannot designate something ab initio as a motar. Motar is a result, not a category of kedusha one can impose in advance. You cannot sanctify an animal with the kedusha of notar todah from the outset. And as noted, the concept of achrayus is also unavailable here because the vow was harei zo, not harei alai.
+Rebbi's response to Levi is famous for its sharpness: *k'midumeh ani she-ein lo moach b'kadkado* — it appears to me that whoever would suggest such a thing has no brain in his skull. The rebuke is softened somewhat by the distancing formulation — Rebbi says "he," not "you" — but the point is clear. *v'chi mafrishin techilah l'mosarot* — you cannot designate something ab initio as a motar. Motar is a result, not a category of kedusha one can impose in advance. You cannot sanctify an animal with the kedusha of notar todah from the outset. And as noted, the concept of achrayus is also unavailable here because the vow was harei zo, not harei alai.
 
 ### Backup Rejected
 
@@ -88,7 +88,7 @@ The proposed solution: bring the bread and leave it outside the azarah wall. Sti
 
 ### Backup Suggested
 
-The Gemara immediately identifies the flaw: *mishum d'ika arba'ah l'hanif* — because there are the four loaves that must be given to the kohen and waved as a tenufah together with the animal. This is what makes their status as part of the korban so acute. Those four loaves must be inside the Mikdash for the tenufah. If you do the tenufah outside — *linfinhu avrai* — this is invalid, because whenever tenufah is required it must be performed *lifnei Hashem*, before God, meaning inside. If you bring them inside — *l'gavai* — *ka mayti chulin l'azarah* — you are back to the chulin b'azarah problem, since those loaves might not be sanctified. *Hilkach lo efshar* — therefore this solution cannot work either.
+The Gemara immediately identifies the flaw: *mishum d'ika arba'ah l'hanif* — because there are the four loaves that must be given to the kohen and waved as a tenufah together with the animal. This is what makes their status as part of the korban so acute. Those four loaves must be inside the Mikdash for the tenufah. If you do the tenufah outside — *linfinhu avrai* — this is invalid, because whenever tenufah is required it must be performed *lifnei Hashem*, before God, meaning inside. If you bring them inside — *l'gavai* — *ka mayti chulin l'azarah* — you are back to the chulin b'azarah problem, since those loaves might not be sanctified. *hilkach lo efshar* — therefore this solution cannot work either.
 
 ### Split Conditional
 
@@ -114,7 +114,7 @@ A sharp question arises from the audience: what about oto v'es beno — the proh
 
 The answer is clear: bring the mother on one day and bring the child together with the uncertain original animal on the next day. The bread functions properly throughout: the mother definitively requires forty loaves; on the second day, either the leftover is the todah and the child is the motar todah, with the forty loaves going to the todah, or the leftover is the tmura and the child is a full todah, with the loaves going to it. The two days separate the two slaughterings and the atonement vow for the chatas requires the animal to be within a year, whereas a todah has no upper age limit, so the mother's eligibility is not a concern.
 
-However, the Gemara ultimately rejects even this solution. *Man leima lan* — who told us that Rabbi Yochanan means *im shiyuro meshuyar*, that the owner has a genuine choice to designate both mother and child as full independent todot? Perhaps Rabbi Yochanan's intent is only that the child can be used to fulfill the obligation — functioning through *adam mitkaper b'shvach hekdesh*, being atoned through the enhanced value of the hekdesh — but if the child is used, the mother automatically becomes motar todah, rather than both being simultaneously equal. If so, Rabbi Yochanan's ruling simply means that one of them serves as the todah and the other is its motar, without the owner having a free choice to configure them as two distinct todot. That limited reading of Rabbi Yochanan's opinion destroys the solution, because we cannot then say that in either branch of the stipulation both animals could simultaneously carry the full kedusha of a todah.
+However, the Gemara ultimately rejects even this solution. *man leima lan* — who told us that Rabbi Yochanan means *im shiyuro meshuyar*, that the owner has a genuine choice to designate both mother and child as full independent todot? Perhaps Rabbi Yochanan's intent is only that the child can be used to fulfill the obligation — functioning through *adam mitkaper b'shvach hekdesh*, being atoned through the enhanced value of the hekdesh — but if the child is used, the mother automatically becomes motar todah, rather than both being simultaneously equal. If so, Rabbi Yochanan's ruling simply means that one of them serves as the todah and the other is its motar, without the owner having a free choice to configure them as two distinct todot. That limited reading of Rabbi Yochanan's opinion destroys the solution, because we cannot then say that in either branch of the stipulation both animals could simultaneously carry the full kedusha of a todah.
 
 ### Rabbi Rejects
 
@@ -150,7 +150,7 @@ Furthermore, the Mishna notes that even when use of ma'aser sheni funds for the 
 
 ### Outside Bread Idea
 
-Rav Huna opens the Gemara on this Mishna with a related ruling: *ha'omer harei alai lachmei todah* — one who says I obligate myself to bring bread of a todah. What is the effect of such a declaration? The Gemara answers: *mevi todah ve-lachmah* — he must bring the todah with its bread. He cannot bring the bread alone, because everyone knows that lachmei todah without a todah is not a coherent entity. Therefore, when he said "lachmei todah," he must have meant the todah with its bread. The Gemara adds: *vehai todah ve-lachmah ka'amar* — by saying "bread of a todah," he was in effect articulating the complete obligation, since speaking of the end product — the bread — encompasses the primary item upon which it depends. *Sof milta nakat* — he described the terminal component, but the whole package is implied.
+Rav Huna opens the Gemara on this Mishna with a related ruling: *ha'omer harei alai lachmei todah* — one who says I obligate myself to bring bread of a todah. What is the effect of such a declaration? The Gemara answers: *mevi todah ve-lachmah* — he must bring the todah with its bread. He cannot bring the bread alone, because everyone knows that lachmei todah without a todah is not a coherent entity. Therefore, when he said "lachmei todah," he must have meant the todah with its bread. The Gemara adds: *vehai todah ve-lachmah ka'amar* — by saying "bread of a todah," he was in effect articulating the complete obligation, since speaking of the end product — the bread — encompasses the primary item upon which it depends. *sof milta nakat* — he described the terminal component, but the whole package is implied.
 
 ### Four Loaves Inside
 

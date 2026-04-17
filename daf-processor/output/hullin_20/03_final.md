@@ -28,19 +28,16 @@ The Gemara anchors this in the relevant pasuk: u-malako mimul orpo — the kohen
 
 ### Mimul Orpo Drasha
 
-*[Continued from above]*
 
 The Gemara then asks: minah haini milei — how do we know this location? The Baraita teaches: mimul orpo — mul ha-ro'eh es ha-oref — facing what sees the oref. That is, the melika must be done at the place that is, as it were, facing the oref from below: the back of the neck. This is supported by the verse *ve-hu yosheiv mimuli* — "he sits opposite me" — where mimul clearly means facing, or in front of. So if the oref is the lower back of the skull, then mimul orpo is the back of the neck, the area immediately beneath it and oriented toward it.
 
 ### Oref Opposite the Face
 
-*[Continued from above]*
 
-The Gemara then cites a second verse to establish the meaning of oref itself — for without knowing where the oref is, we cannot know what is mimul it. Ve-chi teima oref gufei lo yadnan heicha — we don't know where the oref itself is located. Ta shema: ki fanu eilai oref velo fanim — "they turned to me their oref and not their face." *Miklal de-oref la-hadei fanim* — this shows that the oref is directly opposite the face. If the face is the front, the oref is the back of the head, and mimul oref — opposite or facing the oref — is the back of the neck.
+The Gemara then cites a second verse to establish the meaning of oref itself — for without knowing where the oref is, we cannot know what is mimul it. Ve-chi teima oref gufei lo yadnan heicha — we don't know where the oref itself is located. Ta shema: ki fanu eilai oref velo fanim — "they turned to me their oref and not their face." *miklal de-oref la-hadei fanim* — this shows that the oref is directly opposite the face. If the face is the front, the oref is the back of the head, and mimul oref — opposite or facing the oref — is the back of the neck.
 
 ### Am Keshei Oref
 
-*[Continued from above]*
 
 This prompts a brief observation: the classic phrase am keshei oref — the stiff-necked people — takes on an unexpected dimension. If oref itself refers to the back of the head rather than the neck, what does it mean to have a stiff oref? A stiff neck suggests an unwillingness to turn, to do teshuvah — but a stiff back of the head is a less intuitive image. The question is noted without a clear resolution.
 
@@ -92,7 +89,6 @@ This reading is admittedly somewhat forced, since the plain sense of the Mishnah
 
 ### Melika With a Tooth?
 
-*[Continued from above]*
 
 Tosafot takes this seriously. The basis for using a fingernail for melika derives from the verse u-malako, which is expounded as be-atzmo shel kohen — the melika must be performed with the body of the kohen himself. If so, Tosafot reasons, perhaps the kohen's tooth is equally valid — after all, the requirement is that it be part of his own body, and the tooth qualifies. The only question Tosafot raises is whether the right-side requirement applies: every act performed by the kohen in the avodah must be done with the right hand. But a tooth does not have a right and a left, and Tosafot suggests that the requirement of using the right may apply only to a limb or appendage that possesses a right-left distinction. Where no such distinction applies, perhaps the right-side requirement does not operate. Tosafot therefore reads this Gemara as allowing, in principle, for melika to be performed with the kohen's tooth.
 
@@ -108,13 +104,11 @@ The Gemara objects to the Rabbah bar bar Chana reading as well: shen ve-tzippore
 
 ### Bnei Chiya & Molich u-Me…
 
-*[Continued from above]*
 
 The Gemara then reasons: henicha le-man de'amar molich u-mevi bi-melika pasul — this reading of the Mishnah works perfectly if we hold that the back-and-forth motion is invalid for melika. But ela le-man de'amar kasher — if we hold that the back-and-forth motion is actually valid for melika, then Rabbi Yirmiya's reading collapses, and we would need to revert to the reading that the Mishnah is excluding *machzir simanim*. Benei Rabbi Chiya savrei lah ke-man de'amar molich u-mevi bi-melika pasul — the bnei Rabbi Chiya would hold that the horizontal sawing motion is invalid for melika. Therefore, from their perspective, the Mishnah's concluding formulation is not addressing the *machzir simanim* case at all; it is addressing the motion — what is valid for shechita (the horizontal cut) is invalid for melika, and what is valid for melika (the piercing motion) is invalid for shechita. This allows their position on *machzir simanim* to remain technically intact, even if Rav Yannai has largely dismantled it from another direction.
 
 ### Melika vs. Shechita Summ…
 
-*[Continued from above]*
 
 At this point it is worth summarizing the several dimensions in which melika differs from shechita. First, location: melika must be performed from the back of the neck, which by shechita would render the animal a treifa or a neveilah by breaking the spinal cord before reaching the simanim. Second, motion: shechita requires the horizontal sawing motion of molich u-mevi, while melika requires the piercing, downward kotzetz ve-yored motion; these motions are mutually exclusive as valid acts for their respective procedures. Third, instrument: shechita requires a detached knife, and according to Rabbi, an attached object cannot serve; melika by contrast is performed with the kohen's own fingernail — or, according to Tosafot's reading, potentially with his tooth — which is precisely what would be invalid for shechita.
 
@@ -132,7 +126,6 @@ Amar Rav Kahana: *mitzvas melika* — kotzetz ve-yored. Rav Kahana states that t
 
 ### Rav Ami vs. R' Yirmiya
 
-*[Continued from above]*
 
 Sevar Rav Ami lemeimar: kotzetz ve-yored — in, molich u-mevi — lo. Rav Ami assumed that Rav Kahana's formulation was exclusive: the piercing downward cut is valid, the horizontal back-and-forth motion is not. Amar lei Rabbi Yirmiya: kol shekein de-molich u-mevi bi-melika kasher — Rabbi Yirmiya pushes back, arguing that certainly the horizontal motion should be valid for melika. If the downward piercing is valid, the conventional cutting motion should be at least equally acceptable. U-mah zu hi mitzvasah — eima af zu hi mitzvasah: the statement "this is its mitzvah" means only that this is also an acceptable method, not that it is the exclusive one. This is a direct parallel to the earlier debate about *machzir simanim* — the same question of whether a formulation stating a preferred method implies that other methods are excluded (davka) or merely that they are also acceptable (af).
 
@@ -146,9 +139,8 @@ Amar Rabbi Yirmiya amar Shmuel: kol ha-kasher bi-shchita, kenegdo ba-oref *kashe
 
 ### Pasul Shechita = Pasul M…
 
-*[Continued from above]*
 
-The Gemara then extrapolates the inverse: ha-pasul bi-shchita pasul bi-melika — what is invalid for shechita is invalid for melika. *Lema'utei mai* — what is this coming to exclude? Ileima lema'utei ikur simanim — perhaps it comes to exclude the case where the simanim have been uprooted. The psul of ikur simanim is one of the invalidating conditions of shechita: if the trachea or esophagus has somehow been wrenched or detached from its natural embedded position within the flesh of the animal's throat — not merely torn through the cut, but physically displaced from where it sits — the shechita is invalid. Rashi in several places describes this as rendering the animal a treifa, though Tosafot argues cogently that we never find ikur simanim listed as a treifa condition, and that it is better understood as a psul she-chitah — a defect in the act of shechita itself, requiring that the simanim be in their proper anatomical position for the shechita to be valid. The question, then, is whether ikur simanim similarly invalidates melika.
+The Gemara then extrapolates the inverse: ha-pasul bi-shchita pasul bi-melika — what is invalid for shechita is invalid for melika. *lema'utei mai* — what is this coming to exclude? Ileima lema'utei ikur simanim — perhaps it comes to exclude the case where the simanim have been uprooted. The psul of ikur simanim is one of the invalidating conditions of shechita: if the trachea or esophagus has somehow been wrenched or detached from its natural embedded position within the flesh of the animal's throat — not merely torn through the cut, but physically displaced from where it sits — the shechita is invalid. Rashi in several places describes this as rendering the animal a treifa, though Tosafot argues cogently that we never find ikur simanim listed as a treifa condition, and that it is better understood as a psul she-chitah — a defect in the act of shechita itself, requiring that the simanim be in their proper anatomical position for the shechita to be valid. The question, then, is whether ikur simanim similarly invalidates melika.
 
 ### Ikur Simanim ba-Of
 
@@ -204,7 +196,6 @@ Amar Ravina amar li Rabin bar Kisi: ha de-tani Rami bar Yechezkel ein ikur siman
 
 ### Conflicts with Shmuel
 
-*[Continued from above]*
 
 This position, however, stands in tension with the principle stated earlier by Shmuel: kol ha-kasher bi-shchita kenegdo ba-oref *kasher bi-melika*, ha poslo poslo — what is valid for shechita is valid for melika, and what is invalid for shechita is invalid for melika. If ikur simanim is a psul for shechita of birds but not for melika, this directly contradicts Shmuel's symmetry principle. Ha pligu — yes, Ravina's position is in explicit disagreement with Shmuel's rule. The two positions reflect genuinely competing frameworks for understanding the relationship between shechita and melika.
 
@@ -212,15 +203,13 @@ This position, however, stands in tension with the principle stated earlier by S
 
 ### Shechita vs. Death Intro
 
-*[Continued from above]*
 
 A broader question lurks beneath all of these discussions: is shechita a legal definition of an act, or is it a definition of the moment of death? When the Gemara speaks of shechita and the categories that follow from it, is it determining only whether the required ritual act has been performed, or is it also determining when, halachically, the animal has died? This question has bearing on fundamental issues far beyond the laws of korbanot.
 
 ### Ben Noach & Eiver Min Ha…
 
-*[Continued from above]*
 
-An illuminating example is the following case discussed in the Gemara: if one performs shechita on an animal and the animal continues to thrash — which it will do for some time after a valid shechita — a Jew may take a piece of meat from that animal and eat it, because the animal is halachically shechted. However, if a *Ben Noach* were to take a piece of meat from that same animal while it is still thrashing, he would be liable for eiver min ha-chai — the prohibition against taking a limb from a living animal. The Jew is exempt because he operates within a halachic category of shechita; once shechita is performed, the meat is permissible. The *Ben Noach* has no such category; he has only the concepts of alive and dead, and from his perspective the animal is still alive.
+An illuminating example is the following case discussed in the Gemara: if one performs shechita on an animal and the animal continues to thrash — which it will do for some time after a valid shechita — a Jew may take a piece of meat from that animal and eat it, because the animal is halachically shechted. However, if a *ben noach* were to take a piece of meat from that same animal while it is still thrashing, he would be liable for eiver min ha-chai — the prohibition against taking a limb from a living animal. The Jew is exempt because he operates within a halachic category of shechita; once shechita is performed, the meat is permissible. The *ben noach* has no such category; he has only the concepts of alive and dead, and from his perspective the animal is still alive.
 
 This case raises a profound question: does shechita halachically constitute the death of the animal, such that for the Jew the animal is considered dead even while it thrashes? Or does the halachic category of shechita operate independently of life and death, rendering the meat permissible even if the animal is still technically alive? These are two very different frameworks. One says that death is a legal definition — and the Jew's definition of when death occurs differs from the non-Jew's. The other says that life and death are not the operative categories here; rather, shechita permits the meat regardless of the animal's biological status.
 
@@ -300,13 +289,11 @@ This is a demanding halakhic requirement: a piercing cut through the backbone th
 
 ### Treifa Midway Is Normal
 
-*[Continued from above]*
 
 Rashi takes care to address an obvious question: the procedure just described involves cutting through the backbone, which creates a fatal wound — rendering the bird a treifa — before the simanim are cut. Why is that acceptable? Rashi explains that this is not a conceptual problem at all, because every act of shechita works this way. At any moment during a valid shechita, if one were to stop halfway, the animal would be a treifa. Part of shechita is necessarily passing through a phase in which the animal has a mortal wound but is not yet fully shechted. The act of shechita itself creates a treifa as it proceeds and then completes the act. What is unacceptable is performing shechita on an animal that is already a neveilah before the act begins. Being in a state of treifa midway through the act is inherent to shechita and does not invalidate it. The problem arises only if the animal has already been halachically killed — made a neveilah — before the melika reaches the simanim.
 
 ### Brain Death & Neveila
 
-*[Continued from above]*
 
 This sugya is cited by some in the context of the halachic debate over brain death, and it is worth examining both what it potentially establishes and where the argument has limits.
 

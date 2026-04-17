@@ -1,6 +1,9 @@
 # iOS secrets — never commit
 AnyDaf/Secrets.swift
 
+# daf-processor secrets — never commit
+daf-processor/.env
+
 # Xcode
 *.xcuserstate
 xcuserdata/

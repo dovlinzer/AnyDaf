@@ -8,7 +8,6 @@
 
 ### Physical Act vs. Intenti…
 
-*[Continued from above]*
 
 The daf opens by returning to the Mishna's ruling that a cheresh, shoteh, and katan may perform shechita, provided that an observer confirms the technical correctness of the act. This ruling immediately raises a foundational question: is shechita fundamentally a physical act, or does it require kavana — intention, the awareness that one is actually slaughtering an animal?
 
@@ -16,13 +15,11 @@ On one level, the Mishna itself seems to answer this question. The cheresh, shot
 
 ### Non-Agency & Halakhic St…
 
-*[Continued from above]*
 
 The distinction deserves emphasis. Daat, in the halakhic sense, is not merely describing the presence or absence of thought. It refers to a threshold category of legal agency — the recognized capacity to effect changes of halakhic status, to be a party to a transaction, to function as a full agent within the law. Cheresh, shoteh, and katan are categorically excluded from this category. They are not bnei daat, and no act they perform that fundamentally depends on this kind of legal personhood will be recognized by halakha, regardless of whether they are physically capable of performing it.
 
 ### Daat vs. Kavana
 
-*[Continued from above]*
 
 Kavana is different. Kavana refers to intention in a narrower, more immediate sense — awareness of what one is doing, directedness toward a specific act. The question the Gemara is exploring is whether shechita requires this, and whether a cheresh, shoteh, or katan can supply it. These are two separate inquiries. The prior analysis, which implied that perhaps shechita requires no intention at all, was one possible answer. But the Gemara now wants to examine more carefully what the law does and does not acknowledge from these individuals when it comes to something more specific than full daat — namely, the question of machshava, of intention in the sense of directed thought or purpose.
 
@@ -52,11 +49,10 @@ The Mishna regarding vessels made from gourds already established a clear distin
 >
 > **Translation:** Rabbi Ḥiyya bar Abba **said to** Rabbi Ami: With regard to a case of effecting a halakhic status by means of **thought alone,** Rabbi Yoḥanan **does not raise a dilemma. When he raises a dilemma,** it is with regard to a case where **his thought is discernible from his actions.**
 
-Rabbi Yochanan's actual question concerns the middle case: machshavto nikeret mitoch maasav — where the intention is evident from the action, but the action is not completely self-evident. The example that follows involves a *korban olah*. A *korban olah*, as a *kodshei kodashim*, must be slaughtered in the north of the *Beit HaMikdash*. If the animal is standing in the south and the cheresh, shoteh, or katan brings it to the north and slaughters it there, the action strongly suggests that he knows it is an olah and is performing *shechitat olah*. But it is not entirely unambiguous — perhaps he moved it north simply because there was insufficient room in the south. The action points toward a specific intention, but does not definitively establish it. This is the middle case.
+Rabbi Yochanan's actual question concerns the middle case: machshavto nikeret mitoch maasav — where the intention is evident from the action, but the action is not completely self-evident. The example that follows involves a *korban olah*. A *korban olah*, as a *kodshei kodashim*, must be slaughtered in the north of the *beit haMikdash*. If the animal is standing in the south and the cheresh, shoteh, or katan brings it to the north and slaughters it there, the action strongly suggests that he knows it is an olah and is performing *shechitat olah*. But it is not entirely unambiguous — perhaps he moved it north simply because there was insufficient room in the south. The action points toward a specific intention, but does not definitively establish it. This is the middle case.
 
 ### Tosafot's Framework
 
-*[Continued from above]*
 
 Tosafot's interpretation of this entire discussion has a coherent inner logic that deserves careful articulation. According to Tosafot, when the Mishna says ein lahem machshava — they do not have machshava — it means that halakha categorically declines to give any weight to their stated intentions. It does not matter what a katan says he intends, nor does it matter that he says it while performing an action. His words about his inner state are simply not acknowledged. Halakha cannot take that route.
 
@@ -66,7 +62,6 @@ This framework resolves a deeper question about the nature of kavana requirement
 
 ### Rashi's Framework
 
-*[Continued from above]*
 
 Rashi frames the question differently. For Rashi, the issue is not a categorical refusal to acknowledge a katan's intention, but rather a question of evidentiary credibility: when can we believe that a katan's stated intention represents his genuine mental state? If he merely states an intention without performing any corresponding action, we do not believe him. If he states his intention and then performs an action that substantiates it — that corresponds to and confirms what he said — then we do believe him, and halakha acknowledges that intention. The middle case, for Rashi, is when a katan performs an action without a corresponding verbal statement of intention. In that circumstance, it is uncertain whether we can infer his intention from the action alone.
 
@@ -126,19 +121,16 @@ The answer is: *de'oraisa o derabanan* — is the weight of these categories bib
 
 ### Intention Never Valid
 
-*[Continued from above]*
 
 Ein lahem machshava ve-afilu miderabanan: their intention alone — machshava gureita, without any action — has no weight whatsoever, not even rabbinically, not even to be strict.
 
 ### Middle Case Level
 
-*[Continued from above]*
 
 The middle case — machshavto nikeret mitoch maasav, where the intention is evident from the action but with some degree of ambiguity — occupies an intermediate position. *mide'oraisa ein lo*: it has no biblical weight. Miderabanan yesh lo: it does carry rabbinic weight. According to Rashi's reading, this means that in the middle case we would be strict rabbinically — we would treat the fruit as susceptible to tumah, for instance — but we would not rely on it for biblical leniencies.
 
 ### Kavana's Role
 
-*[Continued from above]*
 
 This is a central Gemara — not only regarding the specific laws of cheresh, shoteh, and katan, but regarding halakhic categories of broad applicability. Three concepts emerge in sharp relief. Daat is the threshold category of full legal agency, through which one effects halakhic changes by virtue of one's recognized legal personhood; cheresh, shoteh, and katan are categorically excluded. Kavana is the narrower question of directed intention within an act; this is where the nuanced analysis of action versus machshava applies. And the philosophical question underlying it all — whether kavana is an independent criterion or merely the definer of the type of action being performed — is, as Tosafot frames it, resolved in favor of the latter. Halakha, when dealing with a katan, does not attempt to enter his mind. It observes the objective character of his action and classifies it accordingly. If that classification is unambiguous, it has full force. If it carries some ambiguity, it has only rabbinic force. If there is no action to classify, there is nothing halakhically to acknowledge at all.
 
@@ -156,19 +148,16 @@ The Gemara now introduces a related question concerning korbanot. Shmuel asked R
 
 ### Korban Requirement
 
-*[Continued from above]*
 
-The Gemara cites a verse: ve-shachat et ben habakar — you shall slaughter the cattle. The derash is: *Shetehei shechita leshem ben bakar* — the shechita must be performed with the awareness that one is slaughtering an animal. For a korban, unlike for chulin, it is not sufficient to have performed the physical motions of shechita incidentally; one must know that one is performing an act of shechita on an animal. The verse is then cited to establish not merely a lechatchila requirement but also that bedieved — after the fact — if this awareness was absent, the korban is invalid: *lirtzonchem tizbachu* — *Leda'atchem zivchu*, slaughter it with your knowledge.
+The Gemara cites a verse: ve-shachat et ben habakar — you shall slaughter the cattle. The derash is: *shetehei shechita leshem ben bakar* — the shechita must be performed with the awareness that one is slaughtering an animal. For a korban, unlike for chulin, it is not sufficient to have performed the physical motions of shechita incidentally; one must know that one is performing an act of shechita on an animal. The verse is then cited to establish not merely a lechatchila requirement but also that bedieved — after the fact — if this awareness was absent, the korban is invalid: *lirtzonchem tizbachu* — *leda'atchem zivchu*, slaughter it with your knowledge.
 
 ### Minor & Korban
 
-*[Continued from above]*
 
 This generates a further question: can a katan perform *shechitat kodashim*? That question folds back into the entire analysis of machshavto nikeret mitoch maasav and yesh lo maaseh. If, through the objective analysis of the action, it is self-evident that the katan knows he is slaughtering an animal — for instance, because the action itself makes this unmistakable — then according to the framework developed above, that self-evident action would have biblical weight and might suffice even for kodashim.
 
 ### Kedoshim Intent
 
-*[Continued from above]*
 
 Tosafot extends the analysis further. The requirement by kodashim is not only that one know one is slaughtering an animal, but that one know one is slaughtering a korban — a kodesh — and not treat the act as though it were *shechitat chulin*. If the shochet thought the animal was unconsecrated — chulin — then from the perspective of korbanot this is a completely incidental act: it is not *shechitat kodashim* at all. This is the broader meaning of mitasek in the context of kodashim according to Tosafot: not only that one was unaware of performing shechita, but that one was unaware one was dealing with a korban. The contrast with chulin is thus sharpened: by chulin the act may be purely physical; by kodashim one must be aware at least that one is performing shechita on an animal, and perhaps additionally that the animal is a korban.
 
@@ -194,7 +183,6 @@ The non-Jew is categorically excluded from the role of shochet. This is not a qu
 
 ### Avodah Zarah Concern
 
-*[Continued from above]*
 
 The Gemara immediately notes: neveilah in — yes it is neveilah — issur hana'ah lo — but it is not forbidden in benefit. This raises a concern: since the Gemara is dealing with a world saturated with paganism, where animal sacrifice was ubiquitous, should we not be concerned that when a non-Jew slaughters an animal, he intends it as an act of worship to his god? If so, the animal would be a sacrifice offered to *avodah zarah* and would be forbidden in benefit, not merely neveilah. The Mishna is not concerned with this, and the Gemara asks: who is the tanna who holds this position?
 
@@ -204,7 +192,6 @@ The Gemara immediately notes: neveilah in — yes it is neveilah — issur hana'
 
 ### Eliezer's Assumption
 
-*[Continued from above]*
 
 Rabbi Chiyya bar Abba in the name of Rabbi Yochanan answers: the Mishna does not follow Rabbi Eliezer. De-tani Rabbi Eliezer — for Rabbi Eliezer holds: stam machshavas oved kochavim *la-avodah zarah* — we assume that the default intention of a non-Jew, at least in the context of slaughtering an animal, is toward his idolatry. Even if he is slaughtering your animal, he will avail himself of the opportunity to dedicate the act to his god. According to Rabbi Eliezer, the slaughter of a non-Jew would therefore be forbidden in benefit.
 
@@ -218,7 +205,6 @@ The Gemara raises an objection: ve-ha niscaven al davar she-lo shelo — he inte
 
 ### Mainstream View
 
-*[Continued from above]*
 
 The mainstream view — not Rabbi Eliezer's — is that we do not assume stam that a non-Jew intends *avodah zarah* when slaughtering. Rabbi Ami, citing Rabbi Assi, proposes a more precise reading of the Mishna: shechitat oved kochavim neveilah — the ordinary non-Jew's slaughter is neveilah, not *avodah zarah*. But the Mishna is implicitly contrasting this with the case of a min — a Jew who has apostatized and committed himself to idol worship. *ha de-min ka-amar la-avodah zarah*: the slaughter of a min is indeed considered to be for the sake of *avodah zarah*. A Jew who has actively embraced idolatry is presumed to be directing his acts toward his avoda zarah, and his shechita would therefore be forbidden in benefit.
 
@@ -246,13 +232,11 @@ The Gemara answers in the name of Rav Nachman citing Rabbah bar Avuha: ein minim
 
 ### Custom vs. Belief
 
-*[Continued from above]*
 
 This qualification is grounded in the position of Rabbi Chiyya bar Abba in the name of Rabbi Yochanan: nochrim she-be-*chutz la-aretz* lav ovdei kochavim hein — non-Jews who live outside of the Land of Israel are not genuine idolaters. Ella minhag avoteihen bi-yadeihem — they are simply following the custom of their ancestors. Their religious practice is rote and cultural, not a matter of sincere theological commitment. This observation was made in the context of the late Roman world, where pagan religion had become increasingly pro forma, and where the intellectual and spiritual ground was being prepared — precisely because of this shallowness — for the rise of monotheistic alternatives.
 
 ### Medieval Application
 
-*[Continued from above]*
 
 This ruling was invoked extensively by the medieval authorities, including Tosafot, to address the practical impossibility of observing the restrictions of Masechet *avodah zarah* in their dealings with Christian neighbors — and in some cases, even in selling objects that served Christian liturgical purposes. The argument was that the principle of minhag avoteihen — that non-Jews practice their religion as mere inherited custom rather than sincere belief — applies to medieval Christianity as well, rendering it less than full *avodah zarah* in the operative halakhic sense. Whether this accurately described the religious reality of medieval Christians is a separate question; the principle functioned as what one might call a halakhic framework, applied to resolve genuinely difficult practical problems, even where the empirical conditions of the original ruling no longer clearly obtained.
 
@@ -270,7 +254,6 @@ The Gemara (continuing the discussion of minim) now refines the halakhic meaning
 
 ### Execution Rule
 
-*[Continued from above]*
 
 The Gemara then considers whether the ruling applies to the other law concerning minim — that one is obligated to cause their death. Here the *kal vachomer* runs in the same direction: if a Jewish min is subject to this, certainly a non-Jewish min would be. So the ruling cannot be introducing a distinction on that basis either, since no difference would make sense.
 

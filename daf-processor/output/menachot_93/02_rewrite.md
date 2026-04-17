@@ -4,13 +4,13 @@
 
 ### Communal & Individual
 
-The daf begins at the bottom of 92b, where the Mishnah turns from the various questions of measure to the laws of semichah — the act of laying hands upon the korban. The Mishnah states: *Kol korbanos hayachid te'unin semichah* — all individual korbanot require semichah. We had already learned that communal korbanot are essentially two: the par for helam davar, when the beis din rules incorrectly, and then there is a debate as to whether the second is the goat brought for avodah zarah when beis din rules incorrectly, or the goat for azazel on Yom Kippur. The act of semichah on the se'ir hamishtale'ach is something we recall every Yom Kippur in the Mussaf avodah, though the question of whether it constitutes classic semichah turns on whether the kohanim themselves are considered part-owners of that korban.
+The daf begins at the bottom of 92b, where the Mishnah turns from the various questions of measure to the laws of semichah — the act of laying hands upon the korban. The Mishnah states: *kol korbanos hayachid te'unin semichah* — all individual korbanot require semichah. We had already learned that communal korbanot are essentially two: the par for helam davar, when the beis din rules incorrectly, and then there is a debate as to whether the second is the goat brought for avodah zarah when beis din rules incorrectly, or the goat for azazel on Yom Kippur. The act of semichah on the se'ir hamishtale'ach is something we recall every Yom Kippur in the Mussaf avodah, though the question of whether it constitutes classic semichah turns on whether the kohanim themselves are considered part-owners of that korban.
 
 The Mishnah now turns to individual korbanot, stating that all require semichah — the chatas, the asham, the olah, the shelamim — with the exception of the bechor, ma'aser, and pesach. This is a striking exception. The excluded three are obligatory korbanot, yet they fall into a kind of intermediate category: they are obligatory, but they are kodshim kalim. The chatas and asham, also obligatory, do require semichah. The free-will korbanot — olah and shelamim — also require it. Only these three fall between the cracks.
 
 ### Mishnah Overview
 
-The Gemara proceeds through a baraita: *Korbano* — the possessive form, "his korban" — is written three times in the context of semichah by shelamim, and each instance is understood as an exclusionary term. The Torah says *v'samach yado al rosh korbano* — he shall place his hand on the head of his korban — and the possessive ו signals that it refers to some offerings but not all.
+The Gemara proceeds through a baraita: *korbano* — the possessive form, "his korban" — is written three times in the context of semichah by shelamim, and each instance is understood as an exclusionary term. The Torah says *v'samach yado al rosh korbano* — he shall place his hand on the head of his korban — and the possessive ו signals that it refers to some offerings but not all.
 
 From the first *korbano*: not the bechor. From the second: not ma'aser. From the third: not the pesach.
 
@@ -38,7 +38,7 @@ The bechor, ma'aser, and pesach fall into neither category. They are not atoning
 
 Although this understanding does not appear explicitly in the Gemara, the Rambam develops a strikingly parallel idea. He writes *yeira'eh li* — it would seem to me — that when bringing a shelamim one should also recite a verbal declaration. This is remarkable: the Rambam is introducing, without direct Talmudic backing, the principle that every korban requires some form of verbal declaration at the moment of semichah to designate its function.
 
-What precisely does one say? For a chatas or asham, the Rambam specifies: *Chatasi, avisi, pashati, v'asisi kach v'kach, v'chazarti b'teshuvah lefanecha, v'zu kaparasi* — I have sinned, transgressed, committed iniquity, done such-and-such, I have returned in teshuvah before You, and this is my atonement. Notably, the Rambam incorporates teshuvah into the formula of the korban, which is theologically significant. For the shelamim, he says *yeira'eh li* — it appears to me — that one does not recite viduy but does recite *divrei shevach*, words of praise and thanksgiving.
+What precisely does one say? For a chatas or asham, the Rambam specifies: *chatasi, avisi, pashati, v'asisi kach v'kach, v'chazarti b'teshuvah lefanecha, v'zu kaparasi* — I have sinned, transgressed, committed iniquity, done such-and-such, I have returned in teshuvah before You, and this is my atonement. Notably, the Rambam incorporates teshuvah into the formula of the korban, which is theologically significant. For the shelamim, he says *yeira'eh li* — it appears to me — that one does not recite viduy but does recite *divrei shevach*, words of praise and thanksgiving.
 
 The Rambam's formulation strongly supports the understanding that semichah is fundamentally about designating the personal meaning and function of the korban. This is precisely what is lacking — and therefore not required — by bechor, ma'aser, and pesach. There is nothing personal to declare.
 
@@ -52,7 +52,7 @@ The Gemara accepts this point: *kra asmachto be'alma* — the verses excluding b
 
 ### Rashi's View
 
-The Gemara answers: *Korbano velo korban chaveiro* — his korban and not the korban of another. One may not perform semichah on someone else's korban; the act must be performed by the owner on his own offering. Additionally, *korbano velo korban oved kochavim* — a non-Jew's korban does not require semichah. As is noted, this is not entirely distinct from the exclusion of *korban chaveiro*, since the assumption that a non-Jew does not enter the Azara — though this is only a rabbinic restriction — would mean that any non-Jew's korban would necessarily be brought by someone else, making the problem of performing semichah on another's korban automatic. The separate derivation is nevertheless needed according to the logic of the Gemara.
+The Gemara answers: *korbano velo korban chaveiro* — his korban and not the korban of another. One may not perform semichah on someone else's korban; the act must be performed by the owner on his own offering. Additionally, *korbano velo korban oved kochavim* — a non-Jew's korban does not require semichah. As is noted, this is not entirely distinct from the exclusion of *korban chaveiro*, since the assumption that a non-Jew does not enter the Azara — though this is only a rabbinic restriction — would mean that any non-Jew's korban would necessarily be brought by someone else, making the problem of performing semichah on another's korban automatic. The separate derivation is nevertheless needed according to the logic of the Gemara.
 
 ### Viduy & Declaration
 
@@ -122,13 +122,13 @@ This is illustrated by considering the scenario where someone sanctifies a korba
 
 ### Shiyrei Mitzvah
 
-The non-Jew's exclusion from semichah is derived from the verse at the opening of Vayikra — *Daber el Bnei Yisrael* — which restricts the obligation of semichah to the children of Israel: *Bnei Yisrael somchin ve'ein ovdei kochavim somchin*.
+The non-Jew's exclusion from semichah is derived from the verse at the opening of Vayikra — *daber el bnei yisrael* — which restricts the obligation of semichah to the children of Israel: *bnei yisrael somchin ve'ein ovdei kochavim somchin*.
 
 ### Mental Capacity
 
 The exclusion of the blind person requires derivation, and two amoraim dispute its source. One holds: *atya semicha semicha mi'Ziknei ha'Edah* — we derive the law of semichah by a gezeirah shavah from the elders who perform semichah by the par helam davar. Since members of the Sanhedrin cannot be blind, and those elders perform semichah, we apply that restriction to semichah performed by individuals.
 
-The other holds: *atya semicha semicha mi'Olat Re'iyah* — we derive it from the korban of the olat re'iyah, the obligatory olah brought on the three regalim. The Gemara there makes the famous drasha: *yireh yira'eh* — just as it says you shall appear before God, so too you must be able to see. *Keshem sheba'im leira'ot kach ba'im lirot* — just as they come to be seen, so they come to see. One who is blind, even in one eye, is exempt from olat re'iyah, and therefore exempt from the semichah associated with it. By extension, this restriction on semichah applies universally.
+The other holds: *atya semicha semicha mi'Olat Re'iyah* — we derive it from the korban of the olat re'iyah, the obligatory olah brought on the three regalim. The Gemara there makes the famous drasha: *yireh yira'eh* — just as it says you shall appear before God, so too you must be able to see. *keshem sheba'im leira'ot kach ba'im lirot* — just as they come to be seen, so they come to see. One who is blind, even in one eye, is exempt from olat re'iyah, and therefore exempt from the semichah associated with it. By extension, this restriction on semichah applies universally.
 
 It is worth noting that the simple reading of the pasuk is actually *yireh et pnei Hashem Elokecha*, where *et* marks the object of the verb — meaning the person does the seeing of God's presence. The more anthropomorphic implication prompted the traditional reading as *yira'eh* — he shall appear. The drasha in a sense restores the plain meaning: the verse really does speak of the person seeing, and that requires sight.
 
@@ -162,7 +162,7 @@ The Gemara concludes that all three exclusions are necessary: each presents an i
 
 ### Verse Analysis
 
-The Mishnah describes semichah as *she'yarei mitzvah* — the remnant of the mitzvah. This phrase, which the Gemara also uses in connection with tenufah and similar acts, conveys that while semichah is a genuine and important mitzvah, its omission does not disqualify the korban. *Be'dieved*, the korban still achieves its purpose.
+The Mishnah describes semichah as *she'yarei mitzvah* — the remnant of the mitzvah. This phrase, which the Gemara also uses in connection with tenufah and similar acts, conveys that while semichah is a genuine and important mitzvah, its omission does not disqualify the korban. *be'dieved*, the korban still achieves its purpose.
 
 ### Blood & Semichah
 

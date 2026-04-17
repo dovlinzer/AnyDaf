@@ -70,7 +70,7 @@ Tosafot raises a significant methodological objection. We learned the *issaron*-
 
 The Gemara answers: *himenu ve-davar akher hu* — it is "from it and another thing." The principle is that when you are already learning something locally from B to C — in this case, the equivalence of *chametz* and *matzah* flour directly from the verse — then you may *schlepp* along what you additionally learned from A. This is the distinction between a pure daisy-chain, which is prohibited, and a piggyback, which is permitted: since the connection from the *chametz* to the *matzah* is established on its own terms, one may bring along the measure of *asara esronot* as well.
 
-The Gemara then asks: what of the opinion that even *himenu ve-davar akher* is still considered a *hekkesh* and is therefore forbidden? *Mai ika le-meimar?*
+The Gemara then asks: what of the opinion that even *himenu ve-davar akher* is still considered a *hekkesh* and is therefore forbidden? *mai ika le-meimar?*
 
 ### Matzos Klal Prat
 

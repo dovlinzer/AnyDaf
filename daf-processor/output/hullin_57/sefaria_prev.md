@@ -1,0 +1,61 @@
+### Hullin 56b
+
+**1.**
+*Hebrew/Aramaic:* בְּגִילָא דְּחִיטְּתָא.
+*Translation:* **by** dragging **a wheat straw** over the membrane to see if it would catch on a perforation.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁיזְבִי: הָנֵי אֲוָוזֵי דִּידַן כְּעוֹף שֶׁל מַיִם דָּמְיָין.
+*Translation:* **Rav Sheizvi said: Our geese are considered like water birds.** If the skull of a goose is broken, even if the membrane is not perforated, it is a *tereifa*.
+
+**3.**
+*Hebrew/Aramaic:* נָפְלָה לָאוּר, אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יוֹסֵי בֶּן יְהוֹשֻׁעַ: שִׁיעוּר יְרוּקָּתָן כְּשִׁיעוּר נְקוּבָתָן, מָה נְקוּבָתָן בְּמַשֶּׁהוּ – אַף יְרוּקָּתָן בְּמַשֶּׁהוּ.
+*Translation:* § The mishna states: In a case where a bird **fell into the fire** and its innards were singed, if they turned green the bird is a *tereifa*; if they are red the bird is kosher. **Rabbi Yoḥanan says in the name of Rabbi Yosei ben Yehoshua: The measure of their** turning **green is like the measure of their perforation. Just as their perforation in any amount** renders them a *tereifa*, **so too their turning green in any amount** renders them a *tereifa*.
+
+**4.**
+*Hebrew/Aramaic:* בְּעָא מִינֵּיהּ רַב יוֹסֵף בְּרֵיהּ דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מֵרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הוֹרִיקָה כָּבֵד כְּנֶגֶד בְּנֵי מֵעַיִים מַהוּ? אֲמַר לֵיהּ: טְרֵפָה. וְלֹא יְהֵא אֶלָּא נִיטְּלָה! אָמַר רָבָא: כֵּיוָן שֶׁהוֹרִיקָה כָּבֵד כְּנֶגֶד בְּנֵי מֵעַיִים – בְּיָדוּעַ שֶׁנָּפְלָה לָאוּר, וְנֶחְמְרוּ בְּנֵי מֵעַיִים, וּטְרֵפָה.
+*Translation:* **Rav Yosef, son of Rabbi Yehoshua ben Levi, asked Rabbi Yehoshua ben Levi: If a liver turned green** on the side **facing the intestines, what is** the *halakha*? Rabbi Yehoshua ben Levi **said to him:** The bird is **a *tereifa*.** Rav Yosef **said to him: But** this *halakha* **should be no more** stringent than that of a case where the liver was **removed** and an olive-bulk remained (see 54a), in which case the bird is kosher. Therefore, as long as an olive-bulk remains red, the bird should be kosher. **Rava said: Since the liver turned green facing the intestines, it is certain that** the bird **fell into the fire and the intestines** themselves **were singed, and** this is why the animal is **a *tereifa*,** not because of the liver per se.
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי הַוְיָא לֵיהּ הָהִיא תַּרְנְגוֹלְתָּא, שַׁדְּרֵיהּ לְקַמֵּיהּ דְּרַבִּי אֶלְעָזָר הַקַּפָּר בְּרִיבִּי, אֲמַר לֵיהּ: יְרוּקִּין הֲווֹ, וְאַכְשְׁרַהּ. וְהָאֲנַן תְּנַן: ״יְרוּקִּין פְּסוּלִין״! לֹא אָמְרוּ ״יְרוּקִּין פְּסוּלִין״ אֶלָּא בַּקּוּרְקְבָן, בַּלֵּב וּבַכָּבֵד. תַּנְיָא נָמֵי הָכִי: בְּאֵלּוּ בְּנֵי מֵעַיִים אָמְרוּ – בַּקּוּרְקְבָן, בַּלֵּב וּבַכָּבֵד.
+*Translation:* The Gemara recounts: **Rabbi Yehoshua ben Levi had a certain hen** that fell into the fire. After it was slaughtered, **he sent it before the distinguished Rabbi Elazar HaKappar and said to him:** Its innards **were green, and** Rabbi Elazar HaKappar **deemed it kosher.** Rabbi Yehoshua ben Levi asked: **But didn’t we learn** in the mishna: If they turned **green** they are **unfit?** Rabbi Elazar HaKappar said to him: The Sages **said** that if they turned **green** they are **unfit only with regard to the gizzard, the heart, and the liver,** which are naturally red. Other innards of a hen, such as the intestines, are naturally green, and a green appearance in them does not render the hen a *tereifa*. The Gemara notes: **This is also taught** in a *baraita*: **Concerning which innards did they say** that a green appearance renders the bird a *tereifa*? Only **concerning the gizzard, the heart, and the liver.**
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי יִצְחָק בַּר יוֹסֵף הֲוָה לֵיהּ הָהִוא תַּרְנְגוֹלְתָּא, שַׁדְּרַהּ לְקַמֵּיהּ דְּרַבִּי אֲבָהוּ, וַאֲמַר לֵיהּ: אֲדוּמִּין הֲווֹ וּטְרֵפָה. וְהָאֲנַן תְּנַן: ״אֲדוּמִּין כְּשֵׁרִים״! אֲמַר לֵיהּ: אֲדוּמִּין שֶׁהוֹרִיקוּ וִירוּקִּין שֶׁהֶאֱדִימוּ – טְרֵפָה, לֹא אָמְרוּ ״אֲדוּמִּין כְּשֵׁרִים״ אֶלָּא בַּלֵּב בַּקּוּרְקְבָן וּבַכָּבֵד.
+*Translation:* The Gemara recounts: **Rabbi Yitzḥak bar Yosef had a certain hen** that fell into the fire. After it was slaughtered, **he sent it before Rabbi Abbahu and said to him:** Its innards **were red, and** Rabbi Elazar HaKappar **deemed it a *tereifa*.** Rabbi Yitzḥak bar Yosef asked: **But didn’t we learn** in the mishna: If they are **red,** the bird is **kosher?** Rabbi Elazar HaKappar **said to him: Red** innards **that turned green and green** innards **that turned red** render the animal **a *tereifa*.** The Sages **said** in the mishna that **red** innards **are kosher only with regard to the heart, the gizzard, and the liver,** because these organs are naturally red. Organs that are naturally green, however, render the bird a *tereifa* if they have turned red.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב שְׁמוּאֵל בַּר חִיָּיא אָמַר רַבִּי מָנִי: אֲדוּמִּין שֶׁהוֹרִיקוּ וּשְׁלָקָן וְחָזְרוּ וְהֶאֱדִימוּ – כְּשֵׁרִין, מַאי טַעְמָא? קוּטְרָא עָיֵיל בְּהוּ. אָמַר רַב נַחְמָן בַּר יִצְחָק: אַף אָנוּ נֹאמַר, אֲדוּמִּין שֶׁלֹּא הוֹרִיקוּ וּשְׁלָקָן וְהוֹרִיקוּ – טְרֵפָה, מַאי טַעְמָא? אִיגַּלַּאי בַּהְתַּיְיהוּ. אָמַר רַב אָשֵׁי: הִלְכָּךְ לָא לֵיכוֹל אִינָשׁ אֶלָּא בְּשִׁלְקָא. וְלָא הִיא, אַחְזוֹקֵי רֵיעוּתָא לָא מַחְזְקִינַן.
+*Translation:* **Rav Shmuel bar Ḥiyya says** that **Rabbi Mani says:** If **red** organs **turned green, and one boiled them and they turned red again, they are kosher. What is the reason?** This proves that they were not burned; rather, **smoke entered them** and changed their color temporarily. **Rav Naḥman bar Yitzḥak said: We, too, will say:** If **red** organs **did not turn green, and one boiled them and they** then **turned green,** the animal is **a *tereifa*. What is the reason? Their shame was revealed,** i.e., it is evident that they were in fact burned. **Rav Ashi said: Therefore,** even if a bird’s innards remain red after it fell in a fire, **a person may eat it only** if it is **boiled,** to be certain that the innards will not turn green. The Gemara rejects this: **But** that **is not so,** since **we do not presume** the existence of **a flaw** without evidence.
+
+**8.**
+*Hebrew/Aramaic:* דְּרָסָהּ וּטְרָפָהּ בַּכּוֹתֶל. אָמַר רַבִּי אֶלְעָזָר בֶּן אַנְטִיגְנוֹס מִשּׁוּם רַבִּי אֶלְעָזָר בְּרַבִּי יַנַּאי: אַחַת זוֹ וְאַחַת זוֹ צְרִיכָה בְּדִיקָה.
+*Translation:* § The mishna states: If a person **trampled** the bird, **or slammed it against a wall,** or if an animal crushed it, and it lasted twenty-four hours, and then one slaughtered it, it is kosher. **Rabbi Elazar ben Antigonus says in the name of Rabbi Elazar, son of Rabbi Yannai: Both this and that,** i.e., all of the above cases, **require inspection** after slaughter, to ascertain that there is no injury that would itself render the animal a *tereifa*.
+
+**9.**
+*Hebrew/Aramaic:* מַתְנִי׳ וְאֵלּוּ כְּשֵׁרוֹת בָּעוֹף: נִיקְּבָה הַגַּרְגֶּרֶת, אוֹ שֶׁנִּסְדְּקָה, הִכְּתָה חוּלְדָּה עַל רֹאשָׁהּ מָקוֹם שֶׁאֵינוֹ עוֹשֶׂה אוֹתָהּ טְרֵפָה, נִיקַּב הַזֶּפֶק, רַבִּי אוֹמֵר: אֲפִילּוּ נִיטַּל, יָצְאוּ בְּנֵי מֵעֶיהָ וְלֹא נִיקְּבוּ, נִשְׁתַּבְּרוּ גַּפֶּיהָ, נִשְׁתַּבְּרוּ רַגְלֶיהָ, נִמְרְטוּ כְּנָפֶיהָ, רַבִּי יְהוּדָה אוֹמֵר: אִם נִטְּלָה הַנּוֹצָה פְּסוּלָה.
+*Translation:* MISHNA: **And these are kosher among birds:** If a bird’s **windpipe was perforated or cracked** lengthwise; or if **a weasel struck** the bird **on its head** in **a place that does not render it a *tereifa*;** or if **the crop was perforated. Rabbi** Yehuda HaNasi **says:** It is kosher **even** if the crop **was removed.** If the bird’s **intestines emerged** from the abdominal wall **but were not perforated,** or if **its wings were broken,** or if **its legs were broken,** or if the feathers on **its wings were plucked,** the bird is kosher. **Rabbi Yehuda says: If the down** covering its body **was removed,** it is a *tereifa* and **unfit** for consumption.
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: מַעֲשֶׂה בְּרַבִּי סִימַאי וְרַבִּי צָדוֹק שֶׁהָלְכוּ לְעַבֵּר שָׁנָה בְּלוֹד, וְשָׁבְתוּ בְּאוֹנוֹ, וְהוֹרוּ בְּטַרְפַּחַת כְּרַבִּי בְּזֶפֶק.
+*Translation:* GEMARA: **The Sages taught** in a *baraita*: There was **an incident involving Rabbi Simai and Rabbi Tzadok, who went to intercalate the year in Lod, and they spent Shabbat in** the town of **Ono. And they ruled with regard to** an animal whose **womb** was removed, **in accordance with** the opinion of **Rabbi** Yehuda HaNasi in the mishna **with regard to the crop.**
+
+**11.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: הוֹרוּ בְּטַרְפַּחַת לְאִיסּוּרָא, כְּרַבִּי בְּזֶפֶק לְהֶתֵּירָא? אוֹ דִילְמָא: הוֹרוּ בְּטַרְפַּחַת לְהֶתֵּירָא כְּרַבִּי בְּזֶפֶק, אֲבָל כְּרַבִּי בְּזֶפֶק לָא סְבִירָא לְהוּ? תֵּיקוּ.
+*Translation:* **A dilemma was raised before** the Sages: What is the meaning of the *baraita*? Is it referring to two different rulings, i.e., that **they ruled with regard to the womb to prohibit** it, and they also ruled **in accordance with** the opinion of **Rabbi** Yehuda HaNasi **with regard to the crop to permit** it? **Or perhaps** it is referring to only one ruling, and it means that **they ruled with regard to the womb to permit** it, **in accordance with** the opinion of **Rabbi** Yehuda HaNasi **with regard to the crop, but they do not hold in accordance with** the opinion of **Rabbi** Yehuda HaNasi **with regard to the crop** itself. The Gemara concludes: The dilemma **shall stand** unresolved.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבָּה, וְאִיתֵּימָא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: גַּגּוֹ שֶׁל זֶפֶק נִידּוֹן כְּוֶושֶׁט. הֵיכָא? אָמַר רַב בִּיבִי בַּר אַבָּיֵי: כֹּל שֶׁנִּמְתָּח עִמּוֹ.
+*Translation:* **Rabba says, and some say** it was **Rabbi Yehoshua ben Levi** who says: **The roof the crop is treated like the gullet,** i.e., it renders the bird a *tereifa* if perforated in any amount. The Gemara asks: **Where** is the roof of the crop? **Rav Beivai bar Abaye said:** It is **any** part of the crop **that stretches with** the gullet.
+
+**13.**
+*Hebrew/Aramaic:* יָצְאוּ בְּנֵי מֵעֶיהָ, אָמַר רַבִּי שְׁמוּאֵל בַּר רַב יִצְחָק: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא הִיפֵּךְ בָּהֶן, אֲבָל הִיפֵּךְ בָּהֶן – טְרֵפָה, דִּכְתִיב: ״הוּא עָשְׂךָ וַיְכֹנְנֶךָ״, מְלַמֵּד שֶׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא כּוֹנָנִיּוֹת בָּאָדָם, שֶׁאִם נֶהְפָּךְ (אַחַת) [אֶחָד] מֵהֶן – אֵינוֹ יָכוֹל לִחְיוֹת.
+*Translation:* § The mishna states: If the bird’s **intestines emerged** from the stomach wall but were not perforated, the bird is kosher. **Rabbi Shmuel bar Rav Yitzḥak says:** The Sages **taught** this *halakha* **only** in a case **where one did not jumble them,** but returned them to the stomach in their proper order. **But** if **he jumbled them,** the bird is **a *tereifa*, as it is written: “Has He not made you, and established you?”** (Deuteronomy 32:6). The verse **teaches that the Holy One, Blessed be He, created established** locations for each organ **in a person,** so **that if one of them is switched he cannot live.** The same applies to other creatures.
+
+**14.**
+*Hebrew/Aramaic:* תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: ״הוּא עָשְׂךָ וַיְכֹנְנֶךָ״ – כַּרְכָא דְּכוֹלָּה בֵּיהּ, מִמֶּנּוּ כֹּהֲנָיו, מִמֶּנּוּ נְבִיאָיו, מִמֶּנּוּ שָׂרָיו, מִמֶּנּוּ מְלָכָיו, שֶׁנֶּאֱמַר: ״מִמֶּנּוּ פִנָּה מִמֶּנּוּ יָתֵד וְגוֹ׳״.
+*Translation:* **It is taught** in a *baraita*: **Rabbi Meir would say** that the verse: **“Has He not made you, and established you?”** teaches that the Jewish people is **a city with everything in it. Out of it** come **its priests, out of it** come **its prophets, out of it** come **its chiefs, out of it** come **its kings, as it is stated: “Out of them shall come forth the cornerstone, out of them the stake,** out of them the battle bow, out of them every master together” (Zechariah 10:4).
+
+**15.**
+*Hebrew/Aramaic:* הָהוּא רוֹמָאָה דְּחַזְיֵיהּ לְהָהוּא גַּבְרָא דִּנְפַל מֵאִיגָּרָא לְאַרְעָא, פְּקַעיה כְּרֵסֵיהּ וּנְפוּק מַעְיָינֵיהּ, אַתְיֵיהּ לִבְרֵיהּ וְשַׁחְטֵיהּ קַמֵּיהּ
+*Translation:* The Gemara recounts an incident involving **a certain Roman who saw a certain man fall from the roof to the ground,** and **his stomach ruptured and his intestines emerged.** The Roman **brought** the man’s **son and slaughtered him before** his father’s eyes

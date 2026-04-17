@@ -20,11 +20,11 @@ The Gemara, however, challenged this reading on two grounds. First, if this were
 
 ### Rav Yosef Intro
 
-At the top of 17a, Rav Yosef introduces a new possibility: *Ela amar Rav Yosef* — the Mishnah follows the position of Rabbi Akiva, who disagrees with Rabbi Yishmael.
+At the top of 17a, Rav Yosef introduces a new possibility: *ela amar rav yosef* — the Mishnah follows the position of Rabbi Akiva, who disagrees with Rabbi Yishmael.
 
 ### Baraita & Basar Nechira
 
-A Baraita is cited: *Ki yarchiv Hashem Elokecha et gevulcha ka'asher diber lach ve'amarta ochla vasar ki te'aveh nafshacha leechol basar bechol avat nafshacha tochal basar. Ki yirchak mimcha hamakom asher yivchar Hashem Elokecha lasum shemo sham vezavachta mivekarcha umitzonecha.* This is the same verse Rabbi Yishmael discussed: when you enter the land of Israel and the place where God has chosen to rest His name is distant, you shall slaughter from your cattle and from your sheep wherever you are. Rabbi Yishmael reads this as granting permission to eat meat as basar ta'ava — the meat of desire — without requiring it to be brought as a korban, when the Beis Hamikdash is far away. Rabbi Akiva, however, reads it in a startling way: *Lo ba hakatuv ela le'asor lahem basar nechira* — the verse comes to forbid for them, upon entering the land of Israel, meat that was killed through nechira.
+A Baraita is cited: *ki yarchiv hashem elokecha et gevulcha ka'asher diber lach ve'amarta ochla vasar ki te'aveh nafshacha leechol basar bechol avat nafshacha tochal basar. ki yirchak mimcha hamakom asher yivchar hashem elokecha lasum shemo sham vezavachta mivekarcha umitzonecha.* This is the same verse Rabbi Yishmael discussed: when you enter the land of Israel and the place where God has chosen to rest His name is distant, you shall slaughter from your cattle and from your sheep wherever you are. Rabbi Yishmael reads this as granting permission to eat meat as basar ta'ava — the meat of desire — without requiring it to be brought as a korban, when the Beis Hamikdash is far away. Rabbi Akiva, however, reads it in a startling way: *lo ba hakatuv ela le'asor lahem basar nechira* — the verse comes to forbid for them, upon entering the land of Israel, meat that was killed through nechira.
 
 ### Nechira Explained
 
@@ -36,7 +36,7 @@ This position is, as one must frankly acknowledge, wild. What could possibly be 
 
 ### Contemporary Context
 
-The Baraita continues: *Ve-achshav she-galu, yachol yachzeru le-heteiran ha-rishon* — now that Israel has gone into exile, one might have thought they revert to the earlier state, as if returning to a pre-Temple condition where shechita was not required. The Mishnah therefore teaches: *le-olam shochtin* — one must shecht at all times, even nowadays. This too is, as the Gemara acknowledged earlier, a bizarre inference. By what logic would the absence of the Temple in exile restore a permission that had been revoked when entering the land? The Gemara is, apparently, not troubled so long as the argument is not self-evidently wrong. The argument that one might think meat cannot be eaten at all in exile — analogous to the wilderness restriction — was self-evidently wrong, since the entire reason for that restriction was the proximity of the Mishkan. Here, however, the argument that exile might restore an earlier, less restrictive regime is not obviously absurd, however strange the underlying premise. The Mishnah, according to Rabbi Akiva's reading, comes to teach that shechita is still required even now.
+The Baraita continues: *ve-achshav she-galu, yachol yachzeru le-heteiran ha-rishon* — now that Israel has gone into exile, one might have thought they revert to the earlier state, as if returning to a pre-Temple condition where shechita was not required. The Mishnah therefore teaches: *le-olam shochtin* — one must shecht at all times, even nowadays. This too is, as the Gemara acknowledged earlier, a bizarre inference. By what logic would the absence of the Temple in exile restore a permission that had been revoked when entering the land? The Gemara is, apparently, not troubled so long as the argument is not self-evidently wrong. The argument that one might think meat cannot be eaten at all in exile — analogous to the wilderness restriction — was self-evidently wrong, since the entire reason for that restriction was the proximity of the Mishkan. Here, however, the argument that exile might restore an earlier, less restrictive regime is not obviously absurd, however strange the underlying premise. The Mishnah, according to Rabbi Akiva's reading, comes to teach that shechita is still required even now.
 
 ---
 
@@ -44,7 +44,7 @@ The Baraita continues: *Ve-achshav she-galu, yachol yachzeru le-heteiran ha-rish
 
 ### B'mai Miphligi
 
-The Gemara now steps back to analyze the root of the dispute: *B'mai miphligi* — what exactly are Rabbi Akiva and Rabbi Yishmael arguing about?
+The Gemara now steps back to analyze the root of the dispute: *b'mai miphligi* — what exactly are Rabbi Akiva and Rabbi Yishmael arguing about?
 
 ### Yishmael: Meat Permitted
 
@@ -142,11 +142,11 @@ At this point Rava steps back and reconsiders the entire interpretive approach t
 
 ### Rava Simple Reading
 
-Rava therefore proposes the natural reading: *Ela amar Rava — hakol shochtin*, all people may shecht. *Le-olam shochtin*, one may shecht at all times — whether by day or by night, whether on a rooftop or on a boat. *Bechol shochtin*, one may shecht with all things — whether with a rock, with glass, or with a reed (*bein betzur bein bizchuchit bein bikrumit shel kaneh*). This reading simply echoes the structure of the earlier Mishnayot in the tractate, as one would naturally have assumed from the outset.
+Rava therefore proposes the natural reading: *ela amar rava — hakol shochtin*, all people may shecht. *le-olam shochtin*, one may shecht at all times — whether by day or by night, whether on a rooftop or on a boat. *bechol shochtin*, one may shecht with all things — whether with a rock, with glass, or with a reed (*bein betzur bein bizchuchit bein bikrumit shel kaneh*). This reading simply echoes the structure of the earlier Mishnayot in the tractate, as one would naturally have assumed from the outset.
 
 ### Repetition Purpose
 
-The reason the Mishnah repeats material already covered in earlier chapters is not, on Rava's reading, a signal to pursue exotic interpretations. Rather, each repetition subtly expands a category. *Hakol shochtin* was already stated — but perhaps it only covered a *kuti*. By repeating it, the Mishnah now includes even a *Yisrael mumar*, a habitual sinner. *Le-olam shochtin* was already stated for day and night — but what about an unusual location such as a rooftop or a boat? The second statement includes those as well. *Bechol shochtin* was already stated for a rock — but what about a reed or a piece of glass? The repetition extends the earlier ruling. The three phrases are not advancing a novel halakhic theory about the historical status of shechita; they are providing incremental expansions of the practical rules, following the natural structure of earlier Mishnayot.
+The reason the Mishnah repeats material already covered in earlier chapters is not, on Rava's reading, a signal to pursue exotic interpretations. Rather, each repetition subtly expands a category. *hakol shochtin* was already stated — but perhaps it only covered a *kuti*. By repeating it, the Mishnah now includes even a *yisrael mumar*, a habitual sinner. *le-olam shochtin* was already stated for day and night — but what about an unusual location such as a rooftop or a boat? The second statement includes those as well. *bechol shochtin* was already stated for a rock — but what about a reed or a piece of glass? The repetition extends the earlier ruling. The three phrases are not advancing a novel halakhic theory about the historical status of shechita; they are providing incremental expansions of the practical rules, following the natural structure of earlier Mishnayot.
 
 ---
 
@@ -184,7 +184,7 @@ While a single one-directional bump at the heel of the blade may theoretically b
 
 ### Ogeres Type
 
-Rava now presents a formal classification of three types of knife characteristics. The first is the *ogeres* — a gathering bump. Rashi explains that the name derives from the image of skin gathering into a crevice. This denotes a nick that is V-shaped, with a rise on both sides. *Lo yishchot v'im shachat shchitah p'sula* — one may not shecht with such a knife, and if one did so, the shechita is invalid even after the fact.
+Rava now presents a formal classification of three types of knife characteristics. The first is the *ogeres* — a gathering bump. Rashi explains that the name derives from the image of skin gathering into a crevice. This denotes a nick that is V-shaped, with a rise on both sides. *lo yishchot v'im shachat shchitah p'sula* — one may not shecht with such a knife, and if one did so, the shechita is invalid even after the fact.
 
 ### Mesuchsachet Type
 
@@ -202,7 +202,7 @@ The third type is *oleh v'yored* — a gradual elevation. This describes a knife
 
 ### Sasa'a Knife
 
-A further type is raised: Rav Acha the son of Rav Avya asked Rav Ashi about a knife that resembles a *sasa'a* — the fine strands of a barley plant — which seems to refer to a blade that is not perfectly smooth but whose surface roughness consists only of extremely fine, shallow irregularities, with no actual notches at all. *Man yahiv lan mibishra ve'achlinan* — Rav Ashi responded that he would be the first to eat from the meat shechted with such a knife; it presents no problem whatsoever. According to the commentary, this type has finer surface variation than even *oleh v'yored*, the texture being more akin to slight roughness — as one commentator explains, one would feel it if rubbing a finger along the edge but there are no actual notches — while *oleh v'yored* involves more perceptible bumps, like gentle hills.
+A further type is raised: Rav Acha the son of Rav Avya asked Rav Ashi about a knife that resembles a *sasa'a* — the fine strands of a barley plant — which seems to refer to a blade that is not perfectly smooth but whose surface roughness consists only of extremely fine, shallow irregularities, with no actual notches at all. *man yahiv lan mibishra ve'achlinan* — Rav Ashi responded that he would be the first to eat from the meat shechted with such a knife; it presents no problem whatsoever. According to the commentary, this type has finer surface variation than even *oleh v'yored*, the texture being more akin to slight roughness — as one commentator explains, one would feel it if rubbing a finger along the edge but there are no actual notches — while *oleh v'yored* involves more perceptible bumps, like gentle hills.
 
 ---
 

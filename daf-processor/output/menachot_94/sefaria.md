@@ -1,0 +1,98 @@
+### Menachot 94a
+
+**1.**
+*Hebrew/Aramaic:* בְּחַיִּים וּבִשְׁחוּטִין, וּבְדָבָר שֶׁיֵּשׁ בּוֹ רוּחַ חַיִּים וּבְדָבָר שֶׁאֵין בּוֹ רוּחַ חַיִּים, מַה שֶּׁאֵין כֵּן בַּסְּמִיכָה.
+*Translation:* and it is practiced both **in** the cases of offerings when they are **alive,** e.g., the guilt offering of a leper and the lambs of *Shavuot*, **and in** the cases of offerings after they are **slaughtered,** e.g., the breast and thigh. By contrast, placing hands is practiced with a live animal. A further stringency is that waving is practiced both **in** the case of **an item in which there is a living spirit,** i.e., an animal offering, **and in** the case of **an item in which there is not a living spirit,** e.g., the *omer* offering, the *sota* meal offering, and the loaves accompanying a thanks offering and the ram of the nazirite, whereas placing hands is only ever performed upon living beings.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: קׇרְבָּנוֹ – לְרַבּוֹת כׇּל בַּעֲלֵי קׇרְבָּן לִסְמִיכָה.
+*Translation:* GEMARA: **The Sages taught** in a *baraita*: The verse states with regard to placing hands: “And he shall place his hand on the head of his offering” (Leviticus 3:2). The term **“his offering”** serves **to include all** of the **owners of an offering** in the requirement **of placing hands,** i.e., each one must perform it.
+
+**3.**
+*Hebrew/Aramaic:* שֶׁיָּכוֹל, וַהֲלֹא דִּין הוּא: וּמָה תְּנוּפָה שֶׁנִּתְרַבְּתָה בִּשְׁחוּטִין נִתְמַעֲטָה בְּחוֹבְרִין, סְמִיכָה שֶׁלֹּא נִתְרַבְּתָה בִּשְׁחוּטִין – אֵינוֹ דִּין שֶׁתִּתְמַעֵט בְּחוֹבְרִין? תַּלְמוּד לוֹמַר ״קׇרְבָּנוֹ״, לְרַבּוֹת כׇּל בַּעֲלֵי קׇרְבָּן לִסְמִיכָה.
+*Translation:* It is necessary for the verse to teach this, **as** one **might** have thought: **Could it not** be derived through an *a fortiori* **inference** that only one partner needs to place his hands on the offering? The inference is as follows: **If** the requirement of **waving, which was amplified to apply** also **to slaughtered** animals, nevertheless **was limited with regard to** an offering jointly owned by a number of **partners,** as only one of them waves on behalf of all of them, then with regard to the requirement of **placing hands, which was not amplified to apply** also **to slaughtered** animals, **is it not logical that it was** also **limited with regard to** an offering jointly owned by **partners,** and it is sufficient for one partner to place his hands on behalf of the others? To counter this inference, **the verse states: “His offering,” to include each of the owners of an offering in** the requirement of **placing hands.**
+
+**4.**
+*Hebrew/Aramaic:* וְתִתְרַבֶּה תְּנוּפָה בְּחוֹבְרִין מִקַּל וָחוֹמֶר: וּמָה סְמִיכָה שֶׁלֹּא נִתְרַבְּתָה בִּשְׁחוּטִין, נִתְרַבְּתָה בְּחוֹבְרִין, תְּנוּפָה שֶׁנִּתְרַבְּתָה בִּשְׁחוּטִין – אֵינוֹ דִּין שֶׁנִּתְרַבְּתָה בְּחוֹבְרִין!
+*Translation:* The Gemara asks: **But** one could suggest the opposite inference and conclude that the requirement of **waving should be amplified with regard to partners, through** the following ***a fortiori*** inference: **If** the requirement of **placing hands, which was not amplified to apply** also **to slaughtered** animals, **was amplified with regard to** an offering jointly owned by **partners,** requiring each partner to perform it himself, then with regard to the requirement of **waving, which was amplified to apply** also **to slaughtered** animals, **is it not logical that it was** also **amplified with regard to** an offering jointly owned by **partners,** requiring each partner to perform it himself?
+
+**5.**
+*Hebrew/Aramaic:* מִשּׁוּם דְּלָא אֶפְשָׁר, הֵיכִי לֶיעְבֵּיד? לַינְפּוּ כּוּלְּהוּ בַּהֲדֵי הֲדָדֵי – קָא הָוְיָא חֲצִיצָה, לָינֵיף וְלֶיהְדַּר וְלָינֵיף – ״תְּנוּפָה״ אָמַר רַחֲמָנָא, וְלֹא תְּנוּפוֹת.
+*Translation:* The Gemara rejects this: This inference cannot be correct, **because** it is obvious that only one of the partners needs to perform the waving. **It is not possible** to have all of them perform it, **as how would it be done?** If one says: **Let all of** the partners **wave together,** with each one placing his hands under those of another, that is difficult: There **would be** an invalidating **interposition** between the offering and hands of the partners who are not directly holding onto the offering. And if one says: **Let** one partner **wave, and then** the next one **will wave,** and so on, that would also be invalid, as **the Merciful One states** in the Torah that one must perform **a waving,** using a singular noun, which indicates that one waving, **but not** multiple **wavings,** should be performed.
+
+**6.**
+*Hebrew/Aramaic:* וּסְמִיכָה בִּשְׁחוּטִין לֵיתַהּ? וְהָתְנַן: בִּזְמַן שֶׁכֹּהֵן גָּדוֹל רוֹצֶה לְהַקְטִיר, הָיָה עוֹלֶה בַּכֶּבֶשׁ, וְהַסְּגָן בִּימִינוֹ. הִגִּיעַ לְמַחֲצִית הַכֶּבֶשׁ – אָחַז סְגָן בִּימִינוֹ וְהֶעֱלָהוּ, וְהוֹשִׁיט לוֹ הָרִאשׁוֹן הָרֹאשׁ וְהָרֶגֶל, סוֹמֵךְ עֲלֵיהֶם וְזוֹרְקָן.
+*Translation:* § The mishna states that placing hands is not performed upon a slaughtered offering. The Gemara questions this: **And is there no** instance of **placing hands** performed **on slaughtered** animals? **But didn’t we learn** in a mishna (*Tamid* 33b): **When the High Priest** would **want to sacrifice** the daily offering, as it is his right to be the one to sacrifice it whenever he wishes to, **he would ascend the ramp** to the top of the altar, **and the deputy [*segan*]** High Priest would also ascend **to the right** of the High Priest. If it occurred that the High Priest **reached halfway** up **the ramp** and grew tired, the **deputy** would **hold** him **by his right hand** to assist him **and** would **bring him up** to the top of the altar. **And the first** of the group of priests who had been selected to bring the limbs of the daily offering to the altar would **hold out the head and the** right hind **leg** of the offering to the High Priest, **who would place** his **hands upon them, and** then **he would throw** the limbs onto the fire of the altar.
+
+**7.**
+*Hebrew/Aramaic:* הוֹשִׁיט הַשֵּׁנִי לָרִאשׁוֹן שְׁתֵּי יָדַיִם, נוֹתְנוֹ לְכֹהֵן גָּדוֹל, סוֹמֵךְ עֲלֵיהֶם וְזוֹרְקָן. נִשְׁמַט הַשֵּׁנִי וְהָלַךְ לוֹ, וְכָךְ הָיוּ מוֹשִׁיטִין לוֹ שְׁאָר כׇּל הָאֵבָרִים, סוֹמֵךְ עֲלֵיהֶם וְזוֹרְקָן.
+*Translation:* Then **the second** priest **would hold out the two forelegs to the first** priest, and the first priest would **give them to the High Priest,** who would **place** his **hands upon them and** then **throw them** onto the fire. At this stage **the second priest** would **slip away and leave,** as he was no longer needed. The first priest remained where he was, as he was still needed to present the other limbs of the offering to the High Priest. **And in this manner** the other priests who had been selected **would hold out the rest of all the limbs** to the first priest, who would present them to the High Priest, who would then **place** his **hands upon them and throw them** onto the fire.
+
+**8.**
+*Hebrew/Aramaic:* וּבִזְמַן שֶׁהוּא רוֹצֶה – הוּא סוֹמֵךְ, וַאֲחֵרִים זוֹרְקִין.
+*Translation:* The mishna concludes: **And when** the High Priest **wants, he** may merely **place** his **hands** upon the limbs, **and** then the **other** priests **throw** the limbs onto the fire of the altar.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: הָתָם מִשּׁוּם כְּבוֹדוֹ דְּכֹהֵן גָּדוֹל.
+*Translation:* This mishna apparently demonstrates an instance of placing hands performed upon a slaughtered animal. In resolution of this difficulty, **Abaye said:** In the mishna **there,** the placing of hands is not in fulfillment of the requirement to do so to an offering; rather, it is done merely **due to the eminence of the High Priest,** so that his sacrifice of the limbs of an offering is more distinguished than when performed by ordinary priests.
+
+**10.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ שְׁתֵּי מִדּוֹת.
+*Translation:* 
+
+**11.**
+*Hebrew/Aramaic:* מַתְנִי׳ שְׁתֵּי הַלֶּחֶם נִילּוֹשׁוֹת אַחַת אַחַת, וְנֶאֱפוֹת אַחַת אַחַת. לֶחֶם הַפָּנִים נִילּוֹשׁוֹת אַחַת אַחַת, וְנֶאֱפוֹת שְׁתַּיִם שְׁתַּיִם. וּבִדְפוּס הָיָה עוֹשֶׂה אוֹתָן; כְּשֶׁהוּא רוֹדָן, נוֹתְנָן לִדְפוּס כְּדֵי שֶׁלֹּא יִתְקַלְקְלוּ.
+*Translation:* MISHNA: **The two loaves** that are brought on the festival of *Shavuot* from the new wheat are each made from a tenth of an ephah of fine flour. They **are kneaded one** by **one and they are baked one** by **one,** i.e., each loaf is placed separately in the oven. **The** loaves of the **shewbread are kneaded one** by **one and baked two** by **two,** i.e., two loaves are placed in the oven at the same time. **And** the baker **would prepare** the shewbread **in a mold [*defus*]** when he made the dough. **When he removes** the shewbread from the oven **he** again **places** the loaves **in a mold so that their** shape **will not be ruined.**
+
+**12.**
+*Hebrew/Aramaic:* גְּמָ׳ מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״שְׁנֵי עֶשְׂרֹנִים יִהְיֶה הַחַלָּה הָאֶחָת״ – מְלַמֵּד שֶׁנִּילּוֹשׁוֹת אַחַת אַחַת.
+*Translation:* GEMARA: The mishna teaches that the two loaves are kneaded one by one and baked one by one. The loaves of the shewbread are also kneaded one by one but are baked two at a time. The Gemara asks: **From where are these matters** derived? They are derived from a verse, **as the Sages taught** in a *baraita*: The verse states: “And you shall take fine flour, and bake twelve cakes from it; two-tenths of an ephah shall be in one cake. And you shall set them in two arrangements, six in an arrangement, upon the pure Table before the Lord” (Leviticus 24:5–6). The phrase **“Two-tenths of an ephah shall be in one cake” teaches that** the loaves of the shewbread **are kneaded one** by **one.**
+
+**13.**
+*Hebrew/Aramaic:* מִנַּיִן שֶׁאַף שְׁתֵּי הַלֶּחֶם כָּךְ? תַּלְמוּד לוֹמַר ״יִהְיֶה״. וּמִנַּיִן שֶׁאֲפִיָּיתָן שְׁתַּיִם שְׁתַּיִם? תַּלְמוּד לוֹמַר ״וְשַׂמְתָּ אוֹתָם״. יָכוֹל אַף שְׁתֵּי הַלֶּחֶם כֵּן? תַּלְמוּד לוֹמַר ״אוֹתָם״.
+*Translation:* The *baraita* continues: **From where** is it derived **that this** is **also** the *halakha* with regard to **the two loaves,** i.e., that they are kneaded one at a time? **The verse states: “Shall be,”** to include the two loaves. **And from where** is it derived **that the baking** of the loaves of the shewbread is performed **two** by **two? The verse states: “And you shall set them [*vesamta otam*],”** the plural form indicating that two loaves should be baked together. One **might** have thought that **the two loaves** brought on *Shavuot* should **also** be baked in **this** manner. **The verse states: “Them [otam],”** which is a term of exclusion, indicating that only the loaves of the shewbread are baked two at a time, but not the two loaves brought on *Shavuot*.
+
+**14.**
+*Hebrew/Aramaic:* הַאי ״אוֹתָם״, הָא אַפֵּיקְתֵּיהּ? אִם כֵּן, לֵימָא קְרָא ״וְשַׂמְתָּם״! מַאי ״וְשַׂמְתָּ אוֹתָם״? שָׁמְעַתְּ מִינַּהּ תַּרְתֵּי.
+*Translation:* The Gemara asks: **Didn’t you** already **derive** from **this** term: **“Them,”** that the shewbread must be baked two loaves at a time? The Gemara answers: **If so,** i.e., if the term “them” teaches only that the shewbread is baked two loaves at a time, **let the verse say: And you shall set them [*vesamtam*],** using the shortened form. **What** is the verse teaching by using the longer form **“*vesamta otam*”? You** may **learn from** the verse **two** matters, both that the loaves of the shewbread should be baked two at a time and that this requirement does not apply to the two loaves brought on *Shavuot*.
+
+**15.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״וְשַׂמְתָּ אוֹתָם״ – בִּדְפוּס. שְׁלֹשָׁה דְּפוּסִין הֵם: נוֹתְנָהּ לִדְפוּס וַעֲדַיִין הִיא בָּצֵק, וּכְמִין דְּפוּס הָיָה לָהּ בַּתַּנּוּר, וּכְשֶׁהוּא רוֹדָהּ נוֹתְנָהּ בַּדְּפוּס כְּדֵי שֶׁלֹּא תִּתְקַלְקֵל. וְלַהְדְּרַהּ לִדְפוּס קַמָּא? כֵּיוָן דְּאָפֵי לַהּ, נָפְחָה.
+*Translation:* § The mishna teaches that the shewbread was placed in a mold, and with regard to this **the Sages taught** in a *baraita*: The verse states: **“And you shall set them”** (Leviticus 24:6), which means to set them **in a mold. There are three molds** that are used in the Temple in the preparation of the loaves. First, the baker **places** the shewbread **in a mold** while **it is still dough. And** second, **there was a type of mold for** the shewbread **in the oven,** in which the loaves were baked. **And when he removes [*rodah*]** the shewbread from the oven, **he places it in** a third **mold so that its** shape **will not be ruined.** The Gemara asks: **But** why is a third mold necessary? **Let him return** the shewbread **to the first mold,** in which the dough was kneaded. The Gemara answers: **Once** the dough **is baked, it rises,** and no longer fits into the first mold.
+
+**16.**
+*Hebrew/Aramaic:* אִיתְּמַר: לֶחֶם הַפָּנִים, כֵּיצַד עוֹשִׂין אוֹתוֹ?
+*Translation:* § **It was stated: How is the shewbread prepared,** i.e., in what shape?
+
+
+---
+
+### Menachot 94b
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי חֲנִינָא אָמַר: כְּמִין תֵּיבָה פְּרוּצָה. רַבִּי יוֹחָנָן אָמַר: כְּמִין סְפִינָה רוֹקֶדֶת.
+*Translation:* **Rabbi Ḥanina says:** It was rectangular, with a wide base and two parallel walls with an open space between them, **like a box that is open** on two sides. **Rabbi Yoḥanan says** that the shewbread was **like a rocking boat,** i.e., a triangular-shaped boat with a narrow base from which two walls rise at angles. Since the boat does not have a wide base it rocks from side to side.
+
+**2.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר כְּמִין תֵּיבָה פְּרוּצָה – הַיְינוּ דַּהֲווֹ יָתְבִי בָּזִיכִין, אֶלָּא לְמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת – הֵיכִי הֲווֹ יָתְבִי בָּזִיכִין? מָקוֹם עָבֵיד לְהוּ.
+*Translation:* The Gemara comments: **Granted, according to the one who said** the shewbread was **like a box that is open** on two sides, **this is** the reason **that** the **bowls of frankincense could rest** upon it. The Gemara asks: **But according to the one who said** the shewbread was **like a rocking boat, how would** the **bowls rest** upon it? The Gemara answers: The baker **prepared** a flat **place for** the bowls to rest, on the side of the shewbread.
+
+**3.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר כְּמִין תֵּיבָה פְּרוּצָה – הַיְינוּ דַּהֲווֹ יָתְבִי קָנִים, אֶלָּא לְמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת – קָנִים הֵיכִי הֲווֹ יָתְבִי? מוּרְשָׁא עָבֵיד לְהוּ.
+*Translation:* The Gemara comments: **Granted, according to the one who said** the shewbread was **like a box that is open** on two sides, **this is** the reason **that** the **rods could rest** upon the it. The shewbread was placed on the Table in two arrangements. In each arrangement the lowest loaf was placed on the Table and the remaining loaves were set one above the other, with rods separating the loaves. There were fourteen rods for each arrangement, each loaf being placed upon three rods, except for the uppermost loaf, which was placed on only two rods. The Gemara asks: **But according to the one who said** the shewbread was **like a rocking boat, how were** the **rods resting** upon the shewbread? Since the loaves had a narrow base, they would rest on only one rod. The Gemara answers: The baker **would make a protrusion in** the base of the loaves, which would slightly widen their pointed base, enabling them to rest with stability upon the rods.
+
+**4.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר כְּמִין תֵּיבָה פְּרוּצָה – הַיְינוּ דְּסָמְכִי לֵיהּ סְנִיפִין לְלֶחֶם, אֶלָּא לְמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת – הֵיכִי סְמַכִי לֵיהּ סְנִיפִין לְלֶחֶם? דְּעָגִיל לְהוּ מִיעְגָּל.
+*Translation:* The Gemara comments: **Granted, according to the one who said** the shewbread was **like a box that is open** on two sides, **this is** the reason **that** the **panels would support the loaves.** There were four gold panels that stood at the two sides of the Table and rose up above the height of the Table, and the rods rested on these panels. The loaves were placed lengthwise along the entire width of the Table, and the panels supported the two sides of the loaves, preventing them from falling to the ground. The Gemara asks: **But according to the one who said** the shewbread was **like a rocking boat, how would** the **panels support the loaves?** Since the sides of the shewbread rose at an angle, the panels would touch only the upper edges of the shewbread. The Gemara answers **that** the panels **would be made to curve** inward at an angle corresponding to the angle of the shewbread, so that the panels supported the loaves along their entire length.
+
+**5.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת – הַיְינוּ דְּבָעֵינַן סְנִיפִין, אֶלָּא לְמַאן דְּאָמַר כְּמִין תֵּיבָה פְּרוּצָה – סְנִיפִין לְמָה לִי? אַגַּב יוּקְרָא דְּלֶחֶם תָּלַח.
+*Translation:* The Gemara comments: **Granted, according to the one who said** the shewbread was **like a rocking boat, this is** the reason **that we require panels.** Since the loaves do not have a wide base they cannot stand on their own without the support of the rods and panels. The Gemara asks: **But according to the one who said** the shewbread was **like a box that is open** on two sides, **why do I** need **panels?** The loaves could stand without the assistance of rods and panels. The Gemara answers: If there were no panels supporting the loaves from the sides and the loaves were placed on top of each other, **due to the weight of** the upper **loaves** the lower loaves **would break [*telaḥ*].**
+
+**6.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת – סְנִיפִין עַל גַּבֵּי שֻׁלְחָן מוּנָּחִין. אֶלָּא לְמַאן דְּאָמַר כְּמִין תֵּיבָה פְּרוּצָה – סְנִיפִין הֵיכָא מַנַּח לְהוּ? אַאַרְעָא מַנַּח לְהוּ? אִין, דְּאָמַר רַבִּי אַבָּא בַּר מֶמֶל: לְדִבְרֵי הָאוֹמֵר כְּמִין סְפִינָה רוֹקֶדֶת – סְנִיפִין עַל גַּבֵּי שֻׁלְחָן מוּנָּחִין, לְדִבְרֵי הָאוֹמֵר כְּמִין תֵּיבָה פְּרוּצָה – סְנִיפִין עַל גַּבֵּי קַרְקַע מוּנָּחִין.
+*Translation:* The Gemara comments: **Granted, according to the one who said** the shewbread was **like a rocking boat,** it is evident that the **panels are placed on** the **Table,** in order to prevent the slanted loaves from falling to the ground. The Gemara asks: **But according to the one who said** the shewbread was **like a box that is open** on two sides, **where would** the priest **place** the **panels?** Since the wide base of the loaves reached the edge of the Table, there was no room for the panels there. **Would** the priest **place them on the ground?** The Gemara answers: **Yes,** the panels were placed on the ground, **as Rabbi Abba bar Memel said: According to the statement of the one who says** the shewbread was **like a rocking boat,** the **panels are placed on the Table,** whereas **according to the statement of the one who says** the shewbread was **like a box that is open** on two sides, the **panels are placed on** the **ground.**
+
+**7.**
+*Hebrew/Aramaic:* כְּמַאן אָזְלָא הָא דְאָמַר רַבִּי יְהוּדָה: הַלֶּחֶם מַעֲמִיד אֶת הַסְּנִיפִין, וְהַסְּנִיפִין מַעֲמִידִין אֶת הַלֶּחֶם? כְּמַאן דְּאָמַר כְּמִין סְפִינָה רוֹקֶדֶת.
+*Translation:* The Gemara asks: **In accordance with whose** opinion **is that which Rabbi Yehuda said: The loaves support the panels and the panels support the loaves,** i.e., they lean against one another? It is **in accordance with** the opinion of **the one who said** the shewbread was **like a rocking boat,** i.e., Rabbi Yoḥanan. According to the opinion of Rabbi Ḥanina, the panels stood on the ground and did not require the support of the loaves.

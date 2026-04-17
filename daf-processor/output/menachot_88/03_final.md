@@ -8,17 +8,15 @@
 >
 > **Translation:** MISHNA: **There were seven measuring vessels for liquids in the Temple.** There was a vessel of one ***hin*,** i.e., twelve *log*. Three vessels were used to measure the oil and wine for the meal offerings and libations that accompanied the sacrifice of an animal. For a bull there was a vessel of **one**-**half of a *hin*,** i.e., six *log*; **and** for a ram there was one of **one-third of a *hin*,** i.e., four *log*; **and** for a lamb there was one of **one-quarter of a *hin*,** i.e., three *log*. In addition, there was a vessel that held one ***log*** to measure the oil for all standard meal offerings; **and** another one that held **one**-**half of a *log*** for measuring the water used in the rite of a woman suspected by her husband of having been unfaithful [*sota*] and also for the oil used in the loaves accompanying the thanks offering (see 88a); **and** another one that held **one-quarter of a *log*** for measuring the water used in the purification of a leper and also for the oil used in the wafers and loaves that the nazirite brings on the day that his term of naziriteship ends.
 
-The Mishnah with which we open Daf 88 takes up the subject of liquid measures used in the *Beit HaMikdash*. Having dealt with dry measures previously, the Mishnah now turns to the lach: *Sheva middot shel lach hayu bamikdash* — there were seven liquid measures in the Mikdash.
+The Mishnah with which we open Daf 88 takes up the subject of liquid measures used in the *beit haMikdash*. Having dealt with dry measures previously, the Mishnah now turns to the lach: *sheva middot shel lach hayu bamikdash* — there were seven liquid measures in the Mikdash.
 
 ### Log & Revi'it Units
 
-*[Continued from above]*
 
 The foundational unit of liquid measure is the log, approximately fourteen ounces. A hin is twelve log. The revi'it — literally "a quarter" — is a quarter of a log, roughly 3.2 to 3.4 ounces, the familiar minimum measure for kiddush. These two units — the log and the revi'it — form the baseline from which the other measures are derived.
 
 ### Hin to Quarter-Log
 
-*[Continued from above]*
 
 The Mishnah lists the seven measures as follows: a hin, a half-hin (six log), a third of a hin (four log — the portion accompanying a par, as the Torah specifies: *שלישית ההין לפר*), a quarter of a hin (three log, for an ayil), a log, a half-log, and a quarter-log. Notably, the list moves from the largest measure down to the smallest, and the Torah's language — *שלישית ההין לפר ורביעית ההין לכבש* — grounds the larger measures in explicit scriptural usage.
 
@@ -36,7 +34,7 @@ Rabbi Eliezer bar Tzadok offers an alternative to the picture of seven distinct 
 >
 > **Translation:** **Rabbi Shimon says: There was no** vessel **there** in the Temple that held one ***hin*, as what** purpose **could** a one**-hin** vessel **serve?** That volume of liquid was never used in an offering. **Rather, there was an additional measuring vessel of one and a half *log* there,** in the Temple, which completed the tally of seven vessels, **with which one would measure** the oil used **for the** griddle-cake **meal offering of the High Priest; one and a half *log*** were used **in the morning and one and a half *log* in the afternoon.**
 
-Rabbi Shimon takes a more radical stance: *לא היו שם *hin** — there was no hin at all in the *Beit HaMikdash*. His reasoning is functional: *vechi mah hayah hin meshamesh* — What was the hin ever used for? The largest quantity actually required for any sacrifice was a half-hin (for the par), so a full hin vessel was never actually needed. In its place, Rabbi Shimon says, there was a special measure of a log-and-a-half: *מדה יתירה של *log let's say* ומחצה היתה שם*, used to divide the oil for the minchat chavitin of the Kohen Gadol — a log-and-a-half in the morning and a log-and-a-half in the afternoon.
+Rabbi Shimon takes a more radical stance: *לא היו שם *hin** — there was no hin at all in the *beit haMikdash*. His reasoning is functional: *vechi mah hayah hin meshamesh* — What was the hin ever used for? The largest quantity actually required for any sacrifice was a half-hin (for the par), so a full hin vessel was never actually needed. In its place, Rabbi Shimon says, there was a special measure of a log-and-a-half: *מדה יתירה של *log let's say* ומחצה היתה שם*, used to divide the oil for the minchat chavitin of the Kohen Gadol — a log-and-a-half in the morning and a log-and-a-half in the afternoon.
 
 > **Hebrew/Aramaic:** אָמְרוּ לוֹ: חֲצִי לוֹג הָיְתָה שָׁם, וְאֶפְשָׁר לְשַׁעֵר בַּחֲצִי לוֹג.
 >
@@ -78,7 +76,7 @@ Before reaching that question, the Gemara completes the Baraita's discussion of 
 >
 > **Translation:** The Gemara analyzes the *baraita*. **What** difference **is there between** the opinions of **Rabbi Meir and Rabbi Yehuda?** They both list the same seven vessels, but in a different order. **Rabbi Yoḥanan said:** The practical difference **between them** concerns whether the vessels consecrate the **overflow [*beirutzei*] of** the **measuring vessels,** i.e., the liquid that flows down over the outer walls of the vessel when it is filled beyond capacity.
 
-Returning to the central question of Rabbi Meir versus Rabbi Yehudah: *אמר *Rebbi* יוחנן, בירותי מדות איכא בינייהו* — Rabbi Yochanan says their dispute concerns the beirutei middot, the overflow that rides atop the surface of a filled measuring vessel due to surface tension. The disagreement is over whether this extra amount — the liquid held above the rim of the vessel — is sanctified by the vessel along with the rest of its contents.
+Returning to the central question of Rabbi Meir versus Rabbi Yehudah: *אמר *rebbi* יוחנן, בירותי מדות איכא בינייהו* — Rabbi Yochanan says their dispute concerns the beirutei middot, the overflow that rides atop the surface of a filled measuring vessel due to surface tension. The disagreement is over whether this extra amount — the liquid held above the rim of the vessel — is sanctified by the vessel along with the rest of its contents.
 
 ### Transfer Direction
 
@@ -86,7 +84,7 @@ Returning to the central question of Rabbi Meir versus Rabbi Yehudah: *אמר *R
 >
 > **Translation:** **According to the one who said** that the vessels should be listed **in ascending** order of size, i.e., Rabbi Yehuda, **he holds** that the **overflow of measuring vessels is consecrated.** His reasoning is as follows: When Moses was commanded to fashion these vessels, **the Merciful One** initially **gave Moses** a measuring vessel of **one-quarter** of a *hin* **and said to him:** With this vessel **calculate** the various quantities needed and fashion vessels accordingly. So, for example, to calculate one-half of a *hin*, Moses would twice fill up the vessel of one-quarter of a *hin*, each time pouring it into a larger vessel. When pouring from a small vessel into a larger one, the **overflow** also **enters** the larger one and so it is included in the calculation. Evidently, the overflow is also consecrated. **According to the one who said** that the vessels should be listed **in descending** order of size, i.e., Rabbi Meir, **he holds** that the **overflow of measuring vessels is not consecrated.** His reasoning is as follows: When Moses was commanded to fashion these vessels for the Temple, **the Merciful One** initially **gave Moses** a measuring vessel of one ***hin* and said to him: With this** vessel **calculate** the various quantities needed and fashion vessels accordingly. So, for example, to calculate one-half of a *hin*, Moses filled the vessel of one *hin* and divided it equally into two vessels. Then, to calculate one-quarter of a *hin*, he would equally divide the liquid in one of those vessels into another two vessels. When pouring from a large vessel into a smaller one, the overflow on the outer walls of the larger vessel does not enter the smaller vessel but instead falls to the ground. Therefore, the **overflow is excluded** from the calculation. Accordingly, there is no basis to say that the overflow is consecrated.
 
-Rashi explains the connection between the ordering of measures and this question of overflow as follows. Rabbi Yehudah, who lists measures from small to large, holds that the beirutei middot are sanctified. According to this view, God gave Moshe the small revi'it as the standard — *V'revi'it yahav leih Rachmana l'Moshe* — and told him to measure with it, accumulating small measures into larger ones. When pouring from a small vessel into a larger vessel, the overflow on top of the smaller one can be captured: if you tip the small vessel quickly into the larger one, even the tiny amount held by surface tension goes along. Rabbi Meir, who lists measures from large to small, holds that the beirutei middot are not sanctified. According to his view, God gave Moshe the hin — the large measure — and instructed him to divide downward into halves, thirds, and quarters. When transferring from a large vessel into smaller ones, that extra surface liquid simply spills away; it cannot be preserved in the transfer.
+Rashi explains the connection between the ordering of measures and this question of overflow as follows. Rabbi Yehudah, who lists measures from small to large, holds that the beirutei middot are sanctified. According to this view, God gave Moshe the small revi'it as the standard — *v'revi'it yahav leih rachmana l'moshe* — and told him to measure with it, accumulating small measures into larger ones. When pouring from a small vessel into a larger vessel, the overflow on top of the smaller one can be captured: if you tip the small vessel quickly into the larger one, even the tiny amount held by surface tension goes along. Rabbi Meir, who lists measures from large to small, holds that the beirutei middot are not sanctified. According to his view, God gave Moshe the hin — the large measure — and instructed him to divide downward into halves, thirds, and quarters. When transferring from a large vessel into smaller ones, that extra surface liquid simply spills away; it cannot be preserved in the transfer.
 
 The analogy is intuitive: anyone who has filled a kiddush cup to the brim and then tried to pour it into small cups knows that the overflow spills rather than transfers cleanly. By contrast, when pouring from a small vessel into a large one, the extra amount on top rides along into the larger vessel.
 
@@ -100,7 +98,7 @@ One might note a tension here: Rabbi Meir earlier appeared to endorse a *gadosh 
 
 Abaye offers a different analysis entirely. He says that the dispute between Rabbi Meir and Rabbi Yehudah is not about whether the beirutei middot are sanctified at all — both could hold either position on that question. Rather, their dispute concerns the meaning of *mile'im* in the verse (*shneihem mlei'im soles*): what does it mean to fill the measure?
 
-According to Rabbi Meir, who enumerates from large to small, *mile'im shelo yachsar veshelo yotir*: the measure must be filled exactly — no less and no more. There is a strict maximum as well as a minimum. According to Rabbi Yehudah, who enumerates from small to large, *mile'im* means *Shelo yachsar means don't* — do not leave it short — but if you overfill it, *אבל יותיר, *mile'im* קרינא ביה*: that too counts as "filled." The direction of enumeration is a kind of *siman* — a signal — for this underlying orientation: counting upward suggests that "more" is the direction of acceptability, while counting downward signals that maximums are as binding as minimums.
+According to Rabbi Meir, who enumerates from large to small, *mile'im shelo yachsar veshelo yotir*: the measure must be filled exactly — no less and no more. There is a strict maximum as well as a minimum. According to Rabbi Yehudah, who enumerates from small to large, *mile'im* means *shelo yachsar means don't* — do not leave it short — but if you overfill it, *אבל יותיר, *mile'im* קרינא ביה*: that too counts as "filled." The direction of enumeration is a kind of *siman* — a signal — for this underlying orientation: counting upward suggests that "more" is the direction of acceptability, while counting downward signals that maximums are as binding as minimums.
 
 Tosafot notes that the directional ordering is more of a mnemonic signal for the underlying positions than a logical derivation from them.
 
@@ -112,7 +110,6 @@ This raises the question: is this not identical to the first dispute about beiru
 
 ### Hin Never Used
 
-*[Continued from above]*
 
 Having presented the Baraita's full treatment of the debate, the Gemara turns back to examine Rabbi Shimon's position more closely. Rabbi Shimon maintains that the hin was simply never functionally required: *לא היו שם *hin** — no offering demanded a full hin's measure of wine or oil, so why maintain such a vessel?
 
@@ -166,7 +163,7 @@ The *chatzi log* served two functions: *chatzi log mayim le-sotah* — the half-
 >
 > **Translation:** **And with** the vessel of one ***log*, one would measure** the oil **for all the** standard **meal offerings.** Each tenth of an ephah of flour requires one *log* of oil. Accordingly, **even** if one brings **a meal offering of sixty tenths** of an ephah of flour, **one adds to it sixty *log*** of oil.
 
-The log was the standard measure for all menachot: *u-ve-log haya moded le-chol ha-menachot*. Just as the standard unit of flour for a minchah was an isaron — roughly a five-pound measure — the standard amount of oil was one log, approximately fourteen ounces. This is analogous to the rule regarding dry measures: even for a large minchah requiring many isronot, one uses the single isaron measure repeatedly rather than a larger vessel. The same principle applies to oil: *Afilu Mincha shel shishim isaron notnin lah shishim* — even a sixty-isaron minchah would receive sixty log of oil, measured out with the log vessel sixty times.
+The log was the standard measure for all menachot: *u-ve-log haya moded le-chol ha-menachot*. Just as the standard unit of flour for a minchah was an isaron — roughly a five-pound measure — the standard amount of oil was one log, approximately fourteen ounces. This is analogous to the rule regarding dry measures: even for a large minchah requiring many isronot, one uses the single isaron measure repeatedly rather than a larger vessel. The same principle applies to oil: *afilu mincha shel shishim isaron notnin lah shishim* — even a sixty-isaron minchah would receive sixty log of oil, measured out with the log vessel sixty times.
 
 ### Large Menachot Debate
 
@@ -186,7 +183,7 @@ The reason the Mishnah specifies sixty isronot as the example is deliberate: as 
 
 The Mishnah then assigns specific measures to the libations accompanying animal sacrifices: six log for the par (a half-hin), four log for the ayil (a third-hin), and three log for the keves (a quarter-hin). Although the Mishnah here expresses these in log, the actual measuring vessels used in practice would have been the chatzi ha-hin, shlishit ha-hin, and revi'it ha-hin respectively; the Mishnah is simply clarifying the log equivalencies for completeness.
 
-For the menorah: *Shlosha vamachetza lamenorah* — three and a half log in total, with *chatzi log lechol ner* — a half-log per lamp. The assumption is that a half-log of oil is sufficient to sustain a lamp through the longest winter night; this standard amount was maintained year-round. Seven lamps at a half-log each yields three and a half log. As for the summer months when nights are shorter, any oil still burning in the morning would be extinguished at the time of the morning service — except for the ner maaravi — and the surplus oil would be poured out.
+For the menorah: *shlosha vamachetza lamenorah* — three and a half log in total, with *chatzi log lechol ner* — a half-log per lamp. The assumption is that a half-log of oil is sufficient to sustain a lamp through the longest winter night; this standard amount was maintained year-round. Seven lamps at a half-log each yields three and a half log. As for the summer months when nights are shorter, any oil still burning in the morning would be extinguished at the time of the morning service — except for the ner maaravi — and the surplus oil would be poured out.
 
 ---
 
@@ -200,7 +197,7 @@ For the menorah: *Shlosha vamachetza lamenorah* — three and a half log in tota
 
 The Gemara now records a series of questions and answers between Rebbe (Rabbi Yehudah HaNasi) and his colleagues concerning the status of the liquid measures as *kli sharet* — sanctified Temple vessels. Rebbe's starting assumption is that the liquid measures were indeed keilei sharet, as distinct from the dry measures, about which there had been an earlier debate. The question is then: for what purpose would each measure require this sanctified status?
 
-*Yosiv Rebbe ve-ka kashya leh* — Rebbe sat and was troubled: **revit* למה נשנית?* — Why was the revi'it designated as a kli sharet? The Mishnah says the revi'it was used for the metzora's water and the nazir's oil. But the metzora's purification took place outside the Mikdash — *chutza hu* — so no kli sharet was needed there. And the nazir's oil accompanies his shlamim, and *Lechem nazir bishchitas ayil hu dekadesh because* — the lechem of the nazir is sanctified through the slaughtering of his ayil, not through a measuring vessel. So what sanctification role does the revi'it vessel serve?
+*Yosiv Rebbe ve-ka kashya leh* — Rebbe sat and was troubled: **revit* למה נשנית?* — Why was the revi'it designated as a kli sharet? The Mishnah says the revi'it was used for the metzora's water and the nazir's oil. But the metzora's purification took place outside the Mikdash — *chutza hu* — so no kli sharet was needed there. And the nazir's oil accompanies his shlamim, and *lechem nazir bishchitas ayil hu dekadesh because* — the lechem of the nazir is sanctified through the slaughtering of his ayil, not through a measuring vessel. So what sanctification role does the revi'it vessel serve?
 
 ### Kohen Gadol Oil
 
@@ -218,7 +215,7 @@ Rebbe was delighted, and he applied to Rabbi Chiya the verse *me-eretz merchak i
 >
 > **Translation:** § The mishna teaches: **What** purpose **did** the **half-*log*** measuring vessel **serve?** It was used to measure a half-*log* of water for the *sota* and a half-*log* of oil for the thanks offering. The Gemara relates: **Rabbi** Yehuda HaNasi **was sitting** in study **and posed a difficulty: For what** purpose **was** the **half-*log*** measuring vessel **anointed** with the anointing oil, thereby consecrating it a service vessel? **If** you suggest it was necessary in order to measure the water used in the rite of the ***sota*,** one can counter: **Is** the water that was used **non-sacred** such **that it is necessary to consecrate** it? Isn't **it written:** "And the priest shall take **holy water** in an earthen vessel" (Numbers 5:17)? And **if** you suggest that it was for measuring the oil for the loaves of **a thanks offering,** one can counter that the **loaves of a thanks offering are consecrated through the slaughter of** the **thanks offering,** and so there is no need for the oil to have been consecrated through a service vessel.
 
-The Gemara records the parallel inquiry: *Yosiv Rebbe ve-ka kashya leh* — Rebbe again sat troubled, this time over the *chatzi log*. *chatzi log lama nimshach* — Why did the half-log require sanctification? The Mishnah says it was used for the sotah's water and the todah's oil. But the water for the sotah was drawn from the kiyor — the laver — and the Torah itself calls it *מים קדושים*: it was already sanctified through the kiyor, not through a measuring vessel. And the oil for the todah's lechem, like the nazir's, is sanctified through the slaughtering of the todah offering: *lachmei Toda bishchitas Toda hu dekadshi*. So again: why would the *chatzi log* need to be a kli sharet?
+The Gemara records the parallel inquiry: *yosiv rebbe ve-ka kashya leh* — Rebbe again sat troubled, this time over the *chatzi log*. *chatzi log lama nimshach* — Why did the half-log require sanctification? The Mishnah says it was used for the sotah's water and the todah's oil. But the water for the sotah was drawn from the kiyor — the laver — and the Torah itself calls it *מים קדושים*: it was already sanctified through the kiyor, not through a measuring vessel. And the oil for the todah's lechem, like the nazir's, is sanctified through the slaughtering of the todah offering: *lachmei Toda bishchitas Toda hu dekadshi*. So again: why would the *chatzi log* need to be a kli sharet?
 
 ### Menorah Oil Portions
 
@@ -228,7 +225,7 @@ The Gemara records the parallel inquiry: *Yosiv Rebbe ve-ka kashya leh* — Rebb
 
 This time it was Rebbe's own son, Rabbi Shimon bar Rebbe, who provided the resolution: *she-ba haya mechallek *chatzi log* shemen le-chol ner* — the half-log was used to measure and distribute the oil to each individual lamp of the menorah. As the Mishnah stated, each of the seven lamps received a half-log of oil, and that oil needed to be sanctified as it was dispensed. The *chatzi log* kli sharet was the instrument through which this sanctification was effected.
 
-Rebbe responded: *ner Yisrael kach haya* — "Light of Israel, so it was" — commending his son with this epithet particularly fitting to the subject of the menorah's lamps. Tosafot notes that the phrase *Ner Yisrael* appears in another Gemara context as well, not limited to this passage.
+Rebbe responded: *ner Yisrael kach haya* — "Light of Israel, so it was" — commending his son with this epithet particularly fitting to the subject of the menorah's lamps. Tosafot notes that the phrase *ner yisrael* appears in another Gemara context as well, not limited to this passage.
 
 ---
 
@@ -270,13 +267,12 @@ On this resolution Rebbe applied the verse *רכב על דבר אמת וענוה
 
 ### Rambam Twice Daily
 
-*[Continued from above]*
 
 The Rambam takes a position on the menorah that stands entirely alone among the Rishonim. The near-universal understanding is that the menorah was lit at night and cleaned in the morning — the oil measure of a half-log per lamp being calibrated to last through the longest winter nights — and that the morning service of *הטבת הנרות* (cleaning the lamps) was distinct from the evening *hadlakah* (lighting). This is grounded in the verse *baboker baboker betivo es haneros yaktirena*, which speaks of the morning cleaning in conjunction with the morning incense offering.
 
 The Rambam, however, understands the menorah as burning continuously — through both night and day, tamid in the literal sense. According to him, the procedure of *hatavah* and *hadlakah* was performed twice daily, morning and evening, but in each case the process was the same: one checked the lamps, and if a lamp was burning cleanly, one added oil; if a lamp had gone out or needed attention, one cleaned it, refilled it with a half-log, and relit it. Thus for the Rambam, this Gemara's scenario — a lamp that has gone out and must be cleaned and relit — describes not a rare nighttime occurrence but the routine morning procedure.
 
-Under the Rambam's reading, the half-log per lamp need not be calibrated to last a full night; the measure is added at each of the two daily servicings and is sufficient to last until the next one. All other *Rishonim disagree* and understand the menorah as lit at night and cleaned by day.
+Under the Rambam's reading, the half-log per lamp need not be calibrated to last a full night; the measure is added at each of the two daily servicings and is sufficient to last until the next one. All other *rishonim disagree* and understand the menorah as lit at night and cleaned by day.
 
 ---
 

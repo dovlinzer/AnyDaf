@@ -30,7 +30,7 @@ Rashi explains the second image: if you already have a pit and you pull out a li
 
 אָמַר לָהֶם: לְכוּ וּפִשְׁטוּ יְדֵיכֶם בַּגְּדוּד — he said to them: go and extend your hands against a military band, go out to war. This is, frankly, a striking response. One might ask whether there is any halachic significance to the suggestion that Jews in a state of poverty simply attack others. For roughly two thousand years following the composition of the Gemara this was a moot question, but it raises serious issues. It is not cited as a normative halachic ruling.
 
-What the Gemara does develop, and what the Rambam later formalizes, is the distinction between מִלְחֶמֶת מִצְוָה and מִלְחֶמֶת רְשׁוּת. *Milchemet Mitzvah* encompasses the conquest of the land of Israel, the war against the seven nations, the destruction of Amalek, and — as the Rambam makes explicit — wars of self-defense when Israel is attacked. *Milchemet Reshut*, by contrast, is war undertaken for territorial expansion. The campaign described here — going to war to improve the economy, to seize the wealth of others — falls squarely into the category of *Milchemet Reshut*. That category itself raises questions about what legitimizes such a war, and indeed the Gemara immediately proceeds to describe the process that must precede it.
+What the Gemara does develop, and what the Rambam later formalizes, is the distinction between מִלְחֶמֶת מִצְוָה and מִלְחֶמֶת רְשׁוּת. *milchemet mitzvah* encompasses the conquest of the land of Israel, the war against the seven nations, the destruction of Amalek, and — as the Rambam makes explicit — wars of self-defense when Israel is attacked. *milchemet reshut*, by contrast, is war undertaken for territorial expansion. The campaign described here — going to war to improve the economy, to seize the wealth of others — falls squarely into the category of *milchemet reshut*. That category itself raises questions about what legitimizes such a war, and indeed the Gemara immediately proceeds to describe the process that must precede it.
 
 ### War Protocol
 
@@ -52,7 +52,6 @@ Rashi and Tosafot read the verse differently. Rashi understands that Benayahu be
 
 ### Sanhedrin's Role
 
-*[Continued from above]*
 
 One might have expected that asking permission from the Sanhedrin meant seeking their formal approval before undertaking a war of Reshut — the Sanhedrin representing the people, much as they lay their hands on the eglah arufah as the people's representatives. But Rashi, in his comment on וְנִמְלָכִין בְּסַנְהֶדְרִין, says: נוֹטְלִין מֵהֶם רְשׁוּת כְּדֵי שֶׁיִּתְפַּלְלוּ עֲלֵיהֶם — they take permission from them so that the Sanhedrin will pray on their behalf. This is a striking Rashi. That you want the sages and the people praying for you is perfectly understandable, but that this is why you ask permission — that is unusual. You would normally assume that soliciting prayers happens after the decision is made, not as the process of authorization.
 
@@ -96,9 +95,8 @@ What Moshe is doing goes even one step further. He actually knew the answer. But
 
 ### Rashi & Oral Torah
 
-*[Continued from above]*
 
-Rashi in his commentary on the Chumash chose this explanation — that Moshe said כַּחֲצוֹת so the astrologers would not call him a liar — and not the earlier answer of the Gemara that Moshe simply did not know. This is worth pausing over. Rashi so thoroughly integrates the world of *Torah sheba'al peh* into the biblical narrative that readers of his Chumash commentary absorb particular Talmudic readings as if they were the plain meaning of the text. His commentary positions the learner seamlessly within the rabbinic universe. At the same time, one must remember that even when Rashi adopts a particular strand, the Gemara itself preserves a much wider range of interpretation, and what Rashi selects is one choice among many.
+Rashi in his commentary on the Chumash chose this explanation — that Moshe said כַּחֲצוֹת so the astrologers would not call him a liar — and not the earlier answer of the Gemara that Moshe simply did not know. This is worth pausing over. Rashi so thoroughly integrates the world of *torah sheba'al peh* into the biblical narrative that readers of his Chumash commentary absorb particular Talmudic readings as if they were the plain meaning of the text. His commentary positions the learner seamlessly within the rabbinic universe. At the same time, one must remember that even when Rashi adopts a particular strand, the Gemara itself preserves a much wider range of interpretation, and what Rashi selects is one choice among many.
 
 ### Rav Ashi: Kaf Dimyon
 
@@ -134,11 +132,10 @@ The second opinion interprets the claim differently. Dovid is not comparing when
 
 ### Dovid Talmid Chacham
 
-*[Continued from above]*
 
 This is a striking image, and one that tends to stay with anyone who has learned the Gemara. Here is Dovid HaMelech — not on his throne, not surrounded by his guard, but examining a placenta and inspecting blood. The contrast with the other kings is stark and very deliberately physical. But what is also fascinating is the picture the rabbis want to paint of Dovid: not merely the composer of Tehillim, not merely the king who follows God, but a talmid chacham, a posek halacha, someone to whom people bring she'alos and who issues rulings. Indeed there is something poignant about people bringing their most personal halachic questions to the king — this imagines a Dovid who participates in the intimate texture of every Jewish household.
 
-One cannot help but note the resonance of "blood on his hands" with the verse in which Dovid is told he cannot build the *Beis Hamikdash* because his hands are full of blood. The Gemara here reframes that image: yes, his hands are full of blood — the blood of niddah examination, brought in service of taharat hamishpacha. And earlier in this very passage Dovid told the sages to go to war, which also leaves blood on his hands. The rabbis seem to be consciously taking the constellation of imagery around Dovid and blood and redirecting it toward an act of chesed and halachic service.
+One cannot help but note the resonance of "blood on his hands" with the verse in which Dovid is told he cannot build the *beis hamikdash* because his hands are full of blood. The Gemara here reframes that image: yes, his hands are full of blood — the blood of niddah examination, brought in service of taharat hamishpacha. And earlier in this very passage Dovid told the sages to go to war, which also leaves blood on his hands. The rabbis seem to be consciously taking the constellation of imagery around Dovid and blood and redirecting it toward an act of chesed and halachic service.
 
 ### Mefiboshet Consult
 
@@ -194,13 +191,11 @@ The answer is the same: שֶׁמָּא יִגְרוֹם הַחֵטְא. For Yaak
 
 ### Second Entry & Sin
 
-*[Continued from above]*
 
 This brings the abstract concern of שֶׁמָּא יִגְרוֹם הַחֵטְא into concrete historical relief. Yes, things are anticipated, promised, or anticipated by trajectory — and sometimes sin intervenes and the fulfillment is real but diminished.
 
 ### Rambam Nevuah Issue
 
-*[Continued from above]*
 
 This raises a significant question about the Rambam's treatment of nevuah. The Rambam states that a prophecy of good cannot be retracted — it is only a prophecy of doom that can be undone by teshuvah, as in the case of Yonah and Nineveh (עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת). A negative prophecy that does not come to pass does not impugn the prophet, because the people may have done teshuvah and God had mercy. But if a prophet promises something good and it does not come about, that demonstrates he is a false prophet — because God never withdraws a promise of good.
 
@@ -272,7 +267,7 @@ One might note that even setting midnight as a deadline may not by itself create
 
 בְּמַאי קָא מִפַּלְּגִי — what is the underlying dispute? The Gemara offers two possible frameworks. The first is a matter of סְבָרָא, independent reasoning about the nature of the Exodus. רַבִּי יוֹחָנָן סָבַר: גְּאוּלָּה מֵאוּרְתָּא נַמִּי הָוֵי — there was a genuine beginning of geulah at night. It was with מַכַּת בְּכוֹרוֹת, the plague of the firstborn at midnight, that the process of the Exodus began. אֶלָּא גְּאוּלָּה מְעַלְּיָיתָא לָא הָוִיָא אֶלָּא צַפְרָא — the full, consummate geulah did not occur until the morning at the Yam Suf, but the beginning was genuinely at night. Therefore when we say גָּאַל יִשְׂרָאֵל in the evening Shema, it is a real mention of geulah, and it follows that we juxtapose it to Shemoneh Esrei just as in the morning.
 
-רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי סָבַר: כֵּיוָן דְּלָא הָוִיָא אֶלָּא צַפְרָא, לָאו גְּאוּלָּה מְעַלְּיָיתָא הִיא — since the true, complete geulah happened in the morning, what occurred at night was not a full-fledged geulah. Therefore although we do say the third paragraph of Shema and do say גָּאַל יִשְׂרָאֵל at night, it does not carry the same weight, and we need not juxtapose it to Shemoneh Esrei. This debate is closely tied to the broader question addressed in a later mishnah in Berachot: is there a mitzvah to remember *Yetziat Mitzrayim* at night? And does the requirement to recite the third paragraph of Shema, which speaks of redemption, apply equally at night?
+רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי סָבַר: כֵּיוָן דְּלָא הָוִיָא אֶלָּא צַפְרָא, לָאו גְּאוּלָּה מְעַלְּיָיתָא הִיא — since the true, complete geulah happened in the morning, what occurred at night was not a full-fledged geulah. Therefore although we do say the third paragraph of Shema and do say גָּאַל יִשְׂרָאֵל at night, it does not carry the same weight, and we need not juxtapose it to Shemoneh Esrei. This debate is closely tied to the broader question addressed in a later mishnah in Berachot: is there a mitzvah to remember *yetziat mitzrayim* at night? And does the requirement to recite the third paragraph of Shema, which speaks of redemption, apply equally at night?
 
 ### Mekish Shechivah Kimah
 
@@ -314,7 +309,6 @@ What is philosophically interesting here is the way the rabbis' institutional ac
 
 ### Concluding Reflection: Shema as Parenthesis Around Life — Love, Liturgy, and Tension Between Mitzvah and Prayer
 
-*[Continued from above]*
 
 The debate between Rabbi Yochanan and Rabbi Yehoshua ben Levi, and the interplay of Shema and Shemoneh Esrei throughout Maariv, illuminate a persistent tension in the masechet between two ways of understanding what we are doing. From one vantage point, Shema is a discrete mitzvah — an act of declaration tied to specific times, morning and evening, with its own berachot and its own requirements of intention and sequence. From another vantage point, Shema is part of an integrated liturgy that shapes the rhythm of the entire day, folding together confession, praise, memory, petition, and love into a structure that brackets human experience.
 

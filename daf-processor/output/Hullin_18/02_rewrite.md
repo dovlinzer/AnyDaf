@@ -48,7 +48,7 @@ Tosafot anticipates and then dismisses the popular answer involving the shamir, 
 
 ### Tosafot's River Pebbles
 
-Tosafot arrives at a somewhat different formulation. Citing the sugya in the perek of *Eizehu Mekoman*, Tosafot suggests that the altar was built using very small, smooth stones — *chalukei avanim shel nachal*, smooth river pebbles — that by their nature have no nicks, having been smoothed by the water of a riverbed. These pebbles were then held together by cement and plaster. On Tosafot's reading, one still looks at the individual stones, but since those stones are themselves perfectly smooth, the standard of *shetachgor bah tziporen* is satisfied. In practice, however, since the bulk of the surface consists of the plaster holding the stones together, only a nick of *tefach* or *kezayit* in that plaster would be problematic. This represents a realistic resolution to what would otherwise seem like an impossible standard.
+Tosafot arrives at a somewhat different formulation. Citing the sugya in the perek of *eizehu mekoman*, Tosafot suggests that the altar was built using very small, smooth stones — *chalukei avanim shel nachal*, smooth river pebbles — that by their nature have no nicks, having been smoothed by the water of a riverbed. These pebbles were then held together by cement and plaster. On Tosafot's reading, one still looks at the individual stones, but since those stones are themselves perfectly smooth, the standard of *shetachgor bah tziporen* is satisfied. In practice, however, since the bulk of the surface consists of the plaster holding the stones together, only a nick of *tefach* or *kezayit* in that plaster would be problematic. This represents a realistic resolution to what would otherwise seem like an impossible standard.
 
 ---
 
@@ -274,7 +274,7 @@ This sugya raises the broader question of the relationship between the halachic 
 
 ### Calendar & Semichah
 
-The clearest expression of Eretz Yisrael's primacy was its exclusive jurisdiction over *Kiddush Hachodesh* — the sanctification of the new month and the determination of the calendar. Rashi also mentions the question of semichah and the capacity to adjudicate *knasot* — monetary penalties — both of which remained functions of the Eretz Yisrael rabbinic establishment. As long as these critical religious functions were centered in Eretz Yisrael, it retained ultimate religious authority even if Bavel had greater political leverage.
+The clearest expression of Eretz Yisrael's primacy was its exclusive jurisdiction over *kiddush hachodesh* — the sanctification of the new month and the determination of the calendar. Rashi also mentions the question of semichah and the capacity to adjudicate *knasot* — monetary penalties — both of which remained functions of the Eretz Yisrael rabbinic establishment. As long as these critical religious functions were centered in Eretz Yisrael, it retained ultimate religious authority even if Bavel had greater political leverage.
 
 ### Geonic Period Shift
 

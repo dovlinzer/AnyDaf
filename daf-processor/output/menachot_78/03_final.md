@@ -20,7 +20,6 @@ The Gemara immediately raises a challenge: the word *mimenu* also appears elsewh
 
 ### Excluding Midyan/Challah
 
-*[Continued from above]*
 
 This is not merely a technicality. The concept of *mimenu* and *mechubar* captures the very essence of terumah: a gift that represents the whole from which it is separated — and specifically the finest of that whole. The *chelev* represents the choicest part of the korban; presenting it while still unified with the animal conveys that this is the gift of the entire korban to God. The same logic applies to terumah from grain and to the loaves of the toda: one does not simply hand over some bread to the kohen — one lifts a gift from the entirety of the forty loaves.
 
@@ -62,7 +61,6 @@ Having established that the toda-loaves are called *terumah*, Rava raises a fasc
 
 ### Assara Esronot
 
-*[Continued from above]*
 
 The question is whether the word *terumah* here is technical or merely generic, meaning simply a gift or separation. The classic agricultural terumah — grain, challah, bikurim, terumat ma'aser — all share the character of being standard, obligatory gifts from the produce of the land, given to the kohen as God's representative. The toda-loaves operate in an entirely different conceptual universe: the toda offering is optional, and the loaves accompany it not as a gift from agricultural bounty but as an appurtenance of the korban itself. The *terumah* here is lifted not from the grain of one's field but from the forty loaves one has prepared. This raises the genuine question of whether the technical halachic consequences of terumah-status follow.
 
@@ -86,7 +84,6 @@ The Gemara now returns to the braita. The next point concerns the measure of flo
 
 ### Tavyu Inclusion
 
-*[Continued from above]*
 
 The Gemara asks: *mai talmuda* — what exactly do we derive from this? Rav Yosef bar Avdimi explains: *tihyena ksiv* — it is written *tihyena*, with a double *yud*. Both Rashi and Tosafot explain that the double *yud* signals that the measure applies to ten loaves. Since *shtei halechem* is two loaves each of one *issaron*, the verse signals by means of *tihyena* that this unit of one *issaron* per loaf applies equally to the ten *chametz* loaves of the toda — yielding *asara esronot* for those ten loaves.
 
@@ -94,7 +91,6 @@ One might then ask: perhaps the *yud* teaches ten, but perhaps ten of a differen
 
 ### Miluim Three Types
 
-*[Continued from above]*
 
 We have thus established that the ten *chametz* loaves of the toda require *asara esronot* — one *issaron* per loaf.
 
@@ -122,7 +118,7 @@ Tosafot raises a significant methodological objection. We learned the *issaron*-
 
 The Gemara answers: *himenu ve-davar akher hu* — it is "from it and another thing." The principle is that when you are already learning something locally from B to C — in this case, the equivalence of *chametz* and *matzah* flour directly from the verse — then you may *schlepp* along what you additionally learned from A. This is the distinction between a pure daisy-chain, which is prohibited, and a piggyback, which is permitted: since the connection from the *chametz* to the *matzah* is established on its own terms, one may bring along the measure of *asara esronot* as well.
 
-The Gemara then asks: what of the opinion that even *himenu ve-davar akher* is still considered a *hekkesh* and is therefore forbidden? *Mai ika le-meimar?*
+The Gemara then asks: what of the opinion that even *himenu ve-davar akher* is still considered a *hekkesh* and is therefore forbidden? *mai ika le-meimar?*
 
 ### Matzos Klal Prat
 
@@ -174,7 +170,6 @@ Two of the three are readily identified by the Gemara: *bishlama challos challos
 
 ### Crust Requirement
 
-*[Continued from above]*
 
 The third type mentioned by the miluim is *challat lechem shemen* — a loaf of oily bread. The Gemara naturally assumes this corresponds to the *revuchah* of the toda. But Rav Chavya bar Rav Avia challenges this: *eima anta de-mishcha* — perhaps *challat lechem shemen* means simply some kind of oil-drenched cake, *uga shel shemen*, something entirely different from the *revuchah* mentioned by the toda. The identification of *lechem shemen* with *revuchah* is attractive but not logically compelled. The pseudo-Rashi goes even further, entertaining the possibility that *challah* might not refer to bread at all here, though he acknowledges the difficulty given that the verse says *challat lechem*.
 
@@ -240,7 +235,6 @@ The Mishnah on ayin-chet amud bet presents a foundational principle about how th
 
 ### Knife Power Debate
 
-*[Continued from above]*
 
 The Mishnah further rules that if the loaves had not yet developed a crust in the oven — *ad shelo karmu paneha ba-tanur* — they are not yet considered *lechem* and thus cannot be sanctified by the shechitah. Furthermore, even if all the loaves but one had formed a crust, *lo kideish ha-lechem* — none of them are sanctified. The Mishnah thus establishes three requirements: the slaughtering must be done as a toda; the bread must be within the appropriate boundary; and all loaves must qualify as *lechem* by having formed a crust.
 
@@ -250,7 +244,7 @@ The Mishnah further rules that if the loaves had not yet developed a crust in th
 >
 > **Translation:** GEMARA: The Gemara clarifies: **What** is meant by **outside the wall? Rabbi Yoḥanan says** that it means **outside the wall of Beit Pagei** in Jerusalem. **And Reish Lakish says** that it means **outside the wall of the** Temple **courtyard.**
 
-The Gemara asks: *mai chutz la-chomah* — which wall are we speaking of? *Reish Lakish* says: *chutz le-chomat ha-azarah* — outside the wall of the Azarah itself. The word *al* in *al chalos lechem chametz*, he argues, means the bread must be literally alongside the korban — *be'inan al be-samoch*. If the korban is slaughtered inside the Azarah, the bread must be there with it. Rabbi Yochanan says: *chutz le-chomat Beit Pagi* — only if the bread is outside the outer wall of Jerusalem is it a problem. Within Jerusalem anywhere is sufficient; *lo be'inan al be-samoch*, the word *al* does not require physical proximity. Rabbi Yochanan's position is conceptually grounded in the status of the toda as *kodashim kalim*: since these breads may be eaten throughout Jerusalem, their sanctification can occur throughout Jerusalem, and need not be confined to the Azarah proper.
+The Gemara asks: *mai chutz la-chomah* — which wall are we speaking of? *reish lakish* says: *chutz le-chomat ha-azarah* — outside the wall of the Azarah itself. The word *al* in *al chalos lechem chametz*, he argues, means the bread must be literally alongside the korban — *be'inan al be-samoch*. If the korban is slaughtered inside the Azarah, the bread must be there with it. Rabbi Yochanan says: *chutz le-chomat Beit Pagi* — only if the bread is outside the outer wall of Jerusalem is it a problem. Within Jerusalem anywhere is sufficient; *lo be'inan al be-samoch*, the word *al* does not require physical proximity. Rabbi Yochanan's position is conceptually grounded in the status of the toda as *kodashim kalim*: since these breads may be eaten throughout Jerusalem, their sanctification can occur throughout Jerusalem, and need not be confined to the Azarah proper.
 
 ### Pesach chametz parallel
 
@@ -258,7 +252,7 @@ The Gemara asks: *mai chutz la-chomah* — which wall are we speaking of? *Reish
 >
 > **Translation:** The Gemara elaborates: **Reish Lakish says** that it means **outside the wall of the** Temple **courtyard,** because the verse states with regard to the loaves of the thanks offering: "Then he shall sacrifice with [*al*] the thanks offering unleavened cakes mingled with oil" (Leviticus 7:12). And **we require** that the thanks offering be slaughtered strictly **"with [*al*]"** the accompanying loaves, i.e., with the loaves **nearby.** If the loaves are outside the wall of the Temple courtyard, they are not considered nearby.
 
-The Gemara notes that this dispute parallels an earlier argument between the same Amoraim regarding *la tishchat *al chametz* dam zivchi* — do not slaughter my Pesach sacrifice while *chametz* exists. The question there is likewise what *al* means: does the *chametz* have to be physically present in the Azarah with the one performing the slaughter, or does it suffice that the person owns *chametz* somewhere, even at home? *Reish Lakish* holds the former; Rabbi Yochanan holds the latter.
+The Gemara notes that this dispute parallels an earlier argument between the same Amoraim regarding *la tishchat *al chametz* dam zivchi* — do not slaughter my Pesach sacrifice while *chametz* exists. The question there is likewise what *al* means: does the *chametz* have to be physically present in the Azarah with the one performing the slaughter, or does it suffice that the person owns *chametz* somewhere, even at home? *reish lakish* holds the former; Rabbi Yochanan holds the latter.
 
 ### Need both cases explained
 
@@ -266,7 +260,7 @@ The Gemara notes that this dispute parallels an earlier argument between the sam
 >
 > **Translation:** **And Rabbi Yoḥanan says:** If the loaves were **outside the wall of Beit Pagei,** they are not consecrated, because it is prohibited to eat the loaves outside the wall of Beit Pagei. Since if they were taken outside the wall of Beit Pagei, they would be disqualified because they were removed from their permitted area, they cannot be consecrated if they are there. **But** if they were merely **outside the** Temple **courtyard,** where they may be eaten, they are **consecrated. And we do not require** that the thanks offering be slaughtered strictly **"with"** the accompanying loaves, i.e., **nearby.**
 
-The Gemara explains that both cases are necessary: *tzricha*. Had Rabbi Yochanan stated his lenient position only by *chametz* and Pesach, one might have conceded that in a context of prohibition, the Torah cares wherever the chametz is — but by sanctification of bread, perhaps Rabbi Yochanan would agree with *Reish Lakish* that physical proximity is required. Conversely, had *Reish Lakish* stated his strict position only regarding the toda-bread, one might have thought that in the context of a positive act of sanctification, closeness is logically required, but regarding *chametz* he might agree with Rabbi Yochanan that ownership anywhere constitutes a problem. Since both scholars maintain their positions in both cases, both rulings are necessary.
+The Gemara explains that both cases are necessary: *tzricha*. Had Rabbi Yochanan stated his lenient position only by *chametz* and Pesach, one might have conceded that in a context of prohibition, the Torah cares wherever the chametz is — but by sanctification of bread, perhaps Rabbi Yochanan would agree with *reish lakish* that physical proximity is required. Conversely, had *reish lakish* stated his strict position only regarding the toda-bread, one might have thought that in the context of a positive act of sanctification, closeness is logically required, but regarding *chametz* he might agree with Rabbi Yochanan that ownership anywhere constitutes a problem. Since both scholars maintain their positions in both cases, both rulings are necessary.
 
 > **Hebrew/Aramaic:** וְהָא אִיפְּלִיגוּ בַּהּ חֲדָא זִימְנָא?
 >
@@ -278,7 +272,7 @@ The Gemara explains that both cases are necessary: *tzricha*. Had Rabbi Yochanan
 >
 > **Translation:** The Gemara notes: **It is taught** in a *baraita* **in accordance with** the opinion **of Rabbi Yoḥanan:** In the case of **one who slaughters the thanks offering inside** the Temple courtyard, **and** at that time **its loaves were outside the walls of Beit Pagei, the loaves were not consecrated.**
 
-A braita is cited in support of Rabbi Yochanan: *ha-shochet et ha-toda bifnim ve-lachmah chutz le-chomat Beit Pagi — lo kideish ha-lechem*. If the bread is outside of Beit Pagi — outside Jerusalem — it is not sanctified. This implies that bread anywhere within Jerusalem, even outside the Azarah, is sanctified by the shechitah, consistent with Rabbi Yochanan's position. The braita is noted as surprising given that the logic of the Gemara would seem to favor *Reish Lakish*, yet the braita sides with Rabbi Yochanan.
+A braita is cited in support of Rabbi Yochanan: *ha-shochet et ha-toda bifnim ve-lachmah chutz le-chomat Beit Pagi — lo kideish ha-lechem*. If the bread is outside of Beit Pagi — outside Jerusalem — it is not sanctified. This implies that bread anywhere within Jerusalem, even outside the Azarah, is sanctified by the shechitah, consistent with Rabbi Yochanan's position. The braita is noted as surprising given that the logic of the Gemara would seem to favor *reish lakish*, yet the braita sides with Rabbi Yochanan.
 
 ---
 
@@ -302,7 +296,6 @@ The Gemara connects the *lechem* requirement to the analogous question of what c
 
 ### Strands test for bread
 
-*[Continued from above]*
 
 Rav Yehuda said in the name of Shmuel: *kol she-porsa ve-ein chutin nimshachin heimena* — any loaf that when broken does not produce doughy strands pulling from the interior has sufficiently baked. If breaking it still reveals stretching strands of raw dough, it has not achieved the status of bread.
 
@@ -332,13 +325,11 @@ The Gemara now addresses a vivid practical case: *toda she-shachata al shemonim 
 
 ### Chizkiya forty sanctified
 
-*[Continued from above]*
 
 Chizkiya holds: *kidshu arbaim mitoch shemonim* — forty of the eighty loaves become sanctified. The shechitah operates on those forty for which it is halachically effective. One does not know which forty, and therefore all eighty must be treated stringently — eaten within Jerusalem, within the allotted time — but the person has fulfilled his toda obligation.
 
 ### Rabbi Yochanan all or nothing
 
-*[Continued from above]*
 
 Rabbi Yochanan disagrees: *lo kidshu arbaim mitoch shemonim* — none of the loaves are sanctified. Since the person brought eighty and the toda only accommodates forty, the shechitah cannot partially operate. All or nothing: since it cannot sanctify all eighty, it sanctifies none, and the toda is therefore brought without its accompanying bread.
 

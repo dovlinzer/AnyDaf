@@ -36,7 +36,7 @@ The question of whether tumah is a purely ritualistic designation or something w
 
 Having established that pottery vessels receive tumah exclusively from their interior, the Gemara attempts the reverse kal vachomer. If pottery vessels, which do not become tamei from their exterior, do become tamei from their interior — then all other vessels, which do become tamei from their exterior, should *a fortiori* also become tamei from their interior, through mere presence of a tumah-source within them.
 
-The Gemara rejects this by appeal to the word *tocho* — "its interior" — used in the Torah in the context of pottery vessels. *Tocho shel zeh*, the interior of this one — the pottery vessel — *ve-lo tocho shel acher*, and not the interior of any other type of vessel. The word *tocho*, with its possessive construction, teaches that interior-based tumah reception is the exclusive property of the pottery vessel and is not extended to metal, wood, or any other class of vessel.
+The Gemara rejects this by appeal to the word *tocho* — "its interior" — used in the Torah in the context of pottery vessels. *tocho shel zeh*, the interior of this one — the pottery vessel — *ve-lo tocho shel acher*, and not the interior of any other type of vessel. The word *tocho*, with its possessive construction, teaches that interior-based tumah reception is the exclusive property of the pottery vessel and is not extended to metal, wood, or any other class of vessel.
 
 One clarification is worth making explicit. Although the Gemara frames the contrast as interior versus exterior, this is a simplification. Other vessels, if something touches their interior, do also become tamei — but that is because of the touch, not because of presence within the interior. The Gemara is distinguishing between two modes of reception: contact (which governs other vessels) and presence-in-the-interior (which governs pottery alone).
 
@@ -68,13 +68,13 @@ This question of how to locate an object that is in one thing which is itself in
 
 ### Wood/Metal Intro
 
-The Mishnah now introduces a new pairing. *Tahor b'khlei etz tamei b'khlei matachot; tahor b'khlei matachot tamei b'khlei etz* — what is pure for wood vessels is impure for metal vessels, and vice versa. The subject here has shifted from the mode by which tumah is received to the question of what constitutes a vessel in the first place — that is, what state of completion a vessel must achieve before it becomes susceptible to tumah at all.
+The Mishnah now introduces a new pairing. *tahor b'khlei etz tamei b'khlei matachot; tahor b'khlei matachot tamei b'khlei etz* — what is pure for wood vessels is impure for metal vessels, and vice versa. The subject here has shifted from the mode by which tumah is received to the question of what constitutes a vessel in the first place — that is, what state of completion a vessel must achieve before it becomes susceptible to tumah at all.
 
 The distinction is this: wood vessels require a *kibbul* — a receptacle, a hollowed-out interior capable of containing something — in order to be susceptible to tumah. This is derived from the verse *kol kli etz o beged o or o sak* — just as a sack is defined by its capacity to contain things, so a wood vessel must have a receptacle. A wood knife, for example, is entirely functional but has no receptacle; it does not become tamei. Metal vessels, by contrast, do not require a receptacle — a metal knife does become tamei. What metal vessels require instead is *gemar melacha*, the finishing of the work, the completion of every last step of manufacture.
 
 ### Unfinished Wood
 
-The Gemara elaborates with a Baraita. *Golemi klei etz* — the word *golem* here means an unfinished product, evoking the image of the famous unformed creature of Jewish legend, a lump not yet fully made. Unfinished wood vessels are nonetheless tamei, provided they have a receptacle. *Peshuteihen* — flat wood vessels without a receptacle — are tahor. For wood, the question of whether the object is finished or unfinished is irrelevant; what matters is only whether it has a hollowed interior.
+The Gemara elaborates with a Baraita. *golemi klei etz* — the word *golem* here means an unfinished product, evoking the image of the famous unformed creature of Jewish legend, a lump not yet fully made. Unfinished wood vessels are nonetheless tamei, provided they have a receptacle. *peshuteihen* — flat wood vessels without a receptacle — are tahor. For wood, the question of whether the object is finished or unfinished is irrelevant; what matters is only whether it has a hollowed interior.
 
 The Gemara then provides examples of what "unfinished" means for a wood vessel: anything that still requires polishing (*lashuf*), the addition of filigree or engraving (*leshabetz*), scraping or sanding (*legarer*), carving (*lekarkev*), or sealing with an oil or fish-skin coating (*lehatiach betunas*). Furthermore, a vessel lacking a base (*mechusar kan*), or without a lip (*mechusar ogen*), or without handles (*mechusar ozen*) — all of these are still considered tamei if they have a receptacle, because for wood, it is the receptacle that defines vessel status.
 
@@ -88,7 +88,7 @@ Tosafot raises a tension with another Gemara, in the second chapter of Sanhedrin
 
 ### Unfinished Metal
 
-For metal vessels the rule is reversed. *Golemi klei matachot* — unfinished metal vessels — are tahor. A vessel missing its polishing, its filigree, its final engraving, its final hammer blow (*lehakish bekurnas*), is not yet susceptible to tumah. The concept of *makeh bepatish* — the final hammer blow — is well known from the laws of Shabbat as the paradigm of the finishing touch, and it applies here directly. A metal vessel that has not received this final completion, this last stage of manufacture, is not yet a vessel for purposes of tumah.
+For metal vessels the rule is reversed. *golemi klei matachot* — unfinished metal vessels — are tahor. A vessel missing its polishing, its filigree, its final engraving, its final hammer blow (*lehakish bekurnas*), is not yet susceptible to tumah. The concept of *makeh bepatish* — the final hammer blow — is well known from the laws of Shabbat as the paradigm of the finishing touch, and it applies here directly. A metal vessel that has not received this final completion, this last stage of manufacture, is not yet a vessel for purposes of tumah.
 
 Noteworthy is what does not matter for metal: *mechusar kan o ogen o ozen* — if a metal vessel is missing its base, its lip, or its handles, it is nonetheless tamei already, because those attachments are considered separate objects, not integral parts of the vessel itself. Conversely, *mechusar kisuy* — if it is merely missing a cover — it is tamei, because the cover is similarly a separate object and not part of the vessel's completion.
 
@@ -112,7 +112,7 @@ The Gemara notes that Rav Nachman follows his own reasoning: *ve'azal Rav Nachma
 
 The Gemara observes that this entire discussion implies — *miklal* — that bone vessels are susceptible to tumah at the biblical level, since the debate about their status appears to be conducted at the level of biblical law. A Baraita then confirms this. Rabbi Yishmael the son of Rabbi Yochanan ben Beroka asks: what does the verse *vechol ma'aseh izim titchata'u* — "all things made of goats you shall purify" — teach? The straightforward reading would limit biblical tumah susceptibility to things made from goat hair. But the Baraita expands: *lehavi davar haba min ha'izim* — to include things that come from other parts of the goat, *min hakarnayim* — from the horns — and *umin hatalpayim* — from the hooves. Worked horn and hoof, which are essentially bone-like materials, are thus biblically susceptible to tumah.
 
-How do we know this extends beyond goats to other animals? The verse also says *vechol ma'aseh* — "all acts," in a broader formulation. If so, why mention goats specifically? *Perat le'ofot* — to exclude bird bones. Something made from bird bones would not become tamei, either because they are too fragile or too insignificant. Only things made from the bones, horns, or hooves of land animals are included.
+How do we know this extends beyond goats to other animals? The verse also says *vechol ma'aseh* — "all acts," in a broader formulation. If so, why mention goats specifically? *perat le'ofot* — to exclude bird bones. Something made from bird bones would not become tamei, either because they are too fragile or too insignificant. Only things made from the bones, horns, or hooves of land animals are included.
 
 ---
 
@@ -136,7 +136,7 @@ Rabbi Yochanan answers: *ho'il veyachol l'matkan al yedei ha'or* — since they 
 
 The Mishnah moves to another case of threshold classification: *ha-temed*. Temed is produced by adding water to grape lees — the residual grape matter remaining after pressing — and allowing the water to absorb the remaining juice. The result is a diluted, weaker form of wine-like liquid.
 
-The question is whether temed is classified as water or as wine, and the Mishnah identifies the moment of fermentation as the decisive threshold. *Ad shelo hechmit* — before it has fermented — temed is considered water. As water, it has two legal consequences. First, *eino nikach b'kesef ma'aser* — it cannot be purchased with ma'aser sheni money, since ma'aser sheni funds may only be spent on food and drink products of agricultural origin, not on mere water. Second, *u-posel et ha-mikvah* — if drawn temed is added to a mikvah that has not yet reached its required measure of forty se'ah, it invalidates the mikvah, since it is drawn water rather than rainwater or spring water.
+The question is whether temed is classified as water or as wine, and the Mishnah identifies the moment of fermentation as the decisive threshold. *ad shelo hechmit* — before it has fermented — temed is considered water. As water, it has two legal consequences. First, *eino nikach b'kesef ma'aser* — it cannot be purchased with ma'aser sheni money, since ma'aser sheni funds may only be spent on food and drink products of agricultural origin, not on mere water. Second, *u-posel et ha-mikvah* — if drawn temed is added to a mikvah that has not yet reached its required measure of forty se'ah, it invalidates the mikvah, since it is drawn water rather than rainwater or spring water.
 
 *Mishe-hechmit* — once it has fermented — temed is reclassified as wine. It may then be purchased with ma'aser sheni money, and if it flows into a mikvah, it does not invalidate it, since wine is not drawn water for these purposes.
 
@@ -144,7 +144,7 @@ This connects to a broader structural point about modern mikvah construction. St
 
 ### Brothers Partners
 
-The final Mishnah takes yet another turn, now addressing a question of civil and communal law that bears on the concepts of partnership and corporate unity. *Ha-achim ha-shutfim* — brothers who are partners — can exist in two distinct legal configurations, and their obligations differ accordingly.
+The final Mishnah takes yet another turn, now addressing a question of civil and communal law that bears on the concepts of partnership and corporate unity. *ha-achim ha-shutfim* — brothers who are partners — can exist in two distinct legal configurations, and their obligations differ accordingly.
 
 When brothers inherit a father's estate and then divide it between themselves before re-entering into a partnership, they are thereafter two separate individuals who happen to be in a joint business arrangement. In this configuration, each brother giving his annual half-shekel contribution is treated as a separate person giving a separate coin. They are therefore *chayavin b'kalbon* — obligated in the kalbon, the small additional fee paid to the money changer for breaking a full shekel into a half-shekel. However, because they are treated as independent individuals whose flocks are jointly owned through partnership, they are *pturim mi-ma'aser behemah* — exempt from the animal tithe, since ma'aser behemah applies to individually owned flocks, not to flocks held in partnership.
 

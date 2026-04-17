@@ -18,19 +18,17 @@ Daf 18 begins at the bottom of 17b, where the Gemara turns to the real details o
 
 Rabbi Shimon ben Lakish declares: *shalosh pegimot hen* — there are three types of nicks that are related to one another in terms of what defines a nick and where a nick constitutes a halachic problem.
 
-The first is *pegimat etzem bapesach* — a nick in a bone on Pesach. The Torah states *kol etzem lo tishberu vo*, that no bone may be broken. Surprisingly, one might have thought that breaking a bone meant snapping it in two; in fact, even nicking a bone constitutes a violation of this prohibition. The second is *pegimat ozen babechor* — a nick in the ear of a bechor, which constitutes a mum and thereby permits the animal to be slaughtered and eaten outside the *Beit Hamikdash*. The ear is mentioned because it appears first in the list of mumim applicable to a bechor. The third is *pegimat mum bekodashim* — a nick that creates a blemish in kodashim, rendering the animal unfit to be brought as a korban and requiring a transfer of kedusha.
+The first is *pegimat etzem bapesach* — a nick in a bone on Pesach. The Torah states *kol etzem lo tishberu vo*, that no bone may be broken. Surprisingly, one might have thought that breaking a bone meant snapping it in two; in fact, even nicking a bone constitutes a violation of this prohibition. The second is *pegimat ozen babechor* — a nick in the ear of a bechor, which constitutes a mum and thereby permits the animal to be slaughtered and eaten outside the *beit hamikdash*. The ear is mentioned because it appears first in the list of mumim applicable to a bechor. The third is *pegimat mum bekodashim* — a nick that creates a blemish in kodashim, rendering the animal unfit to be brought as a korban and requiring a transfer of kedusha.
 
 A fourth opinion is then introduced: *veRav Chisda amar af pegimat sakkin* — Rav Chisda adds that a nick in a knife is equally governed by the same standard. The Gemara notes that the earlier tanna did not include the knife because that discussion pertained to non-kodashim contexts. The essential point of grouping all of these together is not merely that nicks are problematic in various domains, but that they all share the same definition of what constitutes a nick: *vechulam pegimatan kedei pegimat hamizbe'ach* — in every case, the standard is that of the nick of the altar.
 
 ### Rashi on Bechor vs. Koda…
 
-*[Continued from above]*
 
-One might ask why bechor and kodashim are listed separately, given that a bechor is itself a type of sacrifice. Rashi offers two reasons. First, bechorot are exclusively male, and there are certain mumim — particularly in the genital area — that apply only to females and are therefore only relevant to kodashim. Second, and more significantly, Rashi addresses what might have been a *hava amina*: one might have thought that even if a blemish disqualifies an animal from being brought as a korban, a greater degree of blemish might be required before a bechor may actually be slaughtered and eaten outside the *Beit Hamikdash*. Unlike kodashim, where a blemished animal can have its kedusha transferred and a replacement korban brought, a bechor with a mum is simply slaughtered outside the *Beit Hamikdash* — and one might have imagined that to reach that stage requires a more severe blemish. The answer is that this is not the case, and that is precisely why both bechor and kodashim are stated: to exclude the possibility of any such intermediate threshold.
+One might ask why bechor and kodashim are listed separately, given that a bechor is itself a type of sacrifice. Rashi offers two reasons. First, bechorot are exclusively male, and there are certain mumim — particularly in the genital area — that apply only to females and are therefore only relevant to kodashim. Second, and more significantly, Rashi addresses what might have been a *hava amina*: one might have thought that even if a blemish disqualifies an animal from being brought as a korban, a greater degree of blemish might be required before a bechor may actually be slaughtered and eaten outside the *beit hamikdash*. Unlike kodashim, where a blemished animal can have its kedusha transferred and a replacement korban brought, a bechor with a mum is simply slaughtered outside the *beit hamikdash* — and one might have imagined that to reach that stage requires a more severe blemish. The answer is that this is not the case, and that is precisely why both bechor and kodashim are stated: to exclude the possibility of any such intermediate threshold.
 
 ### Restatement of Three Nic…
 
-*[Continued from above]*
 
 The common thread uniting all of these nicks — the bone on Pesach, the ear of the bechor, the blemish in kodashim, and the nick in a knife — is that their shared definition derives from the standard of the altar: *kedei shetachgor bah tziporen*, that the nick is of sufficient size that a fingernail running across it would catch. That is the operative measure in every one of these contexts.
 
@@ -56,27 +54,23 @@ The Gemara raises a challenge from a Baraita. The Torah states *avanim shelemot 
 
 ### Plaster vs. Stones
 
-*[Continued from above]*
 
 The Gemara resolves this apparent contradiction without difficulty: *ha besida ha be'avna* — one ruling applies to the plaster and the other to the stones. The Torah's requirement of *avanim shelemot* applies specifically to the stones of the altar. With respect to those stones, even the slightest nick — sufficient to catch a fingernail — renders the stone incomplete. However, the plaster used between the stones is not subject to the Torah's requirement of *shelemot*, and therefore a nick in the plaster only becomes halachically significant when it reaches a more substantial size, whether a *tefach* or a *kezayit*.
 
 ### Tosafot's Building Quest…
 
-*[Continued from above]*
 
 Tosafot raises the obvious difficulty: how was the altar ever built to meet such a demanding standard if iron tools were forbidden? Tosafot frames the question precisely: *ve'im tomar veheich banu hamizbe'ach* — how could they build it? *ve'anna yimtze'u avanim belo pegima* — where would they find stones without any nicks? And if they were to smooth the stones with iron, there is a biblical prohibition of *lo tanif aleihem barzel*.
 
 ### Shamir & Cement Mold
 
-*[Continued from above]*
 
 Tosafot anticipates and then dismisses the popular answer involving the shamir, the legendary worm said to have the ability to cut stone without iron tools. Tosafot argues that even the shamir could not have produced a surface smooth enough that no fingernail would catch on it. A more compelling answer, which emerges from the Gemara in Zevachim 54, is that the altar was constructed not by laying individual cut stones but by pouring a mixture — essentially cement — into a mold. This method would produce a surface that, being formed by the mold, could be extremely smooth. It also raises the question of whether such a construction goes by the standards applicable to stones or to plaster in terms of how significant a nick must be.
 
 ### Tosafot's River Pebbles
 
-*[Continued from above]*
 
-Tosafot arrives at a somewhat different formulation. Citing the sugya in the perek of *Eizehu Mekoman*, Tosafot suggests that the altar was built using very small, smooth stones — *chalukei avanim shel nachal*, smooth river pebbles — that by their nature have no nicks, having been smoothed by the water of a riverbed. These pebbles were then held together by cement and plaster. On Tosafot's reading, one still looks at the individual stones, but since those stones are themselves perfectly smooth, the standard of *shetachgor bah tziporen* is satisfied. In practice, however, since the bulk of the surface consists of the plaster holding the stones together, only a nick of *tefach* or *kezayit* in that plaster would be problematic. This represents a realistic resolution to what would otherwise seem like an impossible standard.
+Tosafot arrives at a somewhat different formulation. Citing the sugya in the perek of *eizehu mekoman*, Tosafot suggests that the altar was built using very small, smooth stones — *chalukei avanim shel nachal*, smooth river pebbles — that by their nature have no nicks, having been smoothed by the water of a riverbed. These pebbles were then held together by cement and plaster. On Tosafot's reading, one still looks at the individual stones, but since those stones are themselves perfectly smooth, the standard of *shetachgor bah tziporen* is satisfied. In practice, however, since the bulk of the surface consists of the plaster holding the stones together, only a nick of *tefach* or *kezayit* in that plaster would be problematic. This represents a realistic resolution to what would otherwise seem like an impossible standard.
 
 ---
 
@@ -92,7 +86,6 @@ The Gemara continues with a ruling of Rav Huna: *hai tavcha d'lo sar sakina kame
 
 ### Rava's Deposition
 
-*[Continued from above]*
 
 Rava goes further: *maavirin lei* — one removes him from his post entirely — *umachrizinan abisreih detreifa* — and publicly announces that all of his meat should be considered treifah. This is a significantly more severe consequence.
 
@@ -106,7 +99,6 @@ The Gemara moves to reconcile these two positions: *velo peligi* — they do not
 
 ### Ravina's Extra Penalty
 
-*[Continued from above]*
 
 Ravina adds a still more severe layer. Where the knife is found to be defective — meaning not only disrespect but actual deception — one does not stop at the natural halachic consequence of declaring the meat treifah. Rather, *memarmesinan lei beparta* — one would literally drag the meat through dung — *de'afilu le'ovdei kochavim nami lo mizdaben* — to prevent him even from selling it to a non-Jew. The reasoning is twofold: not only has he produced treifah meat, but he has done so knowingly and deceptively. Accordingly, not only the obvious halachic consequence must follow, but additional punitive measures must be taken to prevent such conduct in the future.
 
@@ -114,7 +106,6 @@ According to Ravina's framework, then, Rava's position — deposing the butcher 
 
 ### Rabbinic Authority Discu…
 
-*[Continued from above]*
 
 This raises an obvious difficulty: the case where the butcher's knife is entirely acceptable and yet he is deposed from his post and his meat publicly declared treifah — even though it is not — seems quite severe. There is an inherent tension in applying such heavy penalties purely on grounds of disrespect toward rabbinic authority, as opposed to any substantive halachic failing.
 
@@ -136,7 +127,6 @@ The Gemara now presents a narrative that crystallizes these tensions. There was 
 
 ### Investigation Requested
 
-*[Continued from above]*
 
 Mar Zutra and Rav Ashi subsequently came to visit Rabba Bar Bar Chana, who asked them to look into the case — *de'talu bei taflei*, because the butcher had many children dependent on him. Despite having acted as he believed he was required to act, the matter weighed on his conscience, and he asked the visiting scholars to investigate whether something could be done.
 
@@ -150,19 +140,16 @@ Rav Ashi examined the knife and found it to be acceptable — *ve'nimtzas yafa*.
 
 ### Rav Ashi's Justification
 
-*[Continued from above]*
 
 Rav Ashi replied: *shlichutei avdinan* — I am carrying out his instructions. Rabba Bar Bar Chana himself had asked them to find a way to help this man. Rav Ashi found that the knife was acceptable and could therefore rely on the position that, where the knife is in fact good, the appropriate response is cherem rather than deposition from his post — and on that basis he reinstated him.
 
 ### Niduy vs. Cherem
 
-*[Continued from above]*
 
 A note on terminology: the term *cherem* has been used loosely throughout this discussion. In practice, what is more typically invoked in cases of disrespect toward rabbinic authority is *niduy* — a lighter form of social and personal sanction — rather than full *cherem*. Niduy involves certain practices that the individual must adopt, resembling in certain respects the practices of aveilus, but is less focused on communal exclusion. It is also not a permanent state; if the person does teshuvah, it can be lifted.
 
 ### Authority & Enforcement
 
-*[Continued from above]*
 
 This narrative is difficult to read in isolation from all the factors it leaves unspecified. The personal dimensions — the relationship between a specific butcher and a specific rabbi, the presence of dependent children, the involvement of additional rabbinic figures — all complicate any attempt to draw clean conclusions. What is clear is that the story illustrates the Gemara's sensitivity to the severity of these penalties and the need for proportionality. On the other side of the ledger, the history of kashrus enforcement is replete with cases in which the meat industry sought to evade oversight, and in which the absence of a culture of rabbinic deference enabled real halachic violations to persist undetected. A mashgiach who is not respected has very little ability to ensure compliance even when the stakes are genuinely matters of kashrus.
 
@@ -204,19 +191,17 @@ The Gemara resolves the apparent contradiction. With respect to the tooth: *shei
 >
 > **Translation:** MISHNA: In the case of **one who slaughters** an animal **with a harvest sickle,** which is serrated with its teeth inclined considerably in one direction, **in a forward direction,** where the serrations do not tear the flesh, **Beit Shammai deem** the slaughter **not valid and Beit Hillel deem** it **valid. And** they both agree that **if they smoothed its serrations** so that they do not tear the flesh, its halakhic status **is like** that of **a knife** and one may slaughter with it.
 
-The Mishna presents a case involving a harvest sickle with serrated teeth. The question is: what is the halacha if shechita is performed with this sickle moving in its normal direction — *b'derech halichatah*? *Beis Shammai* invalidates such a shechita; Beis Hillel permits it. This appears at first to contradict the earlier Mishna, which listed a harvest sickle among the prohibited implements.
+The Mishna presents a case involving a harvest sickle with serrated teeth. The question is: what is the halacha if shechita is performed with this sickle moving in its normal direction — *b'derech halichatah*? *beis shammai* invalidates such a shechita; Beis Hillel permits it. This appears at first to contradict the earlier Mishna, which listed a harvest sickle among the prohibited implements.
 
 ### Rashi on Angle
 
-*[Continued from above]*
 
 Rashi resolves the contradiction by explaining that this involves a very particular type of serration: teeth that lie at such a shallow angle to the cutting surface that when the knife moves in the direction aligned with the serrations, the entire surface is effectively smooth. The serrations only create a cutting or snagging effect when the motion goes against them — much as a surface that is completely smooth in one direction can be highly abrasive in the other. On this reading, the earlier Mishna's prohibition addressed serrations that create a problematic surface regardless of direction, while this Mishna addresses a case where the direction of movement renders the serrations inert.
 
 ### Smoothed Teeth
 
-*[Continued from above]*
 
-The Mishna adds that if the teeth of the sickle are smoothed entirely — *ve'im hechliku shineha* — then it is equivalent to a knife — *harei hi k'sakin* — and all would agree that shechita performed with it is valid, presumably even *Beis Shammai*.
+The Mishna adds that if the teeth of the sickle are smoothed entirely — *ve'im hechliku shineha* — then it is equivalent to a knife — *harei hi k'sakin* — and all would agree that shechita performed with it is valid, presumably even *beis shammai*.
 
 ### Neveilah Exemption Only
 
@@ -224,17 +209,15 @@ The Mishna adds that if the teeth of the sickle are smoothed entirely — *ve'im
 >
 > **Translation:** GEMARA: **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says: Even when Beit Hillel deemed** the slaughter **valid, they deemed** it **valid only to purify it from** the ritual impurity of **an unslaughtered carcass; but its consumption is prohibited. Rav Ashi said:** The language of the mishna **is also precise, as** the *tanna* **teaches: Beit Shammai deem** the slaughter **not valid and Beit Hillel deem** it **valid, and he does not teach: Beit Shammai prohibit and Beit Hillel permit** its consumption. The Gemara objects: **But according to your reasoning, let** the *tanna* **teach: Beit Shammai deem** the carcass **ritually impure and Beit Hillel deem** it **ritually pure. Rather,** the terms **deem** it **not valid and deem** it **valid and** the terms **prohibit and permit are** all **one matter,** and no inferences may be drawn from that phrasing.
 
-Rabbi Chiya bar Abba, citing Rabbi Yochanan, offers a restrictive reading of Beis Hillel's position: *af keshemachshirin Beis Hillel, lo hechshiru ela l'taharah midei neveilah* — even when Beis Hillel declares such a shechita valid, they only mean that the animal does not attain the status of neveilah. The meat is still forbidden for consumption. On this reading, Beis Hillel's concern was that permitting shechita in one direction might lead people to perform it in the other direction as well, where the serrations fully engage. Beis Hillel therefore issued a rabbinic prohibition against eating the meat, while declining to treat it as a full neveilah. *Beis Shammai* goes further, treating the animal as an actual neveilah — whether because they regard the act itself as halachically invalid, or because they extend the rabbinic prohibition to impose neveilah status as well.
+Rabbi Chiya bar Abba, citing Rabbi Yochanan, offers a restrictive reading of Beis Hillel's position: *af keshemachshirin Beis Hillel, lo hechshiru ela l'taharah midei neveilah* — even when Beis Hillel declares such a shechita valid, they only mean that the animal does not attain the status of neveilah. The meat is still forbidden for consumption. On this reading, Beis Hillel's concern was that permitting shechita in one direction might lead people to perform it in the other direction as well, where the serrations fully engage. Beis Hillel therefore issued a rabbinic prohibition against eating the meat, while declining to treat it as a full neveilah. *beis shammai* goes further, treating the animal as an actual neveilah — whether because they regard the act itself as halachically invalid, or because they extend the rabbinic prohibition to impose neveilah status as well.
 
 ### Language Analysis
 
-*[Continued from above]*
 
 Rav Ashi notes that the language of the Mishna supports this reading: the Mishna uses *poslin* and *machshirin* — invalidate and validate — rather than *osrin* and *matirin* — forbid and permit. This suggests that the debate concerns not the permissibility of eating the meat but some more ritual dimension. The language of *pasul* and *kasher* refers to a status rather than a straightforward prohibition, pointing toward a discussion of neveilah for purposes of tumah rather than eating.
 
 ### Rejection of Chiya
 
-*[Continued from above]*
 
 The Gemara rejects Rabbi Chiya bar Abba's position. The Gemara points out that if the debate were truly about tumah and tahara, the Mishna should have used the terms *mitamin* and *mitaharin* — declares tamei and declares tahor. Since it does not, the language of *poslin* and *machshirin* is simply equivalent to *osrin* and *matirin*, referring to the act of shechita itself and its consequence for permissibility of the meat. On the Gemara's rejection, Beis Hillel holds that the shechita is actually valid and the meat is genuinely permitted. Rabbi Chiya bar Abba's motivation for his reading was apparently the difficulty of permitting any serrated implement at all, given the emphasis in the prior discussion on avoiding serrations — but in the end his position is rejected, and Beis Hillel's ruling is that the shechita is fully *kasher lechatchila*.
 
@@ -252,13 +235,11 @@ Having concluded the discussion of the implements used for shechita, the Gemara 
 
 ### Kosher Shechita Area
 
-*[Continued from above]*
 
 The Mishna addresses the case of shechita performed within the top ring. The kosher zone for shechita extends from this large top ring down to the lungs. The discussion that follows focuses on shechita performed at the very upper limit of this zone, and what happens when the cutting motion reaches or crosses that boundary.
 
 ### Rashi: Top Ring
 
-*[Continued from above]*
 
 Rashi reads the Mishna's phrase *hashocheit mitoch hataba'at* — shechita within the ring — as referring specifically to this large top ring. The significance of this reading becomes clear in the context of the psul known as *hagrama*.
 
@@ -280,19 +261,16 @@ The tanna kamma holds that the entire cut is relevant: even if the majority was 
 
 ### Rubo Kechulo
 
-*[Continued from above]*
 
 This dispute turns on a fundamental question about the principle of *rubo kechulo* — whether majority is treated as a complete substitute for the whole. Does the requirement of cutting the siman mean that one must cut fifty-one percent, with the remainder being irrelevant? Or does it mean that in principle the entire siman must be cut, and the rule of rov permits one to rely on the majority as though the whole were cut — meaning that what happens in the remaining minority still matters, since we are treating it as though it were the whole? If the latter, then performing the last minority improperly introduces a disqualifying factor even though the majority was done correctly.
 
 ### Rabbi Yose Position
 
-*[Continued from above]*
 
 Rabbi Yose beRabbi Yehuda takes the lenient position: *melo chut al pnei ruba* — as long as the majority of the ring was cut within the valid zone, the shechita is valid even if the knife moved out of the valid zone for the remaining minority. He holds that once the majority is completed properly, the shechita is done, and what occurs in the last minority does not affect its validity.
 
 ### Rav & Shmuel Ruling
 
-*[Continued from above]*
 
 The Gemara records that Rav and Shmuel both rule like Rabbi Yose beRabbi Yehuda: *halacha keRabbi Yose berabbi Yehuda*. This ruling makes shechita more manageable in practice, as the shochet need not be concerned about where the knife finishes once the majority of the siman has been cut in the valid zone. The question then arises whether this ruling of leniency applies uniformly to all the other psulim of shechita — such as shehiya and drasa — in their final minority; that question will be addressed separately.
 
@@ -310,13 +288,11 @@ The Gemara adds a qualification: *ve'af Rabbi Yose berabbi Yehuda lo amar ela be
 
 ### Rashi: Not Part Trachea
 
-*[Continued from above]*
 
 Rashi, in a manner he acknowledges is somewhat unusual, considers multiple readings of this statement. The explanation Rashi ultimately favors is that since the lower rings do not completely encircle the trachea, they are not considered part of the trachea itself. On this reading, shechita performed in one of these lower rings is as though the shochet were not cutting the trachea at all — and therefore the valid location for cutting is specifically the skin between the rings, not the ring itself. This would mean that a shochet performing shechita in one of the lower rings would have to cut between rings rather than through them — a remarkably demanding practical standard.
 
 ### Tosafot: Majority Trachea
 
-*[Continued from above]*
 
 Tosafot proposes what is arguably a more compelling reading. On Tosafot's view, the issue is not that the lower rings are not considered part of the trachea, but rather that doing the majority of a lower ring does not constitute doing the majority of the trachea. This is almost analytically self-evident: since the lower ring does not extend all the way around the trachea, cutting through the majority of the ring's arc does not translate into having cut through the majority of the trachea's hollow. Therefore, while Tosafot agrees that shechita can be performed in the lower rings, the measure of "majority" must be calculated against the trachea itself, not against the individual ring. To have a valid shechita in the lower rings, one must cut the majority of the trachea — not merely the majority of the portion of trachea covered by that ring.
 
@@ -324,7 +300,6 @@ There is a third reading that Rashi acknowledges as a possible reading of the Ge
 
 ### Baraita Support
 
-*[Continued from above]*
 
 The Gemara introduces a Baraita in support of the view that shechita in the lower rings is valid. Rabbi Yosef beRabbi Yehuda says: *hashocheit bishar taba'ot* — one who performs shechita in the other rings — *af al pi she'ein makifot et kol hakaneh* — even though those rings do not entirely surround the trachea — *ho'il umakifot rov hakaneh* — since they surround the majority of the trachea — *shechitatu keshera* — the shechita is valid. This supports Tosafot's reading: the relevant measure for the lower rings is whether the majority of the trachea is encircled — and since it is, shechita there is valid, provided the cut achieves the majority of the trachea.
 
@@ -332,7 +307,6 @@ The Baraita also notes: *umugremet pesulah* — hagrama is still a disqualifying
 
 ### Chanina Testimony
 
-*[Continued from above]*
 
 Rabbi Chanina ben Antignos testified that *mugremet keshera* — hagrama is valid. This appears strikingly absolute. The resolution is that Rabbi Chanina ben Antignos holds a different definition of where the *makom hashechita* ends. He believes the valid zone extends higher than the standard position, such that what others would call hagrama — moving outside their defined upper boundary — falls within the valid zone as defined by Rabbi Chanina ben Antignos. He does maintain the psul of hagrama, but applies it at a different, higher location. Thus his testimony is not as absolute as it sounds; it represents a substantive difference in defining the upper limit of the valid shechita zone.
 
@@ -350,7 +324,6 @@ When Rabbi Zeira made aliyah to Eretz Yisrael, he ate meat from an animal whose 
 
 ### Zeira Doubts Report
 
-*[Continued from above]*
 
 The people of Eretz Yisrael challenged him: was he not from the community of Rav and Shmuel? How could he eat this meat? Rabbi Zeira replied: *man amrah?* — who actually said that Rav and Shmuel took this position? The tradition had been reported by Yosef bar Chiya — that is, Rav Yosef — but Rabbi Zeira questioned whether Rav Yosef had really received this directly from Rav and Shmuel, implying that he may have simply heard it circulating and not from a direct transmission. Rabbi Zeira's implication was that he had never been fully persuaded that Rav and Shmuel actually said this, and therefore had never adopted it as a firm ruling — which would mean he may not have been strictly following this position even when he was in Bavel.
 
@@ -364,9 +337,8 @@ Rav Yosef heard that his transmission was being questioned and was deeply offend
 
 ### Bechor Blemish Ruling
 
-*[Continued from above]*
 
-The reason this chain of tradition is cited at all is parenthetical: it was Rav Yehuda's practice to record exactly what he heard and from whom, and the example cited — *shlosha matirin et ha-bechor be-makom she'ein mumche* — is incidental to establishing that practice. The ruling itself is that if there is no qualified expert available to examine a blemish on a bechor, three ordinary people may constitute a *Beit Din* to rule on the matter, even without the specialized expertise normally required.
+The reason this chain of tradition is cited at all is parenthetical: it was Rav Yehuda's practice to record exactly what he heard and from whom, and the example cited — *shlosha matirin et ha-bechor be-makom she'ein mumche* — is incidental to establishing that practice. The ruling itself is that if there is no qualified expert available to examine a blemish on a bechor, three ordinary people may constitute a *beit din* to rule on the matter, even without the specialized expertise normally required.
 
 ---
 
@@ -390,7 +362,6 @@ Abaye answers that the rule of following the stringencies of both one's place of
 
 ### Bavel to Israel
 
-*[Continued from above]*
 
 However, when traveling from Bavel to Eretz Yisrael, a different principle applies: *keivan d'anan kaifinan lehu avdinan kevataiyu* — since we, the Babylonians, are subservient to them, when we are in Eretz Yisrael we follow their practices entirely. This is a remarkable statement to appear in the Bavli: Bavel acknowledges that Eretz Yisrael constitutes the ultimate authority, and when a Babylonian is in Eretz Yisrael he does not retain his Babylonian practices but fully adopts those of Eretz Yisrael.
 
@@ -404,7 +375,6 @@ Rav Ashi qualifies this ruling: even the principle that one retains the practice
 
 ### Zeira's Permanent Move
 
-*[Continued from above]*
 
 In the case of Rabbi Zeira, *ein da'ato lachazor* — he did not intend to return to Bavel. Rabbi Zeira made aliyah permanently and settled in Eretz Yisrael. Accordingly, even on Rav Ashi's more qualified formulation, Rabbi Zeira was fully entitled to adopt the practices of Eretz Yisrael and to eat the mugremet meat without concern for the ruling of Rav and Shmuel.
 
@@ -414,25 +384,21 @@ In the case of Rabbi Zeira, *ein da'ato lachazor* — he did not intend to retur
 
 ### Eretz Yisrael Authority
 
-*[Continued from above]*
 
 This sugya raises the broader question of the relationship between the halachic authority of Eretz Yisrael and that of Bavel. There are other Gemaras that appear to point in the opposite direction, suggesting that Bavel had greater practical authority — including the authority to enforce its rulings — owing to the greater political support accorded to Jewish leadership by the Babylonian Sassanian government. Tosafot addresses this tension by drawing a distinction between political authority and ultimate religious authority. While it may be true that Babylonian Jewish leadership had greater capacity to enforce its decisions and was backed by a more powerful governmental structure, ultimate religious authority remained in Eretz Yisrael.
 
 ### Calendar & Semichah
 
-*[Continued from above]*
 
-The clearest expression of Eretz Yisrael's primacy was its exclusive jurisdiction over *Kiddush Hachodesh* — the sanctification of the new month and the determination of the calendar. Rashi also mentions the question of semichah and the capacity to adjudicate *knasot* — monetary penalties — both of which remained functions of the Eretz Yisrael rabbinic establishment. As long as these critical religious functions were centered in Eretz Yisrael, it retained ultimate religious authority even if Bavel had greater political leverage.
+The clearest expression of Eretz Yisrael's primacy was its exclusive jurisdiction over *kiddush hachodesh* — the sanctification of the new month and the determination of the calendar. Rashi also mentions the question of semichah and the capacity to adjudicate *knasot* — monetary penalties — both of which remained functions of the Eretz Yisrael rabbinic establishment. As long as these critical religious functions were centered in Eretz Yisrael, it retained ultimate religious authority even if Bavel had greater political leverage.
 
 ### Geonic Period Shift
 
-*[Continued from above]*
 
-The decisive shift came in the Geonic period. A major dispute arose between the Babylonian and Eretz Yisrael Geonim over the calendar — specifically, over when *Rosh Hashanah* fell. The Eretz Yisrael Geonim asserted their primacy as the ultimate religious authority. The Babylonian Geonim countered that while Eretz Yisrael's authority might be presumed when all other things are equal, the greater scholarship concentrated in Bavel meant that Babylonian authority prevailed. In the end, the Babylonian position won out — not only because of the argument on its merits, but because the center of gravity of the entire Jewish world had shifted decisively to Bavel. The Babylonian Geonim's ruling on Rosh Chodesh prevailed, and this represented the *makeh b'patish* — the decisive final blow — that settled the question of Bavel's authority over Eretz Yisrael.
+The decisive shift came in the Geonic period. A major dispute arose between the Babylonian and Eretz Yisrael Geonim over the calendar — specifically, over when *rosh hashanah* fell. The Eretz Yisrael Geonim asserted their primacy as the ultimate religious authority. The Babylonian Geonim countered that while Eretz Yisrael's authority might be presumed when all other things are equal, the greater scholarship concentrated in Bavel meant that Babylonian authority prevailed. In the end, the Babylonian position won out — not only because of the argument on its merits, but because the center of gravity of the entire Jewish world had shifted decisively to Bavel. The Babylonian Geonim's ruling on Rosh Chodesh prevailed, and this represented the *makeh b'patish* — the decisive final blow — that settled the question of Bavel's authority over Eretz Yisrael.
 
 ### Why Bavli Authority
 
-*[Continued from above]*
 
 This historical development has direct bearing on the canonical authority of the Bavli over the Yerushalmi. The reason we follow the Babylonian Talmud, and why Daf Yomi studies the Bavli, is rooted in this same historical process: the shift of communal and scholarly gravity to Bavel during the Geonic period ultimately established the Bavli as the authoritative halachic document for the Jewish world.
 
@@ -450,18 +416,15 @@ Abaye reports to Rav Yosef that the rabbis who came from Mechuza — a Jewish co
 
 ### Nahara Nahara
 
-*[Continued from above]*
 
 Rav Yosef responds with the celebrated phrase: *nahara nahara u-pashtei* — every river and its tributaries. This phrase encapsulates a fundamental principle of halachic pluralism.
 
 ### Regional Pluralism
 
-*[Continued from above]*
 
 Rashi explains the phrase with a vivid image: even one river, as it branches off into tributaries, may have cold water in one place and warm water in another, salty water here and fresh water there. The same river flows differently in different channels. So too, within a single broad community or even a single region, different communities may legitimately maintain different practices. Even within Bavel, some communities ruled that mugremet was invalid and some ruled that it was valid, and Rav Yosef's response is not that one side is simply wrong but that each community's practice follows its own established course.
 
 ### Conclusion
 
-*[Continued from above]*
 
 The sugya concludes, then, with a recognition of legitimate halachic pluralism — *nahara nahara u-pashtei* — operating not only between Eretz Yisrael and Bavel, but among communities within Bavel itself. The specific halachic question that generated this entire discussion — whether shechita that is mugremet, whether understood as cutting outside the large top ring or as cutting only the majority of a lower ring rather than the majority of the trachea, is valid — finds different answers in different communities, and the Gemara's response is not to adjudicate between them definitively but to affirm that each community follows its own established practice, as each river runs its own course.

@@ -12,9 +12,9 @@ We pick up with the Gemara right after the Mishnah at the bottom of 25b. Before 
 
 There is a second observation worth making about the structure of the perek as a whole. The Mishnayot in this section, taken together, appear to conduct a deliberate survey of all six Sedarim of Shas, and what is striking is that they are not mixed together — each Seder is treated in its own separate unit.
 
-So far, we have covered Kodashim — dealing with which type of bird one brings as a sacrifice, *Parah Adumah*, *Eglah Arufah*, and related matters — followed by Taharot, concerning wooden, metal, and pottery vessels. Then came Zeraim, with questions about nuts and the stages at which they are considered bitter, and our present Mishnah about when something is considered wine, which touches on the obligation of Terumos UMa'asros and the eligibility for purchase with Kesef Ma'aser — and though it also touches on Mikvah law, it remains fundamentally a Zeraim question. That accounts for three Sedarim.
+So far, we have covered Kodashim — dealing with which type of bird one brings as a sacrifice, *parah adumah*, *eglah arufah*, and related matters — followed by Taharot, concerning wooden, metal, and pottery vessels. Then came Zeraim, with questions about nuts and the stages at which they are considered bitter, and our present Mishnah about when something is considered wine, which touches on the obligation of Terumos UMa'asros and the eligibility for purchase with Kesef Ma'aser — and though it also touches on Mikvah law, it remains fundamentally a Zeraim question. That accounts for three Sedarim.
 
-Looking ahead, the end of the perek's Mishnayot cover the remaining three. The question of brothers who inherit an estate and when it is treated as one or two estates may at first seem like a stretch, but *Achim HaShutafim* is a very common question in civil law — so that represents, at some level, Nezikin. The next Mishnah deals straightforwardly with Nashim, concerning at what stage certain legal categories apply to a girl. And the final Mishnah comes from Mo'ed. It appears highly intentional that all of Shisha Sidrei Shas — Kodashim, Taharot, Zeraim, Nezikin, Nashim, Mo'ed — are each dealt with separately and in sequence. It is not by chance.
+Looking ahead, the end of the perek's Mishnayot cover the remaining three. The question of brothers who inherit an estate and when it is treated as one or two estates may at first seem like a stretch, but *achim haShutafim* is a very common question in civil law — so that represents, at some level, Nezikin. The next Mishnah deals straightforwardly with Nashim, concerning at what stage certain legal categories apply to a girl. And the final Mishnah comes from Mo'ed. It appears highly intentional that all of Shisha Sidrei Shas — Kodashim, Taharot, Zeraim, Nezikin, Nashim, Mo'ed — are each dealt with separately and in sequence. It is not by chance.
 
 ### Metamed Water-Wine
 
@@ -31,7 +31,7 @@ With that introduction, we turn to the Gemara, which addresses the case of water
 >
 > **Translation:** MISHNA: ***Temed*,** a beverage produced from grape residue soaked in water, **until it fermented, may not be purchased with** second-**tithe money** to be drunk in Jerusalem, because it is not wine. **And** if three *log* of it fall into a ritual bath, its halakhic status is that of drawn water and **it invalidates the ritual bath. Once it fermented, it** is wine, and therefore it **may be purchased with** second-**tithe money and it does not invalidate the ritual bath. With regard to brothers who are partners** in the inheritance of their father, **when they are obligated to** add **the premium [*kalbon*]** to their annual half-shekel payment to the Temple, **they are exempt from animal tithe; when they are obligated to** separate **animal tithe, they are exempt from** adding **the premium.** GEMARA: With regard to *temed*, the Gemara asks: **Whose** opinion is expressed in **the mishna?** Ostensibly, it is **neither** the opinion of **Rabbi Yehuda nor** the opinion of **the Rabbis, as it is taught** in a mishna (*Ma'asrot* 5:6): With regard to **one who prepares *temed*** by placing water over grape byproducts, **and he placed** a certain **measure of water, and** when measuring the finished product **he found** its measure **equivalent to** the **measure** of water that he placed, he is **exempt** from the obligation of tithing it, as although it tastes like wine, there is nothing in it but water. **And Rabbi Yehuda obligates** him to tithe it because the taste determines that it is wine.
 
-The Gemara opens by asking: *Mani Matnitin*? Who authored our Mishnah? Lo Rebbe Yehuda Velo Rabbanan — it is neither Rabbi Yehuda nor the Rabbanan as we know them from a Mishnah in Maasrot. The Mishnah in Maasrot discusses the following case: HaMetamed VeNatan Mayim BeMidah — someone performing the process of metamed, soaking water in grape skins or leaves to produce a weak wine, puts in a measured quantity of water and *UMatza Kedei Midato* — finds upon removing the liquid that the quantity is exactly equal to what was put in. The significance is that whatever grape juice entered the water was not detectable through any increase in measured volume, suggesting the grape content is negligible. So is the result considered water or wine?
+The Gemara opens by asking: *mani matnitin*? Who authored our Mishnah? Lo Rebbe Yehuda Velo Rabbanan — it is neither Rabbi Yehuda nor the Rabbanan as we know them from a Mishnah in Maasrot. The Mishnah in Maasrot discusses the following case: HaMetamed VeNatan Mayim BeMidah — someone performing the process of metamed, soaking water in grape skins or leaves to produce a weak wine, puts in a measured quantity of water and *uMatza kedei midato* — finds upon removing the liquid that the quantity is exactly equal to what was put in. The significance is that whatever grape juice entered the water was not detectable through any increase in measured volume, suggesting the grape content is negligible. So is the result considered water or wine?
 
 The Mishnah rules Patur — it is exempt from Terumos UMa'asros, meaning it is treated as water. Rabbi Yehuda Mechayev — Rabbi Yehuda obligates, holding that it is considered wine and therefore Chayav in Terumos UMa'asros regardless of the quantity measurement.
 
@@ -61,7 +61,6 @@ The Gemara immediately challenges this. Our Mishnah states: *dektani hichmitz* i
 
 ### Sample Test
 
-*[Continued from above]*
 
 Amar Rabba — Rabba resolves this by reinterpreting what our Mishnah is describing. *kesheshayer mimenu bekos velo hichmitz* — the Mishnah is addressing a case where one set aside a small sample in a cup in order to monitor whether it will ferment. The determination is not made by looking at the liquid at a single moment and declaring it wine or water on the basis of current fermentation. Rather, one holds over a sample and checks that sample after some time to see whether it ferments. If the sample ferments, the ruling is that the original liquid was wine at the critical moment — when it fell into the Mikvah or was purchased with Kesef Ma'aser. If the sample does not ferment, the ruling is that it was water. The language of the Mishnah — "has it fermented?" — is therefore not asking about the liquid's present state at the moment of the event, but about the result of a prospective test conducted on a retained sample.
 
@@ -81,7 +80,6 @@ The principle of Rabbi Yochanan ben Nuri is that identity is determined not sole
 
 ### Rav's Position
 
-*[Continued from above]*
 
 The principle of Rabbi Yochanan ben Nuri is that identity is determined not solely by what a substance factually is, but by the characteristics it exhibits — preeminently, its appearance. The Gemara now applies this principle to our Mishnah: Lav amar Rabbi Yochanan ben Nuri batar chazuta azlinan? Does not Rabbi Yochanan ben Nuri say that we define things based on how they appear?
 
@@ -97,7 +95,6 @@ The answer lies in an important structural point. For Kashrut questions, the pri
 
 ### Applied to Metamed
 
-*[Continued from above]*
 
 V'chazuta d'hai maya ninhu — the appearance of this temed that is going to ferment but has not yet fermented is that of water. The same is true of its taste. On any experiential basis — how we see it and how we taste it — it presents itself as water. Rabbi Yochanan ben Nuri does not care what something is in some objective, compositional sense; he cares about how it appears, how it tastes, and what characteristics it actually exhibits. Since this metamed does not yet look like wine and does not yet taste like wine, he is not prepared to call it wine. Our Mishnah, which demands that it actually have fermented before receiving the status of wine, is therefore Rabbi Yochanan ben Nuri's position.
 
@@ -117,7 +114,6 @@ Ufleiga d'Rabbi Elazar — this entire framework, which assumed that the debate 
 
 ### Rabbinic Status
 
-*[Continued from above]*
 
 This makes Rabbi Yehuda's position considerably more difficult to understand. If it has not yet fermented and the volume has not measurably increased, on what basis does he call it wine? The Gemara explains: Kasavar belo hichmit machloket — Rabbi Elazar holds that the debate applies precisely when it has not yet fermented.
 
@@ -153,7 +149,6 @@ Ata Rav Gaviha mi-bei Katil amra lishmayta kamei de-Rav Ashi — this ruling was
 
 ### Density Separation
 
-*[Continued from above]*
 
 De-amrinan idi de-maya yakiri *shachni tata'ei* u-peira kafi mei-eila — the answer lies in the physics of the mixture: water is denser than the grape juice product and therefore settles at the bottom, while the juice product floats on top. When one brings the vessel of liquid into contact with the Mikvah water, only the surface of the liquid in the vessel actually touches the Mikvah water. If the juice component has separated and risen to the top, then it is only the juice layer that makes contact with the Mikvah — not the water beneath it. Ve-lo salka lah hashkaka le-maya — and the process of hashkakah, of the water kissing the Mikvah water, cannot take effect for the water below, because the water itself never actually touched the Mikvah.
 
@@ -171,7 +166,6 @@ It is worth noting that the Gemara does not pursue the fascinating later portion
 
 ### Mutual Exclusion
 
-*[Continued from above]*
 
 We have now covered Kodashim, Taharot, Zeraim, and something of Nezikin in the brothers-and-estate question. We turn now to Nashim — the order of women's law — and then to Mo'ed, which will bring the perek to its conclusion as a survey of all of Shas.
 
@@ -189,9 +183,8 @@ It is natural to ask: if there is no knas for a ketanah, does she have no legal 
 
 ### Sages' Overlap
 
-*[Continued from above]*
 
-Amar Rav Yehuda amar Rav zu divrei Rabbi Meir — this principle of mutual exclusion between mecher and knas is the position of Rabbi Meir alone. As the Baraita elaborates: Ketanah mi-bat yom echad ad she-tavi shtei se'arot — from one day old until she has two pubic hairs — yesh lah mecher ve-ein lah knas. During this period of being a ketanah, there is mecher but no knas. *Mi-she-tavi shtei se'arot ad she-tivager* — from the time she has two pubic hairs until she becomes a bogeret, that is, from twelve years and a day to twelve years and six months — yesh lah knas ve-ein lah mecher. She is now a na'arah and no longer a minor, so there is knas but no mecher. Divrei Rabbi Meir — she-hayah Rabbi Meir omer: kol makom she-yesh mecher ein knas ve-chol makom she-yesh knas ein mecher. According to Rabbi Meir, these are strictly non-overlapping windows.
+Amar Rav Yehuda amar Rav zu divrei Rabbi Meir — this principle of mutual exclusion between mecher and knas is the position of Rabbi Meir alone. As the Baraita elaborates: Ketanah mi-bat yom echad ad she-tavi shtei se'arot — from one day old until she has two pubic hairs — yesh lah mecher ve-ein lah knas. During this period of being a ketanah, there is mecher but no knas. *mi-she-tavi shtei se'arot ad she-tivager* — from the time she has two pubic hairs until she becomes a bogeret, that is, from twelve years and a day to twelve years and six months — yesh lah knas ve-ein lah mecher. She is now a na'arah and no longer a minor, so there is knas but no mecher. Divrei Rabbi Meir — she-hayah Rabbi Meir omer: kol makom she-yesh mecher ein knas ve-chol makom she-yesh knas ein mecher. According to Rabbi Meir, these are strictly non-overlapping windows.
 
 ### Mutual Exclusion
 
@@ -199,7 +192,7 @@ Amar Rav Yehuda amar Rav zu divrei Rabbi Meir — this principle of mutual exclu
 >
 > **Translation:** The Gemara asks: Is that to say that **yes,** she is entitled to payment of **a fine,** but she is **not** subject to **sale?** Isn't her father permitted to sell her during most of that period? The Gemara answers: **Say** that the Rabbis said: She is **also** entitled to receive payment of **a fine** during that period **in a situation** where she is subject to **sale.**
 
-*Va-chachamim omrim* yesh knas bimkom mecher — the Sages disagree and hold that there is an overlap: knas applies even while mecher applies. *Ketanah mi-bat shalosh shanim ve-yom echad ad she-tivager* yesh lah knas — from three years and a day all the way through adulthood, the girl is subject to knas. The lower bound is not birth but age three, because only from that age is the act halachically classified as an act of sexual intercourse. Before age three, even if the same physical events occur, the Rabbis do not consider it a halachic act of sex, and therefore no knas is triggered. So for the Sages, from one day to three years there is only mecher and no knas; from three years to twelve years and a day there is both mecher and knas simultaneously; from twelve years and a day to twelve years and six months there is knas but no mecher; and from twelve years and six months onward, there is neither.
+*Va-chachamim omrim* yesh knas bimkom mecher — the Sages disagree and hold that there is an overlap: knas applies even while mecher applies. *ketanah mi-bat shalosh shanim ve-yom echad ad she-tivager* yesh lah knas — from three years and a day all the way through adulthood, the girl is subject to knas. The lower bound is not birth but age three, because only from that age is the act halachically classified as an act of sexual intercourse. Before age three, even if the same physical events occur, the Rabbis do not consider it a halachic act of sex, and therefore no knas is triggered. So for the Sages, from one day to three years there is only mecher and no knas; from three years to twelve years and a day there is both mecher and knas simultaneously; from twelve years and a day to twelve years and six months there is knas but no mecher; and from twelve years and six months onward, there is neither.
 
 ---
 
@@ -215,13 +208,11 @@ Amar Rav Yehuda amar Rav zu divrei Rabbi Meir — this principle of mutual exclu
 
 ### Sages' Overlap
 
-*[Continued from above]*
 
 Amar Rav Yehuda amar Rav zo divrei Rabbi Meir — this strict mutual exclusion is again Rabbi Meir's position. A Baraita spells it out: ad matai habat mima'enet — until when can a girl reject the marriage? Ad shetavi shtei se'arot divrei Rabbi Meir — until she has two pubic hairs, meaning until she becomes an adult. Once she reaches twelve years and a day, miun is no longer available for Rabbi Meir, and chalitzah begins.
 
 ### Mutual Exclusion
 
-*[Continued from above]*
 
 Aval Chachamim omrim yesh miun bemakom chalitzah — but the Sages say there is a period of overlap, when a girl can perform both miun and chalitzah. That period is when she is a na'arah — twelve years and a day to twelve years and six months. She is halachically an adult and can therefore perform chalitzah, but she can also still exercise miun to reject this rabbinic marriage, as long as she has not confirmed the marriage through sexual relations as an adult.
 
@@ -241,13 +232,11 @@ This is the position of Rabbi Yehuda in the Baraita: ad sheyirbeh hashachor al h
 
 ### Yom Tov Motza'ei
 
-*[Continued from above]*
 
 Yom Tov shechal lihyot be'erev Shabbat — when Yom Tov falls on erev Shabbat: Tok'in — one blows the shofar, as one does at the entry of any sanctified day, marking the transition to increased restriction. Lo mavdilin — one does not make havdalah, because one is not moving from a more restricted state to a less restricted one; Yom Tov entering Shabbat moves from one level of restriction to a heavier one.
 
 ### Tekiah Method
 
-*[Continued from above]*
 
 When Yom Tov falls on *motzei Shabbat*, it is the reverse: Mavdilin v'lo tok'in. Havdalah is recited because one is transitioning out of Shabbat — moving from a more comprehensive prohibition of melachah to a less comprehensive one — and havdalah marks that opening of permission. But tekiah is not performed, because tekiah accompanies the forbidding of melachah, and while Yom Tov is not entirely permissive, one is not moving into a more restricted state.
 
