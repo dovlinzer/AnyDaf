@@ -11,14 +11,8 @@ struct ArticleReaderView: View {
     let html: String?
     let onDismiss: () -> Void
 
-    /// Body font size in points. Range 12–32.
-    @State private var fontSize: CGFloat = 18
-
+    @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
-
-    private let minFontSize: CGFloat = 12
-    private let maxFontSize: CGFloat = 32
-    private let fontStep: CGFloat    = 2
 
     // MARK: Adaptive colours
 
@@ -95,7 +89,7 @@ struct ArticleReaderView: View {
 
                 // ── Content ───────────────────────────────────────────────────
                 if let html = html {
-                    ArticleWebView(html: html, fontSize: fontSize, useWhiteBackground: useWhiteBackground)
+                    ArticleWebView(html: html, fontSize: studyFontSize.articleFontSize, useWhiteBackground: useWhiteBackground)
                 } else {
                     VStack(spacing: 12) {
                         ProgressView().tint(fg)
@@ -112,34 +106,44 @@ struct ArticleReaderView: View {
 
                 // ── Footer: font controls + open-in-browser ───────────────────
                 HStack(spacing: 0) {
+                    let cases = StudyFontSize.allCases
+                    let idx = cases.firstIndex(of: studyFontSize) ?? 1
 
-                    // Font-size controls
-                    HStack(spacing: 4) {
-                        Button {
-                            fontSize = max(minFontSize, fontSize - fontStep)
-                        } label: {
-                            Image(systemName: "minus")
-                                .frame(width: 32, height: 32)
-                                .contentShape(Rectangle())
-                        }
-                        .disabled(fontSize <= minFontSize)
-
-                        Text("Aa")
-                            .font(.system(size: fontSize * 0.75, weight: .medium))
-                            .frame(width: 28)
-                            .animation(.easeInOut(duration: 0.15), value: fontSize)
-
-                        Button {
-                            fontSize = min(maxFontSize, fontSize + fontStep)
-                        } label: {
-                            Image(systemName: "plus")
-                                .frame(width: 32, height: 32)
-                                .contentShape(Rectangle())
-                        }
-                        .disabled(fontSize >= maxFontSize)
+                    Button {
+                        if idx > 0 { studyFontSize = cases[idx - 1] }
+                    } label: {
+                        Text("A")
+                            .font(.footnote.weight(.semibold))
+                            .foregroundStyle(idx > 0 ? fg : fg.opacity(0.3))
+                            .frame(width: 36, height: 44)
+                            .contentShape(Rectangle())
                     }
-                    .foregroundStyle(fg.opacity(0.75))
-                    .font(.subheadline)
+                    .buttonStyle(.plain)
+
+                    HStack(spacing: 0) {
+                        Spacer(minLength: 4)
+                        ForEach(cases.indices, id: \.self) { i in
+                            let dotSize: CGFloat = 5 + CGFloat(i) * 2
+                            Circle()
+                                .fill(i == idx ? fg : fg.opacity(0.25))
+                                .frame(width: dotSize, height: dotSize)
+                                .animation(.spring(response: 0.25), value: studyFontSize)
+                            if i < cases.count - 1 { Spacer(minLength: 4) }
+                        }
+                        Spacer(minLength: 4)
+                    }
+                    .frame(maxWidth: 120)
+
+                    Button {
+                        if idx < cases.count - 1 { studyFontSize = cases[idx + 1] }
+                    } label: {
+                        Text("A")
+                            .font(.title2.weight(.semibold))
+                            .foregroundStyle(idx < cases.count - 1 ? fg : fg.opacity(0.3))
+                            .frame(width: 36, height: 44)
+                            .contentShape(Rectangle())
+                    }
+                    .buttonStyle(.plain)
 
                     Spacer()
 

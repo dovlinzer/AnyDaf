@@ -24,6 +24,7 @@ import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.compositionLocalOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -33,6 +34,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.Dp
+import androidx.compose.ui.unit.TextUnit
+import androidx.compose.ui.unit.sp
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -45,6 +48,9 @@ import androidx.compose.ui.unit.dp
 import com.anydaf.data.api.SefariaClient
 import com.anydaf.model.SourceDisplayMode
 import com.anydaf.model.StudySection
+
+// Provides the body font size for study content — set at the screen level, consumed here.
+val LocalStudyFontSize = compositionLocalOf { 18.sp }
 
 // MARK: - Translation Tab
 
@@ -213,7 +219,7 @@ fun StudyTab(
                     color = MaterialTheme.colorScheme.primary
                 )
                 Spacer(Modifier.height(8.dp))
-                Text(section.summary!!, style = MaterialTheme.typography.bodyLarge)
+                Text(section.summary!!, style = MaterialTheme.typography.bodyLarge.copy(fontSize = LocalStudyFontSize.current))
             }
         }
     }
@@ -287,7 +293,7 @@ private fun TranslationLegend(modifier: Modifier = Modifier) {
 fun HtmlText(
     html: String,
     modifier: Modifier = Modifier,
-    style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge
+    style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge.copy(fontSize = LocalStudyFontSize.current)
 ) {
     val directColor = MaterialTheme.colorScheme.primary
     val annotated: AnnotatedString = parseTranslationHtml(html, directColor)
@@ -299,7 +305,7 @@ fun HtmlTextWithItalicPrefix(
     prefix: String,
     html: String,
     modifier: Modifier = Modifier,
-    style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge,
+    style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge.copy(fontSize = LocalStudyFontSize.current),
     forceDirectColor: Boolean = false
 ) {
     val directColor = MaterialTheme.colorScheme.primary
@@ -320,9 +326,11 @@ fun HebrewText(
     modifier: Modifier = Modifier
 ) {
     val plain = SefariaClient.stripHtml(html)
+    val fontSize = LocalStudyFontSize.current
     Text(
         plain,
         style = MaterialTheme.typography.bodyLarge.copy(
+            fontSize = fontSize,
             textDirection = TextDirection.Rtl,
             textAlign = TextAlign.Right
         ),

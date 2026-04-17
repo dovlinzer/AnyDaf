@@ -93,6 +93,7 @@ class ShiurClient: ObservableObject {
         segments = []
         currentSegmentIndex = 0
         shiurRewrite = nil
+        shiurFinal = nil
 
         let urlString = "\(supabaseURL)/rest/v1/shiur_content"
             + "?tractate=eq.\(tractate.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? tractate)"

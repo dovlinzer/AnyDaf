@@ -1,0 +1,94 @@
+### Arakhin 9a
+
+**1.**
+*Hebrew/Aramaic:* קָדֵים אָתֵי סֵיהֲרָא תְּלָתָא יוֹמֵי! הַשְׁתָּא נָמֵי קָא קָדֵים אָתֵי תְּרֵי יוֹמֵי.
+*Translation:* then the new **moon** of Tishrei would **arrive three days before** Rosh HaShana. A lunar month is twenty-nine and a half days, and therefore a twelve-month period should have six full months of thirty days and six deficient months of twenty-nine days. If there were nine full months, this would cause subsequent months to start three days after the new moon. This in turn would lead people to deride the rabbinical court and accuse it of declaring the new month whenever it wanted, without regard for the astronomical facts. The Gemara explains its question: **Now, too,** when there are eight full months in one year, the new moon of Tishrei will **arrive two days before** Rosh HaShana, which will also cause people to disparage the court.
+
+**2.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַב מְשַׁרְשְׁיָא, כְּגוֹן שֶׁהָיְתָה שָׁנָה מְעוּבֶּרֶת, הָכָא נָמֵי כְּגוֹן שֶׁהָיְתָה שָׁנָה שֶׁלְּפָנֶיהָ מְעוּבֶּרֶת, וְעִיבּוּר שָׁנָה חוֹדֶשׁ. דַּל יַרְחָא מַלְיָא בַּהֲדֵי יַרְחָא חַסִּירָא, וְאַכַּתִּי חַד יוֹמָא! לָא אַדַּעְתַּיְיהוּ דְּאִינָשֵׁי.
+*Translation:* The Gemara answers: It is **as Rav Mesharshiyya says,** with regard to a different question: This is referring to a case **where** the year before **was a leap year. Here, too,** one can answer that it is a case **where the year before it was a leap** year, **and the extension** of the **year** was accomplished with an added **month** of twenty-nine days. Accordingly, **remove a full,** thirty-day **month** from the calculation of the current year **corresponding to the** extra **deficient,** twenty-nine-day **month** of the previous year, and the result is that only seven thirty-day months have an impact on the appearance of the new moon relative to the following Rosh HaShana. The Gemara asks: **But** even in a year with only seven thirty-day months the new moon would **still** precede Rosh HaShana by **one day.** The Gemara answers: **People do not pay attention** to a difference of one day, and therefore they will not deride the court.
+
+**3.**
+*Hebrew/Aramaic:* עוּלָּא אָמַר: לֹא נִרְאָה לַחֲכָמִים לְחַסֵּר יָתֵר עַל שְׁמוֹנָה, וּמַאי טַעְמָא קָאָמַר — מָה טַעַם אֵין פּוֹחֲתִים מֵאַרְבָּעָה חֳדָשִׁים הַמְעוּבָּרִים בְּשָׁנָה — מִשּׁוּם דְּלֹא נִרְאָה לַחֲכָמִים לְחַסֵּר יָתֵר עַל שְׁמוֹנֶה.
+*Translation:* Until this point the Gemara has discussed Rav Huna’s interpretation of the mishna, that the statement: It did not seem appropriate to establish more than eight, means that the Sages did not wish to establish more than eight full months in one year. The Gemara presents an alternative opinion. **Ulla says:** The mishna means that **it did not seem** appropriate **to the Sages to establish more than eight deficient,** twenty-nine-day months. **And** the mishna **is saying what** the **reason** is for the previous statement in the mishna, as follows: **What is the reason** that **no fewer than four full,** thirty-day **months** may be established **during a year?** It is **because it did not seem** appropriate **to the Sages to establish more than eight deficient,** twenty-nine-day months, so that the shortest possible year would comprise four full months and eight deficient months.
+
+**4.**
+*Hebrew/Aramaic:* מַאי שְׁנָא תִּשְׁעָה דְּלָא, דְּאִם כֵּן מְיַיתְּרָא סֵיהֲרָא תְּלָתָא יוֹמֵי, הַשְׁתָּא נָמֵי קָא מְיַיתְּרָא תְּרֵי יוֹמֵי!
+*Translation:* The Gemara asks: **What is different** about **nine** deficient months, in **that** the Sages **did not** deem it appropriate to have so many deficient months in one year? Apparently, the Sages were concerned **that if so,** i.e., if there were nine deficient months, the new **moon** of Tishrei would appear **three days after** Rosh HaShana. But **now, too,** if there are eight deficient months in one year, the new moon will appear **two days after** Rosh HaShana.
+
+**5.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַב מְשַׁרְשְׁיָא, כְּגוֹן שֶׁהָיְתָה שָׁנָה מְעוּבֶּרֶת, הָכָא נָמֵי כְּגוֹן שֶׁהָיְתָה שָׁנָה שֶׁלְּפָנֶיהָ מְעוּבֶּרֶת, דַּל יַרְחָא חַסִּירָא בַּהֲדֵי יַרְחָא מַלְיָא.
+*Translation:* The Gemara answers: It is **as Rav Mesharshiyya says** with regard to a different question: This is referring to a case **where** the year before **was a leap year. Here, too,** one can answer that it is a case **where the year before it was a leap** year, and the added month was a thirty-day month. Accordingly, **remove a deficient,** twenty-nine-day month from the calculation of the current year **corresponding to the** extra **full,** thirty-day **month** of the previous year, and the result is that only seven deficient months have an impact on the appearance of the new moon relative to the following Rosh HaShana.
+
+**6.**
+*Hebrew/Aramaic:* וְאַכַּתִּי אִיכָּא חַד יוֹמָא, סָבְרִי: אִיתְחֲזוֹיֵי אִיתְחֲזִי וַאֲנַן לָאו אַדַּעְתִּין.
+*Translation:* The Gemara asks: **But** even in a year with seven deficient months **there is still one day** between Rosh HaShana and the appearance of the new moon, and therefore people will deride the court. The Gemara answers: People will **assume** that the new moon **was sighted** by witnesses and reported to the court, and they will say: The new moon was visible yesterday **but we did not pay attention** and did not notice it.
+
+
+---
+
+### Arakhin 9b
+
+**1.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? בְּעִיבּוּר שָׁנָה, דְּתַנְיָא: כַּמָּה עִיבּוּר שָׁנָה — שְׁלֹשִׁים, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: חוֹדֶשׁ.
+*Translation:* The Gemara asks: **With regard to what** principle **do** Rav Huna and Ulla **disagree?** The Gemara answers: They disagree **about** the length of the month added in the **intercalation of the year, as it is taught** in a *baraita*: **How many** days are added in the **intercalation of the year? Thirty** days. **Rabban Shimon ben Gamliel says:** A deficient **month,** i.e., one of twenty-nine days. Rav Huna accepts the opinion of Rabban Shimon ben Gamliel, whereas Ulla accepts the opinion of the first *tanna*.
+
+**2.**
+*Hebrew/Aramaic:* מֵיתִיבִי: אִין עֲצֶרֶת חָלָה אֶלָּא בְּיוֹם הָנֵף, וְאֵין רֹאשׁ הַשָּׁנָה חָלָה אֶלָּא אוֹ בְּיוֹם הָנֵף אוֹ לְאוֹר עִיבּוּרוֹ. בִּשְׁלָמָא לְעוּלָּא, דִּשְׁמוֹנָה חֲסֵירִין עָבְדִינַן, מֵעוּבָּרִין לָא עָבְדִינַן — מַשְׁכַּחַתְּ לַהּ.
+*Translation:* The Gemara **raises an objection** to the opinion of Rav Huna from a *baraita*: The festival of ***Shavuot* occurs only on** the same day of the week as **the day of waving** the *omer* offering, i.e., the sixteenth of Nisan, which is the second day of Passover. **And Rosh HaShana** also **occurs only on** the same day of the week as **the day of waving** the *omer* offering of the preceding year, **or** on the day of the week that occurs **on the night after** the waving, i.e., the seventeenth of Nisan, which is the third day of Passover. **Granted, according to** the opinion of **Ulla,** who says **that we may establish eight deficient** months in a year but **we may not establish** eight **full** months in a year, **you find** that Rosh HaShana can occur on either of the two days mentioned in the *baraita*.
+
+**3.**
+*Hebrew/Aramaic:* שְׁנֵיהֶן חָסֵר — בְּיוֹם הָנֵף.
+*Translation:* The Gemara elaborates: There are six ends of months between the *omer* offering and Rosh HaShana. In an ordinary year the months alternate in length, so these six months will comprise three full and three deficient months. If so, Rosh HaShana will occur on the same day of the week as the third day of Passover. If a year has eight deficient months, one of the **two** extra **deficient** months will presumably occur in the summer, between the day of waving and Rosh HaShana, which would mean that Rosh HaShana would occur one day earlier, **on** the same day of the week as the second day of Passover, **the day of the waving** of the *omer* offering.
+
+**4.**
+*Hebrew/Aramaic:* אֶחָד מָלֵא וְאֶחָד חָסֵר — לְאוֹר עִיבּוּרוֹ.
+*Translation:* And if no extra deficient months are added that year, but the standard format of alternating lengths of months, **one full and one deficient,** is applied, Rosh HaShana will occur on the day of the week that occurs **on the night after** the waving of the *omer* offering.
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא לְרַב הוּנָא דְּאָמַר: עָבְדִינַן מְעוּבָּרִין, הָא זִימְנִין דְּמַשְׁכַּחַתְּ לְאוֹר אוֹר עִיבּוּרוֹ!
+*Translation:* **But according to Rav Huna, who says: We may establish** eight **full,** thirty-day months in a year, **there are** also **times when you find** that Rosh HaShana occurs **on the night** after **the night** after **the extra day,** i.e., the thirtieth of Nisan, two days after the day of the week of the *omer* offering. This would occur on a Rosh HaShana following a year with eight full months, i.e., two more full months than usual, when one of the extra full months would occur between Passover and Rosh HaShana. In such a case, Rosh HaShana would be delayed from occurring on the same day of the week as the third day of Passover, which is the usual situation, to the same day as the fourth day of Passover.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב הוּנָא: וּלְעוּלָּא מִי נִיחָא? שְׁמוֹנָה הוּא דְּלָא עָבְדִינַן, הָא שִׁבְעָה עָבְדִינַן. שִׁבְעָה זִימְנִין דְּלָא עָבְדִינַן בְּסִיתְוָא וְעָבְדִינַן בְּקַיְיטָא, וְהָא הֲוָה לְאוֹר אוֹר עִיבּוּרוֹ!
+*Translation:* The Gemara responds with a counter objection. **Rav Huna** could **say to you: And does** the *baraita* really **work out well according to Ulla?** Even according to Ulla, **it is eight** full months **that we may not establish** in one year, **but we may establish seven** full months in a single year, one more than the usual. Consequently, there may be **times when we do not establish** the extra full month **in the winter, but we establish** it **in the summer,** between Passover and Rosh HaShana. In such a case, Rosh HaShana would **be two days after** the day of the week of the *omer* offering. Consequently, even according to Ulla, the *baraita* should have mentioned this possibility.
+
+**7.**
+*Hebrew/Aramaic:* אֶלָּא, הָא מַנִּי? אֲחֵרִים הִיא, דְּתַנְיָא: אֲחֵרִים אוֹמְרִים: אֵין בֵּין עֲצֶרֶת לַעֲצֶרֶת, וְאֵין בֵּין רֹאשׁ הַשָּׁנָה לְרֹאשׁ הַשָּׁנָה, אֶלָּא אַרְבָּעָה יָמִים בִּלְבַד, וְאִם הָיְתָה שָׁנָה מְעוּבֶּרֶת — חֲמִשָּׁה.
+*Translation:* **Rather,** in accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with ***Aḥerim*, as it is taught** in a *baraita*: ***Aḥerim* say** that **the difference between *Shavuot*** of one year **and *Shavuot*** of the following year, **and** similarly, the difference **between Rosh HaShana** of one year **and Rosh HaShana** of the following year, **is only four days** of the week. In an ordinary year, when full and deficient months alternate, there are 354 days. Therefore, every year is exactly fifty weeks and four days long, which means that any calendar date one year would occur four days later in the week in the following year. **And if it was a leap year,** in which case the year contains 383 days, or fifty-four weeks and five days, there is a difference of **five** days between them.
+
+**8.**
+*Hebrew/Aramaic:* סוֹף סוֹף, לַאֲחֵרִים, בְּיוֹם הָנֵף — לָא מַשְׁכַּחַתְּ לַהּ!
+*Translation:* The Gemara asks: **Ultimately,** the *baraita* remains difficult, because **according to *Aḥerim* you do not find** that Rosh HaShana ever occurs **on** the same day of the week as **the day of waving** the *omer* offering. This is because *Aḥerim* maintain that the months always alternate between full and deficient months and therefore there is never an additional full month between Passover and Rosh HaShana.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב מְשַׁרְשְׁיָא: כְּגוֹן שֶׁהָיְתָה שָׁנָה מְעוּבֶּרֶת, וְעִיבּוּר שָׁנָה שְׁלֹשִׁים יוֹם, דַּל יַרְחָא לְבַהֲדֵי יַרְחָא, דְּמַשְׁכַּחַתְּ לָהּ בְּיוֹם הָנֵף.
+*Translation:* **Rav Mesharshiyya said** in response: Rosh HaShana can occur on the same day of the week as the day of the *omer* offering, in a case **where it was a leap year and** the intercalated month added to create the **leap year** was **thirty days.** This would cause Rosh HaShana to occur six days of the week later than the year before, but *Aḥerim* maintain that it must occur exactly five days of the week later. Consequently, one of the months after Passover must be changed from a full month to a deficient one: **Remove** from the calculation one full **month** after Passover **corresponding to** the extra full **month** added before Passover in order to ensure that Rosh HaShana occurs five days of the week later than the previous year. This ensures **that you** will **find** a case where Rosh HaShana occurs **on** the same day of the week as **the day of waving** the *omer* offering.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַדָּא בַּר אַהֲבָה לְרָבָא: ״אֲחֵרִים״, מִנְיָנָא אֲתָא לְאַשְׁמוֹעִינַן? הָא קָא מַשְׁמַע לַן, דְּלָא בָּעֵינַן מִצְוָה לְקַדֵּשׁ עַל פִּי הָרְאָיָה.
+*Translation:* **Rav Adda bar Ahava said to Rava:** Did ***Aḥerim* come to teach us the number** of days between one Rosh HaShana and the next? Why didn’t *Aḥerim* simply say that the months of the year always alternate between full and deficient months, and the calculation of the number of days between the Festivals in one year and the next would be obvious? Rava answered: **This** statement of *Aḥerim* **teaches us that we do not need** to take into consideration the possibility that it is **a mitzva to sanctify** the new month **according to the sighting** of the new moon. Rather, if the order of the months dictates that a new month should be deficient, the start of the following month may be declared despite the fact that the new moon has not been sighted.
+
+**11.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רָבִינָא וְהָאִיכָּא יוֹמָא דְּשָׁעֵי, וְיוֹמָא דִּתְלָתִין שְׁנֵי, כֵּיוָן דְּלֵיתֵיהּ בְּכֹל שַׁתָּא לָא קָא חָשֵׁיב.
+*Translation:* **Ravina objects to** the opinion of *Aḥerim* for a different reason: **But** how is it possible that there is always a difference of four weekdays between one Rosh HaShana and the next? The length of a lunar month is not precisely twenty-nine and a half days, but twenty-nine days, twelve hours and 793/1080 of an hour. This extra fraction beyond twenty-nine and a half days is compounded month after month and year after year, and as a result, eventually **there is an** additional **day** that must be added to the calendar every three years due to **the** accumulation of **hours, and** an additional **day** that must be added every **thirty years** due to a further accumulation of the extra parts of an hour. The Gemara answers: **Since** these days do **not** appear on the calendar **every year,** the *baraita* **did not account** for them.
+
+**12.**
+*Hebrew/Aramaic:* וְאַף שְׁמוּאֵל סָבַר לַהּ כְּרַב הוּנָא, דְּאָמַר שְׁמוּאֵל: אֵין שְׁנַת לְבָנָה פְּחוּתָה מִשְּׁלֹשׁ מֵאוֹת וַחֲמִשִּׁים וּשְׁתַּיִם יוֹם, וְלֹא יְתֵירָה עַל שְׁלֹשׁ מֵאוֹת וַחֲמִשִּׁים וְשִׁשָּׁה יוֹם.
+*Translation:* § The Gemara returns to the dispute between Rav Huna and Ulla over the interpretation of the mishna. **And Shmuel also holds in accordance with** the opinion of **Rav Huna,** that it is permitted to establish eight full months in a year, **as Shmuel says: The year** in **a lunar** calendar has **no less than 352 days, and no more than 356 days.**
+
+**13.**
+*Hebrew/Aramaic:* הָא כֵּיצַד? שְׁנֵיהֶם מְלֵאִין — שִׁשָּׁה, שְׁנֵיהֶם חֲסֵירִין — שְׁנַיִם, אֶחָד מָלֵא וְאֶחָד חָסֵר — אַרְבָּעָה.
+*Translation:* **How so?** An ordinary year, consisting of alternating full and deficient months, consists of 354 days. If **two** months that are generally deficient are made **full,** there are three hundred and fifty-**six** days in the year. If **two** months that are generally full are made **deficient,** there are three hundred and fifty-**two** days in the year. If the months alternate as usual, **one full and one deficient,** there are three hundred and fifty-**four** days in the year. This shows that according to Shmuel it is permitted to change two months from deficient to full months, which leads to a total of eight full months in one year.
+
+**14.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הֲרֵינִי נָזִיר ״כִּימוֹת הַחַמָּה״ — מוֹנֶה נְזִירוּת שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה יָמִים, כְּמִנְיַן יְמוֹת הַחַמָּה. ״כִּימוֹת הַלְּבָנָה״ — מוֹנֶה נְזִירוּת שְׁלֹשׁ מֵאוֹת וַחֲמִשִּׁים וְאַרְבָּעָה יָמִים, כְּמִנְיַן יְמוֹת הַלְּבָנָה. וְאִם אִיתָא, זִימְנִין דְּמַשְׁכַּחַתְּ לַהּ שִׁשָּׁה!
+*Translation:* The Gemara **raises an objection** against Shmuel from a *baraita*. If one says: **I am hereby a nazirite** for a duration that is **like the** number of **days** in **a solar** year, **he counts 365 days** for his term of **naziriteship, corresponding to the number of days** in **a solar** year. If he says: **Like the days** in **a lunar** year, i.e., a year comprising twelve lunar months, **he counts 354 days** for his term of **naziriteship, corresponding to the number of days** in **a lunar** year. The Gemara explains the objection: **And if it is so,** that there can be eight full months in a year, there are **times when you find** that a lunar year has three hundred and fifty-**six** days. Why, then, shouldn’t the period of naziriteship last for 356 days?
+
+**15.**
+*Hebrew/Aramaic:* בִּנְדָרִים הַלֵּךְ אַחַר לְשׁוֹן בְּנֵי אָדָם, וְרוֹב שְׁנַיִם.
+*Translation:* The Gemara explains: The *halakha* is that **with regard to vows,** you **follow the** ordinary **language of people.** The meaning of a vow is understood in accordance with the way its words are used in common speech. **And** when people speak of a lunar year, they are generally referring to one that is the length of **most years,** i.e., 354 days.
+
+**16.**
+*Hebrew/Aramaic:* וְאַף רַבִּי סָבַר לַהּ כְּרַב הוּנָא, דְּתַנְיָא: מַעֲשֶׂה וְעָשָׂה רַבִּי (כְּרַב הוּנָא) תִּשְׁעָה חֲסֵירִים, וְנִרְאָה חוֹדֶשׁ בִּזְמַנּוֹ, וְהָיָה רַבִּי תָּמֵיהַּ וְאוֹמֵר: עָשִׂינוּ תִּשְׁעָה חֲסֵירִין וְנִרְאֶה חוֹדֶשׁ בִּזְמַנּוֹ! אָמַר לְפָנָיו רַבִּי שִׁמְעוֹן בַּר רַבִּי: שֶׁמָּא שָׁנָה מְעוּבֶּרֶת הָיְתָה?
+*Translation:* The Gemara adds: **And Rabbi** Yehuda HaNasi **also holds in accordance with** the opinion of **Rav Huna,** that it is permitted to establish eight full months in one year. **As it is taught** in a *baraita*: There was an **incident** in which **Rabbi** Yehuda HaNasi **established nine deficient** months in one year, **and** nevertheless **the new moon was sighted in its** proper **time,** on Rosh HaShana, and not later. **And Rabbi** Yehuda HaNasi **expressed astonishment and said: We made nine** months **deficient** in one year **and** yet **the new moon was sighted in its** proper **time.** How could this be? **Rabbi Shimon, son of Rabbi** Yehuda HaNasi, **said before him: Perhaps** last year **was a leap year**

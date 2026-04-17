@@ -1,0 +1,57 @@
+### Arakhin 10a
+
+**1.**
+*Hebrew/Aramaic:* וְעִיבּוּר שָׁנָה שְׁלֹשִׁים (אישתקד) [וְאִישְׁתָּקַד] עָשִׂינוּ שְׁנֵיהֶם מְלֵאִין, דַּל תְּלָתָא לְבַהֲדֵי תְּלָתָא וְקָם לֵיהּ בְּדוּכְתֵּיהּ. אֲמַר לֵיהּ: נֵר יִשְׂרָאֵל! כֵּן הָוֵה.
+*Translation:* **and** the month that was **intercalated,** added for the **leap year,** was **thirty** days, and **last year we turned two** months that are generally deficient into **full** months, which meant that it had eight full months instead of the usual six. Consequently, **remove** from consideration the **three** months that were made deficient this year **corresponding to the three** extra months that were made full last year, **and** the moon is **restored to its place,** i.e., it is properly aligned with the months. Rabbi Yehuda HaNasi **said to him: Lamp of Israel!** Indeed, **so it was.**
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵין פּוֹחֲתִין מֵעֶשְׂרִים וְאַחַת תְּקִיעוֹת בַּמִּקְדָּשׁ, וְלֹא מוֹסִיפִין עַל אַרְבָּעִים וּשְׁמֹנֶה.
+*Translation:* MISHNA: **No fewer than twenty-one** trumpet **blasts are** sounded daily **in the Temple,** as each day three blasts were sounded for the opening of the gates in the morning, nine for the daily morning offering, and nine for the daily afternoon offering, totaling twenty-one. **And no more than forty-eight are** ever sounded on a single day. This would occur on the Friday of *Sukkot*, when they would sound an additional twelve blasts during the ritual of drawing the water for the water libation; nine for the additional offerings; three to signal the population to cease their work before Shabbat; and three more to mark the beginning of Shabbat.
+
+**3.**
+*Hebrew/Aramaic:* אֵין פּוֹחֲתִין מִשְּׁנֵי נְבָלִים, וְלֹא מוֹסִיפִין עַל שִׁשָּׁה. אֵין פּוֹחֲתִין מִשְּׁנֵי חֲלִילִין, וְלֹא מוֹסִיפִין עַל שְׁנֵים עָשָׂר, וּבִשְׁנֵים עָשָׂר יוֹם בַּשָּׁנָה הֶחָלִיל מַכֶּה לִפְנֵי הַמִּזְבֵּחַ: בִּשְׁחִיטַת פֶּסַח רִאשׁוֹן, וּבִשְׁחִיטַת פֶּסַח שֵׁנִי, וְיוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, וּבְיוֹם טוֹב שֶׁל עֲצֶרֶת, וּבִשְׁמוֹנַת יְמֵי הֶחָג. וְלֹא הָיָה מַכֶּה בְּאַבּוּב שֶׁל נְחֹשֶׁת, אֶלָּא בְּאַבּוּב שֶׁל קָנֶה, מִפְּנֵי שֶׁקּוֹלוֹ עָרֵב; וְלֹא הָיָה מְחַלֵּק אֶלָּא בְּאַבּוּב יְחִידִי, מִפְּנֵי שֶׁהוּא מְחַלֵּיק יָפֶה.
+*Translation:* When accompanying their song with instruments, the Levites **do not use fewer than two lyres and do not use more than six.** When flutes are played, **they do not use fewer than two flutes and do not use more than twelve. And** there are **twelve days during the year when the flute plays before the altar: At** the time of **the slaughter of the first Paschal offering,** on the fourteenth of Nisan; **and at** the time of **the slaughter of the second Paschal offering,** on the fourteenth of Iyyar; **and on the first festival** day **of Passover; and on the festival of *Shavuot*; and on** all **eight days of the festival of *Sukkot*. And one would not play with a copper flute; rather, one would play with a flute of reed, because its sound is** more **pleasant. And one would conclude** the music **only with a single flute, because it concludes** the music **nicely.**
+
+**4.**
+*Hebrew/Aramaic:* וְעַבְדֵי כֹּהֲנִים הָיוּ, דִּבְרֵי רַבִּי מֵאִיר; רַבִּי יוֹסֵי אוֹמֵר: מִשְׁפַּחַת בֵּית פְּגָרִים וּבֵית צִיפְּרָא מֵעֶמָּאוּם הָיוּ מַשִּׂיאִין לַכְּהוּנָּה; רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס אוֹמֵר: לְוִיִּם הָיוּ.
+*Translation:* The Temple musicians **were slaves of priests;** this is **the statement of Rabbi Meir. Rabbi Yosei says:** The musicians were not slaves, but Israelites from **the family of the house of Pegarim and the family of the house of Tzippara from** the city of **Emaum,** and their lineage was sufficiently pure that **they would marry** their daughters **to** members of **the priesthood. Rabbi Ḥanina ben Antigonus says: They were Levites.**
+
+**5.**
+*Hebrew/Aramaic:* גּמ׳: מַתְנִיתִין דְּלָא כְּרַבִּי יְהוּדָה, דְּתַנְיָא: רַבִּי יְהוּדָה אוֹמֵר: לֹא יִפְחוֹת מִשֶּׁבַע, וְלֹא יוֹסִיף עַל שֵׁשׁ עֶשְׂרֵה.
+*Translation:* GEMARA: The mishna teaches that no fewer than twenty-one trumpet blasts are sounded daily in the Temple and no more than forty-eight. The Gemara notes: **The mishna is not in accordance with** the opinion of **Rabbi Yehuda, as it is taught** in a *baraita* that **Rabbi Yehuda says: One may not** blow **fewer than seven** blasts, and **one may not** blow **more than sixteen** blasts.
+
+**6.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? רַבִּי יְהוּדָה סָבַר: תְּקִיעָה תְּרוּעָה וּתְקִיעָה חֲדָא הִיא, וְרַבָּנַן סָבְרִי: תְּקִיעָה לְחוּד, וּתְרוּעָה לְחוּד, וּתְקִיעָה לְחוּד.
+*Translation:* The Gemara asks: **With regard to what** principle **do** the *tanna* of the mishna and Rabbi Yehuda **disagree?** The Gemara explains that **Rabbi Yehuda holds:** A series of blasts consisting of ***tekia*, *terua*, *tekia* is** counted as **one** unit. **And the Rabbis hold: A *tekia*** is counted as **a discrete** unit **and a *terua*** is also counted as **a discrete** unit, **and** the final ***tekia*** is again counted as **a discrete** unit. They agree with regard to the sequence and the number of the blasts; their disgreement is only with regard to how the blasts are tallied.
+
+**7.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבִּי יְהוּדָה? כְּתִיב ״וּתְקַעְתֶּם תְּרוּעָה״, וּכְתִיב ״תְּרוּעָה יִתְקְעוּ״ (לָכֶם), שְׁמַע מִינַּהּ: תְּקִיעָה תְּרוּעָה וּתְקִיעָה — חֲדָא הִיא. וְרַבָּנַן? הַהוּא לִפְשׁוּטָה לְפָנֶיהָ וּפְשׁוּטָה לְאַחֲרֶיהָ הוּא דַּאֲתָא.
+*Translation:* The Gemara asks: **What is the reasoning of Rabbi Yehuda?** As **it is written** in the verse: **“And you shall sound [*utkatem*] a *terua*”** (Numbers 10:5), **and it is written: “A *terua* they will sound [*yitke’u*]”** (Numbers 10:6). **Conclude from** the fact that the Torah uses a verb from the root *tekia* when referring to a *terua* that **a *tekia*, *terua*, and *tekia*** together constitute **one** unit. **And** how do **the Rabbis** interpret these verses? They explain that **these** verses **come** to teach that each *terua* blast is accompanied by **a plain** blast, a *tekia*, **preceding it and** another **plain** blast **following it.**
+
+**8.**
+*Hebrew/Aramaic:* וְרַבָּנַן מַאי טַעְמָא? דִּכְתִיב: ״וּבְהַקְהִיל אֶת הַקָּהָל תִּתְקְעוּ וְלֹא תָרִיעוּ״, וְאִי סָלְקָא דַעְתָּךְ תְּקִיעָה תְּרוּעָה וּתְקִיעָה חֲדָא הִיא, אָמַר רַחֲמָנָא עֲבֵיד פַּלְגָא דְּמִצְוָה? וְרַבִּי יְהוּדָה — סִימָנָא בְּעָלְמָא הוּא.
+*Translation:* The Gemara asks: **And what is the reasoning** of **the Rabbis? As it is written: “And when congregating the people you shall sound a *tekia* and shall not sound a *terua*”** (Numbers 10:7). **And if it enters your mind** that a series of ***tekia*, *terua*, and *tekia* are** considered **one** unit, would **the Merciful One say** to **perform** only **half a mitzva?** Rather, each sound constitutes a separate mitzva. The Gemara asks: **And** how does **Rabbi Yehuda** explain this verse? The Gemara answers: **That** single *tekia* mentioned in the context of congregating the people was blown **merely as a signal** to the people to assemble, not for the purpose of fulfilling a mitzva, which, in Rabbi Yehuda’s opinion, always comes in units of three sounds.
+
+**9.**
+*Hebrew/Aramaic:* כְּמַאן אָזְלָא הָא דְּאָמַר רַב כָּהֲנָא: אֵין בֵּין תְּקִיעָה לִתְרוּעָה וְלֹא כְּלוּם? כְּמַאן? כְּרַבִּי יְהוּדָה. פְּשִׁיטָא!
+*Translation:* The Gemara asks: **In accordance with whose** opinion **is that which Rav Kahana said?** As Rav Kahana said: **There is** to be **no** pause **between a *tekia* and a *terua* at all,** but rather they are sounded in one continuous series of blasts. **In accordance with whose** opinion is this statement? It is **in accordance with** the opinion of **Rabbi Yehuda.** The Gemara asks: Isn’t that **obvious?** Why was it necessary to point this out?
+
+**10.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: אֲפִילּוּ כְּרַבָּנַן אָתְיָא, וּלְאַפּוֹקֵי מִדְּרַבִּי יוֹחָנָן דְּאָמַר: שָׁמַע תֵּשַׁע תְּקִיעוֹת בְּתֵשַׁע שָׁעוֹת בַּיּוֹם — יָצָא. קָא מַשְׁמַע לַן.
+*Translation:* The Gemara answers: It is not obvious that Rav Kahana’s statement is in accordance with the opinion of Rabbi Yehuda. **Lest you say** that Rav Kahana **comes** to teach his *halakha* **even in accordance with** the opinion of **the Rabbis,** and that he is coming **to exclude** only the opinion **of Rabbi Yoḥanan, who says:** If **one heard nine blasts in nine** different **hours on the day** of Rosh HaShana, despite the considerable gap between them, **he has fulfilled** his obligation. One might have thought that Rav Kahana meant only that there should not be such long gaps between the sounds. Therefore, the Gemara **teaches us** that Rav Kahana’s ruling is in accordance with the opinion of Rabbi Yehuda, as he does not allow any pause at all between the shofar blasts.
+
+**11.**
+*Hebrew/Aramaic:* וְאֵימָא הָכִי נָמֵי! אִם כֵּן, מַאי ״וְלֹא כְּלוּם״?
+*Translation:* The Gemara asks: **And** how do you know that this was Rav Kahana’s intent? One can **say it is indeed so,** that Rav Kahana holds in accordance with the opinion of the Rabbis and he merely excludes the opinion of Rabbi Yoḥanan. The Gemara answers that **if so, what is** the meaning of the phrase **“at all”** when Rav Kahana said that there is no pause between a *tekia* and a *terua* at all? This phrase indicates that Rav Kahana does not allow even a slight pause between blasts, which is in accordance with the opinion of Rabbi Yehuda.
+
+**12.**
+*Hebrew/Aramaic:* שְׁנֵים עָשָׂר יוֹם בַּשָּׁנָה מַכֶּה בֶּחָלִיל וְכוּ׳. מַאי שְׁנָא הָנֵי? הוֹאִיל וְיָחִיד גּוֹמֵר בָּהֶן אֶת הַהַלֵּל.
+*Translation:* § The mishna teaches that there are **twelve days during the year when the flute plays** before the altar, and it proceeds to list them. The Gemara asks: **What is different** about **these** days enumerated in the mishna that the flute is played before the altar specifically on those occasions? The Gemara answers: They are unique, **since** these are the days **on which the individual completes** the full ***hallel*.**
+
+**13.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק: שְׁמוֹנָה עָשָׂר יָמִים שֶׁהַיָּחִיד גּוֹמֵר בָּהֶן אֶת הַהַלֵּל: שְׁמוֹנָה יְמֵי הַחַג, וּשְׁמוֹנָה יְמֵי חֲנוּכָּה, וְיוֹם טוֹב הָרִאשׁוֹן שֶׁל פֶּסַח, וְיוֹם טוֹב (הָרִאשׁוֹן) שֶׁל עֲצֶרֶת; וּבַגּוֹלָה עֶשְׂרִים וְאֶחָד: תִּשְׁעָה יְמֵי הַחַג, וּשְׁמוֹנָה יְמֵי חֲנוּכָּה, וּשְׁנֵי יָמִים טוֹבִים שֶׁל פֶּסַח, וּשְׁנֵי יָמִים טוֹבִים שֶׁל עֲצֶרֶת.
+*Translation:* **As Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yehotzadak:** There are **eighteen days** a year **on which the individual completes** the full ***hallel*: The eight days of the festival** of *Sukkot*, including the Eighth Day of Assembly; **and the eight days of Hanukkah; and the first festival day of Passover; and the festival day of Assembly,** i.e., *Shavuot*. **And in the Diaspora,** where a second day is added to each Festival due to uncertainty over the precise date, there are **twenty-one days: The nine days of the festival** of *Sukkot*; **and the eight days of Hanukkah; and the** first **two festival days of Passover; and the two festival days of Assembly,** i.e., *Shavuot*.
+
+**14.**
+*Hebrew/Aramaic:* מַאי שְׁנָא בְּחַג דְּאָמְרִינַן כֹּל יוֹמָא, וּמַאי שְׁנָא בְּפֶסַח דְּלָא אָמְרִינַן
+*Translation:* The Gemara asks: **What is different** about **the festival** of *Sukkot*, **that we say** *hallel* **every day, and what is different** about **Passover, that we do not say** *hallel*

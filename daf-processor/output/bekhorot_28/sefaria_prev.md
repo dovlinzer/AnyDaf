@@ -1,0 +1,29 @@
+### Bekhorot 27b
+
+**1.**
+*Hebrew/Aramaic:* וְכִי הַזָּאָה יֵשׁ לָנוּ? אֲמַר לֵיהּ רָמֵי בַּר חָמָא: לָא לֵיחוּשׁ לֵיהּ לְסָבָא. אַדְּהָכִי אֲתָא רַב עַמְרָם, אֲמַר לְהוּ: הָכִי אָמַר רַב: טְמֵא מֵת טוֹבֵל וְאוֹכֵל בִּתְרוּמַת חוּצָה לָאָרֶץ.
+*Translation:* **But do we have sprinkling** of the ashes of the red heifer? Since without such sprinkling one remains impure after contact with a corpse, how does it help to immerse in a ritual bath? **Rami bar Ḥama said to him: Shouldn’t** Rav Naḥman **be concerned for** the opinion **of the old man,** i.e., Rav Amram? Wouldn’t it be better to wait until he returns before answering? **Meanwhile, Rav Amram came** back. **He said to them** that **this** is what **Rav says:** One who became impure with **impurity** imparted by **a corpse may immerse and partake of *teruma* from** produce grown **outside of Eretz** Yisrael.
+
+**2.**
+*Hebrew/Aramaic:* וְלֵית הִלְכְתָא כְּוָותֵיהּ, דְּאָמַר מָר זוּטְרָא מִשְּׁמֵיהּ דְּרַב שֵׁשֶׁת: טְמֵא שֶׁרֶץ טוֹבֵל וְאוֹכֵל בִּתְרוּמַת חוּצָה לָאָרֶץ, וְלֵית הִלְכְתָא כְּוָותֵיהּ.
+*Translation:* The Gemara comments: **But the *halakha*** is **not in accordance with his** opinion. **Mar Zutra said in the name of Rav Sheshet:** One who became **impure** through contact with the carcass of **a creeping animal may immerse** in a ritual bath **and partake of *teruma* from** produce grown **outside of Eretz** Yisrael. **But the *halakha*** is **not in accordance with his** opinion.
+
+**3.**
+*Hebrew/Aramaic:* בְּכוֹר נֶאֱכָל שָׁנָה בְּשָׁנָה כּוּ׳. מִדְּקָאָמַר ״נוֹלַד בּוֹ מוּם בְּתוֹךְ שְׁנָתוֹ״, לְמֵימְרָא דִּלְשָׁנָה דִּידֵיהּ מָנֵינַן. מְנָא הָנֵי מִילֵּי?
+*Translation:* § The mishna teaches: **The firstborn animal is eaten year by year,** i.e., within its first year, whether it is blemished or unblemished. The Gemara comments: **From** the fact **that** the mishna **says: If a blemish developed within its** first **year,** rather than within the first year, that is **to say that we count** according **to its year,** not by the calendar year. In other words, the year is calculated from the day of the animal’s birth. **From where is this matter** derived?
+
+**4.**
+*Hebrew/Aramaic:* דְּאָמַר רַב יְהוּדָה אָמַר רַב, דְּאָמַר קְרָא: ״לִפְנֵי ה׳ אֱלֹהֶיךָ תֹאכְלֶנּוּ שָׁנָה בְשָׁנָה״, אֵיזוֹהִי שָׁנָה שֶׁנִּכְנֶסֶת בַּחֲבֶרְתָּהּ? הֱוֵי אוֹמֵר: שָׁנָה שֶׁל בְּכוֹר.
+*Translation:* It is derived from a verse, **as Rav Yehuda says** that **Rav says that the verse states: “You shall eat it before the Lord your God, year by year [*shana beshana*]** in the place that the Lord shall choose, you and your household” (Deuteronomy 15:20). The phrase “*shana beshana*,” which can also be translated as: A year in a year, indicates that the verse is referring to one year that enters another year. **Which** type of **year enters another** year? **You must say** that this is speaking of the **year of the firstborn** animal, which enters the following calendar year, since if the animal is born in the middle of the year, its first year includes part of the subsequent calendar year.
+
+**5.**
+*Hebrew/Aramaic:* דְּבֵי רַב תָּנָא: ״שָׁנָה בְּשָׁנָה״ — יוֹם אֶחָד בְּשָׁנָה זוֹ, וְיוֹם אֶחָד בְּשָׁנָה זוֹ, לִימֵּד עַל הַבְּכוֹר שֶׁנֶּאֱכָל לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד.
+*Translation:* **The school of Rav taught** that there is a different *halakha* derived from the phrase **“year by year.”** This phrase indicates that it may be eaten on **one day of this year and one day of that** next **year.** The verse thereby **taught with regard to** an unblemished **firstborn** animal, which is sacrificed in the Temple, **that it is eaten for two days and one night,** like a peace offering.
+
+**6.**
+*Hebrew/Aramaic:* דְּבֵי רַב, מְנָא לְהוּ? יָלְפִי מִקֳּדָשִׁים, וְקָדָשִׁים גּוּפַיְיהוּ מְנָלַן? אָמַר רַב אַחָא בַּר יַעֲקֹב: אָמַר קְרָא ״כֶּבֶשׂ בֶּן שְׁנָתוֹ״ — שְׁנָתוֹ שֶׁלּוֹ, וְלֹא שָׁנָה שֶׁל מִנְיַן עוֹלָם.
+*Translation:* The Gemara asks: **From where** does **the school of Rav** derive the *halakha* that a firstborn must be eaten within its own year and that its year is not calculated according to the calendar year? **They derive it from** the *halakha* of other **sacrificial** animals, whose age is counted from their birth rather than by the calendar year. **And** with regard to the other **sacrificial** animals **themselves, from where do we** derive that their age is counted from their birth? **Rav Aḥa bar Yaakov says** that **the verse states:** “And when the days of her purification are fulfilled, for a son or for a daughter, she shall bring **a lamb in its first year** for a burnt offering, and a pigeon or a dove for a sin offering, to the door of the Tent of Meeting, to the priest” (Leviticus 12:6). This description of the lamb is referring to **its** own **year, and not a year of the counting of the world.**
+
+**7.**
+*Hebrew/Aramaic:* וְרַב, נֶאֱכָל לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד, מְנָא לֵיהּ? נָפְקָא לֵיהּ מֵ״וּבְשָׂרָם יִהְיֶה לָּךְ כַּחֲזֵה הַתְּנוּפָה וּכְשׁוֹק הַיָּמִין״ — הִקִּישׁוֹ הַכָּתוּב לְחָזֶה וָשׁוֹק שֶׁל שְׁלָמִים: מָה לְהַלָּן שְׁנֵי יָמִים וְלַיְלָה אֶחָד, אַף כָּאן שְׁנֵי יָמִים וְלַיְלָה אֶחָד.
+*Translation:* The Gemara asks: **And Rav, from where does he** derive that a firstborn **is eaten for two days and one night?** The Gemara answers: **He derives it from** a verse in which Moses spoke to Aaron and his sons with regard to eating the firstborn: **“And their flesh shall be yours, as the breast of waving and as the right thigh, it shall be yours”** (Numbers 18:18). **The verse** thereby **juxtaposed** the *halakha* of the firstborn **with the breast and thigh of a peace offering. Just as there,** it may be eaten for **two days and one night,** as stated explicitly in a verse (see Leviticus 7:16), **so too here,** a firstborn may be eaten for **two days and one night.**

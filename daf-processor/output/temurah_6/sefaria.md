@@ -1,0 +1,158 @@
+### Temurah 6a
+
+**1.**
+*Hebrew/Aramaic:* ״נְדָבָה תַּעֲשֶׂה אֹתוֹ״ — זֶה קׇדְשֵׁי בֶּדֶק הַבַּיִת, וּתְנַן: הַמַּקְדִּישׁ תְּמִימִין לְבֶדֶק הַבַּיִת, אַף עַל פִּי שֶׁהוּא בְּלֹא תַעֲשֶׂה — מַה שֶּׁעָשָׂה עָשׂוּי. תְּיוּבְתָּא דְרָבָא!
+*Translation:* “Either a bull or a lamb that has anything too long or too short, **that may you offer for a gift;** but for a vow it shall not be accepted” (Leviticus 22:23). **This** verse teaches that only blemished animals may be **consecrated** for **Temple maintenance. And we learned** in a *baraita*: With regard to **one who consecrates unblemished** animals for **Temple maintenance, even though he has** transgressed **a prohibition, what he did is done.** This is apparently **a conclusive refutation** of the opinion **of Rava.**
+
+**2.**
+*Hebrew/Aramaic:* אָמַר לָךְ [רָבָא]: מִמָּקוֹם שֶׁנִּתְרַבּוּ בַּעֲלֵי מוּמִין לְגַבֵּי מִזְבֵּחַ, נִתְרַבּוּ תְּמִימִין לְבֶדֶק הַבַּיִת.
+*Translation:* The Gemara explains that **Rava** could **say to you: From the** same **place** that it was derived earlier **that blemished** animals **are included,** i.e., that their consecration **for** sacrifice **on the altar** is effective after the fact, it is likewise derived that **unblemished** animals **are included,** that their consecration **for Temple maintenance** is effective. But in general, transgressions are not effective.
+
+**3.**
+*Hebrew/Aramaic:* וַהֲרֵי גָּזֵל, דְּרַחֲמָנָא אָמַר ״לֹא תִגְזוֹל״, וּתְנַן: הַגּוֹזֵל עֵצִים וַעֲשָׂאָן כֵּלִים, צֶמֶר וַעֲשָׂאָן בְּגָדִים — מְשַׁלֵּם כִּשְׁעַת הַגְּזֵילָה, תְּיוּבְתָּא דְרָבָא!
+*Translation:* The Gemara objects: **But there is** the case of **robbery,** with regard to **which the Merciful One states:** “You shall not oppress you neighbor, and **you shall not rob** him” (Leviticus 19:13), **and we learned** in a mishna (*Bava Kamma* 93b): **One who robs** another of **wood and fashions it** into **vessels,** or one who robs another of **wool and fashions it** into **garments, pays** the victim **according to** the value of the goods at **the time of the robbery,** but he need not return the vessels or garments, since by changing the stolen items he acquired them. If he can acquire the stolen item, this is apparently **a conclusive refutation** of the opinion **of Rava.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לָךְ רָבָא: שָׁאנֵי הָתָם, דְּאָמַר קְרָא ״אֲשֶׁר גָּזָל״ — כְּמָה שֶׁגָּזַל.
+*Translation:* The Gemara explains that **Rava** could **say to you: It is different there, as the verse states:** “He shall restore the stolen item **that he took by robbery”** (Leviticus 5:23). This teaches that he must return the original item only if it is still **like** that **which he took by robbery** and has not been altered. But in general, transgressions are not effective.
+
+**5.**
+*Hebrew/Aramaic:* וּלְאַבָּיֵי, הַאי ״אֲשֶׁר גָּזָל״ מִיבְּעֵי לֵיהּ: עַל גְּזֵילוֹ שֶׁלּוֹ מוֹסִיף חוֹמֶשׁ, עַל גְּזֵילוֹ שֶׁל אָבִיו אֵינוֹ מוֹסִיף חוֹמֶשׁ.
+*Translation:* **And according to** the opinion of **Abaye, this** phrase: **“That he took by robbery,” is necessary** to teach that one who takes a false oath denying he robbed another, who must then pay an additional fifth of the value of the stolen item when he returns it, need **add a fifth** only **for** denying **his** own act of **robbery,** but **for** denying **his** deceased **father’s** act of **robbery** when sued by the victim as the robber’s heir, he need **not add** an additional **fifth.**
+
+**6.**
+*Hebrew/Aramaic:* וַהֲרֵי מַשְׁכּוֹן, דְּרַחֲמָנָא אָמַר: ״לֹא תָבֹא אֶל בֵּיתוֹ לַעֲבוֹט עֲבוֹטוֹ״, וּתְנַן: מַחֲזִיר אֶת הַכַּר בַּלַּיְלָה וְאֶת הַמַּחֲרֵישָׁה בַּיּוֹם — תְּיוּבְתָּא דְרָבָא!
+*Translation:* The Gemara objects: **But there is** the case of **collateral,** with regard to **which the Merciful One states:** “When you lend your neighbor any manner of loan, **you shall not go into his house to fetch his pledge”** (Deuteronomy 24:10), teaching that a creditor may not seize collateral if the debtor delays payment. **And we learned** in a mishna (*Bava Metzia* 113a): If the creditor nevertheless seized two items as collateral, **he returns a mattress by night,** as the debtor requires it for sleeping, **and a plow,** which is needed for his daytime work, **by day.** The creditor may keep possession of seized collateral when it is not being used, which is apparently **a conclusive refutation** of the opinion **of Rava.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר לָךְ רָבָא: שָׁאנֵי הָתָם, דְּאָמַר קְרָא ״הָשֵׁב תָּשִׁיב״.
+*Translation:* The Gemara explains that **Rava** could **say to you: It is different there, as the verse states:** “And if he be a poor man, you shall not sleep with his pledge; **you shall restore [*hashev tashiv*]** to him the pledge” (Deuteronomy 24:12–13). The repetition of the verb teaches that the creditor must return the collateral many times, e.g., he must return a plow each morning and take it back each night, and return a mattress each night and take it back each morning, but he does not have to return the collateral permanently. But in general, transgressions are not effective.
+
+**8.**
+*Hebrew/Aramaic:* וּלְאַבָּיֵי, אִי לָאו דְּאָמַר רַחֲמָנָא ״הָשֵׁב תָּשִׁיב״, הֲוָה אָמֵינָא אִיסּוּרָא עֲבַד, אִי בָּעֵי נַיהְדַּר וְאִי בָּעֵי לָא נַהְדַּר, קָא מַשְׁמַע לַן. (חסר לישנא אחרינא)
+*Translation:* The Gemara notes: **And according to** the opinion of **Abaye,** that transgressions are generally effective, the repetition of the verb may be explained as follows: **If the Merciful One had not stated: “*Hashev tashiv*,” I would say** that a creditor who seizes collateral from the home of the debtor has **performed a prohibition,** but having done so, **if he desires, he may return** the collateral, **and if he desires, he may not return** it. The verse therefore **teaches us** that he must return the items the debtor needs.
+
+**9.**
+*Hebrew/Aramaic:* וַהֲרֵי פֵּאָה, דְּרַחֲמָנָא אָמַר: ״לֹא תְכַלֶּה פְּאַת שָׂדְךָ בְּקוּצְרֶךָ״, וּתְנַן: מִצְוַת פֵּאָה לְהַפְרִישׁ מִן הַקָּמָה, לֹא הִפְרִישׁ מִן הַקָּמָה — יַפְרִישׁ מִן הָעֳמָרִים, לֹא הִפְרִישׁ מִן הָעֳמָרִים — יַפְרִישׁ מִן הַכְּרִי עַד שֶׁלֹּא מֵירְחוֹ.
+*Translation:* The Gemara objects: **But there is** the case of **produce in the corner of the field, which is given to the poor [*pe’a*],** with regard to **which the Merciful One stated:** And when you reap the harvest of your land, **you shall not wholly reap the corner of your field”** (Leviticus 23:22), but one must leave a corner of the field for the poor. **And we learned** in a *baraita* (*Tosefta*, *Pe’a* 1:5): The optimal way to fulfill **the mitzva of *pe’a*** is for the owner **to separate** it **from the standing** grain, i.e., grain that has not been harvested. If **he did not separate** it **from the standing** grain, **he separates** it **from the sheaves** of grain that have already been harvested. If **he did not separate** it **from the sheaves, he separates** it **from the pile** of grain, **as long as he has not** yet **smoothed** the pile.
+
+**10.**
+*Hebrew/Aramaic:* מֵירְחוֹ — מְעַשְּׂרוֹ וְנוֹתֵן לוֹ; מִשּׁוּם רַבִּי יִשְׁמָעֵאל אָמְרוּ: אַף מַפְרִישׁ מִן הָעִיסָּה, תְּיוּבְתָּא דְאַבָּיֵי!
+*Translation:* The *baraita* continues: Once **he smooths** the pile of grain, it becomes obligated in tithes. Therefore, **he** must first **tithe** the grain **and** then **give** a portion of the produce **to** the poor as *pe’a*, so that the poor need not tithe what they receive. Additionally, the Sages **said in the name of Rabbi Yishmael:** If he did not separate *pe’a* during any of these stages, and he milled the grain and kneaded it into dough, **he separates** *pe’a* **even from the dough** and gives it to the poor. Even if the owner harvested the grain, the *pe’a* is still not considered his, which is apparently **a conclusive refutation** of the opinion **of Abaye.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר לָךְ אַבַּיֵּי: שָׁאנֵי הָתָם, דְּאָמַר קְרָא ״תַּעֲזוֹב״, ״תַּעֲזוֹב״ יַתִּירָא.
+*Translation:* The Gemara explains that **Abaye** could **say to you: It is different there, as the verse states: “You shall leave** them for the poor and for the stranger” (Leviticus 19:10), and subsequently, it again states: **“You shall leave** them for the poor and for the stranger” (Leviticus 23:22). The **superfluous** phrase teaches that the owner must give *pe’a* in any event, even if he harvests the grain and kneads it into dough. But in general, transgressions are effective.
+
+**12.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר לָךְ: יֵשׁ לְךָ עֲזִיבָה אַחֶרֶת שֶׁכָּזוֹ, וְאֵיזוֹ? זֶה הַמַּפְקִיר כַּרְמוֹ.
+*Translation:* **And Rava,** who maintains that in general transgressions are not effective, could **say to you** that the extra verse teaches that **there is another** type of **leaving** over one’s grain **that is like this. And what is that? It is** the case of **one who renounces ownership of his vineyard.**
+
+**13.**
+*Hebrew/Aramaic:* דְּתַנְיָא: הַמַּפְקִיר כַּרְמוֹ, וְהִשְׁכִּים לַשַּׁחַר וּבְצָרוֹ — חַיָּיב בְּפֶרֶט וְעוֹלֵלוֹת, בְּשִׁכְחָה וּבְפֵאָה, וּפָטוּר מִן הַמַּעֲשֵׂר.
+*Translation:* **As it is taught** in a *baraita*: If **one renounced ownership of his vineyard,** thereby exempting it from tithes and gifts to the poor, **and he rose early in the morning,** retook possession of it, **and harvested it, he is** still **obligated in** the mitzva of **individual fallen** grapes left for the poor **[*peret*], and** in the mitzva of **incompletely formed clusters** of grapes left for the poor **[*olelot*],** and **in** the mitzva of **forgotten** clusters of grapes left for the poor, **and in** the mitzva of ***pe’a*, but he** remains **exempt from the** mitzva to **tithe** his produce. His obligation to give the gifts to the poor even though the vineyard was at some point ownerless is derived from the repeated phrase: “You shall leave them for the poor.”
+
+**14.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: וְהַשְׁתָּא דְּשַׁנִּינַן כֹּל הָנֵי שִׁינּוּיֵי, דְּאַבָּיֵי וְרָבָא בְּמַאי פְּלִיגִי?
+*Translation:* § **Rav Aḥa, son of Rava, said to Rav Ashi: And now that we have given all of these answers,** explaining that Abaye and Rava concede to one another in all the above cases, **with regard to what** cases do **Abaye and Rava disagree?**
+
+**15.**
+*Hebrew/Aramaic:* בְּרִבִּית קְצוּצָה קָמִיפַּלְגִי, וְכִדְרַבִּי אֶלְעָזָר, דְּאָמַר רַבִּי אֶלְעָזָר: רִבִּית קְצוּצָה יוֹצְאָה בְּדַיָּינִין,
+*Translation:* Rav Ashi answered: **They disagree with regard to fixed [*ketzutza*] interest, and** their dispute is **like** that **of Rabbi Elazar** and Rabbi Yoḥanan. **As Rabbi Elazar said:** If a debtor paid **fixed interest** and petitions the court to have it returned to him, since the Torah prohibits the charging of interest, it **is repossessed** from the creditor **by** the **judges** of the court.
+
+
+---
+
+### Temurah 6b
+
+**1.**
+*Hebrew/Aramaic:* אֲבַק רִבִּית אֵינָהּ יוֹצְאָה בְּדַיָּינִין, וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ רִבִּית קְצוּצָה אֵינָהּ יוֹצְאָה בְּדַיָּינִין.
+*Translation:* If a debtor paid **a hint of interest** and petitions the court to have it returned to him, it **is not repossessed** from the creditor **by** the **judges** of the court. **And Rabbi Yoḥanan says: Even fixed interest is not repossessed by** the **judges.** Abaye holds that transgressions are effective, and the interest now belongs to the creditor and cannot be repossessed, in accordance with the opinion of Rabbi Yoḥanan. Therefore, the judges do not appropriate it. Rava holds that transgressions are not effective, and the creditor is in unlawful possession of the interest. Therefore, the judges repossess it, in accordance with the opinion of Rabbi Elazar.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָתָם בִּסְבָרָא פְּלִיגִי? הָתָם בִּקְרָאֵי פְּלִיגִי! דְּאָמַר רַבִּי יִצְחָק: מַאי טַעְמָא דְּרַבִּי יוֹחָנָן? אָמַר קְרָא: ״בַּנֶּשֶׁךְ נָתַן וְתַרְבִּית לָקַח וָחָי לֹא יִחְיֶה״, לְחַיִּים נִיתַּן וְלֹא לְהִישָּׁבוֹן.
+*Translation:* Rav Aḥa **said to** Rav Ashi: **There,** in the dispute concerning fixed interest, do Rabbi Elazar and Rabbi Yoḥanan **disagree with regard to logical reasoning,** i.e., the principle of whether transgressions are effective? Not so; rather, **they disagree there with regard to** the interpretation of the **verses, as Rabbi Yitzḥak said: What is the reasoning of Rabbi Yoḥanan? The verse states: “[He] has given forth upon interest, and has taken increase; shall he then live? He shall not live;** he has done all these abominations; he shall be put to death; his blood shall be upon him” (Ezekiel 18:13). Apparently, a usurer **is subject** to divine punishment **for** his **life, but** the interest is **not** subject **to returning.** This is the source for the opinion of Rabbi Yoḥanan.
+
+**3.**
+*Hebrew/Aramaic:* רַב אַחָא בַּר אַדָּא אָמַר מֵהָכָא: ״וְיָרֵאתָ מֵּאֱלֹהֶיךָ... אֲנִי ה׳״ — לְמוֹרָא נְתַתִּיו, וְלֹא לְהִישָּׁבוֹן.
+*Translation:* **Rav Aḥa bar Adda said** that the source for the opinion of Rabbi Yoḥanan is **from here:** “Take no interest of him or increase, **but fear your God,** that your brother may live with you. You shall not give him your money upon interest, nor give him your provisions for increase; **I am the Lord”** (Leviticus 25:36–38). In effect, God is saying: **I have made** a usurer **subject to** punishment for insufficient **fear** of Me, **but** the interest is **not** subject **to returning.**
+
+**4.**
+*Hebrew/Aramaic:* רָבָא אָמַר מֵהָכָא: ״הַתּוֹעֵבוֹת הָאֵל עָשָׂה מוֹת יוּמָת דָּמָיו בּוֹ יִהְיֶה״, ״וְהוֹלִיד בֵּן פָּרִיץ שׁוֹפֵךְ דָּם״ — הוּקְּשׁוּ מַלְוֵי רִבִּית לְשׁוֹפְכֵי דָמִים: מָה שׁוֹפְכֵי דָּמִים לֹא נִיתְּנוּ לְהִישָּׁבוֹן, אַף מַלְוֵי רִבִּית לֹא נִיתְּנוּ לְהִישָּׁבוֹן.
+*Translation:* **Rava said** that the source for the opinion of Rabbi Yoḥanan is **from here:** “Has lent at advance interest, or exacted accrued interest; shall he live? He shall not live! **He has done all these abominations; he shall be put to death; his blood shall be upon him”** (Ezekiel 18:13). And an earlier verse states: **“If he fathers a son that is a robber, a shedder of blood”** (Ezekiel 18:10). **Usurers are** thereby **juxtaposed to shedders of blood,** i.e., murderers: **Just as** the sins of **shedders of blood cannot be undone, so too,** the sins of **usurers cannot be undone.**
+
+**5.**
+*Hebrew/Aramaic:* וְאָמַר רַב נַחְמָן בַּר יִצְחָק: מַאי טַעְמָא דְּרַבִּי אֶלְעָזָר? דְּאָמַר קְרָא: ״וְחֵי אָחִיךָ עִמָּךְ״ — אַהְדַּר לֵיהּ, כִּי הֵיכִי דְּנֵיחֵי עִמָּךְ.
+*Translation:* **And Rav Naḥman bar Yitzḥak said: What is the reasoning of Rabbi Elazar? As the verse states:** “Take no interest of him or increase; but fear your God, **that your brother may live with you”** (Leviticus 25:36). The verse teaches that one must **return** the interest **to** the debtor **so that he will** be able to **live** together **with you.**
+
+**6.**
+*Hebrew/Aramaic:* וְאֶלָּא בְּמַאי קָמִיפַּלְגִי אַבָּיֵי וְרָבָא? בְּשִׁינּוּי קוֹנֶה.
+*Translation:* The Gemara asks: **But** if this matter is not a consequence of the dispute of Abaye and Rava, **with regard to what** case **do Abaye and Rava disagree?** The Gemara answers: There is perhaps no practical dispute between them, and they disagree only **with regard to** the theoretical question of whether **deviation** from what is stated in the Torah is **effective.** According to the opinion of Abaye, if there is no verse teaching otherwise, a transgression is presumed to be effective. According to the opinion of Rava, it is presumed to be not effective. They, therefore, disagree as to which *halakhot* reflect the rule and which are exceptions.
+
+**7.**
+*Hebrew/Aramaic:* לִישָּׁנָא אַחֲרִינָא, בְּהָנֵי שִׁינּוּיֵי דְּשַׁנִּינַן, בְּרִבִּית קְצוּצָה — לְאַבָּיֵי לָא מַהְדַּר רִבִּית, לְרָבָא מַהְדַּר רִבִּית.
+*Translation:* § The Gemara presents **an alternative version** of the answer to this question: In accordance **with the answers we answered** above, Abaye and Rava disagree **with regard to fixed interest. According to** the opinion of **Abaye** that transgressions are effective, the creditor **does not** need to **return** the **interest,** as he has acquired it. But **according to** the opinion of **Rava** that transgressions are not effective, the creditor must **return** the **interest,** as it still belongs to the debtor.
+
+**8.**
+*Hebrew/Aramaic:* וְהָא אַבָּיֵי נָמֵי סָבַר מַפְּקִינַן רִיבִּית קְצוּצָה בְּדַיָּינִין! דְּאָמַר אַבָּיֵי: הָדֵין דְּמַסֵּיק בְּחַבְרֵיהּ אַרְבַּע זוּזֵי בְּרִיבִּיתָא, וִיהַביה לֵיהּ לְמַלְוֶה (בְּחָנוּתֵיהּ) [בְּגַוַּיְיהוּ] גְּלִימָא דְּשָׁוֵי חַמְשָׁא בְּאַרְבְּעָה — כִּי מַפְּקִינַן מִינֵּיהּ, אַרְבְּעָה מַפְּקִינַן מִינֵּיהּ, וְהַאי זוּזָא בְּמַתָּנָה הוּא דִּיהַב לֵיהּ. וְרָבָא אָמַר: חַמְשָׁא מַפְּקִינַן מִינֵּיהּ. מַאי טַעְמָא? כּוּלַּהּ בְּתוֹרַת רִיבִּיתָא קָאָתֵי לִידֵיהּ!
+*Translation:* The Gemara objects: **But Abaye also holds** that **we repossess fixed interest by** the authority of the **judges, as Abaye said:** In the event that **this** one, **who was collecting** a debt **from another,** demanded that he pay **four dinars as interest, and** the debtor **gave to the creditor, in his store, a cloak that was worth five** dinars **in** place of the **four** dinars of interest, the *halakha* is that **when we repossess** the interest **from** the creditor, **we repossess** only **four** dinars **from him. And** as for **that** additional one **dinar,** one presumes the debtor **gave** it **to him as a gift. And Rava said: We repossess** all **five** dinars **from him. What is the reason? All of it came into his possession by virtue of** a payment of **interest.** In any event, it is clear that Abaye holds that fixed interest is repossessed by the court.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא, כִּי קָא מִיפַּלְגִי אַבָּיֵי וְרָבָא בְּשִׁינּוּי קוֹנֶה.
+*Translation:* The Gemara concludes as earlier: **Rather,** there may be no practical dispute between them, as **when Abaye and Rava disagree,** it is only **with regard to** the theoretical question of whether **deviation** from what is stated in the Torah is **effective.**
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״כׇּל אֲשֶׁר בּוֹ מוּם לֹא תַקְרִיבוּ״, מָה תַּלְמוּד לוֹמַר? אִם בְּ״לֹא תִשְׁחֲטוּ״ — הֲרֵי כְּבָר אָמוּר לְמַטָּה! אֶלָּא מָה תַּלְמוּד לוֹמַר ״בַּל תַּקְרִיבוּ״? — ״בַּל תַּקְדִּישׁוּ״. מִכָּאן אָמְרוּ: הַמַּקְדִּישׁ בַּעֲלֵי מוּמִין לְגַבֵּי מִזְבֵּחַ עוֹבֵר מִשּׁוּם חֲמִשָּׁה שֵׁמוֹת.
+*Translation:* § The Gemara returns to the topic of blemished animals. **The Sages taught** in a *baraita*: **Why** must **the verse state: “But whatever has a blemish, you shall not offer;** for it shall not be acceptable for you” (Leviticus 22:20)? **If** it serves to teach that **you may not slaughter** a blemished animal as a sacrifice even if it has been consecrated, **that is** already **stated below,** later on in the passage, as the Gemara will soon explain. **Rather, why** must **the verse state** that **you may not offer** a blemished animal? This serves to teach that **you may not consecrate** it. **From here,** the Sages **stated** (*Tosefta* 1:10): **One who consecrates blemished** animals **for** sacrifice **on the altar violates five** separate **categories** of prohibition.
+
+**11.**
+*Hebrew/Aramaic:* מִשּׁוּם ״בַּל תַּקְרִיבוּ״, ״בַּל תַּקְדִּישׁוּ״, ״בַּל תִּשְׁחֲטוּ״, וּמִשּׁוּם ״בַּל תִּזְרְקוּ״, וּמִשּׁוּם ״בַּל תַּקְטִירוּ כּוּלּוֹ״, וּמִשּׁוּם ״בַּל תַּקְטִירוּ מִקְצָתוֹ״. מִשּׁוּם רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אָמְרוּ: אַף קַבָּלַת הַדָּם.
+*Translation:* He is liable **for** violating the prohibitions: **You may not offer** a blemished animal as an offering, i.e., **you may not consecrate** it; **you may not slaughter** it; **and for** the prohibition: **You may not sprinkle** its blood; **and for** the prohibition: **You may not burn all of it** on the altar; **and for** the prohibition: **You may not burn part of it.** The Sages **said in the name of Rabbi Yosei, son of Rabbi Yehuda:** One **also** violates a prohibition against **the collection of the blood.**
+
+**12.**
+*Hebrew/Aramaic:* אָמַר מָר: אִם ״בַּל תִּשְׁחֲטוּ״ — הֲרֵי אָמוּר לְמַטָּה. הֵיכָן אָמוּר? דְּתַנְיָא: ״עַוֶּרֶת אוֹ שָׁבוּר אוֹ חָרוּץ אוֹ יַבֶּלֶת לֹא תַקְרִיבוּ״ — מָה תַּלְמוּד לוֹמַר? אִם ״בַּל תַּקְדִּישׁוּ״ — הֲרֵי כְּבָר אָמוּר לְמַעְלָה, אֶלָּא מָה תַּלְמוּד לוֹמַר ״בַּל תַּקְרִיבוּ״? — ״בַּל תִּשְׁחֲטוּ״.
+*Translation:* The Gemara interjects: **The Master said** above: **If** one suggests that the prohibition in Leviticus 22:20 teaches that **you may not slaughter** a blemished animal as an offering, **that is** already **stated below,** later on in the passage. The Gemara asks: **Where is** it **stated?** The Gemara answers: **As it is taught** in a *baraita*: **Why** must **the verse state: “Blind, or broken, or maimed, or having a cyst,** or scabbed, or scurvy, **you shall not offer”** (Leviticus 22:22)? **If** this serves to teach that **you may not consecrate** them, **that is already stated above,** in verse 20. **Rather, why** must **the verse state** that **you may not offer** these animals? This serves to teach that **you may not slaughter** them if they have been consecrated.
+
+**13.**
+*Hebrew/Aramaic:* ״וְאִשֶּׁה לֹא תִתְּנוּ מֵהֶם״ — אֵלּוּ אִשִּׁים, אֵין לִי אֶלָּא כּוּלָּן, מִקְצָתָן מִנַּיִן? תַּלְמוּד לוֹמַר: ״מֵהֶם״.
+*Translation:* The *baraita* continues: The verse states: **“Nor make an offering by fire of them** upon the altar unto the Lord” (Leviticus 22:22). **These** words teach that one may not burn a blemished animal in the **fires** of the altar. **I have** derived **only** that it is prohibited to burn **all of** the animal. **From where** is it derived that it is prohibited to burn **some** portions **of** the animal? **The verse states: “Of them,”** which prohibits the burning of even part of them.
+
+**14.**
+*Hebrew/Aramaic:* זְרִיקַת דָּמִים מִנַּיִן? תַּלְמוּד לוֹמַר: ״עַל הַמִּזְבֵּחַ״, ״לַה׳״ — לְרַבּוֹת שָׂעִיר הַמִּשְׁתַּלֵּחַ.
+*Translation:* **From where** is it derived that **sprinkling the blood** of a blemished animal is prohibited? **The verse states: “Upon the altar,”** thereby indicating that one may not sacrifice any part of it, even its blood, on the altar. The verse continues: **“Unto the Lord,”** which serves **to include the scapegoat** of Yom Kippur in this prohibition, that it may not be blemished even though it is not sacrificed on the altar.
+
+**15.**
+*Hebrew/Aramaic:* וְ״לַה׳״ — לְרַבּוֹת הוּא? וְהָתַנְיָא: אִי ״קׇרְבָּן״ — שׁוֹמֵעַ אֲנִי אַף קׇדְשֵׁי בֶּדֶק הַבַּיִת, שֶׁנִּקְרְאוּ ״קׇרְבָּן״, כְּעִנְיָן שֶׁנֶּאֱמַר: ״וַנַּקְרֵב אֶת קׇרְבַּן ה׳״!
+*Translation:* The Gemara interjects: **And** does the term: **“Unto the Lord,”** serve **to include** the scapegoat? **But isn’t it taught** in a *baraita*: The Torah condemns one who slaughters an offering outside the Temple “and has not brought it unto the door of the Tent of Meeting, to present it as an offering unto the Lord” (Leviticus 17:4)? **If** the verse had stated only **“offering,” I** would **derive** that one is liable **even** for slaughtering animals **consecrated for Temple maintenance** outside the Temple, **for they are** also **called an offering, as it is stated: “And we have brought the Lord’s offering,** what every man has found: Articles of gold” (Numbers 31:50).
+
+**16.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר ״וְאֶל פֶּתַח אֹהֶל מוֹעֵד וְגוֹ׳״ — הָרָאוּי לְפֶתַח אֹהֶל מוֹעֵד חַיָּיבִין עָלָיו מִשּׁוּם שׁוֹחֲטֵי חוּץ, שֶׁאֵין רָאוּי לְפֶתַח אֹהֶל מוֹעֵד אֵין חַיָּיבִין עָלָיו מִשּׁוּם שׁוֹחֲטֵי חוּץ.
+*Translation:* Therefore, **the verse states: “And** has not brought it **to the entrance of the Tent of Meeting”** (Leviticus 17:4). This teaches that **one is liable** only **for** sacrificing an animal **fit to** be sacrificed within the **entrance of the Tent of Meeting** or the Temple **due to** the prohibition of **slaughtering** offerings **outside** the Temple. But **one is not liable for** sacrificing an animal **not fit to** be sacrificed within the **entrance of the Tent of Meeting due to** the prohibition of **slaughtering** offerings **outside** the Temple.
+
+**17.**
+*Hebrew/Aramaic:* אוֹצִיא אֲנִי אֶת אֵלּוּ, וְלֹא אוֹצִיא פָּרַת חַטָּאת וְשָׂעִיר הַמִּשְׁתַּלֵּחַ, שֶׁהֵן רְאוּיִין לְפֶתַח אֹהֶל מוֹעֵד — תַּלְמוּד לוֹמַר ״לַה׳״, מִי שֶׁמְּיוּחָדִין לַה׳, יָצְאוּ אֵלּוּ שֶׁאֵין מְיוּחָדִין לַה׳.
+*Translation:* **I** might **exclude these** animals consecrated for Temple maintenance, **but not exclude the** red **heifer of purification,** whose ashes are used to purge the impurity imparted by a corpse, **and** the **scapegoat,** despite the fact that neither are sacrificed on the altar, **as they are** unblemished and therefore **fit** to come **to the entrance of the Tent of Meeting.** Therefore, **the verse states: “Unto the Lord,”** to teach that one is liable only for **those** animals **that are exclusively the Lord’s** as offerings. **These,** the red heifer of purification and the scapegoat, **are excluded, as they are not exclusively the Lord’s** as offerings, but rather they serve unique ritual functions. In any event, the term “unto the Lord” is interpreted as excluding, rather than including, the scapegoat.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הָתָם, מֵעִנְיָינָא דִּקְרָא, ״וְאֶל פֶּתַח״ — לְרַבּוֹת, ״לַה׳״ — לְהוֹצִיא; הָכָא, דְּ״אִשֶּׁה״ — לְהוֹצִיא, ״לַה׳״ — לְרַבּוֹת.
+*Translation:* **Rava said: There,** in the *baraita* discussing offerings slaughtered outside the Temple, the *halakha* is derived **from the context of the verse.** The verse states: **“And** has not brought it **to the entrance** of the Tent of Meeting” (Leviticus 17:4), which serves **to include** any unblemished animal. Therefore, the following term: **“Unto the Lord,”** serves **to exclude** certain exceptions to the rule. **Here, where** the verse states **“fire”** (Leviticus 22:22), which serves **to exclude** animals not burned on the altar from the prohibition, the term: **“Unto the Lord,”** serves **to include** exceptions to that principle.
+
+**19.**
+*Hebrew/Aramaic:* טַעְמָא דִּכְתַב קְרָא ״לַה׳״ הוּא דְּלָא מַיְיתֵי שָׂעִיר הַמִּשְׁתַּלֵּחַ, הָא לָא רַבִּי קְרָא ״לַה׳״ הֲוָה אָמֵינָא שָׂעִיר הַמִּשְׁתַּלֵּחַ בַּעַל מוּם שַׁפִּיר דָּמֵי. מִכְּדִי, אֵין הַגּוֹרָל קוֹבֵעַ אֶלָּא בְּדָבָר הָרָאוּי!
+*Translation:* The Gemara objects: The *baraita* indicates that **the reason** why a blemished animal **may not be brought** as the **scapegoat** is **that the verse writes: “Unto the Lord.”** One may infer that **had the verse not included** the scapegoat by employing the term: **“Unto the Lord,” I would say** that it is **permitted** to sacrifice **a blemished scapegoat. Now,** of the two goats of the Yom Kippur service, one is selected as the scapegoat and one as an offering by lottery. As a rule, **the lottery can establish** the animals in their respective roles **only** if each **is fit** for either role. Given that a blemished animal cannot be sacrificed as an offering, it cannot be designated as the scapegoat either. The term “unto the Lord” therefore seems unnecessary.
+
+**20.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: הָא מַנִּי? חָנָן הַמִּצְרִי הִיא, דְּאָמַר: אֲפִילּוּ דָּם בְּכוֹס — מֵבִיא חֲבֵירוֹ וּמְזַוֵּוג לוֹ.
+*Translation:* **Rav Yosef said:** In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **Ḥanan the Egyptian, who said** that if the scapegoat dies before being sent to the wilderness, **even** if the other goat has already been slaughtered and its **blood** collected **in the cup,** the slaughtered goat is nevertheless a fit offering, and the priest **brings another** goat **and pairs it with** the slaughtered goat to serve as the scapegoat. This new scapegoat is thereby designated without a lottery, and one might therefore suppose it can be blemished. The term “unto the Lord” is therefore needed to teach that it must be unblemished.
+
+**21.**
+*Hebrew/Aramaic:* נְהִי דְּשָׁמְעַתְּ לֵיהּ לְחָנָן הַמִּצְרִי, דְּלָא הָוֵי דִּיחוּי, דְּלָא צְרִיךְ הַגְרָלָה — מִי שָׁמְעַתְּ לֵיהּ? דִּילְמָא מַיְיתֵי וּמַגְרִיל!
+*Translation:* The Gemara challenges: **Granted that you learn from** the statement of **Ḥanan the Egyptian** that he holds **that there is no deferral** of the second goat once it has already been slaughtered. But **do you learn from him** that the new scapegoat **need not be** designated by **a lottery? Perhaps** the priest **brings** two potential scapegoats **and performs a lottery** to decide between them. Therefore, the question again arises: What need is there for the term “unto the Lord”?
+
+**22.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב יוֹסֵף: הָא מַנִּי? רַבִּי שִׁמְעוֹן הִיא, דְּתַנְיָא: מֵת אֶחָד מֵהֶן — מֵבִיא חֲבֵירוֹ בְּלֹא הַגְרָלָה, דִּבְרֵי רַבִּי שִׁמְעוֹן.
+*Translation:* **Rather, Rav Yosef said:** In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **Rabbi Shimon, as it is taught** in a *baraita*: If **one of** the two goats **dies,** the priest **brings another** goat **without** another **lottery;** this is **the statement of Rabbi Shimon.** It is this scapegoat that, absent the term “unto the Lord,” could have been blemished.
+
+**23.**
+*Hebrew/Aramaic:* רָבָא אָמַר: לֹא נִצְרְכָא, כְּגוֹן שֶׁהוּמַם בּוֹ בַּיּוֹם וְחִילְּלוֹ עַל חֲבֵירוֹ.
+*Translation:* **Rava said: No,** the term in the verse **is necessary** for a case **where** the scapegoat **became blemished on that day** of Yom Kippur, after it had been designated, **and** then the priest **desacralized it** by transferring its sanctity **onto another** blemished goat.

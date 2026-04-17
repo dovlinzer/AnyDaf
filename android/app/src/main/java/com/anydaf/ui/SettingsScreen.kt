@@ -2,15 +2,20 @@ package com.anydaf.ui
 
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -44,6 +49,7 @@ import androidx.compose.ui.platform.LocalContext
 import com.anydaf.data.api.FeedManager
 import com.anydaf.model.QuizMode
 import com.anydaf.model.SourceDisplayMode
+import com.anydaf.model.StudyFontSize
 import com.anydaf.viewmodel.ContentViewModel
 import kotlinx.coroutines.launch
 
@@ -57,6 +63,7 @@ fun SettingsScreen(
     val quizMode by contentViewModel.quizMode.collectAsState()
     val sourceDisplayMode by contentViewModel.sourceDisplayMode.collectAsState()
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
+    val studyFontSize by contentViewModel.studyFontSize.collectAsState()
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
     var isReloading by remember { mutableStateOf(false) }
@@ -142,6 +149,35 @@ fun SettingsScreen(
 
             SectionDivider()
 
+            SectionHeader("Appearance")
+            Text(
+                "Study text size",
+                style = MaterialTheme.typography.bodyLarge,
+                modifier = Modifier.padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 2.dp)
+            )
+            FontSizeControl(
+                studyFontSize = studyFontSize,
+                onSizeChange = { contentViewModel.setStudyFontSize(it) },
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp)
+            )
+            Text(
+                studyFontSize.displayName,
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(bottom = 8.dp),
+                textAlign = androidx.compose.ui.text.style.TextAlign.Center
+            )
+            Text(
+                "Applies to translations, summaries, shiur, and quiz content.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(start = 16.dp, end = 16.dp, bottom = 8.dp)
+            )
+
+            SectionDivider()
+
             SectionHeader("About")
             Row(
                 modifier = Modifier
@@ -201,6 +237,71 @@ private fun SectionHeader(title: String) {
 @Composable
 private fun SectionDivider() {
     HorizontalDivider(modifier = Modifier.padding(top = 8.dp))
+}
+
+@Composable
+fun FontSizeControl(
+    studyFontSize: StudyFontSize,
+    onSizeChange: (StudyFontSize) -> Unit,
+    modifier: Modifier = Modifier
+) {
+    val cases = StudyFontSize.entries
+    val idx = cases.indexOf(studyFontSize)
+
+    Row(
+        modifier = modifier.height(44.dp),
+        verticalAlignment = Alignment.CenterVertically
+    ) {
+        // Small A — decrease
+        androidx.compose.material3.TextButton(
+            onClick = { if (idx > 0) onSizeChange(cases[idx - 1]) },
+            enabled = idx > 0,
+            modifier = Modifier.size(44.dp),
+            contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp)
+        ) {
+            Text(
+                "A",
+                style = MaterialTheme.typography.labelMedium,
+                color = if (idx > 0) MaterialTheme.colorScheme.primary
+                        else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+            )
+        }
+
+        // Step dots — growing sizes spanning the space between the two A buttons
+        Row(
+            modifier = Modifier.weight(1f),
+            horizontalArrangement = Arrangement.SpaceEvenly,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            cases.forEachIndexed { i, _ ->
+                val dotSize = (5 + i * 2).dp
+                Box(
+                    modifier = Modifier
+                        .size(dotSize)
+                        .background(
+                            color = if (i == idx) MaterialTheme.colorScheme.primary
+                                    else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f),
+                            shape = CircleShape
+                        )
+                )
+            }
+        }
+
+        // Large A — increase
+        androidx.compose.material3.TextButton(
+            onClick = { if (idx < cases.size - 1) onSizeChange(cases[idx + 1]) },
+            enabled = idx < cases.size - 1,
+            modifier = Modifier.size(44.dp),
+            contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp)
+        ) {
+            Text(
+                "A",
+                style = MaterialTheme.typography.titleMedium,
+                color = if (idx < cases.size - 1) MaterialTheme.colorScheme.primary
+                        else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+            )
+        }
+    }
 }
 
 @Composable

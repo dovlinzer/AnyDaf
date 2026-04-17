@@ -15,6 +15,7 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.itemsIndexed
@@ -69,6 +70,10 @@ import com.anydaf.data.api.ShiurClient
 import com.anydaf.model.Bookmark
 import androidx.compose.material3.Tab
 import androidx.compose.material3.TabRow
+import androidx.compose.material3.VerticalDivider
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.ui.platform.LocalConfiguration
+import androidx.compose.ui.unit.sp
 import com.anydaf.model.QuizMode
 import com.anydaf.model.StudyMode
 import com.anydaf.model.Tractate
@@ -77,6 +82,8 @@ import com.anydaf.viewmodel.AudioViewModel
 import com.anydaf.viewmodel.BookmarkViewModel
 import com.anydaf.viewmodel.ContentViewModel
 import com.anydaf.viewmodel.PdfViewModel
+import com.anydaf.viewmodel.ResourcesViewModel
+import com.anydaf.viewmodel.StudySessionViewModel
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -86,6 +93,8 @@ fun ContentScreen(
     audioViewModel: AudioViewModel,
     bookmarkViewModel: BookmarkViewModel,
     pdfViewModel: PdfViewModel,
+    studyViewModel: StudySessionViewModel,
+    resourcesViewModel: ResourcesViewModel,
     onStartStudy: (tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode) -> Unit,
     onOpenBookmarks: () -> Unit,
     onOpenSettings: () -> Unit,
@@ -98,6 +107,9 @@ fun ContentScreen(
     val isFetchingDafYomi by contentViewModel.isFetchingDafYomi.collectAsState()
     val isAudioStopped by audioViewModel.isStopped.collectAsState()
     val showDonationNudge by contentViewModel.showDonationNudge.collectAsState()
+
+    val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val isTablet = LocalConfiguration.current.screenWidthDp >= 600
 
     val context = LocalContext.current
     val lifecycleOwner = LocalLifecycleOwner.current
@@ -203,6 +215,173 @@ fun ContentScreen(
             )
         }
     ) { padding ->
+        if (isTablet) {
+            // ── Tablet: two-column layout ─────────────────────────────────────
+            Row(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(padding)
+            ) {
+                // Left panel — daf picker + image + audio (fixed ~400dp, scrolls if narrow)
+                Column(
+                    modifier = Modifier
+                        .widthIn(min = 320.dp, max = 440.dp)
+                        .fillMaxHeight()
+                        .padding(horizontal = 12.dp),
+                    verticalArrangement = Arrangement.spacedBy(10.dp)
+                ) {
+                    Spacer(Modifier.height(4.dp))
+                    TabletPickerRow(
+                        selectedTractateIndex = selectedTractateIndex,
+                        selectedDaf = selectedDaf,
+                        selectedAmud = selectedAmud,
+                        tractate = tractate,
+                        episodeIndex = episodeIndex,
+                        contentViewModel = contentViewModel
+                    )
+                    if (!isAudioStopped) AudioPlayerBar(audioViewModel = audioViewModel)
+                    if (shiurSegments.isNotEmpty() && duration > 0f) {
+                        val stripListState = androidx.compose.foundation.lazy.rememberLazyListState()
+                        LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
+                        androidx.compose.foundation.lazy.LazyRow(
+                            state = stripListState,
+                            horizontalArrangement = Arrangement.spacedBy(6.dp),
+                            contentPadding = PaddingValues(horizontal = 4.dp),
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            androidx.compose.foundation.lazy.itemsIndexed(shiurSegments) { index, seg ->
+                                val isActive = index == shiurSegmentIndex
+                                Box(
+                                    modifier = Modifier
+                                        .clip(androidx.compose.foundation.shape.RoundedCornerShape(50))
+                                        .background(
+                                            if (isActive) MaterialTheme.colorScheme.primary
+                                            else MaterialTheme.colorScheme.surfaceVariant
+                                        )
+                                        .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
+                                        .padding(horizontal = 10.dp, vertical = 4.dp)
+                                ) {
+                                    Text(
+                                        text = seg.displayTitle,
+                                        style = MaterialTheme.typography.labelSmall,
+                                        color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                                                else MaterialTheme.colorScheme.onSurfaceVariant,
+                                        maxLines = 1
+                                    )
+                                }
+                            }
+                        }
+                    }
+                    if (shiurRewrite != null) {
+                        TabRow(selectedTabIndex = if (showShiurText) 1 else 0) {
+                            Tab(selected = !showShiurText, onClick = { showShiurText = false }, text = { Text("Daf") })
+                            Tab(selected = showShiurText, onClick = { showShiurText = true }, text = { Text("Shiur") })
+                        }
+                    }
+                    Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
+                        val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
+                        if (showShiurText && shiurDisplayText != null) {
+                            CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+                                ShiurTextView(
+                                    rewriteText = shiurDisplayText,
+                                    currentSegmentIndex = shiurSegmentIndex,
+                                    modifier = Modifier.fillMaxSize()
+                                )
+                            }
+                        } else {
+                            if (pdfViewModel.hasPages(tractate.name)) {
+                                DafPageView(
+                                    tractate = tractate,
+                                    daf = selectedDaf,
+                                    amud = selectedAmud,
+                                    pdfViewModel = pdfViewModel,
+                                    onDafAmudChange = { newDaf, newAmud ->
+                                        contentViewModel.selectDaf(newDaf.toDouble())
+                                        contentViewModel.selectAmud(newAmud)
+                                    },
+                                    modifier = Modifier.fillMaxSize()
+                                )
+                            }
+                        }
+                        IconButton(
+                            onClick = {
+                                if (isBookmarked) {
+                                    bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
+                                        ?.let { bookmarkViewModel.delete(it) }
+                                } else {
+                                    pendingNewBookmark = Bookmark(
+                                        name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
+                                        tractateIndex = selectedTractateIndex,
+                                        daf = selectedDaf,
+                                        amud = selectedAmud
+                                    )
+                                }
+                            },
+                            modifier = Modifier.align(Alignment.TopEnd)
+                        ) {
+                            Icon(
+                                if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
+                                "Bookmark"
+                            )
+                        }
+                    }
+                    // Listen button only on left panel
+                    Row(
+                        modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+                        horizontalArrangement = Arrangement.spacedBy(8.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        FilledTonalButton(
+                            onClick = {
+                                if (!isAudioStopped) {
+                                    audioViewModel.stop()
+                                } else {
+                                    val url = audioUrl ?: return@FilledTonalButton
+                                    hasAutoRefreshedForAudio = false
+                                    audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                                }
+                            },
+                            enabled = hasAudio || !isAudioStopped,
+                            modifier = Modifier.weight(1f)
+                        ) {
+                            if (isLoadingFeed && isAudioStopped && !hasAudio) {
+                                CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
+                                Spacer(Modifier.width(6.dp))
+                                Text("Loading…")
+                            } else {
+                                Icon(if (isAudioStopped) Icons.Default.PlayArrow else Icons.Default.Stop, null, Modifier.size(18.dp))
+                                Spacer(Modifier.width(6.dp))
+                                Text(if (isAudioStopped) "Listen" else "Stop")
+                            }
+                        }
+                        FilledTonalButton(
+                            onClick = {
+                                resourcesViewModel.reset()
+                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+                            },
+                            modifier = Modifier.weight(1f)
+                        ) {
+                            Icon(Icons.Default.MenuBook, null, Modifier.size(18.dp))
+                            Spacer(Modifier.width(6.dp))
+                            Text("Study")
+                        }
+                    }
+                }
+
+                VerticalDivider()
+
+                // Right panel — study mode content
+                StudyModeContent(
+                    studyViewModel = studyViewModel,
+                    bookmarkViewModel = bookmarkViewModel,
+                    contentViewModel = contentViewModel,
+                    resourcesViewModel = resourcesViewModel,
+                    isInline = true,
+                    modifier = Modifier.weight(1f).fillMaxHeight()
+                )
+            }
+        } else {
+        // ── Phone: original single-column layout ─────────────────────────────
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -348,11 +527,13 @@ fun ContentScreen(
             Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
                 val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                 if (showShiurText && shiurDisplayText != null) {
-                    ShiurTextView(
-                        rewriteText = shiurDisplayText,
-                        currentSegmentIndex = shiurSegmentIndex,
-                        modifier = Modifier.fillMaxSize()
-                    )
+                    CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+                        ShiurTextView(
+                            rewriteText = shiurDisplayText,
+                            currentSegmentIndex = shiurSegmentIndex,
+                            modifier = Modifier.fillMaxSize()
+                        )
+                    }
                 } else {
                     if (pdfViewModel.hasPages(tractate.name)) {
                         DafPageView(
@@ -432,6 +613,7 @@ fun ContentScreen(
             }
             Spacer(Modifier.height(4.dp))
         }
+        } // end phone else-branch
     }
 
     // ── New-bookmark edit dialog (shown immediately after tapping the bookmark icon) ──
@@ -445,6 +627,82 @@ fun ContentScreen(
                 pendingNewBookmark = null
             }
         )
+    }
+}
+
+@Composable
+private fun TabletPickerRow(
+    selectedTractateIndex: Int,
+    selectedDaf: Double,
+    selectedAmud: Int,
+    tractate: com.anydaf.model.Tractate,
+    episodeIndex: Map<String, Map<Double, String>>,
+    contentViewModel: ContentViewModel
+) {
+    Row(
+        modifier = Modifier.fillMaxWidth().height(88.dp),
+        horizontalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+        Card(
+            modifier = Modifier.weight(1f).fillMaxHeight(),
+            elevation = CardDefaults.cardElevation(4.dp),
+            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+        ) {
+            Row(
+                modifier = Modifier.fillMaxWidth().padding(8.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Box(modifier = Modifier.weight(1f)) {
+                    TractateWheelPicker(
+                        tractates = allTractates,
+                        selectedIndex = selectedTractateIndex,
+                        onSelected = { contentViewModel.selectTractate(it) }
+                    )
+                }
+                Box(modifier = Modifier.width(56.dp)) {
+                    val dafPickerItems = remember(tractate.name, episodeIndex) {
+                        buildList {
+                            for (n in tractate.dafRange) {
+                                add(n.toDouble())
+                                val half = n.toDouble() + 0.5
+                                if (episodeIndex[tractate.name]?.containsKey(half) == true) add(half)
+                            }
+                        }
+                    }
+                    DafWheelPicker(
+                        dafRange = dafPickerItems,
+                        selectedDaf = selectedDaf,
+                        onSelected = { contentViewModel.selectDaf(it) }
+                    )
+                }
+            }
+        }
+        Card(
+            modifier = Modifier.fillMaxHeight(),
+            elevation = CardDefaults.cardElevation(4.dp),
+            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+        ) {
+            Column(
+                modifier = Modifier.fillMaxHeight().padding(horizontal = 4.dp, vertical = 6.dp),
+                verticalArrangement = Arrangement.spacedBy(6.dp),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                listOf(0 to "A", 1 to "B").forEach { (amud, label) ->
+                    FilledTonalButton(
+                        onClick = { contentViewModel.selectAmud(amud) },
+                        modifier = Modifier.weight(1f).width(44.dp),
+                        contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp),
+                        colors = if (selectedAmud == amud) {
+                            ButtonDefaults.filledTonalButtonColors(
+                                containerColor = MaterialTheme.colorScheme.primary,
+                                contentColor = MaterialTheme.colorScheme.onPrimary
+                            )
+                        } else ButtonDefaults.filledTonalButtonColors()
+                    ) { Text(label) }
+                }
+            }
+        }
     }
 }
 

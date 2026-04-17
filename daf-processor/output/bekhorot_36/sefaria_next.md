@@ -1,0 +1,81 @@
+### Bekhorot 37a
+
+**1.**
+*Hebrew/Aramaic:* לְאַפּוֹקֵי מִדְּרַבִּי יוֹסֵי, שְׁלֹשָׁה מְפִירִין אֶת הַנֶּדֶר בִּמְקוֹם שֶׁאֵין חָכָם לְאַפּוֹקֵי מִדְּרַבִּי יְהוּדָה, דְּתַנְיָא: הֲפָרַת נְדָרִים בִּשְׁלֹשָׁה, רַבִּי יְהוּדָה אוֹמֵר: אֶחָד מֵהֶם חָכָם.
+*Translation:* is **to the exclusion of** the opinion **of Rabbi Yosei** in the mishna, who prohibits any number of laymen to deem a firstborn animal permitted. The ruling that a group of **three** laymen may **dissolve a vow in a place where there is no Sage** is **to the exclusion of** the opinion **of Rabbi Yehuda, as it is taught** in a *baraita*: **Dissolution of vows** requires a court of **three. Rabbi Yehuda says:** This is the *halakha* only if at least **one of them** is **a Sage.** If no Sage is available, laymen may not dissolve a vow.
+
+**2.**
+*Hebrew/Aramaic:* בִּמְקוֹם שֶׁאֵין חָכָם. כְּגוֹן מַאן? אָמַר רַב נַחְמָן: כְּגוֹן אֲנָא. רַבִּי יְהוּדָה אוֹמֵר: אֶחָד מֵהֶן חָכָם, מִכְּלָל דְּהָנָךְ כֹּל דְּהוּ? אָמַר רָבִינָא: דְּמַסְבְּרִי לֵיהּ וְסָבַר.
+*Translation:* Rav Ḥiyya bar Amram stated above that a group of three may dissolve a vow **in a place where there is no Sage.** This indicates that if there is a Sage, he alone may dissolve a vow. The Gemara asks: **Who, for example,** is considered such a Sage? **Rav Naḥman said: For example,** one such as **me.** The *baraita* further stated that **Rabbi Yehuda says:** At least **one of** the three laymen must be **a Sage.** The Gemara asks: Should one conclude **by inference that those** other two members can be **anyone,** even complete ignoramuses? **Ravina said** in explanation: Each member of the group must be one **to whom** the *halakhot* of vows **is explained and he** is able to **comprehend** them.
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר: אֲפִילּוּ יֵשׁ שָׁם עֶשְׂרִים וּשְׁלֹשָׁה כּוּ׳. אָמַר רַב חֲנַנְאֵל אָמַר רַב: אֵין הֲלָכָה כְּרַבִּי יוֹסֵי. פְּשִׁיטָא, יָחִיד וְרַבִּים הֲלָכָה כְּרַבִּים! מַהוּ דְּתֵימָא נִמּוּקוֹ עִמּוֹ? קָא מַשְׁמַע לַן.
+*Translation:* § The mishna teaches that **Rabbi Yosei says: Even if there is** a court of **twenty-three** Sages **there,** it may be slaughtered only on the basis of the ruling of an expert. **Rav Ḥananel says** that **Rav says:** The ***halakha*** is **not in accordance with** the opinion of **Rabbi Yosei.** The Gemara challenges: This is **obvious,** as there is a principle that in a dispute between **an individual** Sage **and many** Sages, the ***halakha*** is **in accordance with** the opinion of the **many** Sages. The Gemara answers: Rav’s statement is necessary, **lest you say** that Rabbi Yosei is an exception to the principle, as **his reasoning [*nimmuko*] is with him,** i.e., his logic is sound. Rav Ḥananel therefore **teaches us** that this is not so, and the *halakha* does not follow his opinion.
+
+**4.**
+*Hebrew/Aramaic:* תִּפְשׁוֹט מֵהָא, דְּהָךְ קַמַּיְיתָא מִשְּׁמֵיהּ דִּשְׁמוּאֵל אִיתְּמַר, דְּאִי מִשְּׁמֵיהּ דְּרַב — תַּרְתֵּי לְמָה לִי?
+*Translation:* Earlier (36b), the Gemara cited a ruling, which was issued either by Rav or Shmuel, that three regular Jews may deem a firstborn animal permitted in a place where there is no expert, in contrast to the opinion of Rabbi Yosei. The Gemara suggests: **Resolve** that dilemma **from this** statement in the name of Rav, that the *halakha* is not in accordance with the opinion of Rabbi Yosei. It can be inferred from here **that that first,** uncertain ruling **was stated in the name of Shmuel. As, if** it was stated **in the name of Rav, why do I** need **two** identical rulings?
+
+**5.**
+*Hebrew/Aramaic:* חֲדָא (מכלל) [מִכְּלָלָא] דַּחֲבִירְתַּהּ אִיתְּמַר.
+*Translation:* The Gemara answers: This is insufficient proof, as it is possible that Rav did not issue two identical rulings. Rather, **one** ruling **was stated from the other, by inference.** Rav issued only one of these statements explicitly; the other was reported by his students in his name based on an inference from what he had said.
+
+**6.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹחֵט אֶת הַבְּכוֹר, וְנוֹדַע שֶׁלֹּא הֶרְאָהוּ — מַה שֶּׁאָכְלוּ אָכְלוּ, וְיַחְזִיר לָהֶם הַדָּמִים, וּמַה שֶּׁלֹּא אָכְלוּ — הַבָּשָׂר יִקָּבֵר, וְיַחְזִיר אֶת הַדָּמִים.
+*Translation:* MISHNA: In the case of **one who slaughters a firstborn** animal and sells its meat, **and it was discovered that he did not** initially **show it** to one of the Sages, the *halakha* is that it was actually prohibited to derive any benefit from the meat. In that case, **what** the buyers **ate, they ate, and** the Sages penalized the seller in that **he must return the money to them,** which they paid for the meat that they ate. **And** with regard to **that which they did not eat,** that **meat must be buried, and he must return the money** that they paid for the meat that they did not eat.
+
+**7.**
+*Hebrew/Aramaic:* וְכֵן הַשּׁוֹחֵט אֶת הַפָּרָה וּמְכָרָהּ, וְנוֹדַע שֶׁהִיא טְרֵפָה — מַה שֶּׁאָכְלוּ אָכְלוּ, וּמַה שֶּׁלֹּא אָכְלוּ — הֵם יַחֲזִירוּ לוֹ אֶת הַבָּשָׂר, וְהוּא יַחֲזִיר לָהֶם אֶת הַדָּמִים. מְכָרוּהוּ לְגוֹיִם, אוֹ הִטִּילוּהוּ לִכְלָבִים — יְשַׁלְּמוּ דְּמֵי טְרֵפָה.
+*Translation:* **And likewise,** in the case of **one who slaughters a cow and sells it, and it was discovered that it is a *tereifa*, what** the buyers **ate, they ate, and what they did not eat, they must return the meat to** the seller, who may sell it to a gentile or feed it to the dogs, **and he must return the money to** the buyers. If the buyers **sold it to gentiles or cast it to the dogs, they pay** the seller **the value of a *tereifa*,** which is less than the value of kosher meat, and the seller refunds the balance to the buyers.
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: הַמּוֹכֵר בָּשָׂר לַחֲבֵירוֹ וְנִמְצָא בְּשַׂר בְּכוֹר, פֵּירוֹת וְנִמְצָא טְבָלִים, יַיִן וְנִמְצָא יֵין נֶסֶךְ — מַה שֶּׁאָכְלוּ אָכְלוּ, וְיַחְזִיר לָהֶם אֶת הַדָּמִים.
+*Translation:* GEMARA: **The Sages taught** in a *baraita*: In a case where **one sells meat to another and it was discovered** that it is the **meat** of **a firstborn** animal, which was not deemed permitted for consumption by an expert, or if one sells **produce** to another **and it was discovered** that it is **untithed produce,** or if one sells **wine** to another **and it turns out** that it is **wine** that was used for **a libation** in idol worship, the *halakha* is that **what** the purchasers **ate, they ate, and** the seller **reimburses them** all their **money.**
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: דְּבָרִים שֶׁהַנֶּפֶשׁ קָצָה בָּהֶן — יַחֲזִיר לָהֶן אֶת הַדָּמִים, וְשֶׁאֵין הַנֶּפֶשׁ קָצָה בָּהֶם — יְנַכֶּה לָהֶם אֶת הַדָּמִים. וְאֵלּוּ הֵן דְּבָרִים שֶׁהַנֶּפֶשׁ קָצָה בָּהֶן: נְבֵילוֹת וּטְרֵיפוֹת, שְׁקָצִים וּרְמָשִׂים. וְאֵלּוּ הֵן דְּבָרִים שֶׁאֵין הַנֶּפֶשׁ קָצָה בָּהֶן: בְּכוֹרוֹת, טְבָלִים וְיֵין נֶסֶךְ.
+*Translation:* **Rabbi Shimon ben Elazar says,** qualifying this ruling: If he sold them **items from which one is** generally **repulsed, he must reimburse them** all their **money,** as they are presumed to not have derived benefit from the consumption of such items. **But** if he sold them **items from which one is not** generally **repulsed, he deducts for them the value** of the benefit from those items and reimburses them the balance. **And the following are items from which one is** generally **repulsed: Carcasses and *tereifot*, repugnant creatures, and creeping animals. And the following are items from which one is** generally **not repulsed: Firstborn** animals, **untithed produce, and wine** used for **a libation** in idol worship.
+
+**10.**
+*Hebrew/Aramaic:* בְּכוֹר — וְלֵימָא לֵיהּ: מַאי אַפְסֵדְתָּךְ?
+*Translation:* The Gemara asks: Why does the seller deduct the value of the meat of **a firstborn** animal eaten by the purchaser and reimburse him the difference? **Let** the purchaser **say to** the seller: **What loss have I caused you** by eating the meat? Had you not sold it to me, you would have had no rights to partake of it, as this is an unblemished firstborn animal from which deriving benefit is prohibited.
+
+**11.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, כְּגוֹן דְּזַבֵּין לֵיהּ מִמְּקוֹם מוּמָא, דַּאֲמַר לֵיהּ: אִי לָאו דְּאָכְלַתְּ הֲוָה מַחְזֵינָא לֵיהּ וְשָׁרֵי נִיהֲלֵיהּ, כְּרַבִּי יְהוּדָה.
+*Translation:* The Gemara answers: **No,** this ruling is **necessary** in a case **where he sold him** a cut of meat **from an area** on the animal that contained **a blemish,** but the seller had not yet brought the animal to be examined and deemed permitted by a Sage. In **that** instance, the seller can **say to** the purchaser: **Had you not eaten** the meat, **I would have shown** the animal to a Sage **and he** would have **deemed it permitted** to me. The Gemara notes that this is **in accordance with** the opinion of **Rabbi Yehuda** (28a), who permits a firstborn animal to be examined and deemed permitted even after it has been slaughtered.
+
+**12.**
+*Hebrew/Aramaic:* טְבָלִים — הֲוָה מַתְקֵינְנָא לְהוּ וְאָכֵלְנָא לְהוּ, יֵין נֶסֶךְ — עַל יְדֵי תַּעֲרוֹבֶת, וּכְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.
+*Translation:* The Gemara adds that with regard to **untithed produce,** although one could claim that the purchaser did not cause a loss to the seller, as untithed produce is prohibited for consumption, the seller can say to the purchaser: Had you not eaten my produce, **I would have remedied it,** i.e., separated its tithes, **and eaten it.** Similarly, with regard to **wine** used for **a libation** in idol worship, which is also prohibited to be consumed, this is referring to a seller who sold it **in a mixture** of permitted wine. In this case, had the purchaser not consumed the wine mixture, the seller could have derived benefit from it, **in accordance with** the opinion of **Rabban Shimon ben Gamliel.**
+
+**13.**
+*Hebrew/Aramaic:* דִּתְנַן: יֵין נֶסֶךְ שֶׁנָּפַל לַבּוֹר — כּוּלּוֹ אָסוּר בַּהֲנָאָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: יִמָּכֵר כּוּלּוֹ לְגוֹיִם, חוּץ מִדְּמֵי יֵין נֶסֶךְ שֶׁבּוֹ.
+*Translation:* **As we learned** in a mishna (*Avoda Zara* 74a): In the case of **wine** used for **a libation** in idol worship **that fell into** a wine **cistern,** it is **prohibited** to **derive benefit** from **all** the wine in the cistern, even if the volume of the wine used for a libation was small in comparison to the volume of the rest of the wine in the cistern. **Rabban Shimon ben Gamliel says: All of the** wine in the cistern **may be sold to a gentile,** and the money paid for it is permitted, **except for the value of the wine** used for **a libation** that is **in it.**
+
+**14.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ כׇּל פְּסוּלֵי הַמּוּקְדָּשִׁין.
+*Translation:* 
+
+**15.**
+*Hebrew/Aramaic:* מַתְנִי׳ עַל אֵלּוּ מוּמִין שׁוֹחֲטִין אֶת הַבְּכוֹר: נִפְגְּמָה אׇזְנוֹ מִן הַחַסְחוּס, אֲבָל לֹא הָעוֹר, נִסְדְּקָה אַף עַל פִּי שֶׁלֹּא חָסְרָה, נִיקְּבָה מְלֹא כַרְשִׁינָה, אוֹ שֶׁיָּבְשָׁה. אֵיזֶהוּ יְבֵשָׁה? כֹּל שֶׁתִּנָּקֵב וְאֵינָהּ מוֹצִיאָה טִיפַּת דָּם. רַבִּי יוֹסֵי בֶּן הַמְשׁוּלָּם אוֹמֵר: יְבֵשָׁה שֶׁתְּהֵא נִפְרֶכֶת.
+*Translation:* MISHNA: **For these blemishes, one may slaughter the firstborn** animal outside the Temple: If the firstborn’s **ear was damaged** and lacking **from the cartilage [*haḥasḥus*], but not** if **the skin** was damaged; and likewise, if the ear **was split, although it is not lacking;** or if the ear **was pierced** with a hole **the size of a bitter vetch,** which is a type of legume; **or** if it was an ear **that** is **desiccated. What is a desiccated** ear that is considered a blemish? It is **any** ear **that** if **it is pierced it does not discharge a drop of blood. Rabbi Yosei ben HaMeshullam says: Desiccated** means that the ear is so dry **that it will crumble** if one touches it.
+
+**16.**
+*Hebrew/Aramaic:* גְּמָ׳ אַמַּאי? פִּסֵּחַ וְעִוֵּר כְּתִיב!
+*Translation:* GEMARA: With regard to the blemishes mentioned in this mishna and in the subsequent *mishnayot*, the Gemara asks: **Why** is it permitted to slaughter and eat a firstborn that sustained these blemishes? Only **a lame** animal **and a blind** animal are **written** in the verse that discusses this *halakha*. That verse states: “And if there be any blemish therein, lameness, or blindness, any ill blemish whatsoever, you shall not sacrifice it to the Lord your God. You shall eat it within your gates” (Deuteronomy 15:21–22).
+
+**17.**
+*Hebrew/Aramaic:* כְּתִיב נָמֵי ״כִּי יִהְיֶה בוֹ מוּם״, וְאֵימָא: ״כִּי יִהְיֶה בּוֹ מוּם״ — כָּלַל, ״פִּסֵּחַ אוֹ עִוֵּר״ — פָּרַט, כְּלָל וּפְרָט אֵין בַּכְּלָל אֶלָּא מָה שֶׁבַּפְּרָט; פִּסֵּחַ וְעִוֵּר — אִין, מִידֵּי אַחֲרִינָא — לָא!
+*Translation:* The Gemara answers: **It is also written** in the beginning of the verse: **“If there be any blemish therein,”** which indicates that other blemishes are also included. The Gemara asks: **But** why not **say** that the phrase **“if there be any blemish therein”** is **a generalization,** while **“lameness, or blindness”** is **a detail.** According to the principles of midrashic exegesis, if **a generalization and a detail** are mentioned, **the generalization includes only that which is** specified **in the detail.** Therefore, it should be concluded that in the event of **lameness and blindness, yes,** one may slaughter the firstborn, but in the event of **another matter,** one may **not** slaughter it.
+
+**18.**
+*Hebrew/Aramaic:* ״כֹּל מוּם רָע״ — חָזַר וְכָלַל, כְּלָל וּפְרָט וּכְלָל — אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט; מָה הַפְּרָט מְפוֹרָשׁ — מוּמִין שֶׁבַּגָּלוּי וְאֵינָן חוֹזְרִין, אַף כֹּל מוּמִין שֶׁבַּגָּלוּי וְאֵינָן חוֹזְרִין.
+*Translation:* The Gemara answers: By subsequently stating: **“Any ill blemish,” it then generalized** again. Consequently, it is **a generalization and a detail and a generalization,** represented in the phrases “any blemish,” “lameness or blindness,” and “any ill blemish,” and according to the principles of midrashic exegesis, **you may deduce** that the verse is referring **only** to items **similar to the detail. Just as** the items mentioned in **the detail,** i.e., in the phrase “lameness or blindness,” are clearly **defined as blemishes that are exposed and do not regenerate, so too, all blemishes that are exposed and do not regenerate** are considered blemishes with regard to a firstborn.
+
+**19.**
+*Hebrew/Aramaic:* וְאֵימָא: מָה הַפְּרָט מְפוֹרָשׁ — מוּמִין שֶׁבַּגָּלוּי, וּבוֹטֵל מִמְּלַאכְתּוֹ, וְאֵינוֹ חוֹזֵר, אַף כֹּל — מוּמִין שֶׁבַּגָּלוּי, וּבוֹטֵל מִמְּלַאכְתּוֹ, וְאֵינוֹ חוֹזֵר. אַלְּמָה תְּנַן: נִפְגְּמָה אׇזְנוֹ מִן הַחַסְחוּס וְלֹא מִן הָעוֹר?
+*Translation:* The Gemara suggests: **But say** instead that **just as** the items mentioned in **the detail,** i.e., in the phrase “lameness or blindness,” are clearly **defined as blemishes that are exposed and** that cause an animal to **desist from its** normal **labor, and** they are blemishes that **do not regenerate, so too, all blemishes that are exposed and** that cause an animal to **desist from its labor and do not regenerate** are included in this *halakha*. If so, a blemish that does not fit these criteria would not render the firstborn permitted to be slaughtered. **Why** then **did we learn** in the mishna that if the firstborn’s **ear was damaged** and lacking **from the cartilage, but not** if it is lacking **from the skin,** it is considered a blemish, despite the fact that this does not cause the animal to desist from its labor?
+
+**20.**
+*Hebrew/Aramaic:* כֹּל מוּם רָע רִיבּוּיָא הוּא, אִי הָכִי, מוּמִין שֶׁבַּסֵּתֶר נָמֵי? אַלְּמָה תְּנַן: חוּטִין הַחִיצוֹנוֹת שֶׁנִּפְגְּמוּ וְשֶׁנִּגְמְמוּ, וְהַפְּנִימִיּוֹת שֶׁנֶּעֶקְרוּ —
+*Translation:* The Gemara answers: The word “any” in **“any ill blemish” is an amplification,** and it includes even blemishes that are different from those defined by the detail. The Gemara challenges: **If so, blemishes that are hidden** should **also** be included. **Why** then **did we learn** in the mishna (39a) that animals with **external gums that were damaged** and lacking **or that were scratched [*veshenigmemu*] and** likewise animals with **internal** gums **that were** entirely **extracted** are considered blemished?

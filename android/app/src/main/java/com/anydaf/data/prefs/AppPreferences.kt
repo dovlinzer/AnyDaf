@@ -14,6 +14,7 @@ import androidx.datastore.core.DataMigration
 import com.anydaf.AnyDafApp
 import com.anydaf.model.QuizMode
 import com.anydaf.model.SourceDisplayMode
+import com.anydaf.model.StudyFontSize
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
@@ -51,6 +52,7 @@ object AppPreferences {
     private val QUIZ_MODE = stringPreferencesKey("quizMode")
     private val SOURCE_DISPLAY_MODE = stringPreferencesKey("sourceDisplayMode")
     private val SHIUR_SHOW_SOURCES = booleanPreferencesKey("shiurShowSources")
+    private val STUDY_FONT_SIZE = stringPreferencesKey("studyFontSize")
     val totalEngagementSeconds: Flow<Long> = store.data.map { it[TOTAL_ENGAGEMENT_SECONDS] ?: 0L }
     val lastDonationNudgeTimestamp: Flow<Long> = store.data.map { it[LAST_DONATION_NUDGE_TIMESTAMP] ?: 0L }
     val lastTractateIndex: Flow<Int> = store.data.map { it[LAST_TRACTATE_INDEX] ?: 0 }
@@ -63,6 +65,9 @@ object AppPreferences {
         SourceDisplayMode.entries.firstOrNull { m -> m.name == it[SOURCE_DISPLAY_MODE] } ?: SourceDisplayMode.TOGGLE
     }
     val shiurShowSources: Flow<Boolean> = store.data.map { it[SHIUR_SHOW_SOURCES] ?: true }
+    val studyFontSize: Flow<StudyFontSize> = store.data.map {
+        StudyFontSize.entries.firstOrNull { f -> f.name == it[STUDY_FONT_SIZE] } ?: StudyFontSize.MEDIUM
+    }
     suspend fun saveEngagementSeconds(seconds: Long) {
         store.edit { it[TOTAL_ENGAGEMENT_SECONDS] = seconds }
     }
@@ -89,6 +94,10 @@ object AppPreferences {
 
     suspend fun saveShiurShowSources(enabled: Boolean) {
         store.edit { it[SHIUR_SHOW_SOURCES] = enabled }
+    }
+
+    suspend fun saveStudyFontSize(size: StudyFontSize) {
+        store.edit { it[STUDY_FONT_SIZE] = size.name }
     }
 
 }

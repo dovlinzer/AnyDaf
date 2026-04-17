@@ -63,7 +63,7 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 
 SOFER_API_KEY = os.environ.get("SOFER_API_KEY", "sek_pyp9MGWJUogOnSLbtVRCnh2gPYaW4lO4N5r")
-SOFER_BASE_URL = "https://api.sofer.ai"
+SOFER_BASE_URL = "https://api-bulk.sofer.ai"
 
 # Transcription settings applied to every file in the batch
 TRANSCRIPTION_INFO = {
@@ -588,18 +588,30 @@ def _daf_label(daf: float) -> str:
     return f"{int(daf)}b"
 
 
-def _parse_range_part(range_part: str) -> Tuple[float, float]:
-    """Parse 'N-M' or 'N' into (daf_start, daf_end)."""
-    m = re.match(r"^(\d+(?:\.\d+)?)-(\d+(?:\.\d+)?)$", range_part)
+def _parse_daf_token(token: str) -> float:
+    """Convert a daf token like '27', '27b', or '27.5' to a float (b → +0.5)."""
+    m = re.match(r"^(\d+)(b)?$", token, re.IGNORECASE)
     if m:
-        return float(m.group(1)), float(m.group(2))
+        return float(m.group(1)) + (0.5 if m.group(2) else 0.0)
+    return float(token)
+
+
+def _parse_range_part(range_part: str) -> Tuple[float, float]:
+    """Parse 'N-M', 'Nb-M', 'N-Mb', 'Nb', or 'N' into (daf_start, daf_end)."""
+    m = re.match(r"^(\d+b?)-(\d+b?)$", range_part, re.IGNORECASE)
+    if m:
+        return _parse_daf_token(m.group(1)), _parse_daf_token(m.group(2))
     m = re.match(r"^(\d+(?:\.\d+)?)$", range_part)
     if m:
         daf = float(m.group(1))
         return daf, daf
+    m = re.match(r"^(\d+b?)$", range_part, re.IGNORECASE)
+    if m:
+        daf = _parse_daf_token(m.group(1))
+        return daf, daf
     raise ValueError(
         f"Cannot parse daf range {range_part!r}. "
-        "Expected 'N-M' (e.g. '2-26') or a single daf number."
+        "Expected 'N-M' (e.g. '2-26') or a single daf number (e.g. '27' or '27b')."
     )
 
 
@@ -624,15 +636,15 @@ def _parse_supabase_ranges(range_str: str) -> List[Tuple[str, float, float]]:
             continue
 
         # Try "Tractate N-M" or "Tractate N" (tractate = one or more letter/space tokens)
-        m = re.match(r"^([A-Za-z][A-Za-z ]+?)\s+(\d[\d.\-]*)$", seg)
+        m = re.match(r"^([A-Za-z][A-Za-z ]+?)\s+(\d[\d.b\-]*)$", seg, re.IGNORECASE)
         if m:
             raw_tractate = m.group(1).strip()
             range_part   = m.group(2).strip()
             _key = re.sub(r"[^a-z]", "", raw_tractate.lower())
             current_tractate = MASECHTA_MAP.get(_key, raw_tractate)
         else:
-            # Bare number or range: "5", "5-10"
-            m2 = re.match(r"^(\d[\d.\-]*)$", seg)
+            # Bare number or range: "5", "5b", "5-10", "5b-10"
+            m2 = re.match(r"^(\d[\d.b\-]*)$", seg, re.IGNORECASE)
             if not m2:
                 raise ValueError(
                     f"Cannot parse segment {seg!r}. "
@@ -1078,8 +1090,8 @@ def main():
     batch_id = submit_batch(batch_file_id, batch_title)
 
     print(f"\n✓ Batch submitted. batch_id: {batch_id}")
-    print(f"  Check status:    python sofer_batch.py --status {batch_id}")
-    print(f"  Poll + download: python sofer_batch.py --status {batch_id} --poll --download-dir ./srt\n")
+    print(f"  Check status:    python3 sofer_batch.py --status {batch_id}")
+    print(f"  Poll + download: python3 sofer_batch.py --status {batch_id} --poll --download-dir ./srt\n")
 
     # Optionally poll
     if args.download_dir:

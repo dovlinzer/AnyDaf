@@ -1,0 +1,546 @@
+{
+  "masechta": "Meilah",
+  "daf": 21,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction and Review of Previous Principles Regarding Gizbar and Meila",
+      "display_title": "Gizbar & Meila Intro",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks and context for Daf 21",
+          "display_title": "Opening Context",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Ravad's expansion of the principle that moving an object is not stealing without giving it to another person—applies beyond gizbar to anyone with right to handle it",
+          "display_title": "Ravad on Taking",
+          "timestamp": "00:26"
+        },
+        {
+          "title": "Discussion of pikadon (item held for safekeeping) and shlichus yad—moving it with intent to steal requires giving it to someone else",
+          "display_title": "Pikadon & Shlichus Yad",
+          "timestamp": "01:17"
+        },
+        {
+          "title": "Rambam's ruling based on Tosefta: meila of stealing (taking and giving to another) removes kedusha, but meila of benefiting does not",
+          "display_title": "Rambam on Kedusha Loss",
+          "timestamp": "02:33"
+        },
+        {
+          "title": "Discussion of shinui (transformation) as possible act of stealing and Pagam requirements",
+          "display_title": "Shinui & Pagam",
+          "timestamp": "04:04"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah: Sending an Agent to Bring Hekdesh Money from One Location—Following Instructions vs. Deviating",
+      "display_title": "Agent & Instruction",
+      "timestamp": "04:49",
+      "micro_segments": [
+        {
+          "title": "Opening case: owner sends agent to bring money from window or box; agent brings from different location; devarim shebelev einam devarim principle applied",
+          "display_title": "Different Window Case",
+          "timestamp": "04:49"
+        },
+        {
+          "title": "Question of where meila occurs when agent brings money to owner but does not give it to a third party",
+          "display_title": "Where is Meila?",
+          "timestamp": "07:18"
+        },
+        {
+          "title": "Distinction between following instructions exactly vs. deviating: if agent brings from wrong location, agent (not owner) is moel",
+          "display_title": "Deviation = Agent Moel",
+          "timestamp": "08:53"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah: Sending Incompetent Agents (Deaf-Mute, Imbecile, Minor)—When Meila Attaches",
+      "display_title": "Incompetent Agents",
+      "timestamp": "09:38",
+      "micro_segments": [
+        {
+          "title": "Even deaf-mute, imbecile, and minor can serve as shaliach for meila purposes if they follow instructions—conceptual explanation",
+          "display_title": "Incompetent as Shaliach",
+          "timestamp": "09:38"
+        },
+        {
+          "title": "If incompetent agents do not follow instructions, responsibility falls to the storekeeper when money is spent",
+          "display_title": "Non-Compliance = Storeke…",
+          "timestamp": "10:50"
+        }
+      ]
+    },
+    {
+      "title": "Gemara: Case of Owner Remembering During Agent's Mission—Shifting Liability",
+      "display_title": "Owner Remembers Mid-Miss…",
+      "timestamp": "14:13",
+      "micro_segments": [
+        {
+          "title": "Storekeeper becomes moel when he actually spends the money, assuming both owner and agent have remembered",
+          "display_title": "Storekeeper's Spending",
+          "timestamp": "14:13"
+        }
+      ]
+    },
+    {
+      "title": "Gemara: Analogy of Olives in a Vat and Monkey/Elephant with Eruv—Extending Agency Without Technical Shlichus",
+      "display_title": "Olives & Monkey Analogy",
+      "timestamp": "18:48",
+      "micro_segments": [
+        {
+          "title": "Gemara's proof from olives in a vat: olives become susceptible to tumah based on owner's will, not direct action",
+          "display_title": "Olives Analogy",
+          "timestamp": "18:48"
+        },
+        {
+          "title": "Better proof from eruv: monkey or elephant carrying eruv item counts as valid eruv, showing intent and causal role suffice",
+          "display_title": "Eruv Proof",
+          "timestamp": "20:51"
+        },
+        {
+          "title": "Tosafos challenges eruv analogy; clarifies that third party's action is significant but still counts if tied to owner's initiative",
+          "display_title": "Tosafos Challenge",
+          "timestamp": "21:44"
+        },
+        {
+          "title": "Conclusion: meila focuses on removal from hekdesh through owner's initiative, even if executed through incompetent agents",
+          "display_title": "Meila as Removal",
+          "timestamp": "22:29"
+        }
+      ]
+    },
+    {
+      "title": "Gemara: Case of Owner Remembering During Agent's Mission—Shifting Liability (continued)",
+      "display_title": "Owner Remembers Mid-Mi…",
+      "timestamp": "24:29",
+      "micro_segments": [
+        {
+          "title": "If owner remembers hekdesh money is being misused before agent gives it to storekeeper, owner is no longer moel",
+          "display_title": "Owner's Remembrance",
+          "timestamp": "24:29"
+        },
+        {
+          "title": "Braita and debate: if only owner remembers but not agent, then agent becomes moel even though unaware",
+          "display_title": "Only Owner Remembers",
+          "timestamp": "24:43"
+        },
+        {
+          "title": "Gemara resolution: mishnah case assumes both owner and agent remembered; highlights problem of making unaware party liable",
+          "display_title": "Both Remembered",
+          "timestamp": "25:38"
+        },
+        {
+          "title": "Mefaresh notes this is a halacha 'suspended by a hair'—nobody is at fault yet someone is moel; possibility of ones not negating meila",
+          "display_title": "Hair-Suspended Halacha",
+          "timestamp": "26:37"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah: Fractional Amounts and Partial Compliance—Agent Buys Wrong Item or Wrong Quantity",
+      "display_title": "Fractional & Partial",
+      "timestamp": "28:39",
+      "micro_segments": [
+        {
+          "title": "Owner gives agent half a coin for lamps, half for wicks; agent spends all on one item or opposite—both half-amounts insufficient for meila",
+          "display_title": "Half-Coin Cases",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Owner specifies exact stores; agent switches sources—agent becomes moel for both halves since deviating from instructions",
+          "display_title": "Wrong Store = Deviation",
+          "timestamp": "30:06"
+        },
+        {
+          "title": "Owner gives two coins for esrog; agent buys esrog for one coin and pomegranate for other—both are moel in their respective actions",
+          "display_title": "Two Coins, Two Items",
+          "timestamp": "30:49"
+        },
+        {
+          "title": "Rabbi Yehuda disagrees: esrog for one coin is not what was requested (too small/bad quality); not partial compliance but complete non-compliance",
+          "display_title": "Rabbi Yehuda's Dissent",
+          "timestamp": "31:35"
+        },
+        {
+          "title": "Owner gives dinar for shirt; agent buys half-price shirt and coat—similar debate: is half-price shirt still compliance?",
+          "display_title": "Dinar & Shirt Case",
+          "timestamp": "32:05"
+        }
+      ]
+    },
+    {
+      "title": "Gemara: Parsing When Half-Compliance Counts as Agency—Bargain vs. Different Object",
+      "display_title": "Half-Compliance Analysis",
+      "timestamp": "33:16",
+      "micro_segments": [
+        {
+          "title": "Gemara infers from Tanna Kamma that if agent buys half an acre when told to buy full acre, agent remains shaliach for that portion",
+          "display_title": "Half-Acre Inference",
+          "timestamp": "33:16"
+        },
+        {
+          "title": "Gemara suggests case involves item on sale: bought for half price counts as full compliance because same quality obtained for less",
+          "display_title": "Sale Price Explanation",
+          "timestamp": "34:50"
+        },
+        {
+          "title": "Rabbi Yehuda's response: if full coin was given, agent should have obtained better item; partial spending negates agency",
+          "display_title": "Yehuda Counterargument",
+          "timestamp": "35:35"
+        },
+        {
+          "title": "Braita: Rabbi Yehuda agrees that with kitnis (legumes, divisible items), both are moel when agent buys only half amount",
+          "display_title": "Kitnis Exception",
+          "timestamp": "37:23"
+        },
+        {
+          "title": "Gemara explores why kitnis is different: divisible items allow partial compliance vs. indivisible items (shirt, esrog) which become different objects at different prices",
+          "display_title": "Divisible vs. Indivisible",
+          "timestamp": "37:38"
+        },
+        {
+          "title": "Rav Papa's resolution: kitnis sold by exact measure, no bargains possible, so Rabbi Yehuda's bargain argument never applies to kitnis",
+          "display_title": "Bargain Argument Limit",
+          "timestamp": "39:31"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah: Money Deposited with Moneychanger—Implicit Permission to Use",
+      "display_title": "Money Changer Case",
+      "timestamp": "42:08",
+      "micro_segments": [
+        {
+          "title": "If hekdesh money given to moneychanger unbound, moneychanger has implicit right to use it; becomes moel only when spending it, not taking it",
+          "display_title": "Unbound Permission",
+          "timestamp": "42:08"
+        },
+        {
+          "title": "If money is bound in a bundle, moneychanger has no right to use it; becomes moel immediately upon spending",
+          "display_title": "Bound Restriction",
+          "timestamp": "43:07"
+        },
+        {
+          "title": "Rambam's position: even unbound money to ordinary homeowner (not moneychanger) gives no implicit permission; homeowner becomes moel upon spending",
+          "display_title": "Homeowner No Permission",
+          "timestamp": "44:00"
+        },
+        {
+          "title": "Debate: is storekeeper like moneychanger (Rabbi Yehuda) with implicit permission, or like homeowner (Rabbi Meir) without it?",
+          "display_title": "Storekeeper Status",
+          "timestamp": "46:51"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah and Gemara: Mixed Coins—First vs. Last When Hekdesh Coin Drops into Purse",
+      "display_title": "Mixed Coins Debate",
+      "timestamp": "49:30",
+      "micro_segments": [
+        {
+          "title": "If you declare 'one coin in my purse is hekdesh' without specifying which: Rabbi Akiva says first coin withdrawn is moel; Chachamim say only after all spent",
+          "display_title": "First vs. Last Coin",
+          "timestamp": "49:30"
+        },
+        {
+          "title": "Tosefta explains Rabbi Akiva: not outright meila but safek meila requiring asham taluy (conditional guilt offering)",
+          "display_title": "Asham Taluy Explanation",
+          "timestamp": "50:33"
+        },
+        {
+          "title": "Tosafos questions why hekdesh coin is not batel berov (nullified in majority); answers: coin is davar chashuv or two-coin scenario only",
+          "display_title": "Bitel Berov Question",
+          "timestamp": "51:15"
+        },
+        {
+          "title": "Distinction: bitel applies to status/issur, not ownership; hekdesh retains ownership even if mixed and identity unknown",
+          "display_title": "Status vs. Ownership",
+          "timestamp": "52:58"
+        },
+        {
+          "title": "If you explicitly say 'a coin from this purse is hekdesh' (not 'in'), language means last coin; Rabbi Akiva agrees with Chachamim in this variant",
+          "display_title": "Explicit 'From' Language",
+          "timestamp": "53:38"
+        },
+        {
+          "title": "Gemara debates how to derive 'last coin' interpretation: Rav Pappa brings parallel from terumah/maaser case with breira principle",
+          "display_title": "Breira Parallel",
+          "timestamp": "56:34"
+        },
+        {
+          "title": "Gemara resolves: explicit language ('will not be free from hekdesh') indicates last coin; without such stipulation, meaning is unclear",
+          "display_title": "Explicit Stipulation",
+          "timestamp": "58:51"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Meila (misappropriation of hekdesh)",
+      "timestamps": [
+        "00:00",
+        "00:10",
+        "05:27",
+        "07:01",
+        "09:04",
+        "11:13",
+        "13:02",
+        "14:47",
+        "26:02",
+        "27:30",
+        "29:32",
+        "30:37",
+        "31:35",
+        "40:39",
+        "43:40",
+        "47:02",
+        "50:02"
+      ]
+    },
+    {
+      "term": "Gizbar (treasurer/one with right to handle hekdesh)",
+      "timestamps": [
+        "00:26",
+        "00:34",
+        "01:05",
+        "07:31",
+        "08:00",
+        "42:33"
+      ]
+    },
+    {
+      "term": "Shlichus/Shaliach (agency/agent)",
+      "timestamps": [
+        "04:49",
+        "05:08",
+        "09:38",
+        "10:42",
+        "13:59",
+        "14:06",
+        "18:13",
+        "19:01",
+        "22:41",
+        "23:04",
+        "24:02",
+        "29:55",
+        "32:29",
+        "33:16",
+        "34:37",
+        "36:42",
+        "37:06",
+        "39:14"
+      ]
+    },
+    {
+      "term": "Devarim shebelev einam devarim (mental intent is irrelevant)",
+      "timestamps": [
+        "07:05",
+        "18:53"
+      ]
+    },
+    {
+      "term": "Kedusha/Kodesh (sanctity of hekdesh)",
+      "timestamps": [
+        "02:36",
+        "02:46",
+        "02:57",
+        "03:09",
+        "03:16",
+        "15:45",
+        "16:20"
+      ]
+    },
+    {
+      "term": "Chanvani (storekeeper)",
+      "timestamps": [
+        "10:53",
+        "11:11",
+        "13:16",
+        "14:44",
+        "15:02",
+        "17:10",
+        "18:02",
+        "24:23",
+        "26:13",
+        "46:51"
+      ]
+    },
+    {
+      "term": "Cheresh, shoteh, vekatan (deaf-mute, imbecile, minor—incompetent parties)",
+      "timestamps": [
+        "09:46",
+        "10:08",
+        "10:13",
+        "10:37",
+        "18:07",
+        "18:11",
+        "18:23",
+        "18:34"
+      ]
+    },
+    {
+      "term": "Hanaah (benefit/enjoyment)",
+      "timestamps": [
+        "03:02",
+        "03:13",
+        "05:27",
+        "23:14"
+      ]
+    },
+    {
+      "term": "Bedek habayis (maintenance fund of hekdesh)",
+      "timestamps": [
+        "02:49",
+        "13:18",
+        "13:22"
+      ]
+    },
+    {
+      "term": "Shinui (transformation/change making item ownerless)",
+      "timestamps": [
+        "04:04",
+        "04:06",
+        "04:09"
+      ]
+    },
+    {
+      "term": "Pikadon (object held in safekeeping)",
+      "timestamps": [
+        "01:25",
+        "01:28",
+        "01:36"
+      ]
+    },
+    {
+      "term": "Ravad (Rabbi Abraham ben David—commentator disagreeing with Rambam)",
+      "timestamps": [
+        "00:26",
+        "01:02",
+        "03:26",
+        "03:42"
+      ]
+    },
+    {
+      "term": "Rambam (Maimonides—codifier)",
+      "timestamps": [
+        "02:33",
+        "02:51",
+        "03:40",
+        "04:19",
+        "44:43"
+      ]
+    },
+    {
+      "term": "Tosefta (early rabbinic source)",
+      "timestamps": [
+        "02:24",
+        "02:33",
+        "02:51",
+        "50:33"
+      ]
+    },
+    {
+      "term": "Aones (duress/force beyond one's control)",
+      "timestamps": [
+        "11:59",
+        "12:02",
+        "12:23",
+        "13:39",
+        "26:13",
+        "27:17",
+        "27:20"
+      ]
+    },
+    {
+      "term": "Mechutzatz (redeeming hekdesh by transferring kedusha)",
+      "timestamps": [
+        "15:40",
+        "15:45"
+      ]
+    },
+    {
+      "term": "Shulchani (money changer)",
+      "timestamps": [
+        "42:12",
+        "42:48",
+        "43:07",
+        "46:51"
+      ]
+    },
+    {
+      "term": "Bitel berov (nullification in majority)",
+      "timestamps": [
+        "51:22",
+        "51:25",
+        "52:49",
+        "52:58",
+        "53:02"
+      ]
+    },
+    {
+      "term": "Breira (retroactive designation)",
+      "timestamps": [
+        "57:41",
+        "57:49"
+      ]
+    },
+    {
+      "term": "Rabbi Yehuda (Sage disagreeing with Tanna Kamma on compliance)",
+      "timestamps": [
+        "31:35",
+        "32:51",
+        "35:35",
+        "37:25",
+        "46:51"
+      ]
+    },
+    {
+      "term": "Tanna Kamma (majority of sages/first opinion)",
+      "timestamps": [
+        "33:20",
+        "37:25",
+        "40:49"
+      ]
+    },
+    {
+      "term": "Kitnis (legumes/divisible items)",
+      "timestamps": [
+        "37:27",
+        "37:36",
+        "37:38",
+        "39:31",
+        "39:43"
+      ]
+    },
+    {
+      "term": "Esrog (citron for Sukkot)",
+      "timestamps": [
+        "30:51",
+        "31:02",
+        "31:15",
+        "31:44",
+        "31:53"
+      ]
+    },
+    {
+      "term": "Asham taluy (conditional guilt offering)",
+      "timestamps": [
+        "50:44",
+        "51:01",
+        "51:07"
+      ]
+    },
+    {
+      "term": "Davar chashuv (significant/valuable item not subject to bitel)",
+      "timestamps": [
+        "51:49",
+        "51:54"
+      ]
+    }
+  ]
+}

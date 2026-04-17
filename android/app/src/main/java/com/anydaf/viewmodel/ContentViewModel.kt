@@ -8,6 +8,7 @@ import com.anydaf.data.api.FeedManager
 import com.anydaf.data.prefs.AppPreferences
 import com.anydaf.model.QuizMode
 import com.anydaf.model.SourceDisplayMode
+import com.anydaf.model.StudyFontSize
 import com.anydaf.model.StudyMode
 import com.anydaf.model.allTractates
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -49,6 +50,9 @@ class ContentViewModel : ViewModel() {
     private val _shiurShowSources = MutableStateFlow(true)
     val shiurShowSources: StateFlow<Boolean> = _shiurShowSources.asStateFlow()
 
+    private val _studyFontSize = MutableStateFlow(StudyFontSize.MEDIUM)
+    val studyFontSize: StateFlow<StudyFontSize> = _studyFontSize.asStateFlow()
+
     private val _isFetchingDafYomi = MutableStateFlow(false)
     val isFetchingDafYomi: StateFlow<Boolean> = _isFetchingDafYomi.asStateFlow()
 
@@ -65,6 +69,7 @@ class ContentViewModel : ViewModel() {
             _quizMode.value = AppPreferences.quizMode.first()
             _sourceDisplayMode.value = AppPreferences.sourceDisplayMode.first()
             _shiurShowSources.value = AppPreferences.shiurShowSources.first()
+            _studyFontSize.value = AppPreferences.studyFontSize.first()
             persistedEngagementSeconds = AppPreferences.totalEngagementSeconds.first()
         }
         FeedManager.init()
@@ -111,6 +116,11 @@ class ContentViewModel : ViewModel() {
     fun setShiurShowSources(enabled: Boolean) {
         _shiurShowSources.value = enabled
         viewModelScope.launch { AppPreferences.saveShiurShowSources(enabled) }
+    }
+
+    fun setStudyFontSize(size: StudyFontSize) {
+        _studyFontSize.value = size
+        viewModelScope.launch { AppPreferences.saveStudyFontSize(size) }
     }
 
     fun fetchTodaysDaf() {

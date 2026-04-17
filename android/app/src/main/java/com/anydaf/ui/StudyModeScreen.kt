@@ -30,6 +30,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.activity.compose.BackHandler
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
@@ -39,6 +40,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.anydaf.model.StudyScope
 import com.anydaf.model.allTractates
 import com.anydaf.viewmodel.BookmarkViewModel
@@ -56,35 +58,9 @@ fun StudyModeScreen(
     onBack: () -> Unit
 ) {
     val session by studyViewModel.session.collectAsState()
-    val isLoadingText by studyViewModel.isLoadingText.collectAsState()
-    val isLoadingStudyContent by studyViewModel.isLoadingStudyContent.collectAsState()
-    val error by studyViewModel.error.collectAsState()
-    val isRateLimited by studyViewModel.isRateLimited.collectAsState()
-    val rateLimitCountdown by studyViewModel.rateLimitCountdown.collectAsState()
-
-    var selectedTab by remember { mutableIntStateOf(0) }  // 0=Translation, 1=Study, 2=Quiz, 3=Resources
+    val sessionObj = session
 
     BackHandler { onBack() }
-
-    LaunchedEffect(session?.currentSectionIndex) {
-        if (selectedTab == 1 || selectedTab == 2) {
-            studyViewModel.loadStudyContentForCurrentSection()
-        }
-    }
-
-    // Load resources when tab 3 is shown; reset when daf changes
-    LaunchedEffect(selectedTab, session?.tractate, session?.daf) {
-        val s = session ?: return@LaunchedEffect
-        if (selectedTab == 3) {
-            resourcesViewModel.loadResources(s.tractate, s.daf)
-        }
-    }
-    LaunchedEffect(session?.daf) {
-        resourcesViewModel.reset()
-    }
-
-    val currentSection = session?.currentSection
-    val sessionObj = session
 
     Scaffold(
         topBar = {
@@ -96,7 +72,7 @@ fun StudyModeScreen(
                                 "${sessionObj.tractate} ${sessionObj.daf}",
                                 style = MaterialTheme.typography.titleLarge
                             )
-                            currentSection?.let {
+                            sessionObj.currentSection?.let {
                                 Text(it.title, style = MaterialTheme.typography.bodySmall)
                             }
                         }
@@ -110,7 +86,6 @@ fun StudyModeScreen(
                     }
                 },
                 actions = {
-                    // Amud A/B jump buttons
                     if (sessionObj != null && sessionObj.scope == StudyScope.FULL_DAF) {
                         FilledTonalButton(
                             onClick = { studyViewModel.jumpToAmudA() },
@@ -121,7 +96,6 @@ fun StudyModeScreen(
                             modifier = Modifier.padding(end = 8.dp)
                         ) { Text("B") }
                     }
-                    // Bookmark
                     if (sessionObj != null) {
                         val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
                         val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
@@ -152,12 +126,120 @@ fun StudyModeScreen(
             )
         }
     ) { padding ->
-        Column(
-            modifier = Modifier
-                .fillMaxSize()
-                .padding(padding)
-        ) {
-            // Progress bar
+        StudyModeContent(
+            studyViewModel = studyViewModel,
+            bookmarkViewModel = bookmarkViewModel,
+            contentViewModel = contentViewModel,
+            resourcesViewModel = resourcesViewModel,
+            onComplete = onBack,
+            modifier = Modifier.padding(padding)
+        )
+    }
+}
+
+/**
+ * The core study session content — tabs, loading states, prev/next buttons.
+ * Used directly by [StudyModeScreen] (phone full-screen) and embedded in the
+ * tablet right panel inside [ContentScreen].
+ */
+@Composable
+fun StudyModeContent(
+    studyViewModel: StudySessionViewModel,
+    bookmarkViewModel: BookmarkViewModel,
+    contentViewModel: ContentViewModel,
+    resourcesViewModel: ResourcesViewModel,
+    isInline: Boolean = false,
+    onComplete: (() -> Unit)? = null,
+    modifier: Modifier = Modifier
+) {
+    val session by studyViewModel.session.collectAsState()
+    val isLoadingText by studyViewModel.isLoadingText.collectAsState()
+    val isLoadingStudyContent by studyViewModel.isLoadingStudyContent.collectAsState()
+    val error by studyViewModel.error.collectAsState()
+    val isRateLimited by studyViewModel.isRateLimited.collectAsState()
+    val rateLimitCountdown by studyViewModel.rateLimitCountdown.collectAsState()
+    val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+
+    var selectedTab by remember { mutableIntStateOf(0) }
+
+    LaunchedEffect(session?.currentSectionIndex) {
+        if (selectedTab == 1 || selectedTab == 2) {
+            studyViewModel.loadStudyContentForCurrentSection()
+        }
+    }
+
+    LaunchedEffect(selectedTab, session?.tractate, session?.daf) {
+        val s = session ?: return@LaunchedEffect
+        if (selectedTab == 3) {
+            resourcesViewModel.loadResources(s.tractate, s.daf)
+        }
+    }
+    LaunchedEffect(session?.daf) {
+        resourcesViewModel.reset()
+    }
+
+    val currentSection = session?.currentSection
+    val sessionObj = session
+
+    CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+        Column(modifier = modifier.fillMaxSize()) {
+
+            // Inline tablet header — session info + A/B jump + bookmark
+            if (isInline && sessionObj != null) {
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(horizontal = 12.dp, vertical = 6.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Column(modifier = Modifier.weight(1f)) {
+                        Text(
+                            "${sessionObj.tractate} ${sessionObj.daf}",
+                            style = MaterialTheme.typography.titleMedium
+                        )
+                        currentSection?.let {
+                            Text(it.title, style = MaterialTheme.typography.bodySmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant)
+                        }
+                    }
+                    if (sessionObj.scope == StudyScope.FULL_DAF) {
+                        FilledTonalButton(
+                            onClick = { studyViewModel.jumpToAmudA() },
+                            modifier = Modifier.padding(end = 4.dp)
+                        ) { Text("A") }
+                        FilledTonalButton(
+                            onClick = { studyViewModel.jumpToAmudB() },
+                            modifier = Modifier.padding(end = 4.dp)
+                        ) { Text("B") }
+                    }
+                    val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
+                    val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
+                    val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
+                    IconButton(onClick = {
+                        if (tractateIndex < 0) return@IconButton
+                        if (isBookmarked) {
+                            bookmarkViewModel.existing(tractateIndex, sessionObj.daf.toDouble(), amud)?.let { bookmarkViewModel.delete(it) }
+                        } else {
+                            bookmarkViewModel.add(
+                                com.anydaf.model.Bookmark(
+                                    name = com.anydaf.model.Bookmark.defaultName(tractateIndex, sessionObj.daf.toDouble(), amud),
+                                    tractateIndex = tractateIndex,
+                                    daf = sessionObj.daf.toDouble(),
+                                    amud = amud,
+                                    studySectionIndex = sessionObj.currentSectionIndex
+                                )
+                            )
+                        }
+                    }) {
+                        Icon(
+                            if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
+                            "Bookmark"
+                        )
+                    }
+                }
+                androidx.compose.material3.HorizontalDivider()
+            }
+
             sessionObj?.let {
                 LinearProgressIndicator(
                     progress = { it.progress.toFloat() },
@@ -165,7 +247,6 @@ fun StudyModeScreen(
                 )
             }
 
-            // Rate limit warning
             if (isRateLimited) {
                 androidx.compose.material3.Surface(
                     color = MaterialTheme.colorScheme.errorContainer,
@@ -192,7 +273,10 @@ fun StudyModeScreen(
                 }
                 error != null -> {
                     Box(Modifier.fillMaxSize(), Alignment.Center) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.padding(24.dp)) {
+                        Column(
+                            horizontalAlignment = Alignment.CenterHorizontally,
+                            modifier = Modifier.padding(24.dp)
+                        ) {
                             Text("Error: $error", color = MaterialTheme.colorScheme.error)
                             Spacer(Modifier.height(12.dp))
                             Button(onClick = { studyViewModel.clearError() }) { Text("Dismiss") }
@@ -200,19 +284,32 @@ fun StudyModeScreen(
                     }
                 }
                 sessionObj == null -> {
-                    Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
+                    if (isInline) {
+                        // Tablet: no session yet — prompt to start studying
+                        Box(Modifier.fillMaxSize(), Alignment.Center) {
+                            Text(
+                                "Tap Study to begin",
+                                style = MaterialTheme.typography.bodyLarge,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                    } else {
+                        Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
+                    }
                 }
                 sessionObj.isComplete -> {
                     Box(Modifier.fillMaxSize(), Alignment.Center) {
                         Column(horizontalAlignment = Alignment.CenterHorizontally) {
                             Text("Session complete!", style = MaterialTheme.typography.headlineMedium)
                             Spacer(Modifier.height(16.dp))
-                            Button(onClick = onBack) { Text("Done") }
+                            Button(onClick = {
+                                studyViewModel.endSession()
+                                onComplete?.invoke()
+                            }) { Text("Done") }
                         }
                     }
                 }
                 else -> {
-                    // Tab bar
                     ScrollableTabRow(selectedTabIndex = selectedTab) {
                         listOf("Text", "Summary", "Quiz", "Resources").forEachIndexed { index, title ->
                             Tab(
@@ -228,7 +325,6 @@ fun StudyModeScreen(
                         }
                     }
 
-                    // Tab content
                     Box(modifier = Modifier.weight(1f)) {
                         when (selectedTab) {
                             0 -> TranslationTab(
@@ -251,11 +347,14 @@ fun StudyModeScreen(
                                 studyViewModel = studyViewModel,
                                 onLoad = { studyViewModel.loadStudyContentForCurrentSection() }
                             )
-                            3 -> ResourcesTab(viewModel = resourcesViewModel)
+                            3 -> ResourcesTab(
+                                viewModel = resourcesViewModel,
+                                studyFontSize = studyFontSize,
+                                onSizeChange = { contentViewModel.setStudyFontSize(it) }
+                            )
                         }
                     }
 
-                    // Previous / Next section buttons
                     if (!sessionObj.isComplete) {
                         val isFirst = sessionObj.currentSectionIndex == 0
                         val isLast = sessionObj.currentSectionIndex == sessionObj.sections.size - 1

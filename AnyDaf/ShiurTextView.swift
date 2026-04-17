@@ -8,6 +8,8 @@ struct ShiurTextView: View {
     let foreground: Color
     var useWhiteBackground: Bool = false
 
+    @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
+
     /// Amber for Talmudic source words on the blue background; app blue on white background.
     private static let amber    = Color(red: 1.0,   green: 0.72,  blue: 0.0)
     private static let appBlue  = SplashView.background
@@ -27,6 +29,7 @@ struct ShiurTextView: View {
                 .padding(.horizontal, 18)
                 .padding(.vertical, 12)
             }
+            .dynamicTypeSize(studyFontSize.dynamicTypeSize)
             .onChange(of: currentSegmentIndex) { _, newIdx in
                 withAnimation(.easeInOut(duration: 0.4)) {
                     proxy.scrollTo("seg-\(newIdx)", anchor: .top)

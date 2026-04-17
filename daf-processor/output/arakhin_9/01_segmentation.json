@@ -1,0 +1,463 @@
+{
+  "masechta": "Arakhin",
+  "daf": 9,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to Daf 9: The Mishnah on Variation of Full Months in a Year",
+      "display_title": "Intro & Mishna",
+      "timestamp": "00:01",
+      "micro_segments": [
+        {
+          "title": "Review of Yesterday's Mishnah: Nida Status and Complex Halachot",
+          "display_title": "Yesterday's Nida",
+          "timestamp": "00:01"
+        },
+        {
+          "title": "Introduction to Today's Topic: Rosh Chodesh and Lunar Calendar Variation",
+          "display_title": "Rosh Chodesh Topic",
+          "timestamp": "01:08"
+        },
+        {
+          "title": "The Mishnah: No Fewer Than Four Full Months, No More Than Eight",
+          "display_title": "Mishna Text",
+          "timestamp": "01:26"
+        },
+        {
+          "title": "Lunar Month Structure: Why Months Alternate Between 29 and 30 Days",
+          "display_title": "Lunar Structure",
+          "timestamp": "01:40"
+        },
+        {
+          "title": "Standard Year Structure: Six Full, Six Lacking Months",
+          "display_title": "Standard Year",
+          "timestamp": "02:05"
+        },
+        {
+          "title": "Permitted Variation: Four to Eight Full Months Explained",
+          "display_title": "Permitted Range",
+          "timestamp": "02:43"
+        },
+        {
+          "title": "Secondary Mishnayot: Shti HaLechem and Lechem HaPanim",
+          "display_title": "Secondary Cases",
+          "timestamp": "03:26"
+        },
+        {
+          "title": "Brit Milah: Eight to Twelve Days Depending on Day of Week and Yom Tov",
+          "display_title": "Brit Milah Rules",
+          "timestamp": "05:32"
+        }
+      ]
+    },
+    {
+      "title": "Gemara's Mathematical Analysis: Why Not Nine Full Months?",
+      "display_title": "Why Not Nine?",
+      "timestamp": "08:42",
+      "micro_segments": [
+        {
+          "title": "Rav Huna's Position: Eight Full Months Maximum Based on Moon Visibility",
+          "display_title": "Rav Huna's Limit",
+          "timestamp": "08:42"
+        },
+        {
+          "title": "The Problem with Nine Full Months: New Moon Three Days Before Rosh Hashanah",
+          "display_title": "Nine Full Problem",
+          "timestamp": "09:01"
+        },
+        {
+          "title": "Two Days Tolerance: The Impact of Leap Years on Calendar Precision",
+          "display_title": "Two Days & Leap",
+          "timestamp": "10:08"
+        },
+        {
+          "title": "Rav Mesharshiya's Solution: Extra Month at 29 Days Corrects Half-Day Error",
+          "display_title": "Mesharshiya Fix",
+          "timestamp": "10:15"
+        },
+        {
+          "title": "Why Rav Mesharshiya's Correction Works: Removing Full Months to Offset Half-Days",
+          "display_title": "Offset Correction",
+          "timestamp": "11:29"
+        }
+      ]
+    },
+    {
+      "title": "Ulla's Position: Alternative Formulation and Debate Structure",
+      "display_title": "Ulla Position",
+      "timestamp": "15:13",
+      "micro_segments": [
+        {
+          "title": "Ulla's Reformulation: Cannot Have More Than Eight Lacking Months",
+          "display_title": "Ulla Reformulation",
+          "timestamp": "15:13"
+        },
+        {
+          "title": "Why Eight Lacking Is Equivalent to Four Full: Mathematical Mirror",
+          "display_title": "Eight Lacking",
+          "timestamp": "15:34"
+        },
+        {
+          "title": "The Tolerance Rationale: Why People Can Accept One-Day Errors",
+          "display_title": "Tolerance Rationale",
+          "timestamp": "20:02"
+        }
+      ]
+    },
+    {
+      "title": "Baraita Dispute: How Many Full Months Can Be Added in a Leap Year?",
+      "display_title": "Leap Year Dispute",
+      "timestamp": "26:10",
+      "micro_segments": [
+        {
+          "title": "First Opinion: Leap Month Always Contains 30 Days",
+          "display_title": "30-Day Leap",
+          "timestamp": "26:10"
+        },
+        {
+          "title": "Rabban Shimon ben Gamliel: Leap Month Can Be 29 or 30 Days",
+          "display_title": "RSbG Flexible",
+          "timestamp": "26:17"
+        },
+        {
+          "title": "Implication: With 30-Day Only Leap, Maximum is Seven Full Months, Not Eight",
+          "display_title": "Seven vs Eight",
+          "timestamp": "26:25"
+        }
+      ]
+    },
+    {
+      "title": "Rosh Hashanah and Pesach: Fixed Calendar Relationship Analysis",
+      "display_title": "RH & Pesach",
+      "timestamp": "28:42",
+      "micro_segments": [
+        {
+          "title": "Shavuot Fixed Relationship: Always 50 Days After Omer Waving",
+          "display_title": "Shavuot Fixed",
+          "timestamp": "28:42"
+        },
+        {
+          "title": "Rosh Hashanah Dates: Second or Third Day of Pesach Based on Month Structure",
+          "display_title": "RH Dates",
+          "timestamp": "29:45"
+        },
+        {
+          "title": "Mathematical Proof: Six Months × 1.5 Days = 9 Days, Minus Weeks = 2 Days Variation",
+          "display_title": "Math Proof",
+          "timestamp": "30:36"
+        },
+        {
+          "title": "Memory Device: At Bash Gar - Pesach Days Correspond to Jewish Holidays",
+          "display_title": "At Bash Gar",
+          "timestamp": "31:48"
+        }
+      ]
+    },
+    {
+      "title": "The Acheirim Opinion: Fixed Calendar with No Variation Between Years",
+      "display_title": "Acheirim Fixed",
+      "timestamp": "32:29",
+      "micro_segments": [
+        {
+          "title": "Acheirim's Fixed System: Second or Third Day of Pesach Only, Never Fourth",
+          "display_title": "2nd or 3rd Only",
+          "timestamp": "32:29"
+        },
+        {
+          "title": "Acheirim's Position: Only Four Days Between One Rosh Hashanah and Next",
+          "display_title": "Four Days Only",
+          "timestamp": "32:46"
+        },
+        {
+          "title": "Why Four Days: Lunar Year ÷ 7 = 29.5 × 12 ÷ 7 = Four-Day Remainder",
+          "display_title": "Four Day Math",
+          "timestamp": "40:11"
+        },
+        {
+          "title": "Rav Mesharshiya's Correction: Making Extra Adar Month 30 Days Requires Removing a Full Month Later",
+          "display_title": "Adar Correction",
+          "timestamp": "44:32"
+        }
+      ]
+    },
+    {
+      "title": "Ravina's Objection: Accounting for Hours and Longer Cycles in Gap Between Years",
+      "display_title": "Ravina Objection",
+      "timestamp": "48:07",
+      "micro_segments": [
+        {
+          "title": "Lunar Cycle Reality: 4 Days, 8 Hours, 876 Chalakim—Not Exactly 4 Days",
+          "display_title": "Exact Cycle",
+          "timestamp": "48:07"
+        },
+        {
+          "title": "Three-Year and Thirty-Year Corrections: Extra Days Accumulate Over Time",
+          "display_title": "Long Cycles",
+          "timestamp": "48:45"
+        }
+      ]
+    },
+    {
+      "title": "Ravina's Objection: Accounting for Hours and Longer Cycles in Gap Between Years (continued)",
+      "display_title": "Ravina Objection…",
+      "timestamp": "49:02",
+      "micro_segments": [
+        {
+          "title": "Reconciliation: Sometimes Five Days Between Rosh Hashanah Years, Not Always Four",
+          "display_title": "Five Days Some",
+          "timestamp": "49:02"
+        }
+      ]
+    },
+    {
+      "title": "Shmuel's Standard Lunar Year Length: 352–356 Days with Two-Day Variation",
+      "display_title": "Shmuel Year",
+      "timestamp": "49:02",
+      "micro_segments": [
+        {
+          "title": "Baseline: Perfect Lunar Year Is 354 Days (12 × 29.5)",
+          "display_title": "354 Days Base",
+          "timestamp": "49:02"
+        },
+        {
+          "title": "Variation Range: 352 (Two Extra Lacking) to 356 (Two Extra Full)",
+          "display_title": "352-356 Range",
+          "timestamp": "49:02"
+        },
+        {
+          "title": "Vow Application: Nazir Taking Vow by Lunar Days Uses Standard 354",
+          "display_title": "Nazir 354",
+          "timestamp": "49:02"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi's Practical Case: Nine Lacking Months for Calendar Correction",
+      "display_title": "Rabbi's 9 Lacking",
+      "timestamp": "49:04",
+      "micro_segments": [
+        {
+          "title": "Rabbi's Action: Implementing Nine Lacking Months and the Unexpected Result",
+          "display_title": "Nine Lacking Act",
+          "timestamp": "49:04"
+        },
+        {
+          "title": "The Explanation: Previous Year Had Two Extra Full Months Plus 30-Day Leap Month",
+          "display_title": "Two Full + Leap",
+          "timestamp": "49:04"
+        },
+        {
+          "title": "The Correction: Three Extra Lacking Months Pulled Back Two-and-a-Half-Day Error Perfectly",
+          "display_title": "3 Lacking Fix",
+          "timestamp": "49:04"
+        },
+        {
+          "title": "Rabbi Shimon bar Rabbi's Recognition: Demonstrating Intentional Calendar Correction",
+          "display_title": "RSbR Confirms",
+          "timestamp": "49:04"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Lunar month structure (29 and 30 days)",
+      "timestamps": [
+        "01:40",
+        "01:47",
+        "02:01",
+        "02:05"
+      ]
+    },
+    {
+      "term": "Malei and Chaseir (full and lacking months)",
+      "timestamps": [
+        "02:09",
+        "02:11",
+        "02:15",
+        "02:20"
+      ]
+    },
+    {
+      "term": "Four to eight full months variation",
+      "timestamps": [
+        "02:43",
+        "02:47",
+        "02:52",
+        "03:02"
+      ]
+    },
+    {
+      "term": "New moon visibility problem",
+      "timestamps": [
+        "09:07",
+        "09:13",
+        "09:40",
+        "09:43",
+        "09:51"
+      ]
+    },
+    {
+      "term": "Rav Huna vs Ulla debate",
+      "timestamps": [
+        "08:53",
+        "15:13",
+        "15:24"
+      ]
+    },
+    {
+      "term": "Leap year (Ibur Shana) correction mechanism",
+      "timestamps": [
+        "10:15",
+        "10:22",
+        "10:28",
+        "10:41",
+        "11:04"
+      ]
+    },
+    {
+      "term": "Half-day error compensation (29 vs 30 in leap year)",
+      "timestamps": [
+        "10:49",
+        "11:04",
+        "11:20",
+        "11:26"
+      ]
+    },
+    {
+      "term": "Day-and-a-half tolerance (visible vs invisible error)",
+      "timestamps": [
+        "12:00",
+        "12:15",
+        "13:02",
+        "20:02",
+        "20:16"
+      ]
+    },
+    {
+      "term": "Rosh Hashanah and Pesach relationship",
+      "timestamps": [
+        "28:42",
+        "29:45",
+        "30:36",
+        "31:14",
+        "31:44"
+      ]
+    },
+    {
+      "term": "Acheirim fixed calendar opinion",
+      "timestamps": [
+        "32:46",
+        "40:11",
+        "40:15",
+        "42:18"
+      ]
+    },
+    {
+      "term": "Four-day mathematical principle",
+      "timestamps": [
+        "31:42",
+        "40:11",
+        "40:34",
+        "40:46"
+      ]
+    },
+    {
+      "term": "Rabban Shimon ben Gamliel flexible leap month",
+      "timestamps": [
+        "26:17",
+        "26:21",
+        "26:25"
+      ]
+    },
+    {
+      "term": "Lunar cycle precision (4 days 8 hours 876 chalakim)",
+      "timestamps": [
+        "48:07",
+        "48:16",
+        "48:26"
+      ]
+    },
+    {
+      "term": "Shmuel's 352-356 day year range",
+      "timestamps": [
+        "49:02",
+        "49:04"
+      ]
+    },
+    {
+      "term": "Kiddush HaChodesh (month sanctification by Beis Din)",
+      "timestamps": [
+        "24:26",
+        "24:50",
+        "46:51",
+        "47:00"
+      ]
+    },
+    {
+      "term": "Witnesses and testimony for new moon sighting",
+      "timestamps": [
+        "02:22",
+        "06:02",
+        "24:18",
+        "24:36",
+        "46:16"
+      ]
+    },
+    {
+      "term": "Rabbi's nine lacking months correction case",
+      "timestamps": [
+        "49:04"
+      ]
+    },
+    {
+      "term": "Rav Mesharshiya's leap year correction principle",
+      "timestamps": [
+        "10:12",
+        "10:15",
+        "17:24",
+        "17:26",
+        "44:32"
+      ]
+    },
+    {
+      "term": "Shavuot (second day of Pesach)",
+      "timestamps": [
+        "03:36",
+        "03:39",
+        "28:54",
+        "31:08"
+      ]
+    },
+    {
+      "term": "Lechem HaPanim (showbread) baking restrictions",
+      "timestamps": [
+        "04:26",
+        "04:30",
+        "04:41"
+      ]
+    },
+    {
+      "term": "Brit Milah on eighth day considerations",
+      "timestamps": [
+        "05:32",
+        "05:35",
+        "06:02"
+      ]
+    },
+    {
+      "term": "Bein Hashmashot (twilight) status uncertainty",
+      "timestamps": [
+        "06:06",
+        "06:30"
+      ]
+    },
+    {
+      "term": "Yom Tov melacha (work on holidays)",
+      "timestamps": [
+        "05:18",
+        "05:21"
+      ]
+    }
+  ]
+}

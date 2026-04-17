@@ -35,6 +35,7 @@ struct StudyModeView: View {
     @State private var articleHTML: String = ""
     @State private var isLoadingArticle = false
 
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     private var studyBg: Color { useWhiteBackground ? .white : SplashView.background }
     private var studyFg: Color { useWhiteBackground ? Color(.label) : .white }
@@ -154,10 +155,6 @@ struct StudyModeView: View {
                             quizzedSectionIndices.insert(idx)
                         }
                     }
-                    // Reset resources when the session moves to a new tractate/daf.
-                    .onChange(of: manager.session?.daf) { _, _ in
-                        resourcesManager.reset()
-                    }
                 }
             }
         }
@@ -185,6 +182,15 @@ struct StudyModeView: View {
             }
         }
         .animation(.spring(response: 0.4, dampingFraction: 0.85), value: selectedArticle?.id)
+        // isLoadingText goes true→false once per startSession, on the OUTER VStack so it
+        // fires even though SectionStudyView (where this logic was) doesn't exist while loading.
+        .onChange(of: manager.isLoadingText) { _, isLoading in
+            guard !isLoading, let session = manager.session else { return }
+            resourcesManager.reset()
+            if selectedTab == 3 {
+                Task { await resourcesManager.loadResources(tractate: session.tractate, daf: session.daf) }
+            }
+        }
         // Read-Aloud (commented out — re-enable when ready)
 //        .overlay(alignment: .bottom) {
 //            if readAloudManager.isListening {
@@ -222,16 +228,18 @@ struct StudyModeView: View {
                     .font(.headline)
                     .foregroundStyle(studyFg)
             }
-            // Back button (left) + Read-Aloud + Jump to Amud B (right)
+            // Back button (left, iPhone only) + Jump to Amud B (right)
             HStack {
-                Button {
-                    onDismiss()
-                } label: {
-                    HStack(spacing: 4) {
-                        Image(systemName: "chevron.left")
-                        Text("Back")
+                if horizontalSizeClass != .regular {
+                    Button {
+                        onDismiss()
+                    } label: {
+                        HStack(spacing: 4) {
+                            Image(systemName: "chevron.left")
+                            Text("Back")
+                        }
+                        .foregroundStyle(studyFg)
                     }
-                    .foregroundStyle(studyFg)
                 }
                 Spacer()
 
@@ -364,8 +372,10 @@ struct StudyModeView: View {
                 .foregroundStyle(studyFg.opacity(0.8))
                 .multilineTextAlignment(.center)
                 .padding(.horizontal)
-            Button("Dismiss") { onDismiss() }
-                .buttonStyle(.borderedProminent)
+            if horizontalSizeClass != .regular {
+                Button("Dismiss") { onDismiss() }
+                    .buttonStyle(.borderedProminent)
+            }
             Spacer()
         }
     }
@@ -394,8 +404,10 @@ struct StudyModeView: View {
                     .foregroundStyle(studyFg.opacity(0.8))
             }
 
-            Button("Back to Daf") { onDismiss() }
-                .buttonStyle(.borderedProminent)
+            if horizontalSizeClass != .regular {
+                Button("Back to Daf") { onDismiss() }
+                    .buttonStyle(.borderedProminent)
+            }
             Spacer()
         }
     }
@@ -433,8 +445,10 @@ struct SectionStudyView: View {
     let onArticleTapped: (YCTArticle) -> Void
 
     @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
-    @Environment(\.studyFg)       private var fg
-    @Environment(\.studyCardFill) private var cardFill
+    @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
+    @Environment(\.studyFg)            private var fg
+    @Environment(\.studyCardFill)      private var cardFill
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     @State private var revealedCount: Int = 1
     @State private var showHebrew = true
@@ -487,6 +501,8 @@ struct SectionStudyView: View {
             }
             .padding([.horizontal, .top])
             .padding(.bottom, 8)
+            .frame(maxWidth: horizontalSizeClass == .regular ? 700 : .infinity)
+            .frame(maxWidth: .infinity)
 
             // Scrollable content — quiz questions advance within this area only.
             ScrollViewReader { proxy in
@@ -506,7 +522,10 @@ struct SectionStudyView: View {
                         }
                     }
                     .padding([.horizontal, .bottom])
+                    .frame(maxWidth: horizontalSizeClass == .regular ? 700 : .infinity)
+                    .frame(maxWidth: .infinity)
                 }
+                .dynamicTypeSize(studyFontSize.dynamicTypeSize)
                 // Lets the scroll view co-exist cleanly with the keyboard —
                 // reduces the layout-recalculation lag on first text-field focus.
                 .scrollDismissesKeyboard(.interactively)
@@ -750,7 +769,7 @@ struct SectionStudyView: View {
 
     @ViewBuilder
     private func summaryTabContent(proxy: ScrollViewProxy) -> some View {
-        if isLoadingContent {
+        if isLoadingContent || section.summary == nil {
             if isRateLimited {
                 VStack(spacing: 12) {
                     ProgressView().tint(fg)
@@ -808,7 +827,7 @@ struct SectionStudyView: View {
 
     @ViewBuilder
     private func quizTabContent(proxy: ScrollViewProxy) -> some View {
-        if isLoadingContent && section.quizQuestions.isEmpty {
+        if isLoadingContent || section.quizQuestions.isEmpty {
             if isRateLimited {
                 VStack(spacing: 12) {
                     ProgressView().tint(fg)

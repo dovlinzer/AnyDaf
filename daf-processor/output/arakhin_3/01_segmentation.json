@@ -1,0 +1,679 @@
+```json
+{
+  "masechta": "Arakhin",
+  "daf": 3,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction and Overview of the Daf: The Scope and Purpose of Hakol Statements",
+      "display_title": "Intro & Hakol Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks and daf preview",
+          "display_title": "Opening Remarks",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Review of previous day's discussion on Hakol in mishnayot and gemarot",
+          "display_title": "Previous Day Review",
+          "timestamp": "00:36"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Mikra Megilla: Women's Obligation in Reading the Megilla and the Principle of Af Hen Hayu B'oto Hanes",
+      "display_title": "Megilla & Women",
+      "timestamp": "00:40",
+      "micro_segments": [
+        {
+          "title": "Mishna: everybody is obligated and kosher to read the Megilla; women included because they were in the miracle",
+          "display_title": "Megilla Obligation",
+          "timestamp": "00:40"
+        },
+        {
+          "title": "The three mitzvot to which af hen hayu b'oto hanes applies: Mikra Megilla, Ner Chanukah, and Arba Kosot",
+          "display_title": "Three Mitzvot",
+          "timestamp": "00:51"
+        },
+        {
+          "title": "Rav Soloveitchik's approach: the common factor is pirsumei nisa (publicizing the miracle)",
+          "display_title": "Pirsumei Nisa",
+          "timestamp": "02:00"
+        },
+        {
+          "title": "Textual problem with af (also) in af hen hayu b'oto hanes; Rashash's attempted resolution",
+          "display_title": "Af Textual Issue",
+          "timestamp": "05:33"
+        },
+        {
+          "title": "Tosafot's limitation: women can read only for other women, not for men, based on a Tosefta quoted in Behag",
+          "display_title": "Tosafot Limitation",
+          "timestamp": "07:31"
+        },
+        {
+          "title": "Discussion of how Tosafot reconciles the Tosefta with the simple sense of the Gemara",
+          "display_title": "Reconciliation",
+          "timestamp": "08:02"
+        },
+        {
+          "title": "Contemporary debates: permitting night-time Megilla reading by women based on textual analysis",
+          "display_title": "Modern Debates",
+          "timestamp": "10:09"
+        },
+        {
+          "title": "Question about how women learned to read the Megilla if teaching women Torah was limited",
+          "display_title": "Teaching Question",
+          "timestamp": "11:00"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Zimun: Women and Minors in the Blessing After Meals and the Issue of Pirtzut",
+      "display_title": "Zimun Obligation",
+      "timestamp": "12:16",
+      "micro_segments": [
+        {
+          "title": "Mishna: everybody obligated in zimun; women and slaves make zimun separately",
+          "display_title": "Zimun Basic",
+          "timestamp": "12:16"
+        },
+        {
+          "title": "Rashi's view: women excluded because they cannot say al britcha about circumcision",
+          "display_title": "Rashi's Reason",
+          "timestamp": "12:41"
+        },
+        {
+          "title": "Tosafot's alternative: the exclusion is only due to pirtzuta (licentiousness concerns)",
+          "display_title": "Tosafot Pirtzuta",
+          "timestamp": "13:11"
+        },
+        {
+          "title": "Contemporary discussion: whether women can join zimun in family contexts given modern social conditions",
+          "display_title": "Modern Zimun Debate",
+          "timestamp": "13:52"
+        },
+        {
+          "title": "Question of obligation vs. permission: does hakol chayavin mean full obligation or just permission for women",
+          "display_title": "Obligation Question",
+          "timestamp": "14:55"
+        },
+        {
+          "title": "Tosafot's position that women have only reshut (permission) not chiyuv (obligation) in zimun",
+          "display_title": "Tosafot: Reshut",
+          "timestamp": "15:02"
+        },
+        {
+          "title": "Vilna Gaon's disagreement: peshat of Gemara shows real obligation for women",
+          "display_title": "Vilna Gaon View",
+          "timestamp": "15:19"
+        },
+        {
+          "title": "Discussion of whether women in a mixed group with men would participate in the zimun",
+          "display_title": "Mixed Group Issue",
+          "timestamp": "15:48"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Mitztarfin L'Zimun L'Asarah: Including Minors in Zimun and the Conflict Between Bavli and Yerushalmi",
+      "display_title": "Minors & Zimun",
+      "timestamp": "17:44",
+      "micro_segments": [
+        {
+          "title": "Mishna: everybody combines for zimun for ten; included are minors who know to whom they bless",
+          "display_title": "Minor Inclusion",
+          "timestamp": "17:44"
+        },
+        {
+          "title": "Tosafot rejects Bavli's position following a Yerushalmi that minors cannot be part of zimun until they develop secondary sexual characteristics",
+          "display_title": "Tosafot Rejects Bavli",
+          "timestamp": "18:19"
+        },
+        {
+          "title": "Beit Yosef's difficulty: why reject explicit Bavli gemarot for a Yerushalmi",
+          "display_title": "Beit Yosef Difficulty",
+          "timestamp": "19:04"
+        },
+        {
+          "title": "Ashkenazi custom influenced by Eretz Yisrael practices: examples of going against Bavli",
+          "display_title": "Ashkenazi Customs",
+          "timestamp": "19:32"
+        },
+        {
+          "title": "Mechaber permits minors in zimun; Rama follows Tosafot and excludes them",
+          "display_title": "Mechaber vs. Rama",
+          "timestamp": "19:57"
+        },
+        {
+          "title": "Reconciliation attempt: minors may be part of zimun for ten (Elokeinu) but not for three",
+          "display_title": "Ten vs. Three",
+          "timestamp": "20:39"
+        },
+        {
+          "title": "Question of whether ten for Elokeinu falls under devarim shebikdusha categories",
+          "display_title": "Elokeinu Status",
+          "timestamp": "21:02"
+        },
+        {
+          "title": "Practical application: can one include wife and nine-year-old daughter in personal zimun",
+          "display_title": "Practical Question",
+          "timestamp": "21:29"
+        },
+        {
+          "title": "Sephardi view: minors can be counted even as part of the three",
+          "display_title": "Sephardi View",
+          "timestamp": "22:51"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Mitamin B'Ziva, B'Tmei Meit, and B'Nega'im: Ritual Impurity Categories and the Exclusion of Minors from Kareit",
+      "display_title": "Impurity Categories",
+      "timestamp": "23:42",
+      "micro_segments": [
+        {
+          "title": "Hakol mitamin b'ziva: everybody can become tamei as a zav (abnormal penile discharge)",
+          "display_title": "Zav Status",
+          "timestamp": "23:42"
+        },
+        {
+          "title": "Including tinok ben yomo (one-day-old infant) who can become a zav",
+          "display_title": "One-Day Infant",
+          "timestamp": "23:56"
+        },
+        {
+          "title": "Rabbi Yehuda vs. Rabbi Ishmael: interpretation of ish (man) vs. zachar (male)",
+          "display_title": "Ish vs. Zachar",
+          "timestamp": "24:01"
+        },
+        {
+          "title": "Rabbi Ishmael's principle: dibra torah k'lishon bnei adam (Torah speaks in vernacular)",
+          "display_title": "Torah Vernacular",
+          "timestamp": "25:03"
+        },
+        {
+          "title": "Hakol mitamei b'tmei meit: everybody becomes impure from corpse contact",
+          "display_title": "Corpse Impurity",
+          "timestamp": "25:42"
+        },
+        {
+          "title": "Inclusion of minors; exclusion only from kareit (excision) punishment, not from actual impurity",
+          "display_title": "Minor Impurity",
+          "timestamp": "26:02"
+        },
+        {
+          "title": "Hakol mitamin b'nega'im: everybody can become tamei as metzora (leprous)",
+          "display_title": "Leprosy Impurity",
+          "timestamp": "27:15"
+        },
+        {
+          "title": "Including minors; adam understood as more general than ish",
+          "display_title": "Adam vs. Ish",
+          "timestamp": "27:50"
+        },
+        {
+          "title": "Ish excludes from requirement of comportment behaviors (hair disheveled, clothes torn) but not from impurity itself",
+          "display_title": "Comportment Behaviors",
+          "timestamp": "28:10"
+        },
+        {
+          "title": "Women excluded from comportment behaviors due to tzniut (propriety) concerns",
+          "display_title": "Women & Tzniut",
+          "timestamp": "29:29"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Ro'in Et Hanega'im and Hakol Kasherim Lirot: Determining Leprosy and the Role of Expert Knowledge",
+      "display_title": "Determining Leprosy",
+      "timestamp": "29:54",
+      "micro_segments": [
+        {
+          "title": "Hakol can see the spots; hakol kasherim to see the leprosy spots",
+          "display_title": "Seeing Spots",
+          "timestamp": "29:54"
+        },
+        {
+          "title": "L'atuyei: including someone who is not expert and does not know the parameters",
+          "display_title": "Non-Expert",
+          "timestamp": "30:27"
+        },
+        {
+          "title": "Contradiction resolved: if one explains it to him and he understands, he can participate",
+          "display_title": "Explanation & Understanding",
+          "timestamp": "30:40"
+        },
+        {
+          "title": "Ravina's resolution: distinction between one who understands when explained vs. one who cannot grasp it",
+          "display_title": "Ravina's Resolution",
+          "timestamp": "30:48"
+        },
+        {
+          "title": "Practical application: kohen needs scholar to help identify tzara'at; scholar explains, kohen pronounces",
+          "display_title": "Kohen & Scholar",
+          "timestamp": "31:05"
+        },
+        {
+          "title": "Interpretation debate: must kohen truly understand or merely parrot the words tamei",
+          "display_title": "Understanding vs. Parroting",
+          "timestamp": "31:45"
+        },
+        {
+          "title": "Tosafot's alternative: instructor need not be expert in entire field, only relevant area",
+          "display_title": "Tosafot Alternative",
+          "timestamp": "32:32"
+        },
+        {
+          "title": "Simple explanation: kohen must grasp the reasoning and understand the ruling",
+          "display_title": "Understanding Reasoning",
+          "timestamp": "32:50"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Kasherim L'Kadesh: Sanctifying Para Aduma Ashes and the Gender Requirement",
+      "display_title": "Para Aduma",
+      "timestamp": "33:18",
+      "micro_segments": [
+        {
+          "title": "Hakol kasherim l'kadesh: everybody can mix ashes of para aduma with water",
+          "display_title": "Mixing Ashes",
+          "timestamp": "33:18"
+        },
+        {
+          "title": "Mishna excludes chersh shoteh v'katan (deaf, imbecile, minor); women normally included",
+          "display_title": "Normal Exclusions",
+          "timestamp": "33:39"
+        },
+        {
+          "title": "Rabbi Yehuda permits minors but excludes women and androgynos; Rabbis include women but exclude minors",
+          "display_title": "Gender vs. Age",
+          "timestamp": "33:55"
+        },
+        {
+          "title": "Question of why men must be used (referenced to discussion in Yoma)",
+          "display_title": "Why Men Required",
+          "timestamp": "34:23"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Kasherim L'Hazot and Hakol Shochtin: Sprinkling Para Aduma and Slaughtering",
+      "display_title": "Hazot & Shechita",
+      "timestamp": "34:38",
+      "micro_segments": [
+        {
+          "title": "Hakol kasherim l'hazot: everybody can do the sprinkling of para aduma ashes",
+          "display_title": "Sprinkling",
+          "timestamp": "34:38"
+        },
+        {
+          "title": "L'atuyei arel (uncircumcised person); Rabbi Elazar: if uncircumcised sprinkles, it is kosher",
+          "display_title": "Arel Included",
+          "timestamp": "34:44"
+        },
+        {
+          "title": "Other marginal cases include: tvul yom and similar borderline individuals",
+          "display_title": "Marginal Cases",
+          "timestamp": "35:06"
+        },
+        {
+          "title": "Hakol shochtin: everybody can slaughter; two instances in mishna",
+          "display_title": "Shechita",
+          "timestamp": "35:19"
+        },
+        {
+          "title": "First instance: l'atuyei Kuti (Samaritans can slaughter)",
+          "display_title": "Kuti Included",
+          "timestamp": "35:32"
+        },
+        {
+          "title": "Second instance: l'atuyei Yisrael mumar (rebellious Jew can slaughter)",
+          "display_title": "Mumar Included",
+          "timestamp": "35:35"
+        },
+        {
+          "title": "Reference to beginning of Chullin about Kuti and mumar reliability concerns",
+          "display_title": "Chullin Reference",
+          "timestamp": "35:38"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Ma'alin L'Eretz Yisrael and L'Yerushalayim: Right to Demand Migration and Its Scope",
+      "display_title": "Aliyah Rights",
+      "timestamp": "36:11",
+      "micro_segments": [
+        {
+          "title": "Mishna: everybody can force (demand) aliyah to Eretz Yisrael",
+          "display_title": "Aliyah Demand",
+          "timestamp": "36:11"
+        },
+        {
+          "title": "Husband-wife dynamics: husband limited by wife in moving within cities; wife has no such limits for Eretz Yisrael",
+          "display_title": "Spouse Dynamics",
+          "timestamp": "36:18"
+        },
+        {
+          "title": "If wife wants aliyah but husband refuses: husband must divorce and pay ketuba",
+          "display_title": "Wife Aliyah",
+          "timestamp": "37:25"
+        },
+        {
+          "title": "If husband wants aliyah but wife refuses: husband can divorce without paying ketuba",
+          "display_title": "Husband Aliyah",
+          "timestamp": "37:32"
+        },
+        {
+          "title": "L'atuyei avadim (slaves): according to Rambam, slave can demand sale to someone in Eretz Yisrael",
+          "display_title": "Slave Aliyah",
+          "timestamp": "38:20"
+        },
+        {
+          "title": "Rashi limits: only if already selling, then to Eretz Yisrael; Rambam more expansive",
+          "display_title": "Rashi vs. Rambam",
+          "timestamp": "38:26"
+        },
+        {
+          "title": "Slaves mentioned explicitly: l'atuyei going from nice to not nice place (poor neighborhoods)",
+          "display_title": "Poor Neighborhoods",
+          "timestamp": "38:56"
+        },
+        {
+          "title": "Ain hakol motzi'in: nobody can be forced out of Israel",
+          "display_title": "Cannot Force Out",
+          "timestamp": "39:34"
+        },
+        {
+          "title": "L'atuyei: eved she'barach (escaped slave cannot be forced back if fled to Eretz Yisrael)",
+          "display_title": "Escaped Slave",
+          "timestamp": "39:45"
+        },
+        {
+          "title": "Hakol ma'alin l'Yerushalayim: everybody can demand to move to Jerusalem",
+          "display_title": "Jerusalem Priority",
+          "timestamp": "40:10"
+        },
+        {
+          "title": "L'atuyei: from nice to not nice place (even if Jerusalem is lower status)",
+          "display_title": "Nice to Not Nice",
+          "timestamp": "40:20"
+        },
+        {
+          "title": "Ain hakol motzi'in mi'Yerushalayim: nobody can be forced to leave Jerusalem",
+          "display_title": "Leave Jerusalem",
+          "timestamp": "40:32"
+        },
+        {
+          "title": "Summary: husband-wife and slaves regarding motivation to live in Israel and Jerusalem",
+          "display_title": "Summary",
+          "timestamp": "40:45"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Sukkah: Examining Why Kohanim Must Be Explicitly Included and the Requirement to Dwell",
+      "display_title": "Sukkah Obligation",
+      "timestamp": "41:50",
+      "micro_segments": [
+        {
+          "title": "Introduction: new theme—mishnas that spell out Kohanim Levi'im v'Yisraelim when saying hakol",
+          "display_title": "New Theme Intro",
+          "timestamp": "41:50"
+        },
+        {
+          "title": "Hakol chayavin b'sukkah; Kohanim Levi'im v'Yisraelim listed explicitly",
+          "display_title": "Sukkah Explicit",
+          "timestamp": "42:32"
+        },
+        {
+          "title": "Question: why spell out Kohanim Levi'im v'Yisraelim if obviously included",
+          "display_title": "Why Explicit",
+          "timestamp": "42:44"
+        },
+        {
+          "title": "Kohanim itzrekha: must tell us Kohanim are obligated because of potential exclusion",
+          "display_title": "Kohanim Needed",
+          "timestamp": "42:50"
+        },
+        {
+          "title": "Potential reason for exclusion: teshvu (dwell) requires living as at home (ish v'ishto together)",
+          "display_title": "Dwell at Home",
+          "timestamp": "42:58"
+        },
+        {
+          "title": "Kohanim busy with avodah during Sukkot; might not have time to dwell with wife",
+          "display_title": "Kohanim Busy",
+          "timestamp": "43:23"
+        },
+        {
+          "title": "Resolution: Kohanim are exempt only during avodah, not outside of work hours",
+          "display_title": "Work Hours Exempt",
+          "timestamp": "43:45"
+        },
+        {
+          "title": "Analogy to orchai drachim (travelers): exempt during day when traveling, obligated at night",
+          "display_title": "Travelers Analogy",
+          "timestamp": "44:06"
+        },
+        {
+          "title": "Better girsa: question concerns day vs. night requirement, not ish v'ishto",
+          "display_title": "Better Girsa",
+          "timestamp": "44:44"
+        },
+        {
+          "title": "Women exempt from sukkah; concern that married men could claim exemption via wife's exemption",
+          "display_title": "Women Exempt",
+          "timestamp": "45:15"
+        },
+        {
+          "title": "Rama's justification for Ashkenazi custom not to sleep in sukkah: cold weather and wife's exemption",
+          "display_title": "Rama's Justification",
+          "timestamp": "45:40"
+        },
+        {
+          "title": "Discussion: girsa suggesting ish v'ishto together is problematic since we never enforce it",
+          "display_title": "Girsa Problems",
+          "timestamp": "46:35"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Tzitzit: Kohanim and the Restrictions on Wearing Wool and Linen",
+      "display_title": "Tzitzit & Kohanim",
+      "timestamp": "47:01",
+      "micro_segments": [
+        {
+          "title": "Hakol chayavin b'tzitzit; Kohanim Levi'im v'Yisraelim listed",
+          "display_title": "Tzitzit Obligation",
+          "timestamp": "47:01"
+        },
+        {
+          "title": "Question: why spell out Kohanim since obviously obligated",
+          "display_title": "Why Spell Out",
+          "timestamp": "47:08"
+        },
+        {
+          "title": "Potential exclusion: lo silbash shatnez (don't wear wool-linen mixture) juxtaposed with tzitzit requirement",
+          "display_title": "Shatnez Concern",
+          "timestamp": "47:12"
+        },
+        {
+          "title": "Reasoning: person exempt from shatnez would not be obligated in tzitzit",
+          "display_title": "Exempt from Shatnez",
+          "timestamp": "47:21"
+        },
+        {
+          "title": "Kohanim allowed shatnez in bigdei kehuna (priestly garments); might be exempt from tzitzit",
+          "display_title": "Kohanim Shatnez",
+          "timestamp": "47:30"
+        },
+        {
+          "title": "Resolution: Kohanim exempt from shatnez only during avodah in bigdei kehuna",
+          "display_title": "Avodah Exemption",
+          "timestamp": "48:44"
+        },
+        {
+          "title": "Outside of work, Kohanim still obligated in shatnez laws and therefore tzitzit",
+          "display_title": "Outside Avodah",
+          "timestamp": "48:44"
+        },
+        {
+          "title": "Secondary explanation: tzitzit conceptually related to bigdei kehuna (both involve wool-linen)",
+          "display_title": "Tzitzit Connection",
+          "timestamp": "48:02"
+        },
+        {
+          "title": "Discussion: whether tzitzit are conceptual priestly garments for Yisraelim",
+          "display_title": "Priestly Concept",
+          "timestamp": "48:26"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Tefillin: Kohanim and the Conflict with Bigdei Kehuna Requirements",
+      "display_title": "Tefillin & Kohanim",
+      "timestamp": "49:17",
+      "micro_segments": [
+        {
+          "title": "Hakol chayavin b'tefillin; Kohanim Levi'im v'Yisraelim listed",
+          "display_title": "Tefillin Obligation",
+          "timestamp": "49:17"
+        },
+        {
+          "title": "Question: why spell out Kohanim",
+          "display_title": "Why Explicit",
+          "timestamp": "49:22"
+        },
+        {
+          "title": "Potential exclusion: tefillin require being on arm and forehead; if exempt from shel yad, maybe exempt from shel rosh",
+          "display_title": "Shel Yad vs. Shel Rosh",
+          "timestamp": "49:34"
+        },
+        {
+          "title": "Kohanim cannot wear tefillin shel yad during avodah due to chatzitzah (separation) from flesh and bigdei kehuna",
+          "display_title": "Chatzitzah Issue",
+          "timestamp": "49:51"
+        },
+        {
+          "title": "Bigdei kehuna must touch flesh directly; no intermediary allowed",
+          "display_title": "Direct Contact",
+          "timestamp": "50:00"
+        },
+        {
+          "title": "Resolution: one does not prevent the other; can have shel rosh without shel yad",
+          "display_title": "One Doesn't Prevent",
+          "timestamp": "50:46"
+        },
+        {
+          "title": "Shel rosh during avodah: hat (mitznefes) covering head; tefillin placed in hair area between hat and crown",
+          "display_title": "Hair Area",
+          "timestamp": "51:08"
+        },
+        {
+          "title": "Gemara teaching: even Kohen Gadol had visible hair where tefillin could be placed",
+          "display_title": "Hair Space",
+          "timestamp": "51:17"
+        },
+        {
+          "title": "Discussion: does mitznefes create chatzitzah; placement of tefillin straps",
+          "display_title": "Mitznefes Chatzitzah",
+          "timestamp": "51:41"
+        }
+      ]
+    },
+    {
+      "title": "Hakol Chayavin B'Tkias Shofar: Kohanim and the Exclusion from Yovel-Related Mitzvot",
+      "display_title": "Shofar & Kohanim",
+      "timestamp": "53:37",
+      "micro_segments": [
+        {
+          "title": "Hakol chayavin bitkias shofar; Kohanim Levi'im v'Yisraelim listed",
+          "display_title": "Shofar Obligation",
+          "timestamp": "53:37"
+        },
+        {
+          "title": "Question: why spell out Kohanim",
+          "display_title": "Why Explicit",
+          "timestamp": "53:56"
+        },
+        {
+          "title": "First rejected reasoning: Kohanim hear ritual blasts (chatzotzrot) every day, not just on one day",
+          "display_title": "Daily Blasts",
+          "timestamp": "53:58"
+        },
+        {
+          "title": "Second reasoning: Yom Teruah (day of blast) connected to Yovel laws; those excluded from Yovel might be excluded from Shofar",
+          "display_title": "Yovel Connection",
+          "timestamp": "54:57"
+        },
+        {
+          "title": "Mishna: Yovel has same tekiot and brachot as Rosh Hashanah (malchuyot zichronot shofrot)",
+          "display_title": "Yovel Equality",
+          "timestamp": "55:02"
+        },
+        {
+          "title": "Reasoning: those relevant to Yovel mitzvot are relevant to Rosh Hashanah mitzvot",
+          "display_title": "Relevance Principle",
+          "timestamp": "56:07"
+        },
+        {
+          "title": "Kohanim and Levi'im exclusions from Yovel: mecherim l'olam (always can sell) and go'alim l'olam (always can redeem)",
+          "display_title": "Yovel Exclusions",
+          "timestamp": "56:34"
+        },
+        {
+          "title": "Kohanim Levi'im exempt from some Yovel land laws but included in debt release and slave release",
+          "display_title": "Partial Inclusion",
+          "timestamp": "58:05"
+        },
+        {
+          "title": "Resolution: even if excluded from some Yovel aspects, they are included in enough to maintain Rosh Hashanah obligation",
+          "display_title": "Enough Inclusion",
+          "timestamp": "58:18"
+        },
+        {
+          "title": "Textual problem: smitat kesafim (debt release) mentioned in yovel context but applies to shmita, not yovel",
+          "display_title": "Textual Problem",
+          "timestamp": "58:45"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "af hen hayu b'oto hanes",
+      "timestamps": ["01:05", "02:29", "05:14", "06:17"]
+    },
+    {
+      "term": "pirsumei nisa (publicizing the miracle)",
+      "timestamps": ["02:42", "03:42", "04:02"]
+    },
+    {
+      "term": "mikra megilla (reading the Megilla)",
+      "timestamps": ["00:44", "01:05", "01:19", "02:51", "07:15"]
+    },
+    {
+      "term": "ner chanukah (Chanukah lights)",
+      "timestamps": ["01:54", "02:23", "06:17"]
+    },
+    {
+      "term": "arba kosot (four cups)",
+      "timestamps": ["01:54", "02:28", "02:58"]
+    },
+    {
+      "term": "women exempt from time-bound mitzvot",
+      "timestamps": ["01:10", "15:20", "45:15"]
+    },
+    {
+      "term": "Tosafot (medieval commentators)",
+      "timestamps": ["01:51", "02:00", "07:31", "08:27", "10:12", "13:11", "15:10", "18:19", "18:38", "19:20", "29:30", "32:32", "46:35"]
+    },
+    {
+      "term": "behag (Behag's work)",
+      "timestamps": ["07:31", "07:44", "08:38", "11:56"]
+    },
+    {
+      "term": "zimun (blessing after meals group)",
+      "timestamps": ["12:16", "12:24", "12:27", "12:38", "13:17", "13:52", "14:10", "14:23", "15:02", "15:16", "16:44", "

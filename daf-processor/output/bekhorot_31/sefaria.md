@@ -1,0 +1,150 @@
+### Bekhorot 31a
+
+**1.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: וְכוּלָּן שֶׁחָזְרוּ בָּהֶן אֵין מְקַבְּלִין אוֹתָן עוֹלָמִית, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: חָזְרוּ בְּמַטְמוֹנִיּוֹת — אֵין מְקַבְּלִין אוֹתָן, בְּפַרְהֶסְיָא — מְקַבְּלִין אוֹתָן.
+*Translation:* With regard to an *am ha’aretz* who accepts upon himself the stringent practices of a *ḥaver*, **the Sages taught** in a *baraita*: **And** with regard to **all of them, when they retract** and return to being *amei ha’aretz*, **they are never accepted** as *ḥaverim*; this is **the statement of Rabbi Meir. Rabbi Yehuda says:** If **they retracted in private,** while in public they continue to act as *ḥaverim*, **they are not accepted,** but if they retract **in public [*befarheseya*], they are accepted,** as they can be trusted.
+
+**2.**
+*Hebrew/Aramaic:* אִיכָּא דְּאָמְרִי: אִם עָשׂוּ דִּבְרֵיהֶן בְּמַטְמוֹנִיּוֹת — מְקַבְּלִין אוֹתָן, בְּפַרְהֶסְיָא — אֵין מְקַבְּלִין אוֹתָן.
+*Translation:* **There are** those **who say** another version of this discussion: If **they performed their actions** as *ḥaverim* even **in private,** when they initially accepted the status of *ḥaverim*, then **they are accepted** when they wish to return to that status. Conversely, if they performed their actions as *ḥaverim* only **in public, they are not accepted.**
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן וְרַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה אוֹמְרִים: בֵּין כָּךְ וּבֵין כָּךְ מְקַבְּלִין אוֹתָן, מִשּׁוּם שֶׁנֶּאֱמַר: ״שׁוּבוּ בָּנִים שׁוֹבָבִים״. אָמַר רַבִּי יִצְחָק אִישׁ כְּפַר עַכּוֹ אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּאוֹתוֹ הַזּוּג.
+*Translation:* **Rabbi Shimon and Rabbi Yehoshua ben Korḥa say: Both** in **this** case **and** in **that** case **they are accepted, as it is stated: “Return, you backsliding children;** I will heal your backslidings” (Jeremiah 3:22). **Rabbi Yitzḥak of the village of Akko says** that **Rabbi Yoḥanan says: The *halakha*** is **in accordance with** the opinion of **that pair,** Rabbi Shimon and Rabbi Yehoshua ben Korḥa, i.e., those who return are accepted in both cases.
+
+**4.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן, בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים: חָבֵר וְנַעֲשָׂה גַּבַּאי — דּוֹחִין אוֹתוֹ מֵחֲבֵירָתוֹ, פֵּירַשׁ — אֵין מְקַבְּלִין אוֹתוֹ. חָזְרוּ לוֹמַר: פֵּירַשׁ — הֲרֵי הוּא כְּכׇל אָדָם.
+*Translation:* § **The Sages taught** in a *baraita*: **Initially,** the Sages **would say** with regard to one who is **a *ḥaver* and became** a tax **collector** that **he is rejected from his** status as **a *ḥaver*.** Even if he later **resigns** from his position as a tax collector, **he is not accepted.** In later generations **they went back to saying** that if **he resigns** from his position as a tax collector **he is like any other person** and may be accepted once again as a *ḥaver*.
+
+**5.**
+*Hebrew/Aramaic:* רַב הוּנָא בַּר חִיָּיא אִיצְטְרִיכָא לֵיהּ שַׁעְתָּא, הֲוָה עָיֵיל גַּבֵּיהּ רַבָּה וְרַב יוֹסֵף וְאַרְבַּע מְאָה זוּגֵא דְּרַבָּנַן. שְׁמַע דְּאָתוּ, קְטַיר לְהוּ אַרְבַּע מְאָה תַּכְתָּקֵי. לְסוֹף שְׁמַעוּ דְּנַעֲשָׂה גַּבַּאי, שְׁלַחוּ לֵיהּ: זִיל לַחֲשִׁיבוּתֵיהּ, זִיל לְקַדְמוּתֵיהּ. שְׁלַח לְהוּ: הֲדַרִי בִּי. רַב יוֹסֵף לָא אֲזַל, רַבָּה אֲזַל.
+*Translation:* The Gemara relates that one **time** the Sages **needed Rav Huna bar Ḥiyya** for a certain matter. **Rabba and Rav Yosef and four hundred pairs of Sages ascended to his** home. When **he heard that they were coming,** he **tied** for **them four hundred chairs [*takhtekei*]** to sit on. **Eventually** the Sages **heard that he had become** a tax **collector. They sent him** the following message: **Go to your** important position as a tax collector, and **go to your former** status, as we no longer need you. **He sent to them** the following message: **I have repented** and am no longer a tax collector. **Rav Yosef did not go** to him, but **Rabba went** to him.
+
+**6.**
+*Hebrew/Aramaic:* רַב יוֹסֵף אָמַר: תְּנֵינָא, פֵּירַשׁ — אֵין מְקַבְּלִין אוֹתוֹ; רַבָּה אָמַר: תְּנֵינָא, חָזְרוּ לוֹמַר: פֵּירַשׁ — הֲרֵי הוּא כְּכׇל אָדָם.
+*Translation:* **Rav Yosef said** in explanation of why he did not go: **We learn** in a *baraita* that even if such an individual **resigns** from his position as a tax collector **he is not accepted. Rabba said: We learn** in the *baraita* that in later generations **they went back to saying** that if **he resigns** from his position as a tax collector **he is like any other person** and may be accepted once again as a *ḥaver*.
+
+**7.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כׇּל הַבְּכוֹרוֹת אָדָם רוֹאֶה, חוּץ מִשֶּׁל עַצְמוֹ, וְרוֹאֶה אֶת קֳדָשָׁיו, וְאֶת מַעְשְׂרוֹתָיו, וְנִשְׁאָל עַל טׇהֳרוֹתָיו.
+*Translation:* § **The Sages taught** in a *baraita*: **A person may inspect all firstborns** for blemishes **except for his own** firstborns, as he has a vested interest. **And** despite his vested interest in these cases, one may **inspect his own sanctified animals** that he consecrated for the Temple, to determine whether they have blemishes and may be redeemed; **and** he may inspect **his** animal **tithes** to decide whether they are fit for sacrifice in the Temple; **and** one **may ask** himself **with regard to his ritually pure** foods, i.e., he may decide for himself whether or not they have become impure, and he is not suspected of claiming that impure food is actually pure.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר מָר: כׇּל הַבְּכוֹרוֹת אָדָם רוֹאֶה חוּץ מִשֶּׁל עַצְמוֹ. בְּמַאי עָסְקִינַן? אִילֵימָא בְּחַד — מִי מְהֵימַן? אֶלָּא בִּתְלָתָא, וּמִי חֲשִׁידִי? וְהָתְנַן: מֵיאֲנָה אוֹ שֶׁחָלְצָה בְּפָנָיו — יִשָּׂאֶנָּה, מִפְּנֵי שֶׁהוּא בֵּית דִּין!
+*Translation:* The Gemara analyzes the *baraita*. **The Master said: A person may inspect all firstborns except for his own** firstborns. **What are we dealing with** here? **If we say** that we are dealing with a case **of one** person examining a blemish, **is he trusted** by himself to deem any firstborn animal permitted for slaughter? The mishna on 36b states that only three people may permit a firstborn animal to be slaughtered. **Rather,** it must be dealing with one **of three** who jointly decide the status of the firstborn animal. **And is he suspect** in such a case? **But didn’t we learn** in a mishna (*Yevamot* 25b): A judge before whom a woman **performed refusal** when she was a minor, by declaring that she did not desire the husband chosen for her by her family, **or before whom she performed *ḥalitza*, may marry her,because** he was only one member of **the court,** and therefore there is no suspicion of conflict of interest?
+
+**9.**
+*Hebrew/Aramaic:* לְעוֹלָם בְּחַד, וְכִדְאָמַר רַב חִסְדָּא אָמַר רַבִּי יוֹחָנָן: בְּיָחִיד מוּמְחֶה, הָכָא נָמֵי בְּיָחִיד מוּמְחֶה.
+*Translation:* The Gemara answers: **Actually,** we are dealing with a case **of a single** judge, **and** this is **as Rav Ḥisda says** that **Rabbi Yoḥanan says** with regard to a different matter: Vows may be dissolved even **by a single expert,** and a three-member court is not always necessary. **Here too,** we are dealing **with a single expert** who deems the firstborn animal permitted. A single expert may rule with regard to the firstborn animals belonging to others, but not his own animals, due to his vested interest.
+
+**10.**
+*Hebrew/Aramaic:* וְרוֹאֶה אֶת קֳדָשָׁיו, דְּאִי בָּעֵי מִיתְּשִׁיל עֲלַיְיהוּ.
+*Translation:* The Gemara analyzes the last section of the *baraita*. **And** despite his vested interest, one may **inspect his own sanctified animals.** Why is it permitted for him to inspect them? The reason is **that if he wants** to avoid giving the animal to the Temple, he can **issue a request** from a halakhic authority to annul his oath. Consequently, he does not truly have a vested interest.
+
+**11.**
+*Hebrew/Aramaic:* וּמַעְשְׂרוֹתָיו, דְּאִי בָּעֵי שָׁדֵי בֵּיהּ מוּמָא בְּכוּלֵּיהּ עֶדְרֵיהּ.
+*Translation:* The *baraita* also teaches: **And** he may rule with regard to **his** own animal **tithes** to decide whether they are fit to be sacrificed in the Temple. The Gemara explains that the reason is **that if he wants** to avoid bringing the animals as offerings, he can **inflict a blemish upon his entire herd** before separating the tithe, which would render them all unfit for sacrifice in the Temple.
+
+**12.**
+*Hebrew/Aramaic:* וְנִשְׁאָל עַל טׇהֳרוֹתָיו, דְּהָא חֲזוּ לֵיהּ בִּימֵי טוּמְאָתוֹ.
+*Translation:* Finally, the *baraita* states: **And** one **may ask** himself **with regard to his ritually pure** foods, i.e., he may decide for himself whether or not they have become impure, and he is not suspected of claiming that impure food is actually pure. The Gemara explains that his vested interested in this case is not so great, **as** the food **is fit for him** to eat **in his days of impurity.**
+
+**13.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ עַד כַּמָּה יִשְׂרָאֵל חַיָּיבִין.
+*Translation:* 
+
+**14.**
+*Hebrew/Aramaic:* מַתְנִי׳ כָּל פְּסוּלֵי הַמּוּקְדָּשִׁין, הֲנָאָתָן לַהֶקְדֵּשׁ, נִמְכָּרִין בָּאִיטְלִיז, וְנִשְׁחָטִין בָּאִיטְלִיז, וְנִשְׁקָלִין בְּלִיטְרָא,
+*Translation:* MISHNA: With regard to **all disqualified consecrated** animals that were disqualified for sacrifice due to blemishes and were redeemed, all **benefit** accrued from **their** sale belongs **to the Temple** treasury. In order to ensure that the Temple treasury will not suffer a loss, these animals **are sold in the butchers’ market [*ba’itliz*] and slaughtered in the butchers’ market,** where the demand is great and the price is consequently higher. **And** their meat **is weighed** and sold **by the *litra*,** in the manner that non-sacred meat is sold.
+
+**15.**
+*Hebrew/Aramaic:* חוּץ מִן הַבְּכוֹר וְהַמַּעֲשֵׂר, שֶׁהֲנָיָיתָן לַבְּעָלִים. פְּסוּלֵי הַמּוּקְדָּשִׁין — הֲנָיָיתָן לַהֶקְדֵּשׁ.
+*Translation:* This is the *halakha* with regard to all consecrated animals **except for the firstborn** offering **and** an animal **tithe** offering. When these become blemished and their slaughter is permitted, they are sold and slaughtered only in the owner’s house and are not weighed; rather, they are sold by estimate. The reason is **that** all **benefit** accrued from **their** sale belongs **to the owner,** i.e., the priest in the case of the firstborn and the owner in the case of the animal tithe offering. It is not permitted to treat disqualified consecrated animals as one treats non-sacred animals merely to guarantee that the owner will receive the optimal price. This is in contrast to **disqualified consecrated** animals, where all **benefit** accrued from **their** sale belongs **to the Temple** treasury, and therefore the animal is sold in the market to ensure that the optimal price is received.
+
+**16.**
+*Hebrew/Aramaic:* וְשׁוֹקְלִין מָנָה כְּנֶגֶד מָנָה בַּבְּכוֹר.
+*Translation:* **And** although the meat of the firstborn is not weighed and sold by the *litra*, nevertheless, if one has non-sacred meat weighing one hundred dinars, **one may weigh one portion** of non-sacred meat **against one portion** of the meat **of the firstborn,** because that is unlike the manner in which non-sacred meat is weighed.
+
+
+---
+
+### Bekhorot 31b
+
+**1.**
+*Hebrew/Aramaic:* גְּמָ׳ כָּל פְּסוּלֵי הַמּוּקְדָּשִׁין הֲנָאָתָן לַהֶקְדֵּשׁ. אֵימַת? אִילֵּימָא לְאַחַר פִּדְיוֹנוֹ — הֲנָאָתָן לַהֶקְדֵּשׁ? הֲנָאָתָן דִּבְעָלִים הוּא!
+*Translation:* GEMARA: The mishna teaches that with regard to **all disqualified consecrated** animals that were disqualified for sacrifice due to blemishes and were redeemed, all **benefit** accrued from **their** sale belongs **to the Temple** treasury, and the animals may consequently be sold in the manner of non-sacred meat. The Gemara asks: **When** does this apply? **If we say** that it applies to an animal **after its redemption,** i.e., after the owner redeemed it from the Temple treasury, does the **benefit** accrued belong **to the Temple?** Certainly not. Once a consecrated animal is redeemed from the Temple treasury, it is in the possession of its owner, which means that the **benefit** accrued belongs **to the owner.**
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא לִפְנֵי פִּדְיוֹנוֹ. נִשְׁחָטִין? הָא בָּעֵי הַעֲמָדָה וְהַעֲרָכָה!
+*Translation:* **Rather,** it applies to an animal **before its redemption,** in which case the money accrued from its sale, which renders it non-sacred, belongs to the Temple treasury. But if so, the mishna’s statement that the animals **may be slaughtered** in the butchers’ market is problematic. The Gemara explains the difficulty: How can the animal be evaluated after having been slaughtered? Redeeming a sanctified animal **requires standing and valuation,** i.e., it has to be set standing before a priest for him to appraise its monetary value and only then is it redeemed (see Leviticus 27:11–12).
+
+**3.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאָמַר, קׇדְשֵׁי מִזְבֵּחַ לֹא הָיוּ בִּכְלַל הַעֲמָדָה וְהַעֲרָכָה, אֶלָּא לְמַאן דְּאָמַר הָיוּ בִּכְלַל הַעֲמָדָה וְהַעֲרָכָה, מַאי אִיכָּא לְמֵימַר?
+*Translation:* The Gemara adds: **This works out well according to the one who says** that items **consecrated** to be sacrificed on the **altar** that were then disqualified due to a blemish **were not included in** the requirement of **standing and valuation.** If so, the animal may be slaughtered and subsequently sold. **But according to the one who says** that items consecrated to be sacrificed on the **altar were included in** the requirement of **standing and valuation, what is there to say** in explanation of the mishna?
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא לְעוֹלָם לְאַחַר פִּדְיוֹן, וּמַאי הֲנָאָתָן לַהֶקְדֵּשׁ? אַדְּמֵעִיקָּרָא.
+*Translation:* The Gemara answers: **Rather,** the ruling of the mishna **actually** applies to a case where the animals are sold and slaughtered **after their redemption** by the owner. **And what** is the meaning of the mishna’s statement that all **benefit** accrued from **their** sale belongs **to the Temple** treasury? This is not referring to the profit from the sale in the butchers’ market, as was previously assumed. Instead, it is referring **to** their **initial** redemption from the Temple treasury.
+
+**5.**
+*Hebrew/Aramaic:* דְּכֵיוָן דְּשָׁרֵי לְהוּ מָר, נִמְכָּרִין בָּאִיטְלִיז וְנִשְׁחָטִין בָּאִיטְלִיז וְנִשְׁקָלִין בְּלִיטְרָא, טָפֵי וּפָרֵיק מֵעִיקָּרָא.
+*Translation:* The Gemara explains: **Since the Sage** in the mishna **deems** it **permitted** for the redeemed animals to be subsequently **sold in the butchers’ market and slaughtered in the butchers’ market, and weighed** and sold **by the *litra*,** there is a higher probability that the owner will **redeem** the animal for **more** money **initially.** The owner’s later ability to sell the redeemed animal for the highest market value is in effect a benefit that eventually accrues to the Temple treasury, as he will be willing to spend more money to redeem the animal.
+
+**6.**
+*Hebrew/Aramaic:* חוּץ מִן הַבְּכוֹר וּמִן הַמַּעֲשֵׂר שֶׁהֲנָיָיתָן לַבְּעָלִים. בִּשְׁלָמָא בְּכוֹר — בָּאִיטְלִיז הוּא דְּלָא מִיזְדַּבַּן, הָא בְּבֵיתֵיהּ מִיזְדַּבַּן, אֶלָּא מַעֲשֵׂר — בְּבֵיתֵיהּ מִי מִיזְדַּבַּן?
+*Translation:* § The mishna teaches that the meat of blemished, consecrated animals may be sold in the same manner as non-sacred meat, **except for the firstborn** animal **and** animal **tithe** offering, **as** all **benefit** accrued from **their** sale belongs **to the owner.** Accordingly, even if it is blemished, the meat may be sold only in the owner’s house. The Gemara asks: **Granted,** in the case of **a firstborn** offering, **it is in the butchers’ market that it may not be sold,** whereas **it may be sold in its** owner’s **house. But** with regard to the animal **tithe** offering, **may it be sold in its** owner’s **house?**
+
+**7.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: בִּבְכוֹר נֶאֱמַר ״לֹא תִפְדֶּה״ וְנִמְכָּר חַי, בְּמַעֲשֵׂר נֶאֱמַר ״לֹא יִגָּאֵל״ וְאֵינוֹ נִמְכָּר, לֹא חַי וְלֹא שָׁחוּט, לֹא תָּם וְלֹא בַּעַל מוּם.
+*Translation:* **But isn’t it taught** in a *baraita*: **With regard to a firstborn** animal it **is stated: “You shall not redeem”** (Numbers 18:17), indicating that its sanctity can never be removed from it and transferred to non-sacred objects. **But it can be sold** after it comes into the possession of the priest, while it is **alive.** By contrast, **with regard to** the animal **tithe** offering, it **is stated: “It shall not be redeemed”** (Leviticus 27:33), which teaches that its sanctity can never be removed from it, **and it cannot be sold** either, as the Gemara will explain (32a–b), **not** when **alive and not** when **slaughtered, not** when **unblemished and not** when **blemished.** This *baraita* clearly states that the animal tithe offering may not be sold no matter what its status, which seems to contradict the mishna.
+
+**8.**
+*Hebrew/Aramaic:* הָא מִילְּתָא אִיקַּשְׁיָא לֵיהּ לְרַב שֵׁשֶׁת בְּאוּרְתָּא, וְשַׁנְּיַיהּ בְּקַדְמוּתָא מִבָּרַיְיתָא, בְּמַעְשַׂר בְּהֵמָה שֶׁל יְתוֹמִים עָסְקִינַן, וּמִשּׁוּם הֲשָׁבַת אֲבֵידָה נָגְעוּ בָּהּ.
+*Translation:* The Gemara notes: **At night, Rav Sheshet found this matter difficult, and he resolved it in the morning from a *baraita*.** He explains that in the mishna **we are dealing with** a case of **an animal tithe** offering **belonging to** young **orphans** that was blemished and slaughtered. Since the orphans are unable to consume the entire animal and would therefore suffer a monetary loss if the meat were to spoil, the Sages permitted its sale, **and** it is **due to** the principle of **returning a lost item** that **they touched upon it,** i.e., allowed for this.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי אִידִי סַרְסְיֵהּ דְּרַב שֵׁשֶׁת הֲוָה שַׁמְעַהּ מִינֵּיהּ, אֲזַל אַמְרַהּ בֵּי מִדְרְשָׁא וְלָא אַמְרַהּ מִשְּׁמֵיהּ, שְׁמַע רַב שֵׁשֶׁת אִיקְּפַד, אֲמַר: מַאן דְּעָקֵיץ לִיעְקְצֵיהּ עַקְרַבָּא, וְרַב שֵׁשֶׁת מַאי נָפְקָא לֵיהּ מִינַּהּ? דְּאָמַר רַב יְהוּדָה אָמַר רַב: מַאי דִּכְתִיב ״אָגוּרָה בְּאׇהׇלְךָ עוֹלָמִים״? וְכִי אִיפְשָׁר לְאָדָם לָגוּר בִּשְׁנֵי עוֹלָמִים?
+*Translation:* The Gemara relates: **Rav Idi, the attendant [*saraseih*] of Rav Sheshet, heard** this explanation **from** Rav Sheshet. Rav Idi **went and stated** the matter **in the study hall, but did not say it in his** master’s **name. Rav Sheshet heard** what he had done and **was annoyed.** Rav Sheshet **said: The one who stung me, let him be stung by a scorpion.** The Gemara asks: **And** as for **Rav Sheshet, what difference does it make to him** whether or not his interpretation was cited in his name? The Gemara answers that this is **as Rav Yehuda says** that **Rav says: What** is the meaning of that **which is written: “I will dwell in Your tent forever [*olamim*]”** (Psalms 61:5)? Rav asked: **But is it possible for a person to live in two worlds [*olamim*],** this world and the next, simultaneously?
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר דָּוִד: רִבּוֹנוֹ שֶׁל עוֹלָם, יֹאמְרוּ דְּבַר שְׁמוּעָה מִפִּי בְּעוֹלָם הַזֶּה. דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: כׇּל תַּלְמִיד חָכָם שֶׁאוֹמְרִים דְּבַר שְׁמוּעָה מִפִּיו בְּעוֹלָם הַזֶּה — שִׂפְתוֹתָיו דּוֹבְבוֹת בַּקֶּבֶר.
+*Translation:* **Rather, David,** who recited this psalm, **said** to God: **Master of the Universe, let** people **say a matter of *halakha* in my name in this world** after I have passed on to another world. **As Rabbi Yoḥanan said in the name of Rabbi Shimon ben Yoḥai:** With regard to **any Torah scholar in whose name a matter of *halakha* is stated in this world, his lips mouth** the words **in the grave,** as though he were speaking.
+
+**11.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יִצְחָק בַּר זְעֵירִי: מַאי קְרָאָה — ״וְחִכֵּךְ כְּיֵין הַטּוֹב הוֹלֵךְ לְדוֹדִי לְמֵישָׁרִים דּוֹבֵב שִׂפְתֵי יְשֵׁנִים״, כְּכוֹמֶר שֶׁל עֲנָבִים, מָה כּוֹמֶר שֶׁל עֲנָבִים כֵּיוָן דְּאָדָם נוֹגֵעַ בּוֹ – דּוֹבֵב, אַף תַּלְמִידֵי חֲכָמִים, כֵּיוָן שֶׁאָדָם אוֹמֵר דְּבַר שְׁמוּעָה מִפִּיו – דּוֹבְבוֹת שְׂפָתָיו בַּקֶּבֶר.
+*Translation:* **And Rabbi Yitzḥak ben Ze’eiri says: What is the verse** from which this is derived? The verse states: **“And the roof of your mouth is like the best wine that glides down smoothly for my beloved, moving gently the lips of those who are asleep”** (Song of Songs 7:10). Here, words of Torah in the mouths of the Jewish people are likened **to a pile [*kekhomer*] of grapes** left to warm before they are pressed, which causes the wine to exude from them easily: **Just as** with regard to **a pile of grapes, when a person** places his finger on it and **touches it, it moves** and issues a sound as the wine bursts forth, **so too** with regard to **Torah scholars, when a matter of *halakha* is stated in their name, their lips mouth** the words **in the grave.**
+
+**12.**
+*Hebrew/Aramaic:* מַאי בָּרַיְיתָא? דְּתַנְיָא: מַעְשַׂר בְּהֵמָה שֶׁל יְתוֹמִים — מוֹכְרִין אוֹתוֹ, וּמַעְשַׂר בְּהֵמָה שֶׁשְּׁחָטוֹ — מַבְלִיעוֹ בְּעוֹרוֹ, בְּחֶלְבּוֹ, וּבְגִידוֹ, וּבְקַרְנָיו.
+*Translation:* The Gemara returns to Rav Sheshet’s explanation: **What** is the ***baraita*** mentioned by Rav Sheshet, upon which he based his resolution? The Gemara explains: **As it is taught** in a *baraita*: With regard to **an animal tithe** offering **of** young **orphans, one may sell it. And** with regard to **an animal tithe** offering **that one has slaughtered,** whose meat may not be sold, **one may include** the cost of the meat **in** the cost of its negligent parts, thereby inflating the cost of those parts, i.e., the animal’s **hide, its fat, its sinews, and its horns,** which are permitted to be sold.
+
+**13.**
+*Hebrew/Aramaic:* מַאי קָאָמַר? אָמַר אַבָּיֵי: הָכִי קָאָמַר — מַעְשַׂר בְּהֵמָה שֶׁל יְתוֹמִים מוֹכְרִין אוֹתוֹ בְּהַבְלָעָה.
+*Translation:* The Gemara asks: **What is** the *tanna* of the *baraita* **saying?** Initially, the *baraita* stated that one may sell the meat of an animal tithe offering belonging to young orphans, which indicates that this may be done in the normal fashion. The *baraita* then proceeds to state that the sale of the meat must be performed in the indirect manner of inclusion. **Abaye said:** The *baraita* is actually referring to only one case, and **this** is what it **is saying:** With regard to the meat of **an animal tithe** offering **of** young **orphans, it may be sold,** but only **by** means of **inclusion.**
+
+**14.**
+*Hebrew/Aramaic:* מִכְּלָל דְּגָדוֹל בְּהַבְלָעָה לָא? מַאי שְׁנָא מֵהָא דְּתַנְיָא: הַלּוֹקֵחַ לוּלָב מֵחֲבֵירוֹ בִּשְׁבִיעִית — נוֹתֵן לוֹ אֶתְרוֹג בְּמַתָּנָה, לְפִי שֶׁאֵינוֹ רַשַּׁאי לְלוֹקְחוֹ בַּשְּׁבִיעִית.
+*Translation:* The Gemara states: One can conclude **by inference** from this *baraita* **that** in the case of an animal tithe offering of **an adult,** i.e., a non-orphan, its meat may **not** be sold even **by** means of **inclusion. What is different** in this case **from that which is taught** in a mishna (*Sukka* 3:11): In the case of **one who purchases a *lulav* from another,** who is an *am ha’aretz*, **during the Sabbatical** Year, the seller **gives him an *etrog*** together with the *lulav* **as a gift, as it is not permitted for one to purchase** the *etrog* **during the Sabbatical** Year, and one may not give the value of Sabbatical-Year produce to an *am ha’aretz*, lest he engage in commerce with it, which is prohibited.
+
+**15.**
+*Hebrew/Aramaic:* וְהָוֵינַן בָּהּ: לֹא רָצָה לִיתֵּן לוֹ בְּמַתָּנָה מַאי? וְאָמַר רַב הוּנָא: מַבְלִיעַ לוֹ דְּמֵי אֶתְרוֹג בַּלּוּלָב!
+*Translation:* The Gemara continues: **And we discussed this** mishna and asked: If the seller **did not want to give him** the *etrog* **as a gift, what** is the *halakha*? How can the buyer receive the *etrog*? **And Rav Huna said:** The seller **includes the value of the *etrog* in** the cost of **the *lulav*.** The buyer should purchase the *lulav* at an elevated price to cover the cost of the *etrog* as well. If inclusion is allowed in the case of the *etrog*, why would it not be permitted in the case of the meat of an animal tithe offering belonging to an adult?
+
+**16.**
+*Hebrew/Aramaic:* הָתָם לָא מוֹכְחָא מִילְּתָא, הָכָא מוֹכְחָא מִילְּתָא.
+*Translation:* The Gemara answers: **There,** in the case of the *etrog*, **the matter is not evident,** whereas **here,** with regard to the meat of an animal tithe offering, **the matter is evident.** The inclusion of the cost of the *etrog* in the elevated cost of the *lulav* is not evident, as it is reasonable that the price of a *lulav* might fluctuate. By contrast, inflating the cost of the negligible parts of the animal tithe offering to include the cost of its expensive meat is obviously an artifice and is therefore not permitted.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אִם כֵּן, ״מַעְשַׂר בְּהֵמָה״ תְּרֵי זִמְנֵי לְמָה לִי? אֶלָּא אָמַר רָבָא: הָכִי קָאָמַר, מַעְשַׂר בְּהֵמָה שֶׁל יְתוֹמִים מוֹכְרִין אוֹתוֹ כְּדַרְכּוֹ, וּמַעְשַׂר בְּהֵמָה דְּגָדוֹל שֶׁשְּׁחָטוֹ מַבְלִיעוֹ בְּעוֹרוֹ בְּחֶלְבּוֹ בְּגִידוֹ וּבְקַרְנָיו.
+*Translation:* **Rava said** to Abaye in response: **If so,** that the *baraita* is referring to only one case, **why do I** need it to use the expression: **Animal tithe** offering, **twice? Rather, Rava said** that the *baraita* is discussing two distinct cases, and **this** is what the *tanna* **is saying:** With regard to the meat of **an animal tithe** offering **of** young **orphans, one may sell it in its** usual **manner, but** in the case of **an animal tithe** offering **belonging to an adult that was slaughtered,** one may sell its meat only by means of **including its** cost **in** the elevated price of the animal’s **hide, its fat, its sinews, and its horns.**
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מְנָא אָמֵינָא לַהּ? דִּכְתִיב: ״וְהָיָה הוּא וּתְמוּרָתוֹ יִהְיֶה קֹדֶשׁ לֹא יִגָּאֵל״.
+*Translation:* **Rava said: From where do I say** that the meat of an animal tithe offering belonging to an adult may be sold by inclusion? **As it is written** with regard to the animal tithe offering: **“Then both it and that for which it is substituted shall be holy; it shall not be redeemed”** (Leviticus 27:33). This indicates that a non-sacred animal designated as a substitute for an animal tithe offering assumes sacred status, while the animal tithe offering retains its sacred status as well. As stated earlier, the phrase “it shall not be redeemed” is interpreted as referring to the prohibition against selling the animal tithe offering. The verse’s juxtaposition of substitution and the prohibition against selling an animal tithe offering indicates a similarity between the two.
+
+**19.**
+*Hebrew/Aramaic:* אֵימָתַי עוֹשֶׂה תְּמוּרָה — מֵחַיִּים, אֵימָתַי אֵינוֹ נִגְאָל — מֵחַיִּים, הָא לְאַחַר שְׁחִיטָה — נִגְאָל, וְרַבָּנַן (ההוא) [הוּא] דִּגְזַרוּ לְאַחַר שְׁחִיטָה, אַטּוּ לִפְנֵי שְׁחִיטָה.
+*Translation:* Rava explains: **When** does an animal tithe offering **render** consecrated as **a substitute** a non-sacred animal for which it is exchanged? Only **when** the animal tithe offering is **alive,** as substitution is invalid after its death. Similarly, **when may** the animal tithe offering **not be redeemed,** i.e., sold? **When** it is **alive.** It may be inferred from here that **it may be redeemed,** i.e., sold, **after** its **slaughter.** This teaches that by Torah law, the meat of an animal tithe offering may be sold once the animal has been slaughtered. **The Sages decreed** that an animal tithe offering may not be sold **after** its **slaughter, due to** the concern that one might sell it **before** its **slaughter.**
+
+**20.**
+*Hebrew/Aramaic:* דָּבָר הַנִּישּׁוֹם מֵחַיִּים — גְּזוּר רַבָּנַן לְאַחַר שְׁחִיטָה אַטּוּ לִפְנֵי שְׁחִיטָה,
+*Translation:* Rava continues: It was only with regard to **an item that is appraised when** the animal is **alive,** i.e., its meat, which gives the animal its primary value, that **the Sages decreed** that it may not be sold even **after** its **slaughter, due to** the concern that one might sell the animal **before** its **slaughter.**

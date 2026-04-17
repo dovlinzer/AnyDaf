@@ -73,6 +73,13 @@ enum class SourceDisplayMode(val displayName: String, val description: String) {
     STACKED("Top & Bottom", "Each paragraph shown as source above translation, scroll through paired paragraphs.")
 }
 
+enum class StudyFontSize(val displayName: String, val spSize: Float, val articleFontPx: Int) {
+    SMALL("Small", 15f, 17),
+    MEDIUM("Medium", 18f, 20),
+    LARGE("Large", 21f, 23),
+    X_LARGE("Extra Large", 26f, 28)
+}
+
 data class GradeResult(
     val isCorrect: Boolean,
     val feedback: String

@@ -1,0 +1,117 @@
+### Hullin 119b
+
+**1.**
+*Hebrew/Aramaic:* שְׁנֵי שׁוֹמְרִין מַהוּ שֶׁיִּצְטָרְפוּ?
+*Translation:* As the Gemara stated, protection joins together with the food to constitute the requisite measure to impart impurity. **What is** the *halakha* with regard to **two protections joining together** with the food to constitute the measure of an egg-bulk required to impart impurity?
+
+**2.**
+*Hebrew/Aramaic:* הֵיכִי דָמֵי? אִילֵּימָא בְּזֶה עַל גַּב זֶה – וּמִי אִיכָּא שׁוֹמֵר עַל גַּב שׁוֹמֵר?
+*Translation:* The Gemara asks: **What are the circumstances** of the dilemma? **If we say** that it is referring to a case **where** a food item has two layers of protection, and **this** outer protection **is on top of that** inner protection, **is** the *halakha* of protection applicable with regard to **protection** that is **on top of** another **protection?**
+
+**3.**
+*Hebrew/Aramaic:* וְהָתְנַן: רַבִּי יְהוּדָה אוֹמֵר: שָׁלֹשׁ קְלִיפּוֹת בְּבָצָל – פְּנִימִית, בֵּין שְׁלֵמָה בֵּין קְדוּרָה – מִצְטָרֶפֶת; אֶמְצָעִית, שְׁלֵמָה – מִצְטָרֶפֶת, קְדוּרָה – אֵין מִצְטָרֶפֶת; חִיצוֹנָה, בֵּין כָּךְ וּבֵין כָּךְ – טְהוֹרָה.
+*Translation:* **But didn’t we learn** in a mishna (*Okatzin* 2:4) that **Rabbi Yehuda says:** There are **three peels** surrounding **an onion.** The **inner** peel is considered like the food itself, and therefore, **whether whole or punctured, it joins together** with the onion to constitute the requisite measure to impart the impurity of food. With regard to the **middle** peel, when it is **whole** it provides protection and therefore **joins together** with the onion, but when it is **punctured** it does not provide protection and therefore **does not join together** with the onion. The **outer** peel does not join together with the onion at all, and **both** in **this** case, when it is whole, **and** in **that** case, when it is punctured, it remains **ritually pure.** Evidently, the *halakha* of protection is not applied to a protection that surrounds another protection.
+
+**4.**
+*Hebrew/Aramaic:* רַב אוֹשַׁעְיָא, שׁוֹמֵר אוֹכֶל שֶׁחִלְּקוֹ קָמִיבַּעְיָא לֵיהּ.
+*Translation:* The Gemara explains the dilemma: **Rav Oshaya** does not raise the dilemma with regard to a food item that has two layers of protection. Rather, he **raises the dilemma** with regard to **protection of food that one divided** such that the food is whole but the protection is divided into separate sections.
+
+**5.**
+*Hebrew/Aramaic:* כֵּיוָן דְּהַאי לָא מַגֵּין אַהַאי, וְהַאי לָא מַגֵּין אַהַאי, לָא מִצְטָרֵף.
+*Translation:* The dilemma is as follows: **Since this** section of the protection is protecting this part of the food but **does not provide protection for that** other part of the food, **and that** other section of the protection is protecting another part of the food but **does not provide protection for this** part of the food, must one conclude that the two protections **do not join together** to constitute the requisite measure for the impurity of food?
+
+**6.**
+*Hebrew/Aramaic:* אוֹ דִלְמָא, כֵּיוָן דְּהַאי מַגֵּין אַדִּידֵיהּ, וְהַאי מַגֵּין אַדִּידֵיהּ, מִצְטָרְפִין.
+*Translation:* **Or perhaps,** should one reason that **since this** section of the protection **provides protection for its** part of the food, **and that** section of the protection **provides protection for its** part of the food, and the two parts of the food are joined together, therefore the entire entity is considered unified and the two sections of the protection **join together** to constitute the requisite measure?
+
+**7.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה מְטַהֵר בְּשֶׁל פּוֹל, וּמְטַמֵּא בְּשֶׁל קִטְנִית, מִפְּנֵי שֶׁרוֹצֶה בְּמִשְׁמֻישָׁן.
+*Translation:* **Come** and **hear** a resolution to the dilemma from that which is taught in a mishna cited previously (*Okatzin* 1:5): **Rabbi Elazar ben Azarya deems** a pod containing **beans** that came in contact with a dead creeping animal **ritually pure. But he deems** a pod containing **legumes** that came in contact with a dead creeping animal **impure because one desires** the use of the pod **when handling** the legumes so that he will not damage them. Since the requisite volume for a food item to be susceptible to impurity is an egg-bulk, and the volume of one pod and its legumes is less than an egg-bulk, this statement must be discussing multiple pods joined together. Evidently, protection of food that is divided into separate sections joins together to constitute the requisite measure to impart impurity.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב אַחָא בְּרֵיהּ דְּרָבָא: בְּקוּלְחָא, וּמִשּׁוּם יָד, וּמַאי ״בְּמִשְׁמֻישָׁן״ – בְּתַשְׁמִישָׁן.
+*Translation:* **Rav Aḥa, son of Rava, said** in rejection of this resolution: That mishna is discussing a case **where** a creeping animal touched **the stalk** to which the pods are attached but not the pods themselves. **And** the *halakha* in that mishna is not referring to the matter of protection; rather, it is **with regard to** the matter of **a handle,** as the stalk serves as a handle for the pod and its attached grain. **And what** does Rabbi Elazar ben Azarya mean when he says that in the case of legumes, the stalk is impure because one desires the use of the stalk **when handling [*bemashmishan*]** the legumes? He is referring **to using [*betashmishan*],** i.e., carrying, the legumes with the stalk.
+
+**9.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: ״עַל כׇּל זֶרַע זֵרוּעַ (אֲשֶׁר יִזָּרֵעַ)״, כְּדֶרֶךְ שֶׁבְּנֵי אָדָם מוֹצִיאִין לִזְרִיעָה – חִטָּה בִּקְלִיפָּתָהּ, וּשְׂעוֹרָה בִּקְלִיפָּתָהּ, וַעֲדָשִׁים בִּקְלִיפָּתָן.
+*Translation:* **Come** and **hear** a resolution from that **which the school of Rabbi Yishmael taught:** With regard to the impurity of food the verse states: **“On any sowing seed that is sown”** (Leviticus 11:37), indicating that the entire seed is susceptible to ritual impurity when it is in a state where it is **typical for people to take it out** to the field **for sowing:** This applies to **wheat in its shell, and barley in its shell, and lentils in their shells.** It is derived from here that shells and other appendages that protect the food join together with the food to constitute the requisite measure to impart impurity. Since the measure of one grain and its shell is less than an egg-bulk, this statement must be discussing multiple grains and their shells joined together. Evidently, protection of food that is divided into separate sections joins together to impart impurity.
+
+**10.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַב אַחָא בְּרֵיהּ דְּרָבָא, בְּקוּלְחָא, וּמִשּׁוּם יָד.
+*Translation:* The Gemara rejects this resolution: One can explain this statement **in accordance with** that **which Rav Aḥa, son of Rava, said** with regard to the statement of Rabbi Elazar ben Azarya that was cited previously: The mishna is discussing a case **where** a creeping animal came in contact with **the stalk** to which the pods are attached but not the pods themselves. **And** therefore, the *halakha* in the mishna is not referring to the matter of protection; rather, it is **with regard to** the matter of **a handle.**
+
+**11.**
+*Hebrew/Aramaic:* הָכָא נָמֵי, בְּשִׁדְרָה, וּמִשּׁוּם שׁוֹמֵר.
+*Translation:* **Here too,** the statement of the school of Rabbi Yishmael is not referring to independent grains of wheat and barley, but rather **to the stem** to which the grains are attached, **and** it is **with regard to** the status of all the shells of the grains on one stem as **protection.** All of the grains surrounding the stem protect each other, since if one shell with its grain falls it causes all of the other shells and their grains to fall as well. Therefore, this case is not similar to Rav Oshaya’s dilemma, where each protection protects only part of the food.
+
+**12.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא עִילִּיָּתָא צְרִיכִי לְתַתָּיָתָא, אֶלָּא תְּתַּיָּתָא מַאי צְרִיכִי לְעִילִּיָּתָא? בְּחַד דָּרָא.
+*Translation:* The Gemara asks: **Granted,** the grains located **higher** on the stem **need** the grains located **lower** on the stem to remain in place in order to not fall. **But** for **what** purpose do the grains located **lower** on the stem **need** the grains located **higher** on the stem? The Gemara answers: The case is one where the grains are all positioned tightly around the stem **in one row** in such a manner that if even one located higher up on the stem were to fall, the remaining grains would fall too.
+
+**13.**
+*Hebrew/Aramaic:* מִי אִיכָּא כְּבֵיצָה אֳכָלִין בְּחַד דָּרָא בְּחִטֵּי דְּשִׁמְעוֹן בֶּן שָׁטַח?
+*Translation:* The Gemara asks: **Is there** a volume of **an egg-bulk of food in one row** of grain? The Gemara answers: Yes, this *baraita* is stated **with regard to** large grains of **wheat,** such as those grown in the time **of Shimon ben Shataḥ.**
+
+**14.**
+*Hebrew/Aramaic:* הַשְׁתָּא דְּאָתֵית לְהָכִי, חֲדָא חִטָּה נָמֵי בְּחִטֵּי דְּשִׁמְעוֹן בֶּן שָׁטַח.
+*Translation:* The Gemara points out: **Now that you have arrived at this** conclusion, it is not necessary to interpret the *baraita* as referring to many grains tightly packed around the stem. It is **even** possible to explain that the *baraita* is discussing the case of **one** grain of **wheat,** such as the large grains of **wheat** grown in the time **of Shimon ben Shataḥ.**
+
+**15.**
+*Hebrew/Aramaic:* גּוּפָא: שְׁנֵי עֲצָמוֹת וַעֲלֵיהֶן שְׁנֵי חֲצָאֵי זֵיתִים, וְהִכְנִיס רָאשֵׁיהֶן שְׁנַיִם לְבַיִת, וְהַבַּיִת מַאֲהִיל עֲלֵיהֶן – הַבַּיִת טָמֵא.
+*Translation:* §The Gemara proceeds to discuss the *Tosefta* **itself** that was cited earlier (118b): In a case of **two bones upon which there are two halves of an olive-bulk** of flesh of a corpse, i.e., half an olive-bulk of flesh is attached to one end of each bone, **and one placed the ends of both** bones that are not directly attached to the flesh **inside the house** in such a manner that **the house overlies those** ends of the bones but not the ends of the bones attached to the flesh, it is considered as though the house is overlying the flesh itself and **the house is impure.**
+
+**16.**
+*Hebrew/Aramaic:* יְהוּדָה בֶּן נָקוֹסָא אוֹמֵר מִשּׁוּם רַבִּי יַעֲקֹב: הֵיאַךְ שְׁנֵי עֲצָמוֹת מִצְטָרְפִין לִכְזַיִת?
+*Translation:* **Yehuda ben Nekosa says in the name of Rabbi Ya’akov: How can two bones join together to** constitute **an olive-bulk** if the flesh attached to each bone is less than the measure of an olive-bulk? It may be inferred from here that according to all, if the end of a bone that is attached to an olive-bulk of flesh is outside the house, and the other end that is not directly attached to any flesh is inside the house, the house becomes impure with the ritual impurity of a corpse.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: לֹא שָׁנוּ אֶלָּא עֶצֶם, דְּהָוֵי יָד, אֲבָל נִימָא לָא הָוְיָא יָד. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ נִימָא נָמֵי הָוְיָא יָד.
+*Translation:* With regard to this matter **Reish Lakish said:** The Sages **taught** this *halakha* **only** with regard to **a bone, as it constitutes a handle** vis-à-vis the flesh, **but** if one **hair** of a corpse is attached to an olive-bulk of flesh at one end, and the other end of the hair is inside a house, it does not render the house impure, because the hair **does not constitute a handle** vis-à-vis the flesh. **And Rabbi Yoḥanan said: Even a hair constitutes a handle** vis-à-vis the flesh, and therefore the house is rendered impure.
+
+**18.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: עוֹר שֶׁיֵּשׁ עָלָיו כְּזַיִת בָּשָׂר, הַנּוֹגֵעַ בְּצִיב הַיּוֹצֵא מִמֶּנּוּ, וּבִשְׂעָרָה שֶׁכְּנֶגְדּוֹ – טָמֵא. מַאי לָאו, מִשּׁוּם יָד?
+*Translation:* **Rabbi Yoḥanan raised an objection to** the opinion of **Reish Lakish** from the mishna taught later (124a): In the case of the **hide** of an unslaughtered animal carcass **upon which there is an olive-bulk of flesh, one who touches a strand** of flesh **emerging from** the flesh, **or** touches **a hair that is** on the side of the hide **opposite** the flesh, **is ritually impure** with the impurity of an unslaughtered carcass, even though he did not touch an olive-bulk of the flesh. **What** is the reason that one who touches the strand of flesh or the hair becomes impure? **Is it not because** they constitute **a handle** for the flesh, contrary to the opinion of Reish Lakish with regard to a hair?
+
+**19.**
+*Hebrew/Aramaic:* לָא, מִשּׁוּם שׁוֹמֵר. וּמִי אִיכָּא שׁוֹמֵר עַל גַּבֵּי שׁוֹמֵר? חַלְחוּלֵי מְחַלְחֵל.
+*Translation:* The Gemara answers: **No,** the ruling of that mishna is not because the hair serves as a handle for the flesh. Rather, it is **because** the hair serves as **protection** for the flesh. The Gemara asks: **But** the hide protects the flesh, and the hair is on top of the hide; **is** the *halakha* of protection applicable with regard to **protection** that is **on top of** another **protection?** The Gemara answers: The hair **penetrates through** the hide and touches the flesh, thereby providing protection directly for the flesh.
+
+**20.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אַחָא בַּר יַעֲקֹב: אֶלָּא מֵעַתָּה, תְּפִילִּין הֵיכִי כָּתְבִינַן? הָא בָּעֵינַן כְּתִיבָה תַּמָּה, וְלֵיכָּא!
+*Translation:* **Rav Aḥa bar Ya’akov objects to this** answer: **If that is so,** that there are perforations in the hide through which the hairs penetrate, **how can we write phylacteries? Don’t we require** phylacteries to be written with **a perfect writing,** with no perforations in the letters? **And** that **is not** possible if there are perforations in the hide.
+
+**21.**
+*Hebrew/Aramaic:* אִשְׁתְּמִיטְתֵּיהּ הָא דְּאָמְרִי בְּמַעְרְבָא: כׇּל נֶקֶב שֶׁהַדְּיוֹ עוֹבֵר עָלָיו – אֵינוֹ נֶקֶב.
+*Translation:* The Gemara answers: Rav Aḥa bar Ya’akov **overlooked that** *halakha* **which they say in the West,** Eretz Yisrael: **Any perforation over which the ink passes** and which it covers **is not** considered **a perforation** that invalidates the writing.
+
+**22.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא, כּוּלֵּיהּ מִשּׁוּם יָד, כִּדְאָמַר רַבִּי אִלְעָא: בִּמְלַאי שֶׁבֵּין הַמְּלָאִים.
+*Translation:* **And if you wish, say** instead a different answer to Rabbi Yoḥanan’s objection to Reish Lakish: **The entire** mishna teaches that one who touches either a strand of flesh or a hair becomes impure **because** these appendages serve the flesh as **a handle** and not as protection. Nevertheless, that statement does not contradict the opinion of Reish Lakish that a hair does not constitute a handle for the flesh, because one can explain this mishna **as Rabbi Ela stated** with regard to a different mishna: It is stated **with regard to** the case of **an awn among** many **awns.**
+
+**23.**
+*Hebrew/Aramaic:* הָכִי נָמֵי, בְּנִימָא שֶׁבֵּין הַנִּימִין.
+*Translation:* **So too,** the mishna taught later is stated **with regard to** the case of **a hair among** many **hairs** and not the case of a single hair. Therefore, the hair constitutes a handle for the flesh because one can hold the hair and lift the flesh without the hair becoming detached.
+
+**24.**
+*Hebrew/Aramaic:* וְהֵיכָא אִתְּמַר דְּרַבִּי אִלְעָא? אַהָא: מְלַאי שֶׁבַּשִּׁבֳּלִים מִיטַּמְּאִין וּמְטַמְּאִין, וְאֵינָן מִצְטָרְפִין. מְלַאי לְמַאי חֲזֵי? אָמַר רַבִּי אִלְעַאי: בִּמְלַאי שֶׁבֵּין הַמְּלָאִים.
+*Translation:* **And where was** the opinion **of Rabbi Ela stated?** It was stated **with regard to that** which is taught in a mishna (*Okatzin* 1:3): **An awn [*melai*] that is on top of a stalk** constitutes a handle for the stalk. Therefore, **it can become impure and impart impurity, but it does not join together** with the grains to constitute the requisite measure to impart impurity. It was asked: **For what** function **is an awn fit** such that it is considered to be a handle for the stalk? **Rabbi Ilai,** i.e., Rabbi Ela, **said:** That mishna is stated **with regard to** the case of **an awn among** many **awns** and not the case of a single awn. Therefore, the awns constitute a handle for the stalk because one can hold the awns and lift the stalk without the awns becoming detached from it.
+
+**25.**
+*Hebrew/Aramaic:* לִישָּׁנָא אַחֲרִינָא אָמְרִי לַהּ.
+*Translation:* **Some say another version** of this dispute between Rabbi Yoḥanan and Reish Lakish and the ensuing discussion with regard to the status of hairs vis-à-vis the flesh: Rabbi Yoḥanan and Reish Lakish agree that a single hair does not constitute a handle vis-à-vis the flesh connected to it, but they disagree with regard to several hairs. Rabbi Yoḥanan raises an objection to Reish Lakish’s opinion that hair is not considered a handle from the mishna taught later, which states that one who touches a hair emerging from the hide of an animal carcass opposite the flesh is impure, indicating that hair constitutes a handle.
+
+**26.**
+*Hebrew/Aramaic:* הָכִי נָמֵי מִסְתַּבְּרָא, דְּמִשּׁוּם שׁוֹמֵר, דְּאִי סָלְקָא דַּעְתָּךְ מִשּׁוּם יָד – נִימָא אַחַת לְמַאי חֲזֵי?
+*Translation:* Reish Lakish answers that one who touches the hair is impure not because it is considered a handle, but rather because it is considered protection for the flesh. The Gemara adds: **So too it is reasonable** to explain that the person is impure **because** hair is considered **protection** and not because it is considered a handle, **as, if it enters your mind** that it is **because** hair is considered **a handle, for what** function **is one hair fit** such that it is considered a handle?
+
+**27.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַבִּי אִלְעָא: בִּמְלַאי שֶׁבֵּין הַמְּלָאִין, הָכָא נָמֵי – בְּנִימָא שֶׁבֵּין הַנִּימִין.
+*Translation:* The Gemara responds: One can explain that that mishna considers hair to constitute a handle, **as Rabbi Ela stated** in explanation of a different mishna: It is stated **with regard to** the case of **an awn among** many **awns. Here too,** that mishna is stated **with regard to** the case of **a hair among** many **hairs** and not the case of a single hair.
+
+**28.**
+*Hebrew/Aramaic:* וְהֵיכָא אִיתְּמַר דְּרַבִּי אִלְעַאי? אַהָא דִּתְנַן: הַמְּלַאי שֶׁבַּשִּׁבֳּלִים מִיטַּמְּאִין וּמְטַמְּאִין וְאֵין מִצְטָרְפִין. מְלַאי לְמַאי חֲזֵי? אָמַר רַבִּי אִלְעַאי: בִּמְלַאי שֶׁבֵּין הַמְּלָאִים.
+*Translation:* **And where was** the opinion **of Rabbi Ela stated?** It was stated **with regard to that which we learned** in a mishna: **An awn that is on top of a stalk can become impure and impart impurity, but it does not join together** with the grains to constitute the requisite measure to impart impurity. It was asked: **For what** function **is an awn fit** such that it is considered to be a handle for the stalk? **Rabbi Ilai said:** That mishna is stated **with regard to** the case of **an awn among** many **awns.**
+
+**29.**
+*Hebrew/Aramaic:* וְאִיכָּא דְּמַתְנֵי לַהּ
+*Translation:* **And there are** those **who teach** another version of this dispute between Rabbi Yoḥanan and Reish Lakish,

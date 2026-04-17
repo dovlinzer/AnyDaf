@@ -1,5 +1,11 @@
 import SwiftUI
 
+/// Which content the iPad right column displays when study mode is not active.
+private enum IPadRightPanel: String {
+    case shiur = "shiur"
+    case study = "study"
+}
+
 struct ContentView: View {
     @StateObject private var feedManager = FeedManager()
     @StateObject private var audioPlayer = AudioPlayer()
@@ -28,11 +34,18 @@ struct ContentView: View {
     /// Prevents looping: only one automatic feed-refresh per play attempt.
     @State private var hasAutoRefreshedForAudio = false
     /// Podcasts-style tap feedback: press-down + expanding halo ring.
-    /// rippleP is a 0→1 progress value where 1 = end state (transparent, invisible at rest).
     @State private var backSkipPressed  = false
-    @State private var backRippleP: Double = 1   // rests at 1 (opacity 0, invisible)
+    @State private var backRippleP: Double = 1
     @State private var fwdSkipPressed   = false
     @State private var fwdRippleP: Double  = 1
+
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+
+    /// iPad split divider position — fraction of total width given to the left (daf) column.
+    @State private var splitFraction: CGFloat = 0.5
+    @GestureState private var splitDragOffset: CGFloat = 0
+    /// iPad right-panel mode — persisted so the user's preference is remembered.
+    @AppStorage("iPadRightPanel") private var iPadRightPanel: IPadRightPanel = .shiur
 
     var tractate: Tractate { allTractates[selectedTractateIndex] }
 
@@ -55,338 +68,12 @@ struct ContentView: View {
 
     var body: some View {
         NavigationStack {
-            VStack(spacing: 0) {
-
-                // ── Pickers: hidden during study mode (study view uses full space) ──
-                if !showStudyMode {
-                HStack(alignment: .center, spacing: 0) {
-
-                    // Tractate picker
-                    Picker("Tractate", selection: $selectedTractateIndex) {
-                        ForEach(allTractates.indices, id: \.self) { i in
-                            Text(allTractates[i].name).tag(i)
-                        }
-                    }
-                    .pickerStyle(.wheel)
-                    .frame(maxWidth: .infinity)
-                    .frame(height: 100)
-                    .clipped()
-
-                    // Daf picker
-                    Picker("Daf", selection: $selectedDaf) {
-                        ForEach(dafPickerItems, id: \.self) { daf in
-                            Text(FeedManager.dafLabel(daf)).tag(daf)
-                        }
-                    }
-                    .pickerStyle(.wheel)
-                    .frame(width: 70)
-                    .frame(height: 100)
-                    .clipped()
+            Group {
+                if horizontalSizeClass == .regular {
+                    iPadLayout
+                } else {
+                    iPhoneLayout
                 }
-                .colorScheme(.light)   // force dark labels on the white picker background
-                .background(
-                    RoundedRectangle(cornerRadius: 14)
-                        .fill(Color.white)
-                        .shadow(color: .black.opacity(0.35), radius: 6, x: 0, y: 3)
-                )
-                .padding(.horizontal, 20)
-                .padding(.top, 8)
-                .onChange(of: selectedTractateIndex) { _, _ in
-                    if suppressTractateReset {
-                        suppressTractateReset = false
-                    } else {
-                        selectedDaf = Double(tractate.startDaf)
-                        imageDaf = tractate.startDaf
-                        imageSide = tractate.startAmud
-                        selectedSide = tractate.startAmud
-                        // Don't stop audio — if playing/paused, let it continue; if already stopped, no-op.
-                    }
-                }
-                .onChange(of: selectedDaf) { _, newVal in
-                    imageDaf = Int(newVal)
-                    let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
-                    let side: Int
-                    if isHalf {
-                        side = 1  // half-daf entries are always b-side
-                    } else {
-                        side = (newVal == Double(tractate.startDaf)) ? tractate.startAmud : 0
-                    }
-                    imageSide = side
-                    selectedSide = side
-                    // Don't stop audio — if playing/paused, keep it going; play button will load the new daf when stopped.
-                }
-                } // end if !showStudyMode (pickers)
-
-                // ── Daf page / Study mode: fills available space ─────────────
-                ZStack {
-                    if !showStudyMode {
-                        VStack(spacing: 0) {
-                            // Daf / Shiur toggle — visible only when lecture text is available
-                            if shiurClient.shiurRewrite != nil {
-                                Picker("View", selection: $showShiurText) {
-                                    Text("Daf").tag(false)
-                                    Text("Shiur").tag(true)
-                                }
-                                .pickerStyle(.segmented)
-                                .padding(.horizontal, 20)
-                                .padding(.vertical, 6)
-                                .colorScheme(useWhiteBackground ? .light : .dark)
-                            }
-
-                            let shiurDisplayText = shiurShowSources
-                                ? (shiurClient.shiurFinal ?? shiurClient.shiurRewrite)
-                                : shiurClient.shiurRewrite
-                            if showShiurText, let text = shiurDisplayText {
-                                ShiurTextView(
-                                    rewriteText: text,
-                                    currentSegmentIndex: shiurClient.currentSegmentIndex,
-                                    foreground: appFg,
-                                    useWhiteBackground: useWhiteBackground
-                                )
-                                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                            } else if pageManager.hasPages(for: tractate.name) {
-                                DafPageView(
-                                    tractate: tractate,
-                                    daf: $imageDaf,
-                                    displaySide: $imageSide,
-                                    selectedSide: $selectedSide,
-                                    pageManager: pageManager
-                                )
-                                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                .onLongPressGesture {
-                                    showBookmarkEdit = true
-                                }
-                            } else {
-                                Spacer()
-                            }
-                        }
-                    } else {
-                        StudyModeView(
-                            manager: studyManager,
-                            readAloudManager: readAloudManager,
-                            onDismiss: {
-//                                readAloudManager.stopReadAloud() // Read-Aloud (commented out)
-                                withAnimation(.easeInOut(duration: 0.5)) {
-                                    showStudyMode = false
-                                }
-                                studyManager.endSession()
-                            }
-                        )
-                        .frame(maxWidth: .infinity, maxHeight: .infinity)
-                        // Counter-rotate so text isn't mirrored after flip
-                        .rotation3DEffect(
-                            .degrees(180),
-                            axis: (x: 0, y: 1, z: 0)
-                        )
-                    }
-                }
-                .rotation3DEffect(
-                    .degrees(showStudyMode ? 180 : 0),
-                    axis: (x: 0, y: 1, z: 0)
-                )
-                .animation(.easeInOut(duration: 0.6), value: showStudyMode)
-
-                // ── Bottom controls: hidden during study mode ─────────────────
-                if !showStudyMode {
-                VStack(spacing: 0) {
-                    Spacer().frame(height: 6)
-
-                    if audioPlayer.isBuffering || feedManager.isLoading {
-                        // ── Loading ──────────────────────────────────────────────
-                        HStack(spacing: 0) {
-                            Spacer()
-                            ProgressView().frame(width: 38, height: 38)
-                            Spacer()
-                            studyButtonView
-                            Spacer(minLength: 8)
-                        }
-                        .padding(.vertical, 8)
-
-                    } else if audioPlayer.isStopped {
-                        // ── Stopped: Listen (left) + Study (right) ───────────────
-                        HStack(spacing: 0) {
-                            Spacer()
-                            VStack(spacing: 4) {
-                                Button {
-                                    if let url = currentAudioURL {
-                                        hasAutoRefreshedForAudio = false
-                                        audioPlayer.play(
-                                            url: url,
-                                            title: "\(tractate.name) \(FeedManager.dafLabel(selectedDaf))")
-                                    }
-                                } label: {
-                                    Image(systemName: "play.circle.fill")
-                                        .font(.system(size: 38))
-                                        .foregroundStyle(canPlay
-                                                         ? appFg
-                                                         : appFg.opacity(0.3))
-                                }
-                                .disabled(!canPlay)
-                                Text("Listen")
-                                    .font(.caption2)
-                                    .foregroundStyle(appFg.opacity(0.7))
-                            }
-                            Spacer()
-                            studyButtonView
-                            Spacer()
-                        }
-                        .padding(.vertical, 8)
-
-                    } else {
-                        // ── Playing / paused ─────────────────────────────────────
-                        VStack(spacing: 2) {
-                            // Full-width progress bar
-                            Slider(
-                                value: Binding(
-                                    get: { audioPlayer.duration > 0
-                                        ? audioPlayer.currentTime / audioPlayer.duration : 0 },
-                                    set: { audioPlayer.seek(to: $0) }
-                                )
-                            )
-                            .padding(.horizontal)
-                            .onChange(of: audioPlayer.currentTime) { _, newTime in
-                                shiurClient.updateCurrentSegment(currentTime: newTime)
-                            }
-
-                            // Chapter markers strip — only shown when segments are available
-                            if !shiurClient.segments.isEmpty && audioPlayer.duration > 0 {
-                                chapterStrip
-                            }
-
-                            // Playback controls row: elapsed | [⏪ ▶/⏸ ⏩ ⏹] | speed | total
-                            HStack(alignment: .center, spacing: 0) {
-                                Text(formatTime(audioPlayer.currentTime))
-                                    .font(.caption.monospacedDigit())
-                                    .foregroundStyle(appFg.opacity(0.7))
-                                    .padding(.leading)
-
-                                Spacer()
-
-                                HStack(spacing: 8) {
-                                    ZStack {
-                                        Circle()
-                                            .stroke(appFg.opacity(0.45 * (1.0 - backRippleP)),
-                                                    lineWidth: 1.5)
-                                            .scaleEffect(1.0 + CGFloat(backRippleP) * 0.5)
-                                            .frame(width: 38, height: 38)
-                                        Image(systemName: "gobackward.30")
-                                            .font(.system(size: 24))
-                                            .foregroundStyle(canSkip
-                                                             ? appFg.opacity(0.8)
-                                                             : appFg.opacity(0.3))
-                                            .scaleEffect(backSkipPressed ? 0.82 : 1.0)
-                                            .animation(.spring(response: 0.15, dampingFraction: 0.5),
-                                                       value: backSkipPressed)
-                                    }
-                                    .onTapGesture {
-                                        guard canSkip else { return }
-                                        audioPlayer.skip(by: -30)
-                                        backSkipPressed = true
-                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
-                                            backSkipPressed = false
-                                        }
-                                        backRippleP = 0
-                                        DispatchQueue.main.async {
-                                            withAnimation(.easeOut(duration: 0.4)) { backRippleP = 1 }
-                                        }
-                                    }
-
-                                    Button {
-                                        audioPlayer.togglePlayPause()
-                                    } label: {
-                                        Image(systemName: audioPlayer.isPlaying
-                                              ? "pause.circle.fill"
-                                              : "play.circle.fill")
-                                            .font(.system(size: 38))
-                                            .foregroundStyle(appFg)
-                                    }
-
-                                    ZStack {
-                                        Circle()
-                                            .stroke(appFg.opacity(0.45 * (1.0 - fwdRippleP)),
-                                                    lineWidth: 1.5)
-                                            .scaleEffect(1.0 + CGFloat(fwdRippleP) * 0.5)
-                                            .frame(width: 38, height: 38)
-                                        Image(systemName: "goforward.30")
-                                            .font(.system(size: 24))
-                                            .foregroundStyle(canSkip
-                                                             ? appFg.opacity(0.8)
-                                                             : appFg.opacity(0.3))
-                                            .scaleEffect(fwdSkipPressed ? 0.82 : 1.0)
-                                            .animation(.spring(response: 0.15, dampingFraction: 0.5),
-                                                       value: fwdSkipPressed)
-                                    }
-                                    .onTapGesture {
-                                        guard canSkip else { return }
-                                        audioPlayer.skip(by: 30)
-                                        fwdSkipPressed = true
-                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
-                                            fwdSkipPressed = false
-                                        }
-                                        fwdRippleP = 0
-                                        DispatchQueue.main.async {
-                                            withAnimation(.easeOut(duration: 0.4)) { fwdRippleP = 1 }
-                                        }
-                                    }
-
-                                    Button {
-                                        audioPlayer.stop()
-                                    } label: {
-                                        Image(systemName: "stop.circle.fill")
-                                            .font(.system(size: 38))
-                                            .foregroundStyle(appFg)
-                                    }
-                                    .padding(.leading, 14)
-                                }
-
-                                Spacer()
-
-                                Menu {
-                                    ForEach([Float(0.5), 0.75, 1.0, 1.25, 1.5, 1.75, 2.0], id: \.self) { rate in
-                                        Button {
-                                            audioPlayer.setRate(rate)
-                                        } label: {
-                                            if rate == audioPlayer.playbackRate {
-                                                Label(formatSpeed(rate), systemImage: "checkmark")
-                                            } else {
-                                                Text(formatSpeed(rate))
-                                            }
-                                        }
-                                    }
-                                } label: {
-                                    Text(formatSpeed(audioPlayer.playbackRate))
-                                        .font(.caption.monospacedDigit().bold())
-                                        .foregroundStyle(appFg)
-                                        .padding(.horizontal, 7)
-                                        .padding(.vertical, 3)
-                                        .background(Capsule().fill(appFg.opacity(0.25)))
-                                }
-                                .padding(.trailing, 10)
-
-                                Text(formatTime(audioPlayer.duration))
-                                    .font(.caption.monospacedDigit())
-                                    .foregroundStyle(appFg.opacity(0.7))
-                                    .padding(.trailing)
-                            }
-
-                            // Study button — centered, with extra space below the controls row
-                            studyButtonView
-                                .frame(maxWidth: .infinity, alignment: .center)
-                                .padding(.top, 20)
-                        }
-                        .padding(.bottom, 2)
-                    }
-
-                    // "No episode" notice
-                    if !feedManager.isLoading && feedManager.hasIndex && currentAudioURL == nil {
-                        Text("No audio episode found for this daf")
-                            .font(.caption2)
-                            .foregroundStyle(appFg.opacity(0.7))
-                    }
-
-                    Spacer().frame(height: 6)
-                }
-                } // end if !showStudyMode (bottom controls)
             }
             .background(appBg)
             .navigationTitle("AnyDaf")
@@ -395,7 +82,8 @@ struct ContentView: View {
             .toolbarBackground(.visible, for: .navigationBar)
             .toolbarColorScheme(useWhiteBackground ? .light : .dark, for: .navigationBar)
             .toolbar {
-                if !showStudyMode {
+                // On iPad, always show toolbar — study mode is a side panel, not full-screen.
+                if !showStudyMode || horizontalSizeClass == .regular {
                     ToolbarItem(placement: .topBarLeading) {
                         Image(systemName: "gearshape")
                             .foregroundStyle(appFg)
@@ -475,39 +163,50 @@ struct ContentView: View {
         }
         .onAppear {
             imageDaf = Int(selectedDaf)
-            // Read-Aloud (commented out — re-enable when ready)
-//            readAloudManager.studyManager = studyManager
-//            readAloudManager.audioPlayer  = audioPlayer
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
+            // iPad: if last session was in study mode, auto-start the study panel on launch
+            if horizontalSizeClass == .regular && iPadRightPanel == .study {
+                Task {
+                    await studyManager.startSession(
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                }
+            }
         }
         .onChange(of: selectedDaf) { _, newDaf in
-            // Don't swap segments while audio is playing a different daf.
             guard audioPlayer.isStopped else { return }
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: newDaf) }
+            if horizontalSizeClass == .regular && iPadRightPanel == .study {
+                Task {
+                    await studyManager.startSession(
+                        tractate: tractate.name, daf: Int(newDaf), mode: .facts, quizMode: quizMode)
+                }
+            }
         }
         .onChange(of: selectedTractateIndex) { _, _ in
             guard audioPlayer.isStopped else { return }
             shiurClient.reset()
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
+            if horizontalSizeClass == .regular && iPadRightPanel == .study {
+                Task {
+                    await studyManager.startSession(
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                }
+            }
         }
         .onChange(of: audioPlayer.isStopped) { _, isStopped in
-            // When audio stops, sync segments to whatever daf the picker is now showing.
             guard isStopped else { return }
             shiurClient.reset()
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
         }
         .onChange(of: shiurClient.shiurRewrite) { _, newValue in
-            // If the new daf has no shiur text, fall back to Daf view automatically.
             if newValue == nil { showShiurText = false }
+            // Panel selection persists across dafs; iPadRightContent shows placeholder when nil.
         }
         .onChange(of: audioPlayer.resolutionFailed) { _, failed in
-            // When SoundCloud resolution fails, silently refresh the episode index and retry once.
-            // A fresh fetch often converts soundcloud-track:// stubs into direct RSS MP3 URLs.
             guard failed, !hasAutoRefreshedForAudio else { return }
             hasAutoRefreshedForAudio = true
             Task {
                 await feedManager.forceRefresh()
-                // Re-look up the URL — it may now be a direct MP3 from the RSS feed
                 if let url = feedManager.audioURL(tractate: tractate.name, daf: selectedDaf) {
                     audioPlayer.play(url: url, title: "\(tractate.name) \(FeedManager.dafLabel(selectedDaf))")
                 }
@@ -515,6 +214,569 @@ struct ContentView: View {
         }
         .task {
             await feedManager.refreshIfNeeded()
+        }
+    }
+
+    // MARK: - iPad Two-Column Layout
+
+    private var iPadLayout: some View {
+        GeometryReader { geo in
+            let totalWidth = geo.size.width
+            let dividerWidth: CGFloat = 24
+            let contentWidth = totalWidth - dividerWidth
+            let rawFraction = splitFraction + splitDragOffset / contentWidth
+            let clampedFraction = max(0.3, min(0.7, rawFraction))
+            let leftWidth = contentWidth * clampedFraction
+            let isPortrait = geo.size.height > geo.size.width
+            let portraitTopPad: CGFloat = isPortrait ? 20 : 0
+
+            // Compute image height so audio sits right below the image rather than
+            // being pinned to the bottom of a fixed section (visible gap in portrait).
+            // Daf pages are ~A4 ratio (height ≈ width × 1.41). Cap at available space
+            // so the image never overflows in landscape.
+            let dafImageAspect: CGFloat = 1.41       // height / width
+            let pickerH: CGFloat = 80                // wheel picker row (76pt + 4pt top pad)
+            let amudH: CGFloat = 40                  // segmented amud picker
+            let audioH: CGFloat = 120                // fixed audio section
+            let overhead = portraitTopPad + pickerH + 10 + amudH + audioH
+            let naturalImageH = leftWidth * dafImageAspect
+            let imageHeight = min(naturalImageH, max(10, geo.size.height - overhead))
+
+            HStack(spacing: 0) {
+                // Left column: daf selector → amud picker → image → audio (→ spacer)
+                VStack(spacing: 0) {
+                    Spacer().frame(height: portraitTopPad)
+                    pickerRow
+                    Spacer().frame(height: 10)
+
+                    // Amud picker + daf image as one visual unit
+                    iPadAmudPicker
+                    dafOnlyView
+                        .frame(width: leftWidth, height: imageHeight)
+
+                    // Audio controls sit directly below the image
+                    bottomControls
+                        .frame(height: audioH)
+
+                    Spacer(minLength: 0)  // absorbs remaining space at the bottom
+                }
+                .frame(width: leftWidth)
+
+                // Drag handle
+                ZStack {
+                    Rectangle()
+                        .fill(appFg.opacity(0.18))
+                        .frame(width: 1)
+                    VStack(spacing: 5) {
+                        ForEach(0..<3, id: \.self) { _ in
+                            Circle()
+                                .fill(appFg.opacity(0.45))
+                                .frame(width: 5, height: 5)
+                        }
+                    }
+                    .padding(.vertical, 10)
+                    .padding(.horizontal, 8)
+                    .background(
+                        Capsule()
+                            .fill(appBg.opacity(0.9))
+                            .shadow(color: .black.opacity(0.25), radius: 3, x: 0, y: 1)
+                    )
+                }
+                .frame(width: dividerWidth)
+                .contentShape(Rectangle())
+                .gesture(
+                    DragGesture(minimumDistance: 0)
+                        .updating($splitDragOffset) { value, state, _ in
+                            state = value.translation.width
+                        }
+                        .onEnded { value in
+                            let newFraction = splitFraction + value.translation.width / contentWidth
+                            splitFraction = max(0.3, min(0.7, newFraction))
+                        }
+                )
+
+                // Right column: Shiur/Study picker always anchored at top + content below
+                VStack(spacing: 0) {
+                    Spacer().frame(height: portraitTopPad)
+                    Picker("Right Panel", selection: $iPadRightPanel) {
+                        Text("Shiur").tag(IPadRightPanel.shiur)
+                        Text("Study").tag(IPadRightPanel.study)
+                    }
+                    .pickerStyle(.segmented)
+                    .padding(.horizontal, 16)
+                    .padding(.vertical, 8)
+                    .colorScheme(useWhiteBackground ? .light : .dark)
+                    .onChange(of: iPadRightPanel) { _, newPanel in
+                        if newPanel == .study {
+                            Task {
+                                await studyManager.startSession(
+                                    tractate: tractate.name, daf: Int(selectedDaf),
+                                    mode: .facts, quizMode: quizMode)
+                            }
+                        }
+                    }
+                    ZStack {
+                        if iPadRightPanel == .study {
+                            studyModeContent
+                                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                .transition(.asymmetric(
+                                    insertion: .move(edge: .trailing).combined(with: .opacity),
+                                    removal:   .move(edge: .trailing).combined(with: .opacity)
+                                ))
+                        } else {
+                            iPadRightContent
+                                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                .transition(.asymmetric(
+                                    insertion: .move(edge: .leading).combined(with: .opacity),
+                                    removal:   .move(edge: .leading).combined(with: .opacity)
+                                ))
+                        }
+                    }
+                    .animation(.easeInOut(duration: 0.35), value: iPadRightPanel)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                }
+                .frame(maxWidth: .infinity)
+            }
+        }
+    }
+
+    /// Amud a/b segmented picker for the iPad left column — sits between the daf selectors and the image.
+    private var iPadAmudPicker: some View {
+        Picker("Amud", selection: $selectedSide) {
+            Text("Amud א (a)").tag(0)
+            Text("Amud ב (b)").tag(1)
+        }
+        .pickerStyle(.segmented)
+        .padding(.horizontal, 20)
+        .padding(.vertical, 4)
+        .frame(maxWidth: 400)
+        .frame(maxWidth: .infinity)
+        .colorScheme(useWhiteBackground ? .light : .dark)
+        .onChange(of: selectedSide) { _, newVal in imageSide = newVal }
+    }
+
+    /// Daf page only — no shiur toggle (iPad left column; shiur lives in the right column).
+    @ViewBuilder private var dafOnlyView: some View {
+        if pageManager.hasPages(for: tractate.name) {
+            DafPageView(
+                tractate: tractate,
+                daf: $imageDaf,
+                displaySide: $imageSide,
+                selectedSide: $selectedSide,
+                pageManager: pageManager
+            )
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .onLongPressGesture {
+                showBookmarkEdit = true
+            }
+        } else {
+            Spacer()
+        }
+    }
+
+    /// Right column shiur panel — only rendered when iPadRightPanel == .shiur.
+    @ViewBuilder private var iPadRightContent: some View {
+        if let text = shiurDisplayText {
+            VStack(spacing: 0) {
+                // Shiur header — tractate + daf (no a/b, since shiur covers the full daf)
+                Text("\(tractate.name) \(Int(selectedDaf))")
+                    .font(.headline)
+                    .foregroundStyle(appFg)
+                    .padding(.horizontal)
+                    .padding(.vertical, 10)
+                ShiurTextView(
+                    rewriteText: text,
+                    currentSegmentIndex: shiurClient.currentSegmentIndex,
+                    foreground: appFg,
+                    useWhiteBackground: useWhiteBackground
+                )
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+        } else {
+            VStack(spacing: 16) {
+                Spacer()
+                Image(systemName: "book.closed")
+                    .font(.system(size: 44))
+                    .foregroundStyle(appFg.opacity(0.15))
+                Text("No written shiur available on this daf")
+                    .font(.callout)
+                    .foregroundStyle(appFg.opacity(0.3))
+                    .multilineTextAlignment(.center)
+                Spacer()
+            }
+            .frame(maxWidth: .infinity)
+        }
+    }
+
+    // MARK: - iPhone Layout (existing full-screen flip behaviour)
+
+    private var iPhoneLayout: some View {
+        VStack(spacing: 0) {
+            if !showStudyMode { pickerRow }
+
+            ZStack {
+                if !showStudyMode {
+                    dafAndShiurView
+                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                } else {
+                    studyModeContent
+                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                        .rotation3DEffect(
+                            .degrees(180),
+                            axis: (x: 0, y: 1, z: 0)
+                        )
+                }
+            }
+            .rotation3DEffect(
+                .degrees(showStudyMode ? 180 : 0),
+                axis: (x: 0, y: 1, z: 0)
+            )
+            .animation(.easeInOut(duration: 0.6), value: showStudyMode)
+
+            if !showStudyMode { bottomControls }
+        }
+    }
+
+    // MARK: - Picker Row
+
+    @ViewBuilder private var pickerRow: some View {
+        HStack(alignment: .center, spacing: 0) {
+
+            Picker("Tractate", selection: $selectedTractateIndex) {
+                ForEach(allTractates.indices, id: \.self) { i in
+                    Text(allTractates[i].name)
+                        .font(horizontalSizeClass == .regular ? .body : .subheadline)
+                        .tag(i)
+                }
+            }
+            .pickerStyle(.wheel)
+            .frame(maxWidth: .infinity)
+            .frame(height: 76)
+            .clipped()
+
+            Picker("Daf", selection: $selectedDaf) {
+                ForEach(dafPickerItems, id: \.self) { daf in
+                    Text(FeedManager.dafLabel(daf))
+                        .font(horizontalSizeClass == .regular ? .body : .subheadline)
+                        .tag(daf)
+                }
+            }
+            .pickerStyle(.wheel)
+            .frame(width: 70)
+            .frame(height: 76)
+            .clipped()
+        }
+        .colorScheme(.light)
+        .background(
+            RoundedRectangle(cornerRadius: 14)
+                .fill(Color.white)
+                .shadow(color: .black.opacity(0.35), radius: 6, x: 0, y: 3)
+        )
+        .padding(.horizontal, 20)
+        .padding(.top, 4)
+        // On iPad, cap picker card width and center it
+        .frame(maxWidth: horizontalSizeClass == .regular ? 520 : .infinity)
+        .frame(maxWidth: .infinity)
+        .onChange(of: selectedTractateIndex) { _, _ in
+            if suppressTractateReset {
+                suppressTractateReset = false
+            } else {
+                selectedDaf = Double(tractate.startDaf)
+                imageDaf = tractate.startDaf
+                imageSide = tractate.startAmud
+                selectedSide = tractate.startAmud
+            }
+        }
+        .onChange(of: selectedDaf) { _, newVal in
+            imageDaf = Int(newVal)
+            let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
+            let side: Int
+            if isHalf {
+                side = 1
+            } else {
+                side = (newVal == Double(tractate.startDaf)) ? tractate.startAmud : 0
+            }
+            imageSide = side
+            selectedSide = side
+        }
+    }
+
+    private var shiurDisplayText: String? {
+        shiurShowSources
+            ? (shiurClient.shiurFinal ?? shiurClient.shiurRewrite)
+            : shiurClient.shiurRewrite
+    }
+
+    // MARK: - Daf / Shiur Content (iPhone — on iPad the toggle lives in the right column)
+
+    @ViewBuilder private var dafAndShiurView: some View {
+        VStack(spacing: 0) {
+            // Daf / Shiur toggle — visible only when lecture text is available
+            if shiurClient.shiurRewrite != nil {
+                Picker("View", selection: $showShiurText) {
+                    Text("Daf").tag(false)
+                    Text("Shiur").tag(true)
+                }
+                .pickerStyle(.segmented)
+                .padding(.horizontal, 20)
+                .padding(.vertical, 6)
+                .colorScheme(useWhiteBackground ? .light : .dark)
+                .frame(maxWidth: .infinity)
+            }
+
+            if showShiurText, let text = shiurDisplayText {
+                ShiurTextView(
+                    rewriteText: text,
+                    currentSegmentIndex: shiurClient.currentSegmentIndex,
+                    foreground: appFg,
+                    useWhiteBackground: useWhiteBackground
+                )
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+            } else if pageManager.hasPages(for: tractate.name) {
+                DafPageView(
+                    tractate: tractate,
+                    daf: $imageDaf,
+                    displaySide: $imageSide,
+                    selectedSide: $selectedSide,
+                    pageManager: pageManager
+                )
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .onLongPressGesture {
+                    showBookmarkEdit = true
+                }
+            } else {
+                Spacer()
+            }
+        }
+    }
+
+    // MARK: - Study Mode Content
+
+    @ViewBuilder private var studyModeContent: some View {
+        StudyModeView(
+            manager: studyManager,
+            readAloudManager: readAloudManager,
+            onDismiss: {
+                if horizontalSizeClass == .regular {
+                    // iPad: Back switches to shiur panel if available; otherwise stays in study
+                    if shiurClient.shiurRewrite != nil {
+                        withAnimation(.easeInOut(duration: 0.35)) { iPadRightPanel = .shiur }
+                    }
+                } else {
+                    withAnimation(.easeInOut(duration: 0.5)) { showStudyMode = false }
+                    studyManager.endSession()
+                }
+            }
+        )
+    }
+
+    // MARK: - Bottom Controls (audio player)
+
+    @ViewBuilder private var bottomControls: some View {
+        VStack(spacing: 0) {
+            if horizontalSizeClass != .regular {
+                Spacer().frame(height: 6)
+            }
+
+            if audioPlayer.isBuffering || feedManager.isLoading {
+                // ── Loading ──────────────────────────────────────────────
+                HStack(spacing: 0) {
+                    Spacer()
+                    ProgressView().frame(width: 38, height: 38)
+                    Spacer()
+                    if horizontalSizeClass != .regular {
+                        studyButtonView
+                        Spacer(minLength: 8)
+                    }
+                }
+                .padding(.vertical, 8)
+
+            } else if audioPlayer.isStopped {
+                // ── Stopped: Listen + (on iPhone) Study button ───────────
+                HStack(spacing: 0) {
+                    Spacer()
+                    VStack(spacing: 4) {
+                        Button {
+                            if let url = currentAudioURL {
+                                hasAutoRefreshedForAudio = false
+                                audioPlayer.play(
+                                    url: url,
+                                    title: "\(tractate.name) \(FeedManager.dafLabel(selectedDaf))")
+                            }
+                        } label: {
+                            Image(systemName: "play.circle.fill")
+                                .font(.system(size: 38))
+                                .foregroundStyle(canPlay
+                                                 ? appFg
+                                                 : appFg.opacity(0.3))
+                        }
+                        .disabled(!canPlay)
+                        Text("Listen")
+                            .font(.caption2)
+                            .foregroundStyle(appFg.opacity(0.7))
+                    }
+                    Spacer()
+                    if horizontalSizeClass != .regular {
+                        studyButtonView
+                        Spacer()
+                    }
+                }
+                .padding(.vertical, 8)
+
+            } else if !audioPlayer.isStopped {
+                // ── Playing / paused ─────────────────────────────────────
+                VStack(spacing: 2) {
+                    // Full-width progress bar
+                    Slider(
+                        value: Binding(
+                            get: { audioPlayer.duration > 0
+                                ? audioPlayer.currentTime / audioPlayer.duration : 0 },
+                            set: { audioPlayer.seek(to: $0) }
+                        )
+                    )
+                    .padding(.horizontal)
+                    .onChange(of: audioPlayer.currentTime) { _, newTime in
+                        shiurClient.updateCurrentSegment(currentTime: newTime)
+                    }
+
+                    // Chapter markers strip — only shown when segments are available
+                    if !shiurClient.segments.isEmpty && audioPlayer.duration > 0 {
+                        chapterStrip
+                    }
+
+                    // Playback controls row: elapsed | [⏪ ▶/⏸ ⏩ ⏹] | speed | total
+                    HStack(alignment: .center, spacing: 0) {
+                        Text(formatTime(audioPlayer.currentTime))
+                            .font(.caption.monospacedDigit())
+                            .foregroundStyle(appFg.opacity(0.7))
+                            .padding(.leading)
+
+                        Spacer()
+
+                        HStack(spacing: 8) {
+                            ZStack {
+                                Circle()
+                                    .stroke(appFg.opacity(0.45 * (1.0 - backRippleP)),
+                                            lineWidth: 1.5)
+                                    .scaleEffect(1.0 + CGFloat(backRippleP) * 0.5)
+                                    .frame(width: 38, height: 38)
+                                Image(systemName: "gobackward.30")
+                                    .font(.system(size: 24))
+                                    .foregroundStyle(canSkip
+                                                     ? appFg.opacity(0.8)
+                                                     : appFg.opacity(0.3))
+                                    .scaleEffect(backSkipPressed ? 0.82 : 1.0)
+                                    .animation(.spring(response: 0.15, dampingFraction: 0.5),
+                                               value: backSkipPressed)
+                            }
+                            .onTapGesture {
+                                guard canSkip else { return }
+                                audioPlayer.skip(by: -30)
+                                backSkipPressed = true
+                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
+                                    backSkipPressed = false
+                                }
+                                backRippleP = 0
+                                DispatchQueue.main.async {
+                                    withAnimation(.easeOut(duration: 0.4)) { backRippleP = 1 }
+                                }
+                            }
+
+                            Button {
+                                audioPlayer.togglePlayPause()
+                            } label: {
+                                Image(systemName: audioPlayer.isPlaying
+                                      ? "pause.circle.fill"
+                                      : "play.circle.fill")
+                                    .font(.system(size: 38))
+                                    .foregroundStyle(appFg)
+                            }
+
+                            ZStack {
+                                Circle()
+                                    .stroke(appFg.opacity(0.45 * (1.0 - fwdRippleP)),
+                                            lineWidth: 1.5)
+                                    .scaleEffect(1.0 + CGFloat(fwdRippleP) * 0.5)
+                                    .frame(width: 38, height: 38)
+                                Image(systemName: "goforward.30")
+                                    .font(.system(size: 24))
+                                    .foregroundStyle(canSkip
+                                                     ? appFg.opacity(0.8)
+                                                     : appFg.opacity(0.3))
+                                    .scaleEffect(fwdSkipPressed ? 0.82 : 1.0)
+                                    .animation(.spring(response: 0.15, dampingFraction: 0.5),
+                                               value: fwdSkipPressed)
+                            }
+                            .onTapGesture {
+                                guard canSkip else { return }
+                                audioPlayer.skip(by: 30)
+                                fwdSkipPressed = true
+                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
+                                    fwdSkipPressed = false
+                                }
+                                fwdRippleP = 0
+                                DispatchQueue.main.async {
+                                    withAnimation(.easeOut(duration: 0.4)) { fwdRippleP = 1 }
+                                }
+                            }
+
+                            Button {
+                                audioPlayer.stop()
+                            } label: {
+                                Image(systemName: "stop.circle.fill")
+                                    .font(.system(size: 38))
+                                    .foregroundStyle(appFg)
+                            }
+                            .padding(.leading, 14)
+                        }
+
+                        Spacer()
+
+                        Menu {
+                            ForEach([Float(0.5), 0.75, 1.0, 1.25, 1.5, 1.75, 2.0], id: \.self) { rate in
+                                Button {
+                                    audioPlayer.setRate(rate)
+                                } label: {
+                                    if rate == audioPlayer.playbackRate {
+                                        Label(formatSpeed(rate), systemImage: "checkmark")
+                                    } else {
+                                        Text(formatSpeed(rate))
+                                    }
+                                }
+                            }
+                        } label: {
+                            Text(formatSpeed(audioPlayer.playbackRate))
+                                .font(.caption.monospacedDigit().bold())
+                                .foregroundStyle(appFg)
+                                .padding(.horizontal, 7)
+                                .padding(.vertical, 3)
+                                .background(Capsule().fill(appFg.opacity(0.25)))
+                        }
+                        .padding(.trailing, 10)
+
+                        Text(formatTime(audioPlayer.duration))
+                            .font(.caption.monospacedDigit())
+                            .foregroundStyle(appFg.opacity(0.7))
+                            .padding(.trailing)
+                    }
+
+                    // Study button — centered, with extra space below the controls row
+                    studyButtonView
+                        .frame(maxWidth: .infinity, alignment: .center)
+                        .padding(.top, 20)
+                }
+                .padding(.bottom, 2)
+            }
+
+            // "No episode" notice
+            if !feedManager.isLoading && feedManager.hasIndex && currentAudioURL == nil {
+                Text("No audio episode found for this daf")
+                    .font(.caption2)
+                    .foregroundStyle(appFg.opacity(0.7))
+            }
+
+            Spacer().frame(height: 6)
         }
     }
 
@@ -579,22 +841,25 @@ struct ContentView: View {
     }
 
     @ViewBuilder private var studyButtonView: some View {
-        VStack(spacing: 4) {
-            Button {
-                withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
-                Task {
-                    await studyManager.startSession(
-                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+        // On iPad the Shiur/Study picker in the left column replaces this button.
+        if horizontalSizeClass != .regular {
+            VStack(spacing: 4) {
+                Button {
+                    withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
+                    Task {
+                        await studyManager.startSession(
+                            tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                    }
+                } label: {
+                    Image(systemName: "book.circle.fill")
+                        .font(.system(size: 38))
+                        .foregroundStyle(appFg)
                 }
-            } label: {
-                Image(systemName: "book.circle.fill")
-                    .font(.system(size: 38))
-                    .foregroundStyle(appFg)
+                .disabled(showStudyMode)
+                Text("Study")
+                    .font(.caption2)
+                    .foregroundStyle(appFg.opacity(0.7))
             }
-            .disabled(showStudyMode)
-            Text("Study")
-                .font(.caption2)
-                .foregroundStyle(appFg.opacity(0.7))
         }
     }
 
@@ -639,6 +904,8 @@ struct DafPageView: View {
     @Binding var selectedSide: Int  // picker selection only — does not change on swipe/arrow
     let pageManager: TalmudPageManager
 
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+
     private func advanceAmud() {
         if displaySide == 0 {
             displaySide = 1
@@ -660,11 +927,15 @@ struct DafPageView: View {
     var body: some View {
         let sideA = displaySide == 0
         if let url = pageManager.imageURL(tractate: tractate.name, daf: daf, sideA: sideA) {
-            ZStack(alignment: .top) {
-                // Transparent spacer + image in a VStack so the image starts below the picker overlay.
-                // The picker (below) overlays the Color.clear gap — no image is hidden underneath it.
-                VStack(spacing: 0) {
-                    Color.clear.frame(height: 60)   // 8pt top-pad + 6+32+6 pt picker area + ~8pt breathing room
+            VStack(spacing: 0) {
+                // Amud picker: above the image on iPhone; on iPad it lives outside DafPageView.
+                if horizontalSizeClass != .regular {
+                    amudPicker
+                        .padding(.top, 8)
+                        .padding(.bottom, 6)
+                }
+
+                ZStack {
                     ZoomableAsyncImage(
                         url: url,
                         onSwipeLeft: advanceAmud,
@@ -672,89 +943,44 @@ struct DafPageView: View {
                     )
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                     .clipShape(RoundedRectangle(cornerRadius: 26))
-                }
+                    .shadow(color: .black.opacity(0.35), radius: 8, x: 0, y: 4)
+                    .padding(.horizontal, 12)
+                    .padding(.bottom, 8)
 
-                // Amud picker — overlaid at top of ZStack so it is always in front of the image
-                // for hit testing (same pattern as the edge-nav arrows, which always work).
-                // Previously above the ZStack in a VStack, but scaleEffect on the image caused
-                // the zoomed image's gesture area to intercept taps in the picker's region.
-                Picker("Amud", selection: $selectedSide) {
-                    Text("Amud א (a)").tag(0)
-                    Text("Amud ב (b)").tag(1)
-                }
-                .pickerStyle(.segmented)
-                .padding(.horizontal, 28)
-                .padding(.vertical, 6)
-                .background(
-                    RoundedRectangle(cornerRadius: 12)
-                        .fill(Color.white)
-                        .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 2)
-                )
-                .padding(.horizontal, 20)
-                .padding(.top, 8)
-                // Sync display when user taps picker or ContentView resets it (daf/tractate change)
-                .onChange(of: selectedSide) { _, newVal in
-                    displaySide = newVal
-                }
-
-                // ── Edge navigation arrows at ~40% from top ─────────────
-                // 2 spacers above : 3 spacers below  →  40% / 60%
-                VStack(spacing: 0) {
-                    Spacer()
-                    Spacer()
-                    HStack {
-                        Button(action: retreatAmud) {
-                            Image(systemName: "chevron.left.circle.fill")
-                                .font(.system(size: 30))
-                                .foregroundStyle(.white.opacity(0.55))
-                                .shadow(color: .black.opacity(0.45), radius: 3, x: 0, y: 1)
-                        }
-                        .padding(.leading, 8)
-
+                    // ── Edge navigation arrows ─────────────────────────────
+                    VStack(spacing: 0) {
                         Spacer()
+                        Spacer()
+                        HStack {
+                            Button(action: retreatAmud) {
+                                Image(systemName: "chevron.left.circle.fill")
+                                    .font(.system(size: 30))
+                                    .foregroundStyle(.white.opacity(0.55))
+                                    .shadow(color: .black.opacity(0.45), radius: 3, x: 0, y: 1)
+                            }
+                            .padding(.leading, 8)
 
-                        Button(action: advanceAmud) {
-                            Image(systemName: "chevron.right.circle.fill")
-                                .font(.system(size: 30))
-                                .foregroundStyle(.white.opacity(0.55))
-                                .shadow(color: .black.opacity(0.45), radius: 3, x: 0, y: 1)
+                            Spacer()
+
+                            Button(action: advanceAmud) {
+                                Image(systemName: "chevron.right.circle.fill")
+                                    .font(.system(size: 30))
+                                    .foregroundStyle(.white.opacity(0.55))
+                                    .shadow(color: .black.opacity(0.45), radius: 3, x: 0, y: 1)
+                            }
+                            .padding(.trailing, 8)
                         }
-                        .padding(.trailing, 8)
+                        Spacer()
+                        Spacer()
+                        Spacer()
                     }
-                    Spacer()
-                    Spacer()
-                    Spacer()
                 }
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
             }
-            .mask(
-                RoundedRectangle(cornerRadius: 28)
-                    .padding(.horizontal, 1)
-                    .padding(.bottom, 2)
-            )
-            .shadow(color: .black.opacity(0.35), radius: 8, x: 0, y: 4)
-            .padding(.horizontal, 12)
-            .padding(.bottom, 8)
         } else {
             VStack(spacing: 0) {
-                // Show the picker even when there's no image so the user can return to amud a
-                Picker("Amud", selection: $selectedSide) {
-                    Text("Amud א (a)").tag(0)
-                    Text("Amud ב (b)").tag(1)
-                }
-                .pickerStyle(.segmented)
-                .padding(.horizontal, 28)
-                .padding(.vertical, 6)
-                .background(
-                    RoundedRectangle(cornerRadius: 12)
-                        .fill(Color.white)
-                        .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 2)
-                )
-                .padding(.horizontal, 20)
-                .padding(.top, 8)
-                .onChange(of: selectedSide) { _, newVal in
-                    displaySide = newVal
-                }
-
+                amudPicker
+                    .padding(.top, 8)
                 Spacer()
                 Text("No image for daf \(daf)\(sideA ? "a" : "b")")
                     .font(.caption)
@@ -762,6 +988,29 @@ struct DafPageView: View {
                 Spacer()
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)
+        }
+    }
+
+    /// Amud (a/b) segmented picker — constrained width on iPad and centered.
+    private var amudPicker: some View {
+        Picker("Amud", selection: $selectedSide) {
+            Text("Amud א (a)").tag(0)
+            Text("Amud ב (b)").tag(1)
+        }
+        .pickerStyle(.segmented)
+        .padding(.horizontal, 28)
+        .padding(.vertical, 6)
+        .background(
+            RoundedRectangle(cornerRadius: 12)
+                .fill(Color.white)
+                .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 2)
+        )
+        .padding(.horizontal, 20)
+        // On iPad, cap picker width and center it
+        .frame(maxWidth: horizontalSizeClass == .regular ? 400 : .infinity)
+        .frame(maxWidth: .infinity)
+        .onChange(of: selectedSide) { _, newVal in
+            displaySide = newVal
         }
     }
 }

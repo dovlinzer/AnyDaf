@@ -1,0 +1,590 @@
+{
+  "masechta": "Hullin",
+  "daf": 126,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "Introduction and Transition: From Daf 125b to Daf 126a — Setting the Stage for Ohel and Tumah Analysis",
+      "display_title": "Introduction & Setup",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks and daf identification; we begin at Kuf Chaf Hey Amud Bet with Rava's source for equating touching with roofing",
+          "display_title": "Daf & Opening",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Review of the three competing explanations for when touching equals roofing: Rabbi Zeira (squeezed between structures), Abaye (within a tefach), and Rava (directly above or below)",
+          "display_title": "Three Explanations",
+          "timestamp": "00:45"
+        }
+      ]
+    },
+    {
+      "title": "Rava's Proof from Rabbi Yosei's Mishnah on Lattice-Work and Separation Between Levels",
+      "display_title": "Rava's Proof",
+      "timestamp": "01:12",
+      "micro_segments": [
+        {
+          "title": "Rava's source for touching equaling roofing: Rabbi Yosei's rule on chavilei mitah and srigai chalonot (bed ropes and lattice work) as separators between floor levels",
+          "display_title": "Bed Ropes & Lattice",
+          "timestamp": "01:12"
+        },
+        {
+          "title": "Explanation of how lattice-work with holes smaller than a tefach can separate tumah from passing between levels, despite physical gaps",
+          "display_title": "Separation Principle",
+          "timestamp": "01:41"
+        },
+        {
+          "title": "The case of lattice-work suspended over a corpse in open air (not attached to a house structure); tumah goes through holes but not through the lattice itself",
+          "display_title": "Lattice Over Corpse",
+          "timestamp": "03:16"
+        },
+        {
+          "title": "Analysis of the phrase 'ha-nogea ke-neged ha-nekev' (one who touches opposite the hole): does it prove touching equals roofing above a tefach?",
+          "display_title": "Touching vs. Hole",
+          "timestamp": "04:30"
+        }
+      ]
+    },
+    {
+      "title": "Abaye's Counter-Argument: The Case Must Be Within a Tefach, and Rabbi Yosei's Apparent Rejection of Buried Tumah Principle",
+      "display_title": "Abaye's Objection",
+      "timestamp": "05:00",
+      "micro_segments": [
+        {
+          "title": "Abaye's claim: the lattice-work must be within a tefach, not above it, to explain why touching is used instead of roofing",
+          "display_title": "Within Tefach",
+          "timestamp": "05:00"
+        },
+        {
+          "title": "Challenge: if the lattice is within a tefach of the corpse, why doesn't tumah burst through (tumah temunah bokea't principle)?",
+          "display_title": "Buried Tumah Burst",
+          "timestamp": "06:55"
+        },
+        {
+          "title": "Proposed inference: Rabbi Yosei rejects the principle that tumah without a tefach roof bursts through; he holds any physical barrier stops tumah",
+          "display_title": "Yosei Rejects Burst",
+          "timestamp": "07:55"
+        }
+      ]
+    },
+    {
+      "title": "The Teivat Migdal (Large Cabinet) Mishnah: Testing Whether Rabbi Yosei Truly Rejects the Buried Tumah Principle",
+      "display_title": "Cabinet Mishnah",
+      "timestamp": "08:52",
+      "micro_segments": [
+        {
+          "title": "Introduction to the case of a large, immobile cabinet (teivat migdal) with a tefach gap beneath it and a small opening: tumah is trapped underneath",
+          "display_title": "Cabinet Setup",
+          "timestamp": "08:52"
+        },
+        {
+          "title": "Principle of sof tumah latzeit (tumah eventually goes out): since the corpse will eventually be removed for burial, we treat it as if already removed, making the house tamei",
+          "display_title": "Sof Tumah Latzeit",
+          "timestamp": "11:08"
+        },
+        {
+          "title": "Rabbi Yosei's position: even with sof tumah latzeit, the house is tahor because you could remove the corpse in pieces or burn it in place, not through a standard removal",
+          "display_title": "Yosei's Exemption",
+          "timestamp": "12:26"
+        },
+        {
+          "title": "Second scenario with cabinet in doorframe, opening pointing outward; sof tumah latzeit would take tumah out of the house, not into it, leaving house tahor",
+          "display_title": "Cabinet in Doorframe",
+          "timestamp": "13:27"
+        }
+      ]
+    },
+    {
+      "title": "Resolving the Contradiction and Clarifying Rabbi Yosei's Position on Buried Tumah",
+      "display_title": "Contradiction & Clarific…",
+      "timestamp": "15:37",
+      "micro_segments": [
+        {
+          "title": "Apparent redundancy: why repeat 'Rabbi Yosei says tahor' in the second scenario when both tanna kamma and Rabbi Yosei should agree? This forces us to reconsider what case the repetition applies to",
+          "display_title": "Redundancy Problem",
+          "timestamp": "15:37"
+        },
+        {
+          "title": "Resolution: the repetition refers to the first scenario, where tanna kamma holds tumah bursts through unless there is a tefach, but Rabbi Yosei says tahor even without a tefach—proving he rejects the buried tumah principle entirely",
+          "display_title": "Resolution",
+          "timestamp": "15:37"
+        },
+        {
+          "title": "Rabbi Yosei's dual objection: he rejects both the principle of buried tumah bursting through and the reliance on sof tumah latzeit to make the house tamei",
+          "display_title": "Yosei's Objections",
+          "timestamp": "16:00"
+        }
+      ]
+    },
+    {
+      "title": "The Dog with Corpse-Flesh in Its Stomach: Does Buried Tumah Burst Through?",
+      "display_title": "Dog Stomach Case",
+      "timestamp": "18:35",
+      "micro_segments": [
+        {
+          "title": "Scenario: a dog ate flesh from a corpse; while alive, the flesh does not cause tumah (belua principle); when the dog dies, the flesh becomes like wrapped corpse-matter and can cause tumah",
+          "display_title": "Dog & Flesh Setup",
+          "timestamp": "18:35"
+        },
+        {
+          "title": "The dog positioned at the doorstep: half in the doorframe, half outside; where is the corpse-flesh inside the dog's body, and does it cause the house to be tamei?",
+          "display_title": "Doorstep Position",
+          "timestamp": "20:27"
+        },
+        {
+          "title": "Rabbi Meir: tumah in the dog's body causes the house to be tamei only if the throat (esophagus) is a tefach wide, allowing tumah to reach the interior of the house",
+          "display_title": "Rabbi Meir",
+          "timestamp": "21:15"
+        },
+        {
+          "title": "Rabbi Yosei: whether the mouth or rear, you look to see whether the corpse-flesh is from the mashkof (the stopping-point of the door) inward; if inward, the house is tamei; if outward, it is tahor",
+          "display_title": "Rabbi Yosei",
+          "timestamp": "21:27"
+        },
+        {
+          "title": "Rabbi Eliezer: mouth toward inside means house is tahor (rejects throat as an avenue for tumah); mouth toward outside means house is tamei (by sof tumah latzeit through the rear)",
+          "display_title": "Rabbi Eliezer",
+          "timestamp": "23:16"
+        },
+        {
+          "title": "Rabbi Yehuda ben Batera: whether mouth or rear, house is always tamei (both routes allow tumah transmission)",
+          "display_title": "R. Yehuda ben Batera",
+          "timestamp": "24:37"
+        }
+      ]
+    },
+    {
+      "title": "Rava's Reinterpretation of Rabbi Yosei's Position: Not Buried Tumah Bursting, But a Requirement for Actual Hollow",
+      "display_title": "Rava Reinterprets Yosei",
+      "timestamp": "25:03",
+      "micro_segments": [
+        {
+          "title": "The Gemara initially reads Rabbi Yosei as holding that tumah bursts through the dog's stomach/body (supporting rejection of buried-tumah principle)",
+          "display_title": "Initial Reading",
+          "timestamp": "25:03"
+        },
+        {
+          "title": "Rava's alternative interpretation: when Rabbi Yosei says 'you inspect' (ro'in), he does not mean inspect where the flesh is; rather, you inspect that the actual hollow (cavity) of the esophagus is a tefach",
+          "display_title": "Cavity Requirement",
+          "timestamp": "25:46"
+        },
+        {
+          "title": "Distinction between Rabbi Meir (whole throat must be tefach) and Rabbi Yosei (only the actual hollow/cavity within the esophagus needs to be tefach); Tosafot's explanation of Rabbi Meir's logic",
+          "display_title": "Meir vs. Yosei",
+          "timestamp": "27:00"
+        },
+        {
+          "title": "Rabbi Yosei's two objections reformulated: against Rabbi Meir's measurement and against the application to the entire doorframe; only the part from mashkof inward counts as house",
+          "display_title": "Two Objections",
+          "timestamp": "29:16"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Shimon's Teaching: Three Types of Corpse-Matter with Only Two of Three Ways of Causing Tumah",
+      "display_title": "Rabbi Shimon",
+      "timestamp": "33:00",
+      "micro_segments": [
+        {
+          "title": "Introduction to three types of corpse-matter that lack one of the three normal modes of tumah (touching, carrying, or roofing); each lacks a different mode",
+          "display_title": "Three Types",
+          "timestamp": "33:00"
+        },
+        {
+          "title": "Melo tarvad rakev (spoonful of decomposed corpse-dust): causes tumah by carrying and roofing but not by touching (impossible to touch all at once)",
+          "display_title": "Decomposed Dust",
+          "timestamp": "34:06"
+        },
+        {
+          "title": "Etzem kesora (bone the size of a barley-corn, without sufficient marrow): causes tumah by carrying and touching but not by roofing (without marrow, no exposure to roof tumah)",
+          "display_title": "Small Bone",
+          "timestamp": "35:45"
+        },
+        {
+          "title": "Golel vedofek (coffin-boards or headstone): causes tumah by touching and roofing but not by carrying (object itself, not corpse-matter, cannot be carried as tumah)",
+          "display_title": "Coffin-Boards",
+          "timestamp": "36:35"
+        }
+      ]
+    },
+    {
+      "title": "The Significance of Rabbi Shimon's Teaching for Roofing as Touching: Rabbi Yosei and Rabbi Shimon Compared",
+      "display_title": "Yosei vs. Shimon",
+      "timestamp": "37:48",
+      "micro_segments": [
+        {
+          "title": "Key observation: Rabbi Shimon treats the decomposed-dust as incapable of causing tumah by touching, implying no form of roofing can be equated with touching for that substance",
+          "display_title": "No Roofing-as-Touch",
+          "timestamp": "37:48"
+        },
+        {
+          "title": "Contrast with earlier braisa (on daf kuf-kaf-hey) where Rabbi Yosei says you become tamei by touching the same decomposed-dust, interpreted as proof that roofing equals touching",
+          "display_title": "Yosei's Proof",
+          "timestamp": "37:54"
+        },
+        {
+          "title": "Conclusion: Rabbi Yosei holds roofing can be called touching (under certain conditions), while Rabbi Shimon does not hold any roofing equals touching; this is a fundamental dispute",
+          "display_title": "Fundamental Dispute",
+          "timestamp": "38:01"
+        }
+      ]
+    },
+    {
+      "title": "Return to Bone of a Neveilah and the Shomer Principle: When Does a Bone Guard Its Marrow for Tumah Purposes?",
+      "display_title": "Bone Shomer",
+      "timestamp": "38:35",
+      "micro_segments": [
+        {
+          "title": "Mishnah: bone of a carcass (neveilah) causes tumah if touched or carried, but only if there is access to the marrow (even a tiny hole); otherwise the bone is tahor",
+          "display_title": "Bone Rule",
+          "timestamp": "38:35"
+        },
+        {
+          "title": "Shomer principle: if marrow can be accessed (through a hole), the bone serves as a 'shomer' (guardian) of the marrow; touching or carrying the bone counts as touching/carrying the marrow",
+          "display_title": "Shomer Concept",
+          "timestamp": "39:06"
+        },
+        {
+          "title": "Source text (Talmud Lomar): 'Hanogea Yitma'—one who touches becomes tamei—refers only to cases where it is possible to touch the actual flesh; if impossible, no tumah from touching",
+          "display_title": "Source Analysis",
+          "timestamp": "39:27"
+        }
+      ]
+    },
+    {
+      "title": "Three Amoraim Challenge the Bone Shomer Rule with Real-World Animal Carcasses",
+      "display_title": "Challenging Shomer",
+      "timestamp": "40:06",
+      "micro_segments": [
+        {
+          "title": "Rav Zeira to Abaye: if we require access to flesh, how can touching a sealed animal carcass cause tumah? The carcass is completely closed; where is there exposed flesh?",
+          "display_title": "Rav Zeira's Q.",
+          "timestamp": "40:06"
+        },
+        {
+          "title": "Abaye's response: an animal has natural openings—mouth, nostrils—through which you can reach the internal meat without touching the skin; thus you can access flesh",
+          "display_title": "Abaye's Answer",
+          "timestamp": "40:58"
+        },
+        {
+          "title": "Rav Pappa to Rava: if kidneys are wrapped in heavy fat (cheilev), and fat is not tumah, how can touching kidneys cause tumah when there is no way to reach them without removing the fat?",
+          "display_title": "Rav Pappa's Q.",
+          "timestamp": "41:22"
+        },
+        {
+          "title": "Rava's response: strands of meat run through the fat; the flesh is exposed throughout the fat layer, so it is possible to touch meat",
+          "display_title": "Rava's Answer",
+          "timestamp": "41:57"
+        },
+        {
+          "title": "Rav Ushaya's question: if you plan to make a hole in the bone but have not yet done so, does potential access count, or must you actually have physical access right now?",
+          "display_title": "Rav Ushaya's Q.",
+          "timestamp": "42:11"
+        },
+        {
+          "title": "Resolution: lacking a hole is not like lacking an action (mechusar nekiva lav k'mechusar ma'aseh dami); you need actual physical access, not mere future intention",
+          "display_title": "Resolution",
+          "timestamp": "43:09"
+        }
+      ]
+    },
+    {
+      "title": "Eggs of Reptilian Sheratzim: Application of the Inaccessibility Principle to Developing Fetuses",
+      "display_title": "Reptile Eggs",
+      "timestamp": "45:16",
+      "micro_segments": [
+        {
+          "title": "Beitzat hasheretz (egg of a reptilian sheretz) with a formed fetus (merukemet): if sealed, it is tahor because the fetus cannot be touched",
+          "display_title": "Sealed Egg",
+          "timestamp": "45:16"
+        },
+        {
+          "title": "If there is even a tiny hole in the egg (nikvah kol shehu), the egg is tamei; a pinhole-sized opening is enough to theoretically touch the fetus (kechut hasa'arah—size of a hair)",
+          "display_title": "Hole in Egg",
+          "timestamp": "46:38"
+        }
+      ]
+    },
+    {
+      "title": "The Bizarre Case of the Half-Flesh, Half-Dirt Mouse: Spontaneous Generation and Partial Tumah",
+      "display_title": "Half-Flesh Mouse",
+      "timestamp": "47:37",
+      "micro_segments": [
+        {
+          "title": "Mishnah: a mouse caught in the process of spontaneous generation—half flesh, half dirt—causes tumah if you touch the flesh half, but not if you touch the dirt half",
+          "display_title": "Basic Rule",
+          "timestamp": "47:37"
+        },
+        {
+          "title": "Rabbi Yehuda's position: even touching the dirt half causes tumah if it is opposite/parallel to the flesh half; he treats the entire organism as a unified source of tumah",
+          "display_title": "Rabbi Yehuda",
+          "timestamp": "48:23"
+        }
+      ]
+    },
+    {
+      "title": "Eggs of Reptilian Sheratzim: Application of the Inaccessibility Principle to Developing Fetuses (continued)",
+      "display_title": "Reptile Eggs…",
+      "timestamp": "48:37",
+      "micro_segments": [
+        {
+          "title": "Talmudic derivation: the verse includes eggs and bones of sheratzim; the fetus must be formed (rikmah) to cause tumah; the phrase 'hanogea yitma' applies only when touching is possible",
+          "display_title": "Derivation",
+          "timestamp": "48:37"
+        }
+      ]
+    },
+    {
+      "title": "The Bizarre Case of the Half-Flesh, Half-Dirt Mouse: Spontaneous Generation and Partial Tumah (continued)",
+      "display_title": "Half-Flesh Mouse…",
+      "timestamp": "50:22",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yehoshua ben Levi's condition: Rabbi Yehuda's rule (tumah from touching dirt) applies only if the flesh part has started to move (showed signs of life)",
+          "display_title": "Movement Condition",
+          "timestamp": "50:22"
+        },
+        {
+          "title": "Logical inference: if movement is required for the dirt-touching rule, it should also be required for the flesh-touching rule; but some read it differently for the flesh case",
+          "display_title": "Logical Inference",
+          "timestamp": "51:06"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Touching vs. Roofing (Ma'ahil/Ohel) Equivalence",
+      "timestamps": [
+        "01:12",
+        "04:30",
+        "05:00",
+        "37:48",
+        "37:54",
+        "38:01"
+      ]
+    },
+    {
+      "term": "Tumah Temunah (Buried Tumah Bursts Through)",
+      "timestamps": [
+        "06:55",
+        "07:55",
+        "25:03",
+        "25:46"
+      ]
+    },
+    {
+      "term": "Tefach (Handsbreadth) Measurement & Significance",
+      "timestamps": [
+        "00:45",
+        "01:41",
+        "05:00",
+        "06:55",
+        "08:52",
+        "20:27",
+        "27:00",
+        "38:35",
+        "46:38"
+      ]
+    },
+    {
+      "term": "Sof Tumah Latzeit (Tumah Eventually Goes Out)",
+      "timestamps": [
+        "11:08",
+        "12:26",
+        "23:16"
+      ]
+    },
+    {
+      "term": "Rabbi Yosei's Position on Buried Tumah & Roofing",
+      "timestamps": [
+        "01:19",
+        "07:55",
+        "12:26",
+        "15:37",
+        "16:00",
+        "21:27",
+        "25:46",
+        "37:48",
+        "37:54",
+        "38:01"
+      ]
+    },
+    {
+      "term": "Lattice-Work (Srigai) as Separator",
+      "timestamps": [
+        "01:41",
+        "03:16"
+      ]
+    },
+    {
+      "term": "Mashkof (Door Stopping Point) Definition",
+      "timestamps": [
+        "21:27",
+        "29:16"
+      ]
+    },
+    {
+      "term": "Rabbi Meir vs. Rabbi Yosei on Dog Throat",
+      "timestamps": [
+        "21:15",
+        "21:27",
+        "27:00"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer's Position on Dog Tumah",
+      "timestamps": [
+        "23:16"
+      ]
+    },
+    {
+      "term": "Shomer (Guardian) Principle for Marrow/Flesh Access",
+      "timestamps": [
+        "39:06",
+        "39:27",
+        "40:06",
+        "40:58",
+        "41:22",
+        "41:57",
+        "42:11",
+        "43:09"
+      ]
+    },
+    {
+      "term": "Neveilah (Animal Carcass) Tumah Rules",
+      "timestamps": [
+        "38:35",
+        "40:06",
+        "40:58",
+        "41:22",
+        "41:57"
+      ]
+    },
+    {
+      "term": "Belua (Live Animal) Absorbs Tumah",
+      "timestamps": [
+        "18:35"
+      ]
+    },
+    {
+      "term": "Melo Tarvad Rakev (Spoonful of Decomposed Dust)",
+      "timestamps": [
+        "34:06",
+        "37:48",
+        "37:54"
+      ]
+    },
+    {
+      "term": "Etzem Kesora (Small Bone)",
+      "timestamps": [
+        "35:45"
+      ]
+    },
+    {
+      "term": "Golel Vedofek (Coffin-Boards/Headstone)",
+      "timestamps": [
+        "36:35"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon's Three-Type Teaching",
+      "timestamps": [
+        "33:00",
+        "34:06",
+        "35:45",
+        "36:35",
+        "37:48",
+        "38:01"
+      ]
+    },
+    {
+      "term": "Beitzat Hasheretz (Reptile Egg) with Formed Fetus",
+      "timestamps": [
+        "45:16",
+        "46:38",
+        "48:37"
+      ]
+    },
+    {
+      "term": "Kechut Hasa'arah (Hair-Width Hole)",
+      "timestamps": [
+        "46:38",
+        "48:37"
+      ]
+    },
+    {
+      "term": "Half-Flesh, Half-Dirt Mouse (Spontaneous Generation)",
+      "timestamps": [
+        "47:37",
+        "48:23",
+        "50:22",
+        "51:06"
+      ]
+    },
+    {
+      "term": "Rabbi Yehuda on Dirt-Half Tumah",
+      "timestamps": [
+        "48:23"
+      ]
+    },
+    {
+      "term": "Movement Requirement for Tumah (Hishritz Pnei)",
+      "timestamps": [
+        "50:22",
+        "51:06"
+      ]
+    },
+    {
+      "term": "Teivat Migdal (Large Cabinet) Case",
+      "timestamps": [
+        "08:52",
+        "11:08",
+        "12:26",
+        "13:27",
+        "15:37"
+      ]
+    },
+    {
+      "term": "Dog with Corpse-Flesh in Stomach",
+      "timestamps": [
+        "18:35",
+        "20:27",
+        "21:15",
+        "21:27",
+        "23:16",
+        "24:37",
+        "25:03"
+      ]
+    },
+    {
+      "term": "Rava's Reinterpretation of Inspection (Ro'in)",
+      "timestamps": [
+        "25:46",
+        "27:00"
+      ]
+    },
+    {
+      "term": "Abaye's Natural Openings (Mouth, Nostrils)",
+      "timestamps": [
+        "40:58"
+      ]
+    },
+    {
+      "term": "Rav Pappa's Fat & Kidneys Question",
+      "timestamps": [
+        "41:22",
+        "41:57"
+      ]
+    },
+    {
+      "term": "Rav Ushaya's Potential Access Question",
+      "timestamps": [
+        "42:11",
+        "43:09"
+      ]
+    }
+  ]
+}

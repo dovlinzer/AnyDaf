@@ -44,6 +44,8 @@ fun AnyDafNavGraph(
                 audioViewModel = audioViewModel,
                 bookmarkViewModel = bookmarkViewModel,
                 pdfViewModel = pdfViewModel,
+                studyViewModel = studyViewModel,
+                resourcesViewModel = resourcesViewModel,
                 onStartStudy = { tractate, daf, mode, quizMode ->
                     navController.navigate("study/$tractate/$daf")
                     studyViewModel.startSession(tractate, daf, mode, quizMode)

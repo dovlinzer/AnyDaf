@@ -17,6 +17,7 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.OpenInBrowser
@@ -31,6 +32,7 @@ import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
@@ -38,33 +40,33 @@ import androidx.compose.ui.Modifier
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
+import com.anydaf.model.StudyFontSize
 import com.anydaf.model.YCTArticle
-
-private const val FONT_SIZE_MIN = 12
-private const val FONT_SIZE_MAX = 28
-private const val FONT_SIZE_STEP = 2
-private const val FONT_SIZE_DEFAULT = 16
 
 @Composable
 fun ArticleReaderScreen(
     article: YCTArticle,
     html: String,
     isLoading: Boolean,
+    studyFontSize: StudyFontSize,
+    onSizeChange: (StudyFontSize) -> Unit,
     onDismiss: () -> Unit
 ) {
     val context = LocalContext.current
     val darkTheme = isSystemInDarkTheme()
-    var fontSize by remember { mutableIntStateOf(FONT_SIZE_DEFAULT) }
 
-    // Mutable container so the update lambda can reference the WebView without capture issues
+    // Track the last HTML/theme/fontPx actually loaded to avoid unnecessary reloads
+    val lastLoadedKey = remember { mutableStateOf("") }
+    val lastLoadedFontPx = remember { mutableIntStateOf(0) }
     val webViewHolder = remember { mutableListOf<WebView>() }
-    // Track the last HTML actually loaded so we only reload when content changes, not on font changes
-    val lastLoadedHtml = remember { mutableListOf<String>() }
 
     val referencedDaf = article.matchType.referencedDaf
+    val cases = StudyFontSize.entries
+    val idx = cases.indexOf(studyFontSize)
 
     Column(
         modifier = Modifier
@@ -107,10 +109,7 @@ fun ArticleReaderScreen(
                         SuggestionChip(
                             onClick = {},
                             label = {
-                                Text(
-                                    "Daf $referencedDaf",
-                                    style = MaterialTheme.typography.labelSmall
-                                )
+                                Text("Daf $referencedDaf", style = MaterialTheme.typography.labelSmall)
                             }
                         )
                     }
@@ -118,31 +117,18 @@ fun ArticleReaderScreen(
             }
             Spacer(Modifier.width(8.dp))
             IconButton(onClick = onDismiss, modifier = Modifier.size(40.dp)) {
-                Icon(
-                    imageVector = Icons.Default.Close,
-                    contentDescription = "Close",
-                    tint = MaterialTheme.colorScheme.onSurface
-                )
+                Icon(Icons.Default.Close, "Close", tint = MaterialTheme.colorScheme.onSurface)
             }
         }
 
         HorizontalDivider(color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.15f))
 
         // Content area
-        Box(
-            modifier = Modifier
-                .weight(1f)
-                .fillMaxWidth()
-        ) {
+        Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
             if (isLoading) {
-                Box(Modifier.fillMaxSize(), Alignment.Center) {
-                    CircularProgressIndicator()
-                }
+                Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
             } else {
-                // Build styled HTML using the current default font size embedded in CSS.
-                // Subsequent font-size changes are applied via JS without a page reload.
-                val initialHtml = buildStyledHtml(html, fontSize, darkTheme)
-
+                val stateKey = "${html.hashCode()}_$darkTheme"
                 AndroidView(
                     factory = { ctx ->
                         WebView(ctx).apply {
@@ -161,30 +147,28 @@ fun ArticleReaderScreen(
                             }
                             loadDataWithBaseURL(
                                 "https://library.yctorah.org",
-                                initialHtml,
-                                "text/html",
-                                "UTF-8",
-                                null
+                                buildStyledHtml(html, studyFontSize.articleFontPx, darkTheme),
+                                "text/html", "UTF-8", null
                             )
-                            webViewHolder.clear()
-                            webViewHolder.add(this)
-                            lastLoadedHtml.clear()
-                            lastLoadedHtml.add(html)
+                            webViewHolder.clear(); webViewHolder.add(this)
+                            lastLoadedKey.value = stateKey
+                            lastLoadedFontPx.intValue = studyFontSize.articleFontPx
                         }
                     },
                     update = { webView ->
-                        // Only reload if the underlying HTML changed (e.g. new article)
-                        if (lastLoadedHtml.firstOrNull() != html) {
-                            val newHtml = buildStyledHtml(html, fontSize, darkTheme)
+                        if (lastLoadedKey.value != stateKey) {
                             webView.loadDataWithBaseURL(
                                 "https://library.yctorah.org",
-                                newHtml,
-                                "text/html",
-                                "UTF-8",
-                                null
+                                buildStyledHtml(html, studyFontSize.articleFontPx, darkTheme),
+                                "text/html", "UTF-8", null
                             )
-                            lastLoadedHtml.clear()
-                            lastLoadedHtml.add(html)
+                            lastLoadedKey.value = stateKey
+                            lastLoadedFontPx.intValue = studyFontSize.articleFontPx
+                        } else if (lastLoadedFontPx.intValue != studyFontSize.articleFontPx) {
+                            webView.evaluateJavascript(
+                                "document.body.style.fontSize='${studyFontSize.articleFontPx}px'", null
+                            )
+                            lastLoadedFontPx.intValue = studyFontSize.articleFontPx
                         }
                     },
                     modifier = Modifier.fillMaxSize()
@@ -194,48 +178,64 @@ fun ArticleReaderScreen(
 
         HorizontalDivider(color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.15f))
 
-        // Footer: font size controls + open in browser
+        // Footer: A•dots•A font controls + open in browser
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 12.dp, vertical = 6.dp),
-            verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.SpaceBetween
+                .padding(start = 4.dp, end = 12.dp, top = 4.dp, bottom = 4.dp),
+            verticalAlignment = Alignment.CenterVertically
         ) {
-            // Font size controls
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                TextButton(
-                    onClick = {
-                        if (fontSize > FONT_SIZE_MIN) {
-                            fontSize -= FONT_SIZE_STEP
-                            webViewHolder.firstOrNull()?.evaluateJavascript(
-                                "document.body.style.fontSize='${fontSize}px'", null
-                            )
-                        }
-                    },
-                    enabled = fontSize > FONT_SIZE_MIN
-                ) {
-                    Text("A−", style = MaterialTheme.typography.labelLarge)
-                }
+            // Small A — decrease
+            TextButton(
+                onClick = { if (idx > 0) onSizeChange(cases[idx - 1]) },
+                enabled = idx > 0,
+                modifier = Modifier.size(44.dp),
+                contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp)
+            ) {
                 Text(
-                    text = "${fontSize}sp",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                    "A",
+                    style = MaterialTheme.typography.labelMedium,
+                    color = if (idx > 0) MaterialTheme.colorScheme.primary
+                            else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
                 )
-                TextButton(
-                    onClick = {
-                        if (fontSize < FONT_SIZE_MAX) {
-                            fontSize += FONT_SIZE_STEP
-                            webViewHolder.firstOrNull()?.evaluateJavascript(
-                                "document.body.style.fontSize='${fontSize}px'", null
+            }
+
+            // Growing step dots
+            Row(
+                modifier = Modifier.weight(1f),
+                horizontalArrangement = Arrangement.SpaceEvenly,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                cases.forEachIndexed { i, _ ->
+                    val dotSize = (5 + i * 2).dp
+                    Box(
+                        modifier = Modifier
+                            .size(dotSize)
+                            .background(
+                                color = if (i == idx) MaterialTheme.colorScheme.primary
+                                        else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f),
+                                shape = CircleShape
                             )
-                        }
-                    },
-                    enabled = fontSize < FONT_SIZE_MAX
-                ) {
-                    Text("A+", style = MaterialTheme.typography.labelLarge)
+                    )
                 }
             }
+
+            // Large A — increase
+            TextButton(
+                onClick = { if (idx < cases.size - 1) onSizeChange(cases[idx + 1]) },
+                enabled = idx < cases.size - 1,
+                modifier = Modifier.size(44.dp),
+                contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp)
+            ) {
+                Text(
+                    "A",
+                    style = MaterialTheme.typography.titleMedium,
+                    color = if (idx < cases.size - 1) MaterialTheme.colorScheme.primary
+                            else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+                )
+            }
+
+            Spacer(Modifier.width(8.dp))
 
             // Open in browser
             TextButton(
@@ -244,11 +244,7 @@ fun ArticleReaderScreen(
                     context.startActivity(intent)
                 }
             ) {
-                Icon(
-                    imageVector = Icons.Default.OpenInBrowser,
-                    contentDescription = null,
-                    modifier = Modifier.size(16.dp)
-                )
+                Icon(Icons.Default.OpenInBrowser, null, Modifier.size(16.dp))
                 Spacer(Modifier.width(4.dp))
                 Text("Open in Browser", style = MaterialTheme.typography.labelMedium)
             }

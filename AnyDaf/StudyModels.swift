@@ -1,4 +1,5 @@
 import Foundation
+import SwiftUI
 
 // MARK: - YCT Library Models
 
@@ -147,6 +148,42 @@ enum SourceDisplayMode: String, CaseIterable {
         switch self {
         case .toggle:  return "Tap a button to switch between source text and translation."
         case .stacked: return "Each paragraph shown as source above translation, scroll through paired paragraphs."
+        }
+    }
+}
+
+/// Text size preference for study mode content — stored in AppStorage as a raw String.
+enum StudyFontSize: String, CaseIterable {
+    case small  = "small"
+    case medium = "medium"
+    case large  = "large"
+    case xLarge = "xLarge"
+
+    var dynamicTypeSize: DynamicTypeSize {
+        switch self {
+        case .small:  return .xLarge      // 19pt body — slightly above iOS default
+        case .medium: return .xxLarge     // 21pt body
+        case .large:  return .xxxLarge    // 23pt body
+        case .xLarge: return .accessibility1  // 28pt body
+        }
+    }
+
+    /// Point size for WKWebView body text (article reader).
+    var articleFontSize: CGFloat {
+        switch self {
+        case .small:  return 17
+        case .medium: return 20
+        case .large:  return 23
+        case .xLarge: return 28
+        }
+    }
+
+    var displayName: String {
+        switch self {
+        case .small:  return "Small"
+        case .medium: return "Medium"
+        case .large:  return "Large"
+        case .xLarge: return "Extra Large"
         }
     }
 }

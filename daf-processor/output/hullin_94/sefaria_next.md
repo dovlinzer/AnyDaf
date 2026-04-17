@@ -1,0 +1,49 @@
+### Hullin 95a
+
+**1.**
+*Hebrew/Aramaic:* אִי הֲוָה פָּיְיסַתְּ מִינַּאי, מִי לָא סְפַיִי לָךְ מִשּׁוֹר שֶׁל פַּטָּם דַּעֲבַדִי אֶתְמוֹל? אֲמַר לֵיהּ: אֲכַלִי מִשׁוּפְרֵי שׁוּפְרֵי. אֲמַר לֵיהּ: מְנָלָךְ? אֲמַר לֵיהּ: דִּזְבַן פְּלוֹנִי גּוֹי וּסְפָא לִי. אֲמַר לֵיהּ: תְּרֵי עֲבַדִי, וְהָהוּא טְרֵפָה הֲוָה.
+*Translation:* **If you would have made peace with me** yesterday, **wouldn’t I have given you** a cut **from the fattened bull that I prepared yesterday?** The other individual **said to him:** Nevertheless **I ate from the finest of the fine** of that bull that you prepared. The butcher **said to him: From where** did **you** get a piece? The other **said to him: So-and-so the gentile bought** it **and fed** it **to me.** The butcher **said to him: I prepared two** bulls yesterday. One was kosher, **but that one** you ate **was a *tereifa*,** which is why I sold it to a gentile.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי: בִּשְׁבִיל שׁוֹטֶה זֶה שֶׁעָשָׂה שֶׁלֹּא כַּהוֹגֶן, אָנוּ נֶאֱסוֹר כׇּל הַמָּקוֹלִין?!
+*Translation:* **Rabbi** Yehuda HaNasi **said** when he heard of this incident: **Because of this imbecile who acted improperly** and sold non-kosher meat to the gentile butcher without publicizing that he did so, should **we forbid all** of **the** meat from gentile **butcher shops** in the city?
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי לְטַעְמֵיהּ, דַּאֲמַר: מָקוֹלִין וְטַבָּחֵי יִשְׂרָאֵל, בָּשָׂר הַנִּמְצָא בְּיַד גּוֹי – מוּתָּר.
+*Translation:* The Gemara notes that **Rabbi** Yehuda HaNasi conforms **to his** standard line of **reasoning, as** Rabbi Yehuda HaNasi **said:** If there are **butcher shops** in a city **and Jewish butchers** prepare the meat, any **meat found in the possession of a gentile,** i.e., in a gentile’s butcher shop, **is permitted.** There is no concern that the meat is from an animal that was a *tereifa*, because the Jewish butcher would not have sold it to a gentile to sell in his butcher shop.
+
+**4.**
+*Hebrew/Aramaic:* אִיכָּא דְאָמְרִי, אָמַר רַבִּי: מִפְּנֵי שׁוֹטֶה זֶה דְּאִיכַּוַּון לְצַעוֹרֵיהּ לְחַבְרֵיהּ, אָנוּ נֶאֱסוֹר כָּל הַמָּקוֹלִין?!
+*Translation:* The Gemara presents an alternate version of Rabbi Yehuda HaNasi’s reaction to the incident cited above: **There are** those **who say** that **Rabbi** Yehuda HaNasi **said: Because of this imbecile, who intended** only **to cause distress to his fellow,** should **we forbid all** of **the** meat from gentile **butcher shops?** That butcher was presumably lying about the meat having been from a *tereifa*.
+
+**5.**
+*Hebrew/Aramaic:* טַעְמָא דְּאִיכַּוַּון לְצַעוֹרֵיהּ לְחַבְרֵיהּ, הָא לָאו הָכִי, אָסוּר. וְהָתַנְיָא: רַבִּי אוֹמֵר: מָקוֹלִין וְטַבָּחֵי יִשְׂרָאֵל, בָּשָׂר הַנִּמְצָא בְּיַד גּוֹי מוּתָּר! שָׁאנֵי הָכָא, דְּאִיתַּחְזַק אִיסּוּרָא.
+*Translation:* The Gemara notes that **the reason** Rabbi Yehuda HaNasi considers the meat to be kosher is **that** the butcher **intended** only **to cause distress to his fellow.** This indicates that if **that were not so,** all the meat in the gentile butcher shops would be **forbidden. But isn’t it taught** in a *baraita* that **Rabbi** Yehuda HaNasi **said:** If there are **butcher shops** in a city **and Jewish butchers** prepare the meat, any **meat found in the possession of a gentile is permitted?** The Gemara answers: It is **different here because it has been established** that there is **forbidden** meat being sold in the butcher shops. Since it is known that a Jewish butcher sold non-kosher meat to a gentile proprietor of a butcher shop, one must be concerned that this was not an isolated incident.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב: בָּשָׂר, כֵּיוָן שֶׁנִּתְעַלֵּם מִן הָעַיִן – אָסוּר. מֵיתִיבִי: רַבִּי אוֹמֵר: מָקוֹלִין וְטַבָּחֵי יִשְׂרָאֵל, בָּשָׂר הַנִּמְצָא בְּיַד גּוֹי – מוּתָּר. נִמְצָא בְּיַד גּוֹי – שָׁאנֵי.
+*Translation:* § Apropos meat in the possession of a gentile, the Gemara cites a related discussion. **Rav says: Once meat is obscured from sight** and unsupervised, it is **forbidden,** as one must be concerned that it was exchanged for non-kosher meat. The Gemara **raises an objection** based on a *baraita*: **Rabbi** Yehuda HaNasi **said:** If there are **butcher shops** in a city **and Jewish butchers** prepare the meat, any **meat found in the possession of a gentile is permitted.** The Gemara answers: Meat **found in the possession of a gentile is different,** because the meat was not left unsupervised.
+
+**7.**
+*Hebrew/Aramaic:* תָּא שָׁמַע: תֵּשַׁע חֲנוּיוֹת, כּוּלָּן מוֹכְרוֹת בְּשַׂר שְׁחוּטָה, וְאַחַת מוֹכֶרֶת בְּשַׂר נְבֵלָה, וְלָקַח מֵאַחַת מֵהֶן וְאֵינוֹ יוֹדֵעַ מֵאֵיזֶה מֵהֶן לָקַח – סְפֵקוֹ אָסוּר, וּבְנִמְצָא הַלֵּךְ אַחַר הָרוֹב. הָכָא נָמֵי – בְּנִמְצָא בְּיַד גּוֹי.
+*Translation:* The Gemara raises another objection to the statement of Rav. **Come** and **hear** the following *baraita*: With regard to **nine stores** in a city, **all of which sell** kosher **meat** from **a slaughtered** animal, **and one** other store that **sells meat** from unslaughtered **animal carcasses, and** an individual **purchased** meat **from one of** the stores **and he does not know from which** store **he purchased** the meat, in this case of **uncertainty,** the meat **is forbidden. But in** the case of meat **found** outside, **follow the majority.** Consequently, since most of the stores sell kosher meat, it may be assumed that the meat found outside is kosher, which contradicts Rav’s statement that meat that was left unsupervised is forbidden. The Gemara answers: **Here also** the *baraita* is referring to a case where the meat was not unsupervised but rather was **found in the possession of a gentile.**
+
+**8.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מָצָא בָּהּ בָּשָׂר (אִם חַי) – הַלֵּךְ אַחַר רוֹב טַבָּחִים, וְאִם מְבוּשָּׁל – הַלֵּךְ אַחַר רוֹב אוֹכְלֵי בָשָׂר.
+*Translation:* The Gemara cites another challenge to the opinion of Rav: **Come** and **hear** the following mishna (*Makhshirin* 2:9): If one **found meat in** a city inhabited by both Jews and gentiles, **if** the meat **is raw, follow the majority of butchers,** so that if the majority of the butchers are Jewish, the meat is presumed to be kosher. **And if** the meat **is cooked, follow the majority of meat eaters,** because even if the majority of the butchers are Jewish, if the meat was cooked by a gentile it is forbidden. This mishna indicates that there are circumstances when the meat is permitted even though it was obscured from sight.
+
+**9.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: הָכָא נָמֵי בְּנִמְצָא בְּיַד גּוֹי, מְבוּשָּׁל הַלֵּךְ אַחַר רוֹב אוֹכְלֵי בָשָׂר? וְנֶחְזֵי: אִי דְּגוֹי נָקֵיט לֵיהּ, אִי דְּיִשְׂרָאֵל נָקֵיט לֵיהּ! הָכָא בְּמַאי עָסְקִינַן: בְּעוֹמֵד וְרוֹאֵהוּ.
+*Translation:* **And if you would say** that **here also** it is referring to a case **where** the meat **is found in the possession of a gentile,** why does the *baraita* state that if the meat is cooked, one should **follow the majority of meat eaters? Let us see** whether **a gentile is holding it or a Jew is holding it.** The Gemara answers: **Here we are dealing with** a case where the meat was on the ground but someone was **standing and watching it** from the time it was dropped on the ground, so that it was never left unsupervised. Yet, the person watching does not know whether it was dropped by a Jew or a gentile, and therefore a determination must be made based upon the majority of the people in the city.
+
+**10.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: נִמְצָא בַּגְּבוּלִין, אֵבָרִים – נְבֵלוֹת, חֲתִיכוֹת – מוּתָּרוֹת. וְכִי תֵּימָא: הָכָא נָמֵי בְּעוֹמֵד וְרוֹאֵהוּ, אֵבָרִים נְבֵלוֹת – אַמַּאי?
+*Translation:* The Gemara cites another challenge to the opinion of Rav from a mishna (*Shekalim* 19a). **Come** and **hear:** With regard to meat **found in the outlying areas,** outside of Jerusalem, if it is found as whole **limbs,** the meat presumably comes from **carcasses** of animals that were not properly slaughtered, as carcasses were generally cut up into full limbs and fed to dogs or sold to gentiles. But if it is in small **pieces,** it is presumably kosher and **permitted** to be eaten, as kosher meat was ordinarily cut up into small pieces. This mishna indicates that even though the meat was obscured from sight, it remains permitted. **And if you would say** that **here also** it is referring to a case **where** someone was **standing and watching it, why** is it assumed to be from **a carcass** if it is cut into whole **limbs?**
+
+**11.**
+*Hebrew/Aramaic:* מִידֵּי הוּא טַעְמָא אֶלָּא לְרַב, הָא אִיתְּמַר עֲלַהּ: רַב אָמַר מוּתָּרוֹת מִשּׁוּם נְבֵלָה, וְלֵוִי אָמַר מוּתָּרוֹת בַּאֲכִילָה.
+*Translation:* The Gemara answers: **This** mishna requires **explanation only according to Rav,** but **wasn’t it stated with regard to that** mishna: **Rav says** that the correct version of the mishna is that the small pieces of meat are **permitted,** in that they are not considered impure and that one who eats them is not liable to be flogged, as would be the case if it were meat from a **carcass.** But it is not actually permitted to eat the meat, due to the fact that it was obscured from sight. **And Levi says:** The mishna means to say that the small pieces of meat are even **permitted to be eaten.**
+
+**12.**
+*Hebrew/Aramaic:* וְהָא דְּרַב, לָאו בְּפֵירוּשׁ אִתְּמַר, אֶלָּא מִכְּלָלָא אִתְּמַר. דְּרַב הֲוָה יָתֵיב אַמַּבָּרָא דְּאִישְׁתַּטְיָא, חַזְיֵיהּ לְהָהוּא גַּבְרָא דַּהֲוָה קָא
+*Translation:* The Gemara comments: **And this** statement **of Rav,** that meat that was obscured from sight is forbidden, **was not stated explicitly** by Rav. **Rather, it was stated** that he held this opinion **based on an inference** from a different statement of Rav. **As, Rav was** once **sitting on the ford of** the **Ishtetit River. He saw a certain man who was**

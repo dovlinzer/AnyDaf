@@ -35,11 +35,16 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.anydaf.model.ResourceMatchType
+import com.anydaf.model.StudyFontSize
 import com.anydaf.model.YCTArticle
 import com.anydaf.viewmodel.ResourcesViewModel
 
 @Composable
-fun ResourcesTab(viewModel: ResourcesViewModel) {
+fun ResourcesTab(
+    viewModel: ResourcesViewModel,
+    studyFontSize: StudyFontSize = StudyFontSize.MEDIUM,
+    onSizeChange: (StudyFontSize) -> Unit = {}
+) {
     val exactArticles by viewModel.exactArticles.collectAsState()
     val nearbyArticles by viewModel.nearbyArticles.collectAsState()
     val tractateArticles by viewModel.tractateArticles.collectAsState()
@@ -147,6 +152,8 @@ fun ResourcesTab(viewModel: ResourcesViewModel) {
                     article = article,
                     html = articleHtml,
                     isLoading = isLoadingArticle,
+                    studyFontSize = studyFontSize,
+                    onSizeChange = onSizeChange,
                     onDismiss = { viewModel.dismissArticle() }
                 )
             }

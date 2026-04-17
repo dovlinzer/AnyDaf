@@ -1,0 +1,53 @@
+### Bekhorot 9a
+
+**1.**
+*Hebrew/Aramaic:* כִּי מָטֵי לְבֵי בְלִיעֵי, מְלָא כּוּזָא דְּמַיָּא מִבֵּי בְלִיעֵי. כַּד אֲתוֹ, אוֹקְמִינְהוּ קַמֵּי קֵיסָר. חֲזָנְהוּ דַּהֲווֹ מְעַנִּי, אֲמַר לֵיהּ: הָנֵי לָאו נִינְהוּ. שְׁקַל מֵעַפְרַיְיהוּ וּשְׁדָא עִילָּוַיְיהוּ, אַקְשׁוֹ לְאַפֵּי מַלְכָּא. אֲמַר לֵיהּ: כֹּל דְּבָעֵית עֲבֵיד בְּהוּ.
+*Translation:* **When they reached the House of the Swallowed,** a location in the sea where the water absorbs everything in its vicinity, Rabbi Yehoshua ben Ḥananya **filled up a small jug of water from the House of the Swallowed. When they arrived, he presented** the sages of Athens **before the emperor.** The emperor **saw that** the sages of Athens **were suffering** due to their having been taken captive. He **said to** Rabbi Yehoshua: **These** individuals **cannot be** the sages of Athens, because those sages are strong and arrogant. Rabbi Yehoshua **took** some **of the dirt** that he had taken from Athens **and threw** it **upon them.** When they smelled the scent of their own soil they began to act like themselves again, and **they spoke with arrogance before the king.** Upon hearing them, the emperor **said to** Rabbi Yehoshua: You may **do with them whatever you wish.**
+
+**2.**
+*Hebrew/Aramaic:* אַיְיתִינְהוּ מַיָּא דְּאַיְיתִי מִבֵּי בְלִיעֵי, שְׁדִינְהוּ בְּתִיגְדָּא, אֲמַר לְהוּ: מַלְיוּהּ לְהוּ וְאֵיזִילוּ לְכוּ. מְלוֹ וּשְׁדוֹ בֵּיהּ קַמָּאֵי קַמָּאֵי, וּבְלַע לְהוּ, מְלוֹ עַד דְּשָׁמֵיט כַּתְפַּיְיהוּ, וּבְלוֹ לְהוּ וַאֲזוּל.
+*Translation:* Rabbi Yehoshua **brought the water that he had brought from the House of the Swallowed** and **poured it into a utensil [*betigada*]. He said to** the sages: **Fill it up and go on your** way. **They filled and poured one by one,** i.e., they filled the utensil by pouring in water numerous times, **and** each time the utensil **swallowed** up the water. They continued to **fill** it **until their shoulders became disjointed.** In this manner, the sages of Athens **were defeated.**
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ חֲמוֹרָה שֶׁלֹּא בִּיכְּרָה וְיָלְדָה שְׁנֵי זְכָרִים — נוֹתֵן טָלֶה אֶחָד לַכֹּהֵן, זָכָר וּנְקֵבָה — מַפְרִישׁ טָלֶה אֶחָד לְעַצְמוֹ.
+*Translation:* MISHNA: In the case of **a female donkey that had not** previously **given birth and** now **gave birth to two male** offspring, as there is no doubt that one of them is firstborn, its owner **gives one lamb to the priest** in redemption of that firstborn. If it gave birth to **a male and a female** and it is not known which was born first, **he designates one lamb** as firstborn in case the male was born first. Nevertheless, since it is merely a monetary debt to the priest, the burden of proof rests upon the claimant, in this case the priest. Due to that uncertainty, the priest can offer no proof and the owner keeps the lamb **for himself.**
+
+**4.**
+*Hebrew/Aramaic:* שְׁתֵּי חֲמוֹרָיו שֶׁלֹּא בִּיכְּרוּ וְיָלְדוּ שְׁנֵי זְכָרִים — נוֹתֵן שְׁנֵי טְלָאִים לַכֹּהֵן. זָכָר וּנְקֵבָה, אוֹ שְׁנֵי זְכָרִים וּנְקֵבָה — נוֹתֵן טָלֶה אֶחָד לַכֹּהֵן. שְׁתֵּי נְקֵבוֹת וְזָכָר, אוֹ שְׁנֵי זְכָרִים וּשְׁתֵּי נְקֵבוֹת — אֵין לַכֹּהֵן כְּלוּם.
+*Translation:* If an individual has two donkeys, and both of **his two donkeys had not** previously **given birth and they** now **gave birth to two males,** one each, the owner **gives two lambs to the priest.** If they together gave birth to **a male and a female or** to **two males and a female, he gives one lamb to the priest,** as one of the males is certainly a firstborn. If they together gave birth to **two females and a male or** to **two males and two females, the priest receives nothing,** as perhaps the two firstborn were females.
+
+**5.**
+*Hebrew/Aramaic:* אַחַת בִּיכְּרָה, וְאַחַת שֶׁלֹּא בִּיכְּרָה, וְיָלְדָה שְׁנֵי זְכָרִים — נוֹתֵן טָלֶה אֶחָד לַכֹּהֵן; זָכָר וּנְקֵבָה — מַפְרִישׁ טָלֶה אֶחָד לְעַצְמוֹ.
+*Translation:* If **one** of his donkeys **had** previously **given birth and one had not** previously **given birth and** they now together **gave birth to two males,** the owner **gives one lamb to the priest** as redemption for the firstborn male. If they together gave birth to **a male and a female he designates one lamb for himself,** as it is uncertain whether or not the male was a firstborn and the burden of proof rests upon the claimant.
+
+**6.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״וּפֶטֶר חֲמוֹר תִּפְדֶּה בְשֶׂה״, מִן הַכְּבָשִׂים וּמִן הָעִזִּים, זָכָר וּנְקֵבָה, גָּדוֹל וְקָטָן, תָּמִים וּבַעַל מוּם, פּוֹדֶה בּוֹ פְּעָמִים הַרְבֵּה, נִכְנָס לְדִיר לְהִתְעַשֵּׂר, וְאִם מֵת — נֶהֱנִין בּוֹ.
+*Translation:* From where is it derived that the firstborn of a donkey is redeemed with a lamb? It is derived from a verse, **as it is stated: “And you shall redeem the firstborn of a donkey with a lamb [*seh*]”** (Exodus 34:20). The owner may give a lamb either **from sheep or from goats;** from **males or females,** from **older or younger** animals, and from **unblemished or blemished** animals. If the priest returns the lamb to the owner, he **may redeem** firstborn donkeys **with it many times.** In a case where he designates a lamb due to uncertainty and keeps it for himself, it is his in every sense. Consequently, **it enters the pen in order to be tithed** with the other non-sacred animals (see Leviticus 27:32), **and if it dies, one may derive benefit from its** carcass.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאן תַּנָּא? אָמַר רַבִּי יִרְמְיָה: דְּלָא כְּרַבִּי יוֹסֵי הַגְּלִילִי, דְּאִי רַבִּי יוֹסֵי הַגְּלִילִי — הָאָמַר אֶפְשָׁר לְצַמְצֵם!
+*Translation:* GEMARA: With regard to the first clause of the mishna the Gemara asks: **Who** is the *tanna* who **taught** that if a female donkey that had never given birth before gives birth to twin males, the owner gives only one lamb to the priest? **Rabbi Yirmeya says:** It is **not in accordance with** the opinion of **Rabbi Yosei HaGelili. As if** it were in accordance with the opinion of **Rabbi Yosei HaGelili, doesn’t he say** in a later mishna (17a) with regard to a kosher animal that gave birth to two males and both their heads emerged as one, that **it is possible that** both births **coincided precisely,** and therefore both of the twins are given to the priest? According to his opinion, in the case here as well, two lambs should be given to the priest. The mishna clearly follows the opinion of the Rabbis that only one of the two is considered a firstborn.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: אֲפִילּוּ תֵּימָא רַבִּי יוֹסֵי הַגְּלִילִי, שָׁאנֵי הָתָם דִּכְתִיב ״הַזְּכָרִים לַה׳״.
+*Translation:* **Abaye says: You** may **even say** that the mishna is in accordance with the opinion of **Rabbi Yosei HaGelili,** and it **is different there** with regard to a kosher animal, **as it is written:** “Every firstborn that you have of animals, **the males shall be the Lord’s”** (Exodus 13:12), i.e., the word “males” is written in the plural. This indicates that if they emerged simultaneously they both have firstborn status. By contrast, with regard to redeeming a firstborn donkey, only one has firstborn status.
+
+**9.**
+*Hebrew/Aramaic:* וְלִיגְמַר מִינֵּיהּ! הָא מַיעֵט רַחֲמָנָא ״הַזְּכָרִים״.
+*Translation:* The Gemara challenges: **But let him derive from** the *halakha* of a firstborn kosher animal that the *halakha* of a firstborn donkey is the same. The Gemara answers: **The Merciful One restricted** this principle to the case of a firstborn kosher animal, where it is written: **“The males** shall be the Lord’s.” The word “the” indicates that two males can be considered firstborn only in the case of a firstborn kosher animal.
+
+**10.**
+*Hebrew/Aramaic:* אִיכָּא דְאָמְרִי: לֵימָא דְּלָא כְּרַבִּי יוֹסֵי הַגְּלִילִי, דְּאִי רַבִּי יוֹסֵי הַגְּלִילִי — הָאָמַר אֶפְשָׁר לְצַמְצֵם! אָמַר אַבָּיֵי: אֲפִילּוּ תֵּימָא רַבִּי יוֹסֵי הַגְּלִילִי, שָׁאנֵי הָתָם דִּכְתִיב ״הַזְּכָרִים לַה׳״.
+*Translation:* **Some say** there is another version of this discussion: **Let us say that** the mishna is **not in accordance with** the opinion of **Rabbi Yosei HaGelili, as if** it follows the opinion of **Rabbi Yosei HaGelili, doesn’t he say it is possible that** both births **coincide precisely,** and if they were born simultaneously both are considered firstborn? **Abaye says: You** may **even say** it is in accordance with the opinion of **Rabbi Yosei HaGelili,** and it **is different there, as it is written: “The males shall be the Lord’s.”**
+
+**11.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַבִּי יִרְמְיָה, דְּלָא מוֹקֵי לַהּ כְּרַבִּי יוֹסֵי הַגְּלִילִי — הַיְינוּ דְּלָא קָתָנֵי ״וְיָצְאוּ שְׁנֵי רָאשֵׁיהֶן כְּאֶחָד״, אֶלָּא לְאַבָּיֵי — לִיתְנֵי ״וְיָצְאוּ שְׁנֵי רָאשֵׁיהֶן כְּאֶחָד״!
+*Translation:* The Gemara asks: **Granted, according to Rabbi Yirmeya, who does not interpret** the mishna **in accordance with** the opinion of **Rabbi Yosei HaGelili, that is** the reason **that it does not teach: And both of their heads emerged as one,** as stated in the mishna where the ruling of Rabbi Yosei HaGelili is taught; according to the Rabbis who disagree with Rabbi Yosei HaGelili, this is impossible. **But according to Abaye,** who holds that the mishna is in accordance with the opinion of Rabbi Yosei HaGelili and such an occurrence is possible, **let** the mishna **teach: And both of their heads emerged as one,** indicating that in this case even Rabbi Yosei HaGelili agrees only one lamb is given to the priest.
+
+**12.**
+*Hebrew/Aramaic:* וְעוֹד, תַּנְיָא: חֲמוֹרוֹ שֶׁלֹּא בִּיכְּרָה וְיָלְדָה שְׁנֵי זְכָרִים, וְיָצְאוּ שְׁנֵי רָאשֵׁיהֶן כְּאֶחָד, רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר: שְׁנֵיהֶן לַכֹּהֵן, שֶׁנֶּאֱמַר ״הַזְּכָרִים לַה׳״.
+*Translation:* **Furthermore, it is taught** in a *baraita*: If one’s **donkey had not** previously **given birth and** now **gave birth to two males, and both of their heads emerged as one, Rabbi Yosei HaGelili says: Both of them** are given **to the priest, as it is stated: “The males shall be the Lord’s.”**
+
+**13.**
+*Hebrew/Aramaic:* וְהָא כִּי כְּתִיב הַאי, בִּקְדוּשַּׁת הַגּוּף הוּא דִּכְתִיב! אֶלָּא מִשּׁוּם שֶׁנֶּאֱמַר ״הַזְּכָרִים לַה׳״, תְּיוּבְתָּא דְאַבָּיֵי, תְּיוּבְתָּא.
+*Translation:* The Gemara clarifies: **But when this** verse **is written, isn’t it written with regard to** a firstborn kosher animal, which has **inherent sanctity,** unlike a firstborn donkey? **Rather, because it is stated** with regard to a kosher animal: **“The males shall be the Lord’s,”** this serves as the basis for the *halakha* with regard to the firstborn of a non-kosher animal that both males can be considered firstborn. If so, **the refutation of** the opinion of **Abaye** is in fact **a conclusive refutation,** and the mishna is in accordance with the opinion of the Rabbis, not that of Rabbi Yosei HaGelili.

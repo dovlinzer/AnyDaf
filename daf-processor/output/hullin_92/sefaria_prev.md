@@ -1,0 +1,73 @@
+### Hullin 91b
+
+**1.**
+*Hebrew/Aramaic:* ״הִנֵּה הוּא זֹרֶה אֶת גֹּרֶן הַשְּׂעֹרִים״.
+*Translation:* “And now is there not Boaz our kinsman, whose maidens you were with? **Behold, he winnows barley tonight in the threshing floor**…and it shall be, when he lies down, that you shall mark the place where he shall lie” (Ruth 3:2–3). This teaches that the reason Boaz did not return home from the threshing floor was that a Torah scholar should not go out alone at night.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי אֲבָהוּ אָמַר מֵהָכָא: ״וַיַּשְׁכֵּם אַבְרָהָם בַּבֹּקֶר וַיַּחֲבֹשׁ אֶת וְגוֹ׳״.
+*Translation:* **Rabbi Abbahu said** that the source is **from here: “And Abraham rose early in the morning, and saddled** his donkey, and took two of his young men with him and Isaac his son; and he split the wood for the burnt offering, and rose up, and went to the place that God had told him” (Genesis 22:3). The fact that Abraham waited until morning and did not set off at night, even though others were traveling with him, indicates that a Torah scholar should not go out at night at all, and certainly not alone.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבָּנַן אָמְרִי מֵהָכָא: ״לֶךְ נָא רְאֵה אֶת שְׁלוֹם אַחֶיךָ וְאֶת שְׁלוֹם וְגוֹ׳״.
+*Translation:* **And the Rabbis say** that the source is **from here,** the verse that describes when Jacob sent Joseph to his brothers: “And he said to him: **Go now, see whether it is well with you brothers and well** with the flock; and bring me back word. So he sent him out of the valley of Hebron, and he came to Shechem” (Genesis 37:14). The verse indicates that Jacob sent Joseph at a time when he could see his brothers, i.e., during the day. This shows that a Torah scholar should not go out alone at night.
+
+**4.**
+*Hebrew/Aramaic:* רַב אָמַר מֵהָכָא: ״וַיִּזְרַח לוֹ הַשֶּׁמֶשׁ״.
+*Translation:* **Rav said** that the source is **from here: “And the sun rose for him** as he passed over Peniel, and he limped upon his thigh” (Genesis 32:32). This indicates that Jacob remained where he was all night and left in the morning, because a Torah scholar should not go out alone at night.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבִּי עֲקִיבָא: שָׁאַלְתִּי אֶת רַבָּן גַּמְלִיאֵל וְאֶת רַבִּי יְהוֹשֻׁעַ בָּאִיטְלִיז שֶׁל אִימָאוּם, שֶׁהָלְכוּ לִיקַּח בְּהֵמָה לְמִשְׁתֵּה בְנוֹ שֶׁל רַבָּן גַּמְלִיאֵל. כְּתִיב ״וַיִּזְרַח לוֹ הַשֶּׁמֶשׁ״, וְכִי שֶׁמֶשׁ לוֹ לְבַד זָרְחָה? וַהֲלֹא לְכׇל הָעוֹלָם זָרְחָה!
+*Translation:* The Gemara cites an incident involving the final verse cited above. **Rabbi Akiva says: I asked** the following question of **Rabban Gamliel and Rabbi Yehoshua in the meat market [*be’itliz*] of** the town **Emmaus, where they went to purchase an animal for the** wedding **feast of Rabban Gamliel’s son: It is written** in the verse: **“And the sun shone for him** when he passed Peniel, and he limped upon his thigh” (Genesis 32:32). **But did the sun shine only for him? Didn’t it shine for the entire world?**
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק: שֶׁמֶשׁ הַבָּאָה בַּעֲבוּרוֹ זָרְחָה בַּעֲבוּרוֹ, דִּכְתִיב: ״וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע וַיֵּלֶךְ חָרָנָה״, וּכְתִיב: ״וַיִּפְגַּע בַּמָּקוֹם״. כִּי מְטָא לְחָרָן אָמַר: אֶפְשָׁר עָבַרְתִּי עַל מָקוֹם שֶׁהִתְפַּלְּלוּ אֲבוֹתַי וַאֲנִי לֹא הִתְפַּלַּלְתִּי? כַּד יָהֵיב דַּעְתֵּיהּ לְמִיהְדַּר, קְפַצָה לֵיהּ אַרְעָא, מִיָּד – ״וַיִּפְגַּע בַּמָּקוֹם״.
+*Translation:* **Rabbi Yitzḥak says:** The verse means that **the sun, which set** early exclusively **for him,** also **shone** early exclusively **for him** in order to rectify the disparity created by the premature sunset. The Gemara explains when the sun set early for him: **As it is written: “And Jacob went out from Beersheba and went toward Haran”** (Genesis 28:10). **And it is written** thereafter: **“And he encountered the place,** and he slept there, because the sun had set” (Genesis 28:11). **When** Jacob **arrived at Haran, he said:** Is it **possible** that **I passed a place where my fathers prayed and I did not pray** there? **When he set his mind to return, the land contracted for him. Immediately** the verse states: **“And he encountered the place,”** indicating that he arrived there miraculously.
+
+**7.**
+*Hebrew/Aramaic:* כַּד צַלִּי, בָּעֵי לְמֶיהְדַּר, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: צַדִּיק זֶה בָּא לְבֵית מְלוֹנִי, וְיִפָּטֵר בְּלֹא לִינָה? מִיָּד, ״בָּא הַשֶּׁמֶשׁ״.
+*Translation:* **When he** had finished **praying** and **he wanted to return** to Haran, **the Holy One, Blessed be He, said: This righteous man came to my lodging place and he will depart without remaining overnight? Immediately, the sun set** before its proper time so that Jacob would stay overnight in that place.
+
+**8.**
+*Hebrew/Aramaic:* כְּתִיב ״וַיִּקַּח מֵאַבְנֵי הַמָּקוֹם״, וּכְתִיב ״וַיִּקַּח אֶת הָאֶבֶן״. אָמַר רַבִּי יִצְחָק: מְלַמֵּד שֶׁנִּתְקַבְּצוּ כׇּל אוֹתָן אֲבָנִים לְמָקוֹם אֶחָד, וְכׇל אַחַת וְאַחַת אוֹמֶרֶת: ״עָלַי יַנִּיחַ צַדִּיק זֶה רֹאשׁוֹ״. תָּנָא: וְכוּלָּן נִבְלְעוּ בְּאֶחָד.
+*Translation:* The Gemara cites another exposition of Rabbi Yitzḥak to explain an apparent contradiction between two verses pertaining to this incident. **It is written: “And he took of the stones of the place,** and placed them under his head, and lay down in that place to sleep” (Genesis 28:11). **And it is written:** “And Jacob rose up early in the morning, **and he took the stone** that he had placed under his head, and set it up for a pillar, and poured oil upon the top of it” (Genesis 28:18). The first verse indicates that Jacob took several stones, whereas the latter verse indicates that he took only one stone. **Rabbi Yitzḥak says:** This **teaches that all those stones gathered to one place and each one said:** Let **this righteous man place his head upon me.** And it was **taught: And all of them were absorbed into one** large rock.
+
+**9.**
+*Hebrew/Aramaic:* ״וַיַּחֲלֹם וְהִנֵּה סֻלָּם מֻצָּב אַרְצָה״, תָּנָא: כַּמָּה רׇחְבּוֹ שֶׁל סוּלָּם? שְׁמוֹנַת אֲלָפִים פַּרְסָאוֹת, דִּכְתִיב: ״וְהִנֵּה מַלְאֲכֵי אֱלֹהִים עוֹלִים וְיוֹרְדִים בּוֹ״, ״עוֹלִים״ – שְׁנַיִם, ״וְיוֹרְדִים״ – שְׁנַיִם, וְכִי פָגְעוּ בַּהֲדֵי הֲדָדֵי הָווּ לְהוּ אַרְבָּעָה.
+*Translation:* The Gemara expounds other verses pertaining to the same incident. The verse states: **“And he dreamed, and behold a ladder set up on the earth,** and the top of it reached to heaven; and behold the angels of God ascending and descending on it” (Genesis 28:12). It was **taught: How wide was the ladder?** It was **eight thousand parasangs [*parsaot*], as it is written: “And behold the angels of God ascending and descending on it.”** The word **“ascending [*olim*],”** written in plural, indicates that there were **two** angels ascending simultaneously. Likewise, the term **“and descending [*veyordim*],”** also in the plural, indicates that **two** angels were descending simultaneously. **And when they met one another they were** a total of **four** in one place, so the ladder must have been wide enough to accommodate four angels.
+
+**10.**
+*Hebrew/Aramaic:* וּכְתִיב בֵּיהּ בְּמַלְאָךְ ״וּגְוִיָּתוֹ כְתַרְשִׁישׁ״, וּגְמִירִי דְּתַרְשִׁישׁ תְּרֵי אַלְפֵי פַּרְסֵי הָוֵי.
+*Translation:* **And it is written** in a verse **with regard to an angel: “His body was like Tarshish”** (Daniel 10:6). **And** it **is learned** as a tradition **that** the city of **Tarshish was two thousand parasangs.** Consequently, in order to accommodate four angels, the ladder must have been eight thousands parasangs wide.
+
+**11.**
+*Hebrew/Aramaic:* תָּנָא: עוֹלִין וּמִסְתַּכְּלִין בִּדְיוֹקְנוֹ שֶׁל מַעְלָה, וְיוֹרְדִין וּמִסְתַּכְּלִין בִּדְיוֹקְנוֹ שֶׁל מַטָּה. בְּעוֹ לְסַכּוֹנֵיהּ, מִיָּד ״וְהִנֵּה ה׳ נִצָּב עָלָיו״. אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: אִלְמָלֵא מִקְרָא כָּתוּב אִי אֶפְשָׁר לְאׇמְרוֹ, כְּאָדָם שֶׁמֵּנִיף עַל בְּנוֹ.
+*Translation:* It was **taught** that the angels were **ascending and gazing at the image of [*bidyokeno*]** Jacob **above,** engraved on the Throne of Glory, **and descending and gazing at his image below.** The angels subsequently became jealous of Jacob, and **wanted to endanger** his life. **Immediately** Jacob received divine protection, as the verse states: **“And behold, the Lord stood over him”** (Genesis 28:13). **Rabbi Shimon ben Lakish says: Were it not written** in a **verse it would be impossible to utter it,** in deference to God, since it describes God as standing over Jacob to protect him from the angels **like a man who waves** a fan **over his son** to cool him down.
+
+**12.**
+*Hebrew/Aramaic:* ״הָאָרֶץ אֲשֶׁר אַתָּה שֹׁכֵב עָלֶיהָ וְגוֹ׳״, מַאי רְבוּתֵיהּ? אָמַר רַבִּי יִצְחָק: מְלַמֵּד שֶׁקִּפְּלָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא לְכׇל אֶרֶץ יִשְׂרָאֵל וְהִנִּיחָה תַּחַת יַעֲקֹב אָבִינוּ, שֶׁתְּהֵא נוֹחָה לִיכָּבֵשׁ לְבָנָיו.
+*Translation:* The Gemara explains another verse from Jacob’s dream. “And behold, the Lord stood over him and said: I am the Lord, the God of Abraham your father and the God of Isaac. **The land upon which you lie,** to you will I give it, and to your seed” (Genesis 28:13). The Gemara asks: **What is the greatness** of this promise, i.e., why is it expressed in this way despite the fact that in a literal sense Jacob was lying on a very small amount of land? **Rabbi Yitzḥak says:** This **teaches that the Holy One, Blessed be He, folded** up **the entirety of Eretz Yisrael and placed it under Jacob, our patriarch, so that it would be easy for his children to conquer.**
+
+**13.**
+*Hebrew/Aramaic:* ״וַיֹּאמֶר שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר״, אָמַר לוֹ: גַּנָּב אַתָּה אוֹ קוּבְיוּסְטוּס אַתָּה שֶׁמִּתְיָירֵא מִן הַשַּׁחַר? אָמַר לוֹ: מַלְאָךְ אֲנִי, וּמִיּוֹם שֶׁנִּבְרֵאתִי לֹא הִגִּיעַ זְמַנִּי לוֹמַר שִׁירָה עַד עַכְשָׁיו.
+*Translation:* The Gemara returns to the verses that describe Jacob wrestling with the angel. **“And he said: Let me go, for the dawn has risen.** And he said: I will not let you go until you bless me” (Genesis 32:27). Jacob **said to** the angel: **Are you a thief, or are you a gambler [*kuveyustus*], who is afraid of dawn?** The angel **said to him: I am an angel, and from the day I was created my time to recite a song** before God **has not arrived, until now.** Now I must ascend so that I can sing songs of praise to God.
+
+**14.**
+*Hebrew/Aramaic:* מְסַיַּיע לֵיהּ לְרַב חֲנַנְאֵל אָמַר רַב, דְּאָמַר רַב חֲנַנְאֵל אָמַר רַב: שָׁלֹשׁ כִּתּוֹת שֶׁל מַלְאֲכֵי הַשָּׁרֵת אוֹמְרוֹת שִׁירָה בְּכׇל יוֹם, אַחַת אוֹמֶרֶת ״קָדוֹשׁ״, וְאַחַת אוֹמֶרֶת ״קָדוֹשׁ״, וְאַחַת אוֹמֶרֶת ״קָדוֹשׁ ה׳ צְבָאוֹת״.
+*Translation:* The Gemara comments: This **supports** the opinion **of Rav Ḥananel** when he related what **Rav said. As Rav Ḥananel said** that **Rav said: Three groups of ministering angels recite a song every day** from the verse “Holy, holy, holy is the Lord”; **one says: “Holy,” and** another **one says: “Holy,” and** another **one says: “Holy is the Lord of hosts;** the whole earth is full of His glory” (Isaiah 6:3).
+
+**15.**
+*Hebrew/Aramaic:* מֵיתִיבִי: חֲבִיבִין יִשְׂרָאֵל לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא יוֹתֵר מִמַּלְאֲכֵי הַשָּׁרֵת, שֶׁיִּשְׂרָאֵל אוֹמְרִים שִׁירָה בְּכׇל שָׁעָה, וּמַלְאֲכֵי הַשָּׁרֵת אֵין אוֹמְרִים שִׁירָה אֶלָּא פַּעַם אַחַת בַּיּוֹם, וְאָמְרִי לַהּ פַּעַם אַחַת בְּשַׁבָּת, וְאָמְרִי לַהּ פַּעַם אַחַת בְּחוֹדֶשׁ, וְאָמְרִי לַהּ פַּעַם אַחַת בַּשָּׁנָה, וְאָמְרִי לַהּ פַּעַם אַחַת בְּשָׁבוּעַ, וְאָמְרִי לַהּ פַּעַם אַחַת בְּיוֹבֵל, וְאָמְרִי לַהּ פַּעַם אַחַת בָּעוֹלָם.
+*Translation:* The Gemara **raises an objection** from the following *baraita*: **The Jewish people are more dear to the Holy One, Blessed be He, than the ministering angels, as the Jewish people** may **recite a song** of praise to God **at any time, but ministering angels recite a song** of praise **only one time per day. And some say** that the ministering angels recite a song of praise **one time per week. And some say** that they recite a song of praise **one time per month. And some say** that they recite a song of praise **one time per year. And some say** that they recite a song of praise **one time in** every **seven years. And some say** that they recite a song of praise **one time per Jubilee. And some say** that they recite a song of praise **one time in** the entire history of **the world.**
+
+**16.**
+*Hebrew/Aramaic:* וְיִשְׂרָאֵל מַזְכִּירִין אֶת הַשֵּׁם אַחַר שְׁתֵּי תֵּיבוֹת, שֶׁנֶּאֱמַר: ״שְׁמַע יִשְׂרָאֵל ה׳ וְגוֹ׳״, וּמַלְאֲכֵי הַשָּׁרֵת אֵין מַזְכִּירִין אֶת הַשֵּׁם אֶלָּא לְאַחַר שָׁלֹשׁ תֵּיבוֹת, כְּדִכְתִיב: ״קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ ה׳ צְבָאוֹת״.
+*Translation:* **And** furthermore, **the Jewish people mention the name** of God **after two words, as it is stated: “Hear, Israel: The Lord** our God, the Lord is one” (Deuteronomy 6:4). **But the ministering angels mention the name** of God **only after three words, as it is written:** “And one called unto another, and said: **“Holy, holy, holy is the Lord of hosts;** the whole earth is full of His glory” (Isaiah 6:3).
+
+**17.**
+*Hebrew/Aramaic:* וְאֵין מַלְאֲכֵי הַשָּׁרֵת אוֹמְרִים שִׁירָה לְמַעְלָה, עַד שֶׁיֹּאמְרוּ יִשְׂרָאֵל לְמַטָּה, שֶׁנֶּאֱמַר: ״בְּרׇן יַחַד כּוֹכְבֵי בֹקֶר״, וַהֲדַר ״וַיָּרִיעוּ כׇּל בְּנֵי אֱלֹהִים״.
+*Translation:* **And the ministering angels do not recite** their **song above until the Jewish people recite** their song **below,** on earth, **as it is stated: “When the morning stars sang together”** (Job 38:7), referring to the Jewish people, who are compared to stars; **and** only **then** does the verse state: **“And all the sons of God shouted for joy,”** which is a reference to the angels. This *baraita* teaches that the angels mention the name of God only after three words, i.e., after saying the word “holy” three times, whereas according to what Rav Ḥananel stated that Rav said, the third group of angels says the word “holy” once and then immediately mentions the name of God.
+
+**18.**
+*Hebrew/Aramaic:* אֶלָּא, אַחַת אוֹמֶרֶת ״קָדוֹשׁ״, וְאַחַת אוֹמֶרֶת ״קָדוֹשׁ קָדוֹשׁ״, וְאַחַת אוֹמֶרֶת ״קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ ה׳ צְבָאוֹת״. וְהָאִיכָּא ״בָּרוּךְ״!
+*Translation:* The Gemara emends Rav Ḥananel’s statement citing Rav: **Rather,** Rav said that **one** group of ministering angels **says: “Holy,” and** another **one says: “Holy, holy,” and** another **one says: “Holy, holy, holy is the Lord of hosts.”** The Gemara challenges the statement of the *baraita* that the angels mention the name of God only after three words: **But there is** the verse: “Then a spirit lifted me up, and I heard behind me the voice of a great rushing: **Blessed be** the glory of the Lord from His place” (Ezekiel 3:12). In this praise, “Blessed be the glory of the Lord,” the word “Lord” appears as the third Hebrew word, apparently uttered by the ministering angels.

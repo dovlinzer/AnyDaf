@@ -1,0 +1,870 @@
+```json
+{
+  "masechta": "Hullin",
+  "daf": 99,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "Background Review: Taste versus Quantity in Bitul and the Sephardic versus Ashkenazic Approaches",
+      "display_title": "Taste vs. Quantity",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction to the daf and review of taste (ta'am) and sixty (shishim) as measures of bitul",
+          "display_title": "Intro & Review",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The two models for determining ta'am: tasting versus numerical substitution (shishim)",
+          "display_title": "Two Models",
+          "timestamp": "01:06"
+        },
+        {
+          "title": "Sephardic approach: non-Jewish taster as primary method; Ashkenazic approach: uniform one-in-sixty standard",
+          "display_title": "Sefardi vs. Ashkenazi",
+          "timestamp": "02:55"
+        },
+        {
+          "title": "Rashi's position: quantity (shishim) as independent biblical requirement alongside ta'am; Tosafot's position: asmachta",
+          "display_title": "Rashi vs. Tosafot",
+          "timestamp": "04:00"
+        }
+      ]
+    },
+    {
+      "title": "Ravina's Resolution: The Arm of the Ram (Zroa Beshelah) as Irrelevant to Bitul",
+      "display_title": "Zroa Beshelah",
+      "timestamp": "05:39",
+      "micro_segments": [
+        {
+          "title": "Ravina's claim that the special case of the arm cooked with the ram concerns only the place of cutting, not bitul",
+          "display_title": "Ravina's Claim",
+          "timestamp": "05:39"
+        },
+        {
+          "title": "Explanation of makom chatech: the cutting point of forbidden items and the grey zone at the boundary",
+          "display_title": "Makom Chatech",
+          "timestamp": "06:01"
+        },
+        {
+          "title": "Application to fetus with protruding arm: leniency at the exact connection point between forbidden and permitted",
+          "display_title": "Fetus & Arm",
+          "timestamp": "06:10"
+        },
+        {
+          "title": "Tosafot's position: no scriptural source needed; logic suffices that the Torah means remove and give, not worry about the border",
+          "display_title": "Tosafot Logic",
+          "timestamp": "08:08"
+        }
+      ]
+    },
+    {
+      "title": "Abaye's Challenge: Can One Require One-in-Hundred Bitul for Normal Issurim?",
+      "display_title": "Abaye's Challenge",
+      "timestamp": "08:32",
+      "micro_segments": [
+        {
+          "title": "Abaye questions how the opinion of one-in-hundred for normal issurim can stand, given the Mishna's silence on numbers for non-agricultural cases",
+          "display_title": "Question",
+          "timestamp": "08:32"
+        },
+        {
+          "title": "Mishna on Orlah: discrimination between min b'mino and min she'eino mino based on stringency or leniency and taste",
+          "display_title": "Orlah Mishna",
+          "timestamp": "09:36"
+        },
+        {
+          "title": "Framework of min b'mino (like with like) and min she'eino mino (unlike with unlike) and their different rules",
+          "display_title": "Min B'mino Framework",
+          "timestamp": "10:42"
+        },
+        {
+          "title": "Distinction: min she'eino mino always goes by taste; min b'mino requires higher numbers but is biblically nullified by majority",
+          "display_title": "Taste vs. Majority",
+          "timestamp": "11:14"
+        },
+        {
+          "title": "Rambam's middle position: battel me'otzem mi'uto (nullified by extreme insignificance) for min b'mino even when taste cannot distinguish",
+          "display_title": "Rambam Position",
+          "timestamp": "12:00"
+        },
+        {
+          "title": "Application: by Terumah and Orlah, we demand one-in-hundred only by min b'mino, not min she'eino mino",
+          "display_title": "Terumah Rules",
+          "timestamp": "12:45"
+        }
+      ]
+    },
+    {
+      "title": "Mishna Case: Grisin and Lentils (min she'eino mino) and Sourdough with Dough (min b'mino)",
+      "display_title": "Grisin & Sourdough",
+      "timestamp": "14:31",
+      "micro_segments": [
+        {
+          "title": "Mishna on grisin and lentils (unlike foods) cooked together: taste determines bitul regardless of quantity",
+          "display_title": "Grisin & Lentils",
+          "timestamp": "14:31"
+        },
+        {
+          "title": "Reading the Mishna: if taste is present, forbidden; if no taste, permitted whether one-hundred-and-one or not",
+          "display_title": "Mishna Reading",
+          "timestamp": "15:37"
+        },
+        {
+          "title": "Mishna on sourdough and dough (like with like): fermentation power and quantity equally required",
+          "display_title": "Sourdough Case",
+          "timestamp": "20:29"
+        },
+        {
+          "title": "Analysis: by min b'mino, always need the number (one-in-hundred) plus inability to feel impact (fermentation)",
+          "display_title": "Two Requirements",
+          "timestamp": "21:44"
+        }
+      ]
+    },
+    {
+      "title": "Gemara's Inference: The Mishna Implies Sixty, Not One-Hundred, for Non-Strict Cases of min she'eino mino",
+      "display_title": "Sixty Inference",
+      "timestamp": "18:02",
+      "micro_segments": [
+        {
+          "title": "Gemara question: if Mishna says no taste means permissible for min she'eino mino without mention of one-hundred, what number is implied?",
+          "display_title": "Implied Number",
+          "timestamp": "18:02"
+        },
+        {
+          "title": "Gemara's logic: the number must be sixty, not one-hundred, else the two cases (min b'mino strict and min she'eino mino lenient) would be identical",
+          "display_title": "Logic Chain",
+          "timestamp": "19:24"
+        },
+        {
+          "title": "Alternative proposal: maybe both risha and seifa use one-hundred",
+          "display_title": "Alt: Both 100",
+          "timestamp": "24:35"
+        },
+        {
+          "title": "Gemara's resolution: risha uses one-hundred-and-one (strict); seifa uses one-hundred (lenient); the difference is the measure of permission",
+          "display_title": "101 vs. 100",
+          "timestamp": "24:45"
+        }
+      ]
+    },
+    {
+      "title": "Rejection of One-Hundred for Normal Issurim and the Doctrine of Unequal Shi'urim",
+      "display_title": "Unequal Shi'urim",
+      "timestamp": "26:01",
+      "micro_segments": [
+        {
+          "title": "Gemara's firm rejection of one-in-hundred for normal issurim as a universal rule",
+          "display_title": "Rejection",
+          "timestamp": "26:01"
+        },
+        {
+          "title": "Rav Yosef bar Chanina: not all shi'urim are equal; some substances (pungent things, spices, sourdough) require stricter measures despite the number",
+          "display_title": "Unequal Measures",
+          "timestamp": "27:23"
+        },
+        {
+          "title": "Examples: fish brine (tzir) requires close to two-hundred; fermentation ability and pungency override numerical calculations",
+          "display_title": "Fish Brine Example",
+          "timestamp": "29:02"
+        },
+        {
+          "title": "Caveat: even when one-in-sixty or numbers are satisfied, pungent or functionally impactful substances cannot be ignored",
+          "display_title": "Pungency Override",
+          "timestamp": "28:12"
+        },
+        {
+          "title": "Additional complexity: natural flavors and insects as undetectable-yet-potent additives that defeat numerical measures",
+          "display_title": "Modern Examples",
+          "timestamp": "28:23"
+        },
+        {
+          "title": "Gemara on tzir: Rabbi Yehuda's measure of one-revi'is in sasayim; debate whether fish brine is considered min b'mino and why",
+          "display_title": "Tzir Measure",
+          "timestamp": "29:13"
+        },
+        {
+          "title": "Distinction: fish brine (tzir) is lenient because it is merely sweat, not the thing itself; different standard than the substance",
+          "display_title": "Tzir Leniency",
+          "timestamp": "29:50"
+        }
+      ]
+    },
+    {
+      "title": "Summary of Numerical Rules and the Sephardic-Ashkenazic Practical Split",
+      "display_title": "Summary & Practice",
+      "timestamp": "33:13",
+      "micro_segments": [
+        {
+          "title": "Summary of rules: Terumah and Orlah use one-in-hundred (min b'mino) and one-in-two-hundred; normal issurim use one-in-sixty",
+          "display_title": "Rule Summary",
+          "timestamp": "33:13"
+        },
+        {
+          "title": "Ta'am k'ikar de'oraita: taste of forbidden substance is considered like the substance itself biblically",
+          "display_title": "Ta'am K'ikar",
+          "timestamp": "33:40"
+        },
+        {
+          "title": "Sephardic approach: rely on non-Jewish taster; if unavailable, use one-in-sixty as fallback",
+          "display_title": "Sefardi Method",
+          "timestamp": "34:28"
+        },
+        {
+          "title": "Ashkenazic approach: uniform one-in-sixty standard regardless of context; preference for numbers over tasting",
+          "display_title": "Ashkenazi Method",
+          "timestamp": "34:34"
+        },
+        {
+          "title": "Practical anecdote: wedding feast with treif mixture; non-Jewish chef's tasting followed by Jewish taster for dual approval",
+          "display_title": "Wedding Anecdote",
+          "timestamp": "35:40"
+        }
+      ]
+    },
+    {
+      "title": "Determining Taste: The Model of Meat and Turnips",
+      "display_title": "Meat & Turnips",
+      "timestamp": "38:40",
+      "micro_segments": [
+        {
+          "title": "Rav Huna's model: meat with turnip heads as analogy for gid hanasheh cooked with meat; testing ta'am through comparable cases",
+          "display_title": "Rav Huna Model",
+          "timestamp": "38:40"
+        },
+        {
+          "title": "Rashi's interpretation: turnip heads absorb and disperse taste better than roots, thus more lenient",
+          "display_title": "Rashi View",
+          "timestamp": "38:52"
+        },
+        {
+          "title": "Tosafot's interpretation: turnip roots are harder and less absorbent, thus stricter",
+          "display_title": "Tosafot View",
+          "timestamp": "39:16"
+        }
+      ]
+    },
+    {
+      "title": "Baraita: Rabbi Yehoshua ben Beroka and Gid Hanasheh without Ta'am",
+      "display_title": "Baraita: No Ta'am",
+      "timestamp": "39:41",
+      "micro_segments": [
+        {
+          "title": "Baraita: Rabbi Yehoshua ben Beroka—gid hanasheh has no taste; no concern if cooked in thigh",
+          "display_title": "Baraita Text",
+          "timestamp": "39:41"
+        },
+        {
+          "title": "Distinction from earlier debate: not debating what is forbidden, but noting gid hanasheh happens to lack taste",
+          "display_title": "What's Forbidden",
+          "timestamp": "40:24"
+        }
+      ]
+    },
+    {
+      "title": "Halakhic Pluralism: Rabbi Chanina, Rabbi Yehuda bar Zvina, and Legitimate Competing Positions",
+      "display_title": "Halakhic Pluralism",
+      "timestamp": "40:43",
+      "micro_segments": [
+        {
+          "title": "Story setup: person consults Rabbi Chanina about cooked gid hanasheh; Rabbi Yehuda bar Zvina questions the answer",
+          "display_title": "Story Setup",
+          "timestamp": "40:43"
+        },
+        {
+          "title": "Rabbi Chanina's response: gid hanasheh has no ta'am, thus permissible; dismisses further questioning",
+          "display_title": "Chanina's Psak",
+          "timestamp": "41:11"
+        },
+        {
+          "title": "Consultation before Rabbi Ammi: referral to Rabbi Yitzchak bar Chalov, who rules leniently like Rabbi Yehoshua ben Levi",
+          "display_title": "Ammi Referral",
+          "timestamp": "42:44"
+        },
+        {
+          "title": "Rabbi Ammi's position: holds stringently himself but acknowledges Rabbi Yitzchak's lenient position as legitimate",
+          "display_title": "Ammi's Stance",
+          "timestamp": "42:57"
+        },
+        {
+          "title": "Philosophical significance: explicit acknowledgment of multiple legitimate halakhic positions without declaring others sinful",
+          "display_title": "Pluralism Significance",
+          "timestamp": "43:10"
+        },
+        {
+          "title": "Distinction from compromise or relativism: maintaining personal conviction while recognizing others' legitimacy and referring appropriately",
+          "display_title": "Not Relativism",
+          "timestamp": "43:20"
+        },
+        {
+          "title": "Contrast with standard eilu v'eilu formula: usual formula ends with ve-halakhah ke-divrei Beis Hillel; this case is more open-ended",
+          "display_title": "Eilu V'eilu",
+          "timestamp": "44:18"
+        }
+      ]
+    },
+    {
+      "title": "Discussion of Rabbi Shopping, Religious Authority, and Choosing Multiple Rabbis",
+      "display_title": "Rabbi Shopping",
+      "timestamp": "47:09",
+      "micro_segments": [
+        {
+          "title": "Question: can individuals, not just rabbis, shop between authorities?",
+          "display_title": "Individual Shopping",
+          "timestamp": "47:09"
+        },
+        {
+          "title": "Eseh l'cha rav from Pirkei Avos: often misunderstood as forbidding all rabbi-shopping; actually concerns submitting to halakhic authority",
+          "display_title": "Eseh L'cha Rav",
+          "timestamp": "47:25"
+        },
+        {
+          "title": "Gemara derivation: all hameikel lo yagid lo—seeking a lenient answer rather than genuine authority undermines halakhic integrity",
+          "display_title": "Meikul vs. Authority",
+          "timestamp": "47:56"
+        },
+        {
+          "title": "Distinction: consulting different rabbis for different areas or by specialty versus seeking predetermined lenient answers",
+          "display_title": "Specialty vs. Shopping",
+          "timestamp": "48:17"
+        },
+        {
+          "title": "Example of specialization: rabbi expertise in areas like Hilchos Niddah may differ; consistency matters more than uniformity",
+          "display_title": "Niddah Example",
+          "timestamp": "48:47"
+        },
+        {
+          "title": "General principle: religious integrity requires acknowledging authority in one's chosen rabbi even when disagreeing on specific issues",
+          "display_title": "Integrity Principle",
+          "timestamp": "49:05"
+        }
+      ]
+    },
+    {
+      "title": "Final Halakhic Ruling: Gid Hanasheh Has No Ta'am",
+      "display_title": "Final Ruling",
+      "timestamp": "45:01",
+      "micro_segments": [
+        {
+          "title": "Hilkheta: gid hanasheh does not impart taste; permissible when cooked with meat",
+          "display_title": "Hilkheta Text",
+          "timestamp": "45:01"
+        },
+        {
+          "title": "Rashi's caveat: concern remains for chelev (fat) of gid hanasheh; still requires removal",
+          "display_title": "Rashi Caveat",
+          "timestamp": "45:15"
+        },
+        {
+          "title": "Tosafot's counter: no stricter standard for chelev than for gid hanasheh itself; neither gives ta'am",
+          "display_title": "Tosafot Counter",
+          "timestamp": "45:24"
+        },
+        {
+          "title": "Tosafot's further complication: logic from Psachim suggests gid hanasheh is asur b'hana'ah (prohibited for use); Rambam dissents",
+          "display_title": "Asur B'hana'ah",
+          "timestamp": "46:05"
+        },
+        {
+          "title": "Practical note: whether handing gid hanasheh to non-Jew constitutes deriving benefit; usually not a concern",
+          "display_title": "Non-Jew Benefit",
+          "timestamp": "46:36"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Ta'am (taste) as measure of bitul",
+      "timestamps": [
+        "00:03",
+        "01:01",
+        "01:12",
+        "02:01",
+        "02:04",
+        "02:07",
+        "04:01",
+        "10:19",
+        "11:00",
+        "11:06",
+        "14:47",
+        "15:37",
+        "15:44",
+        "16:00",
+        "16:03",
+        "16:06",
+        "16:28",
+        "20:26",
+        "21:55",
+        "27:03",
+        "28:12",
+        "31:00",
+        "32:09",
+        "33:40",
+        "38:44",
+        "39:51",
+        "40:30",
+        "41:13",
+        "42:00",
+        "45:15",
+        "45:37",
+        "45:45"
+      ]
+    },
+    {
+      "term": "Shishim (one-in-sixty) as numerical standard",
+      "timestamps": [
+        "00:11",
+        "01:06",
+        "02:07",
+        "02:24",
+        "02:27",
+        "02:46",
+        "03:15",
+        "18:24",
+        "19:24",
+        "24:01",
+        "26:11",
+        "28:14",
+        "33:13",
+        "34:28",
+        "34:39"
+      ]
+    },
+    {
+      "term": "Me'ah (one-in-hundred) for Terumah and Orlah",
+      "timestamps": [
+        "08:40",
+        "08:43",
+        "09:04",
+        "09:16",
+        "14:02",
+        "14:19",
+        "14:23",
+        "19:46",
+        "24:35",
+        "24:45",
+        "26:03",
+        "26:05",
+        "33:19",
+        "33:24"
+      ]
+    },
+    {
+      "term": "Min b'mino (like with like)",
+      "timestamps": [
+        "01:22",
+        "03:15",
+        "10:14",
+        "10:17",
+        "10:35",
+        "11:14",
+        "11:17",
+        "11:38",
+        "12:00",
+        "12:47",
+        "13:01",
+        "13:42",
+        "13:56",
+        "14:06",
+        "14:41",
+        "20:29",
+        "29:32",
+        "29:37",
+        "31:15",
+        "33:26"
+      ]
+    },
+    {
+      "term": "Min she'eino mino (unlike with unlike)",
+      "timestamps": [
+        "01:22",
+        "03:13",
+        "10:47",
+        "11:06",
+        "13:23",
+        "13:39",
+        "13:42",
+        "14:10",
+        "14:47",
+        "15:37",
+        "15:44",
+        "16:00",
+        "16:22",
+        "18:02",
+        "24:01",
+        "33:37"
+      ]
+    },
+    {
+      "term": "Gid hanasheh (sciatic nerve)",
+      "timestamps": [
+        "01:01",
+        "01:06",
+        "01:12",
+        "01:15",
+        "01:18",
+        "01:20",
+        "01:24",
+        "06:24",
+        "07:06",
+        "07:14",
+        "07:18",
+        "07:21",
+        "07:28",
+        "07:31",
+        "38:44",
+        "39:41",
+        "39:51",
+        "40:24",
+        "40:30",
+        "41:08",
+        "41:16",
+        "42:00",
+        "42:02",
+        "45:08",
+        "45:15",
+        "45:37",
+        "45:45",
+        "46:03",
+        "46:12",
+        "46:17",
+        "46:32",
+        "46:36"
+      ]
+    },
+    {
+      "term": "Zroa beshelah (arm of ram cooked as offering)",
+      "timestamps": [
+        "03:44",
+        "05:21",
+        "05:39",
+        "05:42",
+        "05:49",
+        "05:55",
+        "06:01",
+        "06:07",
+        "06:27",
+        "07:06",
+        "07:14"
+      ]
+    },
+    {
+      "term": "Ravina",
+      "timestamps": [
+        "00:34",
+        "05:42",
+        "05:39"
+      ]
+    },
+    {
+      "term": "Rashi (commentary position on ta'am and shishim)",
+      "timestamps": [
+        "04:01",
+        "04:08",
+        "04:11",
+        "04:18",
+        "04:25",
+        "04:28",
+        "08:00",
+        "08:10",
+        "08:14",
+        "08:17",
+        "38:52",
+        "38:58",
+        "39:07",
+        "39:09",
+        "45:15",
+        "45:21"
+      ]
+    },
+    {
+      "term": "Tosafot (commentary position on asmachta and gid)",
+      "timestamps": [
+        "04:28",
+        "04:31",
+        "04:35",
+        "04:38",
+        "07:36",
+        "07:49",
+        "07:58",
+        "08:05",
+        "08:08",
+        "08:14",
+        "25:05",
+        "25:08",
+        "25:14",
+        "25:21",
+        "25:28",
+        "39:16",
+        "45:24",
+        "45:29",
+        "46:02",
+        "46:28"
+      ]
+    },
+    {
+      "term": "Sephardic (Sefardi) approach to ta'am and tasting",
+      "timestamps": [
+        "02:55",
+        "02:57",
+        "03:00",
+        "03:04",
+        "03:13",
+        "03:15",
+        "34:28",
+        "34:31",
+        "35:09",
+        "35:40",
+        "36:09",
+        "36:14",
+        "36:16",
+        "36:20",
+        "36:22",
+        "37:42",
+        "37:53",
+        "37:56",
+        "38:10",
+        "38:14"
+      ]
+    },
+    {
+      "term": "Ashkenazic (Ashkenazi) approach to one-in-sixty standard",
+      "timestamps": [
+        "03:15",
+        "03:18",
+        "03:23",
+        "03:26",
+        "03:29",
+        "03:33",
+        "34:34",
+        "34:37",
+        "34:39",
+        "34:42",
+        "35:02",
+        "36:24",
+        "36:27",
+        "36:59",
+        "37:02",
+        "37:42",
+        "37:47",
+        "37:50",
+        "37:53"
+      ]
+    },
+    {
+      "term": "Abaye (questioner on Mishna implications)",
+      "timestamps": [
+        "08:38",
+        "08:40",
+        "08:47",
+        "08:50",
+        "09:18",
+        "09:22",
+        "09:36"
+      ]
+    },
+    {
+      "term": "Orlah (vineyard produce in first three years)",
+      "timestamps": [
+        "09:08",
+        "09:36",
+        "09:38",
+        "09:55",
+        "09:57",
+        "13:01",
+        "13:05",
+        "26:05",
+        "33:19",
+        "33:21",
+        "33:32"
+      ]
+    },
+    {
+      "term": "Terumah (priestly portion from produce)",
+      "timestamps": [
+        "05:52",
+        "16:41",
+        "16:47",
+        "18:04",
+        "18:05",
+        "19:50",
+        "19:55",
+        "22:30",
+        "22:37",
+        "23:27",
+        "24:16",
+        "24:19",
+        "24:25",
+        "25:32",
+        "33:17",
+        "33:19",
+        "33:21",
+        "33:32",
+        "33:34"
+      ]
+    },
+    {
+      "term": "Battel (nullified in majority)",
+      "timestamps": [
+        "02:24",
+        "02:27",
+        "03:03",
+        "11:22",
+        "11:25",
+        "11:28",
+        "11:31",
+        "11:38",
+        "11:44",
+        "11:46",
+        "11:49",
+        "11:51",
+        "11:54",
+        "11:56",
+        "12:08",
+        "12:16",
+        "12:28",
+        "12:31",
+        "12:35",
+        "13:25",
+        "16:19",
+        "16:21",
+        "16:26",
+        "16:34",
+        "29:10"
+      ]
+    },
+    {
+      "term": "Bitul (nullification of forbidden substance by majority)",
+      "timestamps": [
+        "02:24",
+        "02:42",
+        "02:46",
+        "02:48",
+        "03:03",
+        "05:21",
+        "05:49",
+        "05:52",
+        "07:25",
+        "08:40",
+        "08:43",
+        "08:47",
+        "09:00",
+        "09:14",
+        "09:22",
+        "09:57",
+        "11:22",
+        "13:06",
+        "13:09",
+        "13:12",
+        "13:15",
+        "14:02",
+        "14:47",
+        "16:21",
+        "18:04",
+        "18:08",
+        "19:57",
+        "24:16",
+        "24:19",
+        "24:25",
+        "29:07",
+        "29:10",
+        "29:24",
+        "29:28",
+        "29:57"
+      ]
+    },
+    {
+      "term": "Rabbi Yehoshua ben Beroka (baraita on gid hanasheh)",
+      "timestamps": [
+        "39:41",
+        "39:48",
+        "39:51",
+        "40:24"
+      ]
+    },
+    {
+      "term": "Rabbi Chanina (case of cooked gid hanasheh)",
+      "timestamps": [
+        "40:43",
+        "40:50",
+        "41:05",
+        "41:10",
+        "41:18",
+        "41:35",
+        "41:36",
+        "41:41",
+        "42:50"
+      ]
+    },
+    {
+      "term": "Rabbi Yehuda bar Zvina (questioner about gid hanasheh)",
+      "timestamps": [
+        "08:32",
+        "08:35",
+        "40:43",
+        "40:44",
+        "40:46",
+        "40:53",
+        "40:57",
+        "41:01",
+        "41:18"
+      ]
+    },
+    {
+      "term": "Rabbi Yitzchak bar Chalov (lenient ruling on gid)",
+      "timestamps": [
+        "42:44",
+        "42:48",
+        "42:51",
+        "42:59",
+        "43:02",
+        "43:04"
+      ]
+    },
+    {
+      "term": "Rabbi Ammi (refers to Rabbi Yitzchak bar Chalov)",
+      "timestamps": [
+        "42:44",
+        "42:46",
+        "42:59",
+        "42:59"
+      ]
+    },
+    {
+      "term": "Rabbi Yehoshua ben Levi (lenient position on gid hanasheh)",
+      "timestamps": [
+        "42:59",
+        "43:04",
+        "43:04"
+      ]
+    },
+    {
+      "term": "Eilu v'eilu divrei Elokim chayim (both opinions are words of living God)",
+      "timestamps": [
+        "43:41",
+        "43:43",
+        "44:12",
+        "44:15",
+        "44:18"
+      ]
+    },
+    {
+      "term": "Halakhic pluralism and multiple legitimate positions",
+      "timestamps": [
+        "40:40",
+        "43:10",
+        "43:20",
+        "43:26",
+        "43:29",
+        "43:32",
+        "43:34",
+        "43:37",
+        "43:41",
+        "43:46",
+        "43:52",
+        "43:56",
+        "44:01",
+        "44:04",
+        "44:07",

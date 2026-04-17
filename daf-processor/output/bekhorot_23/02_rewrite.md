@@ -1,0 +1,177 @@
+# Bekhorot 23 — Daf Yomi Shiur
+
+## Min B'Mino & Status
+
+### Min B'Mino Intro
+
+The *sugya* on this *daf* resumes a discussion that has been unfolding across several pages: whether the principle of *min b'mino* applies in the domain of *tumah v'taharah*, and more specifically, what happens to an object's *tumah* status once it has been subjected to *bittul*. The operating assumption in the world of *tumah v'taharah* is that *bittul* is achieved through a simple majority — a striking departure from the laws of *kashrus*, where sixty times is required, the latter threshold being driven by concerns about taste rather than status. The conceptual question that has animated the preceding discussion is whether *tumah* that has been negated by *bittul* remains dormant — present but suspended — or whether it has been extinguished altogether. And if dormant, can it *chozer v'ne'or*, can it reawaken, when the *tamei* substance re-encounters something of its own kind?
+
+*Abaye* had resisted the idea of reawakening on principled grounds: once *tumah* disappears, he argued, the thing has stopped existing, and it is unclear how a status that has been removed could reassert itself. His concession at the end of the previous *daf* was limited — he acknowledged the phenomenon in principle but continued to contest its application. The *Gemara* now presses further, not only continuing the debate but reframing the very conceptual structure of what *bittul* means in this context.
+
+### Parah Adumah Ashes
+
+The *Gemara* introduces a challenge from a *mishnah* (the word *esvei* marks the challenge): *eifer kasher shenisarev b'eifer mikleh, holchin achar harov, l'tamei*. If the ashes of a *parah adumah* become mixed with ordinary burnt ashes, one follows the majority. If the majority is *parah adumah* ashes, the mixture conveys *tumah*; if the majority is ordinary ashes, it does not.
+
+At this point a sharp observation deserves mention — one raised by the *Rashash*, a notably late commentator whose glosses appear in the back of the standard *Gemara* edition. Despite his characteristic self-deprecation (*b'miut b'kiusi*, "in the smallness of my erudition"), he poses a genuinely penetrating question: he writes that he has never found — *lo matzasi sheyehei eifer levad metamei* — that the ashes of *parah adumah* cause *tumah* through mere contact. The *halacha*, after all, is that someone who *sprinkles* the ashes of *parah adumah* becomes *tamei*, not that the ashes themselves function as an independent source of *tumah* through touching. He cites the *Rambam's* introduction to his *Peirush HaMishnayos* on *Taharos*, where the *Rambam* writes that it is specifically when the *parah adumah* ashes are mixed with wellspring water — as Michael correctly noted — that one becomes *tamei* from them. The *Rashash* thus signals a difficulty: the *Gemara* appears to be treating the ashes themselves as a source of *tumah*, and that is not straightforwardly established. Since he offers no resolution, the question stands as a noted difficulty.
+
+Setting that aside, the *Gemara's* operative ruling is clear: *v'iruba eifer mikleh hu, lo metamei* — if the majority is ordinary ashes, the mixture does not convey *tumah*.
+
+### Tumah Reawakens
+
+Here the *Gemara* makes a significant conceptual leap beyond what had been established the previous day. Yesterday's discussion framed *bittul* as rendering the *tumah* dormant: the physical substance remains, but its status has been suspended. The notion of *chozer v'ne'or* — reawakening — was understood as the status reasserting itself upon contact with the same type of substance. Today, the *Gemara* challenges that framing directly.
+
+The *Gemara* states: *d'amarta tumah keman de'isa dami* — if you say that the *tumah* can reawaken, what you are actually saying is that the *tumah* is present as if it were fully there, not merely dormant. The *Gemara's* reasoning is as follows: if the status were truly removed, one is back to *Abaye's* objection — how could a removed status be reinstated? The only coherent way to explain reawakening is to say the *tumah* was never truly absent; it remains active at all times, it is simply inaccessible because the majority substance defines what one comes into contact with. In the case of *tamei* water mixed into fish brine, we say that touching the mixture means touching the brine, not the water; the water, though present and active, is unreachable through the act of touching because the majority defines the contact.
+
+But this reframing creates an immediate problem. If the *tumah* is actually present and active — not dormant — then it should produce *tumah* even without touch. The *parah adumah* ashes, for instance, convey *tumah* not only through *maga* (touching) but also through *masa* (carrying). If the *tumah* is active throughout, why is one not *tamei* from carrying the mixture?
+
+### Present but Inaccessible
+
+The resolution is provided by *Rabbi Yose be-Rabbi Chanina*: *itmar alah, amar Rabbi Yose be-Rabbi Chanina, tahor militame be'maga aval metame be'masa* — he is exempt from *tumah* through touch, but he is *tamei* through carrying. In other words, the *Gemara* accepts the implication of its own reframing. If *tumah* reawakens, it is because it was always there; and if it was always there, the only thing *bittul* accomplished was to make it unreachable through direct contact. Carrying, however, picks up the entire mixture, and since the *tumah* is truly present within it, carrying does render one *tamei*.
+
+This is a striking move. The *Gemara* of the previous *daf* was content to speak of dormancy and reawakening in relatively intuitive terms. Today, it insists that the very logic of reawakening commits us to saying the *tumah* is currently active — and it draws out the halachic consequences.
+
+### Lach B'Lach Concept
+
+A question naturally arises: how can we say the *tumah* is "inaccessible" when touching the mixture? In a liquid mixture of water and fish brine, it is not as though there is a protective sheath of brine surrounding discrete droplets of water — the two substances are thoroughly commingled. The answer lies in a conceptual framework familiar from *kashrus* law, where the *Rishonim* formalize two categories drawn from the *Gemara* itself: *lach b'lach* (liquids mixed with liquids) and *yavesh b'yavesh* (solids mixed with solids). What these categories really describe is whether a mixture constitutes complete dispersal — a unified, indistinguishable mass — or discrete separable units.
+
+When a mixture is *lach b'lach*, or functionally analogous to it, the majority defines the character of the entire mass. Whatever you touch, you are halachically touching the majority substance. Even something like ashes, which are granular and solid, can be treated as a unified mass for these purposes — the *Gemara* seems to regard the mixed ashes in a manner comparable to *lach b'lach*. The inaccessibility of the minority substance, then, is not a physical claim about the arrangement of particles, but a halachic definition: where the majority defines the mass, touching the mass means touching the majority.
+
+### Neveilah Challenge
+
+The *Gemara* now extends the analysis to a related ruling. *Rav Chisda* states: *neveilah beteilah bishchutah* — a *neveilah* (the carcass of an animal that was not properly slaughtered) mixed into *shechutah* (properly slaughtered meat) is subject to *bittul*. The *Gemara* adds the interpretive phrase: *she'ee efshar leneveilah shete'aseh shechutah* — because a *neveilah* cannot become *shechutah*. This clause is designed to address the view of *Rabbi Yehuda* that *min b'mino lo batel* — like-categories cannot nullify one another. Since both are meat, one might think *bittul* is impossible. The ruling responds that despite being the same physical substance, *neveilah* and *shechutah* are considered distinct *minim* because one cannot halachically transform into the other.
+
+*Rashi* notes a significant textual variant here. His *girsa* of the phrase reads: *she'ee efshar lishchutah shete'aseh neveilah* — that properly slaughtered meat cannot become *neveilah*. This makes intuitive sense for *kashrus* — kosher meat cannot become non-kosher. But *Rashi* observes that for the purposes of *tumah v'taharah*, which is our operative context, the reverse reading is actually the more meaningful one: *neveilah* can become like *shechutah*, because a *neveilah* that becomes completely rancid and inedible loses its *tumah* status — it is no longer considered a *neveilah* in the halachic sense. So the phrase in *Rashi's* version emphasizes that it is the *shechutah* that cannot transform into a source of *tumah*, which is why the two remain distinct *minim*.
+
+Now the *Gemara* applies the same challenge it posed in the case of *parah adumah* ashes. Given that we say *tumah* can reawaken — and therefore that the *tumah* of the *neveilah* is currently active and merely inaccessible — *v'nehi d'mimaga lo metamei, l'tamei b'masa* — why is one not rendered *tamei* by carrying the mixture? For the *neveilah* also conveys *tumah* through *masa*. It is also clear from this challenge that the *Gemara* envisions the *neveilah* and *shechutah* meat as a ground-up, homogeneous mixture — analogous to hamburger — because if they were three discrete solid pieces of meat, the *tumah* would not be "inaccessible" at all; one could simply touch each piece individually.
+
+The resolution here parallels the earlier one: *amar Rabbi Yose b'Rabbi Chanina* establishes the same distinction. Based on the *braisa* of *Rabbi Chiya* — *neveilah u'shchutah batlu zu bezu* — and the *amora'ic* clarification by *Rabbi Yose b'Rabbi Chanina*: *tamei letamei bemaga u'metamei bemassa*. One is not *tamei* through touch, but one is *tamei* through carrying.
+
+An important conceptual distinction emerged in the course of this discussion. One might ask whether the same logic — that *bittul* leaves the *tumah* active but inaccessible — should apply in *kashrus* as well. After all, *Tosafos* and the *Rishonim* discuss the reawakening of *issur* (e.g., a drop of *chazir* that falls into a pot, becomes *batel*, but reactivates when it becomes tastable again). If the *issur* can reawaken, should we say it is currently active? And if so, how can one eat the soup? The fact that we do permit eating the soup — that is the entire principle of *bittul* — demonstrates that we do not say the substance is currently active in the realm of *kashrus*.
+
+The most compelling way to understand the distinction is through the ratio required for *bittul*. In *kashrus*, *bittul* requires sixty times, a threshold that represents such overwhelming dominance of the majority that one can genuinely say the minority has gone out of existence — not merely become inaccessible, but ceased to exist halachically. Here, by contrast, *bittul* is effected by a bare majority. A simple majority is not enough to say the minority has ceased to exist; at most, we can say it has become inaccessible. And it is precisely because the *bittul* here is so limited in its conceptual force — only majority, not sixty — that the *Gemara* is unwilling to say the *tamei* substance has gone out of existence, and instead concludes it remains present and active.
+
+### Fetus & Bittul
+
+The *Gemara* now returns to the *mishnah* of *Rabbi Eliezer ben Yaakov*: *beheimah gassah sheshafchah hararas dam, harei zeh yikaver, venifterah min habechorah* — a large animal that expelled a clump of blood is assumed to have aborted a fetus; the clump is buried and the animal is exempt from *bechorah* for its next offspring. *Rabbi Chiyya* taught in a *braisa*: *eino metamei lo bemaga velo bemassa* — this clump does not convey *tumah* either through touch or carrying.
+
+The *Gemara* now finds this deeply problematic. Given everything just established — that if *tumah* can reawaken it must be currently active, and that *bittul* by majority only renders the *tumah* inaccessible through touch while still active for *masa* — why is this fetus-clump not *tamei* through carrying? The *Gemara* presses: *nehi de'bemaga lo metamei, letamei bemassa* — fine, not through touch, but why not through carrying? *Ishtik* — he was silenced.
+
+A possible resolution is then introduced: *shani hacha dehavya leh tumah sruchah* — perhaps this case is different because the *tumah* here is *srucha*, rancid, completely decomposed. If the fetus is sufficiently putrefied, it may lose its status as a *neveilah* altogether, and therefore would not convey *tumah* under any mode. This reframes the ruling in *Rabbi Chiyya's braisa* entirely: the reason the clump does not convey *tumah* would not be *bittul b'rov*, but inedibility. This explanation, however, turns out to work only according to one opinion in the dispute we now turn to.
+
+## Fitness Standards
+
+### Bar Padda Ruling
+
+The *Gemara* now presents the debate between *Bar Padda* and *Rabbi Yochanan* regarding the fitness threshold for *tumah*. *Bar Padda* states: *tumah chamura ad lager, vetumah kala ad lekelev*. Reading this as *Tosafos* does: a *chamura* (weighty) *tumah* — meaning, something that is itself a *source* of *tumah*, like a *neveilah* — loses that status once it is no longer fit for human consumption. A *kala* (lighter) *tumah* — meaning, food that has *received tumah* through contact with a *tamei* source — retains its *tamei* status until it is no longer fit even for animal consumption.
+
+The scriptural basis for *Bar Padda's* position is the verse: *lo tochelu chol neveila, lager asher bish'arecha titnena ve'achala* — you shall not eat any *neveila*; give it to the *ger* (the resident alien) and he may eat it. From here it is derived: *harauya lager keruya neveila* — it is only called a *neveila* when it is fit for human consumption. If it is not fit for the *ger*, it is not called a *neveila*, and therefore conveys no *tumah* as a source. Hence, once the clump of blood is not fit for human consumption, it is no longer a *neveila*, and under *Bar Padda's* framework, *Rabbi Chiyya's* ruling is fully explained: no *tumah* through touch or carrying.
+
+### R. Yochanan Ruling
+
+*Rabbi Yochanan* disagrees: *achas zu ve'achas zu ad lekelev* — whether it is a source of *tumah* or food that received *tumah*, it remains *tamei* as long as it is fit for the consumption of dogs. It loses its status only when it is completely inedible even for animals.
+
+Each side's reasoning needs to be unpacked. According to *Bar Padda*, the verse limits the definition of *neveila* to something fit for human consumption. If it is not fit for the *ger*, it was never called a *neveila*. *Rabbi Yochanan* responds: the verse is necessary only to exclude something that was *never* fit for human consumption — *hisricha me'ikara* — which would have been *afra b'alma*, mere dirt from the outset. One would never have thought that something never fit for any human being would qualify as a *neveila*; the verse is therefore excluding that self-evident case. Consequently, for *Rabbi Yochanan*, the verse teaches nothing about something that was once fit and subsequently became unfit — that case is not addressed, and the *tumah* persists until complete inedibility.
+
+*Bar Padda* counters: no, even in the case of something that was never edible, one might have said it is still a *neveila* for *tumah* purposes. The verse is therefore needed to exclude even that case. And by inference, if even that most obvious case required a verse to exclude it, certainly something that was once edible and is now merely unfit for humans retains no *tumah* status as a source.
+
+The *Gemara* now revisits the difficulty for *Rabbi Yochanan*: if this clump of blood is fit for dogs — *ha chazi lekelev* — then *Rabbi Yochanan* cannot use inedibility to explain *Rabbi Chiyya's* ruling. And if *bittul b'rov* does not adequately explain why there is no *tumah* through carrying, then the ruling of *Rabbi Chiyya* becomes hard to justify under *Rabbi Yochanan's* framework. The *Gemara* states *kashya* — the difficulty stands.
+
+This creates two competing explanations for the *mishnah* of *Rabbi Eliezer ben Yaakov*. Either the clump of blood is not a source of *tumah* because of *bittul b'rov* — but we have seen that *bittul b'rov* means the *tumah* remains active and should still be conveyed through *masa* — or it is not a source because it is not fit for human consumption, which only works according to *Bar Padda*. Under *Rabbi Yochanan*, neither explanation satisfactorily accounts for the absence of *tumah* through carrying.
+
+Later, the *Gemara* returns to the fetus question with fresh scrutiny. *Rabbi Yochanan* himself attributed the ruling in *Rabbi Chiyya's braisa* to *bittul b'rov*: *ve'amar Rabbi Yochanan mishum bittul b'rov nag'u bah*. The *Gemara* then asks the inverse question: why invoke *bittul b'rov* at all? Just say it was never fit for eating — *teipok lei de-la chazya klal*. This clump of blood was never, from the moment of its existence, fit for human consumption. And even *Rabbi Yochanan* concedes that something that was never fit — *hisricha me'ikara* — is not called a *neveila*. So why does *Rabbi Yochanan* need to resort to *bittul b'rov*?
+
+### Fetus Application
+
+The *Gemara* responds: *ha nami chazya me'ikara* — no, this fetus was originally fit for consumption. How so? *Agav immeh* — by virtue of its mother. While it was inside the mother as a living animal, it was part of a whole that was fit for consumption: had the mother been slaughtered at that point, the fetus would have been included. Some *acharonim* deduce from this *Gemara* that a dead fetus within the womb already carries the independent status of a *neveila* even while still inside the mother — the *tumah* simply cannot emerge because it is *balua*, engulfed. Yet at the same time, for the purpose of determining whether the fetus was "originally fit," we evaluate it as a unit together with the mother and conclude that it was fit. This is a strained combination: halachically it is already a *neveila* but evaluated for edibility as part of the mother. The tension is real and acknowledged.
+
+### Stickiness Principle
+
+This debate between *Bar Padda* and *Rabbi Yochanan* encodes a principle that recurs in various corners of *halacha*. Once something acquires a status, it is harder to lose that status than it would have been to avoid acquiring it in the first place. *Rabbi Yochanan* concedes that something *never* fit for human consumption never becomes a *neveila* — the category of *neveila* simply never applied to it. But once an animal has lived, been healthy, been fit for human consumption, and then died, that status of *neveila* clings. To shed it requires reaching a threshold beyond mere unfitness for humans; it must become inedible even for animals. The status is, in a sense, sticky: easier to gain than to lose, and losing it demands reaching a more extreme endpoint than the one that marked its beginning.
+
+This principle has broad analogues. In *kashrus*, the question of whether *chametz* retains its status once it becomes unfit for human consumption but remains fit for animals follows precisely the same logic. Once something has been *chametz*, does it lose that status the moment it falls below human palatability, or must it become completely inedible? The parallel to *Rabbi Yochanan's* position is evident. And without drawing extended analogies to other domains, it is worth noting that the intuition underlying this principle — that a status acquired through lived experience is not simply erased by a change in condition — recurs in many areas of law and beyond.
+
+## Fish Brine Reawakens…
+
+### One Drop Question
+
+The *Gemara* now cites the *mishnah* in *Machshirin* where *Rabbi Elazar ben Yaakov* rules: *tzir tahor shenaflo letocho mayim kolshehen, tamei* — if pure fish brine had a small amount of water fall into it, it becomes *tamei*. The mechanism is *chozer v'ne'or*: the water in the brine, which had been rendered *tahor* through *bittul b'rov* (the majority being brine, the minority water being suppressed), reawakens when more water is added.
+
+The backstory: the fish brine came from an *am ha'aretz* and the water mixed into it was presumed *tamei*. The brine had been purified — *tzir tahor* — by immersion in a *mikvah*, but that immersion was only effective because the majority was brine, rendering the *tamei* water the minority. The *tamei* water was thus suppressed, present and active but inaccessible, and the *mikvah* did not address it because the minority lacks independent standing. When additional water falls in, the water-component tips back toward majority, the suppressed *tumah* reawakens, and the mixture becomes *tamei* again.
+
+*Rav Nachman* in the name of *Rabbah bar Avuha* draws a practical conclusion from this ruling: *nechshedu amei ha'aretz al eiruv mechtza mayim batzir* — the *amei ha'aretz* were suspected of watering down their fish brine up to fifty percent water. This is the only way to explain how a single drop of water would reawaken the *tumah*: if the water was already just under fifty percent, one additional drop tips the balance and makes water the majority, precipitating reawakening. Were the water only, say, thirty percent, a single drop would not make the decisive difference.
+
+The *Gemara* immediately asks: why fifty percent specifically? Even at forty-nine-point-nine percent water, one drop suffices to bring it to exactly fifty-fifty — and at fifty-fifty, neither side wins, the water is not *batel*, and the *tumah* would already be present. *Eima ad mechtza* — the *Gemara* resolves that the concern is that they water it down *up to* (but not quite) half. The extra drop then tips the mixture from just-under-half to just-over-half, making the water the majority and triggering reawakening.
+
+## Fitness Standards…
+
+### Fetus Application
+
+*(See the discussion of the fetus and its fitness for consumption within the "Fitness Standards" section above, where the Gemara's analysis of* Rabbi Yochanan's *invocation of* bittul b'rov *and the response of* agav immeh *are addressed in their proper sequence.)*
+
+## Fish Brine Reawakens…
+
+### Double Derabbanan
+
+The *Gemara* notes that the *tumah* of an *am ha'aretz* is itself *derabbanan*, and the *tumah* of liquids (*tumat mashkin*) is likewise *derabbanan*. When both combine — the brine came from an *am ha'aretz*, and the concern involves liquid *tumah* — the resulting *tumah* is a double *derabbanan*, a rabbinic stringency built upon another rabbinic stringency. One might ask whether such doubled rabbinic derivations simply cancel out and leave the object *tahor*. The answer is that this is not a case of *gezeira l'gezeira*, a deliberately constructed safeguard around a safeguard, which is indeed questionable as a halachic institution. Here, the two rabbinic institutions — *tumat am ha'aretz* and *tumat mashkin* — are independent enactments that happen to intersect in this case. We do not withdraw one rabbinic institution simply because it has collided with another. However, because the *tumah* is double *derabbanan*, it is considerably weaker, and there are circumstances where leniency is appropriate as a result.
+
+### Tzir Tahor Case
+
+The *tzir tahor* case thus runs as follows: brine from an *am ha'aretz*, presumptively containing *tamei* water at the level of up to just under half the mixture; immersed in a *mikvah*, which renders the mixture *tahor* because the brine is the majority and the water minority lacks independent standing; subsequently, a small amount of additional water falls in, tips the water to majority, and the *tumah* reawakens. The entire edifice rests on the logic that even when *tamei* water is suppressed by *bittul b'rov*, it remains present and active — it is simply inaccessible. It takes only a drop to restore its majority and bring that active *tumah* back into halachic effect.
+
+## Nursing Animals
+
+### Nursing from Non-Jew
+
+The *Gemara* now transitions to the *mishnah* of *Rabban Shimon ben Gamliel*. If one purchases a nursing animal from a non-Jew — as evoked by this week's *parsha*, *gemalim menikot uvneihem*, the nursing camels and their young — one is not concerned that the animal may be nursing another animal's young rather than its own. The inference is that a lactating animal is assumed to have definitively given birth, and therefore whatever nursing young accompanies it is indeed its own offspring and not the first-born of another animal. The practical consequence is that the next offspring born to this animal is not even a *safek bechor* — the lactation itself is sufficient proof of a prior birth.
+
+### Own Flock Case
+
+*Rabban Shimon ben Gamliel* extends this ruling to the case of one's own flock. If one enters one's barn and finds that multiple animals — some *mavkirot* (first-time mothers) and some that had given birth previously — have all given birth during the night, and in the morning one finds males nursing from one group of mothers and females nursing from another, one is not concerned that any animal is nursing another's young. The principle is that each nursing animal is presumed to be nursing its own offspring. This is consequential for the laws of *bechor*: one can determine from the nursing relationship which animals gave birth for the first time and which did not, and accordingly identify which newborns carry *bechor* status.
+
+### Lactation Evidence
+
+The *mishnah* thus treats lactation as conclusive evidence of prior birth. A question arises whether lactation could in principle occur without childbirth — whether, due to hormonal circumstances, an animal might nurse another's young without ever having given birth itself. This is not a purely theoretical concern: it is medically documented that under the right hormonal conditions, even animals that have not given birth can lactate. The *mishnah* as stated by *Rabban Shimon ben Gamliel* sets that concern aside, treating lactation as effectively determinative. We will see shortly that a *braisa* disputes precisely this point.
+
+## Rav's Ruling Logic
+
+### General Statement
+
+*Rav Nachman* transmits a ruling of *Rav*: *hilchata kechulei pirkin, bar miplugta* — the *halacha* follows all the *mishnayot* in our *perek* except where there is a dispute. In other words, any *tannaic* position stated in this chapter without a recorded disagreement is ruled in accordance with.
+
+### Which Case?
+
+*Rav Sheshet* challenges this formulation sharply: when was *Rav* dozing? — meaning, what substantive information does this general statement convey? Which specific uncontested *mishnah* is *Rav* actually referring to? Almost every *mishnah* in the *perek* is debated by someone.
+
+### Cases Ruled Out
+
+*Rav Sheshet* systematically eliminates the candidates. The opening *mishnah* of the *perek* is contested: *Rabbi Yishmael* and *Rabbi Akiva* dispute whether one must be concerned about a prior miscarriage in evaluating an animal's status. That is a genuine debate. What about the position of *Rabbi Eliezer ben Yaakov* regarding the fetus-clump? There, the principle is well-established: *mishnat Rabbi Eliezer ben Yaakov kav venaki* — his *mishnah* is like a small but thoroughly sifted measure, meaning he has few opinions but they are universally authoritative. We already know we follow *Rabbi Eliezer ben Yaakov* as a matter of course; *Rav* would not need to make a general statement to establish what was already self-evident.
+
+What about *Rabbi Yossi ben Meshullam*? *Rav* had already stated explicitly — *halacha keRabbi Yossi ben Meshullam* — that we rule like him. Making a general statement about uncontested *mishnayot* to cover a position *Rav* had already addressed directly adds nothing.
+
+### Rava's Answer
+
+*Rava* resolves the question: *le'olam*, it is indeed referring to *Rabban Shimon ben Gamliel's mishnah* — our current *mishnah* about nursing animals. The general statement of *Rav* was needed precisely because, as we will immediately see, *Rabban Shimon ben Gamliel's* position is debated in a *braisa*. One might therefore have thought that it should be treated as a disputed ruling and not followed with confidence.
+
+### Mishna vs. Braita
+
+The principle *Rava* articulates is: *u'plugta de-braita la plugta hi* — a dispute found in a *braisa* does not rise to the level of a dispute found in the *mishnah*. Since *Rabban Shimon ben Gamliel's* position appears in our *mishnah* without opposition — it is a *stam mishnah*, an uncontested *mishnaic* ruling — we rule according to it, and the opposing view that surfaces in the *braisa* does not undermine that ruling. This is *Rav's* message: even though *Rabban Shimon ben Gamliel* is disputed in a *braisa*, because the *mishnah* presents his view as undisputed, we follow it.
+
+The *Gemara* further asks: given this general statement that we follow the whole *perek* where uncontested, why did *Rav* also separately state *halacha keRabbi Yossi ben Meshullam*? The answer: had *Rav* only made the general statement without the separate ruling about *Rabbi Yossi*, one would have assumed the general statement was itself *about* *Rabbi Yossi* — since he has two statements in the subsequent *mishnah* and both are uncontested. The separate explicit ruling about *Rabbi Yossi* signals that the general statement is not about him, thereby directing us to understand that the general statement targets *Rabban Shimon ben Gamliel* specifically — whose position would otherwise be suspect in light of the *braisa* opposition.
+
+## Nursing Animals…
+
+### Compassion Lactation
+
+The *braisa* that disputes *Rabban Shimon ben Gamliel* teaches: *halokeiach behemah menika min ha'oved kochavim, ha'ba achareiha bechor mi-safek, mipnei she'merachemet, af al pi she'eina yoledet* — if one buys a nursing animal from a non-Jew, the next offspring born to it is a *safek bechor*, because an animal may nurse out of *merachemet*, compassion for another's young, even without ever having given birth.
+
+This is a significant *chiddush*. The word *merachemet* shares its root with *rechem*, the womb, and the *Gemara* may be suggesting a connection between the maternal emotional bond and the physiological capacity to lactate — that the compassion an animal feels toward a young one can trigger lactation even in the absence of birth. This is not purely theoretical: there is documented evidence in humans as well that adoptive mothers can begin to lactate. Still, as a halachic proposition — that lactation alone is insufficient evidence of birth — this represents a meaningful departure from the intuitive assumption.
+
+*Rabban Shimon ben Gamliel* responds in the same *braisa*: *davar be-chazakah* — the *chazakah* is that an animal does not lactate unless it has given birth. He maintains the presumption established in the *mishnah*. The *Gemara* rules, as discussed above, that we follow *Rabban Shimon ben Gamliel*.
+
+*Tosafos* on the phrase *hanichnas* observes why *Rabban Shimon ben Gamliel* chose specifically to describe entering the barn at night, with births occurring in the dark: *d'davka nakat hacha d'af al gav d'vadai hayta techila leidata balaila, she'adayin ein ha'imahot makirot bevladoteihen* — perhaps at night the mothers had not yet fully bonded with their young and might not recognize them. One might therefore think that in such circumstances, animals could end up nursing another's offspring. *Tosafos* concludes: *vedarkan linok ze mize veze mize afilu hachi lo chashinan* — even so, even with nighttime births and potential initial non-recognition, we are not concerned. *Rabban Shimon ben Gamliel's* ruling holds that nursing is presumptive evidence of parentage even under these conditions.
+
+## Fish Brine Reawakens…
+
+### Am Ha'aretz Dilution
+
+The *Gemara* notes, returning to the practical concern behind the *tzir tahor* case, that *Rav Chisda* identifies the *amei ha'aretz* as those suspected of diluting their fish brine. As *Rav Nachman* in the name of *Rabbah bar Avuha* established, the very fact that one drop of water can trigger reawakening of *tumah* tells us that the *amei ha'aretz* were presumed to have watered down their brine by as much as just under fifty percent. This level of dilution — consistent up to the threshold of majority — is the operative assumption, and it is what makes a single additional drop of water sufficient to tip the balance and restore the water to majority status, reactivating the suppressed *tumah* of the mixture.
