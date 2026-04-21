@@ -119,7 +119,7 @@ class YCTLibraryClient(
         if (termIDs.isEmpty()) return@withContext emptyList()
 
         val ids = termIDs.joinToString(",")
-        val url = "$baseURL/posts?reference=$ids&per_page=20&_fields=id,title,excerpt,content,date,link,slug"
+        val url = "$baseURL/posts?reference=$ids&per_page=20&_embed=author"
         val body = fetchString(url) ?: return@withContext emptyList()
         val arr = JSONArray(body)
 
@@ -140,6 +140,10 @@ class YCTLibraryClient(
             }
             val date = formatDate(post.optString("date", ""))
             val link = post.getString("link")
+            val authorName = post.optJSONObject("_embedded")
+                ?.optJSONArray("author")
+                ?.optJSONObject(0)
+                ?.optString("name", "") ?: ""
 
             articles.add(YCTArticle(
                 id = id,
@@ -147,7 +151,7 @@ class YCTLibraryClient(
                 excerpt = excerpt,
                 date = date,
                 link = link,
-                authorName = "",
+                authorName = authorName,
                 matchType = ResourceMatchType.Exact(0),
                 source = source
             ))

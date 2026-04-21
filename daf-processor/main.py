@@ -12,8 +12,11 @@ Usage examples:
   # Single file, direct API:
   python main.py rdldafyomimenachot79.srt
 
-  # Directory of SRTs, batch API, resume interrupted run:
-  python main.py ./srt_files/ --batch --resume
+  # Directory of SRTs, batch API (default), resume interrupted run:
+  python main.py ./srt_files/ --resume
+
+  # Direct API (skips batch, useful for single files or quick testing):
+  python main.py rdldafyomimenachot79.srt --no-batch
 
   # Override daf identification (for non-standard filenames):
   python main.py mylecture.srt --masechta Menachot --daf 79
@@ -45,11 +48,8 @@ def main():
         help='Directory for output files (default: ./output)',
     )
     parser.add_argument(
-        '--batch', action='store_true',
-        help=(
-            'Use Anthropic Batch API (50%% cheaper, processes asynchronously). '
-            'The script will poll for completion. Default: direct API calls.'
-        ),
+        '--no-batch', action='store_true',
+        help='Use direct API calls instead of the Batch API (default: batch mode).',
     )
     parser.add_argument(
         '--workers', type=int, default=3,
@@ -119,7 +119,7 @@ def main():
 
     pipeline = Pipeline(
         output_dir=Path(args.output_dir),
-        use_batch=args.batch,
+        use_batch=not args.no_batch,
         workers=args.workers,
         resume=args.resume,
         passes=args.passes,

@@ -31,9 +31,13 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.graphics.FilterQuality
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import coil.compose.SubcomposeAsyncImage
+import coil.request.ImageRequest
+import coil.size.Size
 import com.anydaf.model.Tractate
 import com.anydaf.viewmodel.PdfViewModel
 
@@ -86,13 +90,22 @@ fun DafPageView(
         return
     }
 
+    val context = LocalContext.current
+
     Box(modifier = modifier.fillMaxWidth()) {
 
         // ── Image with pinch-to-zoom ──────────────────────────────────────
+        // Size.ORIGINAL bypasses Coil's layout-size measurement (unreliable in
+        // weight(1f) layouts on physical devices). FilterQuality.High enables
+        // bicubic resampling on Android 12+.
         SubcomposeAsyncImage(
-            model = imageUrl,
+            model = ImageRequest.Builder(context)
+                .data(imageUrl)
+                .size(Size.ORIGINAL)
+                .build(),
             contentDescription = "${tractate.name} $dafInt${if (sideA) "a" else "b"}",
             contentScale = ContentScale.Fit,
+            filterQuality = FilterQuality.High,
             loading = {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                     CircularProgressIndicator(modifier = Modifier.size(32.dp))

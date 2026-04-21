@@ -1,0 +1,73 @@
+### Gittin 38a
+
+**1.**
+*Hebrew/Aramaic:* וְלֹא הֵם קוֹנִים מִכֶּם, וְלֹא הֵם קוֹנִים זֶה מִזֶּה. יָכוֹל לֹא יִקְנוּ זֶה אֶת זֶה? יָכוֹל לֹא יִקְנוּ זֶה אֶת זֶה?! הָאָמְרַתְּ: לֹא הֵם קוֹנִים זֶה מִזֶּה! הָכִי קָאָמַר: וְלֹא הֵם קוֹנִים זֶה מִזֶּה לְגוּפוֹ.
+*Translation:* **but** the gentiles **cannot acquire** one **of you,** as they do not have the ability to acquire a Jew as a slave, **and they cannot acquire each other** as slaves. The Gemara begins to introduce a question: One **might** have thought that **they shall not** be able to **acquire each other.** The Gemara immediately clarifies its question: Can it be that one **might** have thought that **they shall not** be able to **acquire each other;** but **didn’t you** already **say** that **they cannot acquire each other?** Rather, **this is what he said:** Gentiles **cannot acquire each other with regard to** the slave **himself.**
+
+**2.**
+*Hebrew/Aramaic:* יָכוֹל לֹא יִקְנוּ זֶה אֶת זֶה לְמַעֲשֵׂה יָדָיו? אָמַרְתָּ קַל וָחוֹמֶר: גּוֹי – יִשְׂרָאֵל, קוֹנֶה; גּוֹי – גּוֹי, לֹא כׇּל שֶׁכֵּן?!
+*Translation:* The Gemara now restates the question: One **might** have thought that **they shall not** be able to **acquire each other** as slaves even **for** the rights to **his labor.** The Gemara answers: **You can say an *a fortiori*** inference: If **a gentile** can **acquire a Jew** for the rights to his labor, as stated explicitly in the Torah (Leviticus 25:47), **all the more so** is it **not** clear that **a gentile** can acquire **a gentile?**
+
+**3.**
+*Hebrew/Aramaic:* וְאֵימָא: הָנֵי מִילֵּי בְּכַסְפָּא, אֲבָל בַּחֲזָקָה – לָא! אָמַר רַב פָּפָּא: עַמּוֹן וּמוֹאָב טָהֲרוּ בְּסִיחוֹן.
+*Translation:* The Gemara challenges: **But I** could **say** that **this** *halakha*, that a gentile can acquire a gentile as a slave for the rights to his labor, **applies** only to acquisition **via money. However, via** an act of **possession,** by taking him captive, he does **not** acquire him. **Rav Pappa says** in response: The land of **Ammon and Moab became purified through** the conquest of **Sihon.** After the conquest of Sihon, the land that had belonged to Ammon and Moab was considered the property of Sihon, and it was permitted for the Jewish people to conquer it although they had not been permitted to conquer the land of Ammon and Moab. In the same manner, a gentile can acquire a slave by taking possession of him as a captive.
+
+**4.**
+*Hebrew/Aramaic:* אַשְׁכְּחַן גּוֹי – גּוֹי; גּוֹי – יִשְׂרָאֵל, מְנָלַן? דִּכְתִיב: ״וַיִּשְׁבְּ מִמֶּנּוּ שֶׁבִי״.
+*Translation:* The Gemara asks: **We found** a source for **a gentile** acquiring **a gentile** through conquest, which is an act of taking possession; **from where do we** derive that **a gentile** can also acquire **a Jew** through the act of possession such as conquest? The Gemara answers: **As it is written:** “And the Canaanites, who dwelt in the South, heard tell that Israel came by the way of Atharim; and he fought against Israel, **and took of them captive”** (Numbers 21:1). This indicates that even a Jew is acquired by a gentile through the act of possession, in this case, conquest in war.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב שֶׁמֶן בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: עֶבֶד שֶׁבָּרַח מִבֵּית הָאֲסוּרִים – יָצָא לְחֵירוּת, וְלֹא עוֹד אֶלָּא שֶׁכּוֹפִין אֶת רַבּוֹ וְכוֹתֵב לוֹ גֵּט שִׁיחְרוּר.
+*Translation:* § **Rav Shemen bar Abba says** that **Rabbi Yoḥanan says: A slave who escaped from prison is emancipated.** He is no longer subjugated to his owner, as it is assumed that his owner has despaired of retrieving him. **And moreover, his master is forced to write him a bill of manumission** so that he can marry a Jewish woman.
+
+**6.**
+*Hebrew/Aramaic:* תְּנַן, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: בֵּין כָּךְ וּבֵין כָּךְ יִשְׁתַּעְבֵּד; וְאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כׇּל מָקוֹם שֶׁשָּׁנָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל בְּמִשְׁנָתֵנוּ – הֲלָכָה כְּמוֹתוֹ, חוּץ מֵעָרֵב וְצַיְדָן וּרְאָיָה אַחֲרוֹנָה.
+*Translation:* **We learned** in the mishna that **Rabban Shimon ben Gamliel says** with regard to a slave who was redeemed from captivity: **Both in this** case **and in that** case **he will be a slave. And Rabba bar bar Ḥana says** that **Rabbi Yoḥanan says: Every place where Rabban Shimon ben Gamliel taught** a ruling **in our mishna, the *halakha* is in accordance with his** opinion, **except for** the following three cases: The responsibility of the **guarantor, and** the incident that occurred in the city of **Tzaidan, and** the dispute with regard to **evidence** in the **final** disagreement. Therefore, according to Rabbi Yoḥanan, the *halakha* is in accordance with the opinion of Rabban Shimon ben Gamliel in the mishna here, as it is not one of those three cases. This contradicts the ruling of Rabbi Yoḥanan cited above concerning a slave who escapes prison.
+
+**7.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְאַבָּיֵי, מוֹקֵי לַהּ לְהַאי – לִפְנֵי יֵאוּשׁ, וְהַאי – לְאַחַר יֵאוּשׁ.
+*Translation:* The Gemara clarifies: **Granted, according to** the opinion of **Abaye, he establishes** the mishna as referring to a slave who is redeemed **before** the owner’s **despair.** For this reason, Rabban Shimon ben Gamliel rules that the redeemed slave is not emancipated, and the *halakha* is in accordance with his ruling. **And this** statement of Rabbi Yoḥanan, that a slave who escapes from prison goes free, applies **after** the owner’s **despair.** Therefore, there is no contradiction between the two statements of Rabbi Yoḥanan.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא לְרָבָא – דְּאָמַר לְאַחַר יֵאוּשׁ, קַשְׁיָא דְּרַבִּי יוֹחָנָן אַדְּרַבִּי יוֹחָנָן!
+*Translation:* **However, according to** the opinion of **Rava, who said** that the mishna here is referring to a slave who is redeemed **after** the **despair** of the owner, there is **a difficulty.** The difficulty is due to the contradiction between the statement **of Rabbi Yoḥanan** in which he rules against the opinion of Rabban Shimon ben Gamliel, as he holds that a slave who escapes prison is emancipated, **and** the statement **of Rabbi Yoḥanan** in which he rules that the *halakha* is in accordance with the opinion of Rabban Shimon ben Gamliel.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר לָךְ רָבָא: טַעְמָא מַאי – מִשּׁוּם דְּחִזְקִיָּה; בּוֹרֵחַ שָׁאנֵי – הַשְׁתָּא לִקְטָלָא מְסַר נַפְשֵׁיהּ, אַפּוֹלֵי אַפֵּיל נַפְשֵׁיהּ לִגְיָיסוֹת?!
+*Translation:* The Gemara answers: **Rava** could have **said to you: What is the reason** that a slave who was redeemed is not emancipated? It is **because of** the concern expressed by **Ḥizkiyya,** that perhaps slaves would allow themselves to be captured by foreign troops in the hope that they would be redeemed and consequently emancipated. However, the case of one who **escapes** from prison **is different,** as the concern raised by Ḥizkiyya is not applicable. If **now** it is apparent that he is willing **to give himself over to death** to escape captivity, as he would be put to death for attempting to escape prison, is there a concern that **he will throw himself** willingly **into** captivity by allowing himself to be captured by foreign **troops?**
+
+**10.**
+*Hebrew/Aramaic:* אַמְתֵּיהּ דְּמָר שְׁמוּאֵל אִשְׁתְּבַאי. פַּרְקוּהָ לְשׁוּם אַמְהֻתָא, וְשַׁדְּרוּהָ לֵיהּ. שְׁלַחוּ לֵיהּ: אֲנַן – כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סְבִירָא לַן, אַתְּ – אִי נָמֵי כְּרַבָּנַן סְבִירָא לָךְ, אֲנַן לְשׁוּם אַמְהֻתָא פָּרְקִינַן לַהּ (נִיהֲלַהּ).
+*Translation:* The Gemara relates: **The maidservant of Master Shmuel was taken captive.** Some people **redeemed her to be a maidservant and sent her to him. They sent him** the following message: **We hold in accordance with** the opinion of **Rabban Shimon ben Gamliel,** and therefore we hold that in any case she remains your maidservant. **Even if you hold in accordance with** the opinion of **the Rabbis** in the mishna, then you should know that **we redeemed her to be a maidservant,** and even the Rabbis would agree that she remains your maidservant.
+
+**11.**
+*Hebrew/Aramaic:* וְאִינְהוּ סְבוּר – לִפְנֵי יֵאוּשׁ הֲוָה, וְלָא הִיא – לְאַחַר יֵאוּשׁ הֲוָה, וּשְׁמוּאֵל – לָא מִיבַּעְיָא דְּאִשְׁתַּעְבּוֹדֵי לָא מִשְׁתַּעְבַּד בַּהּ, אֶלָּא גִּיטָּא דְחֵירוּתָא נָמֵי לָא אַצְרְכָה.
+*Translation:* The Gemara adds: **And they thought** that this **was before** his **despair, but** that **is not so. It was after** his **despair, and** when **Shmuel** received the maidservant, **it is not necessary** to say **that he did not enslave her. But also, he did not require her** to receive **a bill of manumission,** as he held that she was a free woman in every respect.
+
+**12.**
+*Hebrew/Aramaic:* שְׁמוּאֵל לְטַעְמֵיהּ, דְּאָמַר שְׁמוּאֵל: הַמַּפְקִיר עַבְדּוֹ – יָצָא לְחֵירוּת, וְאֵינוֹ צָרִיךְ גֵּט שִׁיחְרוּר, שֶׁנֶּאֱמַר: ״וְכׇל עֶבֶד אִישׁ מִקְנַת כָּסֶף״ – ״עֶבֶד אִישׁ״ וְלֹא ״עֶבֶד אִשָּׁה״?! אֶלָּא עֶבֶד שֶׁיֵּשׁ לוֹ רְשׁוּת לְרַבּוֹ עָלָיו – קָרוּי עֶבֶד; שֶׁאֵין לוֹ רְשׁוּת לְרַבּוֹ עָלָיו – אֵין קָרוּי עֶבֶד.
+*Translation:* The Gemara comments: In this matter, **Shmuel** conforms **to his** standard line of **reasoning, as Shmuel says:** With regard to one **who renounces ownership of his slave,** the slave **is emancipated, and he does not** even **require a bill of manumission.** Shmuel cited a proof from that **which is stated: “But every slave man that is bought for money”** (Exodus 12:44). Does this apply only to **a slave** who is **a man, and not to a woman slave? Rather,** it means: The slave of a man, i.e., **a slave whose master has authority** and control **over him, is called a slave,** since he is the slave of a particular man. However, with regard to a slave **whose master does not have authority over him,** such as one who has been declared ownerless, he **is not called a slave** but a freeman. Therefore, once Shmuel despaired of retrieving his maidservant, she was no longer under his control and did not require a bill of manumission.
+
+**13.**
+*Hebrew/Aramaic:* אַמְתֵּיהּ דְּרַבִּי אַבָּא בַּר זוּטְרָא אִישְׁתְּבַאי, פַּרְקַהּ הָהוּא תַּרְמוֹדָאָה לְשׁוּם אִיתְּתָא. שְׁלַחוּ לֵיהּ לְדִידֵיהּ: אִי יָאוּת עָבְדַתְּ, שַׁדַּר לַהּ גִּיטָּא דְחֵירוּתָא.
+*Translation:* The Gemara relates: **The maidservant of Rabbi Abba bar Zutra was taken captive. A certain** gentile ***tarmoda’a* redeemed her to be** his **wife.** The Sages **sent** a message **to** Rabbi Abba bar Zutra: **If you** wish to **act correctly, send her a bill of manumission.**
+
+**14.**
+*Hebrew/Aramaic:* הֵיכִי דָמֵי? אִי דְּמָצוּ פָּרְקִי לַהּ, לְמָה לִי גִּיטָּא דְחֵירוּתָא? אִי דְּלָא מָצוּ פָּרְקִי לַהּ, כִּי שַׁדַּר לַהּ גִּיטָּא דְחֵירוּתָא מַאי הָוֵי?
+*Translation:* The Gemara asks: **What are the circumstances? If** this is a situation **where** the Jews **are able to redeem her, why do I** need **a bill of manumission?** They should redeem her to be a maidservant. **If** this is a situation **where they are unable to redeem her, when he sends her a bill of manumission, what of it?** What effect will it have, as she is currently under the control of this gentile?
+
+**15.**
+*Hebrew/Aramaic:* לְעוֹלָם דְּמָצוּ פָּרְקִי לַהּ; וְכֵיוָן דִּמְשַׁדַּר לָהּ גִּיטָּא דְחֵירוּתָא, חַבּוֹרֵי מִחַבְּרִי אַהֲדָדֵי, וּפָרְקִי לַהּ. וְאִיבָּעֵית אֵימָא: לְעוֹלָם דְּלָא מָצוּ פָּרְקִי לַהּ, וְכֵיוָן דִּמְשַׁדַּר לַהּ גִּיטָּא דְחֵירוּתָא, מִיתַּזְלָא בְּאַפֵּיהּ, וּמְפָרֵיק לַהּ.
+*Translation:* The Gemara answers: **Actually,** it is referring to a situation **where they are able to redeem her** but are not doing so. **And since he sends her a bill of manumission,** the residents of the city **will join together and redeem her,** as she is now a full-fledged Jew, whereas they would not have redeemed her to be a maidservant. **And if you wish, say** instead: **Actually,** it is referring to a case **where they are unable to redeem her,** as the ransom was too expensive. **And once he sends her a bill of manumission, she will be disrespected in the eyes** of the gentile who redeemed her to marry her, as he will find out that she is a maidservant of a Jew, **and he will allow her to be redeemed.**
+
+**16.**
+*Hebrew/Aramaic:* וְהָאָמַר מָר: חֲבִיבָה לָהֶן בְּהֶמְתָּן שֶׁל יִשְׂרָאֵל יוֹתֵר מִנְּשׁוֹתֵיהֶן! הָנֵי מִילֵּי בְּצִינְעָא, אֲבָל בְּפַרְהֶסְיָא זִילָא בְּהוּ מִילְּתָא.
+*Translation:* The Gemara challenges this statement: Would it be easier to redeem the maidservant once the gentile discovered that she is the maidservant of a Jew? **But didn’t the Master say: The animals of Jews are more beloved** to gentiles **than their** own **wives?** Apparently, the gentiles held the Jews in high regard, and the fact that she was a Jewish maidservant would not lower her in the gentile’s estimation. The Gemara answers: **This statement applies** only concerning matters that take place **in private; however, in public, the matter is disrespected,** and a gentile would not marry the maidservant of a Jew.
+
+**17.**
+*Hebrew/Aramaic:* הָהִיא אַמְתָּא דַּהֲוָת בְּפוּמְבְּדִיתָא, דַּהֲווֹ קָא מְעַבְּדִי בַּהּ אִינָשֵׁי אִיסּוּרָא. אָמַר אַבָּיֵי, אִי לָאו דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הַמְשַׁחְרֵר עַבְדּוֹ עוֹבֵר בַּעֲשֵׂה; הֲוָה כָּיֵיפְנָא לֵיהּ לְמָרַהּ, וְכָתֵיב לַהּ גִּיטָּא דְחֵירוּתָא. רָבִינָא אָמַר: כִּי הָא מוֹדֶה רַב יְהוּדָה, מִשּׁוּם מִילְּתָא דְאִיסּוּרָא.
+*Translation:* § The Gemara relates: There was an incident involving **a certain maidservant in Pumbedita with whom people were performing prohibited** sexual **acts,** and her master was unable to prevent this. **Abaye said: If not** for the fact **that Rav Yehuda says** that **Shmuel says** that **anyone who emancipates his slave violates a positive** mitzva, as it is written in the Torah: “Of them may you take your bondmen forever” (Leviticus 25:46), **I would force her master, and he would write** and give **her a bill of manumission,** enabling her to marry a Jew, which would ensure that she would cease her promiscuous behavior. **Ravina said:** In a case **like that, Rav Yehuda concedes** that it is permitted to emancipate her, **due to the prohibited matter** that others are violating.
+
+**18.**
+*Hebrew/Aramaic:* וְאַבָּיֵי – מִשּׁוּם אִיסּוּרָא לָא?! הָאָמַר רַב חֲנִינָא בַּר רַב קַטִּינָא אָמַר רַבִּי יִצְחָק: מַעֲשֶׂה בְּאִשָּׁה אַחַת שֶׁחֶצְיָהּ שִׁפְחָה וְחֶצְיָהּ בַּת חוֹרִין,
+*Translation:* The Gemara asks: **And** does **Abaye** hold that one **cannot** emancipate a slave even **due to a prohibition** that is being violated? **Didn’t Rav Ḥanina bar Rav Ketina say** that **Rav Yitzḥak says:** There was **an incident involving a woman** who was **a half-maidservant half-free woman,** as she had belonged to two masters and was emancipated by one of them,

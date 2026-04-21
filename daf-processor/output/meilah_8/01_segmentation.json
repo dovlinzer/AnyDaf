@@ -4,289 +4,281 @@
   "amud": "",
   "macro_segments": [
     {
-      "title": "Introduction to Daf 8 and the Second Perek: Structural Overview and Textual Issues",
-      "display_title": "Intro & Structure",
+      "title": "Introduction to Daf 8 and the Second Perek: Textual Transmission and Overview",
+      "display_title": "Intro & Textual Issues",
       "timestamp": "00:00",
       "micro_segments": [
         {
-          "title": "Opening remarks and brief context of the daf",
-          "display_title": "Opening",
+          "title": "Greeting and structural overview of the daf; discussion of why this daf is short and the role of Tosafot",
+          "display_title": "Greeting & Daf Structure",
           "timestamp": "00:00"
         },
         {
-          "title": "Scholarly discussion of Rashi in Meilah versus Keritot and Tosafot's role",
-          "display_title": "Rashi Authorship",
-          "timestamp": "00:54"
+          "title": "Scholarly debate over the authenticity of Rashi on Meilah and its implications for Tosafot's interpretive role",
+          "display_title": "Rashi on Meilah Debate",
+          "timestamp": "00:52"
         },
         {
-          "title": "Preview of Perek 2: transition from Psulim to normal rules of status change",
-          "display_title": "Perek 2 Overview",
+          "title": "Transition to the second perek; overview of how the first perek discussed psulim and status changes, now moving to normative rules about when meilah and korban status change",
+          "display_title": "Perek Overview",
           "timestamp": "01:24"
         }
       ]
     },
     {
-      "title": "Chatat Ha'Of: Stages of Status Change and Tumah Susceptibility",
-      "display_title": "Chatat Ha'Of",
-      "timestamp": "02:02",
+      "title": "Chatat Ha'Of: Foundation of Tumah Categories and the Principle of Psul vs. Tamei",
+      "display_title": "Chatat Ha'Of & Tumah",
+      "timestamp": "01:59",
       "micro_segments": [
         {
-          "title": "Introduction to Chatat Ha'Of and principles of tumah transmission (Rishon, Sheni, Shlishi, Revi'i)",
-          "display_title": "Tumah Levels",
-          "timestamp": "02:02"
+          "title": "Introduction to chatat ha'of as a paradigm case; review of tumah classification system (av hatum'ah, rishon, sheni, shlishi, revi'i) and the distinction between tamei and nifsal",
+          "display_title": "Tumah Categories",
+          "timestamp": "01:59"
         },
         {
-          "title": "Definition of Nifsal and its distinction from Tamei; role of Tvul Yom and Michusarei Kipurim",
-          "display_title": "Nifsal vs Tamei",
-          "timestamp": "03:34"
+          "title": "Definition of tvul yom and michusarei kipurim; explanation of their status as sheni-like and their effect on terumah versus kodashim",
+          "display_title": "Tvul Yom & Michusarei",
+          "timestamp": "03:02"
         },
         {
-          "title": "Stages of Chatat Ha'Of: Melikah, Hechsher, and Linah of the blood",
-          "display_title": "Melikah & Linah",
+          "title": "The role of shechita and nimlekah in preparing the chatat ha'of for tumah; transition from alive to dead animal",
+          "display_title": "Shechita & Hechsher",
           "timestamp": "05:07"
         },
         {
-          "title": "Status changes after Zrikat Hadam: Piggul, Nosar, Tamei and Meilah",
-          "display_title": "Post-Zrikah Status",
-          "timestamp": "06:24"
+          "title": "Stages of status change for chatat ha'of: nimlekah and huchshara for tvul yom and michusarei kipurim; linah of the blood as distinct from linah of the meat",
+          "display_title": "Chatat Status Stages",
+          "timestamp": "06:03"
+        },
+        {
+          "title": "Zrikat hadam as the moment when piggul, nosar, and tamei statuses apply; distinction between the clock for blood versus meat",
+          "display_title": "Zrikat Hadam Threshold",
+          "timestamp": "08:00"
         }
       ]
     },
     {
-      "title": "Gemara's Analysis of Tvul Yom: Posel but not Metamei by Kodashim",
-      "display_title": "Tvul Yom Debate",
+      "title": "Gemara's Analysis of Psul and Tumah: Resolving the Apparent Contradiction",
+      "display_title": "Psul vs. Tamei Analysis",
       "timestamp": "10:00",
       "micro_segments": [
         {
-          "title": "Gemara's question: why Posel and not Tamei if Tvul Yom is Sheni?",
-          "display_title": "Posel Query",
+          "title": "Gemara's query: how can tvul yom make kodashim psul but not tamei if he is a sheni who should make it shlishi",
+          "display_title": "Psul Contradiction",
           "timestamp": "10:00"
         },
         {
-          "title": "Tannaitic opinions (Abba Shaul vs. Rabbi Meir vs. Chachamim) on Tvul Yom's status",
-          "display_title": "Tanna'im Views",
-          "timestamp": "10:02"
+          "title": "Three positions on tvul yom's tumah status: Abba Shaul (rishon for kodashim), Rabbi Meir (sheni, produces shlishi), Chachamim (psul, not tamei)",
+          "display_title": "Three Positions",
+          "timestamp": "11:02"
         },
         {
-          "title": "Rava's explanation: De'oraita level everyone agrees to Posel; De'rabbanan debates classification",
-          "display_title": "Rava's Synthesis",
+          "title": "Raba's resolution: the mishna reflects the d'oraita position (Chachamim's view); debate over rishon vs. sheni is derabbanan only",
+          "display_title": "Raba's Resolution",
           "timestamp": "14:16"
+        },
+        {
+          "title": "Conceptual explanation: tvul yom's tumah is so residual (kalush tumah) that it only invalidates, does not transmit further contamination",
+          "display_title": "Residual Tumah Concept",
+          "timestamp": "15:40"
         }
       ]
     },
     {
-      "title": "Question of Meilah Status After Zrikat Hadam in Chatat Ha'Of",
-      "display_title": "Meilah Post-Zrikah",
+      "title": "The Question of Meilah After Zrikat Hadam: Why Does the Gemara Distinguish Between Meat Status and Forbidden Use",
+      "display_title": "Meilah Post-Zrika",
       "timestamp": "17:49",
       "micro_segments": [
         {
-          "title": "Gemara questions: why does Mishnah say no Meilah after Zrikat Hadam?",
-          "display_title": "Meilah Query",
+          "title": "Gemara's question: why does the mishna say there is no meilah after zrikat hadam when the meat is still prohibited for non-kohanim",
+          "display_title": "Meilah Question",
           "timestamp": "17:49"
         },
         {
-          "title": "Rabbi Chanina's answer: case of Yotzei where meat status changes but remains prohibited",
-          "display_title": "Yotzei Case",
+          "title": "Rabbi Chanina's answer referencing the case of yotzei: zrikah removes meilah status but does not permit the meat to be eaten",
+          "display_title": "Rabbi Chanina Answer",
           "timestamp": "19:31"
         }
       ]
     },
     {
-      "title": "Mitzuy of Chatat Ha'Of: Is Squeezing Out Blood Meakev (Prerequisite)?",
+      "title": "Mitzuy of Chatat Ha'Of: Is Squeezing Out the Blood a Meakev Act",
       "display_title": "Mitzuy Debate",
       "timestamp": "20:05",
       "micro_segments": [
         {
-          "title": "Rav Huna (Rav): Mitzuy is not Meakev; Mishnah's Huzah Damah marks status change",
-          "display_title": "Huzah Damah",
+          "title": "Introduction to the question of mitzuy chatat ha'of: whether squeezing is required and when exactly it must occur",
+          "display_title": "Mitzuy Question",
           "timestamp": "20:05"
         },
         {
-          "title": "Rav Adda bar Ahava (Rav): Mitzuy is Meakev; different Girsa in Mishnah",
-          "display_title": "Alt Girsa",
+          "title": "Rav (via Rav Huna): mitzuy is not meakev; the mishna's reference to hazah marks the status change without requiring mitzuy",
+          "display_title": "Rav's Position",
+          "timestamp": "20:05"
+        },
+        {
+          "title": "Rav Adda bar Ahava (via Rav): mitzuy is meakev; different girsa of the mishna references mitzuy damah specifically",
+          "display_title": "Rav Adda Position",
           "timestamp": "21:57"
         },
         {
-          "title": "Proof from Pasuk: Vehanishah Badam analysis and two readings of Chatat Hi",
-          "display_title": "Textual Proof",
+          "title": "Gemara's textual proof attempt: analysis of ve-hanishar badam yimatze el yesod hamizbeach chatas hi",
+          "display_title": "Textual Evidence",
           "timestamp": "22:40"
         },
         {
-          "title": "Comparison to Mincha: when is Notar/Shirayim Meakev and when not?",
-          "display_title": "Mincha Parallel",
-          "timestamp": "25:03"
-        }
-      ]
-    },
-    {
-      "title": "Braita About Piggul in Bird Korbanos: Melika and Mitzuy as Critical Acts",
-      "display_title": "Bird Piggul",
-      "timestamp": "28:49",
-      "micro_segments": [
+          "title": "Tana d'bei Rabbi Yishmael's interpretation: ve-hanishar is conditional (if there is leftover), not a requirement; chatas hi refers to the beginning of the verse (hazah)",
+          "display_title": "Conditional Interpretati…",
+          "timestamp": "23:47"
+        },
         {
-          "title": "Braita: when thought of wrong time/place creates Piggul in Chatat and Olat Ha'Of",
-          "display_title": "Braita Quote",
+          "title": "Comparison to minchas: the principle of shana alav hakatuv l'akev applied to determine whether mitzuy is meakev",
+          "display_title": "Repetition Principle",
+          "timestamp": "27:08"
+        },
+        {
+          "title": "Baraita on piggul by bird offerings: discussion of whether mitzuy is relevant to the moment of piggul",
+          "display_title": "Piggul Baraita",
           "timestamp": "28:49"
         },
         {
-          "title": "Gemara's resolution: Le-itztzadin—different halves for Chatat vs. Olas Ha'Of",
-          "display_title": "Resolution",
+          "title": "Gemara's resolution through L'atztedin: the baraita discusses two different animals (chatat and olas ha'of) respectively, not requiring mitzuy for chatat status change",
+          "display_title": "L'Atztedin Resolution",
           "timestamp": "30:08"
         },
         {
-          "title": "Two versions in Baraita of Rabbi Yishmael: Shirayim Meakev in Zevachim",
-          "display_title": "Rabbi Yishmael",
-          "timestamp": "31:04"
+          "title": "Two versions of Rabbi Yishmael in the Tosefta: one says mitzuy is not required, another says shiraym are meakev, leading to debate over bird offerings",
+          "display_title": "Rabbi Yishmael Versions",
+          "timestamp": "31:22"
         }
       ]
     },
     {
-      "title": "Olat Ha'Of: Status Changes and Meilah Until Ashes Are Removed",
-      "display_title": "Olat Ha'Of",
-      "timestamp": "32:52",
+      "title": "The Mishna's Systematic Account of Korban Status Changes: Olat Ha'Of and Its Unique Properties",
+      "display_title": "Olat Ha'Of System",
+      "timestamp": "32:49",
       "micro_segments": [
         {
-          "title": "Olat Ha'Of: Meilah from sanctification, Meakev stages for Tumah",
-          "display_title": "Olah Bird Stages",
-          "timestamp": "32:52"
+          "title": "Olat ha'of structure: meilah begins at sanctification; after nimlekah becomes fit for tumah; after mitzuy damah enters realm of piggul nosar tamei",
+          "display_title": "Olat Ha'Of Stages",
+          "timestamp": "32:49"
         },
         {
-          "title": "Meilah continues by Olat Ha'Of: body until Beit Hadeshen; no Meilah by leather after Zrikah",
-          "display_title": "Meilah Duration",
+          "title": "Unique feature of olas ha'of: meilah continues throughout (no zrikah change) because the entire animal is burned on the mizbeach, unlike chatat ha'of whose meat is eaten",
+          "display_title": "Continuous Meilah",
           "timestamp": "34:20"
-        }
-      ]
-    },
-    {
-      "title": "Parim Hanisrafim: Burned Animals and Extended Meilah Status",
-      "display_title": "Burned Offerings",
-      "timestamp": "36:52",
-      "micro_segments": [
+        },
         {
-          "title": "Parim Hanisrafim: Meilah continues even in Beit Hadeshen until ashes fully consumed",
-          "display_title": "Par Hanisraf",
+          "title": "When meilah ends for olas ha'of: only when the ashes are taken outside the camp (beis ha-deshen); principle that meilah continues until mitzvaso is completed",
+          "display_title": "Meilah Termination",
+          "timestamp": "35:33"
+        },
+        {
+          "title": "Parim Hanisrafim and Se'irim Hanisrafim: special cases burned outside the camp; meilah applies throughout until ashes are removed",
+          "display_title": "Burned Offerings",
           "timestamp": "36:52"
         }
       ]
     },
     {
-      "title": "Regular Olah (Large Animal): Status Changes and Meilah by Body vs. Leather",
-      "display_title": "Regular Olah",
-      "timestamp": "40:21",
+      "title": "The Mishna's Treatment of Normal Korbanot: Olah, Chatat, Asham, and Zivchei Shalmei Tzibbur",
+      "display_title": "Normal Korbanot",
+      "timestamp": "40:20",
       "micro_segments": [
         {
-          "title": "Olah: Meilah from sanctification; Meakev stages post-Shechita",
-          "display_title": "Olah Intro",
-          "timestamp": "40:21"
+          "title": "Olah (large animal): meilah from sanctification; shechita allows tumah; after zrikat hadam, no meilah on meat but continues on imurin",
+          "display_title": "Olah Status",
+          "timestamp": "40:20"
         },
         {
-          "title": "After Zrikat Hadam: no Meilah by leather (to Kohanim); Meilah continues by meat and Imurim",
-          "display_title": "Leather vs Meat",
-          "timestamp": "41:18"
-        }
-      ]
-    },
-    {
-      "title": "Chatas, Asham, and Zivchei Shalmei Tzibbur: Kodshei Kodashim Eaten by Kohanim",
-      "display_title": "Chatat & Asham",
-      "timestamp": "42:06",
-      "micro_segments": [
+          "title": "Exception for the hide of olah: no meilah after zrikah because kohanim receive it; skin is removed from korban use",
+          "display_title": "Hide Exception",
+          "timestamp": "41:17"
+        },
         {
-          "title": "Chatas and Asham: Meilah from sanctification through Meakev stages",
-          "display_title": "Chatas Intro",
+          "title": "Chatat and asham as kodshei kodashim: meat can be eaten (unlike olah), so no meilah on meat after zrikah; meilah continues on imurin",
+          "display_title": "Chatat & Asham",
           "timestamp": "42:06"
         },
         {
-          "title": "After Zrikat Hadam: no Meilah by meat (eaten); Meilah by Imurin until Beit Hadeshen",
-          "display_title": "Meat vs Imurin",
-          "timestamp": "42:55"
+          "title": "Zivchei shalmei tzibbur: additional instance of kodshei kodashim eaten by kohanim; same rules apply as chatat and asham",
+          "display_title": "Zivchei Shalmei",
+          "timestamp": "42:19"
         }
       ]
     },
     {
-      "title": "Shtei Halechem: Bread Offering with Accompanying Lambs on Shavuot",
-      "display_title": "Shtei Halechem",
-      "timestamp": "43:51",
+      "title": "Non-Flesh Korbanos: Shtei Halechem and Lechem Hapanim—When Kedusha and Status Change Apply",
+      "display_title": "Bread Korbanos",
+      "timestamp": "43:46",
       "micro_segments": [
         {
-          "title": "Shtei Halechem: Meilah from sanctification; Meakev when crust forms in oven",
-          "display_title": "Bread Stages",
-          "timestamp": "43:51"
+          "title": "Shtei halechem (two loaves at Shavuot): meilah from sanctification of flour; becomes fit for tumah when crust forms (kermu batanur); status tied to sacrificial lambs",
+          "display_title": "Shtei Halechem",
+          "timestamp": "43:46"
         },
         {
-          "title": "After blood of lambs thrown: Piggul, Nosar, Tamei apply; no Meilah by bread",
-          "display_title": "Bread Status",
-          "timestamp": "46:56"
+          "title": "Key principle: kedushas haguf (intrinsic sanctity) for bread begins at crust formation, not at raw flour stage; parallel to shechita for animals",
+          "display_title": "Kedusha Threshold",
+          "timestamp": "46:10"
+        },
+        {
+          "title": "Lechem hapanim (showbread): meilah from sanctification; fit for tumah when crust forms; status changes when placed on table (haseder al gavei hashulchan)",
+          "display_title": "Lechem Hapanim",
+          "timestamp": "47:14"
+        },
+        {
+          "title": "No meilah on consumed portions: both shtei halechem and lechem hapanim lose meilah after they become fit to eat (kohanim consume them)",
+          "display_title": "Meilah on Food",
+          "timestamp": "47:52"
         }
       ]
     },
     {
-      "title": "Lechem Hapanim: Show Bread and Meilah Until Taken Outside",
-      "display_title": "Lechem Hapanim",
-      "timestamp": "47:15",
-      "micro_segments": [
-        {
-          "title": "Lechem Hapanim: Meilah from sanctification through crust stage",
-          "display_title": "Show Bread Intro",
-          "timestamp": "47:15"
-        },
-        {
-          "title": "Meakev when arranged on table; after Bezichin offered: Piggul Nosar Tamei apply; no Meilah",
-          "display_title": "Arrangement Stage",
-          "timestamp": "47:29"
-        }
-      ]
-    },
-    {
-      "title": "Menachot: Meal Offerings and the Kometz Offering",
-      "display_title": "Menachot",
+      "title": "Minchos (Meal Offerings): Kedusha Begins at Preparation, Status Depends on Stage of Avodah",
+      "display_title": "Minchos",
       "timestamp": "48:10",
       "micro_segments": [
         {
-          "title": "Menachot: Meilah from sanctification; Meakev when placed in Kli Shares",
-          "display_title": "Mincha Intro",
+          "title": "Minchos structure: meilah from sanctification; fit for tumah when placed in sacred vessel (kadeshu b'kli sharet); linah applies because offering must be brought the same day",
+          "display_title": "Mincha Stages",
           "timestamp": "48:10"
         },
         {
-          "title": "Linah applies to Mincha (must be brought same day); Piggul Nosar Tamei after Kometz separated",
+          "title": "Piggul nosar tamei apply after kometz is offered (karev hakometz); the kometz is burned and retains meilah until ashes are removed",
           "display_title": "Kometz Offering",
-          "timestamp": "48:17"
+          "timestamp": "48:23"
         },
         {
-          "title": "No Meilah by Shirayim (eaten by Kohanim); Meilah by Kometz until Beit Hadeshen",
-          "display_title": "Kometz Meilah",
+          "title": "No meilah on shirayim (remnant eaten by kohanim); meilah continues on kometz following the rule that meilah ends when food is eaten but continues on burned portions",
+          "display_title": "Kometz vs. Shirayim",
           "timestamp": "48:23"
         }
       ]
     },
     {
-      "title": "Ashes and Meilah: When Does Status End—Rav vs. Rabbi Yochanan Debate",
-      "display_title": "Ashes Debate",
-      "timestamp": "49:28",
+      "title": "When Does Meilah End: The Question of Ashes and the Role of Trumas Hadeshen",
+      "display_title": "Ashes & Meilah End",
+      "timestamp": "48:52",
       "micro_segments": [
         {
-          "title": "Itmar: Nehneh me-eifer Tafuach—does Meilah apply to ashes in the mound?",
-          "display_title": "Ashes Query",
-          "timestamp": "49:28"
+          "title": "Amoraim debate on ashes in the mound (tapuach): does meilah continue on ashes that remain on the mizbeach before trumas hadeshen",
+          "display_title": "Ashes Debate",
+          "timestamp": "48:52"
         },
         {
-          "title": "Rav: no Meilah once ashes formed (Neassis Mitzvato); Rabbi Yochanan: Meilah continues until taken outside",
-          "display_title": "Rav vs YY",
-          "timestamp": "49:32"
+          "title": "Rav's position: no meilah on ashes after trumas hadeshen because the mitzvah is completed; trumas hadeshen is the final avodah",
+          "display_title": "Rav: Meilah Ends",
+          "timestamp": "49:31"
         },
         {
-          "title": "Gemara: agreement before Trumas Hadeshen; dispute after—does ritual removal complete Mitzvah?",
-          "display_title": "Trumas Hadeshen",
-          "timestamp": "49:36"
+          "title": "Rabbi Yochanan's position: meilah continues until ashes are taken completely outside the camp because priestly garments are required for removal, making it avodah",
+          "display_title": "Rabbi Yochanan: Meilah C…",
+          "timestamp": "49:51"
         },
         {
-          "title": "Rabbi Yochanan: Bigdei Kehunah needed means Meilah continues until ashes taken to Beit Hadeshen",
-          "display_title": "Clothing Proof",
-          "timestamp": "50:21"
-        },
-        {
-          "title": "Rav's response to Mishnah: Ad shetehei re'uia leveit Hadeshen—ashes fit to be taken out (conclusion)",
-          "display_title": "Rav Response",
+          "title": "Gemara's challenge to Rav: the mishna states meilah applies ad sheteitzei leveit hadeshen, supporting Rabbi Yochanan; discussion of the phrase ad shehei reuia leveit hadeshen",
+          "display_title": "Mishna Challenge",
           "timestamp": "50:21"
         }
       ]
@@ -294,396 +286,311 @@
   ],
   "topical_tags": [
     {
-      "term": "Meilah (sacred property use)",
+      "term": "meilah",
       "timestamps": [
-        "00:00",
+        "00:52",
+        "01:38",
         "02:02",
-        "06:24",
-        "17:49",
-        "32:52",
-        "34:20",
-        "36:52",
-        "40:21",
-        "41:18",
-        "42:06",
-        "42:55",
-        "43:51",
-        "46:56",
-        "47:15",
-        "48:10",
-        "48:23",
-        "49:28"
-      ]
-    },
-    {
-      "term": "Tumah (impurity) and Sheni/Shlishi/Revi'i levels",
-      "timestamps": [
-        "02:02",
-        "03:34",
-        "10:00",
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Tvul Yom (immersed that day)",
-      "timestamps": [
-        "03:34",
-        "10:00",
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Michusarei Kipurim (lacking atonement)",
-      "timestamps": [
-        "03:34",
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Posel (invalidate) vs. Tamei (impart impurity)",
-      "timestamps": [
-        "03:34",
-        "10:00",
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Zrikat Hadam (sprinkling blood)",
-      "timestamps": [
-        "06:24",
         "08:00",
-        "17:49",
-        "20:05",
-        "32:52",
+        "18:09",
+        "19:22",
+        "29:29",
+        "34:20",
+        "35:33",
+        "36:46",
         "40:21",
-        "42:06"
-      ]
-    },
-    {
-      "term": "Piggul (wrong intention in sacrifice)",
-      "timestamps": [
-        "06:24",
-        "28:49",
-        "30:08",
+        "41:17",
         "42:06",
-        "43:51",
-        "47:15",
-        "48:10"
+        "43:46",
+        "47:52",
+        "48:23",
+        "48:52",
+        "49:31"
       ]
     },
     {
-      "term": "Nosar (leftover sacrifice)",
+      "term": "tumah classification (av, rishon, sheni, shlishi, revi'i)",
       "timestamps": [
-        "06:24",
-        "28:49",
-        "42:06",
-        "43:51",
-        "47:15",
-        "48:10"
+        "02:38",
+        "03:02",
+        "11:19",
+        "12:27",
+        "13:03",
+        "13:57"
       ]
     },
     {
-      "term": "Chatat Ha'Of (bird sin offering)",
+      "term": "psul vs. tamei distinction",
       "timestamps": [
-        "02:02",
-        "05:07",
-        "20:05",
+        "05:00",
+        "10:19",
+        "12:19",
+        "13:10",
+        "14:02",
+        "16:02"
+      ]
+    },
+    {
+      "term": "tvul yom and michusarei kipurim",
+      "timestamps": [
+        "04:03",
+        "04:41",
+        "06:13",
+        "10:09",
+        "11:19",
+        "13:10",
+        "16:53"
+      ]
+    },
+    {
+      "term": "zrikat hadam (blood sprinkle)",
+      "timestamps": [
+        "08:00",
+        "17:57",
+        "19:31",
+        "37:34",
+        "40:44",
+        "41:17",
+        "42:19"
+      ]
+    },
+    {
+      "term": "piggul, nosar, tamei (post-zrikah statuses)",
+      "timestamps": [
+        "07:37",
+        "08:00",
+        "28:51",
+        "37:51",
+        "42:28",
+        "48:23"
+      ]
+    },
+    {
+      "term": "mitzuy (squeezing blood)",
+      "timestamps": [
+        "20:08",
+        "20:55",
         "21:57",
-        "28:49",
-        "32:52"
-      ]
-    },
-    {
-      "term": "Olat Ha'Of (bird burnt offering)",
-      "timestamps": [
-        "28:49",
-        "30:08",
-        "32:52"
-      ]
-    },
-    {
-      "term": "Melikah (wringing neck of bird)",
-      "timestamps": [
-        "05:07",
-        "20:05",
-        "28:49",
-        "32:52"
-      ]
-    },
-    {
-      "term": "Mitzuy (squeezing out blood)",
-      "timestamps": [
-        "20:05",
-        "21:57",
-        "22:40",
-        "25:03",
         "28:49",
         "30:08"
       ]
     },
     {
-      "term": "Linah (leaving over at night)",
+      "term": "shechita (slaughter)",
       "timestamps": [
-        "05:07",
-        "06:31",
-        "32:52",
-        "40:21",
-        "48:10"
+        "05:09",
+        "06:07",
+        "36:46",
+        "37:34",
+        "40:44"
       ]
     },
     {
-      "term": "Meakev (prerequisite; prevents validity)",
+      "term": "nimlekah / melikah (wringing neck of bird)",
       "timestamps": [
-        "20:05",
-        "21:57",
-        "25:03",
-        "31:04",
-        "40:21",
-        "42:06",
-        "43:51",
-        "47:15",
-        "48:10"
+        "05:32",
+        "06:03",
+        "29:26",
+        "32:49",
+        "34:25"
       ]
     },
     {
-      "term": "Kodshei Kodashim (holy of holies sacrifices)",
+      "term": "linah (leaving over overnight)",
       "timestamps": [
+        "06:35",
+        "07:01",
         "10:02",
-        "14:16",
-        "42:06"
+        "33:42",
+        "40:42",
+        "48:27"
       ]
     },
     {
-      "term": "Olah (burnt offering)",
+      "term": "chatat ha'of (bird sin offering)",
       "timestamps": [
-        "28:49",
-        "32:52",
+        "02:04",
+        "09:00",
+        "28:51",
+        "32:55"
+      ]
+    },
+    {
+      "term": "olat ha'of (bird burnt offering)",
+      "timestamps": [
+        "32:49",
         "34:20",
-        "40:21",
-        "41:18"
+        "35:33"
       ]
     },
     {
-      "term": "Chatas and Asham (sin and guilt offerings)",
+      "term": "parim hanisrafim (burned bull offerings)",
       "timestamps": [
-        "42:06",
-        "42:55"
-      ]
-    },
-    {
-      "term": "Imurin (limbs for altar)",
-      "timestamps": [
-        "34:20",
-        "37:00",
-        "38:00",
-        "42:55",
-        "48:23"
-      ]
-    },
-    {
-      "term": "Beit Hadeshen (place of ashes outside camp)",
-      "timestamps": [
-        "34:41",
         "36:52",
-        "40:21",
-        "42:06",
-        "48:10",
-        "48:23",
-        "49:28",
-        "50:21"
+        "37:08"
       ]
     },
     {
-      "term": "Shtei Halechem (two loaves on Shavuot)",
+      "term": "Abba Shaul (rishon position)",
       "timestamps": [
-        "43:51",
-        "46:56"
+        "11:09",
+        "12:18"
       ]
     },
     {
-      "term": "Lechem Hapanim (show bread)",
+      "term": "Rabbi Meir (sheni position)",
       "timestamps": [
-        "44:31",
-        "47:15"
+        "11:29",
+        "12:23"
       ]
     },
     {
-      "term": "Mincha (meal offering)",
+      "term": "Chachamim (psul position)",
       "timestamps": [
-        "25:03",
-        "48:10",
-        "48:17",
-        "48:23"
+        "12:30",
+        "15:14"
       ]
     },
     {
-      "term": "Kometz (handful of mincha offered on altar)",
+      "term": "Raba",
       "timestamps": [
-        "25:03",
-        "48:17",
-        "48:23"
+        "14:16",
+        "25:09"
       ]
     },
     {
-      "term": "Parim Hanisrafim (burnt bulls/goats)",
-      "timestamps": [
-        "36:52"
-      ]
-    },
-    {
-      "term": "Rashi authorship debate in Meilah",
-      "timestamps": [
-        "00:54"
-      ]
-    },
-    {
-      "term": "Abba Shaul (Tanna opinion)",
-      "timestamps": [
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Rabbi Meir (Tanna opinion)",
-      "timestamps": [
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Chachamim (Rabbis' view)",
-      "timestamps": [
-        "10:02",
-        "14:16"
-      ]
-    },
-    {
-      "term": "Rava (Amora reconciling positions)",
-      "timestamps": [
-        "14:16"
-      ]
-    },
-    {
-      "term": "Rabbi Chanina (Amora answer on Meilah)",
+      "term": "Rabbi Chanina",
       "timestamps": [
         "19:31"
       ]
     },
     {
-      "term": "Rav Huna (Amora on Mitzuy)",
+      "term": "Rav (via Rav Huna)",
       "timestamps": [
-        "20:05",
+        "20:08",
+        "21:03",
+        "49:31"
+      ]
+    },
+    {
+      "term": "Rav Adda bar Ahava",
+      "timestamps": [
         "21:57"
       ]
     },
     {
-      "term": "Rav Adda bar Ahava (Amora alternate view)",
+      "term": "Rabbi Yochanan",
       "timestamps": [
-        "21:57"
+        "49:51"
       ]
     },
     {
-      "term": "Rabbi Yishmael (Tanna on Shirayim)",
+      "term": "Rabbi Yishmael",
       "timestamps": [
-        "31:04"
+        "23:47",
+        "31:05"
       ]
     },
     {
-      "term": "Rav (Amora on Ashes)",
+      "term": "kedusha and status change (psulo kodem shechita paradigm)",
       "timestamps": [
-        "49:32",
+        "05:20",
+        "46:10",
+        "48:10"
+      ]
+    },
+    {
+      "term": "imurin (fat portions for mizbeach)",
+      "timestamps": [
+        "01:40",
+        "36:09",
+        "42:06",
+        "43:02"
+      ]
+    },
+    {
+      "term": "beis ha-deshen (place where ashes are taken outside)",
+      "timestamps": [
+        "35:33",
+        "35:58",
+        "40:05",
+        "48:38",
         "50:21"
       ]
     },
     {
-      "term": "Rabbi Yochanan (Amora on Ashes)",
+      "term": "mitzvaso is completed (principle of when status ends)",
       "timestamps": [
-        "49:32",
-        "50:21"
+        "35:00",
+        "38:52",
+        "49:45"
       ]
     },
     {
-      "term": "De'oraita (Torah law level)",
+      "term": "trumas hadeshen (ritual removal of ashes)",
       "timestamps": [
-        "14:16"
+        "35:33",
+        "48:52",
+        "49:36",
+        "50:04"
       ]
     },
     {
-      "term": "De'rabbanan (Rabbinic law level)",
+      "term": "shtei halechem (two loaves at Shavuot)",
       "timestamps": [
-        "14:16"
+        "43:46"
       ]
     },
     {
-      "term": "Shirayim (blood remnant poured at base)",
+      "term": "lechem hapanim (showbread)",
       "timestamps": [
-        "25:03",
-        "31:04",
-        "48:23"
+        "47:14"
       ]
     },
     {
-      "term": "Kasher (valid/fit)",
-      "timestamps": [
-        "34:01",
-        "37:08",
-        "40:21",
-        "42:06"
-      ]
-    },
-    {
-      "term": "Shechita (slaughter)",
-      "timestamps": [
-        "40:21",
-        "42:06"
-      ]
-    },
-    {
-      "term": "Kli Shares (service vessels)",
+      "term": "minchos (meal offerings)",
       "timestamps": [
         "48:10"
       ]
     },
     {
-      "term": "Bezichin (frankincense spoons)",
+      "term": "kometz (handful of mincha burned)",
       "timestamps": [
-        "47:29"
+        "26:00",
+        "48:23"
       ]
     },
     {
-      "term": "Trumas Hadeshen (symbolic ash removal)",
+      "term": "shirayim (remainder of mincha eaten by kohanim)",
       "timestamps": [
-        "49:36",
-        "50:21"
+        "28:44",
+        "48:23"
       ]
     },
     {
-      "term": "Bigdei Kehunah (priestly garments)",
+      "term": "shana alav hakatuv l'akev (principle of repetition making act required)",
       "timestamps": [
-        "50:21"
+        "27:30"
       ]
     },
     {
-      "term": "Yotzei (taken out of Temple)",
+      "term": "de'oraita vs. derabbanan distinction",
       "timestamps": [
-        "19:31"
+        "14:28",
+        "15:04"
       ]
     },
     {
-      "term": "Hechsher (susceptibility to impurity)",
+      "term": "yotzei (taken out of Beis Hamikdash)",
       "timestamps": [
-        "05:39"
+        "19:42"
       ]
     },
     {
-      "term": "Ra'uy (fit for purpose)",
+      "term": "gittin and non-flesh korbanos",
       "timestamps": [
-        "34:01",
-        "38:07"
+        "43:46",
+        "48:10"
       ]
     }
   ]

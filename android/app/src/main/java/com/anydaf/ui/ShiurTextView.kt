@@ -163,8 +163,9 @@ fun ShiurTextView(
     currentSegmentIndex: Int,
     modifier: Modifier = Modifier
 ) {
-    // Dark theme → amber (visible on dark surfaces); light theme → app blue (matches the brand blue)
-    val sourceWordColor = if (isSystemInDarkTheme()) Amber else AppBlue
+    val blueMode = LocalIsBlueMode.current
+    // Amber on blue background or dark theme; brand blue on white/parchment light theme
+    val sourceWordColor = if (blueMode || isSystemInDarkTheme()) Amber else AppBlue
     val blocks = remember(rewriteText) { parseShiurBlocks(rewriteText) }
     val listState = rememberLazyListState()
 
@@ -183,12 +184,17 @@ fun ShiurTextView(
                 is ShiurBlock.Header2 -> {
                     val isActive = block.segIdx == currentSegmentIndex
                     Spacer(Modifier.height(if (block.segIdx == 0) 8.dp else 20.dp))
+                    val h2Color = when {
+                        blueMode && isActive  -> Color.White
+                        blueMode              -> Color.White.copy(alpha = 0.65f)
+                        isActive              -> MaterialTheme.colorScheme.primary
+                        else                  -> MaterialTheme.colorScheme.onSurface
+                    }
                     Text(
                         text = block.text,
                         style = MaterialTheme.typography.titleMedium.copy(
                             fontWeight = FontWeight.Bold,
-                            color = if (isActive) MaterialTheme.colorScheme.primary
-                                    else MaterialTheme.colorScheme.onSurface
+                            color = h2Color
                         ),
                         modifier = Modifier.fillMaxWidth().padding(bottom = 4.dp)
                     )
@@ -199,7 +205,8 @@ fun ShiurTextView(
                         text = block.text,
                         style = MaterialTheme.typography.titleSmall.copy(
                             fontWeight = FontWeight.SemiBold,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                            color = if (blueMode) Color.White.copy(alpha = 0.75f)
+                                    else MaterialTheme.colorScheme.onSurfaceVariant
                         ),
                         modifier = Modifier.fillMaxWidth().padding(bottom = 2.dp)
                     )
@@ -213,8 +220,10 @@ fun ShiurTextView(
                     )
                 }
                 is ShiurBlock.Blockquote -> {
-                    val barColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.35f)
-                    val bgColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.07f)
+                    val barColor = if (blueMode) Color.White.copy(alpha = 0.35f)
+                                   else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.35f)
+                    val bgColor  = if (blueMode) Color.White.copy(alpha = 0.07f)
+                                   else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.07f)
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
@@ -246,11 +255,14 @@ fun ShiurTextView(
                                 Text(
                                     text = "Text and Translation",
                                     style = MaterialTheme.typography.labelSmall.copy(fontWeight = androidx.compose.ui.text.font.FontWeight.Bold),
-                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.55f)
+                                    color = if (blueMode) Color.White.copy(alpha = 0.55f)
+                                            else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.55f)
                                 )
                                 Spacer(Modifier.height(6.dp))
                             }
                             // Hebrew/Aramaic source — RTL if it contains Hebrew characters
+                            val srcColor = if (blueMode) Amber.copy(alpha = 0.9f)
+                                           else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
                             if (block.source.isNotEmpty()) {
                                 val isHebrew = containsHebrew(block.source)
                                 if (isHebrew) {
@@ -261,7 +273,7 @@ fun ShiurTextView(
                                                 textDirection = TextDirection.Rtl,
                                                 textAlign = TextAlign.Start  // "start" = right in RTL
                                             ),
-                                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f),
+                                            color = srcColor,
                                             modifier = Modifier.fillMaxWidth()
                                         )
                                     }
@@ -269,18 +281,20 @@ fun ShiurTextView(
                                     Text(
                                         text = italicLatinAnnotatedString(block.source),
                                         style = MaterialTheme.typography.bodySmall,
-                                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f),
+                                        color = srcColor,
                                         modifier = Modifier.fillMaxWidth()
                                     )
                                 }
                             }
-                            // English translation with amber source words
+                            // English translation: source words amber, added words white (blue mode) or muted
+                            val addedColor = if (blueMode) Color.White.copy(alpha = 0.75f)
+                                             else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.75f)
                             if (block.translation.isNotEmpty()) {
                                 if (block.source.isNotEmpty()) Spacer(Modifier.height(6.dp))
                                 Text(
                                     text = translationAnnotatedString(block.translation, sourceWordColor),
                                     style = MaterialTheme.typography.bodySmall,
-                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.75f),
+                                    color = addedColor,
                                     modifier = Modifier.fillMaxWidth()
                                 )
                             }

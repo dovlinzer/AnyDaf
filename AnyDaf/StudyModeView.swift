@@ -261,7 +261,7 @@ struct StudyModeView: View {
                                 Image(systemName: "chevron.left")
                                     .font(.caption2.bold())
                             }
-                            Text(onAmudA ? "Amud b" : "Amud a")
+                            Text(onAmudA ? "b" : "a")
                             if onAmudA {
                                 Image(systemName: "chevron.right")
                                     .font(.caption2.bold())

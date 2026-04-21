@@ -16,9 +16,14 @@ struct ContentView: View {
 
     private let pageManager = TalmudPageManager.shared
 
-    @AppStorage("lastTractateIndex") private var selectedTractateIndex = 0
-    @AppStorage("lastDaf") private var selectedDaf: Double = 2.0
-    @AppStorage("lastAmud") private var selectedSide: Int = 0
+    @AppStorage("lastTractateIndex") private var storedTractateIndex = 0
+    @AppStorage("lastDaf") private var storedDaf: Double = 2.0
+    @AppStorage("lastAmud") private var storedSide: Int = 0
+    @State private var selectedTractateIndex: Int = UserDefaults.standard.integer(forKey: "lastTractateIndex")
+    @State private var selectedDaf: Double = {
+        let v = UserDefaults.standard.double(forKey: "lastDaf"); return v > 0 ? v : 2.0
+    }()
+    @State private var selectedSide: Int = UserDefaults.standard.integer(forKey: "lastAmud")
     @State private var imageDaf: Int = 2
     @State private var imageSide: Int = 0   // actual displayed amud; decoupled from picker
     @AppStorage("quizMode") private var quizMode: QuizMode = .multipleChoice
@@ -42,8 +47,10 @@ struct ContentView: View {
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     /// iPad split divider position — fraction of total width given to the left (daf) column.
-    @State private var splitFraction: CGFloat = 0.5
-    @GestureState private var splitDragOffset: CGFloat = 0
+    @AppStorage("iPadSplitFraction") private var splitFraction: Double = 0.5
+    @GestureState private var splitDragDelta: CGFloat = 0
+    /// "none" | "left" (left panel collapsed) | "right" (right panel collapsed)
+    @AppStorage("iPadCollapsedSide") private var collapsedSide: String = "none"
     /// iPad right-panel mode — persisted so the user's preference is remembered.
     @AppStorage("iPadRightPanel") private var iPadRightPanel: IPadRightPanel = .shiur
 
@@ -76,7 +83,7 @@ struct ContentView: View {
                 }
             }
             .background(appBg)
-            .navigationTitle("AnyDaf")
+            .navigationTitle(horizontalSizeClass == .regular ? "" : "AnyDaf")
             .navigationBarTitleDisplayMode(.inline)
             .toolbarBackground(appBg, for: .navigationBar)
             .toolbarBackground(.visible, for: .navigationBar)
@@ -125,6 +132,12 @@ struct ContentView: View {
                                 .font(.system(size: 16))
                         }
                     }
+                    // Compact pickers in the toolbar centre — only when right panel is collapsed.
+                    if horizontalSizeClass == .regular && collapsedSide == "right" {
+                        ToolbarItem(placement: .principal) {
+                            compactPickers
+                        }
+                    }
                 }
             }
         }
@@ -153,11 +166,14 @@ struct ContentView: View {
                     if selectedTractateIndex != bookmark.tractateIndex {
                         suppressTractateReset = true
                         selectedTractateIndex = bookmark.tractateIndex
+                        storedTractateIndex = bookmark.tractateIndex
                     }
                     selectedDaf = Double(bookmark.daf)
+                    storedDaf = Double(bookmark.daf)
                     imageDaf = bookmark.daf
                     imageSide = bookmark.amud
                     selectedSide = bookmark.amud
+                    storedSide = bookmark.amud
                 }
             )
         }
@@ -198,10 +214,6 @@ struct ContentView: View {
             shiurClient.reset()
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
         }
-        .onChange(of: shiurClient.shiurRewrite) { _, newValue in
-            if newValue == nil { showShiurText = false }
-            // Panel selection persists across dafs; iPadRightContent shows placeholder when nil.
-        }
         .onChange(of: audioPlayer.resolutionFailed) { _, failed in
             guard failed, !hasAutoRefreshedForAudio else { return }
             hasAutoRefreshedForAudio = true
@@ -222,137 +234,193 @@ struct ContentView: View {
     private var iPadLayout: some View {
         GeometryReader { geo in
             let totalWidth = geo.size.width
-            let dividerWidth: CGFloat = 24
-            let contentWidth = totalWidth - dividerWidth
-            let rawFraction = splitFraction + splitDragOffset / contentWidth
-            let clampedFraction = max(0.3, min(0.7, rawFraction))
-            let leftWidth = contentWidth * clampedFraction
+            // Handle is narrower when a panel is collapsed (just a restore button).
+            let handleWidth: CGFloat = collapsedSide == "none" ? 24 : 20
+            let contentWidth = totalWidth - handleWidth
+
+            // Live left width — unclamped during drag so the user can reach either edge.
+            let leftWidth: CGFloat = {
+                switch collapsedSide {
+                case "left":  return 0
+                case "right": return contentWidth
+                default:
+                    let raw = CGFloat(splitFraction) + splitDragDelta / contentWidth
+                    return contentWidth * max(0, min(1, raw))
+                }
+            }()
+
             let isPortrait = geo.size.height > geo.size.width
             let portraitTopPad: CGFloat = isPortrait ? 20 : 0
 
-            // Compute image height so audio sits right below the image rather than
-            // being pinned to the bottom of a fixed section (visible gap in portrait).
-            // Daf pages are ~A4 ratio (height ≈ width × 1.41). Cap at available space
-            // so the image never overflows in landscape.
-            let dafImageAspect: CGFloat = 1.41       // height / width
-            let pickerH: CGFloat = 80                // wheel picker row (76pt + 4pt top pad)
-            let amudH: CGFloat = 40                  // segmented amud picker
-            let audioH: CGFloat = 120                // fixed audio section
-            let overhead = portraitTopPad + pickerH + 10 + amudH + audioH
-            let naturalImageH = leftWidth * dafImageAspect
-            let imageHeight = min(naturalImageH, max(10, geo.size.height - overhead))
+            // Daf image fills the full left-column height.
+            // Audio controls float over the bottom of the image as a pill overlay.
+            let audioH: CGFloat = 120
 
             HStack(spacing: 0) {
-                // Left column: daf selector → amud picker → image → audio (→ spacer)
-                VStack(spacing: 0) {
-                    Spacer().frame(height: portraitTopPad)
-                    pickerRow
-                    Spacer().frame(height: 10)
 
-                    // Amud picker + daf image as one visual unit
-                    iPadAmudPicker
-                    dafOnlyView
-                        .frame(width: leftWidth, height: imageHeight)
-
-                    // Audio controls sit directly below the image
-                    bottomControls
-                        .frame(height: audioH)
-
-                    Spacer(minLength: 0)  // absorbs remaining space at the bottom
-                }
-                .frame(width: leftWidth)
-
-                // Drag handle
-                ZStack {
-                    Rectangle()
-                        .fill(appFg.opacity(0.18))
-                        .frame(width: 1)
-                    VStack(spacing: 5) {
-                        ForEach(0..<3, id: \.self) { _ in
-                            Circle()
-                                .fill(appFg.opacity(0.45))
-                                .frame(width: 5, height: 5)
+                // ── Left column ──────────────────────────────────────────────────
+                if collapsedSide != "left" {
+                    VStack(spacing: 0) {
+                        // Split mode: compact menu pickers aligned with the right panel's Shiur/Study picker.
+                        if collapsedSide != "right" {
+                            Spacer().frame(height: portraitTopPad)
+                            compactPickers
+                                .padding(.horizontal, 16)
+                                .padding(.vertical, 8)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 10, style: .continuous)
+                                        .fill(appFg.opacity(0.07))
+                                        .stroke(appFg.opacity(0.25), lineWidth: 1)
+                                )
+                                .padding(.horizontal, 12)
+                        }
+                        ZStack(alignment: .bottom) {
+                            dafOnlyView
+                                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            bottomControls
+                                .frame(height: audioH)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 16, style: .continuous)
+                                        .fill(appBg.opacity(0.92))
+                                        .shadow(color: .black.opacity(0.2), radius: 8, x: 0, y: -2)
+                                )
+                                .padding(.horizontal, 12)
+                                .padding(.bottom, 6)
                         }
                     }
-                    .padding(.vertical, 10)
-                    .padding(.horizontal, 8)
-                    .background(
-                        Capsule()
-                            .fill(appBg.opacity(0.9))
-                            .shadow(color: .black.opacity(0.25), radius: 3, x: 0, y: 1)
-                    )
+                    .frame(width: leftWidth)
+                    .clipped()
                 }
-                .frame(width: dividerWidth)
-                .contentShape(Rectangle())
-                .gesture(
-                    DragGesture(minimumDistance: 0)
-                        .updating($splitDragOffset) { value, state, _ in
-                            state = value.translation.width
-                        }
-                        .onEnded { value in
-                            let newFraction = splitFraction + value.translation.width / contentWidth
-                            splitFraction = max(0.3, min(0.7, newFraction))
-                        }
-                )
 
-                // Right column: Shiur/Study picker always anchored at top + content below
-                VStack(spacing: 0) {
-                    Spacer().frame(height: portraitTopPad)
-                    Picker("Right Panel", selection: $iPadRightPanel) {
-                        Text("Shiur").tag(IPadRightPanel.shiur)
-                        Text("Study").tag(IPadRightPanel.study)
+                // ── Divider / collapse handle ────────────────────────────────────
+                if collapsedSide == "left" {
+                    // Left panel is collapsed — show a thin expand handle on the left edge.
+                    Button {
+                        withAnimation(.easeInOut(duration: 0.3)) { collapsedSide = "none" }
+                    } label: {
+                        VStack {
+                            Spacer()
+                            Image(systemName: "chevron.right")
+                                .font(.caption)
+                                .foregroundStyle(appFg.opacity(0.7))
+                            Spacer()
+                        }
                     }
-                    .pickerStyle(.segmented)
-                    .padding(.horizontal, 16)
-                    .padding(.vertical, 8)
-                    .colorScheme(useWhiteBackground ? .light : .dark)
-                    .onChange(of: iPadRightPanel) { _, newPanel in
-                        if newPanel == .study {
-                            Task {
-                                await studyManager.startSession(
-                                    tractate: tractate.name, daf: Int(selectedDaf),
-                                    mode: .facts, quizMode: quizMode)
+                    .frame(width: handleWidth)
+                    .background(appFg.opacity(0.08))
+                    .contentShape(Rectangle())
+
+                } else if collapsedSide == "right" {
+                    // Right panel is collapsed — show a thin expand handle on the right edge.
+                    Button {
+                        withAnimation(.easeInOut(duration: 0.3)) { collapsedSide = "none" }
+                    } label: {
+                        VStack {
+                            Spacer()
+                            Image(systemName: "chevron.left")
+                                .font(.caption)
+                                .foregroundStyle(appFg.opacity(0.7))
+                            Spacer()
+                        }
+                    }
+                    .frame(width: handleWidth)
+                    .background(appFg.opacity(0.08))
+                    .contentShape(Rectangle())
+
+                } else {
+                    // Normal draggable divider — dots pill on a faint line.
+                    ZStack {
+                        Rectangle()
+                            .fill(appFg.opacity(0.18))
+                            .frame(width: 1)
+                        VStack(spacing: 5) {
+                            ForEach(0..<3, id: \.self) { _ in
+                                Circle()
+                                    .fill(appFg.opacity(0.45))
+                                    .frame(width: 5, height: 5)
                             }
                         }
+                        .padding(.vertical, 10)
+                        .padding(.horizontal, 8)
+                        .background(
+                            Capsule()
+                                .fill(appBg.opacity(0.9))
+                                .shadow(color: .black.opacity(0.25), radius: 3, x: 0, y: 1)
+                        )
                     }
-                    ZStack {
-                        if iPadRightPanel == .study {
-                            studyModeContent
-                                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                .transition(.asymmetric(
-                                    insertion: .move(edge: .trailing).combined(with: .opacity),
-                                    removal:   .move(edge: .trailing).combined(with: .opacity)
-                                ))
-                        } else {
-                            iPadRightContent
-                                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                                .transition(.asymmetric(
-                                    insertion: .move(edge: .leading).combined(with: .opacity),
-                                    removal:   .move(edge: .leading).combined(with: .opacity)
-                                ))
-                        }
-                    }
-                    .animation(.easeInOut(duration: 0.35), value: iPadRightPanel)
-                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .frame(width: handleWidth)
+                    .contentShape(Rectangle())
+                    .gesture(
+                        DragGesture(minimumDistance: 0)
+                            .updating($splitDragDelta) { value, state, _ in
+                                state = value.translation.width
+                            }
+                            .onEnded { value in
+                                let predicted = CGFloat(splitFraction) + value.predictedEndTranslation.width / contentWidth
+                                let actual    = CGFloat(splitFraction) + value.translation.width / contentWidth
+                                let moved     = abs(value.translation.width)
+
+                                // Collapse by deliberate drag: finger reached past 20 % / 80 %.
+                                // Collapse by fast flick:  predicted end is past 15 % / 85 %
+                                //   AND the finger moved ≥ 60 pt — guards against a tiny
+                                //   fast tap on the handle triggering an accidental snap.
+                                // Otherwise: normal resize, clamped to 20 %–80 %.
+                                if actual < 0.2 || (predicted < 0.15 && moved > 60) {
+                                    withAnimation(.easeInOut(duration: 0.3)) { collapsedSide = "left" }
+                                } else if actual > 0.8 || (predicted > 0.85 && moved > 60) {
+                                    withAnimation(.easeInOut(duration: 0.3)) { collapsedSide = "right" }
+                                } else {
+                                    splitFraction = Double(max(0.2, min(0.8, actual)))
+                                }
+                            }
+                    )
                 }
-                .frame(maxWidth: .infinity)
+
+                // ── Right column ──────────────────────────────────────────────────
+                if collapsedSide != "right" {
+                    VStack(spacing: 0) {
+                        Spacer().frame(height: portraitTopPad)
+                        Picker("Right Panel", selection: $iPadRightPanel) {
+                            Text("Shiur").tag(IPadRightPanel.shiur)
+                            Text("Study").tag(IPadRightPanel.study)
+                        }
+                        .pickerStyle(.segmented)
+                        .padding(.horizontal, 16)
+                        .padding(.vertical, 8)
+                        .colorScheme(useWhiteBackground ? .light : .dark)
+                        .onChange(of: iPadRightPanel) { _, newPanel in
+                            if newPanel == .study {
+                                Task {
+                                    await studyManager.startSession(
+                                        tractate: tractate.name, daf: Int(selectedDaf),
+                                        mode: .facts, quizMode: quizMode)
+                                }
+                            }
+                        }
+                        ZStack {
+                            if iPadRightPanel == .study {
+                                studyModeContent
+                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                    .transition(.asymmetric(
+                                        insertion: .move(edge: .trailing).combined(with: .opacity),
+                                        removal:   .move(edge: .trailing).combined(with: .opacity)
+                                    ))
+                            } else {
+                                iPadRightContent
+                                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                                    .transition(.asymmetric(
+                                        insertion: .move(edge: .leading).combined(with: .opacity),
+                                        removal:   .move(edge: .leading).combined(with: .opacity)
+                                    ))
+                            }
+                        }
+                        .animation(.easeInOut(duration: 0.35), value: iPadRightPanel)
+                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    }
+                    .frame(maxWidth: .infinity)
+                }
             }
         }
-    }
-
-    /// Amud a/b segmented picker for the iPad left column — sits between the daf selectors and the image.
-    private var iPadAmudPicker: some View {
-        Picker("Amud", selection: $selectedSide) {
-            Text("Amud א (a)").tag(0)
-            Text("Amud ב (b)").tag(1)
-        }
-        .pickerStyle(.segmented)
-        .padding(.horizontal, 20)
-        .padding(.vertical, 4)
-        .frame(maxWidth: 400)
-        .frame(maxWidth: .infinity)
-        .colorScheme(useWhiteBackground ? .light : .dark)
-        .onChange(of: selectedSide) { _, newVal in imageSide = newVal }
     }
 
     /// Daf page only — no shiur toggle (iPad left column; shiur lives in the right column).
@@ -434,72 +502,142 @@ struct ContentView: View {
             )
             .animation(.easeInOut(duration: 0.6), value: showStudyMode)
 
-            if !showStudyMode { bottomControls }
+            if !showStudyMode {
+                bottomControls
+                    .padding(.horizontal, 8)
+            }
         }
     }
 
-    // MARK: - Picker Row
+    // MARK: - Picker Row (all form factors)
 
     @ViewBuilder private var pickerRow: some View {
-        HStack(alignment: .center, spacing: 0) {
+        HStack(spacing: 8) {
+            compactPickers
+                .padding(.horizontal, 8)
+                .padding(.vertical, 4)
+                .background(
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
+                        .fill(appFg.opacity(0.07))
+                        .stroke(appFg.opacity(0.25), lineWidth: 1)
+                )
+                .layoutPriority(1)
 
-            Picker("Tractate", selection: $selectedTractateIndex) {
-                ForEach(allTractates.indices, id: \.self) { i in
-                    Text(allTractates[i].name)
-                        .font(horizontalSizeClass == .regular ? .body : .subheadline)
-                        .tag(i)
+            if shiurClient.shiurRewrite != nil {
+                HStack(spacing: 0) {
+                    ForEach([(false, "Daf"), (true, "Shiur")], id: \.0) { val, label in
+                        Button {
+                            showShiurText = val
+                        } label: {
+                            Text(label)
+                                .font(.footnote)
+                                .padding(.horizontal, 6)
+                                .padding(.vertical, 4)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 14, style: .continuous)
+                                        .fill(showShiurText == val ? appFg.opacity(0.25) : Color.clear)
+                                )
+                        }
+                        .buttonStyle(.plain)
+                        .foregroundStyle(appFg)
+                    }
+                }
+                .padding(.horizontal, 4)
+                .padding(.vertical, 4)
+                .background(
+                    RoundedRectangle(cornerRadius: 20, style: .continuous)
+                        .fill(appFg.opacity(0.07))
+                        .stroke(appFg.opacity(0.25), lineWidth: 1)
+                )
+            }
+
+            if !audioPlayer.isStopped {
+                Button {
+                    withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
+                    Task {
+                        await studyManager.startSession(
+                            tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                    }
+                } label: {
+                    Image(systemName: "book.circle.fill")
+                        .font(.system(size: 38))
+                        .foregroundStyle(appFg)
                 }
             }
-            .pickerStyle(.wheel)
-            .frame(maxWidth: .infinity)
-            .frame(height: 76)
-            .clipped()
-
-            Picker("Daf", selection: $selectedDaf) {
-                ForEach(dafPickerItems, id: \.self) { daf in
-                    Text(FeedManager.dafLabel(daf))
-                        .font(horizontalSizeClass == .regular ? .body : .subheadline)
-                        .tag(daf)
-                }
-            }
-            .pickerStyle(.wheel)
-            .frame(width: 70)
-            .frame(height: 76)
-            .clipped()
         }
-        .colorScheme(.light)
-        .background(
-            RoundedRectangle(cornerRadius: 14)
-                .fill(Color.white)
-                .shadow(color: .black.opacity(0.35), radius: 6, x: 0, y: 3)
-        )
-        .padding(.horizontal, 20)
+        .padding(.horizontal, 8)
         .padding(.top, 4)
-        // On iPad, cap picker card width and center it
-        .frame(maxWidth: horizontalSizeClass == .regular ? 520 : .infinity)
-        .frame(maxWidth: .infinity)
-        .onChange(of: selectedTractateIndex) { _, _ in
-            if suppressTractateReset {
-                suppressTractateReset = false
-            } else {
-                selectedDaf = Double(tractate.startDaf)
-                imageDaf = tractate.startDaf
-                imageSide = tractate.startAmud
-                selectedSide = tractate.startAmud
+        .padding(.bottom, 8)
+    }
+
+    // MARK: - Compact Pickers (all form factors)
+
+    @ViewBuilder private var compactPickers: some View {
+        HStack(spacing: 4) {
+            Picker(selection: $selectedTractateIndex) {
+                ForEach(allTractates.indices, id: \.self) { i in
+                    Text(allTractates[i].name).font(.caption).tag(i)
+                }
+            } label: {
+                Text(tractate.name)
+                    .font(.caption)
+                    .lineLimit(1)
+            }
+            .pickerStyle(.menu)
+            .menuIndicator(.hidden)
+            .font(.caption)
+            .fixedSize()
+            .onChange(of: selectedTractateIndex) { _, newIdx in
+                storedTractateIndex = newIdx
+                if suppressTractateReset {
+                    suppressTractateReset = false
+                } else {
+                    selectedDaf = Double(tractate.startDaf)
+                    storedDaf = Double(tractate.startDaf)
+                    imageDaf = tractate.startDaf
+                    imageSide = tractate.startAmud
+                    selectedSide = tractate.startAmud
+                    storedSide = tractate.startAmud
+                }
+            }
+
+            Picker(selection: $selectedDaf) {
+                ForEach(dafPickerItems, id: \.self) { daf in
+                    Text(FeedManager.dafLabel(daf)).font(.caption).tag(daf)
+                }
+            } label: {
+                Text(FeedManager.dafLabel(selectedDaf))
+                    .font(.caption)
+                    .lineLimit(1)
+            }
+            .pickerStyle(.menu)
+            .menuIndicator(.hidden)
+            .font(.caption)
+            .frame(minWidth: 30)
+            .onChange(of: selectedDaf) { _, newVal in
+                storedDaf = newVal
+                imageDaf = Int(newVal)
+                let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
+                let side = isHalf ? 1 : (newVal == Double(tractate.startDaf) ? tractate.startAmud : 0)
+                imageSide = side
+                selectedSide = side
+                storedSide = side
+            }
+
+            Picker("Amud", selection: $selectedSide) {
+                Text("a").tag(0)
+                Text("b").tag(1)
+            }
+            .pickerStyle(.segmented)
+            .font(.footnote)
+            .frame(width: 40)
+            .onChange(of: selectedSide) { _, newVal in
+                storedSide = newVal
+                imageSide = newVal
             }
         }
-        .onChange(of: selectedDaf) { _, newVal in
-            imageDaf = Int(newVal)
-            let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
-            let side: Int
-            if isHalf {
-                side = 1
-            } else {
-                side = (newVal == Double(tractate.startDaf)) ? tractate.startAmud : 0
-            }
-            imageSide = side
-            selectedSide = side
-        }
+        .tint(appFg)
+        .colorScheme(useWhiteBackground ? .light : .dark)
     }
 
     private var shiurDisplayText: String? {
@@ -512,19 +650,6 @@ struct ContentView: View {
 
     @ViewBuilder private var dafAndShiurView: some View {
         VStack(spacing: 0) {
-            // Daf / Shiur toggle — visible only when lecture text is available
-            if shiurClient.shiurRewrite != nil {
-                Picker("View", selection: $showShiurText) {
-                    Text("Daf").tag(false)
-                    Text("Shiur").tag(true)
-                }
-                .pickerStyle(.segmented)
-                .padding(.horizontal, 20)
-                .padding(.vertical, 6)
-                .colorScheme(useWhiteBackground ? .light : .dark)
-                .frame(maxWidth: .infinity)
-            }
-
             if showShiurText, let text = shiurDisplayText {
                 ShiurTextView(
                     rewriteText: text,
@@ -585,10 +710,6 @@ struct ContentView: View {
                     Spacer()
                     ProgressView().frame(width: 38, height: 38)
                     Spacer()
-                    if horizontalSizeClass != .regular {
-                        studyButtonView
-                        Spacer(minLength: 8)
-                    }
                 }
                 .padding(.vertical, 8)
 
@@ -761,10 +882,6 @@ struct ContentView: View {
                             .padding(.trailing)
                     }
 
-                    // Study button — centered, with extra space below the controls row
-                    studyButtonView
-                        .frame(maxWidth: .infinity, alignment: .center)
-                        .padding(.top, 20)
                 }
                 .padding(.bottom, 2)
             }
@@ -789,11 +906,14 @@ struct ContentView: View {
             if selectedTractateIndex != dafYomi.tractateIndex {
                 suppressTractateReset = true
                 selectedTractateIndex = dafYomi.tractateIndex
+                storedTractateIndex = dafYomi.tractateIndex
             }
             selectedDaf = Double(dafYomi.daf)
+            storedDaf = Double(dafYomi.daf)
             imageDaf = dafYomi.daf
             imageSide = 0
             selectedSide = 0
+            storedSide = 0
             audioPlayer.stop()
         } catch {
             print("Failed to fetch today's daf: \(error.localizedDescription)")
@@ -904,8 +1024,6 @@ struct DafPageView: View {
     @Binding var selectedSide: Int  // picker selection only — does not change on swipe/arrow
     let pageManager: TalmudPageManager
 
-    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
-
     private func advanceAmud() {
         if displaySide == 0 {
             displaySide = 1
@@ -928,13 +1046,6 @@ struct DafPageView: View {
         let sideA = displaySide == 0
         if let url = pageManager.imageURL(tractate: tractate.name, daf: daf, sideA: sideA) {
             VStack(spacing: 0) {
-                // Amud picker: above the image on iPhone; on iPad it lives outside DafPageView.
-                if horizontalSizeClass != .regular {
-                    amudPicker
-                        .padding(.top, 8)
-                        .padding(.bottom, 6)
-                }
-
                 ZStack {
                     ZoomableAsyncImage(
                         url: url,
@@ -979,8 +1090,6 @@ struct DafPageView: View {
             }
         } else {
             VStack(spacing: 0) {
-                amudPicker
-                    .padding(.top, 8)
                 Spacer()
                 Text("No image for daf \(daf)\(sideA ? "a" : "b")")
                     .font(.caption)
@@ -991,28 +1100,6 @@ struct DafPageView: View {
         }
     }
 
-    /// Amud (a/b) segmented picker — constrained width on iPad and centered.
-    private var amudPicker: some View {
-        Picker("Amud", selection: $selectedSide) {
-            Text("Amud א (a)").tag(0)
-            Text("Amud ב (b)").tag(1)
-        }
-        .pickerStyle(.segmented)
-        .padding(.horizontal, 28)
-        .padding(.vertical, 6)
-        .background(
-            RoundedRectangle(cornerRadius: 12)
-                .fill(Color.white)
-                .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 2)
-        )
-        .padding(.horizontal, 20)
-        // On iPad, cap picker width and center it
-        .frame(maxWidth: horizontalSizeClass == .regular ? 400 : .infinity)
-        .frame(maxWidth: .infinity)
-        .onChange(of: selectedSide) { _, newVal in
-            displaySide = newVal
-        }
-    }
 }
 
 #Preview {

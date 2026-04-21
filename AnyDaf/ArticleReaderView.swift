@@ -106,7 +106,7 @@ struct ArticleReaderView: View {
 
                 // ── Footer: font controls + open-in-browser ───────────────────
                 HStack(spacing: 0) {
-                    let cases = StudyFontSize.allCases
+                    let cases = StudyFontSize.displayCases
                     let idx = cases.firstIndex(of: studyFontSize) ?? 1
 
                     Button {

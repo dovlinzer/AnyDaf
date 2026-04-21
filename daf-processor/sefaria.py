@@ -181,7 +181,10 @@ def _html_to_md(text: str) -> str:
 def _fetch_amud(masechta: str, daf: int, amud: str) -> Optional[str]:
     """Fetch one amud from Sefaria and return formatted markdown, or None on failure."""
     ref = f"{masechta} {daf}{amud}"
-    url = f"https://www.sefaria.org/api/texts/{ref.replace(' ', '.')}?lang=bi&commentary=0&context=0"
+    # Sefaria API ref format: tractate name (spaces → underscores) + dot + daf+amud
+    # e.g. "Avodah Zarah 10a" → "Avodah_Zarah.10a"
+    ref_for_url = f"{masechta.replace(' ', '_')}.{daf}{amud}"
+    url = f"https://www.sefaria.org/api/texts/{ref_for_url}?lang=bi&commentary=0&context=0"
     try:
         resp = requests.get(url, timeout=20)
         resp.raise_for_status()

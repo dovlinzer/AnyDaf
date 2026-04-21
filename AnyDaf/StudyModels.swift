@@ -154,6 +154,7 @@ enum SourceDisplayMode: String, CaseIterable {
 
 /// Text size preference for study mode content — stored in AppStorage as a raw String.
 enum StudyFontSize: String, CaseIterable {
+    case xSmall = "xSmall"
     case small  = "small"
     case medium = "medium"
     case large  = "large"
@@ -161,9 +162,10 @@ enum StudyFontSize: String, CaseIterable {
 
     var dynamicTypeSize: DynamicTypeSize {
         switch self {
-        case .small:  return .xLarge      // 19pt body — slightly above iOS default
-        case .medium: return .xxLarge     // 21pt body
-        case .large:  return .xxxLarge    // 23pt body
+        case .xSmall: return .large           // ~17pt body — iOS system default
+        case .small:  return .xLarge          // 19pt body — slightly above iOS default
+        case .medium: return .xxLarge         // 21pt body
+        case .large:  return .xxxLarge        // 23pt body
         case .xLarge: return .accessibility1  // 28pt body
         }
     }
@@ -171,6 +173,7 @@ enum StudyFontSize: String, CaseIterable {
     /// Point size for WKWebView body text (article reader).
     var articleFontSize: CGFloat {
         switch self {
+        case .xSmall: return 14
         case .small:  return 17
         case .medium: return 20
         case .large:  return 23
@@ -180,10 +183,21 @@ enum StudyFontSize: String, CaseIterable {
 
     var displayName: String {
         switch self {
+        case .xSmall: return "Extra Small"
         case .small:  return "Small"
         case .medium: return "Medium"
         case .large:  return "Large"
         case .xLarge: return "Extra Large"
+        }
+    }
+
+    /// Cases shown in the font-size picker. xSmall is iPad-only — it maps to the
+    /// iOS system default size, which is already quite small on iPhone.
+    static var displayCases: [StudyFontSize] {
+        if UIDevice.current.userInterfaceIdiom == .pad {
+            return allCases
+        } else {
+            return allCases.filter { $0 != .xSmall }
         }
     }
 }

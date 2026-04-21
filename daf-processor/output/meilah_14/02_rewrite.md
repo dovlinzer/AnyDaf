@@ -1,197 +1,145 @@
 # Meilah 14 — Daf Yomi Shiur
 
-## Avoda Zara Shenitbra
+## Idol Breaking
 
-### Intro: Idol Status
+### Idol Status Debate
 
-The daf opens, as we noted yesterday, with material from the top of 14a. The *mishna* had spoken about birds' nests in trees, and mentioned that if *hekdesh* acquires a bird's nest through its property, the rule is *lo nehenin velo moalin* — one may not derive benefit from it rabbinically, but there is no biblical *meila*, because, as the Ramban explains, the sanctity was not conferred through *kedushat peh* — explicit verbal sanctification. The *mishna* then turned to a different case: a bird's nest found in an *asheira* tree, a tree that had been worshipped as *avoda zara*. In that case, one knocks the nest out but may not climb the tree, since climbing would constitute deriving benefit from the *avoda zara*. There is no concern about the nest itself, because there is no concept of ownership that applies to *avoda zara* — the prohibition is a matter of status, not property.
+The daf begins with a discussion that emerges from the previous mishna, which had addressed the case of a bird's nest found in an *asheira* tree — a tree that had been worshipped as *avoda zara*. The mishna established that one may knock the nest down but may not climb the tree, since climbing would constitute deriving benefit from an *avoda zara* object. No problem arises from the nest itself, because the concept of ownership by *avoda zara* does not apply in the same way as *hekdesh* — there is no prohibition of *meila*, and the nest's forbidden status derives only from its association with the tree that was worshipped.
 
 ### Yochanan: Assur
 
-The *gemara* now records a dispute introduced with the word *itmar*: if an *avoda zara* broke on its own — the idol fell off a table and shattered by itself — what is its status? Rabbi Yochanan says it remains forbidden. Something that was worshipped as *avoda zara* by a non-Jew retains its prohibited status so long as it was not consciously negated by one of its worshippers. The act of breaking must be intentional and purposeful; a natural breakage is insufficient to effect *bitul*.
+Out of this context, the Gemara introduces a formal dispute: *itmar avodat kochavim shenishtabra me'eileiha* — if an idol broke on its own, without any person intentionally destroying it. Rabbi Yochanan rules *asura* — it remains forbidden. An object that was worshipped as an idol retains its prohibited status so long as it was not consciously negated by one of its worshippers. Without a deliberate act of *bitul*, the status persists.
 
-### Reish Lakish: Mutar
+### Lakish: Mutar
 
-Reish Lakish disagrees and holds that such an idol becomes permitted. His reasoning is that the negation occurs, in a sense, automatically — *mimailei* — because any right-thinking worshipper, upon seeing that the idol could not even save itself, would naturally conclude: *hee gufa lo matzla ledidi tatzla* — it couldn't save itself; do you think it will save me? Accordingly, there is an objective basis to regard the idol as nullified, even without a specific conscious act of *bitul* on the part of an identified worshipper. This argument parallels, in structure, the discussion of *yeush shelo mida'at*: the question is whether Reish Lakish is pointing to what any particular person would have thought, or whether he is asserting an objective status — that something which cannot preserve itself is, by any reasonable measure, already regarded as negated. The latter reading seems more precise to Reish Lakish's position.
+Reish Lakish rules *muteres* — it is permitted. His reasoning: any worshipper of that idol would naturally reason, *hee gufa lo matzla ledidi tatzla* — it could not save itself; do I think it is going to save me? Any right-thinking idolater could be expected to render the idol null in his own mind. The question underlying this dispute is whether Reish Lakish intends a subjective assessment — that a particular worshipper would have nullified it — or whether he means something more objective: that the idol's failure to preserve itself defines its status in a way that dissolves the prohibition without requiring any subjective act of *bitul*. The latter reading seems closer to what Reish Lakish is actually arguing, approaching something analogous to the concept of *yeush shelo mida'at*.
 
 ---
 
-## Bird's Nest Proof
+## Birds' Nests Proof
 
-### Reish Lakish's Proof
+### Lakish's Challenge
 
-Reish Lakish then attempts to adduce a proof from our *mishna* against Rabbi Yochanan's position. The *mishna* states that if a bird's nest is found atop a tree belonging to *hekdesh*, there is *lo nehenin velo moalin*. If the nest is atop an *asheira* tree, one knocks it down with a stick and derives benefit from the nest without difficulty.
+Reish Lakish attempts to bring a proof from our mishna. *Hakan sheberosh ha'ilan* — if there is a bird's nest at the top of a tree of *hekdesh*, the ruling is *ein nehenin ve'ein moalin*: one may not derive benefit from it, but there is no *meila*, because as established, *hekdesh* that acquires something without verbal sanctification — without *kedushat peh* — does not carry *meila*. But if the nest is in an *asheira* tree, one knocks it down with a stick and may derive benefit from it.
 
-The question Reish Lakish presses is: from where did the bird obtain the twigs to build this nest? If we are not excluding the possibility that the twigs came from the tree itself — the *asheira* tree — then deriving benefit from the nest is, in effect, deriving benefit from the twigs of the *avoda zara*. And yet the *mishna* permits it without reservation. Reish Lakish argues this constitutes proof that when branches break off naturally from an *avoda zara* tree — even without any conscious act of *bitul* — they are no longer prohibited. This would support his position that *avoda zara* which breaks by itself becomes permitted.
+The challenge Reish Lakish presses: *mai lav de'itpar migufa* — presumably, the twigs used to build the nest came from the tree itself. Yet the mishna permits benefiting from this nest. If benefit is permitted even though the nest is constructed from the branches of an *asheira* tree, then surely this is evidence that when part of an idolatrous object separates on its own — without conscious human action — it loses its forbidden status. This would support Reish Lakish's position that an idol which breaks by itself becomes *mutar*.
 
 ### Twigs from Elsewhere
 
-The *gemara* responds: *lo de'aiti eitzei me'alma* — the proof fails because we are speaking of a case where the twigs came from other trees entirely, not from the *asheira* tree itself. If the twigs came from elsewhere, there is no *avoda zara* material in the nest at all, and the *mishna* says nothing about the status of branches that naturally detach.
+The Gemara deflects the proof: *lo de'aiti eitzei me'alma* — not necessarily. The case may be that the twigs came from other trees entirely, not from the *asheira* itself. If the nest's material came from elsewhere, there is no evidence that branches naturally falling from an *asheira* become permitted. The counter-pressure in Reish Lakish's argument is that he intends to encompass cases where the twigs could have come from the tree — meaning one should at least be concerned about that possibility unless there is evidence to the contrary. The Gemara's response insists that we know the twigs came from other trees.
 
-One might wonder: if we do not know the origin of the twigs, would we not have to be concerned that they might have come from the tree? That is precisely the force of Reish Lakish's challenge — presumably we are not excluding that case, and the *mishna* permits benefit in either event. The *gemara*'s answer is that we know the twigs came from elsewhere.
+This same *sugya* appears in tractate Avoda Zara, where it reads considerably more smoothly. The version here in Meilah is somewhat less polished, as the texts in this tractate are sometimes less carefully edited than those in other masechtot.
 
-It should be noted that this entire *sugya* is nearly exactly paralleled in *Avoda Zara*, where the discussion flows considerably more smoothly. The texts in *Meilah* are not always as well-edited as those in other *masechtot*, and that is apparent here.
+### Why Use Stick
 
-The *gemara* then adds a further internal proof — *daika nami* — that confirms the twigs must have come from elsewhere. The *mishna* says, regarding the *hekdesh* tree, *ein nehenin ve'ein moalin*. Now: if the twigs came from other trees, it is perfectly understandable why there is *ein nehenin* but *ein moalin* — *hekdesh* acquired the nest through its property without verbal sanctification, which is the precise scenario where *ein moalin* applies. But if Reish Lakish insists that the twigs came from the tree itself, then in the *hekdesh* case there should be full *meila*, since those twigs come from the very wood that was sanctified. The fact that the *mishna* says *ein moalin* implies the twigs did not come from the *hekdesh* tree.
+The Gemara adds what appears to be a proof in the other direction: *daika nami* — this reading is also supported by analysis of the text itself. If the twigs came from elsewhere, one can understand the ruling of *ein nehenin ve'ein moalin* for the *hekdesh* case — the bird-*hekdesh* connection does not produce *meila* without *kedushat peh*. But if Reish Lakish is correct that the twigs came from the tree itself, then in the *hekdesh* case there should *be* a *meila* obligation, since those twigs are from the very tree that was sanctified. Moreover, in the *avoda zara* case, using them would be prohibited outright. So the absence of *meila* in the mishna proves the twigs came from elsewhere.
 
-Reish Lakish might counter by suggesting that even if the twigs came from the tree itself, there would be no *meila* because these branches grew *after* the tree was sanctified — and this touches on the independent debate of *yesh meila b'gidulin o ein meila b'gidulin*, whether things that grow after sanctification are subject to *meila*. So the *gemara* has not definitively resolved the matter: Reish Lakish can still argue that both in the *avoda zara* case and the *hekdesh* case, the twigs came from the tree itself — in the *avoda zara* case this proves his point, and in the *hekdesh* case there is no *meila* because growth after sanctification is not subject to *meila*. Rabbi Yochanan responds that the twigs came from elsewhere, and that, in any case, material present at the time of sanctification would be subject to *meila*.
+Reish Lakish has a response: one can maintain that the twigs did come from the tree, but in the *hekdesh* case, they were branches that grew after the tree was sanctified — *gidulin habaim l'achar mikan* — and the position being assumed is *ein meila b'gidulin*: there is no *meila* for subsequent growth. This reflects an ongoing debate about whether *hekdesh* that bears new growth after the moment of sanctification subjects that growth to *meila*. So Reish Lakish can consistently hold that both the *avoda zara* nest and the *hekdesh* nest are built from branches of the respective trees, that there is no *avoda zara* problem because the branches separated on their own, and that there is no *meila* in the *hekdesh* case because we are dealing with subsequent growth.
 
-### Why Use Stick?
+Rabbi Yochanan, by contrast, insists the twigs came from elsewhere. On the question of *gidulin*, he would presumably hold that if they *did* come from the sanctified tree itself — not merely subsequent growth — there would be *meila*, reinforcing his view that the twigs must have come from other trees.
 
-The *gemara* then pursues what it regards as support for the "twigs from the tree" reading. If the twigs came from entirely different trees, one might ask: why does the *mishna* specify *yatiz bekana* — knocking the nest down with a stick? If it came from elsewhere, just take it directly with your hand. The question seems to assume that the reason for using a stick rather than one's hand is somehow tied to the origin of the twigs, though on its face the two things appear unrelated — the concern about deriving benefit from the tree through climbing or contact has nothing to do with whether the nest's materials came from this tree or another.
+The Gemara then raises a further question: *amai yatiz b'kaneh* — if the twigs came from other trees, why does the mishna require knocking the nest down with a stick? Why not simply take it by hand? If the nest material is visually and physically distinct from the tree, and one is not at risk of incidentally grasping branches of the *asheira* itself, what is the concern?
 
-### Tosafos Explanation
+### Tosafot: Accidental Conf…
 
-Tosafos addresses this difficulty by explaining that the *hava amina* is as follows: we might have supposed that the instruction to use a stick, rather than taking the nest directly by hand, was not because of a concern about climbing the tree, but rather a concern that in reaching in and grabbing the nest, one might inadvertently pull along twigs or branches from the tree itself, thereby directly deriving benefit from *avoda zara* material. If this were the concern, it would make sense only if the twigs of the nest came from the *asheira* tree — in which case the wood of the nest and the wood of the tree look the same, and one might grab branches of the tree thinking they are part of the nest. By using a stick to knock it down, one avoids that confusion. But if the twigs came from elsewhere, one would be able to visually distinguish the nest material from the tree's branches, and the concern would not apply — so why use a stick at all? This is what the *gemara* is pressing. Granted, this is a difficult *gemara*, and the parallel in *Avoda Zara* handles this far more naturally.
-
----
-
-## R. Abba Concession
-
-### Branches from Tree
-
-Rabbi Abba in the name of Rabbi Yochanan now offers a new approach. The text here reads *amar Rabbi Abba amar Rabbi Yochanan le'olam de'asai me'alma* — but this requires attention. In *Avoda Zara*, the thrust of this statement by Rabbi Abba in the name of Rabbi Yochanan is precisely the opposite: it is a *concession* that the branches may well have come from the tree itself. The *Bach* in fact crosses out the phrase *le'olam de'asai me'alma* to bring the text in line with the *gemara* in *Avoda Zara*. Let us read the passage in accordance with the reading that makes the best sense.
-
-Until this point, the debate has been: Rabbi Yochanan insists the nest's twigs came from elsewhere; Reish Lakish insists they came from the tree itself, which supports his view that *avoda zara* that breaks is permitted, while explaining the absence of *meila* in the *hekdesh* case by invoking *ein meila b'gidulin*. Rabbi Abba in the name of Rabbi Yochanan now concedes that the twigs may indeed have come from the tree itself. And yet, he argues, this presents no problem for Rabbi Yochanan's general position.
-
-### Chicks Purpose
-
-The concession works as follows. Even if the physical nest was constructed from the branches of the *asheira* tree, the nest itself — being *avoda zara* material — would of course be forbidden. But the *mishna* is not instructing us to derive benefit from the wood of the nest at all. *Umai yatiz? Yatiz efrochim* — when it says to knock the nest down, the purpose is to make the chicks fall out or fly free so that one may benefit from the *chicks*. The nest itself, made of forbidden wood, is not the object of benefit. One uses a stick so as not to inadvertently grab forbidden branches in the course of retrieving the birds. The instruction to knock the nest down is entirely about extracting the chicks, not about using the nest's material.
+Tosafot explains the *hava amina* as follows. The concern is not that one will climb the tree — presumably, if the mishna says one could take it directly, the nest is low enough to reach. Rather, the concern is that in the act of reaching in and grabbing the nest, one might inadvertently dislodge and take along some branches of the tree itself, thereby incidentally benefiting from the *avoda zara*. Using a stick, rather than one's hands, reduces the risk of ripping branches loose and confusing them with the nest material. The underlying assumption — which the Gemara accepts as its working premise — is that if the nest came from the tree itself, the material of the nest and the branches of the tree would be visually similar and could be confused; whereas if the twigs came from elsewhere, they might be a different type of wood and visually distinguishable. This is a difficult *Gemara*, and the parallel passage in Avoda Zara presents the same argument far more clearly.
 
 ---
 
-## Chicks & Eggs Status
+## Yochanan Concedes
 
-### Chicks Always Mutar
+### Chicks vs. Nest
 
-Rabbi Yaakov then says to Rabbi Yirmiah: *efrochim kan ve-kan mutarim* — the chicks are permitted in both cases, whether we are discussing the *avoda zara* tree or the *hekdesh* tree. In the *hekdesh* case, one might have thought the tree *koneh* — acquires — the birds that nest in it, but this does not apply because the birds are free-flying creatures; the tree has no genuine control over them and there is no viable *kinyan*. Hence the chicks are never *assur* in either context.
+Rabbi Abba in the name of Rabbi Yochanan now introduces an important concession. Reading with the emendation supported by the *Bach* — who crosses out the words *le'olam de'asai me'alma* in order to align this passage with the parallel in Avoda Zara — Rabbi Yochanan in effect concedes to Reish Lakish that the nest material did come from the tree itself. He then offers a different resolution of the mishna entirely.
 
-### Eggs Always Asur
+*Umai yatiz efrochim* — what does it mean to knock down the nest? It means knocking the chicks out of the nest, so that they fall or fly free and one can benefit from them. The wood of the nest, if it came from an *asheira* tree, would indeed carry a forbidden status; similarly, it would be subject to *meila* in the *hekdesh* case. But the interest here is not in the wood at all. The mishna is talking about benefit from the birds themselves. The question of where the twigs came from is simply irrelevant to that, which also explains why a stick is needed — not to avoid touching the wood per se, but to avoid incidentally taking hold of branches of the tree while maneuvering to dislodge the chicks.
 
-The eggs, however, are *assur* in both cases. In the *hekdesh* case, this is readily understood: there is a sense of *kinyan reshuyot* — the tree, and hence *hekdesh*, has a claim on the eggs that rest within it. In the *avoda zara* case, the reasoning parallels Rabbi Yochanan's logic about the nest: just as the nest built from the tree's wood is *assur*, so too are the eggs, which are closely connected to the nest, treated rabbinically as an extension of it.
+### Eggs and Chicks
 
-### Chicks if Dependent
+Rabbi Yaakov then says to Rabbi Yirmiyah: *efrochim kan ve-kan mutarim* — the chicks themselves are permitted in both the *avoda zara* case and the *hekdesh* case. The reason, at least in the *hekdesh* case, is that *hekdesh* cannot truly acquire ownership over birds that fly freely. They are fundamentally unconfined, not subject to proprietary control, and so the tree's status as *hekdesh* does not extend to the birds nesting in it. In the *avoda zara* case as well, the chicks are not considered part of the worshipped object.
 
-Rav Ashi qualifies the leniency regarding chicks: *im efrochim tzrichin le'iman kebeitzim damu* — if the chicks still need their mother and are not yet capable of independence, they are treated like eggs. Being tied to the nest in this way renders them, for halachic purposes, an extension of the nest itself.
+The eggs, however, are another matter: *beitzim kan ve-kan asurim* — eggs are forbidden in both cases. In the *hekdesh* case, there is a meaningful sense of *kinyan* — the tree, as *hekdesh*, has a degree of ownership over the eggs it produces, in a way it does not over birds that choose to nest there. In the *avoda zara* case, the reasoning follows Rabbi Yochanan's position: just as the nest itself is forbidden because it is made from the wood of the *asheira*, objects closely connected to and contained within the nest are rabbinically treated as an extension of the nest's forbidden status. The eggs, lying in the nest, share that status.
 
-### Mishna Summary
+### Rav Ashi: Young Chicks
 
-This yields two distinct but coherent readings of the *mishna*. The first: the nest is not forbidden because the twigs came from elsewhere, so there are no *avoda zara* or *meila* concerns at all, and we discuss knocking it down only to extract the chicks without benefit from the tree. The second reading, per Rabbi Abba in the name of Rabbi Yochanan: even conceding that the twigs came from the *asheira* tree itself, the nest and the things closely connected to it — the eggs and dependent chicks — are *assur*, while the independent chicks are always *mutar*. The instruction to knock the nest down with a stick is about retrieving those chicks, not about making use of the forbidden wood.
+Rav Ashi adds a qualification. *Im efrochim tzrichin le'iman kebeitzim damu* — if the chicks still need their mother and cannot survive independently, they are treated like the eggs and are considered part of the nest. Since they are bound to the nest in a functional sense — unable to fly, unable to fend for themselves — they share the nest's status and are likewise forbidden.
 
----
-
-## Gizbarin's Wood
-
-### Logs vs Shavings
-
-The *gemara* now moves to the next *mishna*: *hagizbarin shelakechu eitzim* — if the Temple treasurers purchased wood, there is *meila* on the logs themselves, but not on the *shipuya* or *nivya* — the sawdust and the shavings that are cut away in the process of fashioning beams. This is to be contrasted with the final clause of the preceding *mishna*, which states that if one sanctifies an entire forest, *hamakdish es hachoresh moalin b'chulo* — all parts of the forest are subject to *meila*.
-
-### Kedusha Types
-
-The distinction between these two cases turns on the difference between *kedushat haguf* and *kedushat damim*. When one donates a forest to *hekdesh*, the donation is not about using the specific timber directly for the Temple structure; the forest will be sold, its full market value realized, and *hekdesh* benefits from every component — every branch, every leaf. This is a relationship of ownership, analogous to *hekdesh* owning a chicken or a donkey, where the animal's every product — its eggs, its milk — is subject to *meila* because everything belongs to *hekdesh* as property.
-
-When the *gizbar* purchases logs, however, the purpose is specific: these logs are to be fashioned into beams and incorporated into the structure of the *Beit HaMikdash*. The sanctity that attaches to them is *kedushat haguf* in the sense applicable to building materials — the relevant identity of the log is as a beam-to-be. Sawdust and shavings are not the beam; they are what is cut away in the process of making the beam. Just as the eggs and milk of a *korban* are not the *ikkar* of the sacrifice and are therefore not subject to *meila* in the same way, the byproducts of fashioning a beam are similarly peripheral to the sanctified purpose of the purchase.
-
-### Fungibility Problem
-
-This distinction, however, raises a genuine difficulty. With an animal designated as a *korban*, the concept of *kedushat haguf* is intuitive — *harei zu olah* is an act that clearly fixes the animal's identity as the sacrifice itself. But when a *gizbar* walks into the market and purchases twenty logs, it is far from obvious that this initial transaction should be classified as *kedushat haguf* rather than *kedushat damim*. After all, the *gizbar* may know that the sawdust and shavings will have commercial value. One might argue that the purchase creates *kedushat damim* for the entirety of the logs, and only the finished beam, at the moment of being built into the wall, acquires *kedushat haguf*, while the shavings remain mere *kedushat damim* throughout.
-
-The *mefarshim* address this by explaining that when the *gizbarin* purchased and sanctified the wood, their intent to sanctify encompassed only that which was actually going to become part of the structure. To borrow a figure: just as Michelangelo is said to have spoken of removing everything from the marble that was not David, so too the *gizbarin*'s act of sanctification extended only to the portion destined to become the beam. The rest was never truly sanctified in the first place. Yet, as one might reasonably press: if the *gizbar* also knew the shavings had commercial value, perhaps his *kinyan* on behalf of *hekdesh* encompassed everything, and the correct characterization would be *kedushat haguf* for the beam and *kedushat damim* for the byproducts. This is a genuinely difficult conceptual question — especially because the line between *kedushat haguf* and *kedushat damim* in the context of *bedek habayit* is inherently more fluid than it is for *korbanos*, given the fungibility of construction materials.
+The result is a coherent dual reading of the mishna. Reish Lakish reads it as evidence that branches naturally detached from an *avoda zara* tree become permitted, since otherwise one could not benefit from a nest built from such wood. Rabbi Yochanan, after his concession, reads the mishna as being entirely about the chicks: the physical nest, if built from *asheira* wood, is itself forbidden; the chicks are what one benefits from; and the eggs and nest-dependent chicks share the nest's forbidden status. One knocks the nest down with a stick in order to dislodge the permitted chicks without incidentally taking hold of the forbidden wood.
 
 ---
 
-## Bonin Bechol
+## Wood Purchase
 
-### Build Then Sanctify
+### Mishna: Wood Meila
 
-Shmuel states a foundational principle: *bonin bechol ve'achar kach makdishin* — one builds with non-sanctified materials and only sanctifies them afterward. The obvious reason, as the *gemara* will note, is to avoid workers inadvertently committing *meila* during construction. But the *gemara* first explains the principle in terms of the mechanism for transferring *kedusha*.
+The Gemara moves to the next mishna. *HaGizbarin shelakechu eitzim* — if the temple treasurers purchased wood, *mo'alin ba'etzim* — there is *meila* with respect to the wood itself. However, *ein mo'alin lo b'shipuya v'lo b'nivya* — there is no *meila* with respect to the sawdust or the shavings and cuttings removed in the process of fashioning logs into beams.
 
-### Transfer to Structure
+### Haguf vs. Damim
 
-The scenario is as follows. Someone donates money to the *Beit HaMikdash* — ordinary donated funds, which upon sanctification carry *kedusha*. Now the *gizbar* needs to pay workers. The problem is that the money already carries *kedusha*, and one cannot simply transfer it to workers for their wages. The solution is that the *gizbar* declares: *techol kedushat ma'ot abinyan* — let the *kedusha* of the money transfer onto the structure. Once it has transferred onto the physical improvement of the building, the money is free of *kedusha* and can be distributed to the workers as their wages.
+This ruling contrasts with the final clause of the previous mishna, which held that one who donates a forest to *hekdesh* — *hamakdish es hachoresh* — is *mo'el* with every part of the forest, down to every piece. What accounts for the difference?
+
+The distinction turns on the difference between *kedushat haguf* and *kedushat damim*. When someone donates an entire forest, the purpose is not to build the forest directly into the temple structure. The forest's value far exceeds whatever timber might be directly used; the intent is that *hekdesh* should own the forest as property and derive benefit — through sale and other means — from the entire thing. This is analogous to *kedushat damim*: the sanctity is one of ownership and monetary value, and every last part of the object participates in that value. Hence, *meila* applies to every component of the forest.
+
+By contrast, when the *gizbar* purchases a log with the intention of fashioning it into a beam for the temple structure, the sanctity is of the nature of *kedushat haguf*: what is being sanctified is the beam that will be built in, not the peripheral byproducts. The sawdust and shavings are analogous to the eggs and milk of a *korban*. Just as the eggs and milk of an animal sanctified as a *korban* — say an *olah* or *chatas* — are not the *ikar* of the *korban* and therefore carry no *meila*, so too the sawdust is not the *ikar* of the beam being sanctified for construction, and there is no *meila* for those byproducts.
+
+This analogy highlights an interesting conceptual tension. With a *korban*, the animal clearly has *kedushat haguf* — one declares *harei zo olah* and the animal's bodily sanctity is unambiguous. With building materials, the line is considerably more fungible: the *gizbar* might start with a log and change his mind about how to use it, or might know in advance that the sawdust will itself have commercial value. Why should we assume the initial purchase carries *kedushat haguf* for the log and only *kedushat damim* for the rest, rather than treating the whole purchase as *kedushat damim* with the *kedushat haguf* only attaching when the beam is ready to be installed? This is a genuine difficulty. The commentators resolve it by focusing on the *gizbar*'s intent at the moment of purchase: he sanctified only what he intended to use as a beam — everything else was simply never within the scope of his sanctification.
+
+---
+
+## Bonin BeChol
+
+### Shmuel's Rule
+
+The Gemara records the principle of Shmuel: *bonin bechol ve'achar kach makdishin* — one builds with non-sanctified materials and only sanctifies afterward, once construction is complete. This principle applies to the general practice of temple construction and renovation. The reason might initially seem obvious — avoiding *meila* during the construction process — but the Gemara first offers a different rationale before reaching that explanation.
+
+### Sanctity Transfer
+
+*Mai ta'ama?* — what is the reason? The Gemara explains: when someone donates money to the temple, he sanctifies the money. The problem is that one must then pay the workers, and paying them with sanctified money would transfer the sanctity to them — leaving them holding *hekdesh* funds. The solution lies in a precise mechanism of *chilul*: transferring the *kedusha* from the money onto the completed structure, and then paying the workers with the now-desanctified money.
+
+The underlying logic: workers improve an object through their labor. If one begins with raw materials worth, say, ten *drachma*, and after all the work the completed structure is worth fifty *drachma*, the improvement in value represents the workers' contribution. By transferring the *kedusha* of the donated money onto the improved structure — *teichol kedushat ma'os abinyan* — one moves the sanctity from the money to a concrete, physical object of increased value. The money is then freed of its *kedusha* and can be handed to the workers as their fee. This is why the sequence matters: you must wait until the structure is complete, so that there is a concrete, improved object onto which the *kedusha* can be transferred.
 
 ### Payment Mechanism
 
-The mechanism works as follows. Workers take raw, unconsecrated materials and, through their labor, improve them — a log worth ten *drachma* becomes, through skilled work, a beam worth fifty *drachma*. The improvement in value, embedded in the physical structure, serves as the concrete entity onto which the *kedusha* of the money is transferred. There must be something physical and concrete to receive the *kedusha*: if the raw materials were already *kadosh* from the outset, it would be far more difficult — and arguably impossible — to effect a meaningful transfer, since one would be attempting to apply new *kedusha* to an abstract improvement of an already-sanctified object. By keeping the materials *chol* until construction is complete, one creates a tangible, unencumbered physical improvement onto which the *kedusha* of the donated money can be transferred, after which the now-free money is paid to the workers.
+The Gemara illustrates this mechanism with the case of *mosar haktoret* — leftover *ketores* from one year that cannot be carried over for use in the next, since *korbanos tzibur* must be purchased from new communal funds collected fresh each year. Yet it would be wasteful to simply discard the leftover *ketores*, which is worth considerable money. The solution: *hayu mafrishin himenah sechar ha'umnin* — one sets aside from the *ketores* an amount equivalent to what one owes the workers. *Umachalelin osah al ma'os ha'umnin* — one transfers the *kedusha* of the *ketores* onto the workers' fund (the money designated to pay the workers, which is itself not yet sanctified). Now the *ketores* is no longer sanctified. *Venosnin osah le'umnin* — you give the now-desanctified *ketores* to the workers as their payment. *Vechozrim venotlin osah mitrumah chadashah* — and then you repurchase it from them using the new communal funds. The *ketores* is now purchased with fresh *teruma chadasha* and can be used as a *korban tzibur* for the new year.
+
+To trace the mechanism step by step: the old *ketores* carries last year's *kedusha*. One transfers that *kedusha* onto the designated workers' money. The *ketores* is now in the workers' hands without *kedusha*. The temple then buys it back from them using this year's communal funds. The *ketores* now carries the new *kedusha* and can be offered. The old money — now bearing the transferred old *kedusha* — can in turn be redirected: next time something is built into the temple wall, that *kedusha* is transferred there and the money is freed. The old *kedusha* presents no problem for *bedek habayit* or construction purposes; the restriction to new funds applies only to *korbanos tzibur* brought in the current year.
+
+What is striking is that *ketores* — which has a form of *kedusha* that has not yet been fully actualized into *kedushat haguf* (it has not yet been placed in a *kli shareis*) — can nevertheless be redirected in this way toward purposes associated with the *binyan* of the *mikdash*. This reveals that the categories of *kedusha* are not always rigidly sealed from one another.
+
+### Direct Transfer
+
+One might ask: if one can transfer *kedusha* from money or from *ketores* to an improved structure, why go through the elaborate mechanism involving the workers' fund at all? Why not transfer the *kedusha* of the *ketores* directly to the completed structure and save the intermediate steps?
+
+The Gemara's answer: *d'leika binyan* — there is no completed construction to which one can transfer it. And even where there is some construction, *d'leika binyan keshurmos* — the value of the improvement is not equivalent to the amount of *kedusha* one needs to transfer. The workers' fee may be two hundred, while the capital improvement to the structure is only one hundred — just as anyone who has renovated a kitchen or bathroom knows that the cost of labor and materials often substantially exceeds the increase in property value. Since the *ketores* is worth two hundred, one cannot transfer its *kedusha* to an improvement worth only one hundred; hence the mechanism runs through the workers' money instead.
+
+This prompts a further question: Shmuel himself rules that *hekdesh shaveh maneh shechilelo al shaveh perutah mechulal* — if one transfers *kedusha* worth a *maneh* onto an object worth only a *perutah*, the transfer is valid, even though it is disproportionate. So why not transfer the *kedusha* of the *ketores* directly to whatever improvement exists in the structure, even if the values do not match?
+
+The Gemara responds: *hani mili dievad* — that rule applies only after the fact. If one already performed such a disproportionate transfer, it works. But *lechatchila lo* — one should not do so initially. Even though in this case *hekdesh* is not losing anything by the disproportionate transfer — it is *hekdesh* itself orchestrating the entire arrangement — the rule is that one should not manipulate transfers of *kedusha* between objects of unequal value, even when no loss results. As Tosafot notes, normally the concern is that *hekdesh* loses out in such a transaction; here that concern does not apply, but the formal rule is still not to engineer such transfers *lechatchila*.
+
+### Pappa: Accidental Meila
+
+Rav Pappa offers a simpler and more direct rationale for the principle of *bonin bechol*. *De-lo nittena Torah le-mal'achei ha-shareit* — the Torah was not given to angels; it was given to human beings, who are fallible. Workers will inevitably sit on the stones, lean against the lumber, or otherwise incidentally use the materials they are working with. *I bana be-kudsha, ishtakach de-ka ma'el be-kodshim* — if the materials were sanctified, they would inadvertently be committing *meila*. Therefore, the materials must remain *chol* — unsanctified — throughout the construction process, and only sanctified upon completion.
+
+This rationale differs in emphasis from the previous one. Where the earlier explanation focused on the need for a concrete, improved object onto which to transfer *kedusha* when paying the workers, Rav Pappa's explanation focuses entirely on preventing inadvertent *meila* during construction. The practical implication may differ as well: according to Rav Pappa's reasoning, one might be able to pay the workers with sanctified funds and allow the *kedusha* to transfer to whatever abstract or concrete improvement exists, since his concern is specifically about the raw materials being *kodesh* during construction — not about the mechanism of transferring *kedusha* through the workers' payment.
 
 ---
 
-## Ketores Desanctify
+## Mishna Question
 
-### Calendar Problem
+### Contradiction
 
-The *gemara* on 14b raises the question: *mosar haketores mah hayu osim bah* — what would be done with the leftover *ketores*? The *ketores* was prepared in the amount of 365 *maneh* per year, corresponding to the days of the solar year, plus an additional three *maneh* for the *kohen gadol*'s special service on *Yom Kippur*. The problem arises from the fact that we follow a lunar calendar. Since the lunar year is shorter than the solar year, in a regular year some *ketores* always remains at year's end — approximately eleven portions. In principle, this excess could simply carry over to the following year.
+Having established Rav Pappa's principle, the Gemara raises an immediate difficulty from our mishna. *Ve'amai mo'alin ba'hen* — if the rule is to build with unsanctified materials, why does the mishna say there is *meila* with respect to the wood the *gizbar* purchased? According to Rav Pappa, the *gizbar* should have purchased the beams without sanctifying them — and if he had not sanctified them, there would be no *meila*. Why, then, does the mishna presuppose that the beams are subject to *meila*?
 
-The difficulty, however, is that *korbanos tzibur* must be purchased with new communal funds — the *terumah chadashah* collected beginning in *Adar* and available from *Nisan*. *Ketores* prepared and sanctified with the prior year's funds cannot simply be used as a *korban tzibur* in the current year. So the leftover *ketores*, carrying the *kedusha* of last year's funds, presents a real problem: how does one "reset" its status so that it can legitimately serve as this year's *korban tzibur*, purchased with this year's funds?
+### Pappa: Immediate Use
 
-### Kedusha Transfer
-
-The solution involves a multi-step process. First, one separates from the existing *ketores* a quantity representing the wages owed to the craftsmen — *hayu mafrishin himenah sechar ha'umnin*. One then transfers the *kedusha* of the *ketores* onto the workers' money — the funds that have been set aside to pay them: *umachalelin osah al ma'os ha'umnin*. Now the *ketores* is no longer sanctified.
-
-### Repurchase Process
-
-With the *kedusha* removed from the *ketores*, one gives the *ketores* itself to the workers as their payment in kind — *venosnim osah le'umnin*. The workers receive the *ketores* as wages. But then: *vechozrim venotlin osah mitrumah chadashah* — one repurchases the *ketores* from the workers using the new communal funds. The workers are happy to sell. The Temple treasury has now acquired *ketores* using this year's *terumah chadashah*, and that *ketores* can henceforth be used as a *korban tzibur* for the current year. The prior *kedusha*, now resting on the money that was set aside for the workers, can be dealt with separately — used the next time the *gizbar* needs to sanctify a structure, where it will be transferred to the physical improvement and the money disbursed to workers.
-
-What is striking here is that this process involves *ketores* — something with *kedushat ketores*, a form of *kedusha* that has not yet reached full actualization as *kedushat haguf* (it has not yet been placed in a *kli shareis*) — and yet this *kedusha* is effectively redirected and used in a context relating to *binyan hamikdash*. This raises interesting questions about the rigidity of the distinctions between categories of *kedusha*.
-
-### Direct Transfer Rejected
-
-An obvious question presents itself: why go through all this? If one can transfer *kedusha* from one item to another, why not simply transfer the *kedusha* of the *ketores* directly onto the newly constructed or improved structure — *leihei binyan* — and save the entire intermediate process?
-
-The *gemara*'s first answer is *d'leika binyan* — there is simply no recent construction available to absorb the transfer. And when pressed — but there were workers paid — the *gemara* clarifies: *d'leika binyan keshiur mosar* — the capital improvement of the structure is not proportionate to the value of the *ketores*. Very often the amount paid in labor does not equal the increase in the asset's value; a great deal of money can be spent on improvements that do not raise the value by an equivalent amount, as anyone who has financed significant renovations will appreciate. Since the capital improvement is, say, one hundred, and the *ketores* is worth two hundred, one cannot simply transfer all the *kedusha* of the *ketores* onto the *binyan*.
-
-Tosafos then raises the question: but Shmuel rules elsewhere — *hekdesh shaveh maneh shechilelo al shaveh perutah mechulal* — that even a disproportionate transfer of *kedusha* from an object worth a *maneh* onto something worth a single *perutah* is valid after the fact. So why not simply do the disproportionate transfer onto the *binyan*? The *gemara* responds: *hani mili dievad, lechatchila lo* — while such a transfer is valid *b'dievad*, it is not the proper procedure *lechatchila*. As Tosafos notes, the normal concern with disproportionate transfers is that *hekdesh* suffers a loss — but here *hekdesh* is the party engineering the entire arrangement and suffers no loss. Nonetheless, the rule stands: we do not manipulate transfers of disparate values even when no one is harmed, because it compromises the integrity of the process and makes the whole affair look like a game rather than a genuine transaction. The preferred approach ensures that there is an actual, arms-length commercial repurchase using new communal funds — something that looks and functions like real acquisition.
+Rav Pappa resolves the contradiction himself: *ella ki tnan be-matnisin be-eitzim de-yomei* — the mishna is discussing wood purchased for immediate use that same day. The concern behind *bonin bechol* is that raw materials lying around a construction site will be casually used by workers who forget or are unaware of the *kedusha*. But when the *gizbar* purchases a beam that is going directly into the structure today, there is no period of sitting around on a construction site, no risk of someone inadvertently leaning on it or sitting down on it. In that narrow case, the *gizbar* may sanctify it immediately, and *meila* applies. For long-term building stock that will remain on site, the principle of *bonin bechol* holds — but for materials destined for immediate installation, it does not apply.
 
 ---
 
-## Rav Pappa Reason
+## Wool & Horns
 
-### Not Divine Law
+### Korban Parts
 
-Rav Pappa now offers an entirely independent explanation for the principle of *bonin bechol ve'achar kach makdishin*. His reasoning is far simpler: *de-lo nittena Torah le-mal'achei ha-shareit* — the Torah was not given to angels. We are dealing with human beings, and we must account for ordinary human behavior.
+By way of a supplementary note, and in connection with the earlier discussion of eggs and milk of *korbanos*, a brief clarification: the Gemara in Rosh Hashanah discusses the horns of a *shelamim* in the context of using them for a *shofar* — involving questions of *mitzvos lav leihanot nitnu* and related issues — and it is clear from that discussion that *meila* applies to the horns. The horns might seem like a borderline case: on the one hand they grow, like milk or eggs; on the other hand they are a permanent, structural feature of the animal. Nevertheless, *meila* does apply.
 
-### Prevent Sitting
-
-Specifically, Rav Pappa explains: *amri dilma ba'ei le-migza ve-zadla'ihun* — we are concerned that workers, in the course of a long construction day, will want to sit down and rest, and they will sit on whatever stones or materials are at hand. If the building materials had already been sanctified — *i bana be-kudsha* — *ishtakach de-ka ma'al be-kodshim* — they would be found to have committed *meila* with sanctified property inadvertently. To prevent this, we simply keep the materials unconsecrated until the moment they are needed.
-
-This explanation has a different emphasis than Shmuel's. Shmuel's principle focused on enabling the mechanism for paying workers — the need for a physical, unconsecrated improvement to serve as the vessel for transferring *kedusha*. Rav Pappa's explanation focuses entirely on preventing inadvertent *meila*. The two explanations are not mutually exclusive, and it is possible that Rav Pappa would agree the payment mechanism is also served, but his stated reason is the practical concern about workers sitting on sacred materials.
-
----
-
-## Mishna Reconciliation
-
-### Meila on Logs
-
-The *gemara* now raises a challenge to Rav Pappa's explanation from our *mishna* itself: *hagizbarin shelakechu et ha-eitzim mo'alin bahen* — the *gizbarin* who purchased logs are subject to *meila*. But according to Rav Pappa, the very reason we delay sanctification is to prevent workers from inadvertently committing *meila* by sitting on the materials. If the *gizbar* is following proper procedure, the materials should not yet have been sanctified, and there should be no *meila* to speak of. Why, then, does the *mishna* say *mo'alin bahen*?
-
-### For Day Use
-
-Rav Pappa responds: *i be-eitzim di-mikan va-eilech hacha nami* — if we were talking about wood purchased for future construction projects, he would be entirely correct that the *gizbar* would not have sanctified it yet. But *ke-matnisin be-eitzim de-yomei* — the *mishna* is speaking specifically about logs that are to be used that very day. When material is acquired for immediate use and will be incorporated into the structure on the same day, there is no concern about workers sitting on it for extended periods of time. In such a case, the *gizbar* does sanctify it immediately, and accordingly *meila* applies.
-
----
-
-## Incidental Benefit
-
-### Leaning on Stones
-
-A question arises in this connection: if someone were to lean against a wall of the *Beit HaMikdash* or stand on its stones — forms of incidental physical contact — would that constitute an act of *meila*?
-
-### Temple Shade
-
-A related question concerns the *gemara* in *Pesachim* on 33a, which discusses one who benefits from the shade cast by the *Beit HaMikdash*. There is a full discussion there about whether this constitutes an *issur hana'ah* or an *issur meila*. The question of shade and the question of leaning against a wall seem structurally similar — both involve an incidental, perhaps unavoidable benefit from the physical structure. One possible answer is that those who sanctified the *Beit HaMikdash* did so in a manner that factored in these unavoidable forms of benefit and stipulated the *kedusha* accordingly — though if that were the answer, one would expect the *gemara* to say so explicitly. The exact resolution requires closer examination of that *gemara* in *Pesachim*, particularly in relation to the concept of *tocho asuy*.
-
----
-
-## Horns & Wool
-
-### Sacrifice Horns
-
-Before closing, it is worth noting two related sources that bear on the question of *meila* and the peripheral parts of sacrificial animals. There is a *gemara* in *Rosh Hashanah* that discusses the horns of an *olah* and a *shelamim* — specifically in the context of using them for a *shofar*, which raises questions of *mitzvos lav leihanot nitnu* and related issues. The upshot is clear that *meila* is applicable to the horns. The horns occupy an interesting middle ground: they grow, and in that sense might be compared to *gidulin*, yet they are also a relatively permanent, integral part of the animal's body.
-
-### Sacrifice Wool
-
-A *gemara* in *Pesachim* on 33a addresses the wool of an *olah* directly, stating that one who *mischamem b'gizei olah* — warms himself with the shearings of an *olah* — is liable for *meila*. This establishes unambiguously that *meila* applies to the wool of a sanctified animal.
-
-### Wool Growth
-
-What remains unresolved, however, is the question directly analogous to the debate about *gidulin* discussed throughout this *daf*: what is the status of wool that grew *after* the animal was sanctified? The *gemara* in *Pesachim* could be referring to wool that was already on the animal at the moment of sanctification — in which case it says nothing about subsequently grown wool. The real parallel to the debate about eggs and milk would require knowing the rule for wool that grew after *hakdasha*. That question remains open, but what is established is that there is *meila* by both the horns and the wool of sacrificial animals — and now, at least, we have sources to work from.
+As for wool: there is a Gemara in Pesachim on 33a that rules that one who warms himself with the shearings of an *olah* — *mischamem b'gizei olah* — is *mo'el*. So *meila* clearly applies to the wool as well. The open question — which that Gemara does not resolve — is whether this refers to wool that was on the animal at the moment of sanctification, or whether it would also apply to wool that grew afterward. The real analogue to the milk-and-eggs debate is *gidulin*: what is the status of wool that grew after the animal was sanctified? The Gemara in Pesachim cannot serve as proof either way on that question, since it may well be referring only to wool present at the time of *hekdesh*. The matter remains unresolved, but it is now established that both horns and wool are subject to *meila*, whatever the further details of their status with respect to subsequent growth may be.

@@ -1,0 +1,169 @@
+# Horayot 2 — Daf Yomi Shiur
+
+## Intro to Horayot
+
+### Continuation of Sanhedrin
+
+*Horayot* is the final *masechet* in *Nezikin*, and its placement there is genuinely fitting. The *Bavas* deal with civil law, while *Sanhedrin* and *Makkot* address the laws carrying lashes and capital punishment — *misos* — as well as the structures and administration of the court. *Horayot* continues that institutional focus by examining the authority of the court and what happens when the court issues an erroneous ruling.
+
+The primary subject matter begins with *issur v'heter*: the paradigmatic case is a court that rules regarding the fat of an animal, declaring that a certain *chelev* — forbidden fat — is actually *shuman*, permitted fat, when in fact it is not. But the *masechet* expands well beyond that. It addresses the special *korban* brought when the court rules incorrectly, and it then moves on to the *kohen gadol* and the *zaken mamre* — the elder who rebels against the authority of the court. *Horayot* is thus, at its core, a *masechet* about legal and political authority and its institutions.
+
+A practical note on the text: *Horayot* is the shortest *masechet* in the Talmud. The *Rashi* fills both sides of the page, while the *Tosafot* printed in the standard margin is unusually brief. What appears alongside the text under the heading *Tosafot* is a condensed version; the *Tosafot HaRosh*, also printed here, is the more substantive and standard-sized commentary. Accordingly, when quoting *Tosafot* throughout this *masechet*, it is the *Tosafot HaRosh* that will primarily be cited.
+
+### Court Authority & Error
+
+*Horayot* is organized around two *parshiyot* in the *Torah*. The first is the case in *Devarim* of the *zaken mamre*, the sage who defies the ruling of the central court. The second is the passage that begins *v'hayah im me'einei ha'eidah ne'estah lishgagah* — if a ruling is issued in error and the community follows it, the *tzibbur* has sinned, and the court must bring a *korban* for having misled them.
+
+Holding these two cases in juxtaposition immediately reveals a striking tension. The *zaken mamre* is executed precisely because he dares to reject the court's authority — which implies an almost absolute claim to deference. And yet, the same *Torah* acknowledges that the court can make a genuine mistake, holds them responsible for the consequences of that mistake, and — as we will see in the *Mishnah* — actually requires a qualified individual who *knows* the court is in error not to follow them. So the very system that puts a dissident to death also insists that a man of sufficient learning must follow his own conscience over their ruling.
+
+The resolution lies in the distinction between private conscience and public opposition. The *zaken mamre* sets himself up as a competing authority, going out and preaching against the court's ruling and drawing followers away from it. That is an institutional threat that the system cannot tolerate. But a private individual who simply does not act on a ruling he knows to be wrong — and who therefore does not eat the permitted food, for instance, rather than making a public spectacle of his dissent — that person is not a *zaken mamre*. He is simply following his own conscience quietly.
+
+This raises an even deeper question, one that is genuinely fascinating from the perspective of the rabbis' role in *Torah* interpretation: is there such a thing as an objectively wrong *psak*? Consider an analogy to constitutional law. If a Supreme Court changes its interpretation of a provision it had read one way for two hundred years, we do not say that for two hundred years the law was wrong — we say the interpretation has evolved. Normally, one might expect rabbinic *psak* to function similarly: an older reading gives way to a newer reading, neither being termed a "mistake." The very fact that the *Mishnah* contemplates a court making a ruling, subsequently recognizing it as an error, and people in the interim having acted on what turns out to have been a wrong ruling — that itself presupposes some concept of objective meaning in the *Torah* that the court could have gotten wrong. That is a remarkable premise, and it animates much of what follows throughout the *masechet*.
+
+## First Mishnah
+
+### Individual Follows Court
+
+The *Mishnah* opens: *horu beis din la'avor al achas mikol mitzvos ha'amuros baTorah* — the *beis din* issued a ruling that effectively permitted something the *Torah* in fact forbids. They did not say "go violate this commandment"; rather, they interpreted the law in a way that led to a prohibited act being deemed permissible. The classic example is the court ruling that a particular variety of animal fat is *shuman* — permitted — when in fact it is *chelev*, forbidden. Another example, using a prohibition for which an individual would bring a *korban*: the court rules that bread baked in a certain manner qualifies as *matzah*, and the whole community eats it happily on *Pesach* — only to be told afterwards that it was in fact *chametz*.
+
+If the majority of *Klal Yisrael* follows such a ruling, the *beis din* themselves bring a *korban*. But the *Mishnah* is addressing a different scenario: only a minority, only *yechidim*, followed the ruling. In that case, *beis din* does not bring a *korban* because the majority of the *tzibbur* did not follow them. And the individual who did follow them? He is *patur* — *mipnei she-tala b'veis din* — because he relied on the legal authority of the court.
+
+The *Mishnah* enumerates three variations: *bein she-asu ve-asa imahem* — whether the court members themselves acted on the ruling and the individual followed along with them — *o bein she-asu ve-asa achareihem* — or whether the court acted first and the individual followed after — *o bein she-lo asu* — or even if the court never acted at all and merely issued the ruling, yet the individual relied on it and acted accordingly. In all three cases he is *patur*, because in all three cases he can say: I relied on *beis din*.
+
+## Intro to Horayot…
+
+### Zaken Mamre Paradox
+
+Reading this *Mishnah* alongside the laws of *zaken mamre* reveals what is genuinely a paradox. The *zaken mamre* is executed for defying the court. Yet here, if an individual knows the court is wrong, he is not supposed to follow them. What precisely distinguishes the two cases?
+
+The answer lies in the nature of the defiance. The *zaken mamre* does not merely act privately on his own view — he goes out, publicizes his disagreement, and positions himself as an opposing halachic authority, drawing people away from the court's ruling. That is a systemic threat to the institution of legal authority itself, and it is that threat which carries the death penalty.
+
+The person who simply declines to eat the food the court permitted — because he privately believes they are wrong — is doing nothing of the sort. He is not creating a competing ruling or attracting followers. He is simply, quietly, following his own conscience in a private act of non-performance. The moment he starts going around telling people "don't listen to them, they're wrong, follow me," he has crossed the line from private conscience into public opposition, and that is where he risks the status of *zaken mamre*.
+
+### Objective Truth in Psak
+
+This brings us back to the fundamental conceptual question: what does it mean for a court ruling to be *objectively* wrong? Normally in legal systems — and arguably in the rabbinic system as well — we would say there is no objective correct answer that the court simply "missed." A ruling is a ruling; it is the law until it is changed. And yet the entire *masechet* of *Horayot* is premised on the notion that a court can issue a ruling and later say "we made a mistake" — not "we changed our mind" — and that the prior acts performed in reliance on that ruling are to be treated as *shogeg*, as errors.
+
+What is the nature of this *shogeg*? The *Mishnah* says: *be-halacha yachid ve-asa shogeg al pihen* — the individual followed them and acted *shogeg al pihen*, unintentionally on the basis of their ruling. This is not an ordinary case of *shogeg*, where I simply didn't know the law. In an ordinary *shogeg* there is a degree of negligence: I should have been more careful, I confused one piece of fat for another. Here, the error is not factual carelessness — it is reliance on an authoritative ruling that turns out to have been wrong.
+
+The *Mishnah* continues: *horu beis din ve-yada echad me-hem she-tau* — if one of the court members *knew* they were making a mistake — *o talmid ve-hu ra'uy le-hora'ah* — or a student sitting before the court who is fit to issue rulings, comparable in standing to someone like Shimon ben Azzai or Shimon ben Zoma — *ve-halach ve-asa al pihen*, and he went ahead and followed them anyway, saying to himself: they are the authority, I will submit to their ruling even though I believe they are wrong. In that case — *harei zeh chayav, mipnei she-lo tala b'veis din* — he is obligated to bring a *korban*, because he did not genuinely rely on the court. He knew they were in error, and his act was therefore ultimately his own act, not theirs.
+
+This creates a profound point about the nature of halachic authority. One might have assumed — indeed, one might cite the famous *Rashi* on *lo sasur yamin u'smol*, which says *afilu omrim lecha al yamin she'hu smol* — even if they tell you your right hand is your left, you follow them. That formulation sounds like absolute deference even in the face of error. But the *Gemara* here makes clear that this cannot mean what it seems to say, at least not for someone qualified to judge. If you are fit to rule, and you know the court is wrong, then submitting to their ruling is not *tala b'veis din* — it is not genuine reliance. It is acting on the belief that you are *obligated* to follow them even when wrong, which is itself a *ta'us*, a mistake — *de'ka ta'ei be'mitzvah lishmoa divrei chachamim*. You are mistaken about the mitzvah of listening to the sages. That mistake, ironically, makes you a *shogeg* who brings a *korban*, but it is a *korban* you bring on your own account, not because you were shielded by the court's authority.
+
+The rule is stated as *zeh haklal*: *hatoleh b'atzmo chayav, hatoleh b'veis din patur* — one who relies on himself is obligated, one who relies on *beis din* is exempt.
+
+## First Mishnah…
+
+### When You Know Better
+
+One might ask: if someone who is fit to rule and knows the court is wrong goes ahead and follows them anyway — why is he bringing a *korban* at all? He knows it is forbidden. Shouldn't he be *meizid*, a willful transgressor, who is exempt from *korban* altogether and instead fully liable?
+
+The *Gemara* addresses this directly. The case is one where he knows the substance of the law — he knows this fat is *chelev*, he knows this bread is *chametz* — but he makes a mistake about a different matter: he believes the *mitzvah* requires him to follow *beis din* even when they err. That mistaken belief about the scope of the obligation to heed rabbinic authority is itself the *shogeg*. He is not *meizid* because he did not *intend* to violate the law; he believed, wrongly, that following the court's ruling was itself the law. His error is theological rather than factual, but it is an error nonetheless, and it places him in the category of one who brings a *korban* — albeit not as someone *shielded* by the court, but as someone acting on his own misconceived authority.
+
+This also illuminates the scope of the *Mishnah*'s ruling about someone who "rebels against the rulings of *beis din*" generally. If a person has a pattern of rejecting the court's authority, regularly treating their rulings as something he is free to accept or reject at will, and then one day he happens to follow a ruling he personally agrees with — that is not *tala b'veis din*. He is not relying on the court; he is relying on his own judgment, which in this particular case happened to coincide with theirs. Such a person remains *chayav*. The *klal* therefore includes this case as well: *le'asuyei meva'et b'hora'ah* — someone who generally rejects the court's rulings is, when he follows one, still acting on his own authority.
+
+## First Mishnah…
+
+### Explicit Ruling Required
+
+The *Gemara* now turns to a critical threshold question. *Amar Shmuel: l'olam ein beis din chayavin ad sheyomru lahem mutarin atem* — the court is not subject to the laws of *Horayot*, and an individual is not exempt under them, unless the court says explicitly to the people: *mutarin atem*, you are permitted. The ruling must be addressed to the people in the second person — not a theoretical, abstract pronouncement, but a direct, actionable permission.
+
+## Halacha LeMaaseh
+
+### Shmuel's Position
+
+*Rav Dimi mi-Nehardea* adds a further requirement: *ad sheyomru lahem mutarin atem la'asot* — they must say not only "you are permitted" but "you are permitted *to do*." The active verb *la'asot* is required to make clear that this is a ruling intended to be acted upon in practice, not a theoretical position on the state of the law.
+
+### Rav Dimi's View
+
+The *Tosafot HaRosh* qualifies *Rav Dimi*'s position. The magic words may not always be necessary if the context makes clear that the ruling is responding to a concrete case. If someone comes before *beis din* with a specific question — "is it permitted for me to eat this fat?" — and they answer yes, the practical intent is evident even without an explicit *la'asot*. What *la'asot* is doing is distinguishing between a ruling given in response to a real, actionable situation and a theoretical statement of the law — the kind of thing one might write in a *sefer halacha* discussing general parameters, without intending to give a concrete directive to any particular person.
+
+This distinction is familiar from the concept of *halacha l'ma'aseh*. Even today, *poskim* sometimes write extensively about an issue, cite all the opinions, and make clear what they believe the correct ruling to be — yet stop short of saying "you are permitted to do this." They may explicitly write *l'halacha v'lo l'ma'aseh*: this is the correct theoretical position, but I am not yet prepared to issue it as a ruling to be acted upon. That hesitation reflects the full weight of practical *hora'ah*, the responsibility of telling someone concretely: rest on my authority and do this. It is precisely that weight, according to *Shmuel* and *Rav Dimi*, that triggers the laws of *Horayot* — both the obligation of *beis din* when the majority follows, and the exemption of the individual who relies on them.
+
+### Tannaitic Evidence
+
+*Abaye* brings a *tannaitic* proof: the laws of *zaken mamre* offer a parallel. If a *zaken mamre* returns to his town after having voiced his dissent and continues to *teach* the law as he understands it — *shanah v'limed k'derech she-limed* — he is *patur*. He is not yet a *zaken mamre*. But if he rules *la'asot* — *hora la'asot*, he rules that someone should act a certain way — *chayav*, he is liable as a *zaken mamre* according to *Rabbi Elazar*. The operative distinction is precisely the word *la'asot*: not just "this is the law," but "this is how you should act."
+
+*Rabbi Abba* brings a further proof from the case of a woman whose husband's death was attested by a single witness. If *beis din* accepted that testimony and ruled that she was permitted to remarry — *horu beis din l'hinasay* — and she then went and had relations outside of marriage rather than remarrying, she is *chayevet* a *korban*. Even though implicit in the court's ruling is the finding that her husband is dead, which might suggest she has blanket permission for any relations, their explicit ruling was only that she was permitted to *remarry*. She was not given explicit permission to have relations outside of marriage. Since she acted beyond the precise scope of what they permitted, she cannot claim *tala b'veis din* for that act, and she is therefore obligated to bring a *korban*. This shows that only the explicit scope of the ruling counts — what is *implicit* in a ruling does not qualify.
+
+*Ravina* rounds out the tannaitic support by noting that the *Mishnah* itself uses the language *horu beis din la'avor* — they ruled *to transgress*, using the active infinitive. This is not merely a statement that something is the law; it is an explicit ruling directing action. All three pieces of evidence converge: a ruling is only legally operative, triggering the exemptions and obligations of *Horayot*, when it constitutes a directive for practice, not a theoretical position.
+
+### Theory vs. Practice
+
+This distinction between theoretical teaching and practical ruling turns out to have a remarkable implication for the *zaken mamre* as well. The *zaken mamre* who continues to teach his position abstractly — saying "I believe the law is X" without telling anyone to act accordingly — is not yet crossing the line. He becomes a *zaken mamre* only when he says: and therefore you should *do* this. The threshold of *la'asot* is thus the threshold of authority itself: it is the moment at which one takes full responsibility for directing action, and it is that act — whether by the court or by a dissenting elder — that carries full legal consequences.
+
+## Shogeg al Pihem
+
+### Shogeg Definition
+
+The *Mishnah* says *be-halacha yachid ve-asa shogeg al pihem* — the individual followed them and acted *shogeg al pihem*, unintentionally on the basis of their ruling. The *Gemara* asks: why does it say *shogeg*? If the individual is acting on the court's ruling, that should be sufficient to make him exempt. What does the word *shogeg* add?
+
+The question is prompted by a pointed case. Consider the paradigmatic *shogeg*: two pieces of fat are in front of me, one *chelev* and one *shuman*. I reach for the *shuman* and accidentally pick up the *chelev* and eat it. That is a classic *shogeg*, with a degree of carelessness, and ordinarily I would bring a *korban*. Now: what if *beis din* has ruled that this particular *chelev* is permitted? I reach for the *shuman* and accidentally pick up the *chelev* — the piece that, had I known which piece I was taking, I would have eaten anyway, because *beis din* ruled it was *mutar*. What is my status?
+
+One might reason as follows: since I was not *consciously* relying on *beis din's* ruling — I was simply reaching for the wrong piece — the act that caused the violation was not a product of their ruling at all. Their ruling made no causal contribution to my eating the *chelev*; I would have accidentally eaten it regardless of what they said. Therefore, even though I am not *meizid*, perhaps I cannot be *patur* on account of *beis din* either, and I must bring a *korban* like any ordinary *shogeg*. Conversely, one might argue the opposite: since had I known what I was eating I would have eaten it anyway because of their ruling, it is as though the act is still subsumed under their ruling and I am *patur*.
+
+This is the question posed by *Rami bar Chama*: *huru Beis Din she-chelev mutar ve-nischalef lo b'shuman v'achalo mahu?* — *beis din* ruled that this fat is permitted, he got the pieces mixed up and ate it — what is the law? *Rami bar Chama* did not know. *Rava* attempts to resolve it from the *Mishnah*.
+
+*Rava* notes that the word *shogeg* in the *Mishnah* is doing one of two things — and there are in fact two versions of what *Rava* himself held. According to one version, *Rava* holds that the word *shogeg* comes to teach that even this accidental case is *patur*, because since he would have eaten it anyway given their ruling, the act is still traceable to their ruling in a meaningful sense. According to the second version, *Rava* holds the opposite: *shogeg al pihem hu de-patur* — it is only the *shogeg* whose error is a *direct* result of their ruling who is *patur*; if he would have eaten it accidentally regardless, he is *chayav*. The *Gemara* ultimately cannot resolve the question from the *Mishnah*'s wording, since the phrase can be read either way, and the matter is left as a *plugta* — a standing dispute.
+
+### Rav vs. Rabbi Yochanan
+
+The question surfaces as an explicit dispute between *Rav* and *Rabbi Yochanan*. In a case where *beis din* ruled that *chelev* was *mutar* and the pieces got mixed up — *Rav amar patur*: he is exempt, because he would have eaten the piece anyway given *beis din's* ruling. *Rabbi Yochanan amar chayav*: he is obligated, because his eating the *chelev* was not caused by their ruling; he would have eaten it accidentally regardless.
+
+### Shav Mideiato
+
+A *baraita* is then brought to challenge *Rabbi Yochanan*'s position. The verse says *asher lo sa'aseinah bishgagah* — an act done unintentionally that one would otherwise not have done. *Rabbi Shimon* derives from this: *prat l'shav mideiato* — this excludes someone who, even had he known better, would have done the act anyway. *Hash-av mideiato mevi korban al shigagaso* — someone who would have stopped had he been informed brings a *korban* for his error; *lo shav mideiato eino mevi korban al shigagaso* — someone who would have proceeded regardless does not bring a *korban*.
+
+Applied to our case: this person is no *mumar*, no apostate. He listens to everything *beis din* says. Had he known that what he was eating was *chelev*, he would have eaten it anyway — because *beis din* ruled it was permitted. He is therefore *lo shav mideiato*, and on that basis he should be *patur*. That supports *Rav*'s position and appears to refute *Rabbi Yochanan*.
+
+## Talmid & Ra'uy
+
+### Shev Mideiato Braita
+
+The *baraita* develops the principle of *shav mideiato* in a way that is crucial for understanding the *Mishnah*'s cases. There is a fundamental distinction between two types of people who would have acted differently had they known better. The first is the ordinary *shogeg*: he did not know what he was doing, but had someone told him, he would have stopped immediately. He is *shav mideiato* and brings a *korban*. The second is someone like a *mumar* — an apostate who has rejected this category of law entirely. Even if told that he is eating *chelev*, he would not have stopped. He is *lo shav mideiato* and does not bring a *korban*.
+
+The *baraita*'s contribution is to sharpen what "would not have stopped" means. In the case at hand, the person is entirely righteous. He is *not* a *mumar*. He follows *beis din* scrupulously. But: had someone told him in the moment that he was eating *chelev*, he would not have stopped — because *beis din* ruled it *mutar*. His willingness to continue is not defiance of the law but compliance with it as he understands it. The question of *shav mideiato* in this context is therefore not about the person's character but about the specific act: in this act, given *beis din*'s ruling, he is categorized as *lo shav mideiato* — not because he is a *rasha* but because the ruling created a context in which he would have proceeded regardless of knowing the facts.
+
+## Shogeg al Pihem…
+
+### Rav Pappa Resolution
+
+*Rav Pappa* resolves the apparent contradiction between *Rabbi Yochanan* and the principle of *shav mideiato*. *Rabbi Yochanan* holds the person *chayav* in the mixed-up-pieces case, even though it seems he would not have stopped. *Rav Pappa* explains: *keivan de-ki mishtoda lehu le-vei dina hadari behu ve-hu nami hadar beih* — since, had *beis din* become aware of their own error and retracted their ruling, they would have retracted, and he, too, would have retracted. Therefore, in a deeper and more theoretical sense, he *is shav mideiato* — he is someone who, when we trace back through all the counterfactuals, would ultimately have preferred not to have done this.
+
+The distinction *Rav Pappa* is drawing is between two levels of willingness. On one level: had he known in the moment that he was eating *chelev*, he would have eaten it anyway, because *beis din* said it was fine. On a deeper level: had he known the full picture — that *beis din* had actually made an error, that they would themselves have wanted to retract — he would not have eaten it. The *korban* exists for a person who ideally wishes he had not committed the act. That person, once the error of *beis din* is exposed, *does* wish he had not eaten it. He is therefore *shav mideiato* in the fuller sense, and *Rabbi Yochanan* holds him obligated to bring a *korban*.
+
+*Rav Pappa* adds a further point on behalf of *Rav*: even though *Rav* holds that this person is personally *patur*, *modeh Rav she-eino mashlim le-rov tzibbur* — *Rav* concedes that this person does not combine with the fifty percent who consciously followed *beis din* to constitute the majority that obligates *beis din* itself to bring a *korban*. The reason: *amar kra bishgagah — ad she-kulam bishgagah achas* — all of those counted toward the majority must be following *beis din* in the *same kind* of error. Those who consciously ate because of *beis din's* ruling are following the ruling directly; this person accidentally ate the wrong piece. Even if we hold him personally *patur*, he is not acting *al pihem* in the active sense, and therefore he does not count toward the communal threshold.
+
+## Talmid & Ra'uy…
+
+### Doubled Language
+
+The *Mishnah* says *o talmid ve-hu ra'uy le-hora'ah* — "or a student who is fit to rule." *Rava* explains why both terms are necessary. If the *Mishnah* had only said *talmid*, one might have read that as referring to someone who has both of the qualities required for *hora'ah*: *gamir*, broad knowledge of the relevant law, and *savir*, analytical acuity and good legal judgment. On that reading, a person who has only one of the two — who knows the law well but lacks the analytical sharpness, or who has fine analytical skills but gaps in knowledge — might be thought to genuinely defer to *beis din* when they issue a ruling that conflicts with his understanding. After all, he can say to himself: they are smarter than I am; surely they understand something I do not; I am genuinely trusting their superior judgment, not acting on my own.
+
+The *Mishnah* therefore adds the phrase *ra'uy le-hora'ah* — fit to rule. *Rava* reads this as an extension: even one who has only partial qualifications, either *gamir velo savir* or *savir velo gamir*, is still considered to "know better" when it appears to him that the court has made an error. His sense that they are more capable than he is does not transform his act into genuine reliance on them. If the law looks wrong to him, even if he lacks the full scholarly package, he is considered *tולה b'atzmo* and brings a *korban*.
+
+### Abaye's Challenge
+
+*Abaye* challenges *Rava* at a more basic level. The *Mishnah* describes someone who is *ra'uy le-hora'ah* — comparable to Shimon ben Azzai or Shimon ben Zoma, who sat before the *Sanhedrin* and were fully qualified to serve on the court. If such a person knows that the court is wrong, and he follows them anyway, why does he bring a *korban* at all? He should be *meizid* — a willful transgressor — since he knows the ruling is an error. Where is the *shogeg* in his act?
+
+The *Gemara* resolves this with a *baraita*: *yachid ha'oseh al pi atzmo chayav, u'mipi beis din patur* — one who acts on his own authority is obligated, one who follows *beis din* is exempt. The case where such a person is *chayav* is where he knows the substance of the prohibition — he knows this is *chelev*, he knows this is *chametz* — but he makes a mistake about a different thing: he believes he has a *mitzvah* to follow *beis din* even when they err, *de'ka ta'ei be'mitzvah lishmoa divrei chachamim*. He thinks the rule *lo sasur yamin u'smol* obligates him to submit unconditionally, even against his own correct judgment. That belief is itself the *shogeg*. He is not *meizid* with respect to the prohibition of *chelev* because he genuinely believed he was permitted — not because *beis din* ruled correctly, but because he believed he was obligated to follow them regardless.
+
+This is a significant clarification of the principle of *lo sasur*. The famous *Rashi* formulation — that one must follow the sages even if they tell you your right is your left — cannot mean, according to this *Gemara*, that even a qualified scholar must follow an objectively wrong ruling against his own certain knowledge. That reading is categorically rejected here. A scholar in that position who follows them is making an error about the scope of the obligation to heed rabbinic authority — a sincere error, and therefore a *shogeg*, but an error nonetheless. He brings a *korban* on his own account, not as someone whose act was subsumed under the court's authority.
+
+## Scope of Reliance
+
+### Retracted Rulings
+
+The *Gemara* turns to the final case of the *Mishnah*'s general rule: *hatoleh b'veis din patur*. What is included within "relying on *beis din*"? The case is: *horu beis din v'yadu she-ta'u v'chazru bahen* — *beis din* issued a ruling, subsequently recognized their error, and retracted. An individual who had heard the original ruling but had not yet heard the retraction goes ahead and acts on the original ruling. Since in his own mind he is following *beis din*, he is *patur*, even though the ruling was no longer in force at the time he acted. He did not know of the retraction, and therefore his reliance was genuine. The *Gemara* notes this case will be stated explicitly in the following *Mishnah*, though it is already implicit here.
+
+### Rabbi Yehuda vs. Sages
+
+*Rav Yehuda* in the name of *Shmuel* identifies the position in the *Mishnah* — that an innocent individual who follows *beis din* is *patur* when the majority has not followed them — as the view of *Rabbi Yehuda* specifically. The *chachamim*, however, disagree: *yachid she-asah b'horat beis din chayav* — an individual who acts on *beis din's* ruling is *chayav* even when *beis din* itself does not bring a *korban*. According to the sages, the individual must bring a *korban* regardless of his innocence, precisely because *beis din* is not bringing one.
+
+### Guilt vs. Causation
+
+This dispute cuts to a foundational question about the nature of *korban*. The instinctive assumption is that a *korban* is brought because of personal culpability — the person did something wrong, even if unintentionally, and now atones for it. But the *Torah*'s conception may be less about guilt and more about causation and cosmic repair. When a sin is committed — when *chelev* is eaten, when *chametz* is consumed on *Pesach* — something in the world has been disrupted, a kind of metaphysical rupture has occurred, regardless of the personal culpability of the one who committed the act. The *korban* is not primarily a statement of guilt; it is a repair. You caused it — even without fault — and therefore you are the one who must address it.
+
+The paradigm here is the *tinok shenishba* — a Jewish infant taken captive who grows up entirely outside of any awareness of Jewish identity and observance, and who, upon discovering the truth after forty years, must bring a *korban* for all the violations of *Shabbos* committed in complete ignorance. That person is entirely blameless. Yet the *korban* is required. Why? Because the act happened, the rupture exists, and whoever is causally responsible for it — however blameless — is the one who must effect the repair.
+
+The *chachamim*'s position follows this logic directly. The individual who followed *beis din* may be personally blameless. But *beis din* is not bringing a *korban*, because the majority of *Klal Yisrael* did not follow their ruling. The *aveirah* was nonetheless committed. Someone must bring a *korban*. The individual who committed the act — even innocently, even while relying fully on legitimate authority — is the one who caused it to happen, and therefore he is the one who brings the *korban*. *Rabbi Yehuda* disagrees: the individual's blamelessness is complete enough that he is exempt together with *beis din*. But the *chachamim* hold that blamelessness does not extinguish the obligation when the causal responsibility remains undischarged.

@@ -311,6 +311,9 @@ class Pipeline:
                 logger.warning(f"  Pass 2 output missing for {label}; cannot build pass 3 prompt")
                 return None
             sefaria_text = self._get_sefaria(masechta, daf, job_dir)
+            if sefaria_text.startswith('[Sefaria text not available'):
+                logger.warning(f"  [{label}] Sefaria text unavailable; skipping pass 3")
+                return None
             prev_tail = self._get_sefaria_prev_tail(masechta, daf, job_dir)
             next_head = self._get_sefaria_next_head(masechta, daf, job_dir)
             return source_insertion_prompt(

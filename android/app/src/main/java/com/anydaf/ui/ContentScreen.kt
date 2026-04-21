@@ -1,7 +1,9 @@
 package com.anydaf.ui
 
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -15,23 +17,37 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
-import androidx.compose.foundation.layout.widthIn
+import androidx.compose.foundation.layout.requiredWidth
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.RectangleShape
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.BookmarkBorder
-import androidx.compose.material.icons.filled.MenuBook
+import androidx.compose.material.icons.filled.FormatListBulleted
+import androidx.compose.material.icons.automirrored.filled.MenuBook
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.filled.Stop
+import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
+import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.PlayArrow
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.Today
 import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.LocalMinimumInteractiveComponentSize
+import androidx.compose.material3.FilterChipDefaults
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
+import androidx.compose.material3.FilterChip
+import androidx.compose.foundation.layout.heightIn
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -43,19 +59,22 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.material3.AlertDialog
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.TextButton
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
@@ -63,13 +82,12 @@ import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.compose.ui.graphics.Color
+import com.anydaf.ui.theme.AppBlue
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.anydaf.data.api.FeedManager
 import com.anydaf.data.api.ShiurClient
 import com.anydaf.model.Bookmark
-import androidx.compose.material3.Tab
-import androidx.compose.material3.TabRow
 import androidx.compose.material3.VerticalDivider
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.platform.LocalConfiguration
@@ -84,7 +102,6 @@ import com.anydaf.viewmodel.ContentViewModel
 import com.anydaf.viewmodel.PdfViewModel
 import com.anydaf.viewmodel.ResourcesViewModel
 import com.anydaf.viewmodel.StudySessionViewModel
-import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -109,7 +126,11 @@ fun ContentScreen(
     val showDonationNudge by contentViewModel.showDonationNudge.collectAsState()
 
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
+    val tabletRightPanelMode by contentViewModel.tabletRightPanelMode.collectAsState()
     val isTablet = LocalConfiguration.current.screenWidthDp >= 600
+    val appBg = if (useWhiteBackground) MaterialTheme.colorScheme.background else AppBlue
+    val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
 
     val context = LocalContext.current
     val lifecycleOwner = LocalLifecycleOwner.current
@@ -133,7 +154,6 @@ fun ContentScreen(
         )
     }
     
-    val scope = rememberCoroutineScope()
     val episodeIndex by FeedManager.episodeIndex.collectAsState()
     val isLoadingFeed by FeedManager.isLoading.collectAsState()
     val shiurSegments by ShiurClient.segments.collectAsState()
@@ -167,6 +187,11 @@ fun ContentScreen(
         if (shiurRewrite == null) showShiurText = false
     }
 
+    // Reset study session whenever the user navigates to a different daf/tractate.
+    LaunchedEffect(tractate.name, selectedDaf) {
+        studyViewModel.endSession()
+    }
+
     // Keep the active chapter marker in sync with audio playback.
     LaunchedEffect(currentTime) {
         ShiurClient.updateCurrentSegment(currentTime)
@@ -193,20 +218,97 @@ fun ContentScreen(
     val audioUrl = episodeIndex[tractate.name]?.get(selectedDaf)
     val hasAudio = audioUrl != null
 
+    // Hoisted above Scaffold so the TopAppBar can show compact pickers when collapsed.
+    var collapsedSide by remember { mutableStateOf("NONE") } // "NONE", "LEFT", "RIGHT"
+
+    // Tablet split state — hoisted so drag geometry and collapse handle share the same state.
+    val density = LocalDensity.current
+    var leftWidthPx by remember { mutableFloatStateOf(with(density) { 380.dp.toPx() }) }
+    var savedWidthPx by remember { mutableFloatStateOf(with(density) { 380.dp.toPx() }) }
+
+    // Restore persisted tablet layout state once the ViewModel has loaded from DataStore.
+    val tabletCollapsedSide by contentViewModel.tabletCollapsedSide.collectAsState()
+    val tabletSplitDp by contentViewModel.tabletSplitDp.collectAsState()
+    LaunchedEffect(tabletCollapsedSide, tabletSplitDp) {
+        if (tabletCollapsedSide.isNotEmpty() && tabletSplitDp >= 0.0) {
+            collapsedSide = tabletCollapsedSide
+            val px = with(density) { tabletSplitDp.toFloat().dp.toPx() }
+            leftWidthPx = px
+            savedWidthPx = px
+        }
+    }
+
     Scaffold(
+        containerColor = appBg,
         topBar = {
             TopAppBar(
-                title = { Text("AnyDaf", fontWeight = FontWeight.Bold) },
-                actions = {
+                colors = TopAppBarDefaults.topAppBarColors(
+                    containerColor = appBg,
+                    titleContentColor = appFg,
+                    actionIconContentColor = appFg,
+                    navigationIconContentColor = appFg
+                ),
+                navigationIcon = {
                     if (isFetchingDafYomi) {
-                        CircularProgressIndicator(modifier = Modifier.size(24.dp).padding(2.dp))
+                        CircularProgressIndicator(modifier = Modifier.size(24.dp).padding(start = 12.dp))
                     } else {
                         IconButton(onClick = { contentViewModel.fetchTodaysDaf() }) {
-                            Icon(Icons.Default.Today, contentDescription = "Today's Daf")
+                            Column(horizontalAlignment = androidx.compose.ui.Alignment.CenterHorizontally) {
+                                Icon(
+                                    Icons.Default.Today,
+                                    contentDescription = "Today's Daf Yomi",
+                                    modifier = Modifier.size(20.dp)
+                                )
+                                Text(
+                                    text = "דף יומי",
+                                    fontSize = 7.sp,
+                                    fontWeight = FontWeight.SemiBold,
+                                    lineHeight = 7.sp
+                                )
+                            }
                         }
                     }
-                    IconButton(onClick = onOpenBookmarks) {
-                        Icon(Icons.Default.Bookmark, contentDescription = "Bookmarks")
+                },
+                title = {
+                if (isTablet && collapsedSide == "RIGHT") {
+                    CompactTabletPickers(
+                        selectedTractateIndex = selectedTractateIndex,
+                        selectedDaf = selectedDaf,
+                        selectedAmud = selectedAmud,
+                        tractate = tractate,
+                        episodeIndex = episodeIndex,
+                        contentViewModel = contentViewModel,
+                        contentColor = appFg
+                    )
+                } else {
+                    Text("AnyDaf", fontWeight = FontWeight.Bold)
+                }
+            },
+                actions = {
+                    CompositionLocalProvider(LocalMinimumInteractiveComponentSize provides 0.dp) {
+                        Row(horizontalArrangement = Arrangement.spacedBy(0.dp)) {
+                            IconButton(onClick = onOpenBookmarks) {
+                                Icon(Icons.Default.FormatListBulleted, contentDescription = "Bookmark List")
+                            }
+                            IconButton(onClick = {
+                                if (isBookmarked) {
+                                    bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
+                                        ?.let { bookmarkViewModel.delete(it) }
+                                } else {
+                                    pendingNewBookmark = Bookmark(
+                                        name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
+                                        tractateIndex = selectedTractateIndex,
+                                        daf = selectedDaf,
+                                        amud = selectedAmud
+                                    )
+                                }
+                            }) {
+                                Icon(
+                                    if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
+                                    contentDescription = if (isBookmarked) "Remove Bookmark" else "Add Bookmark"
+                                )
+                            }
+                        }
                     }
                     IconButton(onClick = onOpenSettings) {
                         Icon(Icons.Default.Settings, contentDescription = "Settings")
@@ -216,79 +318,63 @@ fun ContentScreen(
         }
     ) { padding ->
         if (isTablet) {
-            // ── Tablet: two-column layout ─────────────────────────────────────
-            Row(
+            // ── Tablet: two-column layout with draggable divider ──────────────
+            val minLeftPx = with(density) { 200.dp.toPx() }
+            val maxLeftPx = with(density) { 540.dp.toPx() }
+            // Collapse intent: dragging this far in one direction triggers collapse regardless
+            // of absolute panel position.
+            val collapseIntentPx = with(density) { 100.dp.toPx() }
+
+            val rightPanelMode = when (tabletRightPanelMode) {
+                "STUDY" -> "STUDY"
+                "SHIUR" -> "SHIUR"
+                else -> if (shiurRewrite != null) "SHIUR" else "STUDY"
+            }
+
+            Column(
                 modifier = Modifier
                     .fillMaxSize()
                     .padding(padding)
             ) {
-                // Left panel — daf picker + image + audio (fixed ~400dp, scrolls if narrow)
-                Column(
-                    modifier = Modifier
-                        .widthIn(min = 320.dp, max = 440.dp)
-                        .fillMaxHeight()
-                        .padding(horizontal = 12.dp),
-                    verticalArrangement = Arrangement.spacedBy(10.dp)
-                ) {
-                    Spacer(Modifier.height(4.dp))
-                    TabletPickerRow(
-                        selectedTractateIndex = selectedTractateIndex,
-                        selectedDaf = selectedDaf,
-                        selectedAmud = selectedAmud,
-                        tractate = tractate,
-                        episodeIndex = episodeIndex,
-                        contentViewModel = contentViewModel
-                    )
-                    if (!isAudioStopped) AudioPlayerBar(audioViewModel = audioViewModel)
-                    if (shiurSegments.isNotEmpty() && duration > 0f) {
-                        val stripListState = androidx.compose.foundation.lazy.rememberLazyListState()
-                        LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
-                        androidx.compose.foundation.lazy.LazyRow(
-                            state = stripListState,
-                            horizontalArrangement = Arrangement.spacedBy(6.dp),
-                            contentPadding = PaddingValues(horizontal = 4.dp),
-                            modifier = Modifier.fillMaxWidth()
-                        ) {
-                            androidx.compose.foundation.lazy.itemsIndexed(shiurSegments) { index, seg ->
-                                val isActive = index == shiurSegmentIndex
-                                Box(
-                                    modifier = Modifier
-                                        .clip(androidx.compose.foundation.shape.RoundedCornerShape(50))
-                                        .background(
-                                            if (isActive) MaterialTheme.colorScheme.primary
-                                            else MaterialTheme.colorScheme.surfaceVariant
-                                        )
-                                        .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
-                                        .padding(horizontal = 10.dp, vertical = 4.dp)
-                                ) {
-                                    Text(
-                                        text = seg.displayTitle,
-                                        style = MaterialTheme.typography.labelSmall,
-                                        color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                                else MaterialTheme.colorScheme.onSurfaceVariant,
-                                        maxLines = 1
-                                    )
-                                }
-                            }
-                        }
-                    }
-                    if (shiurRewrite != null) {
-                        TabRow(selectedTabIndex = if (showShiurText) 1 else 0) {
-                            Tab(selected = !showShiurText, onClick = { showShiurText = false }, text = { Text("Daf") })
-                            Tab(selected = showShiurText, onClick = { showShiurText = true }, text = { Text("Shiur") })
-                        }
-                    }
-                    Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
-                        val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
-                        if (showShiurText && shiurDisplayText != null) {
-                            CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
-                                ShiurTextView(
-                                    rewriteText = shiurDisplayText,
-                                    currentSegmentIndex = shiurSegmentIndex,
-                                    modifier = Modifier.fillMaxSize()
+                // ── Two-column split: daf image (left) | divider | Shiur/Study (right) ──
+                // Pickers live inside the left Column — clipped by requiredWidth + clip(RectangleShape).
+                // Collapse is intent-based (cumulative drag ≥ 100 dp) so the pickers' intrinsic
+                // minimum width no longer blocks the divider from reaching either edge.
+                Row(modifier = Modifier.weight(1f).fillMaxWidth()) {
+
+                    // ── Left panel ────────────────────────────────────────────────
+                    if (collapsedSide != "LEFT") Column(
+                        modifier = Modifier
+                            .then(
+                                if (collapsedSide == "RIGHT") Modifier.weight(1f)
+                                else Modifier.requiredWidth(with(density) { leftWidthPx.toDp() })
+                            )
+                            .fillMaxHeight()
+                            .clip(RectangleShape)
+                            .padding(horizontal = 12.dp),
+                        verticalArrangement = Arrangement.spacedBy(10.dp)
+                    ) {
+                        // Pickers at top — hidden when right panel is collapsed (shown in TopAppBar instead).
+                        if (collapsedSide != "RIGHT") {
+                            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
+                            Box(
+                                modifier = Modifier
+                                    .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
+                                    .padding(horizontal = 12.dp, vertical = 4.dp)
+                            ) {
+                                CompactTabletPickers(
+                                    selectedTractateIndex = selectedTractateIndex,
+                                    selectedDaf = selectedDaf,
+                                    selectedAmud = selectedAmud,
+                                    tractate = tractate,
+                                    episodeIndex = episodeIndex,
+                                    contentViewModel = contentViewModel,
+                                    contentColor = appFg
                                 )
                             }
-                        } else {
+                            } // Row (centering)
+                        }
+                        Box(modifier = Modifier.weight(1f).fillMaxWidth().background(appBg)) {
                             if (pdfViewModel.hasPages(tractate.name)) {
                                 DafPageView(
                                     tractate = tractate,
@@ -303,231 +389,283 @@ fun ContentScreen(
                                 )
                             }
                         }
-                        IconButton(
-                            onClick = {
-                                if (isBookmarked) {
-                                    bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
-                                        ?.let { bookmarkViewModel.delete(it) }
-                                } else {
-                                    pendingNewBookmark = Bookmark(
-                                        name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
-                                        tractateIndex = selectedTractateIndex,
-                                        daf = selectedDaf,
-                                        amud = selectedAmud
-                                    )
+                        if (!isAudioStopped) {
+                            if (shiurSegments.isNotEmpty() && duration > 0f) {
+                                val stripListState = rememberLazyListState()
+                                LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
+                                LazyRow(
+                                    state = stripListState,
+                                    horizontalArrangement = Arrangement.spacedBy(6.dp),
+                                    contentPadding = PaddingValues(horizontal = 4.dp),
+                                    modifier = Modifier.fillMaxWidth()
+                                ) {
+                                    itemsIndexed(shiurSegments) { index, seg ->
+                                        val isActive = index == shiurSegmentIndex
+                                        Box(
+                                            modifier = Modifier
+                                                .clip(RoundedCornerShape(50))
+                                                .background(
+                                                    if (isActive) MaterialTheme.colorScheme.primary
+                                                    else MaterialTheme.colorScheme.surfaceVariant
+                                                )
+                                                .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
+                                                .padding(horizontal = 10.dp, vertical = 4.dp)
+                                        ) {
+                                            Text(
+                                                text = seg.displayTitle,
+                                                style = MaterialTheme.typography.labelSmall,
+                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                maxLines = 1
+                                            )
+                                        }
+                                    }
                                 }
-                            },
-                            modifier = Modifier.align(Alignment.TopEnd)
-                        ) {
-                            Icon(
-                                if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
-                                "Bookmark"
-                            )
+                            }
+                            AudioPlayerBar(audioViewModel = audioViewModel)
                         }
-                    }
-                    // Listen button only on left panel
-                    Row(
-                        modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
-                        horizontalArrangement = Arrangement.spacedBy(8.dp),
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        FilledTonalButton(
-                            onClick = {
-                                if (!isAudioStopped) {
-                                    audioViewModel.stop()
-                                } else {
-                                    val url = audioUrl ?: return@FilledTonalButton
-                                    hasAutoRefreshedForAudio = false
-                                    audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                        if (isAudioStopped) {
+                            Box(
+                                modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+                                contentAlignment = Alignment.Center
+                            ) {
+                                FilledTonalButton(
+                                    onClick = {
+                                        val url = audioUrl ?: return@FilledTonalButton
+                                        hasAutoRefreshedForAudio = false
+                                        audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                                    },
+                                    enabled = hasAudio,
+                                    colors = ButtonDefaults.filledTonalButtonColors(
+                                        disabledContainerColor = appFg.copy(alpha = 0.12f),
+                                        disabledContentColor = appFg.copy(alpha = 0.45f)
+                                    )
+                                ) {
+                                    if (isLoadingFeed && !hasAudio) {
+                                        CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
+                                        Spacer(Modifier.width(6.dp))
+                                        Text("Loading…")
+                                    } else {
+                                        Icon(Icons.Default.PlayArrow, null, Modifier.size(18.dp))
+                                        Spacer(Modifier.width(6.dp))
+                                        Text("Listen")
+                                    }
                                 }
-                            },
-                            enabled = hasAudio || !isAudioStopped,
-                            modifier = Modifier.weight(1f)
-                        ) {
-                            if (isLoadingFeed && isAudioStopped && !hasAudio) {
-                                CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
-                                Spacer(Modifier.width(6.dp))
-                                Text("Loading…")
-                            } else {
-                                Icon(if (isAudioStopped) Icons.Default.PlayArrow else Icons.Default.Stop, null, Modifier.size(18.dp))
-                                Spacer(Modifier.width(6.dp))
-                                Text(if (isAudioStopped) "Listen" else "Stop")
                             }
                         }
-                        FilledTonalButton(
-                            onClick = {
-                                resourcesViewModel.reset()
-                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
-                            },
-                            modifier = Modifier.weight(1f)
+                    } // left panel Column — also ends the if (collapsedSide != "LEFT") expr
+
+                    // ── Draggable divider / collapse handle ──────────────────────
+                    when (collapsedSide) {
+                        "LEFT" -> Box(
+                            modifier = Modifier
+                                .width(20.dp)
+                                .fillMaxHeight()
+                                .background(MaterialTheme.colorScheme.surfaceVariant)
+                                .clickable {
+                                    leftWidthPx = savedWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                    collapsedSide = "NONE"
+                                    contentViewModel.saveTabletLayout("NONE", with(density) { leftWidthPx.toDp().value.toDouble() })
+                                },
+                            contentAlignment = Alignment.Center
                         ) {
-                            Icon(Icons.Default.MenuBook, null, Modifier.size(18.dp))
-                            Spacer(Modifier.width(6.dp))
-                            Text("Study")
+                            Icon(Icons.AutoMirrored.Filled.KeyboardArrowRight, "Expand left panel",
+                                modifier = Modifier.size(16.dp),
+                                tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                        }
+                        "RIGHT" -> Box(
+                            modifier = Modifier
+                                .width(20.dp)
+                                .fillMaxHeight()
+                                .background(MaterialTheme.colorScheme.surfaceVariant)
+                                .clickable {
+                                    leftWidthPx = savedWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                    collapsedSide = "NONE"
+                                    contentViewModel.saveTabletLayout("NONE", with(density) { leftWidthPx.toDp().value.toDouble() })
+                                },
+                            contentAlignment = Alignment.Center
+                        ) {
+                            Icon(Icons.AutoMirrored.Filled.KeyboardArrowLeft, "Expand right panel",
+                                modifier = Modifier.size(16.dp),
+                                tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                        }
+                        else -> Box(
+                            modifier = Modifier
+                                .width(32.dp)
+                                .fillMaxHeight()
+                                .pointerInput(Unit) {
+                                    // Track cumulative drag locally so collapse intent is based
+                                    // purely on how far the user dragged, not on subtracting
+                                    // state values (which can be stale or zero on emulators).
+                                    var cumulativeDrag = 0f
+                                    detectHorizontalDragGestures(
+                                        onDragStart = { _ -> cumulativeDrag = 0f },
+                                        onDragEnd = {
+                                            when {
+                                                cumulativeDrag <= -collapseIntentPx -> {
+                                                    savedWidthPx = leftWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                                    collapsedSide = "LEFT"
+                                                    contentViewModel.saveTabletLayout("LEFT", with(density) { savedWidthPx.toDp().value.toDouble() })
+                                                }
+                                                cumulativeDrag >= collapseIntentPx -> {
+                                                    savedWidthPx = leftWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                                    collapsedSide = "RIGHT"
+                                                    contentViewModel.saveTabletLayout("RIGHT", with(density) { savedWidthPx.toDp().value.toDouble() })
+                                                }
+                                                else -> {
+                                                    leftWidthPx = leftWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                                    contentViewModel.saveTabletLayout(collapsedSide, with(density) { leftWidthPx.toDp().value.toDouble() })
+                                                }
+                                            }
+                                        },
+                                        onDragCancel = {
+                                            leftWidthPx = leftWidthPx.coerceIn(minLeftPx, maxLeftPx)
+                                        }
+                                    ) { _, dragAmount ->
+                                        cumulativeDrag += dragAmount
+                                        leftWidthPx = (leftWidthPx + dragAmount).coerceAtLeast(0f)
+                                    }
+                                },
+                            contentAlignment = Alignment.Center
+                        ) {
+                            VerticalDivider()
                         }
                     }
-                }
 
-                VerticalDivider()
-
-                // Right panel — study mode content
-                StudyModeContent(
-                    studyViewModel = studyViewModel,
-                    bookmarkViewModel = bookmarkViewModel,
-                    contentViewModel = contentViewModel,
-                    resourcesViewModel = resourcesViewModel,
-                    isInline = true,
-                    modifier = Modifier.weight(1f).fillMaxHeight()
-                )
-            }
+                    // ── Right panel: Shiur/Study tab + content ───────────────────
+                    if (collapsedSide != "RIGHT") Column(
+                        modifier = Modifier.weight(1f).fillMaxHeight()
+                    ) {
+                        Row(
+                            horizontalArrangement = Arrangement.spacedBy(8.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                            modifier = Modifier.padding(horizontal = 12.dp, vertical = 4.dp)
+                        ) {
+                            FilterChip(
+                                selected = rightPanelMode == "SHIUR",
+                                onClick = { contentViewModel.setTabletRightPanelMode("SHIUR") },
+                                label = { Text("Shiur") },
+                                colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                                border = FilterChipDefaults.filterChipBorder(
+                                    enabled = true, selected = rightPanelMode == "SHIUR",
+                                    borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
+                                )
+                            )
+                            FilterChip(
+                                selected = rightPanelMode == "STUDY",
+                                onClick = { contentViewModel.setTabletRightPanelMode("STUDY") },
+                                label = { Text("Study") },
+                                colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                                border = FilterChipDefaults.filterChipBorder(
+                                    enabled = true, selected = rightPanelMode == "STUDY",
+                                    borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
+                                )
+                            )
+                        }
+                        Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
+                            when (rightPanelMode) {
+                                "SHIUR" -> {
+                                    val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
+                                    if (shiurDisplayText != null) {
+                                        CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+                                            ShiurTextView(
+                                                rewriteText = shiurDisplayText,
+                                                currentSegmentIndex = shiurSegmentIndex,
+                                                modifier = Modifier.fillMaxSize()
+                                            )
+                                        }
+                                    } else {
+                                        Box(Modifier.fillMaxSize(), Alignment.Center) {
+                                            Text("No written shiur available",
+                                                style = MaterialTheme.typography.bodyMedium,
+                                                color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                        }
+                                    }
+                                }
+                                else -> {
+                                    StudyModeContent(
+                                        studyViewModel = studyViewModel,
+                                        bookmarkViewModel = bookmarkViewModel,
+                                        contentViewModel = contentViewModel,
+                                        resourcesViewModel = resourcesViewModel,
+                                        isInline = true,
+                                        onStartStudy = {
+                                            resourcesViewModel.reset()
+                                            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+                                        },
+                                        modifier = Modifier.fillMaxSize()
+                                    )
+                                }
+                            }
+                        }
+                    }
+                } // inner Row (two-column split)
+            } // outer Column (tablet layout)
         } else {
         // ── Phone: original single-column layout ─────────────────────────────
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(padding)
-                .padding(horizontal = 16.dp),
+                .padding(padding),
             verticalArrangement = Arrangement.spacedBy(12.dp)
         ) {
-            Spacer(Modifier.height(4.dp))
-
-            // Picker row: [tractate + daf card] [A/B box on right] — fixed height so both cards match
+            // Picker row — compact dropdown style; Daf/Shiur chips inline to the right when available
             Row(
-                modifier = Modifier.fillMaxWidth().height(88.dp),
-                horizontalArrangement = Arrangement.spacedBy(8.dp)
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp),
+                horizontalArrangement = Arrangement.Center,
+                verticalAlignment = Alignment.CenterVertically
             ) {
-                Card(
-                    modifier = Modifier.weight(1f).fillMaxHeight(),
-                    elevation = CardDefaults.cardElevation(4.dp),
-                    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+                Box(
+                    modifier = Modifier
+                        .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
+                        .padding(start = 12.dp, end = 6.dp, top = 8.dp, bottom = 8.dp)
                 ) {
-                    Row(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(8.dp),
-                        horizontalArrangement = Arrangement.spacedBy(8.dp),
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        Box(modifier = Modifier.weight(1f)) {
-                            TractateWheelPicker(
-                                tractates = allTractates,
-                                selectedIndex = selectedTractateIndex,
-                                onSelected = { contentViewModel.selectTractate(it) }
-                            )
-                        }
-                        Box(modifier = Modifier.width(56.dp)) {
-                            val dafPickerItems = remember(tractate.name, episodeIndex) {
-                                buildList {
-                                    for (n in tractate.dafRange) {
-                                        add(n.toDouble())
-                                        val half = n.toDouble() + 0.5
-                                        if (episodeIndex[tractate.name]?.containsKey(half) == true) {
-                                            add(half)
-                                        }
-                                    }
-                                }
-                            }
-                            DafWheelPicker(
-                                dafRange = dafPickerItems,
-                                selectedDaf = selectedDaf,
-                                onSelected = { contentViewModel.selectDaf(it) }
-                            )
-                        }
-                    }
-                }
-
-                // A / B amud buttons — same fixed height as tractate card
-                Card(
-                    modifier = Modifier.fillMaxHeight(),
-                    elevation = CardDefaults.cardElevation(4.dp),
-                    colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
-                ) {
-                    Column(
-                        modifier = Modifier
-                            .fillMaxHeight()
-                            .padding(horizontal = 4.dp, vertical = 6.dp),
-                        verticalArrangement = Arrangement.spacedBy(6.dp),
-                        horizontalAlignment = Alignment.CenterHorizontally
-                    ) {
-                        listOf(0 to "A", 1 to "B").forEach { (amud, label) ->
-                            FilledTonalButton(
-                                onClick = { contentViewModel.selectAmud(amud) },
-                                modifier = Modifier.weight(1f).width(44.dp),
-                                contentPadding = androidx.compose.foundation.layout.PaddingValues(0.dp),
-                                colors = if (selectedAmud == amud) {
-                                    ButtonDefaults.filledTonalButtonColors(
-                                        containerColor = MaterialTheme.colorScheme.primary,
-                                        contentColor = MaterialTheme.colorScheme.onPrimary
-                                    )
-                                } else ButtonDefaults.filledTonalButtonColors()
-                            ) { Text(label) }
-                        }
-                    }
-                }
-            }
-
-            // Audio player bar
-            if (!isAudioStopped) {
-                AudioPlayerBar(audioViewModel = audioViewModel)
-            }
-
-            // Chapter navigation strip — shown when segment data is available and audio is loaded
-            if (shiurSegments.isNotEmpty() && duration > 0f) {
-                val stripListState = rememberLazyListState()
-                LaunchedEffect(shiurSegmentIndex) {
-                    stripListState.animateScrollToItem(shiurSegmentIndex)
-                }
-                LazyRow(
-                    state = stripListState,
-                    horizontalArrangement = Arrangement.spacedBy(6.dp),
-                    contentPadding = PaddingValues(horizontal = 4.dp),
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    itemsIndexed(shiurSegments) { index, seg ->
-                        val isActive = index == shiurSegmentIndex
-                        Box(
-                            modifier = Modifier
-                                .clip(RoundedCornerShape(50))
-                                .background(
-                                    if (isActive) MaterialTheme.colorScheme.primary
-                                    else MaterialTheme.colorScheme.surfaceVariant
-                                )
-                                .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
-                                .padding(horizontal = 10.dp, vertical = 4.dp)
-                        ) {
-                            androidx.compose.material3.Text(
-                                text = seg.displayTitle,
-                                style = MaterialTheme.typography.labelSmall,
-                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                        else MaterialTheme.colorScheme.onSurfaceVariant,
-                                maxLines = 1
-                            )
-                        }
-                    }
-                }
-            }
-
-            // Daf / Shiur toggle — only when lecture text is available
-            if (shiurRewrite != null) {
-                TabRow(selectedTabIndex = if (showShiurText) 1 else 0) {
-                    Tab(
-                        selected = !showShiurText,
-                        onClick = { showShiurText = false },
-                        text = { Text("Daf") }
+                    CompactTabletPickers(
+                        selectedTractateIndex = selectedTractateIndex,
+                        selectedDaf = selectedDaf,
+                        selectedAmud = selectedAmud,
+                        tractate = tractate,
+                        episodeIndex = episodeIndex,
+                        contentViewModel = contentViewModel,
+                        contentColor = appFg
                     )
-                    Tab(
-                        selected = showShiurText,
-                        onClick = { showShiurText = true },
-                        text = { Text("Shiur") }
-                    )
+                }
+                // Daf / Shiur chips — stacked vertically to the right of picker box
+                if (shiurRewrite != null) {
+                    Spacer(Modifier.width(14.dp))
+                    Row(horizontalArrangement = Arrangement.spacedBy((-4).dp)) {
+                        FilterChip(
+                            selected = !showShiurText,
+                            onClick = { showShiurText = false },
+                            label = { Text("Daf") },
+                            colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                            border = FilterChipDefaults.filterChipBorder(
+                                enabled = true, selected = !showShiurText,
+                                borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
+                            )
+                        )
+                        FilterChip(
+                            selected = showShiurText,
+                            onClick = { showShiurText = true },
+                            label = { Text("Shiur") },
+                            colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                            border = FilterChipDefaults.filterChipBorder(
+                                enabled = true, selected = showShiurText,
+                                borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
+                            )
+                        )
+                    }
                 }
             }
 
             // Main content area: daf image or lecture text
-            Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
+            Box(modifier = Modifier.weight(1f).fillMaxWidth().background(appBg)) {
                 val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                 if (showShiurText && shiurDisplayText != null) {
-                    CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+                    CompositionLocalProvider(
+                        LocalStudyFontSize provides studyFontSize.spSize.sp,
+                        LocalIsBlueMode provides !useWhiteBackground
+                    ) {
                         ShiurTextView(
                             rewriteText = shiurDisplayText,
                             currentSegmentIndex = shiurSegmentIndex,
@@ -549,69 +687,92 @@ fun ContentScreen(
                         )
                     }
                 }
-                IconButton(
-                    onClick = {
-                        if (isBookmarked) {
-                            bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
-                                ?.let { bookmarkViewModel.delete(it) }
-                        } else {
-                            pendingNewBookmark = Bookmark(
-                                name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
-                                tractateIndex = selectedTractateIndex,
-                                daf = selectedDaf,
-                                amud = selectedAmud
-                            )
-                        }
-                    },
-                    modifier = Modifier.align(Alignment.TopEnd)
-                ) {
-                    Icon(
-                        if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
-                        "Bookmark"
-                    )
-                }
-            }
 
-            // Action row — Listen | Study
-            Row(
-                modifier = Modifier.fillMaxWidth(),
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                FilledTonalButton(
-                    onClick = {
-                        if (!isAudioStopped) {
-                            audioViewModel.stop()
-                        } else {
-                            val url = audioUrl ?: return@FilledTonalButton
-                            hasAutoRefreshedForAudio = false
-                            audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
-                        }
-                    },
-                    enabled = hasAudio || !isAudioStopped,
-                    modifier = Modifier.weight(1f)
+                // Action row overlaid at the bottom of the image — maximises image height
+                Row(
+                    modifier = Modifier
+                        .align(Alignment.BottomCenter)
+                        .fillMaxWidth()
+                        .background(appBg.copy(alpha = 0.88f))
+                        .padding(horizontal = 16.dp, vertical = 6.dp),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalAlignment = Alignment.CenterVertically
                 ) {
-                    if (isLoadingFeed && isAudioStopped && !hasAudio) {
-                        CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
+                    if (isAudioStopped && (hasAudio || isLoadingFeed)) {
+                        FilledTonalButton(
+                            onClick = {
+                                val url = audioUrl ?: return@FilledTonalButton
+                                hasAutoRefreshedForAudio = false
+                                audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                            },
+                            enabled = hasAudio,
+                            modifier = Modifier.weight(1f),
+                            colors = ButtonDefaults.filledTonalButtonColors(
+                                disabledContainerColor = appFg.copy(alpha = 0.12f),
+                                disabledContentColor = appFg.copy(alpha = 0.45f)
+                            )
+                        ) {
+                            if (isLoadingFeed && !hasAudio) {
+                                CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
+                                Spacer(Modifier.width(6.dp))
+                                Text("Loading…")
+                            } else {
+                                Icon(Icons.Default.PlayArrow, null, Modifier.size(18.dp))
+                                Spacer(Modifier.width(6.dp))
+                                Text("Listen")
+                            }
+                        }
+                    }
+
+                    FilledTonalButton(
+                        onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
+                        modifier = Modifier.weight(1f)
+                    ) {
+                        Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))
                         Spacer(Modifier.width(6.dp))
-                        Text("Loading…")
-                    } else {
-                        Icon(if (isAudioStopped) Icons.Default.PlayArrow else Icons.Default.Stop, null, Modifier.size(18.dp))
-                        Spacer(Modifier.width(6.dp))
-                        Text(if (isAudioStopped) "Listen" else "Stop")
+                        Text("Study")
                     }
                 }
-
-                FilledTonalButton(
-                    onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
-                    modifier = Modifier.weight(1f)
-                ) {
-                    Icon(Icons.Default.MenuBook, null, Modifier.size(18.dp))
-                    Spacer(Modifier.width(6.dp))
-                    Text("Study")
-                }
             }
-            Spacer(Modifier.height(4.dp))
+
+            // Audio player bar and chapter strip — shown below the daf
+            if (!isAudioStopped) {
+                if (shiurSegments.isNotEmpty() && duration > 0f) {
+                    val stripListState = rememberLazyListState()
+                    LaunchedEffect(shiurSegmentIndex) {
+                        stripListState.animateScrollToItem(shiurSegmentIndex)
+                    }
+                    LazyRow(
+                        state = stripListState,
+                        horizontalArrangement = Arrangement.spacedBy(6.dp),
+                        contentPadding = PaddingValues(horizontal = 16.dp),
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        itemsIndexed(shiurSegments) { index, seg ->
+                            val isActive = index == shiurSegmentIndex
+                            Box(
+                                modifier = Modifier
+                                    .clip(RoundedCornerShape(50))
+                                    .background(
+                                        if (isActive) MaterialTheme.colorScheme.primary
+                                        else MaterialTheme.colorScheme.surfaceVariant
+                                    )
+                                    .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
+                                    .padding(horizontal = 10.dp, vertical = 4.dp)
+                            ) {
+                                androidx.compose.material3.Text(
+                                    text = seg.displayTitle,
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                                            else MaterialTheme.colorScheme.onSurfaceVariant,
+                                    maxLines = 1
+                                )
+                            }
+                        }
+                    }
+                }
+                AudioPlayerBar(audioViewModel = audioViewModel)
+            }
         }
         } // end phone else-branch
     }
@@ -637,10 +798,11 @@ private fun TabletPickerRow(
     selectedAmud: Int,
     tractate: com.anydaf.model.Tractate,
     episodeIndex: Map<String, Map<Double, String>>,
-    contentViewModel: ContentViewModel
+    contentViewModel: ContentViewModel,
+    modifier: Modifier = Modifier
 ) {
     Row(
-        modifier = Modifier.fillMaxWidth().height(88.dp),
+        modifier = modifier.fillMaxWidth().height(88.dp),
         horizontalArrangement = Arrangement.spacedBy(8.dp)
     ) {
         Card(
@@ -776,6 +938,128 @@ fun DafWheelPicker(
                     .padding(vertical = 6.dp),
                 textAlign = androidx.compose.ui.text.style.TextAlign.Center
             )
+        }
+    }
+}
+
+@Composable
+private fun CompactTabletPickers(
+    selectedTractateIndex: Int,
+    selectedDaf: Double,
+    selectedAmud: Int,
+    tractate: com.anydaf.model.Tractate,
+    episodeIndex: Map<String, Map<Double, String>>,
+    contentViewModel: ContentViewModel,
+    contentColor: Color = Color.Unspecified
+) {
+    var tractateExpanded by remember { mutableStateOf(false) }
+    var dafExpanded by remember { mutableStateOf(false) }
+    val tractateScrollState = rememberScrollState()
+    val dafScrollState = rememberScrollState()
+    val density = LocalDensity.current
+    val itemHeightPx = with(density) { 48.dp.roundToPx() }
+
+    LaunchedEffect(tractateExpanded) {
+        if (tractateExpanded) tractateScrollState.scrollTo(selectedTractateIndex * itemHeightPx)
+    }
+
+    val dafPickerItems = remember(tractate.name, episodeIndex) {
+        buildList {
+            for (n in tractate.dafRange) {
+                add(n.toDouble())
+                val half = n.toDouble() + 0.5
+                if (episodeIndex[tractate.name]?.containsKey(half) == true) add(half)
+            }
+        }
+    }
+
+    LaunchedEffect(dafExpanded) {
+        if (dafExpanded) {
+            val idx = dafPickerItems.indexOf(selectedDaf).coerceAtLeast(0)
+            dafScrollState.scrollTo(idx * itemHeightPx)
+        }
+    }
+
+    Row(
+        horizontalArrangement = Arrangement.spacedBy(4.dp),
+        verticalAlignment = Alignment.CenterVertically
+    ) {
+        val useCustomColor = contentColor != Color.Unspecified
+        val buttonColors = if (useCustomColor)
+            ButtonDefaults.outlinedButtonColors(contentColor = contentColor) else ButtonDefaults.outlinedButtonColors()
+        val buttonBorder = if (useCustomColor)
+            androidx.compose.foundation.BorderStroke(1.dp, contentColor.copy(alpha = 0.5f)) else null
+
+        // Tractate dropdown
+        Box {
+            OutlinedButton(
+                onClick = { tractateExpanded = true },
+                contentPadding = PaddingValues(horizontal = 10.dp, vertical = 2.dp),
+                colors = buttonColors,
+                border = buttonBorder
+            ) {
+                Text(
+                    tractate.name,
+                    maxLines = 1,
+                    overflow = TextOverflow.Ellipsis,
+                    modifier = Modifier.widthIn(max = 120.dp)
+                )
+            }
+            DropdownMenu(expanded = tractateExpanded, onDismissRequest = { tractateExpanded = false }, scrollState = tractateScrollState, modifier = Modifier.heightIn(max = 300.dp)) {
+                allTractates.forEachIndexed { index, t ->
+                    DropdownMenuItem(
+                        text = { Text(t.name) },
+                        onClick = {
+                            contentViewModel.selectTractate(index)
+                            tractateExpanded = false
+                        }
+                    )
+                }
+            }
+        }
+
+        // Daf dropdown
+        Box {
+            OutlinedButton(
+                onClick = { dafExpanded = true },
+                contentPadding = PaddingValues(horizontal = 10.dp, vertical = 2.dp),
+                colors = buttonColors,
+                border = buttonBorder
+            ) {
+                Text(FeedManager.dafLabel(selectedDaf), maxLines = 1)
+            }
+            DropdownMenu(
+                expanded = dafExpanded,
+                onDismissRequest = { dafExpanded = false },
+                scrollState = dafScrollState,
+                modifier = Modifier.heightIn(max = 300.dp)
+            ) {
+                dafPickerItems.forEach { daf ->
+                    DropdownMenuItem(
+                        text = { Text(FeedManager.dafLabel(daf)) },
+                        onClick = {
+                            contentViewModel.selectDaf(daf)
+                            dafExpanded = false
+                        }
+                    )
+                }
+            }
+        }
+
+        // Single amud toggle — custom Box to avoid OutlinedButton's 58dp min-width
+        val amudBorderColor = if (useCustomColor) contentColor.copy(alpha = 0.5f)
+                              else MaterialTheme.colorScheme.outline
+        val amudTextColor = if (useCustomColor) contentColor
+                            else MaterialTheme.colorScheme.onSurface
+        Box(
+            contentAlignment = Alignment.Center,
+            modifier = Modifier
+                .border(1.dp, amudBorderColor, RoundedCornerShape(50))
+                .clip(RoundedCornerShape(50))
+                .clickable { contentViewModel.selectAmud(if (selectedAmud == 0) 1 else 0) }
+                .padding(horizontal = 10.dp, vertical = 8.dp)
+        ) {
+            Text(if (selectedAmud == 0) "a" else "b", color = amudTextColor)
         }
     }
 }

@@ -26,9 +26,14 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.ScrollableTabRow
 import androidx.compose.material3.Tab
+import androidx.compose.material3.TabRowDefaults
+import androidx.compose.material3.TabRowDefaults.tabIndicatorOffset
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
+import androidx.compose.ui.graphics.Color
 import androidx.activity.compose.BackHandler
+import com.anydaf.ui.theme.AppBlue
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
@@ -39,6 +44,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.anydaf.model.StudyScope
@@ -59,12 +65,22 @@ fun StudyModeScreen(
 ) {
     val session by studyViewModel.session.collectAsState()
     val sessionObj = session
+    val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
+    val appBg = if (useWhiteBackground) MaterialTheme.colorScheme.background else AppBlue
+    val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
 
     BackHandler { onBack() }
 
     Scaffold(
+        containerColor = appBg,
         topBar = {
             TopAppBar(
+                colors = TopAppBarDefaults.topAppBarColors(
+                    containerColor = appBg,
+                    titleContentColor = appFg,
+                    actionIconContentColor = appFg,
+                    navigationIconContentColor = appFg
+                ),
                 title = {
                     if (sessionObj != null) {
                         Column {
@@ -87,14 +103,24 @@ fun StudyModeScreen(
                 },
                 actions = {
                     if (sessionObj != null && sessionObj.scope == StudyScope.FULL_DAF) {
-                        FilledTonalButton(
-                            onClick = { studyViewModel.jumpToAmudA() },
-                            modifier = Modifier.padding(end = 4.dp)
-                        ) { Text("A") }
-                        FilledTonalButton(
-                            onClick = { studyViewModel.jumpToAmudB() },
-                            modifier = Modifier.padding(end = 8.dp)
-                        ) { Text("B") }
+                        val currentAmud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
+                        val activeColors = if (!useWhiteBackground)
+                            androidx.compose.material3.ButtonDefaults.buttonColors(
+                                containerColor = Color.White.copy(alpha = 0.9f),
+                                contentColor = AppBlue
+                            ) else androidx.compose.material3.ButtonDefaults.buttonColors()
+                        val inactiveColors = if (!useWhiteBackground)
+                            androidx.compose.material3.ButtonDefaults.filledTonalButtonColors(
+                                containerColor = Color.White.copy(alpha = 0.15f),
+                                contentColor = Color.White
+                            ) else androidx.compose.material3.ButtonDefaults.filledTonalButtonColors()
+                        if (currentAmud == 0) {
+                            Button(onClick = { studyViewModel.jumpToAmudA() }, modifier = Modifier.padding(end = 4.dp), colors = activeColors) { Text("a") }
+                            FilledTonalButton(onClick = { studyViewModel.jumpToAmudB() }, modifier = Modifier.padding(end = 8.dp), colors = inactiveColors) { Text("b") }
+                        } else {
+                            FilledTonalButton(onClick = { studyViewModel.jumpToAmudA() }, modifier = Modifier.padding(end = 4.dp), colors = inactiveColors) { Text("a") }
+                            Button(onClick = { studyViewModel.jumpToAmudB() }, modifier = Modifier.padding(end = 8.dp), colors = activeColors) { Text("b") }
+                        }
                     }
                     if (sessionObj != null) {
                         val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
@@ -150,6 +176,7 @@ fun StudyModeContent(
     resourcesViewModel: ResourcesViewModel,
     isInline: Boolean = false,
     onComplete: (() -> Unit)? = null,
+    onStartStudy: (() -> Unit)? = null,
     modifier: Modifier = Modifier
 ) {
     val session by studyViewModel.session.collectAsState()
@@ -159,6 +186,7 @@ fun StudyModeContent(
     val isRateLimited by studyViewModel.isRateLimited.collectAsState()
     val rateLimitCountdown by studyViewModel.rateLimitCountdown.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
 
     var selectedTab by remember { mutableIntStateOf(0) }
 
@@ -174,47 +202,45 @@ fun StudyModeContent(
             resourcesViewModel.loadResources(s.tractate, s.daf)
         }
     }
-    LaunchedEffect(session?.daf) {
-        resourcesViewModel.reset()
-    }
 
     val currentSection = session?.currentSection
     val sessionObj = session
 
-    CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
+    CompositionLocalProvider(
+        LocalStudyFontSize provides studyFontSize.spSize.sp,
+        LocalIsBlueMode provides !useWhiteBackground
+    ) {
         Column(modifier = modifier.fillMaxSize()) {
 
             // Inline tablet header — session info + A/B jump + bookmark
+            // Inline tablet action bar — single compact row so it never grows tall.
+            // The tractate/daf headline is omitted (visible in the left-panel pickers);
+            // only the current-section label + A/B jumps + bookmark are shown.
             if (isInline && sessionObj != null) {
+                val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
+                val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
+                val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(horizontal = 12.dp, vertical = 6.dp),
-                    verticalAlignment = Alignment.CenterVertically
+                        .padding(horizontal = 8.dp, vertical = 2.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(4.dp)
                 ) {
-                    Column(modifier = Modifier.weight(1f)) {
-                        Text(
-                            "${sessionObj.tractate} ${sessionObj.daf}",
-                            style = MaterialTheme.typography.titleMedium
-                        )
-                        currentSection?.let {
-                            Text(it.title, style = MaterialTheme.typography.bodySmall,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant)
-                        }
-                    }
+                    val blueMode = LocalIsBlueMode.current
+                    Text(
+                        text = currentSection?.title ?: "${sessionObj.tractate} ${sessionObj.daf}",
+                        style = MaterialTheme.typography.bodySmall,
+                        color = if (blueMode) Color.White.copy(alpha = 0.75f)
+                                else MaterialTheme.colorScheme.onSurfaceVariant,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis,
+                        modifier = Modifier.weight(1f)
+                    )
                     if (sessionObj.scope == StudyScope.FULL_DAF) {
-                        FilledTonalButton(
-                            onClick = { studyViewModel.jumpToAmudA() },
-                            modifier = Modifier.padding(end = 4.dp)
-                        ) { Text("A") }
-                        FilledTonalButton(
-                            onClick = { studyViewModel.jumpToAmudB() },
-                            modifier = Modifier.padding(end = 4.dp)
-                        ) { Text("B") }
+                        FilledTonalButton(onClick = { studyViewModel.jumpToAmudA() }) { Text("A") }
+                        FilledTonalButton(onClick = { studyViewModel.jumpToAmudB() }) { Text("B") }
                     }
-                    val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
-                    val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
-                    val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
                     IconButton(onClick = {
                         if (tractateIndex < 0) return@IconButton
                         if (isBookmarked) {
@@ -285,14 +311,8 @@ fun StudyModeContent(
                 }
                 sessionObj == null -> {
                     if (isInline) {
-                        // Tablet: no session yet — prompt to start studying
-                        Box(Modifier.fillMaxSize(), Alignment.Center) {
-                            Text(
-                                "Tap Study to begin",
-                                style = MaterialTheme.typography.bodyLarge,
-                                color = MaterialTheme.colorScheme.onSurfaceVariant
-                            )
-                        }
+                        LaunchedEffect(Unit) { onStartStudy?.invoke() }
+                        Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
                     } else {
                         Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
                     }
@@ -310,7 +330,17 @@ fun StudyModeContent(
                     }
                 }
                 else -> {
-                    ScrollableTabRow(selectedTabIndex = selectedTab) {
+                    ScrollableTabRow(
+                        selectedTabIndex = selectedTab,
+                        edgePadding = 0.dp,
+                        indicator = { tabPositions ->
+                            TabRowDefaults.SecondaryIndicator(
+                                modifier = Modifier.tabIndicatorOffset(tabPositions[selectedTab]),
+                                height = 4.dp,
+                                color = Color(0xFF0059EA)
+                            )
+                        }
+                    ) {
                         listOf("Text", "Summary", "Quiz", "Resources").forEachIndexed { index, title ->
                             Tab(
                                 selected = selectedTab == index,

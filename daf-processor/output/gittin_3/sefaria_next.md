@@ -1,0 +1,53 @@
+### Gittin 4a
+
+**1.**
+*Hebrew/Aramaic:* וַחֲתָמוֹ וּנְתָנוֹ לָהּ – כָּשֵׁר! וְכִי תֵּימָא אֲנַן מִדְּאוֹרָיְיתָא קָא מַתְנִינַן לַהּ, אִי הָכִי, ״אוֹמֵר הָיָה רַבִּי מֵאִיר דְּבַר תּוֹרָה״ מִיבְּעֵי לֵיהּ!
+*Translation:* **and he signed it and gave it to** his wife, it is **a valid** bill of divorce? **And if you would say** that **we learned** that **this** statement of Rav Naḥman applies **by Torah law,** whereas by rabbinic law Rabbi Meir concedes that a bill of divorce must be written for her sake, **if so,** Rav Naḥman **should have** said: **Rabbi Meir would say** that **by Torah law** if a husband found a document in the garbage he may use it.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא לְעוֹלָם רַבִּי אֶלְעָזָר הִיא, וְכִי לָא בָּעֵי רַבִּי אֶלְעָזָר חֲתִימָה – הֵיכָא דְּלֵיכָּא עֵדִים כְּלָל; הֵיכָא דְּאִיכָּא עֵדִים – בָּעֵי. דְּאָמַר רַבִּי אַבָּא: מוֹדֶה רַבִּי אֶלְעָזָר בִּמְזוּיָּיף מִתּוֹכוֹ, שֶׁהוּא פָּסוּל.
+*Translation:* **Rather,** the Gemara retracts the previous answer and states: **Actually,** the mishna **is** in accordance with the opinion of **Rabbi Elazar, and when does Rabbi Elazar not require** that the **signing** must be for her sake? **Where there are no witnesses at all** on the bill of divorce. However, **where there are witnesses, he does require** that all their signatures must be for her sake. The proof for this is **that Rabbi Abba says: Rabbi Elazar concedes with regard to** a document whose **falsification is inherent in it,** i.e., a document that is signed by disqualified witnesses, **that it is invalid.** This shows that although Rabbi Elazar maintains that a lack of signatures does not invalidate a bill of divorce, all signatures included in the bill of divorce must be valid; otherwise the document is rendered invalid.
+
+**3.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: הָא מַנִּי? רַבִּי יְהוּדָה הִיא, דִּתְנַן: רַבִּי יְהוּדָה פּוֹסֵל, עַד שֶׁתְּהֵא כְּתִיבָתוֹ וַחֲתִימָתוֹ בְּתָלוּשׁ.
+*Translation:* **Rav Ashi said** a different explanation: In accordance with **whose** opinion **is this** mishna? **It is** in accordance with a third opinion, that of **Rabbi Yehuda. As we learned** in a mishna (21b): **Rabbi Yehuda invalidates** a bill of divorce **unless its writing and signing** are performed **on** an item that is **detached** from the ground. According to this opinion, both the writing and the signing must be done for her sake.
+
+**4.**
+*Hebrew/Aramaic:* וּמֵעִיקָּרָא מַאי טַעְמָא לָא מוֹקְמִינַן לַהּ כְּרַבִּי יְהוּדָה?
+*Translation:* The Gemara asks: **And initially, what is the reason we did not establish** the mishna **in accordance with** the opinion of **Rabbi Yehuda?** Since Rabbi Yehuda’s opinion is explicitly stated in a mishna, isn’t it obvious that this mishna also follows his ruling?
+
+**5.**
+*Hebrew/Aramaic:* מְהַדְּרִינַן אַרַבִּי מֵאִיר, דִּסְתַם מַתְנִיתִין רַבִּי מֵאִיר; מְהַדְּרִינַן אַרַבִּי אֶלְעָזָר, דְּקַיְימָא לַן הִילְכְתָא כְּווֹתֵיהּ בְּגִיטִּין.
+*Translation:* The Gemara answers: **We seek** to explain the mishna **in accordance with** the opinion of **Rabbi Meir,** as there is a general principle **that** a ruling in **an unattributed mishna** is in accordance with the opinion of **Rabbi Meir.** Likewise, **we seek** to interpret the mishna in accordance with the ruling of **Rabbi Elazar, as we maintain** in general that **the *halakha* is in accordance with his** opinion **with regard to bills of divorce.** For these reasons, the Gemara first attempted to interpret the mishna in accordance with the opinion of one of these *tanna’im*, not that of Rabbi Yehuda.
+
+**6.**
+*Hebrew/Aramaic:* תְּנַן, רַבָּן גַּמְלִיאֵל אוֹמֵר: אַף הַמֵּבִיא מִן הָרְקָם וּמִן הַחֶגֶר. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אֲפִילּוּ מִכְּפַר לוּדִּים לְלוֹד. וְאָמַר אַבָּיֵי: בַּעֲיָירוֹת הַסְּמוּכוֹת לְאֶרֶץ יִשְׂרָאֵל וּמוּבְלָעוֹת בִּתְחוּם אֶרֶץ יִשְׂרָאֵל עָסְקִינַן,
+*Translation:* § The Gemara continues to explain the mishna in light of the dispute between Rabba and Rava. **We learned** in the mishna that **Rabban Gamliel says: Even one who brings** a bill of divorce **from Rekem or from Ḥeger** must say: It was written in my presence and it was signed in my presence. **Rabbi Eliezer says: Even** one who brings a bill of divorce **from the village of Ludim to Lod. And Abaye said** in explanation of this matter: **We are dealing with towns** that are not part of the land itself, but **are near Eretz Yisrael and within the boundary of Eretz Yisrael.**
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר רַבָּה בַּר בַּר חָנָה: לְדִידִי חֲזֵי לִי הָהוּא אַתְרָא, וְהָוֵי כְּמִבֵּי כוּבֵּי לְפוּמְבְּדִיתָא.
+*Translation:* **And Rabba bar bar Ḥana said: I myself saw that place,** i.e., the distance between the village of Ludim and Lod, **and it was similar** to the distance **from Bei Kuvei to Pumbedita,** which is only a short distance.
+
+**8.**
+*Hebrew/Aramaic:* מִכְּלָל דְּתַנָּא קַמָּא סָבַר הָנֵי לָא צְרִיךְ; מַאי, לָאו בְּהָא קָמִיפַּלְגִי – דְּמָר סָבַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ, וְהָנֵי גְּמִירִי; וּמָר סָבַר לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ, וְהָנֵי נָמֵי לָא שְׁכִיחִי?
+*Translation:* The Gemara analyzes the mishna: One can derive **by inference that the first *tanna*** of the mishna **holds** that in **these** places the agent **is not required** to testify that the bill of divorce was written and signed for the woman’s sake. **What, is it not** the case that **they disagree with regard to this** principle, **as** one **Sage,** the first *tanna*, **holds** that the reason for saying: It was written in my presence and it was signed in my presence, is **because** people living overseas **are not experts** in writing a bill of divorce **for her sake, and** the residents of **these** places **are learned** in this matter, as they are near Eretz Yisrael. **And** one **Sage,** Rabban Gamliel, **holds:** The reason is **because there are no witnesses available to ratify it, and** the residents of **these** places **are also not frequently** available, as they live on the other side of the border, and it is difficult to bring witnesses from one place to another.
+
+**9.**
+*Hebrew/Aramaic:* לָא; רַבָּה מְתָרֵץ לְטַעְמֵיהּ, וְרָבָא מְתָרֵץ לְטַעְמֵיהּ. רַבָּה מְתָרֵץ לְטַעְמֵיהּ: דְּכוּלֵּי עָלְמָא לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ, וְהָכָא בְּהָא קָמִיפַּלְגִי – תַּנָּא קַמָּא סָבַר, הָנֵי כֵּיוָן דִּסְמוּכוֹת מִיגְמָר גְּמִירִי;
+*Translation:* The Gemara rejects this suggestion: **No,** there is no proof that this issue is a dispute among *tanna’im*, as **Rabba resolves** the different opinions in the mishna according **to his** line of **reasoning, and Rava resolves** them according **to his** line of **reasoning.** The Gemara elaborates: **Rabba resolves** them according **to his** line of **reasoning, as everyone** agrees that the reason is **because they are not experts** in writing a bill of divorce **for her sake. And here they disagree with regard to this** issue: **The first *tanna* holds** that **since** the residents of **these** cities **are** located **near** Eretz Yisrael, they **are** assumed to be **learned** in this *halakha*.
+
+**10.**
+*Hebrew/Aramaic:* וַאֲתָא רַבָּן גַּמְלִיאֵל לְמֵימַר, מוּבְלָעוֹת גְּמִירִי, סְמוּכוֹת לָא גְּמִירִי; וַאֲתָא רַבִּי אֱלִיעֶזֶר לְמֵימַר, מוּבְלָעוֹת נָמֵי לָא, שֶׁלֹּא תַּחְלוֹק בִּמְדִינַת הַיָּם.
+*Translation:* **And Rabban Gamliel came to say:** Granted, the residents of those cities that **are within** the boundary of Eretz Yisrael **are learned** in this *halakha*, however, the residents of these cities that are only **near** Eretz Yisrael **are not learned. And Rabbi Eliezer came to say,** when he mentioned the village of Ludim and the town of Lod, that the residents of those cities that **are within** the boundary of Eretz Yisrael are **also not** treated as learned, so **that you should not make a distinction within** separate areas of **the country overseas.** In other words, anywhere that is not part of the Jewish settlement of Eretz Yisrael is classified as outside, even if they are familiar with the *halakhot* of bills of divorce.
+
+**11.**
+*Hebrew/Aramaic:* רָבָא מְתָרֵץ לְטַעְמֵיהּ: דְּכוּלֵּי עָלְמָא לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ – וְתַנָּא קַמָּא סָבַר, הָנֵי כֵּיוָן דִּסְמוּכוֹת מִישְׁכָּח שְׁכִיחִי;
+*Translation:* Likewise, **Rava resolves** the various opinions in the mishna according **to his** line of **reasoning.** He maintains **that everyone** agrees that the reason for the declaration: It was written in my presence and it was signed in my presence, is **because there are no witnesses available to ratify it. And the first *tanna* holds: Since** the residents of **these** cities **are nearby** they **are frequently** available.
+
+**12.**
+*Hebrew/Aramaic:* וַאֲתָא רַבָּן גַּמְלִיאֵל לְמֵימַר, מוּבְלָעוֹת שְׁכִיחִי, סְמוּכוֹת לָא שְׁכִיחִי; וַאֲתָא רַבִּי אֱלִיעֶזֶר לְמֵימַר, מוּבְלָעוֹת נָמֵי לָא, שֶׁלֹּא תַּחְלוֹק בִּמְדִינַת הַיָּם.
+*Translation:* **And Rabban Gamliel came to say:** The residents of cities **within** the boundary of Eretz Yisrael **are frequently** available. However, the residents of places that are merely **near** Eretz Yisrael **are not frequently** available. **And Rabbi Eliezer came to say** that the residents of those cities that **are within** the boundary of Eretz Yisrael are **also not** considered to be like Eretz Yisrael in this matter, despite their proximity to the Jewish settlement, so **that you should not make a distinction within** separate areas of **a country overseas.**
+
+**13.**
+*Hebrew/Aramaic:* תְּנַן, וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ שֶׁיֹּאמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״, אֶלָּא הַמֵּבִיא מִמְּדִינַת הַיָּם וְהַמּוֹלִיךְ. מִכְּלָל דְּתַנָּא קַמָּא סָבַר מוֹלִיךְ לָא צְרִיךְ; מַאי, לָאו בְּהָא קָמִיפַּלְגִי – דְּמָר סָבַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ,
+*Translation:* § **We learned** in the mishna: **And the Rabbis say** that **one is required to say: It was written in my presence and it was signed in my presence, only** if he **brings** a bill of divorce **from a country overseas** to Eretz Yisrael, **and** the same applies to **one who delivers** a bill of divorce from Eretz Yisrael to a country overseas. The Gemara analyzes this statement: One can learn **by inference that the first *tanna*** of the mishna **holds** that **one who delivers** a bill of divorce from Eretz Yisrael to a country overseas **is not required** to say this declaration. **What, is it not** the case that **they disagree with regard to this** principle, **as** one **Sage,** the first *tanna*, **holds** that the reason for the declaration is **because they are not experts** in writing a bill of divorce **for her sake,**

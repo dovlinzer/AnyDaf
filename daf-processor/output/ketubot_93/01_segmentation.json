@@ -1,0 +1,397 @@
+{
+  "masechta": "Ketubot",
+  "daf": 93,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "The Mishna on Three Wives with Different Ketubah Amounts and the Estate Division Problem",
+      "display_title": "Three Wives Case",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction and Setup of the Mishna: Three Women Married on the Same Day with Different Ketubah Claims",
+          "display_title": "Mishna Setup",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "First Case: Estate Worth 100, Three Claims of 100, 200, and 300 - Equal Division Among All",
+          "display_title": "Estate = 100",
+          "timestamp": "00:33"
+        },
+        {
+          "title": "Second Case: Estate Worth 200 - Distribution of 50, 75, 75 and the Logical Problem It Presents",
+          "display_title": "Estate = 200",
+          "timestamp": "02:04"
+        },
+        {
+          "title": "Third Case: Estate Worth 300 - Distribution of 50, 100, 150 Following Proportional Claims",
+          "display_title": "Estate = 300",
+          "timestamp": "06:15"
+        },
+        {
+          "title": "The Distinction Between Two Models: Contested Amount Principle vs. Proportional Investment Model",
+          "display_title": "Two Models Explained",
+          "timestamp": "06:56"
+        }
+      ]
+    },
+    {
+      "title": "Robert Aumann's Game-Theoretic Solution to the Mishna's Division Problem",
+      "display_title": "Aumann's Solution",
+      "timestamp": "08:06",
+      "micro_segments": [
+        {
+          "title": "Introduction to Robert Aumann and His Paper on the Three Women Case",
+          "display_title": "Aumann Introduction",
+          "timestamp": "08:06"
+        },
+        {
+          "title": "The Principle of Shnayim Ochzim (Two Claimants): Focusing on What Is Conceded vs. What Is Disputed",
+          "display_title": "Shnayim Ochzim Model",
+          "timestamp": "10:03"
+        },
+        {
+          "title": "Aumann's Insight: The Solution Works When Examined in Pairs of Claimants",
+          "display_title": "Pairwise Analysis",
+          "timestamp": "11:41"
+        },
+        {
+          "title": "Working Backwards: How 50, 75, 75 and 50, 100, 150 Follow the Pairwise Principle",
+          "display_title": "Backwards Calculation",
+          "timestamp": "12:00"
+        },
+        {
+          "title": "Verification: Demonstrating That All Pairwise Scenarios (100-200, 200-300, 100-300) Satisfy the Disputed Amount Rule",
+          "display_title": "Pairwise Verification",
+          "timestamp": "13:00"
+        },
+        {
+          "title": "The Uniqueness Theorem: Why This Is the Only Solution That Works for All Pairwise Combinations",
+          "display_title": "Uniqueness Proof",
+          "timestamp": "14:43"
+        }
+      ]
+    },
+    {
+      "title": "The Gemara's Attempts to Explain the Mishna Through Ad Hoc Interpretations",
+      "display_title": "Gemara Solutions",
+      "timestamp": "18:57",
+      "micro_segments": [
+        {
+          "title": "The Gemara's Problem: Why Does the 100 Woman Get 50 Instead of 33⅓?",
+          "display_title": "Gemara Problem",
+          "timestamp": "18:57"
+        },
+        {
+          "title": "Shmuel's First Solution: Mrs. 200 Waives Her Claim Against Mrs. 100 in the First 100",
+          "display_title": "Shmuel's First Case",
+          "timestamp": "21:02"
+        },
+        {
+          "title": "Resolving the Contradiction: How Waiving a Claim Works and Its Logical Limits",
+          "display_title": "Waiver Logic",
+          "timestamp": "22:00"
+        },
+        {
+          "title": "Shmuel's Second Solution: Mrs. 300 Removes Herself from the First 100",
+          "display_title": "Shmuel's Second Case",
+          "timestamp": "26:16"
+        },
+        {
+          "title": "Rabbi Yaakov's Explanation: Staged Seizure Model (Two Acquisitions)",
+          "display_title": "Staged Seizure Model",
+          "timestamp": "27:25"
+        },
+        {
+          "title": "Working Through the Staged Model: How 75 Seized First, Then 225 Seized Second",
+          "display_title": "Two Stages Analysis",
+          "timestamp": "28:35"
+        }
+      ]
+    },
+    {
+      "title": "The Opinion of Rabbi: Proportional Distribution and Rebbi's Implicit Adoption of the Mishna",
+      "display_title": "Rabbi's Position",
+      "timestamp": "35:36",
+      "micro_segments": [
+        {
+          "title": "Rabbi's Statement: 'I Do Not Understand Rabbi Natan's Words' and His Alternative of Equal Division",
+          "display_title": "Rabbi Rejects Natan",
+          "timestamp": "35:36"
+        },
+        {
+          "title": "The Question of Why the Mishna Presents Rabbi Natan's View: Authorial Authority in the Mishnaic Tradition",
+          "display_title": "Mishna Authority Q",
+          "timestamp": "37:38"
+        },
+        {
+          "title": "Tosafot's Interpretation: Cholkim B'Shaveh Means Proportional Division by Claim Size",
+          "display_title": "Tosafot on Proportional",
+          "timestamp": "39:03"
+        }
+      ]
+    },
+    {
+      "title": "Investment Partnership (Hitilu LaKis) and the Debate Over Divisible vs. Non-Divisible Assets",
+      "display_title": "Investment Partnership",
+      "timestamp": "40:54",
+      "micro_segments": [
+        {
+          "title": "Shmuel's Teaching: Two Partners Invest 100 and 200; All Profits Divided Equally",
+          "display_title": "Shmuel Investment",
+          "timestamp": "40:54"
+        },
+        {
+          "title": "Rava's Limitation: The Indivisible Asset Model - The Case of a Plow Ox",
+          "display_title": "Rava's Indivisible Asset",
+          "timestamp": "41:12"
+        },
+        {
+          "title": "Rav Hamnuna's Counter-Position: Equal Division Even When the Asset Becomes Divisible",
+          "display_title": "Hamnuna's Position",
+          "timestamp": "44:27"
+        },
+        {
+          "title": "The Gemara's Resolution: Distinguishing Between an Ox Bought for Plowing vs. Slaughtering",
+          "display_title": "Plowing vs. Slaughter",
+          "timestamp": "48:13"
+        },
+        {
+          "title": "Tosafta's Clarification: When Mixed Discrete Objects Are Present, Division Is Proportional",
+          "display_title": "Tosafta Discrete Goods",
+          "timestamp": "49:02"
+        }
+      ]
+    },
+    {
+      "title": "Connecting the Investment Rule to the Three Wives Mishna and the Question of Intrinsic Value",
+      "display_title": "Investment & Wives Link",
+      "timestamp": "51:44",
+      "micro_segments": [
+        {
+          "title": "The Mishna's Final Rule: When Profit or Loss Occurs in Investments, Division Is Proportional",
+          "display_title": "Investment Profit Rule",
+          "timestamp": "51:44"
+        },
+        {
+          "title": "Rav Nachman's Explanation: The Money Itself Changes in Intrinsic Value (Zuza Chadtiti)",
+          "display_title": "Intrinsic Value Change",
+          "timestamp": "52:29"
+        },
+        {
+          "title": "The Implication: Proportional Division Applies When Dealing with Principal Value Changes",
+          "display_title": "Principal Value Impact",
+          "timestamp": "53:01"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Ketubot (marriage contracts) - varying amounts",
+      "timestamps": [
+        "00:15",
+        "00:19",
+        "00:40",
+        "01:40",
+        "02:12"
+      ]
+    },
+    {
+      "term": "Shnayim Ochzim (two claimants holding one item)",
+      "timestamps": [
+        "10:24",
+        "16:04",
+        "16:08",
+        "16:18"
+      ]
+    },
+    {
+      "term": "Division of disputed vs. conceded portions",
+      "timestamps": [
+        "10:11",
+        "10:18",
+        "19:37",
+        "22:46"
+      ]
+    },
+    {
+      "term": "Robert Aumann and game-theoretic solution",
+      "timestamps": [
+        "08:06",
+        "09:24",
+        "10:40",
+        "14:43",
+        "16:21"
+      ]
+    },
+    {
+      "term": "Pairwise analysis of claimants",
+      "timestamps": [
+        "11:41",
+        "12:00",
+        "12:07",
+        "13:00",
+        "14:02"
+      ]
+    },
+    {
+      "term": "Proportional claims based on investment size",
+      "timestamps": [
+        "06:56",
+        "07:04",
+        "07:10",
+        "40:06",
+        "49:02"
+      ]
+    },
+    {
+      "term": "Bava Metzia model of disputed property",
+      "timestamps": [
+        "10:24",
+        "10:26",
+        "13:02",
+        "19:58"
+      ]
+    },
+    {
+      "term": "Shmuel's interpretation (waiving claims in first 100)",
+      "timestamps": [
+        "21:02",
+        "21:17",
+        "21:30",
+        "22:00"
+      ]
+    },
+    {
+      "term": "Shmuel's second case (Mrs. 300 exits first 100)",
+      "timestamps": [
+        "26:16",
+        "26:23",
+        "26:40"
+      ]
+    },
+    {
+      "term": "Rabbi Yaakov's staged seizure (Tefisot) explanation",
+      "timestamps": [
+        "27:25",
+        "27:36",
+        "27:42",
+        "28:17",
+        "28:35"
+      ]
+    },
+    {
+      "term": "Rabbi's rejection of Rabbi Natan's view",
+      "timestamps": [
+        "35:36",
+        "35:43",
+        "37:38",
+        "38:46"
+      ]
+    },
+    {
+      "term": "Tosafot's proportional interpretation",
+      "timestamps": [
+        "39:03",
+        "39:06",
+        "40:41"
+      ]
+    },
+    {
+      "term": "Hitilu LaKis (investment partnership)",
+      "timestamps": [
+        "08:39",
+        "08:42",
+        "40:54",
+        "41:02",
+        "51:44"
+      ]
+    },
+    {
+      "term": "Indivisible assets (Shor L'Charisha)",
+      "timestamps": [
+        "42:23",
+        "42:31",
+        "44:27",
+        "48:13",
+        "48:55"
+      ]
+    },
+    {
+      "term": "Divisible vs. non-divisible assets",
+      "timestamps": [
+        "42:27",
+        "42:31",
+        "45:16",
+        "45:20",
+        "48:26"
+      ]
+    },
+    {
+      "term": "Rava's position on equal division of rental",
+      "timestamps": [
+        "42:16",
+        "42:23",
+        "44:17"
+      ]
+    },
+    {
+      "term": "Rav Hamnuna's counter-position",
+      "timestamps": [
+        "44:27",
+        "44:28",
+        "50:38"
+      ]
+    },
+    {
+      "term": "Ox bought for plowing vs. slaughter (Shor L'Charisha V'Omed L'Tevichah)",
+      "timestamps": [
+        "42:31",
+        "48:13",
+        "48:55",
+        "50:41"
+      ]
+    },
+    {
+      "term": "Tosafta's discrete goods rule",
+      "timestamps": [
+        "49:02",
+        "49:06",
+        "49:45"
+      ]
+    },
+    {
+      "term": "Intrinsic value of money (Zuza Chadtiti)",
+      "timestamps": [
+        "52:29",
+        "52:39",
+        "53:16"
+      ]
+    },
+    {
+      "term": "Profit and loss in investments (Pichatu O Hotiru)",
+      "timestamps": [
+        "51:51",
+        "51:55",
+        "52:04",
+        "52:29"
+      ]
+    },
+    {
+      "term": "Geonim's view on disputed vs. conceded",
+      "timestamps": [
+        "10:06",
+        "10:11"
+      ]
+    },
+    {
+      "term": "Rashi's explanation of the mishna cases",
+      "timestamps": [
+        "00:42",
+        "32:31",
+        "43:46"
+      ]
+    }
+  ]
+}

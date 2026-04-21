@@ -1,155 +1,239 @@
 # Meilah 20 — Daf Yomi Shiur
 
-## Stealing & Appropriation
+## Appropriation & Stealing
 
 ### Taking Stone/Beam
 
-The Mishnah at the bottom of 19b introduces a form of *me'ilah* that has not yet been the primary focus of this tractate: the act of taking possession — appropriation, or stealing — from *hekdesh*. The Mishnah states: *natalt even o karah* — if one takes a stone or a beam belonging to *hekdesh*, *harei zeh lo ma'al* — one has not yet committed *me'ilah*. It is only *ad nesano lechavero* — upon giving it to a friend — that *hu ma'al*, one has committed *me'ilah*, while *chaveiro lo ma'al*, the friend has not.
+We pick up with the *mishnah* at the bottom of 19b, which introduces a form of *me'ilah* that has not yet been the focus of our discussion: the *me'ilah* of appropriation — that is, taking and stealing from *hekdesh*. Until now we have been examining *me'ilah* through the lens of deriving benefit (*hana'ah*) from sanctified property, and how such an act violates and extinguishes the *kedushah* — with the exception of objects possessing *kedushas haguf*, intrinsic sanctity, such as a *korban* or *kli shareis*, from which the *kedushah* cannot be removed. Now the *mishnah* turns to a different mode of transgression.
 
-The question immediately presents itself: why does the very act of taking not itself constitute *me'ilah*? The Gemara will address this directly, and as we shall see, it frames the answer as a special case. But it is worth pausing to appreciate the conceptual difficulty. If one were to imagine sneaking into *hekdesh*'s warehouse and removing an object, that would seem clearly to be an act of appropriation. Yet one could equally imagine a scenario where one had sanctified a beam — dedicating it to *hekdesh* — and then retook it. What exactly constitutes "stealing" from *hekdesh* is not always self-evident. What the Mishnah focuses on is that the decisive act is the transfer to another person: that is when one has unmistakably removed the object from *hekdesh*'s domain and placed it in another's hands, and that is when *me'ilah* is triggered.
+### Natalt Even - Transfer
 
-As for the friend who received it — why is he not *mo'el*? Because the fundamental actor in the removal was the one who gave it, not the recipient. And if the friend were subsequently to derive benefit from it, he would still not be *mo'el*, by virtue of the principle of *ain me'ilah achar me'ilah*, which was established in the previous Mishnah: once *me'ilah* has been committed, the *kedushah* departs, and no subsequent act of benefit triggers a further *me'ilah*.
+The *mishnah* states: *natalt even o karah* — if one takes a stone or beam belonging to *hekdesh*, *harei zeh lo ma'al* — one has not yet committed *me'ilah*. It is only *ad nesano lechavero* — upon giving it to another person — that *hu ma'al*: the giver has committed *me'ilah*, and *chavero lo ma'al* — the recipient has not.
 
-This raises a broader question about the conceptual structure of this form of *me'ilah*. Is appropriation — the act of taking possession — a genuinely distinct category of *me'ilah*, separate from *hana'ah*? Or can it be subsumed under the rubric of benefit? Some suggest that when one gives the object to a friend, one is in effect deriving benefit through the object: disposing of it as one sees fit, conferring it upon another, is itself a form of *hana'ah*. On this reading, there is no independent category of stealing within *me'ilah* — it is always, at bottom, about *hana'ah*, even when the recipient of that benefit is someone else. Others hold that this is a distinct mode of *me'ilah*, centered on the act of taking rather than on the enjoyment of benefit. This remains a live conceptual question as we work through the Mishnah and Gemara.
+The question immediately presents itself: why is the very act of taking not itself *me'ilah*? The *gemara* will address this, but even before that discussion, one must recognize that the question is not always simple. Consider a case where one had sanctified a beam with the intention of donating it to *hekdesh* and then took it back — what does "taking from *hekdesh*" even mean when the object is already in one's possession? The *gemara* will treat the *mishnah* as a special case, as we shall see. In any event, the act of giving to another person constitutes a clear taking-away from *hekdesh*'s control — a genuine act of appropriation.
 
-A comparison to *shlichus yad* by a *pikadon* is instructive. If one is watching another's property and acts to appropriate it — *sholeiach yad* — one becomes liable for any losses. The question there too is: what constitutes the act of appropriation? Moving the object? Forming an intention to take it? The analogy is imperfect, but it highlights how defining "the act of taking" is a persistent challenge in Talmudic law wherever possession and control are contested.
+As for why the recipient has not committed *me'ilah*: it is the giver who has performed the act of removing and stealing, not the friend. And were the recipient to subsequently benefit from the object, would he be liable? No — because of the principle of *ain me'ilah achar me'ilah*, as established in the previous *mishnah*: once the first person has been *mo'el*, the *kedushah* has departed, and no further act of *me'ilah* can apply.
+
+### Stealing vs. Benefit
+
+This raises a fundamental conceptual question: is this form of *me'ilah* categorically distinct from the *me'ilah* of *hana'ah*, or are they ultimately one and the same? It is worth comparing this to the laws of *shlichus yad* in the context of a *pikadon*: if one is entrusted with another's property and places one's hand upon it with intent to appropriate, one becomes liable for losses — but what exactly defines that act of taking? Is it physical movement? Is it intent? The parallel is instructive.
+
+Some commentators seek to collapse the distinction entirely, arguing that giving an object of *hekdesh* to another person is itself a form of *hana'ah* — the giver derives benefit by disposing of the property as he sees fit, and the recipient derives benefit from receiving it. On this reading, there is no independent category of *me'ilah* through theft; it is always reducible to *hana'ah*. But the more straightforward reading is that this *mishnah* introduces a genuinely distinct mode: the *me'ilah* of taking and stealing, not merely of benefiting. The conceptual question of whether these two modes are ultimately unified or truly separate is one the *gemara* will leave open. What we can say is that different forms of *me'ilah* do combine with one another — if one appropriates half a *prutah*'s worth and separately derives half a *prutah* of *hana'ah*, those two combine — which suggests that at some level the law treats them as equivalent.
+
+---
+
+## Built into House
+
+### Benefit Requirement
+
+The *mishnah* continues: *uvenaso betoch beiso* — if one built the stone or beam into one's house — *harei zeh lo ma'al* until *ad sheyehene mimenu beshveh prutah*: until one derives a *prutah*'s worth of *hana'ah* from it. On its face, this seems extraordinary. One has physically built consecrated material into one's own home, and yet this does not constitute *me'ilah*? The *mishnah*'s logic, however, is consistent with the first case: merely taking the material — even incorporating it into one's home — is not yet a completed act of appropriation. One must either transfer it to another or derive actual *hana'ah* from it.
+
+### Building & Taking
+
+The *gemara* will press on this with two obvious questions. First, isn't the very act of building the material into one's house sufficient to establish that one has stolen it, if stealing is indeed a recognized form of *me'ilah*? And second, even before one has actually lived under the beam and enjoyed its shelter, hasn't one already derived *hana'ah* from the mere improvement to one's home? A house with a good beam is worth more than one without it. Both questions will be addressed when we turn to the *gemara*'s analysis.
+
+---
+
+## Bathhouse Transaction
+
+### Entry Rights = Me'ilah
+
+The *mishnah* presents a third case: *netanu l'balan* — one gave *hekdesh* money to the bathhouse attendant. *Af al pi she'lo rachatz ma'al* — even though one has not yet bathed, one has already committed *me'ilah*. One might have thought that since the transaction is incomplete — the money has been paid but the bath not yet taken — the *me'ilah* has not yet taken effect.
+
+### Transaction Complete
+
+The *mishnah* explains: *she'hu omer lo harei hamerchat patuach lefanecha, hachneis u'rechatz* — the attendant says, "The bathhouse is open before you; go in and bathe." The moment this is said, the transaction is complete: the person has paid the entrance fee and holds the right of entry. Even without having bathed, the transaction has been legally consummated. The *me'ilah* therefore takes effect at that moment.
+
+These three cases together establish a pattern: the act of taking is not *me'ilah* until it is complete in a legally meaningful sense. In the first case, that completion comes through transferring the object to another; in the last case, through concluding a binding transaction. The middle case — building into one's house — requires deriving actual *hana'ah*. What ties them all together is that mere physical handling, even with intent to appropriate, is not yet *me'ilah*. The question that follows naturally is: why not?
+
+A related question deserves attention here. Even granting that *me'ilah* from *hekdesh* operates differently from ordinary theft — where leaving stolen goods in one's yard already constitutes theft — once *me'ilah* is committed and the *kedushah* departs, does the object now belong to the one who was *mo'el*? The principle of *ain me'ilah achar me'ilah* tells us that the *kedushah* is gone, but it does not straightforwardly address the question of ownership. This remains an open matter, not resolved by the *mishnah*'s formulation.
 
 ---
 
 ## Combining Benefits
 
-### Eating/Benefit Forms
+### Hana'ah Combination
 
-The Mishnah continues with a principle that was established in earlier discussion: *achilaso v'achilas chaveiro, hanayaso v'hanayas chaveiro, achilaso v'hanayas chaveiro, hanayaso v'achilas chaveiro — mitztarfin zeh im zeh, v'afilu l'zman merubeh*. One's own eating combines with a friend's eating, one's own benefit combines with a friend's benefit, and all permutations thereof combine, even across a long span of time.
+The *mishnah* then states a principle we have encountered before, though it receives little further analysis in the *gemara* here: *achilaso v'achilas chaveiro, hanayaso v'hanayas chaveiro, achilaso v'hanayas chaveiro, hanayaso v'achilas chaveiro — mitztarfin zeh im zeh, v'afilu l'zman merubeh*. One's own eating and another's eating, one's own benefit and another's benefit, one's eating and another's benefit, one's benefit and another's eating — all of these combine, even over a long period of time.
 
-This is the fundamental rule that *me'ilah* is not structured like the prohibitions of *achilah* — it does not require a *kezayis* consumed within *toch kedei achilas pras* by a single individual. *Me'ilah* is about a *perutah*'s worth of benefit, aggregated across people and time. Crucially, the structure here is that one person is the active actor — the one who takes the *hekdesh* oil and applies it to another's skin — and the friend is the passive recipient. The *me'ilah* belongs to the one who took and acted, even though the *hana'ah* accrued to the other.
+This is distinct from the laws of eating in other halachic contexts, where the relevant measure is a *kezayis* consumed within *toch kedei achilas pras*. Here the relevant measure is a *prutah*, and the combination may occur over an extended period.
 
-### Stealing vs. Benefit
+### Stealing as Hana'ah
 
-The fact that the Mishnah closes this section with the language of *achilah* and *hana'ah* is itself suggestive. It might indicate that the act of giving to a friend described in the opening of the Mishnah — the beam, the stone — is being conceived as a form of *hana'ah*: just as applying *hekdesh* oil to a friend's skin is one's own *me'ilah* because one removed it from *hekdesh*'s domain and conveyed *hana'ah* to another, so too giving the beam to the friend is one's *me'ilah* because one conveyed a *perutah*'s worth of benefit to the recipient. On this reading, there is no truly independent category of stealing within *me'ilah* — the entire structure reduces to *hana'ah*, whether one's own or another's. This is a very important conceptual question, and the answer one gives determines how one understands the architecture of this Mishnah as a whole.
+The significance of this *mishnah* for the conceptual question raised above should not be missed. By including *hanayas chaveiro* — the benefit derived by another — within the *me'ilah* of the one who acts, the *mishnah* appears to be framing the act of giving to another as itself a form of *hana'ah*. Just as taking *hekdesh* oil and anointing someone else with it constitutes the actor's *me'ilah* — because it was he who took the object away from *hekdesh* and directed its benefit — so too taking a beam and giving it to a friend is the actor's *me'ilah*. In both cases the recipient enjoys the *hana'ah*, but the *me'ilah* belongs to the one who initiated the act.
 
----
-
-## Stealing & Appropriati…
-
-### Treasurer's Rights
-
-The Gemara now addresses the central question: why does merely taking the stone or beam not constitute *me'ilah*? *Amar Shmuel: b'gizbar hamesuros lo askinan* — Shmuel explains that the Mishnah is speaking of the Temple treasurer, who has formal authority to handle all of *hekdesh*'s materials. For such a person, the act of picking something up — even with intent to take it — is not yet stealing, because he has inherent rights to handle the property. The decisive act of appropriation, for the treasurer, is only when he actually transfers the item to another person. At that point he has unambiguously removed it from *hekdesh*'s control.
-
-One might have thought that even the treasurer commits *me'ilah* when he physically removes the object from the Temple premises — much as a storeroom worker who stuffs something in his pocket and walks home has clearly stolen even if he had full rights to handle the merchandise. But the Gemara's conceptualization is that so long as one holds legitimate authority over the property, no act short of actual transfer to another constitutes taking. It is only the giving to another that marks the boundary.
-
-### House/Sunroof Case
-
-The Mishnah's middle case presents a harder question. *B'naah betoch beiso* — if one builds the beam into one's own house — *harei zeh lo ma'al ad sheyehene mimenu b'shveh prutah*, one has not committed *me'ilah* until one derives a *perutah*'s worth of *hana'ah* from it. This is striking. Surely building a *hekdesh* beam into one's house is a far more concrete act of appropriation than simply moving it from place to place. The Gemara asks: *lama li ad deyidur sachteha* — why must one actually live under it? *Keivan deshni ma'al* — once one has altered or built it in, should that not itself be *me'ilah*? Some textual witnesses read *devna'ah* — "once one built it" — rather than *deshni* — "once one changed it" — but the underlying logic is the same: a genuine physical act of taking possession, hammering it in, plastering it, should suffice.
-
-*Amar Rav: kegon shehenicha al pi aruba* — Rav answers that the Mishnah is describing a case where one has not truly built the beam in at all. One simply laid it over a sunroof — a hole in the ceiling — perhaps to keep out rain, without permanently affixing it. In that scenario, the beam is not yet truly incorporated into the house, and one has not performed a genuine act of taking possession. What one has done is *use* something that does not belong to oneself — one has derived some *hana'ah* — but one has not yet *stolen* it. Stealing, in the terms of the Gemara, requires an act that constitutes a real assumption of possession, not merely placing an object loosely in a useful position.
-
-This answer sits in obvious tension with the plain meaning of the word *banah* in the Mishnah. The Mishnah seems to be describing a genuine act of building, yet Rav understands it as precisely the opposite — not a full construction at all. The Gemara is, in effect, pulling back significantly from what the Mishnah's language suggests: even a seemingly completed act of incorporation into one's home does not trigger *me'ilah* on the grounds of appropriation alone, absent actual *hana'ah*. And aesthetic *hana'ah* — admiring the beam in one's display case, for instance — does not qualify; it must be a halachically recognized form of *hana'ah*.
-
-### Bathhouse Attendant
-
-The third case in the Mishnah — *nasnu l'balan* — involves taking money from *hekdesh* and giving it to the bathhouse attendant as an entry fee. The ruling is *af al pi she'lo rachatz ma'al*: even though one has not yet bathed, one has committed *me'ilah*. The question is why this should be so — if one has not yet received the service, perhaps the transaction is not complete, and just as with an incomplete commercial acquisition, one could reclaim the money and no *me'ilah* has yet occurred.
-
-The Mishnah answers: *she'hu omer lo, harei ha'merchatz patuach lefanecha, hachneis u'rechatz* — the bathhouse attendant says, "The bathhouse is open before you; go in and bathe." The moment the attendant grants access, the transaction is complete. One has paid for the right to enter, and that right has been conferred. Even without having used it, the acquisition of the right itself constitutes a completed transfer, and *me'ilah* has been committed.
-
-The three cases thus share a common structure: *me'ilah* by appropriation requires a completed act of transfer. In the first and third cases, the act of giving to another person (or completing a transaction with another person) is what triggers *me'ilah*. In the middle case, because the act of building is incomplete, the trigger is actual *hana'ah*. Across all three, the preliminary act of physically taking the object — absent these further steps — does not by itself constitute *me'ilah*.
+This reading would support the view that there is no independent category of *me'ilah* through stealing, and that all *me'ilah* is ultimately grounded in the concept of *hana'ah*, even when the *hana'ah* flows to another person. This is a genuinely important conceptual question, and its resolution depends on how one reads the relationship between the two *mishnayos*.
 
 ---
 
-## Mechubar Status
+## Treasurer Theory
 
-### Mechubar Question
+### Shmuel: Rights to Handle
 
-The Gemara now raises a significant ancillary question generated by the discussion of building a *hekdesh* beam into one's house. Once the beam is built into the house, it is *mechubar lekarka* — attached to the ground — and a general principle of Talmudic law is that there is no *me'ilah* for things that are *mechubar lekarka*. Only *metaltelim* — moveable chattel — are subject to *me'ilah*. Why, then, should there be *me'ilah* at all for something built into a house?
+The *gemara* now asks the question directly: *mai shna hu mai shna chaveiro* — what is the difference between the actor himself and his friend? Why does *me'ilah* require that the object be given to another, and not take effect the moment it is taken? Shmuel answers: *begizbar hamesuros lo askinan* — we are speaking of the Temple treasurer, the official to whom handling of these materials has been entrusted. For such a person, even picking up an object with intent to appropriate it is not yet stealing, because he has an inherent right to handle all of these materials. Theft only occurs when he actually passes the object to another — at that point he has definitively removed it from *hekdesh*'s control.
 
-This question connects to a broader halachic debate in multiple areas, including *avodah zarah*. The Gemara cites Rav's position: *ha'mishtachaveh l'bayit assaro* — if one bows down to a house in worship, the house becomes forbidden as an object of *avodah zarah*. This is significant because the general rule is that worshipping a mountain does not make the mountain forbidden — the Gemara derives from the verse *eloheihem al he-harim velo he-harim eloheihem* that mountains, which are permanently attached to the ground, cannot become forbidden objects. Only *metaltelim* can be made forbidden through worship. Rav's position is that a house, despite being built from materials joined to the ground, retains the status of *metaltelim* — or at minimum, is not *karka* in the full sense — and therefore can be made forbidden. By extension, if a beam has been built into a house, it too retains enough of its *metaltelim* character to remain subject to *me'ilah*.
+### Sanctified in Home
 
-### Visible Benefit
+One might have imagined that the dividing line would be earlier: even a storeroom attendant who pockets an item and takes it home has stolen it, despite his right to handle the goods. One could have argued that taking it off the premises already constitutes *me'ilah*. But the *gemara* insists otherwise: so long as one has the right to handle the material, no act of taking has occurred until the object is transferred out of one's control and into another's.
 
-*Amar Rav Acha berei de-Rav Ika: hana'ah hanira la-einayim asrah Torah* — Rav Acha the son of Rav Ika offers a different answer. The Torah forbade a form of *hana'ah* that is visible and evident — *hanira la-einayim*. This answer is, frankly, difficult to understand on its face. The laws of *mechubar lekarka* are formalistic categorical distinctions: something is either attached to the ground or it is not, and that categorical status determines whether *me'ilah* applies. What difference should it make how "visible" or "obvious" the benefit is? These halachic categories do not typically bend to perceptual considerations.
-
-One possible reading is that the underlying rationale for exempting *mechubar lekarka* from *me'ilah* is that when something is attached, it is difficult to identify a clear, discrete act of appropriating benefit — how does one "take" from a tree? One sits in its shade, one scratches against a wall. The benefit is diffuse and unobvious. If that is the logic, then *hana'ah hanira la-einayim* means: when the benefit is sufficiently concrete and visible — as when one actually lives under a roof supported by a *hekdesh* beam one built in oneself — the ordinary exemption of *mechubar lekarka* does not apply, because the benefit is too evident to be ignored. But this remains a difficult answer, and as we shall see, the *Rambam* ignores it entirely.
-
-### Sanctification Status
-
-*Amar Reish Lakish: hatam b'shikdesho ulevasof benao* — Reish Lakish proposes a more satisfying alternative. The case where *me'ilah* applies to a built-in beam is specifically where the construction material was sanctified *first* and built into the house *afterwards*. When the stones and beams were consecrated, they had the status of *metaltelim* — they were loose materials, chattel, and at that moment they were candidates for *me'ilah*. Once something has been sanctified as *metaltelim* and is thus fully in the category of *me'ilah*-eligible objects, that status does not simply evaporate when the material is later incorporated into a structure. The *kedushah* and the *me'ilah* eligibility carry over.
-
-This contrasts with the case where one first builds a house and then sanctifies it. In that instance, at the moment of sanctification, the object is already a house — already *mechubar lekarka* — and therefore was never sanctified as *metaltelim*, and *me'ilah* would not apply.
-
-### Cave Case
-
-The Gemara now considers why the *Braita* chose a cave to illustrate the case where there is no *me'ilah* — *hadar b'bayis sheb'me'arah*, living in a *hekdesh*-owned cave — rather than the case of a stone house that was built and then sanctified, which would equally demonstrate the absence of *me'ilah*. The Gemara answers: *hai psikah lei, ha lo psikah lei* — the cave is a categorically unambiguous case. A cave is entirely and inherently *mechubar lekarka*; there was never any moment at which its constituent matter existed as *metaltelim*. It therefore provides a clean, unequivocal illustration of the principle. A stone house that was built and then sanctified would be a more ambiguous example, since sometimes such a house *does* trigger *me'ilah* (when it was sanctified while still in component form) and sometimes it does not. The *Braita* prefers a case where the ruling is categorical and admits no exceptions.
-
-The upshot of this entire sugya is as follows. *Me'ilah* applies to something built into a house either because, following Rav, a house retains *metaltelim* status throughout, or because, following Reish Lakish's more formally satisfying approach, the materials were already sanctified as *metaltelim* before construction, and that original status persists. The *Rambam* follows the latter approach, setting aside the *hana'ah hanira la-einayim* answer as too categorically irregular to serve as a halachic basis.
+The harder case is where a person sanctifies an object that is already in their home and the Temple has not yet retrieved it. Here, precisely because the object is already in one's possession, it is even more difficult to identify what would constitute an act of stealing. The *gemara*'s conceptual framework — that so long as one has legitimate rights of handling, no act of appropriation has occurred — applies here as well, and perhaps with even greater force.
 
 ---
 
-## Shliach (Agent)
+## Sunroof Placement
 
-### Shliach Intro
+### Aruba = Using, Not Taking
 
-Having concluded the discussion of the basic acts of *me'ilah*, we turn to the final chapter of the tractate, which addresses the role of a *shliach* — an agent or messenger — in the context of *me'ilah*. The conceptual backdrop is the ruling established in a *Baraita* two days ago: unlike the general principle of *ein shaliach l'dvar aveirah* — that one cannot appoint an agent to commit a sin on one's behalf, so that the sin attaches to the agent rather than the sender — *me'ilah* is an exception. When a *shaliach* commits *me'ilah* in the course of carrying out one's instructions, it is the sender's *me'ilah*.
+The *gemara* now turns to the second case in the *mishnah*: building the beam into one's house. If one has in fact built the material into one's home, why is one not yet *mo'el*? *Lama li ad deyidur sachteha* — why must one wait until actually living under it and deriving *hana'ah*? *Keivan deshni ma'al* — once one has changed it, one should already be *mo'el*. Some authorities have the reading *devna'ah* — once one has built it in. Either reading makes the same basic point: a genuine physical act of taking possession should constitute *me'ilah* without requiring subsequent habitation.
 
-This exception makes conceptual sense given what we have seen. The same way that taking *hekdesh* oil and applying it to another person's skin is one's own *me'ilah* — because one is the initiating actor, even though the recipient enjoys the benefit — so too, when one dispatches an agent to go and obtain something, one remains the causal force behind what occurs. *Me'ilah* attaches more to the initiating cause than to the immediate actor, which is precisely what makes the framework of *shlichus* coherent in this context.
+Rav resolves the difficulty: *kegon shehenicha al pi aruba* — the case of the *mishnah* is where one placed the beam atop a sunroof, an opening in the roof. One has not permanently affixed it; one has simply laid it over the opening, perhaps as a temporary cover against rain. This is not a real act of building-in; the beam is merely sitting there.
 
-It is also worth keeping in mind that the standard case of *me'ilah* is *b'shogeg* — committed unawares. The paradigm case is not someone who knowingly steals from *hekdesh*, but someone who genuinely did not know the object was consecrated — who believed, for example, that they were handling ordinary *shelamim* meat and were in fact handling *olah* meat. Such a person brings a *korban* and pays the principal plus a *chomesh*.
+### Changed vs. Placed
 
-### Liver/Meat Case
+The distinction Rav is drawing is therefore between genuinely changing or permanently incorporating the material (*deshni* or *debanah*) and merely placing it. When the material has actually been hammered in, plastered, or otherwise permanently incorporated, that constitutes a real act of taking possession — *ma'aseh kinyan* — and *me'ilah* should follow even without further habitation. But when it has merely been set down on a sunroof, the actor is *using* the material rather than *taking* it. Using it without authorization produces *hana'ah*-based *me'ilah*, which requires actually deriving a *prutah* of benefit. Taking it produces appropriation-based *me'ilah* immediately upon the act of taking.
 
-The Mishnah provides the governing rule: *hashaliach she'asa shlichuso — ba'al habayis ma'al*. If the agent does precisely what the sender instructed, it is the *ba'al habayis*'s *me'ilah*. *Lo asa shlichuso — hashliach ma'al*: if the agent violated the terms of the agency, the *me'ilah* belongs to the agent.
-
-The Mishnah illustrates: *amar lo ten basar l'orchim* — the homeowner instructs his assistant to give meat to the guests (the meat in question being *hekdesh* meat, though the homeowner was unaware of this). *V'nasam lahem kaved* — the agent gives them liver instead. In this case, *hashliach ma'al* — the agent has committed *me'ilah*. When the homeowner said "meat," he meant ordinary cuts of meat, not internal organs. By substituting liver for meat, or meat for liver, the agent has departed from the instruction and is acting on his own initiative; the *me'ilah* is therefore the agent's alone.
-
-### Violating Shlichus
-
-The Gemara asks: who is the *Tanna* who holds that anything a *shaliach* would need to ask about — a grey-zone item, something that is close enough to warrant inquiry but not identical to what was requested — is considered a categorically different thing? *Amar Rav Chisda: d'lo k'Rabbi Akiva* — Rav Chisda says the Mishnah does not accord with Rabbi Akiva's position. The implication is that the Mishnah treats liver as categorically distinct from meat — reflecting the view of the *Chachamim* who argue with Rabbi Akiva.
-
-### Abaye Distinction
-
-*Abaye amar: afilu teima Rabbi Akiva* — Abaye disagrees. Even according to Rabbi Akiva, one can explain the Mishnah. Why? *Mi lo ba'ei imlochi* — because even Rabbi Akiva agrees that when it comes to grey-zone items — items close enough to the requested thing that one would need to check in — the agent is *required* to ask. This is the very definition of such a category: you don't simply substitute, you ask.
-
-This yields a crucial distinction. The debate between Rabbi Akiva and the *Chachamim* about gourds and vegetables, or liver and meat, is a question about how to categorize things for the purposes of *nedarim* — vows. Do we draw the boundary of a category tightly or broadly? That is a question of conceptual taxonomy. But the question of *shlichus* is entirely different: it is a question about the scope of one's mandate. Even where Rabbi Akiva would include gourds within the category of "vegetables" for purposes of a *neder*, he would agree that if there are no vegetables and only gourds, the agent should check in before substituting. The obligation to consult is a function of the grey-zone quality of the item, not of how one ultimately resolves the categorical question. An agent who fails to ask, and simply substitutes, has by that failure stepped outside the bounds of his *shlichus* — and the *me'ilah* is his.
-
-When the *rabbanan* reported this distinction to Rava, he responded: *shapir ka'amar Nachmani* — Abaye's reasoning is sound. Rava's endorsement of Abaye's position is itself noteworthy.
+It should be noted that this answer runs against the straightforward reading of the *mishnah*, which seems to emphasize that even building into one's house does not suffice without *hana'ah*. The *gemara* is in effect restricting the *mishnah* to the case of mere placement, and insisting that genuine building-in would indeed constitute *me'ilah* immediately. It is worth noting as well that aesthetic *hana'ah* — for instance, placing a beautiful beam in a display case and admiring it — does not qualify as *hana'ah* in the halachic sense. The *hana'ah* required must be of a type that is halachically recognized.
 
 ---
 
-## Rabbi Akiva Debate
+## House Attachment Status
 
-### Vow/Meat Category
+### Worship of House
 
-The Gemara now digresses to explore the Rabbi Akiva dispute in greater depth. The parallel case concerns a vow: *hanoder min habasar assur b'chol minei basar* — one who vows to abstain from "meat" is forbidden all types of meat. This includes the head, feet, trachea, liver, and heart of an animal, bird meat — yet excludes fish and grasshoppers, which are not what people intend when they say "meat." This is the first *Tanna*'s position, which implicitly reflects Rabbi Akiva's inclusive approach to category boundaries.
+The *gemara* now embarks on a digression that bears directly on a foundational question underlying the entire discussion: is a house considered *mechubar lekarka* — attached to the ground and therefore legally equivalent to land — or is it *metaltelin*, chattel, for purposes of halacha?
 
-### Category Boundaries
+The question matters because there is no *me'ilah* by things that are *mechubar lekarka*. The *gemara* notes that the *mishnah*'s scenario of building the beam into one's house and then deriving *me'ilah* implicitly assumes that something built into a house remains subject to *me'ilah* — which in turn implies it is still classified as *metaltelin*. This should support Rav's position: *ha-mishtachaveh le-bayit assaro* — Rav rules that if one worships a house as *avodah zarah*, the house becomes forbidden, just as any chattel item would be forbidden upon being worshipped. The *gemara* derives from the verse *eloheihem al he-harim velo he-harim eloheihem* — their gods are on the mountains, but the mountains themselves are not rendered gods — that land itself, being *mechubar lekarka*, cannot be forbidden through worship. A house, according to Rav, is not in that category; it retains the status of *metaltelin* even though it is built upon the ground, and therefore it can be forbidden.
 
-*Rabban Shimon ben Gamliel* is identified as the *Tanna* who argues with Rabbi Akiva. *Detanya*: Rabban Shimon ben Gamliel rules that one who vows to abstain from meat is permitted the head, feet, trachea, liver, heart, bird meat, fish, and grasshoppers — all of these fall outside the scope of the vow. His reasoning follows precisely the logic of the grey zone: all of these are items that a *shaliach* would have to ask about. "There's no meat — do you want liver? Do you want chicken?" These are items close enough to warrant inquiry, and therefore, for Rabban Shimon ben Gamliel, they fall outside the category in the context of a *neder*. Rabbi Akiva says the grey zone is inside the category; Rabban Shimon ben Gamliel says the grey zone is outside it.
+### Visible Benefit Exception
 
-Rabban Shimon ben Gamliel reinforces his position regarding internal organs by adding: *kirbayim lav basar hein* — internal organs are not real meat — and those who eat them are not behaving as proper people do; they are suitable as animal feed. This rhetoric powerfully supports the exclusion of organs from "meat," though it sits in some tension with the more theoretical principle he is advancing, since the organs might be an especially easy case, leaving the broader category-boundary question less clearly resolved.
+Rav Acha the son of Rav Ika responds: the case of a house is different because *hana'ah hanira la'einayim asrah Torah* — the Torah prohibits benefit that is visibly apparent to the eye. Even if a house were technically *mechubar lekarka*, the *hana'ah* one derives from living in it is so evident and manifest that it remains subject to *me'ilah*.
 
-### Fish vs. Birds
+This is, frankly, a striking and difficult answer. The laws of *mechubar lekarka* are highly formalistic and categorical in nature; the question of whether *me'ilah* applies is ordinarily a binary classification, not a function of how visible or obvious the benefit is. The proposed rationale — that the reason *me'ilah* does not apply to things *mechubar lekarka* in general is that the *hana'ah* they provide is somehow less obvious, and that in this case the *hana'ah* is more apparent — is difficult to follow rigorously. If living in a house is *hanira la'einayim*, one might ask whether scratching one's back against a sanctified building would similarly qualify. The answer, according to this line, would presumably be no — but what determines whether a given benefit rises to the level of *hanira la'einayim* is left unclear.
 
-The Gemara then asks a pointed question directed at the first *Tanna* (Rabbi Akiva's position). If bird meat is included in "meat" because an agent would say, "There's no animal meat — shall I bring poultry?", then the same logic should apply to fish: an agent might equally say, "There's no animal meat — shall I bring fish?" Why does the first *Tanna* include birds but exclude fish?
+### Sanctified Before Buildi…
 
-The Gemara's first answer is *b'yoma d'chasa askinan* — the case is set on a day of bloodletting, when people would not eat fish at all. On such a day, when one says "meat," one would never intend fish, because fish is entirely off the table on that day. The Gemara immediately challenges this: if that is so, on the day of bloodletting, fowl is also not eaten — *d'amar Shmuel: d'mesuchar v'achal tzifreh, parach libei katzifreh* — one who has had blood let from the shoulder and eats fowl will suffer harm, his heart fluttering like a bird. A *Braita* similarly states that one does not let blood in anticipation of eating fish, fowl, or salted preserved meat — only fresh red meat is appropriate. So the bloodletting answer fails to distinguish birds from fish.
+The *gemara* attempts to bring support from a *baraita*: *hadar bevayis shel hekdesh* — one who lives in a house belonging to *hekdesh* — *kivan shehana mimenu ma'al* — once one derives benefit from it, one has committed *me'ilah*. This would seem to confirm that a house is subject to *me'ilah* and therefore classified as *metaltelin*. Reish Lakish, however, deflects this proof: *hatam beshikdesho ulevasof benao* — that case involves a situation where the construction materials were first sanctified and only afterward built into the house. The materials were *kadosh* while still in the form of beams and stones — they were *metaltelin* at the moment of sanctification, and were already candidates for *me'ilah* at that stage. The fact that they were subsequently incorporated into a house does not strip them of that status. The *kedushah* attaches to them as *metaltelin*, and that eligibility for *me'ilah* persists even after construction.
 
-The Gemara's final answer is *b'yoma d'kaivei lei einei askinan* — the case involves a day when one's eyes are hurting, on which people would not eat fish. On such a day, when one says "meat," fish is not in view at all, while poultry remains a plausible alternative. This limits the scope of the first *Tanna*'s inclusion to those items that genuinely function as substitutes in context.
+But what if one first built the house and only afterward sanctified it — *aval benao ulevasof hikdisho* — would there then be no *me'ilah*?
+
+### Cave Example
+
+If that is the case, the *gemara* asks, why does the *baraita* choose to illustrate the absence of *me'ilah* with the case of one who lives in a cave — *hadar bevayis shebamearah* — rather than with the case of a stone house that was first built and afterward sanctified? A cave is unambiguously and categorically *mechubar lekarka*; it serves as a clean illustration of the principle. Had the *baraita* instead said that a stone house built before sanctification has no *me'ilah*, it would have implied that sometimes a stone house *does* have *me'ilah* and sometimes does not — a messier formulation. The *gemara* answers: *hai psikah lei, ha lo psikah lei* — the *baraita* prefers a case that is categorically free of *me'ilah* rather than one where the outcome varies depending on the sequence of events.
+
+In the end, then, the *gemara* has provided two possible grounds for why *me'ilah* applies to a house. The first is Rav's position: a house, though built upon the ground, retains the status of *metaltelin* and is therefore categorically subject to *me'ilah*. The second, more satisfying answer, is Reish Lakish's: where the material was sanctified before being built, it carries its *me'ilah*-eligibility with it into the structure. The Rambam pointedly ignores the answer of *hana'ah hanira la'einayim* entirely, implicitly rejecting it as incompatible with the formalism of *me'ilah* law, and instead relies on the more systematic distinction about the sequence of sanctification and construction.
+
+---
+
+## Agent's Responsibility
+
+### Shaliach Obeys Orders
+
+We now turn to the final *perek* of *Meilah*, which addresses the role of a *shaliach* — an agent — in the commission of *me'ilah*. The backdrop to this discussion is a principle established earlier in the tractate: unlike ordinary transgressions, where the rule of *ain shaliach l'dvar aveira* — there is no agency for a sinful act — places liability on the agent rather than the sender, *me'ilah* is an exception. If one sends an agent to perform an act that constitutes *me'ilah*, the sender may be the one held liable. This conceptually parallels the earlier ruling that if one takes *hekdesh* oil and anoints another with it, it is the actor's *me'ilah* even though the other person receives the benefit — causal responsibility, not mere physical contact, is the operative factor.
+
+The *mishnah* states: *hashaliach she'asa shlichuso, ba'al habayis ma'al* — if the agent performs exactly what the homeowner-sender instructed, it is the *ba'al habayis* who has committed *me'ilah*. The mechanism of *shlichus* is operative, and the sender bears responsibility.
+
+---
+
+## Agent's Responsibility…
+
+### Shaliach Violates Terms
+
+*Lo asa shlichuso, hashaliach ma'al* — if the agent violated the terms of his agency, it is the agent who has committed *me'ilah*, not the sender.
+
+### Meat vs. Liver Example
+
+The *mishnah* illustrates: *amar lo ten basar l'orchim* — the homeowner said to his attendant, go give meat to the guests. This meat happened to be, under whatever circumstances, sanctified meat subject to *me'ilah* — say, *basar kodshei kodashim* before *zerikas damim*, or *olah* meat. The homeowner did not realize this; this is the standard case of *me'ilah beshogeg*. *Venasan lahem kaved* — but the agent went and gave them liver instead. Since when one says "meat" one means the standard cuts — not internal organs — the agent has departed from his instructions. He acted on his own initiative. *Hashliach ma'al* — the agent is the one who committed *me'ilah*.
+
+Conversely, if the agent was told to give liver and instead gave meat, the same principle applies: the agent has violated the terms of his *shlichus*, and the *me'ilah* is his.
+
+### Three-Way Appropriation
+
+The *mishnah* then presents a more complex scenario: *amar lo ten lahem chaticha chaticha* — the homeowner said, give each guest one piece. *Vehu amar tlu shtayim shtayim* — the agent told them, take two each. *Vehem natlu shalosh shalosh* — and the guests took three each. *Kulam maalu* — all of them committed *me'ilah*. The *ba'al habayis* committed *me'ilah* through the first piece, which was given in accordance with his instructions. The agent committed *me'ilah* through the second piece, which he added on his own authority. And the guests committed *me'ilah* through the third piece, which they took entirely on their own initiative.
+
+It is worth noting that the *me'ilah* here appears to occur at the moment of taking, before anyone has actually eaten anything — which circles back to the *mishnah* at the beginning of our chapter about the act of taking as a form of *me'ilah*.
+
+---
+
+## What Shaliach Must Ask A…
+
+### Tanna on Asking
+
+The *gemara* opens with a question about the theoretical underpinning of the *mishnah*'s agent case: *man tanna dechol milta demimlach alei shliach tartei milei havyan* — who is the *tanna* who holds that anything a *shaliach* would have to ask about — something in a gray zone requiring clarification — is considered a categorically different thing?
+
+The *gemara* has assumed that liver and meat stand in this relationship: if one sends an agent to get meat and there is no meat available but there is liver, the agent would ask, "Do you want liver instead?" It is close enough to prompt the question, but different enough that one cannot presume authorization. This category of *mimlach alei shliach* — things an agent must ask about — is the conceptual key to the *mishnah*'s ruling.
+
+### Rav Chisda Position
+
+Rav Chisda says: our *mishnah* does not follow Rabbi Akiva. The evidence: a *mishnah* in *nedarim* records that if one vows to abstain from vegetables (*hanoder min hayerek*), one is nonetheless permitted to eat gourds, since gourds are not commonly referred to as vegetables. Rabbi Akiva disagrees and forbids gourds. The *chachamim*'s position is supported by the argument that if you send an agent to buy vegetables and there are none available, he will come back and say there were no vegetables — but there were gourds — and ask whether you want them instead. This shows that gourds are in the gray zone: close enough to ask about, but categorically different from vegetables. Rabbi Akiva, however, reads the agent's very willingness to ask as proof that gourds *are* considered vegetables — since one would ask whether the customer wants them, they are in the same category.
+
+The *mishnah*'s ruling about liver and meat — that giving liver instead of meat constitutes a violation of *shlichus* — presupposes that liver and meat are categorically different in the way that gourds and vegetables are categorically different according to the *chachamim*. Hence Rav Chisda's conclusion: our *mishnah* does not follow Rabbi Akiva.
+
+### Abaye's Reconciliation
+
+Abaye disagrees: *afilu teima Rabbi Akiva* — one may even say our *mishnah* follows Rabbi Akiva. The key is to distinguish between the *nedarim* question and the *shlichus* question. *Mi lo ba'ei imlochi?* — does not Rabbi Akiva agree that the agent must ask? Of course he does. The debate between Rabbi Akiva and the *chachamim* concerns the question of categorical membership for purposes of vows: does the gray-zone item fall within the category covered by the vow, or not? On that question, Rabbi Akiva says it falls within the category, the *chachamim* say it does not.
+
+But the *shlichus* question is entirely separate: regardless of how one categorizes the item for *nedarim*, the agent's job is to fulfill his instructions precisely. If the item is one that requires clarification — something the agent would ordinarily ask about — then by proceeding without asking, the agent has stepped outside the bounds of his *shlichus*. This is a violation of the *shlichus* not because the item is in a different category, but because the agent failed to seek authorization for a situation that required it. Rabbi Akiva would agree with this, since he himself acknowledges that the agent would ask. Abaye's distinction is therefore: the *nedarim* debate concerns categorization; the *shlichus* ruling concerns the scope of authorization. They operate on different planes.
+
+### Rava Approves
+
+When the unnamed *rabbinic* students reported Abaye's distinction to Rava, Rava said: *shapir ka'amar Nachmani* — Nachmani has spoken well. This is notable. Rava's endorsement of Abaye's formulation is significant, and the distinction between categorization for *nedarim* and the scope of *shlichus* authorization stands as an important conceptual contribution.
+
+---
+
+## Akiva vs. Rabban Shimon
+
+### Gourd Vow Case
+
+The *gemara* now digresses to identify who among the *tannaim* disagrees with Rabbi Akiva in the *mishnah* about the gourd. *Detnan: hanoder min hayerek, mutar bedilu'in; veRabbi Akiva oser* — one who vows to abstain from vegetables may eat gourds; Rabbi Akiva forbids. The *chachamim*'s position is that gourds are not called vegetables in common parlance; an agent sent for vegetables who finds none will return with gourds and ask — demonstrating that they are considered a separate category. Rabbi Akiva reads the same data point in the opposite direction: precisely because the agent returns with gourds and asks, gourds are seen as a close-enough substitute to constitute vegetables.
+
+### Meat Vow Case
+
+The *gemara* identifies Rabban Shimon ben Gamliel as the *tanna* who disagrees with Rabbi Akiva. A *baraita* records: *hanoder min habasar assur bechol minei basar* — one who vows to abstain from meat is forbidden all varieties of meat. This includes the head, feet, trachea, liver, heart, and other internal organs; it includes the flesh of birds; and it excludes only fish and grasshoppers. That is the first opinion — implicitly Rabbi Akiva, who holds that all these gray-zone items fall within the category of meat.
+
+*Rabban Shimon ben Gamliel matir berosh uveraglayim uvekaneh uvekaved uve'of uvedagim vechagavim* — Rabban Shimon ben Gamliel permits all of these: the head, feet, trachea, liver, inner organs, birds, fish, and grasshoppers. All of these are things an agent would have to ask about — none of them is simply "meat" — and therefore none of them falls within the vow's prohibition. Rabban Shimon ben Gamliel further emphasizes his position by stating: *kirbayim lav basar hein* — inner organs are not real meat — *ve'ochleihem lav bar inish* — and those who eat them are not behaving as normal people do. They are fit for dog food, not human consumption.
+
+---
+
+## Akiva vs. Rabban Shimo…
+
+### Why Different Treatment
+
+The *gemara* now asks: given that both gourds-from-vegetables and birds-from-meat are in the gray zone that an agent would ask about, why are they treated so differently? If one vows to abstain from vegetables, the dispute is whether gourds are included. If one vows to abstain from meat, the dispute is whether fowl and organs are included. What accounts for the differential treatment?
+
+### Bloodletting Context
+
+Rav Pappa answers: *be-yoma de-chasa askinan* — we are speaking of a day on which one has undergone bloodletting. On such a day, *lo achil inish dagim* — people do not eat fish; they want substantial, restorative red meat. On that day, therefore, when one says "meat," one cannot conceivably mean fish — fish is categorically off the table. This explains why fish is excluded from the vow: on a bloodletting day, "meat" simply does not encompass fish.
+
+### Permitted Foods
+
+The *gemara* objects: *i hachi, tzifreh nami de-lo nachli* — if we are speaking of a bloodletting day, then people also do not eat fowl on such a day. As Shmuel taught: *de-mesuchar* — if one has let blood from the shoulders — *ve-achal tzifreh, parach libei katzifreh* — and ate fowl, one's heart will flutter like a bird, which is to say, it is medically harmful. So on a bloodletting day, "meat" would not include fowl either, which undermines the argument. Furthermore, a *baraita* teaches: *ein makizin dam lo al ha-dagim ve-lo al ha-ofos ve-lo al basar maliach* — one should not let blood when planning to afterward eat fish, fowl, or salted preserved meat. One needs fresh red meat after bloodletting.
+
+### Eye Pain Context
+
+Rav Pappa therefore revises his answer: *be-yoma de-kaivei lei einei askinan, de-lo achil dagim* — we are speaking of a day when one's eyes are hurting, a condition on which people would not eat fish. On such a day, when one says "meat," one might mean fowl or red meat, but one clearly does not mean fish. This explains why fish is excluded from the scope of the vow. The distinction between gourds-and-vegetables on one hand and birds-and-organs-and-fish-from-meat on the other is resolved by locating the *baraita* in this specific medical context. One may find the question difficult in the first place — it seems evident that fish is categorically different from chicken and red meat in a way that is reflected throughout *halacha*, as *chazal* applied the rabbinic prohibition of chicken with milk precisely because fowl resembles red meat, a resemblance that clearly does not extend to fish. Nevertheless, the *gemara* treats the distinction as requiring contextual explanation.
 
 ---
 
 ## Exceeding Instructions
 
-### Three-Party Case
+### One, Two, Three Pieces
 
-The Mishnah's final case: *amar lo ten lahem chaticha chaticha* — the homeowner instructs his agent to give each guest one piece of meat. *V'hu amar tlu shtayim shtayim* — the agent tells the guests to take two each. *V'hem natlu shalosh shalosh* — and the guests each take three. *Kulam ma'alu* — all three parties have committed *me'ilah*: the *ba'al habayis* through the first piece, which was given pursuant to his instructions; the *shaliach* through the second piece, which he added on his own authority; and the *orchim* through the third piece, which they took on their own initiative. Notably, this *me'ilah* attaches even before anyone has consumed any meat — it is once again the act of taking possession, the transfer, that constitutes *me'ilah*, reinforcing the theme of the preceding Mishnah.
+The *gemara* now returns to the final case of the *mishnah*: the homeowner who says give one piece to each guest, the agent who says take two, and the guests who take three. The *me'ilah* is distributed accordingly: the homeowner through the first piece, the agent through the second, and the guests through the third.
 
-### Void vs. Partial
+### Remains Agent?
 
-The Gemara raises the underlying conceptual question: when the agent exceeds his instructions — when he offers two pieces rather than the one he was told to give — does this completely void his *shlichus*, such that he is no longer the *ba'al habayis*'s agent even for the first piece? If so, the *ba'al habayis* would never have committed *me'ilah* at all, and the agent alone would be responsible for everything. Or does the *shlichus* remain valid for the portion the agent was actually authorized to distribute, with only the excess being the agent's own act? The Mishnah plainly implies the latter: the *ba'al habayis* is *mo'el* for the first piece, indicating that his *shlichus* is not voided by the agent's excess. This question has implications well beyond *me'ilah* — the parallel case in Ketubot involves an agent sent to purchase one acre of land who purchases two.
+The *gemara* asks what underlies this ruling: when the agent exceeds his instructions and tells the guests to take two instead of one, does he remain an agent of the homeowner for the first piece? One might argue that once an agent acts beyond the scope of his mandate, he has effectively repudiated the *shlichus* entirely — he is doing his own thing, and therefore he is no longer an agent even for the portion he was authorized to give. If so, the homeowner would have no *me'ilah* at all, and the agent would bear the full liability for both pieces.
 
-### Messenger Distinction
+### Explicit Designation
 
-*Rav Sheshes* introduces a qualification. Perhaps the Mishnah is not demonstrating a general rule that *shlichus* survives an agent's excess. Perhaps it is describing a specific scenario in which the agent makes an explicit verbal distinction: *tol achas mida'ato v'achas mida'ati* — "take one on behalf of the homeowner, and take one on my account." In that case, the agent is not simply exceeding his mandate while purporting to act for the sender throughout; rather, he explicitly segregates the two acts, making clear that the first is carried out as *shaliach* for the *ba'al habayis* and the second is his own personal addition. Under that reading, the *ba'al habayis*'s *shlichus* is entirely intact for the first piece, and the agent's separate action does not infect it at all.
+Rav Sheshes resolves the difficulty: *d'amar shliach, tol achas mida'ato v'achas mida'ati* — the case is where the agent makes an explicit designation. He says to the guests: take one piece on behalf of the homeowner, and take a second piece on my account. By explicitly attributing the first piece to the homeowner and the second to himself, the agent does not undermine his *shlichus* for the first piece at all. He is acting as the homeowner's agent for the first piece and on his own initiative for the second.
 
-*Mahu d'teima — akar shliach shlichusei d'ba'al habayis*: one might have thought that even with an explicit distinction, once the agent is doing things on his own account, he should be regarded as entirely self-directed, with the result that the *ba'al habayis* is not *mo'el* at all. *Kamashmalan* — the Mishnah teaches that this is not so. Where the agent explicitly distinguishes the two acts, the *ba'al habayis*'s *shlichus* remains intact.
+### Shlichus Survives
 
-As the simple reading of the Mishnah suggests, the broader principle — that adding to one's instructions does not void the *shlichus* for the portion that was authorized — is the more natural *peshat*, and Rav Sheshes's qualification makes it a more limited and special case. The discussion of *shlichus* will continue tomorrow, as we complete the final chapter of Meilah.
+The *gemara* acknowledges: *mahu d'teima, akar shliach shlichusei d'ba'al habayis* — one might have thought that even with this explicit designation, by doing something on his own account alongside his *shlichus*, the agent has effectively uprooted the *shlichus* entirely, and the homeowner is therefore not *mo'el* at all. *Kamashmalan* — the *mishnah* teaches us otherwise.
+
+### Addition Allowed
+
+The straightforward reading of the *mishnah* would seem to establish the broader principle that adding beyond one's instructions does not automatically void the original *shlichus* — that the authorized portion of the transaction remains intact. The *gemara*, by attributing the ruling to a case of explicit designation, narrows this somewhat, treating it as a more specific scenario rather than a broad rule. Nevertheless, the core holding stands: one who acts as an agent for a given item while simultaneously doing something beyond one's mandate does not thereby forfeit the *shlichus* for the item one was authorized to transfer.
+
+This brings us to the close of the *me'ilah* material covered today. The *perek* will continue with further analysis of *shlichus* and its relationship to the broader concept of *me'ilah* as a form of taking and acquiring — the conceptual thread that has run through all of today's discussion.

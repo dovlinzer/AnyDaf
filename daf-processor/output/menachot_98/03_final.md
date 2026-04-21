@@ -1,6 +1,6 @@
 # Menachot 98 — Daf Yomi Shiur
 
-## Healing Leaves Dispute
+## Leaves that Heal
 
 ### Pasuk & Dispute Intro
 

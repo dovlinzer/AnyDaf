@@ -37,6 +37,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.material3.LocalContentColor
+import androidx.compose.ui.graphics.Color
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontStyle
@@ -65,9 +68,13 @@ fun ArticleReaderScreen(
     val webViewHolder = remember { mutableListOf<WebView>() }
 
     val referencedDaf = article.matchType.referencedDaf
-    val cases = StudyFontSize.entries
-    val idx = cases.indexOf(studyFontSize)
+    val isTablet = androidx.compose.ui.platform.LocalConfiguration.current.smallestScreenWidthDp >= 600
+    val cases = StudyFontSize.displayEntries(isTablet)
+    val idx = cases.indexOf(studyFontSize).coerceAtLeast(0)
 
+    // Reset LocalContentColor to dark — the article reader has its own parchment background
+    // and must not inherit white from a blue-mode parent Scaffold.
+    CompositionLocalProvider(LocalContentColor provides MaterialTheme.colorScheme.onBackground) {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -250,6 +257,7 @@ fun ArticleReaderScreen(
             }
         }
     }
+    } // CompositionLocalProvider(LocalContentColor)
 }
 
 private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean): String {

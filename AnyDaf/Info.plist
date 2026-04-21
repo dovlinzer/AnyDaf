@@ -20,6 +20,10 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>AnyDaf needs microphone access to hear your spoken answers during Read-Aloud study mode.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>AnyDaf uses speech recognition for hands-free quiz answers in Read-Aloud study mode.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -33,10 +37,6 @@
 	<array>
 		<string>audio</string>
 	</array>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>AnyDaf needs microphone access to hear your spoken answers during Read-Aloud study mode.</string>
-	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>AnyDaf uses speech recognition for hands-free quiz answers in Read-Aloud study mode.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>Launch Screen</string>
 	<key>UISupportedInterfaceOrientations</key>

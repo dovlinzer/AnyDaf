@@ -57,6 +57,6 @@ object TalmudPageManager {
         if (!loaded) init()
         val pageNumber = (daf - 1) * 2 + (if (sideA) 0 else 1)
         val fileId = pages[tractate]?.get(pageNumber.toString()) ?: return null
-        return "https://drive.google.com/thumbnail?id=$fileId&sz=w1200"
+        return "https://drive.google.com/thumbnail?id=$fileId&sz=w2000"
     }
 }

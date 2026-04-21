@@ -1,302 +1,371 @@
 # Meilah 11 — Daf Yomi Shiur
 
-## No Meilah Overview
+## Intro to Perek 4
 
-### Opening Context
+### Opening remarks
 
-> **Hebrew/Aramaic:** וְלַד חַטָּאת, וּתְמוּרַת חַטָּאת, וְחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ – יָמוּתוּ, וְשֶׁעִיבְּרָה שְׁנָתָהּ, וְשֶׁאָבְדָה וְנִמְצֵאת בַּעֲלַת מוּם, אִם מִשֶּׁכִּיפְּרוּ הַבְּעָלִים – תָּמוּת. וְאֵינָהּ עוֹשָׂה תְּמוּרָה, וְלֹא נֶהֱנִין וְלֹא מוֹעֲלִין. וְאִם עַד שֶׁלֹּא כִּיפְּרוּ הַבְּעָלִים – תִּרְעֶה עַד שֶׁתִּסְתָּאֵב, וְתִמָּכֵר וְיִקְחוּ בְּדָמֶיהָ אַחֶרֶת. וְעוֹשֶׂה תְּמוּרָה, וּמוֹעֲלִין בָּהּ.
+> **Hebrew/Aramaic:** וְלַד חַטָּאת, וּתְמוּרַת חַטָּאת, וְחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ – יָמוּתוּ,
 >
-> **Translation:** MISHNA: This mishna, which also appears in tractate *Temura*, deals with the five sin offerings left to die. It is cited here because of its relevance to the *halakhot* of misuse. The mishna first mentions three of those offerings: **The offspring of a sin offering, and** an animal that is **the substitute for a sin offering,** whether or not the owners achieved atonement by means of another offering, **and a sin offering whose owners have died** before the offering was sacrificed, **shall die. And** the other two sin offerings left to die are the sin offering **whose year** since birth **passed** and is therefore unfit for sacrifice, **and** a sin offering **that was lost and** when it was **found** it was **blemished,** with regard to which the *halakhot* are as follows: **If** the sin offering was found **after the owner achieved atonement** through the sacrifice of another animal as a sin offering, then the blemished animal **shall die, and it does not render** a non-sacred animal exchanged for it **a substitute,** as it is has neither inherent sanctity, which would make it fit for sacrifice on the altar, nor sanctity that inheres in its value. **And** one **may not derive benefit** from the found animal *ab initio*, **but** if he derived benefit from the animal he is **not** liable for its **misuse. And if** the animal whose year passed was found **before the owner achieved atonement,** the found animal **shall graze until it becomes blemished [*shetista'ev*],** at which point it may not be sacrificed; **and it shall be sold and** the owner **shall purchase another** animal **with** the **money** received from **its** sale. The animal that was found blemished may be sold immediately, and the owner shall purchase another animal with the money received from its sale. In both cases, the animal **renders** a non-sacred animal exchanged for it **a substitute,** and one who derives benefit from it is liable for **misusing it.**
+> **Translation:** MISHNA: This mishna, which also appears in tractate *Temura*, deals with the five sin offerings left to die. It is cited here because of its relevance to the *halakhot* of misuse. The mishna first mentions three of those offerings: **The offspring of a sin offering, and** an animal that is **the substitute for a sin offering,** whether or not the owners achieved atonement by means of another offering, **and a sin offering whose owners have died** before the offering was sacrificed, **shall die.**
 
-The previous perek dealt with the stages of *kedusha* and *meilah* as a korban progresses through its various phases — whether through placement in a *kli*, *zerikat hadam*, or other relevant transitions. This perek turns to cases where *meilah* does not apply because the sanctified item is no longer fit for the *mizbeach*.
+We begin at the very bottom of 10b, where a new *perek* opens. The previous *perek* dealt at length with the stages of *kedushah*: once something is sanctified, *me'ilah* applies, and as the *korban* advances through additional stages — entering the *kli*, *zerikat hadam*, and so on — the halachic status shifts accordingly. The fourth *perek* now turns to a different question: cases where there is no *me'ilah* because items are no longer fit for the *mizbe'ach*.
 
-Before proceeding, it is worth recalling a principle established at the very opening of the first perek: once something is sanctified, even if it subsequently becomes unfit — whether through *pigul*, *tumah*, or some other disqualification — *meilah* continues to apply. In fact, *meilah* may apply for a longer period than usual, since if the item never becomes *mutar la-kohanim* (as is the case with *kodshei kodashim* whose meat was disqualified), it never exits the category of *meilah*. Being *pasul* does not, in itself, remove an item from *kodshei Hashem*.
+### Pasul vs. הולך לאיבוד
 
-### Pasul vs. Destined to Die
+Before proceeding, it is worth recalling a principle established at the very beginning of the *masechet*: once something is sanctified, even if it subsequently becomes unfit — through *pigul*, through the meat becoming *tamei*, or through some other defect — *me'ilah* still applies. Indeed, in certain respects *me'ilah* may apply for even longer than normal, since the meat of *kodshei kodashim* never becomes *mutar la-kohanim* if it is *pasul*, and therefore never exits the category of *me'ilah*. Being *pasul* does not remove an item from *me'ilah*.
 
-With this principle in mind, the distinction the perek draws becomes significant. An item that is *pasul* — rendered unfit — retains its *meilah* status. What removes an item from *meilah* is something categorically different: when the item is not merely unfit but is entirely destined to be destroyed, with no possible path by which its *kedusha* can be realized or transferred. Such an item is described as *holeich le-ibud* — on its way to annihilation — and that status effectively removes it from the category of *kodshei Hashem* entirely, resulting in neither *meilah* nor, according to some, even *lo nehenin* at the Torah level.
+This principle, however, applies only to items that have become *pasul* in the ordinary sense. The present *perek* introduces a fundamentally different category: items that are *holech le-ibud* — destined for complete destruction, with no remaining avenue for use. As we shall see, it is specifically this status, and not mere unfitness, that removes an item from *kodshei Hashem* and extinguishes *me'ilah*.
 
 ---
 
-## Chatat Shemeisah
+## Chatat שמתה
 
-### Three Automatic Cases
+### Three cases: velad, tmur…
 
-The Mishnah presents the laws of the *chatat she-meisah* — a sin-offering that, because it can no longer serve its function of *kaparah*, must be allowed to die. Three such cases are listed without qualification: the *vlad chatat* (the offspring of a sin-offering), the *tmurat chatat* (the substitute for a sin-offering), and a *chatat* whose owners have died. In all three, the ruling is simply *yamusu* — they must die.
-
-The *vlad chatat* and *tmurat chatat* can never serve as *kaparah*: only the original animal is designated for that function. When the owners die, there is no longer any *kaparah* to achieve. In none of these cases is there any scenario in which the animal could potentially be used, and therefore the Mishnah states the ruling without condition.
-
-### Conditional Cases
-
-The Mishnah then presents two additional cases of *chatat she-meisah* that are more nuanced: *avrah shnasah* — an animal that has passed its first year and is therefore too old to serve as a *chatat* — and an animal that was lost and then found bearing a *mum*. In these cases, the ruling depends on the circumstances.
-
-### Achieved Atonement
-
-The critical variable is whether *nis-kaper haba'alim* — whether the owners have already obtained atonement through a substitute offering. If they have, the animal must die, *tamus*, and joins the category of *chatat she-meisah*. But the reason these cases are treated differently from the first three is that, at the outset, they were not inherently incapable of serving their function.
-
-An animal that has passed its first year is somewhat analogous to a *mum*: there is a problem, but it is not an insurmountable one. One could wait for the animal to develop a *mum*, redeem it, and use the proceeds for a valid *chatat*. Similarly, an animal that was lost and then found bearing a *mum* could have been redeemed — had atonement not already been achieved with another animal. In both scenarios, the owners went ahead and brought another *korban* instead: either because the original was already over a year old and they did not wait for it to acquire a *mum*, or because it was lost and they brought a replacement, and the original was subsequently found. Both are variations of *nis-kaper be-acher* — atoning with another offering.
-
-### Waiting for Mum
-
-When atonement has not yet been obtained — *ad she-lo kipru ha-ba'alim* — the ruling is different. The Mishnah states *tireh ad she-tistaev v'timacher*: the animal should graze until it develops a *mum*, at which point it is sold, and the proceeds — *bidameha* — are used to purchase a valid replacement. This is the preferable course of action. One might ask whether this arrangement implies that the owner is obligated to delay his *kaparah* indefinitely while waiting for the animal to develop a *mum*; indeed, the Mishnah seems to indicate that this is the correct path.
-
-### No Tmura, No Meilah
-
-When atonement has already been achieved and the animal must die, two further consequences follow. First, *eina oseh tmura*: the animal cannot effect a *tmura*. Normally, any sanctified animal has the power to transfer its *kedusha* to a substitute, and attempting to do so constitutes a transgression even if ineffective. Here, however, the animal's *kedusha* is of a type whose only trajectory is death; it has no viable *kedusha* to transfer, and therefore the power of *tmura* does not apply at all.
-
-Second, *lo nehenin v'lo mo'alin*: one may not derive benefit from it, and there is no *meilah*. The absence of *meilah* is precisely what makes this case relevant to our *masechet*. Although, as established at the outset, a *korban* that becomes *pasul* retains *meilah*, an item that is not merely disqualified but is entirely expelled from the category of *kodshei Hashem* — because its only destiny is *mita* — does not. A *pasul korban* still has a legitimate relationship to the *beis hamikdash*: it is *psulei kodashim* and is treated accordingly. The *chatat she-meisah* is categorically rejected, and therefore *meilah* does not apply. The prohibition of *lo nehenin* remains — the item still possesses *kedusha* at a certain level — but this appears to be an *issur de-rabbanan* rather than Torah-level *meilah*, and the question of whether it constitutes *meilah de-rabbanan* specifically is left somewhat open at this stage.
-
-When the owners have not yet achieved atonement, by contrast, the animal retains its potential: its *kedusha* could ultimately yield a valid *korban* through redemption. Accordingly, *oseh tmura u-mo'alin bah* — it can effect a *tmura* and carries *meilah*. Even *kedushot damim* — monetary sanctification — suffices for *meilah*; the point is that the *kedusha* has a viable trajectory, and therefore the standard rules apply.
-
-### Gemara: Reisha vs. Seifa
-
-> **Hebrew/Aramaic:** מַאי שְׁנָא רֵישָׁא דְּלָא קָא מִיפַּלְגִי, וּמַאי שְׁנָא סֵיפָא דְּקָא מִיפַּלְגִי? רֵישָׁא – פְּסִיקָא לֵיהּ, סֵיפָא – לָא פְּסִיקָא לֵיהּ.
+> **Hebrew/Aramaic:** וְשֶׁעִיבְּרָה שְׁנָתָהּ, וְשֶׁאָבְדָה וְנִמְצֵאת בַּעֲלַת מוּם, אִם מִשֶּׁכִּיפְּרוּ הַבְּעָלִים – תָּמוּת. וְאֵינָהּ עוֹשָׂה תְּמוּרָה, וְלֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
 >
-> **Translation:** The mishna first groups together three cases of sin offerings that are left to die, after which it discusses the other two as another group. The Gemara asks: **What is different about** the three cases in **the first clause that** the mishna **does not distinguish** between whether or not the owner has achieved atonement, **and what is different about the latter clause that** the mishna **does distinguish** between cases where the owner has and has not achieved atonement? The Gemara answers: The three cases of sin offerings discussed in **the first clause are absolute,** i.e., the *halakha* is the same whether or not the owner has achieved atonement. By contrast, the cases of the other two sin offerings discussed in **the latter clause are not absolute,** as their status depends on whether or not their owner achieved atonement by means of another offering.
+> **Translation:** **And** the other two sin offerings left to die are the sin offering **whose year** since birth **passed** and is therefore unfit for sacrifice, **and** a sin offering **that was lost and** when it was **found** it was **blemished,** with regard to which the *halakhot* are as follows: **If** the sin offering was found **after the owner achieved atonement** through the sacrifice of another animal as a sin offering, then the blemished animal **shall die, and it does not render** a non-sacred animal exchanged for it **a substitute,** as it is has neither inherent sanctity, which would make it fit for sacrifice on the altar, nor sanctity that inheres in its value. **And** one **may not derive benefit** from the found animal *ab initio*, **but** if he derived benefit from the animal he is **not** liable for its **misuse.**
 
-The Gemara asks a brief but precise question: *mai shna reisha d'lo kamplig u-mai shna seifa d'kamplig* — why does the first part of the Mishnah list its cases without qualification, while the latter cases depend on circumstances? The answer is self-evident but worth articulating. The first three cases — *vlad chatat*, *tmurat chatat*, and *chatat she-meitu ba'aleha* — are *psika leih*: they admit of no alternative outcome. There is no scenario of *lo nis-kaper be-acher* by a *vlad* or *tmura*, and the owners' death forecloses any future *kaparah* entirely. The latter two cases, by contrast, are *lo psika leih*: whether the animal must die depends entirely on whether atonement has already been achieved. Hence the Mishnah qualifies them accordingly.
+The *mishnah* opens with three unconditional cases of a *chatat* that must be allowed to die. First, *velad chatat*: the offspring of a *chatat*, since a *chatat* must be female and its offspring cannot serve the function of *kaparah*. Second, *tmurat chatat*: the animal substituted for a *chatat*, since only the original animal can function as *kaparah*, not its *temurah*. Third, a *chatat* whose owners have died: there is no longer any *kaparah* to be achieved, and therefore the animal must be allowed to die. In all three of these cases, the ruling is *yamusu* — they are left to die — unconditionally.
 
-### Two Halachot
+### Conditional cases: avrah…
+
+> **Hebrew/Aramaic:** וְאִם עַד שֶׁלֹּא כִּיפְּרוּ הַבְּעָלִים – תִּרְעֶה עַד שֶׁתִּסְתָּאֵב, וְתִמָּכֵר וְיִקְחוּ בְּדָמֶיהָ אַחֶרֶת. וְעוֹשֶׂה תְּמוּרָה, וּמוֹעֲלִין בָּהּ.
+>
+> **Translation:** **And if** the animal whose year passed was found **before the owner achieved atonement,** the found animal **shall graze until it becomes blemished [*shetista'ev*],** at which point it may not be sacrificed; **and it shall be sold and** the owner **shall purchase another** animal **with** the **money** received from **its** sale. The animal that was found blemished may be sold immediately, and the owner shall purchase another animal with the money received from its sale. In both cases, the animal **renders** a non-sacred animal exchanged for it **a substitute,** and one who derives benefit from it is liable for **misusing it.**
+
+Two additional cases of *chatat she-meitah* are conditional upon circumstances. The first is an animal that has passed its first year — *avrah shnasah* — or was lost and subsequently found with a *mum*. The second is an animal whose owners have already achieved *kaparah* through a replacement — *nitkaper b'acher*.
+
+The distinction between these conditional cases and the first three is instructive. *Velad chatat*, *tmurat chatat*, and a *chatat* whose owners died are situations where the animal was never fit for *kaparah* or can never be used for *kaparah* under any circumstances. By contrast, an animal that is more than a year old or was lost presents a different picture: since the problem is essentially analogous to a *mum*, one could wait for the animal to actually develop a *mum* and then redeem it through *pidyon*, using the proceeds for a valid *korban*. Similarly, a lost animal, had it been found intact within its first year, could have been used. In both cases, there remains a potential avenue: if the owner has not yet brought a replacement *korban*, the proper course is *tireh ad she-tistaev v'timacher* — let it graze until it develops a blemish, then sell it and use the proceeds for a new *korban*. Only if the owner proceeded to bring another *korban* first — *nitkaper b'acher* — does this animal fall irrevocably into the category of *chatat she-meitah*, and only then is it left to die.
+
+### No temurah, no me'ilah p…
+
+Having established which animals must die, the *mishnah* draws two halachic consequences. First, such an animal cannot effect *temurah*. Although *temurah* ordinarily applies to any animal with *kedushah* — even a blemished one — an animal whose entire status consists of being condemned to die lacks the operative *kedushah* needed to transfer to another animal. The capacity to make *temurah* requires a *kedushah* that could eventually yield a valid *korban*; here it cannot. Second, and most relevantly for our *masechet*: *lo nehenin v'lo mo'alin* — one may not derive benefit, and there is no *me'ilah*.
+
+This is the critical point. Even a *korban pasul* — one rendered unfit through *pigul* or *tum'ah* — retains *me'ilah*, because even a *pasul korban* is treated within the framework of the *Beit Hamikdash*; it is burnt in the proper manner as *psulei kodashim*. But an animal condemned to die is categorically different. It has been, as *Tosafot* puts it, completely removed from the category of *kodshei Hashem*: *d'keivan d'azli le-ibud lo shaycha behu me'ilah v'lo karinan behu kodshei Hashem*. Once the sole remaining status of the animal is that it must perish, it exits the framework of sanctified items entirely, and *me'ilah* no longer applies.
+
+It should be noted that while *lo nehenin* means the item remains rabbinically forbidden for benefit, the question of whether this rises to *me'ilah de-rabbanan* — with its attendant monetary consequences — is left open for now. The *Meiri* does suggest there is *me'ilah de-rabbanan* even here, but that is a point we will return to when explicit cases of *me'ilah de-rabbanan* arise in subsequent *mishnayot*.
+
+The *mishnah* then turns to the reverse scenario: if the owners have not yet achieved *kaparah* — *v'im ad she-lo kipru ha-ba'alim* — then in the two conditional cases, the animal retains its full status. It can make *temurah*, and there is *me'ilah*, because its *kedushah* could eventually transfer into a valid *korban*.
+
+### Reisha vs. Seifa question
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי שְׁנָא רֵישָׁא דְּלָא קָא מִיפַּלְגִי, וּמַאי שְׁנָא סֵיפָא דְּקָא מִיפַּלְגִי?
+>
+> **Translation:** GEMARA: The mishna first groups together three cases of sin offerings that are left to die, after which it discusses the other two as another group. The Gemara asks: **What is different about** the three cases in **the first clause that** the mishna **does not distinguish** between whether or not the owner has achieved atonement, **and what is different about the latter clause that** the mishna **does distinguish** between cases where the owner has and has not achieved atonement?
+
+The *gemara* poses a brief structural question: why does the *reisha* simply list three cases and declare *yamusu* without qualification, while the *seifa* distinguishes between situations depending on whether *nitkaper b'acher* has occurred?
+
+### Psika lei vs. lo psika l…
+
+> **Hebrew/Aramaic:** רֵישָׁא – פְּסִיקָא לֵיהּ, סֵיפָא – לָא פְּסִיקָא לֵיהּ.
+>
+> **Translation:** The Gemara answers: The three cases of sin offerings discussed in **the first clause are absolute,** i.e., the *halakha* is the same whether or not the owner has achieved atonement. By contrast, the cases of the other two sin offerings discussed in **the latter clause are not absolute,** as their status depends on whether or not their owner achieved atonement by means of another offering.
+
+The answer is straightforward. *Reisha psika lei* — in the first three cases, the outcome is fixed regardless of any circumstance. *Velad chatat* and *tmurat chatat* can never function as *kaparah* under any scenario; a *chatat* whose owners have died admits of no *nitkaper b'acher*. There is nothing to distinguish. *Seifa lo psika lei* — in the last two cases, it genuinely matters whether the owners brought a replacement or not, and so the *mishnah* must make the distinction explicit.
+
+The *gemara* adds one further observation: this same *mishnah* appears in *masechet Temurah*. Why is it taught in both places? Because the *chatat she-meitah* gives rise to two distinct halachic consequences — no *temurah* and no *me'ilah* — and each tractate teaches it for the purpose relevant to its own subject matter.
 
 > **Hebrew/Aramaic:** הָא תְּנָא לֵיהּ גַּבֵּי תְּמוּרָה! תְּנָא הָתָם מִשּׁוּם תְּמוּרָה, תְּנָא הָכָא מִשּׁוּם מְעִילָה.
 >
 > **Translation:** The Gemara asks: **Didn't** the Mishna **teach** this same *halakha* verbatim **in connection with** the topic of **substitution,** in tractate *Temura* (21b)? Why is it repeated here? The Gemara answers: It is **taught there,** in *Temura*, **because** it discusses the *halakhot* of **substitution,** and it is **taught** again **here** in tractate *Me'ila* **because** it discusses the *halakhot* of **misuse.**
 
-The Gemara then raises a related question: this same Mishnah appears in *masechet Tmura* as well. Why is it taught in both *meilah* and *tmura*? The answer is equally direct. *tana hasam mishum tmura* — it is taught there because a *chatat she-meisah* cannot effect a *tmura*, and that *halacha* belongs in the context of *tmura*. *tana hacha mishum me'ila* — it is taught here because the same animal has no *meilah*, and that *halacha* belongs in the context of *meilah*. Two independent *halachot* are taught in their respective *masachtot*.
-
 ---
 
-## Nezir Money
+## Nazir money (unstipu.)
 
-### Unspecified Money
+### Unstipulated funds princ…
 
-> **Hebrew/Aramaic:** הַמַּפְרִישׁ מָעוֹת לִנְזִירוּתוֹ – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין, מִפְּנֵי שֶׁהֵן רְאוּיִן לָבֹא כּוּלָּן שְׁלָמִים.
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמַּפְרִישׁ מָעוֹת לִנְזִירוּתוֹ – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין, מִפְּנֵי שֶׁהֵן רְאוּיִן לָבֹא כּוּלָּן שְׁלָמִים.
 >
 > **Translation:** MISHNA: In the case of a nazirite **who designated money for** the three offerings he is obligated to bring upon completion of **his naziriteship,** a sin offering, a burnt offering, and a peace offering, but he did not specify which money was designated for which offering, since it is not clear what the money is intended for, one **may not derive benefit** from the money *ab initio*, **but** if he derived benefit from the money he is **not** liable for its **misuse.** This is **due to** the fact **that all** the money **is fit** for purchase of the **peace offering,** for which one is liable for misuse only after its blood is sprinkled, and therefore there is no liability for its misuse.
 
-The next Mishnah introduces the case of *ha-mafrish ma'ot l'neziruto* — one who sets aside an unspecified sum of money for his *nezir* offerings. A *nazir* is obligated in three *korbanot* upon completing his *nezirut*: a *chatat*, an *olah*, and a *shelamim*. If he designates a pile of money for these offerings without specifying how much goes to each, the ruling is *lo nehenin v'lo mo'alin* — one may not derive benefit, but if one did, there is no *meilah*.
+The *mishnah* now introduces a new case: *ha-mafrish ma'ot le-neziruto* — one who sets aside money for his *nazir* offerings without specifying how the funds are to be divided. A *nazir* must bring three *korbanot* at the conclusion of his *nezirut*: a *chatat*, an *olah*, and a *shelamim*. If he simply sets aside a sum of money and says he will use it for his *korbanot*, without designating which portion is for which *korban*, the ruling is *lo nehenin v'lo mo'alin* — one may not derive benefit, but there is no *me'ilah*.
 
-The reason is *mipnei she-hein re'uyim lavo kulan shelamim*: it is possible, in principle, that all the money could be used for the *shelamim*. Since the person did not specify how to divide the funds, one cannot say with certainty that any portion was designated for the *olah* or *chatat*. And since a *shelamim* carries no *meilah* — the Mishnah elsewhere teaches that *meilah* by a *shelamim* applies only after *zerikat hadam*, and only to the *emurim* — money set aside for a *shelamim* likewise carries no *meilah*.
+Why no *me'ilah*? The *mishnah* explains: *mipnei she-hein re'uyim lavo kulam shelamim* — because in principle the entire sum could have been used for a *shelamim*. One might think that since a portion of the money would normally go toward an *olah* and a *chatat*, which both carry *me'ilah*, there should be *me'ilah* for that portion at least. But since the owner never specified the allocation, it is entirely possible — though perhaps not the intended plan — that all the money was designated for a *shelamim*, and the *olah* and *chatat* would be purchased separately. Since money designated for a *shelamim* carries no *me'ilah* until *zerikat hadam* — because *shelamim* is *kodashim kalim* and is fundamentally the owner's property, *mamon ba'alim* — the unspecified sum cannot generate *me'ilah*.
 
-This reasoning deserves elaboration. The issue is not merely practical: the *shelamim* is yours to eat, and one could argue that from a purely functional standpoint you are not "misusing" it. The deeper point is conceptual. *kodshei kodashim* is fully *kodshei Hashem* from the moment of sanctification; *kodshei kalim*, by contrast, is *mamon ba'alim* — the owner retains a fundamental proprietary relationship with it. This is why the meat of a *chatat* carries *meilah* before *zerikat hadam* while the meat of a *shelamim* does not: the *chatat* is fully God's from the outset, while the *shelamim* occupies a categorically different conceptual space. The *kohanim* who eat the *chatat* eat *mi-shulchan gavo'ah* — as though at the table of the *mizbeach* — whereas the owners eating their *shelamim* do so in a fundamentally different register.
-
-Since, then, the *nazir*'s unspecified money could all have been used for a *shelamim*, there is no *meilah*.
-
-### Death Case
-
-> **Hebrew/Aramaic:** מֵת וְהָיוּ לוֹ מָעוֹת סְתוּמִין – יִפְּלוּ לִנְדָבָה. מָעוֹת מְפוֹרָשִׁים, דְּמֵי חַטָּאת – יֵלְכוּ לְיָם הַמֶּלַח, לֹא נֶהֱנִין וְלֹא מוֹעֲלִין. דְּמֵי עוֹלָה – יָבִיאוּ עוֹלָה, וּמוֹעֲלִין בָּהֶן. דְּמֵי שְׁלָמִים – יָבִיאוּ שְׁלָמִים, וְנֶאֱכָלִין לְיוֹם אֶחָד. וְאֵין טְעוּנִין לֶחֶם.
->
-> **Translation:** If the nazirite **died and he had undesignated funds,** meaning he did not specify which money was for each of the three offerings, all the money **will be allocated for** purchase of communal **gift** offerings. If the nazirite died and he had **specified money,** the **money** specified for purchase **of** the **sin offering shall go to the Dead Sea** for disposal, because one **may not derive benefit** *ab initio* from the money of a sin offering whose owner has died. But if it was not disposed of, **and** one derived benefit from the money, he is **not** liable for its **misuse. With the** money **specified for purchase** **of** the **burnt offering, one shall bring** a gift **burnt offering, and one is liable for misusing** the funds. With the **money** specified for purchase **of** the **peace offering, one shall bring** a gift **peace offering.** Although it is a gift offering, the restrictions of the peace offering of the naziriteship apply, **and** therefore it is **eaten for one day** and that same night, not the standard two days and one night of a regular peace offering. **And** nevertheless the peace offering **does not require** the bringing of the **loaves** that accompany the peace offering of naziriteship, as it is written with regard to the loaves: "And shall place them on the hands of the nazirite" (Numbers 6:19), and in this case the nazirite is dead.
-
-If the *nazir* dies before using his *ma'ot stumim*, the unspecified funds are designated for an *olah*: *yiplu li-nedavah*. The *chatat* cannot be brought because the owner is dead, and the *shelamim* is sufficiently tied to the specific act of completing one's *nezirut* that it cannot easily be brought on his behalf post-mortem. The *olah*, being generic, can be brought regardless. This appears to derive from a *halacha* — some authorities describe it as having the status of *halacha l'moshe mi-sinai* — though there is also a conceptual basis: the *olah* is the least distinctive of the three *nezir* offerings and is most readily treated as a general *nedavah*.
-
-### Explicit Chatat & Olah
-
-If the *nazir* had designated explicit piles — this for my *chatat*, this for my *olah*, this for my *shelamim* — and then died, each portion is treated according to its designation. The *chatat* money is destroyed — *demi chatat yolchu l'yam ha-melach* — analogous to the *chatat she-meitu ba'aleha*. It is *lo nehenin v'lo mo'alin*, precisely as established in the previous Mishnah regarding the animal itself. The *olah* money is used to bring an *olah*, and *mo'alin bahen*: since it is unambiguously designated for an *olah*, *meilah* applies in full. An *olah* can be brought even after the owner's death, since it is not tied to a specific act of personal *kaparah*.
-
-### Shelamim After Death
-
-The *shelamim* money presents a more complex case. In principle, an animal sanctified as a *shelamim* can be brought after the owner's death, unlike a *chatat* or *asham* whose *kaparah* function is personal. So the money is used to bring a *shelamim*. However, since this *shelamim* was originally sanctified in the context of *nezirut*, it retains some of the character of a *shalmei nazir*, producing an interesting split ruling.
-
-On one hand, *ne'echalin l'yom echad* — it is eaten for only one day, not the standard two days of an ordinary *shelamim*, following the rule of *shalmei nazir*. On the other hand, *ein te'unin lechem* — no bread loaves are brought with it. Normally, a *shalmei nazir* is accompanied by a distinctive set of bread offerings, but the Torah specifies *al kapei ha-nazir* — on the hands of the *nazir* — indicating that the bread is intrinsic to the *nazir*'s presence and to the act of completing his *nezirut*. Without a living *nazir* concluding his *nezirut*, there is no bread. The *kedusha* of the offering, however, remains sufficiently tied to its *nezirut* origins to limit eating to one day. It is thus a quasi-*shalmei nazir*: one day of eating, but no bread.
+This reflects a deeper conceptual point. *Kodshei kodashim* is fully God's property from the moment of sanctification, so the meat retains *me'ilah* until it becomes *mutar la-kohanim*. *Kodshei kalim*, by contrast, is not fully God's property in the same sense — the owner eats the majority, and the animal is conceptually his offering made from his own domain. For that reason, *me'ilah* attaches only to the *emurim* and only after *zerikat hadam*. Money designated for a *shelamim* partakes of this lesser status, and therefore generates no *me'ilah*.
 
 ---
 
-## Bird Offerings
+## Dead Nazir's money
 
-### No Pidyon for Birds
+### Stumim (unstipulated) de…
 
-> **Hebrew/Aramaic:** תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן, וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
+> **Hebrew/Aramaic:** מֵת וְהָיוּ לוֹ מָעוֹת סְתוּמִין – יִפְּלוּ לִנְדָבָה. מָעוֹת מְפוֹרָשִׁים, דְּמֵי חַטָּאת – יֵלְכוּ לְיָם הַמֶּלַח, לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
 >
-> **Translation:** MISHNA: With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.**
+> **Translation:** If the nazirite **died and he had undesignated funds,** meaning he did not specify which money was for each of the three offerings, all the money **will be allocated for** purchase of communal **gift** offerings. If the nazirite died and he had **specified money,** the **money** specified for purchase **of** the **sin offering shall go to the Dead Sea** for disposal, because one **may not derive benefit** *ab initio* from the money of a sin offering whose owner has died. But if it was not disposed of, **and** one derived benefit from the money, he is **not** liable for its **misuse.**
 
-The Mishnah addresses another category that carries no *meilah*: bird offerings that are the wrong age. Bird *korbanot* come in two varieties — *torim* (turtledoves), which must be adults, and *benei yonah* (young pigeons), which must be young. If one sanctifies the wrong type — adult *benei yonah* or too-young *torim* — the bird cannot be used as a *korban*.
+The *mishnah* now addresses the case of a *nazir* who had set aside *stumim* — an unsorted, unlabeled pile of money — and then died. What becomes of those funds? The ruling is *yiplu li-nedavah*: the entire sum is used for an *olah*. The reasoning is essentially that when the *nazir* dies, a *chatat* cannot be brought for him — *kaparah* requires a living owner — and a *shelamim* is sufficiently distinctive to the *nezirut* ritual, marking the formal conclusion of the *nezirut* itself, that it also cannot be brought for a deceased *nazir*. An *olah*, by contrast, is not inherently tied to the *nazir's* personal *kaparah* or the specific ceremony of ending his *nezirut*; it is a generic *olah* which can be brought even on behalf of someone who has died. The money therefore defaults entirely to *olah*.
 
-The key to understanding why there is no *meilah* here lies in a feature unique to bird offerings: there is no *pidyon* — no mechanism of redemption — for birds. Even if a bird has a missing limb, its *kedusha* cannot be transferred to a substitute. (Note that *mumim* per se do not disqualify bird offerings, but a missing limb does; even so, no redemption is possible.) When an animal becomes *pasul*, one can redeem it and use the proceeds. When a bird is unfit, the *kedusha* is entirely trapped: the bird cannot be offered and cannot be redeemed. It is therefore *holeich le-ibud* — headed toward destruction — and like the *chatat she-meisah*, exits the category of *kodshei Hashem*, resulting in no *meilah*.
+### Mefurashim (explicit all…
 
-### Reish Lakish Challenge
-
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רֵישׁ לָקִישׁ: וְלִיתְנֵי נָמֵי: הַמַּפְרִישׁ מָעוֹת לְקִינִּים – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין, מִפְּנֵי שֶׁהֵן רְאוּיִן לְהָבִיא תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן!
+> **Hebrew/Aramaic:** דְּמֵי עוֹלָה – יָבִיאוּ עוֹלָה, וּמוֹעֲלִין בָּהֶן. דְּמֵי שְׁלָמִים – יָבִיאוּ שְׁלָמִים, וְנֶאֱכָלִין לְיוֹם אֶחָד. וְאֵין טְעוּנִין לֶחֶם.
 >
-> **Translation:** GEMARA: The mishna teaches that if a nazirite designated money for the three offerings that he is obligated to bring upon completion of his naziriteship but did not specify which money was designated for which offering, one who derived benefit from the money is not liable for its misuse, as all the money is fit for purchase of the peace offering. **Reish Lakish objects to this: And let** the *tanna* of the mishna **also teach** a similar *halakha* with regard to **one who** was obligated to bring a pair of birds as an offering in a purification ritual, e.g., for a leper or a woman who gave birth, and he **designated money for** those **nests,** i.e., the bird offerings, but did not specify which money was for the burnt offering and which was for the sin offering. Reish Lakish elaborates: Here too, the *tanna* could have stated that one **may not derive benefit** from the money *ab initio*, **but** if he derived benefit from it he is **not** liable for its **misuse.** This is **due to** the fact that **that** all the money **is fit** for purchase of **doves whose time** of fitness for sacrifice **has not** yet **arrived,** as they are fit for sacrifice only when they are older; or **pigeons whose time** of fitness **has passed,** which are fit only when they are young. Since these are not fit to be sacrificed, one is not liable for misuse.
+> **Translation:** With the **money** specified for purchase **of** the **burnt offering, one shall bring** a gift **burnt offering, and one is liable for misusing** the funds. With the **money** specified for purchase **of** the **peace offering, one shall bring** a gift **peace offering.** Although it is a gift offering, the restrictions of the peace offering of the naziriteship apply, **and** therefore it is **eaten for one day** and that same night, not the standard two days and one night of a regular peace offering. **And** nevertheless the peace offering **does not require** the bringing of the **loaves** that accompany the peace offering of naziriteship, as it is written with regard to the loaves: "And shall place them on the hands of the nazirite" (Numbers 6:19), and in this case the nazirite is dead.
 
-Reish Lakish raises a challenge: why does the Mishnah not similarly teach that one who sets aside money for bird offerings — *ma'ot le-kinim* — has *lo nehenin v'lo mo'alin*? Bird *korbanot* typically consist of an *olah* and *chatat*, which do carry *meilah*. But, Reish Lakish argues, perhaps the money should have no *meilah* because it could be used to purchase *torim she-lo higia zmanam* — turtledoves that are too young — which at the moment of purchase would not yet be fit for use, and therefore, at least initially, there would be no *meilah*.
+The *mishnah* then addresses *mefurashim* — the case where the *nazir* had set aside explicitly labeled piles: this is for my *chatat*, this for my *olah*, this for my *shelamim*. If he then dies:
 
-Tosafot clarifies the focus of Reish Lakish's question. He does not genuinely mean that the money could be used for birds that are permanently invalid, which would make the question absurd. Rather, his scenario is specifically the too-young *tor*: one purchases it now, it is not yet fit, and therefore at the moment of purchase there is no *meilah* — one simply waits until the bird matures. This is at least a coherent question: the money is used for a legitimate purpose, and the bird will eventually be valid; why then should the money carry *meilah* from the outset?
+The *chatat* money is destroyed — *demei chatat yolchu le-yam ha-melach*. It parallels *chatat she-metu ba'aleha*, and its status is *lo nehenin v'lo mo'alin*: rabbinically forbidden for benefit, but no *me'ilah*, just as with the actual animal in the earlier *mishnah*.
 
-### Rava's Answer
+The *olah* money — *demei olah* — is used to bring an *olah*, and there is *me'ilah*. Since an *olah* can be brought without the owner being alive, this presents no obstacle, and its full *me'ilah* status is retained.
+
+The *shelamim* money — *demei shelamim* — is also used to bring a *shelamim*, since in principle an animal sanctified as a *shelamim* can be offered after its owner's death, unlike a *chatat* or *asham* which require the living owner for *kaparah*.
+
+### Shelamim status: hybrid
+
+However, the *shelamim* brought with this money has a distinctive hybrid status, reflecting its peculiar provenance. On the one hand, *ne'echalin le-yom echad* — it is eaten for one day only, not two. Normally a *shelamim* is eaten for two days, but *shalmei nazir* is eaten for one day only, and this *shelamim* retains that character from its origin as *nazir* money. On the other hand, *v'ein te'unin lechem* — no bread accompanies it. The bread loaves that accompany a *nazir's shelamim* are brought *al kapei ha-nazir* — literally waved over the hands of the *nazir* — and are intrinsically tied to the specific ceremony of ending the *nezirut* in the *nazir's* presence. Without the living *nazir* and without the formal conclusion of *nezirut*, there is no basis for the bread. Thus the offering is quasi-*shalmei nazir*: limited to one day of eating, reflecting its *nazir* origins, but without the bread, which requires the *nazir's* physical presence.
+
+---
+
+## Nazir money (unstipu.)…
+
+### Kinim comparison
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַתְקֵיף לַהּ רֵישׁ לָקִישׁ: וְלִיתְנֵי נָמֵי: הַמַּפְרִישׁ מָעוֹת לְקִינִּים –
+>
+> **Translation:** GEMARA: The mishna teaches that if a nazirite designated money for the three offerings that he is obligated to bring upon completion of his naziriteship but did not specify which money was designated for which offering, one who derived benefit from the money is not liable for its misuse, as all the money is fit for purchase of the peace offering. **Reish Lakish objects to this: And let** the *tanna* of the mishna **also teach** a similar *halakha* with regard to **one who** was obligated to bring a pair of birds as an offering in a purification ritual, e.g., for a leper or a woman who gave birth, and he **designated money for** those **nests,** i.e., the bird offerings, but did not specify which money was for the burnt offering and which was for the sin offering.
+
+The *gemara* raises a challenge attributed to Reish Lakish: if unstipulated *nazir* money carries no *me'ilah* because it could all have been used for a *shelamim*, why does the same logic not apply to money set aside for *kinim* — bird offerings? Ordinarily, *kinim* for a *nazir* consist of an *olah* and a *chatat*, both of which carry *me'ilah*. But one might argue: perhaps the money was used to purchase *torim* (turtledoves) that were too young to be brought immediately, or *benei yonah* (young pigeons) that had already aged beyond their valid window. In that case — at least for the too-young *torim*, which could eventually be used once they reach maturity — one could argue that at the moment of purchase there is no *me'ilah*, since the birds at that age fall into the category of *lo nehenin v'lo mo'alin*. If so, why doesn't the *mishnah* similarly teach that money set aside for *kinim* carries no *me'ilah*?
+
+> **Hebrew/Aramaic:** לֹא נֶהֱנִין וְלֹא מוֹעֲלִין, מִפְּנֵי שֶׁהֵן רְאוּיִן לְהָבִיא תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן!
+>
+> **Translation:** Reish Lakish elaborates: Here too, the *tanna* could have stated that one **may not derive benefit** from the money *ab initio*, **but** if he derived benefit from it he is **not** liable for its **misuse.** This is **due to** the fact that **that** all the money **is fit** for purchase of **doves whose time** of fitness for sacrifice **has not** yet **arrived,** as they are fit for sacrifice only when they are older; or **pigeons whose time** of fitness **has passed,** which are fit only when they are young. Since these are not fit to be sacrificed, one is not liable for misuse.
+
+*Tosafot* sharpens the question considerably. The stronger version of the challenge concerns only the too-young *torim*, not the overage *benei yonah*. In the case of a too-young *tor*, the owner does nothing wrong by purchasing the bird — he simply must wait for it to mature, at which point it becomes usable. So the question is: at the moment of purchase, when the bird is too young and temporarily exempt from *me'ilah*, why does that not affect the status of the money?
+
+### Rava's answer
 
 > **Hebrew/Aramaic:** אָמַר רָבָא: אָמְרָה תּוֹרָה בְּמָעוֹת סְתוּמִין: הָבֵא שְׁלָמִים, אָמְרָה תּוֹרָה: הָבֵא תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן? אֵינָן רְאוּיִין לַמִּזְבֵּחַ!
 >
 > **Translation:** **Rava says** in response: This *halakha* is not included in the mishna because the two cases are not comparable: **In** the case of the **undesignated money,** the **Torah said** to **bring a peace offering** as one of the obligatory offerings of a nazirite. Since any part of the money may be used to purchase the peace offering, there is no liability for its misuse. By contrast, in the case of one who designated money for bird offerings, did the **Torah say to** use this money to **bring** specifically **doves whose time** of fitness **has not arrived?** Such birds **are not fit to** be sacrificed on **the altar.** Therefore, it cannot be said this money is intended for a purpose that does not entail liability for misuse.
 
-Rava responds: *amrah Torah bi-motar setumim yihyu shelamim* — the Torah accepts that unspecified *nazir* funds may all be used for a *shelamim*. That is a legitimate use of the money. But the Torah did not instruct one to purchase birds *she-einam re'uyim la-mizbeach* — birds that are not presently fit for use. The proper use of sanctified money designated for bird offerings is to buy birds that can be used now. The status of the money reflects its proper designated purpose: to acquire fit offerings immediately. Because that purpose entails full *meilah*, the money itself carries *meilah*.
+Rava resolves the question with a fundamental principle: *amrah Torah be-motar setumim yihyu shelamim* — the Torah is fine with the unallocated *nazir* money being used entirely for a *shelamim*, because a *shelamim* is a fully valid and legitimate use of those funds from the outset. But, Rava continues, does anyone think the Torah intends for one to purchase birds that are *she-einam re'uyim le-mizbe'ach* — currently unfit for the *mizbe'ach*? The *halakhah* contemplates that when money is designated for *kinim*, it will be used to purchase birds that are immediately valid for offering. The assumption underlying the money's *kedushah* is that it will acquire a currently usable *korban*, and therefore the money itself carries *me'ilah* in full.
 
-One might ask: does not the same logic apply to *mechassar zman* — an animal that is too young to be offered? Indeed, *meilah* does apply by *mechassar zman*. The case of birds is unique precisely because there is no *meilah* even when a bird is too young. This is the premise we are working with in the Mishnah, and it will be examined further. The important point Rava establishes is that the standard of the money's *kedusha* is set by the assumption of proper, immediately valid use.
+This also explains why *mechusar zman* — an animal not yet old enough to be offered — does not generate an exemption from *me'ilah* for the money used to purchase it. The difference is that *me'ilah* does apply to a *mechusar zman* animal in general; it is not in the category of *lo nehenin v'lo mo'alin* in the way that too-young birds are. Birds are uniquely situated, as we will now see.
 
 ---
 
-## Blood Status
+## Birds unsuitable by age
 
-### Blood Paradox
+### Kinim uniqueness
+
+Birds offering are fundamentally different from animal offerings in one critical respect: there is no *pidyon* by birds. Even if a bird has a *mum* or is missing a limb — and indeed the Torah never requires *temimut* of birds — the *kedushah* cannot be transferred to another bird or redeemed in money. If a bird is consecrated and then rendered permanently unusable, there is no avenue whatsoever to extract or redirect its *kedushah*. It is purely *holech le-ibud*, destined for complete loss. A consecrated bird that is too old — in the case of *torim*, who must be adults, one that was consecrated while still too young — cannot be brought and cannot be redeemed. Its *kedushah* simply expires with it.
+
+### No me'ilah (parallel to…
+
+> **Hebrew/Aramaic:** מַתְנִי׳ דִּישּׁוּן מִזְבֵּחַ הַפְּנִימִי, וְהַמְּנוֹרָה – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין. הַמַּקְדִּישׁ דִּישּׁוּן בַּתְּחִלָּה – מוֹעֲלִין בָּהּ. תּוֹרִין שֶׁלֹּא הִגִּיעַ זְמַנָּן, וּבְנֵי יוֹנָה שֶׁעָבַר זְמַנָּן – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
+>
+> **Translation:** MISHNA: With regard to **the removal of ash** from **the inner altar** to the place where the ashes lifted from the outer altar are deposited, **and** similarly with regard to the wicks of **the Candelabrum,** one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.** In the case of **one who consecrates anew** the **ash** that has been **removed,** he is liable for **misusing it.** With regard to **doves whose time** of fitness for sacrifice **has not arrived,** as they are too young, **and pigeons whose time** of fitness for sacrifice **has passed,** as they are too old, one **may not derive benefit** from them *ab initio*; **but** if one derived benefit from them he is **not** liable for their **misuse.**
+
+On this basis, a bird that is unsuitable by age is treated as a parallel to *chatat she-meitah*: it is completely removed from the category of *kodshei Hashem*, and therefore *lo nehenin v'lo mo'alin* — forbidden for benefit but without *me'ilah*.
+
+The question of a bird that is too *young* is slightly more nuanced: one could, in principle, wait for it to mature. But as Rava explained, the *halakhah* does not contemplate purchasing unsuitable birds and waiting; the money's *kedushah* is structured around the immediate acquisition of a valid *korban*. And in any event, too-young birds, while temporarily unsuitable, share enough of the structural problem — no *pidyon*, total dependence on the animal becoming valid on its own — that they are treated similarly for purposes of *me'ilah*.
+
+A parenthetical observation: since a *chatat she-meitah* carries no *me'ilah*, one might wonder whether there is less urgency in ensuring the animal is not fed or cared for. Indeed, the consequence of unauthorized use is diminished — it is not *me'ilah de-oraita*. Yet this actually sharpens the underlying difficulty with the entire institution of *chatat she-meitah*: not only must the animal be left to die, but even misuse of it does not constitute *me'ilah*, so the system of deterrence is weakened. The further concern — that the animal might bear offspring, creating a *velad chatat she-meitah* — provides an additional reason why the owner would not want the animal to live, quite apart from the *me'ilah* question.
+
+---
+
+## Blood (dam): paradox
+
+### Dam: before vs. after
+
+> **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי שִׁמְעוֹן אוֹמֵר: הַדָּם – קַל בַּתְּחִלָּה וְחָמוּר בְּסוֹפוֹ. נְסָכִין – חוֹמֶר בִּתְחִלָּתָן וְקַל בְּסוֹפָן.
+>
+> **Translation:** MISHNA: **Rabbi Shimon says:** With regard to misuse of **the blood** of offerings that is to be sprinkled on the altar, the *halakha* is **lenient** with regard to the status of the blood **at the outset and stringent at its conclusion.** With regard to misuse of the wine of the **libations** that accompany the offerings, the *halakha* is **stringent** with regard to the status of the wine **at their outset and lenient at their conclusion.**
+
+The *mishnah* now takes up one of the most striking cases in the *perek* — the status of *dam*, the blood of sacrifices. Rabbi Shimon states the paradox directly: *ha-dam kal be-techilato ve-chamur be-sofo* — blood is more lenient at the outset and stricter at the end.
+
+What does this mean?
 
 > **Hebrew/Aramaic:** דָּם, בִּתְחִלָּתוֹ – אֵין מוֹעֲלִין. יָצָא לְנַחַל קִדְרוֹן – מוֹעֲלִין בּוֹ. נְסָכִין בִּתְחִלָּתָן – מוֹעֲלִין בָּהֶן. יָרְדוּ לַשִּׁיתִין – אֵין מוֹעֲלִין בָּהֶן.
 >
 > **Translation:** The mishna explains: With regard to **blood, at its outset,** before it is sprinkled on the altar, **one is not liable for misusing** it; but once its remainder has been poured on the base of the altar and it **emerges** via the canal that runs through the Temple **to the Kidron Valley** at the foot of the Temple Mount, **one is liable for misusing it.** With regard to **libations, at their outset,** from the moment they were consecrated, **one** is liable for **misusing them,** but once **they** have **descended to the drainpipes** built into the altar and which extend beneath it, through which the libations flowed out of the Temple, **one is no** longer liable for **misusing them,** as their mitzva was fulfilled and therefore their sanctity has ceased.
 
-Rabbi Shimon teaches a striking comparison: *ha-dam kal bi-tchilato v'chamur be-sofo* — blood is more lenient at its beginning and more stringent at its end. Conversely, *ha-nesachim chamur bi-tchilatan v'kal be-sofan* — the wine libations are more stringent at their beginning and more lenient at their end.
+*Dam be-techilato ein mo'alin bo* — initially, before *zerikat hadam*, there is no *me'ilah* by the blood. This is astonishing. Blood is if anything the most fundamentally *la-Hashem* element of the *korban* — the soul of the animal, the very substance through which *kaparah* is achieved. And yet there is no *me'ilah*?
 
-Regarding blood: *dam bi-tchilato ein mo'alin bo* — initially there is no *meilah* by blood. This is genuinely surprising: if anything in the *korban* service is *kulo la-Shem*, it is the blood, which is the very vehicle of *kaparah*. Yet *meilah* does not apply. Once the blood is washed out into the *nachal kidron* — through the drains of the *mikdash* floor, channeled out to the Kidron Valley where it was sold to farmers as fertilizer — there is *meilah*: *mo'alin bo*. However, it should be noted, though the Gemara does not make it fully explicit here, that the *meilah* that applies after the blood reaches the Kidron is only *meilah de-rabbanan*. This follows from the principle of *ne'asah mitzvato* — once the blood was applied to the *mizbeach*, its *mitzvah* was completed, and after that point, full Torah-level *meilah* does not apply. The Gemara takes this for granted.
+The end is equally puzzling in the reverse direction. After the blood is used in *zerikat hadam*, it is washed out through the drains of the *Beit Hamikdash* and flows into the *Nachal Kidron*, where it is sold to farmers as fertilizer. And it is at this stage — *yatza le-nachal Kidron* — that the *mishnah* says *mo'alin bo*: there is *me'ilah*. After the *mitzvah* is completed and the blood has been expelled from the *Mikdash*, *me'ilah* applies.
 
----
-
-## Nesachim
-
-### Wine Paradox
-
-
-The *nesachim* — wine libations — follow the expected pattern in one direction and the paradox in the other. Before being poured, the wine clearly carries *meilah*: it is sanctified for the *korban*, and *mo'alin bahen*. Once poured down the *shishin* — the funnels or caverns within the *mizbeach* — there is no *meilah*: *ein mo'alin bahen*. This follows the standard rule of *ne'asah mitzvato*: the *mitzvah* of pouring is complete, and *meilah* no longer applies.
-
-The comparison between blood and wine is apt: both are liquids used in the *korban* service, and neither has a simple post-use fate analogous to meat (which is eaten or burned) or the *emurim* (which are burned on the *mizbeach*). The wine is paradoxical only in the other direction — it carries *meilah* before use and not after, following the standard rule. The blood is the truly paradoxical case: no *meilah* before use, and (rabbinically) *meilah* after.
+This is to be understood, as is clear from other sources, as only *me'ilah de-rabbanan*. After *zerikat hadam* the general principle of *na'asah mitzvaso* would remove *me'ilah*, and the application of *me'ilah* here is rabbinic. The striking fact remains: before the *mitzvah*, no *me'ilah* even rabbinically; after the *mitzvah*, at least rabbinic *me'ilah*.
 
 ---
 
-## Blood Status…
+## Nesachim (wine libations)
 
-### Rabbi Meir vs. Chachamim
+### Nesachim before & after
 
-> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מוֹעֲלִין בְּדָמִים, דִּבְרֵי רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן. וַחֲכָמִים אוֹמְרִים: אֵין מוֹעֲלִין.
+The *mishnah* contrasts this with *nesachim* — the wine libations poured with *korbanot*. *Nesachim bi-techilatan mo'alin bahen* — before they are poured, the wine is sanctified for the *mizbe'ach* and there is naturally *me'ilah*. *Yardu la-shitin* — once the wine is poured down the funnels into the hollow cavities of the *mizbe'ach* — *ein mo'alin bahen*, there is no *me'ilah*. This is the straightforward application of *na'asah mitzvaso*: once the *mitzvah* is fulfilled, *me'ilah* no longer applies.
+
+### Wine vs. blood logic
+
+The comparison between wine and blood is illuminating, since both are liquids poured upon the *mizbe'ach* and both present questions about their status before and after the relevant *mitzvah* is performed. Wine follows the standard rule: *me'ilah* before, no *me'ilah* after (*na'asah mitzvaso*). Blood is the anomaly: no *me'ilah* before, and only rabbinic *me'ilah* after. The *mishnah* therefore pairs them to highlight the contrast.
+
+---
+
+## Blood (dam): paradox…
+
+### Meir vs. Chakhamim
+
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: מוֹעֲלִין בְּדָמִים, דִּבְרֵי רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן. וַחֲכָמִים אוֹמְרִים: אֵין מוֹעֲלִין.
 >
-> **Translation:** The Gemara cites a *baraita* relating to the mishna's ruling that once the remainder of the blood emerged via the canal that runs through the Temple one is liable for its misuse. **The Sages taught** in a *baraita*: **One** is liable for **misusing** the **blood** of the offerings after it has emerged via the canal that runs through the Temple to the Kidron Valley. This is **the statement of Rabbi Meir and Rabbi Shimon. And the Rabbis say: One is not** liable for **misusing** the blood.
+> **Translation:** GEMARA: The Gemara cites a *baraita* relating to the mishna's ruling that once the remainder of the blood emerged via the canal that runs through the Temple one is liable for its misuse. **The Sages taught** in a *baraita*: **One** is liable for **misusing** the **blood** of the offerings after it has emerged via the canal that runs through the Temple to the Kidron Valley. This is **the statement of Rabbi Meir and Rabbi Shimon. And the Rabbis say: One is not** liable for **misusing** the blood.
 
-A *baraita* records the dispute explicitly. *mo'alin ba-dam — divrei rabbi meir*: there is *meilah* by blood, according to Rabbi Meir (and this is also identified with Rabbi Shimon's view in our Mishnah). The *chachamim* say *ein mo'alin* — there is no *meilah*.
+The *gemara* opens with a *tannaitic* dispute. Rabbi Meir holds that *mo'alin ba-dam* — there is *me'ilah* by blood. The *mishnah*'s position, attributed to Rabbi Shimon, is that there is no *me'ilah* by blood before *zerikat hadam*. The Chakhamim agree with Rabbi Shimon: *ein mo'alin* — no *me'ilah*. The *gemara* then proceeds to offer several explanations for the majority position.
 
-### Atonement Function
+### Ulla: 'lachem' argument
 
-> **Hebrew/Aramaic:** אָמַר עוּלָּא: אָמַר קְרָא: ״וַאֲנִי נְתַתִּיו לָכֶם״ – שֶׁלָּכֶם הוּא. דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״לְכַפֵּר״ – לְכַפָּרָה נְתַתִּיו, וְלֹא לִמְעִילָה.
+> **Hebrew/Aramaic:** מַאי טַעְמָא דְּמַאן דְּאָמַר אֵין מוֹעֲלִין? אָמַר עוּלָּא: אָמַר קְרָא: ״וַאֲנִי נְתַתִּיו לָכֶם״ – שֶׁלָּכֶם הוּא. דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנוּא: ״לְכַפֵּר״ – לְכַפָּרָה נְתַתִּיו, וְלֹא לִמְעִילָה.
 >
 > **Translation:** The Gemara asks: **What is the reason of the one who says** that **one is not** liable for **misusing** the blood, despite the fact that it comes from a consecrated offering? **Ulla said** that blood is not consecrated, because **the verse states:** "For the life of the flesh is in the blood, **and I have given it to you** upon the altar to atone for your souls" (Leviticus 17:11). "To you" indicates that **it shall be yours,** and it is not the property of the Temple. A Sage **of the school** of **Rabbi Yishmael** likewise **taught** that the term **"to atone"** teaches that God says: **I gave it for atonement, and not for** the prohibition against **misuse** of consecrated property.
 
-Ulla explains the *chachamim*'s reasoning from a *pasuk*: *va-ani netativ lachem al ha-mizbeach le-chapper* — "I have given it to you on the altar to atone." The word *lachem* — "to you" — indicates that the blood is performing a service for the person. This, the *chachamim* understand, removes it from the category of *kodshei Hashem* and exempts it from *meilah*. The irony is striking and noted: one would have thought that the very fact that blood serves as the vehicle of *kaparah* would intensify its sacred status, not diminish it. Yet the *pasuk* is read to say: I have given it over to you, it is in your service, and therefore it does not fall under *meilah*.
+Ulla cites the *pasuk*: *va'ani netativ lachem al ha-mizbe'ach le-khapper* — "I have given it to you, upon the altar, to atone." The word *lachem* — "to you," "for you" — indicates that the blood is performing a service *for you*, the offerer. This somehow removes it from the full category of *kodshei Hashem*, exempting it from *me'ilah*. Admittedly, this argument is difficult to fully internalize. One might ask: is not the entire *korban* brought for the benefit of the owner? And specifically a *chatat* is entirely oriented around the owner's *kaparah*. The logic seems to push toward exempting *me'ilah* from the entire *korban*, not just the blood. The *gemara* does not resolve this tension directly.
 
-The school of Rabbi Yishmael formulates the principle more explicitly: *li-chappara netativ v'lo li-me'ila* — I gave it for atonement, not to generate *meilah*. The *pasuk* carves blood out of the *meilah* framework entirely because its purpose is redemptive. One might object that this reasoning could apply equally to the entire *korban* — it is all brought for *kaparah*. The objection is valid and difficult to fully resolve; the exemption appears to be specific to blood based on the explicit *pasuk*.
+### Yishmael: purpose-based…
 
-### One Status Theory
+The school of Rabbi Yishmael offers a closely related formulation: *le-khapparah netativ v'lo li-me'ilah* — I have given it for atonement, and not for *me'ilah*. The *pasuk* is read as explicitly exempting blood from *me'ilah* precisely because its function is atoning for the owner. This formulation is at least somewhat clearer in its conceptual structure: the *pasuk* establishes that the blood's purpose is atonement for the person, and the Torah therefore deliberately removes it from the penal category of *me'ilah*, lest the very act of *kaparah* become a stumbling block. The same objection applies — why not say this about the entire *korban* — and remains unanswered.
+
+### Yochanan: gezeirah shava
 
 > **Hebrew/Aramaic:** רַבִּי יוֹחָנָן אָמַר, אָמַר קְרָא: ״כִּי הַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר״ – לִפְנֵי כַפָּרָה כִּלְאַחַר כַּפָּרָה הוּא. מָה לְאַחַר כַּפָּרָה אֵין בּוֹ מְעִילָה, אַף לִפְנֵי כַפָּרָה אֵין בּוֹ מְעִילָה.
 >
 > **Translation:** **Rabbi Yoḥanan says** this *halakha* is derived from a different phrase, as **the verse states:** "For **it is the blood that atones by** reason of the **life"** (Leviticus 17:11). The word "is" teaches that the blood remains as it **is,** retaining the same status **before atonement as after atonement: Just as after atonement** it is **not subject to** the prohibition against **misuse** of consecrated property, as the mitzva has been performed, **so too, before atonement it is not subject to misuse** of consecrated property.
 
-Rabbi Yochanan adduces a different *pasuk*: *ki ha-dam hu ba-nefesh yekhapper* — "for the blood, it is in the life-force, it will atone." The emphasis is on *hu* — "it is." From this, Rabbi Yochanan derives *lifnei kaparah k'le'achar kaparah*: the blood has one status before and after *kaparah*. Just as after *kaparah* there is no *meilah* (since *ne'asah mitzvato*), so too before *kaparah* there is no *meilah*.
+Rabbi Yochanan takes a different approach, citing the *pasuk*: *ki ha-dam hu ba-nefesh yekhapper* — "for the blood, it is in the soul that it atones." From the word *hu* — "it" — Rabbi Yochanan derives a *gezeirah shavah*: the blood has one unified status, *ha-dam hu*, before and after *kaparah*. *Lifnei khapparah ke-le'achar khapparah* — the status before *kaparah* is the same as the status after *kaparah*. Since after *zerikat hadam* the blood is *na'asah mitzvaso* and carries no *me'ilah* (at most rabbinic), the same must apply beforehand.
+
+### Challenge & na'asah mitz…
 
 > **Hebrew/Aramaic:** וְאֵימָא: מַה לִפְנֵי כַפָּרָה – יֵשׁ בּוֹ מְעִילָה, אַף לְאַחַר כַּפָּרָה – יֵשׁ בּוֹ מְעִילָה!
 >
 > **Translation:** The Gemara asks: **But** if the basis for this *halakha* is that the status of blood remains the same before and after atonement, one can **say** the opposite, that its status after atonement should be like its status before atonement: **Just as before atonement it is subject to misuse** of consecrated property, **so too, after atonement it is subject to misuse** of consecrated property.
 
-The Gemara asks: why not reverse the inference? Why not say that since before *kaparah* there is *meilah*, therefore after *kaparah* there is also *meilah*? The Gemara answers: *v'chi yesh lecha davar she-ne'asah mitzvato v'yesh bo me'ilah*? — is there anything that, once its *mitzvah* has been fulfilled, retains *meilah*? This principle is treated as inviolable: once *ne'asah mitzvato*, *meilah* cannot apply. Therefore, if we must apply the equation in one direction, it must be that before *kaparah* is like after — exempt.
-
-### Nesaia Mitzvato
-
-> **Hebrew/Aramaic:** וְכִי יֵשׁ לְךָ דָּבָר שֶׁנַּעֲשֵׂית מִצְוָתוֹ וְיֵשׁ בּוֹ מְעִילָה? אַמַּאי לָא?! הֲרֵי תְּרוּמַת הַדֶּשֶׁן, שֶׁנַּעֲשָׂה מִצְוָתוֹ, וְיֵשׁ בּוֹ מְעִילָה!
+> **Hebrew/Aramaic:** וְכִי יֵשׁ לְךָ דָּבָר שֶׁנַּעֲשֵׂית מִצְוָתוֹ וְיֵשׁ בּוֹ מְעִילָה? אַמַּאי לָא?!
 >
-> **Translation:** The Gemara rejects this contention with a rhetorical question: **Is there anything whose mitzva has been performed and it is** still **subject to misuse** of consecrated property? The Gemara challenges this assumption: **Why not?** Why not say this; is there really no precedent for such a suggestion? But **there is** the instance of the **removal of the ashes** of offerings burned on the altar, **whose mitzva has been performed and** nevertheless **it is** still **subject to misuse** of consecrated property.
+> **Translation:** The Gemara rejects this contention with a rhetorical question: **Is there anything whose mitzva has been performed and it is** still **subject to misuse** of consecrated property? The Gemara challenges this assumption: **Why not?** Why not say this; is there really no precedent for such a suggestion?
 
-The Gemara now confronts the apparent exceptions. Is it truly the case that nothing retains *meilah* once *ne'asah mitzvato*? The Gemara raises *trumas ha-deshen*: the ashes removed each morning from the *mizbeach* by the *kohen* and deposited at the side of the ramp. The *mitzvah* of *trumas ha-deshen* is complete once the *kohen* sets the ashes down — yet *meilah* continues to apply to those ashes. How? The *pasuk* says *ve-samo etzel ha-mizbeach* — "and he shall place it beside the *mizbeach*" — from which *chazal* derive that the ashes must remain there, preserving their status; and since they must preserve their state, they also preserve their *kedusha* and *meilah*.
+The *gemara* challenges this reasoning: why not read the *gezeirah shavah* in the opposite direction? If *ha-dam hu* establishes one unified status, perhaps just as there should be *me'ilah* beforehand — as with all sanctified items — so too there should be *me'ilah* afterwards. The *gemara* responds: *vekhi yesh lekha davar she-na'asah mitzvaso ve-yesh bo me'ilah?* — is there any sanctified item that has fulfilled its *mitzvah* and still carries *me'ilah*? That would violate a clear and general principle. Since we must resolve the *gezeirah shavah* in one direction, we choose the direction that does not contradict the universal rule of *na'asah mitzvaso*: we exempt *me'ilah* before *zerikat hadam* rather than imposing *me'ilah* after.
+
+---
+
+## Na'asah mitzvaso excepti…
+
+### Terumas hadeshen & se'ir
+
+> **Hebrew/Aramaic:** הֲרֵי תְּרוּמַת הַדֶּשֶׁן, שֶׁנַּעֲשָׂה מִצְוָתוֹ, וְיֵשׁ בּוֹ מְעִילָה!
+>
+> **Translation:** But **there is** the instance of the **removal of the ashes** of offerings burned on the altar, **whose mitzva has been performed and** nevertheless **it is** still **subject to misuse** of consecrated property.
+
+The *gemara* now challenges the assumed universality of the *na'asah mitzvaso* rule by citing apparent exceptions. *Harei terumas hadeshen she-na'asah mitzvaso ve-yesh bo me'ilah* — what about *terumas hadeshen*, where the *mitzvah* is clearly complete and yet *me'ilah* continues to apply?
+
+The *terumas hadeshen* is performed each morning: a *kohen* scoops ashes from the *mizbe'ach* and places them at the side of the ramp. That constitutes the fulfillment of the *mitzvah*. And yet those specific ashes — not the accumulated ashes left behind on the *mizbe'ach*, which were the subject of a different discussion in earlier *dapim*, but the ashes that were the object of the *terumas hadeshen* itself — retain *me'ilah* even after the *mitzvah* is done. Similarly, the limbs of the *se'ir ha-mishtalach* — the scapegoat sent over the cliff on *Yom Kippur* — retain a prohibition even after they are shattered at the bottom.
+
+### Terumas: vesamo sham
 
 > **Hebrew/Aramaic:** מִשּׁוּם דְּהָוֵה לֵיהּ תְּרוּמַת הַדֶּשֶׁן וְאֵיבְרֵי שָׂעִיר הַמִּשְׁתַּלֵּחַ שְׁנֵי כְּתוּבִין הַבָּאִין כְּאֶחָד, וְכׇל שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד – אֵין מְלַמְּדִין.
 >
 > **Translation:** The Gemara answers: The removal of the ashes cannot serve as a model for other *halakhot* whose mitzva has been performed, **because** the mitzva of **the removal of the ashes and the limbs of the scapegoat** of Yom Kippur after it was pushed off the cliff are both subject to the prohibition of misuse even after their mitzva has been performed. Consequently, they **are two verses that come as one,** i.e., they are two cases that share a unique *halakha* not found elsewhere. **And** there is a principle: **Any two verses that come as one do not teach** their common aspect to apply to other cases.
 
-Similarly, the limbs of the *se'ir ha-mishtale'ach* — the goat sent to *azazel* on *yom kippur*, which is thrown over the cliff — retain their *issur* status even after the goat has been destroyed. This appears to be another case where *ne'asah mitzvato* does not terminate the operative status.
+How do we know *me'ilah* applies to the ashes of *terumas hadeshen* even after the *mitzvah* is fulfilled? From the *pasuk*: *ve-samo etzel ha-mizbe'ach* — "and he shall place it beside the altar." The phrase *ve-samo*, "and he shall place it there," is understood by *Chazal* to mean that the ashes must remain where they are placed; they must preserve their resting state. From this mandate of preservation, we infer that the ashes retain their *kedushah* — and therefore also their *me'ilah* — even after the *mitzvah* is complete. If the *pasuk* requires them to stay in place, it implies they continue to carry a halachic status that prevents their use for any other purpose.
 
----
+### Shnei ktuvim rule
 
-## Nesaia Mitzvato Exceptio…
-
-### Two Exceptions Doctrine
+The *gemara* deploys the *shnei ktuvim ha-ba'im ke-echad* principle in response: when two separate written sources each teach an exception to a general rule, the exceptions do not combine to override the rule — they remain isolated exceptions.
 
 > **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר אֵיבְרֵי שָׂעִיר הַמִּשְׁתַּלֵּחַ – אֵין נֶהֱנִין מֵהֶן, אֶלָּא לְמַאן דְּאָמַר נֶהֱנִין מֵהֶן, מַאי אִיכָּא לְמֵימַר?!
 >
 > **Translation:** The Gemara objects: **This works out well according to the one who said** that **one may not derive benefit from the limbs of the scapegoat,** as this is a second verse indicating that an item can be subject to the *halakha* of misuse even after its mitzva has been performed. **But according to** the **one who said** that **one may derive benefit from** the limbs of the scapegoat, and they are not subject to the *halakha* of misuse, **what can be said** to explain why it is not possible to derive this *halakha* from the removal of the ashes? According to that opinion, this is not a case of two verses that come as one.
 
-The Gemara's response to these objections is the principle: *shnei ktuvim ha-ba'im k'echad ein melamdin* — two exceptional verses that arrive together do not generalize into a rule. When there are two scriptural exceptions to a principle, one cannot extend those exceptions further; they remain isolated cases. Accordingly, *trumas ha-deshen* and the *se'ir ha-mishtale'ach* are both exceptions to the rule of *ne'asah mitzvato*, but since there are two of them, we do not generalize and hold that the principle is defeated — we simply recognize those two as anomalies.
+*Terumas hadeshen* and the *se'ir ha-mishtalach* together constitute two such exceptions; therefore, they do not generate a broader principle that *na'asah mitzvaso* fails to terminate *me'ilah*.
 
-However, the Gemara immediately notes a complication: *haneicha l'man d'amar ein nehenin mehem* — this works well according to the opinion that holds the limbs of the *se'ir ha-mishtale'ach* remain forbidden after it goes over the cliff. But according to the opinion that permits deriving benefit from those limbs — that *ne'asah mitzvato* fully releases them — then we have only one exception (*trumas ha-deshen*), and one exception might be generalized into a rule, which would undermine the principle entirely.
-
-### Multiple Exceptions
+This principle is then tested across several alternate configurations as the *gemara* considers opinions that accept or reject various individual exceptions. For one opinion that holds there is no prohibition by the limbs of the *se'ir ha-mishtalach* — *nehenin mehem* — there would be only one exception, and *shnei ktuvim* would not apply. The *gemara* responds that *bigdei kohen gadol* on *Yom Kippur* — which also retain a post-*mitzvah* prohibition via the *pasuk* of *ve-hinicham sham* — provides a second exception.
 
 > **Hebrew/Aramaic:** מִשּׁוּם דְּהָוֵה לֵיהּ תְּרוּמַת הַדֶּשֶׁן וּבִגְדֵי כְהוּנָּה שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד, וְכׇל שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד – אֵין מְלַמְּדִין.
 >
-> **Translation:** The Gemara explains: Even according to that opinion, the removal of the ashes cannot serve as a model for other *halakhot* whose mitzva has been performed, **because** the mitzva of **the removal of the ashes and the priestly vestments,** the four white garments worn by the High Priest on Yom Kippur, are both subject to the *halakha* of misuse of consecrated property even after their mitzva has been performed. Consequently, they **are two verses that come as one, and any two verses that come as one do not teach** their common aspect.
+> **Translation:** The Gemara explains: Even so, the removal of the ashes cannot serve as a model for other *halakhot* whose mitzva has been performed, **because** the cases of **the removal of the ashes and the priestly vestments,** the four white garments worn by the High Priest on Yom Kippur, are both subject to the *halakha* of misuse of consecrated property even after their mitzva has been performed. Consequently, they **are two verses that come as one, and any two verses that come as one do not teach** their common aspect.
 
-To meet this challenge, the Gemara introduces additional exceptions. If the *se'ir ha-mishtale'ach* is not available as an exception, we can substitute *bigdei kehuna* — the priestly garments, specifically those of the *kohen gadol* on *yom kippur*. The *pasuk* says *ve-hinicham sham* — "and he shall leave them there" — from which *chazal* derive that the *yom kippur* garments of the *kohen gadol* must remain and may not be used again (at least not for another *yom kippur*). According to the *rabbanan*, they require *gnizah* — burial — and retain their forbidden status even after the *kohen gadol* has completed his service. This provides a second exception to pair with *trumas ha-deshen*, restoring the two-exception structure.
+For yet another permutation involving Rabbi Dosa, who holds that *bigdei kehunah* may be used by an ordinary *kohen* and are therefore not truly an exception, the *gemara* introduces *egla arufa* as a second case in which *na'asah mitzvaso* does not terminate the forbidden status.
 
-> **Hebrew/Aramaic:** הָנִיחָא לְרַבָּנַן דְּאָמְרִי: ״וְהִנִּיחָם שָׁם״ – מְלַמֵּד שֶׁהֵן טְעוּנִין גְּנִיזָה, שַׁפִּיר. אֶלָּא לְרַבִּי דּוֹסָא, דְּאָמַר: מוּתָּר לְהִשְׁתַּמֵּשׁ בָּהֶן כֹּהֵן הֶדְיוֹט, מַאי אִיכָּא לְמֵימַר?
+> **Hebrew/Aramaic:** הָנִיחָא לְרַבָּנַן דְּאָמְרִי: ״וְהִנִּיחָם שָׁם״ – מְלַמֵּד שֶׁהֵן טְעוּנִין גְּנִיזָה, שַׁפִּיר.
 >
-> **Translation:** The Gemara raises a further difficulty: **This works out well according to** the opinion of **the Rabbis, who say** that the verse: "And he shall take off the linen garments, which he wore when he went into the sacred place, **and shall leave them there"** (Leviticus 16:23), **teaches that** the four white garments worn by the High Priest on Yom Kippur are unfit for further use, and **they require interment.** According to their opinion, the answer given by the Gemara works out **well. But according to** the opinion of **Rabbi Dosa, who said** that these priestly vestments, which are the same as those required by an ordinary priest throughout the year, **are permitted for use by an ordinary priest** and do not require interment, which means that misuse of consecrated property does not apply to them, **what can be said** to explain why it is not possible to derive the *halakha* from the removal of the ashes, since it is a lone instance and therefore should serve as a general source for other cases?
+> **Translation:** The Gemara raises a further difficulty: **This works out well according to** the opinion of **the Rabbis, who say** that the verse: "And he shall take off the linen garments, which he wore when he went into the sacred place, **and shall leave them there"** (Leviticus 16:23), **teaches that** the four white garments worn by the High Priest on Yom Kippur are unfit for further use, and **they require interment.** According to their opinion, the answer given by the Gemara works out **well.**
 
-Rabbi Dosa, however, holds that a regular *kohen* (not the *kohen gadol*) may use those garments during the rest of the year, rendering the prohibition less absolute and casting doubt on whether these garments truly serve as a valid parallel exception. According to Rabbi Dosa, then, we again have only one exception, and the Gemara must find another.
+> **Hebrew/Aramaic:** אֶלָּא לְרַבִּי דּוֹסָא, דְּאָמַר: מוּתָּר לְהִשְׁתַּמֵּשׁ בָּהֶן כֹּהֵן הֶדְיוֹט, מַאי אִיכָּא לְמֵימַר?
+>
+> **Translation:** **But according to** the opinion of **Rabbi Dosa, who said** that these priestly vestments, which are the same as those required by an ordinary priest throughout the year, **are permitted for use by an ordinary priest** and do not require interment, which means that misuse of consecrated property does not apply to them, **what can be said** to explain why it is not possible to derive the *halakha* from the removal of the ashes, since it is a lone instance and therefore should serve as a general source for other cases?
 
 > **Hebrew/Aramaic:** מִשּׁוּם דְּהָוֵה תְּרוּמַת הַדֶּשֶׁן וְעֶגְלָה עֲרוּפָה שְׁנֵי כְתוּבִין הַבָּאִין כְּאֶחָד.
 >
 > **Translation:** The Gemara responds: Even so, the removal of the ashes cannot serve as a model for other *halakhot* whose mitzva has been performed, **because** the cases of **the removal of the ashes and the heifer whose neck is broken,** a ritual performed in certain cases of murder where the perpetrator is not identified, **are two verses that come as one** that do not teach their common aspect, as they are both subject to the *halakha* of misuse of consecrated property even after their mitzva has been performed.
 
-The Gemara's final answer is *egla arufa* — the heifer whose neck is broken when a murder victim is found in the field. Even after the *mitzvah* of *arifa* is performed, the *egla* remains forbidden for use: *ne'asah mitzvato* does not release it. This is another case where the completion of the *mitzvah* does not change the operative status, and it can serve alongside *trumas ha-deshen* to constitute the necessary pair of exceptions.
-
-It is worth noting, however, that *egla arufa* is not a *kodashim* case — the *egla* is not sanctified *hekdesh* and there is no *meilah* involved. What the *egla arufa* demonstrates is a broader principle: that *ne'asah mitzvato* does not always effect a status change. The *meilah* cases (*trumas ha-deshen*, *bigdei kehuna*) involve that principle specifically within the *kedusha* framework; *egla arufa* simply demonstrates that the underlying concept — that completion of a *mitzvah* need not dissolve an operative status — has wider application.
-
-### Limiting Language
-
-> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר אֵין מְלַמְּדִין, אֶלָּא לְמַאן דְּאָמַר מְלַמְּדִין, מַאי אִיכָּא לְמֵימַר?! תְּרֵי מִיעוּטֵי כְּתִיבִי. כְּתִיב הָתָם: ״הָעֲרוּפָה״, וּכְתִיב הָתָם ״וְשָׂמוֹ אֵצֶל הַמִּזְבֵּחַ״, הָנֵי – אִין, מִידֵּי אַחֲרִינָא – לָא.
+> **Hebrew/Aramaic:** הָנִיחָא לְמַאן דְּאָמַר אֵין מְלַמְּדִין, אֶלָּא לְמַאן דְּאָמַר מְלַמְּדִין, מַאי אִיכָּא לְמֵימַר?
 >
-> **Translation:** The Gemara challenges this reply: **This** answer **works out well according to the one who says** that two verses that come as one **do not teach** their common aspect to other cases, **but according to the one who said** that two verses that come as one do **teach** their common aspect to other cases, **what is there to say?** The Gemara explains: **Two exclusions are written** in these two cases, which indicate that this *halakha* applies only to them. **There,** with regard to the heifer whose neck is broken, **it is written: "The one whose neck was broken"** (Deuteronomy 21:6), and the definite article indicates that this *halakha* should not be extended to other cases. **And there,** with regard to the removal of ashes, **it is written: "And he shall put it next to the altar"** (Leviticus 6:3), indicating that it alone is subject to the prohibition of misuse despite the fact that this is after the fulfillment of its mitzva. The verse emphasizes that this *halakha* applies to "it," the ashes, but not to anything else. It is derived from these exclusions that specifically in the case of **these, yes,** there is misuse after the fulfillment of the mitzva, but with regard to **other matters** there is **no** misuse after fulfillment of the mitzva.
+> **Translation:** The Gemara challenges this reply: **This** answer **works out well according to the one who says** that two verses that come as one **do not teach** their common aspect to other cases, **but according to the one who said** that two verses that come as one do **teach** their common aspect to other cases, **what is there to say?**
 
-The Gemara ultimately explains why these exceptions cannot be extended further: the Torah employs limiting language in each case. By the *egla arufa*, the *pasuk* uses *ha-arufa* — specifically *it*, singling out this case. By the *trumas ha-deshen*, the *pasuk* uses *ve-samo* — "and he shall place it" — indicating that *it* remains, confined to that context. These limiting expressions signal that the exception is local. *hanei in* — these cases yes; *midei achrinei lo* — other cases no.
+> **Hebrew/Aramaic:** תְּרֵי מִיעוּטֵי כְּתִיבִי. כְּתִיב הָתָם: ״הָעֲרוּפָה״,
+>
+> **Translation:** The Gemara explains: **Two exclusions are written** in these two cases, which indicate that this *halakha* applies only to them. **There,** with regard to the heifer whose neck is broken, **it is written: "The one whose neck was broken"** (Deuteronomy 21:6), and the definite article indicates that this *halakha* should not be extended to other cases.
 
-At this point it is worth stepping back to note a gap in the Gemara's reasoning that deserves attention. The original question was how we know that blood is exempt from *meilah before* the *kaparah*, based on comparing before and after. The Gemara's proposed answer was: since after *ne'asah mitzvato* there is no *meilah*, and blood has one status throughout, therefore before as well there is none. The Gemara then challenged this by showing there are exceptions to *ne'asah mitzvato*. But the challenge itself proves too much, or rather too little: we were not claiming that blood should become a rule that overturns *ne'asah mitzvato*. We were claiming that blood should be an *exception* — exempt from *meilah* even before *ne'asah mitzvato*. And since we have already shown that exceptions exist (*trumas ha-deshen* retains *meilah* despite *ne'asah mitzvato*; conceivably blood could be an exception in the opposite direction), the argument does not fully close. The Gemara, it seems, simply takes it as a default assumption that where the *pasuk* does not explicitly carve out an exception, the standard rule applies — and blood's exemption is established by the explicit *pasuk* of *lachem*, not by the inferential argument from *ne'asah mitzvato* alone.
+> **Hebrew/Aramaic:** וּכְתִיב הָתָם ״וְשָׂמוֹ אֵצֶל הַמִּזְבֵּחַ״, הָנֵי – אִין, מִידֵּי אַחֲרִינָא – לָא.
+>
+> **Translation:** **And there,** with regard to the removal of ashes, **it is written: "And he shall put it next to the altar"** (Leviticus 6:3), indicating that it alone is subject to the prohibition of misuse despite the fact that this is after the fulfillment of its mitzva. The verse emphasizes that this *halakha* applies to "it," the ashes, but not to anything else. It is derived from these exclusions that specifically in the case of **these, yes,** there is misuse after the fulfillment of the mitzva, but with regard to **other matters** there is **no** misuse after fulfillment of the mitzva.
 
-It is also notable that the concept of *ne'asah mitzvato* operates beyond *meilah* specifically. When the Gemara adduces *egla arufa* — a case involving *issur hana'ah* rather than *meilah* — it demonstrates that this is a general principle governing status transitions across different categories of sanctity and prohibition. Similarly, a burned *chametz* becomes *mutar be-hana'ah* after the *mitzvah* of *srefa* is complete. These all share the underlying principle: *ne'asah mitzvato* changes status; the question in each case is whether a specific *pasuk* or other consideration establishes an exception.
+The *gemara* acknowledges that *egla arufa* is not a case of *me'ilah* — it is not a sanctified item. But its inclusion makes a broader point: the principle that *na'asah mitzvaso* changes status is a general halachic concept, not limited to *me'ilah*, and exceptions to it — like *egla arufa* — demonstrate that *na'asah mitzvaso* is not invariably decisive. Where two such exceptions exist, they cannot be generalized into a rule.
+
+For an opinion that even two exceptions can be generalized (*mlamdin*), the *gemara* notes that explicit limiting terms are written in each case — *ha-arufah* for *egla arufa* and *ve-samo* for *terumas hadeshen* — each of which confines the exception to its own context and prevents application elsewhere.
+
+One further observation is worth making: the discussion reveals that the concept of *na'asah mitzvaso* as a status-terminating principle extends beyond *me'ilah* into the broader domain of *issurei hana'ah*. The classic example is *chametz* after *srefah*: once the *mitzvah* of burning the *chametz* is performed, the ashes are *mutar be-hana'ah*. The principle operates consistently across multiple domains of halacha.
 
 ---
 
-## Nesachim…
+## Rabbi Elazar: wine clots
 
-### Wine Burning
+### Lul tunnel description
 
-> **Hebrew/Aramaic:** לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק, דְּתַנְיָא, רַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק אוֹמֵר: לוּל קָטָן הָיָה בֵּין כֶּבֶשׁ לַמִּזְבֵּחַ, בְּמַעֲרָבוֹ שֶׁל כֶּבֶשׁ. אַחַת לְשִׁבְעִים שָׁנָה פִּרְחֵי כְהוּנָּה יוֹרְדִין בּוֹ, וּמְבִיאִין יַיִן קָרוּשׁ, שֶׁהוּא דּוֹמֶה לְעִגּוּלֵי דְבֵילָה, וְשׂוֹרְפִין אוֹתָהּ בִּקְדוּשָּׁה. שֶׁנֶּאֱמַר: ״בַּקֹּדֶשׁ הַסֵּךְ נֶסֶךְ שֵׁכָר לַה׳״ – כְּשֵׁם שֶׁנִּיסּוּכָהּ בִּקְדוּשָּׁה, כָּךְ שְׂרֵיפָתָהּ בִּקְדוּשָּׁה.
+> **Hebrew/Aramaic:** נְסָכִים בַּתְּחִילָּה מוֹעֲלִין בָּהֶן [וְכוּ׳]. לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק,
 >
-> **Translation:** The mishna teaches: With regard to **libations, at their outset,** from the moment they were consecrated, **one** is liable for **misusing them,** but once they have descended to the drainpipes built into the altar one is no longer liable for their misuse. The Gemara suggests: **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Elazar bar Rabbi Tzadok. As it is taught** in a *baraita* that **Rabbi Elazar bar Rabbi Tzadok says: There was a small gap between** the **ramp and** the **altar west of** the **ramp. Once in seventy years young priests** would **descend there** to the drainpipes built into the altar **and bring** out from there the **congealed wine** left over from the libations that had accumulated over time, **which resembled round cakes of** dried and **pressed figs. And** they would **burn it in sanctity** in the Temple courtyard, **as it is stated: "In sanctity shall you pour a libation of strong drink to the Lord"** (Numbers 28:7). This teaches that **just as its pouring is in sanctity, so too, its burning** must be **in sanctity.**
+> **Translation:** § The mishna teaches: With regard to **libations, at their outset,** from the moment they were consecrated, **one** is liable for **misusing them,** but once they have descended to the drainpipes built into the altar one is no longer liable for their misuse. The Gemara suggests: **Let us say that the mishna is not in accordance with** the opinion of **Rabbi Elazar bar Rabbi Tzadok.**
 
-Having established that wine has *meilah* before pouring and not after, the Gemara raises a challenge from a *baraita* attributed to Rabbi Elazar bar Tzadok: even after the wine is poured and descends into the *mizbeach*, it must be burned *bi-kedusha* — in sanctity, as one burns *psulei ha-mukdashim*. If Rabbi Elazar bar Tzadok holds that the wine must be burned *bi-kedusha* even after use, this seems to contradict the Mishnah's ruling that there is no *meilah* afterward.
-
-### Lul Mechanism
-
-
-The *baraita* describes the physical arrangement of the Temple in this context. There was a *lul katan* — a small trapdoor or duct — located between the ramp (*kevesh*) and the *mizbeach*, specifically at the western side of the ramp. (Tosafot notes that "between" here likely refers to the base of the *mizbeach* where it extends beyond the ramp, not literally in the gap between them.) This duct served as a crawl space through which one could access the hollow interior of the *mizbeach*, where poured wine would accumulate over time.
-
-### Cleaning Frequency
-
-
-*Achat le-shivim shana* — once every seventy years — *pirchei kehunah* — young priestly apprentices, small enough to fit through the narrow opening — would descend into the hollow and retrieve the congealed wine, called *yayin karush*, which had solidified into rounds resembling pressed figs (*igulei devela*). *ve-sorfin oto bi-kedusha* — and they would burn it in sanctity. The scriptural source Rabbi Elazar bar Tzadok cites is *ba-kodesh hasach nesech shechar la-Hashem* — "in the holy place you shall pour a libation of strong drink to God" — from which he derives: *keshem she-nisucha bi-kedusha kach srifata bi-kedusha* — just as its pouring is in sanctity, so its burning is in sanctity.
-
-> **Hebrew/Aramaic:** מַאי מַשְׁמַע? וְאָמַר רָבִינָא: אַתְיָא ״קֹדֶשׁ״ ״קֹדֶשׁ״. כְּתִיב הָכָא: ״בַּקֹּדֶשׁ״, וּכְתִיב הָתָם: ״וְשָׂרַפְתָּ אֶת הַנּוֹתָר בָּאֵשׁ וְלֹא יֹאכַל כִּי קֹדֶשׁ הֵם״, מָה נוֹתָר – שְׂרֵיפָתוֹ בִּקְדוּשָּׁה, אַף הַאי נָמֵי בִּקְדוּשָּׁה!
+> **Hebrew/Aramaic:** דְּתַנְיָא, רַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק אוֹמֵר: לוּל קָטָן הָיָה בֵּין כֶּבֶשׁ לַמִּזְבֵּחַ, בְּמַעֲרָבוֹ שֶׁל כֶּבֶשׁ. אַחַת לְשִׁבְעִים שָׁנָה פִּרְחֵי כְהוּנָּה יוֹרְדִין בּוֹ, וּמְבִיאִים יַיִן קָרוּשׁ, שֶׁהוּא דּוֹמֶה לְעִגּוּלֵי דְבֵילָה, וְשׂוֹרְפִין אוֹתָהּ בִּקְדוּשָּׁה. שֶׁנֶּאֱמַר: ״בַּקֹּדֶשׁ הַסֵּךְ נֶסֶךְ שֵׁכָר לַה׳״ – כְּשֵׁם שֶׁנִּיסּוּכָהּ בִּקְדוּשָּׁה, כָּךְ שְׂרֵיפָתָהּ בִּקְדוּשָּׁה.
 >
-> **Translation:** Before addressing the issue of whether or not the mishna is in accordance with the opinion of Rabbi Elazar bar Rabbi Tzadok, the Gemara first analyzes the derivation stated at the end of the *baraita*: **From where is** this *halakha* of burning **inferred?** After all, the verse it cites is referring to pouring, not burning. **Ravina said: It is derived** by means of a verbal analogy between an expression of **sanctity** written with regard to libations and **sanctity** written with regard to leftover offerings. **It is written here,** with regard to libations: **"In sanctity** shall you pour a libation" (Numbers 28:7), **and it is written there,** with regard to leftover offerings: **"You shall burn the leftovers in fire; they are not to be eaten, because it is sanctified"** (Exodus 29:34). This teaches that **just as** the **burning of leftover** offerings must **be in sanctity, so too,** the burning of **these** congealed libations must **also** be **in sanctity.** After the Gemara has clarified the *baraita* itself, it returns to the issue of whether or not the mishna here is in accordance with the opinion of Rabbi Elazar bar Rabbi Tzadok. It is clear from the *baraita* that he maintains that even after the libations descend into the drainpipes that are built into the altar, they retain their sanctity and are therefore burned, which apparently contradicts the opinion of the mishna.
+> **Translation:** **As it is taught** in a *baraita* that **Rabbi Elazar bar Rabbi Tzadok says: There was a small gap between** the **ramp and** the **altar west of** the **ramp. Once in seventy years young priests** would **descend there** to the drainpipes built into the altar **and bring** out from there the **congealed wine** left over from the libations that had accumulated over time, **which resembled round cakes of** dried and **pressed figs. And** they would **burn it in sanctity** in the Temple courtyard, **as it is stated: "In sanctity shall you pour a libation of strong drink to the Lord"** (Numbers 28:7). This teaches that **just as its pouring is in sanctity, so too, its burning** must be **in sanctity.**
 
-The Gemara then records Rav Ashi citing Ravina's explanation that the derivation is actually a *gezeirah shavah* of *kodesh–kodesh*: the word *kodesh* appears here in connection with pouring the *nesachim*, and the same word appears in the context of *notar* — *ki kodesh hu* — where burning in sanctity is mandated. The analogy connects the two, teaching that the congealed wine requires the same treatment as *notar* and other *psulei ha-mukdashim* that must be burned.
+The *mishnah*'s teaching that there is no *me'ilah* in the wine after it has been poured into the *shitin* prompts a *baraita* from Rabbi Elazar bar Tzadok describing the remarkable physical reality of what happened to those libations over time.
 
-### Hit Floor Question
+Rabbi Elazar bar Tzadok reports: *lul katan haya bein kevesh le-mizbe'ach be-ma'aravo shel kevesh* — there was a small tunnel, a sort of duct or crawl space, situated between the ramp and the altar at the western side of the ramp. The wine poured in *nesachim* flowed down through the *shitin* — the funnels at the top of the *mizbe'ach* — and into the hollow interior. Whether those cavities were simply within the body of the *mizbe'ach* or extended deep underground is a dispute in *masechet Sukkah*, but in either case, over the course of time, the poured wine would accumulate and congeal within the interior of the *mizbe'ach*.
+
+Once every seventy years — *achat le-shiv'im shanah* — *pirchei kehunah*, young *kohanim* (likely boys small enough to fit), would descend into this tunnel and extract the accumulated congealed wine. The wine is described as *yayin karush she-domeh le-igulei deveilah* — congealed wine resembling rounds of pressed figs, thick and solidified after years of accumulation.
+
+### Burning in sanctity
+
+What was done with this congealed wine? *V'sorfin oto bi-kedushah* — it was burned in sanctity, just as defective or *pasul* sanctified items are burned. The *baraita* derives this from the *pasuk*: *ba-kodesh hasach nesech shekhar la-Hashem* — "in the holy place you shall pour a libation of strong drink to God." The inference is: just as the pouring itself was *bi-kedushah*, so too its burning — and by extension, any dealing with what remains — is *bi-kedushah*.
+
+> **Hebrew/Aramaic:** מַאי מַשְׁמַע? וְאָמַר רָבִינָא: אַתְיָא ״קֹדֶשׁ״ ״קֹדֶשׁ״. כְּתִיב הָכָא: ״בַּקֹּדֶשׁ״, וּכְתִיב הָתָם: ״וְשָׂרַפְתָּ אֶת הַנּוֹתָר בָּאֵשׁ וְלֹא יֹאכַל כִּי קֹדֶשׁ הֵם״,
+>
+> **Translation:** Before addressing the issue of whether or not the mishna is in accordance with the opinion of Rabbi Elazar bar Rabbi Tzadok, the Gemara first analyzes the derivation stated at the end of the *baraita*: **From where is** this *halakha* of burning **inferred?** After all, the verse it cites is referring to pouring, not burning. **Ravina said: It is derived** by means of a verbal analogy between an expression of **sanctity** written with regard to libations and **sanctity** written with regard to leftover offerings. **It is written here,** with regard to libations: **"In sanctity** shall you pour a libation" (Numbers 28:7), **and it is written there,** with regard to leftover offerings: **"You shall burn the leftovers in fire; they are not to be eaten, because it is sanctified"** (Exodus 29:34).
+
+The *gemara* then provides an alternative derivation: *atya kodesh kodesh* — a *gezeirah shavah* linking the word *kodesh* here to *kodesh* written by *notar*: *u-srafta ba-esh lo ye'achel ki kodesh hu*. From *notar*, which is burned because of its *kedushah*, we derive that this congealed wine, which also retains its sacred character, is burned *bi-kedushah* in the same manner.
+
+> **Hebrew/Aramaic:** מָה נוֹתָר – שְׂרֵיפָתוֹ בִּקְדוּשָּׁה, אַף הַאי נָמֵי בִּקְדוּשָּׁה!
+>
+> **Translation:** This teaches that **just as** the **burning of leftover** offerings must **be in sanctity, so too,** the burning of **these** congealed libations must **also** be **in sanctity.** After the Gemara has clarified the *baraita* itself, it returns to the issue of whether or not the mishna here is in accordance with the opinion of Rabbi Elazar bar Rabbi Tzadok. It is clear from the *baraita* that he maintains that even after the libations descend into the drainpipes that are built into the altar, they retain their sanctity and are therefore burned, which apparently contradicts the opinion of the mishna.
+
+### Burning: doritta vs. der…
 
 > **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק, דְּאִי קְלַט.
 >
 > **Translation:** The Gemara rejects this claim: **You** may **even say** that the mishna is in accordance with the opinion of **Rabbi Elazar bar Rabbi Tzadok, as** it can be claimed that the mishna is referring to the specific case **where** some of the libations were **collected** in the space between the ramp and the altar and did not reach the bottom of the drainpipes. In such a situation, the libations are not subject to misuse and there is no requirement of burning, even according to the opinion of Rabbi Elazar bar Rabbi Tzadok. By contrast, the *tanna* of the mishna agrees that libations that reached the bottom of the drainpipes are thereby consecrated, and therefore they are subject to misuse and there is a requirement of burning.
 
-The Gemara initially suggests that our Mishnah's ruling of no *meilah* after pouring is not in conflict with Rabbi Elazar bar Tzadok's view, because the relevant distinction is whether the wine physically contacted the floor of the *mizbeach*. According to Tosafot's explanation of this resolution, wine that descends into the *chalal* of the *mizbeach* and strikes the floor acquires a new level of *kedusha* — analogous to how the floor of the *beis hamikdash* itself is *mikdash* — while wine caught before hitting the floor does not. Under this reading, the Mishnah's ruling that there is no *meilah* refers to wine intercepted mid-air (a somewhat strained scenario), while Rabbi Elazar bar Tzadok's requirement to burn applies to wine that already landed. The two positions are thus reconcilable.
+The *gemara* initially notes a potential tension between this *baraita* and our *mishnah*. Our *mishnah* teaches *ein mo'alin* — no *me'ilah* — by wine after it has descended into the *shitin*, in accordance with the principle of *na'asah mitzvaso*. But Rabbi Elazar bar Tzadok says the congealed wine must be burned *bi-kedushah*, which appears to imply it retains *kedushah* and possibly *me'ilah*.
 
-### Rabbinic Burning
+The *gemara* suggests a resolution: *de-ikkalat* — perhaps the *mishnah*'s case of no *me'ilah* refers specifically to wine that was caught in midair before it settled into the hollow and made contact with the floor of the *mizbe'ach*. *Tosafot* elaborates that contact with the floor of the *Mikdash* — which is itself *mekudash* — re-invests the wine with at least a rabbinic *kedushah*. On this reading, the *mishnah* and Rabbi Elazar bar Tzadok are addressing different scenarios.
+
+> **Hebrew/Aramaic:** אִיכָּא דְאָמְרִי: לֵימָא מַתְנִיתִין כְּרַבִּי אֶלְעָזָר בַּר רַבִּי צָדוֹק, דְּאִי קְלַט?
+>
+> **Translation:** **There are** those **who say** a different version of this discussion. **Let us say that the mishna is in accordance with** the opinion of **Rabbi Elazar bar Rabbi Tzadok,** and it is referring to the specific case **where** some of the libations were **collected** in the space between the ramp and the altar and did not reach the bottom of the drainpipes. In such an instance the libations are not subject to misuse and there is no requirement of burning. One can infer that libations that reached the bottom of the drainpipes are thereby consecrated, and are subject to misuse and must be burned.
+
+An alternative resolution, however, is offered as well: *afilu teima Rabbi Elazar bar Tzadok* — even according to Rabbi Elazar bar Tzadok, the *mishnah* may be consistent with him, because when he says the wine must be burned *bi-kedushah*, he may mean only *mi-derabbanan*. At the level of *d'oraita*, the principle of *na'asah mitzvaso* removes all *me'ilah* once the libation is complete. Rabbi Elazar bar Tzadok's requirement to burn the wine is a rabbinic enactment, not a reflection of ongoing *me'ilah de-oraita*. The *gemara* acknowledges that he derives this from *pesukim*, but those citations are understood as *asmachta* — textual support for a rabbinic ruling rather than a true *d'oraita* source.
 
 > **Hebrew/Aramaic:** אָמְרִי: לָא, וּמִדְּרַבָּנַן. וְהָא קְרָא קָנָסֵיב לַהּ? אַסְמַכְתָּא.
 >
-> **Translation:** The Gemara rejects this claim. The Sages **say** in response: **No;** this is not the correct explanation. Rather, Rabbi Elazar bar Rabbi Tzadok concedes that even libations that reached the bottom of the drainpipes are not subject to misuse, as by Torah law they are not consecrated. **And** his ruling that they must be burned applies **by rabbinic law.** The Gemara raises a difficulty: **But** Rabbi Elazar bar Tzadok **cites a verse** in support of this *halakha* that the libations are burned, which indicates that it applies by Torah law. The Gemara answers: The verse is a mere **support,** not an actual source for the *halakha*, and therefore its citation does not prove that this prohibition applies by Torah law.
+> **Translation:** The Sages **say** in response: **No;** this is not the correct explanation. Rather, Rabbi Elazar bar Rabbi Tzadok concedes that even libations that reached the bottom of the drainpipes are not subject to misuse, as by Torah law they are not consecrated. **And** his ruling that they must be burned applies **by rabbinic law.** The Gemara raises a difficulty: **But** Rabbi Elazar bar Tzadok **cites a verse** in support of this *halakha* that the libations are burned, which indicates that it applies by Torah law. The Gemara answers: The verse is a mere **support,** not an actual source for the *halakha*, and therefore its citation does not prove that this prohibition applies by Torah law.
 
-The Gemara offers an alternative resolution: even according to Rabbi Elazar bar Tzadok, the requirement to burn the congealed wine is only *mi-derabbanan* — rabbinic. The *pasuk* he cites is treated as an *asmachta*, a scriptural hook for a rabbinic enactment rather than a genuine Torah derivation. In truth, *ne'asah mitzvato* applies and there is no Torah-level *meilah* or obligation to burn. The Gemara therefore concludes that our Mishnah's ruling of no *meilah* is consistent with Rabbi Elazar bar Tzadok even under his position, since his burning requirement is merely rabbinic and does not reflect a continuing Torah-level *kedusha*. Whether this rabbinic requirement also entails *meilah de-rabbanan* is not resolved; the Gemara's point is simply that it does not contradict the Mishnah's ruling about the absence of *meilah*.
+The *gemara* therefore concludes that Rabbi Elazar bar Tzadok's ruling is consistent with our *mishnah* — there is no *me'ilah* in the wine after it has fulfilled its *mitzvah* — and that the requirement to burn the congealed wine is at most a rabbinic obligation, not evidence of continuing *me'ilah de-oraita*.

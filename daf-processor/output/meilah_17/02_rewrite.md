@@ -1,153 +1,157 @@
 # Meilah 17 — Daf Yomi Shiur
 
-## Sheretz Combination
+## Blood & Flesh Combine
 
-### Dam & Basar
+### Mishnah Introduction
 
-The seventeenth daf opens with a *mishnah* that addresses a question of combination in the laws of *tumah*: *dam hasheretz vehabasar mitztarfin ze im ze* — the blood of a *sheretz* and its flesh combine with one another to reach the minimum measure. We have already learned that the minimum measure (*shiur*) for *sheratzim* is *ke'adasha*, the size of a lentil. Accordingly, if one has a small quantity of the blood and a small quantity of the flesh of a *sheretz*, the two combine to constitute the *shiur* necessary to convey *tumah*.
+The seventeenth daf opens with a *mishnah* whose subject is *mitztarfin* — the principle of combination. *Dam HaSheretz v'HaBassar mitztarfin ze im ze*: the blood of a *sheretz* and the flesh of a *sheretz* combine with one another to constitute the minimum measure required to convey *tumah*. We have already established that *sheratzim* carry a *shiur* of *ke'adasha*, a lentil-sized amount. Accordingly, if one has a small quantity of blood and a small quantity of flesh, each insufficient on its own, they may join together to reach that minimum and thereby cause *tumah*.
 
-### R. Yehoshua Principle
+### R. Yehoshua's Principle
 
-The *mishnah* then presents a general principle articulated by Rabbi Yehoshua: *kol shetumato veshiuro shavin mitztarfin* — any two substances whose degree of *tumah* and whose required measure are equal combine with one another to reach that measure. This is the governing rule for understanding when combination across substances is permitted.
+The *mishnah* then records a general principle in the name of Rabbi Yehoshua: *kol she-tumato v'shiuro shavin mitztarfin* — whenever the degree of *tumah* and the *shiur* are equal, the two substances combine. This is a formal statement governing combination across this body of law.
 
-### Tumato v'Lo Shiuro
+### Non-Combination Cases
 
-The *mishnah* then presents the obverse cases. *tumato velo shiuro* — where the degree of *tumah* is the same but the required *shiur* differs — the substances do not combine. The illustrative case: a *sheretz* conveys *tumah* as an *av hatumah*, and so does a *neveilah*, a carcass of a domesticated animal. Yet their *shiurim* differ — a *neveilah* requires a *kezayit*, while a *sheretz* requires only a *ke'adasha*. One might have thought that since a *sheretz* is more stringent in its required *shiur* — a smaller amount suffices — a small quantity of *sheretz* could supplement a small quantity of *neveilah* to bring the combination up to the *kezayit* needed for *neveilah tumah*. The *mishnah* rejects this: they are fundamentally different categories of *tumah* and cannot be combined across those categories. The fact that the degree of *tumah* — both being *av hatumah* — is nominally the same does not override the difference in *shiur*.
+The *mishnah* proceeds to enumerate the cases that fall outside this rule. *Tumato v'lo shiuro*: the *tumah* is the same but the *shiur* differs. Consider, for example, a *sheretz* and a *neveilah* — a dead domesticated animal. Both are classified as an *av hatumah*, so their degree of *tumah* is equivalent in that sense. However, a *neveilah* requires a *kezayit*, while a *sheretz* requires only a *ke'adasha*. One might think that a small quantity of *sheretz* could supplement a small quantity of *neveilah* to reach the *kezayit* threshold, as the *sheretz* is in some sense more potent per unit. Nevertheless, they do not combine, because they belong to fundamentally different categories of *tumah*. The reverse case is *shiuro v'lo tumato*: the *shiur* is the same but the *tumah* differs. Take a *kezayit* of a *met* — a human corpse — and a *kezayit* of a *neveilah*. Each requires a *kezayit*, so the *shiur* is identical. Yet the *met* is an *avi avot hatumah*, while one who touches a *neveilah* becomes a *rishon* — a first-level derivative. Someone who touches a corpse contracts seven-day *tumah* and the like, whereas *neveilah* *tumah* operates at a far lower level. Consequently, even though the *shiur* is the same, they do not combine, because the type of *tumah* is categorically distinct.
 
-### Shiuro v'Lo Tumato
+### Cross-Category Limits
 
-*Shiuro velo tumato* addresses the inverse situation: the *shiur* is identical but the character of *tumah* differs. Consider a *kezayit* of a *met*, a human corpse, and a *kezayit* of a *neveilah* — both require a *kezayit*. One might reason that half a *kezayit* of each should combine. They do not. A corpse is an *avi avot hatumah* — the primordial source of *tumah* — while a *neveilah* is classified on a far lower level; one who touches a *neveilah* is a *rishon letumah*. Contact with a corpse generates seven-day *tumah* and all its attendant consequences, whereas *neveilah tumah* operates on an entirely different plane. The shared *shiur* cannot override the categorical distinction in the nature and potency of the *tumah* itself.
+This raises a natural question: is there any case in which one has the same *shiur* and the same degree of *tumah* from two categorically different sources, where combination would be genuinely novel? Within *sheratzim* one can have different species — one piece of *choled* and one piece of *achbar* — and those do combine, but that remains within the same taxonomic category. Beyond *neveilah*, *met*, and *sheratzim*, the remaining *tumot* of consequence tend to involve human conditions — *zav*, *zavah*, *metzora*, and the like. Whether, say, the saliva of a *zav* and that of a *zavah* could combine in such a case would require further analysis. In any event, the *mishnah*'s principle makes clear that same-category combination is less of a *chidush* than it might initially appear: the real innovation would be if something satisfied identical *tumah* and *shiur* yet was categorically distinct, and such a case is difficult to identify in practice.
 
-### Lo Tumato v'Lo Shiuro
-
-The final case — *lo tumato velo shiuro* — is, as the *mishnah* implies, the most self-evident of the four: where both the degree of *tumah* and the *shiur* differ, there is certainly no combination. The paradigm case is a *met* and a *sheretz*, which differ in both respects. *ein mitztarfin* — they do not combine.
-
-The whole rationale for revisiting *sheratzim* here is the theme of *mitztarfin* — combination — that animated the preceding *mishnah* as well. Even the rule that substances sharing the same degree of *tumah* and the same *shiur* do combine is itself a *chidush*: one could have argued that even identical potency and identical measure leave two fundamentally distinct *tumot* incapable of combination. The *mishnah* teaches otherwise. Whether there exists a real-world case in which two substances satisfy both conditions — identical *tumah* level and identical *shiur* — yet derive from categorically different sources of *tumah* is a question worth considering. Different species of *neveilah* or different varieties of *sheretz* would satisfy both conditions, but within those groupings the category is uniform. Beyond *neveilah*, *met*, and *sheretz*, the remaining *tumot* in the tradition are largely of human origin — *zav*, *zavah*, *metzora* — and it would require careful analysis to identify a case where cross-category combination at identical potency and *shiur* truly arises.
+---
 
 ## Same Animal Requirement
 
-### Davka Same Animal
+### Same Animal Requirement
 
-The *gemara* opens with a statement cited in the name of Rav Chanina citing Rav Zeira — and some versions attribute it to Rabbi Yoshiya bar Rabbi Chanina — that the *mishnah*'s rule regarding the combination of blood and flesh applies *davka* to the blood and flesh of the same *sheretz*: *davka dam sheretz uvasaro* — specifically the blood and the flesh of the very same animal. Blood from one *sheretz* and flesh from a different *sheretz* would not combine under this reading. This statement, notably, does not appear fully preserved in the standard printed text of the *gemara* and must be recovered from the marginal notation, as indicated by both the *mefaresh* and *tosafos*.
+The *Gemara* opens with a teaching transmitted by Rav Chanina in the name of Rav Zeira — and some report it in the name of Rabbi Yoshiya bar Rabbi Chanina. The key statement itself is absent from the standard printed text and must be reconstructed from the marginal *girsa*, which reads: *davka dam sheretz u'vasaro* — specifically the blood of a *sheretz* and *its own* flesh. That is, when the *mishnah* says the blood and flesh of a *sheretz* combine, it means blood and flesh from the *same animal*. If one has a small piece of flesh from one *sheretz* and a small quantity of blood from a different *sheretz*, even if both animals are of the same species, they do not combine.
 
-### Braisa Challenge
+### Braisah Challenge
 
-The *gemara* immediately raises a challenge from a *braisa*. The *braisa* interprets the word *hatmeim* — "those that are impure" — in the plural form as teaching that all *tamei* substances combine with one another: *veafilu sheretz vesheretz* — even a piece of one *sheretz* and a piece of another *sheretz* combine, *sheretz vedam* — a piece of *sheretz* and blood combine, *bein misheim echad bein mishnei shemos* — whether they are from the same species or from different species. If flesh and blood of different *sheratzim* combine with one another across species lines, it appears that the blood of one animal and the flesh of another combine as a matter of course — in direct tension with the ruling that combination requires blood and flesh from the same animal.
+The *Gemara* immediately raises a challenge — *meisivei* — from a *braisah*. The *braisah* states that *hatmeim* — these impure things — teach that all of them combine with one another: *va'afilu sheretz v'sheretz, sheretz v'dam*, and so on, *bein misheim echad bein mishnei shemos* — whether from one category or two different categories. This apparently means that a piece of one *sheretz* and a piece of another *sheretz* combine, and that flesh and blood of different animals also combine. If the *braisah* allows for combination across different animals, how can Rav Chanina insist that blood and flesh must come from the same animal?
 
-### All vs. Part Logic
+### Rav Yosef's Resolution
 
-Rav Yosef resolves the difficulty: *lo kashya — kan bechulan kan bemiktzasan*. The distinction turns on whether one has contact with all of the combined substances or only with part of them. Whether this refers to physical contact or to the *ohel* relationship discussed later in the *sugya*, the governing logic is the same: when the blood is from the same animal as the flesh, the two together constitute a single unit, and even partial contact with that unit is sufficient. When the blood derives from one animal and the flesh from another, they are two distinct units — and in that case, one must engage with all of them collectively for the combination to take effect.
+Rav Yosef resolves the contradiction: *lo kashya, kan bechulan kan bemiktzasan* — there is no difficulty; the one case speaks of all of it and the other of part of it. On the simple reading offered by Rashi — *kan bechulo kan bemiktzaso* — the distinction turns on whether the blood emerged from the whole animal or from only part of it: blood that flows from the entire carcass is more potent and can combine with blood from another *sheretz*, while blood that flows from only a portion of the carcass is weaker. This reading is acknowledged but regarded as very difficult to justify analytically.
 
-## One Unit vs. Multiple
+---
 
-### Tosafos vs. Rashi
+## One Unit Doctrine
 
-*Tosafos* and Rashi disagree over how to read Rav Yosef's resolution — *kan bechulo kan bemiktzaso* — and the distinction between their readings is both linguistically and conceptually significant.
+### Tosafot Interpretation
 
-Rashi understands the distinction as follows: if the blood exudes from the whole animal, it is more potent and can combine with blood or flesh of other *sheratzim*; if it comes from only a partial animal — say the animal was split in half — the blood is weaker and cannot combine across animals. This is, as the lecturer notes, a very difficult reading, because it is far from clear why the portion of the animal from which blood emerges should affect the blood's capacity for combination.
+Tosafot offer a significantly cleaner reading, one that is perhaps somewhat forced in the precise wording but far more logically coherent. The question Rav Yosef addresses, according to Tosafot, is not the potency of the blood but rather the requirement of contact. Imagine a piece of *sheretz* flesh sitting in a pool of blood — whether its own blood or blood from a different animal. When we say the two combine to constitute the required *shiur*, what contact is required of the person who becomes *tamei*? Must he touch or cover all of it, or does touching part of it suffice?
 
-*Tosafos* offers a reading that is perhaps slightly more *dachuk* in the words but considerably more logical in its underlying principle. The question is not the source of the blood but rather what the person actually comes into contact with. When we say two substances combine, we must ask: is the person touching or encompassing *all* of the combined material, or only *part* of it? If the blood and the flesh derive from the same animal, they constitute a single, unified *shiur*. In that case, even if one comes into contact with only part — touching just the blood, or just the flesh — it is treated as though one has engaged the entire unit, because it is all one. However, when blood from one animal and flesh from another are placed together, they remain two separate units. In that scenario, combination occurs only if one engages with all of both units simultaneously — *kulo*, the whole. Partial contact with one element of a multi-unit combination is insufficient.
+Tosafot's answer is this: when the blood is from the same animal as the flesh, the entire mass — flesh and blood together — constitutes one unit. Contact with any part of that unit is therefore sufficient; because it is all one, touching the flesh alone or the blood alone is tantamount to touching the whole. However, when the flesh comes from one animal and the blood from another, they are two separate units. In that case, in order to have contacted the full *shiur*, one must have contact with all of it — both pieces. This is what *bechulan* and *bemiktzasan* mean: when you touched all of it (*bechulan*), even blood and flesh from different animals combine, because you have contacted both. When you touched only part (*bemiktzasan*), combination depends on whether the whole constitutes one unit — which it does only if it all comes from the same animal.
 
-### Blood on Incline
+### Oholos Proof
 
-The *gemara* asks: from where can we demonstrate that this distinction between "one unit" and "multiple units" has halakhic significance? It cites a *braisa* from *maseches oholos* dealing with blood of a *meis* that was spilled on the floor of an inclined surface — a *katafres*. *ohel al miktzaso tahor, ohel al kulo tamei*: if one extends an *ohel* — a covering or roof — over only part of the blood, one is *tahor*; if one extends it over all of the blood, one is *tamei*.
+To support this reading, the *Gemara* introduces a proof (*umana teimra*) from a *braisah* in Maseches Oholos dealing with the blood of a *meis*. The case is as follows: blood from a corpse spilled on the floor, and the surface on which it fell was a *katafres* — an incline — so that the blood ran downward along a slope. The rule stated is *ohel al miktzaso tahor, ohel al kulo tamei*: if one extends an *ohel* — a covering, such as one's hand or body — over only part of the blood, one is *tahor*; if one covers all of the blood, one is *tamei*.
 
-The underlying principle is *katafres eino chibur* — an incline does not constitute connection. When blood pools on a flat surface, it is considered one interconnected mass; one who extends an *ohel* over even a part of it is treated as encompassing the whole, because the whole is unified. On an incline, however, the blood is not considered to form a single connected unit — each portion is separate. Consequently, unless one's *ohel* covers *all* of the blood, no individual portion alone is sufficient to convey *tumah*. This proves the principle that when a substance is not considered one unit, you must engage with the totality of it; partial engagement does not suffice.
+Why should covering only part be insufficient? The principle invoked is *katafres eino chibur* — an incline does not constitute a connection. When blood pools on a flat surface, it is all contiguous and is treated as one unit; any *ohel* over part of it is an *ohel* over the whole. But when it runs down a slope, the parts are not connected to one another and are not treated as a single unit. Consequently, one must cover all of it in order to be *tamei*. The reciprocal principle follows: when the blood *is* connected and treated as a single unit — as when it pools flat — covering any part suffices, because it is all one.
 
-### Stirring Blood
+### Stirred Blood Example
 
-The *gemara* presses further: what exactly does *miktzatah* — "part of it" — mean in the *braisa* about the incline? One might suggest it means that there is not even a full *revi'it* of blood present — and that *miktzatah* refers to a sub-*shiur* quantity. But this reading is rejected on the basis of a ruling cited by Rabbi Chanina in the name of Rabbi: a *revi'it* of blood in which one has stirred with a spoon is *tahor*. Why? Because stirring with a wooden spoon causes some of the blood to be absorbed into the spoon, and that blood absorbed into the spoon is thereby separated from the rest — rendering the remaining blood no longer a single, connected unit. Even though there is clearly a full *revi'it* present initially, the act of stirring compromises the unity of the mass, and the blood is no longer treated as one unit.
+The *Gemara* then asks: what does *miktzatah* — "part of it" — mean in this context? One might suggest it refers to a case where there is less than a full *revi'it* of blood present. But Tosafot dismisses this reading by invoking another teaching of Rav Chanina: *revi'it dam she-higis bah tehorah* — if one has a *revi'it* of blood and stirs it, one is *tahor*. The reason, as Tosafot explains, is that in the course of stirring with a wooden spoon, some of the blood is absorbed into the spoon. That absorption breaks the unity of the blood: even though a full *revi'it* was present, since part of it has been drawn off into the spoon, the remainder is no longer considered a single connected unit with what was absorbed. Therefore, even though the total quantity is technically a *revi'it*, covering or touching only part of what remains does not suffice — one must contact all of it.
 
-This case confirms the principle directly: *miktzatah* in the *braisa* does not refer to a sub-*shiur* quantity but to the situation where the blood is not a single connected unit. And once it is not a single unit, you must engage with *all* of it — the whole — rather than merely *part* of it. *shema minah* — the *gemara* accepts this proof, and the logic of Rav Yosef's distinction is validated.
+This example confirms that *miktzatah* does not refer to a sub-*revi'it* quantity, since here one clearly began with a full *revi'it*. Rather, *miktzatah* refers to the status of connection: when the blood is not treated as one unit, partial contact is insufficient regardless of the total amount present.
 
-The same logic applies back to our original question about blood and flesh of a *sheretz*: whether they constitute one unit or two separate units determines whether partial contact with one suffices or whether full contact with both is required.
+### Shema Minah Conclusion
 
-## Rome Dialogue
+The *Gemara* concludes: *ela lav shema minah kan bechulo kan bemiktzatah* — learn from this that it matters whether one covers all of it or only part of it. *Shema minah*. The principle is confirmed: whether combination operates through partial or complete contact depends entirely on whether the relevant substance constitutes a single unit or not. And returning to the original question, whether the blood and flesh of a *sheretz* constitute one unit depends on whether they derive from the same animal.
 
-### Matya's Question
+---
 
-The *gemara* now transitions to a striking narrative. Rabbi Matya ben Charash posed a question to Rabbi Shimon ben Yochai while the two were in Rome: *minyin ledam sheratzim shehu tamei* — what is the source that the blood of *sheratzim* is *tamei*? We have been discussing whether blood combines with flesh and to what extent — but the foundational question of whether the blood of a *sheretz* conveys *tumah* at all demands its own derivation. Rabbi Shimon ben Yochai answered by citing the *pasuk*: *vezeh lachem hatamei basheretz hashoretz al ha'aretz*. Since the Torah had already stated *eleh hatmei'im lachem*, the additional expression *vezeh lachem hatamei* constitutes a superfluous phrase from which the *derasha* is drawn — to teach that even the blood of the *sheretz* is *tamei*, not only its flesh.
+## Rome Narrative
 
-### Students' Praise Correct…
+### R. Matya's Question
 
-When Rabbi Matya ben Charash's students heard this, they were impressed — *chakim lei Ben Yochai*, they exclaimed, meaning that Rabbi Shimon ben Yochai had apparently thought of this *derasha* on his own and demonstrated independent halakhic creativity. Rabbi Matya ben Charash corrected them: *numi talmud aruch befi shel Rabbi Elazar bar Rabbi Yosi* — this is no independent innovation; it is an established teaching already in the mouth of Rabbi Elazar bar Rabbi Yosi, transmitted as received tradition. The incident tells us something about the context as well. Rabbi Matya ben Charash was apparently the senior figure in this exchange, and his asking Rabbi Shimon ben Yochai the question was not because he lacked the answer — he clearly knew it — but was the way scholars converse and open discussion. And as we will shortly see, it is Rabbi Elazar bar Rabbi Yosi himself who becomes the central figure in the dramatic narrative that follows.
+With the *halakhic* analysis complete, the *Gemara* introduces a brief historical narrative. Rabbi Matya ben Charash posed a question to Rabbi Shimon bar Yochai while they were together in Rome: *minayin ledam sheratzim she-hu tamei* — from where do we know that the blood of *sheratzim* conveys *tumah*? This question is not trivial. The *mishnah* assumed that the blood of a *sheretz* is *tamei* and treated the question as one of combination; the prior question of whether it is *tamei* at all was left implicit.
 
-## Reuven ben Istrobli
+### R. Shimon's Answer
 
-### Roman Disguise
+Rabbi Shimon bar Yochai answered that it is derived from a *derasha*: the verse states *ve-zeh lachem ha-tamei ba-sheretz ha-shoretz al ha-aretz* — and this is for you the impure, regarding the creeping thing that creeps upon the earth. The extra phrase *ve-zeh lachem*, which is textually redundant given that the verse elsewhere says *eleh ha-tmei'im lachem*, is interpreted to extend the *tumah* to include the blood, not only the flesh.
 
-The *gemara* explains how the connection to Rome arises: on one occasion, the Roman government issued decrees — *gezerot* — forbidding Jewish practice. The three decrees targeted *shabbos*, *bris milah*, and *taharas hamishpacha*, which together with *kashrus* constitute the cardinal markers of Jewish communal identity. In response, a man named Reuven ben Istrobli — whose very name reflects a degree of Hellenization — took a *kumi*, a distinctive Roman-style haircut that Jews did not typically wear, in order to pass as a Roman aristocrat. He then went and seated himself among the Roman leadership, presumably in a senatorial or governmental forum.
+### R. Yose's Correction
 
-### Shabbat Decree
+When Rabbi Matya ben Charash's students heard this, they were impressed — *chakim lei ben Yochai*, they said; Rabbi Shimon bar Yochai is sharp, he derived this himself. But Rabbi Matya ben Charash corrected them: this is not Rabbi Shimon's own innovation. It is an established tradition — *talmud aruch be-fi shel Rabbi Elazar bar Rabbi Yosi*, a received teaching already in the mouth of Rabbi Elazar bar Rabbi Yosi. One wonders why Rabbi Matya ben Charash asked the question at all if he already knew the answer; it appears he was simply opening a conversation, and the exchange was collegial rather than a genuine inquiry. The response, however, serves to deny Rabbi Shimon bar Yochai the credit for an original formulation. As the narrative will go on to demonstrate, this motif — Rabbi Shimon bar Yochai's relationship to his own reputation and that of others — runs through the entire episode.
 
-Reuven ben Istrobli addressed the assembly with a rhetorical question: if a man has an enemy, does he prefer that enemy to be poor or wealthy? They responded: poor. He then argued: in that case, do not make the Jews work on *shabbos* — let them rest and lose a substantial portion of their productive capacity, and they will be weakened economically. The Romans were persuaded — *tavita amar*, they declared, well said — and they nullified the decree against *shabbos*.
+---
 
-### Bris Decree
+## Reuven ben Astrubli
 
-He returned with a second argument. Does one wish an enemy to be weak or healthy? Weak, they said. Then do not prevent the Jews from performing *bris milah* on their sons at eight days, for circumcision weakens them physically. The Romans again agreed, and the decree against *bris milah* was also nullified.
+### Three Edicts Overturned
 
-### Niddah Decree
+The *Gemara* now provides the backstory that explains why these sages found themselves in Rome in the first place. *She-pa'am achat gazrah ha-malkhut gezeirah she-lo yishmeru et ha-Shabbat* — at one point the Roman government issued edicts against *Shabbat* observance, *bris milah*, and *taharat ha-mishpacha*. These three practices — *Shabbat*, *milah*, and family purity — represented the central markers of Jewish identity and communal distinctiveness.
 
-He then asked: does one wish an enemy to be many or few? Few. In that case, he argued, do not forbid the Jews from observing the laws of *niddah* — for abstaining from marital relations during the period of *niddah* will reduce their birthrate, and their numbers will diminish. The Romans, apparently not fully understanding the relevant biology, agreed, and this decree was nullified as well.
+A figure named Reuven ben Astrubli — whose father's name has a distinctly Hellenized form, suggesting he moved in Roman circles — devised a strategy. He had a haircut in the Roman style called *kumi*, which was not customarily worn by Jews, thereby disguising his identity and gaining access to some form of Roman assembly or council. There he made three arguments, each framed in terms of Roman self-interest.
 
-### Discovered & Reinstated
+On *Shabbat*: who wants an enemy to become impoverished? The Romans, of course. Therefore, he argued, compel the Jews to work on *Shabbat* — this will reduce their productivity and weaken them economically. The Romans found this persuasive, declared it a good argument (*tavita amar*), and annulled the edict against *Shabbat*.
 
-Having successfully reversed all three *gezerot*, Reuven ben Istrobli pressed his position too far, and the Romans recognized that he was a Jew who had been manipulating them. They reinstated all three decrees. The rabbis were thus confronted once again with the need to find someone who could go to Rome and reverse these edicts — this time with a different approach.
+On *milah*: who wants an enemy to be physically weakened? Again, the Romans. Therefore, he argued, allow the Jews to circumcise their sons on the eighth day — this will sap their strength. The Romans again found this persuasive and annulled the edict against *bris milah*.
 
-## Rome Mission
+On *taharat ha-mishpacha*: who wants an enemy to be few in number? The Romans. Therefore, he argued, allow the Jews to observe the laws of *niddah* — under a mistaken understanding of the biology, he suggested this would reduce their population. The Romans accepted this as well and annulled the third edict.
 
-### Choose R. Shimon
+### Decrees Reinstated
 
-The rabbis deliberated over who should go to Rome to nullify the *gezerot*, and they resolved: *yelech Rabbi Shimon bar Yochai, shemelumad benissin* — let Rabbi Shimon bar Yochai go, for he is accustomed to miracles. The reference is to the well-known episode of the cave, and to other supernatural occurrences associated with him. The principle that one ordinarily does not rely on a miracle — *ein somchin al hanes* — is acknowledged, yet in a situation of communal emergency with no other recourse, the rabbis felt that sending someone around whom miracles tend to occur was the best available option.
+Having successfully overturned all three decrees, Reuven ben Astrubli pressed too far. The Romans ultimately recognized that he was Jewish — and realized that he had manipulated them into dismantling all three edicts in the name of Roman strategic interest. They reinstated all of the *gezeirot*. The lesson is a straightforward one: do not overplay one's hand.
 
-### Yosi's Concern
+---
 
-The question then arose of who should accompany Rabbi Shimon bar Yochai. The answer was Rabbi Elazar bar Rabbi Yosi. His father, Rabbi Yosi, protested: *vilu haya Abba Chalafta kayyam* — had his own father, Abba Chalafta, still been alive, would you dare to approach him and say, hand your son over to be killed? The stakes of the mission were mortal — failure in Rome could mean death — and Rabbi Yosi was unwilling to send his son into that danger.
+## Sending to Rome
 
-### Shimon's Promise
+### R. Yosi's Concern
 
-Rabbi Shimon bar Yochai responded in kind: *ilu haya Yochai abba kayyam* — had my father Yochai still been alive, would you tell him to send his son to his death? He, too, had skin in the game. But as the narrative develops, it becomes clear that Rabbi Yosi's concern was not only about the Romans. Rabbi Shimon bar Yochai was known as a *kanai* — a zealous, fierce personality. The reader will recall the cave episode, in which he emerged with a gaze so intense that whatever he looked upon was consumed by fire. Rabbi Yosi feared that at some point on the journey his son might say or do something that would provoke Rabbi Shimon's anger — with consequences not from the Romans but from Rabbi Shimon himself. Rabbi Yosi declared that he himself would rather accompany Rabbi Shimon than send his son.
+With the decrees reinstated and the first mission failed, the *rabbanim* deliberated about who should undertake a new effort. The consensus was that Rabbi Shimon bar Yochai should go — *she-melumad b'nissin*, because miracles tend to occur in his presence, as the episode of the cave makes plain. A companion was also needed, and Rabbi Elazar bar Rabbi Yosi was proposed.
 
-In the end, Rabbi Elazar bar Rabbi Yosi did go. But before departing, Rabbi Shimon gave a commitment — and according to the *yerushalmi* as cited by *tosafos*, even took a formal *neder* — that he would not harm Rabbi Elazar. As we will see, this promise would prove difficult to keep.
+Rabbi Yosi — Rabbi Elazar's father — objected, offering to go himself in his son's place. His stated concern was not the danger posed by the Roman government but rather the danger posed by Rabbi Shimon bar Yochai himself. Rabbi Shimon was known to be uncompromising, even fierce — as the cave narratives demonstrate, he was not a figure one trifled with. Rabbi Yosi feared that something might happen between Rabbi Shimon and his son on the journey, that Rabbi Shimon might, in some moment of displeasure, cause his son harm — not necessarily physical harm, but harm of a more metaphysical character. It is worth noting that in the original controversy between Rabbi Shimon and Rabbi Yehuda that preceded the cave episode, Rabbi Yosi was present and kept silent. His instinct to protect his son here may reflect that same temperament.
 
-## Elazar's Mistake
+### R. Shimon's Oath
 
-### Question on Road
+Rabbi Shimon responded with a symmetrical argument: would Rabbi Yosi have been willing to ask Rabbi Shimon's own father, Yochai, to send his son to be killed? He too was taking a risk. Nevertheless, to allay Rabbi Yosi's concerns, Rabbi Shimon accepted upon himself not to harm Rabbi Elazar bar Rabbi Yosi — and according to the *Yerushalmi*, cited by Tosafot, Rabbi Shimon actually made a formal *neder* to that effect. As the narrative will reveal, this *neder* ultimately slipped his mind.
 
-The delegation set out on the road toward Rome, and as scholars will, they engaged in Torah discussion along the way. The very question that had opened the *rome dialogue* above arose again during the journey: *minyin ledam hasheretz shehu tamei* — what is the source that the blood of a *sheretz* is *tamei*?
+---
 
-### Elazar Answers Out
+## Journey Misstep
 
-Before Rabbi Shimon bar Yochai could respond, Rabbi Elazar bar Rabbi Yosi — described by the *gemara* with the phrase *ikam piv*, which *tosafos* understands simply as "he spoke up quickly" — jumped in and gave the answer, citing the verse *vezeh lachem hatamei*. Rabbi Shimon turned to him and said: *me'akimat sefateicha attah nikar shetalmid chacham attah* — from the way you turned your mouth and spoke up it is evident that you are a *talmid chacham*. And then came the decree: *al yachzir haben etzel aviv* — let the son not return to the father.
+### Dam HaSheretz Question
 
-The offense, according to *tosafos*, was *miher lehashiv* — he answered too quickly, speaking in the presence of his senior without waiting. Rabbi Shimon bar Yochai regarded it as a breach of proper deference, and despite the outwardly complimentary framing — acknowledging Rabbi Elazar's status as a *talmid chacham* — the declaration that he would not return to his father was a harsh consequence. The compliment carries an edge: even a *talmid chacham* must know his place.
+On the journey to Rome, the travelers fell into *Torah* discussion as was natural on a long road. The very question that opened the narrative in Rome — *minayin ledam hasheretz shehu tamei*, how do we know that the blood of a *sheretz* is *tamei* — was raised among them. Rabbi Elazar bar Rabbi Yosi *ikam piv* — he turned his mouth, or, as Tosafot explains, *miher lehashiv*, he rushed to answer. The description captures something slightly irregular about his response — he answered quickly, or perhaps in a way that was not entirely straightforward, speaking up before Rabbi Shimon bar Yochai had a chance to respond. He cited the same verse: *ve-zeh lachem ha-tamei*.
 
-### Illness & Recovery
+### R. Shimon's Rebuke
 
-The *yerushalmi*, quoted by *tosafos*, specifies that Rabbi Elazar was then struck with *askara* — a severe respiratory affliction. When Rabbi Shimon bar Yochai recalled that he had given his word — had made a *neder* — not to harm Rabbi Elazar, he reversed himself: *chazar venitpallel alav venitrapa* — he prayed for him and he was healed.
+Rabbi Shimon turned to him and said: *me'akimat sefateicha attah nikar she-talmid chacham attah* — from your having spoken up, it is evident that you are a *talmid chacham*. The phrasing is double-edged, or perhaps entirely damning: "because of the way you jumped in and answered, it is clear you are a *talmid chacham*" — meaning precisely that he behaved like someone eager to display his learning before a senior authority. And then Rabbi Shimon added: *al yachzir haben etzel aviv* — let the son not return to his father.
 
-This episode is deeply revealing of how the *gemara* frames Rabbi Shimon bar Yochai throughout this entire *sugya*. The narrative structure is pointed: in the earlier dialogue in Rome, Rabbi Shimon bar Yochai himself had answered a question and received credit for it, only to have Rabbi Matya ben Charash deflect that credit — saying it was not Rabbi Shimon's own derivation but rather an established tradition going back to Rabbi Elazar bar Rabbi Yosi. Now, on the road, Rabbi Elazar bar Rabbi Yosi jumps in and answers — the same question, in fact — and Rabbi Shimon punishes him for it. The parallel is exact, with the positions reversed. Rabbi Shimon violated his own *neder*, caused harm to his companion, and the answer he sought to own had already been attributed to Rabbi Elazar's teaching. The *gemara* does not appear to be presenting Rabbi Shimon bar Yochai sympathetically here. This is consistent with how the cave narrative, read carefully, is also far from an unambiguous encomium.
+This was a terrible declaration. According to the *Yerushalmi*, referenced by Tosafot, Rabbi Elazar bar Rabbi Yosi was afflicted with *askara* — croup, or some severe respiratory illness — as a consequence.
 
-## Ben Tamlayon Demon
+### Recovery & Healing
 
-### Angel Complaint
+Subsequently, Rabbi Shimon recalled his *neder* not to harm Rabbi Yosi's son. Upon remembering it, *chazar ve-nitpallel alav ve-nitrapa* — he returned and prayed on his behalf, and Rabbi Elazar recovered. The full arc of the episode, however, reflects poorly on Rabbi Shimon bar Yochai. He cursed a young *talmid chacham* for the offense of answering a question too eagerly in his presence, violating his own sworn commitment, and required Divine intervention — through his own prayer — to undo the harm he caused. The *Gemara* does not editorialize, but the parallel with the opening exchange is unmistakable: there, too, a question about *dam hasheretz* was raised in a collegial setting, and Rabbi Shimon bar Yochai's knowledge on that very point was questioned. The irony is pointed and, one suspects, deliberate.
 
-Upon arriving at their destination, Rabbi Shimon bar Yochai was met by a figure called Ben Tamlayon — a *shed*, a demon — who came forward and offered to assist in the mission. Rabbi Shimon wept. His lament: *mah shifchah shel beis aba* — the maidservant of my father's house, meaning Hagar, *nizdamen lah malach shalosh pe'amim* — merited the appearance of an angel three times, for each time the Torah records *vayomer lah malach Hashem*, the tradition holds that a distinct angel was sent. And yet — *va'ani lo pa'am achat* — I do not receive even one angelic visitation? I am met by a demon instead.
+---
 
-### Possession & Call
+## Ben Tamlayon Miracle
 
-Ben Tamlayon had gone ahead of them and taken possession of the daughter of the Caesar. The Caesar's household was thrown into distress, and somehow — the full version of the story appears to be in the *yerushalmi* — it became known that Ben Yochai was needed, that he alone could resolve the affliction.
+### Ben Tamlayon Offers Help
 
-### Exorcism
+The party continued to Rome and, before reaching their destination, a figure appeared before them — *ben Tamlayon*, a *shed*, a demon. He addressed them: *retzonchem avo imachem* — do you wish me to come with you and assist your mission?
 
-When Rabbi Shimon bar Yochai arrived, he commanded: *ben tamlayon tzei* — Ben Tamlayon, leave. He called the demon by name, and *nafik* — it departed. The exorcism was complete.
+### Demon vs. Angel
 
-### Rewards & Edict
+Rabbi Shimon bar Yochai wept at this. He said: *mah shifchah shel beis aba nizdamen lah malach shalosh pe'amim, va'ani lo pa'am achat* — the maidservant of my father's house, meaning Hagar, merited that an angel appeared to her three times — each instance of *vayomer lah malach Hashem* being interpreted by the *Sages* as a distinct angelic appearance — and yet I cannot receive even one angel; I am offered only this demon. Even here, at what should be a moment of providential assistance, Rabbi Shimon bar Yochai is preoccupied with his own *kavod* and the question of what he deserves. Nevertheless, he acquiesced: *yavo hanes mikol makom* — let the miracle come however it must come.
 
-The Caesar or his representatives, in gratitude, offered Rabbi Shimon bar Yochai and his companion whatever they wished to request: *sha'alu kol mah de'is lechon lemishal* — ask for anything you desire. They were brought into the royal treasury — *ginzei* — to take what they wanted. There they found the written edict, the *igrata*, that embodied the decrees against Jewish practice. They took it, and they tore it — *shakluha vekare'uha* — and the *gezerot* were thereby annulled.
+### Possession & Exorcism
+
+*Ben Tamlayon* went ahead and took possession of the daughter of the Caesar. When Rabbi Shimon bar Yochai arrived in Rome, the situation had been arranged so that his presence was specifically sought — *ben Yochai* was called for to remedy the affliction. Upon arriving, Rabbi Shimon pronounced the words of exorcism: *ben Tamlayon tzei* — and upon being called by name, the demon departed.
+
+### Decree Destroyed
+
+With the Caesar's gratitude secured, he said to Rabbi Shimon and his companion: ask for whatever you wish. They were brought into the Caesar's *ganziya* — the treasure house or archive — and there they located the written edict, the *igreta*, the proclamation that constituted the decree of persecution. They took it and tore it up, thereby annulling the *gezeirah*.
+
+---
 
 ## Parochet Testimony
 
-### Parochet & Blood
+### Parochet Sighting
 
-The *gemara* closes with a statement of Rabbi Elazar bar Rabbi Yosi that is now understood in its proper context: he was there, in the Caesar's treasure house in Rome, when they were admitted to collect their reward. And he testifies: *ani re'isiha be-Ir Romi* — I saw it in the city of Rome — *vehavu alei kama tipu damim* — and upon it were several drops of blood. What was it? The *parochet* — the great curtain of the *beis haMikdash* — which had been taken to Rome as plunder after the Temple's destruction. The drops of blood were from the sprinkling performed by the Kohen Gadol on *yom kippur*, the ceremony described in *parashas acharei mos*. Rabbi Elazar bar Rabbi Yosi had seen with his own eyes the *parochet* of the *beis haMikdash*, blood-stained from its sacred service, displayed in Rome's imperial treasure house — a firsthand witness to what was taken from us.
+The *Gemara* concludes by tying in another statement of Rabbi Elazar bar Rabbi Yosi — and this is how his name becomes attached to the tradition about *dam hasheretz* in the first place. He testifies: *ani re'isiha be-Ir Romi* — I saw it in the city of Rome — referring to the *parochet*, the great curtain of the *Beis HaMikdash*, the one upon which the High Priest would perform the blood-sprinkling rite on *Yom Kippur* as described in *parashat Acharei Mos*. *Vehavu alei kama tipu damim* — and upon it there were drops of blood, remnants of that very service. He saw this curtain when they were brought into the Caesar's treasure house. The connection to the current *parasha* is evident: those drops of blood on the *parochet*, still visible in the Roman imperial storehouse long after the *Churban*, were the physical trace of the *avodah* described at the heart of *Acharei Mos*.

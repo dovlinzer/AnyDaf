@@ -64,6 +64,7 @@ fun SettingsScreen(
     val sourceDisplayMode by contentViewModel.sourceDisplayMode.collectAsState()
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
     var isReloading by remember { mutableStateOf(false) }
@@ -150,6 +151,19 @@ fun SettingsScreen(
             SectionDivider()
 
             SectionHeader("Appearance")
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 16.dp, vertical = 4.dp),
+                horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text("White Background", style = MaterialTheme.typography.bodyLarge)
+                Switch(
+                    checked = useWhiteBackground,
+                    onCheckedChange = { contentViewModel.setUseWhiteBackground(it) }
+                )
+            }
             Text(
                 "Study text size",
                 style = MaterialTheme.typography.bodyLarge,
@@ -245,8 +259,9 @@ fun FontSizeControl(
     onSizeChange: (StudyFontSize) -> Unit,
     modifier: Modifier = Modifier
 ) {
-    val cases = StudyFontSize.entries
-    val idx = cases.indexOf(studyFontSize)
+    val isTablet = androidx.compose.ui.platform.LocalConfiguration.current.smallestScreenWidthDp >= 600
+    val cases = StudyFontSize.displayEntries(isTablet)
+    val idx = cases.indexOf(studyFontSize).coerceAtLeast(0)
 
     Row(
         modifier = modifier.height(44.dp),

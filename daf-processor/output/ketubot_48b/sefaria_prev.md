@@ -1,0 +1,45 @@
+### Ketubot 47b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁלֹּא כָּתַב לָהּ אֶלָּא עַל מְנָת לְכוֹנְסָהּ. לְמַאן דְּאָמַר לֹא זָכָה — כְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה. וּמַאן דְּאָמַר זָכָה — כְּרַבָּנַן.
+*Translation:* The reason is **that he wrote** that she would be entitled to the additional amount **only on the condition** that he would **marry her,** and since he did not marry her, she is not entitled to the extra amount. The Gemara compares the respective opinions: **The one who says** that the husband does **not have the right** to her dowry holds **in accordance with** the opinion of **Rabbi Elazar ben Azarya,** and therefore he rules that just as a husband guarantees his wife an extra sum in her marriage contract only if they actually get married, the wife’s father also gives the dowry only on the condition that the couple marries. **And the one who said** that the husband does **have the right** to her dowry holds **in accordance with** the opinion of **the Rabbis,** because the document is fully in effect even before marriage.
+
+**2.**
+*Hebrew/Aramaic:* לָא, דְּכוּלֵּי עָלְמָא כְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה. מַאן דְּאָמַר לֹא זָכָה — כְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, וּמַאן דְּאָמַר זָכָה — עַד כָּאן לָא קָאָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אֶלָּא מִדִּידֵיהּ לְדִידַהּ, שֶׁלֹּא כָּתַב לָהּ אֶלָּא עַל מְנָת לְכוֹנְסָהּ.
+*Translation:* The Gemara refutes this suggestion: **No, everyone agrees** that the *halakha* is **in accordance with** the opinion of **Rabbi Elazar ben Azarya,** and the explanation is as follows: **The one who said** that he does **not have the right** to the dowry clearly holds **in accordance with** the opinion of **Rabbi Elazar ben Azarya,** as stated above; **and the one who says** the husband does **have the right** to her dowry would distinguish between the two cases: **Rabbi Elazar ben Azarya states** that the marriage contract is not fully in effect until marriage **only with regard to** a bestowal **from him to her,** i.e., the extra sum that the husband adds to her marriage contract, **as he wrote** it **for her only on the condition** that he would **marry her,** and he did not intend to give her anything before she became his wife.
+
+**3.**
+*Hebrew/Aramaic:* אֲבָל מִדִּידַהּ לְדִידֵיהּ אֲפִילּוּ רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה מוֹדֵי, דְּמִשּׁוּם אִיחַתּוֹנֵי הוּא, וְהָא אִיחַתַּנֻי לְהוּ.
+*Translation:* **However,** with regard to that which is given **from her** father **to him,** i.e., the dowry, even **Rabbi Elazar ben Azarya concedes** that the husband is entitled to this money, as the gift of a father **is due to marriage,** i.e., he wants the families to be joined in matrimony, **and they have** already become linked **in marriage.** The dowry given by the father has nothing to do with the transition from betrothal to actual marriage.
+
+**4.**
+*Hebrew/Aramaic:* חַיָּיב בִּמְזוֹנוֹתֶיהָ וְכוּ׳. תָּנוּ רַבָּנַן: תִּיקְּנוּ מְזוֹנוֹתֶיהָ תַּחַת מַעֲשֵׂה יָדֶיהָ, וּקְבוּרָתָהּ תַּחַת כְּתוּבָּתָהּ, לְפִיכָךְ בַּעַל אוֹכֵל פֵּירוֹת.
+*Translation:* § The mishna teaches that a husband **is obligated** to provide his wife with **sustenance,** redemption from captivity, and burial. **The Sages taught** in a *baraita*: The Rabbis **instituted** that a husband must provide his wife with **her sustenance in exchange for** his rights to **her earnings, and** similarly they decreed that a husband must tend to **her burial in exchange for** the fact that he inherits the dowry that she brought into the marriage and which is written in **her marriage contract. Consequently,** the **husband may consume the produce** of her property.
+
+**5.**
+*Hebrew/Aramaic:* פֵּירוֹת מַאן דְּכַר שְׁמַיְיהוּ?! חַסּוֹרֵי מְחַסְּרָא, וְהָכִי קָתָנֵי: תִּיקְּנוּ מְזוֹנוֹתֶיהָ תַּחַת מַעֲשֵׂה יָדֶיהָ, וּפִירְקוֹנָהּ תַּחַת פֵּירוֹת, וּקְבוּרָתָהּ תַּחַת כְּתוּבָּתָהּ. לְפִיכָךְ בַּעַל אוֹכֵל פֵּירוֹת.
+*Translation:* The Gemara expresses surprise at this last statement: **Produce, who mentioned** anything about **that?** The *baraita* did not previously mention produce at all, so how did it arrive at a halakhic conclusion with regard to produce? The Gemara explains that the *baraita* **is incomplete, and this** is what **it is teaching: They instituted** that a husband must provide his wife with **her sustenance in exchange for** his rights to **her earnings; and** it is his duty to provide **her** with **redemption** from captivity **in exchange for** his right to consume the **produce** of her property; **and** it is his obligation to attend to **her burial in exchange for** the fact that he inherits the dowry that she brought into the marriage and which is written in **her marriage contract. Consequently, a husband may consume the produce** of her property.
+
+**6.**
+*Hebrew/Aramaic:* מַאי ״לְפִיכָךְ״?
+*Translation:* Although the Gemara has explained how the *tanna* came to speak about produce, the wording of the *baraita* remains problematic. **What** is the significance of the word **consequently** in this context?
+
+**7.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: מֵיכָל לָא נֵכְלִינְהוּ, אַנּוֹחֵי נַנְּחִינְהוּ. דְּאִם כֵּן, מִימְּנַע וְלָא פָּרֵיק, קָא מַשְׁמַע לַן דְּהָא עֲדִיפָא. זִימְנִין דְּלָא מָלוּ, וּפָרֵיק לַהּ מִדִּידֵיהּ.
+*Translation:* The Gemara explains: **Lest you say** that the husband should **not consume the produce** but **leave it** so that if he requires funds to redeem his wife he will have them available, **as, if** he is not compelled to do **so he will refrain from redeeming** her, as he will be unwilling to spend his own money for that purpose; the *tanna* therefore **teaches us that this** arrangement **is preferable,** because **sometimes** the produce **will not amount** to the funds necessary to redeem her from captivity, **and** he would not redeem her if he was expected to use the funds produced by her property. Consequently, the Sages decreed that he consumes the produce immediately and that he must **redeem her from his own** funds if she is taken into captivity.
+
+**8.**
+*Hebrew/Aramaic:* וְאֵיפוֹךְ אֲנָא!
+*Translation:* After analyzing the language of the *baraita*, the Gemara turns its attention to the *halakha* itself. **But I can reverse** these connections; why does the *baraita* say that a husband’s obligation to provide his wife with sustenance was instituted in exchange for his right to her earnings, as opposed to another of his rights, e.g., his right to consume the produce of her property?
+
+**9.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: תִּיקְּנוּ מָצוּי לְמָצוּי, וְשֶׁאֵינוֹ מָצוּי לְשֶׁאֵינוֹ מָצוּי.
+*Translation:* **Abaye said:** The Sages **instituted a common** obligation in exchange **for a common** right, **and** they instituted **an uncommon** obligation in exchange **for an uncommon** right. In other words, the Sages instituted a husband’s obligation to provide his wife with sustenance, which is relevant on a regular basis, in exchange for his right to her earnings, which also applies regularly. The other obligations and rights of a husband are relevant less frequently.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הַאי תַּנָּא סָבַר מְזוֹנוֹת מִדְּאוֹרָיְיתָא, דְּתַנְיָא: ״שְׁאֵרָהּ״ — אֵלּוּ מְזוֹנוֹת, וְכֵן הוּא אוֹמֵר: ״וַאֲשֶׁר אָכְלוּ שְׁאֵר עַמִּי״. ״כְּסוּתָהּ״ — כְּמַשְׁמָעוֹ. ״עוֹנָתָהּ״ — זוֹ עוֹנָה הָאֲמוּרָה בַּתּוֹרָה, וְכֵן הוּא אוֹמֵר: ״אִם תְּעַנֶּה אֶת בְּנוֹתַי״.
+*Translation:* § **Rava said: This *tanna*,** in the *baraita* cited below, **maintains** that the obligation of a husband to provide his wife’s **sustenance** applies **by Torah** law, **as it is taught** with regard to the verse pertaining to a husband’s obligations toward his wife: “If he takes another wife for himself, her food [*she’era*], her clothing [*kesuta*], and her conjugal rights [*onata*], he shall not diminish” (Exodus 21:10). **“*She’era*”; this is sustenance, and it likewise states: “Who also eat the flesh [*she’er*] of my people”** (Micah 3:3). **“*Kesuta*” is** understood **in its literal sense** as referring to clothing. **“*Onata*”; this is** her **conjugal rights, which is stated in the Torah, and so it says: “If you shall afflict [*te’aneh*] my daughters”** (Genesis 31:50), which indicates that a husband may not deprive his wife of her conjugal rights.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר אוֹמֵר: ״שְׁאֵרָהּ״ — זוֹ עוֹנָה. וְכֵן הוּא אוֹמֵר: ״אִישׁ אִישׁ אֶל כׇּל שְׁאֵר בְּשָׂרוֹ לֹא תִקְרְבוּ לְגַלּוֹת עֶרְוָה״. ״כְּסוּתָהּ״ — כְּמַשְׁמָעוֹ. ״עוֹנָתָהּ״ — אֵלּוּ מְזוֹנוֹת, וְכֵן הוּא אוֹמֵר: ״וַיְעַנְּךָ וְיַרְעִיבֶךָ״.
+*Translation:* The *baraita* continues: **Rabbi Elazar says: “*She’era*”; this is** her **conjugal rights, and so it says: “None of you shall approach to any who is near [*she’er*] of kin to him, to uncover their nakedness”** (Leviticus 18:6), which demonstrates that the word *she’er* is used in the context of sexual relations. **“*Kesuta*” is** understood **in its literal sense** as referring to clothing. **“*Onata*”; this is sustenance, and so it says: “And He afflicted you [*vayanekha*], and made you suffer hunger,** and fed you with manna” (Deuteronomy 8:3).

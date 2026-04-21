@@ -53,6 +53,20 @@ class ContentViewModel : ViewModel() {
     private val _studyFontSize = MutableStateFlow(StudyFontSize.MEDIUM)
     val studyFontSize: StateFlow<StudyFontSize> = _studyFontSize.asStateFlow()
 
+    private val _useWhiteBackground = MutableStateFlow(false)
+    val useWhiteBackground: StateFlow<Boolean> = _useWhiteBackground.asStateFlow()
+
+    // "" = not yet set (auto-detect); "SHIUR" or "STUDY" = explicit user preference
+    private val _tabletRightPanelMode = MutableStateFlow("")
+    val tabletRightPanelMode: StateFlow<String> = _tabletRightPanelMode.asStateFlow()
+
+    // "" = not yet loaded; "NONE"|"LEFT"|"RIGHT" = persisted collapse state
+    private val _tabletCollapsedSide = MutableStateFlow("")
+    val tabletCollapsedSide: StateFlow<String> = _tabletCollapsedSide.asStateFlow()
+    // -1.0 = not yet loaded; otherwise left-panel width in dp
+    private val _tabletSplitDp = MutableStateFlow(-1.0)
+    val tabletSplitDp: StateFlow<Double> = _tabletSplitDp.asStateFlow()
+
     private val _isFetchingDafYomi = MutableStateFlow(false)
     val isFetchingDafYomi: StateFlow<Boolean> = _isFetchingDafYomi.asStateFlow()
 
@@ -70,6 +84,10 @@ class ContentViewModel : ViewModel() {
             _sourceDisplayMode.value = AppPreferences.sourceDisplayMode.first()
             _shiurShowSources.value = AppPreferences.shiurShowSources.first()
             _studyFontSize.value = AppPreferences.studyFontSize.first()
+            _useWhiteBackground.value = AppPreferences.useWhiteBackground.first()
+            _tabletRightPanelMode.value = AppPreferences.tabletRightPanel.first()
+            _tabletCollapsedSide.value = AppPreferences.tabletCollapsedSide.first()
+            _tabletSplitDp.value = AppPreferences.tabletSplitDp.first()
             persistedEngagementSeconds = AppPreferences.totalEngagementSeconds.first()
         }
         FeedManager.init()
@@ -121,6 +139,22 @@ class ContentViewModel : ViewModel() {
     fun setStudyFontSize(size: StudyFontSize) {
         _studyFontSize.value = size
         viewModelScope.launch { AppPreferences.saveStudyFontSize(size) }
+    }
+
+    fun setUseWhiteBackground(enabled: Boolean) {
+        _useWhiteBackground.value = enabled
+        viewModelScope.launch { AppPreferences.saveUseWhiteBackground(enabled) }
+    }
+
+    fun setTabletRightPanelMode(mode: String) {
+        _tabletRightPanelMode.value = mode
+        viewModelScope.launch { AppPreferences.saveTabletRightPanel(mode) }
+    }
+
+    fun saveTabletLayout(collapsedSide: String, splitDp: Double) {
+        _tabletCollapsedSide.value = collapsedSide
+        _tabletSplitDp.value = splitDp
+        viewModelScope.launch { AppPreferences.saveTabletLayout(collapsedSide, splitDp) }
     }
 
     fun fetchTodaysDaf() {

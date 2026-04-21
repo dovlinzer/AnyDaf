@@ -52,6 +52,9 @@ import com.anydaf.model.StudySection
 // Provides the body font size for study content — set at the screen level, consumed here.
 val LocalStudyFontSize = compositionLocalOf { 18.sp }
 
+// True when the blue-background theme is active; used to flip accent colors in study content.
+val LocalIsBlueMode = compositionLocalOf { false }
+
 // MARK: - Translation Tab
 
 @Composable
@@ -96,9 +99,9 @@ fun TranslationTab(
                         Text(if (showHebrew) "Show English" else "Show Hebrew")
                     }
                 }
-                if (showHebrew) {
+                if (showHebrew && section.hebrewText != null) {
                     // Hebrew: RTL, right-aligned, no preceding context
-                    HebrewText(html = section.hebrewText ?: section.rawText, modifier = Modifier.fillMaxWidth())
+                    HebrewText(html = section.hebrewText, modifier = Modifier.fillMaxWidth())
                 } else {
                     // English: preceding context (italic) flows inline into the daf text
                     val prefix = if (isFirstSection && precedingContext != null)
@@ -264,7 +267,7 @@ private fun parseTranslationHtml(
             if (before.isNotEmpty()) append(before)
             val bold = stripHtmlTags(match.groupValues[1])
             if (bold.isNotEmpty()) {
-                withStyle(SpanStyle(color = directColor, fontWeight = FontWeight.Medium)) {
+                withStyle(SpanStyle(color = directColor)) {
                     append(bold)
                 }
             }
@@ -274,11 +277,15 @@ private fun parseTranslationHtml(
     }
 }
 
+private val AmberDirect = androidx.compose.ui.graphics.Color(0xFFFFC107)
+
 /** Colour key shown at the top of the translation pane. */
 @Composable
 private fun TranslationLegend(modifier: Modifier = Modifier) {
-    val directColor = MaterialTheme.colorScheme.primary
-    val addedColor  = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.45f)
+    val blueMode = LocalIsBlueMode.current
+    val directColor = if (blueMode) AmberDirect else MaterialTheme.colorScheme.primary
+    val addedColor  = if (blueMode) androidx.compose.ui.graphics.Color.White.copy(alpha = 0.7f)
+                      else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.45f)
     Text(
         text = buildAnnotatedString {
             withStyle(SpanStyle(color = directColor)) { append("● Direct   ") }
@@ -295,7 +302,7 @@ fun HtmlText(
     modifier: Modifier = Modifier,
     style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge.copy(fontSize = LocalStudyFontSize.current)
 ) {
-    val directColor = MaterialTheme.colorScheme.primary
+    val directColor = if (LocalIsBlueMode.current) AmberDirect else MaterialTheme.colorScheme.primary
     val annotated: AnnotatedString = parseTranslationHtml(html, directColor)
     Text(text = annotated, style = style, modifier = modifier)
 }
@@ -308,7 +315,7 @@ fun HtmlTextWithItalicPrefix(
     style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyLarge.copy(fontSize = LocalStudyFontSize.current),
     forceDirectColor: Boolean = false
 ) {
-    val directColor = MaterialTheme.colorScheme.primary
+    val directColor = if (LocalIsBlueMode.current) AmberDirect else MaterialTheme.colorScheme.primary
     val parsed = parseTranslationHtml(html, directColor, forceDirectColor)
     val annotated: AnnotatedString = if (prefix.isNotEmpty()) {
         buildAnnotatedString {

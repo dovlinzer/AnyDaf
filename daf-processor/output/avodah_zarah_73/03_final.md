@@ -1,0 +1,227 @@
+# Avodah Zarah 73 — Daf Yomi Shiur
+
+## Wine Mixtures Intro
+
+### Yayin Nesech Basic
+
+> **Hebrew/Aramaic:** מַתְנִי׳ יֵין נֶסֶךְ אָסוּר וְאוֹסֵר בְּכׇל שֶׁהוּא, יַיִן בְּיַיִן וּמַיִם בְּמַיִם בְּכׇל שֶׁהוּא, יַיִן בְּמַיִם וּמַיִם בְּיַיִן בְּנוֹתֵן טַעַם.
+>
+> **Translation:** MISHNA: **Wine** used for **a libation** is **forbidden, and any amount** of it **renders** other wine **forbidden** if they are mixed together. **Wine** used for a libation that became mixed **with wine, or water** that was used for an idolatrous libation that became mixed **with** ordinary **water,** renders the mixture forbidden **with any amount** of the forbidden wine or water; but **wine** used for a libation that became mixed **with water, or water** used for a libation that became mixed **with wine** renders the mixture forbidden only if the forbidden liquid is sufficient **to impart flavor** to the mixture, i.e., for the wine to flavor the water or for the water to dilute the wine to an extent that can be tasted.
+
+The *mishna* that opens our daf concerns *ta'aroves* — mixtures — and states a foundational principle: *yayin nesech osur v'oser bechol shehu*. Wine that has been used in idolatrous contexts is prohibited, and even the tiniest drop of it renders a mixture forbidden. This is one of the classic cases of *assur bechol shehu*, a prohibition that is not subject to the ordinary mechanisms of *bittul*. The other paradigm case, which the *Gemara* will reach shortly, is *chametz b'pesach*. As for the identity of the "water" that appears later in the *mishna* as an analogue forbidden substance, Rashi understands it to refer to water that was literally poured before an *avodah zarah* and therefore has the status of *tikroves avodah zarah* — a libation offered to an idol.
+
+### Min B'Mino vs. She'lo
+
+> **Hebrew/Aramaic:** זֶה הַכְּלָל: מִין בְּמִינוֹ — בְּמַשֶּׁהוּ, וְשֶׁלֹּא בְּמִינוֹ — בְּנוֹתֵן טַעַם.
+>
+> **Translation:** **This is the principle: A substance** in contact **with** the **same** type of **substance** renders the mixture forbidden **with any amount** of the forbidden substance, **but** a substance in contact **with a different** type of **substance** renders the mixture forbidden only **in** a case where it **imparts flavor** to it.
+
+The *mishna* draws a fundamental distinction. When *yayin nesech* is mixed with wine — *yayin b'yayin*, like with like — it is forbidden *bechol shehu*, regardless of the ratio. But when wine is mixed with water or water with wine — unlike with unlike, *min b'eino mino* — the prohibition follows the principle of *b'nosein ta'am*: the forbidden substance renders the mixture forbidden only if it is present in sufficient quantity to impart a perceptible taste, which halachic tradition estimates as one part in sixty.
+
+### Why Min B'Mino Hard
+
+This distinction is not self-evident, and it is worth pausing to understand why *min b'mino* might be treated more stringently than *min b'eino mino*. There are in fact two competing logical positions pulling in opposite directions.
+
+The argument for leniency runs as follows: if forbidden meat is mixed into kosher meat of the same species, no bite of the resulting mixture will carry the distinctive taste of the forbidden item, because the forbidden item has no taste that distinguishes it from the permitted majority. Since the taste of the forbidden substance cannot be isolated, it has no independent identity, and as long as it is the minority it should be *batel b'rov*. This is essentially the ruling we follow: *min b'mino* is *batel b'rov* at the Torah level, with rabbinic stringency requiring one in sixty even there.
+
+The argument for stringency is the exact inverse. Precisely because there is no difference in taste between the forbidden and the permitted substance, the forbidden substance has no way to lose its identity. By contrast, when a drop of wine falls into soup, one can say: if the taste of the wine cannot be detected, that is proof that the wine has lost its identity. But when meat is mixed with meat, every bite carries the full taste of both the kosher and the forbidden component simultaneously. The forbidden substance never loses its identity, because there is no sensory criterion by which to declare it absent. This is the position of *Rebbi Yehuda*, who holds that *min b'mino* is *bechol shehu* — never subject to *bittul* — and this view is shared by Rashi.
+
+### Rav Yehuda Position
+
+Rav Yehuda's position — and Rashi's, as noted — is that *min b'mino* is *never batel* across all areas of Torah law. The *Gemara* ahead will present this as the view of Rav and Shmuel as well. Yet the normative *halacha* does not follow this position in general.
+
+### Stringency by Yayin
+
+The application to *yayin nesech* reflects a deliberate borrowing of the stringent position for contexts in which we wish to treat the prohibition with exceptional weight. Because *yayin nesech* involves *avodah zarah* — a prohibition of the gravest character — the decisors chose to apply the stricter logic of *min b'mino*, even though that logic is not the one we ordinarily rely upon. The stringency is a borrowed construct: we take a pre-existing rigorous model and apply it selectively where the severity of the prohibition warrants it. This is also why *chametz b'pesach* goes even further — not only is *min b'mino* governed by *bechol shehu*, but even *min b'eino mino* is treated as *bechol shehu* by *chametz*, a double exception that exceeds even *yayin nesech*.
+
+---
+
+## Rishon Rishon Batel
+
+### Rav Dimi Statement
+
+> **Hebrew/Aramaic:** גְּמָ׳ כִּי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: הַמְעָרֶה יֵין נֶסֶךְ מֵחָבִית לַבּוֹר, אֲפִילּוּ כׇּל הַיּוֹם כּוּלּוֹ — רִאשׁוֹן רִאשׁוֹן בָּטֵל.
+>
+> **Translation:** GEMARA: **When Rav Dimi came** from Eretz Yisrael to Babylonia, he reported that **Rabbi Yoḥanan says:** In the case of **one who pours wine** used for **a libation from a barrel into** a wine **cistern, even** if he does this **all day long,** the forbidden wine is **nullified little by little** upon contact with the wine in the cistern, and the wine is consequently permitted.
+
+The *Gemara* introduces a statement brought by Rav Dimi when he came from Eretz Yisrael, citing Rabbi Yochanan: *ha'me'areh yayin nesech m'chavit l'bor, afilu kol hayom kulo, rishon rishon batel* — one who pours *yayin nesech* from a barrel into a vat, even if he spends the entire day doing so, each successive drop is *batel* as it falls in.
+
+### Accumulation Question
+
+The principle of *rishon rishon batel* is a substantive halachic concept that makes considerable sense in the right context. Consider the following scenario: a vat of kosher chicken soup is receiving drip after drip of *yayin nesech*. The *mishna* has already taught that wine mixed with unlike substances — wine in chicken soup — is governed by *nosein ta'am*: the forbidden substance is *batel* unless it can impart a perceptible taste. The first drop of wine falls in, and it cannot be tasted; it is *batel*. The second drop falls in, and it too is *batel*. This continues for hundreds of drips, until eventually the cumulative wine has reached one-sixtieth of the soup, and now the wine taste is perceptible. What is the *halacha* at that moment?
+
+One might say: at drop number 2,000, the wine is now *nosein ta'am* and the mixture is forbidden. But another view says: one moment before that 2,000th drop, there was no wine in the soup — everything that had fallen had already been rendered *batel*, and the soup was 100% kosher at that stage. So the 2,000th drop lands in a kosher soup, and one drop of wine is not enough to render kosher soup forbidden. This is *rishon rishon batel*.
+
+The opposing principle is *chozer v'neior* — it returns and wakes up. On this view, the wine that had been rendered *batel* was only dormant. When the 2,000th drop arrives and the proportion has shifted to the point of *nosein ta'am*, all the previously dormant wine "wakes up," reasserts its presence, and the entire mixture is forbidden. One might also pose the *chozer v'neior* question at the threshold of *rov* rather than *nosein ta'am* — would dormant forbidden substance reassert itself once the forbidden component has become a majority?
+
+All of this reasoning makes excellent sense in a context where wine is dripping into chicken soup and the early drips are indisputably *batel*. The problem is that Rabbi Yochanan's application of *rishon rishon batel* involves wine dripping into a vat of wine — and the *mishna* has just declared that *yayin b'yayin* is *assur bechol shehu*. The very first drop of wine should never be *batel*. Rabbi Yochanan's statement appears to make no sense in this context.
+
+### Contradiction Emerges
+
+> **Hebrew/Aramaic:** תְּנַן: יֵין נֶסֶךְ אָסוּר וְאוֹסֵר בְּכׇל שֶׁהוּא. מַאי לָאו דְּקָא נָפֵיל אִיסּוּרָא לְגוֹ הֶתֵּירָא? לָא, דְּקָא נָפֵיל הֶתֵּירָא לְגוֹ אִיסּוּרָא.
+>
+> **Translation:** The Gemara raises an objection to the *halakha* reported by Rav Dimi from that which **we learned** in the mishna: **Wine** used for **a libation is forbidden, and any amount** of it **renders** other wine **forbidden. What, is it not** referring to a case **where the forbidden substance fell into the permitted substance,** as in the case of Rav Dimi's statement? The Gemara rejects this: **No,** it is referring to a case **where the permitted substance fell into the forbidden substance.**
+
+The *Gemara* confronts this directly. The *mishna* teaches *yayin nesech assur v'oser bechol shehu* — seemingly, one drop of forbidden wine falling into kosher wine creates a prohibition immediately. *Mai lav dekanfil issura lego heteira*? Is this not the obvious case, where the forbidden substance falls into the permitted? If so, Rabbi Yochanan's claim that each drop is *batel* flatly contradicts the *mishna*.
+
+### Yayin B'Yayin Lenient
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: יַיִן בְּמַיִם — בְּנוֹתֵן טַעַם. מַאי לָאו דְּקָא נָפֵיל חַמְרָא דְּאִיסּוּרָא לְמַיָּא דְּהֶתֵּירָא? לָא, דְּקָא נָפֵיל חַמְרָא דְּהֶתֵּירָא לְמַיָּא דְּאִיסּוּרָא. וּמִדְּרֵישָׁא בְּמַיָּא דְּאִיסּוּרָא, סֵיפָא נָמֵי בְּמַיָּא דְּאִיסּוּרָא, וְקָתָנֵי סֵיפָא: מַיִם בְּיַיִן — בְּנוֹתֵן טַעַם! אָמַר לְךָ רַב דִּימִי: כּוּלָּהּ מַתְנִיתִין הֶתֵּירָא לְגוֹ אִיסּוּרָא, וְרֵישָׁא דְּקָא נָפֵיל חַמְרָא דְּהֶתֵּירָא לְמַיָּא דְּאִיסּוּרָא, סֵיפָא דְּקָא נָפֵיל מַיָּא דְּהֶתֵּירָא לַחֲמָרָא דְּאִיסּוּרָא.
+>
+> **Translation:** The Gemara suggests: **Come** and **hear** a further objection to the *halakha* reported by Rav Dimi from the continuation of the mishna: **Wine** that became mixed **with water** renders the mixture forbidden if it is sufficient **to impart flavor** to it. **What, is it not** referring to a case **where forbidden wine fell into permitted water,** and contrary to Rav Dimi's statement, the wine is not nullified but instead renders the mixture forbidden the moment there is a sufficient amount of it to impart flavor? The Gemara answers: **No,** it is referring to a case **where permitted wine fell into forbidden water,** and as long as the water influences the flavor of the wine, it is forbidden. **And from** the fact **that the first clause** is referring **to forbidden water,** by inference, **the latter clause is also** dealing **with forbidden water, and the latter clause teaches: Water** that became mixed **with wine** renders the mixture forbidden **in** a case where it **imparts flavor** to it. The Gemara answers that **Rav Dimi** could have **said to you** that **the entire mishna** is dealing with **permitted substances** falling **into forbidden substances, and the first clause** is dealing with a case **where permitted wine fell into forbidden water,** while **the latter clause** is dealing with a case **where permitted water fell into forbidden wine.**
+
+The *Gemara* resolves this by rereading the *mishna* entirely. When the *mishna* declares *yayin nesech* to be *assur bechol shehu*, it is not speaking of the ordinary case in which a drop of forbidden wine falls into a large vat of kosher wine. Rather, it speaks of the reverse: *dekanpal heteira lego issura* — the permitted substance is falling, drop by drop, into a large quantity of forbidden wine. In that scenario, each drop of kosher wine arrives already surrounded by a majority of *yayin nesech* and is rendered forbidden immediately. Even as more and more kosher wine is added, each increment is captured by the *issur* before it can accumulate into a majority. That is the meaning of *bechol shehu*: not that a single drop of *yayin nesech* contaminates a sea of kosher wine, but that even a large quantity of kosher wine pouring slowly into forbidden wine never achieves dominance.
+
+The *Gemara* sustains this reading through the subsequent cases of the *mishna* as well. When the *mishna* addresses *yayin b'mayim b'nosein ta'am*, it is again the kosher wine dripping into a great volume of forbidden water, not the reverse. The entire *mishna*, on this reading, concerns *heter* falling into *issur*, not *issur* falling into *heter*. And according to Rabbi Yochanan, in the normal case — where a small amount of *issur* falls into a large amount of *heter* — *yayin b'yayin* is *batel b'rov*. This is, as Rashi is at pains to emphasize, a radical leniency — and not the position we rule by.
+
+---
+
+## Multiple Versions
+
+### Yitzchak Limitation
+
+> **Hebrew/Aramaic:** כִּי אֲתָא רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יוֹחָנָן: הַמְעָרֶה יֵין נֶסֶךְ מִצַּרְצוּר קָטָן לְבוֹר, אֲפִילּוּ כׇּל הַיּוֹם כּוּלּוֹ — רִאשׁוֹן רִאשׁוֹן בָּטֵל. וְדַוְקָא צַרְצוּר קָטָן, דְּלָא נְפִישׁ עַמּוּדֵיהּ, אֲבָל חָבִית דִּנְפִישׁ עַמּוּדֵיהּ — לָא.
+>
+> **Translation:** **When Rav Yitzḥak bar Yosef came** from Eretz Yisrael to Babylonia, he reported that **Rabbi Yoḥanan says:** In the case of **one who pours wine** used for **a libation from a small canteen into** a wine **cistern, even** if he did so **all day long,** the forbidden wine is **nullified little by little** in the permitted wine. **And** this applies **specifically** to **a small canteen, whose stream is not significant. But** if one pours wine from **a barrel, whose stream is significant,** this does **not** apply.
+
+A second report from Eretz Yisrael arrives with Rav Yitzchak bar Yosef, also citing Rabbi Yochanan. His version reads: *ha'me'areh yayin nesech mitziltzul katan labor, afilu kol hayom kulo, rishon rishon batel* — one who pours *yayin nesech* from a small vessel, drop by drop, into a vat, each drop is *batel* even over the course of the entire day. The language *tziltzul katan* — a small bottle producing individual droplets — is significant. Rav Yitzchak adds: *vedavka tsiltzul katan, dela nafish amudeih* — this ruling applies only to a narrow trickle that does not flow in a heavy stream. But *aval chavit*, if it were a full barrel pouring a thick, continuous column of wine, *denafish amudeih*, that would not be subject to *rishon rishon batel*. This version of Rabbi Yochanan thus pulls back from the broadest reading and limits the *bittul* to genuinely isolated drops, not to a continuous flow.
+
+### Ravin's Roin
+
+> **Hebrew/Aramaic:** כִּי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן: יֵין נֶסֶךְ שֶׁנָּפַל לַבּוֹר, וְנָפַל שָׁם קִיתוֹן שֶׁל מַיִם — רוֹאִין אֶת הַהֶיתֵּר כְּאִילּוּ אֵינוֹ, וְהַשְּׁאָר מַיִם רָבִין עָלָיו וּמְבַטְּלִין אוֹתוֹ.
+>
+> **Translation:** **When Ravin came** from Eretz Yisrael to Babylonia, he said that **Rabbi Yoḥanan says:** In the case of **wine** used for **a libation that fell into** a wine **cistern, and** where **a pitcher of water** also **fell there, one considers the permitted** wine **as though it is nonexistent,** and it is not rendered forbidden by the wine used for a libation; **and** with regard to **the rest,** i.e., the wine used for a libation, the volume of the **water is greater than** the volume of the wine **and nullifies it.**
+
+A third version arrives with Ravin, also in the name of Rabbi Yochanan, and introduces an entirely different conceptual framework. *Yayin nesech shenafal labor, venafal sham kiton shel mayim, ro'in et hamino ke'ilu eino, vehashear mayim rabim alav umevattlin oto.* When *yayin nesech* has fallen into a vat of wine, and subsequently a jug of water is poured in, we apply the principle of *ro'in* — we treat the kosher wine as though it were not there — and the remaining water, which stands in an *eino mino* relationship to the *yayin nesech*, is sufficient to create *bittul*.
+
+This version represents an even larger *chiddush* than the earlier ones, because it does not require the water to have been present at the time the forbidden wine fell in. The *yayin nesech* fell first into wine alone, the entire vat was therefore forbidden at that moment, and yet retroactively — once the water is added — we apply *ro'in*, pretend the kosher wine is absent, and treat the matter as though one drop of forbidden wine fell into water. Ravin's Rabbi Yochanan, on this reading, never actually contradicted the *mishna*'s teaching that *yayin b'yayin* is *bechol shehu*. Rather, his leniency is specifically about the presence of *eino mino* — water — which can create *bittul* even after the fact, by means of the *ro'in* principle.
+
+### Water First Rule
+
+> **Hebrew/Aramaic:** כִּי אֲתָא רַב שְׁמוּאֵל בַּר יְהוּדָה, אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁנָּפַל קִיתוֹן שֶׁל מַיִם תְּחִלָּה, אֲבָל לֹא נָפַל שָׁם קִיתוֹן שֶׁל מַיִם תְּחִלָּה — מָצָא מִין אֶת מִינוֹ וְנֵיעוֹר.
+>
+> **Translation:** **When Rav Shmuel bar Yehuda came** from Eretz Yisrael he said that **Rabbi Yoḥanan says:** The Sages **taught** this **only** with regard to a case **where** the **pitcher of water fell** in **first, but** if the **pitcher of water did not fall** in **first,** the wine used for a libation **has found its** own **type,** i.e., the wine in the cistern, **and been awakened.** In other words, the wine used for a libation renders the wine in the cistern forbidden, causing the volume of the wine that is forbidden to become larger, and the water that subsequently falls in is not sufficient to nullify all of the wine.
+
+Rav Shmuel bar Yehuda cites Rabbi Yochanan with a qualification: *lo shanu ela she-nafal kiton shel mayim techilla* — the ruling that the water creates *bittul* applies only if the water fell first, before the *yayin nesech*. That is, when the wine drops into a mixture that already contains water, the water is immediately operative and performs *bittul* on the spot. *Aval lo nafal sham kiton shel mayim techilla* — but if no water had fallen prior to the *yayin nesech* — *matza min et mino venei'or*: the *yayin nesech* encountered the kosher wine, found its own kind, and they "woke up together." In such a case the wine's identity is reinforced and intensified rather than neutralized, and the subsequent addition of water cannot undo what has already congealed as *issur*.
+
+The intuition behind *matza min et mino venei'or* is striking. In an ordinary *chozer v'neior* scenario, the forbidden substance had been dormant and reawakens when cumulative proportions shift. Here, the forbidden wine never even became dormant — it merged immediately with kosher wine and the entire vat was *assur* from the moment of contact. The addition of water at that stage cannot focus on a single isolated drop; the entire mixture is already forbidden.
+
+### Timing of Roin
+
+> **Hebrew/Aramaic:** אִיכָּא דְּמַתְנֵי לַהּ אַמַּתְנִיתִין: יַיִן בְּיַיִן — כׇּל שֶׁהוּא. אָמַר רַב שְׁמוּאֵל בַּר יְהוּדָה אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא נָפַל שָׁם קִיתוֹן שֶׁל מַיִם, אֲבָל נָפַל שָׁם קִיתוֹן שֶׁל מַיִם — רוֹאִין אֶת הַהֶיתֵּר כְּאִילּוּ אֵינוֹ, וְהַשְּׁאָר מַיִם רָבִין עָלָיו וּמְבַטְּלִין אוֹתוֹ. מַאי אִיכָּא בֵּין לִדְמַתְנֵי לַהּ אַמַּתְנִיתִין, בֵּין לִדְמַתְנֵי לַהּ אַדְּרָבִין? מַאן דְּמַתְנֵי לַהּ אַמַּתְנִיתִין — לָא בָּעֵי תְּחִלָּה, וּמַאן דְּמַתְנֵי לַהּ אַדְּרָבִין — בָּעֵי תְּחִלָּה.
+>
+> **Translation:** The Gemara comments: **There are those who teach this** *halakha* **with regard to the mishna,** which states that **wine** used for a libation that became mixed **with** permitted **wine** renders it forbidden with **any amount. Rav Shmuel bar Yehuda says** that **Rabbi Yoḥanan says:** The mishna **taught** this **only** with regard to a case **where a pitcher of water did not** also **fall** into the permitted wine; **but** if **a pitcher of water fell there, one considers the permitted** wine **as though it is nonexistent,** and it is not rendered forbidden by the wine used for a libation, **and** with regard to **the rest,** i.e., the wine used for a libation, the volume of the **water is greater than** the volume of the wine **and nullifies it.** **What** difference **is there between** the one **who teaches** this **about the mishna and** the one **who teaches it about** the statement **of Ravin?** The Gemara explains: **The one who teaches it about the mishna does not need** for the pitcher of water to have fallen in **first;** in any event the water nullifies the forbidden wine. **But the one who teaches it about** the statement **of Ravin** adds to Ravin's statement, and so he **needs** the pitcher of water to have fallen in **first.**
+
+The *Gemara* notes that Rav Shmuel bar Yehuda's statement can be read in two ways depending on which earlier source it was meant to clarify. If it was offered as a clarification of the *mishna* directly, then it merely says: when water is added, *bittul* occurs, without specifying that the water must come first. In that case, the statement is lenient, allowing *ro'in* even when the water arrives after the *yayin nesech*. But if Rav Shmuel bar Yehuda was clarifying the statement of Ravin — who had already asserted that water added after the fact creates *bittul* — then Rav Shmuel bar Yehuda's refinement is a restriction: *only* if the water was there first. *Uman dematni lah adrevin vadai baei techillah.* If Ravin had already granted the more lenient position, Rav Shmuel bar Yehuda must be coming to limit it.
+
+---
+
+## Chizkiyah Position
+
+### Hidgilu Debate
+
+> **Hebrew/Aramaic:** אִיתְּמַר: יֵין נֶסֶךְ שֶׁנָּפַל לַבּוֹר, וְנָפַל שָׁם קִיתוֹן שֶׁל מַיִם, אָמַר חִזְקִיָּה: הִגְדִּילוּ בְּאִיסּוּר — אָסוּר, הִגְדִּילוּ בְּהֶיתֵּר — מוּתָּר. וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ הִגְדִּילוּ בְּאִיסּוּר — מוּתָּר.
+>
+> **Translation:** § **It was stated** that in a case of **wine** used for **a libation that fell into** a wine **cistern, and** where **a pitcher of water** also **fell there, Ḥizkiyya says:** If the volume of the water and the wine **was increased by** the **forbidden** wine, i.e., the forbidden wine fell in last, the mixture is **forbidden,** because the forbidden wine renders the permitted wine forbidden by the principle of a substance in contact with the same type of substance, and the water does not nullify the forbidden wine. But if the volume of the water and the forbidden wine **was increased by** the **permitted** wine, i.e., there was a mixture of wine used for a libation and water, and the wine used for a libation was nullified by the water and then permitted wine fell into the mixture, in such a case the permitted wine is not rendered forbidden by the forbidden wine that had already been nullified, and so the entire mixture is **permitted. And Rabbi Yoḥanan says: Even** if the volume of the permitted wine and the water **was increased by** the **forbidden** wine, the mixture is **permitted.**
+
+The *Gemara* now records a direct dispute between Chizkiyah and Rabbi Yochanan. The scenario is *yayin nesech shenafal labor venafal sham kiton shel mayim* — *yayin nesech* fell into a vat and water was subsequently added. Chizkiyah states: *higdilu b'issur — assur; higdilu b'heter — mutar.* If the mixture grew in a state of *issur*, it remains forbidden; if it grew in a state of *heter*, it is permitted.
+
+Rashi reads Chizkiyah's position carefully. Both of the two cases under discussion — wine falling into wine alone, and wine falling into an existing mixture of wine and water — are classified by Chizkiyah as *higdilu b'issur*, because in both cases the *yayin nesech* encountered wine upon entry and the volume of *issur* increased. The only case of *higdilu b'heter* is the straightforward one: a single drop of *yayin nesech* falls directly into water from the start, whereupon *bittul* occurs immediately. According to Chizkiyah, once wine has merged with wine and the vat is already in a state of *issur*, the subsequent arrival of water cannot produce *bittul*. He rejects *ro'in* entirely.
+
+### Yochanan Rejects
+
+Rabbi Yochanan disagrees: *afilu higdilu b'issur — mutar.* Even in the case where the volume grew under conditions of *issur*, it remains permitted — provided that water was present when the *yayin nesech* fell in. Water, by virtue of being *eino mino*, generates *bittul* regardless of the presence of kosher wine in the vat. Rabbi Yochanan affirms the principle of *ro'in*: we disregard the kosher wine, treat it as though absent, and allow the water to perform *bittul* on the single drop of *yayin nesech*.
+
+### Sourdough Analogy
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זֵירָא: לֵימָא חִזְקִיָּה וְרַבִּי יוֹחָנָן בִּפְלוּגְתָּא דְּרַבִּי אֱלִיעֶזֶר וְרַבָּנַן קָמִיפַּלְגִי? דִּתְנַן: שְׂאוֹר שֶׁל חוּלִּין וְשֶׁל תְּרוּמָה שֶׁנָּפְלוּ לְתוֹךְ הָעִיסָּה, לֹא בָּזֶה כְּדֵי לְחַמֵּץ וְלֹא בָּזֶה כְּדֵי לְחַמֵּץ, וְנִצְטָרְפוּ וְחִמְּצוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר: אַחַר אַחֲרוֹן אֲנִי בָּא, וַחֲכָמִים אוֹמְרִים: בֵּין שֶׁנָּפַל אִיסּוּר בַּתְּחִלָּה וּבֵין בַּסּוֹף — אֵינוֹ אָסוּר עַד שֶׁיְּהֵא בּוֹ כְּדֵי לְהַחְמִיץ.
+>
+> **Translation:** **Rabbi Yirmeya said to Rabbi Zeira: Shall we say** that **Ḥizkiyya and Rabbi Yoḥanan disagree with regard to** the issue that is the subject of **the dispute between Rabbi Eliezer and the Rabbis? As we learned** in a mishna (*Orla* 2:11): In the case of **non-sacred leaven and *teruma*** leaven **that fell into** a non-sacred **batch of dough,** and **neither is this one** alone potent enough **to cause** the dough **to become leavened, nor is that one** alone potent enough **to cause** the dough **to become leavened, and they combined and caused** the dough **to become leavened,** there is a dispute. **Rabbi Eliezer says: I follow the final** element that fell into the dough. If the *teruma* fell in last, the dough is forbidden to non-priests. **And the Rabbis say: Whether** the **forbidden item,** i.e., the *teruma*, **fell** in **first or whether** it fell in **last,** the dough **is not forbidden unless there is enough of** the forbidden leaven alone **to cause** the dough **to become leavened.** Apparently, Ḥizkiyya holds in accordance with the opinion of Rabbi Eliezer that if the forbidden substance is mixed in last, the mixture is rendered forbidden, and Rabbi Yoḥanan holds in accordance with the opinion of the Rabbis that if the amount of the forbidden substance is not sufficient in and of itself to render the mixture forbidden, the mixture is permitted.
+
+Rabbi Yirmiyah poses a question to Rabbi Zeira: perhaps Chizkiyah and Rabbi Yochanan are simply reprising the ancient dispute between Rabbi Eliezer and the Sages concerning sourdough. The *mishna* teaches: *se'or shel chulin v'shel terumah shenafalu l'toch issa, lo b'zeh k'dei l'chametz v'lo b'zeh k'dei l'chametz, v'nitztarfu l'chimtzu* — two pieces of sourdough, one of *chulin* and one of *terumah*, each insufficient on its own to cause fermentation, fell together into dough and jointly caused it to rise. The question concerns *terumah*: since the *terumah* sourdough contributed causally to the fermentation, is the dough now forbidden as *terumah*?
+
+Rabbi Eliezer says: *achar acharon ani ba* — I follow the last: whichever piece of sourdough fell in last bears causal responsibility for the fermentation, and the status of the dough is determined accordingly. The Sages say: it does not matter whether the *issur* fell first or last — if it did not have sufficient quantity to cause fermentation by itself, it never creates a problem.
+
+The structural parallel being proposed is: Chizkiyah, who holds that sequence matters and that *issur* falling second is worse, seems analogous to Rabbi Eliezer, who follows the last act. Rabbi Yochanan, who says the water creates *bittul* regardless of sequence, seems analogous to the Sages, who ignore the order of events.
+
+### Abaye Critique
+
+> **Hebrew/Aramaic:** וְתִסְבְּרַאּ?! וְהָאָמַר אַבָּיֵי: לֹא שָׁנוּ אֶלָּא שֶׁקָּדַם וְסִילֵּק אֶת הָאִיסּוּר, אֲבָל לֹא קָדַם וְסִילֵּק אֶת הָאִיסּוּר — אָסוּר. חִזְקִיָּה דְּאָמַר כְּמַאן? אֶלָּא, הָכָא בְּרוֹאִין קָמִיפַּלְגִי: לְחִזְקִיָּה לֵית לֵיהּ רוֹאִין, לְרַבִּי יוֹחָנָן אִית לֵיהּ.
+>
+> **Translation:** The Gemara responds: **And** how can **you understand** that this is the same dispute? **But doesn't Abaye say:** Rabbi Eliezer **taught** that the mixture is permitted when the permitted leaven fell in last **only** in a case **when one first removed the forbidden** leaven before the permitted leaven fell into the dough and made it rise. **But** if **one did not first remove the forbidden** leaven, the dough is **forbidden** even if the permitted leaven fell in last. According to Abaye's interpretation, **in accordance with whose** opinion **does Ḥizkiyya state his ruling** with regard to a mixture of forbidden wine, permitted wine, and permitted water, that if the forbidden wine was mixed in last the mixture is forbidden? According to the Rabbis the mixture should be permitted in any event, as there is not enough forbidden wine to render the mixture forbidden, and according to Rabbi Eliezer, even if the permitted wine was mixed in last the mixture should be forbidden, as the forbidden wine was not removed. **Rather, here** Ḥizkiyya and Rabbi Yoḥanan **disagree concerning** the principle that with regard to a mixture of a forbidden substance and a permitted substance of the same type, and a permitted substance of a different type, **one considers** the permitted substance of the same type as though it were nonexistent so that the substance of the other type can nullify the forbidden substance. **Ḥizkiyya is not of** the opinion that **one considers** it as though it were nonexistent, whereas **Rabbi Yoḥanan is of** the opinion that one considers it as though it were nonexistent, and so he maintains that in any event the water nullifies the forbidden wine, and the permitted wine in the mixture is disregarded.
+
+Abaye, however, dismantles the analogy. He points out that Rabbi Eliezer's position, on closer examination, cannot be mapped onto Chizkiyah's. According to Abaye, Rabbi Eliezer's leniency applies only in the following circumscribed case: *lo shanu ela she-kadam ve-silek et ha-issur* — when the *issur* sourdough fell first and was then *removed* before the combined fermentation occurred. In that case, the *issur* is no longer operative at the time of fermentation. But if the *issur* sourdough remains present and participates actively in fermentation, even Rabbi Eliezer — who is sensitive to causal contribution — would render the dough forbidden regardless of whether it fell first or second.
+
+This demolishes the proposed analogy. Chizkiyah holds that the case where wine falls into a mixture of wine and water is *mutar* — but according to Abaye's reading of Rabbi Eliezer, that same case by sourdough would be *assur* if the *issur* sourdough remained. Chizkiyah therefore cannot correspond to Rabbi Eliezer. The Sages, for their part, would say it is always *mutar* — which aligns with no qualified version of Chizkiyah's view either. *Chizkiyah damar keman* — Chizkiyah fits neither position.
+
+The *Gemara* therefore concludes: *ella hacha beroin kemiflagi* — what Chizkiyah and Rabbi Yochanan are actually disputing is the principle of *ro'in* itself. *Lechizkiyah leit lei roin* — Chizkiyah does not accept *ro'in*. *Ulerabi Yochanan is lei roin* — Rabbi Yochanan affirms it. The debate about *zeh v'zeh gorem* — whether two partial causes jointly produce a prohibited outcome — is an entirely different discussion that does not map onto this one, as Rashi confirms.
+
+---
+
+## Two Cups Case
+
+### Assi Question
+
+> **Hebrew/Aramaic:** וּמִי אִית לֵיהּ לְרַבִּי יוֹחָנָן רוֹאִין? וְהָא בָּעֵי מִינֵּיהּ רַבִּי אַסִּי מֵרַבִּי יוֹחָנָן: שְׁנֵי כּוֹסוֹת, אֶחָד שֶׁל חוּלִּין וְאֶחָד שֶׁל תְּרוּמָה, וּמְזָגָן וְעֵירְבָן זֶה בָּזֶה מַהוּ? וְלָא פְּשַׁט לֵיהּ!
+>
+> **Translation:** The Gemara asks: **And is Rabbi Yoḥanan of** the opinion that **one considers** the permitted substance of the same type as though it were nonexistent? **But didn't Rabbi Asi ask Rabbi Yoḥanan** the following question: If one had **two cups** of wine, **one non-sacred and one of *teruma*, and he diluted them** with water **and mixed them together,** and there is sufficient water between the two cups to nullify the *teruma* wine, **what is** the *halakha*? Is the non-sacred wine, which is the same type of substance as the *teruma* wine, considered to be nonexistent, and the water in the mixture nullifies the *teruma* wine, or does the *teruma* wine render the non-sacred wine forbidden, and the water in both cups is insufficient to nullify the combined wine? **And** Rabbi Yoḥanan **did not resolve** the dilemma **for him,** indicating that he did not have a set opinion on the matter.
+
+The *Gemara* now asks whether Rabbi Yochanan truly holds the principle of *ro'in*, given that Rav Assi himself apparently posed the question to Rabbi Yochanan and received no immediate answer. The case Rav Assi presented was: *shnei kosos, echad shel chulin v'echad shel terumah, umazgan ve'irvan ze baze* — two cups, one of *chulin* wine and one of *terumah* wine. Each cup has water added (*mezigah*), and then the two cups are poured together. The question concerns *terumah*: water added to the *terumah* cup might, if considered in isolation, be sufficient to create *bittul* of the *terumah*. But the mixture now also contains *chulin* wine, which is *min b'mino* with the *terumah* wine. Does the *chulin* wine interfere with *bittul* — joining with the *terumah* wine and preventing the water from performing *bittul* — or does *ro'in* apply: we treat the *chulin* wine as absent and allow the water to act on the *terumah* wine alone?
+
+Rav Assi's question received no immediate resolution from Rabbi Yochanan, which might cast doubt on whether Rabbi Yochanan was committed to *ro'in* as a firm principle.
+
+### Ignoring Kosher
+
+> **Hebrew/Aramaic:** מֵעִיקָּרָא לָא פְּשַׁט לֵיהּ, לְבַסּוֹף פְּשַׁט לֵיהּ. אִתְּמַר נָמֵי: אָמַר רַבִּי אַמֵּי אָמַר רַבִּי יוֹחָנָן, וְאָמְרִי לַהּ אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: שְׁנֵי כּוֹסוֹת, אֶחָד שֶׁל חוּלִּין וְאֶחָד שֶׁל תְּרוּמָה, וּמְזָגָן וְעֵירְבָן זֶה בָּזֶה — רוֹאִין אֶת הַהֶיתֵּר כְּאִילּוּ אֵינוֹ, וְהַשְּׁאָר מַיִם רָבִין עָלָיו וּמְבַטְּלִין אוֹתוֹ.
+>
+> **Translation:** The Gemara answers: **Initially he did not resolve** the dilemma **for him,** but **ultimately he resolved for him** that the permitted substance of the same type is considered as though it were nonexistent. It **was also stated** that this was Rabbi Yoḥanan's ultimate opinion, as **Rabbi Ami says** that **Rabbi Yoḥanan says, and some say** that it is **Rabbi Asi** who **says** that **Rabbi Yoḥanan says:** If one had **two cups** of wine, **one non-sacred and one of *teruma*, and he diluted them** with water **and mixed them together,** and there is sufficient water in each of the cups to nullify the *teruma* wine, **one considers the permitted** wine **as though it were nonexistent, and** as for **the rest,** the *teruma* wine, the volume of the **water is greater than** the volume of the wine **and nullifies it.**
+
+The *Gemara* resolves this: *meikara lo pashat lei ulevassof pashat lei* — initially he had no answer, but ultimately Rabbi Yochanan arrived at his view. And it is stated in his name — whether transmitted by Rav Ami or Rav Assi: *shnei kosos, echad shel chulin v'echad shel terumah, umazgan ve'irvan ze baze, ro'in et ze ke'ilu eino, veshaar mayim rabim alav umevattlo oto* — we regard the *chulin* wine as though it were not there, and the water — standing in an *eino mino* relationship to the *terumah* — creates *bittul*. This is the operative *halacha*, and the case of whether *ro'in* applies even when the water arrives second remains less fully resolved.
+
+---
+
+## General Bittul Rules
+
+### Rav Shmuel Rule
+
+> **Hebrew/Aramaic:** זֶה הַכְּלָל: מִין בְּמִינוֹ — בְּמַשֶּׁהוּ, שֶׁלֹּא בְּמִינוֹ — בְּנוֹתֵן טַעַם. רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל אִיסּוּרִין שֶׁבַּתּוֹרָה — בְּמִינָן בְּמַשֶּׁהוּ, שֶׁלֹּא בְּמִינָן — בְּנוֹתֵן טַעַם.
+>
+> **Translation:** § The mishna states that **this is the principle: A substance** in contact **with** the **same** type of **substance** renders the mixture forbidden **with any amount** of the forbidden substance, **but** a substance in contact **with a different** type of **substance** renders the mixture forbidden only **in** a case where it **imparts flavor** to it. The Gemara presents an amoraic dispute with regard to this principle: **Rav and Shmuel both say:** With regard to **any** food **forbidden by the Torah** that becomes mixed with permitted food, if the permitted food is **of** its own **type,** then even **any amount** of the forbidden substance renders the entire mixture forbidden. If the forbidden food is mixed **with another type** of substance, then the mixture becomes forbidden only **in** a case where there is enough of the forbidden food to **impart flavor** to the mixture.
+
+With the case law of *yayin nesech* and *ro'in* behind us, the *mishna*'s closing words — *zeh haklal: min b'mino b'mashehu, shelo b'mino b'nosein ta'am* — serve as a springboard for the *Gemara* to set out the general positions of the *Amoraim* on *bittul*. Rav and Shmuel both rule: *kol issurin shebaTorah min b'mino b'mashehu* — for every prohibition in the Torah, when a forbidden substance is mixed with its own kind, even a trace amount is never *batel*. When it is mixed with something unlike itself, it follows *nosein ta'am*. The *mishna*'s statement of the "general rule" is understood by them to extend to every case in the Torah, making *min b'mino b'mashehu* the universal default.
+
+### Yochanan Resh Lakish
+
+> **Hebrew/Aramaic:** זֶה הַכְּלָל — לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי כׇּל אִיסּוּרִין שֶׁבַּתּוֹרָה. רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ דְּאָמְרִי תַּרְוַיְיהוּ: כׇּל אִיסּוּרִין שֶׁבַּתּוֹרָה, בֵּין בְּמִינָן בֵּין שֶׁלֹּא בְּמִינָן — בְּנוֹתֵן טַעַם, חוּץ מִטֶּבֶל וְיֵין נֶסֶךְ — בְּמִינָן בְּמַשֶּׁהוּ, וְשֶׁלֹּא בְּמִינָן — בְּנוֹתֵן טַעַם. וְזֶה הַכְּלָל — לְאֵתוֹיֵי טֶבֶל.
+>
+> **Translation:** According to Rav and Shmuel, **what is added** by the statement in the mishna: **This is the principle,** etc.? This is stated **to include any** food **forbidden by the Torah,** and not only wine used for a libation. **Rabbi Yoḥanan and Reish Lakish both say:** With regard to **any** food **forbidden by the Torah** that falls into a mixture, **whether of its** own **type** of food **or another type** of food, the mixture is forbidden **in** a case where there is enough of the forbidden food to **impart flavor** to the mixture. This is the *halakha* **except for** the cases of **untithed produce and wine** used for **a libation,** which render a mixture **with their** own **type** of food forbidden **in** a case where **any amount** of the forbidden food was mixed with the permitted food; but if they are mixed **with another type** of substance, the mixture is forbidden only **in** a case where they **impart flavor** to it. **And** according to this opinion, the statement in the mishna: **This is the principle,** etc., is stated **to include** the case of **untithed produce,** which is not mentioned in the mishna explicitly.
+
+Rabbi Yochanan and Resh Lakish disagree. They rule: *kol issurin shebaTorah bein b'mino bein shelo b'mino b'nosein ta'am* — whether the forbidden substance is mixed with its own kind or with something different, the operative principle is always *nosein ta'am*. There is no categorical difference in stringency between *min b'mino* and *min b'eino mino*. If anything, *min b'mino* is *more* susceptible to *bittul*, not less. This is the position we rule by.
+
+### Exceptions Listed
+
+Rabbi Yochanan and Resh Lakish, however, acknowledge two exceptions: *chutz mi'tevel v'yayin nesech* — *tevel* and *yayin nesech* are treated more strictly, such that *b'mino* is *b'mashehu* and *shelo b'mino* follows *nosein ta'am*. These two cases follow the exact structure of the *mishna*, whose *zeh haklal*, on Rabbi Yochanan's reading, comes precisely to include them.
+
+### Yayin Reason
+
+The reason *yayin nesech* receives exceptional treatment is stated plainly: *mishum chomer d'avoda kochavim* — because of the gravity of idolatry. We deliberatley impose the stringent logic of *min b'mino b'mashehu* on *yayin nesech* in order to prevent its easy nullification.
+
+### Tevel Reason
+
+> **Hebrew/Aramaic:** בִּשְׁלָמָא יֵין נֶסֶךְ, מִשּׁוּם חוּמְרָא דַּעֲבוֹדָה זָרָה, אֶלָּא טֶבֶל מַאי טַעְמָא? כְּהֶיתֵּירוֹ כָּךְ אִיסּוּרוֹ, דְּאָמַר שְׁמוּאֵל: חִטָּה אַחַת פּוֹטֶרֶת אֶת הַכְּרִי. וְתַנְיָא נָמֵי הָכִי: בַּמֶּה אָמְרוּ טֶבֶל אוֹסֵר בְּכׇל שֶׁהוּא? בְּמִינוֹ, שֶׁלֹּא בְּמִינוֹ — בְּנוֹתֵן טַעַם.
+>
+> **Translation:** The Gemara asks: According to the opinion of Rabbi Yoḥanan and Reish Lakish, why are untithed produce and wine used for a libation treated more stringently than other forbidden foods? **Granted, wine** used for **a libation** is treated stringently **due to the severity of idol worship, but** with regard to **untithed produce, what is the reason** that any amount of it that is mixed with permitted food of its own type renders the mixture forbidden? The Gemara answers: Just **as** it assumes **its permitted** status, **so** it assumes **its forbidden** status, **as Shmuel says:** Even **one grain of wheat** given as *teruma* **exempts the** entire **heap** of grain from the obligation of *teruma*. Since any amount of *teruma* given renders the entire heap of produce permitted, any amount of untithed produce also renders the entire mixture forbidden. **And this is also taught** in a *baraita*: **With regard to what** situation **did** the Sages **say** that **any amount** of **untithed produce renders** a mixture **forbidden?** It is with regard to untithed produce that becomes mixed **with its** own **type,** but with regard to untithed produce that becomes mixed **with another type,** the mixture is forbidden only **in** a case where the untithed produce **imparts flavor** to it.
+
+The reason *tevel* is exceptional is formulated as *k'heteiro kach issuro*: as its remedy, so its prohibition. The principle means that the same measure that can fix the *tevel* problem sets the threshold for the prohibition. And what fixes *tevel*? Shmuel taught: *chita achat poteret et hakari* — a single kernel of wheat suffices to separate *terumah* and thereby discharge the most significant dimension of the *tevel* obligation from an entire heap. Since one grain of wheat effects the *heter*, one grain of *tevel* wheat creates the *issur* — and since that single grain is consequential, it cannot be *batel*.
+
+### Single Grain Fix
+
+Rashi adds that this reasoning explains specifically why *min b'mino* is the operative axis for *tevel*. The mechanism by which a single grain fixes the heap works only *min b'mino*: one cannot separate a grain of barley as *terumah* on a heap of wheat. The *heteira* — the fix — is inherently *min b'mino*, and therefore the *issur* follows the same *min b'mino* logic.
+
+An alternative way of framing the exception, however — and one that applies equally to *yayin nesech* — is simply that when the *halacha* demands heightened severity, we borrow the stringent model even though it is not our normative position. There exists in the halachic system a logic under which *min b'mino* is the hardest case for *bittul*, and when a given prohibition is severe enough to warrant exceptional treatment, we apply that logic selectively.
+
+### Chametz Exception
+
+*Chametz b'pesach* goes still further, though the *Gemara* does not fully elaborate its reasoning here. The standard *machmir* position for *min b'mino* would be *bechol shehu*. But *chametz* exceeds even that: even *min b'eino mino* is governed by *bechol shehu* on Pesach, making it the most stringent category of all. This applies to mixtures that occur on Pesach itself; a mixture formed before Pesach follows the ordinary rules.
+
+One might ask why the *Gemara* gives the *k'heteiro kach issuro* explanation for *tevel* rather than invoking the principle of *davar sheyesh lo matirin* — the rule that a forbidden substance which has a permissible avenue of remedy cannot be rendered permitted through *bittul*. Tosafos poses exactly this question. The most economical answer is that *davar sheyesh lo matirin* as a categorical principle is in fact a matter of debate among the *Tannaim*; while we rule by it *l'maiseh*, it is not the consensus position of the *Gemara*, and therefore the *Gemara* prefers to ground the ruling in the more universally accepted reasoning of *k'heteiro kach issuro*.

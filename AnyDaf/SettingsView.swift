@@ -83,7 +83,7 @@ struct SettingsView: View {
                     Toggle("White Background", isOn: $useWhiteBackground)
                     HStack(spacing: 0) {
                         // Tap small A to decrease
-                        let cases = StudyFontSize.allCases
+                        let cases = StudyFontSize.displayCases
                         let idx = cases.firstIndex(of: studyFontSize) ?? 1
                         Button {
                             if idx > 0 { studyFontSize = cases[idx - 1] }

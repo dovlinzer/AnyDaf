@@ -1,0 +1,41 @@
+### Gittin 7b
+
+**1.**
+*Hebrew/Aramaic:* ״וְעִנִּתִךְ״ – אָמַר מָר זוּטְרָא: אֲפִילּוּ עָנִי הַמִּתְפַּרְנֵס מִן הַצְּדָקָה, יַעֲשֶׂה צְדָקָה. ״לֹא אַעֲנֵּךְ עוֹד״ – תָּנֵי רַב יוֹסֵף: שׁוּב אֵין מַרְאִין לוֹ סִימָנֵי עֲנִיּוּת.
+*Translation:* The Gemara addresses the continuation of the verse: **“And though I have afflicted you [*ve’innitikh*]”** (Nahum 1:12). **Mar Zutra says:** This means that **even a poor person [*ani*] who is sustained from charity** must also **perform charity.** With regard to the expression: **“And I will afflict you [*a’anekh*] no more,” Rav Yosef teaches:** This means that if he gives charity to others, God **will no longer show him signs of poverty [*aniyyut*].**
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר, מִרְקָם לַמִּזְרָח כּוּ׳: לְמֵימְרָא דְּעַכּוֹ לִצְפוֹנָהּ דְּאֶרֶץ יִשְׂרָאֵל קָיְימָא?! וּרְמִינְהוּ: הָיָה מְהַלֵּךְ מֵעַכּוֹ לִכְזִיב; מִימִינוֹ – לְמִזְרַח הַדֶּרֶךְ – טְמֵאָה מִשּׁוּם אֶרֶץ הָעַמִּים, וּפְטוּרָה מִן הַמַּעֲשֵׂר וּמִן הַשְּׁבִיעִית, עַד שֶׁיִּוָּדַע לָךְ שֶׁהִיא חַיֶּיבֶת.
+*Translation:* § The mishna teaches that **Rabbi Yehuda says: From Rekem and eastward** is considered to be a country overseas, from Akko and northward is also outside of Eretz Yisrael, and Akko itself is like north of Eretz Yisrael. The Gemara asks: **Is this to say that Akko is located to** the **north of Eretz Yisrael? And** the Gemara **raises a contradiction** from a *baraita* (*Tosefta*, *Oholot* 18:14) that indicates that Akko is not on the northern border of Eretz Yisrael: If one **was traveling from Akko to Keziv,** the area **on his right, to the east of the road,** is **impure due to** the impurity of **the land of the nations, and** that area **is exempt from the** obligation to separate **tithe** from its produce **and from** the mitzvot of **the Sabbatical** Year, as it is assumed to be outside of Eretz Yisrael, **until** he arrives at a place **where it is known to you that it is obligated.**
+
+**3.**
+*Hebrew/Aramaic:* מִשְּׂמֹאלוֹ – לְמַעֲרַב הַדֶּרֶךְ – טְהוֹרָה מִשּׁוּם אֶרֶץ הָעַמִּים, וְחַיֶּיבֶת בְּמַעֲשֵׂר וּבִשְׁבִיעִית, עַד שֶׁיִּוָּדַע לָךְ שֶׁהִיא פְּטוּרָה. עַד הֵיכָן? עַד כְּזִיב. רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי אוֹמֵר מִשּׁוּם אָבִיו: עַד לַבְלָבוֹ.
+*Translation:* The *baraita* continues: Conversely, the territory **on his left, to the west of the road,** is **pure with regard to** the impurity of **the land of the nations,** as it is assumed to be within Eretz Yisrael, **and obligated in the** mitzva to separate **tithe** from its produce **and in** the mitzvot of **the Sabbatical** Year, **until** he arrives at a place **where it is known to you that it is exempt. Until where** does this *halakha* apply? **Until Keziv. Rabbi Yishmael, son of Rabbi Yosei, said in the name of his father: Until** the place known as **Lavlevu.** In any case, this indicates that Akko is not considered the northern border of Eretz Yisrael, as the description in the *baraita* indicates that Keziv is further north than Akko.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: רְצוּעָה נָפְקָא. וְיָהֵיב תַּנָּא סִימָנָא הָכִי?! אִין; קְרָא נָמֵי יָהֵיב סִימָנָא, דִּכְתִיב: ״וַיֹּאמְרוּ הִנֵּה חַג ה׳ בְּשִׁילוֹ מִיָּמִים יָמִימָה אֲשֶׁר מִצְּפוֹנָה לְבֵית אֵל, מִזְרְחָה הַשֶּׁמֶשׁ לִמְסִלָּה הָעוֹלָה מִבֵּית אֵל שְׁכֶמָה, וּמִנֶּגֶב לִלְבוֹנָה״, וְאָמַר רַב פָּפָּא: לְמִזְרָחָהּ שֶׁל מְסִלָּה.
+*Translation:* **Abaye said: A strip extends** northward from Akko, which is still considered part of Eretz Yisrael, but the general border is at the latitude of Akko. The Gemara asks: **But** would the ***tanna*** of the *baraita* **provide a sign** in **this** manner for an area of a strip of land? The Gemara answers: **Yes,** and **a verse also provides a sign** in this manner, **as it is written: “And they said: Behold, there is the feast of the Lord from year to year in Shiloh, which is on the north of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah”** (Judges 21:19). **And Rav Pappa said:** The expression: “On the east side,” should be understood as meaning **to the east of the highway.** This verse demonstrates that an area as narrow as a road can be used as a sign.
+
+**5.**
+*Hebrew/Aramaic:* תָּנָא חֲדָא: הַמֵּבִיא גֵּט בִּסְפִינָה – כְּמֵבִיא בְּאֶרֶץ יִשְׂרָאֵל, וְתַנְיָא אִידַּךְ – כְּמֵבִיא בְּחוּצָה לָאָרֶץ!
+*Translation:* § The Gemara presents a contradiction between two *baraitot*. **It was taught** in **one** *baraita*: **One who brings a bill of divorce** that was written **on a boat** in Eretz Yisrael is considered to be **like one who brings** it **in Eretz Yisrael,** and therefore he is not required to say: It was written in my presence and it was signed in my presence. **And it is taught** in **another** *baraita* (*Tosefta* 1:1) that one who brings a bill of divorce written on a boat in Eretz Yisrael is **like one who brings** a bill of divorce **outside of Eretz** Yisrael.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: לָא קַשְׁיָא, הָא רַבִּי יְהוּדָה הָא רַבָּנַן. דִּתְנַן: עֲפַר חוּצָה לָאָרֶץ הַבָּא בִּסְפִינָה לָאָרֶץ – חַיָּיב בְּמַעֲשֵׂר וּבִשְׁבִיעִית.
+*Translation:* **Rabbi Yirmeya says:** This is **not difficult,** as one can say that **this** *baraita* is in accordance with the opinion of **Rabbi Yehuda,** and **that** *baraita* is in accordance with the opinion of **the Rabbis. As we learned** in a mishna (*Ḥalla* 2:2): With regard to **soil from outside of Eretz** Yisrael **that is brought on a boat to Eretz** Yisrael, anything that grew in that soil **is obligated in tithe and in** the mitzvot of **the Sabbatical** Year. According to this opinion, soil is considered part of Eretz Yisrael once it arrives there, which means that the plants growing in it are considered to be in Eretz Yisrael.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יְהוּדָה: אֵימָתַי? בִּזְמַן שֶׁהַסְּפִינָה גּוֹשֶׁשֶׁת, אֲבָל אֵין הַסְּפִינָה גּוֹשֶׁשֶׁת – פָּטוּר.
+*Translation:* **Rabbi Yehuda said: When** did the Sages say this ruling? **When the boat is skimming [*gosheshet*]** the sea floor, as it is weighed down in the water. **However,** when **the boat is not skimming** the sea floor, the soil is **exempt.** The Sage who maintains that the boat is considered to be like Eretz Yisrael with regard to a bill of divorce holds in accordance with the Rabbis of this mishna, and the one who maintains that the boat is not like Eretz Yisrael for the purposes of a bill of divorce holds in accordance with the opinion of Rabbi Yehuda.
+
+**8.**
+*Hebrew/Aramaic:* אַבָּיֵי אָמַר: הָא וְהָא רַבִּי יְהוּדָה הִיא, וְלָא קַשְׁיָא: כָּאן בִּזְמַן שֶׁאֵין הַסְּפִינָה גּוֹשֶׁשֶׁת, כָּאן בִּזְמַן שֶׁהַסְּפִינָה גּוֹשֶׁשֶׁת.
+*Translation:* **Abaye said:** It is possible to say that both **this** *baraita* **and that** *baraita* are in accordance with the opinion of **Rabbi Yehuda, and** it is **not difficult: Here,** the *baraita* where the soil is considered outside of Eretz Yisrael, deals with a situation **when the boat is not skimming** the sea floor; and **there,** in the *baraita* that states that the soil is considered to be like Eretz Yisrael, it is referring to a case **when the boat is skimming** the sea floor.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא: עָצִיץ נָקוּב הַמּוּנָּח עַל גַּבֵּי יְתֵדוֹת, בָּאנוּ לְמַחְלוֹקֶת רַבִּי יְהוּדָה וְרַבָּנַן.
+*Translation:* **Rabbi Zeira says:** In the case of **a perforated pot that is resting on pegs,** if something grew in it, **we have arrived at the dispute** of **Rabbi Yehuda and the Rabbis** concerning the soil on the boat. Just as the Rabbis maintain that the soil is considered attached to Eretz Yisrael even if the boat does not actually touch the sea floor, the same applies to a perforated flowerpot on pegs, whereas Rabbi Yehuda holds that in both cases the soil must actually be in contact with the earth for it to be considered part of Eretz Yisrael.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רָבָא: דִּילְמָא לָא הִיא – עַד כָּאן לָא קָאָמַר רַבִּי יְהוּדָה הָתָם אֶלָּא בִּסְפִינָה,
+*Translation:* **Rava said,** in rejection of this claim: **Perhaps** that **is not so,** as **Rabbi Yehuda says** his opinion **only there, with regard to a boat,**

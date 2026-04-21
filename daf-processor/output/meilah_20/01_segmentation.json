@@ -1,153 +1,275 @@
 {
   "masechta": "Meilah",
   "daf": 20,
-  "amud": "b",
+  "amud": "a",
   "macro_segments": [
     {
-      "title": "The Act of Stealing (Appropriation) as a Form of Me'ilah: Taking a Stone or Beam from Hekdesh",
-      "display_title": "Stealing & Appropriation",
-      "timestamp": "00:58",
+      "title": "Introduction to the Mishnah on Me'ilah of Appropriation (Natalt Even O Karah)",
+      "display_title": "Appropriation & Stealing",
+      "timestamp": "00:21",
       "micro_segments": [
         {
-          "title": "Introduction to the Mishnah: Taking a Stone or Beam and the Requirement to Give It Away",
+          "title": "Opening remarks on the Mishnah: Taking a stone or beam from Hekdesh",
           "display_title": "Taking Stone/Beam",
-          "timestamp": "00:58"
+          "timestamp": "00:21"
+        },
+        {
+          "title": "The act of taking is not Me'ilah until transferred to another person",
+          "display_title": "Natalt Even - Transfer",
+          "timestamp": "01:04"
+        },
+        {
+          "title": "Conceptual framework: stealing versus benefit (Hana'ah) in Me'ilah",
+          "display_title": "Stealing vs. Benefit",
+          "timestamp": "02:55"
         }
       ]
     },
     {
-      "title": "Combining Forms of Me'ilah: Eating, Benefit, and Recipient Benefit Over Time",
+      "title": "Case of Building into One's House (Uvenaso Betoch Beiso)",
+      "display_title": "Built into House",
+      "timestamp": "04:26",
+      "micro_segments": [
+        {
+          "title": "Building into one's house requires deriving a prutah of benefit to constitute Me'ilah",
+          "display_title": "Benefit Requirement",
+          "timestamp": "04:26"
+        },
+        {
+          "title": "Apparent contradiction: why isn't building itself an act of taking?",
+          "display_title": "Building & Taking",
+          "timestamp": "05:01"
+        }
+      ]
+    },
+    {
+      "title": "Case of Giving to the Bathhouse Attendant (Netanu L'balan)",
+      "display_title": "Bathhouse Transaction",
+      "timestamp": "05:15",
+      "micro_segments": [
+        {
+          "title": "Giving money to bathhouse attendant constitutes Me'ilah once entry rights are granted",
+          "display_title": "Entry Rights = Me'ilah",
+          "timestamp": "05:15"
+        },
+        {
+          "title": "Why the transaction must be complete for Me'ilah to take effect",
+          "display_title": "Transaction Complete",
+          "timestamp": "05:34"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah on Combining Benefit (Achilato v'Achilas Chaveiro)",
       "display_title": "Combining Benefits",
       "timestamp": "09:14",
       "micro_segments": [
         {
-          "title": "The Mishnah on Combining One's Eating with Friend's Eating and Various Benefit Forms",
-          "display_title": "Eating/Benefit Forms",
+          "title": "Different forms of Hana'ah combine: one's own eating/benefit and recipient's eating/benefit",
+          "display_title": "Hana'ah Combination",
           "timestamp": "09:14"
         },
         {
-          "title": "Conceptual Question: Is Stealing a Distinct Form or Subsumed Under Benefit (Hana'ah)?",
-          "display_title": "Stealing vs. Benefit",
-          "timestamp": "10:25"
+          "title": "Connection to taking/stealing as form of Me'ilah through benefiting others",
+          "display_title": "Stealing as Hana'ah",
+          "timestamp": "10:14"
         }
       ]
     },
     {
-      "title": "The Act of Stealing (Appropriation) as a Form of Me'ilah: Taking a Stone or Beam from Hekdesh (continued)",
-      "display_title": "Stealing & Appropriati…",
-      "timestamp": "12:07",
+      "title": "Gemara on Taking as Me'ilah: The Temple Treasurer (Begizbar)",
+      "display_title": "Treasurer Theory",
+      "timestamp": "11:51",
       "micro_segments": [
         {
-          "title": "Why Taking Itself Is Not Me'ilah: The Case of the Temple Treasurer with Rights to Handle Property",
-          "display_title": "Treasurer's Rights",
-          "timestamp": "12:07"
+          "title": "Shmuel's explanation: the treasurer who has handling rights doesn't commit Me'ilah until giving to another",
+          "display_title": "Shmuel: Rights to Handle",
+          "timestamp": "11:51"
         },
         {
-          "title": "Building Into One's House Without Completion: The Sunroof Case and Requirement for Benefit",
-          "display_title": "House/Sunroof Case",
+          "title": "How sanctified objects in one's home present a similar but harder case",
+          "display_title": "Sanctified in Home",
+          "timestamp": "12:25"
+        }
+      ]
+    },
+    {
+      "title": "Gemara on Building: Placing on Sunroof vs. Permanently Affixing",
+      "display_title": "Sunroof Placement",
+      "timestamp": "13:40",
+      "micro_segments": [
+        {
+          "title": "Rav's position: placing on sunroof (aruba) is not permanent taking until benefit is derived",
+          "display_title": "Aruba = Using, Not Taking",
           "timestamp": "13:40"
         },
         {
-          "title": "Giving to the Bathhouse Attendant: Transaction Completion and Rights of Possession",
-          "display_title": "Bathhouse Attendant",
-          "timestamp": "15:19"
+          "title": "Distinction between changed/built (deshni/debanah) and merely placed",
+          "display_title": "Changed vs. Placed",
+          "timestamp": "14:03"
         }
       ]
     },
     {
-      "title": "Status of Built-In Objects: Mechubar LeKarka, Metaltelim, and Visible Benefit (Hana'ah Hanira LeEinayim)",
-      "display_title": "Mechubar Status",
-      "timestamp": "17:16",
+      "title": "Gemara Digression: Is a House Mechubar L'karka (Attached to Ground)?",
+      "display_title": "House Attachment Status",
+      "timestamp": "17:15",
       "micro_segments": [
         {
-          "title": "The Question: Why Is There Me'ilah for Something Built Into a House When It Should Be Mechubar LeKarka?",
-          "display_title": "Mechubar Question",
-          "timestamp": "17:16"
+          "title": "Introduction to Rav's ruling on worship of a house and its Mechubar status",
+          "display_title": "Worship of House",
+          "timestamp": "17:15"
         },
         {
-          "title": "Rav's Answer: Visible Benefit (Hanira LeEinayim) Overrides Mechubar LeKarka Status",
-          "display_title": "Visible Benefit",
-          "timestamp": "19:51"
+          "title": "Rav Acha: Hana'ah that is visibly apparent (Hana'ah Hanira L'einayim) remains Me'ilah despite Mechubar",
+          "display_title": "Visible Benefit Exception",
+          "timestamp": "19:46"
         },
         {
-          "title": "Reish Lakish: Sanctification Before Construction Preserves Me'ilah Eligibility of Metaltelim",
-          "display_title": "Sanctification Status",
-          "timestamp": "22:28"
+          "title": "Reish Lakish: material sanctified before being built maintains Me'ilah status",
+          "display_title": "Sanctified Before Buildi…",
+          "timestamp": "22:27"
         },
         {
-          "title": "The Cave Case: Why a Fully Mechubar Cave Demonstrates Complete Absence of Me'ilah",
-          "display_title": "Cave Case",
-          "timestamp": "23:36"
+          "title": "Cave example: clearly Mechubar, so no Me'ilah—distinguishes stone house cases",
+          "display_title": "Cave Example",
+          "timestamp": "23:29"
         }
       ]
     },
     {
-      "title": "Shliach (Agent): When a Messenger's Actions Constitute the Sender's Me'ilah Versus the Messenger's Own",
-      "display_title": "Shliach (Agent)",
+      "title": "Mishnah on Shaliach (Agent) and Meila: Whose Sin Is It?",
+      "display_title": "Agent's Responsibility",
       "timestamp": "24:16",
       "micro_segments": [
         {
-          "title": "Introduction to Shliach: The Mishnah on When the Sender or Messenger Commits Me'ilah",
-          "display_title": "Shliach Intro",
+          "title": "Shaliach performing agency on behalf of ba'al habayis: ba'al habayis is me'ul",
+          "display_title": "Shaliach Obeys Orders",
           "timestamp": "24:16"
-        },
-        {
-          "title": "The Case of Giving Meat to Guests: Exceeding Instructions (Liver Instead of Meat)",
-          "display_title": "Liver/Meat Case",
-          "timestamp": "24:30"
-        },
-        {
-          "title": "Gemara Question: What Constitutes Violating Shlichus—Does the Messenger Have to Ask About Grey-Zone Items?",
-          "display_title": "Violating Shlichus",
-          "timestamp": "24:30"
-        },
-        {
-          "title": "Abaye's Distinction: Shlichus Requires Asking About Questionable Items; Categorization (Like Vegetables vs. Gourds) Is Different",
-          "display_title": "Abaye Distinction",
-          "timestamp": "24:55"
         }
       ]
     },
     {
-      "title": "Digression: The Vow About Meat and the Debate Between Rabbi Akiva and Rabban Shimon ben Gamliel on Category Boundaries",
-      "display_title": "Rabbi Akiva Debate",
-      "timestamp": "25:23",
+      "title": "Mishnah on Shaliach (Agent) and Meila: Whose Sin Is It? (continued)",
+      "display_title": "Agent's Responsibility…",
+      "timestamp": "24:30",
       "micro_segments": [
         {
-          "title": "The Vow Case: What Counts as 'Meat'?—Inner Organs, Birds, Fish According to Category or Grey Zone",
-          "display_title": "Vow/Meat Category",
-          "timestamp": "25:23"
+          "title": "Shaliach violating the terms of shlichus: shaliach alone is me'ul",
+          "display_title": "Shaliach Violates Terms",
+          "timestamp": "24:30"
         },
         {
-          "title": "Rabbi Akiva vs. Rabban Shimon ben Gamliel: Where to Draw Lines in Fuzzy Categories",
-          "display_title": "Category Boundaries",
+          "title": "Example: giving meat to guests—if shaliach gives liver instead, he is me'ul",
+          "display_title": "Meat vs. Liver Example",
+          "timestamp": "24:30"
+        },
+        {
+          "title": "Triple appropriation case: ba'al habayis (one piece), shaliach (second), guests (third)",
+          "display_title": "Three-Way Appropriation",
+          "timestamp": "24:30"
+        }
+      ]
+    },
+    {
+      "title": "Gemara on Shaliach: Asking About Grey-Zone Items (Mimlach Alei Shliach)",
+      "display_title": "What Shaliach Must Ask A…",
+      "timestamp": "24:30",
+      "micro_segments": [
+        {
+          "title": "Which Tanna holds that shaliach must ask about items in grey zone between categories?",
+          "display_title": "Tanna on Asking",
+          "timestamp": "24:30"
+        },
+        {
+          "title": "Rav Chisda: not like Rabbi Akiva; shaliach must ask when item needs clarification",
+          "display_title": "Rav Chisda Position",
+          "timestamp": "24:30"
+        },
+        {
+          "title": "Abaye: even Rabbi Akiva agrees shaliach must ask about grey-zone items",
+          "display_title": "Abaye's Reconciliation",
+          "timestamp": "24:30"
+        },
+        {
+          "title": "Rava approves Abaye's distinction between nedarim categorization and shlichus bounds",
+          "display_title": "Rava Approves",
+          "timestamp": "24:56"
+        }
+      ]
+    },
+    {
+      "title": "Digression: Rabbi Akiva vs. Rabban Shimon ben Gamliel on Gourd/Vegetables and Meat Categories",
+      "display_title": "Akiva vs. Rabban Shimon",
+      "timestamp": "25:22",
+      "micro_segments": [
+        {
+          "title": "Baraita: vow forbidding vegetables—Rabbi Akiva permits gourds; Chachamim forbid",
+          "display_title": "Gourd Vow Case",
+          "timestamp": "25:22"
+        },
+        {
+          "title": "Baraita: vow forbidding meat—Rabban Shimon ben Gamliel excludes inner organs, birds, fish",
+          "display_title": "Meat Vow Case",
           "timestamp": "25:34"
+        }
+      ]
+    },
+    {
+      "title": "Digression: Rabbi Akiva vs. Rabban Shimon ben Gamliel on Gourd/Vegetables and Meat Categories (continued)",
+      "display_title": "Akiva vs. Rabban Shimo…",
+      "timestamp": "25:54",
+      "micro_segments": [
+        {
+          "title": "Gemara: why are gourds and birds/organs treated differently if both require asking?",
+          "display_title": "Why Different Treatment",
+          "timestamp": "25:54"
         },
         {
-          "title": "Gemara's Question: Why Exclude Birds but Not Fish? The Day of Bloodletting and Eye Pain",
-          "display_title": "Fish vs. Birds",
+          "title": "Rav Pappa: day of bloodletting context—people eat only serious red meat, not fish",
+          "display_title": "Bloodletting Context",
+          "timestamp": "25:54"
+        },
+        {
+          "title": "Counter-example and Baraita on permitted foods after bloodletting",
+          "display_title": "Permitted Foods",
+          "timestamp": "25:54"
+        },
+        {
+          "title": "Rav Pappa revised: day when eyes hurt—people avoid fish but eat meat and fowl",
+          "display_title": "Eye Pain Context",
           "timestamp": "25:54"
         }
       ]
     },
     {
-      "title": "Exceeding Instructions: When a Messenger Gives More Than Requested (Two Pieces Instead of One)",
+      "title": "Gemara on Shaliach Exceeding Instructions: Does Shlichus Remain Valid for First Item?",
       "display_title": "Exceeding Instructions",
-      "timestamp": "26:06",
+      "timestamp": "25:54",
       "micro_segments": [
         {
-          "title": "The Case: You Say Give One Piece Each, the Messenger Says Two, and the Guests Take Three—All Commit Me'ilah",
-          "display_title": "Three-Party Case",
-          "timestamp": "26:06"
+          "title": "Case: ba'al habayis says give one piece each, shaliach gives two, guests take three",
+          "display_title": "One, Two, Three Pieces",
+          "timestamp": "25:54"
         },
         {
-          "title": "Question: Does Exceeding Instructions Void the Shlichus Entirely, or Remain Valid for the Requested Portion?",
-          "display_title": "Void vs. Partial",
-          "timestamp": "26:06"
+          "title": "Question: does shaliach remain agent for the first piece when he exceeds orders?",
+          "display_title": "Remains Agent?",
+          "timestamp": "25:54"
         },
         {
-          "title": "Rav Sheshes: The Messenger Explicitly Distinguishes (One for You, One for Me) to Preserve the Sender's Shlichus",
-          "display_title": "Messenger Distinction",
+          "title": "Rav Sheshes: shaliach explicitly designates which item is for ba'al habayis, which for himself",
+          "display_title": "Explicit Designation",
+          "timestamp": "26:08"
+        },
+        {
+          "title": "Gemara: special case that shlichus remains valid when shaliach makes clear distinction",
+          "display_title": "Shlichus Survives",
+          "timestamp": "26:08"
+        },
+        {
+          "title": "Conclusion: adding beyond order does not automatically void the original agency",
+          "display_title": "Addition Allowed",
           "timestamp": "26:08"
         }
       ]
@@ -155,273 +277,312 @@
   ],
   "topical_tags": [
     {
-      "term": "Me'ilah (Appropriation/Benefit)",
+      "term": "Me'ilah (Appropriation/Benefit from Hekdesh)",
       "timestamps": [
-        "00:58",
-        "01:21",
-        "02:06",
+        "00:03",
+        "00:14",
+        "00:28",
+        "01:01",
+        "01:12",
+        "02:03",
+        "02:17",
         "03:22",
         "04:11",
-        "05:01",
+        "04:53",
+        "05:03",
         "06:44",
-        "09:14",
-        "10:51",
-        "12:07",
+        "08:12",
+        "09:12",
+        "10:05",
+        "11:51",
         "13:40",
-        "14:03",
-        "17:16",
-        "19:51",
-        "22:53",
-        "24:16",
-        "26:08"
-      ]
-    },
-    {
-      "term": "Stealing (Appropriation/Taking Possession)",
-      "timestamps": [
-        "01:01",
-        "01:21",
-        "01:29",
-        "02:06",
-        "03:37",
-        "12:07",
-        "13:15",
-        "14:48",
-        "16:33",
-        "16:41"
-      ]
-    },
-    {
-      "term": "Hekdesh (Temple/Consecrated Property)",
-      "timestamps": [
-        "01:08",
-        "01:29",
-        "01:45",
-        "02:03",
-        "02:20",
-        "03:01",
-        "03:20",
-        "05:33",
-        "06:33",
-        "07:47",
-        "08:50",
-        "10:42",
-        "13:02",
-        "15:16",
-        "17:15",
-        "18:16"
-      ]
-    },
-    {
-      "term": "Kedusha (Sanctity/Sacred Status)",
-      "timestamps": [
-        "00:45",
-        "00:48",
-        "00:51",
-        "08:47",
-        "23:48"
-      ]
-    },
-    {
-      "term": "Natalt Even O Karah (Taking a Stone or Beam)",
-      "timestamps": [
-        "01:05",
-        "01:08",
-        "01:21"
-      ]
-    },
-    {
-      "term": "Nesano Lechavero (Giving to a Friend)",
-      "timestamps": [
-        "01:12",
-        "01:17",
-        "01:19",
-        "03:22",
-        "06:47",
-        "10:29",
-        "20:24"
-      ]
-    },
-    {
-      "term": "Benao Betoch Beiso (Building Into One's House)",
-      "timestamps": [
-        "04:26",
-        "05:30",
-        "13:40",
-        "14:00",
-        "15:01",
-        "17:15",
-        "18:08",
-        "19:34"
+        "18:54",
+        "19:43",
+        "24:06",
+        "24:16"
       ]
     },
     {
       "term": "Hana'ah (Benefit/Enjoyment)",
       "timestamps": [
-        "04:31",
-        "04:52",
-        "05:01",
-        "09:14",
-        "10:34",
-        "14:13",
-        "14:58",
-        "15:22",
-        "15:48",
-        "20:42",
-        "20:45",
-        "20:52",
-        "21:03",
-        "21:41",
-        "22:52"
-      ]
-    },
-    {
-      "term": "Prutah (Small Coin/Minimum Value)",
-      "timestamps": [
+        "03:56",
+        "04:09",
         "04:30",
-        "04:31",
-        "04:35",
-        "09:43",
-        "10:34",
-        "10:37"
+        "09:14",
+        "10:14",
+        "15:18",
+        "20:40",
+        "21:03"
       ]
     },
     {
-      "term": "Nasnu L'Balan (Giving to Bathhouse Attendant)",
+      "term": "Stealing vs. Benefit distinction in Me'ilah",
       "timestamps": [
-        "05:19",
-        "05:22",
-        "06:16"
+        "02:55",
+        "03:36",
+        "13:15",
+        "16:22"
       ]
     },
     {
-      "term": "Ain Me'ilah Achar Me'ilah (No Double Me'ilah)",
+      "term": "Natalt Even O Karah (Taking stone or beam)",
+      "timestamps": [
+        "01:04",
+        "01:21"
+      ]
+    },
+    {
+      "term": "Uvenaso Betoch Beiso (Building into house)",
+      "timestamps": [
+        "04:26",
+        "04:39",
+        "13:40"
+      ]
+    },
+    {
+      "term": "Netanu L'balan (Given to bathhouse attendant)",
+      "timestamps": [
+        "05:15",
+        "05:34"
+      ]
+    },
+    {
+      "term": "Ain Me'ilah Achar Me'ilah (No Me'ilah after Me'ilah)",
       "timestamps": [
         "02:28",
-        "08:42"
+        "02:31"
       ]
     },
     {
-      "term": "Mechubar LeKarka (Attached to Ground)",
+      "term": "Gizbar/Treasurer (Temple official with handling rights)",
       "timestamps": [
-        "18:00",
-        "18:04",
-        "18:20",
-        "19:20",
-        "19:39",
-        "20:05",
-        "22:27",
-        "23:40"
+        "12:07",
+        "12:19",
+        "15:26"
       ]
     },
     {
-      "term": "Metaltelim (Chattel/Moveable Property)",
+      "term": "Kedushas HaGuf (Intrinsic holiness)",
+      "timestamps": [
+        "00:51"
+      ]
+    },
+    {
+      "term": "Mechubar L'karka (Attached to ground)",
+      "timestamps": [
+        "18:54",
+        "19:08",
+        "19:20",
+        "20:36",
+        "20:41"
+      ]
+    },
+    {
+      "term": "Metaltelin (Chattel/moveable property)",
       "timestamps": [
         "18:00",
         "18:04",
         "18:18",
-        "18:45",
         "19:04",
         "22:45",
-        "22:53"
+        "22:49"
       ]
     },
     {
-      "term": "Hana'ah Hanira LeEinayim (Visible/Obvious Benefit)",
+      "term": "Hana'ah Hanira L'einayim (Visibly apparent benefit)",
       "timestamps": [
-        "19:50",
-        "20:09",
-        "20:52",
-        "20:57",
-        "21:03",
-        "21:40"
+        "19:46",
+        "19:51",
+        "21:00",
+        "21:06"
       ]
     },
     {
-      "term": "Shliach (Agent/Messenger)",
+      "term": "Shlichus/Shaliach (Agency/Agent)",
       "timestamps": [
         "24:16",
         "24:30",
-        "25:18",
-        "26:06",
-        "26:08"
+        "24:44",
+        "25:07",
+        "25:17",
+        "25:36"
       ]
     },
     {
-      "term": "Shlichut (Agency)",
-      "timestamps": [
-        "24:16",
-        "24:30",
-        "25:18",
-        "26:06",
-        "26:08"
-      ]
-    },
-    {
-      "term": "Ba'al HaBayit (Homeowner/Sender)",
-      "timestamps": [
-        "24:16",
-        "24:30",
-        "26:06",
-        "26:08"
-      ]
-    },
-    {
-      "term": "Liver vs. Meat (Grey Zone Category)",
+      "term": "Mimlach Alei Shliach (Items shaliach must ask about)",
       "timestamps": [
         "24:30",
-        "25:23"
+        "24:35",
+        "25:53"
       ]
     },
     {
-      "term": "Rabbi Akiva",
+      "term": "Rabbi Akiva vs. Rabban Shimon ben Gamliel",
       "timestamps": [
-        "25:23",
+        "25:22",
+        "25:32",
+        "25:40"
+      ]
+    },
+    {
+      "term": "Gourds (Diluin) and vegetables vow",
+      "timestamps": [
+        "25:22",
+        "25:28"
+      ]
+    },
+    {
+      "term": "Inner organs, birds, fish in meat vow",
+      "timestamps": [
         "25:34",
+        "25:39"
+      ]
+    },
+    {
+      "term": "Bloodletting (Misuchar) context for meat",
+      "timestamps": [
         "25:54"
       ]
     },
     {
-      "term": "Rabban Shimon ben Gamliel",
+      "term": "Eye pain context for dietary choices",
       "timestamps": [
-        "25:34",
         "25:54"
       ]
     },
     {
-      "term": "Vegetables vs. Gourds (Category Boundary)",
+      "term": "Ba'al Habayis (Homeowner/sender)",
       "timestamps": [
-        "25:23",
-        "25:34"
+        "24:16",
+        "24:30",
+        "26:08"
       ]
     },
     {
-      "term": "Gizbar HaMesurot (Temple Treasurer)",
+      "term": "Violating Shlichus terms (Lo Asa Shlichuso)",
       "timestamps": [
-        "12:07",
-        "12:19",
-        "13:02",
-        "15:28"
+        "24:30"
       ]
     },
     {
-      "term": "Kedushas HaGuf (Intrinsic Sanctity)",
+      "term": "Liver vs. Meat (Kaved vs. Basar)",
       "timestamps": [
-        "00:51",
-        "00:53"
+        "24:21",
+        "24:30",
+        "25:40"
       ]
     },
     {
-      "term": "Kli Shareis (Temple Vessels)",
+      "term": "Aruba (Sunroof/opening in roof)",
       "timestamps": [
-        "00:54",
+        "14:56",
+        "15:03"
+      ]
+    },
+    {
+      "term": "Deshni/Debanah (Changed/Built permanently)",
+      "timestamps": [
+        "14:03",
+        "14:16",
+        "14:44"
+      ]
+    },
+    {
+      "term": "Sanctifying objects when already in house",
+      "timestamps": [
+        "01:45",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Kedusha (Holiness) removed by Me'ilah",
+      "timestamps": [
+        "00:45",
+        "07:43",
+        "08:47"
+      ]
+    },
+    {
+      "term": "Prutah (Smallest monetary unit for Me'ilah calculation)",
+      "timestamps": [
+        "04:30",
+        "04:35",
+        "10:34"
+      ]
+    },
+    {
+      "term": "Pikadon (Deposit/trusteeship analogy)",
+      "timestamps": [
+        "03:00"
+      ]
+    },
+    {
+      "term": "Sholeiach Yad (Placing hand/taking possession)",
+      "timestamps": [
+        "02:56",
+        "03:04"
+      ]
+    },
+    {
+      "term": "Korban (Offering)",
+      "timestamps": [
+        "00:56",
+        "24:17"
+      ]
+    },
+    {
+      "term": "Kli Shareis (Temple service vessels)",
+      "timestamps": [
         "00:56"
       ]
     },
     {
-      "term": "Ma'aseh Kinyan (Act of Acquisition)",
+      "term": "Kodshei Kodashim (Most holy offerings)",
+      "timestamps": [
+        "24:17",
+        "24:18"
+      ]
+    },
+    {
+      "term": "Olah (Burnt offering)",
+      "timestamps": [
+        "24:18"
+      ]
+    },
+    {
+      "term": "Shelamim (Peace offering)",
+      "timestamps": [
+        "24:20"
+      ]
+    },
+    {
+      "term": "Yitziyu V'Yotzei (Removed/taken out)",
+      "timestamps": [
+        "24:20"
+      ]
+    },
+    {
+      "term": "Shogeg (Unintentional transgression)",
+      "timestamps": [
+        "24:20"
+      ]
+    },
+    {
+      "term": "Amedot (Pillars/columns building materials)",
+      "timestamps": [
+        "01:05"
+      ]
+    },
+    {
+      "term": "Rav vs. Rambam on building status",
       "timestamps": [
         "24:07"
+      ]
+    },
+    {
+      "term": "Hadar Babayis (Living in a house)",
+      "timestamps": [
+        "22:09"
       ]
     }
   ]

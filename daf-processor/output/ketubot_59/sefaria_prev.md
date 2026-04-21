@@ -1,0 +1,65 @@
+### Ketubot 58b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא לְרַב שְׁמוּאֵל בַּר יְהוּדָה, קַמַּיְיתָא מִשּׁוּם סִימְפּוֹן וּבָתְרָיְיתָא מִשּׁוּם סִימְפּוֹן, מַאי בֵּינַיְיהוּ?
+*Translation:* **However,** according **to Rav Shmuel bar Yehuda, the first** ruling was **due to abrogation and the latter** ruling was also **due to abrogation.** If so, **what is** the difference **between** the reasoning of the initial version of the mishna and the decision of the court that convened after them?
+
+**2.**
+*Hebrew/Aramaic:* אִיכָּא בֵּינַיְיהוּ בְּדִיקַת חוּץ. מָר סָבַר: בְּדִיקַת חוּץ — שְׁמָהּ בְּדִיקָה. וּמָר סָבַר: בְּדִיקַת חוּץ — לֹא שְׁמָהּ בְּדִיקָה.
+*Translation:* The Gemara answers: The practical difference **between them is** with regard to **superficial investigation,** i.e., the investigation that could have been conducted on his behalf by his female relatives, which could have been only a superficial investigation. One **Sage holds** that **superficial investigation is considered** a valid **investigation,** and therefore once he requested to marry her and the marriage date arrived, there is no concern of a later abrogation, **and** one **Sage holds** that **superficial investigation is not considered** a valid **investigation,** and consequently there is still concern that when he consummates the marriage he will find some blemish on her and abrogate the marriage.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמַּקְדִּישׁ מַעֲשֵׂה יְדֵי אִשְׁתּוֹ — הֲרֵי זוֹ עוֹשָׂה וְאוֹכֶלֶת. הַמּוֹתָר, רַבִּי מֵאִיר אוֹמֵר: הֶקְדֵּשׁ, רַבִּי יוֹחָנָן הַסַּנְדְּלָר אוֹמֵר: חוּלִּין.
+*Translation:* MISHNA: **If one consecrates his wife’s earnings,** meaning anything she produces, such as thread that she spins from wool, which, according to the Sages’ ordinance, belongs to her husband, **she may work and sustain** herself from her earnings, as the consecration is ineffective. However, there is a dispute with regard to **the surplus,** meaning any earnings she produces in excess of the amount she is required to produce for her husband. **Rabbi Meir says:** The surplus is **consecrated** property, and **Rabbi Yoḥanan the Cobbler says:** The surplus is also **non-sacred.**
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב הוּנָא אָמַר רַב: יְכוֹלָה אִשָּׁה לוֹמַר לְבַעְלָהּ ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״. קָסָבַר: כִּי תַּקִּינוּ רַבָּנַן מְזוֹנֵי — עִיקָּר, וּמַעֲשֵׂה יָדֶיהָ מִשּׁוּם אֵיבָה. וְכִי אָמְרָה ״אֵינִי נִיזּוֹנֶת וְאֵינִי עוֹשָׂה״ — הָרְשׁוּת בְּיָדָהּ.
+*Translation:* GEMARA: **Rav Huna said** that **Rav said: A woman may say to her husband: I will not be sustained** by you and, in turn, **I will not work,** i.e., you will not keep my earnings. **He holds** that **when the Sages instituted** the various obligations and rights of a husband and wife, the husband’s obligation to provide for the wife’s **sustenance** was **the primary** one, **and** they then decreed that **her earnings** belong to him in return, **due to** concern about **animosity.** If he would be obligated to provide for her sustenance but she would be allowed to work and keep her earnings, he would resent her. Since her right to sustenance is the primary one, **if she says: I will not be sustained** by you and, in turn, **I will not work,** i.e., you will not keep my earnings, **she has permission to** do so. As the arrangement was established for her benefit, she may cancel it if it is not suitable for her.
+
+**5.**
+*Hebrew/Aramaic:* מֵיתִיבִי: תִּקְּנוּ מְזוֹנוֹת תַּחַת מַעֲשֵׂה יָדֶיהָ! אֵימָא: תִּקְּנוּ מַעֲשֵׂה יָדֶיהָ תַּחַת מְזוֹנוֹת.
+*Translation:* The Gemara **raises an objection** from a *baraita*: **They instituted** the husband’s responsibility for her **sustenance in exchange for** his right to **her earnings.** This indicates that the primary enactment is the husband’s right to his wife’s earnings, and the ordinance that requires him to provide her with sustenance comes as a result. According to this, the wife would not be allowed to waive the arrangement, contrary to Rav Huna’s statement. The Gemara responds: Emend the text of the *baraita* and **say** instead: **They instituted her earnings in exchange for** the husband’s responsibility for her **sustenance.**
+
+**6.**
+*Hebrew/Aramaic:* לֵימָא מְסַיַּיע לֵיהּ: הַמַּקְדִּישׁ מַעֲשֵׂה יְדֵי אִשְׁתּוֹ — הֲרֵי הִיא עוֹשָׂה וְאוֹכֶלֶת. מַאי לָאו, בְּנִיזּוֹנֶת? לָא, בְּשֶׁאֵינָהּ נִיזּוֹנֶת.
+*Translation:* The Gemara raises an objection: **Let us say that** the mishna **supports** Rav Huna’s opinion, as it is taught: **If one consecrates his wife’s earnings, she may work and sustain** herself from her earnings. **What, is it not** discussing a woman **who is sustained** by her husband, meaning that he is willing to sustain her, although she relinquishes her right to sustenance in accordance with Rav Huna’s principle? Therefore, her earnings do not belong to him to consecrate. The Gemara answers: **No,** it is discussing a woman **who is not sustained** by her husband, as he does not have sufficient funds to sustain her. Consequently, there is no proof with regard to Rav Huna’s statement.
+
+**7.**
+*Hebrew/Aramaic:* אִי בְּשֶׁאֵינָהּ נִיזּוֹנֶת, מַאי לְמֵימְרָא? אֲפִילּוּ לְמַאן דְּאָמַר יָכוֹל הָרַב לוֹמַר לָעֶבֶד ״עֲשֵׂה עִמִּי וְאֵינִי זָנָךְ״ — הָנֵי מִילֵּי בְּעֶבֶד כְּנַעֲנִי, דְּלָא כְּתִיב בֵּיהּ ״עִמָּךְ״, אֲבָל עֶבֶד עִבְרִי, דִּכְתִיב בֵּיהּ ״עִמָּךְ״ — לָא, וְכׇל שֶׁכֵּן אִשְׁתּוֹ!
+*Translation:* The Gemara asks: **If** it is discussing a woman **who is not sustained, what** is the purpose **of stating** that he may not consecrate her earnings? **Even according to the one who says** that **a master can say to** his **slave: Work for me** but **I will not sustain you, this applies** only to **a Canaanite slave, about whom it is not written: “With you.” But** with regard to **a Hebrew slave about whom it is written:** “It is good for him **with you”** (Deuteronomy 15:16), this does **not** apply, and the master must sustain him just as he sustains the members of his own household. **And** this is true **all the more so** with regard to **his wife,** as there is a specific obligation of sustenance. Consequently, if he does not do so, he certainly has no right to her earnings.
+
+**8.**
+*Hebrew/Aramaic:* סֵיפָא אִיצְטְרִיךְ לֵיהּ: מוֹתָר, רַבִּי מֵאִיר אוֹמֵר: הֶקְדֵּשׁ, רַבִּי יוֹחָנָן הַסַּנְדְּלָר אוֹמֵר: חוּלִּין.
+*Translation:* The Gemara answers: This *halakha* did not need to be stated, but **the latter clause was necessary,** as it contains a novelty with regard to **the surplus: Rabbi Meir says** that the surplus is **consecrated** property, and **Rabbi Yoḥanan the Cobbler says** it is **non-sacred.**
+
+**9.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּרֵישׁ לָקִישׁ. דְּאָמַר רֵישׁ לָקִישׁ: לָא תֵּימָא טַעְמָא דְּרַבִּי מֵאִיר מִשּׁוּם דְּקָסָבַר אָדָם מַקְדִּישׁ דָּבָר שֶׁלֹּא בָּא לָעוֹלָם. אֶלָּא טַעְמָא דְּרַבִּי מֵאִיר, מִתּוֹךְ שֶׁיָּכוֹל לְכוּפָּהּ לְמַעֲשֵׂה יָדֶיהָ — נַעֲשָׂה כְּאוֹמֵר לָהּ ״יִקְדְּשׁוּ יָדַיִךְ לְעוֹשֵׂיהֶם״.
+*Translation:* The Gemara comments: This opinion of Rav Huna **disputes** that **of Reish Lakish, as Reish Lakish said: Do not say** that **the reason for** the opinion of **Rabbi Meir** is that **since he maintains** that **a person may consecrate an object that has not** yet **come into the world,** the consecration can take effect even on her future earnings. **Rather,** say that **the reason for** the opinion of **Rabbi Meir** is that **since he can compel her** to produce **her earnings** for him, it is as if he had a certain legal claim to the products of her hands, i.e., her earnings. Consequently, **he is considered as if he had said to her: Your hands are consecrated to the One Who made them,** and the consecration can therefore take effect on something that already exists. Since Reish Lakish said that he may compel her to produce earnings for him, the implication is that she may not say: I will not be sustained and I will not work.
+
+**10.**
+*Hebrew/Aramaic:* וְהָא לָא אֲמַר לַהּ הָכִי! כֵּיוָן דְּשָׁמְעִינַן לֵיהּ לְרַבִּי מֵאִיר דְּאָמַר: אֵין אָדָם מוֹצִיא דְּבָרָיו לְבַטָּלָה — נַעֲשֶׂה כְּאוֹמֵר לָהּ ״יִקְדְּשׁוּ יָדַיִךְ לְעוֹשֵׂיהֶם״.
+*Translation:* With regard to Reish Lakish’s statement, the Gemara asks: **But he did not say this to her;** rather, he said that he was consecrating her earnings. The Gemara answers: **Since we heard** that **Rabbi Meir said: A person does not say things for naught,** and according to this principle, when one says something that has no halakhic meaning, it is interpreted as if he had said something that does have halakhic relevance, **he is considered as if he had said to her: Your hands are consecrated to the One Who made them.**
+
+**11.**
+*Hebrew/Aramaic:* וְסָבַר רַבִּי מֵאִיר אֵין אָדָם מַקְדִּישׁ דָּבָר שֶׁלֹּא בָּא לָעוֹלָם? וְהָתַנְיָא, הָאוֹמֵר לְאִשָּׁה: ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי לְאַחַר שֶׁאֶתְגַּיֵּיר״, אוֹ: ״לְאַחַר שֶׁתִּתְגַּיְּירִי״, ״לְאַחַר שֶׁאֶשְׁתַּחְרֵר״, ״לְאַחַר שֶׁתִּשְׁתַּחְרְרִי״, ״לְאַחַר שֶׁיָּמוּת בַּעְלִיךְ״, אוֹ ״שֶׁתָּמוּת אֲחוֹתִיךְ״, אוֹ: ״לְאַחַר שֶׁיַּחְלוֹץ לִיךְ יְבָמִיךְ״, רַבִּי מֵאִיר אוֹמֵר: מְקוּדֶּשֶׁת.
+*Translation:* The Gemara asks: **Does Rabbi Meir hold** that **a person may not consecrate an object that has not** yet **come into the world? Isn’t it taught** in a *baraita* that if a gentile **says to a woman: You are hereby betrothed to me after I convert; or** if she was a gentile and he said to her: You are hereby betrothed to me **after you convert;** or if he was a slave and said to her: **After I am emancipated;** or if she was a maidservant and he said to her: **After you are emancipated;** or if she was married and he said to her: **After your husband dies; or** if he was married to her sister and he said: **After your sister dies,** as at that point the betrothal could take effect; **or** if she was a widow waiting for her *yavam* and he said to her: **After your *yavam* performs *ḥalitza* with you, Rabbi Meir says:** If any of these cases occurred, **she is betrothed.** Apparently Rabbi Meir maintains that betrothal can take effect even on something that has not yet come into being.
+
+**12.**
+*Hebrew/Aramaic:* מֵהַהִיא — אִין, מֵהָא לֵיכָּא לְמִשְׁמַע מִינַּהּ.
+*Translation:* The Gemara answers: Actually, **from that** *baraita*, **one can** learn that this is Rabbi Meir’s opinion, but Reish Lakish merely wanted to say that **no** inference is **to be learned from this** mishna, as it is possible to explain Rabbi Meir’s words in another way, based on the principle that a person does not say things for naught.
+
+**13.**
+*Hebrew/Aramaic:* הַמּוֹתָר, רַבִּי מֵאִיר אוֹמֵר הֶקְדֵּשׁ. אֵימַת קָדוֹשׁ? רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַויְיהוּ: מוֹתָר לְאַחַר מִיתָה קָדוֹשׁ. רַב אַדָּא בַּר אַהֲבָה אָמַר: מוֹתָר מֵחַיִּים קָדוֹשׁ.
+*Translation:* § The mishna states that with regard to **the surplus, Rabbi Meir says: It is consecrated** property. The Gemara asks: According to this opinion, **when** does the surplus amount become **consecrated? Rav and Shmuel both said: The surplus is consecrated** only **after** the woman’s **death. Rav Adda bar Ahava said: The surplus is consecrated while** she is still **alive.**
+
+**14.**
+*Hebrew/Aramaic:* הָוֵי בַּהּ רַב פָּפָּא: בְּמַאי? אִילֵימָא בְּמַעֲלֶה לָהּ מְזוֹנוֹת וּמַעֲלֶה לָהּ מָעָה כֶּסֶף לִצְרָכֶיהָ — מַאי טַעְמָא דְּמַאן דְּאָמַר לְאַחַר מִיתָה קָדוֹשׁ?
+*Translation:* **Rav Pappa discussed it,** as he was perplexed by this dispute: With regard **to what** do they argue? **If we say** that the husband **provides for her sustenance and** additionally **provides her with a silver *ma’a*** coin every week **for** the rest of **her needs,** as he is obligated to do (see 64b), then **what is the reason for** the opinion of **the one who said it is consecrated** only **after** her **death?** As the husband has fulfilled all of his obligations and is consequently the owner of his wife’s earnings, he should be capable of consecrating them.
+
+**15.**
+*Hebrew/Aramaic:* וְאֶלָּא כְּשֶׁאֵין מַעֲלֶה לָהּ מְזוֹנוֹת וְלֹא מַעֲלֶה לָהּ מָעָה כֶּסֶף לִצְרָכֶיהָ — מַאי טַעְמָא דְּמַאן דְּאָמַר מֵחַיִּים קָדוֹשׁ?
+*Translation:* **And** if we **rather** say that **he does not provide for her sustenance and does not provide her with a silver *ma’a* for her needs,** and she must consequently support herself entirely, then **what is the reason for** the opinion of **the one who said** that **it is consecrated in her lifetime?** It is possible that at some point she will not find sufficient employment, and since her husband does not provide for her sustenance or her other needs, she will need the money for herself and there will not be any surplus at all.
+
+**16.**
+*Hebrew/Aramaic:* לְעוֹלָם בְּמַעֲלֶה לָהּ מְזוֹנוֹת וְאֵינוֹ מַעֲלֶה לָהּ מָעָה כֶּסֶף לִצְרָכֶיהָ. רַב וּשְׁמוּאֵל סָבְרִי: תִּקְּנוּ
+*Translation:* The Gemara answers: **Actually,** one must explain that they are discussing a situation where **he provides for her sustenance, but does not provide her with a silver *ma’a* for her needs,** and this is their dispute: **Rav and Shmuel maintain** that the main enactment was that **they established**

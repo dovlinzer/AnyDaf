@@ -1,211 +1,237 @@
 # Meilah 19 — Daf Yomi Shiur
 
-## Foundations of Me'ilah
+## Me'ilah Foundations
 
-### Me'ilah as Shinui
+### Shinui & Two Forms
 
-The daf begins at the very last line of 18b, where the Gemara resumes its discussion of the basic principles governing *me'ilah*. The foundational concept we have been tracing is that *me'ilah* constitutes a form of *shinui* — a diversion of something away from its true purpose or rightful domain. As we have seen, there are two distinct dimensions to this act. The first is a kind of theft, a taking away from *hekdesh*; the second is the unauthorized deriving of benefit. Both tracks emerge from the Gemara's analysis of the term *me'ilah* as it appears in earlier biblical contexts.
+The daf opens by consolidating the foundational principles of *me'ilah* that had been laid at the close of 18b. The central concept is that *me'ilah* is an act of *shinui* — diverting something away from its proper purpose or context. Within this framework, the Gemara recognizes two distinct forms of *me'ilah*: one modeled on theft, the taking away of *hekdesh*'s ownership, and the other on deriving benefit, the enjoyment of something that does not belong to the layperson.
 
-### Biblical Models
+These two tracks are grounded in two separate *pesukim*. The first is the *parsha* of *sotah*, where the Torah uses the language *timal ma'al b'isha* to describe a wife's act of adultery as a trespass against her husband. As Tosafot explains, the sexual pleasure that rightfully belongs between a husband and wife, when shared with another man, becomes a paradigm for deriving benefit from *hekdesh* — benefit that belongs to the sacred domain and not to the layperson who takes it. The second *pasuk* concerns *Bnei Yisrael*'s worship of *avodah zarah*, where the people, who belong to God, are described as being *mo'el* in Him. The act of going to another god is understood as removing oneself from God's possession and placing oneself under the dominion of another — a paradigm for the *me'ilah* of taking possession and stealing from *hekdesh*.
 
-The Gemara derives the laws of *me'ilah* from two scriptural precedents, each illuminating a different dimension of the prohibition. The first is the case of the *sotah*, where the Torah describes the act of adultery using the language *timal maal b'isha* — she has committed a trespass against her husband. As Tosafot explains, the woman shares with another man the intimate bond that properly belongs exclusively to her husband, and this becomes the model for the *me'ilah* of deriving benefit from *hekdesh* that does not belong to the layperson. The benefit belongs to *hekdesh*, and appropriating it constitutes a trespass.
+### Three Biblical Models
 
-The second model is the worship of *avodah zarah*, where *Bnei Yisroel* are described as having committed *me'ilah* against God. The conceptual underpinning here is that a people belong to the God they worship. To go to another god is to take oneself out of God's possession and place oneself under alien control — a diversion of ownership rather than a diversion of benefit. This models the dimension of *me'ilah* that involves taking possession away from *hekdesh* rather than merely enjoying a benefit from it.
+The Gemara's structural framework for *me'ilah* is built on three analogies: *sotah*, *avodah zarah*, and *terumah*. The connection to *sotah* and *avodah zarah* is through the shared language of *me'ilah* in those contexts; the connection to *terumah* runs through the shared term *cheit* and a formal comparison. These models teach different things. From *sotah* we learn that *hana'ah* — deriving benefit — constitutes *me'ilah* even when no loss occurs to the object. From the *avodah zarah* model, and the concept of *shinui reshus*, we learn that taking possession, removing something from God's domain and bringing it under one's own control, is an independent form of *me'ilah*. From *terumah* we learn that just as eating *terumah* creates an obligation while merely damaging it does not fall under that *parsha*, so too with *hekdesh*: *me'ilah* is about benefit, not about destruction. Willful damage to *hekdesh* is a separate matter and is not *me'ilah*.
 
 ### Cumulative Me'ilah
 
-A further distinguishing characteristic of *me'ilah* is its cumulative nature. Unlike prohibitions tied to discrete acts — eating, for instance, which must occur within a defined span of time — *me'ilah* accrues over time, because it is fundamentally about the total amount diverted or benefited from. A *perutah*'s worth taken today may combine with a *perutah*'s worth taken later to reach the minimum threshold. Moreover, even combinations across different actors can count: if one person anoints another's skin with *hekdesh* oil, the one who performed the act bears the *me'ilah* liability even though the recipient is the one who experienced the benefit, and these partial amounts can combine toward the requisite *perutah*. The concept of *me'ilah* is therefore not structured like a conventional act of eating or benefit, but operates as an accumulative taking.
+*Me'ilah* differs from most prohibited acts in a structurally important way: it can accumulate over time and across individuals. The minimum *shiur* of *me'ilah* is a *perutah*'s worth of benefit or taking, and this threshold can be reached cumulatively — a small amount today, a small amount later — because *me'ilah* is not like an act of eating that must be completed within a defined time window. It is a taking away, and the total amount accrued at the end is what matters.
 
-### Pagam Ve'lo Neheneh
-
-One must also note what *me'ilah* is not. If one takes *hekdesh* flour and leaves it to rot without deriving any benefit — the case of *pagam ve'lo neheneh*, damage without benefit — this does not constitute *me'ilah*. There must be an act of deriving benefit. The one who damages *hekdesh* without benefit transgresses a *lo ta'aseh* and must make restitution of the principal, but the specific liability of *me'ilah* does not apply.
+Even more striking, amounts can be combined across different perpetrators, provided there is a relevant connection. For example, if one person derives some benefit from *hekdesh* and anoints another person's skin with it — so that the recipient, not the actor, enjoys the physical sensation — since it is the first person who diverted the *hekdesh*, both quantities combine toward the *shiur* of a *perutah*. This holds even over an extended period of time. In all these ways, *me'ilah* operates differently from the normal categories of prohibited eating or benefit, precisely because it is defined by the concept of diversion rather than a discrete act.
 
 ---
 
-## Sacred Fund Transfers
+## Damage vs Me'ilah
 
-### Kodesh to Chol Model
+### Wormy Flour Case
 
-The Gemara at the bottom of 18b raises a further question. Since we also derive the laws of *me'ilah* through analogy to *terumah* — which uses the cognate word *cheit* and parallels the structure of *me'ilah* in several respects — one might have concluded that *me'ilah* applies only when something moves from *kodesh* to *chol*, from sacred to entirely mundane use, just as eating *terumah* in an ordinary way represents a complete diversion from sacred to lay consumption. The question then becomes: does transferring something from one domain of *kodesh* to another — from one sacred purpose to a different sacred purpose — also constitute *me'ilah*?
-
-### Diversions Examples
-
-The *braisa* addresses this with a series of examples. First: one takes funds designated for *bedek habayis*, the Temple maintenance fund, and uses them to purchase birds for the obligatory *korbanos* of a *zav* or *yoledet*. The money has moved from one sacred purpose to another — not to a personal television set, but to a *korban*. One might rationalize that this is not *me'ilah*, since the funds remain in sacred use. Second: a person uses a *hekdesh* object as a counterweight on a balance scale when weighing out his half-*shekel* contribution to the *Beit Hamikdash*. He is not stealing the object for himself but using it for an ostensibly virtuous *mitzvah* purpose. Third: one takes *hekdesh* money and uses it to bring his own *chatat* or *asham* offering, thereby discharging his personal obligation.
-
-It is worth noting that all of these examples involve satisfying an obligation. No example is given of using *hekdesh* funds for a purely voluntary *olah* offering that provides no personal exemption. One could imagine that such a case might not qualify as *hana'ah* in the relevant sense — though the Gemara does not fully resolve this, and neither Tosafot nor Rabbeinu Gershom addresses it directly.
-
-### When Me'ilah Occurs
-
-The *braisa* states that in the case of using *hekdesh* money to bring a *chatat* or *asham*, *me'ilah* occurs as soon as the funds are spent. The Gemara will now examine precisely what that means.
-
-### Spending Money Debate
-
-*Keivan shehotzi mo'al* — the statement that *me'ilah* is incurred as soon as one has "spent" the money — is the position of Rabbi Shimon. Rabbi Yehuda disagrees, holding that *me'ilah* does not occur until *zerikas hadam*, the sprinkling of the blood that completes the *korban*. The underlying question is: at what moment does one actually discharge one's obligation and thus derive the benefit that constitutes *me'ilah*? Rabbi Yehuda holds that exemption from one's *korban* obligation is achieved only at *zerikat hadam*. Rabbi Shimon holds that one is exempt as soon as the animal is brought into the *Beit Hamikdash* itself, before it is actually offered — a striking position, and one that makes the moment of *me'ilah* correspondingly earlier.
-
-The precise meaning of *keshehhotzi* — "when he takes out" — is itself debated. Rashi and Tosafot understand it to follow Rabbi Shimon's position: that it refers to the moment of bringing the *korban* into the *azarah*. However, this is not the plain sense of the word. Nimukei Yosef reads *hotzi* more naturally as the moment the funds leave the Temple treasury, which would make *me'ilah* occur even earlier and would be more consistent with the straightforward meaning of the language.
-
-In any case, the *braisa* concludes with the verse *timoal maal mikol makom* — *me'ilah* applies under all circumstances — establishing that even diversions from one sacred purpose to another sacred purpose constitute *me'ilah*, at least where one derives benefit through the discharge of a personal obligation.
+A pointed illustration of *me'ilah*'s limits: if *hekdesh* flour is left in one's possession and becomes infested and wormy without any active use on one's part, that constitutes *pagam v'lo neheneh* — damage without benefit — and is not *me'ilah*. *Me'ilah* requires the derivation of benefit. The person who merely caused damage without deriving benefit is not exempt from consequence; they must pay back the principal. But the technical category of *me'ilah*, with its distinct obligation of a *korban asham* and the added fifth, does not apply. The absence of *hana'ah* means the act falls outside the definition of *me'ilah* entirely.
 
 ---
 
-## Three Models Analysis
+## Min Hakodesh Lechol
 
-### Sotah: Benefit Alone
+### Terumah Analogy
 
-Having presented the *braisa* at length, the Gemara now unpacks its underlying logic. The verse *va'akish rachmana lesota avodas kochavim uteruma* — the Torah has linked *me'ilah* to *sotah*, *avodah zarah*, and *terumah* — is the basis of the analysis.
+The Gemara raises a potential inference from the *terumah* model. Since *terumah* is one of the paradigms for *me'ilah*, one might have supposed that *me'ilah* is defined precisely as *terumah* is — applying only when something is transferred *min hakodesh lechol*, from the sacred to the entirely mundane. On this reading, transferring *hekdesh* funds from one sacred purpose to another — *min hakodesh lekodesh* — would not constitute *me'ilah* at all. After all, you are not moving it into the lay world; you are simply redirecting it within the sacred sphere.
 
-What do we learn from *sotah*? *De'af al gav delo pagim* — even though no physical damage is done to the object. In the case of the *sotah*, the act of adultery involves a sharing of what properly belongs to the husband with another, but the woman herself does not thereby suffer any diminishment. This models the principle that *hana'ah* by itself — benefit without accompanying loss to the object — can constitute *me'ilah*. The Mishnah will distinguish between types of objects: those whose normal use does not involve loss (such as wearing a golden necklace or drinking from a golden goblet), where benefit alone suffices; and those whose normal use is accompanied by wear and tear (garments, tools), where the *me'ilah* requires that the benefit be accompanied by that *pagam*.
+### Sacred Obligation Cases
 
-The *sotah* case thus models pure *hana'ah me'ilah*. The Gemara applies this: if one places a ring on a person's hand, deriving benefit from *hekdesh*, that constitutes *me'ilah* even without any loss to the ring.
+The Gemara then provides concrete examples of this boundary case. Suppose money from the temple treasury — funds designated for *bedek habayis*, the maintenance and operating costs of the Temple — was taken and used to purchase *kinei zavim*, *kinei zavot*, or *kinei yoldot*, birds required as obligatory *korbanot* by individuals. The money is not being spent on a television; it is being used to bring a *korban*. One might rationalize that since the funds are diverted to another *hekdesh* purpose, no *me'ilah* has occurred. A similar, perhaps even more compelling case: one uses an object of *hekdesh* as a counterweight when weighing out one's *shekel* obligation to the *Beit HaMikdash*. Here the benefit is derived in the service of a *mitzvah* — contributing to the Temple itself. Or, in yet another variation: one takes *hekdesh* money and uses it to purchase one's obligatory *chatat* or *asham* offering.
 
-### Avodah Zarah: Possession
+In all these cases the question is identical: does using *hekdesh* for a sacred obligation — not for personal, mundane gain — constitute *me'ilah*? The structure of these examples is telling. Each involves satisfying a personal obligation using *hekdesh* resources. The Gemara is notably limiting its examples to cases where the individual derives clear benefit in the form of fulfilling an obligation, and does not address, for instance, the case of donating *hekdesh* money toward a voluntary *olah* offering where no personal obligation is being discharged. This raises the question — which the Gemara does not fully resolve, and which neither Tosafot nor Rabbeinu Gershom elaborate upon here — of whether using *hekdesh* funds for a voluntary *korban* not connected to any personal obligation would even constitute *hana'ah* in the relevant sense, or whether it would be characterized differently. The *me'ilah* framework here seems to be built around cases where there is a measurable personal benefit: relief from an obligation.
 
-What do we learn from *avodah zarah*? *De'ad de'ika shinui* — until there is a change. Tosafot understands this change as a change of *reshut*, a change of possession and control. The paradigm of *bnei Yisroel* giving themselves over to the domain of another god represents the act of removing an object from *hekdesh* and placing it under one's own control. This models the dimension of *me'ilah* as taking possession.
+### R. Shimon vs R. Yehudah
 
-The Gemara applies this to the case of a *hekdesh* hatchet used to chop wood. The text here is somewhat difficult: the words *veyifchat ufagum* — suggesting some form of damage — appear in certain versions, which would make this a case of benefit accompanied by loss, analogous to normal wear on a tool. However, Tosafot removes or de-emphasizes those words and reads the hatchet case as modeling the taking-of-possession form of *me'ilah* — the very act of using the hatchet for oneself demonstrates that one has taken it under personal control, and that is the *me'ilah*. The analogy to *avodah zarah* makes better sense on this reading, since the worship of foreign gods involves no obvious physical *pagam* to anything, but rather a fundamental change in allegiance and possession.
+The *braisa* introduces a debate between Rabbi Shimon and Rabbi Yehudah concerning the precise moment at which *me'ilah* occurs in the case of using *hekdesh* funds to purchase an obligatory *korban*. The question, precisely formulated, is: when does one become exempt from one's *korban* obligation? And correlatively, at what point is one considered to have derived the benefit that constitutes *me'ilah*?
 
-There remains a genuine conceptual difficulty in defining when the act of "stealing" from *hekdesh* occurs. If something is dedicated to *hekdesh* and remains physically in one's possession, merely carrying it to another room does not obviously constitute theft. The act of using it for one's own purpose — chopping wood with the hatchet — demonstrates the assumption of ownership and thereby constitutes the *me'ilah* of possession-taking.
+Rabbi Yehudah holds, as one might expect, that one is exempt from one's *korban* obligation only once *zerikas hadam* — the sprinkling of the blood on the *mizbeach* — has taken place. Only then is the *korban* considered fully effective and the obligation discharged. Rabbi Shimon, in a position that the Gemara describes as quite remarkable, holds that one exempts oneself from the obligation already at the moment the *korban* is brought into the *Beit HaMikdash*, into the *azarah*, even before the blood is sprinkled. This is the moment, according to Rabbi Shimon, at which *me'ilah* has occurred — *keivan shehotzi, mo'al* — because that is when the benefit is derived.
 
-### Terumah: Benefit + Loss
+The Gemara notes that the literal words *keivan shehotzi* suggest something like "when he takes it out of the treasury," which is indeed the most natural reading, and this is the position of the Nimukei Yosef, who understands *hotzi* to mean the moment one removes the funds from the temple treasury. Rashi and Tosafot, however, understand it to align with Rabbi Shimon's classic position that the moment of benefit is when one brings the animal into the *azarah*.
 
-What do we learn from the comparison to *terumah*? From *terumah* we derive that when *me'ilah* involves eating — that is, when the act of benefit normally and inherently causes damage to the object itself — both elements must be present simultaneously. By *terumah* the Torah specifies *ki yochal*, "when he eats," excluding one who merely damages the *terumah* without eating it from the specific *chiyuv* of that *parsha*. Similarly, by *hekdesh*, causing mere damage without benefit is not *me'ilah*. As Rashi and Tosafot clarify, this is not limited to literally edible objects; the principle is that *me'ilah* is fundamentally about deriving benefit and taking possession, not about causing destruction. Willful destruction of *hekdesh* is a separate matter, but it is not *me'ilah*.
+The Gemara does not fully unpack why the examples are specifically limited to obligatory *korbanot* such as *zavim*, *zavot*, *yoldot*, *chatat*, and *asham*, rather than including cases where the diversion serves another sacred purpose without satisfying a personal obligation. The *Acharonim* may address this, though no resolution is cited here.
 
-### Me'ilah Synthesis
+### Timoal Ma'al Teaching
 
-From these three models, three principles emerge. First, from *sotah*: there is a form of *me'ilah* that consists of *hana'ah* alone, where objects are used in ways that do not normally involve any loss. Second, from *avodah zarah*: there is a form of *me'ilah* that consists of taking possession, diverting the object from *hekdesh*'s control into one's own. Third, from *terumah*: when the act of deriving benefit normally involves loss to the object, that accompanying loss is required for *me'ilah* — but causing loss alone, without benefit, is not *me'ilah*.
-
-The deeper question is how to unify these tracks conceptually. The fact that one can combine a half-*perutah* of benefit with a half-*perutah* of possession-taking and thereby constitute a full act of *me'ilah* means that these cannot be entirely separate categories; they must share a common definition. The *acharonim* debate whether the unifying concept is theft — with benefit itself understood as a form of adding to one's possessions — or whether the unifying concept is *hana'ah* broadly construed, encompassing both using an object and taking it into one's domain. Either way, the two tracks are both genuine forms of *me'ilah*, and both contribute toward the minimum *perutah* threshold.
+Whatever the force of the argument that diverting *hekdesh* to another sacred purpose should not be *me'ilah*, the *braisa* closes with a definitive ruling: *timal ma'al mikol makom*. The word *timoal ma'al* teaches that under all circumstances, even when one is not using the funds for personal gain, even when the diversion serves another *hekdesh* purpose, *me'ilah* is nonetheless transgressed. The crucial qualification, however, is that in all the cited cases the person does gain something — they satisfy a personal obligation by means of *hekdesh* resources. It is worth noting that the teaching *timoal ma'al mikol makom* does not sweep away the requirement of *hana'ah*; it teaches that even *hana'ah* of this indirect kind, the relief from an obligation, is sufficient to constitute *me'ilah*.
 
 ---
 
-## Benefit Without Loss
+## Braisa Unpacked
 
-### Golden Items
+### Nefesh Inclusivity
 
-The Mishnah identifies the paradigmatic case of benefit without loss as wearing a golden necklace or drinking from a golden goblet. These are objects whose normal use does not involve any physical diminishment of the object itself, and therefore the mere act of benefit — without any accompanying *pagam* — constitutes *me'ilah*.
+The Gemara now proceeds to unpack the *braisa* element by element. The *braisa* opens from the *pasuk*: *nefesh ki timoal ma'al* — "if a soul commits an act of trespass." The word *nefesh* signals universality: *echad yachid ve'echad nasi ve'echad mashuach* — whether a lay individual, a king (*nasi*), or a *Kohen Gadol*, all are included in the laws of *me'ilah*.
+
+The Gemara asks why this requires a derivation at all — is it not obvious? The word *nefesh* is written; surely everyone is included. The answer is that one might have thought to exclude the king and the *Kohen Gadol* based on a different *pasuk* concerning the *shemen hamishchah*: *va'asher yiten mimenu al zar* — whoever places the anointing oil upon a *zar*, a stranger, violates. Since a king and *Kohen Gadol* are not *zarim* in relation to the *shemen hamishchah* — the *Kohen Gadol* is anointed with it, and kings are sometimes anointed with it in cases of disputed succession — one might have thought they are similarly not *zarim* with respect to *me'ilah* involving *hekdesh*. There is indeed a parallel discussion in Maseches Kerisos about whether a *Kohen Gadol* who is anointed with *shemen hamishchah* is regarded as a *zar* in relation to subsequent applications of that oil. The *braisa*'s derivation from the word *nefesh* closes off this possibility: the king and *Kohen Gadol* are fully subject to *me'ilah* just as any other person.
+
+One might argue that the more natural basis for the *havah amina* would have been the structural distinctions drawn in the *parsha* of *korbanot* — *asher nasi yecheta* and so on — where the Torah treats different types of individuals differently. The Gemara here, however, focuses specifically on the *shemen hamishchah* connection.
+
+Regarding the term *nasi*: while in the context of the Torah it refers to the head of a tribe, the Gemara's context here translates it into the post-tribal political reality of kingship, since the *pasuk* being leveraged concerns the *shemen hamishchah* and its connection to anointing. There are broader discussions elsewhere of whether *nasi* extends to other forms of political leadership, but here the focus is specifically on the king as the figure who might have been anointed with *shemen hamishchah*.
+
+### Sotah Model
+
+The Gemara turns to the first of the three biblical models. *Va'akish rachmana lesota avodas kochavim uteruma* — the Torah connects *me'ilah* to *sotah*, to *avodah zarah*, and to *terumah*. What is learned from *sotah*? *De'af al gav delo pagim* — even though the object of the benefit (understood in the *sotah* model as the woman herself) is not injured or depreciated. The *sotah* model teaches that *me'ilah* can be constituted by *hana'ah* alone, even without any *pagam* to the object.
+
+This connects to a distinction already implicit in the *Mishnah* between two categories of objects. Some objects, when used, are not normally accompanied by any depreciation or loss — a golden necklace, a golden goblet. There, the mere act of deriving benefit is itself the act of *me'ilah*. Other objects, when used, normally are accompanied by wear and tear — clothing, tools. For those objects, the *me'ilah* requires that the benefit actually be accompanied by the *pagam*, the wear and tear. The *sotah* model establishes the principle governing the first category: *hana'ah* by itself, without *pagam*, can constitute *me'ilah*.
+
+One might ask why the *pasuk* of *sotah* is used rather than simply *eishet ish*. The answer is that the specific language of *me'ilah* — *ki timoal ma'al* — appears only in the *parsha* of *sotah*. Grammatically, the Torah in that *parsha* begins by describing the act of adultery as if it has already occurred: *ish ish ki tisteh ishto umala vo ma'al veshachav ish ota shichvat zera*, and then shifts to the husband's suspicion. So while the *parsha* is technically that of *sotah*, the *me'ilah* language is applied to the act of adultery itself.
+
+The practical application follows: *natan taba'at beyada* — placing a ring on someone's finger is an act of *me'ilah* even without any loss occurring to *hekdesh*, because benefit has been derived from what belongs to the sacred domain.
+
+### Avodah Zarah Model
+
+From *avodah zarah* the Gemara learns a different dimension: *de'ad de'ika shinui* — until there is some kind of *shinui*, a change. As Tosafot understands this, the relevant change is *shinui reshus* — a change of dominion. The worshippers of *avodah zarah* effectively removed themselves from under God's ownership and placed themselves under the control of another power. Applied to *me'ilah*, this is the model for taking possession: removing *hekdesh*'s object from *hekdesh*'s control and bringing it into one's own.
+
+The hatchet case is cited here. If one takes a *hekdesh* hatchet and chops wood with it — *ad de'ika shinui*, until one actually uses it — that constitutes *me'ilah*. Now, reading the text as it stands — with the words *veyifchat ufagum* — the case could be understood as deriving benefit accompanied by *pagam*, since a hatchet does suffer some depreciation through use. That reading would align the hatchet case with the *sotah* model of benefit with accompanying loss. Tosafot, however, prefers to remove those words and read the hatchet case instead as an illustration of taking possession, consistent with the *avodah zarah* model. The difficulty with Tosafot's reading is that the *avodah zarah* comparison then needs to explain what the "change" is — where in the *avodah zarah* context is there a parallel to benefit with loss? The answer, rough as it is, is that the people's shift of allegiance constitutes the relevant *shinui*.
+
+What makes the hatchet case particularly useful is that it forces clarity about what constitutes the act of "stealing" from *hekdesh*. If one declares a hatchet *hekdesh* and then picks it up and carries it into another room, has one stolen it? *Hekdesh* belongs to God everywhere; moving it does not obviously change its ownership. The act of actually using it — chopping wood with it — is the clearest demonstration of taking possession for oneself. This question of when exactly an act of stealing from *hekdesh* crystallizes is treated more fully in the next *Mishnah*.
+
+### Hatchet Case
+
+The hatchet case sits at the intersection of the two models. On one reading — maintaining the words *veyifchat ufagum* — it is a case of benefit with accompanying loss: the hatchet depreciates through use, and so both *hana'ah* and *pagam* are present in the same object, which is the paradigm of *me'ilah* by objects that normally depreciate. On Tosafot's reading — understanding the hatchet case through the *avodah zarah* model — it is a case of taking possession, with the act of chopping serving as the demonstrable assertion of ownership over what belongs to *hekdesh*.
+
+The two readings are not as far apart as they initially appear. Both identify the act of use as the moment of *me'ilah*. The question is whether that use is primarily characterized as deriving benefit (possibly with loss) or as claiming dominion. As we will see, these two tracks are not fully separable, and indeed they must ultimately be unified conceptually because they combine toward the *shiur* of a *perutah*.
+
+### Terumah Model
+
+From *terumah* the Gemara learns: *mah terumah ki yochal prat l'mazik* — just as eating *terumah* incurs an obligation while merely damaging it does not fall under that *parsha*, so too with *hekdesh*. Rashi and Tosafot clarify that this principle is not limited to things that are edible; the point is a structural one. *Me'ilah* is not constituted by damage. Deliberately destroying *hekdesh* is a separate discussion and may be a separate prohibition, but it is not *me'ilah*. *Me'ilah* is fundamentally about taking — taking benefit, taking possession — for oneself. The *pagam* may sometimes be a necessary accompaniment to the *hana'ah* that defines *me'ilah*, but *pagam* alone, without benefit, is simply not in the category.
+
+---
+
+## Unifying Me'ilah
+
+### Both Tracks Combine
+
+The discussion now turns to the relationship between the two tracks. One might suppose that the *hana'ah* model and the taking-possession model are simply two parallel definitions of *me'ilah* that operate independently. But a closer look reveals that this cannot be quite right. We know that half a *perutah* of benefit and half a *perutah* of taking-possession combine to constitute the *shiur* of *me'ilah*. If one derives *hana'ah* worth half a *perutah* — say, by wearing a *me'ilah* ring — and separately takes possession of a *hekdesh* object worth half a *perutah*, the two combine. This means the two tracks cannot be conceptually sealed off from each other; they must share some common underlying definition, because halakhically they are treated as portions of the same act.
+
+### Conceptual Definition
+
+How then to unify them? The *Acharonim* have proposed different framings. One approach is to define everything as a form of stealing: one can steal by adding an object to one's possessions, or one can "steal" the benefit by using it. Another approach is to define everything through the lens of *hana'ah*: one derives benefit by wearing something or using something, and one derives benefit by adding *hekdesh*'s property to one's own assets. Both framings attempt to find a single conceptual core from which both tracks flow, recognizing that the two are two faces of the same underlying *me'ilah* — the diversion of *hekdesh*'s value or identity for oneself. The force of the point is that even half of each is enough, which makes the unification not merely academic but *halakhically* operative.
+
+---
+
+## Benefit & Loss
+
+### Golden Necklace
+
+The *Mishnah* presents a paradigm case for *me'ilah* without *pagam*: wearing a golden necklace. Gold, when worn as jewelry, does not depreciate; there is no wear and tear accompanying the use. Therefore the *hana'ah* alone — without any *pagam* — constitutes *me'ilah*. This is the category governed by the *sotah* model.
 
 ### Gold Depreciation
 
-This prompts Rav Kahana to challenge Rav Zvid: is it truly the case that gold suffers no loss? He invokes a pointed real-world illustration — the gold of the daughter-in-law of a certain Nun — which had apparently diminished over time, suggesting that gold jewelry does in fact depreciate. Rav Zvid responds: *dilma de-hava de-ramya a-khalsaiya* — perhaps it is specifically gold that is left exposed and mistreated that suffers loss, whereas gold that is properly cared for does not depreciate under normal conditions of use.
+Rav Kahana raises a challenge to Rav Zvid: *ve-dahava lav bar ifkumei hu*? Is gold truly immune from depreciation? He invokes a vivid real-world example: the gold jewelry of the daughter-in-law of a certain Nun — he gave them a great deal of gold, and over time it seems to have worn away considerably. Clearly gold does suffer loss over time.
 
-### Temporal Loss Standard
+Rav Zvid's response is instructive: *dilma de-hava de-ramya a-khalsaiya* — perhaps what we are speaking of is gold that is simply left strewn about and exposed, not treated properly. Under normal conditions of careful use, gold jewelry does not visibly or appreciably depreciate.
 
-More fundamentally, Rav Zvid articulates a crucial halakhic principle: *ve-od nehi de-lo it-hazya pegima le-alter* — even granting that some eventual loss occurs to a gold object over a lifetime of use, the decisive question is whether the loss occurs *at the time* of use. *Le-olam mi lo ithavei pegima* — it is not that gold never depreciates, but that during the specific interval of use — the few minutes one wears the necklace — no depreciation actually occurs.
+### Depreciation Timeframe
 
-This temporal standard is what determines whether an object falls into the category requiring loss or not. The category of objects for which *me'ilah* requires accompanying *pagam* is not defined as "objects that will eventually wear out," but rather as objects in which each act of use is normally accompanied by a measurable, contemporaneous loss in value. A garment loses some value each time it is worn; that is assumed, even if the individual increments are tiny. Gold, under normal conditions, does not lose value within the time frame of a single use. The loss that will occur to gold after decades of use is simply too remote and too attenuated to define the character of each individual use.
+The Gemara adds a further and more halakhically pointed clarification: *ve-od nehi de-lo it-hazya pegima le-alter* — even granting that gold may eventually depreciate over decades, the critical principle is that the loss must occur within the timeframe of normal usage in order to create a *pagam* requirement. If gold depreciates only over twenty years of wear, then within the period during which one actually wears the piece of jewelry — the minutes or hours in question — there is no depreciation. The *me'ilah* requires *pagam* only for objects where the normal act of benefit is routinely accompanied by visible, measurable depreciation within a reasonable period of use. An object that depreciates only imperceptibly over very long periods does not fall into the category where *pagam* is required alongside *hana'ah*; there, *hana'ah* alone suffices.
 
----
-
-## Animal Sacrifice Cases
-
-### Unblemished Animal
-
-The final case of the Mishnah deals with a live *chatat* animal. The Gemara notes: *ei bi'beheimah temimah, hainu kos shel zahav* — if the animal is unblemished, this is like the golden cup. What does this mean? Even though riding an animal or otherwise using it for personal benefit would, in the physical world, cause some depreciation in its monetary value, the Gemara concludes that an unblemished sacrificial animal is categorically like a golden cup — that is, the *me'ilah* requires only benefit, without any accompanying loss. The reason is that *hekdesh* does not conceptually suffer a loss from use of an unblemished *korban*. Whether the animal is worth a thousand dollars or nine hundred and ninety-nine, the *mizbeach* still receives its *korban*. The object is not thought of in monetary terms at all; it is simply going to be used as a *korban* regardless of its precise monetary value, and therefore there is no framework within which *hekdesh* can be said to have "lost" anything.
-
-### Blemished Animal
-
-Rav Papa introduces the key resolution: *bi'ba'alas mum askinan* — the Mishnah is actually dealing with a blemished animal. A *ba'al mum* is subject to redemption. It will be sold, its value converted to cash, and new funds used to purchase another *korban*. In this case, the animal is thought of in monetary terms — one looks at it and sees "dollar signs," as it were. A reduction in its value therefore constitutes a conceptual loss to *hekdesh*: instead of redeeming it for a thousand dollars, one now redeems it for nine hundred and ninety-nine. Because *hekdesh* in this case is conceived of as holding a monetary asset, a diminishment of that asset is a genuine *pagam*, and *me'ilah* therefore requires that this loss accompany the benefit.
-
-This distinction is subtle but important. The issue is not the ultimate destination of the funds — in both cases, the proceeds of redemption return to sacred use. The issue is whether the conceptual framework for understanding the object is one of dollar value and fungible monetary worth, or one of irreplaceable sacred identity. An unblemished *korban* is the latter; a *ba'al mum* subject to redemption is the former. And it is this conceptual framing, not the ultimate fiscal reality, that determines whether loss is a required element of *me'ilah*.
-
-### Dead Animal
-
-The Mishnah concludes with the case of a dead *chatat*. Here again, *hana'ah* alone — without accompanying *pagam* — constitutes *me'ilah*. This might seem puzzling: ordinarily, using a dead animal (for dog food or any other purpose) would involve some loss to the object. Why does the dead *chatat* follow the golden-cup model rather than the garment model?
-
-The answer is the same principle operating in reverse. To *hekdesh*, a dead *korban* has absolutely no value. A dead sacrificial animal cannot be redeemed, cannot be offered, and cannot function as anything *hekdesh* would recognize as an asset. There is therefore no framework within which *hekdesh* could be said to suffer a *pagam* at all — the object is already worth nothing in *hekdesh*'s ledger. Since loss is conceptually inapplicable, the entire weight of the *me'ilah* rests on the benefit side alone.
-
-What these three cases — the unblemished animal, the blemished animal, and the dead animal — demonstrate together is that the requirement of *pagam* is not simply about whether physical depreciation occurs in the natural world. It is about whether *hekdesh* is conceptually positioned to experience something as a loss. Only where that conceptual framework is present does the *me'ilah* require an accompanying *pagam*.
+This stands in contrast to, say, a garment. The assumption is that every wearing of a garment diminishes its value by some increment, even if the individual decrement is so small as to be almost unmeasurable in practice. The point is not that one can produce an invoice showing precisely how much value was lost per wearing; the point is that the assumption of depreciation attaches to garments as a category. Gold jewelry, under normal conditions, does not carry that assumption.
 
 ---
 
-## Minimum Thresholds
+## Live vs Dead Korban
 
-### Both Must Be Perutah
+### Unblemished Korban
 
-The Mishnah on 19b states: *neheneh k'chezi prutah, pagam k'chezi prutah* — if one derived benefit of a half-*perutah* and caused a loss of a half-*perutah*, that does not constitute *me'ilah*. For *me'ilah* to occur, the full threshold of a *perutah* must be reached. The Mishnah then refines this further: *she-neheneh bishveh prutah... upagam bishveh prutah bidavar acher* — even if one derived a full *perutah*'s worth of benefit from one object while simultaneously causing a full *perutah*'s worth of loss to a different object, no *me'ilah* has occurred. The requirement is that the benefit of a *perutah* and the loss of a *perutah* occur in the same object.
+The last case of the *Mishnah* discusses *me'ilah* from a live *chatat*. The *Mishnah*'s rule is that when one derives benefit from a live *chatat*, the *me'ilah* requires accompanying *pagam*. But this requires explanation. The Gemara asks: *nichze* — let us examine this. If the animal is unblemished (*temimah*), then, says the Gemara, it is equivalent to the golden cup — a paradigm of benefit without loss. And what does that mean? After all, the physical reality is that using an animal — riding it, for instance — does cause it to depreciate in value whether it is *tamim* or a *ba'al mum*.
+
+The answer lies in understanding what *me'ilah* is conceptually tracking. If the animal is *tamim* — unblemished, destined to serve as a *korban* on the *mizbeach* — then *hekdesh* suffers no loss from its diminished market value. Whether the animal is worth a thousand dollars or nine hundred and ninety-nine, the *mizbeach* still gets its *korban*. The Ravad raises the point that perhaps the *kohanim*'s portion (e.g., the hide) might be slightly affected, but the fundamental principle holds: the *mizbeach* gets what it needs regardless. *Hekdesh*, conceptually, is not losing anything when one uses an unblemished *korban* in a way that slightly reduces its monetary value.
+
+This is a crucial conceptual point: the requirement of *pagam* in *me'ilah* is not simply tracking the physical reality of depreciation in the world. It is tracking whether *hekdesh* conceptually suffers a loss. When that concept has no purchase — when there is no way in which we think of *hekdesh* as losing — then *pagam* is not required, and *hana'ah* alone suffices.
+
+### Blemished Korban
+
+Rav Papa provides the answer: the *Mishnah* is speaking of an animal with a *mum*. An animal with a blemish must be redeemed — its sacred status is converted into monetary value through the process of *pidyon*, and those funds are then used for another *korban*. When an animal with a *mum* is used and thereby diminished in value, *hekdesh* does concretely lose something measurable: instead of selling the animal for a thousand dollars, it will sell it for nine hundred and ninety-nine. We are now dealing with dollar signs, with fungible value, and *hekdesh*'s account, so to speak, will reflect the lower figure.
+
+One might object: in the end, that money still goes toward another *korban* and eventually to the *mizbeach*, so how is *hekdesh* truly losing? The answer is subtle and important. It is not even necessarily about *hekdesh*'s ultimate financial outcome; it is about the conceptual register in which we view the object. When an animal has a *mum* and will be redeemed, we look at it and see dollar signs — a monetary value, a market price. In that register, depreciation of value is a real loss, even if in the long run those dollars remain within the sacred system. When an animal is *tamim* and will be offered as-is on the *mizbeach*, we do not look at it through a monetary lens; we look at it as a *korban*. In that register, the concept of loss through depreciation simply does not apply.
+
+This framework implies something important about *kelei sharet* and similar objects. Since a *kli sharet* is always viewed as the thing it is — a sacred vessel — rather than as a monetary asset, loss should arguably be irrelevant to it, and *hana'ah* alone should suffice to constitute *me'ilah*. That case may be distinguishable, though the logic points in that direction.
+
+### Dead Korban
+
+A dead *korban* likewise requires only *hana'ah* without *pagam*, and here the reasoning is clear in a different direction. When one derives benefit from a dead *korban*, the physical reality is that using a dead animal is normally accompanied by depreciation — dog food, leather, whatever one extracts from it does diminish the carcass. But from *hekdesh*'s perspective, a dead *korban* has absolutely no value. Once a *korban* dies, it has zero value in *hekdesh*'s ledger. Therefore, the very concept of *hekdesh* suffering a loss is inapplicable, and *me'ilah* reverts to the model of *hana'ah* alone.
+
+What the combination of these three cases — unblemished live animal, blemished live animal, dead animal — demonstrates is that the *pagam* requirement in *me'ilah* is not merely a formal observation about what normally accompanies benefit in the physical world. It is a conceptually sensitive criterion: *pagam* is required when and only when the type of object is one in which *hekdesh*'s loss can be meaningfully conceptualized. Where that conceptualization is impossible or irrelevant, *me'ilah* is defined purely by *hana'ah*.
+
+---
+
+## Shiur Me'ilah
+
+### Half Perutah Rule
+
+The next *Mishnah* (top of 19b) addresses the minimum threshold. *Neheneh k'chezi prutah, pagam k'chezi prutah* — if one derived benefit of half a *perutah* and caused a loss of half a *perutah*, that is not *me'ilah*. *Me'ilah* requires a full *perutah*'s worth of *hana'ah*. Neither half alone, nor both halves together if they occur in different objects, is sufficient.
 
 ### Same Object Rule
 
-The same-object rule is straightforward: one cannot aggregate a benefit from one *hekdesh* item against damage to a different *hekdesh* item. The two elements — *hana'ah* and *pagam* — must be unified in a single act involving a single object.
+The *Mishnah* states: *ad sheyeheh neheneh bishveh prutah v'yifgom bishveh prutah bidavar echad* — one is not *mo'el* until one derives benefit of a *perutah* and causes a loss of a *perutah* in the same object. The requirement that benefit and loss occur in the same object is intuitive: if I am wearing a *hekdesh* garment and simultaneously damaging some other *hekdesh* object with my other hand, those are two unrelated acts involving different objects and cannot be combined to constitute a single act of *me'ilah*.
 
-### Loss Requirement Issues
+The requirement that the *pagam* itself be worth a *perutah* is more conceptually challenging. On the one hand, *me'ilah* is fundamentally about *hana'ah*, not *pagam*; we have established that *pagam* can be entirely absent in certain categories. Requiring that *pagam* reach the *shiur* of a *perutah* would seem to elevate it to an independent threshold, which sits uneasily with the framework. On the other hand, one might argue that below a *perutah* of loss, we simply have no halakhic means of measuring and therefore cannot say it has truly occurred in any cognizable way.
 
-The simple reading of the Mishnah, *ad sheyeheh neheneh bishveh prutah v'yifgom bishveh prutah bidavar echad*, implies that the actual physical *pagam* must itself amount to a *perutah*. This is conceptually troubling on two grounds. First, as we have established, *me'ilah* is fundamentally about benefit, not loss; causing loss alone without benefit is not *me'ilah* at all. The *pagam* is a feature that must accompany the *hana'ah* in certain categories of objects, but it is not the primary criterion. Requiring that the *pagam* itself reach a *perutah* threshold therefore sits oddly with the conceptual framework. Second, in practical terms, it is difficult to imagine that in all the standard *me'ilah* scenarios — wearing a garment, using a tool — the depreciation caused by a single use reliably equals exactly the *hana'ah* received, or that both independently reach a *perutah*.
+A practical difficulty also presents itself: in many of the standard cases of *me'ilah*, it is far from obvious that the benefit derived and the depreciation caused are always commensurate and always each reach a *perutah*. A shirt worn briefly may depreciate by a fraction of a fraction of a *perutah*. Must there always be a *perutah* of *pagam* in each case?
 
-One might tentatively note that there is a variant *girsa* of this Mishnah in which only the second clause carries the prefix *bet*: *ad sheyeheneh sheveh prutah v'yifgom bishveh prutah*, meaning "until he derives a *perutah*'s worth of benefit and causes a *pagam* in that *perutah*'s worth" — understanding the *bet* of the second phrase as indicating location within the object of benefit rather than a separate monetary threshold for the *pagam*. This reading is a stretch, but it is noted because the straightforward interpretation does raise genuine conceptual and practical difficulties. The most defensible reading of the Mishnah remains that a *perutah* of *pagam* is required, with the possible justification that halakhically any loss below a *perutah* is too small to be measurable and cannot be treated as having occurred. But the difficulty remains.
+### Textual Variants
 
----
-
-## One-Time Me'ilah Rule
-
-### No Double Me'ilah
-
-The Mishnah introduces an important structural rule: *ein mo'el achar mo'el b'mukdashin* — one can never commit *me'ilah* twice in the same object, with the sole exception of a *korban* or *kli sharet*. This principle reflects a fundamental feature of how *me'ilah* interacts with *kedushah*.
-
-### Kedushah Loss
-
-The rationale is as follows. As soon as one commits *me'ilah* in a *hekdesh* object, the *kedushah* of that object is lost. This can be understood from the nature of *me'ilah* as trespass and diversion: once the object has been taken away from *hekdesh* — once it has been diverted and violated — its *kedushah* identity is thereby injured and dissipates. The object may still technically belong to *hekdesh*, but it no longer carries intrinsic sanctity. A subsequent use of the same object therefore finds nothing sacred to violate. The *kedushah* was there for the first act; it is gone by the second.
-
-### Animal/Vessel Exception
-
-The exceptions — *behemah* and *kli sharet* — exist because these objects possess *kedushat haguf*, intrinsic sanctity that resides in the body of the object itself, not merely in its ownership status. Ordinary *hekdesh* property — bedek habayis funds, materials owned by the Temple treasury — has *kedushah* that is, in essence, a form of consecrated ownership. Such objects can naturally be sold, redeemed, and transferred; their *kedushah* is ownership-based and correspondingly less fixed. When such an object's *kedushah* is violated, it exits in the same way it could have exited through ordinary redemption.
-
-A *korban* and a *kli sharet*, by contrast, are sanctified in their very identity. One cannot redeem an unblemished *korban*; one cannot simply sell a *kli sharet*. Their sanctity is not a function of who owns them but of what they fundamentally are. An act of *me'ilah*, however grave, cannot dissolve what is constitutive of the object's identity. The *kedushah* therefore remains intact even after violation, and repeated acts of *me'ilah* remain possible.
+There is also a significant textual variant in the *Mishnah* itself. Our standard text reads *bishveh prutah* in both phrases: *neheneh bishveh prutah* and *yifgom bishveh prutah*. But many other textual traditions (*girsaot*) read the *Mishnah* with a *bet* only in the second phrase: *neheneh shveh prutah* (without *bet*) and *yifgom bishveh prutah* (with *bet*). On that reading, the first phrase might be understood to say that the *hana'ah* must be worth a *perutah*, while the second phrase — *bishveh prutah* — means "in that *perutah*'s worth of object," describing the locus of the *pagam* rather than its independent monetary threshold. This reading would mean that the requirement is: the benefit must be a *perutah*'s worth, and the *pagam* must occur in that same object — with no independent *perutah* threshold on the *pagam* side. The word *bet* in the second phrase would indicate location, not valuation. It is admittedly a somewhat forced reading, but it has the advantage of keeping *pagam* in its proper conceptual role as an accompaniment to *hana'ah* rather than as an independent threshold. The plain sense of the *Mishnah*, however, does seem to require a *perutah* of each.
 
 ---
 
-## Korbanos/Kli Sharet
+## No Double Me'ilah
 
-### Animal Sanctity
+### Kedushah Disappears
 
-The source for the principle that *korbanos* retain their *kedushah* after *me'ilah* is derived from the verse *b'eil ha'asham* — "with the ram of the *asham*." The *pasuk* speaks of the *kohen* atoning for the one who committed *me'ilah* through a ram offering. The *drasha* reads the repetition of the ram's designation as conveying that any ram retains its identity as an *asham* no matter how many acts of *me'ilah* are performed upon it. The Tanna Kamma limits the principle to what the verse teaches — animals (*behemah*) — and does not extend it further.
+A new *Mishnah* introduces the principle: *ein mo'el achar mo'el b'mukdashin ela b'behema v'khli shareis bilvad* — there is no *me'ilah* after *me'ilah* in consecrated objects, except in the case of a *korban* animal or a *kli sharet*. The principle is that the act of *me'ilah* itself de-sanctifies the object. Once one has been *mo'el* in a *hekdesh* object, the object loses its *kedushah*, and subsequent use of that object — even by another person, even immediately afterward — does not constitute another act of *me'ilah*. The *kedushah* has been violated and, in a sense, displaced.
 
-### Rabbi's Position
+This makes conceptual sense. *Me'ilah* is about trespass, about diverting. If the *kedushah* is understood, at least for most *hekdesh* objects, as a function of *hekdesh*'s ownership, then once that ownership-identity has been violated through *me'ilah*, it naturally dissipates. Such objects — things that *hekdesh* simply owns, things designated for *bedek habayis* or general temple maintenance — are, in their normal existence, candidates for being sold: their *kedushah* is easily transferable and easily removed through the ordinary mechanics of *hekdesh* transactions. Given that their *kedushah* identity is not deeply fixed, a violation through *me'ilah* dislodges it.
 
-Rabbi Yehuda HaNasi (*Rebbi*) formulates the rule differently: *kol davar she'ein lo pidyon, yeish me'ilah achar me'ilah* — anything that cannot be redeemed retains the possibility of repeated *me'ilah*. This is functionally equivalent to the Tanna Kamma's formulation in the case of *korbanos*, since unblemished *korbanos* cannot be redeemed. But Rebbi's formulation is cast in terms of redeemability rather than in terms of the specific category of *behemah* or *kli sharet*.
+### Kedushat Haguf
 
-The Gemara asks: is this not simply the same as what the Tanna Kamma said? Rava answers that the practical debate between Rebbi and the Tanna Kamma concerns *etzim* — wood offerings. A *braisa* records that if one declares *harei alai etzim* — "I hereby undertake to bring wood to the *Beit Hamikdash*" — the minimum fulfillment is two logs. The Tanna Kamma treats this as a donation of fuel for the fire (*bedek habayis* in function), subject to the normal rules of *hekdesh* property. Rebbi, however, holds that donated wood constitutes a *korban* in its own right — *etzim korban hein* — and must accordingly be salted (as all *korbanos* require salt) and must undergo *hagasha* (touching to the *mizbeach*), by analogy to a *minchah* offering. The Gemara adds that according to Rebbi, wood must be burned on wood, and must undergo *kemitzah* — it is treated in all respects like a *minchah*.
+The exception is *behemah* and *kli sharet* because these possess *kedushat haguf* — intrinsic sanctity. An unblemished *korban* animal is not simply owned by *hekdesh*; it *is* a *korban*. Its identity is sacred. A *kli sharet* is not simply an asset of the temple treasury; it is a sacred vessel, identified as such by its very nature and function. These objects cannot normally be redeemed or transferred out of the sacred domain (absent a *mum* in the case of an animal). Because their *kedushah* is so bound up with their identity, it does not dissolve even when violated. The trespass of *me'ilah* cannot dislodge a *kedushah* that is structural and intrinsic.
 
-This classification of wood as a *korban* is the operative issue. According to the Tanna Kamma, donated wood is *bedek habayis* — ordinary *hekdesh* property — and thus *ein me'ilah achar me'ilah*; once violated, its *kedushah* lapses. According to Rebbi, wood is a *korban* — *ein lo pidyon* — and thus *yeish me'ilah achar me'ilah*.
+The contrast is with *kedushat bizyan*, a kind of proprietary or monetary *kedushah* that attaches to objects by virtue of their being owned by or designated for *hekdesh*. Objects with only *kedushat bizyan* lose their *kedushah* upon *me'ilah*. Objects with *kedushat haguf* retain it.
 
-### Kli Sharet Kal VaChomer
+Tosafot raises a fascinating question about *kelei sharet* specifically: can a *kli sharet* be sold? Can the *Beit HaMikdash* "deaccession" a sacred vessel — remove it from use and sell it? If so, its *kedushah* is in principle transferable and removable, which might suggest it shares more in common with ordinary *hekdesh* property than with *korban* animals, and therefore might lose its *kedushah* through *me'ilah*. The first opinion in the *braisa* takes precisely this position.
 
-Rebbi Nechemia, whose view is reflected in our Mishnah, extends the exception to include *kli sharet* as well as *behemah*. Since the Tanna Kamma derives the rule from the verse *b'eil ha'asham* — which speaks only of animals — he limits the exception accordingly. Rebbi Nechemia counters that *kli sharet* can be derived independently by means of a *kal va'chomer*: if the *kli sharet* has the power to confer *kedushah* upon objects placed within it — water placed in a *kli sharet* for the water libation acquires *kedushat haguf* — then it certainly has the power to retain its own *kedushah* when that *kedushah* is violated. The greater capacity (bestowing *kedushah* on others) implies the lesser (preserving its own). There is accordingly no need for an explicit verse; the *kal va'chomer* suffices.
+Rabbi Nechemiah's response, however, does not dispute that *kelei sharet* might in principle be redeemable. He argues instead from a *kal v'chomer*: since *kelei sharet* have the power to bestow *kedushat haguf* upon their contents — water poured into a temple vessel for the water libation on *Sukkot* acquires *kedushat haguf* — it follows *kal v'chomer* that *kelei sharet* should have at least enough sanctity to retain their own *kedushah* even after *me'ilah*. If it can sanctify others, surely it can preserve itself.
 
-### Tosafot on Kli Sharet
+### Multiple Me'ilah Examples
 
-Tosafot raises a fascinating question prompted by this *kal va'chomer*: can a *kli sharet* be redeemed and sold? The premise of Rebbi Nechemia's argument, as Tosafot reads it, does not require that *kli sharet* be inherently unredeemable. Tosafot suggests that the Tanna Kamma actually agrees that *kli sharet* could in principle be sold — its *kedushah* is not so permanently fixed as to be beyond the *Beit Hamikdash*'s ability to transfer or sell it. On this reading, the Tanna Kamma's exclusion of *kli sharet* from the exception is because, since it can theoretically be redeemed, its *kedushah* is insufficiently "sticky" to survive *me'ilah*.
-
-Rebbi Nechemia's response is not to contest the redeemability of *kli sharet* but to insist that the *kal va'chomer* provides an independent ground: regardless of what the *Beit Hamikdash* might choose to do with the vessel, the vessel's inherent power to instill *kedushah* in other objects demonstrates that its own *kedushah* is of a qualitatively superior order — and therefore survives even a violation. The debate between the Tanna Kamma and Rebbi Nechemia is thus, on Tosafot's reading, not about whether *kli sharet* is technically redeemable, but about whether the *kal va'chomer* is sufficient to elevate *kli sharet* into the category of objects whose *kedushah* persists through *me'ilah*.
+The *Mishnah* provides examples: *rachav agabei behema, uva chaveiro v'rachav* — one rode on a *korban* animal, then another came and rode on it, then another — *kulan ma'alu*, they all committed *me'ilah*, because the animal's *kedushah* persists through each violation. Similarly, *shasa b'khos shel zahav, uva chaveiro v'shasa* — drinking from a golden *kli sharet*, followed by others doing the same — *kulan ma'alu*. And: *talash min hachatas, uva chaveiro v'talash* — one pulled wool from a *chatat*, then another did the same — *kulan ma'alu*, all committed *me'ilah*.
 
 ---
 
-## Wood Offering Debate
+## Rabbi's View
+
+### No Pidyon Rule
+
+Rabbi's formulation of the same principle reads: *kol davar she'ein lo pidyon* — anything that cannot be redeemed — *yeish me'ilah achar me'ilah*, is subject to repeated *me'ilah*. Rather than specifying *behemah* and *kelei sharet* by name, Rabbi identifies the structural characteristic: objects that cannot be redeemed retain their *kedushah* through *me'ilah*. Objects that can be redeemed — ordinary *hekdesh* property — do not.
+
+This formulation raises the question of *kelei sharet* once again, and whether they can be redeemed. If they can, Rabbi's formulation would seem to exclude them from *me'ilah achar me'ilah*, which might align with the first *tanna*'s position that only *behemah* is subject to repeated *me'ilah*.
+
+One might also ask whether this principle would extend to birds offered as *korbanot*. A bird with a missing limb (*mechussar eiver*) that cannot be offered as a *korban* might nonetheless have no process of *pidyon* available to it. If so, Rabbi's formulation would seem to include it in the category of *me'ilah achar me'ilah*, even though it falls outside the category of an ordinary *behemah*. That conclusion appears correct under Rabbi's logic.
+
+It is also worth noting the connection between this discussion and the two conceptual tracks of *me'ilah*. The principle that *kedushah* can be dislodged through *me'ilah* makes intuitive sense if one thinks of *me'ilah* primarily as an act of stealing — of asserting rival ownership over *hekdesh* property. When the *kedushah* is primarily about ownership, a direct challenge to that ownership through theft or diversion can unseat it. It is less obvious why deriving *hana'ah* — merely enjoying the object without asserting ownership — should dislodge the *kedushah*. The *Mishnah* does not distinguish; it treats all forms of *me'ilah* as capable of dislodging *kedushah* unless we are dealing with *behemah* or *kelei sharet*.
+
+Tosafot cites a *Tosefta* that does in fact draw this distinction: it suggests that the *me'ilah* of *hana'ah* alone — benefit without an assertion of ownership — does not dislodge *kedushah* from any object, and only the *me'ilah* of taking possession does so. This is conceptually compelling. Our *Mishnah*, however, does not appear to draw that line, and the examples of riding an animal and drinking from a cup, which are clearly cases of *hana'ah*, are stated to cause *kedushah* to persist — not because *hana'ah* failed to dislodge it, but because *behemah* and *kelei sharet* are structurally resistant to dislodgment regardless of the type of *me'ilah*.
+
+---
+
+## Gemara Challenges
 
 ### Wood as Korban
 
-The Gemara returns to clarify the nature of the debate between Rebbi and the Tanna Kamma. As noted above, Rava locates the operative disagreement in the case of donated wood. The Tanna Kamma classifies such wood as *bedek habayis* — ordinary Temple maintenance property. Rebbi, by contrast, holds that wood donated in the form of a declared offering is a *korban* in its full halakhic sense.
+The Gemara asks: is not Rabbi's formulation (*kol davar she'ein lo pidyon*) simply the same as the *Mishnah*'s rule (*behemah v'kelei sharet*)? What new case would they actually disagree about? *Amar Rava: ika beinaihu etzim* — the case of wood separates them.
 
-This is a conceptually striking position. The Torah's *parsha* of offerings does not explicitly mention wood as a category of independent *korban*. Rebbi appears to derive the possibility of wood as a *korban* from the broader principle we learn from *minchah*: that *hekdesh* can receive offerings of inanimate objects, and that this category is not exhaustively enumerated, potentially encompassing wood as well. The implication is radical — that the *mizbeach* can in principle receive offerings beyond those specified in the *pesukim* — though we do not develop this further within our *sugya*.
+A *braisa* is cited: if one declares "I am obligating myself to provide wood" to the *Beit HaMikdash*, the *tanna kamma* holds that one must provide no fewer than two logs, which are treated as a contribution to *bedek habayis* — regular temple maintenance. Rabbi, however, holds that donated wood constitutes a *korban* — *etzim korban hen* — and as such requires salt (as all *korbanot* require salt) and *hagasha* (touching to the *mizbeach*), analogous to a *mincha* offering. The implication is that Rabbi understands wood offerings as a type of *mincha*, an inanimate offering, and the category of *mincha* is not limited to grain — a remarkable ruling that the *mizbeach* can receive a wood offering as an actual *korban*.
 
-### Wood Preparation
+Rava further draws out the implication: *ledivrei Rebbe etzim te'unin etzim* — if you offer wood as a *korban*, it must be burned on wood, raising the question of who provides that wood, and so on. Rav Papa adds: *ledivrei Rebbe etzim t'richin kemitza* — the wood must be processed to allow *kemitza* (the handful-measure used in *mincha* offerings) to be performed on it.
 
-The practical consequences of Rebbi's position extend to the manner in which donated wood must be prepared. Since wood is a *korban*, it requires salt (*melach*), as do all offerings brought on the *mizbeach*. It also requires *hagasha* — the touching of the offering to the *mizbeach* that is prescribed for *minchah* — since wood, in Rebbi's view, belongs to the *minchah* family of offerings. Rava adds that according to Rebbi, wood must itself be burned on wood, and Rav Papa adds that it requires *kemitzah*, the prescribed scooping by the *kohen* that is the defining act of *minchah* preparation. In short, donated wood under Rebbi's view is subject to the full complement of *minchah* requirements, and it is this classification as a genuine *korban* that makes it *ein lo pidyon* — unredeemable — and therefore subject to *me'ilah achar me'ilah*.
+The halakhic relevance to the *me'ilah* debate is this: the *tanna kamma* regards donated wood as *bedek habayis*, which has *pidyon* — it can be redeemed or sold — and therefore *ein me'ilah achar me'ilah* applies to it. Rabbi regards it as a *korban*, which has no *pidyon* while *tamim*, and therefore *yesh me'ilah achar me'ilah* applies. The debate between Rabbi and the *tanna kamma* in the *me'ilah* *Mishnah* is thus not a debate about the parameters of *me'ilah* itself, but about the classification of this specific type of donation. Rav Ashi's resolution: their debate concerns the category of wood, not the structure of *me'ilah*.
 
----
+### Dead Animal Redemption
 
-## Dead Animals Pidyon
+Rav Papa offers an alternative resolution. The practical case that distinguishes Rabbi from the *tanna kamma* involves *kodshei mizbeach* animals that began as *temimim*, subsequently acquired a *mum*, and then were slaughtered (or died) before being redeemed. A *braisa* records the debate: Rabbi holds *yikaveru* — they must be buried — while the *chachamim* hold *yifdu* — they can be redeemed.
 
-### Blemished Death Case
+The underlying question is whether the process of redemption (*pidyon*) for a *korban* with a *mum* requires the animal to be alive — *ha'amada v'ha'aracha* — or whether a dead animal with a *mum* can nonetheless be redeemed. Rabbi holds that redemption requires the animal to be alive; once it has died, it can no longer undergo *pidyon*, and therefore it falls into the category of *davar she'ein lo pidyon*. Consequently, according to Rabbi, even this dead animal is subject to *me'ilah achar me'ilah*. The *chachamim* hold that a dead animal with a *mum* can still be redeemed — its monetary value can be assessed and the funds transferred to *hekdesh* — and therefore it belongs to the category of things that do have *pidyon*, its *kedushah* dissipates upon *me'ilah*, and *me'ilah achar me'ilah* does not apply.
 
-Rav Papa proposes an alternative locus of dispute between Rebbi and the Tanna Kamma: *kodshei mizbeach temimin venasu ba'alei mumim va'avar veshachtan* — a *korban* that started as unblemished, became a *ba'al mum*, and then was slaughtered before it could be redeemed. (One could equally posit the case where the animal simply died.) This scenario generates a specific halakhic question.
-
-### Rabbi: Need Alive
-
-Rebbi holds *yikaveru* — the carcass must be buried. His reasoning is that *pidyon* of a *ba'al mum* requires that the animal be alive at the time of redemption (*ha'amada ve'ha'aracha*, the requirement of presenting the animal standing for assessment). Since the animal is now dead, it cannot be redeemed. And because it cannot be redeemed — it is *ein lo pidyon* — its *kedushah* remains fully intact. Therefore, should someone derive benefit from the carcass, they commit *me'ilah*, and can commit *me'ilah* again thereafter, since the *kedushah* never lapses.
-
-### Chachamim: Can Redeem De…
-
-The *chachamim* disagree: *yifdu* — the dead animal can be redeemed. They hold that the living requirement for *pidyon* does not apply, and therefore the animal, though dead, retains the category of something redeemable (*yeish lo pidyon*). Because redemption remains conceptually available, the *kedushah* is not of the maximally fixed variety, and therefore if *me'ilah* is committed, the *kedushah* lapses — *ein me'ilah achar me'ilah*.
-
-The dispute thus maps onto the structural distinction we have been tracing throughout: objects that are inherently unredeemable retain *kedushah* through *me'ilah*, while objects for which redemption is a live option do not. Rebbi and the *chachamim* disagree about whether a dead *ba'al mum* falls into the first or second category — a disagreement that ultimately turns on whether the requirement of living presentation for *pidyon* is constitutive of the redemption process or merely procedural.
+On this reading, the debate between Rabbi and the *tanna kamma* in the *Mishnah* is once again not a dispute about the abstract principles of *me'ilah*, but about a specific question of *pidyon*: can a dead animal that bore a *mum* be redeemed? That question determines whether such an animal's *kedushah* is sticky enough to permit repeated *me'ilah* or not.

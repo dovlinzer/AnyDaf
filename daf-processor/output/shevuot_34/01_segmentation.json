@@ -1,0 +1,604 @@
+{
+  "masechta": "Shevuot",
+  "daf": 34,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Overview of the Braisah: Multiple Approaches to Proving Shvuas Ha'eidus Applies Only to Monetary Matters",
+      "display_title": "Braisah Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction and Structure of the Braisah",
+          "display_title": "Intro & Structure",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "First Approach: Linking via O's (Or's) and Distinguishing Characteristics",
+          "display_title": "O's Approach",
+          "timestamp": "00:47"
+        },
+        {
+          "title": "Second Approach: Rabbi Akiva's Distinction via Achat Me'eleh",
+          "display_title": "Rabbi Akiva",
+          "timestamp": "00:52"
+        },
+        {
+          "title": "Third Approach: Rabbi Yose HaGlili's Focus on Types of Testimony",
+          "display_title": "Rabbi Yose HaGlili",
+          "timestamp": "00:58"
+        },
+        {
+          "title": "Fourth Approach: Rabbi Shimon's Kal Vachomer and Gezeirah Shavah",
+          "display_title": "Rabbi Shimon",
+          "timestamp": "01:18"
+        }
+      ]
+    },
+    {
+      "title": "Analysis of the Kal Vachomer Approach and Why It Initially Fails",
+      "display_title": "Kal Vachomer Fails",
+      "timestamp": "02:26",
+      "micro_segments": [
+        {
+          "title": "Rabbi Shimon's Kal Vachomer: Broader Scope of Pikadon Implies Narrower Scope of Edus",
+          "display_title": "Kal Vachomer Setup",
+          "timestamp": "02:26"
+        },
+        {
+          "title": "Braisah's Objection: Ways Pikadon is Narrower, Making Kal Vachomer Invalid",
+          "display_title": "Pikadon Narrower",
+          "timestamp": "02:37"
+        },
+        {
+          "title": "Counter-Objection: Ways Edus is Narrower, Balancing the Comparison",
+          "display_title": "Edus Narrower",
+          "timestamp": "03:55"
+        },
+        {
+          "title": "Conclusion: Kal Vachomer Cannot Work; Gezeirah Shavah Required",
+          "display_title": "Need Gezeirah Shavah",
+          "timestamp": "04:04"
+        }
+      ]
+    },
+    {
+      "title": "Gezeirah Shavah via Nefesh Ki Techeta and Textual Linkage",
+      "display_title": "Gezeirah Shavah",
+      "timestamp": "04:10",
+      "micro_segments": [
+        {
+          "title": "The Word Techeta: Connecting Shvuas Ha'eidus and Shvuas Hapikadon",
+          "display_title": "Techeta Link",
+          "timestamp": "04:10"
+        },
+        {
+          "title": "Two Biblical Verses: Leviticus 5:1 and 5:21 Parallels",
+          "display_title": "Two Verses",
+          "timestamp": "04:23"
+        }
+      ]
+    },
+    {
+      "title": "Rabba Bar Ulla's Challenge: Why Not Link to Shvuas Bitui Instead?",
+      "display_title": "Why Not Bitui?",
+      "timestamp": "06:28",
+      "micro_segments": [
+        {
+          "title": "Rabba Bar Ulla Questions the O's Linking to Shvuas Bitui",
+          "display_title": "Challenge to O's",
+          "timestamp": "06:28"
+        },
+        {
+          "title": "Gemara's Response: Pikadon Has More Points of Comparison",
+          "display_title": "More Comparisons",
+          "timestamp": "07:01"
+        },
+        {
+          "title": "Competing Claims: Bitui (Chatat) vs. Pikadon (Meila) Comparisons",
+          "display_title": "Bitui vs Pikadon",
+          "timestamp": "08:14"
+        },
+        {
+          "title": "Resolution: Four Points Favor Pikadon; Thus Learn from Pikadon",
+          "display_title": "Pikadon Wins",
+          "timestamp": "09:16"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Akiva's Distinction: Not All Monetary Cases Require Oath",
+      "display_title": "Rabbi Akiva's Limits",
+      "timestamp": "12:45",
+      "micro_segments": [
+        {
+          "title": "Rabbi Akiva's Reading of Achat Me'eleh: Some Money Exempt",
+          "display_title": "Akiva's Position",
+          "timestamp": "12:45"
+        },
+        {
+          "title": "Possible Debate: Land-Related Testimony vs. Knas Penalties",
+          "display_title": "Land or Knas?",
+          "timestamp": "14:46"
+        },
+        {
+          "title": "Gemara's Proposal: Edei Karka as the Distinguishing Factor",
+          "display_title": "Edei Karka",
+          "timestamp": "16:28"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yose HaGlili's Approach: Testimony Types and Monetary Specificity",
+      "display_title": "Rabbi Yose HaGlili",
+      "timestamp": "18:09",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yose HaGlili's Distinction: Yedia Without Reiah and Reiah Without Yedia",
+          "display_title": "Yedia/Reiah Types",
+          "timestamp": "18:09"
+        },
+        {
+          "title": "Examples in Monetary Cases: Admission vs. Seeing Money Exchanged",
+          "display_title": "Monetary Examples",
+          "timestamp": "18:29"
+        },
+        {
+          "title": "Why These Types Don't Work in Capital Cases",
+          "display_title": "Not Capital",
+          "timestamp": "20:01"
+        }
+      ]
+    },
+    {
+      "title": "Does Yedia Without Reiah Work in Capital Cases? Rav Acha's Camel Case",
+      "display_title": "Rav Acha's Camel",
+      "timestamp": "21:06",
+      "micro_segments": [
+        {
+          "title": "Rav Acha's Braisah: Witnessing a Camel's Wild Behavior and a Dead Camel",
+          "display_title": "Rav Acha",
+          "timestamp": "21:06"
+        },
+        {
+          "title": "Potential Application to Capital Crime: Rabbi Shimon ben Shatach's Story",
+          "display_title": "Rabbi Shimon ben Shatach",
+          "timestamp": "22:30"
+        },
+        {
+          "title": "Gemara's Concession and Restriction: Not Direct Seeing, But Knowing Still Doesn't Work for Nefashot Fully",
+          "display_title": "Concession/Restriction",
+          "timestamp": "24:30"
+        }
+      ]
+    },
+    {
+      "title": "The Difference Between Mamonot and Nefashot: Seeing Without Knowing",
+      "display_title": "Mamonot vs Nefashot",
+      "timestamp": "30:26",
+      "micro_segments": [
+        {
+          "title": "Why Seeing Without Knowing Doesn't Suffice in Nefashot: Missing Critical Facts",
+          "display_title": "Critical Facts",
+          "timestamp": "30:26"
+        },
+        {
+          "title": "Inference From Rabbi Yose HaGlili: Does Excluding Knas Follow?",
+          "display_title": "Knas Inference",
+          "timestamp": "34:02"
+        },
+        {
+          "title": "Nechris vs. Bas Yisrael; Besula vs. Be'ula: Examples of Required Knowledge",
+          "display_title": "Examples",
+          "timestamp": "36:20"
+        }
+      ]
+    },
+    {
+      "title": "Practical Scenarios: Testing Seeing Without Knowing in Monetary Cases",
+      "display_title": "Monetary Scenarios",
+      "timestamp": "38:01",
+      "micro_segments": [
+        {
+          "title": "Rav Yehuda's Hypothetical: Counting Money by a Pillar, Witnesses Outside",
+          "display_title": "Pillar Scenario",
+          "timestamp": "38:01"
+        },
+        {
+          "title": "Rav Hamnuna's Analysis: Does Seeing Help If Michael Denies the Event Ever Occurred?",
+          "display_title": "Hamnuna's Analysis",
+          "timestamp": "39:09"
+        },
+        {
+          "title": "If Michael Admits the Money Was Exchanged: What Good Are Witnesses?",
+          "display_title": "Michael Admits",
+          "timestamp": "39:59"
+        }
+      ]
+    },
+    {
+      "title": "Establishing Credibility via Contradicting a Denier's False Claim",
+      "display_title": "Credibility Tests",
+      "timestamp": "40:48",
+      "micro_segments": [
+        {
+          "title": "Case: Michael Denies Being at a Specific Location; Witnesses Place Him There",
+          "display_title": "Location Case",
+          "timestamp": "40:48"
+        },
+        {
+          "title": "Rav Nachman's Distinction: Does the Denier Make an Absolute Denial?",
+          "display_title": "Absolute Denial",
+          "timestamp": "41:53"
+        },
+        {
+          "title": "Rava's Objection: Irrelevant Details That a Person Wouldn't Necessarily Remember",
+          "display_title": "Irrelevant Details",
+          "timestamp": "42:36"
+        }
+      ]
+    },
+    {
+      "title": "Rav Shiman's Kal Vachomer: Direct Comparison Without Intermediate Points",
+      "display_title": "Rav Shiman's Kal",
+      "timestamp": "45:54",
+      "micro_segments": [
+        {
+          "title": "Rav Shiman's Simple Kal Vachomer: Pikadon Broader, Yet Limited to Money",
+          "display_title": "Rav Shiman Setup",
+          "timestamp": "45:54"
+        },
+        {
+          "title": "Mocking in Eretz Yisrael: Why Mock a Simple Kal Vachomer?",
+          "display_title": "Mocking",
+          "timestamp": "46:11"
+        },
+        {
+          "title": "Question About Self-Imposed Oath: How Does Rav Shiman Know Edus Applies to Both?",
+          "display_title": "Self-Imposed Oath",
+          "timestamp": "47:53"
+        }
+      ]
+    },
+    {
+      "title": "Resolving Mocking via Rav Huna: Comparing to Meilah, Not Pikadon Alone",
+      "display_title": "Meilah Comparison",
+      "timestamp": "49:17",
+      "micro_segments": [
+        {
+          "title": "Rav Huna's Explanation: Pikadon's Narrower Scope in Mezid vs. Shogeg",
+          "display_title": "Mezid/Shogeg",
+          "timestamp": "49:17"
+        },
+        {
+          "title": "Rav Huna's Points of Similarity to Meilah: Word Meilah, Benefit, Fixed Korban",
+          "display_title": "Meilah Links",
+          "timestamp": "52:15"
+        },
+        {
+          "title": "Rav Pappa and Rav Huna Bar Rav Yehoshua: More Points to Meilah Than to Edus",
+          "display_title": "More Points",
+          "timestamp": "54:27"
+        }
+      ]
+    },
+    {
+      "title": "Why Mock?: Distinguishing When Gezeirah Shavah Overrides Kal Vachomer Distinctions",
+      "display_title": "Gezeirah Override",
+      "timestamp": "54:52",
+      "micro_segments": [
+        {
+          "title": "After Gezeirah Shavah Is Accepted, Do Prior Distinctions Matter?",
+          "display_title": "Gezeirah Impact",
+          "timestamp": "54:52"
+        },
+        {
+          "title": "Rabbi Shimon Insists: Even With Gezeirah Shavah, Shogeg-Only Restriction Remains",
+          "display_title": "Shimon's Stand",
+          "timestamp": "56:07"
+        },
+        {
+          "title": "Rava's Position: Explaining Rabbi Shimon's Reliance on Meilah for Shogeg Limit",
+          "display_title": "Rava Explains",
+          "timestamp": "56:15"
+        },
+        {
+          "title": "Final Resolution: Absence of Ne'elam in Edus Signals Mezid Applies; Meilah Word Limits Pikadon to Shogeg",
+          "display_title": "Final Resolution",
+          "timestamp": "58:24"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Shvuas Ha'eidus (Oath of Testimony)",
+      "timestamps": [
+        "00:09",
+        "01:03",
+        "02:01",
+        "02:26",
+        "04:10",
+        "12:45",
+        "18:09",
+        "40:48"
+      ]
+    },
+    {
+      "term": "Shvuas Hapikadon (Oath of Deposit)",
+      "timestamps": [
+        "00:21",
+        "02:26",
+        "02:37",
+        "03:55",
+        "04:48",
+        "07:01",
+        "08:14",
+        "45:54"
+      ]
+    },
+    {
+      "term": "Shvuas Bitui (Oath of Expression/Future Action)",
+      "timestamps": [
+        "06:06",
+        "06:17",
+        "07:01",
+        "08:14"
+      ]
+    },
+    {
+      "term": "Meilah (Trespass Against God/Consecrated Property)",
+      "timestamps": [
+        "09:16",
+        "52:15",
+        "54:27",
+        "56:07",
+        "58:24"
+      ]
+    },
+    {
+      "term": "Monetary matters vs. Capital crimes (Mamonot vs. Nefashot)",
+      "timestamps": [
+        "01:03",
+        "21:06",
+        "30:26",
+        "36:20",
+        "38:01"
+      ]
+    },
+    {
+      "term": "Kal Vachomer (Fortiori Argument)",
+      "timestamps": [
+        "01:21",
+        "02:26",
+        "04:04",
+        "04:12",
+        "45:54",
+        "54:52"
+      ]
+    },
+    {
+      "term": "Gezeirah Shavah (Verbal Analogy)",
+      "timestamps": [
+        "04:10",
+        "04:12",
+        "04:23",
+        "54:52",
+        "56:07",
+        "58:24"
+      ]
+    },
+    {
+      "term": "O'in (Or's/Disjunctive Particles)",
+      "timestamps": [
+        "00:49",
+        "04:54",
+        "06:06",
+        "06:46",
+        "08:00"
+      ]
+    },
+    {
+      "term": "Achat Me'eleh (One of These [Cases])",
+      "timestamps": [
+        "00:52",
+        "12:50",
+        "13:06"
+      ]
+    },
+    {
+      "term": "Yedia Without Reiah (Knowing Without Seeing)",
+      "timestamps": [
+        "18:29",
+        "20:04",
+        "21:06",
+        "30:26",
+        "35:18"
+      ]
+    },
+    {
+      "term": "Reiah Without Yedia (Seeing Without Knowing)",
+      "timestamps": [
+        "18:34",
+        "30:34",
+        "36:06",
+        "38:01"
+      ]
+    },
+    {
+      "term": "Mezid vs. Shogeg (Willful vs. Unintentional)",
+      "timestamps": [
+        "03:25",
+        "03:37",
+        "25:25",
+        "49:17",
+        "56:07",
+        "58:24"
+      ]
+    },
+    {
+      "term": "Mushba vs. Nishba (Oath Imposed vs. Self-Sworn)",
+      "timestamps": [
+        "02:55",
+        "03:03",
+        "48:07",
+        "48:24"
+      ]
+    },
+    {
+      "term": "Huchzak Kafran (Established as a Denier)",
+      "timestamps": [
+        "39:35",
+        "41:16",
+        "42:08",
+        "44:12"
+      ]
+    },
+    {
+      "term": "Edei Karka (Witnesses About Land)",
+      "timestamps": [
+        "14:48",
+        "16:28",
+        "16:35"
+      ]
+    },
+    {
+      "term": "Edei Knas (Witnesses About Penalties/Fines)",
+      "timestamps": [
+        "14:51",
+        "17:21",
+        "34:09",
+        "36:20"
+      ]
+    },
+    {
+      "term": "Ne'elam (Hidden/Concealed)",
+      "timestamps": [
+        "03:37",
+        "10:29",
+        "29:56",
+        "58:31"
+      ]
+    },
+    {
+      "term": "Chatat Oleh Veyored (Sliding-Scale Sin Offering)",
+      "timestamps": [
+        "08:11",
+        "08:16"
+      ]
+    },
+    {
+      "term": "Rabbi Akiva",
+      "timestamps": [
+        "00:52",
+        "12:45",
+        "13:06",
+        "14:46"
+      ]
+    },
+    {
+      "term": "Rabbi Yose HaGlili",
+      "timestamps": [
+        "00:58",
+        "18:09",
+        "18:20"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon",
+      "timestamps": [
+        "01:18",
+        "04:10",
+        "56:07",
+        "58:24"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer vs. Rabbi Akiva",
+      "timestamps": [
+        "13:58",
+        "14:00",
+        "16:28",
+        "16:40"
+      ]
+    },
+    {
+      "term": "Rav Acha (Camel Case)",
+      "timestamps": [
+        "21:06",
+        "21:26"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon ben Shatach (Murder Story)",
+      "timestamps": [
+        "22:35",
+        "22:36"
+      ]
+    },
+    {
+      "term": "Rabba Bar Ulla",
+      "timestamps": [
+        "06:28",
+        "06:31"
+      ]
+    },
+    {
+      "term": "Rav Yehuda (Hypothetical with Pillar)",
+      "timestamps": [
+        "38:01",
+        "38:04"
+      ]
+    },
+    {
+      "term": "Rav Hamnuna",
+      "timestamps": [
+        "38:01",
+        "39:09"
+      ]
+    },
+    {
+      "term": "Rav Nachman",
+      "timestamps": [
+        "41:23",
+        "41:53"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "42:36",
+        "42:37"
+      ]
+    },
+    {
+      "term": "Rav Shiman",
+      "timestamps": [
+        "45:54",
+        "45:57"
+      ]
+    },
+    {
+      "term": "Rav Pappa",
+      "timestamps": [
+        "06:06",
+        "19:04",
+        "54:27"
+      ]
+    },
+    {
+      "term": "Rav Huna",
+      "timestamps": [
+        "49:17",
+        "50:17"
+      ]
+    },
+    {
+      "term": "Milta Dela Ramya (Irrelevant Details)",
+      "timestamps": [
+        "42:39",
+        "44:07"
+      ]
+    }
+  ]
+}

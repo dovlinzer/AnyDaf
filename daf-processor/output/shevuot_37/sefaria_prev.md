@@ -1,0 +1,77 @@
+### Shevuot 36b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא אֵיפוֹךְ – אֲפִילּוּ בְּאִיסּוּרָא לֵית לֵיהּ.
+*Translation:* **Rather,** nevertheless, **reverse** the attribution of the opinions in the mishna and say that Rabbi Meir deems the witness exempt from liability for an oath of testimony, as **even in ritual matters,** Rabbi Meir **does not accept** the principle: From a negative statement you can infer a positive statement.
+
+**2.**
+*Hebrew/Aramaic:* מַתְקֵיף לֵיהּ רָבִינָא: וּבְאִיסּוּרָא לֵית לֵיהּ?! אֶלָּא מֵעַתָּה, שְׁתוּיֵי יַיִן וּפְרוּעֵי רֹאשׁ – דִּבְמִיתָה; הָכִי נָמֵי דְּלֵית לֵיהּ לְרַבִּי מֵאִיר?! וְהָתְנַן: אֵלּוּ שֶׁבְּמִיתָה – שְׁתוּיֵי יַיִן וּפְרוּעֵי רֹאשׁ!
+*Translation:* **Ravina objects to this: And in ritual matters,** does Rabbi Meir **not accept** the principle? **But if that is so,** with regard to the *halakha* that priests who perform the Temple service while **intoxicated with wine, and** priests who perform the Temple service with **overgrown** hair on their **head, who,** based on this principle, are liable to receive **death** at the hand of Heaven, **so too does Rabbi Meir not accept** this principle? **But didn’t we learn** in a *baraita*: **And these** are they **who** are liable **to** receive **death** at the hand of Heaven: Priests who perform the Temple service while **intoxicated with wine and** priests who perform the Temple service with **overgrown** hair on their **head,** and Rabbi Meir does not disagree with that ruling?
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא לְעוֹלָם תֵּיפוֹךְ; כִּי לֵית לֵיהּ – בְּמָמוֹנָא, בְּאִיסּוּרָא אִית לֵיהּ; וְשָׁאנֵי סוֹטָה דְּאִיסּוּרָא דְּאִית בֵּיהּ מָמוֹנָא הוּא.
+*Translation:* **Rather, actually reverse** the attribution of the opinions in the mishna and say that Rabbi Meir deems the witness exempt from liability for an oath of testimony. **When** Rabbi Meir **does not accept** that principle, it is only **in** cases involving **monetary matters; but in** cases involving **ritual matters, he accepts** the principle. That is the reason he does not dispute the *halakha* in the *baraita* with regard to a priest intoxicated with wine or with overgrown hair on his head. **And** the reason that he does not accept the principle: From a negative statement you can infer a positive statement, in the case of *sota* is that ***sota* is different because it is a ritual matter in which there are** ramifications involving **monetary matters,** i.e., payment of the marriage contract. The same is true with regard to an oath of testimony in the mishna; although it is a ritual matter, it is a ritual matter with ramifications involving monetary matters.
+
+**4.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ שְׁבוּעַת הָעֵדוּת
+*Translation:* 
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ שְׁבוּעַת הַפִּקָּדוֹן נוֹהֶגֶת בַּאֲנָשִׁים וּבְנָשִׁים, בִּרְחוֹקִים וּבִקְרוֹבִים, בִּכְשֵׁרִים וּבִפְסוּלִים;
+*Translation:* MISHNA: One who takes a false oath denying that he is in possession of an item that another deposited with him is liable to return the item with an additional one-fifth of its value and to bring a guilt-offering (see Leviticus 5:20–26). The *halakhot* of **an oath on a deposit apply to men and to women, to non-relatives and to relatives,** i.e., even if the owner of the deposit and the purported bailee are related, **to** those **fit** to serve as witnesses **and to** those **disqualified** from doing so.
+
+**6.**
+*Hebrew/Aramaic:* בִּפְנֵי בֵּית דִּין וְשֶׁלֹּא בִּפְנֵי בֵּית דִּין – מִפִּי עַצְמוֹ; וּמִפִּי אֲחֵרִים – אֵינוֹ חַיָּיב עַד שֶׁיִּכְפְּרֶנּוּ בְּבֵית דִּין. דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* These *halakhot* apply when the oath is taken **in the presence of a court and** when taken **not in the presence of a court,** as long as the oath is taken **on his own,** i.e., stated by the defendant himself. **But** if the oath is administered **by others,** he is **not liable unless he denies** the claim **in court;** this is **the statement of Rabbi Meir.**
+
+**7.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: בֵּין מִפִּי עַצְמוֹ בֵּין מִפִּי אֲחֵרִים – כֵּיוָן שֶׁכָּפַר בּוֹ חַיָּיב.
+*Translation:* **And the Rabbis say: Both** when the defendant takes an oath **on his own and** when the oath is administered **by others, once** he has falsely **denied** the claim against him, he is **liable** to bring a guilt-offering and to pay restitution and an additional one-fifth, even if the oath was not administered in the presence of a court.
+
+**8.**
+*Hebrew/Aramaic:* וְחַיָּיב עַל זְדוֹן הַשְּׁבוּעָה, וְעַל שִׁגְגָתָהּ עִם זְדוֹן הַפִּקָּדוֹן; וְאֵינוֹ חַיָּיב עַל שִׁגְגָתָהּ גְּרֵידְתָּא. וּמָה חַיָּיב עַל זְדוֹנָהּ? אָשָׁם בְּכֶסֶף שְׁקָלִים.
+*Translation:* **And** one is **liable** to bring an offering **for intentionally** taking a false **oath** on a deposit **and for unwittingly** taking a false oath about the **intentional** misappropriation of **the deposit,** i.e., if one knowingly took a false oath but was unaware that he is liable to bring an offering for taking the oath. **But he is not liable for unwittingly** taking a false oath **by itself,** where he mistakenly thought that he did not owe anything. **And what is he liable for** when he **intentionally** takes a false oath? He must bring **a guilt-offering worth** at least two **silver shekels.**
+
+**9.**
+*Hebrew/Aramaic:* שְׁבוּעַת הַפִּקָּדוֹן כֵּיצַד? אָמַר לוֹ: ״תֵּן לִי פִּקְדוֹנִי שֶׁיֵּשׁ לִי בְּיָדְךָ״, ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי״; אוֹ שֶׁאָמַר לוֹ: ״אֵין לְךָ בְּיָדִי״, ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – הֲרֵי זֶה חַיָּיב.
+*Translation:* The mishna continues: **What** is the case of **an oath on a deposit?** It is where the claimant **said to** the defendant: **Give me my deposit, which is in your possession,** and the defendant replied: On my **oath nothing** of **yours** is **in my possession; or** the defendant **said to him: Nothing** of **yours** is **in my possession,** the claimant responded: **I administer an oath to you, and** the defendant **said: Amen.** In either case **this** defendant is **liable** to bring a guilt-offering if he lied.
+
+**10.**
+*Hebrew/Aramaic:* הִשְׁבִּיעַ עָלָיו חָמֵשׁ פְּעָמִים, בֵּין בִּפְנֵי בֵּית דִּין וּבֵין שֶׁלֹּא בִּפְנֵי בֵּית דִּין, וְכָפַר – חַיָּיב עַל כׇּל אַחַת וְאַחַת. אָמַר רַבִּי שִׁמְעוֹן: מָה טַעַם? מִפְּנֵי שֶׁיָּכוֹל לַחֲזוֹר וּלְהוֹדוֹת.
+*Translation:* If the claimant **administered an oath to him five times, whether in the presence of a court or not in the presence of a court, and** the defendant falsely **denied** each claim, he is **liable** to bring a guilt-offering **for each and every** denial. **Rabbi Shimon said: What is the reason?** It is **due to** the fact **that he is able to retract and confess** after each oath and repay the claimant. Since he did not do so, each oath is considered a separate denial of a monetary claim.
+
+**11.**
+*Hebrew/Aramaic:* הָיוּ חֲמִשָּׁה תּוֹבְעִים אוֹתוֹ – אָמְרוּ לוֹ: ״תֵּן לָנוּ פִּקָּדוֹן שֶׁיֵּשׁ לָנוּ בְּיָדְךָ״; ״שְׁבוּעָה שֶׁאֵין לָכֶם בְּיָדִי״ – אֵינוֹ חַיָּיב אֶלָּא אַחַת. ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי, וְלֹא לְךָ וְלֹא לָךְ״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת. רַבִּי אֱלִיעֶזֶר אוֹמֵר: עַד שֶׁיֹּאמַר שְׁבוּעָה בָּאַחֲרוֹנָה. רַבִּי שִׁמְעוֹן אוֹמֵר: עַד שֶׁיֹּאמַר שְׁבוּעָה לְכׇל אֶחָד וְאֶחָד.
+*Translation:* If **five** people **were suing him** and **they said to him: Give us** back **our deposit that is in your possession,** and the defendant says: On my **oath nothing** of **yours** is **in my possession,** he is **liable** for **only one** false oath. But if he responds to each claimant: On my **oath nothing** of **yours** is **in my possession, and nothing** of **yours, and nothing** of **yours,** he is **liable for** his oath concerning **each and every** claim that he denied. **Rabbi Eliezer says:** He is not liable for his oath concerning each claim **unless he says:** On my **oath, at the end** of the denial, i.e., he says: Nothing of yours is in my possession, and nothing of yours, on my oath, so that it is clear that he is taking an oath to each one. **Rabbi Shimon says:** He is not liable for his oath concerning each claim **unless he says:** On my **oath, to each and every** claimant, i.e., he says: On my oath nothing of yours is in my possession, and on my oath nothing of yours, to each claimant separately.
+
+**12.**
+*Hebrew/Aramaic:* ״תֵּן לִי פִּקָּדוֹן וּתְשׂוּמֶת יָד גָּזֵל וַאֲבֵידָה שֶׁיֵּשׁ לִי בְּיָדְךָ״; ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי״ – אֵינוֹ חַיָּיב אֶלָּא אַחַת, ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי פִּקָּדוֹן וּתְשׂוּמֶת יָד וְגָזֵל וַאֲבֵידָה״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת.
+*Translation:* In a case where the claimant said: **Give me** back **my deposit, and pledge, stolen item, and lost item that are in your possession,** and the defendant responds: On my **oath nothing** of **yours** is **in my possession,** he is **liable** for **only one** false oath. But if he responds: On my **oath I do not have in my possession your deposit, or pledge, stolen item, or lost item,** he is **liable for** his oath concerning **each and every** claim.
+
+**13.**
+*Hebrew/Aramaic:* ״תֵּן לִי חִטִּין וּשְׂעוֹרִין וְכוּסְּמִין שֶׁיֵּשׁ לִי בְּיָדְךָ״; ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי״ – אֵינוֹ חַיָּיב אֶלָּא אַחַת, ״שְׁבוּעָה שֶׁאֵין לְךָ בְּיָדִי חִטִּין וּשְׂעוֹרִין וְכוּסְּמִין״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת. רַבִּי מֵאִיר אוֹמֵר: אֲפִילּוּ אָמַר ״חִטָּה וּשְׂעוֹרָה וְכוּסֶּמֶת״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת.
+*Translation:* In a case where the claimant said: **Give me** back **my wheat, and barley, and spelt that are in your possession,** if the defendant responds: On my **oath nothing of yours** is **in my possession,** he is **liable** for **only one** false oath. But if he responds: On my **oath I do not have in my possession your wheat, barley, or spelt,** he is **liable for** his oath concerning **each and every** claim. **Rabbi Meir says: Even** if the defendant **says:** On my oath I do not have in my possession your **grain of wheat, or grain of barley, or grain of spelt,** he is **liable for** his oath concerning **each and every** claim.
+
+**14.**
+*Hebrew/Aramaic:* ״אָנַסְתָּ וּפִיתִּיתָ אֶת בִּתִּי״, וְהוּא אוֹמֵר: ״לֹא אָנַסְתִּי וְלֹא פִּיתִּיתִי״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר: ״אָמֵן״ – חַיָּיב. רַבִּי שִׁמְעוֹן פּוֹטֵר, שֶׁאֵינוֹ מְשַׁלֵּם קְנָס עַל פִּי עַצְמוֹ. אָמְרוּ לוֹ: אַף עַל פִּי שֶׁאֵינוֹ מְשַׁלֵּם קְנָס עַל פִּי עַצְמוֹ, מְשַׁלֵּם בּשֶׁת וּפְגָם עַל פִּי עַצְמוֹ.
+*Translation:* The mishna continues: If one accuses another: **You raped or you seduced my daughter, and** the other **says: I did not rape and I did not seduce** your daughter, to which the father replied: **I administer an oath to you, and** the defendant **said: Amen,** the defendant is **liable** to bring a guilt-offering if it is a false oath. **Rabbi Shimon deems** him **exempt, since one does not pay a fine based on his own** admission. Had he confessed he would have been exempt from paying the fine; he is therefore not liable for his denial. The Rabbis **said to him: Even though he does not pay** the **fine based on his own** admission, **he does pay** compensation for **humiliation and** compensation for **degradation** resulting from her being raped or seduced, which are monetary claims and not fines, **based on his own** admission. He is therefore liable for a false oath, as he denied a monetary claim.
+
+**15.**
+*Hebrew/Aramaic:* ״גָּנַבְתָּ אֶת שׁוֹרִי״, וְהוּא אוֹמֵר ״לֹא גָּנַבְתִּי״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – חַיָּיב. ״גָּנַבְתִּי, אֲבָל לֹא טָבַחְתִּי וְלֹא מָכַרְתִּי״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – פָּטוּר.
+*Translation:* Similarly, in a case where one person accuses another: **You stole my ox, and the** defendant **says: I did not steal** your ox, if the claimant replied: **I administer an oath to you, and** the defendant **said: Amen,** he is **liable** to pay for the ox due to the theft and to bring a guilt-offering if he lied, since by his oath he is denying that he owes the value of the ox that he would have to pay if he admitted to stealing it. But in a case where the claimant accuses the defendant of stealing the ox and slaughtering or selling it, and the defendant says: **I stole** the ox, **but I did not slaughter or sell** it, and this is a lie, if the claimant replied: **I administer an oath to you, and he said: Amen,** then the defendant is **exempt** from the fivefold payment for slaughtering or selling another’s ox, since it is a fine.
+
+**16.**
+*Hebrew/Aramaic:* ״הֵמִית שׁוֹרְךָ אֶת שׁוֹרִי״, וְהוּא אוֹמֵר ״לֹא הֵמִית״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – חַיָּיב. ״הֵמִית שׁוֹרְךָ אֶת עַבְדִּי״, וְהוּא אוֹמֵר ״לֹא הֵמִית״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – פָּטוּר.
+*Translation:* If the claimant says: **Your ox killed my ox, and** the defendant lies and **says: It did not kill** your ox, to which the claimant replied: **I administer an oath to you, and he said: Amen,** then he is **liable** for his false oath. But if the claimant says: **Your ox killed my** Canaanite **slave** and you are therefore liable to pay me a fine of thirty shekels, **and he** lies and **says:** It **did not kill** your slave, to which the claimant replied: **I administer an oath to you, and he said: Amen,** then he is **exempt,** because payment for the slave is a fine.
+
+**17.**
+*Hebrew/Aramaic:* אָמַר לוֹ: ״חָבַלְתָּ בִּי וְעָשִׂיתָ בִּי חַבּוּרָה״, וְהוּא אוֹמֵר: ״לֹא חָבַלְתִּי וְלֹא עָשִׂיתִי בְּךָ חַבּוּרָה״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – חַיָּיב. אָמַר לוֹ עַבְדּוֹ: ״הִפַּלְתָּ אֶת שִׁינִּי וְסִימִּיתָ אֶת עֵינִי״, וְהוּא אוֹמֵר: ״לֹא הִפַּלְתִּי וְלֹא סִימִּיתִי״; ״מַשְׁבִּיעֲךָ אֲנִי״, וְאָמַר ״אָמֵן״ – פָּטוּר.
+*Translation:* If the claimant **said to him: You injured me and caused me a wound, and** the defendant **says: I did not injure** you **and I did not cause you a wound,** to which the claimant replies: **I administer an oath to you, and he said: Amen,** he is **liable.** But if **one’s** Canaanite **slave said to him: You knocked out my tooth, or: You blinded my eye,** and you are therefore required to emancipate me, **and he says: I did not knock out** your tooth, **or: I did not blind** your eye, to which the slave replies: **I administer an oath to you, and he said: Amen,** he is **exempt** from bringing a guilt-offering even though he lied, since the obligation to emancipate one’s slave in these cases is a penalty.
+
+**18.**
+*Hebrew/Aramaic:* זֶה הַכְּלָל: כׇּל הַמְשַׁלֵּם עַל פִּי עַצְמוֹ – חַיָּיב, וְשֶׁאֵינוֹ מְשַׁלֵּם עַל פִּי עַצְמוֹ – פָּטוּר.
+*Translation:* **This is the principle:** For **any** claim that the defendant would have to **pay based on his own** admission, he is **liable** to bring a guilt-offering for taking a false oath concerning that claim. **And** for any claim **that** he would **not pay based on his own** admission but would pay only by the testimony of witnesses, he is **exempt** from bringing a guilt-offering for taking a false oath concerning that claim.
+
+**19.**
+*Hebrew/Aramaic:* גְּמָ׳ רַב אַחָא בַּר הוּנָא וְרַב שְׁמוּאֵל בְּרֵיהּ דְּרַבָּה בַּר בַּר חָנָה וְרַב יִצְחָק בְּרֵיהּ דְּרַב יְהוּדָה, תְּנוֹ שְׁבוּעוֹת בֵּי רַבָּה. פְּגַע בְּהוּ רַב כָּהֲנָא, אָמַר
+*Translation:* GEMARA: **Rav Aḥa bar Huna and Rav Shmuel, son of Rabba bar bar Ḥana, and Rav Yitzḥak, son of Rav Yehuda, studied** tractate ***Shevuot*** in **the study hall of Rabba. Rav Kahana encountered them** and inquired with regard to a matter in the mishna. He **said**

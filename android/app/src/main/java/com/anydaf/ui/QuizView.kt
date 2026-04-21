@@ -21,6 +21,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
@@ -224,11 +225,21 @@ fun MultipleChoiceQuestion(question: QuizQuestion, onAnswer: (Int) -> Unit) {
 @Composable
 fun FlashcardQuestion(question: QuizQuestion, onMark: (Boolean) -> Unit) {
     var revealed by remember { mutableStateOf(false) }
+    val blueMode = LocalIsBlueMode.current
+    val primaryBtnColors = if (blueMode) ButtonDefaults.buttonColors(
+        containerColor = Color.White.copy(alpha = 0.9f),
+        contentColor = Color(0xFF1B3A8A)
+    ) else ButtonDefaults.buttonColors()
+    val tonalBtnColors = if (blueMode) ButtonDefaults.filledTonalButtonColors(
+        containerColor = Color.White.copy(alpha = 0.15f),
+        contentColor = Color.White
+    ) else ButtonDefaults.filledTonalButtonColors()
 
     if (!revealed) {
         Button(
             onClick = { revealed = true },
-            modifier = Modifier.fillMaxWidth()
+            modifier = Modifier.fillMaxWidth(),
+            colors = primaryBtnColors
         ) { Text("Reveal Answer") }
     } else {
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -244,11 +255,13 @@ fun FlashcardQuestion(question: QuizQuestion, onMark: (Boolean) -> Unit) {
                 Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                     FilledTonalButton(
                         onClick = { onMark(false) },
-                        modifier = Modifier.weight(1f)
+                        modifier = Modifier.weight(1f),
+                        colors = tonalBtnColors
                     ) { Text("Got it wrong") }
                     Button(
                         onClick = { onMark(true) },
-                        modifier = Modifier.weight(1f)
+                        modifier = Modifier.weight(1f),
+                        colors = primaryBtnColors
                     ) { Text("Got it right") }
                 }
             } else {
@@ -264,6 +277,11 @@ fun FlashcardQuestion(question: QuizQuestion, onMark: (Boolean) -> Unit) {
 @Composable
 fun TextAnswerQuestion(question: QuizQuestion, onGrade: (String) -> Unit) {
     var text by remember { mutableStateOf("") }
+    val blueMode = LocalIsBlueMode.current
+    val primaryBtnColors = if (blueMode) ButtonDefaults.buttonColors(
+        containerColor = Color.White.copy(alpha = 0.9f),
+        contentColor = Color(0xFF1B3A8A)
+    ) else ButtonDefaults.buttonColors()
 
     if (question.gradeResult == null && !question.isGrading) {
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -272,12 +290,22 @@ fun TextAnswerQuestion(question: QuizQuestion, onGrade: (String) -> Unit) {
                 onValueChange = { text = it },
                 modifier = Modifier.fillMaxWidth(),
                 placeholder = { Text("Type your answer…") },
-                maxLines = 4
+                maxLines = 4,
+                colors = if (blueMode) androidx.compose.material3.OutlinedTextFieldDefaults.colors(
+                    focusedBorderColor = Color.White,
+                    unfocusedBorderColor = Color.White.copy(alpha = 0.5f),
+                    focusedTextColor = Color.White,
+                    unfocusedTextColor = Color.White,
+                    cursorColor = Color.White,
+                    focusedPlaceholderColor = Color.White.copy(alpha = 0.5f),
+                    unfocusedPlaceholderColor = Color.White.copy(alpha = 0.5f)
+                ) else androidx.compose.material3.OutlinedTextFieldDefaults.colors()
             )
             Button(
                 onClick = { if (text.isNotBlank()) onGrade(text) },
                 enabled = text.isNotBlank(),
-                modifier = Modifier.fillMaxWidth()
+                modifier = Modifier.fillMaxWidth(),
+                colors = primaryBtnColors
             ) { Text("Submit Answer") }
         }
     } else if (question.isGrading) {

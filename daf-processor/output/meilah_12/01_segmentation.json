@@ -1,209 +1,395 @@
 {
   "masechta": "Meilah",
   "daf": 12,
-  "amud": "b",
+  "amud": "a",
   "macro_segments": [
     {
-      "title": "Ashes from the Inner Altar and Menorah: When Meilah Ceases",
-      "display_title": "Dishun Mizbeach & Menorah",
+      "title": "Ashes from the Inner Altar and Menorah: No Benefit, No Meilah",
+      "display_title": "Dishun Mizbeach HaPnimi",
       "timestamp": "00:46",
       "micro_segments": [
         {
-          "title": "Introduction to the Mishnah: Ashes that Retain No Meilah",
-          "display_title": "Mishnah: No Hana'ah, No…",
+          "title": "Introduction to the Mishnah on Ashes and the Principle of Na'asah Mitzvaso",
+          "display_title": "Intro & Na'asah Mitzvaso",
           "timestamp": "00:46"
         },
         {
-          "title": "The Principle of Na'asah Mitzvaso: When the Mitzvah is Complete",
-          "display_title": "Na'asah Mitzvaso",
-          "timestamp": "01:41"
-        },
-        {
-          "title": "Trumas HaDeshen as Boundary: Different Rules for Different Ashes",
-          "display_title": "Trumas HaDeshen Distinct…",
+          "title": "Tosafot's Clarification: The Mitzvah of Removal Only Applies to the Outer Altar",
+          "display_title": "Tosafot on Outer Altar",
           "timestamp": "02:00"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Sanctifying Ashes Directly: Even Trivial Sanctifications Incur Meilah",
+      "display_title": "Hamakdish Dishun",
+      "timestamp": "03:42",
+      "micro_segments": [
         {
-          "title": "Sanctifying Ashes: The Rambam's Simple Reading",
-          "display_title": "Hamakdish Dishun",
+          "title": "The Mishnah and Rambam's Simple Reading of Sanctified Ashes",
+          "display_title": "Rambam's Reading",
           "timestamp": "03:42"
         }
       ]
     },
     {
-      "title": "Birds Too Young or Too Old: The Question of When Meilah Applies",
-      "display_title": "Turin & Bnei Yona Meilah",
+      "title": "Birds of Improper Age: The Distinction Between Too Young and Too Old",
+      "display_title": "Torin & Bnei Yonah",
       "timestamp": "04:26",
       "micro_segments": [
         {
-          "title": "The Mishnah: Underage and Overage Birds Have No Meilah",
-          "display_title": "Mishnah: Young/Old Birds",
+          "title": "The Mishnah: Pigeons and Doves Outside Their Proper Ages Have No Meilah",
+          "display_title": "Mishnah Statement",
           "timestamp": "04:26"
         }
       ]
     },
     {
-      "title": "The Source of the Ashes Placement: Gezeirah Shava from the Bird Offering",
-      "display_title": "Ashes Placement Sources",
+      "title": "Ashes from the Inner Altar and Menorah: No Benefit, No Meilah (continued)",
+      "display_title": "Dishun Mizbeach HaPnim…",
       "timestamp": "05:05",
       "micro_segments": [
         {
-          "title": "Why the Inner Altar and Menorah Ashes Go to the Same Place",
-          "display_title": "Where Inner Ashes Go",
+          "title": "The Gemara's Discussion: Where Do Ashes from the Inner Altar and Menorah Go?",
+          "display_title": "Gemara: Ash Placement",
           "timestamp": "05:05"
         },
         {
-          "title": "The Hermeneutical Derivation: El Mekom HaDeshen as Extra Language",
-          "display_title": "Hermeneutics of Ashes",
-          "timestamp": "06:14"
-        },
-        {
-          "title": "Reconciling the Verses: Is the Pesuk Redundant or Instructive?",
-          "display_title": "Pesuk Redundancy Debate",
-          "timestamp": "07:01"
+          "title": "Gezerah Shavah from Bird Offerings: Establishing the Ash Placement Location",
+          "display_title": "Gezerah Shavah",
+          "timestamp": "06:44"
         }
       ]
     },
     {
-      "title": "Birds Too Young or Too Old: The Question of When Meilah Applies (continued)",
-      "display_title": "Turin & Bnei Yona Meil…",
-      "timestamp": "11:54",
+      "title": "Birds of Improper Age: The Distinction Between Too Young and Too Old (continued)",
+      "display_title": "Torin & Bnei Yonah…",
+      "timestamp": "11:41",
       "micro_segments": [
         {
-          "title": "Rabbi Shimon's Position: Future Fitness Grants Present Significance",
-          "display_title": "Rabbi Shimon's View",
-          "timestamp": "11:54"
+          "title": "Rabbi Shimon's Position: Birds Too Young Should Have Meilah",
+          "display_title": "Rabbi Shimon",
+          "timestamp": "11:41"
         },
         {
-          "title": "The Gemara's Response: Lack of Pidyon (Redemption) as the Key Distinction",
-          "display_title": "No Pidyon, No Meilah",
-          "timestamp": "13:02"
+          "title": "The Gemara's Explanation: Pidyon as the Key Distinction",
+          "display_title": "Pidyon Concept",
+          "timestamp": "13:04"
         },
         {
-          "title": "Why Birds Cannot Be Redeemed: The Absence of Mumim (Blemishes)",
-          "display_title": "Birds & Blemishes",
-          "timestamp": "16:43"
+          "title": "The Gemara's Reasoning: Why Pidyon Matters for Meilah Status",
+          "display_title": "Pidyon & Meilah",
+          "timestamp": "15:40"
         }
       ]
     },
     {
-      "title": "Sacred Animals That Die: Examining the Limits of Kedushah",
-      "display_title": "Kodshim Shemesu Debate",
+      "title": "When Sanctified Offerings Die: The Status of Kodshim Shemesu",
+      "display_title": "Kodshim Shemesu",
       "timestamp": "19:55",
       "micro_segments": [
         {
-          "title": "Rabbi Yochanan's Teaching: Dead Sacred Animals Exit the Meilah Category",
-          "display_title": "Kodshim Shemesu No Meilah",
+          "title": "Rabbi Yochanan's Ruling: Animals That Die Exit the Meilah Category",
+          "display_title": "Rabbi Yochanan",
           "timestamp": "19:55"
         },
         {
-          "title": "Rav Chisda's Challenge: How Can Kedushah Simply Disappear?",
-          "display_title": "Kedushah's Whereabouts",
-          "timestamp": "22:33"
+          "title": "Rav Chisda's Challenge: Where Does the Kedushah Go?",
+          "display_title": "Rav Chisda Challenge",
+          "timestamp": "22:28"
         },
         {
-          "title": "The Concession: Rabbinic Meilah Even When Kedushah Started Good",
-          "display_title": "Derabbanan Meilah",
+          "title": "The Concession: Meilah D'Rabbanan for Originally Fit Offerings That Became Unusable",
+          "display_title": "Meilah D'Rabbanan",
           "timestamp": "24:40"
         },
         {
-          "title": "The Puzzle of Status Changes: From No Meilah to Meilah",
-          "display_title": "Status Change Puzzle",
+          "title": "The Difficulty: Can Meilah Apply to Something That Initially Had None?",
+          "display_title": "Difficulty Raised",
           "timestamp": "26:01"
         },
         {
-          "title": "The Blood Example: When Meilah Applies to Blood Drawn from a Korban",
-          "display_title": "Blood Drawn from Korban",
-          "timestamp": "28:41"
+          "title": "Blood That Comes Out via Bloodletting: Meilah Applies Outside of Kaparah",
+          "display_title": "Blood Bloodletting",
+          "timestamp": "29:31"
         }
       ]
     },
     {
-      "title": "Blood, Milk, Eggs, and Dung: Which Parts of Sacred Animals Have Meilah",
-      "display_title": "Parts of Korban & Meilah",
+      "title": "Blood as an Intrinsic Part of the Animal: Meilah Applies When Not Used for Kaparah",
+      "display_title": "Rav Huna & Blood",
       "timestamp": "34:39",
       "micro_segments": [
         {
-          "title": "Why Blood Has Meilah: Blood is Intrinsic to the Animal",
-          "display_title": "Blood as Animal Part",
+          "title": "Rav Huna on Bloodletting from Sanctified Animals: Blood Itself Incurs Meilah",
+          "display_title": "Bloodletting Meilah",
           "timestamp": "34:39"
         },
         {
-          "title": "Milk and Eggs: By-Products Without Meilah When Korban-Designated",
-          "display_title": "Milk & Eggs No Meilah",
-          "timestamp": "35:00"
+          "title": "Rav Hamnuna's Challenge from the Mishnah on Milk and Eggs",
+          "display_title": "Milk & Eggs",
+          "timestamp": "34:54"
         },
         {
-          "title": "Dung and Undigested Food: Transient Substances Never Part of the Animal",
-          "display_title": "Dung Not Part of Animal",
-          "timestamp": "37:33"
+          "title": "The Distinction: Blood is Intrinsic, Milk and Eggs Are Products",
+          "display_title": "Intrinsic vs Product",
+          "timestamp": "35:31"
+        },
+        {
+          "title": "Dung and Undigested Food: Further Refinement of What Constitutes the Animal",
+          "display_title": "Dung Question",
+          "timestamp": "37:32"
         }
       ]
     },
     {
-      "title": "Kedushat Guf vs. Kedushat Damim: The Conceptual Divide in Kedushah",
-      "display_title": "Guf vs. Damim Kedushah",
+      "title": "Products of Sanctified Animals: The Role of Ownership Versus Function",
+      "display_title": "Chalav & Beytzim",
       "timestamp": "42:17",
       "micro_segments": [
         {
-          "title": "The Mishnah: Milk and Eggs Without Meilah by Altar-Designated Animals",
-          "display_title": "Milk/Eggs by Mizbeach",
+          "title": "The Mishnah: Milk and Eggs of Sanctified Animals Consecrated for the Altar",
+          "display_title": "No Benefit, No Meilah",
           "timestamp": "42:17"
         },
         {
-          "title": "The Exception: Milk and Eggs Have Meilah When Given to the Temple Treasury",
-          "display_title": "Milk/Eggs by Bedek Habay…",
+          "title": "Contrast with Temple Treasury Sanctifications: Chicken and Donkey Have Meilah",
+          "display_title": "Bedek Habayit Case",
           "timestamp": "42:36"
         },
         {
-          "title": "The Gemara's Distinction: Identity-Based vs. Value-Based Kedushah",
-          "display_title": "Identity vs. Value Kedus…",
+          "title": "The Conceptual Framework: Kedushat Haguf Versus Kedushat Damim",
+          "display_title": "Kedushat Types",
+          "timestamp": "45:28"
+        },
+        {
+          "title": "The Gemara's Distinction: When Does Meilah Apply to Products?",
+          "display_title": "Gemara Analysis",
           "timestamp": "47:08"
         },
         {
-          "title": "When Value-Based Kedushah Extends to Increase: Products of Ownership",
-          "display_title": "Value Extends to Increase",
-          "timestamp": "49:46"
+          "title": "The Resolution: Kedushat Damim for the Altar Converts to Temple Treasury Status",
+          "display_title": "Kedushat Damim",
+          "timestamp": "48:09"
         },
         {
-          "title": "Synthesis: The Conceptual Framework of Kedushah and Meilah Throughout the Daf",
-          "display_title": "Kedushah Framework Summa…",
-          "timestamp": "51:48"
+          "title": "Summary of Key Conceptual Points on Kedushah and Meilah",
+          "display_title": "Summary & Conclusion",
+          "timestamp": "51:33"
         }
       ]
     }
   ],
   "topical_tags": [
     {
-      "term": "Na'asah Mitzvaso",
+      "term": "Na'asah Mitzvaso (Mitzva Is Completed)",
       "timestamps": [
-        "01:41",
-        "02:00",
-        "03:36",
-        "10:18"
+        "00:41",
+        "01:55",
+        "02:07",
+        "03:10"
       ]
     },
     {
-      "term": "Trumas HaDeshen",
+      "term": "Trumas HaDeshen (Removal of Ashes)",
       "timestamps": [
         "01:08",
         "02:00",
         "02:33",
-        "02:48",
+        "02:36",
         "03:01",
         "03:04",
-        "03:30",
-        "08:07",
-        "08:37",
-        "08:40"
+        "03:07"
       ]
     },
     {
-      "term": "Gezeirah Shava",
+      "term": "Psul Bakodesh (Disqualified Within the Sanctuary)",
       "timestamps": [
-        "07:55",
-        "09:37",
-        "09:39"
+        "21:02",
+        "21:46"
+      ]
+    },
+    {
+      "term": "Chatas HaMeicha (Sin Offering of the Metzora)",
+      "timestamps": [
+        "00:19",
+        "00:27"
+      ]
+    },
+    {
+      "term": "Holech L'Ibud (Destined to Be Destroyed)",
+      "timestamps": [
+        "01:05",
+        "20:23",
+        "20:30",
+        "23:02",
+        "23:05",
+        "25:10"
+      ]
+    },
+    {
+      "term": "Meilah (Misuse of Consecrated Property)",
+      "timestamps": [
+        "00:14",
+        "00:24",
+        "00:39",
+        "00:42",
+        "01:08",
+        "01:31",
+        "04:52",
+        "04:57",
+        "04:59",
+        "05:02",
+        "12:02",
+        "12:07",
+        "12:16",
+        "12:19",
+        "13:00",
+        "15:53",
+        "16:01",
+        "16:06",
+        "16:26",
+        "17:03",
+        "17:06",
+        "17:13",
+        "17:15",
+        "17:20",
+        "20:07",
+        "20:15",
+        "20:20",
+        "20:29",
+        "20:37",
+        "20:42",
+        "20:47",
+        "20:53",
+        "21:02",
+        "21:10",
+        "21:15",
+        "21:20",
+        "21:28",
+        "21:34",
+        "21:36",
+        "21:42",
+        "24:47",
+        "28:08",
+        "28:15",
+        "28:20",
+        "28:24",
+        "28:28",
+        "28:33",
+        "28:36",
+        "28:39",
+        "28:48",
+        "28:51",
+        "28:56",
+        "29:06",
+        "29:08",
+        "29:31",
+        "29:33",
+        "29:38",
+        "29:56",
+        "30:01",
+        "30:28",
+        "30:30",
+        "30:33",
+        "30:36",
+        "30:39",
+        "30:42",
+        "30:45",
+        "30:48",
+        "30:52",
+        "30:55",
+        "30:59",
+        "31:01",
+        "31:03",
+        "31:07",
+        "31:09",
+        "31:13",
+        "31:15",
+        "31:20",
+        "31:28",
+        "31:31",
+        "31:36",
+        "31:39",
+        "31:42",
+        "31:45",
+        "31:48",
+        "31:52",
+        "31:55",
+        "31:59",
+        "32:01",
+        "34:47",
+        "34:50",
+        "35:40",
+        "35:41",
+        "35:57",
+        "36:00",
+        "42:41",
+        "42:49",
+        "42:59",
+        "43:13",
+        "43:16",
+        "44:08",
+        "44:11",
+        "44:33",
+        "44:36",
+        "44:39",
+        "44:42",
+        "44:44",
+        "44:47",
+        "44:49",
+        "44:51",
+        "48:29",
+        "49:02",
+        "49:10",
+        "49:25",
+        "49:42",
+        "50:13",
+        "52:01",
+        "52:07",
+        "52:14",
+        "52:26",
+        "52:28",
+        "52:30",
+        "52:33",
+        "52:37",
+        "52:40",
+        "52:43",
+        "52:50",
+        "52:56",
+        "53:01",
+        "53:06",
+        "53:11",
+        "53:16",
+        "53:19",
+        "53:26",
+        "53:29",
+        "53:33",
+        "53:36",
+        "53:38",
+        "53:42",
+        "53:45",
+        "53:48",
+        "53:52",
+        "53:59",
+        "54:03",
+        "54:08",
+        "54:12",
+        "54:14",
+        "54:17",
+        "54:20",
+        "54:23",
+        "54:27",
+        "54:28",
+        "54:31",
+        "54:34",
+        "54:38",
+        "54:40",
+        "54:43",
+        "54:45",
+        "54:48",
+        "54:51",
+        "54:53"
       ]
     },
     {
@@ -211,206 +397,388 @@
       "timestamps": [
         "12:31",
         "12:35",
+        "13:00",
+        "16:26",
         "16:29",
-        "31:35"
+        "17:03",
+        "17:06"
       ]
     },
     {
-      "term": "Holech L'Ibud",
+      "term": "Rabbi Shimon's Position on Future Fitness",
       "timestamps": [
-        "20:25",
-        "21:10",
-        "21:30",
-        "23:05",
-        "25:10",
-        "28:09",
-        "31:23"
-      ]
-    },
-    {
-      "term": "Psul Bakodesh",
-      "timestamps": [
-        "20:40",
-        "20:59",
-        "21:02",
-        "21:16",
-        "21:39",
-        "22:16",
-        "25:19",
-        "31:31",
-        "32:14",
-        "52:01",
-        "52:14"
-      ]
-    },
-    {
-      "term": "Chatas HaMaita",
-      "timestamps": [
-        "19:22",
-        "20:17",
-        "20:19",
-        "24:18",
-        "24:31",
-        "25:13",
-        "31:30",
-        "52:17"
-      ]
-    },
-    {
-      "term": "Kodshim Shemesu",
-      "timestamps": [
-        "19:57",
-        "22:21",
-        "22:22",
-        "27:34",
-        "27:38",
-        "27:46",
-        "27:52"
-      ]
-    },
-    {
-      "term": "Blood Meilah",
-      "timestamps": [
-        "00:35",
-        "00:37",
-        "00:39",
-        "29:31",
-        "34:39",
-        "34:46",
-        "36:00",
-        "39:15"
-      ]
-    },
-    {
-      "term": "Kedushat Haguf",
-      "timestamps": [
-        "43:34",
-        "44:32",
-        "45:50",
-        "48:48",
-        "49:05",
-        "50:19",
-        "51:22",
-        "53:42",
-        "54:08",
-        "54:40",
-        "54:45"
-      ]
-    },
-    {
-      "term": "Kedushat Damim",
-      "timestamps": [
-        "43:34",
-        "45:51",
-        "47:22",
-        "48:03",
-        "48:46",
-        "49:30",
-        "49:46",
-        "50:07",
-        "51:10",
-        "53:48",
-        "54:27"
-      ]
-    },
-    {
-      "term": "Bedek Habayis",
-      "timestamps": [
-        "42:36",
-        "43:03",
-        "43:06",
-        "43:16",
-        "43:34",
-        "43:53",
-        "49:10",
-        "49:35",
-        "49:57",
-        "54:11",
-        "53:59"
-      ]
-    },
-    {
-      "term": "Issur Hana'ah vs. Meilah",
-      "timestamps": [
-        "25:39",
-        "31:35",
-        "40:39",
-        "52:50",
-        "52:56",
-        "53:01"
-      ]
-    },
-    {
-      "term": "Rabbi Shimon",
-      "timestamps": [
+        "11:51",
         "11:54",
         "12:02",
-        "12:07",
-        "12:52",
-        "13:04",
-        "13:07",
-        "15:35",
-        "15:47"
+        "13:04"
       ]
     },
     {
-      "term": "Rabbi Yochanan",
+      "term": "Amurim (Sacrificial Parts)",
       "timestamps": [
+        "16:19"
+      ]
+    },
+    {
+      "term": "Kedushat Haguf (Sanctity of the Object Itself)",
+      "timestamps": [
+        "43:37",
+        "44:39",
+        "44:42",
+        "45:31",
+        "46:02",
+        "46:11",
+        "46:13",
+        "47:00",
+        "48:48",
+        "49:04",
+        "50:07",
+        "50:19",
+        "51:04",
+        "51:10",
+        "51:22",
+        "51:28",
+        "51:31",
+        "53:42",
+        "53:48",
+        "54:43",
+        "54:45",
+        "54:51",
+        "54:53"
+      ]
+    },
+    {
+      "term": "Kedushat Damim (Sanctity of Value/Money)",
+      "timestamps": [
+        "43:34",
+        "45:16",
+        "45:39",
+        "45:50",
+        "46:40",
+        "46:45",
+        "47:16",
+        "47:46",
+        "48:03",
+        "48:22",
+        "48:26",
+        "48:29",
+        "48:46",
+        "49:13",
+        "49:16",
+        "49:20",
+        "49:22",
+        "49:27",
+        "49:46",
+        "50:07",
+        "50:19",
+        "50:59",
+        "51:00",
+        "51:04",
+        "51:10",
+        "51:15",
+        "51:18",
+        "51:20",
+        "51:31",
+        "51:38",
+        "52:08",
+        "53:42",
+        "53:48",
+        "53:52"
+      ]
+    },
+    {
+      "term": "Gezeirah Shavah (Verbal Analogy)",
+      "timestamps": [
+        "07:55",
+        "09:37",
+        "09:39"
+      ]
+    },
+    {
+      "term": "Bedek Habayit (Temple Treasury Sanctification)",
+      "timestamps": [
+        "42:36",
+        "43:00",
+        "43:03",
+        "43:06",
+        "43:09",
+        "43:11",
+        "43:13",
+        "43:16",
+        "46:02",
+        "46:06",
+        "48:32",
+        "48:35",
+        "48:39",
+        "49:13",
+        "49:33",
+        "50:35"
+      ]
+    },
+    {
+      "term": "Lo Nehenin V'Lo Mo'alin (No Benefit, No Meilah)",
+      "timestamps": [
+        "00:48",
+        "04:49",
+        "04:52",
+        "04:59",
+        "05:02",
+        "12:14",
+        "12:15",
+        "35:11",
+        "35:16",
+        "35:19",
+        "39:39",
+        "42:26",
+        "42:27",
+        "42:30"
+      ]
+    },
+    {
+      "term": "Kodshim Shemesu (Sanctified Animals That Died)",
+      "timestamps": [
+        "19:59",
+        "20:07",
+        "20:15",
+        "20:20",
+        "20:29",
+        "20:37",
+        "20:42",
+        "20:47",
+        "27:38",
+        "27:41",
+        "27:46",
+        "27:49"
+      ]
+    },
+    {
+      "term": "Rav Yochanan",
+      "timestamps": [
+        "13:04",
         "19:55",
         "19:57",
-        "25:02"
+        "20:07"
       ]
     },
     {
       "term": "Rav Chisda",
       "timestamps": [
+        "22:28",
         "22:33",
-        "22:35",
-        "22:39"
+        "22:35"
       ]
     },
     {
-      "term": "Tosafos on Meilah Categories",
+      "term": "Rav Huna",
+      "timestamps": [
+        "34:39"
+      ]
+    },
+    {
+      "term": "Rav Hamnuna",
+      "timestamps": [
+        "34:54"
+      ]
+    },
+    {
+      "term": "Tosafot",
       "timestamps": [
         "02:05",
+        "02:07",
+        "02:26",
         "02:28",
-        "03:22",
+        "05:17",
+        "15:17",
         "16:51",
-        "16:56",
         "17:09",
+        "17:13",
         "26:20",
         "40:44",
-        "41:00"
+        "40:48",
+        "40:51"
       ]
     },
     {
-      "term": "Amoraic Dispute on Kedushah Status",
+      "term": "Rambam",
       "timestamps": [
-        "13:04",
-        "13:12",
-        "13:17",
-        "22:33",
-        "22:39",
-        "24:40"
+        "03:50",
+        "04:10"
+      ]
+    },
+    {
+      "term": "Dam (Blood)",
+      "timestamps": [
+        "00:35",
+        "00:39",
+        "00:42",
+        "26:40",
+        "28:43",
+        "28:50",
+        "28:53",
+        "28:56",
+        "29:01",
+        "29:03",
+        "29:06",
+        "29:31",
+        "29:33",
+        "29:38",
+        "29:56",
+        "30:01",
+        "30:28",
+        "30:30",
+        "30:33",
+        "30:36",
+        "30:39",
+        "35:31",
+        "35:35",
+        "35:38",
+        "35:41",
+        "35:48",
+        "35:51",
+        "35:54",
+        "35:57",
+        "38:40",
+        "39:02",
+        "39:05",
+        "39:12",
+        "39:15"
+      ]
+    },
+    {
+      "term": "Chalav (Milk)",
+      "timestamps": [
+        "35:48",
+        "35:51",
+        "35:54",
+        "42:19",
+        "42:26",
+        "42:41",
+        "42:49",
+        "42:59",
+        "43:00",
+        "44:06",
+        "44:49",
+        "50:07",
+        "50:10",
+        "51:09",
+        "51:22",
+        "51:26",
+        "53:19",
+        "53:26"
+      ]
+    },
+    {
+      "term": "Beitzim (Eggs)",
+      "timestamps": [
+        "35:02",
+        "35:11",
+        "35:16",
+        "35:19",
+        "42:19",
+        "42:26",
+        "42:41",
+        "42:49",
+        "42:59",
+        "43:00",
+        "44:03",
+        "44:49",
+        "44:51",
+        "50:07",
+        "50:10",
+        "51:09",
+        "51:22",
+        "51:31",
+        "53:19",
+        "53:26"
+      ]
+    },
+    {
+      "term": "Emurim (Sacrificial parts that burn)",
+      "timestamps": [
+        "16:19"
+      ]
+    },
+    {
+      "term": "Shechita (Slaughter)",
+      "timestamps": [
+        "20:40",
+        "20:42"
+      ]
+    },
+    {
+      "term": "Sherita (Burning/Cremation)",
+      "timestamps": [
+        "21:02",
+        "21:04"
+      ]
+    },
+    {
+      "term": "Michsar Zman (Lacking the proper age)",
+      "timestamps": [
+        "16:12",
+        "16:13",
+        "16:20"
+      ]
+    },
+    {
+      "term": "She'avar Zman (Exceeded the proper age)",
+      "timestamps": [
+        "04:33",
+        "04:49",
+        "04:52",
+        "04:57"
       ]
     },
     {
       "term": "Olat Ha'of (Bird Offering)",
       "timestamps": [
         "06:21",
-        "09:17",
-        "30:01",
-        "36:00"
+        "06:27",
+        "06:39"
       ]
     },
     {
-      "term": "Tumah Paradigm (Kedushah as Tangible)",
+      "term": "Davar Pidyon Hu (Something capable of redemption)",
       "timestamps": [
-        "32:06",
-        "32:09",
-        "32:18",
-        "32:25",
-        "32:49"
+        "16:26",
+        "16:29"
+      ]
+    },
+    {
+      "term": "Issur Hana'ah (Prohibition of Benefit)",
+      "timestamps": [
+        "40:52",
+        "40:54",
+        "41:16",
+        "41:35",
+        "41:38",
+        "41:44",
+        "41:46",
+        "41:49",
+        "42:00",
+        "42:03"
+      ]
+    },
+    {
+      "term": "Meilah D'Rabbanan (Rabbinic Meilah)",
+      "timestamps": [
+        "24:47",
+        "24:57",
+        "25:02",
+        "25:25",
+        "28:20",
+        "28:33",
+        "28:36",
+        "28:39",
+        "28:48",
+        "29:08",
+        "29:11",
+        "31:09",
+        "31:13",
+        "31:15",
+        "31:20",
+        "31:59",
+        "32:01"
       ]
     }
   ]

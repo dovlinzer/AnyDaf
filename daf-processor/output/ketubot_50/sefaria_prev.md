@@ -1,0 +1,53 @@
+### Ketubot 49b
+
+**1.**
+*Hebrew/Aramaic:* דַּאֲפִילּוּ בִּתּוֹ, חוֹבָה הוּא דְּלֵיכָּא, הָא מִצְוָה אִיכָּא.
+*Translation:* **That even** with regard to **his daughter, there is no obligation** to provide her sustenance, however, **there is a mitzva** to do so.
+
+**2.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא רַבִּי יְהוּדָה, וְהָכִי קָאָמַר: הָאָב אֵינוֹ חַיָּיב בִּמְזוֹנוֹת בִּתּוֹ, וְכׇל שֶׁכֵּן לִבְנוֹ. הָא מִצְוָה בִּבְנוֹ אִיכָּא, וְקַל וָחוֹמֶר לַבָּנוֹת. וְהָא דְּקָתָנֵי בִּתּוֹ — הָא קָא מַשְׁמַע לַן דַּאֲפִילּוּ בִּתּוֹ חוֹבָה לֵיכָּא.
+*Translation:* **And if you wish, say** that the mishna is in accordance with the opinion of **Rabbi Yehuda, and this what he said** in the mishna: **A father is not obligated** to provide **sustenance for his daughter, and all the more so** he is not duty-bound to provide **for his son.** It may be inferred from here that **there is** at least **a mitzva with regard to a son, and** the same applies by ***a fortiori*** inference with regard **to the daughters. And** the reason **that** the mishna **teaches** the case of **his daughter** is because it **teaches us this: That even** with regard to **his daughter** there is **no obligation,** despite the mitzva to guard her from dishonor.
+
+**3.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא, וְהָכִי קָאָמַר: אֵינוֹ חַיָּיב בִּמְזוֹנוֹת בִּתּוֹ, וְהוּא הַדִּין לִבְנוֹ. וְהוּא הַדִּין דַּאֲפִילּוּ מִצְוָה נָמֵי לֵיכָּא, וְאַיְּידֵי דְּבָנוֹת לְאַחַר מִיתַת אֲבִיהֶן חוֹבָה, תְּנָא נָמֵי אֵינוֹ חַיָּיב.
+*Translation:* **And if you wish, say** that the mishna is in accordance with the opinion of **Rabbi Yoḥanan ben Beroka, and this is what he said** in the mishna: A father is **not obligated** to provide **sustenance for his daughter, and the same is true** with regard to providing **for his son. And the same is true** with regard to a mitzva; there is **not even a mitzva** to feed either one’s sons or daughters, **but since** the *tanna* wanted to say with regard to **daughters** that **after their father’s death** there is **an obligation** to sustain them from his estate, he **also taught** in a parallel manner that the father **is not obligated** to provide sustenance for his daughters during his lifetime. Consequently, it is incorrect to infer from here that there is a mitzva to sustain them despite the lack of obligation; rather, the *tanna* means that there is no obligation and not even a mitzva to do so.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אִילְעָא אָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי יְהוּדָה בַּר חֲנִינָא: בְּאוּשָׁא הִתְקִינוּ שֶׁיְּהֵא אָדָם זָן אֶת בָּנָיו וְאֶת בְּנוֹתָיו כְּשֶׁהֵן קְטַנִּים. אִיבַּעְיָא לְהוּ: הִלְכְתָא כְּווֹתֵיהּ אוֹ אֵין הִלְכְתָא כְּווֹתֵיהּ? תָּא שְׁמַע: כִּי הֲוָה אָתוּ לְקַמֵּיהּ דְּרַב יְהוּדָה אֲמַר לְהוּ: יָארוּד יָלְדָה, וְאַבְּנֵי מָתָא שָׁדְיָא?!
+*Translation:* § **Rabbi Ile’a said** that **Reish Lakish said in the name of Rabbi Yehuda bar Ḥanina: In Usha** the Sages **instituted that a man should sustain his sons and daughters when they are minors. A dilemma was raised before** the Sages: Is **the *halakha* in accordance with his** opinion **or is the *halakha* not in accordance with his** opinion? Must a man feed his young children in practice or not? The Gemara answers: **Come** and **hear: When they would come before Rav Yehuda** to complain about a father who refused to sustain his children, **he** would **say to them: The jackal [*yarod*] bears** offspring **and casts** the obligation to feed **them on the residents of the town?** Even a jackal feeds its young, and it is certainly proper for a father to support his children.
+
+**5.**
+*Hebrew/Aramaic:* כִּי הֲוָה אָתוּ לְקַמֵּיהּ דְּרַב חִסְדָּא, אֲמַר לְהוּ: כְּפוֹ לֵיהּ אֲסִיתָא בְּצִבּוּרָא, וְלֵיקוּם וְלֵימָא: עוֹרְבָא בָּעֵי בְּנֵיהּ וְהָהוּא גַּבְרָא לָא בָּעֵי בְּנֵיהּ?! וְעוֹרְבָא בָּעֵי בְּנֵיהּ? וְהָכְתִיב: ״לִבְנֵי עוֹרֵב אֲשֶׁר יִקְרָאוּ״! לָא קַשְׁיָא, הָא בְּחִיוָּרֵי, הָא בְּאוּכָּמֵי.
+*Translation:* **When they would come before Rav Ḥisda** to register a similar complaint, **he** would **say to them: Turn over a mortar for him in public,** as a raised platform, **and let** that father **stand up and say** about himself: **The raven wants** to care for **its sons, and** yet **this man does not want** to support **his sons.** The Gemara questions this statement: **And** does **the raven want** to feed **its sons? But isn’t it written:** “He gives to the beast its food, **to the young ravens that cry”** (Psalms 147:9)? This verse indicates that the parents of young ravens do not feed them. The Gemara responds: This is **not difficult,** as in **this** case it is referring **to white ones,** and in **that** case it is referring **to black ones.** There are different types of ravens, some of which feed their young while others do not.
+
+**6.**
+*Hebrew/Aramaic:* כִּי הֲוָה אָתֵי לְקַמֵּיהּ דְּרָבָא, אֲמַר לֵיהּ: נִיחָא לָךְ דְּמִיתַּזְנִי בְּנָיךְ מִצְּדָקָה?
+*Translation:* The Gemara further relates: **When** an incident of this kind **would come before Rava, he** would **say to** the father: Is it **satisfactory to you that your sons are sustained through charity?** All these incidents prove that the *halakha* is not in accordance with the enactment of Usha; although these Sages stated forcefully that it is proper for a father to support his children, they did not force him to do so by the authority of the court.
+
+**7.**
+*Hebrew/Aramaic:* וְלָא אֲמַרַן, אֶלָּא דְּלָא אֲמִיד, אֲבָל אֲמִיד — כָּפֵינַן לֵיהּ עַל כֻּרְחֵיהּ. כִּי הָא דְּרָבָא כַּפְיֵיהּ לְרַב נָתָן בַּר אַמֵּי וְאַפֵּיק מִינֵּיהּ אַרְבַּע מְאָה זוּזֵי לִצְדָקָה.
+*Translation:* The Gemara adds: **And we said** this *halakha* **only when he is not wealthy** and must toil hard to provide food for his children, **but** if he is **wealthy we coerce him against his will** to sustain them. **Like this** case **of Rava, who coerced Rav Natan bar Ami,** who was a wealthy man, to donate to charity, **and collected from him four hundred dinars for charity.** This shows that even in the absence of a particular obligation, the court will compel a person to give charity if he can afford it. The same reasoning certainly applies to a man’s own children.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אִילְעָא אָמַר רֵישׁ לָקִישׁ: בְּאוּשָׁא הִתְקִינוּ הַכּוֹתֵב כׇּל נְכָסָיו לְבָנָיו — הוּא וְאִשְׁתּוֹ נִזּוֹנִים מֵהֶם.
+*Translation:* § **Rabbi Ile’a said** that **Reish Lakish said: In Usha** the Sages **instituted** that in a case of **one who writes** a document stating that he is giving **all his property** as a gift **to his sons** in his lifetime, **he and his wife are sustained from** the property until their deaths.
+
+**9.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַבִּי זֵירָא וְאִיתֵּימָא רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי: גְּדוֹלָה מִזּוֹ אָמְרוּ, אַלְמְנָתוֹ נִזּוֹנֶת מִנְּכָסָיו, הוּא וְאִשְׁתּוֹ מִיבַּעְיָא?!
+*Translation:* **Rabbi Zeira objects to this, and some say** this objection was raised by **Rabbi Shmuel bar Naḥmani:** What is the significance of this ruling? After all, the Sages **said a greater** novelty **than that:** A man’s **widow is sustained from his property** even if his estate was inherited by his daughter and therefore belongs to her husband. Although the property is comparable to property from the estate that was sold to a third party, from which a widow is not entitled to claim her sustenance, in this case the Sages decreed that she can claim her livelihood from her late husband’s estate to prevent her from losing out entirely. With this in mind, **is** it **necessary** to state that **he and his wife,** during his lifetime, receive their sustenance from property he gave as a gift to his sons?
+
+**10.**
+*Hebrew/Aramaic:* דִּשְׁלַח רָבִין בְּאִיגַּרְתֵּיהּ: מִי שֶׁמֵּת וְהִנִּיחַ אַלְמָנָה וּבַת — אַלְמְנָתוֹ נִיזּוֹנֶת מִנְּכָסָיו. נִישֵּׂאת הַבַּת — אַלְמְנָתוֹ נִיזּוֹנֶת מִנְּכָסָיו.
+*Translation:* The Gemara provides the background for this ruling: **As Ravin sent in his letter** to Babylonia: With regard to **one who died and left a widow and a daughter, his widow is sustained from his property,** as this is a stipulation of the marriage contract. If **the daughter,** who is her father’s heir, **married,** the estate is considered usufruct property whose produce belongs to her husband, but even so **his widow is sustained from his property.**
+
+**11.**
+*Hebrew/Aramaic:* מֵתָה הַבַּת, אָמַר רַבִּי יְהוּדָה בֶּן אֲחוֹתוֹ שֶׁל רַבִּי יוֹסֵי בַּר חֲנִינָא: עַל יָדִי הָיָה מַעֲשֶׂה, וְאָמְרוּ: אַלְמְנָתוֹ נִיזּוֹנֶת מִנְּכָסָיו. הוּא וְאִשְׁתּוֹ מִיבַּעְיָא?!
+*Translation:* If **the daughter died** and her husband inherited from her, **Rabbi Yehuda, son of the sister of Rabbi Yosei bar Ḥanina, said: I was involved in an incident** of this kind when this very question came before the Sages for a ruling, **and they said:** Even in this case, **his widow is sustained from his property.** The Gemara reiterates: With all that said, **is** it **necessary** to state that **he and his wife** are entitled to receive their sustenance from property he gave his son?
+
+**12.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא: הָתָם הוּא דְּלֵיכָּא דְּטָרַח, אֲבָל הָכָא — נִטְרַח לְדִידֵיהּ וּלְדִידַהּ, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara responds: The ordinance is necessary **lest you say** that **it is** in that case **there,** with regard to a widow, that they instituted this *halakha*, **as there is no one to toil** on her behalf, since she is by herself, **but here,** where the husband is alive, **he can toil for himself and for her,** i.e., his wife. The ordinance of Usha therefore **teaches us** that the court does not force him to do so, and they may claim their sustenance from his former property.
+
+**13.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: הִלְכְתָא כְּווֹתֵיהּ אוֹ לֵית הִלְכְתָא כְּווֹתֵיהּ? תָּא שְׁמַע: דְּרַבִּי חֲנִינָא וְרַבִּי יוֹנָתָן הֲווֹ קָיְימִי, אֲתָא הָהוּא גַּבְרָא גְּחֵין וְנַשְּׁקֵיהּ לְרַבִּי יוֹנָתָן אַכַּרְעֵיהּ, אֲמַר לֵיהּ רַבִּי חֲנִינָא: מַאי הַאי? אֲמַר לֵיהּ: כּוֹתֵב נְכָסָיו לְבָנָיו הוּא,
+*Translation:* **A dilemma was raised before** the scholars: Is **the *halakha* in accordance with** the opinion of Rabbi Ile’a, **or is the *halakha* not in accordance with his** opinion? The Gemara answers: **Come** and **hear, as Rabbi Ḥanina and Rabbi Yonatan were standing** together, and **a certain man approached, bent over, and kissed Rabbi Yonatan on his foot. Rabbi Ḥanina said to** Rabbi Yonatan: **What is this?** Why does he owe you such a mark of gratitude? **He said to him: He wrote** a document stating that he was giving **his property to his sons,**

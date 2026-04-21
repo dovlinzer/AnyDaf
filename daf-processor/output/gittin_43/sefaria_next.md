@@ -1,0 +1,77 @@
+### Gittin 44a
+
+**1.**
+*Hebrew/Aramaic:* וְאִי בָּעֵית אֵימָא: בְּשֶׁלָּוָה עַל מְנָת לְמַשְׁכְּנוֹ, וְלֹא מִשְׁכְּנוֹ.
+*Translation:* **And if you wish, say** instead: Even if the time for the slave or the field to be taken as collateral had arrived, there is something novel about this **in** a case **where he borrowed on the condition that** the creditors **collect** from **it,** i.e., the slave or field, **but they did not** yet **collect** from **it.** Since the field had not yet been collected from the gentile by the Jew as payment of the debt, it remains exempt from tithes, but the mere fact that the Jew agreed to have his slave be collected suffices for the rabbinic penalty to take effect, and the slave is emancipated.
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: גְּבָאוֹ בְּחוֹבוֹ אוֹ שֶׁלְּקָחוֹ סִיקָרִיקוֹן, לֹא יָצָא לְחֵירוּת. וּבְחוֹבוֹ לֹא?!
+*Translation:* § **The Sages taught** (*Tosefta*, *Avoda Zara* 3:16): If a gentile **collected** a slave **for** payment of **his debt, or** the slave **was taken by a Sicarius,** i.e., one who would use violence and intimidation to force people to give them their property, then **he is not emancipated.** The Gemara asks: **And** is it so that if a gentile collected a slave **for** payment of **his debt,** the Sages did not institute a penalty and the slave is **not** emancipated?
+
+**3.**
+*Hebrew/Aramaic:* וּרְמִינְהִי: הֲרֵי שֶׁאָנְסוּ בֵּית הַמֶּלֶךְ גּוֹרְנוֹ, אִם בְּחוֹבוֹ – חַיָּיב לְעַשֵּׂר, אִם בָּאַנְפָּרוֹת – פָּטוּר מִלְּעַשֵּׂר!
+*Translation:* **And** the Gemara **raises a contradiction** based on what was taught in a *baraita*: With regard to a case **where the household of the king seized one’s threshing floor** by force, **if** they took it **for** payment of **his debt** to the king, then **he is obligated to tithe** in order to render fit for consumption the grain that they seized. The reason for this is because if he were not to tithe it, it would be considered as if he paid a debt using tithe. **If** they engaged in **unjust seizure [*anparot*]** then **he is exempt from tithing.** This *baraita* indicates that an item taken for payment of a debt is akin to a sale, so why should the slave taken in payment of the debt not be emancipated?
+
+**4.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם, דְּקָא מִשְׁתָּרְשִׁי לֵיהּ.
+*Translation:* The Gemara answers: **It is different there, because he profits** by repaying a portion of his debt with tithe. If they would have taken regular produce, it would have been more of a financial loss for him. Therefore, he must separate tithe for the seized grain. In the case of the slave, he did not profit from the seizure. Therefore, the Sages did not penalize him.
+
+**5.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּאָמַר רַב: הַמּוֹכֵר עַבְדּוֹ לְפַרְהַנְגְּ גּוֹי – יָצָא לְחֵירוּת! הָתָם, הֲוָה לֵיהּ לְפַיֵּיס וְלֹא פִּיֵּיס.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof, **as Rav says: One who sells his slave to a gentile** government **official [*parhang*],** then the slave **is emancipated** even though the owner agreed to the sale only because he was pressured by the official. There too, he neither desired nor profited from the sale. The Gemara answers: **There,** the owner **should have appeased** the official in some other way so that he would not take the slave, **and he did not appease** him, therefore it is appropriate to penalize him.
+
+**6.**
+*Hebrew/Aramaic:* גּוּפָא – אָמַר רַב: הַמּוֹכֵר עַבְדּוֹ לְפַרְהַנְגְּ גּוֹי – יָצָא לְחֵירוּת. מַאי הֲוָה לֵיהּ לְמֶעְבַּד? הֲוָה לֵיהּ לְפַיֵּיס, וְלֹא פִּיֵּיס.
+*Translation:* The Gemara discusses **the** matter **itself. Rav says: One who sells his slave to a gentile** government **official,** then the slave **is emancipated.** The Gemara asks: **What could he have done;** the gentile government official forced him to agree to the sale. The Gemara answers: **He should have appeased** the official in some other way, **and he did not appease** him.
+
+**7.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי יִרְמְיָה: מְכָרוֹ לִשְׁלשִׁים יוֹם, מַהוּ? תָּא שְׁמַע, דְּאָמַר רַב: הַמּוֹכֵר עַבְדּוֹ לְפַרְהַנְגְּ גּוֹי – יָצָא לְחֵירוּת! הָתָם בְּפַרְהַנְגְּ גּוֹי שֶׁאֵינָהּ חוֹזֶרֶת.
+*Translation:* **Rabbi Yirmeya raises a dilemma:** If **he sold** the slave to a gentile **for thirty days,** then **what is** the *halakha*; is this considered to be a sale and he is emancipated as a result, or is it not a sale? The Gemara suggests: **Come** and **hear** a proof, **as Rav says:** With regard to **one who sells his slave to a gentile** government **official,** the slave **is emancipated.** The assumption is that he would be sold to the official in order to work for a limited amount of time or perform a specific task, yet he is emancipated. The Gemara answers: **There,** he was sold **to a gentile** government **official, as** this sale **is not reversed.** No proof can be brought from here with regard to the *halakha* of a sale that is in effect for a limited duration.
+
+**8.**
+*Hebrew/Aramaic:* מְכָרוֹ חוּץ מִמְּלַאכְתּוֹ, מַהוּ? חוּץ מִן הַמִּצְוֹת, מַהוּ? חוּץ מִשַּׁבָּתוֹת וְיָמִים טוֹבִים, מַהוּ? לְגֵר תּוֹשָׁב, לְיִשְׂרָאֵל מְשׁוּמָּד, מַהוּ? לְכוּתִי, מַהוּ? פְּשׁוֹט מִיהָא חֲדָא: גֵּר תּוֹשָׁב הֲרֵי הוּא כְּגוֹי. כּוּתִי וְיִשְׂרָאֵל מְשׁוּמָּד – אָמְרִי לַהּ כְּגוֹי, וְאָמְרִי לַהּ כְּיִשְׂרָאֵל.
+*Translation:* Rabbi Yirmeya asks several questions with regard to the extent of the application of this penalty: If **he sold** the slave to a gentile **aside from his labor,** i.e., the gentile will own the slave but he will still perform labor for the Jewish master, **what is** the *halakha*? If he sold him to a gentile **aside from the mitzvot,** i.e., he stipulated that the slave would be able to continue observing the mitzvot, **what is** the *halakha*? If he sold him **aside from *Shabbatot* and Festivals, what is** the *halakha*? If he sold him **to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [*ger toshav*],** or **to a Jewish apostate, what is** the *halakha*? If he sold him **to a Samaritan, what is** the *halakha*? The Gemara suggests: **You can resolve at least one** of these questions, as it was taught: **A *ger toshav* is like a gentile.** With regard to a **Samaritan and a Jewish apostate, some say** they are **like gentiles and some say** they are **like Jews.**
+
+**9.**
+*Hebrew/Aramaic:* בְּעוֹ מִינֵּיהּ מֵרַבִּי אַמֵּי: עֶבֶד שֶׁהִפִּיל עַצְמוֹ לִגְיָיסוֹת, וְאֵין רַבּוֹ יָכוֹל לְהוֹצִיאוֹ – לֹא בְּדִינֵי יִשְׂרָאֵל וְלֹא בְּדִינֵי אוּמּוֹת הָעוֹלָם, מַהוּ שֶׁיִּטּוֹל אֶת דָּמָיו?
+*Translation:* **They raised a dilemma before Rabbi Ami:** If **a slave** fled from his master and **gave himself over to a** foreign **army** to serve as a solider, **and his master cannot remove him, neither through Jewish law nor through the laws of the nations of the world, what is** the *halakha*? Is it permitted **for** the master **to** at least **take his value** from the army, or would this be considered as if he is selling the slave?
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי יִרְמְיָה לְרַבִּי זְרִיקָא: פּוֹק עַיֵּין בִּמְכִילָתָיךְ. נְפַק דָּק וְאַשְׁכַּח, דְּתַנְיָא: הַמּוֹכֵר בֵּיתוֹ לְגוֹי – דָּמָיו אֲסוּרִין. וְגוֹי שֶׁאָנַס בֵּיתוֹ שֶׁל יִשְׂרָאֵל, וְאֵין בְּעָלָיו יָכוֹל לְהוֹצִיאוֹ – לֹא בְּדִינֵי יִשְׂרָאֵל וְלֹא בְּדִינֵי אוּמּוֹת הָעוֹלָם, מוּתָּר לִיטּוֹל אֶת דָּמָיו, וְכוֹתֵב וּמַעֲלֶה בְּעַרְכָּאוֹת שֶׁלָּהֶן – מִפְּנֵי שֶׁהוּא כְּמַצִּיל מִיָּדָם.
+*Translation:* **Rabbi Yirmeya said to Rabbi Zerika: Go out and examine your *mishnayot*** to find an answer. **He went out, examined, and discovered** an answer, **as it is taught** in a *baraita* (*Tosefta*, *Avoda Zara* 6:2): **One who sells his house** in Eretz Yisrael **to a gentile, the monies** received from the sale of the house **are forbidden** to him. **And** if there was **a gentile who seized a Jew’s house** by force **and its owner cannot remove it,** i.e., get it back, **neither through Jewish law nor through the laws of the nations of the world,** then **he is permitted to take** the house’s **value** from the gentile, **and he** may even **write** a document **and register** the sale **in their courts, because he is like one who rescues** the money **from their possession.** Although it is prohibited for a Jew to sell his house in Eretz Yisrael to a gentile, if it was taken from him by force he is permitted to take payment for it. Similarly, if the slave cannot be retrieved from a gentile, it should be permitted for him to take money in return.
+
+**11.**
+*Hebrew/Aramaic:* וְדִילְמָא הָנֵי מִילֵּי בַּיִת – דְּכֵיוָן דְּלָא סַגִּי לֵיהּ בְּלֹא בַּיִת, לָא אָתֵי לְזַבּוֹנֵיהּ; אֲבָל עַבְדָּא – דְּסַגִּי לֵיהּ בְּלָא עַבְדָּא, אָתֵי לְזַבּוֹנֵיהּ – אוֹ לָא.
+*Translation:* The Gemara rejects this comparison: **But perhaps this matter applies** only to a **house, that since it is not sufficient,** i.e., not possible, **for him** to live **without a house, he would not sell it** willingly. Therefore, there is no reason to penalize him when it is taken by force. **But** with regard to **a slave, as it is sufficient for him** to live **without a slave,** there is a concern that **he will** also **come to sell him** willingly, and therefore there should be a penalty in this case as well. **Or** it is possible that this distinction is **not** made.
+
+**12.**
+*Hebrew/Aramaic:* שְׁלַח לְהוּ רַבִּי אַמֵּי: ״מִינַּי אַמֵּי בַּר נָתָן, תּוֹרָה יוֹצְאָה לְכׇל יִשְׂרָאֵל: עֶבֶד שֶׁהִפִּיל עַצְמוֹ לִגְיָיסוֹת, וְאֵין רַבּוֹ יָכוֹל לְהוֹצִיאוֹ – לֹא בְּדִינֵי יִשְׂרָאֵל וְלֹא בְּדִינֵי אוּמּוֹת הָעוֹלָם, מוּתָּר לִיטּוֹל אֶת דָּמָיו, וְכוֹתֵב וּמַעֲלֶה בְּעַרְכָּאוֹת שֶׁל גּוֹיִם – מִפְּנֵי שֶׁהוּא כְּמַצִּיל מִיָּדָם.
+*Translation:* **Rabbi Ami sent** the following message **to** the other Sages: **From me, Ami bar Natan, Torah emerges to all of Israel:** If **a slave** fled his master and **gave himself to a** foreign **army** to serve as a solider, **and his master cannot remove him, neither through Jewish law nor through the laws of the nations of the world,** then he is **permitted to take** the slave’s **value, and he writes** a deed of sale **and registers** this transaction **in gentile courts, because he is like one who rescues** the money **from their possession.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הַמּוֹכֵר עַבְדּוֹ לְגוֹי – קוֹנְסִים אוֹתוֹ עַד מֵאָה בְּדָמָיו.
+*Translation:* **Rabbi Yehoshua ben Levi says:** With regard to **one who sells his slave to a gentile,** even though he can no longer enslave him, **he is penalized** and is forced to redeem the slave from the gentile for **up to one hundred** times the slave’s **value.**
+
+**14.**
+*Hebrew/Aramaic:* דַּוְקָא, אוֹ לָאו דַּוְקָא? תָּא שְׁמַע, דְּאָמַר רֵישׁ לָקִישׁ: הַמּוֹכֵר בְּהֵמָה גַּסָּה לְגוֹי – קוֹנְסִים אוֹתוֹ עַד עֲשָׂרָה בְּדָמֶיהָ!
+*Translation:* The Gemara asks: Is this amount stated **specifically or not specifically?** Perhaps this number is an exaggeration? The Gemara suggests: **Come** and **hear** an answer from **that** which **Reish Lakish says: One who sells a large domesticated animal to a gentile, he is penalized** and is forced to purchase the animal back from the gentile for **up to ten** times **its value.** It can be seen here that one who violates an ordinance of the Sages by engaging in a prohibited sale must pay up to only ten times the item’s value to purchase it back, and the same would presumably apply to the case of the slave.
+
+**15.**
+*Hebrew/Aramaic:* וְדִלְמָא שָׁאנֵי עֶבֶד, דְּכֹל יוֹמָא וְיוֹמָא מַפְקַע לֵיהּ מִמִּצְוֹת.
+*Translation:* The Gemara rejects this: **But perhaps a slave is different, as each and every day** the owner **releases him from** the fulfillment of **mitzvot** by selling him to a gentile, so there may be a greater penalty as a result.
+
+**16.**
+*Hebrew/Aramaic:* וְאִיכָּא דְאָמְרִי, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הַמּוֹכֵר עַבְדּוֹ לְגוֹי – קוֹנְסִין אוֹתוֹ עַד עֲשָׂרָה בְּדָמָיו. דַּוְקָא אוֹ לָאו דַּוְקָא? תָּא שְׁמַע, דְּאָמַר רֵישׁ לָקִישׁ: הַמּוֹכֵר בְּהֵמָה גַּסָּה לְגוֹי – קוֹנְסִין אוֹתוֹ עַד מֵאָה בְּדָמֶיהָ!
+*Translation:* **And there are** those **who say** a different version of this discussion: **Rabbi Yehoshua ben Levi says** that with regard to **one who sells his slave to a gentile,** even though he can no longer enslave him, **he is penalized** and is forced to redeem the slave from the gentile for **up to ten** times the slave’s **value.** The Gemara asks: Is this amount stated **specifically or not specifically;** is his penalty limited to up to ten times the value of the slave? The Gemara suggests: **Come** and **hear** an answer from **that** which **Reish Lakish says:** With regard to **one who sells a large domesticated animal to a gentile, he is penalized** and is forced to purchase the animal back from the gentile for **up to one hundred** times **its value,** and the penalty in the case of the slave should be at least as large as in the case of the animal.
+
+**17.**
+*Hebrew/Aramaic:* שָׁאנֵי עֶבֶד, דְּלָא הָדַר לֵיהּ.
+*Translation:* The Gemara rejects this: **A slave is different, as he does not return to him.** Since the slave will be emancipated once the master redeems him, it may be that the Sages would not penalize him to such a great extent.
+
+**18.**
+*Hebrew/Aramaic:* אֶלָּא בְּהֵמָה טַעְמָא מַאי – מִשּׁוּם דְּהָדְרָא לֵיהּ?! לִקְנְסֵיהּ טְפֵי חַד! אֶלָּא עֶבֶד מִילְּתָא דְלָא שְׁכִיחָא, וּמִלְּתָא דְלָא שְׁכִיחָא לָא גָּזְרִי בַּהּ רַבָּנַן.
+*Translation:* The Gemara challenges: **Rather, what is the reason** that he is penalized in the case of an **animal** more so than in the case of a slave; **because** of the fact **that it returns to him?** If so, **he should be penalized** only **one additional** amount. If the difference is that an animal returns to its owners and a slave does not, then the difference in penalties should be reflective of this, and he should have to purchase the animal for no more than eleven times its value. **Rather,** the Gemara offers a different distinction: The sale of **a slave** is **an uncommon matter, and the Sages did not decree** with regard to **an uncommon matter.** Therefore, one cannot compare the penalty in the case of selling a slave to the penalty in the case of selling an animal.
+
+**19.**
+*Hebrew/Aramaic:* בְּעָא מִינֵּיהּ רַבִּי יִרְמְיָה מֵרַבִּי אַסִּי: מָכַר עַבְדּוֹ וָמֵת, מַהוּ שֶׁיִּקְנְסוּ אֶת בְּנוֹ אַחֲרָיו? אִם תִּימְצֵי לוֹמַר: ״צָרַם אוֹזֶן בְּכוֹר, וָמֵת – קָנְסוּ בְּנוֹ אַחֲרָיו״ – מִשּׁוּם דְּאִיסּוּרָא דְּאוֹרָיְיתָא הִיא, אֲבָל הָכָא אִיסּוּרָא דְרַבָּנַן.
+*Translation:* **Rabbi Yirmeya raised a dilemma before Rabbi Asi:** If one **sold his slave** to a gentile **and died, what is** the *halakha*: **Is his son penalized after him?** Is the son also required to redeem the slave, or does the penalty apply only to the seller? The Gemara compares this to other penalties assessed by the Sages. **If you say,** in accordance with the opinion that holds that if one **slit** the **ear** of a **firstborn** animal and by doing so intentionally blemishes it so that it may be eaten, **and** then that person **died,** then **his son is penalized after him** and his son may not slaughter and eat it, perhaps this is **because it is a prohibition by Torah law. Here, however,** with regard to the sale of a slave, it is **a prohibition** only **by rabbinic** law and perhaps the son is not penalized.

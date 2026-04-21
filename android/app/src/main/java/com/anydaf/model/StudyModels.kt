@@ -74,10 +74,17 @@ enum class SourceDisplayMode(val displayName: String, val description: String) {
 }
 
 enum class StudyFontSize(val displayName: String, val spSize: Float, val articleFontPx: Int) {
+    X_SMALL("Extra Small", 12f, 14),
     SMALL("Small", 15f, 17),
     MEDIUM("Medium", 18f, 20),
     LARGE("Large", 21f, 23),
-    X_LARGE("Extra Large", 26f, 28)
+    X_LARGE("Extra Large", 26f, 28);
+
+    companion object {
+        /** X_SMALL is tablet-only — it maps to iOS system default size, already small on phones. */
+        fun displayEntries(isTablet: Boolean): List<StudyFontSize> =
+            if (isTablet) entries else entries.filter { it != X_SMALL }
+    }
 }
 
 data class GradeResult(

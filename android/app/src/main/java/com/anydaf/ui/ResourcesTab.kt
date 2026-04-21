@@ -104,7 +104,8 @@ fun ResourcesTab(
                     if (exactArticles.isNotEmpty() && (nearbyArticles.isNotEmpty() || tractateArticles.isNotEmpty())) {
                         item {
                             HorizontalDivider(
-                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.25f),
+                                color = if (LocalIsBlueMode.current) androidx.compose.ui.graphics.Color.White.copy(alpha = 0.3f)
+                                        else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.25f),
                                 modifier = Modifier.padding(vertical = 8.dp)
                             )
                         }
@@ -122,7 +123,8 @@ fun ResourcesTab(
                     if (nearbyArticles.isNotEmpty() && tractateArticles.isNotEmpty()) {
                         item {
                             HorizontalDivider(
-                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.25f),
+                                color = if (LocalIsBlueMode.current) androidx.compose.ui.graphics.Color.White.copy(alpha = 0.3f)
+                                        else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.25f),
                                 modifier = Modifier.padding(vertical = 8.dp)
                             )
                         }
@@ -163,10 +165,12 @@ fun ResourcesTab(
 
 @Composable
 private fun SectionHeader(title: String) {
+    val fg = if (LocalIsBlueMode.current) androidx.compose.ui.graphics.Color.White.copy(alpha = 0.7f)
+             else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
     Text(
         text = title.uppercase(),
         style = MaterialTheme.typography.labelSmall,
-        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
+        color = fg,
         letterSpacing = 0.8.sp,
         modifier = Modifier.padding(top = 8.dp, bottom = 4.dp)
     )
@@ -174,6 +178,7 @@ private fun SectionHeader(title: String) {
 
 @Composable
 private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
+    val fontSize = LocalStudyFontSize.current
     val alpha = when (article.matchType) {
         is ResourceMatchType.Exact -> 1f
         is ResourceMatchType.Nearby -> 0.8f
@@ -199,7 +204,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
             ) {
                 Text(
                     text = article.title,
-                    style = MaterialTheme.typography.titleSmall,
+                    style = MaterialTheme.typography.titleSmall.copy(fontSize = fontSize),
                     modifier = Modifier.weight(1f),
                     maxLines = 2,
                     overflow = TextOverflow.Ellipsis
@@ -214,7 +219,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                             label = {
                                 Text(
                                     "Daf $d",
-                                    style = MaterialTheme.typography.labelSmall
+                                    style = MaterialTheme.typography.labelSmall.copy(fontSize = fontSize * 0.75f)
                                 )
                             }
                         )
@@ -225,7 +230,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                 Spacer(Modifier.height(2.dp))
                 Text(
                     text = article.authorName,
-                    style = MaterialTheme.typography.bodySmall,
+                    style = MaterialTheme.typography.bodySmall.copy(fontSize = fontSize * 0.85f),
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
             }
@@ -233,7 +238,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                 Spacer(Modifier.height(4.dp))
                 Text(
                     text = article.excerpt,
-                    style = MaterialTheme.typography.bodySmall,
+                    style = MaterialTheme.typography.bodySmall.copy(fontSize = fontSize * 0.85f),
                     maxLines = 3,
                     overflow = TextOverflow.Ellipsis,
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
@@ -242,7 +247,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
             Spacer(Modifier.height(4.dp))
             Text(
                 text = article.date,
-                style = MaterialTheme.typography.labelSmall,
+                style = MaterialTheme.typography.labelSmall.copy(fontSize = fontSize * 0.75f),
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
         }

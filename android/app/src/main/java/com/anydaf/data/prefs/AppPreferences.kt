@@ -53,6 +53,10 @@ object AppPreferences {
     private val SOURCE_DISPLAY_MODE = stringPreferencesKey("sourceDisplayMode")
     private val SHIUR_SHOW_SOURCES = booleanPreferencesKey("shiurShowSources")
     private val STUDY_FONT_SIZE = stringPreferencesKey("studyFontSize")
+    private val USE_WHITE_BACKGROUND = booleanPreferencesKey("useWhiteBackground")
+    private val TABLET_RIGHT_PANEL = stringPreferencesKey("tabletRightPanel")
+    private val TABLET_COLLAPSED_SIDE = stringPreferencesKey("tabletCollapsedSide")
+    private val TABLET_SPLIT_DP = doublePreferencesKey("tabletSplitDp")
     val totalEngagementSeconds: Flow<Long> = store.data.map { it[TOTAL_ENGAGEMENT_SECONDS] ?: 0L }
     val lastDonationNudgeTimestamp: Flow<Long> = store.data.map { it[LAST_DONATION_NUDGE_TIMESTAMP] ?: 0L }
     val lastTractateIndex: Flow<Int> = store.data.map { it[LAST_TRACTATE_INDEX] ?: 0 }
@@ -68,6 +72,12 @@ object AppPreferences {
     val studyFontSize: Flow<StudyFontSize> = store.data.map {
         StudyFontSize.entries.firstOrNull { f -> f.name == it[STUDY_FONT_SIZE] } ?: StudyFontSize.MEDIUM
     }
+    val useWhiteBackground: Flow<Boolean> = store.data.map { it[USE_WHITE_BACKGROUND] ?: false }
+    // Empty string = never set (auto-detect on first use); "SHIUR" or "STUDY" = explicit preference
+    val tabletRightPanel: Flow<String> = store.data.map { it[TABLET_RIGHT_PANEL] ?: "" }
+    // Empty string = not yet persisted (composable uses default "NONE"); -1.0 = split dp not yet persisted
+    val tabletCollapsedSide: Flow<String> = store.data.map { it[TABLET_COLLAPSED_SIDE] ?: "" }
+    val tabletSplitDp: Flow<Double> = store.data.map { it[TABLET_SPLIT_DP] ?: -1.0 }
     suspend fun saveEngagementSeconds(seconds: Long) {
         store.edit { it[TOTAL_ENGAGEMENT_SECONDS] = seconds }
     }
@@ -98,6 +108,21 @@ object AppPreferences {
 
     suspend fun saveStudyFontSize(size: StudyFontSize) {
         store.edit { it[STUDY_FONT_SIZE] = size.name }
+    }
+
+    suspend fun saveUseWhiteBackground(enabled: Boolean) {
+        store.edit { it[USE_WHITE_BACKGROUND] = enabled }
+    }
+
+    suspend fun saveTabletRightPanel(mode: String) {
+        store.edit { it[TABLET_RIGHT_PANEL] = mode }
+    }
+
+    suspend fun saveTabletLayout(collapsedSide: String, splitDp: Double) {
+        store.edit {
+            it[TABLET_COLLAPSED_SIDE] = collapsedSide
+            it[TABLET_SPLIT_DP] = splitDp
+        }
     }
 
 }

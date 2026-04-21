@@ -1,0 +1,634 @@
+{
+  "masechta": "Ketubot",
+  "daf": 59,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "The Wife's Labor and Kiddushin: Ownership and Control",
+      "display_title": "Wife's Labor Ownership",
+      "timestamp": "00:02",
+      "micro_segments": [
+        {
+          "title": "Introduction: Who Owns the Wife's Labor and the Case of Kiddushin",
+          "display_title": "Intro: Labor Ownership",
+          "timestamp": "00:02"
+        },
+        {
+          "title": "Two Foundational Approaches: Rashi vs. Tosafot on Ownership Without Refusal",
+          "display_title": "Rashi vs. Tosafot",
+          "timestamp": "00:43"
+        },
+        {
+          "title": "The Mishnah's Case of Motar (Excess Labor) and the Debate Between Rabbi Meir and Rabbi Yochanan HaSandlar",
+          "display_title": "Motar: Meir vs. Yochanan",
+          "timestamp": "01:14"
+        }
+      ]
+    },
+    {
+      "title": "The Amoraic Interpretation: Rav and Shmuel's Position on Sanctification After Death",
+      "display_title": "Rav & Shmuel View",
+      "timestamp": "01:31",
+      "micro_segments": [
+        {
+          "title": "Rav and Shmuel's Understanding: Kiddushin Takes Effect Only After the Wife Dies",
+          "display_title": "After Death Kiddushin",
+          "timestamp": "01:31"
+        },
+        {
+          "title": "The Debate Reframed: Sanctifying Something That Has Not Yet Come Into Existence (Davar Shelo Ba L'olam)",
+          "display_title": "Davar Shelo Ba L'olam",
+          "timestamp": "02:14"
+        }
+      ]
+    },
+    {
+      "title": "Rav Adda bar Abba's Alternative: Kiddushin Takes Effect While the Wife Is Alive",
+      "display_title": "Rav Adda: Alive Kiddushin",
+      "timestamp": "02:57",
+      "micro_segments": [
+        {
+          "title": "Rav Adda bar Abba's Position: The Motar Is Sanctified Even During the Wife's Lifetime",
+          "display_title": "Motar Sanctified Alive",
+          "timestamp": "02:57"
+        },
+        {
+          "title": "The Scenario: When Does the Husband Forfeit His Right to the Excess Labor?",
+          "display_title": "Forfeiture Conditions",
+          "timestamp": "03:22"
+        }
+      ]
+    },
+    {
+      "title": "The Correspondence Debate: What Exchanges for What (Midi D'Shachich vs. Midi D'Kaitz)",
+      "display_title": "Correspondence Debate",
+      "timestamp": "04:30",
+      "micro_segments": [
+        {
+          "title": "First View: Common Things Correspond—Food Bill for Regular Labor, Pin Money for Excess",
+          "display_title": "Common-to-Common Logic",
+          "timestamp": "04:30"
+        },
+        {
+          "title": "Second View: Fixed Amounts Correspond—Pin Money for Regular Labor, Variable Food Bill for Excess",
+          "display_title": "Fixed-to-Fixed Logic",
+          "timestamp": "07:00"
+        },
+        {
+          "title": "The Nafka Mina (Practical Difference): Who Controls What When One Party Refuses",
+          "display_title": "Practical Consequences",
+          "timestamp": "11:21"
+        }
+      ]
+    },
+    {
+      "title": "Contradictory Sources and Attempts to Reconcile: The Mishnah's Language Examined",
+      "display_title": "Source Reconciliation",
+      "timestamp": "12:46",
+      "micro_segments": [
+        {
+          "title": "The Baraita About Pin Money and Its Apparent Support for Fixed-to-Fixed Correspondence",
+          "display_title": "Pin Money Baraita",
+          "timestamp": "12:46"
+        },
+        {
+          "title": "The Gemara's Reinterpretation: How the Mishnah Really Means What Exceeds the Minimum",
+          "display_title": "Gemara Reinterprets",
+          "timestamp": "13:22"
+        }
+      ]
+    },
+    {
+      "title": "Shmuel's Ruling and the Contradiction with Rabbi Yochanan HaSandlar",
+      "display_title": "Shmuel's Ruling",
+      "timestamp": "17:17",
+      "micro_segments": [
+        {
+          "title": "Shmuel Rules Like Rabbi Yochanan HaSandlar: The Motar Is Not Sanctified",
+          "display_title": "Shmuel's Position",
+          "timestamp": "17:17"
+        },
+        {
+          "title": "Contradiction Exposed: The Woman's Vow Case (Konam) Versus the Mishnah's Kiddushin",
+          "display_title": "Konam vs. Kiddushin",
+          "timestamp": "18:18"
+        }
+      ]
+    },
+    {
+      "title": "The Woman's Vow (Konam) and Delayed Effect: Core Question of Ownership",
+      "display_title": "Woman's Vow Case",
+      "timestamp": "19:09",
+      "micro_segments": [
+        {
+          "title": "The Mishnah's Woman Who Forbids Her Labor with Konam: Why Can It Take Effect at Divorce?",
+          "display_title": "Konam at Divorce",
+          "timestamp": "19:09"
+        },
+        {
+          "title": "Rabbi Eliezer's View: An Extraordinary Amount of Labor (Motar Yedei Hadachak) Can Be Hers",
+          "display_title": "Motar Yedei Hadachak",
+          "timestamp": "20:07"
+        },
+        {
+          "title": "Rabbi Yochanan ben Nuri: The Vow Takes Effect Upon Divorce, So Annul It Now",
+          "display_title": "Divorce Trigger Rule",
+          "timestamp": "20:19"
+        }
+      ]
+    },
+    {
+      "title": "Rav Yosef's Explanation: The Unique Power of Konamot Over Hekdesh",
+      "display_title": "Konamot vs. Hekdesh",
+      "timestamp": "23:54",
+      "micro_segments": [
+        {
+          "title": "Konamot Are Different: They Involve the Identity of the Object (Kedusha Shel Guf), Not Mere Ownership Transfer",
+          "display_title": "Identity Change Power",
+          "timestamp": "23:54"
+        },
+        {
+          "title": "Examples of Identity Change: Chametz, Freed Slaves, and Korbanot Remove Liens and Liens",
+          "display_title": "Identity Examples",
+          "timestamp": "24:02"
+        }
+      ]
+    },
+    {
+      "title": "Abaye's Challenge: Can a Woman Forbid Her Future Labor That She Doesn't Own?",
+      "display_title": "Abaye's Challenge",
+      "timestamp": "25:37",
+      "micro_segments": [
+        {
+          "title": "Rav Yosef's Initial Analogy: Someone Can Forbid Another's Fruit; Therefore, She Can Forbid Future Labor",
+          "display_title": "Fruit Analogy",
+          "timestamp": "25:37"
+        },
+        {
+          "title": "Abaye's Objection: You Cannot Make Someone Else's Fruit Forbidden to That Someone Else",
+          "display_title": "Abaye's Logic",
+          "timestamp": "25:37"
+        }
+      ]
+    },
+    {
+      "title": "Rav Huna's Solution: Sanctifying the Hands Themselves (Kedusha Shel Guf)",
+      "display_title": "Sanctify Hands Solution",
+      "timestamp": "26:59",
+      "micro_segments": [
+        {
+          "title": "The Hands Exist Now: Reframing What Is Being Sanctified",
+          "display_title": "Hands Exist Now",
+          "timestamp": "26:59"
+        },
+        {
+          "title": "Objection: Even If the Hands Exist, She Doesn't Own Them—He Does",
+          "display_title": "Ownership Objection",
+          "timestamp": "27:52"
+        }
+      ]
+    },
+    {
+      "title": "The Delayed Kiddushin Formula: 'When I Get Divorced'",
+      "display_title": "Delayed Formula",
+      "timestamp": "28:57",
+      "micro_segments": [
+        {
+          "title": "The Woman's Declaration: Sanctifying Her Hands for the Period When She Gets Divorced",
+          "display_title": "Future Ownership Trigger",
+          "timestamp": "28:57"
+        },
+        {
+          "title": "The Resurfacing Ownership: Base Ownership That Will Return Upon Divorce",
+          "display_title": "Resurfacing Ownership",
+          "timestamp": "29:42"
+        }
+      ]
+    },
+    {
+      "title": "The Uncertainty Problem: Unlike a 99-Year Lease, Divorce Is Never Guaranteed",
+      "display_title": "Uncertainty Problem",
+      "timestamp": "30:52",
+      "micro_segments": [
+        {
+          "title": "The Gemara's Concern: The Woman May Die Before Ever Getting Divorced",
+          "display_title": "Death Before Divorce",
+          "timestamp": "30:52"
+        },
+        {
+          "title": "Rabbi Elai's Analogy: A Sold Field Repurchased (But Still Not Parallel to the Woman's Case)",
+          "display_title": "Field Repurchase",
+          "timestamp": "31:33"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yirmiyah's Objection: The Woman Has No Means to Ensure Divorce",
+      "display_title": "No Control Objection",
+      "timestamp": "32:03",
+      "micro_segments": [
+        {
+          "title": "The Purchaser Controls Repurchase; The Woman Cannot Control Her Husband's Death or Her Own",
+          "display_title": "Lack of Control",
+          "timestamp": "32:03"
+        },
+        {
+          "title": "Rav Sheshet's Reframing: The Woman Still Owns Her Own Body (Unlike a Sold Field)",
+          "display_title": "Body Ownership",
+          "timestamp": "34:09"
+        }
+      ]
+    },
+    {
+      "title": "Rav Ashi's Final Framework: Konamot Alter Identity More Fundamentally Than Hekdesh",
+      "display_title": "Rav Ashi Identity",
+      "timestamp": "39:15",
+      "micro_segments": [
+        {
+          "title": "Konamot Work Through Kedusha Shel Guf (Identity) Rather Than Kedusha Shel Damim (Ownership)",
+          "display_title": "Identity vs. Ownership",
+          "timestamp": "39:15"
+        },
+        {
+          "title": "The Rabbis Strengthen the Husband's Lien So That Identity Change Doesn't Take Effect During Marriage",
+          "display_title": "Husband's Lien Strengthe…",
+          "timestamp": "43:22"
+        }
+      ]
+    },
+    {
+      "title": "The Wife's Domestic and Labor Responsibilities: The Mishnah's Enumeration",
+      "display_title": "Wife's Obligations",
+      "timestamp": "46:10",
+      "micro_segments": [
+        {
+          "title": "The Core Domestic Duties: Grinding, Baking, Laundry, Cooking, Nursing Children, Making Beds, Spinning",
+          "display_title": "Core Duties List",
+          "timestamp": "46:10"
+        },
+        {
+          "title": "The Effect of Bringing Slaves: Reduction of Duties as the Woman's Labor Obligation Decreases",
+          "display_title": "Slaves Reduce Duties",
+          "timestamp": "47:18"
+        },
+        {
+          "title": "Four Slaves: The Woman Sits on Her Throne (Complete Exemption)",
+          "display_title": "Four Slaves Freedom",
+          "timestamp": "48:47"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Eliezer's Dissent: Even with Many Slaves, the Woman Must Spin (Kedusha Shel Guf Perspective)",
+      "display_title": "Rabbi Eliezer Spin",
+      "timestamp": "49:40",
+      "micro_segments": [
+        {
+          "title": "Rabbi Eliezer's Rationale: Idleness Leads to Licentiousness (Zeimah)",
+          "display_title": "Idleness Leads Zeimah",
+          "timestamp": "49:40"
+        }
+      ]
+    },
+    {
+      "title": "Rabban Shimon ben Gamliel's Alternative View: Idleness Leads to Depression (Shiamum), Not Sin",
+      "display_title": "Rabban Shimon Shiamum",
+      "timestamp": "51:15",
+      "micro_segments": [
+        {
+          "title": "Forced Vow Against the Husband: The Wife's Legal Right to Refuse Labor",
+          "display_title": "Vow Against Labor",
+          "timestamp": "51:15"
+        },
+        {
+          "title": "The Consequence: Divorce with Ketubah If No Productive Work Is Allowed",
+          "display_title": "Divorce Consequence",
+          "timestamp": "51:27"
+        }
+      ]
+    },
+    {
+      "title": "Gemara's Interpretation of the Mishnah's Labor Descriptions",
+      "display_title": "Gemara Interpretation",
+      "timestamp": "52:07",
+      "micro_segments": [
+        {
+          "title": "Tochenet (Grinding): Bringing Wheat to the Mill or Hand-Grinding",
+          "display_title": "Grinding Explained",
+          "timestamp": "52:07"
+        },
+        {
+          "title": "The Mishnah Is Not Like Rabbi Hiyya's View That a Woman Is Only for Beauty and Children",
+          "display_title": "Not Like Rabbi Hiyya",
+          "timestamp": "52:30"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Hiyya's Teachings: A Woman's Purpose (Beauty, Children, Adornment) and Practical Implications for Husbands",
+      "display_title": "Rabbi Hiyya View",
+      "timestamp": "52:32",
+      "micro_segments": [
+        {
+          "title": "A Woman Is Only for Beauty; A Woman Is Only for Children; A Woman Is Only for Adornment",
+          "display_title": "Three Purposes",
+          "timestamp": "52:32"
+        },
+        {
+          "title": "Practical Advice: Husbands Should Provide Linen Garments and Daughters Should Eat Well for Complexion",
+          "display_title": "Husbands' Duties",
+          "timestamp": "54:16"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Ba'al habayis (Master/Owner of Household)",
+      "timestamps": [
+        "00:28",
+        "01:55"
+      ]
+    },
+    {
+      "term": "Mezonot (Food/Support Obligation)",
+      "timestamps": [
+        "03:22",
+        "04:30",
+        "04:52",
+        "05:00"
+      ]
+    },
+    {
+      "term": "Ma'ah Kesef (Pin Money)",
+      "timestamps": [
+        "03:26",
+        "04:36",
+        "04:43",
+        "04:56",
+        "05:03"
+      ]
+    },
+    {
+      "term": "Ma'asei Yadeiha (Labor of Hands)",
+      "timestamps": [
+        "01:19",
+        "05:00",
+        "08:17",
+        "13:01"
+      ]
+    },
+    {
+      "term": "Motar (Excess Beyond Minimum)",
+      "timestamps": [
+        "01:16",
+        "02:40",
+        "04:43",
+        "05:31",
+        "06:02"
+      ]
+    },
+    {
+      "term": "Kiddushin (Sanctification/Consecration)",
+      "timestamps": [
+        "01:01",
+        "02:10",
+        "02:40",
+        "06:06"
+      ]
+    },
+    {
+      "term": "Rabbi Meir",
+      "timestamps": [
+        "01:22",
+        "07:33"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan HaSandlar",
+      "timestamps": [
+        "01:24",
+        "02:28",
+        "17:29"
+      ]
+    },
+    {
+      "term": "Rav (and Shmuel)",
+      "timestamps": [
+        "01:39",
+        "04:52"
+      ]
+    },
+    {
+      "term": "Shmuel",
+      "timestamps": [
+        "01:39",
+        "17:29",
+        "21:29"
+      ]
+    },
+    {
+      "term": "Rav Adda bar Abba",
+      "timestamps": [
+        "02:57",
+        "06:27"
+      ]
+    },
+    {
+      "term": "Davar Shelo Ba L'olam (Thing That Has Not Yet Come Into Existence)",
+      "timestamps": [
+        "02:43",
+        "02:52",
+        "05:36",
+        "05:50"
+      ]
+    },
+    {
+      "term": "Midi D'Shachich (Common Things Connect to Common Things)",
+      "timestamps": [
+        "08:05"
+      ]
+    },
+    {
+      "term": "Midi D'Kaitz (Fixed Amounts Connect to Fixed Amounts)",
+      "timestamps": [
+        "10:06"
+      ]
+    },
+    {
+      "term": "Konam (Vow of Prohibition)",
+      "timestamps": [
+        "18:25",
+        "21:53",
+        "23:39"
+      ]
+    },
+    {
+      "term": "Neder (Vow)",
+      "timestamps": [
+        "18:28",
+        "20:10",
+        "21:20"
+      ]
+    },
+    {
+      "term": "Korban (Sacrifice/Sanctified Object)",
+      "timestamps": [
+        "18:38",
+        "22:10"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer",
+      "timestamps": [
+        "49:23",
+        "51:01"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan ben Nuri",
+      "timestamps": [
+        "20:19",
+        "21:41"
+      ]
+    },
+    {
+      "term": "Rav Yosef",
+      "timestamps": [
+        "23:27"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "25:37"
+      ]
+    },
+    {
+      "term": "Rav Huna",
+      "timestamps": [
+        "26:59"
+      ]
+    },
+    {
+      "term": "Rabbi Yirmiyah",
+      "timestamps": [
+        "32:03"
+      ]
+    },
+    {
+      "term": "Rav Ashi",
+      "timestamps": [
+        "37:45",
+        "39:15"
+      ]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": [
+        "35:45"
+      ]
+    },
+    {
+      "term": "Kedusha Shel Guf (Sanctity of the Object's Identity)",
+      "timestamps": [
+        "39:29",
+        "40:01"
+      ]
+    },
+    {
+      "term": "Kedusha Shel Damim (Sanctity of Ownership/Monetary Rights)",
+      "timestamps": [
+        "39:33"
+      ]
+    },
+    {
+      "term": "Zeimah (Licentiousness)",
+      "timestamps": [
+        "49:40",
+        "52:05"
+      ]
+    },
+    {
+      "term": "Shiamum (Depression/Going Crazy)",
+      "timestamps": [
+        "51:43"
+      ]
+    },
+    {
+      "term": "Rabban Shimon ben Gamliel",
+      "timestamps": [
+        "51:10"
+      ]
+    },
+    {
+      "term": "Ketubah (Marriage Contract)",
+      "timestamps": [
+        "51:27"
+      ]
+    },
+    {
+      "term": "Tochenet (Grinding)",
+      "timestamps": [
+        "46:26",
+        "52:07"
+      ]
+    },
+    {
+      "term": "Rabbi Hiyya",
+      "timestamps": [
+        "52:30",
+        "52:32",
+        "52:59"
+      ]
+    },
+    {
+      "term": "Reciprocity and Exchange in Marriage",
+      "timestamps": [
+        "06:21",
+        "06:27"
+      ]
+    },
+    {
+      "term": "Nafka Mina (Practical Difference/Consequence)",
+      "timestamps": [
+        "11:26"
+      ]
+    },
+    {
+      "term": "Hekdesh (Sanctified to the Temple)",
+      "timestamps": [
+        "02:10",
+        "04:48",
+        "06:04",
+        "23:39"
+      ]
+    },
+    {
+      "term": "Motar Yedei Hadachak (Extraordinary Labor)",
+      "timestamps": [
+        "20:07"
+      ]
+    },
+    {
+      "term": "Mefer/Hafarah (Annul a Vow)",
+      "timestamps": [
+        "20:24",
+        "31:08"
+      ]
+    },
+    {
+      "term": "Shifcha (Slave/Maidservant)",
+      "timestamps": [
+        "47:17",
+        "47:21"
+      ]
+    },
+    {
+      "term": "Katedra (Throne)",
+      "timestamps": [
+        "48:51"
+      ]
+    }
+  ]
+}

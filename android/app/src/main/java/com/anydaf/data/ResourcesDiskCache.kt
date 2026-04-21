@@ -74,7 +74,7 @@ object ResourcesDiskCache {
 
     private fun cacheFile(context: Context, tractate: String, source: YCTSource): File {
         val safeTractate = tractate.replace(Regex("[^A-Za-z0-9]"), "_")
-        return File(cacheDir(context), "yct_${source.name.lowercase()}_v2_${safeTractate}.json")
+        return File(cacheDir(context), "yct_${source.name.lowercase()}_v3_${safeTractate}.json")
     }
 
     private fun serializeArticleArray(articles: List<YCTArticle>): JSONArray {

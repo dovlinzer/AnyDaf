@@ -1,0 +1,45 @@
+### Avodah Zarah 23b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא בְּפָרָה, דְּדָמֶיהָ יְקָרִין, אֲבָל בִּשְׁאָר קׇרְבְּנוֹת מוֹדוּ לֵיהּ!
+*Translation:* **only with regard to** the red **heifer, as its price is exorbitant,** and the Rabbis maintain that the gentile would not risk forfeiting the profit for a temporary benefit. **But with regard to the rest** of the **offerings,** which are not exceptionally valuable, **they concede to** Rabbi Eliezer that animals purchased from gentiles may not be used for these offerings.
+
+**2.**
+*Hebrew/Aramaic:* וְאֶלָּא הָא דְּתַנְיָא: לוֹקְחִין מֵהֶן בְּהֵמָה לְקׇרְבָּן, מַנִּי? לָא רַבִּי אֱלִיעֶזֶר וְלָא רַבָּנַן!
+*Translation:* The Gemara rejects this possibility: **But** what about **that which is taught** in the *Tosefta*, cited earlier: **One may purchase an animal from** gentiles **for** use as **an offering;** in accordance with **whose** opinion was this taught? It is **not** the opinion of **Rabbi Eliezer nor** that of **the Rabbis.**
+
+**3.**
+*Hebrew/Aramaic:* וְעוֹד, תַּנְיָא בְּהֶדְיָא: מַאי אוֹתִיבוּ לֵיהּ חַבְרוֹהִי לְרַבִּי אֱלִיעֶזֶר? ״כׇּל צֹאן קֵדָר יִקָּבְצוּ לָךְ... יַעֲלוּ לְרָצוֹן עַל מִזְבְּחִי״.
+*Translation:* **And furthermore, it is explicitly taught** in a *baraita*: **What did Rabbi Eliezer’s colleagues respond to him** with regard to his ruling that an animal purchased from gentiles may not be used as an offering? They quoted a verse: **“All flocks of Kedar shall be gathered together unto you,** the rams of Nebaioth shall minister unto you; **they shall come up with acceptance upon My altar”** (Isaiah 60:7). Since the Rabbis learn from this verse that animals intended for use in all types of offerings may be purchased from gentiles, there is no reason to assume that they concede to Rabbi Eliezer. Consequently, Rabbi Pedat’s opinion that the mishna is in accordance with the opinion of Rabbi Eliezer, while the *baraita* is in accordance with the opinion of the Rabbis, remains uncontroverted.
+
+**4.**
+*Hebrew/Aramaic:* עַד כָּאן לָא פְּלִיגִי אֶלָּא בַּחֲשָׁשָׁא, אֲבָל הֵיכָא דְּוַדַּאי רַבְעַהּ — פַּסְלַהּ; שְׁמַע מִינַּהּ דְּפָרָה קׇדְשֵׁי מִזְבֵּחַ הִיא, דְּאִי קׇדְשֵׁי בֶּדֶק הַבַּיִת — מִי מַיפְסְלָא בַּהּ רְבִיעָה?!
+*Translation:* § The Gemara continues to discuss the *halakhot* of the red heifer. Rabbi Eliezer and the Rabbis **disagree only with regard to** a case where there is merely **a concern** that a person engaged in bestiality with the animal. **But** in a situation **where** the gentile **certainly engaged in bestiality with it,** all agree that **he has disqualified it** as an offering. The Gemara comments: **Learn from it that** the red **heifer is** classified as **consecrated for the altar, as if** it were classified as **consecrated for Temple maintenance, does** the fact that a person engaged in **bestiality** with it serve to **disqualify it?** Items consecrated for the maintenance of the Temple, which are not sacrificed upon the altar, are not rendered unfit by this act.
+
+**5.**
+*Hebrew/Aramaic:* שָׁאנֵי פָּרָה, דְּחַטָּאת קַרְיַיהּ רַחֲמָנָא.
+*Translation:* The Gemara rejects this conclusion: Although it is classified as consecrated for Temple maintenance, the purification offering of the red **heifer is different, as the Merciful One labels it** with the term for **a sin-offering.** Accordingly, the red heifer is subject to the same *halakhot* as a sin-offering, which means it is disqualified if it is the object of bestiality.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא מֵעַתָּה, תִּיפָּסֵל בְּיוֹצֵא דּוֹפֶן! וְכִי תֵּימָא הָכִי נָמֵי, אַלְּמָה תַּנְיָא: הִקְדִּישָׁהּ בְּיוֹצֵא דּוֹפֶן — פְּסוּלָה, וְרַבִּי שִׁמְעוֹן מַכְשִׁיר?
+*Translation:* The Gemara counters: **If that is so,** then the red heifer **should be disqualified** if it was **born by caesarean section,** as this is the *halakha* concerning all other sin-offerings. The Gemara adds: **And if you would say** that **indeed, that is so,** then **why is it taught** in a *baraita*: If one **consecrated** a red heifer despite the fact that it was **born by caesarean section,** it is **disqualified** for use as a red heifer, **and Rabbi Shimon deems** the heifer **fit** for use in purification. If, as indicated by the verse, the *halakhot* of a sin-offering apply to the red heifer, how can Rabbi Shimon deem this animal fit?
+
+**7.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא, רַבִּי שִׁמְעוֹן לְטַעְמֵיהּ, דְּאָמַר: יוֹצֵא דּוֹפֶן וָלָד מְעַלְּיָא הוּא, וְהָאָמַר רַבִּי יוֹחָנָן: מוֹדֶה הָיָה רַבִּי שִׁמְעוֹן לְעִנְיַן קָדָשִׁים שֶׁאֵינוֹ קָדוֹשׁ!
+*Translation:* The Gemara adds: **And if you would say** that **Rabbi Shimon** conforms **to his** standard line of **reasoning, as he says** (see *Nidda* 40a): A baby **born by caesarean section is** considered **a full-fledged offspring** and is no different from a baby born in a regular manner, that is difficult: **But doesn’t Rabbi Yoḥanan say** that **Rabbi Shimon would concede with regard to sacrificial** animals **that** an animal born by caesarian section **is not consecrated?** If so, even Rabbi Shimon should agree that the heifer is disqualified.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא שָׁאנֵי פָּרָה, הוֹאִיל וּמוּם פּוֹסֵל בָּהּ — דְּבַר עֶרְוָה וַעֲבוֹדָה זָרָה נָמֵי פּוֹסֵל בָּהּ, דִּכְתִיב: ״כִּי מׇשְׁחָתָם בָּהֶם מוּם בָּם״, וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: כָּל מָקוֹם שֶׁנֶּאֱמַר הַשְׁחָתָה — אֵינוֹ אֶלָּא דְּבַר עֶרְוָה וַעֲבוֹדָה זָרָה.
+*Translation:* The Gemara explains: **Rather,** the red **heifer is different: Since a blemish disqualifies it, a matter of licentiousness and** a matter of **idol worship also disqualify it, as it is written:** “Neither from the hand of a foreigner shall you offer the bread of your God of any of these, **because their corruption is in them, there is a blemish in them”** (Leviticus 22:25). This verse indicates that corruption is considered a blemish, **and the school of Rabbi Yishmael taught: Anywhere that** the term **corruption is stated,** it **is** a reference to **nothing other than a matter of licentiousness and idol worship.**
+
+**9.**
+*Hebrew/Aramaic:* דְּבַר עֶרְוָה, דִּכְתִיב: ״כִּי הִשְׁחִית כׇּל בָּשָׂר אֶת דַּרְכּוֹ עַל הָאָרֶץ״, וַעֲבוֹדָה זָרָה, דִּכְתִיב: ״פֶּן תַּשְׁחִתוּן וַעֲשִׂיתֶם לָכֶם פֶּסֶל״; וְהָא פָּרָה נָמֵי, הוֹאִיל וּמוּם פּוֹסֵל בָּהּ, דְּבַר עֶרְוָה וַעֲבוֹדָה זָרָה פָּסְלִי בַּהּ.
+*Translation:* The Gemara supports this claim: Corruption is a reference to **a matter of licentiousness, as it is written** with regard to the generation of the flood: “And God saw the earth, and, behold, it was corrupt; **for all flesh had corrupted their way upon the earth”** (Genesis 6:12). **And** corruption also is a reference to **idol worship, as it is written: “Lest you deal corruptly, and make you a graven image”** (Deuteronomy 4:16). **And consequently,** with regard to the red **heifer also, since a blemish disqualifies it, a matter of licentiousness and idol worship** likewise **disqualify it.**
+
+**10.**
+*Hebrew/Aramaic:* גּוּפָא, תָּנֵי שֵׁילָא: מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? דִּכְתִיב: ״דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיִקְחוּ״, בְּנֵי יִשְׂרָאֵל יִקְחוּ, וְאֵין הַגּוֹיִם יִקְחוּ. אֶלָּא מֵעַתָּה: ״דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְיִקְחוּ לִי תְּרוּמָה״, הָכִי נָמֵי דִּבְנֵי יִשְׂרָאֵל יִקְחוּ, וְאֵין הַגּוֹיִם יִקְחוּ?
+*Translation:* § Earlier, Sheila provided a rationale for Rabbi Eliezer’s ruling that a red heifer may not be purchased from gentiles. The Gemara examines **the** matter **itself. Sheila teaches** in a *baraita*: **What is the reasoning of Rabbi Eliezer?** It is **as it is written: “Speak unto the children of Israel that they take to you** a red heifer” (Numbers 19:2). This indicates that **the children of Israel take** the red heifer, **but gentiles do not take** the red heifer. The Gemara asks: **If that is so,** then when the verse states with regard to the donations for the Tabernacle: **“Speak unto the children of Israel, that they take for Me an offering”** (Exodus 25:2), **so too** one can claim **that** only **the children of Israel take** an offering for God, **but gentiles do not take** an offering, and that no items for the Temple service may be purchased from gentiles.
+
+**11.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: הָכִי נָמֵי, וְהָאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שָׁאֲלוּ אֶת רַבִּי אֱלִיעֶזֶר: עַד הֵיכָן כִּיבּוּד אָב וָאֵם? אָמַר לָהֶם: צְאוּ וּרְאוּ מָה עָשָׂה גּוֹי אֶחָד לְאָבִיו בְּאַשְׁקְלוֹן, וְדָמָא בֶּן נְתִינָה שְׁמוֹ. פַּעַם אַחַת בִּקְּשׁוּ מִמֶּנּוּ אֲבָנִים לָאֵפוֹד
+*Translation:* **And if you would say** that **indeed, that is so,** this cannot be correct. **But doesn’t Rav Yehuda say** that **Shmuel says:** The Sages **asked Rabbi Eliezer: To what extent** must one exert himself to fulfill the mitzva of **honoring one’s father and mother?** Rabbi Eliezer **said to them: Go and see what a certain gentile did for his father in Ashkelon, and his name is Dama ben Netina. Once,** the Sages **sought** to purchase precious **stones from him for the ephod** of the High Priest

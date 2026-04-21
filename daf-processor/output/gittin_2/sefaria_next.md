@@ -1,0 +1,65 @@
+### Gittin 3a
+
+**1.**
+*Hebrew/Aramaic:* מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
+*Translation:* **due to** the possibility of **desertion,** i.e., that she may become like a deserted wife, **the Sages were lenient with her** by saying that the agent who brought the bill of divorce is deemed credible, despite the fact that he is a single witness. This is to prevent women from becoming uncertain of their marital status as a result of the lack of testimony needed to ratify the bill of divorce.
+
+**2.**
+*Hebrew/Aramaic:* הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ!
+*Translation:* The Gemara asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, her **husband cannot come** to **contest and invalidate it,** as his testimony will not be accepted against that of the two witnesses. However, if only **one** agent brings the bill of divorce, the **husband** can **come and contest and invalidate** the document.
+
+**3.**
+*Hebrew/Aramaic:* כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק, וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
+*Translation:* The Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
+
+**4.**
+*Hebrew/Aramaic:* וּלְרָבָא דְּאָמַר לְפִי שֶׁאֵין עֵדִים מְצוּיִין לְקַיְּימוֹ – לִיבְעֵי תְּרֵי, מִידֵּי דְּהָוֵה אַקִּיּוּם שְׁטָרוֹת דְּעָלְמָא! עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין.
+*Translation:* The Gemara asks: **And according to** the opinion of **Rava, who said** that the agent must say: It was written in my presence and it was signed in my presence, **because there are no witnesses available to ratify it, let us require two** witnesses, **just as is** the practice with regard to the **typical** case of **ratification of** legal **documents,** which must be performed via two witnesses. The Gemara answers as above: **One witness is deemed credible with regard to prohibitions.**
+
+**5.**
+*Hebrew/Aramaic:* אֵימַר דְּאָמְרִינַן עֵד אֶחָד נֶאֱמָן בְּאִיסּוּרִין, כְּגוֹן חֲתִיכָה סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן, דְּלָא אִיתַּחְזַק אִיסּוּרָא; אֲבָל הָכָא אִיתַּחְזַק אִיסּוּרָא דְּאֵשֶׁת אִישׁ – הָוֵי דָּבָר שֶׁבָּעֶרְוָה, וְאֵין דָּבָר שֶׁבָּעֶרְוָה פָּחוֹת מִשְּׁנַיִם!
+*Translation:* Again the Gemara asks: One can **say that we say** that **one witness is deemed credible with regard to prohibitions** in a case **such as** where there is **a piece** of fat, and it is **uncertain** if it is forbidden **fat** and **uncertain** if it is permitted **fat.** In this situation, the piece can be permitted by a single witness, **as there is no presumption** that it is **forbidden. However, here there is a presumption** that this woman is **forbidden as a married woman.** If so, this **is a matter of forbidden sexual relations, and there is no matter** of testimony **for forbidden sexual relations** that can be attested to by **fewer than two** witnesses.
+
+**6.**
+*Hebrew/Aramaic:* בְּדִין הוּא דִּבְקִיּוּם שְׁטָרוֹת נָמֵי לָא לִיבְעֵי, כִּדְרֵישׁ לָקִישׁ – דְּאָמַר רֵישׁ לָקִישׁ: עֵדִים הַחֲתוּמִים עַל הַשְּׁטָר, נַעֲשׂוּ כְּמִי שֶׁנֶּחְקְרָה עֵדוּתָן בְּבֵית דִּין – וְרַבָּנַן הוּא דְּאַצְרוּךְ; וְהָכָא מִשּׁוּם עִיגּוּנָא אַקִּילוּ בַּהּ רַבָּנַן.
+*Translation:* The Gemara answers: **By right** it should be **that with regard to** the **ratification of** legal **documents as well,** the court **should not require** two witnesses, **in accordance with** the opinion **of Reish Lakish. As Reish Lakish says: Witnesses signed on** a legal **document become like** a pair of witnesses **whose testimony has been examined in court,** and the document should be accepted without further ratification. **And it is the Sages who required** the court to ratify documents. **And here,** with regard to bills of divorce, **the Rabbis were lenient with her** by allowing the document to be ratified through the agent’s testimony alone, **due to** the possibility of **desertion.**
+
+**7.**
+*Hebrew/Aramaic:* הַאי קוּלָּא הוּא?! חוּמְרָא הוּא! דְּאִי מַצְרְכַתְּ לֵיהּ תְּרֵי – לָא אָתֵי בַּעַל מְעַרְעֵר וּפָסֵיל לֵיהּ; חַד – אָתֵי בַּעַל וּמְעַרְעֵר וּפָסֵיל לֵיהּ! כֵּיוָן דְּאָמַר מָר: בִּפְנֵי כַּמָּה נוֹתְנוֹ לָהּ? רַבִּי יוֹחָנָן וְרַבִּי חֲנִינָא; חַד אָמַר: בִּפְנֵי שְׁנַיִם, וְחַד אָמַר: בִּפְנֵי שְׁלֹשָׁה; מֵעִיקָּרָא מִידָּק דָּיֵיק וְלָא אָתֵי לְאוֹרוֹעֵי נַפְשֵׁיהּ.
+*Translation:* The Gemara again asks: **Is this** ruling **a leniency? It is a stringency, since if you require two** witnesses to testify **with regard to** the bill of divorce, then her **husband cannot come** to **contest and invalidate it,** whereas if there is only **one** agent, her **husband can come and contest and invalidate it.** Once again the Gemara answers: **Since the Master says: In the presence of how many** people must the agent who brings the bill of divorce **give it to** the woman? **Rabbi Yoḥanan and Rabbi Ḥanina** disagreed with regard to this issue. **One said** that he must deliver it to her **in the presence of** at least **two** people, **and one said** that he must deliver it to her **in the presence of** at least **three** people, as three individuals are considered a court. Therefore, **at the outset** the agent is **careful** to clarify the matter fully, **and he will not act to his own detriment** by bringing an invalid bill of divorce.
+
+**8.**
+*Hebrew/Aramaic:* וְרָבָא, מַאי טַעְמָא לָא אָמַר כְּרַבָּה? אָמַר לָךְ: מִי קָתָנֵי ״בְּפָנַי נִכְתַּב לִשְׁמָהּ, בְּפָנַי נֶחְתַּם לִשְׁמָהּ״?!
+*Translation:* After clarifying the basic dispute, the Gemara discusses the reasons for each opinion. **And** as for **Rava, what is the reason** that **he did not say like Rabba,** that the reason the agent must declare: It was written in my presence and it was signed in my presence, is due to the concern that the bill of divorce was not written for the woman’s sake? The Gemara answers that Rava could have **said to you: Is** it **taught** in the mishna that the agent must say: **It was written in my presence for her sake,** and **it was signed in my presence for her sake?** Since the agent does not testify that it was written for her sake, this indicates that the Sages did not institute the requirement that he state this declaration to ensure that it was written for her sake.
+
+**9.**
+*Hebrew/Aramaic:* וְרַבָּה? בְּדִין הוּא דְּלִיתְנֵי הָכִי, אֶלָּא דְּאִי מַפְּשַׁתְּ לֵיהּ דִּיבּוּרָא – אָתֵי לְמִגְזְּיֵיהּ.
+*Translation:* The Gemara asks: **And** how does **Rabba** respond to this claim? The Gemara answers: **By right** it is so **that** the mishna should **teach** in **this** manner. **However,** the Sages did not require him to say this, **as if you increase** the agent’s requirement to **speak,** by obligating him to state this lengthy declaration, **he will** likely **come to shorten it.** If he has too much to remember, he might forget some of the formula, and his error will render the bill of divorce invalid.
+
+**10.**
+*Hebrew/Aramaic:* הַשְׁתָּא נָמֵי אָתֵי לְמִגְזְּיֵיהּ! חֲדָא מִתְּלָת גָּאֵיז, חֲדָא מִתַּרְתֵּי לָא גָּאֵיז.
+*Translation:* The Gemara asks: **Now too,** with regard to the formula as it stands, **he will come to shorten it** by omitting either it was written in my presence or it was signed in my presence. The Gemara answers: He is likely to **shorten** it by omitting **one** term out **of three,** such as: For her sake, from the three-term clause: It was written, in my presence, for her sake. However, **he will not shorten** his declaration by omitting **one** term **of two.** Consequently, when asked if it was written in his presence, he will answer with the full statement, and the same is true when he is asked if it was signed in his presence.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבָּה, מַאי טַעְמָא לָא אָמַר כְּרָבָא? אָמַר לָךְ: אִם כֵּן נִיתְנֵי ״בְּפָנַי נֶחְתַּם״ וְתוּ לָא; ״בְּפָנַי נִכְתַּב״ לְמָה לִי? שְׁמַע מִינַּהּ בָּעֵינַן לִשְׁמָהּ.
+*Translation:* The Gemara asks concerning the other opinion: **And** as for **Rabba, what is the reason** that **he did not say like Rava,** that the reason for the decree is because witnesses may not be available to ratify the bill of divorce? The Gemara answers that Rabba could have **said to you: If so, let** the mishna **teach: It was signed in my presence, and nothing more,** as this is a confirmation that the signatures of the witnesses on the document are valid. **Why do I** need the agent to add: **It was written in my presence? Conclude from it** that the reason for this decree is because **we need** the bill of divorce to be written **for her sake.**
+
+**12.**
+*Hebrew/Aramaic:* וְרָבָא? בְּדִין הוּא דְּלִיתְנֵי הָכִי, אֶלָּא דְּאִם כֵּן, אָתֵי לְאִיחַלּוֹפֵי בְּקִיּוּם שְׁטָרוֹת דְּעָלְמָא – בְּעֵד אֶחָד.
+*Translation:* The Gemara asks: **And** how does **Rava** respond to this claim? The Gemara answers: Rava would answer that **by right** it is so **that** the mishna should **teach** in **this** manner. **But if** this were to be **so,** that the agent declares merely: It was signed in my presence, people **will come to confuse** the matter **with the typical** case of **ratification of** legal **documents.** In other words, they will think it is possible to ratify other documents via the testimony **of one witness.** Consequently, the Sages added that the agent must also declare: It was written in my presence, which is not generally stated with regard to the confirmation of other documents.
+
+**13.**
+*Hebrew/Aramaic:* וְרַבָּה: מִי דָּמֵי?! הָתָם ״יָדְעִינַן״, הָכָא ״בְּפָנַי״;
+*Translation:* The Gemara comments: **And Rabba** would respond as follows: There is no concern that people will confuse the ratification of a bill of divorce with the typical case of the ratification of legal documents, as **are** the two cases **comparable** at all? **There,** with regard to the ratification of other documents, the witnesses need only say: **We know** that these are the signatures of the witnesses on the document. By contrast, **here,** in the case of a bill of divorce, the agent must say: It was signed **in my presence.**
+
+**14.**
+*Hebrew/Aramaic:* הָתָם אִשָּׁה לָא מְהֵימְנָא, הָכָא אִשָּׁה מְהֵימְנָא; הָתָם בַּעַל דָּבָר לָא מְהֵימַן, הָכָא בַּעַל דָּבָר מְהֵימַן.
+*Translation:* Additionally, **there,** in the case of other documents, **a woman is not deemed credible,** whereas **here, a woman is deemed credible** when she brings a bill of divorce and declares that it was written and signed in her presence. Additionally, **there,** in the case of other documents, **an interested party is not deemed credible** to testify concerning the validity of the document. However, **here, an interested party is deemed credible,** as even the woman herself can bring her bill of divorce and testify that it was drafted in the correct manner.
+
+**15.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר לָךְ: אַטּוּ הָכָא כִּי אָמְרִי ״יָדְעִינַן״ מִי לָא מְהֵימְנִי?! וְכֵיוָן דְּכִי אָמְרִי ״יָדְעִינַן״ מְהֵימְנִי, אָתֵי לְאִיחַלּוֹפֵי בְּקִיּוּם שְׁטָרוֹת דְּעָלְמָא – בְּעֵד אֶחָד.
+*Translation:* **And Rava,** how would he respond to this claim? He could have **said to you: Is that to say** that **here,** in the case of a bill of divorce, **if** the witnesses of ratification **say: We know, they are not deemed credible?** They would be deemed credible even if they used that formula. **And since when** they **say: We know, they are deemed credible,** people **will come to confuse it with the typical** case of **ratification of** legal **documents,** which they will perform **via one witness.**
+
+**16.**
+*Hebrew/Aramaic:* וּלְרַבָּה דְּאָמַר לְפִי שֶׁאֵין בְּקִיאִין לִשְׁמָהּ, מַאן הַאי תַּנָּא דְּבָעֵי כְּתִיבָה לִשְׁמָהּ, וּבָעֵי
+*Translation:* The Gemara asks: **And according to** the opinion of **Rabba, who said** that the reason for the declaration: It was written in my presence and it was signed in my presence, is **because they are not experts** in writing a bill of divorce **for her sake, who is this *tanna* who requires** that the **writing** of the bill of divorce must be performed **for her sake, and** also **requires**

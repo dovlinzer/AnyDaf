@@ -1,435 +1,656 @@
 {
   "masechta": "Meilah",
   "daf": 6,
-  "amud": "",
+  "amud": "a-b",
   "macro_segments": [
     {
-      "title": "Introduction to Status Changes in Korban: Kodesh Kodashim vs. Kodashim Kalim",
-      "display_title": "Status Changes Overview",
-      "timestamp": "00:06",
+      "title": "Introduction to Me'ilah Status Changes and the Role of Zrika vs. Kabbala",
+      "display_title": "Zrika vs. Kabbala",
+      "timestamp": "00:00",
       "micro_segments": [
         {
-          "title": "Basic Framework: When Zrika Changes Meilah Status",
-          "display_title": "Zrika & Status Change",
-          "timestamp": "00:06"
+          "title": "Overview of Me'ilah status by sacrifice type and the effect of zrika",
+          "display_title": "Me'ilah by Kodashim",
+          "timestamp": "00:00"
         },
         {
-          "title": "The Question of Timing: Zrika vs. Kabbalat Hadam",
-          "display_title": "Zrika vs. Kabbalah",
+          "title": "The debate over whether zrika or kabbala is the critical moment for status change",
+          "display_title": "Critical Moment",
           "timestamp": "01:03"
         }
       ]
     },
     {
-      "title": "Rabbi Shimon on Notar: When Meilah Applies and When It Doesn't",
-      "display_title": "Notar & Meilah Status",
+      "title": "Baraita on Notar: When There Is and Is Not Me'ilah",
+      "display_title": "Notar Cases",
       "timestamp": "02:25",
       "micro_segments": [
         {
-          "title": "The Baraita of Rabbi Shimon: Notar Before and After Zrika",
-          "display_title": "Rabbi Shimon Notar",
+          "title": "Rabbi Shimon's teaching: some notar has me'ilah, some does not",
+          "display_title": "Notar Distinction",
           "timestamp": "02:25"
         },
         {
-          "title": "Gemara's Challenge: Why Zrika Rather Than Kabbalah?",
-          "display_title": "Gemara Challenge",
-          "timestamp": "06:00"
+          "title": "Simple reading: the critical moment is whether the problem (lina) occurred before or after zrika",
+          "display_title": "Before/After Zrika",
+          "timestamp": "02:50"
         },
         {
-          "title": "Resolving the Challenge: Zrika Means 'Fit for Zrika'",
-          "display_title": "Zrika = Rauy L'Zrika",
+          "title": "Gemara's alternative reading: the critical moment is really about heit lizrika (fitness for zrika), not zrika itself",
+          "display_title": "Heit Lizrika",
+          "timestamp": "03:38"
+        },
+        {
+          "title": "Gemara questions why the baraita emphasizes zrika rather than shkiya (sunset) as the dividing line",
+          "display_title": "Why Zrika?",
+          "timestamp": "05:51"
+        },
+        {
+          "title": "Gemara's resolution: interpreting zrika as heit lizrika (fitness for zrika) rather than literal zrika",
+          "display_title": "Reinterpreting Zrika",
           "timestamp": "07:00"
-        },
-        {
-          "title": "Rashi's Reinterpretation: Eating the Meat vs. Throwing the Blood",
-          "display_title": "Rashi's Reading",
-          "timestamp": "09:11"
         }
       ]
     },
     {
-      "title": "Rabbi Shimon on Piggul: Before and After Zrika",
-      "display_title": "Piggul Status Question",
+      "title": "Baraita on Pigul: Applying the Same Logic to Disqualified Sacrifices",
+      "display_title": "Pigul Cases",
       "timestamp": "10:46",
       "micro_segments": [
         {
-          "title": "The Baraita of Rabbi Shimon on Piggul",
-          "display_title": "Rabbi Shimon Piggul",
+          "title": "Rabbi Shimon's parallel teaching about pigul: some pigul has me'ilah, some does not",
+          "display_title": "Pigul Distinction",
           "timestamp": "10:46"
         },
         {
-          "title": "The Problem: When Does Piggul Occur?",
-          "display_title": "Piggul Timing Issue",
-          "timestamp": "16:51"
+          "title": "The problem: pigul cannot occur after zrika, so how can we understand 'after zrika' in this context?",
+          "display_title": "Pigul Timing Problem",
+          "timestamp": "11:25"
         },
         {
-          "title": "Gemara's Clarification: Piggul and Rauy L'Zrika",
-          "display_title": "Piggul & Rauy",
+          "title": "Rashi's reading: interpreting the statement as referring to when one ate the meat, not when pigul occurred",
+          "display_title": "Rashi's Interpretation",
+          "timestamp": "11:43"
+        },
+        {
+          "title": "Alternative understanding: pigul before versus during zrika; even if pigul occurs after kabbala, the zrika must be good to help",
+          "display_title": "Pigul and Zrika",
+          "timestamp": "13:03"
+        },
+        {
+          "title": "Gemara's challenge: if the critical moment is really kabbala, why does the baraita emphasize zrika?",
+          "display_title": "Challenge to Kabbala",
+          "timestamp": "15:48"
+        },
+        {
+          "title": "Gemara's response: interpreting 'before zrika' and 'after zrika' as 'before it was fit for zrika' and 'after it was fit for zrika'",
+          "display_title": "Reinterpreted Timing",
           "timestamp": "18:11"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Gemara's Key Distinction: Going Into Me'ilah vs. Leaving Me'ilah",
+      "display_title": "Into vs. Out of Me'ilah",
+      "timestamp": "20:09",
+      "micro_segments": [
         {
-          "title": "The Braita on Piggul in Kodshei Kodashim",
-          "display_title": "Piggul Kodshei",
+          "title": "Gemara's question: why does the baraita run to the case of kodashim kalim to demonstrate no me'ilah, rather than offering a case within kodashei kodashim?",
+          "display_title": "Why Kodashim Kalim?",
           "timestamp": "20:09"
+        },
+        {
+          "title": "Gemara's answer: the baraita teaches that questionable or non-standard zrika can remove something from the me'ilah category more easily than it can add something to it",
+          "display_title": "Asymmetry Principle",
+          "timestamp": "22:29"
+        },
+        {
+          "title": "Conceptual principle: standards may differ depending on whether one is trying to enter or exit the me'ilah category",
+          "display_title": "Bidirectional Standards",
+          "timestamp": "24:30"
         }
       ]
     },
     {
-      "title": "Asymmetry Principle: Different Standards for Up vs. Down",
-      "display_title": "Up/Down Asymmetry",
-      "timestamp": "22:20",
+      "title": "Yotzei (Taken Outside): Rabbi Eliezer vs. Rabbi Akiva",
+      "display_title": "Yotzei Debate",
+      "timestamp": "40:46",
       "micro_segments": [
         {
-          "title": "Introduction of the Asymmetry: Entering vs. Exiting Meilah Category",
-          "display_title": "Into/Out of Meilah",
-          "timestamp": "22:20"
-        },
-        {
-          "title": "Kol Ha'asuy Lidei Meilah: Things That Create or Remove Meilah Status",
-          "display_title": "Kol Ha'asuy Principle",
-          "timestamp": "22:27"
-        }
-      ]
-    },
-    {
-      "title": "The Case of Yotzei in Kodshei Kodashim: Rabbi Eliezer vs. Rabbi Akiva",
-      "display_title": "Yotzei Kodshei",
-      "timestamp": "34:00",
-      "micro_segments": [
-        {
-          "title": "The Mishnah: Meat of Kodshei Kodashim Taken Out Before Zrika",
-          "display_title": "Mishnah Yotzei",
-          "timestamp": "34:00"
-        },
-        {
-          "title": "Rabbi Eliezer's Position: Yotzei as Total Disqualification",
-          "display_title": "R. Eliezer Yotzei",
-          "timestamp": "34:25"
-        },
-        {
-          "title": "Rabbi Akiva's Proof: The Two Chatasim Case",
-          "display_title": "R. Akiva Chatasim",
-          "timestamp": "36:20"
-        },
-        {
-          "title": "Rabbi Akiva's Argument: Zrika as Effective Despite Yotzei",
-          "display_title": "Akiva Zrika Works",
+          "title": "Parallel case in kodashim kalim: meat of imurim taken outside before zrika",
+          "display_title": "Yotzei in Kalim",
           "timestamp": "40:46"
+        },
+        {
+          "title": "Gemara's analysis: why both cases were needed to teach that standards might differ based on direction (entering vs. exiting me'ilah)",
+          "display_title": "Both Cases Needed",
+          "timestamp": "42:17"
+        },
+        {
+          "title": "Mishna: meat of kodashei kodashim taken outside before zrika; Rabbi Eliezer says there is me'ilah",
+          "display_title": "Yotzei in Kodashim",
+          "timestamp": "42:29"
+        },
+        {
+          "title": "Rabbi Eliezer's position: yotzei is a disqualification that prevents zrika from changing status",
+          "display_title": "Eliezer's View",
+          "timestamp": "43:20"
+        },
+        {
+          "title": "Rabbi Akiva's counterargument from the case of two chatasim: if blood of one can permit meat of another (as one unit), surely blood should permit its own meat",
+          "display_title": "Two Chatasim Case",
+          "timestamp": "44:17"
+        },
+        {
+          "title": "Rabbi Akiva's position: yotzei is less serious than other disqualifications; zrika is effective even with yotzei",
+          "display_title": "Akiva's View",
+          "timestamp": "44:17"
         }
       ]
     },
     {
-      "title": "The Case of Yotzei in Kodashim Kalim: Reverse of Kodshei Kodashim",
-      "display_title": "Yotzei Kodashim",
-      "timestamp": "40:56",
-      "micro_segments": [
-        {
-          "title": "The Parallel Mishnah: Emurim of Shlamim Taken Out Before Zrika",
-          "display_title": "Mishnah Emurim",
-          "timestamp": "40:56"
-        },
-        {
-          "title": "Rabbi Eliezer and Rabbi Akiva's Disagreement for Kodashim Kalim",
-          "display_title": "Machlokes Kodashim",
-          "timestamp": "41:07"
-        },
-        {
-          "title": "Why Both Cases Needed: The Asymmetry Explained",
-          "display_title": "Why Both Cases",
-          "timestamp": "42:31"
-        },
-        {
-          "title": "Gemara's Analysis: Different Standards Based on Direction",
-          "display_title": "Direction Standards",
-          "timestamp": "42:33"
-        }
-      ]
-    },
-    {
-      "title": "Rabbi Yochanan's Limitation: Yotzei Only Works If Partially Remaining",
-      "display_title": "Yotzei Limitation",
+      "title": "Rabbi Yochanan's Limitation on Rabbi Akiva's Position",
+      "display_title": "Yochanan's Limitation",
       "timestamp": "47:01",
       "micro_segments": [
         {
-          "title": "Rabbi Yochanan: Zrika Helps Yotzei Only If Part Remains",
-          "display_title": "Partial Yotzei",
+          "title": "Rabbi Yochanan restricts Rabbi Akiva: zrika helps for yotzei only if some of the meat remains inside",
+          "display_title": "Partial vs. Total Yotzei",
           "timestamp": "47:01"
         },
         {
-          "title": "Rav Assi's Challenge: Machshava on Avud and Saruf",
-          "display_title": "Avud & Saruf",
+          "title": "If all the meat went outside, even Rabbi Akiva agrees zrika is not effective",
+          "display_title": "Complete Removal",
+          "timestamp": "47:40"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to Pigul with Non-Existent Objects",
+      "display_title": "Avud and Saruph",
+      "timestamp": "47:49",
+      "micro_segments": [
+        {
+          "title": "Rav Assi reports from Babylonian colleagues: pigul thought can attach to meat/imurim that have been lost (avud) or burned (saruph)",
+          "display_title": "Pigul on Nothing",
           "timestamp": "47:49"
+        },
+        {
+          "title": "Even though the object does not exist, the pigul thought is still meaningful and affects the korban",
+          "display_title": "Efficacy of Thought",
+          "timestamp": "48:41"
         }
       ]
     }
   ],
   "topical_tags": [
     {
-      "term": "Zrika (throwing blood)",
-      "timestamps": [
-        "00:25",
-        "01:03",
-        "02:22",
-        "03:22",
-        "06:00",
-        "09:00",
-        "10:46",
-        "13:05",
-        "18:11",
-        "20:09",
-        "22:27",
-        "34:00",
-        "40:46",
-        "41:07",
-        "47:01"
-      ]
-    },
-    {
-      "term": "Kabbalat Hadam (receiving blood)",
-      "timestamps": [
-        "01:43",
-        "04:07",
-        "07:00",
-        "16:05",
-        "18:33",
-        "19:12",
-        "19:27"
-      ]
-    },
-    {
-      "term": "Meilah (misuse of consecrated objects)",
+      "term": "Zrika (sprinkling blood)",
       "timestamps": [
         "00:14",
-        "00:32",
-        "00:35",
-        "01:03",
-        "02:27",
-        "02:25",
-        "06:14",
-        "10:52",
-        "11:15",
-        "13:05",
-        "16:34",
-        "20:09",
-        "22:20",
-        "22:27",
-        "34:25",
-        "40:46",
-        "41:07",
-        "42:31",
-        "42:33",
-        "47:01"
-      ]
-    },
-    {
-      "term": "Kodeshei Kodashim (most holy offerings)",
-      "timestamps": [
-        "00:18",
+        "00:25",
         "00:37",
         "01:03",
-        "02:27",
-        "06:00",
-        "17:19",
-        "22:20",
-        "34:00",
-        "42:33",
-        "43:01",
-        "43:34"
+        "01:10",
+        "01:20",
+        "02:07",
+        "02:22",
+        "02:52",
+        "03:01",
+        "03:22",
+        "04:02",
+        "04:07",
+        "04:10",
+        "04:57",
+        "05:34",
+        "06:02",
+        "06:14",
+        "06:39",
+        "07:00",
+        "07:37",
+        "09:00",
+        "10:02",
+        "10:15",
+        "10:35",
+        "13:05",
+        "13:09",
+        "14:02",
+        "15:48",
+        "16:02",
+        "16:05",
+        "16:19",
+        "16:25",
+        "16:37",
+        "16:42",
+        "16:48",
+        "17:57",
+        "18:00",
+        "18:06",
+        "19:14",
+        "19:57",
+        "20:00",
+        "20:52",
+        "22:29",
+        "24:14"
       ]
     },
     {
-      "term": "Kodashim Kalim (lesser holy offerings)",
+      "term": "Kabbala (receiving blood)",
       "timestamps": [
-        "00:39",
+        "01:43",
+        "02:07",
+        "02:10",
+        "02:22",
+        "04:07",
+        "04:10",
+        "04:14",
+        "04:17",
+        "04:30",
+        "05:17",
+        "07:39",
+        "13:09",
+        "13:16",
+        "13:35",
+        "14:02",
+        "15:09",
+        "15:22",
+        "16:05",
+        "16:10",
+        "18:19",
+        "18:33",
+        "18:56",
+        "19:02",
+        "19:14",
+        "20:00",
+        "20:06"
+      ]
+    },
+    {
+      "term": "Me'ilah (misuse of Temple property)",
+      "timestamps": [
+        "00:14",
+        "00:18",
+        "00:21",
+        "00:25",
+        "00:29",
+        "00:32",
+        "00:35",
+        "00:37",
+        "01:03",
         "01:07",
-        "22:20",
-        "40:56",
-        "42:33",
-        "43:01",
-        "43:34"
+        "02:09",
+        "02:17",
+        "02:31",
+        "02:35",
+        "02:37",
+        "03:07",
+        "03:17",
+        "03:29",
+        "06:06",
+        "06:10",
+        "06:14",
+        "06:26",
+        "06:33",
+        "08:06",
+        "09:07",
+        "10:10",
+        "10:15",
+        "10:25",
+        "10:52",
+        "11:08",
+        "11:15",
+        "14:52",
+        "15:28",
+        "16:19",
+        "16:31",
+        "16:34",
+        "16:37",
+        "16:42",
+        "16:51",
+        "17:25",
+        "18:29",
+        "18:41",
+        "20:12",
+        "20:20",
+        "22:29",
+        "22:51",
+        "23:36",
+        "24:01",
+        "24:20",
+        "24:30",
+        "24:45",
+        "25:11",
+        "25:33",
+        "26:03",
+        "26:12"
       ]
     },
     {
       "term": "Notar (leftover meat)",
       "timestamps": [
-        "02:22",
-        "02:27",
+        "02:29",
+        "02:31",
         "02:35",
+        "02:37",
+        "02:52",
+        "03:07",
+        "03:14",
+        "03:17",
         "03:22",
-        "06:14",
-        "09:00",
-        "09:11"
+        "03:26",
+        "07:50",
+        "10:14",
+        "14:26",
+        "15:00",
+        "24:25",
+        "24:38",
+        "26:08"
       ]
     },
     {
-      "term": "Piggul (wrong intention during service)",
+      "term": "Pigul (improper intention during service)",
       "timestamps": [
-        "01:19",
         "01:20",
+        "01:23",
+        "01:26",
+        "01:29",
         "10:46",
+        "10:47",
+        "10:50",
         "10:52",
+        "11:00",
+        "11:03",
+        "11:05",
+        "11:08",
+        "11:11",
         "11:15",
+        "11:18",
+        "11:25",
+        "11:28",
+        "11:52",
+        "12:01",
+        "12:06",
+        "12:09",
+        "12:12",
+        "12:14",
         "12:17",
+        "12:20",
         "13:05",
+        "13:32",
+        "13:38",
+        "14:02",
+        "14:27",
+        "14:54",
+        "15:00",
+        "15:05",
+        "15:32",
         "16:51",
-        "17:09",
-        "18:11",
-        "20:09",
-        "48:20",
+        "17:02",
+        "17:20",
+        "17:29",
+        "18:48",
+        "20:52",
+        "20:55",
+        "20:58",
+        "21:01",
+        "24:25",
+        "24:38",
+        "26:14",
+        "47:49",
+        "48:26",
+        "48:41",
         "48:49",
         "48:52"
       ]
     },
     {
-      "term": "Yotzei (removed from Temple bounds)",
+      "term": "Kodashei Kodashim (most holy sacrifices)",
       "timestamps": [
-        "34:00",
-        "34:25",
-        "38:05",
-        "38:07",
-        "41:07",
-        "42:33",
-        "44:42",
-        "47:01",
-        "47:07"
+        "00:18",
+        "00:21",
+        "00:37",
+        "01:10",
+        "02:37",
+        "06:03",
+        "06:26",
+        "10:11",
+        "14:27",
+        "16:34",
+        "20:02",
+        "20:03",
+        "20:12",
+        "20:29",
+        "20:52",
+        "22:29",
+        "22:51",
+        "24:20",
+        "24:30",
+        "42:29",
+        "42:41"
       ]
     },
     {
-      "term": "Rauy L'Zrika (fit for zrika)",
+      "term": "Kodashim Kalim (lesser holy sacrifices)",
       "timestamps": [
-        "04:10",
-        "07:00",
-        "16:19",
-        "18:33",
-        "19:12",
-        "19:27"
-      ]
-    },
-    {
-      "term": "Rabbi Eliezer",
-      "timestamps": [
-        "34:25",
-        "41:07",
-        "43:01"
-      ]
-    },
-    {
-      "term": "Rabbi Akiva",
-      "timestamps": [
-        "34:25",
-        "36:20",
-        "38:07",
+        "00:39",
+        "00:43",
+        "00:50",
+        "00:53",
+        "00:56",
+        "01:07",
+        "06:11",
+        "08:08",
+        "08:09",
+        "08:12",
+        "20:09",
+        "20:21",
+        "20:28",
+        "22:29",
+        "24:14",
+        "24:30",
         "40:46",
-        "41:07",
-        "42:33",
-        "43:34",
-        "47:01"
+        "40:56",
+        "40:59"
       ]
     },
     {
-      "term": "Rabbi Shimon",
-      "timestamps": [
-        "02:22",
-        "02:25",
-        "09:11",
-        "10:46",
-        "10:52",
-        "13:05"
-      ]
-    },
-    {
-      "term": "Rabbi Yochanan",
-      "timestamps": [
-        "47:01",
-        "47:04",
-        "47:07"
-      ]
-    },
-    {
-      "term": "Rav Assi",
-      "timestamps": [
-        "47:49",
-        "47:52"
-      ]
-    },
-    {
-      "term": "Rav Giddel Amar Rav (Zrika of piggul counts)",
-      "timestamps": [
-        "12:17",
-        "12:37",
-        "13:14",
-        "13:20"
-      ]
-    },
-    {
-      "term": "Tamei (ritually impure)",
-      "timestamps": [
-        "41:15",
-        "41:18",
-        "47:36"
-      ]
-    },
-    {
-      "term": "Chattat (sin offering)",
-      "timestamps": [
-        "36:20",
-        "36:28",
-        "36:33",
-        "38:05"
-      ]
-    },
-    {
-      "term": "Shlamim (peace offerings)",
-      "timestamps": [
-        "40:59",
-        "41:03"
-      ]
-    },
-    {
-      "term": "Emurim (altar portions)",
+      "term": "Emurim (limbs offered on altar)",
       "timestamps": [
         "00:53",
+        "00:56",
         "01:07",
+        "08:09",
+        "08:12",
+        "22:29",
+        "24:30",
         "40:59",
-        "41:03"
+        "47:49",
+        "48:33"
       ]
     },
     {
-      "term": "Asymmetry (up vs. down direction principle)",
-      "timestamps": [
-        "22:20",
-        "42:33",
-        "42:51",
-        "43:01",
-        "43:34",
-        "45:43"
-      ]
-    },
-    {
-      "term": "Lina (overnight)",
+      "term": "Lina (leaving meat overnight)",
       "timestamps": [
         "02:58",
+        "03:10",
+        "03:14",
+        "03:22",
+        "03:26",
         "05:15",
         "05:17",
-        "05:19"
+        "05:19",
+        "09:03"
       ]
     },
     {
-      "term": "Avud (lost/destroyed)",
+      "term": "Yotzei (taken outside the permitted place)",
       "timestamps": [
-        "48:08",
-        "48:18",
-        "48:37",
-        "48:52"
+        "42:29",
+        "42:34",
+        "42:39",
+        "42:41",
+        "42:49",
+        "42:50",
+        "43:20",
+        "43:36",
+        "43:39",
+        "44:27",
+        "44:32",
+        "44:39",
+        "44:48",
+        "45:05",
+        "47:01",
+        "47:10",
+        "47:21",
+        "47:25"
       ]
     },
     {
-      "term": "Saruf (burned)",
+      "term": "Rabbi Eliezer vs. Rabbi Akiva (on yotzei and zrika)",
       "timestamps": [
+        "42:29",
+        "42:34",
+        "42:41",
+        "42:46",
+        "42:49",
+        "42:50",
+        "43:20",
+        "43:36",
+        "44:17",
+        "44:22",
+        "44:48",
+        "44:53",
+        "44:57",
+        "47:04",
+        "47:40",
+        "47:45"
+      ]
+    },
+    {
+      "term": "Two chatasim (two sin offerings)",
+      "timestamps": [
+        "44:17",
+        "44:22",
+        "44:32",
+        "44:39",
+        "44:57",
+        "45:08",
+        "47:13"
+      ]
+    },
+    {
+      "term": "Chatzi (half/some of the korban)",
+      "timestamps": [
+        "47:07",
+        "47:13",
+        "47:16",
+        "47:25",
+        "47:40"
+      ]
+    },
+    {
+      "term": "Avud (lost/destroyed objects) and Saruph (burned)",
+      "timestamps": [
+        "47:49",
         "48:08",
         "48:18",
-        "48:37",
-        "48:52"
+        "48:23"
+      ]
+    },
+    {
+      "term": "Machshava (intention/thought)",
+      "timestamps": [
+        "11:52",
+        "12:06",
+        "13:16",
+        "13:38",
+        "24:25",
+        "48:26",
+        "48:30",
+        "48:41",
+        "48:49"
+      ]
+    },
+    {
+      "term": "Heit lizrika (fitness for sprinkling)",
+      "timestamps": [
+        "02:07",
+        "02:10",
+        "04:30",
+        "04:57",
+        "05:01",
+        "05:40",
+        "07:04",
+        "07:20",
+        "08:19",
+        "18:17",
+        "18:29",
+        "18:33",
+        "18:39",
+        "18:41"
+      ]
+    },
+    {
+      "term": "Sheqiya (sunset)",
+      "timestamps": [
+        "04:46",
+        "04:50",
+        "04:53",
+        "04:57",
+        "05:04",
+        "05:07",
+        "06:10",
+        "06:29",
+        "06:43",
+        "06:46",
+        "06:48",
+        "06:51"
+      ]
+    },
+    {
+      "term": "Rashi's interpretation and readings",
+      "timestamps": [
+        "02:44",
+        "02:46",
+        "02:50",
+        "09:11",
+        "10:02",
+        "10:18",
+        "11:43",
+        "11:52",
+        "12:01",
+        "12:23",
+        "17:42",
+        "37:07",
+        "44:29"
+      ]
+    },
+    {
+      "term": "Rav Giddel amar Rav (on zrikas pigul effectiveness)",
+      "timestamps": [
+        "12:14",
+        "12:17",
+        "12:20",
+        "12:37",
+        "13:14",
+        "13:38"
+      ]
+    },
+    {
+      "term": "Tamei (ritually impure person eating)",
+      "timestamps": [
+        "24:25",
+        "24:38",
+        "26:08",
+        "28:47",
+        "35:02",
+        "37:45",
+        "38:34",
+        "40:35",
+        "40:40",
+        "41:15",
+        "41:24",
+        "41:37"
       ]
     }
   ]

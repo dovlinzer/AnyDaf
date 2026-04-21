@@ -1,0 +1,49 @@
+### Avodah Zarah 54a
+
+**1.**
+*Hebrew/Aramaic:* אָמַר חִזְקִיָּה: מַאי קְרָא ״בְּשׂוּמוֹ כׇּל אַבְנֵי מִזְבֵּחַ כְּאַבְנֵי גִר מְנֻפָּצוֹת לֹא יָקֻמוּ אֲשֵׁרִים וְחַמָּנִים״? אִי אִיכָּא ״כְּאַבְנֵי גִיר מְנוּפָּצוֹת״ — לֹא יְקוּמוּן אֲשֵׁרִים וְחַמָּנִים, אִי לָאו — יָקוּמוּ.
+*Translation:* **Ḥizkiyya said: What is the verse** from which this *halakha* is derived? It is derived from the verse: “By this shall the iniquity of Jacob be expiated…**when he makes all the stones of the altar as limestones [*ke’avnei gir*] that are beaten into pieces, so that the *asherim* and the sun images shall rise no more”** (Isaiah 27:9). This indicates that **if** the description **“as limestones that are beaten into pieces” is** fulfilled, then the statement **“The *asherim* and the sun images shall rise no more”** also applies, and their status is revoked. **If** it is **not** fulfilled, then **they shall rise,** meaning that their status is not revoked.
+
+**2.**
+*Hebrew/Aramaic:* תָּנָא: נֶעֱבָד שֶׁלּוֹ אָסוּר, וְשֶׁל חֲבֵירוֹ מוּתָּר. וּרְמִינְהִי: אֵיזֶהוּ נֶעֱבָד? כֹּל שֶׁעוֹבְדִים אוֹתוֹ בֵּין בְּשׁוֹגֵג וּבֵין בְּמֵזִיד, בֵּין בְּאוֹנֶס וּבֵין בְּרָצוֹן. הַאי אוֹנֶס הֵיכִי דָּמֵי? לָאו כְּגוֹן דְּאָנַס בֶּהֱמַת חֲבֵירוֹ וְהִשְׁתַּחֲוָה לָהּ?
+*Translation:* § The Sages **taught** in a *baraita*: With regard to an item, e.g., an animal, that **was worshipped** by a certain person, if it is **his** item it is **prohibited, but** if it is **another’s,** it is **permitted.** The Gemara **raises a contradiction** from another *baraita*: **What is** considered an animal **that was worshipped** and is disqualified from being sacrificed in the Temple? It is **any** animal **that is worshipped, whether unwittingly or intentionally, whether under duress or willingly. What are the circumstances** of **this** case of an animal worshipped under **duress? Isn’t** it referring to a case **where** one **forcibly** took **another’s animal and bowed to it,** indicating that one who worships the animal of another renders it forbidden?
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רָמֵי בַּר חָמָא: לָא, כְּגוֹן שֶׁאֲנָסוּהוּ גּוֹיִם וְהִשְׁתַּחֲוָה לִבְהֶמְתּוֹ דִּידֵיהּ. מַתְקֵיף לַהּ רַבִּי זֵירָא: אוֹנֶס רַחֲמָנָא פַּטְרֵיהּ, דִּכְתִיב ״וְלַנַּעֲרָה לֹא תַעֲשֶׂה דָבָר״!
+*Translation:* **Rami bar Ḥama says: No,** the *baraita* is referring to a case **where gentiles coerced** someone **and he bowed to his own animal. Rabbi Zeira objects to this: The Merciful One exempts** a victim of **circumstances beyond his control** from punishment, **as it is written** with regard to a betrothed young woman who is raped: **“But to the maiden you shall do nothing,** the maiden has no sin worthy of death, for as when a man rises against his neighbor, and slays him, so is this matter” (Deuteronomy 22:26).
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: הַכֹּל הָיוּ בִּכְלָל ״לֹא תָעׇבְדֵם״, וּכְשֶׁפָּרַט לְךָ הַכָּתוּב ״וָחַי בָּהֶם״ וְלֹא שֶׁיָּמוּת בָּהֶם — יָצָא אוֹנֶס.
+*Translation:* **Rather, Rava says: All** cases of idol worship **were included in** the prohibition: “You shall not bow down to them, **nor shall you serve them”** (Exodus 20:5), including the case of worship under duress. **When the verse specified to you:** “You shall keep My statutes…which a man shall do **and live by them”** (Leviticus 18:5), **and not that he should die by them,** the verse **excluded** the case of **duress.** One would conclude from the verse that one who acts under duress is not considered an idol worshipper, and he is not required to sacrifice his life to refrain from worshipping idols.
+
+**5.**
+*Hebrew/Aramaic:* וַהֲדַר כְּתַב רַחֲמָנָא: ״וְלֹא תְחַלְּלוּ אֶת שֵׁם קׇדְשִׁי״, דַּאֲפִילּוּ בְּאוֹנֶס. הָא כֵּיצַד? הָא בְּצִנְעָא, וְהָא בְּפַרְהֶסְיָא.
+*Translation:* **The Merciful One then wrote: “And you shall not profane My holy name”** (Leviticus 22:32), indicating **that** the prohibition against idol worship applies **even in** a case of **duress,** as this constitutes a desecration of God’s name. **How** can **these** texts be reconciled? **This** verse is referring to worshipping under duress **in private, and that** verse is referring to worshipping under duress **in public.** In private one is not required to sacrifice his life in order to refrain from idol worship. In public one is required to sacrifice his life rather than engage in idol worship. Therefore, if one engaged in idol worship in public, even under duress, the object of idol worship is forbidden.
+
+**6.**
+*Hebrew/Aramaic:* אֲמַרוּ לֵיהּ רַבָּנַן לְרָבָא: תַּנְיָא דִּמְסַיְּיעָא לָךְ, בִּימוֹסְיָאוֹת שֶׁל גּוֹיִם בִּשְׁעַת הַשְּׁמָד — אַף עַל פִּי שֶׁהַשְּׁמָד בָּטֵל, אוֹתָן בִּימוֹסְיָאוֹת לֹא בָּטְלוּ.
+*Translation:* **The Rabbis said to Rava: That** which **is taught** in a *baraita* **supports your** opinion. It is taught in a *baraita*: The following *halakha* applies with regard to **platforms of gentiles** that were used for idol worship **in a time of** religious **persecution,** when gentiles decreed that Jews must engage in idol worship. During a time of religious persecution, one is required to sacrifice his life rather than transgress the prohibition against engaging in idolatrous worship even in private. Therefore, **even though the** religious **persecution** was **canceled,** the status of **those platforms is not revoked** and they remain forbidden, despite the fact that the idol worship was performed under duress.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ: אִי מִשּׁוּם הָא לָא תְּסַיְּיעַן, אֵימַר יִשְׂרָאֵל מְשׁוּמָּד הֲוָה וּפְלַח לַהּ בְּרָצוֹן. רַב אָשֵׁי אָמַר: לָא תֵּימָא ״אֵימַר״, אֶלָּא וַדַּאי יִשְׂרָאֵל מְשׁוּמָּד הֲוָה וּפְלַח לַהּ בְּרָצוֹן.
+*Translation:* Rava **said to** the Rabbis: **If** one wishes to support my opinion **due to that** *baraita*, **you cannot support my** opinion, as one can **say** that perhaps **there was an apostate Jew** there **and he worshipped** the idol **willingly,** and therefore the platforms are forbidden. **Rav Ashi says: Do not say** that one can **say** it is a possibility; **rather,** it is **certain** that **there was an apostate Jew** there **and he worshipped it willingly.**
+
+**8.**
+*Hebrew/Aramaic:* חִזְקִיָּה אָמַר, כְּגוֹן שֶׁנִּיסֵּךְ לַעֲבוֹדָה זָרָה יַיִן עַל קַרְנֶיהָ. מַתְקֵיף לַהּ רַב אַדָּא בַּר אַהֲבָה: הַאי נֶעֱבָד הוּא? הַאי בִּימוֹס בְּעָלְמָא הוּא, וְשַׁרְיֵיהּ!
+*Translation:* **Ḥizkiyya says:** The contradiction between the *baraitot* with regard to an animal that was worshipped can be reconciled differently. The *baraita* that indicates that one who worships the animal of another renders it forbidden is referring to a case **where in idolatrous worship** one **poured** a libation of **wine on the horns of** an animal belonging to another. Since a sacrificial rite was performed upon the animal itself, it is forbidden. **Rav Adda bar Ahava objects to this: Is this** a case of an animal **that was worshipped? This** animal **is a mere platform,** i.e., it serves merely as an altar, **and** it is **permitted.**
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב אַדָּא בַּר אַהֲבָה: כְּגוֹן שֶׁנִּיסֵּךְ לָהּ יַיִן בֵּין קַרְנֶיהָ, דַּעֲבַד בַּהּ מַעֲשֶׂה, וְכִי הָא דַּאֲתָא עוּלָּא אָמַר רַבִּי יוֹחָנָן: אַף עַל פִּי שֶׁאָמְרוּ הַמִּשְׁתַּחֲוֶה לְבֶהֱמַת חֲבֵירוֹ לֹא אָסְרָה, עָשָׂה בָּהּ מַעֲשֶׂה — אֲסָרָהּ.
+*Translation:* **Rather, Rav Adda bar Ahava says:** That *baraita* is referring to a case **where** he **poured** a libation of **wine in** worship of the animal **between its horns.** In this case one renders another’s animal forbidden, **as he performed** a sacrificial **rite upon** the animal itself. **And** this is **similar to that** which Ulla stated, **as Ulla came** from Eretz Yisrael and said that **Rabbi Yoḥanan says: Even though** the Sages **said** that **one who bows to the animal of another** person **does not render it prohibited,** if he **performed** a sacrificial **rite upon it he rendered it prohibited.**
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ רַב נַחְמָן: פּוּקוּ וֶאֱמַרוּ לֵיהּ לְעוּלָּא, כְּבָר תַּרְגְּמַהּ רַב הוּנָא לִשְׁמַעְתָּיךְ בְּבָבֶל, דְּאָמַר רַב הוּנָא: הָיְתָה בֶּהֱמַת חֲבֵירוֹ רְבוּצָה בִּפְנֵי עֲבוֹדָה זָרָה, כֵּיוָן שֶׁשָּׁחַט בָּהּ סִימָן אֶחָד — אֲסָרָהּ.
+*Translation:* **Rav Naḥman said to** the Rabbis: **Go out and say to Ulla:** This is not a novel concept, as **Rav Huna already interpreted the *halakha* that you** stated **in Babylonia.** This is **as Rav Huna says:** In a case where **the animal of another** person **was lying down before** an object of **idol worship, once** one **cut one of the organs that must be severed in ritual slaughter,** i.e., either the windpipe or the gullet **[*siman*], he rendered it prohibited,** as he performed a sacrificial rite upon the animal.
+
+**11.**
+*Hebrew/Aramaic:* מְנָא לַן דַּאֲסָרָהּ? אִילֵּימָא מִכֹּהֲנִים, וְדִלְמָא שָׁאנֵי כֹּהֲנִים דִּבְנֵי דֵעָה נִינְהוּ!
+*Translation:* The Gemara asks: **From where do we** derive **that he rendered it prohibited? If we say** that it is derived **from** the *halakha* that **priests** who engaged in idol worship are disqualified from serving in the Temple, even if they did so under duress, **perhaps** the case of **priests is different, as they possess awareness** and are responsible for their actions.
+
+**12.**
+*Hebrew/Aramaic:* וְאֶלָּא מֵאַבְנֵי מִזְבֵּחַ, וְדִלְמָא כִּדְרַב פָּפָּא?
+*Translation:* **But rather,** perhaps it is derived **from** the **stones of** the **altar** that were rendered forbidden by the Greeks, even though the stones were not theirs. The Gemara rejects this suggestion: **But perhaps** the reason the stones of the altar were prohibited is different, **as** explained by the statement **of Rav Pappa** (52b), that when the Greeks entered the Temple it was defiled and became theirs. One therefore cannot derive from that case that one can render the property of another person forbidden.

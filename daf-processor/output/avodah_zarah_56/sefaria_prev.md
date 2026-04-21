@@ -1,0 +1,29 @@
+### Avodah Zarah 55b
+
+**1.**
+*Hebrew/Aramaic:* אֲבָל לֹא בּוֹצְרִין עִמּוֹ. יִשְׂרָאֵל שֶׁהוּא עוֹשֶׂה בְּטוּמְאָה — לֹא דּוֹרְכִין וְלֹא בּוֹצְרִין עִמּוֹ, אֲבָל מוֹלִיכִין עִמּוֹ חָבִיּוֹת לַגַּת, וּמְבִיאִין עִמּוֹ מִן הַגַּת.
+*Translation:* **but** one **may not harvest** grapes **with him.** After the harvest the grapes are brought to the winepress, which is ritually impure. This would render the grapes impure, and it is prohibited to render produce of Eretz Yisrael impure. In the case of **a Jew who produces** his wine **in** a state of **ritual impurity,** one **may not tread** on grapes **nor harvest** them **with him,** as it is prohibited to assist transgressors. **But** once he has produced his wine, one **may take** the **barrels to the winepress with him,** as the wine is already impure. **And** one **may** also **bring** the barrels **from the winepress** together **with him.**
+
+**2.**
+*Hebrew/Aramaic:* נַחְתּוֹם שֶׁהוּא עוֹשֶׂה בְּטוּמְאָה — לֹא לָשִׁין וְלֹא עוֹרְכִין עִמּוֹ, אֲבָל מוֹלִיכִין עִמּוֹ פַּת לְפַלְטֵר.
+*Translation:* Similarly, in the case of **a baker who makes** his bread **in** a state of **ritual impurity,** one **may not knead or arrange** the dough in the shape of bread together **with him,** so as not to assist in a transgression. **But** one **may take** the **bread with him to the bread merchant [*lapalter*].**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב הוּנָא: יַיִן, כֵּיוָן שֶׁהִתְחִיל לְהִמָּשֵׁךְ, עוֹשֶׂה יֵין נֶסֶךְ. תְּנַן: לוֹקְחִים גַּת בְּעוּטָה מִן הַנׇּכְרִי, וְאַף עַל פִּי שֶׁנָּטַל בְּיָדוֹ וְנָתַן לַתַּפּוּחַ! אָמַר רַב הוּנָא: בְּגַת פְּקוּקָה וּמְלֵאָה.
+*Translation:* GEMARA: **Rav Huna says:** With regard to **wine, once it begins to flow** toward the exit from the winepress it can **become wine** used for **a libation** in idol worship if touched by a gentile. The Gemara asks: But **we learned** in the mishna: One **may purchase from a gentile a winepress** in which the grapes have **been trodden** on, **despite** the fact **that** the gentile **took** grapes **in his hand and placed** them **on the pile** of grapes that remained to be trodden on? Presumably the wine began to flow once the grapes were pressed, and yet the mishna states that the wine is not forbidden. **Rav Huna said:** The mishna is referring **to a winepress** that is **stoppered and full,** and therefore the wine does not flow.
+
+**4.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, וְאֵינוֹ עוֹשֶׂה יֵין נֶסֶךְ עַד שֶׁיֵּרֵד לַבּוֹר! הָכָא נָמֵי בְּגַת פְּקוּקָה וּמְלֵאָה.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the mishna: **And** the gentile’s touch **does not render** the grape juice **wine** used for **a libation** in idol worship **until it descends into the** collection **vat.** This indicates that even if the wine flows it does not become wine used for a libation before it descends into the vat. The Gemara answers: **Here, too,** the mishna is referring **to a winepress** that is **stoppered and full,** and the wine does not flow.
+
+**5.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: יָרַד לַבּוֹר — מָה שֶׁבַּבּוֹר אָסוּר, וְהַשְּׁאָר מוּתָּר. אָמַר רַב הוּנָא: לָא קַשְׁיָא — כָּאן בְּמִשְׁנָה רִאשׁוֹנָה, כָּאן בְּמִשְׁנָה אַחֲרוֹנָה.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the mishna: Once the wine **descended into the** collection **vat, that which is in the vat** is **prohibited, and the rest** that did not yet descend into the vat is **permitted,** even though it already began to flow. **Rav Huna said:** This is **not difficult. Here,** in the mishna, the *halakha* is stated **in** accordance with the **initial** version of the **mishna. There,** in my ruling, the *halakha* is stated **in** accordance with the **ultimate** version of the **mishna.**
+
+**6.**
+*Hebrew/Aramaic:* דְּתַנְיָא: בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים בד״ד — אֵין בּוֹצְרִין עִם הַנׇּכְרִי בַּגַּת, שֶׁאָסוּר לִגְרוֹם טוּמְאָה לְחוּלִּין שֶׁבְּאֶרֶץ יִשְׂרָאֵל, וְאֵין דּוֹרְכִין עִם יִשְׂרָאֵל שֶׁעוֹשֶׂה פֵּירוֹתָיו בְּטוּמְאָה, שֶׁאָסוּר לְסַיֵּיעַ יְדֵי עוֹבְרֵי עֲבֵירָה, אֲבָל דּוֹרְכִים עִם הַנׇּכְרִי בַּגַּת, וְלָא חָיְישִׁינַן לִדְרַב הוּנָא.
+*Translation:* This is **as it is taught** in a *baraita*: **Initially,** the Sages **would say** the following *halakhot* whose mnemonic is ***bet*, *dalet*, *dalet*,** which stands for harvesting [*botzrin*], treading [*dorkhin*], and treading [*dorkhin*]: One **may not harvest** grapes **with a gentile in** order to bring them to **the winepress, as** this would render the grapes ritually impure and it is **prohibited to impart impurity to the non-sacred** produce **that is in Eretz Yisrael. And** one **may not tread** on grapes together **with a Jew who produces** wine from **his fruit in** a state of **ritual impurity, as it is prohibited to assist transgressors. But** one **may tread** on grapes **in the winepress** together **with the gentile.** The Gemara comments: **And we are not concerned about** the ruling **of Rav Huna** that from the time that it flows the wine is rendered wine used for a libation.
+
+**7.**
+*Hebrew/Aramaic:* וְחָזְרוּ לוֹמַר דב״ב — אֵין דּוֹרְכִין עִם הַנׇּכְרִי בַּגַּת, מִשּׁוּם דְּרַב הוּנָא.
+*Translation:* The *baraita* continues: **But** the Sages later **revised** this *halakha* and **said** the following *halakhot* whose mnemonic is ***dalet*, *beit*, *dalet*,** which stands for treading [*dorkhin*], harvesting [*botzrin*], and treading [*dorkhin*]: One **may not tread** on grapes **in the winepress** together **with the gentile.** The Gemara comments: This is **due to** the ruling **of Rav Huna** that from the time that it flows the wine can be rendered wine used for a libation. The gentile usually touches the flowing wine while treading on the grapes, rendering the wine forbidden. Therefore, if a Jew receives payment for treading on the grapes with the gentile, he is profiting from an item from which deriving benefit is prohibited.
