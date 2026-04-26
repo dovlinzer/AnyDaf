@@ -1,0 +1,1 @@
+[Sefaria text not available for Middot 36]

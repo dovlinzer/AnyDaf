@@ -1,0 +1,41 @@
+### Sanhedrin 74b
+
+**1.**
+*Hebrew/Aramaic:* אֲפִילּוּ לְשַׁנּוֹיֵי עַרְקְתָא דִּמְסָאנָא.
+*Translation:* **Even to change the strap of a sandal.** There was a Jewish custom with regard to sandal straps. If the gentile authorities were to decree that Jews must change their practice and wear sandal straps like those worn by the gentiles, one would be obligated to give up his life rather than veer from the accepted custom.
+
+**2.**
+*Hebrew/Aramaic:* וְכַמָּה פַּרְהֶסְיָא? אָמַר רַבִּי יַעֲקֹב אָמַר רַבִּי יוֹחָנָן: אֵין פַּרְהֶסְיָא פְּחוּתָה מֵעֲשָׂרָה בְּנֵי אָדָם. פְּשִׁיטָא, יִשְׂרְאֵלִים בָּעֵינַן, דִּכְתִיב: ״וְנִקְדַּשְׁתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל״. בָּעֵי רַבִּי יִרְמְיָה: תִּשְׁעָה יִשְׂרָאֵל וְגוֹי אֶחָד, מַהוּ?
+*Translation:* The Gemara asks: **And** the presence of **how many** people is required so that it should be deemed **a public** act? **Rabbi Ya’akov says** that **Rabbi Yoḥanan says:** An action is **not** considered **a public** act if it is performed in the presence of **fewer than ten people.** The Gemara clarifies this point: It is **obvious** that **we require** that these ten people be **Jews, as it is written** in the verse from which we derive the requirement of ten for the sanctification of God’s name: **“And I shall be sanctified among the children of Israel”** (Leviticus 22:32). **Rabbi Yirmeya asks: What is** the *halakha* if there were **nine Jews and one gentile** present?
+
+**3.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּתָנֵי רַב יַנַּאי אֲחוּהּ דְּרַבִּי חִיָּיא בַּר אַבָּא: אָתְיָא ״תּוֹךְ״ ״תּוֹךְ״ – כְּתִיב הָכָא: ״וְנִקְדַּשְׁתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל״, וּכְתִיב הָתָם: ״הִבָּדְלוּ מִתּוֹךְ הָעֵדָה הַזֹּאת״. מָה לְהַלָּן עֲשָׂרָה וְכוּלְּהוּ יִשְׂרָאֵל, אַף כָּאן עֲשָׂרָה וְכוּלְּהוּ יִשְׂרָאֵל.
+*Translation:* The Gemara answers: **Come** and **hear** an answer from what **Rav Yannai, the brother of Rabbi Ḥiyya bar Abba, teaches** in a *baraita*: This is **derived** by means of a verbal analogy between the word **“among”** written with regard to the sanctification of God’s name, and the word **“among”** written with regard to Korah and his assembly. **Here,** with regard to the sanctification of God’s name, **it is written: “And I shall be sanctified among the children of Israel,” and there,** with regard to Korah, **it is written: “Separate yourselves from among this congregation”** (Numbers 16:21). The meaning of the word “congregation” written with regard to Korah is derived by means of a verbal analogy to the word “congregation” written with regard to the spies sent out by Moses to scout the land: “How long shall I bear with this evil congregation” (Numbers 14:27). **Just as there,** the congregation of spies numbered **ten, and all** were **Jews, so too here,** concerning the sanctification of God, there must be **ten, all of them** being **Jews.**
+
+**4.**
+*Hebrew/Aramaic:* וְהָא אֶסְתֵּר פַּרְהֶסְיָא הֲוַאי? אָמַר אַבָּיֵי: אֶסְתֵּר קַרְקַע עוֹלָם הָיְתָה.
+*Translation:* The Gemara raises a difficulty: **But wasn’t** the incident involving **Esther,** i.e., her cohabitation with Ahasuerus, **a public** sin? Why then did Esther not surrender her life rather than engage in intercourse? The Gemara answers: **Abaye says: Esther was** merely like **natural ground,** i.e., she was a passive participant. The obligation to surrender one’s life rather than engage in forbidden sexual intercourse applies only to a man who transgresses the prohibition in an active manner. A woman who is passive and merely submits is not required to give up her life so that she not sin.
+
+**5.**
+*Hebrew/Aramaic:* רָבָא אָמַר: הֲנָאַת עַצְמָן שָׁאנֵי.
+*Translation:* **Rava says** that there is another justification for Esther’s behavior: When gentiles order the transgression of a prohibition not in order to persecute the Jews or to make them abandon their religion, but for **their** own **personal pleasure,** it **is different.** In such a situation there is no obligation to sacrifice one’s life, even when the sin is committed in public.
+
+**6.**
+*Hebrew/Aramaic:* דְּאִי לָא תֵּימָא הָכִי, הָנֵי קְוָואקֵי וְדֵימוֹנִיקֵי הֵיכִי יָהֲבִינַן לְהוּ? אֶלָּא הֲנָאַת עַצְמָן שָׁאנֵי. הָכָא נָמֵי, הֲנָאַת עַצְמָן שָׁאנֵי.
+*Translation:* Rava explains: **As if you do not say so,** then **how do we give them coal shovels [*kevakei vedimonikei*]?** The Persian priests would take coal shovels from every house, fill them with coals, and use them to heat their temples on their festival days. Although this involved assisting idol worship in public, Jews would not sacrifice their lives in order not to do so. **Rather,** the reason they cooperated is certainly that a measure enacted for the gentiles’ **personal pleasure is different. Here too,** concerning Esther, Ahasuerus engaged in intercourse with her for his personal pleasure, and a measure enacted for a gentile’s **personal pleasure is different,** and there is no obligation to sacrifice one’s life to avoid it.
+
+**7.**
+*Hebrew/Aramaic:* וְאַזְדָּא רָבָא לְטַעְמֵיהּ, דְּאָמַר רָבָא: גּוֹי דְּאָמַר לֵיהּ לְהַאי יִשְׂרָאֵל, ״קְטוֹל אַסְפַּסְתָּא בְּשַׁבְּתָא וּשְׁדִי לְחֵיוָתָא, וְאִי לָא קָטֵילְנָא לָךְ״ – לִיקְטוֹל וְלָא לִקְטְלֵיהּ. ״שְׁדִי לְנַהְרָא״ – לִיקְטְלֵיהּ וְלָא לִיקְטוֹל. מַאי טַעְמָא? לְעַבּוֹרֵי מִילְּתָא קָא בָּעֵי.
+*Translation:* The Gemara comments: **And Rava follows his** own line of **reasoning, as Rava says: If a gentile said to a certain Jew: Cut grass [*aspasta*] on Shabbat and throw it before the cattle, and if** you **do not** do this **I will kill you, he should cut** the grass **and not be killed.** But if the gentile said to him: Cut the grass and **throw it into the river, he should be killed and not cut** the grass. **What is the reason** for the latter ruling? Because it is clear that the gentile is not seeking his own personal pleasure, but rather **he wants** to force the Jew **to violate** his **religion.**
+
+**8.**
+*Hebrew/Aramaic:* בְּעוֹ מִינֵּיהּ מֵרַבִּי אַמֵּי: בֵּן נֹחַ מְצוֶּּוה עַל קְדוּשַּׁת הַשֵּׁם, אוֹ אֵין מְצוֶּּוה עַל קְדוּשַּׁת הַשֵּׁם?
+*Translation:* § The Sages **raised a dilemma before Rabbi Ami:** Is **a descendant of Noah,** who is commanded to refrain from idol worship, also **commanded about the sanctification of God’s name, or is he not commanded about the sanctification of God’s name?**
+
+**9.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי, תָּא שְׁמַע: שֶׁבַע מִצְוֹת נִצְטַוּוּ בְּנֵי נֹחַ. וְאִם אִיתָא, תַּמְנֵי הָוְיָין! אֲמַר לֵיהּ רָבָא: אִינְהוּ וְכֹל אַבְזְרַיְיהוּ.
+*Translation:* **Abaye says: Come** and **hear** an answer to this question from a *baraita* in which it was taught: **Descendants of Noah were commanded** to observe **seven mitzvot:** To establish courts of law, to refrain from cursing God, idol worship, adultery, bloodshed, robbery, and from eating the limb of a living animal. **And if it is so** that they are commanded about the sanctification of God’s name, then **there would be eight** mitzvot in which they are commanded. **Rava said to him:** There is no proof from here, as when the *baraita* speaks of seven mitzvot it means the seven mitzvot **themselves with all their associated [*avzaraihu*]** obligations. The mitzva to sanctify God’s name can be understood as a detail of the prohibition of idolatry.
+
+**10.**
+*Hebrew/Aramaic:* מַאי הָוֵי עֲלַהּ? אָמַר רַב אַדָּא בַּר אַהֲבָה: אָמְרִי בֵּי רַב, כְּתִיב: ״לַדָּבָר הַזֶּה יִסְלַח ה׳ לְעַבְדֶּךָ בְּבוֹא אֲדֹנִי בֵית רִמּוֹן לְהִשְׁתַּחֲוֹת שָׁמָּה וְהוּא נִשְׁעָן עַל יָדִי וְהִשְׁתַּחֲוֵיתִי״, וּכְתִיב: ״וַיֹּאמֶר לוֹ לֵךְ לְשָׁלוֹם״.
+*Translation:* The Gemara asks: **What** halakhic conclusion **was** reached **about** this matter? **Rav Adda bar Ahava says** that **they say** in **the school of Rav: It is written** that Naaman, commander of the army of the king of Aram, said to the prophet Elisha: **“For this matter may the Lord pardon your servant, that when my master goes into the house of Rimmon to bow down there and he leans on my hand, and I bow myself down** in the house of Rimmon” (II Kings 5:18). That is, he was forced to bow down before an idol out of fear of his master, the king of Aram. **And it is written** in the following verse: **“And he said to him: Go in peace,”** indicating that Elisha did not criticize him for acting in this manner.

@@ -1,0 +1,46 @@
+### Yoma 17a
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא לָאו שְׁמַע מִינַּהּ, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב הִיא. שְׁמַע מִינַּהּ.
+*Translation:* **Rather,** must one **not conclude from it** that that the *mishnayot* in tractate *Middot* are in accordance with the opinion of **Rabbi Eliezer ben Ya’akov?** The Gemara concludes: Indeed, **conclude from it** that this is so.
+
+**2.**
+*Hebrew/Aramaic:* רַב אַדָּא בְּרֵיהּ דְּרַב יִצְחָק אָמַר: הַאי לִשְׁכָּה אַקְצוֹיֵי מַקְצְיָא, וּדְאָתֵי מִצָּפוֹן מִתְחַזְיָא לֵיהּ בְּדָרוֹם, וּדְאָתֵי מִדָּרוֹם מִתְחַזְיָא לֵיהּ בְּצָפוֹן.
+*Translation:* § In an additional attempt to resolve the contradiction with regard to the Chamber of the Lambs, **Rav Adda, son of Rav Yitzḥak, said: This chamber was removed** from the corner, as it was not actually in the corner of the Hall of the Hearth but was located along the middle of the western side of the hall. **And** therefore, for one **who comes from the north,** the chamber **appears to him** to be in the **south** of the hall; **and** for one **who comes from the south,** the chamber **appears to him** to be in the **north** of the hall.
+
+**3.**
+*Hebrew/Aramaic:* וּמִסְתַּבְּרָא דִּבְמַעֲרָבִית דְּרוֹמִית הֲוַאי. מִמַּאי — מִדְּרָמֵינַן לֶחֶם הַפָּנִים אַלֶּחֶם הַפָּנִים,
+*Translation:* The Gemara comments: In any event, **it is reasonable** to say that this chamber **was** closer to the **southwest** corner than it was to the northwest corner. **From where** does one arrive at that conclusion? **From** the fact **that we raise a contradiction** between the mishna in tractate *Tamid*, where we learned that the chamber in which the **shewbread** was prepared stood in the northeast corner, and the mishna in tractate *Middot*, where we learned that the chamber in which the **shewbread** was prepared stood in the southeast corner.
+
+**4.**
+*Hebrew/Aramaic:* וּמְשַׁנֵּינַן, אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: מָר קָא חָשֵׁיב דֶּרֶךְ יָמִין, וּמָר קָא חָשֵׁיב דֶּרֶךְ שְׂמֹאל.
+*Translation:* **And we resolve** the contradiction based on what **Rav Huna, son of Rav Yehoshua, said: The Master** in tractate *Middot* **envisions** the chambers as one coming **via** the **right,** from the south to the east, then to the north and then to the west. And **the Master** in tractate *Tamid* **envisions** the chambers as one coming **via** the **left,** from the south to the west, then to the north and then to the east. Both agree with regard to the location of the chamber in which the shewbread was prepared; they merely describe that location from different perspectives.
+
+
+---
+
+### Yoma 17b
+
+**1.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא בְּמַעֲרָבִית דְּרוֹמִית הֲוַאי, הַיְינוּ דִּמְתָרֵץ לֶחֶם הַפָּנִים אַלֶּחֶם הַפָּנִים. אֶלָּא אִי אָמְרַתְּ צְפוֹנִית מַעֲרָבִית הֲוַאי, סוֹף סוֹף מַאי תֵּירוּצָא דְּלֶחֶם הַפָּנִים! אֶלָּא לָאו שְׁמַע מִינַּהּ, בְּמַעֲרָבִית דְּרוֹמִית הֲוַאי. שְׁמַע מִינַּהּ.
+*Translation:* **Granted, if you say** that the Chamber of the Lambs **was** actually closer to the **southwest** corner, that is how Rav Huna **resolves** the contradiction between one mishna discussing **the shewbread** and the other mishna discussing **the shewbread. However, if you say** that the Chamber of the Lambs **was** in the **northwest** corner, **ultimately, what is the resolution** with regard to the **shewbread?** Even if you envision the path from the other direction, the Chamber of the Seals interposes between the Chamber of the Lambs and the chamber where the shewbread is prepared. **Rather,** must one **not conclude from it** that the Chamber of the Lambs **was** indeed **in the southwest?** The Gemara concludes: Indeed, **conclude from it** that this is so.
+
+**2.**
+*Hebrew/Aramaic:* וְהָאָמַר מָר: כׇּל פִּינּוֹת שֶׁאַתָּה פּוֹנֶה לֹא יִהְיוּ אֶלָּא דֶּרֶךְ יָמִין לַמִּזְרָח? הָנֵי מִילֵּי בַּעֲבוֹדָה. אֲבָל הָכָא — חוּשְׁבָּנָא בְּעָלְמָא הוּא.
+*Translation:* The Gemara questions the assertion that one *tanna* envisions the chambers as one coming via the left. **But didn’t the Master say: All turns that you turn should be only to the right,** which in certain cases is **to the east?** Here the turns are to the left. The Gemara answers: **This** restriction **applies only in** the course of performing **the** Temple **service; however, here, it is a mere reckoning,** and no priest actually proceeded that way from one chamber to the other.
+
+**3.**
+*Hebrew/Aramaic:* שֶׁכֹּהֵן גָּדוֹל מַקְרִיב חֵלֶק בָּרֹאשׁ וְנוֹטֵל חֵלֶק בָּרֹאשׁ. תָּנוּ רַבָּנַן: כֵּיצַד מַקְרִיב חֵלֶק בָּרֹאשׁ? אוֹמֵר: עוֹלָה זוֹ אֲנִי מַקְרִיב, מִנְחָה זוֹ אֲנִי מַקְרִיב.
+*Translation:* § It was taught in the mishna: **As the High Priest sacrifices** any **portion** that he chooses **first and takes** any **portion** that he chooses **first. The Sages taught** in a *baraita*: **How does** the High Priest **sacrifice** any **portion** that he chooses **first?** If the High Priest so desires, **he says: This burnt-offering, I am sacrificing,** or: **This meal-offering, I am sacrificing.** That is sufficient, and the High Priest does not participate in a lottery.
+
+**4.**
+*Hebrew/Aramaic:* כֵּיצַד נוֹטֵל חֵלֶק בָּרֹאשׁ? אוֹמֵר: חַטָּאת זוֹ אֲנִי אוֹכֵל, אָשָׁם זֶה אֲנִי אוֹכֵל. וְנוֹטֵל חַלָּה מִשְׁתֵּי חַלּוֹת, אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים. רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ, שֶׁנֶּאֱמַר: ״וְהָיְתָה לְאַהֲרֹן וּלְבָנָיו״ — מֶחֱצָה לְאַהֲרֹן וּמֶחֱצָה לְבָנָיו.
+*Translation:* **How does** the High Priest **take** any **portion** that he chooses **first?** The High Priest **says: This sin-offering, I am eating,** or: **This guilt-offering, I am eating. And he** may even **take** one **loaf** of the **two loaves** offered on the festival of *Shavuot*. He may take **four or five** of the twelve **shewbread loaves** that are distributed to the priests every Shabbat. **Rabbi** Yehuda HaNasi **says:** The High Priest **always** takes **five** of the twelve shewbread loaves, **as it is stated: “It shall be for Aaron and his sons** and they shall eat it in a sacred place” (Leviticus 24:9). From the fact that Aaron and his sons are listed separately, it is derived that **half** of the loaves were given **to Aaron,** or the High Priests who succeeded him, **and half** were given **to his sons.** Since, as explained below, only ten of the loaves were actually distributed, the High Priest received five.
+
+**5.**
+*Hebrew/Aramaic:* הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ נוֹטֵל חַלָּה אַחַת מִשְׁתֵּי חַלּוֹת, מַנִּי — רַבִּי הִיא, דְּאָמַר פַּלְגָא שָׁקֵיל. אֵימָא מְצִיעֲתָא: אַרְבַּע אוֹ חָמֵשׁ מִמַּעֲשֵׂה לֶחֶם הַפָּנִים, אֲתָאן לְרַבָּנַן, דְּאָמְרִי: לָא שָׁקֵיל פַּלְגָא. אֵימָא סֵיפָא, רַבִּי אוֹמֵר: לְעוֹלָם חָמֵשׁ. רֵישָׁא וְסֵיפָא רַבִּי, וּמְצִיעֲתָא רַבָּנַן?
+*Translation:* **This** *baraita* **is itself difficult,** as it is self-contradictory. First **you said: He takes** one **loaf** of the **two loaves** offered on the festival of *Shavuot*. **Whose** opinion is this? **It is** the opinion of **Rabbi** Yehuda HaNasi, **who said** that the High Priest **takes half. Say the middle clause** of the *baraita* as follows: The High Priest takes **four or five** of the twelve **shewbread loaves; we have come to** the opinion of **the Rabbis, who say** that the High Priest **does not take half** but takes less than half. **Say the last clause** of the *baraita* as follows: **Rabbi** Yehuda HaNasi **says** that the High Priest **always** takes **five.** The Gemara asks: Is that to say that **the first clause and the last clause** of the *baraita* are in accordance with the opinion of **Rabbi** Yehuda HaNasi, **and the middle** clause is in accordance with the opinion of **the Rabbis?** That conclusion is difficult.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: רֵישָׁא וּמְצִיעֲתָא רַבָּנַן — וּמוֹדוּ רַבָּנַן בִּפְרוּסָה, דְּלָאו אוֹרַח אַרְעָא לְמִיתְּבַהּ לְכֹהֵן גָּדוֹל.
+*Translation:* **Abaye said: The first clause and the middle clause** of the *baraita* are in accordance with the opinion of **the Rabbis,** and in the case of the two loaves, **the Rabbis concede with regard to a piece** of a loaf **that it is inappropriate to give it to the High Priest.** According to the Rabbis, the High Priest should actually receive less than one loaf, as in their opinion he is entitled to less than half; however, since it is inappropriate to give him a piece of the loaf, he takes an entire loaf as his portion.

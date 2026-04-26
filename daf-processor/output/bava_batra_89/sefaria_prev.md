@@ -1,0 +1,49 @@
+### Bava Batra 88b
+
+**1.**
+*Hebrew/Aramaic:* וְחַיָּיב לְהַכְרִיעַ לוֹ טֶפַח. הָיָה שׁוֹקֵל לוֹ עַיִן בְּעַיִן, נוֹתֵן לוֹ גֵּירוּמִין. אֶחָד לַעֲשָׂרָה בַּלַּח, וְאֶחָד לְעֶשְׂרִים בַּיָּבֵשׁ.
+*Translation:* **And** before adding the weights and merchandise the seller is **obligated to let** the pans of the scale that will hold the merchandise **tilt** an extra **handbreadth for** the buyer by adding a weight to that side. If the seller **weighed for him exactly,** i.e., with the scales equally balanced initially, instead of allowing the scales to tilt an extra handbreadth, **he must give** the buyer **additional amounts [*geirumin*],** an additional **one-tenth in** the case of **liquids** sold by weight, **and** an additional **one-twentieth in** the case of **dry** goods.
+
+**2.**
+*Hebrew/Aramaic:* מָקוֹם שֶׁנָּהֲגוּ לָמוֹד בְּדַקָּה – לֹא יָמוֹד בְּגַסָּה. בְּגַסָּה – לֹא יָמוֹד בְּדַקָּה. לִמְחוֹק – לֹא יִגְדּוֹשׁ. לִגְדּוֹשׁ – לֹא יִמְחוֹק.
+*Translation:* The mishna continues to discuss the correct method of weighing: In **a place where they were accustomed to measure** merchandise in several stages **with a small** measuring vessel, **one may not measure** all the items at once **with** a single **large** measuring vessel. In a place where they measure **with** one **large** measuring vessel, **one may not measure with** several **small** measuring vessels. In a place where the custom is **to level** the top of the measuring vessel to remove substances heaped above its edges, **one may not heap** it, and where the custom is **to heap** it, **one may not level** it.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ מְנָהָנֵי מִילֵּי? אָמַר רֵישׁ לָקִישׁ, דְּאָמַר קְרָא: ״אֶבֶן שְׁלֵמָה וָצֶדֶק״ – צַדֵּק מִשֶּׁלְּךָ וְתֵן לוֹ. אִי הָכִי, אֵימָא סֵיפָא: הָיָה שׁוֹקֵל לוֹ עַיִן בְּעַיִן – נוֹתֵן לוֹ גֵּירוּמִין. וְאִי הַכְרָעָה דְּאוֹרָיְיתָא, הֵיכִי יָהֵיב לֵיהּ עַיִן בְּעַיִן?
+*Translation:* GEMARA: The Gemara asks: **From where are these matters,** that the seller must initially let the scales tilt an extra handbreadth, **derived? Reish Lakish said:** The source is **that the verse states** that one should have: **“A perfect and just [*tzedek*] weight”** (Deuteronomy 25:15), which is interpreted as an instruction to the seller: **Be righteous [*tzaddek*] with that which is yours and give it to** the buyer. The Gemara asks: **If that is so, say the latter clause:** If the seller **weighed for him exactly, he gives** the buyer **additional amounts. But if letting** the scales **tilt** is obligatory **by Torah law, how can he** originally **give him** by weighing **exactly?**
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא רֵישָׁא בְּמָקוֹם שֶׁנָּהֲגוּ; וְאִי אִיתְּמַר דְּרֵישׁ לָקִישׁ – אַסֵּיפָא אִיתְּמַר: הָיָה שׁוֹקֵל לוֹ עַיִן בְּעַיִן – נוֹתֵן לוֹ גֵּירוּמִין. מְנָהָנֵי מִילֵּי? אָמַר רֵישׁ לָקִישׁ, דְּאָמַר קְרָא: ״וָצֶדֶק״ – צַדֵּק מִשֶּׁלְּךָ וְתֵן לוֹ. וְכַמָּה גֵּירוּמִין? אָמַר רַבִּי אַבָּא בַּר מֶמֶל אָמַר רַב: אֶחָד מֵעֲשָׂרָה בַּלִּיטְרָא בַּלַּח – לַעֲשָׂרָה לִיטְרִין.
+*Translation:* **Rather,** it is not obligatory to let the scales tilt, and **the first clause** is referring **to a place where they are accustomed** to let the scales tilt an extra handbreadth. **And if** the statement **of Reish Lakish was stated,** it **was stated with regard to the latter clause:** If the seller **weighed for him exactly, he gives** the buyer **additional amounts. From where is this matter** derived? **Reish Lakish said** that this is **as the verse states: “And just [*tzedek*],”** which indicates: **Be righteous [*tzaddek*] with that which is yours and give it to** the buyer. The Gemara asks: **And how much** are the **additional amounts** that are given? **Rabbi Abba bar Memel says** that **Rav says: In** the case of **liquids, one-tenth of a *litra* for** every **ten *litra*,** i.e., one-hundredth.
+
+**5.**
+*Hebrew/Aramaic:* אֶחָד לַעֲשָׂרָה בַּלַּח, וְאֶחָד לְעֶשְׂרִים בְּיָבֵשׁ וְכוּ׳. אִיבַּעְיָא לְהוּ: הֵיכִי קָאָמַר? אֶחָד מֵעֲשָׂרָה בַּלַּח – לַעֲשָׂרָה דְלַח, וְאֶחָד מֵעֶשְׂרִים בַּיָּבֵשׁ – לְעֶשְׂרִים דְּיָבֵשׁ; אוֹ דִלְמָא, אֶחָד מֵעֲשָׂרָה – לַעֲשָׂרָה דְּלַח וּלְעֶשְׂרִים דְּיָבֵשׁ? תֵּיקוּ.
+*Translation:* The mishna teaches that the seller adds **one-tenth in** the case of **liquids, and one-twentieth for dry** goods. **A dilemma was raised before** the Sages: With regard to **what** case **is** the *tanna* of the mishna **speaking?** Does he mean **one-tenth in** the case of **liquids for** every **ten** units **of liquid, and** similarly **one-twentieth in** the case of **dry** goods **for** every **twenty** units **of dry** goods, i.e., one four-hundredth? **Or perhaps,** he means **one-tenth for** every **ten** units **of liquid, and** similarly one-tenth **for** every **twenty** units **of dry** goods, i.e., one two-hundredth? The Gemara states that the dilemma **shall stand** unresolved.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי לֵוִי: קָשֶׁה עוֹנְשָׁן שֶׁל מִדּוֹת יוֹתֵר מֵעוֹנְשָׁן שֶׁל עֲרָיוֹת, שֶׁזֶּה נֶאֱמַר בָּהֶן ״אֵל״, וְזֶה נֶאֱמַר בָּהֶן ״אֵלֶּה״. וּמַאי מַשְׁמַע דְּהַאי ״אֵל״ – קָשֶׁה הוּא? דִּכְתִיב: ״וְאֶת אֵילֵי הָאָרֶץ לָקָח״.
+*Translation:* § **Rabbi Levi says: The punishment for** using false **measures is more severe than the punishment for** transgressing the prohibition of **forbidden sexual relations. As** in **that** case, forbidden relations, it **is stated with regard to them** a shortened term for the word “these”: **“*El*,”** in the verse: “For all these [*el* ] abominations” (Leviticus 18:27). **And** in **this** case, false measures, it **is stated** an expanded term for the word “these”: **“*Elleh*,”** in the verse: “For all that do these [*elleh*] things, even all that do unrighteously, are an abomination unto the Lord your God” (Deuteronomy 25:16). **And from where may it be inferred that this** expression **“*el*”** indicates that the prohibition **is severe,** based on which it is understood that the form this word takes indicates a level of severity? **As it is written: “And the mighty [*eilei*] of the land he took away”** (Ezekiel 17:13).
+
+**7.**
+*Hebrew/Aramaic:* גַּבֵּי עֲרָיוֹת נָמֵי, הָכְתִיב ״אֵלֶּה״! הָהוּא לְמַעוֹטֵי מִדּוֹת מִכָּרֵת.
+*Translation:* The Gemara asks: **But with regard to forbidden relations isn’t it also written:** “For whosoever shall do any of **these [*elleh*]** abominations” (Leviticus 18:29)? If so, why is the punishment for using false measures considered harsher? The Gemara answers: **That** expression of “*elleh*” (Leviticus 18:29) in the context of forbidden relations does not serve to emphasize its severity. Rather, it serves **to exclude** one who uses deception in **measures from** the penalty of **excision from the World-to-Come [*karet*].**
+
+**8.**
+*Hebrew/Aramaic:* וְאֶלָּא מַאי עוּדְפַּיְיהוּ? דְּהָתָם אֶפְשָׁר בִּתְשׁוּבָה, וְהָכָא לָא אֶפְשָׁר בִּתְשׁוּבָה.
+*Translation:* The Gemara asks: **But** if the punishment is in fact less severe, **what is the advantage,** i.e., the greater severity, in the case of false measures? The Gemara answers **that there,** in the case of one who engages in forbidden relations, **he has the possibility of repentance. But here,** in the case of one who uses false measures, **there is no possibility of repentance** because he has no way of knowing whom he cheated, and is therefore unable to return the stolen money.
+
+**9.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי לֵוִי: קָשֶׁה גֶּזֶל הֶדְיוֹט יוֹתֵר מִגֶּזֶל גָּבוֹהַּ, שֶׁזֶּה הִקְדִּים ״חֵטְא״ לִ״מְּעִילָה״, וְזֶה הִקְדִּים ״מְעִילָה״ לְ״חֵטְא״.
+*Translation:* **And Rabbi Levi says: Robbing an ordinary** person **is more severe than robbing the Most High,** i.e., taking consecrated property. **As** with regard to **this** regular robber, the verse states **“sin” before “*me’ila*”:** “If any one sin, and commit a trespass [*me’ila*] against the Lord, and deal falsely with his neighbor in a matter of deposit, or of pledge, or of robbery, or have oppressed his neighbor” (Leviticus 5:21). **And** with regard to **that** one who misuses consecrated items, the verse states ***me’ila* before sin:** “If any one engages in misuse [*timol ma’al*] and sins unwittingly” (Leviticus 5:15).
+
+**10.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי לֵוִי: בּוֹא וּרְאֵה, שֶׁלֹּא כְּמִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא מִדַּת בָּשָׂר וָדָם הַקָּדוֹשׁ בָּרוּךְ הוּא – בֵּרַךְ יִשְׂרָאֵל בְּעֶשְׂרִים וּשְׁתַּיִם, וְקִלְּלָן בִּשְׁמֹנֶה. בֵּרְכָן בְּעֶשְׂרִים וּשְׁתַּיִם – מֵ״אִם בְּחֻקֹּתַי״ עַד ״קוֹמְמִיּוּת״;
+*Translation:* **And Rabbi Levi says: Come and see that the attribute of flesh and blood is unlike the attribute of the Holy One, Blessed be He. The Holy One, Blessed be He, blessed the Jewish people with twenty-two, and cursed them with** only **eight.** Rabbi Levi explains: **He blessed them with** the **twenty-two** letters of the Hebrew alphabet, **from** the first letter, *alef*, that begins the verse: **“If [*im*] you** walk **in My statutes”** (Leviticus 26:3), **until “upright [*komemiyyut*]”** (Leviticus 26:13), which ends with the letter *tav*, the last letter of the Hebrew alphabet.
+
+**11.**
+*Hebrew/Aramaic:* וְקִלְּלָן בִּשְׁמוֹנָה – מִ״וְּאִם בְּחֻקֹּתַי תִּמְאָסוּ״ עַד ״וְאֶת חֻקֹּתַי גָּעֲלָה נַפְשָׁם״.
+*Translation:* **And He cursed them with eight** letters, **from** the letter *vav* that begins the verse: **“And if [*ve’im*] you shall reject My statutes”** (Leviticus 26:15), **until: “And My statutes were abhorred by their soul [*nafsham*]”** (Leviticus 26:43), which ends with the letter *mem*. There are eight letters in the Hebrew alphabet from the letter *vav* to the letter *mem*, inclusive.
+
+**12.**
+*Hebrew/Aramaic:* וְאִילּוּ מֹשֶׁה רַבֵּינוּ – בֵּרְכָן בִּשְׁמוֹנֶה, וְקִלְּלָן בְּעֶשְׂרִים וּשְׁתַּיִם. בֵּרְכָן בִּשְׁמוֹנֶה –
+*Translation:* **And yet Moses, our teacher,** who is flesh and blood, **blessed them with eight** letters, **and cursed them with twenty-two. He blessed them with eight** letters,

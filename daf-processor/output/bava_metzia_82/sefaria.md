@@ -1,0 +1,74 @@
+### Bava Metzia 82a
+
+**1.**
+*Hebrew/Aramaic:* הִלְוָהוּ עַל הַמַּשְׁכּוֹן קָתָנֵי! אֶלָּא לָא קַשְׁיָא: כָּאן – שֶׁהִלְוָהוּ מָעוֹת, כָּאן – שֶׁהִלְוָהוּ פֵּירוֹת.
+*Translation:* **teach** the same phrase: **One who lent to another** based **on collateral,** which indicates that the collateral was given at the time of the loan? **Rather,** the Gemara proposes a different resolution: It is **not difficult. Here,** the *baraita* is referring to a case **where he lent him money,** whereas **there,** the mishna is referring to a situation **where he lent him produce.** Since produce will spoil, the lender benefits from the deal, as he will receive fresher produce in return. Therefore, he is considered a paid bailee for the collateral.
+
+**2.**
+*Hebrew/Aramaic:* וְהָא מִדְּקָתָנֵי סֵיפָא, רַבִּי יְהוּדָה אוֹמֵר: הִלְוָהוּ מָעוֹת – שׁוֹמֵר חִנָּם, הִלְוָהוּ פֵּירוֹת – שׁוֹמֵר שָׂכָר. מִכְלָל דִּלְתַנָּא קַמָּא לָא שָׁנֵי לֵיהּ!
+*Translation:* The Gemara raises a difficulty: **But from** the fact **that the latter clause** of the mishna **teaches** that **Rabbi Yehuda says: One who lent** another **money** is **an unpaid bailee,** whereas **one who lent** another **produce** is **a paid bailee, by inference** you can conclude that according to **the first *tanna* there is no difference** between one who lends money and one who lends produce. If so, the proposed resolution does not fit the text.
+
+**3.**
+*Hebrew/Aramaic:* כּוּלַּהּ רַבִּי יְהוּדָה הִיא, וְחַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: הִלְוָהוּ עַל הַמַּשְׁכּוֹן – שׁוֹמֵר שָׂכָר, בַּמֶּה דְּבָרִים אֲמוּרִים – שֶׁהִלְוָהוּ פֵּירוֹת, אֲבָל הִלְוָהוּ מָעוֹת – שׁוֹמֵר חִנָּם. שֶׁרַבִּי יְהוּדָה אוֹמֵר: הִלְוָהוּ מָעוֹת – שׁוֹמֵר חִנָּם, הִלְוָהוּ פֵּירוֹת – שׁוֹמֵר שָׂכָר.
+*Translation:* The Gemara responds: **The entire** mishna **is** in accordance with the opinion of **Rabbi Yehuda, and** the mishna **is incomplete and this is what it is teaching: One who lent to** another based **on collateral is a paid bailee. In what** case **is this statement said? When he lent him produce. But** if **he lent him money,** he is **an unpaid bailee. As Rabbi Yehuda says: One who lent** another **money** is **an unpaid bailee** with regard to the collateral, whereas **one who lent produce** is **a paid bailee.**
+
+**4.**
+*Hebrew/Aramaic:* אִי הָכִי, קָמָה לַהּ מַתְנִיתִין דְּלָא כְּרַבִּי עֲקִיבָא. אֶלָּא מְחַוַּורְתָּא מַתְנִיתִין דְּלָא כְּרַבִּי אֱלִיעֶזֶר.
+*Translation:* The Gemara raises a difficulty: **If that is so,** it turns out that **the mishna is established not in accordance with** the opinion of **Rabbi Akiva.** This is problematic, as most of the Sages of the mishna were Rabbi Akiva’s students, and anonymous *mishnayot* are generally presumed to follow his rulings. **Rather, it is clear** that **the mishna is not in accordance with** the opinion of **Rabbi Eliezer.**
+
+**5.**
+*Hebrew/Aramaic:* לֵימָא בִּדְלָא שָׁוֵי מַשְׁכּוֹן שִׁיעוּר זוּזֵי, וּבְדִשְׁמוּאֵל קָא מִיפַּלְגִי. דְּאָמַר שְׁמוּאֵל: הַאי מַאן דְּאוֹזְפֵיהּ אַלְפָּא זוּזֵי לְחַבְרֵיהּ וְאַנַּח לֵיהּ קַתָּא דְמַגְּלָא עִילָּוַיְיהוּ, אֲבַד קַתָּא דְמַגְּלָא – אֲבַדוּ אַלְפָּא זוּזֵי.
+*Translation:* The Gemara suggests: **Let us say** that the dispute between Rabbi Akiva and Rabbi Eliezer applies only **in** a case **where** the **collateral is not equal** to **the monetary value** of the loan, **and they disagree with regard to** a statement **of Shmuel. As Shmuel says:** With regard to **one who lends one thousand dinars to another and** the borrower **puts before** the lender as collateral **for** the loan **the handle of a sickle,** which is worth only a small fraction of the loan, nevertheless, if **the sickle is lost, the thousand dinars are lost.** The Gemara is suggesting that Rabbi Akiva would agree with this ruling, whereas Rabbi Eliezer would disagree with it.
+
+**6.**
+*Hebrew/Aramaic:* אִי בִּדְלָא שָׁוֵי מַשְׁכּוֹן שִׁיעוּר זוּזֵי – דְּכוּלֵּי עָלְמָא לֵית לְהוּ דִּשְׁמוּאֵל, וְהָכָא בִּדְשָׁוֵי שִׁיעוּר זוּזֵי, וְקָא מִיפַּלְגִי בִּדְרַבִּי יִצְחָק.
+*Translation:* The Gemara rejects this suggestion: **If** the case is one **where** the **collateral is not equal** to **the amount of money** constituting the loan, **everyone holds** that the *halakha* is **not** in accordance with the opinion **of Shmuel. But here** the dispute is referring **to** a situation **where** the collateral does **equal the amount of the money** constituting the loan, **and they disagree with regard to** a statement **of Rabbi Yitzḥak.**
+
+**7.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי יִצְחָק: מִנַּיִן לְבַעַל חוֹב שֶׁקּוֹנֶה מַשְׁכּוֹן, שֶׁנֶּאֱמַר: ״וּלְךָ תִּהְיֶה צְדָקָה״. אִם אֵינוֹ קוֹנֶה מַשְׁכּוֹן, צְדָקָה מְנָא לֵיהּ? מִכָּאן לְבַעַל חוֹב שֶׁקּוֹנֶה מַשְׁכּוֹן.
+*Translation:* **As Rabbi Yitzḥak says: From where** is it derived **that a creditor acquires collateral** given to him and is considered its owner as long as the item is in his possession? It is derived from a verse, **as it is stated:** “You shall return the pledge to him when the sun goes down that he may sleep in his garment, and bless you; **and it shall be a righteousness for you** before the Lord your God” (Exodus 24:13). Rabbi Yitzḥak infers: **If** the creditor **does not acquire the collateral,** then **from where is the righteousness** involved in returning it? In this case, the creditor would not be giving up anything of his own. **From here** it is derived **that a creditor acquires the collateral.**
+
+**8.**
+*Hebrew/Aramaic:* וְתִסְבְּרָא? אֵימוֹר דְּאָמַר רַבִּי יִצְחָק בְּמִשְׁכְּנוֹ שֶׁלֹּא בִּשְׁעַת הַלְוָאָתוֹ, אֲבָל מִשְׁכְּנוֹ בִּשְׁעַת הַלְוָאָתוֹ – מִי אָמַר?
+*Translation:* The Gemara rejects this suggestion: **And** can **you understand** it that way? You can **say that Rabbi Yitzḥak stated** this *halakha* in a case **where** he **took his collateral not at the time of his loan** but at a later stage, in order to collect his debt. **But did** Rabbi Yitzḥak **say** this ruling in a situation where he **took his collateral at the time of his loan?**
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא מִשְׁכְּנוֹ שֶׁלֹּא בִּשְׁעַת הַלְוָאָתוֹ – כּוּלֵּי עָלְמָא אִית לְהוּ דְּרַבִּי יִצְחָק. וְהָכָא בְּמִשְׁכְּנוֹ בִּשְׁעַת הַלְוָאָתוֹ, וּבְשׁוֹמֵר אֲבֵידָה קָא מִיפַּלְגִי. דְּאִיתְּמַר: שׁוֹמֵר אֲבֵידָה, רַבָּה אָמַר: כְּשׁוֹמֵר חִנָּם, רַב יוֹסֵף אָמַר: כְּשׁוֹמֵר שָׂכָר.
+*Translation:* **Rather,** if **he took his collateral not at the time of his loan, everyone holds** in accordance with the opinion **of Rabbi Yitzḥak. And here** it is discussing a case **where he took his collateral at the time of his loan, and** Rabbi Eliezer and Rabbi Akiva **disagree with regard to** the case of **a bailee of a lost item. As it was stated** that *amora’im* disagreed concerning the responsibility of **the bailee for a lost item.** If someone found a lost item and it is subsequently lost or stolen from him, what responsibility does he bear toward the owner? **Rabba said:** This individual is considered to be **like an unpaid bailee. Rav Yosef said:** He is **like a paid bailee.**
+
+**10.**
+*Hebrew/Aramaic:* לֵימָא דְּרַב יוֹסֵף תַּנָּאֵי הִיא? לָא, בְּשׁוֹמֵר אֲבֵידָה – דְּכוּלֵּי עָלְמָא אִית לְהוּ דְּרַב יוֹסֵף, וְהָכָא
+*Translation:* The Gemara suggests: **Let us say** that the opinion **of Rav Yosef is** the subject of a dispute between ***tanna’im*.** There is no question that Rabba’s opinion is the subject of a dispute between *tanna’im*, as Rabbi Akiva’s opinion cannot be reconciled with his ruling: If one who takes collateral for his loan is considered a paid bailee, the same certainly applies to one who goes out of his way to safeguard a lost item. The Gemara is asking whether there is any way to explain Rav Yosef’s ruling in accordance with the opinions of both *tanna’im*, or if he must accept that Rabbi Eliezer disputes his opinion. The Gemara responds: **No,** it is possible **with regard to a bailee for a lost item** that **everyone holds** in accordance with the opinion **of Rav Yosef,** even Rabbi Eliezer. **And here,** in the *baraita*,
+
+
+---
+
+### Bava Metzia 82b
+
+**1.**
+*Hebrew/Aramaic:* בְּמִלְוֶה צָרִיךְ לְמַשְׁכּוֹן קָמִיפַּלְגִי. מָר סָבַר: מִצְוָה קָא עָבֵיד שֶׁהִלְוָהוּ, וְהָוֵי שׁוֹמֵר שָׂכָר. וּמָר סָבַר: לָאו מִצְוָה קָא עָבֵיד, שֶׁלַּהֲנָאָתוֹ מִתְכַּוֵּין, וְהָוֵי שׁוֹמֵר חִנָּם.
+*Translation:* **they disagree with regard to a lender who needs the collateral,** i.e., the lender wants to use the collateral and deduct the value of its use from the amount of the loan. One **Sage,** Rabbi Akiva, **holds that he is performing a mitzva** in **that he lent to him, and** therefore **he is** considered **a paid bailee. And** one **Sage,** Rabbi Eliezer, **holds** that **he is not performing a mitzva, as his intention is** to lend **for his own benefit. And** consequently **he is** considered **an unpaid bailee** for the collateral.
+
+**2.**
+*Hebrew/Aramaic:* אַבָּא שָׁאוּל אוֹמֵר: מוּתָּר לָאָדָם לְהַשְׂכִּיר מַשְׁכּוֹנוֹ שֶׁל עָנִי לִהְיוֹת פּוֹחֵת וְהוֹלֵךְ. אָמַר רַב חָנָן בַּר אַמֵּי אָמַר שְׁמוּאֵל: הֲלָכָה כְּאַבָּא שָׁאוּל. וְאַף אַבָּא שָׁאוּל לָא אָמַר אֶלָּא בְּמָרָא וּפָסָל וְקַרְדּוֹם, הוֹאִיל וּנְפִישׁ אַגְרַיְיהוּ וְזוּטַר פְּחָתַיְיהוּ.
+*Translation:* § The mishna teaches that **Abba Shaul says:** It is **permitted** for **a person to rent out a poor person’s collateral** that was given to him for a loan, **so that he shall** set a rental price for it and thereby **progressively reduce** the debt, because this is considered like returning a lost item. **Rav Ḥanan bar Ami says** that **Shmuel says:** The ***halakha*** is **in accordance with** the opinion of **Abba Shaul, but even Abba Shaul said** his ruling **only with regard to a hoe, a chisel, and an ax, since the remuneration** from **these** utensils **is great and their depreciation is small.**
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמַּעֲבִיר חָבִית מִמָּקוֹם לְמָקוֹם וּשְׁבָרָהּ, בֵּין שׁוֹמֵר חִנָּם בֵּין שׁוֹמֵר שָׂכָר – יִשָּׁבַע. רַבִּי אֱלִיעֶזֶר אוֹמֵר: זֶה וְזֶה יִשָּׁבַע, וְתָמֵיהַּ אֲנִי אִם יְכוֹלִין זֶה וָזֶה לִישָּׁבַע.
+*Translation:* MISHNA: With regard to **one who was transporting a barrel from one place to another and he broke it, whether** he was **an unpaid bailee or a paid bailee,** if **he takes an oath** that he was not negligent he is exempt from payment. **Rabbi Eliezer says:** Both **this** one, an unpaid bailee, **and that** one, a paid bailee, must **take an oath** to exempt themselves from payment, **but I wonder whether** both **this** one **and that** one **can take an oath.** In other words, this is the *halakha* that I heard from my teachers, but I do not understand their ruling.
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: הַמַּעֲבִיר חָבִית לַחֲבֵירוֹ מִמָּקוֹם לְמָקוֹם וּשְׁבָרָהּ, בֵּין שׁוֹמֵר חִנָּם בֵּין שׁוֹמֵר שָׂכָר – יִשָּׁבַע, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: שׁוֹמֵר חִנָּם – יִשָּׁבַע, נוֹשֵׂא שָׂכָר – יְשַׁלֵּם. רַבִּי אֱלִיעֶזֶר אוֹמֵר: זֶה וְזֶה יִשָּׁבַע, וְתָמֵיהַּ אֲנִי אִם יְכוֹלִין זֶה וָזֶה לִישָּׁבַע.
+*Translation:* GEMARA: **The Sages taught:** With regard to **one who was transporting a barrel for another** person **from one place to another and he broke it, whether** he was **an unpaid bailee or a paid bailee,** if **he takes an oath** that he was not negligent, he is exempt from payment. This is **the statement of Rabbi Meir. Rabbi Yehuda says: An unpaid bailee takes an oath** and does not pay, but **a paid bailee pays. Rabbi Eliezer says: This** one **and that** one **take an oath, and I wonder whether** both **this one and that one can take an oath.**
+
+**5.**
+*Hebrew/Aramaic:* לְמֵימְרָא דְּסָבַר רַבִּי מֵאִיר נִתְקַל לָאו פּוֹשֵׁעַ הוּא? וְהָתַנְיָא: נִשְׁבְּרָה כַּדּוֹ וְלֹא סִילְּקָהּ נָפְלָה גְּמַלּוֹ וְלֹא הֶעֱמִידָהּ, רַבִּי מֵאִיר מְחַיֵּיב בְּהֶיזֵּיקָן, וַחֲכָמִים אוֹמְרִים: פָּטוּר מִדִּינֵי אָדָם וְחַיָּיב בְּדִינֵי שָׁמַיִם. וְקַיְימָא לַן דִּבְנִתְקַל פּוֹשֵׁעַ פְּלִיגִי!
+*Translation:* The Gemara analyzes these opinions. Is that **to say** that **Rabbi Meir holds** that **one who stumbles is not** considered **negligent,** but the victim of an accident? **But isn’t it taught** in a *baraita*: If **one’s pitcher broke** in a public place **and he did not remove it** from there, or if **his camel fell and he did not stand it up, Rabbi Meir renders him liable for the damage they** caused? **And the Rabbis say** that he is **exempt according to human laws but** is **liable according to the laws of Heaven.** Although the court cannot impose liability, nevertheless he is morally culpable. **And we maintain that they disagree with regard to** the question of whether **one who stumbles is negligent.** This indicates that Rabbi Meir holds that one who stumbles is considered negligent.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: תִּבְרַהּ, מִי שֶׁשָּׁנָה זוֹ לֹא שָׁנָה זוֹ. וַאֲתָא רַבִּי יְהוּדָה לְמֵימַר: שׁוֹמֵר חִנָּם – יִשָּׁבַע, נוֹשֵׂא שָׂכָר – יְשַׁלֵּם. הַאי כִּי דִינֵיהּ וְהַאי כִּי דִינֵיהּ. וַאֲתָא רַבִּי אֱלִיעֶזֶר לְמֵימַר: אִין, גְּמָרָא כְּרַבִּי מֵאִיר. וּמִיהוּ תָּמֵיהַּ אֲנִי אִם יְכוֹלִין זֶה וָזֶה לִישָּׁבַע.
+*Translation:* **Rabbi Elazar said: Break** the mishna, as he **who taught this did not teach that,** i.e., there are two traditions with regard to Rabbi Meir’s opinion. **And Rabbi Yehuda came to say** a different ruling: **An unpaid bailee takes an oath** and does not pay while **a paid bailee pays, this one in accordance with his law and that one in accordance with his law,** as an unpaid bailee is exempt from liability for theft and loss, while a paid bailee is liable in those cases and exempt only in cases of circumstances beyond his control. **And Rabbi Eliezer came to say: Yes,** there is **a tradition** that **is in accordance with** the opinion of **Rabbi Meir,** as I learned from my teachers, **but I wonder whether** both **this** one **and that** one **can take an oath.**
+
+**7.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא שׁוֹמֵר חִנָּם מִשְׁתְּבַע דְּלָא פְּשַׁע בַּהּ: אֶלָּא שׁוֹמֵר שָׂכָר אַמַּאי מִשְׁתְּבַע? כִּי לָא פְּשַׁע נָמֵי שַׁלּוֹמֵי בָּעֵי. וַאֲפִילּוּ שׁוֹמֵר חִנָּם נָמֵי, הָתִינַח בִּמְקוֹם מִדְרוֹן. שֶׁלֹּא בִּמְקוֹם מִדְרוֹן, מִי מָצֵי מִשְׁתְּבַע דְּלָא פְּשַׁע בַּהּ!
+*Translation:* The Gemara asks: **Granted, an unpaid bailee takes an oath that he was not negligent with regard to** the barrel, as required by Torah law, **but why does a paid bailee take an oath?** Even **if he was not negligent he is still required to pay,** as he is obligated to pay for theft and loss. **And even** with regard to **an unpaid bailee,** this **works out well** if the barrel broke **on an inclined plane [*midron*],** as the accident occurred due to the difficulty of transporting it, but if it broke **not on an inclined plane** but under different circumstances, **how can he take an oath** that **he was not negligent** with it? Evidently his negligence caused the accident.

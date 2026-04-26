@@ -1,0 +1,41 @@
+### Bava Batra 50b
+
+**1.**
+*Hebrew/Aramaic:* שְׁנֵיהֶם יֶשְׁנָן בְּדִין יוֹם אוֹ יוֹמַיִם – זֶה מִפְּנֵי שֶׁהוּא תַּחְתָּיו, וְזֶה מִפְּנֵי שֶׁהוּא כַּסְפּוֹ – וּמְסַפְּקָא לֵיהּ אִי קִנְיַן פֵּירוֹת כְּקִנְיַן הַגּוּף דָּמֵי, אִי לָאו כְּקִנְיַן הַגּוּף דָּמֵי, וְסָפֵק נְפָשׁוֹת לְהָקֵל.
+*Translation:* **both of them are** included **in** the ***halakha*** of **“a day or two days.” This** first master is included **because** the slave **is under his** authority, **and that** second master is included **because** the slave **is “his money.”** The Gemara explains Rabbi Yosei’s reasoning: **And he is uncertain if ownership of** the rights to use an item and the **profits** it engenders is **like ownership of the item itself,** in which case only the first master would be exempt, or **if** it is **not like ownership of the item itself,** in which case only the second master would be exempt. **And** where there is **an uncertainty** in a case of **capital** law, the ruling is **to be lenient.** Therefore, neither of them would receive court-imposed capital punishment in this case.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר אוֹמֵר: שְׁנֵיהֶם אֵינָן בְּדִין יוֹם אוֹ יוֹמַיִם – זֶה לְפִי שֶׁאֵינוֹ תַּחְתָּיו, וְזֶה לְפִי שֶׁאֵינוֹ כַּסְפּוֹ.
+*Translation:* The *baraita* continues: **Rabbi Elazar says** that **both of them are not** included **in** the ***halakha*** of **“a day or two days,”** and both would receive court-imposed capital punishment. **This** second master is not included **because** the slave **is not under his** authority, **and that** first master is not included **because** the slave **is not “his money.”** Rabbi Eliezer holds that one must both own the slave himself and enjoy the use of the slave to be included in the exemption.
+
+**3.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא: מַאי טַעְמָא דְּרַבִּי אֶלְעָזָר? אָמַר קְרָא: ״לֹא יֻקַּם כִּי כַסְפּוֹ הוּא״ – כַּסְפּוֹ הַמְיוּחָד לוֹ.
+*Translation:* The Gemara explains how Ameimar’s statement is in accordance with the opinion of Rabbi Elazar. **And Rava says: What is the reason** for the opinion **of Rabbi Elazar?** The **verse states:** “Notwithstanding if he continue a day or two days, **he shall not be punished; for he is his money”** (Exodus 21:21), and he understands this to be referring to a slave that is **“his money,”** a slave **that is unique to him,** so this exemption does not apply to one who does not have total ownership of the slave. Rabbi Elazar holds that one is considered to own an item only if he owns the item itself and also enjoys the use of it. This is the source of Ameimar’s statement that neither the husband nor the wife can sell usufruct property: The husband cannot sell it because he does not own it, and the wife cannot sell it because only the husband has the right to enjoy the profits.
+
+**4.**
+*Hebrew/Aramaic:* וְלֹא לָאִישׁ חֲזָקָה בְּנִכְסֵי אִשְׁתּוֹ. וְהָאָמַר רַב: אֵשֶׁת אִישׁ צְרִיכָה לְמַחוֹת! בְּמַאן? אִילֵימָא בְּאַחֵר – וְהָאָמַר רַב: אֵין מַחֲזִיקִין בְּנִכְסֵי אֵשֶׁת אִישׁ. אֶלָּא לָאו בְּבַעַל?
+*Translation:* § The mishna teaches that **a man does not have** the ability to establish the **presumption** of ownership **with regard to his wife’s property.** The Gemara asks: **But doesn’t Rav say** that **a married woman must protest?** The Gemara clarifies: **With regard to whom** must she protest? **If we say: With regard to another,** i.e., one who is not her husband who has taken possession of her property, that is problematic: **But doesn’t Rav say** that **one cannot establish** the **presumption** of ownership **with regard to the property of a married woman,** as she can claim that she did not lodge a protest because she expected her husband to do so? **Rather,** Rav’s intention must be that she must lodge a protest **with regard to the husband.** This indicates that absent her protest, it is possible for a husband to establish the presumption of ownership with regard to her property, in contrast to the ruling of the mishna.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: לְעוֹלָם בְּבַעַל, וּכְגוֹן שֶׁחָפַר בָּהּ בּוֹרוֹת, שִׁיחִין וּמְעָרוֹת.
+*Translation:* **Rava said: Actually,** Rav is referring to her lodging a protest **with regard to the husband, and** is speaking of a case **where** he **dug pits, ditches, and caves in** her property. In other words, he did not simply work and profit from the land, but damaged it in a way that demonstrates that he considered himself the owner. If he does this for three years and she does not lodge a protest, he establishes the presumption of ownership. The mishna, which states that he cannot establish the presumption of ownership, is referring to standard use.
+
+**6.**
+*Hebrew/Aramaic:* וְהָאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: אֵין חֲזָקָה לִנְזָקִין!
+*Translation:* The Gemara asks: **But doesn’t Rav Naḥman say** that **Rabba bar Avuh said: There is no presumptive ownership with regard to damage?** This is understood to mean that one cannot establish the presumption of ownership of another’s field by damaging it, as it is not considered to be standard use. Therefore, even after three years have passed the owner can remove one from his field. Since in this case the husband is damaging the field, he should not be able to establish the presumption of ownership.
+
+**7.**
+*Hebrew/Aramaic:* אֵימָא: אֵין דִּין חֲזָקָה לִנְזָקִין.
+*Translation:* The Gemara answers: **Say** that this means that **the *halakha* of presumptive ownership does not** apply **with regard to damage,** meaning that one who damages another’s property without the owner lodging a protest does not need three years to establish the presumption of ownership, but does so immediately, as an owner who sees another damage his land is expected to protest without delay. Consequently, a husband who digs pits and the like in his wife’s property without her lodging a protest establishes the presumption of ownership immediately.
+
+**8.**
+*Hebrew/Aramaic:* אִי בָּעֵית אֵימָא: לָאו אִיתְּמַר עֲלַהּ, רַב מָרִי אָמַר: בְּקוּטְרָא, רַב זְבִיד אָמַר: בְּבֵית הַכִּסֵּא?
+*Translation:* The Gemara offers an alternative answer. **If you wish, say** instead: **Was it not stated with regard to** the *halakha* that there is no presumptive ownership with regard to damage that **Rav Mari says:** Damage is referring specifically **to smoke,** and **Rav Zevid says** that it is referring **to a bathroom?** The statement that there is no presumptive ownership [*ḥazaka*] with regard to damage was not stated concerning establishing the presumption of ownership of property, but concerning acquiring the privilege [*ḥazaka*] to engage in certain activities on one’s own property, and is stating that even if one has engaged in activities that produce smoke or foul odors, the fact that the neighbors did not lodge a protest in the past does not prevent them from doing so in the future.
+
+**9.**
+*Hebrew/Aramaic:* רַב יוֹסֵף אָמַר: לְעוֹלָם בְּאַחֵר, וּכְגוֹן שֶׁאֲכָלָהּ מִקְצָת חֲזָקָה בְּחַיֵּי הַבַּעַל, וְשָׁלֹשׁ לְאַחַר מִיתַת הַבַּעַל; מִיגּוֹ דְּאִי בָּעֵי אָמַר לַיהּ: ״אֲנָא זְבֵינְתַּהּ מִינָּךְ״, כִּי אָמַר לַהּ נָמֵי: ״אַתְּ זַבֵּינְתַּהּ לֵיהּ וְזַבְּנַהּ נִיהֲלִי״ – מְהֵימַן.
+*Translation:* **Rav Yosef said: Actually,** Rav is referring to her lodging a protest **with regard to another, and** is speaking of a case **where** the one who has possession of her property worked and **profited** from the field for **part** of the time necessary to establish the **presumption** of ownership **during the husband’s lifetime, and** for **three** additional years **after the husband’s death.** In this case, if the woman does not lodge a protest, the possessor establishes the presumption of ownership, **since if he wanted** to, he could **say to** the woman: **I purchased it from you** and then possessed the field for three years, and he would be awarded the field. **When he said to her as well: You sold** the field **to** your husband **and he sold it to me, he is deemed credible.**
+
+**10.**
+*Hebrew/Aramaic:* גּוּפָא – אָמַר רַב: אֵין מַחְזִיקִין בְּנִכְסֵי אֵשֶׁת אִישׁ.
+*Translation:* The Gemara returns to discuss Rav’s statement: With regard to **the** matter **itself, Rav says** that **one cannot establish** the **presumption** of ownership **with regard to the property of a married woman,**

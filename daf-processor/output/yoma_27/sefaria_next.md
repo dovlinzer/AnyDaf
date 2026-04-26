@@ -1,0 +1,45 @@
+### Yoma 28a
+
+**1.**
+*Hebrew/Aramaic:* וַהֲרֵי אֵבָרִים וּפְדָרִים! סוֹף עֲבוֹדָה דִימָמָא הִיא. וַהֲרֵי תְּרוּמַת הַדֶּשֶׁן! תְּחִילַּת עֲבוֹדָה דִימָמָא הִיא, דְּאָמַר רַבִּי יוֹחָנָן: קִדֵּשׁ יָדָיו לִתְרוּמַת הַדֶּשֶׁן, לְמָחָר אֵינוֹ צָרִיךְ לְקַדֵּשׁ, שֶׁכְּבָר קִדֵּשׁ מִתְּחִלַּת עֲבוֹדָה. אֶלָּא קַשְׁיָא!
+*Translation:* The Gemara expresses wonder at Rabbi Zeira’s equation of these two issues: **But isn’t there** the burning of **the limbs and the fats?** The Gemara answers: That is not difficult, because the burning of the limbs and the fats **is the end of the daytime service.** The Gemara asks further: **But isn’t there the removal of the ashes?** The Gemara rejects that argument: Removing the ashes is **the start of the daytime service,** as **Rabbi Yoḥanan said:** If a priest **sanctified his hands** at night by washing them **for the removal of the ashes, the next day,** i.e., after daybreak, **he need not sanctify** his hands again, **as he already sanctified** them **at the start of the service.** Rabbi Zeira’s equation between services that are incomplete by themselves and services for which a non-priest does not incur the death penalty therefore remains intact. **If so,** the question that he asked concerning Rabbi Yoḥanan’s statement remains **difficult.**
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא: אִי אִתְּמַר, הָכִי אִתְּמַר: אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: זָר שֶׁסִּידֵּר שְׁנֵי גְּזִירֵי עֵצִים — חַיָּיב, הוֹאִיל וַעֲבוֹדָה תַּמָּה הִיא.
+*Translation:* **Rather,** Rabbi Yoḥanan’s statement must be revised, and one must posit that **when it was stated, this is how it was stated: Rabbi Asi said** that **Rabbi Yoḥanan said: A non-priest who arranges the two logs is liable** to receive the death penalty, **since it is a service that is complete,** i.e., it is not followed and completed by a subsequent service. Although the burning of the limbs upon the altar follows the placement of the logs, that is considered to be an independent act, not the completion of the service of placing the logs. This is because the placing of the logs is done while still night, while the burning of the limbs cannot be done until daybreak.
+
+**3.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רָבָא: אֶלָּא מֵעַתָּה תִּבְעֵי פַּיִיס! וְלָא בָּעֲיָא פַּיִיס? וְהָתַנְיָא: מִי שֶׁזָּכָה בִּתְרוּמַת הַדֶּשֶׁן — יִזְכֶּה בְּסִידּוּר שְׁנֵי גְּזִירֵי עֵצִים!
+*Translation:* **Rava strongly objects to this: However, if** that is **so,** the service of placing the two logs **should require a lottery.** The Gemara expresses surprise at Rava’s comment: **And doesn’t it require a lottery? Wasn’t it taught** in a *baraita*: **Whoever was privileged** to perform the **removal of the ashes** is **also privileged** to perform the **arrangement of the two logs?** There was in fact a lottery for arranging the two logs.
+
+**4.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: יְפַיְּיסוּ לָהּ בִּפְנֵי עַצְמָהּ! כִּדְאָמְרִינַן.
+*Translation:* Rather, **this is what** Rava actually **said:** If placing the logs is considered a complete service and is therefore a task important enough to warrant the death penalty for a non-priest who performs it, **they** should **hold a** separate **lottery for it by itself.** The Gemara answers: It is **as we said** at the beginning of the chapter, that the task of placing the logs was added to the lottery for the removal of ashes as an incentive for the priests to rise before dawn (Rabbeinu Ḥananel).
+
+**5.**
+*Hebrew/Aramaic:* לְמֵימְרָא דַּעֲבוֹדָה תַּמָּה וְזָר חַיָּיב עָלֶיהָ מִיתָה — בָּעֲיָא פַּיִיס, אֵין זָר חַיָּיב עָלֶיהָ מִיתָה — לָא בָּעֲיָא פַּיִיס? וַהֲרֵי שְׁחִיטָה! שָׁאנֵי שְׁחִיטָה, דִּתְחִילַּת עֲבוֹדָה דִימָמָא הִיא.
+*Translation:* Based on Rava’s comments, the Gemara asks: **Is that to say that** any service that is **a complete service and** for which **a non-priest** would be **liable** to receive **the death penalty requires a lottery,** but if **a non-priest** would **not** be **liable** to receive **the death penalty it would not require a lottery? But isn’t there slaughtering,** which may be performed by non-priest and yet requires a lottery? The Gemara rejects this point: **Slaughtering is different,** because **it is the beginning of the daytime service,** which gives it added importance.
+
+**6.**
+*Hebrew/Aramaic:* לְמֵימְרָא דַּעֲבוֹדָה תַּמָּה — בָּעֲיָא פַּיִיס, עֲבוֹדָה שֶׁיֵּשׁ אַחֲרֶיהָ עֲבוֹדָה — לָא בָּעֲיָא פַּיִיס? וַהֲרֵי אֵבָרִים וּפְדָרִים! סוֹף עֲבוֹדָה דִימָמָא הִיא. הֲרֵי תְּרוּמַת הַדֶּשֶׁן? מִשּׁוּם מַעֲשֶׂה שֶׁהָיָה.
+*Translation:* The Gemara asks further on Rava’s statement: **Is that to say that a service that is complete requires a lottery,** whereas **a service which is followed by a** subsequent **service** that completes it **does not require a lottery? But isn’t there** the burning of **the limbs and the fats?** The Gemara answers: That is not difficult because the burning of the limbs and the fats **is the end of the daytime service.** The Gemara asks: **Isn’t there the removal of the ashes?** The Gemara answers: A lottery was established for that service only **due to the incident that occurred** when the priests came to danger.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר מָר זוּטְרָא וְאִיתֵּימָא רַב אָשֵׁי: אַף אֲנַן נָמֵי תְּנֵינָא: אָמַר לָהֶם הַמְמוּנֶּה צְאוּ וּרְאוּ אִם הִגִּיעַ זְמַן הַשְּׁחִיטָה. וְאִילּוּ ״זְמַן סִידּוּר גְּזִירֵי עֵצִים״ לָא קָתָנֵי.
+*Translation:* As explained above, the reason Rabbi Yoḥanan holds that the arrangement of the logs is a complete service, and is not considered a prelude to the burning of limbs, is because the former is a nighttime service and the latter is a daytime service. **Mar Zutra, and some say Rav Ashi, said: We too have learned** in a mishna that the arrangement of the two logs is a nighttime service. As we learned: **The appointed** priest **said to them: Go out and see if the time for slaughtering has arrived, whereas** the mishna **did not teach:** See whether **the time for arranging the two logs** has arrived. This shows that arranging the logs may be done while it is still night; it is therefore not considered to be connected to, and complemented by, the placing of the limbs the following day.
+
+**8.**
+*Hebrew/Aramaic:* הָךְ דְּלֵית לַהּ תַּקַּנְתָּא — קָתָנֵי, הָךְ דְּאִית לַהּ תַּקַּנְתָּא — לָא קָתָנֵי.
+*Translation:* The Gemara rejects this proof: The reason the mishna mentions slaughtering is that it prefers to **teach** this statement with regard to **that which has no rectification** if it is done at night, such as slaughtering the offering, which is rendered irreparably invalid if performed before daybreak. **It does not** want to **teach** it with regard to **something that has rectification** if done at night, such as arranging the two logs, which can always be removed and replaced properly. However, it is possible that the proper time for arranging the logs is daytime, and therefore it may be regarded as a service that is completed by the subsequent burning of limbs on the altar.
+
+**9.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ בָּרִאשׁוֹנָה
+*Translation:* 
+
+**10.**
+*Hebrew/Aramaic:* אָמַר לָהֶם הַמְמוּנֶּה: צְאוּ וּרְאוּ אִם הִגִּיעַ זְמַן הַשְּׁחִיטָה. אִם הִגִּיעַ, הָרוֹאֶה אוֹמֵר: ״בַּרְקַאי״. מַתְיָא בֶּן שְׁמוּאֵל אוֹמֵר: ״הֵאִיר פְּנֵי כׇּל הַמִּזְרָח עַד שֶׁבְּחֶבְרוֹן?״ וְהוּא אוֹמֵר: ״הֵן!״ וְלָמָּה הוּצְרְכוּ לְכָךְ? שֶׁפַּעַם אַחַת עָלָה מְאוֹר הַלְּבָנָה, וְדִימּוּ שֶׁהֵאִיר מִזְרָח, וְשָׁחֲטוּ אֶת הַתָּמִיד, וְהוֹצִיאוּהוּ לְבֵית הַשְּׂרֵיפָה.
+*Translation:* MISHNA: **The appointed** priest **said to** the other priests: **Go out and observe if** it is day and **the time for slaughter** has **arrived. If** the time has **arrived, the observer says: There is light [*barkai*]. Matya ben Shmuel says** that the appointed priest phrased his question differently: **Is the entire eastern sky illuminated even to Hebron? And** the observer **says: Yes. And why did they need to** ascertain whether or not it is day, which is typically evident to all? It was necessary, **as once, the light of the moon rose, and they imagined that the eastern** sky **was illuminated** with sunlight, **and they slaughtered the daily offering** before its appropriate time. The animal was later **taken out to the place** designated for **burning** and burned because it was slaughtered too early. In order to prevent similar errors in the future, the Sages instituted that they would carefully assess the situation until they were certain that it was day.
+
+**11.**
+*Hebrew/Aramaic:* הוֹרִידוּ כֹּהֵן גָּדוֹל לְבֵית הַטְּבִילָה. זֶה הַכְּלָל הָיָה בַּמִּקְדָּשׁ: כָּל הַמֵּיסֵךְ אֶת רַגְלָיו — טָעוּן טְבִילָה, וְכׇל הַמֵּטִיל מַיִם — טָעוּן קִידּוּשׁ יָדַיִם וְרַגְלַיִם.
+*Translation:* After the priests announced the start of the day, **they led the High Priest down to the Hall of Immersion.** The Gemara comments: **This was the principle in the Temple: Anyone who covers his legs,** a euphemism for defecating, **requires immersion** afterward; **and anyone who urinates requires sanctification of the hands and feet** with water from the basin afterward.

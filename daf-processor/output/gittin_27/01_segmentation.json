@@ -1,0 +1,505 @@
+{
+  "masechta": "Gittin",
+  "daf": 27,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "The Mishnah on a Lost Get: Immediate vs. Delayed Recovery",
+      "display_title": "Lost Get",
+      "timestamp": "00:05",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishnah: Hamavi Get Ve-Avda Heimenu",
+          "display_title": "Mishnah Intro",
+          "timestamp": "00:05"
+        },
+        {
+          "title": "Recovery conditions: Immediate recovery is valid; delayed recovery is invalid",
+          "display_title": "Valid & Invalid",
+          "timestamp": "00:10"
+        },
+        {
+          "title": "Exception: Recovery with recognition markers (purse, wallet, physical identifiers)",
+          "display_title": "Recognition Markers",
+          "timestamp": "00:48"
+        }
+      ]
+    },
+    {
+      "title": "Reconciling Our Mishnah with Bava Metzia: Documents That Cannot Be Returned",
+      "display_title": "Bava Metzia Cases",
+      "timestamp": "00:55",
+      "micro_segments": [
+        {
+          "title": "Gemara's challenge: documents found cannot be returned to either party",
+          "display_title": "No Return Rule",
+          "timestamp": "00:55"
+        },
+        {
+          "title": "Exception when the original writer says to give it: removes doubt about delivery",
+          "display_title": "Writer's Approval",
+          "timestamp": "03:15"
+        },
+        {
+          "title": "Apparent contradiction: Bava Metzia concerns only ownership, not document identity",
+          "display_title": "Document Identity",
+          "timestamp": "04:05"
+        }
+      ]
+    },
+    {
+      "title": "Rava's Resolution: High Traffic Areas vs. Non-Traffic Areas",
+      "display_title": "Rava's Resolution",
+      "timestamp": "04:29",
+      "micro_segments": [
+        {
+          "title": "Rava's explanation: concern about different documents only in high-traffic areas",
+          "display_title": "High Traffic Concern",
+          "timestamp": "04:29"
+        },
+        {
+          "title": "Further limitation: high traffic alone insufficient; requires known duplicate couples",
+          "display_title": "Duplicate Couples",
+          "timestamp": "05:40"
+        },
+        {
+          "title": "Rava's case of Get found at place of flax: lenient ruling despite high traffic",
+          "display_title": "Flax Marketplace Case",
+          "timestamp": "12:40"
+        }
+      ]
+    },
+    {
+      "title": "Rav Zeira's Alternative: Contrasting Mishnah with Baraita",
+      "display_title": "Rav Zeira's View",
+      "timestamp": "14:47",
+      "micro_segments": [
+        {
+          "title": "Rav Zeira compares our Mishnah with a Baraita in Bava Metzia on the same issue",
+          "display_title": "Mishnah vs Baraita",
+          "timestamp": "14:47"
+        },
+        {
+          "title": "Baraita's explicit ruling: return the Get when the husband agrees, even after long delay",
+          "display_title": "Husband Agreement",
+          "timestamp": "15:06"
+        },
+        {
+          "title": "Why Rav Zeira chose Baraita: implicit language in Mishnah leaves ambiguity",
+          "display_title": "Implicit Language",
+          "timestamp": "18:06"
+        }
+      ]
+    },
+    {
+      "title": "Stricter Approaches: Rabbi Yirmiya and Rav Ashi on Document Identity Concerns",
+      "display_title": "Stricter Approaches",
+      "timestamp": "20:07",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yirmiya: return is only valid if witnesses testify they never signed another such Get",
+          "display_title": "Witness Testimony",
+          "timestamp": "20:07"
+        },
+        {
+          "title": "Gemara's objection: witnesses themselves could have the same names by coincidence",
+          "display_title": "Same-Name Witnesses",
+          "timestamp": "20:51"
+        },
+        {
+          "title": "Rav Ashi: return valid only with precise siman muvhak (absolute identifier mark)",
+          "display_title": "Siman Muvhak",
+          "timestamp": "21:27"
+        },
+        {
+          "title": "Distinction between siman muvhak (absolute) and regular siman (insufficient for Get)",
+          "display_title": "Siman Types",
+          "timestamp": "22:07"
+        }
+      ]
+    },
+    {
+      "title": "Case of Rabbah Bar Bar Channah: Siman vs. Tvi'at Eina for Document Return",
+      "display_title": "Siman vs Recognition",
+      "timestamp": "25:17",
+      "micro_segments": [
+        {
+          "title": "Rabbah Bar Bar Channah lost a Get and offered either siman or tvi'at eina (personal recognition)",
+          "display_title": "Two Options",
+          "timestamp": "25:17"
+        },
+        {
+          "title": "Uncertainty: unclear whether Get was returned based on siman or tvi'at eina",
+          "display_title": "Uncertain Grounds",
+          "timestamp": "26:31"
+        },
+        {
+          "title": "Legal implication: tvi'at eina restricted to Torah scholars; siman validity depends on Torah/Rabbinic status",
+          "display_title": "Torah Scholars Only",
+          "timestamp": "26:55"
+        }
+      ]
+    },
+    {
+      "title": "Measures of Non-Immediacy: How Long Can You Wait and Still Identify a Get?",
+      "display_title": "Immediacy Measures",
+      "timestamp": "28:12",
+      "micro_segments": [
+        {
+          "title": "Rabbi Natan: not immediate is duration for a caravan to pass and tarry",
+          "display_title": "Caravan Duration",
+          "timestamp": "28:12"
+        },
+        {
+          "title": "Rabbi Shimon ben Eleazar: someone must stand and witness no one passed",
+          "display_title": "Witness Requirement",
+          "timestamp": "28:47"
+        },
+        {
+          "title": "Other views: tarrying (not just passing) marks non-immediacy",
+          "display_title": "Tarrying Standard",
+          "timestamp": "29:14"
+        },
+        {
+          "title": "Rabbi's view: time to write a Get; Rabbi Yitzchak: time to read it",
+          "display_title": "Writing/Reading Time",
+          "timestamp": "29:27"
+        }
+      ]
+    },
+    {
+      "title": "Simanim (Identifying Marks) and Physical Evidence for Document Recovery",
+      "display_title": "Simanim Evidence",
+      "timestamp": "30:08",
+      "micro_segments": [
+        {
+          "title": "If Get has simanim (identifying marks), they testify in its favor even after long delay",
+          "display_title": "Marks Testify",
+          "timestamp": "30:08"
+        },
+        {
+          "title": "Example of siman muvhak: hole beside a particular letter",
+          "display_title": "Hole Mark",
+          "timestamp": "30:32"
+        },
+        {
+          "title": "Physical characteristics of document (size, parchment color) are insufficient simanim",
+          "display_title": "Insufficient Marks",
+          "timestamp": "30:57"
+        }
+      ]
+    },
+    {
+      "title": "Practical Rule on Non-Immediacy and Its Accepted Standard",
+      "display_title": "Accepted Standard",
+      "timestamp": "31:51",
+      "micro_segments": [
+        {
+          "title": "Rav Yehuda in name of Shmuel: not immediate when someone actually tarries",
+          "display_title": "Tarrying Rule",
+          "timestamp": "31:51"
+        },
+        {
+          "title": "Rabbah bar bar Chana in name of Rav Yitzchak: stricter—no one may even pass by",
+          "display_title": "No Passerby",
+          "timestamp": "32:01"
+        }
+      ]
+    },
+    {
+      "title": "Concluding Definitions: Chafisa (Flask) and Deluskama (Elderly Person's Purse)",
+      "display_title": "Wallet Definitions",
+      "timestamp": "32:31",
+      "micro_segments": [
+        {
+          "title": "Chafisa explained as a small flask",
+          "display_title": "Chafisa",
+          "timestamp": "32:31"
+        },
+        {
+          "title": "Deluskama explained as a purse used by elderly people",
+          "display_title": "Deluskama",
+          "timestamp": "32:38"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Hamavi get ve-avda heimenu (one who brings a Get and loses it)",
+      "timestamps": [
+        "00:05",
+        "00:08",
+        "00:10"
+      ]
+    },
+    {
+      "term": "Shaliach (messenger/agent)",
+      "timestamps": [
+        "00:08",
+        "05:01",
+        "08:00",
+        "12:52",
+        "17:06",
+        "21:59",
+        "24:24"
+      ]
+    },
+    {
+      "term": "Get (bill of divorce)",
+      "timestamps": [
+        "00:08",
+        "00:12",
+        "01:04",
+        "01:25",
+        "01:30",
+        "02:41",
+        "03:08"
+      ]
+    },
+    {
+      "term": "Kasher/Pasul (valid/invalid)",
+      "timestamps": [
+        "00:12",
+        "00:19",
+        "00:53",
+        "01:04",
+        "15:08"
+      ]
+    },
+    {
+      "term": "Matzo le-altar (found immediately)",
+      "timestamps": [
+        "00:10",
+        "00:12",
+        "04:02",
+        "28:04"
+      ]
+    },
+    {
+      "term": "Chafisa, deluskama (purse, wallet)",
+      "timestamps": [
+        "00:48",
+        "01:01",
+        "30:22",
+        "31:32",
+        "32:31",
+        "32:38"
+      ]
+    },
+    {
+      "term": "Simanim (identifying marks)",
+      "timestamps": [
+        "01:04",
+        "22:07",
+        "22:11",
+        "23:14",
+        "23:25",
+        "23:39",
+        "23:48",
+        "24:39",
+        "30:08",
+        "30:32",
+        "30:57"
+      ]
+    },
+    {
+      "term": "Siman muvhak (absolute identifier)",
+      "timestamps": [
+        "22:18",
+        "22:36",
+        "24:05",
+        "24:24",
+        "31:16"
+      ]
+    },
+    {
+      "term": "Bava Metzia (parallel discussion on found documents)",
+      "timestamps": [
+        "02:22",
+        "04:14",
+        "08:49",
+        "09:01",
+        "09:16",
+        "09:33",
+        "10:12",
+        "15:22",
+        "15:42",
+        "15:56",
+        "19:02"
+      ]
+    },
+    {
+      "term": "Beis din (court, holds disputed documents)",
+      "timestamps": [
+        "02:36",
+        "02:39",
+        "03:08",
+        "03:11",
+        "07:08"
+      ]
+    },
+    {
+      "term": "Mimah nafshach (either way, it's the same)",
+      "timestamps": [
+        "03:26"
+      ]
+    },
+    {
+      "term": "Shayarot metzuyot (caravans, high traffic)",
+      "timestamps": [
+        "04:35",
+        "04:40",
+        "05:08",
+        "05:30",
+        "05:39",
+        "09:44",
+        "09:49",
+        "09:51"
+      ]
+    },
+    {
+      "term": "Rava's resolution (high traffic + known duplicate couples)",
+      "timestamps": [
+        "04:29",
+        "05:39",
+        "10:38",
+        "11:02",
+        "11:16",
+        "12:06"
+      ]
+    },
+    {
+      "term": "Rav Huna's case (Get found in Beis Din)",
+      "timestamps": [
+        "07:08",
+        "07:10",
+        "09:44",
+        "09:49"
+      ]
+    },
+    {
+      "term": "Rav Zeira (alternative approach via Baraita)",
+      "timestamps": [
+        "14:47",
+        "15:01",
+        "15:22",
+        "15:42",
+        "16:32",
+        "16:39",
+        "16:55",
+        "17:34",
+        "19:31"
+      ]
+    },
+    {
+      "term": "Baraita (Tannaitic source alternative to Mishnah)",
+      "timestamps": [
+        "15:01",
+        "15:22",
+        "15:42",
+        "15:56"
+      ]
+    },
+    {
+      "term": "Rabbi Yirmiya (stricter: witnesses must verify uniqueness)",
+      "timestamps": [
+        "20:07",
+        "20:11",
+        "21:14",
+        "21:18"
+      ]
+    },
+    {
+      "term": "Rav Ashi (requires siman muvhak for Get return)",
+      "timestamps": [
+        "21:27",
+        "21:35",
+        "21:52",
+        "22:07",
+        "22:18",
+        "24:22"
+      ]
+    },
+    {
+      "term": "Rabbah Bar Bar Channah (case of Get with siman/tvi'at eina options)",
+      "timestamps": [
+        "25:17",
+        "26:31",
+        "26:55"
+      ]
+    },
+    {
+      "term": "Tvi'at eina (personal recognition/impression of the eye)",
+      "timestamps": [
+        "25:41",
+        "26:49",
+        "26:55",
+        "27:02"
+      ]
+    },
+    {
+      "term": "Talmid Chacham (Torah scholar, trusted for tvi'at eina)",
+      "timestamps": [
+        "26:02",
+        "26:06",
+        "26:09",
+        "26:57",
+        "32:58"
+      ]
+    },
+    {
+      "term": "Simanim d'oraita or d'rabbanan (Torah vs. Rabbinic status of identifying marks)",
+      "timestamps": [
+        "23:51",
+        "24:02",
+        "24:14"
+      ]
+    },
+    {
+      "term": "She-lo l'altar (not immediately)",
+      "timestamps": [
+        "28:12",
+        "28:15"
+      ]
+    },
+    {
+      "term": "Caravan passage and tarrying as measure of time",
+      "timestamps": [
+        "28:18",
+        "28:47",
+        "29:14"
+      ]
+    },
+    {
+      "term": "Rabbi Natan (caravan duration standard)",
+      "timestamps": [
+        "28:15"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon ben Eleazar (witness standing requirement)",
+      "timestamps": [
+        "28:47"
+      ]
+    },
+    {
+      "term": "Rabbi Yitzchak (reading time standard)",
+      "timestamps": [
+        "29:50"
+      ]
+    },
+    {
+      "term": "Rav Yehuda citing Shmuel (tarrying non-immediacy rule)",
+      "timestamps": [
+        "31:51"
+      ]
+    },
+    {
+      "term": "Rabbah bar bar Chana citing Rav Yitzchak (no passerby rule)",
+      "timestamps": [
+        "32:01"
+      ]
+    }
+  ]
+}

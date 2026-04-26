@@ -1,0 +1,417 @@
+{
+  "masechta": "Nedarim",
+  "daf": 11,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "Introduction to Kinnuyim: Indirect References to Korban",
+      "display_title": "Kinnuyim Framework",
+      "timestamp": "00:24",
+      "micro_segments": [
+        {
+          "title": "Definition and examples of kinnuyim as substitute terminology",
+          "display_title": "Kinnuyim Definition",
+          "timestamp": "00:24"
+        },
+        {
+          "title": "The mishna's list: non-chulin, tamei, notar, pigul as korban references",
+          "display_title": "Mishna Categories",
+          "timestamp": "02:08"
+        },
+        {
+          "title": "Objects associated with the altar: sheep, pens, wood, fire, mizbeach, heichal, Yerushalayim",
+          "display_title": "Altar Associations",
+          "timestamp": "02:46"
+        },
+        {
+          "title": "Rabbi Yehudah's distinction: Yerushalayim alone versus ki-Yerushalayim",
+          "display_title": "Yerushalayim Debate",
+          "timestamp": "03:31"
+        }
+      ]
+    },
+    {
+      "title": "The Gemara's Initial Assumption: Miklal Lav and Rabbi Meir's Logical Framework",
+      "display_title": "Miklal Lav Analysis",
+      "timestamp": "04:08",
+      "micro_segments": [
+        {
+          "title": "The Gemara assumes la-chulin means korban via miklal lav ata shomea hen",
+          "display_title": "Miklal Lav Assumption",
+          "timestamp": "04:08"
+        },
+        {
+          "title": "Rabbi Meir's principle: cannot infer the opposite without explicit statement",
+          "display_title": "Rabbi Meir Principle",
+          "timestamp": "04:31"
+        },
+        {
+          "title": "The example of Bnei Gad and Bnei Reuven: why both sides must be stated",
+          "display_title": "Bnei Gad Example",
+          "timestamp": "04:49"
+        },
+        {
+          "title": "Two interpretations of Rabbi Meir: speech acts versus logical necessity",
+          "display_title": "Rabbi Meir Logic",
+          "timestamp": "05:26"
+        },
+        {
+          "title": "Propositional logic: if P then Q does not entail if not P then not Q",
+          "display_title": "Propositional Logic",
+          "timestamp": "07:35"
+        }
+      ]
+    },
+    {
+      "title": "Identifying the Mishnah's Author and the Distinction Between Yad and Kinnuy",
+      "display_title": "Yad vs. Kinnuy",
+      "timestamp": "10:15",
+      "micro_segments": [
+        {
+          "title": "The Gemara initially suggests the mishnah follows Rabbi Meir",
+          "display_title": "Mishnah Attribution",
+          "timestamp": "10:15"
+        },
+        {
+          "title": "Tosafot Rid's critique: la-chulin is definitional, not inferential",
+          "display_title": "Tosafot Rid Position",
+          "timestamp": "10:40"
+        },
+        {
+          "title": "Yad versus kinnuy: filling blanks versus interpreting words",
+          "display_title": "Yad Kinnuy Distinction",
+          "timestamp": "14:14"
+        },
+        {
+          "title": "Ran's theory: tamei, notar, pigul foreground issur status; require no ki",
+          "display_title": "Ran's Categories",
+          "timestamp": "18:41"
+        },
+        {
+          "title": "Objects like mizbeach, Yerushalayim need ki to create meaningful comparison",
+          "display_title": "Ki Necessity",
+          "timestamp": "19:04"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yehudah's Position: Ki Yerushalayim versus Yerushalayim Alone",
+      "display_title": "Ki Yerushalayim",
+      "timestamp": "20:22",
+      "micro_segments": [
+        {
+          "title": "Gemara reasserts: entire mishnah is Rabbi Yehudah's position",
+          "display_title": "Mishnah Attribution",
+          "timestamp": "20:22"
+        },
+        {
+          "title": "Rabbi Yehudah makes distinction: ki-Yerushalayim works, Yerushalayim alone does not",
+          "display_title": "Yerushalayim Distinction",
+          "timestamp": "20:30"
+        },
+        {
+          "title": "Yerushalayim too broad: includes Knesset, museums, Biblical Zoo",
+          "display_title": "Yerushalayim Scope",
+          "timestamp": "20:47"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yehudah's Position: Ki Yerushalayim versus Yerushalayim Alone (continued)",
+      "display_title": "Ki Yerushalayim…",
+      "timestamp": "22:27",
+      "micro_segments": [
+        {
+          "title": "Braita introduces stricter view: even ki-Yerushalayim requires explicit korban reference",
+          "display_title": "Braita Strictness",
+          "timestamp": "22:27"
+        }
+      ]
+    },
+    {
+      "title": "La-Chulin, Le-Korban, and the Question of Conditional Statements",
+      "display_title": "Conditional Phrasing",
+      "timestamp": "22:27",
+      "micro_segments": [
+        {
+          "title": "Braita: chulin, ha-chulin, ka-chulin are all non-binding",
+          "display_title": "Permissible Formulas",
+          "timestamp": "22:27"
+        },
+        {
+          "title": "La-chulin she-ochal lach: forbidden because la-chulin means korban",
+          "display_title": "Forbidden Formula",
+          "timestamp": "23:50"
+        },
+        {
+          "title": "Tosafot Rid rejects miklal lav here: la-chulin is definitional synonym",
+          "display_title": "Tosafot Rid Reversal",
+          "timestamp": "24:17"
+        },
+        {
+          "title": "Gemara distinguishes between conditional propositions and direct naming",
+          "display_title": "Conditional vs. Direct",
+          "timestamp": "25:02"
+        },
+        {
+          "title": "La-chulin lo ochal lach: permitted because non-eating is abstract",
+          "display_title": "Permitted Formula",
+          "timestamp": "28:10"
+        }
+      ]
+    },
+    {
+      "title": "Le-Korban Lo Ochal Lach and the Reinterpretation Strategy",
+      "display_title": "Le-Korban Strategy",
+      "timestamp": "32:39",
+      "micro_segments": [
+        {
+          "title": "Gemara introduces later mishna: le-korban lo ochal lach is forbidden for Rabbi Meir",
+          "display_title": "Le-Korban Mishna",
+          "timestamp": "32:39"
+        },
+        {
+          "title": "Rav Abba's solution: read le-korban as lekorban—making the thing itself a korban",
+          "display_title": "Rav Abba Reinterpretation",
+          "timestamp": "34:37"
+        },
+        {
+          "title": "Gemara asks: if la-chulin means korban, why not apply same logic?",
+          "display_title": "Parallel Question",
+          "timestamp": "35:39"
+        },
+        {
+          "title": "This braita author holds Rabbi Meir's position but not the chopping strategy",
+          "display_title": "Braita Author Position",
+          "timestamp": "36:46"
+        },
+        {
+          "title": "Answer: la-chulin lo ochal lach refers to abstract non-eating concept",
+          "display_title": "Abstract Concept",
+          "timestamp": "38:50"
+        }
+      ]
+    },
+    {
+      "title": "She-Ani vs. She-Eini Ochal Lach: Objects versus Actions in Neder Language",
+      "display_title": "She-Ani Debate",
+      "timestamp": "39:21",
+      "micro_segments": [
+        {
+          "title": "Computer and car example: cannot make arbitrary non-foods forbidden",
+          "display_title": "Scope Examples",
+          "timestamp": "39:21"
+        },
+        {
+          "title": "Konam she-ani ochal lach: the food is prohibited, therefore I won't eat",
+          "display_title": "She-Ani Formula",
+          "timestamp": "40:08"
+        },
+        {
+          "title": "Lashon neder requires focusing on the object, not the speaker's action",
+          "display_title": "Object Focus",
+          "timestamp": "41:05"
+        },
+        {
+          "title": "Dispute: is she-eini ochal lach binding or does it reference action rather than object?",
+          "display_title": "She-Eini Question",
+          "timestamp": "42:19"
+        }
+      ]
+    },
+    {
+      "title": "Tahor, Tamei, Notar, Pigul: Korban Statuses in New Context",
+      "display_title": "Korban Statuses",
+      "timestamp": "48:58",
+      "micro_segments": [
+        {
+          "title": "New section begins: tahor, tamei, notar, pigul asur",
+          "display_title": "Status List",
+          "timestamp": "48:58"
+        },
+        {
+          "title": "Question: what if bread is declared like shelamim meat after blood-throwing?",
+          "display_title": "Shelamim Analogy",
+          "timestamp": "49:13"
+        },
+        {
+          "title": "If meat is explicitly in its permitted state, different status applies",
+          "display_title": "Permitted State",
+          "timestamp": "49:33"
+        },
+        {
+          "title": "Gemara scenario: person eating shelamim holds it up; another declares bread like this meat",
+          "display_title": "Live Example",
+          "timestamp": "50:00"
+        },
+        {
+          "title": "Central question: be-ikaro ka-matpis or be-heiter ka-matpis—original vs. current status",
+          "display_title": "Status Identity",
+          "timestamp": "50:15"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Kinnuyim (substitute terminology)",
+      "timestamps": [
+        "00:24",
+        "02:08",
+        "14:17",
+        "16:34",
+        "17:30"
+      ]
+    },
+    {
+      "term": "Miklal lav ata shomea hen (inferring opposites from statements)",
+      "timestamps": [
+        "04:14",
+        "05:15",
+        "08:40",
+        "10:40",
+        "12:16",
+        "23:47",
+        "30:09",
+        "31:03",
+        "33:47"
+      ]
+    },
+    {
+      "term": "Rabbi Meir vs. Sages (conditional logic dispute)",
+      "timestamps": [
+        "04:31",
+        "05:15",
+        "09:02",
+        "28:23",
+        "29:05",
+        "31:07",
+        "34:05",
+        "36:46"
+      ]
+    },
+    {
+      "term": "Lashon neder (language of vow)",
+      "timestamps": [
+        "15:30",
+        "17:14",
+        "41:05",
+        "45:50",
+        "46:02",
+        "47:10",
+        "51:38"
+      ]
+    },
+    {
+      "term": "Yad (filling in blanks)",
+      "timestamps": [
+        "14:17",
+        "14:48",
+        "14:57"
+      ]
+    },
+    {
+      "term": "Ki (comparative prefix necessity)",
+      "timestamps": [
+        "18:41",
+        "19:04",
+        "20:30",
+        "20:40",
+        "37:28"
+      ]
+    },
+    {
+      "term": "Be-ikaro vs. be-heiter (original versus current status)",
+      "timestamps": [
+        "50:15",
+        "50:19",
+        "50:29",
+        "51:48",
+        "52:37",
+        "52:47",
+        "52:50"
+      ]
+    },
+    {
+      "term": "Tosafot Rid (medieval commentary differentiating defintion from inference)",
+      "timestamps": [
+        "10:37",
+        "12:45",
+        "17:39",
+        "24:17",
+        "26:12",
+        "27:05"
+      ]
+    },
+    {
+      "term": "Matpis (grabbing onto a concept)",
+      "timestamps": [
+        "50:59",
+        "51:02",
+        "51:07",
+        "52:40"
+      ]
+    },
+    {
+      "term": "Davar ha-nadur (subject of a vow)",
+      "timestamps": [
+        "01:42",
+        "03:03",
+        "03:16",
+        "21:57",
+        "49:53",
+        "51:27",
+        "51:34"
+      ]
+    },
+    {
+      "term": "La-chulin (non-permitted status)",
+      "timestamps": [
+        "23:50",
+        "24:44",
+        "28:10",
+        "35:39",
+        "38:02",
+        "38:10"
+      ]
+    },
+    {
+      "term": "Le-korban (korban-equivalent language)",
+      "timestamps": [
+        "32:39",
+        "33:12",
+        "34:37",
+        "35:39",
+        "36:02"
+      ]
+    },
+    {
+      "term": "She-ani ochal lach vs. she-eini ochal lach",
+      "timestamps": [
+        "40:08",
+        "42:19",
+        "45:42",
+        "45:44",
+        "46:59",
+        "47:01"
+      ]
+    },
+    {
+      "term": "Bnei Gad and Bnei Reuven (scriptural precedent for explicit conditions)",
+      "timestamps": [
+        "04:49",
+        "09:57",
+        "10:02"
+      ]
+    },
+    {
+      "term": "Shelamim (peace offering meat after blood-throwing)",
+      "timestamps": [
+        "49:16",
+        "50:00",
+        "50:29",
+        "51:49"
+      ]
+    }
+  ]
+}

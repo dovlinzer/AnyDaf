@@ -1,0 +1,546 @@
+{
+  "masechta": "Bava Kamma",
+  "daf": 35,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "The Debate between Rabbi Yehuda and Rabbi Meir on Splitting the Live and Dead Animal",
+      "display_title": "Live/Dead Split",
+      "timestamp": "00:05",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishnah dispute on how to interpret the biblical verses about splitting the live and dead animal",
+          "display_title": "Mishnah Setup",
+          "timestamp": "00:05"
+        },
+        {
+          "title": "Rabbi Meir's interpretation: the dead animal is worth nothing, and only the depreciation due to death is split",
+          "display_title": "Rabbi Meir's View",
+          "timestamp": "00:14"
+        },
+        {
+          "title": "Rabbi Yehuda's interpretation: literally split both the live and dead animal, making the mazik a partial owner of the carcass",
+          "display_title": "Rabbi Yehuda's View",
+          "timestamp": "00:24"
+        },
+        {
+          "title": "The condition that makes Rabbi Yehuda's reading work: the animals must be of equal value",
+          "display_title": "Equal Value Requirement",
+          "timestamp": "00:27"
+        },
+        {
+          "title": "Rabbi Yehuda's position clarified: the mazik is a partial owner of the carcass only to benefit from appreciation, not to suffer from depreciation",
+          "display_title": "Mazik Ownership Scope",
+          "timestamp": "00:33"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yochanan's Resolution of the Debate: The Difference Lies in Appreciation of the Carcass",
+      "display_title": "Appreciation Theory",
+      "timestamp": "01:22",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yochanan introduces the principle that the dispute concerns only cases where the carcass increases in value",
+          "display_title": "Yochanan's Principle",
+          "timestamp": "01:22"
+        },
+        {
+          "title": "In depreciation cases, both agree the nizak (injured party) suffers the loss",
+          "display_title": "Depreciation Agreement",
+          "timestamp": "01:41"
+        },
+        {
+          "title": "In appreciation cases, Rabbi Meir holds the nizak retains all appreciation, while Rabbi Yehuda holds the mazik gains half of the appreciation",
+          "display_title": "Appreciation Dispute",
+          "timestamp": "01:54"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yehuda's Logical Problem: The Scenario of Unequal-Valued Animals",
+      "display_title": "Unequal Value Problem",
+      "timestamp": "02:17",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yehuda raises the problem: if the Torah shows compassion on the mazik by letting him gain from carcass appreciation, why can't this apply to unequal-valued animals?",
+          "display_title": "Compassion Question",
+          "timestamp": "02:17"
+        },
+        {
+          "title": "The case: a 20-shekel ox gores a 100-shekel ox; the carcass depreciates to 50 shekels",
+          "display_title": "Unequal Case Setup",
+          "timestamp": "02:51"
+        },
+        {
+          "title": "If split literally per the verses: mazik takes 35 shekels (10 from live, 25 from dead) and walks away with a profit from an ox originally worth 20",
+          "display_title": "Profit Problem",
+          "timestamp": "03:39"
+        },
+        {
+          "title": "The absurdity: the mazik would gain rather than pay damages, contradicting the principle that the damager should not profit",
+          "display_title": "Absurdity Stated",
+          "timestamp": "04:34"
+        },
+        {
+          "title": "The verse states the damager pays and does not take, excluding the possibility of profit",
+          "display_title": "Exclusionary Verse",
+          "timestamp": "04:47"
+        }
+      ]
+    },
+    {
+      "title": "Resolution: The Verses Apply Only When Animals Are of Equal Value",
+      "display_title": "Equal Value Only",
+      "timestamp": "05:39",
+      "micro_segments": [
+        {
+          "title": "The gemara clarifies that the prohibition on mazik profit applies when the nizak would clearly lose money",
+          "display_title": "Loss Prohibition",
+          "timestamp": "05:39"
+        },
+        {
+          "title": "The case where both animals start at 20 shekels but the carcass appreciates to 30 shekels: both parties gain, though the nizak gains less than if the animal had not been gored",
+          "display_title": "Mutual Gain Case",
+          "timestamp": "06:14"
+        },
+        {
+          "title": "Even in the mutual gain case, the Torah does not permit the mazik to own the carcass outright, only to offset his payment obligation through appreciation",
+          "display_title": "Offset Principle",
+          "timestamp": "07:26"
+        },
+        {
+          "title": "The fundamental agreement: all parties acknowledge that when animals differ in value, the mazik pays only half the depreciation from live to dead, not a literal split of both animals",
+          "display_title": "Fundamental Agreement",
+          "timestamp": "13:54"
+        }
+      ]
+    },
+    {
+      "title": "Cases Where One Party Is Liable for Payment and the Other Is Exempt",
+      "display_title": "Payment/Exemption Cases",
+      "timestamp": "18:30",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishnah distinguishing when an ox's action creates liability but a human's action creates exemption, and vice versa",
+          "display_title": "Mishnah Cases",
+          "timestamp": "18:30"
+        },
+        {
+          "title": "Case 1: If an ox causes embarrassment, the owner is exempt; if a human causes embarrassment, they are liable",
+          "display_title": "Embarrassment Case",
+          "timestamp": "18:53"
+        },
+        {
+          "title": "Case 2: If an ox knocks out the eye or tooth of a slave, the owner is exempt; if a human does so, the slave goes free",
+          "display_title": "Eye/Tooth Case",
+          "timestamp": "19:25"
+        },
+        {
+          "title": "Case 3: If an ox injures the owner's parent, the owner is liable; if the owner injures the parent, the owner is exempt because they are liable for execution",
+          "display_title": "Parent Injury Case",
+          "timestamp": "19:51"
+        },
+        {
+          "title": "Case 4: If an ox sets fire to a haystack on Shabbat, the owner is liable; if a human does so, the owner is exempt because they violated Shabbat, a capital crime",
+          "display_title": "Shabbat Fire Case",
+          "timestamp": "20:35"
+        }
+      ]
+    },
+    {
+      "title": "The Principle of Kimlei: Capital Crimes Override Monetary Liability",
+      "display_title": "Kimlei Principle",
+      "timestamp": "21:12",
+      "micro_segments": [
+        {
+          "title": "Rabbi Abbahu's teaching: all destructive acts on Shabbat incur no liability, except wounding and fire, which do incur liability",
+          "display_title": "Abbahu's Teaching",
+          "timestamp": "21:12"
+        },
+        {
+          "title": "Rabbi Yochanan rejects Abbahu's teaching and insists that even wounding and fire incur no liability unless there is constructive intent",
+          "display_title": "Yochanan's Rejection",
+          "timestamp": "22:23"
+        },
+        {
+          "title": "Debate: whether constructive intent (like needing the ashes) is required, or whether the physical act of wounding/fire suffices to define Shabbat violation",
+          "display_title": "Intent Debate",
+          "timestamp": "22:51"
+        },
+        {
+          "title": "Example of a clever ox with a gum infection uncovering a barrel of mead to soothe its gums, illustrating that animals can have constructive intent",
+          "display_title": "Clever Ox Example",
+          "timestamp": "26:25"
+        },
+        {
+          "title": "Rava's resolution: the Mishnah refers to unintentional (shogeg) violation of Shabbat, and kimlei applies even without intentional violation",
+          "display_title": "Rava's Resolution",
+          "timestamp": "29:47"
+        },
+        {
+          "title": "Chizkiya's teaching: there is a distinction between acts deserving of capital punishment and acts deserving of monetary payment; capital crimes override all monetary liability",
+          "display_title": "Chizkiya Teaching",
+          "timestamp": "30:37"
+        },
+        {
+          "title": "The principle of kimlei when a capital crime is involved: even unintentional commission of a capital crime exempts from monetary liability",
+          "display_title": "Kimlei with Capital Crime",
+          "timestamp": "33:11"
+        },
+        {
+          "title": "Rashi vs. Tosafot debate: whether constructive intent is required to define an act as a capital crime for kimlei purposes",
+          "display_title": "Rashi/Tosafot Debate",
+          "timestamp": "36:51"
+        }
+      ]
+    },
+    {
+      "title": "The Burden of Proof Principle: Hamotzi Mechavero Alav Haraya",
+      "display_title": "Burden of Proof",
+      "timestamp": "43:22",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishnah cases involving ambiguity about which ox caused damage and who bears the burden of proof",
+          "display_title": "Ambiguity Cases",
+          "timestamp": "43:22"
+        },
+        {
+          "title": "Case 1: One ox runs after another; it is unclear if goring caused the injury or if the ox tripped on a rock; the claimant must prove the goring",
+          "display_title": "Single Pursuing Ox",
+          "timestamp": "43:40"
+        },
+        {
+          "title": "Case 2: Two oxes pursue one; it is unclear which one gored; both are exempt because neither can be proven liable",
+          "display_title": "Two Pursuing Oxes",
+          "timestamp": "44:34"
+        },
+        {
+          "title": "Case 3: Both oxes belong to one owner; both are liable because the claimant can prove one of the owner's oxes caused damage, even if the specific ox is unknown",
+          "display_title": "Single Owner Both Oxes",
+          "timestamp": "44:57"
+        },
+        {
+          "title": "Case 4: One large and one small ox; the claimant says the large one gored (to maximize recovery), defendant says the small one; burden of proof on claimant",
+          "display_title": "Large and Small Oxes",
+          "timestamp": "45:12"
+        },
+        {
+          "title": "Case 5: One ox is tam (innocent) and one is muad (forewarned); claimant says the muad gored (for full recovery), defendant says the tam; burden of proof on claimant",
+          "display_title": "Tam and Muad",
+          "timestamp": "46:47"
+        },
+        {
+          "title": "Cases 6-7: Multiple damages and multiple damagers in various combinations, all governed by hamotzi mechavero alav haraya",
+          "display_title": "Multiple Damages/Damagers",
+          "timestamp": "47:40"
+        }
+      ]
+    },
+    {
+      "title": "Gemara Debate: Does the Mishnah Allow Collection on the Defendant's Admitted Claim?",
+      "display_title": "Admitted Claim Debate",
+      "timestamp": "49:23",
+      "micro_segments": [
+        {
+          "title": "The Mishnah is understood as teaching against Sumchos, who holds that monetary doubts are split between parties",
+          "display_title": "Anti-Sumchos Position",
+          "timestamp": "49:23"
+        },
+        {
+          "title": "Sumchos would split even in cases of definite claims (bari v'bari) where both parties insist their version is true",
+          "display_title": "Sumchos Splits Even Bari",
+          "timestamp": "50:46"
+        },
+        {
+          "title": "Challenge: the Mishnah describes both parties making definite claims, so how does the claimant recover anything if he cannot prove his claim?",
+          "display_title": "Challenge to Recovery",
+          "timestamp": "52:35"
+        },
+        {
+          "title": "Rav Pappa's question: can the claimant at least recover based on the defendant's admitted lesser claim (like the wheat/barley case)?",
+          "display_title": "Lesser Claim Recovery",
+          "timestamp": "52:38"
+        },
+        {
+          "title": "Comparison case: I demand wheat, you admit only barley; I receive nothing because my definite claim for wheat implicitly rejects barley",
+          "display_title": "Wheat/Barley Analogy",
+          "timestamp": "53:51"
+        },
+        {
+          "title": "The question whether the Mishnah involves definite claims on both sides (bari v'bari) or definite claim versus uncertainty (bari v'shema)",
+          "display_title": "Bari v'Bari Question",
+          "timestamp": "56:01"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Rabbi Yehuda vs Rabbi Meir",
+      "timestamps": [
+        "00:07",
+        "00:24",
+        "01:38",
+        "02:08",
+        "02:17",
+        "13:54"
+      ]
+    },
+    {
+      "term": "Live and dead animal split",
+      "timestamps": [
+        "00:09",
+        "00:27",
+        "01:54",
+        "03:49"
+      ]
+    },
+    {
+      "term": "Mazik partial ownership of carcass",
+      "timestamps": [
+        "00:37",
+        "01:02",
+        "01:54",
+        "02:31"
+      ]
+    },
+    {
+      "term": "Appreciation of carcass value",
+      "timestamps": [
+        "01:05",
+        "01:54",
+        "02:00",
+        "07:40"
+      ]
+    },
+    {
+      "term": "Equal value requirement",
+      "timestamps": [
+        "00:27",
+        "01:03",
+        "03:08",
+        "06:19"
+      ]
+    },
+    {
+      "term": "Unequal-valued animals",
+      "timestamps": [
+        "02:51",
+        "03:17",
+        "06:01"
+      ]
+    },
+    {
+      "term": "Mazik profit prohibition",
+      "timestamps": [
+        "04:38",
+        "05:01"
+      ]
+    },
+    {
+      "term": "Depreciation due to death",
+      "timestamps": [
+        "00:20",
+        "01:41",
+        "14:01"
+      ]
+    },
+    {
+      "term": "Embarrassment (boshes)",
+      "display_title": "Boshes",
+      "timestamps": [
+        "18:57",
+        "28:32",
+        "28:35"
+      ]
+    },
+    {
+      "term": "Eye and tooth of slave",
+      "timestamps": [
+        "19:25"
+      ]
+    },
+    {
+      "term": "Injuring parents",
+      "timestamps": [
+        "19:51",
+        "20:14"
+      ]
+    },
+    {
+      "term": "Shabbat violation (chilul Shabbat)",
+      "display_title": "Chilul Shabbat",
+      "timestamps": [
+        "20:52",
+        "22:40",
+        "24:40",
+        "25:01",
+        "26:22"
+      ]
+    },
+    {
+      "term": "Fire on Shabbat",
+      "timestamps": [
+        "20:35",
+        "22:05"
+      ]
+    },
+    {
+      "term": "Destructive acts (mikalkel)",
+      "timestamps": [
+        "21:19",
+        "22:15",
+        "22:46"
+      ]
+    },
+    {
+      "term": "Constructive intent (constructive purpose)",
+      "timestamps": [
+        "22:57",
+        "25:29",
+        "35:51"
+      ]
+    },
+    {
+      "term": "Wounding and fire exception",
+      "timestamps": [
+        "21:45",
+        "22:15"
+      ]
+    },
+    {
+      "term": "Rabbi Abbahu's teaching",
+      "timestamps": [
+        "21:12"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan's rejection of Abbahu",
+      "timestamps": [
+        "22:23"
+      ]
+    },
+    {
+      "term": "Intentional (mezid) vs unintentional (shogeg)",
+      "timestamps": [
+        "30:07",
+        "29:47",
+        "31:09",
+        "35:05"
+      ]
+    },
+    {
+      "term": "Intentional (miskaven) vs unintentional",
+      "timestamps": [
+        "31:16"
+      ]
+    },
+    {
+      "term": "Rava's resolution on shogeg",
+      "timestamps": [
+        "29:47"
+      ]
+    },
+    {
+      "term": "Chizkiya teaching on capital crimes",
+      "timestamps": [
+        "30:32",
+        "30:37"
+      ]
+    },
+    {
+      "term": "Kimlei (capital crime overrides monetary liability)",
+      "display_title": "Kimlei",
+      "timestamps": [
+        "20:55",
+        "26:23",
+        "33:07",
+        "33:11",
+        "35:05"
+      ]
+    },
+    {
+      "term": "One punishment principle (rachminut)",
+      "timestamps": [
+        "33:26"
+      ]
+    },
+    {
+      "term": "Hamotzi mechavero alav haraya (burden of proof)",
+      "display_title": "Burden of Proof",
+      "timestamps": [
+        "43:33",
+        "44:03",
+        "45:34",
+        "49:37"
+      ]
+    },
+    {
+      "term": "Tripping on rock vs goring",
+      "timestamps": [
+        "43:55"
+      ]
+    },
+    {
+      "term": "Two oxes goring, unknown which",
+      "timestamps": [
+        "44:34"
+      ]
+    },
+    {
+      "term": "Both oxes of one owner",
+      "timestamps": [
+        "44:57"
+      ]
+    },
+    {
+      "term": "Large and small oxes",
+      "timestamps": [
+        "45:12",
+        "52:49"
+      ]
+    },
+    {
+      "term": "Tam (innocent ox) vs muad (forewarned ox)",
+      "display_title": "Tam vs Muad",
+      "timestamps": [
+        "46:47",
+        "52:52"
+      ]
+    },
+    {
+      "term": "Multiple damages and damagers",
+      "timestamps": [
+        "47:40"
+      ]
+    },
+    {
+      "term": "Sumchos splitting doubts",
+      "timestamps": [
+        "49:33",
+        "50:46"
+      ]
+    },
+    {
+      "term": "Definite claims (bari v'bari)",
+      "timestamps": [
+        "50:52",
+        "52:38",
+        "52:40"
+      ]
+    },
+    {
+      "term": "Wheat and barley analogy",
+      "timestamps": [
+        "53:51"
+      ]
+    },
+    {
+      "term": "Definite vs uncertain claim (bari v'shema)",
+      "timestamps": [
+        "56:01"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+# Sotah 5 — Daf Yomi Shiur
+
+## Bread & Prostitution
+
+### Bread without washing
+
+> **Hebrew/Aramaic:** דָּרֵשׁ רַב עַוִּירָא, זִמְנִין אָמַר לַהּ מִשְּׁמֵיהּ דְּרַבִּי אַמֵּי, וְזִמְנִין אָמַר לַהּ מִשְּׁמֵיהּ דְּרַבִּי אַסִּי: כׇּל הָאוֹכֵל לֶחֶם בְּלֹא נְטִילַת יָדַיִם — כְּאִילּוּ בָּא עַל אִשָּׁה זוֹנָה. שֶׁנֶּאֱמַר: ״כִּי בְעַד אִשָּׁה זוֹנָה עַד כִּכַּר לָחֶם״.
+>
+> **Translation:** § Having quoted an allusion from the verse: "For on account of a harlot a man is brought to a loaf of bread" (Proverbs 6:26), the Gemara offers another interpretation of that verse. **Rav Avira interpreted** a verse **homiletically;** there were **times he said** this interpretation **in the name of Rabbi Ami and** there were **times he said it in the name of Rabbi Asi:** Concerning **anyone who eats bread without washing** his **hands,** it is **as if** he **engaged in sexual intercourse with a prostitute, as it is stated: "For on account of a harlot a man is brought to a loaf of bread."**
+
+The *daf* continues from where we left off on 4b, where the *Gemara* had surveyed a range of opinions regarding the *shiur bi'ah* — the minimum duration of the act of intercourse — and one of those opinions had invoked a metaphor involving reaching a hand into a basket of loaves of bread, citing a *pasuk* in the process. The *Gemara* now builds upon that *pasuk*, offering a series of *drashot*.
+
+Rav Avira taught — sometimes transmitting the teaching in the name of Rav Ammi, and sometimes in the name of Rav Assi — that whoever eats bread without *netilat yadayim* is as if he had intercourse with a woman who is a prostitute (*zonah*), as it is stated (Mishlei 6:26): *ki be'ad ishah zonah ad kikar lachem* — "for on account of a woman who is a prostitute, a man is reduced to a loaf of bread." The homiletic connection is drawn between one's treatment of a loaf of bread and the domain of sexuality: just as eating can be invested with *kedushah* — through handwashing, blessings, and intentionality — or can be reduced to mere self-gratification, so too with sexuality. The eating of bread with *kedushah* parallels sexuality within marriage, while eating without proper preparation parallels the indulgence of appetite without sanctity.
+
+### Rava's reread
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: הַאי ״בְּעַד אִשָּׁה זוֹנָה עַד כִּכַּר לָחֶם״ — ״בְּעַד כִּכַּר לֶחֶם עַד אִשָּׁה זוֹנָה״ מִיבְּעֵי לֵיהּ! אֶלָּא אָמַר רָבָא: כׇּל הַבָּא עַל אִשָּׁה זוֹנָה, לְסוֹף מְבַקֵּשׁ כִּכַּר לָחֶם.
+>
+> **Translation:** **Rava said: This** phrase: **"For on account of a harlot a man is brought to a loaf of bread,"** is not how the verse would present this idea. **It should have** stated: **"On account of a loaf a man is brought to a harlot." Rather, Rava says** the verse should be interpreted as follows: **Anyone who engages in sexual intercourse with a harlot** will **eventually** be reduced to poverty and **beg** people for **a loaf of bread.**
+
+Rava, characteristically attentive to the precise wording of a *pasuk*, raises a grammatical objection to Rav Avira's reading. The verse opens with the *zonah* and concludes with the loaf of bread; if the intent were to compare the improper eating of bread to illicit relations, the verse should have been phrased in the reverse order. Rather, Rava reads the *pasuk* according to what is likely its *pshat*: *kol haba al ishah zonah lesof mevakesh kikar lachem* — whoever habitually consorts with a prostitute will in the end become impoverished and go begging for a loaf of bread. That is the natural and primary meaning of the verse.
+
+### Mayim rishonim/acharonim
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי זְרִיקָא אָמַר רַבִּי אֶלְעָזָר: כׇּל הַמְּזַלְזֵל בִּנְטִילַת יָדַיִם נֶעֱקָר מִן הָעוֹלָם. אָמַר רַב חִיָּיא בַּר אָשֵׁי אָמַר רַב: מַיִם רִאשׁוֹנִים — צָרִיךְ שֶׁיַּגְבִּיהַּ יָדָיו לְמַעְלָה, מַיִם אַחֲרוֹנִים — צָרִיךְ שֶׁיַּשְׁפִּיל יָדָיו לְמַטָּה. תַּנְיָא נָמֵי הָכִי: הַנּוֹטֵל יָדָיו — צָרִיךְ שֶׁיַּגְבִּיהַּ יָדָיו לְמַעְלָה, שֶׁמָּא יֵצְאוּ הַמַּיִם חוּץ לַפֶּרֶק, וְיַחְזְרוּ וִיטַמְּאוּ אֶת הַיָּדַיִם.
+>
+> **Translation:** The Gemara continues its discussion of washing hands. **Rabbi Zerika says** that **Rabbi Elazar says: Anyone who treats** the ritual of **washing hands with contempt is uprooted from the world. Rav Ḥiyya bar Ashi says** that **Rav says:** With regard to the **first water,** i.e., the water used when washing one's hands before a meal, one **must raise his hands upward** after washing. With regard to the **last water,** i.e., the water used when washing one's hands at the conclusion of the meal before reciting Grace after Meals, one **must lower his hands downward. This** distinction **is also taught** in a *baraita* (*Tosefta*, *Yadayim* 2:2): **One who washes his hands** before a meal **must raise his hands upward** after washing, **lest the water advance past the joint** onto the part of the hands that he was not required to wash, becoming impure, **and** then **return** to the area he had washed, **rendering** his **hands ritually impure.**
+
+Whatever the precise interpretation of the *pasuk*, the underlying concern with *netilat yadayim* generates further discussion. Rav Zreika in the name of Rabbi Elazar states that whoever treats *netilat yadayim* lightly — *hamizalzel binetilat yadayim* — will be uprooted from the world. This is a striking formulation.
+
+Rav Chiya bar Ashi in the name of Rav specifies the proper technique: for *mayim rishonim*, the first washing before eating bread, one must hold one's fingers upward; for *mayim acharonim*, the final washing after the meal, one must hold the fingers downward. A *baraita* confirms this: *hanotel yadav tzarich sheyagbi'ah yadav lemalah* — one who washes hands must raise them upward — lest the water flow below the wrist and then run back over the fingers, thereby rendering them *tamei* once again.
+
+The underlying logic requires some background. The practice of washing hands before eating bread derives from the *kohanim*, who would eat *terumah* — bread made from *terumah* flour — and for whom ritual purity was therefore essential. The rabbis established that unwashed hands carry the status of a *sheni letumah*, a second-degree derivative of impurity, sufficient to render *terumah* *tamei*. Rather than requiring full immersion in a *mikvah* to purify the hands, the rabbis instituted the washing of hands as a means of restoring *taharah*. Ordinary Jews adopted this practice in parallel, treating their eating as if they were *kohanim* consuming *terumah*, thereby elevating the sanctity of their meals.
+
+The mechanics of the washing require two pourings. The first water — *mayim rishonim* — purifies the hands, but in doing so becomes *tamei* itself; indeed, liquids that come into contact with impurity acquire a special status and themselves become *tamei*. The second water then purifies the first water. The practical concern is this: if during the first pouring the water flows past the wrist onto the forearm, it becomes *tamei* there, but the second pouring reaches only up to the wrist. The water sitting on the forearm has thus not been rendered *tahor* by the second pouring. If one then lowers the fingers, that *tamei* water may run back down onto the hands, rendering them *tamei* once more. Hence the requirement to keep the fingers elevated during *mayim rishonim*.
+
+It should be noted that there is a dispute among the *rishonim* as to precisely which joint serves as the boundary — whether the relevant threshold is the wrist or the knuckle where the fingers attach to the palm. The normative practice is to ensure the entire hand is washed; in pressing circumstances, *besha'as hadechak*, one may rely on the more lenient position that requires only the fingers. In any case, the essential rule is clear: fingers up for *mayim rishonim*.
+
+The reason the fingers must be held *downward* for *mayim acharonim* is different in nature. *Mayim acharonim* serve to remove *melach Sedomit* — a particularly harsh salt associated with Sodom — and other unpleasant residues from the fingers. The purpose is to push the undesirable material away from oneself, hence the fingers point downward so that the water and residue drain away.
+
+### Drying hands
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֲבָהוּ: כׇּל הָאוֹכֵל פַּת בְּלֹא נִיגּוּב יָדַיִם — כְּאִילּוּ אוֹכֵל לֶחֶם טָמֵא, שֶׁנֶּאֱמַר: ״וַיֹּאמֶר ה׳ כָּכָה יֹאכְלוּ בְנֵי יִשְׂרָאֵל אֶת לַחְמָם טָמֵא וְגוֹ׳״.
+>
+> **Translation:** **Rabbi Abbahu says: Anyone who eats bread without wiping** his **hands** dry after washing them causes the bread to become repulsive and is considered **as if he were eating impure bread,** since the verse refers to repulsive bread as impure bread, **as it is stated: "And the Lord said: Even thus shall the children of Israel eat their bread unclean** among the nations where I will drive them" (Ezekiel 4:13). Eating bread with wet hands causes the bread to become repulsive. The verse deems eating in an uncouth manner, as did the gentiles among whom the Jewish people were exiled, as akin to eating ritually impure bread.
+
+Rabbi Abahu adds a further dimension: *kol ha'ochel pat belo niguv yadayim ke'ilu ochel lechem tamei* — whoever eats bread without drying one's hands afterward is as if eating *tamei* bread, as the verse states (Yechezkel 4:13): *kacha yochlu venei Yisrael et lachmam tamei* — "so shall the children of Israel eat their bread in a state of impurity." The hands at that point are technically *tahor*, but Rashi explains that the act is *ma'us* — disgusting — and therefore treated rhetorically as equivalent to ritual impurity. There is something instructive here about the dual register of religious motivation: for some, the sense of ritual significance (*tamei*) is more compelling; for others, it is the aesthetic and moral dimension (*ma'us*) that resonates.
+
+---
+
+## Gasut haruach
+
+### Haughty soul & adultery
+
+> **Hebrew/Aramaic:** וּמַאי ״וְאֵשֶׁת אִישׁ נֶפֶשׁ יְקָרָה תָצוּד״? אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ — לְבַסּוֹף נִכְשָׁל בְּאֵשֶׁת אִישׁ, שֶׁנֶּאֱמַר: ״וְאֵשֶׁת אִישׁ נֶפֶשׁ יְקָרָה תָצוּד״.
+>
+> **Translation:** § The Gemara now continues the interpretation of the above quoted verse: "For on account of a harlot a man is brought to a loaf of bread" (Proverbs 6:26). The Gemara asks: **And what** is the meaning of the continuation of the verse: **"But the adulteress hunts for the precious life"? Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says: Any person who has arrogance within him will eventually stumble** by sinning **with an adulteress, as it is stated: "But the adulteress hunts for the precious life,"** i.e., she sins with one who considers himself precious.
+
+The *Gemara* now returns to the same *pasuk* in Mishlei (6:26) and focuses on its concluding phrase: *ve'eshet ish nefesh yekarah tatzud* — "and a married woman ensnares a precious soul." Rabbi Chiya bar Abba said in the name of Rabbi Yochanan: *kol adam sheyesh bo gasut haruach lesof nichshal be'eshet ish* — whoever possesses haughtiness of spirit will ultimately stumble in the sin of adultery with a married woman, because the very haughtiness that leads one to feel entitled to anything will lead one to transgress even in the domain of another man's wife. The *pasuk* is read as: a *nefesh yekarah*, a precious soul — understood here as a haughty soul, one that considers itself supremely important — will be "captured" by a married woman. This resonates with the narrative at the end of *Parashat Bereishit*, where the *benei Elokim* seized *benot ha'adam* as they pleased — taking married women directly from the *chuppah* — reflecting a complete breakdown of boundaries born of a sense of absolute entitlement.
+
+### Rava's reread
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: הַאי ״נֶפֶשׁ יְקָרָה״ — ״נֶפֶשׁ גְּבוֹהָה״ מִיבְּעֵי לֵיהּ. וְעוֹד: ״הִיא תָּצוּד״ מִיבְּעֵי לֵיהּ! אֶלָּא אָמַר רָבָא: כׇּל הַבָּא עַל אֵשֶׁת אִישׁ, אֲפִילּוּ לָמַד תּוֹרָה דִּכְתִיב בַּהּ ״יְקָרָה הִיא מִפְּנִינִים״, מִכֹּהֵן גָּדוֹל שֶׁנִּכְנָס לִפְנַי וְלִפְנִים, ״הִיא תְּצוּדֶנּוּ״ — לְדִינָהּ שֶׁל גֵּיהִנָּם.
+>
+> **Translation:** **Rava said: This** phrase: **"The precious life,"** is not how the verse would present this idea. **It should have** stated: **An arrogant life. And further, it should have** stated: A precious life, **she hunts** for the adulteress, indicating that the precious soul will entrap the adulteress, and not vice versa, as the verse indicates as written. **Rather, Rava says** that the verse should be interpreted as follows: **Anyone who engages in sexual intercourse with an adulteress, even** if that man **studied Torah, about which it is written: "She is more precious than rubies [*peninim*]"** (Proverbs 3:15), which, based on its etymological connection with the Hebrew term for the Holy of Holies, *lifnai velifnim*, is interpreted by the Sages to mean that one who studies Torah is more precious **than a High Priest, who enters the innermost sanctum,** still, **this** transgression of adultery **will entrap him into the judgment of Gehenna,** and the Torah he studied will not be able to save him.
+
+Rava, however, again scrutinizes the *pasuk*. If the intent is to speak of a haughty soul, the verse should have said *nefesh gevoha*, a high soul, rather than *nefesh yekarah*, a precious soul. Furthermore, if the married woman is to be the active subject ensnaring someone, the verse should have read *hi tatzud* — "she will ensnare" — making the married woman the grammatical subject. Since the verse does not align with the desired reading, Rava offers an alternative: *kol haba al eshet ish* — whoever has intercourse with a married woman — *afilu lamad Torah* — even if he is a *nefesh yekarah*, a precious soul, who has learned *Torah*, which is described as more precious than jewels (*yekarim mipninim*) and whose bearer is even greater than a *Kohen Gadol* who enters the innermost chambers — *hi titzudennu ledina shel Gehennom* — the married woman's sin will ensnare him all the way to the judgment of *Gehennom*. Here it is the *sin*, not the woman, that ensnares; the sinner is not ensnaring her but is himself being drawn in to the gravest punishment.
+
+### Haughtiness = idolatry
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ — כְּאִילּוּ עוֹבֵד עֲבוֹדָה זָרָה. כְּתִיב הָכָא: ״תּוֹעֲבַת ה׳ כׇּל גְּבַהּ לֵב״, וּכְתִיב הָתָם: ״וְלָא תָבִיא תוֹעֵבָה אֶל בֵּיתֶךָ״.
+>
+> **Translation:** **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai: Any person who has arrogance within him** is considered **as if he were an idol worshipper,** as **it is written here: "Everyone that is proud in heart is an abomination to the Lord"** (Proverbs 16:5), **and it is written there** concerning the destruction of idols: **"And you shall not bring an abomination into your house"** (Deuteronomy 7:26).
+
+Because the topic of *gasut haruach* — haughtiness of spirit — has now been introduced, the *Gemara* embarks on an extended exposition of its gravity. It is worth pausing to note that the term is *gasut ruach*, a heaviness or thickness of spirit — and one cannot help but observe the resonance with the *pasuk* at the heart of *Sotah*: *ve'avar alav ruach kinah*, a spirit of jealousy came over him. This juxtaposition invites reflection on whether the spirit of jealousy driving the husband may itself be entangled with a spirit of haughtiness.
+
+Rabbi Yochanan said in the name of Rabbi Shimon bar Yochai: *kol adam sheyesh bo gasut ruach ke'ilu oved avodat kochavim* — whoever has haughtiness of spirit is as if he worshipped *avodah zarah*. The one who is haughty recognizes no authority above themselves and is effectively a law unto themselves. The connection is drawn through the shared term *toavah*: the verse states *toavat Hashem kol geva lev* (Mishlei 16:5) — an abomination to God is all who are of haughty heart — and separately the verse states *ve'lo tavi toavah el beitecha* (Devarim 7:26) — do not bring an abomination into your home — referring to *avodah zarah*. The same term *toavah* links them.
+
+### Haughtiness = denial
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן דִּידֵיהּ אָמַר: כְּאִילּוּ כָּפַר בָּעִיקָּר, שֶׁנֶּאֱמַר: ״וְרָם לְבָבֶךָ וְשָׁכַחְתָּ אֶת ה׳ אֱלֹהֶיךָ וְגוֹ׳״.
+>
+> **Translation:** **And Rabbi Yoḥanan said his own** statement: Any person who has arrogance within him is considered **as if he has denied the core** belief in God's existence, **as it is stated: "Then your heart be lifted up, and you forget the Lord your God"** (Deuteronomy 8:14).
+
+Rabbi Yochanan himself, speaking in his own name rather than in the name of his teacher, goes further: *ke'ilu kafar be'ikar* — it is as if one denied the very existence of God. The verse cited is *ve'ram levavcha ve'shachachta et Hashem Elokecha* (Devarim 8:14) — "your heart will be lifted up and you will forget the Lord your God." There is a subtle distinction in the progression here. Worshipping *avodah zarah* involves rejecting one authority in favor of another; outright *kefira* is the rejection of divine authority altogether, with oneself as the sole authority. Haughtiness, Rabbi Yochanan argues, belongs to this latter and more radical category.
+
+### Consequences of pride
+
+> **Hebrew/Aramaic:** רַבִּי חָמָא בַּר חֲנִינָא אָמַר: כְּאִילּוּ בָּא עַל כׇּל הָעֲרָיוֹת. כְּתִיב הָכָא: ״תּוֹעֲבַת ה׳ כׇּל גְּבַהּ לֵב״, וּכְתִיב הָתָם: ״כִּי אֶת כׇּל הַתּוֹעֵבוֹת הָאֵל וְגוֹ׳״.
+>
+> **Translation:** **Rabbi Ḥama bar Ḥanina says:** Any person who has arrogance within him is considered **as if he engaged in sexual intercourse with all** of **those with whom relations are forbidden,** as **it is written here: "Everyone who is proud in heart is an abomination to the Lord"** (Proverbs 16:5), **and it is written there,** at the end of the passage concerning forbidden sexual relationships: **"For all these abominations** have the men of the land done" (Leviticus 18:27).
+
+The *Gemara* continues with further characterizations of haughtiness. Rabbi Chama bar Chanina says it is as if one had relations with all the *arayot*, all the forbidden sexual relations: *ke'ilu ba al kol ha'arayot*. The shared word *toavah* links the haughty heart (*toavat Hashem kol geva lev*) with the entire category of *arayot*, which is collectively described as *kol ha'toavot eleh* (Vayikra 18:27). The logic is that the unrestrained ego will ultimately give free rein to all desires.
+
+> **Hebrew/Aramaic:** עוּלָּא אָמַר: כְּאִילּוּ בָּנָה בָּמָה, שֶׁנֶּאֱמַר: ״חִדְלוּ לָכֶם מִן הָאָדָם אֲשֶׁר נְשָׁמָה בְּאַפּוֹ כִּי בַּמֶּה נֶחְשָׁב הוּא״ — אַל תִּיקְרֵי ״בַּמֶּה״, אֶלָּא ״בָּמָה״.
+>
+> **Translation:** **Ulla says:** Any person who has arrogance within him is considered **as if he built** a personal **altar** for idol worship, **as it is stated: "Cease you from man, in whose nostrils there is breath, for how little [*bammeh*] is he to be accounted"** (Isaiah 2:22), referring to an arrogant person. **Do not read** the verse **as** it is written, ***bammeh*,** how little. **Rather,** read it as ***bama*,** altar.
+
+Ulla offers yet another formulation: *ke'ilu bana bamah* — it is as if he built a *bamah*, a private altar outside the *Beit HaMikdash*. The verse cited is *chadlu lachem min ha'adam asher neshamah be'apo ki bameh nechshav* (Yeshayahu 2:22) — "cease from the man whose breath is in his nostrils, for what is he worth?" The homiletic reading takes *bameh nechshav* — "what is he worth?" — and vocalizes it as *bamah*, reading it as: such a person *is* a *bamah*. Rashi notes that a *bamah* was characteristically built on elevated ground, on high mountains and prominent places — an image perfectly fitting of one who elevates himself.
+
+This comparison to a *bamah* is instructive in the way it complements the two previous comparisons. *Avodah zarah* represents a total substitution of divine authority with another. *Kefira* is an outright rejection of God. But a person who is haughty may still be observant and God-fearing. Such a person is not worshipping another god and is not denying God; yet they are nonetheless a law unto themselves, bypassing communal norms and institutions. That is the *bamah*: still worshipping God, perhaps, but doing so on one's own terms, outside the sanctioned framework — as though saying, everyone else goes to the *Beit HaMikdash*, but I will do it my own way.
+
+### Charity despite pride
+
+> **Hebrew/Aramaic:** מַאי ״יָד לְיָד לֹא יִנָּקֶה״? אָמַר רַב: כׇּל הַבָּא עַל אֵשֶׁת אִישׁ, אֲפִילּוּ הִקְנָהוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא שָׁמַיִם וָאָרֶץ כְּאַבְרָהָם אָבִינוּ, דִּכְתִיב בֵּיהּ: ״הֲרִימֹתִי יָדִי אֶל ה׳ אֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ״ — לֹא יִנָּקֶה מִדִּינָהּ שֶׁל גֵּיהִנָּם.
+>
+> **Translation:** Having interpreted the phrase: "Everyone who is proud in heart is an abomination to the Lord" (Proverbs 16:5), the Gemara interprets the continuation of the verse. **What** is the meaning of: **"Hand to hand, he shall not be unpunished"** (Proverbs 16:5)? **Rav says: Anyone who engages in sexual intercourse with an adulteress, even** if **he** were to have **attributed possession of heaven and earth to the Holy One, Blessed be He, just as Abraham our forefather** did, **that it is written with regard to him: "I have lifted up my hand to the Lord, God Most High, Maker of heaven and earth"** (Genesis 14:22), **he will not be unpunished from the judgment of Gehenna.** Abraham is described as one whose hands were lifted to declare the glory of God, yet this verse declares that even if one who engaged in forbidden sexual intercourse were to use his hands in the same way, still, due to his sin, the verse says: "He shall not be unpunished."
+
+The *Gemara* then takes up the phrase from the same *pasuk* that introduced the abomination of the haughty heart: *yad leyad lo yinakeh* — "hand to hand will not go unpunished" (Mishlei 11:21). The question is what "hand to hand" alludes to in relation to haughtiness.
+
+Rav interprets it as referring to intercourse with a married woman — though the *Bach* notes that the correct reading, as attested by Rashi and others, is that the subject remains the haughty person. Even if such a person has recognized God's mastery over heaven and earth, as Avraham Avinu declared *harimosi yadi el Hashem El Elyon koneh shamayim va'aretz* — "I have lifted my hand to God, Master of heaven and earth" — *lo yinakeh midinah shel Gehennom*, he will not be cleansed from the punishment of *Gehennom*. The haughty person may sincerely affirm that God is the ultimate authority, and yet the practical effect of his haughtiness — his sense of entitlement and the way he treats others — remains a grave transgression.
+
+> **Hebrew/Aramaic:** קַשְׁיָא לְהוּ לִדְבֵי רַבִּי שֵׁילָא: הַאי ״יָד לְיָד לֹא יִנָּקֶה״, ״יָדִי״ מִיבְּעֵי לֵיהּ!
+>
+> **Translation:** This interpretation **poses a difficulty to** the Sages of **the school of Rabbi Sheila: This** phrase: **"Hand to hand, he shall not be unpunished,"** is not how the verse would present this idea. **It should have** stated: **My hand,** as that is the term employed in the verse with regard to Abraham.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמְרִי דְּבֵי רַבִּי שֵׁילָא: אֲפִילּוּ קִיבֵּל תּוֹרָה כְּמֹשֶׁה רַבֵּינוּ, דִּכְתִיב בֵּיהּ ״מִימִינוֹ אֵשׁ דָּת לָמוֹ״ — לֹא יִנָּקֶה מִדִּינָהּ שֶׁל גֵּיהִנָּם.
+>
+> **Translation:** **Rather,** the Sages **of the school of Rabbi Sheila say:** This teaches that **even** if one who engages in sexual intercourse with an adulteress had **received the Torah** from the hand of God **like Moses our teacher** did, **that it is written with regard to him: "At His right hand was a fiery law unto them"** (Deuteronomy 33:2), i.e., God gave the Torah from His right hand into the hand of Moses in order to give to the Jewish people, the sinner **will not be unpunished from the judgment of Gehenna.**
+
+*Devei Rabi Sheila* objects to this reading: if the verse intends to allude to Avraham's declaration, it should have said *yadi* rather than *yad leyad*, echoing *harimosi yadi*. They therefore offer an alternative: even if such a person received *Torah* at the level of Moshe Rabbeinu, of whom it is written *miyimino esh dat lamo* — the fiery law was given from God's right hand — *lo yinakeh midinah shel Gehennom*. Even the greatest *Torah* scholarship does not neutralize the haughtiness.
+
+> **Hebrew/Aramaic:** קַשְׁיָא לֵיהּ לְרַבִּי יוֹחָנָן: הַאי ״יָד לְיָד״, ״יָד מִיָּד״ מִיבַּעְיָא לֵיהּ!
+>
+> **Translation:** **This** interpretation also **poses a difficulty to Rabbi Yoḥanan: This** phrase "**hand to hand"** is not how the verse would present this idea. **It should have** stated: **Hand from hand,** as that is the term employed in the verse with regard to Moses.
+
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רַבִּי יוֹחָנָן: אֲפִילּוּ עוֹשֶׂה צְדָקָה בַּסֵּתֶר, דִּכְתִיב: ״מַתָּן בַּסֵּתֶר יִכְפֶּה אָף וְגוֹ׳״ — לֹא יִנָּקֶה מִדִּינָהּ שֶׁל גֵּיהִנָּם.
+>
+> **Translation:** **Rather Rabbi Yoḥanan says:** **Even** if the one who committed adultery **performs charitable** deeds **secretly,** as alluded to in the phrase "hand to hand," and even if one might think that one who does so will go unpunished, **as it is written** with regard to charity of this kind: **"A gift in secret pacifies wrath"** (Proverbs 21:14), nevertheless, **he will not be unpunished from the judgment of Gehenna.**
+
+Rabbi Yochanan in turn objects to *devei Rabi Sheila*'s reading: if the verse meant to allude to God giving the *Torah* to Moshe's hand, it should have said *yad miyad* — from one hand to another — not *yad leyad*. Rather, Rabbi Yochanan interprets *yad leyad* as referring to the act of giving: hand extended to another's hand — that is, *tzedakah*. Even if such a person performs *tzedakah baseser* — gives charity anonymously, in a way that preserves the recipient's dignity, with no public recognition — and even though we know from the verse *matan baseser yichaper af* (Mishlei 21:14) that giving in secret appeases divine anger — nevertheless, because of the haughtiness, *lo yinakeh midinah shel Gehennom*. The sin of haughtiness is not neutralized even by this. The cumulative force of these three readings is striking: a haughty person may acknowledge God as Master of all, may have acquired enormous *Torah* knowledge, and may give *tzedakah* with complete anonymity and discretion — and yet none of this is sufficient to offset the fundamental wrong of haughtiness.
+
+### Prohibition source
+
+> **Hebrew/Aramaic:** אַזְהָרָה לְגַסֵּי הָרוּחַ מִנַּיִן? אָמַר רָבָא אָמַר זְעֵירִי: ״שִׁמְעוּ וְהַאֲזִינוּ אַל תִּגְבָּהוּ״. רַב נַחְמָן בַּר יִצְחָק אָמַר, מֵהָכָא: ״וְרָם לְבָבֶךָ וְשָׁכַחְתָּ״ וּכְתִיב: ״הִשָּׁמֶר לְךָ פֶּן תִּשְׁכַּח אֶת ה׳ אֱלֹהֶיךָ״.
+>
+> **Translation:** § The Gemara previously discussed the impropriety of the trait of arrogance. Now the Gemara discusses the source of its prohibition. **From where is the warning** derived, i.e., what is the source prohibiting the behavior **of the arrogant? Rava says** that **Ze'eiri says:** The source is from the verse: **"Hear, you, and give ear, be not proud,** for the Lord has spoken" (Jeremiah 13:15). **Rav Naḥman bar Yitzḥak said** the warning is **from here: "Then your heart be lifted up, and you forget** the Lord your God" (Deuteronomy 8:14), **and it is** also **written** in that same passage: **"Beware lest you forget the Lord your God"** (Deuteronomy 8:11).
+
+> **Hebrew/Aramaic:** וְכִדְרַבִּי אָבִין אָמַר רַבִּי אִילְעָא. דְּאָמַר רַבִּי אָבִין אָמַר רַבִּי אִילְעָא: כׇּל מָקוֹם שֶׁנֶּאֱמַר ״הִשָּׁמֶר״ ״פֶּן״ וְ״אַל״ — אֵינוֹ אֶלָּא בְּלֹא תַּעֲשֶׂה.
+>
+> **Translation:** The Gemara explains: **And** these sources are **in accordance with** a statement **that Rabbi Avin** says that **Rabbi Ile'a says, as Rabbi Avin says** that **Rabbi Ile'a says: Wherever it is stated** in a verse **"beware," "lest," or "not,"** this is **nothing other** than **a prohibition.** Since these verses employ these terms in the context of one who is arrogant, they serve as sources for the prohibition.
+
+The *Gemara* now asks: *azhara legasut haruach minayin* — what is the source of a prohibition against haughtiness in the *Torah*? Rava, or some say Rabbi Zeira, cites the verse *shimu veha'azinu al tigbahu* (Yirmiyahu 13:15) — "hear and give ear, do not be haughty." Rav Nachman bar Yitzchak cites instead the verse in Devarim: *ve'ram levavcha ve'shachachta et Hashem Elokecha* — "your heart will become lifted and you will forget God" — in conjunction with *hishamer lecha pen tishkach et Hashem Elokecha* — "guard yourself lest you forget the Lord your God." Rabbi Avin, transmitting from Rabbi Ila, establishes the principle that wherever the *Torah* uses the language of *hishamer*, *pen*, or *al*, these constitute negative prohibitions — *lo ta'aseh*. Since the verse warns *hishamer lecha pen tishkach*, and since allowing one's heart to grow proud leads directly to forgetting God, the prohibition against forgetting God encompasses within it a prohibition against the pride that causes it.
+
+---
+
+## Consequences & rewards
+
+### Diminishment & repentance
+
+> **Hebrew/Aramaic:** דָּרֵשׁ רַב עַוִּירָא, זִמְנִין אָמַר לַהּ מִשְּׁמֵיהּ דְּרַב אַסִּי וְזִמְנִין אָמַר לַהּ מִשְּׁמֵיהּ דְּרַב אַמֵּי: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ לְסוֹף מִתְמַעֵט, שֶׁנֶּאֱמַר: ״רוֹמּוּ מְּעַט״. וְשֶׁמָּא תֹּאמַר יֶשְׁנוֹ בָּעוֹלָם, תַּלְמוּד לוֹמַר: ״וְאֵינֶנּוּ״.
+>
+> **Translation:** **Rav Avira interpreted** the following verse **homiletically:** "They are exalted for a little while, and they are gone; yes, they are brought low, they are gathered in as all others, and wither as the tops of the husks" (Job 24:24). There were **times** when **he said this** interpretation **in the name of Rav Asi and** there were **times** when **he said it in the name of Rav Ami: Any person who has arrogance within him will ultimately be diminished** in standing, **as it is stated** in the phrase: **"They are exalted for a little while,"** indicating that one who raises himself above others will be exalted only briefly. **And lest you say that** even if he is diminished **he** will still **exist in this world** and live a full life, **the verse states: "And they are gone,"** indicating that they die before their time.
+
+> **Hebrew/Aramaic:** וְאִם חוֹזֵר בּוֹ — נֶאֱסַף בִּזְמַנּוֹ כְּאַבְרָהָם אָבִינוּ, שֶׁנֶּאֱמַר: ״וְהֻמְּכוּ כַּכֹּל יִקָּפְצוּן״. כְּאַבְרָהָם יִצְחָק וְיַעֲקֹב דִּכְתִיב בְּהוּ: ״בַּכֹּל״, ״מִכֹּל״, ״כֹּל״. וְאִם לָאו — ״וּכְרֹאשׁ שִׁבֹּלֶת יִמָּלוּ״.
+>
+> **Translation:** He continues the interpretation: **But if he repents from** his arrogance, **he is gathered** in death **at his proper time like Abraham our forefather, as it is stated: "Yes, they are brought low, they are gathered in as all [*kakkol*] others"** (Job 24:24), indicating that when he repents from his arrogance he will die **like Abraham, Isaac, and Jacob, as it is written about them** that they were blessed with the term "all," as in the verse above. With regard to Abraham, the verse states: "And the Lord had blessed Abraham **in all** things **[*bakkol*]"** (Genesis 24:1). With regard to Isaac, the verse states: "And I have eaten **of all [*mikkol*]"** (Genesis 27:33). With regard to Jacob, the verse states: "And because I have **all [*khol*]"** (Genesis 33:11). **And if** one does **not** repent, then, the verse in Job continues: **"And wither like the tops of the husks."**
+
+Rav Avira taught — again sometimes in the name of Rav Assi and sometimes in the name of Rav Ammi — that whoever possesses haughtiness will in the end be diminished: *kol adam sheyesh bo gasut haruach lisof mitma'et*. The verse cited is *romu me'at* — "lift up a little" — read homiletically as: if you lift yourself up, you will become *me'at*, diminished. And lest one think the consequence is merely a slight reduction in stature while one continues to exist and have an impact in the world, the verse continues *ve'einenu* — and he is no more — meaning his memory will be obliterated entirely, as if he had never existed.
+
+However, if the person returns in *teshuva*, *ne'esaf bizmano ke'Avraham Avinu* — he will be gathered in his time, that is, he will live a full life, like Avraham Avinu. This suggests that the punishment for unrepented haughtiness is not merely diminishment but premature death, since the alternative to repentance is dying before one's time. The verse concludes *vehumchu kechol yikfatzun* — they will be brought low and gathered in like all — and if one does make oneself humble through *teshuva*, they will be gathered in like *bakol mikol kol*: like Avraham, Yitzchak, and Yaakov, each of whom the *Torah* describes with that phrase, indicating a life of complete fullness.
+
+### Head of husk debate
+
+> **Hebrew/Aramaic:** מַאי ״וּכְרֹאשׁ שִׁבֹּלֶת״? רַב הוּנָא וְרַב חִסְדָּא, חַד אָמַר: כִּי סָאסָא דְשִׁיבַּלְתָּא, וְחַד אָמַר: כְּשִׁיבּוֹלֶת עַצְמָהּ. בִּשְׁלָמָא לְמַאן דְּאָמַר כִּי סָאסָא דְשִׁיבַּלְתָּא — הַיְינוּ דִּכְתִיב: ״וּכְרֹאשׁ שִׁבֹּלֶת״, אֶלָּא לְמַאן דְּאָמַר כִּי שׁוּבַּלְתָּא עַצְמָהּ, מַאי ״וּכְרֹאשׁ שִׁבֹּלֶת״? אָמַר רַב אַסִּי, וְכֵן תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: מָשָׁל לְאָדָם שֶׁנִּכְנָס לְתוֹךְ שָׂדֵהוּ — גְּבוֹהָה גְּבוֹהָה הוּא מְלַקֵּט.
+>
+> **Translation:** The Gemara asks: **What** is the meaning of the phrase **"and** wither **like the tops of the husks"? Rav Huna and Rav Ḥisda** offered differing interpretations. **One says** that it means: **Like the awn** of bristle-like growth on the top **of the husk, and one says** that it means: **Like the husk itself.** The Gemara comments: **Granted, according to the one who says: Like the awn** of bristle-like growth on the top **of the husk, that is that which is written** in the verse: **"And** wither **like the tops of the husks,"** since this awn is on the top of the husk. **But according to the one who says: Like the husk itself, what** is the meaning of the expression **"and** wither **like the tops of the husks"? Rav Asi says, and similarly the school of Rabbi Yishmael taught:** This can be explained by way of **an analogy to a person who enters into his field,** as **he gathers the taller** stalks before the shorter ones. The verse is therefore referring to the tallest stalks, not the tops of the stalks.
+
+The verse under discussion concludes: *uchrosh shibolet yimalu* — "like the head of the husk they will wither." Rav Huna and Rav Chisda debate what this image means. One says it refers to the *kisa d'shivalta* — the hairs that crown the top of the husk of wheat, the thin tendrils that extend upward. The other says it refers to the *shibolet atzmah* — the husk itself, and its top specifically.
+
+If it refers to the hairs at the crown, the verse is straightforward: just as those hairs are cut away, so too will the haughty be cut down. The objection arises for the one who says it refers to the husk itself: what then does *kerosh* — the head — add to the image? Rav Assi, and likewise the school of Rabbi Yishmael, offer a parable: a person entering his field will pick the tallest stalks first. The tallest ones are gathered first and removed. So too the one who raises himself highest draws attention and is cut down first. The first image — the hairs being snipped from the crown — is perhaps more vivid, but both convey the same essential point: it is precisely what is most elevated that is most vulnerable to being cut down.
+
+### God with lowly
+
+> **Hebrew/Aramaic:** ״וְאֶת דַּכָּא וּשְׁפַל רוּחַ״. רַב הוּנָא וְרַב חִסְדָּא, חַד אָמַר: אִתִּי דַּכָּא, וְחַד אָמַר: אֲנִי אֶת דַּכָּא.
+>
+> **Translation:** The Gemara continues the discussion of arrogance, and its converse, humility. The verse states: "For thus says the High and Lofty One that inhabits eternity, whose name is Holy: I dwell in the high and holy place, **also with him that is of a contrite and humble spirit,** to revive the spirit of the humble, and to revive the heart of the contrite ones" (Isaiah 57:15). **Rav Huna and Rav Ḥisda** offered differing interpretations of this verse. **One says** that the verse means: Together **with Me** is the person who is **contrite** and humble. In other words, God elevates the humble. **And one says** that the verse means: **I,** God, descend, and am found together **with** the person who is **contrite** and humble.
+
+> **Hebrew/Aramaic:** וּמִסְתַּבְּרָא כְּמַאן דְּאָמַר אֲנִי אֶת דַּכָּא, שֶׁהֲרֵי הַקָּדוֹשׁ בָּרוּךְ הוּא הִנִּיחַ כׇּל הָרִים וּגְבָעוֹת, וְהִשְׁרָה שְׁכִינָתוֹ עַל הַר סִינַי וְלֹא גָּבַהּ הַר סִינַי לְמַעְלָה.
+>
+> **Translation:** The Gemara comments on this: **And** it **stands to reason** that the meaning of the verse is **like the one who says: I** am **with** the **contrite** person, **as the Holy One, Blessed be He, disregarded all** of the **mountains and hills, and rested His Divine Presence on** the lowly **Mount Sinai, and** He **did not** choose to **raise Mount Sinai up** toward Him. God chose to give the Torah on Mount Sinai, as it was a symbol of humility due to its lack of height, and He lowered His Divine Presence, as it were, to the mountain.
+
+The *Gemara* moves to a *pasuk* in Yeshayahu (57:15) that speaks of God dwelling *et daka ushefal ruach* — with the downtrodden and the lowly of spirit. Again Rav Huna and Rav Chisda disagree. One interprets the verse as: *iti daka* — God says "bring the downtrodden to me; I will raise them up." The other interprets it as: *ani et daka* — "I will go down and be with the downtrodden where they are." The *Gemara* concludes that the second interpretation is the more compelling, *umistavra*, because we know that God passed over all the great mountains and rested the *Shechinah* on *Har Sinai* — the lowest of the mountains — and did not raise *Har Sinai* up to the level of the others but came down to where it was.
+
+This is not merely a logical point but a deeply pastoral one. When a person is in a state of bleakness, depression, or despair, the message that God will *eventually* lift them up may feel irrelevant or unbelievable. What is needed — and what the *Gemara* is affirming — is the knowledge that God is present *there*, in the darkness, in the lowliness itself.
+
+### Learning from God
+
+> **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: לְעוֹלָם יִלְמַד אָדָם מִדַּעַת קוֹנוֹ, שֶׁהֲרֵי הַקָּדוֹשׁ בָּרוּךְ הוּא הִנִּיחַ כׇּל הָרִים וּגְבָעוֹת, וְהִשְׁרָה שְׁכִינָתוֹ עַל הַר סִינַי. וְהִנִּיחַ כׇּל אִילָנוֹת טוֹבוֹת, וְהִשְׁרָה שְׁכִינָתוֹ בַּסְּנֶה.
+>
+> **Translation:** **Rav Yosef says: A person should always learn** proper behavior **from the wisdom of his Creator, as the Holy One, Blessed be He, disregarded all** of the **mountains and hills and rested His Divine Presence on the** lowly **Mount Sinai. And** similarly, when appearing to Moses, **He disregarded all** of the **beautiful trees and rested His Divine Presence on the bush** (Exodus 3:2).
+
+Rav Yosef draws a practical lesson: *le'olam yilmad adam mida'as kono* — a person should always learn from the conduct of his Creator. Just as God passed over all the great mountains and chose to rest the *Shechinah* on the lowly *Har Sinai*, so too a person should cultivate humility. A variant of this teaching adds: just as God rested the *Shechinah* not in grand trees but in the humble thorn bush (*sneh*), so too human beings should model themselves on this divine preference for the lowly.
+
+### Deserve cutting down
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ רָאוּי לְגַדְּעוֹ כַּאֲשֵׁירָה. כְּתִיב הָכָא: ״וְרָמֵי הַקּוֹמָה גְּדוּעִים״, וּכְתִיב הָתָם: ״וַאֲשֵׁירֵיהֶם תְּגַדֵּעוּן״.
+>
+> **Translation:** **Rabbi Elazar says:** Concerning **any person who has arrogance within him,** it is **fitting to hew him down, as a tree designated for idolatry [*asheira*]** is hewn down, as **it is written here** with regard to the arrogant: **"And the high ones of stature shall be hewn down [*gedu'im*]"** (Isaiah 10:33), **and it is written there** with regard to trees designated for idolatry: **"And hew down [*teggade'un*] their trees worshipped as part of idolatrous rites [*asheireihem*]"** (Deuteronomy 7:5).
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי אֶלְעָזָר: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ — אֵין עֲפָרוֹ נִנְעָר, שֶׁנֶּאֱמַר: ״הָקִיצוּ וְרַנְּנוּ שֹׁכְנֵי עָפָר״, ״שֹׁכְבֵי בֶּעָפָר״ לֹא נֶאֱמַר, אֶלָּא ״שֹׁכְנֵי עָפָר״ — מִי שֶׁנַּעֲשָׂה שָׁכֵן לֶעָפָר בְּחַיָּיו.
+>
+> **Translation:** **And Rabbi Elazar** also **says:** Concerning **any person who has arrogance within him, his dust,** i.e., his remains in his grave, **will not stir** at the time of the resurrection of the dead, **as it is stated: "Awake and sing for joy, you who dwell in the dust"** (Isaiah 26:19). **It is not stated: You who lie in the dust,** which would indicate that all the dead will be awakened in the future, **but rather: "You who dwell in the dust,"** indicating that only **one who became a neighbor to the dust in his lifetime** by living with extreme humility will stir at the time of the resurrection.
+
+Rabbi Elazar states: *kol adam sheyesh bo gasut haruach ra'uy legado ke'asheirah* — whoever has haughtiness of spirit is deserving of being cut down like an *asheirah*, an idolatrous tree. The verse states *veramei hakoma gedu'im* (Yeshayahu 10:33) — "the tall ones will be cut down" — and the verse regarding *asherot* states *va'asheihem tigde'un* (Devarim 7:5) — "their *asherot* you shall chop down." The combination of the two verses, sharing the root *gimel-dalet-ayin*, associates the fate of the haughty with the command to destroy idolatrous trees. The language is stark. One might note that the verse about *asherot* carries the force of a commandment — *you shall cut them down* — which is somewhat unsettling when applied to haughty people, and the practical implications of such rhetoric require care in interpretation. But at minimum, the *Gemara* is saying that the haughty are in their spiritual character akin to something that is an abomination and fit to be eliminated.
+
+Rabbi Elazar adds a second teaching: *kol adam sheyesh bo gasut haruach ein afro ninar* — whoever has haughtiness of spirit, his dust will not be stirred at the time of *techiyat hameitim*. The verse states (Yeshayahu 26:19): *hakitzu veranenu shochnei afar* — "awaken and rejoice, those who dwell among the dust." The verse does not say *shochvei be'afar* — those who have lain down in the dust, which would refer to all the dead — but *shochnei afar* — those who have made their dwelling among the dust, meaning those who were humble and low in their lifetimes. Only they will be roused; the haughty, who disdained such lowliness in life, will not merit *techiyat hameitim*.
+
+### God cannot dwell
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: וְאָמַר רַבִּי אֶלְעָזָר: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ, שְׁכִינָה מְיַלֶּלֶת עָלָיו, שֶׁנֶּאֱמַר: ״וְגָבֹהַּ מִמֶּרְחָק יְיֵדָע״.
+>
+> **Translation:** **And Rabbi Elazar says:** Concerning **any person who has arrogance within him, the Divine Presence wails over him. As it is stated:** "For though the Lord is high, yet regards He the lowly, **and from the haughty He is pained from afar"** (Psalms 138:6).
+
+> **Hebrew/Aramaic:** דָּרֵשׁ רַב עַוִּירָא, וְאִיתֵּימָא רַבִּי אֶלְעָזָר: בֹּא וּרְאֵה שֶׁלֹּא כְּמִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא מִדַּת בָּשָׂר וְדָם. מִדַּת בָּשָׂר וָדָם — גָּבוֹהַּ רוֹאֶה אֶת הַגָּבוֹהַּ, וְאֵין גָּבוֹהַּ רוֹאֶה אֶת הַשָּׁפֵל. אֲבָל מִדַּת הַקָּדוֹשׁ בָּרוּךְ הוּא אֵינוֹ כֵּן, הוּא גָּבוֹהַּ וְרוֹאֶה אֶת הַשָּׁפֵל, שֶׁנֶּאֱמַר: ״כִּי רָם ה׳ וְשָׁפָל יִרְאֶה״.
+>
+> **Translation:** **Rav Avira interpreted** a verse **homiletically, and some say** that **Rabbi Elazar** interpreted as follows: **Come and see that the attribute of the Holy One, Blessed be He, is not like the attribute of flesh and blood. The attribute of flesh and blood** is that the **elevated sees the elevated, but the elevated does not see the lowly. But the attribute of the Holy One, Blessed be He, is not** like **that. He is elevated but sees** specifically **the lowly, as it is stated: "For though the Lord is high, yet regards He the lowly"** (Psalms 138:6).
+
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא, וְאִיתֵּימָא מָר עוּקְבָא: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: אֵין אֲנִי וָהוּא יְכוֹלִין לָדוּר בָּעוֹלָם, שֶׁנֶּאֱמַר: ״מְלׇשְׁנִי בַסֵּתֶר רֵעֵהוּ אוֹתוֹ אַצְמִית גְּבַהּ עֵינַיִם וּרְחַב לֵבָב אֹתוֹ לֹא אוּכָל״. אַל תִּקְרֵי ״אֹתוֹ״, אֶלָּא ״אִתּוֹ לֹא אוּכָל״. אִיכָּא דְּמַתְנֵי לַהּ אַמְּסַפְּרֵי לָשׁוֹן הָרָע, שֶׁנֶּאֱמַר: ״מְלׇשְׁנִי בַסֵּתֶר רֵעֵהוּ אוֹתוֹ אַצְמִית״.
+>
+> **Translation:** **Rav Ḥisda says, and some say** that **Mar Ukva** says: Concerning **any person who has arrogance within him, the Holy One, Blessed be He, said: He and I cannot dwell** together **in the world, as it is stated: "He who slanders his neighbor in secret, him will I destroy; he who is haughty of eye and proud of heart, him will I not suffer [*oto lo ukhal*]"** (Psalms 101:5–6). These verses should be understood as follows: **Do not read** the verse as: **"*Oto*** *lo ukhal*"; **rather,** read it as: ***Itto lo ukhal*,** meaning, **with him, I cannot** bear to dwell. **There are** those **who teach** that **this** was stated **with regard to those who speak slander** because the beginning of the verse states: **"He who slanders his neighbor in secret, him will I destroy."**
+
+Rav Chisda, or some say Mar Ukva, states: *kol adam sheyesh bo gasut haruach amar Hakadosh Baruch Hu: ein ani vehu yecholim lador ba'olam* — God says of the haughty: "I and he cannot dwell in the same world." If the haughty person fills all the space and acknowledges no authority, there is no room for God. The verse states (Tehillim 101:5): *malshni baseser re'ehu oto atzmit; gevah einayim urechav levav oto lo uchal* — "one who slanders his friend in secret I will cut down; one of haughty eyes and broad heart, him I cannot endure." The *Gemara* reads the final phrase not as *oto lo uchal* — "him I cannot endure" — but as *ito lo uchal* — "with him I cannot be." God and the haughty cannot coexist.
+
+The *Gemara* notes that some teach this statement in the context of those who speak *lashon hara*, since the first half of the verse concerns slander; on this reading, it may be the *lashon hara* born of haughtiness — rather than the haughtiness itself — that is the primary focus of the verse.
+
+---
+
+## Extended homilies
+
+### Little wind disturbs
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֲלֶכְּסַנְדְּרִי: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ, אֲפִילּוּ רוּחַ קִימְעָא עוֹכַרְתּוֹ, שֶׁנֶּאֱמַר: ״וְהָרְשָׁעִים כַּיָּם נִגְרָשׁ״, וּמָה יָם שֶׁיֵּשׁ בּוֹ כַּמָּה רְבִיעִיּוֹת — רוּחַ קִימְעָא עוֹכַרְתּוֹ, אָדָם שֶׁאֵין בּוֹ אֶלָּא רְבִיעִית אַחַת — עַל אַחַת כַּמָּה וְכַמָּה.
+>
+> **Translation:** **Rabbi Alexandri says:** Concerning **any person who has arrogance within him, even a slight wind disturbs him, as it is stated: "But the wicked are like the troubled sea,** for it cannot rest" (Isaiah 57:20). **And if** with regard to the **sea,** which **contains many** quantities of **quarters** of a *log* of water, yet **a slight wind disturbs it,** certainly with regard to **a person, who has** in his body **only one quarter-*log*** of essential lifeblood, **all the more so** will a slight wind disturb him.
+
+Rabbi Alexandri teaches: *kol adam sheyesh bo gasut haruach afilu ruach kima ocharto* — whoever has haughtiness, even a small wind will disturb him. The haughty person is hypersensitive to any perceived slight, constantly alert to whether others are sufficiently recognizing their status and authority. The verse states (Yeshayahu 57:20): *vehareshaim kayam nigrash* — "and the wicked are like the driven sea." The comparison: the sea contains vast quantities of water, and yet even a small wind disturbs its surface. *Adam she'ein bo ela revit* — a human being has only a *revi'it* of blood, which is the *Gemara*'s understanding of the minimal vital fluid — and yet the haughty person, driven by *gasut haruach*, is as easily agitated as the ocean. The *reshaim* here are those identified with haughtiness.
+
+### Talmid chacham arrogance
+
+> **Hebrew/Aramaic:** אָמַר רַב חִיָּיא בַּר אָשֵׁי אָמַר רַב: תַּלְמִיד חָכָם צָרִיךְ שֶׁיְּהֵא בּוֹ אֶחָד מִשְּׁמוֹנָה בִּשְׁמִינִית. אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: וּמְעַטְּרָא לֵיהּ כִּי סָאסָא לְשׁוּבַּלְתָּא. אָמַר רָבָא: בְּשַׁמְתָּא דְּאִית בֵּיהּ, וּבְשַׁמְתָּא דְּלֵית בֵּיהּ.
+>
+> **Translation:** Despite the opprobrium assigned to one who exhibits the trait of arrogance, **a Torah scholar must have one-eighth of one-eighth** of arrogance. **Rav Huna, son of Rav Yehoshua, said: And** this minute measure of arrogance **crowns him as the awn** of bristle-like growth on the top **of the husk. Rava said:** A Torah scholar **who has** arrogance **should be excommunicated, and one who does not have** arrogance at all **should be excommunicated** as well. As such, he must have only a minute measure of arrogance.
+
+Rabbi Chiya bar Ashi in the name of Rav states: *talmid chacham tzarich sheyehe bo echad mishmini shebishminit* — a *talmid chacham* requires within himself one sixty-fourth of haughtiness. A *talmid chacham* represents the *Torah* and carries its dignity. If someone slights him, they are slighting not merely a private individual but the *Torah* he embodies. Therefore a minimal measure of self-respect — a derivative of a derivative, an eighth of an eighth — is appropriate. The formulation is deliberately attenuated: not one-eighth, but one sixty-fourth, as though to say that even this is only barely tolerable and only at the greatest remove from real *gaivah*. Yet the *Gemara* has also already stated that even one who received *Torah* at the level of Moshe will not be cleansed from *Gehennom* if he has haughtiness. *Torah* scholarship can become a source of precisely this dangerous pride — the same thing it is meant to guard against.
+
+### Crowns like husk hairs
+
+Rav Huna son of Rav Yehoshua adds: *uma'atra lei ke-sasa l'shibulta* — and this minimal amount of pride crowns the *talmid chacham* like the hairs on top of the husk of wheat. This, of course, deliberately echoes the earlier image of those same hairs being cut off as a punishment for haughtiness. The image is inherently ambivalent: the very thing that adorns can, in excess, become the thing that is severed. A tiny amount is a crown; any more and it becomes a liability.
+
+### Rava's resolution
+
+Rava concludes that this is an impossibly fine line: *beshamta de'is bei uv'shamta de'leis bei* — a *talmid chacham* is deserving of *cherem* if he has [too much] pride, and is deserving of *cherem* if he does not have [any]. Too much, and the *Torah* has made him insufferable and contemptuous of others; too little, and he fails to uphold the dignity of the *Torah* he represents. The balance is real, delicate, and in practice extraordinarily difficult to maintain.
+
+### Total rejection
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: לָא מִינַּהּ וְלָא מִקְצָתַהּ, מִי זוּטַר דִּכְתִיב בֵּיהּ ״תּוֹעֲבַת ה׳ כׇּל גְּבַהּ לֵב״?
+>
+> **Translation:** **Rav Naḥman bar Yitzḥak said:** Even a Torah scholar **should not have any** arrogance **or any part of** arrogance, i.e., not even one-eighth of one-eighth. He explains why arrogance should be avoided entirely by asking: **Is it a small** matter **that it is written with regard to** arrogance: **"Everyone that is proud of heart is an abomination to the Lord"** (Proverbs 16:5)?
+
+Rav Nachman bar Yitzchak cuts through the complexity with a unilateral ruling: *lo minah velo miktzatah* — I want none of it, not a drop, not even the smallest fraction. His reasoning: is it a trivial matter when the verse states *toavat Hashem kol geva lev* — an abomination to God is all who are of a haughty heart? If the *Torah* calls it an abomination, one must keep far away from it entirely. The tension between Rav Nachman's total rejection and the recognized need for a *talmid chacham* to maintain some measure of dignity is left standing. The *Gemara* does not resolve it so much as present the full range of the challenge. A well-worn *yeshiva* joke captures it: the *Gemara* says a *talmid chacham* should have one sixty-fourth of arrogance, but some seem to be very *machmir* on the *shiur*.
+
+---
+
+## Value of humility
+
+### Heart like flesh
+
+> **Hebrew/Aramaic:** אָמַר חִזְקִיָּה: אֵין תְּפִלָּתוֹ שֶׁל אָדָם נִשְׁמַעַת אֶלָּא אִם כֵּן מֵשִׂים לִבּוֹ כְּבָשָׂר, שֶׁנֶּאֱמַר: ״וְהָיָה מִדֵּי חֹדֶשׁ בְּחׇדְשׁוֹ [וְגוֹ׳] יָבֹא כׇּל בָּשָׂר לְהִשְׁתַּחֲווֹת וְגוֹ׳״.
+>
+> **Translation:** **Ḥizkiyya says: The prayers of a person are heard only if he casts his heart** to be **like flesh,** by being free of arrogance. **As it is stated: "And it shall come to pass, that from one New Moon to another,** and from one Sabbath to another, **shall all flesh come to worship** before Me, says the Lord" (Isaiah 66:23).
+
+Chizkiyah teaches: *ein tefilaso shel adam nishma'at ela im kein mesim libo k'vasar* — a person's prayer is heard only if he makes his heart like flesh (*basar*) — not like stone, not like a haughty elevated spirit, but soft, flexible, impressionable. The verse cited is (Yeshayahu 66:23): *vehayah midei chodesh bechodsho yavo kol basar lehishtachavot* — "all flesh shall come to bow down." It is *basar* — flesh — that comes to the *Beit HaMikdash* to prostrate. The one who approaches God must approach as *basar*.
+
+### Flesh vs. adam
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: ״בָּשָׂר״ כְּתִיב בֵּיהּ ״וְנִרְפָּא״, ״אָדָם״ לָא כְּתִיב בֵּיהּ ״וְנִרְפָּא״.
+>
+> **Translation:** **Rabbi Zeira said:** Concerning leprosy of the **flesh, it is written** in the verse **with regard to it:** "And when the flesh has in the skin thereof a boil, **and it is healed"** (Leviticus 13:18), but concerning the leprosy of **a person, it is not written** in the verse **with regard to it: And it is healed.** Both verses discussing leprosy of a person make no mention of healing (Leviticus 13:2, 13:9). This indicates that one who sees himself as flesh will be cured, but one who holds himself in high regard will not be cured.
+
+Rabbi Zeira observes a distinction within the laws of *tzara'at*. When *tzara'at* appears on *basar* — on flesh — the verse indicates *venerpa*, it will heal. When the verse speaks of *adam* — a person — who has *tzara'at*, this phrase of healing does not appear. The point is not that *tzara'at* on a person cannot clear up, but that one who thinks of himself primarily as *adam* — a person of stature, a human being in his full dignity — finds healing and change more difficult. The one who regards himself as *basar* — humble flesh — is more open to the possibility of healing and transformation.
+
+### Adam & basar acronyms
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן, אָדָם: אֵפֶר, דָּם, מָרָה. בָּשָׂר: בּוּשָׁה, סְרוּחָה, רִמָּה. אִיכָּא דְּאָמְרִי: שְׁאוֹל, דִּכְתִיב בְּשִׁין.
+>
+> **Translation:** **Rabbi Yoḥanan said:** The Hebrew word for person, *adam*, written: ***Alef*, *dalet*, *mem*,** is an acronym for ***efer*,** dust; ***dam*,** blood; and ***mara*,** bile, alluding to man's insignificance. Similarly, the Hebrew word for flesh, *basar*, written: ***Beit*, *sin*, *reish*,** is an acronym for ***busha*,** shame; ***seruḥa*,** putrid; and ***rimma*,** worm, also alluding to his insignificance. **There are** those **who say** that the letter *sin* of the word *basar* actually is referring to a different word, ***sheol*, the netherworld, as it is written with** the Hebrew letter ***shin*.** The letter *sin* is phonetically similar to the letter *samekh*, the first letter of the word *seruḥa*, but is orthographically similar to the letter *shin*, the first letter of the word *sheol*. The dispute is whether the acronym should be based upon the pronunciation or upon the way it is written.
+
+Rabbi Yochanan expands this further, offering *gematric* and acronymic readings of both words as a reminder of human frailty. *Adam* may be read as an acronym for *eifer, dam, marah* — ashes, blood, and bile. *Basar* may be read as *bushah, sruchah, rimah* — shame, putrefaction, and worms. An alternative tradition reads the middle letter as *shin* rather than *sin*, yielding *Sheol* — the netherworld — in place of *srucha*. These readings are not intended to produce despair but to provide an antidote to haughtiness: whatever one's achievements, the body decomposes into these elements.
+
+### Se'et & sapachat
+
+> **Hebrew/Aramaic:** אָמַר רַב אָשֵׁי: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ לְסוֹף נִפְחָת, שֶׁנֶּאֱמַר: ״וְלַשְׂאֵת וְלַסַּפַּחַת״, וְאֵין ״שְׂאֵת״ אֶלָּא לְשׁוֹן גָּבוֹהַּ, שֶׁנֶּאֱמַר: ״וְעַל [כׇּל] הֶהָרִים הָרָמִים וְעַל [כׇּל] הַגְּבָעוֹת הַנִּשָּׂאוֹת״, וְאֵין ״סַפַּחַת״ אֶלָּא טְפֵילָה, שֶׁנֶּאֱמַר: ״סְפָחֵנִי נָא אֶל אַחַת הַכְּהֻנּוֹת לֶאֱכֹל פַּת לָחֶם״.
+>
+> **Translation:** **Rav Ashi says: Any person who has arrogance within him will ultimately be diminished** in stature, **as it is stated** with regard to different types of leprosy: **"And for a sore [*se'et*] and for a scab [*sappaḥat*]"** (Leviticus 14:56), **and *se'et*** means **nothing other** than **elevated, as it is stated: "And upon all the high mountains, and upon all the hills that are lifted up [*nissaot*]"** (Isaiah 2:14). **And *sappaḥat*** means **nothing other** than **an appendage, as it is stated** in the context of the curse given to the descendants of Eli: **"Put me [*sefaḥeni*], I pray of you, into one of the priests' offices, that I may eat a morsel of bread"** (I Samuel 2:36). They will have to be joined with another priestly family to receive their priestly gifts. One can therefore interpret the verses discussing leprosy as teaching that one who initially is arrogant, *se'et*, will eventually become a *sappaḥat*, diminished in stature.
+
+Rav Ashi applies this to haughtiness directly: *kol adam sheyesh bo gasut haruach lisof nifchat* — whoever has haughtiness will in the end be brought low. The verse cited is *ulaseit velasfachat* (Vayikra 13:2), referring to types of *tzara'at*. The *derasha* reads *se'eit* as related to the language of elevation — *se'eit* means lifting up, as in *ve'al kol heharim haramim ve'al kol hageva'ot hanisa'ot* — and *sapachat* as something secondary and adhesive, something that clings to and is subordinate to another. The haughty person who is *se'eit* — elevated — will be brought down to the status of *sapachat* — a mere addendum.
+
+### Greatness of lowly
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: בֹּא וּרְאֵה כַּמָּה גְּדוֹלִים נְמוּכֵי הָרוּחַ לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁבְּשָׁעָה שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים אָדָם מַקְרִיב עוֹלָה — שְׂכַר עוֹלָה בְּיָדוֹ. מִנְחָה — שְׂכַר מִנְחָה בְּיָדוֹ. אֲבָל מִי שֶׁדַּעְתּוֹ שְׁפָלָה, מַעֲלֶה עָלָיו הַכָּתוּב כְּאִילּוּ הִקְרִיב כׇּל הַקָּרְבָּנוֹת כּוּלָּם, שֶׁנֶּאֱמַר: ״זִבְחֵי אֱלֹהִים רוּחַ נִשְׁבָּרָה״. וְלֹא עוֹד, אֶלָּא שֶׁאֵין תְּפִלָּתוֹ נִמְאֶסֶת, שֶׁנֶּאֱמַר: ״לֵב נִשְׁבָּר וְנִדְכֶּה אֱלֹהִים לֹא תִבְזֶה״.
+>
+> **Translation:** **Rabbi Yehoshua ben Levi says: Come and see how great the lowly in spirit are before the Holy One, Blessed be He. For when the Temple** was **standing, a person** would **sacrifice a burnt-offering** and **the merit of a burnt-offering would be his;** he would sacrifice **a meal-offering** and **the merit of a meal-offering would be his. But** with regard to **one whose spirit is lowly, the verse ascribes him** credit **as if he had sacrificed all the sacrificial offerings, as it is stated: "The sacrifices of God are a broken spirit"** (Psalms 51:19), indicating that one who is humble of spirit is regarded as if he offered all the "sacrifices of God." **And not only** that, **but his prayer is not despised** by God, **as it is stated** at the end of that verse: **"A broken and contrite heart, O God, You will not despise."**
+
+Rabbi Yehoshua ben Levi teaches: *bo ur'ei kama gdolim nemuchei haruach lifnei Hakadosh Baruch Hu* — come and see how great are those of lowly spirit before God. When the *Beit HaMikdash* stood, one who brought an *olah* received the merit of an *olah*; one who brought a *minchah* received the merit of a *minchah*. But one who possessed a lowly spirit, it is as if he brought all the sacrifices together. The lowly spirit surpasses any individual sacrifice that one could bring.
+
+### Broken spirit greatest
+
+The verse confirms this: *zivchei Elokim ruach nishbarah* (Tehillim 51:19) — "the sacrifices of God are a broken spirit." The plural *zivchei* — sacrifices — refers to all sacrifices collectively, and the broken spirit encompasses them all. And furthermore, *ein tefilato nima'eset* — his prayer will not be despised, as the verse concludes: *lev nishbar venidkeh Elokim lo tivzeh* — "a broken and crushed heart, God will not despise."
+
+### Learning evaluation
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כׇּל הַשָּׁם אוֹרְחוֹתָיו בָּעוֹלָם הַזֶּה — זוֹכֶה וְרוֹאֶה בִּישׁוּעָתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנֶּאֱמַר: ״וְשָׂם דֶּרֶךְ אַרְאֶנּוּ בְּיֵשַׁע אֱלֹהִים״, אַל תִּקְרֵי ״וְשָׂם״, אֶלָּא ״וְשָׁם דֶּרֶךְ״.
+>
+> **Translation:** **And Rabbi Yehoshua ben Levi** also **says: Whoever appraises his ways in this world,** i.e., whoever carefully considers all his actions before deciding on the proper mode of conduct, **merits and sees the salvation of the Holy One, Blessed be He, as it is stated: "And to him that orders his way aright [*vesam derekh*] will I show the salvation of God"** (Psalms 50:23). **Do not read** it as **"*vesam*,"** "that orders"; **rather,** read it as ***vesham derekh*,** that appraises his way.
+
+Rabbi Yehoshua ben Levi adds one final teaching: *kol hasham orchotav ba'olam hazeh zocheh vero'eh bishu'ato shel Hakadosh Baruch Hu* — whoever weighs and assesses his paths in this world will merit seeing God's salvation. The *Rambam* cites this teaching as foundational, grounding in it the principle that all one's actions should be directed and evaluated *leshem shamayim*. The word *vesham* in the verse (Tehillim 50:23) is read not as "there" but as a form of *shuma* — assessment and evaluation. Whoever consistently weighs his direction in this world will behold the salvation of God.
+
+This extended passage on pride and humility is not a mere digression. The *ruach* — spirit — that animates *gasut haruach* stands in pointed juxtaposition to the *ruach kinah* — spirit of jealousy — with which *masechet Sotah* opens. The question of what kind of *ruach* is driving the jealous husband is one the *Gemara* seems deliberately to be placing before us.
+
+---
+
+## Kinui & forbidden acts
+
+### Warning contradiction
+
+> **Hebrew/Aramaic:* [כֵּיצַד מְקַנֵּא לָהּ כּוּ׳.] הָא גוּפָא קַשְׁיָא: אָמְרַתְּ, אָמַר לָהּ בִּפְנֵי שְׁנַיִם אַל תְּדַבְּרִי עִם אִישׁ פְּלוֹנִי זֶה, אַלְמָא דִּבּוּר סְתִירָה הוּא,
+>
+> **Translation:** § The mishna teaches: **How** does he **issue a warning to her** in an effective manner? If he says to her in the presence of two witnesses: Do not speak with the man called so-and-so, and she nevertheless spoke with him, she is still permitted to engage in sexual intercourse with her husband. However, if after he told her not to speak with so-and-so, she entered into a secluded place and remained with that man for sufficient time to engage in sexual intercourse, she is forbidden to her home, i.e., to engage in sexual intercourse with her husband, from that moment until she undergoes the *sota* rite. The Gemara notes the apparent contradiction in the mishna: **This** matter **itself is difficult: You said** in detailing the wording of the warning that **he said to her in the presence of two** witnesses: **Do not speak with the man** called **so-and-so, apparently** indicating that **speaking is** tantamount to **seclusion.** Therefore, speaking with that man should result in the woman becoming forbidden to her husband.
+
+> **Hebrew/Aramaic:** וַהֲדַר תָּנֵי: דִּיבְּרָה עִמּוֹ — עֲדַיִין מוּתֶּרֶת לְבֵיתָהּ וּמוּתֶּרֶת לֶאֱכוֹל בִּתְרוּמָה, אַלְמָא דִּבּוּר לָא כְּלוּם הוּא!
+>
+> **Translation:** **But then** the mishna **teaches:** If **she** nevertheless **spoke with him, she is still permitted to her home,** i.e., to engage in sexual intercourse with her husband, **and** if she is the wife of a priest **she is** still **permitted to partake of *teruma*, apparently** indicating that **speaking is nothing.** Therefore, issuing a warning to her not to speak with a particular man should not qualify as an effective warning.
+
+The *Gemara* now returns to the *halacha* of *Sotah* and the mechanics of the *kinui* — the formal warning that a husband must give his wife. The process has been substantially legalized and limited by *Chazal*: witnesses, *beit din*, and a carefully defined sequence of acts are required. The *Gemara* addresses an apparent internal contradiction in the *Mishnah*.
+
+The *Mishnah* states that the husband warns his wife in front of two witnesses not to speak with a particular man — *al tedabri im ish ploni zeh*. The implication would seem to be that *dibbur*, speech, constitutes the legally significant act, equivalent to *stirah*, seclusion. Yet the *Mishnah* immediately thereafter states that if she spoke with the man she remains *muteret le-veitah* — permitted to her husband — and *muteret le'echol bitrumah* — permitted to eat *terumah* if her husband is a *kohen*. The internal contradiction is stark: the first clause implies that speaking is the relevant act, while the second clause implies that it is not. *Ha gupa kashya* — this passage is self-contradictory.
+
+### Abaye's resolution
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, הָכִי קָאָמַר: ״אַל תְּדַבְּרִי״ וְדִבְּרָה, ״אַל תְּדַבְּרִי״ וְנִסְתְּרָה — וְלֹא כְּלוּם. ״אַל תִּסָּתְרִי״ וְדִבְּרָה עִמּוֹ — עֲדַיִין מוּתֶּרֶת לְבֵיתָהּ וּמוּתֶּרֶת לֶאֱכוֹל בִּתְרוּמָה. נִכְנְסָה עִמּוֹ לְבֵית הַסֵּתֶר וְשָׁהֲתָה כְּדֵי טוּמְאָה, אֲסוּרָה לְבֵיתָהּ וַאֲסוּרָה לֶאֱכוֹל בִּתְרוּמָה.
+>
+> **Translation:** **Abaye said** an explanation: **This is what** the mishna **is saying:** If he said to her: **Do not speak** with so-and-so, **and she** later **spoke** with him; or if the husband said to her: **Do not speak** with so-and-so, **and she** later **secluded herself** with him, **it is nothing,** as this was not an effective warning. Similarly, if he said to her: **Do not seclude yourself** with so-and-so, **and** then **she spoke with him** without secluding herself with him, **she is still permitted to her home,** i.e., her husband, **and she is** still **permitted to partake of *teruma*.** However, **if** after he issued a warning to her not to seclude herself with someone, **she entered with** that man **into a secluded place and remained** there with him for a period of time **sufficient for defilement,** then **she is forbidden to her home,** i.e., her husband, **and forbidden to partake of *teruma*.**
+
+Abaye resolves the contradiction by explaining how the *Mishnah* must be read. The *Mishnah* is enumerating several scenarios in which the woman remains permitted: whether he warned her not to speak and she spoke; whether he warned her not to speak and she went into *seclusion* (*nistera*); whether he warned her not to go into seclusion and she spoke — in all these cases, *adayin muteret le-veitah muteret le'echol bitrumah*. She remains permitted in all of them, because in each case either the warning does not match the act, or the act alone is insufficient. The warning and the forbidden act must align: the warning must be against the act that generates the legal consequence.
+
+### Final forbidden state
+
+The one case in which she becomes forbidden is specified: *nichnesa imo leveit haseser veshahat kedei tumah* — she entered with him into a private place and remained there for sufficient time to have intercourse (*kedei tumah*) — after having been warned specifically against seclusion. In that case alone, *asura le-veitah va'asura le'echol bitrumah* — she is forbidden to her husband and forbidden to eat *terumah*. The warning must be against seclusion, the act must be seclusion, and there must be sufficient time. All three elements together constitute the forbidden state. Here the *daf* concludes, and the shiur will continue from *amud bet* at the next session.

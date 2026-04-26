@@ -113,7 +113,7 @@ class ShiurClient: ObservableObject {
                   let first = rows.first
             else { return }
 
-            if let segJSON = first["segmentation"],
+            if let segJSON = first["segmentation"], !(segJSON is NSNull),
                let segData = try? JSONSerialization.data(withJSONObject: segJSON),
                let decoded = try? JSONDecoder().decode(ShiurSegmentation.self, from: segData) {
                 segments = decoded.macroSegments

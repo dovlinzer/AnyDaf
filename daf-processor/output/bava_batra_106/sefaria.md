@@ -1,0 +1,66 @@
+### Bava Batra 106a
+
+**1.**
+*Hebrew/Aramaic:* מַתְנִי׳ ״בְּסִימָנָיו וּבִמְצָרָיו״; פָּחוֹת מִשְּׁתוּת – הִגִּיעוֹ, עַד שְׁתוּת – יְנַכֶּה.
+*Translation:* MISHNA: If one sells a field to another, telling him that he is selling him a field measuring a *beit kor*, **with its** particular **demarcations and borders** that the seller specifies for the buyer, the field’s measurement is not treated in as exacting a manner as in a standard sale. Therefore, if it later turns out that the field was not precisely a *beit kor*, but the difference is still **less than one-sixth,** the field **is** the buyer’s, and the sale is valid as is. But if the difference is greater, e.g., one-quarter or one-fifth, then, **until** it is calculated at **one-sixth,** the seller **must deduct** the difference from the purchase price and return money to the buyer.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אִיתְּמַר, רַב הוּנָא אָמַר: שְׁתוּת – כְּפָחוֹת מִשְּׁתוּת. רַב יְהוּדָה אָמַר: שְׁתוּת – כְּיוֹתֵר מִשְּׁתוּת.
+*Translation:* GEMARA: **It was stated** that the *amora’im* disagreed about the following issue: **Rav Huna says:** A difference that is precisely **one-sixth is like** one that is **less than one-sixth,** and the sale is valid. **Rav Yehuda says:** A difference that is precisely **one-sixth is like** one that is **more than one-sixth,** and the difference must be deducted from the purchase price.
+
+**3.**
+*Hebrew/Aramaic:* רַב הוּנָא אָמַר: שְׁתוּת כְּפָחוֹת מִשְּׁתוּת – הָכִי קָאָמַר: פָּחוֹת מִשְּׁתוּת, וּשְׁתוּת בַּכְּלָל – הִגִּיעוֹ. יוֹתֵר מִשְּׁתוּת – יְנַכֶּה. רַב יְהוּדָה אָמַר: שְׁתוּת כְּיוֹתֵר מִשְּׁתוּת – הָכִי קָאָמַר: פָּחוֹת מִשְּׁתוּת – הִגִּיעוֹ. עַד שְׁתוּת, וּשְׁתוּת בַּכְּלָל – יְנַכֶּה.
+*Translation:* The Gemara explains the respective reasons of the two *amora’im*: **Rav Huna says** that a difference of **one-sixth is like** a difference of **less than one-sixth,** as **this** is what the mishna **is saying:** If the difference is **less than one-sixth, and including** a difference that is precisely **one-sixth, it is** the buyer’s, as the sale is valid, and if it is **more than one-sixth,** the seller **must deduct** the difference from the purchase price. **Rav Yehuda says** that a difference of **one-sixth is like** a difference of **more than one-sixth,** as **this** is what the mishna **is saying:** If the difference is **less than one-sixth, it is** the buyer’s, as the sale is valid, and if the difference is greater, **until** it is calculated at **one-sixth, and including** a difference that is precisely **one-sixth,** the seller **must deduct** the difference from the purchase price.
+
+**4.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״בְּסִימָנָיו וּבִמְצָרָיו״, פִּיחֵת שְׁתוּת אוֹ הוֹתִיר שְׁתוּת – הֲרֵי הוּא כְּשׁוּם הַדַּיָּינִין, הִגִּיעוֹ. וְהָא שׁוּם הַדַּיָּינִין, דִּשְׁתוּת כְּיוֹתֵר מִשְּׁתוּת הוּא!
+*Translation:* The Gemara **raises an objection** to Rav Huna’s statement from a *baraita*: If one sells a field to another, telling him that he is selling him a field measuring a *beit kor* **within its** particular **demarcations and borders,** and **he gave** him a field that is **one-sixth less** than the measure stipulated, **or,** alternatively, **he gave** him a field that is **one-sixth more** than the measure stipulated, **it is like** a sale of orphans’ property that is executed in accordance with **the judges’ assessment** of the value of that property, and therefore **it is** the buyer’s, as the sale is valid. The Gemara states the objection: **But** in the case of a sale executed in accordance with **the judges’ assessment,** an error of precisely **one-sixth is like** an error of **more than one-sixth,** and the sale is void. This contradicts Rav Huna’s opinion that an error of one-sixth is like an error of less than one-sixth.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר לְךָ רַב הוּנָא: וּלְטַעְמָיךְ, ״הִגִּיעוֹ״ קָא תָּנֵי! אֶלָּא כְּשׁוּם הַדַּיָּינִין – וְלֹא כְּשׁוּם הַדַּיָּינִין; כְּשׁוּם הַדַּיָּינִין – לִשְׁתוּת, וְלֹא כְּשׁוּם הַדַּיָּינִין – דְּאִילּוּ הָתָם, בָּטֵל מִקָּח; וְאִילּוּ הָכָא, הִגִּיעוֹ.
+*Translation:* The Gemara answers: **Rav Huna** could have **said to you** in reply: Even **according to your reasoning,** there is still a difficulty, since the *baraita* **teaches** that **it is** the buyer’s, i.e., the sale is final. **Rather,** the comparison drawn between this *halakha* and the judges’ assessment is not a general comparison. It is **like the judges’ assessment, but** it is **not** entirely **like the judges’ assessment.** It is **like the judges’ assessment** in that the limit is **one-sixth, but it is not like the judges’ assessment, as there,** in the case of the judges’ assessment, **the sale is voided, while here,** in the mishna, **it is** the buyer’s, and the sale is final.
+
+**6.**
+*Hebrew/Aramaic:* רַב פָּפָּא זְבַן אַרְעָא מֵהַהוּא גַּבְרָא,
+*Translation:* It is related that **Rav Pappa bought land from a certain man,**
+
+
+---
+
+### Bava Batra 106b
+
+**1.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָוְיָא עֶשְׂרִין גְּרִיוֵי. מְשַׁחֵיהּ, וְלָא הֲוַאי אֶלָּא חֲמֵיסְרָא. אֲתָא לְקַמֵּיהּ דְּאַבָּיֵי, אֲמַר לֵיהּ: סְבַרְתְּ וְקַבֵּילְתְּ.
+*Translation:* who, after specifying its demarcations and boundaries, **said to him: It is** an area of **twenty *griv*,** meaning that it is fit for planting twenty *se’a* of grain. Rav Pappa later **measured** the field **and** found that **it was** fit for planting **only fifteen** *se’a*. Rav Pappa **came before Abaye** to sue the seller. Abaye **said to him: You knew** what you were buying **and accepted** the field as is.
+
+**2.**
+*Hebrew/Aramaic:* וְהָתְנַן: פָּחוֹת מִשְּׁתוּת – הִגִּיעוֹ, עַד שְׁתוּת – יְנַכֶּה! הָנֵי מִילֵּי הֵיכָא דְּלָא קִים לֵיהּ בְּגַוַּהּ, אֲבָל הֵיכָא דְּקִים לֵיהּ בְּגַוַּהּ – סְבַר וְקַבֵּיל.
+*Translation:* Rav Pappa raised an objection to Abaye’s ruling from the mishna. **But didn’t we learn** in the mishna that when the seller specifies the field’s demarcations and borders, if the difference between the stated size of the field and its actual size is **less than one-sixth,** the field **is** the buyer’s, and the sale is valid as is, but if the difference is greater, **until** it is calculated at **one-sixth,** the seller **must deduct** the difference from the purchase price? And here, in this case, the difference between what the seller promised and the actual size of the field is greater than one-sixth. Abaye replied: **That statement** applies in a case **where** the buyer **is unfamiliar with** the plot being sold to him, **but** in a case **where he is familiar with it, he knew** what he was buying **and accepted** it as is.
+
+**3.**
+*Hebrew/Aramaic:* וְהָא עֶשְׂרִין אֲמַר לִי! אֲמַר לֵיהּ: דַּעֲדִיפָא כְּעֶשְׂרִין.
+*Translation:* Rav Pappa raised another objection to Abaye’s ruling: **But** the seller **said** to **me** that the field is fit for planting **twenty** *se’a*, and it is not. Abaye **said to him:** What he meant was **that** the field **is** as **good** and as fruitful **as** one that is fit for planting **twenty** *se’a*.
+
+**4.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי יוֹסֵי אוֹמֵר: הָאַחִין שֶׁחָלְקוּ, כֵּיוָן שֶׁעָלָה גּוֹרָל לְאֶחָד מֵהֶן – קָנוּ כּוּלָּם. מַאי טַעְמָא? אָמַר רַבִּי אֶלְעָזָר: כִּתְחִלַּת אֶרֶץ יִשְׂרָאֵל – מָה תְּחִלָּה בְּגוֹרָל, אַף כָּאן בְּגוֹרָל.
+*Translation:* § **It is taught** in a *baraita* that **Rabbi Yosei says:** When **brothers divide** their father’s estate between them by lottery, i.e., after dividing the property into equal shares they draw lots to determine which brother is to receive which portion, **once the lot for one of them is drawn, they all acquire** the remainder of the property, and they can no longer retract their decision to divide the estate in this manner. The Gemara asks: **What is the reason** for this? Drawing lots is not one of the recognized modes of acquisition. **Rabbi Elazar said:** The *halakha* that applies here is **similar to the initial** division of **Eretz Yisrael** among the tribes. **Just as the initial** division of Eretz Yisrael was carried out **by** drawing **lots, so too here,** the brothers can divide their father’s estate **by** drawing **lots.**
+
+**5.**
+*Hebrew/Aramaic:* אִי – מַה לְּהַלָּן בְּקַלְפִּי וְאוּרִים וְתוּמִּים, אַף כָּאן בְּקַלְפִּי וְאוּרִים וְתוּמִּים?! אָמַר רַב אָשֵׁי: בְּהָהוּא הֲנָאָה דְּקָא צָיְיתִי לַהֲדָדֵי, גָּמְרִי וּמַקְנוּ לַהֲדָדֵי.
+*Translation:* The Gemara challenges: **If** the brothers’ division of their father’s estate is comparable to the initial division of Eretz Yisrael, an additional comparison should apply: **Just as there,** the initial division of Eretz Israel was carried out **through a receptacle [*bekalpi*]** in which lots were placed **and the *Urim VeTummim*, so too here,** the division of the father’s estate should be executed only **through a receptacle and the *Urim VeTummim*. Rav Ashi said: With the satisfaction** that each of the brothers receives from the fact **that they listen to each other** and agree to accept the results of the lottery, **they fully transfer** ownership **to each other.** Therefore, the division becomes final as soon as the first lot is drawn.
+
+**6.**
+*Hebrew/Aramaic:* אִיתְּמַר: שְׁנֵי אַחִין שֶׁחָלְקוּ, וּבָא לָהֶן אָח מִמְּדִינַת הַיָּם; רַב אָמַר: בָּטְלָה מַחְלוֹקֶת, וּשְׁמוּאֵל אָמַר: מְקַמְּצִין.
+*Translation:* § **It was stated** that the *amora’im* disagreed about a related issue: If **two brothers divided** their father’s estate between them, **and** then later a third **brother,** of whose existence they had previously been unaware, **arrived from a country overseas, Rav says: The** original **division** of the property **is void,** and the brothers must now redivide the property among the three of them. **And Shmuel says:** The original division is still valid, but the two brothers must each **take off a share** from their portion and give it to the third brother.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: לְרַב דְּאָמַר בָּטְלָה מַחְלוֹקֶת, אַלְמָא הָדַר דִּינָא; אֶלָּא מֵעַתָּה, הָנֵי בֵּי תְלָתָא דְּקָיְימִי, וַאֲזוּל בֵּי תְרֵי מִינַּיְיהוּ וּפְלוּג, הָכִי נָמֵי דְּבָטְלָה מַחְלוֹקֶת?
+*Translation:* The Gemara clarifies the opinions of Rav and Shmuel: **Rava said to Rav Naḥman: According to Rav, who says that the division is void, apparently** the *halakha* is that if a division of property was found to have been performed in error, **the** original **verdict is reconsidered** and the entire division is void. Accordingly, in the case of the brother who arrived from overseas, the original division of the father’s estate is void. **But if that is so,** then in the case of **these three** people **who stand** as partners, **and two of them go and divide** the property into three parts without consulting with the third partner, **so too, the division should be void,** and it should be necessary to divide the property a second time between the three partners. But elsewhere (*Bava Metzia* 31b), the Gemara indicates that in such a case, if the division of property took place in the presence of a court, it is valid.
+
+**8.**
+*Hebrew/Aramaic:* הָכִי הַשְׁתָּא?! הָתָם, נְחִיתוּ אַדַּעְתָּא דְּבֵי תְּלָתָא מֵעִיקָּרָא; הָכָא, לָא נְחִיתוּ אַדַּעְתָּא דְּבֵי תְלָתָא מֵעִיקָּרָא.
+*Translation:* Rav Naḥman rejects this comparison: **How can** these cases **be compared?** There is a clear difference between them: **There,** in the case of the three partners, **they entered** the process of dividing the property **from the outset with the knowledge that they were three,** and it was necessary only to clarify the portion to be received by each partner. **Here,** in the case of the brother who arrived from overseas, **they did not enter** the process of dividing the property **from the outset with the knowledge that they were three,** as at the time of the original division, they thought that there were only two brothers.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: לִשְׁמוּאֵל דְּאָמַר מְקַמְּצִין – לְמֵימְרָא דְּקָם דִּינָא?! וְהָא רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ: ״כּוֹר בִּשְׁלֹשִׁים אֲנִי מוֹכֵר לָךְ״ – יָכוֹל לַחֲזוֹר בּוֹ אֲפִילּוּ בִּסְאָה הָאַחֲרוֹנָה. ״כּוֹר בִּשְׁלֹשִׁים – סְאָה בְּסֶלַע אֲנִי מוֹכֵר לָךְ״ – רִאשׁוֹן רִאשׁוֹן קָנָה!
+*Translation:* **Rav Pappa said to Abaye: According to Shmuel, who says** that the two brothers must each **take off a share** from their portion and give it to the third brother, **is this to say that** he is of the opinion **that** even if a division of property was found to have been made in error, **the** original **verdict stands** and the division is valid? **But don’t Rav and Shmuel both say** that if the seller said to the buyer: **I am selling you one *kor*** of grain, an amount equivalent to thirty *se’a*, **for** the sum of **thirty** *sela*, **he can renege** on the entire sale **even while** measuring out **the last *se’a*;** but if he said: **I am selling you one *kor*** of grain **for thirty** *sela*, **each *se’a* for a *sela*,** the buyer **acquires** each *se’a* **one by one** as it is being measured out to him? If the original verdict stands, why in the first case may the seller renege even on that portion of the sale that already reached the buyer?

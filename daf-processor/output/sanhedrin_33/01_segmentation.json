@@ -1,0 +1,437 @@
+{
+  "masechta": "Sanhedrin",
+  "daf": 33,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Opening Framework: Differences Between Dinei Nefashos and Dinei Mamonos",
+      "display_title": "Dinei Nefashos vs Mamonos",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Daf and Fundamental Distinctions",
+          "display_title": "Opening & Framework",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "How Cases Are Opened: For Acquittal in Capital Cases, Either Way in Civil Cases",
+          "display_title": "Opening Procedure",
+          "timestamp": "00:09"
+        },
+        {
+          "title": "Reversibility in Civil vs Capital Cases: Liability Rules",
+          "display_title": "Reversibility Rules",
+          "timestamp": "00:42"
+        }
+      ]
+    },
+    {
+      "title": "Reconciling Conflicting Teachings: The Role of Expertise in Reversing Rulings",
+      "display_title": "Mumche Framework",
+      "timestamp": "02:44",
+      "micro_segments": [
+        {
+          "title": "The Teaching of Rav Yosef: Expert vs Non-Expert Judges",
+          "display_title": "Mumche Distinction",
+          "timestamp": "02:44"
+        },
+        {
+          "title": "Rashi's Explanation: Why Experts Can Reverse But Non-Experts Cannot",
+          "display_title": "Rashi's Logic",
+          "timestamp": "03:03"
+        },
+        {
+          "title": "The Teaching About Liability When Mistakes Occur: Mumche Exemption",
+          "display_title": "Liability & Mumche",
+          "timestamp": "05:46"
+        },
+        {
+          "title": "Rav Nachman's Alternative: Higher Authority as Condition for Reversal",
+          "display_title": "Higher Authority",
+          "timestamp": "06:42"
+        }
+      ]
+    },
+    {
+      "title": "The Distinction Between Clear-Cut Law and Judgment Calls",
+      "display_title": "Dvar Mishna vs Shikul Ha…",
+      "timestamp": "08:21",
+      "micro_segments": [
+        {
+          "title": "Rav Sheshet's Answer: Reversal Depends on Type of Error, Not Expertise",
+          "display_title": "Rav Sheshet's View",
+          "timestamp": "08:21"
+        },
+        {
+          "title": "Defining Dvar Mishna: Black-Letter Law in Mishna, Tosefta, and Amoraic Rulings",
+          "display_title": "What is Dvar Mishna",
+          "timestamp": "10:13"
+        },
+        {
+          "title": "Defining Shikul Hadaat: Disputes Among Tannaim and Amoraim Without Clear Psak",
+          "display_title": "What is Shikul Hadaat",
+          "timestamp": "11:15"
+        },
+        {
+          "title": "The Implications: When Error Is in Black-Letter Law vs Judgment",
+          "display_title": "Implication & Logic",
+          "timestamp": "12:29"
+        },
+        {
+          "title": "Authority and Canonization: Do the Geonim Get the Status of Dvar Mishna?",
+          "display_title": "Canonization Issues",
+          "timestamp": "13:50"
+        }
+      ]
+    },
+    {
+      "title": "The Case of the Uterus-Removed Cow: Applying the Dvar Mishna Framework",
+      "display_title": "Parah Case Study",
+      "timestamp": "15:29",
+      "micro_segments": [
+        {
+          "title": "The Story of Rabbi Tarfon's Ruling on a Uterus-Removed Cow",
+          "display_title": "Story Setup",
+          "timestamp": "15:29"
+        },
+        {
+          "title": "Rabbi Akiva's Response: Exemption Based on Expertise",
+          "display_title": "Akiva's Solution",
+          "timestamp": "17:42"
+        },
+        {
+          "title": "The Gemara's Challenge: Why Not Just Say It Was an Error in Dvar Mishna?",
+          "display_title": "Gemara's Challenge",
+          "timestamp": "17:59"
+        },
+        {
+          "title": "Rav Nachman bar Yitzchak's Clarification: The Cow Was Already Fed to Dogs",
+          "display_title": "Resolution",
+          "timestamp": "19:25"
+        },
+        {
+          "title": "Understanding Reversal When Physical Action Cannot Be Undone",
+          "display_title": "Practical Limits",
+          "timestamp": "20:19"
+        }
+      ]
+    },
+    {
+      "title": "Reversal Requires Physical Completion: The Nital Venatan Beyad Principle",
+      "display_title": "Nital Venatan Beyad",
+      "timestamp": "22:46",
+      "micro_segments": [
+        {
+          "title": "Rav Chisda's Answer: Only Reversible When Judgment Not Physically Executed",
+          "display_title": "Rav Chisda's Principle",
+          "timestamp": "22:46"
+        },
+        {
+          "title": "Distinguishing the Tosefta Case: When Money Changes Hands vs When It Does Not",
+          "display_title": "Tosefta Context",
+          "timestamp": "23:59"
+        },
+        {
+          "title": "The Mishna's Case: Reversible When Judge Did Not Physically Act",
+          "display_title": "Mishna Context",
+          "timestamp": "26:11"
+        },
+        {
+          "title": "Clarifying Exemption When Judge Says Patur: Does It Count as Nital Venatan?",
+          "display_title": "Patur Problem",
+          "timestamp": "27:05"
+        },
+        {
+          "title": "Ravina's Refinement: Physical Transfer of Collateral as Nital Venatan Beyad",
+          "display_title": "Ravina's Clarification",
+          "timestamp": "31:16"
+        },
+        {
+          "title": "Examples in Other Domains: Tumah and Tahorah Cases with Physical Acts",
+          "display_title": "Other Examples",
+          "timestamp": "32:15"
+        }
+      ]
+    },
+    {
+      "title": "Capital Cases: Asymmetric Reversal and the Principle of No Double Jeopardy",
+      "display_title": "Dinei Nefashos Rules",
+      "timestamp": "34:30",
+      "micro_segments": [
+        {
+          "title": "The Source for Reopening Cases to Find Innocence: Naki Al Taharog",
+          "display_title": "Innocence Reversal",
+          "timestamp": "34:30"
+        },
+        {
+          "title": "The Source for No Double Jeopardy: Tzadik Al Taharog",
+          "display_title": "No Double Jeopardy",
+          "timestamp": "35:13"
+        },
+        {
+          "title": "Exception: The Meisit (Seducer to Idolatry) Receives No Mercy",
+          "display_title": "Meisit Exception",
+          "timestamp": "36:23"
+        },
+        {
+          "title": "Extension to Other Serious Crimes: Exile and Lashes via Gezerah Shavah",
+          "display_title": "Extension to Galus & Mal…",
+          "timestamp": "37:04"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Dinei Nefashos (capital cases)",
+      "timestamps": [
+        "00:09",
+        "00:24",
+        "01:00",
+        "24:01",
+        "28:40",
+        "34:30"
+      ]
+    },
+    {
+      "term": "Dinei Mamonos (civil cases)",
+      "timestamps": [
+        "00:05",
+        "00:12",
+        "00:19",
+        "00:42",
+        "02:44",
+        "04:43"
+      ]
+    },
+    {
+      "term": "Mumche (expert judge)",
+      "timestamps": [
+        "02:54",
+        "03:04",
+        "04:43",
+        "05:39",
+        "06:08",
+        "07:07",
+        "17:32",
+        "19:04"
+      ]
+    },
+    {
+      "term": "Machzirin/Chozer (can reverse)",
+      "timestamps": [
+        "01:08",
+        "05:46",
+        "08:25",
+        "09:03",
+        "26:11",
+        "34:30"
+      ]
+    },
+    {
+      "term": "Ma she'asa asa (what is done is done)",
+      "timestamps": [
+        "01:44",
+        "02:05",
+        "04:15"
+      ]
+    },
+    {
+      "term": "Dvar Mishna (black-letter law)",
+      "timestamps": [
+        "08:32",
+        "09:03",
+        "10:13",
+        "11:39",
+        "12:29",
+        "13:45",
+        "18:01",
+        "18:10"
+      ]
+    },
+    {
+      "term": "Shikul Hadaat (judgment call)",
+      "timestamps": [
+        "09:00",
+        "11:15",
+        "11:56",
+        "12:29",
+        "13:33",
+        "34:01"
+      ]
+    },
+    {
+      "term": "Nital venatan beyad (physically handed over)",
+      "timestamps": [
+        "22:47",
+        "24:27",
+        "25:12",
+        "26:28",
+        "27:00",
+        "31:24",
+        "34:01"
+      ]
+    },
+    {
+      "term": "Tayut bidvar Mishna (error in clear law)",
+      "timestamps": [
+        "18:01",
+        "18:10",
+        "20:42",
+        "21:57"
+      ]
+    },
+    {
+      "term": "Rashi's interpretation",
+      "timestamps": [
+        "03:01",
+        "04:20",
+        "05:09"
+      ]
+    },
+    {
+      "term": "Rav Yosef",
+      "timestamps": [
+        "02:53"
+      ]
+    },
+    {
+      "term": "Rav Nachman",
+      "timestamps": [
+        "06:42",
+        "19:25"
+      ]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": [
+        "08:25",
+        "15:33"
+      ]
+    },
+    {
+      "term": "Rav Chisda",
+      "timestamps": [
+        "22:46"
+      ]
+    },
+    {
+      "term": "Ravina",
+      "timestamps": [
+        "31:16"
+      ]
+    },
+    {
+      "term": "Rabbi Tarfon",
+      "timestamps": [
+        "15:48",
+        "16:55",
+        "17:19",
+        "20:08"
+      ]
+    },
+    {
+      "term": "Rabbi Akiva",
+      "timestamps": [
+        "17:42",
+        "20:14"
+      ]
+    },
+    {
+      "term": "Treifah (non-kosher animal)",
+      "timestamps": [
+        "15:48",
+        "15:59",
+        "16:04",
+        "17:07",
+        "20:37"
+      ]
+    },
+    {
+      "term": "Parah (cow case)",
+      "timestamps": [
+        "15:41",
+        "19:29",
+        "19:35"
+      ]
+    },
+    {
+      "term": "Naki (genuinely innocent)",
+      "timestamps": [
+        "35:08",
+        "35:26",
+        "35:39"
+      ]
+    },
+    {
+      "term": "Tzadik (ruled innocent)",
+      "timestamps": [
+        "35:12",
+        "35:59",
+        "36:06"
+      ]
+    },
+    {
+      "term": "Naki al taharog (don't kill the innocent)",
+      "timestamps": [
+        "34:58",
+        "35:26",
+        "35:39"
+      ]
+    },
+    {
+      "term": "Tzadik al taharog (don't kill the righteous)",
+      "timestamps": [
+        "35:59",
+        "36:06"
+      ]
+    },
+    {
+      "term": "Meisit (seducer to idolatry)",
+      "timestamps": [
+        "36:23",
+        "36:45",
+        "36:53"
+      ]
+    },
+    {
+      "term": "Chayei galuyos (those liable to exile)",
+      "timestamps": [
+        "37:07",
+        "37:28",
+        "38:17"
+      ]
+    },
+    {
+      "term": "Chayei malkuyos (those liable to lashes)",
+      "timestamps": [
+        "37:49",
+        "38:17"
+      ]
+    },
+    {
+      "term": "Gezerah shavah (verbal analogy)",
+      "timestamps": [
+        "37:58"
+      ]
+    },
+    {
+      "term": "Canonization of halachic authority",
+      "timestamps": [
+        "14:15",
+        "14:18",
+        "14:38",
+        "14:43"
+      ]
+    },
+    {
+      "term": "Geonim authority",
+      "timestamps": [
+        "14:01",
+        "14:05",
+        "14:44",
+        "14:48"
+      ]
+    }
+  ]
+}

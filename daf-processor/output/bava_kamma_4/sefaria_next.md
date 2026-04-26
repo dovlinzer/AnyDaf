@@ -1,0 +1,77 @@
+### Bava Kamma 5a
+
+**1.**
+*Hebrew/Aramaic:* עֵדִים זוֹמְמִין, דְּמָמוֹנָא הוּא, לִיתְנֵי! סָבַר לַהּ כְּרַבִּי עֲקִיבָא, דְּאָמַר: אֵין מְשַׁלְּמִין עַל פִּי עַצְמָן.
+*Translation:* The Gemara asks: With regard to the payment made by **conspiring witnesses, which is** categorized as **monetary restitution,** as the witnesses pay the precise sum that they conspired to cause the defendant to lose, **let** Rabbi Oshaya also **teach it** as one of the categories on his list. The Gemara answers: Rabbi Oshaya **holds in accordance with** the opinion of **Rabbi Akiva, who says** that conspiring witnesses **do not pay on the basis of their own** admission. Evidently, theirs is not a payment of monetary restitution; rather, it is a fine, as only one who was found liable based on the testimony of witnesses pays a fine, not one who was found liable based on his own admission.
+
+**2.**
+*Hebrew/Aramaic:* אִי סָבַר לֵיהּ כְּרַבִּי עֲקִיבָא, לִיתְנֵי תְּרֵי גַוְונֵי שׁוֹר – לִיתְנֵי שׁוֹר דְּאַזֵּיק שׁוֹר, וְלִיתְנֵי שׁוֹר דְּאַזֵּיק אָדָם;
+*Translation:* The Gemara asks: **If** Rabbi Oshaya **holds in accordance with** the opinion of **Rabbi Akiva, let him teach two** distinct **types of** categories of damage under the rubric of **Ox: Let him teach** one category for **an ox that damages an ox** or other property belonging to another person, **and let him** also **teach** the case of **an ox that injures a person.**
+
+**3.**
+*Hebrew/Aramaic:* דִּתְנַן, רַבִּי עֲקִיבָא אוֹמֵר: אַף תָּם שֶׁחָבַל בְּאָדָם – מְשַׁלֵּם בַּמּוֹתָר נֶזֶק שָׁלֵם!
+*Translation:* The Gemara explains its question: **As we learned** in a mishna (33a): In a case where the two parties damaged each other concurrently, **Rabbi Akiva says:** The owner of the **innocuous** ox **that injured a person also pays the full** cost of the **damage with regard to the difference** between the damage caused by his ox and the damage that the person caused the ox. Rabbi Akiva holds that if an innocuous ox injures a person, the owner pays the full cost of the damage, whereas if an innocuous ox damages another’s property then the owner is liable only for half the cost of the damage. Since the owner’s liability in the two cases is different, each case should be classified as a distinct category, and Rabbi Oshaya should list them separately in his *baraita*.
+
+**4.**
+*Hebrew/Aramaic:* הָא תַּבְרֵיהּ רַבִּי עֲקִיבָא לִגְזִיזֵיהּ; דְּתַנְיָא, רַבִּי עֲקִיבָא אוֹמֵר: יָכוֹל אַף תָּם שֶׁחָבַל בְּאָדָם, יְשַׁלֵּם מִן הָעֲלִיָּיה – תַּלְמוּד לוֹמַר: ״יֵעָשֶׂה לוֹ״ – מִגּוּפוֹ מְשַׁלֵּם, וְאֵינוֹ מְשַׁלֵּם מִן הָעֲלִיָּיה.
+*Translation:* The Gemara answers: **Didn’t Rabbi Akiva break** the force of **his fist [*gezizeih*],** i.e., he significantly tempered the force of his statement, **as it is taught** in a *baraita* that **Rabbi Akiva says:** One **might** have thought that **even** in the case of **an innocuous ox that injured a person,** the owner of the ox **would pay from** his **superior-quality** property and not merely from the body of his animal, as in the case of an innocuous ox that damages property; therefore, **the verse states** with regard to an ox that gores a person: “According to this judgment **shall it be done to him”** (Exodus 21:31), from which it is derived that the owner of the ox **pays** restitution exclusively **from** proceeds of the sale of the **body** of his ox, **and he does not pay from** his **superior-quality** property. The mishna states that one pays restitution from his superior-quality property in instances of all primary categories of damage. Since in the case of an innocuous ox that injured a person even Rabbi Akiva concedes that the owner does not pay from his superior-quality property, it should not be included in a list of the primary categories.
+
+**5.**
+*Hebrew/Aramaic:* הָאוֹנֶס וְהַמְפַתֶּה וְהַמּוֹצִיא שֵׁם רַע, דְּמָמוֹנָא הוּא, לִיתְנֵי!
+*Translation:* The Gemara asks: As for **the rapist, and the seducer, and the defamer,** all of **which are** cases in which the offender pays **monetary restitution, let** Rabbi Oshaya **teach** them as categories in his list.
+
+**6.**
+*Hebrew/Aramaic:* מָה נַפְשָׁךְ; אִי נֵזֶק – תְּנָא לֵיהּ, אִי צַעַר – תְּנָא לֵיהּ, אִי בּשֶׁת – תְּנָא לֵיהּ, אִי פְּגָם – הַיְינוּ נֵזֶק. מָה אִית לָךְ לְמֵימַר – קְנָסָא? בִּקְנָסָא לָא קָמַיְירֵי.
+*Translation:* The Gemara explains why Rabbi Oshaya did not teach them as separate categories: **Whichever way you** look at it, they should not be listed. **If** the payments listed by Rabbi Ḥiyya are for **damage** caused to the woman’s body, which reduces her value, he already **taught it; if** the payments are for **pain,** he already **taught it; if** the payments are for **humiliation,** he already **taught it; if** the payment is for **degradation, that** too **is** a payment for **damage,** which he already taught. **What,** then, **have you to say?** What is the nature of the payments paid by the rapist and the seducer mentioned by Rabbi Ḥiyya? In these cases, each payment paid is considered **a fine [*kenasa*],** and as explained, **with regard to** cases in which one is liable to pay **a fine,** Rabbi Oshaya **does not speak.**
+
+**7.**
+*Hebrew/Aramaic:* הַמְטַמֵּא וְהַמְדַמֵּעַ וְהַמְנַסֵּךְ, דְּמָמוֹנָא הוּא, לִיתְנֵי!
+*Translation:* The Gemara asks further: **And one who causes** another’s *teruma* **to become ritually impure, and one who mixes** *teruma* with another’s non-sacred food, **and one who pours** another’s wine **as a libation** for idolatry, each of **which is** a case in which the offender must pay **monetary restitution** to compensate the owner for his loss due to the lowered value of his food or wine, **let** Rabbi Oshaya **teach** them as categories in his list.
+
+**8.**
+*Hebrew/Aramaic:* מָה נַפְשָׁךְ; אִי הֶיזֵּק שֶׁאֵינוֹ נִיכָּר שְׁמֵיהּ הֶיזֵּק – הָא תְּנָא לֵיהּ נֵזֶק, אִי הֶיזֵּק שֶׁאֵינוֹ נִיכָּר לָא שְׁמֵיהּ הֶיזֵּק – הָוֵה לֵיהּ קְנָסָא, וּבִקְנָסָא לָא קָמַיְירֵי.
+*Translation:* The Gemara answers: **Whichever way you** look at it, these cases should not be listed. **If** Rabbi Oshaya holds that **damage that is not evident,** i.e., where the object is physically unchanged but its halakhic status is changed, **is characterized as damage** for which one is liable to pay restitution, Rabbi Oshaya already **taught,** i.e., included in his list, restitution for **damage,** and **if** he holds that **damage that is not evident is not characterized as damage** for which one is liable to pay restitution, then **it is a fine, and,** as explained, **with regard to** cases for which one is liable to pay **a fine,** Rabbi Oshaya **does not speak.**
+
+**9.**
+*Hebrew/Aramaic:* לֵימָא קָסָבַר רַבִּי חִיָּיא הֶיזֵּק שֶׁאֵינוֹ נִיכָּר לָא שְׁמֵיהּ הֶיזֵּק? דְּאִי שְׁמֵיהּ הֶיזֵּק, הָא תְּנָא לֵיהּ נֵזֶק! תְּנָא הֶיזֵּקָא דְּמִינַּכְרָא, וּתְנָא הֶיזֵּקָא דְּלָא מִינַּכְרָא.
+*Translation:* The Gemara suggests: Since Rabbi Ḥiyya lists these cases as distinct categories, **let us say** that **Rabbi Ḥiyya holds** that **damage that is not evident is not characterized as damage** for which one is liable to pay restitution, **as, if it were characterized as damage** for which one is liable to pay restitution, **didn’t** he already **teach,** i.e., include in his list, restitution for **damage?** The Gemara rejects that suggestion: Even if he holds that damage that is evident is characterized as damage for which one is liable to pay restitution, he distinguishes between different types of damage. He **teaches** cases of **damage that is evident and** he **teaches** cases of **damage that is not evident.**
+
+**10.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְתַנָּא דִּידַן, תְּנָא מִנְיָינָא – לְמַעוֹטֵי דְּרַבִּי אוֹשַׁעְיָא, וְרַבִּי אוֹשַׁעְיָא תְּנָא מִנְיָינָא – לְמַעוֹטֵי דְּרַבִּי חִיָּיא. אֶלָּא מִנְיָינָא דְּרַבִּי חִיָּיא, לְמַעוֹטֵי מַאי?
+*Translation:* The Gemara considers the fact that each of the lists of primary categories is introduced with the number that they total: **Granted, according to the *tanna* of our** mishna, he **taught the number** of four primary categories in introducing his list **to exclude** those additional categories **of Rabbi Oshaya. And** similarly, **Rabbi Oshaya taught the number** of thirteen primary categories **to exclude** those additional categories **of Rabbi Ḥiyya. But what** does **the number** of twenty-four primary categories **of Rabbi Ḥiyya** serve **to exclude?**
+
+**11.**
+*Hebrew/Aramaic:* לְמַעוֹטֵי מוֹסֵר וּמְפַגֵּל.
+*Translation:* The Gemara answers: He taught that number in order **to exclude** the cases of **an informer,** who provides information to the authorities leading them to confiscate another person’s property; **and** to exclude the case of a priest who **renders** an offering ***piggul*** by performing the sacrificial rites for one offering with the intent to sacrifice it for the sake of another offering, in which case the person who brought the offering must replace it with another.
+
+**12.**
+*Hebrew/Aramaic:* וְלִיתְנֵי! בִּשְׁלָמָא מְפַגֵּל – בְּקָדָשִׁים לָא קָמַיְירֵי. אֶלָּא מוֹסֵר, מַאי טַעְמָא לָא תָּנֵי? שָׁאנֵי מוֹסֵר – דְּדִיבּוּרָא, וּבְדִיבּוּרָא לָא קָמַיְירֵי.
+*Translation:* The Gemara asks: **And let** Rabbi Ḥiyya **teach** these cases. **Granted,** he did not include the case of a priest **who renders** an offering ***piggul*.** Perhaps, **with regard to** cases involving **consecrated** items, Rabbi Ḥiyya **does not speak. But** with regard to the case of **an informer, what is the reason** Rabbi Ḥiyya **did not teach it** and include it in his list of categories? The Gemara answers: The case of **an informer is different, as** the damage is caused through **speech, and with regard to** damage caused through **speech,** Rabbi Ḥiyya **does not speak.**
+
+**13.**
+*Hebrew/Aramaic:* וְהָא מוֹצִיא שֵׁם רַע, דְּדִיבּוּרָא הוּא, וְקָתָנֵי! דִּיבּוּרָא דְּאִית בֵּיהּ מַעֲשֶׂה הוּא.
+*Translation:* The Gemara asks: **But isn’t** there the case of **a defamer, where** the damage **is** caused through **speech, and** yet Rabbi Ḥiyya **teaches** it and includes it in his list? The Gemara answers: He includes that case because **it is** a case of **speech that involves an action.** One who defames his wife is liable only if he made his allegation after engaging in intercourse with her.
+
+**14.**
+*Hebrew/Aramaic:* וְהָא עֵדִים זוֹמְמִין – דִּיבּוּרָא דְּלֵית בֵּיהּ מַעֲשֶׂה הוּא, וְקָתָנֵי! הָתָם, אַף עַל גַּב דְּלֵית בֵּיהּ מַעֲשֶׂה, רַחֲמָנָא קַרְיֵיהּ מַעֲשֶׂה – דִּכְתִיב: ״וַעֲשִׂיתֶם לוֹ כַּאֲשֶׁר זָמַם לַעֲשׂוֹת לְאָחִיו״.
+*Translation:* The Gemara asks: **But isn’t** the case of **conspiring witnesses** a case of **speech that involves no action,** as they are liable for their testimony, **and** Rabbi Ḥiyya **teaches** it and includes it in his list? The Gemara answers: **There, although it involves no action, the Merciful One characterizes it** as **an action, as it is written: “And you shall do to him as he conspired to do unto his brother”** (Deuteronomy 19:19).
+
+**15.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְתַנָּא דִּידַן, תַּנָּא ״אָבוֹת״ – מִכְּלָל דְּאִיכָּא תּוֹלְדוֹת; אֶלָּא לְרַבִּי חִיָּיא וְרַבִּי אוֹשַׁעְיָא, ״אָבוֹת״ – מִכְּלָל דְּאִיכָּא תּוֹלְדוֹת?! תּוֹלְדוֹתֵיהֶן מַאי נִיהוּ?
+*Translation:* The Gemara considers the subcategories of the various primary categories listed: **Granted, according to the *tanna* of our** mishna, his terminology is understandable, as **he taught primary categories,** which, **by inference,** means **that there are** also additional forms of damage that are **subcategories** of those primary categories. **But** according **to Rabbi Ḥiyya and Rabbi Oshaya,** why did they employ the terminology they employed? They employed the term **primary categories,** which, **by inference,** means **that there are subcategories. What are the subcategories** of the primary categories they listed? It appears that they enumerated all the various categories of damage.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֲבָהוּ: כּוּלָּן כְּאָבוֹת לְשַׁלֵּם מִמֵּיטַב.
+*Translation:* **Rabbi Abbahu says:** When Rabbi Ḥiyya and Rabbi Oshaya characterize, as primary categories, the various categories of damage that they listed, it is not to indicate that there are subcategories; rather, it is to indicate that **all of them are characterized as primary categories,** in the sense that one is liable **to pay from** one’s **best**-quality property.
+
+**17.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אַתְיָא ״תַּחַת״, ״נְתִינָה״, ״יְשַׁלֵּם״, ״כֶּסֶף״.
+*Translation:* The Gemara asks: **What is the reason** for this, i.e., from where is it derived? The Gemara explains: It **is derived** using a verbal analogy from the terms **“in place of,” “giving,” “he shall pay,”** and **“money.”** The term “in place of” is written with regard to a forewarned ox that gores (Exodus 21:36); “he shall give” is written with regard to an ox that kills a slave (Exodus 21:32); “he shall pay” is written with regard to the categories of damage of Eating and Trampling (Exodus 22:4); and “money” is written with regard to Pit (Exodus 21:34). The *halakha* that one must pay from his best-quality property is stated explicitly in each of those four verses. In each of the twenty-four categories listed by Rabbi Ḥiyya one of those four terms is written, so by means of a verbal analogy, the requirement to pay from one’s best-quality property applies to each of them.
+
+**18.**
+*Hebrew/Aramaic:* לֹא הֲרֵי הַשּׁוֹר כַּהֲרֵי הַמַּבְעֶה. מַאי קָאָמַר? אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא: הָכִי קָאָמַר – לִכְתּוֹב רַחֲמָנָא חֲדָא, וְתֵיתֵי אִידַּךְ מִינֵּיהּ; הֲדַר אֲמַר: חֲדָא מֵחֲדָא לָא אָתְיָא.
+*Translation:* § The mishna states: The defining characteristic of **the** primary category of **Ox is not similar to** the defining characteristic of **the** primary category of ***Maveh*.** The Gemara asks: **What is** the mishna **saying? Rav Zevid said in the name of Rava** that **this is** what the mishna **is saying: Let the Merciful One write one** of the primary categories **and derive the other** categories **from it. Then** the *tanna* **says:** It is **not** possible to **derive one** category **from one** other category, as each category has its unique characteristics.
+
+**19.**
+*Hebrew/Aramaic:* וְלֹא זֶה וָזֶה שֶׁיֵּשׁ בָּהֶן רוּחַ חַיִּים. מַאי קָאָמַר? אָמַר רַב מְשַׁרְשְׁיָא מִשְּׁמֵיהּ דְּרָבָא: הָכִי קָאָמַר –
+*Translation:* The mishna continues: **And** the defining characteristics of **this** category of Ox **and that** category of *Maveh*, **in which there is a living spirit,** are not similar to the defining characteristic of the category of Fire, in which there is no living spirit. The Gemara asks: **What is** the *tanna* **saying? Rav Mesharshiyya said in the name of Rava** that **this is** what the *tanna* **is saying:**

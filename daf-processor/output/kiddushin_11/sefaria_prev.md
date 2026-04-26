@@ -1,0 +1,61 @@
+### Kiddushin 10b
+
+**1.**
+*Hebrew/Aramaic:* לְטַמֵּא מִשְׁכָּב תַּחְתּוֹן כְּעֶלְיוֹן,
+*Translation:* And he **renders impure the object upon which he lies like the upper one.** One who engages in sexual intercourse with a menstruating woman renders the objects upon which he lies ritually impure even if he has no direct contact with them.
+
+**2.**
+*Hebrew/Aramaic:* וְאִם נִישֵּׂאת לְכֹהֵן – אוֹכֶלֶת בִּתְרוּמָה, וְאִם בָּא עָלֶיהָ אֶחָד מִכׇּל עֲרָיוֹת שֶׁבַּתּוֹרָה – מוּמָתִין עַל יָדָהּ, וְהִיא פְּטוּרָה. וְאִם בָּא עָלֶיהָ אֶחָד מִן הַפְּסוּלִין – פְּסָלָהּ מִן הַכְּהוּנָּה.
+*Translation:* **And if she marries a priest she may partake of *teruma*** from that point onward. **And if one of those with whom sexual relations are forbidden by the Torah** (see Leviticus, chapter 18) **engages in intercourse with her, he is put to death due to** his sin with **her, and she is exempt** from punishment as a minor. **And if someone of unfit** lineage, i.e., a man who would disqualify her from marrying a priest if he engaged in sexual intercourse with her, **engages in intercourse with her, he has disqualified her from** marrying into **the priesthood.** This concludes the *baraita*.
+
+**3.**
+*Hebrew/Aramaic:* קָתָנֵי ״בִּיאָה״, וְקָתָנֵי ״נִישֵּׂאת״! הָכִי קָאָמַר: אִי הָנֵי נִשּׂוּאִין דְּכֹהֵן נִינְהוּ – אוֹכֶלֶת בִּתְרוּמָה.
+*Translation:* The Gemara analyzes this source. **It is taught** in that *baraita*: She can be betrothed through **sexual intercourse, and it is taught** separately: And if **she marries** a priest. This indicates that intercourse does not effect marriage. The Gemara rejects this: **This is what** the *baraita* **said: If this** betrothal through intercourse **is a marriage to a priest, she may partake of *teruma*.** It is possible that there are not two separate stages here but a single action, as sexual intercourse effects marriage.
+
+**4.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: וּכְבָר שָׁלַח יוֹחָנָן בֶּן בַּג בַּג אֵצֶל רַבִּי יְהוּדָה בֶּן בְּתִירָה לִנְצִיבִין: שָׁמַעְתִּי עָלֶיךָ שֶׁאַתָּה אוֹמֵר אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה. שָׁלַח לוֹ: וְאַתָּה אִי אַתָּה אוֹמֵר כֵּן? מוּחְזְקַנִי בְּךָ שֶׁאַתָּה בָּקִי בְּחַדְרֵי תוֹרָה, לִדְרוֹשׁ בְּקַל וָחוֹמֶר אִי אַתָּה יוֹדֵעַ?!
+*Translation:* **Come** and **hear** a proof from a *baraita*: **And Yoḥanan ben Bag Bag already sent** a message **to Rabbi Yehuda ben Beteira in** the city of **Netzivin: I heard about you that you say** that **the daughter of a non-priest betrothed** to a priest **may partake of *teruma*.** Rabbi Yehuda ben Beteira **sent** back this reply **to him: And do you not say so? I know about you that you are an expert in** many **areas of Torah; do you not know how to teach** *halakhot* **based on an *a fortiori*** inference?
+
+**5.**
+*Hebrew/Aramaic:* וּמָה שִׁפְחָה כְּנַעֲנִית, שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – כַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, זוֹ, שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה? אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה עַד שֶׁתִּכָּנֵס לַחוּפָּה.
+*Translation:* The *a fortiori* inference is as follows: **If** in the case of **a Canaanite maidservant, whose sexual intercourse** with a priest **does not allow her to partake of *teruma*,** as she is not betrothed to him, **her money,** i.e., if a priest acquires her through money, **allows her to partake of *teruma*, is it not logical** with regard to **this** betrothed woman, **whose sexual intercourse** with a priest **allows her to partake of *teruma*,** that **her** betrothal **money** from the priest should **allow her to partake of *teruma*?** If this is indeed the case, the daughter of a non-priest betrothed to a priest should be permitted to partake of *teruma*. **But what can I do, as the Sages said:** By rabbinic law, **the daughter of a non-priest betrothed** to a priest **may not partake of *teruma* until she enters the** wedding **canopy.**
+
+**6.**
+*Hebrew/Aramaic:* הֵיכִי דָמֵי? אִי בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁעַל יְדֵי חוּפָּה – בְּתַרְוַיְיהוּ מֵיכָל אָכְלָה!
+*Translation:* The Gemara clarifies: **What are the circumstances** of the comparison between money and sexual intercourse? **If** it is referring to a case **of sexual intercourse by means of** a wedding **canopy,** i.e., after they are married, **and** betrothal through **money** where the marriage is then completed **by means of** a wedding **canopy, in both** cases **she may partake of** *teruma* even by rabbinic law, as she is a full-fledged married woman.
+
+**7.**
+*Hebrew/Aramaic:* וְאֶלָּא, בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה – הָכָא תַּרְתֵּי, וְהָכָא חֲדָא! אֶלָּא לָאו בְּבִיאָה שֶׁלֹּא עַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה.
+*Translation:* **Or rather** one could say that this comparison is referring to **sexual intercourse by means of** a wedding **canopy, and** betrothal through **money not by means of** a wedding **canopy.** If so, the *a fortiori* inference is not valid, as **here,** in the case of intercourse, there are **two** stages of acquisition, intercourse followed by the wedding canopy, **and here,** in the case of money, there is only **one** stage. **Rather, is it not** correct to say that the comparison between money and intercourse is referring **to sexual intercourse not by means of** a wedding **canopy and** also **money not by means of** a wedding **canopy?**
+
+**8.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא נִשּׂוּאִין עוֹשָׂה – מִשּׁוּם הָכִי פְּשִׁיטָא לֵיהּ דַּאֲלִימָא לַהּ בִּיאָה מִכֶּסֶף. אֶלָּא אִי אָמְרַתְּ קִדּוּשִׁין עוֹשָׂה, מַאי שְׁנָא הָכָא דִּפְשִׁיטָא לֵיהּ, וּמַאי שְׁנָא הָכָא דִּמְסַפְּקָא לֵיהּ?
+*Translation:* **Granted, if you say** that intercourse by itself **effects marriage,** it is **due to that** reason that it **is obvious to** Rabbi Yehuda ben Beteira **that** the mode of **sexual intercourse is stronger than money,** and allows her to partake of *teruma*. **But if you say** that sexual intercourse **effects** only **betrothal, what is different here,** in the case of betrothal through intercourse, **that it is obvious to him** that it allows her to partake of *teruma*, **and what is different here,** in the case of betrothal through money, **that he is uncertain** and must derive the matter through an *a fortiori* inference? In both cases she is only betrothed.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: לְעוֹלָם אֵימָא לָךְ בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה. וּדְקָאָמְרַתְּ: ״הָכָא תַּרְתֵּי וְהָכָא חֲדָא״ – קַל וָחוֹמֶר מִיהָא אִיתֵיהּ;
+*Translation:* **Rav Naḥman bar Yitzḥak said: Actually, I will say to you** that he is speaking **about sexual intercourse by means of** a wedding **canopy and money not by means of** a wedding **canopy. And** as for **that which you said** in opposition to this *a fortiori* inference: **Here** there are **two** stages of acquisition, **and here** there is only **one** stage. **In any event, there is** a valid ***a fortiori*** inference.
+
+**10.**
+*Hebrew/Aramaic:* וְהָכִי שְׁלַח לֵיהּ: וּמָה שִׁפְחָה כְּנַעֲנִית, שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה אֲפִילּוּ עַל יְדֵי חוּפָּה – כַּסְפָּהּ מַאֲכִילָתָהּ בְּלֹא חוּפָּה, זוֹ, שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה עַל יְדֵי חוּפָּה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה בְּלֹא חוּפָּה?
+*Translation:* **And this is what** Rabbi Yehuda ben Beteira **sent him,** i.e., his statement should be understood as follows: **If a Canaanite maidservant, whose intercourse** with a priest **does not allow her to partake of *teruma*, even by means of** a wedding **canopy,** and yet **her money allows her to partake** of *teruma* **without** the means of a wedding **canopy, is it not logical** with regard to **this** betrothed woman, **whose intercourse** with a priest **allows her to partake of *teruma* by means of** a wedding **canopy,** that **her** betrothal **money** from the priest should **allow her to partake of *teruma* without** the means of a wedding **canopy?**
+
+**11.**
+*Hebrew/Aramaic:* אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה עַד שֶׁתִּכָּנֵס לַחוּפָּה, מִשּׁוּם דְּעוּלָּא.
+*Translation:* **But what can I do, as the Sages said:** By rabbinic law, **the daughter of a non-priest betrothed** to a priest **may not partake of *teruma* until she enters the** wedding **canopy, due to** the reason stated **by Ulla.** According to Ulla, there is a concern that she may feed her siblings or members of her family *teruma* while she is still living in her father’s house.
+
+**12.**
+*Hebrew/Aramaic:* וּבֶן בַּג בַּג? גַּבֵּי שִׁפְחָה כְּנַעֲנִית לָא שַׁיַּיר בְּקִנְיָנַהּ, הָכָא, שַׁיֵּיר בְּקִנְיָנַהּ.
+*Translation:* **And ben Bag Bag** explains why one cannot accept this *a fortiori* inference involving a Canaanite maidservant: **With regard to a Canaanite maidservant** who is purchased with money, the buyer **does not leave out** anything **from her acquisition,** i.e., he completes the purchase in full. **Here,** in the case of betrothal, **he leaves out** part **of her acquisition,** as the stage of marriage has yet to be performed. Therefore, these two cases are dissimilar.
+
+**13.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: מִדְּאוֹרָיְיתָא – מִיפְשָׁט פְּשִׁיטָא לֵיהּ דְּאָכְלָה, וּמִדְּרַבָּנַן הוּא דִּשְׁלַח לֵיהּ.
+*Translation:* **Ravina said** that **by Torah law, it is obvious to** Yoḥanan ben Bag Bag **that** she **may partake of** *teruma* also when she is betrothed to a priest through money alone, as she is acquired with his money. **And** the question **that he sent him** is referring to the *halakha* **by rabbinic law.**
+
+**14.**
+*Hebrew/Aramaic:* וְהָכִי שְׁלַח לֵיהּ: שָׁמַעְתִּי עָלֶיךָ שֶׁאַתָּה אוֹמֵר אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה, וְלָא חָיְישַׁתְּ לְסִימְפּוֹן. שְׁלַח לֵיהּ: וְאַתָּה אִי אַתָּה אוֹמֵר כֵּן? מוּחְזְקַנִי בְּךָ שֶׁאַתָּה בָּקִי בְּחַדְרֵי תוֹרָה, לִדְרוֹשׁ בְּקַל וָחוֹמֶר אִי אַתָּה יוֹדֵעַ?!
+*Translation:* Ravina elaborates: **And this is** the question **that he sent to him: I heard about you that you say** that in practice **the daughter of a non-priest betrothed** to a priest **may partake of *teruma*, and we are not concerned about an annulling factor [*simfon*],** i.e., that he might find some blemish in her through which the betrothal would be considered retroactively invalid. If so, she would have eaten *teruma* when she was not permitted to do so. And it was with regard to this issue that Rabbi Yehuda ben Beteira **sent to him: And do you not say this? I know about you that you are an expert in** many **areas of Torah; do you not know how to teach** *halakhot* **based on an *a fortiori*** inference?
+
+**15.**
+*Hebrew/Aramaic:* וּמָה שִׁפְחָה כְּנַעֲנִית שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – כַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלָא חָיְישִׁינַן לְסִימְפּוֹן, זוֹ שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלֹא נֵיחוּשׁ לְסִימְפּוֹן? אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֲרוּסָה בַּת יִשְׂרָאֵל אֵינָהּ אוֹכֶלֶת בִּתְרוּמָה
+*Translation:* The *a fortiori* inference is as follows: **If a Canaanite maidservant, whose** engaging in **intercourse** with a priest **does not allow her to partake of *teruma*,** and yet **her** receiving purchase **money allows her to partake of *teruma*, and we are not concerned about *simfon*,** i.e., that the Canaanite maidservant may have some physical blemish that nullifies her purchase retroactively, **is it not logical** with regard to **this** betrothed woman, **whose intercourse** with a priest **allows her to partake of *teruma*, that her** receiving betrothal **money** from the priest should **allow her to partake of *teruma*** even before entering the wedding canopy, **and we should not be concerned about *simfon*? But what can I do, as the Sages said:** By rabbinic law **the daughter of a non-priest betrothed** to a priest **may not partake of *teruma***

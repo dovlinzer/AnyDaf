@@ -17,7 +17,11 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.draw.clip
@@ -166,11 +170,16 @@ fun ShiurTextView(
     val blueMode = LocalIsBlueMode.current
     // Amber on blue background or dark theme; brand blue on white/parchment light theme
     val sourceWordColor = if (blueMode || isSystemInDarkTheme()) Amber else AppBlue
-    val blocks = remember(rewriteText) { parseShiurBlocks(rewriteText) }
+    // Parse off the main thread — large texts can block the composition thread long
+    // enough to trigger an ANR.
+    val blocks by produceState<List<ShiurBlock>>(emptyList(), rewriteText) {
+        value = withContext(Dispatchers.Default) { parseShiurBlocks(rewriteText) }
+    }
     val listState = rememberLazyListState()
 
-    // Scroll to the current segment's header block whenever the index changes.
-    LaunchedEffect(currentSegmentIndex) {
+    // Scroll to the active segment whenever the index changes OR blocks finish loading.
+    LaunchedEffect(blocks, currentSegmentIndex) {
+        if (blocks.isEmpty()) return@LaunchedEffect
         val idx = blocks.indexOfFirst { it is ShiurBlock.Header2 && it.segIdx == currentSegmentIndex }
         if (idx >= 0) listState.animateScrollToItem(idx)
     }
@@ -215,6 +224,7 @@ fun ShiurTextView(
                     Text(
                         text = italicLatinAnnotatedString(block.text),
                         style = MaterialTheme.typography.bodyMedium,
+                        color = if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface,
                         lineHeight = MaterialTheme.typography.bodyMedium.lineHeight * 1.35f,
                         modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
                     )

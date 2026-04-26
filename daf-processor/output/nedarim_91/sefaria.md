@@ -1,0 +1,66 @@
+### Nedarim 91a
+
+**1.**
+*Hebrew/Aramaic:* וְגַבְרָא הוּא דְּנִסְתַּחֲפָה שָׂדֵהוּ. וְאָמְרִינַן לֵיהּ, מַתְנִיתִין הִיא: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״ — יֵשׁ לָהּ כְּתוּבָּה.
+*Translation:* **And it is the man,** her husband, **whose field was flooded.** In other words, like one whose field was flooded and destroyed, it is he who has suffered a natural disaster, as it is his status as a priest that forces him to divorce his wife. Therefore, she is entitled to receive payment of her marriage contract. **And we said to** Rava, in response to his question: The answer to your question **is** found in **the mishna,** which states: A woman **who says** to her husband: **I am defiled to you,** is entitled to **receive** payment of her **marriage contract.**
+
+**2.**
+*Hebrew/Aramaic:* בְּמַאי עָסְקִינַן? אִילֵימָא בְּאֵשֶׁת יִשְׂרָאֵל, אִי בְּרָצוֹן — כְּלוּם יֵשׁ לָהּ כְּתוּבָּה? וְאִי בְּאוֹנֶס — מִי קָא מִיתַּסְרָא עַל גַּבְרָא? וְאֶלָּא בְּאֵשֶׁת כֹּהֵן. אִי בְּרָצוֹן — כְּלוּם יֵשׁ לָהּ כְּתוּבָּה? מִי גָּרְעָה מֵאֵשֶׁת יִשְׂרָאֵל בְּרָצוֹן? אֶלָּא לָאו: בְּאוֹנֶס, וְקָתָנֵי: יֵשׁ לָהּ כְּתוּבָּה.
+*Translation:* The Gemara analyzes the mishna: **With what are we dealing? If we say** the mishna is speaking **of the wife of an Israelite,** consider the following: **If** she claims that she engaged in sexual intercourse **willingly, does she have any** right to receive payment of her **marriage contract? And if** she says it was **by force,** i.e., she was raped, **is she** thereby **forbidden to the man,** i.e., her husband? **But rather,** the mishna must be referring to **the wife of a priest.** Again, what are the circumstances? **If** she claims that she engaged in sexual intercourse **willingly, does she have any** right to receive payment of her **marriage contract? Is her** law **any less** stringent **than** that of **the wife of an Israelite** who **willingly** engaged in sexual intercourse with another man? **Rather, is it not** that the sexual intercourse was **by force? And** the *tanna* **teaches** that **she has** a right to receive payment of her **marriage contract.** This answers Rava’s question.
+
+**3.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: אָמְרָה לְבַעְלָהּ ״גֵּרַשְׁתַּנִי״, מַהוּ? אָמַר רַב הַמְנוּנָא: תָּא שְׁמַע: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי לָךְ״, דַּאֲפִילּוּ לְמִשְׁנָה אַחֲרוֹנָה דְּקָתָנֵי לָא מְהֵימְנָא — הָתָם הוּא דִּמְשַׁקְּרָה, דְּיָדְעָה דְּבַעְלַהּ לָא יָדַע בָּהּ. אֲבָל גַּבֵּי ״גֵּרַשְׁתַּנִי״ דְּיָדַע בָּהּ — מְהֵימְנָא, דַּחֲזָקָה אֵין אִשָּׁה מְעִיזָּה פָּנֶיהָ בִּפְנֵי בַּעְלָהּ.
+*Translation:* § **A dilemma was raised before** the Sages: If a woman **said to her husband: You divorced me, what is** the *halakha*? Is she believed or not? **Rav Hamnuna said: Come** and **hear** an answer to this question from what is stated in the mishna about a woman **who says: I am defiled to you, that even according to the ultimate** version of the **mishna that teaches** that **she is not believed** in her claim, it may be argued that **it is** only **there that she is** suspected of **lying** when she claims to have been defiled, **as she knows that her husband does not know** the truth **about her.** She is relating an incident that supposedly occurred in his absence. **But concerning** the claim: **You divorced me, with regard to which he knows** the truth **about** whether or not he actually divorced **her,** she **is believed.** Why? **Because** the court relies on the **presumption that a woman is not brazen** enough to lie **in the presence of her husband** and present a claim that he knows is patently false.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: אַדְרַבָּא, אֲפִילּוּ לְמִשְׁנָה רִאשׁוֹנָה דְּקָתָנֵי מְהֵימְנָא — הָתָם מִשּׁוּם דְּלָא עֲבִידָא לְבַזּוֹיֵי נַפְשַׁהּ, אֲבָל הָכָא דְּזִמְנִין דִּתְקִיף לַהּ מִן גַּבְרָא — מְעִיזָּה וּמְעִיזָּה.
+*Translation:* **Rava said to him: On the contrary, even according to the initial** version of the **mishna that teaches** that the woman **is believed** in her claim that she is defiled to her husband, it may be argued that it is only **there** that she is believed, **because** a woman **would not demean herself** by claiming she was raped if she were not telling the truth. **But here, where it is sometimes hard for her under** the authority of **the man,** i.e., her husband, **she would be brazen** to his face, and therefore the court does not believe her.
+
+**5.**
+*Hebrew/Aramaic:* מֵתִיב רַב מְשַׁרְשְׁיָא: ״הַשָּׁמַיִם בֵּינִי לְבֵינָךְ״ דְּמִשְׁנָה רִאשׁוֹנָה — תְּיוּבְתָּא דְּרָבָא, הָכָא דְּלֵית לַהּ כִּיסּוּפָא, וְקָתָנֵי דִּמְהֵימְנָא! קָסָבַר רָבָא: הָתָם, כֵּיוָן דְּלָא סַגִּי לַהּ דְּלָא אָמְרָה ״אֵין יוֹרֶה כְּחֵץ״, אִי לָא אִיתָא כִּדְקָאָמְרָה — לָא אָמְרָה לֵיהּ.
+*Translation:* **Rav Mesharshiyya raised an objection:** Let the ruling **of** the **initial** version of the **mishna,** with regard to a woman who says: **Heaven is between me and you,** be a **conclusive refutation of** the opinion of **Rava,** as **here she** suffers **no embarrassment** on account of her claim, **and** yet the *tanna* **teaches that** she **is believed.** The Gemara answers: **Rava maintains** that **there, since it is not sufficient for her** if she does **not state** in precise detail her claim that **he does not shoot like an arrow,** i.e., his semen is not emitted forcefully, then, **were it not as she said, she would not say it.** She would be too ashamed to speak of such things before the court. It is for this reason that she is believed.
+
+**6.**
+*Hebrew/Aramaic:* ״הַשָּׁמַיִם בֵּינִי לְבֵינָךְ״ דְּמִשְׁנָה אַחֲרוֹנָה, תִּהְוֵי תְּיוּבְתָּא דְּרַב הַמְנוּנָא: וְהָא הָכָא דְּיָדְעָה הִיא, וּבַעְלַהּ יָדַע בַּהּ, וְקָתָנֵי דְּלָא מְהֵימְנָא!
+*Translation:* The Gemara further comments: Let the ruling **of** the **ultimate** version of the **mishna,** with regard to a woman who says: **Heaven is between me and you, be** a **conclusive refutation of** the opinion of **Rav Hamnuna,** who maintains that a woman who claims that her husband divorced her is believed. **But here,** as in the case of the alleged divorce, **she knows and her husband** also **knows with regard to her** whether or not she is lying, **and** yet the *tanna* of the mishna **teaches that she is not believed.**
+
+**7.**
+*Hebrew/Aramaic:* קָסָבַר רַב הַמְנוּנָא: הָכָא נָמֵי הִיא גּוּפָא אָמְרָה: נְהִי דִּבְבִיאָה יָדַע, בְּיוֹרֶה כְּחֵץ מִי יָדַע? וּמִשּׁוּם הָכִי מְשַׁקְּרָא.
+*Translation:* The Gemara answers: **Rav Hamnuna maintains** that **here too,** the woman **herself says** in her heart: **Though he may know** whether or not we engaged **in sexual intercourse, does he know** whether or not **he shoots like an arrow? And** it is **due to that** reason that **she lies.** Since the woman can make a false claim against her husband without having to fear that he will contradict her, she is not believed. A similar point cannot be made in the case of an alleged divorce, as the husband knows whether or not he divorced his wife, and therefore a woman who claims that her husband divorced her is believed.
+
+**8.**
+*Hebrew/Aramaic:* הָהִיא אִיתְּתָא דְּכׇל יוֹמָא דְּתַשְׁמִישׁ מִיקַדְּמָה מָשְׁיָא יְדֵיהּ לְגַבְרָא. יוֹמָא חַד אַתְיָא לֵיהּ מַיָּא לְמִמְשֵׁא. אֲמַר לַהּ: הָדָא מִילְּתָא לָא הֲוָת הָאִידָּנָא! אֲמַרָה לֵיהּ: אִם כֵּן, חַד מִן נׇכְרִים
+*Translation:* § It is related that there was **a certain woman, who** on **every day of** engaging in **sexual intercourse** with her husband, **would rise early** in the morning **and wash** her **husband’s hands. One day she brought him water to wash** his hands, in response to which **he said to her: This matter,** i.e., sexual intercourse, **did not occur now. She said to him: If so,** it may be that **one of** the **gentile**
+
+
+---
+
+### Nedarim 91b
+
+**1.**
+*Hebrew/Aramaic:* אַהֲלוֹיֵי דַּהֲווֹ הָכָא הָאִידָּנָא, אִי אַנְתְּ לָא — דִּלְמָא מִנְּהוֹן. אָמַר רַב נַחְמָן: עֵינֶיהָ נָתְנָה בְּאַחֵר, וְלֵית בַּהּ מְשָׁשָׁא בְּמִלַּהּ.
+*Translation:* **aloe merchants [*ahaloyei*] who were here** just **now** should be blamed; **if** it was **not you, perhaps** it was one **of them.** The case came before **Rav Naḥman,** who **said:** There is reason to suspect that **she might have cast her eyes upon another** man, **and** therefore **there is no substance to her words.** She lacks credibility and her statement is unreliable, and so she remains permitted to her husband.
+
+**2.**
+*Hebrew/Aramaic:* הָהִיא אִיתְּתָא דְּלָא הֲוָה בְּדִיחָא דַּעְתַּהּ בַּהֲדֵי גַּבְרָא. אֲמַר לַהּ: הָאִידָּנָא מַאי שְׁנָא? אֲמַרָה לֵיהּ: מֵעוֹלָם לָא צַעַרְתַּן בְּדֶרֶךְ אֶרֶץ כִּי הָאִידָּנָא. אֲמַר לַהּ: לָא הֲוָה הָדָא מִילְּתָא הָאִידָּנָא. אֲמַרָה לֵיהּ: אִם כֵּן הָלֵין נׇכְרִים נַפְטוֹיֵי דַּהֲווֹ הָכָא הָאִידָּנָא, אִי אַנְתְּ לָא — דִּלְמָא חַד מִנְּהוֹן. אֲמַר לְהוּ רַב נַחְמָן: לָא תַּשְׁגִּיחוּן בַּהּ, נוֹתֶנֶת עֵינֶיהָ בְּאַחֵר הֲוַאי.
+*Translation:* It is further related that there was **a certain woman who was displeased with** her **man. He said to her: What is different now?** What have I done to make you angry? **She said to him:** I am upset because **you never hurt me** while we were engaged **in proper relations as** you did just **now. He said to her: This matter did not occur now. She said to him: If so,** it may be that **one of** the **gentile oil merchants [*naftoyei*] who were here** just **now** should be blamed; **if** it was **not you, perhaps** it was one **of them. Rav Naḥman said to them: Take no notice of her; she has cast her eyes upon another** man, and her words are therefore unreliable.
+
+**3.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דַּהֲוָה מִהַרְזִיק בְּבֵיתָא הוּא וְאִינְתְּתָא. עָל אֲתָא מָרֵיהּ דְּבֵיתָא, פַּרְטֵיהּ נוֹאֵף לְהוּצָא וַעֲרַק. אָמַר רָבָא: אִיתְּתָא שַׁרְיָא. אִם אִיתָא דַּעֲבַד אִיסּוּרָא — אִרְכוֹסֵי הֲוָה מִירְכַס.
+*Translation:* The Gemara relates another incident about **a certain man who was secluding** himself **[*meharzeik*] in a house, he and a** certain married **woman.** When **the owner of the house entered, the adulterer burst through the wall of palm branches and fled. Rava said: The woman is permitted** to her husband. The assumption is that she did not sin, for **if it is so that** the man **had committed a transgression, he would have hidden** himself in the house instead of revealing his identity by escaping in the open.
+
+**4.**
+*Hebrew/Aramaic:* הָהוּא נוֹאֵף דְּעָל לְגַבֵּי דְּהָהִיא אִנְתְּתָא, אֲתָא גַּבְרָא, סְלֵיק נוֹאֵף אִיתִּיב [בִּכְלָאֵי] בָּבָא. הֲוָה מַחֲתָן תַּחְלֵי תַּמָּן וְטַעְמִינּוּן חִוְיָא. בְּעָא מָרֵי דְבֵיתָא לְמֵיכַל מִן הָנְהוּ תַּחְלֵי בְּלָא דַּעְתָּא דְּאִינְתְּתָא, אֲמַר לֵיהּ הָהוּא נוֹאֵף: לָא תֵּיכוּל מִנְּהוֹן דְּטַעְמִינּוּן חִוְיָא.
+*Translation:* The Gemara concludes with one final incident about **a certain adulterer who entered** the house **of a certain** married **woman.** When **the man,** i.e., her husband, **came** home, the **adulterer went and sat himself behind the door,** so that the husband would not know that he was there. **There was** some **cress [*taḥlei*] lying there** in the house, **and** the adulterer, but not the husband, saw that **a snake** had come and **tasted of it,** perhaps thereby contaminating it with its venom. **The master of the house wanted to eat from that cress, without the woman’s knowledge. The adulterer said to him: Do not eat from** the cress, **as a snake has tasted of it.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רָבָא: אִינְתְּתֵיהּ שַׁרְיָא, אִם אִיתֵיהּ דַּעֲבַד אִיסּוּרָא, נִיחָא לֵיהּ דְּלֵיכוֹל וְלֵימוּת, דִּכְתִיב: ״כִּי נִאֵפוּ וְדָם בִּידֵיהֶן״.
+*Translation:* The case was brought before **Rava,** who **said: His wife is permitted** to him, for **were it so that** the adulterer **had committed a transgression, it would have been preferable for him that** the husband should **eat** the cress **and die.** This is because one who commits adultery is also suspected of bloodshed, **as it is written: “For they have committed adultery and blood is on their hands”** (Ezekiel 23:37), indicating that adultery leads to murder.
+
+**6.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא: אִיסּוּרָא עֲבַד, וְהַאי דַּאֲמַר לֵיהּ דְּנִיחָא לֵיהּ דְּלָא לֵימוּת בַּעַל, דְּתֶהְוֵי אִינְתְּתֵיהּ עִלָּוֵיהּ ״מַיִם גְּנוּבִים יִמְתָּקוּ וְלֶחֶם סְתָרִים יִנְעָם״, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara comments: It **is obvious** that this is the case. What then does Rava come to teach us? The Gemara answers: Rava’s ruling is necessary, **lest you say** that the man did in fact **commit a transgression** with the other man’s wife, **and** the reason **that he said to** the husband that he should not eat and saved his life is **because it is preferable for him that the husband should not die.** This is in order **that his wife should be to him** as it says in the verse: **“Stolen waters are sweet, and bread eaten in secret is pleasant”** (Proverbs 9:17). That is to say, a person derives greater pleasure from forbidden fruit. Rava therefore **teaches us** that this is not a concern. Rather, the assumption is that he had not yet actually sinned and therefore acted in the proper manner.
+
+**7.**
+*Hebrew/Aramaic:* הַדְרָן עֲלָךְ וְאֵלּוּ נְדָרִים וּסְלִיקָא לַהּ מַסֶּכֶת נְדָרִים
+*Translation:* 

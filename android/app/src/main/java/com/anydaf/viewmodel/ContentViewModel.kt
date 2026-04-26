@@ -50,6 +50,9 @@ class ContentViewModel : ViewModel() {
     private val _shiurShowSources = MutableStateFlow(true)
     val shiurShowSources: StateFlow<Boolean> = _shiurShowSources.asStateFlow()
 
+    private val _studyShowHebrew = MutableStateFlow(false)
+    val studyShowHebrew: StateFlow<Boolean> = _studyShowHebrew.asStateFlow()
+
     private val _studyFontSize = MutableStateFlow(StudyFontSize.MEDIUM)
     val studyFontSize: StateFlow<StudyFontSize> = _studyFontSize.asStateFlow()
 
@@ -83,6 +86,7 @@ class ContentViewModel : ViewModel() {
             _quizMode.value = AppPreferences.quizMode.first()
             _sourceDisplayMode.value = AppPreferences.sourceDisplayMode.first()
             _shiurShowSources.value = AppPreferences.shiurShowSources.first()
+            _studyShowHebrew.value = AppPreferences.studyShowHebrew.first()
             _studyFontSize.value = AppPreferences.studyFontSize.first()
             _useWhiteBackground.value = AppPreferences.useWhiteBackground.first()
             _tabletRightPanelMode.value = AppPreferences.tabletRightPanel.first()
@@ -134,6 +138,11 @@ class ContentViewModel : ViewModel() {
     fun setShiurShowSources(enabled: Boolean) {
         _shiurShowSources.value = enabled
         viewModelScope.launch { AppPreferences.saveShiurShowSources(enabled) }
+    }
+
+    fun setStudyShowHebrew(enabled: Boolean) {
+        _studyShowHebrew.value = enabled
+        viewModelScope.launch { AppPreferences.saveStudyShowHebrew(enabled) }
     }
 
     fun setStudyFontSize(size: StudyFontSize) {

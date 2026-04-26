@@ -1,0 +1,17 @@
+### Nedarim 47a
+
+**1.**
+*Hebrew/Aramaic:* הָאוֹמֵר לַחֲבֵירוֹ וְכוּ׳. בָּעֵי אֲבִימִי: ״קֻוֽנָּם לְבַיִת זֶה שֶׁאַתָּה נִכְנָס״, מֵת אוֹ שֶׁמְּכָרוֹ לְאַחֵר, מַהוּ? אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ, אוֹ לָא?
+*Translation:* § The mishna teaches: With regard to one **who says to another:** Entering your house is *konam* for me, and the owner dies or sells the house, the prohibition is lifted. But if he said: Entering this house is *konam* for me, he remains prohibited from entering the house even after the owner dies or sells the house. **Avimi raises a dilemma:** If the owner of a house said: **Entering this house is *konam* for you,** and then **he died or sold it to another, what is** the *halakha*? Do we say that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession, or not?**
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רָבָא, תָּא שְׁמַע: הָאוֹמֵר לִבְנוֹ ״קֻוֽנָּם שֶׁאִי אַתָּה נֶהֱנֶה לִי״, וּמֵת — יִירָשֶׁנּוּ. ״בְּחַיָּיו וּבְמוֹתוֹ״, וּמֵת — לֹא יִירָשֶׁנּוּ. שְׁמַע מִינַּהּ אָדָם אוֹסֵר דָּבָר שֶׁבִּרְשׁוּתוֹ לִכְשֶׁיֵּצֵא מֵרְשׁוּתוֹ. שְׁמַע מִינַּהּ.
+*Translation:* **Rava said: Come** and **hear** a proof from a mishna (*Bava Kamma* 108b–109a): If **one says to his son: Benefiting from me is *konam* for you, and dies,** the son still **inherits** from **him.** If, however, the father explicitly states that benefit is forbidden both **in his lifetime and after his death, and dies,** the son **does not inherit** from **him.** Rava suggests: **Conclude from** the mishna that **a person** can **render an item in his possession forbidden** even **for** a time **after it will leave his possession.** The Gemara notes: **Conclude from** the mishna that this is so.
+
+**3.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: ״קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עָלַי״, ״קֻוֽנָּם הֵן עַל פִּי״, ״קֻוֽנָּם הֵן לְפִי״ — אָסוּר בְּחִילּוּפֵיהֶן וּבְגִידּוּלֵיהֶן.
+*Translation:* § **We learned** in a mishna **there** (57a): If one says: **This produce is *konam* upon me,** or: **It is *konam* upon my mouth,** or: **It is *konam* for my mouth,** he is **prohibited** from eating even **its replacements,** should they be traded or exchanged, **and** anything that **grows from it** if it is replanted.
+
+**4.**
+*Hebrew/Aramaic:* בָּעֵי רָמֵי בַּר חָמָא: אָמַר ״קֻוֽנָּם פֵּירוֹת הָאֵלּוּ עַל פְּלוֹנִי״, מַהוּ בְּחִילּוּפֵיהֶן? מִי אָמְרִינַן גַּבֵּי דִילֵיהּ, הוֹאִיל וְאָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל עַצְמוֹ, אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל עַצְמוֹ. גַּבֵּי חֲבֵירוֹ, הוֹאִיל וְאֵין אָדָם אוֹסֵר פֵּירוֹת חֲבֵירוֹ עַל חֲבֵירוֹ, אֵין אָדָם אוֹסֵר דָּבָר שֶׁלֹּא בָא לְעוֹלָם עַל חֲבֵירוֹ.
+*Translation:* **Rami bar Ḥama raises a dilemma:** If one **said: This produce is *konam* for so-and-so, what is** the *halakha* **with regard to their replacements? Do we say: With regard to himself, since a person can render another’s produce forbidden for himself,** though it is not presently in his possession, so too, **a person can render an entity that has not** yet **come into the world forbidden to himself?** Is this why the replacement produce and anything that grows from it is forbidden to him, even if it did not yet exist when he took the vow? If so, **with regard to another, since a person cannot render another’s produce forbidden to another,** i.e., to that owner himself, similarly **one cannot render an entity that has not** yet **come into the world forbidden to another.** The produce’s replacements would therefore be permitted to him.

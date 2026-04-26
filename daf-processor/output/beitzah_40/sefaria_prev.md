@@ -1,0 +1,45 @@
+### Beitzah 39b
+
+**1.**
+*Hebrew/Aramaic:* הֲרֵי אַתָּה עָלַי חֵרֶם — הַנּוֹדֵר אָסוּר. הֲרֵינִי עָלֶיךָ וְאַתָּה עָלַי — שְׁנֵיהֶם אֲסוּרִים זֶה בָּזֶה, וּמוּתָּרִין בְּשֶׁל עוֹלֵי בָבֶל, וַאֲסוּרִין בְּשֶׁל אוֹתָהּ הָעִיר.
+*Translation:* If he said to him: **You are hereby** prohibited **to me** by force of ***ḥerem*, the one making the vow is** himself **prohibited** to derive benefit from the addressee or from his property. If he said to him: **I am hereby** prohibited **to you** and **you to me** by force of *ḥerem*, **they are both prohibited** to benefit **from one another. And they are permitted** to benefit from anything belonging **to those who come up from Babylonia,** i.e., public property that is not owned by any person or group, **but they are prohibited** to benefit from property that is jointly owned by the inhabitants **of that city,** as both parties have a share in such items.
+
+**2.**
+*Hebrew/Aramaic:* וְאֵלּוּ הֵן דְּבָרִים שֶׁל עוֹלֵי בָבֶל: הַר הַבַּיִת, הַלְּשָׁכוֹת וְהָעֲזָרוֹת, וּבוֹר שֶׁל אֶמְצַע הַדֶּרֶךְ. וְאֵלּוּ הֵן שֶׁל אוֹתָהּ הָעִיר: הָרְחוֹב, וּבֵית הַכְּנֶסֶת, וּבֵית הַמֶּרְחָץ.
+*Translation:* That mishna provides examples: **And the following are items of those coming up from Babylonia,** i.e., publicly owned items: **The Temple Mount, the chambers, and the courtyards** on the Temple Mount, **and a cistern** situated **in the middle of the road. And these are** items jointly owned by the inhabitants **of that city: The street, and the synagogue, and the bathhouse.**
+
+**3.**
+*Hebrew/Aramaic:* וְאִי אָמְרַתְּ בֵּירָא דְשׁוּתָּפֵי הוּא, אַמַּאי מוּתָּר? וְהָתְנַן: הַשּׁוּתָּפִין שֶׁנָּדְרוּ הֲנָאָה זֶה מִזֶּה — אֲסוּרִים לִיכָּנֵס לֶחָצֵר לִרְחוֹץ בַּבּוֹר!
+*Translation:* Rava, having cited the mishna in full, concludes his challenge to the opinion of Rav Naḥman: **And if you say** that **a cistern** of those who come up from Babylonia, a public cistern, **is** owned jointly **by partners,** i.e., by all Jews, **why** should it be **permitted** for the one who made the vow and the addressee to use it? **But didn’t we learn** in a mishna (*Nedarim* 45b): Two **partners who took a vow** not to derive **benefit from one another are prohibited to enter** a joint **courtyard** in which they both have a share **to wash** themselves **in a cistern**. According to you, the same should apply to a cistern in which the two of them have a share, such as the cisterns of those who come up from Babylonia.
+
+**4.**
+*Hebrew/Aramaic:* לִרְחוֹץ הָכִי נָמֵי, וְהָכָא בְּמַאי עָסְקִינַן — לְמַלּאוֹת, מָר מִדִּידֵיהּ קָא מְמַלֵּא וּמַר מִדִּידֵיהּ קָא מְמַלֵּא.
+*Translation:* Rav Naḥman answered: Indeed that is the case. **So too,** they are prohibited **to wash** themselves in a cistern because when bathing one uses of all the water of the cistern, part of which belongs to the forbidden partner. **But** when the *baraita* says that a cistern of those who come up from Babylonia is permitted to both parties, **with what are we dealing here?** The *baraita* is referring only **to filling** water from the cistern. This is permitted because it is considered that **this one fills from his** portion, **and that one fills from his** portion. The water that each of them draws is considered retroactively designated exclusively for him, so that the partner has no share in it at all.
+
+**5.**
+*Hebrew/Aramaic:* וְסָבַר רַב נַחְמָן יֵשׁ בְּרֵירָה? וְהָתְנַן: הָאַחִין הַשּׁוּתָּפִין, כְּשֶׁחַיָּיבִין בַּקָּלְבּוֹן — פְּטוּרִין מִמַּעְשַׂר בְּהֵמָה.
+*Translation:* The Gemara asks: **And does Rav Naḥman hold** that **there is** retroactive **designation? But didn’t we learn** in a mishna (*Shekalim* 1:7): If **brothers** divided up inherited property among themselves and subsequently joined their property again and became **partners, they are obligated to** add **a *kalbon*,** a small coin, to the obligatory half-shekel yearly Temple donation. The *kalbon* covered both the cost to the Temple of exchanging half-shekels into larger coins and the depreciation of the donated coin. Although a whole shekel given by two partners does not need to be changed into a larger coin, the Sages imposed the same *kalbon* fee on the partners as on everyone else. However, these partners **are exempt from** the **animal tithe,** in accordance with the standard *halakha* that people who own animals in partnership are exempt from the animal tithe.
+
+**6.**
+*Hebrew/Aramaic:* וּכְשֶׁחַיָּיבִין בְּמַעְשַׂר בְּהֵמָה — פְּטוּרִין מִן הַקָּלְבּוֹן.
+*Translation:* The quote from the mishna continues: **And** in a situation in which the brothers are **liable for the animal tithe,** as when they have not yet divided up their inheritance, and all the deceased’s estate is therefore still considered a single unit and not a partnership, **they are exempt from the *kalbon*,** in accordance with the *halakha* that a father who contributes a single shekel for his two dependent sons does not need to add the *kalbon*.
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר רַב עָנָן: לֹא שָׁנוּ אֶלָּא שֶׁחָלְקוּ גְּדָיִם כְּנֶגֶד טְלָאִים וּטְלָאִים כְּנֶגֶד גְּדָיִם.
+*Translation:* **And Rav Anan said:** The Sages **taught** that the inherited property is no longer considered a single unit after the brothers divided it and then rejoined in a partnership **only when they divided kids against lambs or lambs against kids,** i.e., if one brother took kids and the other took a corresponding value of lambs. This kind of division is considered a commercial transaction, with one brother purchasing goats and paying for them with lambs and vice versa. Therefore, when they join their animals again as partners, it is considered an entirely new partnership.
+
+**8.**
+*Hebrew/Aramaic:* אֲבָל חָלְקוּ גְּדָיִם כְּנֶגֶד גְּדָיִם וּטְלָאִים כְּנֶגֶד טְלָאִים, אוֹמֵר: זֶהוּ חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **However,** if **they divided kids against kids and lambs against lambs,** meaning that each brother took an equal portion of each of the items they inherited, one can **say** of each brother’s portion: **This is his portion** destined to **reach him from the first moment,** from the time of the death of the deceased. If the brothers form their partnership again, the inheritance becomes a single unit again, and they are therefore obligated in the animal tithe and exempt from the *kalbon*.
+
+**9.**
+*Hebrew/Aramaic:* וְרַב נַחְמָן אָמַר: אֲפִילּוּ חָלְקוּ גְּדָיִם כְּנֶגֶד גְּדָיִם וּטְלָאִים כְּנֶגֶד טְלָאִים — אֵין אוֹמֵר: זֶה חֶלְקוֹ הַמַּגִּיעוֹ מִשָּׁעָה רִאשׁוֹנָה לְכָךְ.
+*Translation:* **But Rav Naḥman said: Even if they divided kids against kids and lambs against lambs,** one does **not say** that **this is his portion** destined to **reach him from the first moment.** This is because Rav Naḥman does not accept the principle of retroactive designation. Consequently, the resolution proposed previously for the issue of filling water from the cistern of those who come up from Babylonia is invalid.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא דְּכוּלֵּי עָלְמָא בֵּירָא דְהֶפְקֵרָא הִיא, אֶלָּא הָכָא בְּמַגְבִּיהַּ מְצִיאָה לַחֲבֵירוֹ קָא מִיפַּלְגִי. מָר סָבַר: קָנָה, וּמָר סָבַר: לָא קָנָה.
+*Translation:* The Gemara retracts its previous explanation of the disagreement between Rava and Rav Naḥman: **Rather, everyone agrees** that a cistern of those who come up from Babylonia, i.e., a public cistern, **is an ownerless cistern, but here they disagree over** a different issue: **One who picks up a found article** intending to acquire it **on behalf of his friend.** One **Sage,** Rav Naḥman, **holds** that if one picks up a found object on behalf of his friend, his friend **acquires** it through this act as though he had picked it up himself. The water of the ownerless cistern is like a found object. Therefore, if one draws water on behalf of another, the latter acquires it, and consequently the water is as his feet. **And** one **Sage,** Rav Sheshet, **holds** that when one picks up a found object for another, the latter **does not acquire it.** Rather, it belongs to the one who actually picked it up, and consequently the water is as the feet of the one who draws it.
+
+**11.**
+*Hebrew/Aramaic:* מַתְנִי׳ מִי שֶׁהָיוּ פֵּירוֹתָיו בְּעִיר אַחֶרֶת וְעֵרְבוּ בְּנֵי אוֹתָהּ הָעִיר לְהָבִיא אֶצְלוֹ מִפֵּירוֹתָיו — לֹא יָבִיאוּ לוֹ. וְאִם עֵרַב הוּא — פֵּירוֹתָיו כָּמוֹהוּ.
+*Translation:* MISHNA: With regard to **one who had produce in a different city** beyond the Shabbat limit, **and the residents of that city** where the produce was located joined the Shabbat boundaries, enabling them to reach the owner’s home on the Festival, and they wish **to bring him some of his produce, they may not bring** it **to him.** His produce is as his feet; since it is outside of his Shabbat limit, it may not be taken from its place. **However, if** the owner **placed an *eiruv*** to enable travel to that city, the legal status of **his produce is like his** status with regard to the Shabbat limit. People from that city who also placed an *eiruv* may bring the produce to him, since he himself may walk to the produce and take it.

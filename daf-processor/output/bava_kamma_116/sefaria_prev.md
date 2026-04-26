@@ -1,0 +1,73 @@
+### Bava Kamma 115b
+
+**1.**
+*Hebrew/Aramaic:* אֵין לוֹ אֶלָּא שְׂכָרוֹ. וְאִם אָמַר: ״אַצִּיל אֶת שֶׁלְּךָ, וְאַתָּה נוֹתֵן לִי דְּמֵי שֶׁלִּי״ – חַיָּיב לִיתֵּן לוֹ.
+*Translation:* the owner of the wine **has** the right to collect **only his wage,** i.e., compensation for the effort he put into salvaging the honey. He is not, however, entitled to compensation for the wine itself. **But if** the owner of the wine **said: I will salvage your** honey **and you will pay me the value of my** wine, the owner of the honey is **obligated to pay him** compensation for the wine.
+
+**2.**
+*Hebrew/Aramaic:* שָׁטַף נַחַל חֲמוֹרוֹ וַחֲמוֹר חֲבֵירוֹ, שֶׁלּוֹ יָפֶה מָנֶה וְשֶׁל חֲבֵירוֹ מָאתַיִם, וְהִנִּיחַ זֶה אֶת שֶׁלּוֹ וְהִצִּיל אֶת שֶׁל חֲבֵירוֹ – אֵין לוֹ אֶלָּא שְׂכָרוֹ. וְאִם אָמַר לוֹ: ״אֲנִי אַצִּיל אֶת שֶׁלְּךָ, וְאַתָּה נוֹתֵן לִי אֶת שֶׁלִּי״ – חַיָּיב לִיתֵּן לוֹ.
+*Translation:* Similarly, if **a river washed away his donkey and the donkey of another,** and **his** donkey was **worth one hundred dinars and** the donkey **of the other** was **worth two hundred, and** the individual with the less valuable donkey **abandoned his** donkey **and** instead **salvaged** the donkey **of the other, he has** the right to collect **only his wage,** i.e., compensation for the effort he put into salvaging his fellow’s donkey. **But if he said to** the owner of the more valuable donkey: **I will salvage your** donkey **and you will pay me the** monetary value **of mine** in exchange, the owner of the more valuable donkey is **obligated to pay** the rescuer compensation for his donkey.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ וְאַמַּאי? לֵימָא לֵיהּ: מֵהֶפְקֵירָא קָא זָכֵינָא! מִי לָא תַּנְיָא: הֲרֵי שֶׁהָיָה טָעוּן כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן, וְרָאָה שֶׁהֵן מִשְׁתַּבְּרוֹת, לֹא יֹאמַר: ״הֲרֵי זֶה תְּרוּמָה וּמַעֲשֵׂר עַל פֵּירוֹת שֶׁיֵּשׁ לִי בְּתוֹךְ בֵּיתִי״, וְאִם אָמַר – לֹא אָמַר כְּלוּם?
+*Translation:* GEMARA: **And why** does one who pours out wine have the right to collect only this wage? **Let him say to** the owner of the honey: **I have acquired** your honey **from ownerless** property. **Isn’t it taught** in a *baraita*: **One who was laden** with **jugs of wine and jugs of oil and saw that they were breaking** and their contents were leaking out should **not say: This is hereby** separated as ***teruma* and tithe for** the **produce that I have in my house. And** even **if he said** this, it is as though **he did not say anything.** The fact that one cannot separate produce that is about to be lost as *teruma* or tithe indicates that such property is considered ownerless.
+
+**4.**
+*Hebrew/Aramaic:* כִּדְאָמַר רַבִּי יִרְמְיָה: כְּשֶׁעֵקֶל בֵּית הַבַּד כָּרוּךְ עָלֶיהָ; הָכִי נָמֵי, כְּשֶׁעֵקֶל בֵּית הַבַּד כָּרוּךְ עָלֶיהָ.
+*Translation:* The Gemara answers that it is **as Rabbi Yirmeya says** in a different context, that the ruling discussed there is referring to a case **where the basket of the olive press** was **wrapped around it** so that the barrel would not break completely, and some of the contents would remain inside. **So too,** here, the mishna issued its ruling only **when the basket of the olive press** was **wrapped around** the honey barrel so that it would not break completely, and the contents are therefore not rendered ownerless.
+
+**5.**
+*Hebrew/Aramaic:* וְאִם אָמַר – לֹא אָמַר כְּלוּם? וְהָתַנְיָא: מִי שֶׁבָּא בַּדֶּרֶךְ וּמָעוֹת בְּיָדוֹ וְאַנָּס כְּנֶגְדּוֹ, לֹא יֹאמַר: ״הֲרֵי פֵּירוֹת שֶׁיֵּשׁ לִי בְּתוֹךְ בֵּיתִי מְחוּלָּלִים עַל מָעוֹת הַלָּלוּ״, וְאִם אָמַר – דְּבָרָיו קַיָּימִין!
+*Translation:* The Gemara challenges the *baraita* that stated: **And** even **if he said** that the wine or oil is separated as *teruma* or tithe, it is as though **he did not say anything. But isn’t it taught** in a different *baraita*: If **one was traveling on the road and had money in his possession, and** he saw **a ruffian** moving **toward him,** he **should not say: The** second-tithe **produce that I have in my house is hereby desacralized onto these coins,** i.e., the sanctity of the produce is hereby transferred to the coins. **But if he said** so, **his statement stands,** and the produce is desacralized while the coins attain the sanctity of the second tithe.
+
+**6.**
+*Hebrew/Aramaic:* הָכָא בְּמַאי עָסְקִינַן – בְּשֶׁיָּכוֹל לְהַצִּיל. אִי בְּשֶׁיָּכוֹל לְהַצִּיל, לְכַתְּחִלָּה אַמַּאי לֹא יֹאמַר? בְּשֶׁיָּכוֹל לְהַצִּיל עַל יְדֵי הַדְּחָק.
+*Translation:* The Gemara answers: **Here we are dealing with** a case **where he is capable of saving** his money from the ruffian and that is why he may transfer the sanctity of the second tithe to the coins. The Gemara asks: **If** it is a case **where he is capable of saving** the money, **why should he not say** that the produce should be desacralized ***ab initio*?** The Gemara answers: It is a case **where he is capable of saving** the money only **with difficulty.** Consequently, he should not transfer the sanctity of the second tithe to the coins, as it may be lost; but if he does so, the transfer takes effect, as it is not certain that the money will be lost.
+
+**7.**
+*Hebrew/Aramaic:* וְכֹל הֵיכָא דְּאִיכָּא הֶפְסֵידָא, לְכַתְּחִלָּה לֹא יֹאמַר? וְהָתַנְיָא: הֲרֵי שֶׁהָיוּ לוֹ עֶשֶׂר חָבִיּוֹת שֶׁל טֶבֶל טָמֵא, וְרָאָה אַחַת מֵהֶן שֶׁנִּשְׁבְּרָה אוֹ שֶׁנִּתְגַּלְּתָה, אוֹמֵר: ״הֲרֵי הִיא תְּרוּמַת מַעֲשֵׂר עַל תֵּשַׁע חַבְרוֹתֶיהָ״. וּבְשֶׁמֶן לֹא יַעֲשֶׂה כֵּן, מִפְּנֵי הֶפְסֵד כֹּהֵן!
+*Translation:* The Gemara asks: **And** is it so that **wherever there is** a potential **loss one should not say** that the sanctity is transferred to the money ***ab initio*? But isn’t it taught** otherwise in the following *baraita*: If **one had ten barrels of ritually impure, untithed** wine, i.e., first-tithe wine from which the *teruma* of the tithe had not yet been separated, **and he saw that one of them had broken** and that its contents were leaking out, **or that it had been exposed** and is forbidden for consumption, **he may say: This** barrel **is hereby** separated as **the *teruma* of the tithe for the other nine** barrels. **But with regard to oil, he should not do so due to the priest’s loss.**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִרְמְיָה: כְּשֶׁעֵקֶל בֵּית הַבַּד כָּרוּךְ עָלֶיהָ. בִּשְׁלָמָא שֶׁנִּשְׁבְּרָה – חַזְיָא, אֶלָּא נִתְגַּלְּתָה – לְמַאי חַזְיָא?
+*Translation:* The Gemara answers that **Rabbi Yirmeya said:** The *baraita* issued its ruling only **when** the **basket of the olive press** was **wrapped around** the barrel so that some of its contents would remain inside. The Gemara asks: **Granted,** this rationale applies to a barrel **that was broken,** as the remaining contents are still **fit** for use, **but** with regard to a barrel that was **exposed, for what** use **is it fit?**
+
+**9.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא חַזְיָא לְזִילּוּף, וְהָתַנְיָא: מַיִם שֶׁנִּתְגַּלּוּ – הֲרֵי זֶה לֹא יִשְׁפְּכֵם בִּרְשׁוּת הָרַבִּים; וְלֹא יְגַבֵּל בָּהֶן אֶת הַטִּיט; וְלֹא יְרַבֵּץ בָּהֶן אֶת הַבַּיִת; וְלֹא יַשְׁקֶה מֵהֶם אֶת בְּהֶמְתּוֹ, וְלֹא בֶּהֱמַת חֲבֵירוֹ!
+*Translation:* **And if you would say** that the exposed wine is **fit for sprinkling,** in order to spread its pleasant aroma, **isn’t it taught** otherwise in the following *baraita*? With regard to **water that was exposed, one may not pour it** out **in the public domain, nor mix clay with it, nor settle** dust **with it** by sprinkling it in **a house, nor give it to his animal to drink, nor** give it **to the animal of another.** This proves that exposed liquids may not be used even for sprinkling.
+
+**10.**
+*Hebrew/Aramaic:* דְּעַבַּר לָהּ בִּמְסַנֶּנֶת, כְּרַבִּי נְחֶמְיָה – דְּתַנְיָא: מְסַנֶּנֶת, יֵשׁ בָּהּ מִשּׁוּם גִּילּוּי. אָמַר רַבִּי נְחֶמְיָה: אֵימָתַי – בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְגוּלָּה, אֲבָל בִּזְמַן שֶׁהַתַּחְתּוֹנָה מְכוּסָּה – אַף עַל פִּי שֶׁהָעֶלְיוֹנָה מְגוּלָּה, אֵין בָּהּ מִשּׁוּם גִּילּוּי; לְפִי שֶׁאֶרֶס שֶׁל נָחָשׁ דּוֹמֶה לִסְפוֹג, וְצָף וְעוֹמֵד בִּמְקוֹמוֹ.
+*Translation:* The Gemara answers: The wine is fit for use **because he passed it through a strainer,** and it is **in accordance with** the opinion of **Rabbi Neḥemya, as it is taught** in a *baraita*: A vessel covered with **a strainer is subject to** the *halakha* of **exposure** if the vessel is left unsupervised. **Rabbi Neḥemya said: When** is this so? It is so **when the lower vessel,** in which the liquid collects after passing through the strainer, **is exposed. But when the lower vessel is covered, even if the upper vessel is exposed, it is not subject to** the *halakha* of **exposure, because the venom of a snake is like a sponge** in that **it floats and stays in place.**
+
+**11.**
+*Hebrew/Aramaic:* לָאו אִיתְּמַר עֲלַהּ, אָמַר רַבִּי סִימוֹן אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא טְרָקוֹ, אֲבָל טְרָקוֹ – אָסוּר?
+*Translation:* The Gemara questions this explanation: **Wasn’t it stated with regard to** Rabbi Neḥemya’s ruling that **Rabbi Simon says** that **Rabbi Yehoshua ben Levi says: They taught** Rabbi Neḥemya’s ruling **only where one did not mix it, but** if **one mixed** the wine, any venom found in it becomes capable of penetrating the strainer? Consequently, the wine remains **forbidden** even if it is passed through a strainer.
+
+**12.**
+*Hebrew/Aramaic:* הָתָם נָמֵי, אֶפְשָׁר דְּמַנַּח מִידֵּי אַפּוּמָּא דְחָבִיתָא, (דְּשָׁפֵי) [וְשָׁפֵי] לֵיהּ.
+*Translation:* The Gemara answers: **There, too, it is possible** to prevent the venom from mixing with the wine **by placing something upon the mouth of a barrel that will filter it** slowly so that the venom will not penetrate the strainer, and the wine may therefore be used.
+
+**13.**
+*Hebrew/Aramaic:* וְרַבִּי נְחֶמְיָה – (מִטָּמֵא אַטָּמֵא) מִי תָּרְמִינַן?
+*Translation:* It has now been established that the *baraita*, which states that if one’s barrel of untithed, impure wine is breaking, he may separate it as *teruma* of the tithe for other barrels of untithed, impure wine, may be explained in accordance with the opinion of Rabbi Neḥemya. The Gemara asks: **And** according to **Rabbi Neḥemya, may we separate *teruma*** from impure produce for other impure produce?
+
+**14.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: תּוֹרְמִין מִן הַטָּמֵא עַל הַטָּמֵא, וּמִן הַטָּהוֹר עַל הַטָּהוֹר, וּמִן הַטָּהוֹר עַל הַטָּמֵא; אֲבָל לֹא מִן הַטָּמֵא עַל הַטָּהוֹר. רַבִּי נְחֶמְיָה אוֹמֵר: אַף מִן הַטָּמֵא עַל הַטָּמֵא לֹא הִתִּירוּ לִתְרוֹם, אֶלָּא בְּשֶׁל דְּמַאי! הָכָא נָמֵי בְּשֶׁל דְּמַאי.
+*Translation:* **But isn’t it taught** in another *baraita*: **One may separate *teruma* from** produce that is **impure for** other produce that is **impure, and from** produce that is **pure for** other produce that is **pure, and from** produce that is **pure for** produce that is **impure, but not from** produce that is **impure for** produce that is **pure. Rabbi Neḥemya says: Even** with regard to separating **from** produce that is **impure for** produce that is **impure,** the Sages **permitted one to separate *teruma*** in this manner **only in the case of doubtfully tithed produce [*demai*].** Consequently, how can the aforementioned *baraita* unequivocally permit one to separate impure wine as *teruma* of the tithe for other impure wine? The Gemara answers: **Here too,** in the *baraita*, it is discussing **a case of *demai*.**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר מָר: וּבְשֶׁמֶן לֹא יַעֲשֶׂה כֵּן, מִפְּנֵי הֶפְסֵד כֹּהֵן. מַאי שְׁנָא שֶׁמֶן – דְּרָאוּי לְהַדְלִיק? יַיִן נָמֵי רָאוּי לְזִילּוּף! וְכִי תֵּימָא זִילּוּף לָאו מִילְּתָא הִיא, וְהָאָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי חִיָּיא: שׁוֹתִין מִלּוֹג בְּסֶלַע, וּמְזַלְּפִין מִלּוֹג בִּשְׁתַּיִם!
+*Translation:* The Gemara discusses the continuation of the *baraita* cited previously: **The Master said** in the *baraita*: **But with regard to oil, he should not do so, due to the priest’s loss.** The Gemara asks: **What is different** about a leaking barrel of impure **oil,** which one may not separate as *teruma*, because if he does so the priest will suffer a loss? That case is different **because** the impure *teruma* oil **is fit** to be used **to kindle** a fire, and the priest will now not receive that oil. The Gemara challenges: But **wine is also fit** to be used, as the priest is able **to sprinkle** it in order to impart a pleasant aroma. Why is there is no concern that the priest will suffer a loss? **And if you would say** that **sprinkling is nothing,** i.e., it is insignificant, **doesn’t Shmuel say in the name of Rabbi Ḥiyya: One drinks from a *log*** of wine worth one ***sela*, and one sprinkles from a *log*** of wine worth **two** *sela*, which indicates that there is greater benefit in sprinkling wine than in drinking it?
+
+**16.**
+*Hebrew/Aramaic:* הָכָא בְּמַאי עָסְקִינַן – בְּחָדָשׁ. וְהָא רָאוּי לְיַשְּׁנוֹ! אָתֵי בֵּיהּ לִידֵי תַּקָּלָה.
+*Translation:* The Gemara answers: **Here we are dealing with new** wine that has not yet developed an aroma and is therefore not fit for sprinkling. The Gemara counters: **But isn’t it fit to** allow it to **age** so that it will become fit for sprinkling? The Gemara responds: If one waits for it to age, he might **come to** experience **a mishap with it,** as he will forget that it is impure *teruma*, which is forbidden for consumption.
+
+**17.**
+*Hebrew/Aramaic:* שֶׁמֶן נָמֵי אָתֵי בֵּיהּ לִידֵי תַּקָּלָה! דְּמַנַּח [לֵיהּ] בִּכְלִי מָאוּס. יַיִן נָמֵי מַנַּח לֵיהּ בִּכְלִי מָאוּס! הַשְׁתָּא לְזִילּוּף קָא בָּעֵי לֵיהּ, בִּכְלִי מָאוּס קָא מַנַּח לֵיהּ?!
+*Translation:* The Gemara asks: **Oil** should **also** be subject to the concern that one might **come to experience a mishap with it,** as he might forget that it is forbidden and mistakenly drink it. The Gemara explains: The halakha is **that** the priest must **place** the oil **in a foul vessel,** and there is no concern that he will consume it, as such oil is used only for kindling. The Gemara asks: **Let the wine also be placed in a foul vessel,** in which case there would be no concern that he would drink it. The Gemara responds: **Now that he desires** to use **it for sprinkling, would he place it in a foul vessel?** This would ruin its aroma. Consequently, the wine may not be kept due to concern over a possible mishap, while the oil may be kept.
+
+**18.**
+*Hebrew/Aramaic:* וְתַקָּלָה עַצְמָהּ תַּנָּאֵי הִיא – דְּתַנְיָא: חָבִית שֶׁל יַיִן שֶׁל תְּרוּמָה, שֶׁנִּטְמֵאת – בֵּית שַׁמַּאי אוֹמְרִים:
+*Translation:* The Gemara notes: **And** the concern with regard to **a mishap itself is** a dispute between ***tanna’im*. As it is taught** in a *baraita*: With regard to **a barrel of *teruma* wine that became impure** and is therefore forbidden for consumption, **Beit Shammai say:**

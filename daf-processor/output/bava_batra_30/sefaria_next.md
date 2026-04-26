@@ -1,0 +1,41 @@
+### Bava Batra 31a
+
+**1.**
+*Hebrew/Aramaic:* אֲבָל שֵׁית – אֵין לְךָ מֶחָאָה גְּדוֹלָה מִזּוֹ.
+*Translation:* **But** if he profited from the land for only **six** years, so that the sale to the claimant took place before the years necessary for establishing the presumption of ownership were completed, **you** can **have no greater protest than this,** that the purported seller then sold the land to another. By doing so he indicated that he does not concede that the possessor was the rightful owner, and the possessor should have been careful to hold on to his bill of sale for even longer than three years.
+
+**2.**
+*Hebrew/Aramaic:* זֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״, וְזֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״; הַאי אַיְיתִי סָהֲדֵי דַּאֲבָהָתֵיהּ הִיא, וְהַאי אַיְיתִי סָהֲדֵי דְּאַכְלַהּ שְׁנֵי חֲזָקָה –
+*Translation:* There was an incident where two people disputed the ownership of land. **This** one **says:** The land **belonged to my ancestors** and I inherited it from them, **and that** one **says:** The land **belonged to my ancestors** and I inherited it from them. **This** one **brings witnesses that** the land **belonged to his ancestors, and that** one **brings witnesses that** he currently possesses the land and that he worked and **profited** from the land for **the years** necessary for establishing the **presumption** of ownership.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבָּה: מָה לוֹ לְשַׁקֵּר? אִי בָּעֵי אֲמַר לֵיהּ: מִינָּךְ זְבֵנְתַּהּ וַאֲכַלְתִּיהָ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ אַבָּיֵי: ״מָה לִי לְשַׁקֵּר״ בִּמְקוֹם עֵדִים – לָא אָמְרִינַן.
+*Translation:* **Rabba said:** The judgment is in favor of the possessor, due to the legal principle that if the judgment would have been decided in one’s favor had he advanced a certain claim, and he instead advanced a different claim that leads to the same ruling, he has credibility, as **why would he lie** and state this claim? **If** the possessor **wanted** to lie, he could have **said to** the claimant: **I purchased** the land **from you and I** worked and **profited from it** for **the years** necessary for establishing the **presumption** of ownership, in which case he would have been awarded the land. **Abaye said to** Rabba: **We do not say** the principle of: **Why would I lie, in** a case **where** there are **witnesses** contradicting his current claim, as they testify that the land belonged to the ancestors of the claimant. Therefore, he should not be awarded the land.
+
+**4.**
+*Hebrew/Aramaic:* הֲדַר אֲמַר לֵיהּ: אִין, דַּאֲבָהָתָךְ הִיא – וּזְבֵנְתַּהּ מִינָּךְ; וְהַאי דַּאֲמַרִי לָךְ דַּאֲבָהָתִי, דִּסְמִיךְ לִי עֲלַהּ כְּדַאֲבָהָתִי.
+*Translation:* The possessor **then said to** the claimant: **Yes,** it is true that it had **belonged to your ancestors, but I purchased it from you, and** by stating **that which I said to you:** It **belonged to my ancestors,** I merely meant **that I rely upon** my ownership of **it as if** it belonged **to my ancestors,** as I purchased it and then profited from it for the years necessary for establishing the presumption of ownership.
+
+**5.**
+*Hebrew/Aramaic:* טוֹעֵן וְחוֹזֵר וְטוֹעֵן, אוֹ אֵין טוֹעֵן וְחוֹזֵר וְטוֹעֵן? עוּלָּא אָמַר: טוֹעֵן וְחוֹזֵר וְטוֹעֵן. נְהַרְדָּעֵי אָמְרִי: אֵינוֹ טוֹעֵן וְחוֹזֵר וְטוֹעֵן.
+*Translation:* The Gemara asks: Can he **state a claim and return and state** a modified version of his **claim,** or can he **not state a claim and return and state** a modified version of his **claim? Ulla said:** He can **state a claim and return and state** a modified version of his **claim.** The Sages **of Neharde’a say:** He **cannot state a claim and return and state** a modified version of his **claim.**
+
+**6.**
+*Hebrew/Aramaic:* וּמוֹדֵי עוּלָּא הֵיכָא דַּאֲמַר לֵיהּ: שֶׁל אֲבוֹתַי וְלֹא שֶׁל אֲבוֹתֶיךָ – דְּאֵינוֹ טוֹעֵן וְחוֹזֵר וְטוֹעֵן. וְהֵיכָא דַּהֲוָה קָאֵי בֵּי דִינָא וְלָא טְעַן, וַאֲתָא מֵאַבָּרַאי וּטְעַן – אֵינוֹ חוֹזֵר וְטוֹעֵן. מַאי טַעְמָא? טַעְנְתֵיהּ אַגְמְרֵיהּ.
+*Translation:* The Gemara clarifies their respective opinions: **And Ulla concedes** that in a case **where he** had initially **said to him:** The land **belonged to my ancestors and did not belong to your ancestors, that** he **cannot state a claim and return and state** a modified version of his **claim,** as Ulla allows the litigant only to reinterpret his initial claim, not to replace it with a contradictory claim. **And** Ulla also concedes that in a case **where he was standing in court and did not state** a particular **claim, and** he later **came in from outside** and back into the court **and** he **stated** that **claim,** that he **cannot return and state** that **claim. What is the reason** for this? It is because it is apparent that these **claims of his** were **taught to him** by someone after he left the court.
+
+**7.**
+*Hebrew/Aramaic:* וּמוֹדוּ נְהַרְדָּעֵי הֵיכָא דַּאֲמַר לֵיהּ: שֶׁל אֲבוֹתַי שֶׁלְּקָחוּהָ מֵאֲבוֹתֶיךָ – דְּחוֹזֵר וְטוֹעֵן. וְהֵיכָא דְּאִישְׁתַּעִי מִילֵּי אַבָּרַאי וְלָא טְעַן, וַאֲתָא לְבֵי דִינָא וּטְעַן – דְּחוֹזֵר וְטוֹעֵן. מַאי טַעְמָא? עֲבִיד אִינִישׁ דְּלָא מְגַלֵּי טַעְנְתֵיהּ אֶלָּא לְבֵי דִינָא.
+*Translation:* **And** the Sages **of Neharde’a concede** that in a case **where** the litigant who changed his claim **said to** the other litigant that when he had initially claimed: The land belonged to my ancestors, he had actually meant: It **belonged to my ancestors, who purchased it from your ancestors,** that he can state a claim and **return and state** a modified version of his **claim,** as this serves only to clarify, and not negate, his initial claim. **And** the Sages of Neharde’a also concede that in a case **where** he **discussed** the **matter outside** of the court **and** did **not** state a particular **claim, and** then he **came** in **to** the **court and stated** that **claim, that** he can **return and state** that **claim. What is the reason** for this? Because **a person is apt not to reveal his claims except to** the **court.**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר אַמֵּימָר: אֲנָא נְהַרְדָּעָא אֲנָא, וּסְבִירָא לִי דְּטוֹעֵן וְחוֹזֵר וְטוֹעֵן. וְהִלְכְתָא: טוֹעֵן וְחוֹזֵר וְטוֹעֵן.
+*Translation:* **Ameimar said: I am** from **Neharde’a, but I** nevertheless **hold that** a litigant can **state a claim and return and state** a modified version of his **claim.** The Gemara concludes: **And the *halakha*** is that a litigant can **state a claim and return and state** a modified version of his **claim.**
+
+**9.**
+*Hebrew/Aramaic:* זֶה אוֹמֵר: שֶׁל אֲבוֹתַי, וְזֶה אוֹמֵר: שֶׁל אֲבוֹתַי; הַאי אַיְיתִי סָהֲדֵי דַּאֲבָהָתֵיהּ וְאַכְלַהּ שְׁנֵי חֲזָקָה, וְהַאי אַיְיתִי סָהֲדֵי דְּאַכְלַהּ שְׁנֵי חֲזָקָה.
+*Translation:* In an incident where two people dispute the ownership of land, **this** one **says:** The land **belonged to my ancestors** and I inherited it from them, **and that** one **says:** The land **belonged to my ancestors** and I inherited it from them. The first one **brings witnesses that** the land **belonged to his ancestors, and** that he worked and **profited** from the land for **the years** necessary for establishing the **presumption** of ownership. **And** the second one **brings witnesses** only **that** he worked and **profited** from the land for **the years** necessary for establishing the **presumption** of ownership.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: אוֹקִי אֲכִילָה לְבַהֲדֵי אֲכִילָה, וְאוֹקִי אַרְעָא בְּחֶזְקַת אֲבָהָתָא. אֲמַר לֵיהּ רָבָא: הָא עֵדוּת מוּכְחֶשֶׁת הִיא! אֲמַר לֵיהּ: נְהִי דְּאִיתַּכְחַשׁ בַּאֲכִילְתָה,
+*Translation:* **Rav Naḥman said: Establish** the testimony with regard to the **profiting** by the first litigant **alongside** the testimony with regard to the **profiting** by the second, and the two testimonies cancel each other out, leaving the testimony with regard to ownership by the ancestors of the first litigant. **And** therefore, **establish the land in** the **presumptive ownership of** the litigant who brought witnesses that it belonged to his **ancestors. Rava** objected and **said to him: This testimony** cannot be relied on, as it **is contradicted** by the other testimony. Rav Naḥman responded and **said to him: Although** it is so **that** the testimony **was contradicted with regard to profiting** from the land,

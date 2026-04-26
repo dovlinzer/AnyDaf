@@ -1,0 +1,81 @@
+### Pesachim 118b
+
+**1.**
+*Hebrew/Aramaic:* וְאַקְדִּיחַ מִבַּחוּץ, וְאֶעֱשֶׂה נֵס בְּתוֹךְ נֵס. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא: רֵד! בְּאוֹתָהּ שָׁעָה פָּתַח גַּבְרִיאֵל וְאָמַר: ״וֶאֱמֶת ה׳ לְעוֹלָם״.
+*Translation:* **and I will burn** it **from the outside,** to consume those who threw the three righteous men into the furnace; **and I will** thereby **perform a miracle within a miracle. The Holy One, Blessed be He, said to him: Descend. At that time Gabriel began** praising God **and recited: “And the truth of the Lord endures forever”** (Psalms 117:2), as God fulfilled His promise to him from more than a thousand years earlier.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי נָתָן אוֹמֵר: ״וֶאֱמֶת ה׳ לְעוֹלָם״ — דָּגִים שֶׁבַּיָּם אֲמָרוּהוּ, כִּדְרַב הוּנָא. דְּאָמַר רַב הוּנָא: יִשְׂרָאֵל שֶׁבְּאוֹתוֹ הַדּוֹר מִקְּטַנֵּי אֲמָנָה הָיוּ, וְכִדְדָרֵשׁ רַבָּה בַּר מָרִי: מַאי דִּכְתִיב ״וַיַּמְרוּ עַל יָם בְּיַם סוּף״ — מְלַמֵּד שֶׁהִמְרוּ יִשְׂרָאֵל בְּאוֹתָהּ שָׁעָה וְאָמְרוּ: כְּשֵׁם שֶׁאָנוּ עוֹלִין מִצַּד אֶחָד, כָּךְ מִצְרִיִּים עוֹלִים מִצַּד אַחֵר.
+*Translation:* **Rabbi Natan says: “And the truth of the Lord endures forever”** was actually **recited by the fish in the sea, in accordance with** a statement of **Rav Huna.** As **Rav Huna said: The Jewish people of that generation,** during the Exodus, **were of little faith. And** this statement **is as Rabba bar Mari taught: What is** the meaning of that **which is written: “But they were rebellious at the sea, even at the Red Sea”** (Psalms 106:7)? This **teaches that the Jews rebelled** against Moses **at that time, and said:** Perhaps, **just as we** are **ascending from one side, so too the Egyptians** are **ascending from** the **other side,** and we will not be saved.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְשַׂר שֶׁל יָם: פְּלוֹט אוֹתָן לַיַּבָּשָׁה! אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, כְּלוּם יֵשׁ עֶבֶד שֶׁנּוֹתֵן לוֹ רַבּוֹ מַתָּנָה וְחוֹזֵר וְנוֹטֵל מִמֶּנּוּ? אָמַר לוֹ: אֶתֵּן לָךְ אֶחָד וּמֶחֱצָה שֶׁבָּהֶן.
+*Translation:* **The Holy One, Blessed be He, said to the ministering angel of the sea: Spew out** the dead Egyptians **onto dry land.** The sea **said before Him: Master of the Universe, is there a servant whose master gives him a gift and then takes it from him?** Since the dead Egyptians were given to me for my fish to eat, how can God retract His gift? **He said to him: I will give you one and a half** times **their** number. Although I am taking them back now, later I will give you one and a half times as many people.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ: רִבּוֹנוֹ שֶׁל עוֹלָם, יֵשׁ עֶבֶד שֶׁתּוֹבֵעַ אֶת רַבּוֹ? אָמַר לוֹ: נַחַל קִישׁוֹן יְהֵא לִי עָרֵב. מִיָּד פָּלַט אוֹתָן לַיַּבָּשָׁה וּבָאוּ יִשְׂרָאֵל וְרָאוּ אוֹתָן. שֶׁנֶּאֱמַר: ״וַיַּרְא יִשְׂרָאֵל אֶת מִצְרַיִם מֵת עַל שְׂפַת הַיָּם״.
+*Translation:* **He said to him: Master of the Universe, can a servant issue a claim against his master** for a gift promised to him? Who will be my guarantor? **He said to him: The Kishon River will be a guarantor for Me. Immediately,** the sea **spewed them out onto the land, and the Jewish people came and saw** that **they** were dead. **As it is stated: “And Israel saw the Egyptians dead upon the seashore”** (Exodus 14:30).
+
+**5.**
+*Hebrew/Aramaic:* מַאי אֶחָד וּמֶחֱצָה שֶׁבָּהֶן? דְּאִילּוּ בְּפַרְעֹה כְּתִיב: ״שֵׁשׁ מֵאוֹת רֶכֶב בָּחוּר״, וְאִילּוּ בְּסִיסְרָא כְּתִיב: ״תְּשַׁע מֵאוֹת רֶכֶב בַּרְזֶל״.
+*Translation:* The Gemara asks: **What is** this **one and a half** times **their** number? How was God’s promise fulfilled? The Gemara answers: **While, with regard to Pharaoh, it is written: “Six hundred chosen chariots”** (Exodus 14:7), **whereas, with regard to Sisera, it is written: “Nine hundred iron chariots”** (Judges 4:13).
+
+**6.**
+*Hebrew/Aramaic:* כִּי אֲתָא סִיסְרָא [אֲתָא עֲלַיְיהוּ בְּדִקְרֵי דְפַרְזְלָא, הוֹצִיא הַקָּדוֹשׁ בָּרוּךְ הוּא עֲלֵיהֶם כּוֹכָבִים מִמְּסִילּוֹתָם, דִּכְתִיב:] ״מִן שָׁמַיִם נִלְחָמוּ הַכּוֹכָבִים״. כֵּיוָן דִּנְחִיתוּ כּוֹכְבֵי שָׁמַיִם עֲלַיְיהוּ, אַקְדִּירוּ הָנֵי דִּקְרֵי דְפַרְזְלָא. נְחִיתוּ לְאַקְרוֹרֵי לְמִיסְחֵי נַפְשַׁיְיהוּ בְּנַחַל קִישׁוֹן,
+*Translation:* The Gemara relates: **When Sisera came** to fight Israel, **he came upon them with iron spears,** whereupon **the Holy One, Blessed be He, removed the stars from their orbits** to fight **against** Sisera’s army, **as it is written: “They fought from heaven, the stars** in their courses fought against Sisera” (Judges 5:20). **Since the stars fell on them, these iron spears heated up** and **they went to cool them and wash themselves in the Kishon River.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְנַחַל קִישׁוֹן: לֵךְ וְהַשְׁלֵם עֵרְבוֹנְךָ. מִיָּד גְּרָפָם נַחַל קִישׁוֹן וְהִשְׁלִיכָן לַיָּם, שֶׁנֶּאֱמַר: ״נַחַל קִישׁוֹן גְּרָפָם נַחַל קְדוּמִים״, מַאי ״נַחַל קְדוּמִים״? נַחַל שֶׁנַּעֲשָׂה עָרֵב מִקֶּדֶם. בְּאוֹתָהּ שָׁעָה פָּתְחוּ דָּגִים שֶׁל יָם וְאָמְרוּ: ״וֶאֱמֶת ה׳ לְעוֹלָם״.
+*Translation:* At this point, **the Holy One, Blessed be He, said to the Kishon River: Go and pay your guarantee** that you issued to the ministering angel of the sea. **Immediately, the Kishon River swept them away and cast them into the sea, as it is stated: “The Kishon River swept them away, that ancient river”** (Judges 5:21). **What is** the meaning of the expression: **“ancient river”?** The Gemara explains: This is referring to **the river that was appointed a guarantor from ancient** times. **At that time, the fish of the sea began** praising God **and recited: “And the truth of the Lord endures forever,”** in reference to God’s fulfillment of the promise He issued centuries earlier.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, מַאי דִּכְתִיב: ״מוֹשִׁיבִי עֲקֶרֶת הַבַּיִת״ — אָמְרָה כְּנֶסֶת יִשְׂרָאֵל לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, שָׂמוּנִי בָּנֶיךָ כְּחוּלְדָּה זוֹ הַדָּרָה בְּעִיקָּרֵי בָתִּים.
+*Translation:* The Gemara cites more *midrashim* on the verses of *hallel*. **Rabbi Shimon ben Lakish said: What is** the meaning of that **which is written: “Who makes the barren woman dwell in her house** as a joyful mother of children, *halleluya*” (Psalms 113:9)? **The Congregation of Israel,** i.e., the leaders of the Jewish people, **said before the Holy One, Blessed be He: Master of the Universe,** due to their sins, **Your children treat me like this rat that dwells in the vaults of houses,** barely able to find a place in the house.
+
+**9.**
+*Hebrew/Aramaic:* דָּרֵשׁ רָבָא, מַאי דִּכְתִיב: ״אָהַבְתִּי כִּי יִשְׁמַע ה׳״ — אָמְרָה כְּנֶסֶת יִשְׂרָאֵל: רִבּוֹנוֹ שֶׁל עוֹלָם אֵימַת אֲנִי אֲהוּבָה לְפָנֶיךָ — בִּזְמַן שֶׁתִּשְׁמַע קוֹל תַּחֲנוּנַי. ״דַּלּוֹתִי וְלִי יְהוֹשִׁיעַ״ — אָמְרָה כְּנֶסֶת יִשְׂרָאֵל לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: רִבּוֹנוֹ שֶׁל עוֹלָם, אַף עַל פִּי שֶׁדַּלָּה אֲנִי בְּמִצְוֹת, לְךָ אֲנִי וְלִי נָאֶה לְהוֹשִׁיעַ.
+*Translation:* **Rava taught: What is** the meaning of that **which is written: “I love that the Lord should hear** my voice and my supplications” (Psalms 116:1)? **The Congregation of Israel said: Master of the Universe, when am I beloved by You,** and I know that I am loved? **When You hear the voice of my supplications. “I was brought low, and He saved me”** (Psalms 116:6). **The Congregation of Israel said before the Holy One, Blessed be He: Master of the Universe, although I am lowly in mitzvot,** as I do not always fulfill them properly, **I am Yours,** and therefore **it is fitting** that **I** should **be saved.**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב כָּהֲנָא: כְּשֶׁחָלָה רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי, שָׁלַח לוֹ רַבִּי: אֱמוֹר לָנוּ שְׁנַיִם וּשְׁלֹשָׁה דְּבָרִים שֶׁאָמַרְתָּ לָנוּ מִשּׁוּם אָבִיךָ.
+*Translation:* **Rav Kahana said: When Rabbi Yishmael, son of Rabbi Yosei, fell ill, Rabbi** Yehuda HaNasi **sent** a message **to him: Tell us two or three matters that you said to us, citing your father.**
+
+**11.**
+*Hebrew/Aramaic:* שָׁלַח לוֹ: כָּךְ אָמַר אַבָּא, מַאי דִּכְתִיב: ״הַלְלוּ אֶת ה׳ כׇּל גּוֹיִם״, אוּמּוֹת הָעוֹלָם מַאי עֲבִידְתַּיְיהוּ? הָכִי קָאָמַר: ״הַלָּלוּ אֶת ה׳ כׇּל גּוֹיִם״ אַגְּבוּרוֹת וְנִפְלָאוֹת דְּעָבֵיד בַּהֲדַיְיהוּ, כׇּל שֶׁכֵּן אָנוּ דְּ״גָבַר עָלֵינוּ חַסְדּוֹ״.
+*Translation:* **He sent** back **to him: My father said as follows: What is** the meaning of that **which is written: “Praise the Lord, all you nations,** laud Him all you peoples. For His mercy is great toward us, and the truth of the Lord endures forever, *halleluya*” (Psalms 117)? **What are the nations of the world doing** by praising God for His great mercies toward Israel? Rabbi Yosei explained: Rather, **this is** what the verse **is saying: “Praise the Lord, all you nations” for the mighty acts and the wonders that** God **performed before** their eyes. **All the more so we,** the recipients of these acts, should praise and thank Him, **as His mercy is great toward us.**
+
+**12.**
+*Hebrew/Aramaic:* וְעוֹד: עֲתִידָה מִצְרַיִם שֶׁתָּבִיא דּוֹרוֹן לַמָּשִׁיחַ. כְּסָבוּר, אֵינוֹ מְקַבֵּל מֵהֶם. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לַמָּשִׁיחַ: קַבֵּל מֵהֶם! אַכְסַנְיָא עָשׂוּ לְבָנַיי בְּמִצְרַיִם. מִיָּד: ״יֶאֱתָיוּ חַשְׁמַנִּים מִנִּי מִצְרָיִם״.
+*Translation:* **And furthermore,** Rabbi Yishmael sent another of his father’s teachings to Rabbi Yehuda HaNasi: **In the future, Egypt will bring a gift to the Messiah** when all of the nations gather before him, as the verse says: “Out of Your temple at Jerusalem, where kings shall bring presents to you” (Psalms 68:30). The Messiah **will think** it appropriate **not to accept** gifts **from them,** as the Egyptians abused Israel. **The Holy One, Blessed be He,** will **say to the Messiah: Accept** their gifts **from them,** as **they granted lodging to My children in Egypt.** They lived there for many years before being enslaved. **Immediately, “Nobles shall come out of Egypt”** (Psalms 68:32).
+
+**13.**
+*Hebrew/Aramaic:* נָשְׂאָה כּוּשׁ קַל וָחוֹמֶר בְּעַצְמָהּ: וּמָה הַלָּלוּ שֶׁנִּשְׁתַּעְבְּדוּ בָּהֶן כָּךְ, אֲנִי שֶׁלֹּא נִשְׁתַּעְבַּדְתִּי בָּהֶן לֹא כׇּל שֶׁכֵּן. אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא: קַבֵּל מֵהֶם. מִיָּד ״כּוּשׁ תָּרִיץ יָדָיו לֵאלֹהִים״.
+*Translation:* Upon seeing that Egypt’s gift has been accepted, Kush will want to bring a gift too. **Kush** will **draw an *a fortiori*** inference **with regard to itself: Just as** the gifts of **these** Egyptians were accepted despite the fact that **they enslaved** the Jewish people, **all the more so** is it **not** clear that a gift from **me, who did not enslave them,** should be accepted? **The Holy One, Blessed be He,** will **say to** the Messiah: **Accept** it **from them. Immediately, “Kush shall hasten to stretch out her hands to God”** (Psalms 68:32).
+
+**14.**
+*Hebrew/Aramaic:* נָשְׂאָה מַלְכוּת (רוֹמִי) הָרְשָׁעָה קַל וָחוֹמֶר בְּעַצְמָהּ: וּמָה הַלָּלוּ שֶׁאֵין אֲחֵיהֶן כָּךְ, אָנוּ שֶׁאָנוּ אֲחֵיהֶן — לֹא כׇּל שֶׁכֵּן?! אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְגַבְרִיאֵל: ״גְּעַר חַיַּת קָנֶה״ — גְּעוֹר חַיָּה וּקְנֵה לְךָ עֵדָה.
+*Translation:* After that, **the wicked kingdom of Rome** will **draw an *a fortiori*** inference **with regard to itself: Just as** the gifts of **these, who are not their brothers,** were accepted in this manner, **we,** the descendants of Edom, **who are their brothers, all the more so** is it **not** clear that our gifts will be accepted? **The Holy One, Blessed be He,** will **say to Gabriel: “Rebuke the wild beast of the reeds [*kaneh*],** the multitude of [*adat*] the bulls” (Psalms 68:31). **Rebuke the beast and acquire [*keneh*]** the **congregation [*eda*]** of Israel. The nation of Rome, which enslaved Israel in its current exile, is less worthy than the other two nations.
+
+**15.**
+*Hebrew/Aramaic:* דָּבָר אַחֵר: ״גְּעוֹר חַיַּת קָנֶה״ שֶׁדָּרָה בֵּין הַקָּנִים, דִּכְתִיב: ״יְכַרְסְמֶנָּה חֲזִיר מִיָּעַר וְזִיז שָׂדַי יִרְעֶנָּה״.
+*Translation:* **Alternatively,** the verse **“Rebuke the wild beast of the reeds,”** means rebuke the beast **that dwells between the reeds, as it is written: “The pig out of the wood ravages it, and that which moves in the field feeds on it”** (Psalms 80:14). This verse is referring to Edom, whose behavior is compared elsewhere to that of a pig.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: גְּעוֹר בְּחַיָּה שֶׁכׇּל מַעֲשֶׂיהָ נִכְתָּבִין בְּקוּלְמוֹס אֶחָד. ״עֲדַת אַבִּירִים בְּעֶגְלֵי עַמִּים״ — שֶׁשָּׁחֲטוּ אַבִּירִים כַּעֲגָלִים שֶׁאֵין לָהֶם בְּעָלִים.
+*Translation:* **Rabbi Ḥiyya bar Abba said** that **Rabbi Yoḥanan said** that the verse means: **Rebuke the beast, all of whose actions are written with a single quill.** *Kaneh* can mean a reed, or a quill. In other words, rebuke a nation that speaks of others in only one manner, for the worse. The verse continues: “The multitude of the bulls, with the calves of the peoples, everyone submitting himself with pieces of silver. He has scattered the peoples who delight in war” (Psalms 68:31). **“The multitude of the bulls [*abirim*], with the calves of the peoples”;** this is referring to Rome, **who slaughtered mighty people [*abirim*] like ownerless calves.**
+
+**17.**
+*Hebrew/Aramaic:* ״מִתְרַפֵּס בְּרַצֵּי כָסֶף״ — שֶׁפּוֹשְׁטִין יָד לְקַבֵּל מָמוֹן, וְאֵין עוֹשִׂין רְצוֹן בְּעָלִים. ״פִּיזַּר עַמִּים קְרָבוֹת יֶחְפָּצוּן״ — מִי גָּרַם לָהֶם לְיִשְׂרָאֵל שֶׁיִּתְפַּזְּרוּ לְבֵין אוּמּוֹת הָעוֹלָם? קְרִיבוֹת שֶׁהָיוּ חֲפֵצִין בָּהֶן.
+*Translation:* **“Everyone submitting himself with pieces of silver,”** means **that** the officials of Rome **open their hands to receive money** as bribes or taxes, **but** actually they **do not perform the will of their masters,** as they cannot be trusted even in this regard. **“He has scattered the peoples who delight in war”; what caused the Jewish people to be scattered among the nations of the world? The intimacies that they desired with them.** Their exile among the nations was caused by their attraction to the customs and behavior of gentiles.
+
+**18.**
+*Hebrew/Aramaic:* וְעוֹד שָׁלַח לוֹ: שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה שְׁוָוקִים בִּכְרַךְ גָּדוֹל שֶׁל רוֹמִי, וְכׇל אֶחָד וְאֶחָד (הָיוּ) [יֵשׁ] בּוֹ שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה בִּירָנִיּוֹת, וְכׇל בִּירָנִית וּבִירָנִית (הָיוּ בּוֹ) [יֵשׁ בָּהּ] שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה מַעֲלוֹת, וְכׇל מַעֲלָה וּמַעֲלָה (הָיוּ בּוֹ) [יֵשׁ בָּהּ] כְּדֵי לָזוּן אֶת כָּל הָעוֹלָם כּוּלּוֹ.
+*Translation:* **And** Rabbi Yishmael **further sent to** Rabbi Yehuda HaNasi: There were **365 markets in the great city of Rome, and each and every one** of them **contained 365 towers, and each and every tower contained 365 floors, and each and every floor contained enough** food **to sustain the entire world.**
+
+**19.**
+*Hebrew/Aramaic:* אָמַר רַבִּי (יִשְׁמָעֵאל) [שִׁמְעוֹן בְּרַבִּי] לְרַבִּי, וְאָמְרִי לַהּ (לְ)רַבִּי יִשְׁמָעֵאל בַּר יוֹסֵי [לְרַבִּי]: הָנֵי לְמַן? לָךְ וּלְחַבְרָךְ וּלְחַבְרוּתָךְ, שֶׁנֶּאֱמַר: ״סַחְרָהּ וְאֶתְנַנָּהּ קוֹדֶשׁ לַה׳ לֹא יֵאָצֵר וְלֹא יֵחָסֵן כִּי לַיּוֹשְׁבִים לִפְנֵי ה׳ יִהְיֶה וְגוֹ׳״.
+*Translation:* **Rabbi Yishmael** also **said to Rabbi** Yehuda HaNasi, **and some say** that he said **it to Rabbi Yishmael, son of Rabbi Yosei: For whom** did they store all **this** food? He replied: **For you and your colleagues and the colleagues of your colleagues,** i.e., for the Jewish people and their Sages, **as it is stated: “Her grain and her hire shall be consecrated to the Lord; it shall not be treasured nor laid up; for her gain shall be for those who dwell before the Lord,** to eat their fill, and for stately clothing” (Isaiah 23:18).
+
+**20.**
+*Hebrew/Aramaic:* מַאי ״לֹא יֵאָצֵר״? תָּנֵי רַב יוֹסֵף: ״לֹא יֵאָצֵר״ — זֶה בֵּית אוֹצָר, ״וְלֹא יֵחָסֵן״ — זֶה בֵּית גְּנִיזָה. מַאי ״כִּי לַיּוֹשְׁבִים לִפְנֵי ה׳״? אָמַר רַבִּי אֶלְעָזָר:
+*Translation:* The Gemara asks: **What is** the meaning of the phrase: **“It shall not be treasured”? Rav Yosef teaches: “It shall not be treasured,” this** is referring to items brought into **a storehouse; “nor laid up,” this** means **a treasury,** where valuable items were stored behind guarded walls. **What is** the meaning of the phrase: **“Who dwell before the Lord?” Rabbi Elazar said:**

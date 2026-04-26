@@ -264,9 +264,10 @@ object SefariaClient {
                 if (current.segs.isNotEmpty()) rawParts.add(current)
 
                 val headerTitle = match.groupValues[1].trim()
-                val after = segment.substring(match.range.last + 1).trim()
+                val afterTag = segment.substring(match.range.last + 1).trim()
                 current = RawPart(headerTitle, mutableListOf(), mutableListOf())
-                if (after.isNotEmpty()) current.segs.add(after)
+                val leadingText = if (afterTag.isNotEmpty()) "$headerTitle. $afterTag" else "$headerTitle."
+                current.segs.add(leadingText)
                 current.indices.add(segIdx)
             } else {
                 current.segs.add(segment)

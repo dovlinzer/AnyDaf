@@ -22,7 +22,7 @@ MASECHTA_MAP = {
     'beitzah': 'Beitzah', 'beitza': 'Beitzah', 'beisa': 'Beitzah',
     'roshhashana': 'Rosh Hashanah', 'roshhashanah': 'Rosh Hashanah',
     'taanit': 'Taanit', 'taanis': 'Taanit', 'tanit': 'Taanit',
-    'megillah': 'Megillah', 'megila': 'Megillah',
+    'megillah': 'Megillah', 'megila': 'Megillah', 'megilah': 'Megillah',
     'moadkatan': 'Moed Katan', 'moedkatan': 'Moed Katan', 'mkatan': 'Moed Katan',
     'chagigah': 'Chagigah', 'hagigah': 'Chagigah',
     # Seder Nashim
@@ -58,6 +58,55 @@ MASECHTA_MAP = {
     'kinnim': 'Kinnim',
     # Seder Taharot
     'niddah': 'Niddah', 'nida': 'Niddah',
+}
+
+
+# Shekalim is a Yerushalmi tractate. Sefaria doesn't index it as "Shekalim.Xa";
+# instead each daf/amud maps to a Jerusalem Talmud chapter:halacha:segment range.
+# These refs match the AnyDaf iOS/Android SefariaClient maps exactly.
+SHEKALIM_REFS: dict = {
+    "2a":  "Jerusalem Talmud Shekalim 1:1:1-5",
+    "2b":  "Jerusalem Talmud Shekalim 1:1:5-10",
+    "3a":  "Jerusalem Talmud Shekalim 1:1:10-2:5",
+    "3b":  "Jerusalem Talmud Shekalim 1:2:5-4:1",
+    "4a":  "Jerusalem Talmud Shekalim 1:4:1-5",
+    "4b":  "Jerusalem Talmud Shekalim 1:4:5-9",
+    "5a":  "Jerusalem Talmud Shekalim 1:4:9-2:1:4",
+    "5b":  "Jerusalem Talmud Shekalim 2:1:4-3:1",
+    "6a":  "Jerusalem Talmud Shekalim 2:3:1-4:1",
+    "6b":  "Jerusalem Talmud Shekalim 2:4:1-5",
+    "7a":  "Jerusalem Talmud Shekalim 2:4:5-5:4",
+    "7b":  "Jerusalem Talmud Shekalim 2:5:4-3:1:3",
+    "8a":  "Jerusalem Talmud Shekalim 3:1:3-2:2",
+    "8b":  "Jerusalem Talmud Shekalim 3:2:2-8",
+    "9a":  "Jerusalem Talmud Shekalim 3:2:8-3:1",
+    "9b":  "Jerusalem Talmud Shekalim 3:3:1-4:1:1",
+    "10a": "Jerusalem Talmud Shekalim 4:1:1-2:1",
+    "10b": "Jerusalem Talmud Shekalim 4:2:1-4",
+    "11a": "Jerusalem Talmud Shekalim 4:2:4-3:2",
+    "11b": "Jerusalem Talmud Shekalim 4:3:2-4:1",
+    "12a": "Jerusalem Talmud Shekalim 4:4:1-5",
+    "12b": "Jerusalem Talmud Shekalim 4:4:5-9",
+    "13a": "Jerusalem Talmud Shekalim 4:4:9-5:1:3",
+    "13b": "Jerusalem Talmud Shekalim 5:1:3-12",
+    "14a": "Jerusalem Talmud Shekalim 5:1:12-21",
+    "14b": "Jerusalem Talmud Shekalim 5:1:21-3:2",
+    "15a": "Jerusalem Talmud Shekalim 5:3:2-4:10",
+    "15b": "Jerusalem Talmud Shekalim 5:4:10-6:1:5",
+    "16a": "Jerusalem Talmud Shekalim 6:1:5-11",
+    "16b": "Jerusalem Talmud Shekalim 6:1:11-2:1",
+    "17a": "Jerusalem Talmud Shekalim 6:2:1-7",
+    "17b": "Jerusalem Talmud Shekalim 6:2:7-3:3",
+    "18a": "Jerusalem Talmud Shekalim 6:3:3-4:2",
+    "18b": "Jerusalem Talmud Shekalim 6:4:2-7",
+    "19a": "Jerusalem Talmud Shekalim 6:4:7-7:2:1",
+    "19b": "Jerusalem Talmud Shekalim 7:2:1-7",
+    "20a": "Jerusalem Talmud Shekalim 7:2:7-3:2",
+    "20b": "Jerusalem Talmud Shekalim 7:3:2-7",
+    "21a": "Jerusalem Talmud Shekalim 7:3:7-8:1:1",
+    "21b": "Jerusalem Talmud Shekalim 8:1:1-3:1",
+    "22a": "Jerusalem Talmud Shekalim 8:3:1-4:4",
+    "22b": "Jerusalem Talmud Shekalim 8:4:4",
 }
 
 
@@ -109,9 +158,13 @@ def parse_filename(stem: str) -> Optional[Tuple[str, int, Optional[str]]]:
         if s.startswith(prefix):
             s = s[len(prefix):]
             break
-    # Strip trailing underscore suffixes — keep only the part before the first '_'
-    s = s.split('_')[0]
-    return _try_parse(s)
+    # Try with underscores removed first — handles names split by underscore (e.g. 'Ta_anit').
+    # _normalise inside _try_parse strips non-alpha chars, so 'ta_anit17' → 'taanit17'.
+    result = _try_parse(s.replace('_', ''))
+    if result:
+        return result
+    # Fall back to first underscore segment — drops suffixes like '_hybrid', '_v2'.
+    return _try_parse(s.split('_')[0])
 
 
 def parse_srt_header(srt_path: Path, n_entries: int = 8) -> Optional[Tuple[str, int, Optional[str]]]:
@@ -180,21 +233,30 @@ def _html_to_md(text: str) -> str:
 
 def _fetch_amud(masechta: str, daf: int, amud: str) -> Optional[str]:
     """Fetch one amud from Sefaria and return formatted markdown, or None on failure."""
-    ref = f"{masechta} {daf}{amud}"
-    # Sefaria API ref format: tractate name (spaces → underscores) + dot + daf+amud
-    # e.g. "Avodah Zarah 10a" → "Avodah_Zarah.10a"
-    ref_for_url = f"{masechta.replace(' ', '_')}.{daf}{amud}"
+    display_ref = f"{masechta} {daf}{amud}"
+
+    if masechta == 'Shekalim':
+        sefaria_ref = SHEKALIM_REFS.get(f"{daf}{amud}")
+        if not sefaria_ref:
+            return None
+        ref_for_url = requests.utils.quote(sefaria_ref, safe='')
+    else:
+        sefaria_ref = display_ref
+        # Sefaria API ref format: tractate name (spaces → underscores) + dot + daf+amud
+        # e.g. "Avodah Zarah 10a" → "Avodah_Zarah.10a"
+        ref_for_url = f"{masechta.replace(' ', '_')}.{daf}{amud}"
+
     url = f"https://www.sefaria.org/api/texts/{ref_for_url}?lang=bi&commentary=0&context=0"
     try:
         resp = requests.get(url, timeout=20)
         resp.raise_for_status()
     except requests.RequestException as e:
-        logger.warning(f"Sefaria request failed for {ref}: {e}")
+        logger.warning(f"Sefaria request failed for {display_ref}: {e}")
         return None
 
     data = resp.json()
     if 'error' in data:
-        logger.warning(f"Sefaria error for {ref}: {data['error']}")
+        logger.warning(f"Sefaria error for {display_ref}: {data['error']}")
         return None
 
     he_segments = data.get('he', [])
@@ -208,7 +270,7 @@ def _fetch_amud(masechta: str, daf: int, amud: str) -> Optional[str]:
 
     # Zip segments together
     length = max(len(he_segments), len(en_segments))
-    parts = [f"### {ref}\n"]
+    parts = [f"### {display_ref}\n"]
     for i in range(length):
         he = _html_to_md(_flatten(he_segments[i])) if i < len(he_segments) else ''
         en = _html_to_md(_flatten(en_segments[i])) if i < len(en_segments) else ''

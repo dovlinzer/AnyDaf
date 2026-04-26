@@ -1,0 +1,302 @@
+{
+  "masechta": "Bava Batra",
+  "daf": 172,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "Post-dating and accurate dating of sale documents (שטרי מכר) — principles and limitations",
+      "display_title": "Dating Sale Documents",
+      "timestamp": "00:48",
+      "micro_segments": [
+        {
+          "title": "The rule: if you know the date of the kinyan, write it; if not, write today's date to avoid appearing false (מחזי כשקרא)",
+          "display_title": "Known vs. Unknown Date",
+          "timestamp": "00:48"
+        },
+        {
+          "title": "Why sales of land with achrayus can be post-dated: liens exist from the time of sale even without a document, and buyers are presumed to know this",
+          "display_title": "Land Sales & Liens",
+          "timestamp": "06:17"
+        },
+        {
+          "title": "Contrast: loans cannot be post-dated because liens only come into being when the שטר is written, making a post-dated loan document invalid (שטר מוקדם)",
+          "display_title": "Loans Cannot Be Post-Dat…",
+          "timestamp": "08:06"
+        },
+        {
+          "title": "Writing both the place where the witnesses are located and the place where the event occurred, citing Rashbam's interpretation",
+          "display_title": "Place of Writing & Event",
+          "timestamp": "12:05"
+        }
+      ]
+    },
+    {
+      "title": "The שובר (receipt) and the פגום שטר (defective document) — protecting both creditor and debtor through document structure",
+      "display_title": "Receipts & Defective Doc…",
+      "timestamp": "17:39",
+      "micro_segments": [
+        {
+          "title": "Why we do not convert a 100-unit שטר into two 50-unit שטרות: mutual benefits for both malveh (leverage) and loveh (avoidance of שבועה requirement)",
+          "display_title": "No Conversion: 100 to 50…",
+          "timestamp": "17:39"
+        },
+        {
+          "title": "Why we do not convert two 50-unit שטרות into a single 100-unit שטר: preserves distinct advantages for each party",
+          "display_title": "No Conversion: 50+50 to…",
+          "timestamp": "22:03"
+        },
+        {
+          "title": "The fraud scenario: preventing a creditor from reducing a 100-unit loan to 50 units by claiming the debtor already paid, potentially obscuring a genuine receipt",
+          "display_title": "Fraud Prevention",
+          "timestamp": "24:01"
+        }
+      ]
+    },
+    {
+      "title": "Same-name problem in document identification: two people named Yosef ben Shimon in the same city",
+      "display_title": "Same-Name Identification",
+      "timestamp": "26:07",
+      "micro_segments": [
+        {
+          "title": "The basic rule: neither party can bring a חוב שטר (debt document) against the other; neither can a third party bring a debt document against both",
+          "display_title": "Mutual Inability",
+          "timestamp": "26:07"
+        },
+        {
+          "title": "Solution: use three generations of names (גבהון = triple patronymic); if still ambiguous, use identifying characteristics (סימנים); if none suffice, note priestly or levitical status (כהן, לוי)",
+          "display_title": "Solutions: 3 Names & Sim…",
+          "timestamp": "30:13"
+        }
+      ]
+    },
+    {
+      "title": "The open-ended 'from you' in a document: does it function as a bearer bond or require identification of the actual creditor?",
+      "display_title": "Bearer Bond Question",
+      "timestamp": "32:59",
+      "micro_segments": [
+        {
+          "title": "Rav Huna's challenge: if a שטר says 'I borrowed from you' but uses the generic 'you,' can we know who the creditor really is?",
+          "display_title": "Rav Huna's Challenge",
+          "timestamp": "32:59"
+        },
+        {
+          "title": "Proof from גט without a date: Abba Shaul says that 'today' in a גט makes it dated because of עדי מסירה (witnesses to delivery), not because today itself has special force",
+          "display_title": "Get Without Date",
+          "timestamp": "36:27"
+        },
+        {
+          "title": "Tosafot's alternative: 'from you' might be interpreted as a bearer document—whoever holds it is owed the debt, similar to how 'today' in a גט might mean 'whenever presented to beit din'",
+          "display_title": "Tosafot's Bearer Bond Re…",
+          "timestamp": "39:04"
+        },
+        {
+          "title": "Rava's position: we do not fear that the document was dropped and found by someone else; we assume it belongs to whoever is presenting it",
+          "display_title": "No Fear of Droppage",
+          "timestamp": "44:50"
+        },
+        {
+          "title": "Abaye's distinction: we do not fear one person dropping and one person finding it (נפילה דחד), but we do fear loss among many or ambiguity when a generic term is used (נפילה דרבים)",
+          "display_title": "Single vs. Multiple Drop…",
+          "timestamp": "45:59"
+        },
+        {
+          "title": "A Baraita limits collection on a document with one's own name if another person of the same name exists: the same logic that prevents mutual collection between identically named people applies outward",
+          "display_title": "Same Name Affects Collec…",
+          "timestamp": "47:48"
+        },
+        {
+          "title": "The debate hinges on whether the document itself is acquired through delivery (אותיות נקנות במסירה): if yes, delivery of the document transfers the debt; if no, one cannot be sure the document is actually theirs",
+          "display_title": "Acquisition by Delivery",
+          "timestamp": "48:24"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "שטר מכר (sale document)",
+      "timestamps": [
+        "01:06",
+        "01:38",
+        "02:43",
+        "06:43"
+      ]
+    },
+    {
+      "term": "post-dating / pre-dating (שטר מוקדם)",
+      "timestamps": [
+        "00:17",
+        "02:03",
+        "08:52",
+        "09:55"
+      ]
+    },
+    {
+      "term": "מחזי כשקרא (appearing false)",
+      "timestamps": [
+        "03:21",
+        "05:03",
+        "05:26"
+      ]
+    },
+    {
+      "term": "אחריות (liens / responsibility)",
+      "timestamps": [
+        "01:20",
+        "06:47",
+        "06:59",
+        "07:14"
+      ]
+    },
+    {
+      "term": "לקוחות (subsequent buyers)",
+      "timestamps": [
+        "01:25",
+        "07:08",
+        "07:34",
+        "07:57",
+        "08:20"
+      ]
+    },
+    {
+      "term": "שטר הלואה (loan document)",
+      "timestamps": [
+        "01:06",
+        "08:02",
+        "08:06",
+        "09:45"
+      ]
+    },
+    {
+      "term": "עדים (witnesses)",
+      "timestamps": [
+        "02:55",
+        "02:59",
+        "03:02"
+      ]
+    },
+    {
+      "term": "שובר (receipt)",
+      "timestamps": [
+        "00:19",
+        "00:28",
+        "18:01",
+        "19:05"
+      ]
+    },
+    {
+      "term": "שטר פגום (defective/impaired document)",
+      "timestamps": [
+        "19:42",
+        "19:46",
+        "19:49",
+        "20:38",
+        "20:46"
+      ]
+    },
+    {
+      "term": "שבועה (oath)",
+      "timestamps": [
+        "19:56",
+        "20:04",
+        "20:09",
+        "21:13"
+      ]
+    },
+    {
+      "term": "מלווה (creditor)",
+      "timestamps": [
+        "18:59",
+        "19:21",
+        "19:29",
+        "21:02",
+        "24:19"
+      ]
+    },
+    {
+      "term": "לוה (debtor)",
+      "timestamps": [
+        "18:59",
+        "19:18",
+        "19:26",
+        "20:34",
+        "21:02"
+      ]
+    },
+    {
+      "term": "שם אחד יוסף בן שמעון (same-name problem)",
+      "timestamps": [
+        "26:22",
+        "26:26",
+        "27:14",
+        "28:33"
+      ]
+    },
+    {
+      "term": "סימן (identifying characteristic)",
+      "timestamps": [
+        "30:45",
+        "30:50",
+        "31:10"
+      ]
+    },
+    {
+      "term": "כהן / לוי (priestly/levitical status)",
+      "timestamps": [
+        "30:50",
+        "31:03"
+      ]
+    },
+    {
+      "term": "שטר חוב (debt document)",
+      "timestamps": [
+        "28:57",
+        "29:01",
+        "29:42"
+      ]
+    },
+    {
+      "term": "גט (bill of divorce)",
+      "timestamps": [
+        "36:56",
+        "37:02",
+        "37:11",
+        "37:39"
+      ]
+    },
+    {
+      "term": "עדי מסירה (witnesses to delivery)",
+      "timestamps": [
+        "39:58",
+        "40:01",
+        "40:13"
+      ]
+    },
+    {
+      "term": "from you / ממך (open-ended creditor reference)",
+      "timestamps": [
+        "33:08",
+        "33:42",
+        "45:43",
+        "46:18"
+      ]
+    },
+    {
+      "term": "נפילה (dropping / loss of document)",
+      "timestamps": [
+        "41:57",
+        "44:50",
+        "45:59",
+        "46:15"
+      ]
+    },
+    {
+      "term": "אותיות נקנות במסירה (acquisition of document by delivery)",
+      "timestamps": [
+        "48:29",
+        "48:35",
+        "48:42"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+### Yoma 68a
+
+**1.**
+*Hebrew/Aramaic:* מָה לְהַלָּן, עַל יְדֵי נִיתּוּחַ וְלֹא עַל יְדֵי הֶפְשֵׁט, אַף כָּאן, עַל יְדֵי נִיתּוּחַ וְלֹא עַל יְדֵי הֶפְשֵׁט.
+*Translation:* **Just as below** it is prepared for burning **by means of dissection and not by means of skinning, so too here** it is **by means of dissection and not by means of skinning.**
+
+**2.**
+*Hebrew/Aramaic:* וְהָתָם מְנָא לַן? דְּתַנְיָא: ״וְקִרְבּוֹ וּפִרְשׁוֹ וְהוֹצִיא״ — מְלַמֵּד שֶׁמּוֹצִיאוֹ שָׁלֵם. יָכוֹל יִשְׂרְפֶנּוּ שָׁלֵם? נֶאֱמַר כָּאן: ״רֹאשׁוֹ וּכְרָעָיו״, וְנֶאֱמַר לְהַלָּן: (״רֹאשׁ וּכְרָעַיִם״), מָה לְהַלָּן עַל יְדֵי נִיתּוּחַ, אַף כָּאן עַל יְדֵי נִיתּוּחַ.
+*Translation:* The Gemara asks: **And there,** with regard to bull sin-offerings that are burned, **from where do we** derive that they are cut but not skinned? The Gemara answers: **As it was taught** in a *baraita*: “And the skin of the bull and all its flesh, with its head and with its legs, **and its innards, and its dung,** even the whole bull **shall he carry** outside the camp to a clean place, where the ashes are poured out, and burn it on wood with fire” (Leviticus 4:11–12). This **teaches that he brings it out whole.** One **might** have thought **that he should burn it whole. It is stated here: Its head and its legs, and it is stated there,** with regard to burnt-offerings, **head and legs. Just as there,** the burnt-offering is performed **by means of dissection,** as explicitly stated in the verse, **so too here it is by means of dissection.**
+
+**3.**
+*Hebrew/Aramaic:* אִי מָה לְהַלָּן עַל יְדֵי הֶפְשֵׁט, אַף כָּאן עַל יְדֵי הֶפְשֵׁט, תַּלְמוּד לוֹמַר: ״וְקִרְבּוֹ וּפִרְשׁוֹ״. מַאי תַּלְמוּדָא? אָמַר רַב פָּפָּא: כְּשֵׁם שֶׁפִּרְשׁוֹ בְּקִרְבּוֹ, כָּךְ בְּשָׂרוֹ בְּעוֹרוֹ.
+*Translation:* The Gemara asks: **If** so, derive the following from the same verbal analogy: **Just as there,** in the case of burnt-offerings, the dissection is performed **with skinning, so too here** it is **with skinning,** and he must remove the skin of the animals before burning them. The Gemara answers: Therefore, **the verse states “and its innards, and its dung.”** The Gemara asks: **What is the derivation** from this phrase? **Rav Pappa said: Just as its dung is within its innards** and they do not remove it, **so too, its flesh is in its skin** and they do not separate the skin from the flesh.
+
+**4.**
+*Hebrew/Aramaic:* מֵאֵימָתַי מְטַמְּאִין בְּגָדִים. תָּנוּ רַבָּנַן: ״יוֹצִיא אֶל מִחוּץ לַמַּחֲנֶה וְשָׂרְפוּ״.
+*Translation:* § It was taught in the mishna that the *tanna’im* disagree about the question of **at what point the** bull and goat **render the garments** of those who carried them **impure. The Sages taught** a *baraita* based on the verse: “The bull of the sin-offering and the goat of the sin-offering whose blood was brought in to gain atonement in the sacred place, **shall be taken outside the camp and they shall burn”** (Leviticus 16:27).
+
+**5.**
+*Hebrew/Aramaic:* לְהַלָּן אַתָּה נוֹתֵן לָהֶם שָׁלֹשׁ מַחֲנוֹת, וְכָאן אַתָּה נוֹתֵן לָהֶם מַחֲנֶה אַחַת? אִם כֵּן לָמָּה נֶאֱמַר ״מִחוּץ לַמַּחֲנֶה״, לוֹמַר לָךְ: כֵּיוָן שֶׁיָּצָא חוּץ לְמַחֲנֶה אַחַת — מְטַמְּאִים בְּגָדִים.
+*Translation:* One might wonder: **Below,** with regard to other bull sin-offerings that are burned, **you give them three camps,** meaning that the bulls are burned outside the Israelite camp or, in the time of the Temple, outside Jerusalem. **And here you give them** only **one camp,** as they are burned as soon as they are taken out of the Temple courtyard, which is considered the camp of the Divine Presence. This seems unreasonable and is not to be accepted. **If so, why is it stated: “Outside the camp”?** The intention is not that they leave only one camp, but rather, **to say to you: Once it has left one camp** it immediately **renders the garments** of those carrying it **impure.**
+
+**6.**
+*Hebrew/Aramaic:* וְהָתָם מְנָא לַן? דְּתַנְיָא: ״וְהוֹצִיא אֶת כׇּל הַפָּר״ — חוּץ לְשָׁלֹשׁ מַחֲנוֹת.
+*Translation:* The Gemara asks: **And there,** with regard to other bull sin-offerings that are burned, **from where do we** derive that they are removed from all three camps? The Gemara explains: **As it was taught** in a *baraita*: It is stated about the bull sin-offering of the High Priest: **“Even the whole bull shall he carry outside** the camp…and burn it” (Leviticus 4:12), meaning that he should take it **outside of three camps.**
+
+**7.**
+*Hebrew/Aramaic:* אַתָּה אוֹמֵר חוּץ לְשָׁלֹשׁ מַחֲנוֹת, אוֹ אֵינוֹ אֶלָּא חוּץ לְמַחֲנֶה אַחַת? כְּשֶׁהוּא אוֹמֵר בְּפַר הָעֵדָה ״אֶל מִחוּץ לַמַּחֲנֶה״, שֶׁאֵין תַּלְמוּד לוֹמַר, שֶׁהֲרֵי כְּבָר נֶאֱמַר ״וְשָׂרַף אוֹתוֹ כַּאֲשֶׁר שָׂרַף אֵת הַפָּר הָרִאשׁוֹן״, וּמָה תַּלְמוּד לוֹמַר ״אֶל מִחוּץ לַמַּחֲנֶה״ — לִיתֵּן לוֹ מַחֲנֶה שְׁנִיָּה.
+*Translation:* Do **you say** that he takes it **outside of three camps, or is** he required to take it **outside of only one camp? When it says** with regard to **the bull** sin-offering brought for the sin of **the community:** “He shall carry the bull **outside the camp”** (Leviticus 4:21), that verse requires explanation, **as** there is **no** need for **the verse to state** this, **since it was already stated: “And burn it as he burned the first bull”** (Leviticus 4:21), which indicates that all the *halakhot* of the bull sin-offering of a High Priest apply to the bull sin-offering of the community as well. **And what** is the meaning when **the verse states outside the camp? To give it a second camp,** i.e., to indicate that it must be removed from the Levite camp in addition to the camp of the Divine Presence.
+
+**8.**
+*Hebrew/Aramaic:* וּכְשֶׁהוּא אוֹמֵר ״מִחוּץ לַמַּחֲנֶה״ בַּדֶּשֶׁן, שֶׁאֵין תַּלְמוּד לוֹמַר, שֶׁהֲרֵי כְּבָר נֶאֱמַר: ״אֶל שֶׁפֶךְ הַדֶּשֶׁן״, תֵּן לוֹ מַחֲנֶה שְׁלִישִׁית.
+*Translation:* **And when it says: “Outside the camp”** (Leviticus 6:4) with regard to removal of the **ash,** that verse also requires explanation, **as** there is **no** need for **the verse to state** this, **since it was already stated** with regard to the bull sin-offering of a High Priest: “Even the whole bull shall he carry outside the camp to a clean place, where the ashes are poured out, and burn it on wood with fire; **where the ashes are poured out** shall it be burned” (Leviticus 4:12). Rather the repetition of the words: Outside the camp, indicates that he should **give it a third camp,** so that it is burned outside of the Israelite camp as well. Consequently, it has been derived that inner sin-offerings are burned outside of the three camps, and when the Torah states: Outside the camp, with regard to the bull and goat of Yom Kippur, it teaches that as soon as they are taken outside the Temple courtyard, the garments of those carrying them are rendered impure.
+
+**9.**
+*Hebrew/Aramaic:* וְרַבִּי שִׁמְעוֹן, הַאי ״מִחוּץ לַמַּחֲנֶה״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: רַבִּי אֱלִיעֶזֶר אוֹמֵר: נֶאֱמַר כָּאן ״מִחוּץ לַמַּחֲנֶה״ וְנֶאֱמַר לְהַלָּן ״מִחוּץ לַמַּחֲנֶה״, מָה כָּאן חוּץ לְשָׁלֹשׁ מַחֲנוֹת, אַף לְהַלָּן חוּץ לְשָׁלֹשׁ מַחֲנוֹת. וּמָה לְהַלָּן בְּמִזְרָחָהּ שֶׁל יְרוּשָׁלַיִם — אַף כָּאן בְּמִזְרָחָהּ שֶׁל יְרוּשָׁלַיִם.
+*Translation:* The Gemara asks: **And what does Rabbi Shimon do with** the phrase **outside the camp,** as he holds that those carrying the bull and goat are rendered impure only once they leave all three camps? The Gemara answers: **He needs it for that which was taught** in a *baraita*, that **Rabbi Eliezer says: It is stated here,** with regard to the bull of Yom Kippur, **outside the camp, and it is stated there,** with regard to the red heifer, **“outside the camp”** (Numbers 19:3). **Just as here,** it is burned **outside three camps, so too there** the heifer, it is burned **outside three camps. And just as there** it is burned **east of Jerusalem,** since the heifer must be burned “toward the front of the Tent of Meeting” (Numbers 19:4), opposite the entrance to the Temple to its east, **so too here** the bull and goat of Yom Kippur are burned **east of Jerusalem.**
+
+**10.**
+*Hebrew/Aramaic:* וְרַבָּנַן, הֵיכָא שָׂרֵיף לְהוּ? כִּדְתַנְיָא: הֵיכָן נִשְׂרָפִין?
+*Translation:* The Gemara asks: **And according to the Rabbis, where do they burn them?** The Gemara answers: **As it was taught** in a *baraita*: **Where are they burned?**

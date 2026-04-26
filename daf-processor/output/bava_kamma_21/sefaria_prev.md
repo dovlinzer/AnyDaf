@@ -1,0 +1,77 @@
+### Bava Kamma 20b
+
+**1.**
+*Hebrew/Aramaic:* הָא אִיתְהֲנִית!
+*Translation:* **You have derived benefit** from my property, as by living there you saved the money you otherwise would have had to pay in order to rent out a different courtyard, and therefore you must pay me for the benefit you derived.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מַתְנִיתִין הִיא. הֵי מַתְנִיתִין? אֲמַר לֵיהּ: לְכִי תְּשַׁמֵּשׁ לִי. שְׁקַל סוּדָרֵיהּ כְּרַךְ לֵיהּ. אֲמַר לֵיהּ: אִם נֶהֱנֵית – מְשַׁלֶּמֶת מַה שֶּׁנֶּהֱנֵית.
+*Translation:* Rami bar Ḥama **said to him:** This dilemma is not new; rather, **it is** discussed in **the mishna,** and the mishna already provided a solution. Rav Ḥisda asked him: To **which mishna** are you referring? Rami bar Ḥama **said to him: After you serve me,** I will tell you. Rav Ḥisda **took** hold of Rami bar Ḥama’s **scarf [*suderei*] and folded it**, as an act of service. Rami bar Ḥama then **said to him:** This is the mishna: **If** the animal **derives benefit,** the owner of the animal **pays** for **the benefit that** the animal **derived.** This demonstrates that one who derives benefit must pay for the benefit he derives, even if the injured party is not entitled to payment for his loss.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רָבָא: כַּמָּה לָא חָלֵי וְלָא מַרְגֵּישׁ גַּבְרָא דְּמָרֵיהּ סַיְּיעֵיהּ – דְּאַף עַל גַּב דְּלָא דָּמֵי לְמַתְנִיתִין, קַבְּלַהּ מִינֵּיהּ. הַאי זֶה נֶהֱנֶה וְזֶה חָסֵר, וְהַאי זֶה נֶהֱנֶה וְזֶה לֹא חָסֵר הוּא!
+*Translation:* **Rava said: How** little does **a man who has the assistance of his Lord have to worry or be concerned** about the possibility that his opinion may not be accepted, **as even though** the dilemma that was raised is in fact **not similar to** the case in **the mishna** quoted by Rami bar Ḥama, Rav Ḥisda nevertheless **accepted it from him. This** case in the mishna, about the animal eating produce in the public domain, is where **this one derives benefit and that one suffers a loss, and that** case of the squatter living in the courtyard, is where **this one derives benefit and that one does not suffer a loss.**
+
+**4.**
+*Hebrew/Aramaic:* וְרָמֵי בַּר חָמָא – סְתַם פֵּירוֹת בִּרְשׁוּת הָרַבִּים, אַפְקוֹרֵי מַפְקַר לְהוּ.
+*Translation:* The Gemara asks: **And** what does **Rami bar Ḥama** think? Why does he equate the two cases? The Gemara explains: He holds that if **produce** is left **in the public domain without specification** with regard to its ownership, it is assumed that the owner **has rendered it ownerless.** The owner does not expect to derive benefit from the produce, and therefore when the animal ate it he suffered no loss. Consequently, it is a case where this one derives benefit and that one does not suffer a loss, and it is comparable to the case of the squatter in the courtyard.
+
+**5.**
+*Hebrew/Aramaic:* תְּנַן: הַמַּקִּיף חֲבֵירוֹ מִשָּׁלֹשׁ רוּחוֹתָיו, וְגָדַר אֶת הָרִאשׁוֹנָה וְאֶת הַשְּׁנִיָּה וְאֶת הַשְּׁלִישִׁית – אֵין מְחַיְּיבִין אוֹתוֹ. הָא רְבִיעִית – מְחַיְּיבִין אוֹתוֹ;
+*Translation:* The Gemara attempts to cite conclusive evidence from another case: **We learned** in a mishna (*Bava Batra* 4b): If **one’s** fields **surround** the fields of **another on three sides, and he fenced in the first, the second, and the third** field, thereby providing protection also to the other man’s field, the court **does not obligate** the owner of the inner field to share in the costs of the fence, as he can claim that he does not derive benefit from it, since his field remains exposed on the fourth side. The Gemara infers: **But** this indicates that if his fields surrounded the inner field on all four sides, and the owner of the outer fields fenced the field on the **fourth** side as well, the court **does obligate** the owner of the inner field to share in the expenses.
+
+**6.**
+*Hebrew/Aramaic:* שְׁמַע מִינַּהּ: זֶה נֶהֱנֶה וְזֶה לֹא חָסֵר – חַיָּיב! שָׁאנֵי הָתָם, דַּאֲמַר לֵיהּ: אַתְּ גְּרַמְתְּ לִי הֶקֵּיפָא יַתִּירָא.
+*Translation:* The Gemara suggests: **Conclude from** the mishna that where **this one derives benefit and that one does not suffer a loss,** the one who derives benefit is **obligated** to pay for that benefit. In this case, the owner of the inner field benefits from the fence while the owner of the outer field does not suffer a loss, because in any event he would have needed to build those fences, and the owner of the inner field is obligated to share in the expense. The Gemara rejects this: It **is different there** because the owner of the outer field **can say to** the owner of the inner field: **Your** field **caused me to have to** build the fence with **a larger circumference** than I would have otherwise needed to had your field not been there, and therefore your field caused me an additional expense. This case is therefore similar to those where this one derives benefit and that one suffers a loss.
+
+**7.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, אָמַר רַבִּי יוֹסֵי: אִם עָמַד נִיקָּף וְגָדַר אֶת הָרְבִיעִית – מְגַלְגְּלִין עָלָיו אֶת הַכֹּל. טַעְמָא דְּגָדַר נִיקָּף, הָא מַקִּיף – פָּטוּר;
+*Translation:* The Gemara attempts another resolution: **Come** and **hear** a proof from the continuation of that mishna. **Rabbi Yosei said: If** the owner of **the surrounded,** i.e., inner, field **arose and enclosed the fourth** side on his own, the court **imposes upon him** the obligation to pay his share of **all** of it, as through his actions he demonstrated that he was interested in having the fence installed. The Gemara infers from this: The **reason** the court imposes upon him the obligation to pay his share of all of it is because the owner of **the surrounded** field arose and **enclosed** the fourth side himself. By inference, had the owner of **the surrounding** field built the fourth fence, the owner of the inner field would be **exempt.**
+
+**8.**
+*Hebrew/Aramaic:* שְׁמַע מִינַּהּ, זֶה נֶהֱנֶה וְזֶה לֹא חָסֵר – פָּטוּר! שָׁאנֵי הָתָם, דְּאָמַר לֵיהּ: לְדִידִי סַגִּי לִי בִּנְטִירָא בַּר זוּזָא.
+*Translation:* The Gemara suggests: **Conclude from** the mishna that where **this one derives benefit and that one does not suffer a loss,** the one who derives benefit is **exempt.** The Gemara rejects this: It **is different there** because the owner of the inner field **can say to** the owner of the surrounding fields: **For me, the protection** of a fence **worth a dinar would have been sufficient;** I did not wish to pay for such an expensive fence.
+
+**9.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הַבַּיִת וְהָעֲלִיָּיה שֶׁל שְׁנַיִם, שֶׁנָּפְלוּ; אָמַר בַּעַל הָעֲלִיָּיה לְבַעַל הַבַּיִת לִבְנוֹת, וְהוּא אֵינוֹ רוֹצֶה – הֲרֵי בַּעַל הָעֲלִיָּיה בּוֹנֶה בַּיִת וְיוֹשֵׁב בָּהּ, עַד שֶׁיִּתֵּן לוֹ יְצִיאוֹתָיו.
+*Translation:* The Gemara attempts another resolution: **Come** and **hear** a proof from a mishna (*Bava Metzia* 117a): If **a house and its upper story,** which belonged **to two** separate people, **collapsed,** necessitating that the entire structure be rebuilt, and **the owner of the upper story told the owner of the** lower story of the **house to build** the lower story again so that he could rebuild the upper story, but the owner of the lower story **does not want to** do so, **the owner of the upper story may build** the lower story of the **house and live in it until** the owner of the lower story **will pay him for his expenses,** and only then will he be required to vacate the lower story of the house and build the upper story.
+
+**10.**
+*Hebrew/Aramaic:* יְצִיאוֹתָיו הוּא דִּמְחַיֵּיב לֵיהּ בַּעַל הַבַּיִת, הָא שְׂכָרוֹ – לָא; שְׁמַע מִינַּהּ, זֶה נֶהֱנֶה וְזֶה לֹא חָסֵר – פָּטוּר! שָׁאנֵי הָתָם, דְּבֵיתָא לַעֲלִיָּיה מִשְׁתַּעְבַּד.
+*Translation:* The Gemara infers: It **is** all of **his expenses that the owner of the** lower story of the **house is obligated to** pay **him, and** he **does not** subtract from the amount compensation **for rent** for the time that the owner of the upper story lived in the lower story of the house. **Conclude from** the mishna that where **this one derives benefit and that one does not suffer a loss,** the one who derives benefit is **exempt,** as the owner of the upper story derived benefit from living in the lower story, while the owner of the lower story did not suffer a loss, since he said he did not need it. The Gemara rejects this proof: It **is different there because the** lower story of the **house is subjugated to the upper story,** because it also serves as the foundation of the upper story, and therefore the owner of the lower story of the house is obligated to provide lodging to the owner of the upper story in the interim.
+
+**11.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, רַבִּי יְהוּדָה אוֹמֵר: אַף זֶה הַדָּר בַּחֲצַר חֲבֵירוֹ שֶׁלֹּא מִדַּעְתּוֹ – צָרִיךְ לְהַעֲלוֹת לוֹ שָׂכָר. שְׁמַע מִינַּהּ: זֶה נֶהֱנֶה וְזֶה לֹא חָסֵר – חַיָּיב! שָׁאנֵי הָתָם, מִשּׁוּם שַׁחְרוּרִיתָא דְאַשְׁיָיתָא.
+*Translation:* The Gemara attempts another resolution. **Come** and **hear** a proof from the continuation of the mishna, in which Rabbi Yehuda disagrees with the first *tanna* and holds that the owner of the upper story may not reside in the lower story of the house without payment. **Rabbi Yehuda says:** A proof that the owner of the upper story must pay rent is from the *halakha* that **even this** one **who resides in another’s courtyard without his knowledge must pay him rent. Conclude from** the mishna that when **this one derives benefit and that one does not suffer a loss,** the one who derives benefit is **obligated** to pay. The Gemara rejects this: It **is different there,** as there it is possible to claim that the owner of the lower story suffers a loss **due to the blackening of the walls,** as when a person lives in a home, the value of the house depreciates due to the use.
+
+**12.**
+*Hebrew/Aramaic:* שַׁלְּחוּהָ בֵּי רַבִּי אַמֵּי, אָמַר: וְכִי מָה עָשָׂה לוֹ, וּמָה חִסְּרוֹ, וּמָה הִזִּיקוֹ? רַבִּי חִיָּיא בַּר אַבָּא אָמַר: נִתְיַישֵּׁב בַּדָּבָר. הֲדַר שַׁלְּחוּהָ קַמֵּיהּ דְּרַבִּי חִיָּיא בַּר אַבָּא, אָמַר: כּוּלֵּיהּ הַאי שָׁלְחוּ לִי וְאָזְלִי! אִילּוּ אַשְׁכַּחִי בַּהּ טַעְמָא, לָא שָׁלַחְנָא לְהוּ?!
+*Translation:* This dilemma was not successfully resolved so **they sent it** to the **academy of Rabbi Ami** to ask his opinion. Rabbi Ami **said: And what did** this squatter **do to** the owner? **What loss did he cause him? How did he damage him?** Rav Ami holds that if this one derives benefit and that one does not suffer a loss, no payment is necessary. When asked about this dilemma, **Rabbi Ḥiyya bar Abba said: Let us consider the matter.** After waiting and not receiving a response **they sent** the question **to Rabbi Ḥiyya bar Abba again. He said: They keep sending me this** dilemma; **had I found a response** to their question, **would I not have sent them** a reply? They should have realized that Rabbi Ḥiyya bar Abba did not have an answer for them.
+
+**13.**
+*Hebrew/Aramaic:* אִתְּמַר, רַב כָּהֲנָא אָמַר רַבִּי יוֹחָנָן: אֵינוֹ צָרִיךְ לְהַעֲלוֹת לוֹ שָׂכָר. רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: צָרִיךְ לְהַעֲלוֹת לוֹ שָׂכָר.
+*Translation:* **It was stated** that the *amora’im* discussed this matter: **Rav Kahana** says that **Rabbi Yoḥanan says: He need not pay him rent,** and **Rabbi Abbahu** says that **Rabbi Yoḥanan says: He must pay him rent.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: הָא דְּרַבִּי אֲבָהוּ – לָאו בְּפֵירוּשׁ אִתְּמַר, אֶלָּא מִכְּלָלָא אִתְּמַר. דִּתְנַן: נָטַל אֶבֶן אוֹ קוֹרָה שֶׁל הֶקְדֵּשׁ – הֲרֵי זֶה לֹא מָעַל.
+*Translation:* **Rav Pappa said: This** statement **of Rabbi Abbahu,** citing Rabbi Yoḥanan, **was not stated explicitly; rather,** it **was stated from an inference** that Rabbi Abbahu drew from something that Rabbi Yoḥanan said in a different context. **As we learned** in a mishna (*Me’ila* 5:4): If the treasurer of consecrated property **took** for himself **a stone or** a cross **beam** that had been **consecrated, he has not** violated the prohibition of **misuse** of consecrated property. This is because his act of taking the stone or the beam has not effectively removed it from within the jurisdiction of Temple property, as any item under his control is in the possession of the Temple treasury.
+
+**15.**
+*Hebrew/Aramaic:* נְתָנָהּ לַחֲבֵירוֹ – הוּא מָעַל, וַחֲבֵירוֹ לֹא מָעַל. בְּנָאָהּ לְתוֹךְ בֵּיתוֹ – הֲרֵי זֶה לֹא מָעַל, עַד שֶׁיָּדוּר תַּחְתֶּיהָ שָׁוֶה פְּרוּטָה.
+*Translation:* If the treasurer **gave it to another** as a gift, **he** has then **misused** consecrated property, as he removed it from the possession of the Temple and conveyed it into the possession of another. But **the other** man, who received the item, has **not misused** a consecrated item until he actually uses the item. If the treasurer himself **built it into his house, he has not** violated the prohibition of **misuse** of consecrated property **until he has lived beneath it** for an amount of time **worth one *peruta*.**
+
+**16.**
+*Hebrew/Aramaic:* וְאָמַר שְׁמוּאֵל: וְהוּא שֶׁהִנִּיחָהּ עַל פִּי אֲרוּבָּה.
+*Translation:* **And Shmuel said: And this** is the *halakha* provided **that he placed it over the skylight,** as were he to have built it into the actual structure of the house, he would have violated the prohibition of misuse with the very act of construction, as by doing so he effects a change in the stone itself. By contrast, when he places the stone in a place from which it is easy to remove it and give it back, then as long as he has not lived beneath it, he has not, as yet, misused consecrated property.
+
+**17.**
+*Hebrew/Aramaic:* וְיָתֵיב רַבִּי אֲבָהוּ קַמֵּיהּ דְּרַבִּי יוֹחָנָן, וְקָאָמַר מִשְּׁמֵיהּ דִּשְׁמוּאֵל: זֹאת אוֹמֶרֶת, הַדָּר בַּחֲצַר חֲבֵירוֹ שֶׁלֹּא מִדַּעְתּוֹ – צָרִיךְ לְהַעֲלוֹת לוֹ שָׂכָר; וּשְׁתֵק לֵיהּ.
+*Translation:* **And Rabbi Abbahu sat before Rabbi Yoḥanan and** was **saying in the name of Shmuel: That is to say, one who resides in another’s courtyard without his knowledge must pay him rent,** similar to the treasurer who resides beneath the consecrated beam without detracting from the value of the beam in any way but has nevertheless violated the prohibition of misuse since he has derived personal benefit from it. **And** Rabbi Yoḥanan **remained silent** and offered **him** no reply.
+
+**18.**
+*Hebrew/Aramaic:* אִיהוּ סָבַר – מִדִּשְׁתֵיק, מוֹדֶה לֵיהּ. וְלָא הִיא, אַשְׁגּוֹחֵי לָא אַשְׁגַּח בֵּיהּ.
+*Translation:* Rabbi Abbahu **thought** that **since he was silent,** this must mean **he concedes to his** conclusion, and therefore, from then on he would cite this opinion in the name of Rabbi Yoḥanan. **But** that is **not so.** The reason Rabbi Yoḥanan was silent was because **he did not pay attention** to Rabbi Abbahu and did not bother to contradict his opinion on the issue. In truth Rabbi Yoḥanan’s opinion is as was reported in his name by Rav Kahana, that a squatter living on someone else’s premises without his permission and without causing him any loss does not need to pay the owner any rent.
+
+**19.**
+*Hebrew/Aramaic:* כִּדְרַבָּה, דְּאָמַר רַבָּה: הֶקְדֵּשׁ שֶׁלֹּא מִדַּעַת –
+*Translation:* The Gemara explains the distinction between that case and the case of the consecrated stone or beam. The reason the treasurer of consecrated property is considered to have misused consecrated property by deriving benefit from it is **in accordance with** the statement **of Rabba, as Rabba says: Consecrated** property from which one derived benefit **without** the Temple treasury’s **knowledge**

@@ -24,6 +24,7 @@ struct StudyModeView: View {
     @ObservedObject var manager: StudySessionManager
     @ObservedObject var readAloudManager: ReadAloudManager
     @ObservedObject private var resourcesManager = ResourcesManager.shared
+    var isAudioPlaying: Bool = false
     let onDismiss: () -> Void
     @State private var quizzedSectionIndices: Set<Int> = []
     /// Owned here so it survives loading-state transitions that unmount SectionStudyView.
@@ -221,12 +222,19 @@ struct StudyModeView: View {
 
     private var header: some View {
         ZStack {
-            // Centered daf + amud + mode title
+            // Centered daf + amud + mode title (lock icon when audio is playing)
             if let session = manager.session {
                 let onAmudB = session.amudBSectionIndex.map { session.currentSectionIndex >= $0 } ?? false
-                Text("\(session.tractate) \(session.daf)\(onAmudB ? "b" : "a")")
-                    .font(.headline)
-                    .foregroundStyle(studyFg)
+                HStack(spacing: 6) {
+                    if isAudioPlaying {
+                        Image(systemName: "lock.fill")
+                            .font(.footnote)
+                            .foregroundStyle(studyFg.opacity(0.55))
+                    }
+                    Text("\(session.tractate) \(session.daf)\(onAmudB ? "b" : "a")")
+                        .font(.headline)
+                        .foregroundStyle(studyFg)
+                }
             }
             // Back button (left, iPhone only) + Jump to Amud B (right)
             HStack {
@@ -451,7 +459,7 @@ struct SectionStudyView: View {
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     @State private var revealedCount: Int = 1
-    @State private var showHebrew = true
+    @AppStorage("studyShowHebrew") private var showHebrew = false
 
     // Scroll anchor IDs
     private let topID = "sectionTop"
@@ -530,7 +538,7 @@ struct SectionStudyView: View {
                 // reduces the layout-recalculation lag on first text-field focus.
                 .scrollDismissesKeyboard(.interactively)
                 .onChange(of: section.id) { _, _ in
-                    // showHebrew intentionally NOT reset — user's language toggle persists across sections.
+                    // showHebrew is @AppStorage — persists across sections, daf changes, and app restarts.
                     // selectedTab intentionally NOT reset — user stays in
                     // whichever tab they were in when they advance or jump amud.
                     revealedCount = 1
@@ -1057,11 +1065,8 @@ struct SectionStudyView: View {
         VStack(alignment: .leading, spacing: 10) {
             // Header row — only shown for English-only and toggle mode
             if section.hebrewText == nil {
-                // English only: title + color legend
+                // English only: color legend only (no title — section may be an intro with no source text)
                 HStack {
-                    Label("Translation", systemImage: "scroll")
-                        .font(.headline)
-                        .foregroundStyle(fg)
                     Spacer()
                     colorLegend
                 }
@@ -1172,11 +1177,11 @@ struct SectionStudyView: View {
     private func parseTranslationHTML(_ html: String) -> [TranslationSegment] {
         var segments: [TranslationSegment] = []
 
-        // Strip section-header bold tags (e.g. <strong>GEMARA:</strong>) — the section
-        // title is already shown above so we don't repeat it here.
+        // Unwrap section-header bold tags (e.g. <strong>GEMARA:</strong>) so the label
+        // appears inline as plain text rather than being styled as a direct translation.
         var cleaned = html.replacingOccurrences(
-            of: #"<(?:strong|b)>[A-Z][A-Z ]*:?</(?:strong|b)>"#,
-            with: "", options: .regularExpression)
+            of: #"<(?:strong|b)>([A-Z][A-Z ]*):?</(?:strong|b)>"#,
+            with: "$1. ", options: .regularExpression)
 
         // Normalise line-breaks
         for br in ["<br/>", "<br />", "<br>"] {

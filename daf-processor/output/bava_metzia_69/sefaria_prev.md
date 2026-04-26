@@ -1,0 +1,61 @@
+### Bava Metzia 68b
+
+**1.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: כְּפוֹעֵל בָּטֵל שֶׁל אוֹתָהּ מְלָאכָה דִּבְטַל מִינַּהּ.
+*Translation:* **Abaye says:** It means that he is paid **as a laborer** who is **idle from that** typical **labor** of his **from which he is** kept **idle.** In other words, he must receive the amount of money that an individual would be willing to accept to refrain from his current occupation and engage in an easier task.
+
+**2.**
+*Hebrew/Aramaic:* וּצְרִיכָא, דְּאִי תְּנָא חֶנְוָנִי: חֶנְוָנִי הוּא דְּסַגִּי לֵיהּ כְּפוֹעֵל בָּטֵל, מִשּׁוּם דְּלָא נְפִישׁ טִרְחֵיהּ. אֲבָל מָעוֹת לִיקַּח בָּהֶן פֵּירוֹת, דִּנְפִישׁ טִרְחֵיהּ – אֵימָא לָא סַגִּי לֵיהּ כְּפוֹעֵל בָּטֵל.
+*Translation:* The Gemara comments: **And** it is **necessary** for the *tanna* to teach us both *halakhot*, that of a storekeeper who was given produce to sell as well as one who was given money to buy the produce. **As had he taught** only the *halakha* of **a storekeeper** who receives produce to sell, I would say that **it is** specifically **a storekeeper for whom it is enough** to receive his wages **as an idle laborer, because his toil is not great,** as the produce is already prepared and he merely has to sell it. **But** in the case of one who was given **money with which to acquire produce, whose toil is great,** as he must find the produce in the market and bring it back to his store, **I might say** that it is **not sufficient for him** to be paid **as an idle laborer.**
+
+**3.**
+*Hebrew/Aramaic:* וְאִי תְּנָא מָעוֹת לִיקַּח בָּהֶן פֵּירוֹת – הֲוָה אָמֵינָא: הָתָם הוּא דְּבָעֵי כְּפוֹעֵל בָּטֵל, מִשּׁוּם דִּנְפִישׁ טִרְחֵיהּ. אֲבָל חֶנְוָנִי, דְּלָא נְפִישׁ טִרְחֵיהּ – אֵימָא סַגִּי לֵיהּ בְּמַשֶּׁהוּ בְּעָלְמָא, דַּאֲפִילּוּ לֹא טִבֵּל עִמּוֹ אֶלָּא בְּצִיר, וְלֹא אָכַל עִמּוֹ אֶלָּא גְּרוֹגֶרֶת אַחַת – זֶהוּ שְׂכָרוֹ, צְרִיכָא.
+*Translation:* **And** conversely, **had** the *tanna* **taught** only the *halakha* of one who receives **money with which to acquire produce, I would say** it is in the case **there that he requires** payment **as an idle laborer, because his toil is great, but** with regard to **a storekeeper, whose toil is not great, I would say** that **any amount is enough for him; that,** for example, **even if** the one providing the produce **only immersed** his bread **in brine with** the storekeeper, **or only ate one dried fig with him, this is** sufficient to count as **his wages,** i.e., providing the bit of brine or a fig is sufficient to account for the storekeeper’s labor. It was therefore **necessary** for this *halakha* to be stated with regard to both cases.
+
+**4.**
+*Hebrew/Aramaic:* (כַּמָּה עִיזֵּי וְתַרְנְגוֹלִין מַעֲלִין סִימָן)
+*Translation:* § Parenthetically, the Gemara lists the terms: **How many goats, and chickens, we add;** this constitutes **a mnemonic** device for the following discussions.
+
+**5.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כַּמָּה הוּא שְׂכָרוֹ? בֵּין מְרוּבֶּה וּבֵין מוּעָט, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: אֲפִילּוּ לֹא טִבֵּל עִמּוֹ אֶלָּא בְּצִיר, וְלֹא אָכַל עִמּוֹ אֶלָּא גְּרוֹגֶרֶת אַחַת – זֶהוּ שְׂכָרוֹ. רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי אוֹמֵר: נוֹתֵן לוֹ שְׂכָרוֹ מְשַׁלֵּם.
+*Translation:* The mishna teaches that one may not enter into a joint venture with a storekeeper unless he gives him his wages. **The Sages taught** in a *baraita*: **How much is his wage?** What is the minimum amount he must be paid to avoid the prohibition of interest? It is permitted **whether** it is **a lot or a little,** in accordance with the agreement between them; this is **the statement of Rabbi Meir. Rabbi Yehuda says: Even if he only immersed** his bread **in brine with him, or only ate one dried fig with him, this is** sufficient for **his wage. Rabbi Shimon ben Yoḥai says:** He must **give him his full wage,** i.e., as a laborer.
+
+**6.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵין שָׁמִין לֹא אֶת הָעִזִּים וְלֹא אֶת הָרְחֵלִים, וְלֹא כׇּל דָּבָר שֶׁאֵינוֹ עוֹשֶׂה וְאוֹכֵל לְמֶחֱצָה.
+*Translation:* **The Sages taught: One may not appraise** animals, i.e., one may not give his animals to someone else to raise after appraising their worth, in exchange **for half** the profits, **neither goats, nor sheep, nor anything** else **that does not produce** revenue **while it eats.** In other words, one may not enter into an agreement that any increase in value over and above the original appraisal of the animals will be shared between the owner and the one raising the animals. Since the animals do not produce revenue for the one raising them, his caring for the animal on behalf of the owner is tantamount to paying interest, as in the mishna.
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: שָׁמִין אֶת הָעִזִּים מִפְּנֵי שֶׁחוֹלְבוֹת, וְאֶת הָרְחֵלִים מִפְּנֵי שֶׁגּוֹזְזוֹת וְשׁוֹטְפוֹת וּמוֹרְטוֹת, וְאֶת הַתַּרְנְגוֹלֶת מִפְּנֵי שֶׁהִיא עוֹשָׂה וְאוֹכֶלֶת.
+*Translation:* **Rabbi Yosei, son of Rabbi Yehuda, says: One may appraise goats** for another to raise in this manner, **because they produce milk, and** one may appraise **sheep** for another to raise in this manner, **because they are shorn** for their wool, **and they** also have their wool removed when they are **washed** in water, **and they are plucked** of their wool by means of thorns, and the one who raises them can collect this wool. Consequently, the milk and wool generate revenue for the one raising them, and this can serve as a wage to avoid the prohibition of interest. **And** the same applies to **a chicken, because it produces** eggs **while it eats.**
+
+**8.**
+*Hebrew/Aramaic:* וְתַנָּא קַמָּא: גִּיזָּה וְחָלָב לָא סָפֵק שְׂכַר עֲמָלוֹ וּמְזוֹנוֹ? בְּגִיזָּה וְחָלָב – כּוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְלִיגִי בְּנַסְיוֹבֵי וְתוּתְרֵי.
+*Translation:* The Gemara asks a question: **And** as for **the first *tanna*,** how does he respond to this claim? Does he claim that **shearing and milk do not provide** the payment **of the wage for his toil and** for the animal’s **food?** The Gemara answers: If the arrangement allows him to keep **the sheared** wool **and milk, everyone agrees** that this is sufficient to avoid the prohibition of interest. **When they disagree,** it is **with regard to** a case when he receives only the **whey [*benasyovi*],** i.e., the water left from the milk, **and the pluckings [*vetoteri*]** from the goats.
+
+**9.**
+*Hebrew/Aramaic:* תַּנָּא קַמָּא סָבַר לַהּ כְּרַבִּי שִׁמְעוֹן בֶּן יוֹחַי, דְּאָמַר: נוֹתֵן לוֹ שְׂכָרוֹ מִשָּׁלֵם. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה סָבַר לַהּ כַּאֲבוּהּ, דְּאָמַר: אֲפִילּוּ לֹא טִבֵּל עִמּוֹ אֶלָּא בְּצִיר, וְלֹא אָכַל עִמּוֹ אֶלָּא גְּרוֹגֶרֶת אַחַת – זֶהוּ שְׂכָרוֹ.
+*Translation:* The Gemara clarifies the dispute: **The first *tanna* holds in accordance with** the opinion of **Rabbi Shimon ben Yoḥai, who says** that **he gives him his full wage.** Since the value of the whey and pluckings is less than a full wage, his receiving them does not suffice to replace his wage. **Rabbi Yosei, son of Rabbi Yehuda, holds in accordance with** the opinion of **his father, who says** that **even if he only immersed** his bread **in brine with him, or only ate one dried fig with him, this is his wage,** as there is no demand that his wages be commensurate with his toil.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מַשְׂכֶּרֶת אִשָּׁה לַחֲבֶרְתָּהּ תַּרְנְגוֹלֶת בִּשְׁנֵי אֶפְרוֹחִין. אִשָּׁה שֶׁאָמְרָה לַחֲבֶרְתָּהּ: ״תַּרְנְגוֹלֶת שֶׁלִּי וּבֵיצִים שֶׁלִּיכִי, וַאֲנִי וְאַתְּ נַחְלוֹק בָּאֶפְרוֹחִין״ – רַבִּי יְהוּדָה מַתִּיר, רַבִּי שִׁמְעוֹן אוֹסֵר.
+*Translation:* **The Sages taught: A woman may rent** out **to another** woman **a chicken** to sit on the eggs belonging to the renter in exchange **for two** of the **chicks** hatched from the eggs. But with regard to **a woman who said to another:** The **chicken is mine and the eggs are yours, and you and I shall share the chicks,** i.e., my chicken will sit on your eggs until they hatch, **Rabbi Yehuda permits** this practice, and **Rabbi Shimon prohibits** it. He holds that since the owner of the chicken is responsible for half of the loss to the eggs, therefore part of this venture is a loan. As she is not being paid for her efforts, it is considered interest.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה לָא בָּעֵי שְׂכַר עֲמָלוֹ וּמְזוֹנוֹ? אִיכָּא בֵּיצִים מוּזָרוֹת.
+*Translation:* The Gemara asks: **And** as for **Rabbi Yehuda,** does he **not require** one to pay at least a minimal amount of **the wage for the toil of** the one caring for the chicken **and** the chicken’s **food?** The Gemara answers: **There are unfertilized eggs,** from which no chicks will hatch. Such eggs are retained by the owner of the chicken, and therefore she does receive some benefit.
+
+**12.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: מָקוֹם שֶׁנָּהֲגוּ לְהַעֲלוֹת שְׂכַר כַּתָּף לְמָעוֹת לִבְהֵמָה – מַעֲלִין, וְאֵין מְשַׁנִּין מִמִּנְהַג הַמְּדִינָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: שָׁמִין עֵגֶל עִם אִמּוֹ, וּסְיָח עִם אִמּוֹ, וַאֲפִילּוּ בִּמְקוֹם שֶׁנָּהֲגוּ לְהַעֲלוֹת שְׂכַר כַּתָּף לְמָעוֹת.
+*Translation:* **The Sages taught:** In **a place where** people **are accustomed to add the wages** of **a porter** for carrying a young **animal** on his shoulders **to the money** paid, the owner of the animal **must add** it to the overall sum, **and one may not deviate from the regional custom. Rabban Shimon ben Gamliel says: One may appraise a calf** that grows up **with its mother** for another to raise, **and a foal** that grows up **with its mother** for another to raise, as part of a single venture and split the profits, but one does not add to the wages for his toil, **and** this applies **even in a place where they have the custom to add the wages** of **a porter to the money** paid.
+
+**13.**
+*Hebrew/Aramaic:* וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל לָא בָּעֵי שְׂכַר עֲמָלוֹ וּמְזוֹנוֹ? אִיכָּא גְּלָלִים. וְאִידַּךְ: גְּלָלִים – אַפְקוֹרֵי מַפְקֵיר לְהוּ.
+*Translation:* The Gemara asks: **But** as for **Rabban Shimon ben Gamliel,** does he **not require** that one pay at least a minimal amount for **the wage for the toil of** the one caring for the animals **and** the animals’ **food?** The Gemara answers: **There is the** animals’ **dung,** which is of some benefit to the one who raises the animals. The Gemara asks: **And** how does **the other** Sage respond to this claim? The Gemara replies: He maintains that **he declares the dung ownerless,** as he does not consider this important enough to retain. Consequently, this does not qualify as compensation paid to the one raising the young animal.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: הֲלָכָה כְּרַבִּי יְהוּדָה, וַהֲלָכָה כְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה, וַהֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.
+*Translation:* **Rav Naḥman said:** With regard to these joint ventures involving animals, the ***halakha*** is **in accordance with** the opinion of **Rabbi Yehuda; and** the ***halakha*** is **in accordance with** the opinion of **Rabbi Yosei, son of Rabbi Yehuda; and** the ***halakha*** is **in accordance with** the opinion of **Rabban Shimon ben Gamliel.**
+
+**15.**
+*Hebrew/Aramaic:* בְּנֵי רַב עִילִישׁ נְפַק עֲלַיְיהוּ הָהוּא שְׁטָרָא דַּהֲוָה כְּתִיב בֵּיהּ ״פַּלְגָא בַּאֲגַר, פַּלְגָא בְּהֶפְסֵד״. אָמַר רָבָא: רַב עִילִישׁ גַּבְרָא רַבָּה הוּא, וְאִיסּוּרָא לְאִינָשֵׁי לָא הָוֵי סָפֵי. מָה נַפְשָׁךְ? אִי פַּלְגָא בַּאֲגַר – תְּרֵי תִּילְתֵי בְּהֶפְסֵד,
+*Translation:* The Gemara relates: A business **document emerged concerning the sons of Rav Ilish,** as it was a venture entered into by their late father, **in which it was written** that Rav Ilish and his partner will share **one-half of the profit and one-half of the loss. Rava said: Rav Ilish was a great man, and** therefore **he would not feed people with** something **forbidden.** In other words, he certainly would not have involved himself in a joint venture through which someone would have earned money by means of interest, and an arrangement of this kind appears to constitute interest. Consequently, **no matter what,** there must have been some mistake with regard to this document. **If** the actual condition stated that one party would receive **one-half of the profit,** the other party must have agreed to accept upon himself **two-thirds of the loss,**

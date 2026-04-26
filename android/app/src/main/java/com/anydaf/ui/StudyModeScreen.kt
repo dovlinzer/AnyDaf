@@ -9,14 +9,19 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.BookmarkBorder
+import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.NavigateNext
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
@@ -49,6 +54,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.anydaf.model.StudyScope
 import com.anydaf.model.allTractates
+import com.anydaf.viewmodel.AudioViewModel
 import com.anydaf.viewmodel.BookmarkViewModel
 import com.anydaf.viewmodel.ContentViewModel
 import com.anydaf.viewmodel.ResourcesViewModel
@@ -58,6 +64,7 @@ import com.anydaf.viewmodel.StudySessionViewModel
 @Composable
 fun StudyModeScreen(
     studyViewModel: StudySessionViewModel,
+    audioViewModel: AudioViewModel,
     bookmarkViewModel: BookmarkViewModel,
     contentViewModel: ContentViewModel,
     resourcesViewModel: ResourcesViewModel,
@@ -68,6 +75,7 @@ fun StudyModeScreen(
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val appBg = if (useWhiteBackground) MaterialTheme.colorScheme.background else AppBlue
     val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
+    val isAudioStopped by audioViewModel.isStopped.collectAsState()
 
     BackHandler { onBack() }
 
@@ -84,10 +92,16 @@ fun StudyModeScreen(
                 title = {
                     if (sessionObj != null) {
                         Column {
-                            Text(
-                                "${sessionObj.tractate} ${sessionObj.daf}",
-                                style = MaterialTheme.typography.titleLarge
-                            )
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                if (!isAudioStopped) {
+                                    Icon(Icons.Default.Lock, null, Modifier.size(14.dp), tint = appFg.copy(alpha = 0.55f))
+                                    Spacer(Modifier.width(6.dp))
+                                }
+                                Text(
+                                    "${sessionObj.tractate} ${sessionObj.daf}",
+                                    style = MaterialTheme.typography.titleLarge
+                                )
+                            }
                             sessionObj.currentSection?.let {
                                 Text(it.title, style = MaterialTheme.typography.bodySmall)
                             }
@@ -157,6 +171,7 @@ fun StudyModeScreen(
             bookmarkViewModel = bookmarkViewModel,
             contentViewModel = contentViewModel,
             resourcesViewModel = resourcesViewModel,
+            isAudioStopped = isAudioStopped,
             onComplete = onBack,
             modifier = Modifier.padding(padding)
         )
@@ -175,6 +190,7 @@ fun StudyModeContent(
     contentViewModel: ContentViewModel,
     resourcesViewModel: ResourcesViewModel,
     isInline: Boolean = false,
+    isAudioStopped: Boolean = true,
     onComplete: (() -> Unit)? = null,
     onStartStudy: (() -> Unit)? = null,
     modifier: Modifier = Modifier
@@ -187,6 +203,7 @@ fun StudyModeContent(
     val rateLimitCountdown by studyViewModel.rateLimitCountdown.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
+    val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
 
     var selectedTab by remember { mutableIntStateOf(0) }
 
@@ -228,6 +245,10 @@ fun StudyModeContent(
                     horizontalArrangement = Arrangement.spacedBy(4.dp)
                 ) {
                     val blueMode = LocalIsBlueMode.current
+                    if (!isAudioStopped) {
+                        Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurfaceVariant).copy(alpha = 0.55f))
+                        Spacer(Modifier.width(4.dp))
+                    }
                     Text(
                         text = currentSection?.title ?: "${sessionObj.tractate} ${sessionObj.daf}",
                         style = MaterialTheme.typography.bodySmall,
@@ -361,6 +382,8 @@ fun StudyModeContent(
                                 section = currentSection,
                                 tractate = sessionObj.tractate,
                                 sourceDisplayMode = contentViewModel.sourceDisplayMode.collectAsState().value,
+                                showHebrew = contentViewModel.studyShowHebrew.collectAsState().value,
+                                onShowHebrewChange = { contentViewModel.setStudyShowHebrew(it) },
                                 precedingContext = sessionObj.precedingContext,
                                 followingContext = sessionObj.followingContext,
                                 isFirstSection = sessionObj.currentSectionIndex == 0,
@@ -388,26 +411,80 @@ fun StudyModeContent(
                     if (!sessionObj.isComplete) {
                         val isFirst = sessionObj.currentSectionIndex == 0
                         val isLast = sessionObj.currentSectionIndex == sessionObj.sections.size - 1
+                        val tractateObj = allTractates.find { it.name == sessionObj.tractate }
+                        val canGoPrevDaf = tractateObj != null && sessionObj.daf > tractateObj.startDaf
+                        val canGoNextDaf = tractateObj != null && sessionObj.daf < tractateObj.endDaf
                         Row(
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .padding(horizontal = 16.dp, vertical = 8.dp),
                             horizontalArrangement = Arrangement.spacedBy(8.dp)
                         ) {
-                            if (!isFirst) {
-                                androidx.compose.material3.OutlinedButton(
+                            // Left: "← Prev Daf" at first section, "← Previous" otherwise
+                            if (isFirst) {
+                                if (canGoPrevDaf) {
+                                    OutlinedButton(
+                                        onClick = {
+                                            studyViewModel.startSession(
+                                                tractate = sessionObj.tractate,
+                                                daf = sessionObj.daf - 1,
+                                                mode = studyViewModel.studyMode,
+                                                quizMode = studyViewModel.quizMode,
+                                                startAtLastSection = true
+                                            )
+                                        },
+                                        modifier = Modifier.weight(1f),
+                                        colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                        border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                    ) {
+                                        Icon(Icons.AutoMirrored.Filled.ArrowBack, null)
+                                        Spacer(Modifier.width(4.dp))
+                                        Text("Prev Daf")
+                                    }
+                                } else {
+                                    Spacer(Modifier.weight(1f))
+                                }
+                            } else {
+                                OutlinedButton(
                                     onClick = { studyViewModel.goToPreviousSection() },
-                                    modifier = Modifier.weight(1f)
+                                    modifier = Modifier.weight(1f),
+                                    colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                    border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
                                 ) {
                                     Icon(Icons.AutoMirrored.Filled.ArrowBack, null)
                                     Spacer(Modifier.width(4.dp))
                                     Text("Previous")
                                 }
                             }
-                            if (!isLast) {
-                                Button(
+                            // Right: "Next →" within daf, "Next Daf →" at last section
+                            if (isLast) {
+                                if (canGoNextDaf) {
+                                    OutlinedButton(
+                                        onClick = {
+                                            studyViewModel.startSession(
+                                                tractate = sessionObj.tractate,
+                                                daf = sessionObj.daf + 1,
+                                                mode = studyViewModel.studyMode,
+                                                quizMode = studyViewModel.quizMode
+                                            )
+                                        },
+                                        modifier = Modifier.weight(1f),
+                                        colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                        border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                    ) {
+                                        Text("Next Daf")
+                                        Spacer(Modifier.width(4.dp))
+                                        Icon(Icons.Default.NavigateNext, null)
+                                    }
+                                } else {
+                                    Spacer(Modifier.weight(1f))
+                                }
+                            } else {
+                                OutlinedButton(
                                     onClick = { studyViewModel.advanceToNextSection() },
-                                    modifier = Modifier.weight(1f)
+                                    modifier = Modifier.weight(1f),
+                                    colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                    border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
                                 ) {
                                     Text("Next")
                                     Spacer(Modifier.width(4.dp))

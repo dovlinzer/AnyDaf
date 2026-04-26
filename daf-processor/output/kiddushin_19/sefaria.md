@@ -1,0 +1,134 @@
+### Kiddushin 19a
+
+**1.**
+*Hebrew/Aramaic:* מִי שָׁאנֵי?
+*Translation:* **is** the matter **different?** In both cases she is fully released from her father’s authority by Torah law, and therefore he should not be able to sell her again afterward.
+
+**2.**
+*Hebrew/Aramaic:* וּלְרַב נַחְמָן בַּר יִצְחָק דְּאָמַר: אֲפִילּוּ לְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה מָעוֹת הָרִאשׁוֹנוֹת לְקִידּוּשִׁין נִיתְּנוּ, בְּמַאי מוֹקֵים לַהּ? מוֹקֵים לַהּ כְּרַבִּי אֱלִיעֶזֶר דְּאָמַר: לְשִׁפְחוּת אַחַר שִׁפְחוּת הוּא דְּלָא מָצֵי מְזַבֵּין לַהּ, אֲבָל לְשִׁפְחוּת אַחַר אִישׁוּת – מָצֵי מְזַבֵּין לַהּ.
+*Translation:* The Gemara asks: **And according to** the explanation of **Rav Naḥman bar Yitzḥak, who says** that **even** according **to Rabbi Yosei, son of Rabbi Yehuda, the original money** of the sale of the maidservant **was given for** the purpose of **betrothal, in accordance with whose** opinion does **he establish** the *baraita* that permits a father to sell his widowed daughter? After giving her in marriage a father may no longer sell his daughter into slavery. The Gemara explains: **He establishes it in accordance with** the opinion of **Rabbi Eliezer, who says: It is for slavery after slavery that he is not able to sell her, but he is able to sell her into slavery after marriage.**
+
+**3.**
+*Hebrew/Aramaic:* בָּעֵי רֵישׁ לָקִישׁ: מַהוּ שֶׁמְּיַיעֵד אָדָם לִבְנוֹ קָטָן? ״בְּנוֹ״ אָמַר רַחֲמָנָא, בְּנוֹ כָּל דְּהוּ, אוֹ דִילְמָא בְּנוֹ דּוּמְיָא דִידֵיהּ, מָה הוּא גָּדוֹל – אַף בְּנוֹ גָּדוֹל?
+*Translation:* § **Reish Lakish raises a dilemma:** With regard to the possibility **that a person can designate** a Hebrew maidservant **for his minor son, what is** the *halakha*? The Gemara clarifies the sides of this dilemma. Does one learn from the verse: “And if he designates her for **his son”** (Exodus 21:9), that **the Merciful One states** that this applies to **any son,** even if he is too young to be married? **Or perhaps** it means **his son** who is **similar to him: Just as he is an adult man, so too, his son** must be **an adult man.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא: תָּא שְׁמַע: ״אִישׁ״ – פְּרָט לְקָטָן. ״אֲשֶׁר יִנְאַף אֶת אֵשֶׁת אִישׁ״ – פְּרָט לְאֵשֶׁת קָטָן. וְאִי אָמְרַתְּ מְיַיעֵד, אִם כֵּן מָצִינוּ אִישׁוּת לְקָטָן.
+*Translation:* **Rabbi Zeira said: Come** and **hear** a solution to this dilemma from the verse: “And the man who commits adultery with the wife of another man, even he that commits adultery with his neighbor’s wife, both the adulterer and the adulteress shall surely be put to death” (Leviticus 20:10). The Sages expounded that the term **“man”** serves **to exclude a minor** who commits adultery. The phrase **“who commits adultery with the wife of another man”** serves **to exclude the wife of a minor,** as the marriage of a minor is invalid. **And if you say** that a father can **designate** a wife for his minor son, and designation effects betrothal or marriage, **we find** that there is **marriage for a minor.**
+
+**5.**
+*Hebrew/Aramaic:* וְאֶלָּא מַאי, אֵינוֹ מְיַיעֵד? אַמַּאי קָא מְמַעֵט לֵיהּ קְרָא? תִּיפְשׁוֹט מִינַּהּ דִּמְיַיעֵד. אָמַר רַב אָשֵׁי: הָכָא בְּיָבָם בֶּן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד הַבָּא עַל יְבִמְתּוֹ עָסְקִינַן,
+*Translation:* The Gemara challenges this proof: **But rather, what** will you say, that a master **cannot designate** a maidservant for his son who is a minor? If so, **why does the verse exclude him?** If the marriage of a minor is never valid, why is it necessary for the verse to exclude him? On the contrary, **resolve from here that one can designate** for his minor son. **Rav Ashi said:** One could say that **here,** when this verse excludes the wife of a minor, **we are dealing with a *yavam*** who is **nine years and one day old who engaged in sexual intercourse with his *yevama*,** and his intercourse is considered valid.
+
+**6.**
+*Hebrew/Aramaic:* דְּמִדְּאוֹרָיְיתָא חַזְיָא לֵיהּ, מַהוּ דְּתֵימָא: כֵּיוָן דְּמִדְּאוֹרָיְיתָא חַזְיָא לֵיהּ וּבִיאָתוֹ בִּיאָה, הַבָּא עָלֶיהָ מִתְחַיֵּיב בְּאֵשֶׁת אִישׁ, קָא מַשְׁמַע לַן.
+*Translation:* The unique feature of this case is **that by Torah law** she **is fit for him.** The *halakhot* of levirate marriage do not stipulate the minimum age of the *yavam*. Sexual intercourse with a boy aged nine years and one day is legally considered intercourse, and therefore this verse is necessary, **lest you say: Since by Torah law she is fit for him, and his sexual intercourse** is considered proper **intercourse;** therefore, he acquires her and she is his wife in all regards. Consequently, **one who engages in intercourse with her becomes liable for** violating the prohibition against engaging in intercourse with **a married woman.** Therefore, the verse **teaches us** that despite this consideration, she is not considered a full-fledged married woman.
+
+**7.**
+*Hebrew/Aramaic:* מַאי הָוֵי עֲלַהּ? תָּא שְׁמַע, אָמַר רַבִּי אַיְיבוּ אָמַר רַבִּי יַנַּאי: אֵין יִעוּד אֶלָּא בְּגָדוֹל, אֵין יִעוּד אֶלָּא מִדַּעַת. תַּרְתֵּי? ״מָה טַעַם״ קָאָמַר. מָה טַעַם אֵין יִעוּד אֶלָּא בְּגָדוֹל – לְפִי שֶׁאֵין יִעוּד אֶלָּא מִדַּעַת.
+*Translation:* The Gemara asks: Ultimately, **what** halakhic conclusion **was** reached **about** this matter of designation for a minor son? **Come** and **hear,** as **Rabbi Aivu says** that **Rabbi Yannai says: Designation applies only to an adult man,** and **designation applies only with consent.** The Gemara asks: Why is it necessary to teach these **two** *halakhot* with regard to this matter? It can be derived from the statement that designation requires consent that it applies only to an adult, as a minor is legally incapable of consent. The Gemara answers: Rabbi Yannai **is saying: What is the reason,** i.e., **what is the reason** that **designation applies only to an adult man?** It is **because designation applies only with consent.**
+
+**8.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא: מַאי מִדַּעַת – מִדַּעַת דִּידַהּ. דְּתָנֵי אַבָּיֵי בְּרֵיהּ דְּרַבִּי אֲבָהוּ: ״אֲשֶׁר לֹא יְעָדָהּ״ – מְלַמֵּד שֶׁצָּרִיךְ לְיַעֲדָהּ.
+*Translation:* **And if you wish, say** an alternative explanation. **What** is the meaning of the term: **With consent?** It means **with her consent. As Abaye, son of Rabbi Abbahu, taught:** The verse **“who did not designate her [*ye’adah*]”** (Exodus 21:8), **teaches that he is required to inform her [*ya’adah*].**
+
+**9.**
+*Hebrew/Aramaic:* הוּא תָּנֵי לַהּ, וְהוּא אָמַר לַהּ: בְּקִידּוּשֵׁי יִעוּד, וְאַלִּיבָּא דְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה דְּאָמַר: מָעוֹת הָרִאשׁוֹנוֹת לָאו לְקִידּוּשִׁין נִיתְּנוּ. רַב נַחְמָן בַּר יִצְחָק אָמַר: אֲפִילּוּ תֵּימָא לְקִידּוּשִׁין נִיתְּנוּ, שָׁאנֵי הָכָא דְּאָמַר רַחֲמָנָא ״יְעָדָהּ״.
+*Translation:* **He teaches it and he says it:** This is referring **to betrothal through designation, and** it is **in accordance with** the opinion of **Rabbi Yosei, son of Rabbi Yehuda, who said: The original money** of the sale of the maidservant **was not given for** the purpose of **betrothal.** For this reason, an additional act of betrothal must be performed with her consent. **Rav Naḥman bar Yitzḥak said: Even** if **you say** that the original money **was given for betrothal, it is different here, as the Merciful One states “designate her [*ye’adah*].”** This unusual expression alludes to the *halakha* that this act must be performed with her consent.
+
+**10.**
+*Hebrew/Aramaic:* מַאי רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה? דְּתַנְיָא: ״יְעָדָהּ, וְהֶפְדָּהּ״ – צָרִיךְ שֶׁיְּהֵא שְׁהוּת בַּיּוֹם כְּדֵי פְדִיָּיה.
+*Translation:* After mentioning the opinion of Rabbi Yosei, son of Rabbi Yehuda, several times, the Gemara asks: **What** is the source in which the opinion of **Rabbi Yosei, son of Rabbi Yehuda,** is stated? The Gemara answers: **As it is taught** in a *baraita* with regard to the verse: “Who did not **designate her, then he shall let her be redeemed”** (Exodus 21:8). This juxtaposition indicates that designation applies only when she can be redeemed. Consequently, if she is at the end of her service **it is necessary that** when he designates her **there must be enough time** remaining **in the day for redemption.** There must be sufficient time for her to be redeemed, and if only a short amount of time remains, during which she would be unable to perform work worth one *peruta*, the master does not have the option of redeeming her.
+
+**11.**
+*Hebrew/Aramaic:* מִכָּאן אָמַר רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה: אִם יֵשׁ שְׁהוּת בַּיּוֹם כְּדֵי לַעֲשׂוֹת עִמּוֹ שָׁוֶה פְּרוּטָה – מְקוּדֶּשֶׁת, וְאִם לָאו – אֵינָהּ מְקוּדֶּשֶׁת. אַלְמָא קָסָבַר: מָעוֹת הָרִאשׁוֹנוֹת – לָאו לְקִידּוּשִׁין נִיתְּנוּ.
+*Translation:* **From here Rabbi Yosei, son of Rabbi Yehuda, says: If there is enough time** left **in the day for her to perform** work that is **worth one *peruta* for him, she is betrothed,** as he betroths her with the amount she owes him for her work, which is the value of one *peruta*. **And if not, she is not betrothed. Apparently, he maintains** that **the original money** of the sale of the maidservant **was not given for** the purpose of **betrothal.**
+
+**12.**
+*Hebrew/Aramaic:* רַב נַחְמָן בַּר יִצְחָק אָמַר: אֲפִילּוּ תֵּימָא לְקִידּוּשִׁין נִיתְּנוּ, שָׁאנֵי הָכָא דְּאָמַר רַחֲמָנָא ״וְהֶפְדָּהּ״.
+*Translation:* **Rav Naḥman bar Yitzḥak said: Even** if **you say** that the original money **was given for betrothal,** one can explain this *halakha* as follows: **It is different here, as the Merciful One states** by means of the juxtaposition: “Who did not designate her, **then he shall let her be redeemed,”** that by a Torah edict the designation must be performed at a stage when she can still be redeemed.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רָבָא אָמַר רַב נַחְמָן: אוֹמֵר אָדָם לְבִתּוֹ קְטַנָּה ״צְאִי וְקַבְּלִי קִידּוּשַׁיִךְ״, מִדְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה.
+*Translation:* § **Rava says** that **Rav Naḥman says: A person** may **say to his minor daughter: Go out and accept your betrothal,** and when she accepts the betrothal it is as though she were appointed the father’s agent for her betrothal, despite the fact she is not halakhically competent. From where is this derived? It is derived **from that** which **Rabbi Yosei, son of Rabbi Yehuda** said.
+
+**14.**
+*Hebrew/Aramaic:* לָאו אָמַר רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה מָעוֹת הָרִאשׁוֹנוֹת לָאו לְקִידּוּשִׁין נִיתְּנוּ, וְכִי מְשַׁיַּיר בַּהּ שָׁוֶה פְּרוּטָה – הָווּ קִידּוּשֵׁי, הָכָא נָמֵי לָא שְׁנָא.
+*Translation:* The Gemara elaborates: **Didn’t Rabbi Yosei, son of Rabbi Yehuda, say that the original money** of the sale of the maidservant **was not given for** the purpose of **betrothal, and if** enough time for **her** to perform work **worth one *peruta* remains, it is a betrothal?** This indicates that when the father sells his daughter he effectively appoints her as her own agent to receive her betrothal, if the master wishes to designate her for himself. At the time of the designation the father receives nothing, while the daughter accepts the value of one *peruta* for her work as betrothal. **Here too, it is no different,** and therefore a minor can accept her betrothal with the consent of her father.
+
+**15.**
+*Hebrew/Aramaic:* וְאָמַר רָבָא אָמַר רַב נַחְמָן: הַמְקַדֵּשׁ בְּמִלְוָה שֶׁיֵּשׁ עָלֶיהָ מַשְׁכּוֹן – מְקוּדֶּשֶׁת, מִדְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. לָאו אָמַר רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה מָעוֹת הָרִאשׁוֹנוֹת לָאו לְקִידּוּשִׁין נִיתְּנוּ, הַאי הַלְוָאָה הִיא, וְהִיא גּוּפַהּ מַשְׁכּוֹן הִיא,
+*Translation:* **And Rava says** that **Rav Naḥman says:** With regard to **one who betroths** a woman **with a loan for which there is collateral,** i.e., he relinquishes his claim to a loan that she owes him and he returns the collateral she gave him, **she is betrothed.** This is derived **from that** which **Rabbi Yosei, son of Rabbi Yehuda,** said. **Didn’t Rabbi Yosei, son of Rabbi Yehuda, say that the original money** of the sale of the maidservant **was not given for** the purpose of **betrothal?** If so, **this** daughter’s requirement to serve **is** similar to **a loan,** as there is no actual money but only an obligation, **and she herself is the collateral.** In other words, her body is the security that the loan will be repaid.
+
+
+---
+
+### Kiddushin 19b
+
+**1.**
+*Hebrew/Aramaic:* וְכִי מְשַׁיַּיר בַּהּ שָׁוֶה פְּרוּטָה וּמְיַיעֵד – הָווּ קִידּוּשִׁין, הָכָא נָמֵי לָא שְׁנָא.
+*Translation:* **And** yet **if** time for **her** to perform work **worth one *peruta* remains, and he designates** her, **it is a betrothal.** This shows that he can betroth her with a loan, i.e., the value of the remaining time of her servitude, for which she herself is collateral. **Here too, it is no different,** and in general one may betroth a woman with a loan for which there is collateral.
+
+**2.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כֵּיצַד מִצְוַת יִעוּד? אוֹמֵר לָהּ בִּפְנֵי שְׁנַיִם ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי״, ״הֲרֵי אַתְּ מְאוֹרֶסֶת לִי״ אֲפִילּוּ בְּסוֹף שֵׁשׁ, וַאֲפִילּוּ סָמוּךְ לִשְׁקִיעַת הַחַמָּה. וְנוֹהֵג בָּהּ מִנְהַג אִישׁוּת וְאֵינוֹ נוֹהֵג בָּהּ מִנְהַג שִׁפְחוּת. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: אִם יֵשׁ שְׁהוּת בְּיוֹם כְּדֵי לַעֲשׂוֹת עִמּוֹ שָׁוֶה פְּרוּטָה – מְקוּדֶּשֶׁת, וְאִם לָאו – אֵינָהּ מְקוּדֶּשֶׁת.
+*Translation:* § **The Sages taught: How is the mitzva of designation** performed? The master **says to her before two** witnesses: **You are hereby betrothed [*mekuddeshet*] to me,** or: **You are hereby betrothed [*me’oreset*] to me.** The designation is effective **even** if he said this **at the end of six** years of work, **and even** if it is **close to sunset** on the last day of her term. **And** once he designates her **he treats her in the manner of marriage and may not treat her in the manner of slavery. Rabbi Yosei, son of Rabbi Yehuda, says: If there is enough time** left **in that day for her to perform** for **him** work **worth one *peruta*, she is betrothed, and if not, she is not betrothed.**
+
+**3.**
+*Hebrew/Aramaic:* מָשָׁל לְאוֹמֵר לְאִשָּׁה ״הִתְקַדְּשִׁי לִי מֵעַכְשָׁיו לְאַחַר שְׁלֹשִׁים יוֹם״ וּבָא אַחֵר וְקִידְּשָׁהּ בְּתוֹךְ שְׁלֹשִׁים יוֹם – שֶׁמְּקוּדֶּשֶׁת לָרִאשׁוֹן. מָשָׁל לְמַאן?
+*Translation:* The *baraita* continues: This can be understood by way of **a parable** comparing this *halakha* **to** the *halakha* of **one who says to a woman: Be betrothed to me from now after thirty days, and another man came and betrothed her within thirty days.** In this case the *halakha* is **that she is betrothed to the first** man. The Gemara inquires: **According to whom** is this **parable** suggested? Of the two opinions cited in the *baraita*, whose opinion accords with the *halakha* in the case of the parable?
+
+**4.**
+*Hebrew/Aramaic:* אִילֵימָא מָשָׁל לְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה – הָא אִם יֵשׁ שְׁהוּת בְּיוֹם כְּדֵי לַעֲשׂוֹת עִמּוֹ שָׁוֶה פְּרוּטָה – מְקוּדֶּשֶׁת, וְאִם לָאו – לֹא!
+*Translation:* **If we say** that the *halakha* in the case of the **parable is** compared **to** the opinion of **Rabbi Yosei, son of Rabbi Yehuda,** didn’t he say: **If there is enough time on that day for her to perform** for **him** work **worth one *peruta*, she is betrothed, and if not,** she is **not** betrothed? Rabbi Yosei, son of Rabbi Yehuda, maintains that she is not considered betrothed conditionally when she is initially acquired as a Hebrew maidservant. Rather, the betrothal takes effect only when he designates her. This is evident from the fact that enough time must remain for her to perform work worth one *peruta*, as she is betrothed with that amount. If so, one cannot compare his ruling to the case of the parable, where the betrothal of the first was given before that of the second.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב אַחָא בְּרֵיהּ דְּרָבָא: מָשָׁל לְרַבָּנַן. פְּשִׁיטָא!
+*Translation:* **Rav Aḥa, son of Rava, said:** The *halakha* in the case of the **parable is** compared **to** the opinion of **the Rabbis,** i.e., the first opinion cited in the *baraita*, who say that when she was initially acquired as a Hebrew maidservant it is as though he had betrothed her on condition that she would be retroactively betrothed whenever her master desired. This indicates that retroactive betrothal is possible. The Gemara asks: **Isn’t it obvious** that this comparison is correct? Why would the *baraita* need to state a parable?
+
+**6.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא, הָא לָא אֲמַר לֵיהּ ״מֵעַכְשָׁיו״, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains: The *baraita* needs to state a parable **lest you say** that the Rabbis hold she is betrothed to the master even if the master **did not say to** the father that she is betrothed to him **from now.** The parable therefore **teaches us** that the case of the master is comparable to a case where the first man said to her: From now, and if the master did not state this term when acquiring her as a Hebrew maidservant, then she is not betrothed to him.
+
+**7.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: הַמּוֹכֵר אֶת בִּתּוֹ, וְהָלַךְ וְקִידְּשָׁהּ לְאַחֵר – שִׂיחֵק בָּאָדוֹן, וּמְקוּדֶּשֶׁת לַשֵּׁנִי, דִּבְרֵי רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. וַחֲכָמִים אוֹמְרִים: אִם רָצָה לְיַיעֵד – מְיַיעֵד.
+*Translation:* **It is taught** in **another** *baraita*: With regard to **one who** first **sells his daughter** as a Hebrew maidservant **and** then **goes and betroths her to another** man, he **mocks the master, and she is betrothed to the second** man. Although he sold her as a Hebrew maidservant, he can remove her from the authority of the master, and this is seen as mocking him. This is **the statement of Rabbi Yosei, son of Rabbi Yehuda. And the Rabbis say: If** the master **wants to designate** her, he can **designate** her, and the second man’s betrothal is void.
+
+**8.**
+*Hebrew/Aramaic:* מָשָׁל לָאוֹמֵר לְאִשָּׁה ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי לְאַחַר שְׁלֹשִׁים יוֹם״ וּבָא אַחֵר וְקִידְּשָׁהּ בְּתוֹךְ שְׁלֹשִׁים יוֹם – שֶׁמְּקוּדֶּשֶׁת לַשֵּׁנִי. מָשָׁל לְמַאן?
+*Translation:* The *baraita* continues: This can be understood by way of **a parable** comparing this *halakha* **to** the *halakha* of **one who says to a woman: Be betrothed to me after thirty days, and another man came and betrothed her within thirty days.** In this case the *halakha* is **that she is betrothed to the second** man. The Gemara inquires: **According to whom** is this **parable** suggested? Of the two opinions cited in the *baraita*, whose opinion accords with the *halakha* in the case of the parable?
+
+**9.**
+*Hebrew/Aramaic:* אִילֵּימָא לְרַבָּנַן, הָאָמְרִי רַבָּנַן: אִם רָצָה לְיַיעֵד – מְיַיעֵד!
+*Translation:* **If we say** that the *halakha* in the case of the **parable is** compared **to** the opinion of **the Rabbis, don’t the Rabbis say** that **if** the master **wants to designate** her, **he may designate** her, and the second man’s betrothal does not take effect? In the case of the parable, she is betrothed to the second man, and the first cannot prevent this.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב אַחָא בְּרֵיהּ דְּרָבָא: מָשָׁל לְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. פְּשִׁיטָא!
+*Translation:* **Rather, Rav Aḥa, son of Rava, said:** The *halakha* in the case of the **parable is** compared **to** the opinion of **Rabbi Yosei, son of Rabbi Yehuda.** The Gemara asks: **Isn’t it obvious** that this comparison is correct? Why would the *baraita* need to state a parable?
+
+**11.**
+*Hebrew/Aramaic:* מַהוּ דְּתֵימָא, הָא לָא אֲמַר לַהּ ״לְאַחַר שְׁלֹשִׁים יוֹם״, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains: The *baraita* needs to state a parable **lest you say** that the case of the Hebrew maidservant is different, as **he did not say to her** when he acquired her: **After thirty days.** One might argue that the reason Rabbi Yosei, son of Rabbi Yehuda, holds that she is not betrothed to the master is that he did not state when he acquired her that she should be designated at a specific time in the future, but if he would have stated this at the time he acquired her as a Hebrew maidservant, the designation would then take effect. By comparing this case to the case of the parable, the *baraita* **teaches us** that Rabbi Yosei, son of Rabbi Yehuda, would hold that the designation does not take effect even if the master had said at the time of the acquisition that designation should take effect in thirty days, provided that her father betroths her to another in the interim.
+
+**12.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: הַמּוֹכֵר אֶת בִּתּוֹ, וּפָסַק עַל מְנָת שֶׁלֹּא לְיַיעֵד – נִתְקַיֵּים הַתְּנַאי, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: אִם רָצָה לְיַיעֵד – מְיַיעֵד, מִפְּנֵי שֶׁהִתְנָה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה, וְכׇל הַמַּתְנֶה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה – תְּנָאוֹ בָּטֵל.
+*Translation:* § **It is taught** in **another** *baraita*: With regard to **one who sells his daughter and stipulates** with the buyer that the sale applies **on the condition that he does not designate** her, **the condition stands.** This is **the statement of Rabbi Meir. And the Rabbis say: If** the master **wants to designate** her **he may designate her, because** the father **stipulated counter to that which is written in the Torah,** as the Torah permits the designation of a Hebrew maidservant. **And** with regard to **anyone who stipulates counter to that which is written in the Torah, his condition is void.**
+
+**13.**
+*Hebrew/Aramaic:* וּלְרַבִּי מֵאִיר תְּנָאוֹ קַיָּים? וְהָתַנְיָא: הָאוֹמֵר לְאִשָּׁה ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי עַל מְנָת שֶׁאֵין לְךָ עָלַי שְׁאֵר כְּסוּת וְעוֹנָה״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת, וּתְנָאוֹ בָּטֵל, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּדָבָר שֶׁבְּמָמוֹן – תְּנָאוֹ קַיָּים.
+*Translation:* The Gemara asks: **And according to** the opinion of **Rabbi Meir,** does **his condition stand** in that case? **But isn’t it taught** in a *baraita*: **One who says to a woman: You are hereby betrothed to me on the condition that you do not have against me** any claims of **food, clothing, and conjugal rights, she is betrothed and his condition is void;** this is **the statement of Rabbi Meir. Rabbi Yehuda says: With regard to monetary matters,** e.g., food and clothing, **his condition stands.** This indicates that Rabbi Meir maintains that one cannot stipulate counter to that which is written in the Torah.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר חִזְקִיָּה: שָׁאנֵי הָכָא, דְּאָמַר קְרָא ״לְאָמָה״ – פְּעָמִים שֶׁאֵינוֹ מוֹכְרָהּ אֶלָּא לְאָמָה בִּלְבָד.
+*Translation:* **Ḥizkiyya said:** It **is different here, as the verse states:** “And if a man sells his daughter **as a maidservant”** (Exodus 21:7), from which it is derived: There are **times when he sells her only as a maidservant,** not for the sake of marriage. This indicates that the designation of a maidservant is not a Torah obligation but is optional. Therefore, one can issue a stipulation that runs counter to the master designating her.
+
+**15.**
+*Hebrew/Aramaic:* וְרַבָּנַן, הַאי ״לְאָמָה״ מַאי עָבְדִי לֵיהּ? הַאי מִיבְּעֵי לְהוּ לְכִדְתַנְיָא: ״לְאָמָה״ – מְלַמֵּד שֶׁמּוֹכְרָהּ לִפְסוּלִים.
+*Translation:* The Gemara asks: **And the Rabbis, what do they do with this** phrase: **“As a maidservant”?** How do they interpret it? The Gemara answers: **This** expression is **necessary for them for that which is taught** in a *baraita*: The verse states **“as a maidservant.”** This **teaches that he can sell her to** people of **flawed** lineage, e.g., a *mamzer*, whom she is prohibited from marrying but whose betrothal is effective.
+
+**16.**
+*Hebrew/Aramaic:* וַהֲלֹא דִּין הוּא: אִם מְקַדְּשָׁהּ לִפְסוּלִים, לֹא יִמְכְּרֶנָּה לִפְסוּלִים? מָה לִמְקַדְּשָׁהּ לִפְסוּלִים, שֶׁכֵּן אָדָם מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה, יִמְכְּרֶנָּה לִפְסוּלִים, שֶׁאֵין אָדָם מוֹכֵר אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה? תַּלְמוּד לוֹמַר: ״לְאָמָה״ – מְלַמֵּד שֶׁמּוֹכְרָהּ לִפְסוּלִין.
+*Translation:* The *baraita* asks: Why is it necessary to derive that *halakha* from the verse? **But** could this **not** be derived through **logical inference: If** her father **can betroth her to** people of **flawed** lineage, can he **not sell her to** people of **flawed** lineage? The *baraita* answers: The verse is necessary, as **what** is unique about **betrothal to** people of **flawed** lineage is that **a person can betroth his daughter** even **when she is a young woman,** i.e., between the ages of twelve and twelve and a half. Therefore, one cannot learn from this that **he can** also **sell her to** people of **flawed** lineage because that case is different, **as a person cannot sell his daughter when she is a young woman.** The *halakha* that a person can betroth his daughter even when she is a young woman demonstrates that the rights that a father has with regard to his daughter’s betrothal are more extensive than his right to sell her. Therefore, **the verse states “as a maidservant,”** which **teaches that** he can, in fact, **sell her to disqualified people.**
+
+**17.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר: אִם לְלַמֵּד שֶׁמּוֹכְרָהּ לִפְסוּלִין, הֲרֵי כְּבָר נֶאֱמַר ״אִם רָעָה בְּעֵינֵי אֲדֹנֶיהָ״ – שֶׁרָעָה בְּנִישּׂוּאֶיהָ. מָה תַּלְמוּד לוֹמַר ״לְאָמָה״? מְלַמֵּד שֶׁמּוֹכְרָהּ
+*Translation:* The *baraita* continues: **Rabbi Eliezer says: If** that verse serves **to teach that he can sell her to** people of **flawed** lineage, it is unnecessary, **as it is already stated: “If she does not please her master,** who designated her” (Exodus 21:8). This indicates **that she is displeasing in her marriage,** i.e., marriage to him was forbidden, and yet the sale is valid. If so, **what** is the meaning when **the verse states “as a maidservant”?** This **teaches that he can sell her**

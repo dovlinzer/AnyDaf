@@ -9,35 +9,32 @@ struct SplashView: View {
 
     var body: some View {
         GeometryReader { geo in
+            let short = min(geo.size.width, geo.size.height)
             ZStack {
                 SplashView.background.ignoresSafeArea()
 
-                // Title stack — matches storyboard centerY offset of -30
-                VStack(spacing: 16) {
+                VStack(spacing: 14) {
                     Text("AnyDaf")
                         .font(.system(size: 42, weight: .bold))
                         .foregroundStyle(.white)
                     Image("RabbiLinzer")
                         .resizable()
                         .scaledToFit()
-                        .frame(width: 100, height: 100)
+                        .frame(width: short * 0.28, height: short * 0.28)
                     Text("Learn any daf with Rabbi Dov Linzer")
                         .font(.system(size: 17))
                         .foregroundStyle(Color(red: 0.75, green: 0.85, blue: 1))
+                        .multilineTextAlignment(.center)
                     Text("Powered by YCT and Sefaria")
                         .font(.system(size: 13).italic())
                         .foregroundStyle(Color(red: 0.75, green: 0.85, blue: 1).opacity(0.75))
+                    Spacer().frame(height: 8)
+                    Image("Image")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: short * 0.26)
                 }
-                .position(x: geo.size.width / 2,
-                          y: geo.size.height / 2 - 30)
-
-                // YCT logo — matches storyboard centerY offset of +165, width = 50%
-                Image("Image")
-                    .resizable()
-                    .scaledToFit()
-                    .frame(width: geo.size.width * 0.5)
-                    .position(x: geo.size.width / 2,
-                              y: geo.size.height / 2 + 210)
+                .padding(.horizontal, 32)
             }
         }
         .ignoresSafeArea()

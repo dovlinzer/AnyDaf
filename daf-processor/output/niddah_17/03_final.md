@@ -1,0 +1,301 @@
+# Niddah 17 — Daf Yomi Shiur
+
+## Sex & Light
+
+### Beit Shammai/Hillel
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: אַף עַל פִּי שֶׁאָמְרוּ הַמְשַׁמֵּשׁ מִטָּתוֹ לְאוֹר הַנֵּר הֲרֵי זֶה מְגוּנֶּה, בֵּית שַׁמַּאי אוֹמְרִים: צְרִיכָה שְׁנֵי עֵדִים עַל כׇּל תַּשְׁמִישׁ, אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר. וּבֵית הִלֵּל אוֹמְרִים: דַּיָּהּ בִּשְׁנֵי עֵדִים כׇּל הַלַּיְלָה.
+>
+> **Translation:** The Sages taught in a *baraita*: **Even though** the Sages **said** with regard to **one who engages in intercourse by the light of a lamp,** that **this is disgraceful, Beit Shammai say: A woman is required** to examine herself with **two cloths,** once before and once after **each** act of **intercourse, or** she must **engage in intercourse by the light of a lamp. And Beit Hillel say:** It is **sufficient** for her to examine herself **with two cloths throughout the night,** once before the first act of intercourse and once after the final act of intercourse.
+
+The daf opens by returning to a discussion that had been underway: the dispute between *Beit Shammai* and *Beit Hillel* regarding the practices a woman observes while engaged in questions of *tumah* and *taharah* — handling *terumah*, performing the required checks before and after relations, and whether those checks must be performed by candlelight at night. One position attributed to *Beit Shammai* is that relations should take place by candlelight so that the cloth can be examined before and after each act during the night. This formulation sets the stage for the *Gemara*'s broader discussion about the propriety of relations in the daytime and under light.
+
+### R. Yochanan Daytime
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: אָסוּר לָאָדָם שֶׁיְּשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם. אָמַר רַב הַמְנוּנָא: מַאי קְרָא? שֶׁנֶּאֱמַר: ״יֹאבַד יוֹם אִוָּלֶד בּוֹ וְהַלַּיְלָה אָמַר הוֹרָה גָבֶר״ — לַיְלָה נִיתַּן לְהֵרָיוֹן, וְיוֹם לֹא נִיתַּן לְהֵרָיוֹן. רֵישׁ לָקִישׁ אָמַר מֵהָכָא: ״בּוֹזֵה דְרָכָיו יָמוּת״.
+>
+> **Translation:** **Rabbi Yoḥanan says: It is prohibited for a person to engage in intercourse by day. Rav Hamnuna says: What is the verse** from which this is derived? **As it is stated: "Let the day perish on which I was born, and the night on which it was said: Conceived is a man-child"** (Job 3:3). It is derived from here that **nighttime is meant for conception, but daytime is not meant for conception. Reish Lakish says** that the proof is **from here: "But he who despises his ways shall die"** (Proverbs 19:16). One might see something unpleasing in his wife in the daylight and come to despise her.
+
+Rabbi Yochanan had stated: *assur l'adam sheyishamesh mitato bayom* — it is forbidden for a man to use his bed by day. Two reasons had been offered. The first was biological: daytime is not as conducive to conception. The second was more general: it constitutes *bozeh drachav*, a denigrating or shaming of one's path. This second rationale raises an important question. Does the *Gemara*'s concern with relations under bright light reflect a sense that intimacy is somehow shameful and must be hidden, or does it reflect something more nuanced — a sense of privacy and of relating to the person rather than merely the body? Rashi ties *bozeh drachav* to precisely the latter concern, which the *Gemara* will develop further: bright light directs attention entirely to the physical, to the body inspected as it were under a spotlight, stripping away the intimacy and mystery that properly attend the marital relationship.
+
+### Reish Lakish/R. Chanina
+
+> **Hebrew/Aramaic:** וְרֵישׁ לָקִישׁ, הַאי קְרָא דְּרַבִּי יוֹחָנָן מַאי דָּרֵישׁ בֵּיהּ? מִבָּעֵי לֵיהּ לְכִדְדָרֵישׁ רַבִּי חֲנִינָא בַּר פָּפָּא, דְּדָרֵישׁ רַבִּי חֲנִינָא בַּר פָּפָּא: אוֹתוֹ מַלְאָךְ הַמְמוּנֶּה עַל הַהֵרָיוֹן ״לַיְלָה״ שְׁמוֹ, וְנוֹטֵל טִפָּה וּמַעֲמִידָהּ לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, וְאוֹמֵר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, טִפָּה זוֹ מָה תְּהֵא עָלֶיהָ? גִּבּוֹר אוֹ חַלָּשׁ? חָכָם אוֹ טִיפֵּשׁ? עָשִׁיר אוֹ עָנִי?
+>
+> **Translation:** The Gemara asks: **And how does Reish Lakish interpret this verse** cited **by Rabbi Yoḥanan?** The Gemara answers that **he requires** that verse **for that which Rabbi Ḥanina bar Pappa taught. As Rabbi Ḥanina bar Pappa interpreted** that verse in the following manner: **That angel that is appointed over conception is called: Night. And** that angel **takes** the **drop** of semen from which a person will be formed **and presents it before the Holy One, Blessed be He, and says before Him: Master of the Universe, what will be of this drop?** Will the person fashioned from it be **mighty or weak?** Will he be **clever or stupid?** Will he be **wealthy or poor?**
+
+> **Hebrew/Aramaic:** וְאִילּוּ רָשָׁע אוֹ צַדִּיק לָא קָאָמַר, כִּדְרַבִּי חֲנִינָא. דְּאָמַר רַבִּי חֲנִינָא: הַכֹּל בִּידֵי שָׁמַיִם, חוּץ מִיִּרְאַת שָׁמַיִם, שֶׁנֶּאֱמַר: ״וְעַתָּה יִשְׂרָאֵל מָה ה׳ אֱלֹהֶיךָ שׁוֹאֵל מֵעִמָּךְ כִּי אִם לְיִרְאָה וְגוֹ׳״.
+>
+> **Translation:** The Gemara notes: **But** this angel **does not say:** Will he be **wicked or righteous?** This is **in accordance with** a statement **of Rabbi Ḥanina, as Rabbi Ḥanina said: Everything is in the hand of Heaven, except for fear of Heaven.** People have free will to serve God or not, **as it is stated: "And now, Israel, what does the Lord your God ask of you other than to fear** the Lord your God" (Deuteronomy 10:12). The fact that God asks of the Jewish people to fear Him indicates that it is a person's choice to do so.
+
+The *Gemara* now asks what Reish Lakish does with the verse that Rabbi Yochanan had quoted — the verse from Iyov about a man conceived at night, which Rabbi Yochanan had used to show that nighttime is propitious for conception. Reish Lakish, it turns out, needs that verse for a different purpose: *miba'ei lei l'khid'darash Rabbi Chanina bar Papa*. Rabbi Chanina bar Papa taught the famous *midrash* that the angel appointed over conception is named *Layla* — "night." Thus the verse's repeated use of *layla* does not mean only that night is the time for conception, but rather refers to this angel called *Layla* who oversees the act. The *Tosafot* notes that a *Gemara* in Ta'anit distinguishes between conception, overseen by this angel, and actual childbirth, in which God is directly involved.
+
+The rest of the teaching elaborates: this angel takes the drop — the newly conceived union of seed and egg — and brings it before the Holy One, blessed be He, saying: *Ribono Shel Olam, tipa zo mah tehei aleha* — Master of the Universe, what will become of this drop? Will it be mighty or weak? Wise or foolish? Rich or poor? Notably, the angel does not ask whether the person will be wicked or righteous. That question is left conspicuously unasked.
+
+This connects to the teaching of Rabbi Chanina: *hakol biydei shamayim chutz miyirat shamayim* — everything is in the hands of Heaven except for the fear of Heaven, as derived from the verse in Devarim, "And now, Israel, what does Hashem your God ask of you but to fear Him" — meaning that fear of Heaven, and by extension moral choice, is precisely what God asks of you because it lies within your own power. So much of a person's life is determined at the moment of conception: genetic makeup, intellectual capacity, physical constitution, family circumstances, socioeconomic standing. All of this is decreed. But moral choice — whether one will be righteous or wicked — that is not decreed. It remains in the hands of the person. The *Gemara* acknowledges that God, of course, knows the future, and *Tosafot* addresses the tension between divine foreknowledge and free will, but the *Gemara* itself does not resolve the broader philosophical question here. The verse about *layla* thus serves, in Reish Lakish's reading, not as a statement about the biology of conception but as an entry point into this profound teaching about predestination and human agency.
+
+### Bozeh Drachav & Ben Sira
+
+> **Hebrew/Aramaic:** וְרַבִּי יוֹחָנָן, הַאי קְרָא דְּרֵישׁ לָקִישׁ מַאי דָּרֵישׁ בֵּיהּ? מִבְּעֵי לֵיהּ לִכְדִכְתִיב בְּסֵפֶר בֶּן סִירָא: שְׁלֹשָׁה שָׂנֵאתִי וְאַרְבָּעָה לֹא אָהַבְתִּי — שַׂר הַנִּרְגָּל בְּבֵית הַמִּשְׁתָּאוֹת, וְאָמְרִי לָהּ: ״שַׂר הַנִּרְגָּן״, וְאָמְרִי לַהּ: ״שַׂר הַנִּרְגָּז״.
+>
+> **Translation:** The Gemara asks: **And Rabbi Yoḥanan, how does he interpret that verse** cited **by Reish Lakish?** The Gemara answers that Rabbi Yoḥanan **requires** that verse: "But he who despises his ways shall die," **to** teach **that which is written in the book of ben Sira: Three** people **I have hated, and a fourth I have not loved: A minister who frequents [*hanirgal*] drinking houses,** as he disgraces himself and leads himself to ruin and death; **and some say** a different version of the text: **A minister who chats [*hanirgan*]** in drinking houses; **and some say** a third version: **A minister who is short-tempered [*hanirgaz*]** when in drinking houses.
+
+> **Hebrew/Aramaic:** וְהַמּוֹשִׁיב שַׁבָּת בִּמְרוֹמֵי קֶרֶת, וְהָאוֹחֵז בָּאַמָּה וּמַשְׁתִּין מַיִם, וְהַנִּכְנָס לְבֵית חֲבֵירוֹ פִּתְאוֹם. אָמַר רַבִּי יוֹחָנָן: וַאֲפִילּוּ לְבֵיתוֹ.
+>
+> **Translation:** That is the first that he hated. **And** the others are **one who dwells at the highest point of the city,** where everyone sees him; **and one who holds** his **penis and urinates. And** the fourth, whom he has not loved, is **one who enters the house of another suddenly,** without warning. **Rabbi Yoḥanan says: And** this includes **even** one who comes **into his** own **house** without prior warning, as the members of his household might be engaged in private activities.
+
+The *Gemara* then asks: and what does Rabbi Yochanan do with the verse of Reish Lakish — the verse about *bozeh drachav* — since Reish Lakish has taken the Iyov verse for himself? Rabbi Yochanan uses it, the *Gemara* says, *ibaye leh lechadechtiv besefer ben sira* — as it is written in the book of Ben Sira.
+
+This is an occasion to note the notably ambivalent relationship *Chazal* have with the book of Ben Sira. Ben Sira was a wisdom book composed during the period of the Second *Beit Hamikdash*, serving a role similar to Mishlei. On the one hand, *Chazal* at times caution against reading it or treating it as canonical. On the other hand, they quote it, and they do so with weight — using the formula *kedihtiv*, "as it is written," signaling a kind of scriptural seriousness. That ambivalence is on full display here.
+
+What does Ben Sira say? *Shlosha saneti ve'arba'ah lo ahavti* — three things I hated and four I do not love. The poetic structure echoes the prophetic formula of *al sheloshah... ve'al arba'ah* but is somewhat less polished. What are these four things? The first: *sar hanagar* — and Rashi reads *sar* here as a *talmid chacham*, a sage who spends too much time in drinking houses. The *Gemara* notes variant readings: *sar hanagan* (one who gossips excessively) or *sar hanagaz* (one given to quick anger). The second: *vehamoshiv shavas bimromei karas* — one who places his house of study at the highest point of the city, which is an act of arrogance. The third: *veha'ochez be'amah umashtin mayim* — a man who holds onto his genitals while urinating. The fourth: *vehanichnas leveish chaveiro pisom* — one who enters suddenly into his friend's house without knocking.
+
+Rabbi Yochanan adds: *ve'afilu leveiso* — one should not even walk into one's own house without first announcing oneself. Rashi explains: *dilma avid midi ditzni'usa* — perhaps the person inside is engaged in something private. This applies to spouse and, it may reasonably be added, to one's children. The respect for privacy, even in one's own home, is considered a basic value. The concept of *bozeh drachav*, then, is not primarily about sex at all — it encompasses this broader category of behaviors that are inappropriate for proper, civilized conduct: rushing into spaces without regard for others, violations of privacy, and failures of self-restraint.
+
+### Four Things God Hates
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: אַרְבָּעָה דְּבָרִים הַקָּדוֹשׁ בָּרוּךְ הוּא שׂוֹנְאָן, וַאֲנִי אֵינִי אוֹהֲבָן — הַנִּכְנָס לְבֵיתוֹ פִּתְאוֹם, וְאֵין צָרִיךְ לוֹמַר לְבֵית חֲבֵירוֹ, וְהָאוֹחֵז בָּאַמָּה וּמַשְׁתִּין מַיִם, וּמַשְׁתִּין מַיִם עָרוּם לִפְנֵי מִטָּתוֹ, וְהַמְשַׁמֵּשׁ מִטָּתוֹ בִּפְנֵי כָּל חַי.
+>
+> **Translation:** **Rabbi Shimon ben Yoḥai says: Four matters the Holy One, Blessed be He, hates, and I do not love them,** and they are: **One who enters his house suddenly, and needless to say** one who suddenly enters **the house of another; and one who holds** his **penis and urinates; and** a man who **urinates naked next to his bed; and one who engages in intercourse in the presence of any living being.**
+
+Rabbi Shimon bar Yochai then offers his own parallel formulation: *arba'ah devarim Hakadosh Baruch Hu sanean va'ani eini ohavan* — four things God hates, and I too do not love. The first is entering one's house suddenly, *vechol sheken leveish chaveiro* — and certainly someone else's house. The second is a man who holds onto his genitals while urinating. The third is *umashtin mayim arom lifnei mitaso* — urinating naked in front of one's bed. Even in the privacy of one's bedroom, standing completely naked before a chamber pot was considered improper. The *Tosafot* cites a *Gemara* in Shabbos suggesting this carries health or metaphysical consequences and may lead to poverty.
+
+At this point, a very important *Tosafot* must be noted. Some versions of the text here read not *umashtin mayim lifnei mitaso* but *meshamesh mitato arom* — having marital relations while completely naked. The *Tosafot* cites *Vayikra Rabbah* in support, and the reasoning is that even during *tashmish*, a person should maintain a degree of *tzniut* — perhaps only the relevant area exposed, but not fully unclothed.
+
+This, however, must be read against a competing and, in the view of *Chazal*, far more authoritative position. The *Gemara* in Ketubot states clearly that a husband cannot insist on having relations while clothed; his wife may demand otherwise. The *Rambam* reads the verse *she'era kesuta ve'onata lo yigra* as encompassing not just the act of *onah* but the physical intimacy of husband and wife together — and the assumption is that they are naked. The *Gemara* in Ketubot further notes that the requirement of separate beds when the wife is a *niddah* was considered necessary precisely because without that status they would be sleeping together without clothing — and pajamas alone would not suffice as a barrier. The sense of physical closeness and nakedness between husband and wife is thus given very considerable weight by *Chazal*. The minority voice recorded in *Tosafot* exists, but it is decidedly not the emphasis.
+
+The fourth thing God hates is *ve'hamishamesh mitato bifnei kol chai* — having relations before all living things.
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב יְהוּדָה לִשְׁמוּאֵל: וַאֲפִילּוּ לִפְנֵי עַכְבָּרִים? אֲמַר לֵיהּ: שִׁינָּנָא, לָא! אֶלָּא כְּגוֹן שֶׁל בֵּית פְּלוֹנִי שֶׁמְּשַׁמְּשִׁין מִטּוֹתֵיהֶן בִּפְנֵי עַבְדֵיהֶם וְשִׁפְחוֹתֵיהֶם.
+>
+> **Translation:** **Rav Yehuda said to Shmuel: Does the phrase: In the presence of any living being, mean** even **in the presence of mice?** Shmuel **said to him: *Shinnana*,** that is **not** the case. **Rather,** it is referring to a situation **such as in so-and-so's house, where they engage in intercourse in the presence of their** Canaanite **slaves and maidservants.**
+
+The *Gemara* initially understands this to mean in front of other people, which would be self-evident. Rav Yehuda then asks Shmuel: *va'afilu bifnei achbarim* — does this mean even in front of rats? Shmuel replies, addressing him as *shinena* — sharp one — and says no, not rats, but *kigun shel beit ploni*: like the household of such-and-such (whose name the *Gemara* declines to record), who would have relations in the presence of their male and female servants, treating those servants as invisible presences, essentially as animals. Shmuel's willingness to identify actual households engaging in this practice reflects the seriousness of the violation; it was common knowledge and needed to be named as unacceptable.
+
+> **Hebrew/Aramaic:** וְאִינְהוּ מַאי דְּרוּשׁ? ״שְׁבוּ לָכֶם פֹּה עִם הַחֲמוֹר״ — עַם הַדּוֹמֶה לַחֲמוֹר.
+>
+> **Translation:** The Gemara asks: **And those** members of that household, who act in that manner, **what** verse **do they interpret** in a manner that allows them to do so? The Gemara answers: They reference the verse in which Abraham said to his two servants: **"Remain here with [*im*] the donkey"** (Genesis 22:5). This verse is interpreted as meaning that they are **a nation [*am*] comparable to a donkey.** The members of the aforementioned household thought that it is permitted to engage in intercourse in the presence of animals, and therefore one can do so in the presence of his Canaanite slaves and maidservants.
+
+The *Gemara* then asks what *drasha* those households could possibly have offered in defense of their behavior — the very fact that the *Gemara* entertains this question is itself striking, as it grants even condemned behavior a place in rabbinic discourse. The verse they apparently invoked was Abraham's instruction to his servants: *shvu lachem po im hachamor* — stay here with the donkey. The *Gemara* reads *im hachamor* as *im hadomeh lachamor* — with those who are like a donkey — meaning that in some legal and social frameworks, slaves occupied a category adjacent to property, and therefore their presence was considered of no moral account. The *Gemara* rejects this premise entirely.
+
+> **Hebrew/Aramaic:** רַבָּה בַּר רַב הוּנָא מְקַרְקֵשׁ זָגֵי דְּכִילְּתָא, אַבָּיֵי בָּאלֵי דִּידְבֵי, רָבָא בָּאלֵי פָּרוֹחֵי.
+>
+> **Translation:** The Gemara cites practices of modesty observed by the Sages. **Rabba bar Rav Huna** would **sound the bells [*zagei*] of the canopy** above his bed when engaging in intercourse, so that people would know to keep away. **Abaye** would even **drive away flies [*didevei*]** from around his bed, so that he would not engage in intercourse in their presence, and **Rava** would **drive away gnats [*peruḥei*].**
+
+Following this discussion, the *Gemara* notes that Raba bar Rav Huna would ring the bells of his bed canopy — though *Tosafot* disputes this reading and argues the word refers not to bells (*zagei*) but to flies (*gazei*), and that he would wave away flies rather than announce himself. Abaye would similarly shoo away flies, and Rava would swat away gnats. The precise nature of the concern about animals being present during relations is not made entirely explicit by the *Gemara*. It may reflect an extreme expression of the value of privacy, or it may relate to a sense that the presence of any other creature — even one incapable of comprehension — alters the nature of the act by introducing a felt sense of being observed. Whatever the precise reasoning, this practice is indeed codified in the *Shulchan Aruch*.
+
+## Health Hazards
+
+### Five Hazards Intro
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי שִׁמְעוֹן בֶּן יוֹחַי: חֲמִישָּׁה דְּבָרִים הֵן שֶׁהָעוֹשֶׂה אוֹתָן מִתְחַיֵּיב בְּנַפְשׁוֹ וְדָמוֹ בְּרֹאשׁוֹ — הָאוֹכֵל שׁוּם קָלוּף, וּבָצָל קָלוּף, וּבֵיצָה קְלוּפָה, וְהַשּׁוֹתֶה מַשְׁקִין מְזוּגִין שֶׁעָבַר עֲלֵיהֶן הַלַּיְלָה, וְהַלָּן בְּבֵית הַקְּבָרוֹת, וְהַנּוֹטֵל צִפׇּרְנָיו וְזוֹרְקָן לִרְשׁוּת הָרַבִּים, וְהַמַּקִּיז דָּם וּמְשַׁמֵּשׁ מִטָּתוֹ.
+>
+> **Translation:** **Rabbi Shimon ben Yoḥai** further **says:** There are **five** actions with regard to **which one who performs them** is held **liable for his** own **life, and his blood is upon his** own **head,** i.e., he bears responsibility for his own demise. They are as follows: **One who eats peeled garlic or a peeled onion or a peeled egg, and one who drinks diluted drinks;** all these are referring to items only **when they were left overnight. And one who sleeps** at night **in a cemetery, and one who removes his nails and throws them into a public area, and one who lets blood and** immediately afterward **engages in intercourse.**
+
+Rabbi Shimon bar Yochai teaches: *chamisha devarim hen sheha'oseh otan mitchayev benafsho* — there are five things that if one does them, one is liable for one's own life, meaning one endangers oneself and bears responsibility for the consequences. These are: eating peeled garlic (*shum kaluf*), eating a peeled onion (*batzal kaluf*), eating a peeled egg (*beitza klufa*), drinking mixed liquids (*mashkin mezugin*) — all of these when they have been left overnight (*she'avar aleihen halaila*) — sleeping in a cemetery (*halan beveit hakevarot*), cutting one's nails and casting them into the public domain (*vehanotel tzipornav vezorkan lirshut harabim*), and performing bloodletting and then having marital relations (*vehamakiz dam umeshamesh mitato*).
+
+It should be noted that the peeled items may be counted together as one category, making the list five with *dam* and *tashmish* as the final entry. The underlying reasoning for the peeled foods is not entirely clear from a modern scientific standpoint — without refrigeration, some spoilage is understandable, but why peeled garlic or onion specifically would be dangerous in the way described is not obvious. The *Gemara*'s concerns here reflect a combination of medical observation, popular belief, and in some cases the influence of the surrounding Persian-Zoroastrian culture, as documented by scholars such as Dr. Yaakov Elman.
+
+### Peeled Foods
+
+> **Hebrew/Aramaic:** הָאוֹכֵל שׁוּם קָלוּף כּוּ׳. וְאַף עַל גַּב דְּמַנְּחִי בְּסִילְּתָא וּמְצַיְּירִי וַחֲתִימִי — רוּחַ רָעָה שׁוֹרָה עֲלֵיהֶן. וְלָא אֲמַרַן אֶלָּא דְּלָא שִׁיֵּיר בָּהֶן עִיקָּרָן אוֹ קְלִיפָּתָן, אֲבָל שִׁיֵּיר בָּהֶן עִיקָּרָן אוֹ קְלִיפָּתָן — לֵית לַן בַּהּ.
+>
+> **Translation:** The Gemara analyzes this statement of Rabbi Shimon ben Yoḥai, beginning with the case of **one who eats peeled garlic,** a peeled onion, or a peeled egg, when they were left overnight. The Gemara notes: **And** these peeled foods are dangerous **even if they are placed in a basket and they are tied and sealed** in that basket throughout the night, as **an evil spirit rests upon them. And we said** that eating them is dangerous **only if one did not leave on them their roots or their shells. But** if **one left on them their roots or their shells, we have no** problem **with it.**
+
+The *Gemara* qualifies the ruling about peeled foods: *v'af al gav d'manchi bisilta* — even if they are placed in a covered basket, *u'mtzayid v'chassi*, knotted and sealed, a *ruach ra* — an evil spirit — rests upon them if left overnight. However, this only applies if no remnant of the root or inner shell remains: *v'lo aman ela d'lo shiyar bei ikran* — this applies only when none of the little shoots at the base were left, *o klipatan* — or none of the inner peel. If the root or inner peel remains (*aval shiyar ban ikara o klipatan*), then *leit lan bah* — there is no concern.
+
+### Mixed Liquids
+
+> **Hebrew/Aramaic:** וְהַשּׁוֹתֶה מַשְׁקִין מְזוּגִין שֶׁעָבַר עֲלֵיהֶן הַלַּיְלָה. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: וְהוּא שֶׁלָּנוּ בִּכְלֵי מַתָּכוֹת. אָמַר רַב פָּפָּא: וּכְלֵי נֶתֶר כִּכְלֵי מַתָּכוֹת דָּמוּ. וְכֵן אָמַר רַבִּי יוֹחָנָן: וְהוּא שֶׁלָּנוּ בִּכְלֵי מַתָּכוֹת, וּכְלֵי נֶתֶר כִּכְלֵי מַתָּכוֹת דָּמוּ.
+>
+> **Translation:** Rabbi Shimon ben Yoḥai further mentions **one who drinks diluted drinks that were left overnight. Rav Yehuda says** that **Shmuel says: And** that **is** dangerous only **when they were left overnight in metal vessels. Rav Pappa says: And natron vessels are considered like metal vessels** in this regard. **And Rabbi Yoḥanan likewise says: And** that **is** dangerous only **when they were left overnight in metal vessels, and natron vessels are considered like metal vessels** in this regard.
+
+Regarding the mixed liquids left overnight, Rav Yehuda said in the name of Shmuel: *v'hu shelanu bichli matechet* — this applies only when they were left in metal vessels. This is plausible on practical grounds: a metallic taste would be imparted, and the ancient world was well acquainted with the dangers of lead, which was commonly used in metal vessels. Rav Papa adds: *vichli neter kichli matechet damu* — vessels of *neter* (alum or, possibly, sodium carbonate used in ceramics) are treated like metal vessels. Rabbi Yochanan similarly rules that the problem is specific to metal vessels and that *kli neter* is categorized accordingly.
+
+### Cemetery Sleep
+
+> **Hebrew/Aramaic:** וְהַלָּן בְּבֵית הַקְּבָרוֹת — כְּדֵי שֶׁתִּשְׁרֶה עָלָיו רוּחַ טוּמְאָה, זִימְנִין דִּמְסַכְּנִין לֵיהּ.
+>
+> **Translation:** Rabbi Shimon ben Yoḥai also says: **And one who sleeps in a cemetery** places himself in danger. The Gemara notes that this is the case if he does so **in order that a spirit of impurity will rest upon him,** as **sometimes** the evil spirits in the cemetery **endanger** the one who sleeps there.
+
+One who sleeps in a cemetery (*halan beveit hakevarot*) does so *kedei shetishreh alav ruach tumah* — in order that impure spirits should rest upon him, meaning the person is attempting a form of necromancy, seeking to hear the spirits of the deceased or the angels above. Such a person is likely already in violation of several other prohibitions. But beyond that, the *Gemara* notes it is a life hazard: *zimnin d'masachnin lei* — sometimes these spirits endanger him. Consorting with these forces, whatever precisely that means in a given context, carries genuine risk.
+
+### Fingernails
+
+> **Hebrew/Aramaic:** וְהַנּוֹטֵל צִפׇּרְנָיו וְזוֹרְקָן לִרְשׁוּת הָרַבִּים — מִפְּנֵי שֶׁאִשָּׁה מְעוּבֶּרֶת עוֹבֶרֶת עֲלֵיהֶן וּמַפֶּלֶת. וְלָא אֲמַרַן אֶלָּא דְּשָׁקֵיל בִּגְנוּסְטְרֵי, וְלָא אֲמַרַן אֶלָּא דְּשָׁקֵיל דִּידֵיהּ וּדְכַרְעֵיהּ, וְלָא אֲמַרַן אֶלָּא דְּלָא גַּז מִידֵּי בָּתְרַיְיהוּ, אֲבָל גַּז מִידֵּי בָּתְרַיְיהוּ — לֵית לַן בַּהּ. וְלָא הִיא, לְכוּלַּהּ מִילְּתָא חָיְישִׁינַן.
+>
+> **Translation:** The next case is **one who removes his nails and throws them into a public area.** The Gemara explains that this is dangerous **because a pregnant woman** might **pass over them, and** this can cause her to **miscarry. And we said** this *halakha* **only when one removes** his nails **with scissors [*bigenosteri*]. And** furthermore, **we said** this *halakha* **only when one removes** the nails **of his hand and his foot** together. **And we said** this *halakha* **only when he did not cut anything** else **after** his nails, **but** if **he cut something** else **after them, we have no** problem **with it.** The Gemara comments: **And** that **is not so;** rather, **we are concerned with regard to the entire matter,** i.e., in all cases.
+
+Cutting nails and casting them into the public domain is dangerous *mifnei she'isha u'beret overet aleihen u'mapala* — because a pregnant woman who passes over discarded nail clippings may suffer a miscarriage. This belief, while not scientifically supportable in the way it is stated, reflects a broader system of belief, particularly in Sassanian Persia, concerning the dangerous spiritual charge residing in body parts that have been cut and discarded.
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שְׁלֹשָׁה דְּבָרִים נֶאֶמְרוּ בַּצִּפׇּרְנַיִם: שׂוֹרְפָן — חָסִיד, קוֹבְרָן — צַדִּיק, זוֹרְקָן — רָשָׁע.
+>
+> **Translation:** With regard to removing one's nails, **the Sages taught: Three matters were stated with regard to** removing **nails:** One who **burns them** is **pious,** as he eradicates them entirely; one who **buries them** is on the slightly lower level of **a righteous** individual, as they might be dug up; and one who simply **throws them** where a person might step upon them is **wicked.**
+
+The *Gemara* then introduces a series of qualifications: this applies only when the nails were cut with scissors (*deshakeil bignustri*), only when both fingernails and toenails were cut (*d'yadei ved'karei*), and only when nothing was cut afterwards — because cutting something subsequently may divert the *ruach ra*. However, the *Gemara* then states *velo hi* — none of these qualifications are actually operative. *Lekula milta chaishinan* — we are concerned for all of it, regardless. Nail disposal is simply always a concern.
+
+The *baraita* then teaches: *shlosha devarim neemru b'tzipornayim* — three things are said regarding nail clippings. One who burns them is a *chasid* — this is the most thorough and praiseworthy disposal, ensuring no one will ever encounter them. One who buries them is a *tzadik* — righteous, though not at the level of *chasid*, since burial could theoretically be disturbed. One who simply throws them out (*vezorkan rasha*) — is wicked, for this endangers others. This ruling is codified in the *Shulchan Aruch*, which distinguishes it from many other *Gemara* health concerns that are not taken up as binding *halacha*.
+
+### Bloodletting
+
+> **Hebrew/Aramaic:** וְהַמַּקִּיז דָּם וּמְשַׁמֵּשׁ מִטָּתוֹ — דְּאָמַר מָר: מַקִּיז דָּם וּמְשַׁמֵּשׁ מִטָּתוֹ — הֹוִיין לוֹ בָּנִים וִיתְּקִין. הִקִּיזוּ שְׁנֵיהֶם וְשִׁמְּשׁוּ — הֹוִיין לוֹ בָּנִים בַּעֲלֵי רָאתָן. אָמַר רַב: וְלָא אֲמַרַן אֶלָּא דְּלָא טְעֵים מִידֵּי, אֲבָל טְעֵים מִידֵּי — לֵית לַן בַּהּ.
+>
+> **Translation:** The Gemara discusses the final clause of Rabbi Shimon ben Yoḥai's statement: **And one who lets blood and** immediately afterward **engages in intercourse.** This is **as the Master said:** With regard to one who **lets blood and** afterward **engages in intercourse, he will have weak [*vittakin*] children** conceived from this act of intercourse. If **both of them,** husband and wife, **let blood and engaged in intercourse, he will have children afflicted with** a disease known as ***ra'atan*. Rav says: And we said** this **only** in a case **when he did not taste anything** after letting blood, **but** if **he tasted something** then **we have no** problem **with it.**
+
+The fifth category: one who performs bloodletting and then has marital relations the same day. The *Gemara* states: *hamakiz dam umeshamish mitato, havu lei banim vitakin* — he will have weak children. This reflects the *Gemara*'s broader principle that the physical and mental state of the couple at the moment of conception has an impact on the child. If both husband and wife have undergone bloodletting and then have relations — *havu lo banim baalei raatan* — the children will suffer from *raatan*, which Rashi describes as *yesh lahem sheretz bemocham*, some form of serious neurological or brain disease.
+
+Rav qualifies: *velo amran ela dela ta'im midei* — this is only a concern if the person did not eat after the bloodletting. If one ate something (*aval ta'im midei*), then *leit lan bah* — it is not a consideration. The parallel to the modern practice of providing food and drink after blood donation is obvious enough.
+
+## Sex & Light…
+
+### Rav Chisda & Abaye
+
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: אָסוּר לוֹ לָאָדָם שֶׁיְּשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם, שֶׁנֶּאֱמַר: ״וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ״. מַאי מַשְׁמַע? אָמַר אַבָּיֵי: שֶׁמָּא יִרְאֶה בָּהּ דָּבָר מְגוּנֶּה וְתִתְגַּנֶּה עָלָיו. אָמַר רַב הוּנָא: יִשְׂרָאֵל קְדוֹשִׁים הֵם, וְאֵין מְשַׁמְּשִׁין מִטּוֹתֵיהֶן בַּיּוֹם.
+>
+> **Translation:** § **Rav Ḥisda says:** It is **prohibited for a person to engage in intercourse by day, as it is stated: "And you shall love your fellow as yourself"** (Leviticus 19:18). The Gemara asks: **From where** is this **inferred? Abaye says:** If one engages in intercourse by day, **perhaps** the husband **will see some repulsive matter in** his wife **and she will become repugnant to him,** which will cause him to hate her, and he will thereby violate this mitzva. **Rav Huna says: Jews are holy, and they do not engage in intercourse by day.**
+
+Returning now to the question of nighttime versus daytime relations, Rav Chisda rules: *assur lo l'adam sheyeshamish mitato bayom* — it is forbidden for a man to have marital relations by day. His proof-text is *ve'ahavta lere'acha kamocha* — love your neighbor as yourself — applied here to one's wife. This is the very verse Rashi had alluded to earlier in explaining the concern.
+
+It is worth noting the depth of this application. The *Gemara* in Kiddushin uses the same verse to argue that a father should not marry off his minor daughter without her having looked at the prospective husband and expressed genuine desire — *ve'ahavta lere'acha kamocha* as a principle applied to the most intimate relationships. There is something genuinely striking about reading the language of neighbor-love into the marital relationship, and the *Gemara* does so deliberately: the spouse is *re'acha*, your intimate companion, and treating one's companion with care and consideration shapes the laws of intimate conduct.
+
+What exactly is the inference? Abaye explains: *shema yireh bah davar meguneh vetitganeh alav* — perhaps he will see something in her that he finds unattractive and she will become repulsive to him. This is precisely the concern Rashi had articulated: in bright daylight, every small physical imperfection is visible. The intimacy and mystery that belong to the conjugal relationship are replaced by a clinical, physical scrutiny. *Ve'ahavta lere'acha kamocha* demands relating to the person, not merely appraising the body. The prohibition on daytime relations, then, is not about shame or the dirtiness of sex — it is about protecting intimacy, about not reducing a person to their physical appearance under a harsh light.
+
+### Rav Huna & Rava
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: וְאִם הָיָה בַּיִת אָפֵל — מוּתָּר, וְתַלְמִיד חָכָם — מַאֲפִיל בִּכְסוּתוֹ וּמְשַׁמֵּשׁ.
+>
+> **Translation:** **Rava says: And if** the **house is dark,** it is **permitted** to engage in intercourse by day there. **And** in the case of **a Torah scholar, he may cause darkness with his garment and engage in intercourse** even during the daytime, as he will certainly do so with modesty.
+
+Rav Huna adds: *Yisrael kedoshim hem ve'ein mishamshmim mitoteihem bayom* — Israel are holy, and they do not have relations in the daytime. This introduces the language of *kedushah* — holiness — which might seem to suggest that there is something inherently wrong about daytime relations, in tension with the plain language of *assur* used elsewhere. Yet the *kedoshim* framing need not be read differently from Abaye's concern; the values that lead one to decline daytime relations are precisely those that constitute *kedushah* in the relational sense. One might also note the possibility that daytime relations carry a connotation of excessive preoccupation with intimacy, since nighttime is the normative time — but neither the *Gemara* nor the *Rishonim* press this reading decisively.
+
+Rava then rules: *ve'im hayetah bayit afel mutar* — if the house was darkened, it is permitted. This is crucial: the prohibition is not fundamentally about time of day, but about light. A darkened house in the daytime is acceptable, because the concern was never about day per se but about performing relations under illumination that directs attention entirely to the physical. Additionally: *vetalmid chacham ma'afil bechasuto umeshammesh* — a Torah scholar, who can be trusted to conduct himself appropriately, may even darken himself under his covers and have relations even if the house is not fully darkened. The extent to which this dispensation generalizes — to any couple capable of the same self-awareness and intention — is a question the *Gemara* leaves somewhat open.
+
+## Bedikah Cloth Check
+
+### Beit Shammai Reinterpret
+
+> **Hebrew/Aramaic:** תְּנַן: אוֹ תְּשַׁמֵּשׁ לְאוֹר הַנֵּר! אֵימָא: תִּבְדּוֹק לְאוֹר הַנֵּר.
+>
+> **Translation:** The Gemara challenges: **We learned** in the mishna: **Or** she must **engage in intercourse by the light of a lamp.** This indicates that one may engage in intercourse in the light. The Gemara answers: **Say** that the mishna reads: **She must examine** the cloth **by the light of a lamp,** but not engage in intercourse in this manner.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: אַף עַל פִּי שֶׁאָמְרוּ: הַמְשַׁמֵּשׁ מִטָּתוֹ לְאוֹר הַנֵּר הֲרֵי זֶה מְגוּנֶּה! אֵימָא: הַבּוֹדֵק מִטָּתוֹ לְאוֹר הַנֵּר הֲרֵי זֶה מְגוּנֶּה.
+>
+> **Translation:** The Gemara cites a relevant source. **Come** and **hear** a *baraita*: **Even though** the Sages **said** that **one who engages in intercourse by the light of a lamp is repulsive,** nevertheless Beit Shammai say: Or she must engage in intercourse by the light of a lamp and inspect the cloths before and after each act of intercourse. The Gemara similarly explains: **Say** that the *baraita* reads: **One who examines** herself before or after **intercourse by the light of a lamp is repulsive,** as this examination would not be conducted properly, since the light of the lamp may not be sufficient. Nevertheless Beit Shammai say that a woman who engages in many acts of intercourse in one night must examine the cloth by the light of a lamp.
+
+The *Gemara* now returns to the *Mishnah*'s mention of *Beit Shammai*'s practice involving candlelight and asks: if daytime relations are *assur*, how could *Beit Shammai* have endorsed relations by candlelight? The *Gemara* answers: *eima tivdok le'or haner* — read it as checking the cloth by candlelight, not having relations by it. The *Mishnah* is not saying that *Beit Shammai* permitted relations under candlelight; rather, *Beit Shammai* said that between successive acts of relations at night, the woman should check her cloth — and if that check cannot adequately be performed by candlelight, it should wait until morning.
+
+Then the *Gemara* tries again with a *braita* that had stated explicitly: *af al pi she'amru ha'meshamesh mitato le'or haner harei zeh meguneh* — even though we have said that one who has relations by candlelight is considered vulgar, *Beit Shammai* nonetheless says this should be done for the purpose of multiple checks. Here the *Gemara* objects: how can checking by candlelight be *meguneh* if relations by candlelight were the concern? The *Gemara* answers: *eima ha'bodek mitato le'or haner harei zeh meguneh* — reread it as: one who *checks* the cloth by candlelight is engaging in a *meguneh* practice, because candlelight is insufficient to properly assess the color of a stain. The proper check must be done in daylight — and why? Because candlelight skews toward the red end of the spectrum and can cause a cloth that is actually clean to appear to have a disqualifying color. This is a matter of practical *halacha* regarding *bedikah* cloths: checks must be made in sunlight, not by artificial light.
+
+### King Munbaz House
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: וְשֶׁל בֵּית מוֹנְבַּז הַמֶּלֶךְ הָיוּ עוֹשִׂין שְׁלֹשָׁה דְּבָרִים, וּמַזְכִּירִין אוֹתָן לְשֶׁבַח — הָיוּ מְשַׁמְּשִׁין מִטּוֹתֵיהֶם בַּיּוֹם, וּבוֹדְקִין מִטּוֹתֵיהֶם בְּמֵילָא פַּרְהֲבָא, וְנוֹהֲגִין טוּמְאָה וְטׇהֳרָה בִּשְׁלָגִים. קָתָנֵי מִיהָא: מְשַׁמְּשִׁין מִטּוֹתֵיהֶן בַּיּוֹם!
+>
+> **Translation:** The Gemara further suggests: **Come** and **hear** a *baraita*: **And the household of King Munbaz would perform three matters, and** the Sages **would mention them favorably** for their behavior in this regard. **They would engage in intercourse by day; and they** would **examine** before and after **intercourse with wool [*bemeila*] of Parhava,** which is very white and would show any stain; **and they** would **practice ritual impurity and purity with regard to snow.** Regardless of the meaning of the last two matters, **in any event** this *baraita* **teaches** that they would **engage in intercourse by day,** which indicates that this practice is not prohibited.
+
+The *Gemara* then introduces a *baraita*: *be'shel beit Munbaz ha'melech* — in the household of King Munbaz (identified in tradition as the son of Queen Heleni ha'malka) — *hayu osin gimel devarim umazkirin otan le'shevach* — they would do three things, and they are mentioned for praise. The three practices were: having relations in the daytime (*hayu meshameshin mitoteihen bayom*), checking their cloths with a *mila usarpla* — a cotton or soft wool cloth — and treating snow with the laws of *tumah* and *taharah* (to which we will return). The *Gemara* notes the relevant part: they are *praised* for having daytime relations.
+
+### Check vs. Sex
+
+> **Hebrew/Aramaic:** אֵימָא: בּוֹדְקִין מִטּוֹתֵיהֶם בַּיּוֹם. הָכִי נָמֵי מִסְתַּבְּרָא, דְּאִי סָלְקָא דַעְתָּךְ ״מְשַׁמְּשִׁין״ — מַזְכִּירִין אוֹתָן לְשֶׁבַח? אִין הָכִי נָמֵי, דְּאַגַּב דְּאִיכָּא אוֹנֶס שֵׁינָה — מִגַּנְּיָא בְּאַפֵּיהּ.
+>
+> **Translation:** The Gemara answers: **Say** that they would **examine their beds,** i.e., check the examination cloths, **by day.** The Gemara adds: **So too, it is reasonable** that this is the correct explanation, **as if** it should **enter your mind** that it means that they would **engage in intercourse** by day, even if it is permitted, would the Sages have **mentioned them favorably** for this practice? The Gemara refutes this proof: **Yes,** it **is indeed so.** There is a praiseworthy aspect to engaging in intercourse by day, **as** at night **there is** a risk of being **overcome by sleep,** because the husband might be too tired after the exertions of the day, and **consequently** his wife who desires sexual intercourse might **be repulsive to him.**
+
+The *Gemara* immediately challenges this: if daytime relations are *assur*, how can they be praised? The *Gemara* suggests: *eima bodkin mitoteihen bayom* — perhaps the praise is for checking their *bedikah* cloths by day rather than by candlelight. And it then adds: *hakhi nami mistabra* — indeed this reading is more logical. Because if it literally meant they had daytime relations, why would that be praiseworthy? Disagreement is possible, but praise requires more than the absence of prohibition.
+
+The *Gemara* then offers a reason why daytime relations might in fact be praiseworthy: *de'agav de'ika ones sheinah* — because at night, people are fatigued. If a man is exhausted and his wife is tired, then what should be an act of genuine intimacy becomes perfunctory or worse — *meganeh be'anpei* — he is put off by her, she is not truly present. In that context, daytime relations, when both are rested and genuinely engaged, might be not merely permitted but actively commendable.
+
+### Meiri Exception
+
+The Meiri draws out this reasoning into a full halachic position. He writes: *af al pi she'amru she'assur le'adam leshamesh mitato ela balailah* — although it is forbidden except at night — *kol sheroyeh atzmo mitsad tivo* — anyone who recognizes, by his own nature and constitution, that he is *yinas beshinah balailah* — overcome by sleep at night and *ei efshar lo lirtzo* — cannot properly engage his wife's desire and willingness — *o she'hi mitsad tiva retza menamnemet beshinah balailah ve'eina rotza* — or she, by her nature, is drowsy at night and cannot truly participate — *mutar lo leshamesh mitato bayom behatzneya* — he may have relations in the daytime, provided it is done modestly and in darkness, *al derech tishkarnu* — and there is even a positive value in doing so, because intimacy done with genuine desire and care is the fulfillment of *onah* in its truest sense.
+
+This is important because the biblical *mitzvah* of *onah* demands not merely the act itself but that it be an act of genuine giving of pleasure. The Meiri's position is that when nighttime fatigue systematically undermines the quality of the act — for either spouse — the entire calculus shifts, and daytime becomes not merely permissible but the proper fulfillment of the *mitzvah*.
+
+## Cloth & Snow
+
+### Cloth Materials
+
+> **Hebrew/Aramaic:** וּבוֹדְקִין מִטּוֹתֵיהֶן בְּמֵילָא פַּרְהֲבָא — מְסַיַּיע לֵיהּ לִשְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל: אֵין בּוֹדְקִין אֶת הַמִּטָּה אֶלָּא בְּפָקוֹלִין אוֹ בְּצֶמֶר נָקִי וְרַךְ. אָמַר רַב: הַיְינוּ דְּכִי הֲוַאי הָתָם בְּעַרְבֵי שַׁבָּתוֹת, הֲווֹ אָמְרִי: ״מַאן בָּעֵי פָּקוֹלֵי בְּנַהֲמָא״, וְלָא יָדַעְנָא מַאי קָאָמְרִי.
+>
+> **Translation:** The Gemara further analyzes the *baraita*, which teaches: **And** the household of King Munbaz would **examine** before and after **intercourse, with wool of Parhava.** The Gemara notes: This statement **supports** the opinion **of Shmuel, as Shmuel said: One may examine a bed,** i.e., use an examination cloth for intercourse, **only with** a cloth made of **linen [*befakolin*], or with** one made of **clean and soft wool. Rav says: This is** the explanation of **that** which I heard **when I was there,** in Eretz Yisrael, **on Shabbat evenings,** which is the time when Torah scholars engage in intercourse with their wives; people **would** offer and **say: Who needs linen** cloths **for** eating **bread [*benahama*],** a euphemism for intercourse. **And I did not know what they were saying** until now.
+
+Returning to the *baraita* about the household of King Munbaz, the *Gemara* notes that the practice of using a *mila usarpla* for *bedikah* cloths is *mesayei leh lishmuel* — it supports the ruling of Shmuel. Shmuel had stated: *ein bodkin et hamitah ela bepakulin* — one checks only with cotton cloth, *o betzemer naki v'rach* — or soft, clean wool. These materials are preferred because they are white (so that blood will be clearly visible), soft (so as not to cause abrasion), and not overly absorbent (so that staining is not obscured). This *Gemara* establishes the basic parameters for what *bedikah* cloths must be: white, soft, and of the right texture.
+
+### Raba Linen
+
+> **Hebrew/Aramaic:** אָמַר רָבָא: הָנֵי שַׁחֲקֵי דְּכִיתָּנָא מְעַלּוּ לִבְדִיקָה. אִינִי? וְהָא תָּנָא דְּבֵי מְנַשֶּׁה: אֵין בּוֹדְקִין אֶת הַמִּטָּה לֹא בְּעֵד אֱדוֹם, וְלֹא בְּעֵד שָׁחוֹר, וְלֹא בְּפִשְׁתָּן, אֶלָּא בְּפָקוֹלִין אוֹ בְּצֶמֶר נָקִי וְרַךְ!
+>
+> **Translation:** **Rava says: Those worn-out flax** clothes are **good for examination.** The Gemara asks: **Is that so? But didn't the school of Menashe teach: One may not examine a bed with a red cloth, nor with a black cloth, nor with flax, but with** a cloth made of **linen, or with** one made of **clean and soft wool?**
+
+> **Hebrew/Aramaic:** לָא קַשְׁיָא — הָא בְּכִיתָּנָא, הָא בְּמָאנֵי דְּכִיתָּנָא. וְאִיבָּעֵית אֵימָא: הָא וְהָא בְּמָאנֵי דְּכִיתָּנָא — הָא בְּחַדְתֵי, הָא בְּשַׁחֲקֵי.
+>
+> **Translation:** The Gemara answers that this is **not difficult,** as **this** statement that one may not examine with flax is referring **to flax** itself, whereas **that** statement of Rava, that flax is good for an examination, is referring **to flax garments. And if you wish, say** instead that both **this** statement **and that** statement are referring **to flax garments,** and the difference is that **this** ruling that one may not use flax is referring **to new** garments, whereas **that** ruling of Rava is referring specifically **to worn-out** garments, which are brighter.
+
+Rava then makes a personal observation: *hai dechite dekitna* — worn linen garments — *maali lebedika* — are actually excellent for *bedikah* cloths. He recounts that when he was in Israel, he would hear people on *Erev Shabbat* calling out: *man bei pakulei benama* — who wants cloth for their bread? He did not at first understand what was meant, but now he does: *lechem*, bread, is a euphemism for the marital act (*ki halechem asher hu ochel*), and the vendors were offering *bedikah* cloths for use on Friday night. This incidentally documents the practice of *bedikah* cloths in connection with *Erev Shabbat* relations, reflecting the already-heightened significance of Friday night as a time for *onah*.
+
+The *Gemara* then challenges Rava's endorsement of linen cloths. The *baraita* from the house of Menashe states: *ein bodkin et hamitah, lo b'ed adom, v'lo b'ed shachor* — one does not use red cloth or black cloth, for obvious reasons (blood cannot be assessed against these colors), *v'lo b'pishtan* — and one does not use linen — *ela b'pakulin o b'tzemer naki v'rach* — only cotton or soft wool. The *Gemara* resolves the apparent contradiction: *lo kashya, ha b'kitna ha b'manei d'kitna* — there is a distinction between raw linen threads and actual woven linen cloth. Alternatively: the difference is between *chadti* and *shachiki* — new linen, which is too stiff and not yet properly whitened, versus worn linen, which is soft and proven. Rava's endorsement is of the worn variety. The practical halachic upshot is that checks must use white, soft materials and must be examined in sunlight — not candlelight — since different light sources have different spectral qualities, and candlelight's warmer, redder wavelengths can make a clean cloth appear to contain a disqualifying reddish stain.
+
+### Snow Tumah
+
+> **Hebrew/Aramaic:** נוֹהֲגִין טוּמְאָה וְטׇהֳרָה בִּשְׁלָגִין. תְּנַן הָתָם: שֶׁלֶג אֵינוֹ לֹא אוֹכֶל וְלֹא מַשְׁקֶה, חִישֵּׁב עָלָיו לַאֲכִילָה — אֵינוֹ מְטַמֵּא טוּמְאַת אֳוכָלִין, לְמַשְׁקֶה — מְטַמֵּא טוּמְאַת מַשְׁקִין.
+>
+> **Translation:** It was further stated that the household of King Munbaz was praised by the Sages because its members would **practice ritual impurity and purity with regard to snow.** The Gemara comments: **We learned** in a *baraita* **there** (see *Tosefta*, *Teharot* 2:5): **Snow is neither food nor drink** with regard to ritual impurity. If **one designated it for consumption,** his intention is disregarded, and **it does not impart the ritual impurity of food.** But if one planned to use it as **a drink, it imparts the ritual impurity of liquid.**
+
+> **Hebrew/Aramaic:** נִטְמָא מִקְצָתוֹ — לֹא נִטְמָא כּוּלּוֹ, נִטְהַר מִקְצָתוֹ — נִטְהַר כּוּלּוֹ.
+>
+> **Translation:** If **part of** the snow **became impure, it does not all become impure,** but only the area that came into contact with the item of ritual impurity, as a pile of snow is not considered a single unit. If impure snow in a vessel is lowered into a ritual bath, even if the waters of the ritual bath touched only the snow on the mouth of the vessel, since **part of** the snow **is purified, all of it is purified.**
+
+The third practice of the household of King Munbaz — treating snow with the laws of *tumah* and *taharah* — prompts a citation from a *mishnah* elsewhere. *Sheleg* — snow — is *eino lo ochel v'lo mashkeh* — neither food nor drink, and therefore it does not become *tamei* as food or liquid. If one intends to eat it (*chishev alav l'achilah*), it still does not become *tamei* as food: *eino metamei tumat ochlim*. However, if one intends to drink it — perhaps to dissolve it for liquid use — *metamei tumat mashkin*: it may be subject to liquid *tumah*.
+
+Furthermore, the snow is treated atomistically: *nitma miktzato lo nitma kulo* — if part of it is made *tamei*, the rest is not. Each portion is independent. But the converse: *nithar miktzato nithar kulo* — if some of it becomes *tahor*, it all does. How does snow become *tahor*? Liquids that are *tamei* can be rendered *tahor* by contact with a *mikvah*, since they become part of the *mikvah* waters and change their identity. Snow, being water, can in principle be rendered *tahor* this way — though by the time the *mikvah* water has done its work, the snow may no longer be snow in any meaningful sense.
+
+### Snow Airspace
+
+> **Hebrew/Aramaic:** הָא גוּפַאּ קַשְׁיָא: אָמְרַתְּ ״נִטְמָא מִקְצָתוֹ — לֹא נִטְמָא כּוּלּוֹ״, וַהֲדַר (תָּנֵי) [אָמְרַתְּ] ״נִטְהַר מִקְצָתוֹ — נִטְהַר כּוּלּוֹ״, לְמֵימְרָא דְּנִטְמָא כּוּלּוֹ!
+>
+> **Translation:** The Gemara analyzes the *baraita*: **This** *baraita* **itself** is **difficult. You** initially **said** that if **part of** the snow **became impure, it does not all become impure, and then** the *baraita* **teaches** that if **part of** the snow **is purified, all of it is purified,** which is **to say that all of it became impure.** In other words, the last clause of the *baraita* is dealing with a lump of snow all of which is ritually impure, whereas according to the previous clause this is impossible: How could the source of the impurity have touched all of the snow?
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: כְּגוֹן שֶׁהֶעֱבִירוֹ עַל אֲוִיר תַּנּוּר, דְּהַתּוֹרָה הֵעִידָה עַל כְּלִי חֶרֶס
+>
+> **Translation:** **Abaye says:** It is possible for all the snow to become impure, in a case **where one passed** the snow **within the airspace of** an earthenware vessel, such as **an oven,** in which the source of impurity was located. This renders the entire lump of snow impure, **as the Torah testifies with regard to an earthenware vessel** that contains a source of impurity that all items inside its airspace are rendered impure, as the verse states: "Whatever is in it shall be impure" (Leviticus 11:33).
+
+> **Hebrew/Aramaic:** אֲפִילּוּ מָלֵא חַרְדָּל.
+>
+> **Translation:** Therefore, **even** if the earthenware vessel was **full** of items as small as **mustard** seeds, only a few of which touched the sides of the vessel or the impure item inside it, all the items inside the vessel are rendered ritually impure. Likewise, with regard to snow that passes through the vessel's airspace, all of it becomes impure.
+
+The *Gemara* notes an internal tension: if part of the snow can become *tamei* without affecting the whole, how does it become *tamei* in its entirety — which is the precondition for the subsequent statement that *nithar miktzato nithar kulo* is impressive? One might suggest simply dragging a *sheretz* across all of it, but the *Gemara* offers a better answer. Abaye says: *k'gon she'he'eviro al pi tanur* — the case is where the snow was held in the airspace of a pottery oven (*tanur*) that was itself *tamei*. The rule regarding *kli cheres* — pottery vessels — is that *tumah* spreads not by touch but through the airspace: anything within the enclosed airspace of a *tamei* pottery vessel becomes *tamei*. Hence the entire mass of snow, suspended in that airspace, becomes *tamei* uniformly. The *baraita* confirms: even a pottery vessel filled with mustard seed — if the vessel is *tamei*, everything in its airspace shares in that *tumah*.
+
+## Three Chambers
+
+### House Anatomy
+
+> **Hebrew/Aramaic:** מַתְנִי' מָשָׁל מָשְׁלוּ חֲכָמִים בָּאִשָּׁה: הַחֶדֶר, וְהַפְּרוֹזְדוֹר, וְהָעֲלִיָּיה.
+>
+> **Translation:** MISHNA: A woman's reproductive organs are composed of different parts, and the halakhic status of blood that emerges from one part differs from the halakhic status of blood that emerges from another part. **The Sages stated a parable with regard to** the structure of the sexual organs of **a woman,** based on the structure of a house: **The** inner **room** represents the uterus, **and the corridor [*perozdor*]** leading to the inner room represents the vaginal canal, **and the upper story** represents the bladder.
+
+The *Gemara* now introduces a new *mishnah*: *mashlu mashal chachamim b'ishah* — the Sages gave a parable for a woman's anatomy. The parable involves a house with three parts: *hacheder*, the inner chamber; *haprozdor*, the antechamber; and *ha'aliya*, the upper story or attic. The use of a house as a metaphor for a woman is pervasive in the *Gemara* — a wife is called *dvaisaihu* (his house), women of a household are referred to collectively as *ha'bayis*, and the pre-coital *bedikah* is described using the same vocabulary as *bedikas chametz*, searching a house in all its *chorin usidakin* — nooks and crannies. The three-part house metaphor here is applied to describe the internal anatomy of a woman in order to determine the status of blood found at various locations.
+
+### Blood Origin
+
+> **Hebrew/Aramaic:** דַּם הַחֶדֶר — טָמֵא, דַּם הָעֲלִיָּיה — טָהוֹר, נִמְצָא בַּפְּרוֹזְדוֹר — סְפֵקוֹ טָמֵא, לְפִי שֶׁחֶזְקָתוֹ מִן הַמָּקוֹר.
+>
+> **Translation:** **Blood** from **the** inner **room is ritually impure. Blood** from **the upper story is ritually pure.** If blood **was found in the corridor,** there is uncertainty whether it came from the uterus and is impure, or from the bladder and is pure. Despite **its** state of **uncertainty,** it is deemed definitely **impure, due to** the fact **that its presumptive status** is of blood that came **from the source,** i.e., the uterus, and not from the bladder.
+
+*Dam hacheder tamei* — blood originating in the inner chamber (*cheder*), presumed to be the *makor* (uterus), is *tamei*: it is *dam niddah*. *Dam ha'aliya tahor* — blood from the *aliya*, the upper story, whatever anatomical structure that corresponds to, is *tahor*. If blood is found in the *prozdor* — the antechamber or vaginal canal — then *sefeiko tamei*: when in doubt, we rule it *tamei*, because *lefei shechezkato min hamakor* — the presumption is that blood found there originated in the *makor*. Most blood encountered in that location will have come from the uterus, and so the *chazakah* follows accordingly.
+
+### Chamber Layout
+
+> **Hebrew/Aramaic:** גְּמָ' רָמֵי בַּר שְׁמוּאֵל וְרַב יִצְחָק בְּרֵיהּ דְּרַב יְהוּדָה תְּנוֹ נִדָּה בֵּי רַב הוּנָא. אַשְׁכְּחִינְהוּ רַבָּה בַּר רַב הוּנָא דְּיָתְבִי וְקָאָמְרִי: הַחֶדֶר מִבִּפְנִים, וְהַפְּרוֹזְדוֹר מִבַּחוּץ, וַעֲלִיָּיה בְּנוּיָה עַל שְׁתֵּיהֶן, וְלוּל פָּתוּחַ בֵּין עֲלִיָּיה לַפְּרוֹזְדוֹר.
+>
+> **Translation:** GEMARA: **Rami bar Shmuel and Rav Yitzḥak, son of Rav Yehuda, were learning** tractate ***Nidda*** in **the study hall of Rav Huna. Rabba bar Rav Huna found them sitting and saying** an interpretation of this mishna: **The room,** i.e., the uterus, is the **inner** part of the reproductive organs, **and the corridor** is the **outer** part. **And the upper story,** the bladder, **is built,** i.e., found, **above them both. And** there is **an open vestibule between** the **upper story and the corridor.**
+
+Rami bar Shmuel and Rav Yitzchak the son of Rav Yehuda were studying the laws of *Niddah* in the *yeshiva* of Rav Huna. Rabba bar Rav Huna encountered them and heard their description of the anatomical layout. The inner chamber (*hacheder*) is on the inside. The antechamber (*prozdor*) is on the outside. The *aliya* is built above both of them. And *lul patuach bein aliya leprozdor* — there is a small opening, a *lul* (the term used for the small passageway in a chicken coop), connecting the *aliya* to the *prozdor*.
+
+### Blood Presumption
+
+> **Hebrew/Aramaic:** נִמְצָא מִן הַלּוּל וְלִפְנִים — סְפֵקוֹ טָמֵא, מִן הִלּוּל וְלַחוּץ — סְפֵקוֹ טָהוֹר.
+>
+> **Translation:** They continued: If blood is **found from** the opening of this **vestibule and inward** toward the uterus, i.e., inside the vagina, there is uncertainty whether it came from the uterus and is impure, or from the bladder and is pure, but **its** state of **uncertainty** renders it definitely **impure.** If it is found in the area **from the** opening of this **vestibule and outward,** on the outer surface of the vulva, the blood is more likely to have come from the bladder, through the urethra, and therefore **its** state of **uncertainty** renders it **pure.**
+
+The halachic consequences of this layout: *nimtza min halul v'lifnim sefeiko tamei* — if blood is found from the *lul* inward (toward the inner chamber), the doubt resolves as *tamei*. *Min halul v'lachutz, sefeiko tahor* — if found from the *lul* outward toward the outside of the body, the doubt resolves as *tahor*.
+
+This raises an obvious question: if blood exits the body only through the *prozdor*, then even blood found outside should presumptively come from the *makor* and be *tamei*. Why does blood found beyond the *lul* resolve as *tahor*? The answer must involve the possibility that such blood descended from the *aliya* through the *lul* into the *prozdor* and then outward — and since the *aliya*'s blood is *tahor*, blood found in the outer region cannot be presumed to have come from the uterus with sufficient certainty to rule it *tamei*. A fuller resolution of this question — and further clarification of what exactly the *aliya* corresponds to anatomically — will be taken up in the continuation of this *sugya* on the following daf.

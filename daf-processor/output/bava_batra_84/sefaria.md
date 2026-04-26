@@ -1,0 +1,94 @@
+### Bava Batra 84a
+
+**1.**
+*Hebrew/Aramaic:* דְּאָמַר לֵיהּ: אִילּוּ לָא אוֹנִיתַן – לָא הֲוָה מָצֵית הָדְרַתְּ בָּךְ; הַשְׁתָּא דְּאוֹנִיתָן, מָצֵית הָדְרַתְּ בָּךְ?! וְתַנָּא תּוּנָא: יָפוֹת וְנִמְצְאוּ רָעוֹת – לוֹקֵחַ יָכוֹל לַחֲזוֹר בּוֹ, וְלֹא מוֹכֵר.
+*Translation:* the buyer can **say to** the seller: **If you had not exploited me, you would not be able to renege on** the sale, and I would receive the profit. **Now that you have exploited me, can you renege on** the sale and benefit? **And** similarly, **the *tanna*** of the mishna also **taught:** If the seller sold him wheat while claiming that the wheat was **good, and it is found** to be **bad, the buyer can renege on** the sale. This implies that the buyer can renege **but not the seller,** even in a situation where the seller would want to renege on the sale, e.g., if the item became more expensive.
+
+**2.**
+*Hebrew/Aramaic:* וְאָמַר רַב חִסְדָּא: מָכַר לוֹ שָׁוֶה שֵׁשׁ – בְּחָמֵשׁ, וְהוּזְלוּ וְעָמְדוּ עַל שָׁלֹשׁ, מִי נִתְאַנָּה? מוֹכֵר. מוֹכֵר יָכוֹל לַחֲזוֹר בּוֹ, וְלֹא לוֹקֵחַ; דְּאָמַר לֵיהּ: אִילּוּ לָא אוֹנִיתַן – לָא הֲוָה מָצֵית הָדְרַתְּ בָּךְ; הַשְׁתָּא מָצֵית הָדְרַתְּ בָּךְ?! וְתַנָּא תּוּנָא: רָעוֹת וְנִמְצְאוּ יָפוֹת – מוֹכֵר יָכוֹל לַחֲזוֹר בּוֹ, וְלֹא לוֹקֵחַ.
+*Translation:* **And** similarly, **Rav Ḥisda says:** If he **sold him** an item that was **worth six** dinars **for five** dinars, **and its price was reduced and** its value now **stood at three** dinars, **who was exploited** in this case? **The seller;** therefore, **the seller, but not the buyer, can renege on** the sale. The reason is **that** the seller **can say to him: If you had not exploited me, you would not be able to renege on** the sale. **Now** that you have exploited me, **can you renege on** the sale? **And** similarly, **the *tanna*** of the mishna also **taught:** If the seller sold him **bad** wheat **and it is found** to be **good, the seller can renege on** the sale, **but not the buyer.**
+
+**3.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? מַתְנִיתִין הִיא! אִי מִמַּתְנִיתִין, הֲוָה אָמֵינָא: דִּלְמָא דְּרַב חִסְדָּא – תַּרְוַיְיהוּ מָצוּ הָדְרִי בְּהוּ, וּמַתְנִיתִין הָא אֲתָא לְאַשְׁמוֹעִינַן – דְּלוֹקֵחַ יָכוֹל לַחֲזוֹר בּוֹ.
+*Translation:* The Gemara asks: **What is** Rav Ḥisda **teaching us? It is** all already taught in **the mishna.** The Gemara answers: **If** the *halakha* were derived **from the mishna** alone, **I would say** that **perhaps** in the cases brought **by Rav Ḥisda, both** the buyer and the seller **are able to renege on** the sale. The reason is that this is a case of exploitation, as the item was sold for more than its value, and therefore as long the buyer can renege on the sale, the sale is not complete. Consequently, as the seller lost out as well, he can also renege on the sale. **And** as for **the mishna,** it **comes to teach us that** if the seller said that he is selling good wheat and it is found to be bad, **the buyer can renege on** the sale, as this is considered a case of exploitation.
+
+**4.**
+*Hebrew/Aramaic:* דְּסָלְקָא דַּעְתָּךְ אָמֵינָא, מִשּׁוּם דִּכְתִיב: ״רַע רַע יֹאמַר הַקּוֹנֶה״.
+*Translation:* It is necessary to teach this, **as** it might **enter your mind to say** that this is not a case of exploitation **because it is written: “It is bad, it is bad, says the buyer;** but when he is gone his way, then he boasts” (Proverbs 20:14). In other words, it is the usual manner of sellers to praise their merchandise, while buyers disparage it. Therefore, the mishna teaches that the buyer can renege on the sale if the item was found to be bad, and the seller can change his mind if it was found to be good.
+
+**5.**
+*Hebrew/Aramaic:* שְׁחַמְתִּית וְנִמְצֵאת לְבָנָה כּוּ׳. אָמַר רַב פָּפָּא: מִדְּקָתָנֵי ״לְבָנָה״, שְׁמַע מִינַּהּ הַאי שִׁמְשָׁא סוּמַּקְתִּי הִיא. תֵּדַע, דְּקָא סָמְקָא צַפְרָא וּפַנְיָא. וְהַאי דְּלָא קָא חָזֵינַן כּוּלֵּיהּ יוֹמָא – נְהוֹרִין הוּא דְּלָא בָּרִי.
+*Translation:* § The mishna teaches that if the seller said that he was selling **reddish-brown [*sheḥamtit*]** wheat **and it is found** to be **white,** both the seller and the buyer can renege on the sale. The Gemara assumes that *sheḥamtit* means the color of the sun [*ḥama*]. Therefore, **Rav Pappa said: From** the fact **that** the mishna **teaches: White,** in contrast to *sheḥamtit*, and there are two types of wheat, one white and the other red, **conclude from** the mishna that **this sun is red,** not white. **Know** that this is the case, **as it reddens in** the **morning and evening. And** the reason **that we do not see** the red color **all day** is because **our eyesight is not strong** and we cannot discern the redness of the sun.
+
+**6.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״וּמַרְאֵהוּ עָמֹק מִן הָעוֹר״ – כְּמַרְאֵה חַמָּה עֲמוּקָּה מִן הַצֵּל. וְהָתָם לָבָן הוּא! כְּמַרְאֵה חַמָּה – וְלֹא כְּמַרְאֵה חַמָּה; כְּמַרְאֵה חַמָּה – דַּעֲמוּקָּה מִן הַצֵּל, וְלֹא כְּמַרְאֵה חַמָּה – דְּאִילּוּ הָתָם לָבָן, וְהָכָא אָדוֹם.
+*Translation:* The Gemara **raises an objection** to this claim: With regard to a verse that speaks of leprosy: **“And, behold, if its appearance is deeper than the skin”** (Leviticus 13:30), the Sages explain: This means that it is **like the appearance of the sun,** which is **deeper than the shadow. But there,** leprosy **is white** and yet it is likened to the sun. The Gemara answers: There, it means that it **has an appearance like the sun** in certain respects, **but** it is **not like the appearance of the sun** in all respects. It is **like the appearance of the sun** in **that** it is **deeper than the shadow, and** it is **not** entirely **like the appearance of the sun, as there** the leprous spot is **white, and here** the sun is **red.**
+
+**7.**
+*Hebrew/Aramaic:* וּלְמַאי דִּסְלֵיק דַּעְתִּין מֵעִיקָּרָא – הָא קָא סָמְקָא צַפְרָא וּפַנְיָא! בְּצַפְרָא – דְּחָלְפָא אַבֵּי וַורְדֵי דְּגַן עֵדֶן, בְּפַנְיָא – דְּחָלְפָא אַפִּתְחָא דְגֵיהִנָּם. וְאִיכָּא דְּאָמְרִי אִיפְּכָא.
+*Translation:* The Gemara asks: **And according to that which entered our mind initially,** that the sun is white, doesn’t **it redden in** the **morning and evening?** The Gemara answers: **In the morning** it becomes red **as it passes over the site of** the **roses of the Garden of Eden,** whose reflections give the light a red hue. **In the evening** the sun turns red **because** it **passes over the entrance of Gehenna,** whose fires redden the light. **And there are** those **who say the opposite** in explaining why the sun is red in the morning and the evening, i.e., in the morning it passes over the entrance of Gehenna, while in the evening it passes over the site of the roses of the Garden of Eden.
+
+**8.**
+*Hebrew/Aramaic:* יַיִן וְנִמְצָא חוֹמֶץ – שְׁנֵיהֶן יְכוֹלִין לַחֲזוֹר בָּהֶן. לֵימָא מַתְנִיתִין רַבִּי הִיא וְלָא רַבָּנַן? דְּתַנְיָא:
+*Translation:* § The mishna teaches: If the seller sold **wine and it is found** to be **vinegar, both** the seller and the buyer **can renege on** the sale. The Gemara suggests: **Shall we say** that **the mishna is** in accordance with the opinion of **Rabbi** Yehuda HaNasi **and not** in accordance with the opinion of **the Rabbis? As it is taught** in a *baraita*:
+
+
+---
+
+### Bava Batra 84b
+
+**1.**
+*Hebrew/Aramaic:* יַיִן וָחוֹמֶץ – מִין אֶחָד הוּא. רַבִּי אוֹמֵר: שְׁנֵי מִינִין. אֲפִילּוּ תֵּימָא רַבָּנַן – עַד כָּאן לָא פְּלִיגִי רַבָּנַן עֲלֵיהּ דְּרַבִּי אֶלָּא לְעִנְיַן מַעֲשֵׂר וּתְרוּמָה, וְכִדְרַבִּי אִלָּעָא –
+*Translation:* **Wine and vinegar are one type** of food, which means that if, for example, one separated *teruma* from one of these with the intention that it should exempt the other, his action is effective. **Rabbi** Yehuda HaNasi **says:** They are **two types** of food. Apparently, the mishna is not in accordance with the opinion of the Rabbis in the *baraita*. The Gemara rejects this claim: **You** may **even say** that the mishna is in accordance with the opinion of **the Rabbis,** as **the Rabbis disagree with Rabbi** Yehuda HaNasi **only with regard to** the issue of whether one can separate **tithe and *teruma*** from wine to redeem vinegar and vice versa. **And** the Rabbis hold **in accordance with** the opinion **of Rabbi Ela.**
+
+**2.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי אִלְעָא: מִנַּיִן לַתּוֹרֵם מִן הָרָעָה עַל הַיָּפָה, שֶׁתְּרוּמָתוֹ תְּרוּמָה? שֶׁנֶּאֱמַר: ״וְלֹא תִשְׂאוּ עָלָיו חֵטְא בַּהֲרִימְכֶם אֶת חֶלְבּוֹ מִמֶּנּוּ״.
+*Translation:* **As Rabbi Ela says: From where** is it derived **with regard to** one who **separates *teruma* from poor**-**quality** produce **for superior**-**quality** produce, i.e., in order to fulfill the obligation of separating *teruma* from the high-quality produce, **that his *teruma*** is valid ***teruma*? As it is stated: “And you shall bear no sin by reason of it, seeing as you have set apart from it its best”** (Numbers 18:32).
+
+**3.**
+*Hebrew/Aramaic:* אִם אֵינוֹ קָדוֹשׁ, נְשִׂיאוּת חֵטְא לָמָּה? מִכָּאן לַתּוֹרֵם מִן הָרָעָה עַל הַיָּפָה, שֶׁתְּרוּמָתוֹ תְּרוּמָה.
+*Translation:* The verse is understood as indicating that one who sets aside inferior produce has sinned. It also demonstrates that if one did, in fact, set aside *teruma* from poor-quality produce in order to render permitted superior-quality produce, his action is effective and the inferior produce is sanctified as *teruma*. The reason is that **if** the inferior produce **is not consecrated, why** would one **bear a sin?** It should be considered as though he did nothing. **From here** it is derived **with regard to** one who **separates *teruma* from poor**-**quality** produce **for superior**-**quality** produce **that his *teruma*** is valid ***teruma*.** The Rabbis agree and hold that in the case of one who separates vinegar in order to redeem wine, his *teruma* is valid despite the difference in quality, as wine and vinegar are considered a single type of food.
+
+**4.**
+*Hebrew/Aramaic:* אֲבָל לְעִנְיַן מִקָּח וּמִמְכָּר – דְּכוּלֵּי עָלְמָא אִיכָּא דְּנִיחָא לֵיהּ בְּחַמְרָא וְלָא נִיחָא לֵיהּ בְּחַלָּא, וְאִיכָּא דְּנִיחָא לֵיהּ בְּחַלָּא וְלָא נִיחָא לֵיהּ בְּחַמְרָא.
+*Translation:* **But with regard to buying and selling, everyone,** including the Rabbis, agrees that wine and vinegar are two types of food, as they have different uses. **There are** those **for whom wine is preferable and vinegar is not preferable, and there are** those **for whom vinegar is preferable and wine is not preferable.**
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמּוֹכֵר פֵּירוֹת לַחֲבֵירוֹ, מָשַׁךְ וְלֹא מָדַד – קָנָה. מָדַד וְלֹא מָשַׁךְ – לֹא קָנָה. אִם הָיָה פִּיקֵּחַ – שׂוֹכֵר אֶת מְקוֹמָן.
+*Translation:* MISHNA: This mishna discusses several methods of acquiring movable property. With regard to **one who sells produce to another,** if the buyer **pulled** the produce **but did not measure** it, **he has acquired** the produce through the act of acquisition of pulling. If **he measured** the produce **but did not pull** it, **he has not acquired** it, and either the seller or the buyer can decide to rescind the sale. **If** the buyer **is perspicacious** and wants to acquire the produce without having to pull it, and he wishes to do so before the seller could change his mind and decide not to sell, **he rents its place,** where the produce is located, and his property immediately effects acquisition of the produce on his behalf.
+
+**6.**
+*Hebrew/Aramaic:* הַלּוֹקֵחַ פִּשְׁתָּן מֵחֲבֵירוֹ – הֲרֵי זֶה לֹא קָנָה, עַד שֶׁיְּטַלְטְלֶנּוּ מִמָּקוֹם לְמָקוֹם. וְאִם הָיָה מְחוּבָּר לַקַּרְקַע, וְתָלַשׁ כׇּל שֶׁהוּא – קָנָה.
+*Translation:* With regard to **one who buys flax from another,** because flax is usually carried around **this** purchaser **has not acquired** it **until he carries it from place to place** and acquires it by means of the act of acquisition of lifting. Pulling the flax is ineffective. **And if it was attached to the ground, and he detached any amount,** he has **acquired** it, as the Gemara will explain.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: מָדַד וְהִנִּיחַ עַל גַּבֵּי סִימְטָא, קָנָה.
+*Translation:* GEMARA: The mishna mentions several modes of acquisition without elaboration. It does not explain in which domain the act takes place, whether on the property of the seller or in the public domain. Likewise, it does not specify who performs these actions. The Gemara clarifies these details. **Rabbi Asi says** that **Rabbi Yoḥanan says:** If the seller **measured** the produce **and placed** it **in an alleyway,** which is not the public domain but a location where people can keep their belongings, then even if the buyer did not pull the produce, he **acquires** it.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי זֵירָא לְרַבִּי אַסִּי: שֶׁמָּא לֹא שָׁמַע רַבִּי אֶלָּא בְּמוֹדֵד לְתוֹךְ קוּפָּתוֹ? אֲמַר לֵיהּ: דָּמֵי הַאי מֵרַבָּנַן כִּדְלָא גָּמְרִי אִינָשֵׁי שְׁמַעְתָּא. מָדַד לְתוֹךְ קוּפָּתוֹ – מֵימְרָא בָּעֵי?!
+*Translation:* **Rabbi Zeira said to Rabbi Asi: Perhaps my teacher heard** this *halakha* from Rabbi Yoḥanan **only with regard to one who measures into his basket,** i.e., that of the buyer, in which case his possessions effect acquisition of the produce for him. But if the produce is placed on the floor of the alleyway, the buyer does not acquire the produce. Rabbi Asi **said to him: This one of the Sages,** i.e., Rabbi Zeira, **seems like one who has not studied *halakha*.** If he **measured** it **into the basket** of the buyer, is it **necessary to say** that he acquires it? If an item is placed in the buyer’s basket it is clearly acquired by him, regardless of the location of the basket. Rather, Rabbi Yoḥanan’s statement with regard to an alleyway must be referring to items placed on the floor of the alleyway.
+
+**9.**
+*Hebrew/Aramaic:* קַיבְּלַהּ מִינֵּיהּ, אוֹ לָא קַיבְּלַהּ מִינֵּיהּ? תָּא שְׁמַע, דְּאָמַר רַבִּי יַנַּאי אָמַר רַבִּי: חֲצַר הַשּׁוּתָּפִין – קוֹנִין זֶה מִזֶּה. מַאי, לָאו עַל גַּבֵּי קַרְקַע? לֹא, לְתוֹךְ קוּפָּתוֹ.
+*Translation:* The Gemara asks: Did Rabbi Zeira **accept** this claim **from** Rabbi Asi, **or** did **he not accept** it **from him?** The Gemara suggests: **Come** and **hear** a proof, **as Rabbi Yannai says** that **Rabbi** Yehuda HaNasi **says:** With regard to **a courtyard belonging to partners,** which is similar in status to an alleyway, the partners **acquire from one another. What, is it not** correct to say that there is no difference between placing items on the ground and in their basket, as a partner acquires an item even when it is placed **upon the ground,** in accordance with the statement of Rabbi Asi? The Gemara rejects this suggestion: **No,** this is referring to a case where the item is measured **into the basket** of the buyer.
+
+**10.**
+*Hebrew/Aramaic:* הָכִי נָמֵי מִסְתַּבְּרָא, דְּאָמַר רַבִּי יַעֲקֹב אָמַר רַבִּי יוֹחָנָן: מָדַד וְהִנִּיחַ עַל גַּבֵּי סִימְטָא – לֹא קָנָה. קַשְׁיָין אַהֲדָדֵי! אֶלָּא לָאו שְׁמַע מִינַּהּ כָּאן בְּמוֹדֵד לְתוֹךְ קוּפָּתוֹ, כָּאן בְּמוֹדֵד עַל גַּבֵּי קַרְקַע? שְׁמַע מִינַּהּ.
+*Translation:* The Gemara points out: **So, too,** Rabbi Zeira’s statement **is reasonable, as Rabbi Ya’akov says** that **Rabbi Yoḥanan says:** If one **measured and placed** an item **in an alleyway,** the buyer **has not acquired** it. Apparently, these two *halakhot* cited in the name of Rabbi Yoḥanan **are difficult,** as they contradict **each other,** since earlier it was stated that according to Rabbi Yoḥanan the buyer can acquire an item in this manner. **Rather, isn’t it** correct to **conclude from** this apparent contradiction that **here,** i.e., in the statement cited by Rabbi Asi, he is referring **to one who measures into the basket** of the buyer, which effects acquisition; and **there,** i.e., in the statement of Rabbi Yaakov, he is referring **to one who measures onto the ground,** which does not effect acquisition. The Gemara affirms: **Learn from it** that this is the case.
+
+**11.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מָדַד וְלֹא מָשַׁךְ – לֹא קָנָה. מַאי, לָאו בְּסִימְטָא? לֹא, בִּרְשׁוּת הָרַבִּים. אִי הָכִי, אֵימָא רֵישָׁא: מָשַׁךְ וְלֹא מָדַד – קָנָה. מְשִׁיכָה בִּרְשׁוּת הָרַבִּים מִי קָנְיָא?!
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from the mishna: If **he measured** the produce **but did not pull** it, **he does not acquire** it. **What, is it not** referring to one who did so **in an alleyway,** which indicates that placing produce on the ground of an alleyway does not effect acquisition, in accordance with the statement of Rabbi Zeira? The Gemara rejects this proof: **No,** the mishna is referring to one who did so **in the public domain.** The Gemara asks: **If that is so, say the first clause:** If the buyer **pulled** the produce **but did not measure** it, **he has acquired** the produce. But **does pulling in the public domain effect acquisition?**
+
+**12.**
+*Hebrew/Aramaic:* וְהָא אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַיְיהוּ: מְסִירָה קוֹנָה בִּרְשׁוּת הָרַבִּים וּבְחָצֵר שֶׁאֵינָהּ שֶׁל שְׁנֵיהֶן; מְשִׁיכָה קוֹנָה בְּסִימְטָא וּבְחָצֵר שֶׁהִיא שֶׁל שְׁנֵיהֶן; וְהַגְבָּהָה קוֹנָה בְּכׇל מָקוֹם!
+*Translation:* **But don’t Abaye and Rava both say** that **passing effects acquisition in the public domain and in a courtyard that** does **not belong to either of them; pulling effects acquisition** only **in an alleyway or in a courtyard that belongs to both of them,** but not in the public domain; **and lifting effects acquisition in every place,** even in the seller’s domain? This demonstrates that pulling in the public domain does not effect acquisition.
+
+**13.**
+*Hebrew/Aramaic:* מַאי ״מָשַׁךְ״ נָמֵי דְּקָתָנֵי – מֵרְשׁוּת הָרַבִּים לְסִימְטָא. אִי הָכִי, אֵימָא סֵיפָא: אִם הָיָה פִּיקֵּחַ – שׂוֹכֵר אֶת מְקוֹמָן. וְאִי בִּרְשׁוּת הָרַבִּים, מִמַּאן אָגַר? הָכִי קָאָמַר: וְאִם בִּרְשׁוּת בְּעָלִים הִיא, אִם הָיָה פִּיקֵּחַ – שׂוֹכֵר אֶת מְקוֹמָן.
+*Translation:* The Gemara answers: **What** is the meaning of the phrase: If **he pulled** it, **that is taught** in the mishna? It means that he pulled it **from the public domain into an alleyway.** The Gemara asks: **If that is so, say the latter clause: If** the buyer **is perspicacious he rents its place,** i.e., where the produce is located. The Gemara explains the difficulty: **But if** the mishna is referring to a spot **in the public domain, from whom can he rent** the place where the produce is located? The Gemara answers: The latter clause is referring to a separate *halakha*, and **this** is what the mishna **is saying: And if** the produce is **in a domain** that has **an owner, if he is perspicacious he rents the place** where the produce is located from the owner.
+
+**14.**
+*Hebrew/Aramaic:* רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ:
+*Translation:* § The Gemara continues to discuss the manner in which an acquisition takes place. **Rav and Shmuel both say:**

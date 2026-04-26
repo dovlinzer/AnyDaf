@@ -1,0 +1,61 @@
+### Yoma 26a
+
+**1.**
+*Hebrew/Aramaic:* לְמַאי אֲתָא? לְכִדְתַנְיָא: כֵּיצַד הָיָה עוֹשֶׂה? נוֹתֵן אֶת הַפֶּדֶר אַבֵּית הַשְּׁחִיטָה וּמַעֲלֵהוּ, וְזֶה הוּא דֶּרֶךְ כָּבוֹד שֶׁל מַעְלָה.
+*Translation:* **what does** that **come** to teach us? The Gemara explains: **As it was taught** in a *baraita*: **In what manner would** the priest placing the pieces on the altar **do** so? **He** would **place the fat** right **over the place of slaughter,** that is, on the cut neck, **and bring it up** that way, **and that is the** most **respectful way toward the Most High,** that the bloody point of slaughter not be exposed.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַפַּיִיס הַשְּׁלִישִׁי: חֲדָשִׁים לִקְטֹרֶת בֹּאוּ וְהָפִיסוּ. וְהָרְבִיעִי: חֲדָשִׁים עִם יְשָׁנִים — מִי מַעֲלֶה אֵבָרִים מִן הַכֶּבֶשׁ לַמִּזְבֵּחַ.
+*Translation:* MISHNA: Before **the third lottery,** the appointee declared: Let only those priests who are **new to** offering **the incense** come and **participate in the lottery** for the incense. **The fourth** lottery was open to those **new** to the service along **with** those **old** hands who had already performed it, to determine **who** would **take the limbs up from the ramp,** where they had been placed earlier, **to the altar.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנָא: מֵעוֹלָם לֹא שָׁנָה אָדָם בָּהּ. מַאי טַעְמָא? אָמַר רַבִּי חֲנִינָא: מִפְּנֵי שֶׁמַּעֲשֶׁרֶת.
+*Translation:* GEMARA: A Sage **taught** in the *Tosefta*: **No person ever performed** the service of the incense **twice,** as a new priest was always found for this service. The Gemara asks: **What is the reason** that they were insistent that no priest should be assigned this task more than once in his life? **Rabbi Ḥanina said:** It is **because it brings wealth** to the one who performs it. Since bringing the incense was a blessing for wealth, it was decided that as many different priests as possible should have an opportunity to do this service.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: מַאי טַעְמָא? אִילֵּימָא מִשּׁוּם דִּכְתִיב: ״יָשִׂימוּ קְטוֹרָה בְּאַפֶּךָ״, וּכְתִיב בָּתְרֵיהּ: ״בָּרֵךְ ה׳ חֵילוֹ״, אִי הָכִי עוֹלָה נָמֵי, הָכְתִיב: ״וְכָלִיל עַל מִזְבְּחֶךָ״!
+*Translation:* **Rav Pappa said to Abaye: What is the reason** for this assertion that the one who burns the incense becomes wealthy? **If we say it is because it is written: “They shall put incense before You** and whole burnt-offerings on Your altar” (Deuteronomy 33:10), **and it is written** immediately **after that: “Bless, O Lord, his substance”** (Deuteronomy 33:11), **if so,** we should **also** make the same assertion concerning those who perform the sacrifice of **a burnt-offering, since it is written** in that same verse: **“And whole burnt-offerings on Your altar.”**
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָא שְׁכִיחָא וְהָא לָא שְׁכִיחָא.
+*Translation:* Abaye **said to him:** There is a difference between the two: **This,** the sacrifice of a burnt-offering, **is frequent, and that,** the burning of incense, **is infrequent.** There were many burnt-offerings, both obligatory and voluntary, brought during the course of a day, whereas the incense was burned only twice a day. It is logical to assume that the blessing of riches was not extended to the many priests who participated in the burnt-offerings, but to the few priests who performed the burning of the incense.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רָבָא: לָא מַשְׁכַּחַתְּ צוּרְבָּא מֵרַבָּנַן דְּמוֹרֵי אֶלָּא דְּאָתֵי מִשֵּׁבֶט לֵוִי אוֹ מִשֵּׁבֶט יִשָּׂשכָר. לֵוִי, דִּכְתִיב: ״יוֹרוּ מִשְׁפָּטֶיךָ לְיַעֲקֹב״. יִשָּׂשכָר, דִּכְתִיב: ״(וּבְנֵי) יִשָּׂשכָר יוֹדְעֵי בִינָה לַעִתִּים לָדַעַת מַה יַּעֲשֶׂה יִשְׂרָאֵל״. וְאֵימָא יְהוּדָה נָמֵי, דִּכְתִיב: ״יְהוּדָה מְחוֹקְקִי״! אַסּוֹקֵי שְׁמַעְתָּא אַלִּיבָּא דְהִילְכְתָא קָאָמֵינָא.
+*Translation:* Apropos this passage in Deuteronomy, **Rava said: You do not find a young Torah scholar who gives** halakhic **instruction unless he comes from the tribe of Levi or from the tribe of Issachar.** The assertion with regard to the tribe of **Levi** is **as it is written: “They shall teach Jacob Your ordinances** and Israel Your law” (Deuteronomy 33:10). And the assertion with regard to the tribe of **Issachar** is **as it is written: “And of the children of Issachar, men that had understanding of the times, to know what Israel should do”** (I Chronicles 12:33). The Gemara asks: **And say** that scholars come from the tribe of **Judah also, as it is written: “Judah is my lawgiver”** (Psalms 60:9). Rava answers: While it is true that the tribe of Judah also taught Torah, in my statement **I was speaking** only **of those who** can **draw conclusions according to the *halakha*.** Although Judah produces great scholars, men capable of translating abstract analysis of the Torah into legal principles come from the two tribes mentioned.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: אֵין מְפַיְּיסִין עַל תָּמִיד שֶׁל בֵּין הָעַרְבָּיִם, אֶלָּא כֹּהֵן שֶׁזָּכָה בּוֹ בְּשַׁחֲרִית זוֹכֶה בּוֹ עַרְבִית, מֵיתִיבִי: כְּשֵׁם שֶׁמְּפַיְּיסִין שַׁחֲרִית כָּךְ מְפַיְּיסִין בֵּין הָעַרְבַּיִם! כִּי תַּנְיָא הָהִיא — בִּקְטוֹרֶת.
+*Translation:* § **Rabbi Yoḥanan said: They did not hold** a separate **lottery** for the slaughtering and sacrifice of the **daily afternoon offering. Rather,** the same **priest who won** a particular privilege for **the morning** offering **wins** the privilege for the corresponding task in the **evening,** i.e., for the **afternoon** service. In this way, the morning lottery covered both services. The Gemara **raises an objection** from a *baraita*: **Just as they hold a lottery in the morning, so too, they hold a lottery in the afternoon.** This shows that there was a separate lottery for the daily afternoon offering. The Gemara answers: **When that** *baraita* **was taught,** it referred only **to the incense,** which, as stated above, was given to a different priest each time it was offered.
+
+**8.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: כְּשֵׁם שֶׁמְּפַיְּיסִין לוֹ שַׁחֲרִית כָּךְ מְפַיְּיסִין לוֹ עַרְבִית! אֵימָא ״לָהּ״.
+*Translation:* The Gemara asks: **But wasn’t it taught** in a *baraita*: **Just as they hold a lottery for it [*lo*] in the morning, so too, they hold a lottery for it [*lo*] in the afternoon.** The masculine pronoun *lo* indicates that it is not referring to the incense, which is a feminine noun in Hebrew, but to the daily afternoon offering, which is described by a masculine noun. The Gemara answers: Change the wording of the *baraita* and **say: *Lah*,** using the feminine pronoun instead of the masculine *lo*, so that it is indeed referring to the incense.
+
+**9.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: כְּשֵׁם שֶׁמְּפַיְּיסִין לוֹ שַׁחֲרִית כָּךְ מְפַיְּיסִין לוֹ עַרְבִית, וּכְשֵׁם שֶׁמְּפַיְּיסִין לָהּ שַׁחֲרִית כָּךְ מְפַיְּיסִין לָהּ עַרְבִית!
+*Translation:* The Gemara asks further: **But wasn’t it taught** in another *baraita*: **Just as they hold a lottery for it [*lo*] the morning, so too, they hold a lottery for it [*lo*] in the afternoon; and just as they hold a lottery for it [*lah*] in the morning, so too, they hold a lottery for it [*lah*] in the afternoon.** This *baraita* makes the statement twice, once using the masculine pronoun and once using the feminine pronoun, which shows that there was a separate lottery in the afternoon not only for the incense but also for the daily offering.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב שְׁמוּאֵל בַּר רַב יִצְחָק: הָכָא בְּשַׁבָּת עָסְקִינַן, הוֹאִיל וּמִשְׁמָרוֹת מִתְחַדְּשׁוֹת.
+*Translation:* **Rav Shmuel bar Rav Yitzḥak said:** There is no contradiction. **Here,** in this last *baraita*, **we are dealing with Shabbat,** when a second lottery in the afternoon was necessary, **since the priestly rotations are renewed** each Shabbat. On Shabbat the outgoing watch of priests performs the morning service, and the incoming watch performs the afternoon service. Therefore, the same priest could not perform the service of both the morning and afternoon offerings, necessitating a second lottery on that day to designate priests for the various afternoon tasks.
+
+**11.**
+*Hebrew/Aramaic:* וּלְמַאי דִּסְלֵיק אַדַּעְתִּין מֵעִיקָּרָא, נְפִישִׁי לְהוּ פְּיָיסוֹת! מַיְיתֵי כּוּלְּהוּ מִצַּפְרָא אָתוּ, דְּזָכֵי בֵּיהּ שַׁחֲרִית — זָכֵי, דְּזָכֵי בְּעַרְבִית — זָכֵי.
+*Translation:* The Gemara asks: **And** according **to what we thought initially,** that there was a separate lottery each day for the daily afternoon offering, **there would be** too **many lotteries,** as the mishna states that there were just four lotteries daily. How was it conceivable even to consider such a possibility? The Gemara answers: The thought was that **all** the priests **would come** and assemble just once, **in the morning,** for both lotteries, and the priest **who would win** the lottery for sacrificing **the** daily **morning** offering **would win** that privilege for the morning only, and the priest **who would win** the lottery for sacrificing **the** daily **afternoon** offering **would win** the privilege for the afternoon.
+
+**12.**
+*Hebrew/Aramaic:* הָרְבִיעִי חֲדָשִׁים עִם יְשָׁנִים וְכוּ׳. מַתְנִיתִין דְּלָא כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב. דִּתְנַן, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: הַמַּעֲלֶה אֵיבָרִים לַכֶּבֶשׁ, הוּא מַעֲלֶה אוֹתָן לַמִּזְבֵּחַ.
+*Translation:* § The mishna states: **The fourth** lottery was open to those **new** to the service along **with** those **old** hands who had already performed it, to determine who would take the limbs up from the ramp to the altar. The Gemara states: **The mishna is not in accordance with** the opinion of **Rabbi Eliezer ben Ya’akov. As we learned** in a mishna in tractate *Tamid* that **Rabbi Eliezer ben Ya’akov says:** The priest **who takes the limbs up to the ramp is the one who takes them up** from the ramp **to the altar.** In contrast, according to the mishna discussed here, it is implied that a different priest won the privilege for the latter service in the lottery.
+
+**13.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? מָר סָבַר: ״בְּרׇב עָם הַדְרַת מֶלֶךְ״, וּמָר סָבַר: מְקוֹם שְׁכִינָה לָאו אוֹרַח אַרְעָא.
+*Translation:* The Gemara asks: **With regard to what do they disagree? One Sage,** the *tanna* of the mishna discussed here, **holds** that it is proper to follow the verse: **“In the multitude of people is the king’s glory”** (Proverbs 14:28). It is a glorification of God for many priests to participate in the service, so different priests were assigned the task of taking the limbs to the ramp, and others were tasked with carrying them up the ramp to the altar. **And one Sage,** Rabbi Eliezer ben Ya’akov, **holds** that it is **not proper conduct** in **the place of the Divine Presence** to have two sets of priests for these tasks, as it gives the appearance that the first set does not want to be bothered to take the limbs up to the altar.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רָבָא: לָא רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אִית לֵיהּ דְּרַבִּי יְהוּדָה, וְלָא רַבִּי יְהוּדָה אִית לֵיהּ דְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב. דְּאִם כֵּן, בָּצְרוּ לְהוּ פְּיָיסוֹת.
+*Translation:* **Rava said: Rabbi Eliezer ben Ya’akov,** who holds that the same priest who brought the limbs to the ramp also brought them up to the altar, **is not of** the same opinion as **Rabbi Yehuda,** who holds that there is no separate lottery for the privilege of carrying the coal pan for the incense. **And** conversely, **Rabbi Yehuda is not of** the same opinion as **Rabbi Eliezer ben Ya’akov.** As, **if it would be so** that these two Sages agreed with each other, **there would be too few lotteries;** there would be only three lotteries rather than four. Rather, one must say that according to Rabbi Eliezer ben Ya’akov, who maintains that there was no lottery held for taking the limbs up to the altar, there was a fourth lottery to determine who would carry the coal pan; and according to Rabbi Yehuda, who maintains that there was no lottery for carrying the coal pan, there must have been a lottery for carrying the limbs up to the ramp.
+
+**15.**
+*Hebrew/Aramaic:* וְאִי מַשְׁכַּחַתְּ תַּנָּא דְּתָנֵי חָמֵשׁ —
+*Translation:* **And if you find a *tanna*** in a *baraita* **who teaches** that there were **five** lotteries for the Temple service,

@@ -1,0 +1,49 @@
+### Bava Metzia 63a
+
+**1.**
+*Hebrew/Aramaic:* דִּמְתָרַצְנָא מַתְנִיתִין כְּווֹתֵיהּ.
+*Translation:* **as I resolve the mishna in accordance with his** opinion, expressed in the *baraitot* he edited.
+
+**2.**
+*Hebrew/Aramaic:* דְּתָנֵי רַבִּי אוֹשַׁעְיָא: הֲרֵי שֶׁהָיָה נוֹשֶׁה בַּחֲבֵירוֹ מָנֶה, וְהָלַךְ וְעָמַד עַל גּוֹרְנוֹ וְאָמַר: תֵּן לִי מְעוֹתַי, שֶׁאֲנִי רוֹצֶה לִיקַּח בָּהֶן חִטִּין. וְאָמַר לוֹ: חִטִּין יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לְךָ, צֵא וַעֲשָׂאֵן עָלַי כְּשַׁעַר שֶׁל עַכְשָׁיו. הִגִּיעַ זְמַן חִטִּין לִמְכּוֹר, אָמַר לוֹ: תֵּן לִי חִטִּין, שֶׁאֲנִי רוֹצֶה לְמוֹכְרָן וְלִיקַּח בָּהֶן יַיִן. אָמַר לוֹ: יֵשׁ לִי יַיִן שֶׁאֲנִי נוֹתֵן לְךָ, צֵא וַעֲשָׂאֵן עָלַי כְּשַׁעַר שֶׁל עַכְשָׁיו.
+*Translation:* Rava explains: **As Rabbi Oshaya teaches** in a *baraita*: One **was owed one hundred dinars by another, and he went and stood by** the other’s **granary and said: Give me my money, as I wish to buy wheat with it, and** the other **said to him: I have wheat** in my granary **that I will give you; go and calculate for me** the amount to which you are entitled **at the current** market **rate.** When **the time to sell wheat arrived,** the lender **said to him: Give me wheat, as I want to sell it and acquire wine with** the money received for **it.** The borrower **said to him: I have wine that I will give you; go and calculate for me** the amount of wine to which you are entitled **at the current** market **rate.**
+
+**3.**
+*Hebrew/Aramaic:* הִגִּיעַ זְמַן יַיִן לִמְכּוֹר, וְאָמַר לוֹ: תֵּן לִי יֵינִי שֶׁאֲנִי רוֹצֶה לְמוֹכְרוֹ וְלִיקַּח בּוֹ שֶׁמֶן. אָמַר לוֹ: שֶׁמֶן יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לְךָ, צֵא וַעֲשֵׂהוּ עָלַי כְּשַׁעַר שֶׁל עַכְשָׁיו. כּוּלָּם, אִם יֵשׁ לוֹ – מוּתָּר. אֵין לוֹ – אָסוּר. וּמַאי ״לָקַח״ – לָקַח בְּהַלְוָאָתוֹ.
+*Translation:* The *baraita* continues: Then **the time to sell wine arrived, and** the lender **said to** the borrower: **Give me my wine, as I want to sell it and acquire oil with** the money received for **it.** The borrower **said to him: I have oil that I will give you; go and calculate for me** the amount of oil to which you are entitled **at the current** market **rate.** With regard to **all** such cases, **if** the borrower **has** wine and oil, the transaction is **permitted,** as this is a proper sale. But if **he does not have** these items it is **forbidden.** Since he cannot give him the merchandise at the current moment, if its value appreciates in the interim he is considered to have paid an additional sum for the delay of the repayment of the debt. Rava concludes his explanation: **And what is** the meaning in the mishna of: **Acquired?** It means that **he acquired** it **as** payment for **his loan.**
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רָבָא: שְׁמַע מִינַּהּ מִדְּרַבִּי אוֹשַׁעְיָא תְּלָת. שְׁמַע מִינַּהּ דְּמַעֲמִידִין מִלְוֶה עַל גַּבֵּי פֵּירוֹת, וְלָא אָמְרִינַן דְּלָא כְּאִיסָּרוֹ הַבָּא לְיָדוֹ הוּא. וּשְׁמַע מִינַּהּ: הוּא דְּיֵשׁ לוֹ. וּשְׁמַע מִינַּהּ: אִיתַהּ לִדְרַבִּי יַנַּאי.
+*Translation:* **Rava said: Conclude from** this *baraita* **of Rabbi Oshaya three** *halakhot*: **Conclude from it that one may establish** repayment of **a loan upon produce,** meaning that a borrower can promise to pay the lender in produce over the course of a year, based on the market rate at the beginning of the year, **and we do not say** that this is **like** a case where **his *issar* has not** already **come into his possession,** as Rabbi Ḥiyya said in the *baraita* on the previous *amud*. Since he owns produce it is as though he has provided it at the present time, and the current lack of payment is not significant. Accordingly, one can **conclude from it** another *halakha*, that this practice is permitted **provided that he has produce** in his possession. **And** further **conclude from it** that the *halakha* **is** in accordance **with** the opinion **of Rabbi Yannai.**
+
+**5.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי יַנַּאי: מָה לִי הֵן מָה לִי דְּמֵיהֶן.
+*Translation:* This is **as Rabbi Yannai says: What** difference is it **to me** if he referred to the produce, and **what** difference is it **to me** if he referred to the produce’s **value?** If he stipulated that he would receive a certain amount of produce, he can later take its value in money rather than the produce itself without violating the prohibition of interest.
+
+**6.**
+*Hebrew/Aramaic:* דְּאִתְּמַר, רַב אָמַר: עוֹשִׂין אֲמָנָה בְּפֵירוֹת. וְאֵין עוֹשִׂין אֲמָנָה בְּדָמִים. וְרַבִּי יַנַּאי אָמַר: מָה לִי הֵן, וּמָה לִי דְּמֵיהֶן.
+*Translation:* **As it was stated** that *amora’im* disagreed about this issue: **Rav says** that **one may make** an arrangement of **trust with regard to** the delivery of items such as **produce,** i.e., one may loan the money in advance with the agreement that he will be repaid with produce at a later date, **but one may not make** an arrangement of **trust with regard to money,** i.e., one may not loan the money in advance with the agreement that he will receive the value of the produce at a later date, as this has the appearance of collecting interest. **And Rabbi Yannai says: What** difference is it **to me** if the agreement concerned **the produce, and what** difference is it **to me** if it concerned the produce’s **value?** Just as the lender can take the produce and sell it himself, he can likewise accept the value of the produce directly.
+
+**7.**
+*Hebrew/Aramaic:* מֵיתִיבִי: כּוּלָּם, אִם יֵשׁ לוֹ מוּתָּר. אָמַר רַב הוּנָא אָמַר רַב: בְּשֶׁמָּשַׁךְ. אִי בְּשֶׁמָּשַׁךְ צְרִיכָא לְמֵימַר? אֶלָּא כְּגוֹן שֶׁיִּחֵד לוֹ קֶרֶן זָוִית.
+*Translation:* The Gemara **raises an objection** against Rav’s opinion from the above *baraita*: With regard to **all of them, if** the borrower **has** the items in his possession, it is **permitted,** apparently even if he actually pays with something else. **Rav Huna says** that **Rav says:** That *baraita* is stated **with regard to** a case **where** the lender **pulled** the produce itself, thereby performing an act of acquisition. The Gemara questions Rav Huna’s statement: **If he pulled** the produce, does it **need to be said?** After all, there was a proper act of acquisition. **Rather,** the *baraita* is discussing a case **where** the borrower **designated a corner for** the lender in which to place the produce that he acquired. For the purposes of this *halakha*, such an action is sufficient.
+
+**8.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: הָא מַנִּי – רַבִּי יְהוּדָה הִיא, דְּאָמַר: צַד אֶחָד בְּרִבִּית מוּתָּר.
+*Translation:* **And Shmuel said:** In accordance with **whose** opinion **is this** *baraita*, which permits the practice if the borrower is in possession of such produce? **It is** in accordance with that of **Rabbi Yehuda, who said** that **uncertain interest,** a transaction that may or may not result in the payment of interest, is **permitted.** Rabbi Yehuda holds that if at the time of the loan it was not certain that the agreement would result in the paying of interest, then even if it is so that if specific circumstances were to develop there would be interest paid according to the agreement, the transaction is permitted.
+
+**9.**
+*Hebrew/Aramaic:* דְּתַנְיָא: הֲרֵי שֶׁהָיָה נוֹשֶׁה בַּחֲבֵירוֹ מָנֶה, וְעָשָׂה לוֹ שָׂדֵהוּ מֶכֶר. בִּזְמַן שֶׁהַמּוֹכֵר אוֹכֵל פֵּירוֹת – מוּתָּר. לוֹקֵחַ אוֹכֵל פֵּירוֹת – אָסוּר. רַבִּי יְהוּדָה אוֹמֵר: אַף בִּזְמַן שֶׁהַלּוֹקֵחַ אוֹכֵל פֵּירוֹת – מוּתָּר.
+*Translation:* **As it is taught** in a *baraita*: **If** one **was owed one hundred dinars by another, and** the borrower **performed a sale** of **his field for him** in order to repay the one hundred dinars, if they agreed **that the seller,** i.e., the borrower, **consumes the produce** of the field until the debt is repaid, this is certainly **permitted,** but if the **buyer,** i.e., the lender, **consumes the produce,** it is **prohibited,** as he is in effect taking the produce as interest while awaiting the payment that he is owed. **Rabbi Yehuda says: Even if the buyer consumes the produce,** it is **permitted.**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר לָהֶם רַבִּי יְהוּדָה: מַעֲשֶׂה בְּבַיְתוֹס בֶּן זוֹנִין שֶׁעָשָׂה שָׂדֵהוּ מֶכֶר עַל פִּי רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה וְלוֹקֵחַ אוֹכֵל פֵּירוֹת הָיָה! אָמְרוּ לוֹ: מִשָּׁם רְאָיָה?! מוֹכֵר אוֹכֵל פֵּרוֹת הָיָה, וְלֹא לוֹקֵחַ.
+*Translation:* The *tanna* relates: **Rabbi Yehuda said to** the Sages: **An incident** occurred **involving Baitos ben Zunin, who performed a sale** of **his field on the basis of** a directive from **Rabbi Elazar ben Azarya,** and that **was** a case where the **buyer consumed the produce.** The Sages **said to** the *tanna*: Will you **bring a proof from there?** The reverse was the case: **It was** the **seller, not the buyer, who consumed the produce.**
+
+**11.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? אָמַר אַבָּיֵי: צַד אֶחָד בְּרִבִּית אִיכָּא בֵּינַיְיהוּ. רָבָא אָמַר: רִבִּית עַל מְנָת לְהַחֲזִיר אִיכָּא בֵּינַיְיהוּ.
+*Translation:* The Gemara asks: **What** is the difference in opinion **between** the first *tanna* and Rabbi Yehuda? **Abaye said:** The difference **between them** concerns the *halakha* of **uncertain interest.** According to the opinion of Rabbi Yehuda, if it is uncertain that a transaction will ultimately involve the payment of interest, it is permitted. **Rava said: The** difference **between them** involves the status of **interest** taken **on the condition** that it be **given back.** Rava maintains that Rabbi Yehuda did not mean that the lender can consume the produce without payment, as he must repay the amount he ate if the borrower pays off his debt. The first *tanna* rules that since the sale is not yet final, his consumption of the produce constitutes interest.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רָבָא, הַשְׁתָּא דְּאָמַר רַבִּי יַנַּאי:
+*Translation:* **Rava said: Now that Rabbi Yannai** is **saying**

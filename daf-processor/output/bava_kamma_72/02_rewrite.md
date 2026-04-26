@@ -1,0 +1,143 @@
+# Bava Kamma 72 — Daf Yomi Shiur
+
+## Timing of Shechita
+
+### Mishnah Setup
+
+The current daf continues a rich series of sugyot within the perek of *mrubba*, each one yielding substantive halachic questions. The preceding discussion addressed cases of *shechita she'eina re'uya* — an act of slaughter that cannot produce permitted food — including scenarios of *shechita* on Shabbos, the principle of *kim lei b'derabba minei*, slaughter of a *shor haniskal*, and slaughter intended for *avoda zara*. In all those cases, either the animal is *assur b'hana'ah* or otherwise removed from the owner's domain, precluding liability for four and five.
+
+The Mishnah now continues directly in that vein. The *tanna kamma* holds that one who slaughters *chullin ba'azarah* — non-consecrated animals in the Temple courtyard — or slaughters an animal that turns out to be a *treifa*, is still liable for four and five, since a valid act of *shechita* was performed. Rabbi Shimon disagrees: in his view, both cases constitute *shechita she'eina re'uya*, a *shechita* whose product cannot be eaten, and the thief is therefore exempt.
+
+The case of a *treifa* is straightforward — the animal cannot be eaten, but it is still permitted in *hana'ah*, so the question of ownership and liability is coherent. The case of *chullin ba'azarah*, however, poses a deeper problem, since that *shechita* is presumed to render the animal *assur b'hana'ah*. Why, then, would anyone hold the thief liable? Once the animal is forbidden in benefit, it is as though it no longer belongs to its owner. This is the question the Gemara now takes up.
+
+### Ein Lah L'Shechita
+
+The Gemara opens four lines from the top of 72a. Rav Chaviva of Mechuzna said to Rav Ashi: we can infer from this Mishnah the principle of *ein lah l'shechita ela l'sof* — the act of *shechita* is considered to occur only at its final moment. *Shechita* consists of severing the majority of both the trachea and the esophagus. Everything done up to that point — say, forty-nine percent of the cut — is not yet the act of *shechita*. The act itself is the final passage from fifty percent to fifty-one percent. This stands in contrast to the position of *yeshno l'shechita mitechila v'ad sof*, which holds that the process of *shechita* begins from the very first moment of cutting, and the entire process constitutes the act.
+
+### Shechita Start Problem
+
+The Gemara now articulates why the position of *yeshno l'shechita mitechila v'ad sof* creates a problem in our context. If the act of *shechita* begins from the first stroke of the knife, then the moment one begins cutting, one has performed an act of *shechita* of *chullin ba'azarah*. That initial act renders the animal *assur b'hana'ah* immediately. Every subsequent stroke — from a few percent all the way to fifty-one — is then performed on an animal that is already forbidden in benefit and, by extension, no longer considered to belong to its owner. The slaughter at that point is not *shechita* on the owner's animal, and the thief cannot be liable for four and five.
+
+Tosafot notes an important nuance: if one were to stop in the middle of the cutting without completing the *shechita*, retroactively no act of *shechita* would have occurred at all — merely a nick. But if the *shechita* is completed, we say in hindsight that it began from the first cut, and it is from that moment that the animal becomes *chullin ba'azarah*.
+
+Rav Ashi also notes a *nafka mina* for this question in the laws of *kodashim*: Rashi observes that the question of when the *shechita* begins determines when a disqualifying intent — such as *she-lo lishma* — is operative. If intent is only effective at the final moment (*ein lah l'shechita ela l'sof*), a thought formed earlier in the cutting process would not affect the *korban's* status. If the process begins from the outset (*yeshno l'shechita mitechila v'ad sof*), any intent formed at any point during the cutting is legally significant.
+
+### V'Tavcho Kulo
+
+The Gemara proposes a resolution: since the act of *shechita* begins from the first cut, one is already liable for four and five from that initial moment — simultaneously with when the animal becomes *assur b'hana'ah*. Rav Acha son of Rava articulates this: *ki kemichayev v'hu purta* — when one becomes liable, it is also from that small beginning.
+
+Rav Ashi rejects this. *Lo tidcheih* — do not deflect the difficulty in that way. *Utvacho kulo ba'inan v'leika*: when the Torah says "and he slaughtered it," the word *utvacho* — and Rav Ashi reads it as requiring the complete act of slaughter — implies that liability for four and five is triggered only at the conclusion of the *shechita*, not at the beginning. The *chiyuv* comes only when the animal has been fully slaughtered.
+
+This understanding makes intuitive sense as well: the liability for four and five reflects the full realization of the wrongdoing, the *nishtana b'chet*, the change effected through the transgression. That change is only complete at the end of the act. Therefore, if the *shechita* process begins at the outset and renders the animal *assur b'hana'ah* from that first moment, the animal is already alienated from its owner before the moment of liability arrives. The *chiyuv* never attaches.
+
+### Walking Animal In
+
+The Gemara declares the difficulty unresolved — *ela kashya* — and then offers a practical resolution attributed to Rav Gamda in the name of Rava: *kegon she-shachat miktzat simanim bachutz u'gamran bifnim* — the case of the Mishnah is one where the *shochet* began cutting the animal's *simanim* outside the *azarah* and completed the cut once inside. In such a configuration — however physically awkward to envision, perhaps involving the *shochet* walking alongside the animal as it crossed into the *azarah* — the act of *chullin ba'azarah* only occurs at the final moment, precisely when the *chiyuv* for four and five is triggered. Both events — the forbidden status of *chullin ba'azarah* and the liability for four and five — arrive simultaneously at the conclusion of the cut, so the *chiyuv* is never preempted.
+
+This is admittedly a peculiar scenario, and the Gemara notes as much. But it stands as a viable explanation for how one who performs *shechita she'eina re'uya* of *chullin ba'azarah* might nonetheless be held liable by the *tanna kamma*.
+
+### Yochanan vs. Shimon
+
+The Gemara now introduces an alternate version of the same debate, taught not in the context of the Mishnah but as a freestanding dispute between Amoraim. Rabbi Shimon — citing Rabbi Levi the elder — holds *eino l'shechita ela l'sof*: the *shechita* occurs only at the end. Rabbi Yochanan holds *yeshno l'shechita mitechila v'ad sof*: it runs from beginning to end.
+
+### Chullin B'Azarah Status
+
+Rav Chavivi of Chuzao said to Rav Ashi: from the position of Rabbi Yochanan — *yeshno l'shechita mitechila v'ad sof* — we can infer that Rabbi Yochanan holds *chullin shenishchatu ba'azarah lav de'oraisa*: that the prohibition of *chullin ba'azarah* is not biblical in origin. This is the only way to reconcile Rabbi Yochanan's view with our Mishnah. If the *shechita* begins at the outset and the animal thereby becomes *assur b'hana'ah* from the Torah from that first moment, the same problem recurs: by the time the *chiyuv* of four and five arrives, the animal is already forbidden and effectively ownerless. To maintain Rabbi Yochanan's position alongside the *tanna kamma*'s ruling, one must conclude that the *issur hana'ah* of *chullin ba'azarah* is not a Torah-level prohibition.
+
+A word on what that means is warranted. There is a *drasha* derived from the verse *ki yirchak mimcha hamakom* — that one may slaughter non-*kodashim* animals only at a distance from the Temple, not near it. This is generally understood as prohibiting *chullin ba'azarah* on a Torah level. But the question is not whether the act is prohibited; the question is what the consequences are for the animal. There is no explicit *pasuk* that declares such an animal *assur b'hana'ah*. When the Gemara says the prohibition is *derabbanan*, it means that the Rabbis never enacted that the animal becomes *assur b'hana'ah* — or at minimum, that the Torah did not impose that consequence. Through the lens of Torah law, the animal remains in the owner's possession and permitted in benefit.
+
+### Derabbanan Clarification
+
+This leads to a precise and important clarification that Tosafot addresses. One might ask: if something is *assur b'hana'ah midrabbanan*, does that not still affect civil liability? After all, the Gemara elsewhere treats rabbinic prohibitions as operative realities — for instance, *chametz* forbidden only rabbinically on *Erev Pesach* cannot effect a valid *kiddushin*. So why should the *derabbanan* status of *chullin ba'azarah* not prevent liability for four and five?
+
+Tosafot draws a careful distinction. In cases like *tikroves avoda zara* — where some opinions hold the prohibition of *hana'ah* is only rabbinic — we would still say the thief is exempt from four and five, because the rabbinic prohibition is a real and operative status. Everyone agrees the animal is *assur b'hana'ah*; it is only the source of that prohibition that is debated. Rabbinic law defines our reality, and we do not bracket it simply because it is rabbinic.
+
+The case of *chullin ba'azarah* is categorically different. To say *chullin ba'azarah* is *derabbanan* in this context is to say that the Rabbis never enacted *issur hana'ah* at all — not from the Torah and not rabbinically. They may have prohibited the act of slaughtering *chullin ba'azarah*, but they did not render the resulting animal forbidden in benefit. Accordingly, "the prohibition is *derabbanan*" here effectively means: there is no *issur hana'ah* operative in any domain, and the animal therefore remains the owner's property for purposes of the *chiyuv* of four and five.
+
+Tosafot on 72b makes this explicit: if *chullin ba'azarah* is *derabbanan* in this sense, a bill of sale signed by witnesses to such a transaction would be valid, and *kiddushin* effected with the proceeds would take effect. It is treated as permitted in benefit for all practical purposes. The Gemara thus preserves the Mishnah's ruling by reading Rabbi Yochanan's position as holding that *chullin ba'azarah* simply does not carry *assur b'hana'ah* at all.
+
+To summarize the three answers the Gemara has generated: first, reject *yeshno l'shechita mitechila v'ad sof* and hold that the *shechita* occurs only at the end — then both the *issur* and the *chiyuv* coincide; second, maintain *yeshno l'shechita mitechila v'ad sof* but hold that *chullin ba'azarah* is not *assur b'hana'ah*, thus the animal never leaves the owner's possession; third, the case of the Mishnah involves physically walking the animal into the *azarah* during the final stroke, making the *issur* and *chiyuv* simultaneous. Each answer is a coherent resolution to the underlying tension, and together they illuminate the interplay between the act of *shechita*, the moment of liability, and the *issur hana'ah* of *chullin ba'azarah*.
+
+---
+
+## Edim Zomemim
+
+### Edim Zomemim Intro
+
+Having worked through the laws of *shechita she'eina re'uya* and its relationship to the *chiyuv* of four and five, the Mishnah turns to a closely related topic that will dominate the remainder of the daf: *edim zomemim*, conspiring or plotting witnesses. While the tractate of Makkot addresses what punishment is administered once witnesses are found to be *zomemim*, and Sanhedrin treats the procedural mechanism by which the *hazama* is established, our Mishnah's focus is a more conceptually acute question: *when* do witnesses become *zomemim*, and what are the downstream consequences of that moment?
+
+Before examining the Mishnah, it is worth clarifying precisely what *edim zomemim* means. It does not mean witnesses who are shown — even by incontrovertible evidence — to have testified falsely about the underlying facts. Even if the alleged murder victim walks into court alive (*ba harug b'raglav*), those witnesses are not *zomemim*. In such a case the testimony is contradicted and discarded, but the witnesses themselves do not bear the special status of *edim zomemim*. Likewise, if two witnesses testify to a theft and two others testify to the contrary, we discard both sets of testimony because they are evenly opposed — but neither group is *zomemim*.
+
+*Hazama* — the act that makes witnesses *zomemim* — occurs specifically when a second pair of witnesses comes and testifies not about the facts but about the first witnesses themselves, saying: you could not possibly know what you claim to have seen on that day, because you were with us elsewhere. The second pair says, in effect, *imanu heyitem b'oto hayom*. Their testimony is about the person, not the event. The halachic result — believing the second pair over the first and administering the punishment of *ka'asher zamam*, as they intended to do to others — is the great *chiddush* of *edim zomemim*, since it is two witnesses against two, and there is no obvious logical basis for preferring one group over the other.
+
+One *rishon* suggests a framework for understanding why the second pair is believed: just as witnesses who are *psulei edut* — say, relatives or known criminals — can be disqualified by testimony about their personal status (which is a separate matter from the facts they are testifying to), so too the second pair is testifying about the personal status of the first pair, saying in effect, "you could not have been there." This creates an asymmetry: the first pair spoke about the events; the second pair speaks about the first pair. And in that sense the second pair's testimony, touching directly on the witnesses rather than the underlying facts, is credited — and produces the consequences of *ka'asher zamam*.
+
+### Mishnah Cases
+
+The Mishnah presents several scenarios of *edim zomemim* in the context of *ganav v'tavach u'machar* — theft followed by slaughter or sale. In the baseline case, one group of two witnesses testified that a person stole an animal (*al pi shenayim*), and a separate group of two witnesses testified that the same person slaughtered or sold it (*al pi shenayim acherim*). Subsequently, a third pair appears and establishes that all four of these witnesses — both groups — were *zomemim*, since they were with the third pair at the time they claimed to have witnessed these events.
+
+The ruling: the first group pays double (*tashlumei kefel*) to the victim of the alleged theft, since their false testimony would have caused the payment of *kefel* — and that is what they pay in return. The second group pays three times (*tashlumei gimmel*), since their testimony added the incremental liability of four and five above the *kefel* — specifically three additional units of payment — and that incremental portion is what they are required to pay.
+
+### Payment Scenarios
+
+The Mishnah then considers partial *hazama*. If only the second group is found *zomemim* (*nimtze'u acharonim zomemim*), the first group's testimony stands, and the original thief pays *kefel* to the owner. The second group, having attempted to add the further liability of four and five through false testimony, pays *tashlumei gimmel* — three times — to the thief, since their *hazama* was directed against him. The thief pays twice to the owner; the *zomemim* pay three times to the thief.
+
+If only one member of the second group is identified as a *zomem* — not both — the entire second group's testimony is voided, but the rule of *ka'asher zamam* does not apply, since that rule requires both witnesses to be *zomemim*. Accordingly, the *ganav* pays only *kefel*, no further payment is extracted, and the second group is not penalized.
+
+If one member of the first group is identified as a *zomem*, the consequence is more sweeping: *batla kol ha'eidus* — the entire testimony collapses. Since the foundation of the case is the testimony that this person was a *ganav* — the theft — without which neither *kefel* nor four and five can be applied, voiding the first testimony removes any basis for liability. The alleged thief may claim he owned the animal legitimately, having purchased it from the original owner, and without testimony establishing the theft, no payment is due. No group was fully established as *zomemim*, and the entire case is nullified.
+
+### Payment Scenarios
+
+The Mishnah then considers partial *hazama*. If only the second group is found *zomemim* (*nimtze'u acharonim zomemim*), the first group's testimony stands, and the original thief pays *kefel* to the owner. The second group, having attempted to add the further liability of four and five through false testimony, pays *tashlumei gimmel* — three times — to the thief, since their *hazama* was directed against him. The thief pays twice to the owner; the *zomemim* pay three times to the thief.
+
+If only one member of the second group is identified as a *zomem* — not both — the entire second group's testimony is voided, but the rule of *ka'asher zamam* does not apply, since that rule requires both witnesses to be *zomemim*. Accordingly, the *ganav* pays only *kefel*, no further payment is extracted, and the second group is not penalized.
+
+If one member of the first group is identified as a *zomem*, the consequence is more sweeping: *batla kol ha'eidus* — the entire testimony collapses. Since the foundation of the case is the testimony that this person was a *ganav* — the theft — without which neither *kefel* nor four and five can be applied, voiding the first testimony removes any basis for liability. The alleged thief may claim he owned the animal legitimately, having purchased it from the original owner, and without testimony establishing the theft, no payment is due. No group was fully established as *zomemim*, and the entire case is nullified.
+
+### Abaye vs. Rava
+
+The Gemara (*itmar*) now turns to the central Amoraic dispute of this sugya: what is the temporal status of an *ed zomem*? When, precisely, does a witness become disqualified?
+
+To understand the question, one must picture a timeline. At some point in the past — call it the first date — the two witnesses appear in court and give their testimony, claiming to have witnessed the theft and slaughter of an animal on an earlier occasion. Months later — call it a later date — a second pair of witnesses establishes that the first pair were *zomemim*: they could not have seen what they claimed because they were elsewhere. Between the first date and the later date, the original pair may have signed *shtaros* (documents), testified in other cases, and been relied upon by the public as valid witnesses.
+
+Abaye holds: *l'mafrei'a hu nifsul* — the disqualification is retroactive. Once the *hazama* is established, we now know that on the earlier date, these witnesses bore false testimony. The Torah teaches that a *rasha* — one who transgresses the prohibition against false testimony — may not serve as a witness (*al tashet yad'cha im rasha lihyot ed chamas*). Since they transgressed that prohibition at the first date, they have been *resha'im* since then, and any testimony they gave in the intervening period must be retroactively invalidated.
+
+Rava holds: *mikan u'l'haba hu nifsul* — disqualification applies only from the later date going forward.
+
+### Abaye's Logic
+
+Abaye's position flows from the premise that the *hazama* reveals a truth about the past. The Torah instructs us to believe the second pair of witnesses — and if we believe them, we now know that the first pair testified falsely. That false testimony made them *resha'im* from the moment they stood in court and lied. Since the disqualification status of a *rasha* attaches at the moment of the transgression, and the transgression occurred at the first date, the *nifsul* — the disqualification — must run from that moment. The testimony given between the first date and the later date was therefore given while they were already *psulim*, and it must be voided.
+
+Crucially, this is not an evidentiary claim about the credibility of those intermediate testimonies. Perhaps every one of those intermediate testimonies was entirely accurate. But just as a *karov* — a relative — cannot testify even when he is telling the absolute truth, because his personal status renders him *pasul le'eidus*, so too these witnesses, having become *resha'im*, are disqualified regardless of the veracity of what they said in the interim.
+
+### Rava's Chiddush
+
+Rava's position begins from a fundamental observation about *edim zomemim*: the entire framework is a *chiddush*. *Trei u'trei ninhu* — it is two against two. Why do we listen to these witnesses over those? There is no logical basis for preferring the second pair's account. The *chiddush* of the Torah is to say: in this specific procedural context — where the second pair testifies not about the facts but that the first pair was elsewhere — we follow the second pair. But since the entire enterprise is a *chiddush*, one should not extend its consequences beyond its own scope. *Ein lecha bo ela mishat chidusho v'eilach*: one applies the *chiddush* only from the moment it is invoked, going forward.
+
+Conceptually, Rava's position is striking. It implies that even after the *hazama* is established, we do not necessarily *know* that the first pair lied. We know that the Torah's procedure designates them as *edim zomemim* and that we apply *ka'asher zamam*. But that procedure is a *chiddush* — a legal mechanism — not necessarily a factual determination about who told the truth. If we could truly say that the Torah is revealing to us that the first pair lied, Abaye's retroactive logic would be compelling. But if the *chiddush* is a procedural mechanism — "in this configuration, these witnesses bear this status" — then extending it retroactively goes beyond what the *chiddush* licenses. The status applies from the moment the Torah's procedure activates it: *mikan u'l'haba*.
+
+This reasoning resonates with a broader observation about the punishments associated with *edim zomemim*. The Torah applies *ka'asher zamam v'lo ka'asher asah*: punishment for what the witnesses *intended*, not what they actually accomplished. This is itself disproportionate by any conventional logic. The Ramban, in his commentary on the Torah, notes that this category of punishment — along with *ben sorer u'moreh*, *zaken mamre*, and *navi sheker* — is characterized by the Torah's statement *v'chol Yisrael yishme'u v'yira'u*: all of Israel shall hear and be afraid. In each of these cases, the punishment exceeds what the individual strictly deserves, but society requires a severe deterrent to protect foundational institutions — the courts, parental authority, the authority of the *sanhedrin*, the authority of God. The disproportionate punishment is thus not about individual desert but about systemic integrity. This is deeply consistent with Rava's view that *edim zomemim* is a *chiddush*: the Torah is not primarily making a factual finding; it is protecting the court system by making the consequences of attempted *hazama* severe and categorical.
+
+### Pesida D'Luchochos
+
+The Gemara reports a second version of Rava's position. According to this view, Rava in principle agrees with Abaye — once the *hazama* is established, one recognizes retroactively that the witnesses were *resha'im* from the moment of their false testimony. But Rava holds *mikan u'l'haba* for a different reason: *mishum pseida d'luchochos* — to protect innocent parties.
+
+Consider the practical consequences of retroactive disqualification. The two witnesses who gave false testimony in court may have, in the intervening months, signed numerous *shtaros* — loan documents, bills of sale, contracts. Creditors and buyers relied on these witnesses in good faith, seeing that the courts had accepted them as valid. To retroactively invalidate all those documents would cause devastating losses to innocent third parties who had no reason to doubt the witnesses' reliability. To prevent this injustice, Rava rules that as a practical rabbinic measure, the disqualification is applied only going forward.
+
+This version of Rava's position is more limited than the *chiddush* formulation. It concedes Abaye's theoretical framework — the witnesses really were *resha'im* from the earlier date — but overrides the practical consequence for civil documents in order to protect the innocent *luchochos*. Importantly, however, this protection extends only to monetary documents. Where the intervening testimony touched on matters of personal status — a woman's marriage, a divorce, an adulterous act, capital punishment, *kiddush hachodesh* — those testimonies would be retroactively voided even according to the *pseida d'luchochos* rationale, because the injustice of allowing such testimony to stand exceeds the benefit of protecting innocent third parties. Tosafot makes this explicit, listing cases of *dinei nefashos*, *gittin*, *kiddushin*, and *eidus hachodesh* as instances where the *pseida* rationale would not override the need to invalidate the prior testimony.
+
+### Chiddush vs. Pesida
+
+The Gemara asks: what is the practical difference between the two versions of Rava — the *chiddush* reasoning and the *pseida d'luchochos* reasoning?
+
+The Gemara offers the following scenario: two witnesses say one of the *zomemim* was with them, and two other witnesses say the other one was with them — each witness is challenged individually (*d'asi bei trei l'chad u'bei trei l'chad*). In this configuration, each individual challenge is two against one, not two against two. If the only basis for applying *mikan u'l'haba* is the *chiddush* — namely, that the Torah makes a special allowance for two against two — then where there is no *chiddush* (because it is two against one and no special allowance is needed to believe the challengers), disqualification would be retroactive. But if the reason is *pseida d'luchochos*, we still want to protect innocent buyers and sellers, so we apply *mikan u'l'haba* even here.
+
+Alternatively (*ei nami*), where the second pair disqualifies the first pair not through *hazama* — "you were with us" — but by testifying that they are *gazlanim* and therefore *psulei eidut*, that is also not a *chiddush* since there is a straightforward reason to believe testimony about personal status. According to the *chiddush* rationale, there would be no basis for limiting the disqualification to *mikan u'l'haba*, and it would apply retroactively. According to the *pseida d'luchochos* rationale, we would still protect innocent *luchochos* and apply it only going forward.
+
+### Halakha L'Abaye
+
+The Gemara concludes decisively. Rav Yirmiya of Difti reports that Rav Pappa ruled in practice like Rava — disqualifying the witnesses only going forward. Rav Ashi counters: *hilchesa k'vasei d'Abaye* — the *halacha* follows Abaye, and disqualification is retroactive.
+
+The Gemara then states its final ruling: *v'hilchesa k'vasei d'Abaye b'Ya'al Kagam*. This is the well-known mnemonic encoding the cases in which the halacha follows Abaye against Rava — an exception to the general rule that the halacha follows Rava in their disputes. The *ayin* stands for *edim zomemim*, our case. The other letters of the mnemonic encode: *yud* for *yeush she-lo m'da'as*, *lamed* for *lechi ha-omed me-elav*, *kuf* for *kiddushin she-lo nimseru l'via*, *gimmel* for *giluy milsa b'gita*, and *mem* for *mumar ochel neveilos l'teiavon*.
+
+The sugya thus closes with the halacha firmly in Abaye's camp: once witnesses are established as *edim zomemim*, their disqualification runs retroactively to the moment they bore false witness. Any testimony they gave between the date of their perjury and the date of the *hazama* is invalidated as well. The debate between Abaye and Rava — whether that retroactive disqualification is a principled truth about their status from the moment of the transgression, or merely the outer limit of a *chiddush* that licenses only prospective consequences, or a concession to practical justice for innocent third parties — remains one of the Gemara's most penetrating discussions of the nature of the law of *edim zomemim*, and the discussion will continue on the following daf.

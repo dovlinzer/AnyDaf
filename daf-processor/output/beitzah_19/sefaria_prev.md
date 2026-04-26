@@ -1,0 +1,49 @@
+### Beitzah 18b
+
+**1.**
+*Hebrew/Aramaic:* בַּשָּׁרָב, וְרוֹחֵץ אֲפִילּוּ בְּמֵי מִשְׁרָה.
+*Translation:* **on a hot day and washes** himself **even in** putrid **water** in which flax **was soaked,** because the heat has made him so uncomfortable.
+
+**2.**
+*Hebrew/Aramaic:* תִּינַח בִּימוֹת הַחַמָּה, בִּימוֹת הַגְּשָׁמִים מַאי אִיכָּא לְמֵימַר? אָמַר רַב נַחְמָן בַּר יִצְחָק: פְּעָמִים שֶׁאָדָם בָּא מִן הַשָּׂדֶה מְלוּכְלָךְ בְּטִיט וּבְצוֹאָה, וְרוֹחֵץ אֲפִילּוּ בִּימוֹת הַגְּשָׁמִים.
+*Translation:* The Gemara raises another objection: This works out **well in the summer season;** however, **in the rainy season,** when people do not usually immerse themselves in water in order to cool off, **what is there to say? Rav Naḥman bar Yitzḥak said: Sometimes a person comes** home **from the field soiled with mud and excrement and washes** himself **even in the rainy season.**
+
+**3.**
+*Hebrew/Aramaic:* תִּינַח בְּשַׁבָּת, בְּיוֹם הַכִּפּוּרִים מַאי אִיכָּא לְמֵימַר?
+*Translation:* The Gemara continues with another objection: This works out **well** and explains why it is permitted for one to immerse himself **on Shabbat,** when it is permitted to wash, and therefore it can be argued that it is not clearly evident that he is immersing in order to purify himself; but **on Yom Kippur,** when all bathing apart from ritual immersion is prohibited, **what is there to say?** His actions prove that his intention is to purify himself, and this should be prohibited because it looks as though he is repairing himself through purification.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מִי אִיכָּא מִידֵּי דִּבְשַׁבָּת שְׁרֵי וּבְיוֹם הַכִּפּוּרִים אָסוּר? אֶלָּא הוֹאִיל וּבְשַׁבָּת שְׁרֵי — בְּיוֹם הַכִּפּוּרִים נָמֵי שְׁרֵי.
+*Translation:* **Rava said:** It is impossible to prohibit immersion on Yom Kippur alone, as **is there anything that is permitted on Shabbat and** the very same act is **prohibited** as labor **on Yom Kippur?** In fact, the prohibition against labor is more stringent on Shabbat than on Yom Kippur. **Rather, since it is permitted on Shabbat, it is also permitted on Yom Kippur.** The Sages did not issue decrees with regard to Yom Kippur that would make it more stringent than Shabbat. Therefore, since they allowed a person to immerse on Shabbat because it looks as if he is doing so for pleasure, to escape the heat or to remove dirt, and not necessarily in order to purify himself, they permitted it on Yom Kippur as well, even though it is evident in that situation that his immersion is for the purpose of achieving purity.
+
+**5.**
+*Hebrew/Aramaic:* וּמִי אִית לֵיהּ לְרָבָא ״הוֹאִיל״? וְהָתְנַן: הַחוֹשֵׁשׁ בְּשִׁינָּיו — לֹא יְגַמֵּעַ בָּהֶן אֶת הַחוֹמֶץ, אֲבָל מְטַבֵּל הוּא כְּדַרְכּוֹ, וְאִם נִתְרַפֵּא — נִתְרַפֵּא. וְרָמֵינַן עֲלַהּ: לֹא יְגַמֵּעַ וּפוֹלֵט, אֲבָל מְגַמֵּעַ וּבוֹלֵעַ!
+*Translation:* The Gemara asks: **Does Rava accept** the principle of: **Since? But didn’t we learn** in a mishna: **One who is concerned** about pain **in his teeth may not sip vinegar through them** on Shabbat in order to alleviate his toothache; **however, he may dip** his food in vinegar **in his** usual **manner** during the meal and eat it, **and if he is healed** by the vinegar, **he is healed. And we raised a contradiction to this** mishna from the following *baraita*: **One may not sip** vinegar **and** immediately **spit** it **out,** as this is clearly done for medicinal purposes; **however, one may sip** the vinegar **and swallow** it, since it looks as though he is drinking it. This indicates that there is a permitted way to use vinegar even without dipping his food into it.
+
+**6.**
+*Hebrew/Aramaic:* וַאֲמַר אַבָּיֵי: כִּי תְּנַן נָמֵי מַתְנִיתִין, מְגַמֵּעַ וּפוֹלֵט תְּנַן. וְרָבָא אָמַר: אֲפִילּוּ תֵּימָא מְגַמֵּעַ וּבוֹלֵעַ, וְלָא קַשְׁיָא: כָּאן קוֹדֶם טִבּוּל, כָּאן לְאַחַר טִבּוּל.
+*Translation:* **And Abaye said: Also when we learned** this ruling in **the mishna, we learned** it with regard to the case of **one who sips and spits** it **out. Rava said: Even** if **you say** that the mishna prohibits sipping vinegar even in a case where **one sips and swallows** it, it is still **not difficult: Here,** the *baraita* permits sipping vinegar **before dipping** one’s food in it, as he appears to be doing so for pleasure. **There,** the mishna prohibits sipping the vinegar **after dipping** his food in it, when it is clear that one is doing so for medicinal purposes only.
+
+**7.**
+*Hebrew/Aramaic:* וְאִם אִיתָא, נֵימָא: הוֹאִיל וְקוֹדֶם טִבּוּל שְׁרֵי — לְאַחַר טִבּוּל נָמֵי שְׁרֵי! הֲדַר בֵּיהּ רָבָא מֵהַהִיא.
+*Translation:* The Gemara completes its question: **And if it is so** that Rava accepts the principle of: Since, **let him say: Since it is permitted** to sip vinegar **before dipping, it is also permitted** to do so **after dipping.** The Gemara answers: **Rava retracted that** statement with regard to vinegar and accepted Abaye’s resolution of the difficulty, along with the principle of: Since.
+
+**8.**
+*Hebrew/Aramaic:* וּמִמַּאי דְּמֵהַהִיא הֲדַר בֵּיהּ, דִּלְמָא מֵהָא הֲדַר בֵּיהּ? לָא סָלְקָא דַּעְתָּךְ, דְּתַנְיָא: כׇּל חַיָּיבֵי טְבִילוֹת טוֹבְלִין כְּדַרְכָּן, בֵּין בְּתִשְׁעָה בְּאָב בֵּין בְּיוֹם הַכִּיפּוּרִים.
+*Translation:* The Gemara asks: **And from where** can it be determined **that he retracted that** teaching? **Perhaps he retracted this** statement with regard to immersion in a ritual bath on Yom Kippur. The Gemara answers: **This cannot enter your mind** that he retracted his view in that case, **as it is taught** in a *baraita*: **All** who are **obligated in immersions immerse in their** usual **manner, both on the Ninth of Av and on Yom Kippur,** even though it is prohibited to wash on these days. Rava would certainly have aligned his opinion with the explicit ruling of a *baraita*.
+
+**9.**
+*Hebrew/Aramaic:* וְשָׁוִין שֶׁמַּשִּׁיקִין אֶת הַמַּיִם בִּכְלִי אֶבֶן וְכוּ׳. מַאי ״אֲבָל לֹא מַטְבִּילִין״? אָמַר שְׁמוּאֵל: אֵין מַטְבִּילִין אֶת הַכְּלִי עַל גַּב מֵימָיו לְטַהֲרוֹ בְּיוֹם טוֹב.
+*Translation:* § It was taught in the mishna: **And** Beit Shammai and Beit Hillel both **agree that one may bring** ritually impure **water into contact** with ritually pure water **in stone vessels** in order to purify the water. However, one may not immerse the impure water. The Gemara asks: **What is** the meaning of the mishna’s statement: **However, one may not immerse** the impure water? **Shmuel said: One may not immerse** an impure **vessel on account of its water** in order **to purify it on a Festival.** The Sages allowed impure water to be purified through contact with ritually pure water only in a stone vessel or in another vessel that does not contract impurity, but not in an impure vessel that would itself become purified through this immersion.
+
+**10.**
+*Hebrew/Aramaic:* מַנִּי מַתְנִיתִין? לָא רַבִּי וְלָא רַבָּנַן, דְּתַנְיָא: אֵין מַטְבִּילִין אֶת הַכְּלִי עַל גַּב מֵימָיו לְטַהֲרוֹ, וְאֵין מַשִּׁיקִין אֶת הַמַּיִם בִּכְלִי אֶבֶן לְטַהֲרָן, דִּבְרֵי רַבִּי. וַחֲכָמִים אוֹמְרִים: מַטְבִּילִין כְּלִי עַל גַּב מֵימָיו לְטַהֲרוֹ, וּמַשִּׁיקִין אֶת הַמַּיִם בִּכְלִי אֶבֶן לְטַהֲרָן.
+*Translation:* The Gemara asks: If that is its meaning, in accordance with **whose** opinion **is the mishna?** It is **not** in accordance with the opinion of **Rabbi** Yehuda HaNasi **nor** with that of **the Rabbis. As it is taught** in the *Tosefta*: **One may not immerse an** impure **vessel on account of its water** in order **to purify** the vessel, **and one may not bring** impure **water into contact** with pure water **in a stone vessel** in order **to purify** the water; this is **the statement of Rabbi** Yehuda HaNasi. **And the Rabbis say: One may immerse** an impure **vessel on account of its water** in order **to purify** the vessel, **and one may bring** impure **water into contact** with pure water **in a stone vessel** in order **to purify** the water.
+
+**11.**
+*Hebrew/Aramaic:* מַנִּי? אִי רַבִּי — קַשְׁיָא הַשָּׁקָה, אִי רַבָּנַן — קַשְׁיָא הַטְבָּלָה!
+*Translation:* If so, in accordance with **whose** opinion is the mishna? **If** it is in accordance with the opinion of **Rabbi** Yehuda HaNasi, then the ruling with regard to **bringing** impure **water into contact** with pure water in a stone vessel is **difficult,** as in the *Tosefta* Rabbi Yehuda HaNasi prohibits doing so, whereas the mishna permits it; and **if** it is in accordance with the opinion of **the Rabbis,** then the ruling with regard to the **immersion** of an impure vessel on account of its water is **difficult,** as in the *Tosefta* the Rabbis permit this, while the mishna, as explained by Shmuel, prohibits it.
+
+**12.**
+*Hebrew/Aramaic:* אִיבָּעֵית אֵימָא רַבִּי, אִיבָּעֵית אֵימָא רַבָּנַן. אִי בָּעֵית אֵימָא רַבִּי: רֵישָׁא דְּבָרַיְיתָא בְּיוֹם טוֹב, וְסֵיפָא בְּשַׁבָּת, וְכוּלַּהּ מַתְנִיתִין בְּיוֹם טוֹב.
+*Translation:* The Gemara answers: **If you wish, say** that the mishna is in accordance with the opinion of **Rabbi** Yehuda HaNasi; and **if you wish, say** instead that it is in accordance with the opinion of **the Rabbis.** How so? **If you wish, say** that the mishna is in accordance with the opinion of **Rabbi** Yehuda HaNasi and explain that the **first clause of** that ***baraita*,** i.e., the first part of Rabbi Yehuda HaNasi’s statement in the *Tosefta*, deals with **a Festival;** it is in that case that Rabbi Yehuda HaNasi prohibits immersing an impure vessel on account of its water, but bringing impure water into contact with pure water in a stone vessel would be permitted. **And the latter clause,** which extends the prohibition to bringing impure water into contact with pure water, is referring **to** the more stringent case of **Shabbat. And the entire mishna** is referring to **a Festival,** when it is permitted to purify impure water by bringing it into contact with pure water in a stone vessel.

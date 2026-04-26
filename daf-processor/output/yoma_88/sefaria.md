@@ -1,0 +1,49 @@
+### Yoma 88a
+
+**1.**
+*Hebrew/Aramaic:* מִפְּנֵי שֶׁצָּרִיךְ לוֹמַר הַבְדָּלָה בְּחוֹנֵן הַדָּעַת! תַּנָּאֵי הִיא. דְּתַנְיָא: כׇּל חַיָּיבֵי טְבִילוֹת — טוֹבְלִין כְּדַרְכָּן בְּיוֹם הַכִּפּוּרִים. נִדָּה וְיוֹלֶדֶת — טוֹבְלוֹת כְּדַרְכָּן בְּלֵילֵי יוֹם הַכִּפּוּרִים.
+*Translation:* **because he must recite *havdala* in** the blessing: **Who graciously grants knowledge,** and there is nowhere to insert this prayer in the abridged *Amida*. This indicates that these *tanna’im* maintained that *ne’ila* does not exempt one from the evening prayer. The Gemara answers: **It is** a dispute between ***tanna’im*, as it was taught** in a *baraita*: **Anyone who requires immersion immerses in his** usual **manner on Yom Kippur,** as this act does not violate the prohibition against **washing. A menstruating woman and a new mother,** who immerse at night, **immerse in their** usual **manner on the night of Yom Kippur.**
+
+**2.**
+*Hebrew/Aramaic:* בַּעַל קֶרִי — טוֹבֵל וְהוֹלֵךְ עַד הַמִּנְחָה. רַבִּי יוֹסֵי אוֹמֵר: כׇּל הַיּוֹם כּוּלּוֹ.
+*Translation:* The *baraita* continues: **One who had a seminal emission** during Yom Kippur before the afternoon prayer may **immerse at any point** in the day **until the afternoon prayer,** in order to be able to recite it. Ezra decreed that a man who has had a seminal emission must immerse in order to pray and study Torah. If the emission occurred after the afternoon prayer, he should not immerse then but should wait until darkness falls. Since the time for *ne’ila* is at night, this individual should wait and immerse after the fast has concluded, so as to avoid violation of the prohibition of washing on Yom Kippur, and then pray afterward. This indicates that *ne’ila* is a nighttime prayer, and therefore its recitation exempts one from the weekday evening prayer. **Rabbi Yosei says:** He may immerse **at any point in the day.** According to his opinion, the *ne’ila* prayer is recited while it is still daytime, and therefore the individual must immerse in the daytime in order to be able to recite it. Consequently, Rabbi Yosei holds that *ne’ila* does not exempt one from the evening prayer.
+
+**3.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ: הַזָּב וְהַזָּבָה הַמְצוֹרָע וְהַמְצוֹרַעַת וּבוֹעֵל נִדָּה וּטְמֵא מֵת — טוֹבְלִין כְּדַרְכָּן בְּיוֹם הַכִּפּוּרִים, נִדָּה וְיוֹלֶדֶת — טוֹבְלוֹת כְּדַרְכָּן בְּלֵילֵי יוֹם הַכִּפּוּרִים. בַּעַל קֶרִי — טוֹבֵל וְהוֹלֵךְ כׇּל הַיּוֹם כּוּלּוֹ, רַבִּי יוֹסֵי אוֹמֵר: מִן הַמִּנְחָה וּלְמַעְלָה אֵין יָכוֹל לִטְבּוֹל.
+*Translation:* The Gemara **raises a contradiction** with regard to this *baraita* from that which was taught: In the case of **the *zav*, and the *zava*, the male and female leper, and one who had relations with a menstruating woman, and one who is ritually impure** through contact with **a corpse,** if their time has come for purification, they **immerse in their** usual **manner on Yom Kippur. A menstruating woman and a woman after childbirth immerse in their** usual **manner on the night of Yom Kippur. One who had a seminal emission immerses at any point in the day. Rabbi Yosei says: From** the time of **the afternoon prayer onward he is not able to immerse.** This contradicts Rabbi Yosei’s statement in the previous *baraita*.
+
+**4.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא דְּצַלִּי תְּפִלַּת נְעִילָה, הָא דְּלָא צַלִּי.
+*Translation:* The Gemara answers: This is **not difficult. This** statement, in which Rabbi Yosei says that one may not immerse during the day, is referring to a case **where he** had already **prayed the *ne’ila* prayer** before he noticed his seminal emission. **That** statement, in which Rabbi Yosei says that one may immerse during the day, is referring to a case **where he had not** yet **prayed** the *ne’ila* prayer when he noticed his seminal emission, and he therefore immerses in order to pray *ne’ila*.
+
+**5.**
+*Hebrew/Aramaic:* אִי דְּצַלִּי, מַאי טַעְמַיְיהוּ דְּרַבָּנַן? קָא סָבְרִי רַבָּנַן: טְבִילָה בִּזְמַנָּהּ מִצְוָה.
+*Translation:* The Gemara asks: **If he had already prayed** *ne’ila* before he noticed his seminal emission, **what is the reasoning of the Rabbis,** who permit him to immerse on Yom Kippur? The immersion seems to have no purpose. The Gemara answers: **The Rabbis hold that immersion at its proper time** is **a mitzva,** even when one does not need to immerse to pray. Therefore, if the time for immersion falls on Yom Kippur, the individual should immerse as usual.
+
+**6.**
+*Hebrew/Aramaic:* מִכְּלָל דְּרַבִּי יוֹסֵי סָבַר לָאו מִצְוָה. וְהָתַנְיָא: הֲרֵי שֶׁהָיָה שֵׁם כָּתוּב עַל בְּשָׂרוֹ — הֲרֵי זֶה לֹא יִרְחַץ וְלֹא יָסוּךְ וְלֹא יַעֲמוֹד בִּמְקוֹם הַטִּנּוֹפֶת. נִזְדַּמְּנָה לוֹ טְבִילַת מִצְוָה — כּוֹרֵךְ עָלָיו גֶּמִי וְיוֹרֵד וְטוֹבֵל. רַבִּי יוֹסֵי אוֹמֵר: יוֹרֵד וְטוֹבֵל כְּדַרְכּוֹ וּבִלְבַד שֶׁלֹּא יְשַׁפְשֵׁף.
+*Translation:* The Gemara asks: **By inference, Rabbi Yosei holds** that immersion at its proper time is **not a mitzva. But wasn’t it taught** in a *baraita*: **If** God’s **name is written** in ink on one’s **flesh, he** may **not wash and he** may **not smear** it with oil lest he erase the name, **and he** may **not stand in a filthy place** out of respect for the name. **If his time came for an immersion** that is **a mitzva,** he must try to ensure that the name not be erased. He therefore **wraps a reed around it and descends and immerses. Rabbi Yosei says: He descends and immerses in his** usual **manner** and need not worry about erasing the name, **provided he does not rub** the place where the name is written.
+
+**7.**
+*Hebrew/Aramaic:* וְקַיְימָא לַן דְּבִטְבִילָה בִּזְמַנָּהּ, מִצְוָה פְּלִיגִי.
+*Translation:* **And we maintain** that **they disagree as to** whether or not **immersion at its** proper **time is a mitzva.** According to the Rabbis, immersion at its proper time is not a mitzva. Therefore, if the individual has no reed, he should wait even until the following day rather than immerse without it. However, Rabbi Yosei maintains that immersion at its proper time is a mitzva. Therefore, it must be done at its proper time, even if that requires immersion without covering God’s name.
+
+**8.**
+*Hebrew/Aramaic:* הָהִיא רַבִּי יוֹסֵי בַּר יְהוּדָה הִיא. דְּתַנְיָא, רַבִּי יוֹסֵי בַּר יְהוּדָה אוֹמֵר: דַּיָּהּ לִטְבִילָה שֶׁתְּהֵא בָּאַחֲרוֹנָה.
+*Translation:* The Gemara answers: **This** Rabbi Yosei mentioned in the *baraita* **is** actually **Rabbi Yosei bar Yehuda,** and this resolves the contradiction, **as it was taught** in a *baraita* that **Rabbi Yosei bar Yehuda says: It is sufficient for the immersion to be at the end.** According to one opinion, if a menstruating woman is uncertain on which day to immerse, she immerses multiple times to ensure that the required immersion is at its proper time. However, according to Rabbi Yosei bar Yehuda, it is sufficient for her to immerse once at a point when she is certainly pure. Consequently, according to his opinion, there is no mitzva to immerse at the proper time.
+
+**9.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הָרוֹאֶה קֶרִי בְּיוֹם הַכִּפּוּרִים — יוֹרֵד וְטוֹבֵל, וְלָעֶרֶב יְשַׁפְשֵׁף. לְעֶרֶב? מַאי דַּהֲוָה הֲוָה? אֶלָּא אֵימָא: מִבָּעֶרֶב יְשַׁפְשֵׁף. (קָא סָבַר מִצְוָה לְשַׁפְשֵׁף.)
+*Translation:* **The Sages taught: One who sees** an emission of **semen on Yom Kippur descends and immerses. And in the evening, he should rub** his skin to remove anything that might obstruct the immersion. The Gemara is surprised at this: Why should he do that **in the evening? What was, was.** Since he has already immersed, how will removing interpositions afterward benefit the immersion? **Rather, say** that **he should rub** his skin **from the evening** before Yom Kippur to remove any obstructions, in case it becomes necessary to immerse on Yom Kippur. The Gemara comments: **This** Master **holds** that **it is a mitzva to rub.**
+
+**10.**
+*Hebrew/Aramaic:* תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן: הָרוֹאֶה קֶרִי בְּיוֹם הַכִּפּוּרִים — עֲוֹנוֹתָיו מְחוּלִין לוֹ. וְהָתַנְיָא: עֲוֹנוֹתָיו סְדוּרִין! מַאי סְדוּרִין — סְדוּרִין לִימָּחֵל.
+*Translation:* § Apropos the *halakhot* of immersion for one who has had a seminal emission on Yom Kippur, the Gemara relates: **A *tanna* taught** a *baraita* **before Rav Naḥman:** With regard to **one who sees** an emission of **semen on Yom Kippur, his sins are forgiven.** The Gemara asks: **But wasn’t it taught** in a *baraita*: **His sins are arranged** before him? The Gemara answers: **What** is the meaning of **arranged? They are arranged** to be **forgiven.**
+
+**11.**
+*Hebrew/Aramaic:* תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: הָרוֹאֶה קֶרִי בְּיוֹם הַכִּפּוּרִים — יִדְאַג כׇּל הַשָּׁנָה כּוּלָּהּ, וְאִם עָלְתָה לוֹ שָׁנָה — מוּבְטָח לוֹ שֶׁהוּא בֶּן הָעוֹלָם הַבָּא. אָמַר רַב נַחְמָן בַּר יִצְחָק: תֵּדַע, שֶׁכׇּל הָעוֹלָם כּוּלּוֹ רָעֵב וְהוּא שָׂבֵעַ. כִּי אֲתָא רַב דִּימִי אָמַר: מַפֵּישׁ חַיֵּי סָגֵי וּמַסְגֵּי.
+*Translation:* **The school of Rabbi Yishmael taught: One who sees** an emission of **semen on Yom Kippur should worry the whole year** that perhaps he was given a sign that he and his fast were rejected. **But if he survives the year, he can be assured** that his good deeds protected him and ensured for him **a share** in **the World-to-Come. Rav Naḥman bar Yitzḥak said: Know** that it is so, **as the whole world is hungry** due to refraining from conjugal relations, **and he is satiated** since he emitted semen and his lust was subdued. Since the issue was involuntary and not intentional, it is a sign that he has merited divine compassion. **When Rav Dimi came from Eretz Yisrael** to Babylonia he said: Seeing semen on Yom Kippur is a sign that **one will live a long life, grow, and raise others.** An allusion to that is the verse: “That he might see his seed and prolong his days” (Isaiah 53:10).
+
+**12.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ יוֹם הַכִּפּוּרִים וּסְלִיקָא לַהּ מַסֶּכֶת יוֹמָא
+*Translation:* 

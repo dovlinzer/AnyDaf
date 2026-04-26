@@ -12,7 +12,7 @@ private let feedToCanonical: [String: String] = [
     "menahot":      "Menachot",
     "zevachim":     "Zevachim",
     "zevahim":      "Zevachim",
-    "taanit":       "Ta'anit",
+    "taanit":       "Ta\u{2019}anit",
     "meilah":       "Me'ilah",
     "berachot":     "Berakhot",
     "berachos":     "Berakhot",

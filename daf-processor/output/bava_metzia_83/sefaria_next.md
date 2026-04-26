@@ -1,0 +1,73 @@
+### Bava Metzia 84a
+
+**1.**
+*Hebrew/Aramaic:* כִּי הַאי מַעֲשֶׂה לִידֵיהּ. פְּגַע בֵּיהּ אֵלִיָּהוּ,
+*Translation:* **Elijah** the prophet **encountered him**
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: עַד מָתַי אַתָּה מוֹסֵר עַמּוֹ שֶׁל אֱלֹהֵינוּ לַהֲרִיגָה? אֲמַר לֵיהּ: מַאי אֶעֱבֵיד? הַרְמָנָא דְמַלְכָּא הוּא! אֲמַר לֵיהּ: אֲבוּךְ עֲרַק לְאַסְיָא, אַתְּ עֲרוֹק לְלוּדְקִיָּא.
+*Translation:* and **said to him: Until when** will **you inform on the nation of our God** to be sentenced **to execution?** Rabbi Yishmael, son of Rabbi Yosei, **said to** Elijah: **What should I do? It is the king’s edict** that I must obey. Elijah **said to him:** Faced with this choice, **your father fled to Asia. You** should **flee to Laodicea** rather than accept this appointment.
+
+**3.**
+*Hebrew/Aramaic:* כִּי הֲווֹ מִקַּלְעִי רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן בַּהֲדֵי הֲדָדֵי, הֲוָה עָיֵיל בַּקְרָא דְתוֹרֵי בֵּינַיְיהוּ וְלָא הֲוָה נָגְעָה בְּהוּ.
+*Translation:* § With regard to these Sages, the Gemara adds: **When Rabbi Yishmael, son of Rabbi Yosei, and Rabbi Elazar, son of Rabbi Shimon, would meet each other,** it was possible for **a pair of oxen to enter** and fit **between them,** under their bellies, **without touching them,** due to their excessive obesity.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַרָה לְהוּ הָהִיא מַטְרוֹנִיתָא: בְּנֵיכֶם אֵינָם שֶׁלָּכֶם. אֲמַרוּ לַהּ: שֶׁלָּהֶן גָּדוֹל מִשֶּׁלָּנוּ. כׇּל שֶׁכֵּן. אִיכָּא דְאָמְרִי, הָכִי אֲמַרוּ לַהּ: ״כִּי כָאִישׁ גְּבוּרָתוֹ״. אִיכָּא דְאָמְרִי הָכִי, אֲמַרוּ לַהּ: ״אַהֲבָה דּוֹחֶקֶת אֶת הַבָּשָׂר״.
+*Translation:* **A certain** Roman **noblewoman [*matronita*]** once **said to them: Your children are not** really **your own,** as due to your obesity it is impossible that you engaged in intercourse with your wives. **They said to her: Theirs,** i.e., our wives’ bellies, **are larger than ours.** She said to them: **All the more so** you could not have had intercourse. **There are** those **who say** that **this is what they said to her: “For as the man is, so is his strength”** (Judges 8:21), i.e., our sexual organs are proportionate to our bellies. **There are** those **who say** that **this is what they said to her: Love compresses the flesh.**
+
+**5.**
+*Hebrew/Aramaic:* וּלְמָה לְהוּ לְאַהְדּוֹרֵי לַהּ? וְהָא כְּתִיב: ״אַל תַּעַן כְּסִיל כְּאִוַּלְתּוֹ״! שֶׁלֹּא לְהוֹצִיא לַעַז עַל בְּנֵיהֶם.
+*Translation:* The Gemara asks: **And why did they respond to her** audacious and foolish question? After all, **it is written: “Answer not a fool according to his folly,** lest you also be like him” (Proverbs 26:4). The Gemara answers: They answered her **in order not to cast aspersions on** the lineage of **their children.**
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: אֵיבְרֵיהּ דְּרַבִּי יִשְׁמָעֵאל [בְּרַבִּי יוֹסֵי] כְּחֵמֶת בַּת תֵּשַׁע קַבִּין. אָמַר רַב פָּפָּא: אֵיבְרֵיהּ דְּרַבִּי יוֹחָנָן כְּחֵמֶת בַּת חֲמֵשֶׁת קַבִּין, וְאָמְרִי לַהּ בַּת שְׁלֹשֶׁת קַבִּין. דְּרַב פָּפָּא גּוּפֵיהּ כִּי דְקוּרֵי דְּהַרְפְּנָאֵי.
+*Translation:* The Gemara continues discussing the bodies of these Sages: **Rabbi Yoḥanan said:** The **organ of Rabbi Yishmael, son of Rabbi Yosei,** was the size **of a jug of nine *kav*. Rav Pappa said:** The **organ of Rabbi Yoḥanan** was the size **of a jug of five *kav*, and some say** it was the size of a jug **of three *kav*. Rav Pappa himself** had a belly **like the baskets [*dikurei*]** made **in Harpanya.**
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: אֲנָא אִשְׁתַּיַּירִי מִשַּׁפִּירֵי יְרוּשָׁלַיִם הַאי מַאן דְּבָעֵי מִחְזֵי שׁוּפְרֵיהּ דְּרַבִּי יוֹחָנָן, נַיְיתֵי כָּסָא דְכַסְפָּא מִבֵּי סִלְקֵי, וּנְמַלְּיֵיהּ פַּרְצִידַיָּא דְּרוּמָּנָא סוּמָּקָא, וְנַהְדַּר לֵיהּ כְּלִילָא דְּוַורְדָּא סוּמָּקָא לְפוּמֵּיהּ, וְנוֹתְבֵיהּ בֵּין שִׁמְשָׁא לְטוּלָּא, (הָהוּא) [הָנְהוּ] זַהֲרוּרֵי מֵעֵין שׁוּפְרֵיהּ דְּרַבִּי יוֹחָנָן.
+*Translation:* With regard to Rabbi Yoḥanan’s physical features, the Gemara adds that **Rabbi Yoḥanan said: I** alone **remain of the beautiful** people **of Jerusalem.** The Gemara continues: **One who wishes to see** something resembling **the beauty of Rabbi Yoḥanan should bring** a new, shiny **silver goblet from the smithy and fill it** with **red pomegranate seeds [*partzidaya*] and place a diadem of red roses upon** the **lip** of the goblet, **and position it between the sunlight and shade. That luster** is **a semblance of Rabbi Yoḥanan’s beauty.**
+
+**8.**
+*Hebrew/Aramaic:* אִינִי? וְהָאָמַר מָר: שׁוּפְרֵיהּ דְּרַב כָּהֲנָא מֵעֵין שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ, שׁוּפְרֵיהּ דְּרַבִּי אֲבָהוּ מֵעֵין שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ, שׁוּפְרֵיהּ דְּיַעֲקֹב אָבִינוּ מֵעֵין שׁוּפְרֵיהּ דְּאָדָם הָרִאשׁוֹן! וְאִילּוּ רַבִּי יוֹחָנָן לָא קָא חָשֵׁיב לֵיהּ! שָׁאנֵי רַבִּי יוֹחָנָן, דְּהַדְרַת פָּנִים לָא הַוְיָא לֵיהּ.
+*Translation:* The Gemara asks: **Is that so?** Was Rabbi Yoḥanan so beautiful? **But doesn’t the Master say: The beauty of Rav Kahana** is **a semblance of the beauty of Rabbi Abbahu; the beauty of Rabbi Abbahu** is **a semblance of the beauty of Jacob, our forefather;** and **the beauty of Jacob, our forefather,** is **a semblance of the beauty of Adam the first** man, who was created in the image of God. **And yet Rabbi Yoḥanan is not included** in this list. The Gemara answers: **Rabbi Yoḥanan** is **different** from these other men, **as he did not have a beauty of countenance,** i.e., he did not have a beard.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי יוֹחָנָן הֲוָה אָזֵיל וְיָתֵיב אַשַּׁעֲרֵי טְבִילָה, אֲמַר: כִּי סָלְקָן בְּנוֹת יִשְׂרָאֵל מִטְּבִילַת מִצְוָה לִפְגְּעוּ בִּי, כִּי הֵיכִי דְּלֶהֱווֹ לְהוּ בְּנֵי שַׁפִּירֵי כְּווֹתִי, גְּמִירִי אוֹרָיְיתָא כְּווֹתִי.
+*Translation:* The Gemara continues to discuss Rabbi Yoḥanan’s beauty. **Rabbi Yoḥanan would go and sit by the entrance to the ritual bath. He said** to himself: **When Jewish women come up from** their **immersion** for the sake **of a mitzva,** after their menstruation, **they should encounter me** first, **so that they have beautiful children like me,** and sons **learned in Torah like me.** This is based on the idea that the image upon which a woman meditates during intercourse affects the child she conceives.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַרוּ לֵיהּ רַבָּנַן: לָא מִסְתְּפֵי מָר מֵעֵינָא בִּישָׁא? אֲמַר לְהוּ: אֲנָא מִזַּרְעָא דְּיוֹסֵף קָאָתֵינָא, דְּלָא שָׁלְטָא בֵּיהּ עֵינָא בִּישָׁא. דִּכְתִיב: ״בֵּן פֹּרָת יוֹסֵף בֵּן פֹּרָת עֲלֵי עָיִן״, וְאָמַר רַבִּי אֲבָהוּ: אַל תִּקְרֵי ״עֲלֵי עָיִן״ אֶלָּא ״עוֹלֵי עָיִן״.
+*Translation:* **The Rabbis said to** Rabbi Yoḥanan: **Isn’t the Master worried about** being harmed by **the evil eye** by displaying yourself in this manner? Rabbi Yoḥanan **said to them: I come from the offspring of Joseph, over whom the evil eye does not have dominion, as it is written: “Joseph is a fruitful vine, a fruitful vine by a fountain [*alei ayin*]”** (Genesis 49:22); **and Rabbi Abbahu says: Do not read** the verse as saying: **“By a fountain [*alei ayin*]”; rather,** read it as: **Those who rise above** the evil **eye [*olei ayin*].** Joseph’s descendants are not susceptible to the influence of the evil eye.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי בַּר חֲנִינָא אֲמַר מֵהָכָא: ״וְיִדְגּוּ לָרֹב בְּקֶרֶב הָאָרֶץ״, מָה דָּגִים שֶׁבַּיָּם מַיִם מְכַסִּים אוֹתָם וְאֵין הָעַיִן שׁוֹלֶטֶת בָּהֶן – אַף זַרְעוֹ שֶׁל יוֹסֵף אֵין הָעַיִן שׁוֹלֶטֶת בָּהֶן.
+*Translation:* **Rabbi Yosei bar Ḥanina said** that this idea is derived **from here: “And let them grow [*veyidgu*] into a multitude in the midst of the earth”** (Genesis 48:16). **Just as** with regard to **fish [*dagim*] in the sea, the water covers them and the** evil **eye** therefore **has no dominion over them,** as they are not seen, **so too,** with regard to **the offspring of Joseph, the** evil **eye has no dominion over them.**
+
+**12.**
+*Hebrew/Aramaic:* יוֹמָא חַד הֲוָה קָא סָחֵי רַבִּי יוֹחָנָן בְּיַרְדְּנָא. חַזְיֵיהּ רֵישׁ לָקִישׁ וּשְׁוַור לְיַרְדְּנָא אַבָּתְרֵיהּ. אֲמַר לֵיהּ חֵילָךְ לְאוֹרָיְיתָא. אֲמַר לֵיהּ שׁוּפְרָךְ לְנָשֵׁי. אֲמַר לֵיהּ אִי הָדְרַתְּ בָּךְ יָהֵיבְנָא לָךְ אֲחוֹתִי, דְּשַׁפִּירָא מִינַּאי. קַבֵּיל עֲלֵיהּ. בָּעֵי לְמִיהְדַּר לְאֵתוֹיֵי מָאנֵיהּ וְלָא מָצֵי הָדַר.
+*Translation:* The Gemara relates: **One day, Rabbi Yoḥanan was bathing in the Jordan** River. **Reish Lakish saw him and jumped into the Jordan, pursuing him.** At that time, Reish Lakish was the leader of a band of marauders. Rabbi Yoḥanan **said to** Reish Lakish: **Your strength** is fit **for Torah** study. Reish Lakish **said to him: Your beauty** is fit **for women.** Rabbi Yoḥanan **said to him: If you return** to the pursuit of Torah, **I will give you my sister** in marriage, **who is more beautiful than I am.** Reish Lakish **accepted upon himself** to study Torah. Subsequently, Reish Lakish **wanted to jump back** out of the river **to bring** back **his clothes, but he was unable to return,** as he had lost his physical strength as soon as he accepted the responsibility to study Torah upon himself.
+
+**13.**
+*Hebrew/Aramaic:* אַקְרְיֵיהּ וְאַתְנְיֵיהּ וְשַׁוְּיֵיהּ גַּבְרָא רַבָּא. יוֹמָא חַד הֲווֹ מִפַּלְגִי בֵּי מִדְרְשָׁא: הַסַּיִיף וְהַסַּכִּין וְהַפִּגְיוֹן וְהָרוֹמַח וּמַגַּל יָד וּמַגַּל קָצִיר מֵאֵימָתַי מְקַבְּלִין טוּמְאָה – מִשְּׁעַת גְּמַר מְלַאכְתָּן.
+*Translation:* Rabbi Yoḥanan **taught** Reish Lakish **Bible, and taught him Mishna, and turned him into a great man.** Eventually, Reish Lakish became one of the outstanding Torah scholars of his generation. **One day** the Sages **of the study hall were engaging in a dispute** concerning the following *baraita*: With regard to **the sword, the knife, the dagger [*vehapigyon*], the spear, a hand sickle, and a harvest sickle, from when are they susceptible to ritual impurity?** The *baraita* answers: It is **from the time of the completion of their manufacture,** which is the *halakha* with regard to metal vessels in general.
+
+**14.**
+*Hebrew/Aramaic:* וּמֵאֵימָתַי גְּמַר מְלַאכְתָּן? רַבִּי יוֹחָנָן אוֹמֵר: מִשֶּׁיְּצָרְפֵם בַּכִּבְשָׁן. רֵישׁ לָקִישׁ אָמַר: מִשֶּׁיְּצַחְצְחֵן בְּמַיִם. אֲמַר לֵיהּ לִסְטָאָה בְּלִסְטְיוּתֵיהּ יָדַע. אֲמַר לֵיהּ: וּמַאי אַהֲנֵית לִי? הָתָם ״רַבִּי״ קָרוּ לִי, הָכָא ״רַבִּי״ קָרוּ לִי! אֲמַר לֵיהּ: אַהֲנַאי לָךְ דַּאֲקָרְבִינָּךְ תַּחַת כַּנְפֵי הַשְּׁכִינָה.
+*Translation:* These Sages inquired: **And when is the completion of their manufacture? Rabbi Yoḥanan says:** It is **from when one fires** these items **in the furnace. Reish Lakish said:** It is **from when one scours them in water,** after they have been fired in the furnace. Rabbi Yoḥanan **said to** Reish Lakish: **A bandit knows about his banditry,** i.e., you are an expert in weaponry because you were a bandit in your youth. Reish Lakish **said to** Rabbi Yoḥanan: **What benefit did you provide me** by bringing me close to Torah? **There,** among the bandits, **they called me: Leader** of the bandits, and **here,** too, **they call me: Leader** of the bandits. Rabbi Yoḥanan **said to him: I provided benefit to you, as I brought you close** to God, **under the wings of the Divine Presence.**
+
+**15.**
+*Hebrew/Aramaic:* חֲלַשׁ דַּעְתֵּיהּ דְּרַבִּי יוֹחָנָן, חֲלַשׁ רֵישׁ לָקִישׁ. אֲתַאי אֲחָתֵיהּ קָא בָכְיָא. אֲמַרָה לֵיהּ: עֲשֵׂה בִּשְׁבִיל בָּנַי! אֲמַר לַהּ: ״עׇזְבָה יְתֹמֶיךָ אֲנִי אֲחַיֶּה״. עֲשֵׂה בִּשְׁבִיל אַלְמְנוּתִי! אֲמַר לַהּ: ״וְאַלְמְנוֹתֶיךָ עָלַי תִּבְטָחוּ״.
+*Translation:* As a result of the quarrel, **Rabbi Yoḥanan was offended,** which in turn affected **Reish Lakish,** who **fell ill.** Rabbi Yoḥanan’s **sister,** who was Reish Lakish’s wife, **came crying** to Rabbi Yoḥanan, begging that he pray for Reish Lakish’s recovery. **She said to him: Do** this **for the sake of my children,** so that they should have a father. Rabbi Yoḥanan **said to her** the verse: **“Leave your fatherless children, I will rear them”** (Jeremiah 49:11), i.e., I will take care of them. She said to him: **Do** so **for the sake of my widowhood. He said to her** the rest of the verse: **“And let your widows trust in Me.”**
+
+**16.**
+*Hebrew/Aramaic:* נָח נַפְשֵׁיהּ דְּרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, וַהֲוָה קָא מִצְטַעַר רַבִּי יוֹחָנָן בָּתְרֵיהּ טוּבָא. אֲמַרוּ רַבָּנַן: מַאן לֵיזִיל לְיַתֹּבֵיהּ לְדַעְתֵּיהּ? נֵיזִיל רַבִּי אֶלְעָזָר בֶּן פְּדָת, דִּמְחַדְּדָין שְׁמַעְתָּתֵיהּ.
+*Translation:* Ultimately, **Rabbi Shimon ben Lakish,** Reish Lakish, **died. Rabbi Yoḥanan was sorely pained over** losing **him. The Rabbis said: Who will go to calm** Rabbi Yoḥanan’s **mind** and comfort him over his loss? They said: **Let Rabbi Elazar ben Pedat go, as his statements are sharp,** i.e., he is clever and will be able to serve as a substitute for Reish Lakish.
+
+**17.**
+*Hebrew/Aramaic:* אֲזַל יְתֵיב קַמֵּיהּ. כֹּל מִילְּתָא דַּהֲוָה אָמַר רַבִּי יוֹחָנָן אֲמַר לֵיהּ: תַּנְיָא דִּמְסַיְּיעָא לָךְ. אֲמַר: אַתְּ כְּבַר לְקִישָׁא?! בַּר לְקִישָׁא, כִּי הֲוָה אָמֵינָא מִילְּתָא, הֲוָה מַקְשֵׁי לִי עֶשְׂרִין וְאַרְבַּע קוּשְׁיָיתָא, וּמְפָרְקִינָא לֵיהּ עֶשְׂרִין וְאַרְבְּעָה פֵּרוּקֵי, וּמִמֵּילָא רָוְוחָא שְׁמַעְתָּא. וְאַתְּ אָמְרַתְּ: ״תַּנְיָא דִּמְסַיַּיע לָךְ״, אַטּוּ לָא יָדַעְנָא דְּשַׁפִּיר קָאָמֵינָא?
+*Translation:* Rabbi Elazar ben Pedat **went and sat before** Rabbi Yoḥanan. With regard to **every matter that Rabbi Yoḥanan would say,** Rabbi Elazar ben Pedat would **say to him:** There is a ruling which **is taught** in a *baraita* **that supports your** opinion. Rabbi Yoḥanan **said** to him: **Are you** comparable **to the son of Lakish?** In my discussions with **the son of Lakish, when I would state a matter, he would raise twenty-four difficulties against me** in an attempt to disprove my claim, **and I would answer him with twenty-four answers, and the *halakha* by itself would become broadened** and clarified. **And** yet **you say** to me: There is a ruling which **is taught** in a *baraita* **that supports your** opinion. **Do I not know that what I say is good?** Being rebutted by Reish Lakish served a purpose; your bringing proof to my statements does not.
+
+**18.**
+*Hebrew/Aramaic:* הֲוָה קָא אָזֵיל וְקָרַע מָאנֵיהּ וְקָא בָכֵי וְאָמַר: ״הֵיכָא אַתְּ בַּר לָקִישָׁא, הֵיכָא אַתְּ בַּר לָקִישָׁא״! וַהֲוָה קָא צָוַח עַד דְּשָׁף דַּעְתֵּיהּ מִינֵּיהּ. בְּעוֹ רַבָּנַן רַחֲמֵי עֲלֵיהּ וְנָח נַפְשֵׁיהּ.
+*Translation:* Rabbi Yoḥanan **went around, rending his clothing, weeping and saying: Where are you, son of Lakish? Where are you, son of Lakish?** Rabbi Yoḥanan **screamed until his mind was taken from him,** i.e., he went insane. **The Rabbis** prayed and **requested** for God to have **mercy on him** and take his soul, **and** Rabbi Yoḥanan **died.**

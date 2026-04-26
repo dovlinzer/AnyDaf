@@ -1,0 +1,106 @@
+### Nedarim 38a
+
+**1.**
+*Hebrew/Aramaic:* ״זֹאת״ ״דְּ״הַמִּצְוָה״, ״יִדְרֹךְ״ דְּ״הַדֹּרֵךְ״, ״חֲמֵשׁ״ דִּ״פְאַת נֶגֶב״, ״אִם״ דְּ״כִי גֹאֵל״ — הָלֵין כְּתִבָן וְלָא קַרְיָין.
+*Translation:* The same is true for **“this” that** is in the verse “and this is **the mitzva”** (Deuteronomy 6:1); and for **“bend” that** is in the verse “let **the archer** bend his bow” (Jeremiah 51:3); and for **“five” that** is in the verse “and **the south side** four thousand and five hundred” (Ezekiel 48:16); and for **“if” that** is in the verse **“that** if I am **a near kinsman”** (Ruth 3:12). All **these are written but not read.**
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב אַחָא בַּר אַדָּא: בְּמַעְרְבָא פָּסְקִין לְהָדֵין פְּסוּקָא לִתְלָתָא פְּסוּקִין: ״וַיֹּאמֶר ה׳ אֶל מֹשֶׁה הִנֵּה אָנֹכִי בָּא אֵלֶיךָ בְּעַב הֶעָנָן״.
+*Translation:* **Rav Aḥa bar Adda said: In the West,** Eretz Yisrael, they **divide this verse into three verses: “And the Lord said to Moses, behold I come to you in a thick cloud,** that the people may hear as I speak with you, and may also believe in you forever; and Moses told the words of the people unto the Lord” (Exodus 19:9).
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חָמָא בְּרַבִּי חֲנִינָא: לֹא הֶעֱשִׁיר מֹשֶׁה אֶלָּא מִפְּסוֹלְתָּן שֶׁל לוּחוֹת, שֶׁנֶּאֱמַר: ״פְּסׇל לְךָ שְׁנֵי לֻחֹת אֲבָנִים כָּרִאשֹׁנִים״ — פְּסוֹלְתָּן שֶׁלְּךָ יְהֵא.
+*Translation:* § **Rabbi Ḥama, son of Rabbi Ḥanina, said: Moses became wealthy only from the waste** remaining **from** hewing **the Tablets** of the Covenant, **as it is stated: “Hew for you two tablets of stone like the first”** (Exodus 34:1). “Hew for you” means that **their waste shall be yours.** As the tablets were crafted from valuable gems, their remnants were similarly valuable.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: לֹא נִיתְּנָה תּוֹרָה אֶלָּא לְמֹשֶׁה וּלְזַרְעוֹ, שֶׁנֶּאֱמַר: ״כְּתׇב לְךָ״, ״פְּסׇל לְךָ״: מָה פְּסוֹלְתָּן שֶׁלְּךָ — אַף כְּתָבָן שֶׁלְּךָ. מֹשֶׁה נָהַג בָּהּ טוֹבַת עַיִן וּנְתָנָהּ לְיִשְׂרָאֵל, וְעָלָיו הַכָּתוּב אוֹמֵר: ״טוֹב עַיִן הוּא יְבֹרָךְ וְגוֹ׳״.
+*Translation:* **Rabbi Yosei, son of Rabbi Ḥanina, said: The Torah was given** initially **only to Moses and his descendants, as it is stated: “Write for you”** (Exodus 34:27), and it is also stated: **“Hew for you”** (Exodus 34:1), meaning: **Just as their waste is yours, so too their writing is yours.** However, **Moses treated** the Torah **with generosity and gave it to the Jewish people. And about him, the verse says: “He that has a bountiful eye shall be blessed,** as he gives of his bread to the poor” (Proverbs 22:9).
+
+**5.**
+*Hebrew/Aramaic:* מֵתִיב רַב חִסְדָּא: ״וְאֹתִי צִוָּה ה׳ בָּעֵת הַהִיא לְלַמֵּד אֶתְכֶם״ — וְאוֹתִי צִוָּה, וַאֲנִי לָכֶם. ״רְאֵה לִמַּדְתִּי אֶתְכֶם חֻקִּים וּמִשְׁפָּטִים כַּאֲשֶׁר צִוַּנִי ה׳ אֱלֹהָי״ — אוֹתִי צִוָּה, וַאֲנִי לָכֶם.
+*Translation:* **Rav Ḥisda raised an objection** from the verse that states: **“And the Lord commanded me at that time to teach you** statutes and laws” (Deuteronomy 4:14). This indicates that Moses was commanded to teach Torah to the Jewish people from the outset. The Gemara answers: The verse means: **And the Lord commanded** the Torah to **me,** Moses, **and I,** on my own initiative, decided **to** teach **you** its statutes and laws. The Gemara cites an additional verse proving that God commanded to teach the Jewish people from the outset: **“Behold, I have taught you statutes and laws, as the Lord my God commanded me”** (Deuteronomy 4:5). The Gemara answers: **The Lord commanded** the Torah to **me,** Moses, **and I** decided **to** teach **you** statutes and laws.
+
+**6.**
+*Hebrew/Aramaic:* ״וְעַתָּה כִּתְבוּ לָכֶם אֶת הַשִּׁירָה הַזֹּאת״, הַשִּׁירָה לְחוּדַּהּ. ״לְמַעַן תִּהְיֶה לִּי הַשִּׁירָה הַזֹּאת לְעֵד בִּבְנֵי יִשְׂרָאֵל״! אֶלָּא, פִּילְפּוּלָא בְּעָלְמָא.
+*Translation:* The Gemara cites an additional verse: **“Now therefore write this song for you,** and teach it the children of Israel” (Deuteronomy 31:19). Apparently, Moses was commanded to teach the Torah to the Jewish people. The Gemara answers: The verse is referring to **the song** of *Ha’azinu* (Deuteronomy 31) **alone** and not to the rest of the Torah. The Gemara asks: But the continuation of that cited verse: **“That this song may be a witness for Me among the children of Israel”** (Deuteronomy 31:19), indicates that the reference is to the entire Torah, in which the mitzvot are written. Rather, the Torah was given from the outset to all of the Jewish people, and when Rabbi Yosei, son of Rabbi Ḥanina, said that the Torah was given exclusively to Moses, he was referring **merely** to the **profound analysis** of the Torah. Moses opted to teach it to the people on his own initiative.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא מַשְׁרֶה שְׁכִינָתוֹ אֶלָּא עַל גִּבּוֹר וְעָשִׁיר וְחָכָם וְעָנָיו, וְכוּלָּן מִמֹּשֶׁה. גִּבּוֹר, דִּכְתִיב: ״וַיִּפְרֹשׂ אֶת הָאֹהֶל עַל הַמִּשְׁכָּן״, וְאָמַר מָר: מֹשֶׁה רַבֵּינוּ פְּרָסוֹ, וּכְתִיב: ״עֶשֶׂר אַמּוֹת אֹרֶךְ הַקָּרֶשׁ וְגוֹ׳״. אֵימָא דַּאֲרִיךְ וְקַטִּין!
+*Translation:* **Rabbi Yoḥanan said: The Holy One, Blessed be He, rests His Divine Presence only upon** one who is **mighty, and wealthy, and wise, and humble. And all of these** qualities are derived **from Moses.** He was **mighty, as it is written: “And he spread the tent over the Tabernacle”** (Exodus 40:19), **and the Master said: Moses, our teacher, spread it** himself. **And it is written: “Ten cubits shall be the length of a board,** and a cubit and a half the breadth of each board” (Exodus 26:16). Moses was tall and strong enough to spread the tent over the boards alone. The Gemara asks: **Say that he was tall and thin,** and the fact that he was mighty cannot be derived.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא מִן הָדֵין קְרָא, דִּכְתִיב: ״וָאֶתְפֹּשׂ בִּשְׁנֵי הַלֻּחֹת וָאַשְׁלִכֵם מֵעַל שְׁתֵּי יָדָי וָאֲשַׁבְּרֵם״, וְתַנְיָא: הַלּוּחוֹת אׇרְכָּן שִׁשָּׁה וְרׇחְבָּן שִׁשָּׁה וְעׇבְיָין שְׁלֹשָׁה.
+*Translation:* **Rather,** the fact that Moses was mighty is derived **from this verse, as it is written: “And I took hold of the two tablets, and cast them out of my two hands, and broke them** before your eyes” (Deuteronomy 9:17), **and it is taught** in a *baraita*: **The tablets, their length was six** handbreadths, **and their width was six** handbreadths, **and their thickness was three** handbreadths. If Moses was capable of lifting and casting a burden that heavy, apparently he was mighty.
+
+**9.**
+*Hebrew/Aramaic:* עָשִׁיר — ״פְּסׇל לָךְ״, פְּסוֹלְתָּן שֶׁלְּךָ יְהֵא. חָכָם — רַב וּשְׁמוּאֵל דְּאָמְרִי תַּרְוַיְיהוּ: חֲמִשִּׁים שַׁעֲרֵי בִינָה נִבְרְאוּ בָּעוֹלָם, וְכוּלָּם נִתְּנוּ לְמֹשֶׁה חָסֵר אַחַת, שֶׁנֶּאֱמַר: ״וַתְּחַסְּרֵהוּ מְעַט מֵאֱלֹהִים״. עָנָיו — דִּכְתִיב: ״וְהָאִישׁ מֹשֶׁה עָנָו מְאֹד״.
+*Translation:* Moses was **wealthy,** as it is written: **“Hew for you”** (Exodus 34:1), from which it was derived: The **waste** of the Tablets of the Covenant **shall be yours,** and that waste consisted of precious stones. That Moses **was wise** is derived from the statement of **Rav and Shmuel, who both say: Fifty measures of understanding were created in the world, and all were given to Moses except one, as it is stated: “Yet you have deprived him of little, of God”** (Psalms 8:6). He lacked only complete knowledge of God. Moses was **humble, as it is written: “Now the man Moses was very humble”** (Numbers 12:3).
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: כׇּל הַנְּבִיאִים עֲשִׁירִים הָיוּ, מְנָלַן — מִמֹּשֶׁה וּמִשְּׁמוּאֵל מֵעָמוֹס וּמִיּוֹנָה.
+*Translation:* § **Rabbi Yoḥanan said: All the prophets were wealthy. From where do we** derive this? It is derived **from Moses, and from Samuel,** and **from Amos, and from Jonah,** who were all wealthy.
+
+**11.**
+*Hebrew/Aramaic:* מֹשֶׁה — דִּכְתִיב: ״לֹא חֲמוֹר אֶחָד מֵהֶם נָשָׂאתִי״. אִי בְּלָא אַגְרָא, לְאַפּוֹקֵי מַאן דְּשָׁקֵל בְּלָא אַגְרָא? אֶלָּא דַּאֲפִילּוּ בְּאַגְרָא. דִּילְמָא מִשּׁוּם דְּעָנִי הֲוָה. אֶלָּא מִן ״פְּסׇל לָךְ״ — פְּסוֹלְתָּן יְהֵא שֶׁלְּךָ.
+*Translation:* **Moses** was wealthy, **as it is written: “I have not taken one donkey from them”** (Numbers 16:15). The Gemara analyzes the statement of Moses. **If** he said that he did not take a donkey **without payment,** was his intent **to exclude** himself from the category of **one who takes** items that belong to others **without paying?** That is obvious, as one who does so is a thief. **Rather,** he said **that even with payment** he did not take a donkey. Apparently, he was wealthy and did not need to purchase anything. The Gemara rejects this proof. **Perhaps,** on the contrary, he did not purchase a donkey **because he was poor** and could not afford it. **Rather,** it is derived from the verse written with regard to the Tablets of the Covenant: **“Hew for you”** (Exodus 34:1), which indicates that **their waste shall be yours.**
+
+**12.**
+*Hebrew/Aramaic:* שְׁמוּאֵל, דִּכְתִיב: ״הִנְנִי עֲנוּ בִי נֶגֶד ה׳ וְנֶגֶד מְשִׁיחוֹ אֶת שׁוֹר מִי לָקַחְתִּי וַחֲמוֹר מִי לָקַחְתִּי״. אִי בְּחִנָּם, לְאַפּוֹקֵי מַאן דְּשָׁקֵל בְּחִנָּם?! אֶלָּא, דַּאֲפִילּוּ בְּשָׂכָר. דִּלְמָא דְּעָנִי הֲוָה, אֶלָּא מֵהָכָא: ״וּתְשֻׁבָתוֹ הָרָמָתָה כִּי שָׁם בֵּיתוֹ״, וְאָמַר רָבָא: כׇּל מָקוֹם שֶׁהָלַךְ — בֵּיתוֹ עִמּוֹ.
+*Translation:* **Samuel** was wealthy, **as it is written: “Here I am; witness against me before the Lord, and before His anointed: Whose ox have I taken, or whose donkey have I taken?”** (I Samuel 12:3). **If** he is saying that he did not take an ox or a donkey **for free,** was his intent **to exclude** himself from the category of **one who takes** items that belong to others **for free? Rather,** he is saying **that even with payment** he did not take a donkey or an ox. Apparently, he was wealthy. The Gemara rejects this proof. **Perhaps,** on the contrary, the reason he did not purchase the donkeys is due to the fact **that he was poor. Rather,** the fact that Samuel was wealthy is derived **from here,** as it is written: **“And his return was to Ramah, for there was his house”** (I Samuel 7:17). **And Rava said: Everywhere he went, his home was with him.** He was so wealthy that he could afford to hire servants and pack animals to take all his belongings from place to place.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רָבָא: גָּדוֹל מַה שֶּׁנֶּאֱמַר בִּשְׁמוּאֵל יוֹתֵר מִשֶּׁנֶּאֱמַר בְּמֹשֶׁה, דְּאִילּוּ בְּמֹשֶׁה רַבֵּינוּ כְּתִיב ״לֹא חֲמוֹר אֶחָד מֵהֶם נָשָׂאתִי״, דַּאֲפִילּוּ בְּשָׂכָר, וְאִילּוּ גַּבֵּי שְׁמוּאֵל אֲפִילּוּ בְּרָצוֹן לֹא שְׂכָרוֹ, דִּכְתִיב: ״וַיֹּאמְרוּ לֹא עֲשַׁקְתָּנוּ וְלֹא רַצּוֹתָנוּ וְגוֹ׳״.
+*Translation:* **Rava said: That which is stated with regard to Samuel is greater than that which is stated with regard to Moses, as with regard to Moses our teacher it is written: “I have not taken one donkey from them”** (Numbers 16:15), meaning that he did not take an item from another against his will **even with payment. Whereas with regard to Samuel, even with** the **consent** of the owner, **he would not rent** an item from him, **as it is written: “And they said: You have not defrauded us, nor oppressed us [*ratzotanu*],** neither have you taken anything from any man’s hand” (I Samuel 12:4), even with his consent [*ratzon*].
+
+**14.**
+*Hebrew/Aramaic:* עָמוֹס, דִּכְתִיב: ״וַיַּעַן עָמוֹס וַיֹּאמֶר אֶל אֲמַצְיָה לֹא נָבִיא אָנֹכִי וְלֹא בֶן נָבִיא אָנֹכִי כִּי בוֹקֵר אָנֹכִי וּבוֹלֵס שִׁקְמִים״, כְּדִמְתַרְגֵּם רַב יוֹסֵף: אֲרִי מָרֵי גִיתֵּי אֲנָא וְשִׁקְמִין לִי בְּשָׁפֵלְתָּא וְגוֹ׳.
+*Translation:* **Amos** was wealthy, **as it is written: “Then answered Amos, and said to Amaziah: I am neither a prophet, nor son of a prophet, but I am a herdsman, and a dresser of sycamore-trees”** (Amos 7:14). Amos is saying, **as Rav Yosef translates: Because I am the owner of flocks and I have sycamores in the lowland,** and I do not come to prophesy for financial gain. Apparently, Amos was wealthy.
+
+**15.**
+*Hebrew/Aramaic:* יוֹנָה, דִּכְתִיב: ״וַיִּתֵּן שְׂכָרָהּ וַיֵּרֶד בָּהּ״, וְאָמַר רַבִּי יוֹחָנָן: שֶׁנָּתַן שְׂכָרָהּ שֶׁל סְפִינָה כּוּלָּהּ. אָמַר רַבִּי רוֹמָנוּס: שְׂכָרָהּ שֶׁל סְפִינָה הָוְיָא אַרְבַּעַת אֲלָפִים דִּינָרֵי דַהֲבָא.
+*Translation:* **Jonah** was wealthy, **as it is written:** “And he went down to Jaffa, and found a ship going to Tarshish, **so he paid its cost and went down into it”** (Jonah 1:3), **and Rabbi Yoḥanan said: He paid the cost of the entire ship. Rabbi Romanus said: The cost for the** entire **ship was four thousand gold dinars.**
+
+**16.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: בַּתְּחִלָּה הָיָה מֹשֶׁה לָמֵד תּוֹרָה וּמְשַׁכְּחָה, עַד שֶׁנִּיתְּנָה לוֹ בְּמַתָּנָה, שֶׁנֶּאֱמַר: ״וַיִּתֵּן אֶל מֹשֶׁה כְּכַלֹּתוֹ לְדַבֵּר אִתּוֹ״.
+*Translation:* **And Rabbi Yoḥanan said: Initially, Moses would study Torah and forget it, until it was given to him as a gift, as it is stated: “And He gave it to Moses when he concluded speaking with him”** (Exodus 31:18). Once the Torah was given him as a gift, it became his and he was able to remember it.
+
+**17.**
+*Hebrew/Aramaic:* מַתְנִי׳ וְזָן אֶת אִשְׁתּוֹ וְאֶת בָּנָיו, אַף עַל פִּי שֶׁהוּא חַיָּיב בִּמְזוֹנוֹתָן. וְלֹא יָזוּן אֶת בְּהֶמְתּוֹ, בֵּין טְמֵאָה בֵּין טְהוֹרָה. רַבִּי אֱלִיעֶזֶר אוֹמֵר: זָן אֶת הַטְּמֵאָה, וְאֵינוֹ זָן אֶת הַטְּהוֹרָה. אָמְרוּ לוֹ: מָה בֵּין טְמֵאָה לִטְהוֹרָה? אָמַר לְהוּ: שֶׁהַטְּהוֹרָה נַפְשָׁהּ לַשָּׁמַיִם וְגוּפָהּ שֶׁלּוֹ, וּטְמֵאָה
+*Translation:* MISHNA: **And** with regard to one for whom benefit from another is forbidden by vow, that other person **may feed** his **wife and children, although** the one who is bound by the vow **is obligated in their support** and benefits when another supports them. **And he may not feed his animal, whether** it is **a kosher** animal or **whether** it is **a non-kosher** animal. **Rabbi Eliezer says: He may feed the non-kosher** animal, **and he may not feed the kosher** animal. The Rabbis **said to him: What is** the difference **between kosher and non-kosher** animals in this respect? Rabbi Eliezer **said to them: The kosher** animal’s **being** belongs **to Heaven, and** the animal’s **body is** the property of its owner, as he can eat it. Therefore, the owner benefits directly when another feeds his animal. **And a non-kosher** animal,
+
+
+---
+
+### Nedarim 38b
+
+**1.**
+*Hebrew/Aramaic:* נַפְשָׁהּ וְגוּפָהּ לַשָּׁמַיִם. אָמְרוּ לוֹ: אַף הַטְּמֵאָה נַפְשָׁהּ לַשָּׁמַיִם וְגוּפָהּ שֶׁלּוֹ, שֶׁאִם יִרְצֶה הֲרֵי הוּא מוֹכְרָהּ לַגּוֹיִם אוֹ מַאֲכִילָהּ לַכְּלָבִים.
+*Translation:* both **its being and its body** belong **to Heaven,** as it is prohibited for its owner to eat its meat. The Rabbis **said to him: The non-kosher** animal **too, its being** belongs **to Heaven, and its body is** the property of its owner, because if the owner chooses, **he sells it to gentiles or feeds it to dogs.**
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יִצְחָק בַּר חֲנַנְיָה אָמַר רַב הוּנָא: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ — מוּתָּר לְהַשִּׂיא לוֹ בִּתּוֹ. הָוֵי בַּהּ רַבִּי זֵירָא: בְּמַאי עָסְקִינַן? אִילֵימָא בְּשֶׁנִּכְסֵי אֲבִי כַלָּה אֲסוּרִין עַל הֶחָתָן, הֲרֵי מוֹסֵר לוֹ שִׁפְחָה לְשַׁמְּשׁוֹ!
+*Translation:* GEMARA: **Rav Yitzḥak bar Ḥananya said** that **Rav Huna said:** In the case of **one for whom benefit from another is forbidden by vow, he is permitted to marry his daughter to him. Rabbi Zeira discussed it: With what** case **are we dealing? If we say** that it is a case where **the property of the father of the bride is forbidden to the groom,** this cannot be, as when one marries his daughter to the groom, **he provides him a maidservant to serve him** and thereby benefits him.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא בְּנִכְסֵי חָתָן אֲסוּרִין עַל אֲבִי כַלָּה. גְּדוֹלָה מִזּוֹ אָמְרוּ: זָן אֶת אִשְׁתּוֹ וְאֶת בָּנָיו, וְאַף עַל פִּי שֶׁהוּא חַיָּיב בִּמְזוֹנוֹתָן, וְאַתְּ אָמְרַתְּ מוּתָּר לְהַשִּׂיא לוֹ בִּתּוֹ?!
+*Translation:* **Rather,** it is a case where **the property of the groom is forbidden to the father of the bride,** and although the groom supports the bride, her father is not considered to have benefited from the property of the groom. However, it cannot be this case either, as the Sages **stated** a *halakha* with a **greater** novel element **than that** in the mishna itself: And with regard to one for whom benefit from another is forbidden by vow, that other person **may feed** his **wife and children, although** the one who is bound by the vow **is obligated in their support. And you say that it is permitted to marry his daughter to him?** Isn’t that obvious?
+
+**4.**
+*Hebrew/Aramaic:* לְעוֹלָם בְּשֶׁנִּכְסֵי אֲבִי כַלָּה אֲסוּרִין עַל הֶחָתָן, וּבְבִתּוֹ בּוֹגֶרֶת, וּמִדַּעְתָּהּ.
+*Translation:* The Gemara answers: **Actually,** it is a case **where the property of the father of the bride is forbidden to the groom, and where his daughter is a grown woman, and** where her father may marry her to another only **with her consent.** Therefore, it is not from her father that the groom is deriving benefit.
+
+**5.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ — אָסוּר לְהַשִּׂיא לוֹ בִּתּוֹ, אֲבָל מַשִּׂיאוֹ בִּתּוֹ בּוֹגֶרֶת וּמִדַּעְתָּהּ.
+*Translation:* The Gemara comments: **That is also taught** in a *baraita*. In the case of one for whom benefit from another is forbidden by vow, it is **prohibited** for that other person **to marry his daughter to him. However, he may marry** off **his daughter,** who is **a grown woman, to** that other person **with her consent.**
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַעֲקֹב: הַמַּדִּיר בְּנוֹ לְתַלְמוּד תּוֹרָה — מוּתָּר לְמַלּאוֹת לוֹ חָבִית שֶׁל מַיִם, וּלְהַדְלִיק לוֹ אֶת הַנֵּר. רַבִּי יִצְחָק אָמַר: לִצְלוֹת לוֹ דָּג קָטָן. אָמַר רַבִּי יִרְמְיָה אָמַר רַבִּי יוֹחָנָן: הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ — מוּתָּר לְהַשְׁקוֹתוֹ כּוֹס שֶׁל שָׁלוֹם. מַאי נִיהוּ? הָכָא תַּרְגִּימוּ: כּוֹס שֶׁל בֵּית הָאֵבֶל. בְּמַעְרְבָא אָמְרִי: כּוֹס שֶׁל בֵּית הַמֶּרְחָץ.
+*Translation:* Similarly, **Rabbi Ya’akov said:** If **one vows** that benefit **from** him is forbidden to **his son,** in order to induce him to engage in **Torah study,** the one who took the vow may nevertheless perform actions that provide his son with minor benefit. It is **permitted** for him **to fill a barrel of water for** his son **and to kindle a lamp for him. Rabbi Yitzḥak said:** It is **permitted** for him **to roast a small fish for him. Rabbi Yirmeya said** that **Rabbi Yoḥanan said:** In the case of **one for whom benefit from another is forbidden by vow it is permitted** for the other **to give him a cup of peace to drink.** The Gemara asks: **What is this** cup of peace? **Here,** in Babylonia, the Sages **interpreted** this term as referring to **a cup of** wine given to mourners to drink at the meal of comfort in **the house of mourning. In the West,** Eretz Yisrael, the Sages **said** that it is the **cup of** wine that one drinks upon leaving **the bathhouse.**
+
+**7.**
+*Hebrew/Aramaic:* וְלֹא יָזוּן אֶת בְּהֶמְתּוֹ בֵּין כּוּ׳. תַּנְיָא, יְהוֹשֻׁעַ אִישׁ עוּזָּא אוֹמֵר: זָן עֲבָדָיו וְשִׁפְחוֹתָיו הַכְּנַעֲנִים, וְלֹא יָזוּן אֶת בְּהֶמְתּוֹ, בֵּין טְמֵאָה בֵּין טְהוֹרָה. מַאי טַעְמָא? עֲבָדָיו וְשִׁפְחוֹתָיו הַכְּנַעֲנִים — לְמַנְחֲרוּתָא עֲבִידָן, בְּהֵמָה — לְפִטּוּמָא עֲבִידָא.
+*Translation:* § We learned in the mishna: **And he may not feed** the **animal** of one for whom benefit from him is forbidden, **whether** it is a kosher animal or whether it is a non-kosher animal. **It is taught** in a *baraita* that **Yehoshua of Uzza says:** One who vows that benefit from him is forbidden to another **may feed** the other person’s **Canaanite slaves and maidservants; however, he may not feed his animal, whether** it is **a non-kosher** animal or **whether** it is **a kosher** animal. The Gemara asks: **What is the reason** for the distinction? The Gemara explains: **His Canaanite slaves and maidservants are designated for labor,** whereas **an animal is designated for fattening.** The one bound by the vow derives benefit from the other person feeding the kosher animal when he eats it and derives benefit from the other person feeding the non-kosher animal when he sells it to a gentile.
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמּוּדָּר הֲנָאָה מֵחֲבֵירוֹ וְנִכְנַס לְבַקְּרוֹ — עוֹמֵד אֲבָל לֹא יוֹשֵׁב. וּמְרַפְּאוֹ רְפוּאַת נֶפֶשׁ, אֲבָל לֹא רְפוּאַת מָמוֹן.
+*Translation:* MISHNA: In the case of **one for whom benefit from another is forbidden by vow and he enters** his house **to visit him, he stands** there **but does not sit. And** that other person **heals him** with **a cure** of the ***nefesh* but not a cure of *mamon*.**

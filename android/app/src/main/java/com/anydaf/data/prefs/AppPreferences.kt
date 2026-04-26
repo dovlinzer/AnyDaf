@@ -52,6 +52,7 @@ object AppPreferences {
     private val QUIZ_MODE = stringPreferencesKey("quizMode")
     private val SOURCE_DISPLAY_MODE = stringPreferencesKey("sourceDisplayMode")
     private val SHIUR_SHOW_SOURCES = booleanPreferencesKey("shiurShowSources")
+    private val STUDY_SHOW_HEBREW = booleanPreferencesKey("studyShowHebrew")
     private val STUDY_FONT_SIZE = stringPreferencesKey("studyFontSize")
     private val USE_WHITE_BACKGROUND = booleanPreferencesKey("useWhiteBackground")
     private val TABLET_RIGHT_PANEL = stringPreferencesKey("tabletRightPanel")
@@ -69,6 +70,7 @@ object AppPreferences {
         SourceDisplayMode.entries.firstOrNull { m -> m.name == it[SOURCE_DISPLAY_MODE] } ?: SourceDisplayMode.TOGGLE
     }
     val shiurShowSources: Flow<Boolean> = store.data.map { it[SHIUR_SHOW_SOURCES] ?: true }
+    val studyShowHebrew: Flow<Boolean> = store.data.map { it[STUDY_SHOW_HEBREW] ?: false }
     val studyFontSize: Flow<StudyFontSize> = store.data.map {
         StudyFontSize.entries.firstOrNull { f -> f.name == it[STUDY_FONT_SIZE] } ?: StudyFontSize.MEDIUM
     }
@@ -104,6 +106,10 @@ object AppPreferences {
 
     suspend fun saveShiurShowSources(enabled: Boolean) {
         store.edit { it[SHIUR_SHOW_SOURCES] = enabled }
+    }
+
+    suspend fun saveStudyShowHebrew(enabled: Boolean) {
+        store.edit { it[STUDY_SHOW_HEBREW] = enabled }
     }
 
     suspend fun saveStudyFontSize(size: StudyFontSize) {

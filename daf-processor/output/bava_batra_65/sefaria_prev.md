@@ -1,0 +1,45 @@
+### Bava Batra 64b
+
+**1.**
+*Hebrew/Aramaic:* דְּרַבִּי עֲקִיבָא סָבַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, וְרַבָּנַן סָבְרִי: מוֹכֵר בְּעַיִן רָעָה מוֹכֵר; וּדְקָאָמַר נָמֵי בְּעָלְמָא ״רַבִּי עֲקִיבָא לְטַעְמֵיהּ, דְּאָמַר מוֹכֵר בְּעַיִן יָפָה מוֹכֵר״ – מֵהָכָא.
+*Translation:* **As Rabbi Akiva holds** that **one who sells, sells generously,** so that whatever is not explicitly excluded from the sale is assumed to be sold, **while the Rabbis hold** that **one who sells, sells sparingly,** so that whatever is not explicitly included in the sale is assumed to be unsold. **And** perhaps **that which is also stated generally: Rabbi Akiva** conforms **to his** standard line of **reasoning, as he says** that **one who sells, sells generously,** is derived **from here.**
+
+**2.**
+*Hebrew/Aramaic:* מִמַּאי? דִּלְמָא רַבִּי עֲקִיבָא סָבַר: אֵין אָדָם רוֹצֶה שֶׁיִּתֵּן מְעוֹתָיו וְיִדְרְסוּהוּ אֲחֵרִים, וְרַבָּנַן סָבְרִי: אֵין אָדָם רוֹצֶה שֶׁיִּטּוֹל מָעוֹת וְיִפְרַח בָּאֲוִיר!
+*Translation:* The Gemara rejects this opinion and asks: **From where** do you arrive at such a conclusion? **Perhaps** Rabbi Akiva and the Rabbis do not disagree whether, in principle, a person who sells, sells generously or sparingly, but rather their disagreement is limited to this specific case. As **Rabbi Akiva holds** that **a person does not want to spend his money** on the purchase of a house **and** then have **others tread upon his** property, and therefore he says that the seller must purchase for himself a path through the buyer’s domain to reach his pit. **And the Rabbis hold** that **a person does not want to receive money** for the sale of his house **and** then have to **fly through the air** in order to reach his pit, and therefore they say that the seller presumably withheld for himself a path to his pit.
+
+**3.**
+*Hebrew/Aramaic:* וְאֶלָּא מִסֵּיפָא – מְכָרָן לְאַחֵר, רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ, וַחֲכָמִים אוֹמְרִים: צָרִיךְ.
+*Translation:* **Rather,** the proof is **from the last clause** of the mishna, which states: If the seller kept the house but **sold** the pit and the cistern **to another, Rabbi Akiva says:** The buyer **need not purchase for himself a path** through the seller’s domain. **But the Rabbis say: He must purchase for himself a path** through the seller’s domain. The *tanna’im* seem to disagree as to whether a person who sells, sells generously or sparingly.
+
+**4.**
+*Hebrew/Aramaic:* דִּלְמָא בְּהַאי פְּלִיגִי – דְּרַבִּי עֲקִיבָא סָבַר: בָּתַר דַּעְתָּא דְלוֹקֵחַ אָזְלִינַן; וְרַבָּנַן סָבְרִי: בָּתַר דַּעְתָּא דְמוֹכֵר אָזְלִינַן!
+*Translation:* The Gemara rejects this proof as well: **Perhaps they disagree about** the following: **Rabbi Akiva holds** that **we follow the intention of the buyer,** as we assume that he would not have bought the pit if he would have to fly through the air to get there. **And the Rabbis hold** that **we follow the intention of the seller,** as presumably he would not have sold the pit if the buyer had the right to tread upon the seller’s property to reach it.
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא מֵהָא – לָא אֶת הַבּוֹר וְלֹא אֶת הַגַּת וְלֹא אֶת הַשּׁוֹבָךְ, בֵּין חֲרֵבִין בֵּין יְשׁוּבִין; וְצָרִיךְ לִיקַּח לוֹ דֶּרֶךְ, דִּבְרֵי רַבִּי עֲקִיבָא. וַחֲכָמִים אוֹמְרִים: אֵינוֹ צָרִיךְ.
+*Translation:* **Rather,** the proof that these *tanna’im* disagree whether one who sells, sells generously or sparingly is **from this** mishna (71a), which teaches: One who sells a field, even if he states that he is selling everything in it to the buyer, has sold **neither the cistern, nor the winepress, nor the dovecote, whether** it is **abandoned or utilized,** as these items are not part of the field itself. **And** the seller **must purchase** for himself **a path** through the buyer’s domain to reach whatever remains his. This is **the statement of Rabbi Akiva. And the Rabbis say:** The seller **need not** purchase a path through the buyer’s domain.
+
+**6.**
+*Hebrew/Aramaic:* הָא תּוּ לְמָה לִי? אֶלָּא לָאו הָא קָא מַשְׁמַע לַן – דְּרַבִּי עֲקִיבָא סָבַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, וְרַבָּנַן סָבְרִי: מוֹכֵר בְּעַיִן רָעָה מוֹכֵר?
+*Translation:* The Gemara explains the proof: **Why do I need this** ruling **as well,** seeing that this case involving the sale of a field appears to be identical to that involving the sale of a house? **Rather, is it not teaching us that Rabbi Akiva holds** that **one who sells, sells generously,** and therefore the seller must purchase for himself a path to his property, **while the Rabbis hold** that **one who sells, sells sparingly,** and therefore the purchase of such a path is not necessary?
+
+**7.**
+*Hebrew/Aramaic:* וְדִלְמָא אַשְׁמְעִינַן בַּיִת, וְקָא מַשְׁמַע לַן שָׂדֶה; וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן בַּיִת – מִשּׁוּם דְּבָעֵי צְנִיעוּתָא, אֲבָל שָׂדֶה – אֵימָא לָא;
+*Translation:* The Gemara rejects this opinion: **Perhaps** the first mishna **taught us** this dispute with regard to **a house, and** the later mishna **teaches us** this dispute with regard to **a field. And** while this may seem redundant, both rulings are **necessary, as had** the mishna **taught us** this *halakha* only with regard to **a house,** I would have said that the buyer is particular about people passing through his house, **because he desires privacy** there. And it is for this reason that Rabbi Akiva says that in the absence of an explicit stipulation, the seller must purchase for himself a path to the pit. **But** in the case of **a field,** which is exposed to all, **say** that the buyer is **not** concerned about privacy.
+
+**8.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן שָׂדֶה – מִשּׁוּם דְּקָשֵׁי לֵיהּ דַּוְושָׁא; אֲבָל בַּיִת – אֵימָא לָא.
+*Translation:* **And,** conversely, **had** the mishna **taught us** this *halakha* only with regard to **a field,** I would have said that the buyer is particular about people passing through his field, **because treading** upon the field **is detrimental to it.** And it is for this reason that Rabbi Akiva says that the seller must purchase for himself a path to the pit. **But** in the case of **a house,** which is not adversely affected by treading through it, **say** that the buyer is **not** opposed to the seller passing through.
+
+**9.**
+*Hebrew/Aramaic:* אֶלָּא מִסֵּיפָא – מְכָרָן לְאַחֵר, רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ צָרִיךְ לִיקַּח לוֹ דֶּרֶךְ, וַחֲכָמִים אוֹמְרִים: צָרִיךְ.
+*Translation:* **Rather,** the proof that Rabbi Akiva and the Rabbis disagree whether one who sells, sells generously or sparingly is **from the latter clause** of that mishna (71a), which teaches: But if the seller kept the field but **sold** the cistern and winepress **to another** person, **Rabbi Akiva says:** The buyer **need not purchase for himself a path** through the seller’s domain to reach what he has bought, since a seller sells generously. **But the Rabbis say: He must** purchase for himself a path through the seller’s domain.
+
+**10.**
+*Hebrew/Aramaic:* הָא תּוּ לְמָה לִי? הַיְינוּ הָךְ! אֶלָּא לָאו הָא קָא מַשְׁמַע לַן – דְּרַבִּי עֲקִיבָא סָבַר: מוֹכֵר בְּעַיִן יָפָה מוֹכֵר, וְרַבָּנַן סָבְרִי: מוֹכֵר בְּעַיִן רָעָה מוֹכֵר? שְׁמַע מִינַּהּ.
+*Translation:* The Gemara explains the proof: **Why do I also** need **this,** seeing as **this** case involving the sale of a pit or a winepress in a field **is** identical to **that** involving the sale of a pit or a cistern in a house? **Rather, is it not teaching us that Rabbi Akiva holds** that **one who sells, sells generously, while the Rabbis hold** that **one who sells, sells sparingly?** The Gemara affirms: **Conclude from** the latter clauses of these *mishnayot* that this is so.
+
+**11.**
+*Hebrew/Aramaic:* אִיתְּמַר, רַב הוּנָא אָמַר רַב:
+*Translation:* **It was stated** that the *amora’im* disagree about how the *halakha* should be decided with regard to this issue. **Rav Huna** says that **Rav says:**

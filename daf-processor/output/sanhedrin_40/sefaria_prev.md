@@ -1,0 +1,89 @@
+### Sanhedrin 39b
+
+**1.**
+*Hebrew/Aramaic:* ״וּבַגּוֹיִם לֹא יִתְחַשָּׁב״.
+*Translation:* “It is a people that shall dwell alone, **and shall not be reckoned among the nations”** (Numbers 23:9), teaching that where the verse mentions “the nations,” the Jewish people are not included.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר רָמֵי: כְּתִיב ״טוֹב ה׳ לַכֹּל״, וּכְתִיב ״טוֹב ה׳ לְקֹוָויו״. מָשָׁל לְאָדָם שֶׁיֵּשׁ לוֹ פַּרְדֵּס: כְּשֶׁהוּא מַשְׁקֶה – מַשְׁקֶה אֶת כּוּלּוֹ, כְּשֶׁהוּא עוֹדֵר – אֵינוֹ עוֹדֵר אֶלָּא טוֹבִים שֶׁבָּהֶם.
+*Translation:* The Gemara cites a related statement: **Rabbi Elazar raises a contradiction: It is written** in one verse: **“The Lord is good to all** and His compassion is over all His works” (Psalms 145:9), **and it is written** in a different verse: **“The Lord is good to those who wait for Him,** to the soul that seeks Him” (Lamentations 3:25). He explains: This can be **compared to a person who has an orchard. When he waters** it, **he waters all of it.** Perforce, the water reaches all parts of the orchard, and he cannot discriminate between trees. This is the meaning of the verse: “The Lord is good to all.” By contrast, **when he hoes** around the trees, **he hoes only** around **the good** trees **among them.** Similarly, when God bestows goodness to the world, all receive it. When He protects people from harm, not all are protected.
+
+**3.**
+*Hebrew/Aramaic:* לְפִיכָךְ כָּל אֶחָד וְאֶחָד כּוּ׳. ״וַיַּעֲבֹר הָרִנָּה בַּמַּחֲנֶה״. אָמַר רַבִּי אַחָא בַּר חֲנִינָא: ״בַּאֲבֹד רְשָׁעִים רִנָּה״ – בַּאֲבוֹד אַחְאָב בֶּן עָמְרִי רִנָּה.
+*Translation:* § The mishna teaches: **Therefore,** since all humanity descends from one person, **each and every** person is obligated to say: The world was created for me. The mishna then teaches that the court says to the witnesses: And perhaps you will say: Why would we want to be responsible for the blood of this person? But be aware, as is it not already stated: “When the wicked perish, there is song” (Proverbs 11:10)? The Gemara teaches: A separate verse relates that after the evil king Ahab was killed: **“And the song went throughout the camp”** (I Kings 22:36). **Rabbi Aḥa bar Ḥanina says:** The fact that the verse states “the song,” and not a song, indicates that it is referring to a song mentioned elsewhere. Accordingly, the verse: **“When the wicked perish, there is song,”** alludes to this episode: **When Ahab ben Omri perished,** there was **song.**
+
+**4.**
+*Hebrew/Aramaic:* וּמִי חָדֵי קוּדְשָׁא בְּרִיךְ הוּא בְּמַפַּלְתָּן שֶׁל רְשָׁעִים? הָכְתִיב: ״בְּצֵאת לִפְנֵי הֶחָלוּץ וְאֹמְרִים הוֹדוּ לַה׳ כִּי לְעוֹלָם חַסְדּוֹ״. וְאָמַר רַבִּי יוֹנָתָן: מִפְּנֵי מָה לֹא נֶאֱמַר בְּהוֹדָאָה זוֹ ״כִּי טוֹב״? לְפִי שֶׁאֵין הַקָּדוֹשׁ בָּרוּךְ הוּא שָׂמֵחַ בְּמַפַּלְתָּן שֶׁל רְשָׁעִים.
+*Translation:* The Gemara asks: **But is the Holy One, Blessed be He, gladdened by the downfall of the wicked? Isn’t it written** in the verse describing the victory of the Jewish people in battle: “He appointed them that should sing unto the Lord, and praise in the beauty of holiness, **as they went out before the army, and say: Give thanks to the Lord, for His mercy endures forever”** (II Chronicles 20:21). **And Rabbi Yonatan says: For what** reason **is it not stated in this praise:** “Give thanks to the Lord **for He is good,** for His mercy endures forever,” as is stated elsewhere, e.g., Psalms 118:1? This is **because the Holy One, Blessed be He, is not gladdened by the downfall of the wicked.**
+
+**5.**
+*Hebrew/Aramaic:* דְּאָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָן אָמַר רַבִּי יוֹנָתָן: מַאי דִּכְתִיב ״וְלֹא קָרַב זֶה אֶל זֶה כׇּל הַלָּיְלָה״? בְּאוֹתָהּ שָׁעָה בִּקְּשׁוּ מַלְאֲכֵי הַשָּׁרֵת לוֹמַר שִׁירָה לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא. אָמַר לָהֶן הַקָּדוֹשׁ בָּרוּךְ הוּא: מַעֲשֵׂה יָדַי טוֹבְעִין בַּיָּם וְאַתֶּם אוֹמְרִים שִׁירָה לְפָנַי?
+*Translation:* The Gemara comments: **As Rabbi Shmuel bar Naḥman says** that **Rabbi Yonatan says: What** is the meaning of that **which is written** in the passage describing the splitting of the Red Sea: **“And the one came not near the other all the night”** (Exodus 14:20)? **At that time the ministering angels desired to recite a song before the Holy One, Blessed be He. The Holy One, Blessed be He, said to them: My handiwork,** i.e., the Egyptians, **are drowning in the sea, and you are reciting a song before Me?** Apparently, God is not gladdened by the downfall of the wicked.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: הוּא אֵינוֹ שָׂשׂ, אֲבָל אֲחֵרִים מֵשִׂישׂ. דַּיְקָא נָמֵי, דִּכְתִיב ״יָשִׂישׂ״ וְלָא כְּתִיב ״יָשׂוּשׂ״. שְׁמַע מִינַּהּ.
+*Translation:* **Rabbi Yosei bar Ḥanina says: He,** i.e., God, **does not rejoice** in their downfall, **but He** does **cause others** to feel **joy.** The Gemara comments: Accordingly, the language of the verse **is also precise, as it is written:** “And it shall come to pass, that as the Lord rejoiced over you to do you good, and to multiply you; so the Lord **will cause rejoicing [*yasis*]** over you to cause you to perish” (Deuteronomy 28:63), **and it is not written: Will have joy [*yasus*].** The term “*yasis*” connotes causing joy to others, not that God will experience joy Himself. The Gemara affirms: **Conclude from** this inference that it is so.
+
+**7.**
+*Hebrew/Aramaic:* ״וְהַזֹּנוֹת רָחָצוּ וְגוֹ׳״, אָמַר רַבִּי אֶלְעָזָר: לְמָרֵק שְׁתֵּי חֶזְיוֹנוֹת, אַחַת שֶׁל מִיכָיְהוּ וְאַחַת שֶׁל אֵלִיָּהוּ. בְּמִיכָיְהוּ כְּתִיב: ״אִם שׁוֹב תָּשׁוּב בְּשָׁלוֹם לֹא דִבֶּר ה׳ בִּי״; בְּאֵלִיָּהוּ כְּתִיב: ״בִּמְקוֹם אֲשֶׁר לָקְקוּ הַכְּלָבִים אֶת דַּם נָבוֹת״.
+*Translation:* Apropos the death of Ahab, the Gemara cites another verse from that passage. The verse states: “And they washed the chariot by the pool of Samaria, and the dogs licked up his blood; **and the harlots also washed** themselves there, according to the word of the Lord that He spoke” (I Kings 22:38). **Rabbi Elazar says:** “The harlots [*hazzonot*]” can be read as visions [*ḥezyonot*], and the verse means: **To cleanse,** i.e., to fulfill, **two visions, one of Micaiah and one of Elijah.** This fulfills a vision **of Micaiah,** as it **is written: “If you return at all in peace, the Lord has not spoken by me”** (I Kings 22:28). Once Ahab died, Micaiah’s vision was fulfilled. This also fulfills a vision **of Elijah,** as it **is written: “In the place where the dogs licked the blood of Naboth** shall the dogs lick your blood, even yours” (I Kings 21:19).
+
+**8.**
+*Hebrew/Aramaic:* רָבָא אָמַר: זוֹנוֹת מַמָּשׁ. אַחְאָב אִישׁ מְצוּנָּן הָיָה, וְעָשְׂתָה לוֹ אִיזֶבֶל שְׁתֵּי צוּרֵי זוֹנוֹת בְּמֶרְכַּבְתּוֹ, כְּדֵי שֶׁיִּרְאֶה אוֹתָן וְיִתְחַמֵּם.
+*Translation:* **Rava says:** The verse is speaking of **actual harlots. Ahab was a frigid man,** who did not lust for women. **And Jezebel,** his wife, **fashioned two forms of harlots for him in his chariot, in order that he see them** while traveling **and become aroused.** Accordingly, one would understand the verse as stating that the harlots were washed, not that they washed themselves.
+
+**9.**
+*Hebrew/Aramaic:* ״וְאִישׁ מָשַׁךְ בַּקֶּשֶׁת לְתֻמּוֹ וַיַּכֶּה״. רַבִּי אֶלְעָזָר אָמַר: לְפִי תּוּמּוֹ. רָבָא אָמַר: לְתַמֵּם שְׁתֵּי חֶזְיוֹנוֹת, אַחַת שֶׁל מִיכָיְהוּ וְאַחַת שֶׁל אֵלִיָּהוּ.
+*Translation:* The verse describing the death of Ahab states: **“And a certain man drew a bow offhandedly [*letummo*] and smote** the king of Israel” (I Kings 22:34). **Rabbi Elazar says:** “*Letummo*” should be understood as **offhandedly [*lefi tummo*],** without aiming for Ahab. **Rava says:** This alludes to the fact that the killing of Ahab served **to make whole** [***letammem*] two visions, one of Micaiah and one of Elijah.**
+
+**10.**
+*Hebrew/Aramaic:* (סִימָן: קָרָא, וְזָכָה, בֶּאֱדוֹם.) כְּתִיב: ״וַיִּקְרָא אַחְאָב אֶל עֹבַדְיָהוּ אֲשֶׁר עַל הַבָּיִת וְעֹבַדְיָהוּ הָיָה יָרֵא [אֶת] ה׳ מְאֹד״. מַאי קָאָמַר קְרָא?
+*Translation:* § Before continuing its discussion of Ahab, the Gemara records **a mnemonic** for the forthcoming statements: **Called; and merited; of Edom.** It **is written: “And Ahab called Obadiah, who was over the household; now Obadiah feared the Lord greatly”** (I Kings 18:3). The Gemara asks: **What is the verse saying?** What is the connection between Obadiah’s fear of the Lord and the call of Ahab?
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק: אָמַר לֵיהּ, בְּיַעֲקֹב כְּתִיב ״נִחַשְׁתִּי וַיְבָרְכֵנִי ה׳ בִּגְלָלֶךָ״, בְּיוֹסֵף כְּתִיב ״וַיְבָרֶךְ ה׳ אֶת בֵּית הַמִּצְרִי בִּגְלַל יוֹסֵף״. בֵּיתָא דְּהָהוּא גַּבְרָא לָא הֲוָה מִיבְּרִיךְ. שֶׁמָּא לֹא יְרֵא אֱלֹהִים אַתָּה? יָצְתָה בַּת קוֹל וְאָמְרָה: ״וְעֹבַדְיָהוּ הָיָה יָרֵא אֶת ה׳ מְאֹד״, אֲבָל בֵּיתוֹ שֶׁל אַחְאָב אֵינוֹ מְזוּמָּן לִבְרָכָה.
+*Translation:* **Rabbi Yitzḥak says** that Ahab **said to** Obadiah: It **is written with regard to Jacob:** “And Laban said to him: If now I have found favor in your eyes, **I have observed the signs, and the Lord has blessed me for your sake”** (Genesis 30:27). It **is written with regard to Joseph: “The Lord blessed the Egyptian’s house for Joseph’s sake”** (Genesis 39:5). **The house of that man,** i.e., my house, **was not blessed. Perhaps you do not fear God?** Immediately, **a Divine Voice emerged and said: “Now Obadiah feared the Lord greatly,” but the house of Ahab is not fit for blessing** like the houses of those masters.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אַבָּא: גָּדוֹל שֶׁנֶּאֱמַר בְּעוֹבַדְיָהוּ יוֹתֵר מִמַּה שֶּׁנֶּאֱמַר בְּאַבְרָהָם, דְּאִילּוּ בְּאַבְרָהָם לָא כְּתִיב ״מְאֹד״, וּבְעוֹבַדְיָהוּ כְּתִיב ״מְאֹד״.
+*Translation:* **Rabbi Abba says:** The praise **that is stated with regard to Obadiah** is **greater than that which is stated with regard to Abraham. As with regard to Abraham** the verse states: “For now I know that you fear God” (Genesis 22:12), and the term **“greatly” is not written, and about Obadiah** the term **“greatly” is written.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק: מִפְּנֵי מָה זָכָה עוֹבַדְיָהוּ לִנְבִיאוּת? מִפְּנֵי שֶׁהֶחְבִּיא מֵאָה נְבִיאִים בַּמְּעָרָה, שֶׁנֶּאֱמַר: ״וַיְהִי בְּהַכְרִית אִיזֶבֶל אֵת נְבִיאֵי ה׳ וַיִּקַּח עֹבַדְיָהוּ מֵאָה נְבִיאִים וַיַּחְבִּיאֵם חֲמִשִּׁים אִישׁ בַּמְּעָרָה וְגוֹ״. מַאי שְׁנָא חֲמִשִּׁים אִישׁ? אָמַר רַבִּי אֶלְעָזָר: מִיַּעֲקֹב לָמַד, שֶׁנֶּאֱמַר: ״וְהָיָה הַמַּחֲנֶה הַנִּשְׁאָר לִפְלֵיטָה״. רַבִּי אֲבָהוּ אָמַר: לְפִי שֶׁאֵין מְעָרָה מַחְזֶקֶת יוֹתֵר מֵחֲמִשִּׁים.
+*Translation:* **Rabbi Yitzḥak says: For what** reason **did Obadiah merit prophecy?** It is **because he concealed one hundred prophets in a cave, as it is stated: “It was so, when Jezebel cut off the prophets of the Lord, that Obadiah took one hundred prophets, and hid them, fifty men in a cave,** and fed them with bread and water” (I Kings 18:4). The Gemara asks: **What is different,** i.e., why did he decide, to conceal **fifty men** in each of two caves and not conceal them all together in one cave? **Rabbi Elazar says: He learned from** the behavior of **Jacob** to do so, **as it is stated:** “And he said: If Esau comes to the one camp and smites it, **then the camp that is left shall escape”** (Genesis 32:9). Obadiah learned from this to divide the prophets and thereby lessen the danger. **Rabbi Abbahu says:** It is **because there is no cave** big enough **to contain more than fifty** people.
+
+**14.**
+*Hebrew/Aramaic:* ״חֲזוֹן עֹבַדְיָהוּ כֹּה אָמַר ה׳ אֱלֹהִים לֶאֱדוֹם וְגוֹ׳״. מַאי שְׁנָא עוֹבַדְיָה לֶאֱדוֹם?
+*Translation:* The verse states: **“The vision of Obadiah. So says the Lord God concerning Edom:** We have heard a message from the Lord, and an ambassador is sent among the nations: Arise, and let us rise up against her in battle” (Obadiah 1:1). The Gemara asks: **What is different,** i.e., what is the reason, that specifically **Obadiah** prophesied **concerning Edom?**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִצְחָק: אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא, יָבֹא עוֹבַדְיָהוּ הַדָּר בֵּין שְׁנֵי רְשָׁעִים וְלֹא לָמַד מִמַּעֲשֵׂיהֶם, וְיִנָּבֵא עַל עֵשָׂו הָרָשָׁע שֶׁדָּר בֵּין שְׁנֵי צַדִּיקִים וְלֹא לָמַד מִמַּעֲשֵׂיהֶם. אָמַר אֶפְרַיִם מִקְשָׁאָה תַּלְמִידוֹ שֶׁל רַבִּי מֵאִיר מִשּׁוּם רַבִּי מֵאִיר: עוֹבַדְיָה גֵּר אֲדוֹמִי הָיָה. וְהַיְינוּ דְּאָמְרִי אִינָשֵׁי: מִנֵּיהּ וּבֵיהּ אִבָּא נֵיזִיל בֵּיהּ נַרְגָּא.
+*Translation:* **Rabbi Yitzḥak says: The Holy One, Blessed be He, said: Let Obadiah come, who dwells among two wicked** ones, Ahab and Jezebel, **but did not learn from their actions; and he will prophesy concerning Esau the wicked,** the progenitor of Edom, **who dwelled among two righteous** ones, Isaac and Rebekkah, **but did not learn from their actions. Efrayim Miksha’a, a student of Rabbi Meir, said in the name of Rabbi Meir: Obadiah was an Edomite convert.** Consequently, he prophesied with regard to Edom. **And this is as people say: From and within the forest comes the ax to it,** as the handle for the ax that chops the tree is from the forest itself.
+
+**16.**
+*Hebrew/Aramaic:* ״וַיַּךְ אֶת מוֹאָב וַיְמַדְּדֵם בַּחֶבֶל הַשְׁכֵּב אוֹתָם אַרְצָה״. אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַי, הַיְינוּ דְּאָמְרִי אִינָשֵׁי: מִינֵּיהּ וּבֵיהּ אִבָּא לֵיזִיל בֵּיהּ נַרְגָּא. כִּי אֲתָא רַב דִּימִי אָמַר: יָרֵךְ מִתּוֹכָהּ מַסְרַחַת.
+*Translation:* The verse states concerning King David: **“And he smote Moab and measured them with the line, making them lie down on the ground** and he measured two lines to put to death” (II Samuel 8:2). **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai: This is as people say: From and within the forest comes the ax to it,** as King David was a descendant of Ruth the Moabite. **When Rav Dimi came** from Eretz Yisrael **he stated** something similar to this: **A thigh rots from within,** i.e., when a piece of meat rots, the rotting begins from the inner part of it. Here too, the punishment is administered by one descended from that very nation.
+
+**17.**
+*Hebrew/Aramaic:* ״וַיִּקַּח אֶת בְּנוֹ הַבְּכוֹר אֲשֶׁר יִמְלֹךְ תַּחְתָּיו וַיַּעֲלֵהוּ עֹלָה עַל הַחֹמָה״. רַב וּשְׁמוּאֵל, חַד אָמַר: לְשֵׁם שָׁמַיִם, וְחַד אָמַר: לְשֵׁם עֲבוֹדָה זָרָה.
+*Translation:* § The Gemara cites a verse concerning the king of Moab: **“Then he took his eldest son, who should have reigned in his stead, and sacrificed him for a burnt offering upon the wall;** and there was great indignation against Israel, and they departed from him and returned to their own land” (II Kings 3:27). **Rav and Shmuel** engage in a dispute concerning this. **One says:** The king sacrificed his son **for the sake of Heaven, and one says:** The king sacrificed his son **for the sake of idol worship.**
+
+**18.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְמַאן דְּאָמַר לְשֵׁם שָׁמַיִם, הַיְינוּ דִּכְתִיב ״וַיְהִי קֶצֶף גָּדוֹל עַל יִשְׂרָאֵל״. אֶלָּא לְמַאן דְּאָמַר לְשֵׁם עֲבוֹדָה זָרָה, אַמַּאי ״וַיְהִי קֶצֶף״?
+*Translation:* The Gemara asks: **Granted, according to the one who says** that he sacrificed him **for the sake of Heaven, this is as it is written: “And there was great indignation against Israel,”** as the gentile attempted to honor God according to his understanding, while the Jewish people were straying from worshipping God, leading to God’s anger against them. **But according to the one who says** that he sacrificed him **for the sake of idol worship, why** would the verse state: **“And there was…indignation”?**
+
+**19.**
+*Hebrew/Aramaic:* כִּדְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי, דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי רָמֵי: כְּתִיב ״וּכְמִשְׁפְּטֵי הַגּוֹיִם אֲשֶׁר סְבִיבוֹתֵיכֶם לֹא עֲשִׂיתֶם״, וּכְתִיב ״וּכְמִשְׁפְּטֵי הַגּוֹיִם אֲשֶׁר סְבִיבוֹתֵיכֶם עֲשִׂיתֶם״. כַּמְתוּקָּנִין שֶׁבָּהֶם – לֹא עֲשִׂיתֶם, כַּמְקוּלְקָלִין שֶׁבָּהֶם – עֲשִׂיתֶם.
+*Translation:* The Gemara answers: This can be understood **in accordance with** the statement **of Rabbi Yehoshua ben Levi. As Rabbi Yehoshua ben Levi raises a contradiction: It is written** concerning the Jewish people: “You have not walked in My statutes, neither have you kept My ordinances; **nor have you done according to the statutes of the nations that are round about you”** (Ezekiel 5:7), **and it is** also **written: “You have done according to the statutes of the nations that are round about you”** (Ezekiel 11:12). Rabbi Yehoshua ben Levi explains: **You did not act like the proper ones among** the nations, but **you did act like the flawed ones among them.** Here as well, the Jewish people learned from the king of Moab to engage in human sacrifice.
+
+**20.**
+*Hebrew/Aramaic:* ״וַיִּסְעוּ מֵעָלָיו וַיָּשׁוּבוּ לָאָרֶץ״. אָמַר רַבִּי חֲנִינָא בַּר פָּפָּא: בְּאוֹתָהּ שָׁעָה יָרְדוּ שׂוֹנְאֵיהֶן שֶׁל יִשְׂרָאֵל לְמַדְרֵיגָה הַתַּחְתּוֹנָה.
+*Translation:* The Gemara discusses the end of that verse: **“And they departed from him and returned to their own land [*la’aretz*]”** (II Kings 3:27). **Rabbi Ḥanina bar Pappa says: At that time the enemies of the Jewish people,** a euphemism for the Jewish people themselves, **descended to the lowest level.** He interprets “*la’aretz*” to mean: To the earth, teaching that the Jewish people were as low as the dust of the earth.
+
+**21.**
+*Hebrew/Aramaic:* ״וְהַנַּעֲרָה יָפָה עַד מְאֹד״. אָמַר רַבִּי חֲנִינָא בַּר פָּפָּא: עֲדַיִין לֹא הִגִּיעָה לַחֲצִי יוֹפִי שֶׁל שָׂרָה, דִּכְתִיב ״עַד מְאֹד״ – וְלֹא מְאֹד בַּכְּלָל.
+*Translation:* The chapter closes with the explication of a verse stated with regard to Abishag, who attended King David before his death: **“And the damsel was very fair [*yafa ad me’od* ]”** (I Kings 1:4). **Rabbi Ḥanina bar Pappa says: She still did not reach half the beauty of Sarah, as it is written:** “*Ad me’od*,” which can be translated as **“up to very** fair,” **but not including** the praise of **“very** fair.” By contrast, it is written concerning Sarah: “She was very fair” (Genesis 12:14).
+
+**22.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ אֶחָד דִּינֵי מָמוֹנוֹת
+*Translation:* 

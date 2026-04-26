@@ -39,9 +39,9 @@ import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.ArrowDropDown
+import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.Today
 import androidx.compose.material3.ButtonDefaults
-import androidx.compose.material3.LocalMinimumInteractiveComponentSize
 import androidx.compose.material3.FilterChipDefaults
 import androidx.compose.material3.DropdownMenu
 import androidx.compose.material3.DropdownMenuItem
@@ -58,7 +58,7 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import android.content.Intent
 import android.net.Uri
@@ -84,6 +84,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.compose.ui.graphics.Color
 import com.anydaf.ui.theme.AppBlue
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.anydaf.data.api.FeedManager
 import com.anydaf.data.api.ShiurClient
@@ -241,7 +242,7 @@ fun ContentScreen(
     Scaffold(
         containerColor = appBg,
         topBar = {
-            TopAppBar(
+            CenterAlignedTopAppBar(
                 colors = TopAppBarDefaults.topAppBarColors(
                     containerColor = appBg,
                     titleContentColor = appFg,
@@ -249,69 +250,84 @@ fun ContentScreen(
                     navigationIconContentColor = appFg
                 ),
                 navigationIcon = {
-                    if (isFetchingDafYomi) {
-                        CircularProgressIndicator(modifier = Modifier.size(24.dp).padding(start = 12.dp))
-                    } else {
-                        IconButton(onClick = { contentViewModel.fetchTodaysDaf() }) {
-                            Column(horizontalAlignment = androidx.compose.ui.Alignment.CenterHorizontally) {
-                                Icon(
-                                    Icons.Default.Today,
-                                    contentDescription = "Today's Daf Yomi",
-                                    modifier = Modifier.size(20.dp)
-                                )
-                                Text(
-                                    text = "דף יומי",
-                                    fontSize = 7.sp,
-                                    fontWeight = FontWeight.SemiBold,
-                                    lineHeight = 7.sp
-                                )
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        IconButton(onClick = onOpenSettings) {
+                            Icon(Icons.Default.Settings, contentDescription = "Settings")
+                        }
+                        if (isFetchingDafYomi) {
+                            CircularProgressIndicator(modifier = Modifier.size(24.dp))
+                        } else {
+                            IconButton(onClick = { contentViewModel.fetchTodaysDaf() }) {
+                                Column(horizontalAlignment = androidx.compose.ui.Alignment.CenterHorizontally) {
+                                    Icon(
+                                        Icons.Default.Today,
+                                        contentDescription = "Today's Daf Yomi",
+                                        modifier = Modifier.size(20.dp)
+                                    )
+                                    Text(
+                                        text = "דף יומי",
+                                        fontSize = 7.sp,
+                                        fontWeight = FontWeight.SemiBold,
+                                        lineHeight = 7.sp
+                                    )
+                                }
                             }
                         }
                     }
                 },
                 title = {
                 if (isTablet && collapsedSide == "RIGHT") {
-                    CompactTabletPickers(
-                        selectedTractateIndex = selectedTractateIndex,
-                        selectedDaf = selectedDaf,
-                        selectedAmud = selectedAmud,
-                        tractate = tractate,
-                        episodeIndex = episodeIndex,
-                        contentViewModel = contentViewModel,
-                        contentColor = appFg
-                    )
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        horizontalArrangement = Arrangement.Center,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        CompactTabletPickers(
+                            selectedTractateIndex = selectedTractateIndex,
+                            selectedDaf = selectedDaf,
+                            selectedAmud = selectedAmud,
+                            tractate = tractate,
+                            episodeIndex = episodeIndex,
+                            contentViewModel = contentViewModel,
+                            contentColor = appFg
+                        )
+                    }
                 } else {
-                    Text("AnyDaf", fontWeight = FontWeight.Bold)
+                    Text(
+                        "AnyDaf",
+                        fontWeight = FontWeight.Bold,
+                        modifier = Modifier.fillMaxWidth(),
+                        textAlign = TextAlign.Center
+                    )
                 }
             },
                 actions = {
-                    CompositionLocalProvider(LocalMinimumInteractiveComponentSize provides 0.dp) {
-                        Row(horizontalArrangement = Arrangement.spacedBy(0.dp)) {
-                            IconButton(onClick = onOpenBookmarks) {
-                                Icon(Icons.Default.FormatListBulleted, contentDescription = "Bookmark List")
-                            }
-                            IconButton(onClick = {
-                                if (isBookmarked) {
-                                    bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
-                                        ?.let { bookmarkViewModel.delete(it) }
-                                } else {
-                                    pendingNewBookmark = Bookmark(
-                                        name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
-                                        tractateIndex = selectedTractateIndex,
-                                        daf = selectedDaf,
-                                        amud = selectedAmud
-                                    )
-                                }
-                            }) {
-                                Icon(
-                                    if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
-                                    contentDescription = if (isBookmarked) "Remove Bookmark" else "Add Bookmark"
+                    IconButton(
+                        onClick = onOpenBookmarks,
+                        modifier = Modifier.size(36.dp)
+                    ) {
+                        Icon(Icons.Default.FormatListBulleted, contentDescription = "Bookmark List")
+                    }
+                    IconButton(
+                        onClick = {
+                            if (isBookmarked) {
+                                bookmarkViewModel.existing(selectedTractateIndex, selectedDaf, selectedAmud)
+                                    ?.let { bookmarkViewModel.delete(it) }
+                            } else {
+                                pendingNewBookmark = Bookmark(
+                                    name = Bookmark.defaultName(selectedTractateIndex, selectedDaf, selectedAmud),
+                                    tractateIndex = selectedTractateIndex,
+                                    daf = selectedDaf,
+                                    amud = selectedAmud
                                 )
                             }
-                        }
-                    }
-                    IconButton(onClick = onOpenSettings) {
-                        Icon(Icons.Default.Settings, contentDescription = "Settings")
+                        },
+                        modifier = Modifier.size(36.dp)
+                    ) {
+                        Icon(
+                            if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
+                            contentDescription = if (isBookmarked) "Remove Bookmark" else "Add Bookmark"
+                        )
                     }
                 }
             )
@@ -356,22 +372,26 @@ fun ContentScreen(
                     ) {
                         // Pickers at top — hidden when right panel is collapsed (shown in TopAppBar instead).
                         if (collapsedSide != "RIGHT") {
-                            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center) {
-                            Box(
-                                modifier = Modifier
-                                    .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
-                                    .padding(horizontal = 12.dp, vertical = 4.dp)
+                            Row(
+                                modifier = Modifier.fillMaxWidth(),
+                                horizontalArrangement = Arrangement.Center,
+                                verticalAlignment = Alignment.CenterVertically
                             ) {
-                                CompactTabletPickers(
-                                    selectedTractateIndex = selectedTractateIndex,
-                                    selectedDaf = selectedDaf,
-                                    selectedAmud = selectedAmud,
-                                    tractate = tractate,
-                                    episodeIndex = episodeIndex,
-                                    contentViewModel = contentViewModel,
-                                    contentColor = appFg
-                                )
-                            }
+                                Box(
+                                    modifier = Modifier
+                                        .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
+                                        .padding(horizontal = 12.dp, vertical = 4.dp)
+                                ) {
+                                    CompactTabletPickers(
+                                        selectedTractateIndex = selectedTractateIndex,
+                                        selectedDaf = selectedDaf,
+                                        selectedAmud = selectedAmud,
+                                        tractate = tractate,
+                                        episodeIndex = episodeIndex,
+                                        contentViewModel = contentViewModel,
+                                        contentColor = appFg
+                                    )
+                                }
                             } // Row (centering)
                         }
                         Box(modifier = Modifier.weight(1f).fillMaxWidth().background(appBg)) {
@@ -567,12 +587,32 @@ fun ContentScreen(
                                 "SHIUR" -> {
                                     val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                                     if (shiurDisplayText != null) {
-                                        CompositionLocalProvider(LocalStudyFontSize provides studyFontSize.spSize.sp) {
-                                            ShiurTextView(
-                                                rewriteText = shiurDisplayText,
-                                                currentSegmentIndex = shiurSegmentIndex,
-                                                modifier = Modifier.fillMaxSize()
-                                            )
+                                        Column(Modifier.fillMaxSize()) {
+                                            // Shiur header — tractate + daf (lock icon when audio is playing)
+                                            Row(
+                                                verticalAlignment = Alignment.CenterVertically,
+                                                modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp)
+                                            ) {
+                                                if (!isAudioStopped) {
+                                                    Icon(Icons.Default.Lock, null, Modifier.size(14.dp), tint = appFg.copy(alpha = 0.55f))
+                                                    Spacer(Modifier.width(6.dp))
+                                                }
+                                                Text(
+                                                    "${tractate.name} ${selectedDaf.toInt()}",
+                                                    style = MaterialTheme.typography.titleMedium.copy(fontWeight = androidx.compose.ui.text.font.FontWeight.Bold),
+                                                    color = appFg
+                                                )
+                                            }
+                                            CompositionLocalProvider(
+                                                LocalStudyFontSize provides studyFontSize.spSize.sp,
+                                                LocalIsBlueMode provides !useWhiteBackground
+                                            ) {
+                                                ShiurTextView(
+                                                    rewriteText = shiurDisplayText,
+                                                    currentSegmentIndex = shiurSegmentIndex,
+                                                    modifier = Modifier.weight(1f).fillMaxWidth()
+                                                )
+                                            }
                                         }
                                     } else {
                                         Box(Modifier.fillMaxSize(), Alignment.Center) {
@@ -589,6 +629,7 @@ fun ContentScreen(
                                         contentViewModel = contentViewModel,
                                         resourcesViewModel = resourcesViewModel,
                                         isInline = true,
+                                        isAudioStopped = isAudioStopped,
                                         onStartStudy = {
                                             resourcesViewModel.reset()
                                             studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
@@ -618,7 +659,7 @@ fun ContentScreen(
                 Box(
                     modifier = Modifier
                         .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
-                        .padding(start = 12.dp, end = 6.dp, top = 8.dp, bottom = 8.dp)
+                        .padding(start = 12.dp, end = 6.dp, top = 2.dp, bottom = 2.dp)
                 ) {
                     CompactTabletPickers(
                         selectedTractateIndex = selectedTractateIndex,
@@ -662,15 +703,31 @@ fun ContentScreen(
             Box(modifier = Modifier.weight(1f).fillMaxWidth().background(appBg)) {
                 val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                 if (showShiurText && shiurDisplayText != null) {
-                    CompositionLocalProvider(
-                        LocalStudyFontSize provides studyFontSize.spSize.sp,
-                        LocalIsBlueMode provides !useWhiteBackground
-                    ) {
-                        ShiurTextView(
-                            rewriteText = shiurDisplayText,
-                            currentSegmentIndex = shiurSegmentIndex,
-                            modifier = Modifier.fillMaxSize()
-                        )
+                    Column(Modifier.fillMaxSize()) {
+                        if (!isAudioStopped) {
+                            Row(
+                                verticalAlignment = Alignment.CenterVertically,
+                                modifier = Modifier.padding(horizontal = 18.dp, vertical = 5.dp)
+                            ) {
+                                Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = appFg.copy(alpha = 0.55f))
+                                Spacer(Modifier.width(4.dp))
+                                Text(
+                                    "${tractate.name} ${selectedDaf.toInt()}",
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = appFg.copy(alpha = 0.55f)
+                                )
+                            }
+                        }
+                        CompositionLocalProvider(
+                            LocalStudyFontSize provides studyFontSize.spSize.sp,
+                            LocalIsBlueMode provides !useWhiteBackground
+                        ) {
+                            ShiurTextView(
+                                rewriteText = shiurDisplayText,
+                                currentSegmentIndex = shiurSegmentIndex,
+                                modifier = Modifier.weight(1f).fillMaxWidth()
+                            )
+                        }
                     }
                 } else {
                     if (pdfViewModel.hasPages(tractate.name)) {
@@ -987,8 +1044,7 @@ private fun CompactTabletPickers(
         val useCustomColor = contentColor != Color.Unspecified
         val buttonColors = if (useCustomColor)
             ButtonDefaults.outlinedButtonColors(contentColor = contentColor) else ButtonDefaults.outlinedButtonColors()
-        val buttonBorder = if (useCustomColor)
-            androidx.compose.foundation.BorderStroke(1.dp, contentColor.copy(alpha = 0.5f)) else null
+        val buttonBorder = androidx.compose.foundation.BorderStroke(0.dp, Color.Transparent)
 
         // Tractate dropdown
         Box {
@@ -1002,7 +1058,9 @@ private fun CompactTabletPickers(
                     tractate.name,
                     maxLines = 1,
                     overflow = TextOverflow.Ellipsis,
-                    modifier = Modifier.widthIn(max = 120.dp)
+                    modifier = Modifier.widthIn(max = 120.dp),
+                    fontSize = 14.sp,
+                    fontWeight = FontWeight.Normal
                 )
             }
             DropdownMenu(expanded = tractateExpanded, onDismissRequest = { tractateExpanded = false }, scrollState = tractateScrollState, modifier = Modifier.heightIn(max = 300.dp)) {
@@ -1026,7 +1084,7 @@ private fun CompactTabletPickers(
                 colors = buttonColors,
                 border = buttonBorder
             ) {
-                Text(FeedManager.dafLabel(selectedDaf), maxLines = 1)
+                Text(FeedManager.dafLabel(selectedDaf), maxLines = 1, fontSize = 14.sp, fontWeight = FontWeight.Normal)
             }
             DropdownMenu(
                 expanded = dafExpanded,
@@ -1054,12 +1112,11 @@ private fun CompactTabletPickers(
         Box(
             contentAlignment = Alignment.Center,
             modifier = Modifier
-                .border(1.dp, amudBorderColor, RoundedCornerShape(50))
                 .clip(RoundedCornerShape(50))
                 .clickable { contentViewModel.selectAmud(if (selectedAmud == 0) 1 else 0) }
                 .padding(horizontal = 10.dp, vertical = 8.dp)
         ) {
-            Text(if (selectedAmud == 0) "a" else "b", color = amudTextColor)
+            Text(if (selectedAmud == 0) "a" else "b", color = amudTextColor, fontSize = 14.sp, fontWeight = FontWeight.Normal)
         }
     }
 }

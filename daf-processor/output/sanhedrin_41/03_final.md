@@ -1,0 +1,261 @@
+# Sanhedrin 41 — Daf Yomi Shiur
+
+## Witness Recognition & Ha…
+
+### Makirim Atem Oto
+
+> **Hebrew/Aramaic:** מַכִּירִים אַתֶּם אוֹתוֹ. תָּנוּ רַבָּנַן: מַכִּירִים אַתֶּם אוֹתוֹ? נׇכְרִי הָרַג? יִשְׂרָאֵל הָרַג? הִתְרִיתֶם בּוֹ? קִיבֵּל עָלָיו הַתְרָאָה? הִתִּיר עַצְמוֹ לְמִיתָה? הֵמִית בְּתוֹךְ כְּדֵי דִיבּוּר?
+>
+> **Translation:** § The mishna teaches that after the interrogations the court asks several questions essential to the testimony, such as: **Do you recognize him? The Sages taught** in a *baraita*: In a trial for murder, the court asks the witness: **Do you recognize** the accused? **Did he kill a gentile? Did he kill a Jew? Did you forewarn him? Did he accept the forewarning on himself,** i.e., acknowledge the warning? **Did he release himself to death,** i.e., acknowledge that he is aware that the court imposes capital punishment for murder? **Did he kill within** the time required **for speaking** a short phrase, as if not, he could claim he forgot the warning?
+
+We pick up six lines from the bottom of 40b. The *mishnah* arrives at the next stage of examining the witnesses: *makirim atem oto* — do you recognize the person? Just as in a police lineup, the witnesses must be able to confirm that the individual standing before the court is indeed the one who committed the crime.
+
+A *baraita* then expands on the questions that were posed. *Makirim atem oto* — do you recognize him? Then: *nochri harag Yisrael harag* — if he killed someone, do you know whether the victim was a Jew or a non-Jew? One sees him commit a killing, but only when a Jew kills another Jew does the death penalty apply. Next: *hitretem bo* — did you give him *hatra'ah*, a warning? As we know from the *mishnah*, a warning must be administered before any punishment can be imposed in court.
+
+The *baraita* now introduces several additional requirements that make conviction exceptionally difficult. *Kibel alav hatra'ah* — it is not enough that a warning was issued; the perpetrator must have acknowledged it. He must have said, in effect, "Yes, I know, and I intend to do it anyway." Can the witnesses attest to that? Then: *hitir atzmo lemitah* — did he permit himself, did he open himself up, to execution? As the *gemara* will explain, it is not sufficient merely to say "I know this is forbidden." He must declare that he knows it is forbidden and that he accepts upon himself the death penalty as a consequence. This concept of *hitir atzmo lemitah* addresses, in some sense, the fundamental question of by what right a court may do violence to another person and impose such a punishment. The answer the *mishnah* offers is: he willingly accepted it upon himself.
+
+Then: *hemit b'toch k'dei dibur* — even after all of the above, he must actually commit the crime within *toch k'dei dibur*, within approximately three seconds of accepting the warning upon himself. If he does not, the concern is that perhaps he forgot. That may seem almost absurd — can one truly forget within three seconds? A more satisfying reading may be that if the act is not carried out in immediate temporal proximity to the acceptance, it is no longer performed in the context of the total defiance that *hitir atzmo lemitah* requires, and thus does not grant the court the license to execute.
+
+### Jew or Non-Jew; Avodah Z…
+
+> **Hebrew/Aramaic:** הָעוֹבֵד עֲבוֹדָה זָרָה. אֶת מִי עָבַד: לִפְעוֹר עָבַד? לְמַרְקוּלִיס עָבַד? וּבַמָּה עָבַד: בְּזִיבּוּחַ? בְּקִיטּוּר? בְּנִיסּוּךְ? בְּהִשְׁתַּחֲוָאָה?
+>
+> **Translation:** In the case of **one who** is an accused **idol worshipper,** the court asks the witness: **Whom** among the idols **did he worship? Did he worship Peor? Did he worship Markulis? And in what** manner **did he worship?** Was it **by sacrificing** an offering, or **by burning** incense, **by pouring** wine **as a libation,** or **by prostrating** before the idol?
+
+The *baraita* then turns to a case not of murder but of *avodah zarah* — idolatry. Here the witnesses are asked: *et mi avad* — which deity did he worship? Was it Pe'or, was it Markolis? Unlike the distinction between Jew and non-Jew in the murder case — where the identity of the victim determines whether the death penalty applies at all — here the identity of the deity serves a different purpose. What matters is whether the form of worship performed is the form specific to that deity, which is necessary for determining *chayav mitah*.
+
+The witnesses are also asked *uvameh avad* — how did he perform the worship? Was it through *zibuach* (slaughtering an animal), *kitur* (burning incense), *nisuch* (pouring a libation), or *hishtachavayah* (prostration)? These four constitute the generic standard forms of divine service, and performing any one of them renders one liable for *avodah zarah* regardless of whether that particular form is native to the specific deity in question. The inquiry is thus not essential to establishing liability, but forms part of the *chakirot* — the broader effort to interrogate the witnesses, establish all the facts, and potentially expose inconsistencies or contradictions between them.
+
+### Ulla: Source for Hatra'ah
+
+> **Hebrew/Aramaic:** אָמַר עוּלָּא: מִנַּיִין לְהַתְרָאָה מִן הַתּוֹרָה? שֶׁנֶּאֱמַר: ״וְאִישׁ אֲשֶׁר יִקַּח אֶת אֲחֹתוֹ בַּת אָבִיו אוֹ בַת אִמּוֹ וְרָאָה אֶת עֶרְוָתָהּ״. אַטּוּ בִּרְאִיָּה תַּלְיָא מִילְּתָא? אֶלָּא עַד שֶׁיַּרְאוּהוּ טַעְמוֹ שֶׁל דָּבָר. אִם אֵינוֹ עִנְיָן לְכָרֵת –
+>
+> **Translation:** **Ulla says: From where in the Torah** is the obligation **of forewarning** derived? **As it is stated: "And if a man shall take his sister, his father's daughter, or his mother's daughter, and see her nakedness** and she see his nakedness, it is a disgraceful deed and they shall be cut off in the sight of their people" (Leviticus 20:17). One can ask: **Is that to say** that **the matter is dependent on sight?** The transgression is engaging in sexual intercourse, not seeing each other. **Rather,** the meaning of "and see" is: He is not liable **until he sees the reason of the matter,** that it should be clear to him that he is committing a transgression by having been forewarned. **If** this *halakha* **is not needed for the matter of excision [*karet*],** as this punishment is in the hands of Heaven, and God is aware whether or not he acted intentionally,
+
+Having introduced the requirement of *hatra'ah*, the *gemara* now asks: *minayin le'hatra'ah min haTorah* — where in the Torah is *hatra'ah* derived? *Ulla* cites the verse: *v'ish asher yikach et achoto bat aviv o vat imo v'ra'ah et ervatah* — if a man takes his sister, the daughter of his father or his mother, and sees her nakedness. This is the sin of sexual relations with a sister, which is punishable by *karet*.
+
+The *gemara* immediately asks: *atu b're'iyah talya miltah* — is the prohibition really about seeing? The act that is forbidden is intercourse, not vision. Rather, *ela ad she'yireh re'iyuto shel davar* — the verse teaches that the transgression must be performed, so to speak, in the open: the fact of the transgression must be blatant to the transgressor before punishment follows. In other words, the person must have seen — that is, clearly recognized — that what he was doing was wrong.
+
+The *gemara* then asks: *im eino inyan l'karet* — but this verse is speaking of *karet*, divine punishment. *Karet* is administered by Heaven, and God knows whether one acted willfully or not. The entire framework of *hatra'ah* — establishing *mezid*, confirming a posture of defiance — is relevant only to a court-imposed sanction. So this teaching about *ra'ah*, about the transparency of the act, is not needed for *karet* itself, and must therefore be applied elsewhere.
+
+### Hatra'ah for Lashes & Ca…
+
+> **Hebrew/Aramaic:** תְּנֵהוּ עִנְיָן לְמַלְקוּת.
+>
+> **Translation:** **apply it to the matter of lashes,** as forewarning is required for the court to be able to administer lashes.
+
+> **Hebrew/Aramaic:** דְּבֵי חִזְקִיָּה תָּנָא: ״וְכִי יָזִד אִישׁ עַל רֵעֵהוּ לְהׇרְגוֹ בְעׇרְמָה״ – שֶׁהִתְרוּ בּוֹ, וַעֲדַיִין הוּא מֵזִיד.
+>
+> **Translation:** **The school of Ḥizkiyya taught** a source for the requirement of forewarning from the verse concerning the court-imposed capital punishment meted out to a murderer, as it is states: **"But if a man come intentionally upon his neighbor to slay him with guile"** (Exodus 21:14). How do the witnesses know that he acted intentionally? It must be **that they forewarned him, and still he** acts **intentionally.**
+
+> **Hebrew/Aramaic:** דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״הַמֹּצְאִים אִתּוֹ מְקֹשֵׁשׁ עֵצִים״ – שֶׁהִתְרוּ בּוֹ, וַעֲדַיִין הוּא מְקוֹשֵׁשׁ.
+>
+> **Translation:** **The school of Rabbi Yishmael taught** a source for the requirement to forewarn transgressors from the verse concerning the court-imposed capital punishment meted out to the wood-gatherer on Shabbat in the wilderness, as it is stated: "And **they that found him gathering sticks** brought him" (Numbers 15:33). By writing "gathering" in the present tense, the verse indicates **that they forewarned him, but** he is **still gathering.**
+
+> **Hebrew/Aramaic:** דְּבֵי רַבִּי תָּנָא: ״עַל דְּבַר אֲשֶׁר עִנָּה״ – עַל עִסְקֵי דִּיבּוּר.
+>
+> **Translation:** **The school of Rabbi** Yehuda HaNasi **taught** a source for the requirement to forewarn a transgressor from the verse concerning the court-imposed capital punishment meted out to one who commits adultery with a betrothed young woman, as it is stated: **"For the matter [*devar*] that he has humbled** his neighbor's wife" (Deuteronomy 22:24). They make a verbal analogy: **For matters** involving **speech [*dibbur*],** the punishment is given only if the witnesses issued a verbal forewarning.
+
+> **Hebrew/Aramaic:** וּצְרִיכָא, דְּאִי כְּתַב רַחֲמָנָא ״אֲחֹתוֹ״ – הֲוָה אָמֵינָא: חַיָּיבֵי מַלְקוֹת – אִין, חַיָּיבֵי מִיתוֹת – לָא. כְּתַב רַחֲמָנָא ״כִּי יָזִד״.
+>
+> **Translation:** The Gemara comments: **And** it is **necessary** to have all of these sources, **since if the Merciful One** would **write** the requirement of forewarning in the context of **"his sister"** (Leviticus 20:17) alone, **I would say: Those liable** to receive **lashes, yes,** they do require forewarning, but **those liable** to receive court-imposed **capital punishments,** whose transgressions are severe, do **not** require forewarning. Therefore **the Merciful One writes,** with regard to a murderer: **"If** a man **come intentionally."**
+
+> **Hebrew/Aramaic:** וְאִי כְּתַב רַחֲמָנָא ״וְכִי יָזִד״, הֲוָה אָמֵינָא: הָנֵי מִילֵּי – סַיִיף דְּקִיל, אֲבָל סְקִילָה דַּחֲמוּרָה – אֵימָא לָא. צְרִיכָא.
+>
+> **Translation:** **And if the Merciful One** would **write** only: **"If** a man **come intentionally," I would say** that **this statement** applies only when the penalty is death by the **sword, as** that is **a lenient** form of court-imposed capital punishment. **But** with regard to **stoning, which** is **a severe** form of court-imposed capital punishment, one could **say** that it does **not** require forewarning. Therefore, it is **necessary** to state the requirement of forewarning with regard to one who desecrates Shabbat.
+
+> **Hebrew/Aramaic:** וְתַרְתֵּי בְּנִסְקָלִין לְמָה לִי? לְרַבִּי שִׁמְעוֹן, לְאֵתוֹיֵי נִשְׂרָפִין.
+>
+> **Translation:** The Gemara asks: **And why do I** need **two** verses that state the requirement for forewarning **in** the context of those liable to be **stoned?** Both the Shabbat violator and one who commits adultery with a betrothed young woman are punished with stoning. The Gemara answers: **According to** the opinion of **Rabbi Shimon** that death by burning is more severe than death by stoning, the additional verse serves **to add** the *halakha* that a forewarning must be issued to **those** liable to be **burned** for their transgressions, by way of the application of the principle: If this *halakha* is not needed for the matter in which it is written, apply it to a different matter.
+
+> **Hebrew/Aramaic:** לְרַבָּנַן, מִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר טָרַח וְכָתַב לַהּ קְרָא. וְלִכְתּוֹב רַחֲמָנָא בְּנִסְקָלִין, וְלֵיתוֹ הָנָךְ וְלִיגְמְרוּ מִינֵּיהּ? הָכָא נָמֵי, מִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר טָרַח וְכָתַב לַהּ קְרָא.
+>
+> **Translation:** **According to** the opinion of **the Rabbis** that death by stoning is more severe than death by burning, one can say that even with **a matter that can be derived through an *a fortiori*** inference, the **verse** nevertheless **takes the trouble and writes it** explicitly. The Gemara challenges: **But let the Merciful One write** this *halakha* only **in** the context of **those** liable to be **stoned, and let these** others **be derived from it,** as stoning is the most severe punishment. The Gemara answers: **Here too,** one can say that even with **a matter that can be derived through an *a fortiori*** inference, the **verse** nevertheless **takes the trouble and writes it** explicitly.
+
+The top of 41a concludes this point: *tanya inyan lemalkos* — the verse is applied to lashes. When a court-imposed punishment of *malkos* is on the table, it must be established that the transgressor acted with full awareness. Thus we learn that *hatra'ah* is at minimum required for lashes.
+
+The *gemara* then brings three additional sources extending this principle to capital cases. The school of *Chizkiya* teaches from the verse *vechi yazid ish al re'ehu lehargo be'arma* — when a man acts willfully against his fellow to kill him by treachery — *shehitru bo ve-adayin hu mezid*: that even after being warned, he remained *mezid*, willful. *Rashi* explains that *vechi yazid*, as opposed to *im yazid*, conveys that the dimension of *mezid* is vividly and continuously present in the act itself.
+
+The school of Rabbi Yishmael derives *hatra'ah* from the incident of the *mekoshish*, the wood gatherer: *hamotzim oto mekoshesh etzim* — those who found him gathering wood. The verse does not say merely that they found someone who had been gathering; it says they found him still in the act of gathering — *adayin hu mekoshesh* — even in the presence of the witnesses. This again conveys an ongoing, defiant posture.
+
+The school of *Rebbi* derives it from the verse *al devar asher ina et eshet re'ehu* — on account of the matter of his having violated his fellow's wife. The phrase *al devar* rather than *al asher* points to an element of speech — *al iskei dibbur* — that must accompany the act. Notably, several of these sources seem to point toward something beyond establishing mere mental state. The *mekoshish* continuing to gather in the witnesses' presence, the explicit *al devar dibbur* — these suggest an element of defiance and public declaration, not only a determination of intent.
+
+The *gemara* then explains why all these different verses are necessary. Had the Torah stated only the case of the sister (*karet* punishable by *malkos*), one might have thought *hatra'ah* is required for the lighter sanction but not for capital punishment, since the gravity of the offense might argue for punishing even without formal warning. Hence we need *vechi yazid* for the case of the sword (*sayif*). But had we only the case of *sayif*, which is considered a lesser form of execution, one might have excluded *skila*, the weightiest — perhaps such a severe punishment requires no *hatra'ah*, or perhaps the greater severity demands it. Hence additional verses are required. And the *gemara* ultimately acknowledges: one might argue that the *sukim* could have stated *skila* alone and all lighter cases could have been derived by *kal vachomer* — but *milsa de'asya bikal vachomer tarch va-kasav lah kra*, even something derivable by *kal vachomer* sometimes receives its own explicit verse.
+
+---
+
+## Hitir Atzmo Lemita
+
+### Rava: Hamet Status
+
+> **Hebrew/Aramaic:** הִתִּיר עַצְמוֹ לְמִיתָה, מְנָא לַן? אָמַר רָבָא, וְאִיתֵּימָא חִזְקִיָּה, אָמַר קְרָא: ״יוּמַת הַמֵּת״ – עַד שֶׁיַּתִּיר עַצְמוֹ לְמִיתָה.
+>
+> **Translation:** § The *baraita* teaches that one of the questions the court asks of the witnesses is: **Did he release himself to death,** i.e., did he acknowledge that he is aware that the court imposes capital punishment for murder? The Gemara asks: **From where do we** derive that he must release himself to death? **Rava said, and some say** it was **Ḥizkiyya** who said, that **the verse states:** "By the mouth of two witnesses or three witnesses shall **the dead be put to death"** (Deuteronomy 17:6). By referring to the transgressor as dead even before he is executed, the verse indicates that he is not executed **until he releases himself to death,** by stating that he is aware that he will be executed for his transgression.
+
+The *gemara* now turns to the further requirement of *hitir atzmo lemitah*. The preceding requirement — *kibel alav* — that he acknowledged and accepted the warning, is treated as self-evident: without confirmed receipt of the warning, the accused can always claim he did not hear it. But where is the requirement of *hitir atzmo lemitah* itself derived?
+
+*Rava* — and some say *Chizkiya* — cites the verse *yumat hamet*, "the dead shall be put to death." The seemingly redundant word *hamet* — the dead — teaches that the defendant must already have made himself into *hamet*, the walking dead, before the court can execute him. He must have explicitly accepted that his action renders him deserving of death. This formulation reinforces the sense that the court is not imposing something alien upon him; rather, it is actualizing a status he himself accepted.
+
+### Rav Chanan: Edim Zomemim
+
+> **Hebrew/Aramaic:** אָמַר רַב חָנָן: עֵדֵי נַעֲרָה הַמְאוֹרָסָה שֶׁהוּזַּמּוּ אֵין נֶהֱרָגִין, מִתּוֹךְ שֶׁיְּכוֹלִים לוֹמַר ״לְאוֹסְרָהּ עַל בַּעְלָהּ בָּאנוּ״.
+>
+> **Translation:** **Rav Ḥanan says: Witnesses** who testify to the adultery **of a betrothed young woman who were rendered conspiring witnesses are not killed.** Although conspiring witnesses are generally punished with the same punishment they attempted to impose on the purported transgressor (see Deuteronomy 19:19), this is an exception. This is **because they can say:** We did not come to testify in order to have her be executed; rather, **we came to forbid her to her husband,** as a betrothed or married woman who willingly engages in adulterous sexual intercourse is forbidden to her husband.
+
+> **Hebrew/Aramaic:** וְהָא אַתְרוֹ בַּהּ? דְּלָא אַתְרוֹ בַּהּ. וְאִי לָא אַתְרוֹ בַּהּ, הֵיכִי מִיקַּטְלָא?
+>
+> **Translation:** The Gemara challenges this ruling: **But** they must testify that **they forewarned her** before her transgression, and a forewarning includes apprising the transgressor of the punishment he or she will receive. How can the witnesses claim that they did not intend this result? The Gemara answers: Rav Ḥanan stated his *halakha* with regard to a case **where** they claim **they did not forewarn her.** The Gemara asks: **But if** they claim **they did not forewarn her, how can she be killed?** If she would not have been killed, there is no novelty to Rav Ḥanan's statement that the witnesses are not killed.
+
+> **Hebrew/Aramaic:** בְּאִשָּׁה חֲבֵירָה, וְאַלִּיבָּא דְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה. דְּתַנְיָא, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: חָבֵר אֵין צָרִיךְ הַתְרָאָה, לְפִי שֶׁלֹּא נִתְּנָה הַתְרָאָה אֶלָּא לְהַבְחִין בֵּין שׁוֹגֵג לְמֵזִיד.
+>
+> **Translation:** The Gemara explains: Rav Ḥanan stated his *halakha* **with regard to a woman** who is **a *ḥavera*,** knowledgeable in Torah, **and** it is **in accordance with** the opinion **of Rabbi Yosei, son of Rabbi Yehuda. As it is taught** in a *baraita*: **Rabbi Yosei, son of Rabbi Yehuda, says: A *ḥaver* does not require forewarning** in order to be liable for a transgression, **because forewarning is given only in order to distinguish between an intentional** and **an unintentional** act.
+
+> **Hebrew/Aramaic:** וְכֵיוָן דְּאִינְהוּ לָא מִיקַּטְלִי, אִיהִי הֵיכִי מִיקַּטְלָא? הָוְיָא לַהּ עֵדוּת שֶׁאִי אַתָּה יָכוֹל לַהֲזִימָּהּ, וְכׇל עֵדוּת שֶׁאִי אַתָּה יָכוֹל לַהֲזִימָּהּ לֹא שְׁמָהּ עֵדוּת.
+>
+> **Translation:** The Gemara asks further: **But since** the witnesses **are not killed** for their conspiratory testimony in the case of a *ḥavera*, **how can she be killed** for her action? Their testimony is **testimony that you cannot render conspiratory** testimony, i.e., the witnesses cannot be punished for their testimony, **and any testimony that you cannot** potentially **render conspiratory** testimony is **not categorized as testimony.**
+
+> **Hebrew/Aramaic:** הָכִי נָמֵי קָאָמַר: מִתּוֹךְ שֶׁאֵין נֶהֱרָגִין, שֶׁיְּכוֹלִין לוֹמַר ״לְאוֹסְרָהּ עַל בַּעְלָהּ בָּאנוּ״, אַף הִיא אֵינָהּ נֶהֱרֶגֶת, דְּהָוְיָא לַהּ עֵדוּת שֶׁאִי אַתָּה יָכוֹל לַהֲזִימָּהּ.
+>
+> **Translation:** The Gemara answers: **That is also what he is saying: Since** the witnesses **are not killed, as they can say: We came to forbid her to her husband, she is also not killed, since** their testimony **is testimony that you cannot** potentially **render conspiratory** testimony.
+
+> **Hebrew/Aramaic:** אֶלָּא בְּאִשָּׁה חֲבֵירָה, דְּקַיְימָא לַן דְּמִיקַּטְלָא, אַלִּיבָּא דְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה הֵיכִי מַשְׁכַּחַתְּ לַהּ? כְּשֶׁזִּינְּתָה, וְחָזְרָה וְזִינְּתָה.
+>
+> **Translation:** The Gemara challenges: **But with regard to a woman** who is **a *ḥavera*, since we maintain that she** can be **killed** without being forewarned, **how can you find this** occurring **according to** the opinion **of Rabbi Yosei, son of Rabbi Yehuda?** As there was no forewarning, the witnesses can claim that their intention was to forbid her to her husband. The Gemara answers: It is found in a case **where** they testify that **she committed adultery and then** they testified that **she again committed adultery.** The witnesses cannot claim that their testimony was meant to forbid her to her husband, as she was already forbidden to him due to the first time she committed adultery.
+
+> **Hebrew/Aramaic:** וְהָא יְכוֹלִין לוֹמַר: ״לְאוֹסְרָהּ עַל בּוֹעֲלָהּ שֵׁנִי בָּאנוּ״! שֶׁזִּינְּתָה מִבּוֹעֵל רִאשׁוֹן, אִי נָמֵי שֶׁזִּינְּתָה מִקְּרוֹבֶיהָ.
+>
+> **Translation:** The Gemara questions this: **But** the witnesses **can say: We come to forbid her to her second paramour.** The *halakha* is that in addition to becoming forbidden to her husband, an adulterous woman becomes forbidden to her paramour. The witnesses can claim that this was their intent in testifying. The Gemara answers: It is found in a case **where** they testify that **she** again **committed adultery with the first paramour,** i.e., the second act was with the same paramour, to whom she was already forbidden. **Alternatively,** it is found in a case **where** they testify that **she committed adultery with** one of **her relatives,** to whom she is forbidden regardless.
+
+> **Hebrew/Aramaic:** מַאי שְׁנָא נַעֲרָה מְאוֹרָסָה דְּנָקֵט? אֲפִילּוּ נְשׂוּאָה נָמֵי! אִין, אֶלָּא אֲפִילּוּ הַאי דְּלָא יָתְבָא תּוּתֵיהּ יְכוֹלִין לוֹמַר: ״לְאוֹסְרָהּ עַל בַּעְלָהּ בָּאנוּ״.
+>
+> **Translation:** The Gemara clarifies: **What is different that** Rav Ḥanan **chose** to state his *halakha* with regard to **a betrothed young woman?** His *halakha* could be stated with regard to **a married woman as well.** The Gemara answers: **Yes,** that is correct. **But** the novelty of this element of his ruling is that **even** with regard to **this** betrothed young woman, **who does not live under** her husband, the witnesses **can say: We came to forbid her to her husband.**
+
+---
+
+## Bedikot vs. Chakirot
+
+### Rav Chisda: Central vs.…
+
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא: אֶחָד אוֹמֵר ״בְּסַיִיף הֲרָגוֹ״, וְאֶחָד אוֹמֵר ״בַּאֲרִירָן הֲרָגוֹ״ – אֵין זֶה ״נָכוֹן״. אֶחָד אוֹמֵר ״כֵּלָיו שְׁחוֹרִין״, וְאֶחָד אוֹמֵר ״כֵּלָיו לְבָנִים״ – הֲרֵי זֶה ״נָכוֹן״.
+>
+> **Translation:** § **Rav Ḥisda says:** In a case where **one** of the witnesses **says:** The murderer **killed** the victim **with a sword, and one** of the witnesses **says:** The murderer **killed** the victim **with an *ariran*,** another weapon, **this is not congruent** testimony, as this is a clear contradiction. But if **one** of the witnesses **says:** The murderer's **garments** were **black, and one** of the witnesses **says:** The murderer's **garments** were **white, this is congruent** testimony, as this is not a meaningful discrepancy.
+
+*Rav Chisda* teaches the following principle: *echad omer be-sayif harago ve-echad omer be-aririn harago* — if one witness says he was killed with a sword and the other says with an awl or similar instrument, this is not *nachon* — their testimony is not aligned, and it is disqualified. That accords with the *mishnah*: if the *bedikot* contradict one another, the testimony is invalid. The *chiddush* of *Rav Chisda* comes in the next ruling: *echad omer kelim shechorim ve-echad omer kelim levanim harei zeh nachon* — if one witness says the perpetrator was wearing black clothes and the other says white clothes, this *is* considered *nachon*. Contradictions in *bedikot* that are peripheral to the actual act — what color clothing the defendant was wearing — do not disqualify the testimony. What matters is that the witnesses are aligned on the central defining facts of the transgression itself.
+
+This is an interesting observation in its own right. We know from real-world experience that eyewitness testimony is notoriously unreliable on peripheral details; the *halacha* here seems to reflect a similar intuition — that noise in peripheral observation does not undermine the core evidentiary weight of testimony. Nevertheless, the witnesses must agree on the substance of the act itself.
+
+The *gemara* challenges this from a *baraita*: *echad omer be-sayif harago ve-echad omer be-aririn harago echad omer kelim shechorim ve-echad omer kelim levanim ein zeh nachon* — a *baraita* that explicitly states that even disagreement on the color of clothing disqualifies testimony. *Rav Chisda* resolves this: *be-sudar she-chanku bo* — the *baraita* is not speaking of clothing worn by the defendant; it is speaking of the handkerchief or cloth used as the murder weapon in a strangulation. In that case the color of the cloth is directly part of the act of killing, comparable in nature to whether it was a sword or an awl. The *gemara* concedes that this interpretation is difficult — it does not sit easily with the plain reading of the *baraita* — but proceeds with it.
+
+A further *baraita* states: *echad omer sandalo shechorim ve-echad omer sandalo levanim ein zeh nachon* — disagreement about the color of the defendant's shoes also disqualifies. The *gemara* responds: *she-va'at bo be-sandalo ve-harago* — the shoe was the murder weapon; he kicked the victim with his shoe and killed him. Again, this is plainly not the *pshat* of the *baraita*, but the *gemara* continues to strain toward consistency with *Rav Chisda*'s principle.
+
+### Ben Zakkai: Fig Twigs
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: ״נָכוֹן״ – שֶׁיְּהֵא נָכוֹן. אֶחָד אוֹמֵר: ״בְּסַיִיף הֲרָגוֹ״, וְאֶחָד אוֹמֵר: ״בַּאֲרִירָן הֲרָגוֹ״. אֶחָד אוֹמֵר: ״כֵּלָיו שְׁחוֹרִין״, וְאֶחָד אוֹמֵר: ״כֵּלָיו לְבָנִים״ – אֵין זֶה ״נָכוֹן״. תַּרְגְּמַהּ רַב חִסְדָּא: בְּסוּדָר שֶׁחֲנָקוֹ בּוֹ, דְּהַיְינוּ סַיִיף וַאֲרִירָן.
+>
+> **Translation:** The Gemara **raises an objection** from a *baraita*: The verse states with regard to testimony: "And behold it be truth, the matter certain" (Deuteronomy 17:4). The meaning of **"certain"** is that the testimony of the two witnesses **must be congruent.** If **one** witness **says:** The murderer **killed** the victim **with a sword, and one says:** The murderer **killed** the victim **with an *ariran*,** or if **one** of the witnesses **says:** The murderer's **garments** were **black, and one** of the witnesses **says:** The murderer's **garments** were **white, this is not congruent** testimony. This contradicts the ruling of Rav Ḥisda. The Gemara answers: **Rav Ḥisda interpreted** that *baraita* as speaking **about a scarf with which** the murderer **strangled** the victim, **as this is** the same as a contradiction with regard to **a sword and an *ariran*.** As Rav Ḥisda himself ruled, a contradiction concerning details of the murder weapon renders the testimony incongruent.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: אֶחָד אוֹמֵר ״סַנְדָּלָיו שְׁחוֹרִין״, וְאֶחָד אוֹמֵר ״סַנְדָּלָיו לְבָנִים״ – אֵין זֶה ״נָכוֹן״. הָתָם נָמֵי, כְּגוֹן שֶׁבָּעַט בּוֹ בְּסַנְדָּלוֹ וַהֲרָגוֹ.
+>
+> **Translation:** The Gemara suggests: **Come** and **hear** proof from a *baraita*: If **one** of the witnesses **says:** The **sandals of** the murderer were **black, and one** of the witnesses **says:** The **sandals of** the murderer were **white, this is not congruent** testimony. This contradicts the ruling of Rav Ḥisda. The Gemara answers: Rav Ḥisda can explain that **there also,** it is speaking of a case **where** the murderer **kicked** the victim **with his sandal and killed him.**
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: מַעֲשֶׂה, וּבָדַק בֶּן זַכַּאי בְּעוּקְצֵי תְּאֵנָה. אָמַר רָמֵי בַּר חָמָא: כְּגוֹן שֶׁעָקַץ תְּאֵנָה בְּשַׁבָּת, דַּעֲלַהּ קָא מִיקְּטִיל.
+>
+> **Translation:** The Gemara suggests: **Come** and **hear** proof from the mishna: **An incident** occurred, **and ben Zakkai examined** the witnesses **about the stems of figs,** indicating that even a contradiction concerning a minor point such as this would render the testimony incongruent. The Gemara answers: **Rami bar Ḥama said:** It is speaking there of a case **where he picked a fig on Shabbat, as he is killed for that** act itself. Picking a fruit from its source of growth is an example of the forbidden labor of reaping, so the testimony about the characteristics of the fig is significant.
+
+> **Hebrew/Aramaic:** וְהָא תַּנְיָא: אָמְרוּ לוֹ ״תַּחַת תְּאֵנָה הֲרָגוֹ״? אֶלָּא אָמַר רָמֵי בַּר חָמָא: כְּגוֹן שֶׁשִּׁפְּדוֹ בְּיִיחוּר שֶׁל תְּאֵנָה.
+>
+> **Translation:** The Gemara asks: **But isn't it taught** in a *baraita*: When ben Zakkai asked the witnesses the question about the stems of figs, **they said to him:** The murderer **killed** the victim **beneath a fig tree,** indicating that it is speaking of a murder case? **Rather, Rami bar Ḥama said:** The mishna is speaking of a case **where** the murderer **stabbed** the victim **with a branch of a fig tree.** As Rav Ḥisda himself ruled, a contradiction concerning details of the murder weapon renders the testimony incongruent.
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע, אָמַר לָהֶן: תְּאֵנָה זוֹ עֳקָצֶיהָ דַּקִּין? עֳקָצֶיהָ גַּסִּין? תְּאֵנִים שְׁחוֹרוֹת? תְּאֵנִים לְבָנוֹת? אֶלָּא, אָמַר רַב יוֹסֵף: מִבֶּן זַכַּאי לוֹתֵיב אִינִישׁ? שָׁאנֵי בֶּן זַכַּאי, דִּבְדִיקוֹת כַּחֲקִירוֹת מְשַׁוֵּי לֵיהּ.
+>
+> **Translation:** **Come** and **hear** a proof, as in that same examination ben Zakkai **said to** the witnesses: **This fig** tree about which you are testifying, were **its stems thin** or were **its stems thick?** Were the **figs** on it **black** or were the **figs white?** These questions concern the fruit itself, not the characteristics of a branch. **Rather, Rav Yosef says: Should a person raise a difficulty from** the conduct of **ben Zakkai? Ben Zakkai is different, as he equated examinations with interrogations.** According to ben Zakkai's opinion, a contradiction in the witnesses' answers to an examination is as significant as a contradiction in the witnesses' answers to an interrogation, and it also renders the testimony incongruent.
+
+A further challenge emerges from the *mishnah* itself, which records that Ben Zakkai once examined witnesses on the question of *uktzei te'einim* — the twigs or stems of fig trees. This seems entirely peripheral — how can such a detail be a legitimate basis for invalidating testimony? This sits uncomfortably with *Rav Chisda*'s distinction between central and peripheral *bedikot*.
+
+*Rami bar Chama* proposes: perhaps the case was not one of murder at all, but of someone who plucked a fig on *Shabbat* — *de-aktaf te'ena be-Shabbat* — in which case the fig itself is part of the transgression and the examination of its characteristics is directly relevant to the act.
+
+The *gemara* objects: the *baraita* explicitly states *tachat te'ena harago* — he killed him under a fig tree — which places the case squarely in the domain of murder. *Rami bar Chama* then offers an alternative: *she-shafto be-yichur shel te'ena* — he speared the victim with the twig of the fig. This, too, is acknowledged to be a highly strained reading — a fig twig seems hardly sufficient to kill anyone, and the *gemara* is, as the lecturer notes, doing somersaults to maintain *Rav Chisda*'s position against the plain testimony of these sources.
+
+A further question is then posed: if the fig was the murder weapon, why does the *mishnah* also ask whether the figs were black or white (*te'einim shechorot, te'einim levanot*)? There is no conceivable way a fig itself could kill someone. This truly cannot be explained by the murder-weapon theory.
+
+The *gemara* concludes: *mibei Ben Zakkai lo tosif inish* — one should not derive rules from Ben Zakkai. *Shani Ben Zakkai de-bedikot ke-chakirot mashvei lehu* — Ben Zakkai treated *bedikot* as though they carried the same weight as *chakirot*. That is, he held that any contradiction in a *bedikah* — even the most peripheral — is sufficient grounds to invalidate the testimony, just as in the *chakirot*. This represents a minority position, and *Rav Chisda*'s ruling reflects the majority view: only contradictions in *bedikot* that are central to the act of the transgression disqualify the testimony; peripheral contradictions do not.
+
+### Ben Zakkai Identification
+
+> **Hebrew/Aramaic:** מַאן בֶּן זַכַּאי? אִילֵּימָא רַבִּי יוֹחָנָן בֶּן זַכַּאי, מִי הֲוָה בְּסַנְהֶדְרִי? וְהָתַנְיָא: כׇּל שְׁנוֹתָיו שֶׁל רַבִּי יוֹחָנָן בֶּן זַכַּאי מֵאָה וְעֶשְׂרִים שָׁנָה. אַרְבָּעִים שָׁנָה עָסַק בִּפְרַקְמַטְיָא, אַרְבָּעִים שָׁנָה לָמַד, אַרְבָּעִים שָׁנָה לִימֵּד.
+>
+> **Translation:** § The Gemara clarifies: **Who** is the **ben Zakkai** mentioned in the mishna? **If we say** it is **Rabbi Yoḥanan ben Zakkai, was he** a member **in a Sanhedrin** that judged capital cases? **But isn't it taught** in a *baraita*: **All the years of Rabbi Yoḥanan ben Zakkai** were **120 years.** For **forty** of those **years he dealt in business [*biferakmatya*],** for **forty** of those **years he studied, and** for **forty** of those **years he taught** and guided the Jewish people.
+
+> **Hebrew/Aramaic:** וְתַנְיָא: אַרְבָּעִים שָׁנָה קוֹדֶם חוּרְבַּן הַבַּיִת, גָּלְתָה סַנְהֶדְרִין וְיָשְׁבָה לָהּ בַּחֲנוּת. וְאָמַר רַבִּי יִצְחָק בַּר אֲבוּדִימִי: לוֹמַר שֶׁלֹּא דָּנוּ דִּינֵי קְנָסוֹת. דִּינֵי קְנָסוֹת סָלְקָא דַּעְתָּךְ? אֶלָּא שֶׁלֹּא דָּנוּ דִּינֵי נְפָשׁוֹת.
+>
+> **Translation:** The Gemara continues its question: **And it is taught** in a *baraita*: **Forty years before the destruction of the** Second **Temple, the Sanhedrin was exiled** from the Chamber of Hewn Stone **and sat in the store** near the Temple Mount. **And Rabbi Yitzḥak bar Avudimi says:** The intent of the statement concerning the relocation of the Sanhedrin is **to say that** they **no** longer **judged laws of fines.** The Gemara asks: Does it **enter your mind** to say that they no longer judged **laws of fines?** It is known that the Sanhedrin would judge laws of fines for hundreds of years after the destruction of the Temple. **Rather,** he must have said **that** the Sanhedrin **no** longer **judged** cases of **capital law.** Once the Sanhedrin left the Chamber of Hewn Stone, the court's power to judge capital cases was nullified.
+
+> **Hebrew/Aramaic:** וּתְנַן: מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי.
+>
+> **Translation:** The Gemara concludes its question: **And** since as **we learned** in a mishna (*Sukka* 41a): **Once the Temple was destroyed, Rabban Yoḥanan ben Zakkai instituted** an ordinance that the mitzva of *lulav* should be performed even in the rest of the country for seven days in commemoration of the Temple, it is clear that he was in a position of prominence after the destruction of the Temple. Since the Sanhedrin ceased judging cases of capital law forty years before the destruction of the Temple, and Rabban Yoḥanan ben Zakkai was in a position of prominence for only forty years, he could not have been a judge in a capital case.
+
+> **Hebrew/Aramaic:** אֶלָּא, בֶּן זַכַּאי דְּעָלְמָא. הָכִי נָמֵי מִסְתַּבְּרָא, דְּאִי סָלְקָא דַּעְתָּךְ רַבָּן יוֹחָנָן בֶּן זַכַּאי, קָרֵי לֵיהּ רַבִּי ״בֶּן זַכַּאי״?
+>
+> **Translation:** The Gemara suggests: **Rather,** one can say that it was **merely** a different person named **ben Zakkai,** not the well-known Sage of that name. The Gemara comments: **So too, it is reasonable** to say this, **as if it enters your mind** that this was **Rabban Yoḥanan ben Zakkai, would Rabbi** Yehuda HaNasi **call him ben Zakkai,** without any title? He must have been referring to someone else.
+
+> **Hebrew/Aramaic:** וְהָתַנְיָא: מַעֲשֶׂה וּבָדַק רַבָּן יוֹחָנָן בֶּן זַכַּאי בְּעוּקְצֵי תְּאֵנִים! אֶלָּא, תַּלְמִיד הַיּוֹשֵׁב לִפְנֵי רַבּוֹ הֲוָה, וַאֲמַר מִילְּתָא וּמִסְתַּבַּר לְהוּ טַעְמֵיהּ,
+>
+> **Translation:** The Gemara asks: **But isn't it taught** in a *baraita* explicitly: **An incident** occurred, **and Rabban Yoḥanan ben Zakkai examined** the witnesses **with regard to the stems of figs?** This proves that the Sage in question is Rabban Yoḥanan ben Zakkai. **Rather,** one can say that at that time, when this incident occurred, Rabban Yoḥanan ben Zakkai **was a student sitting before his teacher,** and in those years the Sanhedrin was in its place and judged cases of capital law. **And he said a matter** in the course of examining the witnesses, **and his reasoning was logical to them,** and the judges asked his question,
+
+> **Hebrew/Aramaic:** וְקַבְעוּהָ בִּשְׁמֵיהּ. כִּי הֲוָה לָמַד, ״בֶּן זַכַּאי״ הֲוָה קָרֵי לֵיהּ, כְּתַלְמִיד הַיּוֹשֵׁב לִפְנֵי רַבּוֹ. כִּי הֲוָה לִימֵּד, הֲוָה קָרֵי לֵיהּ ״רַבָּן יוֹחָנָן בֶּן זַכַּאי״. כִּי קָרֵי לֵיהּ ״בֶּן זַכַּאי״ – עַל שֵׁם דְּמֵעִיקָּרָא, וְכִי קָרֵי לֵיהּ ״רַבָּן יוֹחָנָן בֶּן זַכַּאי״ – עַל שֵׁם דְּהַשְׁתָּא.
+>
+> **Translation:** **and** Rabbi Yehuda HaNasi **established it** in the mishna **in his name. When he was studying, they called him ben Zakkai, in the manner** that they would call **a student sitting before his teacher,** and **when he was teaching** others **they called him Rabban Yoḥanan ben Zakkai.** In terms of the *baraita* and the mishna, **when they called him ben Zakkai** in the Mishna, that was **based on the name that** he was called **initially. And when they called him Rabban Yoḥanan ben Zakkai** in the other *baraita*, that was **based on the name that** he was called **now.**
+
+The *gemara* asks: *man Ben Zakkai* — who exactly is this Ben Zakkai? If it is the famous Rabban Yochanan ben Zakkai, *mi hava be-Sanhedri* — how could he have served on the *Sanhedrin* in a capital case?
+
+A *baraita* records that Rabban Yochanan ben Zakkai lived 120 years, divided into three periods of forty years each: forty years in business, forty years learning, and forty years teaching. Only in his final forty years did he attain the stature of a leading *rav* capable of sitting on a *beis din* in a capital case. But another *baraita* teaches: *arba'im shana kodem churban ha-bayit galta Sanhedrin ve-yashva la be-chanut* — forty years before the destruction of the *Beis HaMikdash*, the *Sanhedrin* relocated from the *Lishkat HaGazit* to one of the chambers adjoining the *Beis HaMikdash*, and ceased adjudicating capital cases. Rabbi Yitzchak bar Avdimi clarifies: the relocation signified that they no longer judged *dinei nefashot* — capital crimes — since such adjudication requires the *Beis Din HaGadol* to be seated in the *Lishkat HaGazit*.
+
+Since Rabban Yochanan ben Zakkai survived the destruction of the *Beis HaMikdash*, and since the *Sanhedrin* stopped hearing capital cases forty years before that destruction, it follows that his entire final forty-year period of teaching and public leadership fell after the *Sanhedrin* had ceased capital jurisdiction. He could therefore never have participated in such a case. A *mishnah* further confirms that Rabban Yochanan ben Zakkai instituted *takanos* after the *churban*, placing him clearly in the post-destruction era.
+
+The *gemara* therefore concludes: *ella Ben Zakkai d'alma* — this must have been some other Ben Zakkai, perhaps a brother or relative, not the famous Rabban. And indeed, the text of the *mishnah* refers to him simply as "Ben Zakkai" without the title *Rabban* — itself evidence that it cannot be Rabban Yochanan ben Zakkai. *Hachi nami mistavra* — this also makes logical sense: had it been Rabban Yochanan ben Zakkai, he would surely have been referred to with his full title.
+
+But the *gemara* then adduces a *baraita* that explicitly attributes this examination of the fig twigs to *Rabban Yochanan ben Zakkai* — by name and title. This creates a direct contradiction. How can the *mishnah* attribute it to a nameless "Ben Zakkai" while the *baraita* attributes the same act to Rabban Yochanan ben Zakkai?
+
+The *gemara* resolves both problems with a single elegant answer: *talmid hayoshev lifnei rabbo hava* — at the time of this incident, Yochanan ben Zakkai was still a student sitting before his teacher. This places the event during his middle forty years of study, before he had received *semikhah* and the title *Rabban*, and at a time when the *Beis Din* was still seated in the *Lishkat HaGazit* and still hearing capital cases. He had not yet become *Rabban*; he was present in the *beis din* as a student. He suggested examining the witnesses on the fig-twig details, the court found it compelling, and *ukeva'uha bishmeih* — the practice was formally attributed to him.
+
+As for the discrepancy in names: *ki hava lomed Ben Zakkai hava kari leh* — during his years of study he was called simply "Ben Zakkai," as befitting a student. *Ki hava melammed Rabban Yochanan ben Zakkai hava kari leh* — when he was teaching and had received *semikhah*, he bore the title Rabban. The *mishnah*, in calling him "Ben Zakkai," uses the name current at the time of the incident itself. The *baraita*, in calling him "Rabban Yochanan ben Zakkai," uses the name by which he was universally known at the time the *baraita* was composed. Both are accurate; they simply operate from different temporal reference points.
+
+### Chakirot & Hazama vs. Be…
+
+> **Hebrew/Aramaic:** מָה בֵּין חֲקִירוֹת לִבְדִיקוֹת? חֲקִירוֹת – אֶחָד אוֹמֵר ״אֵינִי יוֹדֵעַ״, עֵדוּתָן בְּטֵילָה, בְּדִיקוֹת – אָמַר אֶחָד ״אֵינִי יוֹדֵעַ״, וַאֲפִילּוּ שְׁנַיִם אוֹמְרִים ״אֵין אָנוּ יוֹדְעִים״, עֵדוּתָן קַיֶּימֶת. מִכְּדֵי, אִידֵּי וְאִידֵּי דְּאוֹרָיְיתָא הִיא, מַאי שְׁנָא חֲקִירוֹת וּמַאי שְׁנָא בְּדִיקוֹת?
+>
+> **Translation:** § The mishna teaches: **What** is the difference **between interrogations and examinations?** In the case of **interrogations,** if **one** of the witnesses **says: I do not know** the answer, **their testimony is void** immediately. In the case of **examinations,** if **one says: I do not know** the answer, **and even** if **two say: We do not know** the answer, **their testimony** still **stands.** Rami bar Ḥama asks: **After all, this** type of question **and that** type of question **are** required **by Torah law; what is different** about **interrogations and what is different** about **examinations?** Why is there a difference in *halakha* between the two?
+
+> **Hebrew/Aramaic:** אָמְרִי לֵיהּ: הָכִי הַשְׁתָּא? בַּחֲקִירוֹת, אָמַר אֶחָד ״אֵינִי יוֹדֵעַ״ – עֵדוּתָן בְּטֵילָה, דְּהָוְיָא לַהּ עֵדוּת שֶׁאִי אַתָּה יָכוֹל לַהֲזִימָּהּ. בְּדִיקוֹת, אָמַר אֶחָד מֵהֶן ״אֵינִי יוֹדֵעַ״ – עֵדוּתָן קַיֶּימֶת, עֵדוּת שֶׁאַתָּה יָכוֹל לַהֲזִימָּהּ הוּא.
+>
+> **Translation:** Rav Kahana and Rav Safra **said to him: How can** these cases **be compared? With regard to the interrogations,** if **one** witness **says: I do not know, their testimony is void, as it is testimony that you cannot render conspiratory** testimony. If the witnesses do not state a specific time and place, there is no way for other witnesses to claim that the first witnesses had been with them elsewhere at the time they claim the event occurred. By contrast, with regard to the **examinations,** if **one of the** witnesses **says: I do not know, their testimony stands,** as **it is testimony that you can render conspiratory** testimony.
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ: אִי הָכִי אָמְרִיתוּ בַּהּ, טוּבָא אָמְרִיתוּ בַּהּ. אָמְרִי לֵיהּ: מִטֵּיבוּתֵיהּ דְּמָר אָמְרִינַן בַּהּ טוּבָא, מִנְּזִיהוּתֵיהּ דְּמָר לָא אָמְרִינַן בַּהּ וְלָא חֲדָא.
+>
+> **Translation:** Rami bar Ḥama **said to them: If you said** an incisive statement **like this about** this tractate, **you said much about it.** Rav Kahana and Rav Safra **said to him: Due to the Master's goodness,** that is, due to your good will and desire to accept our answer to your question, **we said much about it.** But **with the Master's rebuke** and challenge **we would not say** even **one** answer **about it,** i.e., if you had wished to criticize this answer you could have refuted it, and it would be as if we did not say any answer.
+
+The *mishnah* asks: *mah bein chakirot l'bedikot* — what is the difference between *chakirot* (examination on time and place) and *bedikot* (examination on circumstantial details)? By *chakirot*, if even one witness says *eini yodea* — I do not know — the testimony is invalidated. By *bedikot*, even if both witnesses say *eini yodea*, the testimony stands.
+
+The *gemara* explores whether there is anything genuinely novel in the further formulation *afilu shnayim omrim ein anu yodeim edutan kayemes* — even if both say they do not know, the testimony is still valid. *Pishita* — surely that is obvious: if one person's *eini yodea* on a *bedikah* does not invalidate, then two saying so is equally inconsequential. There are only two witnesses; if each individually saying *eini yodea* is not a problem, there is no one left to make it one.
+
+*Rav Sheshet* proposes reading the clause as pertaining to the *chakirot* rather than the *bedikot*, and furthermore as a case involving a third witness. When three witnesses testify together as a single *kat* (group) and two affirm that they do know the time and place while one says *eini yodea*, the entire testimony is invalidated — *edutan beteila* — because all three form a single testimonial unit and one member's ignorance compromises the whole. *Keman* — like whom? Like *Rebbi Akiva*, who teaches by analogy to *shnayim* from *shlosha*: just as with two witnesses, a *pasul* invalidates the entire group, here *eini yodea* functions as a disqualification of that witness, and that disqualification cascades to the others.
+
+*Rava* objects: the *mishnah* says *edutan kayemes* — the testimony stands — yet *Rav Sheshet* has converted it into a ruling that it does not. That is too violent a departure from the plain text. *Rava* therefore offers his own reading. He accepts many of *Rav Sheshet*'s departures from *pshat* — that we are speaking of *chakirot*, that two witnesses are saying *yadanu* (we do know) rather than *eini yodea*, and that the third says *eini yodea* — but he maintains the *mishnah*'s conclusion: *afilu b'chakirot shnayim omrim yadanu v'echad omer eini yodea edutan kayemes* — even in the *chakirot*, even when one of the three says *eini yodea*, the testimony of the other two stands. *Keman d'lo k'Rebbi Akiva* — not like *Rebbi Akiva*, for whom the *eini yodea* would collapse the entire group's testimony. Both readings, as noted, depart substantially from the plain sense of the *mishnah*.
+
+### Rav Kahana & Rav Safra
+
+> **Hebrew/Aramaic:** רַב כָּהֲנָא וְרַב סָפְרָא תָּנוּ סַנְהֶדְרִין בֵּי רַבָּה. פְּגַע בְּהוּ רָמֵי בַּר חָמָא. אֲמַר לְהוּ: מַאי אָמְרִיתוּ בַּהּ בְּסַנְהֶדְרִין דְּבֵי רַבָּה? אָמְרִי לֵיהּ: וּמַאי אָמְרִינַן בַּהּ בְּסַנְהֶדְרִין גְּרֵידְתָּא? וּמַאי קַשְׁיָא לָךְ?
+>
+> **Translation:** The Gemara relates: **Rav Kahana and Rav Safra studied** tractate ***Sanhedrin*** in **the school of Rabba. Rami bar Ḥama encountered them.** Rami bar Ḥama **said to them: What do you say concerning** tractate ***Sanhedrin*** that you learned **in the school of Rabba?** Rav Kahana and Rav Safra **said to him: And what do we say concerning the regular** tractate ***Sanhedrin*? And what is difficult for you?** Do you have a specific difficulty you would like answered?
+
+> **Hebrew/Aramaic:** אֲמַר לְהוּ, מֵהָא דְּקָתָנֵי: מָה בֵּין חֲקִירוֹת לִבְדִיקוֹת? חֲקִירוֹת – אֶחָד אוֹמֵר ״אֵינִי יוֹדֵעַ״, עֵדוּתָן בְּטֵילָה, בְּדִיקוֹת – אָמַר אֶחָד ״אֵינִי יוֹדֵעַ״, וַאֲפִילּוּ שְׁנַיִם אוֹמְרִים ״אֵין אָנוּ יוֹדְעִים״, עֵדוּתָן קַיֶּימֶת. מִכְּדֵי, אִידֵּי וְאִידֵּי דְּאוֹרָיְיתָא הִיא, מַאי שְׁנָא חֲקִירוֹת וּמַאי שְׁנָא בְּדִיקוֹת?
+>
+> **Translation:** Rami bar Ḥama **said to them:** I have a difficulty **from that which is taught** in the mishna: **What** is the difference **between interrogations and examinations?** In the case of **interrogations,** if **one** of the witnesses **says: I do not know** the answer, **their testimony is void** immediately. In the case of **examinations,** if **one says: I do not know** the answer, **and even** if **two say: We do not know** the answer, **their testimony** still **stands.** Rami bar Ḥama asks: **After all, this** type of question **and that** type of question **are** required **by Torah law; what is different** about **interrogations and what is different** about **examinations?** Why is there a difference in *halakha* between the two?
+
+*Rav Kahana* and *Rav Safra* were studying *Sanhedrin* in the *yeshiva* of *Rabba*. *Rami bar Chama* encountered them in the street and asked: I hear you are learning *Sanhedrin* — what *chiddush* did *Rabba* teach you? Rather than immediately answering, they replied: tell us first what you generally say about the topic, and what difficulty it raises for you — then we will tell you if we have heard something relevant.
+
+*Rami bar Chama* posed the question from our very *mishnah*: *mah bein chakirot l'bedikot* — both are derived from biblical verses, *idi v'idi d'oraisa*; why should *eini yodea* invalidate testimony in *chakirot* but not in *bedikot*?
+
+*Rav Kahana* and *Rav Safra* answered: the distinction is rooted in *hazama*. By *chakirot* — questions of time and place — the legal mechanism of turning witnesses into *edim zomemim* depends on other witnesses coming and saying "you were not there at that time and place." If one of the witnesses says *eini yodea* regarding the time or place, it becomes impossible to subject them to *hazama*, and testimony that cannot be subjected to *hazama* is not valid testimony at all — *eidus she'ei ata yachol lehazimah lo shemah eidus*. By contrast, the *bedikot* bear on the question of *nachon* — the internal consistency and alignment of testimony. Saying *eini yodea* regarding a peripheral circumstantial detail does not create any inconsistency; the witnesses can still be subjected to *hazama* on the central facts of time and place. Their testimony therefore remains valid.
+
+*Rami bar Chama* responded: *ei hachi amritu bah tuva* — oh, if that is what you are saying, you have said something very significant. *Rav Kahana* and *Rav Safra* replied with characteristic wit: *minichuta d'mar amrinan bah tuva* — it was precisely because you were so generous and kind in your manner of asking — you invited us to share what we had learned, rather than positioning yourself to find fault with it — that we responded in kind and shared our *torah* with you. *Minizihuta d'mar lo amrinan bah v'lo chada* — had you been combative, angling to challenge us or expose a weakness in what *Rabba* had taught, we would not have said a word. The exchange captures something of the human texture of the *beis midrash*: the willingness to share *torah* openly is connected, in this telling, to the spirit in which it is sought.

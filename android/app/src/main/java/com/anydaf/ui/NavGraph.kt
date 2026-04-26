@@ -58,6 +58,7 @@ fun AnyDafNavGraph(
         composable("study/{tractate}/{daf}") {
             StudyModeScreen(
                 studyViewModel = studyViewModel,
+                audioViewModel = audioViewModel,
                 bookmarkViewModel = bookmarkViewModel,
                 contentViewModel = contentViewModel,
                 resourcesViewModel = resourcesViewModel,

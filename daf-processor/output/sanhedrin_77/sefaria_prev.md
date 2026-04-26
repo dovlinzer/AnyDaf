@@ -1,0 +1,69 @@
+### Sanhedrin 76b
+
+**1.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: אֵיזֶהוּ עָנִי רָשָׁע עָרוּם? זֶה הַמַּשְׁהֶא בִּתּוֹ בּוֹגֶרֶת. וְאָמַר רַב כָּהֲנָא מִשּׁוּם רַבִּי עֲקִיבָא: הֱוֵי זָהִיר מִן הַיּוֹעֶצְךָ לְפִי דַּרְכּוֹ.
+*Translation:* **This** is what Rav Kahana **is saying: Who is a pauper** who, due to his poverty, becomes **a conniving, wicked person? This is one who delays** the marriage of **his daughter** who is **a grown woman. And Rav Kahana says in the name of Rabbi Akiva: Beware of one who advises you according to his** own **interests,** as he is likely motivated by personal gain.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: הַמַּשִּׂיא אֶת בִּתּוֹ לְזָקֵן, וְהַמַּשִּׂיא אִשָּׁה לִבְנוֹ קָטָן, וְהַמַּחְזִיר אֲבֵידָה לְנׇכְרִי – עָלָיו הַכָּתוּב אוֹמֵר: ״לְמַעַן סְפוֹת הָרָוָה אֶת הַצְּמֵאָה. לֹא יֹאבֶה ה׳ סְלֹחַ לוֹ״.
+*Translation:* **Rav Yehuda says** that **Rav says: One who marries his daughter to an old man, and one who takes a wife for his minor son, and one who returns a lost item to a gentile** are all individuals who are the cause of sin. Marriage to an old man or a minor leaves the woman unsatisfied and is apt to lead to licentiousness. One who returns lost property to gentiles adds to the property that they stole from Jews. **With regard to** each of them **the verse states:** “Lest there should be among you a man or a woman…whose heart turns away this day from the Lord…saying: I will have peace, even though I walk in the stubbornness of my heart, **that the quenched shall be added to the thirsty. The Lord will not be willing to pardon him”** (Deuteronomy 29:17-19).
+
+**3.**
+*Hebrew/Aramaic:* מֵיתִיבִי: הָאוֹהֵב אֶת אִשְׁתּוֹ כְּגוּפוֹ, וְהַמְכַבְּדָהּ יוֹתֵר מִגּוּפוֹ, וְהַמַּדְרִיךְ בָּנָיו וּבְנוֹתָיו בְּדֶרֶךְ יְשָׁרָה, וְהַמַּשִּׂיאָן סָמוּךְ לְפִירְקָן – עָלָיו הַכָּתוּב אוֹמֵר: ״וְיָדַעְתָּ כִּי שָׁלוֹם אׇהֳלֶךָ וּפָקַדְתָּ נָוְךָ וְלֹא תֶחֱטָא״. סָמוּךְ לְפִירְקָן – שָׁאנֵי.
+*Translation:* The Gemara **raises an objection** to one element of the ruling of Rav from a *baraita*: One **who loves his wife as** he loves **himself, and who esteems her** by giving her clothing and jewelry **more than** he esteems **himself, and** one **who instructs his sons and daughters to** follow **an upright path, and who marries them** to appropriate spouses **adjacent to their** reaching **puberty,** ensures that his home will be devoid of quarrel and sin. **Concerning him the verse states: “And you shall know that your tent is in peace; and you shall visit your habitation and shall miss nothing”** (Job 5:24). The *baraita* indicates that it is a mitzva to marry one’s children to appropriate spouses while they are young, contrary to the statement of Rav that one who takes a wife for his minor son causes sin. The Gemara replies: **Adjacent to their** reaching **puberty is different** from marrying her to a minor, as there is no concern that his daughter will sin during the brief period until her husband reaches puberty.
+
+**4.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הָאוֹהֵב אֶת שְׁכֵינָיו, וְהַמְקָרֵב אֶת קְרוֹבָיו, וְהַנּוֹשֵׂא אֶת בַּת אֲחוֹתוֹ, וְהַמַּלְוֶה סֶלַע לְעָנִי בִּשְׁעַת דּוֹחְקוֹ – עָלָיו הַכָּתוּב אוֹמֵר: ״אָז תִּקְרָא וַה׳ יַעֲנֶה״.
+*Translation:* **The Sages taught: One who loves his neighbors, and one who brings his relatives close, and one who marries the daughter of his sister,** an example of a woman that he knows and likes before taking her as his wife, **and one who lends a *sela* to a poor man at his time of need,** when he has no alternative source of funds, **with regard to** each of them **the verse states:** “Break your bread for the hungry, and the poor that are cast out bring to your house; when you see the naked, you shall clothe him, and hide not yourself from your own flesh…**then shall you call, and the Lord will answer;** you shall cry, and He will say: Here I am” (Isaiah 58:7–9).
+
+**5.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״אֹתוֹ וְאֶתְהֶן״ – אוֹתוֹ וְאֶת אַחַת מֵהֶן, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר: אוֹתוֹ וְאֶת שְׁתֵּיהֶן.
+*Translation:* § **The Sages taught** with regard to the verse: “And if a man takes a woman and her mother, it is lewdness; they shall be burned with fire both him and them, and there shall be no lewdness among you” (Leviticus 20:14). What is the meaning of **“both him and them”?** It means **him and one of them,** as one woman is his wife. He is liable for engaging in intercourse with the other woman; this is **the statement of Rabbi Yishmael. Rabbi Akiva says:** It means **him and the two of them.**
+
+**6.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? אָמַר אַבָּיֵי: מַשְׁמָעוּת דּוֹרְשִׁים אִיכָּא בֵּינַיְיהוּ.
+*Translation:* The Gemara asks: **What** is the difference **between them?** Clearly Rabbi Akiva does not hold that his wife is punished when he engages in intercourse with her relative. **Abaye says:** The difference **between** Rabbi Akiva and Rabbi Yishmael **is** with regard to **the interpretation of the meaning** of the verse.
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי יִשְׁמָעֵאל סָבַר: ״אֹתוֹ וְאֶתְהֶן״ – אוֹתוֹ וְאֶת אַחַת מֵהֶן, שֶׁכֵּן בְּלָשׁוֹן יְוָנִי קוֹרִין לְאַחַת ״הִינָא״. וְאֵם חֲמוֹתוֹ – מִדְּרָשָׁא אָתְיָא. רַבִּי עֲקִיבָא סָבַר: ״אֹתוֹ וְאֶתְהֶן״ – אוֹתוֹ וְאֶת שְׁתֵּיהֶן, וְאֵם חֲמוֹתוֹ הָכָא כְּתִיבָא.
+*Translation:* **Rabbi Yishmael holds** that the term **“both him and them [*et’hen*]”** means **him and one of them, as in the Greek language one calls** the number **one *heina*.** The prohibition in the verse is with regard to one who engages in intercourse with the mother of his wife. **And** the prohibition of engaging in intercourse with **the mother of his mother-in-law is derived through an interpretation** of the verses and is not written explicitly in the Torah. **Rabbi Akiva holds** that the term **“both him and them”** means **him and both of them;** the prohibition in the verse is with regard to one who engages in intercourse with his mother-in-law, **and** the prohibition for engaging in intercourse with **the mother of his mother-in-law** is also **written here** explicitly.
+
+**8.**
+*Hebrew/Aramaic:* רָבָא אָמַר: חֲמוֹתוֹ לְאַחַר מִיתָה אִיכָּא בֵּינַיְיהוּ. רַבִּי יִשְׁמָעֵאל סָבַר: חֲמוֹתוֹ לְאַחַר מִיתָה בִּשְׂרֵפָה, וְרַבִּי עֲקִיבָא סָבַר: אִיסּוּרָא בְּעָלְמָא.
+*Translation:* **Rava says:** Rabbi Yishmael and Rabbi Akiva agree that the prohibition with regard to the mother of his mother-in-law is derived through interpretation, and the difference **between them** is with regard to one who engages in intercourse with **his mother-in-law after** the **death** of his wife. **Rabbi Yishmael holds** that one who engages in intercourse with **his mother-in-law after** the **death** of his wife is executed **by burning.** The verse indicates: Both him and one of them, meaning that he is liable to be executed by burning even if only one of the pair of his wife and mother-in-law is alive, i.e., when his wife is deceased and he engages in intercourse with his mother-in-law. **And Rabbi Akiva maintains** that in that case, one violates **a mere prohibition** and is not liable to be executed.
+
+**9.**
+*Hebrew/Aramaic:* מַתְנִי׳ וְאֵלּוּ הַנֶּהֱרָגִין: הָרוֹצֵחַ, וְאַנְשֵׁי עִיר הַנִּדַּחַת.
+*Translation:* MISHNA: **And these are** the transgressors **who are killed** by decapitation in the implementation of the court-imposed death penalty: **The murderer; and the residents of an idolatrous city,** all of whom engaged in idol worship.
+
+**10.**
+*Hebrew/Aramaic:* רוֹצֵחַ שֶׁהִכָּה אֵת רֵעֵהוּ בְּאֶבֶן אוֹ בְּבַרְזֶל, וְכָבַשׁ עָלָיו לְתוֹךְ הַמַּיִם אוֹ לְתוֹךְ הָאוּר, וְאֵינוֹ יָכוֹל לַעֲלוֹת מִשָּׁם וָמֵת – חַיָּיב.
+*Translation:* The mishna elaborates: In the case of **a murderer who struck another with a stone or with iron, or held him in the water or in the fire, and** the victim **could not extricate himself from there and he died, **the murderer is **liable** to be executed.
+
+**11.**
+*Hebrew/Aramaic:* דְּחָפוֹ לְתוֹךְ הַמַּיִם אוֹ לְתוֹךְ הָאוּר, וְיָכוֹל לַעֲלוֹת מִשָּׁם וָמֵת – פָּטוּר. שִׁיסָּה בּוֹ אֶת הַכֶּלֶב, שִׁיסָּה בּוֹ אֶת הַנָּחָשׁ – פָּטוּר. הִשִּׁיךְ בּוֹ אֶת הַנָּחָשׁ: רַבִּי יְהוּדָה מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין.
+*Translation:* If **one pushed** another **into the water or into the fire and** that person **could have extricated himself from there** but failed to do so, **and he died,** the one who pushed him is **exempt** from punishment by a court, as he caused the death but did not actually kill the victim. For the same reason, if **one set a dog against** another and the dog killed him, or if **one set a snake against** another and the snake killed him, the one who set the dog or the snake is **exempt** from punishment. If he imbedded the snake’s fangs into another and **caused the snake to bite him** and kill him, **Rabbi Yehuda deems** him **liable** to be executed, as he is a murderer, **and the Rabbis exempt** him, as they maintain that he indirectly caused the individual’s death.
+
+**12.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר שְׁמוּאֵל: מִפְּנֵי מָה לֹא נֶאֶמְרָה ״יָד״ בַּבַּרְזֶל? שֶׁהַבַּרְזֶל מֵמִית בְּכׇל שֶׁהוּא.
+*Translation:* GEMARA: The verses state with regard to a murderer: “And if he struck him with a stone in hand, by which a man may die…or if he struck him with an instrument of wood in hand, by which a man may die, and he died, he is a murderer; the murderer shall be put to death” (Numbers 35:17-18). The term “in hand” indicates that one is liable for murder only if he utilized a stone or a wooden instrument that was of at least a certain measure. **Shmuel says: For what** reason was the term “in **hand” not stated with regard to the iron** instrument, as it is written: “But if he struck him with an instrument of iron, so that he died” (Numbers 35:16)? The reason is **that an iron** instrument **of any size kills.**
+
+**13.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: רַבִּי אוֹמֵר, גָּלוּי וְיָדוּעַ לִפְנֵי מִי שֶׁאָמַר וְהָיָה הָעוֹלָם שֶׁהַבַּרְזֶל מֵמִית בְּכׇל שֶׁהוּא, לְפִיכָךְ לֹא נָתְנָה תּוֹרָה בּוֹ שִׁיעוּר. וְהָנֵי מִילֵּי דְּבַרְזֵיהּ מִיבְרָז.
+*Translation:* **This is also taught** in a *baraita*. **Rabbi** Yehuda HaNasi **says: It is revealed and known before He Who spoke and the world came into being that an iron** instrument **of any size kills. Therefore, the Torah did not provide a measure for it.** The Gemara comments: **And this statement** applies only **when** the murderer **stabbed him** with the iron instrument. But in a case where the murderer struck another with an iron instrument, he is liable only if the instrument was at least a certain measure capable of causing death.
+
+**14.**
+*Hebrew/Aramaic:* וְכָבַשׁ עָלָיו לְתוֹךְ הַמַּיִם. רֵישָׁא רְבוּתָא קָא מַשְׁמַע לַן, וְסֵיפָא רְבוּתָא קָא מַשְׁמַע לַן. רֵישָׁא רְבוּתָא קָא מַשְׁמַע לַן: אַף עַל גַּב דְּלָאו אִיהוּ דְּחָפוֹ, כֵּיוָן דְּאֵין יָכוֹל לַעֲלוֹת מִשָּׁם וָמֵת – חַיָּיב. סֵיפָא רְבוּתָא קָא מַשְׁמַע לַן: אַף עַל גַּב דִּדְחָפוֹ, כֵּיוָן דְּיָכוֹל לַעֲלוֹת מִשָּׁם וָמֵת – פָּטוּר.
+*Translation:* § The mishna teaches: **Or held him in the water** and that other person **died,** the murderer is liable. The Gemara comments: **The first clause** of the mishna **teaches us a novel** element, **and the latter clause** of the mishna **teaches us a novel** element. **The first clause teaches us a novel** element: **Even though it was not he who pushed** the individual into the water, **since** he held the victim and the victim **could not extricate himself from there and he died,** the one who held him in the water is **liable** to be executed. **The latter clause teaches us a novel** element: **Even though he pushed** the individual into the water, **since** the victim **could have extricated himself from there** but failed to do so **and he died,** the one who pushed him is **exempt** from punishment.
+
+**15.**
+*Hebrew/Aramaic:* כָּבַשׁ – מְנָלַן? אָמַר שְׁמוּאֵל: דְּאָמַר קְרָא ״אוֹ בְאֵיבָה״, לְרַבּוֹת אֶת הַמְצַמְצֵם.
+*Translation:* The Gemara asks: **From where do we** derive that one who **held** another in the water is liable to be executed? **Shmuel says:** It is derived from a verse, **as the verse states: “Or in enmity** he struck him with his hand and he died, the assailant shall be put to death; he is a murderer” (Numbers 35:21). The phrase “or in enmity” serves **to include one who confines** another in a place where he cannot survive.
+
+**16.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דְּצַמְצְמַהּ לְחֵיוְתָא דְּחַבְרֵיהּ בְּשִׁימְשָׁא, וּמִתָה. רָבִינָא מְחַיֵּיב, רַב אַחָא בַּר רַב פָּטַר.
+*Translation:* There was **a certain man who confined the animal of another** in a place **in the sun and it died** from exposure to the sun. **Ravina deemed** the man **liable** to recompense the owner as though his action caused the death of the animal. **Rav Aḥa bar Rav deemed** him exempt from recompensing the owner, as it was not his action that caused the death of the animal.
+
+**17.**
+*Hebrew/Aramaic:* רָבִינָא מְחַיֵּיב, קַל וָחוֹמֶר: וּמָה רוֹצֵחַ שֶׁלֹּא עָשָׂה בּוֹ שׁוֹגֵג כְּמֵזִיד וְאוֹנֶס כְּרָצוֹן, חִיֵּיב בּוֹ אֶת הַמְצַמְצֵם.
+*Translation:* The Gemara elaborates: **Ravina deemed** him **liable** to recompense the owner, and he derived it by means of **an *a fortiori*** inference: **Just as** with regard to **a murderer, where** the Torah **did not render** the legal status of one who kills **unwittingly,** who is exiled, **like** that of one who kills **intentionally,** who is executed, **and** did not render the status of one who kills **due to circumstances beyond his control,** who is exempt from punishment, **like** that of one who kills **with intent,** who is liable, nevertheless the Torah **rendered one who confines** another in a place where he cannot survive **liable** to be executed, even though he did not perform an action;

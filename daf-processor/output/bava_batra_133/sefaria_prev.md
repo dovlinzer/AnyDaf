@@ -1,0 +1,37 @@
+### Bava Batra 132b
+
+**1.**
+*Hebrew/Aramaic:* וּמִקּוּלֵּי כְתוּבָּה שָׁנוּ כָּאן.
+*Translation:* **And** the Sages **taught here** one **of the leniencies** that apply to **a marriage contract.** This manner in which the wife loses her right to receive payment of her marriage contract is a leniency for the husband, as an ordinary creditor does not lose money he is owed in this fashion.
+
+**2.**
+*Hebrew/Aramaic:* תְּנַן, רַבִּי יוֹסֵי אוֹמֵר: אִם קִבְּלָה עָלֶיהָ, אַף עַל פִּי שֶׁלֹּא כָּתַב לָהּ – אִבְּדָה כְּתוּבָּתָהּ. מִכְּלָל דְּתַנָּא קַמָּא סָבַר: כְּתִיבָה וְקַבָּלָה בָּעֵי!
+*Translation:* The Gemara questions this statement: **We learned** in the same mishna that **Rabbi Yosei says** that **if she accepted** the distribution **upon herself, even if he did not write** a document granting **her** any amount of land, **she has lost** her right to receive payment of **her marriage contract. By inference,** it can be stated **that the first *tanna* holds** that both his **writing** a document granting her a piece of land **and** her **acceptance** of the distribution **are necessary** for her to lose her right, contrary to the interpretation of all three *amora’im*, i.e., Rav, Shmuel, and Rabbi Yosei, son of Rabbi Ḥanina, all of whom assumed that she need not affirmatively accept the distribution and that her silence is sufficient.
+
+**3.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא: כּוּלַּהּ רַבִּי יוֹסֵי הִיא; וְהָא תַנְיָא, אָמַר רַבִּי יְהוּדָה: אֵימָתַי – שֶׁהָיְתָה שָׁם וְקִבְּלָה עָלֶיהָ; אֲבָל הָיְתָה שָׁם וְלֹא קִבְּלָה עָלֶיהָ, קִבְּלָה עָלֶיהָ וְלֹא הָיְתָה שָׁם – לֹא אִבְּדָה כְּתוּבָּתָהּ! תְּיוּבְתָּא דְכוּלְּהוּ! תְּיוּבְתָּא.
+*Translation:* **And if you would say** that **the entire** mishna **is** the opinion of **Rabbi Yosei,** who holds that either the husband’s writing a deed of gift or the wife’s acceptance of the distribution is sufficient, **but isn’t it taught** in a *baraita* that **Rabbi Yehuda said:** According to the first *tanna*, **when** does she lose her right to receive payment of her marriage contract? In a case **where she was there** at the time of the distribution **and accepted** it; **but if she was there but did not accept** it, or **accepted** it **but was not there, she has not lost** her right to receive payment of **her marriage contract,** as she can claim that her acquiescence was only to please her husband and was not sincere. The Gemara concludes: The **refutation** of the opinions **of all** the interpretations of the *amora’im* **is** indeed **a conclusive refutation.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: הָא רַב, הָא שְׁמוּאֵל, הָא רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא. מָר – מַאי סְבִירָא לֵיהּ? אֲמַר לֵיהּ, שֶׁאֲנִי אוֹמֵר: כֵּיוָן שֶׁעֲשָׂאָהּ שׁוּתָּף בֵּין הַבָּנִים – אִבְּדָה כְּתוּבָּתָהּ.
+*Translation:* **Rava said to Rav Naḥman: This** is the opinion of **Rav; this** is the opinion of **Shmuel;** and **this** is the opinion of **Rabbi Yosei, son of Rabbi Ḥanina. What does the Master hold** in this matter? Rav Naḥman **said to him: As I say, that once he rendered her a partner** in the property **among the sons, she lost** her right to receive payment of **her marriage contract.**
+
+**5.**
+*Hebrew/Aramaic:* אִיתְּמַר נָמֵי, אָמַר רַב יוֹסֵף בַּר מִנְיוֹמֵי אָמַר רַב נַחְמָן: כֵּיוָן שֶׁעֲשָׂאָהּ שׁוּתָּף בֵּין הַבָּנִים – אִבְּדָה כְּתוּבָּתָהּ.
+*Translation:* Rav Naḥman’s opinion **was also stated** as a halakhic ruling: **Rav Yosef bar Minyumi says** that **Rav Naḥman says** that **once he rendered her a partner** in the property **among the sons, she lost** her right to receive payment of **her marriage contract.**
+
+**6.**
+*Hebrew/Aramaic:* בָּעֵי רָבָא: בְּבָרִיא הֵיאַךְ? מִי אָמְרִינַן: בִּשְׁכִיב מְרַע הוּא דְּיָדְעָה דְּלֵית לֵיהּ – וְקָמָחֲלָה, אֲבָל בְּבָרִיא – סָבְרָה הָדַר קָנֵי; אוֹ דִלְמָא, הַשְׁתָּא מִיהַת לֵית לֵיהּ? תֵּיקוּ.
+*Translation:* **Rava raises a dilemma: In** the case of **a healthy person, what** is the *halakha*? **Do we say** that the wife loses her right to receive payment of her marriage contract only **in** the case of **a person on his deathbed, as she knew that he had no** other property **and** nevertheless **waived** payment of the marriage contract, **but in** the case of **a healthy person, she** might have **reasoned** that **he will then acquire** other property from which she will be able to collect payment of her marriage contract, and that is why she accepted the distribution of the property? If so, she did not waive her right to receive payment of her marriage contract. **Or perhaps,** should it be reasoned that since **in any event, now he has no** other property, her acceptance should be interpreted as waiving her right? The Gemara concludes: The dilemma **shall stand** unresolved.
+
+**7.**
+*Hebrew/Aramaic:* הַהוּא דַּאֲמַר לְהוּ: ״פַּלְגָא לִבְרַת, וּפַלְגָא לִבְרַת, וְתִילְתָּא לְאִיתַּת בְּפֵירֵי״. אִיקְּלַע רַב נַחְמָן לְסוּרָא, עוּל לְגַבֵּי רַב חִסְדָּא, אֲמַר לֵיהּ: כִּי הַאי גַוְונָא מַאי? אֲמַר לֵיהּ, הָכִי אָמַר שְׁמוּאֵל: אֲפִילּוּ לֹא הִקְנָה לָהּ אֶלָּא דֶּקֶל אֶחָד לְפֵירוֹתָיו – אִבְּדָה כְּתוּבָּתָהּ.
+*Translation:* § There was **a certain** man on his deathbed **who said to** the people surrounding him: Give **one-half** of my estate **to** my **daughter, and one-half to** my other **daughter, and one-third of the produce to** my **wife. Rav Naḥman happened** to come **to Sura. He entered** the study hall **to** see **Rav Ḥisda,** who **said to him:** In **a case like this, what** is the *halakha*? Rav Naḥman **said to him** that **this** is what **Shmuel says: Even** if **he transferred to her** ownership **only one palm tree for its produce, she has lost** her right to receive payment of **her marriage contract.**
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אֵימוֹר דְּאָמַר שְׁמוּאֵל הָתָם – דְּאַקְנִי לַהּ בְּגוּפַהּ דְּאַרְעָא; הָכָא – פֵּירָא הוּא! אֲמַר לֵיהּ: מִטַּלְטְלִי קָא אָמְרַתְּ? מִטַּלְטְלִי וַדַּאי לָא קָא אָמֵינָא.
+*Translation:* Rav Ḥisda **said to him: Say that Shmuel said** his statement that she loses her right **there,** in a case where he gave her a palm tree for its produce, **because he transferred** rights **in the land itself to her ownership,** as the palm tree is connected to the ground. But **here,** in this case, **it is** only **produce** that he gave her, without any share in the land itself. Perhaps she does not lose payment of her marriage contract. Rav Naḥman **said to him: You say** that he gave her only **movable property? I certainly did not** mean to **say** that she loses her right even if he gave her only **movable property** such as produce. Rather, she receives payment of her marriage contract.
+
+**9.**
+*Hebrew/Aramaic:* הַהוּא דַּאֲמַר לְהוּ: ״תִּלְתָּא לִבְרַת, וְתִלְתָּא לִבְרַת, וְתִלְתָּא לְאִיתַּת״. שְׁכִיבָא חֲדָא מִבְּנָתֵיהּ. סְבַר רַב פַּפֵּי לְמֵימַר: לָא שָׁקְלָא אֶלָּא תְּלָתָא.
+*Translation:* There was **a certain** man on his deathbed **who said to** the people surrounding him: Give **one-third** of my property **to** my **daughter, and one-third to** my other **daughter, and one-third to** my **wife. One of his daughters died** before he did, and her portion consequently returned to his possession. **Rav Pappi thought to say** that the wife **takes only one-third.** She cannot receive payment of her marriage contract from the two-thirds bequeathed to the daughters, as by entering a partnership with the daughters in ownership of the property, she waived payment of her marriage contract.

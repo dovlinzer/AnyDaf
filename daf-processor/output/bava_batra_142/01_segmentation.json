@@ -1,0 +1,436 @@
+{
+  "masechta": "Bava Batra",
+  "daf": 142,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction and Previous Day's Context: Tumtum and Gender Categories",
+      "display_title": "Tumtum & Gender",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Review of tumtum case and gender binary discussion from previous day",
+          "display_title": "Tumtum Background",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Abaye's position that tumtum gets neither male nor female portion; subjective intent of giver",
+          "display_title": "Abaye's Tumtum",
+          "timestamp": "00:49"
+        },
+        {
+          "title": "Digression on why father gives more to daughter; Tosafot's question on Avraham's daughter Bakol",
+          "display_title": "Daughter Preference Joke",
+          "timestamp": "01:33"
+        }
+      ]
+    },
+    {
+      "title": "The Core Problem: Can Property Be Transferred to an Unborn Fetus (Ubar)?",
+      "display_title": "Transfer to Ubar",
+      "timestamp": "03:29",
+      "micro_segments": [
+        {
+          "title": "Rav Huna's position that hamezakeh le'ubar lo kanah—fetus cannot take possession",
+          "display_title": "Rav Huna's Position",
+          "timestamp": "03:29"
+        },
+        {
+          "title": "Gemara's attempt to reinterpret Mishna: perhaps transfer occurs when child is born, not while fetus",
+          "display_title": "Reinterpretation Attempt",
+          "timestamp": "05:13"
+        },
+        {
+          "title": "Rav Huna's objection even to 'liksheteiled' (when born) model—fetus cannot take possession at any point",
+          "display_title": "Rav Huna Rejects",
+          "timestamp": "06:33"
+        },
+        {
+          "title": "Rav Nachman's compromise: no transfer now, but kinyan takes effect when child is born",
+          "display_title": "Rav Nachman's Compromise",
+          "timestamp": "09:59"
+        },
+        {
+          "title": "Rav Sheshet's expansive position: mezakeh le'ubar kanah even while fetus; both now and when born work",
+          "display_title": "Rav Sheshet Permits",
+          "timestamp": "10:40"
+        }
+      ]
+    },
+    {
+      "title": "Rav Sheshet's Source: The Ger Case (Non-Jew Who Converted Dies)",
+      "display_title": "Ger Case Study",
+      "timestamp": "12:11",
+      "micro_segments": [
+        {
+          "title": "Story of ger who dies; Israelites loot his property; they learn he has a son or pregnant wife",
+          "display_title": "Ger Dies & Looting",
+          "timestamp": "12:11"
+        },
+        {
+          "title": "They return the property; then hear the son died or wife miscarried",
+          "display_title": "Return & Miscarriage",
+          "timestamp": "13:36"
+        },
+        {
+          "title": "Question: Why couldn't they take possession the first time if no heir ultimately existed?",
+          "display_title": "Why First Kinyan Fails",
+          "timestamp": "15:41"
+        },
+        {
+          "title": "Abaye: fetus can inherit naturally; here it's irrelevant to mezakeh discussion",
+          "display_title": "Abaye's Answer",
+          "timestamp": "16:44"
+        },
+        {
+          "title": "Rava: fetus doesn't inherit; possession was weak (rifyon) because heir might exist",
+          "display_title": "Rava's Rifyon Answer",
+          "timestamp": "18:22"
+        }
+      ]
+    },
+    {
+      "title": "Distinguishing Abaye and Rava: Does Uncertainty Affect Kinyan Subjectively or Objectively?",
+      "display_title": "Abaye vs. Rava",
+      "timestamp": "23:38",
+      "micro_segments": [
+        {
+          "title": "Nafka mina: Person hears child is dead, but child later dies; does subjective certainty matter?",
+          "display_title": "Nafka Mina Scenario",
+          "timestamp": "23:38"
+        },
+        {
+          "title": "Abaye's logic: if your subjective intent is sincere, kinyan works even if fetus didn't own it",
+          "display_title": "Abaye: Subjective",
+          "timestamp": "24:37"
+        },
+        {
+          "title": "Rava's logic: if fetus owns it objectively, your sincere but wrong belief doesn't help",
+          "display_title": "Rava: Objective",
+          "timestamp": "25:01"
+        }
+      ]
+    },
+    {
+      "title": "Can Fetus Inherit? Mishna in Niddah and Rav Sheshet's Explanation",
+      "display_title": "Fetus Inheritance",
+      "timestamp": "28:26",
+      "micro_segments": [
+        {
+          "title": "Mishna: child one day old can inherit and bequeath; but fetus cannot",
+          "display_title": "Mishna: One Day Old",
+          "timestamp": "28:26"
+        },
+        {
+          "title": "Why does it matter? If child inherits from mother and passes to paternal brothers",
+          "display_title": "Why It Matters",
+          "timestamp": "30:34"
+        },
+        {
+          "title": "Rav Sheshet: fetus could inherit from mother, but Mishna assumes mother dies before giving birth",
+          "display_title": "Rav Sheshet's Read",
+          "timestamp": "31:04"
+        },
+        {
+          "title": "Gemara: but fetus dies when mother dies in childbirth; Tosafot: not if violent death or late gestation",
+          "display_title": "Fetus Dies First",
+          "timestamp": "33:59"
+        }
+      ]
+    },
+    {
+      "title": "Alternative Explanation: Firstborn's Double Portion (Chelek Bechora)",
+      "display_title": "Chelek Bechora",
+      "timestamp": "40:08",
+      "micro_segments": [
+        {
+          "title": "Why tell us child inherits and bequeaths if it all goes to brothers anyway?",
+          "display_title": "Initial Question",
+          "timestamp": "40:08"
+        },
+        {
+          "title": "Answer: child's existence before father's death affects calculation of firstborn's double portion",
+          "display_title": "Double Portion Math",
+          "timestamp": "40:54"
+        },
+        {
+          "title": "Illustration: with three born sons, firstborn gets one full unit; with four brothers (including fetus), less",
+          "display_title": "Math Example",
+          "timestamp": "43:03"
+        },
+        {
+          "title": "Rav bar Rav Yosef in Rava's name: only born children factor into firstborn's double portion calculation",
+          "display_title": "Only Born Count",
+          "timestamp": "45:12"
+        },
+        {
+          "title": "Child born after father dies: not entitled to double portion; must be born before father's death",
+          "display_title": "Born After Father",
+          "timestamp": "45:12"
+        }
+      ]
+    },
+    {
+      "title": "Halacha Ruling and Final Positions on Mezakeh Le'Ubar",
+      "display_title": "Final Rulings",
+      "timestamp": "50:50",
+      "micro_segments": [
+        {
+          "title": "Halacha: we rule like Rava's positions on inheritance and firstborn's portion",
+          "display_title": "Rule Like Rava",
+          "timestamp": "50:50"
+        },
+        {
+          "title": "Rav Yitzchak in Rav Yochanan's name: hamezakeh le'ubar lo kanah—transfer to fetus does not work",
+          "display_title": "Rav Yochanan Rule",
+          "timestamp": "51:26"
+        },
+        {
+          "title": "Exception for own child: sincere paternal intent may allow transfer to one's own unborn child",
+          "display_title": "Own Child Exception",
+          "timestamp": "52:20"
+        },
+        {
+          "title": "Shmuel's attempt to publicize that mezakeh le'ubar kanah—overruled by halacha that it does not work",
+          "display_title": "Shmuel's Minority",
+          "timestamp": "52:33"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "hamezakeh le'ubar lo kanah (cannot transfer ownership to fetus)",
+      "timestamps": [
+        "03:29",
+        "06:33",
+        "09:59",
+        "51:26",
+        "52:33"
+      ]
+    },
+    {
+      "term": "mezakeh le'ubar kanah (can transfer ownership to fetus)",
+      "timestamps": [
+        "10:40",
+        "12:11",
+        "29:37",
+        "52:33"
+      ]
+    },
+    {
+      "term": "liksheteiled (when born; prospective kinyan)",
+      "timestamps": [
+        "06:48",
+        "07:03",
+        "09:01",
+        "09:13"
+      ]
+    },
+    {
+      "term": "Rav Huna",
+      "timestamps": [
+        "03:29",
+        "04:19",
+        "04:24",
+        "04:27",
+        "04:29",
+        "09:01",
+        "09:05"
+      ]
+    },
+    {
+      "term": "Rav Nachman",
+      "timestamps": [
+        "09:59",
+        "10:02"
+      ]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": [
+        "10:40",
+        "10:44",
+        "11:02",
+        "11:05",
+        "12:11",
+        "29:37",
+        "29:40",
+        "31:04",
+        "31:13"
+      ]
+    },
+    {
+      "term": "tumtum (one of indeterminate sex)",
+      "timestamps": [
+        "00:20",
+        "00:22"
+      ]
+    },
+    {
+      "term": "ubar / uber / עובר (fetus)",
+      "timestamps": [
+        "00:35",
+        "03:54",
+        "04:03",
+        "05:01",
+        "06:37",
+        "06:52",
+        "07:00",
+        "07:13",
+        "08:03",
+        "09:01",
+        "09:06",
+        "09:10",
+        "09:13",
+        "16:13",
+        "28:43",
+        "31:13",
+        "45:43",
+        "51:30",
+        "51:54"
+      ]
+    },
+    {
+      "term": "kinyan (act of acquisition/transfer)",
+      "timestamps": [
+        "07:03",
+        "07:28",
+        "08:07",
+        "08:10",
+        "12:17",
+        "24:20",
+        "24:50",
+        "26:01",
+        "45:10"
+      ]
+    },
+    {
+      "term": "ger (non-Jew who converted)",
+      "timestamps": [
+        "12:16",
+        "12:43",
+        "13:36",
+        "13:39",
+        "14:10",
+        "15:20",
+        "16:43"
+      ]
+    },
+    {
+      "term": "hefker (ownerless property)",
+      "timestamps": [
+        "15:31",
+        "16:26",
+        "24:43",
+        "25:20",
+        "27:02",
+        "27:25",
+        "27:27"
+      ]
+    },
+    {
+      "term": "chazaka (taking possession / claim)",
+      "timestamps": [
+        "14:53",
+        "14:59",
+        "15:03",
+        "15:52",
+        "24:20"
+      ]
+    },
+    {
+      "term": "yerusha / yoresh (inheritance / heir)",
+      "timestamps": [
+        "00:57",
+        "05:01",
+        "28:43",
+        "48:50",
+        "51:30",
+        "51:43"
+      ]
+    },
+    {
+      "term": "rifyon (weakening of possession due to uncertainty)",
+      "timestamps": [
+        "18:22",
+        "18:34",
+        "23:55",
+        "24:20"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "00:49",
+        "16:44",
+        "18:22",
+        "24:37",
+        "25:25"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "18:22",
+        "25:01",
+        "40:54",
+        "45:12",
+        "50:50"
+      ]
+    },
+    {
+      "term": "da'at (subjective intent/mindset)",
+      "timestamps": [
+        "16:09",
+        "24:50",
+        "24:54",
+        "25:27"
+      ]
+    },
+    {
+      "term": "chelek bechora (firstborn's double portion)",
+      "timestamps": [
+        "40:54",
+        "41:00",
+        "41:08",
+        "41:15",
+        "41:22",
+        "45:12",
+        "48:50"
+      ]
+    },
+    {
+      "term": "ben yom echad (one-day-old infant)",
+      "timestamps": [
+        "28:32",
+        "28:35",
+        "28:43",
+        "33:47"
+      ]
+    },
+    {
+      "term": "bechor (firstborn son)",
+      "timestamps": [
+        "40:54",
+        "41:15",
+        "41:22",
+        "43:36",
+        "45:12"
+      ]
+    },
+    {
+      "term": "Rav Yochanan",
+      "timestamps": [
+        "51:26",
+        "51:50"
+      ]
+    },
+    {
+      "term": "Shmuel",
+      "timestamps": [
+        "52:33"
+      ]
+    }
+  ]
+}

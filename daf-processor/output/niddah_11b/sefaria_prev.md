@@ -1,0 +1,73 @@
+### Niddah 10b
+
+**1.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַבִּי אִלְעַאי: וְכִי מָה בֵּין זוֹ לִבְתוּלָה שֶׁדָּמֶיהָ טְהוֹרִין? אֲמַר לֵיהּ רַבִּי זֵירָא: זוֹ שִׂירְפָהּ מָצוּי וְזוֹ אֵין שִׂירְפָהּ מָצוּי.
+*Translation:* **Rabbi Ilai objects to this** ruling of Ḥizkiyya: **And what** is the difference **between this** case of a girl who has not yet started menstruating **and** a recently married menstrual **virgin whose** stain is deemed pure for as long **as her blood is pure,** since the stain is presumed to be from her torn hymen? **Rabbi Zeira said** to him: With regard to **this** menstrual virgin, **her secretion [*sirfah*] is common,** i.e., blood from her torn hymen is normally found during this period. Therefore, any blood stain that is found is also assumed to be from her hymen. **But** in the case of **this** young girl, **her secretion is not common.** Therefore, if a blood stain is found, it is assumed to be menstrual blood.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא, אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, וְרָאֲתָה פַּעַם רִאשׁוֹנָה וּשְׁנִיָּה — רוּקָּהּ וּמִדְרָסָהּ בַּשּׁוּק טָהוֹר, כִּתְמָהּ נָמֵי טָהוֹר. וְלָא יָדַעְנָא אִם דִּידֵיהּ, אִם דְּרַבֵּיהּ.
+*Translation:* § **Ulla says** that **Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yehotzadak:** With regard to **a young girl whose time to see** the flow of menstrual blood **has not arrived and she saw** menstrual blood **one time and** then **a second** time, but not the third time that would render her a woman who regularly sees menstrual blood, **her saliva and her** garment that she **treads** upon that are found **in the marketplace** are **pure** if we do not know whether she has menstruated. Likewise, **her** blood **stain** is **also pure.** Ulla added: **And I do not know if** this ruling with regard to the stain is merely Rabbi Yoḥanan’s own conclusion **or** if that is also part of the opinion **of his teacher.**
+
+**3.**
+*Hebrew/Aramaic:* לְמַאי נָפְקָא מִינָּה? לְמִיהְוֵי דְּבָרָיו שֶׁל אֶחָד בִּמְקוֹם שְׁנַיִם.
+*Translation:* The Gemara asks: **What difference is** there? That is, what does it matter who said it? The Gemara explains: It makes a difference **for it to be** considered the **statement of one** Sage **in the place of two** dissenting opinions. As stated above, Ḥizkiyya disagrees with this ruling and maintains that a young girl’s blood stain is impure after she sees menstrual blood twice. If this statement is both Rabbi Shimon ben Yehotzadak’s opinion and that of Rabbi Yoḥanan, then Ḥizkiyya’s ruling is opposed by two Sages, which means that his is a minority opinion. If it is Rabbi Yoḥanan’s opinion alone, then the two sides are equal, with one Sage maintaining each opinion.
+
+**4.**
+*Hebrew/Aramaic:* כִּי אֲתָא רָבִין וְכֹל נָחוֹתֵי יַמָּא, אַמְרוּהָ כְּרַבִּי שִׁמְעוֹן בֶּן יְהוֹצָדָק.
+*Translation:* **When Ravin came** from Eretz Yisrael to Babylonia along with **all the seafarers [*naḥotei yamma*], they stated** this ruling **as** the statement of **Rabbi Shimon ben Yehotzadak.** If so, Rabbi Yoḥanan was relating his own opinion, which echoed that of his teacher, Rabbi Shimon ben Yehotzadak, and therefore the *halakha* is in accordance with this majority opinion.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר רַב חִלְקִיָּה בַּר טוֹבֵי: תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, אֲפִילּוּ שׁוֹפַעַת כׇּל שִׁבְעָה — אֵינָהּ אֶלָּא רְאָיָה אַחַת. אֲפִילּוּ שׁוֹפַעַת, וְלָא מִבַּעְיָא פּוֹסֶקֶת? אַדְּרַבָּה, פּוֹסֶקֶת הָוְיָא לַהּ כִּשְׁתֵּי רְאִיּוֹת!
+*Translation:* § **Rav Ḥilkiya bar Tovi says:** With regard to **a young girl whose time to see** menstrual blood **has not arrived, even** if she **continuously discharges** menstrual blood **for all seven** days of a typical menstrual period, it is considered as **only one sighting** of blood and she remains in the category of one who lacks blood until she sees menstrual blood twice more. The Gemara asks: Why did Rav Ḥilkiya bar Tovi stress: **Even** if she **continuously discharges** menstrual blood, which indicates that **it is not necessary** to teach that this is the *halakha* if she **stops** seeing a discharge and then starts again? **On the contrary,** if she **stops** and restarts **it is as** though she has had **two sightings** of menstrual blood.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא, תִּינוֹקֶת שֶׁלֹּא הִגִּיעַ זְמַנָּהּ לִרְאוֹת, וְשׁוֹפַעַת כׇּל שִׁבְעָה — אֵינָהּ אֶלָּא רְאָיָה אַחַת.
+*Translation:* The Gemara answers: **Rather,** this is what Rav Ḥilkiya bar Tovi meant: With regard to **a young girl whose time to see** menstrual blood **has not arrived, and** she then **continuously discharges** menstrual blood **for all seven** days of a typical menstrual period, it is considered as **only one sighting** of blood. In other words, he did not state the word: Even.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב שִׁימִי בַּר חִיָּיא: מַדְלֶפֶת אֵינָהּ כְּרוֹאָה, וְהָא קָחָזְיָא! אֵימָא: אֵינָהּ כְּשׁוֹפַעַת, אֶלָּא כְּפוֹסֶקֶת.
+*Translation:* **Rav Shimi bar Ḥiyya says:** The case of woman who constantly **drips** menstrual blood is **not** considered **like** a full **sighting** of blood. The Gemara expresses surprise at this claim: **But** she **saw** blood. The Gemara answers: **Say** that what Rav Shimi bar Ḥiyya meant was that she is **not** considered **like** one who **continuously discharges** blood, but **rather like** one who **stops** and starts again, even if she drips constantly.
+
+**8.**
+*Hebrew/Aramaic:* מִכְּלָל דְּשׁוֹפַעַת (נָמֵי) כִּי נַהֲרָא? אֶלָּא אֵימָא: אֵינָהּ אֶלָּא כְּשׁוֹפַעַת.
+*Translation:* The Gemara raises a difficulty: **From the fact** that Rav Shimi bar Ḥiyya claims that a different *halakha* applies to a woman who constantly drips menstrual blood, it can be inferred **that** the blood of one who **continuously discharges** menstrual blood streams **like a river** for seven days. But this is physically impossible. The Gemara explains: **Rather, say** that Rav Shimi bar Ḥiyya meant that the status of a woman who constantly drips menstrual blood is **nothing other than** the status **of** a woman who **continuously discharges** blood. In both cases, it is all considered as one sighting.
+
+**9.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: חֲזָקָה בְּנוֹת יִשְׂרָאֵל עַד שֶׁלֹּא הִגִּיעוּ לְפִרְקָן — הֲרֵי הֵן בְּחֶזְקַת טׇהֳרָה, וְאֵין הַנָּשִׁים בּוֹדְקוֹת אוֹתָן. מִשֶּׁהִגִּיעוּ לְפִרְקָן — הֲרֵי הֵן בְּחֶזְקַת טוּמְאָה, וְנָשִׁים בּוֹדְקוֹת אוֹתָן.
+*Translation:* § **The Sages taught** in a *baraita*: The **presumption** with regard to the **daughters of Israel** is that **until they have reached their** physical **maturity they have** the **presumptive status of ritual purity, and** adult **women do not** need to **examine them** to check if they are ritually pure before they handle consecrated items or *teruma*. **Once they have reached their** physical **maturity, they have** the **presumptive status of ritual impurity,** due to the possibility of an unnoticed menstrual discharge, **and** if they are still minors, adult **women** must **examine them** to check if they are ritually pure.
+
+**10.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אֵין בּוֹדְקִין אוֹתָן בַּיָּד, מִפְּנֵי שֶׁמְּעַוְּותוֹת אוֹתָן, אֶלָּא סָכוֹת אוֹתָן בְּשֶׁמֶן מִבִּפְנִים, וּמְקַנְּחוֹת אוֹתָן מִבַּחוּץ, וְהֵן נִבְדָּקוֹת מֵאֵילֵיהֶן.
+*Translation:* **Rabbi Yehuda says: They should not examine them by hand, because that** is likely to scratch them and **ruin their** status, as it will be assumed that they are ritually impure with menstrual blood. **Rather,** they **should smear them with oil inside and wipe them** off **on the outside. And** through this method **they are automatically examined,** i.e., if at that age they are ready to menstruate, the oil will cause the blood to flow.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר: מְעוּבֶּרֶת וְכוּ׳. תָּנֵי תַּנָּא קַמֵּיהּ דְּרַבִּי אֶלְעָזָר: רַבִּי יוֹסֵי אוֹמֵר: מְעוּבֶּרֶת וּמְנִיקָה שֶׁעָבְרוּ עָלֶיהָ שָׁלֹשׁ עוֹנוֹת דַּיָּהּ שְׁעָתָהּ. אֲמַר לֵיהּ: פְּתַחְתְּ בִּ״תְרֵי״ וְסַיֵּימְתְּ בַּ״חֲדָא״!
+*Translation:* § The mishna teaches that **Rabbi Yosei says:** With regard to **a pregnant woman** and a nursing woman for whom three expected menstrual cycles passed during which they saw no menstrual blood, if she then saw blood, her time is sufficient. **A *tanna* taught** a *baraita* **before Rabbi Elazar: Rabbi Yosei says:** With regard to **a pregnant woman and a nursing woman for whom three** expected menstrual **cycles passed** during which they saw no menstrual blood, if she then experienced bleeding **her time is sufficient.** Rabbi Elazar **said to him:** The structure of your *baraita* is inconsistent. **You opened with two** categories of women: A pregnant woman and a nursing woman, **and you ended** your quote **with one,** as you concluded in the singular form: Her time is sufficient.
+
+**12.**
+*Hebrew/Aramaic:* דִּלְמָא מְעוּבֶּרֶת וְהִיא מְנִיקָה קָאָמְרַתְּ, וּמִילְּתָא אַגַּב אוֹרְחֵיהּ קָא מַשְׁמַע לַן — דִּימֵי עִיבּוּרָהּ עוֹלִין לָהּ לִימֵי מְנִיקוּתָהּ, וִימֵי מְנִיקוּתָהּ עוֹלִין לָהּ לִימֵי עִיבּוּרָהּ. כִּדְתַנְיָא: יְמֵי עִיבּוּרָהּ עוֹלִין לָהּ לִימֵי מְנִיקוּתָהּ, וִימֵי מְנִיקוּתָהּ עוֹלִין לָהּ לִימֵי עִיבּוּרָהּ.
+*Translation:* Rabbi Elazar continued: **Perhaps you are saying** that this is a case of **a pregnant woman who was also nursing. And** if so, the *baraita* **teaches us a matter in passing, that** with regard to tallying three menstrual cycles in which she saw no menstrual blood, **her days of pregnancy count** toward, i.e., combine with, **her days of nursing and her days of nursing count** toward **her days of pregnancy. As it is taught** in a *baraita*: **Her days of pregnancy count** toward **her days of nursing and her days of nursing count** toward **her days of pregnancy.**
+
+**13.**
+*Hebrew/Aramaic:* כֵּיצַד? הִפְסִיקָה שְׁתַּיִם בִּימֵי עִיבּוּרָהּ, וְאַחַת בִּימֵי מְנִיקוּתָהּ; שְׁתַּיִם בִּימֵי מְנִיקוּתָהּ, וְאַחַת בִּימֵי עִיבּוּרָהּ; אַחַת וּמֶחֱצָה בִּימֵי עִיבּוּרָהּ, וְאַחַת וּמֶחֱצָה בִּימֵי מְנִיקוּתָהּ — מִצְטָרְפוֹת לְשָׁלֹשׁ עוֹנוֹת.
+*Translation:* The *baraita* continues: **How so?** If a woman **stopped** seeing menstrual blood for **two** expected menstrual cycles **during her days of pregnancy and** then for **one** more cycle **during her days of nursing,** or she passed **two** expected menstrual cycles **during her days of nursing and one** more **during her days of pregnancy,** or **one and a half** cycles **during her days of pregnancy and one and a half** cycles **during her days of nursing,** in all these cases the missed cycles spanning her pregnancy and nursing **combine to** a total of **three** missed **cycles,** and therefore her time is sufficient.
+
+**14.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא יְמֵי עִיבּוּרָהּ עוֹלִין לָהּ לִימֵי מְנִיקוּתָהּ, מַשְׁכַּחַתְּ לַהּ דְּקָמְנִיקָה וְאָזְלָא וּמִיעַבְּרָה, אֶלָּא יְמֵי מְנִיקוּתָהּ עוֹלִין לָהּ לִימֵי עִיבּוּרָהּ, הֵיכִי מַשְׁכַּחַתְּ לַהּ?
+*Translation:* The Gemara asks: **Granted,** with regard to the claim that **her days of pregnancy count** toward **her days of nursing, you** can **find it** in a case where **she was nursing continuously and** then she **became pregnant. But** the scenario mentioned in the *baraita* where **her days of nursing count** toward **her days of pregnancy, how can you find these** circumstances? Since she certainly experienced bleeding when she gave birth, how can there be three consecutive menstrual cycles where she did not experience any discharge of blood?
+
+**15.**
+*Hebrew/Aramaic:* אִיבָּעֵית אֵימָא: בְּלֵידָה יַבִּשְׁתָּא, וְאִיבָּעֵית אֵימָא: דַּם נִדָּה לְחוֹד וְדַם לֵידָה לְחוֹד, וְאִיבָּעֵית אֵימָא: תְּנִי חֲדָא.
+*Translation:* The Gemara provides several answers: **If you wish, say** that it is referring to a case **of a dry birth,** i.e., one without any discharge of blood. Or, **if you wish, say:** The **blood** of **a menstruating woman** is **discrete and** the **blood** seen during **birth** is **discrete.** Blood seen during birth does not disrupt the count of menstrual cycles during which a woman does not see menstrual blood. Therefore, the cycles before and after the birth combine to form the requisite three cycles according to Rabbi Eliezer. **Or, if you wish, say: Teach** only **one** of these scenarios. In other words, teach only the case where the days of pregnancy count toward the days of nursing, but not the case where the days of nursing count toward the days of pregnancy.
+
+**16.**
+*Hebrew/Aramaic:* בַּמֶּה אָמְרוּ דַּיָּהּ שְׁעָתָהּ וְכוּ׳. אָמַר רַב: אַכּוּלְּהוּ.
+*Translation:* § The mishna teaches: **And with regard to what** did **they say** that **her time is sufficient?** It is with regard to the first sighting of blood. But with regard to the second sighting, her status is like that of any other woman and she transmits impurity for a twenty-four-hour period or from her last examination. The Gemara inquires concerning which case this clause is referring to. **Rav says:** This qualification is stated **with regard to all of them,** i.e., all four cases of the mishna: The menstrual virgin, the elderly woman, the pregnant woman, and the nursing woman.
+
+**17.**
+*Hebrew/Aramaic:* וּשְׁמוּאֵל אָמַר: לֹא שָׁנוּ אֶלָּא בְּתוּלָה וּזְקֵנָה, אֲבָל מְעוּבֶּרֶת וּמְנִיקָה — דַּיָּין כׇּל יְמֵי עִיבּוּרָן, דַּיָּין כׇּל יְמֵי מְנִיקוּתָן.
+*Translation:* **And Shmuel says: They taught** it **only** with regard to a menstrual **virgin and an elderly woman. But** in the case of **a pregnant woman and a nursing woman, their** time is **sufficient** for **all their days of pregnancy and their** time is **sufficient** for **all their days of nursing.**
+
+**18.**
+*Hebrew/Aramaic:* וְכֵן אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: אַכּוּלְּהוּ, וְרַבִּי יוֹחָנָן אָמַר: לֹא שָׁנוּ אֶלָּא בְּתוּלָה וּזְקֵנָה, אֲבָל מְעוּבֶּרֶת וּמְנִיקָה — דַּיָּין כׇּל יְמֵי עִיבּוּרָן, דַּיָּין כׇּל יְמֵי מְנִיקוּתָן. כְּתַנָּאֵי: מְעוּבֶּרֶת וּמְנִיקָה שֶׁהָיוּ
+*Translation:* The Gemara notes that another pair of Sages had the same dispute. **And similarly, Rabbi Shimon ben Lakish says:** This qualification applies **to all of them; and Rabbi Yoḥanan says: They taught** it **only** with regard to a menstrual **virgin and an elderly woman. But** in the case of a **pregnant woman and a nursing woman, their** time is **sufficient** for **all their days of pregnancy and their** time is **sufficient** for **all their days of nursing.** The Gemara suggests: This is **like** a dispute between ***tanna’im*** in the following *baraita*: With regard to **a pregnant woman and a nursing woman who were**

@@ -1,0 +1,25 @@
+### Nedarim 89b
+
+**1.**
+*Hebrew/Aramaic:* נַעֲרָה שֶׁלֹּא בָּגְרָה וְהִיא יְתוֹמָה. בּוֹגֶרֶת וּמֵת אָבִיהָ. נַעֲרָה בּוֹגֶרֶת וּמֵת אָבִיהָ. נַעֲרָה שֶׁלֹּא בָּגְרָה וּמֵת אָבִיהָ. נַעֲרָה שֶׁמֵּת אָבִיהָ וּמִשֶּׁמֵּת אָבִיהָ בָּגְרָה. בּוֹגֶרֶת וְאָבִיהָ קַיָּים. נַעֲרָה בּוֹגֶרֶת וְאָבִיהָ קַיָּים. רַבִּי יְהוּדָה אוֹמֵר: אַף הַמַּשִּׂיא בִּתּוֹ הַקְּטַנָּה וְנִתְאַלְמְנָה אוֹ נִתְגָּרְשָׁה וְחָזְרָה אֶצְלוֹ — עֲדַיִין הִיא נַעֲרָה.
+*Translation:* if she took a vow when she was **a young woman who had not** yet **reached her majority, and she is an orphan;** if she took a vow when she was **a grown woman and her father died;** if she took a vow when she was **a young woman,** and she became **a grown woman, and her father died;** if she took a vow when she was **a young woman who had not reached her majority, and her father died;** if she took a vow when she was **a young woman, and her father died, and after her father died she reached her majority;** if she took a vow when she was **a grown woman and her father is** still **alive;** and if she took a vow when she was **a young woman,** and she became **a grown woman, and her father is** still **alive. Rabbi Yehuda says:** With regard to **even one who married off his minor daughter, and she was widowed or divorced and she returned to him,** and according to her age **she still** is in the category of **a young woman,** her vows cannot be nullified.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: זוֹ דִּבְרֵי רַבִּי יְהוּדָה. אֲבָל חֲכָמִים אוֹמְרִים, שָׁלֹשׁ נְעָרוֹת נִדְרֵיהֶן קַיָּימִין: בּוֹגֶרֶת, וִיתוֹמָה, וִיתוֹמָה בְּחַיֵּי הָאָב.
+*Translation:* GEMARA: **Rav Yehuda said** that **Rav said: This** mishna is **the statement of Rabbi Yehuda,** who spelled out all the cases and listed nine young women whose vows are upheld. **But the Rabbis say** that it is unnecessary to go into such detail. Instead, they simply said: There are **three young women whose vows are upheld** and cannot be nullified: **A grown woman, and an orphan, and an orphan in her father’s lifetime,** i.e., a young woman who was divorced or widowed while her father was still alive and is considered an orphan in that her father no longer has jurisdiction over her.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ ״קֻוֽנָּם שֶׁאֵינִי נֶהֱנֶה לְאַבָּא וּלְאָבִיךָ אִם עוֹשָׂה אֲנִי עַל פִּיךָ״, ״שֶׁאֵינִי נֶהֱנֵית לְךָ אִם עוֹשָׂה אֲנִי עַל פִּי אַבָּא וְעַל פִּי אָבִיךָ״ — הֲרֵי זֶה יָפֵר.
+*Translation:* MISHNA: If a woman said to her husband: **Deriving benefit from** my **father or from your father is *konam* for me if I** will **prepare** anything **for you;** or if she said: **Deriving benefit from you** is *konam* **for me if I** will **prepare** anything **for** my **father or for your father,** the husband **can nullify** this vow.
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ תַּנְיָא: ״שֶׁאֵינִי נֶהֱנֵית לְאַבָּא וּלְאָבִיךְ אִם אֲנִי עוֹשָׂה לְפִיךָ״, רַבִּי נָתָן אוֹמֵר: לֹא יָפֵר. וַחֲכָמִים אוֹמְרִים: יָפֵר.
+*Translation:* GEMARA: **It is taught** in a *baraita*: If a woman said to her husband: **Deriving benefit from** my **father or from your father** is *konam* **for me if I** will **prepare** anything **for you, Rabbi Natan says** her husband **cannot nullify** the vow. She must prepare food for him, as she is obligated to do so by virtue of their being married, and it is prohibited for her to benefit from their respective fathers. The husband cannot nullify a vow that has not yet taken effect and that depends on the fulfillment of a certain condition. **And the Rabbis say** that even in such a case **he can nullify** her vow.
+
+**5.**
+*Hebrew/Aramaic:* ״נְטוּלָה אֲנִי מִן הַיְּהוּדִים אִם מְשַׁמַּשְׁתֶּךָ״, רַבִּי נָתָן אוֹמֵר: לֹא יָפֵר. וַחֲכָמִים אוֹמְרִים: יָפֵר.
+*Translation:* The *baraita* continues: If the woman said to her husband: **I am removed from the Jews,** i.e., the benefit of my engaging in sexual intercourse will be forbidden to all Jews, **if I engage in sexual intercourse with you, Rabbi Natan says he cannot nullify** the vow. Rather, she must engage in sexual intercourse with her husband, as she is obligated to do so by virtue of their marriage, and she will be forbidden to all other Jews. **And the Rabbis say he can nullify** her vow.
+
+**6.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דְּאִיתְּסַר הֲנָיָיתָא דְּעָלְמָא עֲלֵיהּ אִי נָסֵיב אִיתְּתָא כִּי לָא תָּנֵינָא הִילְכְתָא. רָהֵיט בְּגַפָּא וְתוּבַלְיָא וְלָא אִמְּצִי לְמִיתְנֵא. אֲתָא רַב אַחָא בַּר רַב הוּנָא וְשַׁבְּשֵׁיהּ וְאִינְּסִיב אִיתְּתָא,
+*Translation:* § It is related that there was **a certain man who** took a vow that all **benefit from the world should be forbidden to him if** he **marries a woman when he has not** yet **learned *halakha*. He would run up a ladder and rope but was not able to learn** the material, i.e., despite all his efforts he failed in his studies. **Rav Aḥa bar Rav Huna came and misled him,** allowing him to understand that even if he took a vow, the vow would not take effect, **and** so **he married a woman.**

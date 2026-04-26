@@ -1,0 +1,89 @@
+### Bava Kamma 116b
+
+**1.**
+*Hebrew/Aramaic:* לְהָבִיא כְּרוּב וְדוּרְמַסְקָנִין לַחוֹלֶה, וְהָלַךְ וּמְצָאוֹ שֶׁמֵּת אוֹ שֶׁהִבְרִיא – נוֹתֵן לוֹ שְׂכָרוֹ מִשָּׁלֵם!
+*Translation:* **to bring cabbage and plums to an ill** person, **and he went and found that** the patient had already **died or recovered,** the employer nevertheless **gives** the worker **his entire wage.** Evidently, one is paid for his efforts even if the desired result is not accomplished. Accordingly, the rescuer’s stipulation should apply, and one should be obligated to pay another for attempting to salvage his donkey even if he did not actually succeed in doing so.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מִי דָּמֵי?! הָתָם עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ, הָכָא לָא עָבֵיד שָׁלִיחַ שְׁלִיחוּתֵיהּ.
+*Translation:* Rabbi Yehuda HaNasi **said to him: Are** those two cases **comparable? There,** in the case of the ill person, **the agent performed his assignment,** as he procured and delivered the foods to the ill person, but **here,** in the case of the donkeys, **the agent did not perform his assignment,** as he was unable to rescue the animal from the river.
+
+**3.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שְׁיָירָא שֶׁהָיְתָה מְהַלֶּכֶת בַּמִּדְבָּר, וְעָמַד עָלֶיהָ גַּיִיס לְטוֹרְפָהּ – מְחַשְּׁבִין לְפִי מָמוֹן, וְאֵין מְחַשְּׁבִין לְפִי נְפָשׁוֹת.
+*Translation:* § Apropos the episode involving Rav Safra, the Gemara discusses the division of expenses among travelers in a caravan. **The Sages taught** in a *baraita*: In the case of **a caravan that was traveling in the desert and a troop** of bandits **stood over it** in order **to** attack and **pillage** it, and the members of the caravan agreed to pay ransom to the bandits, they **calculate** each traveler’s contribution **according to** the amount of **money** he is carrying, **and** they **do not calculate according to** the number of **souls** in the caravan, i.e., the expense is not divided equally among the travelers.
+
+**4.**
+*Hebrew/Aramaic:* וְאִם שָׂכְרוּ תַּיָּיר הַהוֹלֵךְ לִפְנֵיהֶם – מְחַשְּׁבִין אַף לְפִי נְפָשׁוֹת; וְלֹא יְשַׁנּוּ מִמִּנְהַג הַחַמָּרִין.
+*Translation:* **But if they hired a scout who travels in front of them** and leads them safely through the desert, the travelers **calculate** each one’s contribution to paying the scout’s wages **even according to** the number of **souls. And they should not differ from the** usual **custom of donkey drivers,** who often have set procedures for such situations.
+
+**5.**
+*Hebrew/Aramaic:* רַשָּׁאִין הַחַמָּרִין לְהַתְנוֹת שֶׁכׇּל מִי שֶׁיֹּאבַד לוֹ חֲמוֹרוֹ נַעֲמִיד לוֹ חֲמוֹר אַחֵר. בְּכוּסְיָא – אֵין מַעֲמִידִין, שֶׁלֹּא בְּכוּסְיָא – מַעֲמִידִין לוֹ. וְאִם אָמַר: ״תְּנוּ לִי, וַאֲנִי אֶשְׁמוֹר״ – אֵין שׁוֹמְעִין לוֹ.
+*Translation:* **The donkey drivers are permitted to stipulate that** with regard to **anyone whose donkey becomes lost,** the caravan **will provide him** with **a different donkey.** If the donkey was lost **through negligence, they do not provide him** with another donkey, but if it was lost **not through negligence, they provide him** with another donkey. **And if** the individual whose donkey became lost **said: Give me** money instead of the donkey **and I will guard** the caravan along with everyone else, **they do not listen to him.**
+
+**6.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! לָא צְרִיכָא, דְּאִית לֵיהּ חֲמָרָא אַחֲרִינָא. מַהוּ דְּתֵימָא: הָא קָא מְינַטַּר לֵיהּ; קָא מַשְׁמַע לַן – שָׁאנֵי נְטִירוּתָא דְחַד מִנְּטִירוּתָא דְבֵי תְרֵי.
+*Translation:* The Gemara asks: Isn’t this **obvious? No,** it is **necessary** to teach this for a case **where he** already **has another donkey, lest you say** that **he will guard** the caravan **for its** sake. Since he still owns one donkey, he never lost his incentive to guard the caravan, and the other drivers should therefore give him money if he wishes. The *baraita* therefore **teaches us** that **guarding one** donkey **is different from guarding two** donkeys, and the driver will be more likely to guard the caravan properly if they supply him with another donkey.
+
+**7.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: סְפִינָה שֶׁהָיְתָה מְהַלֶּכֶת בַּיָּם; עָמַד עָלֶיהָ נַחְשׁוֹל לְטוֹבְעָהּ, וְהֵקֵילּוּ מִמַּשָּׂאָהּ – מְחַשְּׁבִין לְפִי מַשּׂאוֹי, וְאֵין מְחַשְּׁבִין לְפִי מָמוֹן; וְלֹא יְשַׁנּוּ מִמִּנְהַג הַסַּפָּנִים.
+*Translation:* § The Gemara cites another *baraita* that discusses the division of expenses among a group. **The Sages taught:** In a case of **a boat that was traveling on the sea** when **a gale arose** and threatened **to sink it, and** the sailors **lightened its load** by throwing some of their belongings overboard, the sailors **calculate** the amount that each must throw out **according to weight, but** they **do not calculate** it **according to** how much **money** the items are worth. **And they should not differ from the** usual **custom of sailors.**
+
+**8.**
+*Hebrew/Aramaic:* וְרַשָּׁאִין הַסַּפָּנִים לְהַתְנוֹת, שֶׁכׇּל מִי שֶׁאָבְדָה לוֹ סְפִינָה נַעֲמִיד לוֹ סְפִינָה אַחֶרֶת. אָבְדָה לוֹ בְּכוּסְיָא – אֵין מַעֲמִידִין, שֶׁלֹּא בְּכוּסְיָא – מַעֲמִידִין לוֹ. וְאִי פֵּירַשׁ לְמָקוֹם שֶׁאֵין הַסְּפִינוֹת הוֹלְכִין – אֵין מַעֲמִידִין.
+*Translation:* **And** if a number of boats are traveling together, **the sailors are permitted to stipulate that** with regard to **anyone whose boat was lost,** the others **will provide him** with **a different boat.** If **his** boat **was lost through negligence,** the other sailors **do not provide** him with another boat, but if it was lost **not through negligence,** the sailors **provide him** with another boat. **And if** the boat **sailed to a place where the boats do not travel,** the other sailors **do not provide** him with a different boat.
+
+**9.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! לָא צְרִיכָא, דִּבְנִיסָן מְרַחֲקִי חַד אַשְׁלָא, וּבְתִשְׁרִי מְרַחֲקִי תְּרֵי אַשְׁלֵי, וְקָא אָזֵיל בְּיוֹמֵי נִיסָן לִמְקוֹם תִּשְׁרֵי; מַהוּ דְּתֵימָא: דַּוְושֵׁיהּ נָקֵיט וְאָזֵיל, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: Isn’t this **obvious?** The Gemara answers: **No,** it is **necessary because in** the month of **Nisan,** the boats **distance** themselves from the shore by **one rope** length, **and in** the month of **Tishrei,** they **distance** themselves by **two rope** lengths. **And** in this case, the boat **was traveling during Nisan** and sailed **to the place** where boats sail during **Tishrei. Lest you say** that the sailor is not considered negligent because he **is taking his** usual **route and traveling** as he is accustomed to, the *baraita* **teaches us** that his actions are considered negligent.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שְׁיָירָא שֶׁהָיְתָה מְהַלֶּכֶת בַּמִּדְבָּר וְעָמַד גַּיִיס וּטְרָפָהּ, וְעָמַד אֶחָד מֵהֶן וְהִצִּיל – הִצִּיל לָאֶמְצַע. וְאִם אָמַר: ״אֲנִי אַצִּיל לְעַצְמִי״ – הִצִּיל לְעַצְמוֹ.
+*Translation:* **The Sages taught** in a *baraita*: In a case of **a caravan that was traveling in the desert and a troop** of bandits **stood** over it **and pillaged it, and one of** the travelers **arose and rescued** the caravan from the bandits, **he has rescued** the property **for the common** good, i.e., each member of the caravan receives back his property. **And if he stated: I will rescue** the property from the bandits **for myself,** then **he has** effectively **rescued** the items **for himself,** and he is now the legal owner of all the property.
+
+**11.**
+*Hebrew/Aramaic:* הֵיכִי דָמֵי? אִי דְּיָכוֹל לְהַצִּיל, אֲפִילּוּ סֵיפָא נָמֵי לָאֶמְצַע! וְאִי דְּלֹא יָכוֹל לְהַצִּיל, אֲפִילּוּ רֵישָׁא נָמֵי לְעַצְמוֹ!
+*Translation:* The Gemara asks: **What are the circumstances** of the case? **If** each member of the caravan is **able to rescue** his property, then **even** in the **latter clause,** where the rescuer states that he is saving the property for himself, the *halakha* should **also** be that the possessions are rescued **for the common** good, as the other members of the caravan did not despair of retrieving their property. **And if** each member of the caravan is **unable to rescue** his property, they despair of retrieving their property and relinquish ownership of it. Consequently, **even** in the **first clause,** the *halakha* should **also** be that the possessions are saved **for himself,** so that he is their legal owner. Why is there a discrepancy between the *halakha* in the first clause and the *halakha* in the latter clause?
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רָמֵי בַּר חָמָא: הָכָא בְּשׁוּתָּפִין עָסְקִינַן, וּכְגוֹן זֶה – שׁוּתָּף חוֹלֵק שֶׁלֹּא לְדַעַת חֲבֵירוֹ; אֲמַר – פָּלֵיג, לָא אֲמַר – לָא פָּלֵיג.
+*Translation:* The Gemara answers: **Rami bar Ḥama said: Here,** in the case of the *baraita*, **we are dealing with** a caravan whose members are **partners** and jointly own the confiscated property, **and** in a case **such as this, a partner may divide** the property **without the other** partner’s **consent.** Therefore, if **he said** that he intends to save the property for himself, **he has** dissolved the partnership and **divided** the property so that if he is able to rescue only some of the property, the property he rescues is his share of the joint property. If **he did not say** that he intends to save the property for himself, **he has not divided** the property, and whatever he rescues is jointly owned by the partners.
+
+**13.**
+*Hebrew/Aramaic:* רָבָא אָמַר: הָכָא בְּפוֹעֲלִין עָסְקִינַן, וּכְרַב – דְּאָמַר רַב: פּוֹעֵל יָכוֹל לַחֲזוֹר בּוֹ אֲפִילּוּ בַּחֲצִי הַיּוֹם.
+*Translation:* **Rava stated** a different answer: **Here,** in the *baraita*, **we are dealing with laborers** who were hired to protect the caravan, and one of these guards saved the travelers’ property. **And it is in accordance with** the opinion of **Rav, as Rav says: A laborer may retract** his commitment to his employer **even in the middle of the day.**
+
+**14.**
+*Hebrew/Aramaic:* וְכַמָּה דְּלָא הֲדַר בֵּיהּ – כְּבִרְשׁוּתֵיהּ דְּבַעַל הַבַּיִת דָּמֵי, וְכִי הָדַר בֵּיהּ – טַעְמָא אַחֲרִינָא הוּא, דִּכְתִיב: ״כִּי לִי בְנֵי יִשְׂרָאֵל עֲבָדִים״ – וְלֹא עֲבָדִים לַעֲבָדִים.
+*Translation:* The Gemara explains: **As long as he did not retract** his commitment, he is **considered** to be under the **jurisdiction of the employer,** so that anything he saves automatically belongs to the employer. **And when he retracts** his commitment, **it is** for **a different reason** that he is able to do so, **as it is written: “For unto Me the children of Israel are servants”** (Leviticus 25:55), indicating that Jews are servants of God, **but not servants of servants,** i.e., of other Jews. Consequently, it is permitted for a laborer to conclude his term of employment whenever he wants. Once he does so, if he saves property that the members of the caravan are unable to rescue, the property belongs to him.
+
+**15.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: כְּשֶׁיָּכוֹל לְהַצִּיל עַל יְדֵי הַדְּחָק. גַּלִּי דַּעְתֵּיהּ – לְעַצְמוֹ, לָא גַּלִּי דַּעְתֵּיהּ – לָאֶמְצַע.
+*Translation:* **Rav Ashi stated** another answer: The *baraita* is discussing a case **where** the other members of the caravan are **able to rescue** the property **with difficulty.** Therefore, if **he revealed his intention** to rescue the property for himself and the other travelers did not protest, it is clear that they have despaired of recovering their property, and the rescuer has secured the property **for himself.** If he **did not reveal his intention** to rescue the property for himself, the status quo remains and the property has been rescued **for the common** good.
+
+**16.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַגּוֹזֵל שָׂדֶה מֵחֲבֵירוֹ וּנְטָלוּהָ מַסִּיקִין, אִם מַכַּת מְדִינָה הִיא – אוֹמֵר לוֹ: ״הֲרֵי שֶׁלְּךָ לְפָנֶיךָ״; אִם מֵחֲמַת הַגַּזְלָן – חַיָּיב לְהַעֲמִיד לוֹ שָׂדֶה אַחֵר.
+*Translation:* MISHNA: In a case of **one who robs a field from another and thugs [*massikin*]** subsequently **take** the field from the robber, the *halakha* is dependent upon the circumstances: **If it is a regional disaster** in which the thugs seize all the property in the region, the robber **says to** the owner of the field: **That which is yours is before you,** i.e., it is your prerogative to try to reclaim it from the thugs. No compensation is required since the thugs would have seized the property in any event. But **if** the thugs took that field alone **due to the robber,** the robber is **obligated to provide** the owner with **a different field.**
+
+**17.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב נַחְמָן בַּר יִצְחָק: מַאן דְּתָנֵי ״מַסִּיקִין״ – לָא מִשְׁתַּבַּשׁ, וּמַאן דְּתָנֵי ״מַצִּיקִין״ – לָא מִשְׁתַּבַּשׁ. מַאן דְּתָנֵי ״מַצִּיקִין״ לָא מִשְׁתַּבַּשׁ, דִּכְתִיב: ״בְּמָצוֹר וּבְמָצוֹק״.
+*Translation:* GEMARA: **Rav Naḥman bar Yitzḥak said: One who teaches** the mishna using the term ***massikin* does not err, and one who teaches** the mishna using the term ***matzikin*** also **does not err,** as both terms may be used to refer to thugs. **One who teaches** the mishna using the term ***matzikin* does not err, as it is written: “In the siege and in the distress [*matzok*]** with which your enemies shall distress you” (Deuteronomy 28:55). Consequently, *matzikin* are individuals who cause distress to others.
+
+**18.**
+*Hebrew/Aramaic:* וּמַאן דְּתָנֵי ״מַסִּיקִין״ לָא מִשְׁתַּבַּשׁ, דִּכְתִיב: ״יְיָרֵשׁ הַצְּלָצַל״ – וּמְתַרְגְּמִינַן: יַחְסְנִינֵּיהּ סַקָּאָה.
+*Translation:* **And one who teaches** the mishna using the term ***massikin* does not err, as it is written:** “All your trees and the fruit of your land **shall the locust consume”** (Deuteronomy 28:42), **and,** in the standard Aramaic translation, **we translate** this phrase as: **Shall the locust [*sakke’a*] consume.** Consequently, *massikin* are those who consume the property of others.
+
+**19.**
+*Hebrew/Aramaic:* אִם מֵחֲמַת הַגַּזְלָן – חַיָּיב. הֵיכִי דָמֵי? אִילֵּימָא דְּאַנְסוּהָ לְאַרְעָא דִידֵיהּ וְלָא אֲנַסוּה כּוּלֵּי אַרְעָתָא, הָא מֵרֵישָׁא שָׁמְעַתְּ מִינַּהּ: אִם מַכַּת מְדִינָה הִיא כּוּ׳, אִי לָא – לָא!
+*Translation:* § The mishna teaches: **If** the thugs took the field **due to the robber,** the robber is **obligated** to provide the owner with a different field. The Gemara asks: **What are the circumstances** of the case in the latter clause of the mishna? **If we say** that **they seized** only **his land,** i.e., the robber’s land, **and did not seize all** the other **lands** in the region, **you already learned this from the first clause** of the mishna: **If it is a regional disaster** in which the thugs seize all the property in the region, the robber is not obligated to compensate the owner of the field, which indicates that **if it is not** a regional disaster, the robber is **not** exempt from payment. What novelty does the latter clause teach?
+
+**20.**
+*Hebrew/Aramaic:* לָא צְרִיכָא, דְּאַחְוַי אַחְווֹיֵי. לִישָּׁנָא אַחֲרִינָא: הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דְּאַנְסוּהּ גּוֹיִים, (וְאָמְרִי) [וְאַחְוִי] לֵיהּ אַחְוֹיֵי אַרְעָתֵיהּ, וְאַחְוִי הָהִוא בַּהֲדַיְיהוּ.
+*Translation:* The Gemara explains: **No,** it is **necessary** for a case **where** the individual did not actually take control of the property before it was seized by the thugs, but rather **showed** the field to the thugs and thereby facilitated their occupation of the field. **A different version** of this answer is as follows: **With what are we dealing here?** A case **where gentiles coerced** someone **and told him to show them his land** for them to seize, **and he showed** them **that** field belonging to another, **along with** his own fields, and the thugs then seized all the land he showed them.
+
+**21.**
+*Hebrew/Aramaic:* הָהוּא גַּבְרָא דְּאַחְוִי אַכַּרְיָא דְחִטֵּי דְּבֵי רֵישׁ גָּלוּתָא. אֲתָא לְקַמֵּיהּ דְּרַב נַחְמָן, חַיְּיבֵיהּ רַב נַחְמָן לְשַׁלּוֹמֵי. יָתֵיב רַב יוֹסֵף אֲחוֹרֵיהּ דְּרַב הוּנָא בַּר חִיָּיא, וְיָתֵיב רַב הוּנָא בַּר חִיָּיא קַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ רַב הוּנָא בַּר חִיָּיא לְרַב נַחְמָן: דִּינָא אוֹ קְנָסָא?
+*Translation:* The Gemara recounts a related incident: There was **a certain man who showed piles of wheat,** belonging **to the Exilarch’s household,** to thugs, who seized them. The case **came before Rav Naḥman** for judgment, and **Rav Naḥman deemed** that man **liable to pay** the Exilarch for the stolen wheat. **Rav Yosef was sitting behind Rav Huna bar Ḥiyya, and Rav Huna bar Ḥiyya was sitting before Rav Naḥman. Rav Huna bar Ḥiyya said to Rav Naḥman:** Did you deem him liable to pay because that is **the *halakha*, or** was it **a fine?**
+
+**22.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מַתְנִיתִין הִיא, דִּתְנַן: אִם מֵחֲמַת הַגַּזְלָן – חַיָּיב לְהַעֲמִיד לוֹ שָׂדֶה; וְאוֹקִימְנָא דְּאַחְוִי אַחְווֹיֵי. בָּתַר דִּנְפַק, אֲמַר לֵיהּ רַב יוֹסֵף לְרַב הוּנָא בַּר חִיָּיא: מַאי נָפְקָא לָךְ מִינֵּיהּ
+*Translation:* Rav Naḥman **said to him:** This individual’s liability **is** written explicitly in **the mishna,** i.e., it is the *halakha*, **as we learned** in the mishna: **If** thugs took the field **due to the robber,** he is **obligated to provide** the owner with a different **field. And it was established** that the mishna is referring to a case **where** an individual **showed** the field to thugs, who later seized it. So too, in this case, the one who showed the Exilarch’s wheat pile to the thugs is obligated to pay for them. **After** Rav Naḥman **left, Rav Yosef said to Rav Huna bar Ḥiyya: What difference does it make to you**

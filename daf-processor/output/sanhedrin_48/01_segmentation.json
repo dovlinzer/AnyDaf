@@ -1,0 +1,974 @@
+{
+  "masechta": "Sanhedrin",
+  "daf": 48,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "Introduction and Context: Execution, Burial, and the Broader Halakhic Framework",
+      "display_title": "Context & Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Review of Previous Daf: Execution, Halanas HaMeis, and Kevurah",
+          "display_title": "Previous Daf Review",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The Purpose of Kevurah: Atonement vs. Prevention of Bizayon",
+          "display_title": "Purpose of Burial",
+          "timestamp": "00:51"
+        },
+        {
+          "title": "The Timing of Aveilus and Kaparah: When Do They Begin?",
+          "display_title": "Aveilus & Kaparah",
+          "timestamp": "01:26"
+        },
+        {
+          "title": "Issurei Hana'ah of a Corpse and the Status of Ground Over a Grave",
+          "display_title": "Issurei Hana'ah",
+          "timestamp": "01:59"
+        }
+      ]
+    },
+    {
+      "title": "The Principle of Hazmanah Milsa: When Designation Confers Forbidden Status",
+      "display_title": "Hazmanah Milsa",
+      "timestamp": "02:45",
+      "micro_segments": [
+        {
+          "title": "The Debate of Abaye and Rava: Weaving a Garment for a Corpse",
+          "display_title": "Abaye vs. Rava",
+          "timestamp": "02:45"
+        },
+        {
+          "title": "Abaye's Position: Hazmanah Milsa—Designation Alone Suffices",
+          "display_title": "Abaye's Position",
+          "timestamp": "03:42"
+        },
+        {
+          "title": "Rava's Position: Hazmanah Lav Milsa—Only Use Confers Status",
+          "display_title": "Rava's Position",
+          "timestamp": "03:58"
+        },
+        {
+          "title": "The Gemara's Reasoning: Eglah Arufah vs. Avodah Zarah as Models",
+          "display_title": "Models Compared",
+          "timestamp": "04:15"
+        },
+        {
+          "title": "Why Rava Uses Avodah Zarah: Analogy Through Appurtenances",
+          "display_title": "Rava's Model",
+          "timestamp": "05:43"
+        },
+        {
+          "title": "Why Abaye Uses Eglah Arufah: Acts Within Halakhic Obligation",
+          "display_title": "Abaye's Model",
+          "timestamp": "08:08"
+        }
+      ]
+    },
+    {
+      "title": "Clarification Through Rav Chisda: Designation Plus Use Are Both Required",
+      "display_title": "Rav Chisda's Test",
+      "timestamp": "09:45",
+      "micro_segments": [
+        {
+          "title": "The Kerchief and Sefer Torah: Changing Status by Redesignation",
+          "display_title": "Kerchief & Sefer",
+          "timestamp": "09:45"
+        },
+        {
+          "title": "Rav Chisda's Case of Tefillin: The Kerchief Bag Requires Both Designation and Use",
+          "display_title": "Rav Chisda Case",
+          "timestamp": "12:57"
+        },
+        {
+          "title": "Rava's Interpretation: Designation and Use Are Both Necessary",
+          "display_title": "Both Required",
+          "timestamp": "13:00"
+        },
+        {
+          "title": "Abaye's Interpretation: Designation Alone Is Sufficient",
+          "display_title": "Designation Alone",
+          "timestamp": "15:24"
+        }
+      ]
+    },
+    {
+      "title": "Testing the Positions: Cases of Structures Built Over Graves",
+      "display_title": "Graves & Structures",
+      "timestamp": "16:51",
+      "micro_segments": [
+        {
+          "title": "Building a Tombstone While the Owner Is Alive: Permitted Until Death",
+          "display_title": "Tombstone Case",
+          "timestamp": "16:51"
+        },
+        {
+          "title": "Adding to the Structure After the Person Dies: Forbidden Status Attaches",
+          "display_title": "Addition After Death",
+          "timestamp": "17:29"
+        },
+        {
+          "title": "The Resolution: Body Must Be Buried and Removed; Designation Must Be Accompanied by Action",
+          "display_title": "Resolution",
+          "timestamp": "18:04"
+        },
+        {
+          "title": "Rav Pappa's Teaching: Removing the Bricks Reverses the Designation",
+          "display_title": "Reversing Status",
+          "timestamp": "19:48"
+        }
+      ]
+    },
+    {
+      "title": "The Question of Honor: The Cave Dug for One's Father",
+      "display_title": "Father's Grave",
+      "timestamp": "20:48",
+      "micro_segments": [
+        {
+          "title": "The Mishna: A Cave Dug for One's Father Cannot Be Used for Another Body",
+          "display_title": "Father's Cave",
+          "timestamp": "20:48"
+        },
+        {
+          "title": "The Debate: Is This About Hazmanah or About Kevod HaMayis?",
+          "display_title": "Hazmanah vs. Honor",
+          "timestamp": "22:14"
+        },
+        {
+          "title": "Rabban Shimon ben Gamliel: Even Stones Quarried for the Father Are Restricted",
+          "display_title": "Stones Quarried",
+          "timestamp": "22:47"
+        },
+        {
+          "title": "The Gemara's Analysis: The Restriction Is About Honor, Not Issurei Hana'ah",
+          "display_title": "Honor Principle",
+          "timestamp": "23:14"
+        }
+      ]
+    },
+    {
+      "title": "Testing Against a Clear Case: The New Grave and the Fetus",
+      "display_title": "New Grave Case",
+      "timestamp": "24:16",
+      "micro_segments": [
+        {
+          "title": "A New, Unused Grave Is Permitted; One With a Body Is Forbidden",
+          "display_title": "Used vs. Unused",
+          "timestamp": "24:16"
+        },
+        {
+          "title": "The Gemara's Objection: This Appears to Support Rava's Position",
+          "display_title": "Supports Rava",
+          "timestamp": "25:03"
+        },
+        {
+          "title": "The Resolution: The Teaching Excludes Fetuses, Supporting Abaye Against Rabban Shimon ben Gamliel",
+          "display_title": "Fetus Exception",
+          "timestamp": "25:19"
+        }
+      ]
+    },
+    {
+      "title": "Money Collected for the Dead: Does Designation Alone Create Forbidden Status?",
+      "display_title": "Money Collection",
+      "timestamp": "26:23",
+      "micro_segments": [
+        {
+          "title": "Funds Collected Generally for the Dead vs. Funds Collected for a Specific Corpse",
+          "display_title": "General vs. Specific",
+          "timestamp": "26:23"
+        },
+        {
+          "title": "The Braisa: The Debate Among Tanna Kama, Rabbi Meir, and Rabbi Nosson",
+          "display_title": "Braisa Debate",
+          "timestamp": "27:09"
+        },
+        {
+          "title": "Abaye's Explanation: All Agree Designation Is Meaningful; Disagreement Is on Excess Funds",
+          "display_title": "Abaye Explains",
+          "timestamp": "29:44"
+        },
+        {
+          "title": "Rava's Explanation: All Agree Designation Is Meaningless; Disagreement Is on Honor of the Dead",
+          "display_title": "Rava Explains",
+          "timestamp": "31:19"
+        }
+      ]
+    },
+    {
+      "title": "Parents Throwing Items Into the Coffin During Mourning: Does Fevered Designation Count?",
+      "display_title": "Parents' Grief",
+      "timestamp": "32:53",
+      "micro_segments": [
+        {
+          "title": "The Teaching: One Should Prevent Parents' Items from Entering the Coffin",
+          "display_title": "Prevention Duty",
+          "timestamp": "32:53"
+        },
+        {
+          "title": "Abaye's Defense: Fevered Designation Is Not Meaningful Hazmanah",
+          "display_title": "Fevered State",
+          "timestamp": "34:17"
+        },
+        {
+          "title": "The Gemara's Objection and Resolution: The Issue Is a Gezera to Protect Actual Shrouds",
+          "display_title": "Gezera Reason",
+          "timestamp": "34:31"
+        }
+      ]
+    },
+    {
+      "title": "Clear Cases of Designation: The Tefillin Bag and the Sefer Covering",
+      "display_title": "Tefillin & Sefer",
+      "timestamp": "38:22",
+      "micro_segments": [
+        {
+          "title": "The Bag Made for Tefillin: Ad Hoc Use Without Designation Permits Other Uses",
+          "display_title": "Ad Hoc Use",
+          "timestamp": "38:22"
+        },
+        {
+          "title": "The Gemara's Reading: Designation Plus Use Are Both Required (Following Rav Chisda)",
+          "display_title": "Both Required",
+          "timestamp": "39:07"
+        },
+        {
+          "title": "The Craftsman's Case: Before Use, a Sefer Covering Remains Ordinary; After Use, It Becomes Sacred",
+          "display_title": "Craftsman Case",
+          "timestamp": "39:26"
+        },
+        {
+          "title": "The Gemara's Conclusion: There Is a Tannaic Dispute Over Whether Designation or Use-Plus-Designation Is Required",
+          "display_title": "Tannaic Dispute",
+          "timestamp": "40:12"
+        }
+      ]
+    },
+    {
+      "title": "The Halakha Is Like Rava: Use Plus Designation (Not Designation Alone) Confers Status",
+      "display_title": "Final Ruling",
+      "timestamp": "43:51",
+      "micro_segments": [
+        {
+          "title": "Mareimar Rules Like Abaye; the Rabbis Rule Like Rava",
+          "display_title": "Opinions",
+          "timestamp": "43:51"
+        },
+        {
+          "title": "The Halakha: We Follow Rava's Position",
+          "display_title": "Accepted Law",
+          "timestamp": "43:58"
+        }
+      ]
+    },
+    {
+      "title": "Return to Execution: Property Rights and the Case of Navot's Vineyard",
+      "display_title": "Execution & Property",
+      "timestamp": "44:17",
+      "micro_segments": [
+        {
+          "title": "Property of Those Executed by the King vs. by the Court",
+          "display_title": "Property Rights",
+          "timestamp": "44:17"
+        },
+        {
+          "title": "Rabbi Yehuda's Dissent: Even the King's Victims' Property Goes to the Heirs",
+          "display_title": "Dissent",
+          "timestamp": "45:06"
+        },
+        {
+          "title": "Proof from Navot's Vineyard: The Case of False Testimony and Multiple Victims",
+          "display_title": "Navot Case",
+          "timestamp": "45:25"
+        },
+        {
+          "title": "Resolution: Navot's Property Passed to His Relative, Not Because of Royal Right",
+          "display_title": "Resolution",
+          "timestamp": "46:09"
+        },
+        {
+          "title": "Further Reasoning: The Charges Against Navot Included Blasphemy of God to Anger the Judges",
+          "display_title": "Blasphemy Charge",
+          "timestamp": "47:48"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Hazmanah Milsa (Designation Confers Status)",
+      "timestamps": [
+        "02:45",
+        "03:42",
+        "03:58",
+        "04:15",
+        "08:08",
+        "09:45",
+        "12:57",
+        "13:00",
+        "15:24",
+        "16:51",
+        "20:48",
+        "22:14",
+        "26:23",
+        "29:44",
+        "31:19",
+        "32:53",
+        "34:17",
+        "38:22",
+        "39:07",
+        "40:12",
+        "43:51"
+      ]
+    },
+    {
+      "term": "Abaye (Hazmanah Milsa—Designation Suffices)",
+      "timestamps": [
+        "03:42",
+        "08:08",
+        "15:24",
+        "29:44",
+        "34:17",
+        "43:51"
+      ]
+    },
+    {
+      "term": "Rava (Hazmanah Lav Milsa—Use Required)",
+      "timestamps": [
+        "03:58",
+        "05:43",
+        "13:00",
+        "25:03",
+        "31:19",
+        "43:58"
+      ]
+    },
+    {
+      "term": "Eglah Arufah (Heifer for Unsolved Murder)",
+      "timestamps": [
+        "04:23",
+        "04:28",
+        "04:40",
+        "05:00",
+        "05:04",
+        "05:09",
+        "06:43",
+        "06:47"
+      ]
+    },
+    {
+      "term": "Avodah Zarah (Idolatry and Appurtenances)",
+      "timestamps": [
+        "05:46",
+        "05:52",
+        "06:02",
+        "06:06",
+        "06:08",
+        "06:10",
+        "06:12",
+        "06:15",
+        "06:29",
+        "06:35",
+        "07:15",
+        "07:18",
+        "07:20",
+        "07:23",
+        "07:27",
+        "07:30"
+      ]
+    },
+    {
+      "term": "Rav Chisda (Designation Plus Use Both Required)",
+      "timestamps": [
+        "12:57",
+        "13:56",
+        "14:00",
+        "15:05",
+        "39:07"
+      ]
+    },
+    {
+      "term": "Issurei Hana'ah (Prohibition on Deriving Benefit)",
+      "timestamps": [
+        "01:59",
+        "02:03",
+        "02:21",
+        "02:29",
+        "02:36",
+        "02:40",
+        "02:48",
+        "02:52",
+        "03:26",
+        "03:31",
+        "04:26",
+        "04:40",
+        "04:43",
+        "07:11",
+        "07:21",
+        "07:34",
+        "07:37",
+        "16:51",
+        "20:48",
+        "22:02",
+        "22:05",
+        "22:29",
+        "22:37",
+        "24:19",
+        "24:40",
+        "25:03",
+        "27:38",
+        "28:12",
+        "28:16"
+      ]
+    },
+    {
+      "term": "Kippa Tamei Midras (Head Covering with Trodding Impurity)",
+      "timestamps": [
+        "09:48",
+        "09:52",
+        "09:57",
+        "10:00",
+        "10:02",
+        "10:05",
+        "10:09",
+        "10:12",
+        "10:14",
+        "10:19",
+        "10:22",
+        "10:26",
+        "10:31",
+        "10:34",
+        "10:37",
+        "10:40",
+        "10:44",
+        "10:46",
+        "10:52",
+        "11:04",
+        "11:08",
+        "11:12",
+        "11:15",
+        "11:19",
+        "11:22",
+        "11:26",
+        "11:29",
+        "11:32",
+        "11:36",
+        "11:38",
+        "11:41",
+        "11:44",
+        "11:49",
+        "11:52"
+      ]
+    },
+    {
+      "term": "Kli Becomes Tamei in Machshava, Leaves Only by Shinui Ma'aseh (Vessel Law)",
+      "timestamps": [
+        "12:14",
+        "12:18",
+        "12:23",
+        "12:26"
+      ]
+    },
+    {
+      "term": "Tosafot (Medieval Commentary Tradition)",
+      "timestamps": [
+        "12:32",
+        "12:33",
+        "12:37",
+        "12:40",
+        "12:44",
+        "12:49",
+        "12:52",
+        "12:55",
+        "27:56",
+        "41:09",
+        "42:01",
+        "42:06"
+      ]
+    },
+    {
+      "term": "Sefer Torah (Torah Scroll)",
+      "timestamps": [
+        "10:46",
+        "10:50",
+        "10:52",
+        "11:04",
+        "12:33",
+        "12:37",
+        "13:05",
+        "13:08",
+        "39:26",
+        "39:35",
+        "40:27",
+        "41:03"
+      ]
+    },
+    {
+      "term": "Tashmishei Kedusha (Objects Used in Service of Holy Things)",
+      "timestamps": [
+        "14:23",
+        "15:40",
+        "15:43",
+        "16:16",
+        "16:18"
+      ]
+    },
+    {
+      "term": "Tefillin (Phylacteries)",
+      "timestamps": [
+        "14:00",
+        "14:07",
+        "14:10",
+        "14:12",
+        "14:14",
+        "14:17",
+        "14:27",
+        "14:32",
+        "14:34",
+        "14:41",
+        "14:43",
+        "14:46",
+        "14:49",
+        "14:55",
+        "14:58",
+        "15:09",
+        "15:40",
+        "15:43",
+        "18:53",
+        "18:57",
+        "18:59",
+        "19:12",
+        "19:15",
+        "38:22",
+        "38:43",
+        "38:50",
+        "38:53",
+        "38:57",
+        "39:07",
+        "39:11",
+        "39:16",
+        "39:35",
+        "40:23",
+        "40:27"
+      ]
+    },
+    {
+      "term": "Kever Chadash (New, Unused Grave)",
+      "timestamps": [
+        "24:16",
+        "24:19",
+        "24:24",
+        "24:27",
+        "24:32"
+      ]
+    },
+    {
+      "term": "Nefel (Miscarried Fetus)",
+      "timestamps": [
+        "24:36",
+        "24:40",
+        "24:44",
+        "25:19",
+        "25:25",
+        "25:29",
+        "25:32",
+        "25:38",
+        "25:41",
+        "25:47",
+        "25:52",
+        "26:02",
+        "26:05",
+        "26:08"
+      ]
+    },
+    {
+      "term": "Rabban Shimon ben Gamliel (Tannaic Authority)",
+      "timestamps": [
+        "22:47",
+        "22:49",
+        "22:51",
+        "22:55",
+        "23:00",
+        "23:03",
+        "23:06",
+        "23:09",
+        "23:12",
+        "23:14",
+        "25:25",
+        "25:29",
+        "25:31",
+        "25:32",
+        "26:05",
+        "34:39",
+        "34:41",
+        "34:46",
+        "36:07",
+        "36:09",
+        "36:30",
+        "36:46",
+        "36:49",
+        "40:11",
+        "40:15",
+        "40:51",
+        "40:55"
+      ]
+    },
+    {
+      "term": "Chotzev Kever L'Aviv (Digging a Grave for One's Father)",
+      "timestamps": [
+        "20:48",
+        "20:51",
+        "20:58",
+        "21:02",
+        "21:06",
+        "21:09",
+        "21:11",
+        "21:15",
+        "22:47",
+        "22:49"
+      ]
+    },
+    {
+      "term": "Kevod HaMayis (Honoring the Dead)",
+      "timestamps": [
+        "22:14",
+        "22:17",
+        "22:29",
+        "22:32",
+        "22:37",
+        "23:14",
+        "23:17",
+        "23:21",
+        "23:25",
+        "24:12",
+        "31:40",
+        "31:44",
+        "31:48",
+        "31:54",
+        "31:57",
+        "32:02",
+        "32:06",
+        "32:10",
+        "32:14",
+        "32:29",
+        "32:34",
+        "32:40",
+        "32:42"
+      ]
+    },
+    {
+      "term": "Mosar HaMetim LeMayis (Funds Collected for Any Dead Person)",
+      "timestamps": [
+        "26:23",
+        "26:28",
+        "26:31",
+        "26:36",
+        "27:09",
+        "27:16",
+        "27:20",
+        "29:51",
+        "29:53"
+      ]
+    },
+    {
+      "term": "Mosar HaMayis L'Yorshaiv (Funds Collected for a Specific Corpse Go to Heirs)",
+      "timestamps": [
+        "26:49",
+        "26:52",
+        "26:56",
+        "27:00",
+        "27:05",
+        "27:09",
+        "27:26",
+        "27:29",
+        "29:30"
+      ]
+    },
+    {
+      "term": "Rabbi Meir (Tannaic Authority)",
+      "timestamps": [
+        "28:22",
+        "28:25",
+        "28:31",
+        "28:40",
+        "30:26",
+        "30:30",
+        "30:34",
+        "30:38",
+        "30:41",
+        "30:44",
+        "30:46",
+        "30:50",
+        "30:52",
+        "30:56"
+      ]
+    },
+    {
+      "term": "Rabbi Nosson (Tannaic Authority)",
+      "timestamps": [
+        "28:40",
+        "28:41",
+        "28:46",
+        "28:52",
+        "28:56",
+        "29:00",
+        "29:04",
+        "29:08",
+        "29:10",
+        "29:13",
+        "29:16",
+        "30:46",
+        "30:47",
+        "31:35"
+      ]
+    },
+    {
+      "term": "Eliyahu (Elijah, Resover of Doubts)",
+      "timestamps": [
+        "28:22",
+        "28:34",
+        "28:37",
+        "30:44",
+        "30:45"
+      ]
+    },
+    {
+      "term": "Ziluf (Sprinkling Incense or Wine)",
+      "timestamps": [
+        "28:52",
+        "28:56",
+        "29:00",
+        "29:04",
+        "29:08",
+        "32:40",
+        "32:42"
+      ]
+    },
+    {
+      "term": "Dimus (Adornment/Monument on Grave)",
+      "timestamps": [
+        "17:29",
+        "17:31",
+        "17:41",
+        "19:26",
+        "19:32",
+        "30:59",
+        "30:59",
+        "32:40"
+      ]
+    },
+    {
+      "term": "Miriam (Died in Wilderness; Scriptural Reference)",
+      "timestamps": [
+        "04:50",
+        "04:53",
+        "04:56",
+        "05:23"
+      ]
+    },
+    {
+      "term": "Mashkin Bi'Kelim (Throwing Items on the Dead)",
+      "timestamps": [
+        "32:53",
+        "32:55",
+        "33:02",
+        "33:07",
+        "33:10",
+        "33:17",
+        "33:20",
+        "33:27",
+        "33:31",
+        "33:34",
+        "33:39"
+      ]
+    },
+    {
+      "term": "Meriruto (State of Anguish or Bitterness)",
+      "timestamps": [
+        "34:13",
+        "34:17"
+      ]
+    },
+    {
+      "term": "Mittah (Bier/Funeral Bed)",
+      "timestamps": [
+        "34:39",
+        "34:41",
+        "34:46",
+        "34:52",
+        "34:55",
+        "35:00",
+        "35:05",
+        "35:14",
+        "35:18",
+        "35:21",
+        "35:25",
+        "35:27",
+        "35:30",
+        "35:52"
+      ]
+    },
+    {
+      "term": "Tachrichi HaMayis (Shrouds of the Dead)",
+      "timestamps": [
+        "36:19",
+        "36:31",
+        "37:45"
+      ]
+    },
+    {
+      "term": "Gezera (Rabbinic Decree/Protective Measure)",
+      "timestamps": [
+        "31:32",
+        "37:35",
+        "38:16"
+      ]
+    },
+    {
+      "term": "Ulla (Tannaic Authority Who Interprets Cases)",
+      "timestamps": [
+        "36:52",
+        "36:56"
+      ]
+    },
+    {
+      "term": "Kis (Bag/Pouch)",
+      "timestamps": [
+        "38:22",
+        "38:25",
+        "38:29",
+        "38:34",
+        "38:43",
+        "38:50"
+      ]
+    },
+    {
+      "term": "Ad Hoc Use (Usage Without Prior Designation)",
+      "timestamps": [
+        "13:48",
+        "14:41",
+        "14:43",
+        "14:46",
+        "14:49",
+        "14:52",
+        "38:47",
+        "38:50",
+        "38:53"
+      ]
+    },
+    {
+      "term": "Asao (He Made/Designated)",
+      "timestamps": [
+        "38:22",
+        "38:34",
+        "39:07",
+        "39:11"
+      ]
+    },
+    {
+      "term": "Nishmar (He Observed/Designated for Use)",
+      "timestamps": [
+        "39:26",
+        "39:43"
+      ]
+    },
+    {
+      "term": "Ibud Lishma (Preparation for the Sake of a Purpose)",
+      "timestamps": [
+        "40:40",
+        "40:44",
+        "40:48",
+        "40:55",
+        "41:01",
+        "41:06",
+        "42:10",
+        "42:11",
+        "42:15",
+        "42:18",
+        "42:26",
+        "42:29"
+      ]
+    },
+    {
+      "term": "Harugei Malkhut (Those Executed by the King)",
+      "timestamps": [
+        "44:24",
+        "44:28",
+        "44:35",
+        "44:45",
+        "44:49",
+        "45:06",
+        "46:01",
+        "46:04"
+      ]
+    },
+    {
+      "term": "Harugei Beit Din (Those Executed by the Court)",
+      "timestamps": [
+        "44:50",
+        "44:53"
+      ]
+    },
+    {
+      "term": "Mored B'Malkhut (Rebellion Against the King)",
+      "timestamps": [
+        "44:42",
+        "44:46",
+        "47:45",
+        "47:46",
+        "48:00",
+        "48:04",
+        "48:13",
+        "48:29"
+      ]
+    },
+    {
+      "term": "Navot (Biblical Figure; Victim of False Charges)",
+      "timestamps": [
+        "45:29",
+        "45:33",
+        "45:37",
+        "45:42",
+        "46:00",
+        "46:01",
+        "46:09",
+        "46:14",
+        "46:19",
+        "46:23",
+        "46:27",
+        "46:35",
+        "46:37",
+        "46:47",
+        "46:51",
+        "46:53",
+        "46:56",
+        "46:57",
+        "47:01",
+        "47:03"
+      ]
+    },
+    {
+      "term": "Achav (Biblical King; Perpetrator)",
+      "timestamps": [
+        "45:37",
+        "46:47",
+        "47:14"
+      ]
+    },
+    {
+      "term": "Izevel (Biblical Queen; Instigator)",
+      "timestamps": [
+        "47:30",
+        "47:32"
+      ]
+    },
+    {
+      "term": "Kerach (Biblical Reference; Context)",
+      "timestamps": [
+        "47:38"
+      ]
+    }
+  ]
+}

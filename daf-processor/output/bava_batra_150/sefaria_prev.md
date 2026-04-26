@@ -1,0 +1,17 @@
+### Bava Batra 149b
+
+**1.**
+*Hebrew/Aramaic:* שִׁיֵּיר קַרְקַע כׇּל שֶׁהוּא – מַתְּנָתוֹ קַיֶּימֶת. וְכַמָּה ״כׇּל שֶׁהוּא״? אָמַר רַב יְהוּדָה אָמַר רַב: קַרְקַע כְּדֵי פַרְנָסָתוֹ. וְרַב יִרְמְיָה בַּר אַבָּא אָמַר: מְטַלְטְלִין כְּדֵי פַרְנָסָתוֹ.
+*Translation:* § The mishna teaches (146b): If a person on his deathbed **reserved** for himself **any amount of land, his gift stands** even if he subsequently recovers. The Gemara asks: **And how much** is meant by the term: **Any amount? Rav Yehuda says** that **Rav says:** This means **land** that is **sufficient** to provide **for his livelihood.** Since he reserved this land for himself, one can assume that he wished to transfer the rest of his property in any event. **And Rav Yirmeya bar Abba says:** Even if he reserved for himself **movable property** that is **sufficient** to provide **for his livelihood,** his gift is valid.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא: כַּמָּה מְכַוְּונָן שְׁמַעְתָּתָא דְסָבֵי; קַרְקַע טַעְמָא מַאי – דְּאִי קָאֵי סָמֵיךְ עֲלֵיהּ; מִטַּלְטְלִי נָמֵי – אִי קָאֵי סָמֵיךְ עִילָּוַיְהוּ.
+*Translation:* **Rabbi Zeira said: How meticulous** are **the halakhic statements of the elders** Rav Yehuda and Rav Yirmeya. With regard to **land, what** is **the reason** that he must have reserved enough for his livelihood? The reason is **that if he recovers** he will **rely on that** land for his livelihood. With regard to **movable property as well, if he recovers** he will **rely on it** for his livelihood.
+
+**3.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב יוֹסֵף: וּמַאי כַּוּוֹנְתָּא? מַאן דְּאָמַר מְטַלְטְלִין – ״קַרְקַע״ תְּנַן! מַאן דְּאָמַר: כְּדֵי פַרְנָסָתוֹ – ״כׇּל שֶׁהוּא״ תְּנַן!
+*Translation:* **Rav Yosef objects to** Rabbi Zeira’s statement: **What is meticulous** about these statements? The statement of the **one who says** the gift is valid even if he reserved for himself **movable property** is difficult, as **we learn** in the mishna that he must leave himself **land.** The statement of the **one who says** that he must leave himself an amount **sufficient** to provide **for his livelihood** is difficult, as **we learn** in the mishna that his gift is valid if he reserved for himself **any amount.**
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: וְכׇל הֵיכָא דְּתָנֵי ״קַרְקַע״ – קַרְקַע דַּוְקָא? וְהָא תְּנַן: הַכּוֹתֵב כׇּל נְכָסָיו לְעַבְדּוֹ – יָצָא בֶּן חוֹרִין. שִׁיֵּיר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶּן חוֹרִין. רַבִּי שִׁמְעוֹן אוֹמֵר: לְעוֹלָם הוּא בֶּן חוֹרִין, עַד שֶׁיֹּאמַר: ״כׇּל נְכָסַי נְתוּנִין לִפְלוֹנִי עַבְדִּי, חוּץ מֵאֶחָד מֵרִבּוֹא שֶׁבָּהֶן״.
+*Translation:* **Abaye said to** Rav Yosef: **And anywhere that** the term **land is taught,** does it mean **specifically land? But didn’t we learn** in a mishna (*Pe’a* 3:8): With regard to **one who writes,** i.e., gives via a document, **all of his property to his** Canaanite **slave,** the slave **has been emancipated,** but if he **reserved** for himself **any amount of land,** then he **has not been emancipated,** as perhaps he reserved the slave for himself as well. **Rabbi Shimon says: He always** becomes **a freeman** regardless of the wording of the document, even if the owner reserved land for himself, **unless it says** in the document: **All of my property is given to so-and-so my slave, except for one ten-thousandth of it,** as in that case it is possible that the master meant to include the slave in the portion that he is not giving away. Consequently, the slave is not emancipated.

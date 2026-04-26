@@ -1,0 +1,65 @@
+### Kiddushin 37a
+
+**1.**
+*Hebrew/Aramaic:* חוּץ מִן הָעׇרְלָה וְכִלְאַיִם. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אַף הֶחָדָשׁ.
+*Translation:* This is **apart from** the mitzvot of ***orla* and diverse kinds,** which apply even outside of Eretz Yisrael. **Rabbi Eliezer says:** This is the *halakha* **even** with regard to the prohibition to eat from the **new crop** before the *omer* offering has been brought on the sixteenth of Nisan.
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי תְּלוּיָה וּמַאי שֶׁאֵינָהּ תְּלוּיָה? אִילֵימָא תְּלוּיָה – דִּכְתִיב בַּהּ ״בִּיאָה״, וְשֶׁאֵינָהּ תְּלוּיָה – דְּלָא כְּתִיב בַּהּ ״בִּיאָה״, וַהֲרֵי תְּפִילִּין וּפֶטֶר חֲמוֹר, דִּכְתִיב בָּהֶן ״בִּיאָה״, וְנוֹהֲגִין בֵּין בָּאָרֶץ בֵּין בְּחוּץ לָאָרֶץ!
+*Translation:* GEMARA: The Gemara asks: **What** is meant by mitzvot that are **dependent** on the land, **and what** is meant by mitzvot **that are not dependent** on the land? **If we say** that a mitzva is called **dependent** in a case **where it is written** in a verse **with regard to it: Coming** to Eretz Yisrael, **and** a mitzva **that is not dependent** on the land is one concerning **which** the verb: **Coming,** or the verb: Bringing, **is not written** in a verse **with regard to it,** that would lead to a difficulty: **But aren’t there** the mitzvot of donning **phylacteries and the** redemption of the **firstborn donkey, in which** the verse **states: Bringing,** in the passage: “And it shall be when the Lord shall bring you to the land of the Canaanite…And every firstborn of a donkey you shall redeem with a lamb…And it shall be for a sign upon your hand, and for frontlets between your eyes” (Exodus 13:11–16), **and** yet those mitzvot **apply both in Eretz** Yisrael **and outside of Eretz** Yisrael.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: הָכִי קָאָמַר: כׇּל מִצְוָה שֶׁהִיא חוֹבַת הַגּוּף – נוֹהֶגֶת בֵּין בָּאָרֶץ בֵּין בְּחוּץ לָאָרֶץ, חוֹבַת קַרְקַע – אֵינָהּ נוֹהֶגֶת אֶלָּא בָּאָרֶץ.
+*Translation:* **Rav Yehuda said** that **this is what** the mishna **is saying: Any mitzva that is an obligation of the body,** i.e., an obligation upon the person, **applies both in Eretz** Yisrael **and outside of Eretz** Yisrael. Conversely, **an obligation of the land,** that is, a mitzva that applies specifically to the earth and its growths, **applies only in Eretz** Yisrael.
+
+**4.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״אֵלֶּה הַחֻקִּים״ – אֵלּוּ הַמִּדְרָשׁוֹת. ״וְהַמִּשְׁפָּטִים״ – אֵלּוּ הַדִּינִים. ״אֲשֶׁר תִּשְׁמְרוּן״ – זוֹ מִשְׁנָה. ״לַעֲשׂוֹת״ – זוֹ מַעֲשֶׂה.
+*Translation:* The Gemara asks: **From where are these matters** derived? The Gemara answers: This is **as the Sages taught** in a *baraita*: The verse states: “These are the statutes and the ordinances that you shall observe to do in the land that the Lord, the God of your fathers, has given you to possess it, all the days that you live upon the earth” (Deuteronomy 12:1). This verse is interpreted as follows: The phrase **“these are the statutes”** means that **these are the expositions** that the Sages learn from verses. With regard to the phrase **“and the ordinances,” these are** monetary **laws.** With regard to **“that you shall observe,” this is** referring to the **study** of matters that must be observed for one to perform them. And as for the phrase **“to do,” this is** referring to **action,** the actual performance of mitzvot.
+
+**5.**
+*Hebrew/Aramaic:* ״בָּאָרֶץ״ – יָכוֹל כׇּל הַמִּצְוֹת כּוּלָּן לֹא יְהוּ נוֹהֲגִים אֶלָּא בָּאָרֶץ? תַּלְמוּד לוֹמַר: ״כׇּל הַיָּמִים אֲשֶׁר אַתֶּם חַיִּים עַל הָאֲדָמָה״. אִי כׇּל הַיָּמִים, יָכוֹל יְהוּ נוֹהֲגִים בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ? תַּלְמוּד לוֹמַר: ״בָּאָרֶץ״.
+*Translation:* The *baraita* continues: From the phrase **“in the land [*ba’aretz*],”** one **might** have thought that **all mitzvot apply only in Eretz** Yisrael. Therefore, **the verse** also **states “all the days that you live upon the earth,”** i.e., wherever you live. Furthermore, **if** the Merciful One had written only the phrase **“all the days,”** one **might** have thought that all mitzvot **should apply both in Eretz** Yisrael **and outside of Eretz** Yisrael. Therefore, **the verse** also **states “in the land.”**
+
+**6.**
+*Hebrew/Aramaic:* אַחַר שֶׁרִיבָּה הַכָּתוּב וּמִיעֵט – צֵא וּלְמַד מִמַּה שֶּׁאָמוּר בָּעִנְיָן: ״אַבֵּד תְּאַבְּדוּן אֶת כׇּל הַמְּקֹמוֹת אֲשֶׁר עָבְדוּ שָׁם וְגוֹ׳״ – מָה עֲבוֹדָה זָרָה מְיוּחֶדֶת, שֶׁהִיא חוֹבַת הַגּוּף, וְנוֹהֶגֶת בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ – אַף כֹּל שֶׁהִיא חוֹבַת הַגּוּף נוֹהֶגֶת בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ.
+*Translation:* The *baraita* continues: **Once the verse includes** areas outside of Eretz Yisrael **and** also **excludes** areas outside of Eretz Yisrael, how is it determined which mitzvot apply outside the land and which do not? The *baraita* answers: **Go and learn from what is stated with regard to** a different **issue** that appears in the next verse: **“You shall destroy all the places where** the nations that you are to dispossess **served** their gods” (Deuteronomy 12:2). **Just as** the prohibition of **idol worship is distinct** in **that it is an obligation of the body, and it applies both in Eretz** Yisrael **and outside of Eretz** Yisrael, **so too, any** mitzva **that is an obligation of the body applies both in Eretz** Yisrael **and outside of Eretz** Yisrael. Conversely, mitzvot that are an obligation connected to the land apply only in Eretz Yisrael.
+
+**7.**
+*Hebrew/Aramaic:* חוּץ מִן הָעׇרְלָה וְהַכִּלְאַיִם. אִיבַּעְיָא לְהוּ: רַבִּי אֱלִיעֶזֶר לְקוּלָּא פְּלִיג אוֹ לְחוּמְרָא פְּלִיג?
+*Translation:* § The mishna teaches that all mitzvot that are dependent on the land apply only in Eretz Yisrael, **apart from *orla* and** the prohibition of **diverse kinds.** Rabbi Eliezer says: This is the *halakha* even with regard to the prohibition to eat from the new crop. **A dilemma was raised before them:** Does **Rabbi Eliezer disagree** with the first *tanna* with the intent to rule more **leniently or** does **he disagree** with the first *tanna* with the intent to rule more **stringently?**
+
+**8.**
+*Hebrew/Aramaic:* לְחוּמְרָא פְּלִיג, וְהָכִי קָאָמַר תַּנָּא קַמָּא: חוּץ מִן הָעׇרְלָה וּמִן הַכִּלְאַיִם, דְּהִלְכְתָא גְּמִירִי לָהּ, אַף עַל גַּב דְּאִיכָּא לְמֵימַר חוֹבַת קַרְקַע הִיא. אֲבָל חָדָשׁ, בָּאָרֶץ – אִין, בְּחוּצָה לָאָרֶץ – לָא.
+*Translation:* The Gemara elaborates: It is possible that Rabbi Eliezer **disagrees** with the first *tanna* with the intent to rule more **stringently, and this is what the first *tanna* is saying:** All mitzvot that are dependent on the land apply only in Eretz Yisrael, **apart from *orla* and diverse kinds, as we learned this *halakha* through a tradition** transmitted to Moses from Sinai. **Although one could say** that each of them **is an obligation of the land** and should apply only in Eretz Yisrael, nevertheless they are obligatory outside of Eretz Yisrael as well. **But** the prohibition of the **new crop,** which is an obligation of the land, **yes,** it applies **in Eretz** Yisrael, but **outside of Eretz** Yisrael, **no,** it does not apply.
+
+**9.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? ״מוֹשָׁב״ – לְאַחַר יְרוּשָּׁה וִישִׁיבָה מַשְׁמַע.
+*Translation:* **What is the reason** of the first *tanna*? In the verse that states with regard to the new crop: “In all your dwellings” (Leviticus 23:14), the term **dwelling** does not mean that this *halakha* applies wherever Jews live. Rather, it means that the mitzva is applicable only in Eretz Yisrael, as this phrase **indicates** a time **after inheritance and settlement** of Eretz Yisrael by the Jewish people, when they are actually dwelling in the land, not when they are in the process of conquering it. This is the opinion of the first *tanna*.
+
+**10.**
+*Hebrew/Aramaic:* וַאֲתָא רַבִּי אֱלִיעֶזֶר לְמֵימַר: אַף חָדָשׁ נוֹהֵג בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ. מַאי טַעְמָא? ״מוֹשָׁב״ – בְּכׇל מָקוֹם שֶׁאַתֶּם יוֹשְׁבִים.
+*Translation:* **And Rabbi Eliezer comes to say: Even** the prohibition with regard to the **new crop applies both in Eretz** Yisrael **and outside of Eretz** Yisrael. **What is the reason** for his opinion? He explains that the term **dwelling** means **wherever you dwell.** This is one possible way to understand the dispute, according to which the opinion of Rabbi Eliezer is more stringent than that of the first *tanna*.
+
+**11.**
+*Hebrew/Aramaic:* אוֹ דִלְמָא לְקוּלָּא פְּלִיג, וְהָכִי קָאָמַר תַּנָּא קַמָּא: חוּץ מִן הָעׇרְלָה וְהַכִּלְאַיִם, דְּהִלְכְתָא גְּמִירִי לַהּ, וְכׇל שֶׁכֵּן חָדָשׁ, דְּ״מוֹשָׁב״ – כׇּל מָקוֹם שֶׁאַתֶּם יוֹשְׁבִים מַשְׁמַע.
+*Translation:* **Or perhaps** Rabbi Eliezer **disagrees** with the first *tanna* with the intent to rule more **leniently, and this is what the first *tanna* is saying:** All mitzvot that are dependent on the land apply only in Eretz Yisrael, **apart from *orla* and diverse kinds, as we learned this *halakha* through tradition, and all the more so** apart from the **new crop,** which applies outside of Eretz Yisrael, **as** the term **dwelling indicates wherever you dwell.** This is the opinion of the first *tanna*.
+
+**12.**
+*Hebrew/Aramaic:* וַאֲתָא רַבִּי אֱלִיעֶזֶר לְמֵימַר: חָדָשׁ אֵינוֹ נוֹהֵג אֶלָּא בָּאָרֶץ, דְּ״מוֹשָׁב״ – לְאַחַר יְרוּשָּׁה וִישִׁיבָה מַשְׁמַע. וּמַאי ״אַף״ – אַקַּמַּיְיתָא.
+*Translation:* **And Rabbi Eliezer comes to say:** The prohibition of the **new crop applies only in Eretz** Yisrael, **as** the term **dwelling indicates** a time **after inheritance and settlement** of Eretz Yisrael by the Jewish people. The Gemara asks: **And** accordingly, **what** is the meaning of the word: **Even,** with which Rabbi Eliezer begins his statement? It is not referring to *orla* and diverse kinds, which apply outside of Eretz Yisrael, but **to the first** clause, which states that a mitzva that is dependent on the land applies only in Eretz Yisrael. Rabbi Eliezer adds that this principle includes the new crop as well.
+
+**13.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּאָמַר אַבָּיֵי: מַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי אֱלִיעֶזֶר – רַבִּי יִשְׁמָעֵאל הִיא. דְּתַנְיָא: לְלַמֶּדְךָ, שֶׁכׇּל מָקוֹם שֶׁנֶּאֱמַר בּוֹ ״מוֹשָׁב״ אֵינוֹ אֶלָּא לְאַחַר יְרוּשָּׁה וִישִׁיבָה, דִּבְרֵי רַבִּי יִשְׁמָעֵאל.
+*Translation:* Having presented the two ways in which one can explain the opinion of Rabbi Eliezer, the Gemara attempts to prove which is correct and suggests: **Come** and **hear** a proof from that **which Abaye said: Who** is the ***tanna* who disagrees with Rabbi Eliezer? It is Rabbi Yishmael. As it is taught** in a *baraita* with regard to the mitzva of bringing libations with offerings: This serves **to teach you that wherever** the term **dwelling is stated,** the mitzva in question applies **only after** the **inheritance and settlement** of Eretz Yisrael. This is **the statement of Rabbi Yishmael.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי עֲקִיבָא: הֲרֵי שַׁבָּת, שֶׁנֶּאֱמַר בּוֹ ״מוֹשָׁבוֹת״, וְנוֹהֶגֶת בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ! אָמַר לוֹ: שַׁבָּת קַל וָחוֹמֶר אָתְיָא, מָה מִצְוֹת קַלּוֹת נוֹהֲגוֹת בֵּין בָּאָרֶץ בֵּין בְּחוּצָה לָאָרֶץ – שַׁבָּת חֲמִירָא לֹא כׇּל שֶׁכֵּן?
+*Translation:* **Rabbi Akiva said to him:** But there is the case of **Shabbat, in which it is stated:** “It is a Shabbat to the Lord in all your **dwellings”** (Leviticus 23:3), **and** this mitzva **applies both in Eretz** Yisrael **and outside of Eretz** Yisrael. Rabbi Yishmael **said to** Rabbi Akiva: **Shabbat is derived through** the following ***a fortiori*** inference: **If less stringent mitzvot apply both in Eretz** Yisrael **and outside of Eretz** Yisrael, is it **not all the more so** reasonable that **Shabbat,** which is **a stringent** mitzva, should apply everywhere?
+
+**15.**
+*Hebrew/Aramaic:* מִדְּאָמַר אַבָּיֵי: מַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי אֱלִיעֶזֶר – רַבִּי יִשְׁמָעֵאל, שְׁמַע מִינַּהּ רַבִּי אֱלִיעֶזֶר לְחוּמְרָא פְּלִיג, שְׁמַע מִינַּהּ.
+*Translation:* The Gemara explains the proof. **From** the fact **that Abaye said: Who is the *tanna* who disagrees with Rabbi Eliezer,** it is **Rabbi Yishmael,** and Rabbi Yishmael says that the term dwelling means that the mitzva applies after Eretz Yisrael has been entirely settled, one can **conclude from** it that **Rabbi Eliezer disagrees** with the first *tanna* with the intent to rule more **stringently,** as he evidently maintains that the term dwelling means wherever Jews are located. The Gemara affirms: **Conclude from** that *baraita* that it is so.
+
+**16.**
+*Hebrew/Aramaic:* מִכְּדֵי רַבִּי יִשְׁמָעֵאל אַהֵיכָא קָאֵי? אַנְּסָכִים. בִּנְסָכִים
+*Translation:* The Gemara asks an incidental question with regard to Rabbi Yishmael’s opinion. **Now, where does Rabbi Yishmael stand,** i.e., to which specific mitzva is he referring? He is referring **to** the obligation to bring **libations,** from which he learns that all mitzvot that feature the term dwelling apply only after Eretz Yisrael had been conquered and settled. **With regard to libations**

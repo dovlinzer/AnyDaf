@@ -1,0 +1,135 @@
+# Shevuot 2 — Daf Yomi Shiur
+
+## Intro to Shevuot
+
+### Masechet Structure
+
+*Masechet Shevuot* contains forty-eight *dappim* — it runs through daf 49, so one subtracts the first daf since we begin on daf 2 — and it stands at the conclusion of the great arc of *seder nezikin*. The *bavas* constitute the corpus of substantive civil law. *Sanhedrin* and *Makkot* address the court system and the punishments it administers. What remains to be addressed is the mechanism by which competing claims are adjudicated: how one determines who is telling the truth.
+
+In one sense, what is missing from this sequence is a direct treatment of testimonial standards. The topic was touched upon obliquely in *Makkot* — questions of witnesses viewing from different angles, the laws of warning, and the case of *edim zomemim* — but it was never given a systematic treatment of its own. Alongside testimony, one might expect a tractate devoted to what the *Rambam* calls *to'en ve-nit'an*: the laws governing the competing claims of litigants — the rules of *migo*, the principle of *hamotzi mechavero alav haraya*, and so on. That too receives no direct treatment here.
+
+### Oaths in Court
+
+What *Shevuot* provides instead is a related tool: the oath. In both Jewish and broader legal tradition, the oath serves as a mechanism for ensuring honest dealing, both inside and outside the courtroom. Even in informal disputes — a business partner who suspects he was cheated, for instance — one party might demand that the other swear to the truth of his claim. Within the formal court context, oaths function similarly: both those imposed by the *Torah* itself and those that the rabbis added as a means of resolving uncertain cases. The *Torah*-mandated oaths arise in situations such as *modeh bemiktzat* — a defendant who admits to part of a claim — or the various categories of the *shomer*. The rabbinically imposed oaths allow a court to resolve a dispute by requiring one party to swear and thereby win the case, or by allowing one side to transfer the oath to the other.
+
+The use of oaths extends beyond resolving disputes between litigants. A *shevuat ha'edut* — an oath of testimony — functions almost like a legal subpoena: a person known to possess relevant testimony is placed under oath to come forward and testify. If that person then swears falsely that he has no knowledge, he has violated a *shevuah* of a particularly serious kind.
+
+All of this makes clear why *Shevuot* belongs in *nezikin*. The *shevuah* is the instrument by which the civil-law process — substantive claims, court procedure, and truth-verification — is completed. And yet, as we shall see, the tractate opens with material that is quite far removed from this context. The strangeness of that opening is itself something the *Gemara* will need to address.
+
+### Nedarim vs. Shevuot
+
+Before turning to the text of the *mishnah*, it is worth clarifying the fundamental distinction between *nedarim* (vows) and *shevuot* (oaths), since the two are frequently confused.
+
+A *neder* operates on the object. Through speech, a person changes the status of a thing, rendering it forbidden — much as one can declare an animal a *korban* through verbal consecration. If I declare that Michael's lawnmower is like a *korban* to me, I have not made a statement about what is true; I have transformed the halakhic status of that object. If I then derive benefit from it, I have violated the status of the object itself, in the same way one violates the prohibition against deriving benefit from consecrated property. The theological weight involved is the conferral of a quasi-sacred status on an object; there is no calling upon God as witness.
+
+A *shevuah*, by contrast, operates on the person and on the veracity of a statement. When one takes an oath, one calls upon God as witness to the truth of what is being said — whether about a past event or a future intention. The verse *lo yenakeh Hashem et asher yisa shemo lashav* — God will not absolve one who takes His name in vain — applies exclusively to the *shevuah*. It is for this reason that Jews have historically treated the taking of an oath with great solemnity: a false oath does not merely constitute a lie; it is a denial of God's omniscience and an implicit desecration of the divine name. The *Gemara* records that the entire world trembled when the *Torah* declared *lo tisa et shem Hashem Elokecha lashav*.
+
+The past-oriented oath — "as God is my witness, I did not borrow that hundred dollars" — is the classic form relevant to court proceedings. But an oath can also be future-oriented: "I swear I will babysit for Michael tomorrow." The degree of culpability differs between the two cases: one who swears about the future may have genuinely intended to fulfill the oath and later failed, which is a different kind of transgression than one who calls God to witness a falsehood about something that already occurred. Both cases receive treatment in *Shevuot*.
+
+The reason *nedarim* appears in *seder nashim* rather than *nezikin* is that the primary locus of vows in the *Torah* is the passage discussing the annulment of a daughter's or wife's vow by her father or husband. Since that is the *Torah*'s primary treatment of *nedarim*, the *masechet* is placed in the order most closely associated with those family relationships. Correspondingly, just as a major portion of *Shevuot* concerns the use of the *shevuah* in court proceedings, a major portion of *Nedarim* concerns the annulment of vows in the domestic context.
+
+One further category deserves mention: *nidrei mitzvah*, wherein a person makes a promise to God to perform a religious act. This does not fit neatly into the classical object-action distinction — it resembles a vow in some respects and an oath in others — and the *Gemara* treats it as a distinct subcategory.
+
+## Two Which Are Four
+
+### Shevuas Bitui
+
+The *mishnah* opens: *shevuot shtayim she-hein arba* — oaths are two which are four. The "two" refers to what is explicit in the *Torah*, and the "four" reflects rabbinic expansion. The *Torah* in *Parshat Vayikra* (perek 5) enumerates the cases for which one brings a *korban oleh ve-yored* — a variable offering whose value scales with the offerer's means: a wealthy person brings an animal, a person of moderate means brings a bird, and a poor person brings a *minchah*.
+
+Among the cases listed there is the verse *o nefesh ki tishava levate bis'fatayim le-hara o le-heitiv* — if a person takes an oath, articulating with his lips, to do harm or to do good. This is *shevuat bitui* — an articulated oath about future action. The *Torah* also mentions the phrase *le-chol asher yivate ha-adam bi-shevuah*, which the *Gemara* takes to extend the category to oaths about the past as well. Thus the "two" of the *Torah* — future oaths about doing harm or good — become "four" by including the parallel past-oriented cases.
+
+### Shevuat HaEdut
+
+The same chapter in *Vayikra* also enumerates *shevuat ha-edut* — the case where a person hears a call to testify, has relevant knowledge, but swears he does not. This is a separate category of *oleh ve-yored* entirely, and it will receive its own dedicated chapter later in the *masechet*. Similarly, the chapter describes the case of one who touched something *tamei* and forgot — *ve-ne'elam mimenu ve-hu tamei ve-ashem* — and then entered the *Beit HaMikdash* or ate a *korban*. That is the case of *tumat mikdash ve-kodashav*, which will be the subject of the first two chapters.
+
+### Mishnah's Cases
+
+It is striking that the *mishnah* follows this enumeration not by proceeding directly to discuss *shevuat bitui* — the oath most relevant to the *nezikin* context — but by listing several other "two which are four" structures. *Yitzi'ot ha-Shabbat shtayim she-hein arba* — the categories of carrying on *Shabbat* that are two which are four. According to *Rashi*, the more explicitly stated category in the *Torah* is transferring an object from a *reshut ha-yachid* to a *reshut ha-rabbim*, based on the episode of *Moshe* instructing the people to stop bringing donations to the *Beit HaMikdash*. This includes two cases depending on who initiates the transfer; the "four" is obtained by reversing the direction. *Mar'os negaim shtayim she-hein arba* — the *Torah* mentions two types of leprous spots, a *se'et* and a *baheret*, each of which is understood to include two shades, yielding four in total.
+
+Having catalogued these parallel structures, the *mishnah* then proceeds not to the laws of *shevuot* at all, but to *ydiat ha-tumah* — the categories of awareness in the context of *tumat mikdash ve-kodashav* — and it is here that the bulk of the first two chapters will be devoted. The *Gemara* will itself ask the obvious question: why is a tractate named *Shevuot* spending two full chapters on *tumah*? The answer will be deferred, but the question is already pressing at this stage. It is not until the third chapter that *shevuat bitui* is addressed, and not until the fourth chapter that the *shevuot* most directly relevant to court proceedings finally appear.
+
+## Tumat Mikdash
+
+### Three Awareness Points
+
+The *mishnah* now focuses on *tumat mikdash ve-kodashav* — the sin of entering the *Beit HaMikdash* or eating *kodashim* while *tamei*. The governing principle derives from the *Torah*'s language: *ve-ne'elam mimenu* — it was concealed from him — which implies that the person was initially aware of his status and then forgot. And *ve-hu yada ve-ashem* — he then became aware that he had sinned — implies a return to awareness at the end. The sin thus has three temporal components: initial awareness (*yediah* at the *techilah*), forgetting in the middle (*he'elam*), and awareness at the conclusion (*yediah* at the *sof*). The question the *mishnah* then systematically addresses is: what is the halakhic status when one or more of these components is absent?
+
+### Oleh V'Yored
+
+The complete case — *yediah* at the beginning, *he'elam* in the middle, and *yediah* at the end — is the paradigmatic case for the *korban oleh ve-yored*. You were aware you were *tamei*, you forgot, you entered the *Mikdash* or ate a *korban*, and subsequently you became aware that you had sinned. In this case you bring the variable offering. The "two which are four" of *tumat mikdash* refers to the two things one might forget — either that one was *tamei*, or that the place was *Mikdash* or that the food was a *korban* — and correspondingly, the two things one might have done wrong: entering the *Mikdash* or eating *kodashim*.
+
+### Yom Kippur Inner
+
+A more complex case arises when there is *yediah* at the beginning but no *yediah* at the end. You knew you were *tamei*, you forgot, you sinned, and you remain oblivious — you have not yet become aware of your transgression. Since you are not aware you sinned, you cannot bring a *korban*. Yet there is a real rupture that has occurred, a sin committed *be-shogeg*, that remains unaddressed. The *mishnah* states: *se'ir ha-na'aseh bifnim ve-Yom HaKippurim toleh* — the inner goat of Yom Kippur, the one whose blood is brought into the *Kodesh Kodashim* during the *kohen gadol*'s service on Yom Kippur, combined with Yom Kippur itself, *toleh* — suspends the punishment.
+
+The word *toleh* here is critical. It does not mean *mechaper* — full atonement. Were it to effect full atonement, the person would not be required to bring a *korban* once he became aware. Rather, it holds off the consequence, suspends the judgment, so that when the person does eventually become aware of what he did, he will still bring his *oleh ve-yored* and achieve atonement. Yom Kippur functions here as a kind of temporary stay.
+
+This prompts a deeper reflection on the nature of the Yom Kippur service. The *Torah* states explicitly: *ve-chipper et mikdash ha-kodesh ve-et ohel mo'ed ve-et ha-mizbe'ach ve-al ha-kohanim ve-al kol am ha-kahal yechapper* — the entire elaborate service in the *Kodesh Kodashim* is described, first and foremost, as an atonement for the *Mikdash* itself, and only at its conclusion for the people. The *Gemara* reads this with striking literalness: the whole Yom Kippur inner service is oriented toward *tumat mikdash ve-kodashav* — the specific sin of having violated the sanctity of the Temple through *tumah*.
+
+This is, it must be said, a somewhat startling reading. One expects the Yom Kippur atonement to be a sweeping, general reckoning for the sins of the year. To confine the inner service so narrowly — to the case of a person who forgot he was *tamei* and entered the *Mikdash* — seems almost reductive. The *pshat* of the *pesukim*, as many *mefarshim* note, reflects a different and more expansive metaphysics: sin in general generates *tumah*, and that *tumah* somehow penetrates the *Beit HaMikdash*, accumulating within it throughout the year. The *kohen gadol* enters the *Kodesh Kodashim* — the most dangerous and holy space, now saturated with the detritus of the entire community's sins — and the *korban* cleanses it. The sense in which *kipper* means cleansing rather than mere personal atonement is precisely the sense in which the *kohen gadol*'s entry addresses not his own sin but the *tumah* of the *Mikdash* caused by everyone's sins, across the full range of violations.
+
+The *Gemara*'s narrow reading, by contrast, treats the inner service as addressing only the specific case of entering the *Mikdash* in a state of *tumah* without awareness. Both readings are legitimate — the *Gemara* is reading the *halakhah* in its own precise technical register — but the tension between the narrow *halakhic* reading and the broader *peshat* is worth keeping in view.
+
+### Musaf Goat
+
+The third case: no *yediah* at the beginning, but *yediah* at the end. You were never aware that you were *tamei* — you did not know you had become *tamei* before eating the *korban* — but afterwards someone informed you of what you had done. Now you know you sinned, but you cannot bring the *oleh ve-yored* because the *Torah*'s language *ve-ne'elam mimenu* presupposes that there was prior awareness which was then forgotten. Since there was never initial awareness, you do not qualify for this *korban*. Yet you are aware you have sinned, and something must address it.
+
+The *mishnah* states: *se'ir ha-na'aseh ba-chutz ve-Yom HaKippurim mechaper* — the outer goat, the *se'ir* of the *musaf* offering of Yom Kippur, brought on the outer *mizbe'ach* rather than inside the *Kodesh Kodashim*, together with Yom Kippur, is *mechaper* — fully atones.
+
+The difference in language here is significant. In the previous case (*yediah* at the start, none at the end), the term used was *toleh* — suspends — because atonement was expected to eventually arrive through the person's own *korban*. Here, since the person can never bring that *korban*, the service is *mechaper* — fully atones.
+
+The *Gemara* grounds this in a *gezeirah shavah*: the *musaf* goat's Torah passage contains the phrase *milvad chatat ha-kippurim* — in addition to the *chatat* of Yom Kippur — which links it to the inner goat. Just as the inner goat (*se'ir bifnim*) atones only for a sin of *tumat mikdash* in which there was some form of *yediah*, so too the outer goat (*se'ir ha-musaf*) atones for a sin of *tumat mikdash* in which there was likewise some dimension of awareness — specifically, awareness at the conclusion.
+
+### No Awareness
+
+The final case: neither *yediah* at the beginning nor at the end. The person was not aware that he was *tamei*, did not realize he was entering the *Mikdash* or eating *kodashim*, and never subsequently became aware. He is completely oblivious. What addresses this?
+
+The *mishnah* answers: *se'irei ha-regalim u-se'irei rashei ha-chodashim mechaperim* — the goats of the *regalim* and the goats of *rosh chodesh* atone for this case. Every *musaf* of every *yom tov* and every *rosh chodesh* includes a *se'ir la-chatat se'ir le-chapper*, and the *Gemara* now gives this its precise *halakhic* content. These goats atone for *tumat mikdash ve-kodashav* in the case where the person had no awareness at all, at any point.
+
+This is in fact the answer to a question one might have carried since childhood: every time one recites the *musaf* *amidah* and mentions *se'ir le-chapper*, the natural question is — what exactly is it atoning for? The *Gemara*'s answer is technically narrow: these goats address the case of the person who violated the sanctity of the *Mikdash* without any awareness whatsoever. Whether one reads this in the broader *peshat* sense — that any sin generates *tumah* that enters the *Mikdash* and needs periodic cleansing — or in the *Gemara*'s precise *halakhic* register, the conclusion is the same: the *musaf* offerings of the year's calendar collectively address violations of *tumat mikdash* at every degree of awareness, from full awareness through complete obliviousness.
+
+## Rabbinic Disputes
+
+### Rabbi Yehuda
+
+The preceding schema — *se'ir bifnim* for *yediah* at start only, *se'ir musaf* of Yom Kippur for *yediah* at end only, goats of *regalim* and *rosh chodesh* for no *yediah* at all — represents the view attributed in the *mishnah* to Rabbi Yehuda. He maintains a strict one-to-one correspondence: each category of goat addresses one specific type of *tumat mikdash* case, distinguished by the pattern of awareness.
+
+### Rabbi Shimon Tahor
+
+### Rabbi Meir
+
+Rabbi Shimon and Rabbi Meir each dispute this schema, though in different directions. Rabbi Shimon holds that the goats of the *regalim* do atone for the case of no awareness at all, but the goats of *rosh chodesh* do not atone for that case. Rather, the *se'irei rashei chodashim* atone for a different category altogether: *tahor she-achal et ha-tamei* — a person who was himself *tahor* (ritually pure), but ate a *korban* that had become *tamei*. This is a lesser form of the violation: the person did not himself bring *tumah* into the equation; the *korban* had already been compromised by someone else's *tumah*. Nevertheless, eating *tamei* *kodashim* is itself forbidden, and the *rosh chodesh* goat addresses this category.
+
+Rabbi Meir takes the opposite approach: he says *kol ha-se'irim kaparatan shavah al tumat mikdash ve-kodashav* — all the goats perform equivalent atonement for *tumat mikdash ve-kodashav*. There is no meaningful distinction between the *musaf* goat of Yom Kippur, the goats of *rosh chodesh*, and the goats of the *regalim*; all of them address the full range of *tumat mikdash* cases without differentiation. The case of *tahor she-achal et ha-tamei* is also covered by this general equivalence.
+
+### Interchangeable Offerings
+
+Given that these categories differ in what they atone for, the *mishnah* raises a practical question: what if the Yom Kippur goat became lost and was subsequently found on *rosh chodesh* of *Marcheshvan* — could it be used as the *musaf* goat for *rosh chodesh*?
+
+One would expect the answer to be no: if each goat serves a distinct atonement function, a goat consecrated for one category should not be substituted for another. But Rabbi Shimon's response is *yikrevu* — yes, they may be used interchangeably. When pressed by his colleagues — *harei ein kaparatan shavah*, their atonement is not equivalent, so *heichi kreivim zeh ba-zeh*, how can you use one for the other? — Rabbi Shimon replies: *kulam ba'im le-chapper al tumat mikdash ve-kodashav* — they all come to atone for *tumat mikdash ve-kodashav*. Though each functions differently at the level of species, so to speak, they share the same genus. They are all variants of the same fundamental category of sin. Consequently, if you bring the Yom Kippur goat on *rosh chodesh*, it will function with the atonement capacity appropriate to *rosh chodesh*; if you bring a *rosh chodesh* goat on the *regalim*, it will function for the *regalim* category. When and where you bring it determines which specific function it performs, but since they are generically interchangeable, substitution is permitted.
+
+### R. Shimon b. Yehuda
+
+Rabbi Shimon ben Yehuda transmits a different version of Rabbi Shimon's position, one that generates a more elegant internal structure. According to this version, the categories are not parallel but cumulative. The *se'irei rashei chodashim* atone for *tahor she-achal et ha-tamei* — one category. The *regalim* goats atone for *tahor she-achal et ha-tamei* plus the case of no *yediah* at all — two categories. The *musaf* of Yom Kippur atones for all three: *tahor she-achal et ha-tamei*, the case of no awareness, and the case of *yediah* only at the end. Each level of the calendar's sacred time adds an additional layer of atonement capacity.
+
+This version also generates an interesting question about interchangeability: if the *rosh chodesh* goat can only atone for category C, and Yom Kippur's goat can atone for categories A, B, and C, then it is easy to understand using the Yom Kippur goat for a lesser day — it contains the capacity for C within it. But how can you take a *rosh chodesh* goat, which was only designated for C, and use it on Yom Kippur, where the requirement is atonement for A, B, and C? You would seemingly be using a goat of limited capacity to perform atonement it was never designed to provide. Rabbi Shimon ben Yehuda's reply is the same: *kulam ba'im le-chapper al tumat mikdash ve-kodashav* — since they all belong to the same fundamental category, you may bring the *rosh chodesh* goat on Yom Kippur, and by virtue of being brought on Yom Kippur, it will perform the full Yom Kippur atonement. The time and context of the offering determines its scope; the generic interchangeability of all these goats — rooted in their shared purpose of addressing *tumat mikdash* — permits this flexibility.
+
+## Scapegoat & Other Sins
+
+### Se'ir Mishtale'ach
+
+Having discussed the full array of goats and their functions in addressing *tumat mikdash ve-kodashav*, the *mishnah* turns to an entirely different dimension of Yom Kippur atonement. *Al she'ar aveirot she-ba-Torah* — for all other violations of the *Torah* — the full range of sins across all 612 other commandments, whether light or weighty, intentional or unintentional, whether the sinner was aware or unaware, whether it involved a positive commandment or a negative prohibition, and even if the transgression carried the penalty of *karet* or *mitot beit din* — for all of these, *se'ir ha-mishtale'ach mechaper* — the scapegoat atones.
+
+This is the goat sent to *Azazel*, driven off the cliff into the barren land. Its function, as the *Torah* states, is to carry all the sins of the Jewish people — *ve-nasa avonotam el eretz gezeirah*. Notably, the *mishnah* here says only the *se'ir* atones, not Yom Kippur itself. Elsewhere in the *mishnah*, the *day* of Yom Kippur is mentioned alongside the *korban* as performing *toleh* or *kaparah*. Here only the *se'ir* is named — which of course creates a practical difficulty in the post-*Mikdash* era, when there is no *se'ir ha-mishtale'ach*. The resolution adopted by later *halachic* tradition is that the day of Yom Kippur itself is *mechaper* in the absence of the *korban*.
+
+### Kohanim vs. Yisrael
+
+The *mishnah* then states that the *se'ir ha-mishtale'ach* atones equally for *Yisrael*, for *kohanim*, and for the *kohen mashiach* — the *kohen gadol* himself. So where does the distinction between *kohanim* and *Yisrael* manifest? The *mishnah* answers: *she-ha-par mechaper al ha-kohanim al tumat mikdash ve-kodashav* — the *par*, the special bull sacrificed by the *kohen gadol*, atones for the *kohanim* specifically with respect to *tumat mikdash ve-kodashav*. In other words, the elaborate inner service of Yom Kippur involves two parallel tracks: a goat whose blood is brought into the *Kodesh Kodashim* for the atonement of *Yisrael*, and a bull whose blood is brought in for the atonement of the *kohanim*, in both cases specifically for *tumat mikdash ve-kodashav*. For all other sins, the *se'ir ha-mishtale'ach* covers everyone equally.
+
+### R. Shimon on Kohanim
+
+Rabbi Shimon, however, sees the distinction as running deeper. He observes that the inner service involves two instruments — blood and verbal *viduy*. *Keshem she-dam ha-se'ir ha-na'aseh bifnim mechaper Yisrael, kach dam ha-par mechaper al ha-kohanim* — just as the blood of the goat atones for *Yisrael* with respect to *tumat mikdash*, the blood of the bull atones for the *kohanim* with respect to *tumat mikdash*. So far, this parallels the anonymous position of the *mishnah*.
+
+But Rabbi Shimon extends the parallel to the *se'ir ha-mishtale'ach*. The scapegoat carries the people's sins in part because of the *viduy* that the *kohen gadol* pronounces over it — the *ana Hashem chatati aviti pashati ani u-veiti* — by which the sins of the people are symbolically transferred to the goat before it is sent off. Now, the *kohen gadol* also recites *viduy* over the *par*, the bull — and Rabbi Shimon argues that just as the *viduy* over the scapegoat carries the sins of *Yisrael* away, so the *viduy* over the *par* carries the sins of the *kohanim* — all their sins, not only *tumat mikdash*. The blood of the *par* atones for the *kohanim*'s *tumat mikdash*, and the *viduy* over the *par* atones for all the remaining sins of the *kohanim*, paralleling precisely what the *se'ir ha-mishtale'ach* does for *Yisrael*.
+
+The implication is striking: even for ordinary violations — *chillul Shabbat*, eating *chazir*, any run-of-the-mill transgression — *kohanim* and *Yisrael* have separate tracks of atonement on Yom Kippur. One might find this theologically challenging, as it suggests that *kohanim* occupy a categorically distinct position even in the realm of personal sin and divine forgiveness. Perhaps the intention is that *kohanim*, as the religious exemplars charged with maintaining the sanctity of the *avodah*, bear a higher standard and therefore require a distinct mechanism of atonement even for sins that in other respects parallel those of *Yisrael*. The symmetry Rabbi Shimon draws — blood and *viduy* for *Yisrael*, blood and *viduy* for *kohanim* — is aesthetically elegant, even if its theological implications require careful thought. We will return to these themes as we continue into the *masechet*.

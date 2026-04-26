@@ -128,7 +128,8 @@ class StudySessionManager: ObservableObject {
             if let lastTermIdx = Self.lastSentenceTerminal(in: joined) {
                 let fragment = String(joined[joined.index(after: lastTermIdx)...])
                     .trimmingCharacters(in: .whitespacesAndNewlines)
-                return fragment.isEmpty ? nil : fragment   // nil = ends cleanly, no context needed
+                // nil = ends cleanly, or fragment is just punctuation (e.g. a stray closing quote)
+                return fragment.isEmpty || !fragment.contains(where: { $0.isLetter || $0.isNumber }) ? nil : fragment
             }
             // No terminal in the entire amud — treat the whole daf as a single continuation.
             // This is extremely rare; return nil to avoid showing the full amud as context.

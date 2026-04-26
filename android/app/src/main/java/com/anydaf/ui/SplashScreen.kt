@@ -5,10 +5,14 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -38,20 +42,21 @@ fun SplashScreen(onDone: () -> Unit) {
         onDone()
     }
 
+    val configuration = LocalConfiguration.current
+    val shortDp = minOf(configuration.screenWidthDp, configuration.screenHeightDp)
+
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(SplashBlue)
+            .background(SplashBlue),
+        contentAlignment = Alignment.Center
     ) {
-        // Centre column: app name, photo, subtitle
         Column(
             modifier = Modifier
                 .fillMaxWidth()
-                .align(Alignment.Center)
-                .padding(horizontal = 32.dp)
-                .padding(bottom = 120.dp),   // shift up to leave room for YCT logo
+                .padding(horizontal = 32.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.spacedBy(16.dp)
+            verticalArrangement = Arrangement.spacedBy(14.dp)
         ) {
             Text(
                 text = "AnyDaf",
@@ -64,7 +69,7 @@ fun SplashScreen(onDone: () -> Unit) {
                 painter = painterResource(id = R.drawable.rabbi_linzer),
                 contentDescription = "Rabbi Dov Linzer",
                 modifier = Modifier
-                    .size(100.dp)
+                    .size((shortDp * 0.28f).dp)
                     .clip(CircleShape),
                 contentScale = ContentScale.Crop
             )
@@ -82,17 +87,13 @@ fun SplashScreen(onDone: () -> Unit) {
                 color = SubtitleBlue.copy(alpha = 0.75f),
                 textAlign = TextAlign.Center
             )
+            Spacer(Modifier.height(8.dp))
+            Image(
+                painter = painterResource(id = R.drawable.yct_logo),
+                contentDescription = "Yeshivat Chovevei Torah",
+                modifier = Modifier.width((shortDp * 0.26f).dp),
+                contentScale = ContentScale.Fit
+            )
         }
-
-        // YCT logo anchored near the bottom, 50% screen width (mirrors iOS)
-        Image(
-            painter = painterResource(id = R.drawable.yct_logo),
-            contentDescription = "Yeshivat Chovevei Torah",
-            modifier = Modifier
-                .fillMaxWidth(0.5f)
-                .align(Alignment.BottomCenter)
-                .padding(bottom = 96.dp),
-            contentScale = ContentScale.Fit
-        )
     }
 }

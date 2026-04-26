@@ -1,0 +1,626 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 34,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to Perek 3 and the Mishnah on Shomer's Payment Instead of Oath",
+      "display_title": "Perek 3: Shomrim Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Overview of Perek 3 structure and focus on special cases of shomrim liability",
+          "display_title": "Perek 3 Structure",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The Mishnah's case: shomer chinam paying instead of taking oath when object is stolen",
+          "display_title": "Mishnah: Payment vs. Oath",
+          "timestamp": "00:42"
+        },
+        {
+          "title": "The two scenarios for shomer's agreement to pay: admitting negligence or voluntary settlement",
+          "display_title": "Two Payment Scenarios",
+          "timestamp": "00:59"
+        }
+      ]
+    },
+    {
+      "title": "The Logic and Purpose of Keifel Payment to Shomer When Ganav is Found",
+      "display_title": "Keifel to Shomer Logic",
+      "timestamp": "01:38",
+      "micro_segments": [
+        {
+          "title": "Why does ganav pay keifel to shomer rather than to owner: takanah and owner's interests",
+          "display_title": "Keifel Beneficiary",
+          "timestamp": "01:38"
+        },
+        {
+          "title": "Takanah as incentive for shomer to settle quickly and for court efficiency",
+          "display_title": "Takanah Purpose",
+          "timestamp": "02:47"
+        }
+      ]
+    },
+    {
+      "title": "Rava's Answer: Implicit Condition of Ownership Transfer in Case of Theft and Payment",
+      "display_title": "Rava: Conditional Owners…",
+      "timestamp": "04:03",
+      "micro_segments": [
+        {
+          "title": "Rava's mechanism: owner implicitly conditions that if stolen and shomer pays, ownership transfers to shomer retroactively",
+          "display_title": "Rava's Mechanism",
+          "timestamp": "04:03"
+        },
+        {
+          "title": "Rabbi Zeira's challenge: if shomer owns retroactively, shouldn't he own the shearings and offspring from the animal",
+          "display_title": "Rabbi Zeira's Challenge",
+          "timestamp": "04:58"
+        },
+        {
+          "title": "Rabbi Zeira's answer: ownership transfer excludes shearings and offspring (gizos and velados)",
+          "display_title": "Zeira's Carve-Out",
+          "timestamp": "06:58"
+        },
+        {
+          "title": "Gemara's explanation: external benefits like keifel can be transferred, but benefits from the animal itself cannot",
+          "display_title": "External vs. Internal Be…",
+          "timestamp": "07:35"
+        }
+      ]
+    },
+    {
+      "title": "Alternative Answer: Ownership Transfer the Moment Before Theft (Samuch Ligenivas)",
+      "display_title": "Samuch Ligenivas Answer",
+      "timestamp": "08:22",
+      "micro_segments": [
+        {
+          "title": "Alternative mechanism: shomer owns the moment before it gets stolen, not retroactively from transfer",
+          "display_title": "Moment-Before Ownership",
+          "timestamp": "08:22"
+        },
+        {
+          "title": "Practical difference: this approach avoids Rabbi Zeira's challenge about shearings and offspring",
+          "display_title": "Avoids Zeira Challenge",
+          "timestamp": "09:00"
+        },
+        {
+          "title": "Problem with moment-before answer: doesn't work when animal is stolen from a location not in shomer's possession (agam scenario)",
+          "display_title": "Agam Problem",
+          "timestamp": "09:28"
+        },
+        {
+          "title": "Discussion of agam and Tosafos's alternative framing using retroactive ownership from present moment",
+          "display_title": "Tosafos's Tosafos",
+          "timestamp": "10:47"
+        }
+      ]
+    },
+    {
+      "title": "The Distinction Between Actual Payment (Shillem) and Promise to Pay (Ratza Leshalom)",
+      "display_title": "Shillem vs. Promise",
+      "timestamp": "12:12",
+      "micro_segments": [
+        {
+          "title": "Mishnah language 'he paid and did not want to swear' versus gemara's interpretation that promise suffices",
+          "display_title": "Mishnah's Language",
+          "timestamp": "12:12"
+        },
+        {
+          "title": "Rabbi Yochanan: agreement to pay is enough; you don't need to actually pay (kiyan she'amar harei ani meshalem)",
+          "display_title": "Rabbi Yochanan's Rule",
+          "timestamp": "12:16"
+        }
+      ]
+    },
+    {
+      "title": "The Distinction Between Actual Payment (Shillem) and Promise to Pay (Ratza Leshalom) (continued)",
+      "display_title": "Shillem vs. Promise…",
+      "timestamp": "12:28",
+      "micro_segments": [
+        {
+          "title": "Analysis of Mishnah's structure: reisha and seifa are symmetrical but don't cover all cases",
+          "display_title": "Mishnah Symmetry Problem",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Gemara's ambiguity: unclear whether promise without payment gives keifel in all scenarios",
+          "display_title": "Ambiguity in Coverage",
+          "timestamp": "12:28"
+        }
+      ]
+    },
+    {
+      "title": "Braita on Socher (Renter): Promise to Pay Suffices for Keifel",
+      "display_title": "Socher's Promise",
+      "timestamp": "12:28",
+      "micro_segments": [
+        {
+          "title": "Braita: renter who agrees to pay rather than swear receives keifel when ganav is found",
+          "display_title": "Socher Braita",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Discussion of socher's different legal position: legally obligated to pay in theft case, cannot swear falsely honestly",
+          "display_title": "Socher's Legal Status",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Proof from socher case: even when only promising (not paying), and even when already legally obligated, promise for keifel suffices",
+          "display_title": "Socher as Proof",
+          "timestamp": "12:28"
+        }
+      ]
+    },
+    {
+      "title": "Cases of Changed Mind and Conditional Promises: Retraction and Timing Issues",
+      "display_title": "Changed Mind Cases",
+      "timestamp": "12:28",
+      "micro_segments": [
+        {
+          "title": "Case: first says won't pay/will swear, then agrees to pay—obviously gets keifel despite delay",
+          "display_title": "Late Agreement",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: agrees to pay then retracts—question whether he really can retract or just trying; either way, if retracted loses keifel",
+          "display_title": "Retraction Case",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Gemara's view: either he can retract or he's bound but trying—either way, if retracted loses keifel; Tosafos: actually bound but attempting retraction loses keifel",
+          "display_title": "Retraction Analysis",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: shomer dies after promising to pay but before paying; children refuse—question whether they're retracting or delaying",
+          "display_title": "Shomer Dies",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: shomer's children actually pay—question whether they get keifel given no gratitude from owner",
+          "display_title": "Children Pay",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: owner dies; shomer pays owner's heirs—question whether heirs' lack of prior relationship affects keifel eligibility",
+          "display_title": "Owner Dies",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: both shomer and owner dead; heirs of shomer pay heirs of owner—question whether purely business consideration applies",
+          "display_title": "Both Parties Dead",
+          "timestamp": "12:28"
+        }
+      ]
+    },
+    {
+      "title": "Edge Cases: Partial Payment, Multiple Animals, Multiple Parties, Husband-Wife Scenarios",
+      "display_title": "Partial Payment Cases",
+      "timestamp": "12:28",
+      "micro_segments": [
+        {
+          "title": "Case: shomer agrees to pay only half of principal—whether partial promise suffices for keifel",
+          "display_title": "Half Payment",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: shoal borrowed two cows, paid full for one—whether treated as separate transactions for keifel",
+          "display_title": "Two Cows",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: borrowed from partners, paid one partner's share—whether gets keifel for that half",
+          "display_title": "Partner Payment",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: two partners borrowed, one pays his share—whether gets keifel for his portion",
+          "display_title": "Co-Borrower Pay",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Case: woman borrows, husband pays on her behalf—question of owner identity and payment attribution",
+          "display_title": "Husband-Wife",
+          "timestamp": "12:28"
+        },
+        {
+          "title": "Gemara's conclusion on all partial/split cases: teiku (unresolved)",
+          "display_title": "All Teiku",
+          "timestamp": "12:28"
+        }
+      ]
+    },
+    {
+      "title": "Expansion on Cases Receiving Keifel: Shomer Chinam, Shomer Sachar, and Shoal",
+      "display_title": "Cases Receiving Keifel",
+      "timestamp": "12:58",
+      "micro_segments": [
+        {
+          "title": "Rav Papa: shomer chinam who admits negligence (pashati) gets keifel without even saying 'I will pay'",
+          "display_title": "Pashati Case",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Shomer sachar who admits theft (nignava): gets keifel for honesty, incentivizing truth over false oath",
+          "display_title": "Honesty Incentive",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Question of bifnim or chutz mipnim: whether these cases are within the property or outside",
+          "display_title": "Bifnim Question",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Shoal (borrower) exception: normally doesn't get keifel because has limited exemption options (only mita machmat melachah)",
+          "display_title": "Shoal Exception",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Reason for shoal exception: mita machmat melachah is rare, so no strong incentive needed to prevent false claim",
+          "display_title": "Rare False Claim",
+          "timestamp": "12:58"
+        }
+      ]
+    },
+    {
+      "title": "Dispute: Whether Shoal Also Gets Keifel and the Basis for the Distinction",
+      "display_title": "Shoal Gets Keifel?",
+      "timestamp": "12:58",
+      "micro_segments": [
+        {
+          "title": "Rav Papa's second opinion: even shoal gets keifel when agrees to pay (different from his first opinion)",
+          "display_title": "Rav Papa Second View",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Rav Zevid reports Abaye's view: shoal gets keifel only if actually pays, not just promises",
+          "display_title": "Abaye's Distinction",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Abaye's reason: because shoal benefited from the loan and owner has no gratitude toward him",
+          "display_title": "Gratitude Factor",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Tosafos: practical difference between approaches depends on whether shoal made special stipulations limiting his liability",
+          "display_title": "Tosafos Nafka Mina",
+          "timestamp": "12:58"
+        }
+      ]
+    },
+    {
+      "title": "Braita on Shoal: Actual Payment Required for Keifel",
+      "display_title": "Shoal Payment Braita",
+      "timestamp": "12:58",
+      "micro_segments": [
+        {
+          "title": "Braita: shoal who stepped forward and paid (hikdim v'shillem) gets keifel, emphasizing payment not promise",
+          "display_title": "Hikdim V'Shillem",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Contrast with socher braita: socher needs only to say (amar), shoal needs to step forward and pay (hikdim v'shillem)",
+          "display_title": "Socher-Shoal Contrast",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Gemara's analysis: whether braitot are from same source and whether hikdim v'shillem means actual payment",
+          "display_title": "Source Analysis",
+          "timestamp": "12:58"
+        },
+        {
+          "title": "Query to Tanaim of Bei Rabbi Chiyya and Bei Rabbi Oshaya: confirmation that braitot were taught together",
+          "display_title": "Tanaim Consultation",
+          "timestamp": "12:58"
+        }
+      ]
+    },
+    {
+      "title": "Rav Huna's Requirement: Oath Even When Shomer Agrees to Pay (Mashbinan Shuva'ah)",
+      "display_title": "Rav Huna's Oath",
+      "timestamp": "13:20",
+      "micro_segments": [
+        {
+          "title": "Rav Huna: even if shomer agrees to pay, must still take oath that he's not holding object himself",
+          "display_title": "Oath Despite Payment",
+          "timestamp": "13:20"
+        },
+        {
+          "title": "Reason: concern that shomer might be falsely claiming loss to keep object for himself (chayishinan shema einav natan bah)",
+          "display_title": "Fraud Concern",
+          "timestamp": "13:20"
+        },
+        {
+          "title": "Impact: despite keifel incentive, court involvement and oath requirement still necessary to verify actual loss",
+          "display_title": "Court Involvement",
+          "timestamp": "13:20"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Keifel (double payment)",
+      "timestamps": [
+        "01:33",
+        "02:26",
+        "02:28",
+        "06:30",
+        "08:01",
+        "12:16",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Shomer chinam (unpaid watchman)",
+      "timestamps": [
+        "00:42",
+        "01:40",
+        "04:03",
+        "12:28",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Ganav (thief)",
+      "timestamps": [
+        "01:23",
+        "01:33",
+        "08:58",
+        "09:00",
+        "12:28"
+      ]
+    },
+    {
+      "term": "Gneiva (theft)",
+      "timestamps": [
+        "02:34",
+        "12:28",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Shebua (oath)",
+      "timestamps": [
+        "00:33",
+        "01:14",
+        "12:16",
+        "12:28",
+        "13:20"
+      ]
+    },
+    {
+      "term": "Takanah (rabbinic enactment)",
+      "timestamps": [
+        "01:53",
+        "02:45",
+        "03:00",
+        "03:06"
+      ]
+    },
+    {
+      "term": "Tikkun olam (betterment of world)",
+      "timestamps": [
+        "01:56"
+      ]
+    },
+    {
+      "term": "Rava (3rd amora, Babylonia)",
+      "timestamps": [
+        "04:09",
+        "08:22"
+      ]
+    },
+    {
+      "term": "Rabbi Zeira (3rd amora, Palestine/Babylon)",
+      "timestamps": [
+        "04:58",
+        "06:58"
+      ]
+    },
+    {
+      "term": "Conditional ownership / na'aseh ke'omer lo",
+      "timestamps": [
+        "04:09",
+        "07:01"
+      ]
+    },
+    {
+      "term": "Retroactive ownership (mei'achshav)",
+      "timestamps": [
+        "04:40",
+        "07:01"
+      ]
+    },
+    {
+      "term": "Gizos and velados (shearings and offspring)",
+      "timestamps": [
+        "05:26",
+        "06:52",
+        "07:04"
+      ]
+    },
+    {
+      "term": "Samuch ligenivas (moment before theft)",
+      "timestamps": [
+        "08:34"
+      ]
+    },
+    {
+      "term": "Agam (grazing place/location issue)",
+      "timestamps": [
+        "09:28",
+        "10:14",
+        "10:27"
+      ]
+    },
+    {
+      "term": "Ashishna (secret location)",
+      "timestamps": [
+        "10:28"
+      ]
+    },
+    {
+      "term": "Kinyan (act of acquisition)",
+      "timestamps": [
+        "10:47",
+        "11:57"
+      ]
+    },
+    {
+      "term": "Matnas shechiv mera (deathbed gift)",
+      "timestamps": [
+        "08:43"
+      ]
+    },
+    {
+      "term": "Shillem (actual payment)",
+      "timestamps": [
+        "12:12",
+        "12:16",
+        "12:28"
+      ]
+    },
+    {
+      "term": "Ratza leshalom (agreement to pay)",
+      "timestamps": [
+        "12:28"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan (3rd amora, Palestine)",
+      "timestamps": [
+        "12:16"
+      ]
+    },
+    {
+      "term": "Socher (renter)",
+      "timestamps": [
+        "12:28",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Shoal (borrower)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Mita machmat melachah (death from normal use)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Pashati (I was negligent/admission)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Rav Papa (4th amora, Babylonia)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Abaye (4th amora, Babylonia)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Rav Zevid / Rav Zvid (4th amora, Babylonia)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Hana'ah (benefit from transaction)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Braita (external teaching outside Mishnah)",
+      "timestamps": [
+        "12:28",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Hikdim (stepped forward/paid eagerly)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Nafka mina (practical difference)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Teiku (unresolved dispute)",
+      "timestamps": [
+        "12:28"
+      ]
+    },
+    {
+      "term": "Rav Huna (3rd amora, Babylonia)",
+      "timestamps": [
+        "13:20"
+      ]
+    },
+    {
+      "term": "Mashbinan shuva'ah (we make him swear)",
+      "timestamps": [
+        "13:20"
+      ]
+    },
+    {
+      "term": "Chayishinan (we are concerned)",
+      "timestamps": [
+        "13:20"
+      ]
+    },
+    {
+      "term": "Einav natan bah (he set his eyes on it/fraudulent intent)",
+      "timestamps": [
+        "13:20"
+      ]
+    },
+    {
+      "term": "Ba'al habayit (owner/householder)",
+      "timestamps": [
+        "12:58"
+      ]
+    },
+    {
+      "term": "Beit din (Jewish court)",
+      "timestamps": [
+        "02:47",
+        "02:56"
+      ]
+    },
+    {
+      "term": "Tosafos (medieval commentators)",
+      "timestamps": [
+        "11:57",
+        "12:02",
+        "12:58"
+      ]
+    },
+    {
+      "term": "Rashi (medieval commentator)",
+      "timestamps": [
+        "11:57",
+        "12:02",
+        "13:20"
+      ]
+    }
+  ]
+}

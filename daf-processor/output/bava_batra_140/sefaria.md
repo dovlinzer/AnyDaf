@@ -1,0 +1,70 @@
+### Bava Batra 140a
+
+**1.**
+*Hebrew/Aramaic:* שָׁקְלִי לְהוּ בָּנוֹת לְכוּלְּהוּ?! אֶלָּא אָמַר רָבָא: מוֹצִיאִין לָהֶן מְזוֹנוֹת לַבָּנוֹת עַד שֶׁיִּבְגְּרוּ, וְהַשְּׁאָר לַבָּנִים.
+*Translation:* shall the **daughters take all** of the estate, even if it is more than is required for their sustenance? **Rather, Rava said:** The court **appropriates sustenance for the daughters until they reach their majority, and the remainder** is given **to the sons.**
+
+**2.**
+*Hebrew/Aramaic:* פְּשִׁיטָא – מְרוּבִּין וְנִתְמַעֲטוּ, כְּבָר זָכוּ בָּהֶן יוֹרְשִׁין. מוּעָטִין וְנִתְרַבּוּ, מַאי? בִּרְשׁוּת יוֹרְשִׁין קָיְימִי – הִלְכָּךְ בִּרְשׁוּת יוֹרְשִׁין שְׁבוּח; אוֹ דִּלְמָא, סַלּוֹקֵי מְסַלְּקִי יוֹרְשִׁין מֵהָכָא?
+*Translation:* § The Gemara comments: It is **obvious** that if the estate was **large and became small,** the **heirs,** i.e., the sons, **already acquired it** when it was large. It remains in their possession, and they must provide for the daughters from it. The Gemara asks: If the estate was **small,** and was therefore not inherited by the sons, **and** then it **became large, what** is the *halakha*? Does even a small estate **remain in the possession of the heirs,** while the court reserves it for the daughters’ sustenance, and **therefore it appreciated in the possession of** the **heirs** and they receive the appreciation in the estate’s value? **Or perhaps** the **heirs are** totally **removed from** possession of a small estate, and the appreciation in value is to the benefit of the daughters receiving sustenance.
+
+**3.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, דְּאָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: יְתוֹמִין שֶׁקָּדְמוּ וּמָכְרוּ בִּנְכָסִים מוּעָטִין – מַה שֶּׁמָּכְרוּ, מָכְרוּ.
+*Translation:* The Gemara answers: **Come** and **hear** a proof, **as Rabbi Asi says** that **Rabbi Yoḥanan says:** In the case of **orphans who preemptively sold** land **from a small estate** left to them by their father, before the court appropriated it for the daughters’ sustenance, concerning **that which they sold,** the **sale** is valid, even though they acted improperly. One can infer from this that a small estate remains in the possession of the heirs even when they are not authorized to derive benefit from it, and therefore the appreciation in its value belongs to them.
+
+**4.**
+*Hebrew/Aramaic:* יָתֵיב רַבִּי יִרְמְיָה קַמֵּיהּ דְּרַבִּי אֲבָהוּ, וְקָא בָּעֵי מִינֵּיהּ: אַלְמְנָתוֹ, מַהוּ שֶׁתְּמַעֵט בַּנְּכָסִים? מִי אָמְרִינַן: כֵּיוָן דְּאִית לַהּ מְזוֹנֵי – מְמַעֲטָא; אוֹ דִלְמָא, כֵּיוָן דְּאִילּוּ מִנַּסְבָא – לֵית לַהּ, הַשְׁתָּא נָמֵי לֵית לַהּ?
+*Translation:* § **Rabbi Yirmeya was sitting before Rabbi Abbahu and raised** the following **dilemma before him: What is** the *halakha* with regard to the sustenance to which the deceased’s **widow** is entitled? Does it **reduce** the value of **the estate** when evaluating whether the estate is categorized as a large estate or a small estate? **Do we say** that **since she has** a right to receive **sustenance,** it **reduces** the value of the estate? **Or perhaps** we say that **since if she remarries she does not have** a right to sustenance, **now as well,** for the purposes of determining the value of the estate, she is considered as if **she does not have** a right to sustenance, and therefore it does not reduce the value of the estate.
+
+**5.**
+*Hebrew/Aramaic:* אִם תִּמְצָא לוֹמַר: כֵּיוָן דְּאִילּוּ מִנַּסְבָא לֵית לַהּ – הַשְׁתָּא נָמֵי לֵית לַהּ; בַּת אִשְׁתּוֹ, מַהוּ שֶׁתְּמַעֵט בַּנְּכָסִים? מִי אָמְרִינַן: כֵּיוָן דְּכִי מִנַּסְבָא נָמֵי אִית לַהּ – וּמְמַעֲטָא; אוֹ דִלְמָא, כֵּיוָן דְּאִילּוּ מֵתָה לֵית לַהּ – וְלָא מְמַעֲטָא?
+*Translation:* Furthermore, **if you say** that **since, if she remarries she does not have** a right to sustenance, **now as well** she is considered as if **she does not have** a right to sustenance, and it is not taken into account when evaluating the estate, then another dilemma can be raised: **What is** the *halakha* with regard to the sustenance one pledged to give, for a certain number of years, to the **daughter of his wife** from a previous marriage, i.e., his step-daughter, which is an obligation not affected by his death or by her marriage? Does it **reduce** the value of **the estate? Do we say** that **since, when she marries she also has** a right to sustenance, it **reduces** the value of the estate? **Or perhaps** we say that **since, if she dies she does not have** a right to sustenance, it **does not reduce** the value of the estate.
+
+**6.**
+*Hebrew/Aramaic:* וְאִם תִּמְצָא לוֹמַר: כֵּיוָן דְּאִילּוּ מֵתָה לֵית לַהּ – וְלָא מְמַעֲטָא; בַּעַל חוֹב – מַהוּ שֶׁיְּמַעֵט בַּנְּכָסִים? מִי אָמְרִינַן: כֵּיוָן דְּכִי מָיֵית נָמֵי אִית לֵיהּ, מְמַעֵט; אוֹ דִלְמָא, כֵּיוָן דִּמְחַסְּרִי גּוּבְיָינָא, לָא מְמַעֵט?
+*Translation:* **And if you say** that **since, if she dies she does not have** a right to sustenance, therefore it **does not reduce** the value of the estate, **what is** the *halakha* with regard to a debt owed to the deceased’s **creditor?** Does it **reduce** the value of **the estate? Do we say** that **since, when** the creditor **dies he also has** a right to the money owed him, and it is collected by his heirs, therefore it **reduces** the value of the estate? **Or perhaps** we say that **since it has not yet been collected,** it **does not reduce** the value of the estate.
+
+**7.**
+*Hebrew/Aramaic:* וְאִיכָּא דְּבָעֵי לַהּ לְאִידַּךְ גִּיסָא – בַּעַל חוֹב, מַהוּ שֶׁיְּמַעֵט בַּנְּכָסִים?
+*Translation:* **And there are** those who say **that** Rabbi Yirmeya **raised the dilemmas in the opposite direction,** i.e., in the reverse order: **What is** the *halakha* with regard to a debt owed to **a creditor?** Does it **reduce** the value of **the estate?**
+
+
+---
+
+### Bava Batra 140b
+
+**1.**
+*Hebrew/Aramaic:* בַּת אִשְׁתּוֹ, מַהוּ שֶׁתְּמַעֵט בַּנְּכָסִים? אַלְמְנָתוֹ, מַהוּ שֶׁתְּמַעֵט בַּנְּכָסִים? אַלְמְנָתוֹ וּבַת – אֵי זֶה מֵהֶן קוֹדֶמֶת?
+*Translation:* **What is** the *halakha* with regard to sustenance the deceased pledged to give **the daughter of his wife** from a previous marriage? Does it **reduce** the value of **the estate? What is** the *halakha* with regard to the sustenance to which **his widow** is entitled? Does it **reduce** the value of **the estate?** Furthermore, with regard to **his widow and daughter, which of them takes precedence** if the estate is insufficient to provide sustenance for both?
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: זִיל הָאִידָּנָא וְתָא לִמְחַר. כִּי אֲתָא, אֲמַר לֵיהּ: פְּשׁוֹט מִיהַת חֲדָא, דְּאָמַר רַבִּי אַבָּא אָמַר רַבִּי אַסִּי: עָשׂוּ אַלְמָנָה אֵצֶל הַבַּת – כַּבַּת אֵצֶל הָאַחִין בִּנְכָסִים מוּעָטִין; מָה בַּת אֵצֶל אַחִין – הַבַּת נִיזּוֹנֶת, וְהָאַחִין יִשְׁאֲלוּ עַל הַפְּתָחִים; אַף אַלְמָנָה אֵצֶל הַבַּת – אַלְמָנָה נִיזּוֹנֶת, וְהַבַּת תִּשְׁאַל עַל הַפְּתָחִים.
+*Translation:* Rabbi Abbahu **said to** Rabbi Yirmeya: **Go now and come** back **tomorrow. When he came** back, Rabbi Abbahu **said to** him: **Resolve at least one** of your questions, **as Rabbi Abba says** that **Rabbi Asi says:** The Sages **established** the status of the **widow in relation to the daughter as** equivalent to the status of the **daughter in relation to the brothers in** the case of **a small estate. Just as** in the case of **a daughter in relation to** her **brothers, the daughter is sustained and the brothers** go and **request** charity **at the doors, so too** in the case of **a widow in relation to the daughter, the widow is sustained and the daughter** goes and **requests** charity **at the doors.**
+
+**3.**
+*Hebrew/Aramaic:* אַדְמוֹן אוֹמֵר: בִּשְׁבִיל שֶׁאֲנִי זָכָר, הִפְסַדְתִּי? וְכוּ׳. מַאי קָאָמַר? אָמַר אַבָּיֵי, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר, וְרָאוּי אֲנִי לַעֲסוֹק בַּתּוֹרָה, הִפְסַדְתִּי? אָמַר לֵיהּ רָבָא: אֶלָּא מֵעַתָּה, מַאן דְּעָסֵיק בַּתּוֹרָה הוּא דְּיָרֵית, דְּלָא עָסֵיק בַּתּוֹרָה לָא יְרֵית? אֶלָּא אָמַר רָבָא, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר, וְרָאוּי אֲנִי לִירַשׁ בִּנְכָסִים מְרוּבִּין, הִפְסַדְתִּי בִּנְכָסִים מוּעָטִין?
+*Translation:* § The mishna teaches: **Admon says,** rhetorically: **I lost out** just **because I am male?** Rather, he holds that the sons also receive sustenance. The Gemara asks: **What is he saying? Abaye said** that **this** is what **he is saying: Because I am male, and I am fit to engage in** the study of **the Torah, I lost out** and must go begging instead of studying the Torah? **Rava said to him: If that is so,** should one conclude that **it is** only **one who engages in** the study of **the Torah who inherits,** whereas one **who does not engage in** the study of **the Torah does not inherit? Rather, Rava said** that **this** is what Admon **is saying: Because I am male, and I am fit to inherit in** the case of **a large estate,** should **I lose** my inheritance entirely **in** the case of **a small estate?**
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ הִנִּיחַ בָּנִים וּבָנוֹת, וְטוּמְטוּם; בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין – הַזְּכָרִים דּוֹחִין אוֹתוֹ אֵצֶל נְקֵבוֹת. נְכָסִים מוּעָטִין – הַנְּקֵבוֹת דּוֹחוֹת אוֹתוֹ אֵצֶל זְכָרִים.
+*Translation:* MISHNA: With regard to one who **left** behind **sons and daughters and a *tumtum*,** whose halakhic status as male or female is indeterminate, the *halakha* is as follows: **When the estate is large the males direct** the *tumtum* **to the females** and exclude him from the inheritance, claiming that perhaps the *tumtum* is female. When the **estate is small, the females direct** the *tumtum* **to the males** and exclude him from receiving sustenance, claiming that perhaps the *tumtum* is male.
+
+**5.**
+*Hebrew/Aramaic:* הָאוֹמֵר ״אִם תֵּלֵד אִשְׁתִּי זָכָר – יִטּוֹל מָנֶה״, יָלְדָה זָכָר – יִטּוֹל מָנֶה. ״נְקֵבָה – מָאתַיִם״, יָלְדָה נְקֵבָה – נוֹטֶלֶת מָאתַיִם.
+*Translation:* With regard to **one who says: If my wife gives birth to a male** the offspring **shall receive** a gift of **one hundred dinars,** if **she** in fact **gave birth to a male,** the offspring **receives one hundred dinars.** If he says: If my wife gives birth to **a female** the offspring shall receive a gift of **two hundred** dinars, if **she** in fact **gave birth to a female,** the offspring **receives two hundred** dinars.
+
+**6.**
+*Hebrew/Aramaic:* ״אִם זָכָר – מָנֶה, אִם נְקֵבָה – מָאתַיִם״, וְיָלְדָה זָכָר וּנְקֵבָה – זָכָר נוֹטֵל מָנֶה, נְקֵבָה נוֹטֶלֶת מָאתַיִם. יָלְדָה טוּמְטוּם – אֵינוֹ נוֹטֵל. אִם אָמַר: ״כֹּל מַה שֶּׁתֵּלֵד אִשְׁתִּי, יִטּוֹל״ – הֲרֵי זֶה יִטּוֹל. וְאִם אֵין שָׁם יוֹרֵשׁ אֶלָּא הוּא – יוֹרֵשׁ אֶת הַכֹּל.
+*Translation:* If he says: **If** my wife gives birth to **a male** the offspring shall receive a gift of **one hundred dinars** and **if** she gives birth to **a female** the offspring shall receive a gift of **two hundred** dinars, **and** in fact **she gave birth to** both **a male and a female,** the **male** offspring **receives one hundred dinars** and the **female** offspring **receives two hundred** dinars. If **she gave birth to a *tumtum*,** the *tumtum* **does not receive** anything. **If he said: Whatever** offspring **my wife gives birth to shall receive** a gift of a certain sum, and she gave birth to a *tumtum*, the *tumtum* **receives** it. **And if there is no heir other than** the *tumtum*, the *tumtum* **inherits all** of the estate.
+
+**7.**
+*Hebrew/Aramaic:* גְּמָ׳ דּוֹחִין אוֹתוֹ – וְשָׁקֵיל כְּבַת? הָא קָתָנֵי סֵיפָא: יָלְדָה טוּמְטוּם – אֵינוֹ נוֹטֵל! אָמַר אַבָּיֵי: דּוֹחִין אוֹתוֹ – וְאֵין לוֹ.
+*Translation:* GEMARA: The mishna states that the males direct the *tumtum* to the females. The Gemara asks: Does this mean that **they direct him, and he takes** sustenance **like a daughter? Isn’t it taught** in the **latter clause** of the mishna that if one said that either his male or female child will receive a certain sum once his wife gives birth, and **she gave birth to a *tumtum*,** the *tumtum* **does not receive** anything? This indicates that the *tumtum* does not have the rights of a female. **Abaye says:** The mishna means that **they direct him** to the females, **but he has no** rights to sustenance.
+
+**8.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר: דּוֹחִין אוֹתוֹ – וְיֵשׁ לוֹ, וְסֵיפָא אֲתָאן לְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל – דְּתַנְיָא: יָלְדָה טוּמְטוּם וְאַנְדְּרוֹגִינוֹס – רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין קְדוּשָּׁה חָלָה עֲלֵיהֶן.
+*Translation:* **And Rava says: They direct him** to the females **and he has** a right to sustenance. **And** with regard to **the latter clause** of the mishna, which grants the *tumtum* nothing at all, there **we arrive at** the opinion of **Rabban Shimon ben Gamliel, as it is taught** in a mishna (*Temura* 24b): If one consecrates a firstborn animal while it is still a fetus, stating that if it is male it shall be a burnt-offering and if it is female it shall be a peace-offering, and the mother **gave birth to a *tumtum* or a hermaphrodite [*androginos*], Rabban Shimon ben Gamliel says: It is not imbued with sanctity,** as it is neither male nor female. So too, in the case discussed in the mishna here, Rabban Shimon ben Gamliel maintains that the *tumtum* receives nothing, as he is considered to be a distinct entity of indeterminate sex, neither male nor female.
+
+**9.**
+*Hebrew/Aramaic:* מֵיתִיבִי: טוּמְטוּם יוֹרֵשׁ כְּבֵן, וְנִיזּוֹן כְּבַת. בִּשְׁלָמָא לְרָבָא, יוֹרֵשׁ כְּבֵן – בִּנְכָסִים מוּעָטִין, וְנִיזּוֹן כְּבַת – בִּנְכָסִים מְרוּבִּין.
+*Translation:* The Gemara **raises an objection** from a *baraita*: **A *tumtum* inherits as a son and is sustained as a daughter. Granted, according to Rava,** the *baraita* can be explained to mean that the clause: **Inherits as a son,** is **in** the case of **a small estate,** as the daughters direct the *tumtum* to the sons, and just as there is no inheritance for the sons, there is none for the *tumtum* either. And the clause: **And is sustained as a daughter,** is **in** the case of **a large estate,** as the sons direct the *tumtum* to the daughters, and the *tumtum* receives sustenance along with them.

@@ -1,0 +1,61 @@
+### Taanit 18b
+
+**1.**
+*Hebrew/Aramaic:* מוּתָּרִין בְּהֶסְפֵּד וְתַעֲנִית. אֵימַת? אִילֵּימָא בְּנֵי חֲמֵיסַר וְקָא קָרוּ לֵיהּ בְּאַרְבֵּיסַר, וּמִי שְׁרֵי?
+*Translation:* as the Sages decreed that in certain places one may read the Scroll of Esther on the eleventh, twelfth, or thirteenth of Adar, nevertheless, it is **permitted to eulogize and fast** on these days. The Gemara clarifies: **When** does this ruling apply? **If we say** that it applies to **those** in walled cities, who normally read the scroll on the **fifteenth** of Adar **and** yet this year **they read it on the fourteenth,** a day on which they normally are permitted to fast and eulogize, **but** this cannot be the case, as **are they permitted** to fast and eulogize at all on these days?
+
+**2.**
+*Hebrew/Aramaic:* וְהָכְתִיב בִּמְגִילַּת תַּעֲנִית: יוֹם אַרְבָּעָה עָשָׂר בּוֹ וְיוֹם חֲמִשָּׁה עָשָׂר בּוֹ, יוֹמֵי פּוּרַיָּא אִינּוּן דְּלָא לְמִיסְפַּד בְּהוֹן. וְאָמַר רָבָא: לֹא נִצְרְכָא, אֶלָּא לֶאֱסוֹר אֶת שֶׁל זֶה בָּזֶה וְאֶת שֶׁל זֶה בָּזֶה.
+*Translation:* **But isn’t it written in *Megillat Ta’anit*: The day of the fourteenth of** Adar **and the day of the fifteenth of** Adar **are the days of Purim, on which eulogizing is prohibited. And Rava said:** Since these days are already mentioned in the Bible (Esther 9:18–19), it **is necessary** to state this *halakha* in *Megillat Ta’anit* **only to prohibit** those living **in these** walled cities from fasting and eulogizing **on this** date, the fourteenth, and those living **in these** non-walled cities from fasting and eulogizing **on this date,** the fifteenth.
+
+**3.**
+*Hebrew/Aramaic:* וְאֶלָּא, בְּנֵי אַרְבֵּיסַר וְקָא קָרֵי לֵיהּ בִּתְלֵיסַר — יוֹם נִיקָנוֹר הוּא! וְאֶלָּא, בְּנֵי אַרְבֵּיסַר וְקָא קָרֵי לֵיהּ בִּתְרֵיסַר — יוֹם טוּרְיָינוֹס הוּא!
+*Translation:* The Gemara continues its explanation of the difficulty. **But rather,** the mishna must be referring to **those** who normally read on the **fourteenth** of Adar, **but who read** the Scroll of Esther early, **on the thirteenth.** However, it is already prohibited to fast on the thirteenth, as **it is Nicanor’s Day,** which is a commemorative day in its own right. **But rather,** you will say that the mishna is referring to **those** residents of cities who normally read on **the fourteenth, but who read it** early that year, **on the twelfth;** however, the twelfth of Adar is also a commemorative day, as **it is Trajan’s Day.**
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא לָאו, דְּקָא קָרוּ לֵיהּ בַּחֲדֵיסַר, וְקָתָנֵי מוּתָּר בְּהֶסְפֵּד וּבְתַעֲנִית!
+*Translation:* **Rather, isn’t** the mishna referring to a case **where they read** the Scroll of Esther **on the eleventh** of Adar, **and** nevertheless that mishna **teaches** that it is **permitted to eulogize and fast** on this day, despite the fact that it is the day before Trajan’s Day? The opinion in this unattributed mishna is not in accordance with that of Rabbi Yosei, which means that there is a contradiction between the two statements of Rabbi Yoḥanan.
+
+**5.**
+*Hebrew/Aramaic:* לָא, בְּנֵי אַרְבָּעָה עָשָׂר, וְקָא קָרוּ לֵיהּ בִּתְרֵיסַר. וּדְקָאָמְרַתְּ יוֹם טֻרְיָינוֹס הוּא — יוֹם טֻרְיָינוֹס גּוּפֵיהּ בַּטּוֹלֵי בַּטְּלוּהּ, הוֹאִיל וְנֶהֶרְגוּ בּוֹ שְׁמַעְיָה וַאֲחִיָּה אֶחָיו. כִּי הָא דְּרַב נַחְמָן גְּזַר תַּעֲנִיתָא בִּתְרֵיסַר, אֲמַרוּ לֵיהּ רַבָּנַן: יוֹם טוּרְיָינוֹס הוּא! אֲמַר לְהוּ: יוֹם טוּרְיָינוֹס גּוּפֵיהּ בַּטּוֹלֵי בַּטְּלוּהּ, הוֹאִיל וְנֶהֶרְגוּ בּוֹ שְׁמַעְיָה וַאֲחִיָּה אָחִיו.
+*Translation:* The Gemara answers: **No;** the mishna is actually referring to **those** who normally read **on the fourteenth, but who read it** that year **on the twelfth** of Adar. **And** with regard to **that which you said,** that **it is Trajan’s Day, Trajan’s Day itself was annulled** and is no longer celebrated, **since Shemaya and his brother Aḥiya were killed on that** day. We learn this **as in** the incident **when Rav Naḥman decreed a fast on the twelfth** of Adar and **the Sages said to him: It is Trajan’s Day. He said to them: Trajan’s Day itself was annulled, since Shemaya and his brother Aḥiya were killed on that** day.
+
+**6.**
+*Hebrew/Aramaic:* וְתִיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ יוֹם שֶׁלִּפְנֵי נִיקָנוֹר! אָמַר רַב אָשֵׁי: הַשְׁתָּא אִיהוּ גּוּפֵיהּ בַּטְּלוּהּ, מִשּׁוּם יוֹם נִיקָנוֹר נֵיקוּם וְנִגְזֹר?
+*Translation:* The Gemara asks: **And let him derive** that fasting on the twelfth is prohibited in any case, **as it is the day before Nicanor’s** Day. **Rav Ashi said: Now** that with regard to Trajan’s Day **itself, they annulled it, will we** then **arise and issue a decree** not to fast on this date **due to** the following day, **Nicanor’s** Day?
+
+**7.**
+*Hebrew/Aramaic:* מַאי נִיקָנוֹר וּמַאי טוּרְיָינוֹס? דְּתַנְיָא: נִיקָנוֹר, אֶחָד מֵאִפַּרְכֵי יְוָונִים הָיָה, וּבְכׇל יוֹם וָיוֹם הָיָה מֵנִיף יָדוֹ עַל יְהוּדָה וִירוּשָׁלַיִם, וְאוֹמֵר: אֵימָתַי תִּפּוֹל בְּיָדִי וְאֶרְמְסֶנָּה. וּכְשֶׁגָּבְרָה מַלְכוּת בֵּית חַשְׁמוֹנַאי וְנִצְּחוּם, קָצְצוּ בְּהוֹנוֹת יָדָיו וְרַגְלָיו וּתְלָאוּם בְּשַׁעֲרֵי יְרוּשָׁלַיִם, וְאָמְרוּ: פֶּה שֶׁהָיָה מְדַבֵּר בְּגַאֲוָה, וְיָדַיִים שֶׁהָיוּ מְנִיפוֹת עַל יְרוּשָׁלַיִם — תֵּעָשֶׂה בָּהֶם נְקָמָה.
+*Translation:* In relation to the above, the Gemara inquires: **What is** the origin of **Nicanor’s** Day **and what is** the origin of **Trajan’s** Day? **As it is taught** in a *baraita*: **Nicanor was one of the generals [*iparkhei*]** in the **Greek** army, **and each and every day he would wave his hand over Judea and Jerusalem and say: When will** this city **fall into my hands, and I shall trample it? And when the Hasmonean monarchy overcame** the Greeks **and emerged victorious over them,** they killed Nicanor in battle, **cut off his thumbs and big toes, and hung them on the gates of Jerusalem, saying: The mouth that spoke with pride, and the hands that waved over Jerusalem, may vengeance be taken against them.** This occurred on the thirteenth of Adar.
+
+**8.**
+*Hebrew/Aramaic:* מַאי טוּרְיָינוֹס? אָמְרוּ: כְּשֶׁבִּקֵּשׁ טוּרְיָינוֹס לַהֲרוֹג אֶת לוּלְיָנוּס וּפַפּוּס אָחִיו בְּלוּדְקִיָּא, אָמַר לָהֶם: אִם מֵעַמּוֹ שֶׁל חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה אַתֶּם — יָבֹא אֱלֹהֵיכֶם וְיַצִּיל אֶתְכֶם מִיָּדִי, כְּדֶרֶךְ שֶׁהִצִּיל אֶת חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה מִיַּד נְבוּכַדְנֶצַּר! אָמְרוּ לוֹ: חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה צַדִּיקִים גְּמוּרִין הָיוּ, וּרְאוּיִין הָיוּ לֵיעָשׂוֹת לָהֶם נֵס. וּנְבוּכַדְנֶצַּר מֶלֶךְ הָגוּן הָיָה, וְרָאוּי לַעֲשׂוֹת נֵס עַל יָדוֹ.
+*Translation:* **What is** the origin of **Trajan’s** Day? **They said** in explanation: **When Trajan sought to kill** the important leaders **Luleyanus and his brother Pappas in Laodicea, he said to them: If you are from the nation of Hananiah, Mishael, and Azariah, let your God come and save you from my hand, just as He saved Hananiah, Mishael, and Azariah from the hand of Nebuchadnezzar.** Luleyanus and Pappas **said to him: Hananiah, Mishael, and Azariah were full-fledged righteous** people, **and they were worthy that a miracle** should be **performed for them, and Nebuchadnezzar was a legitimate king** who rose to power through his merit, **and it is fitting that a miracle** be performed **through him.**
+
+**9.**
+*Hebrew/Aramaic:* וְאוֹתוֹ רָשָׁע, הֶדְיוֹט הוּא, וְאֵינוֹ רָאוּי לַעֲשׂוֹת נֵס עַל יָדוֹ. וְאָנוּ נִתְחַיַּיבְנוּ כְּלָיָה לַמָּקוֹם, וְאִם אֵין אַתָּה הוֹרְגֵנוּ — הַרְבֵּה הוֹרְגִים יֵשׁ לוֹ לַמָּקוֹם, וְהַרְבֵּה דּוּבִּין וַאֲרָיוֹת יֵשׁ לוֹ לַמָּקוֹם בְּעוֹלָמוֹ שֶׁפּוֹגְעִין בָּנוּ וְהוֹרְגִין אוֹתָנוּ. אֶלָּא, לֹא מְסָרָנוּ הַקָּדוֹשׁ בָּרוּךְ הוּא בְּיָדְךָ, אֶלָּא שֶׁעָתִיד לִיפָּרַע דָּמֵינוּ מִיָּדֶךָ.
+*Translation:* **But this wicked** man, Trajan, **is a commoner,** not a real king, **and it is not fitting that a miracle** be performed **through him.** Luleyanus and Pappas continued: **And** we are not wholly righteous, **and have been condemned to destruction by the Omnipresent** for our sins. **And if you do not kill us, the Omnipresent has many other executioners. And** if men do not kill us, **the Omnipresent has many bears and lions in His world that** can **hurt us and kill us. Instead, the Holy One, Blessed be He, placed us into your hands only so that He will avenge our blood in the future.**
+
+**10.**
+*Hebrew/Aramaic:* אַף עַל פִּי כֵן הֲרָגָן מִיָּד. אָמְרוּ: לֹא זָזוּ מִשָּׁם, עַד שֶׁבָּאוּ דְּיוֹפָּלֵי מֵרוֹמִי וּפָצְעוּ אֶת מוֹחוֹ בְּגִיזְרִין.
+*Translation:* **Even so,** Trajan remained unmoved by their response and **killed them immediately. It is said** that **they had not moved from** the place of execution **when two officials [*diyoflei*] arrived from Rome** with permission to remove Trajan from power, **and they split his skull with clubs.** This was viewed as an act of divine retribution and was established as a commemorative day.
+
+**11.**
+*Hebrew/Aramaic:* אֵין גּוֹזְרִין תַּעֲנִית עַל הַצִּבּוּר בַּתְּחִלָּה בַּחֲמִישִׁי כּוּ׳, אֵין גּוֹזְרִין תַּעֲנִית בְּרָאשֵׁי חֳדָשִׁים כּוּ׳. וְכַמָּה הָוְיָא הַתְחָלָה? רַב אַחָא אָמַר: שָׁלֹשׁ. רַבִּי אַסִּי אָמַר: אַחַת.
+*Translation:* § The mishna taught: **One may not decree a fast on the community starting on a Thursday,** so as not to cause prices to rise. Furthermore, **one may not decree a fast on New Moons,** on Hanukkah, or on Purim. However, if one began a set of fasts, one does not interrupt the sequence for these days. The Gemara asks: **And how many** fasts **are** considered **a beginning? Rav Aḥa said:** If one fasted **three** fasts before the festive day. **Rabbi Asi said:** Even if one fasted **one** fast before it.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: זוֹ דִּבְרֵי רַבִּי מֵאִיר שֶׁאָמַר מִשּׁוּם רַבָּן גַּמְלִיאֵל, אֲבָל חֲכָמִים אוֹמְרִים: מִתְעַנֶּה וּמַשְׁלִים. דָּרֵשׁ מָר זוּטְרָא מִשְּׁמֵיהּ דְּרַב הוּנָא: הֲלָכָה מִתְעַנֶּה וּמַשְׁלִים.
+*Translation:* **Rav Yehuda said** that **Rav said: This** *halakha* of the mishna that a fast that occurs on a festival is not observed, **is the statement of Rabbi Meir, who said** it **in the name of Rabban Gamliel. However, the Rabbis say:** If a communal fast occurs on one of these days, one must **fast and complete** the fast until nightfall. **Mar Zutra taught in the name of Rav Huna:** The practical ***halakha*** is in accordance with the opinion of the Rabbis, that one **fasts and completes** his fast until nightfall.
+
+**13.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ סֵדֶר תַּעֲנִיּוֹת כֵּיצַד
+*Translation:* 
+
+**14.**
+*Hebrew/Aramaic:* סֵדֶר תַּעֲנִיּוֹת אֵלּוּ, הָאָמוּר בִּרְבִיעָה רִאשׁוֹנָה. אֲבָל צְמָחִים שֶׁשָּׁנוּ — מַתְרִיעִין עֲלֵיהֶן מִיָּד. וְכֵן שֶׁפָּסְקוּ גְּשָׁמִים בֵּין גֶּשֶׁם לְגֶשֶׁם אַרְבָּעִים יוֹם — מַתְרִיעִין עֲלֵיהֶן, מִפְּנֵי שֶׁהִיא מַכַּת בַּצּוֹרֶת.
+*Translation:* MISHNA: **The order of these fasts** of increasing severity, as explained in Chapter One, **is stated** only **in** a case when **the first rainfall** has not materialized. **However,** if there is **vegetation that** grew and its appearance **changed** due to disease, the court does not wait at all; **they cry out about it immediately. And likewise, if rain ceased** for a period of **forty days** between **one rainfall and another, they cry out about it because it is a plague of drought.**
+
+**15.**
+*Hebrew/Aramaic:* יָרְדוּ לַצְּמָחִין אֲבָל לֹא יָרְדוּ לָאִילָן, לְאִילָן וְלֹא לַצְּמָחִין, לָזֶה וְלָזֶה אֲבָל לֹא לַבּוֹרוֹת לַשִּׁיחִין וְלַמְּעָרוֹת — מַתְרִיעִין עֲלֵיהֶן מִיָּד. וְכֵן עִיר שֶׁלֹּא יָרְדוּ עָלֶיהָ גְּשָׁמִים, דִּכְתִיב: ״וְהִמְטַרְתִּי עַל עִיר אֶחָת וְעַל עִיר אַחַת לֹא אַמְטִיר חֶלְקָה אַחַת תִּמָּטֵר וְגוֹ׳״.
+*Translation:* If sufficient rain **fell for the vegetation but not** enough **fell for the trees;** or if it was enough **for the trees but not for the vegetation;** or if sufficient rain fell **for both this and that,** i.e., vegetation and trees, **but not** enough **to** fill the **cisterns, ditches, and caves** with water to last the summer, **they cry out about it immediately. And likewise,** if there is a particular **city upon which it did not rain,** while the surrounding area did receive rain, this is considered a divine curse, **as it is written: “And I caused it to rain upon one city, but caused it not to rain upon another city; one piece was rained upon,** and the portion upon which it did not rain withered” (Amos 4:7).

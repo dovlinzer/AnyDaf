@@ -1,0 +1,37 @@
+### Bava Batra 56b
+
+**1.**
+*Hebrew/Aramaic:* מְשַׁלְּשִׁין בֵּינֵיהֶם.
+*Translation:* payment of the value of the field to the owner is **divided among them.**
+
+**2.**
+*Hebrew/Aramaic:* שְׁלֹשָׁה אַחִים, וְאֶחָד מִצְטָרֵף עִמָּהֶם – הֲרֵי אֵלּוּ שָׁלֹשׁ עֵדֻיוֹת, וְהֵן עֵדוּת אַחַת לַהֲזָמָה.
+*Translation:* If the testimony was given by **three brothers,** each of whom testify about one year, **and another** unrelated individual **joined with** each of the brothers as the second witness, **these are three** distinct **testimonies** and they are accepted by the court. If they were to be considered one testimony, it would not be accepted, as brothers may not testify together. **But they are one testimony for** the purpose of rendering them as **conspiring** witnesses, and the payment is divided among them.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ מַתְנִיתִין דְּלָא כְּרַבִּי עֲקִיבָא – דְּתַנְיָא, אָמַר רַבִּי יוֹסֵי: כְּשֶׁהָלַךְ אַבָּא חֲלַפְתָּא אֵצֶל רַבִּי יוֹחָנָן בֶּן נוּרִי לִלְמוֹד תּוֹרָה, וְאָמְרִי לַהּ: רַבִּי יוֹחָנָן בֶּן נוּרִי אֵצֶל אַבָּא חֲלַפְתָּא לִלְמוֹד תּוֹרָה, אָמַר לוֹ: הֲרֵי שֶׁאֲכָלָהּ שָׁנָה רִאשׁוֹנָה בִּפְנֵי שְׁנַיִם, שְׁנִיָּה בִּפְנֵי שְׁנַיִם, שְׁלִישִׁית בִּפְנֵי שְׁנַיִם – מַהוּ? אָמַר לוֹ: הֲרֵי זוֹ חֲזָקָה.
+*Translation:* GEMARA: The Gemara notes: **The mishna is not in accordance with** the opinion of **Rabbi Akiva, as it is taught** in a *baraita* (*Tosefta*, 2:10) that **Rabbi Yosei said: When Abba Ḥalafta,** Rabbi Yosei’s father, **went to Rabbi Yoḥanan ben Nuri to study Torah, and some say:** When **Rabbi Yoḥanan ben Nuri** went **to Abba Ḥalafta to study Torah, he said to him: What is** the *halakha* if **there is** one **who** worked and **profited** from a field **in the presence of two** witnesses during the **first year,** then **in the presence of two** other witnesses during the **second** year, and finally **in the presence of two** other witnesses during the **third** year? He **said to him: This is** sufficient for establishing the **presumption** of ownership.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ: אַף אֲנִי אוֹמֵר כֵּן, אֶלָּא שֶׁרַבִּי עֲקִיבָא חוֹלֵק בְּדָבָר זֶה; שֶׁהָיָה רַבִּי עֲקִיבָא אוֹמֵר: ״דָּבָר״ – וְלֹא חֲצִי דָבָר.
+*Translation:* The latter **said to him: I say this as well, but Rabbi Akiva disagrees with regard to this matter, as Rabbi Akiva would say** that since the verse states: “At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established” (Deuteronomy 19:15), one can derive that testimony is accepted only with regard to a complete **matter, and not** with regard to **half** of **a matter.** In this mishna, although presumptive ownership requires testimony that the property had been worked and profited from for three years, testimony is accepted from each pair of witnesses with regard to one year. Consequently, the ruling of the mishna does not accord with the opinion of Rabbi Akiva.
+
+**5.**
+*Hebrew/Aramaic:* וְרַבָּנַן – הַאי ״דָּבָר״ וְלֹא חֲצִי דָבָר, מַאי עָבְדִי לֵיהּ? אִילֵּימָא לְמַעוֹטֵי אֶחָד אוֹמֵר אַחַת בְּגַבָּהּ וְאֶחָד אוֹמֵר אַחַת בִּכְרֵיסָהּ; הַאי חֲצִי דָבָר וַחֲצִי עֵדוּת הִיא!
+*Translation:* The Gemara asks: **And** with regard to **the Rabbis,** who accept the testimony of each of the three pairs of witnesses, **what do they do with this** derivation of: A complete **matter, and not half** of **a matter,** i.e., what type of testimony is disqualified based on this derivation? **If we say** that it serves **to exclude** a case where two witnesses testify that a young woman has two pubic hairs and has therefore reached maturity, where **one says** she has **one** hair **on her back and one says** she has **one** hair **on her** lower **abdomen,** i.e., they are testifying to two different pubic hairs, and in this case the Rabbis say this testimony is not accepted, since they each testify with regard to only half of the matter, that is difficult. But **this is** both **half** of **a matter and half** of **a testimony,** as there is only one witness with regard to each pubic hair. This testimony would not be valid even without the derivation.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא לְמַעוֹטֵי שְׁנַיִם אוֹמְרִים אַחַת בְּגַבָּהּ, וּשְׁנַיִם אוֹמְרִים אַחַת בִּכְרֵסָהּ.
+*Translation:* **Rather,** in the opinion of the Rabbis the derivation serves **to exclude** a case where **two** witnesses **say** she has **one** hair **on her back and two** witnesses **say** she has **one** hair **on her** lower **abdomen.** In this case, each group of witnesses gives full testimony with regard to half of a matter, i.e., one pubic hair, as both hairs must be present concurrently in order for her to assume the status of an adult. By contrast, in the case of the mishna, the years are by definition not concurrent. Therefore, the Rabbis rule that testimony with regard to one year is accepted.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: אֶחָד אוֹמֵר אֲכָלָהּ חִטִּים, וְאֶחָד אוֹמֵר אֲכָלָהּ שְׂעוֹרִים – הֲרֵי זוֹ חֲזָקָה. מַתְקֵיף לַהּ רַב נַחְמָן: אֶלָּא מֵעַתָּה, אֶחָד אוֹמֵר: אֲכָלָהּ רִאשׁוֹנָה שְׁלִישִׁית וַחֲמִישִׁית, וְאֶחָד אוֹמֵר: אֲכָלָהּ שְׁנִיָּה רְבִיעִית וְשִׁשִּׁית, הָכִי נָמֵי דְּהָוְיָא חֲזָקָה?!
+*Translation:* § In a related matter, **Rav Yehuda says:** If two witnesses testify that one had worked and profited from a field for three years, where **one** witness **says he consumed wheat** from the field, **and one says he consumed barley** from **it, this is** sufficient for establishing the **presumption** of ownership. **Rav Naḥman objects to this** ruling: **If that is so,** then if **one** witness **says** he worked and **profited** from the field during the **first, third, and fifth** years; **and one** witness **says he** worked and **profited** from **it** during the **second, fourth, and sixth** years, would you **also** say **that** this **is** sufficient for establishing the **presumption** of ownership? What is the difference between testifying about different crops and testifying about different years?
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב יְהוּדָה: הָכִי הַשְׁתָּא?! הָתָם, בְּשַׁתָּא דְּקָא מַסְהֵיד מָר – לָא קָא מַסְהֵיד מָר; הָכָא, תַּרְוַיְיהוּ בַּחֲדָא שַׁתָּא קָא מַסְהֲדִי. מַאי אִיכָּא לְמֵימַר – בֵּין חִיטֵּי לִשְׂעָרֵי? לָאו אַדַּעְתַּיְיהוּ דְּאִינָשֵׁי.
+*Translation:* **Rav Yehuda said to him: How can** these cases **be compared? There,** i.e., in your example, **with regard to the year** about which one **Master,** i.e., witness, **is testifying,** the other **Master is not testifying** about it, while **here, both are testifying with regard to one year. What is there to say,** that there is a contradiction in their testimonies **between wheat and barley? It does not enter people’s minds** to note this distinction. Two witnesses did, however, testify that he worked and profited from the field for three years.
+
+**9.**
+*Hebrew/Aramaic:* שְׁלֹשָׁה אַחִין, וְאֶחָד מִצְטָרֵף עִמָּהֶן – הֲרֵי אֵלּוּ שָׁלֹשׁ עֵדֻיוֹת, וְהֵן עֵדוּת אַחַת לַהֲזָמָה.
+*Translation:* § The mishna teaches that if the testimony was given by **three brothers,** each of whom testified about one year, **and another,** unrelated individual **joined with** each of the brothers as the second witness, **these are three** distinct **testimonies** and they are accepted by the court. **But they are one testimony for** the purpose of rendering them as **conspiring** witnesses.

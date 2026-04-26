@@ -1,0 +1,366 @@
+{
+  "masechta": "Sanhedrin",
+  "daf": 29,
+  "amud": "b",
+  "macro_segments": [
+    {
+      "title": "The Requirement of Atem Edai (Designating Witnesses) for Valid Admission",
+      "display_title": "Atem Edai Requirement",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Initial Discussion: Awareness of Witnesses and Admission Validity",
+          "display_title": "Awareness of Witnesses",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The Canopy Bed Case: Hidden Witnesses and Explicit Acceptance",
+          "display_title": "Canopy Bed Case",
+          "timestamp": "01:00"
+        },
+        {
+          "title": "The Graveyard Case: Testing Acceptance with Absurd Scenarios",
+          "display_title": "Graveyard Case",
+          "timestamp": "02:46"
+        },
+        {
+          "title": "Analysis: Atem Edai as Formal Requirement Despite Context",
+          "display_title": "Formal Requirements",
+          "timestamp": "04:00"
+        },
+        {
+          "title": "Silence as Consent: Shtika KeHoda'ah in Witness Designation",
+          "display_title": "Silence as Consent",
+          "timestamp": "05:38"
+        }
+      ]
+    },
+    {
+      "title": "Deathbed Admissions and the Principle of Protecting One's Own Interests",
+      "display_title": "Deathbed Admissions",
+      "timestamp": "07:03",
+      "micro_segments": [
+        {
+          "title": "The In-Debt Person (Kav Rashu): Admissions Made to Avoid Appearing Wealthy",
+          "display_title": "Kav Rashu Case",
+          "timestamp": "07:03"
+        },
+        {
+          "title": "The Miser on His Gold: Deathbed Admission and the Rule of Adam Asuy",
+          "display_title": "Miser on Gold",
+          "timestamp": "09:10"
+        },
+        {
+          "title": "Dispute: Rabbi Shmuel vs. Rabbi Chiya on Deathbed Admissions to Heirs",
+          "display_title": "Deathbed Dispute",
+          "timestamp": "10:17"
+        },
+        {
+          "title": "Difference Between Living and Deathbed Admissions",
+          "display_title": "Living vs. Deathbed",
+          "timestamp": "10:20"
+        }
+      ]
+    },
+    {
+      "title": "Writing Documents (Shtar) Based on Admission: Authority and Conditions",
+      "display_title": "Writing Documents",
+      "timestamp": "12:21",
+      "micro_segments": [
+        {
+          "title": "Admission Before Two Witnesses with Kinyan: Authority to Write Shtar",
+          "display_title": "Two Witnesses Kinyan",
+          "timestamp": "12:21"
+        },
+        {
+          "title": "Admission Before Three Without Kinyan: The Status of Beis Din",
+          "display_title": "Three Without Kinyan",
+          "timestamp": "13:26"
+        },
+        {
+          "title": "Competing Views: Rav Ami vs. Rav Assi on Three-Person Authority",
+          "display_title": "Rav Ami vs Rav Assi",
+          "timestamp": "14:08"
+        },
+        {
+          "title": "Rava's Requirement: Explicit Designation as Judges",
+          "display_title": "Rava's Requirement",
+          "timestamp": "16:39"
+        },
+        {
+          "title": "Mar Bar Rav Ashi: Only an Actual Established Court Can Write Shtar",
+          "display_title": "Mar Bar Rav Ashi",
+          "timestamp": "16:54"
+        }
+      ]
+    },
+    {
+      "title": "Distinction Between Chattels and Land in Writing Documents After Admission",
+      "display_title": "Chattels vs Land",
+      "timestamp": "17:40",
+      "micro_segments": [
+        {
+          "title": "Chattels (Metaltlei) Require Kinyan to Authorize Writing Shtar",
+          "display_title": "Chattels Kinyan",
+          "timestamp": "17:40"
+        },
+        {
+          "title": "Land (Karka) May Permit Shtar Without Kinyan: Proof of Admission Alone",
+          "display_title": "Land No Kinyan",
+          "timestamp": "17:54"
+        },
+        {
+          "title": "Dispute: Amemar vs. Mar Zutra on Land Admission Without Kinyan",
+          "display_title": "Amemar vs Zutra",
+          "timestamp": "19:09"
+        },
+        {
+          "title": "Concrete Chattels (Actual Objects): Rav Dimi's Question on Classification",
+          "display_title": "Concrete Chattels",
+          "timestamp": "19:36"
+        },
+        {
+          "title": "Rav Ashi: Concrete Chattels Require Extraction, Therefore Need Kinyan",
+          "display_title": "Rav Ashi Disagrees",
+          "timestamp": "20:09"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Atem edai",
+      "timestamps": [
+        "00:10",
+        "02:32",
+        "03:54",
+        "04:05",
+        "04:09",
+        "04:31",
+        "05:26",
+        "06:30",
+        "06:38",
+        "08:33",
+        "08:52",
+        "10:04",
+        "10:40"
+      ]
+    },
+    {
+      "term": "Huchzak kafran (proven liar)",
+      "timestamps": [
+        "00:14",
+        "00:20"
+      ]
+    },
+    {
+      "term": "Meshahta ani bach (I was only kidding)",
+      "timestamps": [
+        "00:41",
+        "04:27",
+        "04:31"
+      ]
+    },
+    {
+      "term": "Shtika keHoda'ah (silence as admission)",
+      "timestamps": [
+        "06:13"
+      ]
+    },
+    {
+      "term": "Adam asuy shelo lehash'bia et atzmo (person naturally avoids self-incrimination)",
+      "timestamps": [
+        "08:02",
+        "09:39",
+        "10:23"
+      ]
+    },
+    {
+      "term": "Deathbed admission (Shachiv merah)",
+      "timestamps": [
+        "09:22",
+        "09:35",
+        "10:20",
+        "10:30",
+        "10:40"
+      ]
+    },
+    {
+      "term": "Ma'aseh kinyan (symbolic act of acquisition)",
+      "timestamps": [
+        "12:41"
+      ]
+    },
+    {
+      "term": "Shtar (written document)",
+      "timestamps": [
+        "12:52",
+        "12:57",
+        "13:18",
+        "13:26",
+        "13:28",
+        "13:35",
+        "13:39",
+        "14:05",
+        "14:19",
+        "15:26",
+        "17:40",
+        "17:48",
+        "17:56",
+        "18:05",
+        "18:20",
+        "19:49",
+        "19:53",
+        "20:05",
+        "20:27"
+      ]
+    },
+    {
+      "term": "Kinyan (formal acquisition)",
+      "timestamps": [
+        "12:39",
+        "13:30",
+        "13:33",
+        "14:05",
+        "16:29",
+        "16:35",
+        "16:46",
+        "16:50",
+        "17:40",
+        "17:48",
+        "20:27"
+      ]
+    },
+    {
+      "term": "Beis din (court)",
+      "timestamps": [
+        "13:39",
+        "13:39",
+        "15:56",
+        "16:35"
+      ]
+    },
+    {
+      "term": "Hodeh bifnei shnayim (admitted before two)",
+      "timestamps": [
+        "12:23"
+      ]
+    },
+    {
+      "term": "Hodeh bifnei shlosha (admitted before three)",
+      "timestamps": [
+        "13:35"
+      ]
+    },
+    {
+      "term": "Rav Ami",
+      "timestamps": [
+        "14:08"
+      ]
+    },
+    {
+      "term": "Rav Assi",
+      "timestamps": [
+        "14:10"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "16:39"
+      ]
+    },
+    {
+      "term": "Mar Bar Rav Ashi",
+      "timestamps": [
+        "16:54"
+      ]
+    },
+    {
+      "term": "Rabbi Shmuel Bar Rabbi Yosi",
+      "timestamps": [
+        "10:17"
+      ]
+    },
+    {
+      "term": "Rabbi Chiya",
+      "timestamps": [
+        "11:01"
+      ]
+    },
+    {
+      "term": "Amemar",
+      "timestamps": [
+        "19:09"
+      ]
+    },
+    {
+      "term": "Mar Zutra",
+      "timestamps": [
+        "19:12"
+      ]
+    },
+    {
+      "term": "Rav Dimi Bar Rav Huna",
+      "timestamps": [
+        "19:37"
+      ]
+    },
+    {
+      "term": "Rav Ashi",
+      "timestamps": [
+        "20:09"
+      ]
+    },
+    {
+      "term": "Metaltlei (chattels)",
+      "timestamps": [
+        "12:40",
+        "17:40",
+        "17:44",
+        "19:47",
+        "20:23"
+      ]
+    },
+    {
+      "term": "Karka (land)",
+      "timestamps": [
+        "17:54",
+        "18:18",
+        "18:32",
+        "18:58",
+        "20:05",
+        "20:11",
+        "20:23"
+      ]
+    },
+    {
+      "term": "Mechasrei guvyana (needs extraction/collection)",
+      "timestamps": [
+        "17:59",
+        "20:11"
+      ]
+    },
+    {
+      "term": "Odaysa (admission)",
+      "timestamps": [
+        "14:23",
+        "15:30"
+      ]
+    },
+    {
+      "term": "Kav rashu (in-debt person)",
+      "timestamps": [
+        "07:06"
+      ]
+    },
+    {
+      "term": "Shachiv adinrei (sleeping on piles of gold)",
+      "timestamps": [
+        "09:11",
+        "09:25",
+        "09:53"
+      ]
+    }
+  ]
+}

@@ -1,652 +1,890 @@
 {
   "masechta": "Meilah",
   "daf": 11,
-  "amud": "b",
+  "amud": "",
   "macro_segments": [
     {
-      "title": "Introduction to the Fourth Perek: Sanctified Items That Lack Me'ilah Status",
-      "display_title": "Intro to Perek 4",
+      "title": "Introduction to the New Perek: The Principle of Sanctification and Meilah Status Across Different Circumstances",
+      "display_title": "Intro: Kedusha & Meilah",
       "timestamp": "00:00",
       "micro_segments": [
         {
-          "title": "Opening remarks on the progression of the masechet and reminder of me'ilah principles",
-          "display_title": "Opening remarks",
+          "title": "Overview of Previous Perek and Introduction to Cases Without Meilah",
+          "display_title": "Prev. Perek Review",
           "timestamp": "00:00"
         },
         {
-          "title": "Distinction between items that become pasul and items destined to die: both may retain me'ilah unless completely הולך לאיבוד",
-          "display_title": "Pasul vs. הולך לאיבוד",
-          "timestamp": "00:31"
+          "title": "Foundational Principle: Pigul, Tamei, and Continued Meilah Application",
+          "display_title": "Pigul & Status",
+          "timestamp": "00:44"
         }
       ]
     },
     {
-      "title": "Chatat Animals That Must Die: Categories and the Principle of No Me'ilah",
-      "display_title": "Chatat שמתה",
+      "title": "Chatat Shemetah and Related Cases: When a Sin-Offering Must Die and Loses Meilah Status",
+      "display_title": "Chatat Shemetah",
       "timestamp": "01:38",
       "micro_segments": [
         {
-          "title": "Three unconditional cases requiring death: velad chatat, tmurat chatat, and chatat of deceased owners",
-          "display_title": "Three cases: velad, tmur…",
+          "title": "Three Obligatory Cases of Chatat Shemetah: Vlad Chatat, Tmurah, and Death of Owners",
+          "display_title": "Three Cases",
           "timestamp": "01:38"
         },
         {
-          "title": "Two conditional cases: animals over one year old or lost-and-found with blemishes; distinction based on whether replacement already brought",
-          "display_title": "Conditional cases: avrah…",
-          "timestamp": "02:25"
+          "title": "Conditional Cases: Avra Shnata and Lost Animal with Mum",
+          "display_title": "Avra Shnata",
+          "timestamp": "02:30"
         },
         {
-          "title": "Halacha that chatat destined to die cannot effect temurah and has no me'ilah: explanation via removal from kodshei Hashem category",
-          "display_title": "No temurah, no me'ilah p…",
-          "timestamp": "05:03"
+          "title": "Distinction Between Unconditional and Conditional Death Scenarios",
+          "display_title": "Unconditional vs. Condit…",
+          "timestamp": "03:00"
         },
         {
-          "title": "Gemara: Why distinction between first three cases (unconditional death) and last two (conditional on replacement)?",
-          "display_title": "Reisha vs. Seifa question",
-          "timestamp": "08:01"
+          "title": "Cases That Retain Tmurah and Meilah: When Alternative Use Is Still Possible",
+          "display_title": "Tmurah & Meilah Remain",
+          "timestamp": "04:16"
         },
         {
-          "title": "Answer: In first three, death is inevitable regardless of circumstances; in last two, replacement determines necessity of death",
-          "display_title": "Psika lei vs. lo psika l…",
-          "timestamp": "08:14"
+          "title": "Fundamental Reason: Complete Removal from Kodshei Hashem Category",
+          "display_title": "Kodshei Hashem Removal",
+          "timestamp": "05:39"
+        },
+        {
+          "title": "Gemara: Why First Cases Don't Conflict and Latter Cases Do",
+          "display_title": "Gemara: Reisha vs. Seifa",
+          "timestamp": "08:00"
+        },
+        {
+          "title": "Teaching in Both Meilah and Tmura: Different Halachic Purposes",
+          "display_title": "Meilah & Tmura Purposes",
+          "timestamp": "08:41"
         }
       ]
     },
     {
-      "title": "Money Set Aside for a Nazir's Korbonot: Unstipulated Funds and the Shelamim Default",
-      "display_title": "Nazir money (unstipu.)",
-      "timestamp": "11:47",
+      "title": "Designated Money for Nazirite Offerings: Ambiguity and the Special Case of Shelamim Money After Death",
+      "display_title": "Nazirite Money",
+      "timestamp": "11:48",
       "micro_segments": [
         {
-          "title": "Case of nazir who sanctified money without specifying allocation: could all be for shelamim, hence no me'ilah",
-          "display_title": "Unstipulated funds princ…",
-          "timestamp": "11:47"
-        }
-      ]
-    },
-    {
-      "title": "Nazir's Funds After Death: Differential Status of Chatat, Olah, and Shelamim Money",
-      "display_title": "Dead Nazir's money",
-      "timestamp": "15:08",
-      "micro_segments": [
+          "title": "Money Set Aside for Nazirite Sacrifices Without Designation: No Clear Meilah",
+          "display_title": "Undetermined Money",
+          "timestamp": "11:48"
+        },
         {
-          "title": "Case of unstipulated ('sealed') money: defaults to olah; reasoning why chatat and shelamim are ruled out in death scenarios",
-          "display_title": "Stumim (unstipulated) de…",
+          "title": "Why Shelamim Default: All Money Could Have Been Used for That Offering",
+          "display_title": "Shelamim Default Reason",
+          "timestamp": "12:10"
+        },
+        {
+          "title": "Nazirite Dies: Undetermined Money Becomes Olah",
+          "display_title": "Death Becomes Olah",
           "timestamp": "15:08"
         },
         {
-          "title": "Money set aside with explicit allocations: if nazir dies, chatat funds destroyed (no me'ilah), olah funds brought with me'ilah, shelamim funds brought with partial nazir status",
-          "display_title": "Mefurashim (explicit all…",
-          "timestamp": "16:17"
+          "title": "Explicit Money: Different Offerings, Different Halakhic Treatments After Death",
+          "display_title": "Explicit Money Allocation",
+          "timestamp": "16:18"
         },
         {
-          "title": "Shelamim money brought after nazir's death: eaten one day only (not two), but no bread brought (unlike normal shelamim of living nazir)",
-          "display_title": "Shelamim status: hybrid",
-          "timestamp": "17:32"
+          "title": "Chatat Money: Treated Like Chatat Shemetah, No Meilah",
+          "display_title": "Chatat Money Status",
+          "timestamp": "16:40"
+        },
+        {
+          "title": "Olah Money: Can Be Used, Retains Meilah",
+          "display_title": "Olah Money Meilah",
+          "timestamp": "16:54"
+        },
+        {
+          "title": "Shelamim Money After Nazirite Death: Quasi-Shelamim Status with Restrictions",
+          "display_title": "Shelamim Post-Death",
+          "timestamp": "17:06"
+        },
+        {
+          "title": "Gemara: Reish Lakish's Challenge Regarding Bird Money",
+          "display_title": "Reish Lakish Challenge",
+          "timestamp": "22:50"
         }
       ]
     },
     {
-      "title": "Money Set Aside for a Nazir's Korbonot: Unstipulated Funds and the Shelamim Default (continued)",
-      "display_title": "Nazir money (unstipu.)…",
-      "timestamp": "19:49",
+      "title": "Birds That Do Not Fit Age Requirements: No Meilah Due to Lack of Pidyon",
+      "display_title": "Bird Age Requirements",
+      "timestamp": "23:48",
       "micro_segments": [
         {
-          "title": "Gemara question: Why doesn't the same apply to bird offerings (kinim) which also lack clear allocation?",
-          "display_title": "Kinim comparison",
-          "timestamp": "19:49"
-        },
-        {
-          "title": "Answer via Rava: Torah's expectation is purchase of immediately usable korban; birds too young would violate this principle",
-          "display_title": "Rava's answer",
-          "timestamp": "24:45"
+          "title": "Tosafot Reframing: Possibility of Using Young Birds Later Without Immediate Meilah",
+          "display_title": "Tosafot: Young Bird Use",
+          "timestamp": "23:48"
         }
       ]
     },
     {
-      "title": "Birds (Kinim) Unsuitable by Age: Why No Me'ilah Even for Wrong-Aged Offerings",
-      "display_title": "Birds unsuitable by age",
-      "timestamp": "19:49",
+      "title": "Designated Money for Nazirite Offerings: Ambiguity and the Special Case of Shelamim Money After Death (continued)",
+      "display_title": "Nazirite Money…",
+      "timestamp": "24:44",
       "micro_segments": [
         {
-          "title": "Background: Kinim (birds) unlike other offerings have no pidyon; קדושה cannot transfer even with blemish; too-young or too-old birds are הולך לאיבוד",
-          "display_title": "Kinim uniqueness",
-          "timestamp": "19:49"
-        },
-        {
-          "title": "No me'ilah by birds unsuitable by age: parallel to chatat shemetah (destined to die), completely removed from kodshei Hashem category",
-          "display_title": "No me'ilah (parallel to…",
-          "timestamp": "21:22"
+          "title": "Rava's Response: Designated Money Assumes Immediate Fitness for Use",
+          "display_title": "Rava's Response",
+          "timestamp": "24:44"
         }
       ]
     },
     {
-      "title": "Blood of Sacrifices: Paradoxical Absence of Me'ilah Before Sprinking, Paradoxical Presence After",
-      "display_title": "Blood (dam): paradox",
-      "timestamp": "26:16",
+      "title": "Birds That Do Not Fit Age Requirements: No Meilah Due to Lack of Pidyon (continued)",
+      "display_title": "Bird Age Requirements…",
+      "timestamp": "25:00",
       "micro_segments": [
         {
-          "title": "Mishnah teaches: before zerikat hadam, no me'ilah by blood; after blood goes to Kidron Valley, there is me'ilah",
-          "display_title": "Dam: before vs. after",
-          "timestamp": "26:16"
+          "title": "Tor and Benei Yonah: Different Age Requirements and the Problem of Wrong-Aged Birds",
+          "display_title": "Tor vs. Benei Yonah",
+          "timestamp": "25:00"
+        },
+        {
+          "title": "Why Birds Differ: No Pidyon Possible, Complete Rejection of Kedusha",
+          "display_title": "No Pidyon for Birds",
+          "timestamp": "25:40"
         }
       ]
     },
     {
-      "title": "Wine Libations (Nesachim): Standard Me'ilah Before Pouring, Loss After",
-      "display_title": "Nesachim (wine libations)",
-      "timestamp": "26:35",
+      "title": "Blood (Dam): A Paradox of Meilah—No Meilah Beforehand, Rabbinic Meilah Afterward",
+      "display_title": "Blood (Dam) Paradox",
+      "timestamp": "26:21",
       "micro_segments": [
         {
-          "title": "Mishnah: wine for libations has me'ilah initially but not after being poured into funnels and altar cavity",
-          "display_title": "Nesachim before & after",
-          "timestamp": "26:35"
+          "title": "The Unusual Status of Blood: Initially No Meilah Despite Full Kedusha",
+          "display_title": "Dam Initially No Meilah",
+          "timestamp": "26:21"
         },
         {
-          "title": "Contrast with blood: wine follows standard na'asah mitzvaso rule (no me'ilah once mitzvah complete), blood does not",
-          "display_title": "Wine vs. blood logic",
-          "timestamp": "28:35"
-        }
-      ]
-    },
-    {
-      "title": "Blood of Sacrifices: Paradoxical Absence of Me'ilah Before Sprinking, Paradoxical Presence After (continued)",
-      "display_title": "Blood (dam): paradox…",
-      "timestamp": "29:45",
-      "micro_segments": [
-        {
-          "title": "Tannaitic dispute: Rabbi Meir says me'ilah applies to blood; Chakhamim say no me'ilah; source and reasoning",
-          "display_title": "Meir vs. Chakhamim",
-          "timestamp": "29:45"
+          "title": "Blood's Journey: Pouring on Mizbeach, Flow to Kidron Valley, and Sale to Farmers",
+          "display_title": "Dam Flow & Sale",
+          "timestamp": "26:47"
         },
         {
-          "title": "Ullas explanation: pasuk 'va'ani netativ lachem al hamizbe'ach lekapper' — blood serves atonement function, not fully kodshei Hashem",
-          "display_title": "Ulla: 'lachem' argument",
-          "timestamp": "29:56"
+          "title": "Rabbinic Meilah After Dam Reaches Kidron: Only Derabbanan, Never Deoraisa",
+          "display_title": "Dam Derabbanan Meilah",
+          "timestamp": "27:34"
         },
         {
-          "title": "Debeі Rabbi Yishmael: 'lichapparah netativ velo leme'ilah' — exemption from me'ilah via atonement purpose",
-          "display_title": "Yishmael: purpose-based…",
+          "title": "Baraita: Rabbi Meir vs. Chachamim on Meilah by Blood",
+          "display_title": "Rabbi Meir vs. Chachamim",
+          "timestamp": "29:47"
+        },
+        {
+          "title": "Ula's Explanation: Blood Serves the Owner, Taking It Out of Kodshei Hashem",
+          "display_title": "Ula: Service to Owner",
+          "timestamp": "29:59"
+        },
+        {
+          "title": "Dvarim shel Rabbi Yishmael: Blood Given for Atonement, Not for Meilah",
+          "display_title": "R. Yishmael: Atonement P…",
           "timestamp": "30:30"
         },
         {
-          "title": "Rabbi Yochanan: gezeirah shava from 'ki hadam hu banefesh' — blood has single status before and after zerikat hadam, hence no me'ilah either way",
-          "display_title": "Yochanan: gezeirah shava",
-          "timestamp": "31:14"
+          "title": "Rabbi Yochanan: 'Blood Is Soul'—Same Status Before and After Atonement",
+          "display_title": "R. Yochanan: Blood Soul",
+          "timestamp": "31:18"
         },
         {
-          "title": "Gemara challenge: Why assume no me'ilah before if it's נעשה מצותו status change after? Answer via principle that once mitzvah done, no me'ilah can apply",
-          "display_title": "Challenge & na'asah mitz…",
-          "timestamp": "32:00"
+          "title": "Gemara's Challenge: Exceptions to Na'aseh Mitzvato (Trumat Hadeshen, Se'ir Hamishtalach, Egla Arufa)",
+          "display_title": "Exceptions to Na'aseh",
+          "timestamp": "33:21"
+        },
+        {
+          "title": "Why Blood's Exception Cannot Become a Rule: Two Exceptions Do Not Establish Principle",
+          "display_title": "Two Exceptions Principle",
+          "timestamp": "35:46"
         }
       ]
     },
     {
-      "title": "Exception to Na'asah Mitzvaso Rule: Terumат Hadeshen and Other Boundary Cases",
-      "display_title": "Na'asah mitzvaso excepti…",
-      "timestamp": "33:00",
+      "title": "Nesachim (Wine): Strong Meilah at Start, None After Pouring—Comparison with Blood's Inverse Pattern",
+      "display_title": "Nesachim (Wine)",
+      "timestamp": "45:01",
       "micro_segments": [
         {
-          "title": "Gemara cites terumas hadeshen and se'ir hamishtalach as examples where me'ilah continues despite mitzvah completion",
-          "display_title": "Terumas hadeshen & se'ir",
-          "timestamp": "33:00"
+          "title": "Nesachim Initially Have Meilah; After Pouring, No Meilah Due to Na'aseh Mitzvato",
+          "display_title": "Wine: Start & End",
+          "timestamp": "45:01"
         },
         {
-          "title": "Terumas hadeshen retains me'ilah because of 'vesamo sham' — placement requirement implies continuous status preservation",
-          "display_title": "Terumas: vesamo sham",
-          "timestamp": "34:36"
+          "title": "Rabbi Elazar bar Tzadok's Account: The Lul (Duct), Young Kohanim, and Congealed Wine Residue",
+          "display_title": "Lul & Wine Residue",
+          "timestamp": "46:22"
         },
         {
-          "title": "Principle: two written sources coming together do not generate a rule; exceptions remain limited to specified cases",
-          "display_title": "Shnei ktuvim rule",
-          "timestamp": "35:51"
-        }
-      ]
-    },
-    {
-      "title": "Rabbi Elazar bar Tzadok on Wine Clots: The Lul Tunnel, Cleaning Ritual, and Burning in Sanctity",
-      "display_title": "Rabbi Elazar: wine clots",
-      "timestamp": "45:41",
-      "micro_segments": [
-        {
-          "title": "Description: small tunnel (lul) beneath altar where wine and blood clots accumulate; cleaned once every seventy years by child priests",
-          "display_title": "Lul tunnel description",
-          "timestamp": "45:41"
+          "title": "Burning the Congealed Wine in Sanctity: Source from Pesukim on Libation Poured in Holiness",
+          "display_title": "Burning Congealed Wine",
+          "timestamp": "48:22"
         },
         {
-          "title": "Congealed wine extracted and burned in sanctity (bikdusha) like defective consecrated items; source from pasuk 'bakodesh hasach nesech'",
-          "display_title": "Burning in sanctity",
-          "timestamp": "48:23"
+          "title": "Gemara's Initial Assumption: This Teaches Rabbi Elazar bar Tzadok's View",
+          "display_title": "Gemara Initial Assumption",
+          "timestamp": "49:11"
         },
         {
-          "title": "Gemara debate: whether Rabbi Elazar's requirement to burn wine implies doritta or derabbanan me'ilah status; resolution that derabbanan burning is sufficient",
-          "display_title": "Burning: doritta vs. der…",
-          "timestamp": "51:02"
+          "title": "Tosafot's Explanation: Wine Caught Before Hitting Mizbeach Floor Has Different Status",
+          "display_title": "Tosafot: Before Floor",
+          "timestamp": "49:32"
+        },
+        {
+          "title": "Alternative Resolution: Rabbi Elazar bar Tzadok Only Means Burning Is Derabbanan",
+          "display_title": "Burning Derabbanan Only",
+          "timestamp": "50:02"
         }
       ]
     }
   ],
   "topical_tags": [
     {
-      "term": "Me'ilah",
+      "term": "Meilah",
       "timestamps": [
-        "00:16",
-        "01:11",
-        "05:44",
-        "07:17",
+        "00:00",
+        "00:40",
+        "01:02",
+        "05:43",
+        "06:01",
+        "06:09",
+        "07:27",
         "09:00",
-        "12:05",
-        "12:40",
-        "13:00",
-        "26:16",
-        "29:45",
-        "32:00",
-        "34:13",
-        "42:29",
-        "51:52"
+        "12:06",
+        "12:09",
+        "16:47",
+        "20:29",
+        "20:51",
+        "22:33",
+        "26:30",
+        "26:47",
+        "29:42",
+        "31:20",
+        "32:06",
+        "34:14",
+        "45:01"
       ]
     },
     {
-      "term": "Chatat shemetah (chatat that must die)",
+      "term": "Kedusha / Kedushah",
       "timestamps": [
-        "01:38",
-        "02:13",
-        "02:25",
-        "05:03",
-        "16:33",
-        "16:49"
+        "00:12",
+        "01:02",
+        "05:19",
+        "05:43",
+        "06:33",
+        "07:35",
+        "17:17",
+        "19:02",
+        "25:40",
+        "30:12",
+        "34:41",
+        "35:21",
+        "39:02",
+        "49:32",
+        "50:26"
       ]
     },
     {
-      "term": "Velad chatat (offspring of sin-offering)",
+      "term": "Chatat (Sin-Offering)",
       "timestamps": [
-        "01:39",
-        "01:50",
-        "08:23"
+        "01:40",
+        "01:51",
+        "02:00",
+        "02:06",
+        "02:16",
+        "03:02",
+        "09:00",
+        "14:32",
+        "16:40"
       ]
     },
     {
-      "term": "Tmurat chatat (substitute for sin-offering)",
+      "term": "Chatat Shemetah (Sin-Offering That Must Die)",
       "timestamps": [
-        "01:50",
-        "01:53",
-        "08:24"
+        "02:16",
+        "02:26",
+        "05:39",
+        "21:10",
+        "21:20"
       ]
     },
     {
-      "term": "Avrah shnasah (over one year old)",
-      "timestamps": [
-        "02:32",
-        "03:03",
-        "03:13",
-        "03:25"
-      ]
-    },
-    {
-      "term": "Nitkaper b'acher (replaced with another offering)",
-      "timestamps": [
-        "02:45",
-        "03:00",
-        "08:11",
-        "08:30"
-      ]
-    },
-    {
-      "term": "Temurah (designation as substitute)",
-      "timestamps": [
-        "05:07",
-        "05:12",
-        "08:47",
-        "08:59"
-      ]
-    },
-    {
-      "term": "Lo nehenin v'lo mo'alin (not benefited from, no me'ilah)",
-      "timestamps": [
-        "05:44",
-        "12:05",
-        "16:41",
-        "21:04"
-      ]
-    },
-    {
-      "term": "Pidyon (redemption)",
+      "term": "Pidyon (Redemption)",
       "timestamps": [
         "03:27",
-        "03:29",
-        "07:02",
-        "20:52",
-        "26:04"
+        "03:31",
+        "20:51",
+        "25:40"
       ]
     },
     {
-      "term": "Kodshei Hashem (God's sanctified items)",
+      "term": "Tmurah (Substitution)",
       "timestamps": [
-        "06:12",
-        "06:24",
-        "30:12",
-        "30:28"
+        "01:51",
+        "02:03",
+        "05:10",
+        "07:15",
+        "08:41",
+        "08:47",
+        "08:51"
       ]
     },
     {
-      "term": "Kodshei Kodashim (most holy offerings)",
+      "term": "Kodshei Kodashim (Most Holy Offerings)",
       "timestamps": [
         "01:05",
-        "14:03",
-        "14:15"
-      ]
-    },
-    {
-      "term": "Kodashim Kalim (lesser holy offerings)",
-      "timestamps": [
-        "13:47",
-        "14:08",
-        "14:15"
-      ]
-    },
-    {
-      "term": "Nazir (nazirite vow)",
-      "timestamps": [
-        "11:51",
-        "11:54",
-        "15:15",
-        "15:38",
-        "15:43",
-        "15:51",
-        "17:32",
-        "17:36"
-      ]
-    },
-    {
-      "term": "Ma'ot l'nezirot (money for nazir offerings)",
-      "timestamps": [
-        "11:48",
-        "12:00"
-      ]
-    },
-    {
-      "term": "Shelamim (peace offerings)",
-      "timestamps": [
-        "11:56",
-        "12:30",
+        "05:19",
         "13:26",
-        "13:35",
-        "17:07",
-        "17:32"
+        "14:09",
+        "15:00"
       ]
     },
     {
-      "term": "Olah (burnt offering)",
+      "term": "Kodshei Kalim (Lesser Holy Offerings)",
+      "timestamps": [
+        "14:08",
+        "14:20"
+      ]
+    },
+    {
+      "term": "Kodshei Hashem (Offerings to God)",
+      "timestamps": [
+        "06:24",
+        "30:12",
+        "30:39"
+      ]
+    },
+    {
+      "term": "Nazir (Nazirite)",
+      "timestamps": [
+        "11:50",
+        "11:52",
+        "11:59",
+        "14:38",
+        "15:10",
+        "17:17",
+        "17:36",
+        "18:00",
+        "18:02"
+      ]
+    },
+    {
+      "term": "Shelamim (Peace-Offering)",
       "timestamps": [
         "11:54",
-        "12:18",
-        "13:00",
+        "12:29",
+        "12:34",
+        "13:21",
+        "13:26",
+        "14:09",
+        "17:06",
+        "17:17",
+        "17:33",
+        "18:23"
+      ]
+    },
+    {
+      "term": "Olah (Whole-Offering)",
+      "timestamps": [
+        "11:54",
+        "12:20",
+        "12:34",
         "15:22",
-        "16:54"
+        "16:54",
+        "23:11"
       ]
     },
     {
-      "term": "Kinim (bird offerings)",
-      "timestamps": [
-        "19:49",
-        "20:01",
-        "23:01",
-        "23:25"
-      ]
-    },
-    {
-      "term": "Torim and benei yonah (doves and young pigeons)",
-      "timestamps": [
-        "20:01",
-        "20:10",
-        "23:25",
-        "23:31"
-      ]
-    },
-    {
-      "term": "Holich le-ibud (destined for destruction)",
-      "timestamps": [
-        "21:18",
-        "26:04"
-      ]
-    },
-    {
-      "term": "Dam (blood)",
-      "timestamps": [
-        "26:16",
-        "26:47",
-        "29:45",
-        "29:58",
-        "30:47",
-        "31:18",
-        "40:33",
-        "42:10",
-        "44:44"
-      ]
-    },
-    {
-      "term": "Zerikat hadam (sprinkling of blood)",
+      "term": "Dam (Blood)",
       "timestamps": [
         "00:22",
-        "12:33",
-        "26:30",
-        "32:18"
-      ]
-    },
-    {
-      "term": "Nachal Kidron (Kidron Valley)",
-      "timestamps": [
+        "26:21",
+        "26:47",
         "27:00",
-        "28:15"
+        "27:34",
+        "28:00",
+        "28:24",
+        "29:42",
+        "30:48",
+        "31:18",
+        "32:03",
+        "34:37",
+        "42:37",
+        "42:41",
+        "42:46",
+        "42:49",
+        "44:00"
       ]
     },
     {
-      "term": "Nesachim (wine libations)",
+      "term": "Nesachim (Wine Libations)",
       "timestamps": [
-        "26:35",
-        "28:35",
-        "28:39",
-        "28:45"
+        "26:33",
+        "26:37",
+        "45:01",
+        "45:06",
+        "45:09"
       ]
     },
     {
-      "term": "Na'asah mitzvaso (mitzvah is completed)",
+      "term": "Zerikat Hadam (Sprinkling of Blood)",
       "timestamps": [
+        "00:22",
+        "12:34",
+        "14:04",
+        "32:06"
+      ]
+    },
+    {
+      "term": "Amurim (Sacrificial Parts)",
+      "timestamps": [
+        "12:34",
+        "12:40",
+        "13:31",
+        "13:36",
+        "14:04"
+      ]
+    },
+    {
+      "term": "Pigul (Disqualification by Wrong Intention)",
+      "timestamps": [
+        "00:47",
+        "00:52",
+        "00:55",
+        "06:01"
+      ]
+    },
+    {
+      "term": "Psul / Pasul (Disqualified)",
+      "timestamps": [
+        "00:47",
+        "01:09",
+        "01:11",
+        "06:15",
+        "06:18",
+        "06:18"
+      ]
+    },
+    {
+      "term": "Tamei (Impure)",
+      "timestamps": [
+        "00:52",
+        "00:55"
+      ]
+    },
+    {
+      "term": "Mum (Blemish)",
+      "timestamps": [
+        "02:38",
+        "02:42",
+        "02:44",
+        "03:27",
+        "03:31",
+        "03:50",
+        "04:03",
+        "05:12",
+        "20:28",
+        "20:31"
+      ]
+    },
+    {
+      "term": "Mizbeach (Altar)",
+      "timestamps": [
+        "00:32",
+        "00:40",
+        "26:47",
+        "27:06",
+        "27:14",
+        "28:08",
+        "31:35",
+        "34:51",
+        "34:57",
+        "46:07",
+        "49:32"
+      ]
+    },
+    {
+      "term": "Mikdash / Beit Hamikdash (Temple)",
+      "timestamps": [
+        "06:18",
+        "09:55",
+        "22:00",
+        "43:01",
+        "44:39",
+        "44:51",
+        "45:08"
+      ]
+    },
+    {
+      "term": "Hana'ah (Benefit/Enjoyment)",
+      "timestamps": [
+        "10:10",
+        "10:13",
+        "10:27",
+        "12:05",
+        "12:09",
+        "13:20",
+        "20:59",
+        "36:55",
+        "42:22"
+      ]
+    },
+    {
+      "term": "Lo Nehenin (Forbidden to Benefit)",
+      "timestamps": [
+        "05:45",
+        "05:48",
+        "05:54",
+        "06:33",
+        "12:05",
+        "16:40",
+        "16:45"
+      ]
+    },
+    {
+      "term": "Lo Mo'alin (No Meilah)",
+      "timestamps": [
+        "05:45",
+        "12:09",
+        "16:47"
+      ]
+    },
+    {
+      "term": "Na'aseh Mitzvato (Mitzvah Completed)",
+      "timestamps": [
+        "28:03",
         "28:06",
-        "28:09",
         "32:06",
-        "32:22",
-        "34:17",
-        "35:37",
-        "40:51"
+        "32:09",
+        "36:02",
+        "36:32",
+        "39:02",
+        "39:29",
+        "40:28",
+        "40:51",
+        "42:02",
+        "42:09",
+        "45:09",
+        "50:37"
       ]
     },
     {
-      "term": "Rabbi Meir",
+      "term": "Holech Le-Ibud (Going to Destruction)",
       "timestamps": [
-        "29:45",
-        "29:51"
+        "06:09",
+        "22:39",
+        "22:41"
       ]
     },
     {
-      "term": "Chakhamim (sages' opinion)",
+      "term": "Yimitu / Tamut (Must Die)",
       "timestamps": [
-        "29:52",
-        "29:54"
+        "02:13",
+        "02:50",
+        "04:52"
       ]
     },
     {
-      "term": "Ulla",
+      "term": "Vlad Chatat (Child of Sin-Offering)",
       "timestamps": [
-        "29:56",
-        "29:58"
+        "01:40",
+        "01:51",
+        "03:54",
+        "22:14"
       ]
     },
     {
-      "term": "Rabbi Yochanan",
+      "term": "Tmurah Chatat (Substitute Sin-Offering)",
       "timestamps": [
-        "31:13",
-        "31:14"
+        "01:51",
+        "02:03",
+        "03:54"
       ]
     },
     {
-      "term": "Gezeirah shava (verbal analogy)",
+      "term": "Avra Shnata (Exceeded One Year)",
       "timestamps": [
-        "31:30",
-        "31:31"
+        "02:30",
+        "03:00",
+        "03:25",
+        "03:40",
+        "04:00"
       ]
     },
     {
-      "term": "Terumas hadeshen (removal of altar ashes)",
+      "term": "Avda (Lost)",
       "timestamps": [
-        "34:01",
-        "34:04",
-        "34:27",
-        "35:39",
-        "36:00",
-        "39:02"
+        "02:32",
+        "04:08"
       ]
     },
     {
-      "term": "Se'ir hamishtalach (scapegoat)",
+      "term": "Nitkappru Ba'acher (Atonement Already Achieved Elsewhere)",
       "timestamps": [
-        "36:07",
-        "36:14",
-        "36:21",
-        "37:11"
+        "02:45",
+        "02:53",
+        "03:03",
+        "04:03",
+        "04:45",
+        "04:50"
       ]
     },
     {
-      "term": "Shnei ktuvim habaim k'echad (two written sources as one)",
+      "term": "Tira'eh Ad Shetistave (Wait Until It Gets a Blemish)",
       "timestamps": [
-        "35:51",
-        "36:32"
+        "06:54",
+        "06:58",
+        "07:31"
+      ]
+    },
+    {
+      "term": "Reish Lakish",
+      "timestamps": [
+        "19:48",
+        "22:50",
+        "22:53"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "24:44",
+        "24:48"
       ]
     },
     {
       "term": "Rabbi Elazar bar Tzadok",
       "timestamps": [
-        "45:14",
-        "45:16",
-        "51:14",
-        "51:49",
-        "52:27",
-        "52:42"
-      ]
-    },
-    {
-      "term": "Lul (tunnel/duct in altar)",
-      "timestamps": [
-        "45:41",
-        "45:43",
-        "45:47",
-        "46:58"
-      ]
-    },
-    {
-      "term": "Shitin (cavities/funnels)",
-      "timestamps": [
-        "28:49",
-        "46:20"
-      ]
-    },
-    {
-      "term": "Pirchei kehuna (young priests)",
-      "timestamps": [
-        "48:14"
-      ]
-    },
-    {
-      "term": "Yayin karush (congealed wine)",
-      "timestamps": [
-        "48:23"
-      ]
-    },
-    {
-      "term": "Bikdusha (in sanctity)",
-      "timestamps": [
-        "48:35",
-        "48:53",
+        "45:12",
+        "49:14",
         "49:18",
-        "49:25"
+        "49:21",
+        "49:50",
+        "50:02",
+        "50:51"
       ]
     },
     {
-      "term": "Issur hana'ah (prohibition of benefit)",
+      "term": "Rabbi Meir",
       "timestamps": [
-        "10:10",
-        "37:54",
-        "43:34"
+        "29:47",
+        "29:49"
       ]
     },
     {
-      "term": "Me'ilah de-rabbanan (rabbinic me'ilah)",
+      "term": "Rabbi Shimon / Chachamim",
       "timestamps": [
-        "10:04",
-        "10:14",
-        "28:04",
-        "44:42",
-        "44:45",
-        "45:00",
-        "51:56",
-        "52:49",
-        "52:53"
+        "26:20",
+        "29:49",
+        "29:51"
       ]
     },
     {
-      "term": "Mum (blemish)",
+      "term": "Ula",
       "timestamps": [
-        "02:41",
-        "02:44",
-        "03:27",
-        "04:00",
-        "04:02",
-        "20:58",
-        "26:00"
+        "30:00",
+        "30:01"
       ]
     },
     {
-      "term": "Adusha (lost)",
+      "term": "Rabbi Yochanan",
       "timestamps": [
-        "02:40",
-        "03:16"
+        "31:18",
+        "31:30"
       ]
     },
     {
-      "term": "Eimur/Emurim (sacrificial portions)",
+      "term": "Tor (Dove, Adult)",
       "timestamps": [
-        "12:37",
-        "13:30",
-        "13:31"
+        "20:00",
+        "20:10",
+        "20:15",
+        "20:23",
+        "23:50",
+        "23:55",
+        "24:01",
+        "24:06"
       ]
     },
     {
-      "term": "Pasul (unfit)",
+      "term": "Benei Yonah (Young Pigeons)",
       "timestamps": [
-        "01:11",
-        "06:01",
-        "06:17",
-        "10:58",
-        "20:28"
+        "19:59",
+        "20:09",
+        "20:20",
+        "23:00",
+        "23:33",
+        "24:36"
       ]
     },
     {
-      "term": "Pigul (wrong intention)",
+      "term": "Mechusar Zman (Lacking in Age)",
       "timestamps": [
-        "00:47",
-        "00:51",
-        "06:00"
+        "25:45",
+        "25:48"
       ]
     },
     {
-      "term": "Mizbe'ach (altar)",
+      "term": "Kidron Valley / Nachal Kidron",
       "timestamps": [
-        "00:35",
-        "34:04",
-        "34:07",
-        "34:51",
-        "47:30",
-        "48:01"
+        "27:00",
+        "27:03",
+        "27:18",
+        "44:00",
+        "44:45"
+      ]
+    },
+    {
+      "term": "Shitin (Caverns/Channels)",
+      "timestamps": [
+        "28:40",
+        "28:41",
+        "28:42",
+        "46:21"
+      ]
+    },
+    {
+      "term": "Lul (Duct/Trapdoor)",
+      "timestamps": [
+        "46:22",
+        "46:30",
+        "46:43"
+      ]
+    },
+    {
+      "term": "Pirchei Kehuna (Young Priests)",
+      "timestamps": [
+        "48:07",
+        "48:09"
+      ]
+    },
+    {
+      "term": "Yayin Karush (Congealed Wine)",
+      "timestamps": [
+        "48:14",
+        "48:16"
+      ]
+    },
+    {
+      "term": "Trumat Hadeshen (Removal of Ashes)",
+      "timestamps": [
+        "33:31",
+        "34:02",
+        "34:10",
+        "34:14",
+        "35:21",
+        "35:47",
+        "35:48",
+        "36:30",
+        "36:31",
+        "37:06"
+      ]
+    },
+    {
+      "term": "Se'ir Hamishtalach (Scapegoat)",
+      "timestamps": [
+        "35:48",
+        "36:08",
+        "36:11",
+        "36:24",
+        "37:03",
+        "37:12"
+      ]
+    },
+    {
+      "term": "Egla Arufa (Heifer Whose Neck Is Broken)",
+      "timestamps": [
+        "39:06",
+        "39:12",
+        "39:16",
+        "39:23",
+        "39:26"
+      ]
+    },
+    {
+      "term": "Bigdei Kehuna (High Priest's Garments)",
+      "timestamps": [
+        "34:46",
+        "37:09",
+        "38:10",
+        "38:14",
+        "38:20"
+      ]
+    },
+    {
+      "term": "Yom Kippur",
+      "timestamps": [
+        "37:34",
+        "38:16",
+        "38:28",
+        "38:32"
+      ]
+    },
+    {
+      "term": "Psulei Hamukdashim (Disqualified Holy Items)",
+      "timestamps": [
+        "06:20",
+        "06:23",
+        "49:04",
+        "49:08"
+      ]
+    },
+    {
+      "term": "Derabbanan / De-Rabbanan (Rabbinic)",
+      "timestamps": [
+        "27:52",
+        "27:56",
+        "28:17",
+        "28:20",
+        "28:27",
+        "32:55",
+        "44:15",
+        "44:20",
+        "50:02",
+        "50:35",
+        "50:53",
+        "51:05"
+      ]
+    },
+    {
+      "term": "De-Oraisa (Biblical)",
+      "timestamps": [
+        "19:20",
+        "44:20"
+      ]
+    },
+    {
+      "term": "Issur Meilah (Prohibition of Misuse)",
+      "timestamps": [
+        "10:13",
+        "20:29",
+        "36:45",
+        "36:46"
+      ]
+    },
+    {
+      "term": "Gezeira Shava (Verbal Analogy)",
+      "timestamps": [
+        "48:49"
+      ]
+    },
+    {
+      "term": "Asmakhta (Support/Allusion)",
+      "timestamps": [
+        "48:50",
+        "50:13"
+      ]
+    },
+    {
+      "term": "Pesach / Pesukim (Biblical Verse)",
+      "timestamps": [
+        "30:02",
+        "34:36",
+        "48:28",
+        "50:10"
       ]
     }
   ]

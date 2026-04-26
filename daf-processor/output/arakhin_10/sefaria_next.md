@@ -1,0 +1,81 @@
+### Arakhin 11a
+
+**1.**
+*Hebrew/Aramaic:* עֲשָׂרָה נְקָבִים הָיוּ בָּהּ, כׇּל אֶחָד וְאֶחָד מוֹצִיא עֲשָׂרָה מִינֵי זֶמֶר, נִמְצֵאת כּוּלָּהּ מוֹצִיאָה מֵאָה מִינֵי זֶמֶר. בְּמַתְנִיתָא תָּנָא: הִיא אַמָּה וּגְבוֹהָ אַמָּה, וְקַתָּא יוֹצָא הֵימֶנָּה, וַעֲשָׂרָה נְקָבִים הָיוּ בָּהּ, כׇּל אֶחָד מוֹצִיא מֵאָה מִינֵי זֶמֶר, נִמְצֵאת כּוּלָּהּ מוֹצִיאָה אֶלֶף מִינֵי זֶמֶר. אָמַר רַב נַחְמָן בַּר יִצְחָק: וְסִימָנָיךְ מַתְנִיתָא גּוּזְמָא.
+*Translation:* **There were ten holes in it** and **each and every one** would **emit ten types of tone. It** therefore **emerges** that the **entire** instrument **emitted one hundred types of tone. It was taught in a *baraita*:** The *magreifa* was **one cubit** wide **and one cubit tall, and a handle protruded from it.** It was hollow **and there were ten holes in it** and **each one** would **produce one hundred types of tone. It** therefore **emerges** that that the **entire** instrument **emitted one thousand types of tone. Rav Naḥman bar Yitzḥak said: And your mnemonic** to remember which of these two statements was said by Shmuel and which was taught in a *baraita* is that the ***baraita*** expresses itself with **exaggeration,** as it is common for *baraitot* to exaggerate numbers.
+
+**2.**
+*Hebrew/Aramaic:* וְעַבְדֵי כֹהֲנִים הָיוּ כּוּ׳. לֵימָא בְּהָא קָמִיפַּלְגִי, דְּמַאן דְּאָמַר עֲבָדִים הָיוּ קָסָבַר: עִיקַּר שִׁירָה בַּפֶּה, וּכְלִי לְבַסּוֹמֵי קָלָא הוּא דַּעֲבִידָא, וּמַאן דְּאָמַר לְוִיִּם הָיוּ קָסָבַר: עִיקַּר שִׁירָה בִּכְלִי!
+*Translation:* § The mishna teaches that the Temple musicians **were slaves of priests** according to Rabbi Meir, whereas according to Rabbi Yosei they were Israelites of pure lineage, and according to Rabbi Ḥanina ben Antigonus they were Levites. The Gemara suggests: **Let us say** that **they disagree about this; that the one who says they were slaves holds** that the **primary component** of **song** in the Temple service is singing **with the mouth, and** the **instrumental** music **was performed** merely **to sweeten the sound** of the singing. Since the instrumental music is mere accompaniment, it could be performed by slaves. **And the one who says that** the musicians **were Levites holds** that the **primary component** of **song** in the Temple service is the music played **with instruments.** Therefore, the musicians had to be Levites, who were tasked with the song that was part of the Temple service.
+
+**3.**
+*Hebrew/Aramaic:* וְתִסְבְּרָא? רַבִּי יוֹסֵי מַאי קָסָבַר? אִי קָסָבַר: עִיקַּר שִׁירָה בַּפֶּה — עֲבָדִים סַגִּיא, אִי קָסָבַר: עִיקַּר שִׁירָה בִּכְלִי — לְוִיִּם בָּעֵינַן!
+*Translation:* The Gemara responds: **And can you understand** the disagreement in this manner? According to this suggestion, **what does Rabbi Yosei,** who says that the musicians were Israelites of pure lineage, **hold? If he holds** that the **primary component** of **song** in the Temple service is singing **with the mouth,** then it should be **sufficient** if **slaves** play the instruments. Why would he require Israelites of pure lineage? And **if he holds** that the **primary component** of **song** in the Temple service is the music played **with instruments, we** should **require Levites** to play the instruments.
+
+**4.**
+*Hebrew/Aramaic:* לְעוֹלָם קָסָבַר: עִיקַּר שִׁירָה בַּפֶּה, וְהָכָא בְּמַעֲלִין מִדּוּכָן לְיוּחֲסִין וּלְמַעַשְׂרוֹת קָמִיפַּלְגִי.
+*Translation:* The Gemara responds: **Actually,** Rabbi Yosei **holds** that the **primary component** of **song** in the Temple service is singing **with the mouth. And here,** the *tanna’im* **disagree about** whether the musicians in the Temple may be **elevated from the** musical **platform to** the presumptive status of pure **lineage** with regard to marriage **and** eligibility **to** receive Levitical **tithes.**
+
+**5.**
+*Hebrew/Aramaic:* מַאן דְּאָמַר עֲבָדִים הָיוּ, קָסָבַר: אֵין מַעֲלִין מִדּוּכָן לֹא לְיוּחֲסִין וְלֹא לְמַעַשְׂרוֹת. מַאן דְּאָמַר לְוִיִּם הָיוּ, קָסָבַר: מַעֲלִין מִדּוּכָן בֵּין לְיוּחֲסִין בֵּין לְמַעַשְׂרוֹת. וּלְמַאן דְּאָמַר יִשְׂרְאֵלִים הָיוּ, קָסָבַר: מַעֲלִין מִדּוּכָן לְיוּחֲסִין וְלֹא לְמַעַשְׂרוֹת.
+*Translation:* **The one who says** that the musicians **were slaves holds** that people **cannot be elevated from the** Temple musical **platform to** the presumptive status of pure **lineage** with regard to marriage **and** eligibility **to** receive **tithes. The one who says that** the musicians **were Levites holds** that **one elevates from the platform both to** the presumptive status of pure **lineage and** eligibility **to** receive **tithes. And according to the one who says** that the musicians **were Israelites,** he **holds** that **one elevates from the platform to** the presumptive status of pure **lineage but not** with regard to the eligibility **to** receive **tithes.**
+
+**6.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַשִּׁיר מְעַכֵּב אֶת הַקׇּרְבָּן, דִּבְרֵי רַבִּי מֵאִיר; וַחֲכָמִים אוֹמְרִים: אֵינוֹ מְעַכֵּב.
+*Translation:* § **The Sages taught** in a *baraita*: **The song** that the Levites sing while a communal offering is being sacrificed **is an indispensable** component of **the offering,** which means that if the Levites did not sing, the offering is invalid. This is **the statement of Rabbi Meir. And the Rabbis say: It is not indispensable.**
+
+**7.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבִּי מֵאִיר? דְּאָמַר קְרָא: ״וָאֶתְּנָה אֶת הַלְוִיִּם נְתֻנִים לְאַהֲרֹן וּלְבָנָיו מִתּוֹךְ בְּנֵי יִשְׂרָאֵל... וּלְכַפֵּר עַל בְּנֵי יִשְׂרָאֵל״, מָה כַּפָּרָה מְעַכֶּבֶת, אַף שִׁירָה מְעַכֶּבֶת.
+*Translation:* The Gemara asks: **What is the reasoning of Rabbi Meir,** i.e., from where does he derive his opinion? The Gemara answers: It is **as the verse states: “And I have given the Levites, they are given to Aaron and to his sons from among the children of Israel,** to do the service of the children of Israel in the Tent of Meeting, **and to make atonement for the children of Israel”** (Numbers 8:19). The verse compares the atonement for the Jewish people, which is caused by the sprinkling of the blood of offerings on the altar, to the service of the Levites, which is their singing. This teaches that **just as the atonement** caused by the sprinkling of the blood **is an indispensable** component of the offering, **so too** the **song** of the Levites **is indispensable.**
+
+**8.**
+*Hebrew/Aramaic:* וְרַבָּנַן? הָהוּא לְאִידַּךְ דְּרַבִּי אֶלְעָזָר, דְּאָמַר רַבִּי אֶלְעָזָר: מָה כַּפָּרָה בַּיּוֹם, אַף שִׁירָה בַּיּוֹם.
+*Translation:* The Gemara asks: **And** what do **the Rabbis** derive from the comparison in this verse? The Gemara answers: **That** comparison serves **to** teach **another** *halakha*, which was stated **by Rabbi Elazar, as Rabbi Elazar says: Just as** the **atonement** achieved by the sprinkling of the blood must take place **during the day, so too** the **song** must be sung **during the day.**
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מִנַּיִן לְעִיקַּר שִׁירָה מִן הַתּוֹרָה? שֶׁנֶּאֱמַר: ״וְשֵׁרֵת בְּשֵׁם ה׳ אֱלֹהָיו״, אֵיזֶהוּ שֵׁירוּת שֶׁבְּשֵׁם? הֱוֵי אוֹמֵר: זֹה שִׁירָה.
+*Translation:* **Rav Yehuda said** that **Shmuel said: From where** is it derived that the **basic** requirement to accompany communal offerings with **song** applies **by Torah law? As it is stated** with regard to a Levite who serves in the Temple: **“Then he shall serve with the name of the Lord his God”** (Deuteronomy 18:7). **What is** this **service** that is performed **with the name** of God? **You must say** that **this is** the **song,** in which the Levites mention and praise the name of God.
+
+**10.**
+*Hebrew/Aramaic:* וְאֵימָא נְשִׂיאוּת כַּפַּיִם! מִדִּכְתִיב: ״לְשָׁרְתוֹ וּלְבָרֵךְ בִּשְׁמוֹ״, מִכְּלָל דְּבִרְכַּת כֹּהֲנִים לָאו שֵׁירוּת הִיא.
+*Translation:* The Gemara objects: **But** you can **say** that this service with the name of God is referring to the **lifting of the hands** for the Priestly Benediction, which also includes the mention of the name of God. If so, the verse is referring to priests, not ordinary Levites. The Gemara responds: **From the fact that it is written:** “At that time the Lord separated the tribe of Levi…**to serve Him, and to bless in His name”** (Deuteronomy 10:8), it can be derived **by inference that the Priestly Benediction is not** considered **service,** as the verse mentions service and the Priestly Benediction as distinct rituals.
+
+**11.**
+*Hebrew/Aramaic:* רַב מַתְנָה אָמַר מֵהָכָא: ״תַּחַת אֲשֶׁר לֹא עָבַדְתָּ אֶת ה׳ אֱלֹהֶיךָ בְּשִׂמְחָה וּבְטוּב לֵבָב״, אֵיזוֹ הִיא עֲבוֹדָה שֶׁבְּשִׂמְחָה וּבְטוּב לֵבָב? הֱוֵי אוֹמֵר: זֹה שִׁירָה. וְאֵימָא דִּבְרֵי תוֹרָה, דִּכְתִיב: ״פִּקּוּדֵי ה׳ יְשָׁרִים מְשַׂמְּחֵי לֵב״! ״מְשַׂמְּחֵי לֵב״ אִיקְּרִי, ״טוֹב״ לָא אִיקְּרִי.
+*Translation:* **Rav Mattana said** that the source for the requirement to accompany the Temple offerings with song is derived **from here: “Because you did not serve the Lord your God with joyfulness, and with goodness of heart”** (Deuteronomy 28:47). **What is** this **service** of God **that is** performed **with joyfulness and with goodness of heart? You must say** that **this is song.** The Gemara objects: **But** you can **say** that this service is studying the **words of Torah, as it is written: “The precepts of the Lord are upright, rejoicing the heart”** (Psalms 19:9). The Gemara explains: Torah **is** indeed **called** a matter that **rejoices the heart,** but **it is not called “goodness.”**
+
+**12.**
+*Hebrew/Aramaic:* וְאֵימָא בִּכּוּרִים, דִּכְתִיב: ״וְשָׂמַחְתָּ בְכׇל הַטּוֹב״! ״טוֹב״ אִיקְּרִי, ״טוּב לֵבָב״ לָא אִיקְּרִי.
+*Translation:* The Gemara objects: **But** you can **say** that the joyful service of God referred to above is the bringing of the **first fruits, as it is written** in that context: **“And you shall rejoice in all the goodness** that the Lord your God has given you” (Deuteronomy 26:11). The Gemara answers: Bringing the first fruits **is** indeed **called goodness,** but **it is not called** something that involves **goodness of heart.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב מַתְנָה: מִנַּיִן לַבִּיכּוּרִים שֶׁטְּעוּנִין שִׁירָה? אָתְיָא ״טוֹב״ ״טוֹב״ מֵהָכָא.
+*Translation:* The Gemara discusses a related matter. **Rav Mattana says: From where** is it derived **that** bringing the **first fruits** to the Temple **requires** the accompaniment of **song?** The Gemara answers: It is **derived from here,** i.e., from the requirement to accompany communal offerings with song, by means of a verbal analogy of the word **goodness** in the verse “And with goodness of heart” and the word **goodness** in the verse “You shall rejoice in all the goodness.”
+
+**14.**
+*Hebrew/Aramaic:* אִינִי? וְהָא אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: מִנַּיִן שֶׁאֵין אוֹמְרִים שִׁירָה אֶלָּא עַל הַיַּיִן? שֶׁנֶּאֱמַר: ״וַתֹּאמֶר לָהֶם הַגֶּפֶן הֶחֳדַלְתִּי אֶת תִּירוֹשִׁי הַמְשַׂמֵּחַ אֱלֹהִים וַאֲנָשִׁים״, אִם אֲנָשִׁים מְשַׂמֵּחַ, אֱלֹהִים בַּמֶּה מְשַׂמֵּחַ? מִכָּאן שֶׁאֵין אוֹמְרִים שִׁירָה אֶלָּא עַל הַיַּיִן.
+*Translation:* The Gemara asks: **Is that so? But doesn’t Rabbi Shmuel bar Naḥmani say** that **Rabbi Yonatan said: From where** is it derived that **songs** of praise in the Temple **are recited only over** the **wine** libation accompanying the sacrifice? **As it is stated: “And the vine replied: Should I leave my wine, which gladdens God and man,** and go and wave above the trees” (Judges 9:13). **If** it is clear that wine **gladdens people, in what** way **does it gladden God?** Rather, derive **from here that songs** of praise in the Temple **are recited only over** the **wine** of libation, and it is this song that gladdens God. This is difficult, as since there is no wine libation associated with the bringing of first fruits, how can it be accompanied by song?
+
+**15.**
+*Hebrew/Aramaic:* מַשְׁכַּחַתְּ לַהּ, כִּדְתָנֵי רַבִּי יוֹסֵי: ״פְּרִי אַתָּה מֵבִיא, וְאִי אַתָּה מֵבִיא מַשְׁקִין״; הֵבִיא עֲנָבִים וּדְרָכָן, מִנַּיִן? תַּלְמוּד לוֹמַר: ״תָּבִיא״.
+*Translation:* The Gemara answers: **You can find** cases where the first fruits are brought in the form of wine, **as Rabbi Yosei teaches:** The verse states with regard to the first fruits: “You shall take of the first of all the fruit of the ground, which you shall bring in from your land” (Deuteronomy 26:2). Since the verse mentions “fruit,” **you** must **bring** the actual **fruit** as your first fruits offering, **and you may not bring** it in the form of **beverages.** If one **brought grapes and** he had already **pressed them** into wine, **from where** is it derived that he has fulfilled his obligation of offering his first fruits? **The verse states: “You shall bring in** from your land.” This apparently superfluous phrase comes to teach that if one brings wine for the mitzva of first fruits, he has fulfilled his obligation.
+
+**16.**
+*Hebrew/Aramaic:* חִזְקִיָּה אָמַר מֵהָכָא: ״וּכְנַנְיָהוּ שַׂר הַלְוִיִּם יָשׂוֹר בַּמַּשָּׂא כִּי מֵבִין הוּא״, אַל תִּיקְרֵי ״יָשׂוֹר״ אֶלָּא ״יָשִׁיר״.
+*Translation:* The Gemara presents another source for the requirement that the song of the Levites must accompany the sacrificial service in the Temple. **Ḥizkiyya says** that this obligation is derived **from here: “And Chenaniah, chief of the Levites…he was master of lifting, because he was skillful”** (I Chronicles 15:22). **Do not read** it as **“he was master [*yasor*]** of lifting,” **but** as: **He shall sing [*yashir*]** with the lifting of his voice.
+
+**17.**
+*Hebrew/Aramaic:* בִּלְוָוטֵי אָמַר רַבִּי יוֹחָנָן, מֵהָכָא: ״לַעֲבוֹד עֲבוֹדַת עֲבוֹדָה״, אֵיזֶהוּ עֲבוֹדָה שֶׁצְּרִיכָה עֲבוֹדָה? הֱוֵי אוֹמֵר: זוֹ שִׁירָה.
+*Translation:* The Sage named **Balvatei** said that **Rabbi Yoḥanan said** that the requirement for the Levites to accompany the Temple offerings with song is derived **from here:** The verse states with regard to the Levites: “Every one that entered in **to do the work of service”** (Numbers 4:47). **What is work that must** be performed in conjunction with another **service? You must say** that **this is song.**
+
+**18.**
+*Hebrew/Aramaic:* רַבִּי יִצְחָק אָמַר מֵהָכָא: ״שְׂאוּ זִמְרָה וּתְנוּ תֹף כִּנּוֹר נָעִים עִם נָבֶל״. רַב נַחְמָן בַּר יִצְחָק אָמַר מֵהָכָא: ״הֵם יִשְׂאוּ קוֹלָם יָרֹנּוּ בִּגְאוֹן ה׳ צָהֲלוּ מִיָּם״.
+*Translation:* **Rabbi Yitzḥak says** that the requirement to accompany the Temple offerings with song is derived **from here:** “Sing aloud to God…**Take up the melody, and sound the timbrel, the sweet harp with the lyre”** (Psalms 81:2–3). **Rav Naḥman bar Yitzḥak said** that the obligation is derived **from here: “Those yonder lift up their voice, they sing for joy; for the majesty of the Lord they shout from the sea”** (Isaiah 24:14).
+
+**19.**
+*Hebrew/Aramaic:* וְתַנָּא מַיְיתֵי לַהּ מֵהָכָא: ״וְלִבְנֵי קְהָת לֹא נָתָן כִּי עֲבוֹדַת הַקֹּדֶשׁ עֲלֵיהֶם בַּכָּתֵף יִשָּׂאוּ״, מִמַּשְׁמָע שֶׁנֶּאֱמַר ״בַּכָּתֵף״ אֵינִי יוֹדֵעַ שֶׁ״יִּשְׂאוּ״? מָה תַּלְמוּד לוֹמַר ״יִשָּׂאוּ״? אֵין ״יִשָּׂאוּ״ אֶלָּא לְשׁוֹן שִׁירָה, וְכֵן הוּא אוֹמֵר: ״שְׂאוּ זִמְרָה וּתְנוּ תֹף״, וְאוֹמֵר: ״יִשְּׂאוּ קוֹלָם יָרוֹנּוּ וְגוֹ׳״.
+*Translation:* **And a *tanna* cites** a derivation for the requirement for the Levites to accompany the Temple offerings with song **from here: “But unto the sons of Kohath he gave none, because the service of the holy things belonged to them: They bore them [*yisa’u*] upon their shoulders”** (Numbers 7:9). **By inference from that** which **is stated, “upon their shoulders,” don’t I know that they bore them? Why** must **the verse state “*yisa’u***”**?** The term “***yisa’u***” **is not** stated here in its meaning of “they bore them,” but **rather** as **an expression** of **song. And similarly,** the verse **states: “Take up [*se’u*] the melody, and sound the timbrel,” and** another verse **states: “They lift up [*yisu*] their voice, they sing for joy.”**
+
+**20.**
+*Hebrew/Aramaic:* חֲנַנְיָא בֶּן אֲחִי רַבִּי יְהוֹשֻׁעַ אָמַר, מֵהָכָא: ״מֹשֶׁה יְדַבֵּר וְהָאֱלֹהִים יַעֲנֶנּוּ בְקוֹל״,
+*Translation:* **Ḥananya, son of Rabbi Yehoshua’s brother, says** that the requirement for the Levites to sing in the Temple is derived **from here: “Moses spoke, and God answered him with a voice”** (Exodus 19:19).

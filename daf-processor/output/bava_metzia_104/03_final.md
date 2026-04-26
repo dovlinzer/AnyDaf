@@ -1,0 +1,339 @@
+# Bava Metzia 104 — Daf Yomi Shiur
+
+## Irrigated Field/Makat Me…
+
+### Mishna Setup
+
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמְקַבֵּל שָׂדֶה מֵחֲבֵירוֹ וְהִיא בֵּית הַשְּׁלָחִין, אוֹ בֵּית הָאִילָן, יָבַשׁ הַמַּעְיָן וְנִקְצַץ הָאִילָן – אֵינוֹ מְנַכֶּה לוֹ מִן חֲכוֹרוֹ. אִם אָמַר לוֹ: ״חֲכוֹר לִי שָׂדֶה בֵּית הַשְּׁלָחִין זוֹ״ אוֹ ״שְׂדֵה בֵּית הָאִילָן זֶה״, יָבַשׁ הַמַּעְיָן וְנִקְצַץ הָאִילָן – מְנַכֶּה לוֹ מֵחֲכוֹרוֹ.
+>
+> **Translation:** MISHNA: In the case of **one who receives a field from another** to cultivate **and it is an irrigated** field **or a field with trees,** if **the spring** that irrigated the field **dried up or the trees were cut down,** he does **not subtract from** the produce **he** owes the owner as part of **his tenancy,** despite the fact that he presumably considered these factors when agreeing to cultivate the field. But **if** the cultivator **said to** the landowner explicitly: **Lease me this irrigated field, or** he said: Lease me **this field with trees,** and **the spring dried up or the trees were cut down, he** may **subtract from** the produce **he** owes as part of **his tenancy.**
+
+The *mishna* at the bottom of 103b introduces a case involving sharecropping or tenant rental of a field that contained a well or a tree. The basic rule is that if the well dries up or the tree dies, the tenant or sharecropper receives no reduction in rent and no increased share of the crop — that is simply his misfortune. However, if he explicitly stipulated at the outset, "rent me this field with the well" or "rent me this field with this tree," then the presence of those features is understood to be integral to the terms of the agreement, and their loss entitles him to a reduction in rent.
+
+### River vs. Canal
+
+> **Hebrew/Aramaic:** גְּמָ׳ הֵיכִי דָמֵי? אִילֵּימָא דִּיבַשׁ נַהֲרָא רַבָּה, אַמַּאי אֵינוֹ מְנַכֶּה לוֹ מִן חֲכוֹרוֹ? נֵימָא לֵיהּ: מַכַּת מְדִינָה הִיא! אָמַר רַב פָּפָּא: דִּיבַשׁ נַהֲרָא זוּטָא, דְּאָמַר לֵיהּ: אִיבְּעִי לָךְ לְאֵתוֹיֵי בְּדַוְולָא.
+>
+> **Translation:** GEMARA: The Gemara asks: **What are the circumstances** of the ruling of the mishna? **If we say that the large river** from which all the channels originate **dried up, why** does he **not subtract from** the produce **he** owes as part of **his tenancy? Let** the cultivator **say** that it **is** the result of **a regional disaster.** Consequently, he should be able to subtract from the produce he owes. **Rav Pappa said:** The case in the mishna is **where a small river** that irrigates this field alone **dried up, as** the landowner can **say to him: You should have brought** water **in a bucket.**
+
+The *gemara* opens with the question *heychi dami* — what exactly is the case? If we say *diyavesh nahara rabba*, that the main river dried up and with it the irrigation canals feeding the field, then the *gemara* asks *amai ein menakeh lo michakuro* — why would the tenant not receive a reduction in rent even without an explicit stipulation? The field we are speaking of here is not simply one with a private well, but one irrigated by canals drawing from a main river. If that river dried up, the entire region would have been affected.
+
+### Community Disaster
+
+The *gemara* answers its own challenge: *neima makat medina hi* — let the tenant say this is a *makat medina*, a community-wide disaster, not merely his personal misfortune. When a plague of locusts or some comparable catastrophe strikes an entire region equally, it is not treated as the individual's bad luck. The consequence is that rental prices across the region have effectively dropped, and the tenant ought not be held to a contract negotiated under normal conditions. Thus, if the main river dried up and this is indeed a *makat medina*, he would be entitled to a reduction in rent even without having stipulated anything. The *gemara* therefore concludes that this cannot be the case the *mishna* is discussing, since the *mishna* denies him any reduction.
+
+### Rav Pappa's Distinction
+
+Rav Pappa resolves the difficulty: *diyavesh nahara zuta* — the *mishna* is speaking of a case where it was not the main river that dried up but only the small irrigation canal, the *nahara zuta*, that fed this particular field. In that case the owner can tell the tenant: *ibai lach leasuyei bedavla* — it is your responsibility to bring water by bucket from the main river. The water source itself has not vanished; the convenient canal has. You can still irrigate the field by other means, and therefore you are not entitled to a reduction in rent.
+
+### Tosafot's Remedy Test
+
+Tosafot raises the obvious question: if the only operative principle here is whether something is a *makat medina* or not, and a small irrigation canal drying up affects only this one field and is therefore not a *makat medina*, then the entire argument about drawing water from the main river is superfluous — simply say it is not a *makat medina* and he is not entitled to any reduction. Tosafot therefore explains that the *gemara* may in fact be contemplating a case where all the irrigation canals dried up — a genuine *makat medina* — and yet the tenant still cannot claim a reduction, because the water remains available from the main river. The additional effort required does not change the fact that a remedy exists. This leads to an important principle: a *makat medina* entitles one to a rent reduction only when the loss is irreversible and there is no alternative remedy. Where the loss can be remedied — even at greater effort and expense — the right to a reduction does not arise.
+
+---
+
+## Rental vs. Sharecrop
+
+### Both Contexts
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא: הָנֵי תַּרְתֵּי מַתְנְיָתָא קַמָּיָיתָא – מַשְׁכַּחַתְּ לַהּ בֵּין בְּחַכְרָנוּתָא בֵּין בְּקַבְּלָנוּתָא. מִכָּאן וְאֵילָךְ: דְּאִיתַהּ בְּקַבְּלָנוּתָא – לֵיתַהּ בְּחַכְרָנוּתָא, וּדְאִיתַהּ בְּחַכְרָנוּתָא – לֵיתַהּ בְּקַבְּלָנוּתָא.
+>
+> **Translation:** **Rav Pappa said:** With regard to **these first two *mishnayot*, you find** that they are correct, **concerning both tenancy,** where the tenant farmer gives a certain amount of produce to the owner and keeps the rest, **as well as** the case of **a contractor,** who gives a set proportion, e.g., one-quarter or one-third, of the yield to the owner, and keeps the rest. **From this** point **forward,** i.e., from the third mishna of the chapter until its end, that **which is** relevant to the case **of a contractor is not** applicable **to tenancy, and** that **which is** relevant **to tenancy is not** applicable **to** the case of **a contractor.**
+
+At the top of 104a, Rav Pappa makes a structural observation about the chapter. He states: *hani tarti matnita* — these first two *mishnayot* of the chapter apply equally to both forms of agricultural arrangement. Whether we are dealing with *chakhruta*, tenant rental in which the tenant pays a fixed fee, or *kablanut*, sharecropping in which the owner receives a proportional share of the produce, both the principle of following local custom regarding how the field is worked and the rules concerning reduction of rent when conditions change apply in either context. The questions they address are not specific to one form of arrangement.
+
+### Context-Specific Rules
+
+From this point forward, however, Rav Pappa notes, *mikan vailach* — the subsequent *mishnayot* in this chapter begin to differentiate. As he puts it: *de'ita b'kablanut leita b'chachiruta, v'de'ita b'chachiruta leita b'kablanut* — what applies to sharecropping does not necessarily apply to rental, and what applies to rental does not necessarily apply to sharecropping. Each will be explained as the relevant *mishna* is reached, as Rashi notes, and the reader should keep this structural division in mind as the discussion proceeds.
+
+---
+
+## Explicit Naming
+
+### Explicit Stipulation
+
+> **Hebrew/Aramaic:** אִם אָמַר לוֹ חֲכוֹר לִי שְׂדֵה בֵּית הַשְּׁלָחִין זֶה [וְכוּ׳]. וְאַמַּאי? לֵימָא לֵיהּ: שְׁמָא בְּעָלְמָא אֲמַרִי לָךְ, מִי לָא תַּנְיָא: הָאוֹמֵר לַחֲבֵירוֹ ״בֵּית כּוֹר עָפָר אֲנִי מוֹכֵר לָךְ״, אַף עַל פִּי שֶׁאֵין בּוֹ אֶלָּא לֶתֶךְ – הִגִּיעוֹ שֶׁלֹּא מָכַר לוֹ אֶלָּא שְׁמָא, וְהוּא דְּמִתְקְרֵי ״בֵּית כּוֹר״.
+>
+> **Translation:** § The mishna teaches: **If** the cultivator **said to** the landowner explicitly: **Lease me this irrigated field,** or he said: Lease me this field with trees, and the spring dried up or the trees were cut down, he may subtract from the produce he owes as part of his tenancy. The Gemara asks: **But why** is this so? **Let** the owner **say to him: I told you only the name,** i.e., the type, of the field, but this does not mean it would actually be irrigated during the time you are cultivating it. **Isn't it taught** in a *baraita*: In the case of **one who says to another: I am selling you a *beit kor*** field **of dirt, although** the field **contains only a half-*kor*,** once the buyer purchases the dirt **it has come to him,** i.e., he may not retract from the transaction, **as** the seller **sold him** the dirt **only** by **the name,** and he did not mean that its size was precisely a *beit kor*. The *baraita* adds: **And** this **is** the *halakha* only **where** that field **is called** by people **a *beit kor*.**
+
+The *mishna* now presents a case that is specific to the rental context. *Im amar lo chachor li sdei beit hashalchin zeh* — if he says, rent me this irrigated field, and explicitly names it as an irrigated field, then if the irrigation canals dry up, he is entitled to a reduction in rent. The reason is that by explicitly labeling the field as irrigated, it appears that the irrigation was not merely incidental but was part of the substance of what he agreed to pay for.
+
+### Description vs. Contract
+
+The *gemara* raises a challenge: *v'amai — leima lei shema b'alma amina lach* — why should the explicit naming matter? Let the owner say, I used the term "irrigated field" merely as an identifier, not as a contractual commitment. When one says "rent me the corner property" or "rent me the blue house," one is simply identifying which property is meant, not guaranteeing anything about its ongoing condition. Perhaps the same is true here, and the term "irrigated field" was only a convenient description, carrying no legal weight.
+
+### Names Not Binding
+
+> **Hebrew/Aramaic:** ״כַּרְמָא אֲנִי מוֹכֵר לָךְ״, אַף עַל פִּי שֶׁאֵין בּוֹ גְּפָנִים – הִגִּיעוֹ, שֶׁלֹּא מָכַר לוֹ אֶלָּא שְׁמָא, וְהוּא דְּמִתְקְרֵי ״כַּרְמָא״. ״פַּרְדֵּס אֲנִי מוֹכֵר לָךְ״, אַף עַל פִּי שֶׁאֵין בּוֹ רִמּוֹנִים – הִגִּיעוֹ, שֶׁלֹּא מָכַר לוֹ אֶלָּא שְׁמָא, וְהוּא דְּמִתְקְרֵי ״פַּרְדֵּסָא״. אַלְמָא אָמַר לֵיהּ: שְׁמָא בְּעָלְמָא אֲמַרִי לָךְ. הָכִי נָמֵי נֵימָא לֵיהּ: שְׁמָא בְּעָלְמָא אֲמַרִי לָךְ!
+>
+> **Translation:** The *baraita* continues: Similarly, if he said: **I am selling you a vineyard,** then **although it does not have vines,** once he purchases the land **it has come to him, as** the seller **sold him** the field **only** by **the name; and** this **is** the *halakha* only **where it is called a vineyard.** Likewise, if he said: **I am selling you an orchard,** then **even though it does not have pomegranates,** once he purchases the land **it has come to him, as he sold him only** by **the name; and** again this **is** the case only **where it is called an orchard. Apparently,** the seller can **say to him: I told you only the name. So too** here, **let** the seller **say to him: I told you only the name.**
+
+The *gemara* supports this possibility from a *baraita*: *hamocher l'chaveiro beit kor afar ani mocher lach* — if someone says to his friend, I am selling you a field of a *beit kor* in size, and the field turns out to be only half that size — a *letekh* — the buyer cannot demand a price reduction or rescission, because that name was merely descriptive. Similarly, *kerem ani mocher lach* — if one says I am selling you a vineyard, and there are no vines in it, the buyer is nonetheless bound, *shelo machar lo ela shemo*, because that is simply what the place is called. The same applies to a *pardes*: if one sells "an orchard" and there are no pomegranates — the expected produce of a standard *pardes* — the buyer cannot void the sale because the name was purely nominal. In each case, the *gemara* qualifies: *v'hu d'mikarei* — this applies only where the field is genuinely known by that name in the town. If people truly call it "the vineyard," then the seller is doing nothing more than naming it.
+
+### Ravad's Integration
+
+Ravad explains how these cases cohere. In the *baraita* cases, the field's precise boundaries were clear and known to both parties — the buyer could walk the field, measure it, and see it for himself. Under those conditions, a name that does not match reality is understood to be merely a local appellation, not a warranty. The same logic could apply to the *mishna*'s case: the tenant can see the field, including the presence of irrigation canals, and when the owner says "this irrigated field," he might simply be referring to it by its common description. The *gemara* then applies the same qualification: *v'hu d'mikarei beit kor* — only when that is truly what it is called does the name carry no legal weight. The store called the Corner Café that is not on the corner is simply named, not warranted to be on a corner.
+
+### Speaker Identity
+
+> **Hebrew/Aramaic:** אָמַר שְׁמוּאֵל, לָא קַשְׁיָא: הָא דַּאֲמַר לֵיהּ מַחְכִּיר לְחוֹכֵר, הָא דַּאֲמַר לֵיהּ חוֹכֵר לְמַחְכִּיר. אֲמַר לֵיהּ מַחְכִּיר לְחוֹכֵר – שְׁמָא בְּעָלְמָא אֲמַר לֵיהּ. אֲמַר לֵיהּ חוֹכֵר לְמַחְכִּיר – קְפֵידָא.
+>
+> **Translation:** **Shmuel said:** It is **not difficult; this** *baraita* is comparable to a case **where the owner of the land said to the tenant farmer** what he was leasing him, while in **that** mishna **the tenant farmer said to the owner of the land** what he was leasing from him. The reason for the difference is that if **the owner of the land said** the terms **to the tenant farmer,** then he can claim that **he told him only the name,** and the tenant farmer cannot object. But if **the tenant farmer said** the terms **to the owner of the land,** then he was clearly **particular** to receive a field that would be irrigated when he cultivated it.
+
+Shmuel resolves the apparent tension between the *mishna* and the *baraita*. *Lo kashya* — there is no contradiction. *Ha de'amar lei makhir le-choker* — when it is the owner who uses the term "irrigated field" in describing what he is renting out, we treat it as a mere identifier: I am renting you the field known as the irrigated one. *Ha de'amar lei choker le-makhir* — but when it is the tenant who says "rent me this irrigated field," we treat the term as *kefida*, an essential condition: I am renting it specifically because it is irrigated, and that is why I am agreeing to these terms. The same phrase thus carries different legal weight depending on who utters it.
+
+### Ravina's Override
+
+> **Hebrew/Aramaic:** רָבִינָא אָמַר: אִידֵּי וְאִידִי, דַּאֲמַר לֵיהּ מַחְכִּיר לְחוֹכֵר. מִדְּקָאָמַר ״זֶה״, מִכְּלַל דְּקָאֵי בְּגַוַּהּ עָסְקִינַן. בֵּית הַשְּׁלָחִין לְמָה לֵיהּ לְמֵימַר? דְּקָאָמַר לֵיהּ: בֵּית הַשְּׁלָחִין כִּדְקָיְימָא הַשְׁתָּא.
+>
+> **Translation:** **Ravina said:** Both **this** *baraita* **and that** mishna are referring to a case **where the owner of the land told the tenant farmer** what he was leasing him, as implied by the mishna, but **since** the owner **said: This** irrigated field, **by inference we are dealing with** one **who is standing inside it. Why,** then, **does** the owner **need to state** the fact that it is **an irrigated field?** It is obvious simply from looking at it that it is irrigated. Rather, the owner must have **said to him** by way of emphasis that he is providing **an irrigated** field **as it currently stands.**
+
+Ravina disagrees with Shmuel's framework. He says: *idi va'idi de'amar lei makhir le-choker* — it does not matter who says it. Tosafot notes the alternative reading that both cases could equally involve the tenant. The operative point is rather this: if you are in the field itself and pointing at it, you simply say "this field." If you are standing there and you say "this irrigated field," you are adding something beyond the mere identifier. *Beit hashalchin lama li le-meimar* — why would you need to add the word "irrigated" at all if you are already standing there pointing at it? The only reason to add it is to make clear that the irrigation is essential to the transaction: *de'amar lei beit hashalchin ke-dekai hashta* — I am renting it as it stands right now, with these irrigation canals. Once you say that — regardless of who is speaking — the irrigation has become an integral term of the contract, and its loss entitles the tenant to a reduction.
+
+---
+
+## Sharecrop Nonwork
+
+### Estimation Principle
+
+> **Hebrew/Aramaic:** מַתְנִי׳ הַמְקַבֵּל שָׂדֶה מֵחֲבֵירוֹ וְהוֹבִירָהּ – שָׁמִין אוֹתָהּ כַּמָּה רְאוּיָה לַעֲשׂוֹת, וְנוֹתֵן לוֹ. שֶׁכָּךְ כּוֹתֵב לוֹ: ״אִם אוֹבִיר וְלָא אֶעֱבֵיד אֲשַׁלֵּם בְּמֵיטְבָא״.
+>
+> **Translation:** MISHNA: With regard to **one who receives a field from another** as a contractor **and** then **lets it lie fallow** and does not work the land at all, the court **appraises it** by evaluating **how much it was able to produce** if cultivated, **and he gives** his share of this amount **to** the owner. The reason is **that this** is what a cultivator **writes to** the owner in a standard contract: **If I let** the field **lie fallow and do not cultivate** it, **I will pay with best**-quality produce.
+
+The *mishna* now turns to a case specific to *kablanut*, sharecropping. *Hamikabel sadeh me-chavero ve-hovira* — a sharecropper who accepted a field and left it fallow. This question would not arise in a simple rental, where the owner receives a fixed fee regardless of what the tenant does or does not plant. But in sharecropping, the owner's payment consists of a portion of the produce. If the sharecropper does nothing, there is no produce. What then is the owner's remedy? The *mishna* rules: *shaminu otah kamah ra'uyah la'asot* — we estimate how much the field would have produced under normal conditions, and the sharecropper must pay the owner the appropriate share of that estimated produce. He owes the owner what the owner would have received had the field been properly worked. The reason, says the *mishna*, is *shekakh kotev lo* — because this is what is written in the agreement: *im ovir velo a'avid ashalem bemetava* — if I let it lie fallow and do not work it, I will pay with the best produce.
+
+### Leshon Hedyot Doctrine
+
+> **Hebrew/Aramaic:** גְּמָ׳ רַבִּי מֵאִיר הָיָה דּוֹרֵשׁ לְשׁוֹן הֶדְיוֹט. דְּתַנְיָא, רַבִּי מֵאִיר אוֹמֵר: ״אִם אוֹבִיר וְלָא אֶעֱבֵיד אֲשַׁלֵּם בְּמֵיטְבָא״.
+>
+> **Translation:** GEMARA: **Rabbi Meir would expound common language** used in legal documents written by ordinary Jews to deduce halakhic conclusions. Although these formulations were not prescribed by the Sages, one can nevertheless infer *halakhot* from them if they are used in legal documents. **As it is taught** in a *baraita* that presents a similar case to the mishna: **Rabbi Meir says** he is liable to pay, as the document states: **If I let** the field **lie fallow and do not cultivate** it, **I will pay with best**-quality produce.
+
+The *gemara* then introduces an important principle: *Rabbi Meir hayah doresh leshon hedyot* — Rabbi Meir would give legal weight to vernacular language found in common documents, language not formally instituted by the *chachamim* but standard in practice. The *baraita* confirms that the clause *im ovir velo avid ashalem bemetava* reflects Rabbi Meir's position, and thus our *mishna* follows him. The question this raises is: if the language is literally written in the contract document, *shtar*, why does one need the principle of *doresh leshon hedyot* at all? Something written in a *shtar* is simply binding. The novelty of the doctrine must lie elsewhere.
+
+### Rashi/Tosafot Dispute
+
+Two major explanations emerge from the *Rishonim*. Rashi explains: *shehirgilu hedyotot lichtov shelo ke-takanat chachamim haya doresh ha-lashon lifsok ha-din acharav* — even though this formulation was not established by the rabbis through a formal institution, Rabbi Meir would give it legal weight and rule accordingly. One might otherwise argue that the clause is an *asmachta* — an exaggerated undertaking that the person never genuinely intended to honor — and therefore not binding. Rabbi Meir treats it as binding nonetheless, precisely because it is standard usage in such documents. On this reading, *doresh leshon hedyot* means: even where technical objections might undermine the clause's enforceability, Rabbi Meir enforces it because it is a recognized formula.
+
+Tosafot objects to the *asmachta* framing. The clause "I will pay what the field would have produced" is not an exaggerated promise — it is a perfectly reasonable undertaking to pay the owner exactly what he was entitled to expect. There is nothing excessive about it. For Tosafot, the innovation of *doresh leshon hedyot* is different: since the clause was standard in these documents and regularly included, Rabbi Meir would rule as though it were present even in a *shtar* that omitted it. Just as the *gemara* elsewhere treats *achrayut* as a *ta'ut sofer* — an omission assumed to be a scribal error rather than an intentional exclusion — Rabbi Meir treats this clause as implicitly present whenever such agreements are made, whether or not it was explicitly written. The word *doresh* is fitting: just as one derives *halakhot* from a *pasuk* beyond its literal surface, Rabbi Meir derives enforceable obligations from standard documentary practice even in the absence of explicit text.
+
+### Five Tannaim
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה הָיָה דּוֹרֵשׁ לְשׁוֹן הֶדְיוֹט. דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: אָדָם מֵבִיא קׇרְבַּן עָשִׁיר עַל אִשְׁתּוֹ, וְכֵן כׇּל קׇרְבָּן וְקׇרְבָּן שֶׁהִיא חַיֶּיבֶת, שֶׁכָּךְ כּוֹתֵב לָהּ אַחְרָיוּת: דְּאִית לִיךְ עֲלַי מִן קַדְמַת דְּנָא.
+>
+> **Translation:** Likewise, **Rabbi Yehuda would** also **expound common language, as it is taught** in a *baraita*: **Rabbi Yehuda says:** In a case where a woman who has given birth is commanded to bring the offering of a childbearing woman and her husband is sufficiently wealthy, **a person brings the offering of the rich on behalf of his wife.** This is so even if his wife does not possess money of her own and perhaps should have been considered poor. **Similarly,** he may bring **every offering that she is obligated** to bring, such as a sin offering or guilt offering. He pays for all these offerings **because this** is what **he writes to her** in her marriage contract: I accept **upon myself** to repay you for all **obligations that you have,** even those **from beforehand.** Consequently, he must fund all of her offerings.
+
+The *gemara* proceeds to list five *Tannaim* who similarly employed the principle of *doresh leshon hedyot*, each in a distinct legal context.
+
+### Ketubah Korbanot
+
+Rabbi Yehuda similarly applied *doresh leshon hedyot*. A *baraita* teaches: *omer adam mevi korban ashir al ishto* — a husband brings a wealthy person's *korban* on behalf of his wife. Certain *korbanot* are scaled to the wealth of the obligated party — a wealthy person brings a sheep, a poor person brings a bird. When a wife incurs such an obligation, the *korban* is assessed according to the husband's wealth, and moreover, the husband is obligated to fund every *korban* she becomes liable for. Why? *Shekakh kotev lah* — because the standard *ketubah* language includes the formula: *achrayut de-isli alah min kadmas dena* — I accept upon myself obligations that you had before this. Tosafot clarifies that this applies not only to obligations she incurs during the marriage but even to those imposed on her before the marriage. Since this formula appears in the *ketubah*, Rabbi Yehuda reads it as generating a genuine obligation. On Tosafot's reading of *doresh leshon hedyot*, this means the obligation is treated as present even in cases where the *ketubah* did not happen to include the clause — because it was standard.
+
+### Hillel/Kiddushin
+
+> **Hebrew/Aramaic:** הִלֵּל הַזָּקֵן הָיָה דּוֹרֵשׁ לְשׁוֹן הֶדְיוֹט, דְּתַנְיָא: אַנְשֵׁי אֲלֶכְּסַנְדְּרִיָּא הָיוּ מְקַדְּשִׁין אֶת נְשׁוֹתֵיהֶם, וּבִשְׁעַת כְּנִיסָתָן לַחוּפָּה בָּאִין אֲחֵרִים וְחוֹטְפִים אוֹתָם מֵהֶן, וּבִקְּשׁוּ חֲכָמִים לַעֲשׂוֹת בְּנֵיהֶם מַמְזֵרִים.
+>
+> **Translation:** Similarly, **Hillel the Elder would expound common language** as well, **as it is taught** in a *baraita*: **The inhabitants of Alexandria would betroth their wives** a significant amount of time before the wedding, as was customary in those days, **and at the time of their entry to the wedding canopy, others** would **come and snatch** the women **from their** husbands. **The Sages** consequently **sought to establish the children** of these women as ***mamzerim*.** This is because with regard to sexual intercourse with other men, a betrothed woman has the status of a married woman. Consequently, if she is taken by another man, her children fathered by that man are *mamzerim*, just like children of a married woman who were fathered by a man other than her husband.
+
+The most striking application belongs to Hillel the Elder. The *baraita* reports: *anshei Alexandriah hayu mekaddshin nesheihem* — the men of Alexandria would perform *kiddushin* with their wives, and then when the time came for the *chuppah*, sometimes other men would seize the women before the *chuppah* took place — whether by force or seduction. Children were subsequently born from those unions. *Bikshu chachamim la'asot b'neihem mamzeirim* — reasonably, the *chachamim* considered declaring these children *mamzerim*, since their mothers had been *mekudeshet* to other men at the time of conception.
+
+> **Hebrew/Aramaic:** אָמַר לָהֶן הִלֵּל הַזָּקֵן: הָבִיאוּ לִי כְּתוּבַּת אִמְּכֶם. הֵבִיאוּ לוֹ כְּתוּבַּת אִמָּן, וּמָצָא שֶׁכָּתוּב בָּהֶן: לִכְשֶׁתִּכָּנְסִי לַחוּפָּה הֱוַי לִי לְאִינְתּוּ. וְלֹא עָשׂוּ בְּנֵיהֶם מַמְזֵרִים.
+>
+> **Translation:** **Hillel the Elder said to** the children who came before him for a ruling on their status: **Bring me your mother's marriage contract** for examination. **They brought him their mother's marriage contract, and he found that** the following formulation **was written in it: When you will enter the wedding canopy, be for me a wife.** This shows that the marriage would not take effect at the time of her betrothal, but only after she would enter the wedding canopy. Consequently, the marriage did not occur at all, as she never entered the wedding canopy, **and** therefore these women **did not cause their children** to be ***mamzerim*** by engaging in intercourse with the other man.
+
+Hillel the Elder said: bring me your mothers' *ketubot*. They brought them. He found written in the *ketubot*: *le-khshe-tikhnasi la-chuppah harei li le-intu* — when I bring you under the *chuppah*, you will be my wife. Hillel read this not as a poetic expression of anticipation but as a formal *tenai*, a legal condition: the *kiddushin* would take effect retroactively only upon the actual consummation of the *chuppah*. Since the *chuppah* never occurred in these cases, the *kiddushin* itself never took effect. *Ve-lo asu b'neihem mamzeirim* — the children were not *mamzerim*. This is a remarkable case of *doresh leshon hedyot*: language that reads as flowery or aspirational, and that almost certainly does not satisfy the technical requirements for a formally valid *tenai*, was given full halakhic weight in order to prevent the tragedy of *mamzerut*.
+
+### Collateral Limits
+
+> **Hebrew/Aramaic:** רַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה הָיָה דּוֹרֵשׁ לְשׁוֹן הֶדְיוֹט. דְּתַנְיָא, רַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה אוֹמֵר: הַמַּלְוֶה אֶת חֲבֵירוֹ לֹא יְמַשְׁכְּנֶנּוּ יוֹתֵר מֵחוֹבוֹ, שֶׁכָּךְ כּוֹתֵב לוֹ תַּשְׁלוּמְתָּא דְּאִית לְךָ עָלַי כֹּל קֳבֵל דֵּיכִי.
+>
+> **Translation:** The Gemara adds: **Rabbi Yehoshua ben Korḥa would** also **expound common language. As it is taught** in a *baraita*: **Rabbi Yehoshua ben Korḥa says:** One **who lends** money to **another may not take more collateral from him than** the value of **his debt, as this** is what the debtor **writes to** the creditor if the creditor temporarily returns a deposit for the debtor's use: **The payment** to **which you have** a right, which it is **upon me** to pay, **corresponds to the entire** value of **this** item, indicating that the item cannot be greater in value than the debt itself.
+
+Rabbi Yehoshua ben Korcha likewise employed *doresh leshon hedyot*. A *baraita* states: *hamalveh chavero lo yamshichennu yoter mi-chovo* — a creditor may not take collateral whose value exceeds the loan. If I lend you 100 zuz and the only collateral you have is worth 1000 zuz, you cannot be required to pledge the full item. The reason derives from standard documentary practice. When collateral is temporarily returned to the borrower and he later wishes to reclaim it formally, a document is written stating: *tashlumsa de-is lach alai kol k'veil dikhi* — the debt you hold against me corresponds to this collateral. Since the document will thus equate the collateral to the debt, if the collateral were worth more than the loan, this formula would enable the creditor to ultimately collect far more than was owed. Since we treat this standard language seriously — *doresh leshon hedyot* — we must ensure that the collateral never exceeds the loan amount in the first place.
+
+> **Hebrew/Aramaic:** טַעְמָא דִּכְתַב לֵיהּ הָכִי, הָא אִי לָא כְּתַב לֵיהּ הָכִי – לָא קַנְיֵהּ. וְהָא אָמַר רַבִּי יוֹחָנָן: מִשְׁכְּנוֹ וְהֵשִׁיב לוֹ הַמַּשְׁכּוֹן, וָמֵת – שׁוֹמְטוֹ מֵעַל גַּבֵּי בָּנָיו.
+>
+> **Translation:** The Gemara infers: **The reason** the creditor acquires the collateral is **that he wrote this to him. But if** the creditor **did not write this to** the debtor, would the creditor **not acquire** the collateral? **But doesn't Rabbi Yoḥanan say:** If a creditor **took collateral** from the debtor **and returned the collateral to him and** then the debtor **died,** the creditor **removes** the collateral **from** the debtor's **children.** The reason for this is that although movable property of orphans is not acquired by their father's creditor, the collateral is considered to belong to the creditor, and he can collect the debt from it.
+
+The *gemara* then asks: what is the actual legal work this document performs? Does the creditor not already retain rights to collateral even after returning it to the borrower temporarily? Rabbi Yochanan had already ruled: if a creditor takes collateral, returns it, and the debtor then dies, the creditor can still collect that item from the orphans — even though ordinarily one may only collect a debt from the orphans' landed estate, not from their chattel. The reason is that since the item was originally pledged as collateral, the creditor maintains his lien on it as though it were real property. So the document is not needed to secure the creditor's right. What then is its purpose?
+
+> **Hebrew/Aramaic:** אַהֲנַי כְּתִיבָה לְגֵירָעוֹן.
+>
+> **Translation:** The Gemara answers: The **writing** of this statement in the document **is effective for depreciation.** If the collateral depreciates in value, the creditor may claim the remainder of the debt from the debtor's property.
+
+The *gemara* answers: *hanei k'sive le-gira'on* — the document is written for the question of depreciation. Rashi understands this to mean that if the collateral loses value while in the borrower's hands, the document establishes that the creditor is entitled to full repayment of the loan regardless. The Sephardic *Rishonim*, however, read the language in the opposite direction: precisely because the document declares the collateral equal to the debt, it limits the creditor's rights to exactly the value of the collateral. If the collateral depreciates, the creditor cannot claim more than what it is now worth. This reading fits the documentary language more naturally: by asserting equivalence between debt and collateral, the document caps the creditor's recovery.
+
+### Dowry Doubling
+
+> **Hebrew/Aramaic:** רַבִּי יוֹסֵי הָיָה דּוֹרֵשׁ לְשׁוֹן הֶדְיוֹט. דְּתַנְיָא, רַבִּי יוֹסֵי אוֹמֵר: מָקוֹם שֶׁנָּהֲגוּ לַעֲשׂוֹת כְּתוּבָּה מִלְוָה – גּוֹבֶה מִלְוָה. לִכְפּוֹל – גּוֹבֶה מֶחֱצָה.
+>
+> **Translation:** § The Gemara continues: **Rabbi Yosei would** also **expound common language, as it is taught** in a *baraita* that **Rabbi Yosei says: In a location where they were accustomed to formulate** the terms of **a marriage contract** as one would formulate the terms of **a loan,** i.e., the precise value of her dowry is written in the marriage contract, then upon the termination of the marriage due to divorce or the husband's death, the wife **collects** the sum of her dowry as a creditor would collect payment of **a loan.** In other words, she receives the entire sum recorded as her dowry. Conversely, in a place where the custom is **to double** the written sum of the dowry in the marriage contract to honor the bride, so that it should appear as though her father is providing her husband with a considerable dowry, she **collects** only **half** of the sum written in the marriage contract.
+
+Rabbi Yossi similarly applied the principle. The *baraita* teaches: *makom she-nahagu la'asot k'tuvah ke-milveh goveh ke-milveh* — in a place where the custom was to write the *ketubah* as a standard debt instrument, one collects as one would from any loan. What is at stake is the *nichsei tzon barzel*, the dowry a bride brings into the marriage. The standard practice was to record the value of what the bride contributed, and if the marriage ended — through divorce or the husband's death — she was entitled to recover that amount from the marital estate. If the *ketubah* was written in a straightforward manner, proportionate to the actual value contributed, then both obligations were taken literally: she could collect what was written, and the husband or his heirs could demand contribution of what was written.
+
+However, in places where the practice was *likhfol* — to write double the actual amount contributed — *goveh mechtza*, only half the written sum was collectable in either direction. If the bride's family brought in goods worth 500 but the *ketubah* recorded 1000, neither side could enforce the doubled figure literally. The bride could not extract 1000 from the estate; the husband could not demand 1000 from the father. The operative reality, established by common practice, was that the figure was understood to be doubled. This is *doresh leshon hedyot* in a subtler sense: even though a formal legal document says 1000, if standard practice dictates that such documents always inflate the figure, we read it according to that practice and hold each party to only the actual amount.
+
+### Maremar/Kinyan
+
+> **Hebrew/Aramaic:** נְהַרְבְּלָאֵי גָּבוּ תִּילְתָּא, מָרִימָר מַגְבֵּי נָמֵי שְׁבָחָא.
+>
+> **Translation:** The Gemara relates: The Sages of **Neharbela collected,** i.e., allowed the wife to collect, **one-third** of the stated sum, as the custom in their location was to write three times the actual amount of the dowry in the marriage contract. **Mareimar** would allow the wife to **collect even the added value** of those sums that the father of the bride had written in the marriage contract in honor of his daughter.
+
+A local variant: in the town of Naharbalai, *amri Naharbalai gavu tilsha* — the practice was apparently to write three times the actual amount, and accordingly only a third of the written sum was collectible. Maremar, however, ruled in practice that the full written amount was collectible, declining to apply the discount. Ravina challenged Maremar: *ve-hatanya likhfol goveh mechtza* — but the *baraita* explicitly states that when the practice is to double, one collects only half. Here the practice is to inflate, so why collect the full written amount?
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבִינָא לְמָרִימָר, וְהָתַנְיָא: לִכְפּוֹל גּוֹבֶה מֶחֱצָה! לָא קַשְׁיָא: הָא (דִּקְנֵי) [דִּקְנוֹ] מִינֵּיהּ, הָא דְּלָא (קָנֵי) [קְנוֹ] מִינֵּיהּ.
+>
+> **Translation:** **Ravina said to Mareimar: But isn't it taught** in the *baraita* that in a location where the custom is **to** record **double** the amount, she **collects** only **half?** The Gemara answers: This is **not difficult;** in **this** case, where Mareimar allowed the wife to collect the full sum, the husband **performed** an act of **acquisition** for the entire written amount **with** the father of the bride; whereas in **that** case, where the *baraita* rules that she collects only a portion of the sum written for the dowry, the husband **did not perform** an act of **acquisition** for the entire written amount **with** the father of the bride. Therefore, the wife would collect the sum of her dowry only in accordance with the regular custom.
+
+Maremar replied: *lo kashya — ha de-kani minei, ha de-lo kani minei* — the distinction turns on whether a *kinyan* was performed. If the groom and the bride's father performed a formal *kinyan sudar* — the handkerchief-exchange — at the time the *ketubah* was signed, this *kinyan* creates a genuine and independent legal obligation for the full amount written. It is no longer a mere recording of what was brought in; it is a formal assumption of debt enforceable in full. But without a *kinyan*, the *ketubah* entry is understood simply as a record of what was actually contributed, and since everyone knows the practice is to write double or triple, the real amount is half or a third of what is written.
+
+> **Hebrew/Aramaic:** רָבִינָא מַשְׁבַּח וְכָתֵיב לִבְרַתֵּיהּ. אֲמַרוּ לֵיהּ: נִקְנֵי מִינֵּיהּ דְּמָר. אֲמַר לְהוּ: אִי מִקְנֵא – לָא מִיכְפַּל, אִי מִיכְפַּל – לָא מִיקְנֵא.
+>
+> **Translation:** The Gemara relates: **Ravina wrote an enhancement** of the value of the dowry **for his daughter** in her marriage contract, in keeping with the accepted custom. The groom's family **said to** Ravina: **Let us perform** an act of **acquisition with the Master,** so that he would be required to give that entire sum as the dowry. Ravina **said to them: If** you wish to **perform** an act of **acquisition, I** will **not double** the sum of the dowry, but will record the actual sum I intend to provide; **if** you prefer that I record **double** the sum of the dowry in the marriage contract, **I** will **not** allow you to **perform** an act of **acquisition.**
+
+Ravina himself would write an inflated amount in his daughter's *ketubah*, as was the custom. When asked whether a *kinyan* should be performed, he responded: *ei makni la mikhpal, ei mikhpal la makni* — if you want a *kinyan*, I will not write double; if I write double, I will not do a *kinyan*. This neatly captures the underlying logic: without a *kinyan*, the entry merely records reality, so inflating it simply means the actual obligation is half; with a *kinyan*, the written amount becomes the binding obligation, so it must reflect the actual intended sum.
+
+This also explains our own practice. Our *ketubot* record the dowry — *bimani delivusha*, *beshimushei direh*, *beshimushei dearsa*, gold, silver, jewelry, bedding — and assign it a stated value in *zkukim* of silver. In medieval Ashkenaz, 200 *zuz* afforded the woman very little protection, so the community instituted the practice of assigning the dowry a nominal value of 100 *zkukim* — worth far more — plus an additional 100 *zkukim* as *tosefet*, yielding 200 *zkukim* total. Unlike the doubling practice described in the *baraita*, this was intended as a genuine obligation, not a nominal inflation. And since a *kinyan* is performed on the *ketubah* in our practice, the full written amount is binding.
+
+---
+
+## Dying Declarations
+
+### Deathbed Instruction
+
+> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דַּאֲמַר לְהוּ: הַבוּ לָהּ אַרְבַּע מְאָה זוּזֵי לִבְרַתִּי בִּכְתוּבְּתַהּ. שְׁלַח רַב אַחָא בְּרֵיהּ דְּרַב אַוְיָא לְקַמֵּיהּ דְּרַב אָשֵׁי: אַרְבַּע מְאָה דְּאִינּוּן תַּמְנֵי מְאָה, אוֹ אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן מָאתַן? אָמַר רַב אָשֵׁי: חָזֵינַן, אִי אֲמַר ״הַבוּ לַהּ״ – אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן תַּמְנֵי מְאָה, אִי אֲמַר ״כְּתוֹבוּ לַהּ״ – אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן מָאתַן.
+>
+> **Translation:** The Gemara cites a related incident: There was **a certain man who said to** his inheritors before his death: **Give four hundred dinars to my daughter in her marriage contract. Rav Aḥa, son of Rav Avya, sent** the following question to be asked **before Rav Ashi:** What was that man's intention? Did he mean an actual dowry of **four hundred** dinars, **which are** written as **eight hundred, or four hundred dinars** written in the marriage contract, **which are** actually a dowry of **two hundred** dinars? **Rav Ashi said: We examine** the matter. **If he said: Give her,** then he meant to give her **four hundred dinars, which are** written as **eight hundred.** But **if he said: Write for her,** then he meant to write **four hundred dinars, which are two hundred** in practice.
+
+The *gemara* presents the following case: a man on his deathbed said, *havu la arba me'ah zuzei le-varti bi-ksuvata* — give 400 *zuz* from my estate for my daughter for her *ketubah*. The question is sent to Rav Ashi: does he mean that 400 *zuz* should actually be given to her — in which case, since the standard practice is to write double, the *ketubah* would record 800 — or does he mean that 400 should be written in her *ketubah*, in which case the actual contribution is only 200?
+
+### Give vs. Write
+
+Rav Ashi proposes a linguistic distinction. *Chazinan* — we examine what he said. *Ei amar havu la arba me'ah zuzei* — if he said "give her 400 *zuz*," then *arba me'ah de-inun tamni me'ah* — he means actually give her 400, and the *ketubah* will record 800. The word "give" (*havu*) refers to the actual transfer. But *ei amar kesavu la arba me'ah* — if he said "write for her 400 in her *ketubah*," then *arba me'ah zuzei de-inun masan* — he means the *ketubah* document should read 400, which implies the actual contribution is 200.
+
+### Reject Preposition
+
+> **Hebrew/Aramaic:** אִיכָּא דְּאָמְרִי, אָמַר רַב אָשֵׁי: חָזֵינַן אִי אֲמַר ״לִכְתוּבְּתַהּ״ – אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן תַּמְנֵי מְאָה, וְאִי אֲמַר ״בִּכְתוּבְּתַהּ״ – אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן מָאתַן.
+>
+> **Translation:** **There are** those **who say** a different version of Rav Ashi's ruling. **Rav Ashi said: We examine** the matter. **If he said: For her marriage contract [*likhtubatah*],** he meant **four hundred dinars, which are** written as **eight hundred,** because he indicated that this is the sum he wants to give for her dowry. **But if he said: In her marriage contract [*bikhtubatah*],** he was clearly referring to the written amount, and it is assumed that he meant to write **four hundred dinars, which are two hundred** in practice.
+
+The *gemara* then presents a second version of Rav Ashi's ruling. Perhaps the distinction is not between "give" and "write" but between two prepositions: *liksuvata* — "for her *ketubah*" — versus *biksuvata* — "in her *ketubah*." The former, "for her *ketubah*," would mean: give her 400 as a real contribution designated for the *ketubah*, so the *ketubah* records 800. The latter, "in her *ketubah*," would mean: write 400 in the document, so the actual contribution is 200. However, the *gemara* rejects this second version: *ve-lo hi* — this is not so. Ordinary people do not distinguish between *beit* and *lamed* with such legal precision, and it would be unreliable to hang a halakhic ruling on a preposition that most speakers would use interchangeably.
+
+### Ketubah Rule
+
+> **Hebrew/Aramaic:** וְלָא הִיא, לָא שְׁנָא דְּאָמַר ״לִכְתוּבְּתַהּ״ וְלָא שְׁנָא דְּאָמַר ״בִּכְתוּבְּתַהּ״ – אַרְבַּע מְאָה זוּזֵי דְּאִינּוּן מָאתַן, עַד דְּאָמַר ״הַבוּ לַהּ״ סְתָמָא.
+>
+> **Translation:** The Gemara comments: **And** that **is not so.** There **is no difference whether he said: For her marriage contract, and** there **is no difference whether he said: In her marriage contract.** In either case her dowry is written as **four hundred dinars, which are two hundred** in practice, **unless he** simply **said: Give her, without specification,** i.e., without mentioning the marriage contract. In that case the full sum is given as a dowry.
+
+The *gemara* therefore establishes a single unified rule: *lo shena de-amar liksuvata lo shena de-amar biksuvata* — whether he says "for her *ketubah*" or "in her *ketubah*," the moment he mentions the *ketubah* at all, we interpret him as referring to the documentary amount. The *ketubah* is an instrument that records double the actual contribution, so if he said 400 with reference to the *ketubah*, he meant: write 400, and the real contribution is 200. *Ad de-amar havu la stama* — only if he says simply "give her," without any mention of the *ketubah*, do we take him at face value and conclude that he intends her actually to receive that amount.
+
+---
+
+## Crop Change Cases
+
+### Proportional Deduction
+
+> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּקַבֵּל אַרְעָא מֵחַבְרֵיהּ, אֲמַר: אִי מוֹבַרְנָא לַהּ – יָהֵיבְנָא לָךְ אַלְפָּא זוּזֵי. אוֹבַיר תִּילְתָּא. אָמְרִי נְהַרְדָּעֵי: דִּינָא הוּא דְּיָהֵיב לֵיהּ תְּלָת מְאָה וּתְלָתִין וּתְלָתָא וְתִילְתָּא. רָבָא אָמַר: אַסְמַכְתָּא הִיא, וְאַסְמַכְתָּא לָא קָנְיָא.
+>
+> **Translation:** § The Gemara relates another incident: There was **a certain man who received land from another** to cultivate. **He said: If I** fail to work the land and instead **let it lie fallow, I will give you one thousand dinars. He let one-third** of it **lie fallow.** The Sages **of Neharde'a said: The *halakha*** is **that he gives him 333⅓** dinars, one-third of the stipulated amount, as compensation for neglecting one-third of the field. **Rava said:** This kind of agreement **is a transaction with inconclusive consent [*asmakhta*]. And** since **an *asmakhta* does not effect acquisition,** he need not pay.
+
+Returning to the question of a sharecropper who partially lets a field lie fallow: if he pledged a thousand *zuz* as his penalty for leaving the field entirely unworked, and he in fact worked two-thirds of it while leaving one-third fallow, *amri Nehardai* — Nehardaei ruled that he owes 333 and a third *zuz* — one-third of the stated penalty, proportional to the portion left fallow.
+
+### Asmachta Doctrine
+
+Rava disagrees: *asmachta hi va-asmachta lo kanya* — this pledge is an *asmachta*, an exaggerated undertaking made without genuine intention to be bound, and as such it is not enforceable. The pledge of a thousand *zuz* for a field whose best annual crop might have been worth 200 is wildly disproportionate. One who makes such a promise is exaggerating — *guzma b'alma* — and does not seriously intend to pay it.
+
+### Excessive Pledge
+
+> **Hebrew/Aramaic:** וּלְרָבָא, מַאי שְׁנָא מֵהָא דִּתְנַן: ״אִם אוֹבִיר וְלָא אֶעֱבֵיד אֲשַׁלֵּם בְּמֵיטְבָא״? הָתָם לָא קָא גָזֵים, הָכָא כֵּיוָן דְּקָאָמַר מִילְּתָא יַתִּירְתָּא – גּוּזְמָא בְּעָלְמָא הוּא דְּקָגָזֵים.
+>
+> **Translation:** The Gemara asks: **And according to Rava,** in **what** way **is** it **different from that which we learned** in the mishna concerning one who wrote: **If I let** the field **lie fallow and do not cultivate** it, **I will pay with best**-quality produce? The Gemara answers: **There he did not exaggerate,** but simply said he will pay for the owner's losses from best-quality produce; whereas **here, since he said something extra,** i.e., he promised to give an excessively large sum of money, **he is merely exaggerating.** It is therefore not viewed as an actual monetary obligation but an *asmakhta*.
+
+The *gemara* then asks Rava: how does this differ from our *mishna*, which enforces the clause *im ovir velo avid ashalem bemetava* — if I let it lie fallow I will pay with quality produce? The answer: *hatam lo ka-gozim* — there the sharecropper is not exaggerating. He is undertaking to pay precisely what the owner would have earned had the field been properly worked. That is a reasonable obligation proportionate to the owner's legitimate expectation, and it reflects a serious assumption of liability. Here, promising a thousand *zuz* for a field that could never have yielded anything close to that is transparently hyperbolic and cannot be treated as a genuine commitment. The sharecropper would of course still owe the normal amount — what the field would actually have produced — either because it is written in the *shtar* or because we apply *doresh leshon hedyot* to standard clauses. But the inflated pledge of a thousand *zuz* carries no legal weight.
+
+### Sesame/Wheat Case
+
+> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּקַבֵּיל אַרְעָא לְשׁוּמְשְׁמֵי, זַרְעַהּ חִיטֵּי. עֲבַדָא חִיטֵּי כְּשׁוּמְשְׁמֵי. סְבַר רַב כָּהֲנָא לְמֵימַר מְנַכֵּי לֵיהּ כַּחְשָׁא דְאַרְעָא.
+>
+> **Translation:** § The Gemara relates: There was **a certain man** acting as a sharecropper **who received land for** planting **sesame,** which typically weakens the land but yields larger short-term profits, but **he planted it** with **wheat** instead. That year, the field **produced wheat** at a value **similar to** that of **sesame. Rav Kahana thought to say** that the owner must **deduct** the usual amount of **the deterioration of the land** from planting sesame **from** his own share, since by planting wheat the sharecropper had spared the owner the damage to his field, while the owner had received the same profit.
+
+A further case: a sharecropper accepted a field under an agreement to plant sesame. Sesame is a more lucrative cash crop but depletes the land more heavily than wheat. Without permission, he planted wheat instead. It turned out to be a strong year for wheat, and the wheat yield was worth as much as the sesame would have been. The owner therefore received the same monetary share he would have received under the original agreement, but the land was not depleted to the degree it would have been under a sesame crop.
+
+### Land Depletion
+
+Rav Kahana proposed: *menakei lei k'chisha d'ara* — the owner should deduct the value of the land depletion he was spared. Since the owner received the same income but avoided the soil degradation that sesame would have caused, he effectively gained a benefit not contemplated in the agreement, and that benefit should be returned to the sharecropper by way of a deduction.
+
+### Owner Preference
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אָשֵׁי לְרַב כָּהֲנָא, אָמְרִי אִינָשֵׁי: (כָּחֲשָׁא) [תִּכְחוֹשׁ] אַרְעָא, וְלָא לִכְחוֹשׁ מָרַהּ.
+>
+> **Translation:** **Rav Ashi said to Rav Kahana: People say** the following proverb: Let **the land be weakened, but** do **not weaken its owner.** People prefer a quick profit and discount the damage to their land. Therefore, the sharecropper is not entitled to a larger share of the yield for having spared the owner from the weakening of his field.
+
+Rav Ashi rejects this: *amei inshi k'chisha d'ara velo k'chish marei* — people say, better the land should be depleted than the owner. The owner agreed to plant sesame precisely because the higher returns from sesame were worth the associated land depletion. He was willing to absorb the soil degradation in exchange for the greater profit. He never agreed to trade profit for soil preservation. The agreement was never: "I will accept a lower return if the land is better maintained." Since the owner's intent was to secure a particular level of profit regardless of what happened to the land, he is not obligated to return any portion of his share merely because the land happened to hold up better.
+
+### Windfall Profit
+
+> **Hebrew/Aramaic:** הָהוּא גַּבְרָא דְּקַבֵּיל אַרְעָא לְשׁוּמְשְׁמֵי, זַרְעָא חִיטֵּי, עֲבַדָא חִיטֵּי טְפֵי מִן שׁוּמְשְׁמֵי. סְבַר רָבִינָא לְמֵימַר יָהֵיב לֵיהּ שְׁבָחָא דְּבֵינֵי בֵּינֵי. אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא: אַטּוּ הוּא אַשְׁבַּח, אַרְעָא לָא אַשְׁבַּחָה?!
+>
+> **Translation:** The Gemara relates another incident: There was **a certain man who received land for** planting **sesame** and **he planted** it with **wheat.** Ultimately, it **produced more wheat than** the usual value of **sesame. Ravina thought to say** that the owner must **give** the cultivator **the added value** that is the difference **between this,** the actual value of the wheat, **and that,** the expected value of the sesame. **Rav Aḥa of Difti said to Ravina: Is that to say** that the cultivator alone **enhanced** its value, but **the land did not** help to **enhance** it? Rather, they should divide the extra sum between them.
+
+A third variation: again, a sharecropper contracted to plant sesame but planted wheat instead, and in this case the wheat was actually more profitable than the sesame would have been. The total crop value exceeded what the sesame would have yielded. Ravina initially reasoned: *yahiv lei shivcha d'veini beini* — the profit above what the sesame would have generated was entirely the sharecropper's windfall. The owner bargained only for his proportional share of a sesame crop's value. What the sharecropper's unilateral decision to plant wheat earned above that baseline should belong entirely to the sharecropper.
+
+### Ravina/Windfall
+
+This position, then, would mean the owner collects only his share of the equivalent sesame value, while the sharecropper keeps everything above that.
+
+### Land Contribution
+
+Rav Acha mi-Difti challenges Ravina: *atu hashvacha hu ashvach, ara lo ashvacha* — did the sharecropper alone produce this increase? The land also produced it — and the land belongs to the owner. Even when the sharecropper deviated from the stipulated crop, the owner's land contributed to the resulting yield, and the owner is therefore entitled to a share of the total profit, including the increase above what sesame would have earned. One cannot attribute the entire windfall to the sharecropper's labor while ignoring the contribution of the owner's land.
+
+This leaves the owner in a consistently favorable position across all three cases: when the crop deviation spares the land depletion, the owner retains his full share without rebate; when the crop deviation produces greater profit, the owner shares in the increase. Conversely, it seems implicit that when a deviation from the stipulated crop produces a lesser yield, the sharecropper would bear liability for the shortfall against the projected value of the originally agreed crop — though the *gemara* does not address this scenario explicitly.
+
+---
+
+## Iska Framework
+
+### Iska Definition
+
+> **Hebrew/Aramaic:** אָמְרִי נְהַרְדָּעֵי: הַאי עִיסְקָא פַּלְגָא מִלְוָה וּפַלְגָא פִּקָּדוֹן, עֲבוּד רַבָּנַן מִילְּתָא דְּנִיחָא לֵיהּ לְלֹוֶה וְנִיחָא לֵיהּ לְמַלְוֶה.
+>
+> **Translation:** § A common type of business venture was one where the capital or merchandise was supplied by one person and managed by another, who would receive a share, commonly half of the profits, for his efforts. This arrangement can also be viewed as one where the investor is lending half of the invested capital or merchandise to the manager, with the manager agreeing to supervise the venture in exchange for receiving the loan. In order to avoid violating the prohibition of interest, the investor agrees to accept a greater share of the possible loss, e.g., two-thirds, than of the profits, e.g., one-half. The Sages **of Neharde'a said:** With regard to its halakhic status, **this joint venture** is considered **a half-loan and half-deposit,** as the **Sages formulated** an **enactment that** would be **satisfactory for the borrower,** i.e., the manager, **and** equally **satisfactory for the lender,** i.e., the investor.
+
+The *gemara* now introduces the institution of *iska*. *Amri Nehardaei: hai iska — palga milveh u-palga pikadon* — Nehardaei explain that an *iska* is a business arrangement in which the investor's contribution is treated as half loan and half *pikadon*, a deposit. The structure works as follows: I have a thousand widgets. I give them to you, who has no capital of your own, to take to a distant market and sell. You can sell them at a profit unavailable locally. I say: you keep half the profits and I keep half the profits.
+
+### Iska Mechanics
+
+> **Hebrew/Aramaic:** הַשְׁתָּא דְּאָמְרִינַן פַּלְגָא מִלְוָה, אִי בָּעֵי לְמִשְׁתֵּי בֵּיהּ שִׁכְרָא – שַׁפִּיר דָּמֵי. רָבָא אָמַר: לְהָכִי קָרוּ לֵיהּ ״עִיסְקָא״, דַּאֲמַר לֵיהּ: כִּי יָהֲבִינָא לָךְ לְאִיעֲסוֹקֵי בֵּיהּ, וְלָא לְמִשְׁתֵּי בֵּיהּ שִׁכְרָא.
+>
+> **Translation:** **Now that we have said** that **half** of the capital is viewed as **a loan,** it would appear that the manager may use the money in any way he chooses: **If** he **wants to drink alcohol with it,** he may **well** do so, regardless of any objection on the part of the investor. **Rava** disagreed and **said:** It is **for this** reason that **it is called a joint venture, as** the investor can **say to** the manager: **When I gave** the money **to you** it was **to use it** for business **and not to drink alcohol with it.**
+
+But the arrangement is not structured as a simple profit-sharing agreement for labor. Rather, half of the widgets are treated as a loan to you, and the other half remain mine, with you serving as their *shomer*, custodian. This dual structure accomplishes several things. First, since half the goods are yours by loan, you are motivated to work diligently — you are selling your own merchandise alongside mine. Second, and more importantly, if a loss occurs — fire, theft, bandits — you must absorb half the loss personally, because the loan half was yours and you remain obligated to repay it regardless. The half that was mine I simply lose.
+
+However, a potential problem exists: if I lend you the widgets and you then sell all of them — mine and yours together — and you profit on my widgets, that profit, in a sense, is compensation for having received a loan. That looks like *ribbit*, forbidden interest. The *chachamim* therefore required that the investor pay the worker a fee, even a nominal one, to compensate for the labor of selling the investor's half. This transforms the worker's effort into paid labor rather than a quid pro quo for the loan, avoiding the prohibition. *Avdu rabanan milsa de-nicha lei le-loveh ve-nicha lei le-malveh* — the rabbis structured *iska* so that it works well for both the investor and the worker: the investor earns a return without sitting idle, and the worker gains access to capital he could not otherwise have.
+
+### Nehardai/Discretion
+
+> **Hebrew/Aramaic:** מִשּׁוּם דַּאֲמַר לֵיהּ: כִּי יָהֲבִינָא לָךְ לְאִיעֲסוֹקֵי בֵּיהּ, וְלָא לְמִשְׁתֵּי בֵּיהּ שִׁכְרָא. אָמַר רָבָא: לְהָכִי קָרוּ לֵיהּ עִיסְקָא, דְּאִם מֵת לֹא יֵעָשֶׂה מִטַּלְטְלִין אֵצֶל בָּנָיו.
+>
+> **Translation:** Since half the goods are treated as a loan, it would seem that the manager has full ownership over those goods for the purpose of using them as he chooses. **Rava** disagreed and **said:** It is **for this** reason that **it is called a joint venture, so that** the investor can restrict the use of the funds to its intended purpose, namely business. The investor can **say to** the manager: **When I gave** the money **to you** it was **to use it** for business, **and not** for personal consumption.
+
+Since half the *iska* capital is technically a loan, Nehardaei argued: *ibaye le-mishtei beih shikra* — if the worker wants to use the loan half for personal consumption rather than for business — grinding the wheat for his family's bread, for instance, rather than selling it — he may do so, since a loan belongs to the borrower to use as he sees fit. One who receives a loan has full title to the money; how he uses it is his own affair, provided he eventually repays the principal.
+
+### Rava/Business Use
+
+Rava disagrees: *lehachi karu leh iska* — that is precisely why it is called *iska*, a business. *De-amar lei: ki yaivna lach le-miasak beih* — when I gave you this capital, I gave it to you to do business with it, *ve-lo le-mishtei beih shikra* — not to consume it for personal use. Even though the loan half is technically the borrower's to dispose of, the entire *iska* arrangement was premised on active commercial use. The loan was extended for a specific purpose, and the borrower cannot unilaterally redirect it. Rava's concern is practical as well: if the borrower uses the goods personally and is poor, the investor has no assurance of repayment. The arrangement assumed the goods would be sold and the proceeds returned.
+
+### Heir Liability
+
+> **Hebrew/Aramaic:** אָמַר רַב אִידִי בַּר אָבִין: וְאִם מֵת – נַעֲשֶׂה מִטַּלְטְלִין אֵצֶל בָּנָיו. רָבָא אָמַר: לְהָכִי קָרוּ לֵיהּ עִיסְקָא, דְּאִם מֵת לֹא יֵעָשֶׂה מִטַּלְטְלִין אֵצֶל בָּנָיו.
+>
+> **Translation:** **Rav Idi bar Avin said: And** according to this reasoning, **if** the manager **died,** it **becomes movable property in** the possession of **his children.** Therefore, it may not be taken from them, as movable property inherited by orphans is liened for the payment of their father's debts. **Rava** disagreed and **said:** It is **for this** reason that **it is called a joint venture, so that if he died it does not become movable property in** the possession of **his children,** as it is considered a partnership, not a loan.
+
+Rav Idi bar Avin applied the same half-loan logic to a further question: if the worker dies after receiving an *iska*, can the investor reclaim the physical goods from the worker's heirs? The general rule is that a creditor may collect from the heirs of a debtor only from landed estate to which he holds a lien — not from chattel, *metaltelin*, which the heirs simply inherit free of the debt. Since the goods are chattel, and half of them constitute a loan, Rav Idi bar Avin ruled that the investor cannot reclaim them from the orphans.
+
+### Rava/Reliance
+
+Rava again objects: *lehachi karu leh iska* — the *iska* structure was designed for active business use. *De'i mit lo yehei metaltelin etzel banav* — it was never the intent that upon the worker's death the goods should simply pass to his heirs as ordinary chattels. The investor extended capital expecting it to be sold and returned. The entire agreement contemplated the goods remaining in commerce, available for recovery.
+
+### Rashi/Reliance
+
+Rashi explains the technical basis for Rava's position. Ordinarily, a creditor cannot collect from an heir's chattel because the creditor is understood to have relied only on the debtor's real estate — the assumption being that real property is stable and will be there when repayment is due. Chattel is too mobile and uncertain. But in an *iska*, Rashi notes, the investor's reliance was specifically on these very goods: the whole arrangement was premised on the goods being actively sold or otherwise kept in circulation and returned. The investor was explicitly relying on the specific objects — not on any general estate — and therefore the normal rule shielding chattel from creditor collection does not apply. The investor may recover from those goods even in the hands of the heirs.

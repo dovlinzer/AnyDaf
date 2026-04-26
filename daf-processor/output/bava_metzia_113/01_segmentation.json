@@ -1,0 +1,546 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 113,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to Borrower-Lender Mitzvot and Torah Sources",
+      "display_title": "Mitzvot Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Overview of daf 113 and transition from employer-employee to borrower-lender relationships",
+          "display_title": "Topic Introduction",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Five primary mitzvot from Deuteronomy 24: widow's garment, entering the home, standing outside, poor person's collateral, millstone",
+          "display_title": "Torah Sources",
+          "timestamp": "00:41"
+        },
+        {
+          "title": "Rambam's categorization of mitzvot in Hilchos Malveh VeLoveh and distinction between widow (all cases) and others",
+          "display_title": "Rambam's Framework",
+          "timestamp": "01:04"
+        },
+        {
+          "title": "Debate between Rambam and Ra'avad: whether restrictions on collateral apply at time of loan or only after default",
+          "display_title": "Rambam/Ra'avad Debate",
+          "timestamp": "03:32"
+        },
+        {
+          "title": "Power relationship between lender and borrower as central concern of the mitzvot",
+          "display_title": "Power Dynamic",
+          "timestamp": "05:14"
+        },
+        {
+          "title": "Menachem Elon's meshpat ivri framework and the distinction between obligations and rights",
+          "display_title": "Elon Framework",
+          "timestamp": "07:27"
+        },
+        {
+          "title": "Prohibitions specific to millstone and tools of livelihood; lo tihiyeh lo k'nosheh on exerting power over poor debtor",
+          "display_title": "Additional Prohibitions",
+          "timestamp": "11:05"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah on Collateral Seizure and the Role of Beit Din",
+      "display_title": "Mishnah Analysis",
+      "timestamp": "15:57",
+      "micro_segments": [
+        {
+          "title": "Mishnah: creditor cannot seize collateral except through Beit Din; cannot enter debtor's home",
+          "display_title": "Mishnah Rules",
+          "timestamp": "15:57"
+        },
+        {
+          "title": "Case of two garments for poor person: taking one, leaving one; returning based on need",
+          "display_title": "Poor Person's Clothes",
+          "timestamp": "16:44"
+        },
+        {
+          "title": "Rabban Shimon ben Gamliel: thirty-day limit on daily return of collateral; after that, collateral sold in Beit Din",
+          "display_title": "RSbG Limit",
+          "timestamp": "17:46"
+        },
+        {
+          "title": "Death of debtor ends obligation to return collateral; creditor may liquidate to collect loan",
+          "display_title": "Death Exception",
+          "timestamp": "17:46"
+        },
+        {
+          "title": "Timing clarification: seizure after loan default, not at time of loan; role of Beit Din in collection",
+          "display_title": "Timing & Beit Din",
+          "timestamp": "18:54"
+        },
+        {
+          "title": "Psychological benefit of daily return: reminder of debt, potential impact on Shemittah annulment",
+          "display_title": "Return Benefits",
+          "timestamp": "20:34"
+        }
+      ]
+    },
+    {
+      "title": "Gemara's First Challenge: Can Beit Din Enter the Home?",
+      "display_title": "Beit Din Entry",
+      "timestamp": "23:39",
+      "micro_segments": [
+        {
+          "title": "Shmuel: shliach Beit Din can seize in public but cannot enter home (lo memashkeni); debate over משנה interpretation",
+          "display_title": "Shmuel's Position",
+          "timestamp": "23:39"
+        },
+        {
+          "title": "Gemara clarifies משנה: prohibition on creditor entering home; question whether Beit Din excepted",
+          "display_title": "Mishnah Clarity",
+          "timestamp": "24:20"
+        },
+        {
+          "title": "Rav Yosef's challenge: if lo yachavol reichayim varachev and lo tachavol beged almanah prohibit seizure, who is permitted to enter home?",
+          "display_title": "Rav Yosef's Proof",
+          "timestamp": "24:20"
+        },
+        {
+          "title": "Rav Papa's answer: multiple transgressions (lo taseh violations) if creditor enters for forbidden items, but doesn't prove Beit Din permitted",
+          "display_title": "Rav Papa Reply",
+          "timestamp": "24:20"
+        }
+      ]
+    },
+    {
+      "title": "Textual Proofs on Beit Din's Authority: bachutz ta'amod and ve'ha'ish",
+      "display_title": "Textual Proofs",
+      "timestamp": "39:25",
+      "micro_segments": [
+        {
+          "title": "Reading bachutz ta'amod: simple meaning (creditor stands outside, debtor brings collateral) versus derasha implications",
+          "display_title": "Bachutz Ta'amod",
+          "timestamp": "39:25"
+        },
+        {
+          "title": "Ve'ha'ish as surplus word: le'rabos shliach Beit Din to show someone other than creditor can bring collateral",
+          "display_title": "Ve'ha'ish Derasha",
+          "timestamp": "39:48"
+        },
+        {
+          "title": "Baraita: im chavo tachavol - if collateral taken (implying entry), must return before sunset; chaluka on whether creditor or Beit Din took it",
+          "display_title": "Baraita Dispute",
+          "timestamp": "42:05"
+        },
+        {
+          "title": "First baraita: shliach Beit Din can enter home to seize collateral; lo tavo applies to creditor only",
+          "display_title": "Baraita 1: Entry Permitt…",
+          "timestamp": "42:05"
+        },
+        {
+          "title": "Second baraita: even shliach Beit Din must stand outside; neither creditor nor Beit Din enters; only debtor brings collateral out",
+          "display_title": "Baraita 2: Entry Barred",
+          "timestamp": "43:44"
+        }
+      ]
+    },
+    {
+      "title": "Collateral Restrictions and Basic Needs Framework",
+      "display_title": "Restrictions & Needs",
+      "timestamp": "44:46",
+      "micro_segments": [
+        {
+          "title": "Prohibition on taking reichayim varachev (millstone parts) and tools of livelihood; applies to all persons (not just poor)",
+          "display_title": "Millstone Rule",
+          "timestamp": "44:46"
+        },
+        {
+          "title": "Second baraita's detailed rules: two beds and mattress for rich person; two beds and mat for poor person; only for debtor himself, not family",
+          "display_title": "Bedding Rules",
+          "timestamp": "44:46"
+        },
+        {
+          "title": "Gemara: why two beds? One for eating/reclining (Roman custom), one for sleeping; allows debtor to walk four cubits before sleep (health concern)",
+          "display_title": "Two Beds Purpose",
+          "timestamp": "46:20"
+        },
+        {
+          "title": "Mesadrin concept: arranging debtor's basic needs parallel to erchin (vows) framework in Torah",
+          "display_title": "Mesadrin Principle",
+          "timestamp": "48:59"
+        },
+        {
+          "title": "Erchin example: kohein assesses what debtor can afford based on ability to pay; determines basic needs first, then obligation",
+          "display_title": "Erchin Analogy",
+          "timestamp": "48:59"
+        }
+      ]
+    },
+    {
+      "title": "Reconciling Mesadrin with Liquidation: Rabban Shimon ben Gamliel's Thirty-Day Rule",
+      "display_title": "RSbG Reconciliation",
+      "timestamp": "49:03",
+      "micro_segments": [
+        {
+          "title": "Challenge: how can Rabban Shimon ben Gamliel say both mesadrin (leave basic needs) and sell collateral (after 30 days)?",
+          "display_title": "Apparent Contradiction",
+          "timestamp": "49:03"
+        },
+        {
+          "title": "First resolution: selling collateral does not mean leaving debtor nothing; can sell luxury items, keep basic necessities",
+          "display_title": "Distinction: Luxury vs.…",
+          "timestamp": "59:36"
+        },
+        {
+          "title": "Objection: if Rabban Shimon ben Gamliel holds bnei melachim (all Jews are royalty), everything could be deemed 'basic necessity'",
+          "display_title": "Bnei Melachim Problem",
+          "timestamp": "60:00"
+        },
+        {
+          "title": "Abaye's principle: Rabban Shimon ben Gamliel, Rabbi Shimon, Rabbi Yishmael, Rabbi Akiva all hold kol Yisrael bnei melachim hein",
+          "display_title": "Bnei Melachim Doctrine",
+          "timestamp": "60:28"
+        },
+        {
+          "title": "Implications: cannot downgrade living standard or replace luxuries with necessities; all entitled to royal treatment",
+          "display_title": "Royal Standard",
+          "timestamp": "60:34"
+        },
+        {
+          "title": "Unresolved tension: how to reconcile daily return obligation, mesadrin (basic needs), and 30-day liquidation under bnei melachim framework",
+          "display_title": "Unresolved Tension",
+          "timestamp": "60:45"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "lo tavo el beito la'avot avoto (do not enter his house to take collateral)",
+      "timestamps": [
+        "02:15",
+        "06:19",
+        "09:00",
+        "24:20",
+        "39:48",
+        "42:39"
+      ]
+    },
+    {
+      "term": "bachutz ta'amod (stand outside)",
+      "timestamps": [
+        "02:39",
+        "16:39",
+        "39:45",
+        "41:04",
+        "43:29",
+        "44:18"
+      ]
+    },
+    {
+      "term": "ve'ha'ish (and the man)",
+      "timestamps": [
+        "02:42",
+        "40:50",
+        "41:31",
+        "43:18",
+        "44:18"
+      ]
+    },
+    {
+      "term": "lo tachavol beged almanah (do not take widow's garment)",
+      "timestamps": [
+        "01:55",
+        "06:10",
+        "23:18"
+      ]
+    },
+    {
+      "term": "lo yachavol reichayim varachev (do not take millstone)",
+      "timestamps": [
+        "11:09",
+        "11:20",
+        "11:23",
+        "24:20",
+        "42:05",
+        "44:46"
+      ]
+    },
+    {
+      "term": "devarim she'osim bahem ochel nefesh (items for sustenance/livelihood)",
+      "timestamps": [
+        "11:26",
+        "44:46"
+      ]
+    },
+    {
+      "term": "lo tihiyeh lo k'nosheh (do not be like a creditor/exert power)",
+      "timestamps": [
+        "12:59",
+        "14:02",
+        "15:17"
+      ]
+    },
+    {
+      "term": "meshkono (collateral)",
+      "timestamps": [
+        "02:35",
+        "02:53",
+        "03:04",
+        "16:37",
+        "16:39"
+      ]
+    },
+    {
+      "term": "Rambam (Maimonides)",
+      "timestamps": [
+        "00:34",
+        "00:48",
+        "00:50",
+        "03:36",
+        "04:31",
+        "10:13",
+        "14:16",
+        "21:03"
+      ]
+    },
+    {
+      "term": "Ra'avad (Abraham ben David)",
+      "timestamps": [
+        "04:28",
+        "04:31",
+        "04:53",
+        "05:59",
+        "23:13"
+      ]
+    },
+    {
+      "term": "shliach Beit Din (agent of the court)",
+      "timestamps": [
+        "23:41",
+        "23:43",
+        "23:46",
+        "24:16",
+        "24:20",
+        "40:50",
+        "41:31",
+        "42:05",
+        "43:44",
+        "44:01"
+      ]
+    },
+    {
+      "term": "Beit Din (Jewish court)",
+      "timestamps": [
+        "16:07",
+        "16:10",
+        "16:28",
+        "18:23",
+        "18:30",
+        "19:36",
+        "24:20",
+        "39:42",
+        "39:48"
+      ]
+    },
+    {
+      "term": "ani/ani (poor person)",
+      "timestamps": [
+        "04:31",
+        "06:35",
+        "06:41",
+        "09:33",
+        "10:03",
+        "16:54",
+        "17:03",
+        "20:02",
+        "20:20",
+        "44:46"
+      ]
+    },
+    {
+      "term": "malveh/loveh (lender/borrower)",
+      "timestamps": [
+        "05:20",
+        "16:00",
+        "16:04",
+        "24:20",
+        "39:25",
+        "40:57",
+        "41:31"
+      ]
+    },
+    {
+      "term": "Rabban Shimon ben Gamliel",
+      "timestamps": [
+        "18:06",
+        "18:09",
+        "18:38",
+        "49:01",
+        "59:36",
+        "60:00",
+        "60:28",
+        "60:34"
+      ]
+    },
+    {
+      "term": "Shmuel (Amora)",
+      "timestamps": [
+        "23:39",
+        "23:41",
+        "24:02",
+        "46:41",
+        "47:41"
+      ]
+    },
+    {
+      "term": "Rav Yosef (Amora)",
+      "timestamps": [
+        "24:20",
+        "42:05",
+        "49:01"
+      ]
+    },
+    {
+      "term": "Rav Papa (Amora)",
+      "timestamps": [
+        "24:20"
+      ]
+    },
+    {
+      "term": "mashkon (collateral)",
+      "timestamps": [
+        "02:35",
+        "16:37",
+        "18:03",
+        "18:48",
+        "19:42",
+        "21:31",
+        "39:42",
+        "40:19",
+        "40:50",
+        "42:20",
+        "43:50",
+        "44:11"
+      ]
+    },
+    {
+      "term": "lo yimshaknennu ela b'Beit Din (cannot take collateral except through court)",
+      "timestamps": [
+        "16:07",
+        "16:10"
+      ]
+    },
+    {
+      "term": "mesadrin (arrange/leave basic necessities)",
+      "timestamps": [
+        "48:59",
+        "49:01",
+        "49:03",
+        "59:36",
+        "60:00",
+        "60:28",
+        "60:45"
+      ]
+    },
+    {
+      "term": "erchin (vows of value to Temple)",
+      "timestamps": [
+        "44:48",
+        "48:59",
+        "48:59"
+      ]
+    },
+    {
+      "term": "bnei melachim hein (all Jews are royal descendants)",
+      "timestamps": [
+        "60:28",
+        "60:34",
+        "60:45"
+      ]
+    },
+    {
+      "term": "shemittah (Sabbatical year annulment of debts)",
+      "timestamps": [
+        "21:31"
+      ]
+    },
+    {
+      "term": "Menachem Elon (modern Jewish legal scholar)",
+      "timestamps": [
+        "07:27",
+        "08:08",
+        "10:25",
+        "25:20"
+      ]
+    },
+    {
+      "term": "power dynamic/relationship (lender exerting control)",
+      "timestamps": [
+        "05:14",
+        "05:32",
+        "07:09",
+        "08:48",
+        "09:04",
+        "15:37",
+        "15:40",
+        "24:02",
+        "42:05"
+      ]
+    },
+    {
+      "term": "rights vs. obligations framework",
+      "timestamps": [
+        "07:54",
+        "08:23",
+        "08:24",
+        "08:41",
+        "08:45"
+      ]
+    },
+    {
+      "term": "im ish ani hu (if he is poor)",
+      "timestamps": [
+        "02:48",
+        "09:29",
+        "16:54"
+      ]
+    },
+    {
+      "term": "lo tishkav ba'avoto (do not keep/sleep with collateral)",
+      "timestamps": [
+        "02:48",
+        "10:04",
+        "10:05"
+      ]
+    },
+    {
+      "term": "hashev tashiv (return/restore)",
+      "timestamps": [
+        "02:50",
+        "10:03"
+      ]
+    },
+    {
+      "term": "baraita (tannaitic teaching)",
+      "timestamps": [
+        "42:05",
+        "42:20",
+        "42:56",
+        "43:44",
+        "44:44"
+      ]
+    },
+    {
+      "term": "tannaim (early rabbis, period of Mishnah)",
+      "timestamps": [
+        "43:34",
+        "43:38"
+      ]
+    },
+    {
+      "term": "drasha (hermeneutical derivation)",
+      "timestamps": [
+        "42:05",
+        "44:48"
+      ]
+    }
+  ]
+}

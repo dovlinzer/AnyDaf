@@ -1,0 +1,169 @@
+# Sanhedrin 10 — Daf Yomi Shiur
+
+## Palginin Dibbura
+
+### Rav Yosef Intro
+
+The daf opens — five lines from the bottom of amud bet — with a continuation of Rav Yosef's rulings concerning *edim zomemin*. The previous teaching had established that when false witnesses attempt both to execute a woman and to cause her to forfeit her *ketubbah*, and both consequences fall upon the same victim, the principle of *kim lei b'drabba minei* applies: only the weightier punishment — death — is imposed and the monetary obligation is absorbed. However, where the monetary obligation runs to a different party than the one for whom the witnesses face execution, the principle of *mamon vezeh v'nefashos zeh* obtains, and both consequences are enforced simultaneously. It is against this backdrop that Rav Yosef now introduces a related but distinct case.
+
+### Mishkav Zachar Victim
+
+*V'amar Rav Yosef: ploni riv'o l'onsho* — Reuven comes forward and testifies that Shimon subjected him to anal intercourse against his will, that is, he was raped. The sin at issue is *mishkav zachar*, and the preliminary question is whether Reuven himself is a qualified witness. Since the event involved him directly, is he not in the position of a *karov* — a relative or interested party — whose testimony about that very event is inadmissible?
+
+Rav Yosef rules: *hu v'acher mitztarfin l'horgo* — Reuven and one additional witness may combine their testimony and bring Shimon to execution. The victim of a sexual violation is not disqualified as a witness against the perpetrator. Surprisingly, the victim is not considered a *pasul* witness, not regarded as a *karov* to the case. The reasoning appears to be connected to the nature of the transgression: the sin of *mishkav zachar* is not fundamentally a harm done *to* the victim — its prohibition inheres in the act itself. The victim who was coerced is therefore not truly a party to the offense in the legal sense, and his testimony against the perpetrator is valid.
+
+### Willing Participant
+
+The *Gemara* immediately introduces the contrasting scenario: *im b'retzono* — what if Reuven testifies that Shimon had intercourse with him and that he was a willing participant? In that case, *rasha hu*: Reuven is by his own testimony confessing to a transgression for which he himself bears liability, one that carries *chiyuv mita*. The Torah states *al tashes rasha ed* — do not place a wicked person as a witness — and since accepting his testimony about Shimon necessarily entails accepting his testimony about himself, and that testimony renders him a *rasha*, he is disqualified. Both aspects of this ruling make sense: the greater *chiddush* is the first case, where the victim's standing as a valid witness is established despite his direct involvement in the events described.
+
+### Rava's Doctrine
+
+Rava now introduces his pivotal principle: *adam karov eitzel atzmo v'ein adam meisim atzmo rasha* — a person is considered *karov* to himself, just as one cannot testify concerning a close relative, one cannot testify concerning oneself. Therefore, that portion of Reuven's statement in which he declares his own willing participation is legally inadmissible — not merely unreliable, but structurally excluded from consideration, as though it were never said. What remains is his testimony concerning Shimon alone. This is the doctrine the *Rishonim* identify as *palginan dibura*: we split his words, discard the self-incriminating portion as legally null, and accept the remainder as valid testimony against Shimon. By this mechanism, Shimon may be convicted on the basis of Reuven's testimony combined with that of another witness, because as far as the court is concerned, Reuven testified only about Shimon — what he said about himself never entered the evidentiary record.
+
+It bears acknowledgment that reading these *Gemaros* today — with an understanding of same-sex attraction and the genuine personal struggles faced by a portion of the community — these discussions cannot remain purely abstract. They speak to real human lives and profound challenges, and that dimension deserves to be acknowledged.
+
+### Adultery Case
+
+Rava continues with a parallel case involving adultery: *ploni ba'al ishti* — a husband testifies that a certain man, Shimon, had intercourse with his wife. Rava rules: *hu v'acher mitztarfin lehorgo aval lo leharga* — he and another witness may combine to execute Shimon, but the wife may not be executed on the basis of the husband's testimony. The husband is a *karov* to his wife and cannot testify against her. The *chiddush*, however, is that his disqualification vis-à-vis his wife does not contaminate his testimony vis-à-vis Shimon. Once again, *palginan dibura*: what he says about Shimon stands on its own, while what he says about his wife is simply set aside.
+
+### Doctrine Debate
+
+The *Gemara* challenges: *mai kamashmalan?* Is this not identical to what was already established? The *Gemara* responds that the new case is needed to forestall a possible objection: one might have thought that while *adam karov eitzel atzmo* holds — a man is considered *karov* to himself — we would not say *adam karov eitzel ishto* for the purposes of *palginan dibura*. That is, perhaps the principle that renders self-incriminating testimony completely inadmissible does not extend to testimony concerning one's wife. Hence the case is needed to teach that it does.
+
+This raises a further question: what exactly would the *halacha* have been had we *not* applied *palginan dibura* here? Rashi and Tosafos take a surprising position: without *palginan dibura*, the husband's testimony would actually have been accepted in its entirety — both against Shimon *and* against the wife, and she would have been executed. The reasoning would be that since the testimony against Shimon is valid, and the wife is a separate individual rather than the husband himself, a kind of *migu* logic would operate and the testimony would be bundled together and applied to both. This reading is widely acknowledged to be extremely difficult: how could testimony that is fundamentally inadmissible against the wife somehow become valid through this bundling mechanism? Using *migu* to take a person's life in this manner seems unacceptable.
+
+Other *Rishonim* take the opposite position. Without *palginan dibura*, the testimony would be thrown out entirely. The logic: testimony about oneself is not merely *pasul* — it is not testimony at all, because *adam karov eitzel atzmo* renders it structurally non-existent. Testimony about one's wife, however, though *pasul*, is still *an act of testimony* — it is a real statement about another person, albeit an inadmissible one. Therefore, unlike the case involving oneself, the husband's words about his wife cannot simply be ignored; they constitute a flawed act of testimony. And since that flawed testimony is part of the very same statement as his testimony against Shimon, the entire statement becomes tainted, and Shimon goes free. *Kamashmalan*, therefore, is that *palginan dibura* applies: we excise the inadmissible portion — whether it concerns the witness himself or his wife — and allow what remains to stand as valid testimony against Shimon.
+
+A further case bearing on *palginan dibura* involves the *na'ara me'orasa*. Rava rules: if witnesses testify that Shimon had intercourse with a *na'ara me'orasa* without specifying which woman, and those witnesses are subsequently found *zomemin*, they are executed but pay no money — there is no identified person to whom a monetary payment would be owed. But if they say *bito shel ploni* — they specifically identify Levi's daughter — then the case changes: *neheragin u'meshalmin mamon*, they are executed and also pay. Why? Because the daughter faces execution for her own alleged willing participation, while the *ketubbah* benefit that would have been destroyed by the testimony belonged not to her but to her father. Since the betrothal has not yet ripened into full marriage, *kol shevach ne'ureiha le'aviha* — all benefit from the daughter in her youth belongs to the father. The person for whom they are executed — Shimon and the daughter — is different from the person to whom they owe money — the father. This is *mamon lazeh v'nefashos lazeh*, and *kim lei* does not apply.
+
+### Bestiality Case
+
+Rava introduces a further ruling: *ploni rava ha-shor v'huzmu* — witnesses testify that Shimon committed bestiality with Reuven's ox, and they are found *zomemin*. In that case, *neheragin u'meshalmin mamon*: they are executed for having sought to have Shimon put to death, and they pay money for having sought to deprive Reuven of his animal. Again the twin principles apply: *mamon lazeh v'nefashos lazeh*, and so both consequences are enforced.
+
+The *Gemara* asks: *ha tu lama li?* Why was this additional case necessary given what was already established? The answer is that this case was included not for its own ruling — which is indeed straightforward — but because it serves as the necessary foundation for Rava to pose a related but unresolved question, the case of *palginan dibura* when property is at stake.
+
+### Property Question
+
+*De'va'ei Rava: ploni rava shori mahu?* — Reuven himself, together with another witness, testifies that Shimon committed an act of bestiality with Reuven's own ox. Here the question crystallizes: we have established that *adam karov eitzel atzmo* — a person is *karov* to himself — and that *palginan dibura* allows us to split his testimony and ignore what implicates him directly or through his wife. But what about testimony that causes harm to his own property? The *Gemara* frames it as two possibilities: *mi amrinan adam karov eitzel atzmo v'ein adam karov eitzel mamono* — do we say that a person is *karov* to himself but not to his property? Or do we say *adam karov eitzel mamono* — that a person is also considered sufficiently close to his property that the same principle applies?
+
+The stakes require clarification. The *Gemara* notes that the execution of the ox is not merely a monetary matter — *kemitat habalim kach mitat hashor* — the animal's death is a form of *dinei nefashos*, parallel to the capital liability of the human perpetrator. So the question is not simply whether he is prejudiced financially. He is testifying about an event that will cause the destruction of his own property through a legal process analogous to capital punishment. Does *palginan dibura* operate in such a case — separating his testimony about Shimon from its consequences for his own ox — or does the witness's connection to his property prevent that separation?
+
+### Resolution
+
+*Hadar pashata be'aya* — Rava himself resolved his question: *adam karov eitzel atzmo v'ein adam karov eitzel mamono*. The principle of *palginan dibura* applies when testimony implicates the witness himself or his wife — those are cases where the inadmissible portion is treated as though it does not exist as testimony. But when testimony damages the witness's property, we do not say the same. The witness is *nogea badavar* with respect to his ox, and that connection is real — but it is not the kind of connection that renders his words legally null. His statement about the ox constitutes actual testimony; it is simply *pasul* testimony. And as the earlier analysis showed, testimony that is *pasul* — as opposed to legally nonexistent — cannot simply be ignored; it contaminates the whole.
+
+According to Rashi and Tosafos, the consequence of *not* applying *palginan dibura* would be the opposite: since the testimony about Shimon is accepted, and the witness is not sufficiently close to his property to render that portion of the testimony null, the entire statement is accepted, and the ox is executed as well — a bundling of the testimony that works in favor of conviction. The alternative reading, consistent with the other *Rishonim*, is that because the portion concerning the ox is *pasul* testimony rather than a legal nullity, it invalidates the entire testimony, and Shimon escapes liability. These are two fundamentally different understandings of what it means when *palginan dibura* does not apply.
+
+---
+
+## Makkot & Beit Din
+
+### Three Judges Source
+
+The *Mishnah* continues its enumeration of matters requiring a *beit din* of three, adding the case of administering lashes — *makkot bishelosha*. Notably, the *Gemara* did not ask for a source when the *Mishnah* earlier required three judges for monetary penalties such as *kefel* and *arba'a vachamisha*. Here, however, where the matter involves physical punishment of a person's body, the *Gemara* does ask: *mena hanei milei?*
+
+### Shoftim Source
+
+*Amar Rav Huna amar kera*: the verse in the *parasha* dealing with lashes says *ushfatam* — "and they shall judge them" — written in the plural. Since a court cannot have an even number of judges, that plural implies two; and since two is an even number and *ein beit din shakul*, we add one more, arriving at three: *harei kan shelosha*. This is the source for requiring a *beit din* of three for lashing.
+
+The *Gemara* immediately challenges: the same passage also contains *vehitzdiku es hatzadik vehirshiu es harasha* — "and they shall acquit the innocent and convict the guilty" — both expressed in the plural. If each such phrase implies an additional pair of judges, one arrives at six, and since six is even, seven — *harei kan shiva*. Why should we not require a *beit din* of seven for lashes? The *Gemara* answers that those additional phrases are not needed for deriving the composition of the court. They are needed for something else entirely — for what Ulla teaches.
+
+### Ulla's Teaching
+
+*De'amar Ulla: remez le'edim zomemin she-lokin minayin?* Where is there a hint in the Torah to the principle that *edim zomemin* receive lashes? The *Gemara* immediately interrupts: surely there is an explicit *parasha* — *ka'asher zamam* — one does to them as they plotted to do! Ulla's question must therefore concern those situations where *ka'asher zamam* cannot be applied. The classic example, familiar from the opening of tractate *Makkos*, is where false witnesses attempt to disqualify a *kohen* as a *ben gerusha ben chalutza* — a status that cannot be retroactively imposed on the witnesses themselves. In such cases, the punishment is *malkos* in lieu of *ka'asher zamam*. *Ulla's* question is: where does the Torah hint that lashes serve as the substitute when *ka'asher zamam* is unavailable?
+
+His answer: from *vehitzdiku es hatzadik vehirshiu es harasha* — "and they acquitted the righteous and convicted the wicked" — followed by *vehaya im bin hakos harasha*, "and if the wicked one is liable to be struck." The narrative connection between these verses is at first puzzling: why should acquitting the righteous and convicting the wicked lead to lashes? Ulla explains that this entire passage is actually describing a case of *edim zomemin*. The sequence unfolds as follows: the false witnesses initially testify against the innocent man, attempting to make the righteous appear wicked. New witnesses then arrive, expose the original witnesses as *zomemin*, restore the innocent man's status — *vehitzdiku es hatzadik* — and reveal the original witnesses as the true *resha'im* — *vehirshiu es harasha*. Having straightened out the record — *vehitzdiku es hatzadik deme'ikara* — the Torah then continues: *vehaya im bin hakos harasha*, the newly identified wicked ones receive lashes. This is a brilliant reading of the narrative in the Torah: the passage is not describing a simple trial but specifically the aftermath of uncovering false witnesses, and from it we derive that *edim zomemin* receive lashes when *ka'asher zamam* cannot be applied.
+
+The *Gemara* then asks: why not derive the lashing of *edim zomemin* simply from their violation of *lo ta'aneh* — the prohibition of bearing false witness? The answer: *mishum de'hava lei lav she'ein bo ma'aseh* — testimony is speech, not a physical act, and a *lav she'ein bo ma'aseh* does not ordinarily carry *malkos*. The special derivation from *vehitzdiku* and *vehirshiu* is therefore needed to establish that lashes apply despite the absence of a physical act, or alternatively, to clarify the relationship between the lashes for the *lav* and the distinct mechanism of *ka'asher zamam*. The precise nature of that relationship is a full *sugya* in the opening of tractate *Makkos*.
+
+### Lav She'Ein Bo
+
+The *Gemara*'s observation that testimony constitutes a *lav she'ein bo ma'aseh* raises the broader question of what the *Gemara* means to teach by invoking this category. The claim is that ordinary violations of *lo ta'aneh* would not generate *malkos* precisely because the prohibition is violated through speech alone, without any accompanying physical action. The special derivation from the verses in *Parashat Shoftim* therefore functions either to override that limitation or to ground the punishment on a basis independent of the ordinary mechanism by which *malkos* is assigned for violated *lavim*.
+
+### Rabbi Ishmael View
+
+*Mishum Rabbi Yishmael amru be'esrim ushelosha* — in the name of Rabbi Yishmael it was taught that lashing requires a court of 23, the same as capital cases. *Mai ta'ama de'Rabbi Yishmael?* asks the *Gemara*. *Amar Abaye: asya rasha rasha michayevei misos* — a *gezeira shava*. The verse concerning lashes calls the subject *rasha* — "and it shall be if the wicked one is liable to be struck" — and a separate verse speaks of one who is *rasha la'mus*, wicked and deserving of death. Since both employ the term *rasha*, Rabbi Yishmael applies the same requirement: just as capital cases require 23, so too does lashing.
+
+### Rava's View
+
+Rava disagrees and offers a conceptually different rationale: *malkos bi'mkom misa omedes* — lashes stand in place of death. Rava's understanding, as elaborated by Tosafos, connects to the principle that all violations of divine command carry an inherent capital dimension — *bnei Noach* are liable to death for any violation of their *sheva mitzvos*, which suggests that at some fundamental level every transgression is deserving of death. When the Torah prescribes *malkos*, it is assigning a kind of partial or symbolic death: an act of violence against the body that stands in for the ultimate penalty. The person receiving lashes is in some sense *chayav misa*, and the *malkos* is that death — diminished, survived, but real. This is a harsh and striking understanding of corporal punishment, but it is what Rava means when he says that lashes stand in the place of death and therefore require the same court of 23.
+
+### Challenge to Rava
+
+*Amar Rav Acha brei de'Rava le'Rav Ashi*: if Rava is right — if at some conceptual level the recipient of lashes is *chayav misa* and the *malkos* is simply the form that death takes — then why does the court bother to assess how many lashes the person can withstand? The standard procedure, discussed at length in tractate *Makkos*, is that the court evaluates whether the person can safely receive the full 39 lashes, and if not, the number is reduced to the largest multiple of three that falls within his capacity. But if he is *chayav misa* in any case, why not simply give him the full 39 and let him die if that is what happens? *V'ei mayis leimus* — if he dies, let him die; he was *chayav misa* anyway.
+
+### Nikla Achicha
+
+The *Gemara* answers from a verse: *amar kra veniklah achicha le'einecha* — "and your brother shall be diminished before your eyes." The *Gemara* reads this as requiring that when the lashes are administered, the subject must still be *your brother* — that is, still alive. *V'ki machyas agaba de'chaya machyas* — you are striking the back of one who is living. This implies that he must be alive throughout the lashing and must survive it.
+
+The *Gemara* presses further: could one not simply stop lashing the moment the person dies? The answer lies in the practical difficulty of rounding up to the nearest multiple of three. If the assessment establishes that a person can survive 20 lashes, one cannot give 21 — even though 21 is the nearest multiple of three above 20 — because the 21st lash might kill him. The verse requires not merely that the lashes be given while the person is alive, but that after the lashes — *achar shelaka* — he remains *achicha*, your brother, still living. The lashing must leave him alive. *Veniklah* is read as *laka* — he received lashes — and *achicha* follows: he is still your brother, still among the living. Even if *malkos* conceptually represents a form of the death penalty, the Torah insists that this particular death be one from which the recipient emerges alive. This is a fascinating and deeply significant way of understanding the nature of *malkos*.
+
+---
+
+## Calendar Matters
+
+### Calendar Intro
+
+The *Mishnah* now turns from judicial penalties to matters of the calendar, teaching that additional items requiring a court of three include calendar determination — specifically *ibur hachodesh* and, as will soon emerge, *ibur hashana*. The transition is striking: the *Mishnah* moves from cases involving punishment of individuals to the national and sacred institution of the calendar, both requiring the same minimal *beit din* of three.
+
+### Ibur vs Kiddush
+
+The *Gemara* immediately notices a terminological difficulty in the *Mishnah*'s language. The *Mishnah* says *ibur hachodesh* — making the month "pregnant," or full — which would seem to refer to the act of extending a month to 30 days rather than allowing it to end after 29. But this term is puzzling on two counts. It is not *chishuv*, the *Gemara* notes — it does not mean the calendrical computation involved in deciding whether to manipulate the month's length. Nor is it *kiddush hachodesh* — the formal ritual sanctification of the new month, the declaration of *mekudash mekudash mekudash* that the *beit din* pronounces. So what exactly does *ibur hachodesh* denote, and what act is it that requires three judges?
+
+The *Gemara* presses the difficulty: making a month into a full month — an *ibur* — happens passively, by the court's *failure* to act. If day 30 arrives and the court does not accept witnesses or does not perform the act of *kiddush*, then day 30 passes without becoming *Rosh Chodesh*, and automatically — *mimeila me'ubra* — the month becomes a full 30-day month, and day 31 becomes *Rosh Chodesh*. If *ibur hachodesh* is simply what happens when no *kiddush* is performed, then nothing is done, no court convenes, and there is nothing requiring three judges. The *Mishnah*'s formulation requires clarification.
+
+### Abaye's Fix
+
+*Amar Abaye: tani kiddush hachodesh* — Abaye proposes that the *Mishnah*'s text should simply be emended. The correct reading is *kiddush hachodesh*, not *ibur hachodesh*. It is the formal act of sanctifying the month — whatever day that is performed — that requires a *beit din* of three. Abaye supports this from the *Tosefta*, which reads *kiddush hachodesh v'ibur shana bishelosha* — using *kiddush* for the month and *ibur* for the year. If the *Tosefta* in the name of Rabbi Meir uses *kiddush hachodesh*, that is the proper formulation and the *Mishnah* should be corrected to match.
+
+### Rava's Day 30
+
+Rava is unwilling to emend the text: *v'hai ibur katani* — the *Mishnah* deliberately chose the word *ibur*, and one cannot simply discard the *Mishnah*'s precise language. Instead, Rava offers a reading that preserves the text: *kiddush b'yom ibur bishelosha, achar ibur leika kiddush* — when *kiddush hachodesh* is performed on day 30 — the day called *yom ibur*, the day that could make the preceding month a full one — that act requires a *beit din* of three. But if day 30 passes without being declared *Rosh Chodesh*, so that the month becomes a full 30-day month by default, and day 31 then becomes the new month, there is no formal *kiddush* at all on day 31, because it is self-evidently *Rosh Chodesh* — nothing more needs to be declared. Thus, the word *ibur* in the *Mishnah* qualifies which *kiddush* requires three: specifically, *kiddush* performed on *yom ibur*, day 30 itself. It is an active determination against the natural flow — declaring day 30 to be *Rosh Chodesh* rather than allowing the month to run its full course — and that active intervention requires three judges.
+
+### Rabbi Elazar View
+
+*Umani Rabbi Elazar berabi Tzadok hi* — Rava identifies this reading of the *Mishnah* as consistent with the position of Rabbi Elazar the son of Rabbi Tzadok, as recorded in a *baraisa*. Rabbi Elazar berabi Tzadok teaches: if the new moon was not seen *bizmano* — in its natural time, meaning on day 30 — then *ein mekadshin oso shekvar kidshuhu bashamayim*: there is no need for the *beit din* to sanctify it, for heaven has already sanctified it. Once day 30 passes without a sighting that warrants *kiddush*, the lunar cycle itself has ordained that day 31 is *Rosh Chodesh*; the court has nothing to add. Conversely, when the new moon is seen on day 30 and the *beit din* actively declares it *Rosh Chodesh*, that is the case where a court is needed and where Rava's reading applies.
+
+### Rav Nachman View
+
+Rav Nachman takes the opposite position: *kiddush achar ibur bishelosha, b'yom ibur leika kiddush* — it is specifically when the court performs *kiddush* on day 31, after the month has already become an *ibur* month, that three judges are required. On day 30 itself, no formal ritual of *kiddush* is performed at all. This position is, as the *Gemara* acknowledges, highly counterintuitive. The idea that an active declaration of *Rosh Chodesh* is unnecessary on the very day when the determination is most consequential — and necessary only the following day, once the matter has resolved itself — is difficult to understand. Rav Nachman associates this view with the teaching of Pleimo, who states: *bizmano ein mekadshin oso, shelo bizmano mekadshin oso* — when the month appears in its natural time (day 30), no sanctification is performed; when it appears outside its natural time (day 31), sanctification is performed. This is the exact inversion of the position one would expect, and it stands as recorded without further justification in this context.
+
+### Rav Ashi Resolution
+
+Rav Ashi takes a step back from the entire debate and restores the original meaning of the *Mishnah*'s language: *le'olam chishuv katani* — actually, *ibur hachodesh* in the *Mishnah* does mean *chishuv*, computation. The word *ibur* in this context refers to the process of deliberating and calculating whether to extend the month, not to any ritual act of *kiddush*. Why then does the *Mishnah* say *ibur* rather than *chishuv*? *U'mai ibur — chishuv de'ibur*: the word *ibur* is used because the specific computation in question is the deliberation over whether to make a month into an *ibur* month — a full 30-day month. *V'aiidi de'tana ibur shana, tana nami ibur chodesh*: since the very next clause of the *Mishnah* discusses *ibur hashana* — adding a leap month to make a leap year — and uses the word *ibur* naturally in that context, the same word is borrowed for the monthly calendar deliberation to create linguistic parallelism.
+
+The *Gemara* then asks: does this mean that *kiddush hachodesh* — the formal act of sanctification — does not require three judges, and only the computation does? *Mani Rabi Eliezer hi* — this reading aligns with the view of Rabbi Eliezer, who teaches: *bein bizmano bein shelo bizmano ein mekadshin oto* — whether the moon appears on day 30 or day 31, no formal ritual of *kiddush* is ever performed. The *beit din* determines when *Rosh Chodesh* falls — accepting witnesses, deliberating, and issuing its ruling — but there is no ceremony of *mekudash mekudash mekudash*. Rabbi Eliezer derives this from the verse *vekidashtem et shnat hachamishim shana*: you sanctify the *Yovel* year — meaning years are subject to sanctification, not months. Rashi and Tosafos clarify that Rabbi Eliezer does not mean the *beit din* plays no role; rather, the court accepts witnesses and makes its formal determination, but without the ritual proclamation. Therefore, since there is no act of *kiddush* for the month, the *Mishnah* rightly uses only the language of *ibur* and *chishuv*, and Rav Ashi's reading is fully consistent with Rabbi Eliezer's position.
+
+---
+
+## Ibur HaShana
+
+### Framework
+
+The *Mishnah* teaches that *ibur hashana* — the intercalation of the year, adding a thirteenth month to create a leap year — also requires a *beit din* of three. Rabban Shimon ben Gamliel then elaborates that this is not a simple requirement of three judges from start to finish, but a structured process in which the court expands in stages: one begins with three, continues with five, and concludes with seven.
+
+### Stage One: Three
+
+The *baraisa* elaborates on Rabban Shimon ben Gamliel's framework. The process begins with the three recognized authorities who have standing to deal with calendar matters on behalf of the entire nation. These three convene to determine whether it is even worth discussing whether to intercalate the year — that is, whether there are sufficient grounds to open the question at all. The vote at this stage concerns only the threshold question: shall we sit and examine this? If one of the three says yes, we should convene and discuss, and two say no, the minority is negated by the majority — *batel yachid bemiyuto* — and the matter is closed; there will be no intercalation that year. If two say yes and one says no, the two prevail and the process moves forward.
+
+### Stage Two: Five
+
+Once the decision is made to proceed with deliberation, the court is expanded by two additional members, bringing the total to five. These five then engage substantively with the question — *nosin venosnin badavar*, examining the relevant considerations and debating whether the year warrants intercalation. A vote is then taken: should an extra month be added? If two say yes and three say no, the two are negated and the process ends without intercalation. If three say yes and two say no, the three prevail.
+
+### Stage Three: Seven
+
+When the majority of the five determine that intercalation is warranted, two further members are added, bringing the total to seven. These seven issue the final formal determination. As the *baraisa* specifies, *she'einam pechutim mishiv'ah* — the final ruling must be issued by no fewer than seven. The purpose of the final expansion, as the structure implies, is not to re-examine the question but to ensure that the solemn declaration of intercalation is issued with the full weight of a *beit din* of seven — appropriate to a matter of national consequence.
+
+### Sources Debate
+
+The *Gemara* asks: *hani shelosha chamisha veshiv'ah kineged mi?* What is the basis for these specific numbers? A debate is recorded between Rav Yitzchak bar Nachmani and his colleague — identified as Rav Shimon ben Pazi — though the *Gemara* notes uncertainty about which name goes first, presenting both orderings: some attribute the more prominent position to Rav Yitzchak bar Nachmani and identify Rav Shimon ben Pazi as his colleague, and others reverse the attribution.
+
+One opinion derives the numbers from *birchas kohanim*: the first verse of the priestly blessing contains three words, the second five, and the third seven. The calendrical court mirrors the expanding cadence of the priestly blessing — both relate to something of national sacred significance, even if the precise connection between *birchas kohanim* and *ibur hashana* is not spelled out further.
+
+The other opinion derives the numbers from the ranks of royal officers described in *Tanach*: those who guard the threshold — three in number; those who behold the king's face at a lower level — five; and those who behold the king's face at the highest level — seven. Rashi notes that the verse concerning seven officers who behold the king's face refers to the court of Achashverosh, and the *Gemara* is at pains to indicate that the derivation is not from Achashverosh but from a parallel passage describing a Jewish king. The connection to royalty makes sense conceptually: the determination of the calendar is an act of national governance, a royal function as it were, and the structure of the *beit din* for *ibur hashana* is therefore modeled on the hierarchical ranks of those who serve and counsel the king.
+
+### Rav Yosef & Abaye
+
+Rav Yosef taught a *baraisa* that presents the second derivation — three corresponding to those who guard the threshold, five to those who behold the king's face at a lesser degree, and seven to those who behold the king's face at the highest level. Following this teaching, Abaye said to Rav Yosef: *ad ha'idna mai ta'ama lo parish lan mar hachi?* — until now, why had Rav Yosef never shared this reasoning with them? They had studied this material before and Rav Yosef had not explained the basis for the numbers three, five, and seven.
+
+Rav Yosef replied: *lo hava yadana detzrichitu* — I did not know that you needed it, or that you did not already know the reason. *Mi be'itu minai milta velo amri lachut?* — did you ever ask me something that I did not tell you? The exchange is gently reproachful in both directions: Abaye wondering why the teacher withheld an explanation, the teacher wondering why the student never asked. It is a fitting note on which the daf closes — a reminder that in the study of Torah, the responsibility to seek out understanding rests as much on the student as on the teacher, and that much that is known goes untransmitted simply because the question was never asked.

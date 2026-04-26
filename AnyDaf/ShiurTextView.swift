@@ -9,6 +9,8 @@ struct ShiurTextView: View {
     var useWhiteBackground: Bool = false
 
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
+    /// Parsed representation of rewriteText, computed off the main thread.
+    @State private var parsedBlocks: [ParsedBlock] = []
 
     /// Amber for Talmudic source words on the blue background; app blue on white background.
     private static let amber    = Color(red: 1.0,   green: 0.72,  blue: 0.0)
@@ -22,7 +24,7 @@ struct ShiurTextView: View {
         ScrollViewReader { proxy in
             ScrollView {
                 LazyVStack(alignment: .leading, spacing: 0) {
-                    ForEach(blocks) { item in
+                    ForEach(parsedBlocks) { item in
                         blockView(item)
                     }
                 }
@@ -30,13 +32,29 @@ struct ShiurTextView: View {
                 .padding(.vertical, 12)
             }
             .dynamicTypeSize(studyFontSize.dynamicTypeSize)
+            // Reparse whenever the text changes — runs on a background thread so large
+            // shiur texts cannot hang the main thread and trigger a watchdog kill.
+            .task(id: rewriteText) {
+                let text = rewriteText
+                let idx  = currentSegmentIndex
+                let innerTask = Task.detached(priority: .userInitiated) {
+                    Self.parseBlocks(from: text)
+                }
+                let computed = await innerTask.value
+                guard !Task.isCancelled else { return }
+                parsedBlocks = computed
+                proxy.scrollTo("seg-\(idx)", anchor: .top)
+            }
             .onChange(of: currentSegmentIndex) { _, newIdx in
                 withAnimation(.easeInOut(duration: 0.4)) {
                     proxy.scrollTo("seg-\(newIdx)", anchor: .top)
                 }
             }
             .onAppear {
-                proxy.scrollTo("seg-\(currentSegmentIndex)", anchor: .top)
+                // Re-appear with already-parsed blocks (e.g. switching back from Study tab).
+                if !parsedBlocks.isEmpty {
+                    proxy.scrollTo("seg-\(currentSegmentIndex)", anchor: .top)
+                }
             }
         }
     }
@@ -168,7 +186,8 @@ struct ShiurTextView: View {
 
     // MARK: - Parsing
 
-    private var blocks: [ParsedBlock] {
+    // Static so Task.detached can call it without capturing self.
+    private nonisolated static func parseBlocks(from rewriteText: String) -> [ParsedBlock] {
         var result: [ParsedBlock] = []
         var segIdx = -1
         var bodyLines: [String] = []

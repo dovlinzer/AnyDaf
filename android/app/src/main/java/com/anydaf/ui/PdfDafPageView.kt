@@ -105,6 +105,7 @@ fun DafPageView(
                 .build(),
             contentDescription = "${tractate.name} $dafInt${if (sideA) "a" else "b"}",
             contentScale = ContentScale.Fit,
+            alignment = Alignment.TopCenter,
             filterQuality = FilterQuality.High,
             loading = {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {

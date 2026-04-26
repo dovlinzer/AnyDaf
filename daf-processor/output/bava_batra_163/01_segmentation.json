@@ -1,0 +1,724 @@
+{
+  "masechta": "Bava Batra",
+  "daf": 163,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "White Space Between Document Body and Witness Signatures",
+      "display_title": "Body-Witness Gap",
+      "timestamp": "00:18",
+      "micro_segments": [
+        {
+          "title": "Two-line gap prevents forgery of intervening text",
+          "display_title": "Two-line rule",
+          "timestamp": "00:18"
+        },
+        {
+          "title": "Single line gap is permissible to allow witness space to sign",
+          "display_title": "One-line gap permitted",
+          "timestamp": "00:40"
+        },
+        {
+          "title": "Dots and splotches prevent misuse of blank space",
+          "display_title": "Dots prevent abuse",
+          "timestamp": "01:26"
+        }
+      ]
+    },
+    {
+      "title": "Protection Against Erasing and Rewriting the Document Body",
+      "display_title": "Erasure concerns",
+      "timestamp": "02:46",
+      "micro_segments": [
+        {
+          "title": "Rav's ruling: document with body and witnesses on erased background is valid",
+          "display_title": "Rav: erasure kasher",
+          "timestamp": "02:46"
+        },
+        {
+          "title": "Concern that entire document could be erased and rewritten with forged validation",
+          "display_title": "Full erasure risk",
+          "timestamp": "05:01"
+        },
+        {
+          "title": "Solution: validation only used if witnesses sign on clean background",
+          "display_title": "Validation voided",
+          "timestamp": "09:20"
+        }
+      ]
+    },
+    {
+      "title": "White Space Between Witness Signatures and Validation Mark",
+      "display_title": "Witness-Validation Gap",
+      "timestamp": "10:34",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yochanan: one-line document with witnesses on same line is valid",
+          "display_title": "One-line doc valid",
+          "timestamp": "10:34"
+        },
+        {
+          "title": "But one-line document with witnesses on different line from validation is invalid",
+          "display_title": "Separate lines invalid",
+          "timestamp": "11:01"
+        },
+        {
+          "title": "Rationale: validation must be far from witnesses to prevent forged small documents",
+          "display_title": "Small doc concern",
+          "timestamp": "11:22"
+        },
+        {
+          "title": "Addendum concept: witnesses can note validation belongs to their signatures",
+          "display_title": "Witness notation",
+          "timestamp": "14:00"
+        },
+        {
+          "title": "Risk of adding extra forged witnesses on the blank line",
+          "display_title": "Extra witness risk",
+          "timestamp": "20:32"
+        }
+      ]
+    },
+    {
+      "title": "Single-Erasure vs. Double-Erasure Detection",
+      "display_title": "Erasure detection",
+      "timestamp": "22:54",
+      "micro_segments": [
+        {
+          "title": "Principle: single erasure looks different from double erasure",
+          "display_title": "Visual difference",
+          "timestamp": "22:54"
+        },
+        {
+          "title": "Concern: forger could erase top of document and rewrite it on erased background",
+          "display_title": "Double erase risk",
+          "timestamp": "24:41"
+        },
+        {
+          "title": "Witnesses must sign on erased background that was erased in their presence",
+          "display_title": "Witnesses witness erasure",
+          "timestamp": "25:47"
+        },
+        {
+          "title": "Scenario: document body on clean background, witnesses on erased background is valid",
+          "display_title": "Clean body valid",
+          "timestamp": "26:47"
+        },
+        {
+          "title": "Scenario: document body on erased background, witnesses on clean background is invalid",
+          "display_title": "Erased body invalid",
+          "timestamp": "30:48"
+        },
+        {
+          "title": "Solution for invalid scenario: insert notation between witness signatures stating background was erased",
+          "display_title": "Notation solution",
+          "timestamp": "32:11"
+        },
+        {
+          "title": "Limitation: cannot distinguish between single and double erasures without basis of comparison",
+          "display_title": "Comparison needed",
+          "timestamp": "33:58"
+        },
+        {
+          "title": "Limitation: age of erasure affects appearance; fresh vs. old erasure look different",
+          "display_title": "Age of erasure",
+          "timestamp": "37:32"
+        },
+        {
+          "title": "Final rule: Beit Din too prone to error in making such distinctions; document invalid",
+          "display_title": "Beit Din error risk",
+          "timestamp": "38:40"
+        }
+      ]
+    },
+    {
+      "title": "Dated Documents and Mekushar (Tied) Contracts",
+      "display_title": "Dating systems",
+      "timestamp": "40:46",
+      "micro_segments": [
+        {
+          "title": "Introduction to mekushar document form with witnesses on outside of tied scroll",
+          "display_title": "Mekushar form",
+          "timestamp": "40:46"
+        },
+        {
+          "title": "Rabbi Chanina ben Gamliel: witnesses on inside of mekushar are valid; can be opened and converted",
+          "display_title": "Inside witnesses valid",
+          "timestamp": "40:47"
+        },
+        {
+          "title": "Objection: different dating systems used for mekushar vs. regular document",
+          "display_title": "Dating difference",
+          "timestamp": "42:06"
+        },
+        {
+          "title": "Example: postdating risk if mekushar is opened and converted to regular document",
+          "display_title": "Postdating risk",
+          "timestamp": "45:03"
+        },
+        {
+          "title": "Rav's explanation: one who allows witnesses inside would prohibit writing receipts",
+          "display_title": "No receipts",
+          "timestamp": "49:41"
+        },
+        {
+          "title": "Anecdote: Rabbi initially unaware of different dating system; learned from Zonim",
+          "display_title": "Rabbi's learning",
+          "timestamp": "50:48"
+        }
+      ]
+    },
+    {
+      "title": "Roman Official Titles and Terms of Office",
+      "display_title": "Roman archon titles",
+      "timestamp": "52:11",
+      "micro_segments": [
+        {
+          "title": "Document dated by archon (governor) name without specifying year of term",
+          "display_title": "Archon dating",
+          "timestamp": "52:11"
+        },
+        {
+          "title": "Assumption: archon (one-year office) means first year of tenure; digon means second year",
+          "display_title": "Archon=year 1",
+          "timestamp": "53:05"
+        },
+        {
+          "title": "Concern: archon might have served multiple non-consecutive terms",
+          "display_title": "Multiple terms",
+          "timestamp": "53:22"
+        },
+        {
+          "title": "Distinction: archon (first term) vs. archon digon (reelected for second term)",
+          "display_title": "Term designation",
+          "timestamp": "54:49"
+        }
+      ]
+    },
+    {
+      "title": "Greek Geometric Terms Applied to Nazir Vows and Ritual Impurity",
+      "display_title": "Greek geometry terms",
+      "timestamp": "55:11",
+      "micro_segments": [
+        {
+          "title": "Greek number-shape terminology: acta (one), digon (two), trigon (three), tetragon (four), pentagon (five)",
+          "display_title": "Shape-number terms",
+          "timestamp": "55:11"
+        },
+        {
+          "title": "Application to Nazir vows: accepting multiple periods of nazirite sanctity",
+          "display_title": "Nazir multiplicity",
+          "timestamp": "55:14"
+        },
+        {
+          "title": "House impurity rules: only four-cornered (tetragon) houses susceptible to leprosy impurity",
+          "display_title": "Four corners needed",
+          "timestamp": "56:07"
+        },
+        {
+          "title": "Biblical source: verses mentioning walls (plural) imply four walls and corners",
+          "display_title": "Four walls source",
+          "timestamp": "56:42"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "שטר (shtar/document)",
+      "timestamps": [
+        "00:22",
+        "00:40",
+        "00:53",
+        "01:05",
+        "01:26",
+        "02:00",
+        "02:52",
+        "03:31",
+        "04:07",
+        "04:22",
+        "04:49",
+        "05:20",
+        "05:32",
+        "06:01",
+        "09:01",
+        "10:24",
+        "10:31",
+        "11:01",
+        "11:08",
+        "11:22",
+        "11:38",
+        "12:01",
+        "12:05",
+        "12:47",
+        "14:00",
+        "14:14",
+        "15:03",
+        "15:47",
+        "16:18",
+        "16:21",
+        "16:56",
+        "17:04",
+        "21:59",
+        "22:01",
+        "22:27",
+        "23:31",
+        "26:47",
+        "26:52",
+        "27:00",
+        "27:20",
+        "28:01",
+        "28:15",
+        "30:48",
+        "30:50",
+        "31:05",
+        "31:59",
+        "32:01",
+        "32:39",
+        "34:09",
+        "36:00",
+        "40:46",
+        "40:53",
+        "41:27",
+        "41:40",
+        "41:47",
+        "42:06",
+        "42:27",
+        "42:34",
+        "42:46",
+        "45:03",
+        "45:27",
+        "45:38",
+        "45:50",
+        "46:01",
+        "46:10",
+        "46:23",
+        "47:25",
+        "47:37",
+        "49:06",
+        "49:35",
+        "49:41",
+        "49:47",
+        "49:59",
+        "50:03",
+        "50:08",
+        "51:04",
+        "51:54"
+      ]
+    },
+    {
+      "term": "עדים/עדיו (eidim/witnesses)",
+      "timestamps": [
+        "00:22",
+        "00:27",
+        "00:30",
+        "01:05",
+        "01:08",
+        "01:11",
+        "01:20",
+        "01:26",
+        "02:05",
+        "03:01",
+        "03:13",
+        "04:09",
+        "04:33",
+        "05:23",
+        "07:55",
+        "08:16",
+        "08:41",
+        "09:04",
+        "09:14",
+        "10:34",
+        "10:45",
+        "10:47",
+        "11:27",
+        "11:42",
+        "11:58",
+        "12:05",
+        "12:47",
+        "13:23",
+        "13:28",
+        "14:05",
+        "14:14",
+        "14:20",
+        "14:26",
+        "14:35",
+        "14:43",
+        "14:58",
+        "15:27",
+        "15:40",
+        "15:47",
+        "16:01",
+        "16:08",
+        "16:18",
+        "16:25",
+        "16:43",
+        "17:01",
+        "17:10",
+        "20:32",
+        "21:32",
+        "21:39",
+        "21:45",
+        "22:01",
+        "22:46",
+        "25:47",
+        "26:47",
+        "26:56",
+        "27:08",
+        "27:14",
+        "28:16",
+        "28:20",
+        "29:34",
+        "29:44",
+        "30:27",
+        "30:48",
+        "30:50",
+        "31:02",
+        "31:14",
+        "31:35",
+        "32:01",
+        "32:14",
+        "33:14",
+        "33:35",
+        "34:04"
+      ]
+    },
+    {
+      "term": "מחק/נמחק (machak/erased)",
+      "timestamps": [
+        "01:53",
+        "02:56",
+        "03:25",
+        "04:38",
+        "05:06",
+        "06:14",
+        "06:18",
+        "08:41",
+        "15:47",
+        "22:01",
+        "22:27",
+        "22:47",
+        "22:59",
+        "24:41",
+        "25:03",
+        "25:40",
+        "26:18",
+        "26:47",
+        "26:52",
+        "27:08",
+        "30:27",
+        "30:48",
+        "30:50",
+        "31:14",
+        "32:39",
+        "33:04",
+        "33:14",
+        "33:35",
+        "34:04",
+        "34:19",
+        "34:26",
+        "34:30",
+        "34:40",
+        "34:50"
+      ]
+    },
+    {
+      "term": "קיום/אשרתא (kiyum/validation)",
+      "timestamps": [
+        "00:53",
+        "01:20",
+        "01:26",
+        "01:53",
+        "02:09",
+        "05:20",
+        "05:32",
+        "05:40",
+        "06:01",
+        "06:04",
+        "06:14",
+        "07:55",
+        "08:00",
+        "08:04",
+        "08:31",
+        "08:36",
+        "08:44",
+        "09:11",
+        "09:20",
+        "10:34",
+        "10:58",
+        "11:27",
+        "11:42",
+        "11:58",
+        "12:09",
+        "12:14",
+        "12:47",
+        "14:35",
+        "16:41",
+        "16:47"
+      ]
+    },
+    {
+      "term": "Rav (רב)",
+      "timestamps": [
+        "00:55",
+        "01:01",
+        "02:17",
+        "02:46",
+        "04:49",
+        "04:55",
+        "07:50",
+        "08:00",
+        "08:50",
+        "21:59",
+        "25:47"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan (רבי יוחנן)",
+      "timestamps": [
+        "10:34",
+        "10:36",
+        "10:38",
+        "10:45",
+        "10:50"
+      ]
+    },
+    {
+      "term": "Abaye (אביי)",
+      "timestamps": [
+        "25:47"
+      ]
+    },
+    {
+      "term": "Rashbam (רשב״ם)",
+      "timestamps": [
+        "12:19",
+        "15:11",
+        "26:10"
+      ]
+    },
+    {
+      "term": "Tosafot (תוספות)",
+      "timestamps": [
+        "12:09",
+        "12:23",
+        "12:34",
+        "41:25",
+        "52:30"
+      ]
+    },
+    {
+      "term": "Two-line gap rule",
+      "timestamps": [
+        "00:18",
+        "00:22",
+        "00:27",
+        "00:37",
+        "10:38",
+        "10:41"
+      ]
+    },
+    {
+      "term": "One-line gap rule",
+      "timestamps": [
+        "00:40",
+        "10:38",
+        "10:45",
+        "10:59",
+        "11:01",
+        "11:08",
+        "11:27"
+      ]
+    },
+    {
+      "term": "Mekushar (מקושר/tied document)",
+      "timestamps": [
+        "40:46",
+        "40:47",
+        "40:51",
+        "40:53",
+        "42:06",
+        "42:27",
+        "42:46",
+        "43:01",
+        "43:26",
+        "45:03",
+        "51:01",
+        "51:54"
+      ]
+    },
+    {
+      "term": "Pashut (פשוט/simple document)",
+      "timestamps": [
+        "45:27",
+        "45:38",
+        "45:50",
+        "46:01",
+        "46:10",
+        "46:23"
+      ]
+    },
+    {
+      "term": "Dating systems (king's year reckoning)",
+      "timestamps": [
+        "42:38",
+        "43:01",
+        "43:26",
+        "43:32",
+        "51:29",
+        "51:35"
+      ]
+    },
+    {
+      "term": "Archon (ארקן/Roman governor)",
+      "timestamps": [
+        "52:11",
+        "52:15",
+        "53:04",
+        "53:05",
+        "53:22",
+        "53:36",
+        "54:07",
+        "54:26",
+        "54:49",
+        "54:54"
+      ]
+    },
+    {
+      "term": "Digon (דיגון/second-year term)",
+      "timestamps": [
+        "53:45",
+        "53:50",
+        "54:07",
+        "54:26",
+        "54:49",
+        "55:20"
+      ]
+    },
+    {
+      "term": "Greek geometric terminology (acta, digon, trigon, tetragon, pentagon)",
+      "timestamps": [
+        "55:11",
+        "55:14",
+        "55:17",
+        "55:20",
+        "55:26",
+        "55:29",
+        "55:45",
+        "55:50",
+        "55:57",
+        "56:02",
+        "56:28",
+        "56:40"
+      ]
+    },
+    {
+      "term": "Nazir (נזיר/nazirite vow)",
+      "timestamps": [
+        "55:11",
+        "55:14",
+        "55:26",
+        "55:46",
+        "55:53",
+        "55:57",
+        "56:02"
+      ]
+    },
+    {
+      "term": "House impurity from leprosy (טמא בנגעים)",
+      "timestamps": [
+        "56:30",
+        "56:40"
+      ]
+    },
+    {
+      "term": "Tetragon house requirement",
+      "timestamps": [
+        "56:28",
+        "56:40",
+        "57:03"
+      ]
+    },
+    {
+      "term": "Rav Kahana (רב כהנא)",
+      "timestamps": [
+        "07:54",
+        "07:55"
+      ]
+    },
+    {
+      "term": "Shmuel (שמואל)",
+      "timestamps": [
+        "07:54",
+        "08:10"
+      ]
+    },
+    {
+      "term": "Rav Tavyumi (רב טביומי)",
+      "timestamps": [
+        "08:56"
+      ]
+    },
+    {
+      "term": "Rav Hoshaya (רב הושעיא)",
+      "timestamps": [
+        "37:32",
+        "53:39"
+      ]
+    },
+    {
+      "term": "Rabbi Chanina ben Gamliel (רבי חנינא בן גמליאל)",
+      "timestamps": [
+        "40:47",
+        "40:51",
+        "41:47",
+        "49:51"
+      ]
+    },
+    {
+      "term": "Rabbi Yirmiyah (רבי ירמיה)",
+      "timestamps": [
+        "38:40",
+        "54:49"
+      ]
+    },
+    {
+      "term": "Zonim (זונם)",
+      "timestamps": [
+        "51:15",
+        "51:18",
+        "51:26",
+        "51:50",
+        "51:59",
+        "52:06"
+      ]
+    },
+    {
+      "term": "Receipt (שובר/tavra)",
+      "timestamps": [
+        "49:41",
+        "49:54",
+        "49:99"
+      ]
+    },
+    {
+      "term": "Postdating concern (שטר מאוחר)",
+      "timestamps": [
+        "46:07",
+        "46:16",
+        "46:23"
+      ]
+    },
+    {
+      "term": "Double erasure detection",
+      "timestamps": [
+        "24:41",
+        "30:14",
+        "31:13",
+        "32:56",
+        "33:04",
+        "33:35"
+      ]
+    }
+  ]
+}

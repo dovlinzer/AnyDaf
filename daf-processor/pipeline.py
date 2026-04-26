@@ -155,7 +155,20 @@ def _repair_segmentation_text(text: str) -> str:
         data = repair_segmentation(data)
         return json.dumps(data, ensure_ascii=False, indent=2)
     except json.JSONDecodeError:
-        return text  # return original if unparseable; pipeline will log the error later
+        pass
+
+    # Try syntax repair (handles missing commas, trailing commas, etc.)
+    try:
+        from json_repair import repair_json
+        repaired_str = repair_json(raw)
+        data = json.loads(repaired_str)
+        data = repair_segmentation(data)
+        logger.info("  Segmentation JSON syntax-repaired by json_repair.")
+        return json.dumps(data, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+    return text  # return original if still unparseable; pipeline will log the error later
 
 
 PASS_FILES = {
@@ -184,12 +197,14 @@ class Pipeline:
         workers: int = DEFAULT_WORKERS,
         resume: bool = False,
         passes: str = 'all',
+        refresh_sefaria: bool = False,
     ):
         self.output_dir = output_dir
         self.use_batch = use_batch
         self.workers = workers
         self.resume = resume
         self.passes = passes
+        self.refresh_sefaria = refresh_sefaria
         self.client = anthropic.Anthropic()
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -254,7 +269,7 @@ class Pipeline:
 
     def _get_sefaria(self, masechta: str, daf: int, job_dir: Path) -> str:
         cache = job_dir / 'sefaria.md'
-        if cache.exists():
+        if cache.exists() and not self.refresh_sefaria:
             return cache.read_text(encoding='utf-8')
         logger.info(f"  Fetching Sefaria text for {masechta} {daf}")
         text = fetch_daf_text(masechta, daf)
@@ -267,7 +282,7 @@ class Pipeline:
         if prev_daf < 2:   # dafs start at 2; nothing before daf 2
             return None
         cache = job_dir / 'sefaria_prev.md'
-        if cache.exists():
+        if cache.exists() and not self.refresh_sefaria:
             return cache.read_text(encoding='utf-8')
         logger.info(f"  Fetching Sefaria tail for {masechta} {prev_daf} (preceding context)")
         text = fetch_daf_tail(masechta, prev_daf)
@@ -279,7 +294,7 @@ class Pipeline:
         """Return the a-side of the following daf as context for pass 3."""
         next_daf = daf + 1
         cache = job_dir / 'sefaria_next.md'
-        if cache.exists():
+        if cache.exists() and not self.refresh_sefaria:
             return cache.read_text(encoding='utf-8')
         logger.info(f"  Fetching Sefaria head for {masechta} {next_daf} (following context)")
         text = fetch_daf_head(masechta, next_daf)
@@ -484,8 +499,21 @@ class Pipeline:
 
         # Poll until done
         start = time.time()
+        poll_error_backoff = [10, 30, 60, 120, 300]
         while True:
-            batch = self.client.messages.batches.retrieve(batch.id)
+            for poll_attempt, wait in enumerate(poll_error_backoff + [None]):
+                try:
+                    batch = self.client.messages.batches.retrieve(batch.id)
+                    break
+                except anthropic.APIStatusError as e:
+                    if e.status_code >= 500 and wait is not None:
+                        logger.warning(
+                            f"  Batch poll returned HTTP {e.status_code} "
+                            f"(attempt {poll_attempt + 1}); retrying in {wait}s…"
+                        )
+                        time.sleep(wait)
+                    else:
+                        raise
             counts = batch.request_counts
             logger.info(
                 f"  Status: {batch.processing_status} | "

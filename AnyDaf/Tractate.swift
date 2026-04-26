@@ -32,7 +32,7 @@ let allTractates: [Tractate] = [
     Tractate(name: "Yoma",          startDaf: 2,  endDaf: 88),
     Tractate(name: "Sukkah",        startDaf: 2,  endDaf: 56),
     Tractate(name: "Beitzah",       startDaf: 2,  endDaf: 40),
-    Tractate(name: "Ta'anit",       startDaf: 2,  endDaf: 31),
+    Tractate(name: "Ta\u{2019}anit", startDaf: 2,  endDaf: 31),
     Tractate(name: "Megillah",      startDaf: 2,  endDaf: 32),
     Tractate(name: "Moed Katan",    startDaf: 2,  endDaf: 29),
     Tractate(name: "Chagigah",      startDaf: 2,  endDaf: 27),

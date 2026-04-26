@@ -1,0 +1,69 @@
+### Bava Kamma 62b
+
+**1.**
+*Hebrew/Aramaic:* מַתְנִי׳ גֵּץ שֶׁיָּצָא מִתַּחַת הַפַּטִּישׁ וְהִזִּיק – חַיָּיב.
+*Translation:* MISHNA: In the case of **a spark that emerged from under the hammer** of a blacksmith and started a fire, **causing damage,** the blacksmith is **liable** for the damage caused.
+
+**2.**
+*Hebrew/Aramaic:* גָּמָל שֶׁהָיָה טָעוּן פִּשְׁתָּן, וְעָבַר בִּרְשׁוּת הָרַבִּים, וְנִכְנְסָה פִּשְׁתָּנוֹ לְתוֹךְ הַחֲנוּת וְדָלְקָה בְּנֵרוֹ שֶׁל חֶנְוָנִי, וְהִדְלִיק אֶת הַבִּירָה – בַּעַל גָּמָל חַיָּיב. הִנִּיחַ חֶנְוָנִי נֵרוֹ מִבַּחוּץ – הַחֶנְוָנִי חַיָּיב. רַבִּי יְהוּדָה אוֹמֵר: בְּנֵר חֲנוּכָּה – פָּטוּר.
+*Translation:* In the case of **a camel that was laden with flax and was passing through the public domain, and its flax extended into a store and** the flax **caught fire from a lamp** in the store **belonging to the storekeeper, and** as a result of the burning flax the camel **set fire to the building** together with all its contents, **the owner of the camel** is **liable.** But if **the storekeeper placed his lamp outside,** thereby causing the flax on the camel to catch fire, and consequently the building was set on fire, **the storekeeper** is **liable. Rabbi Yehuda says: In** a case where the lamp placed outside was **a Hanukkah lamp,** the storekeeper is **exempt,** since it is a mitzva for a Hanukkah lamp to be placed outside.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רָבִינָא מִשְּׁמֵיהּ דְּרָבָא: שְׁמַע מִינַּהּ מִדְּרַבִּי יְהוּדָה, נֵר חֲנוּכָּה – מִצְוָה לְהַנִּיחָהּ בְּתוֹךְ עֲשָׂרָה. דְּאִי סָלְקָא דַּעְתָּךְ לְמַעְלָה מֵעֲשָׂרָה, אַמַּאי אָמַר רַבִּי יְהוּדָה: נֵר חֲנוּכָּה פָּטוּר? לֵימָא לֵיהּ: הֲוָה לֵיהּ לְאַנּוֹחַהּ לְמַעְלָה מִגָּמָל וְרוֹכְבוֹ! אֶלָּא לָאו שְׁמַע מִינַּהּ: מִצְוָה לְהַנִּיחָהּ בְּתוֹךְ עֲשָׂרָה?
+*Translation:* GEMARA: **Ravina said in the name of Rava: Conclude from Rabbi Yehuda’s** statement that **the mitzva is to place the Hanukkah lamp within** a height of **ten** handbreadths from the ground **as, if it enters your mind** to say that the mitzva can also be fulfilled by placing it **above ten handbreadths, why did Rabbi Yehuda say that** in the case of **a Hanukkah lamp** placed outside, the storekeeper is **exempt? Let** the owner of the camel **say to** the storekeeper: **You should have placed** the lamp **above the** height **of a camel and its rider** so that the flax would not catch fire. **Rather,** must one **not conclude from** here that Rabbi Yehuda’s opinion is that **the mitzva is to place it within ten handbreadths** of the ground and not higher?
+
+**4.**
+*Hebrew/Aramaic:* אָמְרִי: לָא; לְעוֹלָם אֵימָא לָךְ אֲפִילּוּ לְמַעְלָה מֵעֲשָׂרָה, מַאי אָמְרַתְּ – אִבְּעִי לָךְ לְאַנּוֹחַהּ לְמַעְלָה מִגָּמָל וְרוֹכְבוֹ? כֵּיוָן דִּבְמִצְוָה קָא עָסֵיק, כּוּלֵּי הַאי לָא אַטְרְחוּהּ רַבָּנַן.
+*Translation:* The Sages **say** in response: **No,** there is no proof from here. **Actually, I** could **say to you** that one may place a Hanukkah lamp **even above** a height of **ten** handbreadths, and as for **what you said,** that the owner of the camel can claim: **You should have placed** the lamp **above** the height **of a camel and its rider,** in response to this one can say: **Since** the store owner **is performing a mitzva** by placing his Hanukkah lamp outside, **the Sages did not trouble him to such an extent** to have him place his lamp at a height that would be inconvenient for him to reach.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב כָּהֲנָא, דָּרֵשׁ רַב נָתָן בַּר מִנְיוֹמֵי מִשְּׁמֵיהּ דְּרַבִּי תַּנְחוּם: נֵר חֲנוּכָּה שֶׁהִנִּיחָהּ לְמַעְלָה מֵעֶשְׂרִים אַמָּה – פְּסוּלָה, כְּסוּכָּה וּכְמָבוֹי.
+*Translation:* Further on the subject of the height of a Hanukkah lamp, **Rav Kahana says** that **Rav Natan bar Minyumi taught in the name of Rabbi Tanḥum: A Hanukkah lamp that is placed higher than twenty cubits** from the ground is **unfit** to be used for the mitzva, since people do not generally look up to such a height, and the main purpose of the Hanukkah lamp is for it to be seen by others. In this regard, the *halakha* of the height of a Hanukkah lamp is **like** the *halakha* of the height of **a *sukka* and** the *halakha* of the height of a cross beam at the entrance to **an alleyway,** which are unfit for their respective purposes if they are higher than twenty cubits.
+
+**6.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הַכּוֹנֵס.
+*Translation:* 
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ מְרוּבָּה מִדַּת תַּשְׁלוּמֵי כֶפֶל מִמִּדַּת תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה. שֶׁמִּדַּת תַּשְׁלוּמֵי כֶפֶל נוֹהֶגֶת בֵּין בְּדָבָר שֶׁיֵּשׁ בּוֹ רוּחַ חַיִּים וּבֵין בְּדָבָר שֶׁאֵין בּוֹ רוּחַ חַיִּים, וּמִדַּת תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה אֵינָהּ נוֹהֶגֶת אֶלָּא בְּשׁוֹר וָשֶׂה בִּלְבַד – שֶׁנֶּאֱמַר: ״כִּי יִגְנֹב אִישׁ שׁוֹר אוֹ שֶׂה וּטְבָחוֹ אוֹ מְכָרוֹ וְגוֹ׳״.
+*Translation:* MISHNA: **The principle of double payment** applies **more broadly than the principle of fourfold or fivefold payment, as the principle of double payment applies both to** the theft of **something that is alive and to** the theft of **something that is not alive, but the principle of fourfold or fivefold payment applies only to** the theft of **an ox or a sheep, as it is stated: “If a man steal an ox or a sheep, and slaughter it or sell it,** he shall pay five oxen for an ox and four sheep for a sheep” (Exodus 21:37).
+
+**8.**
+*Hebrew/Aramaic:* אֵין הַגּוֹנֵב אַחַר הַגַּנָּב מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל, וְלֹא הַטּוֹבֵחַ וְלֹא הַמּוֹכֵר אַחַר הַגַּנָּב מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה.
+*Translation:* Having stated a limitation to the *halakha* of fourfold and fivefold payment, the mishna mentions a further limitation, which applies to all three types of payments. **One who steals** an item **after a thief** has already stolen it, i.e., one who steals a stolen item, **does not pay** the **double payment** to the thief or to the prior owner, **nor does one who slaughters or sells** an ox or a sheep **after a thief** has already stolen it **pay** the **fourfold or fivefold payment.** Rather, he pays only the principal, i.e., the value of the item he stole.
+
+**9.**
+*Hebrew/Aramaic:* גְּמָ׳ וְאִילּוּ ״מִדַּת תַּשְׁלוּמֵי כֶפֶל נוֹהֶגֶת בֵּין בְּגַנָּב בֵּין בְּטוֹעֵן טַעֲנַת גַּנָּב, וּמִדַּת תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה אֵינָהּ נוֹהֶגֶת אֶלָּא בְּגַנָּב בִּלְבַד״ – לָא קָתָנֵי.
+*Translation:* GEMARA: The mishna teaches one particular difference between double payment and fourfold or fivefold payment, **while it does not teach** this difference between them: **The principle of double payment applies both in** the case of **a thief and in** the case of a bailee who falsely **states the claim** that **a thief** stole the deposit entrusted to him and who takes an oath to that effect. **But the principle of fourfold or fivefold payment applies only in** the case of **a thief,** not in the case of one who falsely claims that a deposit was stolen.
+
+**10.**
+*Hebrew/Aramaic:* מְסַיַּיע לֵיהּ לְרַבִּי חִיָּיא בַּר אַבָּא, דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: הַטּוֹעֵן טַעֲנַת גַּנָּב בְּפִקָּדוֹן – מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל. טָבַח וּמָכַר – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה.
+*Translation:* The fact that the mishna does not teach the latter distinction **supports** the opinion of **Rabbi Ḥiyya bar Abba, as Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** In the case of **one who** falsely **states the claim** that **a thief** stole a **deposit** from him, and it is discovered that he himself is the thief, he **pays double payment.** And if the stolen item is an ox or sheep and **he slaughtered or sold** it, **he pays** the **fourfold or fivefold payment.** According to Rabbi Ḥiyya bar Abba, there is no difference between the applications of double payment and fourfold or fivefold payment in this case.
+
+**11.**
+*Hebrew/Aramaic:* אִיכָּא דְאָמְרִי: לֵימָא מְסַיַּיע לֵיהּ לְרַבִּי חִיָּיא בַּר אַבָּא – דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: הַטּוֹעֵן טַעֲנַת גַּנָּב בְּפִקָּדוֹן – מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל. טָבַח וּמָכַר – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה?
+*Translation:* **There are** those **who say** a different version of this discussion: **Let us say** that the mishna **supports** the opinion of **Rabbi Ḥiyya bar Abba, as Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** In the case of **one who** falsely **states the claim** that **a thief** stole a **deposit** from him, and it is discovered that he himself is the thief, he **pays double payment.** And if the stolen item is an ox or sheep, and **he slaughtered or sold** it, **he pays** the **fourfold or fivefold payment.**
+
+**12.**
+*Hebrew/Aramaic:* מִי קָתָנֵי: ״אֵין בֵּין״?! ״מְרוּבָּה״ קָתָנֵי – תְּנָא וְשַׁיַּיר.
+*Translation:* The Gemara rejects the inference: **Does** the mishna **teach** that **there is no** difference **between** double payment and fourfold or fivefold payment except for the one mentioned in the mishna? **It teaches** merely that the principle of double payment applies **more broadly** than the principle of fourfold or fivefold payment, and it provides an example of this statement. This does not mean that this is the only difference, and it is possible that the *tanna* **taught** this one case **and omitted** others.
+
+**13.**
+*Hebrew/Aramaic:* שֶׁמִּדַּת תַּשְׁלוּמֵי כֶפֶל נוֹהֶגֶת כּוּ׳. מְנָא הָנֵי מִילֵּי דְּתָנוּ רַבָּנַן: ״עַל כׇּל דְּבַר פֶּשַׁע״ – כָּלַל, ״עַל שׁוֹר, עַל חֲמוֹר, עַל שֶׂה וְעַל שַׂלְמָה״ – פָּרַט, ״עַל כׇּל אֲבֵדָה״ – חָזַר וְכָלַל;
+*Translation:* § The mishna teaches **that the principle of double payment applies** both to the theft of something that is alive and to the theft of something that is not alive. The Gemara asks: **From where are these matters** derived? It is **as the Sages taught** in a *baraita* with regard to the verse that discusses double payment: “For any matter of trespass, whether it be for an ox, for a donkey, for a sheep, for a garment, or for any manner of lost thing about which one shall say: This is it, the claims of both of them shall come before the judges, the one whom the judges convict shall pay double to his neighbor” (Exodus 22:8). **“For any matter of trespass”** is **a generalization; “whether it be for an ox, for a donkey, for a sheep, for a garment”** is **a detail.** And when the verse states: **“Or for any manner of lost thing,” it then generalizes** again.
+
+**14.**
+*Hebrew/Aramaic:* כְּלָל וּפְרָט וּכְלָל – אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט; מָה הַפְּרָט מְפוֹרָשׁ – דָּבָר הַמִּטַּלְטֵל וְגוּפוֹ מָמוֹן, אַף כֹּל דָּבָר הַמִּטַּלְטֵל וְגוּפוֹ מָמוֹן.
+*Translation:* Consequently, this verse contains **a generalization, and a detail, and a generalization,** and one of the thirteen rules of exegesis states that in such a case **you may deduce** that the verse is referring **only** to items **similar to the detail.** Therefore, **just as** each of the items mentioned in **the detail** is clearly **defined as an item that is movable property and** has **intrinsic monetary** value, **so too** double payment is practiced with regard to **any item that is movable property and** has **intrinsic monetary** value.
+
+**15.**
+*Hebrew/Aramaic:* יָצְאוּ קַרְקָעוֹת – שֶׁאֵינָן מִטַּלְטְלִין; יָצְאוּ עֲבָדִים – שֶׁהוּקְּשׁוּ לְקַרְקָעוֹת; יָצְאוּ שְׁטָרוֹת – שֶׁאַף עַל פִּי שֶׁמִּטַּלְטְלִין, אֵין גּוּפָן מָמוֹן; יָצָא הֶקְדֵּשׁ – ״רֵעֵהוּ״ כְּתִיב.
+*Translation:* **Land is excluded, as it is not movable property.** Canaanite **slaves are excluded, as they are compared to land** in many areas of *halakha*. Financial **documents are excluded, as, although they are movable property, they do not** have **intrinsic monetary** value. The value of the material on which the document is written is negligible; documents are valuable only because they serve as proof for monetary claims. Finally, **consecrated** property **is excluded** because **it is written** in the verse that the one found liable shall pay double to **“his neighbor,”** i.e., to another person, rather than to the Temple treasury.
+
+**16.**
+*Hebrew/Aramaic:* אִי, מָה הַפְּרָט מְפוֹרָשׁ – דָּבָר שֶׁנִּבְלָתוֹ מְטַמְּאָ[ה] בְּמַגָּע וּבְמַשָּׂא, אַף כֹּל דָּבָר שֶׁנִּבְלָתוֹ מְטַמְּאָ[ה] בְּמַגָּע וּבְמַשָּׂא, אֲבָל עוֹפוֹת לָא!
+*Translation:* The Gemara asks: **If** the *halakha* of double payment is limited to cases similar to the details mentioned in the verse, it should also be derived that **just as** each of the items mentioned in **the detail** is clearly **defined as an item whose carcass transmits impurity through contact and carrying, so too any item whose carcass transmits impurity through contact and carrying** it is subject to double payment. **But birds,** whose carcasses do not transmit impurity through contact or carrying, should **not** be subject to double payment.
+
+**17.**
+*Hebrew/Aramaic:* וּמִי מָצֵית אָמְרַתְּ הָכִי? וְהָא ״שַׂלְמָה״ כְּתִיב! אָמְרִי: אֲנַן בְּבַעֲלֵי חַיִּים קָאָמְרִינַן; אֵימָא בְּבַעֲלֵי חַיִּים, דָּבָר שֶׁנִּבְלָתוֹ מְטַמְּאָ[ה] בְּמַגָּע וּבְמַשָּׂא – אִין, דָּבָר שֶׁאֵין נִבְלָתוֹ מְטַמְּאָ[ה] בְּמַגָּע וּבְמַשָּׂא – לָא,
+*Translation:* The Gemara objects to the question: **But how can you say this? But isn’t “garment” written** in the list of specified items (Exodus 22:8)? It is impossible to speak of the impurity of carcasses with regard to clothing. The Gemara responds: **Say,** in response to this objection: **We are speaking** specifically **of animals,** and this is the question that was asked: Why not **say** that **with regard to animals,** an animal **whose carcass transmits impurity through contact and carrying, yes,** it is subject to double payment, whereas an animal **whose carcass does not transmit impurity through contact and carrying,** such as a bird, **no,** a thief would not pay double payment for stealing it?

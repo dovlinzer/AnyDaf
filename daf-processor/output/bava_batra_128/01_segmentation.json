@@ -1,0 +1,336 @@
+```json
+{
+  "masechta": "Bava Batra",
+  "daf": 128,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to the Six Rulings of Rabbi Abba to Rabbi Yosef bar Chama",
+      "display_title": "Six Rulings Structure",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening and Context: Rabbi Abba and Rabbi Yosef bar Chama",
+          "display_title": "Intro: Amoraim",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Overview of the Six Rulings: Edut, Inheriting Property, and Related Topics",
+          "display_title": "Overview",
+          "timestamp": "00:40"
+        }
+      ]
+    },
+    {
+      "title": "First Ruling: Collection from Slaves (Govin min Ha-avadim)",
+      "display_title": "Govin min Avadim",
+      "timestamp": "01:03",
+      "micro_segments": [
+        {
+          "title": "The Ruling: Whether a Creditor Can Collect from Inherited Slaves",
+          "display_title": "Creditor vs. Slaves",
+          "timestamp": "01:03"
+        },
+        {
+          "title": "Rashbam's Explanation and Rabbi Yochanan's Dispute",
+          "display_title": "Rashbam & Yochanan",
+          "timestamp": "01:21"
+        }
+      ]
+    },
+    {
+      "title": "Second Ruling: Testimony Across Generations (Shelishi be-Sheni)",
+      "display_title": "Edut: Generations",
+      "timestamp": "02:10",
+      "micro_segments": [
+        {
+          "title": "The Ruling: Third Generation Testifying Against Second Generation Relatives",
+          "display_title": "Shelishi & Sheni",
+          "timestamp": "02:10"
+        },
+        {
+          "title": "Rava's Extension: Third Generation Against First Generation",
+          "display_title": "Rava's Expansion",
+          "timestamp": "03:46"
+        },
+        {
+          "title": "Mar bar Rav Ashi's Position and Rejection: Grandfather to Grandson Testimony",
+          "display_title": "Rav Ashi Rejected",
+          "timestamp": "04:07"
+        },
+        {
+          "title": "Rashbam vs. Rosh: Interpretation of Generational Limits",
+          "display_title": "Rashbam vs. Rosh",
+          "timestamp": "04:54"
+        }
+      ]
+    },
+    {
+      "title": "Third Ruling: Testimony by a Blind Witness Regarding Land (Edut Karka)",
+      "display_title": "Blind Witness Testimony",
+      "timestamp": "06:21",
+      "micro_segments": [
+        {
+          "title": "The Ruling: Disqualification of One Who Became Blind After Knowing Land Dimensions",
+          "display_title": "Blind Witness Disqualified",
+          "timestamp": "06:21"
+        },
+        {
+          "title": "Shmuel's Position: Permitting Testimony via Boundary Descriptions",
+          "display_title": "Shmuel Permits",
+          "timestamp": "06:55"
+        },
+        {
+          "title": "Rav Sheshet's Addition: Testimony About Garments vs. Gold",
+          "display_title": "Rav Sheshet: Garment/Gold",
+          "timestamp": "07:39"
+        },
+        {
+          "title": "Rav Papa's Further Extension: Weight-Based Testimony for Gold",
+          "display_title": "Rav Papa: Weight",
+          "timestamp": "08:05"
+        },
+        {
+          "title": "Refutation by Braita: The General Rule of Kashrut and Psulut at Beginning and End",
+          "display_title": "Braita Refutation",
+          "timestamp": "08:25"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Ruling: Testimony About a Child Among Children (Tinok Bein Ha-banim)",
+      "display_title": "Child Inheritor Claim",
+      "timestamp": "13:54",
+      "micro_segments": [
+        {
+          "title": "The Ruling: Credibility of One Claiming a Specific Child is His Heir",
+          "display_title": "Abaye's Interpretation",
+          "timestamp": "13:54"
+        },
+        {
+          "title": "Connection to Earlier Dispute: Rabbi Yochanan ben Broka vs. Rabbanan on Overriding Torah Inheritance",
+          "display_title": "Yochanan b. Broka",
+          "timestamp": "15:17"
+        },
+        {
+          "title": "Rava's Objection: Language Problem with Ne'eman vs. Inheritance",
+          "display_title": "Rava Objects",
+          "timestamp": "19:59"
+        },
+        {
+          "title": "Rava's Reinterpretation: The Case of Claiming Eldest Son Status",
+          "display_title": "Rava's Fix: Bechor",
+          "timestamp": "20:50"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Ruling: Wife Inheriting as One of the Children (Ishti Keechad Min Ha-banim)",
+      "display_title": "Wife as Child",
+      "timestamp": "21:54",
+      "micro_segments": [
+        {
+          "title": "The Ruling: Wife Granted Equal Share with Children in Inheritance",
+          "display_title": "Wife Inherits Equally",
+          "timestamp": "21:54"
+        },
+        {
+          "title": "Rava's Clarification: Property at Time of Statement and Future Children",
+          "display_title": "Rava's Limits",
+          "timestamp": "22:40"
+        }
+      ]
+    },
+    {
+      "title": "Sixth Ruling: Debtor's Admission with Contradicting Witnesses (Motzi Shtar Chov)",
+      "display_title": "Debt Admission",
+      "timestamp": "25:18",
+      "micro_segments": [
+        {
+          "title": "The Scenario: Creditor's Document, Debtor's Partial Admission, Contradicting Witnesses",
+          "display_title": "Setup",
+          "timestamp": "25:18"
+        },
+        {
+          "title": "Rashbam's Explanation: Why the Debtor Takes an Oath and Pays Half from Unencumbered Property",
+          "display_title": "Rashbam Explains",
+          "timestamp": "25:55"
+        },
+        {
+          "title": "Connection to Bava Metzia: Rabbi Akiva's Meshiv Aveidah vs. Rabbi Shimon ben Elazar's Modeh Miktzat",
+          "display_title": "BM Context",
+          "timestamp": "26:20"
+        },
+        {
+          "title": "Rav Ashi's Challenge: Even Rabbi Akiva Requires an Oath When Witnesses Threaten",
+          "display_title": "Rav Ashi Objects",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Mar bar Rav Ashi's Counter: When Witnesses Confirm, Debtor is Like Meshiv Aveidah",
+          "display_title": "Mar bar Rav Ashi",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Discussion: The Debtor's Motivation and the Role of Fear vs. Actual Testimony",
+          "display_title": "Debate: Fear",
+          "timestamp": "28:39"
+        }
+      ]
+    },
+    {
+      "title": "Ruling on All Six Cases: Halacha According to Rabbi Abba",
+      "display_title": "Final Ruling",
+      "timestamp": "28:39",
+      "micro_segments": [
+        {
+          "title": "Mar Zutra's Declaration: Halacha in All Cases Follows Rabbi Abba's Rulings",
+          "display_title": "Zutra: Follow Abba",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Ravina's Question: What About Rabbi Nachman's Disagreement on Slaves?",
+          "display_title": "Nachman Dispute",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Rav Ashi's Clarification: Rabbi Abba Actually Ruled Like Rabbi Nachman",
+          "display_title": "Ashi: Clarify",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Rava's Clarification, Not Disagreement: On Testimony Across Generations",
+          "display_title": "Rava Clarifies",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Rejecting Mar bar Rav Ashi: On Grandson Testifying Against Grandfather",
+          "display_title": "Reject Ash: BnB",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "No Need to Pasken on Blind Witness Cases: Already Refuted by Braita",
+          "display_title": "Blind: Resolved",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Final Pasken: Halacha Against Rabbi Yochanan on Eldest Son Claim",
+          "display_title": "Not Like Yochanan",
+          "timestamp": "28:39"
+        },
+        {
+          "title": "Final Pasken: Halacha Against Mar bar Rav Ashi on Oath in Loan Case",
+          "display_title": "Against Ashi: Oath",
+          "timestamp": "28:39"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Govin min Ha-avadim (collection from slaves)",
+      "timestamps": ["01:03", "28:39"]
+    },
+    {
+      "term": "Shelishi be-Sheni (third generation vs. second)",
+      "timestamps": ["02:10", "03:46", "28:39"]
+    },
+    {
+      "term": "Edut Karka (testimony about land)",
+      "timestamps": ["06:21", "06:55", "07:39", "28:39"]
+    },
+    {
+      "term": "Blind witness (nistama)",
+      "timestamps": ["06:21", "06:46", "08:25", "28:39"]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": ["07:39"]
+    },
+    {
+      "term": "Rav Papa",
+      "timestamps": ["08:05"]
+    },
+    {
+      "term": "Tinok bein Ha-banim (child inheritor claim)",
+      "timestamps": ["13:54", "15:29"]
+    },
+    {
+      "term": "Rabbi Yochanan ben Broka vs. Rabbanan (overriding Torah inheritance)",
+      "timestamps": ["15:17", "28:39"]
+    },
+    {
+      "term": "Rava's clarification/objection",
+      "timestamps": ["19:59", "20:50", "28:39"]
+    },
+    {
+      "term": "Ishti keechad min Ha-banim (wife as child heir)",
+      "timestamps": ["21:54", "22:40"]
+    },
+    {
+      "term": "Motzi shtar chov (debtor's admission with witnesses)",
+      "timestamps": ["25:18", "28:39"]
+    },
+    {
+      "term": "Meshiv Aveidah (returning lost property)",
+      "timestamps": ["26:20", "28:39"]
+    },
+    {
+      "term": "Modeh Miktzat (partial admission of debt)",
+      "timestamps": ["26:20", "28:39"]
+    },
+    {
+      "term": "Shvuah (oath in debt cases)",
+      "timestamps": ["25:52", "26:55", "28:39"]
+    },
+    {
+      "term": "Rabbi Yochanan (disagreement with Rabbi Abba)",
+      "timestamps": ["01:21", "28:39"]
+    },
+    {
+      "term": "Rav Nachman",
+      "timestamps": ["01:07", "28:39"]
+    },
+    {
+      "term": "Rabbi Akiva vs. Rabbi Shimon ben Elazar (Bava Metzia)",
+      "timestamps": ["26:20"]
+    },
+    {
+      "term": "Mar bar Rav Ashi (objection)",
+      "timestamps": ["04:11", "28:39"]
+    },
+    {
+      "term": "Rav Ashi (clarification)",
+      "timestamps": ["28:39"]
+    },
+    {
+      "term": "Ravina",
+      "timestamps": ["28:39"]
+    },
+    {
+      "term": "Mar Zutra",
+      "timestamps": ["28:39"]
+    },
+    {
+      "term": "Tiyuvta (refutation)",
+      "timestamps": ["08:25", "28:39"]
+    },
+    {
+      "term": "Chazaka (presumption of eldest son)",
+      "timestamps": ["21:26"]
+    },
+    {
+      "term": "Rasbb"m (commentary)",
+      "timestamps": ["01:10", "01:21", "07:32", "24:00", "25:55"]
+    },
+    {
+      "term": "Soter divrei Torah (contradicting Torah law)",
+      "timestamps": ["18:16", "18:21"]
+    },
+    {
+      "term": "Miggo (presumption of truth)",
+      "timestamps": ["27:47"]
+    }
+  ]
+}
+```

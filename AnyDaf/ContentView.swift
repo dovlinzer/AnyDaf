@@ -83,7 +83,7 @@ struct ContentView: View {
                 }
             }
             .background(appBg)
-            .navigationTitle(horizontalSizeClass == .regular ? "" : "AnyDaf")
+            .navigationTitle("AnyDaf")
             .navigationBarTitleDisplayMode(.inline)
             .toolbarBackground(appBg, for: .navigationBar)
             .toolbarBackground(.visible, for: .navigationBar)
@@ -446,12 +446,19 @@ struct ContentView: View {
     @ViewBuilder private var iPadRightContent: some View {
         if let text = shiurDisplayText {
             VStack(spacing: 0) {
-                // Shiur header — tractate + daf (no a/b, since shiur covers the full daf)
-                Text("\(tractate.name) \(Int(selectedDaf))")
-                    .font(.headline)
-                    .foregroundStyle(appFg)
-                    .padding(.horizontal)
-                    .padding(.vertical, 10)
+                // Shiur header — tractate + daf (lock icon when audio is playing)
+                HStack(spacing: 6) {
+                    if !audioPlayer.isStopped {
+                        Image(systemName: "lock.fill")
+                            .font(.footnote)
+                            .foregroundStyle(appFg.opacity(0.55))
+                    }
+                    Text("\(tractate.name) \(Int(selectedDaf))")
+                        .font(.headline)
+                        .foregroundStyle(appFg)
+                }
+                .padding(.horizontal)
+                .padding(.vertical, 10)
                 ShiurTextView(
                     rewriteText: text,
                     currentSegmentIndex: shiurClient.currentSegmentIndex,
@@ -466,10 +473,10 @@ struct ContentView: View {
                 Spacer()
                 Image(systemName: "book.closed")
                     .font(.system(size: 44))
-                    .foregroundStyle(appFg.opacity(0.15))
+                    .foregroundStyle(appFg.opacity(0.35))
                 Text("No written shiur available on this daf")
                     .font(.callout)
-                    .foregroundStyle(appFg.opacity(0.3))
+                    .foregroundStyle(appFg)
                     .multilineTextAlignment(.center)
                 Spacer()
             }
@@ -572,8 +579,15 @@ struct ContentView: View {
 
     // MARK: - Compact Pickers (all form factors)
 
+    /// Width of the daf picker button — constant at 3-digit size so UIKit has
+    /// enough room to render any daf label without wrapping.
+    private var dafPickerWidth: CGFloat {
+        let attrs = [NSAttributedString.Key.font: UIFont.preferredFont(forTextStyle: .caption1)]
+        return ceil(("000" as NSString).size(withAttributes: attrs).width) + 32
+    }
+
     @ViewBuilder private var compactPickers: some View {
-        HStack(spacing: 4) {
+        HStack(spacing: 2) {
             Picker(selection: $selectedTractateIndex) {
                 ForEach(allTractates.indices, id: \.self) { i in
                     Text(allTractates[i].name).font(.caption).tag(i)
@@ -613,7 +627,7 @@ struct ContentView: View {
             .pickerStyle(.menu)
             .menuIndicator(.hidden)
             .font(.caption)
-            .frame(minWidth: 30)
+            .frame(width: dafPickerWidth)
             .onChange(of: selectedDaf) { _, newVal in
                 storedDaf = newVal
                 imageDaf = Int(newVal)
@@ -635,6 +649,7 @@ struct ContentView: View {
                 storedSide = newVal
                 imageSide = newVal
             }
+
         }
         .tint(appFg)
         .colorScheme(useWhiteBackground ? .light : .dark)
@@ -651,6 +666,19 @@ struct ContentView: View {
     @ViewBuilder private var dafAndShiurView: some View {
         VStack(spacing: 0) {
             if showShiurText, let text = shiurDisplayText {
+                if !audioPlayer.isStopped {
+                    HStack(spacing: 6) {
+                        Image(systemName: "lock.fill")
+                            .font(.caption2)
+                            .foregroundStyle(appFg.opacity(0.55))
+                        Text("\(tractate.name) \(Int(selectedDaf))")
+                            .font(.caption2)
+                            .foregroundStyle(appFg.opacity(0.55))
+                        Spacer()
+                    }
+                    .padding(.horizontal, 18)
+                    .padding(.vertical, 5)
+                }
                 ShiurTextView(
                     rewriteText: text,
                     currentSegmentIndex: shiurClient.currentSegmentIndex,
@@ -682,6 +710,7 @@ struct ContentView: View {
         StudyModeView(
             manager: studyManager,
             readAloudManager: readAloudManager,
+            isAudioPlaying: !audioPlayer.isStopped,
             onDismiss: {
                 if horizontalSizeClass == .regular {
                     // iPad: Back switches to shiur panel if available; otherwise stays in study

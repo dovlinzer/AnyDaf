@@ -1,0 +1,61 @@
+### Bava Kamma 79a
+
+**1.**
+*Hebrew/Aramaic:* גָּנַב וְהִקְדִּישׁ; גָּנַב וְהִקִּיף; גָּנַב וְהֶחְלִיף; גָּנַב וְנָתַן בְּמַתָּנָה; גָּנַב וּפָרַע חוֹבוֹ; גָּנַב וּפָרַע בְּהֶקֵּיפוֹ; גָּנַב וְשָׁלַח סִבְלוֹנוֹת בְּבֵית חָמִיו – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה.
+*Translation:* The *baraita* continues: If **he stole** an animal **and consecrated** it, or if he **stole** an animal **and sold** it **on credit,** i.e., without receiving any money for it at the time, or if **he stole** an animal **and exchanged** it for another item, or if **he stole** an animal **and gave it** to another **as a gift,** or if **he stole** an animal **and** used it to **repay his debt,** or if **he stole** an animal and used it to **pay** for an item **he** purchased on **credit,** or if **he stole** an animal **and sent it in** the form of **presents** to his betrothed **in his father-in-law’s house,** in all of these cases **he pays** the **fourfold or fivefold payment,** as these acts are all considered forms of selling. This concludes the *baraita*.
+
+**2.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? אַשְׁמְעִינַן רֵישָׁא גָּנַב וְנָתַן לְאַחֵר וְטָבַח – דְּיֵשׁ שָׁלִיחַ לִדְבַר עֲבֵירָה. אַף עַל גַּב דִּבְכׇל הַתּוֹרָה כּוּלָּהּ אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה, הָכָא יֵשׁ שָׁלִיחַ לִדְבַר עֲבֵירָה.
+*Translation:* The Gemara asks: **What** is this *baraita* **teaching us?** All of the *halakhot* it states are obvious. The Gemara answers: **The first clause teaches us,** through the case of one who **stole** an animal **and gave it to another and** that person **slaughtered** or sold it on his behalf, **that** in this case **there is agency for transgression. Even though in the entire Torah** there is a principle that **there is no agency for transgression, here there is agency for transgression.** The Torah’s principle is that a transgression committed by an agent who was appointed by another person is not considered the act of the one who appointed the agent, but the independent act of the agent himself. The case discussed by this *baraita* is an exception to the rule, as here, the agent’s slaughter or sale of the animal is legally considered the action of the thief.
+
+**3.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? ״וּטְבָחוֹ״ וּ״מְכָרוֹ״; מָה מְכִירָה – דְּלָא אֶפְשָׁר דְּלָאו עַל יְדֵי אַחֵר, אַף טְבִיחָה עַל יְדֵי אַחֵר – מִחַיַּיב.
+*Translation:* **What** is **the reason** that this case is an exception to the principle? It is because the verse states: **“And slaughters it or sells it”** (Exodus 21:37), which juxtaposes the two acts of slaughtering and selling. This teaches that **just as** one becomes liable for **selling, which** by definition **is impossible without another** party, i.e., the buyer, **so too one becomes liable** for **slaughtering** even when it is **by means of another** party, i.e., when the thief instructs another person to slaughter the animal on his behalf.
+
+**4.**
+*Hebrew/Aramaic:* וְאַשְׁמְעִינַן סֵיפָא גָּנַב וְהִקְדִּישׁ – מָה לִי מְכָרוֹ לְהֶדְיוֹט, מָה לִי מְכָרוֹ לַשָּׁמַיִם.
+*Translation:* **And the latter clause** of the *baraita* **teaches us** a novelty in the case of one who **stole** an animal **and consecrated** it. The novelty is that this is considered a sale despite the fact that there is no purchaser. This is due to the following argument: **What** difference **is it to me** if **he sold** the animal **to an ordinary** person, and **what** difference **is it to me** if **he sold it to Heaven** by consecrating it? If the animal changes ownership, it is considered a sale, and it does not matter if the new owner is an ordinary person or the Temple treasury.
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ גָּנַב בִּרְשׁוּת הַבְּעָלִים, וְטָבַח וּמָכַר חוּץ מֵרְשׁוּתָם; אוֹ שֶׁגָּנַב חוּץ מֵרְשׁוּתָם, וְטָבַח וּמָכַר בִּרְשׁוּתָם; אוֹ שֶׁגָּנַב וְטָבַח וּמָכַר חוּץ מֵרְשׁוּתָם – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה. אֲבָל גָּנַב וְטָבַח וּמָכַר בִּרְשׁוּתָם – פָּטוּר.
+*Translation:* MISHNA: If one **stole** an animal **in** its **owner’s domain,** i.e., he took hold of it or established control over it but had not yet removed it from the owner’s premises, **and** then **he slaughtered** it **or sold** it **outside** of the owner’s **domain; or** if **he stole** an animal **outside** of the owner’s **domain and slaughtered** it **or sold** it **in** the owner’s **domain; or** if **he stole** an animal **and slaughtered** it **or sold** it, and all of this occurred **outside** the owner’s **domain,** in all of these cases, **he must pay** the **fourfold or fivefold payment. But** if **he stole** it **and slaughtered or sold** it, and all of this occurred **in** the owner’s **domain,** he is **exempt** from any of the fines for theft, as it is not considered theft until the stolen object is actually removed from the owner’s premises.
+
+**6.**
+*Hebrew/Aramaic:* הָיָה מוֹשְׁכוֹ וְיוֹצֵא, וּמֵת בִּרְשׁוּת הַבְּעָלִים – פָּטוּר. הִגְבִּיהוֹ אוֹ הוֹצִיאוֹ מֵרְשׁוּת בְּעָלִים, וָמֵת – חַיָּיב.
+*Translation:* If the thief **was** in the process of **leading** the animal **and leaving** the owner’s premises, **and it died** while it was still **in the owner’s domain,** the thief is **exempt** from all fines. If **he lifted it up or led it out of** the **owner’s domain and** then the animal **died,** he is **liable** for his theft. For an act to be considered theft, the thief must acquire the item by pulling it or moving it, which are ineffective forms of acquisition on the owner’s premises; or by lifting it up, which is effective even when performed in the owner’s domain.
+
+**7.**
+*Hebrew/Aramaic:* נְתָנוֹ לִבְכוֹרוֹת בְּנוֹ אוֹ לְבַעַל חוֹב, לְשׁוֹמֵר חִנָּם, לְשׁוֹאֵל, לְנוֹשֵׂא שָׂכָר וּלְשׂוֹכֵר; וְהָיָה מוֹשְׁכוֹ, וּמֵת בִּרְשׁוּת הַבְּעָלִים – פָּטוּר. הִגְבִּיהוֹ אוֹ שֶׁהוֹצִיאוֹ מֵרְשׁוּת הַבְּעָלִים, וָמֵת – חַיָּיב.
+*Translation:* If the thief **gave** the animal as payment **for the redemption of his firstborn son, or** as payment **to a creditor,** or conveyed it for safeguarding **to an unpaid bailee,** or lent it **to a borrower,** or conveyed it for safeguarding **to a paid bailee, or** leased it **to a renter, and he was leading out** the animal **and it died in the owner’s domain,** the thief is **exempt** from all fines. If that individual, following the thief’s instructions, **lifted up** the animal **or led it out of the owner’s domain, and it** subsequently **died,** the thief is **liable** for the theft. The thief is liable for instructing another to remove the animal for the purposes of payment of a debt, safekeeping, borrowing, or rental, as this is tantamount to the thief taking it with his own hands.
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ בָּעֵי אַמֵּימָר: תִּיקְּנוּ מְשִׁיכָה בְּשׁוֹמְרִים, אוֹ לֹא?
+*Translation:* GEMARA: **Ameimar raises a dilemma:** Did the Sages **institute** the requirement of **pulling** or leading an animal **with regard to bailees, or not?** When an animal or other item is purchased, the parties to the sale are not bound by the deal until the purchaser performs an act of acquisition, one of which is pulling the animal or leading it along. Did the Sages institute an ordinance that the same applies to bailees? In other words, does the bailee’s obligation to safeguard the animal or item begin as soon as he consents to watch it, or only after he has taken the animal and moved it even minimally?
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַב יֵימַר, תָּא שְׁמַע: נְתָנוֹ לִבְכוֹרוֹת בְּנוֹ אוֹ לְבַעַל חוֹבוֹ, לְשׁוֹמֵר חִנָּם וּלְשׁוֹאֵל, לְנוֹשֵׂא שָׂכָר וּלְשׂוֹכֵר; הָיָה מוֹשְׁכוֹ וְיוֹצֵא, וּמֵת בִּרְשׁוּת הַבְּעָלִים – פָּטוּר. מַאי, לָאו שׁוֹמֵר – וּשְׁמַע מִינַּהּ תִּיקְּנוּ מְשִׁיכָה בְּשׁוֹמְרִין?
+*Translation:* **Rav Yeimar said: Come** and **hear** a proof from the mishna: If the thief **gave** the animal as payment **for the redemption of his firstborn son, or** as payment **to a creditor,** or conveyed it for safeguarding **to an unpaid bailee,** or lent it **to a borrower,** or conveyed it for safeguarding **to a paid bailee, or** rented it **to a renter, and he was leading out** the animal **and it died in the owner’s domain,** the thief is **exempt** from payment. **What, is it not** talking about the **bailee** leading out the animal, when it states that the thief is exempt? **And** if so, **conclude from** this mishna that the Sages **instituted** the requirement of **pulling with regard to bailees.** If the bailee’s obligation begins immediately upon his consent to watch over the item, it would be considered stolen by the thief at that stage, even before the bailee moves it.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לָא, גַּנָּב.
+*Translation:* Ameimar **said to** Rav Yeimar: **No,** this is not necessarily the correct interpretation of the mishna. The mishna may mean that the owner gave the animal to his creditor or to a bailee, and subsequently a thief came to steal it from the house of the creditor or the bailee, and it was the **thief** who was leading the animal out of those premises when it died.
+
+**11.**
+*Hebrew/Aramaic:* הָא תְּנָא לֵיהּ רֵישָׁא! תְּנָא גַּנָּב שֶׁגָּנַב מִבֵּית הַבְּעָלִים, וּתְנָא גַּנָּב שֶׁגָּנַב מִבֵּית שׁוֹמֵר.
+*Translation:* Rav Yeimar asked: How can that clause of the mishna refer to an animal that died as the thief was leading it out? The mishna already **taught this** *halakha* in **the first clause.** Ameimar answered: Nevertheless, it is possible that the mishna **taught** this *halakha* concerning **a thief who stole** an animal **from its owner’s house, and** then **taught** it again with regard to **a thief who stole** an animal **from a bailee’s house.**
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אָשֵׁי: לָא תְּדַחֲיֵיהּ; מָה לִי גַּנָּב שֶׁגָּנַב מִבֵּית שׁוֹמֵר, מָה לִי גַּנָּב שֶׁגָּנַב מִבֵּית בְּעָלִים?
+*Translation:* **Rav Ashi said to** Ameimar: **Do not reject** Rav Yeimar’s argument by means of this alternative interpretation of the mishna. It is not reasonable to assert that the mishna taught this *halakha* twice, as **what** difference **is** it **to me** if the **thief stole** it **from the bailee’s house** and **what** difference **is** it **to me if** the **thief stole** it **from the owner’s house?** There is no halakhic distinction between these two cases. Therefore, the mishna would not have discussed both of them.
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא לָאו שׁוֹמֵר – וּשְׁמַע מִינַּהּ תִּיקְּנוּ מְשִׁיכָה בְּשׁוֹמְרִין? שְׁמַע מִינַּהּ. אִיתְּמַר נָמֵי, אָמַר רַבִּי אֶלְעָזָר: כְּדֶרֶךְ שֶׁתִּיקְּנוּ מְשִׁיכָה בְּלָקוֹחוֹת, כָּךְ תִּיקְּנוּ מְשִׁיכָה בְּשׁוֹמְרִין.
+*Translation:* **Rather, is it not** more reasonable to say that the mishna should be interpreted as meaning that the **bailee** was leading the animal out of the owner’s house at the behest of the thief, as Rav Yeimar claimed? **And** therefore, one should **conclude from** the mishna that the Sages **instituted** the requirement of **pulling with regard to bailees.** The Gemara affirms: **Conclude from** the mishna that they did. **It was also stated** explicitly that **Rabbi Elazar says: Just as** the Sages **instituted** the requirement of **pulling with regard to purchasers, so too** they **instituted** the requirement of **pulling with regard to bailees.**
+
+**14.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: כְּדֶרֶךְ שֶׁתִּיקְּנוּ מְשִׁיכָה בְּלָקוֹחוֹת, כָּךְ תִּיקְּנוּ מְשִׁיכָה בְּשׁוֹמְרִין. וּכְשֵׁם שֶׁהַקַּרְקַע נִקְנֵית בְּכֶסֶף, בִּשְׁטָר וּבַחֲזָקָה, כָּךְ שְׂכִירוּת נִקְנֵית בְּכֶסֶף, בִּשְׁטָר וּבַחֲזָקָה.
+*Translation:* **This is also taught** in a *baraita*: **Just as** the Sages **instituted** the requirement of **pulling with regard to purchasers, so too** they **instituted** the requirement of **pulling with regard to bailees. And just as land is acquired by** the payment of **money, by** the writing of **a deed** of sale, **or by** the purchaser **taking possession** of the land through working it, **so too a rental** deal is finalized **by** the payment of **money, by** the writing of **a deed** of rent, **or by** the renter **taking possession** of the land. This concludes the *baraita*.
+
+**15.**
+*Hebrew/Aramaic:* שְׂכִירוּת דְּמַאי? אִילֵימָא
+*Translation:* The Gemara asks: When the *baraita* speaks of rental, it is referring to **rental of what** kind of property? **If we say**

@@ -1,0 +1,118 @@
+### Sanhedrin 18a
+
+**1.**
+*Hebrew/Aramaic:* מָאתַיִם וְשִׁבְעִים וְשִׁבְעָה.
+*Translation:* The number of people needed in a city for it to be eligible for a lesser Sanhedrin is **277.** This number is based on the opinion of Rabbi Neḥemya, who requires 230 men, but requires an additional 47 men in case it happens that the Sages of the court reach a situation where they are not able to arrive at a verdict, and pairs of judges need to be added, potentially increasing the number of judges on the court from 23 to 70, a maximum of 47 additional judges.
+
+**2.**
+*Hebrew/Aramaic:* וְהָתַנְיָא, רַבִּי אוֹמֵר: מָאתַיִם שִׁבְעִים וּשְׁמֹנָה! לָא קַשְׁיָא: הָא – רַבִּי יְהוּדָה, הָא – רַבָּנַן.
+*Translation:* The Gemara asks: **But isn’t it taught** in a *baraita* that **Rabbi** Yehuda HaNasi **says:** The number of men needed in a city for it to be eligible for a lesser Sanhedrin is **278?** The Gemara answers: This is **not difficult. This** *baraita* that said Rabbi Yehuda HaNasi requires 277 residents is stated in accordance with the opinion of **Rabbi Yehuda,** who holds that there are 70 judges on the Great Sanhedrin, and **this** *baraita* that quoted the number as 278 is stated in accordance with the opinion of **the Rabbis,** who hold that there are 71.
+
+**3.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״וְשַׂמְתָּ עֲלֵיהֶם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת״. ״שָׂרֵי אֲלָפִים״ – שֵׁשׁ מֵאוֹת, ״שָׂרֵי מֵאוֹת״ – שֵׁשֶׁת אֲלָפִים, ״שָׂרֵי חֲמִשִּׁים״ – שְׁנֵים עָשָׂר אֶלֶף, ״שָׂרֵי עֲשָׂרוֹת״ – שֵׁשֶׁת רִיבּוֹא. נִמְצְאוּ דַּיָּינֵי יִשְׂרָאֵל שִׁבְעַת רִיבּוֹא וּשְׁמוֹנַת אֲלָפִים וְשֵׁשׁ מֵאוֹת.
+*Translation:* Apropos the opinion of Rabbi Neḥemya, which links the issue of the lesser Sanhedrin with the appointment of the ministers in the wilderness, the Gemara relates: **The Sages taught:** The verse states: **“And place over them ministers of thousands, ministers of hundreds, ministers of fifties, and ministers of tens”** (Exodus 18:21). The number of **ministers of thousands** was **600,** as there were 600,000 men in total; the number of **ministers of hundreds** was **6,000;** of **ministers of fifties, 12,000,** and of **ministers of tens, 60,000.** Therefore, **it is found** that the total number of **judges of the Jewish people** was **78,600,** and suitable people were found to fill all of these positions.
+
+**4.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ דִּינֵי מָמוֹנוֹת.
+*Translation:* 
+
+**5.**
+*Hebrew/Aramaic:* מַתְנִי׳ כֹּהֵן גָּדוֹל דָּן וְדָנִין אוֹתוֹ, מֵעִיד וּמְעִידִין אוֹתוֹ, חוֹלֵץ וְחוֹלְצִין לְאִשְׁתּוֹ, וּמְיַיבְּמִין אֶת אִשְׁתּוֹ. אֲבָל הוּא אֵינוֹ מְיַיבֵּם, מִפְּנֵי שֶׁהוּא אָסוּר בָּאַלְמָנָה.
+*Translation:* MISHNA: The **High Priest judges** others if he is sufficiently wise, **and** others **judge him** when he transgresses. He **testifies** before the court **and** others **testify concerning him. He performs *ḥalitza*** with his brother’s widow **and** his brother **performs *ḥalitza* with his wife; and** his brother **consummates levirate marriage with his wife. But he does not consummate levirate marriage** with his brother’s widow, **because it is prohibited for him to** marry **a widow** (see Leviticus 21:14), and can therefore never fulfill the mitzva of levirate marriage, as a *yevama* is by definition a widow.
+
+**6.**
+*Hebrew/Aramaic:* מֵת לוֹ מֵת, אֵינוֹ יוֹצֵא אַחַר הַמִּטָּה, אֶלָּא הֵן נִכְסִין וְהוּא נִגְלֶה, הֵן נִגְלִין וְהוּא נִכְסֶה, וְיוֹצֵא עִמָּהֶן עַד פֶּתַח שַׁעַר הָעִיר, דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* If a relative **of** the High Priest **dies, he does not follow the bier** carrying the corpse, since it is prohibited for the High Priest to become ritually impure even for immediate relatives (see Leviticus 21:11). **Rather,** once the members of the funeral procession **are concealed** from sight by turning onto another street, **he is revealed** on the street they departed, and when **they are revealed,** then **he is concealed, and** in this way, **he goes out with them until the entrance of the gate of the city,** from where they would take out the corpse, since the dead were not buried in Jerusalem. This is **the statement of Rabbi Meir.**
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אֵינוֹ יוֹצֵא מִן הַמִּקְדָּשׁ, מִשּׁוּם שֶׁנֶּאֱמַר: ״וּמִן הַמִּקְדָּשׁ לֹא יֵצֵא״.
+*Translation:* **Rabbi Yehuda says: He does not emerge from the Temple** at all for the burial of his relatives, **as it is stated: “And from the Temple he shall not emerge** and will not desecrate the Temple of his God; for the separateness of the oil of the anointment of his God is on him” (Leviticus 21:12).
+
+**8.**
+*Hebrew/Aramaic:* וּכְשֶׁהוּא מְנַחֵם אֲחֵרִים, דֶּרֶךְ כׇּל הָעָם עוֹבְרִין בְּזֶה אַחַר זֶה, וְהַמְמוּנֶּה מְמַצְּעוֹ בֵּינוֹ לְבֵין הָעָם. וּכְשֶׁהוּא מִתְנַחֵם מֵאֲחֵרִים, כׇּל הָעָם אוֹמְרִים לוֹ: אֲנַחְנוּ כַּפָּרָתְךָ, וְהוּא אוֹמֵר לָהֶן: תִּתְבָּרְכוּ מִן הַשָּׁמַיִם. וּכְשֶׁמַּבְרִין אוֹתוֹ, כׇּל הָעָם מְסוּבִּין עַל הָאָרֶץ, וְהוּא מֵיסֵב עַל הַסַּפְסָל.
+*Translation:* The mishna continues: **And when he consoles others** in their mourning when they return from burial, the **way of all the people** is that **they pass by one after another** and the mourners stand in a line and are consoled, **and the appointed** person **stands in the middle, between** the High Priest **and the people. And when he is consoled by others** in his mourning, **all the people say to him: We are your atonement. And he says to them: May you be blessed from Heaven. And when they comfort him with the** first **meal** after the burial of one of his relatives, **all the people recline on the ground** as if they are taking his mourning on themselves, **and he reclines on the bench** out of respect for his status as High Priest.
+
+**9.**
+*Hebrew/Aramaic:* הַמֶּלֶךְ לֹא דָּן, וְלֹא דָּנִין אוֹתוֹ, לֹא מֵעִיד וְלֹא מְעִידִין אוֹתוֹ, לֹא חוֹלֵץ וְלֹא חוֹלְצִין לְאִשְׁתּוֹ, לֹא מְיַיבֵּם וְלֹא מְיַיבְּמִין לְאִשְׁתּוֹ. רַבִּי יְהוּדָה אוֹמֵר: אִם רָצָה לַחֲלוֹץ אוֹ לְיַיבֵּם – זָכוּר לַטּוֹב. אָמְרוּ לוֹ: אֵין שׁוֹמְעִין לוֹ.
+*Translation:* The mishna continues, enumerating the *halakhot* pertaining to the king in similar matters: **The king does not judge** others as a member of a court **and** others **do not judge him, he does not testify and** others **do not testify concerning him, he does not perform *ḥalitza*** with his brother’s widow **and** his brother **does not perform *ḥalitza* with his wife,** and **he does not consummate levirate marriage** with his brother’s widow **and** his brother **does not consummate levirate marriage with his wife,** as all these actions are not fitting to the honor of his office. **Rabbi Yehuda says:** These are not restrictions, but his prerogative: **If he desired to perform *ḥalitza* or to consummate levirate marriage,** he is **remembered for good,** as this is to the benefit of his brother’s widow. The Sages **said to him: They do not listen to him** if he desires to do so, as this affects not only his own honor but that of the kingdom.
+
+**10.**
+*Hebrew/Aramaic:* וְאֵין נוֹשְׂאִין אַלְמְנָתוֹ, רַבִּי יְהוּדָה אוֹמֵר: נוֹשֵׂא הַמֶּלֶךְ אַלְמְנָתוֹ שֶׁל מֶלֶךְ, שֶׁכֵּן מָצִינוּ בְּדָוִד שֶׁנָּשָׂא אַלְמְנָתוֹ שֶׁל שָׁאוּל, שֶׁנֶּאֱמַר: ״וָאֶתְּנָה לְךָ אֶת בֵּית אֲדֹנֶיךָ וְאֶת נְשֵׁי אֲדֹנֶיךָ בְּחֵיקֶךָ״.
+*Translation:* **And no one may marry** a king’s **widow,** due to his honor. **Rabbi Yehuda says:** Another **king may marry the widow of a king, as we found that** King **David married the widow of** King **Saul, as it is stated: “And I have given you the house of your master and the wives of your master in your bosom”** (II Samuel 12:8).
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ כֹּהֵן גָּדוֹל דָּן. פְּשִׁיטָא! דָּנִין אוֹתוֹ אִיצְטְרִיכָא לֵיהּ. הָא נָמֵי פְּשִׁיטָא: אִי לָא דָּיְינִינַן לֵיהּ, אִיהוּ הֵיכִי דָּיֵין? וְהָכְתִיב ״הִתְקוֹשְׁשׁוּ וָקוֹשּׁוּ״, וְאָמַר רֵישׁ לָקִישׁ: קְשֹׁט עַצְמְךָ וְאַחַר כָּךְ קְשֹׁט אֲחֵרִים.
+*Translation:* GEMARA: The mishna teaches that the **High Priest judges** others as a member of a court. The Gemara asks: Isn’t that **obvious?** Why would one think that he would be unfit to serve as a judge? The Gemara answers: **It was necessary for** the mishna to mention the latter clause: And others **judge him,** and therefore, it taught the related *halakha* with it. The Gemara objects: **This** is **also obvious; if** others **do not judge him, how can he judge** others? **But isn’t it written: “Gather yourselves together, yea, gather together [*hitkosheshu vakoshu*]”** (Zephaniah 2:1); **and Reish Lakish says:** This verse teaches a moral principle: **Adorn [*kashet*] yourself** first, **and then adorn others,** i.e., one who is not subject to judgment may not judge others.
+
+**12.**
+*Hebrew/Aramaic:* אֶלָּא, אַיְּידֵי דְּקָא בָּעֵי לְמִיתְנֵי מֶלֶךְ לֹא דָּן וְלֹא דָּנִין אוֹתוֹ, תְּנָא נָמֵי כֹּהֵן גָּדוֹל דָּן וְדָנִין. וְאִי בָּעֵית אֵימָא, הָא קָא מַשְׁמַע לַן כִּדְתַנְיָא: כֹּהֵן גָּדוֹל שֶׁהָרַג אֶת הַנֶּפֶשׁ בְּמֵזִיד – נֶהֱרָג, בְּשׁוֹגֵג – גּוֹלֶה, וְעוֹבֵר עַל עֲשֵׂה וְעַל לֹא תַעֲשֶׂה, וַהֲרֵי הוּא כְּהֶדְיוֹט לְכׇל דְּבָרָיו.
+*Translation:* **Rather,** neither *halakha* concerning the High Priest is a novelty. But **since** the *tanna* **wants to teach** that the **king does not judge** others **and** others **do not judge him, he also taught** that the **High Priest judges** others **and** others **judge him. And if you wish, say** instead that **this teaches us** the *halakha* **as it is taught** in a *baraita* (*Tosefta* 4:1): **A High Priest who killed a person intentionally is killed;** if he killed **unintentionally, he is exiled** to a city of refuge, **and he transgresses a positive mitzva and a prohibition, and he is like an ordinary** person **concerning all of his** *halakhot*.
+
+**13.**
+*Hebrew/Aramaic:* בְּמֵזִיד נֶהֱרָג – פְּשִׁיטָא! בְּשׁוֹגֵג גּוֹלֶה אִיצְטְרִיכָא לֵיהּ.
+*Translation:* The Gemara analyzes the *baraita*: A High Priest who killed another **intentionally is killed.** Isn’t that **obvious?** Why would he be punished differently than other murderers? **It was necessary for it** to mention the latter clause: If he killed **unintentionally, he is exiled,** so it taught the related case with it.
+
+**14.**
+*Hebrew/Aramaic:* הָא נָמֵי פְּשִׁיטָא! אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וּכְתִיב ״וְיָשַׁב בָּהּ עַד מוֹת הַכֹּהֵן הַגָּדֹל״, אֵימָא: כֹּל דְּאִית לֵיהּ תַּקַּנְתָּא בַּחֲזָרָה – לִיגְלֵי, דְּלֵית לֵיהּ תַּקַּנְתָּא בַּחֲזָרָה – לָא לִיגְלֵי, דִּתְנַן:
+*Translation:* The Gemara objects: **This** is **also obvious.** The Gemara responds: **It was necessary** for the *baraita* to state the latter clause, lest it **enter your mind to say: Since it is written** about one who kills unintentionally and is exiled to a city of refuge: **“And he should dwell in it until the death of the High Priest”** (Numbers 35:25), **say: Anyone for whom there is a rectification by returning** from the city of refuge **is exiled,** but one **for whom there is no rectification by returning is not exiled.** The High Priest has no such rectification, **as we learned** in a mishna (*Makkot* 11b):
+
+
+---
+
+### Sanhedrin 18b
+
+**1.**
+*Hebrew/Aramaic:* הַהוֹרֵג כֹּהֵן גָּדוֹל, אוֹ כֹּהֵן גָּדוֹל שֶׁהָרַג אֶת הַנֶּפֶשׁ – אֵינוֹ יוֹצֵא מִשָּׁם לְעוֹלָם; אֵימָא לָא לִיגְלֵי – קָא מַשְׁמַע לַן. וְאֵימָא הָכִי נָמֵי? אָמַר קְרָא ״לָנוּס שָׁמָּה כׇּל רֹצֵחַ״ – אֲפִילּוּ כֹּהֵן גָּדוֹל בַּמַּשְׁמָע.
+*Translation:* With regard to **one who kills a High Priest or a High Priest who killed a person,** he **never departs from** the city of refuge. Therefore, **I will say** that a High Priest **is not exiled** at all. For that reason, the *baraita* above **teaches us** that he is exiled. The Gemara suggests: Why not **say that** the *halakha* is **indeed** that the High Priest would not be exiled, since he would not be able to return home? The Gemara responds: The **verse states** concerning the city of refuge: **“That every manslayer may flee there”** (Deuteronomy 19:3), and **even a High Priest is indicated** by the inclusive term “every.”
+
+**2.**
+*Hebrew/Aramaic:* עוֹבֵר עַל עֲשֵׂה וְעַל לֹא תַעֲשֶׂה. לָא סַגִּי דְּלָא עָבַר? הָכִי קָאָמַר: אִם עָבַר עַל עֲשֵׂה וְעַל לֹא תַעֲשֶׂה, הֲרֵי הוּא כְּהֶדְיוֹט לְכׇל דְּבָרָיו.
+*Translation:* The *baraita* teaches that a High Priest **transgresses a positive mitzva and a prohibition.** The Gemara understands the *baraita* as an independent statement asserting that the High Priest must transgress a positive mitzva and a prohibition, and asks: Is it **not possible that he doesn’t transgress** a positive mitzva and prohibition; i.e., must the High Priest transgress a positive mitzva and a prohibition? The Gemara responds: **This** is what the *baraita* **is saying:** This is not an independent statement asserting that the High Priest must transgress a positive mitzva and a prohibition; rather, the *baraita* teaches that **if he transgressed a positive mitzva and a prohibition,** then **he is** considered to be **like an ordinary** person **concerning all of his** *halakhot*, judged just as anyone else for common transgressions.
+
+**3.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! סָלְקָא דַּעְתָּךְ אָמֵינָא, הוֹאִיל וּתְנַן: אֵין דָּנִין לֹא אֶת הַשֵּׁבֶט וְלֹא אֶת נְבִיא הַשֶּׁקֶר וְלֹא אֶת כֹּהֵן גָּדוֹל אֶלָּא עַל פִּי בֵּית דִּין שֶׁל שִׁבְעִים וְאֶחָד, וְאָמַר רַב אַדָּא בַּר אַהֲבָה: ״כׇּל הַדָּבָר הַגָּדֹל יָבִיאוּ אֵלֶיךָ״ – דְּבָרָיו שֶׁל גָּדוֹל, אֵימָא כׇּל דְּבָרָיו שֶׁל גָּדוֹל, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: Isn’t that **obvious?** The Gemara responds: No, as it could **enter your mind to say** that **since we learned** in the mishna (2a): The court **judges** cases involving an entire **tribe** that sinned, **or a false prophet, or a High Priest, only on the basis of a court of seventy-one** judges, i.e., the Great Sanhedrin, **and** since **Rav Adda bar Ahava says** that the phrase **“every great matter they shall bring unto you”** (Exodus 18:22), refers to the **matters of a great** person, the High Priest, who is judged in a court of seventy-one, therefore, one might **say** that this means **all the matters of a great** person, including non-capital transgressions, are judged in a court of seventy-one. Therefore, the *baraita* **teaches us** that for non-capital transgressions, he is treated like an ordinary person, and judged even by a court of three.
+
+**4.**
+*Hebrew/Aramaic:* וְאֵימָא הָכִי נָמֵי: מִי כְּתִיב דִּבְרֵי גָדוֹל? ״הַדָּבָר הַגָּדֹל״ כְּתִיב, דָּבָר גָּדוֹל מַמָּשׁ.
+*Translation:* The Gemara suggests: **But** why not **say** that **indeed,** the *halakha* is that all cases involving the High Priest must be adjudicated in a court of seventy-one? The Gemara rejects this. **Is it written: The matters of a great person?** “Every **great matter” is written,** meaning **actually a great matter,** one involving a capital transgression, not only one related to a great person.
+
+**5.**
+*Hebrew/Aramaic:* מֵעִיד וּמְעִידִין אוֹתוֹ. מֵעִיד? וְהָתַנְיָא: ״וְהִתְעַלַּמְתָּ״ – פְּעָמִים שֶׁאַתָּה מִתְעַלֵּם, וּפְעָמִים שֶׁאִי אַתָּה מִתְעַלֵּם. הָא כֵּיצַד?
+*Translation:* § The mishna teaches that the High Priest **testifies** before the court **and** others **testify concerning him.** The Gemara expresses surprise: **He testifies? But isn’t it taught** in a *baraita* that in the verse: “You shall not see your brother’s ox or his sheep wandering and ignore them; you shall return them to your brother” (Deuteronomy 22:1), the use of the unusual term **“and ignore** them,” as opposed to the more direct: Do not ignore them, indicates that there are **times when you ignore** lost items **and** there are **times when you do not ignore** them. **How so?**
+
+**6.**
+*Hebrew/Aramaic:* כֹּהֵן וְהוּא בְּבֵית הַקְּבָרוֹת, זָקֵן וְאֵינָהּ לְפִי כְּבוֹדוֹ, אוֹ שֶׁהָיְתָה מְלָאכָה שֶׁלּוֹ מְרוּבָּה מִשֶּׁל חֲבֵירוֹ – לְכָךְ נֶאֱמַר ״וְהִתְעַלַּמְתָּ״.
+*Translation:* The *baraita* answers: If the one who found the item was **a priest, and** the lost item **is in the cemetery,** where priests are prohibited from entering; or if he was **an elderly person and it is not** in keeping **with his dignity** to tend to a lost item of that kind; **or** if **his work,** which he would need to suspend in order to tend to and return the item, **is** of **greater** value **than** the lost item **of the other,** one might think that he must nonetheless return it. **Therefore,** with regard to those cases, **it is stated: “And ignore** them.” Since a distinguished individual may ignore a mitzva that is incumbent on others if it is not in keeping with his dignity, perhaps the High Priest would be allowed to ignore the obligation to testify, due to his honor.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: מֵעִיד לַמֶּלֶךְ. וְהָתְנַן: לֹא דָּן וְלֹא דָּנִין אוֹתוֹ, לֹא מֵעִיד וְלֹא מְעִידִין אוֹתוֹ? אֶלָּא אָמַר רַבִּי זֵירָא: מֵעִיד לְבֶן מֶלֶךְ. בֶּן מֶלֶךְ הֶדְיוֹט הוּא!
+*Translation:* **Rav Yosef said:** A High Priest **testifies** only **about a king,** since such testimony would not compromise his dignity. The Gemara objects: **But didn’t we learn** in the mishna above that the king **does not judge and is not judged,** and **he does not testify and** others **do not testify concerning him? Rather, Rabbi Zeira said:** The meaning of Rav Yosef’s statement is that a High Priest **testifies about a son of a king.** The Gemara objects: **The son of a king is an ordinary** person, without special status in *halakha*, so it is not in keeping with the High Priest’s dignity to testify concerning him.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא, מֵעִיד בִּפְנֵי הַמֶּלֶךְ. וְהָא אֵין מוֹשִׁיבִין מֶלֶךְ בְּסַנְהֶדְרִין! מִשּׁוּם יְקָרָא דְּכֹהֵן גָּדוֹל אֲתָא וְיָתֵיב. מְקַבְּלִי נִיהֲלֵיהּ לְסָהֲדוּתֵיהּ, קָאֵי הוּא וְאָזֵיל, וּמְעַיְּינִינָא לֵיהּ אֲנַן בְּדִינֵיהּ.
+*Translation:* **Rather,** the meaning of Rav Yosef’s statement is that **he testifies before the king,** and it is not in keeping with the dignity of the High Priest to testify if the king is a presiding judge. The Gemara objects: **But** didn’t we learn in a *baraita* (*Tosefta* 2:8) that **a king is not seated on the Sanhedrin?** The Gemara explains: Rav Yosef is referring to a special arrangement: **Due to the honor of** the **High Priest,** the king **comes and sits** as one of the judges, **they receive his testimony, he rises and goes, and we deliberate about the case.**
+
+**9.**
+*Hebrew/Aramaic:* גּוּפָא: אֵין מוֹשִׁיבִין מֶלֶךְ בַּסַּנְהֶדְרִין, וְלֹא מֶלֶךְ וְכֹהֵן גָּדוֹל בְּעִיבּוּר שָׁנָה. מֶלֶךְ בַּסַּנְהֶדְרִין – דִּכְתִיב: ״לֹא תַעֲנֶה עַל רִב״ – לֹא תַעֲנֶה עַל רַב.
+*Translation:* § Having mentioned this *baraita*, the Gemara turns its attention to **the** matter **itself: A king is not seated on the Sanhedrin, nor** is **a king or a High Priest** seated **on** a court for **intercalating the year.** The Gemara explains: With regard to **a king on the Sanhedrin,** the source is **as it is written: “Do not answer in a cause [*riv*]”** (Exodus 23:2), which is explained to mean: **Do not answer to a great person [*rav*].** Therefore, one whose stature will make the other judges afraid to contradict him may not be appointed to the Sanhedrin.
+
+**10.**
+*Hebrew/Aramaic:* לֹא מֶלֶךְ וְכֹהֵן גָּדוֹל בְּעִיבּוּר שָׁנָה. מֶלֶךְ – מִשּׁוּם אַפְסַנְיָא, כֹּהֵן גָּדוֹל – מִשּׁוּם צִינָּה.
+*Translation:* The Gemara continues its explanation of the *baraita*: **Nor** is **a king or a High Priest** seated **on** a court for **intercalating the year. A king** does not serve as a judge concerning this matter **due to** the **sustenance** of soldiers. **A High Priest** does not serve as a judge concerning this matter **due to the cold.** If a month is added to the calendar and the High Priest must perform his Yom Kippur immersions and walk barefoot on the floor of the Temple deeper into the cold autumn, he too will have a vested interest in not adding a month.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: שְׁמַע מִינַּהּ, שַׁתָּא בָּתַר יַרְחָא אָזֵיל. אִינִי? וְהָא הָנָךְ שְׁלֹשָׁה רוֹעֵי בָקָר דַּהֲווֹ קָיְימִי, וְשַׁמְעִינְהוּ רַבָּנַן דְּקָאָמְרִי:
+*Translation:* **Rav Pappa says: Learn from** the ruling concerning the High Priest that the weather of **the year follows the months,** meaning that changes in the seasons are in accordance with the sequence of the months in the standard, non-intercalated calendar. The High Priest would not want the year to be intercalated, because then the colder weather of Marḥeshvan would occur during Tishrei. The Gemara asks: **Is that so? But** isn’t that contradicted by the incident of **those three cattle herders that were standing** around, **and the Sages heard them saying** various statements about annual weather signs?
+
+**12.**
+*Hebrew/Aramaic:* חַד אָמַר: אִם בַּכִּיר וְלַקִּישׁ כַּחֲדָא יֵינֵץ – דֵּין הוּא אֲדָר, וְאִם לָאו – לֵית דֵּין אֲדָר. וְחַד אָמַר: אִם תּוֹר בִּצְפַר בִּתְלַג יְמוּת, וּבְטִיהֲרָא בְּטוּל תְּאֵינָה יִדְמוֹךְ יַשְׁלַח מַשְׁכֵּיהּ – דֵּין הוּא אֲדָר, וְאִם לָאו – לֵית דֵּין אֲדָר. וְחַד אָמַר: אִם קִידּוּם תַּקִּיף לַחֲדָא יְהֵא, יִפַּח בְּלוֹעָךְ נָפֵיק לְקִיבְלֵיהּ – דֵּין הוּא אֲדָר, וְאִם לָאו – לֵית דֵּין אֲדָר. וְעַבְּרוּהָ רַבָּנַן לְהַהִיא שַׁתָּא.
+*Translation:* **One** of them **said: If the first grains and the late-ripening grains sprout at the same** time, **that is Adar, but if not, that is not Adar** but still Shevat. **And one** of them **said: If an ox dies in the morning in the snow,** indicating that it is still very cold, **and at noon in the shade of a fig tree it sleeps,** rubbing against it **to strip off its skin** because of the heat, **that is Adar, but if not, that is not Adar. And one** of them **said: If there is a very strong east wind,** which is cold, yet the warm air that **you blow with your jaw goes out** and **toward it** and overcomes its effect, **that is Adar, but if not, that is not Adar. And** since those signs had not yet come to pass, **the Sages intercalated** the calendar **that year.**
+
+**13.**
+*Hebrew/Aramaic:* וְתִסְבְּרָא רַבָּנַן אַרָעֲווֹתָא סְמוּךְ? אֶלָּא, רַבָּנַן אַחוּשְׁבָּנַיְיהוּ סְמוּךְ, וְרוֹעֵי בָקָר אִיסְתַּיּוֹעֵי הוּא דְּאִיסְתַּיַּיעָא מִילְּתַיְיהוּ.
+*Translation:* The Gemara rejects this: **And** can **you understand** that the **Sages relied on cattle herders** to determine *halakha*? **Rather, the Sages relied on their own calculations, and** those **cattle herders were supported** inasmuch **as their statements were supported** by the Sages’ independent conclusion.
+
+**14.**
+*Hebrew/Aramaic:* חוֹלֵץ וְחוֹלְצִין כּוּ׳. קָא פָּסֵיק וְתָנֵי, לָא שְׁנָא מִן הָאֵירוּסִין וְלָא שְׁנָא מִן הַנִּישּׂוּאִין. בִּשְׁלָמָא מִן הַנִּישּׂוּאִין, הָוֵי עֲשֵׂה וְלֹא תַעֲשֶׂה -
+*Translation:* § The mishna teaches that the High Priest **performs *ḥalitza*** with his brother’s widow **and** his brother **performs *ḥalitza*** with his wife, but in any case he does not consummate levirate marriage with his brother’s wife. The Gemara comments: The mishna **categorically teaches** that the High Priest does not consummate levirate marriage, and there **is no difference** whether his brother’s wife was a widow **from betrothal** alone **and no difference** whether she was a widow **from a marriage** that had been consummated. **Granted,** it is understood that he does not consummate levirate marriage with a widow **from marriage,** since **there is** both **a positive mitzva:** “And he shall take a wife in her virginity” (Leviticus 21:13), **and** also **a prohibition:** “A widow, or one divorced, or a *ḥalala*, or a *zona*, these shall he not take” (Leviticus 21:14),

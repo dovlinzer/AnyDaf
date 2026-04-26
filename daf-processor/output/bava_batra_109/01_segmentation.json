@@ -1,0 +1,504 @@
+{
+  "masechta": "Bava Batra",
+  "daf": 109,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to Perek 8: Death, Inheritance, and Wills",
+      "display_title": "Perek 8 Overview",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks on the eighth perek and its focus on death, inheritance, and wills",
+          "display_title": "Perek Focus",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The perek's emphasis on Torah verses and Chazal's interpretive logic",
+          "display_title": "Torah Interpretation",
+          "timestamp": "00:20"
+        }
+      ]
+    },
+    {
+      "title": "Mishnah's Opening: Father Both Inherits and Bequeaths",
+      "display_title": "Father's Role",
+      "timestamp": "01:06",
+      "micro_segments": [
+        {
+          "title": "The tragic opening of the Mishnah: father inheriting from son means the son predeceased",
+          "display_title": "Tragic Opening",
+          "timestamp": "01:06"
+        },
+        {
+          "title": "Why the Gemara opens with this case: it is a chiddush not explicit in the pesukim",
+          "display_title": "Chiddush Element",
+          "timestamp": "01:27"
+        },
+        {
+          "title": "The challenge: determining where the father appears in the line of inheritance",
+          "display_title": "Father's Position",
+          "timestamp": "01:43"
+        }
+      ]
+    },
+    {
+      "title": "Torah Pesukim on Inheritance: Numbers 27",
+      "display_title": "Numbers 27 Pesukim",
+      "timestamp": "02:12",
+      "micro_segments": [
+        {
+          "title": "The parsha of Bnot Tzelofchad and the origin of explicit inheritance laws",
+          "display_title": "Bnot Tzelofchad",
+          "timestamp": "02:12"
+        },
+        {
+          "title": "The list of inheritors: sons, daughters, brothers, uncles, and closest relatives",
+          "display_title": "Inheritance Order",
+          "timestamp": "02:33"
+        },
+        {
+          "title": "The significance of the word ve'avarta (transfer) versus natatam (give) for daughters",
+          "display_title": "Ve'avarta Language",
+          "timestamp": "02:47"
+        },
+        {
+          "title": "Explanation: ve'avarta implies the inheritance will leave the tribe when a daughter marries out",
+          "display_title": "Tribe Transfer",
+          "timestamp": "03:00"
+        }
+      ]
+    },
+    {
+      "title": "The Inheritance Hierarchy and the Principle of Closeness (Karov Karov Kodem)",
+      "display_title": "Closeness Principle",
+      "timestamp": "06:56",
+      "micro_segments": [
+        {
+          "title": "Question: If closeness determines inheritance order, where should the father fit?",
+          "display_title": "Father's Slot",
+          "timestamp": "06:56"
+        },
+        {
+          "title": "The Gemara's assertion: father comes before brothers, not just before uncles",
+          "display_title": "Father Before Brother",
+          "timestamp": "07:15"
+        },
+        {
+          "title": "Introduction to mishmash and yoresh bakever: inheriting as if the deceased inherited first",
+          "display_title": "Mishmash Mechanism",
+          "timestamp": "09:09"
+        },
+        {
+          "title": "The principle simplified: sons and daughters, then father, then repeat the pattern downward",
+          "display_title": "Pattern Principle",
+          "timestamp": "10:17"
+        }
+      ]
+    },
+    {
+      "title": "Deriving Father from She'ero (Flesh) and the Principle of Hakkarov Elav",
+      "display_title": "She'ero & Hakkarov",
+      "timestamp": "16:59",
+      "micro_segments": [
+        {
+          "title": "The Gemara's derivation: she'ero (flesh) from the pesukim can mean father",
+          "display_title": "She'ero=Father",
+          "timestamp": "16:59"
+        },
+        {
+          "title": "Could father come before son? No, son is obviously the closest relative",
+          "display_title": "Son Primacy",
+          "timestamp": "17:33"
+        },
+        {
+          "title": "Could father come before daughter? The debate over whether daughter exempts yibum",
+          "display_title": "Father vs. Daughter",
+          "timestamp": "18:01"
+        },
+        {
+          "title": "Chazal's chiddush: even a daughter exempts from yibum, she is considered a continuation",
+          "display_title": "Daughter Continuation",
+          "timestamp": "18:46"
+        },
+        {
+          "title": "Family structure defined by continuation, not just biological closeness",
+          "display_title": "Family Structure",
+          "timestamp": "19:37"
+        }
+      ]
+    },
+    {
+      "title": "Father Before Uncles: Logical Necessity and Textual Support",
+      "display_title": "Father Before Uncle",
+      "timestamp": "22:04",
+      "micro_segments": [
+        {
+          "title": "Objection: Why not insert father only before uncles, not before brothers?",
+          "display_title": "Placement Objection",
+          "timestamp": "22:04"
+        },
+        {
+          "title": "Response: Father's brothers derive inheritance through father; father comes alive or they wouldn't",
+          "display_title": "Logical Derivation",
+          "timestamp": "23:56"
+        },
+        {
+          "title": "If father came before uncles without a special posuk, no textual indicator needed",
+          "display_title": "No Indicator Needed",
+          "timestamp": "24:22"
+        },
+        {
+          "title": "Therefore, the posuk she'ero indicates father must come earlier: before brothers",
+          "display_title": "Textual Indicator",
+          "timestamp": "25:14"
+        }
+      ]
+    },
+    {
+      "title": "Alternative Derivation: Ve'avarta (Transfer) Proves Daughters Come After Father",
+      "display_title": "Ve'avarta Derivation",
+      "timestamp": "28:02",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yishmael's drasha: ve'avarta means taking inheritance away from the rightful heir",
+          "display_title": "Ve'avarta Drasha",
+          "timestamp": "28:02"
+        },
+        {
+          "title": "Interpretation: daughters take it away from father; hence father comes before daughters",
+          "display_title": "Away From Father",
+          "timestamp": "29:01"
+        },
+        {
+          "title": "Objection: Could ve'avarta mean daughters take from brothers instead?",
+          "display_title": "Daughters From Brother",
+          "timestamp": "30:31"
+        },
+        {
+          "title": "Objection: Could father come even before daughters, and ve'avarta means taking from father?",
+          "display_title": "Father Before Daughter",
+          "timestamp": "31:13"
+        },
+        {
+          "title": "Response: If father preceded daughters, ve'avarta would not be necessary; should have said ve'natatam",
+          "display_title": "Ve'avarta Necessity",
+          "timestamp": "31:52"
+        },
+        {
+          "title": "Explanation: ve'avarta emphasizes taking from a male heir; if father came first, no disruption to patriarchy",
+          "display_title": "Patriarchy Disruption",
+          "timestamp": "32:28"
+        }
+      ]
+    },
+    {
+      "title": "Wife as She'ero (Flesh): Inheritance and Conjugal Relations",
+      "display_title": "Wife as She'ero",
+      "timestamp": "36:04",
+      "micro_segments": [
+        {
+          "title": "Alternative reading: she'ero could refer to wife, and husband inherits from his wife",
+          "display_title": "Husband Inherits Wife",
+          "timestamp": "36:04"
+        },
+        {
+          "title": "Deriving husband-wife inheritance from she'ero and the principle of closest flesh",
+          "display_title": "Closest Flesh",
+          "timestamp": "36:52"
+        },
+        {
+          "title": "She'eiro ksusa ve'onata: wife as flesh through conjugal relations and onah obligations",
+          "display_title": "Onah & Flesh",
+          "timestamp": "40:48"
+        },
+        {
+          "title": "Ramban on she'ero: means sustenance or conjugal relations through onah",
+          "display_title": "Ramban Sustenance",
+          "timestamp": "40:52"
+        },
+        {
+          "title": "Connection to vehayu lebasar echad: becoming one flesh makes wife the closest she'er",
+          "display_title": "One Flesh",
+          "timestamp": "41:08"
+        }
+      ]
+    },
+    {
+      "title": "Rebbi's Derasha: Ve'avarta and Sons/Husbands Inheriting from Daughters",
+      "display_title": "Rebbi's Ve'avarta",
+      "timestamp": "43:46",
+      "micro_segments": [
+        {
+          "title": "Rebbi: all other relatives are given inheritance; daughters are transferred (ve'avarta)",
+          "display_title": "Transfer Vs. Give",
+          "timestamp": "43:46"
+        },
+        {
+          "title": "Reason: inheritance transfers out of the tribe when daughter marries; son and husband inherit from her",
+          "display_title": "Tribe Transfer Reason",
+          "timestamp": "43:59"
+        },
+        {
+          "title": "Implicit derivation: husband inherits wife from the ve'avarta language",
+          "display_title": "Husband Inheritance",
+          "timestamp": "44:19"
+        }
+      ]
+    },
+    {
+      "title": "Distinguishing She'ero Between Father and Wife Contexts",
+      "display_title": "She'ero Contexts",
+      "timestamp": "45:23",
+      "micro_segments": [
+        {
+          "title": "Question: If she'ero means father (from inheritance), how do we use she'ero for wife?",
+          "display_title": "Dual Meaning",
+          "timestamp": "45:23"
+        },
+        {
+          "title": "Support: she'er avcha (your father's wife) is called she'er in Leviticus",
+          "display_title": "Levitical Reference",
+          "timestamp": "45:32"
+        },
+        {
+          "title": "Response: Different tannaim learn father and wife from different pesukim",
+          "display_title": "Different Sources",
+          "timestamp": "45:43"
+        },
+        {
+          "title": "First tanna: she'ero inserts father into inheritance hierarchy",
+          "display_title": "Father Insertion",
+          "timestamp": "45:43"
+        },
+        {
+          "title": "Second tanna: she'ero refers to wife; husband inherits his wife",
+          "display_title": "Wife Reference",
+          "timestamp": "45:43"
+        }
+      ]
+    },
+    {
+      "title": "Patriarchy as the Foundation of Family Structure",
+      "display_title": "Patriarchy Principle",
+      "timestamp": "45:50",
+      "micro_segments": [
+        {
+          "title": "Question: If daughters can inherit, why not mothers, since both expand family beyond patriarchy?",
+          "display_title": "Mother vs. Daughter",
+          "timestamp": "45:50"
+        },
+        {
+          "title": "Gemara's response: mishpachat av (father's family) is called mishpacha; mishpachat em is not",
+          "display_title": "Father's Family Only",
+          "timestamp": "46:50"
+        },
+        {
+          "title": "Principle: Family structure is defined through the father; mother's relationships do not create family",
+          "display_title": "Father-Defined Family",
+          "timestamp": "47:05"
+        },
+        {
+          "title": "Evidence: lemishpachtam leveit avotam—inheritance is through father's household",
+          "display_title": "Household Evidence",
+          "timestamp": "48:30"
+        }
+      ]
+    },
+    {
+      "title": "Case Study: The Levi from Judah—Recognizing Maternal Lineage While Maintaining Patriarchy",
+      "display_title": "Levi From Judah",
+      "timestamp": "49:46",
+      "micro_segments": [
+        {
+          "title": "Pesukim: A youth from Beit Lechem, from the family of Yehuda, and he was a Levi",
+          "display_title": "Apparent Contradiction",
+          "timestamp": "49:46"
+        },
+        {
+          "title": "Gemara's resolution: Father was Levi, mother was from Yehuda; tribal identity follows father",
+          "display_title": "Paternal Tribe",
+          "timestamp": "50:54"
+        },
+        {
+          "title": "The Levi's true identity: Yonatan ben Gershom ben Moshe, grandson of Moshe Rabbeinu",
+          "display_title": "True Identity",
+          "timestamp": "52:59"
+        },
+        {
+          "title": "Midrashic explanation: Called ben Menashe because he acted like the later idolatrous king Menashe",
+          "display_title": "Menashe Association",
+          "timestamp": "53:49"
+        },
+        {
+          "title": "Gemara's retreat: 'From the family of Yehuda' means he was like the idolatrous Yehudites, not family via mother",
+          "display_title": "Idolater Association",
+          "timestamp": "54:18"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion: The Balance Between Chiddush and Patriarchy",
+      "display_title": "Chiddush & Patriarchy",
+      "timestamp": "55:31",
+      "micro_segments": [
+        {
+          "title": "Daughters introduce a chiddush to patriarchy but do not extend to mothers",
+          "display_title": "Daughters Only",
+          "timestamp": "55:31"
+        },
+        {
+          "title": "Reason: Daughter is still the father's child; mother is not part of the father's family at all",
+          "display_title": "Daughter vs. Mother",
+          "timestamp": "55:42"
+        },
+        {
+          "title": "Final principle: Family grouping is exclusively patrilineal; mother cannot even serve as secondary family",
+          "display_title": "Exclusive Patrilineality",
+          "timestamp": "56:31"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Bnot Tzelofchad",
+      "timestamps": [
+        "02:12",
+        "12:20",
+        "32:45"
+      ]
+    },
+    {
+      "term": "Ve'avarta (transfer)",
+      "timestamps": [
+        "02:47",
+        "03:00",
+        "27:35",
+        "31:52",
+        "43:46"
+      ]
+    },
+    {
+      "term": "She'ero (flesh)",
+      "timestamps": [
+        "06:09",
+        "36:04",
+        "38:54",
+        "39:04",
+        "45:32",
+        "45:50"
+      ]
+    },
+    {
+      "term": "Karov Karov Kodem (closest relative comes first)",
+      "timestamps": [
+        "06:18",
+        "06:22",
+        "17:32",
+        "22:36"
+      ]
+    },
+    {
+      "term": "Yibum (levirate marriage)",
+      "timestamps": [
+        "16:15",
+        "18:08",
+        "20:35",
+        "22:39",
+        "39:42"
+      ]
+    },
+    {
+      "term": "Mishmash and Yoresh Bakever",
+      "timestamps": [
+        "09:09",
+        "11:59"
+      ]
+    },
+    {
+      "term": "Patriarchy and family structure",
+      "timestamps": [
+        "05:17",
+        "19:37",
+        "32:43",
+        "45:50",
+        "46:50",
+        "47:05"
+      ]
+    },
+    {
+      "term": "Mishpachat av (father's family)",
+      "timestamps": [
+        "46:50",
+        "47:05",
+        "48:30"
+      ]
+    },
+    {
+      "term": "Mishpachat em (mother's family)",
+      "timestamps": [
+        "46:50",
+        "48:30",
+        "54:18"
+      ]
+    },
+    {
+      "term": "Wife as she'er (flesh) and inheritance",
+      "timestamps": [
+        "36:04",
+        "36:52",
+        "38:54",
+        "39:04",
+        "40:48"
+      ]
+    },
+    {
+      "term": "Ramban on she'ero and conjugal relations",
+      "timestamps": [
+        "40:52",
+        "41:08"
+      ]
+    },
+    {
+      "term": "Vehayu lebasar echad (becoming one flesh)",
+      "timestamps": [
+        "41:08",
+        "41:16"
+      ]
+    },
+    {
+      "term": "Rebbi's derasha on daughters",
+      "timestamps": [
+        "02:55",
+        "43:46",
+        "43:59"
+      ]
+    },
+    {
+      "term": "Kohen becoming tamei (defiled)",
+      "timestamps": [
+        "37:52",
+        "39:42",
+        "39:55"
+      ]
+    },
+    {
+      "term": "The Levi from Beit Lechem (Pesel Micha incident)",
+      "timestamps": [
+        "49:46",
+        "50:54",
+        "52:59",
+        "53:49",
+        "54:18"
+      ]
+    },
+    {
+      "term": "Yonatan ben Gershom ben Moshe",
+      "timestamps": [
+        "52:59",
+        "53:09"
+      ]
+    }
+  ]
+}

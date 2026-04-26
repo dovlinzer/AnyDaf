@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-sofer_retry.py — Re-submit FAILED transcriptions from a sofer_batch.py status output.
+sofer_retry.py — Re-submit FAILED or PROCESSING transcriptions from a sofer_batch.py status output.
 
-Reads status lines from a file or stdin, extracts every FAILED item by title,
+Reads status lines from a file or stdin, extracts every FAILED or PROCESSING item by title,
 looks up the corresponding audio URL in Supabase, and submits a new batch.
 
 Usage:
@@ -50,8 +50,9 @@ logger = logging.getLogger(__name__)
 # Matches lines like:
 #   [FAILED      ] Ketubot 58  3617s  (dbf9ee2a-...)
 #   [FAILED      ] Gittin 90  (b4021789-...)   ← no duration
+#   [PROCESSING  ] Nazir 44b  (c3a19f7e-...)   ← stuck in processing
 _STATUS_LINE_RE = re.compile(
-    r"\[FAILED\s*\]\s+(.+?)\s+(?:\d+s\s+)?\([0-9a-f-]{36}\)",
+    r"\[(?:FAILED|PROCESSING)\s*\]\s+(.+?)\s+(?:\d+s\s+)?\([0-9a-f-]{36}\)",
     re.IGNORECASE,
 )
 
@@ -60,7 +61,7 @@ _TITLE_RE = re.compile(r"^([A-Za-z][A-Za-z ]+?)\s+(\d+b?)$", re.IGNORECASE)
 
 
 def parse_failed_titles(text: str) -> list[str]:
-    """Return the list of titles (e.g. ['Ketubot 58', 'Nazir 44b']) for all FAILED lines."""
+    """Return the list of titles (e.g. ['Ketubot 58', 'Nazir 44b']) for all FAILED or PROCESSING lines."""
     titles = []
     for line in text.splitlines():
         m = _STATUS_LINE_RE.search(line)
@@ -118,7 +119,7 @@ def items_from_failed_titles(titles: list[str], supabase_key: str) -> list[dict]
         logger.warning(f"Could not parse {len(unparseable)} title(s): {unparseable}")
 
     if not by_tractate:
-        raise RuntimeError("No parseable FAILED titles found in the input.")
+        raise RuntimeError("No parseable FAILED or PROCESSING titles found in the input.")
 
     # Fetch rows from Supabase; build (tractate, daf) → audio_url map
     row_map: dict[tuple[str, float], str] = {}
@@ -185,7 +186,7 @@ def items_from_failed_titles(titles: list[str], supabase_key: str) -> list[dict]
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Re-submit FAILED sofer.ai transcriptions from a status output.",
+        description="Re-submit FAILED or PROCESSING sofer.ai transcriptions from a status output.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -244,9 +245,9 @@ def main():
     # Parse failed titles
     titles = parse_failed_titles(text)
     if not titles:
-        logger.error("No FAILED lines found in the input.")
+        logger.error("No FAILED or PROCESSING lines found in the input.")
         sys.exit(1)
-    logger.info(f"Found {len(titles)} FAILED item(s).")
+    logger.info(f"Found {len(titles)} FAILED/PROCESSING item(s).")
 
     # Look up audio URLs from Supabase
     items = items_from_failed_titles(titles, args.supabase_key)

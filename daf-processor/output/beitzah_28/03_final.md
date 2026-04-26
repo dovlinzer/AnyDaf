@@ -1,0 +1,303 @@
+# Beitzah 28 — Daf Yomi Shiur
+
+## Neveila & Muktzeh
+
+### Dead Animal Prohibition
+
+> **Hebrew/Aramaic:** מַתְנִי׳ בְּהֵמָה שֶׁמֵּתָה — לֹא יְזִיזֶנָּה מִמְּקוֹמָהּ. וּמַעֲשֶׂה וְשָׁאֲלוּ אֶת רַבִּי טַרְפוֹן עָלֶיהָ וְעַל הַחַלָּה שֶׁנִּטְמֵאת, וְנִכְנַס לְבֵית הַמִּדְרָשׁ וְשָׁאַל, וְאָמְרוּ לוֹ: לֹא יְזִיזֵם מִמְקוֹמָם.
+>
+> **Translation:** MISHNA: With regard to **an animal that died, one** may **not move it from its place** on a Festival. **And** such **an incident** once occurred **and they asked Rabbi Tarfon about it. And** on that same occasion they also asked him **about *ḥalla* that** had been separated from dough and then **became ritually impure** on a Festival. Such *ḥalla* is not fit to be eaten by anyone, nor may it be used in any other manner, e.g., as animal feed or as fuel for a fire, on that day. Rabbi Tarfon **entered the study hall and inquired** about these matters, **and** the Sages **said to him: One** may **not move them from their place.**
+
+The *mishna* on Beitzah 28a opens with a case that might appear straightforward but quickly reveals layers of complexity: *behema shemessa lo yezizena mimekomah* — if an animal dies on *yom tov*, one may not move it from its place, because it is *muktzeh* and has no permitted use. The question of whether it might serve as dog food will be addressed in due course.
+
+### Tarfon's Question
+
+Immediately following this ruling, the *mishna* records a historical episode: *u'maaseh she'shalu es Rebbe Tarfon aleha* — they brought the question before Rebbe Tarfon. Two cases were posed together: the dead animal and the case of *challah* — dough separated as *terumah* — that had become *tamei*. *Terumah* that becomes *tamei* can only be burned; there is no other permitted use. Rebbe Tarfon entered the *beis medrash* and solicited the opinion of the assembled scholars, and they replied: *lo yezizam mimekomam* — neither may be moved from its place. It is striking that Rebbe Tarfon, normally counted among the great authorities, goes to consult the anonymous *beis medrash*, but that was the conclusion: both *tamei challah* and a dead animal are *muktzeh* on *yom tov*.
+
+### Rebbe Shimon Debate
+
+> **Hebrew/Aramaic:** גְּמָ׳ לֵימָא תְּנַן סְתָמָא דְּלָא כְּרַבִּי שִׁמְעוֹן? (דִּתְנַן) רַבִּי שִׁמְעוֹן אוֹמֵר: מְחַתְּכִין אֶת הַדִּלּוּעִין לִפְנֵי הַבְּהֵמָה, וְאֶת הַנְּבֵלָה לִפְנֵי הַכְּלָבִים. רַבִּי יְהוּדָה אוֹמֵר: אִם לֹא הָיְתָה נְבֵלָה מֵעֶרֶב שַׁבָּת — אֲסוּרָה.
+>
+> **Translation:** GEMARA: The Gemara suggests: **Let us say** that **we learned the unattributed** mishna **not in accordance with** the opinion of **Rabbi Shimon. As we learned** in a mishna (*Shabbat* 156b) that **Rabbi Shimon says: One** may **cut up gourds for an animal** on Shabbat so that it can eat them more easily, and similarly, one may cut up **an** unslaughtered **animal carcass for dogs. Rabbi Yehuda says: If it was not an animal carcass** already **on the eve of Shabbat,** but rather it died on Shabbat itself, **it is prohibited.** Since Rabbi Yehuda distinguishes between an animal that died on Shabbat and one that died before Shabbat, it would appear that Rabbi Shimon holds that one may move an animal carcass and feed it to dogs even if it died on Shabbat. Accordingly, the mishna that prohibits moving an animal that died on a Festival seems to conflict with Rabbi Shimon's opinion.
+
+The *gemara* immediately raises a challenge: *lema t'nan stama d'lo k'Rebbe Shimon*? Is the anonymous *mishna* departing from the position of Rebbe Shimon? A *beraisa* records that Rebbe Shimon permits one to chop up a gourd for an animal and, more relevantly, to chop up a *neveila* — an animal carcass — to feed to dogs on *Shabbos*. Rebbe Yehuda in that *beraisa* disagrees, holding that if the animal had not already died by *erev Shabbos*, it is *assur*, because when *Shabbos* began, the animal's use as dog food had not yet been contemplated.
+
+The underlying logic of Rebbe Shimon's leniency is clear: since the animal might have been used for food had it been slaughtered before death, its potential utility was at least thinkable, and thus *muktzeh* is not so severe. A *kal v'chomer* would suggest this is even more lenient on *yom tov*, when *shechita* is permitted and the animal could plausibly have been slaughtered for food before it died.
+
+### Healthy vs. Sickly
+
+> **Hebrew/Aramaic:** אֲפִילּוּ תֵּימָא רַבִּי שִׁמְעוֹן, מוֹדֶה רַבִּי שִׁמְעוֹן בְּבַעֲלֵי חַיִּים שֶׁמֵּתוּ, שֶׁאֲסוּרִין.
+>
+> **Translation:** The Gemara rejects this argument: The mishna can be understood **even** if **you say** that it is in accordance with the opinion of **Rabbi Shimon,** as **Rabbi Shimon** nevertheless **concedes in** the case of **animals that** were entirely healthy at twilight but **died** on the Festival **that they are prohibited.** Since they were healthy at twilight, the owner had no intention at that point in time of feeding them to dogs, and they are therefore prohibited as *muktze*. The *baraita*, on the other hand, is referring to an animal that had been sick on the previous day; since the owner knew that it was close to death, he had in mind to feed it to his dogs after it died.
+
+The *gemara* responds: *afilu tema Rebbe Shimon* — even if the *mishna* represents Rebbe Shimon's view, there is a basis to distinguish. According to the tradition cited in the name of Rava by Mar bar Ameimar, Rebbe Shimon concedes that a healthy animal that dropped dead is *assur* — *modeh haya Rebbe Shimon bebaalei chayim shemesu she'asurim*. Based on this, Rashi explains that the *beraisa* in which Rebbe Shimon permits chopping the carcass for dogs concerns an animal that was visibly near death — sickly and expected to die. The distinction is embedded in the language: our *mishna* says *behema shemessa*, which evokes a sudden, unexpected death, whereas the *beraisa* speaks of *haneveila*, already framing the animal as a carcass, suggesting it was anticipated.
+
+> **Hebrew/Aramaic:** הָנִיחָא לְמָר בַּר אַמֵּימָר מִשְּׁמֵיהּ דְּרָבָא דְּאָמַר: מוֹדֶה הָיָה רַבִּי שִׁמְעוֹן בְּבַעֲלֵי חַיִּים שֶׁמֵּתוּ שֶׁאֲסוּרִין, שַׁפִּיר. אֶלָּא לְמָר בְּרֵיהּ דְּרַב יוֹסֵף מִשְּׁמֵיהּ דְּרָבָא דְּאָמַר: חָלוּק הָיָה רַבִּי שִׁמְעוֹן אֲפִילּוּ בְּבַעֲלֵי חַיִּים שֶׁמֵּתוּ, שֶׁמּוּתָּרִים — מַאי אִיכָּא לְמֵימַר?
+>
+> **Translation:** The Gemara asks: **This** works out **well according to** the opinion of **Mar bar Ameimar in the name of Rava, who said** that **Rabbi Shimon concedes in** the case of **animals that died** on the Festival without having been mortally sick the day before **that they are prohibited** on the Festival due to *muktze*; according to this opinion, it is **well. However, according to** the opinion of **Mar, son of Rav Yosef, in the name of Rava, who said** that **Rabbi Shimon was in disagreement even in** the case of **animals that died** suddenly, and he holds that **they are permitted, what is there to say?** The unattributed mishna appears to contradict this opinion.
+
+However, a second tradition — Mar brei d'Rav Yosef, also in the name of Rava — holds that Rebbe Shimon's leniency would apply even to a healthy animal that died unexpectedly: *chaluk haya Rebbe Shimon afilu bebaalei chayim shemesu shemutarim*. According to this view, Rebbe Shimon sees no *muktzeh* problem in any case of a dead animal that can be used as dog food, and if so, the question arises again: how can our *mishna* forbid it while still representing Rebbe Shimon's position?
+
+### Kodshim Exception
+
+> **Hebrew/Aramaic:** תַּרְגְּומַהּ זְעֵירִי, בְּבֶהֱמַת קֳדָשִׁים. דַּיְקָא נָמֵי, דְּקָתָנֵי: עָלֶיהָ וְעַל הַחַלָּה שֶׁנִּטְמֵאת. מָה חַלָּה — דְּקַדִּישָׁא, אַף בְּהֵמָה — דְּקַדִּישָׁא.
+>
+> **Translation:** The Gemara answers: **Ze'iri explained it** as follows: The mishna is referring **to a sacred animal** that died; since it is sacred property, one may not derive benefit from it, and therefore one may not give it to dogs. The Gemara comments: The language of the mishna **is also precise** according to this interpretation, **as it teaches:** They asked Rabbi Tarfon **about it and about *ḥalla* that became ritually impure,** from which it may be inferred: **Just as *ḥalla* is sacred, so too,** the **animal** mentioned here is one **that was sacred,** rather than a non-sacred animal.
+
+The *gemara* offers a resolution: *targmuha Ze'iri bevehemas kodshim* — the *mishna* is speaking of a sanctified animal, one that had been consecrated as a *korban*. Even Rebbe Shimon would agree that a sanctified animal which dies is *muktzeh*, because once it is dead it cannot simply be fed to dogs.
+
+Rashi explains the double prohibition in this case. First, a dead animal cannot be redeemed — redemption of *kodshim* requires a living animal. Second, and even if we were to entertain the possibility of redeeming a dead animal, there is an independent principle: *ain podin es hakodshim lehachilam le'klavim* — one may not redeem *kodshim* for the purpose of feeding the carcass to dogs. Such an act would be a *bizayon* to *kodshim*, a degradation of sanctified property. Therefore, what must be done with such an animal is to bury it. It is *muktzeh* in the fullest sense: there is simply no permitted use for it on *yom tov*.
+
+> **Hebrew/Aramaic:** אֶלָּא טַעְמָא דְּקַדִּישָׁא הָא דְּחוּלִּין — שַׁרְיָא. הָנִיחָא לְמָר בְּרֵיהּ דְּרַב יוֹסֵף מִשְּׁמֵיהּ דְּרָבָא, דְּאָמַר: חָלוּק הָיָה רַבִּי שִׁמְעוֹן אַף בְּבַעֲלֵי חַיִּים שֶׁמֵּתוּ שֶׁמּוּתָּרִין — שַׁפִּיר. אֶלָּא לְמָר בַּר אַמֵּימָר מִשְּׁמֵיהּ דְּרָבָא, דְּאָמַר: מוֹדֶה הָיָה רַבִּי שִׁמְעוֹן בְּבַעֲלֵי חַיִּים שֶׁמֵּתוּ שֶׁאֲסוּרִין — מַאי אִיכָּא לְמֵימַר?
+>
+> **Translation:** The Gemara asks: **Rather,** according to this explanation, **the reason** that the animal may not be moved **is that** the animal **was sacred; but** if it was **a non-sacred** animal that died, it would be **permitted** to move it. If so, **this** works out **well according to** the opinion of **Mar, son of Rav Yosef, in the name of Rava, who said** that **Rabbi Shimon was in disagreement even in** the case of **animals that died,** and he holds that **they are permitted;** according to this opinion, it is **well,** as one can say that the mishna, which indicates that one may move an animal that died on a Festival, is in accordance with the opinion of Rabbi Shimon. **However, according to** the opinion of **Mar bar Ameimar in the name of Rava, who said** that **Rabbi Shimon concedes in** the case of **animals that died that they are prohibited, what is there to say?** The mishna is in accordance with neither Rabbi Shimon nor Rabbi Yehuda.
+
+> **Hebrew/Aramaic:** הָכָא בְּמַאי עָסְקִינַן — בִּמְסוּכֶּנֶת, וְדִבְרֵי הַכֹּל.
+>
+> **Translation:** The Gemara answers: **With what are we dealing here?** It is **with** a case where the animal was **in danger** of dying the day before, and the owner had in mind to feed it to his dogs after it died, **and all agree** with regard to the ruling. Therefore, according to Rabbi Shimon, an allowance is granted to move the animal if it was a non-sacred animal and it had been in danger prior to the Festival; and if the animal was sacred, even he agrees that it is prohibited, as it may not be fed to dogs.
+
+The *gemara* then tests this resolution. According to Mar brei d'Rav Yosef, who holds that Rebbe Shimon would permit even a healthy *chulin* animal that dropped dead, the distinction works cleanly: only *kodshim* remains *assur*, while *chulin* would be *mutar* — *shapir*. But according to Mar bar Ameimar, who holds that Rebbe Shimon concedes the prohibition even in a healthy *chulin* animal, there is a difficulty: if even a healthy *chulin* animal is *assur* according to Rebbe Shimon, why does the *mishna* need to be limited to the exceptional case of *kodshim*? The *gemara* answers: *hacha bemai askinan bimesuchenes vedibrei hakol* — the *mishna* may be describing a sickly animal on the verge of death, a case in which Rebbe Shimon would normally permit, and the only reason it is *assur* here is the additional factor of *kodshim*.
+
+In summary, the *gemara* offers two approaches to reconcile the *mishna* with Rebbe Shimon: the first is a distinction between healthy and sickly animals, the second is the special stringency of *kodshim*. Each approach works differently depending on which tradition in Rava's name one accepts regarding Rebbe Shimon's position.
+
+### Impure Challah Problem
+
+While the *gemara*'s analysis focuses on the dead animal, Tosafot observes that the more interesting question is actually the case of *tamei challah*. If *tamei challah* must be burned, and the *halacha* is that one is permitted to derive benefit from it in the course of burning it — meaning one may cook over its flames — why should it be *muktzeh*? Why not burn it on *yom tov* and use the heat for cooking?
+
+Tosafot's answer draws an analogy to the prohibition against bringing *shelamim* on *yom tov* when the obligation does not arise on that day. The *gemara* earlier explained that *shelamim* is fundamentally a *korban*, and the eating from it is only secondary; therefore, the act of slaughtering it is an act of bringing a *korban*, not an act of *ochel nefesh*. Tosafot applies the same logic here: burning *tamei challah* is fundamentally the fulfillment of the *mitzvah* of destroying *terumah* that became *tamei* — the incidental benefit derived from the fire is secondary and does not transform the act into one done *letzorech ochel nefesh*. It is this reasoning that accounts for the *muktzeh* status of *tamei challah* on *yom tov*, even though benefit from it is technically permitted. Tosafot regards this as a more substantive question than the one the *gemara* itself chose to address.
+
+---
+
+## Commerce & Divisions
+
+### No Money Talk
+
+> **Hebrew/Aramaic:** מַתְנִי׳ אֵין נִמְנִין עַל הַבְּהֵמָה לְכַתְּחִלָּה בְּיוֹם טוֹב. אֲבָל נִמְנִין עָלֶיהָ מֵעֶרֶב יוֹם טוֹב, וְשׁוֹחֲטִין וּמְחַלְּקִין בֵּינֵיהֶם.
+>
+> **Translation:** MISHNA: **One** may **not register** to have a portion **of an animal on a Festival *ab initio*,** since it is prohibited to divide up an animal into portions for different people, as this is similar to conducting business, a weekday activity, on a Festival. **But one** may **register for** the animal **on the eve of the Festival, and** then those who registered for the animal may **slaughter and divide** it **between them** on the Festival itself in accordance with the agreement reached the day before. The next day, each pays the slaughterer according to his portion of the animal.
+
+The following *mishna* addresses another dimension of *yom tov* practice: the prohibition against organizing the purchase or division of an animal on *yom tov* itself. *Ein nimnin al habehema lechatchila beYom Tov* — one may not appoint oneself upon an animal, that is, join a group for it, at the outset on *yom tov*. However, one may join together before *yom tov*, and then slaughter and divide on *yom tov* itself.
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי אֵין נִמְנִין? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: אֵין פּוֹסְקִין דָּמִים לְכַתְּחִלָּה עַל הַבְּהֵמָה בְּיוֹם טוֹב. הֵיכִי עָבֵיד? אָמַר רַב: מֵבִיא שְׁתֵּי בְהֵמוֹת וּמַעֲמִידָן זוֹ אֵצֶל זוֹ, וְאוֹמֵר: זוֹ כָּזוֹ?
+>
+> **Translation:** GEMARA: The Gemara asks: **What is** the meaning of: **One** may **not register? Rav Yehuda said** that **Shmuel said: One** may **not fix** a sum **of money** and set a particular price for each portion **of an animal on a Festival *ab initio*.** The Gemara asks: **What** should **one do** on a Festival to divide up the animal without fixing a price? **Rav said: He** should **bring two animals and stand them one next to the other and say:** Is **this one equal** in value **to the other one?** If the purchasers confirm that this is the case, then after the Festival they assess the value of the animal that is identical to the animal that had been slaughtered on the Festival, and in that way they establish the amount that each person must pay.
+
+The *gemara* asks what this prohibition means precisely, and Rav Yehuda in the name of Shmuel explains: *ein poskin damim lechatchila al habehema beYom Tov* — one may not set prices for an animal on *yom tov*. The concern is explicitly financial: going through the calculation of who pays how much and who therefore receives what proportion is a form of *mekach u'mimkar*, commercial transaction, even if no money physically changes hands on *yom tov* itself.
+
+### Equal Division Method
+
+One might ask how, then, one is to acquire meat on *yom tov* at all. Rav provides an answer: *mevi shtei behemot u'maamidam zu etzel zu ve'omer zu kazu* — bring two animals and stand them side by side, and say "this one is like that one." After *yom tov*, one assesses the value of the remaining living animal, and since both were agreed to be equivalent, the value of the acquired animal follows. This method works equally for cut portions: two steaks that appear roughly equal in size can be treated the same way. Crucially, no money is discussed on *yom tov* — only an equivalence is established.
+
+### Proportion Division
+
+> **Hebrew/Aramaic:** תַּנְיָא נָמֵי הָכִי: לֹא יֹאמַר אָדָם לַחֲבֵרוֹ הֲרֵינִי עִמְּךָ בְּסֶלַע, הֲרֵינִי עִמְּךָ בִּשְׁתַּיִם, אֲבָל אוֹמֵר לוֹ: הֲרֵינִי עִמְּךָ לְמֶחֱצָה וְלִשְׁלִישׁ וְלִרְבִיעַ.
+>
+> **Translation:** **This is also taught** in a *baraita* that states: **A person** may **not say to another** on a Festival: **I am hereby** in partnership **with you** in this animal that you are about to slaughter **for the value of a *sela*,** or: **I am hereby** in partnership **with you for two** *sela*. **However, he** may **say to him: I am hereby** in partnership **with you for half** the animal, or **for a third or a quarter,** without stipulating the value of that share, and after the Festival they may determine how much each share is worth.
+
+A *beraisa* then spells this out explicitly: *lo yomar adam lachaveiro hareini imcha be'sela hareini imcha be'shtayim* — one may not say "I'll chip in a *sela*" or "I'll chip in two." But one may say: *hareini imcha l'mechtza l'shlish l'revia* — "I'll take half," "I'll take a third," "I'll take a quarter." One speaks in proportions, not in prices. After *yom tov*, the monetary value of the proportion is worked out. The money itself is deferred; what is transacted on *yom tov* is only the allocation of shares.
+
+This is a striking degree of latitude, and one that many people may be unaware of. The logic, however, is coherent: the *Torah* permits *melechet ochel nefesh* — labor related to food preparation — and obtaining possession of the food itself is an integral part of that process. The latitude given here for acquisition and division is part of the same logic that permits carrying on *yom tov*: conveyance and transfer are themselves part of what it means to prepare food. The concern about this resembling *uvda d'chol* is real — and the *gemara* itself raises it — but it is considered sufficiently addressed by the fact that explicit monetary discussion is avoided and the context is clearly food for *simchat Yom Tov*.
+
+### Scale Usage Debate
+
+> **Hebrew/Aramaic:** מַתְנִי׳ רַבִּי יְהוּדָה אוֹמֵר: שׁוֹקֵל אָדָם בָּשָׂר כְּנֶגֶד הַכְּלִי אוֹ כְּנֶגֶד הַקּוֹפִיץ. וַחֲכָמִים אוֹמְרִים: אֵין מַשְׁגִּיחִין בְּכַף מֹאזְנַיִם כׇּל עִיקָּר.
+>
+> **Translation:** MISHNA: **Rabbi Yehuda says: A person** selling meat on a Festival who wishes to know its weight in order to determine its price may not weigh it against regular weights in the ordinary weekday manner, but he may **weigh** the **meat against** a **vessel or against** a **cleaver [*kofitz*]** and then calculate the weight of the meat by weighing the vessel or cleaver later. **And the Rabbis say: One** may **not look at the pans of a** balance **scale at all,** meaning that they may not be used for weighing in any manner or for any other purpose.
+
+The next *mishna* continues this theme. Rabbi Yehuda says: *shokel adam basar k'neged hakli o k'neged hakopitz* — one may weigh meat against a vessel or against the cleaver. Rather than using calibrated weights on a balance scale, one places a hammer or some other utensil on one side and meat on the other, establishing a rough equivalence. After *yom tov* one weighs the utensil and determines the monetary value accordingly. The *Chachamim* disagree: *ein mashgichin b'chaf moznayim kol ikar* — one may not consult the scale at all, in any form.
+
+### Scale Prohibition
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַאי ״כׇּל עִיקָּר״? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: אֲפִילּוּ לְשׇׁמְרוֹ מִן הָעַכְבָּרִים. אָמַר רַב אִידִי בַּר אָבִין: וְהוּא דְּתַלְיָא בִּתְרִיטָא.
+>
+> **Translation:** GEMARA: The Gemara asks: **What is** the meaning of: One may not look at the pans of a scale **at all? Rav Yehuda said** that **Shmuel said: Even** if one has meat and he wishes **to protect it from mice,** he may not put it on a scale, since it would look as if he were weighing it. **Rav Idi bar Avin said: And this** ruling applies only **where** the scale **is hanging on the ring** used for balancing it. However, if the scale is hanging in such a manner that it is not fit for weighing, one may use it as he would use any other vessel.
+
+The *gemara* probes the phrase *kol ikar* — "at all." Rav Yehuda in the name of Shmuel explains: even using the scale to protect meat from mice is forbidden. One might have imagined that placing meat on a high-hanging scale purely to keep it away from animals, with no intention of weighing it, would be permissible — but no. The scale is a *keli omanut*, a professional instrument, and it is categorically off-limits on *yom tov*. It is entirely associated with commerce and transaction.
+
+Rav Adda bar Avin adds a qualification: the prohibition applies specifically when the scale is hanging from its standard ring — that is, when it is positioned as it would be in its functional mode. If it is taken off its standard peg and used for some unrelated purpose, that restriction may not apply.
+
+### Expert Butcher Rules
+
+> **Hebrew/Aramaic:** וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: טַבָּח אוּמָּן אָסוּר לִשְׁקוֹל בָּשָׂר בַּיָּד. וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: טַבָּח אוּמָּן אָסוּר לִשְׁקוֹל בָּשָׂר בְּמַיִם.
+>
+> **Translation:** **And Rav Yehuda said** that **Shmuel said: It is prohibited for an expert butcher to weigh meat** on a Festival even **by hand** because he can arrive at its precise weight using this method, and so it is prohibited like weighing with a scale. **And** likewise, **Rav Yehuda said** that **Shmuel said: It is prohibited for an expert butcher to weigh meat** on a Festival even **in water.** Butchers would calculate the weight of a slab of meat by placing it into a tub of water and measuring the amount of water that it displaces with the help of markings on the container. Since this procedure enables the butcher to determine the precise weight of the meat, it may not be performed on a Festival.
+
+Further restrictions follow in the name of Rav Yehuda citing Shmuel. An expert butcher may not weigh meat by hand on *yom tov* — even though this involves no scale, a practiced professional holding two items and pronouncing them equivalent is itself a weighing act, and is forbidden. Similarly, such a butcher may not weigh meat by water displacement, using the volume of displaced water to assess the quantity. Both of these methods, while not using the scale directly, constitute real acts of measurement and are therefore forbidden. All of this follows the *Chachamim* against Rabbi Yehuda: a *shinui* is not sufficient to permit what is fundamentally a commercial act of measurement.
+
+### Handle & Mark Rules
+
+> **Hebrew/Aramaic:** וְאָמַר רַב חִיָּיא בַּר אָשֵׁי: אָסוּר לַעֲשׂוֹת בֵּית יָד בַּבָּשָׂר. אָמַר רָבִינָא: וּבִידָא שְׁרֵי.
+>
+> **Translation:** **And Rav Ḥiyya bar Ashi said: It is prohibited to make** a hole to serve as **a handle in meat** on a Festival, since this is a weekday act. **Ravina said: But it is permitted** to make such a handle **by hand,** rather than with a knife or some other implement, since this is an atypical manner of making a hole.
+
+> **Hebrew/Aramaic:** אָמַר רַב הוּנָא: מוּתָּר לַעֲשׂוֹת סִימָן בַּבָּשָׂר, כִּי הָא דְּרַבָּה בַּר רַב הוּנָא מְחַתֵּךְ לַהּ אַתְּלָת קַרְנָתָא.
+>
+> **Translation:** **Rav Huna said: It is permitted to make a sign on meat** even on a Festival, so that it not be mistaken for the meat of another person. This is **like that which Rabba bar Rav Huna** would do when he sent meat by means of a messenger to his house; he would **cut it into triangles** as a sign that the meat was his and it was fit to be eaten.
+
+Rav Chiya bar Ashi adds that one may not make a *beis yad* — a handle — in a side of meat on *yom tov*. One might carve a hole through a large cut to enable easier carrying, but this act of preparation makes the purchase conspicuous — it presents the appearance of having come directly from a commercial establishment. However, Ravina clarifies: *u'veyado shari* — making an informal opening with one's hand alone, without using a tool and without professional appearance, is permitted, as it does not project the same commercial character.
+
+Rav Huna adds that one is permitted to mark a portion of meat with a distinguishing cut to prevent confusion about whose it is — as in the practice of Rabbah bar Huna, who would cut his meat with a triangular pattern on three corners and then send it home, where it would be recognized as his.
+
+### Mana K'Neged Mana
+
+> **Hebrew/Aramaic:** רַבִּי חִיָּיא וְרַבִּי שִׁמְעוֹן בְּרַבִּי שׁוֹקְלִין מָנָה כְּנֶגֶד מָנָה בְּיוֹם טוֹב. כְּמַאן? לָא כְּרַבִּי יְהוּדָה וְלֹא כְּרַבָּנַן! אִי כְּרַבִּי יְהוּדָה, הָאָמַר: שׁוֹקֵל אָדָם בָּשָׂר כְּנֶגֶד הַכְּלִי אוֹ כְּנֶגֶד הַקּוֹפִיץ. כְּנֶגֶד הַכְּלִי — אִין, כְּנֶגֶד מִידֵּי אַחֲרִינָא — לָא! אִי כְּרַבָּנַן, הָא אָמְרִי: אֵין מַשְׁגִּיחִין בְּכַף מֹאזְנַיִם כׇּל עִיקָּר!
+>
+> **Translation:** The Gemara relates an incident in connection to the basic *halakha* of the mishna: **Rabbi Ḥiyya and Rabbi Shimon, son of Rabbi** Yehuda HaNasi, would **weigh** one **portion against** another **portion on a Festival** in order to divide the meat between them. The Gemara asks: **In accordance with whose** opinion did they do so? This seems to be **neither in accordance with** the opinion of **Rabbi Yehuda nor in accordance with** the opinion of **the Rabbis** in the mishna. As, **if** it is **in accordance with** the opinion of **Rabbi Yehuda, didn't he say: A person** may **weigh meat against a vessel or against a cleaver,** from which it may be inferred: **Against a vessel** or a cleaver, **yes,** one may do so; but **against anything else, no,** he may not. And **if** it is **in accordance with** the opinion of **the Rabbis, didn't they say: One** may **not look at the pans of a scale at all?**
+
+> **Hebrew/Aramaic:** אִינְהוּ דַּעֲבוּד כְּרַבִּי יְהוֹשֻׁעַ. דְּתַנְיָא, רַבִּי יְהוֹשֻׁעַ אוֹמֵר: שׁוֹקְלִין מָנָה כְּנֶגֶד מָנָה בְּיוֹם טוֹב. אֲמַר רַב יוֹסֵף: הֲלָכָה כְּרַבִּי יְהוֹשֻׁעַ, הוֹאִיל וּתְנַן בִּבְכוֹרוֹת כְּוָתֵיהּ.
+>
+> **Translation:** The Gemara explains: Rabbi Ḥiyya and Rabbi Shimon, son of Rabbi Yehuda HaNasi, **acted in accordance with** the opinion of **Rabbi Yehoshua. As it is taught** in a *baraita* that **Rabbi Yehoshua says: One may weigh** one **portion against** another **portion on a Festival. Rav Yosef said:** The ***halakha* is in accordance with** the opinion of **Rabbi Yehoshua, since we learned** in a mishna **in** tractate ***Bekhorot*** (31a) **in accordance with his** opinion.
+
+> **Hebrew/Aramaic:** דִּתְנַן: פְּסוּלֵי הַמּוּקְדָּשִׁין — הֲנָאָתָן לַהֶקְדֵּשׁ, וְשׁוֹקְלִין מָנָה כְּנֶגֶד מָנָה בַּבְּכוֹר.
+>
+> **Translation:** **As we learned** there: With regard to **consecrated animals that have become disqualified** because of a blemish, all **the benefit** that accrues **from their** sale belongs **to the** Temple treasury of **consecrated** property. **And one** may **weigh** one **portion** of meat **against** another **portion** of meat **in** the case of a **firstborn** that developed a blemish. Although the meat of a firstborn may not be sold by weight in the manner of non-sacred meat, one may weigh one portion against another portion in order to determine its price. This indicates that even in a case where it is prohibited to weigh an item in the ordinary manner, one may still weigh one portion of it against another portion.
+
+Against this background, the *gemara* introduces an episode: *Rabbi Chiya v'Rabbi Shimon b'rebi shoklin mana k'neged mana b'Yom Tov* — Rabbi Chiya and Rabbi Shimon the son of Rebbe would weigh *mana* against *mana* on *yom tov*. That is, when dividing a jointly owned side of beef, they would place equal portions on opposite sides of a balance scale and divide accordingly, each taking half. Neither knew the objective weight; they simply ensured the halves were equal.
+
+This is plainly at odds with the *Chachamim*'s position of *ein mashgichin b'chaf moznayim kol ikar*. Nor does it fit Rabbi Yehuda's more lenient ruling, which the *gemara* reads as permitting only an asymmetric weighing — meat against some unrelated vessel — not meat against meat on opposing sides of the scale. As Rashi explains, *lo shinui* — weighing equal portions against each other is precisely the standard weekday method of dividing a jointly owned object, and Rabbi Yehuda would presumably disallow it for that reason.
+
+The *gemara* therefore concludes that Rabbi Chiya and Rabbi Shimon bar Rebbe were following the view of Rabbi Yehoshua, as taught in a *beraisa*: *shoklin maneh k'neged maneh b'Yom Tov* — one may weigh equal amounts against each other on *yom tov*. Rav Yosef adds: *halacha k'Rabbi Yehoshua* — we rule like Rabbi Yehoshua, *ho'il v'snan b'Bechoros k'vaseih* — since the *mishna* in Bechoros follows his position.
+
+The citation from Bechoros requires some background. The *bechor*, the firstborn animal, acquires its *kedusha* automatically at birth, not through a verbal act of consecration. Because the *kedusha* was not instilled by the owner, it cannot be removed by the owner either; there is no mechanism of redemption. When a *bechor* develops a *mum* (a blemish) and can no longer be brought as a *korban*, it is eaten by the *kohen* even without being redeemed — the *kedusha* remains in place. Precisely because it retains full *kedusha* and cannot be redeemed, there are additional restrictions on how it may be sold. Unlike a standard *korban* that has been redeemed — which may be sold in the marketplace and weighed in the normal fashion, because the greater the retail value, the more the owner can claim when redeeming the *kedusha* onto its monetary equivalent, thereby benefiting *hekdesh* — a *bechor* that has developed a *mum* may not be sold openly in the *shuk* or weighed in the standard commercial manner. Yet the *mishna* in Bechoros does permit *shoklin maneh k'neged maneh b'bechor* — weighing equal portions against each other in the division of a *bechor*. This is the ruling associated with Rabbi Yehoshua, and Rav Yosef argues: just as *mana k'neged mana* is not treated as degrading *kodshim* in the context of *bechor*, so too it should not be treated as *uvda d'chol* on *yom tov*.
+
+### Bizayon vs Uvda
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְדִלְמָא לָא הִיא, עַד כָּאן לָא קָאָמַר רַבִּי יְהוֹשֻׁעַ הָכָא, אֶלָּא דְּלֵיכָּא בִּזְיוֹן קָדָשִׁים, אֲבָל הָתָם דְּאִיכָּא בִּזְיוֹן קֳדָשִׁים — לָא.
+>
+> **Translation:** **Abaye said to him: Perhaps that is not so,** and the two cases are not similar. It is possible that **Rabbi Yehoshua stated** his opinion that one may weigh one portion against another **only here,** on a Festival, **where** the action does **not** involve a show of **degradation of sacred** items; **but there,** in the case of a firstborn, **where** the weighing involves a display of **degradation of sacred** items, perhaps he did **not** permit weighing of any kind.
+
+> **Hebrew/Aramaic:** אִי נָמֵי, עַד כָּאן לָא קָאָמְרִי רַבָּנַן הָתָם אֶלָּא מִשּׁוּם דְּלָא מִחֲזֵי כְּעוֹבָדִין דְּחוֹל, אֲבָל הָכָא דְּמִחֲזֵי כְּעוֹבָדִין דְּחוֹל — לָא.
+>
+> **Translation:** **Alternatively,** it is possible that **the Rabbis stated** their opinion that one may weigh one portion against another **only there,** in the case of a firstborn, **because it does not look like a weekday activity; but here,** on a Festival, **where it looks like a weekday activity,** perhaps they would **not** have permitted it. It is therefore possible that even the Rabbis would prohibit this action on a Festival.
+
+Abaye challenges Rav Yosef's comparison on two distinct grounds. First, he suggests that the direction of analogy might run the opposite way for *bechor*: perhaps Rabbi Yehoshua permits *mana k'neged mana* by *bechor* precisely because the only concern there is *bizayon kodshim*, and equal-weight division is not regarded as disrespectful. But when it comes to *yom tov*, there is an entirely different concern — *uvda d'chol*, the appearance of weekday commercial activity. A ruling that resolves a *bizayon kodshim* question does not necessarily govern a *uvda d'chol* question.
+
+Alternatively, Abaye raises the inverse possibility: perhaps the Rabbis in Bechoros allow *mana k'neged mana* because their concern there is whether the division shows disrespect to the *kodshim*, and they determine it does not — but they are not ruling on whether it resembles weekday activity. On *yom tov*, where *uvda d'chol* is the operative concern, the Rabbis might be more stringent. The two domains — *bizayon kodshim* and *uvda d'chol* — address different questions, and a lenient ruling in one context does not automatically carry over to the other.
+
+> **Hebrew/Aramaic:** לְמֵימְרָא דְּקָפְדִי אַהֲדָדֵי? וְהָא הָנְהוּ שַׁב בִּנְיָתָא דַּאֲתוֹ לְבֵי רַבִּי, וְאִשְׁתַּכַּח חֲמֵשׁ מִנַּיְיהוּ בֵּי רַבִּי חִיָּיא, וְלָא קָפֵיד רַבִּי שִׁמְעוֹן בְּרַבִּי!
+>
+> **Translation:** With regard to the incident involving Rabbi Ḥiyya and Rabbi Shimon, son of Rabbi Yehuda HaNasi, the Gemara asks: **Is this to say that they were particular with each other** with regard to such matters, to the extent that they had to weigh one portion against another so that their portions would be exactly equal? **But wasn't** there the incident of **the seven fish that were brought to the house of Rabbi** Yehuda HaNasi, **and five of them were** later **found in the house** of **Rabbi Ḥiyya,** who had taken them from Rabbi Yehuda HaNasi; **and Rabbi Shimon, son of Rabbi** Yehuda HaNasi, **was not particular** about this, as they treated each other like family?
+
+> **Hebrew/Aramaic:** אָמַר רַב פָּפָּא, שְׁדִי גַּבְרָא בֵּינַיְיהוּ: אִי רַבִּי חִיָּיא וְרַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי, אִי רַבִּי שִׁמְעוֹן בְּרַבִּי וּבַר קַפָּרָא.
+>
+> **Translation:** **Rav Pappa said: Cast a person between them.** In other words, a third party must have been involved in the incident. How so? **Either** the two who divided the meat between themselves were **Rabbi Ḥiyya and Rabbi Yishmael, son of Rabbi Yosei, or** else they were **Rabbi Shimon, son of Rabbi** Yehuda HaNasi **and bar Kappara.** Although these pairs of scholars were colleagues, they were exacting with each other in monetary matters. Consequently, they weighed one portion of meat against the other to ensure that they would each receive the same amount.
+
+The *gemara* then notes an apparent tension within the story about Rabbi Chiya and Rabbi Shimon bar Rebbe themselves: if they were so punctilious with each other as to divide their meat in equal portions on a scale, they seem to have been quite *makpid* about each other's shares — yet we know from another account that Rabbi Chiya helped himself to five of seven fish that came to Rebbe's house, and Rabbi Shimon bar Rebbe did not object, evidently because their relationship was one of complete mutual generosity. Rav Pappa resolves this by suggesting that the story about *mana k'neged mana* did not involve both of them as a pair — either the second party was not Rabbi Shimon bar Rebbe but Rabbi Yishmael bar Rabbi Yossi, or if it was Rabbi Shimon bar Rebbe, the other party was Bar Kappara — people with whom a more precise division would have been expected.
+
+The episode ultimately leaves the practical ruling on *mana k'neged mana* unresolved, but it crystallizes the analytical distinction between the two relevant concerns: *bizayon kodshim* governs how sacred objects are treated and pertains to the standing of the object, while *uvda d'chol* governs the general character of one's activities on *yom tov* and pertains to the tone of the day. These are genuinely different considerations, and the *gemara*'s conclusion — implicit in Abaye's challenge — is that they cannot be simply equated.
+
+---
+
+## Sharpening Knives
+
+### Knife Sharpening Ban
+
+> **Hebrew/Aramaic:** מַתְנִי׳ אֵין מַשְׁחִיזִין אֶת הַסַּכִּין בְּיוֹם טוֹב, אֲבָל מַשִּׂיאָהּ עַל גַּבֵּי חֲבֶרְתָּהּ.
+>
+> **Translation:** MISHNA: **One** may **not sharpen a knife on a Festival** in the ordinary weekday manner. **However, one** may do so in an unusual fashion, e.g., to **run** one knife **over another,** thereby sharpening the blade.
+
+A new *mishna* opens with the rule: *ein mashchizin es hasakin b'Yom Tov* — one may not sharpen knives on *yom tov*. However, *aval mesiach al gabi chavertah* — one may rub one knife against another. The familiar method used by chefs of drawing two blades against each other is thus permitted. That is the *shinui*, the indirect method.
+
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב הוּנָא: לֹא שָׁנוּ אֶלָּא בְּמַשְׁחֶזֶת שֶׁל אֶבֶן, אֲבָל בְּמַשְׁחֶזֶת שֶׁל עֵץ — מוּתָּר. אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הָא דְּאָמְרַתְּ שֶׁל אֶבֶן אָסוּר, לָא אֲמַרַן אֶלָּא לְחַדְּדָהּ, אֲבָל לְהַעֲבִיר שַׁמְנוּנִיתָהּ — מוּתָּר. מִכְּלָל דִּבְשֶׁל עֵץ — אֲפִילּוּ לְחַדְּדָהּ, נָמֵי מוּתָּר.
+>
+> **Translation:** GEMARA: **Rav Huna said: They taught** that one may not sharpen a knife on a Festival **only** if he does so in the typical manner, **with a stone** knife **sharpener, but** if he does so **with a wooden** knife **sharpener, it is permitted,** as this is an unusual way of sharpening knives. **Rav Yehuda said** that **Shmuel said:** With regard to **that which you said,** that **a stone** sharpener **is prohibited, we said** this **only where** one's intention is **to sharpen** the knife, **but** if he merely means **to remove the** accumulated **fat** by scraping it off with the stone, **it is permitted.** This proves **by inference that with** a sharpener made **of wood, even** if his intention is **to sharpen** the knife, **it is permitted.**
+
+Rav Huna further refines the prohibition: *lo shanu ela bemashchezet shel even* — the prohibition of the *mishna* applies specifically to a stone whetstone; a wooden sharpening board (*bemashchezet shel etz*) would be permitted. Rav Yehuda in the name of Shmuel adds another dimension: even the stone whetstone is forbidden only when the purpose is to sharpen — *lo ameru ela lechadada* — but if one's purpose is merely to remove the *shamnunita*, the oil and residue left on the blade, that is permitted even on the whetstone.
+
+The *gemara* then presents two different versions of this discussion. In one reading, the statement about *shamnunita* appears in connection with the stone whetstone, implying that with wood, sharpening itself is permitted. In a stricter reading, the same statement is applied to the knife-against-knife method: even rubbing one blade against another is permitted only to remove *shamnunita*, not to sharpen intentionally. Under this version, intentional sharpening is forbidden regardless of the method — against a stone, against wood, or against another blade — while the only permissible act in any of these contexts is incidental removal of residue. The various permutations of stone or wood, and sharpening or *shamnunita* removal, generate a matrix of opinions, and the *gemara* traces each carefully.
+
+### Sharpening Intent
+
+> **Hebrew/Aramaic:* אִיכָּא דְּמַתְנֵי לַהּ אַסֵּיפָא: בְּשֶׁל עֵץ מוּתָּר, אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הָא דְּאָמְרַתְּ בְּשֶׁל עֵץ מוּתָּר, לָא אֲמַרַן אֶלָּא לְהַעֲבִיר שַׁמְנוּנִיתָהּ, אֲבָל לְחַדְּדָהּ — אָסוּר. מִכְּלָל דִּבְשֶׁל אֶבֶן — אֲפִילּוּ לְהַעֲבִיר שַׁמְנוּנִיתָהּ אָסוּר.
+>
+> **Translation:** **Some teach** the statement of Rav Yehuda as referring **to the latter clause** of Rav Huna's statement, where he says: But if he uses a sharpener made **of wood, it is permitted. Rav Yehuda said** that **Shmuel said:** With regard to **that which you said,** that **with a wooden** sharpener it **is permitted, we said** this **only where** one's intention is **to remove its fat, but** if he does so in order **to sharpen it, it is prohibited.** This proves **by inference that** with a sharpener made **of stone, even** if he intended merely **to remove its fat, it is prohibited.**
+
+One might note that Rashi's comment on the *mishna* frames the prohibition in terms of *uvda d'chol* — sharpening a knife on a whetstone is too much of a weekday activity. But the *gemara*'s discussion suggests this may not be the complete picture. If the concern were purely *uvda d'chol*, the details about stone versus wood or intentional sharpening versus *shamnunita* removal would be harder to explain in those terms alone. A different conceptual category seems to be operating as well: the concern that sharpening a sufficiently dull knife might constitute *tikkun mana* — the making or repairing of a utensil. Rashi himself in another place invokes this framing, noting that sharpening resembles *metaken keli*, and if the concern is a real *melacha*, the permissibility of *ochel nefesh* becomes relevant.
+
+### Rebbe Yehuda Position
+
+> **Hebrew/Aramaic:** מַאן תַּנָּא דִּבְמַשְׁחֶזֶת אָסוּר? אָמַר רַב חִסְדָּא: דְּלָא כְּרַבִּי יְהוּדָה. דְּתַנְיָא: אֵין בֵּין יוֹם טוֹב לַשַּׁבָּת אֶלָּא אוֹכֶל נֶפֶשׁ בִּלְבָד. רַבִּי יְהוּדָה מַתִּיר אַף מַכְשִׁירֵי אוֹכֶל נֶפֶשׁ.
+>
+> **Translation:** The Gemara asks: **Who is the *tanna*** who holds **that with a sharpener it is** entirely **prohibited? Rav Ḥisda said:** This *tanna* does **not** hold **in accordance with** the opinion of **Rabbi Yehuda, as it is taught** in a *baraita*: **The** difference **between a Festival and Shabbat is only** with regard to the preparation of **food,** as it is permitted to perform labor for the purpose of food preparation on a Festival, but not on Shabbat; **Rabbi Yehuda permits even** actions that **facilitate preparation of food** on a Festival, e.g., repairing utensils with which food is prepared on the Festival.
+
+The *gemara* brings this into focus by asking: *man tanna demashchezet assur?* — who is the *tanna* behind the *mishna*'s prohibition of the whetstone? Rav Chisda answers: *d'lo k'Rabbi Yehuda* — not like Rabbi Yehuda. A *beraisa* establishes the principle: *ein bein Yom Tov l'Shabbat ella ochel nefesh bilvad* — the sole difference between *yom tov* and *Shabbos* is that acts of food preparation are permitted. Rabbi Yehuda adds: *Rabbi Yehuda mattir af machshirei ochel nefesh* — Rabbi Yehuda permits even *machshirei ochel nefesh*, acts preparatory to food preparation. Sharpening a knife before slaughter falls squarely into this category. The *mishna*'s prohibition therefore reflects the *Chachamim*, not Rabbi Yehuda.
+
+This reframes the entire issue. If the problem were purely *uvda d'chol*, it would be strange for this to be a *machlokes* between Rabbi Yehuda and the *Chachamim* at all. The *gemara* is now treating it as a substantive question about the scope of permitted labor on *yom tov*: does the *Torah*'s authorization of *melacha* for food purposes extend to acts preparatory to food preparation, or only to the immediate acts of food preparation themselves?
+
+### Halacha V'Ein Morin
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ רָבָא לְרַב חִסְדָּא: דָּרְשִׁינַן מִשְּׁמָךְ הֲלָכָה כְּרַבִּי יְהוּדָה. אֲמַר לֵיהּ: יְהֵא רַעֲוָא דְּכׇל כִּי הָנֵי מִילֵּי מְעַלְּיָיתָא תִּדְרְשׁוּן מִשְּׁמַאי.
+>
+> **Translation:** **Rava said to Rav Ḥisda: We teach in your name** that the ***halakha* is in accordance with** the opinion of **Rabbi Yehuda. He said to him: May it be** God's **will that you teach in my name all outstanding matters like this.** In other words, Rav Ḥisda was pleased that this teaching was attributed to him, as he too agreed with it.
+
+Rava, upon hearing Rav Chisda's statement that the *mishna* is not like Rabbi Yehuda, infers that Rav Chisda himself rules like Rabbi Yehuda, and asks him directly: *d'shaminan mishmach halacha k'Rabbi Yehuda?* — should we announce in your name that the *halacha* follows Rabbi Yehuda? Rav Chisda responds enthusiastically: *yehei Rava d'kol ki hani millei ma'alyata tidrashun mishmai* — may it be Rava who publicizes all such excellent rulings in my name. He embraces the position warmly.
+
+The implications are significant: if the *halacha* follows Rabbi Yehuda, then preparing the tools needed for cooking — sharpening a knife, or repairing a spit — is permitted on *yom tov*. This represents a substantial expansion of what one may do in the service of *yom tov* food preparation.
+
+> **Hebrew/Aramaic:** אָמַר רַב נְחֶמְיָה בְּרֵיהּ דְּרַב יוֹסֵף: הֲוָה קָאֵימְנָא קַמֵּיהּ דְּרָבָא, וַהֲוָה קָא מְעַבַּר לְסַכִּינָא אַפּוּמָּא דְּדִקּוּלָא, וְאָמְרִי לֵיהּ: לְחַדְּדָהּ קָא עָבֵיד מָר, אוֹ לְהַעֲבִיר שַׁמְנוּנִיתָהּ? וְאָמַר לִי: לְהַעֲבִיר שַׁמְנוּנִיתָהּ. וַחֲזֵיתִי לְדַעְתֵּיהּ דִּלְחַדְּדָהּ קָא עָבֵיד, וְקָסָבַר: הֲלָכָה, וְאֵין מוֹרִין כֵּן.
+>
+> **Translation:** The Gemara relates that **Rav Neḥemya, son of Rav Yosef, said: I was** once **standing before Rava, and he was running a knife over the rim of a basket** on a Festival. **And I said to him:** Is **the Master doing** so **in order to sharpen it or** in order **to remove its fat? And he said to me: To remove its fat. And I** nevertheless **perceived his intention, that he did so** in order **to sharpen it.** He concealed this from me, however, because **he holds** that Rabbi Yehuda's opinion is the ***halakha* but a** public **ruling is not issued to that effect;** therefore he did not wish to permit the practice explicitly.
+
+Yet the *gemara* immediately qualifies this with a striking episode. Rav Nechemya the son of Rav Yosef reports: *hava ka'imna kamei d'Rava* — I was standing before Rava, and Rava was sharpening his knife against the lip of a wicker basket. Rav Nechemya asked him: are you doing it to sharpen it, or to remove the *shamnunita*? Rava answered: to remove the *shamnunita*. But Rav Nechemya could infer from what Rava was actually doing that he was genuinely sharpening the knife. The conclusion: *v'kasvar halacha v'ein morin ken* — Rava held that the *halacha* is like Rabbi Yehuda, but one does not rule that way publicly.
+
+### Publicity Concerns
+
+Why does Rava not publicize this ruling? Rashi explains: Rabbi Yehuda's leniency for *machshirei ochel nefesh* applies only when one could not have done the preparatory act before *yom tov* — *ee efshar la'asos me'erev Yom Tov*. This is a crucial qualification: when we permit even *melacha* for direct food preparation, we permit it regardless of whether it could have been done earlier, because that is the explicit gift of *yom tov*. But *machshirei ochel nefesh* — preparatory acts — are only permitted when there was no genuine opportunity to do them before *yom tov*. Telling people that *machshirei ochel nefesh* are permitted would inevitably lead people to assume broad latitude, taking it upon themselves to sharpen knives on *yom tov* even when they could easily have done so the day before. The concern is that leniency, once publicized, will be abused.
+
+This is a remarkable application of the principle of *halacha v'ein morin ken* — the *halacha* is one thing, but what one declares publicly is another. It reflects a paternalistic dimension of *psak*: the posek bears responsibility not only for the accuracy of the ruling but for the foreseeable consequences of publicizing it. The pattern appears elsewhere in the *gemara* as well. The question earlier about extinguishing fire for the sake of marital privacy on *yom tov* — where the *gemara* declined to give a straight answer, suggesting instead various workarounds — has been explained by a number of *Rishonim* as another case of *halacha v'ein morin ken*: technically permissible as a *machshir*, but not something the *posek* would openly declare. Once pressed into a corner, the response was an outright *issur*, but the underlying *halacha* was more complex.
+
+> **Hebrew/Aramaic:** וְאָמַר אַבָּיֵי: הֲוָה קָאֵימְנָא קַמֵּיהּ דְּמָר, וַהֲוָה קָא מְעַבַּר סַכִּינָא אַשִּׂפְתָּא דְרִחְיָא. וַאֲמַרִי לֵיהּ: לְחַדְּדָהּ קָא בָּעֵי מָר, אוֹ לְהַעֲבִיר שַׁמְנוּנִיתָהּ? וְאָמַר לִי: לְהַעֲבִיר שַׁמְנוּנִיתָהּ. וַחֲזִיתִי לְדַעְתֵּיהּ דִּלְחַדְּדָהּ קָא עָבֵיד, וְקָסָבַר: הֲלָכָה, וְאֵין מוֹרִין כֵּן.
+>
+> **Translation:** Similarly, **Abaye said: I was standing before my Master** and teacher, Rabba, **and he was running a knife over the edge of a millstone** on a Festival. **And I said to him:** Does **the Master wish to sharpen it, or** is he doing this in order **to remove its fat? And he said to me: To remove its fat. And I perceived his intention, that he did so** in order **to sharpen it, but he holds:** This is the ***halakha*, but a** public **ruling is not issued to that effect.**
+
+A parallel episode is then recorded in Abaye's name: Abaye similarly reports standing before his master (presumably Rabbah), who was sharpening his knife against a millstone. The same question was asked, the same answer was given — *l'ha'avori shamnunita* — and Abaye similarly observed that the real intent was sharpening. The same conclusion follows: *halacha v'ein morin ken*.
+
+### Knife Inspection
+
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: מַהוּ לְהַרְאוֹת סַכִּין לְחָכָם בְּיוֹם טוֹב? רַב מָרִי בְּרֵיהּ דְּרַב בִּיזְנָא שָׁרֵי, וְרַבָּנַן אָסְרִי. וְרַב יוֹסֵף אָמַר: תַּלְמִיד חָכָם רוֹאֶה לְעַצְמוֹ, וּמַשְׁאִילָהּ לַאֲחֵרִים.
+>
+> **Translation:** **A dilemma was raised before** the Sages: **What is** the *halakha* **with regard to showing a** slaughtering **knife to a Sage on a Festival** so that he may examine it for nicks and imperfections that would render it unfit to be used for slaughtering? **Rav Mari, son of Rav Bizna, permitted** it, **whereas the Rabbis prohibited** it, as this is somewhat similar to a weekday activity. **And Rav Yosef said: A Torah scholar may examine** a knife **for himself** in his own home **and** then **lend it to others,** who may also slaughter with it. Since the examination is not performed in public, it does not appear similar to a weekday activity.
+
+A related question is then raised: *mahu l'haros sakin l'chacham b'Yom Tov?* — may one show a knife to a *chacham* on *yom tov* for inspection? Rashi frames the concern as *uvda d'chol*: butchers showing their knives to the local *rav* for approval is a professional weekday activity, and performing it on *yom tov* evokes the commercial routine. Rav Mari the son of Rav Bisna rules leniently; the other Rabbis rule stringently. Rav Yosef offers a middle position: a *talmid chacham* who is himself capable of inspecting a knife may check his own knife in private — without the public character of a butcher presenting himself before a *rav* — and may then lend it to others who wish to slaughter.
+
+### Dull vs. Broken
+
+> **Hebrew/Aramaic:** וְאָמַר רַב יוֹסֵף: סַכִּין שֶׁעָמְדָה — מוּתָּר לְחַדְּדָהּ בְּיוֹם טוֹב. וְהָנֵי מִילֵּי הוּא דְּפָסְקָא אַגַּב דּוּחְקָא.
+>
+> **Translation:** **And Rav Yosef said:** With regard to **a knife that became blunt** without being nicked, **it is permitted to sharpen it on a Festival. And this applies** only if the knife still **cuts,** albeit **with difficulty,** so that when he sharpens it he is seen not as making a new utensil but merely as improving an old one. However, if the knife no longer cuts at all, it is prohibited to sharpen it.
+
+Rav Yosef then distinguishes two degrees of impairment in a blade: *sakin she'amda muttar l'chadeda b'Yom Tov* — a knife that has become dull is permitted to be sharpened on *yom tov*. The qualifier: *ha d'paskah agav duchka* — this refers to a blade that still cuts under pressure, meaning it is merely dull. In that case, the act of sharpening is closer to routine maintenance — perhaps an *uvda d'chol* concern — and since we follow Rabbi Yehuda's leniency (*halacha v'ein morin ken* notwithstanding), it is technically permitted.
+
+But if the blade cannot cut at all, sharpening it would constitute an act of *tikkun mana* — actually making the utensil functional from a state of non-functionality. That would be a genuine *melacha*, distinct from mere maintenance, and the question of whether even Rabbi Yehuda's leniency of *machshirei ochel nefesh* extends to creating a utensil anew — rather than maintaining one — is a more serious question. This distinction thus separates the *uvda d'chol* analysis from the *tikkun mana* analysis: a dull knife implicates the former; a broken or useless one implicates the latter.
+
+### Preparatory Acts Debate
+
+> **Hebrew/Aramaic:** דָּרַשׁ רַב חִסְדָּא, וְאִיתֵּימָא רַב יוֹסֵף: אֶחָד סַכִּין שֶׁנִּפְגְּמָה, וְאֶחָד שַׁפּוּד שֶׁנִּרְצַם, וְאֶחָד גְּרִיפַת תַּנּוּר וְכִירַיִם בְּיוֹם טוֹב — בָּאנוּ לְמַחְלוֹקֶת רַבִּי יְהוּדָה וְרַבָּנַן. דְּתַנְיָא: אֵין בֵּין יוֹם טוֹב לַשַּׁבָּת אֶלָּא אוֹכֶל נֶפֶשׁ בִּלְבָד. רַבִּי יְהוּדָה מַתִּיר אַף מַכְשִׁירֵי אוֹכֶל נֶפֶשׁ.
+>
+> **Translation:** **Rav Ḥisda taught, and some say** it was **Rav Yosef** who taught: **A knife that became nicked** on a Festival, **a** roasting **skewer [*shappud*] that was crushed** on a Festival and its point broke off, **and the sweeping of** the coals in **an oven and a stove on a Festival** to prepare them for baking, with regard to all of these **we have arrived at the dispute between Rabbi Yehuda and the Rabbis. As it is taught** in a *baraita*: **The** difference **between a Festival and Shabbat is only** with regard to the **preparation of food. Rabbi Yehuda permits even** actions that **facilitate preparation of food** on a Festival.
+
+> **Hebrew/Aramaic:** מַאי טַעְמָא דְּתַנָּא קַמָּא — אָמַר קְרָא: ״הוּא לְבַדּוֹ יֵעָשֶׂה לָכֶם״. ״הוּא״ — וְלֹא מַכְשִׁירָיו. וְרַבִּי יְהוּדָה, אָמַר קְרָא: ״לָכֶם״, לָכֶם — לְכׇל צׇרְכֵיכֶם.
+>
+> **Translation:** The Gemara explains: **What is the reason of the first *tanna*** for prohibiting actions that facilitate food preparation? **The verse states:** "Save that which every person must eat, **that alone may be done for you"** (Exodus 12:16), from which it may be inferred: **"That"** may be done on a Festival, **but not** actions that **facilitate it. And Rabbi Yehuda** adduces proof for his view from the fact that **the verse states: "For you,"** indicating: **For you, for all your needs,** and that which facilitates food preparation is also a need.
+
+> **Hebrew/Aramaic:** וְתַנָּא קַמָּא, הָא כְּתִיב ״לָכֶם״? אָמַר לָךְ: הַהוּא, ״לָכֶם״ — וְלֹא לְגוֹיִם.
+>
+> **Translation:** The Gemara asks: **And** according to **the first *tanna*, is it not written "for you"?** What does he learn from this phrase? The Gemara answers: That *tanna* could have **said to you** that **that** phrase comes to teach: **For you, but not for gentiles.**
+
+> **Hebrew/Aramaic:** וְאִידַּךְ נָמֵי, הָא כְּתִיב ״הוּא״, אָמַר לָךְ: כְּתִיב ״הוּא״, וּכְתִיב ״לָכֶם״, וְלָא קַשְׁיָא: כָּאן בְּמַכְשִׁירִין שֶׁאֶפְשָׁר לַעֲשׂוֹתָן מֵעֶרֶב יוֹם טוֹב, כָּאן בְּמַכְשִׁירִין שֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָן מֵעֶרֶב יוֹם טוֹב.
+>
+> **Translation:** The Gemara asks: **And** according to **the other** *tanna*, Rabbi Yehuda, **too, isn't it written: "That,"** which indicates a limitation? The Gemara explains that Rabbi Yehuda could have **said to you:** The limiting word **"that" is written, and** the expansive phrase **"for you,"** indicating all your needs, **is written** as well, **but** this is **not difficult** and no contradiction is involved. One can say that **here,** it is referring **to** actions that **facilitate** food preparation **that can be performed on the eve of the Festival;** the Torah prohibits these on a Festival. **There,** it is referring **to** actions that **facilitate** food preparation **that cannot be performed on the eve of the Festival.** The latter may be performed even on the Festival itself, as they too are part of the preparation of food, similar to cooking.
+
+The *gemara* concludes with the *beraisa* that grounds the entire discussion. *Ein bein Yom Tov l'Shabbat ella ochel nefesh bilvad* — the sole permissible difference is food preparation. *Rabbi Yehuda mattir af machshirei ochel nefesh* — Rabbi Yehuda permits preparatory acts as well. The *gemara* then identifies the scriptural basis for each position. The *Tanna Kamma* derives from the verse *hu levadlo ye'aseh lakhem* — *hu*, "it alone," limiting permissibility to direct food acts, *velo machshirav* — and not their preparatory stages. Rabbi Yehuda counters with the word *lakhem* — "for you" — reading it expansively as *lekhol tzorkheikhem*, for all your needs, which would include the preparatory steps needed to enable food preparation.
+
+The *Tanna Kamma* resolves the tension between *hu* and *lakhem* by reading *lakhem* as excluding non-Jews — a familiar teaching. Rabbi Yehuda, for his part, reconciles the limiting *hu* with the inclusive *lakhem* by introducing a further distinction: *kan b'machshirin she-efshar la'asotan me'erev Yom Tov, kan b'machshirin she-i efshar la'asotan me'erev Yom Tov* — where it was possible to perform the preparatory act before *yom tov*, it is biblically forbidden even according to Rabbi Yehuda; where it was not possible, it is permitted. This is not merely a rabbinic restriction for those who had the option — it is the line that *hu* draws. Acts one could have done before *yom tov* fall on the restrictive side of *hu*; acts that could not have been done earlier are encompassed by *lakhem*.
+
+Rashi notes that "could not have done it earlier" need not mean the obstacle was absolute — even someone who was simply too busy on *erev Yom Tov* may fall into this category. This is a surprising reading: personal circumstance, not objective impossibility, can suffice to bring a preparatory act within the scope of what *lakhem* permits. It is precisely this looseness in the criterion that makes *halacha v'ein morin ken* so necessary — were this leniency publicized, the determination of "I couldn't do it earlier" would become dangerously self-serving.
+
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שַׁפּוּד שֶׁנִּרְצַף — אָסוּר לְתַקְּנוֹ בְּיוֹם טוֹב. פְּשִׁיטָא! לָא צְרִיכָא, דְּאַף עַל גַּב דְּמִפְּשִׁיט בִּידֵיהּ.
+>
+> **Translation:** **Rav Yehuda said** that **Shmuel said:** With regard to a roasting **skewer that became bent, it is prohibited to repair it on a Festival.** The Gemara asks: This is **obvious;** it is clear that one may not fix a utensil on a Festival. The Gemara answers: **No,** it is **necessary** to state this *halakha* with regard to a particular case: **Although** the skewer **can be straightened by hand** and no special tool is needed for this task, it is nevertheless prohibited.
+
+The *gemara* closes with the case of the bent spit: *shappud she-nirtzaf assur letakno b'Yom Tov* — a spit that has bent may not be straightened on *yom tov*. This seems obvious — surely it remains usable, if inconveniently. The *gemara* clarifies: *lo tzrikha de-af al gav de-mifshat b'yadei* — it is necessary to teach even where it can be straightened by hand, which might seem too minor to constitute a real repair. Even so, it is a *tikkun* and remains forbidden.
+
+This leaves us with a question to carry forward: given that we have stated the *halacha* is like Rabbi Yehuda regarding *machshirei ochel nefesh* — at least where one could not have done it before *yom tov* — why does the *gemara* continue to present rulings that seem to forbid such acts? Is this all subsumed under the doctrine of *halacha v'ein morin ken*, or is it possible that even Rabbi Yehuda, who permits *machshirei ochel nefesh*, would draw the line at genuinely creating a new functional vessel — what would amount to a full *tikkun kli* — as opposed to merely maintaining one that is already functional? That question will be taken up in the continuation.

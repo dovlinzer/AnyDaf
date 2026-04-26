@@ -1,0 +1,13 @@
+### Nazir 27a
+
+**1.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: וְלִיטַעְמָיךְ, הָא דִּתְנַן: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הֵבִיא שָׁלֹשׁ בְּהֵמוֹת וְלֹא פֵּירֵשׁ, הָרְאוּיָה לְחַטָּאת — תִּקְרַב חַטָּאת, לְעוֹלָה — תִּקְרַב עוֹלָה, לִשְׁלָמִים — תִּקְרַב שְׁלָמִים. אַמַּאי? הָא אָמְרַתְּ: בְּהֵמָה לָאו כִּמְפוֹרֶשֶׁת דָּמְיָא!
+*Translation:* Rav Pappa **said to him: And according to your reasoning,** which leads to the conclusion that all items can have the status of unallocated funds, consider **that which we learned** in a mishna (45a): **Rabban Shimon ben Gamliel says:** If one **brought three** different **animals** for his naziriteship **and did not specify** which was for which offering, **that which is fit for a sin-offering,** a ewe, **is sacrificed as a sin-offering;** the animal suitable **for a burnt-offering,** a male sheep or bull, **is sacrificed as a burnt-offering;** and the animal fit **for a peace-offering,** any other male or female, **is sacrificed as a peace-offering.** But according to your opinion, **why** is this so? **Didn’t you say** that **an animal is not considered as allocated,** but is instead like unallocated funds; how can one decide which animal to use for each offering?
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, הָתָם: ״וְלָקַח ... וְעָשָׂה״.
+*Translation:* Rav Shimi bar Ashi **said to him:** As for the case of birds, this is an exception, as there is an explicit verse to this effect **there:** It states with regard to the owner of a bird offering: **“And he shall take** one he-lamb for a guilt-offering to be waved, to make atonement for him, and one tenth part of an ephah of fine flour mingled with oil for a meal-offering, and a *log* of oil; and two turtledoves or two young pigeons, such as his means suffice for, and the one shall be a sin-offering and the other a burnt-offering” (Leviticus 14:21–22), and it later states with regard to the priest: **“And he shall sacrifice** one of the turtledoves, or of the young pigeons, such as his means suffice for; even such as his means suffice for, the one for a sin-offering, and the other for a burnt-offering” (Leviticus 14:30–31).
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַחֲמָנָא: אִי בִּלְקִיחַת בְּעָלִים, אִי בַּעֲשִׂיַּית כֹּהֵן. הָכָא נָמֵי,
+*Translation:* **The Merciful One** thereby **states** that the birds are allocated and designated for their offering **either by the acquisition of the owner,** by designating each bird for a particular offering upon their purchase, **or by the action of the priest.** With regard to the ruling of Rabban Shimon ben Gamliel, it presents no difficulty either, as it is a special case as well. **Here too,** when one separates these particular animals for his naziriteship offerings,

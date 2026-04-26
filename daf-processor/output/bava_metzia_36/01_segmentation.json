@@ -1,0 +1,496 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 36,
+  "amud": "b",
+  "macro_segments": [
+    {
+      "title": "The Renter, the Borrower, and the Original Owner: Rights and Liabilities When an Object Dies",
+      "display_title": "Renter & Borrower",
+      "timestamp": "00:20",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Scenario: Renting, Lending, and Natural Death",
+          "display_title": "Setup & Oath",
+          "timestamp": "00:20"
+        },
+        {
+          "title": "The Problem of the Renter Profiting: Rabbi Yosei's Moral Objection",
+          "display_title": "Rabbi Yosei's Objection",
+          "timestamp": "03:23"
+        },
+        {
+          "title": "How the Renter Takes Possession When the Cow Dies: The Debate Between Rabidi bar Avin and Abaye",
+          "display_title": "Kinyan at Death",
+          "timestamp": "06:12"
+        },
+        {
+          "title": "Abaye's Explanation: The Renter's Liability Ends at the Moment of Death Due to Absence of Negligence",
+          "display_title": "Liability Ends",
+          "timestamp": "09:39"
+        }
+      ]
+    },
+    {
+      "title": "Multiple Transactions and Multiple Payments: When a Borrower Pays Multiple Times for One Object",
+      "display_title": "Multiple Liabilities",
+      "timestamp": "13:17",
+      "micro_segments": [
+        {
+          "title": "Rabbi Zeira's Case: Alternating Rental and Borrowing Agreements Creating Net Rental Rights",
+          "display_title": "Alternating Agreements",
+          "timestamp": "13:17"
+        },
+        {
+          "title": "The Problem Posed by Rav Aha mi-Diphti: One Cow, Multiple Borrowing Obligations",
+          "display_title": "One Cow Problem",
+          "timestamp": "23:15"
+        },
+        {
+          "title": "Mar Bar Rav Ashi's Resolution: Two Separate Obligations (Borrowing and Rental) for One Object",
+          "display_title": "Two Obligations",
+          "timestamp": "25:18"
+        }
+      ]
+    },
+    {
+      "title": "False Oaths and Sacrificial Obligations: When the Renter and Borrower Each Bring Different Offerings",
+      "display_title": "Oaths & Offerings",
+      "timestamp": "28:47",
+      "micro_segments": [
+        {
+          "title": "Basic Principle: Chattat for Simple False Oaths, Asham for Oaths That Bring Monetary Gain",
+          "display_title": "Oath Types",
+          "timestamp": "28:47"
+        },
+        {
+          "title": "Case One: Both Bring Chattat When the Lie Does Not Change Substantive Liability (Natural Death)",
+          "display_title": "Both Chattat",
+          "timestamp": "30:13"
+        },
+        {
+          "title": "Case Two: Both Bring Asham When Both Reject Liability Through Lying (Stolen Object, Claiming Normal Use)",
+          "display_title": "Both Asham",
+          "timestamp": "32:10"
+        },
+        {
+          "title": "Case Three: Renter Brings Chattat, Borrower Brings Asham (Stolen; Claiming Natural Death)",
+          "display_title": "Mixed: Renter Chattat",
+          "timestamp": "32:57"
+        },
+        {
+          "title": "Case Four: Renter Brings Asham, Borrower Brings Chattat (Natural Death; Claiming Work-Related)",
+          "display_title": "Mixed: Renter Asham",
+          "timestamp": "34:23"
+        },
+        {
+          "title": "Rejection of Rabbi Ami: Court-Imposed Oaths Do Not Bring a Chattat for Simple False Speech",
+          "display_title": "Reject Rabbi Ami",
+          "timestamp": "35:12"
+        }
+      ]
+    },
+    {
+      "title": "When a Watchman Hands Over to Another Watchman: Liability for Negligence in Delegation",
+      "display_title": "Watchman to Watchman",
+      "timestamp": "36:36",
+      "micro_segments": [
+        {
+          "title": "The Basic Dispute: Rav Says Exempt, Rabbi Yochanan Says Liable for Handing Off Responsibility",
+          "display_title": "Rav vs. Yochanan",
+          "timestamp": "36:36"
+        },
+        {
+          "title": "Rav's Position Explained: Giving to a Responsible Party (Ben Da'at) Does Not Increase Liability",
+          "display_title": "Rav's Logic",
+          "timestamp": "37:35"
+        },
+        {
+          "title": "Rabbi Yochanan's Position: The Owner Never Consented to Someone Else Having the Object",
+          "display_title": "Yochanan's Logic",
+          "timestamp": "37:55"
+        },
+        {
+          "title": "The Gardeners and the Old Woman: A Case of Implicit Consent Exempting from Liability",
+          "display_title": "Gardeners Case",
+          "timestamp": "44:47"
+        },
+        {
+          "title": "Money Entrusted to a Watchman Given to Minor Children: Explicit Negligence vs. Implicit Consent for Adult Family",
+          "display_title": "Money & Children",
+          "timestamp": "49:40"
+        },
+        {
+          "title": "The Halacha: A Watchman Is Liable Even When Handing to a More Responsible Person Because the Owner Trusts Only His Oath",
+          "display_title": "Ruling: Liable",
+          "timestamp": "52:01"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Hasocher parah michaveiro (renting a cow from one's friend)",
+      "timestamps": [
+        "00:22",
+        "46:54"
+      ]
+    },
+    {
+      "term": "Shvuah (oath)",
+      "timestamps": [
+        "02:57",
+        "08:41",
+        "12:08",
+        "29:09",
+        "31:50",
+        "35:51",
+        "52:34"
+      ]
+    },
+    {
+      "term": "Shoel (borrower)",
+      "timestamps": [
+        "01:46",
+        "02:50",
+        "03:16",
+        "05:10",
+        "09:15",
+        "12:03",
+        "26:46",
+        "31:07",
+        "32:40",
+        "46:52"
+      ]
+    },
+    {
+      "term": "Socher (renter)",
+      "timestamps": [
+        "01:46",
+        "02:50",
+        "03:00",
+        "09:21",
+        "30:23",
+        "31:32",
+        "33:00",
+        "48:18"
+      ]
+    },
+    {
+      "term": "Ones (act of God; unavoidable accident)",
+      "timestamps": [
+        "02:01",
+        "02:04",
+        "10:16",
+        "10:19",
+        "31:05"
+      ]
+    },
+    {
+      "term": "Umesa kedarka (died naturally)",
+      "timestamps": [
+        "01:35",
+        "01:38",
+        "02:46",
+        "03:00",
+        "30:57",
+        "32:40"
+      ]
+    },
+    {
+      "term": "Meisah machamas melachah (died through normal use)",
+      "timestamps": [
+        "01:40",
+        "02:28",
+        "32:23",
+        "32:39",
+        "33:20"
+      ]
+    },
+    {
+      "term": "Rabbi Yosei",
+      "timestamps": [
+        "03:23",
+        "03:26",
+        "05:30"
+      ]
+    },
+    {
+      "term": "Sechorah b'parato shel chaveiro (making business off another's object)",
+      "timestamps": [
+        "03:28",
+        "23:57"
+      ]
+    },
+    {
+      "term": "Tachzor parah labaalim rishonim (the cow returns to the original owners)",
+      "timestamps": [
+        "03:36",
+        "03:39"
+      ]
+    },
+    {
+      "term": "Misheat mitah hu dekani (from the moment of death, I acquire the object)",
+      "timestamps": [
+        "09:39",
+        "09:42"
+      ]
+    },
+    {
+      "term": "Hafis da'ato shel ba'al habayit (appeasing the owner's mind)",
+      "timestamps": [
+        "09:52",
+        "09:56"
+      ]
+    },
+    {
+      "term": "Rabidi bar Avin",
+      "timestamps": [
+        "06:12",
+        "08:26"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "08:20",
+        "38:51"
+      ]
+    },
+    {
+      "term": "Rabbi Zeira",
+      "timestamps": [
+        "13:22"
+      ]
+    },
+    {
+      "term": "Agrah minei me'ah yomei (rented for a hundred days)",
+      "timestamps": [
+        "13:36"
+      ]
+    },
+    {
+      "term": "She'ilah minei tishim yomei (borrowed back for ninety days)",
+      "timestamps": [
+        "13:42"
+      ]
+    },
+    {
+      "term": "Rav Aha mi-Diphti",
+      "timestamps": [
+        "23:15",
+        "23:18"
+      ]
+    },
+    {
+      "term": "Chada parah hi (it's one cow)",
+      "timestamps": [
+        "23:28"
+      ]
+    },
+    {
+      "term": "Ayala v'apka (brought in and took out)",
+      "timestamps": [
+        "23:31"
+      ]
+    },
+    {
+      "term": "Mar Bar Rav Ashi",
+      "timestamps": [
+        "25:18"
+      ]
+    },
+    {
+      "term": "Shevuat sheker (false oath)",
+      "timestamps": [
+        "29:20",
+        "29:27",
+        "29:35",
+        "32:35"
+      ]
+    },
+    {
+      "term": "Chattat (sin offering)",
+      "timestamps": [
+        "29:27",
+        "30:13",
+        "30:36",
+        "30:46",
+        "31:32",
+        "33:00",
+        "35:10",
+        "35:28",
+        "35:30"
+      ]
+    },
+    {
+      "term": "Asham (guilt offering)",
+      "timestamps": [
+        "29:41",
+        "29:45",
+        "30:04",
+        "30:10",
+        "32:10",
+        "32:39",
+        "33:46",
+        "35:09",
+        "35:28"
+      ]
+    },
+    {
+      "term": "Kfiras mamon (denial of monetary obligation)",
+      "timestamps": [
+        "30:32"
+      ]
+    },
+    {
+      "term": "Bitui sefasayim (simple false speech)",
+      "timestamps": [
+        "30:39",
+        "35:20"
+      ]
+    },
+    {
+      "term": "Eino bi'reshuso (not in my possession)",
+      "timestamps": [
+        "31:50"
+      ]
+    },
+    {
+      "term": "Gneivah (theft; stolen)",
+      "timestamps": [
+        "32:16",
+        "33:01",
+        "34:32"
+      ]
+    },
+    {
+      "term": "Rabbi Ami",
+      "timestamps": [
+        "35:12"
+      ]
+    },
+    {
+      "term": "Shomer (watchman; guardian)",
+      "timestamps": [
+        "36:40",
+        "37:46",
+        "38:20",
+        "40:04",
+        "40:14",
+        "40:32",
+        "40:39",
+        "40:45",
+        "41:01",
+        "42:40",
+        "43:21",
+        "44:31",
+        "52:06"
+      ]
+    },
+    {
+      "term": "Shomer sachar (paid watchman)",
+      "timestamps": [
+        "37:46",
+        "39:29",
+        "41:39",
+        "52:08"
+      ]
+    },
+    {
+      "term": "Shomer chinam (unpaid watchman)",
+      "timestamps": [
+        "39:00",
+        "40:04",
+        "40:32",
+        "52:17"
+      ]
+    },
+    {
+      "term": "Rav",
+      "timestamps": [
+        "37:15",
+        "38:55",
+        "39:00"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan",
+      "timestamps": [
+        "37:15",
+        "37:55",
+        "38:50"
+      ]
+    },
+    {
+      "term": "Masra l'ben da'at (gave to a responsible party)",
+      "timestamps": [
+        "39:54",
+        "40:00"
+      ]
+    },
+    {
+      "term": "Shomer she'masar l'shomer (watchman who handed to another watchman)",
+      "timestamps": [
+        "36:39",
+        "37:15",
+        "44:31",
+        "46:36",
+        "47:33",
+        "52:06"
+      ]
+    },
+    {
+      "term": "Ginai (gardeners)",
+      "timestamps": [
+        "44:47"
+      ]
+    },
+    {
+      "term": "Sabta (old woman)",
+      "timestamps": [
+        "44:47",
+        "45:20",
+        "51:07"
+      ]
+    },
+    {
+      "term": "Ein retzoni sheyehei pikdoni beyad acher (I do not want my deposit in another's hands)",
+      "timestamps": [
+        "47:37",
+        "50:26"
+      ]
+    },
+    {
+      "term": "Al da'at ishto u'vanav (with the understanding regarding his wife and children)",
+      "timestamps": [
+        "50:31"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "50:29",
+        "52:01"
+      ]
+    },
+    {
+      "term": "At meheimnat li bishvua (you are trustworthy to me by oath)",
+      "timestamps": [
+        "52:34"
+      ]
+    },
+    {
+      "term": "Hilcheta (the halacha; the ruling)",
+      "timestamps": [
+        "52:06"
+      ]
+    },
+    {
+      "term": "Techilato bipshia vesofo beones (beginning with negligence, ending with accident)",
+      "timestamps": [
+        "53:42",
+        "54:00"
+      ]
+    }
+  ]
+}

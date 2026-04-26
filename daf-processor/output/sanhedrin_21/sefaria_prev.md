@@ -1,0 +1,81 @@
+### Sanhedrin 20b
+
+**1.**
+*Hebrew/Aramaic:* סֵירוּגוֹ מִתּוֹכוֹ, מִטָּה – סֵירוּגָהּ מֵעַל גַּבָּהּ.
+*Translation:* has **its weaving on its inside,** in that the straps woven to hold the bedding are tied in holes inside the bed posts, while **a bed** has **its weaving on its outside,** in that its straps are tied around the posts.
+
+**2.**
+*Hebrew/Aramaic:* מֵיתִיבִי: כְּלֵי עֵץ, מֵאֵימָתַי מְקַבְּלִין טוּמְאָה? הַמִּטָּה וְהָעֲרִיסָה – מִשֶּׁיְּשׁוּפֵם בְּעוֹר הַדָּג. וְאִי מִטָּה מְסוֹרֶגֶת הִיא מֵעַל גַּבָּהּ, לְמָה לִי שִׁיפַת עוֹר הַדָּג? אֶלָּא, הָא וְהָא מִתּוֹכוֹ: מִטָּה – אַעוֹלֵי וְאַפּוֹקֵי בְּבִזְיוֹנֵי, דַּרְגֵּשׁ – אַעוֹלֵי וְאַפּוֹקֵי בְּאַבְקָתָא.
+*Translation:* The Gemara **raises an objection** from the mishna (*Kelim* 16:1): **From when** are **wooden vessels** considered complete and **susceptible to impurity?** In the case of **a bed or a crib,** this happens **once they are rubbed with fish skin,** which smoothens the wood. The Gemara asks: **And if a bed is woven on its back side,** as Rabbi Yoḥanan claimed, **why do I** need **rubbing with fish skin?** Doesn’t the weaving cover the smooth part of the bed? **Rather,** instead of Rabbi Yoḥanan’s explanation, say that the weaving of both **this and that,** a *dargash* and a bed, is **on its inside,** and the difference between them is that on **a bed,** the straps **go in and out of holes** on the posts, whereas on **a *dargash*, they go in and out of loops.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַעֲקֹב: אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל. אָמַר רַבִּי יַעֲקֹב בַּר אַמֵּי: מִטָּה שֶׁנַּקְלִיטֶיהָ יוֹצְאִין – זוֹקְפָהּ, וְדַיּוֹ.
+*Translation:* **Rabbi Ya’akov says** that **Rabbi Yehoshua ben Levi says:** The ***halakha*** is **in accordance with** the opinion of **Rabban Shimon ben Gamliel** that a mourner is not required to overturn a *dargash*, but only to untie the straps around its posts to let it fall on its own. In connection with this matter **Rabbi Ya’akov bar Ami says:** In the case of **a bed whose posts [*naklitim*]** on which the canopy is spread **extend,** meaning that they are very long, so that the bed will remain high off the ground even if it is overturned, the mourner **stands it up** in the time of mourning **and** that **is sufficient.**
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ וּמוֹצִיא לְמִלְחֶמֶת הָרְשׁוּת עַל פִּי בֵּית דִּין שֶׁל שִׁבְעִים וְאֶחָד, וּפוֹרֵץ לַעֲשׂוֹת לוֹ דֶּרֶךְ וְאֵין מְמַחֶה בְּיָדוֹ. דֶּרֶךְ הַמֶּלֶךְ אֵין לוֹ שִׁיעוּר, וְכׇל הָעָם בּוֹזְזִין וְנוֹתְנִין לוֹ, וְהוּא נוֹטֵל חֵלֶק בָּרֹאשׁ.
+*Translation:* MISHNA: **And** the king **brings out** people **for** conscription in **an optional war,** i.e., a war that is not mandated by the Torah and is not a war of defense, **on the basis of a court of seventy-one, and breaches** fences of anyone in his way **to create a pathway for himself**  for his various needs, **and no one can protest his power. The pathway of the king has no measure,** neither lengthwise nor widthwise, and one cannot protest that this pathway is wider than necessary. **And all the people take spoils** in war **and give** them **to him, and he takes the first portion** of the spoils.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ תְּנֵינָא חֲדָא זִימְנָא: אֵין מוֹצִיאִין לְמִלְחֶמֶת הָרְשׁוּת אֶלָּא עַל פִּי בֵּית דִּין שֶׁל שִׁבְעִים וְאֶחָד. אַיְּידֵי דִּתְנָא כֹּל מִילֵּי דְּמֶלֶךְ, תְּנָא נָמֵי מוֹצִיאִין לְמִלְחֶמֶת הָרְשׁוּת.
+*Translation:* GEMARA: **We** already **learn** this on **another occasion** in the mishna (2a): And the king may **bring out** the nation **to an optional war only on the basis of a court of seventy-one** judges. Why did the mishna need to repeat it here? The Gemara explains: **Since** in the mishna here the *tanna* **taught all matters** pertaining **to the king, he also taught** the *halakha* of **bringing out** the nation **to an optional war,** although this *halakha* was taught at the beginning of the tractate in the context of the *halakhot* of the court of seventy-one judges.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כׇּל הָאָמוּר בְּפָרָשַׁת מֶלֶךְ – מֶלֶךְ מוּתָּר בּוֹ. רַב אָמַר: לֹא נֶאֶמְרָה פָּרָשָׁה זוֹ אֶלָּא לְאַיֵּים עֲלֵיהֶם, שֶׁנֶּאֱמַר: ״שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ״ – שֶׁתְּהֵא אֵימָתוֹ עָלֶיךָ.
+*Translation:* With regard to the king’s rights, the Sages engaged in a dispute: **Rav Yehuda says** that **Shmuel says:** Concerning **all** the actions **that are stated in the** biblical **passage about** the **king** (see I Samuel 8:11–17), it **is permitted** for **a king to** perform **them. Rav says: This** biblical **passage was stated only** in order **to threaten** the Jewish people, so that they would accept the king’s sovereignty with reverence, **as it is stated: “You shall set a king over you”** (Deuteronomy 17:15), meaning, it is necessary **that his fear should be upon you.** But the king is not actually permitted to perform the actions stated there.
+
+**7.**
+*Hebrew/Aramaic:* כְּתַנָּאֵי, רַבִּי יוֹסֵי אוֹמֵר: כׇּל הָאָמוּר בְּפָרָשַׁת מֶלֶךְ – מֶלֶךְ מוּתָּר בּוֹ. רַבִּי יְהוּדָה אוֹמֵר: לֹא נֶאֶמְרָה פָּרָשָׁה זוֹ אֶלָּא כְּדֵי לְאַיֵּים עֲלֵיהֶם, שֶׁנֶּאֱמַר: ״שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ״ – שֶׁתְּהֵא אֵימָתוֹ עָלֶיךָ.
+*Translation:* The Gemara comments that this dispute is **parallel to** a dispute between ***tanna’im*,** as it is taught in a *baraita*: **Rabbi Yosei says:** Concerning **all** the actions **that are stated in the** biblical **passage about** the **king,** it **is permitted** for **a king to** perform **them. Rabbi Yehuda says: This** biblical **passage was stated only** in order **to threaten** the Jewish people, **as it is stated: “You shall set a king over you”** (Deuteronomy 17:15), meaning, it is necessary **that his fear should be upon you.**
+
+**8.**
+*Hebrew/Aramaic:* וְכֵן הָיָה רַבִּי יְהוּדָה אוֹמֵר: שָׁלֹשׁ מִצְוֹת נִצְטַוּוּ יִשְׂרָאֵל בִּכְנִיסָתָן לָאָרֶץ – לְהַעֲמִיד לָהֶם מֶלֶךְ, וּלְהַכְרִית זַרְעוֹ שֶׁל עֲמָלֵק, וְלִבְנוֹת לָהֶם בֵּית הַבְּחִירָה.
+*Translation:* The *baraita* continues: **And so would Rabbi Yehuda say: Three mitzvot were commanded** to the **Jewish people upon their entrance into Eretz** Yisrael, which apply only in Eretz Yisrael: They were commanded **to establish a king for themselves** (see Deuteronomy 17:14–15), **and to cut off the seed of Amalek** in war (see Deuteronomy 25:17–19), **and to build the Chosen House,** i.e., the Temple, in Jerusalem (see Deuteronomy 12:10–12).
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי נְהוֹרַאי אוֹמֵר: לֹא נֶאֶמְרָה פָּרָשָׁה זוֹ אֶלָּא כְּנֶגֶד תַּרְעוֹמְתָּן, שֶׁנֶּאֱמַר: ״וְאָמַרְתָּ אָשִׂימָה עָלַי מֶלֶךְ וְגוֹ׳״.
+*Translation:* The *baraita* continues: **Rabbi Nehorai says: This** biblical **passage** about appointing a king **was stated only in response to** the Jewish people’s **complaint, as it is stated:** “When you come unto the land that the Lord your God gives you, and shall possess it, and shall dwell therein, **and shall say: I will set a king over me,** like all the nations that are around me” (Deuteronomy 17:14). The verse indicates that appointing a king is not a mitzva and that when Samuel spoke to them, he intended to frighten them so that they might regret their complaint and retract their request for a king.
+
+**10.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: זְקֵנִים שֶׁבַּדּוֹר כַּהוֹגֶן שָׁאֲלוּ, שֶׁנֶּאֱמַר: ״תְּנָה לָנוּ מֶלֶךְ לְשׇׁפְטֵנוּ״. אֲבָל עַמֵּי הָאָרֶץ שֶׁבָּהֶן קִלְקְלוּ, שֶׁנֶּאֱמַר: ״וְהָיִינוּ גַם אֲנַחְנוּ כְּכׇל הַגּוֹיִם וּשְׁפָטָנוּ מַלְכֵּנוּ וְיָצָא לְפָנֵינוּ״.
+*Translation:* **It is taught** in a *baraita*: **Rabbi Eliezer says: The elders of** Samuel’s **generation asked appropriately, as it is stated: “Give us a king to judge us”** (I Samuel 8:6), since they wanted a steady leader in place of Samuel. **But the ignoramuses among them ruined** it, **as it is stated:** “But the people refused to heed the voice of Samuel; and they said: No, but there shall be a king over us, **that we also may be like all the nations, and that our king may judge us, and emerge before us,** and fight our battles” (I Samuel 8:19–20).
+
+**11.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי יוֹסֵי אוֹמֵר: שָׁלֹשׁ מִצְוֹת נִצְטַוּוּ יִשְׂרָאֵל בִּכְנִיסָתָן לָאָרֶץ – לְהַעֲמִיד לָהֶם מֶלֶךְ, וּלְהַכְרִית זַרְעוֹ שֶׁל עֲמָלֵק, וְלִבְנוֹת לָהֶם בֵּית הַבְּחִירָה. וְאֵינִי יוֹדֵעַ אֵיזֶה מֵהֶן תְּחִילָּה.
+*Translation:* **It is taught** in a *baraita*: **Rabbi Yosei says: Three mitzvot were commanded** to the **Jewish people upon their entrance into Eretz** Yisrael: **To establish a king for themselves, and to cut off the seed of Amalek** in war, **and to build for themselves the Chosen House** in Jerusalem. **But I do not know which one** they are obligated to do **first.**
+
+**12.**
+*Hebrew/Aramaic:* כְּשֶׁהוּא אוֹמֵר: ״כִּי יָד עַל כֵּס יָהּ מִלְחָמָה לַה׳ בַּעֲמָלֵק״, הֱוֵי אוֹמֵר: לְהַעֲמִיד לָהֶם מֶלֶךְ תְּחִילָּה. וְאֵין ״כִּסֵּא״ אֶלָּא מֶלֶךְ, שֶׁנֶּאֱמַר: ״וַיֵּשֶׁב שְׁלֹמֹה עַל כִּסֵּא ה׳ לְמֶלֶךְ״.
+*Translation:* **When** the verse **states: “The hand upon the throne [*kes*] of the Lord: The Lord will have war with Amalek** from generation to generation” (Exodus 17:16), **you must say** that this means they are obligated **to establish a king for themselves first,** before waging war with Amalek, **and** the verse is interpreted as follows: **“Throne** of the Lord” **is nothing other than** a symbolic name for **a king, as it is stated: “Then Solomon sat on the throne [*kisei*] of the Lord as king”** (I Chronicles 29:23), indicating that a king sits on “the throne of the Lord.”
+
+**13.**
+*Hebrew/Aramaic:* וַעֲדַיִין אֵינִי יוֹדֵעַ אִם לִבְנוֹת לָהֶם בֵּית הַבְּחִירָה תְּחִלָּה, אוֹ לְהַכְרִית זַרְעוֹ שֶׁל עֲמָלֵק תְּחִלָּה. כְּשֶׁהוּא אוֹמֵר: ״וְהֵנִיחַ לָכֶם מִכׇּל אוֹיְבֵיכֶם וְגוֹ׳ וְהָיָה הַמָּקוֹם אֲשֶׁר יִבְחַר ה׳ וְגוֹ׳״, הֱוֵי אוֹמֵר: לְהַכְרִית זַרְעוֹ שֶׁל עֲמָלֵק תְּחִלָּה.
+*Translation:* The *baraita* continues: **And still I do not know whether building them the Chosen House is first, or cutting off the seed of Amalek is first,** i.e., after the appointing of the king. **When** the verse **states: “And He will give you rest from all your enemies** round about, so that you dwell in safety; then **it shall come to pass that the place that the Lord** your God **shall choose** to cause His name to dwell there, there shall you bring all that I command you” (Deuteronomy 12:10–11), **you must say** that the Jewish people were **to cut off the seed of Amalek first.**
+
+**14.**
+*Hebrew/Aramaic:* וְכֵן בְּדָוִד הוּא אוֹמֵר: ״וַיְהִי כִּי יָשַׁב הַמֶּלֶךְ דָּוִד בְּבֵיתוֹ וַה׳ הֵנִיחַ לוֹ מִסָּבִיב״, וּכְתִיב: ״וַיֹּאמֶר הַמֶּלֶךְ אֶל נָתָן הַנָּבִיא רְאֵה נָא אָנֹכִי יוֹשֵׁב בְּבֵית אֲרָזִים וְגוֹ׳״.
+*Translation:* The *baraita* continues: **And so** the verse **states concerning David: “And it came to pass, when King David dwelled in his house and the Lord had given him rest round about** from all his enemies” (II Samuel 7:1). **And it is written** immediately afterward: **“That the king said to Nathan the prophet: See now, I dwell in a house of cedar** but the Ark of God dwells within curtains” (II Samuel 7:2), and King David then began seeking a site to build the Temple.
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רֵישׁ לָקִישׁ: בַּתְּחִילָּה מָלַךְ שְׁלֹמֹה עַל הָעֶלְיוֹנִים, שֶׁנֶּאֱמַר: ״וַיֵּשֶׁב שְׁלֹמֹה עַל כִּסֵּא ה׳״, וּלְבַסּוֹף מָלַךְ עַל הַתַּחְתּוֹנִים, שֶׁנֶּאֱמַר: ״כִּי הוּא רֹדֶה בְּכׇל עֵבֶר הַנָּהָר מִתִּפְסַח וְעַד עַזָּה״.
+*Translation:* § The Gemara cites another tradition about Solomon’s kingdom. **Reish Lakish says: Initially, Solomon ruled** even **over the supernal** worlds, **as it is stated: “Then Solomon sat on the throne of the Lord”** (I Chronicles 29:23), indicating that his kingdom was like the Lord’s kingdom, reigning over all worlds. **But ultimately,** after he married foreign wives, **he ruled over** only **the lower** worlds, **as it is stated: “For he had dominion over all the region on this side of the river, from Tiphsah even to Gaza”** (I Kings 5:4).
+
+**16.**
+*Hebrew/Aramaic:* רַב וּשְׁמוּאֵל: חַד אָמַר, ״תִּפְסַח בְּסוֹף הָעוֹלָם וְעַזָּה בְּסוֹף הָעוֹלָם״, וְחַד אָמַר, ״תִּפְסַח וְעַזָּה בַּהֲדֵי הֲדָדֵי הֲווֹ יָתְבִי״, וּכְשֵׁם שֶׁמָּלַךְ עַל תִּפְסַח וְעַל עַזָּה כָּךְ מָלַךְ עַל כׇּל הָעוֹלָם כּוּלּוֹ.
+*Translation:* **Rav and Shmuel** disagreed with regard to the meaning of this verse: **One says** that **Tiphsah** is a name of a place **at the end of the world,** at one end of Solomon’s kingdom, **and Gaza is at the** other **end of the world. And one says** that **Tiphsah and Gaza sat next to each other, and** the verse serves to teach that **just as he ruled over Tiphsah and over Gaza, so he ruled over the whole world.**
+
+**17.**
+*Hebrew/Aramaic:* וּלְבַסּוֹף לֹא מָלַךְ אֶלָּא עַל יִשְׂרָאֵל, שֶׁנֶּאֱמַר: ״אֲנִי קֹהֶלֶת הָיִיתִי מֶלֶךְ עַל יִשְׂרָאֵל וְגוֹ׳״. וּלְבַסּוֹף לֹא מָלַךְ אֶלָּא עַל יְרוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״דִּבְרֵי קֹהֶלֶת בֶּן דָּוִד מֶלֶךְ בִּירוּשָׁלִָים״. וּלְבַסּוֹף, לֹא מָלַךְ אֶלָּא עַל מִטָּתוֹ, שֶׁנֶּאֱמַר: ״הִנֵּה מִטָּתוֹ שֶׁלִּשְׁלֹמֹה וְגוֹ׳״.
+*Translation:* Reish Lakish continues: **And ultimately,** Solomon declined further still in that **he ruled only over Israel, as it is stated: “I, Koheleth, have been king over Israel** in Jerusalem” (Ecclesiastes 1:12). **And ultimately, he ruled over only Jerusalem, as it is stated: “The words of Koheleth, the son of David, king in Jerusalem”** (Ecclesiastes 1:1). **And ultimately, he ruled over only his bed, as it is stated: “Behold, it is the bed of Solomon;** threescore mighty men are about it, of the mighty men of Israel” (Song of Songs 3:7).
+
+**18.**
+*Hebrew/Aramaic:* וּלְבַסּוֹף לֹא מָלַךְ אֶלָּא עַל מַקְלוֹ, שֶׁנֶּאֱמַר: ״זֶה הָיָה חֶלְקִי מִכׇּל עֲמָלִי״. רַב וּשְׁמוּאֵל: חַד אָמַר מַקְלוֹ, וְחַד אָמַר גּוּנְדּוֹ.
+*Translation:* **And ultimately,** he declined so much that **he ruled over only his staff, as it is stated: “And this was my portion from all of my labor”** (Ecclesiastes 2:10). **Rav and Shmuel** disagreed with regard to the meaning of this latter verse as well. **One says** that the term “this” is a reference to **his staff, and one says** that it is a reference to **his cloak.**
+
+**19.**
+*Hebrew/Aramaic:* הֲדַר אוֹ לָא הֲדַר? רַב וּשְׁמוּאֵל: חַד אָמַר הֲדַר, וְחַד אָמַר לָא הֲדַר. מַאן דְּאָמַר לָא הֲדַר – מֶלֶךְ וְהֶדְיוֹט, וּמַאן דְּאָמַר הֲדַר – מֶלֶךְ וְהֶדְיוֹט וָמֶלֶךְ.
+*Translation:* The Gemara asks: **Did he return** to reign over the whole world, **or did he** ultimately **not return? Rav and Shmuel** disagreed about this: **One says** that **he returned, and one says** that **he did not return. The one who says** that **he did not return** reasons that Solomon was first **a king and** then **an ordinary** person **[*hedyot*]** and did not return to his reign; **and the one who says** that **he returned** reasons that Solomon was first **a king and** then **an ordinary** person **and** ultimately returned to be **a king.**
+
+**20.**
+*Hebrew/Aramaic:* פּוֹרֵץ לַעֲשׂוֹת לוֹ דֶּרֶךְ. תָּנוּ רַבָּנַן: אוֹצְרוֹת מְלָכִים – לַמֶּלֶךְ, וּשְׁאָר בִּיזָּה שֶׁבּוֹזְזִין – מֶחֱצָה לַמֶּלֶךְ וּמֶחֱצָה לָעָם. אֲמַר לֵיהּ אַבָּיֵי לְרַב דִּימִי, וְאָמְרִי לַהּ לְרַב אַחָא: בִּשְׁלָמָא אוֹצְרוֹת מְלָכִים לַמֶּלֶךְ – אוֹרְחָא דְמִלְּתָא, אֶלָּא שְׁאָר בִּיזָּה שֶׁבּוֹזְזִין מֶחֱצָה לַמֶּלֶךְ וּמֶחֱצָה לָעָם – מְנָלַן? דִּכְתִיב:
+*Translation:* § The mishna teaches that the king **breaches** fences of anyone in his way **to create a pathway for himself. The Sages taught** in a *baraita*: **Treasures of kings** taken as spoils in war belong **to the king, and** as for **the rest of the spoils that are taken** in a war, **half** is **for the king and half** is **for the people. Abaye said to Rav Dimi, and some say** that he said this **to Rav Aḥa: Granted, treasures of kings** belong **to the king.** This is **the typical manner** of kings, as it is fitting that the king should use the treasures of the kings he conquers; **but** with regard to **the rest of the spoils that are taken** in a war, where **half** is **for the king and half** is **for the people, from where do we** derive this *halakha*? He answered Abaye: The source is **as it is written:**

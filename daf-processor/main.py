@@ -80,6 +80,10 @@ def main():
         ),
     )
     parser.add_argument(
+        '--refresh-sefaria', action='store_true',
+        help='Ignore cached sefaria.md files and re-fetch from Sefaria (useful after fixing fetch errors)',
+    )
+    parser.add_argument(
         '--log-level', default='INFO', choices=['DEBUG', 'INFO', 'WARNING', 'ERROR'],
         help='Logging verbosity (default: INFO)',
     )
@@ -123,6 +127,7 @@ def main():
         workers=args.workers,
         resume=args.resume,
         passes=args.passes,
+        refresh_sefaria=args.refresh_sefaria,
     )
 
     pipeline.process_files(

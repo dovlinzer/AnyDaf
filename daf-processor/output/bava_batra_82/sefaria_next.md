@@ -1,0 +1,49 @@
+### Bava Batra 83a
+
+**1.**
+*Hebrew/Aramaic:* בְּדוּרָא דְרָעֲוָתָא, וַאֲתוֹ לְקַמֵּיהּ דְּרַב יְהוּדָה, וַאֲמַר לֵיהּ: ״זִיל הַב לֵיהּ כִּמְלֹא בָּקָר וְכֵלָיו״; וְלָא הֲוָה יָדַעְנָא ״כִּמְלֹא בָּקָר וְכֵלָיו״ כַּמָּה; כֵּיוָן דְּשַׁמְעִתַהּ לְהָא דִּתְנַן: לֹא יִטַּע אָדָם אִילָן סָמוּךְ לִשְׂדֵה חֲבֵירוֹ, אֶלָּא אִם כֵּן הִרְחִיק מִמֶּנָּה אַרְבַּע אַמּוֹת;
+*Translation:* involving the sale of trees **in a village of shepherds, and they came before Rav Yehuda, and he said to** the seller: **Go** and **give to** the one who bought the trees **sufficient** land **for an ox and its vessels. But I did not know how much** was **sufficient** land **for an ox and its vessels. When I heard that which we learned** in a mishna (26a), I came to a conclusion with regard to this case. The mishna teaches as follows: **A person may not plant a tree close by the field of another, unless he places it at a distance** of **four cubits from** the other field.
+
+**2.**
+*Hebrew/Aramaic:* וְתָנֵי עֲלַהּ: אַרְבַּע אַמּוֹת שֶׁאָמְרוּ – כְּדֵי עֲבוֹדַת הַכֶּרֶם; אָמֵינָא: שְׁמַע מִינַּהּ, ״כִּמְלֹא בָּקָר וְכֵלָיו״ – אַרְבַּע אַמּוֹת.
+*Translation:* Rav Yosef continues: **And it is taught** in a *baraita* **with regard to** this mishna: The **four cubits that** the Sages **stated** are **for the work of the vineyard,** so that he does not take oxen and a plow into his neighbor’s field while tending to his vineyard. **I** studied this mishna and *baraita* and **said: Learn from it** that the phrase: **Sufficient for the ox and its vessels,** means **four cubits.** At this stage, the Gemara has demonstrated that Rav Naḥman’s opinion is supported by a mishna, whereas Rav Yosef’s ruling is supported by the incident involving Rav Yehuda.
+
+**3.**
+*Hebrew/Aramaic:* וּכְרַב יוֹסֵף מִי לָא תְּנַן?! רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן אוֹמְרִים: הַנּוֹטֵעַ אֶת כַּרְמוֹ שְׁמוֹנֶה אַמּוֹת עַל שְׁמוֹנֶה – מוּתָּר לְהָבִיא זֶרַע לְשָׁם!
+*Translation:* The Gemara asks: **But didn’t we** also **learn** a ruling in a mishna (*Kilayim* 4:9) **in accordance with** the opinion of **Rav Yosef?** That mishna teaches: **Rabbi Meir and Rabbi Shimon say:** In a case of **one who plants his vineyard eight cubits by eight** cubits, i.e., he leaves eight cubits between each row of vines, it is **permitted** for him **to bring seeds to** the empty spaces between the rows. This ruling can be cited in support of the opinion of Rav Yosef that if there is a space of eight cubits between trees or vines they are not considered one unit. Why, then, is this mishna not brought as proof?
+
+**4.**
+*Hebrew/Aramaic:* אֲפִילּוּ הָכִי, מַעֲשֶׂה עָדִיף.
+*Translation:* The Gemara answers: **Even so,** it is **preferable** to cite the **incident** in Tzalmon as proof. Whenever possible, it is preferable to provide support for an opinion by means of a practical ruling, as it demonstrates that the Sages took action in accordance with that opinion and did not merely teach it as *halakha* in theory.
+
+**5.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַב יוֹסֵף אַלִּיבָּא דְּרַבִּי שִׁמְעוֹן – שָׁמְעִינַן לֵיהּ מְפוּזָּרִין, וְשָׁמְעִינַן לֵיהּ רְצוּפִין; מְפוּזָּרִין – הָא דַּאֲמַרַן, רְצוּפִין – דִּתְנַן: כֶּרֶם הַנָּטוּעַ עַל פָּחוֹת מֵאַרְבַּע אַמּוֹת – אֵינוֹ כֶּרֶם, דִּבְרֵי רַבִּי שִׁמְעוֹן. וַחֲכָמִים אוֹמְרִים: כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיִּים כְּאִילּוּ אֵינָן.
+*Translation:* The Gemara comments: **Granted, according to** the analysis of **Rav Yosef** stated **in accordance with** the opinion **of Rabbi Shimon, we hear** about the maximum distance that the trees can be **scattered, and we hear** about the minimum distance that they can be planted **close together.** The distance that the trees can be **scattered** is **that which we said,** i.e., eight cubits. The minimum distance that they can be planted **close together** is **as we learned** in a mishna (*Kilayim* 5:2): **A vineyard that is planted** in consecutive rows **with less than four cubits** between the rows **is not** classified as **a vineyard,** because the rows are planted too close together. This is **the statement of Rabbi Shimon. And the Rabbis say:** It is considered **a vineyard, and one views the middle** vines **as if they are not** there, as they are slated to be uprooted.
+
+**6.**
+*Hebrew/Aramaic:* אֶלָּא לְרַב נַחְמָן אַלִּיבָּא דְּרַבָּנַן – מְפוּזָּרִין שָׁמְעִינַן לֵיהּ; רְצוּפִין מִי שָׁמְעִינַן לֵיהּ?! סְבָרָא הוּא: מִדִּלְרַבִּי שִׁמְעוֹן פַּלְגָא, לְרַבָּנַן נָמֵי פַּלְגָא.
+*Translation:* **But according to** the analysis of **Rav Naḥman** stated **in accordance with** the opinion **of the Rabbis, we hear** the maximum distance that the trees can be **scattered,** i.e., sixteen cubits, as in the incident in Tzalmon. Concerning the minimum distance that they can be planted **close together, did we hear** this distance? The Gemara answers: This **is** based on **logical reasoning; from** the fact **that according to Rabbi Shimon** the minimum distance is **half** of the maximum distance, according **to the Rabbis as well,** the minimum distance is **half** of the maximum, i.e., eight cubits.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הִלְכְתָא, מֵאַרְבַּע אַמּוֹת וְעַד שֵׁשׁ עֶשְׂרֵה. תַּנְיָא כְּווֹתֵיהּ דְּרָבָא: כַּמָּה יְהוּ מְקוֹרָבִין? אַרְבַּע אַמּוֹת, וְכַמָּה יְהוּ מְרוּחָקִין? שֵׁשׁ עֶשְׂרֵה.
+*Translation:* **Rava says: The *halakha*** is that one who buys three trees acquires the land if the distance between the trees is anywhere **from four cubits to sixteen** cubits. This ruling is a combination of the two opinions, which is favorable to the buyer. **It is taught** in a *baraita* **in accordance with** the opinion **of Rava: How close** may **they be? Four cubits. And how far apart** may **they be? Sixteen** cubits.
+
+**8.**
+*Hebrew/Aramaic:* הֲרֵי זֶה קָנָה קַרְקַע וְאֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – יֵשׁ לוֹ קַרְקַע. פָּחוֹת מִכָּאן אוֹ יָתֵר עַל כָּאן, אוֹ שֶׁלְּקָחָן בְּזֶה אַחַר זֶה – הֲרֵי זֶה לֹא קָנָה לֹא אֶת הַקַּרְקַע וְלֹא אֶת הָאִילָנוֹת שֶׁבֵּינֵיהֶן; לְפִיכָךְ, יָבֵשׁ הָאִילָן אוֹ נִקְצַץ – אֵין לוֹ קַרְקַע.
+*Translation:* If one bought three trees planted in this manner, **this one has acquired** the **land and the** small **trees that** are **between them. Therefore,** if **the tree dried up or was cut down he has** ownership of the **land.** If the distance between the trees was **less than this or more than this, or if he bought** the trees **one after the other, this** buyer **has not acquired either the land or the trees that** are **between them. Therefore,** if **the tree dried up or was cut down he has no** ownership over the **land.**
+
+**9.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי יִרְמְיָה: כְּשֶׁהוּא מוֹדֵד, מִמָּקוֹם קָצָר הוּא מוֹדֵד, אוֹ מִמָּקוֹם רָחָב הוּא מוֹדֵד? אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הָרְכוּבָה שֶׁבַּגֶּפֶן – אֵינוֹ מוֹדֵד אֶלָּא מֵעִיקָּר הַשֵּׁנִי.
+*Translation:* § **Rabbi Yirmeya raises a dilemma: When one measures** the distance between the trees, **does he measure from the narrow place** on the trunk of the tree **or does he measure from the wide place? Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:1): When one comes to measure from **the layered branch of the vine he measures only from the second root,** as this is the average, not the widest part of the vine.
+
+**10.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי יִרְמְיָה: מָכַר לוֹ שְׁלֹשָׁה בַּדֵּי אִילָן, מַהוּ?
+*Translation:* **Rabbi Yirmeya raises a dilemma:** If the owner of the field **sold to** someone **three branches** that grew from one **tree,** and its trunk was covered with earth so that the branches appeared to be three separate trees, **what is** the *halakha*? Are they considered three trees, which would mean that their owner acquires the ground between them?
+
+**11.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב גְּבִיהָה מִבֵּי כְתִיל לְרַב אָשֵׁי: תָּא שְׁמַע, דִּתְנַן: הַמַּבְרִיךְ שָׁלֹשׁ גְּפָנִים, וְעִקְּרֵיהֶן נִרְאִין – רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק אוֹמֵר: אִם יֵשׁ בֵּינֵיהֶן מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה – מִצְטָרְפִין, וְאִם לָאו – אֵין מִצְטָרְפִין.
+*Translation:* **Rav Geviha of Bei Khatil said to Rav Ashi: Come** and **hear** a proof, **as we learned** in a mishna (*Kilayim* 7:2): With regard to **one who layers** the branches of **three vines** into the ground so that they take root while still attached to the base of the vine, **and their roots** that rise above the ground **are visible, Rabbi Elazar, son of Rabbi Tzadok, says: If there is** a distance **between them of four cubits to eight** cubits, **they combine** to form one vineyard composed of six grapevines. **And if not, they do not combine.** It can be inferred from this mishna that the different branches of a tree are considered separate entities when the trunk is covered by earth, provided the required distance between them is maintained.
+
+**12.**
+*Hebrew/Aramaic:* בָּעֵי רַב פָּפָּא: מָכַר לוֹ שְׁנַיִם בְּתוֹךְ שָׂדֵהוּ וְאֶחָד עַל הַמֶּצֶר, מַהוּ? שְׁנַיִם בְּתוֹךְ שֶׁלּוֹ וְאֶחָד בְּתוֹךְ שֶׁל חֲבֵירוֹ, מַאי? תֵּיקוּ.
+*Translation:* **Rav Pappa raises a dilemma:** If the owner of a field **sold to** someone **two** trees **in his field and one** situated **on** its **border, what is** the *halakha*? Similarly, if one bought **two** trees **in** the field **of** one person **and one in** the field **of another, what** is the *halakha*? Do the trees combine to form one unit of three trees, or not? The Gemara states that this dilemma **shall stand** unresolved.

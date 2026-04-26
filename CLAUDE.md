@@ -4,6 +4,15 @@ AnyDaf is a Talmud study app with parallel iOS (Swift/SwiftUI) and Android (Kotl
 
 > **Maintenance note for Claude:** After any session that changes codebase architecture, update the relevant section(s) of this file before finishing. Do not wait to be asked.
 
+## How to Navigate This Codebase
+
+**Before reading any file, consult the Key Files tables below.** Most bugs and features touch exactly one file listed there. Go directly to that file — do not explore the codebase broadly first.
+
+1. **Identify the right file from the tables.** The user's description (e.g. "nav buttons in Study mode", "translation toggle", "DataStore preference") should map to a specific row.
+2. **Read only that file** (or the two files involved if the fix spans iOS + Android).
+3. **Only search broadly** (Grep/Glob/Explore agent) when the right file genuinely isn't clear from the tables or the user's description — and even then, ask the user which file is involved before doing a full codebase scan.
+4. **Targeted Grep is fine** inside a known file to jump to the right line quickly.
+
 ## Repository Layout
 
 ```
@@ -244,6 +253,44 @@ Android enums in `model/StudyModels.kt` mirror these exactly (SCREAMING_SNAKE_CA
 
 - Identified by `(tractateIndex, daf, amud)`; optionally linked to a study section index
 - `BookmarkManager` (iOS) / `BookmarkViewModel` (Android)
+
+---
+
+## Debugging Guidance
+
+**Always ask the user to run with the debugger attached** when investigating a crash or any hard-to-reproduce bug. The Xcode debugger gives the exact exception type, message, call stack, and local variable values at the crash site — far faster than inferring from symptoms. Just say: "Can you run this from Xcode with the debugger on and share the error message?"
+
+---
+
+## Known Pitfalls
+
+### NSNull in Supabase JSON responses (ShiurClient)
+
+When a column exists in a Supabase row but its value is SQL `NULL`, the JSON response includes `"column": null`. In Swift, `JSONSerialization.jsonObject` represents JSON `null` as `NSNull()`, which is a non-nil `Any`. An `if let x = dict["column"]` binding does **not** filter `NSNull` — it succeeds, binding `x` to the `NSNull` instance.
+
+Passing `NSNull` to `JSONSerialization.data(withJSONObject:)` throws an `NSInvalidArgumentException` (Objective-C exception). Swift's `try?` does **not** catch ObjC exceptions — the app crashes.
+
+**Fix:** always guard against `NSNull` before passing dictionary values to `JSONSerialization`:
+```swift
+if let segJSON = first["segmentation"], !(segJSON is NSNull),
+   let segData = try? JSONSerialization.data(withJSONObject: segJSON) { ... }
+```
+
+This was the root cause of the Hullin 99 crash. Any daf whose `segmentation` column is `null` (e.g. the processor ran rewrite/final passes but not segmentation) would crash the app. Fixed in `ShiurClient.swift` line 116.
+
+### Crash-loop guard (AnyDafApp)
+
+`@AppStorage`-persisted state (e.g. `lastDaf`, `iPadRightPanel`) survives app termination. If the app crashes on a specific daf every launch, it re-opens on the same daf and crashes again — an unrecoverable loop requiring reinstall.
+
+**Fix implemented in `AnyDafApp.init()`:** a `launchInProgress` boolean in UserDefaults acts as a sentinel. It is set to `true` at init and cleared to `false` when the scene reaches `.active`. If at init it is already `true`, the previous launch crashed → `lastDaf` is reset to `2.0` and `iPadRightPanel` is cleared, so the app opens on a safe default.
+
+### ShiurTextView: parse off the main thread (iOS + Android)
+
+The shiur rewrite text for some dafs is very large. Parsing it synchronously on the main thread (SwiftUI body / Compose composition thread) can block long enough to trigger the iOS watchdog (~8 s) or Android ANR (~5 s).
+
+**iOS fix:** `ShiurTextView` uses `.task(id: rewriteText)` + `Task.detached` to parse on a background thread; results are stored in `@State private var parsedBlocks`.
+
+**Android fix:** `ShiurTextView.kt` uses `produceState` with `withContext(Dispatchers.Default)` instead of `remember { parseShiurBlocks(...) }`.
 
 ## YCT Library / Resources Tab
 

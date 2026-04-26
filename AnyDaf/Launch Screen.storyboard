@@ -14,56 +14,12 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="stk-VT-lyz">
-                                <rect key="frame" x="32" y="296" width="329" height="202"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="AnyDaf" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lbl-AD-ttl">
-                                        <rect key="frame" x="92" y="0" width="145" height="50"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="42"/>
-                                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" image="RabbiLinzer" translatesAutoresizingMaskIntoConstraints="NO" id="img-RL-prt">
-                                        <rect key="frame" x="114.5" y="66" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="100" id="RL-w-con"/>
-                                            <constraint firstAttribute="height" constant="100" id="RL-h-con"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="Learn any daf with Rabbi Dov Linzer" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lbl-DY-sub">
-                                        <rect key="frame" x="46" y="182" width="237" height="20"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <color key="textColor" red="0.75" green="0.85" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="Powered by YCT and Sefaria" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lbl-SF-pwr">
-                                        <rect key="frame" x="46" y="210" width="237" height="18"/>
-                                        <fontDescription key="fontDescription" type="italicSystem" pointSize="13"/>
-                                        <color key="textColor" red="0.75" green="0.85" blue="1" alpha="0.75" colorSpace="custom" customColorSpace="sRGB"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                </subviews>
-                            </stackView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="img-YC-tlo">
-                                <constraints>
-                                    <!-- height driven by the logo's natural aspect ratio (1103 × 587) -->
-                                    <constraint firstAttribute="width" secondItem="img-YC-tlo" secondAttribute="height" multiplier="1103:587" id="img-aspect"/>
-                                </constraints>
-                            </imageView>
-                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <!--
+                            Solid app-blue background only — matches SplashView.background (#1B3A8A)
+                            so the OS launch flash is invisible. All content lives in SplashView.swift.
+                        -->
                         <color key="backgroundColor" red="0.106" green="0.227" blue="0.541" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <constraints>
-                            <!-- logo width = 50% of screen width -->
-                            <constraint firstItem="img-YC-tlo" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" multiplier="0.5" id="img-w-pct"/>
-                            <constraint firstItem="img-YC-tlo" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="210" id="LF2-fo-nLl"/>
-                            <constraint firstItem="stk-VT-lyz" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="stk-cx-con"/>
-                            <constraint firstItem="stk-VT-lyz" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-30" id="stk-cy-con"/>
-                            <constraint firstItem="stk-VT-lyz" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="32" id="stk-ld-con"/>
-                            <constraint firstAttribute="trailing" secondItem="stk-VT-lyz" secondAttribute="trailing" constant="32" id="stk-tr-con"/>
-                            <constraint firstItem="img-YC-tlo" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="zuV-F6-Sia"/>
-                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -71,8 +27,5 @@
             <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="Image" width="1103" height="587"/>
-        <image name="RabbiLinzer" width="100" height="100"/>
-    </resources>
+    <resources/>
 </document>

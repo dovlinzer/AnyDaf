@@ -62,6 +62,8 @@ fun TranslationTab(
     section: StudySection?,
     tractate: String,
     sourceDisplayMode: SourceDisplayMode,
+    showHebrew: Boolean,
+    onShowHebrewChange: (Boolean) -> Unit,
     precedingContext: String?,
     followingContext: String?,
     isFirstSection: Boolean,
@@ -73,7 +75,6 @@ fun TranslationTab(
     }
 
     val scrollState = rememberScrollState()
-    var showHebrew by remember { mutableStateOf(true) }
 
     Column(
         modifier = Modifier
@@ -93,7 +94,7 @@ fun TranslationTab(
                 // Toggle button always at the very top
                 if (section.hebrewText != null) {
                     FilledTonalButton(
-                        onClick = { showHebrew = !showHebrew },
+                        onClick = { onShowHebrewChange(!showHebrew) },
                         modifier = Modifier.padding(bottom = 12.dp)
                     ) {
                         Text(if (showHebrew) "Show English" else "Show Hebrew")

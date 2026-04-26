@@ -1,0 +1,488 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 100,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to the Mishna: Exchange of Animals and Offspring Disputes",
+      "display_title": "Exchange & Offspring",
+      "timestamp": "00:02",
+      "micro_segments": [
+        {
+          "title": "Opening remarks and connection to Bava Kamma parallel",
+          "display_title": "Opening & BK Parallel",
+          "timestamp": "00:02"
+        },
+        {
+          "title": "First case: exchange of cow for donkey with birth",
+          "display_title": "Cow-Donkey Exchange",
+          "timestamp": "00:50"
+        },
+        {
+          "title": "Second case: sold slave gives birth",
+          "display_title": "Slave Birth Dispute",
+          "timestamp": "01:11"
+        },
+        {
+          "title": "Parallel to Bava Kamma case: gored pregnant cow",
+          "display_title": "BK Goring Case",
+          "timestamp": "01:59"
+        },
+        {
+          "title": "Principle: ממון המוטל בספק (doubtful monetary case) requires splitting",
+          "display_title": "Doubtful Case Split",
+          "timestamp": "02:13"
+        }
+      ]
+    },
+    {
+      "title": "Cases of Claims on Two Different Items: Slaves and Fields",
+      "display_title": "Two Items Claims",
+      "timestamp": "02:59",
+      "micro_segments": [
+        {
+          "title": "Case of two slaves and two fields with competing claims",
+          "display_title": "Two Slaves/Fields",
+          "timestamp": "02:59"
+        },
+        {
+          "title": "Strong claim vs. doubtful claim: ברי ושמא ברי עדיף",
+          "display_title": "Bari v. Shema",
+          "timestamp": "03:26"
+        },
+        {
+          "title": "Last case: both claim strong (בברי וברי) but disagree on which item",
+          "display_title": "Bari v. Bari Split",
+          "timestamp": "04:05"
+        },
+        {
+          "title": "Seller takes oath that he sold the small item",
+          "display_title": "Seller's Oath",
+          "timestamp": "04:12"
+        }
+      ]
+    },
+    {
+      "title": "Gemara Challenge: Why Split Rather Than Apply חזקה or המוציא מחבירו?",
+      "display_title": "Splitting Challenge",
+      "timestamp": "05:48",
+      "micro_segments": [
+        {
+          "title": "Gemara question: why יחלוקו rather than use חזקת ממון?",
+          "display_title": "Chazaka Question",
+          "timestamp": "05:48"
+        },
+        {
+          "title": "Shemuel's resolution: cow/slave standing in ownerless area (אגם/סמטא)",
+          "display_title": "Ownerless Area",
+          "timestamp": "06:32"
+        },
+        {
+          "title": "Alternative: חזקת מרא קמא (original owner's presumption)",
+          "display_title": "Original Owner",
+          "timestamp": "08:14"
+        }
+      ]
+    },
+    {
+      "title": "Identification of Tanna: Sumchus vs. Rabbanan on Doubtful Money",
+      "display_title": "Sumchus Debate",
+      "timestamp": "09:00",
+      "micro_segments": [
+        {
+          "title": "This Mishna reflects Sumchus's opinion: חולקין בלא שבועה",
+          "display_title": "Sumchus Position",
+          "timestamp": "09:00"
+        },
+        {
+          "title": "Rabbanan disagree: המוציא מחבירו עליו הראיה",
+          "display_title": "Rabbanan Position",
+          "timestamp": "09:26"
+        },
+        {
+          "title": "Rabba bar Rav Huna: Sumchus says split even in ברי וברי",
+          "display_title": "Sumchus Bari/Bari",
+          "timestamp": "10:00"
+        }
+      ]
+    },
+    {
+      "title": "Gemara Challenge: Why Split Rather Than Apply חזקה or המוציא מחבירו? (continued)",
+      "display_title": "Splitting Challenge…",
+      "timestamp": "11:23",
+      "micro_segments": [
+        {
+          "title": "Tosafot's suggestion: חזקה from pregnant status",
+          "display_title": "Pregnant Chazaka",
+          "timestamp": "11:23"
+        }
+      ]
+    },
+    {
+      "title": "Identification of Tanna: Sumchus vs. Rabbanan on Doubtful Money (continued)",
+      "display_title": "Sumchus Debate…",
+      "timestamp": "12:56",
+      "micro_segments": [
+        {
+          "title": "Rava's counter: Sumchus only in שמא ושמא, not ברי וברי",
+          "display_title": "Rava Limits Sumchus",
+          "timestamp": "12:56"
+        }
+      ]
+    },
+    {
+      "title": "Final Clause and Return to Sumchus: Splitting Without Oath",
+      "display_title": "Final Clause",
+      "timestamp": "13:18",
+      "micro_segments": [
+        {
+          "title": "Broader discussion: multiple frameworks for resolving monetary doubt",
+          "display_title": "Doubt Resolution Methods",
+          "timestamp": "13:18"
+        }
+      ]
+    },
+    {
+      "title": "Problem of Oath on Slaves: Resolving the Modeh Bemiktzat Issue",
+      "display_title": "Oath on Slaves",
+      "timestamp": "15:26",
+      "micro_segments": [
+        {
+          "title": "Challenge: why oath on slaves if different items (not modeh bemiktzat)?",
+          "display_title": "Different Items",
+          "timestamp": "15:26"
+        }
+      ]
+    },
+    {
+      "title": "Problem of Oath on Slaves: Resolving the Modeh Bemiktzat Issue (continued)",
+      "display_title": "Oath on Slaves…",
+      "timestamp": "16:36",
+      "micro_segments": [
+        {
+          "title": "Rav's solution: oath is on monetary value, not slaves themselves",
+          "display_title": "Rav's Value Theory",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Shmuel's alternative: oath on slave's clothing or field's produce",
+          "display_title": "Shmuel's Accessories",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Rav Papa's resolution: uncut cloth as single item",
+          "display_title": "Uncut Cloth Theory",
+          "timestamp": "16:36"
+        }
+      ]
+    },
+    {
+      "title": "Question on Unique Teaching: Redundancy with Kiddushin Principle",
+      "display_title": "Uniqueness Problem",
+      "timestamp": "16:36",
+      "micro_segments": [
+        {
+          "title": "Rav Sheshet's objection: זוקקין (oath-rolling) already taught in Kiddushin",
+          "display_title": "Redundancy Objection",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Rav Sheshet's proposal: Mishna reflects Rabbi Meir holding slaves like movables",
+          "display_title": "Rabbi Meir Slaves",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Further proposal: also reflects Rabban Gamliel on equivalent goods",
+          "display_title": "Rabban Gamliel",
+          "timestamp": "16:36"
+        }
+      ]
+    },
+    {
+      "title": "Examination of Rabbi Meir's Position on Slaves and Real Estate",
+      "display_title": "Rabbi Meir Status",
+      "timestamp": "16:36",
+      "micro_segments": [
+        {
+          "title": "Question: does Rabbi Meir disagree on oaths for both slaves and land?",
+          "display_title": "Both or Slaves Only?",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Clarification: Rabbi Meir agrees slaves are like land for oath purposes",
+          "display_title": "Meir-Land Agreement",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Baraita: Rabbi Meir vs. Chachamim on oaths for slaves and land",
+          "display_title": "Baraita Oath Dispute",
+          "timestamp": "17:45"
+        },
+        {
+          "title": "Case of ten grapevines: are they like land or movables?",
+          "display_title": "Grapes Status",
+          "timestamp": "17:49"
+        },
+        {
+          "title": "Rabbi Meir holds some things are partly like land, partly not",
+          "display_title": "Hybrid Status",
+          "timestamp": "17:49"
+        }
+      ]
+    },
+    {
+      "title": "Return to Rabbi Oshaya's Solution and Principle of Zokekin",
+      "display_title": "Rabbi Oshaya Solution",
+      "timestamp": "16:36",
+      "micro_segments": [
+        {
+          "title": "Rejection of Rav Sheshet; return to Rabbi Oshaya's case",
+          "display_title": "Back to Oshaya",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Principle learned: טפל (ancillary) items create שבועה מודה במקצת",
+          "display_title": "Accessory Oath",
+          "timestamp": "16:36"
+        },
+        {
+          "title": "Even minor items (shirt, produce) trigger oath-rolling on primary purchase",
+          "display_title": "Minor Items Effect",
+          "timestamp": "16:36"
+        }
+      ]
+    },
+    {
+      "title": "Final Clause and Return to Sumchus: Splitting Without Oath (continued)",
+      "display_title": "Final Clause…",
+      "timestamp": "17:49",
+      "micro_segments": [
+        {
+          "title": "Last Mishna case: both claim ignorance (שמא ושמא), they split",
+          "display_title": "Both Ignorant Split",
+          "timestamp": "17:49"
+        },
+        {
+          "title": "This reflects Sumchus: חולקין even with doubt",
+          "display_title": "Sumchus Doubtful Split",
+          "timestamp": "17:49"
+        },
+        {
+          "title": "Summary: Sumchus vs. Rabbanan as recurring contrast throughout Shas",
+          "display_title": "Sumchus-Rabbanan Contrast",
+          "timestamp": "50:15"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "ממון המוטל בספק (doubtful monetary case)",
+      "timestamps": [
+        "02:13",
+        "06:03",
+        "13:22"
+      ]
+    },
+    {
+      "term": "סומכוס (Sumchus) - split without oath",
+      "timestamps": [
+        "01:28",
+        "09:06",
+        "09:21",
+        "10:02",
+        "12:56",
+        "17:49",
+        "50:15"
+      ]
+    },
+    {
+      "term": "רבנן (Rabbanan) - המוציא מחבירו עליו הראיה",
+      "timestamps": [
+        "04:54",
+        "09:26",
+        "09:28",
+        "50:15"
+      ]
+    },
+    {
+      "term": "ברי ושמא ברי עדיף (strong vs. doubtful claim)",
+      "timestamps": [
+        "03:30",
+        "04:43",
+        "04:48"
+      ]
+    },
+    {
+      "term": "ברי וברי (two competing strong claims)",
+      "timestamps": [
+        "10:02",
+        "10:04",
+        "10:56",
+        "16:19"
+      ]
+    },
+    {
+      "term": "שמא ושמא (two competing doubtful claims)",
+      "timestamps": [
+        "14:47",
+        "17:49"
+      ]
+    },
+    {
+      "term": "חזקת ממון (possession/control presumption)",
+      "timestamps": [
+        "06:16",
+        "06:25",
+        "07:53"
+      ]
+    },
+    {
+      "term": "חזקת מרא קמא (original owner presumption)",
+      "timestamps": [
+        "08:17",
+        "08:32",
+        "12:22",
+        "12:38"
+      ]
+    },
+    {
+      "term": "מודה במקצת (admitting part of claim)",
+      "timestamps": [
+        "04:28",
+        "04:30",
+        "04:33",
+        "04:36",
+        "16:19",
+        "16:36"
+      ]
+    },
+    {
+      "term": "שבועה דאורייתא (Torah-mandated oath)",
+      "timestamps": [
+        "16:19",
+        "16:36",
+        "17:49"
+      ]
+    },
+    {
+      "term": "זוקקין / גלגול שבועה (oath-rolling, creating oath for linked items)",
+      "timestamps": [
+        "16:36"
+      ]
+    },
+    {
+      "term": "הילך (presenting object to claimant to avoid oath)",
+      "timestamps": [
+        "16:36",
+        "16:36",
+        "16:36"
+      ]
+    },
+    {
+      "term": "עבדים הוקשו לקרקעות (slaves compared to real estate)",
+      "timestamps": [
+        "05:42",
+        "16:36",
+        "16:36",
+        "50:21"
+      ]
+    },
+    {
+      "term": "עבד בכסותו (slave with clothing/accessory)",
+      "timestamps": [
+        "16:36",
+        "16:36",
+        "16:36"
+      ]
+    },
+    {
+      "term": "שדה בעומריה (field with produce/sheaves)",
+      "timestamps": [
+        "16:36",
+        "16:36"
+      ]
+    },
+    {
+      "term": "רבי מאיר (Rabbi Meir) - minority opinion",
+      "timestamps": [
+        "16:36",
+        "16:36",
+        "17:45",
+        "17:49"
+      ]
+    },
+    {
+      "term": "רבן גמליאל - טענו בחיטים והודה בשעורים",
+      "timestamps": [
+        "16:36"
+      ]
+    },
+    {
+      "term": "דמים מודיעים (monetary value as proof)",
+      "timestamps": [
+        "16:19"
+      ]
+    },
+    {
+      "term": "אונאה (fraud/overcharging)",
+      "timestamps": [
+        "16:19"
+      ]
+    },
+    {
+      "term": "עומדות לבציר (grapes ready for harvest)",
+      "timestamps": [
+        "17:49"
+      ]
+    },
+    {
+      "term": "טפל (ancillary/minor items)",
+      "timestamps": [
+        "16:36"
+      ]
+    },
+    {
+      "term": "קנין (acquisition/transaction)",
+      "timestamps": [
+        "02:51",
+        "02:53",
+        "05:35",
+        "05:37",
+        "05:41"
+      ]
+    },
+    {
+      "term": "חליפין (barter/exchange)",
+      "timestamps": [
+        "00:52",
+        "01:01"
+      ]
+    },
+    {
+      "term": "רש\"י (Rashi) comments and explanations",
+      "timestamps": [
+        "01:01",
+        "02:31",
+        "16:36",
+        "16:36"
+      ]
+    },
+    {
+      "term": "תוספות (Tosafot) analysis",
+      "timestamps": [
+        "04:01",
+        "11:23",
+        "12:06"
+      ]
+    },
+    {
+      "term": "ראשונים (early authorities) on slaves and land",
+      "timestamps": [
+        "16:36",
+        "16:38",
+        "16:42"
+      ]
+    }
+  ]
+}

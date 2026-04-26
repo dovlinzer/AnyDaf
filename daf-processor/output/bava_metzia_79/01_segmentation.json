@@ -1,0 +1,496 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 79,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "Introduction to Rental of Donkey and Default Cases: Defects vs. Misuse",
+      "display_title": "Donkey Rental Intro",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Overview of Previous Daf and Current Mishna on Rentals",
+          "display_title": "Previous Context",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Liability for Using Rental Outside Agreement Terms: Negligence vs. Thievery Approaches",
+          "display_title": "Liability Framework",
+          "timestamp": "00:08"
+        },
+        {
+          "title": "Techlilato Bipshiah Vesofo Beones: Liability from Initial Negligence",
+          "display_title": "Techlilato Bipshiah",
+          "timestamp": "00:22"
+        }
+      ]
+    },
+    {
+      "title": "The Donkey with Minor Defects and Owner's Non-Obligation to Replace",
+      "display_title": "Minor Defects",
+      "timestamp": "01:40",
+      "micro_segments": [
+        {
+          "title": "Vehivrika and Avzeket: Vision Problems and Worms as Non-Disabling Defects",
+          "display_title": "Vehivrika/Avzeket",
+          "timestamp": "01:40"
+        },
+        {
+          "title": "Harei Shelcha Lefanecha: Owner's Refusal to Replace Usable Donkey",
+          "display_title": "Harei Shelcha",
+          "timestamp": "02:29"
+        },
+        {
+          "title": "Tangential Story: The King's Worm Warning and Lying About Cloth Types",
+          "display_title": "King's Worm Story",
+          "timestamp": "03:14"
+        }
+      ]
+    },
+    {
+      "title": "Seizure by King (Angarya): Temporary vs. Permanent and the Renter's Route",
+      "display_title": "Angarya Cases",
+      "timestamp": "04:39",
+      "micro_segments": [
+        {
+          "title": "Angarya Hozeret: Temporary Seizure Does Not Require Replacement",
+          "display_title": "Angarya Hozeret",
+          "timestamp": "04:39"
+        },
+        {
+          "title": "Rav's Position: Angarya She'eino Hozeret Requires Replacement",
+          "display_title": "Rav's Position",
+          "timestamp": "05:32"
+        },
+        {
+          "title": "Shmuel's Position: Derech Halichata Distinguishes Renter's Fault",
+          "display_title": "Shmuel Derech",
+          "timestamp": "05:49"
+        },
+        {
+          "title": "Tosafot's Interpretation: Circumstances of Seizure Determine Liability",
+          "display_title": "Tosafot Circumstances",
+          "timestamp": "07:04"
+        }
+      ]
+    },
+    {
+      "title": "Reconciling Baraita with Mishna on Seizure: Multiple Positions and Distinctions",
+      "display_title": "Baraita Reconciliation",
+      "timestamp": "09:51",
+      "micro_segments": [
+        {
+          "title": "Meitivei Challenge: Baraita Says Seized Donkey Requires Replacement",
+          "display_title": "Meitivei Challenge",
+          "timestamp": "09:51"
+        },
+        {
+          "title": "Rav's Resolution: Angarya Hozeret vs. Angarya She'eino Hozeret Distinction",
+          "display_title": "Rav Resolution",
+          "timestamp": "10:35"
+        },
+        {
+          "title": "Shmuel's Resolution Using Rabbi Shimon ben Elazar's Derech Halichata",
+          "display_title": "Shmuel Resolution",
+          "timestamp": "10:46"
+        },
+        {
+          "title": "Whole Baraita as Rabbi Shimon ben Elazar with Clarification of Case Parameters",
+          "display_title": "Shimon ben Elazar",
+          "timestamp": "12:01"
+        }
+      ]
+    },
+    {
+      "title": "Riding vs. Carrying: Donkey Purpose Determines Repair Obligation for Defects",
+      "display_title": "Riding Purpose",
+      "timestamp": "13:21",
+      "micro_segments": [
+        {
+          "title": "Mishkach Contradiction: Rabbi Shimon ben Elazar Requires Replacement for Riding",
+          "display_title": "Riding Requirement",
+          "timestamp": "13:21"
+        },
+        {
+          "title": "Raba bar Huna's Explanation: Riding Necessitates Safety Standards",
+          "display_title": "Safety Standards",
+          "timestamp": "14:28"
+        },
+        {
+          "title": "Rav Pappa: Glassware Equivalent to Riding—Incompatible with Defects",
+          "display_title": "Glassware",
+          "timestamp": "15:21"
+        }
+      ]
+    },
+    {
+      "title": "Death or Incapacity Mid-Journey: Payment Pro-Rata and Non-Replacement Doctrine",
+      "display_title": "Death Mid-Journey",
+      "timestamp": "15:49",
+      "micro_segments": [
+        {
+          "title": "Donkey Dies Mid-Journey: Renter Pays Half, No Replacement Required",
+          "display_title": "Half Payment",
+          "timestamp": "15:49"
+        },
+        {
+          "title": "Tosafot's Reinterpretation: Slightly Higher Rental Costs Elsewhere",
+          "display_title": "Tosafot Reinterpret",
+          "timestamp": "19:06"
+        },
+        {
+          "title": "Alternative: Renter Can Sell Wares in Mid-Route Market",
+          "display_title": "Mid-Route Sales",
+          "timestamp": "21:25"
+        }
+      ]
+    },
+    {
+      "title": "Donkey Specified vs. Unspecified: When Owner Must Replace with Proceeds",
+      "display_title": "Specified Donkey",
+      "timestamp": "23:04",
+      "micro_segments": [
+        {
+          "title": "Chamor Stam vs. Chamor Zeh: Replacement Obligation Depends on Specification",
+          "display_title": "Stam vs. Zeh",
+          "timestamp": "23:04"
+        },
+        {
+          "title": "Rav's Position: Lo Mechalinan Karna—Principal Not Consumed",
+          "display_title": "Rav Principal",
+          "timestamp": "25:56"
+        },
+        {
+          "title": "Shmuel's Position: Mechalinan Karna—Rental Obligation Justified",
+          "display_title": "Shmuel Rental",
+          "timestamp": "30:09"
+        }
+      ]
+    },
+    {
+      "title": "Tree Seizing as Parallel to Dead Donkey: Principal Preservation Doctrine",
+      "display_title": "Tree Seizure",
+      "timestamp": "31:18",
+      "micro_segments": [
+        {
+          "title": "Yavesh Ilan Situation: Creditor's Right to Fruit Meets Asset Loss",
+          "display_title": "Yavesh Ilan",
+          "timestamp": "31:18"
+        },
+        {
+          "title": "Neither Party Can Sell Wood; Replace with Land Purchase",
+          "display_title": "Land Purchase",
+          "timestamp": "32:21"
+        },
+        {
+          "title": "Yovel Complication: Purchased Land Eventually Reverts, Cutting Principal",
+          "display_title": "Yovel Impact",
+          "timestamp": "34:03"
+        },
+        {
+          "title": "Resolution: Sixty-Year Sale Avoids Yovel, Shows Principal Concern",
+          "display_title": "Sixty-Year Sale",
+          "timestamp": "35:40"
+        }
+      ]
+    },
+    {
+      "title": "Boat Rental: Sinking and the Specified vs. Unspecified Cargo Problem",
+      "display_title": "Boat Sinking",
+      "timestamp": "40:15",
+      "micro_segments": [
+        {
+          "title": "Boat Sinks Mid-Journey: Payment Dispute Between Boat Owner and Renter",
+          "display_title": "Boat Payment",
+          "timestamp": "40:15"
+        },
+        {
+          "title": "Rav Nosson: Already Paid Cannot Recover; Not Yet Paid Need Not Pay",
+          "display_title": "Rav Nosson",
+          "timestamp": "41:14"
+        },
+        {
+          "title": "Case Resolution: Specificity of Boat vs. Cargo Determines Non-Liability",
+          "display_title": "Specificity Rules",
+          "timestamp": "41:43"
+        },
+        {
+          "title": "Rav Pappa: Both Specified or Both Unspecified Scenarios",
+          "display_title": "Both Specified",
+          "timestamp": "43:55"
+        }
+      ]
+    },
+    {
+      "title": "Renter's Voluntary Abandonment Mid-Journey: Half Payment and Wear-and-Tear",
+      "display_title": "Voluntary Abandon",
+      "timestamp": "47:15",
+      "micro_segments": [
+        {
+          "title": "Renter Unloads at Mid-Point: Only Pays Half, Has Limited Complaint Right",
+          "display_title": "Mid-Point Unload",
+          "timestamp": "47:15"
+        },
+        {
+          "title": "Boat Owner Can Find Other Customers: Why Only Complaint?",
+          "display_title": "Other Customers",
+          "timestamp": "48:05"
+        },
+        {
+          "title": "Wear-and-Tear and Effort: Shinui Da'at and Rigging Costs",
+          "display_title": "Shinui Da'at",
+          "timestamp": "49:11"
+        }
+      ]
+    },
+    {
+      "title": "Renter's Permitted Cargo and Food: Rights Based on Employment Status and Availability",
+      "display_title": "Cargo Rights",
+      "timestamp": "50:54",
+      "micro_segments": [
+        {
+          "title": "Renter's Garment, Water Bottle, Journey Food; Donkey Driver's Daily Food Only",
+          "display_title": "Food Portions",
+          "timestamp": "50:54"
+        },
+        {
+          "title": "Rationale: Renter Is Employer; Donkey Driver Expected to Hustle for Supplies",
+          "display_title": "Employment Status",
+          "timestamp": "53:31"
+        }
+      ]
+    },
+    {
+      "title": "Rider Gender and Pregnancy: Contract Specifications and Weight Considerations",
+      "display_title": "Gender/Pregnancy",
+      "timestamp": "54:24",
+      "micro_segments": [
+        {
+          "title": "Male Rider Specified: Female Rider (Even Pregnant or Nursing) Prohibited",
+          "display_title": "Gender Clause",
+          "timestamp": "54:24"
+        },
+        {
+          "title": "Female Rider Allowed: Any Age or Condition (Pregnant/Nursing) Permitted",
+          "display_title": "Female Conditions",
+          "timestamp": "55:08"
+        },
+        {
+          "title": "Akarsa Tikla: Weight in Stomach; Application to Fish Gutting",
+          "display_title": "Akarsa Tikla",
+          "timestamp": "56:14"
+        },
+        {
+          "title": "Tosafot Alternative: Pregnant Woman Weighs More Than Nursing Mother",
+          "display_title": "Tosafot Weight",
+          "timestamp": "56:56"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Techlilato Bipshiah Vesofo Beones",
+      "timestamps": [
+        "00:22",
+        "01:08"
+      ]
+    },
+    {
+      "term": "Kol Hamavir al Daato shel Baal Habayit Nikra Gazlan",
+      "timestamps": [
+        "00:35"
+      ]
+    },
+    {
+      "term": "Vehivrika (eye defect)",
+      "timestamps": [
+        "01:55",
+        "02:01"
+      ]
+    },
+    {
+      "term": "Avzeket (worm)",
+      "timestamps": [
+        "02:29",
+        "03:14"
+      ]
+    },
+    {
+      "term": "Harei Shelcha Lefanecha",
+      "timestamps": [
+        "02:45",
+        "03:07",
+        "06:00"
+      ]
+    },
+    {
+      "term": "Angarya (king's seizure)",
+      "timestamps": [
+        "04:48",
+        "05:06",
+        "05:32",
+        "10:35"
+      ]
+    },
+    {
+      "term": "Angarya Hozeret",
+      "timestamps": [
+        "05:09",
+        "10:37"
+      ]
+    },
+    {
+      "term": "Angarya She'eino Hozeret",
+      "timestamps": [
+        "05:32",
+        "10:41"
+      ]
+    },
+    {
+      "term": "Derech Halichata",
+      "timestamps": [
+        "06:00",
+        "06:43",
+        "08:04",
+        "11:30",
+        "11:52"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon ben Elazar",
+      "timestamps": [
+        "11:23",
+        "12:01",
+        "12:07",
+        "13:21"
+      ]
+    },
+    {
+      "term": "Lirkov Aleha (riding purpose)",
+      "timestamps": [
+        "13:51",
+        "14:28",
+        "15:13"
+      ]
+    },
+    {
+      "term": "Chamor Zeh (specified donkey)",
+      "timestamps": [
+        "23:34",
+        "24:35"
+      ]
+    },
+    {
+      "term": "Chamor Stam (unspecified donkey)",
+      "timestamps": [
+        "23:07",
+        "23:17"
+      ]
+    },
+    {
+      "term": "Lo Mechalinan Karna (do not consume principal)",
+      "timestamps": [
+        "25:56",
+        "28:46"
+      ]
+    },
+    {
+      "term": "Mechalinan Karna (consume principal)",
+      "timestamps": [
+        "31:00"
+      ]
+    },
+    {
+      "term": "Yavesh Ilan (dried tree)",
+      "timestamps": [
+        "31:18"
+      ]
+    },
+    {
+      "term": "Yovel (jubilee)",
+      "timestamps": [
+        "34:23",
+        "34:37",
+        "35:08",
+        "36:37"
+      ]
+    },
+    {
+      "term": "Hamotzi Mechavero Alav Haraaya",
+      "timestamps": [
+        "41:29",
+        "44:29",
+        "44:49"
+      ]
+    },
+    {
+      "term": "Sfina (boat)",
+      "timestamps": [
+        "40:16",
+        "42:12"
+      ]
+    },
+    {
+      "term": "Tvata (sinking)",
+      "timestamps": [
+        "40:20"
+      ]
+    },
+    {
+      "term": "Parka (unloading)",
+      "timestamps": [
+        "47:16"
+      ]
+    },
+    {
+      "term": "Rifsata d'Sfinata (wear and tear)",
+      "timestamps": [
+        "48:58"
+      ]
+    },
+    {
+      "term": "Shinui Da'at (change of mind/customer)",
+      "timestamps": [
+        "49:35",
+        "49:53"
+      ]
+    },
+    {
+      "term": "Rav Pappa",
+      "timestamps": [
+        "15:21",
+        "43:53",
+        "53:31"
+      ]
+    },
+    {
+      "term": "Raba bar Huna",
+      "timestamps": [
+        "15:48"
+      ]
+    },
+    {
+      "term": "Rav Nosson",
+      "timestamps": [
+        "41:14"
+      ]
+    },
+    {
+      "term": "Tosafot",
+      "timestamps": [
+        "07:04",
+        "19:06",
+        "21:25",
+        "49:40",
+        "56:56"
+      ]
+    },
+    {
+      "term": "Akarsa Tikla (weight in stomach)",
+      "timestamps": [
+        "56:24"
+      ]
+    }
+  ]
+}

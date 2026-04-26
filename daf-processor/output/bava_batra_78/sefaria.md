@@ -1,0 +1,114 @@
+### Bava Batra 78a
+
+**1.**
+*Hebrew/Aramaic:* וְכִי תֵּימָא בִּיטּוּל מִקָּח לְרַבָּנַן לֵית לְהוּ, וְלָא?! וְהָתְנַן, רַבִּי יְהוּדָה אוֹמֵר: הַמּוֹכֵר סֵפֶר תּוֹרָה, בְּהֵמָה וּמַרְגָּלִית – אֵין לָהֶן אוֹנָאָה. אָמְרוּ לוֹ: לֹא אָמְרוּ אֶלָּא אֶת אֵלּוּ!
+*Translation:* **And if you would say** that **the Rabbis do not** hold that in a case of exploitation of less than one-sixth one must return the money and that if it was more than one-sixth there is **nullification of** the **transaction,** can it be maintained that they do **not** accept these *halakhot*? **But didn’t we learn** in a mishna (*Bava Metzia* 56b) that **Rabbi Yehuda says: Even** in the case of **one who sells a Torah scroll, an animal, or a pearl,** these items **are not** subject to the *halakhot* of **exploitation,** as they have no fixed price. The Rabbis **said to him:** The early Sages **stated** that **only these** items listed earlier in the mishna, i.e., land, slaves, and documents, are not subject to the *halakhot* of exploitation. Therefore, the Rabbis should agree that the sale of the yoke is nullified.
+
+**2.**
+*Hebrew/Aramaic:* מַאי ״אֵין דָּמִים רְאָיָה״ נָמֵי דְּקָתָנֵי – דְּהָוֵי בִּיטּוּל מִקָּח. וְאִיבָּעֵית אֵימָא: כִּי אֲמוּר רַבָּנַן אוֹנָאָה וּבִיטּוּל מִקָּח – בִּכְדֵי שֶׁהַדַּעַת טוֹעָה, אֲבָל בִּכְדֵי שֶׁאֵין הַדַּעַת טוֹעָה – לָא; אֵימוֹר מַתָּנָה יְהַב לֵיהּ.
+*Translation:* The Gemara answers: **What** is the meaning of the mishna **that teaches** that according to the opinion of the Rabbis **the** sum of **money is not proof?** This means **that the transaction is nullified. And if you wish, say** instead that the sale of the yoke is not nullified, because **when the Sages spoke** of **exploitation and the nullification of a transaction,** they meant that these *halakhot* apply only in a case **where** the difference in price is an amount about **which one could be mistaken** and believe that this is the correct price. **But when** the difference in price is so great a sum **that one could not be mistaken,** this sale is **not** subject to the *halakhot* of exploitation. In that case, one must **say** that the buyer **gave** the extra money **to** the seller as **a gift;** he could not have thought that this was the actual price of the object.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמּוֹכֵר אֶת הַחֲמוֹר – לֹא מָכַר כֵּלָיו. נַחוּם הַמָּדִי אוֹמֵר: מָכַר כֵּלָיו. רַבִּי יְהוּדָה אוֹמֵר: פְּעָמִים מְכוּרִין, פְּעָמִים אֵינָן מְכוּרִין – כֵּיצַד? הָיָה חֲמוֹר לְפָנָיו, וְכֵלָיו עָלָיו, וְאָמַר לוֹ: ״מְכוֹר לִי חֲמוֹרְךָ זֶה״ – הֲרֵי כֵּלָיו מְכוּרִין. ״חֲמוֹרְךָ הוּא״ – אֵין כֵּלָיו מְכוּרִין.
+*Translation:* MISHNA: **One who sells a donkey has not sold its vessels,** i.e., its equipment, with it. **Naḥum the Mede says:** He has **sold its vessels. Rabbi Yehuda says:** There are **times** when the vessels **are sold,** and there are **times** when **they are not sold. How so? If the donkey was before him and its vessels** were **on it, and** the buyer **said to him: Sell me this donkey of yours, its vessels are sold.** If the buyer said to him: **Is the donkey yours;** I wish to purchase it, **its vessels are not sold.**
+
+**4.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר עוּלָּא: מַחֲלוֹקֶת בְּשַׂק וְדִיסַקַּיָּא וְכוּמְנִי – דְּתַנָּא קַמָּא סָבַר: סְתָם חֲמוֹר לִרְכּוֹב קָאֵי, וְנַחוּם הַמָּדִי סָבַר: סְתָם חֲמוֹר לְמַשּׂאוֹי קָאֵי; אֲבָל אוּכָּף וּמַרְדַּעַת, קִילְקְלִי וַחֲבָק – דִּבְרֵי הַכֹּל מְכוּרִין.
+*Translation:* GEMARA: **Ulla says:** The **dispute** in the mishna is referring **to** the donkey’s **sack and** the **saddlebag [*disakkaya*] and** the ***kumni*,** a term explained later in the Gemara. **As the first *tanna* holds: An ordinary donkey is** used primarily **for riding,** and therefore these articles, which are not used for riding but for carrying burdens, are not included in the sale. **And Naḥum the Mede holds: An ordinary donkey is** used **for carrying burdens,** and therefore the items that serve this purpose are sold along with the donkey. **But** with regard to **the saddle and the saddlecloth, the harness and the saddle band, everyone agrees** that **they are sold,** as they are used both for riding and for carrying burdens.
+
+**5.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״חֲמוֹר וְכֵלָיו אֲנִי מוֹכֵר לָךְ״ – הֲרֵי זֶה מָכַר אֶת הָאוּכָּף, וְאֶת הַמַּרְדַּעַת, וְאֶת הַקִּילְקְלִי, וְאֶת הַחֲבָק. אֲבָל לֹא מָכַר שַׂק, וְדִיסַקַּיָּא, וְכוּמְנִי. וּבִזְמַן שֶׁאָמַר לוֹ: ״הִיא וְכֹל מַה שֶּׁעָלֶיהָ״ – הֲרֵי כּוּלָּן מְכוּרִין. טַעְמָא דְּאָמַר לֵיהּ: ״חֲמוֹר וְכֵלָיו״ – הוּא דְּקָנֵי אוּכָּף וּמַרְדַּעַת, הָא לָא אֲמַר לֵיהּ הָכִי – לָא!
+*Translation:* The Gemara **raises an objection** from a *baraita*. If a seller says: **I am selling you a donkey and its vessels, this** one has **sold the saddle, and the saddlecloth, and the harness, and the saddle band. But he has not sold the sack, and the saddlebag, and the *kumni*. And when** the seller **said to** the buyer: I am selling **it and everything that is on it,** to you; the donkey and **all of these** items **are sold.** It can be inferred from here that the **reason that** the buyer **acquires the saddle and the saddlecloth** is **that** the seller **said to him:** I am selling you **a donkey and its vessels.** By inference, if the seller **did not say this,** the buyer does **not** acquire them.
+
+**6.**
+*Hebrew/Aramaic:* הוּא הַדִּין דְּאַף עַל גַּב דְּלָא אֲמַר לֵיהּ ״חֲמוֹר וְכֵלָיו״ – נָמֵי אוּכָּף וּמַרְדַּעַת מְכוּרִין; וְהָא קָא מַשְׁמַע לַן – דְּאַף עַל גַּב דַּאֲמַר לֵיהּ: ״חֲמוֹר וְכֵלָיו״ – שַׂק וְדִיסַקַּיָּא וְכוּמְנִי לָא קָנֵי.
+*Translation:* The Gemara answers: **The same is true even if** the seller **did not say to him:** I am selling you **a donkey and its vessels.** In that case **as well, the saddle and the saddlecloth are sold. And this** is what the *baraita* **teaches us: That even though** the seller **said to him:** I am selling you **a donkey and its vessels,** the buyer still **does not acquire** the **sack and** the **saddlebag and** the ***kumni*.**
+
+**7.**
+*Hebrew/Aramaic:* מַאי ״וְכוּמְנִי״? אָמַר רַב פָּפָּא בַּר שְׁמוּאֵל: מַרְכַּבְתָּא דְנָשֵׁי.
+*Translation:* The Gemara inquires: **What** is the meaning of: **And** the ***kumni*? Rav Pappa bar Shmuel said:** This is the **saddle** used **by women.**
+
+**8.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: בְּעוֹדָן עָלָיו מַחֲלוֹקֶת, אֲבָל בְּשֶׁאֵינָן עָלָיו – מוֹדֵה לְהוּ נַחוּם הַמָּדִי; אוֹ דִלְמָא, בְּשֶׁאֵינָן עָלָיו מַחֲלוֹקֶת, אֲבָל בְּעוֹדָן עָלָיו – מוֹדוּ לֵיהּ רַבָּנַן לְנָחוּם? תָּא שְׁמַע: וּבִזְמַן שֶׁאָמַר לוֹ: ״הוּא וְכֹל מַה שֶּׁעָלָיו״ – הֲרֵי כּוּלָּן מְכוּרִין.
+*Translation:* **A dilemma was raised before** the Sages: Does this **dispute** apply only to a case **where** the vessels **are on** the donkey, **but when** the vessels **are not on** the donkey, **Naḥum the Mede concedes to** the Rabbis that they are not sold? **Or perhaps** the **dispute** applies **to** a case **where** the vessels **are not on** the donkey, **but when** the vessels **are on** the donkey **the Rabbis concede to Naḥum** that the vessels are sold. The Gemara suggests: **Come** and **hear** a proof from the aforementioned *baraita*: **And when** the seller **said to** the buyer: I am selling **it and everything that is on it,** the donkey and **all of these** items **are sold.** In this case, the vessels are on the donkey, and everything is sold.
+
+**9.**
+*Hebrew/Aramaic:* אִי אָמְרַתְּ בִּשְׁלָמָא בְּעוֹדָן עָלָיו מַחְלוֹקֶת, הָא מַנִּי – רַבָּנַן הִיא. אֶלָּא אִי אָמְרַתְּ בְּשֶׁאֵין עוֹדָן עָלָיו מַחְלוֹקֶת, אֲבָל בְּעוֹדָן עָלָיו – דִּבְרֵי הַכֹּל מְכוּרִין; הָא מַנִּי?
+*Translation:* **Granted, if you say** that the **dispute** applies **when** the vessels **are on** the donkey, in accordance with **whose** opinion **is this** ruling? **It is** the opinion of **the Rabbis** that although in general one does not acquire the vessels, if the seller explicitly says that he is selling the donkey and everything on it, the buyer acquires it all. **But if you say that** the **dispute** applies **when** the vessels **are not on** the donkey, **but when** the vessels **are on** the donkey **everyone agrees** that **they are sold,** in accordance with **whose** opinion **is this** ruling? Even according to the opinion of the Rabbis there is no need to say explicitly that he is selling everything.
+
+**10.**
+*Hebrew/Aramaic:* לְעוֹלָם בְּשֶׁאֵין עוֹדָן עָלָיו מַחְלוֹקֶת, וְרַבָּנַן הִיא; וְאֵימָא: וּבִזְמַן שֶׁאָמַר לוֹ: ״הוּא וְכֹל מַה שֶּׁרָאוּי לִהְיוֹת עָלָיו״.
+*Translation:* The Gemara answers: **Actually,** the **dispute** applies **when** the vessels **are not on** the donkey, **and** the *baraita* **is** in accordance with the opinion of **the Rabbis, and** the language of the *baraita* should be emended to **say: And when he said to him:** I am selling **it and everything that is fit to be on it,** i.e., those items usually found on a donkey, everything is sold.
+
+**11.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, רַבִּי יְהוּדָה אוֹמֵר: פְּעָמִים מְכוּרִין, פְּעָמִים שֶׁאֵינָן מְכוּרִין. מַאי, לָאו אַמַּאי דְּקָאָמַר תַּנָּא קַמָּא קָאֵי רַבִּי יְהוּדָה? לָא, רַבִּי יְהוּדָה
+*Translation:* The Gemara suggests another proof: **Come** and **hear** a solution from the mishna. **Rabbi Yehuda says:** There are **times** when the vessels **are sold,** and there are **times when they are not sold. What, is it not** the case **that Rabbi Yehuda is referring to that which the first *tanna* said?** If so, the dispute between the Rabbis and Naḥum the Mede must be referring to a case where the vessels are on the donkey, as Rabbi Yehuda addresses the same set of circumstances. The Gemara rejects this proof: **No, Rabbi Yehuda**
+
+
+---
+
+### Bava Batra 78b
+
+**1.**
+*Hebrew/Aramaic:* מִלְּתָא אַחֲרִיתִי קָאָמַר.
+*Translation:* **was speaking of a different matter** and was not necessarily addressing the same case discussed in the beginning of the mishna.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי, תָּא שְׁמַע: מָכַר אֶת הַקָּרוֹן – לֹא מָכַר אֶת הַפְּרָדוֹת. וְתָנֵי רַב תַּחְלִיפָא בַּר מַעְרְבָא קַמֵּיהּ דְּרַבִּי אֲבָהוּ: מָכַר אֶת הַקָּרוֹן – מָכַר אֶת הַפְּרָדוֹת. וַאֲמַר לֵיהּ: וְהָא אֲנַן ״לֹא מָכַר״ תְּנַן! וַאֲמַר לֵיהּ: אִיסְמְיַיהּ? וַאֲמַר לֵיהּ: לָא, תִּתַּרְגֵּם מַתְנִיתָךְ בַּאֲדוּקִים בּוֹ.
+*Translation:* **Ravina said to Rav Ashi: Come** and **hear** a resolution of the dilemma, as it was taught in the previous mishna: If one **sold a wagon he has not sold the mules** that pull the wagon. **And Rav Taḥlifa, from the West,** i.e., Eretz Yisrael, **taught** a *baraita* **before Rabbi Abbahu:** If one **sold a wagon, he has sold the mules** along with it. **And** Rabbi Abbahu **said to him: But didn’t we learn** in the mishna that **he has not sold** the mules? **And** Rav Taḥlifa **said to him: Should I erase** this *baraita*? **And** Rabbi Abbahu **said to him: No,** you should **explain** that **your *baraita*** is referring to a case **where** the mules **are fastened to** the wagon.
+
+**3.**
+*Hebrew/Aramaic:* מִכְּלָל דְּמַתְנִיתִין בְּשֶׁאֵין אֲדוּקִים בּוֹ; וּמִדְּרֵישָׁא בְּשֶׁאֵין עוֹדָן עָלָיו – סֵיפָא נָמֵי בְּשֶׁאֵין עוֹדָן עָלָיו!
+*Translation:* One can learn **by inference** from Rabbi Abbahu’s statement **that the mishna** is referring to a situation **where** the mules **are not fastened to** the wagon. **And since the first clause,** i.e., the previous mishna, is referring to a case corresponding to **where** the vessels **are not on** the donkey, i.e., the mules are not fastened to the wagon, **the latter clause,** the mishna here, must **also** be referring **to** a situation **where** the vessels **are not on** the donkey.
+
+**4.**
+*Hebrew/Aramaic:* אַדְּרַבָּה – אֵימָא רֵישָׁא: אֲבָל לֹא מָכַר לֹא אֶת הָעֲבָדִים וְלֹא אֶת הָאַנְתִיקֵי. וְאָמְרִינַן, מַאי ״אַנְתִיקֵי״? אָמַר רַב פָּפָּא: עִיסְקָא דִּבְגַוַּהּ. וּמִדְּרֵישָׁא בְּעוֹדָן עָלָיו. סֵיפָא נָמֵי בְּעוֹדָן עָלָיו! אֶלָּא תְּנָא – מִילֵּי מִילֵּי קָתָנֵי.
+*Translation:* The Gemara rejects this proof: **On the contrary, say the first clause,** i.e., the preceding mishna: One who sells a ship sells the mast along with it, **but he has not sold either the slaves or the *antikei*. And we said: What** is the meaning of ***antikei*? Rav Pappa said:** It means **the merchandise that is in** the ship. **But** according to your logic, **since the first clause,** i.e., the mishna concerning the ship, is referring to a case **where** the merchandise **is on** the ship, **the latter clause,** the mishna here, must **also** be referring to a case **where** the vessels **are on** the donkey. **Rather, the *tanna* teaches each statement** individually, and the circumstances of one ruling do not prove that another ruling is referring to a parallel case.
+
+**5.**
+*Hebrew/Aramaic:* [סִימָן: זַגָּם, נִסָּן] אָמַר אַבָּיֵי: רַבִּי אֱלִיעֶזֶר, וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, וְרַבִּי מֵאִיר, וְרַבִּי נָתָן, וְסוֹמְכוֹס, וְנַחוּם הַמָּדִי – כּוּלְּהוּ סְבִירָא לְהוּ: כִּי מְזַבֵּין אִינִישׁ מִידֵּי, אִיהוּ וְכֹל תַּשְׁמִישְׁתֵּיהּ מְזַבֵּין.
+*Translation:* The Gemara provides **a mnemonic** based on the letters of the names of the *tanna’im* who appear here: ***Zayin*, *gimmel*, *mem*; *nun*, *samekh*, *nun*. Abaye said: Rabbi Eliezer, and Rabban Shimon ben Gamliel, and Rabbi Meir, and Rabbi Natan, and Sumakhos, and Naḥum the Mede all hold** that **when a person sells an item, he sells it and all of its accoutrements.**
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר – דִּתְנַן, רַבִּי אֱלִיעֶזֶר אוֹמֵר: הַמּוֹכֵר אֶת בֵּית הַבַּד – מָכַר אֶת הַקּוֹרָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל – דִּתְנַן, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: הַמּוֹכֵר אֶת הָעִיר – מָכַר אֶת הַסַּנְטֵר. רַבִּי מֵאִיר – דְּתַנְיָא, רַבִּי מֵאִיר אוֹמֵר: מָכַר אֶת הַכֶּרֶם – מָכַר תַּשְׁמִישֵׁי הַכֶּרֶם. רַבִּי נָתָן וְסוֹמְכוֹס – בִּיצִּית וְדוּגִית. נַחוּם הַמָּדִי – הָא דַּאֲמַרַן.
+*Translation:* **Rabbi Eliezer** holds this, **as we learned** in a mishna (67b) that **Rabbi Eliezer says: One who sells an olive press has sold the beam** used for pressing the olives, despite the fact that the beam can be removed from the press. **Rabban Shimon ben Gamliel** holds this, **as we learned** in a mishna (68b) that **Rabban Shimon ben Gamliel says: One who sells a city has sold the** city’s **guardsman. Rabbi Meir** holds this, **as it is taught** in a *baraita* that **Rabbi Meir says:** If one **sold a vineyard, he has sold the accoutrements of the vineyard. Rabbi Natan and Sumakhos** hold this, as they state with regard to **the *bitzit* and the *dugit*,** i.e., the light-going boats of the ship, which they claim are sold when the ship is sold (73a). **Naḥum the Mede** holds this, as is evident from **that which we said** in the mishna here.
+
+**7.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: פְּעָמִים מְכוּרִין וְכוּ׳. מַאי שְׁנָא ״חֲמוֹרְךָ זוֹ״, וּמַאי שְׁנָא ״חֲמוֹרְךָ הוּא״?
+*Translation:* § The mishna teaches that **Rabbi Yehuda says:** There are **times** when the vessels **are sold,** and there are times when they are not sold. How so? If the donkey was before him and its vessels were on it, and the buyer said to him: Sell me this donkey of yours, its vessels are sold. If the buyer said: Is the donkey yours? I wish to purchase it, its vessels are not sold. The Gemara asks: **What is different** in a case where the buyer said: Sell me **this donkey of yours, and what is different** in a case where he said: **Is the donkey yours?**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רָבָא: ״חֲמוֹרְךָ זוֹ״ – יָדַע דַּחֲמָרָא דִידֵיהּ הוּא, וְהַאי דְּקָא אָמַר לֵיהּ: ״זוֹ״ – מִשּׁוּם כֵּלָיו קָאָמַר לֵיהּ. ״חֲמוֹרְךָ הוּא״ – דְּלָא יֵדַע דַּחֲמָרָא דִידֵיהּ הוּא, וְהָכִי קָאָמַר לֵיהּ: חֲמוֹרְךָ הוּא – שֶׁתִּמְכְּרֶנָּה לִי?
+*Translation:* **Rava said** that when the buyer says: Sell me **this donkey of yours, he knows that the donkey belongs to** the seller, **and** as for **that which he said to him: This, he said** that **to him due to its vessels.** By contrast, when the buyer says: **Is the donkey yours,** this indicates **that** the buyer **does not know that the donkey belongs to** the seller, **and this** is what **he is saying to him: Is the donkey yours that you can sell it to me?** In this case, he is interested only in the donkey and not its vessels.
+
+**9.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמּוֹכֵר אֶת הַחֲמוֹר – מָכַר אֶת הַסְּיָח. מָכַר אֶת הַפָּרָה – לֹא מָכַר אֶת בְּנָהּ. מָכַר אַשְׁפָּה – מָכַר זִבְלָהּ. מָכַר בּוֹר – מָכַר מֵימֶיהָ. מָכַר כַּוֶּורֶת – מָכַר דְּבוֹרִים. מָכַר שׁוֹבָךְ – מָכַר יוֹנִים.
+*Translation:* MISHNA: **One who sells** a female **donkey has sold** its **foal** along with it. But one who **sold a cow has not sold its young.** One who **sold a dunghill has sold its manure.** One who **sold a cistern has sold its water.** One who **sold a beehive has sold the bees** in it, and likewise one who **sold a dovecote has sold** the **doves.**
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ הֵיכִי דָמֵי? אִי דְּאָמַר לֵיהּ: ״הִיא וּבְנָהּ״ – אֲפִילּוּ פָּרָה וּבְנָהּ נָמֵי! אִי דְּלָא אָמַר לֵיהּ ״הִיא וּבְנָהּ״ – אֲפִילּוּ חֲמוֹר נָמֵי לָא!
+*Translation:* GEMARA: The mishna teaches that if one sells a donkey he has sold its foal, but if one sells a cow he has not sold its calf. The Gemara asks: **What are the circumstances? If** this is a case **where** the seller **says to the** buyer that he is selling **it and its young, even the cow and its young** should be sold **as well. If** this is a case **where he does not say to him** that he is selling **it and its young, even the donkey** should **not** be sold with its foal.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: דְּאָמַר לֵיהּ: ״חֲמוֹר מְנִיקָה וּפָרָה מְנִיקָה אֲנִי מוֹכֵר לָךְ״; בִּשְׁלָמָא פָּרָה – אִיכָּא לְמֵימַר לַחֲלָבָהּ בָּעֵי לַהּ; אֶלָּא חֲמוֹר – מַאי קָאָמַר לֵיהּ? שְׁמַע מִינַּהּ – הִיא וּבְנָהּ קָאָמַר לֵיהּ; וְאַמַּאי קָרֵי לֵיהּ ״סְיָח״ – שֶׁמְּהַלֵּךְ אַחַר סִיחָה נָאָה.
+*Translation:* **Rav Pappa said:** This is referring to a case **where** the seller **said to the** buyer: **I am selling you a nursing donkey, or:** I am selling you **a nursing cow. Granted,** with regard to the **cow, one could say that he needs it for its milk,** and the suckling calf would not necessarily be included in the sale. **But** with regard to the **donkey,** for **what** reason **is he saying to him** that the donkey is nursing? Since he does not need the milk of a donkey, **learn from here** that **he is saying to him** that he is selling **it and its young.** The Gemara adds tangentially: **And why** does the mishna **call** a donkey foal **a *seyaḥ*?** It is **because it follows after** and obeys **pleasant talk [*siḥa*],** whereas an old donkey must be led forcibly.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָן אָמַר רַבִּי יוֹחָנָן, מַאי דִּכְתִיב: ״עַל כֵּן יֹאמְרוּ הַמֹּשְׁלִים וְגוֹ׳״?
+*Translation:* The Gemara cites a related discussion. **Rabbi Shmuel bar Naḥman says** that **Rabbi Yoḥanan says: What** is the meaning of that **which is written: “Therefore they that speak in parables [*hamoshlim*] say:** Come to Heshbon! Let the city [*ir*] of Sihon be built and established! For a fire is gone out of Heshbon, a flame from the city of Sihon; it has devoured Ar of Moab, the lords of the high places of Arnon” (Numbers 21:27–28)?
+
+**13.**
+*Hebrew/Aramaic:* ״הַמֹּשְׁלִים״ – אֵלּוּ הַמּוֹשְׁלִים בְּיִצְרָם. ״בּוֹאוּ חֶשְׁבּוֹן״ – בּוֹאוּ וּנְחַשֵּׁב חֶשְׁבּוֹנוֹ שֶׁל עוֹלָם; הֶפְסֵד מִצְוָה כְּנֶגֶד שְׂכָרָהּ, וּשְׂכַר עֲבֵירָה כְּנֶגֶד הֶפְסֵדָהּ.
+*Translation:* The Gemara interprets these verses homiletically. **“*Hamoshlim*”; these are** the people **who rule over [*hamoshlim*] their** evil **inclination.** They will say: **“Come to Heshbon,”** meaning: **Come and let us calculate the account of [*ḥeshbono*] the world,** i.e., the financial **loss** incurred by the fulfillment of **a mitzva in contrast to its reward, and the reward** for committing **a transgression,** i.e., the pleasure and gain received, **in contrast to the loss it** entails.
+
+**14.**
+*Hebrew/Aramaic:* ״תִּבָּנֶה וְתִכּוֹנֵן״ – אִם אַתָּה עוֹשֶׂה כֵּן, תִּבָּנֶה בָּעוֹלָם הַזֶּה וְתִכּוֹנֵן לָעוֹלָם הַבָּא. ״עִיר סִיחוֹן״ – אִם מֵשִׂים אָדָם עַצְמוֹ כְּעַיִר זֶה, שֶׁמְּהַלֵּךְ אַחַר סִיחָה נָאָה – מָה כְּתִיב אַחֲרָיו? ״כִּי אֵשׁ יָצְאָה מֵחֶשְׁבּוֹן וְגוֹ׳״ – תֵּצֵא אֵשׁ מִמְּחַשְּׁבִין, וְתֹאכַל אֶת שֶׁאֵינָן מְחַשְּׁבִין.
+*Translation:* **“Let it be built and established”** means that **if you** make this calculation, **you will be built in this world and you will be established in the World-to-Come.** The phrase **“city [*ir*] of Sihon”** means that **if a person fashions himself like this young donkey [*ayir*] that follows after pleasant talk [*siḥa*],** i.e., if one is easily tempted to listen to his inclination, **what is written after it? “For a fire is gone out of Heshbon…**it has devoured,” i.e., **a fire will go out from** those **who calculate** the effect of their deeds in the world, **and will consume those who do not calculate** and examine their ways but instead do as they please.
+
+**15.**
+*Hebrew/Aramaic:* ״וְלֶהָבָה מִקִּרְיַת סִיחֹן״ – מִקִּרְיַת צַדִּיקִים שֶׁנִּקְרְאוּ ״שִׂיחִין״. ״אָכְלָה עָר מוֹאָב״ – זֶה הַמְהַלֵּךְ אַחַר יִצְרוֹ, כְּעַיִר זֶה שֶׁמְּהַלֵּךְ אַחַר סִיחָה נָאָה. ״בַּעֲלֵי בָּמוֹת אַרְנֹן״ – אֵלּוּ גַּסֵּי הָרוּחַ, דְּאָמַר מָר: כׇּל אָדָם שֶׁיֵּשׁ בּוֹ גַּסּוּת הָרוּחַ, נוֹפֵל בְּגֵיהִנָּם.
+*Translation:* A similar interpretation applies to the continuation of the verse: **“A flame from the city of Sihon”;** this means that a flame will come **from the city of righteous people, who are called trees [*siḥin*]. “It has devoured Ar of Moab”; this** is referring to **one who follows after his inclination like this young donkey [*ayir*] that follows after pleasant talk. “The lords of the high places of Arnon”; this** is referring to **the arrogant. As the Master says: Every person who has arrogance in him will fall into Gehenna.**
+
+**16.**
+*Hebrew/Aramaic:* ״וַנִּירָם״ – אָמַר רָשָׁע: אֵין רָם, ״אָבַד חֶשְׁבּוֹן״ – אָבַד חֶשְׁבּוֹנוֹ שֶׁל עוֹלָם; ״עַד דִּיבֹן״ – אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: הַמְתֵּן עַד שֶׁיָּבֹא דִּין, ״וַנַּשִּׁים
+*Translation:* The Gemara interprets a subsequent verse: “We have shot at them [*vanniram*], Heshbon is perished, even until Dibon, and we have laid waste even until Nophah, which reaches until Medeba” (Numbers 21:30). **“*Vanniram*”;** this indicates that the **wicked** person **says: There is no higher [*ein ram*]** power governing the world. **“Heshbon is perished”** means: **The account [*ḥeshbon*] of the world has perished,** i.e., they claim there is no accountability for one’s actions. **“Even until Dibon [*divon*]”; the Holy One, Blessed be He, says: Wait until judgment comes [*yavo din*]. “And we have laid waste**

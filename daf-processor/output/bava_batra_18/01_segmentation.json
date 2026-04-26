@@ -1,0 +1,633 @@
+{
+  "masechta": "Bava Batra",
+  "daf": 18,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "Introduction and the Cistern Debate: Abaye vs. Rava on Distancing Requirements",
+      "display_title": "Cistern Debate",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Overview of Perek Shnayim and the Core Issue of Boundary-Line Distancing",
+          "display_title": "Perek Overview",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Abaye's Position: Distancing Required Only When Existing Structure Threatened",
+          "display_title": "Abaye's Position",
+          "timestamp": "01:01"
+        },
+        {
+          "title": "Rava's Position: Mandatory Distancing Even Without Existing Structure",
+          "display_title": "Rava's Position",
+          "timestamp": "01:16"
+        }
+      ]
+    },
+    {
+      "title": "Soft Ground Case (Sela HaBa'ah BeYadayim) and the Nature of the Obligation",
+      "display_title": "Soft Ground Case",
+      "timestamp": "01:46",
+      "micro_segments": [
+        {
+          "title": "Presentation of the Soft Ground Scenario and Initial Proof",
+          "display_title": "Soft Ground Setup",
+          "timestamp": "01:46"
+        },
+        {
+          "title": "Gemara's Qualification: Why Soft Ground Is a Special Case",
+          "display_title": "Soft Ground Exception",
+          "timestamp": "02:39"
+        },
+        {
+          "title": "The Chiddush of Three Tefachim Distance Even in Soft Ground",
+          "display_title": "Three Tefachim Rule",
+          "timestamp": "03:16"
+        }
+      ]
+    },
+    {
+      "title": "Heat-Based Damages: Plaster, Salt, Rocks, and the Inference to Boundary-Line Distancing",
+      "display_title": "Heat-Based Damages",
+      "timestamp": "04:07",
+      "micro_segments": [
+        {
+          "title": "Mishna on Distancing Heat-Producing Materials from Walls",
+          "display_title": "Heat Materials Mishna",
+          "timestamp": "04:07"
+        },
+        {
+          "title": "Gemara's Reading: Distance from Boundary Line Even Without Wall",
+          "display_title": "Boundary Line Reading",
+          "timestamp": "04:57"
+        },
+        {
+          "title": "Deriving the Underlying Problem: Heat as Damage Source",
+          "display_title": "Heat as Damage",
+          "timestamp": "05:00"
+        }
+      ]
+    },
+    {
+      "title": "Moisture and Moisture-Based Damages: Seeds, Plowing, and Urinating",
+      "display_title": "Moisture Damages",
+      "timestamp": "06:18",
+      "micro_segments": [
+        {
+          "title": "Mishna on Moisture-Based Damages from Seeds and Urination",
+          "display_title": "Moisture Mishna",
+          "timestamp": "06:18"
+        },
+        {
+          "title": "Gemara's Application: Moisture Is the Underlying Problem",
+          "display_title": "Moisture Problem",
+          "timestamp": "06:35"
+        }
+      ]
+    },
+    {
+      "title": "Vibration-Based Damages: Millstones and Ground Tremors",
+      "display_title": "Vibration Damages",
+      "timestamp": "07:29",
+      "micro_segments": [
+        {
+          "title": "Mishna on Millstone Distance from Walls",
+          "display_title": "Millstone Mishna",
+          "timestamp": "07:29"
+        },
+        {
+          "title": "Gemara Identifies Vibration as Underlying Damage Source",
+          "display_title": "Vibration Source",
+          "timestamp": "07:57"
+        }
+      ]
+    },
+    {
+      "title": "Heat Damage from Ovens and the Pattern of Concrete Problem Identification",
+      "display_title": "Oven Heat Damage",
+      "timestamp": "09:07",
+      "micro_segments": [
+        {
+          "title": "Mishna on Oven Distance from Walls and Lower/Upper Plaster",
+          "display_title": "Oven Mishna",
+          "timestamp": "09:07"
+        },
+        {
+          "title": "Gemara's Inference: Heat Problem Applies to All Cases",
+          "display_title": "Heat Problem Inference",
+          "timestamp": "09:29"
+        }
+      ]
+    },
+    {
+      "title": "The Dira (Domicile) Exception: Bakeries and Stables and the Limit of Distancing Obligation",
+      "display_title": "Dira Exception",
+      "timestamp": "10:07",
+      "micro_segments": [
+        {
+          "title": "Mishna on Bakeries and Stables Below Storehouses",
+          "display_title": "Bakery/Stable Mishna",
+          "timestamp": "10:07"
+        },
+        {
+          "title": "Gemara's Key Ruling: Dira Shani—Exception for Basic Structures",
+          "display_title": "Dira Exception",
+          "timestamp": "11:42"
+        },
+        {
+          "title": "Rashi's Explanation: Not Limiting Dwelling When No Direct Damage Proven",
+          "display_title": "Rashi on Dira",
+          "timestamp": "12:41"
+        },
+        {
+          "title": "Baraita Evidence: Stable First and Warehouse Later—Permitted Under Dira",
+          "display_title": "Stable First Rule",
+          "timestamp": "14:02"
+        }
+      ]
+    },
+    {
+      "title": "Trees and Vineyards: Space Needed for Vineyard Work (Avodat HaKerem)",
+      "display_title": "Vineyard Work Space",
+      "timestamp": "15:31",
+      "micro_segments": [
+        {
+          "title": "Mishna on Tree Planting Distance from Grain Fields",
+          "display_title": "Tree Distance Mishna",
+          "timestamp": "15:31"
+        },
+        {
+          "title": "Baraita on Four Amot: Space Needed for Vineyard Labor",
+          "display_title": "Vineyard Labor Space",
+          "timestamp": "15:47"
+        },
+        {
+          "title": "Gemara Question: Why Distance Requirement Without Concrete Grain Field?",
+          "display_title": "Distance Without Field",
+          "timestamp": "17:05"
+        },
+        {
+          "title": "Rock Barrier Exception: When Roots Cannot Spread, Labor Space Is Only Concern",
+          "display_title": "Rock Barrier Case",
+          "timestamp": "18:03"
+        },
+        {
+          "title": "Wall Between Properties: Vineyard and Grain Field at Boundary",
+          "display_title": "Wall Between Properties",
+          "timestamp": "19:29"
+        },
+        {
+          "title": "Roots Crossing Boundary: Three-Tefach Digging Right and Root Removal",
+          "display_title": "Root Removal Right",
+          "timestamp": "20:00"
+        }
+      ]
+    },
+    {
+      "title": "Roots Spreading Twenty-Five Amot: Long-Distance Root Damage to Cisterns",
+      "display_title": "Long-Distance Roots",
+      "timestamp": "22:04",
+      "micro_segments": [
+        {
+          "title": "Mishna on Tree Distance from Cistern: Twenty-Five Amot",
+          "display_title": "Tree-Cistern Mishna",
+          "timestamp": "22:04"
+        },
+        {
+          "title": "Gemara Challenge: Does Rava Require This Distance Even Without Cistern?",
+          "display_title": "Distance Without Cistern",
+          "timestamp": "22:32"
+        },
+        {
+          "title": "Exception for Pre-Existing Trees: Purchaser (Lokayach) Doctrine",
+          "display_title": "Purchaser Exception",
+          "timestamp": "24:01"
+        }
+      ]
+    },
+    {
+      "title": "Smell-Based and Reciprocal Damages: Flax, Vegetables, Cress, Onions, and Mustard-Bee Debate",
+      "display_title": "Smell & Reciprocal",
+      "timestamp": "26:22",
+      "micro_segments": [
+        {
+          "title": "Mishna on Distancing Flax Soaking, Seeds, Cress, Onions, and Mustard",
+          "display_title": "Smell Damages",
+          "timestamp": "26:22"
+        },
+        {
+          "title": "Gemara Pattern: Underlying Problem Identified, Distance Rule Applies Broadly",
+          "display_title": "Problem Pattern",
+          "timestamp": "27:28"
+        },
+        {
+          "title": "Rabbi Yossi's Position: Mustard and Bees—Mutual Damage Exception",
+          "display_title": "Rabbi Yossi Bees",
+          "timestamp": "28:41"
+        },
+        {
+          "title": "Gemara Question: How Can Bee Enterprise Exist at Boundary if Distance Required?",
+          "display_title": "Boundary Existence",
+          "timestamp": "31:32"
+        }
+      ]
+    },
+    {
+      "title": "Reframing Abaye and Rava: Tosafot's Reading—Mazik Responsibility with Purchaser Caveat",
+      "display_title": "Tosafot Reframe",
+      "timestamp": "39:01",
+      "micro_segments": [
+        {
+          "title": "Tosafot's Alternative Reading: Rabbanan Hold Al HaMazik—Damager Responsible",
+          "display_title": "Damager Responsible",
+          "timestamp": "39:01"
+        },
+        {
+          "title": "Cistern Exception: Direct Property Damage Even Without Existing Threat",
+          "display_title": "Cistern Direct Damage",
+          "timestamp": "39:29"
+        },
+        {
+          "title": "All Other Cases: Distance Only When Concrete Structure Exists",
+          "display_title": "Concrete Structure",
+          "timestamp": "40:00"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yossi vs. Rabbanan on Responsibility: Nizak vs. Mazik in Mustard-Bee Case",
+      "display_title": "Nizak vs Mazik",
+      "timestamp": "41:49",
+      "micro_segments": [
+        {
+          "title": "Gemara Debate: Is Responsibility on Damager (Mazik) or Damaged (Nizak)?",
+          "display_title": "Responsibility Debate",
+          "timestamp": "41:49"
+        },
+        {
+          "title": "Rabbi Yossi: Responsibility on Nizak—Master Your Property, Others Move",
+          "display_title": "Rabbi Yossi Nizak",
+          "timestamp": "45:04"
+        },
+        {
+          "title": "Rabbanan: Responsibility on Mazik—Damager Must Distance Self",
+          "display_title": "Rabbanan Mazik",
+          "timestamp": "46:26"
+        },
+        {
+          "title": "Rabbi Yossi's Mustard-Bee Argument: Mutual Damage Exception Within Mazik Framework",
+          "display_title": "Mutual Damage",
+          "timestamp": "47:29"
+        },
+        {
+          "title": "Rabbanan's Rebuttal: Bees Don't Truly Damage Mustard—Seeds Not Eaten, Leaves Regrow",
+          "display_title": "Damage Threshold",
+          "timestamp": "47:37"
+        }
+      ]
+    },
+    {
+      "title": "Summary and Unresolved Tensions: Balancing Anticipatory Rights and Property Freedom",
+      "display_title": "Summary & Tensions",
+      "timestamp": "50:05",
+      "micro_segments": [
+        {
+          "title": "Remaining Question: Does 'First in Time' Matter, and How Does Lokayach Doctrine Apply?",
+          "display_title": "First in Time",
+          "timestamp": "50:05"
+        },
+        {
+          "title": "Core Debate Restatement: Mazik vs. Nizak Responsibility and When Distance Applies",
+          "display_title": "Core Debate",
+          "timestamp": "51:06"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "01:01",
+        "01:16",
+        "39:01"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "01:16",
+        "23:02",
+        "39:01"
+      ]
+    },
+    {
+      "term": "Shlosha Tefachim (Three Tefachim Distance)",
+      "timestamps": [
+        "00:56",
+        "01:06",
+        "01:22",
+        "02:14",
+        "02:16",
+        "02:20",
+        "03:40",
+        "03:48",
+        "06:30",
+        "09:13",
+        "20:28",
+        "20:31"
+      ]
+    },
+    {
+      "term": "Cistern (Bor)",
+      "timestamps": [
+        "00:32",
+        "00:42",
+        "00:46",
+        "22:05",
+        "22:32",
+        "39:29"
+      ]
+    },
+    {
+      "term": "Boundary Line Distance Requirement",
+      "timestamps": [
+        "00:22",
+        "01:22",
+        "02:33",
+        "05:01",
+        "06:04",
+        "12:23",
+        "13:41",
+        "15:19",
+        "17:05",
+        "23:02",
+        "34:04",
+        "40:00"
+      ]
+    },
+    {
+      "term": "Sela HaBa'ah BeYadayim (Soft Ground)",
+      "timestamps": [
+        "01:54",
+        "02:01",
+        "02:39",
+        "02:45"
+      ]
+    },
+    {
+      "term": "Heat Damage",
+      "timestamps": [
+        "04:15",
+        "04:29",
+        "08:00",
+        "08:17",
+        "09:48",
+        "09:55"
+      ]
+    },
+    {
+      "term": "Moisture Damage",
+      "timestamps": [
+        "06:55",
+        "06:59",
+        "07:02"
+      ]
+    },
+    {
+      "term": "Vibration (Tiraya) / Ground Tremor Damage",
+      "timestamps": [
+        "08:17",
+        "08:21",
+        "08:26"
+      ]
+    },
+    {
+      "term": "Dira (Domicile/Basic Structure)",
+      "timestamps": [
+        "11:58",
+        "11:42",
+        "12:03",
+        "12:15",
+        "12:26",
+        "13:35"
+      ]
+    },
+    {
+      "term": "Avodat HaKerem (Vineyard Labor Space)",
+      "timestamps": [
+        "15:52",
+        "16:01",
+        "16:25",
+        "17:21",
+        "17:53",
+        "19:06"
+      ]
+    },
+    {
+      "term": "Arba Amot (Four Amot)",
+      "timestamps": [
+        "15:43",
+        "15:47",
+        "16:01"
+      ]
+    },
+    {
+      "term": "Esrim VeChamesh Ama (Twenty-Five Amot)",
+      "timestamps": [
+        "22:09",
+        "22:16",
+        "22:20",
+        "22:26",
+        "22:30",
+        "22:41",
+        "23:07",
+        "23:26",
+        "23:41",
+        "23:44",
+        "23:45",
+        "24:03"
+      ]
+    },
+    {
+      "term": "Lokayach (Purchaser Doctrine)",
+      "timestamps": [
+        "25:01",
+        "25:04",
+        "25:06",
+        "35:36"
+      ]
+    },
+    {
+      "term": "Rabbi Yossi (Rabbi Yose)",
+      "timestamps": [
+        "28:41",
+        "28:57",
+        "31:16",
+        "32:05",
+        "34:37",
+        "34:40",
+        "34:43",
+        "34:49",
+        "35:11",
+        "36:04",
+        "36:51",
+        "38:05",
+        "42:02",
+        "42:07",
+        "42:13",
+        "42:26",
+        "42:49",
+        "43:34",
+        "44:02",
+        "44:06",
+        "45:04",
+        "45:08",
+        "45:21",
+        "45:39",
+        "45:49",
+        "46:00",
+        "46:07",
+        "46:18"
+      ]
+    },
+    {
+      "term": "Mazik (Damager) Responsibility",
+      "timestamps": [
+        "29:02",
+        "39:09",
+        "39:15",
+        "40:03",
+        "40:51",
+        "41:13",
+        "42:00",
+        "43:05",
+        "46:15",
+        "46:53"
+      ]
+    },
+    {
+      "term": "Nizak (Damaged Party) Responsibility",
+      "timestamps": [
+        "28:59",
+        "29:02",
+        "45:04",
+        "45:08",
+        "45:39",
+        "46:07",
+        "46:26"
+      ]
+    },
+    {
+      "term": "Mustard and Bees Debate",
+      "timestamps": [
+        "28:41",
+        "29:11",
+        "29:15",
+        "31:16",
+        "32:05",
+        "33:00",
+        "34:37",
+        "34:40",
+        "36:02",
+        "36:51",
+        "39:36",
+        "40:19",
+        "41:13",
+        "41:40",
+        "42:13",
+        "42:26",
+        "42:49",
+        "43:34",
+        "44:02",
+        "44:06",
+        "44:48",
+        "47:18",
+        "47:29"
+      ]
+    },
+    {
+      "term": "Mutual Damage (Tarvayu Mazki Ahadadi)",
+      "timestamps": [
+        "43:34",
+        "43:36",
+        "47:18",
+        "47:20"
+      ]
+    },
+    {
+      "term": "Flax and Vegetables",
+      "timestamps": [
+        "27:22",
+        "27:36",
+        "35:57",
+        "38:01",
+        "42:24",
+        "42:27",
+        "42:49",
+        "43:16",
+        "43:21"
+      ]
+    },
+    {
+      "term": "Tosafot's Reading/Reinterpretation",
+      "timestamps": [
+        "39:01",
+        "39:05",
+        "39:26"
+      ]
+    },
+    {
+      "term": "Chiddush (Novel Teaching)",
+      "timestamps": [
+        "03:07",
+        "03:40",
+        "21:14",
+        "31:20"
+      ]
+    },
+    {
+      "term": "Direct Damage (Hazek Karov)",
+      "timestamps": [
+        "39:20",
+        "39:29",
+        "40:07",
+        "46:06"
+      ]
+    },
+    {
+      "term": "First in Time / Who Comes First",
+      "timestamps": [
+        "14:15",
+        "14:21",
+        "26:00",
+        "29:46",
+        "29:49",
+        "29:51",
+        "33:38",
+        "43:38",
+        "44:01",
+        "50:20"
+      ]
+    },
+    {
+      "term": "Samuch (Placing Right Up to Boundary)",
+      "timestamps": [
+        "01:12",
+        "03:00",
+        "05:01",
+        "05:03",
+        "06:40",
+        "06:43",
+        "08:04",
+        "08:06",
+        "09:38",
+        "09:40",
+        "20:38",
+        "22:35",
+        "22:38"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "masechta": "Bava Metzia",
+  "daf": 112,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "Framework of Timely Wage Payment and the Scope of the Obligation",
+      "display_title": "Wage Payment Framework",
+      "timestamp": "00:08",
+      "micro_segments": [
+        {
+          "title": "The Basic Structure: Day Workers and Night Workers",
+          "display_title": "Day/Night Workers",
+          "timestamp": "00:08"
+        },
+        {
+          "title": "Extension of the Prohibition to Non-Jews and Rental of Vessels",
+          "display_title": "Non-Jews & Vessels",
+          "timestamp": "01:14"
+        },
+        {
+          "title": "Textual Derivations: The Words אתך and ואליו הוא נושא את נפשו",
+          "display_title": "Textual Analysis",
+          "timestamp": "04:24"
+        }
+      ]
+    },
+    {
+      "title": "The Moral Imperative: Rabbinic Elaborations on the Poignancy of Non-Payment",
+      "display_title": "Moral Imperative",
+      "timestamp": "04:59",
+      "micro_segments": [
+        {
+          "title": "Rabbi Assi on Even a Single Cluster of Grapes",
+          "display_title": "Single Cluster",
+          "timestamp": "04:59"
+        },
+        {
+          "title": "The Baraita on ואליו הוא נושא את נפשו: The Worker Risking Life for Wages",
+          "display_title": "Worker Risks Life",
+          "timestamp": "06:33"
+        },
+        {
+          "title": "Rav Huna and Rav Chisda: The Gazan's Soul vs. the Robbed Person's Soul",
+          "display_title": "Huna/Chisda Dispute",
+          "timestamp": "08:28"
+        },
+        {
+          "title": "Alternative Reading: Taking the Poor Person's Soul Through Theft",
+          "display_title": "Stealing Soul",
+          "timestamp": "10:08"
+        }
+      ]
+    },
+    {
+      "title": "Conditions for Transgression: Demand, Payment Ability, and Arrangement with Third Parties",
+      "display_title": "Conditions & Arrangements",
+      "timestamp": "13:28",
+      "micro_segments": [
+        {
+          "title": "Only Upon Demand: אימתי בזמן שתבעו",
+          "display_title": "Upon Demand",
+          "timestamp": "13:28"
+        },
+        {
+          "title": "Lack of Available Funds: The Debate on אתך (With You)",
+          "display_title": "Available Funds",
+          "timestamp": "17:10"
+        },
+        {
+          "title": "Arrangement with Storekeeper or Money Changer",
+          "display_title": "Third-Party Payment",
+          "timestamp": "18:02"
+        },
+        {
+          "title": "Can the Worker Retract (Chozer) from the Arrangement?",
+          "display_title": "Worker Retraction",
+          "timestamp": "20:51"
+        }
+      ]
+    },
+    {
+      "title": "Kablanut (Contractor Work) and Whether the Prohibition Applies",
+      "display_title": "Kablanut",
+      "timestamp": "24:11",
+      "micro_segments": [
+        {
+          "title": "The Question: Does Bal Talin Apply to Kablanut or Only to Shechirot?",
+          "display_title": "Bal Talin Applies?",
+          "timestamp": "24:11"
+        },
+        {
+          "title": "Uman Koneh B'Shvach Kli: Does the Craftsman Own the Improvement?",
+          "display_title": "Craftsman Ownership",
+          "timestamp": "25:37"
+        },
+        {
+          "title": "Reconciling Rav Sheshet's Position with the Baraita",
+          "display_title": "Sheshet Reconciliation",
+          "timestamp": "28:26"
+        },
+        {
+          "title": "The Case of the Talit: When Is the Work Considered Complete?",
+          "display_title": "Talit Completion",
+          "timestamp": "28:52"
+        }
+      ]
+    },
+    {
+      "title": "The Worker's Oath and the Rabbinic Takana to Protect Employees",
+      "display_title": "Worker's Oath Takana",
+      "timestamp": "32:53",
+      "micro_segments": [
+        {
+          "title": "The Takana: Inverting the Normal Rule to Allow the Worker to Swear",
+          "display_title": "Oath Inversion",
+          "timestamp": "32:53"
+        },
+        {
+          "title": "Why This Takana: Economic Reality and Balancing Interests",
+          "display_title": "Economic Balance",
+          "timestamp": "36:51"
+        },
+        {
+          "title": "The Employer's Distraction and the Presumption of Honesty",
+          "display_title": "Employer Distraction",
+          "timestamp": "40:11"
+        }
+      ]
+    },
+    {
+      "title": "Limitations on the Oath: The Time Period and Presence of Witnesses",
+      "display_title": "Oath Limitations",
+      "timestamp": "45:08",
+      "micro_segments": [
+        {
+          "title": "Only During the Proper Time Period (Bizmano)",
+          "display_title": "Proper Time Period",
+          "timestamp": "45:08"
+        },
+        {
+          "title": "Assumptions When the Time Period Has Passed",
+          "display_title": "Post-Period Assumption",
+          "timestamp": "46:27"
+        },
+        {
+          "title": "The Role of Witnesses to Establish Timely Demand",
+          "display_title": "Witness Requirement",
+          "timestamp": "50:02"
+        },
+        {
+          "title": "How Long Can the Claim Be Delayed After Witnesses Testify to the Demand?",
+          "display_title": "Delay After Witnesses",
+          "timestamp": "51:13"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "ביומו תתן שכרו / Bayomo titein secharo",
+      "timestamps": [
+        "00:12",
+        "00:35",
+        "01:02",
+        "05:40",
+        "14:16",
+        "31:20",
+        "32:21"
+      ]
+    },
+    {
+      "term": "בל תלין / Bal talin",
+      "timestamps": [
+        "00:27",
+        "01:02",
+        "05:04",
+        "24:11",
+        "28:07",
+        "47:04",
+        "47:33",
+        "48:56"
+      ]
+    },
+    {
+      "term": "לא תלין פעולת שכיר / Lo talin peulat sachir",
+      "timestamps": [
+        "00:27",
+        "04:40",
+        "14:14"
+      ]
+    },
+    {
+      "term": "גר תושב / Ger toshav",
+      "timestamps": [
+        "01:23",
+        "01:39",
+        "01:52",
+        "01:55"
+      ]
+    },
+    {
+      "term": "אתך / Itcha (with you)",
+      "timestamps": [
+        "01:45",
+        "04:45",
+        "05:50",
+        "17:10",
+        "17:21",
+        "18:54"
+      ]
+    },
+    {
+      "term": "אשכול ענבים / Single cluster of grapes",
+      "timestamps": [
+        "05:02",
+        "05:33"
+      ]
+    },
+    {
+      "term": "ואליו הוא נושא את נפשו / He gives his life for this",
+      "timestamps": [
+        "01:19",
+        "05:47",
+        "06:11",
+        "07:26",
+        "08:07"
+      ]
+    },
+    {
+      "term": "ומסר עצמו למיתה / Willing to risk life",
+      "timestamps": [
+        "06:58"
+      ]
+    },
+    {
+      "term": "Rabbi Assi",
+      "timestamps": [
+        "04:59"
+      ]
+    },
+    {
+      "term": "Rav Huna and Rav Chisda",
+      "timestamps": [
+        "08:28",
+        "09:01"
+      ]
+    },
+    {
+      "term": "Gazlan (thief) vs. Nigzal (robbed)",
+      "timestamps": [
+        "08:34",
+        "09:01",
+        "09:06"
+      ]
+    },
+    {
+      "term": "בצע / Ill-gotten gain",
+      "timestamps": [
+        "10:19",
+        "10:31"
+      ]
+    },
+    {
+      "term": "תבעו בזמנו / Demand during proper time",
+      "timestamps": [
+        "13:28",
+        "13:33",
+        "16:54"
+      ]
+    },
+    {
+      "term": "שיש אתך / That you have (available funds)",
+      "timestamps": [
+        "17:21"
+      ]
+    },
+    {
+      "term": "חנווני / Storekeeper",
+      "timestamps": [
+        "18:02",
+        "20:42",
+        "21:35",
+        "21:42",
+        "21:44"
+      ]
+    },
+    {
+      "term": "שולחני / Money changer",
+      "timestamps": [
+        "18:40",
+        "18:58"
+      ]
+    },
+    {
+      "term": "חוזר / Can retract",
+      "timestamps": [
+        "20:54",
+        "21:32",
+        "21:38",
+        "21:56",
+        "21:58",
+        "22:10",
+        "22:12"
+      ]
+    },
+    {
+      "term": "קבלנות / Contractor work",
+      "timestamps": [
+        "24:11",
+        "24:28",
+        "24:42",
+        "27:06",
+        "27:25",
+        "30:08"
+      ]
+    },
+    {
+      "term": "אומן קונה בשבח כלי / Craftsman owns the improvement",
+      "timestamps": [
+        "25:37",
+        "25:54",
+        "26:30",
+        "27:03",
+        "28:11",
+        "29:58",
+        "30:10"
+      ]
+    },
+    {
+      "term": "שכירות / Wage work",
+      "timestamps": [
+        "24:28",
+        "26:24",
+        "27:25",
+        "29:53",
+        "30:08",
+        "32:09"
+      ]
+    },
+    {
+      "term": "סרבלא / Thick cloth",
+      "timestamps": [
+        "30:23",
+        "30:28",
+        "30:47",
+        "30:51"
+      ]
+    },
+    {
+      "term": "שכיר / Worker, employee",
+      "timestamps": [
+        "00:19",
+        "13:28",
+        "14:16",
+        "28:54",
+        "32:53",
+        "36:51",
+        "37:03",
+        "37:04",
+        "37:09",
+        "37:12",
+        "37:18",
+        "38:23",
+        "39:26",
+        "40:01",
+        "40:04",
+        "42:03",
+        "42:15",
+        "42:26",
+        "45:35",
+        "45:46",
+        "48:25",
+        "48:42",
+        "48:46",
+        "49:15",
+        "50:06"
+      ]
+    },
+    {
+      "term": "בעל הבית / Employer, homeowner",
+      "timestamps": [
+        "01:40",
+        "15:07",
+        "15:36",
+        "18:22",
+        "21:36",
+        "22:01",
+        "32:53",
+        "36:51",
+        "37:04",
+        "37:07",
+        "37:09",
+        "37:12",
+        "37:13",
+        "37:14",
+        "37:32",
+        "38:24",
+        "38:26",
+        "38:35",
+        "38:37",
+        "40:12",
+        "40:15",
+        "40:17",
+        "40:32",
+        "40:34",
+        "40:35",
+        "43:46",
+        "43:47",
+        "43:50",
+        "44:10",
+        "44:36",
+        "44:39",
+        "44:42",
+        "44:49",
+        "44:52",
+        "45:00",
+        "45:07",
+        "45:57",
+        "47:04",
+        "47:10",
+        "47:14",
+        "47:52",
+        "47:55",
+        "47:56",
+        "48:27",
+        "48:37",
+        "48:48",
+        "48:49",
+        "48:52",
+        "48:56",
+        "48:58",
+        "49:02",
+        "49:15",
+        "49:51",
+        "49:54"
+      ]
+    },
+    {
+      "term": "שבועה / Oath",
+      "timestamps": [
+        "32:53",
+        "33:45",
+        "34:32",
+        "34:51",
+        "35:00",
+        "35:03",
+        "35:06",
+        "35:08",
+        "35:26",
+        "35:35",
+        "36:26",
+        "36:52",
+        "36:55",
+        "36:57",
+        "36:58",
+        "37:00",
+        "37:24",
+        "37:27",
+        "37:32",
+        "37:35",
+        "38:02",
+        "38:04",
+        "38:27",
+        "40:22",
+        "40:25",
+        "40:46",
+        "41:00",
+        "41:21",
+        "41:29",
+        "42:01",
+        "42:03",
+        "45:19",
+        "45:32",
+        "45:39",
+        "45:46",
+        "50:07",
+        "50:43",
+        "50:52",
+        "51:29",
+        "51:40",
+        "51:45",
+        "52:07"
+      ]
+    },
+    {
+      "term": "תקנה / Rabbinic ordinance",
+      "timestamps": [
+        "34:33",
+        "34:46",
+        "35:03",
+        "35:14",
+        "35:16",
+        "35:21",
+        "35:26",
+        "35:45",
+        "35:48",
+        "36:00",
+        "36:26",
+        "36:51",
+        "37:24",
+        "37:27",
+        "51:45",
+        "51:47"
+      ]
+    },
+    {
+      "term": "כופר בהכל / Complete denier",
+      "timestamps": [
+        "33:16",
+        "33:42",
+        "33:19",
+        "49:54"
+      ]
+    },
+    {
+      "term": "טרוד / Preoccupied, distracted",
+      "timestamps": [
+        "37:03",
+        "37:12",
+        "40:15",
+        "40:32",
+        "40:34",
+        "40:35",
+        "47:10",
+        "47:15"
+      ]
+    },
+    {
+      "term": "עדים / Witnesses",
+      "timestamps": [
+        "41:54",
+        "41:55",
+        "50:02",
+        "50:21",
+        "50:30",
+        "50:35",
+        "50:39",
+        "50:44",
+        "51:17"
+      ]
+    },
+    {
+      "term": "Rav Assi",
+      "timestamps": [
+        "04:59"
+      ]
+    },
+    {
+      "term": "Rav Yose b'Rabbi Yehuda",
+      "timestamps": [
+        "04:38"
+      ]
+    },
+    {
+      "term": "Rashi",
+      "timestamps": [
+        "09:29",
+        "36:04"
+      ]
+    },
+    {
+      "term": "Tosafot / Tosfos",
+      "timestamps": [
+        "05:22",
+        "18:13",
+        "21:50",
+        "21:56",
+        "34:43",
+        "36:42",
+        "39:37"
+      ]
+    },
+    {
+      "term": "Rav Yehuda citing Shmuel",
+      "timestamps": [
+        "34:36",
+        "35:07"
+      ]
+    },
+    {
+      "term": "Rav Papa",
+      "timestamps": [
+        "35:45"
+      ]
+    },
+    {
+      "term": "Rav Mari b'rei d'Rav Kahana",
+      "timestamps": [
+        "30:13"
+      ]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": [
+        "22:30",
+        "22:32",
+        "27:07",
+        "27:27",
+        "28:07",
+        "28:46",
+        "30:13"
+      ]
+    },
+    {
+      "term": "Rabbah",
+      "timestamps": [
+        "22:32",
+        "22:55",
+        "23:02"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "51:13"
+      ]
+    },
+    {
+      "term": "Rav Chama bar Ukva",
+      "timestamps": [
+        "51:55"
+      ]
+    },
+    {
+      "term": "Rav Ashi",
+      "timestamps": [
+        "50:28",
+        "50:30"
+      ]
+    },
+    {
+      "term": "Rav Yosef",
+      "timestamps": [
+        "50:40"
+      ]
+    },
+    {
+      "term": "משנה / Mishnah",
+      "timestamps": [
+        "04:04",
+        "13:28",
+        "20:44",
+        "20:47",
+        "22:43",
+        "32:53",
+        "32:56",
+        "33:03",
+        "46:49",
+        "49:59",
+        "50:02"
+      ]
+    },
+    {
+      "term": "ברייתא / Baraita",
+      "timestamps": [
+        "06:35",
+        "28:32",
+        "28:37",
+        "28:43"
+      ]
+    },
+    {
+      "term": "גמרא / Gemara",
+      "timestamps": [
+        "00:11",
+        "01:11",
+        "01:14",
+        "01:26",
+        "01:31",
+        "01:48",
+        "01:52",
+        "02:02",
+        "02:09",
+        "02:24",
+        "02:27",
+        "03:06",
+        "03:24",
+        "04:24",
+        "04:59",
+        "05:34",
+        "05:47",
+        "05:57",
+        "06:15",
+        "06:26",
+        "06:40",
+        "06:44",
+        "07:26",
+        "07:42",
+        "08:28",
+        "08:47",
+        "08:48",
+        "08:52",
+        "09:03",
+        "09:14",
+        "09:47",
+        "10:07",
+        "10:34",
+        "10:48",
+        "11:07",
+        "13:28",
+        "14:17",
+        "15:07",
+        "15:36",
+        "15:40",
+        "15:52",
+        "19:53",
+        "20:44",
+        "22:25",
+        "22:27",
+        "24:11",
+        "24:34",
+        "25:37",
+        "26:30",
+        "28:05",
+        "28:26",
+        "28:34",
+        "28:37",
+        "28:52",
+        "29:05",
+        "29:23",
+        "29:50",
+        "30:13",
+        "30:27",
+        "30:51",
+        "31:07",
+        "31:35",
+        "32:09",
+        "34:41",
+        "34:46",
+        "34:48",
+        "34:52",
+        "35:00",
+        "35:03",
+        "35:06",
+        "35:14",
+        "35:16",
+        "35:39",
+        "35:47",
+        "36:02",
+        "36:19",
+        "36:26",
+        "36:32",
+        "36:52",
+        "37:06",
+        "37:18",
+        "37:32",
+        "37:36",
+        "37:55",
+        "37:59",
+        "38:02",
+        "38:09",
+        "38:24",
+        "38:37",
+        "38:42",
+        "38:54",
+        "39:16",
+        "39:55",
+        "40:11",
+        "40:37",
+        "40:46",
+        "40:59",
+        "41:00",
+        "41:21",
+        "41:29",
+        "42:09",
+        "42:34",
+        "42:56",
+        "43:05",
+        "43:09",
+        "44:15",
+        "44:34",
+        "44:45",
+        "45:00",
+        "45:08",
+        "45:19",
+        "45:32",
+        "45:39",
+        "46:27",
+        "46:49",
+        "46:59",
+        "47:01",
+        "47:04",
+        "47:10",
+        "47:14",
+        "47:33",
+        "47:51",
+        "48:04",
+        "48:19",
+        "48:20",
+        "48:27",
+        "48:29",
+        "48:40",
+        "48:46",
+        "48:48",
+        "48:56",
+        "49:13",
+        "49:43",
+        "49:50",
+        "50:02",
+        "50:13",
+        "50:15",
+        "50:23",
+        "50:28",
+        "50:40",
+        "50:52",
+        "51:07",
+        "51:13",
+        "51:34",
+        "51:55"
+      ]
+    },
+    {
+      "term": "פשט / Simple reading",
+      "timestamps": [
+        "07:42",
+        "07:55",
+        "12:33",
+        "12:36",
+        "12:48",
+        "13:02"
+      ]
+    },
+    {
+      "term": "דרשה / Homiletical reading",
+      "timestamps": [
+        "07:47",
+        "14:31"
+      ]
+    },
+    {
+      "term": "חזקה / Presumption",
+      "timestamps": [
+        "47:03",
+        "48:48"
+      ]
+    },
+    {
+      "term": "מודה במקצת / Partially admits",
+      "timestamps": [
+        "36:33",
+        "36:44",
+        "36:45",
+        "36:48"
+      ]
+    },
+    {
+      "term": "לא תגזול / Do not steal",
+      "timestamps": [
+        "09:15",
+        "48:27",
+        "48:29"
+      ]
+    },
+    {
+      "term": "עושק / Oppression/overreaching",
+      "timestamps": [
+        "08:48"
+      ]
+    },
+    {
+      "term": "גזילה / Theft",
+      "timestamps": [
+        "08:48"
+      ]
+    }
+  ]
+}

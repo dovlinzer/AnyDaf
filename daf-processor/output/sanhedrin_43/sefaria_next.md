@@ -1,0 +1,81 @@
+### Sanhedrin 44a
+
+**1.**
+*Hebrew/Aramaic:* עָכָן, מַאי טַעְמָא אִיעֲנוּשׁ? מִשּׁוּם דַּהֲווֹ יָדְעִי בֵּיהּ אִשְׁתּוֹ וּבָנָיו.
+*Translation:* **what is the reason** that in the case of **Achan they were punished?** The Gemara answers: Achan’s offense was not a hidden matter **because his wife and children knew about it,** and they did not protest.
+
+**2.**
+*Hebrew/Aramaic:* ״חָטָא יִשְׂרָאֵל״. אָמַר רַבִּי אַבָּא בַּר זַבְדָּא: אַף עַל פִּי שֶׁחָטָא, יִשְׂרָאֵל הוּא. אָמַר רַבִּי אַבָּא: הַיְינוּ דְּאָמְרִי אִינָשֵׁי: אָסָא דְּקָאֵי בֵּינֵי חִלְפֵי, אָסָא שְׁמֵיהּ, וְאָסָא קָרוּ לֵיהּ.
+*Translation:* § When God explained to Joshua the reason for the Jewish people’s defeat at the city of Ai, He said: **“Israel has sinned”** (Joshua 7:11). **Rabbi Abba bar Zavda says:** From here it may be inferred that **even when** the Jewish people **have sinned, they are** still called **“Israel.” Rabbi Abba says: This** is in accordance with the adage **that people say:** Even when **a myrtle is found among thorns, its name is myrtle and** people **call it myrtle.**
+
+**3.**
+*Hebrew/Aramaic:* ״וְגַם עָבְרוּ אֶת בְּרִיתִי אֲשֶׁר צִוִּיתִי אוֹתָם גַּם לָקְחוּ מִן הַחֵרֶם גַּם גָּנְבוּ גַּם כִּחֲשׁוּ גַּם שָׂמוּ בִּכְלֵיהֶם״. אָמַר רַבִּי אִילְעָא מִשּׁוּם רַבִּי יְהוּדָה בַּר מַסְפַּרְתָּא: מְלַמֵּד שֶׁעָבַר עָכָן עַל חֲמִשָּׁה חוּמְשֵׁי תוֹרָה, שֶׁנֶּאֱמַר חֲמִשָּׁה ״גַּם״.
+*Translation:* The verse in Joshua continues: **“They have also transgressed My covenant which I commanded them, and they have also taken of the dedicated property, and also stolen, and also dissembled, and also put it among their own goods.” Rabbi Ile’a says in the name of Rabbi Yehuda bar Masparta:** This **teaches that Achan** also **transgressed** all **five books of the Torah, as** the word **“also” is stated** here **five** times.
+
+**4.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי אִילְעָא מִשּׁוּם רַבִּי יְהוּדָה בַּר מַסְפַּרְתָּא: עָכָן מוֹשֵׁךְ בְּעׇרְלָתוֹ הָיָה. כְּתִיב הָכָא ״וְגַם עָבְרוּ אֶת בְּרִיתִי״, וּכְתִיב הָתָם ״אֶת בְּרִיתִי הֵפַר״.
+*Translation:* **And Rabbi Ile’a says** further **in the name of Rabbi Yehuda bar Masparta: Achan,** in addition to his other evil actions, **would stretch his** remaining **foreskin** in order to conceal the fact that he was circumcised. An allusion to this offense is found in the wording of this verse. **Here,** with regard to Achan, **it is written: “They have also transgressed My covenant,” and there,** with regard to circumcision, **it is written: “He has violated My covenant”** (Genesis 17:14).
+
+**5.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא: בְּמִצְוָה גּוּפֵיהּ לָא פְּקַר? קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: Isn’t it **obvious** that he concealed his circumcision, as Rabbi Ile’a said that he transgressed all five books of the Torah? The Gemara answers: **Lest you say** that while Achan transgressed all five books of the Torah, **with regard to a mitzva** relating to **his own body,** such as circumcision, **he did not act irreverently,** Rabbi Ile’a **teaches us** that he sinned concerning this mitzva as well.
+
+**6.**
+*Hebrew/Aramaic:* וְכִי עָשָׂה נְבָלָה בְּיִשְׂרָאֵל. אָמַר רַבִּי אַבָּא בַּר זַבְדָּא: מְלַמֵּד שֶׁבָּעַל עָכָן נַעֲרָה הַמְאוֹרָסָה. כְּתִיב הָכָא ״וְכִי עָשָׂה נְבָלָה״, וּכְתִיב הָתָם ״כִּי עָשְׂתָה נְבָלָה בְּיִשְׂרָאֵל״.
+*Translation:* With regard to Achan, the verse states: **“And because he has committed a wanton deed in Israel”** (Joshua 7:15). **Rabbi Abba bar Zavda says:** This **teaches that** Achan **engaged in sexual intercourse with a betrothed young woman.** This offense is also alluded to by the wording of the verse. **Here,** with regard to Achan, **it is written: “And because he has committed a wanton deed,” and there,** with regard to a betrothed young woman who committed adultery, **it is written: “Because she has committed a wanton deed in Israel,** to play the harlot in her father’s house” (Deuteronomy 22:21).
+
+**7.**
+*Hebrew/Aramaic:* פְּשִׁיטָא! מַהוּ דְּתֵימָא כּוּלֵּי הַאי לָא פְּקַר נַפְשֵׁיהּ, קָא מַשְׁמַע לַן. רָבִינָא אָמַר: דִּינֵיהּ כְּנַעֲרָה הַמְאוֹרָסָה, דְּבִסְקִילָה.
+*Translation:* The Gemara asks: Isn’t this **obvious,** as Achan transgressed the entire Torah? The Gemara similarly answers: **Lest you say** that **he did not act irreverently to such an extent,** Rabbi Abba bar Zavda **teaches us** that he paid no heed even to this prohibition. **Ravina said:** This verbal analogy does not teach what Achan’s offense was; rather, it teaches that **his punishment** was **like** that of **a betrothed young woman** who committed adultery, for **which** she is executed **by stoning.**
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רֵישׁ גָּלוּתָא לְרַב הוּנָא: כְּתִיב: ״וַיִּקַּח יְהוֹשֻׁעַ אֶת עָכָן בֶּן זֶרַח וְאֶת הַכֶּסֶף וְאֶת הָאַדֶּרֶת וְאֶת לְשׁוֹן הַזָּהָב וְאֶת בָּנָיו וְאֶת בְּנֹתָיו וְאֶת שׁוֹרוֹ וְאֶת חֲמֹרוֹ וְאֶת צֹאנוֹ וְאֶת אׇהֳלוֹ וְאֶת כׇּל אֲשֶׁר לוֹ״. אִם הוּא חָטָא, בָּנָיו וּבְנוֹתָיו מֶה חָטְאוּ?
+*Translation:* § **The Exilarch said to Rav Huna: It is written: “And Joshua took Achan, son of Zerah, and the silver, and the mantle, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had,** and all Israel with him…and all Israel stoned him with stones; and they burned them with fire, and stoned them with stones” (Joshua 7:24–25). **If** Achan **sinned,** so that he was liable to be stoned, **did his sons and daughters** also **sin,** that they too should be stoned?
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: וְלִיטַעְמָיךְ, אִם הוּא חָטָא – כָּל יִשְׂרָאֵל מֶה חָטְאוּ? דִּכְתִיב: ״וְכׇל יִשְׂרָאֵל עִמּוֹ״. אֶלָּא לִרְדּוֹתָן. הָכִי נָמֵי, כְּדֵי לִרְדּוֹתָן.
+*Translation:* Rav Huna **said to** the Exilarch: **And according to your reasoning** that Achan’s family was also punished, **if** Achan **sinned, did all of Israel sin? As it is written: “And all Israel with him.” Rather,** Joshua took all of the people to the Valley of Achor not to stone them, but **to chastise them** and strike fear into their hearts by making them witness the stoning. **So too,** he took Achan’s household there **in order to chastise them.**
+
+**10.**
+*Hebrew/Aramaic:* ״וַיִּשְׂרְפוּ אֹתָם בָּאֵשׁ וַיִּסְקְלוּ אֹתָם בָּאֲבָנִים״. בְּתַרְתֵּי? אָמַר רָבִינָא: הָרָאוּי לִשְׂרֵיפָה – לִשְׂרֵיפָה, הָרָאוּי לִסְקִילָה – לִסְקִילָה.
+*Translation:* With regard to Achan’s punishment, the verse states: **“And they burned them with fire, and stoned them with stones.”** The Gemara asks: Did they punish him **with two** punishments? **Ravina says: That which was fit for burning,** e.g., an item of clothing, was taken out **for burning,** and **that which was fit for stoning,** e.g., an animal, was taken out **for stoning.**
+
+**11.**
+*Hebrew/Aramaic:* ״וָאֵרֶא בַשָּׁלָל אַדֶּרֶת שִׁנְעָר אַחַת טוֹבָה וּמָאתַיִם שְׁקָלִים כֶּסֶף״. רַב אָמַר: אִיצְטְלָא דְּמֵילָתָא, וּשְׁמוּאֵל אָמַר: סַרְבָּלָא דִּצְרִיפָא.
+*Translation:* § In his confession, Achan states: **“And I saw among the spoil a fine mantle of Shinar, and two hundred shekels of silver”** (Joshua 7:21). **Rav says:** A mantle of Shinar is **a cloak [*itztela*] of** choice **wool [*demeilta*], and Shmuel says:** It is **a garment [*sarbela*] dyed with alum.**
+
+**12.**
+*Hebrew/Aramaic:* ״וַיַּצִּיקוּם לִפְנֵי ה׳״. אָמַר רַב נַחְמָן: בָּא וַחֲבָטָם לִפְנֵי הַמָּקוֹם. אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, עַל אֵלּוּ תֵּיהָרֵג רוּבָּהּ שֶׁל סַנְהֶדְרִין? דִּכְתִיב: ״וַיַּכּוּ מֵהֶם אַנְשֵׁי הָעַי כִּשְׁלֹשִׁים וְשִׁשָּׁה אִישׁ״. וְתַנְיָא: שְׁלֹשִׁים וְשִׁשָּׁה מַמָּשׁ, דִּבְרֵי רַבִּי יְהוּדָה. אָמַר לוֹ רַבִּי נְחֶמְיָה: וְכִי שְׁלֹשִׁים וְשִׁשָּׁה הָיוּ? וַהֲלֹא לֹא נֶאֱמַר אֶלָּא ״כִּשְׁלֹשִׁים וְשִׁשָּׁה אִישׁ״! אֶלָּא זֶה יָאִיר בֶּן מְנַשֶּׁה שֶׁשָּׁקוּל כְּנֶגֶד רוּבָּהּ שֶׁל סַנְהֶדְרִין.
+*Translation:* With regard to the spoils that Achan took for himself, the verse states: **“And they laid them out before the Lord”** (Joshua 7:23). **Rav Naḥman says:** Joshua **came and cast down** the spoils **before God.** Joshua **said to Him: Master of the Universe,** was it **because of these** small items that **the majority of the Sanhedrin were killed? As it is written: “And the men of Ai smote of them about thirty-six men”** (Joshua 7:5), **and it is taught** in a *baraita*: **Thirty-six** men, **literally,** were killed; this is **the statement of Rabbi Yehuda. Rabbi Neḥemya said to** Rabbi Yehuda: **But were they** precisely **thirty-six** men? **Didn’t it state only: “About thirty-six men”? Rather, this is** a reference to **Yair, son of Manasseh,** who was killed, and **who was** himself **equivalent** in importance **to the majority of the Sanhedrin,** i.e., thirty-six men.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן אָמַר רַב: מַאי דִּכְתִיב ״תַּחֲנוּנִים יְדַבֶּר רָשׁ וְעָשִׁיר יַעֲנֶה עַזּוֹת״? ״תַּחֲנוּנִים יְדַבֵּר רָשׁ״ – זֶה מֹשֶׁה, ״וְעָשִׁיר יַעֲנֶה עַזּוֹת״ – זֶה יְהוֹשֻׁעַ.
+*Translation:* **Rav Naḥman says that Rav says: What** is the meaning of that **which is written: “The poor man speaks entreaties, but the rich man answers with impudence”** (Proverbs 18:23)? **“The poor man speaks entreaties”; this** is a reference to **Moses,** who addressed God in a tone of supplication and appeasement. **“But the rich man answers with impudence”; this** is a reference to **Joshua,** who spoke to God in a belligerent manner.
+
+**14.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אִילֵּימָא מִשּׁוּם דִּכְתִיב ״וַיַּצִּיקוּם לִפְנֵי ה׳״, וְאָמַר רַב נַחְמָן: בָּא וַחֲבָטָן לִפְנֵי הַמָּקוֹם. אַטּוּ פִּנְחָס לָא עֲבַד הָכִי? דִּכְתִיב: ״וַיַּעֲמֹד פִּינְחָס וַיְפַלֵּל וַתֵּעָצַר הַמַּגֵּפָה״, וְאָמַר רַבִּי אֶלְעָזָר: ״וַיִּתְפַּלֵּל״ לֹא נֶאֱמַר אֶלָּא ״וַיְפַלֵּל״, מְלַמֵּד שֶׁעָשָׂה פְּלִילוּת עִם קוֹנוֹ. בָּא וַחֲבָטָן לִפְנֵי הַמָּקוֹם, אָמַר לְפָנָיו: רִבּוֹנוֹ שֶׁל עוֹלָם, עַל אֵלּוּ יִפְּלוּ עֶשְׂרִים וְאַרְבָּעָה אֶלֶף מִיִּשְׂרָאֵל? דִּכְתִיב: ״וְיִהְיוּ הַמֵּתִים בַּמַּגֵּפָה אַרְבָּעָה וְעֶשְׂרִים אָלֶף״.
+*Translation:* The Gemara asks: **What is the reason** that Joshua is considered to have answered God with impudence? **If we say** that it is **because it is written: “And he laid them out before the Lord,” and Rav Naḥman says** that this means that Joshua **came and cast** the spoils **down before God** as part of his argument, this is difficult: **Is that to say** that **Pinehas did not act the same** way in the incident involving Zimri and Cozbi? **As it is written: “Then stood up Pinehas, and executed judgment [*vayefallel*], and the plague was stayed”** (Psalms 106:30), **and Rabbi Elazar says: And he prayed [*vayitpallel*], is not stated; rather, “and he executed judgment [*vayefallel*]”** is stated, which **teaches that he entered into a judgment** together **with his Creator.** How so? **He came and cast** Zimri and Cozbi **down before God,** and **said to Him: Master of the Universe,** was it **because of these** sinners that **twenty-four thousand** members **of the Jewish people fell? As it is written: “And those that died by the plague were twenty-four thousand”** (Numbers 25:9).
+
+**15.**
+*Hebrew/Aramaic:* וְאֶלָּא מֵהָכָא: ״לָמָּה הֵעֲבַרְתָּ הַעֲבִיר אֶת הָעָם הַזֶּה אֶת הַיַּרְדֵּן״. מֹשֶׁה נָמֵי מֵימָר אֲמַר: ״לְמָה הֲרֵעֹתָה לָעָם הַזֶּה״. אֶלָּא מֵהָכָא: ״וְלוּ הוֹאַלְנוּ וַנֵּשֶׁב בְּעֵבֶר הַיַּרְדֵּן״.
+*Translation:* **Rather,** Joshua’s belligerence is seen **from this** verse: **“Why have You brought this people over the Jordan”** (Joshua 7:7), as if he were complaining about God’s treatment of Israel. This too is difficult, as **Moses also said** a similar statement: **“Why have You dealt ill with this people?** Why is it that You have sent me?” (Exodus 5:22). **Rather,** Joshua’s belligerence is seen **from here,** from the continuation of the previously cited verse in Joshua: **“Would that we had been content and had remained in the Transjordan”** (Joshua 7:7).
+
+**16.**
+*Hebrew/Aramaic:* ״וַיֹּאמֶר ה׳ אֶל יְהוֹשֻׁעַ קוּם לָךְ״. דָּרֵישׁ רַבִּי שֵׁילָא: אָמַר לֵיהּ הַקָּדוֹשׁ בָּרוּךְ הוּא: שֶׁלְּךָ קָשָׁה מִשֶּׁלָּהֶם. אֲנִי אָמַרְתִּי ״וְהָיָה בְּעׇבְרְכֶם אֶת הַיַּרְדֵּן תָּקִימוּ״, וְאַתֶּם רִיחַקְתֶּם שִׁשִּׁים מִיל.
+*Translation:* § With regard to the verse that states: **“And the Lord said to Joshua: Get you up;** why do you lie this way on your face?” (Joshua 7:10), **Rabbi Sheila taught** in a public lecture: **The Holy One, Blessed be He, said to** Joshua: **Your** own sin **is** even **worse than** that of the other Jews who sinned, as **I said** to the Jewish people: **“And it shall be when you have gone over the Jordan, that you shall set up** these stones” (Deuteronomy 27:4), **and you have** already **distanced yourselves sixty *mil*** from the Jordan River, and you have yet to fulfill the mitzva.
+
+**17.**
+*Hebrew/Aramaic:* בָּתַר דִּנְפַק, אוֹקֵים רַב אָמוֹרָא עֲלֵיהּ וּדְרַשׁ: ״כַּאֲשֶׁר צִוָּה ה׳ אֶת מֹשֶׁה עַבְדּוֹ כֵּן צִוָּה מֹשֶׁה אֶת יְהוֹשֻׁעַ וְכֵן עָשָׂה יְהוֹשֻׁעַ לֹא הֵסִיר דָּבָר מִכׇּל אֲשֶׁר צִוָּה ה׳ אֶת מֹשֶׁה״.
+*Translation:* **After** Rav Sheila finished his lecture and **went out, Rav,** who had been present but remained silent, **placed an interpreter alongside him,** who would repeat his lecture in a loud voice so that the public could hear it, **and he taught:** The verse states: **“As the Lord commanded Moses His servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the Lord had commanded Moses”** (Joshua 11:15). This indicates that Joshua could not have been guilty of a grave offense such as delaying in setting up the stones.
+
+**18.**
+*Hebrew/Aramaic:* אִם כֵּן, מָה תַּלְמוּד לוֹמַר ״קוּם לָךְ״? אָמַר לוֹ: אַתָּה גָּרַמְתָּ לָהֶם. וְהַיְינוּ דְּקָאָמַר לֵיהּ בְּעַי: ״וְעָשִׂיתָ לָעַי וּלְמַלְכָּהּ כַּאֲשֶׁר עָשִׂיתָ לִירִיחוֹ וּלְמַלְכָּהּ וְגוֹ׳״.
+*Translation:* **If so, what** is the meaning when **the verse states: “Get you up,”** hinting that Joshua was in fact responsible for some transgression? The matter should be understood as follows: God **said to** Joshua: **You caused** the Jewish people to sin, as had you not dedicated all the spoils of Jericho to the Tabernacle treasury, the entire incident of Achan taking the spoils improperly would not have occurred. **And this is what** God **said to him at Ai: “And you shall do to Ai and her king as you did to Jericho and her king;** only its spoil and its cattle shall you take for a prey to yourselves” (Joshua 8:2), instructing Joshua that the Jewish people should keep the spoils.
+
+**19.**
+*Hebrew/Aramaic:* ״וַיְהִי בִּהְיוֹת יְהוֹשֻׁעַ בִּירִיחוֹ וַיִּשָּׂא עֵינָיו וַיַּרְא וְגוֹ׳ וַיֹּאמֶר לֹא כִּי אֲנִי שַׂר צְבָא ה׳ עַתָּה בָאתִי [וַיִּפֹּל יְהוֹשֻׁעַ אֶל פָּנָיו אַרְצָה וַיִּשְׁתָּחוּ]״. הֵיכִי עָבֵיד הָכִי? וְהָאָמַר רַבִּי יוֹחָנָן: אָסוּר לוֹ לְאָדָם שֶׁיִּתֵּן שָׁלוֹם לַחֲבֵירוֹ בַּלַּיְלָה, חָיְישִׁינַן שֶׁמָּא שֵׁד הוּא!
+*Translation:* The verse states: **“And it came to pass when Joshua was by Jericho that he lifted up his eyes and looked,** and, behold, a man stood over against him with his sword drawn in his hand: And Joshua went to him and said to him, Are you for us or for our adversaries? **And he said: No, but I am captain of the host of the Lord; I have now come. And Joshua fell on his face to the earth, and bowed down”** (Joshua 5:13–14). The Gemara asks: **How could** Joshua **do so,** bowing down to a stranger at night? **But doesn’t Rabbi Yoḥanan say:** It is **prohibited for a person to greet another** whom he does not recognize **at night,** as **we are concerned that perhaps** the one he doesn’t recognize **is a demon?** Why was Joshua not concerned about this possibility?
+
+**20.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם, דְּקָאָמַר לֵיהּ: ״אֲנִי שַׂר צְבָא ה׳ עַתָּה בָאתִי וְגוֹ׳״. וְדִילְמָא מְשַׁקְּרִי? גְּמִירִי דְּלָא מַפְּקִי שֵׁם שָׁמַיִם לְבַטָּלָה.
+*Translation:* The Gemara answers: **It is different there, as** the stranger **said to** Joshua: **“I am captain of the host of the Lord; I have now come.”** The Gemara asks: **But perhaps** he was in fact a demon and **he was lying?** The Gemara answers: It **is learned** as a tradition **that** demons **do not utter the name of Heaven in vain,** and since this figure mentioned the name of Heaven, he must have been speaking the truth.

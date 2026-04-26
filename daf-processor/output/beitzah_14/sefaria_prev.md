@@ -1,0 +1,61 @@
+### Beitzah 13b
+
+**1.**
+*Hebrew/Aramaic:* אֶלָּא מִן הַגּוֹרֶן וּמִן הַיֶּקֶב, כָּךְ תְּרוּמַת מַעֲשֵׂר אֵינָהּ נִיטֶּלֶת אֶלָּא מִן הַגּוֹרֶן וּמִן הַיֶּקֶב.
+*Translation:* **but only from the granary and the winepress, so too, *teruma* of the tithe is separated only from the granary and the winepress.**
+
+**2.**
+*Hebrew/Aramaic:* מְחַשֵּׁב? הָא מְדִידָה בָּעֵי!
+*Translation:* The Gemara asks: If the mishna is referring to produce from which *teruma gedola* has not been separated, it is appropriate to use the term: Calculates. However, according to the suggestion that it is referring to a first tithe, from which *teruma* of the tithe must be separated, why does the mishna state: **Calculates?** The *tanna* of the mishna **should have said: Measures.** The amount of *teruma gedola* to be separated is calculated by estimation, as there is no fixed amount for this *teruma* according to Torah law. With regard to the *teruma* separated from first tithe, however, the Torah established the fixed amount of one-tenth, and one is required to measure precisely.
+
+**3.**
+*Hebrew/Aramaic:* הָא מַנִּי אַבָּא אֶלְעָזָר בֶּן גִּימֶל הִיא, דְּתַנְיָא: אַבָּא אֶלְעָזָר בֶּן גִּימֶל אוֹמֵר: ״וְנֶחְשַׁב לָכֶם תְּרוּמַתְכֶם״ — בִּשְׁתֵּי תְרוּמוֹת הַכָּתוּב מְדַבֵּר, אַחַת תְּרוּמָה גְּדוֹלָה וְאַחַת תְּרוּמַת מַעֲשֵׂר. כְּשֵׁם שֶׁתְּרוּמָה גְּדוֹלָה נִיטֶּלֶת בְּאוֹמֶד וּבְמַחְשָׁבָה — כָּךְ תְּרוּמַת מַעֲשֵׂר נִיטֶּלֶת בְּאוֹמֶד וּבְמַחְשָׁבָה.
+*Translation:* The Gemara explains: In accordance with **whose** opinion **is this** mishna? It is in accordance with the opinion of **Abba Elazar ben Gimmel, as it is taught** in a *baraita*: **Abba Elazar ben Gimmel says:** The verse states: **“And your *teruma* shall be reckoned to you** as though it were the corn of the granary and as the fullness of the winepress” (Numbers 18:27). **The verse speaks of two *terumot*. One** is ***teruma gedola*, and** the other **one is *teruma* of the tithe. Just as *teruma gedola* is separated by estimation** and is not measured exactly, **and** it is enough to separate it **by thought,** as the word “reckoned” implies that the mere intention to separate a particular portion serves to remove the rest of the produce from its untithed state, **so too, *teruma* of the tithe** can also **be separated by estimation and by thought.**
+
+**4.**
+*Hebrew/Aramaic:* גּוּפָא, אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: מַעֲשֵׂר רִאשׁוֹן שֶׁהִקְדִּימוֹ בְּשִׁבֳּלִין — שְׁמוֹ טוֹבְלוֹ לִתְרוּמַת מַעֲשֵׂר. מַאי טַעְמָא? אָמַר רָבָא: הוֹאִיל וְיָצָא עָלָיו שֵׁם מַעֲשֵׂר.
+*Translation:* § Since it was mentioned incidentally, the Gemara discusses **the** matter **itself: Rabbi Abbahu said** that **Rabbi Shimon ben Lakish said:** With regard to **first tithe, in a case in which** the Levite **preceded** the priest while the grain was still **on the stalks, its name renders it untithed produce,** until he separates from it the ***teruma* of the tithe.** The Gemara asks: **What is the reason** for this *halakha*? **Rava said: Since the name of** the first **tithe was called upon it,** the obligation of the *teruma* of the tithe takes effect as well.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: מַעֲשֵׂר רִאשׁוֹן שֶׁהִקְדִּימוֹ בְּשִׁבֳּלִין — פָּטוּר מִתְּרוּמָה גְּדוֹלָה.
+*Translation:* The Gemara cites a similar *halakha* that **Rabbi Shimon ben Lakish said:** With regard to **first tithe, in a case in which** the Levite **preceded** the priest while the grain was still **on the stalks,** before it was threshed and turned into a pile, the owner separated first tithe before *teruma*. In that case, the separated tithe is **exempt from *teruma gedola*.** Although *teruma gedola* should have been separated from the produce first, and it should have included some of the produce taken as the first tithe, the Levite is nevertheless exempt from separating this *teruma*.
+
+**6.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״וַהֲרֵמוֹתֶם מִמֶּנּוּ תְּרוּמַת ה׳ מַעֲשֵׂר מִן הַמַּעֲשֵׂר״, מַעֲשֵׂר מִן הַמַּעֲשֵׂר אָמַרְתִּי לְךָ, וְלֹא תְּרוּמָה גְּדוֹלָה וּתְרוּמַת מַעֲשֵׂר מִן הַמַּעֲשֵׂר.
+*Translation:* This is because **it is stated: “And you shall set apart from it a *teruma* for the Lord, even a tenth part of the tithe”** (Numbers 18:26), which indicates: **A tenth part of the tithe,** i.e., the *teruma* of the tithe, **I,** God, **said to you** that you must separate it, **and** you are **not** obligated in both ***teruma gedola* and *teruma* of the tithe from the** first **tithe.**
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: אִי הָכִי, אֲפִילּוּ הִקְדִּימוֹ בִּכְרִי נָמֵי! אֲמַר לֵיהּ: עָלֶיךָ אָמַר קְרָא: ״מִכֹּל (מַעְשְׂרוֹתֵיכֶם) תָּרִימוּ אֵת כׇּל תְּרוּמַת ה׳״.
+*Translation:* **Rav Pappa said to Abaye: If so,** if there is a source for this *halakha* in the Torah, **even if** the Levite **preceded** the priest, i.e., first tithe was separated after the grain had been threshed and the kernels of grain placed **in a pile,** then it should **also be exempt** from *teruma gedola*. Abaye **said to** Rav Pappa: **With regard to your** claim, **the verse states: “From all that is given you, you shall set apart that which is the Lord’s *teruma*”** (Numbers 18:29). This verse indicates that God’s *teruma*, i.e., *teruma gedola*, must be taken from all the produce, including the tithe.
+
+**8.**
+*Hebrew/Aramaic:* וּמָה רָאִיתָ? הַאי אִדְּגַן, וְהַאי לָא אִדְּגַן.
+*Translation:* The Gemara asks: **And what did you see** that led you to require the separation of *teruma gedola* from first tithe that was taken from processed grain piled in the granary but not from first tithe that was taken from grain on stalks? Abaye answers: **This,** grain that has been threshed and placed into piles, is completely processed and **has become grain, and that,** grain that remains on the stalk, **has not** yet **become grain.** Until the grain is threshed and assembled in a pile, the obligation to separate *teruma* does not take effect, as it is not considered grain. When such unprocessed grain is designated first tithe, it ceases to be untithed produce and the opportunity to separate *teruma* from it has been missed. However, once the grain has been processed, and the obligation to separate *teruma* has taken effect, it is as if the *teruma* is already mixed in, and the obligation to separate it cannot be overridden by the fact that this produce has been designated first tithe.
+
+**9.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: הַמְקַלֵּף שְׂעוֹרִין, מְקַלֵּף אַחַת אַחַת וְאוֹכֵל. וְאִם קִלֵּף וְנָתַן לְתוֹךְ יָדוֹ — חַיָּיב. אָמַר רַבִּי אֶלְעָזָר: וְכֵן לְשַׁבָּת.
+*Translation:* § **We learned** in a mishna **there** (*Ma’asrot* 4:5): **One who peels** grains of **barley** to eat them raw **may peel them one** by **one and eat them** immediately without tithing them, as this is considered a casual manner of eating. **But if he peeled and placed** several of them **into his hand, he is obligated** to separate tithes. **Rabbi Elazar said: And a similar** *halakha* applies **to Shabbat.** Peeling grains of barley one by one is not considered threshing, and it is permitted; if a whole handful of grains are peeled together, this does constitute the prohibited labor of threshing.
+
+**10.**
+*Hebrew/Aramaic:* אִינִי? וְהָא רַב מְקַלְּפָא לֵיהּ דְּבֵיתְהוּ כָּסֵי כָּסֵי! וְרַבִּי חִיָּיא מְקַלְּפָא לֵיהּ דְּבֵיתְהוּ כָּסֵי כָּסֵי! אֶלָּא אִי אִתְּמַר, אַסֵּיפָא אִתְּמַר: הַמּוֹלֵל מְלִילוֹת שֶׁל חִטִּים, מְנַפֵּחַ עַל יָד עַל יָד וְאוֹכֵל. וְאִם נִפַּח וְנָתַן לְתוֹךְ חֵיקוֹ — חַיָּיב. אָמַר רַבִּי אֶלְעָזָר: וְכֵן לְשַׁבָּת.
+*Translation:* The Gemara asks: **Is that so? But didn’t Rav’s wife peel for him** barley on Shabbat **by the cupful? And** likewise **Rabbi Ḥiyya’s wife** would **peel** barley **for him** on Shabbat **by the cupful. Rather, if** Rabbi Elazar’s comment **was stated** in this context, **it was stated with regard to the latter clause** of that same mishna (*Ma’asrot* 4:5): With regard to **one who husks kernels of wheat** by hand, **he may blow** onto the chaff to disperse it **a little at a time and eat** the kernels without separating tithes. **But if he blows** on the kernels **and puts** a large amount of them **into his lap,** he is **obligated** to separate tithes from the food. It was with regard to this teaching that **Rabbi Elazar said: And a similar** *halakha* applies **to Shabbat.**
+
+**11.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַבִּי אַבָּא בַּר מֶמֶל: וְרֵישָׁא, לְמַעֲשֵׂר אִין לְשַׁבָּת לָא? וּמִי אִיכָּא מִידֵּי דִּלְעִנְיַן שַׁבָּת לָא הָוֵי גְּמַר מְלָאכָה, וּלְמַעֲשֵׂר הָוֵי גְּמַר מְלָאכָה?
+*Translation:* **Rabbi Abba bar Memel strongly objects to this: And** with regard to **the first clause** of the mishna, one should conclude: **Yes,** if one peeled a handful of barley, it is considered prepared **with regard to tithes,** but **no,** it is not considered threshing **with regard to Shabbat? But is there anything** that, **with regard to Shabbat, is not** considered the **completion of the labor** and may be performed; **and** yet, **with regard to tithes, it is** considered the **completion of the labor?** Isn’t the prohibition against work on Shabbat far more stringent than tithes in all its details?
+
+**12.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב שֵׁשֶׁת בְּרֵיהּ דְּרַב אִידִי: וְלָא, וְהָא גׇּרְנָן לְמַעֲשֵׂר, דִּתְנַן: אֵיזֶהוּ גׇּרְנָן לְמַעֲשֵׂר? הַקִּשּׁוּאִין וְהַדִּלּוּעִין — מִשֶּׁיְּפַקְּסוּ. וְשֶׁלֹּא פִּקְּסוּ — מִשֶּׁיַּעֲמִיד עֲרֵמָה. וּתְנַן נָמֵי גַּבֵּי בְצָלִים — מִשֶּׁיַּעֲמִיד עֲרֵמָה. וְאֵלּוּ גַּבֵּי שַׁבָּת — הַעֲמָדַת עֲרֵמָה פָּטוּר.
+*Translation:* **Rav Sheshet, son of Rav Idi, strongly objects to this** claim: **And** is there **no** example of a *halakha* in which tithes are treated more stringently than Shabbat? **And is** there not the *halakha* of **their granary for tithes, as we learned** in a mishna (*Ma’asrot* 1:5): **What is** the equivalent of **their granary,** i.e., the point at which the processing of various vegetables is completed so that they become obligated **in tithes?** With regard to **cucumbers and gourds,** they become obligated **from when one trims** the thin hairs that cover them **[*misheyefaksu*], and** for those **he did not trim, from when he assembles them in a pile. And we also learned** in a mishna (*Ma’asrot* 1:6), **with regard to onions,** that it is **from when one assembles them in a pile. Whereas with regard to Shabbat,** one who **assembles** produce **in a pile is exempt,** as this is not a prohibited labor on Shabbat.
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא מַאי אִית לָךְ לְמֵימַר: מְלֶאכֶת מַחְשֶׁבֶת אָסְרָה תּוֹרָה, הָכָא נָמֵי: מְלֶאכֶת מַחְשֶׁבֶת אָסְרָה תּוֹרָה.
+*Translation:* **Rather, what have you to say?** Why is one exempt if he forms a pile on Shabbat? **The Torah prohibited** only **planned,** constructive **labor** on Shabbat, the type of work that involves the creation of something new, and the formation of a pile is not considered that kind of labor. **Here too,** with regard to peeling barley, **the Torah prohibited creative work.** Although collecting the peeled barley in one’s hand is considered the completion of the labor in respect to tithes, it is not prohibited labor on Shabbat.
+
+**14.**
+*Hebrew/Aramaic:* כֵּיצַד מוֹלֵל? אַבָּיֵי מִשְּׁמֵיהּ דְּרַב יוֹסֵף אָמַר: חֲדָא אַחֲדָא. וְרַב אַוְיָא מִשְּׁמֵיהּ דְּרַב יוֹסֵף אָמַר: חֲדָא אַתַּרְתֵּי. רָבָא אָמַר: כֵּיוָן דִּמְשַׁנֵּי — אֲפִילּוּ חֲדָא אַכּוּלְּהוּ נָמֵי.
+*Translation:* Apropos husking kernels on Shabbat, the Gemara asks: **How may one husk** grain on a Festival? **Abaye said in the name of Rav Yosef: One** finger **on another,** i.e., one may place the kernels between two fingers and rub. **And Rav Avya said in the name of Rav Yosef:** One may even do so **one on two,** i.e., between the thumb and two fingers. **Rava said: Since he alters** the manner in which he performs the activity, **he may even** do so with **one** finger **on all** the rest.
+
+**15.**
+*Hebrew/Aramaic:* כֵּיצַד מְנַפֵּחַ? אָמַר רַב אַדָּא בַּר אַהֲבָה אָמַר רַב: מְנַפֵּחַ
+*Translation:* The Gemara further asks: **How** may one **blow** on the grain, to winnow it in a permitted manner on Shabbat? **Rav Adda bar Ahava said** that **Rav said: One blows**

@@ -1,157 +1,341 @@
 # Meilah 4 — Daf Yomi Shiur
 
-## Rav Gidal on Pigul
+## Rav Giddel: Psul Zerika
 
-### Position intro
+### Im lo alos tayreidu
 
-The Gemara on daf 4a picks up in the middle of the discussion of the position of Rav Gidal amar Rav. The mishna had already established that when *avodas* are performed *b'psul* — whether the *shechita* was done with *machshavas pigul*, *chutz lizmano*, *chutz limkomo*, or similar invalidations — two consequences follow. First, the *korban* retains its status as *kodshei Hashem* by virtue of the principle of *im ala lo yerad*. Second, the meat of *kodshei kodashim* does not exit its *me'ila* status, since it would normally become *mutar l'kohanim* only if the *zrika* were performed correctly. When done *b'psul*, the meat never becomes *mutar l'kohanim* and thus remains subject to *me'ila*.
+We pick up in the middle of daf 4a, approximately four or five lines from the bottom, still engaged with the position of Rav Giddel amar Rav. By way of context: the *mishna* had already established that when *avodos* are performed *b'psul* — whether through *shechita* done with *machshaves pigul*, in the wrong place, or under similar disqualifying conditions — two consequences follow. First, the *korban* retains its consecrated status as *kodshei Hashem* by virtue of the principle of *im lo alos tayreidu*: what has ascended to the *mizbe'ach* is not removed. Second, the meat of *kodshei kodashim* does not exit the category of *me'ila*, as it ordinarily would if the *zerika* had been performed correctly — for a proper *zerika* renders the meat *mutar l'kohanim*, thereby removing it from *me'ila*. When the *avodah* is performed *b'psul*, however, the meat never becomes *mutar l'kohanim* and therefore remains subject to *me'ila*.
 
-Rav Gidal amar Rav extended this principle to the case where the *zrika* itself was performed with *machshavas pigul*: such a *zrika* is not considered a legitimate *zrikas hadam*, and therefore the meat remains in its *pigul* status. By the same token, if the offering is *kodashim kalim*, the *emurim* do not attain the status required for the *mizbeach*, since the *zrika* was invalid.
+### Zerika with Pigul Intent
 
-### Tosafos mertzeh
+Rav Giddel amar Rav extended this principle to the case where the *zerika* itself was performed with *machshaves pigul*: since the *zerika* is not considered legitimate, the meat remains in *me'ila*. The same applies to *kodshim kalim* — the *emurim* do not attain the status that would make them subject to *me'ila* (i.e., fit for the *mizbe'ach*) when the *zerika* was invalid.
 
-The question arises: why is this not obvious from the mishna itself? Tosafos addresses this directly. It is not obvious, Tosafos explains, because by *zrika* there is a principle of *mertzeh l'pigulo* — a kind of theoretical legitimacy attaches to the *korban*, as if it were accepted, albeit only for the purpose of rendering it *pigul*. One might therefore have thought that the *zrika* counts as a legitimate *zrika* for the laws of *me'ila* as well, and that it suffices to change the *me'ila* status accordingly. Rav Gidal amar Rav tells us that this is not the case.
+### Kodshim Kalim & Emurim
 
-### Braisa proof attempt
+The *Gemara* undertakes an extended discussion of why this requires any special derivation at all, given that the *mishna* already seems to establish the principle. Why is Rav Giddel amar Rav's ruling not simply obvious from the *mishna*?
 
-Having established the position of Rav Gidal amar Rav, the Gemara attempts to bring a proof from a *braisa*. The *braisa* states: *ha'pigul l'olam mo'alin bo* — one always incurs *me'ila* liability with regard to *pigul*. The clear implication is that if *pigul* occurred, the *korban* — presumably *kodshei kodashim* — never exits its *me'ila* status, because the meat never becomes *mutar*. The Gemara suggests: does this not mean that even when *zrikas hadam* was performed with a *pigul* thought, it is not considered a legitimate *zrika*, and the *me'ila* status is therefore never changed? This would be a direct support for Rav Gidal amar Rav.
+### Mertzeh l'Pigulo
 
-### Zrika pigul timing
+Tosafot addresses this directly. The ruling is not obvious, because in the context of *zerika* there exists a principle of *mertzeh l'pigulo*: for a *korban* to achieve the status of *pigul*, the *avodah* must have been performed in a formally complete manner, such that the *korban* is considered, in a theoretical sense, as though it were a legitimate offering — but one that is disqualified specifically as *pigul*. There is thus a kind of theoretical legitimacy to the *korban*, and one might therefore have supposed that the *zerika* with *machshaves pigul* should count as a legitimate *zerika* for the purposes of *me'ila* status change. Rav Giddel amar Rav tells us this is not the case.
 
-The Gemara immediately deflects: perhaps the *braisa* is not discussing a case where the *zrika* was done *b'pigul* at all, but rather a case where no *zrikas hadam* took place — the *pigul* thought occurred at an earlier stage and the blood was never thrown. But this renders the *braisa* unhelpful, as the Gemara itself notes. If the blood was never thrown, there is no need to invoke *pigul* at all; obviously without *zrikas hadam* nothing changes. The Gemara counters: *ella l'olam d'zarak* — fine, the blood was indeed thrown. *Ve'chi tanya hee b'olah* — perhaps the *braisa* is discussing an *olah*. And for an *olah*, the *me'ila* status never changes regardless, since the entire offering goes to the *mizbeach* before and after *zrika*; the *me'ila* status is constant. If so, the *braisa* teaches nothing about *pigul* at all. The Gemara confirms: if it is an *olah*, this is self-evident — the entire offering belongs to God, and invoking *pigul* is meaningless.
+### Pigul Before Zerika
 
-### Lina proof attempt
+The discussion acknowledges that *pigul* status can exist even at earlier stages, before the *zerika* takes place — the *korban* is already called *pigul* from the moment of *shechita* with the disqualifying intent. This was admitted in the course of the analysis. Yet despite this concession, the status of *me'ila* does not change.
 
-The *braisa* continues in its *seifa*: *lan dama* — if the blood stayed overnight and was not thrown the same day, then even if one subsequently performed *zrika*, there is still *me'ila*. This, however, is revealing, because it implies that had the blood been thrown on time, the *me'ila* status would have changed — demonstrating that the *braisa* is not discussing an *olah* at all, but a *chatas*. If it is a *chatas*, then *i amarta bishlama b'chatas* — it makes sense that correct *zrika* would have changed the status, and *linas hadam* prevents that change. So the Gemara argues: since the *seifa* clearly discusses a *chatas*, the *reisha* must as well, and the *reisha* discussing *pigul* is therefore a proof to Rav Gidal amar Rav.
+### Shechitas Pigul & Toda
 
-The Gemara then attempts a parallel argument: since the *seifa* is a clear proof, should not the *reisha* be a proof as well? The structure is invoked in both cases.
-
-### Lina rejected
-
-The Gemara resists the analogy. It says: *mai shena halina d'ka'avid b'yadayim* — *lina* involves an active dimension, whereas *machshava* does not. Because the *zrika* of old blood is not merely blemished by thought but is physically deficient — the blood itself is different — it is clear that such a *zrika* has no effect. But when the physical act is performed correctly and the only deficiency is the thought in the officiant's mind, one might still argue that the *zrika* is effective enough to change the *me'ila* status. Therefore, the *lina* case does not prove the *pigul* case by analogy.
-
-This is a striking point. Intuitively one might have thought that a mental act — actually thinking something — is more "active" than passively leaving blood overnight. Yet the Gemara reasons that leaving blood overnight, precisely because it involves a failure to act in the domain of action, places one squarely in the world of deed, making the resulting *psul* more categorically physical. By contrast, when the *shochet*'s hands are doing everything correctly and only his mind is at fault, the physical world remains entirely intact, and one might plausibly say the *zrika* retains enough validity to change the *me'ila* status.
-
-The upshot is that while the analogy fails, the simple reading of the *braisa*'s *reisha* — which speaks of *pigul* by what appears to be a *chatas* — still stands as implicit textual support for Rav Gidal amar Rav.
-
-### Kedoshim kodashim braisa
-
-The Gemara now attempts a fresh proof. A second *braisa* states: *hapigul bekodshei kodashim mo'alin bo* — with *kodshei kodashim* rendered *pigul*, one incurs *me'ila*. The implication again seems to be that even though the *zrika* was done with a *pigul* thought, it is not considered a valid *zrika*, and the meat remains subject to *me'ila*. The Gemara initially reads this as a proof to Rav Gidal amar Rav: it must mean that even when *zrikas hadam* was done *b'pigul*, the status does not change. The Gemara pushes back as before: perhaps it simply means no *zrikas hadam* was performed at all. And if there was no *zrikas hadam*, the statement is trivial. The Gemara then asks: *aval zarak mai* — but if *zrikas hadam* was performed, what would the law be? Would there in fact be no *me'ila*?
-
-### Kodashim kalim q
-
-This prompts the Gemara to focus on the *seifa* of the same *braisa*, which states: *bekodashim kalim ein mo'alin bo* — by *kodashim kalim* with a *pigul* thought, there is no *me'ila*. Why? Because there is no *me'ila* on *kodashim kalim* themselves to begin with, and the *emurim* never attained the status that would subject them to *me'ila*, because the *zrika* of *pigul* did not qualify as a valid *zrika*.
-
-The Gemara now asks a pointed question: if the *braisa* wanted to provide a case where there is no *me'ila* in connection with *pigul*, why go to *kodashim kalim*? It could have remained with *kodshei kodashim* and distinguished within that category: before *zrika* there is *me'ila*; after *zrika* — even a *zrikas pigul* — there is no *me'ila*. The very fact that the *braisa* chooses *kodashim kalim* to illustrate a case of no *me'ila* demonstrates that after a valid *zrika* of *kodshei kodashim* the status changes, but after a *zrikas pigul* it does not. Otherwise, why not draw the distinction within *kodshei kodashim* itself?
-
-### Pigul conclusion
-
-The answer is: *kodashim kalim psika lei* — by *kodashim kalim* the case is categorical. With a *pigul* thought there is never *me'ila*, neither before nor after *zrika*, because even the *zrika* of *pigul* does not qualify as a valid *zrika* for the *emurim*. By *kodshei kodashim*, on the other hand, one might theoretically argue that after a *zrikas pigul* the status does change. That is precisely the scenario the *braisa* does not want to raise as an example, because it does not endorse that possibility. These are admittedly forced readings — *dachukim* — but the conclusion is consistent: both *braisot* make it clear that a *pigul* thought does not change the *me'ila* status.
-
-At this juncture, the entire principle of Rav Gidal amar Rav comes into focus. The mishna itself had already established that *avodas* done *b'psul* do not change status. What made *pigul* seem different was the concept of *mertzeh l'pigulo* — the idea that a *zrikas pigul* is in some sense as if it were a legitimate *zrika*. The *braisot* firmly reject any practical implication of that principle for *me'ila*. A *kesherah zrika* is required to either elevate the *emurim* of *kodashim kalim* to *me'ila* status or to release the meat of *kodshei kodashim* from *me'ila*. A *zrikas pigul*, however conceptually quasi-valid, does not accomplish that.
+While it was acknowledged that a *shechitas pigul* can accomplish something — for instance, it can sanctify the bread of a *toda* — it will nonetheless not have the effect of altering the *me'ila* status of the *korban*. That requires a *zerika* performed *b'hechsher*, a fully valid sprinkling, which alone renders either the meat fit for *kohanim* (in the case of *kodshei kodashim*) or the *emurim* fit for the *mizbe'ach* (in the case of *kodshim kalim*). Only when this is done properly does the *me'ila* status change.
 
 ---
 
-## Moment of status
+## Braisa on Pigul & Me'ila
 
-### Mishna sheia heter
+### Hapigul l'olam
 
-This conclusion serves as a natural bridge to the next portion of the mishna, which takes up precisely the question of when the *me'ila* status of *kodshei kodashim* meat changes. The mishna formulates a general principle attributed to Rabbi Yehoshua: *kol she-yesh lah she'as heter la-kohanim ein mo'alin bah* — any offering whose meat once reached a moment of being *mutar l'kohanim* is no longer subject to *me'ila* even if a subsequent *psul* occurred. Conversely, *kol she-ein lo she'as heter la-kohanim mo'alin bah* — any offering that never reached that moment retains its *me'ila* status throughout.
+The *Gemara* now turns to a *braisa* in an attempt to bring a proof: *hapigul l'olam mo'ilin bo* — there is always *me'ila* in the case of *pigul*. This statement would seem to mean that when *pigul* is involved in *kodshei kodashim*, the meat never exits the *me'ila* category, presumably because the *zerika* with *pigul* intent is not a valid *zerika* and the meat therefore never becomes *mutar l'kohanim*. This appears to support Rav Giddel amar Rav directly.
 
-The mishna illustrates both categories. Cases that did pass through a moment of *heter*: *shelanah* — the meat stayed overnight (*notar*), *shenitmah* — the meat became *tamei*, *sheyatzas* — the meat left the *Beis HaMikdash*. In each case, the meat had at some point been fit for the *kohanim* to eat; the subsequent *psul* does not restore *me'ila*. Cases that never had a moment of *heter*: *shenishchata chutz lizmana ve-chutz limkoma* — slaughtered with a *machshavas pigul* thought from the outset; *u-shekiblu psulin ve-zarku es dama* — where people who were *psul* caught and sprinkled the blood. In these cases the meat was never fit.
+### Zerika vs. No Zerika
 
-The simple reading of this mishna would seem to center the critical moment at *zrika*: if the *zrika* was valid, the meat passed through a moment of *heter*; if not, it did not.
+The *Gemara* asks: does this *braisa* not mean that even when *zerikas hadam* was performed — albeit with *machshaves pigul* — it is still not considered a legitimate *zerika*, and thus *me'ila* remains? *Umesayei lei* — this would be a support for Rav Giddel amar Rav. But the *Gemara* deflects: *lo, d'lo zarak dam* — perhaps the *braisa* is discussing a case where the blood was never sprinkled at all, meaning the *pigul* occurred at an earlier stage before any *zerika* took place.
 
-### Bar Kappara q
+### Novelty Question
 
-The question of precisely which moment triggers the status change is dramatized by the exchange between Bar Kappara and his nephew Bar Padda. Bar Kappara, preparing for the following day's learning in the *beis midrash*, fed Bar Padda the question in advance — an interesting glimpse into how a great teacher sets up the discussion he wants to have. The question Bar Kappara primed was this: when the mishna says the meat had a *she'as heter*, what moment does it refer to?
+If that is the reading, the *Gemara* asks, what is the *olam* — the word "always" — adding? And more fundamentally, what is the *chiddush*? Even without *pigul*, if no *zerika hadam* occurred, obviously nothing changes — neither for *kodshim kalim* becoming *mutar* nor for the *emurim* of *kodshei kodashim* becoming fit for the *mizbe'ach*.
 
-### Three moments
+### Why Pigul Without Zerika
 
-Three possibilities present themselves. *Heter shechita*: perhaps the relevant moment is when the *shechita* was performed correctly — once the *shechita* was valid, even if a *psul* came later at any subsequent stage, the status would have already changed. *Heter zerika*: perhaps the relevant moment is when the blood was fit to be thrown — meaning the *kabbalah* was done correctly, such that the blood was eligible for *zrika*. This draws on the principle of *kol ha'omed lizrok kezrak dami* — what stands ready to be thrown is considered as if it were already thrown. *Heter achila*: perhaps the meat must actually become fit for eating in practice before the status changes.
+The *Gemara* presses further: *iy d'lo zarak dam mai l'meimra* — if no *zerika hadam* occurred at all, why mention *pigul*? The status would not change regardless of any *pigul* thought. One does not need the language of *pigul* to teach something that applies universally to any case without *zerika*.
 
-### Chizkiya/Yochanan
+### Olah Me'ila Analysis
 
-The *braisa*'s debate is between Chizkiya and Rabbi Yochanan. Chizkiya holds *heter shechita shaninu* — as long as the *shechita* was correctly performed, the status has changed. Rabbi Yochanan holds *heter achila shaninu* — the meat must actually reach the point of fitness for consumption. Notably, no *amora* takes the position of *heter zerika* explicitly.
+The *Gemara* then proposes that the *braisa* may be discussing an *olah*, where there is no status change under any circumstances — before *zerika hadam* all parts belong to the *mizbe'ach*, and after *zerika hadam* they equally belong to the *mizbe'ach*. (The *or*, the hide, is a separate discussion we bracket here.) For an *olah*, then, there is always *me'ila*, and neither *pigul* nor the absence of *pigul* changes anything. *Iy b'olah peshita d'gavoa ihi kulla* — if it is an *olah*, of course there will always be *me'ila*: the entire offering belongs to God both before and after *zerika*, and *machshaves pigul* has no bearing on that.
 
-### Rabbi Zeira reading
+### Dam Linah & Me'ila
 
-Rabbi Zeira introduces a complication. He argues that a careful reading of the mishna itself does not accord precisely with either Chizkiya or Rabbi Yochanan. The mishna, read closely, does not unambiguously support either extreme position. The question is whether the thing that became *tamei* or *shelanah* or *yatzas* is the meat — which would support the *achila* position — or the blood, which would support a *zerika*-centered reading.
+The *seifa* of that *braisa*, however, states: *lan dama* — if the blood was left overnight (*linah*), even if one subsequently performed the *zerika*, *me'ilin bah* — *me'ila* still applies. The reason is clear: overnight blood is disqualified, and therefore no valid *zerika hadam* can be performed, so the meat cannot become *mutar ba'achilah*.
 
-### Blood vs meat
+### Zerika Timing Proof
 
-The Gemara takes up this textual question directly. One could read the mishna's cases — *shelanah*, *shenitmah*, *sheyatzas* — as referring to the blood: the blood was caught correctly (*kabbalah* was valid), and then the blood itself became *tamei*, left the *Beis HaMikdash*, or stayed overnight. In that reading, once the blood was validly caught and fit for *zrika*, the status of the meat had already changed — supporting the *zerika*/*kabbalah* position. The Gemara pushes back: perhaps the subject in each case is the meat, not the blood. The meat became *tamei* after the *zrika* had already been properly performed, meaning the meat had genuinely become fit for eating before the *psul* occurred — supporting Rabbi Yochanan's *achila* position.
+Crucially, this *seifa* implies that had the blood been sprinkled at the correct time it *would* have changed the *me'ila* status. Therefore we cannot be discussing an *olah*, where there is never any change. *Ei amart b'chatas, shapir* — if we are dealing with a *chatas*, it makes perfect sense: a timely and valid *zerika* would remove the meat from *me'ila* status, whereas *dam linah* prevents that change.
 
-The Gemara acknowledges that *aval dam nizrak* — in the normal scenario the blood is indeed thrown — *mishum hachi tani ein mo'alin bo*. But the textual ambiguity remains. What definitively tips the scales is the mishna's second category, the case of *u-shekiblu psulin ve-zarku es dama*. The Gemara asks: *heichi dami* — how exactly does this phrase work? If we say *psulim* both caught and threw the blood, why mention both? Rather, one reads the phrase as: *psulim* caught the blood, and then the blood was thrown — by others, presumably valid *kohanim*. In that reading, the only recorded deficiency is at *kabbalah*, and yet the status never changed. This suggests that the critical moment is *heter zerika* — specifically, the moment of *kabbalah*. If the *kabbalah* was deficient, the status cannot change even if the subsequent *zrika* was valid.
+### Reisha-Seifa Parallel
 
-### Rav Yosef stock
-
-Rav Yosef challenges this inference. He argues that the phrase *kiblu psulim ve-zarku es dama* is a stock phrase — a formula used in multiple contexts — and that one cannot press its precise language to establish that *kabbalah* is the critical moment. He points to a *braisa* in *Zevachim* dealing with a *chatas pesula*: the rule is that the blood of a *chatas pesula* does not require laundering (*kibus*) of a garment it spatters upon, regardless of when the *psul* occurred. The *braisa* there uses exactly the same stock phrase — *kiblu psulim ve-zarku es dama* — yet the Gemara notes that in this context the phrase is puzzling.
-
-### Chatas psul
-
-The puzzlement arises from a separate *halacha*: *kari ka-na asher yize mi-dammah ve-lo she-kvar huzah* — the Torah requires laundering only when blood is spattered before the formal *zrika* on the *mizbeach*, not afterward. Once the blood has been formally thrown on the *mizbeach*, all remaining blood loses its potency and is considered *shirayim* — remainder blood — and there is no *kibus* obligation. This means that once *zrika* occurs, the question of whether the *zrika* was performed by *psulim* or *ksherim* is entirely moot. Whether valid or not, once blood is thrown on the *mizbeach*, any remaining blood is *shirayim* and does not trigger *kibus*. Therefore, the phrase *ve-zarku* in the *chatas* context adds nothing to the analysis — it is irrelevant — and must be a stock phrase that was inserted without precise legal significance.
-
-### Stock phrase
-
-The Gemara draws the parallel: just as the phrase in the *chatas* context is a stock phrase, so too in our mishna — *kiblu psulim ve-zarku es dama* should not be read with precision to prove that *kabbalah* is the uniquely critical moment. The Gemara initially accepts this resolution, reading the phrase as a formula borrowed across contexts. However, Rav Assi challenges this: if the phrase is a stock phrase in both places, then in which context did it ever originate as a meaningful, precise statement? A stock phrase must have started somewhere as a real ruling; if it is imprecise in both places, when was it ever precise? He concludes: *ella l'olam u'v'Me'ila davka* — in our mishna by *me'ila*, the phrase is precise and intended; it was then borrowed into the *chatas* context as a formula. Furthermore, the *chatas* context is not in fact discussing the *zrika* at all for the purpose of determining *psul*-status, but rather for a different point: *d'psul oseh shirayim* — to teach that even a *zrika* performed by a *psul* person suffices to render the remaining blood *shirayim*, such that even blood subsequently caught by a valid *kohen* is no longer usable blood and, if spattered on a garment, would not require *kibus*.
+Since the *seifa* is clearly discussing a *chatas*, the *Gemara* concludes that the *reisha* should likewise be understood as discussing a *chatas*. *Ho'il umesayei lei seifa, mesayei lei nami reisha* — since the end of the *braisa* supports Rav Giddel amar Rav (inasmuch as it is clearly about a *chatas* and addresses a case of invalid *zerika*), the beginning of the *braisa* should also be read as discussing a *chatas*, where *pigul* at the *zerika* stage fails to change the *me'ila* status. Thus the *braisa* in its entirety provides a proof.
 
 ---
 
-## Psul shirayim
+## Linah vs. Pigul Intent
 
-### Reish Lakish q
+### Active vs. Passive Psul
 
-The Gemara now digresses on the principle of *psul oseh shirayim* — the question of whether an invalid *avoda* can render the remaining blood *shirayim*. Reish Lakish posed the question to Rabbi Yochanan: if a *psul* person performed the *avoda* — specifically *kabbalah* or *zrika* — and there is other blood that a valid *kohen* had caught, is that other blood now considered *shirayim* (remnant blood, no longer available for *zrika*) or not?
+The *Gemara* does not rest with this conclusion, however. Rav Yosef challenges the analogy between *dam linah* and *machshaves pigul* as causes of *psul*. The argument from *dam linah* to the *zerika* of *pigul* is that in both cases the *zerika* is invalid and therefore ought not to change *me'ila* status. But Rav Yosef presses: *mai shna halinah dekavid bayadayim?* — what is the distinction of *linah* that it was, in a sense, committed through active deed?
 
-### Yochanan answer
+### Physical Action Element
 
-Rabbi Yochanan's answer is notable: *ein lecha davar she'ya'aseh shirayim ela chutz mi-zmano ve-chutz mi-mkomo, ho-il u-mirtzin le-piggulan* — nothing renders the remaining blood *shirayim* except a *zrika* performed with a *machshava* of *chutz lizmano* or *chutz limkomo* — that is, a *pigul*-type thought. Why? Precisely because of the principle already discussed: by *pigul*, the *avoda* is considered as if it were accepted — *meratzeh l'pigulo* — and so the *zrikas pigul* has a degree of quasi-validity that no other *psul* possesses. Since in some sense the *zrika* is treated as if it took place, the remaining blood is rendered *shirayim*. Any other *psul*, however, leaves the *avoda* categorically void — it is as if nothing happened — and therefore the other blood retains its full status.
+The subtlety here is the following. With *dam linah*, the blood is physically old blood, left overnight and then sprinkled — there is a concrete, objective defect in the blood itself. With *machshaves pigul*, by contrast, the only problem lies in one's intention. Physically, everything is performed correctly; the only disqualifying element is a thought in the mind of the *kohen*. *Machshava lo ka'avid bayadayim* — thought does not constitute physical action in the manner that leaving blood overnight does. Therefore, *mahni lei zerika le'afokei midei me'ila* — perhaps the *zerika* itself is sufficient to change the *me'ila* status, and the mental *psul* of *pigul* should not block it.
 
-This loops back to the theme established at the beginning of the daf: the paradox of *pigul* is that it requires everything to have been done correctly (save the thought), and thus the *avoda* retains a ghostly legitimacy that other *psulim* lack. Here, Rabbi Yochanan affirms that this quasi-legitimacy is real enough to affect the status of the remaining blood — though, as we established earlier, it is not sufficient to change the *me'ila* status of the meat.
+### Concrete vs. Mental
 
-### Objection clarify
+This distinction is, as noted, somewhat counterintuitive. One might have supposed that actively thinking something is more "active" than passively allowing blood to remain overnight. Yet the *Gemara*'s reasoning appears to be that when something must be done and one fails to do it correctly, one is operating within the domain of physical action — even if the action itself is incorrect. The blood was supposed to be sprinkled that day; by leaving it overnight and sprinkling it the next day, one has engaged in the domain of physical action and done it wrong. Whereas if everything physical was done correctly and only the mind went astray, this may be a less objectively concrete form of *psul*. Understood in this light: precisely because the *psul* of *pigul* is less tangible — it resides entirely in the mental realm, while the physical world remained undisturbed — one might argue that the *zerika* is valid enough in the physical dimension to change the *me'ila* status.
 
-A question arises: if *pigul* works to make *shirayim*, why not other *psulim* as well? Rabbi Zeira clarifies that Rabbi Yochanan's statement must be parsed carefully. He was not saying that *pigul* is the only *psul* with any quasi-validity whatsoever. Rather, *pigul* is the only *psul* among those that are *never* overridden — that can still produce *shirayim*.
+### Zerika Pigul Validity
 
-### Pigul tamei
+This is the crux of why the *Gemara* cannot simply infer from *dam linah* to *machshaves pigul*. In the case of *linah*, there is an actual, objective disqualification of the blood itself; clearly the status does not change. When only a thought is involved and physically everything is in order, perhaps the *zerika* is considered sufficiently real to effect a change in status. Therefore the *braisa*'s ruling about *dam linah* cannot automatically be extended to the case of *pigul* at the moment of *zerika*.
 
-There is one other *psul* that does have quasi-validity: *tuma*. When a *tamei kohen* performs the *avoda*, that *avoda* is, in certain circumstances, permitted — specifically *b'tzibbur*, when the entire community is *tamei*. Because *tuma* is sometimes overridden (*hutra* or *d'chuya b'tzibbur*), even a *zrika* performed by a *tamei kohen* retains a degree of validity sufficient to render the remaining blood *shirayim*.
-
-### Tamei b'tzibbur
-
-The principle is reformulated: *ein lecha davar she'eino meratzeh b'tzibbur ve'oseh shirayim ela chutz li-zmano ve-chutz li-mkomo* — among *psulim* that are never overridden in a communal setting, nothing produces *shirayim* except the *pigul*-type thought. But *tuma*, since there are situations where it is permitted (*hutra b'tzibbur*), means that an *avoda* performed by a *tamei* person retains enough validity to make the remaining blood *shirayim*.
-
-### Meratzeh hutra
-
-This yields a clean analytical parallel. Two categories of *psul* possess sufficient quasi-validity to affect the *shirayim* status of other blood: *pigul*, by virtue of *meratzeh l'pigulo* — the *avoda* is treated as having been accepted for the purpose of *pigul*; and *tuma*, by virtue of *hutra b'tzibbur* — the *avoda* is performed under a *psul* that is sometimes entirely permitted. All other *psulim* — a *ba'al mum*, an *onen*, and so forth — whose *avoda* is categorically void with no circumstance of override, produce no *shirayim*, and the remaining blood retains its full usable status.
+The *Gemara* nonetheless notes that while this argument prevents a direct proof by analogy, the text of the *braisa* itself still seems to support Rav Giddel amar Rav. Since the *seifa* is clearly discussing a *chatas*, the *reisha* — which states that with *pigul* there is always *me'ila* — should also be understood as discussing a *chatas*, and as addressing the case where *zerika* was performed with *pigul* intent and the status did not change. The *Gemara* therefore does not fully surrender this *braisa* as a support; rather, it brackets the limitation on analogical inference and notes that the simple reading of the *braisa* still points to Rav Giddel amar Rav's conclusion.
 
 ---
 
-## Braisa l'olam
+## Kadashim Braisa & Pigul
 
-### L'olam proof
+### Pigul Kodshei Kodashim
 
-With the *shirayim* digression concluded, the Gemara returns to the main unresolved question: what is the critical moment that determines the *me'ila* status — *shechita*, *kabbalah*, or *zrika*? The Gemara makes one more attempt to resolve this from the *braisa* cited earlier: *ha'pigul l'olam mo'alin bo*.
+The *Gemara* attempts once more to bring a proof: *hapigul bekadshei kodashim mo'alin bo* — *pigul* in *kodshei kodashim* is subject to *me'ila*. This is a parallel formulation to the one discussed above, apparently stating that even with *pigul*, the meat of *kodshei kodashim* retains its *me'ila* status — which seems to support the view that *zerika* with *machshaves pigul* does not change the status.
 
-### L'olam early
+### Zerika Pigul Status Chan…
 
-The Gemara's initial inference is that the emphasis of *l'olam* — "always" — implies that even when *pigul* occurred at an early stage, such as at *shechita* or *kabbalah*, the status never changes. In other words, *l'olam* signals that even without a subsequent *zrika* at all, if there was a *pigul* thought earlier, the *me'ila* status is permanently locked in. This would suggest that the critical moment is earlier than *zrika*.
+The *Gemara* asks: *lav af al gav dezarak* — does this not mean that even when *zerikas hadam* was performed (albeit with *machshaves pigul*), the status does not change? *Umesayei lei* — and that would support Rav Giddel amar Rav. The *Gemara* answers: *lo, d'lo zarak* — perhaps it refers to a case where no *zerika hadam* occurred at all. And if so, *aval zarak mai?* — if one did perform *zerika*, what would the rule be? Perhaps even with *pigul* intent the *zerika* would change the status.
 
-### Zerika pigul
+### Kodshim Kalim No Me'ila
 
-The Gemara deflects: *lo, zarka* — no, we are in fact discussing a case where *zrika* was performed, but performed *b'pigul*. The emphasis of *l'olam* is not about the early stage but about the *zrika* stage: even though the *zrika* was done — and even though *zrikas pigul* might have been thought to possess quasi-validity — *l'olam* underscores that *pigul* will always remain a problem and will never suffice to change the *me'ila* status.
+The *seifa* of this *braisa* states: *bekodashim kalim ein mo'alin bo* — in *kodshim kalim*, when there is *pigul*, there is no *me'ila*. The *Gemara* seizes on this. *Amai katani seifa bekodashim kalim ein mo'alin bo?* — why does the *braisa* need to go to *kodshim kalim* to find a case of no *me'ila*?
 
-### Rashi interpret
+### Kodshim Kalim Examples
 
-The precise *diyyuk* of this passage is not entirely clear. Rashi addresses this point, but his comments do not fully resolve why the Gemara initially infers from *l'olam* that the problem arose at an early stage, or exactly how answering *lo, zarka* dispels that reading. It appears that somehow the Gemara read *l'olam* as signaling an extreme case — even without *zrika* altogether — and the answer corrects this by saying in fact *zrika* was performed, but the emphasis of *l'olam* still carries force for a different reason.
+If one genuinely held that *zerika* with *pigul* intent is meaningless and therefore does not change status, then even within *kodshei kodashim* there should be a case of no *me'ila* — namely, after a valid *zerika* is performed. The *braisa* could have stayed within the domain of *kodshei kodashim* and noted that after *zerika* the *me'ila* status changes. The fact that it sought out *kodshim kalim* as its example of no *me'ila* demands explanation.
 
-### Rav Gidal zerika
+### Seifa Proof
 
-That force is identified as follows: *ha kamashmalan ke-Rav Gidel* — *l'olam* is teaching us in accordance with Rav Gidal amar Rav, *zrikas pigul eina motzi midei me'ila ve'eina meivi lidei me'ila* — a *zrikas pigul* neither removes the *me'ila* status of *kodshei kodashim* meat nor imposes *me'ila* upon the *emurim* of *kodashim kalim*. The emphasis of *l'olam* is precisely to address the case where one might have thought otherwise — where *zrika* was actually performed, but *b'pigul* — and to insist that even in that case the status does not change. Rather than merely describing an obvious case of no *zrika* at all, the *braisa* is making the non-trivial point: that *zrikas pigul* is not a sufficient *zrika*, and this will always be so, *l'olam*.
+*Liplug b'reisha v'lisni* — why not subdivide the *reisha* itself and teach: before *zerika* there is *me'ila*, and after *zerika* even with *pigul* intent there is no *me'ila*? The very fact that the *braisa* did not do so implies that after *zerika* with *pigul* intent, *me'ila* still applies. The *braisa* therefore went to *kodshim kalim* to find a categorical example of no *me'ila*, because it could not find that category in *kodshei kodashim* after a *zerika* of *pigul*. *Hahu vadai mesayei lei* — the *seifa* is definitely a proof for Rav Giddel amar Rav.
 
-Significantly, this re-anchors the discussion at *zrika* as the key moment. The very framing of Rav Gidal's principle — that *zrikas pigul* neither removes nor imposes *me'ila* — presupposes that *zrika* is the pivotal act. Once you say that even *zrikas pigul* fails to change the status, you are implicitly affirming that a proper *zrika* would have done so. This circles back to the main unresolved question of whether *kabbalah* or *zrika* is the critical moment, and in fact the way Rav Gidal's principle is formulated here tends to suggest *zrika* is the operative moment — not *kabbalah*.
+### Kodshim Kalim Categorical
 
-### Question ongoing
+The reason the *braisa* chose *kodshim kalim* as its example is now explained: by *kodshim kalim* with a *pigul* thought, there is categorically never *me'ila* from beginning to end. Before *zerika* there is no *me'ila* because these are *kodshim kalim*. After *zerika* — even a *zerika* with *pigul* intent — there is still no *me'ila* because the *zerika* does not elevate the *emurim*. The category is thus *pesika* — settled and complete — without any internal exceptions. This makes *kodshim kalim* an ideal vehicle for stating a universal negative.
 
-Nevertheless, the Gemara leaves the question formally unresolved. Whether the *mishna*'s phrase *she'as heter la-kohanim* refers to the moment of valid *kabbalah*, valid *zrika*, or actual fitness for consumption remains undetermined on this daf. The *pshat* of the mishna strongly favors *zrika* — when the meat actually becomes *mutar l'kohanim* — but the Gemara has been seriously entertaining the possibility that *kabbalah* is the decisive moment, with the *kol ha'omed lizrok kezrak dami* principle as its conceptual engine. The discussion continues on the next daf.
+The *Gemara* then turns to the parallel structural question: since the *seifa* is a clear proof, does it also prove what the *reisha* is discussing? The answer distinguishes between using the *seifa* as an analogy and using it to clarify the *reisha*. As for the analogy: the *seifa*'s ruling that *zerika* of *pigul* does not elevate the *emurim* of *kodshim kalim* strongly implies by analogy that *zerika* of *pigul* similarly does not lower the *me'ila* status of *kodshei kodashim* meat. As for the structural question of whether the *reisha* is necessarily discussing *zerika* and not an earlier stage: the *Gemara* notes that by *kodshim kalim* the categorical absence of *me'ila* covers the entire spectrum, so the *braisa* needed no internal subdivision; but it cannot be inferred from this that the *reisha* about *kodshei kodashim* is necessarily discussing the stage of *zerika*. These are distinguished but ultimately very strained (*dachuk*) responses. The fundamental point is clear from both *beraisot*: with a *pigul* thought, the status does not change in either direction.
+
+---
+
+## Psul & Me'ila Conclusion
+
+### Status Change Required
+
+The *Gemara* arrives at a conclusion. For *me'ila* status to change, an actual change in the *halachic* standing of the meat or *emurim* must occur. The *zerika* that accomplishes this must be a *kasher zerika*, one that genuinely renders either the meat *mutar l'kohanim* or the *emurim* fit for the *mizbe'ach*.
+
+### Pigul Distinction
+
+*Zerika* performed with *pigul* intent occupies a peculiar position: it is, in one sense, "good for *pigul*" — it is the *zerika* that completes the *pigul* disqualification and establishes the transgression of eating *pigul*. In that dimension, the *zerika* is meaningful. But it is not good for *me'ila*: it does not change the *halachic* status of the meat, it does not make the meat *mutar* to *kohanim*, and it does not make the *emurim* fit for the *mizbe'ach*. So the two dimensions are severed: the *mertzeh l'pigulo* dimension is operative for the *din* of *pigul*, but carries no weight for the *din* of *me'ila*.
+
+### Real Criterion
+
+The real criterion for a change in *me'ila* status is physical fitness — either fitness of the meat for the *kohanim*, or fitness of the *emurim* for the *mizbe'ach*. When that actual change in physical *halachic* standing has not occurred, *me'ila* is not affected. A mental *psul* that masquerades as a quasi-valid *zerika* does not meet this threshold.
+
+---
+
+## Mishna: Status Change
+
+### Sha'at Heter Kohanim
+
+The *Gemara* now moves to the next passage of the *mishna*, which addresses precisely this issue of when status change occurs. Rabbi Yehoshua stated a general principle: *kol shena'asa lo sha'at heter lakohanim, ein mo'alin bo* — any time there was a moment when the meat became *mutar l'kohanim*, there is no longer *me'ila* on the meat of *kodshei kodashim*. Conversely, *vekol shelo na'asa lo sha'at heter lakohanim, mo'alin bo* — if it never became *mutar*, it retains its *me'ila* status.
+
+### Status Change Examples
+
+The *mishna* then provides examples of cases where the meat *did* pass through a moment of *heter*: *she'lanah* — the meat stayed overnight (it had been *mutar* but became *notar*); *she'nitme'is* — it became *tamei* after being fit; *she'yatza'as* — it exited the *Beis Hamikdash* and became a *psul yotzei*. In all these cases there was a moment when the meat could have been eaten, and therefore it is no longer subject to *me'ila*.
+
+### No Status Change
+
+Conversely, the *mishna* gives examples where the meat never passed through such a moment: *she'nishchetah chutz lizmano ve'chutz limkomo* — it was slaughtered with a *machshavah* of the wrong time or wrong place, a *pigul*-type disqualification; *she'kiblu psulim ve'zarku es damah* — *pasul* individuals caught the blood or sprinkled it. In all such cases the meat never became *mutar*, and *me'ila* applies throughout.
+
+---
+
+## Bar Kappara Question
+
+### Three Heter Options
+
+Bar Kappara said to Bar Padda — his nephew — the following: *re'ei mah ani sho'alcha lemachar beveis hamedrash* — "See what I want you to ask me tomorrow in the *Beis Hamedrash*." He was, in effect, either prepping his nephew to pose the right question publicly, or setting up the discussion that was to follow. The question he wished to have posed was this: when the *mishna* says that there was a *sha'at heter lakohanim*, what precise moment does that refer to? Three possibilities present themselves: *heter shechitah* — that the *shechitah* was performed correctly; *heter zerikah* — that it was fit for *zerikah*; or *heter achilah* — that it was actually fit to be eaten.
+
+### Definitions of Heter
+
+The terminology here requires precision. *Heter shechitah* means the *shechitah* itself was done correctly. *Heter zerikah* — which is the somewhat confusing formulation — does not mean the *zerika* was performed, but rather that the *korban* was at a stage where it *could* have been sprinkled, which in practice means the *kabalah* was done correctly. So the question is: is the determinative moment the *shechitah*, the *kabalah*, or the actual *zerika* and its making the meat fit for eating?
+
+### Omed Lizrok Principle
+
+The *heter zerikah* option is connected to the principle of *kol ha'omed lizrok kezarak dami* — whatever stands ready to be sprinkled is considered as though it were already sprinkled. If the *kabalah* was done properly, one might argue that the blood is already deemed *k'ilu nizrak*, and at that point the status change has effectively occurred, rendering actual *zerika* unnecessary as the determinative moment.
+
+---
+
+## Chizkiyahu vs. Yochanan
+
+### Chizkiyahu Position
+
+The next day, when the question was posed in the *Beis Hamedrash*, Bar Kappara responded by presenting a *tannaitic*-era debate, or perhaps a debate among *Amoraim*. Chizkiyahu said: *heter shechitah shaninu* — the *mishna* is speaking of the moment of *shechitah*. As long as the *shechitah* was performed correctly, even if a *psul* occurred thereafter, that suffices to establish a *sha'at heter* and remove the meat from *me'ila*.
+
+### Yochanan Position
+
+Rabbi Yochanan disagreed: *heter achilah shaninu* — the *mishna* means the moment at which the meat was actually fit to be eaten. Only when it reached that stage, having passed through a valid *zerika*, is there a true *sha'at heter lakohanim*. Notably, no opinion is recorded for *heter zerikah* in the sense of *kabalah* being the key moment — though that option will resurface shortly.
+
+### Zeira Assessment
+
+Rabbi Zeira then made a striking observation: *lo daka matnisin, delo k'Chizkiyahu, vedelo k'Rabbi Yochanan* — the *mishna* does not read precisely according to either position. This is a significant claim: the *mishna*'s language, if analyzed carefully, does not straightforwardly support either *heter shechitah* or *heter achilah*.
+
+---
+
+## Meat vs. Blood Analysis
+
+### Lanah: Meat or Blood
+
+To demonstrate this, the *Gemara* turns to the specific examples in the *mishna*. The *mishna* says *she'lanah* — it stayed overnight. But what is the "it" that stayed overnight? The *Gemara* initially assumes, given the thrust of the discussion about *sha'at heter*, that the "it" refers to the meat: the meat was *mutar*, remained overnight, became *notar*. But one could alternatively read *lan dam* — the blood stayed overnight.
+
+### Blood Linah Question
+
+If the blood stayed overnight — meaning the *kabalah* was done correctly but the blood became disqualified through *linah* before any *zerika* — does the *mishna* then say the status has changed? If so, it would suggest that *heter zerikah*, the moment of valid *kabalah*, is sufficient to establish a *sha'at heter*, even without actual *zerika* having occurred. The reading of *lan dam* would then be: the blood that was properly caught stayed overnight, and even though *zerika* never happened (and cannot happen with this blood), the status is already considered as having changed.
+
+### Meat Linah Implication
+
+If, on the other hand, we read *lan basar* — the meat stayed overnight — then clearly the *zerika* must have already occurred, because only after a valid *zerika* does the meat attain its *mutar* status and become susceptible to becoming *notar*. Under this reading, the *mishna* is saying: the meat was once *mutar* (implying a valid *zerika* had taken place), subsequently became *notar* through *linah*, and therefore there is no *me'ila* — because there was indeed a *sha'at heter*.
+
+### Zerika Needed
+
+Thus if we read *lan basar*, the *mishna* implicitly requires *zerika hadam* as a precondition for any status change — which aligns with Rabbi Yochanan's *heter achilah* position (or at least is consistent with it), since only after *zerika* does the meat become *mutar ba'achilah*. The *Gemara* concludes that this second reading is the correct one: it is the meat, not the blood, that stayed overnight, and therefore *zerika hadam* was necessarily a precondition. The *mishna*'s example thus does not support the *heter zerikah* / *kabalah* reading.
+
+---
+
+## Kiblu & Zarku Phrase
+
+### One or Two Scenarios
+
+The *Gemara* then examines the second example in the *mishna* of where there was *no sha'at heter*: *she'kiblu psulim ve'zarku es damah* — *pasul* people received and sprinkled the blood. The critical question is how to parse this phrase: are *kiblu* and *zarku* describing one single scenario, or two independent scenarios connected by an implied "or"?
+
+### One Scenario = Kabala
+
+If it is one scenario — *pasulim* both caught and then sprinkled the blood — the *Gemara* asks why both stages need to be mentioned. The natural inference from combining them into a single scenario would be to focus on the *kabalah* as the critical moment of disqualification: the *psul* at *kabalah* is what poisoned the process from the start, and the subsequent *zerika* is included merely because that is how the case proceeded.
+
+### Two Scenarios = Zerika
+
+Alternatively, one could read the *vav* as a disjunction: either *psulim* caught the blood, *or* they sprinkled it. Under this reading, the *mishna* is giving two independent examples of disqualification, one involving *kabalah* alone and one involving *zerika* alone. This would imply that the *zerika* stage is independently significant — a *pasul zerika*, even with a proper *kabalah*, is itself sufficient to prevent the status change. This reading would align the *mishna* with the view that *zerika* is the key moment.
+
+---
+
+## Zevachim Comparison
+
+### Psul Blood No Kibus
+
+The *Gemara* now introduces a comparison to a *halacha* from *Zevachim* in order to evaluate these competing readings of the phrase *kiblu psulim ve'zarku es damah*. That *halacha* concerns the *mitzvas ha-Torah* that blood of a *chatas* which splatters on a garment must be laundered (*kibus*) in a holy place. The *halacha* is that this applies only to the blood of a *chatas kesherah* — a valid *chatas*. A *chatas pesulah* whose blood splatters on a garment does not require *kibus*.
+
+### Timing Irrelevant
+
+In this context of *Zevachim*, the timing of the *psul* is irrelevant. It does not matter whether the *chatas* was once fit and subsequently became disqualified, or whether it was never fit from the beginning. All that matters is its present status at the time of the spattering: if it is *pasul* now, the blood does not have the potency to require *kibus*.
+
+### Zevachim Categories
+
+Nevertheless, the *Gemara* there in *Zevachim* does describe both categories: *she'hayesa la sha'as ha'kosher ve'nifselah* — it was once fit and then became disqualified; and *she'lo hayesa la sha'as ha'kosher* — it was never fit. Although the legal outcome is identical in both cases, the *braisa* describes them separately.
+
+### No Distinction in Zevach…
+
+In the *Zevachim* passage, the same phrase appears: *she'kiblu psulim ve'zarku es damah* — as an example of a *chatas* that was never fit. Rav Yosef raises this parallel as a challenge to the reading proposed earlier in the context of *me'ila*, where one wished to be very precise about the phrase and infer from it that the *kabalah* is the key moment. Rav Yosef points out: if you read this phrase with such precision in *me'ila*, then in *Zevachim* — where the identical phrase appears — you would be claiming that only *kiblu psulim ve'zarku* (both together in one scenario) constitutes a *chatas pesulah*, and that if only *psulim* caught the blood but *kesherim* subsequently sprinkled it, the garment *would* require *kibus*. But that cannot be correct, for reasons the *Gemara* now develops.
+
+---
+
+## Torah Requirement Drasha
+
+### Kri Kan Drasha
+
+The *Torah* states: *va'asher yizeh mi-damah* — "whichever [garment] its blood spatters upon." The *Gemara* derives through a *drasha*: *kri kan asher yizeh mi-damah velo she-kevar huzah* — the verse refers to blood that is *about to be* sprinkled, not blood after it has already been sprinkled on the *mizbe'ach*. Once blood has been properly placed on the *mizbe'ach*, all remaining blood — including blood that was legitimately caught by a *kasher kohen* — loses its potency for the purpose of *kibus*. The remainder becomes *shirayim*, blood that is poured at the base of the *mizbe'ach* but no longer has the active status that would require *kibus*.
+
+### After Zerika No Potency
+
+This means that the case of *kiblu psulim ve'zarku es damah* in *Zevachim* cannot be read as a scenario in which the *psulim* sprinkled the blood in the normal sense of *zerika* on the *mizbe'ach*, because once *zerika* has occurred — even a valid one — the rest of the blood is already *shirayim* and its spattering on a garment is irrelevant. The mention of *zarku* in that context would therefore be superfluous if it meant a literal valid *zerika*.
+
+### Stock Phrase Proof
+
+The *Gemara* therefore proposes: *ela lav davka* — the phrase *kiblu psulim ve'zarku es damah* is not precise; it is a stock phrase (*stam nuscha*) employed generically. In *Zevachim*, the relevant moment is the *kabalah* — whether the blood was caught by a *pasul* person — and the mention of *zerika* is carried along as part of a formulaic phrase without intending to add a separate legal element. Therefore, one should not attempt to derive precision from the phrase in the context of *me'ila* either.
+
+---
+
+## Rav Assi Challenge
+
+### Stock Phrase Origin
+
+Rav Assi is not satisfied with this resolution. *Im ken lama li lemitni tarti?* — if the phrase is a stock phrase, why would it be taught in two places? If it is inexact in both places, then there was no point at which the phrase was used with genuine precision, and one must wonder how such an imprecise formula came into circulation at all. A stock phrase borrowed imprecisely must have had its origin in a place where it was precise. One location must have meant the phrase exactly as stated, and then it was borrowed elsewhere with some looseness.
+
+### Meilah is Precise
+
+Rav Assi therefore argues: *ela le'olam b'me'ila davka* — in *me'ila*, the phrase is precise and means exactly what it says: *psulim* caught *and* sprinkled the blood. In *me'ila*, the phrase was coined with full intentionality and then borrowed for the *Zevachim* context in a somewhat looser manner.
+
+### Psul Oseh Shirayim
+
+But Rav Assi goes further. He argues that in the *Zevachim* passage, the phrase is not merely a stock phrase imported carelessly — there is a genuine reason to discuss *zarku* even in that context. *Depasul oseh shirayim* — even when a *pasul* person performs *zerika*, it renders the other blood *shirayim*.
+
+### Psul Zerika Effect
+
+Here is the scenario: two people caught blood from the same *korban* — one *pasul*, one *kasher*. The *pasul* person goes first and performs *zerika* on the *mizbe'ach*. Then the *kasher* person attempts to perform *zerika* with his blood. What is the status of the *kasher* person's blood? Is it still valid blood whose spattering would require *kibus*, or is it now *shirayim* — remnant blood rendered irrelevant by the prior act of *zerika*? Rav Assi asserts that even the *zerika* of a *pasul* person is sufficient to make the other blood *shirayim*, rendering it no longer "active" blood. The *kasher* person's subsequent *zerika* would be meaningless — *lav klum* — and if that blood splatters on a garment, *kibus* would not be required.
+
+---
+
+## Shirayim Debate
+
+### Shirayim Question
+
+Reish Lakish had in fact posed precisely this question to Rabbi Yochanan: *pasul mahu sheyaaseh shirayim?* — if a *pasul* person performs *zerika* and there is other blood that was caught by a *kasher kohen*, does the *pasul* person's *zerika* make the *kasher* blood *shirayim*?
+
+### Yochanan: Only Pigul
+
+Rabbi Yochanan's answer was striking: *ein lecha davar sheyaaseh shirayim ela chutz lizmano ve'chutz limkomo, ho'il umeratzin lepigulan* — nothing has the capacity to create *shirayim* except *chutz lizmano* and *chutz limkomo*, i.e., a *zerika* performed with *machshaves pigul*. The reason: *pigul* only takes effect when the *avodah* was performed in such a way that the *korban* is considered, in a sense, as though it were accepted — *meratzeh l'pigulo*. Because the *zerika* with *pigul* intent is "as if" it were a valid *zerika*, it is sufficient to make the rest of the blood *shirayim*.
+
+### Mertzeh Concept
+
+This brings us full circle to the central principle discussed throughout the beginning of today's *daf*. The *mertzeh* concept — that a *zerika* with *pigul* intent is in some dimension "as if" valid — does not serve to change the *me'ila* status of the meat, as we concluded at length earlier. But Rabbi Yochanan now establishes that it *does* serve to affect the status of the remaining blood, rendering it *shirayim*.
+
+### Other Psulim Irrelevant
+
+Any other form of *psul*, however, is completely ineffective for this purpose. A *zerika* by a *ba'al mum*, an *onen*, or any other *pasul kohen* who does not fall within the *chutz lizmano/chutz limkomo* category leaves the rest of the blood entirely unaffected. The other blood remains valid, a *kasher kohen* can use it, and if it splatters on a garment it would require *kibus*. The key dividing line is precisely the *mertzeh l'pigulo* concept: only those *psulim* that carry with them some dimension of quasi-validity can affect the rest of the blood.
+
+---
+
+## Pigul & Tuma Validity
+
+### Only Pigul-Type
+
+The *Gemara* then refines Rabbi Yochanan's statement. The formulation *ein lecha davar sheyaaseh shirayim ela chutz lizmano ve'chutz limkomo* — nothing creates *shirayim* except *pigul*-type intent — appears at first to be absolute. Yet this raises an obvious difficulty: what about *tuma*?
+
+### B'Tzibur Overwritten
+
+The *Gemara* therefore clarifies that Rabbi Yochanan's statement was not meant absolutely. The real formulation is: *ein lecha davar she'eino mirtzeh b'tzibur ve'oseh shirayim ela chutz lizmano ve'chutz limkomo* — there is no *psul* that is never overwritten *b'tzibur* yet still has the capacity to create *shirayim*, except for *chutz lizmano ve'chutz limkomo*. The operative category is: is this *psul* one that can ever be overridden by congregational necessity (*b'tzibur*)? If a *psul* is sometimes permitted or overridden *b'tzibur*, then an *avodah* performed with that *psul* retains some quasi-validity, and its *zerika* can create *shirayim*.
+
+### Tuma Overwritten
+
+*Tuma* is precisely such a *psul*. There is a principle that *tuma* is *dchuya* or *hutrah b'tzibur* — either pushed aside or entirely permitted when the *tzibur* (community) is *tamei*. Because *kabalas tamei* and *zerikas tamei* can be *kasher* in certain circumstances (when the entire *tzibur* is *tamei*), an *avodah* performed by a *tamei kohen* is not a completely meaningless act. It carries some dimension of quasi-validity.
+
+### Tuma Zerika Validity
+
+Therefore, a *zerika* performed by a *tamei kohen* can also make the other blood *shirayim*. The same logical structure applies as with *pigul*: since *tuma* can be overridden *b'tzibur*, the *avodah* of a *tamei kohen* is not purely void, and therefore it affects the status of the remaining blood.
+
+### Other Psulim Not
+
+Other *psulim* — those that are never overridden *b'tzibur*, such as the *psul* of a *ba'al mum* — share none of this quasi-validity. Their *zerika* is entirely ineffective, the remaining blood is not *shirayim*, and the law of *kibus* would apply to the other blood if it splatters. The category of *psulim* that create *shirayim* is thus limited to two: *chutz lizmano/chutz limkomo* (*pigul*) by virtue of *mertzeh l'pigulo*, and *tuma* by virtue of *b'tzibur* override.
+
+This clarification, while initially appearing as a digression, in fact crystallizes the conceptual landscape of the entire discussion. We now have two categories of *avodah* that, though *pasul*, carry some residual significance: *pigul* because of *mertzeh l'pigulo*, and *tuma* because of *b'tzibur*. Neither creates a *kasher korban*, and — as we established at the outset — neither is sufficient to change *me'ila* status. But both carry enough quasi-validity to affect the status of remaining blood by rendering it *shirayim*.
+
+---
+
+## Back to Main Question
+
+### Hapigul Revisited
+
+The *Gemara* returns to its main inquiry — the question of which moment determines the status change in *me'ila* — and revisits the first *braisa*: *hapigul l'olam mo'ilin bo*. This is the same formulation examined at the beginning of the *daf*.
+
+### L'olam Inference
+
+The *Gemara* attempts to use this *braisa* as evidence for the *kabalah* position. The argument runs as follows: the phrase *l'olam mo'ilin bo* — "always there is *me'ila*" — implies a universality. Perhaps the emphasis of *l'olam* is to convey that even when *pigul* occurred at an earlier stage, before *zerika*, the *me'ila* status never changes. This would suggest that the key moment is *kabalah* — since if *pigul* attached at *kabalah*, the *zerika* cannot remedy it. The *l'olam* underscores that no subsequent act repairs the problem.
+
+### Lav Delo Zarak
+
+The *Gemara* resists this reading: *lav delo zarak* — this does not mean the blood was not sprinkled at all. We are, in fact, discussing a case where *zerika* did occur. The *braisa* is addressing *zerika* performed with *pigul* intent.
+
+### L'olam Emphasis
+
+What, then, is the significance of *l'olam*? The *Gemara* explains that the emphasis of *l'olam* is directed at precisely the case of *zerika* with *pigul* intent — the very case where one might have thought the *zerika* should count for purposes of *me'ila* because of *mertzeh l'pigulo*. The *l'olam* conveys that *pigul* is always a problem, even at the stage of *zerika*, and that even a *zerika* which operates through *mertzeh l'pigulo* will not change the *me'ila* status. It is specifically the *zerika*-stage *pigul* that the *braisa* is ruling on.
+
+### Zerika Key Moment
+
+The *Gemara* concludes that this emphasis itself points to *zerika* as the key moment. The entire discussion has been centered on whether a *zerika* with *pigul* intent — which is, in one dimension, "as if" valid — should count to change *me'ila* status. The *l'olam* is the *braisa*'s way of unequivocally ruling that it does not. This confirms that it is the *zerika* — and specifically a *kasher zerika* — that is the operative moment for any change in *me'ila* status. The question of whether the key moment is *kabalah* or *zerika* therefore remains technically unresolved in its full formal sense, as the *Gemara* acknowledges that the *mishna*'s language can be read in support of either position, and we will continue with this discussion on the next *daf*.

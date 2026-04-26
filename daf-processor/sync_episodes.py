@@ -111,6 +111,9 @@ _ALIASES: dict[str, str] = {
     "me'ilah":    "Meilah",        # apostrophe variant
     "meilah":     "Meilah",
     "peschim":    "Pesachim",      # typo in SoundCloud title
+    "moedkatan":  "Moed Katan",
+    "roshhashanah": "Rosh Hashanah",
+    "rosh hashana": "Rosh Hashanah",
 }
 # Merge aliases into lookup (aliases do not override canonical spellings)
 for _alias, _canonical in _ALIASES.items():

@@ -47,7 +47,7 @@ class StudySessionViewModel : ViewModel() {
 
     // MARK: - Session lifecycle
 
-    fun startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode) {
+    fun startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode, startAtLastSection: Boolean = false) {
         studyMode = mode
         this.quizMode = quizMode
         loadingIndices.clear()
@@ -82,6 +82,7 @@ class StudySessionViewModel : ViewModel() {
                     daf = daf,
                     scope = StudyScope.FULL_DAF,
                     sections = numbered,
+                    currentSectionIndex = if (startAtLastSection) maxOf(0, numbered.size - 1) else 0,
                     amudBSectionIndex = sectionsA.size,
                     precedingContext = prevContext,
                     followingContext = if (SefariaClient.endsInMidSentence(segsB)) nextContext else null
@@ -113,7 +114,7 @@ class StudySessionViewModel : ViewModel() {
             val joined = SefariaClient.stripHtml(segs.joinToString(" ")).trim()
             val termIdx = SefariaClient.lastSentenceTerminal(joined) ?: return null
             val fragment = joined.substring(termIdx + 1).trim()
-            fragment.ifEmpty { null }
+            if (fragment.any { it.isLetterOrDigit() }) fragment else null
         } else {
             val plain = SefariaClient.stripHtml(segs.first()).trim()
             val termIdx = SefariaClient.firstSentenceTerminal(plain)

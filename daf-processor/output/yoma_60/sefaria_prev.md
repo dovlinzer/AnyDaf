@@ -1,0 +1,17 @@
+### Yoma 59b
+
+**1.**
+*Hebrew/Aramaic:* עַד כָּאן לָא פְּלִיגִי אֶלָּא מִדְּרַבָּנַן, אֲבָל מִדְּאוֹרָיְיתָא אֵין מוֹעֲלִין בָּהֶן.
+*Translation:* The Gemara comments: The Rabbis **disagree only with regard to** misuse of consecrated property that applies **by rabbinic law,** as it was the Sages who prohibited the use of blood; **however,** everyone agrees that **by Torah law** one does **not misuse** consecrated property **by** benefiting from **these** remainders of blood. Clearly, the Temple treasurers would not have sold it to gardeners *ab initio* had the Torah prohibited the use of this blood (*Tosafot*).
+
+**2.**
+*Hebrew/Aramaic:* מְנָא הָנֵי מִילֵּי? אָמַר עוּלָּא, אָמַר קְרָא: ״לָכֶם״ — שֶׁלָּכֶם יְהֵא. דְּבֵי רַבִּי שִׁמְעוֹן תָּנָא: ״לְכַפֵּר״ — לְכַפָּרָה נְתַתִּיו, וְלֹא לִמְעִילָה.
+*Translation:* The Gemara asks: **From where are these matters,** that there is no misuse for blood, derived? **Ulla said** that **the verse states:** “For the life of the flesh is in the blood, and I have given it **to you** upon the altar to make atonement for your souls” (Leviticus 17:11). “To you” indicates that **it shall be yours.** It is not the property of the Temple; rather, it belongs to all of the Jewish people. **The school** of **Rabbi Shimon** likewise **taught** that the phrase **“to make atonement”** teaches that God says: **I gave it for atonement and not for** the prohibition against **misuse** of consecrated objects.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר, אָמַר קְרָא: ״הוּא״, לִפְנֵי כַפָּרָה כִּלְאַחַר כַּפָּרָה: מָה לְאַחַר כַּפָּרָה אֵין בּוֹ מְעִילָה — אַף לִפְנֵי כַּפָּרָה אֵין בּוֹ מְעִילָה.
+*Translation:* **And Rabbi Yoḥanan said** that this *halakha* is derived from a different phrase. **The verse states:** “For **it is** the blood that makes atonement by reason of the life” (Leviticus 17:11), which indicates that it retains the same status **before atonement as after atonement: Just as after atonement** it is **not subject to** the prohibition against **misuse** of consecrated objects, as the mitzva has been performed, **so too, before atonement it is not subject to misuse** of consecrated objects. As the Gemara states below, there is a general principle that once the mitzva involving a certain object has been performed, the object is no longer subject to misuse of consecrated objects.
+
+**4.**
+*Hebrew/Aramaic:* וְאֵימָא, לְאַחַר כַּפָּרָה כְּלִפְנֵי כַפָּרָה: מָה לִפְנֵי כַפָּרָה יֵשׁ בּוֹ מְעִילָה — אַף לְאַחַר כַּפָּרָה יֵשׁ בּוֹ מְעִילָה! אֵין לְךָ דָּבָר שֶׁנַּעֲשֵׂית מִצְוָתוֹ וּמוֹעֲלִין בּוֹ. וְלָא? וַהֲרֵי תְּרוּמַת הַדֶּשֶׁן!
+*Translation:* The Gemara asks: **But** if the status of blood before atonement is compared to its status after atonement, one can **say** the opposite: **Just as before atonement it is subject to misuse** of consecrated objects, **so too, after atonement it is subject to misuse** of consecrated objects. The Gemara rejects this contention: This cannot be the case, as there is a general principle: **There is nothing whose mitzva has been performed that is** still **subject to misuse** of consecrated property. The Gemara asks: **And** is there **no** such case? **But there is** the instance of the **removal of the ashes** of offerings burned on the altar. These ashes require burial, and yet any benefit derived from them is misuse of consecrated property, despite the fact that their mitzva has already been performed.

@@ -19,6 +19,16 @@ struct AnyDafApp: App {
         try? AVAudioSession.sharedInstance().setActive(true)
         // Remove any YCT Library cache entries older than 7 days.
         ResourcesDiskCache.evictExpired()
+        // Crash-loop guard: if the app crashed before reaching foreground last time,
+        // reset the persisted daf to avoid a repeated crash on the same content.
+        let defaults = UserDefaults.standard
+        if defaults.bool(forKey: "launchInProgress") {
+            // Previous launch never reached foreground (crashed) — reset to safety.
+            defaults.set(2.0, forKey: "lastDaf")
+            defaults.set(0, forKey: "lastAmud")
+            defaults.removeObject(forKey: "iPadRightPanel")  // cleared → @AppStorage falls back to .shiur
+        }
+        defaults.set(true, forKey: "launchInProgress")
     }
 
     var body: some Scene {
@@ -59,6 +69,8 @@ struct AnyDafApp: App {
     private func handleScenePhase(_ phase: ScenePhase) {
         switch phase {
         case .active:
+            // App reached foreground successfully — clear the crash-loop sentinel.
+            UserDefaults.standard.set(false, forKey: "launchInProgress")
             sessionStart = Date()
             if !nudgeCheckedThisSession {
                 nudgeCheckedThisSession = true

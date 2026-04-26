@@ -1,0 +1,77 @@
+### Bava Metzia 7b
+
+**1.**
+*Hebrew/Aramaic:* מַאי שְׁנָא לְיַד דַּיָּין? אָמַר רָבָא, הָכִי קָאָמַר: וְאַחֵר שֶׁמָּצָא שְׁטָר שֶׁנָּפַל לְיַד דַּיָּין, וְהֵיכִי דָּמֵי – דִּכְתַב בֵּיהּ הֶנְפֵּק, לֹא יוֹצִיאוֹ עוֹלָמִית.
+*Translation:* The Gemara asks: **What is different** about the case where the promissory note fell **into the possession of a judge,** such that the creditor cannot retrieve it to collect the debt? **Rava said this** is what the *baraita* **is saying: But** in the case of **another** individual, who is neither the debtor nor the creditor, **who found** a promissory **note that had** already **fallen into the possession of a judge, it may never be removed** from his possession until proof is provided. **And what are the circumstances?** What does it mean that the promissory note had fallen into the possession of a judge? It is a case **where** the court **wrote in** the promissory note **a ratification** certifying that it examined and ratified the note and it can be used to collect the debt.
+
+**2.**
+*Hebrew/Aramaic:* וְלָא מִיבַּעְיָא לָא כְּתַב בֵּיהּ הֶנְפֵּק, דְּאִיכָּא לְמֵימַר כָּתַב לִלְוֹת וְלֹא לָוָה, אֶלָּא אֲפִילּוּ כְּתַב בֵּיהּ הֶנְפֵּק, דִּמְקוּיָּם – לֹא יַחֲזִיר, דְּחָיְישִׁינַן לְפֵירָעוֹן.
+*Translation:* **And** the reason the *baraita* refers specifically to these circumstances is that **it is not necessary** to state that in a case where there is **no ratification written in** the promissory note that the creditor cannot use it to collect the debt; **as it can be said** that the debtor **wrote** the document because he intended **to borrow** the money, **but he** ultimately **did not borrow** it. **Rather,** the *baraita* states that **even** in a case where there is **a ratification written in** the promissory note, **as** it is now **a ratified** promissory note, the finder **should not return** it to the creditor, **as we suspect that** there was **repayment,** i.e., that the debtor may have repaid the debt, and he lost the promissory note.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹסֵי אוֹמֵר: הֲרֵי הוּא בְּחֶזְקָתוֹ וְלָא חָיְישִׁינַן לְפֵירָעוֹן. וְלָא חָיֵישׁ רַבִּי יוֹסֵי לְפֵירָעוֹן?
+*Translation:* The Gemara discusses the continuation of the *baraita*: **And Rabbi Yosei says:** The promissory note **retains its presumptive status.** The Gemara explains: **And we do not suspect that** there was **repayment;** had the debt been repaid the debtor would have immediately destroyed the promissory note. The Gemara asks: **But does Rabbi Yosei not suspect that** there was **repayment?**
+
+**4.**
+*Hebrew/Aramaic:* וְהָתַנְיָא: מָצָא שְׁטַר כְּתוּבָּה בַּשּׁוּק, בִּזְמַן שֶׁהַבַּעַל מוֹדֶה – יַחֲזִיר לָאִשָּׁה, אֵין הַבַּעַל מוֹדֶה – לֹא יַחֲזִיר לֹא לָזֶה וְלֹא לָזֶה.
+*Translation:* **But isn’t it taught** in a *baraita*: If one **found a marriage contract in the marketplace,** in a case **when the husband admits** that he has not yet paid the amount written in the contract to his wife, the finder **must return** the document **to the wife.** In a case when **the husband does not admit** this, but instead claims that he has already paid the amount written in the contract, the one who found it **should not return it to this** one, the husband, **or to that** one, the wife.
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי אוֹמֵר: עוֹדָהּ תַּחַת בַּעֲלָהּ – יַחֲזִיר לָאִשָּׁה. נִתְאַרְמְלָה אוֹ נִתְגָּרְשָׁה – לֹא יַחֲזִיר לֹא לָזֶה וְלֹא לָזֶה.
+*Translation:* **Rabbi Yosei says** that there is a distinction between different situations: If the wife **is still under** the auspices of **her husband,** i.e., she is still married to him, the one who found the marriage contract **must return** it **to the wife** because presumably the husband did not pay her the amount specified in the marriage contract during their marriage. If the wife **was widowed or divorced, he should not return it to this** party, the husband or his heirs, **or to that** party, the wife, as perhaps she already received payment and the contract was later lost by her husband or his heirs. In this case, Rabbi Yosei suspects that there was payment.
+
+**6.**
+*Hebrew/Aramaic:* אֵיפוֹךְ: נָפַל לְיַד דַּיָּין לֹא יוֹצִיאוֹ עוֹלָמִית, דִּבְרֵי רַבִּי יוֹסֵי. וַחֲכָמִים אוֹמְרִים: הֲרֵי הוּא בְּחֶזְקָתוֹ.
+*Translation:* The Gemara answers: **Reverse** the order of the *tanna’im* in the *baraita* and teach it as follows: If the promissory note **fell into the possession of a judge, it may never be removed;** this is **the statement of Rabbi Yosei. And the Rabbis say: It retains its presumptive status.**
+
+**7.**
+*Hebrew/Aramaic:* אִי הָכִי קַשְׁיָא דְּרַבָּנַן אַדְּרַבָּנַן!
+*Translation:* The Gemara asks: **If so,** the contradiction between the statement **of the Rabbis** in this *baraita* **and** the statement **of the Rabbis** with regard to the case of the marriage contract is **difficult.** Whereas according to the emended version of the *baraita* the Rabbis do not take into account the possibility that the debt was repaid, in the case of the marriage contract the Rabbis take this possibility into account.
+
+**8.**
+*Hebrew/Aramaic:* שְׁטַר כְּתוּבָּה, כּוּלָּהּ רַבִּי יוֹסֵי, וְחַסּוֹרֵי מְחַסְּרָא וְהָכִי קָתָנֵי: אֵין הַבַּעַל מוֹדֶה – לֹא יַחֲזִיר לֹא לָזֶה וְלֹא לָזֶה. בַּמֶּה דְּבָרִים אֲמוּרִים – שֶׁנִּתְאַרְמְלָה אוֹ שֶׁנִּתְגָּרְשָׁה, אֲבָל עוֹדָהּ תַּחַת בַּעֲלָהּ – יַחֲזִיר לָאִשָּׁה, שֶׁרַבִּי יוֹסֵי אוֹמֵר: עוֹדָהּ תַּחַת בַּעֲלָהּ – יַחֲזִיר לָאִשָּׁה, נִתְאַרְמְלָה אוֹ שֶׁנִּתְגָּרְשָׁה – לֹא יַחֲזִיר לֹא לָזֶה וְלֹא לָזֶה.
+*Translation:* The Gemara resolves the problem: The *baraita* that discusses **the marriage contract is entirely** in accordance with the opinion of **Rabbi Yosei;** it contains no dispute. **And** the *baraita* **is incomplete, and this** is what **it is teaching:** In a case where **the husband does not admit** that he did not pay the marriage contract, the one who found it **should not return it to this** party **or to that** party. **In what** case **is this statement said?** It is said in a case **where** the woman **was widowed or divorced. But** if **she is still under** the auspices of **her husband,** the finder **must return** it **to the wife. As Rabbi Yosei says:** If **she is still under** the auspices of **her husband,** the finder **must return** it **to the wife.** If she **was widowed or divorced, he should not return** it **to this** party **or to that** party.
+
+**9.**
+*Hebrew/Aramaic:* רַב פָּפָּא אָמַר: לְעוֹלָם לָא תֵּיפוֹךְ, רַבִּי יוֹסֵי לְדִבְרֵיהֶם דְּרַבָּנַן קָאָמַר לְהוּ.
+*Translation:* **Rav Pappa said: Actually, do not reverse** the opinions in the *baraita*, but instead resolve the contradiction differently: **Rabbi Yosei was telling the Rabbis** what the *halakha* should be in the case of a marriage contract **according to their statement,** i.e., according to their opinion that one who finds a promissory note needs to take into account that the debt may have been repaid already.
+
+**10.**
+*Hebrew/Aramaic:* לְדִידִי אֲפִילּוּ נִתְאַרְמְלָה אוֹ נִתְגָּרְשָׁה נָמֵי לָא חָיְישִׁינַן לְפֵירָעוֹן. לְדִידְכוּ אוֹדוֹ לִי מִיהַת בְּעוֹדָהּ תַּחַת בַּעֲלָהּ, דְּיַחֲזִיר לָאִשָּׁה, דְּלָאו בַּת פֵּירָעוֹן הִיא.
+*Translation:* His statement should be understood as follows: **In my** opinion, **even if she was widowed or divorced we do not suspect** that there was **payment.** But **according to your** opinion, **concede to me, in any event,** that **while she is still under** the auspices of **her husband** the finder should **return** the document **to the wife, as** the marriage contract **is not** yet **subject to payment.** Since the husband is not yet liable to pay, it is unlikely that he paid.
+
+**11.**
+*Hebrew/Aramaic:* וַאֲמַרוּ לֵיהּ רַבָּנַן: אֵימוֹר צְרָרֵי אַתְפְּסָה.
+*Translation:* **And the Rabbis said to him** in response: Even if they are still married, **say** that **he gave her bundles** of money, and in exchange she gave him back the marriage contract. If the finder then returns the marriage contract to the wife, that would enable her to collect the sum twice.
+
+**12.**
+*Hebrew/Aramaic:* רָבִינָא אָמַר: לְעוֹלָם אֵיפוֹךְ קַמַּיְיתָא. וְטַעְמָא דְּרַבָּנַן הָכָא, מִשּׁוּם דְּחָיְישִׁינַן לִשְׁתֵּי כְתוּבּוֹת. וְרַבִּי יוֹסֵי לִשְׁתֵּי כְתוּבּוֹת לָא חָיֵישׁ.
+*Translation:* **Ravina said: Actually, reverse** the order of the *tanna’im* in **the first** *baraita*, which discusses one who finds a promissory note, **and** resolve the contradiction between the different statements of the Rabbis as follows: **The reason** for the opinion **of the Rabbis here,** that a marriage contract cannot be returned to the wife, **is that we suspect that** the husband wrote **two marriage contracts;** after the first marriage contract was lost, the husband had to write a second one in its stead. Returning to the wife the marriage contract that was found would enable her to collect twice. **And Rabbi Yosei** holds that it should be returned to the wife because **he does not suspect that** the husband wrote **two marriage contracts;** in his opinion, it is a rare occurrence.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: מַחֲלוֹקֶת בְּשֶׁשְּׁנֵיהֶם אֲדוּקִים בַּטּוֹפֶס, וּשְׁנֵיהֶם בַּתּוֹרֶף. אֲבָל אֶחָד אָדוּק בַּטּוֹפֶס וְאֶחָד אָדוּק בַּתּוֹרֶף – זֶה נוֹטֵל טוֹפֶס, וְזֶה נוֹטֵל תּוֹרֶף. וְרַבִּי יוֹחָנָן אָמַר: לְעוֹלָם חוֹלְקִין.
+*Translation:* § **Rabbi Elazar says:** With regard to the **dispute** between Rabban Shimon ben Gamliel and Rabbi Yehuda HaNasi in the case of a creditor and a debtor both grasping a promissory note, Rabban Shimon ben Gamliel holds that they divide the promissory note evenly, specifically **in** a case **where both are grasping the standard** part of the promissory note, i.e., the part that contains the standard formulation of the note, **or both** are grasping **the essential** part of the promissory note, where the names of the creditor and debtor are written, as well as the amount owed and the date. **But** if **one** of them **is grasping the standard** part **and** the other **one is grasping the essential** part, they divide the promissory note between them based on the section that each of them is holding; **this** one **takes** the **standard** part **and that** one **takes** the **essential** part. **And Rabbi Yoḥanan says: Actually, they divide** everything equally.
+
+**14.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ אֶחָד אָדוּק בַּטּוֹפֶס וְאֶחָד בַּתּוֹרֶף. וְהָתַנְיָא: זֶה נוֹטֵל עַד מָקוֹם שֶׁיָּדוֹ מַגַּעַת! לָא צְרִיכָא דְּקָאֵי תּוֹרֶף בֵּי מִצְעֵי.
+*Translation:* The Gemara asks with regard to Rabbi Yoḥanan’s statement: **And** does he hold that this is the *halakha* **even** in a case where **one is grasping the standard** part **and one the essential** part? **But isn’t it taught** in the *baraita* that was cited above with regard to a garment: **This** one **takes up to where his hand reaches** and that one takes up to where his hand reaches? Here as well, if one is grasping the standard part and the other is grasping the essential part, they should take the parts they are holding. The Gemara answers: **No,** this *halakha* that Rabbi Yoḥanan stated is **necessary** for a case **where** the **essential** part **is located in the middle.** He was not discussing the case where one was grasping the standard part and the other one was grasping the essential part. In that case, he would agree that each takes the part he was grasping.
+
+**15.**
+*Hebrew/Aramaic:* אִי הָכִי מַאי לְמֵימְרָא? לָא צְרִיכָא דִּמְקָרַב לְגַבֵּי דְחַד. מַהוּ דְּתֵימָא: אָמַר לֵיהּ פְּלוֹג הָכִי, קָא מַשְׁמַע לַן דְּאָמַר לֵיהּ: מַאי חָזֵית דְּפָלְגַתְּ הָכִי? פְּלוֹג הָכִי.
+*Translation:* The Gemara asks: **If so, what** is the purpose **of stating** that they divide it equally? That is obvious. The Gemara answers: **No,** it is **necessary** in a case **where** the essential part of the document **is closer to one** of them. **Lest you say** that the one to whom the essential part is closer can **say to** the other one: **Divide** it in **this** manner, leaving the essential part on my side, Rabbi Yoḥanan **teaches us that** the other one can **say to him** in response: **What did you see that** led **you** to **divide** it in **that** manner? **Divide** it in **this** manner, so that we will both share the essential part.
+
+**16.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא: לְרַבִּי אֶלְעָזָר דְּאָמַר זֶה נוֹטֵל טוֹפֶס וְזֶה נוֹטֵל תּוֹרֶף, לְמָה לֵיהּ? וְכִי לָצוּר עַל פִּי צְלוֹחִיתוֹ הוּא צָרִיךְ?
+*Translation:* **Rav Aḥa of Difti said to Ravina: According to** the opinion of **Rabbi Elazar, who says this** one **takes** the **standard** part **and that** one **takes** the **essential** part, **why do** either of them need it? **Does he need** half of the document **to cover the opening of his flask?** Having half a promissory note is of no legal consequence.
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לִדְמֵי.
+*Translation:* Ravina **said to him:** The division in question is not division of the document itself, with each taking half of the paper. It is a division **of** its **monetary** value, as the value of each section of the promissory note is compared to the value of the other.
+
+**18.**
+*Hebrew/Aramaic:* דְּאָמַר הָכִי: שְׁטָרָא דְּאִית בֵּיהּ זְמַן, כַּמָּה שָׁוֵי? וּדְלֵית בֵּיהּ זְמַן, כַּמָּה שָׁוֵי? בִּשְׁטָרָא דְּאִית בֵּיהּ זְמַן – גָּבֵי מִמְּשַׁעְבְּדֵי. וְאִידַּךְ – לָא גָּבֵי מִמְּשַׁעְבְּדֵי. יָהֵיב לֵיהּ הֵיאַךְ דְּבֵינֵי בֵּינֵי.
+*Translation:* The one grasping the essential part of the promissory note, which contains the date, **can say this:** Consider a promissory **note that has** the **date** written **on it; how much** is it **worth? And** consider a promissory note **that does not have** the **date** written **on it; how much** is it **worth?** The significance of writing the date is that if a creditor is in possession **of** a promissory **note that has** the **date** written **on it,** he **can collect** his debt even **from liened** property that has been sold by the debtor to another individual after taking the loan. **But** if a creditor is in possession of **the other** kind of promissory note, i.e., one that does not have the date written on it, he **cannot collect** his debt **from liened** property. Therefore, **the other** party, who is grasping the standard part of the document, **gives him** the difference between the two values.
+
+**19.**
+*Hebrew/Aramaic:* ״וְיַחְלוֹקוּ״ נָמֵי דַּאֲמַרַן לְדָמֵי. דְּאִי לָא תֵּימָא הָכִי, שְׁנַיִם אוֹחֲזִין בְּטַלִּית הָכִי נָמֵי דְּפָלְגִי? הָא אַפְסְדוּהּ! הָא לָא קַשְׁיָא,
+*Translation:* **And** this is **also** true in general, with regard to cases **where we said** that the two litigants **divide** the disputed item: The reference is **to** the **monetary** value, and not division of the actual item. **As, if you do not say so,** but rather you hold that the item itself is divided, in the case of **two** people who come to court **holding a garment,** do they **also divide** the garment itself into two? **But** by doing so they would **ruin it.** The Gemara rejects this proof: **This** is **not difficult,** as it is possible to explain that they actually cut the garment in two.

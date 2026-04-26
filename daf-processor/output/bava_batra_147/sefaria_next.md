@@ -1,0 +1,21 @@
+### Bava Batra 148a
+
+**1.**
+*Hebrew/Aramaic:* שְׁכִיב מְרַע שֶׁאָמַר ״תְּנוּ הַלְוָאָתִי לִפְלוֹנִי״ – הַלְוָאָתוֹ לִפְלוֹנִי, וְאַף עַל גַּב דְּלֵיתֵיהּ בְּבָרִיא! רַב פָּפָּא אָמַר: הוֹאִיל וְיוֹרֵשׁ יוֹרְשָׁהּ.
+*Translation:* With regard to **a person on his deathbed who says: Give** the **loan** owed **to me to so-and-so** as a gift, the **loan** owned to **him** is acquired **by so-and-so. And** this is the *halakha* **despite** the fact **that this does not** apply **in** the case of **a healthy person,** as one cannot transfer a loan to a third party without a promissory note. **Rav Pappa says:** In this case the *halakha* of transferring loans differs with regard to a person on his deathbed, **since an heir inherits** loans without a promissory note, and the Sages accorded the gift of a person on his deathbed the halakhic status of an inheritance.
+
+**2.**
+*Hebrew/Aramaic:* רַב אַחָא בְּרֵיהּ דְּרַב אִיקָא אָמַר: הַלְוָאָה אִיתָא בְּבָרִיא, וְכִדְרַב הוּנָא אָמַר רַב – דְּאָמַר רַב הוּנָא אָמַר רַב: ״מָנֶה לִי בְּיָדְךָ, תְּנֵהוּ לִפְלוֹנִי״; בְּמַעֲמַד שְׁלָשְׁתָּן – קָנָה.
+*Translation:* **Rav Aḥa, son of Rav Ika, said: A loan** without a promissory note **can be** conferred as a gift **by a healthy person. And** this is **in accordance with** that which **Rav Huna** says that **Rav says, as Rav Huna says** that **Rav says:** With regard to one who said to another: **I** have **one hundred dinars in your possession, give it to so-and-so,** if this was stated **in the presence of** all **three of the** parties, the third party **acquires** the money without an act of acquisition and without the need for witnesses.
+
+**3.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: דֶּקֶל לְאֶחָד וּפֵירוֹתָיו לְאַחֵר, מַהוּ? מִי שַׁיַּיר מְקוֹם פֵּירֵי, אוֹ לָא שַׁיַּיר? אִם תִּמְצֵי לוֹמַר: לְאַחֵר לָא הָוֵי שִׁיּוּר; לְעַצְמוֹ – ״חוּץ מִפֵּירוֹתָיו״, מַהוּ?
+*Translation:* § **A dilemma was raised before** the Sages: With regard to one who gave **a palm tree to one** person **and its fruit to another, what is** the *halakha*? **Did** he **reserve the place of the fruit** on the tree for the second person in order to give him a tangible object, and therefore the second person acquires the fruit, **or** did **he not reserve** it, and the second person does not acquire the fruit? Furthermore, **if you say** that giving the palm tree to one person and giving the fruit **to another is not** considered **reserving** the place of the fruit unless this is explicitly stipulated, then if he reserves the fruit **for himself,** stating that the tree is given to another **except for its fruit, what is** the *halakha*?
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רָבָא אָמַר רַב נַחְמָן, אִם תִּמְצֵי לוֹמַר: דֶּקֶל לְאֶחָד וּפֵירוֹתָיו לְאַחֵר לָא הָוֵי שִׁיּוּר מְקוֹם פֵּירֵי; דֶּקֶל לְאֶחָד וְשִׁיֵּיר פֵּירוֹתָיו לְפָנָיו – שַׁיַּיר מְקוֹם פֵּירֵי. מַאי טַעְמָא? כֹּל לְגַבֵּי נַפְשֵׁיהּ – בְּעַיִן יָפָה מְשַׁיֵּיר.
+*Translation:* **Rava said** that **Rav Naḥman said:** Even **if you say** that giving the **palm tree to one** person **and its fruit to another is not** considered **reserving the place of the fruit** for the second person, if he gave the **palm tree to one** person **and reserved the fruit for himself,** he also **reserved the place of the fruit** for himself. **What is the reason** for this distinction? The reason is that **anything** that one reserves **with regard to himself, he reserves generously,** and therefore he reserves for himself not only the fruit itself, but also the place of the fruit.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי אַבָּא לְרַב אָשֵׁי: אֲנַן אַדְּרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ מַתְנֵינַן לַהּ. דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: הַמּוֹכֵר בַּיִת לַחֲבֵירוֹ, וְאָמַר לוֹ: ״עַל מְנָת שֶׁדְּיוֹטָא הָעֶלְיוֹנָה שֶׁלִּי״ – דְּיוֹטָא הָעֶלְיוֹנָה שֶׁלּוֹ.
+*Translation:* **Rabbi Abba said to Rav Ashi: We learned** the aforementioned statement of Rav Naḥman **with regard to** the statement **of Rabbi Shimon ben Lakish** concerning a different matter, **as Rabbi Shimon ben Lakish says:** In the case of **one who sells a house to another and says to him:** I am selling the house **on the condition that the upper story [*deyota*]** remains **mine, the upper story** remains **his.**

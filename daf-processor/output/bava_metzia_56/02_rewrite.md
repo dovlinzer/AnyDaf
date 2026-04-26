@@ -1,0 +1,145 @@
+# Bava Metzia 56 — Daf Yomi Shiur
+
+## Terumat Maaser Demai
+
+### Terumat Maaser Mechanism
+
+The daf opens with Ravina's challenge (*masiv Ravina*), picking up approximately ten lines down the page. To understand the question, it is necessary to recall the broader context: our Mishnah had been enumerating the various cases in which a fifth (*chomesh*) is added — among them the case of one who eats *terumat maaser* of *demai*.
+
+The mechanism of *terumat maaser* of *demai* works as follows. When one purchases *demai* — produce bought from an *am ha'aretz* whose tithing status is uncertain — one is obligated to separate *maaser*, but need not give it to a Levi. The reasoning is that since *demai* may already have had *maaser* separated by the original farmer, the Levi cannot prove that the *maaser* belongs to him. The principle of *hamotzi me-chaveiro alav ha-ra'aya* — that the burden of proof falls on the one seeking to extract money from another — means the purchaser retains the separated *maaser* and may consume it himself.
+
+However, one must still separate *terumat maaser* — the tenth of the tenth — because without doing so, the grain retains its *tevel* status and may not be eaten. Even if one could argue with the Kohen on grounds of monetary uncertainty, the concern is not merely financial: the produce might genuinely be *terumah*, and therefore from the standpoint of *issur*, one may not eat it. Crucially, since the *maaser* is not given to the Levi, this *terumat maaser* is separated by the original purchaser himself rather than by the Levi.
+
+### Mishnah Strictness
+
+Given this background, the Mishnah rules that if a non-Kohen eats *terumat maaser* of *demai*, he must repay the principal plus a fifth — exactly as though he had eaten ordinary *terumah* or ordinary *terumat maaser*. The Gemara questions why such stringency is warranted for produce whose very obligation is rabbinic and uncertain.
+
+### Pidyon vs. Eating
+
+The Gemara's answer is that the Mishnah follows the position of Rabbi Meir, who is characteristically stringent in treating rabbinic enactments with the same seriousness as Torah-level obligations — even absent a compelling logical basis to do so. The Gemara then raises a difficulty: we find that Rabbi Meir is actually *lenient* regarding the redemption (*pidyon*) of *maaser sheni* of *demai*, permitting modes of transfer — from silver coin to copper coin to produce and back — that he would not sanction for ordinary *maaser sheni*. This leniency would seem to contradict the claim that Rabbi Meir uniformly applies stringency to *demai*.
+
+The Gemara resolves the contradiction by distinguishing between domains. Rabbi Meir may be lenient with respect to the *pidyon* — the act of redemption, which is a matter of procedure — but is strict when it comes to the *aveirah* of actually eating *terumat maaser* of *demai* improperly. These are two distinct categories of concern.
+
+### Nachtom Breads
+
+Ravina now introduces a further challenge from a Mishnah dealing with bread purchased from a *nachtom*, a professional baker. The Mishnah there states that one who buys bread from a *nachtom* may separate *maaser* from bread baked when warm (*cham*) on bread that has grown cold (*tzonenet*) and vice versa — and this applies even when the loaves come from many different molds (*afilu midfusim harbeh*). This is explicitly attributed to Rabbi Meir.
+
+Tosafot notes that the Mishnah is presenting a compound case: the bread is from different days *and* it comes from different molds — two independent grounds to suspect that the loaves originate from different suppliers or even different bakers whom the *nachtom* merely resells. Yet Rabbi Meir permits separating *maaser* from one loaf on the other. The problem is obvious: if the loaves actually derive from different farmers, one set might be genuinely obligated (*chayav*) and the other genuinely exempt (*patur*). Separating from an obligated batch on behalf of an exempt one, or vice versa, would be ineffective — and if the *hafrasha* is invalid, the produce remains in a *tevel*-like state and will be eaten improperly.
+
+The Gemara begins its analysis. It acknowledges that if the only factor were cold bread on warm bread — yesterday's bread on today's — this would not be so troubling. The reason relates to the principle taught by Rabbi Ilai: how do we know that one who separates *terumah* from inferior produce on superior produce has nonetheless effected a valid *terumah*? From the verse (Numbers 18:32): *"ve-lo tis'u alav chet be-harimchem et chelbo mimenu"* — "you shall not bear sin when you raise up its best part from it." The verse implies that one bears sin when separating from inferior on superior — which presupposes that the separation was *effective*, for an ineffective act carries no sin. This teaches that even *terumah* taken from bad produce on good produce is valid *terumah*, albeit done improperly.
+
+Applying this reasoning: if the only issue were that Rabbi Meir permits separating from yesterday's stale bread on today's fresh bread — an act that is performed sub-optimally, like taking from the lesser on the greater — one could accept that Rabbi Meir is lenient about the *lechatchila* of the *hafrasha* in cases of *demai*, so long as the act is effective. Rabbi Meir's leniency in *demai* contexts extends to procedural imperfections; what he will not tolerate is the risk of actually eating something that has not been properly separated.
+
+The real difficulty, then, is the second element of the Mishnah: even when the loaves come from different molds (*midfusim harbeh*) — suggesting they may have been produced by entirely different farmers — Rabbi Meir still permits the separation. Here the concern is no longer procedural imperfection but the genuine risk that the *maaser* will be separated from an obligated batch onto an exempt one, rendering the separation invalid and causing the person to eat untithed produce. Why would Rabbi Meir, who we claimed is strict about eating *demai* improperly, be lenient in a case that carries precisely that risk?
+
+The Gemara at this point does not immediately provide an answer. Instead, Abaye steps back to systematically evaluate the entire chain of questions and responses that has accumulated.
+
+### Abaye's Review
+
+Abaye pronounces a verdict on each prior exchange. First, Rabbi Eliezer's original question — how can our Mishnah be so strict about *terumat maaser* of *demai* as to require payment of a fifth? — was an excellent question (*shapir kakashya leh*). Second, Shmuel's answer — that the Mishnah follows Rabbi Meir, who is stringent — was not satisfactory (*lo shapir kameshani leh*). Why? Because Shmuel's proof for Rabbi Meir's stringency was the case of *gittin*, where Rabbi Meir's strict reading of divorce law leads him to consider a child a *mamzer*. But that involves a case of capital punishment by a court (*misas beis din*). Our Mishnah involves *misa bidei Shamayim* — death at Heaven's hands for eating *terumah*. These are not equivalent, and one cannot demonstrate Rabbi Meir's willingness to be strict about *misa bidei Shamayim* by citing his stringency in cases of *misa bidei adam*.
+
+Third, Rav Sheshes's counter-challenge — attempting to prove Rabbi Meir is lenient by citing his leniency regarding *pidyon* of *maaser sheni* of *demai* — was also a poor question (*lo shapir kamosiv leh*). The leniency there involves at most a negative prohibition (*lo suchal le'echol bish'arecha*, that *maaser sheni* must be eaten in Jerusalem), which is categorically less severe than a transgression punishable by death. One cannot use a leniency in a lesser domain to disprove stringency in a capital domain.
+
+Fourth, by contrast, once Rav Sheshes's challenge was accepted as standing, Rav Yosef's resolution was genuinely good (*shapir kameshani leh*): he distinguished between *pidyon* — a matter of *lechatchila*, of doing a procedure optimally — and actually eating something that was improperly separated, which is a true *aveirah*. This distinction pays proper attention to the different weights of the cases.
+
+Finally, Abaye turns to Ravina's challenge from the *nachtom* Mishnah. Here Abaye argues that Ravina chose the wrong proof text. Rather than raising the difficulty from the *nachtom* case — where Rabbi Meir permits separating across different days and different molds — Ravina should have asked from the *palter* case at the end of the same Mishnah, which would have posed the problem more sharply.
+
+### Nachtom vs. Palter
+
+What does the end of the Mishnah say about the *palter* — the wholesale baker? It states: *"ha-lokeach min ha-palter, me'aser mikol dfus ve-dfus divrei Rabbi Meir"* — one who buys from a wholesale baker must separate *maaser* from each differently-molded loaf individually. There, Rabbi Meir is strict. The wholesale baker purchases from multiple suppliers, and Rabbi Meir therefore insists that each type of bread be treated separately, lest one separate from an obligated batch onto an exempt one.
+
+The contrast illuminates everything. Rabbi Meir's leniency by the *nachtom* is not an expression of general leniency toward *demai*; it reflects a factual assumption. A *nachtom* — a small neighborhood baker — typically buys his grain from a single source. Even if his loaves appear in different shapes and were baked on different days, one may reasonably presume they all derive from the same farmer and carry the same *demai* status. A *palter*, by contrast, is a large-scale commercial baker who purchases from two or three different suppliers, and therefore one must treat each batch separately.
+
+Thus, the rule: *palter mitrei tlata gavrei zavin* — a *palter* buys from multiple people, hence stringency; *nachtom nami mi-chad gavra zavin* — a *nachtom* buys from one person, hence the presumption of uniformity holds even across different days and molds. The apparent leniency of Rabbi Meir by the *nachtom* is not leniency about *demai* at all — it is simply an empirical assumption about purchasing patterns.
+
+### Rava's Affirmation
+
+Returning now to Abaye's critique of Shmuel's answer, Rava offers a defense of Shmuel. Abaye had argued that Shmuel's proof from *gittin* was irrelevant because it involved *misa bidei adam* rather than *misa bidei Shamayim*. Rava disagrees: *shmaya misa ba'olam* — both are death. Whether Heaven executes the punishment or a court does, death is death. The equivalence of all death is sufficient to demonstrate that Rabbi Meir's documented stringency in capital matters extends across categories — and therefore Shmuel's answer stands.
+
+The overall conclusion of this section is as follows. The Mishnah's stringency in requiring a fifth for eating *terumat maaser* of *demai* is indeed the position of Rabbi Meir. Apparent leniencies attributed to Rabbi Meir in *demai* contexts are explained in one of two ways: either they are based on specific factual assumptions about the *nachtom* versus the *palter*, or they concern the *lechatchila* of *pidyon* — doing a procedure in a less-than-ideal manner — as opposed to the *aveirah* of eating improperly separated produce. When it comes to the latter, Rabbi Meir is strict, and the *chomesh* applies.
+
+---
+
+## Exclusions from Ona'ah
+
+### Basic Exclusions
+
+The Mishnah now introduces a new topic with the formulation *"elu devarim she'ein lahem ona'ah"* — the following things are not subject to the laws of overcharging. The list comprises four categories: *avadim* (slaves), *shtarot* (debt documents), *karka'ot* (land), and *hekdeshos* (consecrated objects).
+
+One might initially suppose that these exclusions are based in logic — for instance, that some of these items lack a fixed market price and therefore cannot generate a measurable overcharge. Land, in particular, is subject to significant price variability, and establishing a baseline "fair price" for a particular parcel presents genuine difficulties. However, the Gemara will not ground these exclusions in any such logical reasoning. Rather, they rest on a formal derivation from a Scriptural verse, a strictly textual exclusion that stands regardless of whether a logical basis can be articulated.
+
+Before proceeding to the Scriptural derivation, the Mishnah notes that these four categories are also excluded from a range of other laws — not only *ona'ah*. There is no *tashlumai kefel* — no double payment to the victim if these items are stolen. The Mishnah further notes that *shtarot* are excluded from the law of four-and-five-fold payment; Rashi points out that four-and-fivefold applies only to oxen and sheep, so the only case where this additional exclusion is meaningful would be *hekdesh*.
+
+Regarding *shomrim*: a *shomer chinam* who guards these items takes no oath that he was not negligent, and a *nosei sachar* bears no financial liability even when the item was lost or stolen on his watch. This raises a subtle conceptual question, however: even if a *shomer* is exempt from the financial consequences prescribed by the laws of *shomerim*, is he still obligated in the duty of *shemirah* itself? There is a meaningful distinction between exemption from payment and exemption from the underlying responsibility to guard. If a *shomer* is still bound by a *chiyuv shemirah*, then gross negligence — leaving the object in the middle of the street, for instance — might constitute a form of direct damage (*mazik beyadayim*), and liability might attach not through the laws of *shomrim* but through the laws of *nezikin*. This question is noted as a point for further analysis.
+
+### Rabbi Shimon Exception
+
+Rabbi Shimon qualifies the exclusion of *hekdesh* from *ona'ah*. He distinguishes between two types of consecrated property. If one undertook a personal obligation to bring a certain sacrifice — accepting liability upon himself rather than merely designating a specific animal — then if that designated animal is lost or stolen, he must replace it from his own resources. In such a case, the animal is considered, in a meaningful sense, to be his own property, because its loss affects him directly. Accordingly, Rabbi Shimon holds that *kodshim she-hu chayav be-achrayutan* — consecrated items for which one bears responsibility — are subject to *ona'ah*. The verse that excludes *hekdesh* from *ona'ah* reads *lo tonu ish et achiv* — one man shall not wrong his fellow — implying a transaction between two ordinary people, to the exclusion of *hekdesh*. But where one's liability makes the consecrated property effectively "his own," it falls back within the category of *ish et achiv* and the laws of *ona'ah* apply. By contrast, if one consecrated an animal directly — without personal liability for its loss — the animal fully belongs to *hekdesh*, and there is no *ona'ah*.
+
+### Rabbi Yehuda Exception
+
+Rabbi Yehuda introduces a different kind of exception. He holds that one who sells a *sefer Torah*, livestock (*behemah*), or a precious jewel (*margalis*) is not subject to *ona'ah*. The rationale here is plainly not formalistic but practical: these are objects for which no reliable fixed price exists. A *sefer Torah*, a particular animal, or a gemstone — each is assessed differently based on quality, beauty, utility, and other factors that resist standardization. Without a reference price, there is no way to calculate whether a given transaction involved an overcharge of a sixth or more. The Sages respond: *lo amru ela elu* — only the items previously enumerated by the Mishnah are excluded; these items are *not* excluded.
+
+### Mi-Yad L'Yad Source
+
+Where does the Talmud derive the formal exclusions? The Gemara cites the Baraita: *"ve-chi timkeru mimkar la-amitecha o kano mi-yad amitecha"* — when you sell or buy from your fellow *mi-yad*, from the hand. The Gemara reads *mi-yad* as specifying the type of transaction to which *ona'ah* applies: specifically, something transferred from hand to hand — *davar ha-nikneh mi-yad le-yad*.
+
+From this, land (*karka*) is excluded, since it is not *metaltelim* — it does not move from hand to hand but remains fixed in place. Even though there are forms of movable property too large or cumbersome to literally fit in a hand, the halakhic category of *metaltelim* is conceptually opposed to *karka* as a class, not physically dependent on whether the object fits in one's palm. Slaves are excluded because they are formally equated with land (*hukshu le-karka'ot*) through various Scriptural passages. Documents (*shtarot*) are excluded on a different ground: *shegufo machur ve-gufo kanuy* — *ona'ah* applies to something whose very body is what is being bought and sold. A *shtar* is not purchased for the intrinsic value of the piece of paper; the buyer seeks only the debt or right that the document represents. Since the body of the document is neither what is sold nor what is purchased — *she-ein gufan machur ve-ein gufan kanuy* — it is not subject to *ona'ah*. As the Baraita further states, documents exist only as instruments of proof (*ve-einam omdim ela lera'ayah she-bahem*), not as ends in themselves.
+
+Tosafot raises an important technical question in connection with this exclusion. There is a sugya in the Gemara questioning whether the sale of debt (*mechiras shtar*) takes effect at the Torah level or only rabbinically. If the sale of debt operates only by rabbinic enactment, one might wonder why Scriptural exclusion is even needed. Tosafot resolves this by constructing a scenario in which the *shtar* itself — rather than the underlying debt — is what is being sold. For example: if a loan has already been made, the lender might wish to commission a *shtar* as proof of that loan, paying the borrower to write one. Here the *shtar* is purchased not to transfer a debt but purely as an evidentiary instrument. One might analogously imagine paying a landowner to rewrite a deed of land that was already transferred. In this scenario one wonders: if the function of the *shtar* is to serve as proof, and one is purchasing it specifically to serve that function, why is that not considered *gufo mamon* — intrinsic value? The answer, suggested in discussion, is that a *shtar* as an instrument of proof has no objective, transferable value — it is useful only to the specific holder in the specific context of the existing legal relationship.
+
+The Gemara appends a corollary: *"ha-mocher shtarotav lerokcham"* — if one sells documents to a perfumer who will use them to stopper his small perfume bottles, then there *is* *ona'ah*. In that case, the paper is being purchased purely for its physical properties — as a material — and therefore has genuine intrinsic value. Indeed, the Gemara's rhetorical question elsewhere, *"ve-chi la'atzor pi tzluchito hu ba'ei?"* — "does he want it merely to stop up his bottles?" — is actually borrowed from this passage. The Gemara notes that this is not obvious but is needed to counter Rav Kahana's principle that anything worth less than a *perutah* is not subject to *ona'ah*. Here, even though documents sold as scraps of paper may be worth only pennies, there is still *ona'ah* from them since they are being treated as objects of intrinsic value.
+
+Finally, the exclusion of *hekdesh* is derived from the word *achicha* — "your fellow" — which implies a transaction between two private individuals, thereby excluding that which belongs to the Temple treasury.
+
+### Land Exclusion
+
+The formal exclusion of land is subjected to a sharp challenge by Rabbah bar Mari. He observes that if we derive the exclusion from the word *yad* — hand — on the grounds that *ona'ah* applies only to things that can be transferred hand to hand, this depends on reading *yad* literally. But is *yad* always literal? He cites the verse *"va-yikach et kol artzo mi-yado"* — "he took all his land from his hand" — where *yad* clearly cannot mean a physical hand, since land cannot be held in one's hand. It must mean *reshus* — domain, or control.
+
+The Gemara responds with two proof-texts demonstrating that *yad* is indeed presumed to be literal in halachic *midrash*, unless context compels otherwise. The Baraita on theft states: *"im himatzei timatzei be-yado ha-gneivah"* — if the stolen item is found *in his hand*. The Gemara asks: does this mean literally in his hand? How do we know to include one's roof, courtyard, or enclosed field (*gago, chatzeiro, ve-karpifo*)? Only from the doubled language *"himatzei timatzei"*, which extends beyond the literal. The implication is that without that doubling, *yad* would have been read literally. Similarly, by *gittin*, the verse *"ve-natan be-yadah"* — he shall place a *get* in her hand — is expanded to include her courtyard or roof only by the extra word *"ve-natan"*, which signals broader application. In the absence of such expansion, *yad* is literal.
+
+The Gemara therefore concludes: the reading of *yad* as literal hand is the default presumption of halachic interpretation. Only when a verse makes literal reading impossible — as in *"va-yikach et kol artzo mi-yado"*, where land simply cannot fit in a hand — does the word shift to meaning *reshus* or control. Where a literal reading is coherent, as in the verse discussing *ona'ah*, *yad* means *yad mamash* — literal hand — and land is therefore excluded.
+
+This is, as the lecturer notes, a genuinely striking result. The Torah's own discussion of *ona'ah* is embedded in the context of the sale of land — specifically the counting of years until the *Yovel* and the pricing of produce accordingly. And yet the Rabbis deploy a textual argument from the word *mi-yad* to formally exclude the very category of transaction the Torah appears to be discussing. The exemption for land from *ona'ah* is not derived from economic logic — though such logic may be suggested — but from a rigorous and in some ways ironic piece of textual reasoning.
+
+---
+
+## Scope of Ona'ah
+
+### Rentals & Ona'ah
+
+Rabbi Zeira poses a focused question: does *ona'ah* apply to *sechirus* — the renting of property? The specific concern is about renting movable property, since we have already established that land is excluded. If I rent you my car at an inflated price, is that a transgression of *ona'ah*? The initial framing presents the issue as one of category: does the verse's reference to *mimkar* — a sale — encompass only permanent transfers of ownership, or might it also cover transactions that are more temporary in nature?
+
+### Temporary Sale Theory
+
+Abaye answers with a conceptual observation. He notes that the verse does not write *"mimkar le'olam"* — a permanent sale. It says *"mimkar"* simply, without qualification. And a rental, Abaye argues, is a sale for the duration — *be-yomei mechira hu*, it is a sale for that day or period. This reflects a broader halakhic understanding articulated by the Rambam elsewhere: a rental constitutes *kinyan ha-guf le-peiros le-zman* — acquisition of the body of the object for the purpose of its use, for a limited time. The renter does not acquire the right to sell the object, but he does acquire title to its use for the rental period. It is, in conceptual terms, a temporary sale rather than a license or permission. On this analysis, since *ona'ah* governs sales and a rental is a form of sale, *ona'ah* applies.
+
+Tosafot notes a complication: it is not self-evident across all areas of *halacha* that *sechirus* is treated as a temporary sale. The question is whether Abaye's principle here is a general one or is limited to the context of *ona'ah*. The language of the Gemara, however, sounds like a general statement about the nature of rental.
+
+### Seeds in Land
+
+Rava poses a question that sits at the intersection of the preceding discussions: *"chitin u-zra'an be-karka, mahu?"* — what is the law regarding wheat seeds that have been planted in the ground? Are they subject to *ona'ah*? The inquiry is specifically about the status of the seeds themselves — not the land. Before the seeds take root, do they retain the character of *metaltelim* — chattel subject to *ona'ah* — or do they take on the character of land and fall outside it?
+
+### Mekach Taut Issue
+
+Before formulating the precise question, the Gemara considers and eliminates a simpler case. Suppose a laborer contracted to seed a field with six units of grain, but witnesses testify that he planted only five. Is this a case of *ona'ah*? The Gemara rejects this framing: it is not *ona'ah* at all, but *mekach ta'ut* — a flawed transaction based on misrepresentation. Rava had established the principle that *kol davar she-be-midah u-ve-mishkal u-ve-minyan* — anything sold by measure, weight, or count — is subject to reversion even if the discrepancy falls below the threshold of *ona'ah*, because misrepresenting a quantifiable unit is not overcharging but misidentifying what was sold. This applies equally to land: if one claims to sell three acres and delivers 2.9, that is *mekach ta'ut*, not *ona'ah*, and is unaffected by the exclusion of *karka* from *ona'ah*.
+
+### Seeding Adequacy
+
+The Gemara therefore reformulates the question. The case is: the laborer claimed to have seeded the field as required — with the appropriate amount for that plot — and it later emerged that he had not seeded it sufficiently. Here there is no factual misrepresentation of quantity in the simple sense; the dispute concerns whether the work performed met the agreed standard.
+
+Now the conceptual question comes into focus. Tosafot explains why the Gemara does not pose an even simpler case — e.g., I contracted to sell you six units of seeds for ten units of currency, planted them in your land, and it turns out the price was inflated. In that case, Tosafot argues, it would be obvious that *ona'ah* applies, because one is fundamentally paying for the seeds, and the fact that they happen to be in the land is incidental. But in the case of seeding adequacy, the payment is conceptually for what one does *to the land* — for the improvement of the land through appropriate seeding. The question then becomes: is this dispute about the land (in which case there is no *ona'ah*) or about the seeds (in which case *ona'ah* may apply)? One might conceptualize either that the obligation was to improve the land in a certain way and the failure to do so is a land-related issue, or that the shortfall was in the amount of seeds deployed and is therefore a seed-related — i.e., chattel-related — issue. The Gemara leaves the question open.
+
+### Oaths & Batul
+
+The same conceptual tension generates a parallel question regarding oaths. Among the laws excluded from *shtarot*, *avadim*, and *karka* is the obligation of the *shomer* to take an oath; the same exclusion presumably extends to seeds that might be *batel* to land. Rashi's example: I entrusted you with six units of seeds to plant in my land, and you planted only five and a half. I claim you still owe me a full unit; you admit to owing half a unit. This looks like *modeh be-miktzat* — partial admission — which ordinarily obligates the defendant to take a *shevuat modeh be-miktzat*. But the question is whether what we are really disputing is the seeds (in which case there is a *shevuah*) or the planting obligation — which is framed in terms of what was done to the land (in which case the seeds may be *batel* to the *karka*, and no *shevuah* is taken). The question also remains unresolved.
+
+### Omer & Replanted Seeds
+
+The third case raised in this sugya involves the *omer* and seeds that have been replanted. The *omer* offering on the sixteenth of Nisan renders permissible the new grain crop. The Mishnah already rules: *"im hishrishu kodem ha-omer, omer matiran"* — if seeds took root before the *omer* was brought, the *omer* renders the resulting crop permitted; if they had not taken root by then, they must await the following year's *omer*.
+
+But the Gemara identifies a case not covered by that Mishnah. Suppose seeds were cut from last year's harvest — after that year's *omer* had already rendered them permitted — and therefore they could legitimately be eaten. Then the owner planted them in the ground before this year's *omer*. Then the *omer* came and passed, but the seeds had not yet taken root. Now the owner wants to remove the seeds from the ground and eat them. May he?
+
+The question is this: since the seeds were already permitted by last year's *omer*, are they still to be treated as last year's permitted grain — like produce sitting in a bowl that never lost its permitted status? In that case, their brief sojourn in the ground changes nothing, and they may be eaten freely. Or perhaps, by placing them in the ground, they became *batel* to the *karka* and took on the character of this year's crop — new grain that requires the current year's *omer* for its permissibility. Since this year's *omer* passed before they took root, they would need to wait for the following year's *omer*.
+
+The Gemara does not resolve this question either, concluding with *"teiku."*

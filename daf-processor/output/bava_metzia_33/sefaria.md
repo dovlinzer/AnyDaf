@@ -1,0 +1,138 @@
+### Bava Metzia 33a
+
+**1.**
+*Hebrew/Aramaic:* ״רֹבֵץ״ וְלֹא רַבְצָן, ״רֹבֵץ״ וְלֹא עוֹמֵד. ״תַּחַת מַשָּׂאוֹ״ וְלֹא מְפוֹרָק. ״תַּחַת מַשָּׂאוֹ״, מַשּׂאוֹי שֶׁיָּכוֹל לַעֲמוֹד בּוֹ. וְאִי אָמְרַתְּ צַעַר בַּעֲלֵי חַיִּים דְּאוֹרָיְיתָא, מָה לִי רוֹבֵץ, וּמָה לִי רַבְצָן, וּמָה לִי עוֹמֵד!
+*Translation:* It is written: “If you see the donkey…collapsed under its burden” (Exodus 23:5). The *baraita* infers that this obligation to unload a burden applies with regard to an animal that is **“collapsed,” but not** with one that is a habitual **collapser; “collapsed,” but not standing; “under its burden,” but not** when it is **unloaded;** and **“under its burden,”** meaning **a burden that** is not excessive, that the animal **can bear.** The Gemara reasons: **And if you say** that the requirement to prevent **suffering to animals** is **by Torah law, what** is it **to me** if the animal is **collapsed; and what** is it **to me** if the animal is a habitual **collapser; and what** is it **to me** if the animal is **standing?** One should be obligated to unload its burden in any case, if the animal is suffering.
+
+**2.**
+*Hebrew/Aramaic:* הָא מַנִּי? רַבִּי יוֹסֵי הַגְּלִילִי הִיא, דְּאָמַר צַעַר בַּעֲלֵי חַיִּים דְּרַבָּנַן.
+*Translation:* The Gemara answers: In accordance with **whose** opinion **is this** *baraita*? **It is** in accordance with the opinion of **Rabbi Yosei HaGelili, who says** that the requirement to prevent **suffering to animals is by rabbinic law,** and the ordinance does not apply in these circumstances.
+
+**3.**
+*Hebrew/Aramaic:* הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי: ״תַּחַת מַשָּׂאוֹ״ – מַשּׂאוֹי שֶׁיָּכוֹל לַעֲמוֹד בּוֹ, מַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ הַאי סְבָרָא – רַבִּי יוֹסֵי הַגְּלִילִי, שְׁמַע מִינַּהּ.
+*Translation:* The Gemara supports its answer: **So too, it is reasonable** to explain the *baraita* in this manner, **as it is taught** in the *baraita* cited above: **“Under its burden”** indicates **a burden that** the animal **can bear.** About **whom did you hear that he holds that** line of **reasoning?** It is **Rabbi Yosei HaGelili.** The Gemara affirms: **Learn from it** that the *baraita* is in accordance with the opinion of Rabbi Yosei HaGelili.
+
+**4.**
+*Hebrew/Aramaic:* וּמִי מָצֵית מוֹקְמַתְּ לַהּ כְּרַבִּי יוֹסֵי הַגְּלִילִי? וְהָא קָתָנֵי סֵיפָא: ״תַּחַת מַשָּׂאוֹ״ – וְלֹא מְפוֹרָק. מַאי ״לֹא מְפוֹרָק״? אִילֵּימָא לֹא מְפוֹרָק כְּלָל, הָא כְּתִיב: ״הָקֵם תָּקִים עִמּוֹ״! אֶלָּא פְּשִׁיטָא: ״לֹא מְפוֹרָק״ בְּחִנָּם, אֶלָּא בְּשָׂכָר, מַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ הַאי סְבָרָא – רַבָּנַן! לְעוֹלָם רַבִּי יוֹסֵי הַגְּלִילִי הִיא, וּבִטְעִינָה סָבַר לַהּ כְּרַבָּנַן.
+*Translation:* The Gemara asks: **And can you establish** the *baraita* **in accordance with** the opinion of **Rabbi Yosei HaGelili? But isn’t it taught** in **the latter clause** of the *baraita*: **“Under its burden,” but not** when it is **unloaded? What** is the meaning of: **Not** when it is **unloaded? If we say** that it means that when it is **unloaded** there is **no** obligation **at all, isn’t it written** in that case: **“You shall lift them with him”** (Deuteronomy 22:4), teaching that there is a mitzva to load an animal? **Rather,** it is **obvious** that the meaning is that when it is **unloaded,** one is **not** obligated to load it **for free; rather,** he may do so **for remuneration.** About **whom did you hear that he holds that** line of **reasoning?** It is **the Rabbis.** Apparently, the *baraita* is in accordance with the opinion of the Rabbis and not the opinion of Rabbi Yosei HaGelili. The Gemara answers: **Actually,** the *baraita* **is** in accordance with the opinion of **Rabbi Yosei HaGelili, and in** the matter of **loading he holds in accordance with** the opinion of **the Rabbis.**
+
+**5.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״כִּי תִרְאֶה״ – יָכוֹל אֲפִילּוּ מֵרָחוֹק, תַּלְמוּד לוֹמַר: ״כִּי תִפְגַּע״. אִי ״כִּי תִפְגַּע״, יָכוֹל פְּגִיעָה מַמָּשׁ? תַּלְמוּד לוֹמַר: ״כִּי תִרְאֶה״. וְאֵיזוֹ הִיא רְאִיָּיה שֶׁיֵּשׁ בָּהּ פְּגִיעָה – שִׁיעֲרוּ חֲכָמִים אֶחָד מִשֶּׁבַע וּמֶחֱצָה בְּמִיל, וְזֶה הוּא רִיס.
+*Translation:* **The Sages taught** in a *baraita*: It is written: **“If you see** the donkey of him that hates you collapsed under its burden…you shall release it with him” (Exodus 23:5). I **might** have thought one is obligated **even** if he sees the animal **from a distance;** therefore **the** previous **verse states: “If you encounter** your enemy’s ox or his donkey going astray, you shall return it to him” (Exodus 23:4). **If** the Torah had written only: **“If you encounter,”** I **might** have thought that one is obligated to unload the burden only if there was **an actual encounter;** therefore, **the verse states: “If you see.” And what is seeing in which there is** an element of **encounter? The Sages calculated** it as **one of seven and a half** portions, i.e., two-fifteenths, **of a *mil*, and that is** the measure of **a *ris*.**
+
+**6.**
+*Hebrew/Aramaic:* תָּנָא: וּמִדַּדֶּה עִמּוֹ עַד פַּרְסָה. אָמַר רַבָּה בַּר בַּר חָנָה: וְנוֹטֵל שָׂכָר.
+*Translation:* It is **taught** in a *baraita*: After loading the burden onto the animal, **one walks with it up to one parasang [*parsa*]** to ensure that the burden will not fall again. **Rabba bar bar Ḥana says: And he takes remuneration** for accompanying the animal, as that is not included in the mitzva.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֲבֵדָתוֹ וַאֲבֵדַת אָבִיו – אֲבֵדָתוֹ קוֹדֶמֶת. אֲבֵדָתוֹ וַאֲבֵדַת רַבּוֹ – שֶׁלּוֹ קוֹדֵם.
+*Translation:* MISHNA: If one finds **his lost item and his father’s lost item,** tending to **his** own **lost item takes precedence.** Similarly, if one finds **his lost item and his teacher’s lost item,** tending to **his** own lost item **takes precedence.**
+
+**8.**
+*Hebrew/Aramaic:* אֲבֵדַת אָבִיו וַאֲבֵדַת רַבּוֹ – שֶׁל רַבּוֹ קוֹדֶמֶת, שֶׁאָבִיו הֱבִיאוֹ לָעוֹלָם הַזֶּה, וְרַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה מְבִיאוֹ לְחַיֵּי הָעוֹלָם הַבָּא. וְאִם אָבִיו חָכָם – שֶׁל אָבִיו קוֹדֶמֶת.
+*Translation:* If one finds **his father’s lost item and his teacher’s lost item,** tending to **his teacher’s** lost item **takes precedence, as his father brought him into this world, and his teacher, who taught him** the **wisdom** of Torah, **brings him to life in the World-to-Come. And if his father is** a Torah **scholar,** then **his father’s** lost item **takes precedence.**
+
+**9.**
+*Hebrew/Aramaic:* הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי – מַנִּיחַ אֶת שֶׁל רַבּוֹ, וְאַחַר כָּךְ מַנִּיחַ אֶת שֶׁל אָבִיו. הָיָה אָבִיו וְרַבּוֹ בְּבֵית הַשְּׁבִי – פּוֹדֶה אֶת רַבּוֹ, וְאַחַר כָּךְ פּוֹדֶה אֶת אָבִיו. וְאִם אָבִיו חָכָם – פּוֹדֶה אֶת אָבִיו, וְאַחַר כָּךְ פּוֹדֶה אֶת רַבּוֹ.
+*Translation:* If **his father and his teacher were** each **carrying a burden** and he wants to assist them in putting down their burdens, he first **places his teacher’s** burden down **and thereafter places his father’s** burden down. If **his father and his teacher were in captivity,** he first **redeems his teacher and thereafter redeems his father. And if his father is** a Torah **scholar,** he first **redeems his father and thereafter redeems his teacher.**
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ מְנָא הָנֵי מִילֵּי? אָמַר רַב יְהוּדָה אָמַר רַב, אָמַר קְרָא: ״אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן״, שֶׁלְּךָ קוֹדֵם לְשֶׁל כׇּל אָדָם.
+*Translation:* GEMARA: With regard to precedence in the return of lost items, the Gemara asks: **From where are these matters** derived? **Rav Yehuda says** that **Rav says** that **the verse states: “Only so that there shall be no needy among you”** (Deuteronomy 15:4). This verse can be understood as a command, indicating that it is incumbent upon each individual to ensure that he will not become needy. Therefore, **your** property **takes precedence** over the property **of any** other **person.**
+
+**11.**
+*Hebrew/Aramaic:* וְאָמַר רַב יְהוּדָה אָמַר רַב: כׇּל הַמְקַיֵּים בְּעַצְמוֹ כָּךְ, סוֹף בָּא לִידֵי כָּךְ.
+*Translation:* **And Rav Yehuda says** that **Rav says:** Although that is the *halakha*, **anyone who** fastidiously **fulfills this** principle **with regard to his** property at the expense of others’ property **ultimately comes to** experience **that** fate. He will become impoverished, and others will prioritize their interests at his expense.
+
+**12.**
+*Hebrew/Aramaic:* הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי וְכוּ׳. תָּנוּ רַבָּנַן: רַבּוֹ שֶׁאָמְרוּ רַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה, וְלֹא רַבּוֹ שֶׁלִּמְּדוֹ מִקְרָא וּמִשְׁנָה, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: כֹּל שֶׁרוֹב חׇכְמָתוֹ הֵימֶנּוּ. רַבִּי יוֹסֵי אוֹמֵר: אֲפִילּוּ לֹא הֵאִיר עֵינָיו אֶלָּא בְּמִשְׁנָה אַחַת, זֶה הוּא רַבּוֹ.
+*Translation:* § The mishna teaches: If **his father and his teacher were** each **carrying a burden,** he first places his teacher’s burden down and thereafter places his father’s burden down. **The Sages taught** in a *baraita* (*Tosefta* 2:30): **His teacher,** with regard to **whom** the *tanna’im* **stated** in the mishna that his burden takes precedence, is **his teacher who taught him wisdom,** i.e., the profound analysis of the Torah that constitutes the Talmud, **and not his teacher who taught him Bible or Mishna;** this is **the statement of Rabbi Meir. Rabbi Yehuda says:** The reference is to **any** teacher **from whom** one learned **most of his knowledge,** be it Bible, Mishna, or Talmud. **Rabbi Yosei says: Even if he enlightened him in** the understanding of **only one mishna, that is his teacher.**
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רָבָא: כְּגוֹן רַב סְחוֹרָה, דְּאַסְבְּרַן זוּהֲמָא לִיסְטְרוֹן. שְׁמוּאֵל קְרַע מָאנֵיהּ עֲלֵיהּ הָהוּא מֵרַבָּנַן דְּאַסְבְּרֵיהּ ״אֶחָד יוֹרֵד לְאַמַּת הַשֶּׁחִי וְאֶחָד פּוֹתֵחַ כֵּיוָן״.
+*Translation:* **Rava said: For example, Rav Seḥora** is my teacher with regard to these matters, **as he explained to me** the meaning of the term in a mishna (*Kelim* 13:2) ***zuhama listeron*,** a utensil with a spoon on one end and a fork on the other. **Shmuel rent his garment** in mourning **over** the passing of **one of the Sages who explained to him** the meaning of a mishna (*Tamid* 3:6) that describes the two keys that opened the compartment through which the priest would enter the Sanctuary each morning: **One** is the key with which the priest would open the inside lock. He would insert his arm **up to his armpit** through a small opening in the door and reach **down** and open the lock that was at the bottom of the door on the inside, and he would go through that door into a compartment. **And** the other **one** is the key with **which** the priest **opened** the lock on the inner door of the compartment, through which he entered the Sanctuary, and he opened that lock **directly.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא: תַּלְמִידֵי חֲכָמִים שֶׁבְּבָבֶל, עוֹמְדִין זֶה מִפְּנֵי זֶה, וְקוֹרְעִין זֶה עַל זֶה. וּלְעִנְיַן אֲבֵדָה בִּמְקוֹם אָבִיו, אֵינָן חוֹזְרִין אֶלָּא לְרַבּוֹ מוּבְהָק.
+*Translation:* **Ulla says: The Torah scholars who are in Babylonia rise** in deference **before one another and rend** their garments in mourning **over one another’s** passing. In contrast to Eretz Yisrael, where the preeminent Torah scholars and teachers served at the heads of the Torah academies, in Babylonia most scholars studied Torah with peers and there was no preeminent teacher. **But with regard to** returning **a lost item in** a case **where** both **one’s father** and one’s teacher lost an item, **he returns** the lost item **only to his preeminent teacher** before returning that of his father, and not to his peer or to one who taught him the meaning of one mishna or one term.
+
+**15.**
+*Hebrew/Aramaic:* קָבָעֵי מִינֵּיהּ רַב חִסְדָּא מֵרַב הוּנָא: תַּלְמִיד וְצָרִיךְ לוֹ רַבּוֹ, מַאי? אֲמַר לֵיהּ: חִסְדָּא חִסְדָּא, לָא צְרִיכְנָא לָךְ, אַתְּ צְרִיכַתְּ לִי עַד אַרְבְּעִין שְׁנִין. אִיקְּפַדוּ אַהֲדָדֵי וְלָא עָיְילִי לְגַבֵּי הֲדָדֵי. יְתֵיב רַב חִיסְדָּא אַרְבְּעִין תַּעֲנִיָּתָא, מִשּׁוּם דַּחֲלַשׁ דַּעְתֵּיהּ דְּרַב הוּנָא. יָתֵיב רַב הוּנָא אַרְבְּעִין תַּעֲנִיָּתָא, מִשּׁוּם דְּחַשְׁדֵיהּ לְרַב חִסְדָּא.
+*Translation:* **Rav Ḥisda raised a dilemma before Rav Huna:** If there is **a student, and his teacher needs him** because he serves as his peer and study partner, **what** is the *halakha* with regard to precedence in a case where he finds a lost item belonging to his father and one belonging to his teacher? As Rav Ḥisda was Rav Huna’s disciple-colleague, Rav Huna assumed that Rav Ḥisda was referring to himself and **said to him: Ḥisda, Ḥisda, I do not need you.** On the contrary, **you need me until** you complete **forty years** of study before me. They grew **angry with each other** over the perceived insult and the harsh reaction, **and each did not enter to** visit the **other. Rav Ḥisda** was contrite and **observed forty fasts due to** the fact **that Rav Huna was offended,** although it had not been his intention to offend him. **Rav Huna observed forty fasts due to** the fact **that he** had erroneously **suspected** that **Rav Ḥisda** was referring to the relationship between them.
+
+**16.**
+*Hebrew/Aramaic:* אִיתְּמַר: רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּרַבִּי יְהוּדָה. רַב אַחָא בַּר רַב הוּנָא אָמַר רַב שֵׁשֶׁת: הֲלָכָה כְּרַבִּי יוֹסֵי.
+*Translation:* **It was stated** that **Rav Yitzḥak bar Yosef** says that **Rabbi Yoḥanan says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Yehuda,** who says that returning the teacher’s lost item takes precedence only in the case of his preeminent teacher. **Rav Aḥa bar Rav Huna** says that **Rav Sheshet says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Yosei,** who says that returning the teacher’s lost item takes precedence even if the teacher enlightened him with regard to only one mishna.
+
+**17.**
+*Hebrew/Aramaic:* וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָאָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה, וּתְנַן: רַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה. מַאי ״חׇכְמָה״? רוֹב חׇכְמָתוֹ.
+*Translation:* The Gemara asks: **And did Rabbi Yoḥanan say that? But doesn’t Rabbi Yoḥanan say:** The ***halakha*** is always **in accordance with** the opinion cited in **an unattributed mishna; and we learned** an unattributed opinion in the mishna that returning the teacher’s lost item takes precedence in the case of: **His teacher, who taught him** the **wisdom** of Torah. The ruling of the unattributed mishna is in accordance with the opinion of Rabbi Meir. The Gemara answers: **What** is the meaning of **wisdom** in this context? It means **the majority of his wisdom.**
+
+**18.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הָעוֹסְקִין בְּמִקְרָא – מִדָּה וְאֵינָהּ מִדָּה, בַּמִּשְׁנָה – מִדָּה וְנוֹטְלִין עָלֶיהָ שָׂכָר, בַּתַּלְמוּד – אֵין לָךְ מִדָּה גְּדוֹלָה מִזּוֹ, וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד.
+*Translation:* **The Sages taught** in a *baraita*: For those **who engage in** the study of **Bible,** it is **a virtue but not** a complete **virtue.** For those who engage **in** the study of **Mishna,** it is **a virtue and they receive reward for its** study. For those who engage **in** the study of **Talmud, you have no virtue greater than that. And always pursue** study **of** the **Mishna more than** study of **the Talmud.**
+
+**19.**
+*Hebrew/Aramaic:* הָא גוּפַאּ קַשְׁיָא. אָמְרַתְּ בַּתַּלְמוּד אֵין לְךָ מִדָּה גְּדוֹלָה מִזּוֹ, וַהֲדַר אָמְרַתְּ: וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד! אָמַר רַבִּי יוֹחָנָן:
+*Translation:* The Gemara asks: **This** matter **itself** is **difficult,** as the *baraita* is self-contradictory. **You said:** For those who engage **in** the study of **Talmud, you have no virtue greater than that. And then you said: And always pursue** study **of** the **Mishna more than** study of **the Talmud. Rabbi Yoḥanan says:**
+
+
+---
+
+### Bava Metzia 33b
+
+**1.**
+*Hebrew/Aramaic:* בִּימֵי רַבִּי נִשְׁנֵית מִשְׁנָה זוֹ, שְׁבַקוּ כּוּלֵּי עָלְמָא מַתְנִיתִין וַאֲזַלוּ בָּתַר תַּלְמוּדָא, הֲדַר דְּרַשׁ לְהוּ: וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד.
+*Translation:* It was **during the era of Rabbi** Yehuda HaNasi that the beginning of **this *baraita*** extolling the study of Talmud **was taught.** The result was that **everyone abandoned** study of the **Mishna and pursued** the study of **the Talmud.** It was **then** that Rabbi Yehuda HaNasi **taught** them: **And always pursue** study **of** the **Mishna more than** study of **the Talmud,** as without a firm basis in the fundamental *halakhot* of the Mishna, talmudic discourse is futile.
+
+**2.**
+*Hebrew/Aramaic:* מַאי דְּרוּשׁ? כִּדְדָרֵישׁ רַבִּי יְהוּדָה בְּרַבִּי אִלְעַאי, מַאי דִּכְתִיב: ״הַגֵּד לְעַמִּי פִּשְׁעָם וּלְבֵית יַעֲקֹב חַטֹּאתָם״?
+*Translation:* The Gemara asks: On the basis of **what homiletic interpretation** did the *tanna* state that there is no virtue greater than the study of Talmud? It **is** just **as Rabbi Yehuda, son of Rabbi Elai, interpreted homiletically: What** is the meaning of that **which is written:** “Cry aloud, spare not, lift up your voice like a horn, and **declare to My people their transgression and to the house of Jacob their sins”** (Isaiah 58:1)?
+
+**3.**
+*Hebrew/Aramaic:* ״הַגֵּד לְעַמִּי פִּשְׁעָם״ – אֵלּוּ תַּלְמִידֵי חֲכָמִים, שֶׁשְּׁגָגוֹת נַעֲשׂוֹת לָהֶם כִּזְדוֹנוֹת. ״וּלְבֵית יַעֲקֹב חַטֹּאתָם״ – אֵלּוּ עַמֵּי הָאָרֶץ, שֶׁזְּדוֹנוֹת נַעֲשׂוֹת לָהֶם כִּשְׁגָגוֹת. וְהַיְינוּ דִּתְנַן, רַבִּי יְהוּדָה אוֹמֵר: הֱוֵי זָהִיר בַּתַּלְמוּד, שֶׁשִּׁגְגַת תַּלְמוּד עוֹלָה זָדוֹן.
+*Translation:* In the phrase **“declare to My people their transgression,” these** people **are the Torah scholars, whose unwitting** transgressions **become for them tantamount to intentional** transgressions. Due to their erudition, they are held to a higher standard. **“And to the house of Jacob their sins,” these are the ignoramuses, whose intentional** transgressions **become for them tantamount to unwitting** transgressions. Due to their lack of erudition, they are held to a lower standard. **And that is** the basis of that which **we learned** in a mishna (Avot 4:13), that **Rabbi Yehuda says: Be careful in** the study of **the Talmud, as** a transgression based on **an unwitting** misinterpretation of the **Talmud is considered an intentional** transgression.
+
+**4.**
+*Hebrew/Aramaic:* דָּרֵשׁ רַבִּי יְהוּדָה בְּרַבִּי אִלְעַאי: מַאי דִּכְתִיב ״שִׁמְעוּ דְּבַר ה׳ הַחֲרֵדִים אֶל דְּבָרוֹ״ – אֵלּוּ תַּלְמִידֵי חֲכָמִים, ״[אָמְרוּ] אֲחֵיכֶם״ – אֵלּוּ בַּעֲלֵי מִקְרָא, ״שֹׂנְאֵיכֶם״ – אֵלּוּ בַּעֲלֵי מִשְׁנָה, ״מְנַדֵּיכֶם״ – אֵלּוּ עַמֵּי הָאָרֶץ.
+*Translation:* **Rabbi Yehuda, son of Rabbi Elai, interpreted** a verse **homiletically. What** is the meaning of that **which is written:** “Hear the word of the Lord, you who tremble at His word: Your brothers that hate you, that ostracize you for My name’s sake, have said: Let the Lord be glorified, that we may gaze upon your joy, but they shall be ashamed” (Isaiah 66:5)? **“Hear the word of the Lord, you who tremble at His word,” these are Torah scholars; “your brothers…have said,” these are masters of the Bible,** who are aware of their shortcomings and treat the Torah scholars with deference; **“that hate you,” these are masters of Mishna,** who consider themselves the equals of Torah scholars and resent the fact that the Torah scholars do not treat them as equals; **“that ostracize you,” these are ignoramuses,** who distance themselves with their actions from the Torah scholars.
+
+**5.**
+*Hebrew/Aramaic:* שֶׁמָּא תֹּאמַר פָּסַק סִבְרָם וּבָטַל סִיכּוּיָם? תַּלְמוּד לוֹמַר: ״וְנִרְאֶה בְּשִׂמְחַתְכֶם״. שֶׁמָּא תֹּאמַר יִשְׂרָאֵל יֵבוֹשׁוּ? תַּלְמוּד לוֹמַר: ״וְהֵם יֵבֹשׁוּ״, אוּמּוֹת הָעוֹלָם יֵבוֹשׁוּ וְיִשְׂרָאֵל יִשְׂמָחוּ.
+*Translation:* **Lest you say,** with regard to those groups who are not Torah scholars, that **their hope has ceased and their chances are eliminated, the verse states: “That we may gaze upon your joy.”** All of the Jewish people, including the groups listed above, will gaze upon the joy of the Torah scholars. **Lest you say that the Jewish people will be ashamed, the verse states: “But they shall be ashamed,”** meaning that **gentiles will be ashamed, but the Jewish people will be joyous.**
+
+**6.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ אֵלּוּ מְצִיאוֹת
+*Translation:* 
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמַּפְקִיד אֵצֶל חֲבֵירוֹ בְּהֵמָה אוֹ כֵלִים, וְנִגְנְבוּ אוֹ שֶׁאָבְדוּ, שִׁילֵּם וְלֹא רָצָה לִישָּׁבַע, שֶׁהֲרֵי אָמְרוּ: ״שׁוֹמֵר חִנָּם נִשְׁבָּע וְיוֹצֵא״.
+*Translation:* MISHNA: In the case of **one who deposits an animal or vessels with another,** who is acting as an unpaid bailee, **and they were stolen or they were lost,** and the bailee **paid** the owner the value of the deposit, **and did not wish to take an oath** that he did not misappropriate the item and that he was not negligent in safeguarding it, that will effect who keeps the deposit if it is found or returned. The bailee may also choose to take the oath, **as** the Sages **said: An unpaid bailee takes an oath, and he is** thereby **released** from the liability to pay the owner.
+
+**8.**
+*Hebrew/Aramaic:* נִמְצָא הַגַּנָּב – מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל. טָבַח וּמָכַר – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה. לְמִי מְשַׁלֵּם? לְמִי שֶׁהַפִּקָּדוֹן אֶצְלוֹ.
+*Translation:* If **the thief is** later **found,** the thief **pays** the **double payment.** If the deposited item was a sheep or an ox and the thief **slaughtered or sold** it, **he pays** the **fourfold or fivefold payment. To whom does** the thief **pay?** He gives the payment **to the one who** had **the deposit in his** possession when it was stolen, i.e., the bailee. When the bailee paid the owner for the stolen item, the owner granted the rights to the item to the bailee. Therefore, the bailee is entitled to any payment the thief presents for the item, be it compensation for the item’s value or a fine.
+
+**9.**
+*Hebrew/Aramaic:* נִשְׁבַּע וְלֹא רָצָה לְשַׁלֵּם, נִמְצָא הַגַּנָּב – מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל. טָבַח וּמָכַר – מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה, לְמִי מְשַׁלֵּם? לְבַעַל הַפִּקָּדוֹן.
+*Translation:* In the case of a bailee who **took an oath and did not wish to pay,** if **the thief is** then **found** and required to **pay** the **double payment,** or if he **slaughtered or sold** the animal and is required to **pay the fourfold or fivefold payment, to whom does** the thief **pay?** He gives the payment **to the owner of the deposit,** not the bailee.
+
+**10.**
+*Hebrew/Aramaic:* גְּמָ׳ לְמָה לֵיהּ לְמִתְנֵי בְּהֵמָה, וּלְמָה לֵיהּ לְמִתְנֵי כֵּלִים?
+*Translation:* GEMARA: The Gemara asks: **Why does** the mishna need **to teach** the case of one who deposits **an animal, and why does** the mishna need **to teach** the case of one who deposits **vessels?** The mishna could have sufficed with a general *halakha* about one who deposits any item.
+
+**11.**
+*Hebrew/Aramaic:* צְרִיכִי, דְּאִי תְּנָא בְּהֵמָה – הֲוָה אָמֵינָא: בְּהֵמָה הוּא דְּמַקְנֵי לֵיהּ כְּפֵילָא, מִשּׁוּם דִּנְפִישׁ טִירְחַהּ לְעַיּוֹלַהּ וּלְאַפּוֹקַהּ. אֲבָל כֵּלִים דְּלָא נְפִישׁ טִירְחַיְיהוּ, אֵימָא לָא מַקְנֵי לֵיהּ כְּפֵילָא.
+*Translation:* The Gemara explains: Both **are necessary, as, if** the mishna **taught** only the case of one who deposits **an animal, I would say:** It **is** only with regard to **an animal that** the owner agrees to **transfer** rights to **the double payment** to the bailee when the bailee pays for the stolen item. This is **due to** the fact **that the exertion** required to tend to the animal, **to bring** the animal **in and to take it out, is great.** Consequently, when it becomes clear that the bailee was not responsible for the theft of the animal but nevertheless compensated the owner, the owner waives his rights to any compensation the thief will pay. **But** in the case of **vessels, where the exertion** that is required to tend to the vessels **is not great, say that** the owner **does not transfer** to the bailee rights to the **double payment.**
+
+**12.**
+*Hebrew/Aramaic:* וְאִי תְּנָא כֵּלִים הֲוָה אָמֵינָא: כֵּלִים הוּא דְּקָמַקְנֵי לֵיהּ כְּפֵילָא – מִשּׁוּם דְּלָא נְפִישׁ כְּפֵלַיְיהוּ, אֲבָל בְּהֵמָה דְּכִי טָבַח וּמָכַר מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה – אֵימָא לָא מַקְנֵי לֵיהּ כְּפֵילָא, צְרִיכָא.
+*Translation:* **And had** the mishna **taught** only the case of one who deposits **vessels, I would say:** It **is** only with regard to **vessels that the owner transfers** rights to **the double payment** to the bailee when the bailee pays for the lost item. This is **due to** the fact **that double payment,** in **their** case, **is not substantial,** as that is the maximum payment that he could receive. **But** in the case of **an animal, where if** the thief **slaughtered or sold** it, **he pays the fourfold or fivefold payment,** which is substantial, **I** would **say that** the owner **does not transfer** the rights to the **double payment** to the bailee. Therefore, both cases are **necessary.**
+
+**13.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רָמֵי בַּר חָמָא: וְהָא אֵין אָדָם מַקְנֶה דָּבָר שֶׁלֹּא בָּא לָעוֹלָם! וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּאָמַר אָדָם מַקְנֶה דָּבָר שֶׁלֹּא בָּא לָעוֹלָם, הָנֵי מִילֵּי כְּגוֹן פֵּירוֹת דֶּקֶל דַּעֲבִידִי דְּאָתוּ,
+*Translation:* **Rami bar Ḥama objects to** the fundamental reasoning. How can the owner of the deposit transfer rights to the double payment to the bailee? **But isn’t** there a principle that **one cannot transfer** to another **ownership of an entity that has not** yet **come into the world?** Since the thief was not yet liable to pay the double payment when the bailee paid the owner for the item, there was no way to transfer rights to that payment to another person. **And even according to Rabbi Meir, who says** that **a person** can **transfer** to another **ownership of an entity that has not** yet **come into the world, that statement** applies to items **such as the fruits of a date palm, which are likely to come** into being, as they grow on a regular basis.
+
+**14.**
+*Hebrew/Aramaic:* אֲבָל הָכָא
+*Translation:* **But here,** where the transfer of rights to the payment is part of the initial agreement between the owner and the bailee, taking effect when the item is deposited,

@@ -1,0 +1,170 @@
+### Pesachim 42a
+
+**1.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה הִיא, דְּתַנְיָא: ״שׁוֹר וָשֶׂה שָׂרוּעַ וְקָלוּט נְדָבָה תַּעֲשֶׂה אֹתוֹ״. אוֹתוֹ אַתָּה מַתְפִּיס לְבֶדֶק הַבַּיִת, וְאִי אַתָּה מַתְפִּיס תְּמִימִים לְבֶדֶק הַבַּיִת. מִכָּאן אָמְרוּ: כׇּל הַמַּתְפִּיס תְּמִימִים לְבֶדֶק הַבַּיִת עוֹבֵר בַּעֲשֵׂה.
+*Translation:* **It is** in accordance with the opinion of **Rabbi Yehuda, as it was taught** in a *baraita*: “Either **a bull or a lamb that has anything too long or too short, you may offer it as a free-will offering** [to the Temple treasury]; but for a vow [as a sacrifice] it shall not be accepted” (Leviticus 22:23). From here we learn that **it,** i.e., a blemished animal, **you** may **consecrate for maintaining the Temple, but you** may **not consecrate unblemished** animals **for maintaining the Temple.** In other words, any animal fit to be sacrificed as an offering may not be consecrated for maintaining the Temple but only as an offering. **From here** the Sages **stated: Whoever consecrates unblemished** animals **for maintaining the Temple transgresses a positive mitzva.**
+
+**2.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא בַּעֲשֵׂה, בְּלֹא תַעֲשֶׂה מִנַּיִן? תַּלְמוּד לוֹמַר: ״וַיְדַבֵּר ה׳ אֶל מֹשֶׁה לֵּאמֹר״, לִימֵּד עַל כׇּל הַפָּרָשָׁה כּוּלָּהּ שֶׁיְּהֵא בְּלֹא תַעֲשֶׂה, דִּבְרֵי רַבִּי יְהוּדָה.
+*Translation:* From here **I have only** derived that he violates **a positive mitzva; from where do I** derive that he also transgresses **a prohibition? The verse states** at the beginning of that passage: **“And the Lord spoke to Moses saying”** (Leviticus 22:17). This introductory statement **teaches with regard to the entire portion that a prohibition applies to it.** This is **the statement of Rabbi Yehuda.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי לְבַר קַפָּרָא: מַאי מַשְׁמַע?
+*Translation:* The *baraita* adds that **Rabbi** Yehuda HaNasi **said to Bar Kappara: From where may it be inferred** that this is the case? How does Rabbi Yehuda derive his statement that a prohibition applies to the entire portion from the phrase “And the Lord spoke to Moses saying”?
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לוֹ: דִּכְתִיב ״לֵאמֹר״ — לֹא נֶאֱמַר בַּדְּבָרִים.
+*Translation:* **He said to him: As it is written: “Saying [*leimor*].”** Rabbi Yehuda expounds this term as though it read: Say no [*lo emor*]. In other words, the word **no,** an expression of prohibition, **is stated with regard to** the subsequent **matters,** which means that these mitzvot are categorized as prohibitions.
+
+**5.**
+*Hebrew/Aramaic:* בֵּי רַב אָמְרִי: ״לֵאמֹר״ — לָאו אֱמוֹר.
+*Translation:* In **the school** of **Rav they say** a slightly different explanation: The term: Saying, can be expounded as if it were written ***lav emor*,** meaning: **Say a prohibition.** In other words, the verse indicates that Moses was instructed to inform the Jewish people of a prohibition. This teaches that any mitzva introduced by the word *leimor* should be treated as a prohibition. Since the *halakhot* of the Paschal lamb are preceded by the phrase: “And the Lord spoke to Moses and to Aaron in the Land of Egypt saying” (Exodus 12:1), it can be inferred that the subsequent mitzvot are also prohibitions.
+
+**6.**
+*Hebrew/Aramaic:* מֵי תַשְׁמִישׁוֹ שֶׁל נַחְתּוֹם וְכוּ׳. תָּנֵי חֲדָא: שׁוֹפְכִין בִּמְקוֹם מִדְרוֹן, וְאֵין שׁוֹפְכִין בִּמְקוֹם הָאֶישְׁבּוֹרֶן. וְתַנְיָא אִידַּךְ: שׁוֹפְכִין בִּמְקוֹם הָאֶישְׁבּוֹרֶן!
+*Translation:* We learned in the mishna: **Water that has been used by a baker** for cooling his hands or washing dishes must be poured out, as it contains a small, undefined quantity of leavened dough. **It was taught** in **one** *baraita*: **One** may **pour out** this water **in a place with an incline, and he** may **not pour** it **out in a** level **place where** the water **collects. And it was taught** in **another** *baraita*: **One** may even **pour out** this water **in a** level **place where** the water **collects.**
+
+**7.**
+*Hebrew/Aramaic:* לָא קַשְׁיָא: הָא — דִּנְפִישִׁי, דִּקְווּ. הָא — דְּלָא נְפִישִׁי, דְּלָא קְווּ.
+*Translation:* The Gemara resolves this contradiction: This is **not difficult. This** *baraita*, which states that it is prohibited to pour out this water in a level place, is referring **to a large** amount of water **that will collect** in one place. Since there is a large amount of water, the flour in the water will not be absorbed into the ground but will leaven. Conversely, **that** *baraita*, which states that it is permitted to pour out the water in a level place, is referring to a situation **where** there was **not a large amount** of water, so that it **will not collect.** Instead, this water will be absorbed into the ground before the dough leavens.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה: אִשָּׁה לֹא תָּלוּשׁ אֶלָּא בְּמַיִם שֶׁלָּנוּ.
+*Translation:* **Rav Yehuda said: A woman** may **knead** *matza* dough **only with water that rested,** i.e., water that was left indoors overnight to cool. If water is added to dough immediately after it was drawn, when it is still lukewarm, the dough will leaven at a faster rate.
+
+**9.**
+*Hebrew/Aramaic:* דַּרְשַׁהּ רַב מַתְנָה בְּפַפּוֹנְיָא. לְמָחָר אַיְיתוֹ כּוּלֵּי עָלְמָא חַצְבַיְיהוּ וַאֲתוֹ לְגַבֵּיהּ, וַאֲמַרוּ לֵיהּ: הַב לַן מַיָּא. אֲמַר לְהוּ: אֲנָא בְּמַיָּא דְּבִיתוּ אֲמַרִי.
+*Translation:* The Gemara relates: **Rav Mattana taught** this *halakha* **in Paphunya. On the next day,** the eve of Passover, **everyone brought their jugs to him and said to him: Give us water.** They misunderstood his expression *mayim shelanu*, water that rested, as the near homonym *mayim shelanu*, our water, i.e., water that belongs to the Sage, and they therefore came to take water from his house. **He said to them: I say** and meant: **Water that rested [*devitu*]** in the house overnight.
+
+**10.**
+*Hebrew/Aramaic:* דָּרֵשׁ רָבָא: אִשָּׁה לֹא תָּלוּשׁ בַּחַמָּה, וְלֹא בְּחַמֵּי חַמָּה, וְלֹא בַּמַּיִם הַגְּרוּפִין מִן הַמּוּלְיָיר, וְלֹא תַּגְבִּיהַּ יָדָהּ מִן הַתַּנּוּר עַד שֶׁתִּגְמוֹר אֶת כׇּל הַפַּת. וְצָרִיךְ שְׁנֵי כֵלִים — אֶחָד שֶׁמְּקַטֶּפֶת בּוֹ, וְאֶחָד שֶׁמְּצַנֶּנֶת בּוֹ אֶת יָדֶיהָ.
+*Translation:* **Rava taught: A woman** may **not knead** dough for *matza* **in the sun, nor with** water that has been **heated by the sun, nor with water collected [*hagerufin*] in an urn heated** by coals **[*mulyar*] And** in addition, **she** may **not remove her hand from the oven,** i.e., interrupt her baking, **until she finishes** forming **all the loaves** from the dough, so that it should not become leavened in the interim. **And** she **requires two vessels, one in which she mixes** the water into the dough **and one in which she cools her hands** so that the heat from her hands does not cause the dough to leaven.
+
+**11.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: עָבְרָה וְלָשָׁה, מַהוּ? מָר זוּטְרָא אָמַר: מוּתָּר, רַב אָשֵׁי אָמַר: אָסוּר.
+*Translation:* **A dilemma was raised before** the Sages: If **she transgressed and kneaded** the dough with warm water, **what is** the *halakha*? **Mar Zutra said: It is permitted** after the fact. **Rav Ashi said: It is forbidden.**
+
+**12.**
+*Hebrew/Aramaic:* אָמַר מָר זוּטְרָא: מְנָא אָמֵינָא לַהּ? דְּתַנְיָא: אֵין לוֹתְתִין הַשְּׂעוֹרִין בַּפֶּסַח. וְאִם לָתַת, נִתְבַּקְּעוּ — אֲסוּרִים, לֹא נִתְבַּקְּעוּ — מוּתָּרִין.
+*Translation:* **Mar Zutra said: From where do I say** my opinion on this issue? **As it was taught** in a *baraita*: **One** may **not soak barley on Passover, and if one soaked** barley and it **split,** the barley **is forbidden.** If it did **not split,** the barley **is permitted.** This case indicates that even if one violates the principles established by the Sages with regard to adding water to flour on Passover, the product is forbidden only after the fact if it actually leavened.
+
+**13.**
+*Hebrew/Aramaic:* וְרַב אָשֵׁי אָמַר: אַטּוּ כּוּלְּהוּ חֲדָא מְחִיתָא מְחִיתִינְהוּ?! הֵיכָא דְּאִיתְּמַר — אִיתְּמַר, וְהֵיכָא דְּלָא אִיתְּמַר — לָא אִיתְּמַר.
+*Translation:* **And Rav Ashi said** in response: **Is that to say** that **all of them are woven in the same** act of **weaving?** In other words, is the *halakha* identical in all cases? **Where it was stated** that the Sages did not punish the violator by rendering his food prohibited, **it was stated; and where it was not stated** that they refrained from punishing the violator, **it was not stated.** It is therefore possible that the Sages rendered dough kneaded with warm water forbidden, to punish the woman who prepared it in this manner.
+
+**14.**
+*Hebrew/Aramaic:* הָדְרָן עֲלָךְ כׇּל שָׁעָה
+*Translation:* 
+
+**15.**
+*Hebrew/Aramaic:* מַתְנִי׳ וְאֵלּוּ עוֹבְרִין בַּפֶּסַח: כּוּתָּח הַבַּבְלִי, וְשֵׁכָר הַמָּדִי, וְחוֹמֶץ הָאֲדוֹמִי, וְזֵיתוֹם הַמִּצְרִי, וְזוֹמָן שֶׁל צַבָּעִים, וַעֲמִילָן שֶׁל טַבָּחִים, וְקוֹלָן שֶׁל סוֹפְרִים.
+*Translation:* MISHNA: And for possessing **these one transgresses [*overin*]** the prohibitions of: It shall not be seen, and: It shall not be found, **on Passover,** although not all of them are considered food: **Babylonian *kutaḥ*,** a dip with a sharp flavor that contains flour; **Median beer; Edomite vinegar; Egyptian *zitom*,** a type of beer; **dyers’ broth [*zoman*]; bakers’ well-worked dough; and *kolan of soferim*.**
+
+**16.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר: אַף תַּכְשִׁיטֵי נָשִׁים.
+*Translation:* **Rabbi Eliezer says:** The same prohibition **also** applies to **women’s adornments,** i.e., cosmetics, that contain leaven.
+
+**17.**
+*Hebrew/Aramaic:* זֶה הַכְּלָל: כׇּל שֶׁהוּא מִמִּין דָּגָן — הֲרֵי זֶה עוֹבֵר בַּפֶּסַח. הֲרֵי אֵלּוּ בָּאַזְהָרָה, וְאֵין בָּהֶן מִשּׁוּם כָּרֵת.
+*Translation:* **This is the principle:** If one possesses **any** substance **that is** derived **from a type of grain** that became leavened, although it is not actually bread, **one transgresses** the prohibitions of: It shall not be seen, and: It shall not be found, **on Passover. These** substances are included **in the warning,** i.e., the biblical prohibition of possessing leaven, **but there is no element of *karet*** if one eats them.
+
+**18.**
+*Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן, שְׁלֹשָׁה דְּבָרִים נֶאֱמָרִים בְּכוּתָּח הַבַּבְלִי: מְטַמְטֵם אֶת הַלֵּב, וּמְסַמֵּא אֶת הָעֵינַיִם, וּמַכְחִישׁ אֶת הַגּוּף.
+*Translation:* GEMARA: Since the mishna mentions *kutaḥ*, the Gemara cites a *baraita* where *kutaḥ* is discussed. **The Sages taught** that **three things were said with regard to *kutaḥ*: It blocks the heart, it blinds the eyes, and it weakens the body.**
+
+**19.**
+*Hebrew/Aramaic:* מְטַמְטֵם אֶת הַלֵּב — מִשּׁוּם נַסְיוּבֵי דַחֲלָבָא. וּמְסַמֵּא אֶת הָעֵינַיִם — מִשּׁוּם מִילְחָא. וּמַכְחִישׁ אֶת הַגּוּף — מִשּׁוּם קוֹמָנִיתָא דְאוּמָא.
+*Translation:* The Gemara explains each statement: **It blocks the heart due to** the **whey.** Whey was added to *kutaḥ* and was considered to be an inferior type of food. **It blinds the eyes due to the salt** in it, which can be dangerous if it enters the eyes. **And it weakens the body due to the mold in the bread,** as one of the ingredients of *kutaḥ* was crumbs from dough that had become leavened to the point that they were nearly spoiled.
+
+**20.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שְׁלֹשָׁה דְּבָרִים מַרְבִּין הַזֶּבֶל, וְכוֹפְפִין אֶת הַקּוֹמָה, וְנוֹטְלִין אֶחָד מֵחֲמֵשׁ מֵאוֹת מִמְּאוֹר עֵינָיו שֶׁל אָדָם, אֵלּוּ הֵן: פַּת קִיבָּר, וְשֵׁכָר חָדָשׁ, וְיָרָק חַי.
+*Translation:* After mentioning this *baraita*, the Gemara continues to discuss the nutritional effects of other foods. **The Sages taught: Three things increase** one’s **waste, lower** one’s **stature, and take one five-hundredth of a person’s vision** if he eats them regularly. And **they are: Bread** from **coarse** flour, **new beer, and raw vegetables.**
+
+**21.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שְׁלֹשָׁה דְּבָרִים מְמַעֲטִין אֶת הַזֶּבֶל, וְזוֹקְפִין אֶת הַקּוֹמָה, וּמְאִירִין אֶת הָעֵינַיִם, אֵלּוּ הֵן: פַּת נְקִיָּיה, בָּשָׂר שָׁמֵן, וְיַיִן יָשָׁן. פַּת נְקִיָּיה —
+*Translation:* Similarly, **the Sages taught** in another *baraita*: **Three things decrease** one’s **waste, straighten** one’s **stature, and improve** one’s **vision,** and **they are: Bread** from **fine** flour, **fatty meat, and aged wine.** The Gemara explains: **Fine bread**
+
+
+---
+
+### Pesachim 42b
+
+**1.**
+*Hebrew/Aramaic:* דִּסְמִידָא, בָּשָׂר שָׁמֵן — דִּצְפִירְתָּא דְּלָא אִפְּתַח, יַיִן יָשָׁן — עַתִּיק עַתִּיקֵי.
+*Translation:* is made **from refined flour; fatty meat** refers to meat **from a goat that has not** yet **given birth; and aged wine** refers to wine that has been **aged significantly,** for at least three years.
+
+**2.**
+*Hebrew/Aramaic:* כׇּל מִילֵּי דִּמְעַלֵּי לְהַאי — קָשֵׁה לְהַאי, וּדְקָשֵׁה לְהַאי — מְעַלֵּי לְהַאי, בַּר מִזַּנְגְּבִילָא רַטִּיבָא, וּפִילְפְּלֵי אֲרִיכְתָּא, וּפַת נְקִיָּיה, וּבָשָׂר שָׁמֵן, וְיַיִן יָשָׁן — דִּמְעַלֵּי לְכוּלֵּי גּוּפֵיהּ.
+*Translation:* The Gemara states a general principle: **Any** food or medical treatment **that is effective in** healing **this** sickness or this limb **is deleterious for that** one. **And** any food or treatment **that is deleterious for this** one **is effective** in healing **that** one, **except for moist ginger, long peppers, and bread** made of **refined** flour, **and fatty meat, and aged wine, which are effective to heal all** limbs **of the body.**
+
+**3.**
+*Hebrew/Aramaic:* שֵׁכָר הַמָּדִי. דְּרָמוּ בֵּיהּ מֵי שְׂעָרֵי.
+*Translation:* The Gemara returns to its discussion of the details mentioned in the mishna. Why is **Median beer** prohibited during Passover? It is because the Medians **place barley water into it.**
+
+**4.**
+*Hebrew/Aramaic:* וְחוֹמֶץ הָאֲדוֹמִי. דְּשָׁדוּ בֵּיהּ שְׂעָרֵי.
+*Translation:* **And Edomite vinegar** is prohibited because the Edomites **place barley into it.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן (בַּר יִצְחָק): בַּתְּחִלָּה כְּשֶׁהָיוּ מְבִיאִין נְסָכִים מִיְּהוּדָה, לֹא הָיָה יֵינָם שֶׁל יְהוּדָה מַחְמִיץ, עַד שֶׁנּוֹתְנִין לְתוֹכָן שְׂעוֹרִין. וְהָיוּ קוֹרִין אוֹתוֹ חוֹמֶץ סְתָם.
+*Translation:* **Rav Naḥman bar Yitzḥak said: Initially,** when the Temple stood **and they would bring** wine **libations from Judea,** the wine would be blessed and would be preserved without any additives. **The wine of Judea would not turn to vinegar unless they placed barley into it** to achieve this effect. **And they would call** this vinegar to which barley had been added **ordinary vinegar,** since wine would not become vinegar without this additive.
+
+**6.**
+*Hebrew/Aramaic:* וְעַכְשָׁיו אֵין יֵינָם שֶׁל אֲדוֹמִיִּים מַחְמִיץ עַד שֶׁנּוֹתְנִין לְתוֹכָן שְׂעוֹרִין, וְקוֹרִין אוֹתוֹ חוֹמֶץ הָאֲדוֹמִי, לְקַיֵּים מַה שֶּׁנֶּאֱמַר: ״אִמָּלְאָה הָחֳרָבָה״, אִם מְלֵאָה זוֹ — חֲרֵבָה זוֹ, וְאִם מְלֵאָה זוֹ — חֲרֵבָה זוֹ. רַב נַחְמָן בַּר יִצְחָק אָמַר, מֵהָכָא: ״וּלְאֹם מִלְּאֹם יֶאֱמָץ״.
+*Translation:* **And now,** after the destruction of the Temple, **Edomite wine does not turn to vinegar unless one places barley into it. This is called Edomite vinegar, to fulfill that which is stated** with regard to Tyre, and the same applies to other enemies of the Jewish people: “Because Tyre has said against Jerusalem: Aha, she is broken that was the gate of the peoples; she is turned unto me; **I shall be filled with her that is laid waste”** (Ezekiel 26:2). The Sages expound: **If this one,** Jerusalem, **is full,** then **that one,** her enemy, **is laid waste; and if this** enemy **is full,** then **she,** Jerusalem, **is laid waste.** Therefore, when the Jewish people fall, their enemies can achieve the success that was once attained by the Jews. **Rav Naḥman bar Yitzḥak said:** This notion can be derived **from here,** where the verse states regarding Esau and Jacob: **“The one people shall be stronger than the other people”** (Genesis 25:23), meaning that when one nation gains power, the other is weakened, because they cannot both be strong at the same time.
+
+**7.**
+*Hebrew/Aramaic:* תַּנְיָא, אָמַר רַבִּי יְהוּדָה: בִּיהוּדָה, בָּרִאשׁוֹנָה הַלּוֹקֵחַ חוֹמֶץ מֵעַם הָאָרֶץ — אֵינוֹ צָרִיךְ לְעַשֵּׂר, מִפְּנֵי שֶׁחֲזָקָה אֵינוֹ בָּא אֶלָּא מִן הַתֶּמֶד. וְעַכְשָׁיו, הַלּוֹקֵחַ חוֹמֶץ מֵעַם הָאָרֶץ — צָרִיךְ לְעַשֵּׂר, שֶׁחֶזְקָתוֹ אֵינוֹ בָּא אֶלָּא מִן הַיַּיִן.
+*Translation:* **It was taught** in a *baraita* that **Rabbi Yehuda said: In Judea, initially, one who would purchase vinegar from an *am ha’aretz*,** i.e., one who is not scrupulous in matters of ritual purity and tithes and is therefore suspect of not having tithed his fruit properly, would **not need to tithe it due to** the fact that **it can be assumed** that ordinary vinegar **was made only from *temed*,** a liquid produced from grape remnants. After filtering the wine from the stems, seeds, and skins, water was poured over these remnants. The liquid was then drained off and allowed to ferment until it became vinegar. This liquid was called *temed*, and it is not necessary to tithe it. Vinegar was produced in this way because the wine of that time was so strong that it did not turn to vinegar on its own. **But now, one who purchases vinegar from an *am ha’aretz* must tithe it,** as the wine nowadays turns to vinegar quickly, **and the presumption is** that vinegar **comes only from wine.**
+
+**8.**
+*Hebrew/Aramaic:* וְסָבַר רַבִּי יְהוּדָה: תֶּמֶד לָאו בַּר עַשּׂוֹרֵי הוּא? וְהָא (תְּנַן): הַמְתַמֵּד וְנָתַן מַיִם בַּמִּדָּה, וּמָצָא כְּדֵי מִדָּתוֹ — פָּטוּר, וְרַבִּי יְהוּדָה מְחַיֵּיב?
+*Translation:* The Gemara asks: **But does Rabbi Yehuda hold that *temed* is not subject to tithing? Wasn’t it taught** in a mishna: With regard to **one who produces *temed* and adds a measured** amount **of water and** afterward **finds a corresponding** amount of liquid to that which **he measured, he is exempt** from tithing this *temed* because it is clear that the grape produce added only flavor and did not add to the volume of the *temed*. And **Rabbi Yehuda obligates** one to tithe the *temed* even in that case. If this is so, how can Rabbi Yehuda permit a person to purchase *temed* from an *am ha’aretz*? According to his opinion in this *baraita*, *temed* must be tithed.
+
+**9.**
+*Hebrew/Aramaic:* הָכִי קָאָמַר: לֹא נֶחְשְׁדוּ עַמֵּי הָאָרֶץ עַל הַתֶּמֶד. אִי בָּעֵית אֵימָא: נֶחְשְׁדוּ, וְלָא קַשְׁיָא: הָא — בְּדִרְווֹקָא, הָא — בִּדְפוּרְצָנֵי.
+*Translation:* The Gemara answers: **This is** what Rabbi Yehuda **is saying:** One is required to tithe *temed*; however, ***amei ha’aretz* are not suspected** of failing to tithe ***temed*.** Because *temed* is so inexpensive, the assumption is that *amei ha’aretz* are not sparing with it and are willing to tithe it. **If you wish, say** instead that even if *amei ha’aretz* **are suspected** of failing to tithe *temed*, **and** this is **not difficult** for the following reason: **This** mishna is referring to a case where the *temed* was produced **with dregs** that contain some amount of wine, and therefore Rabbi Yehuda says that a person is required to tithe it. **That** *baraita* is referring to a case where the *temed* was produced **with grape pits; because** it is assumed that no wine is mixed into the *temed*, Rabbi Yehuda states that one is exempt from tithing it.
+
+**10.**
+*Hebrew/Aramaic:* וְזֵיתוֹם הַמִּצְרִי וְכוּ׳. מַאי זֵיתוֹם הַמִּצְרִי?
+*Translation:* It is stated in the mishna that **Egyptian *zitom*** is considered leavened food. The Gemara asks: **What is Egyptian *zitom*?**
+
+**11.**
+*Hebrew/Aramaic:* תָּנָא רַב יוֹסֵף: תְּלָתָא שְׂעָרֵי, תְּלָתָא קוּרְטְמֵי, וּתְלָתָא מִלְחָא.
+*Translation:* **Rav Yosef taught** from a *baraita*: It is **one-third barley, one-third safflower, and one-third salt.**
+
+**12.**
+*Hebrew/Aramaic:* רַב פָּפָּא מַפֵּיק שְׂעָרֵי וּמְעַיֵּיל חִיטֵּי, וְסִימָנָיךְ סִיסָנֵי.
+*Translation:* **Rav Pappa removes barley** from the list of ingredients **and includes wheat;** he maintains that Egyptian *zitom* was made with wheat rather than barley. The Gemara comments: **Your mnemonic** to remember which Sage expressed which version is the word ***sisanei*,** meaning a twig basket. *Sisanei* contains the letter *samekh* twice, which can help one remember that Rav Yosef, whose name contains a *samekh*, says that Egyptian *zitom* is made from *se’orim*, barley, a word that contains the letter *sin*, which makes the same sound as *samekh*.
+
+**13.**
+*Hebrew/Aramaic:* תָּרוּ לְהוּ וְקָלוּ לְהוּ וְטָחֲנִי לְהוּ וְשָׁתוּ לְהוּ מִדִּיבְחָא וְעַד עֲצַרְתָּא. דִּקְמִיט מְרַפֵּי לֵיהּ, וְדִרְפֵי מְקַמֵּיט לֵיהּ, לְחוֹלֶה וּלְאִשָּׁה עוּבָּרָה סַכַּנְתָּא.
+*Translation:* The Gemara describes how Egyptian *zitom* is prepared: Those who prepare it **soak** the ingredients together, **and** then they **roast them and grind them** together. **They drink** the mixture **from Passover to *Shavuot*.** This drink **relaxes** the bowels of one who is **constipated, and it constipates** one whose bowel movements are **loose.** However, **it is dangerous for a sick person or a pregnant woman** to drink this mixture.
+
+**14.**
+*Hebrew/Aramaic:* וְזוֹמָן שֶׁל צַבָּעִים וְכוּ׳. הָכָא תַּרְגִּימוּ: מַיָּא דְּחִיוָּרֵי דְּצָבְעִי בְּהוּ לִבָּא.
+*Translation:* It was taught in the mishna that **dyers’ broth** is considered leavened. The Gemara explains: **Here,** in Babylonia, **they interpreted** that this is **bran water [*maya deḥivri*] that** people **use to dye leather.**
+
+**15.**
+*Hebrew/Aramaic:* וַעֲמִילָן שֶׁל טַבָּחִים וְכוּ׳. פַּת תְּבוּאָה שֶׁלֹּא הֵבִיאָה שְׁלִישׁ, שֶׁמַּנִּיחָהּ עַל פִּי קְדֵירָה וְשׁוֹאֶבֶת הַזּוּהֲמָא.
+*Translation:* It was further stated in the mishna that **bakers’ well-worked dough** is also considered leavened. The Gemara explains the nature of this substance: It is **bread made from grain that was** harvested before it was **one-third** ripe and then made into a loaf. This loaf was placed **on top of a pot to draw out the filth** from the broth.
+
+**16.**
+*Hebrew/Aramaic:* וְקוֹלָן שֶׁל סוֹפְרִים וְכוּ׳. הָכָא תַּרְגּוּמָא: פֵּרוּרָא דְאוּשְׁכָּפֵי.
+*Translation:* It was further taught in the mishna that the *kolan* of *soferim*, **kolan of soferim,** is considered leavened. The Gemara explains: **Here,** in Babylonia, **they interpreted that** this expression is referring to **shoemakers’ glue** that is made from flour.
+
+**17.**
+*Hebrew/Aramaic:* רַב שִׁימִי מָחוֹזְנָאָה אָמַר: זֶה טִיפּוּלָן שֶׁל בְּנוֹת עֲשִׁירִים, שֶׁמְּשַׁיְּירוֹת אוֹתוֹ לִבְנוֹת עֲנִיִּים.
+*Translation:* **Rav Shimi from Ḥozna’a said: This is the** depilatory **paste of the daughters of the wealthy, of which they would leave a remnant for the daughters of the poor.** It was the common practice for women to remove hair from different parts of their bodies by applying various pastes, some of which contained flour. The *kolan* of *soferim* mentioned in the mishna was such a substance. It was given this name because wealthy young women would give the paste [*kolan*] to poor young women whose fathers were schoolteachers [*soferim*], so that the poor women could utilize it as well.
+
+**18.**
+*Hebrew/Aramaic:* אִינִי? וְהָא תָּנֵא רַבִּי חִיָּיא: אַרְבָּעָה מִינֵי מְדִינָה, וּשְׁלֹשָׁה מִינֵי אוּמָּנוּת. וְאִי אָמְרַתְּ טִיפּוּלָן שֶׁל בְּנוֹת עֲשִׁירִים, מַאי מִינֵי אוּמָּנוּת אִיכָּא?
+*Translation:* The Gemara asks: **Is that so? But didn’t Rabbi Ḥiyya teach** a mnemonic by noting that the mishna lists **four items** that are used by the ordinary people **of the state,** i.e., *kutaḥ*, beer, vinegar, and *zitom*, **and three items of artisans,** i.e., dyers’ broth, kolan of soferim, and bakers’ well-worked dough? **And if you say** that kolan of soferim is **the** depilatory **paste of the daughters of the wealthy,** then **what artisanship is there in that?** According to this interpretation, that substance does not belong on the list of artisans’ items.
+
+**19.**
+*Hebrew/Aramaic:* וְאֶלָּא מַאי, פֵּרוּרָא דְאוּשְׁכָּפֵי? אַמַּאי קָרֵי לֵיהּ הַאי קוֹלָן שֶׁל סוֹפְרִים? קוֹלָן שֶׁל רַצְעָנִין מִיבַּעְיָא לֵיהּ! אָמַר רַב אוֹשַׁעְיָא: לְעוֹלָם פֵּרוּרָא דְאוּשְׁכָּפֵי, וּמַאי קָרֵי לֵיהּ קוֹלָן שֶׁל סוֹפְרִים? דְּסוֹפְרִים נָמֵי מְדַבְּקִין בְּהוּ נְיָירוֹתֵיהֶן.
+*Translation:* The Gemara answers with another question: **Rather what,** will you say that this is referring to **shoemakers’ glue?** If so, **why did** the authors of the mishna **call it bookmakers’ glue [*kolan shel soferim*]? It should** have been called **shoemakers’ glue [*kolan shel ratzanin*]. Rav Oshaya said: Actually,** one should explain that *kolan* is referring to **shoemakers’ glue; and why is it called bookmakers’ glue?** The reason is that **bookmakers also use it to attach their pages.** During the time of the mishna, this paste was referred to as bookmakers’ glue.
+
+**20.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר אוֹמֵר אַף תַּכְשִׁיטֵי נָשִׁים וְכוּ׳. תַּכְשִׁיטֵי נָשִׁים סָלְקָא דַּעְתָּךְ? אֶלָּא אֵימָא: אַף טִיפּוּלֵי נָשִׁים. דְּאָמַר רַב יְהוּדָה אָמַר רַב: בְּנוֹת יִשְׂרָאֵל
+*Translation:* It is stated in the mishna: **Rabbi Eliezer says** that **women’s adornments are also** prohibited as leavened food. The Gemara asks: **Could it enter your mind** to say **that adornments** made from silver, gold, or woven materials contain leaven? **Rather, say** instead that this means: **Even women’s cosmetics** or other items used by women to enhance their skin are prohibited if they contain leavened ingredients. **As Rav Yehuda said that Rav said: With regard to the Jewish women**

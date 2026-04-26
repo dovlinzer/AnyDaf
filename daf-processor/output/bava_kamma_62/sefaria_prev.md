@@ -1,0 +1,57 @@
+### Bava Kamma 61b
+
+**1.**
+*Hebrew/Aramaic:* בָּאגָנֵי דְאַרְעָא מִקְּרוּ.
+*Translation:* **are** simply **called pools of the land,** and are not considered significant enough to divide the field.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמַּדְלִיק בְּתוֹךְ שֶׁלּוֹ, עַד כַּמָּה תַּעֲבוֹר הַדְּלֵיקָה? רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר: רוֹאִין אוֹתוֹ כְּאִילּוּ הוּא בְּאֶמְצַע בֵּית כּוֹר. רַבִּי אֱלִיעֶזֶר אוֹמֵר: שֵׁשׁ עֶשְׂרֵה אַמּוֹת, כְּדֶרֶךְ רְשׁוּת הָרַבִּים. רַבִּי עֲקִיבָא אוֹמֵר: חֲמִשִּׁים אַמָּה. רַבִּי שִׁמְעוֹן אוֹמֵר: ״שַׁלֵּם יְשַׁלֵּם הַמַּבְעִר אֶת הַבְּעֵרָה״ – הַכֹּל לְפִי הַדְּלֵיקָה.
+*Translation:* MISHNA: In a case of **one who kindles** a fire **on his own** premises, **up to what** distance **may the fire travel** within his property for him to still bear liability for damage caused? **Rabbi Elazar ben Azaria says:** The court **views his** location where he kindled the fire **as if it were in the center of a *beit kor*.** Therefore, if the fire spreads and causes damage farther away than half a *beit kor*, the one who kindled the fire is exempt, since he could not anticipate that the fire would spread so far. **Rabbi Eliezer says:** One is liable up to a distance of **sixteen cubits, like** the width of **a public thoroughfare. Rabbi Akiva says:** One is liable up to a distance of **fifty cubits. Rabbi Shimon says:** The verse states: **“The one who kindled the fire shall pay [*shallem yeshallem*] compensation”** (Exodus 22:5), to teach that **everything is according to the fire.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ וְלֵית לֵיהּ לְרַבִּי שִׁמְעוֹן שִׁיעוּרָא בִּדְלֵיקָה?
+*Translation:* GEMARA: Rabbi Shimon appears to hold that there is no maximum distance which would exempt one from liability for the spreading of a fire. The Gemara asks: **But isn’t Rabbi Shimon** of the opinion that there is a maximum **limit** concerning liability **for a fire,** beyond which one is exempt?
+
+**4.**
+*Hebrew/Aramaic:* וְהָתְנַן: לֹא יַעֲמִיד אָדָם תַּנּוּר בְּתוֹךְ הַבַּיִת, אֶלָּא אִם כֵּן יֵשׁ עַל גַּבּוֹ גּוֹבַהּ דְּאַרְבַּע אַמּוֹת. הָיָה מַעֲמִידוֹ בַּעֲלִיָּיה – עַד שֶׁיְּהֵא תַּחְתָּיו מַעֲזִיבָה שְׁלֹשָׁה טְפָחִים. וּבַכִּירָה – טֶפַח. וְאִם הִזִּיק – מְשַׁלֵּם מַה שֶּׁהִזִּיק.
+*Translation:* **But didn’t we learn** in a mishna (*Bava Batra* 20b): **A person may not stand an oven inside the house unless there is a height of four cubits** to the ceiling **above it,** out of concern that the ceiling might catch fire. Similarly, if **he stood it in the attic,** he should not do so **unless there is plaster [*ma’aziva*] underneath it,** above the ceiling of the floor below, **three handbreadths** in thickness, out of concern that the floor might catch fire. **And in the** case of **a stove,** which is smaller and does not reach temperatures as high as those of an oven, a thickness of one **handbreadth** is sufficient. **And** even though he may place his oven or stove in this manner, **if** the fire from the oven or stove **causes damage, he must pay** for **what it damaged.**
+
+**5.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא נֶאֶמְרוּ שִׁיעוּרִין הַלָּלוּ, אֶלָּא שֶׁאִם הִזִּיק – פָּטוּר מִלְּשַׁלֵּם!
+*Translation:* The mishna continues: **Rabbi Shimon says: These measurements were stated only** to teach **that if** the fire from the oven or stove **causes damage** after the owner takes these precautions, he is **exempt from paying** compensation. Evidently, Rabbi Shimon does have a maximum distance beyond which one is not liable for fire.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: הַכֹּל לְפִי גּוֹבַהּ הַדְּלֵיקָה.
+*Translation:* **Rav Naḥman says** that **Rabba bar Avuh says:** This is how Rabbi Shimon’s statement in the mishna should be understood: **Everything is according to the height of the fire** he initially kindled. If it was a small fire he is not liable to pay for damage caused by it if it traveled far, whereas if he started a large fire, he is liable even if it traveled a great distance.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי שִׁמְעוֹן. וְכֵן אָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי שִׁמְעוֹן.
+*Translation:* **Rav Yosef says** that **Rav Yehuda says** that **Shmuel says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon. And so Rav Naḥman says** that **Shmuel says:** The ***halakha*** is **in accordance with** the opinion of **Rabbi Shimon.**
+
+**8.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַמַּדְלִיק אֶת הַגָּדִישׁ, וְהָיוּ בּוֹ כֵּלִים וְדָלְקוּ, רַבִּי יְהוּדָה אוֹמֵר: מְשַׁלֵּם מַה שֶּׁבְּתוֹכוֹ, וַחֲכָמִים אוֹמְרִים: אֵינוֹ מְשַׁלֵּם אֶלָּא גָּדִישׁ שֶׁל חִטִּין אוֹ שֶׁל שְׂעוֹרִין.
+*Translation:* MISHNA: With regard to **one who kindles a stack** of wheat or barley **and there were vessels** concealed **inside** the stack **and they** caught fire and **burned** together with the stack, **Rabbi Yehuda says:** The one who kindled the fire also **pays** compensation **for what was inside** the stack, **but the Rabbis say: He pays** compensation **only** for **the stack of wheat or barley,** as the case may be, and he is not responsible for that which was concealed within it.
+
+**9.**
+*Hebrew/Aramaic:* הָיָה גְּדִי כָּפוּת לוֹ, וְעֶבֶד סָמוּךְ לוֹ וְנִשְׂרַף עִמּוֹ – חַיָּיב. עֶבֶד כָּפוּת לוֹ, וּגְדִי סָמוּךְ לוֹ וְנִשְׂרַף עִמּוֹ – פָּטוּר.
+*Translation:* If **there was a goat tied to** the stack of grain, **and** there was a Canaanite **slave nearby** who was not tied to it, **and** both the goat and the slave **were burned** together **with** the stack and killed, the one who kindled the fire is **liable** to pay compensation for both. Conversely, if the **slave was tied** to the stack **and** there was **a goat nearby** that was not tied to it, **and** they were both **burned together with it,** the one who kindled the fire is **exempt** from payment for damage because he is liable to receive capital punishment for murder, and he is punished only for the greater transgression.
+
+**10.**
+*Hebrew/Aramaic:* וּמוֹדִים חֲכָמִים לְרַבִּי יְהוּדָה בְּמַדְלִיק אֶת הַבִּירָה, שֶׁהוּא מְשַׁלֵּם כׇּל מַה שֶּׁבְּתוֹכָהּ; שֶׁכֵּן דֶּרֶךְ בְּנֵי אָדָם לְהַנִּיחַ בַּבָּתִּים.
+*Translation:* **And the Rabbis,** who disagree with Rabbi Yehuda and exempt one from payment for vessels concealed inside the stack in the field, **concede to Rabbi Yehuda** that if one **sets fire to a building,** he **pays** compensation **for everything that was** burned **inside it, since it is the** normal **way of people to place** items **in houses.**
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב כָּהֲנָא: מַחֲלוֹקֶת בְּמַדְלִיק בְּתוֹךְ שֶׁלּוֹ וְהָלְכָה וְאָכְלָה בְּתוֹךְ שֶׁל חֲבֵירוֹ – דְּרַבִּי יְהוּדָה מְחַיַּיב אַנִּזְקֵי טָמוּן בָּאֵשׁ, וְרַבָּנַן פָּטְרִי; אֲבָל בְּמַדְלִיק בְּתוֹךְ שֶׁל חֲבֵירוֹ – דִּבְרֵי הַכֹּל מְשַׁלֵּם כׇּל מַה שֶּׁבְּתוֹכוֹ.
+*Translation:* GEMARA: **Rav Kahana says:** This **dispute** between the Rabbis and Rabbi Yehuda concerning vessels concealed in a stack is referring specifically to a case **where one kindled** a fire **on his own** premises **and** the fire **spread and consumed** the stack **on another’s** property. In that case, **Rabbi Yehuda deems** the one who kindled the fire **liable for damage** to **concealed** articles damaged by **a fire, but the Rabbis exempt** him. **But in** a case of one who **kindles** a fire **on another’s** premises, **all agree** that **he pays** compensation for **everything that is** contained **within it.**
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבָא: אִי הָכִי, אַדְּתָנֵי סֵיפָא: מוֹדִים חֲכָמִים לְרַבִּי יְהוּדָה בְּמַדְלִיק אֶת הַבִּירָה – שֶׁמְּשַׁלֵּם כׇּל מַה שֶּׁבְּתוֹכָהּ, שֶׁכֵּן דֶּרֶךְ בְּנֵי אָדָם לְהַנִּיחַ בַּבָּתִּים; לִפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים – בְּמַדְלִיק בְּתוֹךְ שֶׁלּוֹ, וְהָלְכָה וְאָכְלָה בְּתוֹךְ שֶׁל חֲבֵירוֹ; אֲבָל מַדְלִיק בְּתוֹךְ שֶׁל חֲבֵירוֹ – דִּבְרֵי הַכֹּל מְשַׁלֵּם כׇּל מַה שֶּׁהָיָה בְּתוֹכוֹ!
+*Translation:* **Rava said to him: If so,** that the Rabbis concede to Rabbi Yehuda in the case of one who kindles the fire on the premises of another, then **rather than teaching the latter clause** that states: **The Rabbis concede to Rabbi Yehuda** that if one **sets fire to a building he pays** compensation **for everything** that was burned **inside it, since it is the** normal **way of people to place** items **in houses, let** the *tanna* instead **distinguish and teach** the concession of the Rabbis **in** the context of **the same** case of one setting fire to a stack: **In what** case **is this statement said?** It is said in a case **where he kindled the fire on his own** premises **and it spread and consumed** a stack **on** the premises of **another. But if he kindled** the fire **on** property belonging to **another, all agree that he pays** compensation **for everything that was** contained **within it.** Since the mishna is not worded in this manner, it seems that this is not the opinion of the Rabbis.
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: בְּתַרְתֵּי פְּלִיגִי; פְּלִיגִי בְּמַדְלִיק בְּתוֹךְ שֶׁלּוֹ וְהָלְכָה וְאָכְלָה בְּתוֹךְ שֶׁל חֲבֵירוֹ – דְּרַבִּי יְהוּדָה מְחַיַּיב אַטָּמוּן בָּאֵשׁ, וְרַבָּנַן סָבְרִי לָא מִחַיַּיב. וּפְלִיגִי נָמֵי בְּמַדְלִיק בְּשֶׁל חֲבֵירוֹ – דְּרַבִּי יְהוּדָה סָבַר: מְשַׁלֵּם כׇּל מַה שֶּׁבְּתוֹכוֹ, וַאֲפִילּוּ אַרְנְקִי, וְרַבָּנַן סָבְרִי: כֵּלִים שֶׁדַּרְכָּן לְהַטְמִין בְּגָדִישׁ, כְּגוֹן מוֹרִיגִּין וּכְלֵי בָּקָר – הוּא דִּמְשַׁלֵּם; כֵּלִים שֶׁאֵין דַּרְכָּן לְהַטְמִין בְּגָדִישׁ – לָא מְשַׁלֵּם.
+*Translation:* **Rather, Rava said** that the Rabbis and Rabbi Yehuda **disagree with regard to two** issues: **They disagree** with regard to the case of one who **kindles a fire on his own** premises **and** it then **spreads and consumes** a stack **on** property belonging to **another, as Rabbi Yehuda deems** him **liable** even **for a concealed** article damaged by **a fire, but the Rabbis hold** that he is **not liable. And they disagree also** in the case of one **who kindles a fire on** premises belonging to **another, as Rabbi Yehuda holds** that he must **pay** compensation **for everything within it, even a purse** of money if it was concealed within the stack, **but the Rabbis hold** that it is only for **vessels that are typically concealed inside a stack, such as threshing tools or yokes for cattle, that he must pay** compensation, but for **vessels** or other items **that are not typically concealed inside a stack** he is **not** liable to **pay** compensation.
+
+**14.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: הַמַּדְלִיק אֶת הַגָּדִישׁ, וְהָיוּ בּוֹ כֵּלִים וְדָלְקוּ, רַבִּי יְהוּדָה אוֹמֵר: מְשַׁלֵּם כׇּל מַה שֶּׁהָיָה בְּתוֹכוֹ, וַחֲכָמִים אוֹמְרִים: אֵינוֹ מְשַׁלֵּם אֶלָּא גָּדִישׁ שֶׁל חִטִּין אוֹ גָדִישׁ שֶׁל שְׂעוֹרִין. וְרוֹאִין מְקוֹם כֵּלִים כְּאִילּוּ הוּא מָלֵא תְּבוּאָה.
+*Translation:* **The Sages taught:** With regard to one **who kindles a stack and there were vessels inside it** that were **burned, Rabbi Yehuda says:** The one who kindled the fire **pays** compensation **for everything that was inside it, but the Rabbis say: He pays** compensation only for the value of **a stack of wheat or a stack of barley,** and he does not pay compensation for the vessels. **And** the court **views the place** where **the vessels** were **as if it were filled with grain,** and calculates the amount of compensation accordingly.
