@@ -2,268 +2,150 @@
 
 ## Kan Stuma Intro
 
-### Review Chova
+### Chova Structure
 
-The second *perek* of Kinnim opens by building upon the foundational principles established in the first *perek*. There, the central unit was called a *chova* — an obligatory nest — wherein one bird is designated as a *chatas* and one as an *olah*. When multiple obligations are bundled together into a larger group, half the birds function as *chataot* and half as *olot*. The first *perek* explored the scenario of two such groups becoming intermingled, demonstrating that once mixed, only half of the combined total can be brought — because bringing more risks creating an improper proportion of *chataot* or *olot* from a single owner's original group. It also addressed the case where a defined *olah* flies into a group: in that situation, only the *olot* may be brought, and only up to the number the group began with.
+The second *perek* of Kinnim opens with the concept of a *kan stuma* — an undifferentiated nest — which corresponds to what the first *perek* called a *chova*, an obligatory nest. In such a nest, one bird is a *chatas* and the other is an *olah*. When a woman has multiple obligations bundled together, half the birds function as *chataot* and half as *olot*, though their individual identities remain undetermined until the moment of offering. The previous *perek* addressed scenarios in which two such groups become mixed, establishing that one may bring only up to half from a combined pool, since bringing more risks exceeding the correct proportion of *chataot* or *olot* from any one original group. It also treated the case of a designated *olah* that flew into an undifferentiated group, which restricts subsequent offerings to only the *olot* and only in the number with which that group began.
 
-### Bird Flies/Dies
+### One Bird Flies
 
-The second *perek* introduces the *kan stuma* — an undifferentiated nest — and begins with a straightforward scenario. One has an undifferentiated pair in which one bird will ultimately serve as a *chatas* and the other as an *olah*, but they have not yet been designated. What happens if one of them flies away into the open air, or flies among birds that are designated to die, or simply dies? In any of these cases, that bird is effectively lost, and the identity of the remaining bird cannot be determined.
+The first *mishna* of this *perek* presents a straightforward case: *kan stuma sheparach mimena gozal la-avir o sheparach levein hametot o shemet echad mehen* — a bird from an undifferentiated pair flew away into the open air, flew among birds that must die (for reasons discussed in the previous *perek*), or died outright. In any of these situations the remaining bird cannot be paired with its lost companion, since it is impossible to know which role each bird was destined to fulfill.
 
-### Pair It Up
+### Pairing Solution
 
-The resolution is simple: *yikach zug lesheni* — one simply acquires a new bird to pair with the remaining one. Some among the *meforshim* might have supposed that since the pair was undifferentiated, the fates of the two birds were somehow intertwined, and the loss of one might complicate the status of the remaining bird. The *mishna* dispels this concern. One purchases a replacement, and the new pair returns to its prior undifferentiated state, fully intact for eventual offering.
+The resolution is simple: *yikach zug lesheni* — one acquires a replacement to pair with the survivor. The comparison to the two goats of *Yom Kippur* is apt: if one of the pair is lost, one simply replaces it. One might have thought that if the pair had already been notionally differentiated — this one a *chatas*, that one an *olah* — the fate of one would determine a fixed obligation for the other. But even if they had not yet been differentiated, the *mishna* teaches that the intertwining of their fates does not prevent replacement. One simply purchases a new bird and reconstitutes the undifferentiated pair as it was before. This is the easy case.
 
----
+## Two Groups Mixing
 
-## Parach Bein Korbanos
+### 4+4 Mixing
 
-### 3-5 Scenario
+The *mishna* now introduces the principle that will drive the more complex discussion to follow: *parach levein hachrevot* — a bird flew into another group that was itself destined to be offered. Consider two groups, each containing four birds — that is, two *kanim*, two pairs — each group undifferentiated, with two *chataot* and two *olot* among them. One bird departs from one group and enters the other. We now have three in the first group and five in the second. The rule stated is: *shehagozel haporeach pasul uposel echad kenegdo* — a bird that flies is itself invalid and invalidates one opposite it.
 
-The *mishna* now turns to the more complex case: *parach levein hakorbanos* — a bird flies from one group into another group that is similarly designated for offering. Consider two groups, each containing four birds — that is, two pairs (*kanim*) — belonging to two different owners. Each group is undifferentiated: within each, two will ultimately be *chataot* and two *olot*, but none have been individually assigned. A bird from the first group flies into the second. Now one group has three birds and the other has five.
+### Fixing Identity Problem
 
-### Cannot Bring All
+Why can one not simply bring all three remaining birds from the smaller group? Suppose one were to bring two *chataot* and one *olah* from those three. By doing so, the bird that flew away would by definition be fixed as an *olah* — since the remaining birds in its original group were used as two *chataot* and one *olah*, the only identity left for it is *olah*. Now that bird, with a fixed identity as an *olah*, has entered the second group. The rule established in the previous *perek* is that when a designated *olah* flies into an undifferentiated group, one may bring only the *olot* from that group and only in the number with which the group began. Fixing the flying bird's identity would thus severely restrict what the owner of the second group could bring.
 
-One might ask: why not simply bring all three remaining birds from the first group? The answer lies in the risk of fixing identities in a way that unfairly restricts the second owner. If one brings from the first group, say, two *chataot* and one *olah*, then by definition the bird that flew away — now residing somewhere in the second group — is treated as an *olah*. But that bird is now mixed among the second owner's five birds, and once its identity is fixed as an *olah*, the rule established in the previous *perek* applies: when a defined *olah* flies into a group, only the *olot* may be brought from that group, and only in the number the group originally had. This would dramatically restrict what the second owner can bring. One may not act in a way that imposes such a constraint on another's *korbanos* — especially since no one knows which bird among the five is the one that flew in.
+The critical point is that the bird's identity must remain undetermined, because the identity of an undifferentiated bird should only become fixed when it is clear what it is — and it is not clear. By bringing only two birds from the first group — one *chatas* and one *olah* — the remaining bird retains a flexible, unfixed identity. The identity of the bird that flew away thus also remains open, and the second group's owner is not unduly burdened.
 
-### Bring 2 & 4
+### Pesul Principle
 
-The correct approach, therefore, is to bring only two birds from the first group — one *chatas* and one *olah* — leaving one bird unbrought. By leaving one bird over, the identity of the bird that flew away remains in flux: it has not been fixed as either *chatas* or *olah*, because the group from which it came has not been fully defined. Meanwhile, the second owner brings four of his five birds — two *chataot* and two *olot* — and leaves one unbrought. The rationale for the second owner's restriction is similar: if all five were brought, one might end up selecting three birds of one type from what was originally a group of four, which exceeds the permissible proportion. The one remaining bird in each case serves to preserve the flexibility of the bird whose identity is uncertain.
+What then may the owner of the second group bring from his five? He cannot bring all five — say, three *olot* and two *chataot*. If he were to designate three as *olot*, he might be taking all three *olot* from his original four, which would exceed the permissible proportion from his own group. Because he cannot distinguish which bird among the five belongs to the first group, bringing more than two of either type risks selecting improperly from his original pool. He therefore brings two of each type, leaving one bird unbrought.
 
-The principle can be stated cleanly: the *pasul* bird — the one that flew — is itself invalid for bringing (*pasul*), and it *posel echad kenegdo* — it invalidates one bird opposite it, one in the group it departed from, and one in the group it entered. The net result is: bring two from the group of three, and bring four from the group of five.
+This is the *halacha* of *pasul*: the flying bird is invalid and *posel echad kenegdo* — it invalidates one corresponding bird in the group it left and one in the group it entered. The first group had three but may bring only two; the second group had five but may bring only four. The two unbrought birds remain in a state of unresolved identity and are left to die. The underlying principle is that as long as some birds from each original group remain unbrought, those that were brought retain a flexible identity, and no improper fixation occurs.
 
-### Pasul Principle
+## Bidirectional Flying
 
-This is the governing principle for all that follows: *pasul uposel echad kenegdo* — the flying bird is itself invalid and invalidates one in each group affected by its movement. Every time a bird crosses from one group to another, one bird in the group it left cannot be brought, and one bird in the group it entered cannot be brought. This rule, applied consistently, is what drives the calculations of all subsequent *mishnayot*.
+### First Flight
 
----
+The next *mishna* makes the scenario more complex: *shtei nashim lezo shtei kanim ulezo shtei kanim* — two women, each with two pairs, four birds apiece. *Parach mizo lezo* — a bird flew from one group to the other. *Posel echad bahalichatah* — it invalidates one in its going. This is precisely the scenario just described: one bird departs, and one bird from the group it left and one bird from the group it entered are invalidated.
 
-## Chazar Veparach
+### Return Flight
 
-### Two Women Setup
+Now a bird flies back: *vechazar, posel echad bachaziratah* — it invalidates another one upon its return. The analysis requires careful attention. After the first flight the groups stand at three and five. When a bird flies back from the five to the three, we are again at four and four — but it is not necessarily the same bird that originally left. In the best case, the exchange is seamless and all eight birds are fully usable. In the worst case, one bird flew from group A to group B, and a different bird flew from group B back to group A, creating an effective exchange: each group now contains three of its original birds and one interloper.
 
-The second *mishna* demonstrates this principle in a more dynamic scenario. Two women each possess two pairs of birds — four birds per group. The two groups are kept distinct, as each set of birds belongs to a different owner and maintains its own identity.
+### Worst Case ABAB
 
-### First Flight In
+In this worst-case scenario, consider what happens when offerings are made. One brings from the first group a *chatat* and an *olah*, and from the second group a *chatat* and an *olah*. Suppose, in the worst arrangement, the two *chataot* brought happen to be from the same original group and the two *olot* from the same original group. Once those birds have been brought with their identities fixed in that manner, one cannot bring another bird of the same original group as a *chatat* — because it may already be that all the birds of that group which are *chataot* have been brought, and any additional bird could only be an *olah*. Since one does not know how the offering was designated, one cannot safely bring more.
 
-A bird flies from one woman's group into the other's. As established, this flight invalidates one bird in each of the two groups: one from the group that lost a bird (now down to three, of which only two may be brought), and one from the group that received it (now at five, of which only four may be brought).
+The key principle is that the groups cannot be collapsed into one large undifferentiated pool of eight. Each group's identity is determined by its original members. Even after mixing, one must continue to treat these as two groups of four and remain sensitive to the possibility that birds from the original group may have been disproportionately used. Because the worst-case scenario yields an arrangement in which all remaining birds may have fixed identities — the A birds all used as one type, the B birds as the other — one cannot bring any further birds beyond the four already brought. The *halacha* is therefore two from each group, for a total of four.
 
-### Bird Returns
+### Multiple Flyings
 
-Now, rather than the same bird returning — which would restore the original arrangement — a bird flies back in the other direction. One does not know whether it is the original bird returning or a different one. The *mishna* states: *posel echad bachaziratah* — the return flight invalidates yet another bird.
+*Parach vechazar parach vechazar* — what if birds continue to fly back and forth many times? The answer is *lo hisid klum* — one loses nothing additional beyond what was already lost. The principle is *she'afilu hen me'uravot ein pachot mishnayim* — even if they are completely mixed, there will never be fewer than two pairs that can be brought. The rule established in the previous *perek* is that when two same-sized undifferentiated groups are fully intermixed, one can bring at minimum half of the total. Since these two groups each contain four birds, and half of the combined eight is four, one is already at the minimum by bringing two from each group. No further flying back and forth can reduce that minimum further. Were the groups of different sizes — say, ten each — then additional flights would continue to reduce the number that could be brought, until reaching the absolute minimum dictated by the size of the smallest group.
 
-### ABAB Exchange
+## Seven Women
 
-To understand why, consider the worst-case scenario. Suppose we label the first woman's birds as A's and the second woman's birds as B's. After one bird crosses in each direction, we are left with three A's and one B in the first group, and three B's and one A in the second group — or in the very worst configuration, the exchanged birds are of the same type, creating an ABAB pattern within each group. One might be lucky: if the same bird simply returned, all is as it was. But one cannot assume that. One must plan for the scenario in which a genuine exchange occurred, so that within each group there now reside birds of two different original identities.
+### Setup 1-7
 
-### Cannot Bring 3rd
+*Mishna* 3 presents a far more elaborate case: *lezu achat ulezu shtayim ulezu shalosh ulezu arba ulezu chamesh ulezu shesh ulezu sheva* — seven women, each holding a successive number of pairs: one pair, two pairs, three pairs, four pairs, five pairs, six pairs, and seven pairs respectively. The unit here, as in the previous *mishna*, is pairs, not individual birds. A bird then flies from the first woman's group to the second, from the second to the third, continuing through to the seventh, and then flies back — forming a complete circuit.
 
-This worst-case exchange has significant consequences. Suppose one attempts to bring two pairs from the first group. In doing so, one might — without knowing it — have brought two A's as *chataot* and two A's as... but wait: if both A's designated as *chataot* have been brought, the remaining A's are effectively fixed as *olot*. Similarly for the B that is mixed in. At the point where one has brought two of the A-type in one designation, bringing a third from that group risks assigning a bird whose identity is now fixed. Since one cannot know which birds were brought in which capacity, one cannot safely bring a third bird from either original group.
+### In-Out Rule
 
-### Only 2 from Each
+The *mishna* states: *parach mechazar posel echad bahalichato ve'echad bachazirato* — it invalidates one in its going and one in its returning. Applying the rule established in the previous *mishna* — that every time a bird enters a group one pair is lost, and every time a bird leaves a group one pair is lost — yields the following result. Groups one and two lose two pairs each and can bring nothing: *harishona vehashniya ein lahem klum*. Group three loses two pairs and can bring one: *shlishit yesh la achat*. Group four can bring two, group five can bring three, group six can bring four. Group seven, being an endpoint of the circuit, had a bird enter and a bird leave — the same as the others — but loses only one pair, not two, because it is the terminal point of the loop. It can therefore bring six: *hashvi'it yesh la shesh*.
 
-The upshot is that after one flight in each direction — a round trip of sorts — each group of four can yield only two birds for offering. The two flights together have cost each group two birds: one invalidated by the incoming flight, one by the outgoing flight. Each group started with four and is now reduced to a usable two.
+### Logic Check
 
-### Repeated Flights
+The mathematical rule of the previous *mishna* — every entry or exit costs one pair — generates these results cleanly. But the *meforshim* question whether the underlying logic always supports the rule in this more complex case.
 
-The *mishna* then raises the question of what happens if birds continue to fly back and forth repeatedly. *Parach vechazar parach vechazar* — flight and return, flight and return, multiple times. The answer is: *lo hipsid klum* — no further loss is incurred. The reason is rooted in a principle established in the previous *perek*: when two undifferentiated groups of equal size become completely intermingled, one may bring half of the combined total — that is, an amount equal to the size of one of the original groups. In the current case, each group has four birds, and we are already bringing only two from each — precisely half. This is already the minimum that would result from a complete intermingling. No matter how many times the birds cross back and forth, the situation cannot deteriorate further than a full mixture, and the rule for a full mixture has already been reached. Of course, if the groups were larger — say, ten birds each — then each successive round trip would reduce the usable count further, until reaching the minimum determined by the smallest group size.
+The logic behind the rule is this: when a bird leaves a group, one must leave behind a bird from that group without bringing it, so that the departed bird's identity remains unfixed. If one were to bring the remaining bird, that would define the departed bird's identity by exclusion, and then its entry into another group would unduly restrict offerings there. Similarly, when a bird enters a group from outside, one cannot bring one additional bird from that group, lest one inadvertently fix the identity of the foreign bird. Hence: one pair lost on departure, one pair lost on entry.
 
----
+The logical difficulty emerges at group three. Group three lost two birds — one flew to group two, one flew to group four. Two birds of group three remain among the larger pool, and bringing one pair should be safe, since the remaining pair of group three birds, left unbrought, keeps those identities open. But consider: group two has already been reduced to zero. If nothing is brought from group two, then the bird of group three that flew into group two is in a pool from which nothing will be brought. This means that bird's identity is not being fixed by any offering in group two. One might therefore argue that group three should be able to bring more than one pair — perhaps all two — without the usual constraint, since the bird that flew out toward group two is effectively stranded in a pool from which nothing is offered. The *meforshim* raise this question. The answer is that the *mishna* operates as a blanket rule — *lo plug* — without making fine distinctions based on the downstream fate of individual birds. The principle is applied consistently: two pairs lost for interior groups, one pair lost for the endpoint.
 
-## Multi-Group Flying
+### Second Round
 
-### 7-Group Setup
+The *mishna* then considers a second round of flying along the same circuit. Of the birds that remained eligible after the first round — zero, zero, one, two, three, four, six pairs respectively — the same flying pattern now repeats. Applying the same rule, subtracting two pairs from interior groups and one from the endpoint: *hachamishit vehashishit ein lahem klum*, groups five and six can now bring nothing; *hashvi'it yesh la arba*, group seven can bring four.
 
-The third *mishna* extends the analysis to seven women with progressively larger groups. The first woman has one pair, the second has two pairs, the third has three pairs, and so on through the seventh woman who has seven pairs. Here, as in the previous *mishna*, the numbers refer to pairs (*kanim*), not individual birds.
+### Seventh Group
 
-### Circular Flight
+At this stage the *mishna* records a dispute: *veyesh omrim hashvi'it lo hipsida klum* — some say group seven has lost nothing, meaning it retains its full remaining allotment without further reduction. The reasoning is that when all the other groups have been reduced to zero, the constraint that justified reducing group seven no longer applies: there is nothing in those other groups from which an improperly fixed identity could cause harm. Everything in those other groups was left unbrought precisely in order to ensure that the identities of flying birds remain open; once those groups yield zero, all the remaining birds are by definition undetermined, and group seven should be free to bring everything it holds. Whether *lo hipsida klum* means group seven reverts to its original seven pairs or simply retains its position without further loss from the most recent round is itself a point of discussion among the *meforshim*, with some reading it as a return to the maximum and others as merely a stay of further reduction.
 
-The scenario described is a circular one: a bird flies from the first group into the second, then from the second into the third, from the third into the fourth, and so on through the seventh group — and then back again, returning through the chain in reverse. This is not necessarily the same bird making each flight; what matters is the pattern of crossings.
+## Seven Women…
 
-### In/Out Rule
+### Metot Mixing
 
-The operative principle, derived from the previous *mishna*, is: every time a bird enters a group, one bird from that group is invalidated; every time a bird exits a group, one bird from that group is invalidated. An entry plus an exit equals a loss of two birds — one pair — from any intermediate group. An endpoint group, by contrast, experiences only one crossing event (either only an entry or only an exit from one direction), and thus loses only one bird — half a pair.
+The *mishna* adds: *ve'im parach min hametot vechulan harei kullan yamutu* — if a bird that was designated to die flew among the other groups, all the birds in the affected group must die. This raises the question of what qualifies as a bird "designated to die" in this context. The *meforshim* understand it to include the birds left over from groups one and two, which were brought down to zero. Those birds were not offered precisely to preserve the undetermined status of the flying birds; they were effectively left to die as a consequence of that strategy. If one of those unbrought, effectively condemned birds now flies into another group, it becomes a *parach min hametot*, a bird from the pool of those designated to die, and all birds in the group it enters must die as well.
 
-### Groups 1-2: Zero
+It should be noted that this characterization is somewhat a *chidush*. Strictly speaking, the birds left at zero in groups one and two were not given a positive legal designation of death — they were simply not chosen for offering as part of an optimization strategy. One could theoretically have chosen to bring those birds and left others unbrought. The status of *metot* is not explicit in the *mishna* and the *meforshim*'s assumption that those birds constitute *min hametot* is an extension of the reasoning rather than an express ruling. Nevertheless, most *meforshim* adopt this understanding.
 
-Applying this rule: the first group has one pair — two birds — and loses two birds (one for the bird that left, one for the bird that returned into it). It is left with nothing to bring. The second group has two pairs — four birds — and similarly loses two pairs: one for the bird entering from group one, one for the bird exiting toward group three, one for the bird returning from group three, and one for the bird that went back toward group one. That accounts for four birds lost, which is two pairs, leaving the second group with nothing to bring either.
+## Stuma to Meforashet
 
-### Groups 3-7 Math
+### Stuma Flies In
 
-Each intermediate group — three through six — experiences both an inbound and outbound flight in each direction of the circuit, resulting in a total loss of two pairs. Group three began with three pairs and loses two, leaving one. Group four began with four pairs and loses two, leaving two. Group five began with five pairs and loses two, leaving three. Group six began with six pairs and loses two, leaving four.
+The *mishna* turns to a different configuration: *kan stuma vekan meforashet* — an undifferentiated pair and a differentiated pair. *Parach min hastuma limeforashet* — a bird from the undifferentiated pair flies into the differentiated pair. The differentiated pair consists of a clearly designated *chatas* and a clearly designated *olah*. Once the undifferentiated bird enters, the three birds in the differentiated group cannot be distinguished from one another, and since a *chatas* and an *olah* are now mixed together without clear identity, none of the three can be offered. The entire group of three must be left.
 
-### Group 7: One Loss
+## Stuma to Meforashet…
 
-Group seven, as the endpoint of the circuit, experiences only a single inbound crossing (the bird arrives from group six) and a single outbound return. It therefore loses only one pair, not two. It began with seven pairs and loses one, leaving six that may be brought.
+### Pairing Remaining
 
-### Logic Problem
+The single bird remaining from the undifferentiated pair is treated just as in the opening *mishna*: *yikach zug lasheni* — one acquires a replacement to pair with it. One cannot take a companion for it from the contaminated group of three, since any bird drawn from there could be the wrong type. If the bird subsequently returns from the differentiated group — or if a bird from that mixed group, where all are now destined to die, flies back — it constitutes a *parach min hametot* entering the surviving good bird's space, and *harei kullan yamutu* — they all must die.
 
-At this point it is worth pausing to examine whether the mathematical rule always tracks the underlying logic — and, as the *meforshim* note, the answer is that it does not always do so transparently. The *mishna* operates as a consistent rule: each in/out costs one pair. But when one traces through the actual logic, complications arise. The rule is nonetheless applied uniformly, and the *mishna*'s approach is essentially *lo plug* — a blanket application of the principle without case-by-case adjustment.
+## Chatat-Stuma-Olah
 
-### Group 1 Logic
+### Setup Trio
 
-Consider group one. It began with two birds, one flew away somewhere into the chain of other groups, and one remained. One cannot bring the remaining bird, because doing so would fix its identity — and since group one's bird is now mixed somewhere among all the other groups, fixing its identity would ripple through and improperly constrain all those other groups. Nor can one bring the bird that eventually returns to group one: one does not know if it is the original bird or a different one, and bringing it risks fixing the identity of whichever one it actually is. So group one ends with zero.
+The *mishna* now introduces a three-group configuration: *chatat mikan ve'olah mikan ustumah be'emtza* — a defined *chatas* group on one side, a defined *olah* group on the other, and an undifferentiated pair in the middle.
 
-### Group 2 Logic
+### No Loss First
 
-Group two begins with four birds and loses two departing birds — one going toward group one, one going toward group three. Two birds remain in group two. One clearly cannot bring both of the remaining two as a valid pair, because doing so would fix both of their identities simultaneously, in turn fixing the identities of the two that departed. Whether one of the two could theoretically be brought is left as an open question, but certainly a full pair cannot be brought. The *mishna*'s result — zero for group two — follows from the consistent application of the rule of two losses.
-
-### Group 3 Logic
-
-Group three begins with six birds — three pairs — and loses two birds: one to each neighboring group. Four birds remain. Of those, one full pair can be brought. The reason one cannot bring a second pair is that doing so risks engaging with the birds that flew in from adjacent groups, which might result in fixing their identities in ways that harm the other groups. One pair is brought, confirming the formula of three minus two equals one.
-
-Here a sharp logical observation presents itself: since group two will bring nothing, the bird from group two that flew into group three will never be brought in any capacity. That should, in principle, give group three more flexibility — if group two's bird will never be brought, there is no risk of fixing its identity, and one might think group three could bring more. The *meforshim* raise exactly this point. The response is that the *mishna* applies its rule uniformly regardless, functioning as a *lo plug* rather than recalibrating the formula for each group based on its neighbors' outcomes.
-
-### Groups 4-6 Loss
-
-Groups four through six follow the same pattern. Each lies in the interior of the circuit, receiving a bird from one neighbor and sending a bird to another in each pass. The net loss for each is two pairs — accounting for both inbound and outbound crossings — and each is therefore reduced by two from its starting number of pairs.
-
----
-
-## Stumah Vemeforashet
-
-### Mixed Setup
-
-The fourth *mishna* introduces a new configuration: a *kan stuma* — an undifferentiated pair — alongside a *kan meforashet* — a differentiated pair, in which one bird has already been explicitly designated as a *chatas* and the other as an *olah*.
-
----
-
-## Multi-Group Flying…
-
-### Second Iteration
-
-The *mishna* then describes what happens when the circular flight pattern among the seven groups occurs a second time. The same rule applies to whatever remains from the first iteration: the still-usable groups experience another round of in/out crossings, and each loses another two pairs as a result. Groups three and four, which had one and two pairs remaining respectively, are each reduced to zero. Groups five and six, left with three and four pairs, are reduced to one and two. Group seven, again as the endpoint, would by the rule lose only one additional pair.
-
-### Group 7 Debate
-
-There is, however, a debate about group seven at this stage. Once groups one through six have been exhausted down to zero, some ask whether group seven need lose anything further at all. The reasoning is that all the birds from the depleted groups were not brought precisely in order to preserve the indeterminate status of whatever is mixed among the remaining birds. If those groups have no birds being brought, there is nothing left whose identity needs to be protected. Some read *lo hipsida klum* — it lost nothing — as meaning group seven can bring its full remaining count without deduction. Others understand the phrase more narrowly: at minimum, group seven need not drop below its current number even if the rule would otherwise call for another subtraction. The debate hinges on whether one applies the logical rationale case by case or maintains the blanket rule regardless.
-
----
-
-## Multi-Group Flying……
-
-### Dead Birds Mix
-
-An important caveat follows. If a bird from the category of *metot* — birds designated to die — mixes in among any of the remaining groups, then *kullan yamutu* — all of them must die. The basis for this ruling is that the groups brought to zero were left unbrought precisely to preserve the open status of the birds scattered among the other groups. Those unbrought birds are effectively treated as *metot*. If one of them flies into a group that still has usable birds, the mixture is irresolvable and the entire group is forfeit. It is worth noting, as the *meforshim* acknowledge, that calling these birds *metot* in a strict halakhic sense is not entirely explicit in the *mishna*: de facto leaving them unbrought is not identical to formally designating them as birds that must die. One could argue that if they later fly into another group, the ordinary rules for intermingled groups should apply. Nevertheless, the prevalent understanding among the *meforshim* is that these birds carry the status of *metot*, and the *mishna* proceeds accordingly.
-
----
-
-## Stumah Vemeforashet…
-
-### Into Diff Group
-
-Returning to the fourth *mishna*: if a bird from the undifferentiated pair flies into the differentiated group — the one with a designated *chatas* and *olah* — the consequence is that the differentiated group becomes entirely mixed. One can no longer identify which of the three birds in that group is the *chatas*, which is the *olah*, and which is the interloper from the undifferentiated pair.
-
----
-
-## Stumah Vemeforashet…
-
-### Mixed Paired Up
-
-Since the differentiated group is now unusable — its *chatas* and *olah* having been mixed together with an unknown bird — nothing from it can be brought. The single bird remaining from the undifferentiated pair is treated as in the first *mishna*: one acquires a new bird to pair with it. One cannot take a bird from the now-mixed group to serve as its pair, since any bird drawn from that group might be of the wrong identity.
-
-### Back from Mixed
-
-If a bird now flies back from the mixed group — which has become, in effect, a group of birds that must die — then that returning bird carries the taint of the *metot* category. Whichever bird among the original undifferentiated pair remains is now mixed with a bird from a group of *metot*, and the result is *kullan yamutu* — all must die.
-
-### Ola Flies In
-
-A different scenario: rather than a bird from the undifferentiated pair flying into the differentiated group, a pre-designated *olah* from the differentiated pair flies into the undifferentiated pair. Now a bird of known, fixed identity has entered a group of undetermined identity.
-
-### All Die
-
-The result is again *kullan yamutu* — all must die. The complication here is that one does not know which of the two remaining birds in what was the undifferentiated group is the one that flew in. If one knew which bird was the designated *olah*, one could simply retrieve it: the *halacha* is that if an *olah* flies into a group, one brings *olot* in the amount the group originally had. But here, the designated *olah* and the original undifferentiated bird are indistinguishable. More precisely, the scenario envisions a case where the birds were at some point designated but then became confused — one no longer knows which is the *chatas* and which is the *olah* — and then one of them flew into the other's space. In that state of total uncertainty, with a bird of ostensibly fixed but now unidentifiable type mixed among undetermined birds, the mixture is irresolvable and all must die.
-
----
-
-## Chatas-Ola Sides
-
-### Triple Setup
-
-The fifth *mishna* presents a three-part arrangement: a designated *chatas* group on the left, a designated *olah* group on the right, and an undifferentiated pair in the middle.
-
-### No Loss
-
-If one bird from the middle pair flies to the left side and the other flies to the right side, there is no loss at all — *lo hifsid klum*.
-
-### All Brought
-
-The reason is elegant. The *kohen* takes all the birds on the left side and brings each one as a *chatas*; he takes all the birds on the right side and brings each one as an *olah*. The bird from the undifferentiated pair that flew to the *chatas* side will be brought as a *chatas*; the one that flew to the *olah* side will be brought as an *olah*. The undifferentiated pair has effectively resolved itself by flying to the appropriate sides, and nothing is lost. As the *mishna* puts it: *yomar* — one declares — the bird that flew to this side is a *chatas*, the one that flew to that side is an *olah*, and all may be brought.
-
-### Back to Middle
-
-If, however, birds fly back from the sides into the middle — one *chatas*-side bird and one *olah*-side bird entering the undifferentiated center — then those two birds in the middle become a mixture of *chatas* and *olah*, indistinguishable from one another.
+A bird from the middle flies to the *chatas* side, and another from the middle flies to the *olah* side: *parach min ha'emtza latzdadim echad heilech ve'echad heilech, lo hifsid klum* — one has lost nothing. The undifferentiated birds have flown to clearly designated groups. One simply hands all the birds on the *chatas* side to the *kohen* to be offered as *chataot*, and all on the *olah* side to be offered as *olot*. When the *kohen* reaches the bird of originally undetermined status among the *chataot*, he simply designates it as a *chatas*, not knowing which one it is — and this is entirely valid. The same applies on the *olah* side. *Ze shehalach lechan chatat chatat* — that which went to the *chatas* side is designated as a *chatas*; that which went to the *olah* side is an *olah*. No loss results.
 
 ### Middle Dies
 
-The birds in the middle — now a mixed pair of unknown identity — must die: *hen yamutu*. The birds that remain on their respective sides, however, are unaffected. They are still clearly *chataot* on the left and *olot* on the right, and may be brought accordingly.
+Now a bird from the *chatas* side and a bird from the *olah* side each fly back into the middle: *chazar l'emtza*. The middle now contains a mixture of a bird of *chatas* identity and a bird of *olah* identity, but one cannot tell which is which. Since a *chatas* and an *olah* are mixed and indistinguishable, neither can be offered. *Hen yamutu* — these middle birds must die. The birds remaining on each side — the defined *chatas* pile and the defined *olah* pile — are unaffected: *elu yikarvu l'chatas, elu yikarvu l'olah*. If subsequently birds from the dead-designated middle fly out to the sides, everything must die, since those birds carry the contaminating uncertainty wherever they go.
 
----
+## Chatat-Stuma-Olah…
 
-## Chatas-Ola Sides…
+### Continuous Cycle
 
-### Repeated Mixing
+The *mishna* closes this case with the reading that many *meforshim* prefer: *chazar veparach min ha'emtza latzdadim, harei kulam yamutu* — if birds that were in the middle, now a mixture of *chatat* and *olah* required to die, fly out to the sides, everything dies. Once a bird from a must-die pool is indistinguishably mixed into a valid group, there is no way to safely offer any of them. The principle throughout is consistent: anything contaminated by a bird of fixed, irresolvable mixed identity brings death to all those with which it mingles.
 
-If a further flight occurs — birds from this now-tainted middle group fly back out to the sides — the situation deteriorates further. A bird that must die has now entered each of the side groups.
+## Species Matching
 
-### All Die Final
+### Same Species Rule
 
-The result is *kullan yamutu* — all must die. Once a bird from the *metot* category has mixed into the designated *chatas* or *olah* groups, there is no way to isolate it, and the entire set is forfeit. The general principle crystallizes: whenever something that must die becomes intermingled with something valid, and the two cannot be distinguished, all must die.
+An entirely distinct rule now enters: *ein mevi'in torin keneged benei yonah velo benei yonah keneged torin* — one may not bring *torim* (one species of bird) paired against *benei yonah* (the other species), or vice versa. The *Torah* permits bringing either species for the pair of *chatas* and *olah*, but the two birds of a single obligation must come from the same species. One may not mix species within a single obligation.
 
----
+### Pigeon-Dove Case
 
-## Pigeons Doves
+If a woman brought her *chatas* as a *tor* and her *olah* as a *ben yonah*, a mismatch has occurred. Which offering must be redone? The first opinion in the *mishna* directs her to redo the *olah*: *tichpol vetavi olas tor* — bring an *olah* of the same species as the *chatas*. The rationale is that the *olah* already offered, even if it did not fulfill her obligatory *olas chova*, remains valid as an independent *olas nedavah* — a voluntary burnt offering. It is a valid *korban*, merely not her obligation. Redoing the *olah* resolves the mismatch without invalidating anything already brought. Redoing the *chatas*, by contrast, would implicitly render the first *chatas* invalid, since one does not duplicate a *chatas* offering.
 
-### Same Species
+### Dove-Pigeon Case
 
-The sixth *mishna* introduces a rule entirely distinct from the intermingling discussions. The *Torah* permits bringing either *torim* (turtle doves) or *b'nei yonah* (pigeons) for the paired *chatas* and *olah* offerings. However, one may not bring the *chatas* and *olah* from different species. Both must come from the same species: *ein mevi'in torim k'neged b'nei yonah* — one does not bring turtle doves opposite pigeons, nor pigeons opposite turtle doves.
+The symmetric case — *olasah tor vechatasah ben yonah* — she brought her *olah* as a *tor* and her *chatas* as a *ben yonah* — also yields: *tichpol vetavi olah ben yonah* — redo the *olah* as a *ben yonah*. The first opinion consistently resolves the mismatch by redoing the *olah*, preserving the *chatas* in both cases and treating the first *olah* as a valid *olas nedavah* in any event.
 
-### Case: Pigeon/Dove
+## Species Matching…
 
-What happens if a woman brought her *chatas* as a turtle dove and her *olah* as a pigeon? The two species do not match, and one of the offerings must be redone.
+### Ben Azzai View
 
-### Redo Ola
+*Ben Azzai omer: holchin achar harishon* — Ben Azzai says one follows the first offering brought. Whatever species was used first determines the required species for the second. If the *olah* was brought first as a *tor*, the *chatas* must also be a *tor*; if the first offering was a *ben yonah*, the second must match it. This has the consequence that if the first offering was the *chatas* and the second was a different species, Ben Azzai would require redoing the *chatas* — unlike the first opinion, which never redoes the *chatas*. There is a conceptual resonance between Ben Azzai's position and the broader themes of this *masechet*: just as throughout Kinnim the identity and fate of individual birds is determined by their group of origin and the fixed identity of others in relation to them, Ben Azzai reasons that the first bird brought sets the defining frame for what follows.
 
-The first opinion in the *mishna* holds that the *olah* is redone. The reasoning is that the *olah* she already brought, while not fulfilling her *chiyuv* of the paired offering, may nonetheless stand as a valid *olas nedavah* — a voluntary *olah* that is still a legitimate *kodshei korban*. If one were to redo the *chatas* instead, it would implicitly invalidate the first *chatas*, which is a more serious consequence. Therefore: redo the *olah* to match the species of the *chatas*, and the original *olah* retains its status as a voluntary offering.
+## After Death
 
-### Case: Dove/Pigeon
+### Olah Required
 
-The reverse case: she brought her *olah* as a turtle dove and her *chatas* as a pigeon.
+A final pair of cases involving death of the obligant: *ha'ishah shehevi'ah chatasah umetah* — a woman brought her *chatas* and then died before bringing her *olah*. *Yavi'u yorshim olatah* — her heirs must bring the *olah*. The obligation to bring the *olah* constitutes a lien on the estate; the *olah* does not require the obligant to be alive at the time of offering. Whether the *yorshim* are considered the *be'alim* of the *korban* — a question with implications for whether they perform *semichah* — is itself a subject of a separate *machlokes*, and the answer presumably tracks that dispute.
 
-### Redo Ola 2
+### Chatas Waived
 
-Here too, the first opinion calls for redoing the *olah*. She brings a new *olah* as a pigeon — matching her *chatas* — and the original turtle-dove *olah* stands as an *olas nedavah*. The logic is the same in both cases: protect the *chatas*, redo the *olah*.
+The converse case: *olatah umetah, lo yavi'u yorshim chatasah* — she brought her *olah* and then died, and the heirs may not bring the *chatas* on her behalf. A *chatas* may only be offered for a living person; there is no *kaparah lamesim*, no atonement for the dead. Unlike the *olah*, the *chatas* is intrinsically tied to the life and atonement of the individual, and once she has died the obligation lapses entirely. The heirs have no standing to offer it and no obligation to do so.
 
----
-
-## Pigeons Doves…
-
-### Ben Azzai
-
-Ben Azzai offers a different principle: *holchin achar harishon* — one follows the first offering. Whichever bird was brought first determines the species-set for the entire pair. If the *olah* was brought first as a turtle dove, then the *chatas* must be brought as a turtle dove. If the *olah* was first as a pigeon, the *chatas* must match. If the *chatas* was first, the *olah* follows the species of the *chatas*, even if this means the original *olah* was brought incorrectly and must be invalidated with a new one brought in its place.
-
-### Kan Stuma Link
-
-This view connects thematically to the broader principles of the *masechta*. Ben Azzai treats the first offering as fixing the identity of the set, in a manner analogous to how the first *perek* treated the determined bird as fixing constraints for the undetermined ones. Just as a defined *olah* that enters an undifferentiated group shapes what can be brought from that group, so too the first bird offered shapes the species-identity of the entire *chatas*-*olah* pair.
-
----
-
-## Woman Dies
-
-### Chatas Done
-
-The seventh and final *mishna* addresses the case of a woman who brought her *chatas* but died before bringing her *olah*. Her obligation was not fully discharged.
-
-### Heirs Bring Ola
-
-The ruling is: *yavi'u yorshim olatah* — the heirs must bring her *olah*. Because the *olah* was an obligatory offering — an *olas chovah* — its fulfillment creates a lien on the estate. The obligation survives her death and falls upon the heirs to discharge. Unlike a *chatas*, which requires the specific atoning owner to be alive, an *olah* may be brought after the owner's death. The *yorshim* bring the *olah* as part of satisfying the estate's outstanding obligation. One might ask: who serves as the *be'alim* — the owners — of this *korban*? Whether the *yorshim* perform *semichah* is itself a *machlokes*; however that debate resolves would seem to determine whether they are considered the *be'alim* in a full sense.
-
-### Both Done
-
-What if she brought both her *chatas* and her *olah* and only then died?
-
-### No Further Need
-
-In that case, *lo yavi'u yorshim chatatah* — the heirs need bring nothing. Her obligation was fully discharged during her lifetime. There is no outstanding *chiyuv* on the estate.
-
-*Hadran alach kan stuma.*
+*Hadran alach ken stuma.*

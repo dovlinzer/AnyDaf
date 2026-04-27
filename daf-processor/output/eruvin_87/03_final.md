@@ -1,0 +1,237 @@
+# Eruvin 87 — Daf Yomi Shiur
+
+## Mechitza Over Well
+
+### Dividing Well
+
+> **Hebrew/Aramaic:** מַתְנִי׳ בְּאֵר שֶׁבֵּין שְׁתֵּי חֲצֵירוֹת — עוֹשִׂין לָהּ מְחִיצָה גְּבוֹהָה עֲשָׂרָה טְפָחִים, וְעוּמְקָהּ עַד תַּחְתִּית הַבְּאֵר, וַחֲצִי קוֹמַת הַמַּיִם. רַבִּי יְהוּדָה אוֹמֵר: לֹא תְּהֵא מְחִיצָה. אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: רַבִּי יְהוּדָה בְּשִׁיטַת רַבִּי יוֹסֵי אֲמָרָהּ.
+>
+> **Translation:** MISHNA: With regard to **a well that is situated between two courtyards, one constructs for it a partition ten handbreadths high.** The partition must be **deep enough to reach the bottom of the well and extend to the middle of the water level.** **Rabbi Yehuda says: There is no need for a partition.** The **wall that** runs **on top of the well suffices. Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: Rabbi Yehuda stated this in accordance with the opinion of Rabbi Yosei,** who says that a suspended partition can be treated as though it descends to the ground even on land.
+
+The eighty-seventh daf opens by returning to a *mishnah* concerned with a well situated between two courtyards. Since the water itself cannot be physically divided, what is required symbolically to permit each courtyard to draw from its own side? According to the *chachamim*, some form of *mechitzah* must be placed inside the well itself, and the precise depth and extent of that partition into the water was the subject of debate. According to Rabbi Yehuda, however, the wall running over the top of the well suffices — we view it as though it extends downward and effectively divides the water below, even though it does not physically penetrate the well. The *gemara* notes that this position is analogous — if not identical — to the lenient approach of Chananya ben Akavya, who is remarkably permissive when it comes to *mechitzos* situated over bodies of water.
+
+### Chananya Leniency
+
+> **Hebrew/Aramaic:** רַבָּה אָמַר: רַבִּי יְהוּדָה וְרַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא אָמְרוּ דָּבָר אֶחָד. רַבִּי יְהוּדָה, הָא דַּאֲמַרַן. רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא, (דִּתְנַן) רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא אוֹמֵר: גְּזוּזְטְרָא שֶׁיֵּשׁ בָּהּ אַרְבַּע אַמּוֹת עַל אַרְבַּע אַמּוֹת, חוֹקֵק בָּהּ אַרְבַּע עַל אַרְבַּע וּמְמַלֵּא.
+>
+> **Translation:** **Rabba said: Rabbi Yehuda and Rabbi Ḥananya ben Akavya said the same thing.** Both were very lenient with regard to the *halakha* of a partition over water. The ruling of **Rabbi Yehuda is that which we** just **said.** The ruling of **Rabbi Ḥananya ben Akavya is as we learned: Rabbi Ḥananya ben Akavya says:** In the case of **a balcony that contains four cubits by four cubits,** which is suspended over water, **one may carve in it** a hole of **four by four** handbreadths **and draw** water through it.
+
+This general leniency with virtual partitions over water is not arbitrary. *Chazal* recognized the critical importance of access to water and were correspondingly more accommodating when it came to drawing water, as opposed to other uses. The baseline leniency, accepted by all, is that if one constructs booth-like *mechitzos* around a hole in a platform extending over a body of water — whether above or below — we treat those walls as extending all the way into the water, even though *mechitzos* ordinarily must be connected to the ground. Chananya ben Akavya goes further still: if the platform itself is four *amos* by four *amos* — that is, twenty-four *tefachim* in each direction — and the hole cut into it is four by four *tefachim*, which is the minimum required to constitute a *reshut hayachid*, then no actual walls need be built at all. Each side of the platform is imagined as bending downward around the hole, providing ten *tefachim* of virtual wall in each direction, and one may lower a bucket through the hole and draw water without any physical construction.
+
+## Bent Plank Math
+
+### Abaye Challenge
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: וְדִילְמָא לָא הִיא, עַד כָּאן לָא קָאָמַר רַבִּי יְהוּדָה הָתָם, אֶלָּא דְּאָמַר: "גּוּד אַחֵית מְחִיצְתָּא", אֲבָל "כּוֹף וְגוּד" — לָא. וְעַד כָּאן לָא קָאָמַר רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא הָתָם, אֶלָּא בְּיַמָּהּ שֶׁל טְבֶרְיָא, הוֹאִיל וְיֵשׁ לָהּ אוֹגָנִים, וַעֲיָירוֹת וְקַרְפֵּיפוֹת מַקִּיפוֹת אוֹתָהּ, אֲבָל בִּשְׁאָר מֵימוֹת — לֹא.
+>
+> **Translation:** **Abaye said to him: But perhaps that is not so,** as we can distinguish between the opinions. It is possible that **Rabbi Yehuda stated** his opinion **only there,** with regard to the wall of the courtyard and the cistern, **as he said** that we rely on the halakhic principle of **extend and lower the partition.** The partition above the cistern is considered as though it descended to the bottom. **But** the principle of **bend** the partition **and extend** it downward, as suggested by Rabbi Ḥananya ben Akavya, **no,** he does not accept this principle. **And** we can likewise say that **Rabbi Ḥananya ben Akavya stated** his opinion **only there,** in the case of the balcony, **with regard to the Sea of Tiberias,** i.e., the Sea of Galilee, **since it has** clearly defined **banks** around it, **and towns and enclosures surround it** on all sides. The Sea of Galilee is surrounded by clear boundaries on all sides and is therefore somewhat similar to a private domain in appearance. Consequently, even a minor adjustment is sufficient. **However, with regard to other waters, no,** Rabbi Ḥananya ben Akavya did not permit this practice.
+
+Abaye challenges the equation between Rabbi Yehuda's position in the *mishnah* and that of Chananya ben Akavya. He argues that the two may in fact differ in important respects. Rabbi Yehuda's ruling — that the wall above the well is treated as extending downward — involves only a linear extension (*gud*). But bending a wall and then extending it (*kuf ve-gud*) is a more complex fictional move, and Rabbi Yehuda may not have countenanced that. Conversely, Chananya ben Akavya may have articulated his leniency only in the specific context of Tiberias, over the Lake Kinneret, and not as a general principle applicable to all bodies of water.
+
+### Tiberias Exception
+
+The reason Chananya ben Akavya's ruling applied specifically to Tiberias, the *gemara* explains, is that the Kinneret has banks (*agnaim*), surrounding towns (*ayarot*), and enclosed yards (*karfifot*) encircling it. Precisely how these features translate into a halachic distinction is not entirely clear. Rashi emphasizes that the banks themselves constitute the beginnings of a *mechitzah*, giving the water a quasi-enclosed character. Others suggest that the combination of geographic features and the concentrated need of the local population together justified a more expansive ruling. But whatever the precise logic, Chananya ben Akavya's leniency is to be understood as particular to the Kinneret; he would not extend it to ordinary bodies of water.
+
+### Plank Configs
+
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי: וּלְדִבְרֵי רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא, הָיְתָה סְמוּכָה לַכּוֹתֶל בְּפָחוֹת מִשְּׁלֹשָׁה טְפָחִים — צָרִיךְ שֶׁיְּהֵא אוֹרְכָּהּ אַרְבַּע אַמּוֹת, וְרוֹחְבָּהּ אַחַד עָשָׂר וּמַשֶּׁהוּ. הָיְתָה זְקוּפָה — צָרִיךְ שֶׁיְּהֵא גּוֹבְהָהּ עֲשָׂרָה טְפָחִים, וְרוֹחְבָּהּ שִׁשָּׁה טְפָחִים וּשְׁנֵי מַשֶּׁהוּיִין. אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: הָיְתָה עוֹמֶדֶת בְּקֶרֶן זָוִית — צָרִיךְ שֶׁיְּהֵא גּוֹבְהָהּ עֲשָׂרָה טְפָחִים, וְרוֹחְבָּהּ שְׁנֵי טְפָחִים וּשְׁנֵי מַשֶּׁהוּיִין.
+>
+> **Translation:** **Abaye said: And according to the statement of Rabbi Ḥananya ben Akavya,** if the balcony **was less than three handbreadths** away **from the wall,** it is permitted to draw water from it in the following circumstances: **Its length must be four cubits, and its width** must be **eleven** handbreadths **and** any **amount.** By carving out a hole of slightly more than one handbreadth by four handbreadths on the side near the wall, alongside the other three handbreadths, one creates a hole of four handbreadths by four handbreadths. This hole is surrounded by partitions ten handbreadths high on each side. How so? The wall itself is one partition. The four-cubit length is viewed as bent down on both sides of the hole, forming two partitions of ten handbreadths; the remaining ten handbreadths of the width is seen as though it were bent down, which creates a partition on the fourth side of the balcony. **If the balcony was upright,** i.e., it had upright partitions on all sides, **the height** of these partitions **must be ten handbreadths, and the width** of the balcony must be **six handbreadths and two** minimal **amounts.** This leaves slightly more than a handbreadth on each side of the hole of four handbreadths, on which he can stand. **Rav Huna, son of Rav Yehoshua, said:** If it **was positioned in a corner** between two walls, **the height** of the partition **must be ten handbreadths, and the** requisite **width** of the balcony must be **two handbreadths and two** minimal **amounts.** As he is able to stand, he is provided with actual partitions.
+
+Having established the principle of imaginarily bending a plank, the *gemara* proceeds to explore — with considerable mathematical creativity — what various physical configurations of the plank would actually require in practice.
+
+Abaye begins with the case of a plank suspended horizontally within three *tefachim* of a wall. Since the gap between the plank and the wall is less than three *tefachim*, the principle of *lavud* applies — the gap is treated as closed, as if the plank reaches the wall. In this configuration, the plank need not span the full four *amos* in both directions. Because one side of the virtual enclosure is supplied by the wall itself (treated via *lavud* as contiguous with the plank), the plank only needs to be four *amos* in one direction and eleven *tefachim* and a small additional amount (*mashehu*) in the other. The logic is as follows: the hole must be four by four *tefachim* to constitute a *reshut hayachid*. The bend down each long side provides ten *tefachim* of wall height. In the short direction, the bend provides 1.1 *tefachim* of actual plank, and *lavud* closes the remaining 2.9 *tefachim* to the wall. Hence the plank's width need only be 11.1 *tefachim* — ten for the bend on one side, 1.1 for the portion to be bent on the other, with *lavud* completing the fourth wall.
+
+The *gemara* then considers a plank positioned vertically — standing upright rather than lying flat — and suspended within three *tefachim* of the wall. Here the plank must be ten *tefachim* high and seven *tefachim* and two *mashehus* wide. The wall of the building already provides one full side, and the upright plank, with its edges bent in and *lavud* closing the gap to the wall on each side, supplies the remaining three walls.
+
+Rav Huna the son of Rav Yehoshua then addresses the case where the plank is positioned at the corner of the building — *keren zavit*. In this configuration, two walls of the required enclosure are already provided by the intersecting walls of the building. Only two more corners are needed. If the plank is ten *tefachim* high and measures 1.1 *tefachim* in each direction — for a total width of just over two *tefachim* — it can be folded into an L-shape and placed within 2.9 *tefachim* of each wall. *Lavud* closes the remaining gaps, and the four-walled enclosure is complete. The *gemara* thus states that in the corner case, the plank need only be ten *tefachim* high and two *tefachim* and two *mashehus* wide.
+
+### Four-by-Four
+
+> **Hebrew/Aramaic:** וְאֶלָּא הָא דְּתַנְיָא, רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא אוֹמֵר: גְּזוּזְטְרָא שֶׁיֵּשׁ בָּהּ אַרְבַּע אַמּוֹת עַל אַרְבַּע אַמּוֹת — חוֹקֵק בָּהּ אַרְבָּעָה עַל אַרְבָּעָה, וּמְמַלֵּא, הֵיכִי מַשְׁכַּחַתְּ לַהּ? דַּעֲבִידָא כִּי אֲסִיתָא.
+>
+> **Translation:** The Gemara asks: **However,** with regard to **that which is taught** in a *baraita* that **Rabbi Ḥananya ben Akavya said:** If **a balcony** that **has** an area of **four cubits by four cubits** is suspended above water, **one carves in it** a hole of **four by four** handbreadths **and** then **draws** water through it, under **what circumstances** can a balcony with these dimensions **be found?** The Gemara answers: It is necessary in the case of a balcony **that is built in the shape of a mortar,** where the balcony is positioned over the water on its own pillars and far removed from any wall. In that case, all of the partitions must be constructed from its floor space. And the balcony must be four cubits by four cubits in size.
+
+Having established all these creative configurations through which one can construct the required enclosure with a plank far smaller than four by four *amos*, the *gemara* returns to ask: when does Chananya ben Akavya's original formulation — that the platform must be four *amos* by four *amos* — actually apply?
+
+One straightforward answer is that it applies simply when the plank is not suspended in a position that allows exploitation of *lavud* — for example, when it is attached flush to the wall in the ordinary case. Rashi, however, understands the *gemara* differently: the requirement of four *amos* by four *amos* applies when the plank is suspended far out from the wall — more than three *tefachim* away — so that *lavud* cannot be invoked and the plank must generate all four walls entirely on its own. In that case, each side must provide a full ten *tefachim* of bend, requiring the full four-*amah* span in each direction. Either way, the *gemara* appears to have enjoyed the exercise of imaginatively bending planks and calculating the savings that *lavud* provides.
+
+## Aqueduct Divider
+
+### Karmelit Status
+
+> **Hebrew/Aramaic:** מַתְנִי׳ אַמַּת הַמַּיִם שֶׁהִיא עוֹבֶרֶת בֶּחָצֵר — אֵין מְמַלְּאִין הֵימֶנָּה בְּשַׁבָּת, אֶלָּא אִם כֵּן עָשׂוּ לָהּ מְחִיצָה גְּבוֹהָה עֲשָׂרָה טְפָחִים בִּכְנִיסָה וּבִיצִיאָה.
+>
+> **Translation:** MISHNA: With regard to **a water channel that passes through a courtyard,** the residents **may not draw** water **from it on Shabbat, unless they erected for it a partition ten handbreadths high at the entrance and at the exit** of the courtyard.
+
+The *mishnah* turns to a new case: an *ama hamayim* — an aqueduct or canal — that passes through a courtyard. The *mishnah* rules that one may not draw water from it on *Shabbat*, because such a waterway has the status of a *karmelit*.
+
+This requires explanation. If the aqueduct is less than ten *tefachim* deep or less than four *tefachim* wide, it does not constitute its own domain and is simply treated as part of the *reshut hayachid* of the surrounding courtyard; in that case, drawing from it poses no problem. The issue arises only when the aqueduct is both ten *tefachim* deep and four *tefachim* wide — at which point it is a domain unto itself. But why, then, is it a *karmelit* rather than a *reshut hayachid*? A well of identical dimensions would be a *reshut hayachid*.
+
+The answer lies in the structure of the aqueduct's walls. Several explanations are offered. One holds that the slope of the aqueduct's banks is too gradual to qualify as halachic walls. More compellingly, as one of the students observes, the aqueduct passes through and connects to the outside world — it enters from elsewhere and exits elsewhere — meaning it functionally has only two walls where it runs through the courtyard. The *Meiri* makes a similar point. Even if one might ordinarily argue for *reshut hayachid* status despite the absence of two full walls, the rabbinic authorities treated such a waterway, at minimum rabbinically, as a *karmelit*, because as encountered within the courtyard it lacks the requisite four walls.
+
+The goal, therefore, is to construct *mechitzos* at the two open ends — where the aqueduct enters and exits the courtyard — thereby enclosing it on all sides and transforming it into a *reshut hayachid*, from which one may draw water on *Shabbat*.
+
+### Wall Above
+
+> **Hebrew/Aramaic:** רַבִּי יְהוּדָה אוֹמֵר: כּוֹתֶל שֶׁעַל גַּבָּהּ תִּידּוֹן מִשּׁוּם מְחִיצָה.
+>
+> **Translation:** **Rabbi Yehuda says:** There is no need for a special partition, as the **wall that** runs **on top of it,** i.e., the courtyard wall, **is considered as a partition.**
+
+The *mishnah* states: one may not draw water from an aqueduct passing through a courtyard on *Shabbat* unless one has erected a *mechitzah* ten *tefachim* high at the entry and at the exit of the courtyard — and this partition must penetrate into the depth of the aqueduct itself. Rabbi Yehuda disagrees: the wall of the courtyard that passes over the aqueduct already counts as the required *mechitzah*. This is the same position Rabbi Yehuda took regarding the well — just as the wall atop the well may be viewed as extending downward into the well, so too the courtyard wall passing over the aqueduct may be viewed as extending downward into the water channel.
+
+> **Hebrew/Aramaic:** גְּמָ׳ תָּנוּ רַבָּנַן: עָשׂוּ לָהּ בִּכְנִיסָה וְלֹא עָשׂוּ לָהּ בִּיצִיאָה, עָשׂוּ לָהּ בִּיצִיאָה וְלֹא עָשׂוּ לָהּ בִּכְנִיסָה — אֵין מְמַלְּאִין הֵימֶנָּה בְּשַׁבָּת, אֶלָּא אִם כֵּן עָשׂוּ לָהּ מְחִיצָה עֲשָׂרָה טְפָחִים בִּיצִיאָה וּבִכְנִיסָה. רַבִּי יְהוּדָה אוֹמֵר: כּוֹתֶל שֶׁעַל גַּבָּהּ תִּידּוֹן מִשּׁוּם מְחִיצָה.
+>
+> **Translation:** GEMARA: **The Sages taught** in a *baraita*: If **they erected** a partition **for** the water channel **at the entrance but they did not erect** one **for it at the exit,** or if **they erected** a partition **for it at the exit but they did not erect** one **for it at the entrance, one may not draw** water **from it on Shabbat, unless they erected for it a partition ten handbreadths** high both **at the exit and at the entrance. Rabbi Yehuda says: The wall** that runs **on top of it,** i.e., the courtyard wall, **is considered as a partition.** Therefore, there is no need for a special partition.
+
+A further *baraita* reinforces the basic ruling of the *chachamim*: a *mechitzah* at the entry but not the exit, or at the exit but not the entry, does not suffice — both are required.
+
+### Abel-Tzipori
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יְהוּדָה: מַעֲשֶׂה בְּאַמַּת הַמַּיִם שֶׁהָיְתָה בָּאָה מֵאָבֵל לְצִפּוֹרִי, וְהָיוּ מְמַלְּאִין הֵימֶנָּה בְּשַׁבָּת עַל פִּי הַזְּקֵנִים. אָמְרוּ לוֹ: מִשָּׁם רְאָיָיה?! מִפְּנֵי שֶׁלֹּא הָיְתָה עֲמוּקָּה עֲשָׂרָה טְפָחִים וְרוֹחְבָּהּ אַרְבָּעָה.
+>
+> **Translation:** **Rabbi Yehuda said:** There was **an incident involving the water channel that went from Avel to Tzippori, and** the residents **would draw** water **from it on Shabbat by the authority of the Elders,** without any additional partition. **They said to him:** Are you trying to bring **a proof from there?** That was either **due to** the fact that the channel **was not ten handbreadths deep or** because it was not **four** handbreadths **wide.** It lacked the requisite measure to be considered a domain in its own right. Everyone agrees that it is permitted to draw water from it even without an additional partition.
+
+Rabbi Yehuda adduces a practical precedent. He cites the case of the aqueduct that ran from Abel to Tzipori — two towns in close proximity — from which the residents would draw water on *Shabbat* with the approval of the elders, apparently relying on the wall that passed over the aqueduct rather than a specially constructed partition within the channel itself.
+
+The *chachamim* dismiss this proof. That aqueduct, they explain, was not ten *tefachim* deep and four *tefachim* wide. It therefore did not constitute its own domain at all and was simply part of the surrounding *reshut hayachid*. No *mechitzah* of any kind was required, and the conduct of the residents of that town proves nothing about cases where the aqueduct genuinely constitutes a *karmelit*.
+
+## Three-or-Four
+
+### Threshold Question
+
+> **Hebrew/Aramaic:** תַּנְיָא אִידַּךְ: אַמַּת הַמַּיִם הָעוֹבֶרֶת בֵּין הַחַלּוֹנוֹת, פָּחוֹת מִשְּׁלֹשָׁה — מְשַׁלְשֵׁל דְּלִי וּמְמַלֵּא. שְׁלֹשָׁה — אֵין מְשַׁלְשֵׁל דְּלִי וּמְמַלֵּא. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: פָּחוֹת מֵאַרְבָּעָה — מְשַׁלְשֵׁל דְּלִי וּמְמַלֵּא, אַרְבָּעָה — אֵין מְשַׁלְשֵׁל דְּלִי וּמְמַלֵּא.
+>
+> **Translation:** **It was taught in another** *baraita*: With regard to **a water channel that passes between the windows** of two houses, if it is **less than three** handbreadths, **one may lower a bucket** from the window **and draw** water from it; however, if it is **three** handbreadths, **one may not lower a bucket and draw** water from it. **Rabban Shimon ben Gamliel says:** If it is **less than four** handbreadths, **one may lower a bucket and draw** water from it; but if it is at least **four** handbreadths, **one may not lower a bucket and draw** water.
+
+A further *baraita* introduces a new scenario: an aqueduct running between two buildings, with the householders' windows opening onto it from either side. The *baraita* rules that if the gap between the buildings above the aqueduct is less than three *tefachim*, one may lower a bucket and fill it; if it is three *tefachim* or more, one may not. Rabbi Shimon dissents, placing the threshold at four *tefachim*: less than four permits drawing water, four or more does not.
+
+The *gemara* seeks to understand what, precisely, is measured by this three-or-four *tefachim* threshold. The scenario involves a *karmelit* — the aqueduct — and a *reshut hayachid* — the house — and the question is under what circumstances the householder may lower a bucket into the water below. What role does the specific measurement of three or four *tefachim* play in this determination?
+
+### Karmelit Width
+
+> **Hebrew/Aramaic:** בְּמַאי עָסְקִינַן? אִילֵימָא: בְּאַמַּת הַמַּיִם גּוּפַהּ, וְאֶלָּא הָא דְּכִי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: אֵין כַּרְמְלִית פְּחוּתָה מֵאַרְבָּעָה —
+>
+> **Translation:** With regard to these measures of three and four handbreadths, the Gemara asks: **With what are we dealing** here? **If you say** this *halakha* is referring **to the water channel itself,** that it was three or four handbreadths wide, this presents a difficulty, **for when Rav Dimi came** from Eretz Yisrael to Babylonia, he said that **Rabbi Yoḥanan said: A *karmelit* cannot be less than four** handbreadths wide.
+
+One possible explanation: the debate concerns the minimum width that renders the aqueduct a *karmelit* in the first place. Recall that if the aqueduct is less than four *tefachim* wide, it is not its own domain but part of the *reshut hayachid*. Perhaps according to the *tanna kamma*, the minimum width for a *karmelit* is three *tefachim*, and only when the gap reaches three does it become a prohibited *karmelit*; according to Rabbi Shimon, the threshold remains the standard four.
+
+However, this explanation runs into a difficulty: when Rav Dimi transmitted teachings from Eretz Yisrael in the name of Rabbi Yochanan, he stated explicitly that a *karmelit* requires a minimum width of four *tefachim*. If that is indeed universally accepted, it is strange to suggest that any *tanna* would hold the minimum to be three.
+
+### Makom Patur
+
+> **Hebrew/Aramaic:** אֶלָּא בַּאֲגַפֶּיהָ, וּלְהַחְלִיף.
+>
+> **Translation:** The Gemara rejects the previous explanation. **Rather,** the measure of three or four handbreadths is referring not to the channel itself but **to the banks** of the channel, **and** it is stated **with regard to** an act of **exchange.** The dispute here does not concern the measure of a *karmelit*, but the measure of an exempt domain. It is permitted to transfer the empty bucket from the window, which is a private domain, by way of the channel's banks, which are exempt domains, to the water channel, which is a *karmelit*, and back again with the full bucket.
+
+A second explanation: the debate does not concern the width of the *karmelit* itself but rather the width of the banks — the *agappah* — alongside the aqueduct. If those banks are narrow enough, they constitute a *makom patur*, an exempt domain lacking the minimum four-by-four *tefachim* required for any defined domain. In that case, the procedure under discussion would work as follows: one lowers the bucket from the *reshut hayachid* of the house down onto the bank below, where someone fills it from the *karmelit* waters; the filled bucket is then raised back through the *makom patur* into the house. The question is whether this bank is a *makom patur* when it is less than three *tefachim* wide or less than four.
+
+### Yochanan Rule
+
+> **Hebrew/Aramaic:** וְהָא כִּי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: מָקוֹם שֶׁאֵין בּוֹ אַרְבָּעָה עַל אַרְבָּעָה — מוּתָּר לִבְנֵי רְשׁוּת הַיָּחִיד וְלִבְנֵי רְשׁוּת הָרַבִּים לְכַתֵּף עָלָיו, וּבִלְבַד שֶׁלֹּא יַחְלִיפוּ.
+>
+> **Translation:** The Gemara raises a difficulty: **But when Rav Dimi came** from Eretz Yisrael to Babylonia, **he said** that **Rabbi Yoḥanan said: A place that does not have** an area of **four by four** handbreadths is an **exempt domain.** Consequently, if this place is situated between a public domain and a private domain, **it is permitted for** both **the people of the private domain and for the people of the public domain to** adjust the burdens on their **shoulders on it, provided** that **they do not exchange** objects between them via the exempt domain.
+
+This explanation also faces a challenge. Rav Dimi reported in the name of Rabbi Yochanan that a space lacking four-by-four *tefachim* is a *makom patur*, and that both those of the *reshut harabbim* and those of the *reshut hayachid* may set down their burdens upon it — but they may not use it as a transit point to transfer between the two domains. If one may not use a *makom patur* as a way station between a *reshut hayachid* and a *reshut harabbim*, how can one use the bank — assuming it is a *makom patur* — to ferry water between the house and the *karmelit*?
+
+### Rabbinic Transfer
+
+> **Hebrew/Aramaic:** הָתָם רְשׁוּיוֹת דְּאוֹרָיְיתָא, הָכָא רְשׁוּיוֹת דְּרַבָּנַן.
+>
+> **Translation:** The Gemara answers: **There,** Rav Dimi is referring to **domains by Torah law,** i.e., this *halakha* involves the transfer of objects from a private domain to a public domain via an exempt domain. The Sages forbade this activity, so that people would not transfer objects directly from the private domain to the public domain. However, **here,** Rav Dimi is referring to **domains by rabbinic law.** As the transfer of objects from a private domain to a *karmelit* is prohibited only by rabbinic decree, the Sages did not prohibit this transfer when it is accomplished by way of an exempt domain.
+
+The *gemara* answers: the prohibition against using a *makom patur* as a transit point applies when the two domains on either side are biblical domains — *reshut hayachid* and *reshut harabbim* — where a direct transfer would constitute a Torah-level violation of *Shabbat*. Here, however, the *karmelit* is a rabbinic domain; a direct transfer between a *reshut hayachid* and a *karmelit* would only be a rabbinic transgression. In such a case, the *makom patur* may be used as an intermediary.
+
+The *gemara* then re-examines this resolution. The prohibition attributed to Rabbi Yochanan against using a *makom patur* as a transit point — as transmitted by Ze'iri — appears to apply even to rabbinic domains. The *gemara* recalls a *mishnah* studied approximately ten days earlier: a wall ten *tefachim* high and four *tefachim* wide standing between two courtyards constitutes its own *reshut hayachid*. Fruit sitting on top of such a wall belongs to neither courtyard and may be eaten there, but may not be transferred down into either courtyard without a proper *eruv*. The *gemara* had already asked: if the wall is ten *tefachim* high but less than four *tefachim* wide, what is its status?
+
+> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: אֵין בּוֹ אַרְבָּעָה מַאי? אָמַר רַב: אֲוִיר שְׁתֵּי רְשׁוּיוֹת שׁוֹלֶטֶת בּוֹ, וְלֹא יָזִיז בּוֹ מְלֹא נִימָא. וְרַבִּי יוֹחָנָן אָמַר: אֵלּוּ מַעֲלִין מִכָּאן וְאוֹכְלִין, וְאֵלּוּ מַעֲלִין מִכָּאן וְאוֹכְלִין.
+>
+> **Translation:** **And we discussed this** and raised a question: If this wall **is not four** handbreadths thick, **what is** the *halakha*? **Rav said:** In that case, **the air of two domains controls it.** As the wall is not broad enough to be considered a domain of its own, its top belongs to both courtyards, and it is therefore prohibited to both of them. Accordingly, **one may not move** anything **on** top of the wall even as much as **a hairsbreadth.** **And Rabbi Yochanan** disagreed and **said: These,** the residents of one courtyard, **may carry up** their food **from** their courtyard to the top of the wall **and eat** it there, **and those,** the residents of the other courtyard, **may** likewise **carry up** their food **from** their courtyard **and eat** it there.
+
+Rav held that since the wall is less than four *tefachim* wide, it is a *makom patur* but one that is simultaneously claimed by both courtyards; the airspace of both domains governs it, and nothing may be moved upon it at all — not even a hairsbreadth. Rabbi Yochanan disagreed: it is simply a standard *makom patur*, and just as a *makom patur* in the middle of a *reshut harabbim* may be used by those of both the *reshut harabbim* and the *reshut hayachid*, so too this wall may be used by those of both courtyards — but with the crucial limitation that items may not be transferred *through* it from one courtyard to the other.
+
+> **Hebrew/Aramaic:** וְאַזְדָּא רַבִּי יוֹחָנָן לְטַעְמֵיהּ, דְּכִי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: מָקוֹם שֶׁאֵין בּוֹ אַרְבָּעָה עַל אַרְבָּעָה — מוּתָּר לִבְנֵי רְשׁוּת הָרַבִּים וְלִבְנֵי רְשׁוּת הַיָּחִיד לְכַתֵּף עָלָיו, וּבִלְבַד שֶׁלֹּא יַחֲלִיפוּ!
+>
+> **Translation:** **And Rabbi Yochanan follows his** regular line of **argument** here, **for when Rav Dimi came** from Eretz Yisrael to Babylonia, **he said** that **Rabbi Yoḥanan said: A place that contains less than four by four** handbreadths is an exempt domain. Consequently, if this place is located between a public domain and a private domain, **it is permitted for the people of the private domain and for the people of the public domain to load** their burdens **onto their shoulders in it, as long as they do not exchange** objects with each other by way of the exempt domain.
+
+The *gemara* then notes: Rabbi Yochanan goes according to his own reasoning, as Rav Dimi transmitted in his name: a space lacking four by four *tefachim* is a *makom patur*, and people from both the *reshut harabbim* and the *reshut hayachid* may use it — *ubilvad shelo yachlifu* — as long as they do not exchange items through it from one domain to the other.
+
+The upshot is that the prohibition against transiting through a *makom patur* applies even in this rabbinic context — between two *reshuyot hayachid* without an *eruv* — according to Ze'iri's transmission of Rabbi Yochanan's ruling. Hence Ze'iri would presumably also prohibit using the bank of the aqueduct as a *makom patur* transit point to the *karmelit* waters. The *gemara* concludes that this second explanation — the debate concerns the size of a *makom patur* — is consistent with the position of Rav Dimi, who would permit using a *makom patur* to access a rabbinic domain, but creates difficulty for Ze'iri. The *gemara*'s resolution at this stage is to bifurcate the two transmissions: Ze'iri's version of Rabbi Yochanan's ruling remains internally consistent and would locate the dispute about three or four in the width of the *karmelit* itself; Rav Dimi's version maintains that the dispute concerns the *makom patur* and that transit through a *makom patur* into a rabbinic domain is permitted.
+
+### Holes Debate
+
+> **Hebrew/Aramaic:** וְתִיהְוֵי כִּי חוֹרֵי כַּרְמְלִית! אַבָּיֵי בַּר אָבִין וְרַב חֲנִינָא בַּר אָבִין דְּאָמְרִי תַּרְוַיְיהוּ: אֵין חוֹרִין לְכַרְמְלִית. רַב אָשֵׁי אָמַר: אֲפִילּוּ תֵּימָא יֵשׁ חוֹרִין לְכַרְמְלִית — הָנֵי מִילֵּי בִּסְמוּכָה. הָכָא, בְּמוּפְלֶגֶת.
+>
+> **Translation:** The Gemara raises a further question: **And let** the water channel that passes through the courtyard **be** treated at least **like the cavities of a *karmelit*,** even if it is not wide enough to be considered a *karmelit* on its own. Just as the cavities in the wall of a private domain are considered a private domain even if they do not include the prescribed measure of a private domain, the water channel passing through the courtyard should likewise be considered as a cavity of the larger water channel in the street. It should therefore have the status of a *karmelit*. The Gemara answers: **Abaye bar Avin and Rav Ḥanina bar Avin both said: There is no** category of **cavities for a *karmelit*.** As a *karmelit* is only a rabbinic in origin, the *halakha* is not so stringent with regard to this domain. Consequently, a *karmelit* does not annex nearby cavities. **Rav Ashi said: You** can **even say** that in general **there are holes for a *karmelit*,** but **this applies only to** holes that are **adjacent** to the *karmelit*, and are therefore nullified by it. **Here, however,** we are dealing with a water channel **that is** far **removed** from the *karmelit*. Therefore, it does not assume the status of the *karmelit*.
+
+The *gemara* raises a further question, setting up the third explanation. Even granting that the aqueduct is a *karmelit* when it runs through the open world, once it narrows as it passes between the buildings, why is it still a *karmelit*? Should it not be treated like the *chorei reshut harabbim* — the holes or recesses of a public domain — which retain the domain status of the larger space they serve? If the aqueduct is a *karmelit* in the broader waterway, should that status not extend even to the narrowed section between the buildings?
+
+Abaye bar Avin and Rav Chanina bar Avin answer jointly: *ein chorin le-karmelit* — a *karmelit* does not have "holes" in the same way that biblical domains do. By a Torah-level domain such as the *reshut harabbim*, we say that attendant or adjacent spaces partake of the domain's status. But for the rabbinic *karmelit*, the rabbis were more lenient: once the waterway narrows below the threshold width, it loses its *karmelit* status even if a full-fledged *karmelit* continues downstream.
+
+Rav Ashi adds a qualification: even if one holds that a *karmelit* does have "holes" — that is, that attendant spaces partake of its status — that applies only where those spaces are directly adjacent (*smucha*) to the main body. Here, by contrast, the full *karmelit* may be quite distant from the narrowed section between the buildings; at such a remove, the narrow passage cannot be considered a "hole" of the *karmelit*.
+
+### Lavud Gap
+
+> **Hebrew/Aramaic:** רָבִינָא אָמַר: כְּגוֹן דַּעֲבַד לַהּ נִיפְקֵי אַפּוּמַּהּ. וְאָזְדוּ רַבָּנַן לְטַעְמַיְיהוּ, וְרַבִּי שִׁמְעוֹן בֶּן גַּמְלִיאֵל לְטַעְמֵיהּ.
+>
+> **Translation:** **Ravina said** a different explanation of the dispute between Rabban Shimon ben Gamliel and the Rabbis: The measures of three and four handbreadths refer neither to the width of the water trench nor to the width of its banks. Rather, we are dealing with a case **where one fashioned outlets for** the water channel **at its ends,** i.e., one formed gaps in the partitions to allow the water to flow. **And the Rabbis follow their** regular line of **argument,** that the principle of *lavud* applies only to a gap less than three handbreadths wide. An opening less than three handbreadths is therefore considered completely closed, while one of four is not viewed as closed. **And Rabban Shimon ben Gamliel follows his** regular line of **argument,** that the principle of *lavud* applies even to a gap of four handbreadths.
+
+Ravina proposes what the *gemara* presents as the most straightforward resolution. The debate is not about the minimum width of a *karmelit*, nor about the minimum size of a *makom patur*, nor about access via a *makom patur*. Rather, it is a simple dispute about *lavud*. In order to draw water, one constructed partial *mechitzos* — small walls — at the points where the aqueduct passes between the buildings, but left a gap between the walls and the banks. The question is: how large a gap does *lavud* close, rendering the walls halachically complete? Is a gap of less than three *tefachim* treated as closed, or must it be less than four?
+
+This, Ravina notes, is precisely the well-established dispute between the *rabanan* and Rabban Shimon ben Gamliel elsewhere in the *gemara*: the *rabanan* hold that *lavud* applies when the gap is less than three *tefachim*, while Rabban Shimon ben Gamliel holds that *lavud* applies when the gap is less than four. Each *tanna* here simply follows his standard position on *lavud*. This reading avoids the need to challenge the universally accepted minimum size of a *karmelit* or the definition of a *makom patur*, and is accordingly far more straightforward than the preceding explanations.
+
+## Balcony Walls
+
+### Balcony Mishna
+
+> **Hebrew/Aramaic:** מַתְנִי׳ גְּזוּזְטְרָא שֶׁהִיא לְמַעְלָה מִן הַמַּיִם אֵין מְמַלְּאִין הֵימֶנָּה בְּשַׁבָּת אֶלָּא אִם כֵּן עָשׂוּ לָהּ מְחִיצָה גְּבוֹהָה עֲשָׂרָה טְפָחִים, בֵּין מִלְּמַעְלָה, בֵּין מִלְּמַטָּה.
+>
+> **Translation:** MISHNA: With regard to **a balcony that** extends **over** a body of **water,** if a hole was opened in the floor, its residents **may not draw** water **from it** through the hole **on Shabbat, unless they erected for it a partition ten handbreadths high** around the hole. It is permitted to draw water by means of that partition, **whether** it is positioned **above** the balcony, in which case the partition is seen as descending downward, **or** whether it is placed **below** the balcony.
+
+The *mishnah* addresses the *gezustra* — a balcony or platform projecting over a body of water — and the conditions required to draw water from it on *Shabbat*. One may not lower a bucket through a hole in the balcony unless walls ten *tefachim* high have been constructed, either above or below the level of the platform. The reason is that while the balcony, being attached to the building, is part of the *reshut hayachid*, the water below is a *karmelit*, and the walls — whether constructed above the platform or extending downward below it — are viewed as continuing all the way into the water. This creates an enclosed *reshut hayachid* in the space directly beneath the hole, permitting the drawing of water.
+
+### Two Balconies
+
+> **Hebrew/Aramaic:** וְכֵן שְׁתֵּי גְזוּזְטְרָאוֹת זוֹ לְמַעְלָה מִזּוֹ, עָשׂוּ לְעֶלְיוֹנָה וְלֹא עָשׂוּ לְתַחְתּוֹנָה — שְׁתֵּיהֶן אֲסוּרוֹת עַד שֶׁיְּעָרְבוּ.
+>
+> **Translation:** **And likewise,** with regard to **two** such **balconies, one above the other,** if **they erected** a partition **for the upper balcony but they did not erect** one **for the lower one,** the residents **are both prohibited** from drawing water through the upper one, **unless they establish an *eiruv*** between them.
+
+The *mishnah* adds a further case: if there are two balconies, one above the other but not directly stacked — one set out further than the other — and the upper balcony erected walls while the lower balcony did not, neither may draw water. Even the upper balcony, which did construct its *mechitzos*, is forbidden. This is because both balconies are competing for the same space: there is some form of access — whether a ladder between them or sufficient proximity to jump — that renders them as sharing the zone below. Since they have not made a joint *eruv*, neither can claim exclusive use of that space.
+
+### Imaginary Walls
+
+> **Hebrew/Aramaic:** גְּמָ׳ מַתְנִיתִין דְּלָא כַּחֲנַנְיָא בֶּן עֲקַבְיָא. דְּתַנְיָא, חֲנַנְיָא בֶּן עֲקַבְיָא אוֹמֵר: גְּזוּזְטְרָא שֶׁיֵּשׁ בָּהּ אַרְבַּע עַל אַרְבַּע אַמּוֹת חוֹקֵק בָּהּ אַרְבָּעָה עַל אַרְבָּעָה, וּמְמַלֵּא.
+>
+> **Translation:** GEMARA: The Gemara comments: **The mishna** is **not in accordance with** the opinion of **Ḥananya ben Akavya, as it was taught** in a *baraita* that **Ḥananya ben Akavya says:** If **a balcony that contains four** cubits **by four cubits** is suspended above water, **one may carve out** a hole of **four** handbreadths **by four** handbreadths **in it and draw** water through it. The section of the floor surrounding the hole is considered as though it bent downward and formed a partition ten handbreadths high on all sides. Consequently, no other partition is necessary.
+
+The *gemara* notes that this *mishnah*, which requires actual physical walls around the hole in the balcony, does not accord with the position of Chananya ben Akavya. A *baraita* records his view: if the *gezustra* is four *amos* by four *amos*, one may simply cut a hole of four by four *tefachim* in its center and draw water — no walls are needed, because the surrounding platform is imaginarily understood as bending downward around the hole on all sides. The *mishnah*'s requirement of real walls reflects the position of the *chachamim*, not Chananya ben Akavya.
+
+## Tiberias Leniencies
+
+### Water Drawing
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יוֹסֵי בֶּן זִימְרָא: לֹא הִתִּיר רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא אֶלָּא בְּיַמָּהּ שֶׁל טְבֶרְיָא, הוֹאִיל וְיֵשׁ לָהּ אוֹגָנִים, וַעֲיָירוֹת וְקַרְפֵּיפוֹת מַקִּיפוֹת אוֹתָהּ, אֲבָל בִּשְׁאָר מֵימוֹת — לֹא.
+>
+> **Translation:** **Rabbi Yoḥanan said in the name of Rabbi Yosei ben Zimra: Rabbi Ḥananya ben Akavya permitted** a balcony that is not surrounded by partitions **only in** the case of **the Sea of Tiberias,** the Sea of Galilee, **as it has** clearly defined **banks** that are visible on all sides, **and towns and enclosures surround it.** It is therefore considered part of an inhabited area. **But with regard to other waters,** such as larger seas, **no,** he did not permit them.
+
+Rabbi Yochanan, in the name of Rabbi Yose ben Zimra, clarifies the scope of Chananya ben Akavya's ruling: he only permitted this arrangement over the Kinneret, the Sea of Tiberias, because it has banks, surrounding towns, and enclosing yards that give it a special character. Over other bodies of water he would not have made this allowance.
+
+Since the *gemara* is now discussing a ruling specific to Tiberias, it digresses to enumerate three leniencies that Chananya ben Akavya granted to the people of that city. First, he permitted drawing water from a *gezustra* on *Shabbat* even without constructing real *mechitzos*, relying instead on the imaginary bending of the platform's edges — this is the ruling already discussed. Second, he permitted burying fruit in legume pods without concern for ritual impurity. Third, he permitted drying oneself with towels on *Shabbat* or *Yom Tov* without fear that one might come to wring them out. The *gemara* notes this third leniency and will take it up subsequently.
+
+### Fruit Burial
+
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שְׁלֹשָׁה דְּבָרִים הִתִּיר רַבִּי חֲנַנְיָא בֶּן עֲקַבְיָא לְאַנְשֵׁי טְבֶרְיָא: מְמַלְּאִין מַיִם מִגְּזוּזְטְרָא בַּשַּׁבָּת, וְטוֹמְנִין בְּעֵצָה, וּמִסְתַּפְּגִין בַּאֲלוּנְטִית. וְטוֹמְנִין בְּעֵצָה מַאי הִיא, דְּתַנְיָא: הִשְׁכִּים לְהָבִיא פְּסוֹלֶת, אִם בִּשְׁבִיל שֶׁיֵּשׁ עָלָיו טַל — הֲרֵי הוּא בְּ״כִי יוּתַּן״,
+>
+> **Translation:** **Our Sages taught** a *baraita*: **Rabbi Ḥananya ben Akavya permitted three activities to the inhabitants of Tiberias: They may draw water** from the sea **through** a hole cut out of **a balcony on Shabbat, and they may insulate** produce **in the pods** of legumes, **and they may dry themselves** on Shabbat **with a towel [*aluntit*].** The Gemara clarifies this *baraita*: **And they may insulate** produce **in the pods** of legumes; **what is** this *halakha*? **As it was taught** in a *baraita*: If one **rose early** in the morning **to bring residue** from the field, e.g., the straw of wheat or the stalks or pods of legumes, in order to store his produce in them, the following distinction applies: **If** he rose early **because** the residue still **has dew on it,** and he wants to use this moisture for his produce, **this** instance **is considered** to be in the following category: **If** any water **be put.** Food or produce can contract ritual impurity only if it has come into contact with a liquid, either directly through the action of its owner, or without his direct intervention but with his approval. This is derived from the verse: "But if any water be put on the seed, and any part of their carcass falls on it, it shall be unclean to you" (Leviticus 11:38). Returning to our issue, if this person rose early because the residue still has dew on it, the produce he stores in it is rendered susceptible to ritual impurity, as it has come into contact with the dew with its owner's approval.
+
+The second leniency — burying fruit in the pods of legumes — requires explanation. A *baraita* teaches: if a person rises early in the morning to gather the leftover husks or pods of legumes from the yard, and does so because he wants them moist, this constitutes a deliberate desire for the moisture on them. As a result, the dew that has fallen upon them is considered wanted, and the produce becomes susceptible to *tumah* — *ki yutan* — since susceptibility to ritual impurity requires both that liquid has come into contact with the food and that the owner desired that contact.
+
+### Intent Doctrine
+
+> **Hebrew/Aramaic:** וְאִם בִּשְׁבִיל שֶׁלֹּא יִבָּטֵל מִמְּלַאכְתּוֹ — אֵינוֹ בְּ״כִי יוּתַּן״. וּסְתָם אַנְשֵׁי טְבֶרְיָא כְּמִי שֶׁלֹּא יִבְטַל מִמְּלַאכְתּוֹ דָּמֵי.
+>
+> **Translation:** **And if** one rose early only **in order not to neglect his** usual **work,** this **is not considered** an instance of **if it be put,** as it was not his intention to place the dew on the produce. Unintended contact with a liquid does not render food susceptible to ritual impurity. **And normally,** unless they specify otherwise, **the inhabitants of Tiberias** are considered **like one** who does so in order **not to neglect his** usual **work.** Most of them are ordinary laborers. It can be assumed that if they rose early to bring home straw or stalks in which to store their produce, they did so only to save work time.
+
+If, however, the person rose early not because he wanted the pods moist but simply because he had a full day of work ahead of him and wished to complete this task early, then his desire for the dew is immaterial — *eino be-ki yutan* — and the produce does not become susceptible to *tumah* as a result.
+
+The *gemara* notes that the people of Tiberias were known for their industriousness: rising early was standard practice among them not out of any desire for moist produce but simply because of the press of the workday. Chananya ben Akavya's leniency, as Rashi explains it, was therefore the following: if one buried fruit in those pods — perhaps to keep it warm — the fruit would not become susceptible to *tumah*, because the dew on the pods was not desired by the people of Tiberias for any purpose related to the food. Their characteristic motivation was work, not moisture, and so the legal trigger for susceptibility was simply not present. The discussion of the third leniency — drying with towels — will continue in the next session.

@@ -1,0 +1,45 @@
+### Zevachim 40b
+
+**1.**
+*Hebrew/Aramaic:* אַמִּין שֶׁבָּאֶצְבַּע. ״בַּדָּם״ – שֶׁיְּהֵא בַּדָּם שִׁיעוּר טְבִילָה מֵעִיקָּרָא. ״וְטָבַל״ – וְלֹא מְסַפֵּג.
+*Translation:* service performed by a priest who has **a wart** or blister **on** his **finger.** These are not considered an interposition between his finger and the blood. With regard to the term **“in the blood”** (Leviticus 4:6), this teaches **that the blood** in the service vessel **must be of a** sufficient **measure for immersion from the outset.** The priest must initially collect in the vessel enough blood for all the sprinklings, rather than adding blood to the vessel for each sprinkling. Finally, the term **“and** the priest **shall immerse** his finger in the blood” indicates that there must be enough blood in the vessel such that the priest can immerse his finger in it **and not** have to **wipe** the sides of the utensil to collect blood for sprinkling.
+
+**2.**
+*Hebrew/Aramaic:* וְאִיצְטְרִיךְ לְמִכְתַּב ״בַּדָּם״, דְּאִי כְּתַב רַחֲמָנָא ״וְטָבַל״ – הֲוָה אָמֵינָא: אַף עַל גַּב דְּלֵיכָּא שִׁיעוּר טְבִילָה מֵעִיקָּרָא; כְּתַב רַחֲמָנָא ״בַּדָּם״.
+*Translation:* The Gemara explains: **And** it **was necessary** for the verse to state both these last two terms. It had **to write “in the blood,” as had the Merciful One written** only **“and** the priest **shall immerse,” I would say** that the sprinklings are valid **even if there was not** a sufficient **measure** of blood **for immersion from the outset,** but only enough for a single sprinkling, provided that the priest then added more blood to the vessel for each sprinkling. Therefore, **the Merciful One writes “in the blood”** to teach that from the outset there must be enough blood in the vessel for all the sprinklings.
+
+**3.**
+*Hebrew/Aramaic:* וְאִי כְּתַב רַחֲמָנָא ״בַּדָּם״ – הֲוָה אָמֵינָא: אֲפִילּוּ מְסַפֵּג; כְּתַב רַחֲמָנָא: ״וְטָבַל״.
+*Translation:* **And** conversely, **had the Merciful One written** only **“in the blood,” I would say** that **even** if there was enough blood in the vessel at the outset it is not necessary that there be enough blood for immersion for the last sprinklings, as the priest can **wipe** the sides of the utensil to collect blood for sprinkling. Therefore, **the Merciful One writes “and** the priest **shall immerse.”**
+
+**4.**
+*Hebrew/Aramaic:* ״מִזְבַּח קְטֹרֶת סַמִּים״ לְמָה לִי? שֶׁאִם לֹא נִתְחַנֵּךְ הַמִּזְבֵּחַ בִּקְטוֹרֶת הַסַּמִּים – לֹא הָיָה מַזֶּה.
+*Translation:* The Gemara addresses another apparently superfluous phrase in the same chapter: “And the priest shall put some of the blood upon the corners of **the altar of sweet incense** before the Lord” (Leviticus 4:7). **Why do I** need the verse to mention the sweet incense? It would have been enough to identify the altar as being “before the Lord” and one would have understood that the reference is to the inner altar. Rather, this serves to teach **that if the altar had not been inaugurated with sweet incense,** the priest **would not sprinkle** blood on it.
+
+**5.**
+*Hebrew/Aramaic:* תַּנְיָא כְּוָותֵיהּ דְּרַב פָּפָּא: ״וְעָשָׂה... כַּאֲשֶׁר עָשָׂה״ – מָה תַּלְמוּד לוֹמַר ״לַפָּר״? לְרַבּוֹת פַּר יוֹם הַכִּפּוּרִים לְכׇל מַה שֶּׁאָמוּר בָּעִנְיָן. דִּבְרֵי רַבִּי.
+*Translation:* The Gemara comments: **It is taught** in a *baraita* **in accordance with** the opinion **of Rav Pappa** that the superfluous phrase in the passage discussing the bull for an unwitting communal sin alludes to the bull of Yom Kippur in order to teach the three *halakhot* of *et*, in the blood, and immersion, from the case of the bull for an unwitting sin of the anointed priest, which is also alluded to in that verse. The *baraita* states: **“And he shall do** with the bull, **as he did** with the bull for a sin offering” (Leviticus 4:20). **What** is the meaning when **the verse states “with the bull”?** This serves **to include the bull of Yom Kippur for all that is stated in** this **matter,** i.e., in the passage concerning the bull for an unwitting sin of the anointed priest, specifically the *halakhot* of *et*, in the blood, and immersion. This is **the statement of Rabbi** Yehuda HaNasi.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יִשְׁמָעֵאל: קַל וָחוֹמֶר! וּמָה בְּמָקוֹם שֶׁלֹּא הוּשְׁוָה קׇרְבָּן לְקׇרְבָּן – הִשְׁוָה מַעֲשִׂים לְמַעֲשִׂים; מָקוֹם שֶׁהִשְׁוָה קׇרְבָּן לְקׇרְבָּן – אֵינוֹ דִּין שֶׁיַּשְׁוֶה מַעֲשֶׂה לְמַעֲשֶׂה?!
+*Translation:* **Rabbi Yishmael said:** This inclusion is unnecessary, as these *halakhot* can be derived via **an *a fortiori*** inference: **Just as in a case in which** one **offering is not equated with** another **offering** of a different type of animal, the Torah **equated** the **actions** of sprinkling the blood in one offering **with** the **actions** of the blood in the other offering, as will be explained, in **a case in which** the Torah **equated** one **offering with** another **offering,** i.e., the bull for an unwitting sin of the anointed priest and the bull of Yom Kippur, **isn’t it logical that** the Torah **should equate** the **actions** of sprinkling the blood in the one offering **with** the **actions** of the blood in the other offering? Therefore, the derivation by way of a special inclusion is not necessary.
+
+**7.**
+*Hebrew/Aramaic:* אֶלָּא מָה תַּלְמוּד לוֹמַר ״לַפָּר״ – זֶה פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר. ״לְפַר״ – זֶה פַּר כֹּהֵן מָשִׁיחַ.
+*Translation:* **Rather, what** is the meaning when **the verse states:** “And he shall do with the bull, as he did with the bull for a sin offering”? With regard to the first instance of **“with the bull,” this is the bull for an unwitting communal sin.** And with regard to the second instance of **“with the bull,” this is the bull for** an unwitting sin of the **anointed priest.** And the verse serves to teach that just as in the first case, if the priest omitted one of the sprinklings, he has done nothing, the same is true in the second case.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר מָר: וּמָה בִּמְקוֹם שֶׁלֹּא הוּשְׁוָה קׇרְבָּן לְקׇרְבָּן. מַאי לֹא הוּשְׁוָה קׇרְבָּן לְקׇרְבָּן?
+*Translation:* The Gemara clarifies the *baraita*. **The Master said** above: **Just as in a case in which** one **offering is not equated with** another **offering. What** is the meaning of the expression: One **offering is not equated with** another **offering?** Which offerings are not brought from the same type of animal, but nevertheless the *halakhot* governing the sprinkling of their blood are the same?
+
+**9.**
+*Hebrew/Aramaic:* אִילֵּימָא פַּר יוֹם הַכִּפּוּרִים וּשְׂעִיר יוֹם הַכִּפּוּרִים – אִיכָּא לְמִיפְרַךְ: מָה לְהָנָךְ, שֶׁכֵּן נִכְנָס דָּמָם לִפְנַיי וְלִפְנִים!
+*Translation:* **If we say** that Rabbi Yishmael is referring to **the bull of Yom Kippur and the goat of Yom Kippur,** and from them he derives by way of an *a fortiori* inference that the actions concerning the bull of Yom Kippur are the same as those concerning the bull for an unwitting sin of the anointed priest, which are the same animal, this **can be refuted** as follows: **What** is notable **about these** offerings, the bull and the goat of Yom Kippur? They are notable **in that their blood enters the innermost sanctum,** the Holy of Holies. This is not so of the bull for an unwitting sin of the anointed priest, the blood of which is sprinkled only in the outer area of the Sanctuary.
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר וּשְׂעִירֵי עֲבוֹדָה זָרָה – אִיכָּא לְמִיפְרַךְ: מָה לְהָנָךְ, שֶׁכֵּן מְכַפְּרִין עַל עֲבֵירוֹת מִצְוָה יְדוּעָה!
+*Translation:* **Rather,** say that the reference here is to **the bull for an unwitting communal sin and the goats for** an unwitting communal sin of **idol worship.** But once again this claim **can be refuted: What** is notable **about these** offerings? They are notable **in that** they both **atone for the known transgressions of a mitzva,** whereas the bull of Yom Kippur atones for unknown transgressions (see *Shevuot* 2a).
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר וְשָׂעִיר שֶׁל יוֹם הַכִּפּוּרִים. וְהָכִי קָאָמַר: וּמָה בִּמְקוֹם שֶׁלֹּא הוּשְׁווּ קׇרְבָּן לְקׇרְבָּן – דְּהַאי פַּר וְהַאי שָׂעִיר, הוּשְׁווּ מַעֲשִׂים לְמַעֲשִׂים – לְמַאי דִּכְתַב בְּהוּ; מָקוֹם שֶׁהוּשְׁוָה קׇרְבָּן לְקׇרְבָּן – דְּהַאי פַּר וְהַאי פַּר, אֵינוֹ דִּין
+*Translation:* **Rather,** the reference here is to **the bull for an unwitting communal sin and the goat of Yom Kippur, and this** is what Rabbi Yishmael **is saying: Just as in a case in which** one **offering is not equated with** another **offering, as this** is **a bull and that** is **a goat,** nevertheless the **actions** of sprinkling the blood in one offering **are equated with** the **actions** of the blood in the other offering **with regard to that which is written concerning it,** in **a case in which** one **offering is equated with** another **offering,** i.e., the bull for an unwitting sin of the anointed priest and the bull of Yom Kippur, **as this** is **a bull and that** is **a bull, isn’t it logical**

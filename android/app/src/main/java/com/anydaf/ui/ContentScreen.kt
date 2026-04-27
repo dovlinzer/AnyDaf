@@ -149,6 +149,7 @@ fun ContentScreen(
             onDonate = {
                 val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://wl.donorperfect.net/weblink/weblink.aspx?name=yctorah&id=2"))
                 context.startActivity(intent)
+                contentViewModel.recordDonateClicked()
                 contentViewModel.dismissDonationNudge()
             },
             onDismiss = { contentViewModel.dismissDonationNudge() }
@@ -168,19 +169,32 @@ fun ContentScreen(
 
     val tractate = allTractates[selectedTractateIndex]
 
+    // Tractate/daf frozen at the moment audio starts — stays fixed while picker freely moves.
+    var audioLockedTractate by remember { mutableStateOf(tractate.name) }
+    var audioLockedDaf by remember { mutableStateOf(selectedDaf) }
+
+    // Tractate/daf to display and use for study sessions (locked to playing daf while audio plays).
+    val playingTractate = if (isAudioStopped) tractate.name else audioLockedTractate
+    val playingDaf = if (isAudioStopped) selectedDaf else audioLockedDaf
+
     // Always load on first appearance — mirrors iOS onAppear (no audio guard needed here).
     LaunchedEffect(Unit) {
         ShiurClient.load(tractate.name, selectedDaf)
     }
 
-    // Reload when daf/tractate changes (includes when saved prefs load on startup).
+    // Reload when daf/tractate changes — skip when audio is playing (locked to playing daf).
     LaunchedEffect(tractate.name, selectedDaf) {
-        ShiurClient.load(tractate.name, selectedDaf)
+        if (isAudioStopped) ShiurClient.load(tractate.name, selectedDaf)
     }
 
-    // When audio stops, sync segments to whatever daf the picker is now showing.
+    // When audio starts, freeze the locked daf. When it stops, sync to selected daf.
     LaunchedEffect(isAudioStopped) {
-        if (isAudioStopped) ShiurClient.load(tractate.name, selectedDaf)
+        if (!isAudioStopped) {
+            audioLockedTractate = tractate.name
+            audioLockedDaf = selectedDaf
+        } else {
+            ShiurClient.load(tractate.name, selectedDaf)
+        }
     }
 
     // Fall back to Daf view automatically if the new daf has no shiur text.
@@ -188,9 +202,9 @@ fun ContentScreen(
         if (shiurRewrite == null) showShiurText = false
     }
 
-    // Reset study session whenever the user navigates to a different daf/tractate.
+    // Reset study session when daf/tractate changes — skip when audio is playing.
     LaunchedEffect(tractate.name, selectedDaf) {
-        studyViewModel.endSession()
+        if (isAudioStopped) studyViewModel.endSession()
     }
 
     // Keep the active chapter marker in sync with audio playback.
@@ -405,7 +419,8 @@ fun ContentScreen(
                                         contentViewModel.selectDaf(newDaf.toDouble())
                                         contentViewModel.selectAmud(newAmud)
                                     },
-                                    modifier = Modifier.fillMaxSize()
+                                    modifier = Modifier.fillMaxSize(),
+                                    foregroundColor = appFg
                                 )
                             }
                         }
@@ -598,7 +613,7 @@ fun ContentScreen(
                                                     Spacer(Modifier.width(6.dp))
                                                 }
                                                 Text(
-                                                    "${tractate.name} ${selectedDaf.toInt()}",
+                                                    "${playingTractate} ${playingDaf.toInt()}",
                                                     style = MaterialTheme.typography.titleMedium.copy(fontWeight = androidx.compose.ui.text.font.FontWeight.Bold),
                                                     color = appFg
                                                 )
@@ -618,7 +633,7 @@ fun ContentScreen(
                                         Box(Modifier.fillMaxSize(), Alignment.Center) {
                                             Text("No written shiur available",
                                                 style = MaterialTheme.typography.bodyMedium,
-                                                color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                                color = appFg)
                                         }
                                     }
                                 }
@@ -632,7 +647,7 @@ fun ContentScreen(
                                         isAudioStopped = isAudioStopped,
                                         onStartStudy = {
                                             resourcesViewModel.reset()
-                                            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+                                            studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
                                         },
                                         modifier = Modifier.fillMaxSize()
                                     )
@@ -712,7 +727,7 @@ fun ContentScreen(
                                 Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = appFg.copy(alpha = 0.55f))
                                 Spacer(Modifier.width(4.dp))
                                 Text(
-                                    "${tractate.name} ${selectedDaf.toInt()}",
+                                    "${audioLockedTractate} ${audioLockedDaf.toInt()}",
                                     style = MaterialTheme.typography.labelSmall,
                                     color = appFg.copy(alpha = 0.55f)
                                 )
@@ -740,7 +755,8 @@ fun ContentScreen(
                                 contentViewModel.selectDaf(newDaf.toDouble())
                                 contentViewModel.selectAmud(newAmud)
                             },
-                            modifier = Modifier.fillMaxSize()
+                            modifier = Modifier.fillMaxSize(),
+                            foregroundColor = appFg
                         )
                     }
                 }
@@ -782,7 +798,7 @@ fun ContentScreen(
                     }
 
                     FilledTonalButton(
-                        onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
+                        onClick = { onStartStudy(playingTractate, playingDaf.toInt(), studyMode, quizMode) },
                         modifier = Modifier.weight(1f)
                     ) {
                         Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))

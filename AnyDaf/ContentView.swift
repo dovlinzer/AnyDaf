@@ -8,7 +8,7 @@ private enum IPadRightPanel: String {
 
 struct ContentView: View {
     @StateObject private var feedManager = FeedManager()
-    @StateObject private var audioPlayer = AudioPlayer()
+    @State private var audioPlayer = AudioPlayer()
     @StateObject private var studyManager = StudySessionManager()
     @StateObject private var readAloudManager = ReadAloudManager()
     @StateObject private var bookmarkManager = BookmarkManager()
@@ -38,11 +38,9 @@ struct ContentView: View {
     @State private var suppressTractateReset = false
     /// Prevents looping: only one automatic feed-refresh per play attempt.
     @State private var hasAutoRefreshedForAudio = false
-    /// Podcasts-style tap feedback: press-down + expanding halo ring.
-    @State private var backSkipPressed  = false
-    @State private var backRippleP: Double = 1
-    @State private var fwdSkipPressed   = false
-    @State private var fwdRippleP: Double  = 1
+    /// Tractate/daf frozen at the moment audio starts — stays fixed while picker freely moves.
+    @State private var audioLockedTractateIndex: Int = 0
+    @State private var audioLockedDaf: Double = 2.0
 
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
@@ -55,6 +53,10 @@ struct ContentView: View {
     @AppStorage("iPadRightPanel") private var iPadRightPanel: IPadRightPanel = .shiur
 
     var tractate: Tractate { allTractates[selectedTractateIndex] }
+
+    /// Tractate/daf to use for locked display and study sessions when audio is playing.
+    private var playingTractate: Tractate { allTractates[audioLockedTractateIndex] }
+    private var playingDaf: Double { audioLockedDaf }
 
     var currentAudioURL: URL? {
         feedManager.audioURL(tractate: tractate.name, daf: selectedDaf)
@@ -210,7 +212,11 @@ struct ContentView: View {
             }
         }
         .onChange(of: audioPlayer.isStopped) { _, isStopped in
-            guard isStopped else { return }
+            if !isStopped {
+                audioLockedTractateIndex = selectedTractateIndex
+                audioLockedDaf = selectedDaf
+                return
+            }
             shiurClient.reset()
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
         }
@@ -390,9 +396,11 @@ struct ContentView: View {
                         .colorScheme(useWhiteBackground ? .light : .dark)
                         .onChange(of: iPadRightPanel) { _, newPanel in
                             if newPanel == .study {
+                                let sessionTractate = audioPlayer.isStopped ? tractate.name : playingTractate.name
+                                let sessionDaf = audioPlayer.isStopped ? Int(selectedDaf) : Int(playingDaf)
                                 Task {
                                     await studyManager.startSession(
-                                        tractate: tractate.name, daf: Int(selectedDaf),
+                                        tractate: sessionTractate, daf: sessionDaf,
                                         mode: .facts, quizMode: quizMode)
                                 }
                             }
@@ -431,7 +439,8 @@ struct ContentView: View {
                 daf: $imageDaf,
                 displaySide: $imageSide,
                 selectedSide: $selectedSide,
-                pageManager: pageManager
+                pageManager: pageManager,
+                foregroundColor: appFg
             )
             .frame(maxWidth: .infinity, maxHeight: .infinity)
             .onLongPressGesture {
@@ -453,7 +462,9 @@ struct ContentView: View {
                             .font(.footnote)
                             .foregroundStyle(appFg.opacity(0.55))
                     }
-                    Text("\(tractate.name) \(Int(selectedDaf))")
+                    let headerTractate = audioPlayer.isStopped ? tractate : playingTractate
+                    let headerDaf = audioPlayer.isStopped ? selectedDaf : playingDaf
+                    Text("\(headerTractate.name) \(Int(headerDaf))")
                         .font(.headline)
                         .foregroundStyle(appFg)
                 }
@@ -563,7 +574,7 @@ struct ContentView: View {
                     withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
                     Task {
                         await studyManager.startSession(
-                            tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                            tractate: playingTractate.name, daf: Int(playingDaf), mode: .facts, quizMode: quizMode)
                     }
                 } label: {
                     Image(systemName: "book.circle.fill")
@@ -671,7 +682,7 @@ struct ContentView: View {
                         Image(systemName: "lock.fill")
                             .font(.caption2)
                             .foregroundStyle(appFg.opacity(0.55))
-                        Text("\(tractate.name) \(Int(selectedDaf))")
+                        Text("\(playingTractate.name) \(Int(playingDaf))")
                             .font(.caption2)
                             .foregroundStyle(appFg.opacity(0.55))
                         Spacer()
@@ -692,7 +703,8 @@ struct ContentView: View {
                     daf: $imageDaf,
                     displaySide: $imageSide,
                     selectedSide: $selectedSide,
-                    pageManager: pageManager
+                    pageManager: pageManager,
+                    foregroundColor: appFg
                 )
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .onLongPressGesture {
@@ -775,144 +787,12 @@ struct ContentView: View {
                 .padding(.vertical, 8)
 
             } else if !audioPlayer.isStopped {
-                // ── Playing / paused ─────────────────────────────────────
-                VStack(spacing: 2) {
-                    // Full-width progress bar
-                    Slider(
-                        value: Binding(
-                            get: { audioPlayer.duration > 0
-                                ? audioPlayer.currentTime / audioPlayer.duration : 0 },
-                            set: { audioPlayer.seek(to: $0) }
-                        )
-                    )
-                    .padding(.horizontal)
-                    .onChange(of: audioPlayer.currentTime) { _, newTime in
-                        shiurClient.updateCurrentSegment(currentTime: newTime)
-                    }
-
-                    // Chapter markers strip — only shown when segments are available
-                    if !shiurClient.segments.isEmpty && audioPlayer.duration > 0 {
-                        chapterStrip
-                    }
-
-                    // Playback controls row: elapsed | [⏪ ▶/⏸ ⏩ ⏹] | speed | total
-                    HStack(alignment: .center, spacing: 0) {
-                        Text(formatTime(audioPlayer.currentTime))
-                            .font(.caption.monospacedDigit())
-                            .foregroundStyle(appFg.opacity(0.7))
-                            .padding(.leading)
-
-                        Spacer()
-
-                        HStack(spacing: 8) {
-                            ZStack {
-                                Circle()
-                                    .stroke(appFg.opacity(0.45 * (1.0 - backRippleP)),
-                                            lineWidth: 1.5)
-                                    .scaleEffect(1.0 + CGFloat(backRippleP) * 0.5)
-                                    .frame(width: 38, height: 38)
-                                Image(systemName: "gobackward.30")
-                                    .font(.system(size: 24))
-                                    .foregroundStyle(canSkip
-                                                     ? appFg.opacity(0.8)
-                                                     : appFg.opacity(0.3))
-                                    .scaleEffect(backSkipPressed ? 0.82 : 1.0)
-                                    .animation(.spring(response: 0.15, dampingFraction: 0.5),
-                                               value: backSkipPressed)
-                            }
-                            .onTapGesture {
-                                guard canSkip else { return }
-                                audioPlayer.skip(by: -30)
-                                backSkipPressed = true
-                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
-                                    backSkipPressed = false
-                                }
-                                backRippleP = 0
-                                DispatchQueue.main.async {
-                                    withAnimation(.easeOut(duration: 0.4)) { backRippleP = 1 }
-                                }
-                            }
-
-                            Button {
-                                audioPlayer.togglePlayPause()
-                            } label: {
-                                Image(systemName: audioPlayer.isPlaying
-                                      ? "pause.circle.fill"
-                                      : "play.circle.fill")
-                                    .font(.system(size: 38))
-                                    .foregroundStyle(appFg)
-                            }
-
-                            ZStack {
-                                Circle()
-                                    .stroke(appFg.opacity(0.45 * (1.0 - fwdRippleP)),
-                                            lineWidth: 1.5)
-                                    .scaleEffect(1.0 + CGFloat(fwdRippleP) * 0.5)
-                                    .frame(width: 38, height: 38)
-                                Image(systemName: "goforward.30")
-                                    .font(.system(size: 24))
-                                    .foregroundStyle(canSkip
-                                                     ? appFg.opacity(0.8)
-                                                     : appFg.opacity(0.3))
-                                    .scaleEffect(fwdSkipPressed ? 0.82 : 1.0)
-                                    .animation(.spring(response: 0.15, dampingFraction: 0.5),
-                                               value: fwdSkipPressed)
-                            }
-                            .onTapGesture {
-                                guard canSkip else { return }
-                                audioPlayer.skip(by: 30)
-                                fwdSkipPressed = true
-                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) {
-                                    fwdSkipPressed = false
-                                }
-                                fwdRippleP = 0
-                                DispatchQueue.main.async {
-                                    withAnimation(.easeOut(duration: 0.4)) { fwdRippleP = 1 }
-                                }
-                            }
-
-                            Button {
-                                audioPlayer.stop()
-                            } label: {
-                                Image(systemName: "stop.circle.fill")
-                                    .font(.system(size: 38))
-                                    .foregroundStyle(appFg)
-                            }
-                            .padding(.leading, 14)
-                        }
-
-                        Spacer()
-
-                        Menu {
-                            ForEach([Float(0.5), 0.75, 1.0, 1.25, 1.5, 1.75, 2.0], id: \.self) { rate in
-                                Button {
-                                    audioPlayer.setRate(rate)
-                                } label: {
-                                    if rate == audioPlayer.playbackRate {
-                                        Label(formatSpeed(rate), systemImage: "checkmark")
-                                    } else {
-                                        Text(formatSpeed(rate))
-                                    }
-                                }
-                            }
-                        } label: {
-                            Text(formatSpeed(audioPlayer.playbackRate))
-                                .font(.caption.monospacedDigit().bold())
-                                .foregroundStyle(appFg)
-                                .padding(.horizontal, 7)
-                                .padding(.vertical, 3)
-                                .background(Capsule().fill(appFg.opacity(0.25)))
-                        }
-                        .padding(.trailing, 10)
-
-                        Text(formatTime(audioPlayer.duration))
-                            .font(.caption.monospacedDigit())
-                            .foregroundStyle(appFg.opacity(0.7))
-                            .padding(.trailing)
-                    }
-
-                }
-                .padding(.bottom, 2)
+                AudioPlayingControls(
+                    audioPlayer: audioPlayer,
+                    shiurClient: shiurClient,
+                    appFg: appFg,
+                    useWhiteBackground: useWhiteBackground
+                )
             }
 
             // "No episode" notice
@@ -949,46 +829,6 @@ struct ContentView: View {
         }
     }
 
-    // MARK: - Chapter Strip
-
-    /// Horizontal scrolling row of chapter marker pills shown below the progress bar.
-    /// Tapping a pill seeks to that chapter. The active chapter is highlighted.
-    @ViewBuilder private var chapterStrip: some View {
-        ScrollViewReader { proxy in
-            ScrollView(.horizontal, showsIndicators: false) {
-                HStack(spacing: 6) {
-                    ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
-                        let isActive = idx == shiurClient.currentSegmentIndex
-                        Button {
-                            audioPlayer.seek(to: seg.seconds / audioPlayer.duration)
-                        } label: {
-                            Text(seg.displayTitle)
-                                .font(.caption2)
-                                .lineLimit(1)
-                                .padding(.horizontal, 8)
-                                .padding(.vertical, 4)
-                                .background(
-                                    Capsule()
-                                        .fill(isActive
-                                              ? appFg.opacity(0.85)
-                                              : appFg.opacity(0.15))
-                                )
-                                .foregroundStyle(isActive
-                                                 ? (useWhiteBackground ? .white : SplashView.background)
-                                                 : appFg.opacity(0.8))
-                        }
-                        .id(idx)
-                    }
-                }
-                .padding(.horizontal)
-            }
-            .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
-                withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
-            }
-        }
-        .frame(height: 30)
-    }
-
     @ViewBuilder private var studyButtonView: some View {
         // On iPad the Shiur/Study picker in the left column replaces this button.
         if horizontalSizeClass != .regular {
@@ -1019,28 +859,183 @@ struct ContentView: View {
         currentAudioURL != nil && !feedManager.isLoading && !audioPlayer.isBuffering
     }
 
-    private var canSkip: Bool {
-        audioPlayer.duration > 0 && !audioPlayer.isBuffering
-    }
+}
 
-    private func formatSpeed(_ rate: Float) -> String {
-        switch rate {
-        case 0.5:  return "0.5×"
-        case 0.75: return "0.75×"
-        case 1.0:  return "1×"
-        case 1.25: return "1.25×"
-        case 1.5:  return "1.5×"
-        case 1.75: return "1.75×"
-        case 2.0:  return "2×"
-        default:   return String(format: "%.2g×", rate)
+private func formatSpeed(_ rate: Float) -> String {
+    switch rate {
+    case 0.5:  return "0.5×"
+    case 0.75: return "0.75×"
+    case 1.0:  return "1×"
+    case 1.25: return "1.25×"
+    case 1.5:  return "1.5×"
+    case 1.75: return "1.75×"
+    case 2.0:  return "2×"
+    default:   return String(format: "%.2g×", rate)
+    }
+}
+
+private func formatTime(_ seconds: Double) -> String {
+    guard seconds.isFinite, seconds >= 0 else { return "0:00" }
+    let mins = Int(seconds) / 60
+    let secs = Int(seconds) % 60
+    return "\(mins):\(String(format: "%02d", secs))"
+}
+
+// MARK: - Audio Playing Controls
+// Separate struct so only this view re-renders on currentTime ticks, not ContentView.
+@MainActor
+struct AudioPlayingControls: View {
+    let audioPlayer: AudioPlayer
+    @ObservedObject var shiurClient: ShiurClient
+    let appFg: Color
+    let useWhiteBackground: Bool
+
+    @State private var backSkipPressed = false
+    @State private var backRippleP: Double = 1
+    @State private var fwdSkipPressed  = false
+    @State private var fwdRippleP: Double = 1
+
+    private var canSkip: Bool { audioPlayer.duration > 0 && !audioPlayer.isBuffering }
+
+    var body: some View {
+        VStack(spacing: 2) {
+            Slider(
+                value: Binding(
+                    get: { audioPlayer.duration > 0 ? audioPlayer.currentTime / audioPlayer.duration : 0 },
+                    set: { audioPlayer.seek(to: $0) }
+                )
+            )
+            .padding(.horizontal)
+
+            if !shiurClient.segments.isEmpty && audioPlayer.duration > 0 {
+                chapterStrip
+            }
+
+            HStack(alignment: .center, spacing: 0) {
+                Text(formatTime(audioPlayer.currentTime))
+                    .font(.caption.monospacedDigit())
+                    .foregroundStyle(appFg.opacity(0.7))
+                    .padding(.leading)
+
+                Spacer()
+
+                HStack(spacing: 8) {
+                    ZStack {
+                        Circle()
+                            .stroke(appFg.opacity(0.45 * (1.0 - backRippleP)), lineWidth: 1.5)
+                            .scaleEffect(1.0 + CGFloat(backRippleP) * 0.5)
+                            .frame(width: 38, height: 38)
+                        Image(systemName: "gobackward.30")
+                            .font(.system(size: 24))
+                            .foregroundStyle(canSkip ? appFg.opacity(0.8) : appFg.opacity(0.3))
+                            .scaleEffect(backSkipPressed ? 0.82 : 1.0)
+                            .animation(.spring(response: 0.15, dampingFraction: 0.5), value: backSkipPressed)
+                    }
+                    .onTapGesture {
+                        guard canSkip else { return }
+                        audioPlayer.skip(by: -30)
+                        backSkipPressed = true
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) { backSkipPressed = false }
+                        backRippleP = 0
+                        DispatchQueue.main.async { withAnimation(.easeOut(duration: 0.4)) { backRippleP = 1 } }
+                    }
+
+                    Button { audioPlayer.togglePlayPause() } label: {
+                        Image(systemName: audioPlayer.isPlaying ? "pause.circle.fill" : "play.circle.fill")
+                            .font(.system(size: 38))
+                            .foregroundStyle(appFg)
+                    }
+
+                    ZStack {
+                        Circle()
+                            .stroke(appFg.opacity(0.45 * (1.0 - fwdRippleP)), lineWidth: 1.5)
+                            .scaleEffect(1.0 + CGFloat(fwdRippleP) * 0.5)
+                            .frame(width: 38, height: 38)
+                        Image(systemName: "goforward.30")
+                            .font(.system(size: 24))
+                            .foregroundStyle(canSkip ? appFg.opacity(0.8) : appFg.opacity(0.3))
+                            .scaleEffect(fwdSkipPressed ? 0.82 : 1.0)
+                            .animation(.spring(response: 0.15, dampingFraction: 0.5), value: fwdSkipPressed)
+                    }
+                    .onTapGesture {
+                        guard canSkip else { return }
+                        audioPlayer.skip(by: 30)
+                        fwdSkipPressed = true
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.14) { fwdSkipPressed = false }
+                        fwdRippleP = 0
+                        DispatchQueue.main.async { withAnimation(.easeOut(duration: 0.4)) { fwdRippleP = 1 } }
+                    }
+
+                    Button { audioPlayer.stop() } label: {
+                        Image(systemName: "stop.circle.fill")
+                            .font(.system(size: 38))
+                            .foregroundStyle(appFg)
+                    }
+                    .padding(.leading, 14)
+                }
+
+                Spacer()
+
+                Menu {
+                    ForEach([Float(0.5), 0.75, 1.0, 1.25, 1.5, 1.75, 2.0], id: \.self) { rate in
+                        Button {
+                            audioPlayer.setRate(rate)
+                        } label: {
+                            if rate == audioPlayer.playbackRate {
+                                Label(formatSpeed(rate), systemImage: "checkmark")
+                            } else {
+                                Text(formatSpeed(rate))
+                            }
+                        }
+                    }
+                } label: {
+                    Text(formatSpeed(audioPlayer.playbackRate))
+                        .font(.caption.monospacedDigit().bold())
+                        .foregroundStyle(appFg)
+                        .padding(.horizontal, 7)
+                        .padding(.vertical, 3)
+                        .background(Capsule().fill(appFg.opacity(0.25)))
+                }
+                .padding(.trailing, 10)
+
+                Text(formatTime(audioPlayer.duration))
+                    .font(.caption.monospacedDigit())
+                    .foregroundStyle(appFg.opacity(0.7))
+                    .padding(.trailing)
+            }
         }
+        .padding(.bottom, 2)
     }
 
-    private func formatTime(_ seconds: Double) -> String {
-        guard seconds.isFinite, seconds >= 0 else { return "0:00" }
-        let mins = Int(seconds) / 60
-        let secs = Int(seconds) % 60
-        return "\(mins):\(String(format: "%02d", secs))"
+    @ViewBuilder private var chapterStrip: some View {
+        ScrollViewReader { proxy in
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 6) {
+                    ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
+                        let isActive = idx == shiurClient.currentSegmentIndex
+                        Button {
+                            audioPlayer.seek(to: seg.seconds / audioPlayer.duration)
+                        } label: {
+                            Text(seg.displayTitle)
+                                .font(.caption2)
+                                .lineLimit(1)
+                                .padding(.horizontal, 8)
+                                .padding(.vertical, 4)
+                                .background(Capsule().fill(isActive ? appFg.opacity(0.85) : appFg.opacity(0.15)))
+                                .foregroundStyle(isActive
+                                                 ? (useWhiteBackground ? .white : SplashView.background)
+                                                 : appFg.opacity(0.8))
+                        }
+                        .id(idx)
+                    }
+                }
+                .padding(.horizontal)
+            }
+            .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
+                withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
+            }
+        }
+        .frame(height: 30)
     }
 }
 
@@ -1052,6 +1047,7 @@ struct DafPageView: View {
     @Binding var displaySide: Int   // actual displayed amud — lives in ContentView so daf+side updates are coalesced
     @Binding var selectedSide: Int  // picker selection only — does not change on swipe/arrow
     let pageManager: TalmudPageManager
+    var foregroundColor: Color = .white
 
     private func advanceAmud() {
         if displaySide == 0 {
@@ -1079,7 +1075,8 @@ struct DafPageView: View {
                     ZoomableAsyncImage(
                         url: url,
                         onSwipeLeft: advanceAmud,
-                        onSwipeRight: retreatAmud
+                        onSwipeRight: retreatAmud,
+                        foregroundColor: foregroundColor
                     )
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                     .clipShape(RoundedRectangle(cornerRadius: 26))

@@ -8,6 +8,7 @@ struct ZoomableAsyncImage: View {
     let url: URL?
     var onSwipeLeft:  (() -> Void)? = nil   // swipe left  → advance one amud
     var onSwipeRight: (() -> Void)? = nil   // swipe right → go back one amud
+    var foregroundColor: Color = .secondary
 
     @State private var scale: CGFloat = 1.0
     @State private var lastScale: CGFloat = 1.0
@@ -92,19 +93,20 @@ struct ZoomableAsyncImage: View {
                     VStack(spacing: 8) {
                         Image(systemName: "photo.slash")
                             .font(.largeTitle)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(foregroundColor)
                         Text("Image unavailable")
                             .font(.caption)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(foregroundColor)
                     }
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
 
                 default:
                     VStack(spacing: 8) {
                         ProgressView()
+                            .tint(foregroundColor)
                         Text("Loading page…")
                             .font(.caption)
-                            .foregroundStyle(.secondary)
+                            .foregroundStyle(foregroundColor)
                     }
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                 }

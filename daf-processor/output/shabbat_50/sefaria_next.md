@@ -1,0 +1,53 @@
+### Shabbat 51a
+
+**1.**
+*Hebrew/Aramaic:* לֹא מִשּׁוּם כִּלְאַיִם, וְלֹא מִשּׁוּם שְׁבִיעִית, וְלֹא מִשּׁוּם מַעֲשֵׂר, וְנִיטָּלִין בְּשַׁבָּת! תְּיוּבְתָּא.
+*Translation:* **due to diverse kinds,** i.e., that he violated the prohibition of planting food crops in a vineyard, as he did not commit an act of planting; **nor due to** concern that he violated the prohibition against working the land during **the Sabbatical** Year; **nor due to tithes,** i.e., that it would be considered as if he picked it from the ground and would be obligated to tithe it; **and they may be taken** from the ground **on Shabbat.** Even if most of the turnip or radish is underground, it is permitted to pull it from the ground on Shabbat. One need not be concerned about causing the earth to move. Apparently, this contradicts the opinions of Rav Huna and Shmuel, who were concerned about causing earth to move on Shabbat. The Gemara concludes: Indeed, this is **a conclusive refutation** of the opinions of Rav Huna and Shmuel.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ לֹא כִּסָּהוּ מִבְּעוֹד יוֹם — לֹא יְכַסֶּנּוּ מִשֶּׁתֶּחְשַׁךְ. כִּסָּהוּ וְנִתְגַּלָּה, מוּתָּר לְכַסּוֹתוֹ. מְמַלֵּא אֶת הַקִּיתוֹן וְנוֹתֵן לְתַחַת הַכַּר אוֹ תַּחַת הַכֶּסֶת.
+*Translation:* MISHNA: If **one did not cover** a pot of cooked food on Shabbat eve **while it was still day, he may not cover it after dark.** However, if **one covered it** while it was still day **and it was uncovered** on Shabbat, **he is permitted to cover it** even on Shabbat. **One may fill a jug** with cold water on Shabbat **and place** it **beneath a pillow or a cushion** to prevent it from getting warm.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מוּתָּר לְהַטְמִין אֶת הַצּוֹנֵן. אָמַר רַב יוֹסֵף: מַאי קָמַשְׁמַע לַן? תְּנֵינָא: מְמַלֵּא אָדָם קִיתוֹן וְנוֹתֵן תַּחַת הַכַּר אוֹ תַּחַת הַכֶּסֶת!
+*Translation:* GEMARA: **Rav Yehuda said** that **Shmuel said: It is permitted to insulate the cold** food on Shabbat to keep it cold. There is no concern that this will lead one to insulate hot food on Shabbat to keep it hot. **Rav Yosef said: What is** Shmuel **teaching us** with this statement? **We** already **learned** in our mishna: **One may fill a jug** with cold water on Shabbat **and place** it **beneath a pillow or a mattress** to prevent it from getting warm.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר לֵיהּ אַבָּיֵי: טוּבָא קָמַשְׁמַע לַן, דְּאִי מִמַּתְנִי׳ הֲוָה אָמֵינָא הָנֵי מִילֵּי — דָּבָר שֶׁאֵין דַּרְכּוֹ לְהַטְמִין, אֲבָל דָּבָר שֶׁדַּרְכּוֹ לְהַטְמִין לָא — קָמַשְׁמַע לַן.
+*Translation:* **Abaye said to him: He teaches us a great deal. As, if** it had been learned **from the mishna** alone, **I would have said** that the ruling that one is permitted to insulate cold food applies only to **something that is not ordinarily insulated** when it is hot. **However, something** that is **commonly insulated** when it is hot, **no,** it may not be insulated even when it is cold. Therefore, Shmuel **teaches us** that this is allowed even in the case of something which is commonly insulated when it is hot.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא אָמַר רַב: אָסוּר לְהַטְמִין אֶת הַצּוֹנֵן. וְהָתַנְיָא: רַבִּי הִתִּיר לְהַטְמִין אֶת הַצּוֹנֵן! לָא קַשְׁיָא, הָא מִקַּמֵּיהּ דְּלִישְׁמְעֵיהּ מֵרַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי, הָא לְבָתַר דְּלִישְׁמְעֵיהּ. כִּי הָא דְּיָתֵיב רַבִּי וְאָמַר: אָסוּר לְהַטְמִין אֶת הַצּוֹנֵן. אָמַר לְפָנָיו רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי: אַבָּא הִתִּיר לְהַטְמִין אֶת הַצּוֹנֵן. אָמַר: כְּבָר הוֹרָה זָקֵן.
+*Translation:* **Rav Huna said** that **Rabbi** Yehuda HaNasi **said: It is prohibited to insulate cold** food on Shabbat to keep it cold. The Gemara raises an objection: **Wasn’t it taught** in a *baraita* that **Rabbi** Yehuda HaNasi **permitted cold** food **to be insulated** on Shabbat? The Gemara answers: This is **not difficult. This** statement **was** made **before he heard** the ruling **of Rabbi Yishmael, son of Rabbi Yosei; that** statement in the *baraita* **was** made **after he heard it. As** in **that** incident **where Rabbi** Yehuda HaNasi **sat and said: It is prohibited to insulate cold** food on Shabbat to keep it cold, **Rabbi Yishmael, son of Rabbi Yosei, said before him: Father permitted insulating cold** food on Shabbat. Rabbi Yehuda HaNasi **said:** I retract my previous statement, as **the Elder,** Rabbi Yosei, **has already issued a ruling** on this topic, and I defer to his ruling.
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: בֹּא וּרְאֵה כַּמָּה מְחַבְּבִין זֶה אֶת זֶה. שֶׁאִילּוּ רַבִּי יוֹסֵי קַיָּים, הָיָה כָּפוּף וְיוֹשֵׁב לִפְנֵי רַבִּי. דְּהָא רַבִּי יִשְׁמָעֵאל בְּרַבִּי יוֹסֵי דִּמְמַלֵּא מְקוֹם אֲבוֹתָיו הֲוָה, וְכָפוּף וְיוֹשֵׁב לִפְנֵי רַבִּי, וְקָאָמַר: כְּבָר הוֹרָה זָקֵן.
+*Translation:* **Rav Pappa said: Come and see how much they loved each other. Had Rabbi Yosei** still been **alive, he would** have been **subordinate** to **and sitting before Rabbi** Yehuda HaNasi as his student, **as Rabbi Yishmael, son of Rabbi Yosei, who took his father’s place** and was as great a Torah scholar as his father, was **subordinate** to **and sitting before Rabbi** Yehuda HaNasi as his student. **And,** nevertheless, Rabbi Yehuda HaNasi **says: The Elder has already issued a ruling** on this topic, and he deferred to Rabbi Yosei’s ruling.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב נַחְמָן לְדָרוּ עַבְדֵּיהּ: אַטְמֵין לִי צוֹנֵן, וְאַיְיתִי לִי מַיָּא דְּאַחֵים קַפִּילָא אֲרַמָּאָה. שְׁמַע רַבִּי אַמֵּי וְאִיקְּפַד. אֲמַר רַב יוֹסֵף: מַאי טַעְמָא אִיקְּפַד? כְּרַבְּווֹתֵיהּ עָבֵיד — חֲדָא כְּרַב, וַחֲדָא כִּשְׁמוּאֵל.
+*Translation:* **Rav Naḥman said to Daru, his slave: Insulate cold** food **for me** on Shabbat, so that it will not become warm, **and bring me water that a gentile cook [*kappeila*] heated** on a weekday, as the prohibition to eat food cooked by a gentile does not apply to water. When **Rabbi Ami heard** this, **he became angry. Rav Yosef said: What** is **the reason** that Rabbi Ami **become angry?** Rav Naḥman **acted in accordance with** the rulings of **his teachers;** in **one** matter **in accordance with** the ruling of **Rav, and** in **one** matter **in accordance with** the ruling of **Shmuel.**
+
+**8.**
+*Hebrew/Aramaic:* כִּשְׁמוּאֵל — דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מוּתָּר לְהַטְמִין אֶת הַצּוֹנֵן. כְּרַב — דְּאָמַר רַב שְׁמוּאֵל בַּר רַב יִצְחָק אָמַר רַב: כֹּל שֶׁהוּא נֶאֱכָל כְּמוֹת שֶׁהוּא חַי — אֵין בּוֹ מִשּׁוּם בִּשּׁוּלֵי גּוֹיִם.
+*Translation:* The Gemara explains: In one matter **in accordance with** the ruling of **Shmuel, as Rav Yehuda said** that **Shmuel said: It is permitted to insulate cold** food on Shabbat to keep it cold. In one matter **in accordance with** the ruling of **Rav, as Rav Shmuel bar Rav Yitzḥak said** that **Rav said: Anything that is eaten as it is, raw,** and cooking it is unnecessary, even if it was cooked **it is not** subject **to** the prohibition of food **cooked by gentiles.** Since water is commonly drunk uncooked, one may drink it even if it was boiled by a gentile.
+
+**9.**
+*Hebrew/Aramaic:* (הוּא) סָבַר אָדָם חָשׁוּב שָׁאנֵי.
+*Translation:* The Gemara answers: Rabbi Ami became angry because **he held** that **an important person is different.** A distinguished person like Rav Naḥman should be stringent and distance himself from conduct that could be perceived, even mistakenly, as a prohibited act.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אַף עַל פִּי שֶׁאָמְרוּ אֵין טוֹמְנִין אֲפִילּוּ בְּדָבָר שֶׁאֵינוֹ מוֹסִיף הֶבֶל מִשֶּׁחָשֵׁכָה, אִם בָּא לְהוֹסִיף — מוֹסִיף. כֵּיצַד הוּא עוֹשֶׂה? רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: נוֹטֵל אֶת הַסְּדִינִין וּמַנִּיחַ אֶת הַגְּלוּפְקְרִין, אוֹ נוֹטֵל אֶת הַגְּלוּפְקְרִין וּמַנִּיחַ אֶת הַסְּדִינִין.
+*Translation:* **The Sages taught** in the *Tosefta*: **Although** the Sages **said** that **one may not insulate** hot food, **even in something that does not add heat after nightfall** on Shabbat, **if he comes to add** to the material in which he insulated the food on Shabbat eve, **he may add** to it even on Shabbat. **How** should **he do** it? **Rabban Shimon ben Gamliel said: He takes the sheets** with which he insulated a pot **and places the heavy blankets,** which provide better insulation, in their place. **Or,** if he is concerned about excessive heat, **he takes the heavy blankets** in which the pot had been insulated **and places the** lighter **sheets** in their place.
+
+**11.**
+*Hebrew/Aramaic:* וְכֵן הָיָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: לֹא אָסְרוּ אֶלָּא אוֹתוֹ מֵיחַם, אֲבָל פִּינָּה מִמֵּיחַם לְמֵיחַם — מוּתָּר. הַשְׁתָּא אוֹקוֹרֵי קָא מֵקֵיר לְהוּ, אַרְתּוֹחֵי קָא מַרְתַּח לְהוּ?!
+*Translation:* **And likewise, Rabban Shimon ben Gamliel,** in teaching an additional leniency, **said: They prohibited** insulating a pot on Shabbat to keep its contents warm when the food remains **only** in **the same urn** in which the water was boiled. **However, if one emptied** the water **from that urn into** another **urn, it is permitted** to insulate the second urn to keep the water warm. The reason for the ruling of Rabban Shimon ben Gamliel is: It is prohibited to insulate a pot on Shabbat, due to concern lest one heat the food beforehand. **Now** that **he has** already taken steps to **cool** the water by pouring it from one urn to another, is there concern that he will **boil it** again on Shabbat?
+
+**12.**
+*Hebrew/Aramaic:* טָמַן וְכִיסָּה בְּדָבָר הַנִּיטָּל בְּשַׁבָּת, אוֹ טָמַן בְּדָבָר שֶׁאֵינוֹ נִיטָּל בְּשַׁבָּת וְכִיסָּה בְּדָבָר הַנִּיטָּל בְּשַׁבָּת — הֲרֵי זֶה נוֹטֵל וּמַחֲזִיר.
+*Translation:* And Rabban Shimon ben Gamliel said: If **he insulated** the pot **and covered** it **with something that may be moved on Shabbat, or if he insulated** it **with something that may not be moved on Shabbat** because it is set-aside **and covered** it **with something that may be moved on Shabbat, he may take** the pot to remove food **and return** it to its place and not be concerned.
+
+**13.**
+*Hebrew/Aramaic:* טָמַן וְכִיסָּה בְּדָבָר שֶׁאֵינוֹ נִיטָּל בְּשַׁבָּת אוֹ שֶׁטָּמַן בְּדָבָר הַנִּיטָּל בְּשַׁבָּת, וְכִיסָּה בְּדָבָר שֶׁאֵינוֹ נִיטָּל בְּשַׁבָּת, אִם הָיָה מְגוּלֶּה מִקְצָתוֹ נוֹטֵל וּמַחֲזִיר. וְאִם לָאו —
+*Translation:* However, if **he** both **insulated** it **and covered** it **with something that may not be moved on Shabbat, or if he insulated** it **in something that may be moved on Shabbat and covered it with something that may not be moved on Shabbat, if** the pot **was partially exposed, he may remove** the pot and the cover will fall on its own **and** then **return** it to its place. **And if** the pot was **not** partially exposed,

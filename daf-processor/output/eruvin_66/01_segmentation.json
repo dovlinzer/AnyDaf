@@ -1,0 +1,402 @@
+{
+  "masechta": "Eruvin",
+  "daf": 66,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "The Inn Scenario: Non-Jew Arriving on Shabbat and the Question of Renting",
+      "display_title": "Inn Scenario & Renting",
+      "timestamp": "00:26",
+      "micro_segments": [
+        {
+          "title": "Background: Landlord Presence and Rental Rights from Previous Daf",
+          "display_title": "Landlord & Rental",
+          "timestamp": "00:26"
+        },
+        {
+          "title": "Case of Guests at an Inn: Non-Jewish Owner Arrives on Shabbat",
+          "display_title": "Non-Jew Arrives Shabbat",
+          "timestamp": "01:46"
+        },
+        {
+          "title": "The Problem: Eruv Made Before Shabbat Is Voided by Non-Jew's Arrival",
+          "display_title": "Eruv Voided",
+          "timestamp": "02:10"
+        },
+        {
+          "title": "Can We Rent from the Non-Jew on Shabbat Itself to Fix the Problem?",
+          "display_title": "Rent on Shabbat?",
+          "timestamp": "03:32"
+        }
+      ]
+    },
+    {
+      "title": "Comparing Sechirus to Eruv and Bitul Reshut: Is Renting Like Making an Eruv or Like Annulment?",
+      "display_title": "Sechirus Comparison",
+      "timestamp": "03:42",
+      "micro_segments": [
+        {
+          "title": "The Gemara's Question: Does Sechirus Require Eruv's Timing (Before Shabbat)?",
+          "display_title": "Timing Question",
+          "timestamp": "03:42"
+        },
+        {
+          "title": "Two Models: Sechirus as Eruv (Same Rules) vs. Sechirus as Bitul Reshut (Can Be Done on Shabbat)",
+          "display_title": "Two Models",
+          "timestamp": "04:00"
+        },
+        {
+          "title": "Lenient Comparisons Between Eruv and Sechirus: Bread, Hired Hand, Multiple Courtyards",
+          "display_title": "Lenient Comparisons",
+          "timestamp": "08:12"
+        },
+        {
+          "title": "Conclusion: Sechirus Can Work on Shabbat Like Bitul Reshut, Not Bound by Eruv's Timing",
+          "display_title": "Sechirus Works Shabbat",
+          "timestamp": "13:32"
+        }
+      ]
+    },
+    {
+      "title": "Shmuel's Principle: When Bitul Reshut Is Permitted—The Requirement of Osrin and Mearvin",
+      "display_title": "Shmuel's Principle",
+      "timestamp": "14:16",
+      "micro_segments": [
+        {
+          "title": "Shmuel's Rule: Bitul Reshut Works Only Where Presence Creates Problems and Eruv Is Possible",
+          "display_title": "Osrin & Mearvin",
+          "timestamp": "14:16"
+        },
+        {
+          "title": "Case 1: Two Courtyards One Inside the Other—Both Conditions Met",
+          "display_title": "Nested Courtyards",
+          "timestamp": "16:42"
+        },
+        {
+          "title": "Case 2: Two Courtyards with Separate Access to Public Domain—Eruv Possible but No Problem Created",
+          "display_title": "Separate Access",
+          "timestamp": "19:14"
+        },
+        {
+          "title": "Case 3: Non-Jew Present—Creates Problem but Eruv Not Possible Unless Present Before Shabbat",
+          "display_title": "Non-Jew Exception",
+          "timestamp": "21:20"
+        }
+      ]
+    },
+    {
+      "title": "Debate Over Bitul Reshut Between Courtyards: Shmuel's Restriction vs. Rabbi Yochanan's Leniency",
+      "display_title": "Shmuel vs. Yochanan",
+      "timestamp": "34:01",
+      "micro_segments": [
+        {
+          "title": "Shmuel: No Bitul Reshut from One Courtyard to Another or in a Churba (Alley)",
+          "display_title": "Shmuel Restricts",
+          "timestamp": "34:01"
+        },
+        {
+          "title": "Rabbi Yochanan: Bitul Reshut Is Permitted Both Between Courtyards and in a Churba",
+          "display_title": "Yochanan Permits",
+          "timestamp": "34:20"
+        },
+        {
+          "title": "Why Both Cases Matter: Separate Usage vs. Shared Space",
+          "display_title": "Usage vs. Space",
+          "timestamp": "34:45"
+        }
+      ]
+    },
+    {
+      "title": "Abaye and Rava: Further Refinement—When Inner and Outer Courtyards Can Use Bitul",
+      "display_title": "Abaye & Rava",
+      "timestamp": "38:58",
+      "micro_segments": [
+        {
+          "title": "Abaye's Position: Nested Courtyards Follow Shmuel's Principle of Osrin and Mearvin",
+          "display_title": "Abaye's View",
+          "timestamp": "38:58"
+        },
+        {
+          "title": "Rava's Objection: Even Nested Courtyards Cannot Freely Use Bitul in All Scenarios",
+          "display_title": "Rava Objects",
+          "timestamp": "40:26"
+        }
+      ]
+    },
+    {
+      "title": "Complex Scenarios of Shared Eruv: Where the Eruv Is Placed and Who Forgot Determines If Bitul Works",
+      "display_title": "Shared Eruv Scenarios",
+      "timestamp": "42:13",
+      "micro_segments": [
+        {
+          "title": "When Eruv Is in Outer Courtyard: No Bitul Solution Regardless of Who Forgot",
+          "display_title": "Eruv in Outer",
+          "timestamp": "42:13"
+        },
+        {
+          "title": "When Eruv Is in Inner Courtyard and Inner Person Forgets: No Bitul Solution",
+          "display_title": "Inner Eruv, Inner Forgot",
+          "timestamp": "49:58"
+        },
+        {
+          "title": "When Eruv Is in Inner Courtyard and Outer Person Forgets: Inner Permitted, Outer Forbidden",
+          "display_title": "Inner Eruv, Outer Forgot",
+          "timestamp": "50:01"
+        },
+        {
+          "title": "Why This Last Case Works: Outer Withdraws Its Right to the Eruv, Inner Seals Itself Off",
+          "display_title": "Why It Works",
+          "timestamp": "52:33"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Eruv (עירוב)",
+      "timestamps": [
+        "02:10",
+        "03:32",
+        "03:42",
+        "08:12",
+        "13:32",
+        "14:16",
+        "16:42",
+        "19:14",
+        "21:20",
+        "29:22",
+        "41:07",
+        "42:13",
+        "49:58",
+        "50:01",
+        "52:33"
+      ]
+    },
+    {
+      "term": "Sechirus (שכירות) - Renting from Non-Jew",
+      "timestamps": [
+        "02:47",
+        "03:02",
+        "03:32",
+        "03:42",
+        "04:00",
+        "05:03",
+        "08:29",
+        "13:32"
+      ]
+    },
+    {
+      "term": "Bitul Reshut (ביטול רשות) - Annulment of Domain Rights",
+      "timestamps": [
+        "04:20",
+        "04:29",
+        "05:08",
+        "14:16",
+        "14:29",
+        "15:21",
+        "18:12",
+        "26:01",
+        "28:10",
+        "30:44",
+        "33:44",
+        "34:01",
+        "34:20",
+        "38:58",
+        "40:26",
+        "41:07",
+        "48:01",
+        "49:58",
+        "50:01",
+        "52:33"
+      ]
+    },
+    {
+      "term": "Osrin (אוסרים) - Creating a Forbidden Situation",
+      "timestamps": [
+        "15:03",
+        "15:57",
+        "16:42",
+        "17:36",
+        "19:14",
+        "21:26",
+        "23:40",
+        "23:44",
+        "38:58"
+      ]
+    },
+    {
+      "term": "Mearvin (מערבים) - Ability to Make an Eruv Together",
+      "timestamps": [
+        "15:40",
+        "16:42",
+        "19:14",
+        "21:20",
+        "21:26",
+        "38:58"
+      ]
+    },
+    {
+      "term": "Shmuel (שמואל)",
+      "timestamps": [
+        "14:16",
+        "14:29",
+        "15:21",
+        "24:41",
+        "25:36",
+        "33:44",
+        "34:01",
+        "34:20",
+        "34:45",
+        "38:58"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan (רבי יוחנן)",
+      "timestamps": [
+        "06:40",
+        "07:15",
+        "34:20",
+        "34:45"
+      ]
+    },
+    {
+      "term": "Abaye (אביי)",
+      "timestamps": [
+        "25:41",
+        "29:11",
+        "38:58"
+      ]
+    },
+    {
+      "term": "Rava (רבא)",
+      "timestamps": [
+        "40:26"
+      ]
+    },
+    {
+      "term": "Rav Yosef (רב יוסף)",
+      "timestamps": [
+        "06:21",
+        "06:28",
+        "25:27",
+        "25:41",
+        "29:11",
+        "29:39"
+      ]
+    },
+    {
+      "term": "Rabbi Chanina bar Yosef (רבי חנינא בר יוסף)",
+      "timestamps": [
+        "00:26",
+        "01:46",
+        "06:21"
+      ]
+    },
+    {
+      "term": "Rabbi Chiya bar Abba (רבי חייא בר אבא)",
+      "timestamps": [
+        "01:46",
+        "06:31"
+      ]
+    },
+    {
+      "term": "Rabbi Assi (רבי אסי)",
+      "timestamps": [
+        "01:46",
+        "06:25"
+      ]
+    },
+    {
+      "term": "Chatzer (חצר) - Courtyard",
+      "timestamps": [
+        "14:49",
+        "15:03",
+        "16:42",
+        "19:14",
+        "19:46",
+        "26:01",
+        "27:52",
+        "29:39",
+        "33:44",
+        "34:01",
+        "34:20",
+        "38:58",
+        "40:26",
+        "41:07",
+        "42:13",
+        "49:58",
+        "50:01"
+      ]
+    },
+    {
+      "term": "Churba (חורבה) - Alley",
+      "timestamps": [
+        "26:29",
+        "27:20",
+        "28:29",
+        "34:01",
+        "34:20",
+        "34:45"
+      ]
+    },
+    {
+      "term": "Non-Jew's Presence and Halacha",
+      "timestamps": [
+        "01:59",
+        "02:03",
+        "02:10",
+        "02:32",
+        "02:39",
+        "02:43",
+        "02:47",
+        "03:08",
+        "03:14",
+        "21:20",
+        "21:26",
+        "21:39",
+        "22:01",
+        "23:37",
+        "23:40",
+        "23:44",
+        "23:57"
+      ]
+    },
+    {
+      "term": "Shabbat (שבת) - Laws and Restrictions",
+      "timestamps": [
+        "01:59",
+        "02:03",
+        "02:39",
+        "02:43",
+        "02:47",
+        "02:49",
+        "03:34",
+        "03:39",
+        "05:20",
+        "06:00",
+        "13:32"
+      ]
+    },
+    {
+      "term": "Halacha (הלכה) - Jewish Law",
+      "timestamps": [
+        "01:00",
+        "01:08",
+        "01:31"
+      ]
+    },
+    {
+      "term": "Mishna (משנה)",
+      "timestamps": [
+        "29:39",
+        "29:43",
+        "29:47",
+        "30:18",
+        "30:21",
+        "31:17",
+        "31:30",
+        "32:04"
+      ]
+    }
+  ]
+}

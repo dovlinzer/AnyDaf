@@ -1,0 +1,78 @@
+### Yevamot 81a
+
+**1.**
+*Hebrew/Aramaic:* לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַב הַמְנוּנָא, דְּאָמַר: שׁוֹמֶרֶת יָבָם שֶׁזִּינְּתָה פְּסוּלָה לִיבָמָהּ! לֹא: הוּא הַדִּין אֲפִילּוּ לְאַחֵר נָמֵי, וְאַיְּידֵי דִּתְנָא רֵישָׁא בְּדִידֵיהּ, תְּנָא נָמֵי סֵיפָא בְּדִידֵיהּ.
+*Translation:* **Shall we say** that this **is a conclusive refutation of** the opinion of **Rav Hamnuna, who said: A widow waiting for her *yavam*, who engaged in an act of licentious relations, is disqualified from** entering into levirate marriage with **her *yavam*,** like an ordinary married woman who committed adultery? The Gemara rejects this argument: **No,** this presents no difficulty for Rav Hamnuna, as it is possible that **the same is true even** in a case where she had relations **with a different** man, that she **too** would be disqualified from marrying into the priesthood. **But since** the *tanna* **taught the first clause with regard to** the *yavam* **himself, he also taught the latter clause with regard to** the *yavam* **himself,** even though the same *halakha* applies if she cohabitated with another.
+
+**2.**
+*Hebrew/Aramaic:* וְכֵן אַיְילוֹנִית שֶׁחָלְצוּ לָהּ אַחִין כּוּ׳. טַעְמָא דִּבְעָלוּהָ. הָא לֹא בְּעָלוּהָ — לָא. כְּמַאן? דְּלָא כְּרַבִּי יְהוּדָה, דְּאִי רַבִּי יְהוּדָה, הָאָמַר: אַיְילוֹנִית זוֹנָה הִיא.
+*Translation:* It is taught in the mishna: **And similarly,** with regard to **a sexually underdeveloped woman,** if one of **the brothers performed *ḥalitza* with her** he has not disqualified her, but if he engaged in intercourse with her he has disqualified her. The Gemara infers from this wording that **the reason** for her disqualification **is that he had intercourse with her; but** if **he did not have intercourse with her** she is **not** disqualified. **According to whose** opinion was this clause of the mishna taught? One must say that it was **not** taught **in accordance with** the opinion of **Rabbi Yehuda. As, if** one would claim that this teaching is in accordance with the opinion of **Rabbi Yehuda, didn’t he say** that **a sexually underdeveloped woman is** considered like **a woman who has had sexual relations with a man forbidden to her by the Torah [*zona*],** and so she is in any case disqualified from marrying into the priesthood?
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ סְרִיס חַמָּה כֹּהֵן שֶׁנָּשָׂא בַּת יִשְׂרָאֵל — מַאֲכִילָהּ בִּתְרוּמָה. רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹמְרִים: אַנְדְּרוֹגִינוֹס כֹּהֵן שֶׁנָּשָׂא בַּת יִשְׂרָאֵל — מַאֲכִילָהּ בִּתְרוּמָה.
+*Translation:* MISHNA: If **a priest who is a eunuch by natural causes married an Israelite woman,** he **enables her to eat *teruma*. Rabbi Yosei and Rabbi Shimon say:** If **a priest who is a hermaphrodite,** possessing both male and female genitals, **married an Israelite woman,** he **enables her to eat *teruma*.**
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: טוּמְטוּם שֶׁנִּקְרַע וְנִמְצָא זָכָר — לֹא יַחְלוֹץ, מִפְּנֵי שֶׁהוּא כְּסָרִיס. אַנְדְּרוֹגִינוֹס נוֹשֵׂא אֲבָל לֹא נִישָּׂא. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אַנְדְּרוֹגִינוֹס חַיָּיבִין עָלָיו סְקִילָה כַּזָּכָר.
+*Translation:* **Rabbi Yehuda says:** If **a *tumtum*,** whose external sexual organs are indeterminate, **was torn** open so that his genitals were exposed, **and he was found** to be **a male,** he **must not perform *ḥalitza*, because he is** treated **like a eunuch. A hermaphrodite may marry** a woman **but he may not be married** by a man, as he is considered a man. **Rabbi Eliezer says:** If one had intercourse with **a hermaphrodite,** he **is liable to** receive the punishment of **stoning on his account as if** he had had relations with **a male.**
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ פְּשִׁיטָא? מַהוּ דְּתֵימָא: מוֹלִיד — מַאֲכִיל, שֶׁאֵינוֹ מוֹלִיד — אֵינוֹ מַאֲכִיל, קָא מַשְׁמַע לַן.
+*Translation:* GEMARA: The Gemara questions the mishna’s teaching concerning a priest who was sexually impotent from birth: This **is obvious;** why should such a priest not enable his wife to partake of *teruma*? The Gemara answers: This *halakha* is necessary **lest you say** that since the verse states: “And such as are born in his house, they eat of his bread” (Leviticus 22:11), the allowance to eat *teruma* depends on the priest’s capacity to father children, i.e., that only **one who can father** children **enables** his wife **to eat** *teruma*, but **one who cannot father** children **does not enable** his wife **to eat** *teruma*. Therefore, the *tanna* **teaches us** that the priest’s capacity to have children is irrelevant.
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹמְרִים: אַנְדְּרוֹגִינוֹס. אָמַר רֵישׁ לָקִישׁ: מַאֲכִילָהּ בִּתְרוּמָה, וְאֵין מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. רַבִּי יוֹחָנָן אוֹמֵר: אַף מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. וּלְרֵישׁ לָקִישׁ, מַאי שְׁנָא חָזֶה וָשׁוֹק — דְּאוֹרָיְיתָא? תְּרוּמָה נָמֵי דְּאוֹרָיְיתָא!
+*Translation:* It is taught in the mishna that **Rabbi Yosei and Rabbi Shimon say:** If a priest who is **a hermaphrodite** married an Israelite woman, he enables her to eat *teruma*. **Reish Lakish said: He enables her to eat *teruma*, but he does not enable her to eat the breast and thigh** of peace-offerings. **Rabbi Yoḥanan says: He even enables her to eat the breast and thigh** of peace-offerings. The Gemara asks: **And according to Reish Lakish, what is different** about **the breast and thigh** of peace-offerings? If you say it is that they are **by Torah** law, ***teruma*** is **also by Torah** law. Why, then, is it permitted for her to eat *teruma*, but not the breast and thigh of peace-offerings?
+
+**7.**
+*Hebrew/Aramaic:* הָכָא בְּמַאי עָסְקִינַן — בִּתְרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן. אֲבָל בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים מַאי — לֹא? אַדְּתָנֵי ״אֵין מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק״, לִיפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים — בִּתְרוּמָה דְּרַבָּנַן, אֲבָל בִּתְרוּמָה דְּאוֹרָיְיתָא — לָא!
+*Translation:* The Gemara answers: **With what are we dealing here?** We are dealing **with *teruma* in the present,** after the destruction of the Temple, when *teruma* is in effect only **by rabbinic** law. The Gemara asks: **But when the Temple is standing, what** is the *halakha*? He does **not** enable his wife to eat *teruma*. But if so, there is a difficulty. **Instead of teaching** that **he does not enable her to eat the breast and thigh** of peace-offerings, **let him distinguish and teach** it **within** the case of *teruma* **itself** as follows: **In what** case **is this statement said?** It is said **with regard to *teruma*** that is in effect only **by rabbinic** law, **but with regard to *teruma*** that is in effect **by Torah** law this ruling does **not** apply.
+
+**8.**
+*Hebrew/Aramaic:* הָכִי נָמֵי קָאָמַר: כְּשֶׁהוּא מַאֲכִילָהּ — מַאֲכִילָהּ בִּתְרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן, וְאֵין מַאֲכִילָהּ בִּזְמַן חָזֶה וָשׁוֹק, וַאֲפִילּוּ בִּתְרוּמָה דְּרַבָּנַן, דִּלְמָא אָתֵי לְאוֹכֹלַהּ בִּתְרוּמָה דְּאוֹרָיְיתָא.
+*Translation:* The Gemara answers: **That is also what he is saying.** In other words, this is actually what Reish Lakish means, as his statement should be understood as follows: **When he enables her to eat, he enables her to eat *teruma* in the present,** when *teruma* is in effect only **by rabbinic** law, **but he does not enable her to eat** *teruma* **at a time** that **the breast and thigh** are given to the priests, i.e., when the Temple is standing, not **even *teruma*** that is in effect only **by rabbinic** law. This is due to the concern that **perhaps he will bring her to eat *teruma*** that is in effect **by Torah** law.
+
+**9.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: אַף מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. אֲמַר לֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: מִי סָבְרַתְּ תְּרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן? אֲמַר לֵיהּ: אִין, שֶׁאֲנִי שׁוֹנֶה: עִיגּוּל בְּעִגּוּלִים עוֹלֶה.
+*Translation:* However, **Rabbi Yoḥanan** disagrees and **says** that **he even enables her to eat the breast and thigh** of peace-offerings. With respect to this dispute, **Rabbi Yoḥanan said to Reish Lakish:** Since you distinguish between *teruma* and the breast and thigh, **do you maintain** that ***teruma* in the present** is mandated only **by rabbinic** law? **He said to him: Yes,** and the proof is **that I teach** that **a cake** of dried figs that became intermingled **with** other **cakes is nullified.** If a cake of *teruma* figs became intermingled with one hundred ordinary cakes, the cake is nullified and it is not necessary to treat them all as *teruma*. If the cake, which is a food of importance in its own right, is nullified, this must be because the *teruma* is only by rabbinic law.
+
+**10.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, וַהֲלֹא אֲנִי שׁוֹנֶה: חֲתִיכָה בַּחֲתִיכוֹת — עוֹלָה. מִי סָבְרַתְּ ״כׇּל שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ? ״אֶת שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ.
+*Translation:* Rabbi Yoḥanan **said to him: But don’t I teach** that even **a piece** of a sin-offering that became intermingled **with** other **pieces** of meat **is nullified,** as I maintain that the *halakha* of nullification applies even to Torah prohibitions? **Do you maintain** that **we learned** that **any** object **that it is usual to count,** i.e., any object that is even occasionally sold by unit, rather than by weight or measure, is considered to be important and therefore cannot be nullified? This is not so, as in fact **we learned** that only **that which it is usual to count,** i.e., an object that is always sold by unit and in no other manner, is considered to be important and is therefore not subject to nullification; and cakes of dried figs are not always sold by unit.
+
+**11.**
+*Hebrew/Aramaic:* מַאי הִיא — דִּתְנַן: מִי שֶׁהָיוּ לוֹ חֲבִילֵי תִלְתָּן שֶׁל כִּלְאֵי הַכֶּרֶם — יִדְלְקוּ. נִתְעָרְבוּ בַּאֲחֵרוֹת —
+*Translation:* The Gemara asks: **What is** this *halakha* to which Rabbi Yoḥanan alludes? **As we learned** in a mishna (*Orla* 3:6–7): In the case of **one who had bundles of clover,** a type of legume, **of** a forbidden mixture of **food crops in a vineyard,** i.e., clover plants that grew in a vineyard, these bundles **must be burned,** as it is prohibited for one to derive benefit from a forbidden mixture of food crops in a vineyard. If the forbidden bundles **became intermingled with others** that are permitted,
+
+
+---
+
+### Yevamot 81b
+
+**1.**
+*Hebrew/Aramaic:* כּוּלָּן יִדָּלְקוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: יַעֲלוּ בְּאֶחָד וּמָאתַיִם. שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר: כֹּל שֶׁדַּרְכּוֹ לִימָּנוֹת — מְקַדֵּשׁ. וַחֲכָמִים אוֹמְרִים: אֵינוֹ מְקַדֵּשׁ אֶלָּא שִׁשָּׁה דְּבָרִים בִּלְבַד. רַבִּי עֲקִיבָא אוֹמֵר: שִׁבְעָה.
+*Translation:* **they must all be burned;** this is **the statement of Rabbi Meir. And the Rabbis say: They are nullified in** a mixture of **one** part forbidden food **to two hundred** parts permitted food. **As Rabbi Meir would say: Any** object **that it is usual to count renders** a mixture **prohibited.** In other words, objects that are counted and sold by the unit, rather than by weight or estimation, are considered of special importance, and so they cannot be nullified by any majority and therefore must be burned. **But the Rabbis say: Only six objects** are important enough that they cannot be nullified and therefore **render** their mixtures **forbidden. Rabbi Akiva says:** There are **seven** such objects.
+
+**2.**
+*Hebrew/Aramaic:* אֵלּוּ הֵן: אֱגוֹזֵי פֶרֶךְ, וְרִמּוֹנֵי בָּדָן, וְחָבִיּוֹת סְתוּמוֹת, וְחִלְפֵי תְרָדִין, וְקוּלְחֵי כְּרוּב, וְדַלַּעַת יְוָנִית. וְרַבִּי עֲקִיבָא מוֹסִיף אַף כִּכָּרוֹת שֶׁל בַּעַל הַבַּיִת. הָרְאוּיִן לְעׇרְלָה — עׇרְלָה. לְכִלְאֵי הַכֶּרֶם — כִּלְאֵי הַכֶּרֶם.
+*Translation:* **They are** as follows: **Perekh nuts,** high-quality nuts from a place called Perekh; **Badan pomegranates,** pomegranates from a place called Badan; **sealed barrels** of wine; **shoots of beet; cabbage stalks; and Greek gourd. Rabbi Akiva adds,** as his seventh item, **a homeowner’s loaves.** Different prohibitions apply to these seven items: **Those that are fit for** the prohibition of ***orla*,** fruit that grows in the first three years after a tree has been planted, i.e., the nuts and pomegranates, render the entire mixture ***orla*. Those that are fit** for the prohibition proscribing a mixture of **food crops in a vineyard,** i.e., the beets, cabbage, and gourd, render the entire mixture a mixture of **food crops in a vineyard.**
+
+**3.**
+*Hebrew/Aramaic:* רַבִּי יוֹחָנָן סָבַר: ״אֶת שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ. וְרֵישׁ לָקִישׁ סָבַר: ״כֹּל שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ.
+*Translation:* And it was stated that *amora’im* disagreed about the precise wording of this mishna: **Rabbi Yoḥanan holds** that **we learned: That which it is usual to count,** i.e., Rabbi Meir’s stringent ruling is limited to objects that are sold exclusively by unit. **And Reish Lakish holds** that **we learned: Any** object **that it is usual to count,** i.e., even items that are only sometimes sold by unit are considered important and cannot be nullified.
+
+**4.**
+*Hebrew/Aramaic:* מַאי חֲתִיכָה — דְּתַנְיָא: חֲתִיכָה שֶׁל חַטָּאת טְמֵאָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חַטָּאוֹת טְהוֹרוֹת, וְכֵן פְּרוּסָה שֶׁל לֶחֶם הַפָּנִים טְמֵאָה שֶׁנִּתְעָרְבָה בְּמֵאָה פְּרוּסוֹת שֶׁל לֶחֶם הַפָּנִים טְהוֹרוֹת — תַּעֲלֶה. רַבִּי יְהוּדָה אוֹמֵר: לֹא תַּעֲלֶה.
+*Translation:* The Gemara further explains: **What is** the case of **a piece,** referred to by Rabbi Yoḥanan? **As it is taught** in a *baraita*: If **a piece of a ritually impure sin-offering became intermingled with one hundred pieces of ritually pure sin-offerings, and similarly,** if **a slice of ritually impure shewbread became intermingled with one hundred slices of ritually pure showbread,** the impure piece of a sin-offering or slice of shewbread **is nullified** in its respective mixture. **Rabbi Yehuda says: It is not nullified.**
+
+**5.**
+*Hebrew/Aramaic:* אֲבָל חֲתִיכָה שֶׁל חַטָּאת טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חוּלִּין טְהוֹרוֹת, וְכֵן פְּרוּסָה שֶׁל לֶחֶם הַפָּנִים טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה פְּרוּסוֹת שֶׁל חוּלִּין טְהוֹרוֹת — דִּבְרֵי הַכֹּל לָא תַּעֲלֶה.
+*Translation:* **However,** if **a piece of a ritually pure sin-offering became intermingled with one hundred pieces of ritually pure non-sacred** meat, **and similarly,** if **a slice of ritually pure shewbread became intermingled with one hundred slices of ritually pure non-sacred bread, everyone agrees that** the pure piece of sin-offering or slice of shewbread **is not nullified** in its respective mixture.
+
+**6.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהַת רֵישָׁא תַּעֲלֶה! אָמַר רַבִּי חִיָּיא בְּרֵיהּ דְּרַב הוּנָא: בְּנִימּוֹחָה.
+*Translation:* The Gemara asks: **In any event, the first clause** of this *baraita* **teaches** that a piece of ritually impure sin-offering **can be nullified.** This poses a difficulty with respect to the opinion of Reish Lakish, as such a piece of meat is an item that is sometimes counted and considered important in its own right, and it is forbidden by Torah law, but nevertheless it can still be nullified. **Rabbi Ḥiyya, son of Rav Huna, said:** This *baraita* is referring not to a whole piece of meat but **to one that had been crushed** and broken into small parts. Once it is no longer a whole piece, it loses its importance and can be nullified.
+
+**7.**
+*Hebrew/Aramaic:* אִי הָכִי, מַאי טַעְמָא דְּרַבִּי יְהוּדָה?
+*Translation:* The Gemara asks: **If** it is **so** that the piece has been crushed, **what is the reason for Rabbi Yehuda’s** opinion that the piece is not nullified?

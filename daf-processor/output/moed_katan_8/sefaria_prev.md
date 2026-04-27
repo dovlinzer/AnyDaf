@@ -1,0 +1,53 @@
+### Moed Katan 7b
+
+**1.**
+*Hebrew/Aramaic:* בְּהֶסְגֵּר שֵׁנִי. מָר סָבַר: בְּכֹהֵן תַּלְיָא מִילְּתָא. אִי טָהוֹר — אָמַר לֵיהּ ״טָהוֹר״, וְאִי טָמֵא — שָׁתֵיק. וּמָר סָבַר: ״לְטַהֲרוֹ אוֹ לְטַמְּאוֹ״ כְּתִיב.
+*Translation:* **it is with regard to** a suspected leper who is already in his **second** week of **quarantine. One Sage,** Rabbi Meir, **holds** that **the matter depends upon** the discretion of **the priest; if he is** found ritually **pure, the priest declares him pure, and if he is** found **ritually impure, the priest** can **remain silent.** As long as the priest does not declare the affected individual ritually impure, he does not become impure. **And one Sage,** Rabbi Yosei, **holds** that since **it is written:** “This is the law of the plague of leprosy…**to pronounce it pure or to pronounce it impure”** (Leviticus 13:59), the priest is not permitted to be silent; just as he is obligated to declare him pure when that is the case, so too, he is bound to declare him impure when his symptoms indicate impurity.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר מָר, אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יוֹסֵי בְּמוּחְלָט, וְדִבְרֵי רַבִּי מֵאִיר בְּמוּסְגָּר. וְהָתַנְיָא אִיפְּכָא!
+*Translation:* The Gemara proceeds to analyze the *baraita*. **The Master said** that **Rabbi** Yehuda HaNasi **said: The statement of Rabbi Yosei appears** correct **with regard to a confirmed leper, and the statement of Rabbi Meir appears** correct **with regard to a quarantined** leper. The Gemara raises an objection: **But isn’t the opposite taught** in a different *baraita*, namely, that Rabbi Yosei’s statement appears correct with regard to the case of a quarantined leper, while Rabbi Meir’s statement appears correct with regard to the case of a confirmed leper?
+
+**3.**
+*Hebrew/Aramaic:* תַּנָּאֵי הִיא אַלִּיבָּא דְּרַבִּי. מָר סָבַר: צַוְותָּא דְעָלְמָא עֲדִיף לֵיהּ.
+*Translation:* The Gemara answers: **This is** a dispute between ***tanna’im* in accordance with** the opinion of **Rabbi** Yehuda HaNasi. **One Sage,** the author of the latter *baraita*, **holds that the company of the world** at large **is preferable to** the leper. Consequently, the priest may examine a confirmed leper during the Festival because the priest will either decide that the leper’s symptoms are still present, in which case the leper’s situation will be no worse than before, or the priest will declare that his symptoms have subsided, in which case the leper may reenter the community, which will bring him joy.
+
+**4.**
+*Hebrew/Aramaic:* וּמָר סָבַר: צַוְותָּא דְאִשְׁתּוֹ עֲדִיפָא לֵיהּ.
+*Translation:* **And one Sage,** the author of the *baraita* (7a), **holds that the company of his wife is preferable to** the leper. Consequently, the priest may not examine a confirmed leper on the Festival, because if he declares that his symptoms have subsided, the leper will begin his seven day purification process, during which time he is prohibited from engaging in conjugal relations with his wife. Due to the distress that this causes him, it is preferable that the priest not examine him at all during the Festival.
+
+**5.**
+*Hebrew/Aramaic:* לְמֵימְרָא דְּמוּחְלָט מוּתָּר בְּתַשְׁמִישׁ הַמִּטָּה? אִין, וְהָתַנְיָא: ״וְיָשַׁב מִחוּץ לְאׇהֳלוֹ שִׁבְעַת יָמִים״, שֶׁיְּהֵא אָסוּר בְּתַשְׁמִישׁ הַמִּטָּה. וְאֵין ״אׇהֳלוֹ״ אֶלָּא אִשְׁתּוֹ, שֶׁנֶּאֱמַר: ״לֵךְ אֱמוֹר לָהֶם שׁוּבוּ לָכֶם לְאׇהֳלֵיכֶם״. רַבִּי יְהוּדָה אוֹמֵר: ״שִׁבְעַת יָמִים יִסְפְּרוּ לוֹ״, יְמֵי סְפִירוֹ וְלֹא יְמֵי חִלּוּטוֹ.
+*Translation:* The Gemara asks: **Is this to say that a confirmed** leper **is permitted** to engage **in conjugal relations** with his wife? The Gemara answers: **Yes, and so** too **it is taught** in a *baraita*: With regard to a leper who is counting his seven days, it is written: **“But he shall remain outside his tent seven days”** (Leviticus 14:8). This verse teaches **that** the leper **is prohibited** from engaging **in conjugal relations,** as the words **his tent** refer **only** to **his wife, as it is stated: “Go, say to them: Return again to your tents” (**Deuteronomy 5:27). **Rabbi Yehuda says:** The verse states: “And after he is cleansed, **they shall count for him seven days”** (Ezekiel 44:26), indicating that he is prohibited from having conjugal relations during **the days of his counting, but not** during **the days of his confirmed** leprosy.
+
+**6.**
+*Hebrew/Aramaic:* רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: שִׁבְעָה יְמֵי סְפִירוֹ, קַל וָחוֹמֶר לִימֵי חִלּוּטוֹ.
+*Translation:* **Rabbi Yosei, son of Rabbi Yehuda, says:** Since the verse indicates that the prohibition to engage in conjugal relations applies during **the seven days of his counting** before becoming ritually pure, it follows based on an ***a fortiori*** inference that the prohibition should also apply during **the days of his confirmed** leprosy, when his impurity is more severe.
+
+**7.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי חִיָּיא, דַּנְתִּי לִפְנֵי רַבִּי: לִימַּדְתָּנוּ רַבֵּינוּ, יוֹתָם לֹא הָיָה לוֹ לְעוּזִּיָּהוּ אֶלָּא בִּימֵי חִלּוּטוֹ, אָמַר לוֹ: אַף אֲנִי כָּךְ אָמַרְתִּי.
+*Translation:* **And Rabbi Ḥiyya said: I deliberated** this matter **before Rabbi** Yehuda HaNasi and said: **Have you** not **taught us, our teacher,** that King **Jotham was only** born **to Uzziah,** the king of Judah, **during the days of his confirmed** leprosy? This would indicate that a confirmed leper is permitted to engage in conjugal relations. Rabbi Yehuda HaNasi **said to him: I too said this;** I am also of the opinion that a confirmed leper is permitted to engage in conjugal relations, in contrast to the opinion of Rabbi Yosei, son of Rabbi Yehuda.
+
+**8.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה סָבַר: גַּלִּי רַחֲמָנָא בִּימֵי סְפִירוֹ וְכׇל שֶׁכֵּן בִּימֵי חִלּוּטוֹ. וּמָר סָבַר: מַאי דְּגַלִּי — גַּלִּי, וּמַאי דְּלָא גַּלִּי — לָא גַּלִּי.
+*Translation:* The Gemara asks: **With regard to what** principle do **they disagree?** The Gemara explains that **Rabbi Yosei, son of Rabbi Yehuda, holds: The Merciful One revealed** the prohibition of conjugal relations with one’s wife **during the days of his counting; and all the more so** the prohibition applies **during his days of confirmed** leprosy, when his ritual impurity is more severe. **And one Sage,** Rabbi Yehuda, **maintains: That which** the verse **revealed, it revealed, but that which it did not reveal, it did not reveal;** the prohibition is not interpreted in a way that adds an extra stringency beyond what is stated explicitly in the Torah.
+
+**9.**
+*Hebrew/Aramaic:* לְמֵימְרָא דִּבְכֹהֵן תַּלְיָא מִילְּתָא? אִין, וְהָתַנְיָא: ״וּבְיוֹם הֵרָאוֹת בּוֹ״. יֵשׁ יוֹם שֶׁאַתָּה רוֹאֶה בּוֹ, וְיֵשׁ יוֹם שֶׁאִי אַתָּה רוֹאֶה בּוֹ.
+*Translation:* § The Gemara returns to the original dispute with regard to the priest’s examination of the symptoms of leprosy. **Is this to say that the matter depends upon** the discretion of **the priest,** i.e., the priest can decide whether to declare the affected person ritually pure or impure or whether to examine the leprous symptoms or not? The Gemara answers: **Yes, and** so too **it is taught** in a *baraita*: The verse states: **“But on the day it appears in him”** (Leviticus 13:14), from which it may be inferred that **there is a day when you examine** the symptoms found in **him and there is a day when you do not examine** those symptoms.
+
+**10.**
+*Hebrew/Aramaic:* מִכָּאן אָמְרוּ: חָתָן שֶׁנּוֹלַד בּוֹ נֶגַע — נוֹתְנִין לוֹ שִׁבְעָה יְמֵי הַמִּשְׁתֶּה. לוֹ וּלְבֵיתוֹ וְלִכְסוּתוֹ. וְכֵן בָּרֶגֶל — נוֹתְנִין לוֹ שִׁבְעַת יְמֵי הָרֶגֶל, דִּבְרֵי רַבִּי יְהוּדָה.
+*Translation:* **From here they stated:** With regard to **a bridegroom upon whom leprous symptoms came into being, we give him the seven days of the** wedding **feast** before the examination that determines ritual purity or impurity. This ruling applies whether the leprous symptoms appeared **upon him, upon his house, or upon his clothing. Similarly,** if the symptoms of leprosy appeared upon an individual **during a pilgrimage Festival, we give him the seven days of the Festival** in order to avoid causing him distress during that time; this is **the statement of Rabbi Yehuda.**
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי אוֹמֵר: אֵינוֹ צָרִיךְ. הֲרֵי הוּא אוֹמֵר: ״וְצִוָּה הַכֹּהֵן וּפִנּוּ אֶת הַבַּיִת״. אִם מַמְתִּינִים לוֹ לִדְבַר הָרְשׁוּת — כׇּל שֶׁכֵּן לִדְבַר מִצְוָה.
+*Translation:* **Rabbi** Yehuda HaNasi **says:** The ruling is correct, but **there is no need** to prove it from this verse, as a much simpler proof can be brought from a different source. **It says: “Then the priest shall command that they empty the house** before the priest goes into it to see the plague, so that all that is in the house be not made unclean” (Leviticus 14:36). **If we delay** the priest’s examination of the house in order to give the owner time to remove his utensils and prevent them from contracting ritual impurity, which is merely **an optional matter, all the more so** should we delay his examination **for a matter of mitzva,** e.g., so as not to detract from the bridegroom’s joy or from the joy of a Festival.
+
+**12.**
+*Hebrew/Aramaic:* מַאי בֵּינַיְיהוּ? אָמַר אַבָּיֵי: מַשְׁמָעוּת דּוֹרְשִׁין אִיכָּא בֵּינַיְיהוּ. וְרָבָא אָמַר: דְּבַר הָרְשׁוּת אִיכָּא בֵּינַיְיהוּ.
+*Translation:* The Gemara asks: **What is** the practical difference **between them,** whether the source of the *halakha* is one verse or another? **Abaye said:** There is no practical difference between the opinions; rather, **the interpretation of the meaning** of the verses **is** the difference **between them,** as each has a different interpretation of the verse from which the other derived this *halakha*. **And Rava said:** There is in fact a practical difference **between them** with regard to whether or not one delays the examination of leprous symptoms found on an individual’s body for **an optional matter.** Rabbi Yehuda holds that one delays the examination only for the sake of a mitzva, while Rabbi Yehuda HaNasi holds that one may delay it even for the sake of an optional matter.
+
+**13.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה — מֵהָתָם לָא גָּמְרִינַן, דְּחִידּוּשׁ הוּא,
+*Translation:* The Gemara asks: **And** according to the opinion of **Rabbi Yehuda,** why is it not permitted to delay the priest’s examination of leprous symptoms on an individual’s body for an optional matter, just as with regard to leprous symptoms on one’s house? The Gemara answers: **We do not learn** a halakhic principle **from there because** the *halakha* of leprosy of houses **is** itself **a novelty,** a unique biblical law from which one cannot extrapolate to other cases.

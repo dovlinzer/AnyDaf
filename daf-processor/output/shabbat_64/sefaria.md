@@ -1,0 +1,170 @@
+### Shabbat 64a
+
+**1.**
+*Hebrew/Aramaic:* ״כְּלִי״ ״כְּלִי״ מֵהָתָם.
+*Translation:* **from** the word **vessel** written **there,** with regard to the *halakhot* of ritual impurity imparted by a corpse, and the word **vessel** written with regard to the *halakhot* of other impurities.
+
+**2.**
+*Hebrew/Aramaic:* מוּסָף שַׂק עַל הַבֶּגֶד שֶׁטָּמֵא מִשּׁוּם אָרִיג. אַטּוּ בֶּגֶד לָאו אָרִיג הוּא?! הָכִי קָאָמַר: מוּסָף שַׂק עַל הַבֶּגֶד, אַף עַל פִּי שֶׁאֵינוֹ אָרִיג — טָמֵא. לְמַאי חֲזֵי? אָמַר רַבִּי יוֹחָנָן: שֶׁכֵּן עָנִי קוֹלֵעַ שָׁלֹשׁ נִימִין וְתוֹלָה בְּצַוַּאר בִּתּוֹ.
+*Translation:* It was taught in the *baraita* that **a sack is added** to the category of “**garment”; it** too **is ritually impure due to woven fabric.** The Gemara asks: **Is that to say that a garment is not a woven fabric?** Rather, the statement should be emended and **say as follows: A sack** made from goat hair **is added to the category of garment; even though it is not woven it** can nevertheless become **ritually impure.** The Gemara asks: **For what is** a garment made of unwoven goat hair **suitable? Rabbi Yoḥanan said: Since a poor person** occasionally **braids three** goat **hairs and hangs it on his daughter’s neck** as an ornament.
+
+**3.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: ״שָׂק״ — אֵין לִי אֶלָּא שַׂק, מִנַּיִין לְרַבּוֹת אֶת הַקִּילְקְלִי וְאֶת הַחֲבָק — תַּלְמוּד לוֹמַר: ״אוֹ שָׂק״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אֶת הַחֲבָלִים וְאֶת הַמְּשִׁיחוֹת — תַּלְמוּד לוֹמַר: ״שָׂק״. מָה שַׂק טְוִוי וְאָרִיג — אַף כֹּל טְוִוי וְאָרִיג.
+*Translation:* **The Sages taught** a detailed halakhic exposition of that verse in a different *baraita*. From the fact that the verse mentioned **sack, I have only** derived that **a** whole **sack** can become ritually impure. **From where** is it derived **to include** even **reins [*kilkeli*] and a saddle band** fastened under the horse’s belly in the category of those objects that can become ritually impure? **The verse states: “Or sack”;** “or” teaches that the verse is referring to items similar to a sack as well. **I might** have thought, on that basis, **that I** should **include** even **the ropes and** measuring **cords. The verse states: “Sack,” just as a sack is spun and woven, so too, everything that is spun and woven** can become ritually impure. Ropes and measuring cords are not made from spun threads, and they are certainly not woven.
+
+**4.**
+*Hebrew/Aramaic:* הֲרֵי הוּא אוֹמֵר בְּמֵת: ״וְכׇל כְּלִי עוֹר וְכׇל מַעֲשֵׂה עִזִּים וְגוֹ׳ תִּתְחַטָּאוּ״ — לְרַבּוֹת הַקִּילְקְלִי וְאֶת הַחֲבָק.
+*Translation:* The *baraita* continues: **Now, it says with regard to** the *halakhot* of ritual impurity imparted by **a corpse:** “And every garment **and all that is made of skins and all work of goats’** hair and all things made of wood **you shall purify”** (Numbers 31:20). This verse comes **to include reins and the band** under the horse’s belly within the category of: All work of goats’ hair. They too can become ritually impure.
+
+**5.**
+*Hebrew/Aramaic:* יָכוֹל שֶׁאֲנִי מְרַבֶּה אֶת הַחֲבָלִים וְאֶת הַמְּשִׁיחוֹת? וְדִין הוּא: טִימֵּא בַּשֶּׁרֶץ, וְטִימֵּא בַּמֵּת. מָה כְּשֶׁטִּימֵּא בַּשֶּׁרֶץ — לֹא טִימֵּא אֶלָּא טְוִוי וְאָרִיג, אַף כְּשֶׁטִּימֵּא בַּמֵּת — לֹא טִימֵּא אֶלָּא טְוִוי וְאָרִיג.
+*Translation:* I **might** have thought **that I** would **include even the ropes and** thin **cords** in this category. The Gemara begins with a logical analysis. **And it** may be inferred **logically** to the contrary, that a rope cannot become impure. The verse **deemed impure** an object that came in contact **with a creeping animal, and it deemed impure** an object that came in contact **with a corpse. Just as when it rendered** an object **impure from** contact **with a creeping animal it only rendered impure** objects **spun and woven,** as stated above; **so too, when it rendered impure** an object from contact **with a corpse, it only rendered impure** objects **spun and woven.**
+
+**6.**
+*Hebrew/Aramaic:* הֵן אִם הֵיקֵל בְּטוּמְאַת שֶׁרֶץ שֶׁהִיא קַלָּה, נָקֵיל בְּטוּמְאַת הַמֵּת שֶׁהִיא חֲמוּרָה?! — תַּלְמוּד לוֹמַר ״בֶּגֶד״ וָ״עוֹר״ ״בֶּגֶד״ וָ״עוֹר״ לִגְזֵירָה שָׁוָה.
+*Translation:* There is room to distinguish: Are these **indeed** comparable? **If** the Torah **was lenient with regard to the ritual impurity of** an object that came in contact **with a creeping animal, which is a less severe** form of impurity, saying that ropes do not become impure from contact with that form of ritual impurity, **will we be lenient with regard to ritual impurity** imparted by **a corpse, which is** more **severe?** Perhaps, since impurity imparted by a corpse is more severe, even objects not woven and spun, e.g., ropes, become ritually impure from contact with it. Therefore, **the verse states garment and leather, garment and leather to** establish **a verbal analogy.**
+
+**7.**
+*Hebrew/Aramaic:* נֶאֱמַר ״בֶּגֶד״ וָ״עוֹר״ בְּשֶׁרֶץ וְנֶאֱמַר ״בֶּגֶד״ וָ״עוֹר״ בְּמֵת. מָה בֶּגֶד וָעוֹר הָאָמוּר בְּשֶׁרֶץ — לֹא טִימֵּא אֶלָּא טְוִוי וְאָרִיג, אַף בֶּגֶד וָעוֹר הָאָמוּר בְּמֵת — לֹא טִימֵּא אֶלָּא טְוִוי וְאָרִיג.
+*Translation:* The term **garment and leather is stated with regard to** ritual impurity imparted by **a creeping animal:** “And whatever any of them falls upon when they are dead will be impure whether it be any vessel of wood, or a garment, or leather, or sack, whatever vessel it be with which any work is done it must be put into water and it will be impure until evening, then it will be clean” (Leviticus 11:32). **And garment and leather is stated with regard to** ritual impurity imparted by **a corpse. Just as garment and leather stated with regard to a creeping animal only rendered impure** objects that are **spun and woven, so too, garment and leather stated with regard to a corpse only rendered impure** objects that are **spun and woven.**
+
+**8.**
+*Hebrew/Aramaic:* וּמָה בֶּגֶד וָעוֹר הָאָמוּר בְּמֵת — טִמֵּא כׇּל מַעֲשֵׂה עִזִּים, אַף בֶּגֶד וָעוֹר הָאָמוּר בְּשֶׁרֶץ — טִמֵּא כׇּל מַעֲשֵׂה עִזִּים.
+*Translation:* Utilizing the same verbal analogy, one could say: **And just as garment and leather stated with regard to a corpse rendered impure any** object that is the **work of goats’** hair, **so too, garment and leather stated with regard to a creeping animal rendered impure any** object that is the **work of goats’** hair.
+
+**9.**
+*Hebrew/Aramaic:* אֵין לִי אֶלָּא דָּבָר הַבָּא מִן הָעִזִּים, מִנַּיִין לְרַבּוֹת דָּבָר הַבָּא מִזְּנַב הַסּוּס וּמִזְּנַב הַפָּרָה? — תַּלְמוּד לוֹמַר: ״אוֹ שָׂק״.
+*Translation:* **I have only** derived from this verbal analogy that **an object that comes from goats** can become ritually impure; **from where** do I derive **to include an item that comes from a horse’s tail or from a cow’s tail? The verse states: Or a sack,** and anything like a sack, i.e., these other items as well.
+
+**10.**
+*Hebrew/Aramaic:* וְהָא אַפֵּיקְתֵּיהּ לְקִילְקְלִי וַחֲבָק?
+*Translation:* The Gemara asks: **Didn’t you** already **derive** ritual impurity with regard to **reins and a saddle band** from this verse? How can ritual impurity for items that come from a horse’s tail and a cow’s tail be derived from the same verse?
+
+**11.**
+*Hebrew/Aramaic:* הָנֵי מִילֵּי מִקַּמֵּי דְּתֵיתֵי גְּזֵירָה שָׁוָה, הַשְׁתָּא דְּאָתְיָא גְּזֵירָה שָׁוָה אִיַּיתַּר לֵיהּ.
+*Translation:* The Gemara answers: **That applies only before the verbal analogy was cited; now that the verbal analogy was cited,** the verse **is rendered extraneous.** The fact that any item that falls in the category of: “And all work of goats’ hair,” can become ritually impure is derived from the verbal analogy. Reins and a saddle bands are included in the category of work of goats’ hair. Therefore, they need not be derived from that phrase. Consequently, a different *halakha* can be derived from that extraneous phrase: Objects that come from a horse’s tail or a cow’s tail can become ritually impure.
+
+**12.**
+*Hebrew/Aramaic:* וְאֵין לִי אֶלָּא בְּשֶׁרֶץ, בְּטוּמְאַת מֵת מִנַּיִין?
+*Translation:* The *baraita* continues: **And I have** derived that an object made from a horse’s tail can become impure **only with regard to a creeping animal;** however, **with regard to a corpse, from where** is this derived?
+
+**13.**
+*Hebrew/Aramaic:* וְדִין הוּא: טִימֵּא בְּמֵת וְטִימֵּא בְּשֶׁרֶץ. מָה כְּשֶׁטִּימֵּא בְּשֶׁרֶץ — עָשָׂה דָּבָר הַבָּא מִזְּנַב הַסּוּס וּמִזְּנַב הַפָּרָה כְּמַעֲשֵׂה עִזִּים, אַף כְּשֶׁטִּימֵּא בְּמֵת — עָשָׂה דָּבָר הַבָּא מִזְּנַב הַסּוּס וּמִזְּנַב הַפָּרָה כְּמַעֲשֵׂה עִזִּים.
+*Translation:* The Gemara begins with a logical analysis. **And it** may be inferred **logically** that this is so. The Torah **rendered impure** a sack that came into contact **with a corpse and rendered impure** a sack that came into contact **with a creeping animal. Just as when** the Torah **rendered** items that came into contact **with a creeping animal impure it made** the legal status of **that which comes from a horse’s tail and a cow’s tail equal to** the legal status of **that which is made from goats’** hair, i.e., that it contracts ritual impurity, **so too when** the Torah **rendered impure** items that came into contact **with a corpse, it made** the legal status of **that which comes from a horse’s tail and a cow’s tail equal to** the legal status of **that which is made from goats’** hair.
+
+**14.**
+*Hebrew/Aramaic:* הֵן אִם רִיבָּה בְּטוּמְאַת עֶרֶב שֶׁהִיא מְרוּבָּה, נְרַבֶּה בְּטוּמְאַת שִׁבְעָה שֶׁהִיא מוּעֶטֶת?!
+*Translation:* The Gemara rejects this: Are these **indeed** comparable? **If** the verse **added** additional objects **to** the category of **ritual impurity** that lasts until **nightfall,** e.g., the impurity imparted by a creeping animal, **which is extensive, will we add** additional objects **to** the category of **ritual impurity that lasts for seven days, which is limited** to the case of impurity from a corpse? The fact that items made of a horse’s tail or a cow’s tail are added to the already broad category of ritual impurity that lasts until nightfall is not necessarily an indication that they are to be added to the category of ritual impurity that lasts seven days.
+
+**15.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״בֶּגֶד״ וָ״עוֹר״ ״בֶּגֶד״ וָ״עוֹר״ לִגְזֵירָה שָׁוָה. נֶאֱמַר ״בֶּגֶד״ וָ״עוֹר״ בְּשֶׁרֶץ, וְנֶאֱמַר ״בֶּגֶד״ וָ״עוֹר״ בְּמֵת. מָה ״בֶּגֶד״ וָ״עוֹר״ הָאָמוּר בְּשֶׁרֶץ — עָשָׂה דָּבָר הַבָּא מִזְּנַב הַסּוּס וּמִזְּנַב הַפָּרָה כְּמַעֲשֵׂה עִזִּים, אַף ״בֶּגֶד״ וָ״עוֹר״ הָאָמוּר בְּמֵת — עָשָׂה דָּבָר הַבָּא מִזְּנַב הַסּוּס וּמִזְּנַב הַפָּרָה כְּמַעֲשֵׂה עִזִּים.
+*Translation:* **The verse states: Garment and leather, garment and leather to** establish **a verbal analogy. Garment and leather is stated with regard to** ritual impurity imparted by **a creeping animal, and garment and leather is stated with regard to** ritual impurity imparted by **a corpse. Just as** with regard to the **garment and leather stated in** the *halakhot* of **a creeping animal** the Torah **rendered** the legal status of **an item made from a horse’s tail or a cow’s tail equal to** the legal status of **that which is made from goats’** hair, **so too,** with regard to the **garment and leather stated in** the *halakhot* of **a corpse,** the Torah **rendered** the legal status of **an item made from a horse’s tail or a cow’s tail equal to** the legal status of **that which is made from goats’** hair.
+
+**16.**
+*Hebrew/Aramaic:* וּמוּפְנֶה. דְּאִי לָאו מוּפְנֶה, אִיכָּא לְמִיפְרַךְ: מָה לְשֶׁרֶץ שֶׁכֵּן מְטַמֵּא בְּכַעֲדָשָׁה?!
+*Translation:* The Gemara notes: **And** it must be that the words garment and leather are **free.** Those terms must be superfluous in their context. The Torah included those terms for the express purpose of establishing the verbal analogy. A verbal analogy that is based on otherwise extraneous terms cannot be logically refuted. **Because if** these terms are **not free,** the verbal analogy **can be refuted: What** is unique **to a creeping animal?** Its ritual impurity is stringent **in that** it **renders** objects **ritually impure** even **by means of** contact with **a lentil-bulk** of a creeping animal. That is not the case with regard to a corpse, which is less severe in that it renders objects ritually impure only by means of contact with an olive-bulk of a corpse. Unless the terms are free, the analogy can be refuted.
+
+**17.**
+*Hebrew/Aramaic:* לָאיֵי אִפְּנוֹיֵי מוּפְנֵי. מִכְּדֵי שֶׁרֶץ אִיתַּקַּשׁ לְשִׁכְבַת זֶרַע, דִּכְתִיב: ״אִישׁ אֲשֶׁר תֵּצֵא מִמֶּנּוּ שִׁכְבַת זָרַע״, וּסְמִיךְ לֵיהּ: ״אִישׁ אֲשֶׁר יִגַּע בְּכׇל שֶׁרֶץ״, וּכְתִיב בֵּיהּ בְּשִׁכְבַת זֶרַע: ״וְכׇל בֶּגֶד וְכׇל עוֹר אֲשֶׁר יִהְיֶה עָלָיו שִׁכְבַת זָרַע״ — ״בֶּגֶד״ וָ״עוֹר״ דִּכְתַב רַחֲמָנָא בְּשֶׁרֶץ לְמָה לִי? שְׁמַע מִינַּהּ לְאַפְנוֹיֵי.
+*Translation:* **Indeed [*la’ei*], they are free.** The Gemara proves that the terms garment and leather are extraneous in their context. **Now, since** ritual impurity from contact with **a creeping animal is juxtaposed to** ritual impurity from contact with **semen, as it is written:** “And whoever touches anything that is impure by the dead or a **man from whom semen is emitted”** (Leviticus 22:4), **and juxtaposed to that** is the verse: **“Or whoever touches any creeping animal** which makes him impure, or a person who may make him impure with any impurity that he has” (Leviticus 22:5). **And it is written** in the *halakhot* **of** the ritual impurity of **semen: “And every garment and every hide on which the semen is** must be washed with water and will be impure until evening” (Leviticus 15:17). Since the verses appear next to each other, the *halakhot* of each can be derived from the other. Consequently, the words **garment and leather, which the Torah wrote with regard to a creeping animal, why do I need** them? The relevant *halakha* could be derived from the *halakhot* of seminal impurity. **Learn from it** that garment and leather were mentioned **to render them free.**
+
+**18.**
+*Hebrew/Aramaic:* וְאַכַּתִּי מוּפְנֶה מִצַּד אֶחָד הוּא. הָנִיחָא לְמַאן דְּאָמַר מוּפְנֶה מִצַּד אֶחָד לְמֵידִין וְאֵין מְשִׁיבִין. אֶלָּא לְמַאן דְּאָמַר לְמֵידִין וּמְשִׁיבִין, מַאי אִיכָּא לְמֵימַר?
+*Translation:* The Gemara comments: **And still, it is free only from one side** of the verbal analogy. Although the terms garment and leather stated with regard to ritual impurity imparted by a creeping animal are extraneous in their context, and the relevant *halakha* could have been derived in another manner, those terms stated with regard to ritual impurity imparted by a corpse are not extraneous in their context. This verbal analogy is only free from one side. **It** works out **well according to the** opinion of the **one who said,** with regard to a verbal analogy that is **free from** only **one side, one can derive from it and cannot refute** it logically. **However, according to** the opinion of **the one who said** that **one can derive from** a verbal analogy of this kind **and one can refute** it logically, **what can be said?**
+
+**19.**
+*Hebrew/Aramaic:* דְּמֵת נָמֵי אִפְּנוֹיֵי מוּפְנֶה: מִכְּדִי מֵת אִתַּקַּשׁ לְשִׁכְבַת זֶרַע, דִּכְתִיב: ״וְהַנֹּגֵעַ בְּכׇל טְמֵא נֶפֶשׁ אוֹ אִישׁ אֲשֶׁר תֵּצֵא מִמֶּנּוּ שִׁכְבַת זָרַע״, וּכְתִיב בְּשִׁכְבַת זֶרַע: ״וְכׇל בֶּגֶד וְכׇל עוֹר״ — ״בֶּגֶד״ וָ״עוֹר״ דִּכְתַב רַחֲמָנָא בְּמֵת לְמָה לִי? — שְׁמַע מִינַּהּ לְאַפְנוֹיֵי.
+*Translation:* The Gemara answers: Garment and leather stated **with regard to** impurity imparted by a **corpse are also free. Now, since a corpse is juxtaposed with semen, as it is written: “And whoever touches anything that is impure by the dead or a man whose semen is emitted from him”** (Leviticus 22:4); **and it is stated with regard to semen: “And every garment and every hide”** (Leviticus 15:17); the terms **garment and leather, which the Torah wrote with regard to** ritual impurity imparted by **a corpse, why do I** need them? **Learn from it** that they are mentioned in order **to render them free.** These terms are extraneous in their context, and were written for the purpose of the verbal analogy with the *halakhot* of creeping animals.
+
+**20.**
+*Hebrew/Aramaic:* ״וַנַּקְרֵב אֶת קׇרְבַּן ה׳ אִישׁ אֲשֶׁר מָצָא כְלִי זָהָב אֶצְעָדָה וְצָמִיד טַבַּעַת עָגִיל וְכוּמָז״. אָמַר רַבִּי אֶלְעָזָר: ״עָגִיל״ — זֶה דְּפוּס שֶׁל דַּדִּין. ״כּוּמָז״ — זֶה דְּפוּס שֶׁל בֵּית הָרֶחֶם.
+*Translation:* The Gemara interprets verses written with regard to the Midianite war discussed above: **“And we have brought an offering before the Lord what every man has gotten of jewels of gold, chains, and bracelets, rings, *agil*, and *kumaz*,** to make atonement for our souls before the Lord” (Numbers 31:50). **Rabbi Elazar said: *Agil* is a mold** in the shape of a woman’s **breasts** worn over them as an ornament. ***Kumaz* is a mold** in the shape **of the womb.**
+
+**21.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: אִי הָכִי, הַיְינוּ דִּמְתַרְגְּמִינַן ״מָחוֹךְ״ — דָּבָר הַמֵּבִיא לִידֵי גִּיחוּךְ. אֲמַר לֵיהּ רַבָּה: מִגּוּפֵיהּ דִּקְרָא שְׁמַע מִינַּהּ, ״כּוּמָז״ — כָּאן מְקוֹם זִימָּה.
+*Translation:* **Rav Yosef said: If so, that is** the reason **that we translate** *kumaz* into Aramaic as ***maḥokh*,** meaning **an item that leads to foolishness. Rabba said to him: This** meaning **is learned from the verse itself; *kumaz*** is an acronym for: **Here [*kan*]** is the **place of [*mekom*] lewdness [*zimma*].**
+
+**22.**
+*Hebrew/Aramaic:* ״וַיִּקְצֹף מֹשֶׁה עַל פְּקוּדֵי הֶחָיִל״. אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: אָמַר לָהֶן מֹשֶׁה לְיִשְׂרָאֵל, שֶׁמָּא חֲזַרְתֶּם לְקִלְקוּלְכֶם הָרִאשׁוֹן? אָמְרוּ לוֹ: ״לֹא נִפְקַד מִמֶּנּוּ אִישׁ״. אָמַר לָהֶן: אִם כֵּן כַּפָּרָה לָמָּה? אָמְרוּ לוֹ: אִם מִידֵי עֲבֵירָה יָצָאנוּ, מִידֵי הִרְהוּר לֹא יָצָאנוּ! מִיָּד ״וַנַּקְרֵב אֶת קׇרְבַּן ה׳״.
+*Translation:* Later in that chapter, it is written: **“And Moses was angry with the officers of the host,** the captains over thousands, and captains over hundreds, who came from the battle” (Numbers 31:14); **Rav Naḥman said** that **Rabba bar Avuh said** that **Moses said to Israel: Perhaps you have returned to your original sinful** behavior, when you sinned with the daughters of Moab and Midian at Shittim? **They said to him: “Not one man of us is missing”** (Numbers 31:49), we remain as wholesome in deed as we were. **He said to them: If so, why** do you need **atonement?** The princes brought these ornaments to atone for their souls. **They said to him: If we have emerged from the grasps of** actual **transgression, we have not emerged from the grasps of thoughts** of transgression. **Immediately,** they decided: **“And we have brought an offering before the Lord.”**
+
+**23.**
+*Hebrew/Aramaic:* תָּנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: מִפְּנֵי מָה הוּצְרְכוּ יִשְׂרָאֵל שֶׁבְּאוֹתוֹ הַדּוֹר כַּפָּרָה — מִפְּנֵי
+*Translation:* The Sage **of the school of Rabbi Yishmael taught: For what** reason **did Israel in that generation require atonement? Because**
+
+
+---
+
+### Shabbat 64b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁזָּנוּ עֵינֵיהֶם מִן הָעֶרְוָה.
+*Translation:* **they nourished their eyes from nakedness.**
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: מִפְּנֵי מָה מָנָה הַכָּתוּב תַּכְשִׁיטִין שֶׁבַּחוּץ עִם תַּכְשִׁיטִין שֶׁבִּפְנִים? — לוֹמַר לָךְ: כׇּל הַמִּסְתַּכֵּל בְּאֶצְבַּע קְטַנָּה שֶׁל אִשָּׁה כְּאִילּוּ מִסְתַּכֵּל בִּמְקוֹם הַתּוּרְפָּה.
+*Translation:* With regard to the verse that lists the ornaments, **Rav Sheshet said: For what reason did the verse list outer ornaments,** i.e., a bracelet, **with inner ornaments,** i.e., a *kumaz*? **To tell you** that **anyone who gazes upon a woman’s little finger** is considered **as if he gazed upon her** naked **genitals.** The atonement was for the sin of looking.
+
+**3.**
+*Hebrew/Aramaic:* מַתְנִי׳ יוֹצְאָה אִשָּׁה בְּחוּטֵי שֵׂעָר, בֵּין מִשֶּׁלָּהּ בֵּין מִשֶּׁל חֲבֶירְתָּהּ בֵּין מִשֶּׁל בְּהֵמָה.
+*Translation:* MISHNA: The mishna continues to discuss those items with which it is permitted to go out and those items with which it is prohibited to go out on Shabbat. **A woman may go out with strands of hair** that she put on her head, **whether** they are **from her own** hair that she made into a wig, **or whether** they are **from** the hair of **another, or whether they are from** the hair of **an animal.**
+
+**4.**
+*Hebrew/Aramaic:* וּבְטוֹטֶפֶת, וּבְסַרְבִּיטִין בִּזְמַן שֶׁהֵן תְּפוּרִין.
+*Translation:* **And** a woman may go out **with** an ornament called ***totefet*, and with *sarvitin* when they are sewn** and will not fall.
+
+**5.**
+*Hebrew/Aramaic:* בְּכָבוּל וּבְפֵאָה נׇכְרִית לֶחָצֵר. בְּמוֹךְ שֶׁבְּאׇזְנָהּ, וּבְמוֹךְ שֶׁבְּסַנְדָּלָהּ, וּבְמוֹךְ שֶׁהִתְקִינָה לְנִדָּתָהּ.
+*Translation:* She may go out on Shabbat **with** a **woolen cap or with a wig to the courtyard,** although not to the public domain. **And** likewise she may go out **with a cloth that is in her ear, and with a cloth in her sandal, and with a cloth that she placed due to her menstrual** status.
+
+**6.**
+*Hebrew/Aramaic:* בְּפִילְפֵּל, וּבְגַלְגַּל מֶלַח, וְכׇל דָּבָר שֶׁנִּיתָּן לְתוֹךְ פִּיהָ, וּבִלְבַד שֶׁלֹּא תִּתֵּן לְכַתְּחִלָּה בְּשַׁבָּת, וְאִם נָפַל — לֹא תַּחֲזִיר.
+*Translation:* She may go out on Shabbat **with pepper, or with a grain of salt, or anything placed in her mouth** for healing or for preventing bad odor, **as long as she does not put** these objects in her mouth **for the first time on Shabbat. And if it fell out she may not replace it.**
+
+**7.**
+*Hebrew/Aramaic:* שֵׁן תּוֹתֶבֶת, שֵׁן שֶׁל זָהָב — רַבִּי מַתִּיר, וַחֲכָמִים אוֹסְרִים.
+*Translation:* **A false tooth** as well as (Ramban) **a gold tooth, Rabbi** Yehuda HaNasi **permits** going out with it, **and the Rabbis prohibit** doing so.
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן דִּידַהּ מִשּׁוּם דְּלָא מְאִיס, אֲבָל חֲבֶירְתַּהּ דִּמְאִיס — אֵימָא לָא.
+*Translation:* GEMARA: We learned in the mishna that a woman may go out with different strands of hair. The Gemara comments: **And it is necessary** to cite all of the cases. **If** the mishna **taught us only** with regard to **her own** hair, I would have said that she may go out with it **because it is not repulsive,** as it is her own hair; therefore, there is no concern lest she come to remove the strands and carry them in the public domain. **However,** the hair **of another, which is repulsive** and a different color from hers, **say no,** she may not go out with it, due to concern lest she be embarrassed, remove it, and come to carry it in the public domain.
+
+**9.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן דַּחֲבֶירְתַּהּ — דְּבַת מִינַהּ הוּא, אֲבָל דִּבְהֵמָה לָאו בַּר מִינַהּ הוּא אֵימָא לָא, צְרִיכָא.
+*Translation:* **And if** the mishna **taught us** that she is permitted to go out with the hair **of another,** I would have said that she may go out with it because **it is** hair **of her own kind.** Therefore, it is not repulsive in her eyes and she will not come to remove it. **However,** the hair **of an animal,** since **it is not of her own kind, say no,** she may not go out with it due to concern lest she remove it. Therefore, **it is necessary** to cite all three cases.
+
+**10.**
+*Hebrew/Aramaic:* תָּנָא: וּבִלְבַד שֶׁלֹּא תֵּצֵא יַלְדָּה בְּשֶׁל זְקֵנָה וּזְקֵנָה בְּשֶׁל יַלְדָּה.
+*Translation:* **It was taught** in the *Tosefta*: It is permitted **as long as a girl does not go out with** the hair **of an elderly woman, and an elderly woman** does not go out **with** the hair **of a girl.**
+
+**11.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא זְקֵנָה בְּשֶׁל יַלְדָּה — שֶׁבַח הוּא לָהּ. אֶלָּא יַלְדָּה בְּשֶׁל זְקֵנָה אַמַּאי? גְּנַאי הוּא לָהּ! אַיְּידִי דִּתְנָא זְקֵנָה בְּשֶׁל יַלְדָּה, תְּנָא נָמֵי יַלְדָּה בְּשֶׁל זְקֵנָה.
+*Translation:* The Gemara challenges: **Granted,** the Gemara cited the case of **an elderly woman** who goes out **with** the hair **of a girl,** as it is a reasonable scenario because **it is flattering for her** to look young. **However, why** would **a girl** go out **with** the hair **of an elderly woman?** Since **it is demeaning for her** to appear elderly, it is an unlikely scenario. The Gemara answers: **Since** the mishna **taught** the case of **an elderly woman with** the hair **of a girl, it also taught** the improbable case of **a girl with** the hair **of an elderly woman.**
+
+**12.**
+*Hebrew/Aramaic:* בְּכָבוּל וּבְפֵאָה נׇכְרִית לֶחָצֵר. אָמַר רַב: כׇּל שֶׁאָסְרוּ חֲכָמִים לָצֵאת בּוֹ לִרְשׁוּת הָרַבִּים, אָסוּר לָצֵאת בּוֹ לֶחָצֵר — חוּץ מִכָּבוּל וּפֵאָה נׇכְרִית.
+*Translation:* It was taught in the mishna that a woman may go out **with a woolen cap or with a wig to the courtyard. Rav said:** With regard to **all** ornaments and garments with **which the Sages prohibited going out into the public domain** on Shabbat, **it is** also **prohibited to go out with** them **into the courtyard** due to the concern lest she forget and go out to the street, **with the exception of a woolen cap and a wig.**
+
+**13.**
+*Hebrew/Aramaic:* רַבִּי עֲנָנִי בַּר שָׂשׂוֹן מִשְּׁמֵיהּ דְּרַבִּי יִשְׁמָעֵאל אָמַר: הַכֹּל כְּכָבוּל.
+*Translation:* **Rabbi Anani bar Sason said in the name of Rabbi Yishmael: All** ornaments have the same legal status **as a woolen cap** and may be worn into the courtyard.
+
+**14.**
+*Hebrew/Aramaic:* תְּנַן: בְּכָבוּל וּבְפֵאָה נׇכְרִית לֶחָצֵר. בִּשְׁלָמָא לְרַב — נִיחָא, אֶלָּא לְרַבִּי עֲנָנִי בַּר שָׂשׂוֹן קַשְׁיָא! רַבִּי עֲנָנִי בַּר שָׂשׂוֹן מִשְּׁמֵיהּ דְמַאן קָאָמַר לֵיהּ? — מִשְּׁמֵיהּ דְּרַבִּי יִשְׁמָעֵאל בַּר יוֹסֵי, רַבִּי יִשְׁמָעֵאל בַּר יוֹסֵי תַּנָּא הוּא וּפְלִיג.
+*Translation:* **We learned** in the mishna that it is permitted to go out **with a woolen cap or a wig into the courtyard. Granted, according to** the opinion of **Rav** the matter works out **well,** as the mishna allows one to go out into a courtyard only with a woolen cap and a wig. **However, according to the opinion of Rabbi Anani bar Sason,** it is **difficult.** The Gemara answers: **In whose name did Rabbi Anani bar Sason say** his *halakha*? **In the name of Rabbi Yishmael bar Yosei, and Rabbi Yishmael bar Yosei is a *tanna* and,** as such, has the authority **to dispute** the determination in the mishna.
+
+**15.**
+*Hebrew/Aramaic:* וְרַב, מַאי שְׁנָא הָנֵי? אָמַר עוּלָּא: כְּדֵי שֶׁלֹּא תִּתְגַּנֶּה עַל בַּעְלָהּ. כִּדְתַנְיָא: ״וְהַדָּוָה בְּנִדָּתָהּ״ — זְקֵנִים הָרִאשׁוֹנִים אָמְרוּ שֶׁלֹּא תִּכְחוֹל וְלֹא תִּפְקוֹס וְלֹא תִּתְקַשֵּׁט בְּבִגְדֵי צִבְעוֹנִין, עַד שֶׁבָּא רַבִּי עֲקִיבָא וְלִימֵּד: אִם כֵּן — אַתָּה מְגַנָּהּ עַל בַּעְלָהּ, וְנִמְצָא בַּעְלָהּ מְגָרְשָׁהּ. אֶלָּא מַה תַּלְמוּד לוֹמַר: ״וְהַדָּוָה בְּנִדָּתָהּ״ — בְּנִדָּתָהּ תְּהֵא עַד שֶׁתָּבֹא בַּמַּיִם.
+*Translation:* The Gemara asks: **And** according to **Rav, what is different** about **these,** the woolen cap and the wig, that the mishna permitted going out into the courtyard with them? **Ulla said: So that she will not become unappealing to her husband.** That would be the result if all ornamentation was prohibited. **As it was taught** in a *baraita* with regard to the verse: **“And of her that is sick in her menstrual status [*niddata*]”** (Leviticus 15:33), **the Elders** of the **early** generations **said** that this verse comes to teach us that the menstruating woman should be distanced from her husband in all senses, like a person ostracized [*menudeh*] by the Sages. This includes **that she may not paint** her eyes **blue**, **and she may not rouge [*pokeset*]** her face, **and she may not adorn herself with colorful clothing. Until Rabbi Akiva came and taught: If** you do **so, you are making her unappealing to her husband, and her husband will** consequently **divorce her.** Therefore, extreme strictures should not be instituted. **Rather, what** is the meaning of that which **the verse states: “And of her that is sick in her menstrual status”? She shall remain** prohibited **in her menstrual status** even after the flow of blood has stopped **until she immerses in the water** of a ritual bath.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: כׇּל מָקוֹם שֶׁאָסְרוּ חֲכָמִים מִפְּנֵי מַרְאִית הָעַיִן — אֲפִילּוּ בְּחַדְרֵי חֲדָרִים אָסוּר.
+*Translation:* **Rav Yehuda said** that **Rav said: Wherever the Sages prohibited** an action **due to the appearance** of prohibition, **even in the innermost chambers,** where no one will see it, it **is prohibited.** When prohibiting an action, the Sages did not distinguish between different circumstances. They prohibited performing the action in all cases.
+
+**17.**
+*Hebrew/Aramaic:* תְּנַן: וְלֹא בְּזוֹג אַף עַל פִּי שֶׁפָּקוּק. וְתַנְיָא אִידַּךְ: פּוֹקֵק לָהּ זוֹג בְּצַוָּארָהּ וּמְטַיֵּיל עִמָּהּ בֶּחָצֵר.
+*Translation:* The Gemara raises an objection. **We learned** in the mishna that an animal belonging to a Jew may **not** go out on Shabbat **with a bell** around its neck, **even though it is plugged** and makes no sound, due to the appearance of prohibition, as it appears as if he were taking the animal to the marketplace. **And it was taught in another** *baraita*: **He may plug the bell on** the animal’s **neck and walk with it in the courtyard.** Apparently, although the Sages prohibited this action due to the appearance of prohibition, they permitted it in the courtyard.
+
+**18.**
+*Hebrew/Aramaic:* תַּנָּאֵי הִיא, דְּתַנְיָא:
+*Translation:* The Gemara answers: **It is** subject to a dispute between ***tanna’im*** in this matter, **as it was taught** in a *baraita*:

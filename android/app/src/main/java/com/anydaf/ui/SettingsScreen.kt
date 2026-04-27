@@ -24,16 +24,18 @@ import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.ExposedDropdownMenuBox
+import androidx.compose.material3.ExposedDropdownMenuDefaults
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.RadioButton
+import androidx.compose.material3.MenuAnchorType
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
@@ -87,6 +89,7 @@ fun SettingsScreen(
                 .padding(padding)
                 .verticalScroll(rememberScrollState())
         ) {
+            // 1. Donate
             SectionHeader("Support AnyDaf")
             Row(
                 modifier = Modifier
@@ -111,45 +114,7 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            SectionHeader("Translation Display")
-            SourceDisplayMode.entries.forEach { mode ->
-                RadioRow(
-                    label = mode.displayName,
-                    selected = sourceDisplayMode == mode,
-                    onClick = { contentViewModel.selectSourceDisplayMode(mode) }
-                )
-            }
-
-            SectionDivider()
-
-            SectionHeader("Quiz Mode")
-            QuizMode.entries.forEach { mode ->
-                RadioRow(
-                    label = mode.displayName,
-                    selected = quizMode == mode,
-                    onClick = { contentViewModel.selectQuizMode(mode) }
-                )
-            }
-
-            SectionDivider()
-
-            SectionHeader("Shiur")
-            Row(
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .clickable { contentViewModel.setShiurShowSources(!shiurShowSources) }
-                    .padding(horizontal = 16.dp, vertical = 8.dp),
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                Text("Include source text", style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
-                Switch(
-                    checked = shiurShowSources,
-                    onCheckedChange = { contentViewModel.setShiurShowSources(it) }
-                )
-            }
-
-            SectionDivider()
-
+            // 2. Appearance
             SectionHeader("Appearance")
             Row(
                 modifier = Modifier
@@ -192,21 +157,47 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            SectionHeader("About")
+            // 3. Translation Display
+            SectionHeader("Translation Display")
+            DropdownSettingRow(
+                label = sourceDisplayMode.displayName,
+                options = SourceDisplayMode.entries,
+                optionLabel = { it.displayName },
+                onSelect = { contentViewModel.selectSourceDisplayMode(it) }
+            )
+
+            SectionDivider()
+
+            // 4. Shiur
+            SectionHeader("Shiur")
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .clickable { onAbout() }
-                    .padding(horizontal = 16.dp, vertical = 12.dp),
+                    .clickable { contentViewModel.setShiurShowSources(!shiurShowSources) }
+                    .padding(horizontal = 16.dp, vertical = 8.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                Icon(Icons.Default.Info, null, Modifier.size(20.dp), tint = MaterialTheme.colorScheme.primary)
-                Spacer(Modifier.width(16.dp))
-                Text("About AnyDaf", style = MaterialTheme.typography.bodyLarge)
+                Text("Include source text", style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
+                Switch(
+                    checked = shiurShowSources,
+                    onCheckedChange = { contentViewModel.setShiurShowSources(it) }
+                )
             }
 
             SectionDivider()
 
+            // 5. Quiz Mode
+            SectionHeader("Quiz Mode")
+            DropdownSettingRow(
+                label = quizMode.displayName,
+                options = QuizMode.entries,
+                optionLabel = { it.displayName },
+                onSelect = { contentViewModel.selectQuizMode(it) }
+            )
+
+            SectionDivider()
+
+            // 6. Audio
             SectionHeader("Audio")
             Row(
                 modifier = Modifier
@@ -232,6 +223,58 @@ fun SettingsScreen(
                 Text(
                     if (isReloading) "Reloading…" else "Reload Audio Episodes",
                     style = MaterialTheme.typography.bodyLarge
+                )
+            }
+
+            SectionDivider()
+
+            // 7. About
+            SectionHeader("About")
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { onAbout() }
+                    .padding(horizontal = 16.dp, vertical = 12.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(Icons.Default.Info, null, Modifier.size(20.dp), tint = MaterialTheme.colorScheme.primary)
+                Spacer(Modifier.width(16.dp))
+                Text("About AnyDaf", style = MaterialTheme.typography.bodyLarge, color = MaterialTheme.colorScheme.primary)
+            }
+        }
+    }
+}
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+private fun <T> DropdownSettingRow(
+    label: String,
+    options: List<T>,
+    optionLabel: (T) -> String,
+    onSelect: (T) -> Unit
+) {
+    var expanded by remember { mutableStateOf(false) }
+    ExposedDropdownMenuBox(
+        expanded = expanded,
+        onExpandedChange = { expanded = it },
+        modifier = Modifier.fillMaxWidth()
+    ) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .menuAnchor(MenuAnchorType.PrimaryNotEditable)
+                .padding(horizontal = 16.dp, vertical = 12.dp),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(label, style = MaterialTheme.typography.bodyLarge)
+            ExposedDropdownMenuDefaults.TrailingIcon(expanded = expanded)
+        }
+        ExposedDropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
+            options.forEach { option ->
+                DropdownMenuItem(
+                    text = { Text(optionLabel(option)) },
+                    onClick = { onSelect(option); expanded = false }
                 )
             }
         }
@@ -267,7 +310,6 @@ fun FontSizeControl(
         modifier = modifier.height(44.dp),
         verticalAlignment = Alignment.CenterVertically
     ) {
-        // Small A — decrease
         androidx.compose.material3.TextButton(
             onClick = { if (idx > 0) onSizeChange(cases[idx - 1]) },
             enabled = idx > 0,
@@ -282,7 +324,6 @@ fun FontSizeControl(
             )
         }
 
-        // Step dots — growing sizes spanning the space between the two A buttons
         Row(
             modifier = Modifier.weight(1f),
             horizontalArrangement = Arrangement.SpaceEvenly,
@@ -302,7 +343,6 @@ fun FontSizeControl(
             }
         }
 
-        // Large A — increase
         androidx.compose.material3.TextButton(
             onClick = { if (idx < cases.size - 1) onSizeChange(cases[idx + 1]) },
             enabled = idx < cases.size - 1,
@@ -316,23 +356,5 @@ fun FontSizeControl(
                         else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
             )
         }
-    }
-}
-
-@Composable
-private fun RadioRow(
-    label: String,
-    selected: Boolean,
-    onClick: () -> Unit
-) {
-    Row(
-        modifier = Modifier
-            .fillMaxWidth()
-            .clickable(onClick = onClick)
-            .padding(horizontal = 8.dp, vertical = 4.dp),
-        verticalAlignment = Alignment.CenterVertically
-    ) {
-        RadioButton(selected = selected, onClick = onClick)
-        Text(label, style = MaterialTheme.typography.bodyLarge)
     }
 }

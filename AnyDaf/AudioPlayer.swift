@@ -1,19 +1,21 @@
 import AVFoundation
 import Combine
 import MediaPlayer
+import Observation
 import UIKit
 
+@Observable
 @MainActor
-class AudioPlayer: ObservableObject {
-    @Published var isPlaying = false
-    @Published var isBuffering = false
-    @Published var isStopped = true   // true when no audio is loaded or after explicit stop/natural end
-    @Published var currentTime: Double = 0
-    @Published var duration: Double = 0
-    @Published var playbackRate: Float = 1.0
+class AudioPlayer {
+    var isPlaying = false
+    var isBuffering = false
+    var isStopped = true   // true when no audio is loaded or after explicit stop/natural end
+    var currentTime: Double = 0
+    var duration: Double = 0
+    var playbackRate: Float = 1.0
     /// Set to true when SoundCloud stream resolution fails (e.g. expired client ID).
     /// ContentView observes this to trigger an automatic feed refresh + retry.
-    @Published var resolutionFailed = false
+    var resolutionFailed = false
 
     private var player: AVPlayer?
     private var timeObserver: Any?
@@ -248,6 +250,7 @@ class AudioPlayer: ObservableObject {
             Task { @MainActor [weak self] in
                 guard let self else { return }
                 self.currentTime = seconds
+                ShiurClient.shared.updateCurrentSegment(currentTime: seconds)
                 self.updateNowPlayingTime()
             }
         }

@@ -32,57 +32,8 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    ForEach(SourceDisplayMode.allCases, id: \.rawValue) { mode in
-                        Button {
-                            sourceDisplayMode = mode
-                        } label: {
-                            HStack {
-                                Text(mode.displayName)
-                                    .foregroundStyle(.primary)
-                                Spacer()
-                                if sourceDisplayMode == mode {
-                                    Image(systemName: "checkmark")
-                                        .foregroundStyle(.blue)
-                                        .fontWeight(.semibold)
-                                }
-                            }
-                        }
-                    }
-                } header: {
-                    Text("Translation Display")
-                }
-
-                Section {
-                    ForEach(QuizMode.allCases, id: \.rawValue) { mode in
-                        Button {
-                            quizMode = mode
-                        } label: {
-                            HStack {
-                                Text(mode.displayName)
-                                    .foregroundStyle(.primary)
-                                Spacer()
-                                if quizMode == mode {
-                                    Image(systemName: "checkmark")
-                                        .foregroundStyle(.blue)
-                                        .fontWeight(.semibold)
-                                }
-                            }
-                        }
-                    }
-                } header: {
-                    Text("Quiz Mode")
-                }
-
-                Section {
-                    Toggle("Include source text", isOn: $shiurShowSources)
-                } header: {
-                    Text("Shiur")
-                }
-
-                Section {
                     Toggle("White Background", isOn: $useWhiteBackground)
                     HStack(spacing: 0) {
-                        // Tap small A to decrease
                         let cases = StudyFontSize.displayCases
                         let idx = cases.firstIndex(of: studyFontSize) ?? 1
                         Button {
@@ -96,12 +47,10 @@ struct SettingsView: View {
                         }
                         .buttonStyle(.plain)
 
-                        // Step dots — each dot is sized to match the font size it represents,
-                        // and they span the full space between the two A buttons.
                         HStack(spacing: 0) {
                             Spacer(minLength: 4)
                             ForEach(cases.indices, id: \.self) { i in
-                                let dotSize: CGFloat = 5 + CGFloat(i) * 2  // 5, 7, 9, 11
+                                let dotSize: CGFloat = 5 + CGFloat(i) * 2
                                 Circle()
                                     .fill(i == idx ? Color.accentColor : Color.secondary.opacity(0.35))
                                     .frame(width: dotSize, height: dotSize)
@@ -112,7 +61,6 @@ struct SettingsView: View {
                         }
                         .frame(maxWidth: .infinity)
 
-                        // Tap large A to increase
                         Button {
                             if idx < cases.count - 1 { studyFontSize = cases[idx + 1] }
                         } label: {
@@ -133,6 +81,34 @@ struct SettingsView: View {
                     Text("Appearance")
                 } footer: {
                     Text("Study text size applies to translations, summaries, shiur, and quiz content.")
+                }
+
+                Section {
+                    Picker("Translation Display", selection: $sourceDisplayMode) {
+                        ForEach(SourceDisplayMode.allCases, id: \.rawValue) { mode in
+                            Text(mode.displayName).tag(mode)
+                        }
+                    }
+                    .pickerStyle(.menu)
+                } header: {
+                    Text("Translation Display")
+                }
+
+                Section {
+                    Toggle("Include source text", isOn: $shiurShowSources)
+                } header: {
+                    Text("Shiur")
+                }
+
+                Section {
+                    Picker("Quiz Mode", selection: $quizMode) {
+                        ForEach(QuizMode.allCases, id: \.rawValue) { mode in
+                            Text(mode.displayName).tag(mode)
+                        }
+                    }
+                    .pickerStyle(.menu)
+                } header: {
+                    Text("Quiz Mode")
                 }
 
                 Section {
@@ -158,24 +134,10 @@ struct SettingsView: View {
 
                 Section {
                     NavigationLink {
-                        BookmarkListView(bookmarkManager: bookmarkManager)
-                    } label: {
-                        HStack {
-                            Text("Manage Bookmarks")
-                            Spacer()
-                            Text("\(bookmarkManager.bookmarks.count)")
-                                .foregroundStyle(.secondary)
-                        }
-                    }
-                } header: {
-                    Text("Bookmarks")
-                }
-
-                Section {
-                    NavigationLink {
                         AboutView()
                     } label: {
                         Text("About AnyDaf")
+                            .foregroundStyle(.blue)
                     }
                 }
             }

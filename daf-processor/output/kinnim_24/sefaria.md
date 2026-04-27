@@ -1,0 +1,26 @@
+### Kinnim 24a
+
+**1.**
+*Hebrew/Aramaic:* בַּמֶּה דְבָרִים אֲמוּרִים, בְּכֹהֵן נִמְלָךְ. אֲבָל בְּכֹהֵן שֶׁאֵינוֹ נִמְלָךְ, אַחַת לָזוֹ וְאַחַת לָזוֹ, שְׁתַּיִם לָזוֹ וּשְׁתַּיִם לָזוֹ, שָׁלשׁ לָזוֹ וְשָׁלשׁ לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָם לְמַעְלָה וְחֶצְיָם לְמַטָּה, אֶת שֶׁלְּמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל, וְאֶת שֶׁלְּמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל:
+*Translation:* When are these words said? When the priest asks advice. But in the case of a priest who does not seek advice, and one [pair] belongs to one [woman] and one to another, or two [pairs] to one and two to another, or three [pairs] to one and three to another, and he offered all of them above [the red line], then half are valid and half are invalid. [Similarly], if [he offered] all of them below, half are valid and half are invalid. If [he offered] half of them above and half of them below, then of those [offered] above, half are valid and half are invalid, and also of those [offered] below, half are valid and half are invalid.
+
+**2.**
+*Hebrew/Aramaic:* אַחַת לָזוֹ, וּשְׁתַּיִם לָזוֹ, וְשָׁלשׁ לָזוֹ, וְעֶשֶׂר לָזוֹ, וּמֵאָה לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, הַמְרֻבֶּה כָשֵׁר. זֶה הַכְּלָל, כָּל מָקוֹם שֶׁאַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין וְלֹא יְהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כָּל מָקוֹם שֶׁאֵין אַתָּה יָכוֹל לַחֲלֹק אֶת הַקִּנִּין עַד שֶׁיְּהוּ מִשֶּׁל אִשָּׁה אַחַת, בֵּין מִלְמַעְלָן בֵּין מִלְּמַטָּן, הַמְרֻבֶּה כָשֵׁר:
+*Translation:* If one [pair] belonged to one woman and two [pairs] to another, or [even] three [pairs] to another, or [ten] pairs to another or a hundred to another, and he offered all of them above, then half are valid and half are invalid. [Similarly], if he offered all of them below, half are valid and half are invalid. [If he offered] half of them above and half below, then the [number of birds as there is in the] larger part are valid. This is the general principle: whenever you can divide the pairs [of birds] so that those belonging to one woman need not have part of them [offered] above and part [offered] below, then half of them are valid and half are invalid; But whenever you cannot divide the pairs [of birds] without some of those belonging to one woman being [offered] above and some below, then [the number as there is in] the larger part are valid.
+
+**3.**
+*Hebrew/Aramaic:* חַטָּאת לָזוֹ, וְעוֹלָה לָזוֹ, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּן, מֱחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, שְׁתֵּיהֶן פָּסוּל, שֶׁאֲנִי אוֹמֵר, חַטָּאת קְרֵבָה לְמַעְלָן וְעוֹלָה לְמַטָּן:
+*Translation:* If the hatats belonged to one and the olot to another, and the priest offered them all above, then half are valid and half disqualified. If he offered them all below, half are valid and half disqualified. If he offered half of them above and half below, then all of them are disqualified, because I can argue that the hatats were offered above and the olot below.
+
+
+---
+
+### Kinnim 24b
+
+**1.**
+*Hebrew/Aramaic:* חַטָּאת וְעוֹלָה וּסְתוּמָה וּמְפֹרֶשֶׁת, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, אֵין כָּשֵׁר אֶלָּא סְתוּמָה, וְהִיא מִתְחַלֶּקֶת בֵּינֵיהֶן:
+*Translation:* If a hatat, an olah, an unassigned pair of birds and an assigned pair [became mixed up], and he offered them all above, then half are valid and half are invalid. [Similarly] if he offered all of them below, half are valid and half are invalid. If he offered half of them above and half below, none is valid except the unassigned pair, and that must be divided between them.
+
+**2.**
+*Hebrew/Aramaic:* חַטָּאת שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן חַטָּאת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּחַטָּאת, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. וְחַטָּאת שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר. וְכֵן עוֹלָה שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן עוֹלוֹת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּעוֹלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. עוֹלָה שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר:
+*Translation:* If hataot birds were mixed up with [unassigned birds that were] obligatory offerings, only the number of hataot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the hataot, then half are valid and half invalid; But if the hataot are twice as many as the [unassigned] obligatory offerings, then the number [of hataot] among the obligatory offerings are valid. So, too, if [birds assigned as] olot were mixed up with [unassigned] obligatory offerings, only the number of olot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the olot, then half are valid and half invalid. But if the olot are twice as many as the [unassigned] obligatory offerings, then the number [of olot] among the obligatory offerings are valid.

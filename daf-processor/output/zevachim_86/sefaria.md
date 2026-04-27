@@ -1,0 +1,94 @@
+### Zevachim 86a
+
+**1.**
+*Hebrew/Aramaic:* יָכוֹל יַחְלוֹץ גִּידִין וַעֲצָמוֹת, וְיַעֲלֶה בָּשָׂר לְגַבֵּי מִזְבֵּחַ? תַּלְמוּד לוֹמַר: ״וְהִקְטִיר הַכֹּהֵן אֶת הַכֹּל״. הָא כֵּיצַד? מְחוּבָּרִין – יַעֲלוּ, פֵּירְשׁוּ – אֲפִילּוּ הֵן בְּרֹאשׁ הַמִּזְבֵּחַ, יֵרְדוּ.
+*Translation:* then one **might** have thought that a priest must first **remove** the **tendons and bones** from an offering **and** then **sacrifice the flesh upon the altar.** Therefore, **the verse states: “And the priest shall make the whole smoke** on the altar,” including the tendons and bones. **How** can **these** texts be reconciled? If they were **attached** to the flesh, **they shall ascend.** If **they separated** from the flesh, then **even** if **they** are already **at the top of the altar, they shall descend.**
+
+**2.**
+*Hebrew/Aramaic:* מַאן תַּנָּא דְּשָׁמְעַתְּ לֵיהּ דְּאָמַר: פֵּירְשׁוּ יָרְדוּ? רַבִּי הִיא, דְּתַנְיָא: ״וְהִקְטִיר הַכֹּהֵן אֶת הַכֹּל הַמִּזְבֵּחָה״ – לְרַבּוֹת הַעֲצָמוֹת וְהַגִּידִין וְהַקְּרָנַיִם וְהַטְּלָפַיִם, אֲפִילּוּ פֵּירְשׁוּ.
+*Translation:* The Gemara notes: **Who is the *tanna* that you heard that says** if **they separated they shall descend? It is Rabbi** Yehuda HaNasi, **as it is taught** in a *baraita*: **“And the priest shall make the whole smoke on the altar”** (Leviticus 1:9); the term “the whole” serves **to include the bones, and the tendons, and the horns, and the hooves,** among those items that are offered on the altar, **even** if **they separated** from the flesh of the offering.
+
+**3.**
+*Hebrew/Aramaic:* וְאֶלָּא מָה אֲנִי מְקַיֵּים: ״וְעָשִׂיתָ עֹלֹתֶיךָ הַבָּשָׂר וְהַדָּם״? לוֹמַר לָךְ: עִיכּוּלֵי עוֹלָה אַתָּה מַחֲזִיר, וְאִי אַתָּה מַחֲזִיר עִיכּוּלֵי גִּידִין וַעֲצָמוֹת.
+*Translation:* **But** if so, **how do I realize** the meaning of the verse: **“And you shall offer your burnt offerings, the flesh and the blood”** (Deuteronomy 12:27), which indicates that only the flesh and blood of an offering ascend upon the altar? This verse is necessary **to tell you** an additional *halakha*, that **you return** the **consumed** flesh of **a burnt offering** to the fire if it is dislodged from it, **but you do not return** the **consumed tendons and bones** if they are dislodged from the fire.
+
+**4.**
+*Hebrew/Aramaic:* רַבִּי אוֹמֵר, כָּתוּב אֶחָד אוֹמֵר: ״וְהִקְטִיר הַכֹּהֵן אֶת הַכֹּל הַמִּזְבֵּחָה״ – רִיבָּה, וְכָתוּב אֶחָד אוֹמֵר: ״וְעָשִׂיתָ עֹלֹתֶיךָ הַבָּשָׂר וְהַדָּם״ – מִיעֵט. הָא כֵּיצַד? מְחוּבָּרִין – יַעֲלוּ, פֵּירְשׁוּ – אֲפִילּוּ הֵן בְּרֹאשׁ הַמִּזְבֵּחַ, יֵרְדוּ.
+*Translation:* The *baraita* continues: **Rabbi** Yehuda HaNasi **says** that **one verse states: “And the priest shall make the whole smoke on the altar,”** which **included** tendons and bones, **and one verse states: “And you shall offer your burnt offerings, the flesh and the blood,”** which **excluded** any part other than the flesh and the blood. **How** can **these** texts be reconciled? If they were **attached** to the flesh, **they shall ascend.** If **they separated** from the flesh, then **even** if **they** are already **on top of the altar, they shall descend.**
+
+**5.**
+*Hebrew/Aramaic:* פֵּירְשׁוּ לֹא יַעֲלוּ [וְכוּ׳]. אָמַר רַבִּי זֵירָא: לֹא שָׁנוּ אֶלָּא שֶׁפֵּירְשׁוּ כְּלַפֵּי מַטָּה, אֲבָל כְּלַפֵּי מַעְלָה – קָרוֹבֵי הוּא דְּאַקְרִיבוּ לְעִיכּוּל. וַאֲפִילּוּ פֵּירְשׁוּ?!
+*Translation:* § The mishna teaches that items that are not meant for consumption on the altar, such as the bones and tendons, are sacrificed along with the flesh if they are attached to it. But if **they separated they shall not ascend. Rabbi Zeira said:** The Sages **taught** that if they separated from the flesh they shall not ascend **only when they separated** from the offering **downward,** i.e., away from the altar, whereby they became distanced from the pyre when they were separated. **But** if they separated from the offering **upward,** i.e., they became closer to the pyre when they were separated from the offering, **they have become closer to consumption** and shall ascend. The Gemara asks: **And even** if **they separated,** shall they be offered? Doesn’t the mishna state that they shall ascend only if they are still attached to the flesh?
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַבָּה, הָכִי קָאָמַר: לֹא שָׁנוּ אֶלָּא שֶׁפֵּירְשׁוּ לְאַחַר זְרִיקָה, אֲבָל פֵּירְשׁוּ קוֹדֶם זְרִיקָה – אֲתַאי זְרִיקָה וּשְׁרִיתִינְהוּ, אֲפִילּוּ לְמֶעְבַּד מִינַּיְיהוּ (קתא) [קַתָּתָא] דְּסַכִּינֵי.
+*Translation:* **Rabba said: This** is what Rabbi Zeira **is saying:** It was necessary for the Sages to **teach** the *halakha*, that bones or tendons that separated from the flesh of an offering shall not ascend the altar, **only where they separated after** the **sprinkling** of its blood, since at the time that the flesh itself became permitted for the altar through the sprinkling, the bones and tendons were still attached to the flesh and therefore fit to be offered with it. **But** if **they separated** from an offering **before** the **sprinkling** of its blood they shall certainly not ascend, as they were already separated from the flesh when it became permitted for the altar. Instead, the **sprinkling comes and permits them** for any use, just as the hide of a burnt offering is permitted to the priests upon the sprinkling of its blood. In fact, one may **even** use such tendons or bones **to fashion the handles of knives from them.**
+
+**7.**
+*Hebrew/Aramaic:* סָבַר לַהּ כִּי הָא דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יִשְׁמָעֵאל: נֶאֱמַר ״לוֹ יִהְיֶה״ בְּעוֹלָה, וְנֶאֱמַר ״לוֹ יִהְיֶה״ בְּאָשָׁם; מָה אָשָׁם – עַצְמוֹתָיו מוּתָּרִין, אַף עוֹלָה – (עצמות) [עַצְמוֹתֶיהָ] מוּתָּרִין.
+*Translation:* The Gemara elaborates: Rabba **holds in accordance with that which Rabbi Yoḥanan says in the name of Rabbi Yishmael:** It **is stated: “He shall have** the hide of the burnt offering that he has offered” (Leviticus 7:8), **with regard to a burnt offering, and** it **is stated:** “The priest that makes atonement, **he shall have it”** (Leviticus 7:7), **with regard to a guilt offering.** The following verbal analogy is derived from here: **Just as** after the blood of **a guilt offering** is presented **its bones** become **permitted** to the priest for any use, since only the portions intended for consumption on the altar are sacrificed whereas the rest of the animal is given to the priests, **so too,** with regard to **a burnt offering, bones** that are not attached to the flesh and therefore are not intended for the altar are **permitted.**
+
+**8.**
+*Hebrew/Aramaic:* מוּפְנֵי; דְּאִי לָא מוּפְנֵי – אִיכָּא לְמִיפְרַךְ: מָה לְאָשָׁם, שֶׁכֵּן בְּשָׂרוֹ מוּתָּר לוֹ! ״יִהְיֶה״ יַתִּירָא כְּתִיב.
+*Translation:* The Gemara notes: The phrase “He shall have” is **free,** i.e., superfluous in its context and therefore available for the purpose of establishing a verbal analogy, and there is a principle that such verbal analogies are not refuted. **As, if** these words were **not** considered **free,** the verbal analogy **can be refuted** by saying: **What** is notable **about a guilt offering?** It is notable **in that its meat is permitted** and its bones are therefore permitted as well, while the flesh of a burnt offering ascends upon the altar in its entirety. If so, *halakhot* may not be applied to one based on the other. Consequently, the phrase **“He shall have”** with regard to a burnt offering is considered as having been **written superfluously,** as it would have sufficed to state: The hide of the burnt offering that he has offered, to the priest.
+
+**9.**
+*Hebrew/Aramaic:* מֵתִיב רַב אַדָּא בַּר אַהֲבָה: עַצְמוֹת קָדָשִׁים, לִפְנֵי זְרִיקָה – מוֹעֲלִין בָּהֶן,
+*Translation:* **Rav Adda bar Ahava raises an objection** to the explanation of Rabba from a *baraita*: With regard to **the bones of sacrificial** animals, specifically sin offerings or guilt offerings, which are offerings of the most sacred order that are intended for consumption, **before** the **sprinkling** of their blood, one who benefits **from them** is liable for **misuse** of consecrated property, similar to the *halakha* with regard to the flesh of offerings of the most sacred order before their blood is sprinkled.
+
+**10.**
+*Hebrew/Aramaic:* לְאַחַר זְרִיקָה – אֵין מוֹעֲלִין בָּהֶן. וְשֶׁל עוֹלָה – מוֹעֲלִין בָּהֶן לְעוֹלָם!
+*Translation:* **After** the **sprinkling** of their blood, one who benefits **from them** is **not** liable for **misuse** of consecrated property, as they are not intended for sacrificing upon the altar. **But** concerning the bones **of a burnt offering,** one who benefits **from them** is **always** liable for **misuse** of consecrated property. This *baraita* contradicts the opinion of Rabba, who said that if the bones separated from a burnt offering before the sprinkling of its blood, it is permitted to derive benefit from them.
+
+**11.**
+*Hebrew/Aramaic:* אֵימָא: וְשֶׁל עוֹלָה, פֵּירְשׁוּ לִפְנֵי זְרִיקָה – אֵין מוֹעֲלִין בָּהֶן, לְאַחַר זְרִיקָה – מוֹעֲלִין בָּהֶן לְעוֹלָם.
+*Translation:* The Gemara answers: **Say** that the *baraita* meant the following: **But** concerning the bones **of a burnt offering,** if **they separated before** the **sprinkling** of its blood and its blood was then sprinkled, then one who benefits **from them** is **not** liable for **misuse** of consecrated property. If they separated **after** the **sprinkling** of its blood, one who benefits **from them** is **always** liable for **misuse** of consecrated property.
+
+**12.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּרַבִּי אֶלְעָזָר; דְּאָמַר רַבִּי אֶלְעָזָר: פֵּירְשׁוּ לִפְנֵי זְרִיקָה – מוֹעֲלִין בָּהֶם, לְאַחַר זְרִיקָה – לֹא נֶהֱנִין וְלֹא מוֹעֲלִין.
+*Translation:* **And** Rabba **disagrees with Rabbi Elazar, as Rabbi Elazar says:** If the bones of a burnt offering **separated** from its flesh **before sprinkling,** one who benefits **from them** is liable for **misuse** of consecrated property. If they separated **after sprinkling,** the Sages decreed that one **may not benefit** from them *ab initio*, **but** if one benefitted from them after the fact, he is **not** liable for **misuse,** since by Torah law they were permitted through the sprinkling of the offering’s blood.
+
+**13.**
+*Hebrew/Aramaic:* מַתְנִי׳ וְכוּלָּן שֶׁפָּקְעוּ מֵעַל גַּבֵּי הַמִּזְבֵּחַ – לֹא יַחְזִיר, וְכֵן גַּחֶלֶת שֶׁפָּקְעָה מֵעַל גַּבֵּי הַמִּזְבֵּחַ – לֹא יַחֲזִיר. אֵיבָרִים שֶׁפָּקְעוּ מֵעַל גַּבֵּי הַמִּזְבֵּחַ קוֹדֶם חֲצוֹת – יַחְזִיר, וּמוֹעֲלִין בָּהֶן; לְאַחַר חֲצוֹת – לֹא יַחְזִיר, וְאֵין מוֹעֲלִין בָּהֶם.
+*Translation:* MISHNA: **And all of** those disqualified offerings with regard to which it was taught (84a) that if they ascended they do not descend, in a case **where they were dislodged from upon the altar,** the priest **does not restore** them to the altar. **And likewise,** with regard to **an ember that was dislodged from upon the altar,** the priest **does not restore** it to the altar. As for **limbs** of a fit burnt offering **that were dislodged from upon the altar,** if they were dislodged **before midnight,** the priest **should restore** them to the altar **and** one is liable for **misusing them.** But if they were dislodged **after midnight,** the priest **does not restore them and** one is **not** liable for **misusing them,** as one is not liable for misuse of consecrated property after it has fulfilled the purpose for which it was designated.
+
+**14.**
+*Hebrew/Aramaic:* כְּשֵׁם שֶׁהַמִּזְבֵּחַ מְקַדֵּשׁ אֶת הָרָאוּי לוֹ, כָּךְ הַכֶּבֶשׁ מְקַדֵּשׁ. כְּשֵׁם שֶׁהַמִּזְבֵּחַ וְהַכֶּבֶשׁ מְקַדְּשִׁין אֶת הָרָאוּי לָהֶן, כָּךְ הַכֵּלִים מְקַדְּשִׁין.
+*Translation:* With regard to unfit items that if they ascended do not descend, **just as the altar sanctifies** items **that are suited to it, so too, the ramp sanctifies** items that are suited to it. **Just as the altar and the ramp sanctify** items **that are suited to them, so too, the** service **vessels sanctify** items that are placed in them.
+
+**15.**
+*Hebrew/Aramaic:* גְּמָ׳ הֵיכִי דָּמֵי? אִי דְּאִית בְּהוּ מַמָּשׁ – אֲפִילּוּ לְאַחַר חֲצוֹת נָמֵי! אִי דְּלֵית בְּהוּ מַמָּשׁ – אֲפִילּוּ קוֹדֶם חֲצוֹת נָמֵי לָא! לָא צְרִיכָא,
+*Translation:* GEMARA: The mishna teaches that limbs of a fit burnt offering that were dislodged from upon the altar before midnight are returned to the altar, but that if they were dislodged after midnight they are not returned. The Gemara asks: **What are the circumstances? If** the limbs **have substance,** i.e., they were not yet consumed in their entirety by the fire, then **even** if they were dislodged **after midnight** the priest must return them to the fire. **If they do not have substance** and have been reduced to ash, then **even** if they were dislodged **before midnight** the priest does **not** return them to the altar. The Gemara answers: **No,** it is **necessary**
+
+
+---
+
+### Zevachim 86b
+
+**1.**
+*Hebrew/Aramaic:* בִּשְׁרִירֵי. מְנָא הָנֵי מִילֵּי?
+*Translation:* **with regard to hardened** limbs that were dried by the fire but have not yet been reduced to ash. The mishna teaches that before midnight, such limbs should be returned to the altar. The Gemara asks: **From where is this matter** derived that midnight determines whether or not they shall be returned?
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב, כָּתוּב אֶחָד אוֹמֵר: ״כׇּל הַלַּיְלָה״ וְהִקְטִיר, וְכָתוּב אֶחָד אוֹמֵר: ״כׇּל הַלַּיְלָה... וְהֵרִים״.
+*Translation:* **Rav says: One verse states: All night and he shall burn** the burnt offering, which indicates that there is a mitzva to burn the limbs of a burnt offering all night, as the verse states: “It is the burnt offering on the pyre upon the altar all night until the morning” (Leviticus 6:2). **And one verse states: “All night** until the morning…**and he shall remove** the ashes that the fire has consumed of the burnt offering on the altar, and he shall put them beside the altar” (Leviticus 6:2–3), which indicates that one may remove the ashes at any time during the night, including the limbs of a burnt offering that were already hardened by the fire. How can these texts be reconciled?
+
+**3.**
+*Hebrew/Aramaic:* חַלְּקֵיהוּ, חֶצְיוֹ לְהַקְטָרָה וְחֶצְיוֹ לַהֲרָמָה.
+*Translation:* Rav explains: **Divide** the night into two parts: **Half of** the night, i.e., until midnight, is designated **for** the mitzva of **burning,** and during this time, that which is dislodged from the altar shall be returned; **and half of** the night, i.e., after midnight, is designated **for removing.**
+
+**4.**
+*Hebrew/Aramaic:* מֵתִיב רַב כָּהֲנָא: בְּכׇל יוֹם תּוֹרֵם אֶת הַמִּזְבֵּחַ מִקְּרוֹת הַגֶּבֶר, אוֹ סָמוּךְ לוֹ מִלְּפָנָיו [אוֹ] מֵאַחֲרָיו. בְּיוֹם הַכִּיפּוּרִים – בַּחֲצוֹת. בָּרְגָלִים – בָּאַשְׁמוֹרֶת הָרִאשׁוֹנָה. וְאִי סָלְקָא דַעְתָּךְ מֵחֲצוֹת דְּאוֹרָיְיתָא, הֵיכִי מַקְדְּמִינַן וְהֵיכִי מְאַחֲרִינַן?
+*Translation:* With regard to Rav’s assertion that one may begin to remove the ashes only after midnight, **Rav Kahana raises an objection** from a mishna (*Yoma* 20a): **Every day** the priests would **remove** the ashes from **the altar** and place them on the east side of the ramp **at the rooster’s crow or close to** the time of its crowing, whether **before it or after it,** as there was no insistence on a precise time. **On Yom Kippur** they would remove the ashes **at midnight. On the Festivals** the ashes were removed even earlier, **at** the end of **the first watch.** Rav Kahana concludes his objection: **And if it enters your mind** that the proper time for removing the ashes **by Torah law** is **from midnight, how do we advance** the removal of the ashes on the Festivals, **and how do we delay** their removal the rest of the year?
+
+**5.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַבִּי יוֹחָנָן: מִמַּשְׁמַע שֶׁנֶּאֱמַר ״כׇּל הַלַּיְלָה״ – אֵינִי יוֹדֵעַ שֶׁעַד הַבֹּקֶר? מָה תַּלְמוּד לוֹמַר ״עַד בֹּקֶר״? תֵּן בֹּקֶר לְבׇקְרוֹ שֶׁל לַיְלָה.
+*Translation:* **Rather, Rabbi Yoḥanan says:** The proper time of the removal of the ashes is based on the following: **From** the fact **that** it **is stated** with regard to the burning of the limbs: **“All night”** (Leviticus 6:2), **don’t I know that** he may burn a burnt offering **until the morning?** If so, **what** is the meaning when **the verse states: “Until the morning”?** It means: **Add** another **morning to the morning of** the **night.** Arise before dawn, as that is the time for the removal of the ashes. Nevertheless, there is no specific hour fixed for performing this removal, and one may remove the ashes from the beginning of the night.
+
+**6.**
+*Hebrew/Aramaic:* הִלְכָּךְ, כֹּל יוֹמָא – מִקְּרוֹת הַגֶּבֶר סַגִּי. בְּיוֹם הַכִּיפּוּרִים, מִשּׁוּם חוּלְשָׁא דְּכֹהֵן גָּדוֹל – מֵחֲצוֹת. בִּרְגָלִים, דִּנְפִישִׁי קׇרְבָּנוֹת דְּקָדְמִי אָתוּ יִשְׂרָאֵל – מֵאַשְׁמוֹרֶת הָרִאשׁוֹנָה; כִּדְקָתָנֵי סֵיפָא: לֹא הָיְתָה קְרִיַּית הַגֶּבֶר מַגַּעַת עַד שֶׁהָיְתָה עֲזָרָה מְלֵאָה מִיִּשְׂרָאֵל.
+*Translation:* **Therefore, every day,** performing the removal **at the rooster’s crow is sufficient. On Yom Kippur, due to** the **weakness of the High Priest,** who must perform the entire Temple service on that day, they would hasten to remove the ashes **from midnight. On the Festivals,** during **which** there are **many offerings** on account of the masses of **Jewish people** in Jerusalem on those days, who, in order to offer their sacrifices, would **arrive early** at the Temple, they would remove the ashes beginning **from** the end of **the first watch, as** the mishna **teaches** in **the latter clause** (*Yoma* 20a): **The call of the rooster would not arrive** on Festivals **until the Temple courtyard was filled with Jews.**
+
+**7.**
+*Hebrew/Aramaic:* אִיתְּמַר: פֵּירְשׁוּ קוֹדֶם חֲצוֹת וְהֶחְזִירָן אַחַר חֲצוֹת – רַבָּה אָמַר:
+*Translation:* § The Gemara previously explained the mishna as saying that limbs that were hardened by the fire but not entirely consumed are not returned to the altar if they were dislodged from it after midnight, since the mitzva of burning has been performed and the limbs are considered to have been entirely consumed. It **was stated** that *amora’im* engage in a dispute concerning the following matter: In the case of limbs that **separated** from upon the altar **before midnight and** were **returned after midnight,** whereby the mitzva of burning was not completed by midnight, **Rabba says:**

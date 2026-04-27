@@ -37,6 +37,16 @@ DEFAULT_SRT_DIR = Path(__file__).parent / "srt" / "processed"
 # Filename pattern: "Tractate Name 42.srt", "Tractate Name 42b.srt", "Tractate Name 42a.srt"
 SRT_RE = re.compile(r"^(.+?) (\d+)(a|b)?\.srt$", re.IGNORECASE)
 
+# Normalize variant spellings in SRT filenames and Supabase rows to canonical names
+_NORMALIZE: dict[str, str] = {
+    "Eruvin":   "Eiruvin",
+    "Megilah":  "Megillah",
+    "Megila":   "Megillah",
+}
+
+def normalize_tractate(name: str) -> str:
+    return _NORMALIZE.get(name, name)
+
 
 def headers() -> dict:
     return {
@@ -73,7 +83,7 @@ def parse_srt_filename(filename: str) -> tuple[str, float] | None:
     m = SRT_RE.match(filename)
     if not m:
         return None
-    tractate = m.group(1)
+    tractate = normalize_tractate(m.group(1))
     daf_int  = int(m.group(2))
     suffix   = (m.group(3) or "").lower()
     daf      = daf_int + (0.5 if suffix == "b" else 0.0)
@@ -129,7 +139,7 @@ def main():
     print("Fetching episode_audio …", end=" ", flush=True)
     audio_rows = fetch_all("episode_audio", "tractate,daf")
     audio_set: set[tuple[str, float]] = {
-        (r["tractate"], float(r["daf"])) for r in audio_rows
+        (normalize_tractate(r["tractate"]), float(r["daf"])) for r in audio_rows
     }
     print(f"{len(audio_set)} episodes")
 
@@ -144,7 +154,7 @@ def main():
 
     shiur_rows = fetch_all("shiur_content", "tractate,daf", filters)
     shiur_set: set[tuple[str, float]] = {
-        (r["tractate"], float(r["daf"])) for r in shiur_rows
+        (normalize_tractate(r["tractate"]), float(r["daf"])) for r in shiur_rows
     }
     print(f"{len(shiur_set)} rows with {check_label}")
 

@@ -32,7 +32,7 @@ PAGE_SIZE        = 1000
 # Seder order for tractate sorting (approximate canonical sequence)
 SEDER_ORDER = [
     "Berakhot",
-    "Shabbat","Eruvin","Pesachim","Shekalim","Yoma","Sukkah","Beitzah",
+    "Shabbat","Eiruvin","Pesachim","Shekalim","Yoma","Sukkah","Beitzah",
     "Rosh Hashanah","Ta\u2019anit","Megillah","Moed Katan","Chagigah",
     "Yevamot","Ketubot","Nedarim","Nazir","Sotah","Gittin","Kiddushin",
     "Bava Kamma","Bava Metzia","Bava Batra","Sanhedrin","Makkot",

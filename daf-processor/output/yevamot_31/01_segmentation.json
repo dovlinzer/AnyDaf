@@ -1,0 +1,420 @@
+{
+  "masechta": "Yevamot",
+  "daf": 31,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "Opening discussion on Safek Gerushin and the status of Tzaras Ervah",
+      "display_title": "Safek Gerushin intro",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Review of yesterday's case: Safek Kiddushin and Safek Gerushin in the Mishna",
+          "display_title": "Case overview",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The distinction between true Safek Gerushin and Psul Gerushin (rabbinically invalid divorce)",
+          "display_title": "Safek vs. Psul",
+          "timestamp": "00:27"
+        },
+        {
+          "title": "How Chazaka (presumed status) applies when there is doubt about divorce",
+          "display_title": "Chazaka principle",
+          "timestamp": "01:14"
+        }
+      ]
+    },
+    {
+      "title": "Bringing the Gittin case of thrown get and its application to Yevamot",
+      "display_title": "Gittin case",
+      "timestamp": "01:43",
+      "micro_segments": [
+        {
+          "title": "The Mishna in Gittin about a get thrown and landing equidistant from husband and wife",
+          "display_title": "Get thrown case",
+          "timestamp": "01:43"
+        },
+        {
+          "title": "Two pairs of contradictory witnesses versus abstract doubt and the concept of Safeka D'Oraisa",
+          "display_title": "Safeka D'Oraisa",
+          "timestamp": "04:18"
+        },
+        {
+          "title": "The principle that contradictory witnesses cancel each other and Chazaka is restored",
+          "display_title": "Witnesses cancel",
+          "timestamp": "10:58"
+        },
+        {
+          "title": "The Bar Shatya property case illustrating how contradictory witnesses restore Chazaka",
+          "display_title": "Bar Shatya case",
+          "timestamp": "11:13"
+        }
+      ]
+    },
+    {
+      "title": "Resolving the apparent contradiction: why Mishna excludes true Safek Gerushin if Chazaka applies",
+      "display_title": "Safek resolution",
+      "timestamp": "13:37",
+      "micro_segments": [
+        {
+          "title": "Abaye's interpretation: learn one case from the other (Kiddushin and Gerushin are parallel)",
+          "display_title": "Abaye parallel",
+          "timestamp": "13:37"
+        },
+        {
+          "title": "Rava's distinction: each case has unique Psulim that don't apply to the other",
+          "display_title": "Rava distinction",
+          "timestamp": "15:47"
+        },
+        {
+          "title": "Why the Mishna specifies cases: Zeman is unique to Gerushin, not Kiddushin",
+          "display_title": "Zeman issue",
+          "timestamp": "16:46"
+        }
+      ]
+    },
+    {
+      "title": "Why Zeman (date requirement) applies to Get but not to Shtar Kiddushin",
+      "display_title": "Zeman reason",
+      "timestamp": "21:00",
+      "micro_segments": [
+        {
+          "title": "Two reasons for requiring Zeman in Get: Peirot (fruits of property) and protecting from accusations of adultery",
+          "display_title": "Zeman reasons",
+          "timestamp": "21:00"
+        },
+        {
+          "title": "Why Zeman is not required in Shtar Kiddushin: Arusah has no Peirot rights",
+          "display_title": "Arusah no Peirot",
+          "timestamp": "25:03"
+        },
+        {
+          "title": "The pragmatic reason: majority of Kiddushin use Kesef, not Shtar, so requirement would be unfair",
+          "display_title": "Kesef majority",
+          "timestamp": "26:38"
+        },
+        {
+          "title": "Slaves can be acquired both ways and Zeman is required; but Kiddushin custom differs",
+          "display_title": "Slaves parallel",
+          "timestamp": "28:19"
+        },
+        {
+          "title": "Practical problem: if Shtar Kiddushin has no Zeman, the document can be lost or destroyed",
+          "display_title": "Document loss",
+          "timestamp": "29:13"
+        },
+        {
+          "title": "Why Zeman is still kept for Get despite the same document loss problem: Get is needed as proof of divorce status",
+          "display_title": "Get as proof",
+          "timestamp": "31:03"
+        },
+        {
+          "title": "Technical discussion: witnesses cannot testify from a written document (Mipichem v'lo mipi Ksavam)",
+          "display_title": "Witness testimony",
+          "timestamp": "31:39"
+        }
+      ]
+    },
+    {
+      "title": "Three brothers married to three unrelated women; one brother dies and the second does Maamar then dies",
+      "display_title": "Maamar case",
+      "timestamp": "36:29",
+      "micro_segments": [
+        {
+          "title": "The scenario: first brother dies, second brother does Maamar with first brother's wife, second brother dies",
+          "display_title": "Scenario setup",
+          "timestamp": "36:29"
+        },
+        {
+          "title": "The problem: the first brother's widow has a double connection to the third brother (from two brothers)",
+          "display_title": "Double connection",
+          "timestamp": "37:44"
+        },
+        {
+          "title": "Mishna rule: both women must do Chalitzah, not Yibum, due to the ambiguous status of Maamar",
+          "display_title": "Chalitzah rule",
+          "timestamp": "37:52"
+        },
+        {
+          "title": "Rebbi Shimon's position: Maamar is either fully valid or invalid, creating a different analysis",
+          "display_title": "Rebbi Shimon",
+          "timestamp": "39:00"
+        }
+      ]
+    },
+    {
+      "title": "Gemara's reframing: the double woman case as a Gezeira (preventive rabbinic ruling) not a Doraita problem",
+      "display_title": "Gezeira logic",
+      "timestamp": "40:46",
+      "micro_segments": [
+        {
+          "title": "If the problem were Doraita, the first brother's widow would simply be excluded, needing no Chalitzah",
+          "display_title": "Doraita exclusion",
+          "timestamp": "40:46"
+        },
+        {
+          "title": "The Gezeira reason: to avoid confusion, both women must do Chalitzah (Gezeira Shema Yomru two wives from one brother)",
+          "display_title": "Gezeira Shema",
+          "timestamp": "41:23"
+        },
+        {
+          "title": "Why not compromise with Yibum and Chalitzah: fear people will do them in wrong order",
+          "display_title": "Wrong order fear",
+          "timestamp": "43:51"
+        }
+      ]
+    },
+    {
+      "title": "Can the second brother give a Get to negate his Maamar and free the third brother for the other widow?",
+      "display_title": "Get negation",
+      "timestamp": "45:35",
+      "micro_segments": [
+        {
+          "title": "Rava's opinion: a Get to negate Maamar frees the co-wife but confuses the Maamar wife's status",
+          "display_title": "Rava position",
+          "timestamp": "45:35"
+        },
+        {
+          "title": "The confusion: the Maamar wife looks like she received a Get to the Zika, preventing all Yibum",
+          "display_title": "Confusion risk",
+          "timestamp": "46:38"
+        },
+        {
+          "title": "Alternative view: the Get only negates Maamar, not Zika, allowing the Maamar wife still to be available",
+          "display_title": "Alternative view",
+          "timestamp": "49:13"
+        },
+        {
+          "title": "Practical uncertainty: how to distinguish between Get to Maamar and Get to Zika",
+          "display_title": "Practical issue",
+          "timestamp": "49:43"
+        }
+      ]
+    },
+    {
+      "title": "Two brothers married to two sisters; one brother dies, then his wife dies (Achos Isha case)",
+      "display_title": "Sisters case",
+      "timestamp": "51:25",
+      "micro_segments": [
+        {
+          "title": "The scenario: sisters married to two brothers, first brother dies (wife becomes Achos Isha to second brother)",
+          "display_title": "Scenario",
+          "timestamp": "51:25"
+        },
+        {
+          "title": "The first brother's widow is forbidden as Achos Isha; when second brother's wife dies, widow remains forbidden forever",
+          "display_title": "Permanent status",
+          "timestamp": "51:58"
+        },
+        {
+          "title": "Gemara's obvious question: this case is clearly forbidden, unlike the previous case where relationship continued",
+          "display_title": "Obvious case",
+          "timestamp": "52:36"
+        },
+        {
+          "title": "Why teach a case that is obvious: because the Mishna first taught the case where relationship continued, establishing the principle",
+          "display_title": "Teaching order",
+          "timestamp": "54:50"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Safek Gerushin (doubtful divorce)",
+      "timestamps": [
+        "00:16",
+        "01:36",
+        "03:03",
+        "06:44",
+        "07:06",
+        "13:00"
+      ]
+    },
+    {
+      "term": "Safeka D'Oraisa (biblical-level doubt)",
+      "timestamps": [
+        "05:18",
+        "05:41",
+        "06:16",
+        "13:07"
+      ]
+    },
+    {
+      "term": "Chazaka (presumed status)",
+      "timestamps": [
+        "01:14",
+        "01:49",
+        "04:44",
+        "05:27",
+        "08:58",
+        "10:21",
+        "10:45"
+      ]
+    },
+    {
+      "term": "Tzaras Ervah (co-wife of forbidden relative)",
+      "timestamps": [
+        "00:24",
+        "01:18",
+        "03:15",
+        "08:46"
+      ]
+    },
+    {
+      "term": "Chalitzah (the shoe removal ceremony)",
+      "timestamps": [
+        "00:25",
+        "01:01",
+        "03:34",
+        "04:03",
+        "06:37",
+        "12:56"
+      ]
+    },
+    {
+      "term": "Yibum (levirate marriage)",
+      "timestamps": [
+        "00:27",
+        "03:29",
+        "03:32",
+        "04:00",
+        "12:56"
+      ]
+    },
+    {
+      "term": "Contradictory witnesses and Safeka",
+      "timestamps": [
+        "04:19",
+        "04:56",
+        "10:04",
+        "10:09"
+      ]
+    },
+    {
+      "term": "Bar Shatya (property case example)",
+      "timestamps": [
+        "11:13",
+        "11:28",
+        "11:42",
+        "11:58"
+      ]
+    },
+    {
+      "term": "Kiddushin (betrothal)",
+      "timestamps": [
+        "06:46",
+        "07:12",
+        "07:39",
+        "13:50",
+        "14:31",
+        "16:22",
+        "19:40",
+        "20:30"
+      ]
+    },
+    {
+      "term": "Gerushin (divorce)",
+      "timestamps": [
+        "01:39",
+        "06:44",
+        "13:50",
+        "14:33",
+        "19:33",
+        "20:30"
+      ]
+    },
+    {
+      "term": "Zeman (date requirement)",
+      "timestamps": [
+        "17:59",
+        "20:30",
+        "21:00",
+        "23:02",
+        "25:03",
+        "26:00",
+        "26:38",
+        "28:19"
+      ]
+    },
+    {
+      "term": "Peirot (fruits of property)",
+      "timestamps": [
+        "21:00",
+        "24:50",
+        "25:13"
+      ]
+    },
+    {
+      "term": "Maamar (quasi-betrothal in Yibum context)",
+      "timestamps": [
+        "37:09",
+        "37:34",
+        "38:46",
+        "39:14",
+        "40:13",
+        "45:35",
+        "46:00",
+        "48:04"
+      ]
+    },
+    {
+      "term": "Gezeira Shema Yomru (preventive rabbinic decree)",
+      "timestamps": [
+        "41:23",
+        "42:50",
+        "43:10"
+      ]
+    },
+    {
+      "term": "Achos Isha (sister of wife - forbidden)",
+      "timestamps": [
+        "51:42",
+        "52:04",
+        "54:05",
+        "54:14"
+      ]
+    },
+    {
+      "term": "Abaye vs. Rava (dispute over learning cases)",
+      "timestamps": [
+        "13:37",
+        "15:47"
+      ]
+    },
+    {
+      "term": "Rebbi Shimon (opposing view on Maamar validity)",
+      "timestamps": [
+        "39:00",
+        "40:20"
+      ]
+    },
+    {
+      "term": "Mipichem v'lo mipi Ksavam (testimony from memory not document)",
+      "timestamps": [
+        "30:48",
+        "31:39",
+        "32:51"
+      ]
+    },
+    {
+      "term": "Shtar Kiddushin (betrothal document)",
+      "timestamps": [
+        "19:40",
+        "20:30",
+        "25:16",
+        "26:00",
+        "26:52",
+        "27:33"
+      ]
+    },
+    {
+      "term": "Get Psul (invalid divorce document)",
+      "timestamps": [
+        "33:00",
+        "33:40"
+      ]
+    }
+  ]
+}

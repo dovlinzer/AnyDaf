@@ -1,0 +1,45 @@
+### Yevamot 9b
+
+**1.**
+*Hebrew/Aramaic:* דִּפְלִיגִי רַבִּי שִׁמְעוֹן וְרַבָּנַן, וְקָתָנֵי!
+*Translation:* This is a case concerning **which Rabbi Shimon and the Rabbis disagree, and** yet it **is taught.** If this *halakha* is taught, evidently this mishna does deal with matters subject to dispute. The Gemara answers **that** Rabbi Shimon does not disagree with the Rabbis concerning all cases of a wife of a brother with whom he did not coexist. If this *yavam* was **born** after his brother’s death, he concedes that the obligation of levirate marriage does not apply to the newborn *yavam*. Rather, the *yevama* is prohibited to him as his brother’s wife.
+
+**2.**
+*Hebrew/Aramaic:* בְּנוֹלַד וּלְבַסּוֹף יִיבֵּם — לָא פְּלִיג רַבִּי שִׁמְעוֹן.
+*Translation:* Furthermore, in a case where he was born **and at the end,** i.e., afterward, a second older brother **entered into levirate marriage** with the *yevama* and subsequently died as well, and the same woman again came before that same younger brother, **Rabbi Shimon did not disagree** with the opinion of the Rabbis here either, as he admits that this woman is permanently forbidden to him because when he was born she was classified as the wife of a brother with whom he did not coexist.
+
+**3.**
+*Hebrew/Aramaic:* וְהָאָמַר רַבִּי אוֹשַׁעְיָא: חָלוּק הָיָה רַבִּי שִׁמְעוֹן אַף בָּרִאשׁוֹנָה!
+*Translation:* In fact, Rabbi Shimon disagreed only with regard to a different case, when there were two brothers, one of whom died, and the second took the *yevama* in levirate marriage. If a third brother was subsequently born and afterward the second brother died, Rabbi Shimon maintains that the youngest brother may enter into levirate marriage with this woman because she was never forbidden to him, as what occurred prior to his birth is of no relevance. Since even in Rabbi Shimon’s opinion it is possible to find a case in which the wife of a brother with whom he did not coexist is forbidden to him, it can be claimed that the mishna is taught in accordance with all opinions. The Gemara raises a difficulty: **But didn’t Rabbi Oshaya say** that **Rabbi Shimon disagreed even with regard to the first** case? In other words, Rabbi Shimon disagreed not only in the case of a woman who entered into levirate marriage before the young brother was born, but even if the young brother was born before the initial levirate marriage took place.
+
+**4.**
+*Hebrew/Aramaic:* הָא אִיתּוֹתַב רַבִּי אוֹשַׁעְיָא.
+*Translation:* The Gemara rejects this suggestion: This statement of **Rabbi Oshaya was conclusively refuted.** Consequently, it remains possible to say that the mishna does not deal with disputes. The Gemara raises a difficulty from another angle. The third chapter discusses a case involving four brothers, two of whom passed away after they were married to two sisters. As a result, the two sisters simultaneously came before the surviving brothers for levirate marriage or *ḥalitza*. The Sages ruled that in this case the brothers may not enter into levirate marriage with the sisters, as it is as though the two sisters came before each brother individually, and due to the levirate bond each sister was, in a sense, considered married to each brother to a certain extent.  Consequently, for each brother the other sister is viewed as his wife’s sister, as it were, and is forbidden to him. Since this occurs to both sisters simultaneously, it is prohibited for both of them to enter into levirate marriage. However, the Sages further said that if one of these sisters was a forbidden relation to one of the surviving brothers, e.g., if he had married her daughter or some other relative, the second sister, to whom he is not a close relative, is permitted to him. If the same applies to the other brother and the second sister, the two brothers could perform *ḥalitza* with the two sisters or even enter into levirate marriage with them.
+
+**5.**
+*Hebrew/Aramaic:* וְהָאָמַר רַב יְהוּדָה אָמַר רַב, וְכֵן תָּנֵי רַבִּי חִיָּיא: בְּכוּלָּן אֲנִי קוֹרֵא בָּהֶן הָאֲסוּרָה לָזֶה — מוּתֶּרֶת לָזֶה, וְהָאֲסוּרָה לָזֶה — מוּתֶּרֶת לָזֶה, וַאֲחוֹתָהּ שֶׁהִיא יְבִמְתָּהּ חוֹלֶצֶת אוֹ מִתְיַיבֶּמֶת.
+*Translation:* With this in mind, the Gemara states its objection: **And didn’t Rav Yehuda say** that **Rav said, and likewise Rabbi Ḥiyya taught** in a *baraita*: With regard **to all of those** fifteen women enumerated in the mishna, it is possible to find a scenario in which **I** would **call them: The** woman **who is forbidden to this** brother **is permitted to that** brother, **and the one who is forbidden to this** brother **is permitted to that** brother. **And** consequently, **her sister who is her sister-in-law performs *ḥalitza* or enters into levirate marriage.** This complex situation can be demonstrated with regard to each of the women enumerated in the mishna, e.g., if one sister is the mother-in-law of one brother, and the second sister is the mother-in-law of the second brother, and so on.
+
+**6.**
+*Hebrew/Aramaic:* וְרַב יְהוּדָה מְתַרְגֵּם מֵחֲמוֹתוֹ וְאֵילָךְ. אֲבָל שִׁיתָּא בָּבֵי דְּרֵישָׁא — לָא. מַאי טַעְמָא?
+*Translation:* **And Rav Yehuda explains** that this is not true of all of the women listed in the mishna. Only **from** the case of **his mother-in-law and onward,** until the end of the list, is it possible for one sister to be a forbidden relation to one brother and the other sister not to be forbidden at all. **However, in the first six cases, no,** this option does not apply. **What is the reason** for this?
+
+**7.**
+*Hebrew/Aramaic:* כֵּיוָן דְּבִתּוֹ
+*Translation:* **Since,** for example, in the case of **one’s daughter,** although it is possible that one of the sisters is the daughter of one of the brothers, her mother is prohibited to all of the brothers as their brother’s wife, and therefore she could not possibly have a daughter from another brother. This case is possible only if one brother raped a woman who subsequently gave birth to his daughter. Since the prohibition with regard to a brother’s wife applies only in the case of marriage, this same woman is not forbidden to a different brother. If another brother came and raped her as well and she gave birth to his daughter too, and these two daughters later married two other brothers, each of these sisters who are sisters-in-law is forbidden to one of the brothers but permitted to the other.
+
+**8.**
+*Hebrew/Aramaic:* בְּאוּנְסִין מַשְׁכַּחַתְּ, בְּנִשּׂוּאִין לָא מַשְׁכַּחַתְּ לַהּ. בְּנִשּׂוּאִין קָמַיְירֵי, בְּאוּנְסִין לָא קָא מַיְירֵי.
+*Translation:* Accordingly, **in** the case of **rape you** can **find** this scenario, but **in** the case of **marriage you cannot find** it. However, the mishna cannot be interpreted as referring to a case of this kind, as **it deals with marriage** and **it does not deal with rape.**
+
+**9.**
+*Hebrew/Aramaic:* וְאַבָּיֵי מְתַרְגֵּם אַף בִּתּוֹ מֵאֲנוּסָתוֹ — כֵּיוָן דְּאַשְׁכּוֹחֵי מַשְׁכַּחַתְּ לַהּ, אִי בָּעֲיָא מִן הָאוּנְסִין תִּהְוֵי, [אִי בָּעֲיָא מִן הַנִּשּׂוּאִין תִּהְוֵי]. אֲבָל אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ — לָא. מַאי טַעְמָא?
+*Translation:* **And Abaye explains** differently, as he would include in this scenario **even his daughter from the woman he raped.** Why would he include this case? **Since you can find** this possibility, **if you wish it can be by rape, and if you wish it can be by marriage,** i.e., regardless of the details, this situation can occur. **However,** the last case, that of **a wife of a brother with whom he did not coexist,** he would **not** include. **What is the reason** for this?
+
+**10.**
+*Hebrew/Aramaic:* כֵּיוָן דִּלְרַבִּי שִׁמְעוֹן הוּא דְּמַשְׁכַּחַתְּ לַהּ, לְרַבָּנַן לָא מַשְׁכַּחַתְּ לַהּ — בִּפְלוּגְתָּא לָא קָא מַיְירֵי.
+*Translation:* **Since it is** only **according to** the opinion of **Rabbi Shimon that you find this** potential scenario, as he permits a *yevama* to her *yavam* in a case where he was born after she first entered levirate marriage, it is therefore possible that one sister might be forbidden to one brother if he was born before his brother took her in levirate marriage. Likewise, another sister might be forbidden to another brother for the same reason, although the first woman would be permitted to him, as in his lifetime she was never the wife of a brother with whom he did not coexist. **According to** the opinion of **the Rabbis,** however, **you cannot find this** scenario, and the mishna **does not deal with disputes** but only with those cases that are accepted by all opinions.
+
+**11.**
+*Hebrew/Aramaic:* וְרַב סָפְרָא מְתַרְגֵּם אַף אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ, וּמַשְׁכַּחַתְּ לַהּ בְּשִׁיתָּא אַחִים, וְאַלִּיבָּא דְּרַבִּי שִׁמְעוֹן.
+*Translation:* **But Rav Safra explains** that the possibility of one brother permitted only to one woman and another brother likewise permitted only to one woman exists **even** in the case of **a wife of a brother with whom he did not coexist, and you** can **find this** scenario **in** a case involving **six brothers, and** this is **in accordance with** the opinion **of Rabbi Shimon.**

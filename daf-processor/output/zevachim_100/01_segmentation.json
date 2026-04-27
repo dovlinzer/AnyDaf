@@ -1,0 +1,914 @@
+{
+  "masechta": "Zevachim",
+  "daf": 100,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "The Status of Onen at Night: Reviewing the Gemara's Initial Challenges to Rabbi Shimon's Position",
+      "display_title": "Onen at Night Setup",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction and Review of Previous Discussion on Onen Eating Korbanos",
+          "display_title": "Introduction",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The Two Key Distinctions: Yom Misa vs. Yom Kvura and the Shimon's Apparent Contradiction",
+          "display_title": "Yom Misa/Kvura Distincti…",
+          "timestamp": "00:14"
+        },
+        {
+          "title": "Rabbi Shimon's Position: Aninus Layla is Not De'oraisa, Proven by Eating Korban Pesach at Night",
+          "display_title": "Shimon's Proof",
+          "timestamp": "01:10"
+        },
+        {
+          "title": "The Internal Contradiction in Rabbi Shimon: Cannot Bring Pesach for Onen Because Not Shalem, Yet Can Eat It at Night",
+          "display_title": "Shimon's Contradiction",
+          "timestamp": "01:41"
+        }
+      ]
+    },
+    {
+      "title": "Rav Mari's Resolution: The Difference Between Yom Misa and Yom Kvura Determines Whether Korban Pesach Is Brought",
+      "display_title": "Rav Mari's Answer",
+      "timestamp": "02:33",
+      "micro_segments": [
+        {
+          "title": "Rav Mari's Distinction: When Death and Burial Occur on the Same Day (14th) vs. Different Days",
+          "display_title": "Death/Burial Same Day",
+          "timestamp": "02:33"
+        },
+        {
+          "title": "Case 1: Yom Misa and Yom Kvura on Same Day (14th) – Aninus De'oraisa, Night Is Forbidden, No Pesach Brought",
+          "display_title": "Same Day Case",
+          "timestamp": "03:05"
+        },
+        {
+          "title": "Case 2: Yom Kvura Only (Not Yom Misa) – Aninus Mi-Derabbanan, Night Is Permitted, Pesach May Be Brought",
+          "display_title": "Different Days Case",
+          "timestamp": "03:37"
+        },
+        {
+          "title": "Rav Ashi's Challenge: How Can Rav Mari Limit Rabbi Shimon's Proof to Yom Kvura When the Debate Is About Yom Misa?",
+          "display_title": "Rav Ashi's Challenge",
+          "timestamp": "05:24"
+        }
+      ]
+    },
+    {
+      "title": "Abbaye's Resolution: The Timing of When Onen Status vs. Pesach Obligation Occurs Determines Priority",
+      "display_title": "Abbaye's Answer",
+      "timestamp": "07:29",
+      "micro_segments": [
+        {
+          "title": "Abbaye's Principle: Whichever Status Attaches First Takes Precedence (Before or After Chatzos)",
+          "display_title": "Status Priority Principle",
+          "timestamp": "07:29"
+        },
+        {
+          "title": "Case 1: Death Before Chatzos – Onen Status Comes First, Pesach Obligation Cannot Override It",
+          "display_title": "Death Before Chatzos",
+          "timestamp": "08:03"
+        },
+        {
+          "title": "Case 2: Death After Chatzos – Pesach Obligation Comes First, Onen Status Cannot Override It",
+          "display_title": "Death After Chatzos",
+          "timestamp": "08:29"
+        },
+        {
+          "title": "Proof from Yosef the Kohen: The Story of Forced Tumah and Pesach Demonstrates Status Priority",
+          "display_title": "Yosef Story",
+          "timestamp": "11:58"
+        },
+        {
+          "title": "The Baraita on Nazir: Even with Multiple Stringent Statuses, Meis Mitzvah Overrides All of Them",
+          "display_title": "Nazir Baraita",
+          "timestamp": "13:18"
+        },
+        {
+          "title": "Reconciliation of Conflicting Baraitot: Yosef Before Chatzos vs. Uleachoso After Chatzos",
+          "display_title": "Baraita Reconciliation",
+          "timestamp": "17:04"
+        },
+        {
+          "title": "Inference from Both Baraitot: Status Priority Principle Applies to Tumah, Therefore Also to Onen and Pesach",
+          "display_title": "Inference to Onen",
+          "timestamp": "18:12"
+        }
+      ]
+    },
+    {
+      "title": "Rava's Resolution: The Distinction Between Bringing vs. Eating the Korban Pesach",
+      "display_title": "Rava's Answer",
+      "timestamp": "23:56",
+      "micro_segments": [
+        {
+          "title": "Rava's Elegant Distinction: Don't Bring Pesach on Behalf of Onen; If Already Brought, Eating Is Permitted",
+          "display_title": "Bring vs. Eat",
+          "timestamp": "23:56"
+        },
+        {
+          "title": "Case 1: Before Shechita and Zerika – Pesach Is Not Brought on Behalf of Onen Because He Is Not Shalem",
+          "display_title": "Before Shechita",
+          "timestamp": "24:31"
+        },
+        {
+          "title": "Case 2: After Shechita and Zerika – Pesach Already Brought, Eating Overrides Aninus Layla Because It Is De'rabbanan",
+          "display_title": "After Shechita",
+          "timestamp": "24:31"
+        },
+        {
+          "title": "Rav Adda's Challenge: If Already Brought, Why Permit Eating? What Was Done Was Done",
+          "display_title": "Rav Adda's Challenge",
+          "timestamp": "25:24"
+        },
+        {
+          "title": "Ravina's Response: Eating the Pesach Is Me'akeiv (Essential) for Fulfilling the Mitzvah",
+          "display_title": "Eating Me'akeiv",
+          "timestamp": "26:27"
+        },
+        {
+          "title": "The Unique Status of Korban Pesach: Unlike Other Korbanos, Eating Is Central, Not Peripheral",
+          "display_title": "Pesach Eating Centrality",
+          "timestamp": "27:00"
+        }
+      ]
+    },
+    {
+      "title": "The Baraita on Yom Shmuah and Likkut Atzamos: Demonstrating the Hierarchy of Aninus Statuses and the Strength of Achilas Pesach",
+      "display_title": "Yom Shmuah Baraita",
+      "timestamp": "28:56",
+      "micro_segments": [
+        {
+          "title": "The Baraita: Yom Shmuah Is Like Yom Likkut Atzamos for Pesach but Not Like Yom Kvurah",
+          "display_title": "Baraita Text",
+          "timestamp": "28:56"
+        },
+        {
+          "title": "Apparent Contradiction Within the Baraita: First Says No Pesach at Night on Yom Kvurah; Later Says Can Eat Kodashim at Night",
+          "display_title": "Internal Contradiction",
+          "timestamp": "31:40"
+        },
+        {
+          "title": "Rav Chisda's First Resolution: The Baraita Contains Conflicting Tannaim with Different Views on Night Following Yom Kvurah",
+          "display_title": "Rav Chisda's Answer",
+          "timestamp": "31:58"
+        },
+        {
+          "title": "Rabba Bar Rav Huna's Resolution: Timing Matters – When Yom Shmuah/Likkut Occurs Before vs. After Nightfall",
+          "display_title": "Rabba Bar Rav Huna",
+          "timestamp": "32:19"
+        },
+        {
+          "title": "Rav Ashi's Alternative Reading: Echad Zeh VeEchad Zeh Refers Only to Yom Shmuah vs. Likkut, Not Including Yom Kvurah",
+          "display_title": "Rav Ashi's Reading",
+          "timestamp": "38:03"
+        },
+        {
+          "title": "The Gemara's Rejection: Rav Ashi's Reading Doesn't Account for Why Kodashim Are Mentioned If Pesach Is Forbidden",
+          "display_title": "Rejection of Rav Ashi",
+          "timestamp": "38:46"
+        }
+      ]
+    },
+    {
+      "title": "The Tannaitic Debate on Aninus: Tanna Kamma vs. Rabbi on Whether Yom Kvurah Extends Into the Night",
+      "display_title": "Tanna Kamma/Rabbi Debate",
+      "timestamp": "40:28",
+      "micro_segments": [
+        {
+          "title": "The Baraita: Ad Masai Misonin Alav – How Long Does Onen Status Last?",
+          "display_title": "Duration of Onen",
+          "timestamp": "40:28"
+        },
+        {
+          "title": "Tanna Kamma: The Entire Day; Rabbi: Until Burial Occurs (Potentially Extending Beyond the Day)",
+          "display_title": "Tanna Kamma vs. Rabbi",
+          "timestamp": "40:54"
+        },
+        {
+          "title": "Initial Challenge: Both Views Seem to Allow Night; How Do We Get a Debate on Whether Night Follows Yom Kvurah?",
+          "display_title": "Initial Problem",
+          "timestamp": "41:22"
+        },
+        {
+          "title": "Rav Sheshes' Attempted Resolution: The Debate Is About Yom Kvurah, Not Yom Misa",
+          "display_title": "Rav Sheshes' Attempt",
+          "timestamp": "42:22"
+        },
+        {
+          "title": "Rav Yosef's Counter-Challenge: But the Previous Baraita Says Yom Shmuah and Likkut Allow Eating; Implies Yom Kvurah Does Not",
+          "display_title": "Rav Yosef's Challenge",
+          "timestamp": "42:40"
+        },
+        {
+          "title": "Gemara's Reinterpretation: Restructuring the Debate to Make Rabbi the Machmir – Tanna Kamma: Day Without Night; Rabbi: Including Night After Burial",
+          "display_title": "Reinterpreted Debate",
+          "timestamp": "44:45"
+        },
+        {
+          "title": "Final Position: Yom Kvurah May or May Not Extend Into the Night for Kodashim; Likkut Atzamos and Yom Shmuah Do Not",
+          "display_title": "Final Position",
+          "timestamp": "48:44"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Onen (One in Mourning Status)",
+      "timestamps": [
+        "00:14",
+        "01:10",
+        "01:41",
+        "02:33",
+        "03:05",
+        "03:37",
+        "05:24",
+        "07:29",
+        "08:03",
+        "08:29",
+        "13:05",
+        "14:21",
+        "18:15",
+        "23:56",
+        "24:31",
+        "28:56",
+        "40:28"
+      ]
+    },
+    {
+      "term": "Aninus Layla (Mourning Status at Night)",
+      "timestamps": [
+        "00:14",
+        "01:14",
+        "01:18",
+        "05:36",
+        "05:40",
+        "05:51",
+        "06:02",
+        "06:18",
+        "06:34",
+        "06:37",
+        "06:46",
+        "06:52",
+        "07:09",
+        "07:12",
+        "28:24",
+        "28:42",
+        "45:50",
+        "48:52",
+        "49:00"
+      ]
+    },
+    {
+      "term": "Yom Misa vs. Yom Kvura (Day of Death vs. Day of Burial)",
+      "timestamps": [
+        "00:35",
+        "00:41",
+        "01:00",
+        "02:53",
+        "02:56",
+        "03:00",
+        "03:18",
+        "03:37",
+        "03:39",
+        "03:45",
+        "04:05",
+        "04:18",
+        "06:16",
+        "06:21",
+        "06:40",
+        "06:46",
+        "06:52",
+        "07:06",
+        "18:03",
+        "30:03",
+        "30:31",
+        "30:33",
+        "31:09",
+        "31:40",
+        "39:05",
+        "40:07",
+        "40:14",
+        "40:47",
+        "42:22",
+        "44:07",
+        "44:51",
+        "45:05",
+        "46:14",
+        "46:51"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon vs. Rabbi Yehuda (Debate on Aninus De'oraisa)",
+      "timestamps": [
+        "01:14",
+        "01:18",
+        "01:22",
+        "01:26",
+        "05:36",
+        "05:40",
+        "06:16",
+        "06:18",
+        "06:34",
+        "06:40",
+        "06:46",
+        "06:52",
+        "07:09",
+        "07:12",
+        "49:02",
+        "49:06"
+      ]
+    },
+    {
+      "term": "Shalem (Complete Status for Bringing Korbanos)",
+      "timestamps": [
+        "01:28",
+        "01:31",
+        "01:35",
+        "01:38",
+        "02:16",
+        "02:18",
+        "02:26",
+        "02:29",
+        "03:08",
+        "03:12",
+        "04:54",
+        "08:12",
+        "09:54",
+        "23:52",
+        "23:56",
+        "24:02",
+        "24:23"
+      ]
+    },
+    {
+      "term": "Korban Pesach (Paschal Offering)",
+      "timestamps": [
+        "00:19",
+        "00:22",
+        "00:24",
+        "00:27",
+        "01:21",
+        "01:22",
+        "01:26",
+        "01:41",
+        "01:44",
+        "01:46",
+        "01:51",
+        "02:13",
+        "02:29",
+        "03:14",
+        "03:29",
+        "03:32",
+        "03:32",
+        "03:37",
+        "03:42",
+        "04:00",
+        "04:02",
+        "05:03",
+        "05:06",
+        "05:08",
+        "05:11",
+        "05:15",
+        "05:40",
+        "05:43",
+        "05:46",
+        "05:51",
+        "05:54",
+        "05:59",
+        "06:08",
+        "06:32",
+        "07:15",
+        "07:21",
+        "12:01",
+        "12:03",
+        "12:11",
+        "12:14",
+        "12:22",
+        "12:23",
+        "13:38",
+        "14:04",
+        "14:06",
+        "14:10",
+        "14:17",
+        "15:17",
+        "16:26",
+        "16:30",
+        "16:40",
+        "17:05",
+        "17:09",
+        "17:15",
+        "17:19",
+        "17:53",
+        "17:56",
+        "17:59",
+        "18:06",
+        "18:20",
+        "23:56",
+        "24:02",
+        "24:29",
+        "24:30",
+        "24:48",
+        "24:58",
+        "25:00",
+        "25:08",
+        "25:14",
+        "25:20",
+        "25:23",
+        "25:26",
+        "25:35",
+        "26:00",
+        "26:07",
+        "26:15",
+        "26:18",
+        "26:30",
+        "26:34",
+        "26:37",
+        "27:09",
+        "27:11",
+        "27:29",
+        "27:34",
+        "27:40",
+        "27:55",
+        "28:05",
+        "28:07",
+        "28:19",
+        "28:24",
+        "28:30",
+        "28:36",
+        "28:42",
+        "28:44",
+        "28:48",
+        "28:52",
+        "29:00",
+        "29:40",
+        "29:45",
+        "29:56",
+        "29:59",
+        "30:06",
+        "30:43",
+        "30:45",
+        "31:04",
+        "31:06",
+        "31:27",
+        "31:43",
+        "31:46",
+        "31:50",
+        "31:58",
+        "32:15",
+        "32:50",
+        "32:53",
+        "33:02",
+        "33:05",
+        "33:08",
+        "33:17",
+        "33:30",
+        "34:43",
+        "34:55",
+        "34:59",
+        "35:03",
+        "35:06",
+        "35:11",
+        "35:19",
+        "35:39",
+        "35:46",
+        "35:50",
+        "36:03",
+        "36:15",
+        "36:20",
+        "36:28",
+        "36:40",
+        "36:42",
+        "36:58",
+        "37:05",
+        "37:15",
+        "37:55",
+        "38:09",
+        "38:15",
+        "38:19",
+        "38:34",
+        "38:37",
+        "38:43",
+        "38:46",
+        "38:49",
+        "38:52",
+        "39:37",
+        "39:42",
+        "40:15",
+        "48:54",
+        "49:00"
+      ]
+    },
+    {
+      "term": "Chatzos (Midday on the 14th of Nisan)",
+      "timestamps": [
+        "07:58",
+        "08:03",
+        "08:33",
+        "09:57",
+        "10:01",
+        "10:05",
+        "17:53",
+        "17:56",
+        "23:02"
+      ]
+    },
+    {
+      "term": "Achilas Pesachim Me'akeiv (Eating the Pesach Is Essential for Fulfilling the Mitzvah)",
+      "timestamps": [
+        "26:27",
+        "26:30",
+        "26:34",
+        "27:09",
+        "27:11",
+        "27:29",
+        "27:40",
+        "28:42",
+        "28:45",
+        "37:43",
+        "37:50",
+        "40:06",
+        "40:09",
+        "40:20"
+      ]
+    },
+    {
+      "term": "Kohen's Obligation to Become Tamei for Relatives",
+      "timestamps": [
+        "10:44",
+        "10:57",
+        "11:03",
+        "11:10",
+        "11:14",
+        "11:18",
+        "11:27",
+        "11:31",
+        "11:38",
+        "11:42",
+        "11:54",
+        "11:56",
+        "12:01",
+        "12:03",
+        "12:11",
+        "12:15",
+        "12:23",
+        "12:27"
+      ]
+    },
+    {
+      "term": "Nazir (Nazirite) and Tumah Restrictions",
+      "timestamps": [
+        "13:18",
+        "13:21",
+        "13:25",
+        "13:30",
+        "14:00",
+        "14:06",
+        "14:17",
+        "14:40",
+        "14:52",
+        "15:02",
+        "15:06",
+        "15:17",
+        "15:32",
+        "16:10",
+        "16:19",
+        "16:40",
+        "17:37",
+        "17:40",
+        "18:03",
+        "20:58",
+        "21:15",
+        "21:20",
+        "21:37",
+        "21:52",
+        "21:55",
+        "22:02",
+        "22:12",
+        "22:14"
+      ]
+    },
+    {
+      "term": "Meis Mitzvah (Abandoned Dead Body Without Relatives to Bury)",
+      "timestamps": [
+        "14:57",
+        "15:02",
+        "15:32",
+        "15:38",
+        "20:59",
+        "21:07",
+        "21:30",
+        "21:32",
+        "21:38",
+        "21:45",
+        "21:50",
+        "22:08",
+        "22:12",
+        "22:14",
+        "22:19"
+      ]
+    },
+    {
+      "term": "Yom Shmuah (Day of Hearing News of Death)",
+      "timestamps": [
+        "28:56",
+        "28:57",
+        "29:01",
+        "29:04",
+        "29:11",
+        "29:19",
+        "29:22",
+        "29:25",
+        "30:03",
+        "30:06",
+        "30:31",
+        "30:33",
+        "30:36",
+        "30:40",
+        "30:43",
+        "30:45",
+        "31:08",
+        "31:14",
+        "32:50",
+        "32:53",
+        "33:02",
+        "34:43",
+        "35:03",
+        "35:06",
+        "35:11",
+        "35:39",
+        "35:50",
+        "36:03",
+        "38:17",
+        "38:43",
+        "38:49",
+        "38:52",
+        "40:17"
+      ]
+    },
+    {
+      "term": "Likkut Atzamos (Day of Gathering Bones for Secondary Burial)",
+      "timestamps": [
+        "30:09",
+        "30:11",
+        "30:16",
+        "30:40",
+        "30:43",
+        "30:52",
+        "31:08",
+        "31:11",
+        "32:15",
+        "32:50",
+        "33:02",
+        "33:17",
+        "34:43",
+        "35:03",
+        "35:39",
+        "35:50",
+        "36:20",
+        "38:17",
+        "38:49",
+        "39:52"
+      ]
+    },
+    {
+      "term": "Kodashim (Holy Sacrifices – General Category)",
+      "timestamps": [
+        "01:22",
+        "05:59",
+        "06:02",
+        "06:04",
+        "31:30",
+        "31:34",
+        "31:37",
+        "31:43",
+        "31:46",
+        "31:50",
+        "33:05",
+        "34:34",
+        "34:37",
+        "34:43",
+        "35:28",
+        "35:37",
+        "35:46",
+        "36:28",
+        "37:43",
+        "38:11",
+        "38:14",
+        "38:19",
+        "38:34",
+        "38:37",
+        "38:43",
+        "38:46",
+        "38:49",
+        "38:52",
+        "39:52",
+        "46:03",
+        "46:08",
+        "49:35"
+      ]
+    },
+    {
+      "term": "De'oraisa (From the Torah) vs. Mi-Derabbanan (From the Rabbis)",
+      "timestamps": [
+        "01:18",
+        "01:21",
+        "03:22",
+        "03:25",
+        "03:53",
+        "04:08",
+        "05:15",
+        "05:36",
+        "05:40",
+        "05:43",
+        "06:02",
+        "06:37",
+        "06:46",
+        "06:52",
+        "06:57",
+        "07:09",
+        "07:12",
+        "07:15",
+        "08:22",
+        "15:14",
+        "18:36",
+        "28:42",
+        "28:45",
+        "40:14",
+        "49:06"
+      ]
+    },
+    {
+      "term": "Status Priority: Which Status Takes Precedence When Multiple Obligations Conflict",
+      "timestamps": [
+        "07:29",
+        "07:51",
+        "08:03",
+        "08:12",
+        "08:29",
+        "08:36",
+        "08:40",
+        "17:51",
+        "18:03",
+        "18:09",
+        "18:12",
+        "18:20"
+      ]
+    },
+    {
+      "term": "Yosef the Kohen (Story of Forced Tumah on Erev Pesach)",
+      "timestamps": [
+        "11:58",
+        "12:01",
+        "12:03",
+        "12:11",
+        "12:15",
+        "12:23",
+        "12:27",
+        "17:05",
+        "17:09",
+        "17:37",
+        "17:41"
+      ]
+    },
+    {
+      "term": "Tannaim/Tannaic Debate (Disputes Among Mishnaic Sages)",
+      "timestamps": [
+        "31:58",
+        "32:01",
+        "32:05",
+        "39:16",
+        "39:19",
+        "40:35",
+        "40:38",
+        "40:47",
+        "41:22"
+      ]
+    },
+    {
+      "term": "Rav Mari (Amora, Proponent of Status-Based Reconciliation)",
+      "timestamps": [
+        "00:07",
+        "02:33",
+        "02:35",
+        "02:38",
+        "05:24",
+        "05:26"
+      ]
+    },
+    {
+      "term": "Rav Ashi (Amora, Challenger of Rav Mari's Position)",
+      "timestamps": [
+        "05:24",
+        "05:26",
+        "38:03",
+        "38:06",
+        "38:13",
+        "38:27",
+        "38:34"
+      ]
+    },
+    {
+      "term": "Abbaye (Amora, Proponent of Timing-Based Reconciliation)",
+      "timestamps": [
+        "07:29",
+        "08:25",
+        "08:47",
+        "09:24",
+        "18:24",
+        "18:28"
+      ]
+    },
+    {
+      "term": "Rava (Amora, Proponent of Distinction Between Bringing and Eating Pesach)",
+      "timestamps": [
+        "23:56",
+        "26:43",
+        "26:48"
+      ]
+    },
+    {
+      "term": "Ravina (Amora, Defender of Rava's Position on Me'akeiv)",
+      "timestamps": [
+        "26:27",
+        "26:43"
+      ]
+    },
+    {
+      "term": "Rav Adda Bar Matna (Amora, Challenger of Rava)",
+      "timestamps": [
+        "25:24",
+        "25:44",
+        "26:46"
+      ]
+    },
+    {
+      "term": "Rabba Bar Rav Huna (Amora, Proponent of Timing Explanation for Baraita Variations)",
+      "timestamps": [
+        "26:40",
+        "26:41",
+        "32:19",
+        "32:20",
+        "32:27"
+      ]
+    },
+    {
+      "term": "Rav Chisda (Amora, Proponent of Conflicting Tannaim Explanation)",
+      "timestamps": [
+        "31:58",
+        "32:01"
+      ]
+    },
+    {
+      "term": "Rav Sheshes (Amora, Attempted Reconciliation of Baraita)",
+      "timestamps": [
+        "42:22",
+        "42:25"
+      ]
+    },
+    {
+      "term": "Rav Yosef (Amora, Challenger of Rav Sheshes)",
+      "timestamps": [
+        "25:24",
+        "42:40",
+        "42:43"
+      ]
+    },
+    {
+      "term": "Rav Yirmiyah (Amora, Skeptical of Rav Yosef's Interpretation)",
+      "timestamps": [
+        "46:25",
+        "46:27"
+      ]
+    },
+    {
+      "term": "Tanna Kamma (First/Majority Opinion of Tannaim)",
+      "timestamps": [
+        "40:54",
+        "41:31",
+        "41:45",
+        "41:50",
+        "42:00",
+        "42:19",
+        "44:48",
+        "45:03",
+        "45:05"
+      ]
+    },
+    {
+      "term": "Shelucho B'Meleio (Agency as a Mode of Fulfilling Obligations)",
+      "timestamps": [
+        "02:13",
+        "02:29",
+        "04:02",
+        "08:07",
+        "09:54",
+        "10:15"
+      ]
+    }
+  ]
+}

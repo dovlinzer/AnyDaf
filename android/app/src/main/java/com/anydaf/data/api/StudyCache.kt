@@ -12,12 +12,8 @@ import okhttp3.RequestBody.Companion.toRequestBody
 import org.json.JSONArray
 import org.json.JSONObject
 
-// ── Supabase Configuration ──────────────────────────────────────────────────
-// After creating your Supabase project, replace these two values with your own.
-// Find them at: Project Dashboard → Settings → API
-private const val SUPABASE_BASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co/rest/v1/study_cache"
-private val SUPABASE_ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
-// ───────────────────────────────────────────────────────────────────────────
+private const val EDGE_FUNCTION_URL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/study-cache"
+private val APP_SECRET get() = com.anydaf.BuildConfig.APP_SECRET
 
 /**
  * Shared read-through cache for Claude-generated study content, backed by Supabase.
@@ -47,12 +43,11 @@ object StudyCache {
         studyMode: StudyMode, quizMode: QuizMode
     ): CachedContent? = withContext(Dispatchers.IO) {
         val key = cacheKey(tractate, daf, sectionIndex, studyMode, quizMode)
-        val url = "$SUPABASE_BASE_URL?key=eq.$key&select=summary,questions_json,shiur_used&limit=1"
+        val url = "$EDGE_FUNCTION_URL?key=$key"
 
         val request = Request.Builder()
             .url(url)
-            .header("apikey", SUPABASE_ANON_KEY)
-            .header("Authorization", "Bearer $SUPABASE_ANON_KEY")
+            .header("x-app-secret", APP_SECRET)
             .build()
 
         try {
@@ -82,7 +77,7 @@ object StudyCache {
 
         // shiurUsed=true: upsert to overwrite any existing non-shiur entry.
         // shiurUsed=false: write-once so we never downgrade a shiur-enriched entry.
-        val url = if (shiurUsed) "$SUPABASE_BASE_URL?on_conflict=key" else SUPABASE_BASE_URL
+        val url = if (shiurUsed) "$EDGE_FUNCTION_URL?on_conflict=key" else EDGE_FUNCTION_URL
         val preferHeader = if (shiurUsed) "resolution=merge-duplicates" else "resolution=ignore-duplicates"
 
         val body = JSONObject().apply {
@@ -95,8 +90,7 @@ object StudyCache {
         val request = Request.Builder()
             .url(url)
             .post(body)
-            .header("apikey", SUPABASE_ANON_KEY)
-            .header("Authorization", "Bearer $SUPABASE_ANON_KEY")
+            .header("x-app-secret", APP_SECRET)
             .header("Content-Type", "application/json")
             .header("Prefer", preferHeader)
             .build()

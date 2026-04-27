@@ -1,0 +1,57 @@
+### Berakhot 42b
+
+**1.**
+*Hebrew/Aramaic:* בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן — כׇּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. אַחַר הַמָּזוֹן — אֶחָד מְבָרֵךְ לְכוּלָּם. וְהוּא אוֹמֵר עַל הַמּוּגְמָר, וְאַף עַל פִּי שֶׁאֵין מְבִיאִין אֶת הַמּוּגְמָר אֶלָּא לְאַחַר סְעוּדָה.
+*Translation:* Additionally: If **wine came before them during the meal, each and every** diner **recites a blessing** over the wine **for himself.** If the wine came **after the meal, one recites a blessing on behalf of them all. And he,** who recited the blessing over the wine, also **says** the blessing **over the incense** [***mugmar***], **although they only bring the incense** to the diners **after the meal.**
+
+**2.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא בְּשַׁבָּתוֹת וְיָמִים טוֹבִים, הוֹאִיל וְאָדָם קוֹבֵעַ סְעוּדָּתוֹ עַל הַיַּיִן. אֲבָל בִּשְׁאָר יְמוֹת הַשָּׁנָה, מְבָרֵךְ עַל כׇּל כּוֹס וָכוֹס.
+*Translation:* GEMARA: With regard to the mishna’s statement that wine that precedes a meal exempts wine that follows a meal, **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: This** *halakha* **was only taught with regard to Shabbat and Festivals, since,** because one can continue drinking at his leisure, **one bases his meal on the wine. However, during the rest of the days of the year,** one who drinks wine at a meal **recites a blessing over each and every cup,** as his original intention was not to drink a lot.
+
+**3.**
+*Hebrew/Aramaic:* אִתְּמַר נָמֵי: אָמַר רַבָּה בַּר מָרִי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: לֹא שָׁנוּ אֶלָּא בְּשַׁבָּתוֹת וְיָמִים טוֹבִים, וּבְשָׁעָה שֶׁאָדָם יוֹצֵא מִבֵּית הַמֶּרְחָץ, וּבִשְׁעַת הַקָּזַת דָּם, הוֹאִיל וְאָדָם קוֹבֵעַ סְעוּדָּתוֹ עַל הַיַּיִן. אֲבָל בִּשְׁאָר יְמוֹת הַשָּׁנָה — מְבָרֵךְ עַל כׇּל כּוֹס וָכוֹס.
+*Translation:* **It was also stated: Rabba bar Mari said** that **Rabbi Yehoshua ben Levi said: This was only taught** in the mishna **with regard to Shabbat and Festivals, and when a person emerges** tired **from the bathhouse,** and wishes to eat and rest, **and during bloodletting,** after which one tends to drink a lot, **since** on these occasions **one** typically **bases his meal on wine. However, during the rest of the days of the year,** one who drinks wine at a meal **recites a blessing over each and every cup.**
+
+**4.**
+*Hebrew/Aramaic:* רַבָּה בַּר מָרִי אִיקְּלַע לְבֵי רָבָא בְּחוֹל. חַזְיֵיהּ דְּבָרֵיךְ לִפְנֵי הַמָּזוֹן, וַהֲדַר בָּרֵיךְ לְאַחַר הַמָּזוֹן. אֲמַר לֵיהּ: יִישַׁר. וְכֵן אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי.
+*Translation:* The Gemara relates that **Rabba bar Mari happened** to come **to the house of Rava during the week. He saw him recite a blessing** over wine **before the meal, and again recite a blessing** on the wine **after the meal. He said to him: Well done. And so too, Rabbi Yehoshua ben Levi said** that this was proper conduct.
+
+**5.**
+*Hebrew/Aramaic:* רַב יִצְחָק בַּר יוֹסֵף אִיקְּלַע לְבֵי אַבָּיֵי בְּיוֹם טוֹב. חַזְיֵיהּ דְּבָרֵיךְ אַכֹּל כָּסָא וְכָסָא. אֲמַר לֵיהּ: לָא סָבַר לַהּ מָר לְהָא דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי?! אֲמַר לֵיהּ: נִמְלָךְ אֲנָא.
+*Translation:* The Gemara also relates: **Rabbi Yitzḥak bar Yosef happened** to come **to the house of Abaye on a Festival. He saw that he recited a blessing over each and every cup** of wine. Rabbi Yitzḥak **said to him:** Does the **Master not hold** in accordance with **that** *halakha* **of Rabbi Yehoshua ben Levi,** who said that one blessing is sufficient? Abaye **said to him:** My original intention was not to base my meal upon wine and with each cup **I change my mind** and decide to drink it. Even Rabbi Yehoshua ben Levi would agree that under those circumstances, one must recite a blessing over each and every cup.
+
+**6.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן מַהוּ שֶׁיִּפְטוֹר אֶת הַיַּיִן שֶׁלְּאַחַר הַמָּזוֹן? אִם תִּימְצֵי לוֹמַר בֵּרַךְ עַל הַיַּיִן שֶׁלִּפְנֵי הַמָּזוֹן פּוֹטֵר אֶת הַיַּיִן שֶׁלְּאַחַר הַמָּזוֹן — מִשּׁוּם דְּזֶה לִשְׁתּוֹת וְזֶה לִשְׁתּוֹת. אֲבָל הָכָא — דְּזֶה לִשְׁתּוֹת, וְזֶה לִשְׁרוֹת — לָא. אוֹ דִילְמָא לָא שְׁנָא.
+*Translation:* **A dilemma was raised before** the Sages: If **wine came out to them during the meal, what is** the *halakha* with regard to **exempting the wine after the meal** from a blessing? The dilemma is as follows: **If you say: One who recited a blessing over the wine that** one drank **before the meal,** with that blessing **he exempted the wine that** he drinks **after the meal,** perhaps that **is because** the purpose of drinking **this,** wine before the meal, **is to drink, and that,** wine after the meal, **is to drink** for its own sake. **However, here, where** the purpose of drinking **this,** the wine after the meal, **is to drink and that,** the wine during the meal, **is to moisten** the food and to facilitate its consumption, **no.** The blessing on one cannot exempt the other. **Or perhaps there is no difference,** and all drinking is considered the same.
+
+**7.**
+*Hebrew/Aramaic:* רַב אָמַר: פּוֹטֵר, וְרַב כָּהֲנָא אָמַר: אֵינוֹ פּוֹטֵר. רַב נַחְמָן אָמַר: פּוֹטֵר, וְרַב שֵׁשֶׁת אָמַר: אֵינוֹ פּוֹטֵר. רַב הוּנָא וְרַב יְהוּדָה וְכׇל תַּלְמִידֵי דְּרַב אָמְרִי: אֵינוֹ פּוֹטֵר. אֵיתִיבֵיהּ רָבָא לְרַב נַחְמָן: בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן — כׇּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. לְאַחַר הַמָּזוֹן — אֶחָד מְבָרֵךְ לְכוּלָּם. אֲמַר לֵיהּ, הָכִי קָאָמַר: אִם לֹא בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן אֶלָּא לְאַחַר הַמָּזוֹן, אֶחָד מְבָרֵךְ לְכוּלָּם.
+*Translation:* Opinions differed: **Rav said: It exempts, and Rav Kahana said: It does not exempt. Rav Naḥman said: It exempts, and Rav Sheshet said: It does not exempt. Rav Huna and Rav Yehuda and all the students of Rav said: It does not exempt. Rava raised an objection to Rav Naḥman** from our mishna: If **wine came before them during the meal, each and every** diner **recites a blessing** over the wine **for himself.** If the wine came **after the meal, one recites a blessing on behalf of them all.** Apparently, even though they recited a blessing over wine during the course of the meal, they must recite a blessing over the wine after the meal as well. Rav Naḥman **said to him:** The mishna **says as follows:** There are two independent cases. The second case is: **If wine did not come before them during the meal, but only after the meal, one recites a blessing on behalf of them all.**
+
+**8.**
+*Hebrew/Aramaic:* בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת. עַל הַפַּרְפֶּרֶת, לֹא פָּטַר אֶת הַפַּת. בֵּית שַׁמַּאי אוֹמְרִים: אַף לֹא מַעֲשֵׂה קְדֵרָה.
+*Translation:* We learned in the mishna: **One who recited a blessing over the bread exempted the appetizers,** as they are considered secondary to the bread. However, one who recited a blessing **over the appetizers did not exempt the bread. Beit Shammai say:** The blessing recited over the appetizers **did not exempt even a cooked dish** that he eats during the meal.
+
+**9.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: בֵּית שַׁמַּאי אַרֵישָׁא פְּלִיגִי, אוֹ דִילְמָא אַסֵּיפָא פְּלִיגִי? דְּקָאָמַר תַּנָּא קַמָּא בֵּרַךְ עַל הַפַּת — פָּטַר אֶת הַפַּרְפֶּרֶת, וְכׇל שֶׁכֵּן מַעֲשֵׂה קְדֵרָה. וְאָתֵי בֵּית שַׁמַּאי לְמֵימַר לָא מִיבַּעְיָא פַּרְפֶּרֶת דְּלָא פָּטְרָה לְהוּ פַּת, אֶלָּא אֲפִילּוּ מַעֲשֵׂה קְדֵרָה נָמֵי לָא פָּטְרָה. אוֹ דִילְמָא אַסֵּיפָא פְּלִיגִי, דְּקָתָנֵי: בֵּרַךְ עַל הַפַּרְפֶּרֶת — לֹא פָּטַר אֶת הַפַּת. פַּת הוּא דְּלָא פָּטַר אֲבָל מַעֲשֵׂה קְדֵרָה — פָּטַר. וְאָתוּ בֵּית שַׁמַּאי לְמֵימַר וַאֲפִילּוּ מַעֲשֵׂה קְדֵרָה נָמֵי לָא פָּטַר.
+*Translation:* With regard to this case, **a dilemma was raised before** the Sages: Do **Beit Shammai disagree with the first clause** in the mishna **or with the latter clause,** as it may be explained in both ways? It can be understood that **the first *tanna* says: One who recited a blessing over the bread exempted the appetizers and all the more so** it exempted **a cooked dish. And Beit Shammai come to say: It goes without saying that** the blessing over **bread does not exempt appetizers; as** the blessing over bread **does not even exempt a cooked dish. Or perhaps they disagree with the latter clause, as it was taught: One who recited a blessing over the appetizers did not exempt the bread.** By inference, the blessing **did not exempt bread, but it did exempt a cooked dish. And Beit Shammai come to say** that the blessing over the appetizers **did not exempt even a cooked dish.**
+
+**10.**
+*Hebrew/Aramaic:* תֵּיקוּ.
+*Translation:* The Gemara concludes: **Let it stand,** as this dilemma remains unresolved.
+
+**11.**
+*Hebrew/Aramaic:* הָיוּ יוֹשְׁבִין כׇּל אֶחָד וְאֶחָד כּוּ׳. הֵסַבּוּ — אִין, לֹא הֵסַבּוּ — לָא. וּרְמִינְהוּ: עֲשָׂרָה שֶׁהָיוּ הוֹלְכִים בַּדֶּרֶךְ, אַף עַל פִּי שֶׁכּוּלָּם אוֹכְלִים מִכִּכָּר אֶחָד — כׇּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. יָשְׁבוּ לֶאֱכוֹל, אַף עַל פִּי שֶׁכָּל אֶחָד וְאֶחָד אוֹכֵל מִכִּכָּרוֹ — אֶחָד מְבָרֵךְ לְכוּלָּם. קָתָנֵי ״יָשְׁבוּ״ אַף עַל פִּי שֶׁלֹּא הֵסַבּוּ!
+*Translation:* The mishna distinguished between a case where several people **were sitting** to eat, which is not a joint meal, **and each and every** diner recites a blessing for himself; and a case where they were reclined on divans, which renders it a joint meal, and one recites a blessing on behalf of all of them. The Gemara infers: If **they reclined, yes,** it is considered a joint meal; if **they did not recline, no. And** the Gemara **raises a contradiction: Ten** people **who were walking on the road, even if they are all eating from one loaf, each and every one recites a blessing for himself.** If **they sat to eat, even if each and every one is eating from his** own **loaf, one recites a blessing on behalf of them all** as it is considered a joint meal. In any case, **it was taught:** If **they sat** to eat, **even though they did not recline.** Apparently, sitting together is enough to render it a joint meal and reclining is not required.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: כְּגוֹן דְּאָמְרִי ״נֵיזִיל וְנֵיכוֹל לַחְמָא בְּדוּךְ פְּלָן״.
+*Translation:* **Rav Naḥman bar Yitzḥak said:** With regard to those walking along the road, it was **in a case where they said: Let us go and eat in such-and-such a place.** Since they designated a specific location to eat together in advance, it is considered a joint meal.
+
+**13.**
+*Hebrew/Aramaic:* כִּי נָח נַפְשֵׁיהּ דְּרַב, אֲזוּל תַּלְמִידֵיהּ בָּתְרֵיהּ. כִּי הָדְרִי, אָמְרִי: נֵיזִיל וְנֵיכוּל לַחְמָא אַנְּהַר דָּנָק. בָּתַר דְּכָרְכִי, יָתְבִי וְקָא מִיבַּעְיָא לְהוּ: ״הֵסַבּוּ״ דַּוְקָא תְּנַן, אֲבָל יָשְׁבוּ לָא, אוֹ דִילְמָא כֵּיוָן דְּאָמְרִי ״נֵיזִיל וְנֵיכוֹל רִיפְתָּא בְּדוּכְתָּא פְּלָנִיתָא״ — כִּי הֵסַבּוּ דָּמֵי? לָא הֲוָה בִּידַיְיהוּ.
+*Translation:* On a similar note, the Gemara relates: **When Rav died, his students went after his** casket to the city where he was to be buried. **When they returned, they said: Let us go and eat bread on** the banks of **the Dannak River. After they ate, they sat, and raised a dilemma: Did we learn** in the mishna **specifically** if **they reclined,** it is considered a joint meal; **however,** if they merely **sat** together, **no,** it is not considered a joint meal? **Or perhaps, since they said: Let us go and eat in such-and-such a place,** it is considered **as if they reclined? It was not within their capability** to resolve this dilemma.
+
+**14.**
+*Hebrew/Aramaic:* קָם רַב אַדָּא בַּר אַהֲבָה
+*Translation:* **Rav Adda bar Ahava stood,**

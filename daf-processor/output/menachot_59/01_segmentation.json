@@ -1,0 +1,536 @@
+{
+  "masechta": "Menachot",
+  "daf": 59,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "The Mishnah's Four Categories of Menachot Based on Oil and Frankincense",
+      "display_title": "Oil & Frankincense",
+      "timestamp": "00:56",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Four Categories",
+          "display_title": "Four Categories",
+          "timestamp": "00:56"
+        },
+        {
+          "title": "Menachot Requiring Both Oil and Frankincense",
+          "display_title": "Require Both",
+          "timestamp": "01:30"
+        },
+        {
+          "title": "Minchat Nesachim: Oil but No Frankincense",
+          "display_title": "Nesachim Category",
+          "timestamp": "02:58"
+        },
+        {
+          "title": "Lechem Hapanim: Frankincense but No Oil",
+          "display_title": "Lechem Hapanim",
+          "timestamp": "03:42"
+        },
+        {
+          "title": "Shtei Halechem, Minchat Chotei, Minchat Kenaot: Neither Oil nor Frankincense",
+          "display_title": "Neither Oil/Frankinc.",
+          "timestamp": "04:05"
+        }
+      ]
+    },
+    {
+      "title": "Rav Papa's Ruling: Ten of Each Type and the Rejection of Rabbi Shimon",
+      "display_title": "Rav Papa's Ruling",
+      "timestamp": "05:40",
+      "micro_segments": [
+        {
+          "title": "Rav Papa's Statement: Whenever We Mention, We Mean Ten",
+          "display_title": "Rav Papa Intro",
+          "timestamp": "05:40"
+        },
+        {
+          "title": "Two Explanations of Rav Papa's Saying",
+          "display_title": "Two Explanations",
+          "timestamp": "05:53"
+        },
+        {
+          "title": "Rejection of Rabbi Shimon's Position on Mixed Chalos and Rekikin",
+          "display_title": "Vs. Rabbi Shimon",
+          "timestamp": "06:20"
+        }
+      ]
+    },
+    {
+      "title": "Talmudic Derivation: Oil in Menachot from the Pasuk of the Omer",
+      "display_title": "Oil Derivation",
+      "timestamp": "08:21",
+      "micro_segments": [
+        {
+          "title": "The Pasuk ונתת עליה שמן and Its Exclusion of Lechem Hapanim",
+          "display_title": "Pasuk ונתת שמן",
+          "timestamp": "08:21"
+        },
+        {
+          "title": "Kal Vachomer: Why Lechem Hapanim Should Have Oil",
+          "display_title": "Kal Vachomer Logic",
+          "timestamp": "09:21"
+        },
+        {
+          "title": "Talmud Lomar: Limiting to What is Explicitly Stated",
+          "display_title": "Talmud Lomar",
+          "timestamp": "10:26"
+        }
+      ]
+    },
+    {
+      "title": "Talmudic Derivation: Frankincense in Menachot and Exclusion of Minchat Nesachim",
+      "display_title": "Frankincense Derivation",
+      "timestamp": "10:43",
+      "micro_segments": [
+        {
+          "title": "The Pasuk ונתת עליה לבונה and Its Exclusion of Minchat Nesachim",
+          "display_title": "Pasuk לבונה",
+          "timestamp": "10:43"
+        },
+        {
+          "title": "Kal Vachomer: Why Minchat Nesachim Should Have Frankincense",
+          "display_title": "Kal Vachomer (Frankinc.)",
+          "timestamp": "11:38"
+        },
+        {
+          "title": "Limiting Frankincense to Explicitly Mentioned Menachot",
+          "display_title": "Limit Frankincense",
+          "timestamp": "12:15"
+        }
+      ]
+    },
+    {
+      "title": "Debate: Should Minchat Kohanim Be Included with Standard Menachot?",
+      "display_title": "Minchat Kohanim",
+      "timestamp": "14:10",
+      "micro_segments": [
+        {
+          "title": "The Question: Why Exclude Minchat Kohanim but Not Lechem Hapanim?",
+          "display_title": "Question Posed",
+          "timestamp": "14:10"
+        },
+        {
+          "title": "First Position: Minchat Kohanim Should Be Included (Mistabra)",
+          "display_title": "Include Position",
+          "timestamp": "14:56"
+        },
+        {
+          "title": "Enumeration of Similarities: Isaron, Kli, Chutz, Tzura, Hagasha, Ishim",
+          "display_title": "Shared Features",
+          "timestamp": "15:06"
+        },
+        {
+          "title": "Counter-Position: Lechem Hapanim and Minchat Omer Are More Similar",
+          "display_title": "Counter Position",
+          "timestamp": "16:50"
+        },
+        {
+          "title": "Enumeration of Lechem Hapanim Similarities: Tzibur, Chova, Tamya, Achill, Pigula, Shabbat",
+          "display_title": "LH Similarities",
+          "timestamp": "17:00"
+        },
+        {
+          "title": "Resolution: Nefesh as the Decisive Factor for Including Minchat Kohanim",
+          "display_title": "Nefesh Resolution",
+          "timestamp": "19:00"
+        }
+      ]
+    },
+    {
+      "title": "Debate: Should Minchat Nesachim Be Included with Standard Menachot?",
+      "display_title": "Minchat Nesachim",
+      "timestamp": "20:21",
+      "micro_segments": [
+        {
+          "title": "The Question: Why Exclude Minchat Nesachim but Not Minchat Kohanim?",
+          "display_title": "Question Posed",
+          "timestamp": "20:21"
+        },
+        {
+          "title": "First Position: Minchat Kohanim Should Be Excluded (Mistabra)",
+          "display_title": "Exclude Position",
+          "timestamp": "20:51"
+        },
+        {
+          "title": "Enumeration of Minchat Kohanim Differences: Isaron, Balul, B'log, Mugash, Biglal Atzmo",
+          "display_title": "MK Differences",
+          "timestamp": "20:59"
+        },
+        {
+          "title": "Counter-Position: Minchat Nesachim Are More Similar to Omer and Standard Menachot",
+          "display_title": "MN Similarities",
+          "timestamp": "21:38"
+        },
+        {
+          "title": "Enumeration of Minchat Nesachim Characteristics: Tzibur, Chova, Tumah, Shabbat",
+          "display_title": "MN Characteristics",
+          "timestamp": "21:41"
+        },
+        {
+          "title": "Resolution: Nefesh Excludes Minchat Nesachim from Oil and Frankincense",
+          "display_title": "Nefesh Resolution",
+          "timestamp": "22:38"
+        }
+      ]
+    },
+    {
+      "title": "Debate: Should Shtei Halechem Be Included with Standard Menachot?",
+      "display_title": "Shtei Halechem",
+      "timestamp": "23:18",
+      "micro_segments": [
+        {
+          "title": "The Question: Why Exclude Shtei Halechem but Not Minchat Kohanim?",
+          "display_title": "Question Posed",
+          "timestamp": "23:18"
+        },
+        {
+          "title": "First Position: Minchat Kohanim Should Be Excluded (Mistabra)",
+          "display_title": "Exclude Position",
+          "timestamp": "24:53"
+        },
+        {
+          "title": "Enumeration of Minchat Kohanim Differences: Isaron, Kli, Matza, Ve'etzem, Hagasha, Ishim",
+          "display_title": "MK Differences",
+          "timestamp": "25:02"
+        },
+        {
+          "title": "Counter-Position: Shtei Halechem Are More Similar to Omer and Standard Menachot",
+          "display_title": "SH Similarities",
+          "timestamp": "26:00"
+        },
+        {
+          "title": "Enumeration of Shtei Halechem Characteristics: Tzibur, Chova, Tumah, Dachi Shabbat, Achill, Pigula, Tnufa, Ba'aretz, Bizman, Chadash",
+          "display_title": "SH Characteristics",
+          "timestamp": "26:07"
+        },
+        {
+          "title": "Final Resolution: Nefesh Excludes Shtei Halechem from Oil and Frankincense",
+          "display_title": "Nefesh Final",
+          "timestamp": "28:20"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Oil (Shemen)",
+      "timestamps": [
+        "00:59",
+        "01:08",
+        "02:58",
+        "03:18",
+        "03:42",
+        "04:02",
+        "08:21",
+        "08:37",
+        "08:59",
+        "09:07",
+        "09:39",
+        "09:42",
+        "10:26",
+        "10:28"
+      ]
+    },
+    {
+      "term": "Frankincense (Levonah)",
+      "timestamps": [
+        "01:00",
+        "01:15",
+        "02:46",
+        "03:42",
+        "03:44",
+        "04:08",
+        "10:43",
+        "10:45",
+        "10:50",
+        "11:15",
+        "12:15",
+        "12:17",
+        "12:36"
+      ]
+    },
+    {
+      "term": "Minchat Nesachim",
+      "timestamps": [
+        "02:58",
+        "03:03",
+        "09:31",
+        "10:52",
+        "11:06",
+        "11:11",
+        "11:27",
+        "12:00"
+      ]
+    },
+    {
+      "term": "Lechem Hapanim",
+      "timestamps": [
+        "03:42",
+        "03:44",
+        "04:02",
+        "09:00",
+        "10:26",
+        "10:30",
+        "10:41",
+        "10:43",
+        "11:21",
+        "11:25"
+      ]
+    },
+    {
+      "term": "Shtei Halechem (Two Loaves of Shavuot)",
+      "timestamps": [
+        "04:05",
+        "04:08",
+        "04:12",
+        "25:37",
+        "26:00",
+        "26:04",
+        "27:28",
+        "28:01"
+      ]
+    },
+    {
+      "term": "Minchat Chotei (Sin Offering Mincha)",
+      "timestamps": [
+        "04:42",
+        "04:44",
+        "05:00",
+        "05:05"
+      ]
+    },
+    {
+      "term": "Minchat Kenaot (Jealousy Offering Mincha)",
+      "timestamps": [
+        "05:18",
+        "05:19",
+        "05:21",
+        "05:26"
+      ]
+    },
+    {
+      "term": "Minchat Kohanim (Kohen's Mincha)",
+      "timestamps": [
+        "02:00",
+        "02:11",
+        "14:21",
+        "14:43",
+        "14:56",
+        "15:02",
+        "20:28",
+        "20:42",
+        "24:40",
+        "24:53",
+        "29:02"
+      ]
+    },
+    {
+      "term": "Minchat Ha'omer (Omer Mincha)",
+      "timestamps": [
+        "02:46",
+        "08:39",
+        "13:01",
+        "18:14",
+        "18:15",
+        "19:03",
+        "26:07",
+        "27:08",
+        "27:12"
+      ]
+    },
+    {
+      "term": "Rabbi Shimon",
+      "timestamps": [
+        "06:20",
+        "06:24",
+        "06:50",
+        "07:02",
+        "07:10",
+        "07:30"
+      ]
+    },
+    {
+      "term": "Hachamim (Sages' Position)",
+      "timestamps": [
+        "07:01"
+      ]
+    },
+    {
+      "term": "Rav Papa",
+      "timestamps": [
+        "05:45",
+        "07:09",
+        "07:10"
+      ]
+    },
+    {
+      "term": "Kal Vachomer (Logical Inference)",
+      "timestamps": [
+        "09:22",
+        "10:10",
+        "11:38",
+        "12:00"
+      ]
+    },
+    {
+      "term": "Pasuk (Verse)",
+      "timestamps": [
+        "01:23",
+        "05:40",
+        "08:39",
+        "08:37",
+        "09:22",
+        "13:01",
+        "19:13",
+        "23:26",
+        "23:40"
+      ]
+    },
+    {
+      "term": "Nefesh (Individual)",
+      "timestamps": [
+        "19:13",
+        "22:38",
+        "28:20",
+        "28:23",
+        "29:00"
+      ]
+    },
+    {
+      "term": "Mishnah",
+      "timestamps": [
+        "00:32",
+        "01:11",
+        "06:02",
+        "06:13",
+        "07:18"
+      ]
+    },
+    {
+      "term": "Piggul (Invalid Due to Wrong Intention)",
+      "timestamps": [
+        "18:31",
+        "18:35",
+        "26:37",
+        "26:50",
+        "27:52"
+      ]
+    },
+    {
+      "term": "Tzibur (Community/Public Offering)",
+      "timestamps": [
+        "17:05",
+        "21:49",
+        "21:51",
+        "26:06"
+      ]
+    },
+    {
+      "term": "Chova (Obligation)",
+      "timestamps": [
+        "17:16",
+        "21:56",
+        "26:09"
+      ]
+    },
+    {
+      "term": "Docheh Tumah (Overrides Impurity)",
+      "timestamps": [
+        "18:11",
+        "18:15",
+        "26:13"
+      ]
+    },
+    {
+      "term": "Docheh Shabbat (Overrides Shabbat)",
+      "timestamps": [
+        "18:53",
+        "26:16"
+      ]
+    },
+    {
+      "term": "Chutz (Outside)",
+      "timestamps": [
+        "15:39",
+        "15:45"
+      ]
+    },
+    {
+      "term": "Isaron (Tenth of an Ephah)",
+      "timestamps": [
+        "15:12",
+        "20:59",
+        "25:05"
+      ]
+    },
+    {
+      "term": "Balul (Mixed)",
+      "timestamps": [
+        "21:06"
+      ]
+    },
+    {
+      "term": "B'log (A Liquid Measure)",
+      "timestamps": [
+        "21:09"
+      ]
+    },
+    {
+      "term": "Mugash (Brought/Presented)",
+      "timestamps": [
+        "21:16"
+      ]
+    },
+    {
+      "term": "Biglal Atzmo (On Its Own Account)",
+      "timestamps": [
+        "21:20"
+      ]
+    },
+    {
+      "term": "Matza (Unleavened)",
+      "timestamps": [
+        "25:27"
+      ]
+    },
+    {
+      "term": "Ve'etzem (And It Itself)",
+      "timestamps": [
+        "25:36"
+      ]
+    },
+    {
+      "term": "Achill (Eaten)",
+      "timestamps": [
+        "18:23",
+        "26:30"
+      ]
+    },
+    {
+      "term": "Tnufa (Waved)",
+      "timestamps": [
+        "27:22"
+      ]
+    },
+    {
+      "term": "Ba'aretz (From the Land)",
+      "timestamps": [
+        "27:32"
+      ]
+    },
+    {
+      "term": "Bizman (At the Specific Time)",
+      "timestamps": [
+        "27:57"
+      ]
+    },
+    {
+      "term": "Chadash (New Grain)",
+      "timestamps": [
+        "28:01"
+      ]
+    }
+  ]
+}

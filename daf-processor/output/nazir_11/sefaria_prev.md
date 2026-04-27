@@ -1,0 +1,21 @@
+### Nazir 10b
+
+**1.**
+*Hebrew/Aramaic:* וְאָמַר: ״הֲרֵינִי נָזִיר מִיַּיִן אִם לֹא עָמְדָה״, וְעָמְדָה מֵאֵלֶיהָ. בֵּית שַׁמַּאי סָבְרִי: תּוּרְפֵּיהּ דְּהַאי גַּבְרָא מִשּׁוּם אוֹקֹמַהּ בִּידֵיהּ הוּא, וְהָא לָא אוֹקְמַהּ. וּבֵית הִלֵּל סָבְרִי: מִשּׁוּם דִּרְבִיעָא הוּא, וְהָא קָמַת.
+*Translation:* **and he said: I am hereby a nazirite** and therefore will refrain **from wine if it does not stand,** since I will force it to do so, **and it stood of its own accord,** without him causing it to stand. **Beit Shammai hold: This man’s intention [*turpeih*] is based upon him having it stand by his** own **hand, and he did not have it stand.** Since he did not cause it to stand, his vow of naziriteship takes effect. **And Beit Hillel hold:** His intention **is based upon** the fact **that it was prone, and** now **it has stood.** Since the cow stood up it does not matter what caused it to stand, and his vow of naziriteship does not take effect.
+
+**2.**
+*Hebrew/Aramaic:* אִי הָכִי, אֵימָא סֵיפָא, אָמַר רַבִּי יְהוּדָה: אַף כְּשֶׁאָמְרוּ בֵּית שַׁמַּאי, לֹא אָמְרוּ אֶלָּא בְּאוֹמֵר ״הֲרֵי הֵן עָלַי קׇרְבָּן״. פָּרָה מִי קָא מַתְפֵּיס בָּהּ מִידֵּי?
+*Translation:* The Gemara asks: **If so, say the latter clause** of the mishna as follows: **Rabbi Yehuda said: Even when Beit Shammai said** the vow is effective **they said** so **only with regard to one who said: They are hereby** forbidden **to me** as **an offering.** But **does he** take a vow and **extend any** prohibition **to the cow?** Since according to this approach, he explicitly mentions naziriteship, the cow is not rendered forbidden but is merely the subject of a condition of the vow, so why does Rabbi Yehuda speak of a prohibition on the cow?
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא כְּגוֹן דְּאָמַר ״הֲרֵינִי נָזִיר מִבְּשָׂרָהּ אִם לֹא עָמְדָה״, וְעָמְדָה מֵאֵלֶיהָ. בֵּית שַׁמַּאי סָבְרִי: תּוּרְפֵּיהּ דְּהָהוּא גַּבְרָא מִשּׁוּם אוֹקֹמַהּ בִּידֵיהּ הוּא, וְהָא לָא אוֹקְמַהּ. וּבֵית הִלֵּל סָבְרִי: תּוּרְפֵּיהּ דְּהַאי גַּבְרָא מִשּׁוּם דִּרְבִיעָא, וְהָא קָמַת.
+*Translation:* The Gemara offers another explanation: **Rather,** the mishna is referring to a case **where he said: I am hereby a nazirite** and therefore will refrain **from its flesh if it does not stand, and it stood of its own accord. Beit Shammai hold: That man’s intention is based upon** him **having it stand by his own hand, and he did not have it stand.** Since he did not cause it to stand, his vow of prohibition takes effect. **And Beit Hillel hold: This man’s intention is based upon** the fact **that it was prone, and** now **it has stood,** so his vow does not take effect.
+
+**4.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל סָבְרִי אִי לָא קָמַת הָוֵי נָזִיר? וְהָאָמְרִי ״מִבְּשָׂרָהּ״ — לָא הָוֵי נָזִיר!
+*Translation:* The Gemara asks: **And** do **Beit Hillel hold** that **if** the cow **does not stand he will be a nazirite? But didn’t they say** that if one states: I am hereby a nazirite and therefore will refrain **from** the cow’s **flesh, he is not a nazirite,** just as they ruled in a case where one states that he is a nazirite from dried figs?
+
+**5.**
+*Hebrew/Aramaic:* לְטַעְמַיְיהוּ דְּבֵית שַׁמַּאי קָאָמְרִי: לְדִידַן אֲפִילּוּ לָא קָמַת, נָמֵי לָא הָוֵי נָזִיר. לְדִידְכוּ דְּאָמְרִיתוּ הָוֵי נָזִיר, אוֹדוֹ לַן מִיהַת דְּתוּרְפֵּיהּ דְּהָדֵין גַּבְרָא מִשּׁוּם דִּרְבִיעָא, וְהָא קָמַת. וּבֵית שַׁמַּאי: לָאו תּוּרְפֵּיהּ דְּהַאי גַּבְרָא מִשּׁוּם אוֹקֹמַהּ בִּידֵיהּ הוּא, וְהָא לָא אוֹקְמַהּ.
+*Translation:* The Gemara answers: **They stated** their opinion **in accordance with the reasoning of Beit Shammai: According to our** opinion, **even** if the cow **does not stand he is also not a nazirite,** since naziriteship takes effect only if he vowed that products of the vine are forbidden to him. However, **according to your** reasoning **that you say he is a nazirite, in any event concede to us that this man’s intention is based upon** the fact **that** the cow **was prone, and it has stood,** so the naziriteship should not take effect. **And Beit Shammai** hold: **Isn’t this man’s intention based upon** him **having it stand by his own hand, and he did not have it stand?** Since his condition was not fulfilled, the naziriteship does not take effect.

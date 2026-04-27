@@ -1,0 +1,61 @@
+### Kiddushin 63b
+
+**1.**
+*Hebrew/Aramaic:* עַל מְנָת שֶׁיִּשְׁתּוֹק אַבָּא. אֵימָא סֵיפָא: מֵת הַבֵּן – מְלַמְּדִין אֶת הָאָב לוֹמַר שֶׁאֵינוֹ רוֹצֶה. אַמַּאי? וְהָא שְׁתֵיק! אֶלָּא אֲמַר לַהּ ״עַל מְנָת שֶׁלֹּא יְמַחֶה אַבָּא״.
+*Translation:* the phrase: On the condition that my father wants this betrothal, means: **On the condition that** my **father will remain silent** and will not object when he hears of the betrothal. But if this is the case, **say the last clause** of the mishna: If **the son died, one instructs the father to say that he does not want** the betrothal. **Why** should this matter? After all, **he remained silent** when he first heard about it. Clearly his mere silence does not constitute agreement. **Rather,** one must say that the phrase: On the condition that my father wants this betrothal, means that **he said to her: On the condition that** my **father will not object** to this betrothal at any point in time.
+
+**2.**
+*Hebrew/Aramaic:* רֵישָׁא בְּחַד טַעְמָא וּמְצִיעֲתָא וְסֵיפָא בְּחַד טַעְמָא! אָמַר רַבִּי יַנַּאי: אִין. אָמַר רֵישׁ לָקִישׁ: שְׁמַע מִינַּהּ לִדְרַבִּי יַנַּאי דָּחֲקִינַן וּמוֹקְמִינַן מַתְנִיתִין בִּתְרֵי טַעֲמֵי וְאַלִּיבָּא דְּחַד תַּנָּא וְלָא מוֹקְמִינַן בִּתְרֵי תַּנָּאֵי וּבְחַד טַעְמָא.
+*Translation:* The Gemara asks: Wouldn’t this mean that **the first clause** of the mishna describes **one reason,** i.e., one set of circumstances, **and the middle clause and last clause** describe **one** other **reason? Rabbi Yannai said: Yes,** this is so. **Reish Lakish said: Conclude from** his statement that **according to** the opinion **of Rabbi Yannai one forces a mishna** to be explained as **following two reasons, and in accordance with** the opinion **of one *tanna*, rather than establishing** a mishna as following the opinions of **two *tanna’im* and one reason.** In other words, an interpretation that maintains the unified attribution of one mishna is preferable, even if one is thereby forced to say that it addresses different situations.
+
+**3.**
+*Hebrew/Aramaic:* רַב יוֹסֵף בַּר אַמֵּי אָמַר: לְעוֹלָם חַד טַעְמָא הוּא, וּמַאי ״עַל מְנָת שֶׁיִּרְצֶה אַבָּא״ – עַל מְנָת שֶׁלֹּא יְמַחֶה אַבָּא מִכָּאן וְעַד שְׁלֹשִׁים יוֹם.
+*Translation:* **Rav Yosef bar Ami said: Actually,** the entire mishna **is** addressing **one reason,** i.e., one case, **and what** is the meaning of: **On the condition that** my **father wants** the betrothal? It means: **On the condition that** my **father will not object from now and until thirty days** have elapsed. His silence for thirty days indicates his acceptance of the betrothal.
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ ״קִדַּשְׁתִּי אֶת בִּתִּי וְאֵינִי יוֹדֵעַ לְמִי קִידַּשְׁתִּיהָ״, וּבָא אֶחָד וְאָמַר ״אֲנִי קִידַּשְׁתִּיהָ״ – נֶאֱמָן. זֶה אָמַר ״אֲנִי קִידַּשְׁתִּיהָ״ וְזֶה אָמַר ״אֲנִי קִידַּשְׁתִּיהָ״ – שְׁנֵיהֶם נוֹתְנִים גֵּט. וְאִם רָצוּ – אֶחָד נוֹתֵן גֵּט, וְאֶחָד כּוֹנֵס.
+*Translation:* MISHNA: With regard to a man who said: **I betrothed my** minor **daughter** to someone **but I do not know to whom I betrothed her, and one** man **came** forward **and said: I betrothed her,** his claim is **deemed credible.** If two men stepped forward and **this** one **said: I betrothed her, and that** one **said: I betrothed her,** they must **both give** her **a bill of divorce** to render it permitted for her to marry anyone else. **And if they** so **desire, one** of them **gives** her **a bill of divorce and** the other **one may marry** her.
+
+**5.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב: – נֶאֱמָן לִיתֵּן גֵּט, וְאֵין נֶאֱמָן לִכְנוֹס. נֶאֱמָן לִיתֵּן גֵּט, אֵין אָדָם חוֹטֵא וְלֹא לוֹ. וְאֵין נֶאֱמָן לִכְנוֹס? אֵימָא יִצְרוֹ תּוֹקְפוֹ.
+*Translation:* GEMARA: **Rav says:** When the mishna states that the claim of one who says that he betrothed this girl is deemed credible, it means that he is **deemed credible** to the extent that he **may give** her **a bill of divorce, but** he is **not deemed credible to marry** her. He is **deemed credible to give** her **a bill of divorce,** as there is a presumption that **a person sins only for his own** benefit. No one is suspected of sinning when he does not stand to gain from it. Since he is not allowed to marry her himself, we do not say that he lied without purpose. **But he is not deemed credible to marry** her, as we **say** that **his inclination** might have **overcome him,** leading him to falsely claim that he is the one who betrothed her.
+
+**6.**
+*Hebrew/Aramaic:* רַב אַסִּי אָמַר: אַף נֶאֱמָן לִכְנוֹס. וּמוֹדֶה רַב אַסִּי בְּאוֹמֶרֶת ״נִתְקַדַּשְׁתִּי וְאֵינִי יוֹדַעַת לְמִי נִתְקַדַּשְׁתִּי״ וּבָא אֶחָד וְאָמַר ״קִידַּשְׁתִּיהָ״ שֶׁאֵין נֶאֱמָן לִכְנוֹס.
+*Translation:* **Rav Asi** disagrees with Rav’s interpretation of the mishna and **says: He** is **deemed credible even to marry** her, as he would not dare to lie directly to the father of the girl he claims to have betrothed. **And Rav Asi concedes in** the case of a woman **who says: I became betrothed but I do not know to whom I became betrothed, and one** man **came and said: I betrothed her, that he is not deemed credible to marry her.** In this situation she might have agreed to collude with him, as the Gemara will explain.
+
+**7.**
+*Hebrew/Aramaic:* תְּנַן: רָצוּ – אֶחָד נוֹתֵן גֵּט וְאֶחָד כּוֹנֵס, תְּיוּבְתָּא דְרַב! אָמַר לְךָ רַב: שָׁאנֵי הָתָם, דְּכֵיוָן דְּאִיכָּא אַחֵר בַּהֲדֵיהּ – אִירְתוֹתֵי מִירְתַת.
+*Translation:* The Gemara raises a difficulty: **We learned** in the mishna that if **they** so **desire, one** of them **gives** her **a bill of divorce and** the other **one may marry** her. This is apparently **a conclusive refutation** of the opinion **of Rav,** who says that he may not marry her. The Gemara answers: **Rav** could have **said to you: There,** in our mishna, **it is different, as, since there is another** person **with him** also claiming to have betrothed her, **he is afraid** to lie.
+
+**8.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּרַב אַסִּי: קִידַּשְׁתִּי אֶת בִּתִּי וְאֵינִי יוֹדֵעַ לְמִי קִידַּשְׁתִּיהָ, וּבָא אֶחָד וְאָמַר קִידַּשְׁתִּיהָ – אַף נֶאֱמָן לִכְנוֹס. כְּנָסָהּ וּבָא אַחֵר וְאָמַר אֲנִי קִדַּשְׁתִּיהָ – לֹא כׇּל הֵימֶנּוּ לְאוֹסְרָהּ עָלָיו.
+*Translation:* The Gemara comments: It **is taught** in a *baraita* **in accordance with** the opinion **of Rav Asi:** If a man said: **I have betrothed my daughter** to someone **but I do not know to whom I betrothed her, and one** person **came** forward **and said: I betrothed her,** he is **deemed credible even to marry** her. If that person **married her, and another** man **came** forward **and said:** It was **I** who **betrothed her, it is not within** the second man’s **power to prohibit her to** her husband.
+
+**9.**
+*Hebrew/Aramaic:* הָאִשָּׁה שֶׁאָמְרָה ״נִתְקַדַּשְׁתִּי וְאֵינִי יוֹדַעַת לְמִי נִתְקַדַּשְׁתִּי״ וּבָא אֶחָד וְאָמַר ״אֲנִי קִידַּשְׁתִּי״ – אֵין נֶאֱמָן לִכְנוֹס. מִפְּנֵי שֶׁהִיא מְחַפָּה עָלָיו.
+*Translation:* The *baraita* cites another case: With regard to **a woman who said: I became betrothed but I do not know to whom I became betrothed, and one** man **came and said: I betrothed** her, he is **not deemed credible to marry** her. Why not? **Because she is protecting him.** Perhaps she decided only now that she wants to marry him and is therefore identifying him as the man who betrothed her, although she knows it was someone else. The same suspicions do not arise in the case of a father, who has no inclinations in this regard.
+
+**10.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: מַהוּ לִסְקוֹל עַל יָדוֹ? רַב אָמַר: אֵין סוֹקְלִין. וְרַב אַסִּי אָמַר: סוֹקְלִין.
+*Translation:* § **A dilemma was raised before** the Sages: In the case of the mishna, where the father claims to have betrothed his daughter to someone, **what is** the *halakha* **with regard to stoning based on** the father’s account? Is a father who says: I betrothed my daughter, deemed credible to the extent that she is stoned as an adulteress if she engages in sexual intercourse with someone? **Rav says** the court **does not stone** her, **and Rav Asi says** the court **stones** her.
+
+**11.**
+*Hebrew/Aramaic:* רַב אָמַר: אֵין סוֹקְלִין, כִּי הֵימְנֵיהּ רַחֲמָנָא לְאָב, לְאִיסּוּרָא, לִקְטָלָא לָא הֵימְנֵיהּ. רַב אַסִּי אָמַר: סוֹקְלִין, לְכוּלַּהּ מִילְּתֵיהּ הֵימְנֵיהּ רַחֲמָנָא לְאָב. אָמַר רַב אַסִּי: וּמוֹדֵינָא בְּאוֹמֶרֶת ״נִתְקַדַּשְׁתִּי״, שֶׁאֵין סוֹקְלִים.
+*Translation:* The Gemara elaborates: **Rav said** that the court **does not stone** her, because **when the Merciful One deems the father credible** when he says he betrothed his daughter, this is referring only **to the prohibition** against her marrying anyone else. By contrast, **with regard to killing** her, the Torah **did not deem him credible. Rav Asi said:** The court **stones** her, as **the Merciful One deems the father credible with regard to all matters,** including the death penalty. **Rav Asi says: And I concede** in the case **of** a woman who **says: I became betrothed, that** the court **does not stone** her on the basis of her own admission.
+
+**12.**
+*Hebrew/Aramaic:* וְאָמַר רַב אַסִּי: הָנֵי שְׁמַעְתָּתָא דִּידִי מְרַפְּסָן אִיגָּרֵי. הַשְׁתָּא, וּמָה בִּמְקוֹם שֶׁאִם בָּא לִכְנוֹס כּוֹנֵס – אָמַרְתָּ סוֹקְלִים, מְקוֹם שֶׁאִם בָּא לִכְנוֹס אֵין כּוֹנֵס – אֵינוֹ דִּין שֶׁסּוֹקְלִין?
+*Translation:* **And Rav Asi says: These *halakhot* of mine are roof breakers,** i.e., they are difficult and incomprehensible. Rav Asi explains: **Now, in a case where** a father said: I have betrothed my daughter to someone but I do not know to whom, **where if** someone **came to marry** her he is deemed credible and **may marry** her, which means **you say** that the court then **stones** her on the basis of the father’s testimony if she later commits adultery, **is it not logical that** the court should **stone** her in **a case** where a woman said: I became betrothed but I do not know to whom, thereby prohibiting herself to everyone to the extent that **if** someone **came to marry** her **he may not marry** her?
+
+**13.**
+*Hebrew/Aramaic:* וְלָא הִיא, לְאָב הֵימְנֵיהּ רַחֲמָנָא, לְדִידַהּ לָא הֵימְנַהּ.
+*Translation:* **But** that **is not so,** i.e., Rav Asi’s rulings are in fact reasonable: **The Merciful One deems credible a father** who says that his daughter is betrothed, and therefore she can even be stoned, but the Torah **did not deem her,** i.e., the woman herself, **credible** in this regard. She does not receive a special degree of credibility, and although she can declare herself a forbidden item, i.e., she can render herself forbidden to all men, as far as punishment is concerned her claim is treated by a court in accordance with the regular rules of evidence.
+
+**14.**
+*Hebrew/Aramaic:* וְרַב חִסְדָּא אָמַר: אֶחָד זֶה וְאֶחָד זֶה – אֵין סוֹקְלִין. וְאַזְדָּא רַב חִסְדָּא לְטַעְמֵיהּ, דְּאָמַר רַב חִסְדָּא: ״בְּנִי זֶה בֶּן תֵּשַׁע שָׁנִים וְיוֹם אֶחָד״, ״בִּתִּי זוֹ בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד״ – נֶאֱמָן לְקׇרְבָּן, אֲבָל לֹא לְמַכּוֹת וְלֹא לָעוֹנָשִׁין.
+*Translation:* **And Rav Ḥisda said: Both** in **this** case, when the father says: I betrothed my daughter, **and** in **that** case, when she herself says: I became betrothed, the court **does not stone** her. The Gemara comments: **And Rav Ḥisda follows his** standard line of **reasoning, as Rav Ḥisda says** that if a father declared: **This son of mine is nine years and one day old,** or: **This daughter of mine is three years and one day old,** and the son engaged in intercourse with a woman forbidden to him, or the daughter engaged in intercourse with a man forbidden to her, he is **deemed credible** concerning his children’s ages **with regard to** the requirement for the adult to bring **an offering** if they performed the act unwittingly, **but not with regard to** their receiving the punishment of **lashes and not with regard to** other **punishments.**
+
+**15.**
+*Hebrew/Aramaic:* תַּנְיָא כְּווֹתֵיהּ דְּרַב חִסְדָּא: ״בְּנִי זֶה בֶּן שְׁלֹשׁ עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד״ ״בִּתִּי זוֹ בַּת שְׁתֵּים עֶשְׂרֵה שָׁנָה וְיוֹם אֶחָד״ –
+*Translation:* The Gemara comments: It **is taught** in a *baraita* **in accordance with** the opinion **of Rav Ḥisda** that if one said: **This son of mine is thirteen years and one day old,** or: **This daughter of mine is twelve years and one day old,**

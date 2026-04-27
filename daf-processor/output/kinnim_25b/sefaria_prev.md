@@ -1,0 +1,9 @@
+### Kinnim 24b
+
+**1.**
+*Hebrew/Aramaic:* חַטָּאת וְעוֹלָה וּסְתוּמָה וּמְפֹרֶשֶׁת, עָשָׂה כֻלָּן לְמַעְלָן, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. כֻּלָּן לְמַטָּה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. חֶצְיָן לְמַעְלָן וְחֶצְיָן לְמַטָּן, אֵין כָּשֵׁר אֶלָּא סְתוּמָה, וְהִיא מִתְחַלֶּקֶת בֵּינֵיהֶן:
+*Translation:* If a hatat, an olah, an unassigned pair of birds and an assigned pair [became mixed up], and he offered them all above, then half are valid and half are invalid. [Similarly] if he offered all of them below, half are valid and half are invalid. If he offered half of them above and half below, none is valid except the unassigned pair, and that must be divided between them.
+
+**2.**
+*Hebrew/Aramaic:* חַטָּאת שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן חַטָּאת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּחַטָּאת, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. וְחַטָּאת שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר. וְכֵן עוֹלָה שֶׁנִּתְעָרְבָה בְחוֹבָה, אֵין כָּשֵׁר אֶלָּא מִנְיַן עוֹלוֹת שֶׁבַּחוֹבָה. חוֹבָה שְׁנַיִם בְּעוֹלָה, מֶחֱצָה כָשֵׁר וּמֶחֱצָה פָסוּל. עוֹלָה שְׁנַיִם בְּחוֹבָה, הַמִּנְיָן שֶׁבַּחוֹבָה כָּשֵׁר:
+*Translation:* If hataot birds were mixed up with [unassigned birds that were] obligatory offerings, only the number of hataot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the hataot, then half are valid and half invalid; But if the hataot are twice as many as the [unassigned] obligatory offerings, then the number [of hataot] among the obligatory offerings are valid. So, too, if [birds assigned as] olot were mixed up with [unassigned] obligatory offerings, only the number of olot among the obligatory offerings are valid. If the [unassigned] obligatory offerings are twice as many as the olot, then half are valid and half invalid. But if the olot are twice as many as the [unassigned] obligatory offerings, then the number [of olot] among the obligatory offerings are valid.

@@ -1,0 +1,791 @@
+{
+  "masechta": "Menachot",
+  "daf": 25,
+  "amud": "a-b",
+  "macro_segments": [
+    {
+      "title": "The Mishnah's Rule: When the Tzitz Atones for Tumah but Not for Yotzei",
+      "display_title": "Tzitz Meratzeh",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "The Mishnah: Kometz Became Tamei but Was Offered; Kometz Was Taken Out",
+          "display_title": "Mishnah: Tamei/Yotzei",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Explanation: The Tzitz Forgives Tumah Status, Allowing Valid Korban",
+          "display_title": "Tzitz Mechanism",
+          "timestamp": "00:14"
+        }
+      ]
+    },
+    {
+      "title": "Deriving the Tzitz's Power from Scripture: Only for Tumah, Not Pigul or Nosar",
+      "display_title": "Braita: Tzitz Power",
+      "timestamp": "01:54",
+      "micro_segments": [
+        {
+          "title": "Braita: Aaron Bears the Sin of Sacrifices via the Tzitz",
+          "display_title": "V'nasa Aharon",
+          "timestamp": "01:54"
+        },
+        {
+          "title": "Testing What Sin the Tzitz Covers: Not Pigul (Explicitly Disqualified)",
+          "display_title": "Not Pigul",
+          "timestamp": "02:15"
+        },
+        {
+          "title": "Testing What Sin: Not Nosar (Explicitly Disqualified in Torah)",
+          "display_title": "Not Nosar",
+          "timestamp": "02:48"
+        },
+        {
+          "title": "Rabbeinu Tam: The Tzitz Works Only for Tumah, Which Is Sometimes Overridden",
+          "display_title": "Tumah Hutra",
+          "timestamp": "04:18"
+        }
+      ]
+    },
+    {
+      "title": "Rav Zeira's Challenge: Testing Whether Yotzei Could Also Be Covered",
+      "display_title": "Rav Zeira Challenge",
+      "timestamp": "05:04",
+      "micro_segments": [
+        {
+          "title": "Rav Zeira Proposes: Maybe the Tzitz Covers Yotzei, Which Was Permitted in Bamot Era",
+          "display_title": "Yotzei Proposal",
+          "timestamp": "05:04"
+        },
+        {
+          "title": "Abaye's Rebuttal: The Sin Must Occur Before God in the Mikdash, Not Outside It",
+          "display_title": "Abaye: Lifnei Hashem",
+          "timestamp": "06:06"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Ila's Challenge: Testing Whether Left-Hand Carrying Could Be Covered",
+      "display_title": "Rabbi Ila Challenge",
+      "timestamp": "06:27",
+      "micro_segments": [
+        {
+          "title": "Rabbi Ila Proposes: Maybe the Tzitz Covers Left-Hand Carrying, Permitted on Yom Kippur",
+          "display_title": "Smol Proposal",
+          "timestamp": "06:27"
+        },
+        {
+          "title": "Abaye's Rebuttal: On Yom Kippur, Left-Hand Carrying Is the Proper Way, Not an Override",
+          "display_title": "Yom Kippur Exception",
+          "timestamp": "07:03"
+        }
+      ]
+    },
+    {
+      "title": "Rav Ashi's Decisive Answer: The Sin Must Inhere in the Sacrificial Object Itself",
+      "display_title": "Avon Hakodashim",
+      "timestamp": "07:50",
+      "micro_segments": [
+        {
+          "title": "Rav Ashi: The Tzitz Covers Only Avon Hakodashim (Sin of Sacrifice), Not Avon Hamakdishim",
+          "display_title": "Kodshim vs. Makdishim",
+          "timestamp": "07:50"
+        }
+      ]
+    },
+    {
+      "title": "Second Braita: Distinguishing Shogeg from Mezid for Individual vs. Communal Offerings",
+      "display_title": "Shogeg/Mezid Distinction",
+      "timestamp": "10:49",
+      "micro_segments": [
+        {
+          "title": "Braita: Tamei Blood Sprinkled—Works If Unintentional, Not If Intentional",
+          "display_title": "Dam Tamei",
+          "timestamp": "10:49"
+        },
+        {
+          "title": "Braita: Only by Individual; by Communal Offerings, Works Even if Intentional",
+          "display_title": "Yachid vs. Tzibbur",
+          "timestamp": "12:00"
+        },
+        {
+          "title": "Braita: Non-Jews' Offerings—Tzitz Does Not Work at All",
+          "display_title": "Oved Kochavim",
+          "timestamp": "12:31"
+        }
+      ]
+    },
+    {
+      "title": "Reconciling Two Braitot: Does Tzitz Work for Meat, and Do Names Match Positions?",
+      "display_title": "Braitot Conflict",
+      "timestamp": "14:13",
+      "micro_segments": [
+        {
+          "title": "Second Braita Listed: Tzitz Works for Blood, Meat, and Fat Regardless of Intent",
+          "display_title": "Meat/Chelev",
+          "timestamp": "14:13"
+        },
+        {
+          "title": "Contradiction: First Braita Restricts to Shogeg, Second Allows All Cases",
+          "display_title": "Contradiction Emerges",
+          "timestamp": "15:35"
+        },
+        {
+          "title": "Rav Yosef's Proposal: The Two Braitot Represent a Debate (Rabbi Yosi vs. Rabbanan)",
+          "display_title": "Rav Yosef",
+          "timestamp": "15:40"
+        }
+      ]
+    },
+    {
+      "title": "Terumah Analogy: Establishing the Shogeg/Mezid Debate Pattern",
+      "display_title": "Terumah Parallel",
+      "timestamp": "15:55",
+      "micro_segments": [
+        {
+          "title": "Terumah Case: Cannot Take from Tamei on Tahor; Works if Unintentional, Not Intentional",
+          "display_title": "Terumah Min Tamei",
+          "timestamp": "15:55"
+        },
+        {
+          "title": "Rabbi Yosi on Terumah: Even Intentional Is Acceptable Post-Facto",
+          "display_title": "Rabbi Yosi: Mezid OK",
+          "timestamp": "16:57"
+        }
+      ]
+    },
+    {
+      "title": "Challenge to Attribution: Determining Which Braita Belongs to Which Sage",
+      "display_title": "Attribution Debate",
+      "timestamp": "17:32",
+      "micro_segments": [
+        {
+          "title": "Gemara: If Second Braita Is Rabbi Yosi (Mezid OK), Does He Also Say Tzitz Works for Meat?",
+          "display_title": "Rabbi Yosi/Meat",
+          "timestamp": "17:32"
+        },
+        {
+          "title": "Named Braita: Rabbi Eliezer Says Tzitz Works on Meat; Rabbi Yosi Says It Does Not",
+          "display_title": "Braita: RE vs. RY",
+          "timestamp": "18:38"
+        }
+      ]
+    },
+    {
+      "title": "Proposed Reversal: Swapping the Names to Harmonize Positions",
+      "display_title": "Ipoch: Reverse Names",
+      "timestamp": "19:13",
+      "micro_segments": [
+        {
+          "title": "Gemara Proposes: Reverse the Names; Rabbi Yosi Says Tzitz Works on Meat",
+          "display_title": "Proposed Reversal",
+          "timestamp": "19:13"
+        },
+        {
+          "title": "If Reversed, Second Braita Could Be Rabbi Yosi: Mezid OK + Meat OK",
+          "display_title": "Harmony via Reversal",
+          "timestamp": "19:22"
+        }
+      ]
+    },
+    {
+      "title": "Rav Sheshet's Challenge: Evidence That Rabbi Yosi Opposes Tzitz on Meat",
+      "display_title": "Rav Sheshet Refutes",
+      "timestamp": "19:54",
+      "micro_segments": [
+        {
+          "title": "Rav Sheshet: Cannot Reverse; Other Source Shows Rabbi Yosi Says No Tzitz on Meat",
+          "display_title": "Cannot Reverse",
+          "timestamp": "19:54"
+        }
+      ]
+    },
+    {
+      "title": "A New Topic: When is a Tamei Person Chayav Kares for Eating Kodshim?",
+      "display_title": "Tamei Eats Meat",
+      "timestamp": "20:07",
+      "micro_segments": [
+        {
+          "title": "Braita: Tamei Person Eating Meat Before Dam Zrika—Perhaps Chayav for Tumah?",
+          "display_title": "Yachol Basar",
+          "timestamp": "20:07"
+        },
+        {
+          "title": "Braita: Only Meat Permitted to Tahorim; Before Dam Zrika, Meat Not Yet Permitted",
+          "display_title": "Nitur Letahorim",
+          "timestamp": "20:56"
+        },
+        {
+          "title": "Braita: Meat That Had a Sha'at Kosher (When Permitted) Incurs Kares Even If Now Forbidden",
+          "display_title": "Sha'at Kosher Test",
+          "timestamp": "22:25"
+        },
+        {
+          "title": "Braita: Meat That Was Tamei When Blood Was Thrown—Nonetheless Chayav (Why?)",
+          "display_title": "Tamei at Zrika",
+          "timestamp": "27:50"
+        },
+        {
+          "title": "Braita: Because Tzitz Meratzeh—Meat Is Treated as Having Had Sha'at Kosher",
+          "display_title": "Tzitz Meratzeh Meat",
+          "timestamp": "28:51"
+        }
+      ]
+    },
+    {
+      "title": "Inferring the Scope of Tzitz from This Case: What Does Meratzeh Mean for Meat?",
+      "display_title": "Meratzeh Meaning",
+      "timestamp": "30:14",
+      "micro_segments": [
+        {
+          "title": "Gemara: This Braita About Kares Shows Tzitz Works on Meat (Contrary to Simple Reading)",
+          "display_title": "Braita Implies Meat",
+          "timestamp": "30:14"
+        },
+        {
+          "title": "Gemara: This Braita Only Addresses Tumah, Not Yotzei",
+          "display_title": "Only Tumah Here",
+          "timestamp": "30:41"
+        },
+        {
+          "title": "Gemara: Rabbi Eliezer Must Be the Author (Says Tzitz Works on Meat; Also Says Yotzei Problem)",
+          "display_title": "Rabbi Eliezer Auth",
+          "timestamp": "30:52"
+        }
+      ]
+    },
+    {
+      "title": "Rav Chisda's Resolution: Assigning Both Braitot to Rabbi Eliezer",
+      "display_title": "Rav Chisda: RE",
+      "timestamp": "33:28",
+      "micro_segments": [
+        {
+          "title": "Rav Chisda: First Braita (Meat + All Cases) Is Rabbi Eliezer",
+          "display_title": "First Braita RE",
+          "timestamp": "33:28"
+        },
+        {
+          "title": "Rav Chisda: Rabbi Eliezer Also Says Mezid OK in Terumah",
+          "display_title": "RE: Terumah Mezid",
+          "timestamp": "34:14"
+        },
+        {
+          "title": "Rav Chisda: Therefore Rabbi Eliezer Says Mezid OK for Korban Too",
+          "display_title": "Infer: Korban Mezid",
+          "timestamp": "35:00"
+        }
+      ]
+    },
+    {
+      "title": "Challenging Rav Chisda: Why Extend Terumah Leniency to Weightier Korban?",
+      "display_title": "Challenge Rav Chisda",
+      "timestamp": "35:58",
+      "micro_segments": [
+        {
+          "title": "Gemara: Terumah Is Lighter; How Know Rabbi Eliezer Doesn't Restrict Mezid by Korban?",
+          "display_title": "Kalah/Chamimah",
+          "timestamp": "35:58"
+        },
+        {
+          "title": "Rav Chisda's Answer: Braita Exists; Must Find Its Author; Rabbi Eliezer Fits Best",
+          "display_title": "Braita Proof",
+          "timestamp": "36:19"
+        }
+      ]
+    },
+    {
+      "title": "Ravina's Alternative: The Two Braitot Harmonize by Distinguishing Tumah Occurrence vs. Zrika Intent",
+      "display_title": "Ravina: Occur vs. Act",
+      "timestamp": "37:10",
+      "micro_segments": [
+        {
+          "title": "Ravina: Tzitz Meratzeh Regardless of Intent Regarding When Tumah Occurred",
+          "display_title": "Tumah Occurred",
+          "timestamp": "37:10"
+        },
+        {
+          "title": "Ravina: But Zrika (Sprinkling) Must Be Unintentional; Mezid Zrika Disqualifies",
+          "display_title": "Zrika Shogeg",
+          "timestamp": "37:27"
+        },
+        {
+          "title": "Ravina: This Harmonizes Both Braitot Without Debate",
+          "display_title": "Harmony: Ravina",
+          "timestamp": "37:45"
+        }
+      ]
+    },
+    {
+      "title": "Rav Sheila's Contrary View: The Reverse Distinction (Zrika Lenient, Tumah Occurrence Strict)",
+      "display_title": "Rav Sheila: Reverse",
+      "timestamp": "38:27",
+      "micro_segments": [
+        {
+          "title": "Rav Sheila: Zrika Works Regardless of Intent; Tumah Must Occur Unintentionally",
+          "display_title": "Zrika Lenient",
+          "timestamp": "38:27"
+        }
+      ]
+    },
+    {
+      "title": "Testing Rav Sheila's Reading Against the Braita's Language",
+      "display_title": "Test Rav Sheila",
+      "timestamp": "39:41",
+      "micro_segments": [
+        {
+          "title": "Gemara: First Braita Says 'Became Tamei Whether Shogeg or Mezid'—Supports Ravina, Not Rav Sheila",
+          "display_title": "Language Check",
+          "timestamp": "39:41"
+        },
+        {
+          "title": "Rav Sheila's Strained Reading: Must Parse 'Became Tamei and Sprinkled' as One Unit",
+          "display_title": "Strained Read",
+          "timestamp": "40:07"
+        },
+        {
+          "title": "Ravina's Natural Reading: 'Became Tamei' (Any Intent) vs. 'Sprinkled' (Shogeg Only)",
+          "display_title": "Natural Read",
+          "timestamp": "40:41"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion: Ravina's Elegant Solution; Understanding Tzitz Meratzeh as Status, Not Forgiveness",
+      "display_title": "Conclusion & Recap",
+      "timestamp": "42:22",
+      "micro_segments": [
+        {
+          "title": "Ravina's Distinction Is Most Consistent with Braita Language",
+          "display_title": "Ravina Wins",
+          "timestamp": "42:22"
+        },
+        {
+          "title": "What Meratzeh Means: Alleviating Status (Tumah/Nitur) Not Moral Forgiveness",
+          "display_title": "Meratzeh: Status",
+          "timestamp": "42:39"
+        },
+        {
+          "title": "Implications: Affects Halcha of Tamei Eating, Me'ila; Not Full Permissibility",
+          "display_title": "Implications",
+          "timestamp": "42:45"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Tzitz Meratzeh",
+      "timestamps": [
+        "00:16",
+        "00:20",
+        "00:48",
+        "01:04",
+        "01:42",
+        "08:39",
+        "10:38",
+        "14:13",
+        "17:53",
+        "28:51",
+        "30:14",
+        "30:38",
+        "30:46",
+        "31:49"
+      ]
+    },
+    {
+      "term": "Tumah (Impurity)",
+      "timestamps": [
+        "00:14",
+        "01:10",
+        "01:13",
+        "01:21",
+        "01:24",
+        "01:27",
+        "03:49",
+        "03:53",
+        "04:07",
+        "10:38",
+        "10:43",
+        "10:49",
+        "11:02",
+        "20:14",
+        "29:41",
+        "37:17",
+        "37:43"
+      ]
+    },
+    {
+      "term": "Pigul (Wrong-Time Intent)",
+      "timestamps": [
+        "02:22",
+        "02:26",
+        "02:38",
+        "25:04",
+        "25:07",
+        "25:37",
+        "25:47",
+        "26:03"
+      ]
+    },
+    {
+      "term": "Nosar (Leftover After Permitted Time)",
+      "timestamps": [
+        "02:52",
+        "03:00",
+        "03:09",
+        "25:10",
+        "25:14",
+        "25:21",
+        "25:33"
+      ]
+    },
+    {
+      "term": "Yotzei (Taken Outside Mikdash)",
+      "timestamps": [
+        "00:36",
+        "00:39",
+        "01:48",
+        "05:16",
+        "05:36",
+        "30:46",
+        "30:59",
+        "31:05"
+      ]
+    },
+    {
+      "term": "Shogeg (Unintentional) vs. Mezid (Intentional)",
+      "timestamps": [
+        "10:59",
+        "11:02",
+        "11:07",
+        "11:16",
+        "11:19",
+        "14:15",
+        "14:28",
+        "15:31",
+        "16:33",
+        "16:35",
+        "16:44",
+        "17:01",
+        "17:36",
+        "17:39",
+        "17:43",
+        "32:38",
+        "32:44",
+        "32:52",
+        "34:37",
+        "35:04",
+        "37:17",
+        "37:39",
+        "37:52",
+        "38:19",
+        "38:32",
+        "38:59",
+        "39:04",
+        "39:06",
+        "40:02",
+        "40:59",
+        "42:06"
+      ]
+    },
+    {
+      "term": "Kometz (Handful from Mincha)",
+      "timestamps": [
+        "00:10",
+        "00:14",
+        "00:36",
+        "00:39",
+        "01:10",
+        "01:24",
+        "01:27",
+        "10:38"
+      ]
+    },
+    {
+      "term": "Yachid (Individual) vs. Tzibbur (Communal)",
+      "timestamps": [
+        "12:00",
+        "12:04",
+        "12:07",
+        "32:52"
+      ]
+    },
+    {
+      "term": "Oved Kochavim (Non-Jew)",
+      "timestamps": [
+        "12:31",
+        "12:32",
+        "12:37",
+        "12:39",
+        "12:49",
+        "12:53",
+        "12:55"
+      ]
+    },
+    {
+      "term": "Terumah (Priestly Portion)",
+      "timestamps": [
+        "15:55",
+        "15:59",
+        "16:01",
+        "16:04",
+        "16:09",
+        "16:33",
+        "16:35",
+        "16:44",
+        "34:14",
+        "35:00"
+      ]
+    },
+    {
+      "term": "Rabbi Eliezer (RE)",
+      "timestamps": [
+        "18:38",
+        "18:45",
+        "30:52",
+        "30:56",
+        "31:02",
+        "31:05",
+        "31:25",
+        "32:05",
+        "32:11",
+        "32:18",
+        "32:21",
+        "32:38",
+        "33:33",
+        "33:51",
+        "34:02",
+        "34:47",
+        "35:00",
+        "35:33"
+      ]
+    },
+    {
+      "term": "Rabbi Yosi (RY)",
+      "timestamps": [
+        "16:57",
+        "17:01",
+        "17:17",
+        "18:52",
+        "18:57",
+        "19:00",
+        "19:18",
+        "19:23",
+        "19:30"
+      ]
+    },
+    {
+      "term": "Rav Zeira (RZ)",
+      "timestamps": [
+        "05:04",
+        "05:06",
+        "05:09"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "06:06",
+        "06:08",
+        "07:03",
+        "07:06"
+      ]
+    },
+    {
+      "term": "Rabbi Ila",
+      "timestamps": [
+        "06:27",
+        "06:29",
+        "06:33"
+      ]
+    },
+    {
+      "term": "Rav Ashi",
+      "timestamps": [
+        "07:50",
+        "07:52",
+        "07:56",
+        "08:05"
+      ]
+    },
+    {
+      "term": "Rav Simei",
+      "timestamps": [
+        "08:33",
+        "08:50",
+        "08:51",
+        "08:54",
+        "08:57",
+        "08:58",
+        "09:00"
+      ]
+    },
+    {
+      "term": "Rav Chisda",
+      "timestamps": [
+        "33:28",
+        "33:31",
+        "35:00",
+        "35:58"
+      ]
+    },
+    {
+      "term": "Rav Sheshet",
+      "timestamps": [
+        "19:54",
+        "19:57",
+        "20:00"
+      ]
+    },
+    {
+      "term": "Ravina",
+      "timestamps": [
+        "37:10",
+        "37:27",
+        "37:45",
+        "40:41",
+        "42:22",
+        "42:39"
+      ]
+    },
+    {
+      "term": "Rav Sheila",
+      "timestamps": [
+        "38:27",
+        "38:31",
+        "39:41",
+        "40:07",
+        "42:06"
+      ]
+    },
+    {
+      "term": "Nitur Letahorim (Permitted to Tahorim)",
+      "timestamps": [
+        "20:39",
+        "20:45",
+        "20:52",
+        "20:55",
+        "23:20",
+        "23:28",
+        "23:32",
+        "23:37",
+        "27:20",
+        "27:31",
+        "27:34",
+        "29:45"
+      ]
+    },
+    {
+      "term": "Sha'at Kosher (Moment of Validity)",
+      "timestamps": [
+        "22:46",
+        "22:51",
+        "22:55",
+        "23:08",
+        "23:13",
+        "26:44",
+        "26:52",
+        "27:02",
+        "29:49",
+        "29:52"
+      ]
+    },
+    {
+      "term": "Dam Zrika (Blood Sprinkling)",
+      "timestamps": [
+        "20:47",
+        "21:13",
+        "22:07",
+        "26:47",
+        "27:28",
+        "37:27",
+        "37:52",
+        "38:19",
+        "38:32",
+        "40:14"
+      ]
+    },
+    {
+      "term": "Kares (Divine Excision Penalty)",
+      "timestamps": [
+        "20:24",
+        "20:27",
+        "20:33",
+        "22:10",
+        "22:34",
+        "24:22",
+        "27:17",
+        "27:22",
+        "27:32",
+        "27:38",
+        "27:40"
+      ]
+    },
+    {
+      "term": "Me'ila (Misuse of Sacred Property)",
+      "timestamps": [
+        "22:17",
+        "31:12",
+        "31:22",
+        "42:52"
+      ]
+    },
+    {
+      "term": "Bamot (Private Altars)",
+      "timestamps": [
+        "05:28",
+        "05:31",
+        "05:32"
+      ]
+    },
+    {
+      "term": "Tumah Hutra Betzibbur (Impurity Overridden for Communal)",
+      "timestamps": [
+        "04:07",
+        "04:11",
+        "12:21"
+      ]
+    },
+    {
+      "term": "Avon Hakodashim (Sin of Sacrifices)",
+      "timestamps": [
+        "02:02",
+        "02:06",
+        "02:18",
+        "04:29",
+        "08:05",
+        "08:10"
+      ]
+    },
+    {
+      "term": "Leratzon (Acceptable)",
+      "timestamps": [
+        "04:33",
+        "04:35",
+        "04:39",
+        "04:45",
+        "04:49",
+        "04:58",
+        "06:08",
+        "06:11"
+      ]
+    },
+    {
+      "term": "Qanash (Fine/Penalty)",
+      "timestamps": [
+        "11:28",
+        "11:32",
+        "11:40",
+        "11:44",
+        "11:46",
+        "11:49",
+        "12:28",
+        "16:48",
+        "17:13",
+        "34:29",
+        "34:47",
+        "36:57"
+      ]
+    }
+  ]
+}

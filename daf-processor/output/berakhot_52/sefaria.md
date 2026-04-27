@@ -1,0 +1,218 @@
+### Berakhot 52a
+
+**1.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוֹשֻׁעַ הִיא, דְּאָמַר: אֵין מַשְׁגִּיחִין בְּבַת קוֹל.
+*Translation:* **and** this *Tosefta* **is** in accordance with the opinion of **Rabbi Yehoshua, who said,** with regard to the Divine Voice that emerged and proclaimed that the *halakha* is in accordance with the opinion of Rabbi Eliezer in the case of the oven of *akhnai* (*Bava Metzia* 59b), that **one disregards a Heavenly Voice.** Just as he disregarded the Divine Voice in his dispute with Rabbi Eliezer, so too, one disregards the Divine Voice that proclaimed that the *halakha* is in accordance with the opinion of Beit Hillel.
+
+**2.**
+*Hebrew/Aramaic:* וְסָבְרִי בֵּית שַׁמַּאי דְּבִרְכַּת הַיּוֹם עֲדִיפָא? וְהָתַנְיָא: הַנִּכְנָס לְבֵיתוֹ בְּמוֹצָאֵי שַׁבָּת, מְבָרֵךְ עַל הַיַּיִן וְעַל הַמָּאוֹר וְעַל הַבְּשָׂמִים, וְאַחַר כָּךְ אוֹמֵר הַבְדָּלָה. וְאִם אֵין לוֹ אֶלָּא כּוֹס אֶחָד, מַנִּיחוֹ לְאַחַר הַמָּזוֹן וּמְשַׁלְשְׁלָן כּוּלָּן לְאַחֲרָיו.
+*Translation:* As to the substance of these statements, the Gemara asks: **Do Beit Shammai hold** that **the blessing over the day takes precedence? Wasn’t it taught** in a *baraita*: **One who enters his house at the conclusion of Shabbat recites a blessing over the wine,** then over **the candle,** then over **the spices, and recites *havdala* thereafter? And if he has only one cup** of wine, **he leaves it for after the** last Shabbat **meal and arranges all** of the blessings: Grace after Meals, the blessings of *havdala* and the blessing over wine **together thereafter.** Evidently, the blessing over wine precedes the primary *havdala* blessing.
+
+**3.**
+*Hebrew/Aramaic:* וְהָא, מִמַּאי דְּבֵית שַׁמַּאי הִיא? דִּלְמָא בֵּית הִלֵּל הִיא?!
+*Translation:* The Gemara asks: **And this** *baraita*, **from where** is it ascertained **that it is** in accordance with the opinion of **Beit Shammai? Perhaps it is** in accordance with the opinion of **Beit Hillel.** Beit Shammai’s opinion cannot be challenged with an unattributed *baraita*.
+
+**4.**
+*Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי מָאוֹר וְאַחַר כָּךְ בְּשָׂמִים, וּמַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ הַאי סְבָרָא — בֵּית שַׁמַּאי, דְּתַנְיָא אָמַר רַבִּי יְהוּדָה: לֹא נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִלֵּל עַל הַמָּזוֹן שֶׁבִּתְחִלָּה וְעַל הַבְדָּלָה שֶׁהִיא בַּסּוֹף, עַל מָה נֶחְלְקוּ — עַל הַמָּאוֹר וְעַל הַבְּשָׂמִים. בֵּית שַׁמַּאי אוֹמְרִים: מָאוֹר וְאַחַר כָּךְ בְּשָׂמִים, וּבֵית הִלֵּל אוֹמְרִים: בְּשָׂמִים וְאַחַר כָּךְ מָאוֹר.
+*Translation:* The Gemara responds: **It cannot enter your mind** that this *baraita* is in accordance with the opinion of Beit Hillel, **as it was taught** at the beginning of the *baraita*: **Light** and **spices thereafter. And who, did you hear, adopts that reasoning? Beit Shammai. As it was taught** in a *Tosefta* that **Rabbi Yehuda said: Beit Shammai and Beit Hillel did not dispute that** Grace after **Meals is** recited **first and that *havdala* is** recited **last. With regard to what did they disagree?** With regard to the blessings recited in the middle of *havdala*, the blessings **over the light and over the spices. Beit Shammai say: Light and spices thereafter; and Beit Hillel say: Spices and light thereafter.** Therefore, the *baraita*, where it is taught that the blessing over the candle precedes the blessing over the spices, must be according to Beit Shammai and it says that wine precedes *havdala*.
+
+**5.**
+*Hebrew/Aramaic:* וּמִמַּאי דְּבֵית שַׁמַּאי הִיא וְאַלִּיבָּא דְּרַבִּי יְהוּדָה, דִּילְמָא בֵּית הִלֵּל הִיא וְאַלִּיבָּא דְּרַבִּי מֵאִיר?!
+*Translation:* The Gemara presents another challenge: **And from where** do you ascertain **that this** *baraita* **is** the opinion of **Beit Shammai in accordance with** the interpretation of **Rabbi Yehuda? Perhaps it is** the opinion of **Beit Hillel in accordance with** the interpretation of **Rabbi Meir.**
+
+**6.**
+*Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי הָכָא בְּמַתְנִיתִין, בֵּית שַׁמַּאי אוֹמְרִים: נֵר וּמָזוֹן בְּשָׂמִים וְהַבְדָּלָה, וּבֵית הִלֵּל אוֹמְרִים: נֵר וּבְשָׂמִים מָזוֹן וְהַבְדָּלָה, וְהָתָם בְּבָרַיְיתָא קָתָנֵי אִם אֵין לוֹ אֶלָּא כּוֹס אֶחָד, מַנִּיחוֹ לְאַחַר הַמָּזוֹן, וּמְשַׁלְשְׁלָן כּוּלָּן לְאַחֲרָיו. שְׁמַע מִינַּהּ דְּבֵית שַׁמַּאי הִיא וְאַלִּיבָּא דְּרַבִּי יְהוּדָה.
+*Translation:* The Gemara responds: **It cannot enter your mind** that this *baraita* is the opinion of Beit Hillel in accordance with the interpretation of Rabbi Meir. **As it was taught here in the mishna,** which like all unattributed *mishnayot* is in accordance with the opinion of Rabbi Meir: **Beit Shammai say:** One recites the blessing over the **candle,** then the Grace after **Meals** blessing, then the blessing over the **spices,** and finally the blessing of ***havdala*. And Beit Hillel say:** The order is **candle, spices,** Grace after **Meals, and *havdala*. And there, in the *baraita*, it was taught: And if he has only one cup** of wine, **he leaves it for after the** last Shabbat **meal and arranges all** of the blessings: Grace after Meals, the blessings of *havdala*, and the blessing over wine **together thereafter.** According to the *baraita*, all of the blessings follow Grace after Meals. Since the *baraita* and the mishna do not correspond, **conclude from here** that the *baraita* **is** the opinion of **Beit Shammai, in accordance with** the interpretation of **Rabbi Yehuda.**
+
+**7.**
+*Hebrew/Aramaic:* וּמִכׇּל מָקוֹם קַשְׁיָא. קָא סָבְרִי בֵּית שַׁמַּאי שָׁאנֵי עַיּוֹלֵי יוֹמָא מֵאַפּוֹקֵי יוֹמָא. עַיּוֹלֵי יוֹמָא, כַּמָּה דְּמַקְדְּמִינַן לֵיהּ עֲדִיף. אַפּוֹקֵי יוֹמָא, כַּמָּה דִּמְאַחֲרִינַן לֵיהּ עֲדִיף, כִּי הֵיכִי דְּלָא לֶהֱוֵי עֲלַן כְּמַשּׂוֹי.
+*Translation:* **And, nevertheless,** after the Gemara has proven that the *baraita* corresponds to the opinion of Beit Shammai as interpreted by Rabbi Yehuda, the contradiction between Beit Shammai’s statement in the *baraita* and their statement in the *Tosefta* **is difficult.** The Gemara responds: **Beit Shammai hold** that **the arrival of the day** of Shabbat or a Festival **is different from the departure of the day.** As with regard to **the arrival of the day, the more that we can advance it, the better;** with regard to **the departure of the day, the more we postpone it, the better, so that** Shabbat **should not be like a burden to us.** Consequently, although Beit Shammai situate *kiddush* before the blessing over the wine, they agree that one should recite *havdala* after the blessing over the wine.
+
+**8.**
+*Hebrew/Aramaic:* וְסָבְרִי בֵּית שַׁמַּאי בִּרְכַּת הַמָּזוֹן טְעוּנָה כּוֹס? וְהָא תְּנַן: בָּא לָהֶם יַיִן לְאַחַר הַמָּזוֹן, אִם אֵין שָׁם אֶלָּא אוֹתוֹ כּוֹס, בֵּית שַׁמַּאי אוֹמְרִים: מְבָרֵךְ עַל הַיַּיִן וְאַחַר כָּךְ מְבָרֵךְ עַל הַמָּזוֹן, מַאי לָאו דִּמְבָרֵךְ עִילָּוֵיהּ וְשָׁתֵי לֵיהּ? לָא, דִּמְבָרֵךְ עִילָּוֵיהּ וּמַנַּח לֵיהּ.
+*Translation:* The above discussion referred to Beit Shammai’s opinion with regard to Grace after Meals recited over a cup of wine. The Gemara poses the question: **And do Beit Shammai hold** that **Grace after Meals requires a cup** of wine? **Didn’t we learn** in the mishna: **Wine came before** the diners **after the meal; if only that cup** of wine **is there, Beit Shammai say: One recites a blessing over the wine and recites a blessing over the food,** Grace after Meals, **thereafter. What? Is it not that he recites a blessing over** the wine **and drinks it,** leaving Grace after Meals without wine? The Gemara rejects this: **No.** The mishna means that **he recites a blessing over** the cup of wine **and leaves it** to drink from it after Grace after Meals.
+
+**9.**
+*Hebrew/Aramaic:* וְהָאָמַר מָר הַמְבָרֵךְ צָרִיךְ שֶׁיִּטְעוֹם! — דְּטָעֵים לֵיהּ. וְהָאָמַר מָר טְעָמוֹ פְּגָמוֹ! — דְּטָעֵים לֵיהּ בִּידֵיהּ.
+*Translation:* The Gemara raises a difficulty: **Didn’t the Master say** that **one who recites a blessing is required to taste?** The Gemara answers: Indeed, this refers to a case **where he tasted it.** The Gemara raises a difficulty: **Didn’t the Master say** that one who **tasted** the cup of wine **disqualified it** and it is no longer suitable to be used for a cup of blessing? The Gemara answers: This does not refer to a case where he drank the wine; but rather, where **he tasted it with his hand** or poured a bit into another cup and drank from it.
+
+**10.**
+*Hebrew/Aramaic:* וְהָאָמַר מָר כּוֹס שֶׁל בְּרָכָה צָרִיךְ שִׁעוּר, וְהָא קָא פָּחֵית לֵיהּ מִשִּׁיעוּרֵיהּ! — דִּנְפִישׁ לֵיהּ טְפֵי מִשִּׁיעוּרֵיהּ.
+*Translation:* The Gemara raises a difficulty: **Didn’t the Master say: A cup of blessing requires** a minimum **measure** of wine? By drinking the wine, **doesn’t he diminish** the cup **from** containing **its** minimum **measure?** The Gemara answers: This refers to a case where **the cup contained more than the** required **measure** of wine.
+
+**11.**
+*Hebrew/Aramaic:* וְהָא אִם אֵין שָׁם אֶלָּא אוֹתוֹ כּוֹס קָתָנֵי! — תְּרֵי לָא הָוֵי וּמֵחַד נְפִישׁ.
+*Translation:* The Gemara asks: **Wasn’t it taught** explicitly: **If he has only one cup** of wine? If there is more than the required measure of wine, he does not have only one cup. The Gemara responds: Indeed, **there are not two** cups, **but** there is **more than one.**
+
+**12.**
+*Hebrew/Aramaic:* וְהָא תָּנֵי רַבִּי חִיָּיא: בֵּית שַׁמַּאי אוֹמְרִים מְבָרֵךְ עַל הַיַּיִן וְשׁוֹתֵהוּ וְאַחַר כָּךְ מְבָרֵךְ בִּרְכַּת הַמָּזוֹן! אֶלָּא תְּרֵי תַּנָּאֵי, וְאַלִּיבָּא דְּבֵית שַׁמַּאי.
+*Translation:* The Gemara raises another difficulty: **Didn’t Rabbi Ḥiyya teach** in a *baraita* that **Beit Shammai say: He recites a blessing over the wine and drinks it, and recites Grace after Meals thereafter?** Evidently, according to Beit Shammai, wine is not required for Grace after Meals. **Rather,** it must be that **two *tanna’im*** hold **in accordance with Beit Shammai** and differ with regard to their opinion.
+
+**13.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים וְכוּ׳.
+*Translation:* We learned in our mishna that Beit Shammai and Beit Hillel disagree over whether the washing of the hands or mixing water with the wine takes precedence. **Beit Shammai say:** One washes his hands and mixes water with the wine in the cup thereafter, and Beit Hillel say: One mixes water with the wine in the cup and only washes his hands thereafter.
+
+**14.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן, בֵּית שַׁמַּאי אוֹמְרִים: נוֹטְלִין לַיָּדַיִם וְאַחַר כָּךְ מוֹזְגִין אֶת הַכּוֹס, שֶׁאִם אַתָּה אוֹמֵר מוֹזְגִין אֶת הַכּוֹס תְּחִלָּה, גְּזֵרָה שֶׁמָּא יִטָּמְאוּ מַשְׁקִין שֶׁאֲחוֹרֵי הַכּוֹס מֵחֲמַת יָדָיו, וְיַחְזְרוּ וִיטַמְּאוּ אֶת הַכּוֹס.
+*Translation:* **The Sages taught** a *Tosefta* where this issue is discussed in greater detail: **Beit Shammai say: One washes** his **hands and mixes water** with the wine **in the cup thereafter, as if you say** that **one mixes water** with the wine **in the cup first,** his hands will remain ritually impure, as the Sages **decreed** that unwashed hands have second degree ritual impurity status as if they touched something rendered ritually impure by a creeping animal. Consequently, there is room for concern that **the liquid that** inevitably drips **on the outside of the cup might become ritually impure due to his hands, and** those liquids **will in turn render the cup ritually impure.** Consequently, Beit Shammai said that the hands must be washed first in order to prevent that result.
+
+**15.**
+*Hebrew/Aramaic:* וְלִיטַּמּוּ יָדַיִם לְכוֹס!
+*Translation:* The Gemara asks: If the concern is with regard to ritual impurity to the cup, why mention the liquids on the outside of the cup? **Let** his **hands render the cup ritually impure** directly.
+
+**16.**
+*Hebrew/Aramaic:* יָדַיִם שְׁנִיּוֹת הֵן, וְאֵין שֵׁנִי עוֹשֶׂה שְׁלִישִׁי בְּחוּלִּין אֶלָּא עַל יְדֵי מַשְׁקִין.
+*Translation:* The Gemara answers: **Hands have second** degree ritual impurity status, **and** there is a general halakhic principle that an object of **second** degree ritual impurity status **cannot confer third** degree ritual impurity status **upon non-sacred items,** as opposed to *teruma* or consecrated food, **except by means of liquids.** By rabbinic decree, liquids that come into contact with second degree ritual impurity assume first degree ritual impurity status and, consequently, can render non-sacred items impure.
+
+**17.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל אוֹמְרִים: מוֹזְגִין אֶת הַכּוֹס וְאַחַר כָּךְ נוֹטְלִין לַיָּדַיִם. שֶׁאִם אַתָּה אוֹמֵר נוֹטְלִין לַיָּדַיִם תְּחִלָּה, גְּזֵרָה שֶׁמָּא יִטָּמְאוּ מַשְׁקִין שֶׁבַּיָּדַיִם מֵחֲמַת הַכּוֹס, וְיַחְזְרוּ וִיטַמְּאוּ אֶת הַיָּדַיִם.
+*Translation:* **And Beit Hillel say: One mixes water** with the wine **in the cup and** only **washes** his **hands thereafter, as if you say** that **one washes** his **hands first,** there is **a decree lest the liquid** from the outside of the cup that dampened **one’s hands will be rendered ritually impure due to the cup** which is liable to be impure, **and** the liquid **will in turn render his hands ritually impure.**
+
+**18.**
+*Hebrew/Aramaic:* וְנִיטַּמֵּי כּוֹס לְיָדַיִם! — אֵין כְּלִי מְטַמֵּא אָדָם.
+*Translation:* The Gemara asks: **Let the cup render** his **hands ritually impure** directly, without any liquid? The Gemara responds that, according to a general principle in the *halakhot* of ritual impurity, **a vessel does not render a person ritually impure.** The cup alone does not render his hands ritually impure.
+
+**19.**
+*Hebrew/Aramaic:* וְנִיטַּמֵּי לְמַשְׁקִין שֶׁבְּתוֹכוֹ! — הָכָא בִּכְלִי שֶׁנִּטְמְאוּ אֲחוֹרָיו בְּמַשְׁקִין עָסְקִינַן, דְּתוֹכוֹ טָהוֹר וְגַבּוֹ טָמֵא. דִּתְנַן: כְּלִי שֶׁנִּטְמְאוּ אֲחוֹרָיו בְּמַשְׁקִין אֲחוֹרָיו טְמֵאִים
+*Translation:* The Gemara asks: If the back of the cup is ritually impure, **let it render the liquids that are within** the cup **ritually impure?** The Gemara answers: **Here we are dealing with a vessel** that only **the outside of which has been rendered ritually impure by liquids** by rabbinic law and not by Torah law. In that case, **the inside** of the cup **is pure and the outside is impure. As we learned** in a mishna: **A vessel whose outer side is rendered ritually impure by liquid,** only **the outer side** of the vessel **is impure,**
+
+
+---
+
+### Berakhot 52b
+
+**1.**
+*Hebrew/Aramaic:* תּוֹכוֹ וְאוֹגְנוֹ וְאׇזְנוֹ וְיָדָיו טְהוֹרִין. נִטְמָא תּוֹכוֹ — נִטְמָא כּוּלּוֹ.
+*Translation:* **while its inner side, and its rim,** the edge of the vessel that protrudes outwards, **and its ear-shaped handle, and its** straight **handles** are **pure.** However, if **the inside** of the vessel **became ritually impure, it is all ritually impure.**
+
+**2.**
+*Hebrew/Aramaic:* בְּמַאי קָא מִיפַּלְגִי?
+*Translation:* Although the decrees of Beit Hillel and Beit Shammai are different, they are based on realistic contingencies and on concerns shared by both parties. The Gemara seeks to clarify: **With regard to what do they disagree?** What is the crux of their dispute?
+
+**3.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי סָבְרִי אָסוּר לְהִשְׁתַּמֵּשׁ בִּכְלִי שֶׁנִּטְמְאוּ אֲחוֹרָיו בְּמַשְׁקִין, גְּזֵרָה מִשּׁוּם נִיצוֹצוֹת. וְלֵיכָּא לְמִגְזַר שֶׁמָּא יִטָּמְאוּ הַמַּשְׁקִין שֶׁבַּיָּדַיִם בַּכּוֹס.
+*Translation:* The Gemara explains: **Beit Shammai hold: It is prohibited to use a vessel the outer side of which has been rendered ritually impure by liquids.** This prohibition stems from **a decree** of the Sages, due to concern **for drips** of liquid that would fall from inside the vessel to its outer side, as those drips themselves would be rendered ritually impure by virtue of their contact with the outer side of the vessel. **And** Beit Shammai hold that **there is no** reason to **issue a decree** due to the concern of Beit Hillel **lest the liquid on one’s hands will be rendered ritually impure by the cup, as** Beit Shammai hold that the use of a vessel of that kind is prohibited.
+
+**4.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל סָבְרִי מוּתָּר לְהִשְׁתַּמֵּשׁ בִּכְלִי שֶׁנִּטְמְאוּ אֲחוֹרָיו בְּמַשְׁקִין, אָמְרִי נִיצוֹצוֹת לָא שְׁכִיחִי, וְאִיכָּא לְמֵיחַשׁ שֶׁמָּא יִטָּמְאוּ מַשְׁקִין שֶׁבַּיָּדַיִם מֵחֲמַת הַכּוֹס.
+*Translation:* **And Beit Hillel hold: One is permitted to use a vessel the outer side of which has been rendered ritually impure by liquid,** as they **say: Drips are uncommon,** and decrees are not issued on the basis of an uncommon case. Because Beit Hillel permit the use of a vessel of that kind, **there is concern lest the liquid on one’s hands will be rendered ritually impure due to the cup.**
+
+**5.**
+*Hebrew/Aramaic:* דָּבָר אַחֵר: תֵּכֶף לִנְטִילַת יָדַיִם סְעוּדָה.
+*Translation:* **Alternatively,** Beit Hillel hold that one mixes the water with the wine in the cup and then washes his hands due to the principle: **Immediately** after **the washing of the hands** comes **the meal.** Therefore, he mixes the water and wine in the cup, then he washes his hands, and then he immediately proceeds to the meal.
+
+**6.**
+*Hebrew/Aramaic:* מַאי ״דָּבָר אַחֵר״? הָכִי קָאָמְרִי לְהוּ בֵּית הִלֵּל לְבֵית שַׁמַּאי: לְדִידְכוּ דְּאָמְרִיתוּ אָסוּר לְהִשְׁתַּמֵּשׁ בִּכְלִי שֶׁאֲחוֹרָיו טְמֵאִין דְּגָזְרִינַן מִשּׁוּם נִיצוֹצוֹת, אֲפִילּוּ הָכִי הָא עֲדִיפָא, דְּתֵכֶף לִנְטִילַת יָדַיִם סְעוּדָה.
+*Translation:* The Gemara asks: **What** is the point of Beit Hillel adding: **Alternatively?** The Gemara answers: **Beit Hillel said to Beit Shammai as follows:** Even **according to you, who said** that **it is prohibited to use a vessel the outer side of which is ritually impure as we issued a decree due to** concern for **drips, even so,** our opinion **is preferable** to yours, **as** our opinion adheres to the principle: **Immediately** after **the washing of the hands** comes **the meal.**
+
+**7.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים מְקַנֵּחַ וְכוּ׳.
+*Translation:* We learned in the mishna that Beit Hillel and Beit Shammai disagree over where the cloth that one used to dry his hands should be placed. **Beit Shammai say:** After washing, **one dries** his hands with a cloth and places it on the table. And Beit Hillel say: One places it on the cushion upon which he is sitting.
+
+**8.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: בֵּית שַׁמַּאי אוֹמְרִים: מְקַנֵּחַ יָדָיו בַּמַּפָּה וּמַנִּיחָהּ עַל הַשֻּׁלְחָן. שֶׁאִם אַתָּה אוֹמֵר עַל הַכֶּסֶת, גְּזֵרָה שֶׁמָּא יִטָּמְאוּ מַשְׁקִין שֶׁבַּמַּפָּה מֵחֲמַת הַכֶּסֶת, וְיַחְזְרוּ וִיטַמְּאוּ אֶת הַיָּדַיִם.
+*Translation:* In a *Tosefta*, **the Sages taught** in greater detail: **Beit Shammai say:** After washing, **one dries his hands with a cloth and places it on the table, as if you say** that he should place the cloth **on the cushion,** there is room to issue a **decree lest the liquids on the cloth,** which is wet because he used it to dry his hands, **become ritually impure due to** their contact **with the cushion, and** the liquids **would in turn render the hands** of anyone who touches the towel **ritually impure.**
+
+**9.**
+*Hebrew/Aramaic:* וּנְטַמְּיַיהּ כֶּסֶת לְמַפָּה! — אֵין כְּלִי מְטַמֵּא כְּלִי.
+*Translation:* The Gemara asks: Even without the liquid, **let the cushion render the towel ritually impure** directly? The Gemara answers: There is a principle: **A vessel does not render** another **vessel ritually impure.**
+
+**10.**
+*Hebrew/Aramaic:* וּנְטַמְּיֵיהּ כֶּסֶת לְגַבְרָא גּוּפֵיהּ! — אֵין כְּלִי מְטַמֵּא אָדָם.
+*Translation:* The Gemara asks: **Let the cushion render the man** sitting upon it **ritually impure.** The Gemara answers: There, too, there is a general principle: **A vessel does not render a person ritually impure.**
+
+**11.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל אוֹמְרִים: עַל הַכֶּסֶת. שֶׁאִם אַתָּה אוֹמֵר עַל הַשֻּׁלְחָן, גְּזֵרָה שֶׁמָּא יִטָּמְאוּ מַשְׁקִין שֶׁבַּמַּפָּה מֵחֲמַת הַשּׁוּלְחָן וְיַחְזְרוּ וִיטַמְּאוּ אֶת הָאוֹכָלִין.
+*Translation:* **And Beit Hillel say:** One places it **on the cushion** upon which he is sitting, **as if you say** that he should place it **on the table,** there is room to issue a **decree lest the liquids on the towel might be rendered ritually impure** by their contact **with the table,** and those liquids **in turn will render the food** placed on the table **ritually impure.**
+
+**12.**
+*Hebrew/Aramaic:* וּלְטַמֵּא שֻׁלְחָן לָאוֹכָלִין שֶׁבְּתוֹכוֹ! — הָכָא בְּשֻׁלְחָן שֵׁנִי עָסְקִינַן, וְאֵין שֵׁנִי עוֹשֶׂה שְׁלִישִׁי בְּחוּלִּין אֶלָּא עַל יְדֵי מַשְׁקִין.
+*Translation:* The Gemara asks: **Let the table render the food upon it ritually impure** directly. The Gemara explains: **Here we are dealing with a table** that has **second** degree ritual impurity status, and an object of **second** degree ritual impurity status **can only confer third** degree ritual impurity status **upon non-sacred items by means of liquids.** By rabbinic decree, liquids that come into contact with second degree ritual impurity assume first degree ritual impurity status and, consequently, can render non-sacred items impure.
+
+**13.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? בֵּית שַׁמַּאי סָבְרִי אָסוּר לְהִשְׁתַּמֵּשׁ בְּשֻׁלְחָן שֵׁנִי, גְּזֵרָה מִשּׁוּם אוֹכְלֵי תְרוּמָה.
+*Translation:* The Gemara seeks to clarify: **With regard to what do they disagree?** The Gemara answers: The basis of their dispute is that **Beit Shammai hold: It is prohibited to use a table** that has **second** degree ritual impurity status for purposes of eating because of **a decree due to those who eat *teruma*.** A table with that status renders *teruma* ritually impure through contact. To prevent priests who partake of *teruma* from unwittingly eating off a table of that sort, a decree was issued prohibiting its use even with non-sacred foods.
+
+**14.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל סָבְרִי מוּתָּר לְהִשְׁתַּמֵּשׁ בְּשֻׁלְחָן שֵׁנִי, אוֹכְלֵי תְרוּמָה זְרִיזִין הֵם.
+*Translation:* **And Beit Hillel hold: It is permitted to use a table** that has **second** degree ritual impurity status, and we are not concerned about the priests. As **those who eat *teruma* are vigilant** and would ascertain the status of a table before eating.
+
+**15.**
+*Hebrew/Aramaic:* דָּבָר אַחֵר: אֵין נְטִילַת יָדַיִם לְחוּלִּין מִן הַתּוֹרָה.
+*Translation:* **Alternatively,** Beit Hillel hold that **there is no** requirement of **washing of the hands for non-sacred items by Torah law.**
+
+**16.**
+*Hebrew/Aramaic:* מַאי ״דָּבָר אַחֵר״? הָכִי קָאָמְרִי לְהוּ בֵּית הִלֵּל לְבֵית שַׁמַּאי: וְכִי תֵּימְרוּ מַאי שְׁנָא גַּבֵּי אוֹכָלִין דְּחָיְישִׁינַן וּמַאי שְׁנָא גַּבֵּי יָדַיִם דְּלָא חָיְישִׁינַן? אֲפִילּוּ הָכִי הָא עֲדִיפָא, דְּאֵין נְטִילַת יָדַיִם לְחוּלִּין מִן הַתּוֹרָה. מוּטָב שֶׁיִּטָּמְאוּ יָדַיִם דְּלֵית לְהוּ עִיקָּר מִדְּאוֹרָיְיתָא, וְאַל יִטָּמְאוּ אוֹכְלִים דְּאִית לְהוּ עִיקָּר מִדְּאוֹרָיְיתָא.
+*Translation:* The Gemara asks: **What is** the point of Beit Hillel adding the additional reason introduced with: **Alternatively?** The Gemara answers: **Beit Hillel said to Beit Shammai as follows: And if you say, what is the difference with regard to food that we are concerned** that it might be rendered ritually impure by the cloth on the table; **and what is the difference with regard to hands that we are not concerned** that they might be rendered ritually impure by the cloth placed on the cushion? Beit Hillel continue: We can respond that **even so, this is preferable,** as **there is no** requirement of **washing of the hands for non-sacred items by Torah law. It is preferable that hands,** whose impurity **has no basis in Torah law, will become ritually impure** with second degree ritual impurity status, **and food,** whose impurity **has a basis in Torah law, will not become ritually impure.**
+
+**17.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים מְכַבְּדִין וְכוּ׳.
+*Translation:* We learned in the mishna that Beit Hillel and Beit Shammai disagree over whether cleaning the place where one ate or washing one’s hands should be performed first after the meal. **Beit Shammai say: One sweeps the** area of the **house** where the meal took place **and he washes his hands** with the final waters **thereafter. And Beit Hillel say: One washes his hands and sweeps the house thereafter.**
+
+**18.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: בֵּית שַׁמַּאי אוֹמְרִים מְכַבְּדִין אֶת הַבַּיִת וְאַחַר כָּךְ נוֹטְלִין לַיָּדַיִם, שֶׁאִם אַתָּה אוֹמֵר נוֹטְלִין לַיָּדַיִם תְּחִלָּה, נִמְצָא אַתָּה מַפְסִיד אֶת הָאוֹכָלִין. אֲבָל נְטִילַת יָדַיִם לְבֵית שַׁמַּאי תְּחִלָּה לָא סְבִירָא לְהוּ. מַאי טַעְמָא? — מִשּׁוּם פֵּירוּרִין.
+*Translation:* **The Sages taught** in a *Tosefta* where this issue is discussed in greater detail: **Beit Shammai say: One sweeps the** area of the **house** where the meal took place **and washes his hands thereafter, as if you say that one washes his hands first,** the water is liable to splash on the remaining crumbs and **you will have ruined the food. But Beit Shammai do not hold that the washing of the hands is first. What is the reason? Due to** concern, lest the **crumbs** will be made disgusting.
+
+**19.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל אוֹמְרִים: אִם שַׁמָּשׁ תַּלְמִיד חָכָם הוּא, נוֹטֵל פֵּירוּרִין שֶׁיֵּשׁ בָּהֶם כְּזַיִת, וּמַנִּיחַ פֵּירוּרִין שֶׁאֵין בָּהֶן כְּזַיִת.
+*Translation:* **And Beit Hillel say: If the attendant is a Torah scholar,** he **removes the crumbs that are an olive-bulk** from the table at the end of the meal **and leaves** only **crumbs that are not an olive-bulk,** as food that is less than an olive-bulk is not considered food and there is no prohibition to ruin it.
+
+**20.**
+*Hebrew/Aramaic:* מְסַיַּיע לֵיהּ לְרַבִּי יוֹחָנָן. דְּאָמַר רַבִּי יוֹחָנָן: פֵּירוּרִין שֶׁאֵין בָּהֶם כְּזַיִת — מוּתָּר לְאַבְּדָן בַּיָּד.
+*Translation:* This **supports** the opinion of **Rabbi Yoḥanan, as Rabbi Yoḥanan said: Crumbs that are less than an olive-bulk** in size, **one may destroy them with his hand** without violating the prohibition against ruining food.
+
+**21.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? בֵּית הִלֵּל סָבְרִי אָסוּר לְהִשְׁתַּמֵּשׁ בְּשַׁמָּשׁ עַם הָאָרֶץ. וּבֵית שַׁמַּאי סָבְרִי מוּתָּר לְהִשְׁתַּמֵּשׁ בְּשַׁמָּשׁ עַם הָאָרֶץ.
+*Translation:* Here too the Gemara poses the question: **With regard to what do they disagree?** The Gemara answers: The basis of their argument is that **Beit Hillel hold: One is forbidden to use** the services of **a waiter** who is an ***am ha’aretz*.** Therefore, there is no room for concern that food will be ruined as only crumbs remain on the table. **And Beit Shammai hold: One is permitted to use** the services of **an attendant** who is an ***am ha’aretz*.** Food will remain on the table and, therefore, there is room for concern that food will be ruined. The solution is to clean the food off the table and only then wash one’s hands.
+
+**22.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא אָמַר רַב הוּנָא: בְּכוּלֵּיהּ פִּרְקִין הֲלָכָה כְּבֵית הִלֵּל, בַּר מֵהָא דַּהֲלָכָה כְּבֵית שַׁמַּאי, וְרַבִּי אוֹשַׁעְיָא מַתְנִי אִיפְּכָא, וּבְהָא נָמֵי הֲלָכָה כְּבֵית הִלֵּל.
+*Translation:* **Rabbi Yosei bar Ḥanina said** that **Rav Huna said: In our entire chapter, the *halakha* is in accordance with** the opinion of **Beit Hillel, except for this** case, **where the *halakha* is in accordance with** the opinion of **Beit Shammai. And Rabbi Oshaya would teach the opposite** and reverse the opinions of Beit Hillel and Beit Shammai as they appear in our mishna, **and in this** case **as well, the *halakha* is in accordance with** the opinion of **Beit Hillel.**
+
+**23.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים: נֵר וּמָזוֹן וְכוּ׳.
+*Translation:* We learned in the mishna that **Beit Shammai say:** One recites the blessing over the **candle,** then the Grace after **Meals** blessing, then the blessing over the spices, and finally the blessing of *havdala*. And Beit Hillel say: The order is candle, spices, Grace after Meals, and *havdala*.
+
+**24.**
+*Hebrew/Aramaic:* רַב הוּנָא בַּר יְהוּדָה אִיקְּלַע לְבֵי רָבָא. חַזְיֵיהּ לְרָבָא דְּבָרֵיךְ אַבְּשָׂמִים בְּרֵישָׁא. אֲמַר לֵיהּ: מִכְּדִי בֵּית שַׁמַּאי וּבֵית הִלֵּל אַמָּאוֹר לָא פְּלִיגִי, דְּתַנְיָא בֵּית שַׁמַּאי אוֹמְרִים: נֵר וּמָזוֹן, בְּשָׂמִים וְהַבְדָּלָה. וּבֵית הִלֵּל אוֹמְרִים: נֵר וּבְשָׂמִים, מָזוֹן וְהַבְדָּלָה!
+*Translation:* The Gemara relates that **Rav Huna bar Yehuda happened** to come **to Rava’s house. He saw that Rava recited a blessing over the spices first.** Rav Huna bar Yehuda **said to him: Now since Beit Hillel and Beit Shammai do not disagree with regard to** the blessing over **light, as we learned** in our mishna that **Beit Shammai say:** One recites the blessing over the **candle,** then the Grace after **Meals** blessing, then the blessing over the **spices,** and finally the blessing of ***havdala*. And Beit Hillel say:** The order is **candle, and spices,** Grace after **Meals, and *havdala*,** why did you recite the blessing over the spices first?
+
+**25.**
+*Hebrew/Aramaic:* עָנֵי רָבָא בָּתְרֵיהּ: זוֹ דִּבְרֵי רַבִּי מֵאִיר, אֲבָל רַבִּי יְהוּדָה אוֹמֵר לֹא נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִלֵּל עַל הַמָּזוֹן שֶׁהוּא בַּתְּחִילָּה וְעַל הַבְדָּלָה שֶׁהִיא בַּסּוֹף, עַל מָה נֶחְלְקוּ — עַל הַמָּאוֹר וְעַל הַבְּשָׂמִים, שֶׁבֵּית שַׁמַּאי אוֹמְרִים עַל הַמָּאוֹר וְאַחַר כָּךְ בְּשָׂמִים, וּבֵית הִלֵּל אוֹמְרִים בְּשָׂמִים וְאַחַר כָּךְ מָאוֹר.
+*Translation:* **Rava answered after him:** Indeed, **that is the statement of Rabbi Meir. However, Rabbi Yehuda says in** a *baraita* that **Beit Hillel and Beit Shammai neither disagree with regard to** Grace after **Meals that it is** recited **first, nor with regard to *havdala*, which is** recited **last. With regard to what do they disagree?** They disagree **with regard to the light and the spices. Beit Shammai say:** One recites a blessing **over light and over spices thereafter, and Beit Hillel say:** One recites a blessing **over spices and over light thereafter.**
+
+**26.**
+*Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן נָהֲגוּ הָעָם כְּבֵית הִלֵּל אַלִּיבָּא דְּרַבִּי יְהוּדָה.
+*Translation:* **And Rabbi Yoḥanan said: The people were accustomed** to conduct themselves **in accordance with** the opinion of **Beit Hillel according to** the interpretation of **Rabbi Yehuda.** The blessing over the spices is recited first.
+
+**27.**
+*Hebrew/Aramaic:* בֵּית שַׁמַּאי אוֹמְרִים שֶׁבָּרָא כּוּ׳.
+*Translation:* The mishna cited a dispute between Beit Hillel and Beit Shammai with regard to the formula of the blessing over fire in *havdala*. **Beit Shammai say: Who created [*bara*]** the light of fire. And Beit Hillel say: Who creates [*boreh*] the lights of fire.
+
+**28.**
+*Hebrew/Aramaic:* אָמַר רָבָא: בְּ״בָרָא״ כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָרָא מַשְׁמַע. כִּי פְּלִיגִי בְּ״בוֹרֵא״, בֵּית שַׁמַּאי סָבְרִי ״בּוֹרֵא״ דַּעֲתִיד לְמִבְרָא, וּבֵית הִלֵּל סָבְרִי ״בּוֹרֵא״ נָמֵי דִּבְרָא מַשְׁמַע.
+*Translation:* Regarding this, Rava says: **With regard to** the word ***bara*, everyone agrees that it means created** in the past. **Where they disagree is with regard to** the word ***boreh*. Beit Shammai hold: *Boreh*** means that God **will create in the future, and Beit Hillel hold: *Boreh* also means that He has created** in the past.
+
+**29.**
+*Hebrew/Aramaic:* מֵתִיב רַב יוֹסֵף: ״יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ״, ״יוֹצֵר הָרִים וּבוֹרֵא רוּחַ״, ״בּוֹרֵא הַשָּׁמַיִם וְנוֹטֵיהֶם״. אֶלָּא אָמַר רַב יוֹסֵף: בְּ״בָרָא״ וּ״בוֹרֵא״ כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּבָרָא מַשְׁמַע, כִּי פְּלִיגִי בִּ״מְאוֹר״ וּ״מְאוֹרֵי״. דְּבֵית שַׁמַּאי סָבְרִי חֲדָא נְהוֹרָא אִיכָּא בְּנוּרָא, וּבֵית הִלֵּל סָבְרִי טוּבָא נְהוֹרֵי אִיכָּא בְּנוּרָא. תַּנְיָא נָמֵי הָכִי, אָמְרוּ לָהֶם בֵּית הִלֵּל לְבֵית שַׁמַּאי: הַרְבֵּה מְאוֹרוֹת יֵשׁ בָּאוֹר.
+*Translation:* **Rav Yosef raised an objection:** How can there be a dispute over the meaning of the word *boreh*? In the following verses it is clear that it refers to acts of creation in the past: **“Who forms light and creates [*boreh*] darkness”** (Isaiah 45:7), **“Who forms mountains and creates [*boreh*] wind”** (Amos 4:13), or **“Who creates [*boreh*] the heavens and stretches them out”** (Isaiah 42:5). **Rather, said Rav Yosef: With regard to both *bara* and *boreh*, everyone agrees that** they **mean created. Where they disagree is with regard to the light** of the fire or **the lights** of the fire. **As Beit Shammai hold** that **there is one light in a fire, and Beit Hillel hold** that **there are many lights in a fire,** as a flame consists of red, green, and white light. **That was also taught** in a *baraita*: **Beit Hillel said to Beit Shammai: There are many lights in the fire.**
+
+**30.**
+*Hebrew/Aramaic:* אֵין מְבָרְכִין כּוּ׳. בִּשְׁלָמָא נֵר מִשּׁוּם דְּלֹא שָׁבַת, אֶלָּא בְּשָׂמִים מַה טַּעַם לֹא?
+*Translation:* We learned in the mishna that **one may neither recite a blessing** over the candle nor over the spices of gentiles. The Gemara asks: **Granted,** the prohibition against the recitation of a blessing over **a candle** of gentiles in *havdala*, **as** the flame of the candle **did not rest.** Because it was burning during Shabbat, one should not recite a blessing over it at the conclusion of Shabbat. **However, what is the reason that** one may **not** recite a blessing over **spices** of gentiles?
+
+**31.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: הָכָא בִּמְסִבַּת גּוֹיִם עָסְקִינַן, מִפְּנֵי שֶׁסְּתָם מְסִבַּת גּוֹיִם לַעֲבוֹדָה זָרָה הִיא.
+*Translation:* **Rav Yehuda said** that **Rav said: Here we are dealing with a party** arranged by **gentiles** and the spices used at that party were prohibited because **the parties of gentiles are generally** devoted **to idolatry.**
+
+**32.**
+*Hebrew/Aramaic:* הָא מִדְּקָתָנֵי סֵיפָא אֵין מְבָרְכִין לֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל עֲבוֹדָה זָרָה, מִכְלָל דְּרֵישָׁא לָאו בַּעֲבוֹדָה זָרָה עָסְקִינַן!
+*Translation:* The Gemara asks: **But from that which was taught in the latter clause** of the mishna: **One may neither recite a blessing over the candle nor over the spices of idolatry,** infer **by implication that** in **the first clause** of our mishna **we are not dealing with idolatry?** There must be a different reason why the spices of gentiles are prohibited.
+
+**33.**
+*Hebrew/Aramaic:* אָמַר רַבִּי חֲנִינָא מִסּוּרָא: ״מַה טַּעַם״ קָאָמַר: מַה טַּעַם אֵין מְבָרְכִין עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל גּוֹיִם — מִפְּנֵי שֶׁסְּתָם מְסִבַּת גּוֹיִם לַעֲבוֹדָה זָרָה.
+*Translation:* **Rabbi Ḥanina of Sura said:** These two *halakhot* are complementary, and the mishna **states** the *halakha* employing the style of: **What is the reason.** The mishna should be understood as follows: **What is the reason that one may neither recite a blessing over the candle nor over the spices of gentiles? Because the parties of gentiles are generally** devoted **to idolatry** and one may neither recite a blessing over the candle nor over the spices of idolatry.
+
+**34.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אוּר שֶׁשָּׁבַת — מְבָרְכִין עָלָיו, וְשֶׁלֹּא שָׁבַת — אֵין מְבָרְכִין עָלָיו. מַאי ״שָׁבַת״ וּמַאי ״לֹא שָׁבַת״?
+*Translation:* **The Sages taught** in a *baraita*: **Over fire that rested, one may recite a blessing** in *havdala*, **and over** fire **that did not rest, one may not recite a blessing.** The Gemara asks: **What is** meant by **rested, and what is** meant by **did not rest?**ב

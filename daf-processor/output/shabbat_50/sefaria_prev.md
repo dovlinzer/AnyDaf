@@ -1,0 +1,61 @@
+### Shabbat 49b
+
+**1.**
+*Hebrew/Aramaic:* אַבָּא — שַׁלָּחָא הֲוָה, וְאָמַר הָבִיאוּ שְׁלָחִין וְנֵשֵׁב עֲלֵיהֶן.
+*Translation:* **My father was a tanner, and** one Shabbat **he said: Bring** me **hides and we will sit on them** (Rabbeinu Ḥananel). In other words, even the hides of a craftsman may be moved on Shabbat.
+
+**2.**
+*Hebrew/Aramaic:* מֵיתִיבִי: נְסָרִין שֶׁל בַּעַל הַבַּיִת מְטַלְטְלִין אוֹתָן, וְשֶׁל אוּמָּן אֵין מְטַלְטְלִין אוֹתָן. וְאִם חִישֵּׁב לָתֵת עֲלֵיהֶן פַּת לָאוֹרְחִין — בֵּין כָּךְ וּבֵין כָּךְ מְטַלְטְלִין! שָׁאנֵי נְסָרִים דְּקָפֵיד עֲלַיְיהוּ.
+*Translation:* The Gemara **raises an objection** from a *baraita*: With regard to wooden **boards** belonging **to a homeowner, one may move them** on Shabbat; **however, those** belonging **to a craftsman, one may not move them. And if,** however, **he thought to place bread upon them for guests, both these,** the boards of the homeowner, **and those,** the boards of the craftsman, **may be moved.** Apparently, the raw materials of a craftsman may not be moved on Shabbat. The Gemara answers: Wooden **boards are different** in **that one is particular about them** that they not be damaged. Hides, on the other hand, are not damaged when one sits on them.
+
+**3.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: עוֹרוֹת, בֵּין עֲבוּדִין וּבֵין שֶׁאֵין עֲבוּדִין, מוּתָּר לְטַלְטְלָן בְּשַׁבָּת. לֹא אָמְרוּ עֲבוּדִין אֶלָּא לְעִנְיַן טוּמְאָה בִּלְבַד. מַאי לַָאו לָא שְׁנָא שֶׁל בַּעַל הַבַּיִת, וְלָא שְׁנָא שֶׁל אוּמָּן? לָא, שֶׁל בַּעַל הַבַּיִת.
+*Translation:* The Gemara cites another proof. **Come** and **hear** that which was taught in a different *baraita*: With regard to **hides, whether** they are **tanned or whether** they are **not tanned, it is permitted to move them on Shabbat.** The Sages **said that tanned** hides have a unique legal status, distinct from the status of hides that have not been tanned **only with regard to ritual impurity.** Only tanned hides become ritually impure. **What, is it not** saying that **there is no difference** whether they are hides belonging to **a homeowner and there is no difference** whether they are hides belonging to **a craftsman;** in both cases they may be moved on Shabbat? The Gemara rejects this argument: **No,** the *baraita* is referring exclusively to hides **belonging to a homeowner.**
+
+**4.**
+*Hebrew/Aramaic:* אֲבָל שֶׁל אוּמָּן מַאי? אֵין מְטַלְטְלִין — אִי הָכִי הָא דְתָנֵי: וְלֹא אָמְרוּ עֲבוּדִין אֶלָּא לְעִנְיַן טוּמְאָה בִּלְבַד, לִפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּשֶׁל בַּעַל הַבַּיִת, אֲבָל בְּשֶׁל אוּמָּן — לֹא! כּוּלַּהּ בְּבַעַל הַבַּיִת קָמַיְירֵי.
+*Translation:* The Gemara asks: **But** with regard to hides **belonging to a craftsman, what** is the *halakha*? Is it true that **they may not be moved** on Shabbat? **If so, that which was taught** in the *baraita*: The Sages **said that** the legal status of **tanned** hides is distinct from the status of hides that have not been tanned **only with regard to ritual impurity; let** the *tanna* of the *baraita* **distinguish and teach within** the *halakhot* of Shabbat **itself,** and say: **In what** case **is this statement,** that there is no distinction between whether or not the hides were tanned, **said?** It was stated specifically **with regard to** hides **belonging to a homeowner. However, with regard to** hides **belonging to a craftsman, no,** if they were tanned they may not be moved. The Gemara answers: Since **the entire** *baraita* **is speaking with regard to** hides **of a homeowner,** it would have been forced to elaborate at greater length to introduce the distinction with regard to the hides of a craftsman than it did to introduce the distinction with regard to ritual impurity.
+
+**5.**
+*Hebrew/Aramaic:* כְּתַנָּאֵי: עוֹרוֹת שֶׁל בַּעַל הַבַּיִת מְטַלְטְלִין אוֹתָן, וְשֶׁל אוּמָּן אֵין מְטַלְטְלִין אוֹתָן. רַבִּי יוֹסֵי אוֹמֵר: אֶחָד זֶה וְאֶחָד זֶה מְטַלְטְלִין אוֹתָן.
+*Translation:* The Gemara notes that this issue is **parallel** to a dispute between ***tanna’im*,** as it was taught in a *baraita*: With regard to **hides belonging to a homeowner, one may move them** on Shabbat, **and those of a craftsman, one may not move them. Rabbi Yosei says:** With regard to **both these,** the hides of a homeowner, **and those,** the hides of a craftsman, **one may move them.**
+
+**6.**
+*Hebrew/Aramaic:* הֲדוּר יָתְבִי וְקָמִיבַּעְיָא לְהוּ: הָא דִּתְנַן אֲבוֹת מְלָאכוֹת אַרְבָּעִים חָסֵר אַחַת, כְּנֶגֶד מִי?
+*Translation:* The Gemara relates that those same Sages who sat and discussed the issue of hides, **sat again and they raised a dilemma: That which we learned** in the mishna: **The primary categories of labor,** which are prohibited by Torah law on Shabbat, **are forty-less-one; to what does** this number **correspond?** That is to say, what is the source of this number?
+
+**7.**
+*Hebrew/Aramaic:* אָמַר לְהוּ רַבִּי חֲנִינָא בַּר חָמָא: כְּנֶגֶד עֲבוֹדוֹת הַמִּשְׁכָּן. אֲמַר לְהוּ רַבִּי יוֹנָתָן בְּרַבִּי אֶלְעָזָר, כָּךְ אָמַר רַבִּי שִׁמְעוֹן בְּרַבִּי יוֹסֵי בֶּן לָקוֹנְיָא: כְּנֶגֶד ״מְלָאכָה״ ״מְלַאכְתּוֹ״ וּ״מְלֶאכֶת״ שֶׁבַּתּוֹרָה אַרְבָּעִים חָסֵר אַחַת.
+*Translation:* **Rabbi Ḥanina bar Ḥama said to them: They correspond to the labors in the Tabernacle.** All types of labor that were performed in the Tabernacle are enumerated as primary categories of labor with respect to Shabbat. However, other labors, even if they are significant, are not enumerated among the primary categories of labor since they were not performed in the Tabernacle. **Rabbi Yonatan, son of Rabbi Elazar, said to them** that **so said Rabbi Shimon, son of Rabbi Yosei ben Lakonya:** They **correspond to** the instances of the words **labor, his labor, and the labor of, that** appear **in the Torah** a total of **forty-less-one** times.
+
+**8.**
+*Hebrew/Aramaic:* בָּעֵי רַב יוֹסֵף: ״וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ״, מִמִּנְיָנָא הוּא, אוֹ לָא? אֲמַר לֵיהּ אַבָּיֵי: וְלַיְתֵי סֵפֶר תּוֹרָה וְלִימְנֵי. מִי לָא אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן לֹא זָזוּ מִשָּׁם עַד שֶׁהֵבִיאוּ סֵפֶר תּוֹרָה וּמְנָאוּם!
+*Translation:* **Rav Yosef raised a dilemma:** The term his labor is written with regard to Joseph: “And it came to pass about this time, that he **came into the house to do his labor;** and there was none of the men of the house there within” (Genesis 39:11). **Is it** included **in the count** of the thirty-nine instances **or not? Abaye said to him: And let us bring a Torah scroll and count** the instances of the word labor and thereby determine whether or not there are thirty-nine instances without that one. **Didn’t Rabba bar bar Ḥana say** that **Rabbi Yoḥanan said** in a case of similar uncertainty: **They did not move from there until they brought a Torah scroll and counted them?**
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: כִּי קָא מְסַפְּקָא לִי מִשּׁוּם דִּכְתִיב: ״וְהַמְּלָאכָה הָיְתָה דַיָּם״ מִמִּנְיָנָא הוּא — וְהָא כְּמַאן דְּאָמַר לַעֲשׂוֹת צְרָכָיו נִכְנַס.
+*Translation:* Rav Yosef **said to** Abaye: I cannot reach a conclusion relying solely on a count because there is another instance of the term labor, whose meaning is not clear to me. The reason **I am uncertain is because it is written** with regard to the Tabernacle: **“For the labor they had was sufficient** for all the work to do it, and too much” (Exodus 36:7). The question arises whether or not **this** mention of labor **is** included **in the count** of thirty-nine instances, i.e., whether or not it refers to actual labor. **And** if it does, **that** verse with regard to Joseph should be understood **in accordance with the** opinion of the **one who said** that the expression, to do his labor, is a euphemism. It means that it was **to attend to his needs** and engage in relations with Potiphar’s wife that **he entered.**
+
+**10.**
+*Hebrew/Aramaic:* אוֹ דִילְמָא ״וַיָּבֹא הַבַּיְתָה לַעֲשׂוֹת מְלַאכְתּוֹ״ מִמִּנְיָנָא הוּא, וְהַאי ״וְהַמְּלָאכָה הָיְתָה דַיָּם״ — הָכִי קָאָמַר: דִּשְׁלִימָא לֵיהּ עֲבִידְתָּא. תֵּיקוּ.
+*Translation:* **Or, perhaps,** the verse relating to Joseph: **“He came into the house to do his labor,” is** included **in the count,** and it refers to actual labor. **And this** verse: **“The labor they had was sufficient,” is saying the following: That they completed the** preparatory **labor,** i.e., they brought all the materials, not that they engaged in the actual labor. Let the uncertainty **stand** unresolved.
+
+**11.**
+*Hebrew/Aramaic:* תַּנְיָא כְּמַאן דְּאָמַר כְּנֶגֶד עֲבוֹדוֹת הַמִּשְׁכָּן. דְּתַנְיָא: אֵין חַיָּיבִין אֶלָּא עַל מְלָאכָה שֶׁכַּיּוֹצֵא בָּהּ הָיְתָה בַּמִּשְׁכָּן. הֵם זָרְעוּ, וְאַתֶּם לֹא תִּזְרְעוּ. הֵם קָצְרוּ, וְאַתֶּם לֹא תִּקְצְרוּ.
+*Translation:* With regard to the matter itself, **it was taught** in a *baraita* **in accordance with** the opinion of **the one who said** that the thirty-nine labors of Shabbat **correspond to the labors** performed **in the Tabernacle. As it was taught** in a *baraita*: **One is only liable for** performing **a labor to which there was a corresponding** labor **in the Tabernacle. They sowed** in order to grow dyes for the Tabernacle, **and** therefore **you may not sow** on Shabbat. **They reaped, and** therefore **you may not reap** on Shabbat.
+
+**12.**
+*Hebrew/Aramaic:* הֵם הֶעֱלוּ אֶת הַקְּרָשִׁים מִקַּרְקַע לַעֲגָלָה, וְאַתֶּם לֹא תַּכְנִיסוּ מֵרְשׁוּת הָרַבִּים לִרְשׁוּת הַיָּחִיד. הֵם הוֹרִידוּ אֶת הַקְּרָשִׁים מֵעֲגָלָה לְקַרְקַע, וְאַתֶּם לֹא תּוֹצִיאוּ מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הָרַבִּים. הֵם הוֹצִיאוּ מֵעֲגָלָה לַעֲגָלָה, וְאַתֶּם לֹא תּוֹצִיאוּ מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הַיָּחִיד.
+*Translation:* **They lifted the boards from the ground** in the wilderness, which is a public domain, and placed them **into the wagon,** which is a private domain, **and** therefore **you shall not carry** objects **in from the public domain to the private domain** on Shabbat. **They lowered the boards from the wagon to the ground, and** therefore **you shall not carry** objects **out from the private domain to the public domain** on Shabbat. **They took** boards and other objects **out** and passed them **from wagon to wagon,** i.e., from one private domain to another private domain, **and** therefore **you shall not take** objects **out from** one **private domain to** another **private domain** on Shabbat.
+
+**13.**
+*Hebrew/Aramaic:* מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הַיָּחִיד מַאי קָא עָבֵיד? אַבָּיֵי וְרָבָא דְּאָמְרִי תַּרְוַויְהוּ, וְאִיתֵּימָא רַב אַדָּא בַּר אַהֲבָה: מֵרְשׁוּת הַיָּחִיד לִרְשׁוּת הַיָּחִיד דֶּרֶךְ רְשׁוּת הָרַבִּים.
+*Translation:* The Gemara expresses astonishment with regard to the last clause of the *baraita*: One who takes an object out **from** one **private domain to** another **private domain, what** prohibited labor **is he** thereby **performing?** The Gemara answers: It was **Abaye and Rava who both said, and some say** that it was **Rav Adda bar Ahava** who said: This is referring to taking an object out **from** one **private domain to** another **private domain via the public domain,** as the space between the two wagons in the wilderness was a public domain.
+
+**14.**
+*Hebrew/Aramaic:* בְּגִיזֵּי צֶמֶר וְאֵין מְטַלְטְלִין. אָמַר רָבָא: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא טָמַן בָּהֶן, אֲבָל טָמַן בָּהֶן — מְטַלְטְלִין אוֹתָן.
+*Translation:* We learned in the mishna: One may insulate food **in wool fleece, and he may not move it. Rava said:** This *halakha* that fleece may not be moved on Shabbat **applies only** to a case **where one did not insulate** food **in it.** Only in that case is it set-aside. **However, if one insulated** cooked food **in it, he may move it.** By insulating food in the fleece, he indicated that he intends to use it on Shabbat.
+
+**15.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ הַהוּא מֵרַבָּנָן בַּר יוֹמֵיהּ לְרָבָא: טוֹמְנִין בְּגִיזֵּי צֶמֶר וְאֵין מְטַלְטְלִין אוֹתָן. כֵּיצַד הוּא עוֹשֶׂה?
+*Translation:* **A certain Sage** for whom it was **his first day** in that study hall **raised an objection to Rava** from our mishna: **One may insulate** food **in wool fleece, and one may not move** it. **How,** then, **does he act** if he insulated food in wool fleece and now wishes to remove the pot?

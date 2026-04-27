@@ -47,8 +47,8 @@ private fun parseShiurTimestamp(ts: String): Double {
 
 object ShiurClient {
 
-    private const val SUPABASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co"
-    private val SUPABASE_ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
+    private const val EDGE_FUNCTION_URL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/get-shiur"
+    private val APP_SECRET get() = com.anydaf.BuildConfig.APP_SECRET
 
     private val scope = CoroutineScope(Dispatchers.IO + SupervisorJob())
     private val httpClient = OkHttpClient()
@@ -80,17 +80,13 @@ object ShiurClient {
         scope.launch {
             try {
                 val encodedTractate = URLEncoder.encode(tractate, "UTF-8").replace("+", "%20")
-                val url = "$SUPABASE_URL/rest/v1/shiur_content" +
-                        "?tractate=eq.$encodedTractate" +
-                        "&daf=eq.$daf" +
-                        "&select=segmentation,rewrite,final"
+                val url = "$EDGE_FUNCTION_URL?tractate=$encodedTractate&daf=$daf"
 
                 android.util.Log.d("ShiurClient", "Loading: $url")
 
                 val request = Request.Builder()
                     .url(url)
-                    .header("apikey", SUPABASE_ANON_KEY)
-                    .header("Authorization", "Bearer $SUPABASE_ANON_KEY")
+                    .header("x-app-secret", APP_SECRET)
                     .build()
 
                 val response = withContext(Dispatchers.IO) {

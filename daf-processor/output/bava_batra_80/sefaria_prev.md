@@ -1,0 +1,29 @@
+### Bava Batra 79b
+
+**1.**
+*Hebrew/Aramaic:* וְאִי בְּשָׂדֶה וְאִילָן, אַמַּאי מַחְלִיף? אֶלָּא אָמַר רַבָּה: מַחֲלוֹקֶת בְּבוֹר וְשׁוֹבָךְ, אֲבָל בְּשָׂדֶה וְאִילָן – דִּבְרֵי הַכֹּל מוֹעֲלִין בָּהֶן וּבְמַה שֶּׁבְּתוֹכָן.
+*Translation:* **And if** their dispute is referring **to a field and a tree, why does** Rabbi Elazar, son of Rabbi Shimon, **reverse** his opinion? **Rather,** Rabba’s statement must be adjusted, and this is what **Rabba said:** This **dispute** between the first *tanna* and Rabbi Elazar, son of Rabbi Shimon, applies only **in** the cases of **a cistern and a dovecote. But in** the cases of **a field and a tree, everyone agrees** that one is liable for **misuse** of consecrated property if one derives benefit **from them or their contents.**
+
+**2.**
+*Hebrew/Aramaic:* וּבְבוֹר וְשׁוֹבָךְ – בְּרֵיקָנִין בְּמַאי פְּלִיגִי, וּבִמְלֵאִין בְּמַאי פְּלִיגִי? בְּרֵיקָנִין – פְּלִיגִי בִּפְלוּגְתָּא דְּרַבִּי מֵאִיר וְרַבָּנַן;
+*Translation:* The Gemara asks: **And in** the cases of **a cistern and a dovecote, where** the cistern and the dovecote **are empty, with regard to what** matter **do they disagree? And** similarly, **where** the cistern and the dovecote **are full, with regard to what do they disagree?** The Gemara answers: **In** the cases of a cistern and a dovecote that **are empty, they disagree with regard to** the matter that is the subject of **the dispute between Rabbi Meir and the Rabbis.**
+
+**3.**
+*Hebrew/Aramaic:* דְּתַנָּא קַמָּא סָבַר לַהּ כְּרַבָּנַן, דְּאָמְרִי: אֵין אָדָם מַקְנֶה דָּבָר שֶׁלֹּא בָּא לָעוֹלָם; וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן סָבַר כְּרַבִּי מֵאִיר, דְּאָמַר: אָדָם מַקְנֶה דָּבָר שֶׁלֹּא בָּא לָעוֹלָם.
+*Translation:* The first *tanna* and Rabbi Elazar, son of Rabbi Shimon, disagree **because the first *tanna* holds in accordance with** the opinion of **the Rabbis, who say: A person cannot transfer** ownership of **an object that has not** yet **come into the world,** i.e., that one does not currently own. Therefore, one cannot consecrate water or doves that will enter the cistern or dovecote only in the future. **And Rabbi Elazar, son of Rabbi Shimon, holds in accordance with** the opinion of **Rabbi Meir, who says: A person can transfer** ownership of **an object that has not** yet **come into the world.**
+
+**4.**
+*Hebrew/Aramaic:* אֵימוֹר דְּשָׁמְעַתְּ לֵיהּ לְרַבִּי מֵאִיר – כְּגוֹן פֵּירוֹת דֶּקֶל, דַּעֲבִידִי דְּאָתוּ; הָנֵי – מִי יֵימַר דְּאָתוּ? אָמַר רָבָא: מַשְׁכַּחַתְּ לַהּ בְּמַיִם הַבָּאִין דֶּרֶךְ חֲצֵרוֹ לַבּוֹר, וְיוֹנִים הַבָּאִין דֶּרֶךְ שׁוֹבָכוֹ לַשּׁוֹבָךְ.
+*Translation:* The Gemara raises a difficulty with regard to this answer: You can **say that you heard Rabbi Meir** express this opinion in a case **such as** the **fruit of palm trees, which are likely to come** into existence, as the trees naturally produce fruit. But with regard to **these** doves and water, **who can say that they will come? Rava said: You** can **find** cases where one consecrates water or doves that are likely to arrive, e.g., **in** the case of **water that comes by way of his courtyard into the cistern** when it rains, so that he does not need to fill the cistern. **And** similarly with regard to **doves that come by way of his** other, full **dovecote into** this empty **dovecote.**
+
+**5.**
+*Hebrew/Aramaic:* וּבִמְלֵאִים בְּמַאי פְּלִיגִי? אָמַר רָבָא: כְּגוֹן שֶׁהִקְדִּישׁ בּוֹר סְתָם; וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן סָבַר לַהּ כַּאֲבוּהּ, דְּאָמַר: דָּנִין דִּין גָּבוֹהַּ מִדִּין הֶדְיוֹט,
+*Translation:* The Gemara asks: **And** in cases **where** the cistern and the dovecote **are full, with regard to what** matter **do they disagree? Rava said:** This dispute concerns a case **where he consecrated a cistern without specification. And Rabbi Elazar, son of Rabbi Shimon, holds in accordance with** the opinion of **his father, who says: One infers the *halakha*** of consecration to the **Most High from the *halakha*** of transactions between one **ordinary** person **[*hedyot*]** and another.
+
+**6.**
+*Hebrew/Aramaic:* מָה דִּין הֶדְיוֹט – מָצֵי אֲמַר: בֵּירָא זַבֵּינִי לָךְ, מַיָּא לָא זַבֵּינִי לָךְ; אַף דִּין גָּבוֹהַּ – בֵּירָא אַקְדֵּישׁ, מַיָּא לָא אַקְדֵּישׁ. וְתַנָּא קַמָּא סָבַר: אֵין דָּנִין דִּין גָּבוֹהַּ מִדִּין הֶדְיוֹט.
+*Translation:* The Gemara elaborates: **Just as the *halakha*** with regard to transactions between one **ordinary** person and another is that **one can say: I sold you the cistern** but **I did not sell you the water** it contains, **so too, the *halakha*** in the case of consecration to the **Most High** is that one can say: **I consecrated the cistern** but **I did not consecrate the water** within it. **And the first *tanna* holds** that **one does not infer the *halakha*** of consecration to the **Most High from the *halakha*** of transactions between one ordinary person and another. Rather, one who consecrates property does so generously, i.e., the most expansive meaning is assumed for his vow of consecration, and therefore even if he did not say so explicitly, he consecrated the water together with the cistern.
+
+**7.**
+*Hebrew/Aramaic:* וְדִין הֶדְיוֹט לָא?! וְהָתְנַן: מָכַר בּוֹר – מָכַר מֵימָיו! אָמַר רָבָא: מַתְנִיתִין יְחִידָאָה הִיא – דְּתַנְיָא: מָכַר בּוֹר – לֹא מָכַר מֵימָיו. רַבִּי נָתָן אוֹמֵר: מָכַר בּוֹר – מָכַר מֵימָיו.
+*Translation:* The Gemara asks: **And** does **the *halakha*** concerning a transaction with **an ordinary** person say that one does **not** sell the water along with the cistern? **But didn’t we learn** in the mishna (78b) that one who **sold a cistern has sold its water? Rava said:** The ruling in **the mishna is an individual** opinion, **as it is taught** in a *baraita*: One who **sold a cistern has not sold its water. Rabbi Natan says:** One who **sold a cistern has sold its water.**

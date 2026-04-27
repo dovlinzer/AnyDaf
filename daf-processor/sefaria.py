@@ -14,7 +14,7 @@ MASECHTA_MAP = {
     'berakhot': 'Berakhot', 'berachot': 'Berakhot', 'brachos': 'Berakhot', 'brachot': 'Berakhot',
     # Seder Moed
     'shabbat': 'Shabbat', 'shabbos': 'Shabbat', 'shabat': 'Shabbat',
-    'eruvin': 'Eruvin', 'eiruvin': 'Eruvin',
+    'eruvin': 'Eiruvin', 'eiruvin': 'Eiruvin',
     'pesachim': 'Pesachim', 'pesahim': 'Pesachim',
     'shekalim': 'Shekalim',
     'yoma': 'Yoma',
@@ -107,6 +107,34 @@ SHEKALIM_REFS: dict = {
     "21b": "Jerusalem Talmud Shekalim 8:1:1-3:1",
     "22a": "Jerusalem Talmud Shekalim 8:3:1-4:4",
     "22b": "Jerusalem Talmud Shekalim 8:4:4",
+}
+
+
+# Kinnim and Middot have no Gemara. Sefaria doesn't index them by daf/amud;
+# instead they are structured as Mishnah chapters. These dicts map each
+# daf+amud to the appropriate Sefaria Mishnah reference.
+# NOTE: per-amud boundaries are approximate Vilna Shas layout — verify and
+# adjust the mishnah numbers if a shiur lands on the wrong side of a boundary.
+KINNIM_REFS: dict[str, str] = {
+    "22a": "Mishnah Kinnim 1:1-2",
+    "22b": "Mishnah Kinnim 1:2-4",
+    "23a": "Mishnah Kinnim 2:1-3",
+    "23b": "Mishnah Kinnim 2:3-5",
+    "24a": "Mishnah Kinnim 3:1-3",
+    "24b": "Mishnah Kinnim 3:4-5",
+    "25a": "Mishnah Kinnim 3:5-6",
+    "25b": "Mishnah Kinnim 3:6",
+}
+
+MIDDOT_REFS: dict[str, str] = {
+    "34a": "Mishnah Middot 1:1-5",
+    "34b": "Mishnah Middot 1:5-9",
+    "35a": "Mishnah Middot 2:1-4",
+    "35b": "Mishnah Middot 2:4-6",
+    "36a": "Mishnah Middot 3:1-4",
+    "36b": "Mishnah Middot 4:1-4",
+    "37a": "Mishnah Middot 4:4-7",
+    "37b": "Mishnah Middot 5:1-4",
 }
 
 
@@ -235,8 +263,13 @@ def _fetch_amud(masechta: str, daf: int, amud: str) -> Optional[str]:
     """Fetch one amud from Sefaria and return formatted markdown, or None on failure."""
     display_ref = f"{masechta} {daf}{amud}"
 
-    if masechta == 'Shekalim':
-        sefaria_ref = SHEKALIM_REFS.get(f"{daf}{amud}")
+    _CUSTOM_REFS: dict[str, dict] = {
+        'Shekalim': SHEKALIM_REFS,
+        'Kinnim':   KINNIM_REFS,
+        'Middot':   MIDDOT_REFS,
+    }
+    if masechta in _CUSTOM_REFS:
+        sefaria_ref = _CUSTOM_REFS[masechta].get(f"{daf}{amud}")
         if not sefaria_ref:
             return None
         ref_for_url = requests.utils.quote(sefaria_ref, safe='')

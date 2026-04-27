@@ -114,7 +114,7 @@ MASECHTA_MAP = {
     "sukkah": "Sukkah",
     "beitzah": "Beitzah",
     "taanit": "Ta\u2019anit", "taanis": "Ta\u2019anit",
-    "megillah": "Megilah", "megila": "Megilah",
+    "megillah": "Megillah", "megila": "Megillah", "megilah": "Megillah",
     "yevamot": "Yevamot", "yevamos": "Yevamot",
     "ketubot": "Ketubot", "kesuvos": "Ketubot",
     "nedarim": "Nedarim",

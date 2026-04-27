@@ -1,0 +1,721 @@
+{
+  "masechta": "Zevachim",
+  "daf": 50,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Introduction to derivation rules and limitations in kodshim",
+      "display_title": "Derivation Rules",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Overview of special rules for learning halachos of kodshim and the principle of me'akev",
+          "display_title": "Me'akev Principle",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "The mesora of chazal regarding details of sacrifices and the requirement of shina lo hakatuv le'akeiv",
+          "display_title": "Shina Lo Hakatuv",
+          "timestamp": "00:25"
+        },
+        {
+          "title": "How details are learned and applied across different korbanot through connections and derivations",
+          "display_title": "Learning Across Cases",
+          "timestamp": "00:56"
+        },
+        {
+          "title": "The fundamental principle that you can do lemadim lamad milamad (derivation from derivation) throughout Torah",
+          "display_title": "Lemadim Lamad Milamad",
+          "timestamp": "01:29"
+        },
+        {
+          "title": "Limitations on derivations specifically by korbanot and the principle of davar halamad behekkesh ein chozer umelamed behekkesh",
+          "display_title": "Hekkesh Min Hahekkesh",
+          "timestamp": "02:07"
+        },
+        {
+          "title": "Illustration of the hekkesh min hahekkesh rule with the example of chulin and asham learning tzafon from olah",
+          "display_title": "Tzafon Example",
+          "timestamp": "02:35"
+        },
+        {
+          "title": "Second limitation: gezeirah shavah cannot be built on hekkesh; the case of chatas and asham",
+          "display_title": "Gezeirah Shavah Issue",
+          "timestamp": "03:00"
+        },
+        {
+          "title": "Overview of the 4x4 matrix of derivation methods: hekkesh, gezeirah shavah, binyan av, kal vachomer in both directions",
+          "display_title": "4x4 Matrix",
+          "timestamp": "03:42"
+        }
+      ]
+    },
+    {
+      "title": "Hekkesh as first method: deriving to hekkesh, gezeirah shavah, kal vachomer, and binyan av",
+      "display_title": "Hekkesh Column",
+      "timestamp": "04:07",
+      "micro_segments": [
+        {
+          "title": "Davar halamad mehekkesh chozer umelamed bekal vachomer: hekkesh followed by kal vachomer is permitted",
+          "display_title": "Hekkesh → Kal Vachomer",
+          "timestamp": "04:07"
+        },
+        {
+          "title": "Evidence from Tanna D'vei Rabbi Yishmael: applying rules of inner chatas to Par Yom Kippur via hekkesh and kal vachomer",
+          "display_title": "Rabbi Yishmael Evidence",
+          "timestamp": "04:18"
+        },
+        {
+          "title": "Davar halamad behekkesh mahu sheyilamed bbinyan av: debate about hekkesh followed by binyan av",
+          "display_title": "Hekkesh → Binyan Av",
+          "timestamp": "05:16"
+        },
+        {
+          "title": "Amar Rabbi Yirmiah: the Torah explicitly says tzafon by asham, showing binyan av cannot be built on hekkesh",
+          "display_title": "Asham Tzafon Rule",
+          "timestamp": "05:49"
+        },
+        {
+          "title": "Gemara challenges: why didn't Torah apply the hekkesh from olah to chatas via binyan av; analysis of what makes a valid binyan av",
+          "display_title": "Binyan Av Critique",
+          "timestamp": "07:02"
+        },
+        {
+          "title": "Why olah, chatas, and asham each require explicit statements: differences make binyan av invalid (olah is entirely burned, chatas is mechaper, asham is lighter)",
+          "display_title": "Category Differences",
+          "timestamp": "07:35"
+        },
+        {
+          "title": "Gemara concludes: binyan av failure here is not about hekkesh first, but about intrinsic problems with the binyan av itself",
+          "display_title": "Binyan Av Intrinsic Issue",
+          "timestamp": "08:14"
+        },
+        {
+          "title": "Gemara's question: could the three-way paradigm (olah, chatas, asham) have created a common category without needing explicit statement by each",
+          "display_title": "Three-Way Paradigm",
+          "timestamp": "08:34"
+        },
+        {
+          "title": "Analysis of why two-source binyan av cannot work: olah burns completely (unlike chatas/asham); chatas achieves kapparah (unlike olah/asham); asham applies to different categories of obligation",
+          "display_title": "Pairwise Distinctions",
+          "timestamp": "08:53"
+        }
+      ]
+    },
+    {
+      "title": "Gezeirah shavah as first method: deriving to hekkesh, gezeirah shavah, kal vachomer, and binyan av",
+      "display_title": "Gezeirah Shavah Column",
+      "timestamp": "11:01",
+      "micro_segments": [
+        {
+          "title": "Davar halamad bigzeirah shavah mahu sheyilamed behekkesh: case of todah from ma'aser via shlamim and sham sham",
+          "display_title": "Todah from Ma'aser",
+          "timestamp": "11:01"
+        },
+        {
+          "title": "Learning sequence: ma'aser to shlamim via gezeirah shavah of sham, then shlamim to todah via hekkesh",
+          "display_title": "Sham Sham Connection",
+          "timestamp": "11:52"
+        },
+        {
+          "title": "Rav Pappa's position: you can do gezeirah shavah then hekkesh, but debate about whether restrictions apply to source or application",
+          "display_title": "Rav Pappa Debate",
+          "timestamp": "14:54"
+        },
+        {
+          "title": "Mar Zutra challenges: ma'aser is chulin, so restrictions of kodshim should not apply when learning from chulin sources",
+          "display_title": "Chulin Source Issue",
+          "timestamp": "14:57"
+        },
+        {
+          "title": "Rav Pappa responds: restrictions apply to what you're applying it to (the derived law), not where you're coming from (the source)",
+          "display_title": "Restrictions Apply",
+          "timestamp": "15:24"
+        },
+        {
+          "title": "Rashi's interpretation: underlying dispute about whether restrictions follow the source (melamed) or the application (lamed)",
+          "display_title": "Source vs Application",
+          "timestamp": "16:42"
+        },
+        {
+          "title": "Davar halamad bigzeirah shavah mahu sheyilamed bigzeirah shavah: gezeirah shavah to gezeirah shavah via case of breads with todah",
+          "display_title": "Gezeirah Shavah Chain",
+          "timestamp": "17:31"
+        },
+        {
+          "title": "Rami bar Chama's case: soles, chalos, rekikin all require fine flour via double gezeirah shavah of chalos and matzos",
+          "display_title": "Bread Types Case",
+          "timestamp": "17:39"
+        },
+        {
+          "title": "Ravina challenges: maybe matzos-matzos is from a direct source (mincha of todah), not from the chalos that was itself learned via gezeirah shavah",
+          "display_title": "Direct Source Challenge",
+          "timestamp": "19:03"
+        },
+        {
+          "title": "Rava's alternative source: explicit teaching about cutting up the inner chatas and applying to Yom Kippur via gezeirah shavah of eretz-basar-perish",
+          "display_title": "Cutting Up Case",
+          "timestamp": "19:39"
+        },
+        {
+          "title": "Davar halamad bigzeirah shavah mahu sheyilamed bekal vachomer: gezeirah shavah followed by kal vachomer",
+          "display_title": "Gezeirah Shavah → Kal Va…",
+          "timestamp": "24:23"
+        },
+        {
+          "title": "Logical proof using kal vachomer: hekkesh is weaker (can't do hekkesh-hekkesh) but permits kal vachomer; gezeirah shavah is stronger (permits gezeirah shavah-gezeirah shavah); so gezeirah shavah should certainly permit kal vachomer",
+          "display_title": "Strength Argument",
+          "timestamp": "24:54"
+        },
+        {
+          "title": "Gemara accepts the logic: if hekkesh permits kal vachomer and gezeirah shavah permits hekkesh, gezeirah shavah permits kal vachomer",
+          "display_title": "Conclusion",
+          "timestamp": "26:06"
+        },
+        {
+          "title": "Davar halamad bigzeirah shavah mahu sheyilamed bbinyan av: gezeirah shavah followed by binyan av—teiku (unresolved)",
+          "display_title": "Gezeirah Shavah → Binyan…",
+          "timestamp": "30:43"
+        }
+      ]
+    },
+    {
+      "title": "Kal vachomer as first method: deriving to hekkesh, gezeirah shavah, kal vachomer, and binyan av",
+      "display_title": "Kal Vachomer Column",
+      "timestamp": "31:34",
+      "micro_segments": [
+        {
+          "title": "Davar halamad bekal vachomer mahu sheyilamed behekkesh: kal vachomer followed by hekkesh",
+          "display_title": "Kal Vachomer → Hekkesh",
+          "timestamp": "31:34"
+        },
+        {
+          "title": "Davar halamad bekal vachomer mahu sheyilamed bigzeirah shavah: kal vachomer followed by gezeirah shavah",
+          "display_title": "Kal Vachomer → Gezeirah…",
+          "timestamp": "31:34"
+        },
+        {
+          "title": "Logical argument: kal vachomer is stronger than gezeirah shavah (permits hekkesh while gezeirah shavah cannot); therefore if gezeirah shavah permits hekkesh (Rav Pappa), kal vachomer certainly does",
+          "display_title": "Strength Comparison",
+          "timestamp": "31:37"
+        },
+        {
+          "title": "Logical proof: gezeirah shavah cannot build on hekkesh (weaker), but can build on gezeirah shavah (itself); kal vachomer is stronger than gezeirah shavah; therefore kal vachomer permits gezeirah shavah",
+          "display_title": "Buildability Logic",
+          "timestamp": "31:37"
+        },
+        {
+          "title": "Gemara limits the proof: only works if you accept Rav Pappa's position on gezeirah shavah-hekkesh; otherwise teiku",
+          "display_title": "Rav Pappa Dependency",
+          "timestamp": "33:50"
+        },
+        {
+          "title": "Davar halamad bekal vachomer mahu sheyilamed bekal vachomer: kal vachomer followed by kal vachomer",
+          "display_title": "Kal Vachomer → Kal Vacho…",
+          "timestamp": "37:01"
+        },
+        {
+          "title": "First attempt using kal vachomer: gezeirah shavah cannot build on hekkesh but can build on kal vachomer; therefore kal vachomer permits kal vachomer",
+          "display_title": "First Proof Attempt",
+          "timestamp": "37:01"
+        },
+        {
+          "title": "Gemara's objection: this proof uses kal vachomer to prove kal vachomer, making it kal vachomer ben kal vachomer (grandson), which begs the question",
+          "display_title": "Circularity Problem",
+          "timestamp": "40:07"
+        },
+        {
+          "title": "Alternative proof without using derived kal vachomer: hekkesh cannot build on hekkesh (weak) but permits kal vachomer (strong); therefore kal vachomer certainly permits kal vachomer",
+          "display_title": "Non-Circular Proof",
+          "timestamp": "41:36"
+        },
+        {
+          "title": "Davar halamad bekal vachomer mahu sheyilamed bbinyan av: kal vachomer followed by binyan av",
+          "display_title": "Kal Vachomer → Binyan Av",
+          "timestamp": "42:42"
+        },
+        {
+          "title": "Rav Yirmiah's case: malikat and tereifah bird; Rebbi Meir uses kal vachomer to show shechitatah protects against tumah, then binyan av to apply same to melikat",
+          "display_title": "Melikat Tereifah Case",
+          "timestamp": "42:42"
+        },
+        {
+          "title": "Rebbi Meir's kal vachomer: behemah nevela is more stringent (metamei in touching and carrying); bird nevela is less stringent (only metamei in swallowing); so shechitatah certainly permits bird",
+          "display_title": "Behemah Comparison",
+          "timestamp": "43:29"
+        },
+        {
+          "title": "Binyan av built on kal vachomer: shechita maksheret be'achilatah umetaheret tereifatah; therefore melikat which also maksheret should also protect from tumah",
+          "display_title": "Melikat Application",
+          "timestamp": "44:29"
+        },
+        {
+          "title": "Gemara's objection: the case only works because it starts from chulin (behemah and of), so restrictions of kodshim do not apply; we do not know if kal vachomer permits binyan av within kodshim",
+          "display_title": "Chulin Caveat",
+          "timestamp": "45:19"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "me'akev (essential requirement)",
+      "timestamps": [
+        "00:32",
+        "00:40",
+        "00:43"
+      ]
+    },
+    {
+      "term": "shina lo hakatuv le'akeiv (Torah must repeat to make essential)",
+      "timestamps": [
+        "00:35",
+        "00:52",
+        "01:16"
+      ]
+    },
+    {
+      "term": "lemadim lamad milamad (derivation from derivation)",
+      "timestamps": [
+        "01:48",
+        "01:52",
+        "02:01"
+      ]
+    },
+    {
+      "term": "davar halamad behekkesh ein chozer umelamed behekkesh (hekkesh cannot derive hekkesh)",
+      "timestamps": [
+        "02:10",
+        "02:12",
+        "02:28"
+      ]
+    },
+    {
+      "term": "hekkesh (linking two cases together)",
+      "timestamps": [
+        "02:16",
+        "02:19",
+        "02:35",
+        "03:15",
+        "04:07",
+        "05:16"
+      ]
+    },
+    {
+      "term": "gezeirah shavah (derivation from identical words)",
+      "timestamps": [
+        "03:00",
+        "03:04",
+        "03:19",
+        "11:01",
+        "17:31",
+        "24:23"
+      ]
+    },
+    {
+      "term": "binyan av (paradigm/analogy)",
+      "timestamps": [
+        "03:50",
+        "05:16",
+        "05:25",
+        "06:40",
+        "07:02",
+        "30:43",
+        "42:42"
+      ]
+    },
+    {
+      "term": "kal vachomer (logical inference from weaker to stronger)",
+      "timestamps": [
+        "03:50",
+        "04:18",
+        "04:55",
+        "05:02",
+        "24:23",
+        "31:34",
+        "37:01",
+        "40:07",
+        "42:42"
+      ]
+    },
+    {
+      "term": "tzafon (north of the altar)",
+      "timestamps": [
+        "02:35",
+        "02:40",
+        "03:10",
+        "03:13",
+        "06:04",
+        "06:09"
+      ]
+    },
+    {
+      "term": "chatas (sin offering)",
+      "timestamps": [
+        "02:35",
+        "02:43",
+        "02:45",
+        "03:13",
+        "03:15",
+        "04:37",
+        "06:06",
+        "06:09",
+        "07:40"
+      ]
+    },
+    {
+      "term": "asham (guilt offering)",
+      "timestamps": [
+        "02:47",
+        "03:10",
+        "06:24",
+        "07:02",
+        "07:14"
+      ]
+    },
+    {
+      "term": "olah (elevation offering)",
+      "timestamps": [
+        "02:40",
+        "02:43",
+        "06:04",
+        "06:09",
+        "07:07"
+      ]
+    },
+    {
+      "term": "Tanna D'vei Rabbi Yishmael",
+      "timestamps": [
+        "04:20",
+        "04:22",
+        "04:25",
+        "25:08",
+        "27:32",
+        "33:07"
+      ]
+    },
+    {
+      "term": "Yom Kippur / Par and Seir",
+      "timestamps": [
+        "04:47",
+        "04:55",
+        "04:59",
+        "23:25",
+        "23:31",
+        "23:35",
+        "24:04",
+        "24:07"
+      ]
+    },
+    {
+      "term": "Par He'elam Davar (bull of the anointed priest)",
+      "timestamps": [
+        "04:50",
+        "04:52",
+        "04:55",
+        "20:10"
+      ]
+    },
+    {
+      "term": "Rav Pappa",
+      "timestamps": [
+        "11:40",
+        "11:42",
+        "14:54",
+        "16:00",
+        "17:25",
+        "26:00",
+        "26:04",
+        "26:06",
+        "30:14",
+        "32:08",
+        "32:30",
+        "33:50"
+      ]
+    },
+    {
+      "term": "shlamim (peace offerings)",
+      "timestamps": [
+        "12:03",
+        "12:05",
+        "12:19",
+        "12:59",
+        "13:05",
+        "13:07",
+        "13:10",
+        "13:15",
+        "13:19"
+      ]
+    },
+    {
+      "term": "todah (thanksgiving offering)",
+      "timestamps": [
+        "11:56",
+        "11:57",
+        "11:59",
+        "12:06",
+        "12:08",
+        "12:35",
+        "12:42",
+        "12:46",
+        "12:49",
+        "12:51"
+      ]
+    },
+    {
+      "term": "ma'aser sheni (second tithe)",
+      "timestamps": [
+        "11:56",
+        "12:06",
+        "12:13",
+        "12:19",
+        "12:35",
+        "12:42",
+        "12:43"
+      ]
+    },
+    {
+      "term": "sham sham (word repetition gezeirah shavah)",
+      "timestamps": [
+        "13:20",
+        "13:23",
+        "13:26",
+        "13:29"
+      ]
+    },
+    {
+      "term": "chulin (non-sacred)",
+      "timestamps": [
+        "15:04",
+        "15:07",
+        "15:15",
+        "15:21"
+      ]
+    },
+    {
+      "term": "kodesh (sacred)",
+      "timestamps": [
+        "15:13",
+        "15:19",
+        "15:27"
+      ]
+    },
+    {
+      "term": "Rami bar Chama",
+      "timestamps": [
+        "17:37",
+        "27:54",
+        "35:16"
+      ]
+    },
+    {
+      "term": "soles (fine flour)",
+      "timestamps": [
+        "17:41",
+        "17:55",
+        "18:08"
+      ]
+    },
+    {
+      "term": "revuchah (kneaded dough)",
+      "timestamps": [
+        "17:55",
+        "18:06"
+      ]
+    },
+    {
+      "term": "chalos (unleavened loaves)",
+      "timestamps": [
+        "18:12",
+        "18:15",
+        "18:19"
+      ]
+    },
+    {
+      "term": "rekikin (thin cakes/matzah)",
+      "timestamps": [
+        "18:27",
+        "18:30",
+        "18:38"
+      ]
+    },
+    {
+      "term": "chalos chalos (gezeirah shavah)",
+      "timestamps": [
+        "18:21",
+        "18:24"
+      ]
+    },
+    {
+      "term": "matzos matzos (gezeirah shavah)",
+      "timestamps": [
+        "18:38",
+        "18:41"
+      ]
+    },
+    {
+      "term": "Ravina",
+      "timestamps": [
+        "19:05",
+        "19:06"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "19:41",
+        "19:45"
+      ]
+    },
+    {
+      "term": "inner chatas of kohen mashiach / Kohen Gadol",
+      "timestamps": [
+        "19:53",
+        "20:02",
+        "20:10",
+        "23:28"
+      ]
+    },
+    {
+      "term": "nitoach (chopping into pieces)",
+      "timestamps": [
+        "21:08",
+        "21:15",
+        "21:24",
+        "23:39"
+      ]
+    },
+    {
+      "term": "hefshet (flaying/removing skin)",
+      "timestamps": [
+        "21:44",
+        "21:52"
+      ]
+    },
+    {
+      "term": "pirsho (intestinal contents)",
+      "timestamps": [
+        "22:08",
+        "22:14"
+      ]
+    },
+    {
+      "term": "Rabbi Yochanan",
+      "timestamps": [
+        "01:44",
+        "31:56",
+        "32:02"
+      ]
+    },
+    {
+      "term": "Mar Zutra bar Rav Mari",
+      "timestamps": [
+        "14:57",
+        "14:58",
+        "16:01"
+      ]
+    },
+    {
+      "term": "Rebbi Meir",
+      "timestamps": [
+        "43:30",
+        "43:46"
+      ]
+    },
+    {
+      "term": "Rebbi Yehuda",
+      "timestamps": [
+        "43:36",
+        "43:38"
+      ]
+    },
+    {
+      "term": "Rav Yirmiah",
+      "timestamps": [
+        "42:52"
+      ]
+    },
+    {
+      "term": "Rabbi Yossi",
+      "timestamps": [
+        "45:25",
+        "45:26"
+      ]
+    },
+    {
+      "term": "malak (neck-breaking of bird)",
+      "timestamps": [
+        "42:54",
+        "42:57"
+      ]
+    },
+    {
+      "term": "tereifah (mortally wounded animal)",
+      "timestamps": [
+        "42:54",
+        "42:59",
+        "42:59",
+        "43:21",
+        "43:29"
+      ]
+    },
+    {
+      "term": "shechitatah (slaughtering of animal/bird)",
+      "timestamps": [
+        "43:00",
+        "44:02",
+        "44:16",
+        "44:29"
+      ]
+    },
+    {
+      "term": "nevela (carcass without proper slaughter)",
+      "timestamps": [
+        "43:05",
+        "43:08",
+        "43:24"
+      ]
+    },
+    {
+      "term": "tumah (impurity)",
+      "timestamps": [
+        "43:00",
+        "43:03",
+        "43:08",
+        "43:11",
+        "43:24",
+        "44:16",
+        "45:08"
+      ]
+    },
+    {
+      "term": "behemah (domestic animal)",
+      "timestamps": [
+        "43:53",
+        "43:57",
+        "44:02"
+      ]
+    },
+    {
+      "term": "of (bird)",
+      "timestamps": [
+        "44:07",
+        "44:14"
+      ]
+    },
+    {
+      "term": "bet ha-bli'ah (swallowing space/esophagus)",
+      "timestamps": [
+        "43:33",
+        "43:38"
+      ]
+    },
+    {
+      "term": "teiku (unresolved dispute)",
+      "timestamps": [
+        "31:06",
+        "34:04"
+      ]
+    }
+  ]
+}

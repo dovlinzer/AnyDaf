@@ -81,9 +81,7 @@ class ShiurClient: ObservableObject {
     /// Lecture text with Sefaria sources inserted (pass 3), or nil if not available.
     @Published var shiurFinal: String? = nil
 
-    private let supabaseURL = "https://zewdazoijdpakugfvnzt.supabase.co"
-    // Anon key — read-only, safe to embed
-    private let anonKey = Secrets.supabaseAnonKey
+    private let edgeFunctionURL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/get-shiur"
 
     private var loadedKey: String? = nil   // "Tractate-daf_float" — avoids redundant fetches
 
@@ -95,15 +93,12 @@ class ShiurClient: ObservableObject {
         shiurRewrite = nil
         shiurFinal = nil
 
-        let urlString = "\(supabaseURL)/rest/v1/shiur_content"
-            + "?tractate=eq.\(tractate.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? tractate)"
-            + "&daf=eq.\(daf)"
-            + "&select=segmentation,rewrite,final"
+        let encodedTractate = tractate.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? tractate
+        let urlString = "\(edgeFunctionURL)?tractate=\(encodedTractate)&daf=\(daf)"
         guard let url = URL(string: urlString) else { return }
 
         var request = URLRequest(url: url)
-        request.setValue(anonKey, forHTTPHeaderField: "apikey")
-        request.setValue("Bearer \(anonKey)", forHTTPHeaderField: "Authorization")
+        request.setValue(Secrets.appSecret, forHTTPHeaderField: "x-app-secret")
 
         do {
             let (data, _) = try await URLSession.shared.data(for: request)

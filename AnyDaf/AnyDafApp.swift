@@ -1,8 +1,12 @@
 import SwiftUI
 import AVFoundation
 
-private let kEngagementNudgeThreshold: Double = 3 * 3600   // 3 hours of cumulative use
-private let kNudgeMinIntervalSeconds: Double = 60 * 86400  // 60 days between nudges
+// Regular user thresholds
+private let kRegularEngagementHours: Double = 20          // 20 hours since last nudge
+private let kRegularIntervalDays: Double = 30             // 30 days since last nudge
+// "Donor" thresholds (user clicked Donate — we can't confirm payment completed)
+private let kDonorEngagementHours: Double = 60
+private let kDonorIntervalDays: Double = 90
 
 @main
 struct AnyDafApp: App {
@@ -13,6 +17,8 @@ struct AnyDafApp: App {
     @Environment(\.scenePhase) private var scenePhase
     @AppStorage("totalEngagementSeconds") private var totalEngagementSeconds: Double = 0
     @AppStorage("lastDonationNudgeTimestamp") private var lastDonationNudgeTimestamp: Double = 0
+    @AppStorage("engagementSecondsAtLastNudge") private var engagementSecondsAtLastNudge: Double = 0
+    @AppStorage("didClickDonate") private var didClickDonate: Bool = false
 
     init() {
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
@@ -56,6 +62,7 @@ struct AnyDafApp: App {
                     if let url = URL(string: "https://wl.donorperfect.net/weblink/weblink.aspx?name=yctorah&id=2") {
                         UIApplication.shared.open(url)
                     }
+                    didClickDonate = true
                     recordNudgeShown()
                     showDonationNudge = false
                 } onDismiss: {
@@ -92,12 +99,18 @@ struct AnyDafApp: App {
     }
 
     private func shouldShowNudge() -> Bool {
-        guard totalEngagementSeconds >= kEngagementNudgeThreshold else { return false }
-        let elapsed = Date().timeIntervalSince1970 - lastDonationNudgeTimestamp
-        return elapsed >= kNudgeMinIntervalSeconds
+        let hoursThreshold = didClickDonate ? kDonorEngagementHours : kRegularEngagementHours
+        let daysThreshold  = didClickDonate ? kDonorIntervalDays    : kRegularIntervalDays
+        let hoursSinceLastNudge = (totalEngagementSeconds - engagementSecondsAtLastNudge) / 3600
+        guard lastDonationNudgeTimestamp > 0 else {
+            return hoursSinceLastNudge >= hoursThreshold
+        }
+        let daysSinceLastNudge = (Date().timeIntervalSince1970 - lastDonationNudgeTimestamp) / 86400
+        return hoursSinceLastNudge >= hoursThreshold || daysSinceLastNudge >= daysThreshold
     }
 
     private func recordNudgeShown() {
         lastDonationNudgeTimestamp = Date().timeIntervalSince1970
+        engagementSecondsAtLastNudge = totalEngagementSeconds
     }
 }

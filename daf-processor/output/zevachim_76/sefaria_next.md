@@ -1,0 +1,57 @@
+### Zevachim 77a
+
+**1.**
+*Hebrew/Aramaic:* לְשֵׁם עֵצִים.
+*Translation:* **for the sake of wood,** not as an offering. Here as well, the priest stipulates that if the man is not a confirmed leper, the sprinkling of the oil should not be viewed as a rite.
+
+**2.**
+*Hebrew/Aramaic:* וְהָא אִיכָּא שִׁירַיִים דְּבָעֵי (מילינהו) [מֵיכְלִינְהוּ], וְאִיכָּא הָךְ פּוּרְתָּא דְּלָא קָמֵיץ עִילָּוֵיהּ! דְּפָרֵיק לֵיהּ.
+*Translation:* The Gemara questions further: **But** even if the priest removes a handful from the oil and burns it, and also sprinkles from the oil, **there is** the matter of the **remainder** of the oil, **which must be filled** after the removal of the handful so that the priest can perform the sprinkling with a full *log*, **and there is** therefore **that bit** of oil that was added **from which** the priest **did not remove** the **handful** initially. If the one bringing the offering is not a leper, and the *log* of oil is a gift, it will turn out that there is a small portion of the oil that was not permitted by the removal of the handful. The Gemara explains **that** the priest **redeems it,** i.e., after the sprinklings of the oil have been performed, he stipulates that if the person who brought the offering is not a leper then the oil should be desacralized by his giving its value to the Temple treasury.
+
+**3.**
+*Hebrew/Aramaic:* דְּפָרֵיק לֵיהּ הֵיכָא? אִי גַּוַּואי – קָא מְעַיֵּיל חוּלִּין לָעֲזָרָה, אִי אַבָּרַאי – אִיפְּסִיל לֵיהּ בְּיוֹצֵא! לְעוֹלָם גַּוַּואי; חוּלִּין מִמֵּילָא הָוְיָין.
+*Translation:* The Gemara asks: If you say **that he redeems it, where** does he redeem it? **If** he redeems it when the oil is **within** the walls of the Temple, he would thereby be **bringing non-sacred** oil **into the courtyard. If** he redeems the oil **outside** the courtyard, before he can redeem the oil **it would become disqualified due to** the prohibition of a consecrated item **leaving** the courtyard. The Gemara answers: **Actually,** he redeems the oil when it is **within** the walls of the Temple. This is permitted because the **non-sacred** oil **is** then found in the Temple courtyard **by itself,** i.e., he did not bring a non-sacred item into the Temple courtyard.
+
+**4.**
+*Hebrew/Aramaic:* וְהָא אָמַר רַבִּי שִׁמְעוֹן: אֵין מִתְנַדְּבִין שֶׁמֶן! תַּקּוֹנֵי גַּבְרָא שָׁאנֵי.
+*Translation:* The Gemara asks a question with regard to the suggested resolution, according to the opinion of Rabbi Shimon, that one whose status as a leper is uncertain should bring a *log* of oil as a gift offering and state a stipulation. **But doesn’t Rabbi Shimon say** that **one may not donate oil** as a gift? The Gemara answers, as on 76b: **The remedy of a person is different,** i.e., Rabbi Shimon concedes that one may donate oil in this instance, as this is the only manner by which this person can undergo ritual purification.
+
+**5.**
+*Hebrew/Aramaic:* יָתֵיב רַב רְחוּמִי קַמֵּיהּ רָבִינָא, וְיָתֵיב וְקָאָמַר מִשְּׁמֵיהּ דְּרַב הוּנָא בַּר תַּחְלִיפָא: וְנֵימָא, אָשָׁם זֶה יְהֵא אָשָׁם תָּלוּי!
+*Translation:* The Gemara continues to discuss the opinion of Rabbi Shimon. It was stated above that according to Rabbi Shimon, one whose status as a leper is uncertain may bring a lamb as a gift for a peace offering and state a stipulation with regard to it. The Gemara relates that **Rav Reḥumi was sitting before Ravina, and he was sitting and saying** the following **in the name of Rav Huna bar Taḥlifa: But** why can’t he bring a lamb for a guilt offering and **say** that if he is not a leper then **this guilt offering shall be a provisional guilt offering,** brought by one who is uncertain whether he committed a sin that requires a sin offering? This guilt offering is eaten for one day and night, like the guilt offering of a leper, and therefore he would not be reducing the time for its consumption, unlike when he stipulates that it should be a peace offering.
+
+**6.**
+*Hebrew/Aramaic:* שְׁמַע מִינַּהּ: מַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַבִּי אֱלִיעֶזֶר – רַבִּי שִׁמְעוֹן הוּא, דְּאָמַר: אֵין מִתְנַדְּבִין אָשָׁם תָּלוּי? אֲמַר לֵיהּ: תּוֹרָה תּוֹרָה! אִימְּרֵי בְּדִיכְרֵי מִיחַלְּפִי לָךְ!
+*Translation:* Rav Reḥumi continued: Since this option was not suggested, one can **learn from** here that **who is the *tanna* who disagrees with** the opinion **of Rabbi Eliezer,** who holds that one may donate a provisional guilt offering (*Keritut* 25a)? **It is Rabbi Shimon, who says,** by inference from his suggestion here, that **one may not donate a provisional guilt offering.** Ravina **said to** Rav Reḥumi: **Torah, Torah!** That is, where is the Torah of such a great man as yourself? **You are confusing lambs with rams.** The guilt offering of a leper is a lamb in its first year (see Leviticus 14:10), which cannot be brought as a provisional guilt offering because these must be rams (see Leviticus 5:15), i.e., they must be in their second year.
+
+**7.**
+*Hebrew/Aramaic:* מַתְנִי׳ אֵיבְרֵי חַטָּאת שֶׁנִּתְעָרְבוּ בְּאֵיבְרֵי עוֹלָה – רַבִּי אֱלִיעֶזֶר אוֹמֵר: יִתֵּן לְמַעְלָה, וְרוֹאֶה אֲנִי אֶת בְּשַׂר הַחַטָּאת מִלְּמַעְלָה כְּאִילּוּ הֵן עֵצִים. וַחֲכָמִים אוֹמְרִים: תְּעוּבַּר צוּרָתָן וְיֵצְאוּ לְבֵית הַשְּׂרֵיפָה.
+*Translation:* MISHNA: In the case of **the limbs of a sin offering,** which are eaten by priests and may not be burned on the altar, **that were intermingled with the limbs of a burnt offering,** which are burned on the altar, **Rabbi Eliezer says:** The priest **shall place** all the limbs **above,** on the altar, **and I view the flesh** of the limbs **of the sin offering above** on the altar **as though they are** pieces of **wood** burned on the altar, and not as though they are an offering. **And the Rabbis say:** One should wait until **the form of** all the intermingled limbs **decays and they will** all **go out to the place of burning** in the Temple courtyard, where all disqualified offerings of the most sacred order are burned.
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? אָמַר קְרָא: ״וְאֶל הַמִּזְבֵּחַ לֹא יַעֲלוּ לְרֵיחַ נִיחֹחַ״ – לְרֵיחַ נִיחוֹחַ אִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֶה לְשֵׁם עֵצִים.
+*Translation:* GEMARA: **What is the reason of Rabbi Eliezer** for deeming it permitted to burn the limbs of the sin offering on the altar as wood? The Gemara explains: **The verse states:** “No meal offering that you shall bring to the Lord shall be made with leaven; for you shall make no leaven, nor any honey, smoke as an offering made by fire to the Lord. As an offering of first fruits you may bring them to the Lord; **but they shall not come up for a pleasing aroma on the altar”** (Leviticus 2:11–12). This indicates that **you may not offer up** leaven and honey **as a pleasing aroma,** i.e., as an offering. **But you may offer up** leaven and honey and other substances that are prohibited to be sacrificed upon the altar, such as the limbs of a sin offering, **for the sake of wood.**
+
+**9.**
+*Hebrew/Aramaic:* וְרַבָּנַן – מִיעֵט רַחֲמָנָא ״אֹתָם״; אוֹתָם הוּא דְּאִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֶה לְשֵׁם עֵצִים. אֲבָל מִידֵּי אַחֲרִינָא – לָא.
+*Translation:* The Gemara asks: **And the Rabbis,** who disagree with Rabbi Eliezer, how do they respond to this reasoning? They claim that **the Merciful One excludes** other cases at the beginning of the verse: “As an offering of first fruits you may bring **them.”** This indicates that **it is** with regard to **them,** i.e., leaven and honey alone, **that** it is stated: **You may not offer up** as an offering, **but you may offer up** leaven and honey **for the sake of wood. But** with regard to any **other substances** that are prohibited to be brought on the altar, one may **not** offer them up to the altar at all.
+
+**10.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר – אוֹתָם הוּא דְּרַבַּאי לָךְ כֶּבֶשׁ כְּמִזְבֵּחַ, אֲבָל מִידֵּי אַחֲרִינֵי – לָא.
+*Translation:* The Gemara asks: **And Rabbi Eliezer,** what does he derive from this term of exclusion “them”? The Gemara explains: Rabbi Eliezer expounds this word as follows: It is only with regard to **them,** leaven and honey, **that** the verse **includes** a prohibition against bringing them up to the **ramp** of the altar **like** offering them up on **the altar** itself. **But** with regard to any **other substances** that are prohibited to be sacrificed upon the altar, bringing them up to the ramp is **not** considered like offering them up on the altar itself.
+
+**11.**
+*Hebrew/Aramaic:* וְרַבָּנַן – תַּרְתֵּי שְׁמַע מִינַּהּ.
+*Translation:* The Gemara further asks: **And the Rabbis,** from where do they derive this *halakha*? The Gemara answers that the Rabbis **learn two** *halakhot* **from** the word “them.” This term of emphasis teaches that all that is stated in this verse is referring only to leaven and honey, both the *halakha* that it is permitted to offer them up on the altar as wood, and the ruling that the ramp is considered like the altar with regard to this *halakha*.
+
+**12.**
+*Hebrew/Aramaic:* מַתְנִיתִין דְּלָא כִּי הַאי תַּנָּא – דְּתַנְיָא, אָמַר רַבִּי יְהוּדָה: לֹא נֶחְלְקוּ רַבִּי אֱלִיעֶזֶר וַחֲכָמִים עַל אֵיבְרֵי חַטָּאת שֶׁנִּתְעָרְבוּ בְּאֵיבְרֵי עוֹלָה – שֶׁיִּקְרְבוּ; בְּרוֹבֵעַ וְנִרְבָּע – שֶׁלֹּא יִקְרְבוּ.
+*Translation:* § The Gemara comments: **The mishna is not in accordance with** the opinion of **this** following ***tanna*, as it is taught** in a *baraita* (*Tosefta* 8:15) that **Rabbi Yehuda said: Rabbi Eliezer and the Rabbis did not disagree with regard to the limbs of a sin offering that were intermingled with the limbs of a burnt offering,** as all agree **that they shall be sacrificed.** Likewise, they agree that if limbs that are fit to be burned on the altar became intermingled **with** the limbs of **an animal that** actively **copulated with a person, or** with the limbs of **an animal that was the object of bestiality,** which are prohibited to be sacrificed upon the altar, **that they shall not be sacrificed,** even according to the opinion of Rabbi Eliezer.
+
+**13.**
+*Hebrew/Aramaic:* עַל מָה נֶחְלְקוּ? עַל אֵיבְרֵי עוֹלָה תְּמִימָה שֶׁנִּתְעָרְבוּ בְּאֵיבְרֵי בַּעֲלַת מוּם, שֶׁרַבִּי אֱלִיעֶזֶר אוֹמֵר: יִקְרְבוּ, וְרוֹאֶה אֲנִי לְמַעְלָה כְּאִילּוּ הֵן עֵצִים; וַחֲכָמִים אוֹמְרִים: לֹא יִקְרְבוּ.
+*Translation:* Rabbi Yehuda continues: **With regard to which** case **did** Rabbi Eliezer and the Rabbis **disagree?** They disagreed **with regard to the limbs of an unblemished burnt offering that were intermingled with the limbs of a blemished** animal, which is disqualified from the altar. **As** in this case **Rabbi Eliezer says:** All the limbs **shall be sacrificed, and I consider** the flesh of the limbs of the sin offering **above,** on the altar, **as though they are** pieces of **wood** burned on the altar. **And the Rabbis say: They shall not be sacrificed.**
+
+**14.**
+*Hebrew/Aramaic:* וְרַבִּי אֱלִיעֶזֶר, מַאי שְׁנָא רוֹבֵעַ וְנִרְבָּע – דְּלָא חֲזוּ? בַּעֲלַת מוּם נָמֵי לָא חֲזֵי!
+*Translation:* The Gemara asks: **And** concerning the opinion of **Rabbi Eliezer, what is different** about the limbs of **an animal that** actively **copulated with a person, or** the limbs of **an animal that was the object of bestiality,** that they may not be sacrificed? If one says that the reason is **that they are not fit** for the altar, that cannot be the reason, as **a blemished** animal **is not fit** for the altar **as well,** and there he holds that the limbs are burned.

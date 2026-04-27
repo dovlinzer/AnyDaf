@@ -31,7 +31,7 @@ jobs:
           CLIENT_ID=$(python3 daf-processor/refresh_client_id.py --validate --fallback "$FALLBACK_CLIENT_ID")
           echo "client_id=$CLIENT_ID" >> $GITHUB_OUTPUT
 
-      - name: Sync episodes to Supabase
+      - name: Sync SoundCloud episodes to Supabase
         env:
           SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
@@ -42,3 +42,11 @@ jobs:
         #   1 = hard failure (Supabase write error)
         #   2 = partial success: RSS synced but SoundCloud client ID is invalid
         #       → GitHub will mark this run as FAILED and email you automatically
+
+      - name: Sync Transistor episodes to Supabase
+        env:
+          SUPABASE_URL:         ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python3 daf-processor/sync_transistor_rss.py
+        # Runs after SoundCloud sync so Transistor URLs overwrite SoundCloud URLs
+        # for any episode that has been ported to Transistor.

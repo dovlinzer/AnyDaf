@@ -87,7 +87,7 @@ TRACTATE_PLAYLIST_IDS: dict[str, int] = {
     "Temurah":       1225194493,
     "Meilah":        1224865387,
     "Keritot":       1224780505,
-    "Megilah":       1224639490,
+    "Megillah":      1224639490,
     "Shekalim":      1224387193,
     "Kinnim":        1954771503,
     "Tamid":         1954771299,
@@ -114,6 +114,8 @@ _ALIASES: dict[str, str] = {
     "moedkatan":  "Moed Katan",
     "roshhashanah": "Rosh Hashanah",
     "rosh hashana": "Rosh Hashanah",
+    "megilah":    "Megillah",      # one-l variant in SoundCloud/Transistor titles
+    "megila":     "Megillah",
 }
 # Merge aliases into lookup (aliases do not override canonical spellings)
 for _alias, _canonical in _ALIASES.items():
@@ -176,7 +178,7 @@ def parse_title(title: str) -> tuple[Optional[str], Optional[float], bool]:
             if not m:
                 continue
             base = int(m.group(1))
-            if base <= 0:
+            if base <= 0 or base > 200:
                 continue
             suffix = m.group(2).lower()
             is_half = suffix.startswith("b")

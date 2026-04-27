@@ -1,0 +1,73 @@
+### Zevachim 46b
+
+**1.**
+*Hebrew/Aramaic:* אַחַת לִכְלָל, וְאַחַת לִפְרָט, וְאַחַת לִדְבָרִים שֶׁאֵינָן נֶאֱכָלִין.
+*Translation:* **One** mention of *karet* in the verse: “That approaches the sacred items,” is **for a generalization, and one** mention in the verse: “Of the flesh of the sacrifice of peace offerings,” is **for a detail.** This detail serves to include all items consecrated to the altar, in accordance with the hermeneutical principle that any matter that was included in a generalization but was explicitly specified to teach a certain *halakha* was intended to teach not just about itself but about the entire generalization. **And one** mention of *karet* in the verse: “And when anyone shall touch any impure item,” serves **to** include **items whose** typical manner is such that they are **not to be eaten,** e.g., wood and frankincense, and teaches that one who eats even these items is liable to receive *karet*.
+
+**2.**
+*Hebrew/Aramaic:* וּלְרַבִּי שִׁמְעוֹן דְּאָמַר: דְּבָרִים שֶׁאֵין נֶאֱכָלִין – אֵין חַיָּיבִין עֲלֵיהֶם מִשּׁוּם טוּמְאָה, לְאֵיתוֹיֵי מַאי? לְאֵיתוֹיֵי חַטָּאוֹת הַפְּנִימִיּוֹת.
+*Translation:* The Gemara asks: **And according to** the opinion of **Rabbi Shimon, who says** in the mishna with regard to **items whose** typical manner is such that they are **not to be eaten,** that one **is not liable for** eating **them due to** violation of the prohibition against eating consecrated items in a state of **ritual impurity, what** does this last mention of *karet* serve **to include?** The Gemara answers that it serves **to include the sin offerings** whose blood is presented **inside** the Sanctuary.
+
+**3.**
+*Hebrew/Aramaic:* סָלְקָא דַּעְתָּךְ אָמֵינָא, הוֹאִיל וְאָמַר רַבִּי שִׁמְעוֹן: כֹּל שֶׁאֵינוֹ עַל מִזְבֵּחַ הַחִיצוֹן כִּשְׁלָמִים – אֵין חַיָּיבִין עָלָיו מִשּׁוּם פִּיגּוּל, מִשּׁוּם טוּמְאָה נָמֵי לָא לִיחַיַּיב; קָא מַשְׁמַע לַן.
+*Translation:* The Gemara explains why this inclusion is necessary. It might **enter your mind to say: Since Rabbi Shimon says** that concerning **any** offering **whose** blood **is not** presented **on the external altar like** that of **a peace offering, one is not liable for** eating **it due to** violation of the prohibition of ***piggul*,** one should likewise **not be liable** for eating it **due to** violation of the prohibition of **ritual impurity.** Therefore, the additional mention of *karet* **teaches us** that one who is impure is in fact liable for eating these sin offerings brought inside the Sanctuary.
+
+**4.**
+*Hebrew/Aramaic:* נוּמִי רַבִּי שִׁמְעוֹן מְחַיֵּיב אֶת שֶׁדַּרְכּוֹ לֶאֱכוֹל כּוּ׳. אִיתְּמַר: רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ, רַבִּי אֶלְעָזָר וְרַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא – חַד מֵהַאי זוּזָא וְחַד מֵהַאי זוּזָא;
+*Translation:* § The mishna teaches that **Rabbi Shimon stated** a ruling in which he **deems** one **liable** for eating in a state of ritual impurity an item **whose** typical **manner** is such that one **eats** it, but not for eating the wood, the frankincense, or the incense, whose typical manner is such that one does not eat it. The Rabbis disagree and deem him liable in all these cases. It **was stated** that two pairs of *amora’im* disagreed with regard to this issue; one pair is **Rabbi Yoḥanan and Reish Lakish,** and the other pair is **Rabbi Elazar and Rabbi Yosei, son of Rabbi Ḥanina.** The two different opinions that follow were respectively stated by **one of this pair and one of that pair.**
+
+**5.**
+*Hebrew/Aramaic:* חַד אָמַר: מַחְלוֹקֶת בְּטוּמְאַת בָּשָׂר, אֲבָל בְּטוּמְאַת הַגּוּף – דִּבְרֵי הַכֹּל אֵינוֹ לוֹקֶה.
+*Translation:* **One says:** The **dispute** between the Rabbis and Rabbi Shimon is **with regard to the impurity of meat,** i.e., the item that is eaten is impure. The Rabbis maintain that one who eats impure wood or frankincense is flogged, as derived from the two mentions of flesh in the verse: “And the meat that touches any impure item shall not be eaten; it shall be burned with fire. And as for the meat, everyone who is pure may eat of it” (Leviticus 7:19). **But** if one ate wood or frankincense **in** a state of **impurity of the body, everyone agrees** that **he is not flogged.**
+
+**6.**
+*Hebrew/Aramaic:* וְחַד אָמַר: כְּמַחְלוֹקֶת בָּזוֹ כָּךְ מַחְלוֹקֶת בָּזוֹ. מַאי טַעְמָא? כֵּיוָן דְּקָרֵינָא בֵּיהּ ״וְהַבָּשָׂר אֲשֶׁר יִגַּע בְּכׇל טָמֵא״, קָרֵינַן בֵּיהּ ״וְטֻמְאָתוֹ עָלָיו״.
+*Translation:* **And one says: As** there is **a dispute with regard to this** case, when the item eaten is impure, **so** is there **a dispute with regard to that** case, when the one eating the wood or frankincense is impure. **What is the reason** for this opinion? **Since one reads with regard to** these inedible items: **“And the flesh that touches any impure item”** (Leviticus 7:19), as this phrase serves to include even items such as wood and frankincense in the prohibition against eating them when they are impure, **one** likewise **reads with regard to** them the next verse: “But the person that eats of the flesh of the sacrifice of peace offerings…**having his impurity upon him,** that soul shall be cut off from his people” (Leviticus 7:20), which discusses one in a state of impurity who eats consecrated items.
+
+**7.**
+*Hebrew/Aramaic:* רַב טָבְיוֹמֵי מַתְנֵי הָכִי; רַב כָּהֲנָא מַתְנֵי הָכִי: חַד מֵהַאי זוּזָא וְחַד מֵהַאי זוּזָא אַסֵּיפָא – חַד אָמַר: מַחְלוֹקֶת בְּטוּמְאַת הַגּוּף, אֲבָל בְּטוּמְאַת בָּשָׂר דִּבְרֵי הַכֹּל לוֹקֶה; וְחַד אָמַר: כְּמַחְלוֹקֶת בָּזוֹ כָּךְ מַחְלוֹקֶת בָּזוֹ.
+*Translation:* The Gemara notes: **Rav Tavyumei teaches** the discussion in **this** preceding manner, whereas **Rav Kahana teaches** it in **this** alternative manner: **One of this pair** of *amora’im* **and one of that pair** disagreed **with regard to the latter clause** in the mishna, i.e., the meaning of Rabbi Shimon’s statement. **One says** that Rabbi Shimon’s **dispute** with the Rabbis is **with regard to the impurity of the body,** as he maintains that an impure individual who eats wood or frankincense is exempt. **But with regard to the impurity of flesh,** i.e., these items themselves, **everyone agrees** that one is **flogged. And one says: As** there is **a dispute with regard to this** case, **so** is there **a dispute with regard to that** case, i.e., Rabbi Shimon holds that one is exempt in both cases.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רָבָא: מִסְתַּבְּרָא כְּמַאן דְּאָמַר כְּמַחְלוֹקֶת בָּזוֹ כָּךְ מַחְלוֹקֶת בָּזוֹ. מַאי טַעְמָא? כֵּיוָן דְּלָא קָרֵינָא בֵּיהּ ״וְטֻמְאָתוֹ עָלָיו וְנִכְרְתָה״, לָא קָרֵינָא בֵּיהּ ״וְהַבָּשָׂר אֲשֶׁר יִגַּע בְּכׇל טָמֵא לֹא יֵאָכֵל״.
+*Translation:* **Rava said:** It **stands to reason** that the correct interpretation is **like the one who says: As** there is **a dispute with regard to this** case, **so** is there **a dispute with regard to that** case. **What is the reason? Since one does not read with regard to** these inedible items: **“Having his impurity upon him, that soul shall be cut off,”** as according to both alternative explanations Rabbi Shimon deems exempt one who eats these items when he is in a state of impurity, similarly **one does not read with regard to** them the previous verse: **“And the flesh that touches any impure item shall not be eaten.”**
+
+**9.**
+*Hebrew/Aramaic:* וְהָאָמַר מָר: ״וְהַבָּשָׂר״ – לְרַבּוֹת עֵצִים וּלְבוֹנָה! (לְפוֹסְלָהּ) [לִפְסוּלָא] בְּעָלְמָא.
+*Translation:* The Gemara raises a difficulty: **But doesn’t the Master say** that the term: **“And as for the flesh,”** in the same verse, serves **to include wood and frankincense?** This indicates that even these items can become ritually impure, and the prohibition against eating consecrated items that are impure applies to them. The Gemara answers: This is referring **merely to disqualification,** i.e., this inclusion applies by rabbinic law, and the verse is cited in mere support.
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ לְשֵׁם שִׁשָּׁה דְּבָרִים הַזֶּבַח נִזְבָּח: לְשֵׁם זֶבַח, לְשֵׁם זוֹבֵחַ, לְשֵׁם הַשֵּׁם, לְשֵׁם אִשִּׁים, לְשֵׁם רֵיחַ, לְשֵׁם נִיחוֹחַ. וְהַחַטָּאת וְהָאָשָׁם – לְשֵׁם חֵטְא.
+*Translation:* MISHNA: **The slaughtered offering is slaughtered for the sake of six matters,** and one must have all of these matters in mind: **For the sake of** the particular type of **offering** being sacrificed; **for the sake of the one who sacrifices** the offering; **for the sake of God; for the sake of** consumption by the **fires** of the altar; **for the sake of** the **aroma; for the sake of** the **pleasing** of God, i.e., in fulfillment of God’s will; **and,** in the cases of **a sin offering and a guilt offering, for the sake of** atonement for the **sin.**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹסֵי: אַף מִי שֶׁלֹּא הָיָה בְּלִבּוֹ לְשֵׁם אֶחָד מִכׇּל אֵלּוּ – כָּשֵׁר; שֶׁהוּא תְּנַאי בֵּית דִּין, שֶׁאֵין הַמַּחְשָׁבָה הוֹלֶכֶת אֶלָּא אַחַר הָעוֹבֵד.
+*Translation:* **Rabbi Yosei says: Even** in the case of **one who did not have in mind** to slaughter the offering **for the sake of any one of these,** the offering is **valid, as it is a stipulation of the court** that he should not state any intent *ab initio*. This is necessary **because the intent follows only the one performing the** sacrificial **rite,** and therefore if the one who slaughters the animal is not careful and states the wrong intent, the offering would be disqualified through his improper intent.
+
+**12.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: ״עוֹלָה״ – לְשֵׁם עוֹלָה, לְאַפּוֹקֵי לְשֵׁם שְׁלָמִים דְּלָא. ״אִשִּׁים״ – לְשֵׁם אִשִּׁים, לְאַפּוֹקֵי כְּבָבָא דְּלָא.
+*Translation:* GEMARA: **Rav Yehuda says** that **Rav says** with regard to the verse: “A burnt offering, an offering made by fire, of a pleasing aroma to the Lord” (Leviticus 1:9), the term **“a burnt offering”** means that one must intend that it be **for the sake of a burnt offering, to the exclusion of** one who sacrifices a burnt offering **for the sake of a peace offering, which** one may **not** do. The mention of **fires,** i.e., the term “an offering made by fire,” teaches that the offering must be sacrificed **for the sake of** complete consumption by the **fires** of the altar, **to the exclusion of** one who intends that its portions should only be **roasted** on the fire, **as** one may **not** do so.
+
+**13.**
+*Hebrew/Aramaic:* ״רֵיחַ״ – לְשֵׁם רֵיחַ, לְאַפּוֹקֵי אֵבָרִים שֶׁצְּלָאָן וְהֶעֱלָן – דְּלָא. דְּאָמַר רַב יְהוּדָה אָמַר רַב: אֵבָרִים שֶׁצְּלָאָן וְהֶעֱלָן – אֵין בָּהֶן מִשּׁוּם רֵיחַ.
+*Translation:* Rav continues to expound the verse. The term **“aroma”** indicates that the offering must be sacrificed **for the sake of** the **aroma, to the exclusion of limbs that one** first **roasted and** afterward **took them up** to the altar, **which** he may **not** do. **As Rav Yehuda says** that **Rav says:** With regard to **limbs that one** first **roasted and** afterward **took them up** to the altar, **they do not constitute** fulfillment of the requirement that the offering must be sacrificed for the sake of the **aroma.**
+
+**14.**
+*Hebrew/Aramaic:* ״נִיחוֹחַ״ – לְשֵׁם הֲנָחַת רוּחַ. ״לַה׳״ – לְשֵׁם מִי שֶׁאָמַר וְהָיָה הָעוֹלָם.
+*Translation:* The term **“pleasing”** means **for the sake of pleasing** God’s **spirit,** i.e., that the offering should be accepted by God. Finally, the expression **“to the Lord”** indicates that it should be **for the sake of the One Who spoke and the world came into being.**
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַב: חַטָּאת שֶׁשְּׁחָטָהּ לְשֵׁם עוֹלָה – פְּסוּלָה. לְשֵׁם חוּלִּין – כְּשֵׁרָה. אָמַר רַבִּי אֶלְעָזָר: מַאי טַעְמָא דְּרַב? ״וְלֹא יְחַלְּלוּ אֶת קׇדְשֵׁי בְּנֵי יִשְׂרָאֵל״ – קֳדָשִׁים מְחַלְּלִין קֳדָשִׁים, וְאֵין חוּלִּין מְחַלְּלִין קֳדָשִׁים.
+*Translation:* **Rav Yehuda says** that **Rav says:** With regard to **a sin offering that one slaughtered** with intent that the slaughter be **for the sake of a burnt offering,** it is **disqualified.** As explained (2a), a sin offering that was slaughtered for the sake of another offering is entirely disqualified. But if he intended the slaughter to be **for the sake of a non-sacred** animal, it is **valid. Rabbi Elazar says: What is the reason of Rav?** The verse states: **“And they shall not profane the sacred items of the children of Israel”** (Leviticus 22:15). This teaches that **consecrated items,** i.e., the intent to slaughter an offering for the sake of another type of offering, **profane consecrated items, but** the intent to slaughter an offering for the sake of **a non-sacred** animal **does not profane consecrated items.**
+
+**16.**
+*Hebrew/Aramaic:* מֵתִיב רַבָּה, אָמַר רַבִּי יוֹסֵי: אַף מִי שֶׁלֹּא הָיָה בְּלִבּוֹ לְשֵׁם אֶחָד מִכׇּל אֵלּוּ – כָּשֵׁר, שֶׁהוּא תְּנַאי בֵּית דִּין. טַעְמָא שֶׁלֹּא הָיָה בְּלִבּוֹ כְּלָל, הָא הָיָה בְּלִבּוֹ לְשֵׁם חוּלִּין – פָּסוּל!
+*Translation:* **Rabba raises an objection** from the mishna: **Rabbi Yosei says: Even** in the case of **one who did not have in mind** to slaughter the offering **for the sake of any one of these,** the offering is **fit, as it is a stipulation of the court** that one not state any intent *ab initio*. Rabba infers from this that **the reason** the offering is valid and it effects acceptance is that **he did not have in mind** any intent **at all. But** if he **had in mind** to slaughter the offering **for the sake of a non-sacred** animal, it is **disqualified.**
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: דִּלְמָא לֹא הָיָה כְּלָל – כָּשֵׁר וּמְרַצֶּה, הָא הָיָה בְּלִבּוֹ לְשֵׁם חוּלִּין – כָּשֵׁר וְאֵינוֹ מְרַצֶּה.
+*Translation:* **Abaye said to** Rabba: **Perhaps** Rabbi Yosei means the following: If he **did not have** in mind any intent **at all,** the offering is **valid and** it **effects acceptance, but** if he **had in mind** to slaughter the offering **for the sake of a non-sacred** animal, the offering is **valid, but it does not effect acceptance,** as it is a flawed offering. Rav’s statement can be understood in a similar fashion.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: חַטָּאת שֶׁשְּׁחָטָהּ לְשֵׁם חוּלִּין – כְּשֵׁרָה. מִשּׁוּם חוּלִּין – פְּסוּלָה. כְּדִבְעָא מִינֵּיהּ שְׁמוּאֵל מֵרַב הוּנָא:
+*Translation:* **Rabbi Elazar says:** Indeed, **a sin offering that one** intentionally **slaughtered for the sake of a non-sacred** animal is **valid,** as stated by Rav. But if he slaughtered it **as a non-sacred** animal, actually thinking that it was non-sacred, it is **disqualified,** as when he slaughtered it, he did not intend to perform a sacrificial rite. This is **like the dilemma that Shmuel raised before Rav Huna:**

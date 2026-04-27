@@ -1,0 +1,49 @@
+### Shabbat 27a
+
+**1.**
+*Hebrew/Aramaic:* מְנָא לֵיהּ? נָפְקָא מֵ״אוֹ בֶגֶד״. דְּתַנְיָא: ״בֶּגֶד״ — אֵין לִי אֶלָּא בֶּגֶד, שְׁלֹשָׁה עַל שְׁלֹשָׁה בִּשְׁאָר בְּגָדִים מִנַּיִין? תַּלְמוּד לוֹמַר: ״אוֹ בֶגֶד״.
+*Translation:* **from where does Rabbi Shimon ben Elazar** derive that it can become ritually impure? The Gemara answers: In his opinion, it **is derived from** the verse that speaks of the ritual impurity of creeping animals: **“Or a garment,** or skin, or sack” (Leviticus 11:32). The additional “or” comes to include items that are not generally included in the definition of garment. **As it was taught** in a *baraita*: From the fact that it says **garment, I have** derived **nothing other** than **a** whole **garment;** however, a swatch that is **three by three** handbreadths **in other garments, from where** is it derived that it can become ritually impure? **The verse states: Or a garment.**
+
+**2.**
+*Hebrew/Aramaic:* וְאַבָּיֵי, הַאי ״אוֹ בֶגֶד״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְרַבּוֹת שָׁלֹשׁ עַל שָׁלֹשׁ בְּצֶמֶר וּפִשְׁתִּים דְּמִטַּמֵּא בִּשְׁרָצִים.
+*Translation:* The Gemara asks: **And Abaye,** who says that everyone agrees that other garments do not become ritually impure at all, **this** phrase: **Or a garment, what does he do with it** and what does it come to add? The Gemara answers: **He needs it to include** a small swatch of fabric that is **three by three** fingerbreadths made **of wool or linen.** Despite its size, **it can become ritually impure from** contact with **creeping animals.**
+
+**3.**
+*Hebrew/Aramaic:* וְרָבָא, גַּלִּי רַחֲמָנָא גַּבֵּי נְגָעִים, וְהוּא הַדִּין לִשְׁרָצִים.
+*Translation:* **And Rava** holds that there is no need for the verse to discuss that matter explicitly, as **the Torah revealed in the case of leprosy** that it is considered to be a garment, **and the same is true with regard to** the ritual impurity of **creeping animals.**
+
+**4.**
+*Hebrew/Aramaic:* וְאַבָּיֵי, אִיכָּא לְמִיפְרַךְ: מַה לִּנְגָעִים שֶׁכֵּן שְׁתִי וָעֵרֶב מִטַּמֵּא בָּהֶם.
+*Translation:* **And Abaye** holds that one cannot derive the *halakhot* of creeping animals from the *halakhot* of leprosy, as **there is room to refute** that comparison in the following manner: **What** comparison is there to **leprosy,** which has more stringent *halakhot* of ritual impurity, **as** even the **warp and woof** threads alone **can become ritually impure from it,** which is not the case with regard to ritual impurity from creeping animals? Therefore, even small scraps can become ritually impure from leprosy.
+
+**5.**
+*Hebrew/Aramaic:* וְאִידַּךְ: אִי סָלְקָא דַּעְתָּךְ נְגָעִים חֲמִירִי, לִכְתּוֹב רַחֲמָנָא גַּבֵּי שְׁרָצִים וְלֵיתוּ נְגָעִים מִינַּיְיהוּ.
+*Translation:* **The other** *amora*, Rava, **says: If it should enter your mind** to say that **leprosy is more stringent,** then **the Torah should have written** the *halakha* **with regard to creeping animals, and let leprosy be derived from them.** Ultimately, the two *halakhot* are paralleled to one another in the Torah. It would have been simpler to explicitly write the laws of creeping animals and to derive leprosy from them. Since that is not the case, it is proof that the *halakhot* of creeping animals can be derived from leprosy.
+
+**6.**
+*Hebrew/Aramaic:* וְאִידַּךְ: נְגָעִים מִשְּׁרָצִים לָא אָתוּ, דְּאִיכָּא לְמִיפְרַךְ: מַה לִּשְׁרָצִים שֶׁכֵּן מְטַמְּאִין בְּכַעֲדָשָׁה.
+*Translation:* **The other** *amora*, Abaye, said that this contention is fundamentally unsound, as **leprosy could not be derived from creeping animals because there is room to refute** this idea and challenge: **What** is the comparison **to** the ritual impurity of **creeping animals,** which is more stringent than the ritual impurity of leprosy, **as** the creeping animal **makes one ritually impure** even **in** a case where it is **a lentil-bulk,** which is not true of other types of ritual impurity? Therefore, verses were necessary to teach about the ritual impurity of both creeping animals and leprosy.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: הַאי תַּנָּא דְּבֵי רַבִּי יִשְׁמָעֵאל מַפֵּיק מֵאִידָךְ תַּנָּא דְּבֵי רַבִּי יִשְׁמָעֵאל. דְּתָנֵי דְּבֵי רַבִּי יִשְׁמָעֵאל ״בֶּגֶד״ — אֵין לִי אֶלָּא בֶּגֶד צֶמֶר וּפִשְׁתִּים, מִנַּיִין לְרַבּוֹת צֶמֶר גְּמַלִּים וְצֶמֶר אַרְנָבִים, נוֹצָה שֶׁל עִזִּים וְהַשִּׁירִין וְהַכָּלָךְ וְהַסְּרִיקִין? — תַּלְמוּד לוֹמַר: ״אוֹ בֶגֶד״.
+*Translation:* **Abaye said: This** statement of the ***tanna* of the school of Rabbi Yishmael diverges from another** statement of the ***tanna* of the school of Rabbi Yishmael, as** the ***tanna* of the school of Rabbi Yishmael taught:** From the fact that the verse says **garment, I have** derived **nothing other than** the *halakha* that **a garment of wool or linen** can become ritually impure. However, **from where** is it derived to **include** garments made of **camels’ hair and rabbits’ wool, goats’ hair or** the types of silk, **the *shirayin*, the *kalakh*, and the *serikin*** among the fabrics that can become ritually impure? **The verse states: Or a garment.** The word “or” serves as an amplification to include all types of fabric.
+
+**8.**
+*Hebrew/Aramaic:* רָבָא אָמַר: כִּי לֵית לֵיהּ לְהַךְ תַּנָּא דְּבֵי רַבִּי יִשְׁמָעֵאל בִּשְׁאָר בְּגָדִים שָׁלֹשׁ עַל שָׁלֹשׁ, שְׁלֹשָׁה עַל שְׁלֹשָׁה אִית לֵיהּ.
+*Translation:* Whereas **Rava said:** There is no need to say that there is a dispute in this case between two *tanna*’*im* from a single school. Rather, **when this *tanna* from the school** of **Rabbi Yishmael,** quoted above, **is not of** the opinion that there is ritual impurity **in other garments,** it is only with regard to a swatch that is **three by three** fingerbreadths; however, with regard to a cloth that is **three by three** handbreadths **he is** of the opinion that it becomes ritually impure. His previous statement came to exclude a small garment from becoming ritually impure. This statement is referring to a larger garment that is three by three handbreadths.
+
+**9.**
+*Hebrew/Aramaic:* וְהָא רָבָא הוּא דְּאָמַר שְׁלֹשָׁה עַל שְׁלֹשָׁה בִּשְׁאָר בְּגָדִים, לְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אִית לֵיהּ, לְתַנָּא דְּבֵי רַבִּי יִשְׁמָעֵאל לֵית לֵיהּ! הֲדַר בֵּיהּ רָבָא מֵהַהִיא. וְאִי בָּעֵית אֵימָא, הָא רַב פָּפָּא אַמְרַהּ.
+*Translation:* The Gemara asks: **Isn’t Rava** the one who **said** above that, in the case of **three by three** handbreadths **in other garments, Rabbi Shimon ben Elazar is** of the opinion that they can become ritually impure, whereas **the *tanna* of the school of Rabbi Yishmael is not** of the opinion that they become ritually impure? The Gemara answers: **Rava retracted that opinion** in order to reconcile the opinions of the *tanna*’*im* of the school of Rabbi Yishmael. **And if you wish, say** instead a different answer: **Rav Pappa said this** statement and not Rava. Since Rav Pappa was the primary disciple of Rava, the Gemara attributed his statement to Rava.
+
+**10.**
+*Hebrew/Aramaic:* רַב פָּפָּא אָמַר: אַף כֹּל, לְאֵתוּיֵי כִּלְאַיִם. כִּלְאַיִם בְּהֶדְיָא כְּתִיבִי בֵּיהּ: ״לֹא תִלְבַּשׁ שַׁעַטְנֵז צֶמֶר וּפִשְׁתִּים יַחְדָּיו״! סָלְקָא דַּעְתָּךְ אָמֵינָא, הָנֵי מִילֵּי דֶּרֶךְ לְבִישָׁה, אֲבָל בְּהַעֲלָאָה כֹּל תְּרֵי מִינֵי אָסוּר.
+*Translation:* **Rav Pappa** himself understood the first statement of the *tanna* of the school of Rabbi Yishmael and **stated** it in a completely different manner. In his opinion, the derivation from the *halakhot* of leprosy, which concluded that **even all** nonspecific mentions of garments in the Torah refer to wool or linen, came **to include** the *halakhot* of **diverse kinds,** the Torah prohibition to wear clothing made from a mixture of wool and linen threads. He sought to prove that the *halakhot* of prohibited mixtures of threads apply only to wool and linen. The Gemara asks: Why does he require this derivation with regard to the prohibition of **diverse kinds?** The fact that the prohibition is limited to wool and linen is **explicitly written,** as it is stated: **“You shall not wear diverse kinds, wool and linen together”** (Deuteronomy 22:11). The Gemara answers: Nevertheless, an additional derivation was necessary, as **it would have entered your mind to say** that **this,** the restriction of the prohibition of diverse kinds to wool and linen, **applies** specifically to a case when one uses them together **in the manner of wearing** them; **however, in** merely **placing** the garments upon oneself, **any two kinds are prohibited.** Therefore, it was necessary to derive that the garment mentioned is restricted to wool and linen.
+
+**11.**
+*Hebrew/Aramaic:* וְלָאו קַל וָחוֹמֶר הוּא? וּמָה לְבִישָׁה דְּקָא מִיתְהֲנֵי כּוּלֵּי גּוּפֵיהּ מִכִּלְאַיִם, אָמְרַתְּ צֶמֶר וּפִשְׁתִּים — אֵין, מִידֵּי אַחֲרִינָא לָא. הַעֲלָאָה לֹא כׇּל שֶׁכֵּן? אֶלָּא דְּרַב פָּפָּא בְּדוּתָא הִיא.
+*Translation:* This claim is rejected: **And is it not an *a fortiori* inference? Just as** in the case of **wearing** the garment, **where one’s entire body derives benefit from** the **diverse kinds, you said** that **wool and linen, yes,** are included in the prohibition, **other materials, no,** are not included; in the case of merely **placing** the garment upon himself, **all the more so** that the *halakha* should not be more stringent. **Rather,** certainly the *halakha* that was attributed to **Rav Pappa is a mistake,** and he did not say it.
+
+**12.**
+*Hebrew/Aramaic:* רַב נַחְמָן בַּר יִצְחָק אָמַר: אַף כֹּל
+*Translation:* **Rav Naḥman bar Yitzḥak** also **said** that those statements of the *tanna* of the school of Rabbi Yishmael do not refer to the *halakhot* of ritual impurity. They refer to another topic. In his opinion, the *tanna* of the school of Rabbi Yishmael came to say that just as the *halakhot* of leprosy are limited to garments made from wool or linen, **so too, all**

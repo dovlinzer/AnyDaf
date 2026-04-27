@@ -1,0 +1,33 @@
+### Yevamot 7b
+
+**1.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״כִּי כַּחַטָּאת הָאָשָׁם הוּא״. מָה חַטָּאת טְעוּנָה מַתַּן דָּמִים וְאֵימוּרִים לְגַבֵּי מִזְבֵּחַ — אַף אָשָׁם טָעוּן מַתַּן דָּמִים וְאֵימוּרִים לְגַבֵּי מִזְבֵּחַ.
+*Translation:* Therefore, **the verse states: “As the sin-offering**…**so is the guilt-offering”** (Leviticus 7:13), to teach that **just as the sin-offering requires placement of the blood and sacrificial parts on the altar, so too, the** leper’s **guilt-offering requires placement of the blood and sacrificial parts on the altar.**
+
+**2.**
+*Hebrew/Aramaic:* וְאִי לָא אַהְדְּרֵיהּ קְרָא — הֲוָה אָמֵינָא: לְמַאי דִּנְפַק — נְפַק, וּלְמַאי דְּלָא נְפַק — לָא נְפַק. הָכָא נָמֵי, הֲוָה אָמֵינָא: אֵשֶׁת אָח דְּאִישְׁתְּרַא[י] — אִישְׁתְּרַאי, שְׁאָר עֲרָיוֹת — לָא.
+*Translation:* The Gemara comments: **And had the verse not** explicitly **restored this** case of guilt-offering to its generalization, **I would say: With regard to that which was excluded** from the generalization as a novel ruling in this case, it was **excluded, and with regard to that** case **which was not excluded,** it was **not excluded, and** therefore the *halakha* would have been different in the various cases. **Here, too, I would say: A brother’s wife who was permitted** is **permitted,** whereas the **other** women **with whom relations are forbidden** were **not** permitted at all. Consequently, there is no proof from here that one might have thought that women with whom relations are forbidden are in fact permitted in levirate marriage.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא, סָלְקָא דַּעְתָּךְ אָמֵינָא: תֵּיתֵי בְּ״מָה מָצִינוּ״ מֵאֵשֶׁת אָח. מָה אֵשֶׁת אָח מִיַּיבְּמָה — אַף אֲחוֹת אִשָּׁה תִּתְיַיבֵּם.
+*Translation:* § **Rather,** the suggestion that other women with whom relations are usually forbidden might be permitted for levirate marriage was based on a different argument: It might **enter your mind to say: Let** this claim **be derived by** the hermeneutical principle of: **What do we find** with regard to, which is a principle of inductive reasoning involving a comparison between cases that include similar details. In other words, the *halakha* of all other women with whom relations are forbidden can be derived **from** that of **a brother’s wife: Just as a brother’s wife enters levirate marriage, so too, a wife’s sister should enter into levirate marriage.**
+
+**4.**
+*Hebrew/Aramaic:* מִי דָּמֵי? הָתָם חַד אִיסּוּרָא — הָכָא תְּרֵי אִיסּוּרֵי! מַהוּ דְּתֵימָא: הוֹאִיל וְאִישְׁתְּרִי — אִישְׁתְּרִי.
+*Translation:* The Gemara wonders about this: **Is it comparable?** How can one case be derived from the other? **There,** in the case of a brother’s wife, only **one prohibition** has been permitted, the prohibition with regard to a brother’s wife, whereas **here,** we are dealing with **two prohibitions,** both a brother’s wife and a wife’s sister. The Gemara answers: It is nevertheless necessary to refute this suggestion, **lest you say: Since it is permitted, it is permitted.** In other words, as the Torah permitted a brother’s wife in levirate marriage despite the fact that she is ordinarily forbidden, she remains permitted even if the additional prohibition with regard to a wife’s sister applies to her.
+
+**5.**
+*Hebrew/Aramaic:* וּמְנָא תֵּימְרָא דְּאָמְרִינַן הוֹאִיל וְאִישְׁתְּרִי אִישְׁתְּרִי — דְּתַנְיָא: מְצוֹרָע שֶׁחָל שְׁמִינִי שֶׁלּוֹ בָּעֶרֶב הַפֶּסַח, וְרָאָה קֶרִי בּוֹ בַּיּוֹם, וְטָבַל, אָמְרוּ חֲכָמִים: אַף עַל פִּי שֶׁאֵין טְבוּל יוֹם אַחֵר נִכְנָס, זֶה — נִכְנָס.
+*Translation:* **And from where do you say that we state** this reasoning of: **Since it is permitted, it is permitted? As it is taught** in a *baraita*: With regard to **a leper whose eighth** day, on which he becomes ritually pure from his leprosy and brings his last offerings to the Temple, **occurs on the eve of Passover, and he experienced a seminal emission on that** eighth **day and** then **immersed** in a ritual bath, **the Sages said: Although any other** individual **who immersed himself that day** for purification from his ritual impurity **may not enter** the Temple before sunset, **this** leper, who saw an emission of semen and immersed, **may enter** the Temple.
+
+**6.**
+*Hebrew/Aramaic:* מוּטָב שֶׁיָּבֹא עֲשֵׂה שֶׁיֵּשׁ בּוֹ כָּרֵת וְיִדְחֶה עֲשֵׂה שֶׁאֵין בּוֹ כָּרֵת. וְאָמַר רַבִּי יוֹחָנָן: דְּבַר תּוֹרָה אֲפִילּוּ עֲשֵׂה לֵית בֵּיהּ,
+*Translation:* The *baraita* explains the reason for this exception. It is **better that a positive mitzva that includes *karet*,** i.e., bringing the Paschal lamb at the right time, **comes and overrides a positive mitzva that does not include *karet*,** i.e., not entering the Temple in a state of ritual impurity. If the leper does not become purified of his leprosy he may not sacrifice the Paschal lamb. **And Rabbi Yoḥanan said: By Torah law there is not even** the overriding of **a positive mitzva in this** case of one who immersed himself during the day entering the Temple.
+
+**7.**
+*Hebrew/Aramaic:* שֶׁנֶּאֱמַר: ״וַיַּעֲמוֹד יְהוֹשָׁפָט בִּקְהַל יְהוּדָה לִפְנֵי הֶחָצֵר הַחֲדָשָׁה״. מַאי ״חָצֵר הַחֲדָשָׁה״? אָמַר (רַבִּי יוֹחָנָן): שֶׁחִדְּשׁוּ בָּהּ דְּבָרִים, וְאָמְרוּ: טְבוּל יוֹם לֹא יִכָּנֵס לְמַחֲנֵה לְוִיָּה.
+*Translation:* Rabbi Yoḥanan explains his claim: **As it is stated: “And Jehoshaphat stood in the congregation of Judah** and Jerusalem, in the House of the Lord, **before the new courtyard”** (II Chronicles 20:5). **What is** the meaning of **“the new courtyard”? Rabbi Yoḥanan said:** This is referring to the place **where they issued new matters and said** that **one who immersed himself that day may not enter the camp of the Levites,** which in Jerusalem is the Temple Mount, despite the fact that by Torah law no such prohibition applies.
+
+**8.**
+*Hebrew/Aramaic:* וְאָמַר עוּלָּא: מַה טַּעַם? הוֹאִיל וְהוּתַּר לְצָרַעְתּוֹ — הוּתַּר לְקִרְויוֹ. מִי דָּמֵי לִדְעוּלָּא?
+*Translation:* **And** with regard to this *halakha* itself, that a leper who experienced a seminal emission may nevertheless sacrifice offerings in the Temple, **Ulla said: What is the reason** that this is permitted to him? **Since it is permitted for his leprosy,** i.e., the Torah allowed him to enter the Temple Mount while still a leper to achieve full ritual purification, which requires that he sacrifice offerings, **it is permitted with regard to his seminal emission** as well. This shows that the *tanna* accepts the principle that as one prohibition is permitted, two prohibitions are likewise permitted. The Gemara rejects this argument: **Is** this assumption **comparable to** the case of **Ulla?**

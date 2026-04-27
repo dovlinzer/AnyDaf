@@ -1,0 +1,37 @@
+### Yevamot 93a
+
+**1.**
+*Hebrew/Aramaic:* קֻוֽנָּם שֶׁאֲנִי עוֹשָׂה לְפִיךָ — אֵין צָרִיךְ לְהָפֵר.
+*Translation:* If a wife said: ***Konam*,** i.e., this is forbidden like consecrated property, in reference to anything **that I will prepare for your mouth,** that is, the payment for any work I perform shall be forbidden to you, **he is not required to nullify** the vow, as it is automatically void, since she was under a prior obligation to give him her earnings as part of their marriage agreement.
+
+**2.**
+*Hebrew/Aramaic:* רַבִּי עֲקִיבָא אוֹמֵר: יָפֵר, שֶׁמָּא תַּעֲדִיף עָלָיו יוֹתֵר מִן הָרָאוּי לוֹ.
+*Translation:* **Rabbi Akiva says:** He should **nullify** the vow, **lest she exceed more than is fitting for him.** A husband is entitled only to a certain sum from his wife’s earnings (see *Ketubot* 64b). If she earns only the sum of money to which he is entitled, the vow certainly does not go into effect. However, she might earn more, in which case the vow would apply with regard to the additional amount. To avoid this scenario, it is preferable for the husband to nullify the vow. This shows that according to the opinion of Rabbi Akiva a vow applies even with regard to an entity that has not yet come into the world. In this case, the entity is the earnings for work she has yet to perform.
+
+**3.**
+*Hebrew/Aramaic:* הָא אִיתְּמַר עֲלַהּ: אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: בְּאוֹמֶרֶת: ״יִקְדְּשׁוּ יָדַי לְעוֹשֵׂיהֶם״, דְּיָדַיִם אִיתַנְהוּ בְּעָלְמָא.
+*Translation:* The Gemara refutes this proof: **But wasn’t it stated with regard to that** mishna that **Rav Huna, son of Rav Yehoshua, said:** This mishna is not referring to a woman who renders the earnings for work she has yet to perform forbidden, but **to** a wife **who says: Let my hands be consecrated to their Maker.** In other words, she declares that it is as though her hands were sanctified, which means that anything produced by them is forbidden. **Since** these **hands** are **in the world,** she has not attempted to acquire something that does not exist. Therefore, there is no proof from here with regard to Rabbi Akiva’s opinion on that issue.
+
+**4.**
+*Hebrew/Aramaic:* וּפְלִיגָא דְּרַב נַחְמָן בַּר יִצְחָק. דְּאָמַר רַב נַחְמָן בַּר יִצְחָק: רַב הוּנָא כְּרַב, וְרַב כְּרַבִּי יַנַּאי, וְרַבִּי יַנַּאי כְּרַבִּי חִיָּיא, וְרַבִּי חִיָּיא כְּרַבִּי, וְרַבִּי כְּרַבִּי מֵאִיר, וְרַבִּי מֵאִיר כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב, וְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב כְּרַבִּי עֲקִיבָא, דְּאָמַר: אָדָם מַקְנֶה דָּבָר שֶׁלֹּא בָּא לָעוֹלָם.
+*Translation:* § The Gemara comments: **And** this opinion, that Rabbi Akiva maintains that one cannot acquire an entity that has not yet come into the world, **disagrees with** the opinion of **Rav Naḥman bar Yitzḥak, as Rav Naḥman bar Yitzḥak said: Rav Huna** agrees **with** the opinion of **Rav, and Rav** agrees **with** the opinion of **Rabbi Yannai, and Rabbi Yannai with** the opinion of **Rabbi Ḥiyya, and Rabbi Ḥiyya with** the opinion of **Rabbi** Yehuda HaNasi, **and Rabbi** Yehuda HaNasi **with** the opinion of **Rabbi Meir, and Rabbi Meir with** the opinion of **Rabbi Eliezer ben Ya’akov, and Rabbi Eliezer ben Ya’akov with** the opinion of **Rabbi Akiva, who said: A person can transfer** to another **an entity that has not** yet **come into the world.** This shows that Rabbi Akiva indeed maintains that one can acquire something that does not yet exist.
+
+**5.**
+*Hebrew/Aramaic:* רַב הוּנָא מַאי הִיא? דְּאִיתְּמַר: הַמּוֹכֵר פֵּירוֹת דֶּקֶל לַחֲבֵרוֹ, אָמַר רַב הוּנָא: עַד שֶׁלֹּא בָּאוּ לָעוֹלָם — יָכוֹל לַחְזוֹר בּוֹ. מִשֶּׁבָּאוּ לָעוֹלָם — אֵין יָכוֹל לַחְזוֹר בּוֹ.
+*Translation:* The Gemara specifies the particular contexts in which the aforementioned opinions, all of which concur, were issued: **Rav Huna, what is** the source for his ruling? **As it was stated:** With regard to **one who sells the fruit of a palm tree to another** before the fruit has grown, **Rav Huna said: Until** the fruit **has come into the world, he can retract** the sale, as it has yet to take effect. However, **after** the fruit **has come into the world, he can no** longer **retract,** despite the fact the fruit had not yet sprouted when he made the acquisition.
+
+**6.**
+*Hebrew/Aramaic:* וְרַב נַחְמָן אָמַר: אַף מִשֶּׁבָּאוּ לָעוֹלָם — יָכוֹל לַחְזוֹר בּוֹ. אָמַר רַב נַחְמָן: מוֹדֵינָא דְּאִי שָׁמֵיט וְאָכֵיל — לָא מַפְּקִינַן מִינֵּיהּ.
+*Translation:* **And Rav Naḥman said: Even after they have come into the world he can retract,** as the acquisition was defective from the outset. He maintains that one cannot transfer ownership of an entity that does not yet exist. **Rav Naḥman said:** Even so, **I concede that if** the buyer **seizes** the fruit **and consumes** it, the court **does not remove them from him,** because despite the faulty acquisition he was promised a sale of fruit.
+
+**7.**
+*Hebrew/Aramaic:* רַב — דְּאָמַר רַב הוּנָא אָמַר רַב: הָאוֹמֵר לַחֲבֵרוֹ ״שָׂדֶה זוֹ שֶׁאֲנִי לוֹקֵחַ לִכְשֶׁאֶקָּחֶנָּה, קְנוּיָה לְךָ מֵעַכְשָׁיו״ — קָנָה.
+*Translation:* The Gemara cites the proof that **Rav** also accepts the ruling that one can acquire an entity that does not yet exist, **as Rav Huna said** that **Rav said:** With regard to **one who says to another: This field that I am** about to **buy, when I buy it, it is acquired by you from now,** the addressee **has acquired** the field, despite the fact that it did not belong to the speaker at the time of his statement.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי יַנַּאי כְּרַבִּי חִיָּיא — דְּרַבִּי יַנַּאי הֲוָה לֵיהּ אֲרִיסָא דַּהֲוָה מַיְיתֵי לֵיהּ כַּנְתָּא דְפֵירֵי כׇּל מַעֲלֵי שַׁבְּתָא. הָהוּא יוֹמָא נְגַהּ לֵיהּ וְלָא אֲתָא. שְׁקַל עַשַּׂר מִפֵּירֵי דְבֵיתֵיהּ עֲלַיְיהוּ. אֲתָא לְקַמֵּיהּ דְּרַבִּי חִיָּיא,
+*Translation:* **Rabbi Yannai** also agrees **with** the opinion of **Rabbi Ḥiyya, as** demonstrated by the following episode: **Rabbi Yannai had a sharecropper** working his land **who would bring him a basket [*kanta*] of fruit every Shabbat eve. One day he was late and did not come.** Rabbi Yannai **took tithe from the fruit in his house for** the fruit he expected to receive. He did this in case the fruit arrived near the beginning of Shabbat, as one may not tithe on Shabbat. However, Rabbi Yannai was uncertain whether it is indeed possible to separate tithes for an entity that has not yet reached one’s possession. He therefore **came before Rabbi Ḥiyya** to inquire whether his separation of tithes was effective.
+
+**9.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: שַׁפִּיר עֲבַדְתְּ. דְּתַנְיָא: ״לְמַעַן תִּלְמַד לְיִרְאָה אֶת ה׳ אֱלֹהֶיךָ כׇּל הַיָּמִים״ — אֵלּוּ שַׁבָּתוֹת וְיָמִים טוֹבִים. לְמַאי הִלְכְתָא? אִילֵּימָא לְעַשּׂוֹרֵי וּמֵיכַל, אִיצְטְרִיךְ קְרָא לְמִישְׁרֵי טִלְטוּל דְּרַבָּנַן?!
+*Translation:* Rabbi Ḥiyya **said to him: You acted well, as it is taught** in a *baraita*, with regard to a verse that discusses tithes: “And you shall eat before the Lord your God…**in order that you should learn to fear the Lord your God all the days”** (Deuteronomy 14:23). With regard to the emphasis of “all,” **these are *Shabbatot* and Festivals. With regard to what *halakha*** was this stated? **If we say** it was stated in regard to the issue **of tithing and eating** on Shabbat, this *halakha* is redundant. **Was a verse necessary to permit** the prohibition against **moving** objects, which applies **by rabbinic** law? Since the prohibition against moving objects is from the Sages, the Torah is certainly not referring to this *halakha*.

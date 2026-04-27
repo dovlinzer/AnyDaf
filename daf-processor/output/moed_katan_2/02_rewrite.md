@@ -1,0 +1,153 @@
+# Moed Katan 2 — Daf Yomi Shiur
+
+## Intro & Commentaries
+
+### Tract Ordering
+
+We begin today a new *masechet*: Masechet Moed Katan, daf 2, amud alef. A few introductory words are in order. Interestingly, just as there is a debate about the order of the last two *perakim* of Megilla, so too here there is a debate about whether Moed Katan is the last tractate of Seder Moed or whether Chagiga is. The standard assumption is that Moed Katan comes first and Chagiga follows, though some authorities reverse the order. Normally one determines the sequence of tractates within a *seder* by the number of *perakim*, but both of these tractates contain exactly three *perakim*, which is precisely why the debate exists. We will proceed with Moed Katan followed by Chagiga, which means we are approximately two months away from completing Seder Moed.
+
+### Mashkin Naming
+
+This *masechet* is known as Moed Katan — the "small *moed*," referring to *chol hamoed* — but many of the *rishonim* actually call it Masechet Mashkin, after its opening word. This is unusual, since tractates are not typically named after their first word (*Berachot* being a coincidental exception). The reason here is that the *masechet* does not lend itself to a single descriptive title, because its subject matter is a genuine mixture of themes. It opens with the laws of *chol hamoed* — a natural continuation after all the individual *chagim* have been addressed — and this is followed by Chagiga, which deals with the *korban chagigah* and other obligations that apply across the *moadim* rather than to any particular festival. But even from the first five words of our *masechet* — *mashkin beit hashalchin bamoed uvishvi'it* — one can see that many of the permitted and prohibited labors on *chol hamoed* run parallel to the laws of *shemita*. So already at the outset there is a mixture of *chol hamoed* and *shvi'is*. Beyond these two, the third *perek*, which begins with *ve'elu megalchin bamoed*, deals predominantly with *aveilus*. The entry point is the question of who may shave on *chol hamoed*, which naturally leads into a discussion of when shaving is otherwise prohibited — including during mourning — and from there the *gemara* expands into the major *sugyot* of *hilchos aveilus*. Indeed, the primary locus of *halachos aveilus* in the *gemara* is this third *perek* of Moed Katan. So the topics are essentially *chol hamoed*, *aveilus*, *shvi'is*, and a number of other matters — hence it is not surprising that some prefer the name Mashkin over the more thematic Moed Katan.
+
+### Rashi & Gershom
+
+One further introductory point concerns the commentaries. As some may recall from our study of Taanis and related tractates, the question arose there whether the Rashi printed in the standard editions is authentic. The scholarly consensus in those cases was that it was not. Here, in Moed Katan, there is essentially universal acknowledgment that the printed Rashi is not Rashi. It is approximately eighty percent Rabbeinu Gershom, with only about twenty percent drawn from the actual Rashi text. What is striking is that one might not notice this on a first encounter: the commentary reads as a coherent, terse, line-by-line explanation in a style not unlike what we associate with Rashi. This is itself an interesting observation — we tend to speak of Rashi as the originator of the running *gemara* commentary, and while that is true in terms of its comprehensiveness and clarity, it is not the case that there were no antecedents. Rabbeinu Gershom, writing in the tenth to early eleventh century, produced exactly this kind of commentary, and Rabbeinu Chananel — whose commentary is printed on the side of the page — also provided running, if considerably sparser, annotation. Rabbeinu Gershom died in either 1028 or 1040; Rashi died in 1105. Their death dates are separated by roughly eighty years.
+
+We do, in fact, possess a manuscript of Rashi's actual commentary on Moed Katan, and it has been published as a separate scholarly edition — *Perush Rashi al Maseches Moed Katan*. There is also a noteworthy point about the Rif: normally, the Rashi printed alongside the Rif is simply a reworking of the standard Rashi on the *gemara*, but in Moed Katan — and apparently in one or two other places — the Rashi in the Rif reflects a genuine manuscript witness to the actual Rashi text. So paradoxically, the more reliable Rashi on Moed Katan is to be found in the back of the Rif rather than in the standard *vilna* printing.
+
+### MS Authenticity
+
+One further complication: the Ran printed alongside the Rif in Moed Katan is, as a general rule, not the Ran — it is *Nimukei Yosef*. So to summarize the situation: the Rashi on the *gemara* is really Rabbeinu Gershom; the more authentic Rashi is in the Rif; and the Ran on the Rif is actually Nimukei Yosef. Going forward, when we cite "Rashi," we should understand that we are, in practice, citing Rabbeinu Gershom.
+
+---
+
+## Beit Hashalchin
+
+### Irrigate Fields
+
+The *masechet* opens: *mashkin beit hashalchin bamoed* — one may irrigate a *beit hashalchin* on *chol hamoed*. A *beit hashalchin* is a field that requires regular irrigation. Because it depends on consistent watering, failure to irrigate poses a serious risk to the crops. This stands in contrast to a field whose soil is richer or whose other conditions allow it to thrive on rainfall alone — such a field is far less vulnerable.
+
+The underlying principle introduced at the outset is that *melacha* on *chol hamoed* is permitted when there is a concern of *davar ha'aved* — the prospect of financial loss, *hefsed*. This immediately raises two larger questions that will accompany us throughout the *masechet*. First: what kind of *melacha* is prohibited on *chol hamoed* in the first place? When we speak of *melacha* on *Shabbos*, we mean the thirty-nine categories of creative, constructive labor. Does the prohibition on *chol hamoed* follow those same categories, such that striking a match would technically require a *heter*? Or does it mean something more like laborious, effortful activity — *tircha* — in which case the character of the prohibition is entirely different? Second: what is the halakhic weight of the prohibition? Is it biblical, rabbinic, or something intermediate? These are the two fundamental questions, and they will recur throughout the *masechet*.
+
+### Loss & Tircha
+
+Turning to Rabbeinu Gershom's commentary on the opening *mishnah*, he explains: *sadeh she'hi omedes behar ve'tzricha lehashkosah tamid mashkin osah afilu be'cholo shel moed* — a field that stands on a hill and requires constant watering may be irrigated even on *chol hamoed*. The reason: *lefi she'hu hefsed gadol* — because it would constitute a significant loss. Two things are notable here. First, the permission is attributed to the *chachamim*, suggesting a rabbinic rather than biblical framework. Second, *tircha* — the effort involved — is already foregrounded as a significant consideration. This does not necessarily mean that *melacha* on *chol hamoed* is defined by *tircha*, but it signals that *tircha* is a controlling factor in determining what is and is not permitted.
+
+### Biblical Source
+
+Rabbeinu Gershom then cites a *drashah* from a *pasuk* in the context of Chagiga rather than Moed Katan. The verse states: *sheshet yamim tochal matzos u'vayom hashvi'i atzeret l'Hashem Elokecha* — six days you shall eat *matzos*, and on the seventh day there is an *atzeret* to God. From the juxtaposition: just as the seventh day involves cessation from *melacha*, so too the six intermediate days involve some prohibition of *melacha*. Yet from this one might have concluded that *all* forms of *melacha* are forbidden on *chol hamoed*, just as they are on *Yom Tov* itself. The *gemara* therefore says: the Torah restricts only the seventh; the six are not fully restricted. But then comes the critical phrase: *lo masran hakatuv ela lachachamim* — the Torah did not specify the parameters; it handed the matter over to the *chachamim* to determine which labors are forbidden and which are permitted. And the conclusion: *melacha she'yesh bah hefsed im eino oseh otah* — labor that, if not performed, will result in loss — the *chachamim* permitted, such as *mashkot beit hashalchin*.
+
+What, then, has Rabbeinu Gershom actually told us about the nature and weight of the prohibition? The *drashah* sounds thoroughly biblical — these are real *derashot* from *pesukim*. And yet the framing phrase *lo masran hakatuv ela lachachamim* can be read in more than one way. One reading: the Torah establishes that some *melacha* is forbidden on *chol hamoed*, but delegates to the rabbis the task of defining precisely which *melachos* fall within that category. Under this reading, whatever the rabbis designate becomes, in effect, biblically prohibited — it is a kind of blank check drawn on the Torah's account, as it were. But this raises a difficulty: under such a model, one might accept that the rabbis have the authority to define the scope of the prohibition. What is harder to explain is that the prohibition can then be *overridden* for reasons such as *hefsed* or *tircha*. The authority to set parameters is one thing; the authority to grant ongoing exceptions is something that sounds more like a rabbinic, rather than biblical, structure.
+
+This tension is not unique to Moed Katan. A parallel ambiguity exists regarding the *inuyim* of Yom Kippur. The *gemara* derives the other afflictions — bathing, sexual relations, anointing, and so forth — from verses, giving them the appearance of biblical status. Yet we find *heterim* for specific individuals: a *kallah* who has recently married is permitted to wash her face; a king may have special dispensations. If these *inuyim* were genuinely biblical in weight, such overrides would be extremely difficult to accommodate. The possibility suggested by the structure is that rather than framing these as "overrides," one might recharacterize: labor performed to prevent loss is simply not the kind of *melacha* that the Torah had in mind — it is *melachat harvacha*, labor for gain, that is restricted, not *melachat menias hefsed*. Such a recharacterization avoids the language of override entirely and instead defines the scope of the prohibition from the outset. Whether this framing is always sustainable remains to be seen.
+
+There is a further dimension: *melacha* on *chol hamoed* may not map onto the *lamed tes melachos* at all. Unlike *Shabbos*, the relevant category may be more about the professional or effortful character of the labor — *melechet uman* — rather than its technical classification among the thirty-nine. These are questions that will surface repeatedly as we proceed.
+
+### Two Criteria
+
+With that framework in mind, the *mishnah* implicitly establishes two operative criteria for permitting labor on *chol hamoed*. First: the labor must address a *makom hefsed* — a situation of genuine loss. Second: even in a case of *hefsed*, there must be no excessive *tircha*. The *mishnah* proceeds to illustrate: one may irrigate from a spring — whether a newly emerged spring or an established one — but one may *not* use collected rainwater (*mei geshamim*) or water drawn by means of a device from a deep well (*mei hakilon*). Both of the latter involve a substantially greater degree of effort and are therefore forbidden. Similarly, one may not make furrows (*ugiot*) around the vines to collect water, as digging those furrows would involve excessive *tircha* — this is not a question of *hefsed* so much as an issue of the labor involved. So the two criteria stand: *hefsed*, yes; *tircha*, no.
+
+### New vs. Old
+
+The *mishnah* then addresses a further distinction: *bein mimayan sheyatza batchila bein mimayan shelo yatza batchila* — whether from a spring that has just newly emerged or one that has been long established. One might have thought that a newly emerged spring should be more problematic: since its banks and channels have not yet settled, there is a concern that they might collapse, requiring further substantial labor to repair. Yet the *mishnah* permits it nonetheless, because the circumstances constitute a *makom hefsed*.
+
+The *mishnah* then introduces the opinion of Rabbi Elazar ben Azariah: *ein osim et ha'amah batchila bamoed uvishvi'it* — one may not initially construct an irrigation canal on *chol hamoed* or on *shvi'is*. Even granting that crops may be at risk, digging a new irrigation canal is considered too great a *tircha* and is therefore prohibited. The *chachamim*, however, rule that one *may* initially dig such a canal on *shvi'is*, though on *chol hamoed* one may only repair one that has already been damaged — *metaknin et hamukalkalot bamoed*. This is, on reflection, striking: the *chachamim* are more lenient about constructing an irrigation canal on *shvi'is*, which carries a *de'oraita* prohibition, than on *chol hamoed*. The *mishnah* also extends the category of permitted repairs to *tzorchei rabim* — needs of the public: one may repair damaged water channels, wells, roads, streets, and *mikva'ot* in the public domain, and one may perform all manner of public needs. One may also mark graves so that *kohanim* avoid them, and the *beit din* may send agents to enforce the laws of *kilayim*.
+
+This introduction of *tzorchei rabim* as a separate permitting category raises its own questions: does *tircha* apply here as well, or does public need override even that concern? For one's private field, the operative criteria are clear — *hefsed* and no excessive *tircha*. How these map onto public works remains a question to keep in view.
+
+### Rav Papa
+
+The *gemara* now interrogates the *mishnah*'s inclusion of both types of springs. The reasoning: *hashta yesh lomar mimayim sheyatza batchila d'ati l'inpulei mashkin* — if we permit irrigation from a newly emerged spring, which carries a risk of collapse and consequent additional labor, then surely we permit irrigation from a long-established spring that presents no such concern. Is there any question?
+
+Rav Papa answers that both cases were nonetheless necessary. Had the *mishnah* stated only the newly emerged spring, one might have concluded: this was permitted specifically for *beit hashalchin* — where the crops will perish without water — *because* we are worried the spring might collapse; for a *beit haba'al*, a field that does not require irrigation and is merely enhanced by it, we would still prohibit even with a new spring. And had the *mishnah* stated only the established spring, with no concern of collapse, one might have thought: since there is minimal risk and minimal effort, perhaps we permit irrigation even of a *beit haba'al* where there is no *hefsed*. Therefore the *mishnah* states both, and the operative principle emerges in full: *lo shena mayim sheyatza batchila lo shana mayim shelo yatza batchila — beit hashalchin in, beit haba'al lo*. It does not matter whether the spring is new or old. The *heter* applies only where there is genuine *hefsed* — a *beit hashalchin* that will suffer real loss without water. For a *beit haba'al*, where the question is one of *meniat revach* — failing to gain profit rather than incurring a loss — there is no *heter*.
+
+This distinction between *hefsed* and *meniat revach* is worth pausing over. When a crop will simply fail to grow without water, the loss of those crops is clearly *hefsed* — one is losing something already invested. But when a field survives on rainfall and would merely grow somewhat better with additional irrigation, not providing that water is not a loss; it is the absence of a gain. Whether this distinction maps cleanly onto modern economic situations — such as a person who will lose a day's salary if they do not work on *chol hamoed* — is itself a nuanced question. Is losing a day's pay *meniat revach* or *hefsed*? The answer is not always obvious, but the conceptual distinction is the foundation.
+
+---
+
+## Etymology
+
+### Hashalchin
+
+The *gemara* now turns to the linguistic origins of these two terms. *U'mai mashma de'hai beit hashalchin lishna detzachuta hi?* — what is the source for understanding *beit hashalchin* as a term connoting thirst? The *gemara* cites a verse: *ve'ata ayef ve'yageia* — you were weary and faint — and notes that the *Targum* renders this as *ve'at mishalhei ve'la'i* — you were thirsty and weary. The connection is a phonetic play between *mishalhei* and *hashalchin*, with a *hei*-*chet* interchange. The *gemara* is working with a somewhat indirect derivation — the *Targum* meaning may lean more toward "weary" than strictly "thirsty" — but the intent is clear: *beit hashalchin* is a field that is "thirsty," that craves water. The more probable actual etymology, left implicit in the *gemara*, likely derives from *lishloach* — to send or convey — since the practice of irrigating a field involves channeling and conveying water to it: *veyishlach mayim al pnei chutzot*.
+
+### Ha'aal
+
+The *gemara* then asks: *u'mai mashma de'hai beit haba'al lishna demiysufta?* — what is the source for understanding *beit haba'al* as language connoting a settled or sated state? The verse cited is: *ki yival bachur betulah* — as a young man takes a young woman — with the *Targum* rendering: *arei kama demityasot ulam im betulta* — as a young man is settled with a virgin. The verse continues with the imagery of children being settled within the land. So *beit haba'al* is the opposite of thirsty: a field that is sated, that does not require regular watering and can sustain itself on rainfall.
+
+The deeper background here, touched on in the context of Taanis, is the pervasive agricultural and quasi-erotic imagery of rain penetrating the earth, fertilizing the seed, and bringing forth growth — *veholida vehitzmicha*. The *beit haba'al* is a field that participates in this natural cycle of rainfall and growth without requiring human intervention. The very name may carry an additional layer: a note in the Soncino edition points to scholarly discussion suggesting that *beit haba'al* originally referred to fields favored by the Canaanite deity Baal, associated with fertility and rainfall. This identification does not appear in the *gemara* itself, but the connection to that imagery of rainfall-as-divine-favor is clear from the broader literary context.
+
+---
+
+## Rabbinic Positions
+
+### Rabbi Meir
+
+The *gemara* now asks: *man tana d'pseda in v'harvacha lo?* — who is the *tanna* who holds that labor on *chol hamoed* is permitted only to prevent loss, but not for the sake of profit? And further: even in a case of *hefsed*, who holds that we nonetheless do not permit labor involving excessive *tircha*? To answer this, Rav Huna first identifies a *tanna* and the *gemara* then invokes a *baraita* that sets out three distinct positions.
+
+The *baraita* opens with the case of a *ma'ayan hayotzei batchila* — a spring that has just emerged. Rabbi Meir rules that one may irrigate even a *beit haba'al* from such a spring. Rabbi Meir is thus maximally lenient: he permits irrigation even for *revach* — that is, even where the field is not at genuine risk — and is not deterred by the possibility that a new spring might collapse and cause additional labor. He allows even for *revach* and even with possible *tircha*.
+
+### Rabbi Yehuda
+
+Rabbi Yehuda takes the middle position: *ein mashkin ella sadeh beit hashalchin shecharva* — one may irrigate only a field that needs water and has in fact dried up. This matches the *mishnah* precisely: only a *beit hashalchin*, only where there is genuine *hefsed*. According to Rabbeinu Gershom, the case in the *baraita* is specifically one in which the field's regular spring has dried up and a new spring has since emerged: *shecharva ma'yanah she'ragil lishtot mimenu* — the spring it normally relied upon has dried up. The *hefsed* is clear: without water now, the field will suffer severe loss.
+
+That Rabbi Yehuda's position corresponds to our *mishnah* is demonstrated in two ways. First, the *baraita* itself: Rabbi Yehuda permits only *beit hashalchin shecharva* — a field in genuine need — and only from a *ma'ayan*, which does not entail great effort. The implicit ruling is that if water were to be drawn from a well or from collected rainfall — both of which involve considerably more *tircha* — it would not be permitted even for a *beit hashalchin*. Second, Rabbi Yehuda's additional ruling: *lo yifaneh adam ammat hamayim v'yashke l'ginato u'l'chorvato b'chol hamoed* — one may not redirect an irrigation canal to water one's garden or a field being replanted on *chol hamoed*. As Tosafot explains, *ginah* and *churvah* are themselves cases of *beit hashalchin* — situations involving genuine *hefsed* — and yet the redirecting of the *amah* is still forbidden. Why? Because redirecting an irrigation canal constitutes excessive *tircha*. Thus Rabbi Yehuda demonstrates both criteria: *hefsed* is necessary, and even where *hefsed* is present, *tircha* is still prohibited.
+
+### R. Elazar
+
+Rabbi Elazar ben Azariah takes the most stringent position: *lo kach velo kach* — neither this nor that. He prohibits irrigation even where the field's spring has dried up and crops are genuinely at risk. The *gemara* notes that his ruling specifies a *mayan sheyatza batchila* — a newly emerged spring — and one might ask whether he would permit an established spring. The *gemara* treats this as an open question but notes that Rabbi Elazar ben Azariah is in any case clearly more stringent than Rabbi Yehuda, and there is no other *tanna* whose position aligns closely enough with the *mishnah* to serve as its author.
+
+### Attribution
+
+Having established the three positions, the *gemara* assigns the authorship of the *mishnah* to Rabbi Yehuda. The *gemara* anticipates an objection: perhaps Rabbi Yehuda's statement in the *baraita* is limited to the specific case of a newly emerged spring, where concern about collapse creates special conditions. Maybe if the spring were old and there was no concern of collapse, Rabbi Yehuda would permit even a *beit haba'al*. Under that reading, Rabbi Yehuda would not be a perfect match for our *mishnah*, which draws no distinction between new and old springs. The *gemara* responds: *im ken matnitin d'man* — then who else could have authored the *mishnah*? No other *tanna*'s position overlaps as closely. We therefore proceed on the assumption that the *mishnah* is Rabbi Yehuda's, and that his position — whether the spring is new or established — is consistently that *beit hashalchin in, beit haba'al lo*: only where there is *hefsed*, and only without excessive *tircha*.
+
+The *baraita*'s focus on a newly emerged spring, rather than an established one, is explained by the *gemara* as *l'hodeia kocho de-Rabbi Meir* — to demonstrate the full extent of Rabbi Meir's leniency. The most striking case is the newly emerged spring, where one might have expected stringency even according to a lenient authority. Rabbi Meir allows even that, even for a *beit haba'al*, even for mere *revach*. By contrast, Rabbi Yehuda, when the spring is established and there is no concern of collapse, does not on that basis extend his *heter* to a *beit haba'al*. His *heter* is rooted exclusively in *hefsed*, not in the absence of effort-risk.
+
+---
+
+## Shabbat Melacha
+
+### Choresh vs. Zore'a
+
+The *gemara* now introduces a question that, while addressed here in the context of *Shabbos*, will circle back to the issues of our *masechet*: *ha-menakesh ve-hamashke mayim lizraim be-Shabbos — mishum mai matrinan beih?* If someone weeds or waters seeds planted in the ground on *Shabbos*, what *melacha* warning (*hatra'ah*) must be given? The question of which warning to give is the *gemara*'s way of asking: which of the thirty-nine *melacha* categories does this act fall under?
+
+This is also an occasion to note how *hatra'ah* functions. A generic warning — "that is a *melacha*" — may not suffice; the warning should identify the specific category. If the wrong category is named, the defendant could reasonably claim he did not take the warning seriously. Identifying the correct category is therefore a substantive halakhic question.
+
+### Rabbah's View
+
+Rabbah answers: *mishum choreish* — the category is plowing. *Charisha* is the working of the ground that enables growth, typically performed before planting. Here too, weeding or watering acts upon the ground: the water does not reach the seed directly but is absorbed by the soil, which then nourishes the seed. The action is fundamentally an improvement of the ground — *marpuyei ar'a* — and therefore analogous to plowing. Rabbah's principle, as Tosafot articulates it, is that we categorize a *melacha* by comparing the physical act: the form of the action most closely resembles *choresh*, and we go by physical resemblance over stated intent.
+
+### Rav Yosef
+
+Rav Yosef disagrees: *mishum zorea* — the category is planting. His reasoning: the essential purpose of planting is to cause fruit to grow — *letzmuchi peira* — and that is equally the purpose of weeding and watering. It does not matter that the physical act is not directed at the seed itself; what matters is that the goal is the growth of the produce. As Tosafot explains the dispute: Rabbah holds that we go after *the act* — *batar hama'aseh* — and not after intent, while Rav Yosef holds that we go after *the purpose* — *batar machshavah* — since that is the essential character of the *melacha*.
+
+### Abaaye Challenge
+
+Abaaye challenges both positions symmetrically. To Rabbah: if the *melacha* is classified as *choreish*, why is it not *also* classified as *zorea*, given that it promotes growth? To Rav Yosef: if it is *zorea*, why is it not *also* classified as *choreish*, given that it acts upon the ground? One might respond that a single act cannot be double-classified — only one *melacha* category can apply to one act. But Abaaye notes that this principle is not absolute.
+
+### Double Melacha
+
+Rav Kahana teaches: *zomeir v'tzarich la-eitzim chayav shtayim* — one who prunes a tree and also intends to use the pruned wood for firewood is liable for two *melachos*: one for *noteia* (planting, since the pruning promotes the tree's growth) and one for *kotzeir* (harvesting, since he is gathering wood he wishes to use). Here a single physical act generates liability under two distinct *melacha* categories. The *gemara* notes the apparent tension: why can that act generate two liabilities while the act of weeding or watering cannot? The resolution is implicit in the structure of the cases. In the pruning case, the person is genuinely doing two separate things with one act — promoting tree growth and harvesting wood. Either could have been done independently: one could prune without wanting the wood, or collect wood without intending to benefit the tree. The coincidence of two independent purposes in a single act produces two *melacha* liabilities. By contrast, watering or weeding the ground is a single, unified action. There is only one thing being done. The debate between Rabbah and Rav Yosef is not about whether there are two acts, but about which single category best captures the one act that is performed.
+
+---
+
+## Kilayim Debate
+
+### R. Akiva
+
+Rav Yosef challenges Rabbah from a *baraita* concerning *kilayim*: *ha-menakesh ve-ha-mechapeh b'kilayim lokeh — Rabbi Akiva omer af ha-m'kayeim*. One who weeds the ground or covers the roots of *kilayim* with dirt receives lashes. Rabbi Akiva goes further: even one who merely allows *kilayim* to remain — *m'kayeim* — also receives lashes. The operative prohibition is *sadcha lo tizra kilayim* — do not plant your field with mixed species.
+
+### Inference
+
+According to Rav Yosef, who holds that working the ground constitutes *zore'a*, the *baraita* is straightforward: weeding and covering the dirt are forms of planting, which is precisely what the *pasuk* prohibits in the context of *kilayim*. The whole structure fits: the Torah's prohibition is *zeri'ah*, and acts that promote growth are categorized as *zeri'ah*. But according to Rabbah, who holds that working the ground is *choresh* rather than *zorea*, a difficulty arises: the Torah's prohibition in *kilayim* is against *planting*, not plowing. One does not receive lashes for plowing a field of *kilayim*. If weeding and covering are categorized as *charisha* and not *zeri'ah*, how could the *baraita* say one receives lashes for doing them?
+
+### Rabbah Reread
+
+Rabbah responds: *mishum m'kayeim* — the liability is not for an act of planting but for the act of *sustaining* the *kilayim*. One receives lashes not because weeding or covering is itself *zeri'ah*, but because it constitutes an act of *m'kayeim* — of actively maintaining the *kilayim* in place. The *gemara* objects: but if that is the reasoning behind the *reisha* of the *baraita*, then that is also what Rabbi Akiva is saying in the *seifa* when he speaks of *m'kayeim*. How can both clauses refer to *m'kayeim*? Rabbah responds: *kula Rabbi Akiva hi* — read the entire *baraita* as presenting Rabbi Akiva's position in layers. The *reisha* asks: what is the reason one receives lashes for weeding or covering? The answer is *mishum m'kayeim* — because these acts constitute maintenance of *kilayim*. And that is precisely what Rabbi Akiva makes explicit: *af ha-m'kayeim* — even passive maintenance incurs liability, based on the verse *kilayim sadcha lo*, which extends the prohibition beyond active planting to any form of allowing *kilayim* to persist.
+
+The plain reading of the *baraita*, it must be said, aligns naturally with Rav Yosef's position — working the ground is *zore'a* — and Rabbah's reinterpretation requires reading the entire unit as presenting a single coherent position of Rabbi Akiva. Both positions are maintained in the *gemara*, and the dispute between Rabbah and Rav Yosef remains live.
+
+### Bridge Forward
+
+The *gemara* has thus established the framework of the *choresh*-versus-*zorea* debate in the context of *Shabbos*. The relevance of this debate to our *masechet* will become apparent as we proceed: the same question of how to categorize acts that tend to growing things — whether through *charisha* or *zeri'ah* — bears directly on the classification of agricultural labor in the contexts of both *shvi'is* and *chol hamoed*. We will pick up from here and trace how this *sugya* connects to the *mishnah*'s rulings on watering fields under those two distinct regimes.

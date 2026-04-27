@@ -1,0 +1,77 @@
+### Zevachim 116b
+
+**1.**
+*Hebrew/Aramaic:* דַּאֲפִילּוּ אִקַּשּׁוֹיֵי נָמֵי לָא אִקַּשּׁוּ. וּמְנָא יָדְעָה? דְּאָמַר מָר: אֵין לָךְ כׇּל שַׂר וְנָגִיד שֶׁלֹּא בָּא עַל רָחָב הַזּוֹנָה.
+*Translation:* The Gemara replies that Rahab used this phrase euphemistically, to say that their fear was so great **that** their male organs **were not even** able to **become erect,** as “*kama*” also means rise. The Gemara asks: **And how did** Rahab **know** this? The Gemara replies: **As the Master said: You do not have any prince or ruler** at that time **who did not engage in intercourse with Rahab the prostitute.**
+
+**2.**
+*Hebrew/Aramaic:* אָמְרוּ: בַּת עֶשֶׂר שָׁנִים הָיְתָה כְּשֶׁיָּצְאוּ יִשְׂרָאֵל מִמִּצְרַיִם, וְזִנְּתָה [כׇּל] אַרְבָּעִים שָׁנָה שֶׁהָיוּ יִשְׂרָאֵל בַּמִּדְבָּר. אַחַר חֲמִישִּׁים שָׁנָה נִתְגַּיְּירָה, אָמְרָה: ״יְהֵא מָחוּל לִי בִּשְׂכַר חֶבֶל חַלּוֹן וּפִשְׁתִּים״.
+*Translation:* The Gemara adds that the Sages **said** with regard to Rahab: **She was ten years old when the Jewish people left Egypt, and she engaged in prostitution all forty years that the Jewish people were in the wilderness. After** that, when she was **fifty years** old, she **converted** when the two spies visited her. **She said: May** all of my sins of prostitution **be forgiven me as a reward** for having endangered myself with the **rope, window, and flax,** by means of which I saved Joshua’s two spies. Rahab first concealed the spies in stalks of flax, and later assisted them in exiting her home by lowering them from the window with a rope (see Joshua 2:6 and 2:15).
+
+**3.**
+*Hebrew/Aramaic:* אָמַר מָר: וְגוֹיִם בִּזְמַן הַזֶּה רַשָּׁאִין לַעֲשׂוֹת כֵּן. מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל״ – בְּנֵי יִשְׂרָאֵל מְצוּוִין עַל שְׁחוּטֵי חוּץ, וְאֵין הַגּוֹיִם מְצוּוִין עַל שְׁחוּטֵי חוּץ.
+*Translation:* § **The Master said** in the *baraita* that discussed the sacrifice of offerings before the construction of the Tabernacle: **And today gentiles are permitted to do so,** i.e., to sacrifice offerings outside the Temple courtyard, despite the fact that this is forbidden for the Jews. The Gemara asks: **From where are these matters** derived? **As the Sages taught** with regard to the verses that prohibit the slaughter of offerings outside the Temple: **“Speak** to Aaron, and to his sons, and **to** all **the children of Israel”** (Leviticus 17:2). This indicates that only **Jews are commanded with regard to** offerings **slaughtered outside** the Temple, **but gentiles are not commanded with regard to** offerings **slaughtered outside** the Temple.
+
+**4.**
+*Hebrew/Aramaic:* לְפִיכָךְ כָּל אֶחָד וְאֶחָד בּוֹנֶה לוֹ בָּמָה לְעַצְמוֹ, וּמַקְרִיב עָלֶיהָ כׇּל מַה שֶּׁיִּרְצֶה. אָמַר רַבִּי יַעֲקֹב בַּר אַחָא אָמַר רַב אַסִּי: אָסוּר לְסַיְּיעָן וְלַעֲשׂוֹת שְׁלִיחוּתָן. אָמַר רַבָּה: וּלְאוֹרֹיִנְהוּ שְׁרֵי.
+*Translation:* **Therefore, each and every** gentile may, if he desires, **construct** a private **altar for himself, and sacrifice upon it whatever he desires. Rabbi Ya’akov bar Aḥa says** that **Rav Asi says:** Although it is permitted for gentiles to sacrifice offerings outside the Temple courtyard, it is **prohibited** for a Jew **to assist them or to fulfill their agency** in this matter, as sacrificing in this manner is forbidden for a Jew. **Rabba said: But to instruct them** how to sacrifice outside the Temple is **permitted.**
+
+**5.**
+*Hebrew/Aramaic:* כִּי הָא דְּאִיפְרָא הוֹרְמִיז אִימֵּיהּ דְּשַׁבּוּר מַלְכָּא שַׁדַּרָה קוּרְבָּנָא לְרָבָא, שְׁלַחָה לֵיהּ: ״אַסְּקוּהּ נִיהֲלֵיהּ לְשֵׁם שָׁמַיִם״. אֲמַר לְהוּ לְרַב סָפְרָא וּלְרַב אַחָא בַּר הוּנָא: זִילוּ וּדְבַרוּ תְּרֵי עוּלֵמֵי גּוּלָאֵי, וַחֲזוֹ הֵיכָא דְּמַסְּקָא יַמָּא שִׂירְטוֹן; וּשְׁקֻלוּ צִיבֵי חַדְתֵי, וְאַפִּיקוּ נוּרָא מִמָּרָא חַדְתָּא, וְאַסְּקוּהּ נִיהֲלֵיהּ לְשֵׁם שָׁמַיִם.
+*Translation:* This is **similar to that** incident in **which Ifera Hurmiz, the mother of King Shapur** of Persia, **sent an offering to Rava,** with which **she sent** this message **to him: Sacrifice this for me, for the sake of Heaven.** Rava **said to Rav Safra and to Rav Aḥa bar Huna: Go, take two** gentile **youths of the same age,** i.e., similar to one another, so that the sacrifice will be performed with maximal beauty, **and see where the sea** currently **raises silt [*sirton*],** which is a place that no one has used before. **And take new wood and bring out fire from new vessels, and** the two youths will **sacrifice** the offering **for her, for the sake of Heaven.**
+
+**6.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: כְּמַאן – כְּרַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ. דְּתַנְיָא, רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ אוֹמֵר: מָה מִזְבֵּחַ – שֶׁלֹּא יִשְׁתַּמֵּשׁ בּוֹ הֶדְיוֹט, אַף עֵצִים – שֶׁלֹּא יִשְׁתַּמֵּשׁ בָּהֶן הֶדְיוֹט. וְהָא מוֹדֶה רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ בְּבָמָה!
+*Translation:* **Abaye said to** Rava: **In accordance with whose** opinion was the instruction to sacrifice exclusively with new wood? Was it **in accordance with** the opinion of **Rabbi Elazar ben Shammua? As it is taught** in a *baraita* that **Rabbi Elazar ben Shammua says: Just as** the **altar** is a place **that is not used by an ordinary** person, **so too,** the **wood** that will be used **must not be used by an ordinary** person. The Gemara asks: **But doesn’t Rabbi Elazar ben Shammua concede** that **in** the case of a private **altar** the wood need not be new?
+
+**7.**
+*Hebrew/Aramaic:* דְּתַנְיָא, כָּתוּב אֶחָד אוֹמֵר: ״וַיִּתֵּן דָּוִד לְאׇרְנָן בַּמָּקוֹם שִׁקְלֵי זָהָב מִשְׁקָל שֵׁשׁ מֵאוֹת וְגוֹ׳״, וּכְתִיב: ״וַיִּקֶן דָּוִד אֶת הַגֹּרֶן וְאֶת הַבָּקָר בְּכֶסֶף שְׁקָלִים חֲמִשִּׁים״; הָא כֵּיצַד?
+*Translation:* **As it is taught** in a *baraita*: With regard to David’s purchase of the site of the Temple, when he wished to build an altar there at God’s instruction, **one verse states: “So David gave to Ornan for the place six hundred shekels of gold by weight.** And David built there an altar to the Lord, and offered burnt offerings and peace offerings” (I Chronicles 21:25–26). **And it is written** elsewhere: **“So David bought the threshing floor and the oxen for fifty shekels of silver.** And David built there an altar to the Lord, and offered burnt offerings and peace offerings” (II Samuel 24:24–25). **How** can **these** texts be reconciled?
+
+**8.**
+*Hebrew/Aramaic:* גּוֹבֶה מִכׇּל שֵׁבֶט וָשֵׁבֶט חֲמִשִּׁים, שֶׁהֵן שֵׁשׁ מֵאוֹת. רַבִּי אוֹמֵר מִשּׁוּם אַבָּא יוֹסֵי בֶּן דּוֹסְתַּאי: בָּקָר [וְעֵצִים] וּמְקוֹם מִזְבֵּחַ בַּחֲמִשִּׁים, וְכׇל הַבַּיִת כּוּלּוֹ בְּשֵׁשׁ מֵאוֹת.
+*Translation:* David would **collect from each tribe** of the twelve tribes **fifty** shekels, **which are** a sum of **six hundred** shekels. **Rabbi** Yehuda HaNasi **says in the name of Abba Yosei ben Dostai** that there is another explanation: David purchased the **cattle and** the **wood and the site of** the **altar for fifty** shekels, **and** he purchased the site of **the entire Temple for six hundred** shekels.
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי אֶלְעָזָר בֶּן שַׁמּוּעַ אוֹמֵר: בָּקָר וְעֵצִים וּמְקוֹם מִזְבֵּחַ בַּחֲמִשִּׁים, וְכׇל הַבַּיִת כּוּלּוֹ בְּשֵׁשׁ מֵאוֹת; דִּכְתִיב: ״וַיֹּאמֶר אֲרַוְנָה אֶל דָּוִד: יִקַּח וְיַעַל אֲדוֹנִי הַמֶּלֶךְ [הַטּוֹב בְּעֵינָיו], רְאֵה הַבָּקָר לָעֹלָה וְהַמֹּרִגִּים [וּכְלֵי הַבָּקָר] לָעֵצִים״. וְרָבָא אָמַר לָךְ: הָתָם נָמֵי בְּחַדְתֵי.
+*Translation:* **Rabbi Elazar ben Shammua says** likewise: David purchased the **cattle and** the **wood and the site of** the **altar for fifty** shekels, **and** the site of **the entire Temple for six hundred** shekels, **as it is written: “And Araunah said to David: Let my lord the king take and offer that which is good in his eyes; see the cattle for the burnt offering, and the threshing tools, and the implements of the cattle for the wood”** (II Samuel 24:22), to which David replied: “No, but I will buy it from you at a price” (II Samuel 24:24). Consequently, according to the opinion of Rabbi Elazar ben Shammua, David purchased the threshing instruments and the furniture of the oxen for use as wood. **And Rava** could have **said to you** in response: **There too,** in the case of David, the verse is dealing **with new** vessels that had not yet been used.
+
+**10.**
+*Hebrew/Aramaic:* מַאי מוֹרִיגִּים? אָמַר עוּלָּא: מִטָּה שֶׁל טוּרְבֵּל. מַאי מִטָּה שֶׁל טוּרְבֵּל? אָמַר אַבָּיֵי: עִיזָּא דְּקֻרְקְסָא דְּדָיְישָׁן דִּישָׁאֵי. אָמַר אַבָּיֵי: מַאי קְרָא? ״הִנֵּה שַׂמְתִּיךְ לְמוֹרַג חָרוּץ חָדָשׁ בַּעַל פִּיפִיּוֹת״.
+*Translation:* The Gemara asks: **What** are **“the threshing instruments [*morigim*]”** mentioned in the verse? **Ulla said:** It is **a *turbal* bed.** The Gemara asks: **What** is **a *turbal* bed? Abaye said:** It is **a heavy, serrated board [*dekurkesa*],** used **for threshing. Abaye said: What is the verse** from which the meaning of *morigim* is derived? **“Behold, I have made you a new threshing board [*morag*] having sharp teeth; you shall thresh the mountains, and beat them small, and shall make the hills as chaff”** (Isaiah 41:15). This verse indicates that a *morag* has grooves and teeth, and is used for threshing.
+
+**11.**
+*Hebrew/Aramaic:* מַקְרֵי לֵיהּ רָבָא לִבְרֵיהּ, וְרָמֵי לֵיהּ קְרָאֵי אַהֲדָדֵי; כְּתִיב: ״וַיִּתֵּן דָּוִד לְאׇרְנָן וְגוֹ׳״, וּכְתִיב: ״וַיִּקֶן דָּוִד וְגוֹ׳״; הָא כֵּיצַד? גּוֹבֶה מִכׇּל שֵׁבֶט וָשֵׁבֶט חֲמִשִּׁים, שֶׁהֵן שֵׁשׁ מֵאוֹת.
+*Translation:* With regard to the contradiction between the verses that relate the sum of shekels paid by David, the Gemara says that **Rava** was **teaching** these verses **to his son, and raised a contradiction between verses: It is written: “So David gave to Ornan…**six hundred shekels of gold by weight” (I Chronicles 21:25), **and it is written: “So David bought…**fifty shekels of silver” (II Samuel 24:24). **How** can **these** texts be reconciled? David would **collect from each tribe** of the twelve tribes **fifty** shekels, **which are** a sum of **six hundred** shekels.
+
+**12.**
+*Hebrew/Aramaic:* וְאַכַּתִּי קַשְׁיָין אַהֲדָדֵי – הָתָם כֶּסֶף, הָכָא זָהָב! אֶלָּא הָכִי קָאָמַר: גּוֹבֶה כֶּסֶף בְּמִשְׁקַל שֵׁשׁ מֵאוֹת זָהָב.
+*Translation:* The Gemara asks: **But** these verses **are still difficult,** as they contradict **one another,** since **there** in the book of Samuel it is stated that David paid **silver** shekels, while **here** in Chronicles it is stated that he paid **gold** shekels. The Gemara replies: **Rather, this** is what the verses are **saying:** David would **collect** from each tribe **silver** shekels that had the value of fifty gold shekels in weight, so that the value of the final sum was equal to **six hundred gold** shekels.
+
+**13.**
+*Hebrew/Aramaic:* קָדָשִׁים קַלִּים נֶאֱכָלִים [בְּכׇל מַחֲנֵה יִשְׂרָאֵל]. אָמַר רַב הוּנָא: בְּכׇל מְקוֹמוֹת יִשְׂרָאֵל, אֲבָל מַחֲנֶה לָא הָוֵי.
+*Translation:* § The mishna teaches that once the Tabernacle was established in the wilderness, **offerings of lesser sanctity** were **eaten throughout the camp of Israel. Rav Huna says:** This means that offerings of lesser sanctity were eaten **in any** of the **places** that **an Israelite** would be found. **But there was no** actual **camp,** outside of which it was prohibited to eat the offerings.
+
+**14.**
+*Hebrew/Aramaic:* אֵיתִיבֵיהּ רַב נַחְמָן לְרַב הוּנָא: וּמַחֲנוֹת בְּמִדְבָּר לָא הֲוַאי?! וְהָא תַּנְיָא: כְּשֵׁם שֶׁמַּחֲנֶה בַּמִּדְבָּר, כָּךְ מַחֲנֶה בִּירוּשָׁלַיִם; מִירוּשָׁלַיִם לְהַר הַבַּיִת – מַחֲנֵה יִשְׂרָאֵל, מֵהַר הַבַּיִת לְשַׁעַר נִקָּנוֹר – מַחֲנֵה לְוִיָּה,
+*Translation:* **Rav Naḥman raised an objection to Rav Huna: And were there not camps** when the Jews were **in the wilderness? But isn’t it taught** in a *baraita* (see *Tosefta*, *Kelim Bava Kamma* 1:12): **Just as** there was **a camp in the wilderness** that was divided into different sections, with each section having particular *halakhot* pertaining to the consumption of offerings and to the ritually impure individuals who were prohibited from entering there, **so too,** there is a corresponding **camp in Jerusalem:** The area **from** the walls of **Jerusalem to the Temple Mount** has the status of **the Israelite camp.** The area **from the Temple Mount to Nicanor’s Gate** at the entrance to the Temple courtyard has the status of **the Levite camp.**
+
+**15.**
+*Hebrew/Aramaic:* מִכָּאן וְאֵילָךְ – מַחֲנֵה שְׁכִינָה, וְהֵן הֵן קְלָעִים שֶׁבַּמִּדְבָּר.
+*Translation:* **From that** point **onward,** i.e., from the entrance to the Temple courtyard, the area has the status of **the camp of the Divine Presence; and** the Temple courtyard has the same status as the area within **the curtains** surrounding the courtyard of the Tabernacle **in the wilderness.**
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא אֵימָא: בְּכׇל מְקוֹם מַחֲנֵה יִשְׂרָאֵל. פְּשִׁיטָא! מַהוּ דְּתֵימָא: אִיפְּסִלוּ בְּיוֹצֵא; קָא מַשְׁמַע לַן.
+*Translation:* The Gemara replies: **Rather, say** that Rav Huna meant that when the Tabernacle was in the wilderness, offerings of lesser sanctity could be consumed **wherever the Israelite camp** was located. The Gemara asks: Isn’t that **obvious?** Wherever the Jews were located in the wilderness was where the Israelite camp was. The Gemara responds: **Lest you say** that during the periods of travel between encampments the offerings were taken outside the Israelite camp, and **were** thereby **disqualified due to** the meat’s **leaving** the area within the partitions, Rav Huna **teaches us** that the meat is not disqualified.
+
+**17.**
+*Hebrew/Aramaic:* וְאֵימָא הָכִי נָמֵי! אָמַר קְרָא: ״וְנָסַע אֹהֶל מוֹעֵד״ – אַף עַל פִּי שֶׁנָּסַע, אֹהֶל מוֹעֵד הוּא.
+*Translation:* The Gemara asks: **But** why not **say** that this is **indeed so,** i.e., that the meat is disqualified because it left the camp? The Gemara answers that **the verse states: “Then the Tent of Meeting,** with the camp of the Levites, **shall travel** in the midst of the camps; as they encamp, so shall they travel” (Numbers 2:17), which indicates that **although it traveled** from its place **it is** still **the Tent of Meeting.** Similarly, the Israelite camp retains its status even while traveling.
+
+**18.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי אוֹמֵר: עוֹד אַחֶרֶת הָיְתָה, וְחֵיל עֶזְרַת נָשִׁים הִיא, וְלֹא הָיוּ עוֹנְשִׁין עָלֶיהָ. וּבְשִׁילֹה לֹא הָיוּ אֶלָּא שְׁנֵי מַחֲנוֹת בִּלְבַד.
+*Translation:* § With regard to the division of Jerusalem into three camps, **it is taught** in a *baraita* that **Rabbi Shimon ben Yoḥai says: There was an additional** camp in Jerusalem, within the area of the Temple Mount, **and it** was **the rampart of the women’s courtyard.** The Sages rendered it prohibited for certain ritually impure individuals to enter that area, **but they would not punish** them **for** entering **it,** as by Torah law it does not constitute a distinct section of the Temple Mount but has the status of the Levite camp. The *baraita* adds: **And** when the Tabernacle was **in Shiloh there were only two camps.**
+
+**19.**
+*Hebrew/Aramaic:* הֵי מִינַּיְיהוּ לָא הֲוָה? אָמַר רַבָּה: מִסְתַּבְּרָא דְּמַחֲנֵה לְוִיָּה הֲוַאי; דְּאִי סָלְקָא דַעְתָּךְ מַחֲנֵה לְוִיָּה לָא הֲוַאי –
+*Translation:* The Gemara asks: **Which of** the three camps that were present in the wilderness **was not** present in Shiloh? **Rabba said: It stands to reason that the Levite camp was** present, but the Israelite camp was not. **As, if it enters your mind to say** that **the Levite camp was not** present in Shiloh,

@@ -4,359 +4,225 @@
   "amud": "",
   "macro_segments": [
     {
-      "title": "Introduction and Basic Principles of Undifferentiated Nests (Kan Stuma)",
+      "title": "Introduction to Kan Stuma and Basic Principles of Undifferentiated Nests",
       "display_title": "Kan Stuma Intro",
       "timestamp": "00:02",
       "micro_segments": [
         {
-          "title": "Review of First Perek: Chova and Kan Stuma Basics",
-          "display_title": "Review Chova",
+          "title": "Overview of Kan Stuma versus Chova and the Structure of Obligatory Nests",
+          "display_title": "Chova Structure",
           "timestamp": "00:02"
         },
         {
-          "title": "First Mishna: Bird Flies Away or Dies from Undifferentiated Pair",
-          "display_title": "Bird Flies/Dies",
-          "timestamp": "01:15"
+          "title": "Simple Case: One Bird Flies Away from an Undifferentiated Pair",
+          "display_title": "One Bird Flies",
+          "timestamp": "01:24"
         },
         {
-          "title": "Simple Solution: Pair It Up with a Second Bird",
-          "display_title": "Pair It Up",
+          "title": "Solution and Pairing Mechanism When a Bird Dies or Disappears",
+          "display_title": "Pairing Solution",
           "timestamp": "01:57"
         }
       ]
     },
     {
-      "title": "Bird Flies Between Two Different Sized Groups: The Principle of Invalidation",
-      "display_title": "Parach Bein Korbanos",
+      "title": "Birds Flying Between Two Differentiated Groups: Loss and Restriction Principles",
+      "display_title": "Two Groups Mixing",
       "timestamp": "02:46",
       "micro_segments": [
         {
-          "title": "Scenario: Four-Four Groups Become Three-Five After One Bird Flies Over",
-          "display_title": "3-5 Scenario",
+          "title": "Scenario of One Bird Flying from a Group of Four to Another Group of Four",
+          "display_title": "4+4 Mixing",
           "timestamp": "02:46"
         },
         {
-          "title": "Why Cannot Bring All Three: Risk of Fixing Identity and Over-restricting Other Owner",
-          "display_title": "Cannot Bring All",
-          "timestamp": "04:07"
+          "title": "Why Bringing All Three Birds from the Smaller Group Causes Problems",
+          "display_title": "Fixing Identity Problem",
+          "timestamp": "04:12"
         },
         {
-          "title": "Solution: Bring Two from First Group, Four from Second to Keep Identities Flexible",
-          "display_title": "Bring 2 & 4",
-          "timestamp": "06:46"
-        },
-        {
-          "title": "Principle Applied: Pasul and Posel Echad Kenegdo",
-          "display_title": "Pasul Principle",
-          "timestamp": "09:24"
+          "title": "Detailed Explanation of How One Bird Flying Invalidates One from Each Group",
+          "display_title": "Pesul Principle",
+          "timestamp": "09:23"
         }
       ]
     },
     {
-      "title": "Second Mishna: Bird Flies Back and Forth Between Two Four-Four Groups",
-      "display_title": "Chazar Veparach",
+      "title": "Two Women with Pairs: Bird Flying Back and Forth Between Groups",
+      "display_title": "Bidirectional Flying",
       "timestamp": "10:30",
       "micro_segments": [
         {
-          "title": "Setup: Two Women Each with Two Pairs (Four Birds Total)",
-          "display_title": "Two Women Setup",
+          "title": "First Flight: Bird Flies from One Group to Another and Invalidates Both",
+          "display_title": "First Flight",
           "timestamp": "10:30"
         },
         {
-          "title": "First Flight: Bird Goes from Group A to Group B",
-          "display_title": "First Flight In",
-          "timestamp": "10:50"
-        },
-        {
-          "title": "Second Flight: Bird Returns from Group B to Group A",
-          "display_title": "Bird Returns",
+          "title": "Return Flight: Bird Flies Back and Creates Additional Invalidity",
+          "display_title": "Return Flight",
           "timestamp": "11:09"
         },
         {
-          "title": "Worst Case Scenario: Exchanged Birds Create ABAB Pattern",
-          "display_title": "ABAB Exchange",
-          "timestamp": "11:52"
+          "title": "Analysis of Worst-Case Scenario with Mixed Designations",
+          "display_title": "Worst Case ABAB",
+          "timestamp": "12:00"
         },
         {
-          "title": "Why Cannot Bring More Than Two from Each: Risk of Over-determining Identity",
-          "display_title": "Cannot Bring 3rd",
-          "timestamp": "13:28"
-        },
-        {
-          "title": "Result: Only Two Pairs Can Be Brought from Each Four-Bird Group",
-          "display_title": "Only 2 from Each",
-          "timestamp": "15:54"
-        },
-        {
-          "title": "Multiple Back-and-Forth Flights: No Additional Loss Once Minimum Reached",
-          "display_title": "Repeated Flights",
+          "title": "Multiple Flying Back and Forth: Minimum Threshold for Mixed Groups",
+          "display_title": "Multiple Flyings",
           "timestamp": "17:35"
         }
       ]
     },
     {
-      "title": "Third Mishna: Multiple Different-Sized Groups with Circular Flying Pattern",
-      "display_title": "Multi-Group Flying",
+      "title": "Seven Women with Escalating Numbers of Pairs and Circular Bird Distribution",
+      "display_title": "Seven Women",
       "timestamp": "18:52",
       "micro_segments": [
         {
-          "title": "Setup: Seven Women with One, Two, Three, Four, Five, Six, Seven Pairs Respectively",
-          "display_title": "7-Group Setup",
+          "title": "Setup of Seven Women with One Through Seven Pairs Each",
+          "display_title": "Setup 1-7",
           "timestamp": "18:52"
         },
         {
-          "title": "Scenario: Bird Flies from Group 1 Through All Groups and Returns",
-          "display_title": "Circular Flight",
-          "timestamp": "19:17"
-        },
-        {
-          "title": "Mathematical Principle: Each In/Out Costs One Pair; Apply Rule Consistently",
-          "display_title": "In/Out Rule",
+          "title": "Application of In-Out Rule to Determine Loss for Each Group",
+          "display_title": "In-Out Rule",
           "timestamp": "20:28"
         },
         {
-          "title": "Group One and Two: Zero Pairs Brought (Lost Two Each)",
-          "display_title": "Groups 1-2: Zero",
-          "timestamp": "20:41"
-        },
-        {
-          "title": "Groups Three Through Seven: Progressive Reduction Formula Applied",
-          "display_title": "Groups 3-7 Math",
-          "timestamp": "21:03"
-        },
-        {
-          "title": "Group Seven: End Point Loses Only One Pair, Not Two",
-          "display_title": "Group 7: One Loss",
-          "timestamp": "21:13"
-        },
-        {
-          "title": "Logical Problem: Does the Mathematical Rule Always Make Sense?",
-          "display_title": "Logic Problem",
+          "title": "Logical Analysis of Why the In-Out Rule Works in This Scenario",
+          "display_title": "Logic Check",
           "timestamp": "23:05"
         },
         {
-          "title": "Group One Analysis: Cannot Bring Remaining Bird to Avoid Fixing Its Identity",
-          "display_title": "Group 1 Logic",
-          "timestamp": "24:04"
-        },
-        {
-          "title": "Group Two Analysis: Two Birds Remain but Cannot Be Brought as a Pair",
-          "display_title": "Group 2 Logic",
-          "timestamp": "25:53"
-        },
-        {
-          "title": "Group Three Analysis: Three Pairs Remain, Only One Can Be Brought",
-          "display_title": "Group 3 Logic",
-          "timestamp": "27:28"
-        },
-        {
-          "title": "Groups Four Through Six: Each Loses Two Pairs Due to In/Out Pattern",
-          "display_title": "Groups 4-6 Loss",
-          "timestamp": "28:40"
-        }
-      ]
-    },
-    {
-      "title": "Fourth Mishna: Undifferentiated Pair Mixed with Differentiated Pair",
-      "display_title": "Stumah Vemeforashet",
-      "timestamp": "33:47",
-      "micro_segments": [
-        {
-          "title": "Setup: One Differentiated Chatas and Ola; One Undifferentiated Pair",
-          "display_title": "Mixed Setup",
+          "title": "Second Round of Flying: Further Reduction of Available Birds",
+          "display_title": "Second Round",
           "timestamp": "33:47"
-        }
-      ]
-    },
-    {
-      "title": "Third Mishna: Multiple Different-Sized Groups with Circular Flying Pattern (continued)",
-      "display_title": "Multi-Group Flying…",
-      "timestamp": "33:48",
-      "micro_segments": [
-        {
-          "title": "Second Iteration: Bird Flies Back and Forth Again Among Already-Reduced Groups",
-          "display_title": "Second Iteration",
-          "timestamp": "33:48"
         },
         {
-          "title": "Debate: Does Group Seven Lose Anything Further or Reach Maximum Flexibility?",
-          "display_title": "Group 7 Debate",
-          "timestamp": "34:03"
+          "title": "Debate on Whether Seventh Group Loses Nothing or Can Bring All",
+          "display_title": "Seventh Group",
+          "timestamp": "34:02"
         }
       ]
     },
     {
-      "title": "Third Mishna: Multiple Different-Sized Groups with Circular Flying Pattern (continued) (continued)",
-      "display_title": "Multi-Group Flying……",
+      "title": "Seven Women with Escalating Numbers of Pairs and Circular Bird Distribution (continued)",
+      "display_title": "Seven Women…",
       "timestamp": "34:13",
       "micro_segments": [
         {
-          "title": "Important Caveat: If a Bird from Dead-Bird Category Mixes In, All Must Die",
-          "display_title": "Dead Birds Mix",
+          "title": "Case of Birds Flying from Designated-to-Die Group into Others",
+          "display_title": "Metot Mixing",
           "timestamp": "34:13"
         }
       ]
     },
     {
-      "title": "Fourth Mishna: Undifferentiated Pair Mixed with Differentiated Pair (continued)",
-      "display_title": "Stumah Vemeforashet…",
+      "title": "Non-Differentiated Pair Flying into Differentiated Pair",
+      "display_title": "Stuma to Meforashet",
       "timestamp": "34:13",
       "micro_segments": [
         {
-          "title": "First Case: Bird from Undifferentiated Flies into Differentiated Group",
-          "display_title": "Into Diff Group",
+          "title": "Basic Scenario: Undifferentiated Pair Flies into Differentiated Pair",
+          "display_title": "Stuma Flies In",
           "timestamp": "34:13"
         }
       ]
     },
     {
-      "title": "Fourth Mishna: Undifferentiated Pair Mixed with Differentiated Pair (continued)",
-      "display_title": "Stumah Vemeforashet…",
+      "title": "Non-Differentiated Pair Flying into Differentiated Pair (continued)",
+      "display_title": "Stuma to Meforashet…",
       "timestamp": "34:21",
       "micro_segments": [
         {
-          "title": "Result: Differentiated Group Becomes All Mixed; Undifferentiated Must Pair Up",
-          "display_title": "Mixed Paired Up",
-          "timestamp": "34:21"
-        },
-        {
-          "title": "Second Case: Bird Flies Back from Mixed Group",
-          "display_title": "Back from Mixed",
-          "timestamp": "34:21"
-        },
-        {
-          "title": "Third Case: Defined Ola Flies into Undifferentiated Group",
-          "display_title": "Ola Flies In",
-          "timestamp": "34:21"
-        },
-        {
-          "title": "Result: All Must Die When Defined Type Mixes with Undifferentiated",
-          "display_title": "All Die",
+          "title": "Solution and Pairing for the Remaining Bird",
+          "display_title": "Pairing Remaining",
           "timestamp": "34:21"
         }
       ]
     },
     {
-      "title": "Fifth Mishna: Chatas and Ola on Opposite Sides with Undifferentiated Between",
-      "display_title": "Chatas-Ola Sides",
+      "title": "Defined Chatas and Olah Flanking an Undifferentiated Pair in the Middle",
+      "display_title": "Chatat-Stuma-Olah",
       "timestamp": "34:21",
       "micro_segments": [
         {
-          "title": "Setup: Chatas on Left, Ola on Right, Undifferentiated in Middle",
-          "display_title": "Triple Setup",
+          "title": "Initial Setup: Clearly Defined Chatas, Olah, and Undifferentiated Pair",
+          "display_title": "Setup Trio",
           "timestamp": "34:21"
         },
         {
-          "title": "First Case: One Bird Flies from Middle to Each Side; No Loss",
-          "display_title": "No Loss",
+          "title": "First Flight: One Bird from Middle Flies to Each Side Without Loss",
+          "display_title": "No Loss First",
           "timestamp": "34:21"
         },
         {
-          "title": "Result: Undifferentiated Pair Becomes Determined Once Separated; All Brought",
-          "display_title": "All Brought",
-          "timestamp": "34:21"
-        },
-        {
-          "title": "Second Case: Birds Fly Back from Sides into Middle",
-          "display_title": "Back to Middle",
-          "timestamp": "34:21"
-        },
-        {
-          "title": "Result: Mixed Birds in Middle Must Die; Side Birds Still Valid",
+          "title": "Return Flight: Birds Fly Back from Sides, Causing All Middle Birds to Die",
           "display_title": "Middle Dies",
           "timestamp": "34:21"
         }
       ]
     },
     {
-      "title": "Fifth Mishna: Chatas and Ola on Opposite Sides with Undifferentiated Between (continued)",
-      "display_title": "Chatas-Ola Sides…",
+      "title": "Defined Chatas and Olah Flanking an Undifferentiated Pair in the Middle (continued)",
+      "display_title": "Chatat-Stuma-Olah…",
       "timestamp": "34:24",
       "micro_segments": [
         {
-          "title": "Third Case: Continued Flying Back to Middle from Both Sides",
-          "display_title": "Repeated Mixing",
-          "timestamp": "34:24"
-        },
-        {
-          "title": "Result: All Must Die When Mixture Becomes Irreversible",
-          "display_title": "All Die Final",
+          "title": "Final Case: Continuous Flying Back and Forth Requires All to Die",
+          "display_title": "Continuous Cycle",
           "timestamp": "34:24"
         }
       ]
     },
     {
-      "title": "Sixth Mishna: Pigeons and Turtle Doves Cannot Be Mixed in a Single Offering",
-      "display_title": "Pigeons Doves",
+      "title": "Species Matching Rule: Doves and Turtledoves Cannot Be Mixed",
+      "display_title": "Species Matching",
       "timestamp": "34:24",
       "micro_segments": [
         {
-          "title": "Rule: Must Bring Both Chatas and Ola from Same Species",
-          "display_title": "Same Species",
+          "title": "General Principle: Must Bring Both Chatas and Olah from Same Species",
+          "display_title": "Same Species Rule",
           "timestamp": "34:24"
         },
         {
-          "title": "Case One: Chatas as Pigeon, Ola as Turtle Dove",
-          "display_title": "Case: Pigeon/Dove",
+          "title": "Case One: Chatas as Pigeon, Olah as Turtledove—Redo the Olah",
+          "display_title": "Pigeon-Dove Case",
           "timestamp": "34:40"
         },
         {
-          "title": "First Opinion: Redo the Ola to Match the Chatas Species",
-          "display_title": "Redo Ola",
+          "title": "Case Two: Olah as Pigeon, Chatas as Turtledove—Redo the Olah",
+          "display_title": "Dove-Pigeon Case",
           "timestamp": "34:40"
-        },
-        {
-          "title": "Case Two: Ola as Pigeon, Chatas as Turtle Dove",
-          "display_title": "Case: Dove/Pigeon",
-          "timestamp": "34:41"
-        },
-        {
-          "title": "First Opinion: Redo the Ola to Match the Chatas Species",
-          "display_title": "Redo Ola 2",
-          "timestamp": "34:46"
         }
       ]
     },
     {
-      "title": "Sixth Mishna: Pigeons and Turtle Doves Cannot Be Mixed in a Single Offering (continued)",
-      "display_title": "Pigeons Doves…",
+      "title": "Species Matching Rule: Doves and Turtledoves Cannot Be Mixed (continued)",
+      "display_title": "Species Matching…",
       "timestamp": "35:01",
       "micro_segments": [
         {
-          "title": "Ben Azzai's Opinion: First Offering Determines the Set",
-          "display_title": "Ben Azzai",
-          "timestamp": "35:01"
-        },
-        {
-          "title": "Comparison: Ben Azzai's View Aligns with Kan Stuma Principles",
-          "display_title": "Kan Stuma Link",
+          "title": "Ben Azzai's Opinion: First Offering Determines Species for Second",
+          "display_title": "Ben Azzai View",
           "timestamp": "35:01"
         }
       ]
     },
     {
-      "title": "Seventh Mishna: Woman Dies Before Bringing Her Ola",
-      "display_title": "Woman Dies",
+      "title": "Obligations After Death: Inheritance of Chatas and Olah Requirements",
+      "display_title": "After Death",
       "timestamp": "35:01",
       "micro_segments": [
         {
-          "title": "Case One: Woman Brought Chatas Then Died Before Ola",
-          "display_title": "Chatas Done",
+          "title": "Woman Brought Chatas, Died Before Bringing Olah—Heirs Must Bring Olah",
+          "display_title": "Olah Required",
           "timestamp": "35:01"
         },
         {
-          "title": "Solution: Heirs Must Bring the Ola; It Is an Obligation on the Estate",
-          "display_title": "Heirs Bring Ola",
-          "timestamp": "35:01"
-        },
-        {
-          "title": "Case Two: Woman Brought Both Chatas and Ola Before Dying",
-          "display_title": "Both Done",
-          "timestamp": "35:01"
-        },
-        {
-          "title": "Solution: Heirs Need Not Bring Anything; Obligation Fulfilled",
-          "display_title": "No Further Need",
+          "title": "Woman Brought Olah, Died Before Bringing Chatas—Heirs Cannot Bring Chatas",
+          "display_title": "Chatas Waived",
           "timestamp": "35:01"
         }
       ]
@@ -366,100 +232,130 @@
     {
       "term": "Kan Stuma (Undifferentiated Nest)",
       "timestamps": [
-        "00:15",
+        "00:02",
         "01:24",
         "02:46",
+        "34:13",
+        "34:21"
+      ]
+    },
+    {
+      "term": "Chova (Obligatory Nest)",
+      "timestamps": [
+        "00:02",
+        "00:08"
+      ]
+    },
+    {
+      "term": "Chatas (Sin Offering)",
+      "timestamps": [
+        "00:26",
+        "01:39",
+        "02:28",
+        "04:17",
+        "05:00",
+        "06:03",
+        "07:04",
+        "12:50",
+        "13:02",
+        "14:02",
+        "26:03",
+        "34:21",
+        "34:40"
+      ]
+    },
+    {
+      "term": "Olah (Burnt Offering)",
+      "timestamps": [
+        "00:28",
+        "01:39",
+        "02:28",
+        "04:17",
+        "05:00",
+        "06:10",
+        "07:05",
+        "12:50",
+        "13:02",
+        "14:00",
+        "26:10",
+        "34:21",
+        "34:40"
+      ]
+    },
+    {
+      "term": "Parach (Bird Flies Away)",
+      "timestamps": [
+        "02:46",
+        "02:51",
+        "10:50",
+        "17:35",
+        "18:52",
+        "19:16",
+        "34:13",
+        "34:21"
+      ]
+    },
+    {
+      "term": "Pesul (Invalid/Invalidates)",
+      "timestamps": [
+        "03:22",
+        "03:25",
+        "03:36",
+        "09:39"
+      ]
+    },
+    {
+      "term": "Posel Echad Kenegdo (Invalidates One Opposite)",
+      "timestamps": [
+        "03:25",
+        "03:36",
+        "09:47",
+        "10:54"
+      ]
+    },
+    {
+      "term": "Levein Hachrevot (Between Other Offerings)",
+      "timestamps": [
+        "02:51",
+        "03:13"
+      ]
+    },
+    {
+      "term": "Fixing Identity Problem",
+      "timestamps": [
+        "04:12",
+        "05:10",
+        "07:03",
+        "24:18",
+        "26:20"
+      ]
+    },
+    {
+      "term": "Undifferentiated Status Remains Flexible",
+      "timestamps": [
+        "07:03",
+        "07:09",
+        "13:11",
+        "13:21",
+        "30:29"
+      ]
+    },
+    {
+      "term": "In-Out Rule (Bird In and Out Loses One)",
+      "timestamps": [
+        "16:31",
+        "20:36",
+        "21:35",
         "33:47"
       ]
     },
     {
-      "term": "Chova (Obligatory Nest with Half Chatas, Half Ola)",
+      "term": "Bidirectional Flying",
       "timestamps": [
-        "00:21",
-        "00:28"
-      ]
-    },
-    {
-      "term": "Parach (Bird Flies Away or Between Groups)",
-      "timestamps": [
-        "02:46",
         "10:50",
-        "17:35",
-        "19:17",
-        "34:21"
-      ]
-    },
-    {
-      "term": "Pasul and Posel Echad Kenegdo (Invalidation Principle)",
-      "timestamps": [
-        "03:22",
-        "09:24",
-        "10:06"
-      ]
-    },
-    {
-      "term": "Chazar (Bird Returns or Flies Back)",
-      "timestamps": [
         "11:09",
-        "11:15",
-        "11:18",
-        "17:35",
-        "34:21"
-      ]
-    },
-    {
-      "term": "Undifferentiated Identity Flexibility",
-      "timestamps": [
-        "06:46",
-        "07:03",
-        "13:28",
-        "24:18",
-        "30:34"
-      ]
-    },
-    {
-      "term": "Risk of Over-determining Identity",
-      "timestamps": [
-        "04:38",
-        "05:06",
-        "13:28",
-        "24:18"
-      ]
-    },
-    {
-      "term": "Mathematical Rule: In/Out Costs One Pair",
-      "timestamps": [
-        "16:28",
-        "20:28",
-        "31:39"
-      ]
-    },
-    {
-      "term": "Circular Flying Pattern (Multiple Groups)",
-      "timestamps": [
-        "18:52",
-        "19:17"
-      ]
-    },
-    {
-      "term": "Lo Hipsida Klum (No Loss When Identities Remain Flexible)",
-      "timestamps": [
-        "17:42",
-        "34:21"
-      ]
-    },
-    {
-      "term": "Meforshim (Commentaries) on Logic vs. Rule Application",
-      "timestamps": [
-        "23:05",
-        "31:56"
-      ]
-    },
-    {
-      "term": "Stumah and Meforashet (Undifferentiated and Differentiated)",
-      "timestamps": [
-        "33:47",
-        "34:13"
+        "12:06",
+        "17:35"
       ]
     },
     {
@@ -470,22 +366,14 @@
       ]
     },
     {
-      "term": "Kullan Yamutu (All Must Die When Mixed with Designated Deaths)",
+      "term": "Meforashet (Differentiated/Designated)",
       "timestamps": [
         "34:13",
-        "34:21",
-        "34:24"
+        "34:21"
       ]
     },
     {
-      "term": "Pigeons (Torim) and Turtle Doves (B'nei Yonah)",
-      "timestamps": [
-        "34:24",
-        "34:40"
-      ]
-    },
-    {
-      "term": "Species Matching Requirement for Chatas and Ola",
+      "term": "Torim (Doves/Pigeons)",
       "timestamps": [
         "34:24",
         "34:40",
@@ -493,26 +381,41 @@
       ]
     },
     {
-      "term": "Ben Azzai's Opinion: First Offering Determines the Set",
+      "term": "Benei Yonah (Turtledoves)",
+      "timestamps": [
+        "34:24",
+        "34:40",
+        "35:01"
+      ]
+    },
+    {
+      "term": "Ben Azzai",
       "timestamps": [
         "35:01"
       ]
     },
     {
-      "term": "Woman's Estate Obligation (Chiyuv)",
+      "term": "Holchin Achar Harishon (Following the First)",
       "timestamps": [
         "35:01"
       ]
     },
     {
-      "term": "Yorshim (Heirs) Responsibility for Ola",
+      "term": "Yorshim (Heirs)",
       "timestamps": [
         "35:01"
       ]
     },
     {
-      "term": "Olas Chova vs. Olas Nedavah (Obligatory vs. Voluntary Ola)",
+      "term": "Olas Chova (Obligatory Olah)",
       "timestamps": [
+        "35:01"
+      ]
+    },
+    {
+      "term": "Olas Nedavah (Voluntary Olah)",
+      "timestamps": [
+        "34:40",
         "35:01"
       ]
     }

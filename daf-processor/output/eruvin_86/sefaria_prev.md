@@ -1,0 +1,77 @@
+### Eruvin 85b
+
+**1.**
+*Hebrew/Aramaic:* וְהָאֶמְצָעִי — אָסוּר.
+*Translation:* **and the middle** ruin **is prohibited** to both of them.
+
+**2.**
+*Hebrew/Aramaic:* יָתֵיב רַב בְּרוֹנָא וְקָאָמַר לְהָא שְׁמַעְתָּא. אֲמַר לֵיהּ רַבִּי אֱלִיעֶזֶר בַּר בֵּי רַב: אָמַר רַב הָכִי? אֲמַר לֵיהּ: אִין. אַחְוִי לִי אוּשְׁפִּיזֵיהּ. אַחְוִי לֵיהּ. אֲתָא לְקַמֵּיהּ דְּרַב, אֲמַר לֵיהּ: אֲמַר מָר הָכִי? אֲמַר לֵיהּ: אִין.
+*Translation:* **Rav Beruna sat and stated this *halakha*** in the name of Rav. **Rabbi Elazar, a student of the Torah academy, said to him: Did Rav** actually **say this?** Rav Beruna **said to him: Yes,** he did. He said to him: **Show me his** place of **lodging,** and I will go and ask him myself. **He showed him** where Rav lived. Rabbi Elazar **came before Rav** and **said to him:** Did **the Master** actually **say this? He said to him: Yes,** I did.
+
+**3.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, וְהָא מָר הוּא דְּאָמַר: לָזֶה בְּשִׁלְשׁוּל וְלָזֶה בִּזְרִיקָה — שְׁנֵיהֶן אֲסוּרִין!
+*Translation:* Rabbi Elazar then **said to** Rav: Since you prohibit using the middle ruin, you evidently maintain that one person renders it prohibited for another by way of the air. That being the case, it must be that you permit the resident of each house to use the adjacent ruin because one’s use of the ruin, while not convenient for him, is more convenient than the other person’s usage. **But wasn’t it the Master** himself who **said:** With regard to a place that can be used by the residents of **the one** courtyard only **by lowering** an object down to it **and** by the residents of **another** courtyard only **by throwing** an object on top of it, so that neither courtyard has convenient access to it, **both** sets of residents **are prohibited** from using it, although lowering an object is more convenient than throwing it?
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: מִי סָבְרַתְּ דְּקָיְימִי כְּשׁוּרָה? לָא — דְּקָיְימִי כַּחֲצוּבָה.
+*Translation:* Rav **said to him: Do you think that** we are dealing with a case of three ruins **positioned** alongside each other **in** a straight **line? No. They are** arranged in the form **of a tripod**, i.e. in a triangular form. In other words, two of the ruins, each adjacent to one of the houses, are located next to each other; the third is positioned adjacent to one side of the other two, near both houses. The middle ruin is prohibited to the residents of both houses because both houses have equally inconvenient but direct access to it. However, each of the other ruins is permitted to the resident of the adjacent house, as he has direct access to it, while the resident of the other house can reach it only through the air of the ruin nearest to him, and Rav maintains that one person does not render it prohibited for use by another by way of the air.
+
+**5.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא: לֵימָא שְׁמוּאֵל לֵית לֵיהּ דְּרַב דִּימִי. דְּכִי אֲתָא רַב דִּימִי אָמַר רַבִּי יוֹחָנָן: מָקוֹם שֶׁאֵין בּוֹ אַרְבַּע עַל אַרְבַּע — מוּתָּר לִבְנֵי רְשׁוּת הָרַבִּים וְלִבְנֵי רְשׁוּת הַיָּחִיד לְכַתֵּף עָלָיו, וּבִלְבַד שֶׁלֹּא יַחֲלִיפוּ.
+*Translation:* **Rav Pappa said to Rava: Let us say** that **Shmuel,** who maintains that one renders it prohibited for another by way of the air, **does not agree with** the opinion **of Rav Dimi. When Rav Dimi came** from Eretz Yisrael to Babylonia, he said that **Rabbi Yoḥanan said: A place less than four by four** handbreadths in size is an exempt domain with respect to carrying on Shabbat. Consequently, if this place is located between a public domain and a private domain, **it is permitted for** both **the people in the public domain and the people in the private domain to adjust** the burden **on their shoulders in it, as long as they do not exchange** objects with each other by way of the exempt domain. According to Shmuel’s opinion this should be prohibited due to the air of a different domain.
+
+**6.**
+*Hebrew/Aramaic:* הָתָם — רְשׁוּיוֹת דְּאוֹרָיְיתָא, הָכָא — רְשׁוּיוֹת דְּרַבָּנַן. וַחֲכָמִים עָשׂוּ חִיזּוּק לְדִבְרֵיהֶם יוֹתֵר מִשֶּׁל תּוֹרָה.
+*Translation:* Rava replied: **There,** Rabbi Yoḥanan is dealing **with** an exempt domain situated between a public domain and a private domain, the two existing **domains by Torah law.** In that case, the Sages did not prohibit the use of the place due to the air. By contrast, **here,** with regard to the air between private domains, we are dealing **with domains** between which carrying is prohibited **by rabbinic law, and the Sages reinforced their statements** even **more than those of the Torah;** they added preventive measures in order to safeguard their decrees. Consequently, according to Shmuel, the Sages indeed decreed that one renders it prohibited for another by way of the air.
+
+**7.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רָבִינָא לְרָבָא: מִי אָמַר רַב הָכִי? וְהָא אִיתְּמַר: שְׁנֵי בָתִּים מִשְּׁנֵי צִידֵּי רְשׁוּת הָרַבִּים, רַבָּה בַּר רַב הוּנָא אָמַר רַב: אָסוּר לִזְרוֹק מִזֶּה לָזֶה, וּשְׁמוּאֵל אָמַר: מוּתָּר לִזְרוֹק מִזֶּה לָזֶה!
+*Translation:* **Ravina said to Rava: But did Rav** actually **say this,** that one person does not render it prohibited for use by another by way of the air? **But wasn’t it stated** that *amora’im* disagreed with regard to **two houses** belonging to one person that stood **on two** opposite **sides of a public domain. Rabba bar Rav Huna** said that **Rav said:** It is **prohibited to throw** an object **from one** house **to the other; and Shmuel said** that it is **permitted to throw from one to the other.** Rav apparently forbade the act of throwing due to the prohibited air of the public domain that lies between the two houses.
+
+**8.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: לָאו מִי אוֹקֵימְנָא דְּמִדְּלֵי חַד וּמִתַּתֵּי חַד, זִימְנִין דְּמִגַּנְדַּר וְנָפֵיל, וְאָתֵי לְאֵיתוֹיֵי.
+*Translation:* Rava **said to him: Wasn’t it established that one** house was relatively **higher and the** other **one** was **lower** than the first? Rav prohibited throwing from one domain to the other, not due to the air of the public domain, but rather due to the difficulty of throwing from a low place to a higher one, as the thrown object **might sometimes roll and fall** back into the public domain **and** people might **come to pick it up** and carry it from the public domain to the private domain. It was for this reason that Rav prohibited throwing an object from one house to another.
+
+**9.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַנּוֹתֵן אֶת עֵירוּבוֹ בְּבֵית שַׁעַר, אַכְסַדְרָה וּמִרְפֶּסֶת — אֵינוֹ עֵירוּב. וְהַדָּר שָׁם — אֵינוֹ אוֹסֵר עָלָיו.
+*Translation:* MISHNA: With regard to **one who placed his *eiruv*** of courtyards **in a gatehouse** or in **a portico,** a roofed structure without walls or with incomplete walls, **or** one who deposited it in **a balcony,** this **is not a** valid ***eiruv*. And one who resides there,** in any of these structures, **does not render it prohibited** for the homeowner and the other residents of the courtyard to carry, even if he did not contribute to the *eiruv*.
+
+**10.**
+*Hebrew/Aramaic:* בֵּית הַתֶּבֶן וּבֵית הַבָּקָר וּבֵית הָעֵצִים וּבֵית הָאוֹצָרוֹת — הֲרֵי זֶה עֵירוּב, וְהַדָּר שָׁם — אוֹסֵר. רַבִּי יְהוּדָה אוֹמֵר: אִם יֵשׁ שָׁם תְּפִיסַת יָד שֶׁל בַּעַל הַבַּיִת — אֵינוֹ אוֹסֵר.
+*Translation:* If, however, one deposited his *eiruv* in **a hay shed or** in **a cowshed or** in **a woodshed or** in **a storehouse, this is** a valid ***eiruv*,** as it is located in a properly guarded place. **And one who resides there** with permission, if he neglected to contribute to the *eiruv*, he **renders it prohibited** for the homeowner and the other residents of the courtyard to carry. **Rabbi Yehuda says: If the homeowner has there,** in the hay shed or the other places listed above, **a right of usage,** i.e., if he is entitled to use all or part of the area for his own purposes, then the one who lives there **does not render it prohibited** for the homeowner, as the area is considered the homeowner’s quarters, and the person living there is classified as a member of his household.
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַב שְׁמוּאֵל בַּר שִׁילַת: כׇּל מָקוֹם שֶׁאָמְרוּ הַדָּר שָׁם אֵינוֹ אוֹסֵר — הַנּוֹתֵן אֶת עֵירוּבוֹ אֵינוֹ עֵירוּב, חוּץ מִבֵּית שַׁעַר דְּיָחִיד. וְכׇל מָקוֹם שֶׁאָמְרוּ חֲכָמִים אֵין מַנִּיחִין בּוֹ עֵירוּב — מַנִּיחִין בּוֹ שִׁיתּוּף, חוּץ מֵאֲוִיר מָבוֹי.
+*Translation:* GEMARA: **Rav Yehuda, son of Rav Shmuel bar Sheilat, said: Any place** with regard to **which** the Sages **said** that **one who resides there does not render it prohibited** for the other residents of the courtyard to carry, **one who places his *eiruv*** there, his **is not a** valid ***eiruv*, except for a gatehouse** that belongs **to an individual.** If a structure is used as a passageway by only one person, he does not render it prohibited for the other residents of the courtyard, and an *eiruv* placed there is a valid *eiruv*. **And any place** with regard to **which the Sages said** that **a joining** of courtyards **may not be placed there, a merging** of alleyways **may be placed there, except for** the **airspace** of an **alleyway,** which is not inside one of the courtyards.
+
+**12.**
+*Hebrew/Aramaic:* מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: הַנּוֹתֵן אֶת עֵירוּבוֹ בְּבֵית שַׁעַר אַכְסַדְרָה וּמִרְפֶּסֶת — אֵינוֹ עֵירוּב. עֵירוּב הוּא דְּלָא הָוֵי, הָא שִׁיתּוּף הָוֵי?
+*Translation:* The Gemara asks: **What is he teaching us** by this? **We have** already **learned** this in the mishna: With regard to **one who placed his *eiruv* in a gatehouse** or in **a portico** or in **a balcony, it is not a** valid ***eiruv*.** It can be inferred from the mishna that **an *eiruv*, it is not, a merging** of the alleyway, it **is.** What, then, is novel in this statement?
+
+**13.**
+*Hebrew/Aramaic:* בֵּית שַׁעַר דְּיָחִיד וַאֲוִיר דְּמָבוֹי אִיצְטְרִיכָא לֵיהּ, דְּלָא תְּנַן. תַּנְיָא נָמֵי הָכִי: הַנּוֹתֵן אֶת עֵירוּבוֹ בְּבֵית שַׁעַר אַכְסַדְרָה וּמִרְפֶּסֶת וּבְחָצֵר וּבְמָבוֹי — הֲרֵי זֶה עֵירוּב. וְהָתְנַן: אֵין זֶה עֵירוּב! אֵימָא: הֲרֵי זֶה שִׁיתּוּף.
+*Translation:* The Gemara answers: **It was necessary for him** to teach the *halakha* of **a gatehouse** that belongs **to an individual and** the *halakha* of **the airspace** of **an alleyway, which we did not learn** in the mishna. **This was also taught** in a *baraita*: **One who placed his *eiruv* in a gatehouse,** or in **a portico, or** in **a balcony, or in a courtyard, or in an alleyway, this is** a valid ***eiruv*. But didn’t we learn** in the mishna that this **is not an *eiruv*?** Rather, you must **say** that the *baraita* should read: **This is** a valid **merging** of the alleyway.
+
+**14.**
+*Hebrew/Aramaic:* שִׁיתּוּף בְּמָבוֹי לָא מִינְּטַר? אֵימָא: בְּחָצֵר שֶׁבְּמָבוֹי.
+*Translation:* The Gemara raises a difficulty: But if one places the food of the **merging** of the alleyway **in the alleyway** itself, it is **not** properly **guarded,** which means that it is as though he has not placed the merging of the alleyway there at all. Rather, you must **say** that the *baraita* should read: If he placed his merging of the alleyway **in a courtyard in the alleyway,** it is valid.
+
+**15.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: בְּנֵי חֲבוּרָה שֶׁהָיוּ מְסוּבִּין וְקִדֵּשׁ עֲלֵיהֶן הַיּוֹם, פַּת שֶׁעַל הַשֻּׁלְחָן סוֹמְכִין עֲלֵיהֶן מִשּׁוּם עֵירוּב. וְאָמְרִי לַהּ: מִשּׁוּם שִׁיתּוּף.
+*Translation:* **Rav Yehuda said** that **Shmuel said:** If there were **a group** of people **who were dining** together on Shabbat eve, **and the day became sanctified for them,** i.e., Shabbat began while they were eating, **they may rely upon the bread on the table for an *eiruv*** of courtyards, so that they are all permitted to carry in the courtyard. **And some say** they may rely on the bread **for a merging** of the alleyway.
+
+**16.**
+*Hebrew/Aramaic:* אָמַר רַבָּה, וְלָא פְּלִיגִי: כָּאן — בִּמְסוּבִּין בַּבַּיִת, כָּאן — בִּמְסוּבִּין בֶּחָצֵר.
+*Translation:* **Rabba said:** The two versions **do not disagree** with regard to whether the bread counts as an *eiruv* or a merging of the alleyway. Rather, **here,** the teaching that states it can be used as an *eiruv*, is referring to a case **where** they are **dining in the house,** as food deposited in a house can be used as an *eiruv* for the courtyard. By contrast, **there** it is referring to a situation **where** they are **dining in the courtyard,** and they may therefore rely on the bread only as a merging of the alleyway but not as an *eiruv*.
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי לְרַבָּה: תַּנְיָא דִּמְסַיַּיע לָךְ: עֵירוּבֵי חֲצֵירוֹת בֶּחָצֵר, וְשִׁיתּוּפֵי מְבוֹאוֹת בַּמָּבוֹי. וְהָוֵינַן בַּהּ, עֵירוּבֵי חֲצֵירוֹת בֶּחָצֵר? וְהָתְנַן: הַנּוֹתֵן אֶת עֵירוּבוֹ בְּבֵית שַׁעַר אַכְסַדְרָה וּמִרְפֶּסֶת אֵינוֹ עֵירוּב! אֵימָא: עֵירוּבֵי חֲצֵירוֹת — בַּבַּיִת שֶׁבֶּחָצֵר, שִׁיתּוּפֵי מְבוֹאוֹת — בֶּחָצֵר שֶׁבַּמָּבוֹי.
+*Translation:* **Abaye said to Rabba:** A *baraita* **was taught that supports you. Joinings of courtyards** are deposited **in a courtyard, and mergings of alleyways** are placed **in an alleyway. And we discussed** this *baraita* and raised a difficulty: How can it be that ***eiruvin* of courtyards** are deposited **in a courtyard? But didn’t we learn** in the mishna: If **one deposited his *eiruv* in a gatehouse,** or in **a portico, or** in **a balcony it is not a** valid ***eiruv*?** The mishna clearly indicates that the *eiruv* may not be deposited in the airspace of a courtyard. Rather, you must **say** that the *baraita* should read as follows: ***Eiruvin* of a courtyard** are placed **in a house in** that **courtyard;** whereas **mergings of alleyways** are placed **in a courtyard** that opens **into** that **alleyway.**
+
+**18.**
+*Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: אִם יֵשׁ שָׁם תְּפִיסַת יָד וְכוּ׳. הֵיכִי דָּמֵי תְּפִיסַת יָד? כְּגוֹן חֲצֵירוֹ שֶׁל בּוֹנְיָיס.
+*Translation:* We learned in the mishna that **Rabbi Yehuda says: If** the homeowner **has there,** in the hay shed or one of the other places listed, **a right of usage,** the person living there does not render the courtyard prohibited. The Gemara asks: **What are the circumstances of a right of usage?** The Gemara answers: **For example, the courtyard of** a man named **Bonyas,** an extremely wealthy individual who allowed various people to take up residence on his property, and he kept some of his many possessions in the living quarters assigned to those people. As he retained the right to remove his articles from their apartments, those areas continued to be regarded as quarters belonging to Bonyas and the people living there were deemed members of his household.
+
+**19.**
+*Hebrew/Aramaic:* בֶּן בּוֹנְיָיס אֲתָא לְקַמֵּיהּ דְּרַבִּי, אֲמַר לְהוּ: פַּנּוּ מָקוֹם לְבֶן מֵאָה מָנֶה. אֲתָא אִינִישׁ אַחֲרִינָא, אֲמַר לְהוּ:
+*Translation:* The Gemara relates another incident involving Bonyas and his wealth: The **son of Bonyas came before Rabbi** Yehuda HaNasi. Realizing from his visitor’s clothing that he was dealing with a wealthy individual, Rabbi Yehuda HaNasi **said to** his attendants: **Make way for one** who possesses **one hundred *maneh*,** i.e., one hundred times one hundred *zuz*, as one of this status deserves to be honored in accordance with his riches. Later, **another person came** before him, and Rabbi Yehuda HaNasi once again turned to his attendants and **said to them:**

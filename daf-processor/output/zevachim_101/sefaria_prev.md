@@ -1,0 +1,77 @@
+### Zevachim 100b
+
+**1.**
+*Hebrew/Aramaic:* רָבָא אָמַר: אִידֵּי וְאִידֵּי אַחַר חֲצוֹת, וְלָא קַשְׁיָא; כָּאן קוֹדֶם שֶׁשָּׁחֲטוּ וְזָרְקוּ עָלָיו, כָּאן לְאַחַר שֶׁשָּׁחֲטוּ וְזָרְקוּ עָלָיו.
+*Translation:* **Rava said** there is a different resolution to the contradiction between the statements of Rabbi Shimon. Both **this** *baraita* **and that** *baraita* are discussing cases where the relative died **after midday** on the fourteenth of Nisan, **and** still it is **not difficult. Here,** his relative died **before** the priests would have **slaughtered** the Paschal offering **and sprinkled** its blood **on his account,** and he may not send the offering. **There,** the relative died **after** the priests **slaughtered** the Paschal offering **and sprinkled** its blood **on his account.** Since acute mourning at night is by rabbinic law, it is suspended to allow him to consume an offering that was already sacrificed.
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַדָּא בַּר מַתְנָה לְרָבָא: אַחַר שֶׁשָּׁחֲטוּ וְזָרְקוּ אֶת דָּמוֹ – מָה דַּהֲוָה הֲוָה! אֲמַר לֵיהּ רָבִינָא: אֲכִילַת פְּסָחִים מְעַכְּבָא, מִדְּרַבָּה בַּר רַב הוּנָא. אֲמַר לֵיהּ: צָיֵית מַאי דְּקָאָמַר לָךְ רַבָּךְ.
+*Translation:* **Rav Adda bar Mattana said to Rava:** In a case where one’s relative died **after** the priests **slaughtered** the Paschal offering **and sprinkled its blood,** why should he be permitted to partake of the Paschal offering? **What was, was,** and although the offering was sacrificed, isn’t he still an acute mourner by rabbinic law? **Ravina said to** Rav Adda bar Mattana: **Partaking of** the **Paschal offering is indispensable** for the mitzva, as is seen **from that which Rabba bar Rav Huna** taught, as the Gemara will explain. Therefore, the Sages did not prohibit the acute mourner from partaking of the Paschal offering as they do for other offerings, for which consumption of the meat is dispensable. Rava **said to** Rav Adda bar Mattana: **Listen to what your master,** Ravina, **told you,** as his explanation is correct.
+
+**3.**
+*Hebrew/Aramaic:* מַאי דְּרַבָּה בַּר רַב הוּנָא? דְּתַנְיָא: יוֹם שְׁמוּעָה כְּיוֹם קְבוּרָה לְמִצְוַת שִׁבְעָה וּשְׁלֹשִׁים; וְלַאֲכִילַת פְּסָחִים – כְּיוֹם לִיקּוּט עֲצָמוֹת. אֶחָד זֶה וְאֶחָד זֶה – טוֹבֵל וְאוֹכֵל בַּקֳּדָשִׁים לָעֶרֶב.
+*Translation:* **What** is the statement **of Rabba bar Rav Huna** that teaches that partaking of the Paschal offering is indispensable? **As it is taught** in a *baraita*: **The day** that a person receives **tidings** that his relative died is considered **as** if it were **the day of burial** with regard **to the mitzva of** the **seven**-day mourning period, when he may not bathe or wear shoes, **and** with regard to the **thirty**-day period when he may not wear ironed garments. **And with regard to partaking of** the **Paschal offering,** the day he receives the tidings is **like the day of the gathering of** the **bones** of the deceased after the flesh decomposed (see *Pesaḥim* 92a). In **both this and that** case, **he immerses and partakes of sacrificial** meat **in the evening.**
+
+**4.**
+*Hebrew/Aramaic:* הָא גּוּפַהּ קַשְׁיָא! אָמְרַתְּ יוֹם שְׁמוּעָה כְּיוֹם קְבוּרָה לְמִצְוַת שִׁבְעָה וּשְׁלֹשִׁים, וְלַאֲכִילַת פְּסָחִים כְּיוֹם לִיקּוּט עֲצָמוֹת – מִכְּלָל דְּיוֹם קְבוּרָה אֲפִילּוּ לָעֶרֶב נָמֵי לָא אָכֵיל; וַהֲדַר תָּנֵי: אֶחָד זֶה וְאֶחָד זֶה טוֹבֵל וְאוֹכֵל בַּקֳּדָשִׁים לָעֶרֶב!
+*Translation:* The Gemara challenges: **This** *baraita* **itself** is **difficult.** At first **you say: The day of tidings** is considered **as** if it were **the day of burial for the mitzva of** the **seven**-day **and thirty**-day mourning periods; **and with regard to partaking of** the **Paschal offering,** it is **like the day of the gathering of bones,** when one may immerse and partake of sacrificial meat in the evening. **By inference,** one concludes **that** on **the day of burial, he** may **not partake** of the Paschal offering **even in the evening,** and all the more so other sacrificial meat. **And then** it **is taught:** In **both this and that** case, i.e., on both the day of burial and the day of the gathering of bones, **he immerses and partakes of sacrificial** meat **in the evening.**
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: תַּנָּאֵי הִיא.
+*Translation:* **Rav Ḥisda said:** Whether it is permitted to partake of sacrificial meat the night after the day of burial **is** a dispute between ***tanna’im*,** as the Gemara will explain.
+
+**6.**
+*Hebrew/Aramaic:* רַבָּה בַּר רַב הוּנָא אָמַר: לָא קַשְׁיָא; כָּאן שֶׁשָּׁמַע שְׁמוּעָה עַל מֵתוֹ סָמוּךְ לִשְׁקִיעַת הַחַמָּה, וְכֵן שֶׁלִּיקְּטוּ לוֹ עֲצָמוֹת סָמוּךְ לִשְׁקִיעַת הַחַמָּה, וְכֵן שֶׁמֵּת לוֹ מֵת וּקְבָרוֹ סָמוּךְ לִשְׁקִיעַת הַחַמָּה; וְכָאן לְאַחַר שְׁקִיעַת הַחַמָּה.
+*Translation:* **Rabba bar Rav Huna said:** This is **not difficult. Here,** in the latter clause, where the *baraita* teaches that on both the day of burial and the day of the gathering of bones he immerses and partakes of sacrificial meat in the evening, it is referring to a case **where he heard tidings of his dead** relative **just before sunset, and likewise** a case **where they gathered** the **bones for him just before sunset, and likewise** a case **where his** relative **died and he buried him just before sunset. But there,** in the first clause, from which it is inferred that he may not consume any sacrificial meat the night after the day of burial, the burial occurred **after sunset,** i.e., on the night of the fifteenth of Nisan itself.
+
+**7.**
+*Hebrew/Aramaic:* לְאַחַר שְׁקִיעַת הַחַמָּה – מַאי דַהֲוָה הֲוָה! אֶלָּא שְׁמַע מִינַּהּ: אֲכִילַת פְּסָחִים מְעַכְּבָא.
+*Translation:* The Gemara objects: If so, why not say that even if he gathered bones **after sunset,** then **what was, was?** Why did the Sages permit him to partake of the Paschal offering, as opposed to other sacrificial meat? **Rather, learn from** this *baraita* that **partaking of** the **Paschal offering is indispensable** to fulfilling the obligation, and due to the severity of the mitzva, the Sages suspended their decree prohibiting one from partaking of it.
+
+**8.**
+*Hebrew/Aramaic:* רַב אָשֵׁי אָמַר: מַאי אֶחָד זֶה וְאֶחָד זֶה? הָכִי קָאָמַר: אֶחָד יוֹם שְׁמוּעָה וְאֶחָד יוֹם לִיקּוּט – טוֹבֵל וְאוֹכֵל בַּקֳּדָשִׁים לָעֶרֶב.
+*Translation:* **Rav Ashi said** there is another resolution to this question: **What** is meant by the latter clause in the *baraita*: In **both this and that** case? It does not mean both the day of burial and the day of the gathering of bones. Rather, **this** is what the *baraita* **is saying: Both** on **the day of tidings and** on **the day of** the **gathering** of bones, the mourner **immerses and partakes of sacrificial** meat **in the evening.** But after the day of burial, he may not partake of the Paschal offering, and all the more so of other sacrificial meat, as indicated in the first clause in the *baraita*.
+
+**9.**
+*Hebrew/Aramaic:* וְהָא דְּרַב אָשֵׁי בְּדוּתָא הִיא; מִכְּדֵי עֲלַהּ קָאֵי, ״זֶה וָזֶה״ מִיבְּעֵי לֵיהּ! אֶלָּא שְׁמַע מִינַּהּ בְּדוּתָא הִיא.
+*Translation:* The Gemara notes: **And this** resolution **of Rav Ashi is a mistake, since** the *tanna* is already **discussing those** two cases and equating them. According to Rav Ashi’s resolution, it is extraneous to say: In both this and that case; the *tanna* **should have** simply said: In **this and that** case. **Rather, learn from** the language of the *baraita* that Rav Ashi’s resolution **is a mistake.**
+
+**10.**
+*Hebrew/Aramaic:* וּמַאי תַּנָּאֵי? דְּתַנְיָא: עַד מָתַי מִתְאוֹנֵן עָלָיו? כׇּל הַיּוֹם. רַבִּי אוֹמֵר: כׇּל זְמַן שֶׁלֹּא נִקְבַּר.
+*Translation:* The Gemara returns to discuss Rav Ḥisda’s resolution: **And what** is the dispute between ***tanna’im*** with regard to the night following the day of burial? **As it is taught** in a *baraita*: **Until when** does a person **mourn acutely for** his relative, such that he is prohibited to partake of sacrificial meat? **The entire day. Rabbi** Yehuda HaNasi **says: As long as** his relative **has not been buried.**
+
+**11.**
+*Hebrew/Aramaic:* בְּמַאי עָסְקִינַן? אִילֵימָא בְּיוֹם מִיתָה – מִי אִיכָּא דְּלֵית לֵיהּ דְּיוֹם מִיתָה דְּתָפֵיס לֵילוֹ מִדְּרַבָּנַן?!
+*Translation:* The Gemara asks: **What are we dealing with? If we say** we are dealing **with the day of death, is there** a *tanna* **who does not hold that the day of death takes hold of its** following **night,** at least **by rabbinic law?** In accordance with whose opinion is the statement of the first *tanna*, who says that the acute mourning is only during the day, and not at night?
+
+**12.**
+*Hebrew/Aramaic:* וְתוּ, רַבִּי אוֹמֵר: כׇּל זְמַן שֶׁלֹּא נִקְבַּר. הָא קְבָרוֹ – אִישְׁתְּרִי לֵיהּ; וּמִי אִיכָּא דְּלֵית לֵיהּ ״וְאַחֲרִיתָהּ כְּיוֹם מָר״?!
+*Translation:* **And furthermore,** if we are dealing with the day of death, then when **Rabbi** Yehuda HaNasi **says: As long as** his relative **has not been buried,** it indicates that **consequently,** once he **has buried him, it becomes permitted for him** to partake of sacrificial meat, even on the day of death itself. **But is there** a *tanna* **who does not hold** that acute mourning extends for the entire day of death, even after burial? The verse states: “And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning for an only son, **and the end thereof as a bitter day”** (Amos 8:10).
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: אַיּוֹם קְבוּרָה קָאֵי.
+*Translation:* **Rav Sheshet said:** The *tanna* of this *baraita* is **discussing the day of burial** when it is not the day of death. The *tanna’im* disagree whether the acute mourning lasts only until the burial, or until the end of the day of burial.
+
+**14.**
+*Hebrew/Aramaic:* מַתְקֵיף רַב יוֹסֵף, אֶלָּא הָא דְּקָתָנֵי: הַשּׁוֹמֵעַ עַל מֵתוֹ – כִּמְלַקֵּט עֲצָמוֹת, טוֹבֵל וְאוֹכֵל בַּקֳּדָשִׁים לָעֶרֶב; מִכְּלָל דְּיוֹם קְבוּרָה – אֲפִילּוּ לָעֶרֶב נָמֵי לָא אָכֵיל; הָא מַנִּי? אֶלָּא תָּרֵיץ: עַד מָתַי מִתְאוֹנְנִין עָלָיו? כׇּל אוֹתוֹ הַיּוֹם וְלֵילוֹ. רַבִּי אוֹמֵר: כׇּל זְמַן שֶׁלֹּא נִקְבַּר; [אֲבָל נִקְבַּר] – בְּלֹא לֵילוֹ.
+*Translation:* **Rav Yosef objects** to this: **But** there is **that which is taught** in a *baraita*: **One who hears** tidings **of his dead** relative is considered **as one who gathers** his relative’s **bones,** in that he may **immerse and partake of sacrificial** meat **in the evening. By inference,** on **the day of burial he may not partake even in the evening.** In accordance with **whose** opinion **is this?** This is the opinion of neither the first *tanna* nor Rabbi Yehuda HaNasi. **Rather,** one must **answer** that the *baraita* means: **Until when** does a person **mourn acutely for** his relative? **That entire day** of burial **and its** following **night. Rabbi** Yehuda HaNasi **says:** He continues into the night only **as long as** his relative **has not been buried; but** once he **is buried,** the acute mourning lasts only for the rest of the day, **without its night.**
+
+**15.**
+*Hebrew/Aramaic:* אַמְרוּהָ קַמֵּיהּ דְּרַבִּי יִרְמְיָה, אָמַר: גַּבְרָא רַבָּה כְּרַב יוֹסֵף לֵימָא הָכִי?! לֵימָא דְּרַבִּי לְקוּלָּא?! וְהָתַנְיָא: עַד מָתַי מִתְאוֹנֵן עָלָיו? כׇּל זְמַן שֶׁאֵינוֹ נִקְבָּר, אֲפִילּוּ מִכָּאן וְעַד עֲשָׂרָה יָמִים. דִּבְרֵי רַבִּי. וַחֲכָמִים אוֹמְרִים: אֵין מִתְאוֹנֵן עָלָיו אֶלָּא אוֹתוֹ הַיּוֹם בִּלְבַד!
+*Translation:* The Sages **said this** statement of Rav Yosef **before Rabbi Yirmeya.** Rabbi Yirmeya **said** in surprise: **Would a great man like Rav Yosef say this? Would he say** that the opinion **of Rabbi** Yehuda HaNasi is the more **lenient** of the two? **But isn’t it taught** in a *baraita*: **Until when** does a person **mourn acutely for** his relative? **As long as** his relative **has not been buried, even** if he remains unburied **from now until ten days** from now. This is **the statement of Rabbi** Yehuda HaNasi. **And the Sages say: He mourns acutely for** his relative **only on that** same **day.** The opinion of Rabbi Yehuda HaNasi is more stringent than that of the Sages.
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא תָּרֵיץ הָכִי: עַד מָתַי הוּא מִתְאוֹנֵן עָלָיו? כׇּל אוֹתוֹ הַיּוֹם בְּלֹא לֵילוֹ. רַבִּי אוֹמֵר: כׇּל זְמַן שֶׁלֹּא נִקְבַּר. וְאִם נִקְבַּר – תּוֹפֵס לֵילוֹ.
+*Translation:* **Rather, answer like this: Until when** does a person **mourn acutely for** his relative? **That entire day** of burial, **without its night. Rabbi** Yehuda HaNasi **says:** The acute mourning continues **as long as** his relative **has not been buried,** even for ten days, **and once he is buried,** that day **takes hold of its night.** This is the dispute to which Rav Ḥisda referred.
+
+**17.**
+*Hebrew/Aramaic:* אַמְרוּהָ קַמֵּיהּ דְּרָבָא; מִדְּקָאָמַר רַבִּי: יוֹם קְבוּרָה תּוֹפֵס לֵילוֹ מִדְּרַבָּנַן – מִכְּלָל דְּיוֹם מִיתָה תּוֹפֵס לֵילוֹ מִדְּאוֹרָיְיתָא;
+*Translation:* The Sages **said this** statement **before Rava.** Rava said: **Since Rabbi** Yehuda HaNasi **says** that **the day of burial,** when acute mourning is by rabbinic law, **takes hold of its night by rabbinic law, by inference,** he must hold **that the day of death,** when acute mourning is by Torah law, **takes hold of its night by Torah law.** The Sages would not be more stringent with their ordinance than the parallel law of the Torah.
+
+**18.**
+*Hebrew/Aramaic:* וְסָבַר רַבִּי אֲנִינוּת לַיְלָה דְּאוֹרָיְיתָא?! וְהָתַנְיָא: ״הֵן הַיּוֹם״ – אֲנִי הַיּוֹם אָסוּר וְלַיְלָה מוּתָּר, וּלְדוֹרוֹת בֵּין בַּיּוֹם וּבֵין בַּלַּיְלָה אָסוּר. דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי אוֹמֵר: אֲנִינוּת לַיְלָה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים!
+*Translation:* The Gemara objects: **And does Rabbi** Yehuda HaNasi **hold** that **acute mourning at night is by Torah law? But isn’t it taught** in a *baraita*: On the last day of the inauguration of the Tabernacle, after two of Aaron’s sons died, Aaron said to Moses: **“Behold,** today…there have befallen me such things as these; and if I had consumed the sin offering today, would it have been good in the eyes of the Lord?” (Leviticus 10:19). The word “today” teaches that Aaron is saying: **I am prohibited** from partaking **today but permitted** to partake at **night; but for** future **generations,** an acute mourner is **prohibited** from partaking of sacrificial meat **whether during the day or at night.** This is **the statement of Rabbi Yehuda. Rabbi** Yehuda HaNasi **says:** For future generations, **acute mourning at night is not by Torah law,** but **rather by rabbinic law.**
+
+**19.**
+*Hebrew/Aramaic:* לְעוֹלָם דְּרַבָּנַן הִיא,
+*Translation:* The Gemara answers: **Actually,** Rabbi Yehuda HaNasi holds that acute mourning on the night after death **is by rabbinic law,** not Torah law.

@@ -29,6 +29,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.graphics.FilterQuality
@@ -55,7 +56,8 @@ fun DafPageView(
     amud: Int,                              // 0 = amud aleph (a), 1 = amud bet (b)
     pdfViewModel: PdfViewModel,
     onDafAmudChange: (daf: Int, amud: Int) -> Unit,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    foregroundColor: Color = Color.White
 ) {
     val dafInt = daf.toInt()
     val sideA = amud == 0
@@ -84,7 +86,7 @@ fun DafPageView(
             Text(
                 "No image for daf $dafInt${if (sideA) "a" else "b"}",
                 style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+                color = foregroundColor.copy(alpha = 0.6f)
             )
         }
         return
@@ -109,12 +111,12 @@ fun DafPageView(
             filterQuality = FilterQuality.High,
             loading = {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                    CircularProgressIndicator(modifier = Modifier.size(32.dp))
+                    CircularProgressIndicator(modifier = Modifier.size(32.dp), color = foregroundColor)
                 }
             },
             error = {
                 Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                    Text("Image unavailable", style = MaterialTheme.typography.bodySmall)
+                    Text("Image unavailable", style = MaterialTheme.typography.bodySmall, color = foregroundColor)
                 }
             },
             modifier = Modifier

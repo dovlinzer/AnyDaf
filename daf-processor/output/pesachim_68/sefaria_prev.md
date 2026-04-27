@@ -1,0 +1,53 @@
+### Pesachim 67b
+
+**1.**
+*Hebrew/Aramaic:* כִּי הַאי גַוְונָא — זָב נָמֵי טַמּוֹיֵי מְטַמֵּי בְּאוֹנֶס כִּדְרַב הוּנָא. דְּאָמַר רַב הוּנָא: רְאִיָּה רִאשׁוֹנָה שֶׁל זָב מְטַמְּאָה בְּאוֹנֶס.
+*Translation:* **In a case like this,** meaning, if we compare the two cases in this way, **a *zav* also becomes impure through an accident, in accordance with** the opinion of **Rav Huna, for Rav Huna said: The first sighting of a *zav* establishes ritual impurity** even **through an accident.** In order to contract the more severe ritual impurity of a *zav* that lasts seven days, a man must experience at least two *zav* discharges. If he has only a single discharge, he contracts a less severe ritual impurity that lasts until evening, like one who experienced a seminal emission. This first discharge establishes impurity even if it results from some accident, and no effort is made to attribute it to some other factor.
+
+**2.**
+*Hebrew/Aramaic:* מַאי חוּמְרֵיהּ דִּמְצוֹרָע מִזָּב? שֶׁכֵּן טָעוּן פְּרִיעָה וּפְרִימָה, וְאָסוּר בְּתַשְׁמִישׁ הַמִּטָּה. אַדְּרַבָּה זָב חָמוּר, שֶׁכֵּן מְטַמֵּא מִשְׁכָּב וּמוֹשָׁב, וּמְטַמֵּא כְּלִי חֶרֶס בְּהֶיסֵּט.
+*Translation:* The Gemara asks further: **What is the stringency of a leper over a *zav*? That** a confirmed leper **is required to let his hair grow and rend his garments and he is prohibited from marital relations,** none of which applies to a *zav*. But **on the contrary,** there is room to say that the legal status of **a *zav* is** more **severe, for** a *zav* **imparts ritual impurity to that upon which he lies or sits** even if he does not come into direct contact with it, **and he imparts ritual impurity to an earthenware vessel through movement.** If he causes an earthenware vessel to move, it becomes ritually impure even if he touches it on the outside, and even if he does not touch the vessel at all. Ordinarily, an earthenware vessel becomes impure only through contact on the inside of the vessel.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר קְרָא ״זָב״, ״וְכׇל זָב״, לְרַבּוֹת בַּעַל קֶרִי. וּמְצוֹרָע חָמוּר מִבַּעַל קֶרִי.
+*Translation:* The Gemara answers: **The verse states** not just **“*zav*”** but **“and any *zav*,”** and this inclusive expression “any” comes **to include a person who experienced a seminal emission,** whose impurity is of the same type as a *zav*, **and** it is clear that the legal status of **a leper is more severe than a person who experienced a seminal emission.** We can therefore derive through an *a fortiori* inference that if one who experienced a seminal emission is prohibited from entering a certain camp, a leper is certainly prohibited from entering that camp.
+
+**4.**
+*Hebrew/Aramaic:* וּמַאי חוּמְרֵיהּ — כְּדַאֲמַרַן. אַדְּרַבָּה: בַּעַל קֶרִי חָמוּר, שֶׁכֵּן מְטַמֵּא בְּמַשֶּׁהוּ!
+*Translation:* The Gemara asks: **And what is his stringency?** In what way is the legal status of a leper more severe than one who experienced a seminal emission? **As we said,** that he must let his hair grow and rend his garments and he is prohibited to engage in marital relations. But we may ask: **On the contrary,** there is room to say that the legal status of **one who experienced a seminal emission is** more **severe, for he becomes ritually impure** even **with any amount.** For the Torah did not specify an amount of semen that must be emitted in order to become impure, and one therefore becomes impure upon emitting even a minute amount, whereas leprous signs do have a minimum measure.
+
+**5.**
+*Hebrew/Aramaic:* סָבַר לַהּ כְּרַבִּי נָתָן. דְּתַנְיָא: רַבִּי נָתָן אוֹמֵר מִשּׁוּם רַבִּי יִשְׁמָעֵאל: זָב צָרִיךְ כַּחֲתִימַת פִּי הָאַמָּה, וְלֹא הוֹדוּ לוֹ חֲכָמִים. וְאִיתַּקַּשׁ לֵיהּ בַּעַל קֶרִי לְזָב.
+*Translation:* The Gemara answers: **He holds in accordance** with the opinion of **Rabbi Natan, as it was taught** in a *baraita*: **Rabbi Natan says in the name of Rabbi Yishmael:** In order for **a *zav*** to become ritually impure, he **needs** to experience a discharge substantial enough to cause **a blockage of the tip of the** male **organ. But the Rabbis did not agree with him.** Thus, according to Rabbi Natan, a *zav* only becomes ritually impure if he experiences a discharge of a particular amount. **And one who experienced a seminal emission is compared to a *zav*** and therefore the same amount of discharge is required in order to cause ritual impurity. Therefore, the ritual impurity of a leper is more severe than that of one who experienced a seminal emission, and the original *a fortiori* inference applies.
+
+**6.**
+*Hebrew/Aramaic:* ״וְכׇל צָרוּעַ״ לְמָה לִי? אַיְּידֵי דִּכְתִיב ״כׇּל זָב״, כְּתִיב נָמֵי ״כׇּל צָרוּעַ״.
+*Translation:* The Gemara asks: The expressions “any *zav*” and “anyone impure” teach that their respective categories are more inclusive than one would otherwise have thought. But **why do I** need the inclusive expression **“and any leper”?** What does the word “any” include? The Gemara explains: Since **it is written “any *zav*,” it is also written “any leper,”** so that the wording of the verse will be consistent.
+
+**7.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה, שַׁפִּיר קָאָמַר רַבִּי שִׁמְעוֹן?
+*Translation:* The Gemara challenges the opinion of **Rabbi Yehuda** quoted above: **Rabbi Shimon spoke well** when he derived the three camps from which the three different classes of people are sent out from the verse: “That they send out from the camp any leper and any *zav* and anyone impure by reason of a corpse.” How does Rabbi Yehuda counter this argument?
+
+**8.**
+*Hebrew/Aramaic:* הַהוּא מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: יָכוֹל דָּחֲקוּ זָבִין וּמְצוֹרָעִין וְנִכְנְסוּ לָעֲזָרָה בְּפֶסַח הַבָּא בְּטוּמְאָה, יָכוֹל יְהוּ חַיָּיבִין, תַּלְמוּד לוֹמַר: ״וִישַׁלְּחוּ מִן הַמַּחֲנֶה כׇּל צָרוּעַ וְכׇל זָב וְכֹל טָמֵא לָנֶפֶשׁ״. בְּשָׁעָה שֶׁטְּמֵאֵי מֵתִים מִשְׁתַּלְּחִין — זָבִין וּמְצוֹרָעִין מִשְׁתַּלְּחִין, אֵין טְמֵאֵי מֵתִים מִשְׁתַּלְּחִין — אֵין זָבִין וּמְצוֹרָעִין מִשְׁתַּלְּחִין.
+*Translation:* The Gemara answers: **He needs that** verse **for that which was taught** in a different *baraita*: **Rabbi Eliezer says:** One **might** have thought that **if *zavin* and lepers pushed and entered** the Temple **courtyard during** the offering of **a Paschal lamb that is brought in** a state of **impurity,** when the majority of the nation are ritually impure due to contact with a corpse, that **perhaps they would be liable** for punishment for having violated the prohibition of entering the Temple while ritually impure. They are prohibited from entering even under such circumstances. **Therefore the verse states: “That they send out from the camp any leper and any *zav* and anyone impure by reason of a corpse”** (Numbers 5:2), which teaches us that **at a time when those impure due to a corpse are sent out, *zavin* and lepers are sent out** and are liable to *karet* for entering the Temple; but when **those impure due to a corpse are not sent out, *zavin* and lepers are not sent out,** meaning, they are not liable to receive *karet* for entering the Temple.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר מָר: ״זָב״, ״וְכׇל זָב״ — לְרַבּוֹת בַּעַל קֶרִי. מְסַיַּיע לֵיהּ לְרַבִּי יוֹחָנָן. דְּאָמַר רַבִּי יוֹחָנָן: מְחִילּוֹת לֹא נִתְקַדְּשׁוּ, וּבַעַל קֶרִי מִשְׁתַּלֵּחַ חוּץ לִשְׁתֵּי מַחֲנוֹת.
+*Translation:* **The Master said** above: The fact that the verse does not just say **“*zav*”** but rather the inclusive expression **“and any *zav*”** comes **to include a person who experienced a seminal emission.** The Gemara notes: This exposition **supports** the opinion of **Rabbi Yoḥanan, for Rabbi Yoḥanan said: The tunnels** under the Temple **were not sanctified** with the sanctity of the Temple; **and a person who experienced a seminal emission is sent outside the two camps** just like a *zav*. The exposition quoted above supports this second ruling of Rabbi Yoḥanan.
+
+**10.**
+*Hebrew/Aramaic:* מֵיתִיבִי: בַּעַל קֶרִי כְּמַגַּע שֶׁרֶץ, מַאי לָאו לְמַחֲנוֹתָם? לֹא, לְטוּמְאָתָם.
+*Translation:* The Gemara **raises an objection** based on what we learned in a mishna: The law governing **a person who experienced a seminal emission is like** the law governing someone who became ritually impure through **contact with a creeping animal. What, is** the intent **not** to compare them with regard to **their** respective **camps,** that one who experienced a seminal emission is prohibited from the same camps that are prohibited to one who touched a creeping animal? Thus, it follows that a person who experienced a seminal emission is permitted to enter the Levite camp. The Gemara answers: **No,** they are compared with regard to **their impurity,** in that each is impure only until the evening.
+
+**11.**
+*Hebrew/Aramaic:* לְטוּמְאָתָם?! הַאי טוּמְאַת עֶרֶב כְּתִיב בֵּיהּ, וְהַאי טוּמְאַת עֶרֶב כְּתִיב בֵּיהּ! אֶלָּא לָאו, לְמַחֲנוֹתָם!
+*Translation:* The Gemara expresses surprise: Why did the mishna need to teach that they are comparable with regard to **their impurity? Impurity until evening is** explicitly **written** in the Torah **about this one,** meaning that one who came into contact with a creeping animal is impure until the evening and then must undergo ritual immersion in order to become pure, as it states: “And for these you shall be unclean; whoever touches the carcass of them shall be unclean until evening” (Leviticus 11:24). **And impurity until evening is** explicitly **written about that one,** one who experienced a seminal emission, as it states: “And if semen goes out from a man, then shall he bathe all his flesh in water and be unclean until evening” (Leviticus 15:16). **Rather, is it not** that they are compared with regard to **their camps,** which is not explicit in the Torah?
+
+**12.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם לְטוּמְאָתָם, וְהָא קָמַשְׁמַע לַן דְּבַעַל קֶרִי כְּמַגַּע שֶׁרֶץ: מָה מַגַּע שֶׁרֶץ מְטַמֵּא בְּאוֹנֶס — אַף בַּעַל קֶרִי מְטַמֵּא בְּאוֹנֶס.
+*Translation:* The Gemara answers: **No, actually** it is possible to say that the comparison relates to **their impurity, and it teaches us that a person who experienced seminal emission is** governed by **the same** law **as** someone who became ritually impure through **contact with a creeping animal** in another regard: **Just as contact with a creeping animal imparts ritual impurity through an accident,** even when the contact is unintentional, **so too a person who experienced a seminal emission becomes ritually impure through an accident,** even when the emission of semen is unintentional, unlike the law governing a *zav*.
+
+**13.**
+*Hebrew/Aramaic:* מֵיתִיבִי:
+*Translation:* The Gemara **raises an objection:**

@@ -1,0 +1,73 @@
+### Rosh Hashanah 6b
+
+**1.**
+*Hebrew/Aramaic:* שֶׁהָיָה חוֹלֶה בָּעֲצֶרֶת. רַב אָשֵׁי אָמַר: מַאי ״וְאָכַלְנוּ וְלָדָהּ שְׁלָמִים בֶּחָג״ דְּקָתָנֵי — חַג הַשָּׁבוּעוֹת.
+*Translation:* in a case **where** the offspring **was sick on *Shavuot*,** and therefore it could be brought to the altar only on the next Festival. **Rav Ashi said** an alternative explanation: **What is** the statement: **And we ate its offspring as a peace-offering on the Festival,** coming to **teach?** This is not referring to the festival of *Sukkot*, which is the usual meaning of the term the Festival; rather, it is referring to **the festival of *Shavuot*.** Therefore, there is no difficulty here whatsoever.
+
+**2.**
+*Hebrew/Aramaic:* וְאִידַּךְ: כֹּל הֵיכָא דְּתָנֵי פֶּסַח, תָּנֵי עֲצֶרֶת.
+*Translation:* The Gemara asks: **And** what does **the other** *amora*, Rav Zevid, say to this? He argues that **anywhere that** the *tanna* **teaches** a *halakha* concerning Passover using the term ***Pesaḥ*, he** **teaches** the *halakha* concerning *Shavuot* using the term ***Atzaret***, not the term *Ḥag*. In such a context, the term *Ḥag* is reserved exclusively for *Sukkot*.
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רָבָא: כֵּיוָן שֶׁעָבְרוּ עָלָיו שְׁלֹשָׁה רְגָלִים, בְּכׇל יוֹם וָיוֹם עוֹבֵר בְּ״בַל תְּאַחֵר״. מֵיתִיבִי: אֶחָד בְּכוֹר, וְאֶחָד כׇּל הַקֳּדָשִׁים, כֵּיוָן שֶׁעָבְרוּ עֲלֵיהֶם שָׁנָה בְּלֹא רְגָלִים, רְגָלִים בְּלֹא שָׁנָה — עוֹבֵר בְּ״בַל תְּאַחֵר״.
+*Translation:* **Rava said: Once three Festivals have passed, every day he transgresses** the prohibition: **You shall not delay.** The Gemara **raises an objection** from that which is taught in the following *baraita*: In the case of **both a firstborn** animal **and all consecrated animals, once a year has passed without** three **Festivals**, or **three Festivals have passed without a year** elapsing, the owner **transgresses** the prohibition: **You shall not delay.**
+
+**4.**
+*Hebrew/Aramaic:* וְהַאי מַאי תְּיוּבְתֵּיהּ? אָמַר רַב כָּהֲנָא: מַאן דְּקָא מוֹתֵיב — שַׁפִּיר קָא מוֹתֵיב: מִכְּדֵי תַּנָּא אַלָּאוֵי קָא מְהַדַּר, לִיתְנֵי: בְּכׇל יוֹם וָיוֹם עוֹבֵר בְּ״בַל תְּאַחֵר״.
+*Translation:* The Gemara first expresses its astonishment at the question itself: **What is this objection?** What is the comparison between this ruling and the statement of Rava? **Rav Kahana said: He who raises an objection** here **raises a valid objection,** and this is the way the question should be understood. **Since the *tanna*** of the *baraita* **is looking for prohibitions** to add, and he shows that the prohibition applies in additional cases, then if Rava is correct, **let** the *tanna* of the *baraita* **teach** that once three Festivals have passed **he transgresses** the prohibition: **You shall not delay, every single day.**
+
+**5.**
+*Hebrew/Aramaic:* וְאִידַּךְ — תַּנָּא לְמִיקְבְּעֵיהּ בְּלָאו קָא מְהַדַּר, בְּלָאוֵי יְתֵירִי לָא קָא מְהַדַּר.
+*Translation:* **And** how does **the other** *amora*, Rava, explain the *baraita*? He understands that **the *tanna* is** trying **to establish** the action only **as subject to a prohibition,** i.e., he merely wishes to set the parameters of the prohibition; but once the action is established as prohibited, **he is not looking for additional prohibitions.**
+
+**6.**
+*Hebrew/Aramaic:* גּוּפָא: אֶחָד בְּכוֹר וְאֶחָד כׇּל הַקֳּדָשִׁים, כֵּיוָן שֶׁעָבְרוּ עֲלֵיהֶם שָׁנָה בְּלֹא רְגָלִים, רְגָלִים בְּלֹא שָׁנָה — עוֹבֵר בְּ״בַל תְּאַחֵר״. בִּשְׁלָמָא רְגָלִים בְּלֹא שָׁנָה מַשְׁכַּחַתְּ לַהּ, אֶלָּא שָׁנָה בְּלֹא רְגָלִים הֵיכִי מַשְׁכַּחַתְּ לַהּ?
+*Translation:* The Gemara proceeds to discuss **the** matter **itself,** i.e., the *baraita* cited above, which stated: In the case of **both a firstborn** animal **and all consecrated animals, once a year has passed,** even if three **Festivals** have **not** passed, or once three **Festivals have passed,** even if a whole **year** has **not** passed, the owner **transgresses** the prohibition: **You shall not delay. Granted,** it is possible to have three **Festivals without a year; you find it** because three Festivals can pass in half a year, between Passover and *Sukkot*. **But a year without** three **Festivals,** under **what circumstances** can **you find** this case? How can a year pass without three Festivals also passing?
+
+**7.**
+*Hebrew/Aramaic:* הָנִיחָא לְמַאן דְּאִית לֵיהּ כְּסִדְרָן, מַשְׁכַּחַתְּ לַהּ. אֶלָּא לְמַאן דְּלֵית לֵיהּ כְּסִדְרָן, הֵיכִי מַשְׁכַּחַתְּ לַהּ?
+*Translation:* The Gemara clarifies the question: **This** works out **well according to the one who is of** the opinion that one transgresses the prohibition against delaying only if the three Festivals have passed **in their** proper **order. You** can **find** a year without three Festivals in their proper order, e.g., if one made his vow shortly before *Shavuot*, in which case the year will end before *Shavuot* the following year, but three Festivals in order will not have elapsed until *Sukkot* of the third year. **But according to the one who is not** of the opinion that the three Festivals must be **in their** proper **order,** under **what circumstances** can **you find** this case of a year without three Festivals?
+
+**8.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַבִּי מַשְׁכַּחַתְּ לַהּ בְּשָׁנָה מְעוּבֶּרֶת. דְּתַנְיָא: ״שָׁנָה תְּמִימָה״, רַבִּי אוֹמֵר: מוֹנֶה שְׁלֹשׁ מֵאוֹת וְשִׁשִּׁים וַחֲמִשָּׁה יוֹם כְּמִנְיָן יְמוֹת הַחַמָּה,
+*Translation:* The Gemara clarifies again: **Granted, according to Rabbi** Yehuda HaNasi, **you find** a year without three Festivals **in a leap year, as it is taught** in a *baraita*: In the case of houses of walled cities, with regard to which an owner is given only one year to redeem his home if he sells it, after which it becomes the permanent possession of the purchaser, the verse states: “And if it be not redeemed within the space of **a full year”** (Leviticus 25:30). How is the year determined? **Rabbi** Yehuda HaNasi **says: One counts 365 days like the number of the days in a solar** year, and not the usual lunar year, which is why it is called a full year.
+
+**9.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: מוֹנֶה שְׁנֵים עָשָׂר חֹדֶשׁ מִיּוֹם לְיוֹם, וְאִם נִתְעַבְּרָה שָׁנָה — נִתְעַבְּרָה לוֹ. מַשְׁכַּחַתְּ לַהּ לְרַבִּי דְּאַקְדְּשַׁהּ בָּתַר חַג הַמַּצּוֹת, דְּכִי מְטָא שִׁילְהֵי אֲדָר בָּתְרָאָה — שָׁנָה מַלְיָא, רְגָלִים לָא מְלוּ. אֶלָּא לְרַבָּנַן, הֵיכִי מַשְׁכַּחַתְּ לַהּ?
+*Translation:* **And the Rabbis** disagree and **say: One counts twelve months from day to day,** from the date of the sale until that same date twelve months later, **and if it is a leap year** with an added month, **the leap** month is **for** the seller’s benefit, i.e., he has thirteen months to redeem his house. **You** can **find** a year without three Festivals **according to Rabbi** Yehuda HaNasi. How so? It is possible in a case **where one consecrated** the animal **after the festival of Passover, so that once he reaches the end of the second** month of **Adar** in a leap year, **the year is completed,** but **the Festivals are not** yet **completed,** as the third Festival is still to come. **But according to the Sages,** under **what circumstances** can **you find** this case of a year without three Festivals?
+
+**10.**
+*Hebrew/Aramaic:* כִּדְתָנֵי רַב שְׁמַעְיָה: עֲצֶרֶת פְּעָמִים חֲמִשָּׁה, פְּעָמִים שִׁשָּׁה, פְּעָמִים שִׁבְעָה. הָא כֵּיצַד? שְׁנֵיהֶן מְלֵאִין — חֲמִשָּׁה, שְׁנֵיהֶן חֲסֵרִין — שִׁבְעָה, אֶחָד מָלֵא וְאֶחָד חָסֵר — שִׁשָּׁה.
+*Translation:* The Gemara answers: **As Rav Shemaya taught** in a *baraita*: ***Shavuot* sometimes** occurs on **the fifth** of Sivan, **sometimes** on **the sixth** of Sivan, **and sometimes** on **the seventh. How so?** If **both** the months of Nisan and Iyyar **are full** months of thirty days each, the festival of *Shavuot*, which is celebrated fifty days after the second day of Passover, occurs on the **fifth** of Sivan; if **both** months **are short,** with twenty-nine days each, it occurs on the **seventh** of Sivan; and if **one** of them **is full and the other is short,** it occurs on **the sixth** of Sivan. According to this opinion, if both months were full and the festival of *Shavuot* occurred on the fifth day of Sivan, and one made his vow on the day after *Shavuot*, i.e., the sixth of Sivan, and in the following year both months were short, so that the festival of *Shavuot* occurred on the seventh of Sivan, a whole year would have passed without three Festivals.
+
+**11.**
+*Hebrew/Aramaic:* וּמַאן תַּנָּא דִּפְלִיג עֲלֵיהּ דְּרַב שְׁמַעְיָה — אֲחֵרִים הִיא. דְּתַנְיָא, אֲחֵרִים אוֹמְרִים: אֵין בֵּין עֲצֶרֶת לַעֲצֶרֶת, אֵין בֵּין רֹאשׁ הַשָּׁנָה לְרֹאשׁ הַשָּׁנָה, אֶלָּא אַרְבָּעָה יָמִים בִּלְבַד. וְאִם הָיְתָה שָׁנָה מְעוּבֶּרֶת — חֲמִשָּׁה.
+*Translation:* The Gemara comments: **And who is the *tanna*** who **disagrees with Rav Shemaya** and says that a year has a fixed number of days? **It is *Aḥerim*, as it is taught** in a *baraita*: ***Aḥerim* say: The difference between *Shavuot*** of one year and ***Shavuot*** of the following year, and similarly, **between Rosh HaShana** of one year and **Rosh HaShana** of the following year, **is only four days** of the week. There are 354 days in a lunar year, which are divided into twelve alternating months, six months that are thirty days long and six months that are twenty-nine days long. Therefore, every year is fifty weeks and four days long. **And if it were a leap year,** in which case the year is comprised of 383 days, or fifty-four weeks and five days, there is a difference of **five** days between them.
+
+**12.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי זֵירָא: יוֹרֵשׁ, מַהוּ בְּ״בַל תְּאַחֵר״? ״כִּי תִדּוֹר נֶדֶר״ אָמַר רַחֲמָנָא, וְהָא לָא נְדַר, אוֹ דִלְמָא: ״וּבָאתָ שָּׁמָּה וַהֲבֵאתֶם שָׁמָּה״, וְהָא מִיחַיַּיב.
+*Translation:* § **Rabbi Zeira asks:** In the case of **an heir, what is** the *halakha* **with regard to** the prohibition of: **You shall not delay?** That is to say, does an heir transgress the prohibition against delaying a vow taken by his father? The Gemara explains the two sides of the question: Is it that **the Merciful One states** in the Torah: **“When you shall vow a vow** to the Lord your God, you shall not delay paying it” (Deuteronomy 23:22), **and this** one, the heir, **did not make a vow? Or perhaps** the essence of the mitzva is as it says: **“And there you shall come; and there you shall bring** your burnt-offerings and your sacrifices” (Deuteronomy 12:5–6), **and this** one, the heir, **is obligated** to come and bring his father’s offerings.
+
+**13.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: דְּתָנֵי רַבִּי חִיָּיא — ״מֵעִמָּךְ״, פְּרָט לְיוֹרֵשׁ.
+*Translation:* **Come** and **hear** an answer to this, **as Rabbi Ḥiyya taught** a *baraita* that says: The verse states: “For the Lord your God will surely require it **from you”** (Deuteronomy 23:22), which is interpreted to mean: **To the exclusion of an heir.** This teaches that an heir does not transgress the prohibition against delaying a vow taken by his father.
+
+**14.**
+*Hebrew/Aramaic:* וְהַאי ״מֵעִמָּךְ״ מִיבְּעֵי לֵיהּ, זֶה לֶקֶט שִׁכְחָה וּפֵאָה! קְרִי בֵּיהּ ״עִמָּךְ״, וּקְרִי בֵּיהּ ״מֵעִמָּךְ״.
+*Translation:* The Gemara asks: **But this** phrase **“from you” is necessary** to teach a different *halakha*, namely, that one transgresses the prohibition against delaying even for **gleanings, forgotten sheaves, and the** produce of the **corner** of his field. The Gemara answers: Rabbi Ḥiyya derived two *halakhot* from this word. **He read into** the verse: **“You [*imakh*],”** which he expounded as coming to include gleanings, forgotten sheaves and the produce of the corner of the field in the prohibition, **and he read into** the verse: **“From you [*me’imakh*],”** with the extra letter *mem* coming to exclude an heir.
+
+**15.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי זֵירָא: אִשָּׁה, מַה הִיא בְּ״בַל תְּאַחֵר״? מִי אָמְרִינַן: הָא לָא מִיחַיְּיבָא בִּרְאִיָּה, אוֹ דִלְמָא הָא אִיתַהּ בְּשִׂמְחָה?
+*Translation:* § **Rabbi Zeira asks** another question on this topic: In the case of **a woman** who made a vow, **what is** the *halakha* **with regard to** the prohibition: **You shall not delay?** The Gemara explains: **Do we say** that since **she is not obligated to appear** in the Temple on the pilgrimage Festivals, as this obligation is a positive, time-bound mitzva, from which women are exempt, she also does not transgress if she is late in bringing her offering? **Or perhaps,** since **she is** obligated **in** the mitzva of **rejoicing** on a Festival, she should also be obligated in some of the other mitzvot connected to the day?
+
+**16.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: וְתִיפּוֹק לֵיהּ דְּהָא אִיתַהּ בְּשִׂמְחָה. וּמִי אָמַר אַבָּיֵי הָכִי? וְהָאָמַר אַבָּיֵי: אִשָּׁה — בַּעֲלָהּ מְשַׂמְּחָהּ! לִדְבָרָיו דְּרַבִּי זֵירָא קָאָמַר.
+*Translation:* **Abaye said to him: Derive this from** the fact that **she is** also obligated **in** the mitzva of **rejoicing** on a Festival. The Gemara asks: **And did Abaye** actually **say this,** that a woman is obligated to rejoice on a Festival? **But didn’t Abaye say:** As for **a woman, her husband must make her joyful** on a Festival? This means that the obligation falls not on the woman, but upon her husband. The Gemara answers: Abaye **stated** his opinion **in accordance with the statement of Rabbi Zeira.** Rabbi Zeira holds that women are bound by a positive mitzva to rejoice on a Festival. Since, according to Rabbi Zeira’s opinion, they are obligated in the mitzva of rejoicing on a Festival, they are also subject to the prohibition: You shall not delay.
+
+**17.**
+*Hebrew/Aramaic:* אִיבַּעְיָא לְהוּ: בְּכוֹר, מֵאֵימָתַי מוֹנִין לוֹ שָׁנָה? אַבָּיֵי אָמַר: מִשָּׁעָה שֶׁנּוֹלַד, רַב אַחָא בַּר יַעֲקֹב אָמַר: מִשָּׁעָה שֶׁנִּרְאָה לְהַרְצָאָה.
+*Translation:* § **A dilemma was raised before** the Sages: In the case of **a firstborn** animal, **from when does one** begin to **count a year** with regard to the prohibition against delaying? **Abaye said:** One counts **from the time it is born. Rav Aḥa bar Ya’akov said:** One counts **from the time it is fit for appeasement,** i.e., from its eighth day, when it is fit to be brought as an offering, as explicitly stated in the Torah (see Leviticus 22:27).
+
+**18.**
+*Hebrew/Aramaic:* וְלָא פְּלִיגִי: הָא בְּתָם,
+*Translation:* The Gemara comments: The two Sages **do not disagree. This** one, Rav Aḥa bar Ya’akov, who said that one counts from the time that the animal is fit for appeasement, is speaking **about an unblemished** firstborn, which must be brought to the altar for sacrifice.

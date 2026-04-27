@@ -1,0 +1,453 @@
+{
+  "masechta": "Pesachim",
+  "daf": 31,
+  "amud": "א",
+  "macro_segments": [
+    {
+      "title": "Introduction and Overview of the Daf: Collateral, Possession, and Chametz over Pesach",
+      "display_title": "Intro: Collateral & Pesa…",
+      "timestamp": "00:13",
+      "micro_segments": [
+        {
+          "title": "Welcome and framing of today's sugya: standalone legal unit on creditors, debtors, and collateral",
+          "display_title": "Welcome & Overview",
+          "timestamp": "00:13"
+        },
+        {
+          "title": "Scope of material: from Lamed (30) Amud Bet to Lamed Aleph (31) Amud Bet, examining when collateral is in creditor's vs. debtor's possession and its impact on chametz she'avar alav ha'Pesach",
+          "display_title": "Scope & Framework",
+          "timestamp": "00:37"
+        },
+        {
+          "title": "The Mishnah on Pesachim 30b: Non-Jew loans to Jew on chametz collateral—permitted to derive benefit after Pesach; Jew loans to Non-Jew on chametz—prohibited",
+          "display_title": "Mishnah: Two Cases",
+          "timestamp": "03:06"
+        }
+      ]
+    },
+    {
+      "title": "The Amoraic Debate: Abaye vs. Rava on When Creditor Takes Possession of Collateral",
+      "display_title": "Abaye vs. Rava",
+      "timestamp": "06:48",
+      "micro_segments": [
+        {
+          "title": "Itmara: Abaye holds creditor acquires retroactively (lemafrea); Rava holds creditor acquires prospectively (mikan u'lehaba)",
+          "display_title": "Lemafrea vs. Mikan",
+          "timestamp": "06:48"
+        },
+        {
+          "title": "Clarification of when the dispute applies: both agree when borrower uses collateral; dispute concerns when lender uses or sells collateral",
+          "display_title": "Scope of Dispute",
+          "timestamp": "08:51"
+        },
+        {
+          "title": "Abaye's reasoning: retroactively revealed that creditor had claim from inception; Rava's reasoning: creditor acquires only upon default when repayment becomes impossible",
+          "display_title": "Svara: Both Sides",
+          "timestamp": "11:48"
+        }
+      ]
+    },
+    {
+      "title": "Case of Reuven, Shimon, and the Field: Applying the Debate to Inheritance and Debt Chains",
+      "display_title": "Reuven & Shimon",
+      "timestamp": "15:37",
+      "micro_segments": [
+        {
+          "title": "Reuven sells field to Shimon with achrayut (warranty that Reuven will repay if Reuven's creditor claims the field); Shimon also owes Reuven the purchase price via promissory note",
+          "display_title": "The Sale Setup",
+          "timestamp": "15:37"
+        },
+        {
+          "title": "Reuven dies; Reuven's creditor comes to claim the field from Shimon; Shimon pays off creditor; then Reuven's heirs claim Shimon still owes the original debt",
+          "display_title": "Creditor Arrives",
+          "timestamp": "18:38"
+        },
+        {
+          "title": "Rava's suggestion: Shimon should give field to heirs for the debt, then reclaim it via achrayut to pay creditor, avoiding double payment",
+          "display_title": "Rava's Solution",
+          "timestamp": "21:30"
+        },
+        {
+          "title": "Problem: How can Rava (mikan u'lehaba) justify creditor collecting from heirs if heirs acquired the field themselves?",
+          "display_title": "Challenge to Rava",
+          "timestamp": "26:38"
+        },
+        {
+          "title": "Resolution: The specific stipulation that the lender said 'just as I am obligated to you, so too to the creditor,' following Rabbi Natan's principle of debt chain passing",
+          "display_title": "Stipulation resolves",
+          "timestamp": "29:11"
+        }
+      ]
+    },
+    {
+      "title": "Connecting Amoraic Debate to the Mishnah: How the Mishnah's Cases Accord with Abaye and Rava",
+      "display_title": "Back to Mishnah",
+      "timestamp": "32:29",
+      "micro_segments": [
+        {
+          "title": "Question: If Rava holds creditor acquires only after default, how can Mishnah say chametz is mutar b'hana'ah (permitted) after Pesach when it was in Jew's reshut during Pesach?",
+          "display_title": "Problem for Rava",
+          "timestamp": "32:29"
+        },
+        {
+          "title": "Resolution: The case must be one where the Jew deposited the chametz with the Non-Jew (keshehirhino etzlo), making it sufficiently the Non-Jew's possession even under Rava's view",
+          "display_title": "Okimta: Deposit",
+          "timestamp": "33:54"
+        }
+      ]
+    },
+    {
+      "title": "Tannaic Parallels: Rabbi Meir and Tanna Kamma on Who Acquires Collateral in Jew-Jew vs. Jew-Nokhri Transactions",
+      "display_title": "Tannaim: Meir & T.K.",
+      "timestamp": "43:38",
+      "micro_segments": [
+        {
+          "title": "Braita: Jew lends to Non-Jew on chametz collateral—Tanna Kamma: Jew does not transgress; Rabbi Meir: Jew does transgress",
+          "display_title": "Braita: Jew→Nokhri",
+          "timestamp": "43:38"
+        },
+        {
+          "title": "Can we explain the Tannaic dispute via Abaye/Rava debate (retroactive vs. prospective acquisition)? Problem: the two cases are not mirror-parallel",
+          "display_title": "Explain via A/R?",
+          "timestamp": "44:48"
+        },
+        {
+          "title": "Braita continued: Non-Jew lends to Jew on chametz collateral—all agree Jew transgresses chametz she'avar alav ha'Pesach",
+          "display_title": "Braita: Nokhri→Jew",
+          "timestamp": "45:28"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi Yitzchak's Principle: Creditor Acquires Collateral Only in Jew-Jew Loans; Impact on Nokhri Cases",
+      "display_title": "Rabbi Yitzchak",
+      "timestamp": "48:01",
+      "micro_segments": [
+        {
+          "title": "Rabbi Yitzchak derives from Deuteronomy 24 (return of collateral at night) that creditor must own the collateral—otherwise returning it would not be 'tzedakah'",
+          "display_title": "Biblical Derivation",
+          "timestamp": "48:01"
+        },
+        {
+          "title": "Tanna Kamma: principle of ba'al chov koneh mashkon applies only to Jew-Jew loans (where tzedakah mitzvah exists); not Jew-Nokhri (no mitzvah of tzedakah to non-Jew)",
+          "display_title": "T.K.: Jew-Jew only",
+          "timestamp": "50:01"
+        },
+        {
+          "title": "Rabbi Meir: applies kal vachomer—if Jew-Jew acquires, then Jew-Nokhri all the more so acquires",
+          "display_title": "R. Meir: Kal Vachomer",
+          "timestamp": "50:42"
+        },
+        {
+          "title": "Implication for Mishnah's Braita: When Nokhri lends to Jew, even if deposited, Nokhri mi-Yisrael never acquires collateral; therefore Jew always violates chametz she'avar",
+          "display_title": "Nokhri never acquires",
+          "timestamp": "52:04"
+        }
+      ]
+    },
+    {
+      "title": "Resolving Apparent Contradiction: Me'achshav (Explicit Stipulation) vs. Without Stipulation",
+      "display_title": "Me'achshav Principle",
+      "timestamp": "53:35",
+      "micro_segments": [
+        {
+          "title": "New okimta: Mishnah's case (where Non-Jew loans Jew on chametz and it's mutar) must be where Non-Jew said to Jew 'me'achshav' (from now this is yours)",
+          "display_title": "Okimta: Stipulation",
+          "timestamp": "53:35"
+        },
+        {
+          "title": "Braita: Non-Jew deposits fancy loaf (patporni) with Jew—no transgression; but if Non-Jew says 'higaticha' (it has arrived in your possession), then Jew transgresses",
+          "display_title": "Braita: Deposit",
+          "timestamp": "55:27"
+        },
+        {
+          "title": "Inference: The difference between the two clauses of the braita demonstrates that explicit stipulation (me'achshav / higaticha) changes the status of collateral ownership",
+          "display_title": "Inference: Words matter",
+          "timestamp": "56:22"
+        }
+      ]
+    },
+    {
+      "title": "Practical Application: Presumptions of Ownership in Stores Owned by Jews vs. Non-Jews",
+      "display_title": "Stores & Presumption",
+      "timestamp": "56:55",
+      "micro_segments": [
+        {
+          "title": "Braita: Jewish-owned store with Jewish inventory, but Non-Jewish workers enter—chametz found after Pesach is assur b'hana'ah (presumed to be Jewish owner's chametz)",
+          "display_title": "Jewish store",
+          "timestamp": "56:55"
+        },
+        {
+          "title": "Braita: Non-Jewish-owned store with Non-Jewish inventory, but Jewish workers enter—chametz found after Pesach is mutar b'achila (presumed to be Non-Jew owner's chametz)",
+          "display_title": "Non-Jewish store",
+          "timestamp": "57:59"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "lemafrea hu goveh (creditor acquires retroactively)",
+      "timestamps": [
+        "06:48",
+        "07:33",
+        "11:48",
+        "32:41"
+      ]
+    },
+    {
+      "term": "mikan u'lehaba hu goveh (creditor acquires prospectively)",
+      "timestamps": [
+        "07:47",
+        "12:22",
+        "32:51",
+        "34:27"
+      ]
+    },
+    {
+      "term": "ba'al chov koneh mashkon (creditor acquires collateral)",
+      "timestamps": [
+        "26:38",
+        "48:01",
+        "50:48",
+        "51:32"
+      ]
+    },
+    {
+      "term": "chametz she'avar alav ha'Pesach (chametz over which Pesach passed)",
+      "timestamps": [
+        "02:30",
+        "04:57",
+        "30:32",
+        "33:46",
+        "45:05",
+        "52:07",
+        "56:07",
+        "57:36"
+      ]
+    },
+    {
+      "term": "bal yera'eh u'bal yimatze (not seen, not found)",
+      "timestamps": [
+        "03:00",
+        "35:01",
+        "43:42"
+      ]
+    },
+    {
+      "term": "mashkon (collateral)",
+      "timestamps": [
+        "15:17",
+        "26:38",
+        "48:01",
+        "50:48"
+      ]
+    },
+    {
+      "term": "reshut (domain, possession)",
+      "timestamps": [
+        "05:09",
+        "34:34",
+        "37:48"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "07:33",
+        "11:48",
+        "26:51",
+        "32:41",
+        "35:43",
+        "39:09",
+        "40:30"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "07:47",
+        "12:22",
+        "21:30",
+        "26:38",
+        "32:51",
+        "34:27",
+        "35:46",
+        "39:17"
+      ]
+    },
+    {
+      "term": "Rabbi Meir",
+      "timestamps": [
+        "44:38",
+        "45:40",
+        "50:42",
+        "51:36"
+      ]
+    },
+    {
+      "term": "Tanna Kamma",
+      "timestamps": [
+        "44:33",
+        "45:34",
+        "50:01",
+        "50:48"
+      ]
+    },
+    {
+      "term": "Rabbi Yitzchak",
+      "timestamps": [
+        "47:57",
+        "48:01",
+        "50:34",
+        "53:06"
+      ]
+    },
+    {
+      "term": "achrayut (warranty; seller's obligation to repay if creditor claims collateral)",
+      "timestamps": [
+        "16:23",
+        "22:44",
+        "23:04"
+      ]
+    },
+    {
+      "term": "me'achshav (from now; explicit stipulation of transfer)",
+      "timestamps": [
+        "29:50",
+        "33:57",
+        "53:35",
+        "55:01",
+        "56:22"
+      ]
+    },
+    {
+      "term": "keshehirhino etzlo (when deposited with him)",
+      "timestamps": [
+        "33:54",
+        "52:05"
+      ]
+    },
+    {
+      "term": "okimta (resolution, reinterpretation)",
+      "timestamps": [
+        "35:43",
+        "39:05",
+        "53:35",
+        "54:44"
+      ]
+    },
+    {
+      "term": "nochri (non-Jew)",
+      "timestamps": [
+        "04:06",
+        "04:50",
+        "05:06",
+        "05:16",
+        "06:00",
+        "29:36",
+        "32:38",
+        "34:20",
+        "37:21",
+        "51:00",
+        "51:52",
+        "58:04"
+      ]
+    },
+    {
+      "term": "Yisrael (Jew)",
+      "timestamps": [
+        "04:06",
+        "04:47",
+        "05:05",
+        "32:43",
+        "33:46",
+        "35:48",
+        "39:15",
+        "50:35",
+        "50:43",
+        "51:36"
+      ]
+    },
+    {
+      "term": "mutar b'hana'ah (permitted to derive benefit)",
+      "timestamps": [
+        "04:04",
+        "13:20",
+        "32:58",
+        "33:40",
+        "39:12",
+        "44:06",
+        "57:35",
+        "58:02"
+      ]
+    },
+    {
+      "term": "asur b'hana'ah (prohibited from deriving benefit)",
+      "timestamps": [
+        "04:54",
+        "13:19",
+        "33:46",
+        "45:05",
+        "57:35"
+      ]
+    },
+    {
+      "term": "mishkon (collateral, alternative term)",
+      "timestamps": [
+        "05:16",
+        "26:07",
+        "34:47"
+      ]
+    },
+    {
+      "term": "tzedakah (charity)",
+      "timestamps": [
+        "48:09",
+        "50:38",
+        "50:55",
+        "51:05",
+        "51:18"
+      ]
+    },
+    {
+      "term": "kal vachomer (logical inference, a fortiori)",
+      "timestamps": [
+        "50:42",
+        "51:44"
+      ]
+    },
+    {
+      "term": "braita (Tannaitic source outside Mishnah)",
+      "timestamps": [
+        "45:42",
+        "55:27",
+        "56:22",
+        "56:55",
+        "57:59"
+      ]
+    },
+    {
+      "term": "patporni (fancy or important loaf of bread)",
+      "timestamps": [
+        "55:45",
+        "55:47",
+        "55:57"
+      ]
+    },
+    {
+      "term": "higaticha (it has arrived in your possession)",
+      "timestamps": [
+        "55:44",
+        "56:17"
+      ]
+    },
+    {
+      "term": "reshut (domain in context of chametz ownership)",
+      "timestamps": [
+        "34:34",
+        "37:48"
+      ]
+    }
+  ]
+}

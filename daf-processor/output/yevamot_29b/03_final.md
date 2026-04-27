@@ -1,0 +1,317 @@
+# Yevamot 29b — Daf Yomi Shiur
+
+## Ma'amar Status
+
+### Opening & Reframing
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אֶלְעָזָר: לָא תֵּימָא מַאֲמָר לְבֵית שַׁמַּאי קוֹנֶה קִנְיָן גָּמוּר, דְּאִי בָּעֵי לְאַפּוֹקֵי סַגִּי לַהּ בְּגִיטָּא, אֶלָּא מַאֲמָר לְבֵית שַׁמַּאי אֵינוֹ קוֹנֶה אֶלָּא לִדְחוֹת בַּצָּרָה בִּלְבַד.
+>
+> **Translation:** **Rabbi Elazar said: Do not say** that **levirate betrothal acquires** the woman **as a full-fledged acquisition according to** the opinion of **Beit Shammai,** such that the first woman becomes his wife to the extent **that if he wants to divorce** her **a bill of divorce would suffice** without an act of *ḥalitza*. **Rather, for Beit Shammai, levirate betrothal acquires** the woman **only** insofar **as it precludes a rival wife** from entering levirate marriage.
+
+We begin today with a brief return to the bottom of 29a, not because we have time to spare, but because yesterday's presentation of the *gemara* requires a small correction, and the core question needs to be reframed before we can proceed.
+
+### Mishnah Setup
+
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁלֹשָׁה אַחִין, שְׁנַיִם נְשׂוּאִים שְׁתֵּי אֲחָיוֹת וְאֶחָד מוּפְנֶה. מֵת אֶחָד מִבַּעֲלֵי אֲחָיוֹת, וְעָשָׂה בָּהּ מוּפְנֶה מַאֲמָר. וְאַחַר כָּךְ מֵת אָחִיו הַשֵּׁנִי —
+>
+> **Translation:** MISHNA: In the case of **three brothers, two** of whom **were married to two sisters, and one who was single,** the following occurred: **The husband of one of the sisters died** childless, leaving behind his wife, **and the single** brother **performed levirate betrothal [*ma'amar*]** to this wife. The single brother performed an act of betrothal to the *yevama* but did not yet consummate the marriage by engaging in sexual intercourse. **Afterward, the second brother died,** and therefore the second brother's wife, the sister of the betrothed, happened before the single brother for levirate marriage as well.
+
+The *mishnah* before us presents the following scenario: Reuven and Shimon are brothers, married respectively to Rachel and Leah, who are sisters. Reuven dies. Before Shimon dies, Levi performs *ma'amar* with Rachel — a formal declaration of betrothal in the context of *yibum*, falling just short of the act of *yibum* itself. Then Shimon dies, leaving Leah as a second potential *yevamah*.
+
+### Beit Shammai View
+
+> **Hebrew/Aramaic:** בֵּית שַׁמַּאי אוֹמְרִים: אִשְׁתּוֹ עִמּוֹ, וְהַלֵּזוּ תֵּצֵא מִשּׁוּם אֲחוֹת אִשָּׁה. וּבֵית הִלֵּל אוֹמְרִים: מוֹצִיא אֶת אִשְׁתּוֹ בְּגֵט וּבַחֲלִיצָה, וְאֵשֶׁת אָחִיו בַּחֲלִיצָה.
+>
+> **Translation:** In this case, **Beit Shammai say: His wife remains with him.** The woman he betrothed is considered like his wife, and he is not required to divorce her. **And this other** woman **leaves** the *yavam* and is exempt from levirate marriage **as the sister of a wife. Beit Hillel say:** Being as he had not yet entered into marriage with the first woman, he is required to perform levirate marriage with both women. Therefore, **he divorces his wife,** i.e., the woman to whom he performed levirate betrothal, **with a bill of divorce,** which nullifies levirate betrothal, **and by *ḥalitza*,** which nullifies the levirate bond. **And,** he sends away **the wife of his** second **brother with *ḥalitza*** as well.
+
+Beit Shammai holds that the *ma'amar* Levi performed with Rachel is sufficient to effectively complete the *yibum* relationship with her, so that when Leah subsequently becomes a widow, she walks away entirely. This is a striking position: it implies that *ma'amar* carries real *de'oraita* weight, powerful enough to free Leah not merely from a rabbinic restriction but from any *yibum* obligation whatsoever — she is released as an *ervah*, his wife's sister. Beit Hillel, by contrast, maintains that both Rachel and Leah now share the status of *achot zekukato*, and Levi must perform *chalitzah* with Leah and *chalitzah* with Rachel (along with a *get* to undo the *ma'amar*). The question the *gemara* now pursues is: precisely how powerful is this *ma'amar* according to Beit Shammai?
+
+### Rabbi Elazar
+
+Rabbi Elazar opens with a qualification. Do not say, he teaches — *lo teima ma'amar le-Veit Shammai koneh kinyan gamur* — that *ma'amar* for Beit Shammai constitutes a complete *kinyan*, the full equivalent of *yibum*. The evidence that it is not fully equivalent would be this: if it were a complete *kinyan*, then should Levi wish to separate from Rachel afterward, a *get* alone would suffice, just as in an ordinary marriage. But Rabbi Elazar holds that even after *ma'amar*, both a *get* and *chalitzah* would be required. What *ma'amar* accomplishes, he says, is *lidchot batzara bilvad* — it pushes off the *tzarah*, it frees Leah from any obligation — but the *yibum* component with Rachel has not been fully discharged. There remains some residue of the *yibum* relationship even as Leah walks free.
+
+### Achot Zekukato Test
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אָבִין: אַף אֲנַן נָמֵי תְּנֵינָא, בֵּית שַׁמַּאי אוֹמְרִים: יְקַיְּימוּ. יְקַיְּימוּ אִין — לְכַתְּחִלָּה לָא.
+>
+> **Translation:** **Rabbi Avin said: We, too, learn** in the mishna a proof that levirate betrothal is not a full-fledged act of acquisition, even according to Beit Shammai. The mishna at the beginning of this chapter (26a) teaches that when two sisters who are *yevamot* happen before two brothers for levirate marriage, if the brothers married their wives before consulting the court, then **Beit Shammai say: They may maintain them** as their wives. From here it can be deduced: If they already married them, **yes, they may maintain them.** However, marrying them ***ab initio*, no,** this is prohibited due to the prohibition against marrying the sister of a woman with whom one has a levirate bond.
+
+Rav Avin then brings a proof from the *mishnah* itself. In a different case — one where two brothers each face a sister-in-law who is the *achot zekukato* of the other's potential *yevamah* — Beit Shammai rules that if the brothers went ahead and performed *yibum* in that complicated scenario, the marriages stand *bedieved*, but *lechatchila* they may not. Now, if *ma'amar* were a complete *kinyan gamur*, there would be an obvious *lechatchila* solution available: let one brother perform *ma'amar* with his *yevamah*, thereby fully acquiring her and removing the other woman from the *zika* entirely, and then let the second brother proceed likewise. The fact that Beit Shammai offers no such solution suggests that *ma'amar* is not a complete *kinyan*.
+
+But the *gemara* pushes back: this same question arises equally whether *ma'amar* is a *kinyan gamur* or merely a *dichiya gemura* — a complete pushing-off without full acquisition. Either way, if the *ma'amar* frees Leah, why can't the brothers use *ma'amar* to resolve the problem in the simultaneous case? The question applies symmetrically.
+
+### Ma'amar DeHeteira
+
+> **Hebrew/Aramaic:** אֶלָּא מַאי אִית לָךְ לְמֵימַר: מַאֲמָר דְּהֶתֵּירָא — דָּחֵי, דְּאִיסּוּרָא — לָא דָּחֵי, הָכִי נָמֵי מַאֲמָר, אֲפִילּוּ לְמַאן דְּאָמַר מַאֲמָר קוֹנֶה קִנְיָן גָּמוּר: מַאֲמָר דְּהֶתֵּירָא קָנֵי, דְּאִיסּוּרָא לָא קָנֵי.
+>
+> **Translation:** **Rather, what have you to say?** One must assert that **levirate betrothal** performed **in** circumstances where it is **permitted** to perform levirate marriage, i.e. where there is no prohibition with regard to the close relative of a woman with whom the *yavam* has a levirate bond, completely **precludes** the rival wife from entering levirate marriage. However, levirate betrothal performed **in** circumstances where it is **forbidden** to perform levirate marriage, **does not preclude** entering levirate marriage. Therefore, in the case of two sisters who happen simultaneously before two brothers for levirate marriage, the sisters cannot be precluded from entering levirate marriage via levirate betrothal. **So too** here, with regard to **levirate betrothal** performed by the third brother, the same distinction can be made. **Even according to the one who said that levirate betrothal acquires** a woman **as a full-fledged acquisition,** just like marriage, there is the following difference: **Levirate betrothal under permitted** circumstances **acquires** the woman, but levirate betrothal **under forbidden circumstances does not acquire** the woman. Therefore, there is no proof as to the nature of levirate betrothal according to the opinion of Beit Shammai from the first mishna in the chapter.
+
+The resolution emerges from a crucial principle: *ma'amar de-heteira dachi, de-issura lo dachi*. A *ma'amar* performed in a legally uncomplicated situation — where *yibum* itself would have been permissible — carries weight and produces its legal effect. A *ma'amar* attempted to cut through an existing prohibition — *ma'amar de-issura* — accomplishes nothing. In the original *mishnah* case, Levi performed *ma'amar* with Rachel before Leah became a widow and before any problem of *achot zekukato* arose. That *ma'amar* came in at a moment of *heter* and therefore had the power to free Leah when she subsequently fell into the *yibum* pool. In the simultaneous case, the problem of *achot zekukato* already exists at the moment of the proposed *ma'amar*, and so the *ma'amar* cannot cut through it.
+
+This principle applies identically whether *ma'amar* is framed as *kinyan gamur* or *dichiya gemura*: *ma'amar de-heteira kani, de-issura lo kani*. The distinction is not about the strength of *ma'amar* but about the circumstances into which it enters. So the unresolved question remains: does *ma'amar* constitute a complete *kinyan* requiring only a *get*, or is it *dichiya gemura* — Leah is fully out, but Rachel's relationship with Levi is incomplete, requiring both a *get* and *chalitzah*?
+
+### Rav Ashi Reading
+
+> **Hebrew/Aramaic:** רַב אָשֵׁי מַתְנֵי הָכִי, אָמַר רַבִּי אֶלְעָזָר: לָא תֵּימָא מַאֲמָר לְבֵית שַׁמַּאי דָּחֵי דְּחִיָּיה גְּמוּרָה, וְצָרָתָהּ חֲלִיצָה נָמֵי לָא בָּעֲיָא, אֶלָּא דּוֹחֶה וּמְשַׁיֵּיר הוּא.
+>
+> **Translation:** **Rav Ashi teaches** this discourse in **this** manner: **Rabbi Elazar said: Do not say** that **according to Beit Shammai levirate betrothal precludes** entering levirate marriage as **a complete preclusion,** so that **the rival wife** of the woman who received levirate betrothal **does not require even *ḥalitza*. Rather, it precludes** entering levirate marriage **and** yet **leaves a remnant** of the levirate bond in place. Accordingly, levirate betrothal precludes the rival wife's entering levirate marriage to the degree that the *yavam* is not required to divorce the woman he betrothed, but the levirate bond with the rival wife remains to the extent that he must still perform *ḥalitza* with her.
+
+Rav Ashi now proposes a third reading, one that reduces the power of *ma'amar* even further. Do not say, teaches Rav Ashi in the name of Rabbi Elazar, that *ma'amar* for Beit Shammai is a *dichiya gemura* — a complete pushing-off of Leah. Rather, it is *docheh u-meshayer*: it pushes Leah off but leaves some remnant of connection even with respect to Leah herself. On this reading, the *ma'amar* is strong enough to weaken the *zika* to Leah so that the prohibition of *achot zekukato* no longer blocks consummation with Rachel — that rabbinic prohibition is sufficiently addressed. But the connection to Leah has not been entirely severed, and therefore Leah would still require *chalitzah*.
+
+### Rejection of Rav Ashi
+
+> **Hebrew/Aramaic:** אָמַר רַבִּי אָבִין, אַף אֲנַן נָמֵי תְּנֵינָא: בֵּית שַׁמַּאי אוֹמְרִים יְקַיְּימוּ. יְקַיְּימוּ — אִין, לְכַתְּחִלָּה — לָא. וְאִי סָלְקָא דַּעְתָּךְ מַאֲמָר לְבֵית שַׁמַּאי דּוֹחֶה דְּחִיָּיה גְּמוּרָה, זֶה יַעֲשֶׂה מַאֲמָר וְיִדְחֶה, וְזֶה יַעֲשֶׂה מַאֲמָר וְיִדְחֶה! וְאֶלָּא הָא קָתָנֵי בֵּית שַׁמַּאי אוֹמְרִים: אִשְׁתּוֹ עִמּוֹ, וְהַלֵּזוּ תֵּצֵא מִשּׁוּם אֲחוֹת אִשָּׁה.
+>
+> **Translation:** **Rabbi Avin said: We,** too, **learn** this statement from the mishna, where it states: **Beit Shammai say: They may maintain them** as their wives. From here it can be deduced: **Yes, they may maintain them** as their wives after the fact; **no,** they are not allowed to marry them ***ab initio*. And if it enters your mind** to say that, **according to Beit Shammai, levirate betrothal precludes entering** levirate marriage as **a complete preclusion,** then **this** brother **should perform levirate betrothal and preclude** one sister from levirate marriage, **and that** brother **should perform levirate betrothal and preclude** the other sister from levirate marriage. The Gemara challenges this conclusion: **But didn't** the mishna **teach** that **Beit Shammai say: His wife remains with him, and this other is sent away due to** her status **as a sister of his wife?** This indicates that she is exempt from levirate marriage and does not even require *ḥalitza*.
+
+The *gemara* immediately rejects this reading from the *mishnah* itself. The *mishnah* states explicitly: *ishto imo, ve-halezu tetzei mi-shum achot isha* — his wife Rachel is his, and Leah walks away entirely because she is his wife's sister. There is no *chalitzah* required with Leah. The *mishnah* makes clear that Beit Shammai's *ma'amar* completely frees Leah, with no residual obligation. Rav Ashi's reading of *docheh u-meshayer* is simply incompatible with the *mishnah*'s language.
+
+The *gemara* therefore restates the operative principle — *yevamah de-chazya le-kulhu chazya le-miktzatah, yevamah de-lo chazya le-kulhu lo chazya le-miktzatah* — a *yevamah* in respect of whom full *yibum* was possible, even a partial *ma'amar* is meaningful; a *yevamah* in respect of whom *yibum* was impossible at the time, not even a partial *ma'amar* has effect. This is another formulation of the same *ma'amar de-heteira* principle.
+
+### Operative Principle
+
+> **Hebrew/Aramaic:** אֶלָּא: יְבָמָה דְּחַזְיָא לְכוּלְּהוּ — חַזְיָא לְמִקְצָתה, יְבָמָה דְּלָא חַזְיָא לְכוּלְּהוּ — לָא חַזְיָא לְמִקְצָתה.
+>
+> **Translation:** **Rather,** one must resolve this by asserting that **a *yevama* who is suitable for all of** the aspects of levirate marriage **is** also **suitable for part of it.** If a *yevama* is eligible for both levirate marriage and *ḥalitza* when she happens before the brothers, as in the case cited in the present mishna where the woman who happened before the third brother was permitted to enter into levirate marriage, she is eligible for part of it. This indicates that if the *yavam* does not take her in levirate marriage but performs only levirate betrothal, the levirate betrothal has sufficient legal force to preclude the rival wife completely. However, **a *yevama* who is not suitable for all of the** aspects of levirate marriage **is** also **not suitable for a part of it.** If the *yevama* is not eligible for levirate marriage, such as in the case referred to in the first mishna of this chapter, where both women happened simultaneously so that the *yavam* is not permitted to consummate the levirate marriage with either woman, she is not suitable for part of it. In that case, if the *yavam* performs levirate betrothal, it does not have the legal force to affect a total preclusion.
+
+We are thus left with two live positions within Beit Shammai's view: either *ma'amar* is a *kinyan gamur* requiring only a *get* from Rachel, or it is a *dichiya gemura* — Leah is fully free but the relationship with Rachel is not complete, and therefore both a *get* and *chalitzah* are needed. The *gemara* will shortly revisit the first of these as a serious possibility.
+
+### Yerushalmi Source
+
+One might wonder how *ma'amar*, which has generally been treated as a rabbinic institution, could carry the *de'oraita* force that Beit Shammai's position seems to demand — freeing Leah without any *chalitzah*. The *Yerushalmi* supplies a biblical source for Beit Shammai's view, deriving it from the verse *ve-lakachah lo le-ishah ve-yivemah* (Deuteronomy 25:5). The *Yerushalmi* reads this as embedding two distinct acts within the *yibum* process: *ve-yivemah* refers to the act of *yibum* itself, and *ve-lakachah lo le-ishah* refers to *ma'amar* — a formal act of *kiddushin* — as a *de'oraita* component of the *yibum* process. On this reading, *ma'amar* is not purely rabbinic; it has a biblical grounding that explains why Beit Shammai grants it sufficient force to free Leah without *chalitzah*.
+
+---
+
+## Rava's Question
+
+### Nisuin Question
+
+> **Hebrew/Aramaic:** בָּעֵי רַבָּה: מַאֲמָר לְבֵית שַׁמַּאי, נִישּׂוּאִין עוֹשֶׂה, אוֹ אֵירוּסִין עוֹשֶׂה?
+>
+> **Translation:** § With regard to Beit Shammai's opinion about levirate betrothal, **Rabba asks: Does levirate betrothal, according to** the opinion of **Beit Shammai, create** a full-fledged **marriage** bond? **Or, does it** merely **create betrothal,** similar to all other acts of betrothal?
+
+With the *de'oraita* grounding of *ma'amar* established according to Beit Shammai, Rava now presses the question further. If *ma'amar* has real biblical standing, and if it may even be a *kinyan gamur*, perhaps it does not merely replicate the status of *kiddushin* — perhaps it goes all the way to *nissu'in*. The question Rava poses is: *ma'amar le-Veit Shammai — nissu'in oseh o erusin oseh?* Does *ma'amar* effect the status of full marriage (*nissu'in*), or does it produce only betrothal (*erusin*)?
+
+### Abaye Response
+
+> **Hebrew/Aramaic:** אָמַר לֵיהּ אַבָּיֵי: לְמַאי הִלְכְתָא? אִילֵּימָא לְיוֹרְשָׁהּ וְלִיטַמֵּא לָהּ וּלְהָפֵר נְדָרֶיהָ, הַשְׁתָּא אֲרוּסָה בְּעָלְמָא תָּנֵי רַבִּי חִיָּיא: אִשְׁתּוֹ אֲרוּסָה לֹא אוֹנֵן וְלֹא מִטַּמֵּא לַהּ, וְכֵן הִיא לֹא אוֹנֶנֶת וְלֹא מִטַּמֵּאת לוֹ, מֵתָה — אֵינוֹ יוֹרְשָׁהּ, מֵת הוּא — גּוֹבָה כְּתוּבָּתָהּ, עֲבַד בַּהּ מַאֲמָר מִיבַּעְיָא?
+>
+> **Translation:** **Abaye said to him: With regard to what *halakha*** do you ask this? **If we say** it pertains **to inheriting** from **her** when she dies, **and to becoming ritually impure for her** if he is a priest, **and to nullifying her vows,** all of which are rights and obligations acquired by marriage, this is difficult. **Now,** with regard to **a betrothed woman in general,** i.e., a woman who was betrothed by Torah law, **Rabbi Ḥiyya teaches** in a *baraita*: **One does not enter acute mourning** on the day of the death of **his betrothed wife, nor can he become ritually impure for her** if she dies if he is a priest. **Similarly, she does not enter acute mourning for him and** is **not** obligated **to become ritually impure for him.** If **she dies, he does not inherit from her;** if **he dies, she collects** the payment of **her marriage contract,** In a case where **he performed** only **levirate betrothal with her, is it necessary to say** that he does not inherit from her, nor does he become ritually impure for her? Therefore, this *halakha* is obvious and Rabba's question seems superfluous.
+
+Abaye responds by pressing for practical consequences: *le-mai hilcheta?* What difference would *nissu'in* make over *erusin*? He identifies three specific legal rights that *nissu'in* adds beyond *kiddushin*: the husband inherits his wife upon her death, a *kohen* husband may become *tamei* for her, and the husband may annul her vows unilaterally, without the participation of her father. These rights do not attach at the stage of *erusin* alone.
+
+### Arusah vs Nesuah
+
+Rav Chiyya teaches explicitly: if his wife is an *arusah* — betrothed but not yet fully married — the husband is not an *onen* upon her death, a *kohen* husband may not become *tamei* for her, and she similarly lacks the status of *onen* for him. Furthermore, if she predeceases him, he does not inherit her. If he predeceases her, she does collect her *ketubbah*, since that obligation arose at the time of *kiddushin*. These distinctions make clear how much *nissu'in* adds to *erusin* in terms of rights and statuses.
+
+### Rava's Logic
+
+> **Hebrew/Aramaic:** וְאֶלָּא לְעִנְיַן מְסִירָה לְחוּפָּה, מַאי? נִישּׂוּאִין עוֹשֶׂה — וְלָא בָּעֲיָא מְסִירָה לְחוּפָּה, אוֹ דִלְמָא אֵירוּסִין עוֹשֶׂה — וּבָעֲיָא מְסִירָה לְחוּפָּה?
+>
+> **Translation:** **Rather,** the question must relate **to the matter of delivery** of the woman **to** the husband under **a wedding canopy. What is** the ruling with regard to this? Is the *yavam* obligated to enter the wedding canopy in the manner that he would with any other betrothed woman, or not? This is the dilemma: Does levirate betrothal **create** a full-fledged **marriage** bond, whereby the *yevama* **would not require** further **delivery to a wedding canopy? Or, does** levirate betrothal **perhaps create** only **betrothal,** whereby **she would require delivery to a wedding canopy?**
+
+This leads Rava to a *kal va-chomer*: if standard *kiddushin* — which is unambiguously *de'oraita* — does not confer these rights of inheritance, *tum'ah*, and unilateral vow annulment without *nissu'in*, then *ma'amar*, which (as Rashi notes) is fundamentally a rabbinic institution — even if Beit Shammai grants it *de'oraita* significance, it remains not as weighty as ordinary *kiddushin* in all its dimensions — why would *ma'amar* leap past *erusin* and confer the rights of *nissu'in*? The *gemara* cites Rashi's formulation: *ma'amar yavmi mi-derabanan hu, de-mi-de'oraita yevamah yavo alehah ketiv rachmana* — rabbinically the *ma'amar* is the prescribed mode, but the *Torah* itself speaks of *yibum* as the act of entering her. The *Ritva* notes a difficulty with Rashi here: according to Beit Shammai, we have just established that *ma'amar* has *de'oraita* grounding from *ve-lakachah lo le-ishah*. The *Ritva* therefore prefers a different formulation: even if *ma'amar* is *de'oraita* according to Beit Shammai, it does not carry the full weight of ordinary *kiddushin*. Evidence for this appears elsewhere in the *gemara*, where it is stated that if the *yevamah* were to sleep with another man after *ma'amar* but before the completion of *yibum*, she would not incur the capital penalty of *eshet ish* — the *ma'amar* does not impose the full weight of a married woman's status, even if it demands a *get*.
+
+### Mesirah LeChuppah
+
+At this point the *gemara* reframes Rava's question more precisely. The question is not about whether *ma'amar* confers the rights associated with *nissu'in* — those clearly do not apply. The real question is whether *ma'amar* itself constitutes an act of *nissu'in* such that no subsequent act of *mesirah le-chuppah* (formal conveyance to the *chuppah*) would be required before consummating the *yibum*. Or does *ma'amar* leave the couple at the level of *erusin*, such that the rabbinic framework would demand a formal act of *nissu'in* before they proceed? This is a subtle but important distinction: if one has put himself on the *ma'amar* track rather than going directly to *yibum*, has he accepted upon himself the full rabbinic structure of betrothal-followed-by-marriage, including the need for *chuppah*?
+
+### Sex as Chuppah
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ: הַשְׁתָּא לָא עֲבַד בַּהּ מַאֲמָר, כְּתִיב: ״יְבָמָהּ יָבֹא עָלֶיהָ״ — בְּעַל כׇּרְחָהּ, עֲבַד בַּהּ מַאֲמָר מִיבַּעְיָא?
+>
+> **Translation:** Abaye **said to him** that this question is not necessary, as well: **Now,** if **he did not perform levirate betrothal with her** at all, **it is written: "Her brother-in-law will have intercourse with her"** (Deuteronomy 25:5). It is deduced from this verse that he can take her even **against her will. Is** it **necessary** to say **that** if **he performed levirate betrothal with her,** even without a wedding canopy, that he is allowed to engage in sexual intercourse with her?
+
+The *gemara* then explores what the act of *yibum* itself accomplishes in the context of *nissu'in*. In a standard *yibum* case where no *ma'amar* was performed, the Torah says *yevamah yavo alehah* — the brother-in-law shall enter her. If the *yibum* is performed with the woman's consent and the couple proceed together willingly, that consensual act of intimacy itself constitutes *chuppah* and *nissu'in*. This is not unusual: in ordinary marriage as well, once a couple who have completed *kiddushin* begin living together as husband and wife, that shared act counts as *nissu'in*.
+
+### Coercive Yibum
+
+The *gemara* adds the difficult point that *yibum* works even *al korcha* — even without the woman's full consent. This is a deeply uncomfortable *halacha*, and one cannot minimize its difficulty. The *gemara* seems to be working with a distinction: an act of *yibum* that is not fully consensual would not itself carry the character of *chuppah*, but it would still be legally effective as *yibum*. *Kiddushin* cannot be performed *al korcha* — the woman's consent is required — but the act of *yibum* through intimacy retains its legal force even without it. The practical point being made is that any act of *yibum*, however it occurs, automatically produces the status of *nissu'in* for the woman, with no separate *chuppah* required.
+
+### Rabba's Track Theory
+
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ, שֶׁאֲנִי אוֹמֵר: כׇּל הָעוֹשֶׂה מַאֲמָר בִּיבִמְתּוֹ פָּרְחָה מִמֶּנּוּ זִיקַּת יְבָמִין, וְחָלָה עָלָיו זִיקַּת אֵירוּסִין. מַאי?
+>
+> **Translation:** Rabba **said to him:** This question is relevant, as **I say** that **anyone who performs levirate betrothal with his *yevama* causes the levirate bond to be removed from him,** and he is no longer considered subject to the *halakhot* of levirate marriage. Instead, a standard **bond of betrothal applies to him.** Therefore, it is appropriate to ask if this act of levirate betrothal is similar to a standard betrothal insofar as the wedding canopy is concerned, and consequently the woman would be required to enter the wedding canopy. Alternatively, perhaps the *halakhot* of levirate marriage still apply somewhat, in which case the woman would not be required to enter a wedding canopy in order to become married, similar to a standard *yevama* to whom levirate betrothal was not performed. Does the performance of levirate betrothal weaken the capacity of intercourse to establish levirate marriage on its own? **What** is the halakhic ruling here?
+
+Rabba now offers what emerges as the most compelling resolution. He proposes that once a man performs *ma'amar* with his *yevamah*, *parcha heimena zikas yivamin* — the entire *yibum* nexus flies away from her. She is no longer on the *yibum* track at all. According to Beit Shammai, the act of *ma'amar* does not merely supplement the *yibum* relationship — it displaces it entirely, *dechalah zikas erusin*, shifting the couple completely onto the *kiddushin* track. This is a remarkable structural point: the two possible paths — *yibum* via intimacy, or the *ve-lakachah* path via *ma'amar* — are genuinely alternative tracks. Once *ma'amar* is performed, the logic of *yibum* (including its special properties around *chuppah* and even *baal korcha*) no longer applies. The couple are now, in essence, in the position of a man and his betrothed, and if they are to proceed to full marriage, the regular apparatus of *nissu'in* through *mesirah le-chuppah* would apply. This model also reinforces the conclusion we reached earlier: since the *yibum* track has been abandoned in favor of the *kiddushin* track, presumably only a *get* would be needed for a separation — not a *get* plus *chalitzah*.
+
+---
+
+## Yibamah Nedarim
+
+### Shomer Yavam
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: שׁוֹמֶרֶת יָבָם, בֵּין יָבָם אֶחָד בֵּין שְׁנֵי יְבָמִין — רַבִּי אֱלִיעֶזֶר אוֹמֵר: יָפֵר. רַבִּי יְהוֹשֻׁעַ אוֹמֵר: לְאֶחָד וְלֹא לִשְׁנַיִם. רַבִּי עֲקִיבָא אוֹמֵר: לֹא לְאֶחָד וְלֹא לִשְׁנַיִם.
+>
+> **Translation:** The Gemara suggests: **Come** and **hear** an answer from what is taught in a mishna (*Nedarim* 74a): What is the ruling with regard to the nullification of vows for **a widow** who is **waiting for her *yavam*, whether** she is waiting for **a single *yavam* or two *yevamin*? Rabbi Eliezer says: Let him nullify** her vows. The *yavam* may nullify her vows as though he were her husband. **Rabbi Yehoshua says:** This holds true only if she is bonded to **a single *yavam*, but not** to **two. Rabbi Akiva says:** It does **not** hold true, neither **to one** *yavam* **nor to two** *yevamin*. They may not nullify her vows.
+
+The *gemara* now introduces a *mishnah* to test the question of *ma'amar*'s legal strength. The *mishnah* discusses a woman who is a *shomeret yavam* — waiting for either *yibum* or *chalitzah* — and asks whether the *yavam* can annul her vows. The scenario specifies that the woman may be in a *zika* relationship with one *yavam* or with multiple brothers-in-law simultaneously.
+
+### Vow Annulment Views
+
+> **Hebrew/Aramaic:** וְהָוֵינַן בַּהּ: בִּשְׁלָמָא, רַבִּי עֲקִיבָא סָבַר: אֵין זִיקָּה אֲפִילּוּ לְחַד. לְרַבִּי יְהוֹשֻׁעַ: לְחַד יֵשׁ זִיקָּה, לִתְרֵי אֵין זִיקָּה. אֶלָּא לְרַבִּי אֱלִיעֶזֶר, נְהִי נָמֵי דְּקָסָבַר יֵשׁ זִיקָּה, בִּשְׁלָמָא לְחַד מֵיפֵר, אֶלָּא לִתְרֵי אַמַּאי?
+>
+> **Translation:** **And we discussed this** issue, interpreting the various opinions: **Granted, Rabbi Akiva holds that the levirate bond is not substantial, even in** the case of **one** *yavam*. In his opinion, the levirate obligation does not create a marriage bond at all, even if there is only a single *yavam*. And according **to Rabbi Yehoshua, the levirate bond with one** *yavam* **is substantial.** The *yevama* undoubtedly requires this *yavam* for levirate marriage, and therefore she is considered to be like his wife. **But with two** *yevamin*, **the levirate bond is not substantial,** since it is not clear which brother will consummate the levirate marriage with her. **However, Rabbi Eliezer, if** he **indeed holds that the levirate bond is substantial,** his opinion is difficult. **Granted,** if there is **one** *yavam*, **he can nullify** her vows, **but** if there are **two,** why should only one of them suffice to nullify her vows, as it is not yet clear which of them will eventually marry her?
+
+Three Tannaitic opinions are presented. Rabbi Eliezer says the *yavam* may annul her vows (*yafer*). Rabbi Yehoshua says he may annul if there is only one *yavam*, but not if there are two — in the case of two, neither individual has a sufficiently defined or exclusive relationship with her. Rabbi Akiva says neither one nor two can annul, because the *zika* itself is not strong enough to grant the *yavam* the legal standing to annul vows.
+
+The positions of Rabbi Akiva and Rabbi Yehoshua are each internally coherent. Rabbi Akiva holds there is no operative *zika* at all for purposes of vow annulment — *ein zika* even with one. Rabbi Yehoshua holds there is *zika* with one — *yesh zika le-echad* — but the *zika* becomes diluted when two brothers share it — *ein zika le-trei*. Both positions follow naturally from their respective understandings of *zika*.
+
+### Annulment Problem
+
+Rabbi Eliezer's position, however, is puzzling. Granting that he holds *yesh zika* even with two brothers, two difficulties arise. First, if the relationship is genuinely shared between two brothers, which of them has the standing to annul alone? Should both not be required? Second — and this is the deeper issue — even if one grants the *yavam* the standing of a *baal* for vow annulment purposes, the rule for a *na'arah me'orasah* is that her vows are annulled jointly by her father and her *arus*. If the *yevamah* stands at the level of an *arusah*, the *yavam* alone cannot annul — her father must participate. How then does Rabbi Eliezer permit the *yavam* to annul unilaterally?
+
+### Rav Ami Solution
+
+> **Hebrew/Aramaic:** וְאָמַר רַבִּי אַמֵּי (בַּר אַהֲבָה): הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן דַּעֲבַד בַּהּ מַאֲמָר, וּבֵית שַׁמַּאי הִיא, דְּאָמַר: מַאֲמָר קוֹנֶה קִנְיָן גָּמוּר.
+>
+> **Translation:** **And Rabbi Ami bar Ahava said: With what are we dealing here?** This is a case **where** one of them **performed levirate betrothal with her, and** this **is** in accordance with **the opinion of Beit Shammai, who say: Levirate betrothal acquires** her **as a full-fledged acquisition.**
+
+Rabbi Ami resolves the difficulty by reframing the *mishnah*'s case. The *mishnah* is not discussing a simple *shomeret yavam* waiting with only a *zika* in place. Rather, it is discussing a case *ke-gon de-avid bah ma'amar* — where *ma'amar* has already been performed, and moreover, the *mishnah* follows Beit Shammai's view that *ma'amar koneh kinyan gamur*. Once *ma'amar* has been performed and Beit Shammai treats it as a full *kinyan*, the *yevamah* is no longer merely betrothed — she has the status of a *nesu'ah*, a fully married woman. And a fully married woman's vows may be annulled by her husband alone, without the father's participation.
+
+### Connection to Nisuin Question
+
+> **Hebrew/Aramaic:** אִי אָמְרַתְּ בִּשְׁלָמָא נִישּׂוּאִין עוֹשֶׂה — מִשּׁוּם הָכִי מֵיפֵר. אֶלָּא אִי אָמְרַתְּ אֵירוּסִין עוֹשֶׂה — הֵיכִי מָצֵי מֵיפֵר, וְהָתְנַן: נַעֲרָה הַמְאוֹרָסָה — אָבִיהָ וּבַעְלָהּ מְפִירִים נְדָרֶיהָ!
+>
+> **Translation:** This interpretation can resolve Rabba's question. **Granted, if you say** levirate betrothal **creates** a full-fledged **marriage, it is due to that** reason that the *yavam* **can nullify** her vows just as a full-fledged husband does. **However, if you say** that levirate betrothal merely **creates betrothal, how can he nullify** the vows? Even in standard cases of betrothal by Torah law the husband cannot nullify her vows, **for didn't we learn** in a mishna: With regard to **a betrothed young woman,** only **her father and her husband** together can **nullify her vows?**
+
+This resolves Rabbi Eliezer's position neatly: he permits vow annulment because one of the brothers performed *ma'amar*, giving her *nissu'in* status, and the other brother is no longer in the picture. The *gemara* adds that this reading feeds back into our earlier question: *i amarta bishlama nissu'in osah, mishum hachi meifer* — if *ma'amar* creates *nissu'in* status, that is precisely why the *yavam* can annul the vows. But *i amarta erusin osah — heichi mati meifer?* If *ma'amar* produces only *erusin*, vow annulment requires the father, and the *mishnah*'s ruling is unexplained.
+
+### Rav Nachman Clarification
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר יִצְחָק: מַאי מֵיפֵר — מֵיפֵר בְּשׁוּתָּפוּת.
+>
+> **Translation:** **Rav Naḥman bar Yitzḥak said** that this proof can be rejected by interpreting the mishna as follows: **What is** the meaning of the phrase: He **nullifies? That he nullifies** her vows only **in conjunction** with her father.
+
+Rav Nachman bar Yitzchak pushes back. Perhaps we need not concede that *ma'amar* creates *nissu'in*. One might re-read Rabbi Eliezer's *yafer* as referring not to solo annulment but to annulment performed together with the father — *meifer bi-reshus ha-av*. The *gemara* immediately challenges this reading on textual grounds: the *mishnah* says *yafer*, in the singular, not *yaferu* — "he annuls," not "they annul." Solo annulment is what is being described.
+
+There is a further complication. Given that we have been working within Beit Shammai's framework and considering the view of Rabbi Elazar (the earlier amora cited at the start) that *ma'amar* is not a *kinyan gamur* but only *lidchos batzara bilvad*, the question returns: even if we grant the *yevamah arusah* status, the *yavam* still cannot annul alone — and the *mishnah* attributes full annulment power to him. The *gemara* poses this difficulty directly: how does any of this work if we do not accept *kinyan gamur*? One response offered is that perhaps there is a dual status at play — she is both an *arusah* on the *kiddushin* track and still retains a *yevamah* dimension — and the *erusin* component, together with the father, would allow *hafarat nedarim*. This is a strained answer, and the *gemara* acknowledges it.
+
+### Implicit Stipulation
+
+> **Hebrew/Aramaic:** וּלְרַב נַחְמָן בַּר יִצְחָק מִי נִיחָא? מִי קָתָנֵי ״יָפֵרוּ״? ״יָפֵר״ קָתָנֵי. אֶלָּא, הָכָא בְּמַאי עָסְקִינַן — שֶׁעָמְדָה בַּדִּין, וּפָסְקוּ לָהּ מְזוֹנוֹת מִשֶּׁלּוֹ, וְכִדְרַב פִּנְחָס מִשְּׁמֵיהּ דְּרָבָא, דְּאָמַר רַב פִּנְחָס מִשְּׁמֵיהּ דְּרָבָא: כׇּל הַנּוֹדֶרֶת — עַל דַּעַת בַּעְלָהּ הִיא נוֹדֶרֶת.
+>
+> **Translation:** The Gemara asks: If Rabbi Shimon issues a decree in this case requiring *ḥalitza* for the sister, out of concern for confusion, then there is a difficulty: **And as for Rav Naḥman bar Yitzḥak, does this** resolution that the mishna is only referring to a case where the father and the *yavam* can nullify her vows together **work out well? Did the** mishna **teach** that **they** can **nullify** her vows? **It teaches** that **he** can **nullify** her vows in the singular, implying that he nullifies the vows alone and not in conjunction with anyone else. **Rather,** the mishna must be explained differently: **With what are we dealing here?** It is a case where the *yavam*, regardless of whether or not he performed levirate betrothal, did not want to consummate the levirate marriage or perform *ḥalitza*. Therefore, the *yevama* **stood in court** so as to compel him to consummate the levirate marriage or perform *ḥalitza*, **and it ruled that he** must supply **her sustenance.** Because she is bound to him and cannot marry another, the court ruled that he was responsible for her livelihood. **And** this is in accordance with the statement that **Rav Pineḥas** said **in the name of Rava, as Rav Pineḥas said in the name of Rava: Any woman who makes a vow, makes her vow with the consent of her husband.** Because she is dependent upon her husband for her livelihood, she does not act without his consent. In this case, because the *yavam* is responsible to supply the *yevama* with sustenance, it is assumed that her vows are also made with his consent. It is for this reason that he can nullify her vows without her father. Consequently, no conclusive proof can be derived from here with regard to the strength of acquisition through levirate betrothal.
+
+The *gemara* therefore offers an alternative account of the *mishnah* that dispenses with *ma'amar* and *nissu'in* altogether. The case is one where the *yevamah* went to court (*amda be-din*), and the *beit din* ruled that since the *yavam* was refusing to perform either *yibum* or *chalitzah*, he must nonetheless support her financially — *pasku lah mezonot mi-shelo*. Once he is obligated to support her as a court-mandated dependent, we apply the principle stated by Rav Pinchas in the name of Rava: *kol ha-noderet al da'as ba'alah hi noderet* — any woman who makes a vow does so implicitly against the background of her husband's or quasi-husband's consent. Her vows are therefore understood as already implicitly conditional on his acceptance. This is not a technical *hafarat nedarim* in the formal sense — it is a presumption built into the structure of the relationship. The *gemara* recognizes the tension this creates: if such an implicit presumption always operates, why does the *Torah* need a formal mechanism for *hafarat nedarim* at all? The answer is that this implicit-stipulation framework applies specifically in the unusual relational context created by the court-ordered support arrangement — it is not a general rule displacing the *Torah*'s formal structure of vow annulment.
+
+---
+
+## Three Brothers
+
+### Case 1: Reuven Dies
+
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁלֹשָׁה אַחִין, שְׁנַיִם מֵהֶם נְשׂוּאִים שְׁתֵּי אֲחָיוֹת, וְאֶחָד נָשׂוּי נׇכְרִית. מֵת אֶחָד מִבַּעֲלֵי אֲחָיוֹת, וְכָנַס נְשׂוּי נׇכְרִית אֶת אִשְׁתּוֹ וּמֵת — הָרִאשׁוֹנָה יוֹצְאָה מִשּׁוּם אֲחוֹת אִשָּׁה, וּשְׁנִיָּה מִשּׁוּם צָרָתָהּ. עָשָׂה בָּהּ מַאֲמָר וּמֵת — נׇכְרִית חוֹלֶצֶת וְלֹא מִתְיַיבֶּמֶת.
+>
+> **Translation:** MISHNA: In the case of **three brothers, two of whom were married to two sisters and one who was married to an unrelated woman,** the following occurred: **The husband of one of the sisters died** childless, **and** the brother **who was married to the unrelated woman married,** i.e., performed levirate marriage with, the deceased brother's **wife and** later **died** himself, childless. In this situation, both women happen for levirate marriage before the other, remaining, brother. **The first** woman **is dismissed due to** the prohibition proscribing **the sister of one's wife,** as she is the sister of this brother's wife, **and the second** woman is dismissed **due to** her status as the first woman's **rival wife.** Following the first levirate marriage, this second woman became the rival wife of the sister, and is therefore exempt from levirate marriage as well. If, however, the brother married to the unrelated woman **performed** only **levirate betrothal,** but had not yet consummated the levirate marriage with the sister, **and he died, the unrelated woman,** whose halakhic status with regard to *yibbum* is similar to that of a sister's rival wife, must **perform *ḥalitza* and may not enter into levirate marriage.**
+
+The *mishnah* now works through a series of cases involving three brothers — two married to two sisters, one married to an unrelated woman. Take the names: Reuven married to Rachel, Shimon married to Leah, Levi married to Dvorah. The cases will vary by who dies first, who performs *yibum*, and whether *ma'amar* is substituted for *yibum*.
+
+**Case 1:** Reuven dies. Levi performs *yibum* with Rachel. Then Levi dies. Shimon now has before him both Rachel and Dvorah. Rachel is *achot ishto* — his wife's sister. Dvorah is *tzarat ervah*. The ruling: Rachel walks away as *achot isha*, and Dvorah is exempt because she is *tzaratah* — the co-wife of a forbidden relative.
+
+### Case 1 Ma'amar
+
+In the sub-case: instead of performing *yibum*, Levi performed *ma'amar* with Rachel and then died. Since this is now a case involving Beit Hillel's framework (not Beit Shammai's), Rachel is not actually fully married to Levi — the *ma'amar* creates a quasi-marital connection, not a complete *kinyan*. Rachel is thus a quasi-*ervah* in the *yibum* category. Dvorah, as the *tzarah* of a quasi-*ervah*, cannot be taken in *yibum* — but she does require *chalitzah*. Rachel walks away without obligation. The ruling: *nochrit choletzet ve-lo mityabemet* — Dvorah performs *chalitzah* but not *yibum*.
+
+### No Zika Principle
+
+> **Hebrew/Aramaic:** גְּמָ׳ טַעְמָא דַּעֲבַד בַּהּ מַאֲמָר, הָא לָא עֲבַד בַּהּ מַאֲמָר — נׇכְרִית יַבּוֹמֵי נָמֵי מְיַיבְּמָה. אָמַר רַב נַחְמָן: זֹאת אוֹמֶרֶת אֵין זִיקָּה, וַאֲפִילּוּ בְּחַד אַחָא.
+>
+> **Translation:** GEMARA: The Gemara deduces the following *halakha* from the second clause of the mishna: **The reason** that the mishna requires *ḥalitza* is specifically **because he,** the brother who was married to the unrelated woman, **performed levirate betrothal with** the sister. **Consequently, had he not performed levirate betrothal with her, the unrelated woman** would be permitted to **enter into levirate marriage as well.** This is true despite the fact that the levirate bond could potentially render her the rival wife of his wife's sister. **Rav Naḥman said: That is to say, the** levirate **bond is not substantial;** the woman requiring levirate marriage is not considered married to the *yavam*. **And** this is true **even** if the levirate bond was **with a single brother,** as this widowed sister happened for levirate marriage only before the brother who was married to the unrelated woman; her levirate bond was with him alone.
+
+The *gemara* draws a significant inference from this. The *mishnah* implies that if Levi had done neither *yibum* nor *ma'amar* — if he died without having acted at all — Dvorah would be entirely free for Shimon to perform *yibum* with her. The reason: Levi did have a *zika* to Rachel, but since he did nothing with it and Rachel is, in any case, *achot ishto* and off limits to Shimon, that *zika* carries no weight. Rav Nachman draws the explicit conclusion: *zot omeret ein zika, va-afilu be-chad acha* — this *mishnah* holds that there is no operative *zika*, even with a single brother-in-law. The *zika* alone — without any *ma'amar* and without *yibum* — does not bring Rachel into a problematic relationship with Shimon, and Dvorah is therefore free.
+
+### Case 2: Levi Dies
+
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁלֹשָׁה אַחִים, שְׁנַיִם מֵהֶם נְשׂוּאִים שְׁתֵּי אֲחָיוֹת, וְאֶחָד נָשׂוּי נׇכְרִית. מֵת הַנָּשׂוּי נׇכְרִית, וְכָנַס אֶחָד מִבַּעֲלֵי אֲחָיוֹת אֶת אִשְׁתּוֹ וּמֵת — הָרִאשׁוֹנָה יוֹצֵאת מִשּׁוּם אֲחוֹת אִשָּׁה, וּשְׁנִיָּה — מִשּׁוּם צָרָתָהּ. עָשָׂה בָּהּ מַאֲמָר וּמֵת — נׇכְרִית חוֹלֶצֶת וְלֹא מִתְיַיבֶּמֶת.
+>
+> **Translation:** MISHNA: In the case of **three brothers, two of whom were married to two sisters and one who was married to an unrelated woman,** the following occurred: **He who was married to the unrelated woman died, and one of the husbands of the sisters married his wife, and** then **died** childless as well. **The first** woman, i.e., the sister who was originally married to the brother who performed levirate marriage, **is dismissed** and is exempt from levirate marriage **due to** her status as **the sister of his wife. And the second** woman, i.e., the unrelated woman who had entered into levirate marriage, is dismissed **as her rival wife.** If, however, **he performed levirate betrothal** with the unrelated woman, **and** then **died,** then this **unrelated woman** must **perform *ḥalitza* and may not enter into levirate marriage,** as levirate betrothal rendered her status with regard to *yibbum* as similar to the rival wife of his wife's sister.
+
+**Case 2:** Now the order changes. Levi dies first. Reuven — married to Rachel — performs *yibum* with Dvorah and thus holds both Rachel (his wife) and Dvorah (his new *yevamah* via *yibum*). Then Reuven dies. Now Shimon faces Rachel and Dvorah. Rachel is *achot ishto*; Dvorah is *tzarat ervah*. The ruling is the same: Rachel walks away as *achot isha*, Dvorah is exempt as *tzaratah*.
+
+### Case 2 Ma'amar
+
+Sub-case: instead of *yibum*, Reuven performed *ma'amar* with Dvorah and then died. Shimon's situation mirrors Case 1: Rachel is the real *ervah* (his wife's sister and his own wife), Dvorah is the quasi *tzarat ervah* through the *ma'amar*. Dvorah requires *chalitzah* but cannot be taken in *yibum*.
+
+### Redundancy Question
+
+> **Hebrew/Aramaic:** גְּמָ׳ הָא תּוּ לְמָה לִי? הַיְינוּ הָךְ! הַשְׁתָּה: וּמָה הָתָם דַּאֲחוֹת אִשָּׁה הָוְיָא צָרָה לְנׇכְרִית — אָמְרַתְּ נׇכְרִית אֲסוּרָה, הָכָא דְּנׇכְרִית הָוְיָא צָרָה לַאֲחוֹת אִשָּׁה — לֹא כׇּל שֶׁכֵּן!
+>
+> **Translation:** GEMARA: The Gemara asks: **Why do I need this** mishna **as well? This** principle **is identical** to the principle behind the ruling in the previous mishna, and therefore this ruling can easily be deduced from the previous ruling. **Now, just as there, when** his **wife's sister became rival wife of the unrelated woman** who was already the brother's wife, **you say** that **the unrelated woman is forbidden** despite the fact that the forbidden relative joined later, **here, where the unrelated woman became the rival wife of** his **wife's sister** afterward, is it **not all the more so** clear that she is exempt as a rival wife?
+
+The *gemara* asks: why does the *mishnah* need to state this second case at all? Once we know the ruling in Case 1, Case 2 follows *a fortiori*. In Case 1, the *ervah* — Rachel — was only quasi-connected to Levi through *ma'amar*, and yet that was enough to make Dvorah a *tzarat ervah* requiring *chalitzah*. In Case 2, the *ervah* — Rachel — is Shimon's actual wife, and the quasi-connection runs only through Dvorah. If the weaker case (quasi-*ervah*) creates enough of a problem to block *yibum*, then the stronger case (real *ervah*) certainly does. The second *mishnah* appears to be a *kal va-chomer* from the first.
+
+### Pedagogical Order
+
+> **Hebrew/Aramaic:** תַּנָּא, הָךְ תְּנָא בְּרֵישָׁא וְהָךְ חַזְיַא לְהֶתֵּירָא וְשַׁרְיַא, וַהֲדַר חַזְיַא לְאִיסּוּרָא. וְאַיְּידֵי דְּחַבִּיבָה לֵיהּ אַקְדְּמַהּ, וּמִשְׁנָה לֹא זָזָה מִמְּקוֹמָהּ.
+>
+> **Translation:** The Gemara answers: This mishna was unnecessary, and this is how the duplication occurred: **The *tanna* taught this** mishna **at first, and** with regard to **that** previous case **saw it** fitting to render her **permitted, and he permitted** her to the brother, for he held that if the forbidden relative joined the man's household later, then she would not render the first wife prohibited as the rival wife of a forbidden relative. **And then** the *tanna* subsequently retracted and **saw it** fitting **to** render the woman **forbidden.** He decided that this woman should be considered the rival wife of a forbidden relative as well, and therefore rendered her forbidden to the brother. **And since** that case was novel, **it was beloved to him and he taught it earlier.** In truth, it would have now been possible to eliminate the present mishna, for there was no longer any novelty in it; its ruling could be derived by an *a fortiori* argument from the previous ruling. **However, a mishna does not move from its place.** Since this version of the mishna had already been fixed, it was deemed inappropriate to remove it completely, and it remained in place despite the fact that it was no longer necessary.
+
+The *gemara* resolves this by explaining the actual compositional history. The second *mishnah* was in fact taught first — it is the case where the *ervah* is the real wife and Dvorah is brought in only quasi, through *ma'amar*. This case may have initially seemed permissible: after all, the core obligation was with Dvorah, and the *ervah* is only tangentially implicated through *ma'amar*. One might have thought to allow *yibum* with Dvorah in that scenario. The author therefore ruled that even this case is forbidden and requires only *chalitzah*. This was the *chiddush*. The first *mishnah* — where the quasi-wife is the *ervah* — followed later as an extension, and the ruling there is far more obvious. *Vahadur chazi le'issura* — the author came to see that even the easier-seeming case must be forbidden. Because that ruling was the dear *chiddush*, the author placed it first in the text. And *mishneh lo zaz mi-mekoma* — the second *mishnah* was not removed even after it became seemingly redundant, because it had an independent pedagogical history. *Tosafot* notes that this explanation is necessary: had the second case been just a brief addendum, one might have attributed it to an incidental *zu ve-ein tzarich lomar zu* formulation. But since it is a full, independently described *mishnah*, a fuller explanation of why both were retained is required.
+
+---
+
+## Death Moment Rule
+
+### Case 3: Changed Status
+
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁלֹשָׁה אַחִים, שְׁנַיִם מֵהֶם נְשׂוּאִים שְׁתֵּי אֲחָיוֹת, וְאֶחָד נָשׂוּי נׇכְרִית. מֵת אֶחָד מִבַּעֲלֵי אֲחָיוֹת, וְכָנַס נְשׂוּי נׇכְרִית אֶת אִשְׁתּוֹ, וּמֵתָה אִשְׁתּוֹ שֶׁל שֵׁנִי, וְאַחַר כָּךְ מֵת נְשׂוּי נׇכְרִית — הֲרֵי זוֹ אֲסוּרָה עָלָיו עוֹלָמִית, הוֹאִיל וְנֶאֶסְרָה עָלָיו שָׁעָה אַחַת.
+>
+> **Translation:** MISHNA: In the case of **three brothers, two of whom were married to two sisters and one who was married to an unrelated woman,** the following occurred: **One of the husbands of the sisters died childless, and he who was married to the unrelated woman married** the deceased husband's **wife, and** then **the wife of the second** brother, the other one of the sisters, **died. Afterward,** the brother **who was married to the unrelated woman died,** leaving two women for levirate marriage before the remaining brother: The unrelated woman and the woman who was previously prohibited as the sister of his deceased wife. In this case, the sister **is forbidden to him forever.** She is not forbidden due to her status as his wife's sister, as his wife already died and one's wife's sister is permitted after the wife's death. However, **since she was** already **forbidden to him at one time,** she is forbidden to him forever. When she first happened before the brothers for levirate marriage, before the third brother married her, she was forbidden to the second brother as his wife's sister. Therefore, she is forbidden to him forever. In addition, she exempts her rival wife, the unrelated woman, from levirate marriage.
+
+**Case 3** introduces a critical new variable. Reuven dies. At this moment, Rachel — Shimon's wife — is still alive, so Rachel stands before Shimon as *achot ishto*. Levi is also present, and he could in principle perform *yibum* with Rachel. But rather than anyone acting, Leah then dies. And then Levi dies. Now, when Levi dies, Rachel falls before Shimon. At this point Leah is dead — Rachel is no longer *achot ishto*. Should Shimon now be permitted to perform *yibum* with Rachel?
+
+The *mishnah* rules: *harei zu asurah alav olamit, ho'il ve-ne'esrah alav sha'at achat* — she remains forbidden to him permanently, because there was a moment at which she was forbidden. That moment was the instant Reuven died: at that point, Rachel became *achot ishto* — forbidden to Shimon. That initial prohibition fixes her status permanently.
+
+### Rav's Rule
+
+> **Hebrew/Aramaic:** גְּמָ׳ אָמַר רַב יְהוּדָה אָמַר רַב: כׇּל יְבָמָה שֶׁאֵין אֲנִי קוֹרֵא בָּהּ בִּשְׁעַת נְפִילָה ״יְבָמָהּ יָבֹא עָלֶיהָ״ — הֲרֵי הִיא כְּאֵשֶׁת אָח שֶׁיֵּשׁ לָהּ בָּנִים, וַאֲסוּרָה.
+>
+> **Translation:** GEMARA: **Rav Yehuda said** that **Rav said** a principle on this matter: **Any *yevama* to whom the verse "Her brother-in-law will have intercourse with her"** (Deuteronomy 25:5) **cannot be applied at the time that she happens** before him for levirate marriage because she was forbidden to him at that moment, **is then** forever considered to be **like the wife of a brother** with whom **she has children, and she is forbidden** to him.
+
+Rav Yehuda in the name of Rav articulates the governing principle: *kol yevamah she-einah nikre'et bah be-sha'at nefilah yevamah yavo alehah, harei hi ke-eshet ach she-yesh lah banim ve-asurah* — any *yevamah* who could not be designated at the moment of her husband's death for the verse "the *yavam* shall enter her" — meaning *yibum* was impossible at that very moment — takes on the permanent status of a brother's wife for whom there is no *mitzvah* of *yibum*, and she remains forbidden indefinitely. The reason is not merely that she was *achot ishto* at that moment. When Reuven died, Rachel simultaneously became two things: *achot ishto* (forbidden for that reason) and *eshet achiv* (dead brother's wife, ordinarily calling for *yibum*). But since *yibum* was not possible — *lo chazya* — the *eshet achiv* status does not generate a *mitzvah* but rather an *issur*: she is a brother's wife for whom there is no *mitzvah* of *yibum*, which is the forbidden category of *eshet ach she-yesh lah banim*. That *issur* is permanent, surviving even the subsequent death of Leah.
+
+### Why Different
+
+> **Hebrew/Aramaic:** מַהוּ דְּתֵימָא: הָנֵי מִילֵּי הֵיכָא דְּלָא אִיחַזְיָא לַהּ בִּנְפִילָה רִאשׁוֹנָה, אֲבָל הֵיכָא דְּאִיחַזְיָא לַהּ בִּנְפִילָה רִאשׁוֹנָה — אֵימָא תִּישְׁתְּרֵי, קָא מַשְׁמַע לַן.
+>
+> **Translation:** The Gemara answers: One cannot learn the halakhic principle from that case. **Lest you say that there** she is forbidden forever because of the following argument: When she was forbidden to the brother, **she was precluded from** entering **this household completely,** i.e., from the entire obligation of levirate marriage. She received total exemption from the mitzva of levirate marriage because this obligation applied only to the one remaining brother, and she was forbidden to him at the time that she happened before him for levirate marriage. But **here, however,** in the case Rav is referring to, **where she was not completely precluded from** entering **this household** because she still required levirate marriage with another brother, one could **say: Since she is eligible** and permitted **to this** brother, **who was married to the unrelated woman, she is eligible for this** second brother following the death of his wife **as well,** in other words, she was not rendered completely exempt from the obligation of levirate marriage. Lest one make this argument, Rav **teaches us** that under any circumstances she who was forbidden at one time is forbidden forever.
+
+One might ask why this case differs from the standard case of two brothers and two sisters, which was addressed in an earlier *mishnah*. There, when there was only one brother and one sister-in-law who was forbidden, the process ended entirely at the moment Reuven died — there was no one else to perform *yibum*, the *yibum* process was over, and the permanent *issur* of *eshet achiv* was unambiguously in place. Here, by contrast, when Reuven dies, Levi is still available — the *yibum* process with Rachel is not over. Rachel could still be taken by Levi. The process is ongoing. Perhaps, one might argue, the status that attaches to Shimon vis-à-vis Rachel should be reassessed once the *yibum* process plays out and Leah dies.
+
+### Multiple Brothers
+
+The *gemara* acknowledges this argument. When multiple brothers remain and the *yevamah* is still in process — *lo idchi lah me-hai beita le-gamrei* — one might have thought that a change in her status during the waiting period could open the door for another brother. Since she was not definitively excluded from the house — Levi could still act on her — perhaps Shimon's prohibition is not yet sealed. Rav's ruling establishes that this is not so.
+
+### Dual Status
+
+The reason lies in the dual status Rachel acquired at the moment of Reuven's death. She was *achot ishto* — that is why *yibum* was impossible for Shimon at that moment — and simultaneously she became *eshet achiv she-yesh lah banim*, a dead brother's wife for whom there is no *mitzvah of yibum*. The first status, *achot ishto*, can dissolve when Leah dies. The second status, *eshet achiv*, does not dissolve. It is fixed at the *sha'at nefilah*, the moment of death, and it persists. Even when Rachel stops being *achot ishto*, she remains permanently forbidden to Shimon as a brother's wife who was never amenable to *yibum*.
+
+---
+
+## Divorce Case
+
+### Divorce Setup
+
+> **Hebrew/Aramaic:** מַתְנִי׳ שְׁלֹשָׁה אַחִים, שְׁנַיִם מֵהֶם נְשׂוּאִים שְׁתֵּי אֲחָיוֹת, וְאֶחָד נָשׂוּי נׇכְרִית. גֵּירַשׁ אֶחָד מִבַּעֲלֵי אֲחָיוֹת אֶת אִשְׁתּוֹ, וּמֵת נְשׂוּי נׇכְרִית, וּכְנָסָהּ הַמְגָרֵשׁ וָמֵת — זוֹ הִיא שֶׁאָמְרוּ: וְכוּלָּן שֶׁמֵּתוּ אוֹ נִתְגָּרְשׁוּ — צָרוֹתֵיהֶן מוּתָּרוֹת.
+>
+> **Translation:** MISHNA: In the case of **three brothers, two of whom were married to two sisters and one who was married to an unrelated woman,** the following occurred: Shimon, **the husband of one of the sisters, divorced his wife, and** then Levi, **who was married to the unrelated woman, died, and** Shimon, **the man who divorced** his wife, **married,** i.e., performed levirate marriage with, **her,** i.e., this unrelated woman. **And** then Shimon himself later **died,** so that the unrelated woman happened for levirate marriage before Reuven, the third brother, who is married to the second sister. In this scenario, Reuven is allowed to consummate the levirate marriage with the unrelated woman. **This is** the case that was referred to when **they said: And** with regard to **all those** fifteen forbidden relatives **who died or were divorced, their rival wives are permitted** to enter into levirate marriage. This is because at the time that they happened before the *yavam* for levirate marriage they were no longer the rival wives of a forbidden relative.
+
+The final *mishnah* introduces divorce in place of death. The same three brothers: Reuven married to Rachel, Shimon married to Leah, Levi married to Dvorah. Now: Shimon divorces Leah. Then Levi dies. Shimon performs *yibum* with Dvorah. Then Shimon dies.
+
+### Leah Freed
+
+The key move is Shimon's divorce of Leah. Once Leah is divorced, she is no longer Shimon's wife. The prohibition of *achot ishto* does not apply to a divorced woman when the original wife is no longer in the picture — or more precisely, the *issur* of *achot isha* applies only during the life of the wife (*bi-chayeha*), and a divorced woman's sister is technically not subject to that prohibition while the divorce stands. What matters for our purposes is that Leah is entirely outside the *yibum* equation: there is no *zika* to Leah because she was divorced, not widowed. She has no *yibum* obligation and brings no complications.
+
+### Dvorah Permitted
+
+When Levi dies, Dvorah falls into the *yibum* pool. Shimon — who has already divorced Leah — faces only Dvorah. There is no *ervah* in the picture. Dvorah is an unrelated woman whose husband (Levi) has died childless, and Shimon is the available *yavam*. There is nothing blocking *yibum* with Dvorah. The barrier of *achot ishto* that might have existed were Leah still his wife is absent. Shimon performs *yibum* with Dvorah. When Shimon subsequently dies, Reuven faces Dvorah. She is his brother Shimon's widow — an obligation of *yibum* — with no complicating *ervah* in the picture. *Yibum* with Dvorah is entirely permissible. As for Leah: she was divorced, not widowed, and so she never entered the *yibum* calculation at all. Reuven has no *yibum* obligation toward her, and the only prohibition that exists is the ordinary *ervah* of *achot isha* — he may not marry the sister of his wife Rachel, but that is an independent matter entirely unrelated to the *yibum* structure.
+
+### Final Teaching
+
+> **Hebrew/Aramaic:** גְּמָ׳ טַעְמָא דְּגֵירַשׁ וְאַחַר כָּךְ מֵת, אֲבָל מֵת וְאַחַר כָּךְ גֵּירַשׁ — אֲסוּרָה. אָמַר רַב אָשֵׁי: זֹאת אוֹמֶרֶת: יֵשׁ זִיקָּה, אֲפִילּוּ בִּתְרֵי אַחֵי.
+>
+> **Translation:** GEMARA: The Gemara deduces from here that **the reason** for this *halakha* is specifically **that** Shimon **divorced** his wife **and after that** Levi **died** and Shimon married the unrelated woman. **But** if Levi had **died** first, **and later** Shimon **divorced** his wife, then the unrelated woman would be **forbidden** to Reuven due to the levirate bond that existed between her and Shimon prior to the latter's divorce. She would be considered the rival wife of the divorced woman who is the sister of Reuven's wife. **Rav Ashi said: That is to say, the** levirate **bond is substantial, even with two brothers.** Although the unrelated woman required levirate marriage with two brothers, the levirate bond is substantial enough to create a relationship between the unrelated woman and Shimon such that the unrelated woman is considered the rival wife of the divorced woman, i.e., the sister of Reuven's wife.
+
+The *mishnah* closes with the general principle: *kulan she-meisu o nitgareshu, tzaroseihen mutarot* — in all cases where the forbidden wives have died or have been divorced, their *tzarot* — their co-wives who were blocked from *yibum* only because of their association with those forbidden women — become permitted. Once the *ervah* leaves the picture, whether through death or through divorce, the barrier that her presence created dissolves, and the remaining *yevamah* may be taken in *yibum* normally.

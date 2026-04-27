@@ -1,0 +1,41 @@
+### Menachot 33a
+
+**1.**
+*Hebrew/Aramaic:* בְּטֶפַח הַסָּמוּךְ לִרְשׁוּת הָרַבִּים, כַּמָּה דִּמְרַחַק מְעַלֵּי, קָא מַשְׁמַע לַן.
+*Translation:* **in the handbreadth adjacent to the public domain,** perhaps **the further** the *mezuza* is from the inside of the house the **better,** and one may affix it even fully outside the airspace of the entrance. To counter this, Shmuel **teaches us** that the *mezuza* must be within the airspace of the entrance itself.
+
+**2.**
+*Hebrew/Aramaic:* וְאָמַר רַב יְהוּדָה, אָמַר שְׁמוּאֵל: כְּתָבָהּ עַל שְׁנֵי דַּפִּין – פְּסוּלָה. מֵיתִיבִי: כְּתָבָהּ עַל שְׁנֵי דַּפִּין וְהִנִּיחָה בִּשְׁנֵי סִיפִּין – פְּסוּלָה, הָא בְּסַף אֶחָד – כְּשֵׁרָה! רְאוּיָה לִשְׁנֵי סִיפִּין קָאָמַר.
+*Translation:* **And Rav Yehuda says** that **Shmuel says:** If one **wrote** a *mezuza* **on two sheets** it is **unfit.** The Gemara **raises an objection** from a *baraita* that teaches: If one **wrote** a *mezuza* **on two sheets and placed it on** the **two doorposts** of the entrance, it is **unfit.** The Gemara states the objection: By inference, if the *mezuza* was affixed **on one doorpost,** it is **fit,** despite the fact that it is written on two sheets. The Gemara answers: The *baraita* is not referring to a case where one affixed the *mezuza* on two doorposts. Rather, the *baraita* **is saying** that if it was written on two sheets in such a manner that it is **fit to** be affixed to **two doorposts,** i.e., there is a space between the writing of the first and second passages, so that one can separate the two sheets for different doorposts, it is unfit. This is in accordance with the statement of Rav Yehuda, citing Shmuel.
+
+**3.**
+*Hebrew/Aramaic:* וְאָמַר רַב יְהוּדָה, אָמַר שְׁמוּאֵל: בִּמְזוּזָה, הַלֵּךְ אַחַר הֶיכֵּר צִיר. מַאי הֶיכֵּר צִיר? אָמַר רַב אַדָּא: אֲבַקְתָּא. הֵיכִי דָּמֵי? כְּגוֹן פִּיתְחָא דְּבֵין תְּרֵי בָּתֵּי, בֵּין בֵּי גַבְרֵי לְבֵי נְשֵׁי.
+*Translation:* **And Rav Yehuda says** that **Shmuel says:** The *halakha* is that a *mezuza* must be affixed to the doorpost on its right side, and the right side is determined by the direction from which one enters the room. **With regard to a *mezuza*,** when deciding which side is the right side, one should **follow the indication of** the **hinge.** The Gemara asks: **What** is **the indication of** the **hinge? Rav Adda said: The socket** into which the hinge is inserted. The room with the socket is considered the inside room, and the *mezuza* is affixed to the side which is on one’s right when entering that room. The Gemara asks: **What are the circumstances,** i.e., in what kind of case was this guideline to follow the indication of the hinge necessary? The Gemara answers: This indication is necessary in a case **where** there is **an entrance that is between two houses,** e.g., **between a room for men and a room for women,** as in such a situation the direction of the entrance is unclear.
+
+**4.**
+*Hebrew/Aramaic:* רֵישׁ גָּלוּתָא בְּנָא בֵּיתָא, אֲמַר לֵיהּ לְרַב נַחְמָן: ״קְבַע לִי מְזוּזְתָּא״, אָמַר רַב נַחְמָן: ״תְּלִי דַּשֵּׁי בְּרֵישָׁא״.
+*Translation:* The Gemara relates: **The Exilarch built** a new **house. He said to Rav Naḥman: Affix *mezuzot* for me** in the house. **Rav Naḥman said: First erect the doors,** so that I can affix the *mezuzot* in the appropriate places, according to the placement of the hinges.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב יְהוּדָה, אָמַר רַב: עֲשָׂאָהּ כְּמִין נֶגֶר – פְּסוּלָה. אִינִי? וְהָא כִּי אֲתָא רַב יִצְחָק בַּר יוֹסֵף אָמַר: כּוּלְּהוּ מְזוּזָתָא דְּבֵי רַבִּי כְּמִין נֶגֶר הֲווֹ עֲבִידָן, וְהַהִיא פִּיתְחָא דְּעָיֵיל בֵּיהּ רַבִּי לְבֵי מִדְרְשָׁא לָא הֲוָה לַהּ מְזוּזָה! לָא קַשְׁיָא: הָא דַּעֲבִידָא כְּסִיכְּתָא, הָא דַּעֲבִידָא כְּאִיסְתָּוִירָא.
+*Translation:* **Rav Yehuda says** that **Rav says:** If one **fashioned** a *mezuza* **like a bolt,** i.e., he wedged it into a hole in the doorpost of a gate, or affixed it to the doorpost horizontally, it is **unfit.** The Gemara raises a difficulty: **Is that so? But when Rav Yitzḥak bar Yosef came** from Eretz Yisrael to Babylonia, **he said: All the *mezuzot* in the house of Rabbi** Yehuda HaNasi **were fashioned like a bolt, and** he also said: **That entrance by which Rabbi** Yehuda HaNasi **entered the study hall did not have a *mezuza*.** The Gemara answers: This is **not difficult. This** ruling, that it is unfit, is referring to a case **where it is prepared like a peg,** i.e., he inserted it deep into the doorpost while it was lying horizontally. **That** ruling, that it is fit, is referring to a case **where it is prepared like an ankle [*ke’istevira*],** i.e., it is vertical.
+
+**6.**
+*Hebrew/Aramaic:* אִינִי? וְהָא הָהוּא פִּיתְחָא דַּהֲוָה עָיֵיל בַּהּ רַב הוּנָא לְבֵי מִדְרְשָׁא, וְהַוְיָא לֵהּ מְזוּזָה! הָהוּא רְגִיל הֲוָה, דְּאָמַר רַב יְהוּדָה אָמַר רַב: בִּמְזוּזָה הַלֵּךְ אַחַר הָרָגִיל.
+*Translation:* With regard to the second element of Rav Yitzḥak bar Yosef’s statement, that the entrance by which Rabbi Yehuda HaNasi entered the study hall did not have a *mezuza*, the Gemara asks: **Is that so? But** what of **that entrance by which Rav Huna would enter the study hall, which had a *mezuza*?** The Gemara answers: **That** entrance **was** the one through which all were **accustomed** to enter the study hall. By contrast, the entrance that Rabbi Yehuda HaNasi used was a side entrance, which was designated for him alone. Consequently, it was exempt from the obligation to affix a *mezuza*, **as Rav Yehuda says** that **Rav says: With regard to a *mezuza*, follow the** entrance that people are **accustomed** to using.
+
+**7.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא אָמַר רַב מַתְנָא אָמַר שְׁמוּאֵל: מִצְוָה לְהַנִּיחָהּ בִּתְחִלַּת שְׁלִישׁ הָעֶלְיוֹן, וְרַב הוּנָא אָמַר: מַגְבִּיהַּ מִן הַקַּרְקַע טֶפַח, וּמַרְחִיק מִן הַקּוֹרָה טֶפַח, וְכׇל הַפֶּתַח כּוּלּוֹ כָּשֵׁר לִמְזוּזָה.
+*Translation:* § **Rabbi Zeira says** that **Rav Mattana says** that **Shmuel says:** It is **a mitzva to place** the *mezuza* **at the beginning of the upper third** of the doorpost. **And Rav Huna says:** One **raises** the *mezuza* **a handbreadth from the ground, or** one **distances** it **from the** cross **beam,** i.e., the lintel, **a handbreadth, and the entire entrance** between those two handbreadths is **fit for** the placement of the ***mezuza*.**
+
+**8.**
+*Hebrew/Aramaic:* מֵיתִיבִי: מַגְבִּיהַּ מִן הַקַּרְקַע טֶפַח, וּמַרְחִיק מִן הַקּוֹרָה טֶפַח, וְכׇל הַפֶּתַח כּוּלּוֹ כָּשֵׁר לִמְזוּזָה, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי יוֹסֵי אוֹמֵר: ״וּקְשַׁרְתָּם״ ״וּכְתַבְתָּם״, מָה קְשִׁירָה בְּגוֹבַהּ – אַף כְּתִיבָה בְּגוֹבַהּ.
+*Translation:* The Gemara **raises an objection** from a *baraita*: One **raises** the *mezuza* **a handbreadth from the ground, or** one **distances** it **from the** cross **beam a handbreadth, and the entire entrance** between those two handbreadths is **fit for** the placement of the ***mezuza*;** this is **the statement of Rabbi Yehuda. Rabbi Yosei says:** The verse states: **“And you shall bind them** for a sign upon your arm” (Deuteronomy 6:8), and then it states: **“And you shall write them** upon the doorposts of your house” (Deuteronomy 6:9). **Just as** the **binding** of the phylacteries is performed **on** the **upper** part of the arm, **so too,** the **writing,** i.e., the placement, of a *mezuza* must be specifically **on** the **upper** part of the entrance.
+
+**9.**
+*Hebrew/Aramaic:* בִּשְׁלָמָא לְרַב הוּנָא, הוּא דְּאָמַר כְּרַבִּי יְהוּדָה, אֶלָּא לִשְׁמוּאֵל דְּאָמַר – כְּמַאן? לֹא כְּרַבִּי יְהוּדָה וְלֹא כְּרַבִּי יוֹסֵי!
+*Translation:* The Gemara explains the objection: **Granted, according to Rav Huna, he states** his ruling **in accordance with** the opinion of **Rabbi Yehuda; but according to Shmuel, in accordance with whose** opinion **does he state** his ruling? It is **not in accordance with** the opinion of **Rabbi Yehuda, and** it is **not in accordance with** the opinion of **Rabbi Yosei.**
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב נָתָן: לְעוֹלָם כְּרַבִּי יוֹסֵי,
+*Translation:* **Rav Huna, son of Rav Natan, said: Actually,** Shmuel’s ruling is **in accordance with** the opinion of **Rabbi Yosei,**

@@ -1,0 +1,45 @@
+### Ketubot 88a
+
+**1.**
+*Hebrew/Aramaic:* אִי פִּיקֵּחַ הוּא, מַיְיתֵי לַהּ לִידֵי שְׁבוּעָה דְּאוֹרָיְיתָא. יָהֵיב לַהּ כְּתוּבְּתַהּ בְּאַפֵּי חַד סָהֲדָא, וְסָמֵיךְ סָהֲדָא קַמָּא אַסָּהֲדָא בָּתְרָא, וּמוֹקֵים לְהוּ לְהָנָךְ קַמָּאֵי בְּמִלְוָה.
+*Translation:* **If** the husband **is perspicacious,** he can **induce her to** become obligated to take **an oath by Torah** law even in a case where only one witness saw the payment of the marriage contract, as follows: **He** now **gives her** the payment of **her entire marriage contract in the presence of one witness, and joins the first witness to the last witness,** so that there are now two witnesses to the payment of the entire marriage contract. **And** then, **he establishes this first** payment, about which the first witness had testified, **as a loan,** and claims payment of that sum from her, supported by the testimony of the first witness. With regard to this claim, her oath would serve the purpose of exempting her from payment, and it is not connected with a lien on land. Therefore, the witness can obligate her in an oath by Torah law.
+
+**2.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: הֵיאַךְ סָמֵיךְ סָהֲדָא קַמָּא אַסָּהֲדָא בָּתְרָא? אֶלָּא אָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: יָהֵיב לַהּ כְּתוּבְּתַהּ בְּאַפֵּי סָהֲדָא קַמָּא וְסָהֲדָא בָּתְרָא וּמוֹקֵים לְה[וּ] לְהָנָךְ קַמָּאֵי בְּהַלְוָאָה.
+*Translation:* **Rav Sheisha, son of Rav Idi, objects to this: How can he join the first witness to the last witness** when their testimonies do not refer to the same action? **Rather, Rav Sheisha, son of Rav Idi, said: He** now **gives her** the payment of **her entire marriage contract in the presence of** both **the first witness and the last witness. And** then, **he establishes this first** payment, about which the first witness had testified, **as a loan,** and claims payment of that sum from her, supported by the testimony of the first witness.
+
+**3.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אָשֵׁי, אַכַּתִּי יְכוֹלָה לְמֵימַר: שְׁתֵּי כְּתוּבּוֹת הֲוַאי! אֶלָּא אָמַר רַב אָשֵׁי: הוּא דְּמוֹדַע לְהוּ.
+*Translation:* **Rav Ashi objects to this:** The woman **can still say: I had two marriage contracts.** She can claim that he wrote two marriage contracts and she collected the payments at two separate points in time, but there was never a loan. **Rather, Rav Ashi said: It** is possible for him to obligate her to take an oath if **he informs** the two witnesseses that on this occasion he is paying her for the one marriage contract that he wrote. She is then unable to claim that it was a different marriage contract, and he can compel her to take an oath by Torah law about the first payment, which is now established as a loan.
+
+**4.**
+*Hebrew/Aramaic:* מִנְּכָסִים מְשׁוּעְבָּדִים. תְּנַן הָתָם: וְכֵן הַיְּתוֹמִים לֹא יִפָּרְעוּ אֶלָּא בִּשְׁבוּעָה.
+*Translation:* § The mishna teaches that if a woman comes to claim her marriage contract **from liened property** that had been sold to a third party, she must first take an oath. **We learned** in a mishna **there** (*Shevuot* 45a): **And similarly, orphans can collect** payment **only by** means of **an oath.**
+
+**5.**
+*Hebrew/Aramaic:* מִמַּאן? אִילֵימָא מִלֹּוֶה — הַשְׁתָּא אֲבִיהֶן שָׁקֵיל בְּלָא שְׁבוּעָה, וְאִינְהוּ בִּשְׁבוּעָה?! אֶלָּא הָכִי קָאָמַר: וְכֵן הַיְּתוֹמִים מִן הַיְּתוֹמִים — לֹא יִפָּרְעוּ אֶלָּא בִּשְׁבוּעָה.
+*Translation:* The Gemara asks: **From whom** can the orphans collect payment only by means of an oath? **If we say** that they can collect payment only with an oath **from one who borrowed** money from their father, then it is difficult to understand how this can be so. **Now,** can it be that **their father,** the lender, had the right to **take** payment from the borrower **without an oath** by relying on the document, **and they,** the orphans, with regard to whom the Sages were lenient, can claim the loan only **by** means of **an oath? Rather, this is what** the mishna is **saying: And similarly, the orphans** of the lender who come to collect payment from **the orphans** of the borrower **can collect only by** means of **an oath.**
+
+**6.**
+*Hebrew/Aramaic:* אָמַר רַב זְרִיקָא אָמַר רַב יְהוּדָה, לֹא שָׁנוּ אֶלָּא שֶׁאָמְרוּ יְתוֹמִים: אָמַר לָנוּ אַבָּא ״לָוִיתִי וּפָרַעְתִּי״, אֲבָל אָמְרוּ: אָמַר לָנוּ אַבָּא ״לֹא לָוִיתִי״ — אַף בִּשְׁבוּעָה לֹא יִפָּרְעוּ.
+*Translation:* **Rav Zerika said** that **Rav Yehuda said: It was taught** that those who take an oath can collect a debt from orphans **only if** the borrower’s **orphans said:** Our **father said to us: I borrowed and repaid. However,** if the orphans **said:** Our **father said to us: I did not borrow,** then **they may not collect** from the orphans **even** with **an oath.**
+
+**7.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רָבָא, אַדְּרַבָּה: כׇּל הָאוֹמֵר ״לֹא לָוִיתִי״ — כְּאוֹמֵר ״לֹא פָּרַעְתִּי״ דָּמֵי,
+*Translation:* **Rava objects to this: On the contrary,** there is a principle in the *halakhot* of claims that **anyone who says: I did not borrow is considered like one who says: I did not repay.** Therefore, when there is evidence that he did borrow, he must pay the entire amount without the lender having to take an oath.
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא אִי אִתְּמַר, הָכִי אִתְּמַר, אָמַר רַב זְרִיקָא אָמַר רַב יְהוּדָה: לֹא שָׁנוּ אֶלָּא שֶׁאָמְרוּ יְתוֹמִים: אָמַר לָנוּ אַבָּא ״לָוִיתִי וּפָרַעְתִּי״, אֲבָל אָמְרוּ: אָמַר לָנוּ אַבָּא ״לֹא לָוִיתִי״ — נִפְרָעִין שֶׁלֹּא בִּשְׁבוּעָה. שֶׁכׇּל הָאוֹמֵר ״לֹא לָוִיתִי״ כְּאוֹמֵר ״לֹא פָּרַעְתִּי״ דָּמֵי.
+*Translation:* **Rather,** the Gemara emends the above statement: **If it was stated, it was stated like this: Rav Zerika said** that **Rav Yehuda said: They taught** this *halakha* **only if the orphans said:** Our **father said to us: I borrowed and repaid. However,** if **they said:** Our **father said to us: I did not borrow,** those who collect debts from them **can collect** even **without an oath, for anyone who says: I did not borrow is considered like one who says: I did not repay.**
+
+**9.**
+*Hebrew/Aramaic:* וְנִפְרַעַת שֶׁלֹּא בְּפָנָיו, לֹא תִּפָּרַע אֶלָּא בִּשְׁבוּעָה. אָמַר רַב אַחָא שַׂר הַבִּירָה: מַעֲשֶׂה בָּא לִפְנֵי רַבִּי יִצְחָק בְּאַנְטוֹכְיָא, וְאָמַר: לֹא שָׁנוּ אֶלָּא לִכְתוּבַּת אִשָּׁה, מִשּׁוּם חִינָּא. אֲבָל בַּעַל חוֹב — לָא.
+*Translation:* § The mishna teaches that **one who** comes to **collect** her marriage contract **when not in** her husband’s **presence can collect** it **only by** means of **an oath. Rav Aḥa Sar HaBira said: An incident came before Rabbi Yitzḥak in Antioch, and he said: They taught** this *halakha* **only with regard to the wife’s marriage contract;** she may collect her marriage contract in her husband’s absence, **because** the Sages wanted men to find **favor** in the eyes of women. In order to ensure that women would want to marry, the Sages instituted decrees with regard to a marriage contract that are for the woman’s benefit. **However, a creditor** does **not** have the right to collect his debt even with an oath if the borrower is absent, in case he has already been paid.
+
+**10.**
+*Hebrew/Aramaic:* וְרָבָא אָמַר רַב נַחְמָן: אֲפִילּוּ בַּעַל חוֹב, שֶׁלֹּא יְהֵא כׇּל אֶחָד וְאֶחָד נוֹטֵל מְעוֹתָיו שֶׁל חֲבֵרוֹ, וְהוֹלֵךְ וְיוֹשֵׁב בִּמְדִינַת הַיָּם, וְאַתָּה נוֹעֵל דֶּלֶת בִּפְנֵי לוֹוִין.
+*Translation:* **And Rava** said that **Rav Naḥman said: Even a creditor** can collect payment with an oath in the borrower’s absence, **so that each and every person will not take his friend’s money** by means of a loan **and go and reside in a country overseas** to prevent the lender from collecting the money from his property. **And** if that were to occur, **you would be locking the door in the face of borrowers,** as no one would be willing to lend them money.
+
+**11.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן אוֹמֵר: כׇּל זְמַן שֶׁתּוֹבַעַת כְּתוּבָּתָהּ וְכוּ׳. רַבִּי שִׁמְעוֹן אַהֵיָיא? אָמַר רַבִּי יִרְמְיָה, אַהָא: וְנִפְרַעַת שֶׁלֹּא בְּפָנָיו, לָא תִּפָּרַע אֶלָּא בִּשְׁבוּעָה. לָא שְׁנָא לִמְזוֹנֵי וְלָא שְׁנָא לִכְתוּבָּה. וַאֲתָא רַבִּי שִׁמְעוֹן לְמֵימַר: כׇּל זְמַן שֶׁתּוֹבַעַת כְּתוּבָּתָהּ — יוֹרְשֶׁיהָ מַשְׁבִּיעִין אוֹתָהּ.
+*Translation:* § The mishna teaches: **Rabbi Shimon says: Whenever she claims her marriage contract,** the heirs administer an oath to her. The Gemara asks: **To which** statement in the mishna is **Rabbi Shimon** referring? **Rabbi Yirmeya said:** He is referring **to this** statement: **And one who** comes to **collect** her marriage contract **when not in** her husband’s **presence can collect** it **only by** means of **an oath.** This implies that the *halakha* **is no different** if she comes to claim money from the orphans **for sustenance, and** it **is no different** if she demands payment **for** her **marriage contract. And Rabbi Shimon comes to say** that **whenever she claims her marriage contract** the **heirs** can **administer an oath to her** that she has not taken anything of theirs.

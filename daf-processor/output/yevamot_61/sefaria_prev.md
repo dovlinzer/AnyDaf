@@ -1,0 +1,81 @@
+### Yevamot 60b
+
+**1.**
+*Hebrew/Aramaic:* וְהָא אָמַר רַבִּי שִׁמְעוֹן: רְאוּיָה לְכֹהֵן גָּדוֹל — מִטַּמֵּא לָהּ, שֶׁאֵין רְאוּיָה לְכֹהֵן גָּדוֹל — אֵין מִטַּמֵּא לָהּ. שָׁאנֵי הָתָם, דְּרַבִּי רַחֲמָנָא ״קְרוֹבָה״.
+*Translation:* **Didn’t Rabbi Shimon say:** If she was **fit for a High Priest,** her brother must **become impure for her,** and if she was **not fit for a High Priest,** her brother **may not become impure for her?** A divorced woman is not fit for a High Priest even if she had been only betrothed before her divorce. The Gemara answers: **It is different there, as the Merciful One includes** her by the term: Who is **near,** which includes any sister who is close to him, even if she is unfit for a High Priest.
+
+**2.**
+*Hebrew/Aramaic:* אִי הָכִי, מוּכַּת עֵץ נָמֵי! [רַבִּי] ״קְרוֹבָה״ — אַחַת וְלֹא שְׁתַּיִם. וּמָה רָאִיתָ? הָא — אִתְעֲבִיד בַּהּ מַעֲשֶׂה, הָא — לָא אִתְעֲבִיד בַּהּ מַעֲשֵׂה.
+*Translation:* The Gemara asks: **If so, a woman whose hymen was torn accidentally** should **also** be **included.** The Gemara responds that the term: Who is **near,** which is written in the singular, includes only **one** additional case **and not two.** The Gemara asks: **And what did you see** to render forbidden a woman whose hymen was accidentally torn and permit a divorcée who had previously been only betrothed, and not the opposite? The Gemara answers: In **this** case of the woman whose hymen was torn, **an action has been performed** on her body, whereas in **that** case of the divorcée, **no action has been performed** on her body.
+
+**3.**
+*Hebrew/Aramaic:* וְרַבִּי יוֹסֵי, מִדְּשַׁבְקֵיהּ לְבַר זוּגֵיהּ, מִכְּלָל דִּבְמוּכַּת עֵץ כְּרַבִּי מֵאִיר סְבִירָא לֵיהּ, מְנָא לֵיהּ — מִ״לֹּא הָיְתָה לְאִישׁ״.
+*Translation:* The *baraita* cites Rabbi Yosei and Rabbi Shimon as holding that a priest may not become impure for his sister who was betrothed and then divorced, and it cites only Rabbi Shimon as holding that he may not become impure for his sister who was a grown woman. Based on this, the Gemara asks: **From** the fact **that Rabbi Yosei left his partner,** Rabbi Shimon, **it may be inferred that with regard to a woman whose hymen was torn accidentally he holds in accordance with** the opinion of **Rabbi Meir,** that a priest does become impure. **From where** does **he** derive this *halakha*? The Gemara explains that he derives it **from** the phrase: “Who **has had no man,”** as a woman whose hymen was torn accidentally has not been with a man.
+
+**4.**
+*Hebrew/Aramaic:* וְהָא אַפֵּיקְתֵּיהּ! חַד מִ״לֹּא הָיְתָה״, וְחַד מִ״לְּאִישׁ״.
+*Translation:* The Gemara asks: **Haven’t you** already **derived** the *halakha* of a betrothed woman from that phrase? The Gemara answers: Rabbi Yosei learns **one** *halakha* **from** the phrase **“has had no,”** which indicates that she has not even been betrothed, **and** he derives **one** *halakha* **from** the term **“man,”** which indicates that only a woman who was with a man is no longer considered a virgin with regard to this *halakha*, but not one whose hymen was torn accidentally.
+
+**5.**
+*Hebrew/Aramaic:* ״אֵלָיו״ — לְרַבּוֹת הַבּוֹגֶרֶת. וְהָא אָמַר רַבִּי שִׁמְעוֹן: ״בְּתוּלָה״ — בְּתוּלָה שְׁלֵימָה מַשְׁמַע! טַעְמָא דִּידֵיהּ נָמֵי הָתָם מֵהָכָא, דְּדָרֵישׁ הָכִי מִדְּ״אֵלָיו״ — לְרַבּוֹת הַבּוֹגֶרֶת, מִכְלָל דִּ״בְתוּלָה״ — בְּתוּלָה שְׁלֵימָה מַשְׁמַע.
+*Translation:* It was stated previously that according to Rabbi Shimon, the term **“to him,”** comes **to include a grown woman.** The Gemara asks: **Didn’t Rabbi Shimon say** with regard to a High Priest that the term **virgin indicates a complete virgin,** which does not include a grown woman? The Gemara answers: **His reason there is also** derived **from here, as he expounds as follows: From** the fact **that** the expression **“to him”** is needed **to include a grown woman,** it may be **inferred that** the term **virgin** by itself **indicates a complete virgin.**
+
+**6.**
+*Hebrew/Aramaic:* תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן יוֹחַי אוֹמֵר: גִּיּוֹרֶת פְּחוּתָה מִבַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד — כְּשֵׁירָה לַכְּהוּנָּה, שֶׁנֶּאֱמַר: ״וְכֹל הַטַּף בַּנָּשִׁים אֲשֶׁר לֹא יָדְעוּ מִשְׁכַּב זָכָר הַחֲיוּ לָכֶם״, וַהֲרֵי פִּנְחָס עִמָּהֶם.
+*Translation:* § The Gemara cites another ruling of Rabbi Shimon ben Yoḥai, also related to the discussion of defining who is considered a virgin. **It is taught** in a *baraita* that **Rabbi Shimon ben Yoḥai says: A female convert** who converted when she was **less than three years and one day old is permitted to** marry into **the priesthood, as it is stated: “But all the women children that have not known man by lying with him, keep alive for yourselves”** (Numbers 31:18). This verse indicates that these women were fit for all of the warriors, **and** since **Pinehas** the priest **was with them** (see Numbers 31:6), it is clear that young converts are permitted to priests.
+
+**7.**
+*Hebrew/Aramaic:* וְרַבָּנַן? לַעֲבָדִים וְלִשְׁפָחוֹת. אִי הָכִי, בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד נָמֵי?
+*Translation:* The Gemara asks: **And** how do **the Rabbis,** who disagree with Rabbi Shimon, interpret this verse? The Gemara responds: They understand the phrase “keep alive for yourselves” to mean that they could keep them **as slaves and as maidservants,** but they could not necessarily marry them. The Gemara asks: **If so,** if the source for Rabbi Shimon’s ruling is this verse, a girl who converted at the **age of three years and one day old** should **also** be permitted to a priest, as long as she has never had intercourse, as stated by the verse.
+
+**8.**
+*Hebrew/Aramaic:* כִּדְרַב הוּנָא. דְּרַב הוּנָא רָמֵי, כְּתִיב: ״כׇּל אִשָּׁה יֹדַעַת אִישׁ לְמִשְׁכַּב זָכָר הֲרֹגוּ״, הָא אֵינָהּ יוֹדַעַת — קַיֵּימוּ, מִכְּלָל דְּהַטַּף, בֵּין יָדְעוּ בֵּין לֹא יָדְעוּ — קַיֵּימוּ. וּכְתִיב: ״וְכׇל הַטַּף בַּנָּשִׁים אֲשֶׁר לֹא יָדְעוּ מִשְׁכַּב זָכָר הַחֲיוּ לָכֶם״, הָא יָדְעִי — הֲרוֹגוּ!
+*Translation:* The Gemara replies: His reasoning is **as** stated by **Rav Huna, as Rav Huna raised a contradiction: It is written** in one verse: **“Kill every woman that has known man by lying with him”** (Numbers 31:17), which indicates that a woman who **has not known** a man in this way **you may keep** alive. This proves **by inference that the** female **children,** who are not classified as women, **you may keep** alive regardless of **whether they knew** a man **or they did not know** a man. **And it is written** in a different verse: **“But all the women children that have not known man by lying with him, keep alive for yourselves”** (Numbers 31:18), which indicates that if **they have known** men, **you must kill** them. This is an apparent contradiction.
+
+**9.**
+*Hebrew/Aramaic:* הֱוֵי אוֹמֵר בִּרְאוּיָה לִיבָּעֵל הַכָּתוּב מְדַבֵּר.
+*Translation:* Rav Huna explains: **You must say that the verse is speaking of** a woman who is **fit for intercourse.** The verse does not mean to distinguish between women who have actually engaged in sexual intercourse and those who have not. Rather, it distinguishes between a girl over the age of three, with whom an act of intercourse is recognized as such, and a girl below the age of three.
+
+**10.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: ״וְכׇל אִשָּׁה יוֹדַעַת אִישׁ״ — בִּרְאוּיָה לִיבָּעֵל הַכָּתוּב מְדַבֵּר. אַתָּה אוֹמֵר בִּרְאוּיָה לִיבָּעֵל, אוֹ אֵינוֹ אֶלָּא נִבְעֲלָה מַמָּשׁ? כְּשֶׁהוּא אוֹמֵר: ״וְכׇל הַטַּף בַּנָּשִׁים אֲשֶׁר לֹא יָדְעוּ מִשְׁכַּב זָכָר״, הֱוֵי אוֹמֵר: בִּרְאוּיָה לִיבָּעֵל הַכָּתוּב מְדַבֵּר.
+*Translation:* **This is also taught** in a *baraita*: **“Every woman that has known man”; the verse is speaking of** a woman **who is fit for intercourse.** The *baraita* proceeds to discuss this *halakha*: Do **you say** it is referring **to** one who is **fit for intercourse,** or perhaps **it is** referring **only** to **one who has actually had intercourse? When** the verse **states: “But all the women children that have not known man by lying with him,** keep alive for yourselves,” which indicates that grown women must be killed even if they have not had intercourse with a man, **you must say that the verse is speaking of** a woman **who is fit for intercourse.**
+
+**11.**
+*Hebrew/Aramaic:* מְנָא יָדְעִי? אָמַר רַב הוּנָא בַּר בִּיזְנָא אָמַר רַבִּי שִׁמְעוֹן חֲסִידָא: הֶעֱבִירוּם לִפְנֵי הַצִּיץ. כׇּל שֶׁפָּנֶיהָ מוֹרִיקוֹת — בְּיָדוּעַ שֶׁהִיא רְאוּיָה לִיבָּעֵל, כֹּל שֶׁאֵין פָּנֶיהָ מוֹרִיקוֹת — בְּיָדוּעַ שֶׁאֵינָהּ רְאוּיָה לִיבָּעֵל. אָמַר רַב נַחְמָן: סִימָן לַעֲבֵירָה — הִדְרוֹקָן.
+*Translation:* The Gemara asks a practical question with regard to the events described by the Torah: **From where did they know** whether a particular girl was already three years old and fit for intercourse? **Rav Huna bar Bizna said that Rabbi Shimon Ḥasida said: They passed them before the frontplate** of the High Priest. **Any** girl **whose face** miraculously **turned sallow, it was known that she was fit for intercourse,** and **any** girl **whose face did not turn sallow, it** was thereby **known that she was not fit for intercourse.** Similarly, **Rav Naḥman said: A sign of transgression** in the area of sexual morality **is** the disease ***hidrokan*,** which causes one’s face to turn sallow.
+
+**12.**
+*Hebrew/Aramaic:* כַּיּוֹצֵא בַּדָּבָר, אַתָּה אוֹמֵר: ״וַיִּמְצְאוּ מִיּוֹשְׁבֵי יָבֵשׁ גִּלְעָד אַרְבַּע מֵאוֹת נַעֲרָה בְתוּלָה אֲשֶׁר לֹא יָדְעוּ אִישׁ לְמִשְׁכַּב זָכָר״, מְנָא יָדְעִי? אָמַר רַב כָּהֲנָא: הוֹשִׁיבוּם עַל פִּי חָבִית שֶׁל יַיִן, בְּעוּלָה — רֵיחָהּ נוֹדֵף, בְּתוּלָה — אֵין רֵיחָהּ נוֹדֵף.
+*Translation:* **Similarly, you** can **say** with regard to the verse: **“And they found among the inhabitants of Jabesh-gilead four hundred young virgins that had not known man by lying with him”** (Judges 21:12). **From where did they know** that they were virgins? **Rav Kahana said: They sat them on the opening of a barrel of wine.** If she was **a non-virgin, her breath** would **smell** like wine; if she was **a virgin, her breath did not smell** like wine.
+
+**13.**
+*Hebrew/Aramaic:* וּנְעַבְּרִינְהוּ לִפְנֵי צִיץ? אֲמַר רַב כָּהֲנָא בְּרֵיהּ דְּרַב נָתָן: ״לְרָצוֹן לָהֶם״ כְּתִיב, לְרָצוֹן וְלֹא לְפוּרְעָנוּת. אִי הָכִי בְּמִדְיָן נָמֵי? אָמַר רַב אָשֵׁי: ״לָהֶם״ כְּתִיב, לָהֶם — לְרָצוֹן וְלֹא לְפוּרְעָנוּת, וּלְגוֹיִם — אֲפִילּוּ לְפוּרְעָנוּת.
+*Translation:* The Gemara suggests: **They should** have **passed them before the frontplate,** as described previously with regard to the daughters of Midian. **Rav Kahana, son of Rav Natan, said:** The verse states with regard to the frontplate: “And it shall be upon Aaron’s forehead…**that they may be accepted** before the Lord” (Exodus 28:38), which indicates that the frontplate is worn **for acceptance but not for calamity.** The Gemara raises a difficulty: **If so,** the frontplate should **also** not have been used **with regard to** the women of **Midian. Rav Ashi said:** The word **“they” is written** in the verse, indicating that **for them,** the Jewish people, the frontplate is **for acceptance but not for calamity; but for gentiles** it can be used **even for calamity.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יַעֲקֹב בַּר אִידִי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן יוֹחַאי. אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי יַעֲקֹב בַּר אִידִי: בְּפֵירוּשׁ שְׁמִיעַ לָךְ, אוֹ מִכְּלָלָא שְׁמִיעַ לָךְ?
+*Translation:* **Rabbi Ya’akov bar Idi said** that **Rabbi Yehoshua ben Levi said: The *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Yoḥai. Rabbi Zeira said to Rabbi Ya’akov bar Idi:** Did **you hear** Rabbi Yehoshua ben Levi say this **explicitly or** did **you learn** it **by inference?**
+
+**15.**
+*Hebrew/Aramaic:* מַאי כְּלָלָא? דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: עִיר אַחַת הָיְתָה בְּאֶרֶץ יִשְׂרָאֵל שֶׁקָּרָא עָלֶיהָ עַרְעָר, וְשִׁגֵּר רַבִּי אֶת רַבִּי רוֹמָנוּס וּבְדָקָהּ, וּמָצָא בָּהּ בַּת גִּיּוֹרֶת פְּחוּתָה מִבַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד, וְהִכְשִׁירָהּ רַבִּי לַכְּהוּנָּה. אֲמַר לֵיהּ: בְּפֵירוּשׁ שְׁמִיעַ לִי.
+*Translation:* The Gemara asks: **What inference** was Rabbi Zeira hinting at? The Gemara explains: **As Rabbi Yehoshua ben Levi said: There was a certain city in Eretz Yisrael where they contested** the lineage of a particular family. **And Rabbi** Yehuda HaNasi **sent Rabbi Romanus, and he examined** the family’s lineage **and found** that **it** included **the daughter** of **a convert** who had converted when she was **less than three years and one day old,** and she had married a priest. **And Rabbi** Yehuda HaNasi **permitted her to the priesthood.** This indicates that Rabbi Yehoshua ben Levi ruled in accordance with Rabbi Shimon. Rabbi Ya’akov bar Idi **said to him: I heard explicitly** that Rabbi Yehoshua ben Levi ruled in this manner.
+
+**16.**
+*Hebrew/Aramaic:* וְאִי מִכְּלָלָא מַאי? דִּלְמָא שָׁאנֵי הָתָם: הוֹאִיל וְאִנְּסִיב — אִנְּסִיב. דְּהָא רַב וְרַבִּי יוֹחָנָן דְּאָמְרִי תַּרְוַיְיהוּ: בּוֹגֶרֶת וּמוּכַּת עֵץ לֹא יִשָּׂא, וְאִם נָשָׂא — נָשׂוּי.
+*Translation:* The Gemara asks: **And if** Rabbi Yehoshua ben Levi’s opinion had been derived **by inference, what** of it? The Gemara answers: **Perhaps it was different there,** because **since she** had already **married** a priest, **she** could remain **married** after the fact, but it would not be permitted for her to marry a priest *ab initio*, **as** it is **Rav and Rabbi Yoḥanan who both say:** A High Priest **may not marry a grown woman and a woman whose hymen was torn accidentally, but if he married** one of them **he is married** and not required to divorce her.
+
+**17.**
+*Hebrew/Aramaic:* הָכִי הַשְׁתָּא?! בִּשְׁלָמָא הָתָם: סוֹפָהּ לִהְיוֹת בּוֹגֶרֶת תַּחְתָּיו, סוֹפָהּ לִהְיוֹת בְּעוּלָה תַּחְתָּיו. הָכָא, סוֹפָהּ לִהְיוֹת זוֹנָה תַּחְתָּיו?!
+*Translation:* The Gemara refutes this claim: **How can** these cases **be compared? Granted, there,** in the case of a grown woman, it is reasonable for her to be permitted after the fact, as a young woman **will eventually be a grown woman under him,** i.e., while married to him, and **she will eventually be a non-virgin under him.** However, **here,** in the case of a convert, **will she eventually be a *zona* under him?** If she is forbidden to a priest *ab initio* it is because she has the status of a *zona*, in which case she should be prohibited after the fact as well. Consequently, it can be proven from the incident cited previously that Rabbi Yehoshua ben Levi rules in accordance with the opinion of Rabbi Shimon.
+
+**18.**
+*Hebrew/Aramaic:* רַב סָפְרָא מַתְנֵי לַהּ מִכְּלָלָא וְקַשְׁיָא לֵיהּ, וּמְשַׁנֵּי (לֵיהּ) הָכִי.
+*Translation:* The Gemara comments: **Rav Safra taught this** *halakha* after deriving Rabbi Yehoshua ben Levi’s ruling **by inference,** although he had never heard this ruling explicitly. **And** the question mentioned above was **difficult for him, and he resolved it in this** same manner.
+
+**19.**
+*Hebrew/Aramaic:* הָהוּא כָּהֲנָא דְּאִנְּסִיב גִּיּוֹרֶת פְּחוּתָה מִבַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד. אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק: מַאי הַאי? אֲמַר לֵיהּ, דְּאָמַר רַבִּי יַעֲקֹב בַּר אִידִי אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן יוֹחַאי. אֲמַר לֵיהּ: זִיל אַפֵּיק, וְאִי לָא — מַפֵּיקְנָא לָךְ רַבִּי יַעֲקֹב בַּר אִידִי מֵאוּנָּךְ.
+*Translation:* The Gemara relates another incident related to this *halakha*: **A certain priest married a convert,** who had converted when she was **less than three years and one day old. Rav Naḥman bar Yitzḥak said to him: What is this?** Why are you violating the *halakha*? **He said to him:** It is permitted for me to marry her, **as Rabbi Ya’akov bar Idi said that Rabbi Yehoshua ben Levi said** that **the *halakha* is in accordance with** the opinion of **Rabbi Shimon ben Yoḥai. He said to him: Go remove** her, i.e., divorce her. **And if not, I will remove Rabbi Ya’akov bar Idi from your ear [*me’unekh*] for you.** In other words, I will take the necessary action to ensure that you obey and divorce her, so that you can no longer follow Rabbi Ya’akov bar Idi’s opinion.
+
+**20.**
+*Hebrew/Aramaic:* תַּנְיָא, וְכֵן הָיָה רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי אוֹמֵר:
+*Translation:* § **It is taught** in a *baraita*: **And similarly, Rabbi Shimon ben Yoḥai would say:**

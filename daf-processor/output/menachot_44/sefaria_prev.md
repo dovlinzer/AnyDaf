@@ -1,0 +1,73 @@
+### Menachot 43b
+
+**1.**
+*Hebrew/Aramaic:* הַאי ״אֲשֶׁר תְּכַסֶּה בָּהּ״ מַאי עָבְדִי לֵיהּ? מִיבְּעֵי לְהוּ לְכִדְתַנְיָא: ״עַל אַרְבַּע כַּנְפוֹת כְּסוּתְךָ״ – אַרְבַּע וְלֹא שָׁלֹשׁ.
+*Translation:* **what do they do with,** i.e., how do they interpret, **this** verse: **“With which you cover yourself”** (Deuteronomy 22:12)? The Gemara answers that the Rabbis **require** it **for that which is taught** in a *baraita*: The phrase **“on the four corners of your garment”** (Deuteronomy 22:12) indicates that one is required to attach ritual fringes to a garment that has **four** corners, **but not** to one that has **three** corners.
+
+**2.**
+*Hebrew/Aramaic:* אַתָּה אוֹמֵר אַרְבַּע וְלֹא שָׁלֹשׁ, אוֹ אֵינוֹ אֶלָּא אַרְבַּע וְלֹא חָמֵשׁ? כְּשֶׁהוּא אוֹמֵר ״אֲשֶׁר תְּכַסֶּה בָּהּ״, הֲרֵי בַּעֲלַת חָמֵשׁ אָמוּר, וּמָה אֲנִי מְקַיֵּים ״עַל אַרְבַּע״? אַרְבַּע וְלֹא שָׁלֹשׁ.
+*Translation:* The *baraita* continues: **Do you say** that a garment with **four** corners is obligated **but not** a garment with **three** corners? **Or is it** teaching **only** that a garment with **four** corners is obligated **but not** a garment that has **five** corners? **When** the verse **states: “With which you cover yourself,”** a garment **with five** corners **is thereby mentioned** in the verse as being obligated. Then **how do I realize** the meaning of: **“On the four** corners of your garment”? It teaches that this obligation is limited to a garment that has **four** corners, **but not** to one that has **three** corners.
+
+**3.**
+*Hebrew/Aramaic:* וּמָה רָאִיתָ לְרַבּוֹת בַּעֲלַת חָמֵשׁ וּלְהוֹצִיא בַּעֲלַת שָׁלֹשׁ? מְרַבֶּה אֲנִי בַּעֲלַת חָמֵשׁ, שֶׁיֵּשׁ בִּכְלַל חָמֵשׁ אַרְבַּע, וּמוֹצִיא אֲנִי בַּעֲלַת שָׁלֹשׁ, שֶׁאֵין בִּכְלַל שָׁלֹשׁ אַרְבַּע.
+*Translation:* The Gemara asks: **But what did you see** that led you **to include** a garment **with five** corners **and to exclude** a garment **with three** corners, rather than including a garment with three corners and excluding a garment with five corners? The Gemara answers: **I include** a garment **with five** corners, **as five includes four, and I exclude** a garment **with three** corners, **as three does not include four.**
+
+**4.**
+*Hebrew/Aramaic:* וְרַבִּי שִׁמְעוֹן, מֵ״אֲשֶׁר״ נָפְקָא. וְרַבָּנַן, ״אֲשֶׁר״ לָא מַשְׁמַע לְהוּ.
+*Translation:* The Gemara asks: **And** how does **Rabbi Shimon** derive the *halakha* that a five-cornered garment is required to have ritual fringes? The Gemara answers: He **derives** it **from** the seemingly extraneous word: “With **which [*asher*]** you cover yourself” (Deuteronomy 22:12). The Gemara asks: **And** what do **the Rabbis** derive from this word? The Gemara answers: **They do not learn** any new *halakhot* from the word **“which [*asher*].”**
+
+**5.**
+*Hebrew/Aramaic:* וְרַבָּנַן, הַאי ״וּרְאִיתֶם אֹתוֹ״ מַאי עָבְדִי לֵיהּ? מִיבְּעֵי לְהוּ לְכִדְתַנְיָא: ״וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם״, רְאֵה מִצְוָה זוֹ וּזְכוֹר מִצְוָה אַחֶרֶת הַתְּלוּיָה (בּוֹ) [בָּהּ], וְאֵיזוֹ זוֹ? זוֹ קְרִיַּת שְׁמַע, דִּתְנַן: מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּשַׁחֲרִית? מִשֶּׁיַּכִּיר בֵּין תְּכֵלֶת לְלָבָן.
+*Translation:* The Gemara asks: **And** as for **the Rabbis, what do they do with this** phrase: **“That you may look upon it”** (Numbers 15:39), from which Rabbi Shimon derives that a nighttime garment is exempt? The Gemara answers: **They require it for that which is taught** in a *baraita*: The verse: **“That you may look upon it and remember”** (Numbers 15:39), teaches that one should **see this mitzva** of ritual fringes **and remember another mitzva that is contingent on it. And which** mitzva **is that? It is** the mitzva of **the recitation of *Shema*. As we learned** in a mishna (Berakhot 9b): **From when may one recite *Shema* in the morning? From when** one can **distinguish between** the **sky-blue** strings **and** the **white** strings of his ritual fringes.
+
+**6.**
+*Hebrew/Aramaic:* וְתַנְיָא אִידַּךְ: ״וּרְאִיתֶם אוֹתוֹ וּזְכַרְתֶּם״ – רְאֵה מִצְוָה זוֹ וּזְכוֹר מִצְוָה אַחֶרֶת הַסְּמוּכָה לָהּ, וְאֵיזוֹ זוֹ? זוֹ מִצְוַת כִּלְאַיִם, דִּכְתִיב: ״לֹא תִלְבַּשׁ שַׁעַטְנֵז צֶמֶר וּפִשְׁתִּים יַחְדָּו. גְּדִילִים תַּעֲשֶׂה לָךְ״.
+*Translation:* **And** it **is taught** in **another** *baraita*: The phrase **“that you may look upon it and remember”** teaches that one should **see this mitzva** of ritual fringes **and remember another mitzva that is adjacent to it** in the Torah. **And which** mitzva **is that? It is the mitzva of diverse kinds** of wool and linen, **as it is written: “You shall not wear diverse kinds, wool and linen together. You shall prepare yourself twisted cords”** (Deuteronomy 22:11–12).
+
+**7.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: ״וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כׇּל מִצְוֹת ה׳״, כֵּיוָן שֶׁנִּתְחַיֵּיב אָדָם בְּמִצְוָה זוֹ נִתְחַיֵּיב בְּכׇל מִצְוֹת כּוּלָּן, וְרַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: מִצְוַת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָאּ הִיא.
+*Translation:* It **is taught** in **another** *baraita*: The verse states: **“That you may look upon it and remember all the commandments of the Lord”** (Numbers 15:39). This indicates that **once a person is obligated in this mitzva** of ritual fringes, **he is obligated in all of the mitzvot.** The Gemara comments: **And this is** in accordance with the opinion of **Rabbi Shimon, who says** that ritual fringes are **a positive, time-bound mitzva,** and women are exempt from it. Only men are obligated in all mitzvot, including positive, time-bound mitzvot, just as they are obligated in the mitzva of ritual fringes.
+
+**8.**
+*Hebrew/Aramaic:* תַּנְיָא אִידַּךְ: ״וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם אֶת כׇּל מִצְוֹת ה׳״, שְׁקוּלָה מִצְוָה זוֹ כְּנֶגֶד כׇּל הַמִּצְוֹת כּוּלָּן.
+*Translation:* It **is taught** in **another** *baraita*: The verse states: **“That you may look upon it and remember all the commandments of the Lord”;** this teaches that **this mitzva** of ritual fringes **is equivalent to all the mitzvot** of the Torah.
+
+**9.**
+*Hebrew/Aramaic:* וְתַנְיָא אִידַּךְ: ״וּרְאִיתֶם אֹתוֹ וּזְכַרְתֶּם... וַעֲשִׂיתֶם״ – רְאִיָּה מְבִיאָה לִידֵי זְכִירָה, זְכִירָה מְבִיאָה לִידֵי עֲשִׂיָּה. וְרַבִּי שִׁמְעוֹן בַּר יוֹחַאי אוֹמֵר: כׇּל הַזָּרִיז בְּמִצְוָה זוֹ זוֹכֶה וּמְקַבֵּל פְּנֵי שְׁכִינָה. כְּתִיב הָכָא: ״וּרְאִיתֶם אֹתוֹ״, וּכְתִיב הָתָם: ״אֶת ה׳ אֱלֹהֶיךָ תִּירָא וְאֹתוֹ תַעֲבֹד״.
+*Translation:* **And** it **is taught** in **another** *baraita*: The verse states: **“That you may look upon it and remember** all the commandments of the Lord **and do** them.” This teaches that **looking** at the ritual fringes **leads to remembering** the mitzvot, and **remembering** them **leads to doing** them. **And Rabbi Shimon bar Yoḥai says: Anyone who is diligent in this mitzva** of ritual fringes **merits receiving the Divine Presence.** It is **written here: “That you may look upon it [*oto*]”** (Numbers 15:39), **and it is written there: “You shall fear the Lord your God; and Him [*oto*] shall you serve”** (Deuteronomy 6:13). Just as *oto* in that verse is referring to the Divine Presence, so too in this verse it is referring to the Divine Presence.
+
+**10.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: חֲבִיבִין יִשְׂרָאֵל שֶׁסִּיבְּבָן הַקָּדוֹשׁ בָּרוּךְ הוּא בְּמִצְוֹת, תְּפִילִּין בְּרָאשֵׁיהֶן וּתְפִילִּין בִּזְרוֹעוֹתֵיהֶן וְצִיצִית בְּבִגְדֵיהֶן וּמְזוּזָה לְפִתְחֵיהֶן, וַעֲלֵיהֶן אָמַר דָּוִד: ״שֶׁבַע בַּיּוֹם הִלַּלְתִּיךָ עַל מִשְׁפְּטֵי צִדְקֶךָ״.
+*Translation:* **The Sages taught** in a *baraita*: **The Jewish people are beloved, as the Holy One, Blessed be He, surrounded them with mitzvot:** They have **phylacteries on their heads, and phylacteries on their arms, and ritual fringes on their garments, and a *mezuza* for their doorways. Concerning them David said: “Seven times a day I praise You, because of Your righteous ordinances”** (Psalms 119:164). This alludes to the two phylacteries, the four ritual fringes, and the *mezuza*, which total seven.
+
+**11.**
+*Hebrew/Aramaic:* וּבְשָׁעָה שֶׁנִּכְנַס דָּוִד לְבֵית הַמֶּרְחָץ וְרָאָה עַצְמוֹ עוֹמֵד עָרוֹם, אָמַר: אוֹי לִי שֶׁאֶעֱמוֹד עָרוֹם בְּלֹא מִצְוָה! וְכֵיוָן שֶׁנִּזְכַּר בַּמִּילָה שֶׁבִּבְשָׂרוֹ, נִתְיַישְּׁבָה דַּעְתּוֹ. לְאַחַר שֶׁיָּצָא, אָמַר עָלֶיהָ שִׁירָה, שֶׁנֶּאֱמַר: ״לַמְנַצֵּחַ עַל הַשְּׁמִינִית מִזְמוֹר לְדָוִד״, עַל מִילָה שֶׁנִּיתְּנָה בַּשְּׁמִינִי.
+*Translation:* **And when David entered the bathhouse and saw himself standing naked, he said: Woe to me that that I stand naked without** any **mitzva. But once he remembered the** mitzva of **circumcision that was in his flesh his mind was put at ease,** as he realized he was still accompanied by this mitzva. **After he left** the bathhouse, **he recited a song about** the mitzva of circumcision, **as it is stated** in the verse: **“For the leader, on the *Sheminith*: A Psalm of David”** (Psalms 12:1). This is interpreted as a psalm **about circumcision, which was given** to be performed **on the eighth [*bashemini*]** day of the baby’s life.
+
+**12.**
+*Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: כֹּל שֶׁיֵּשׁ לוֹ תְּפִילִּין בְּרֹאשׁוֹ וּתְפִילִּין בִּזְרוֹעוֹ וְצִיצִית בְּבִגְדוֹ וּמְזוּזָה בְּפִתְחוֹ, הַכֹּל בְּחִיזּוּק שֶׁלֹּא יֶחֱטָא, שֶׁנֶּאֱמַר: ״וְהַחוּט הַמְשֻׁלָּשׁ לֹא בִמְהֵרָה יִנָּתֵק״, וְאוֹמֵר: ״חֹנֶה מַלְאַךְ ה׳ סָבִיב לִירֵאָיו וַיְחַלְּצֵם״.
+*Translation:* **Rabbi Eliezer ben Ya’akov says: Anyone who has phylacteries on his head, phylacteries on his arm, ritual fringes on his garment, and a *mezuza* on his doorway is strengthened** from **all** sides **so that he will not sin, as it is stated** in the verse: **“And a threefold cord is not quickly broken”** (Ecclesiastes 4:12). This is interpreted as an allusion to the three mitzvot of phylacteries, ritual fringes, and *mezuza*. **And** the verse **states: “The angel of the Lord encamps round about them that fear Him, and delivers them”** (Psalms 34:8). This is interpreted to mean that the angel of the Lord surrounds those who fulfill the mitzvot and saves them from sin.
+
+**13.**
+*Hebrew/Aramaic:* תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: מָה נִשְׁתַּנָּה תְּכֵלֶת מִכׇּל מִינֵי צִבְעוֹנִין? מִפְּנֵי שֶׁהַתְּכֵלֶת דּוֹמֶה לַיָּם, וְיָם דּוֹמֶה לָרָקִיעַ, וְרָקִיעַ לְכִסֵּא הַכָּבוֹד, שֶׁנֶּאֱמַר: ״וְתַחַת רַגְלָיו כְּמַעֲשֵׂה לִבְנַת הַסַּפִּיר וּכְעֶצֶם הַשָּׁמַיִם לָטֹהַר״, וּכְתִיב: ״כְּמַרְאֵה אֶבֶן סַפִּיר דְּמוּת כִּסֵּא״.
+*Translation:* **It is taught** in a *baraita* that **Rabbi Meir would say: What is different about *tekhelet* from all** other **types of colors** such that it was chosen for the mitzva of ritual fringes? It is **because *tekhelet* is similar** in its color **to** the **sea, and** the **sea is similar to** the **sky, and** the **sky is similar to the Throne of Glory, as it is stated:** “And they saw the God of Israel; **and there was under His feet the like of a paved work of sapphire stone, and the like of the very heaven for clearness”** (Exodus 24:10), indicating that the sky is like a sapphire brickwork. **And it is written: “The likeness of a throne, as the appearance of a sapphire stone”** (Ezekiel 1:26).
+
+**14.**
+*Hebrew/Aramaic:* תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: גָּדוֹל עוֹנְשׁוֹ שֶׁל לָבָן יוֹתֵר מֵעוֹנְשׁוֹ שֶׁל תְּכֵלֶת, מָשָׁל לְמָה הַדָּבָר דּוֹמֶה? לְמֶלֶךְ בָּשָׂר וָדָם שֶׁאָמַר לִשְׁנֵי עֲבָדָיו, לְאֶחָד אָמַר: ״הָבֵא לִי חוֹתָם שֶׁל טִיט״, וּלְאֶחָד אָמַר: ״הָבֵא לִי חוֹתָם שֶׁל זָהָב״, וּפָשְׁעוּ שְׁנֵיהֶם וְלֹא הֵבִיאוּ, אֵיזֶה מֵהֶן עוֹנְשׁוֹ מְרוּבֶּה? הֱוֵי אוֹמֵר: זֶה שֶׁאָמַר לוֹ ״הָבֵא לִי חוֹתָם שֶׁל טִיט״ וְלֹא הֵבִיא.
+*Translation:* **It is taught** in a *baraita* that **Rabbi Meir would say:** The **punishment for** not attaching **white** strings is **greater than the punishment for** not attaching **sky-blue** strings, despite the fact that the sky-blue strings are more important. Rabbi Meir illustrates this with **a parable: To what is this matter comparable?** It is comparable **to a king of flesh and blood who said to his two subjects** that they must bring him a seal. The king **said to one** of them: **Bring me a seal of clay, and he said to** the other **one: Bring me a seal of gold. And both of them were negligent and did not bring** the seals. **Which of them** will have **a greater punishment? You must say** that it is **this** one **to whom he said: Bring me a seal of clay, and** despite its availability and low cost, he **did not bring** it.
+
+**15.**
+*Hebrew/Aramaic:* תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: חַיָּיב אָדָם לְבָרֵךְ מֵאָה בְּרָכוֹת בְּכׇל יוֹם, שֶׁנֶּאֱמַר: ״וְעַתָּה יִשְׂרָאֵל מָה ה׳ אֱלֹהֶיךָ שֹׁאֵל מֵעִמָּךְ״.
+*Translation:* **It is taught** in a *baraita* that **Rabbi Meir would say: A person is obligated to recite one hundred blessings every day, as it is stated** in the verse: **“And now, Israel, what [*ma*] does the Lord your God require of you”** (Deuteronomy 10:12). Rabbi Meir interprets the verse as though it said one hundred [*me’a*], rather than *ma*.
+
+**16.**
+*Hebrew/Aramaic:* רַב חִיָּיא בְּרֵיהּ דְּרַב אַוְיָא, בְּשַׁבְּתָא וּבְיוֹמֵי טָבֵי, טָרַח וּמְמַלֵּי לְהוּ בְּאִיסְפַּרְמָקֵי וּמַגְדֵי.
+*Translation:* The Gemara relates that **on Shabbat and Festivals,** when the prayers contain fewer blessings, **Rav Ḥiyya, son of Rav Avya, made an effort to fill** this quota of blessings **with** blessings on **spices [*be’isparmakei*] and sweet fruit,** of which he would partake in order to recite extra blessings.
+
+**17.**
+*Hebrew/Aramaic:* תַּנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: חַיָּיב אָדָם לְבָרֵךְ שָׁלֹשׁ בְּרָכוֹת בְּכׇל יוֹם, אֵלוּ הֵן: ״שֶׁלֹּא עֲשָׂאַנִי גּוֹי״, ״שֶׁלֹּא עֲשָׂאַנִי אִשָּׁה״, ״שֶׁלֹּא עֲשָׂאַנִי בּוּר״.
+*Translation:* **It is taught** in a *baraita* that **Rabbi Meir would say: A man is obligated to recite three blessings every day** praising God for His kindnesses, and **these** blessings **are: Who did not make me a gentile; Who did not make me a woman;** and **Who did not make me an ignoramus.**
+
+**18.**
+*Hebrew/Aramaic:* רַב אַחָא בַּר יַעֲקֹב שַׁמְעֵיהּ לִבְרֵיהּ דַּהֲוָה קָא מְבָרֵךְ ״שֶׁלֹּא עֲשָׂאַנִי בּוּר״, אֲמַר לֵיהּ: כּוּלֵּי הַאי נָמֵי? אֲמַר לֵיהּ: וְאֶלָּא מַאי מְבָרֵךְ? ״שֶׁלֹּא עֲשָׂאַנִי עֶבֶד״? הַיְינוּ אִשָּׁה! עֶבֶד
+*Translation:* **Rav Aḥa bar Ya’akov heard his son reciting the blessing: Who did not make me an ignoramus.** Rav Aḥa bar Ya’akov **said to him:** Is it **in fact** proper to go **this far** in reciting blessings? Rav Aḥa bar Ya’akov’s son **said to him: Rather, what blessing** should one **recite?** If you will say that one should recite: **Who did not make me a slave, that is** the same as **a woman;** why should one recite two blessings about the same matter? Rav Aḥa bar Ya’akov answered: Nevertheless, **a slave**

@@ -17,8 +17,10 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 
-private const val ENGAGEMENT_NUDGE_THRESHOLD_SECONDS = 3 * 3600L   // 3 hours
-private const val NUDGE_MIN_INTERVAL_MS = 60L * 24 * 3600 * 1000  // 60 days
+private const val REGULAR_ENGAGEMENT_HOURS = 20.0
+private const val REGULAR_INTERVAL_DAYS    = 30.0
+private const val DONOR_ENGAGEMENT_HOURS   = 60.0
+private const val DONOR_INTERVAL_DAYS      = 90.0
 
 class ContentViewModel : ViewModel() {
 
@@ -28,6 +30,8 @@ class ContentViewModel : ViewModel() {
     private var sessionStartMs: Long? = null
     private var nudgeCheckedThisSession = false
     private var persistedEngagementSeconds = 0L
+    private var engagementSecondsAtLastNudge = 0L
+    private var didClickDonate = false
 
     private val _selectedTractateIndex = MutableStateFlow(0)
     val selectedTractateIndex: StateFlow<Int> = _selectedTractateIndex.asStateFlow()
@@ -93,6 +97,8 @@ class ContentViewModel : ViewModel() {
             _tabletCollapsedSide.value = AppPreferences.tabletCollapsedSide.first()
             _tabletSplitDp.value = AppPreferences.tabletSplitDp.first()
             persistedEngagementSeconds = AppPreferences.totalEngagementSeconds.first()
+            engagementSecondsAtLastNudge = AppPreferences.engagementSecondsAtLastNudge.first()
+            didClickDonate = AppPreferences.didClickDonate.first()
         }
         FeedManager.init()
         viewModelScope.launch { FeedManager.refreshIfNeeded() }
@@ -207,19 +213,32 @@ class ContentViewModel : ViewModel() {
 
     fun dismissDonationNudge() {
         _showDonationNudge.value = false
+        val snapshotSeconds = persistedEngagementSeconds
+        engagementSecondsAtLastNudge = snapshotSeconds
         viewModelScope.launch {
             AppPreferences.saveDonationNudgeTimestamp(System.currentTimeMillis())
+            AppPreferences.saveEngagementSecondsAtLastNudge(snapshotSeconds)
         }
+    }
+
+    fun recordDonateClicked() {
+        didClickDonate = true
+        viewModelScope.launch { AppPreferences.saveDidClickDonate(true) }
     }
 
     private fun checkDonationNudge() {
         viewModelScope.launch {
-            if (persistedEngagementSeconds >= ENGAGEMENT_NUDGE_THRESHOLD_SECONDS) {
-                val lastNudgeMs = AppPreferences.lastDonationNudgeTimestamp.first()
-                if (System.currentTimeMillis() - lastNudgeMs >= NUDGE_MIN_INTERVAL_MS) {
-                    _showDonationNudge.value = true
-                }
+            val hoursThreshold = if (didClickDonate) DONOR_ENGAGEMENT_HOURS else REGULAR_ENGAGEMENT_HOURS
+            val daysThreshold  = if (didClickDonate) DONOR_INTERVAL_DAYS   else REGULAR_INTERVAL_DAYS
+            val hoursSinceLastNudge = (persistedEngagementSeconds - engagementSecondsAtLastNudge) / 3600.0
+            val lastNudgeMs = AppPreferences.lastDonationNudgeTimestamp.first()
+            val shouldShow = if (lastNudgeMs == 0L) {
+                hoursSinceLastNudge >= hoursThreshold
+            } else {
+                val daysSinceLastNudge = (System.currentTimeMillis() - lastNudgeMs) / 86_400_000.0
+                hoursSinceLastNudge >= hoursThreshold || daysSinceLastNudge >= daysThreshold
             }
+            if (shouldShow) _showDonationNudge.value = true
         }
     }
 

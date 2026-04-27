@@ -1,0 +1,126 @@
+### Shabbat 125a
+
+**1.**
+*Hebrew/Aramaic:* אִם זְרָקָהּ מִבְּעוֹד יוֹם לְאַשְׁפָּה — אֲסוּרָה.
+*Translation:* **If one threw** the clay seal of a jug **into the garbage dump while it is** still **day,** before Shabbat, **it is prohibited** to move it on Shabbat because he indicated that he set it aside from use.
+
+**2.**
+*Hebrew/Aramaic:* אָמַר בַּר הַמְדּוּרֵי אָמַר שְׁמוּאֵל: קְרוּמִיּוֹת שֶׁל מַחְצֶלֶת — מוּתָּר לְטַלְטְלָן בְּשַׁבָּת. מַאי טַעְמָא? אָמַר רָבָא, בַּר הַמְדּוּרֵי אַסְבְּרַהּ לִי: מַחְצֶלֶת גּוּפַהּ לְמַאי חַזְיָא — לְכַסּוֹיֵי בַּהּ עַפְרָא, הָנֵי נָמֵי חַזְיָין לְכַסּוֹיֵי בְּהוּ טִינּוּפָא.
+*Translation:* **Bar Hamduri said** that **Shmuel said:** With regard to **shreds** of reeds that separated **from a mat, it is permitted to move them on Shabbat.** The Gemara asks: **What is the reason** for this? **Rava said: Bar Hamduri explained** it **to me:** The **mat itself, for what** use **is** it **suited?** It is suited **to cover dirt with it. These** shreds, **too, are suited to cover filth with them.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַבִּי זֵירָא אָמַר רַב: שְׁיָרֵי פְּרוּזְמָיוֹת — אָסוּר לְטַלְטְלָן בְּשַׁבָּת. אֲמַר אַבָּיֵי: בְּמַטְלָנִיּוֹת שֶׁאֵין בָּהֶן שָׁלֹשׁ עַל שָׁלֹשׁ, דְּלָא חַזְיָין לָא לַעֲנִיִּים וְלָא לַעֲשִׁירִים.
+*Translation:* **Rabbi Zeira said** that **Rav said:** With regard to **the remains of cloaks [*perozemiyyot*], it is prohibited to move them on Shabbat. Abaye said:** This is referring to **small rags that do not have** an area of **three by three** fingerbreadths, **that are neither suited** for use **by the poor nor by the wealthy.**
+
+**4.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שִׁבְרֵי תַּנּוּר יָשָׁן הֲרֵי הֵן כְּכׇל הַכֵּלִים הַנִּיטָּלִין בֶּחָצֵר, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: אֵין נִיטָּלִין. הֵעִיד רַבִּי יוֹסֵי מִשּׁוּם רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב עַל שִׁבְרֵי תַּנּוּר יָשָׁן שֶׁנִּיטָּלִין בַּשַּׁבָּת, וְעַל כִּיסּוּיוֹ שֶׁאֵינוֹ צָרִיךְ בֵּית יָד.
+*Translation:* **The Sages taught** in the *Tosefta*: The **shards of an old oven** may be moved in a courtyard on Shabbat **like all of the vessels that may be moved in a courtyard** on Shabbat; this is the **statement of Rabbi Meir. Rabbi Yehuda says: They may not be moved. Rabbi Yosei testified in the name of Rabbi Eliezer ben Ya’akov about shards of an old oven that may be moved on Shabbat, and about its cover, which does not require a handle.**
+
+**5.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? אָמַר אַבָּיֵי: בְּעוֹשִׂין מֵעֵין מְלָאכָה, וְאֵין עוֹשִׂין מֵעֵין מְלַאכְתָּן קָמִיפַּלְגִי. וְאַזְדָּא רַבִּי יְהוּדָה לְטַעְמֵיהּ, וְרַבִּי מֵאִיר לְטַעְמֵיהּ.
+*Translation:* The Gemara asks: **With regard to what do they disagree? Abaye said:** It is with regard to shards **when they serve some function but do not serve a function similar to their own** original function that **they disagree. And Rabbi Yehuda follows his** own line of **reasoning, and Rabbi Meir follows his** own line of **reasoning,** as they differed in the mishna.
+
+**6.**
+*Hebrew/Aramaic:* מַתְקִיף לַהּ רָבָא: אִי הָכִי, אַדְּמִיפַּלְגִי בְּשִׁבְרֵי תַנּוּר, לִיפַּלְגוּ בְּשִׁבְרֵי כֵלִים בְּעָלְמָא?
+*Translation:* **Rava strongly objects to this: If so,** instead **of disagreeing with regard to shards of an oven, let them disagree with regard to ordinary shards.** Why is the dispute specifically with regard to an oven?
+
+**7.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רָבָא: בְּשִׁבְרֵי דְּהַאי תַּנּוּר קָמִיפַּלְגִי. דִּתְנַן: נְתָנוֹ עַל פִּי הַבּוֹר אוֹ עַל פִּי הַדּוּת וְנָתַן שָׁם אֶבֶן, רַבִּי יְהוּדָה אוֹמֵר: אִם מַסִּיק מִלְּמַטָּה וְהוּא נִסּוֹק מִלְּמַעְלָה — טָמֵא, וְאִם לָאו — טָהוֹר. וַחֲכָמִים אוֹמְרִים: הוֹאִיל וְהוּסַּק מִכׇּל מָקוֹם — טָמֵא.
+*Translation:* **Rather, Rava said:** It is **with regard to shards of this** particular **oven that they disagree, as we learned** in a mishna: With regard to a clay oven that is not attached to the ground with mortar in the standard manner, but rather, **one placed it over the mouth of a pit or over the mouth of a cistern, and he placed a stone there** between the wall of the pit and the oven to secure the oven in place, **Rabbi Yehuda says: If one heats** the oven **from beneath** the oven, inside the pit, **and** the oven **is** thereby **heated at the top,** the oven serves its standard function; it is a full-fledged utensil and it can become **ritually impure. And if** it is **not** attached so tightly that it is heated at the top, it is **ritually pure,** because it is not a full-fledged vessel. **And the Rabbis say: Since it can be heated in some manner,** it can become **ritually impure,** because it serves its standard purpose.
+
+**8.**
+*Hebrew/Aramaic:* וּבְמַאי קָמִיפַּלְגִי — בְּהַאי קְרָא: ״תַּנּוּר וְכִירַיִם יוּתָּץ טְמֵאִים הֵם וּטְמֵאִים יִהְיוּ לָכֶם״, רַבִּי יְהוּדָה סָבַר: מְחוּסָּר נְתִיצָה — טָמֵא, שֶׁאֵין מְחוּסָּר נְתִיצָה — טָהוֹר. וְרַבָּנַן סָבְרִי: ״טְמֵאִים יִהְיוּ לָכֶם״ — מִכׇּל מָקוֹם.
+*Translation:* **And with regard to what do they disagree?** It is **with regard to this verse:** “And everything upon which any part of their carcass falls shall be impure; **whether oven, or stove, it shall be broken in pieces; they are impure, and they shall be impure to you” (**Leviticus 11:35). **Rabbi Yehuda holds:** An oven that **lacks smashing,** i.e., it is whole and can be broken, can become **impure.** One **that does not lack smashing,** but it is situated in a place where it is not completely effective, is considered broken and is **pure,** i.e., it cannot become ritually impure. **And the Rabbis hold** that the verse comes to add: **“They shall be impure to you,” in any case,** under any circumstances.
+
+**9.**
+*Hebrew/Aramaic:* וְרַבָּנַן נָמֵי, הָכְתִיב: ״יוּתָּץ״? הָהוּא לְאִידַּךְ גִּיסָא, דְּסָלְקָא דַּעְתָּךְ אָמֵינָא: כֵּיוָן דְּחַבְּרֵיהּ בְּאַרְעָא — כְּגוּפָא דְאַרְעָא דָּמֵי, קָא מַשְׁמַע לַן.
+*Translation:* The Gemara asks: **And** according to **the Rabbis, too, isn’t it written:** “They **shall be broken into pieces,”** and why don’t they interpret the verse in the same way that Rabbi Yehuda does? The Gemara explains: The Rabbis understand **this** verse **from another direction, as it could have entered your mind to say: Since he attached it to the ground,** its legal status is **like that of the ground itself,** and anything attached to the ground cannot become impure. Therefore, **it teaches us** that since it is possible to detach it from the ground, it is indeed impure.
+
+**10.**
+*Hebrew/Aramaic:* וְאִידַּךְ נָמֵי, הָכְתִיב: ״טְמֵאִים יִהְיוּ לָכֶם״! הָהִיא, כִּדְרַב יְהוּדָה אָמַר שְׁמוּאֵל. דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: מַחֲלוֹקֶת בְּהֶיסֵּק רִאשׁוֹן, אֲבָל בְּהֶיסֵּק שֵׁנִי, אֲפִילּוּ תָּלוּי בְּצַוַּאר גָּמָל.
+*Translation:* The Gemara asks: **And** according to **the other** *tanna*, Rabbi Yehuda, **too, isn’t it written: “They shall be impure to you”?** The Gemara answers: He understood **that** verse **in accordance with** that which **Rav Yehuda** said that **Shmuel said, as Rav Yehuda said** that **Shmuel said:** The **dispute** between Rabbi Yehuda and the Rabbis **is** specifically **with regard to the first lighting.** The first lighting transforms an earthenware oven that did not yet completely dry into a vessel. **However, with regard to the second lighting** they do not disagree, **even** if it was **hanging around a camel’s neck;** since it had already been fired up once, it is impure.
+
+**11.**
+*Hebrew/Aramaic:* אָמַר עוּלָּא: וְהֶיסֵּק רִאשׁוֹן לְרַבָּנַן, אֲפִילּוּ תָּלוּי בְּצַוַּאר גָּמָל.
+*Translation:* **Ulla says: And** with regard to **the first lighting** according **to the Rabbis, even** if it was **hanging around a camel’s neck,** since it had already been fired up once it is a full-fledged oven and is impure.
+
+**12.**
+*Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב אָשֵׁי: אִי הָכִי, אַדְּמִיפַּלְגִי בְּשִׁבְרֵי תַנּוּר, לִיפַּלְגוּ בְּתַנּוּר גּוּפֵהּ. הַשְׁתָּא תַּנּוּר גּוּפֵהּ לְרַבִּי יְהוּדָה לָא הָוֵי מָנָא, שְׁבָרָיו מִיבַּעְיָא?!
+*Translation:* **Rav Ashi strongly objects to this** line of reasoning: **If so, instead of disagreeing with regard to the shards of an oven, let them disagree with regard to the oven itself. Now the oven itself, according to Rabbi Yehuda, is not** considered **a vessel;** therefore, to say that **its broken pieces** are not vessels, **is it necessary?**
+
+**13.**
+*Hebrew/Aramaic:* אֶלָּא אָמַר רַב אָשֵׁי: לְעוֹלָם כְּדַאֲמַרַן מֵעִיקָּרָא וּבְעוֹשֶׂה מַעֲשֵׂה טַפְקָא, וְרַבִּי מֵאִיר לִדְבָרָיו דְּרַבִּי יְהוּדָה קָאָמַר: לְדִידִי אֲפִילּוּ בְּעוֹשִׂין מֵעֵין מְלָאכָה, אֶלָּא לְדִידָךְ, אוֹדִי לִי מִיהָא דִּכְהַאי גַּוְונָא מְלַאכְתּוֹ הוּא!
+*Translation:* **Rather, Rav Ashi said: Actually, it is as we said initially,** that it is referring to shards of any oven, **and** with which **he crafts a ceramic board [*tapka*], and Rabbi Meir is speaking in accordance with the statement of Rabbi Yehuda:** According **to my** opinion, it is permitted to move **even** shards that **serve** any **purpose. However, according to your** opinion, **agree with me at least that in a case of this sort, it is a function** similar to their own original function. The shards can be used for baking.
+
+**14.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה: לָא דָּמֵי, הָתָם — הֶסֵּקוֹ מִבִּפְנִים, הָכָא — הֶסֵּקוֹ מִבַּחוּץ. הָתָם — מְעוּמָּד, הָכָא — לָאו מְעוּמָּד.
+*Translation:* **And Rabbi Yehuda** says: It is **not similar. There,** in the case of an intact oven, **its firing is from within. Here,** with regard to the shard, **its firing is from without. There,** in the case of an intact oven, it bakes **standing; here,** it does **not** bake **standing.** Therefore, its function is not similar to its original function.
+
+**15.**
+*Hebrew/Aramaic:* הֵעִיד רַבִּי יוֹסֵי מִשּׁוּם רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב עַל שִׁבְרֵי תַּנּוּר יָשָׁן שֶׁנִּיטָּלִין בַּשַּׁבָּת, וְעַל כִּיסּוּיוֹ שֶׁאֵינוֹ צָרִיךְ בֵּית יָד. אָמַר רָבִינָא: כְּמַאן מְטַלְטְלִינַן הָאִידָּנָא כִּיסּוּי דְּתַנּוּרֵי דְמָתָא מַחְסֵיָא דְּאֵין לָהֶם בֵּית אֲחִיזָה? כְּמַאן — כְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב.
+*Translation:* In that same *Tosefta* where **Rabbi Yosei testified in the name of Rabbi Eliezer ben Ya’akov about shards of an old oven that may be moved on Shabbat, and about its cover, which does not require a handle,** and which is considered a vessel and may be moved as is, **Ravina says: In accordance with whose** opinion **do we now move the oven covers** in **the city of Meḥasya that do not have handles? In accordance with whose** opinion is it? It is **in accordance with** the opinion of **Rabbi Eliezer ben Ya’akov.**
+
+**16.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאֶבֶן שֶׁבְּקֵירוּיָה, אִם מְמַלְּאִין בָּהּ וְאֵינָהּ נוֹפֶלֶת — מְמַלְּאִין בָּהּ, וְאִם לָאו — אֵין מְמַלְּאִין בָּהּ.
+*Translation:* MISHNA: **A stone that is in a gourd** used to draw water **[*kiruya*], if they fill it** with water **and** the stone **does not fall, one may fill with it** on Shabbat, **and if not,** and the stone does fall, **one may not fill with it.**
+
+
+---
+
+### Shabbat 125b
+
+**1.**
+*Hebrew/Aramaic:* זְמוֹרָה שֶׁהִיא קְשׁוּרָה בַּטָּפִיחַ — מְמַלְּאִין בָּהּ בְּשַׁבָּת.
+*Translation:* With regard to **a** vine **branch that is tied to a pitcher, one may fill** water **with it on Shabbat** because the branch became part of the vessel.
+
+**2.**
+*Hebrew/Aramaic:* פְּקַק הַחַלּוֹן, רַבִּי אֱלִיעֶזֶר אוֹמֵר: בִּזְמַן שֶׁהוּא קָשׁוּר וְתָלוּי — פּוֹקְקִין בּוֹ, וְאִם לָאו — אֵין פּוֹקְקִין בּוֹ. וַחֲכָמִים אוֹמְרִים: בֵּין כָּךְ וּבֵין כָּךְ — פּוֹקְקִין בּוֹ.
+*Translation:* With regard to **a window shutter, Rabbi Eliezer says: When it is tied** to **and hanging** from the window, i.e., it is not touching the ground, **one may shutter** the window **with it,** because it is not considered building; **and if not,** i.e., it is touching the ground, **one may not shutter** the window **with it. And the Rabbis say: Both** in **this** case **and** in **that** case **one may shutter with it.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ תְּנַן הָתָם: אֶבֶן שֶׁעַל פִּי הֶחָבִית — מַטָּהּ עַל צִידָּהּ, וְהִיא נוֹפֶלֶת. אָמַר רַבָּה אָמַר רַבִּי אַמֵּי אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא בְּשׁוֹכֵחַ, אֲבָל בְּמַנִּיחַ — נַעֲשָׂה בָּסִיס לְדָבָר הָאָסוּר. וְרַב יוֹסֵף אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא בְּשׁוֹכֵחַ, אֲבָל בְּמַנִּיחַ — נַעֲשָׂה כִּיסּוּי לֶחָבִית.
+*Translation:* GEMARA: **We learned** in a mishna **there:** In the case of **a stone that is atop a barrel** and one wants to open the barrel, **he tilts** the barrel **on its side and** the stone **falls. Rabba said** that **Rabbi Ami said** that **Rabbi Yoḥanan said: They only taught** this in a case **where one forgets** the stone atop the barrel; **however,** in a case **where one places** the stone atop the barrel intentionally, the barrel **becomes a base for a prohibited object,** and it is therefore prohibited to move the barrel. **And Rav Yosef** said that **Rabbi Asi said** that **Rabbi Yoḥanan said: They only taught** this in a case **where one forgets** it; **however,** in a case **where one places** it there, the stone **becomes a cover for the barrel** and it is permitted to use it like other barrel covers.
+
+**4.**
+*Hebrew/Aramaic:* אָמַר רַבָּה, מוֹתְבִינַן אַשְּׁמַעְתִּין: הָאֶבֶן שֶׁבְּקֵירוּיָה אִם מְמַלְּאִין בָּהּ וְאֵינָהּ נוֹפֶלֶת — מְמַלְּאִין בָּהּ! וְלָא הִיא. הָתָם, כֵּיוָן דְּהַדְּקַהּ — שַׁוְּיַהּ דּוֹפֶן.
+*Translation:* **Rabba said: We raise an objection to our *halakha*** from the mishna: With regard to **a stone that is in a gourd** used to draw water, **if they fill it** with water **and** the stone **does not fall, one may fill with it** on Shabbat. Apparently, if the stone is designated for a purpose, it is no longer set-aside. He rejects the proof: **And that is not so,** as these cases are not comparable. **There,** in the case of the stone in the gourd, **since one attached** it to the gourd, **he rendered** the stone **a wall** of the gourd and part of the vessel, unlike in the case of the stone atop the barrel.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף, וּמוֹתְבִינַן אַשְּׁמַעְתִּין: אִם לָאו — אֵין מְמַלְּאִין בָּהּ! וְלָא הִיא. הָתָם, כֵּיוָן דְּלָא הַדְּקַהּ — בַּטּוֹלֵי בַּטְּלַהּ.
+*Translation:* **Rav Yosef said: And we raise an objection to our *halakha*** from the mishna: **And if not,** and the stone does fall, **one may not fill with it.** A stone that is not attached is not considered to be part of the vessel and is therefore set-aside. He rejects the proof. **And that is not so,** as these cases are not comparable. **There, since he did not attach** the stone to the gourd, **he negates its** status as a part of the vessel and it remains set-aside.
+
+**6.**
+*Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? מָר סָבַר בָּעֵינַן מַעֲשֶׂה, וּמָר סָבַר לָא בָּעֵינַן מַעֲשֶׂה.
+*Translation:* The Gemara explains: **With regard to what do they disagree? One Sage,** Rabba, **holds** that **we require an action** to change the status of a stone or another set-aside object into a vessel, **and one Sage,** Rav Yosef, **holds** that **we do not require an action.**
+
+**7.**
+*Hebrew/Aramaic:* וְאָזְדוּ לְטַעְמַיְיהוּ, דְּכִי אֲתָא רַב דִּימִי אָמַר רַבִּי חֲנִינָא, וְאָמְרִי לַהּ אָמַר רַבִּי זֵירָא אָמַר רַבִּי חֲנִינָא: פַּעַם אַחַת הָלַךְ רַבִּי לְמָקוֹם אֶחָד וּמָצָא נִדְבָּךְ שֶׁל אֲבָנִים, וְאָמַר לְתַלְמִידָיו: צְאוּ וְחַשְּׁבוּ כְּדֵי שֶׁנֵּשֵׁב עֲלֵיהֶן לְמָחָר, וְלֹא הִצְרִיכָן רַבִּי לְמַעֲשֶׂה.
+*Translation:* **And they,** Rabbi Ami and Rabbi Asi, **follow their** regular line of **reasoning, as when Rav Dimi came** from Eretz Yisrael to Babylonia he said that **Rabbi Ḥanina said, and some say that** it was **Rabbi Zeira** who **said** that **Rabbi Ḥanina said: Once Rabbi** Yehuda HaNasi **went to one place and found a course of** building **stones, and** he **said to his students: Go out and think** that you are designating these stones for Shabbat **so that we may sit on them tomorrow** on Shabbat, **and Rabbi** Yehuda HaNasi **did not require them** to perform **an action** with those stones. Thought alone was sufficient.
+
+**8.**
+*Hebrew/Aramaic:* רַבִּי יוֹחָנָן אָמַר: הִצְרִיכָן רַבִּי לְמַעֲשֶׂה. מַאי אֲמַר לְהוּ? רַבִּי אַמֵּי אָמַר: ״צְאוּ וְלַמְּדוּם״ אֲמַר לְהוּ. רַבִּי אַסִּי אָמַר: ״צְאוּ וְשַׁפְשְׁפוּם״ אֲמַר לְהוּ.
+*Translation:* **Rabbi Yoḥanan said:** That is not what happened. **Rabbi** Yehuda HaNasi **required them** to perform **an action** to designate the stones. The Gemara asks: **What** action **did he say to them** to perform? **Rabbi Ami said** that Rabbi Yehuda HaNasi **said to them: Go out and arrange** the stones. **Rabbi Asi said** that **he said to them: Go out and rub** the mortar off of **them.** Rabbi Ami requires a more significant action to render the stones a vessel.
+
+**9.**
+*Hebrew/Aramaic:* אִיתְּמַר, רַבִּי יוֹסֵי בֶּן שָׁאוּל אָמַר: סְוָאר שֶׁל קוֹרוֹת הֲוָה. וְרַבִּי יוֹחָנָן בֶּן שָׁאוּל אָמַר: גָּשׁוֹשׁ שֶׁל סְפִינָה הֲוָה. מַאן דַּאֲמַר גָּשׁוֹשׁ — כׇּל שֶׁכֵּן סְוָאר, וּמַאן דְּאָמַר סְוָאר — אֲבָל גָּשׁוֹשׁ קָפֵיד עֲלֵיהּ.
+*Translation:* **It was stated** that there was a dispute with regard to this matter. **Rabbi Yosei ben Shaul said: It was a** new **stack of beams,** not stones. **And Rabbi Yoḥanan ben Shaul said: It was the sounding pole of a ship** used to determine the depth of the water. **The one who said** that Rabbi Yehuda HaNasi permitted sitting on a ship’s **sounding pole, all the more so** he permitted doing so in the case of **beams. And** with regard to **the one who said** that Rabbi Yehuda HaNasi permitted sitting on a stack of **beams, but** in the case of the **sounding pole** he would prohibit doing so because it is set-aside due to monetary loss, as he is **particular about it** that it will not become warped and damaged.
+
+**10.**
+*Hebrew/Aramaic:* זְמוֹרָה שֶׁהִיא קְשׁוּרָה כּוּ׳. קְשׁוּרָה — אִין, לֹא קְשׁוּרָה — לָא. לֵימָא מַתְנִיתִין דְּלָא כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.
+*Translation:* We learned in the mishna: With regard to **a** vine **branch that is tied** to a pitcher, one may fill water with it on Shabbat. The Gemara infers: If it is **tied, yes,** it is permitted; if it is **not tied, no,** it is prohibited. **Let us say that the mishna is not in accordance with** the opinion of **Rabban Shimon ben Gamliel.**
+
+**11.**
+*Hebrew/Aramaic:* דְּתַנְיָא: חֲרִיּוֹת שֶׁל דֶּקֶל שֶׁגְּדָרָן לְעֵצִים וְנִמְלַךְ עֲלֵיהֶן לִישִׁיבָה — צָרִיךְ לִקְשׁוֹר. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אֵין צָרִיךְ לִקְשׁוֹר.
+*Translation:* **As it was taught** in a *baraita*: With regard to **hard branches of a palm** tree **that one cut for firewood** or for construction, **and** then **he reconsidered their** designation and decided to use them **for sitting, he must tie** the branches together on Shabbat eve so that they will not be set-aside. **Rabban Shimon ben Gamliel says: He need not tie** them together, and nevertheless, it is permitted to move them. According to Rabban Shimon ben Gamliel, cut wood need not be specially prepared to be used on Shabbat.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב שֵׁשֶׁת: אֲפִילּוּ תֵּימָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, הָכָא בְּמַאי עָסְקִינַן — בִּמְחוּבֶּרֶת בְּאִבֶּיהָ. אִי הָכִי, קָא מִשְׁתַּמֵּשׁ בִּמְחוּבָּר לַקַּרְקַע! לְמַטָּה מִשְּׁלֹשָׁה. רַב אָשֵׁי אָמַר: אֲפִילּוּ תֵּימָא בִּתְלוּשָׁה, גְּזֵירָה שֶׁמָּא יִקְטוֹם.
+*Translation:* **Rav Sheshet says: Even** if **you say** that the mishna is in accordance with the opinion of **Rabban Shimon ben Gamliel, with what are we dealing here? With** a case where the shoot is still **connected to its origin,** the vine. The Gemara asks: **If so, he is making use** of an item that **is attached to the ground,** and the Sages issued a decree prohibiting the use of any plant attached to the ground. The Gemara answers: This is referring to a branch attached to the vine **below three** handbreadths off the ground. A vine attached to the ground below three handbreadths off the ground was not prohibited in that decree, just as it is permitted to make use of tree roots adjacent to the ground. **Rav Ashi said: Even** if **you say** that it is referring **to a** branch that **is detached,** nevertheless, its use is prohibited due to the **decree lest one cut** and straighten the branch to prepare it for use with the bucket. Therefore, Rabban Shimon ben Gamliel teaches that there is no need for concern.
+
+**13.**
+*Hebrew/Aramaic:* פְּקַק הַחַלּוֹן כּוּ׳. אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הַכֹּל מוֹדִים שֶׁאֵין עוֹשִׂין אֹהֶל עֲרַאי בַּתְּחִלָּה בְּיוֹם טוֹב, וְאֵין צָרִיךְ לוֹמַר בְּשַׁבָּת. לֹא נֶחְלְקוּ אֶלָּא לְהוֹסִיף. שֶׁרַבִּי אֱלִיעֶזֶר אוֹמֵר: אֵין מוֹסִיפִין בְּיוֹם טוֹב, וְאֵין צָרִיךְ לוֹמַר בְּשַׁבָּת. וַחֲכָמִים אוֹמְרִים: מוֹסִיפִין בְּשַׁבָּת, וְאֵין צָרִיךְ לוֹמַר בְּיוֹם טוֹב.
+*Translation:* We learned in the mishna that Rabbi Eliezer and the Rabbis dispute the case of **a window shutter** and in what manner one is permitted to shutter a window on Shabbat. **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said: Everyone agrees that one may not construct a temporary tent on a Festival** for the **first time, and needless to say,** one may not do so **on Shabbat.** The *tanna’im* **disagree only** with regard to **adding** to an existing tent, **as Rabbi Eliezer says: One may not add** to an existing structure **on a Festival, and needless to say,** one may not do so **on Shabbat. And the Rabbis say: One may add** to a temporary structure **on Shabbat, and needless to say,** one may do so **on a Festival.**
+
+**14.**
+*Hebrew/Aramaic:* וַחֲכָמִים אוֹמְרִים: בֵּין כָּךְ וּבֵין כָּךְ פּוֹקְקִין בּוֹ. מַאי ״בֵּין כָּךְ וּבֵין כָּךְ״? אָמַר רַבִּי אַבָּא אָמַר רַב כָּהֲנָא:
+*Translation:* We learned in the mishna that the Rabbis say: Both in this case and in that case one may shutter with it. The Gemara asks: **What** is the meaning of: **Both** in **this** case **and** in **that** case, in this context? **Rabbi Abba said** that **Rav Kahana said:**

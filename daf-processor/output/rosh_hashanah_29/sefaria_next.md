@@ -1,0 +1,97 @@
+### Rosh Hashanah 30a
+
+**1.**
+*Hebrew/Aramaic:* וְעִם בֵּית דִּין. מַאי וְעִם בֵּית דִּין? בִּפְנֵי בֵּית דִּין, לְאַפּוֹקֵי שֶׁלֹּא בִּפְנֵי בֵּית דִּין — דְּלָא.
+*Translation:* **And** they would sound the *shofar* on Shabbat **with the court.** Rav Huna’s brief statement is obscure, and therefore the Gemara asks: **What is** the meaning of the phrase: **With the court?** It means: **In the presence of the court,** i.e., in the place where the court convenes. This comes **to exclude** any place that is **not in the presence of the court, as** the *shofar* is **not** sounded there.
+
+**2.**
+*Hebrew/Aramaic:* מֵתִיב רָבָא: וְעוֹד זֹאת הָיְתָה יְרוּשָׁלַיִם יְתֵירָה עַל יַבְנֶה וְכוּ׳. מַאי וְעוֹד זֹאת? אִילֵּימָא כִּדְקָתָנֵי — ״זֹאת״ מִיבְּעֵי לֵיהּ. אֶלָּא: דְּבִירוּשָׁלַיִם תּוֹקְעִין יְחִידִין, וּבְיַבְנֶה אֵין תּוֹקְעִין יְחִידִין.
+*Translation:* § **Rava raised an objection** from the mishna: **And Jerusalem had this additional superiority over Yavne. What is** the meaning of the phrase: **And this additional? If we say** that it is referring only to **that which it teaches** in the mishna, **it should have** simply said: **This,** without mentioning that it is an additional superiority. **Rather,** it indicates **that in Jerusalem** even private **individuals sound** the *shofar* on Shabbat, whereas **in Yavne individuals do not sound** it, but only agents of the court.
+
+**3.**
+*Hebrew/Aramaic:* וּבְיַבְנֶה אֵין תּוֹקְעִין יְחִידִין? וְהָא כִּי אֲתָא רַב יִצְחָק בַּר יוֹסֵף, אָמַר: כִּי מְסַיֵּים שְׁלִיחָא דְצִיבּוּרָא תְּקִיעָה בְּיַבְנֶה — לָא שָׁמַע אִינִישׁ קָל אוּנֵּיה מִקָּל תָּקוֹעַיָּא דִּיחִידָאֵי.
+*Translation:* **And** this too is difficult: **Don’t individuals sound** the *shofar* **in Yavne? But when Rav Yitzḥak bar Yosef came** from Eretz Yisrael to Babylonia, **he said: When the prayer leader completed the sounding** of the *shofar* **in Yavne, nobody could hear the sound of** his own voice in **his ears due to the noise of the sounding of individuals.** After the leader of the congregation finished sounding on behalf of the entire community, many individuals would take out their *shofars* and blast them, which created a loud noise. This indicates that individuals would sound the *shofar* on Shabbat even in Yavne.
+
+**4.**
+*Hebrew/Aramaic:* אֶלָּא לָאו: דְּבִירוּשָׁלַיִם תּוֹקְעִין בֵּין בִּזְמַן בֵּית דִּין וּבֵין שֶׁלֹּא בִּזְמַן בֵּית דִּין, וּבְיַבְנֶה, בִּזְמַן בֵּית דִּין — אִין, שֶׁלֹּא בִּזְמַן בֵּית דִּין — לָא. הָא בִּזְמַן בֵּית דִּין מִיהָא תּוֹקְעִין, וַאֲפִילּוּ שֶׁלֹּא בִּפְנֵי בֵּית דִּין!
+*Translation:* **Rather,** is it **not** the case **that in Jerusalem they sound** the *shofar* **both when the court** was in session, i.e., until midday, **and when the court** was **not** in session. **And** by contrast, **in Yavne, when the court** was in session, **yes,** they would sound the *shofar*, whereas **when the court** was **not** in session, **no,** they would not sound it. If so, this indicates that **when the court** was in session **they would in any case sound** the *shofar* in Yavne, **even** though this was **not in the presence of the court.** This contradicts Rav Huna’s opinion that in Yavne they would sound the *shofar* only in the presence of the court.
+
+**5.**
+*Hebrew/Aramaic:* לָא: דְּאִילּוּ בִּירוּשָׁלַיִם תּוֹקְעִין בֵּין בִּפְנֵי בֵּית דִּין בֵּין שֶׁלֹּא בִּפְנֵי בֵּית דִּין, וּבְיַבְנֶה, בִּפְנֵי בֵּית דִּין — אִין, שֶׁלֹּא בִּפְנֵי בֵּית דִּין — לָא.
+*Translation:* The Gemara rejects this argument. **No,** the term additional can be explained to mean **that whereas in Jerusalem they** would **sound** the *shofar* on Shabbat **both in the presence of the court and not in the presence of the court,** with regard **to Yavne, in the presence of the court, yes,** they would indeed sound it, but if it was **not in the presence of the court, no,** they would not sound the *shofar*.
+
+**6.**
+*Hebrew/Aramaic:* אִיכָּא דְּמַתְנֵי לְהָא דְּרַב הוּנָא אַהָא דִּכְתִיב ״בְּיוֹם הַכִּפּוּרִים תַּעֲבִירוּ שׁוֹפָר בְּכׇל אַרְצְכֶם״ — מְלַמֵּד שֶׁכׇּל יָחִיד וְיָחִיד חַיָּיב לִתְקוֹעַ. אָמַר רַב הוּנָא: וְעִם בֵּית דִּין. מַאי וְעִם בֵּית דִּין — בִּזְמַן בֵּית דִּין. לְאַפּוֹקֵי שֶׁלֹּא בִּזְמַן בֵּית דִּין, דְּלָא.
+*Translation:* § **Some teach this** statement **of Rav Huna** not with regard to this mishna, but rather **with regard to this** *baraita* that deals with the Jubilee Year. **As it is written: “On Yom Kippur you shall proclaim with the *shofar* throughout all your land”** (Leviticus 25:9). This **teaches that each and every individual is obligated to sound** the *shofar*. In this connection **Rav Huna said: And** they sound it **with the court.** The Gemara asks: **What is** the meaning of the phrase: **With the court?** The Gemara explains: **When the court** is in session. This serves **to exclude** a case **when the court** is **not** in session, **that** the *shofar* is **not** sounded.
+
+**7.**
+*Hebrew/Aramaic:* מֵתִיב רָבָא: תְּקִיעַת רֹאשׁ הַשָּׁנָה וְיוֹבֵל דּוֹחָה אֶת הַשַּׁבָּת בִּגְבוּלִין, אִישׁ וּבֵיתוֹ. מַאי ״אִישׁ וּבֵיתוֹ״? אִילֵּימָא אִישׁ וְאִשְׁתּוֹ — אִיתְּתָא מִי מִיחַיְּיבָא? וְהָא מִצְוַת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָא הִיא, וְכׇל מִצְוַת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָא — נָשִׁים פְּטוּרוֹת.
+*Translation:* **Rava raised an objection** from a *baraita*: **The sounding** of the *shofar* **on Rosh HaShana and** on Yom Kippur of **the Jubilee Year overrides** the prohibitions of **Shabbat** even **in the outlying areas** outside the Temple, **every man and his house.** The Gemara asks: **What is** the meaning of the phrase: **Every man and his house? If we say** that it means, as usual: Every **man and his wife, is a woman obligated** to sound the *shofar*? **Isn’t** sounding the *shofar* **a positive, time-bound mitzva,** i.e., one that can be performed only at a certain time of the day, or during the day rather than during the night, or only on certain days of the year? **And** the principle is that with regard to **any positive, time-bound mitzva, women are exempt.**
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא לָאו: אִישׁ בְּבֵיתוֹ, וַאֲפִילּוּ שֶׁלֹּא בִּזְמַן בֵּית דִּין! לָא, לְעוֹלָם בִּזְמַן בֵּית דִּין.
+*Translation:* **Rather, is it not** the case that this phrase means: **Every man in his house, and even** at a time **when the court** is **not** in session? This presents a difficulty for the opinion of Rav Huna. The Gemara rejects this interpretation: **No; actually** it means that every man may sound the *shofar* in his house, but only **at a time when the court** is in session.
+
+**9.**
+*Hebrew/Aramaic:* מֵתִיב רַב שֵׁשֶׁת: שָׁוֶה הַיּוֹבֵל לְרֹאשׁ הַשָּׁנָה לַתְּקִיעָה וְלַבְּרָכוֹת, אֶלָּא שֶׁבַּיּוֹבֵל תּוֹקְעִין בֵּין בְּבֵית דִּין שֶׁקִּידְּשׁוּ בּוֹ אֶת הַחֹדֶשׁ, וּבֵין בְּבֵית דִּין שֶׁלֹּא קִידְּשׁוּ בּוֹ אֶת הַחֹדֶשׁ, וְכׇל יָחִיד וְיָחִיד חַיָּיב לִתְקוֹעַ. בְּרֹאשׁ הַשָּׁנָה לֹא הָיוּ תּוֹקְעִין אֶלָּא בְּבֵית דִּין שֶׁקִּידְּשׁוּ בּוֹ אֶת הַחֹדֶשׁ, וְאֵין כׇּל יָחִיד וְיָחִיד חַיָּיב לִתְקוֹעַ.
+*Translation:* **Rav Sheshet raised an objection** from another *baraita*: Yom Kippur of **the Jubilee Year is the same as Rosh HaShana with regard to** both the *shofar* **sounding and the** additional **blessings** recited in the *Amida* prayer. **However,** the difference is **that on** Yom Kippur of **the Jubilee Year they sound** the *shofar* **both in the court where they sanctified the month and in a court where they did not sanctify the month, and each and every individual is obligated to sound** the *shofar*. Conversely, **on Rosh HaShana they sound** the *shofar* **only in the court where they sanctified the month, and each and every individual is not obligated to sound** it.
+
+**10.**
+*Hebrew/Aramaic:* מַאי אֵין כׇּל יָחִיד וְיָחִיד חַיָּיב לִתְקוֹעַ? אִילֵּימָא דְּבַיּוֹבֵל תּוֹקְעִין יְחִידִין וּבְרֹאשׁ הַשָּׁנָה אֵין תּוֹקְעִין יְחִידִין — וְהָא כִּי אֲתָא רַב יִצְחָק בַּר יוֹסֵף, אָמַר: כִּי הֲוָה מְסַיֵּים שְׁלִיחָא דְצִיבּוּרָא תְּקִיעָתָא בְּיַבְנֶה — לָא שָׁמַע אִינִישׁ קָל אוּנֵּיה מִקָּל תָּקוֹעַיָּא דִּיחִידָאֵי.
+*Translation:* The Gemara asks: **What is** the meaning of the clause: **Each and every individual is not obligated to sound** it? **If we say that on** Yom Kippur of **the Jubilee Year individuals sound** the *shofar*, **whereas on Rosh HaShana individuals do not sound** it at all, this is difficult: **But when Rav Yitzḥak bar Yosef came** from Eretz Yisrael to Babylonia, **he said: When the prayer leader completed the sounding** of the *shofar* **in Yavne, nobody could hear the sound of** his own voice in **his ears due to the noise of the sounding of individuals.** This indicates that individuals would sound the *shofar* even on Rosh HaShana.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא לָאו: דְּאִילּוּ בַּיּוֹבֵל תּוֹקְעִין בֵּין בִּזְמַן בֵּית דִּין בֵּין שֶׁלֹּא בִּזְמַן בֵּית דִּין, וּבְרֹאשׁ הַשָּׁנָה, בִּזְמַן בֵּית דִּין — אֵין, שֶׁלֹּא בִּזְמַן בֵּית דִּין — לָא. קָתָנֵי מִיהַת: בַּיּוֹבֵל בֵּין בִּזְמַן בֵּית דִּין, בֵּין שֶׁלֹּא בִּזְמַן בֵּית דִּין!
+*Translation:* **Rather, is it not** the case that **whereas on** Yom Kippur of **the Jubilee Year they sound** the *shofar* **both when the court** is in session **and when the court** is **not** in session, **on Rosh HaShana, when the court** was in session, **yes,** they would indeed sound it, but **at a time when the court** was **not** in session, **no,** they would not sound the *shofar*. **In any event,** the *baraita* **is teaching** that **on** Yom Kippur of **the Jubilee Year** they would sound the *shofar* **both when the court** was in session **and when the court** was **not** in session. This presents a difficulty for the opinion of Rav Huna.
+
+**12.**
+*Hebrew/Aramaic:* לָא, לְעוֹלָם בִּזְמַן בֵּית דִּין, וְהָכִי קָתָנֵי: בַּיּוֹבֵל, בִּזְמַן בֵּית דִּין — תּוֹקְעִין בֵּין בִּפְנֵי בֵּית דִּין, בֵּין שֶׁלֹּא בִּפְנֵי בֵּית דִּין. בְּרֹאשׁ הַשָּׁנָה, תּוֹקְעִין בִּזְמַן בֵּית דִּין, וּבִפְנֵי בֵּית דִּין. אִיתְּמַר נָמֵי: אָמַר רַבִּי חִיָּיא בַּר גַּמָּדָא אָמַר רַבִּי יוֹסֵי בֶּן שָׁאוּל אָמַר רַבִּי: אֵין תּוֹקְעִין אֶלָּא כׇּל זְמַן שֶׁבֵּית דִּין יוֹשְׁבִין.
+*Translation:* The Gemara rejects this argument. **No; actually** they sound the *shofar* only **when the court** was in session, **and this is what** the *baraita* **is teaching: On** Yom Kippur of **the Jubilee Year, when the court** was in session **they sound** the *shofar* **both in the presence of the court and not in the presence of the court;** however, **on Rosh HaShana they sound** it only **when the court** was in session, **and** even then only **in the presence of the court. It was also stated** that **Rabbi Ḥiyya bar Gamda said** that **Rabbi Yosei ben Shaul said** that **Rabbi** Yehuda HaNasi **said: They sound** the *shofar* **only throughout** the period **when the court is sitting** in session, and only in its presence.
+
+**13.**
+*Hebrew/Aramaic:* בָּעֵי רַבִּי זֵירָא: נִנְעֲרוּ לַעֲמוֹד וְלֹא עָמְדוּ, מַהוּ? בֵּית דִּין יוֹשְׁבִין בָּעֵינַן — וְהָא אִיכָּא, אוֹ דִלְמָא: זְמַן בֵּית דִּין בָּעֵינַן — וְלֵיכָּא? תֵּיקוּ.
+*Translation:* **Rabbi Zeira raised a dilemma:** If the members of the court **stirred** themselves **to rise** at the end of the session, but there was some delay **and they did not** actually **rise, what is** the *halakha*? Do **we require** that **the court** be **seated, and that is** the case here, as the judges are still sitting? **Or perhaps we require** that the *shofar* must be sounded **when** the **court** is in session, **and that is not** the case, as they have stirred to rise. No relevant sources were found in this regard, and therefore the Gemara states that the question **shall stand** unresolved.
+
+**14.**
+*Hebrew/Aramaic:* וְעוֹד זֹאת הָיְתָה יְרוּשָׁלַיִם יְתֵירָה עַל יַבְנֶה וְכוּ׳. רוֹאָה — פְּרָט לְיוֹשֶׁבֶת בַּנַּחַל.
+*Translation:* § The mishna stated: **And Jerusalem had this additional superiority over Yavne.** Any city that could see Jerusalem and hear the sounding of the *shofar* there, and was nearby, and people could come from there, they would sound the *shofar* there as well. The Gemara clarifies these requirements: The clause that the city had to be able to **see** Jerusalem comes to **exclude** a city **that sits in** a deep **valley,** from which one can hear but cannot see Jerusalem from afar.
+
+**15.**
+*Hebrew/Aramaic:* שׁוֹמַעַת — פְּרָט לְיוֹשֶׁבֶת בְּרֹאשׁ הָהָר. קְרוֹבָה — פְּרָט לְיוֹשֶׁבֶת חוּץ לַתְּחוּם. וִיכוֹלָה לָבוֹא — פְּרָט לְמַפְסֵיק לַהּ נַהֲרָא.
+*Translation:* When the mishna states that the city must be able to **hear,** this serves to **exclude** a city **sitting on a mountaintop,** from where one can see Jerusalem but cannot hear sounds from it. As for the requirement that the city must be **near,** this comes to **exclude** a place **sitting beyond** the Shabbat **limit** of Jerusalem, even if one can see and hear from that place. **And** with regard to the statement that one **can come,** this serves to **exclude** a city **that is separated** from Jerusalem **by a river,** which renders it impossible for people to come to the city, even if it is close by.
+
+**16.**
+*Hebrew/Aramaic:* מַתְנִי׳ בָּרִאשׁוֹנָה הָיָה הַלּוּלָב נִיטָּל בַּמִּקְדָּשׁ שִׁבְעָה, וּבַמְּדִינָה יוֹם אֶחָד. מִשֶּׁחָרַב בֵּית הַמִּקְדָּשׁ, הִתְקִין רַבָּן יוֹחָנָן בֶּן זַכַּאי שֶׁיְּהֵא לוּלָב נִיטָּל בַּמְּדִינָה שִׁבְעָה, זֵכֶר לַמִּקְדָּשׁ.
+*Translation:* MISHNA: After the previous mishna mentioned Rabban Yoḥanan ben Zakkai’s ordinance that applies to the sounding of the *shofar*, this mishna records other ordinances instituted by the same Sage: **At first,** during the Temple era, **the *lulav* was taken in the Temple** all **seven** days of *Sukkot*, **and in the** rest of the **country** outside the Temple, it was taken only **one day,** on the first day of the Festival. **After the Temple was destroyed, Rabban Yoḥanan ben Zakkai instituted that the *lulav* should be taken** even **in the** rest of the **country** all **seven** days, in **commemoration of the Temple.**
+
+**17.**
+*Hebrew/Aramaic:* וְשֶׁיְּהֵא יוֹם הֶנֶף כּוּלּוֹ אָסוּר.
+*Translation:* **And** for similar reasons, Rabban Yoḥanan ben Zakkai instituted **that** for **the entire day of waving** the *omer* offering, i.e., the sixteenth of Nisan, eating the grain of the new crop **is prohibited.** By Torah law, when the Temple is standing the new grain may not be eaten until after the *omer* offering is brought on the sixteenth of Nisan, usually early in the morning. When the Temple is not standing it may be eaten from the time that the eastern horizon is illuminated at daybreak. However, Rabban Yoḥanan ben Zakkai instituted a prohibition against eating the new grain throughout the entire sixteenth of Nisan, until the seventeenth, to commemorate the Temple.
+
+**18.**
+*Hebrew/Aramaic:* גְּמָ׳ וּמְנָלַן דְּעָבְדִינַן זֵכֶר לַמִּקְדָּשׁ? דְּאָמַר קְרָא: ״כִּי אַעֲלֶה אֲרוּכָה לָךְ וּמִמַּכּוֹתַיִךְ אֶרְפָּאֵךְ נְאֻם ה׳ כִּי נִדָּחָה קָרְאוּ לָךְ צִיּוֹן הִיא דּוֹרֵשׁ אֵין לָהּ״, מִכְּלַל דְּבָעֲיָא דְּרִישָׁה.
+*Translation:* GEMARA: The Gemara asks: **And from where do we** derive **that one performs** actions in **commemoration of the Temple? As the verse states: “For I will restore health to you, and I will heal you of your wounds, said the Lord; because they have called you an outcast: She is Zion, there is none who care for her”** (Jeremiah 30:17). This verse teaches **by inference that** Jerusalem **requires caring** through acts of commemoration.
+
+**19.**
+*Hebrew/Aramaic:* וְשֶׁיְּהֵא יוֹם הֶנֶף כּוּלּוֹ אָסוּר. מַאי טַעְמָא — מְהֵרָה יִבָּנֶה בֵּית הַמִּקְדָּשׁ, וְיֹאמְרוּ: אֶשְׁתָּקַד מִי לֹא אָכַלְנוּ בְּהֵאִיר מִזְרָח — עַכְשָׁיו נָמֵי נֵיכוֹל.
+*Translation:* § The mishna taught: Rabban Yoḥanan ben Zakkai also instituted **that** for **the entire day of waving** the *omer* offering, eating the grain of the new crop **is prohibited.** The Gemara asks: **What is the reason** for this ordinance? The reasoning is that **soon the Temple will be rebuilt and** people **will say: Last year,** when the Temple was in ruins, **didn’t we eat** from the new crop **as soon as the eastern** horizon **was illuminated** on the morning of the sixteenth of Nisan, as the new crop was permitted immediately? **Now too, let us eat** the new grain at that time.
+
+**20.**
+*Hebrew/Aramaic:* וְלָא יָדְעִי דְּאֶשְׁתָּקַד לָא הֲוָה עוֹמֶר, הֵאִיר מִזְרָח — הִתִּיר. הַשְׁתָּא דְּאִיכָּא עוֹמֶר — עוֹמֶר מַתִּיר.
+*Translation:* **And they do not know that last year,** when **there was no *omer*, the eastern** horizon **illuminating,** i.e., the morning of the sixteenth of Nisan, served to **permit** the consumption of the new grain immediately. However, **now that** the Temple has been rebuilt and **there is an *omer*** offering, it is **the *omer*** that **permits** the consumption of the new grain. When the Temple is standing, the new grain is not permitted until the *omer* offering has been sacrificed.
+
+**21.**
+*Hebrew/Aramaic:* דְּמִיבְּנֵי אֵימַת? אִילֵּימָא דְּאִיבְּנִי בְּשִׁיתְּסַר, הֲרֵי הֵאִיר מִזְרָח — הִתִּיר.
+*Translation:* The Gemara clarifies: In this scenario, **when** is it **that** the Temple was **built? If we say that it was rebuilt on the sixteenth** of Nisan, then the Temple was not standing in the morning and therefore **the eastern** horizon **illuminating** indeed rendered eating the new grain **permitted,** as it was not yet possible to bring the *omer* offering.
+
+**22.**
+*Hebrew/Aramaic:* אֶלָּא דְּאִיבְּנִי בַּחֲמֵיסַר. מֵחֲצוֹת הַיּוֹם וּלְהַלָּן לִשְׁתְּרֵי, דְּהָא תְּנַן: הָרְחוֹקִין — מוּתָּרִין מֵחֲצוֹת הַיּוֹם וּלְהַלָּן, לְפִי שֶׁאֵין בֵּית דִּין מִתְעַצְּלִים בּוֹ!
+*Translation:* **Rather,** you must say **that it was rebuilt on the fifteenth** of Nisan or on some earlier date, in which case the new grain would not become permitted by the illumination of the eastern horizon. In that scenario, **from midday onward let it be permitted** to eat the new grain, **as didn’t we learn** in a mishna in tractate *Menaḥot*: The people **distant** from Jerusalem, who are unaware of the precise time when the *omer* was brought, **are permitted** to eat the new grain **from midday onward, because the** members of the **court are not indolent with regard to** the *omer* offering and would certainly have sacrificed it by midday. If so, now too, it should be permitted to eat the new grain beginning at that time. Why did Rabban Yoḥanan ben Zakkai prohibit it for the entire day?
+
+**23.**
+*Hebrew/Aramaic:* לֹא נִצְרְכָא, דְּאִיבְּנִי בַּחֲמֵיסַר סָמוּךְ לִשְׁקִיעַת הַחַמָּה. אִי נָמֵי, דְּאִיבְּנִי בְּלֵילְיָא.
+*Translation:* The Gemara answers: This ordinance **was necessary only** in a case **where** the Temple **was rebuilt on the fifteenth adjacent to sunset. Alternatively,** in a situation **where** the Temple **was rebuilt at night,** on the evening of the sixteenth, and there was no opportunity to cut the *omer* that night. In either case there is insufficient time to complete all the preparations so that the offering can be sacrificed by noon the next day. If people eat the new grain at midday, they will have retroactively transgressed a prohibition. Therefore, Rabban Yoḥanan ben Zakkai instituted that the new grain should be prohibited for the entire day of the sixteenth.
+
+**24.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: רַבָּן יוֹחָנָן בֶּן זַכַּאי
+*Translation:* **Rav Naḥman bar Yitzḥak said:** That is not the reason. Rather, **Rabban Yoḥanan ben Zakkai**

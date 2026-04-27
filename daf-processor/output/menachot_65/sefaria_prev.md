@@ -1,0 +1,49 @@
+### Menachot 64b
+
+**1.**
+*Hebrew/Aramaic:* דְּעַד כָּאן לָא קָאָמַר רַבִּי יִשְׁמָעֵאל הָתָם, אֶלָּא דְּכִי מְמַעֵט בַּאֲכִילָה קָא מְמַעֵט קְצִירָה, אֲבָל הָכָא דְּכִי קָא מְמַעֵט בַּאֲכִילָה קָא מַפְּשָׁא קְצִירָה, וַדַּאי שָׁלֹשׁ מַיְיתִינַן.
+*Translation:* **as Rabbi Yishmael states only there,** in the mishna, that three *se’a* of barley are reaped on Shabbat, **as** in that case **when** one **limits** the amount available **for eating,** he likewise **limits** the amount of **reaping. But here, when** one **limits** the amount **of eating** by bringing the two figs, he also **increases** the amount of **reaping.** Therefore is it **certain** that **we bring** the ill person the **three** figs attached by a single stem.
+
+**2.**
+*Hebrew/Aramaic:* מַתְנִי׳ מִצְוַת הָעוֹמֶר לְהָבִיא מִן הַקָּרוֹב, לֹא בִּיכֵּר הַקָּרוֹב לִירוּשָׁלַיִם – מְבִיאִין אוֹתוֹ מִכׇּל מָקוֹם. מַעֲשֶׂה שֶׁבָּא הָעוֹמֶר מִגַּגּוֹת צְרִיפִין, וּשְׁתֵּי הַלֶּחֶם מִבִּקְעַת עֵין סוֹכֵר.
+*Translation:* MISHNA: **The mitzva of the *omer* is to bring** the barley reaped for the meal offering **from** fields **proximate** to Jerusalem. If the barley **did not ripen** in **the** fields **proximate to Jerusalem, one brings it from any place** in Eretz Yisrael. There was **an incident where the *omer* came from Gaggot Tzerifin and** the wheat for **the two loaves** on *Shavuot* came **from the valley of Ein Sokher.**
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ מַאי טַעְמָא? אִיבָּעֵית אֵימָא מִשּׁוּם ״כַּרְמֶל״.
+*Translation:* GEMARA: The Gemara asks: **What is the reason** that the barley reaped for the *omer* meal offering should ideally be brought from fields proximate to Jerusalem? The Gemara answers: **If you wish, say** that it is **because** the verse states: “And if you bring a meal offering of first fruits to the Lord, you shall bring for the meal offering of your first fruits grain in the ear parched with fire, even groats of the **fresh ear [*karmel*]”** (Leviticus 2:14). This indicates that the grain should be soft and fresh. Consequently it should be brought from close by, not from a place where it might become stale and hardened during a long journey.
+
+**4.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא, מִשּׁוּם דְּאֵין מַעֲבִירִין עַל הַמִּצְוֹת.
+*Translation:* **And if you wish, say** instead that the reason is **due to** the principle that **one does not postpone** performance of **the mitzvot.** When presented with the opportunity to perform a mitzva, one should perform it immediately. Therefore, the barley for the mitzva of the *omer* meal offering in the Temple should be brought from the first crop encountered outside of Jerusalem.
+
+**5.**
+*Hebrew/Aramaic:* מַעֲשֶׂה שֶׁבָּא [הָעוֹמֶר] מִגַּגּוֹת צְרִיפִין. תָּנוּ רַבָּנַן: כְּשֶׁצָּרוּ מַלְכֵי בֵּית חַשְׁמוֹנַאי זֶה עַל זֶה, וְהָיָה הוּרְקָנוֹס מִבַּחוּץ וַאֲרִיסְטוֹבְּלוּס מִבִּפְנִים, בְּכׇל יוֹם וָיוֹם הָיוּ מְשַׁלְשְׁלִין לָהֶן דִּינָרִין בְּקוּפָּה וּמַעֲלִין לָהֶן תְּמִידִין.
+*Translation:* § The mishna teaches: There was **an incident where the *omer* came from Gaggot Tzerifin** and the two loaves on *Shavuot* came from the valley of Ein Sokher. **The Sages taught** a *baraita* that provides the background of this event: **When the kings of the Hasmonean monarchy besieged each other** in their civil war, **Hyrcanus was outside of** Jerusalem, besieging it, **and Aristoblus was inside. On each and every day they would lower dinars in a box** from inside the city, **and** those on the outside **would send up** animals for them to bring the **daily offerings** in the Temple.
+
+**6.**
+*Hebrew/Aramaic:* הָיָה שָׁם זָקֵן אֶחָד שֶׁהָיָה מַכִּיר בְּחׇכְמַת יְוָונִית, לָעַז לָהֶם בְּחׇכְמַת יְוָונִית, אָמַר לָהֶן: כׇּל זְמַן שֶׁעֲסוּקִין בַּעֲבוֹדָה אֵין נִמְסָרִין בְּיֶדְכֶם. לְמָחָר שִׁלְשְׁלוּ לָהֶן דִּינָרִין בְּקוּפָּה, וְהֶעֱלוּ לָהֶן חֲזִיר. כֵּיוָן שֶׁהִגִּיעַ לַחֲצִי חוֹמָה, נָעַץ צִפׇּרְנָיו בַּחוֹמָה, וְנִזְדַּעְזְעָה אֶרֶץ יִשְׂרָאֵל אַרְבַּע מֵאוֹת פַּרְסָה עַל אַרְבַּע מֵאוֹת פַּרְסָה.
+*Translation:* **A certain elderly man was there,** in Jerusalem, **who was familiar with Greek wisdom. He communicated to** those on the outside **by** using words understood only by those proficient in **Greek wisdom. The elderly man said to them: As long as they are engaged with the** Temple **service, they will not be delivered into your hands.** Upon hearing this, **on the following day,** when **they lowered dinars in a box, they sent up a pig to them. Once** the pig **reached halfway** up the **wall, it inserted its hooves** into the wall and **Eretz Yisrael shuddered four hundred parasangs by four hundred parasangs.**
+
+**7.**
+*Hebrew/Aramaic:* בְּאוֹתָהּ שָׁעָה אָמְרוּ: אָרוּר שֶׁיְּגַדֵּל חֲזִיר, וְאָרוּר שֶׁיְּלַמֵּד בְּנוֹ חׇכְמַת יְוָונִית. וְעַל אוֹתָהּ שָׁעָה שָׁנִינוּ: מַעֲשֶׂה שֶׁבָּא עוֹמֶר מִגַּגּוֹת צְרִיפִין, וּשְׁתֵּי הַלֶּחֶם מִבִּקְעַת עֵין סוֹכֵר.
+*Translation:* When the Sages saw this, **they said** at **that time: Cursed is he who raises pigs, and cursed is he who teaches his son Greek wisdom. And** it is **with regard to that time** of civil war, in which the land was destroyed, that **we learned: An incident** occurred **in which the *omer*,** the measure of barley brought as a communal offering on the sixteenth of Nisan, **came from Gaggot Tzerifim, and the two loaves** offered on *Shavuot* came **from the valley of Ein Sokher.** Since no fresh barley grain was found in the fields immediately surrounding Jerusalem, it had to be brought from these outlying areas.
+
+**8.**
+*Hebrew/Aramaic:* כִּי מְטָא עוֹמֶר, לָא הֲווֹ יָדְעִי מֵהֵיכָא אַיְיתִי עוֹמֶר. אַכְרֻזוֹ, אֲתָא הָהוּא חַרְשָׁא, אוֹתֵיב חֲדָא יְדָא אַאִיגָּרָא וַחֲדָא יְדֵיהּ אַצְּרִיפָא. אֲמַר לְהוּ מׇרְדֳּכַי: מִי אִיכָּא דּוּכְתָּא דִּשְׁמֵהּ ״גַּגּוֹת צְרִיפִין״ אוֹ ״צְרִיפִין גַּגּוֹת״? בְּדַקוּ וְאַשְׁכְּחוּהּ.
+*Translation:* § The Gemara relates another tradition with regard to that occasion when the *omer* came from Gaggot Tzerifin and the two loaves from the valley of Ein Sokher: **When it came** time to bring the ***omer*** meal offering, **they did not know from where** they could **bring** the ***omer*** grain, as all the surrounding fields were looted and ruined. The court publicly **proclaimed** their difficulty. **A certain deaf-mute [*ḥersha*] came** forward and **stretched out one hand toward a roof,** *gag* in Hebrew, **and one hand toward a hut [*atzerifa*]. Mordekhai said to** the Sages: **Is there a place that is called Gaggot Tzerifin or Tzerifin Gaggot? They checked and found** that there was such a place, and it contained fields of barley from which they were able to bring the *omer* meal offering.
+
+**9.**
+*Hebrew/Aramaic:* כִּי בָּעֵי לְאֵתוֹיֵי שְׁתֵּי הַלֶּחֶם, לָא הֲווֹ יָדְעִי מֵהֵיכָא לְאֵתוֹיֵי, אַכְרוּז. אֲתָא הָהוּא גַּבְרָא חַרְשָׁא, אוֹתֵיב יְדֵיהּ אַעֵינֵיהּ וַחֲדָא יְדָא אַסִּיכְרָא. אֲמַר לְהוּ מׇרְדֳּכַי: וּמִי אִיכָּא דּוּכְתָּא דִּשְׁמֵהּ ״עֵין סוֹכֵר״ אוֹ ״סוֹכֵר עַיִן״? בְּדַקוּ וְאַשְׁכַּחוּ.
+*Translation:* A similar incident occurred **when they needed to bring the two loaves,** and **they did not know from where to bring** the grain. Again the court publicly **proclaimed** their difficulty, and **a certain deaf-mute came** forward and **stretched out** one **hand toward his eye [*a’eineih*] and one hand toward a door latch [*assikhera*]. Mordekhai said to** the Sages: **And is there a place that is called: Ein Sokher, or Sokher Ayin? They checked and found** that there was such a place, and it contained fields of wheat from which they were able to bring the two loaves.
+
+**10.**
+*Hebrew/Aramaic:* הָנְהוּ שָׁלֹשׁ נָשִׁים דְּאַיְיתוֹ שָׁלֹשׁ קִינִּין, חֲדָא אָמְרָה: ״לְזִיבָתִי״, וַחֲדָא אָמְרָה: ״לְיַמָּתִי״, וַחֲדָא אָמְרָה: ״לְעוֹנָתִי״.
+*Translation:* The Gemara relates another story that demonstrates Mordekhai’s wisdom: Once, **a certain three women brought three nests** for their obligatory offerings of pairs of pigeons or doves (see Leviticus 15:29). **One** of them **said:** This offering is **for my *ziva*; and one said:** This if **for my *yamma*; and** the last **one said:** This is **for my *ona*.**
+
+**11.**
+*Hebrew/Aramaic:* סְבוּר מִינָּה ״זִיבָתִי״ – זָבָה מַמָּשׁ, ״לְיַמָּתִי״ – לְיַמָּתִי מַמָּשׁ, ״לְעוֹנָתִי״ – לְעוֹנָתָהּ, דְּכוּלְּהוּ חֲדָא חַטָּאת וַחֲדָא עוֹלָה.
+*Translation:* The Sages **understood from** the first woman’s statement: **For my *ziva*,** that she had experienced a discharge of uterine blood when not expecting her menstrual period, which would give her the status of **an actual *zava*.** From the second woman’s statement: **For my *yamma*,** they understood: **My actual *yamma*,** i.e., she was also a *ziva*, as *yam* can mean: Sea, or a flow of blood. From the third woman’s statement: **For my *ona*,** they came to the conclusion that she needed to bring a sacrifice **for her time [*ona*]** of completing her purification process from being a *zava*. Accordingly, they understood **that all** these women were obligated to bring **one sin offering and one burnt offering.**
+
+**12.**
+*Hebrew/Aramaic:* אֲמַר לְהוּ מׇרְדֳּכַי: שֶׁמָּא בְּזוֹב סִיכְּנָה, שֶׁמָּא בַּיָּם סִיכְּנָה, שֶׁמָּא בְּעֵינָהּ סִיכְּנָה, דְּכוּלְּהוּ עוֹלוֹת נִינְהוּ. בְּדוּק וְאַשְׁכֻּח.
+*Translation:* **Mordekhai said to** the other Sages: **Perhaps** the first woman **was endangered** in the course **of** her menstrual **flow [*zov*].** Similarly, **perhaps** the second woman **was endangered at sea [*yam*].** Finally, **perhaps** the third woman **was endangered through her eye [*ayin*],** as *ayin* is phonetically similar to *ona*. According to these explanations, each woman sought to bring a voluntary offering to give thanks to God for being saved from danger. If so, the appropriate offering in each case is not a sin offering, **as they are all burnt offerings.** It **was checked and** they **found** that Mordekhai’s interpretation was in fact correct.

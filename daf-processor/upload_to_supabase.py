@@ -83,8 +83,11 @@ def daf_label(daf_float: float) -> str:
 # Canonical tractate names for dir-name → Supabase normalisation.
 # Any spelling found in directory names → the exact name used in Supabase tables.
 _TRACTATE_CANONICAL = {
-    "chullin": "Hullin",
-    "hullin":  "Hullin",
+    "chullin":  "Hullin",
+    "hullin":   "Hullin",
+    "eruvin":   "Eiruvin",
+    "megilah":  "Megillah",
+    "megila":   "Megillah",
 }
 
 

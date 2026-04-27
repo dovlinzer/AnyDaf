@@ -1,0 +1,428 @@
+{
+  "masechta": "Nedarim",
+  "daf": 17,
+  "amud": "",
+  "macro_segments": [
+    {
+      "title": "Introduction to Daf 17 and Review of Prior Distinctions Between Neder and Shevua",
+      "display_title": "Neder vs. Shevua",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Opening remarks and recap of conceptual issues from prior dafim",
+          "display_title": "Opening & Prior Issues",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Language distinctions between shevua and neder; neder's broader effect on mitzvot",
+          "display_title": "Language & Effect Scope",
+          "timestamp": "00:21"
+        },
+        {
+          "title": "Overview of the new mishna on yud zayin: neder within neder versus shevua within shevua",
+          "display_title": "New Mishna Overview",
+          "timestamp": "01:19"
+        }
+      ]
+    },
+    {
+      "title": "The Mishna's Case of Nazir: One Status Cannot Take Effect on Top of Another",
+      "display_title": "Nazir Status Principle",
+      "timestamp": "01:35",
+      "micro_segments": [
+        {
+          "title": "Introduction to the example of making two nedirim of nazirut; nedir as a status-changing speech act",
+          "display_title": "Nazir as Status",
+          "timestamp": "01:35"
+        },
+        {
+          "title": "The conditional nazir example: 'I will be a nazir if I eat; I will be a nazir if I eat'",
+          "display_title": "Conditional Nazir",
+          "timestamp": "02:32"
+        },
+        {
+          "title": "Explanation of the gemara's interpretation: second nezirut hovers and awaits the termination of the first",
+          "display_title": "Hovering Nezirut",
+          "timestamp": "03:02"
+        },
+        {
+          "title": "Core principle: ein neder chal al neder and ein issur chal al issur; status cannot overlay",
+          "display_title": "No Overlay Principle",
+          "timestamp": "03:28"
+        }
+      ]
+    },
+    {
+      "title": "Shevua Within Shevua: Obligation Cannot Take Effect on Pre-Existing Obligation",
+      "display_title": "Shevua Overlay",
+      "timestamp": "03:42",
+      "micro_segments": [
+        {
+          "title": "The parallel case with shevua: two oaths not to eat the same loaf of bread",
+          "display_title": "Parallel Shevua Case",
+          "timestamp": "03:42"
+        },
+        {
+          "title": "Principle of mushba ve'omed mehar Sinai: one oath cannot obligate on top of another",
+          "display_title": "Mushba Ve'omed",
+          "timestamp": "03:51"
+        },
+        {
+          "title": "Conceptual analysis: shevua as generating obligation versus as swearing falsely",
+          "display_title": "Shevua Concepts",
+          "timestamp": "04:06"
+        },
+        {
+          "title": "Shevua to perform an already-obligated mitzvah; the gemara's discussion of lerazuzei nafshei",
+          "display_title": "Shevua on Mitzvot",
+          "timestamp": "05:31"
+        }
+      ]
+    },
+    {
+      "title": "Conceptual Difference: Why Nedir (Status) and Shevua (Obligation) Behave Differently",
+      "display_title": "Status vs. Obligation",
+      "timestamp": "06:04",
+      "micro_segments": [
+        {
+          "title": "Ein neder chal al neder versus ein shevua chala al shevua: the structural parallelism",
+          "display_title": "Parallel Structures",
+          "timestamp": "06:04"
+        },
+        {
+          "title": "Why nedir (status) and shevua (obligation) create different logical constraints",
+          "display_title": "Logic Constraints",
+          "timestamp": "06:27"
+        },
+        {
+          "title": "Nezirut as intrinsically time-bound and terminal; hovering as unique feature",
+          "display_title": "Nezirut Termination",
+          "timestamp": "10:22"
+        }
+      ]
+    },
+    {
+      "title": "Rav Huna's Position: Nezirut Can Only Overlap if Non-Coextensive",
+      "display_title": "Rav Huna's View",
+      "timestamp": "15:47",
+      "micro_segments": [
+        {
+          "title": "Rav Huna: second nezirut takes effect only when explicitly distinguished (today vs. tomorrow)",
+          "display_title": "Distinction Required",
+          "timestamp": "15:47"
+        },
+        {
+          "title": "Demigo deka mitosef yoma yetira: because the second adds an extra day",
+          "display_title": "Extra Day Principle",
+          "timestamp": "16:05"
+        },
+        {
+          "title": "Two interpretations: distinctness versus the Ran's view that one day must actually take effect",
+          "display_title": "Two Interpretations",
+          "timestamp": "16:22"
+        }
+      ]
+    },
+    {
+      "title": "Shmuel's Position: Nezirut Overlaps Even if Completely Identical",
+      "display_title": "Shmuel's View",
+      "timestamp": "19:39",
+      "micro_segments": [
+        {
+          "title": "Shmuel: even 'I am a nazir today, I am a nazir today' allows second to take effect",
+          "display_title": "Complete Identity",
+          "timestamp": "19:39"
+        },
+        {
+          "title": "Gemara's challenge to Rav Huna: why didn't the mishna specify conditions?",
+          "display_title": "Mishna Challenge",
+          "timestamp": "19:57"
+        }
+      ]
+    },
+    {
+      "title": "Parallel Case of Two Shvuot: Figs Versus Figs and Grapes",
+      "display_title": "Shvuot: Figs Case",
+      "timestamp": "21:51",
+      "micro_segments": [
+        {
+          "title": "Gemara asks: why doesn't a second shvua (not eating figs AND grapes) take effect?",
+          "display_title": "Figs-Grapes Query",
+          "timestamp": "21:51"
+        },
+        {
+          "title": "Rava's example: eating figs, bringing a korban, then eating grapes is only half-measure for second shvua",
+          "display_title": "Rava's Example",
+          "timestamp": "26:47"
+        },
+        {
+          "title": "Implication: second shvua (figs and grapes) did take effect; but then why different from nezirut?",
+          "display_title": "Implication",
+          "timestamp": "27:41"
+        }
+      ]
+    },
+    {
+      "title": "Rav Huna Does Not Hold Like Rava: Shevua Cannot Overlay Even on Non-Overlapping Subjects",
+      "display_title": "Rav Huna vs. Rava",
+      "timestamp": "30:17",
+      "micro_segments": [
+        {
+          "title": "Gemara: Rav Huna lo sevira lei k'Rava; they disagree on whether figs-and-grapes shvua takes effect",
+          "display_title": "Disagreement",
+          "timestamp": "30:17"
+        },
+        {
+          "title": "Rav Huna's reasoning: second shvua is meaningless because already cannot eat figs from first shvua",
+          "display_title": "Redundancy",
+          "timestamp": "30:34"
+        },
+        {
+          "title": "Rava's reasoning: as long as they are distinct, both take effect (nedir model)",
+          "display_title": "Distinctness Model",
+          "timestamp": "31:27"
+        }
+      ]
+    },
+    {
+      "title": "Case of Two Nezirut at Once: Rav Huna's Concession and the Concept of Simultaneous Acceptance",
+      "display_title": "Two at Once",
+      "timestamp": "35:03",
+      "micro_segments": [
+        {
+          "title": "Gemara brings case: someone accepts two nezirut in a single statement",
+          "display_title": "Single Statement",
+          "timestamp": "35:03"
+        }
+      ]
+    },
+    {
+      "title": "Case of Hataras Nedarim: Retroactive Voiding and the Second Statement's Meaning",
+      "display_title": "Hataras Nedarim",
+      "timestamp": "35:07",
+      "micro_segments": [
+        {
+          "title": "Someone accepts two nezirut, counts first, brings korban, then does hataras nedarim on the first",
+          "display_title": "Case Setup",
+          "timestamp": "35:07"
+        },
+        {
+          "title": "Result: second nezirut now kicks in for the last thirty days retroactively",
+          "display_title": "Retroactive Effect",
+          "timestamp": "36:10"
+        },
+        {
+          "title": "Rav Huna's position: case must have been one day vs. tomorrow to avoid contradiction",
+          "display_title": "Rav Huna Defense",
+          "timestamp": "37:33"
+        }
+      ]
+    },
+    {
+      "title": "Case of Two Nezirut at Once: Rav Huna's Concession and the Concept of Simultaneous Acceptance (continued)",
+      "display_title": "Two at Once…",
+      "timestamp": "38:29",
+      "micro_segments": [
+        {
+          "title": "Rav Huna agrees: if stated together, the second can hover and take effect later",
+          "display_title": "Rav Huna's Concession",
+          "timestamp": "38:29"
+        },
+        {
+          "title": "Distinction: the problem is sequential statements (hareni nazir hayom, hareni nazir hayom), not simultaneous",
+          "display_title": "Sequential vs. Simultane…",
+          "timestamp": "39:20"
+        }
+      ]
+    },
+    {
+      "title": "Case of Hataras Nedarim: Retroactive Voiding and the Second Statement's Meaning (continued)",
+      "display_title": "Hataras Nedarim…",
+      "timestamp": "42:29",
+      "micro_segments": [
+        {
+          "title": "The Ran's alternative: even if identical timing, retroactive voiding makes second statement meaningful",
+          "display_title": "Ran's Solution",
+          "timestamp": "42:29"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "neder betoch neder (nedir within nedir)",
+      "timestamps": [
+        "01:35",
+        "02:30",
+        "20:13",
+        "20:30"
+      ]
+    },
+    {
+      "term": "shevua betoch shevua (shevua within shevua)",
+      "timestamps": [
+        "01:35",
+        "03:42",
+        "20:13"
+      ]
+    },
+    {
+      "term": "nazir / nezirut",
+      "timestamps": [
+        "01:56",
+        "02:17",
+        "02:26",
+        "02:30",
+        "03:02",
+        "10:22",
+        "15:47",
+        "16:18",
+        "19:39",
+        "35:03",
+        "35:07"
+      ]
+    },
+    {
+      "term": "ein nedir chal al nedir (one nedir cannot take effect on another)",
+      "timestamps": [
+        "08:33",
+        "10:05"
+      ]
+    },
+    {
+      "term": "ein issur chal al issur (one prohibition cannot take effect on another)",
+      "timestamps": [
+        "08:05",
+        "08:31",
+        "31:34"
+      ]
+    },
+    {
+      "term": "mushba ve'omed mehar Sinai (already obligated from Sinai)",
+      "timestamps": [
+        "03:51",
+        "03:55"
+      ]
+    },
+    {
+      "term": "ein shevua chala al shevua (one oath cannot take effect on another)",
+      "timestamps": [
+        "06:04"
+      ]
+    },
+    {
+      "term": "hovering / waiting to take effect",
+      "timestamps": [
+        "03:21",
+        "09:02",
+        "19:52",
+        "39:47"
+      ]
+    },
+    {
+      "term": "demigo deka mitosef yoma yetira (because it adds an extra day)",
+      "timestamps": [
+        "16:05"
+      ]
+    },
+    {
+      "term": "Rav Huna",
+      "timestamps": [
+        "15:47",
+        "19:57",
+        "30:17",
+        "37:33",
+        "38:29",
+        "39:20"
+      ]
+    },
+    {
+      "term": "Shmuel",
+      "timestamps": [
+        "19:39"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "26:47",
+        "30:17",
+        "31:27"
+      ]
+    },
+    {
+      "term": "Ran (Rabbeinu Nissim)",
+      "timestamps": [
+        "12:13",
+        "16:47",
+        "23:08",
+        "42:29"
+      ]
+    },
+    {
+      "term": "status (nedir) versus obligation (shevua)",
+      "timestamps": [
+        "01:10",
+        "02:07",
+        "06:27",
+        "06:38",
+        "06:46",
+        "10:13"
+      ]
+    },
+    {
+      "term": "hanaah (benefit / use)",
+      "timestamps": [
+        "00:57",
+        "01:00"
+      ]
+    },
+    {
+      "term": "mitzvah prevented by nedir",
+      "timestamps": [
+        "00:37",
+        "00:41"
+      ]
+    },
+    {
+      "term": "lerazuzei nafshei (to encourage oneself)",
+      "timestamps": [
+        "11:31",
+        "11:47"
+      ]
+    },
+    {
+      "term": "figs and grapes (te'enim ve'anavim)",
+      "timestamps": [
+        "22:23",
+        "25:11",
+        "25:29",
+        "26:10"
+      ]
+    },
+    {
+      "term": "half measure (chatzi shiur)",
+      "timestamps": [
+        "27:08",
+        "27:56",
+        "29:24"
+      ]
+    },
+    {
+      "term": "hataras nedarim (dissolution of vows)",
+      "timestamps": [
+        "35:18",
+        "42:39",
+        "42:46"
+      ]
+    },
+    {
+      "term": "retroactive voiding (lemafrei'a)",
+      "timestamps": [
+        "37:23",
+        "42:29",
+        "43:16"
+      ]
+    }
+  ]
+}

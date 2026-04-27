@@ -1,0 +1,654 @@
+{
+  "masechta": "Eruvin",
+  "daf": 79,
+  "amud": "a",
+  "macro_segments": [
+    {
+      "title": "Ditches Between Courtyards: Width, Depth, and the Threshold for Separation",
+      "display_title": "Ditches & Separation",
+      "timestamp": "00:00",
+      "micro_segments": [
+        {
+          "title": "Introduction to the Mishna: Ditch Requirements and Basic Cases",
+          "display_title": "Ditch Intro",
+          "timestamp": "00:00"
+        },
+        {
+          "title": "Filled Ditches: Straw vs. Dirt and the Effect on Separation",
+          "display_title": "Filled Ditches",
+          "timestamp": "00:25"
+        },
+        {
+          "title": "The Plank Across the Ditch: Width Requirements and Traversability",
+          "display_title": "Plank Across",
+          "timestamp": "02:10"
+        },
+        {
+          "title": "Two Balconies Facing Each Other: Distance and Accessibility",
+          "display_title": "Balconies",
+          "timestamp": "03:30"
+        }
+      ]
+    },
+    {
+      "title": "Straw as a Divider: Halachic Status and the Distinction Between Mechitza and Filling",
+      "display_title": "Straw Dividers",
+      "timestamp": "06:14",
+      "micro_segments": [
+        {
+          "title": "Does Straw Fill a Ditch? Abaye's Distinction Between Mechitza and Obstruction",
+          "display_title": "Straw Analysis",
+          "timestamp": "06:14"
+        },
+        {
+          "title": "Dirt and Rocks: The Contradiction with the Oholot Teachings",
+          "display_title": "Dirt & Rocks",
+          "timestamp": "09:08"
+        },
+        {
+          "title": "Rabbi Yose's Resolution: Intent Matters for Straw, Not for Dirt",
+          "display_title": "Rabbi Yose View",
+          "timestamp": "11:12"
+        }
+      ]
+    },
+    {
+      "title": "Different Halachic Domains: Tumah versus Shabbat, Ditch versus House",
+      "display_title": "Domains",
+      "timestamp": "15:05",
+      "micro_segments": [
+        {
+          "title": "Tumah and Shabbat: Why Different Standards Apply to Dirt and Straw",
+          "display_title": "Tumah/Shabbat",
+          "timestamp": "15:05"
+        },
+        {
+          "title": "Rav Ashi's Explanation: House Configuration versus Ditch Nature",
+          "display_title": "House vs Ditch",
+          "timestamp": "16:04"
+        }
+      ]
+    },
+    {
+      "title": "Planks Across Ditches: Orientation, Dimensions, and Traversability",
+      "display_title": "Plank Mechanics",
+      "timestamp": "17:19",
+      "micro_segments": [
+        {
+          "title": "Rava's Ruling: Width-wise versus Length-wise Placement of Planks",
+          "display_title": "Rava Plank",
+          "timestamp": "17:19"
+        },
+        {
+          "title": "Making a Gap Less Than Four: Alternative Approaches to Connecting Courtyards",
+          "display_title": "Gap Options",
+          "timestamp": "17:58"
+        }
+      ]
+    },
+    {
+      "title": "Balconies Revisited: Rava's Conditions for Traversability and Lavud",
+      "display_title": "Balconies Revisited",
+      "timestamp": "22:26",
+      "micro_segments": [
+        {
+          "title": "Rava's Requirements: Direct Opposition, Same Height, and Minimum Distance",
+          "display_title": "Opposition/Height",
+          "timestamp": "22:26"
+        },
+        {
+          "title": "The Three-Tefach Threshold: When Balconies Become Considered Connected",
+          "display_title": "Three Tefach",
+          "timestamp": "23:03"
+        }
+      ]
+    },
+    {
+      "title": "Straw Wall Between Courtyards: Feeding Animals and the Problem of Depletion",
+      "display_title": "Straw Walls",
+      "timestamp": "25:56",
+      "micro_segments": [
+        {
+          "title": "The Straw Wall Itself: Ten Tefachim High and Mandatory Separation",
+          "display_title": "Wall Specs",
+          "timestamp": "25:56"
+        },
+        {
+          "title": "Rav Huna's Restriction: No Direct Filling of Baskets from the Wall",
+          "display_title": "Rav Huna Restrict",
+          "timestamp": "27:39"
+        },
+        {
+          "title": "Animals Feeding from the Straw: Direct Consumption Allowed but Not Harvesting",
+          "display_title": "Animals Feed",
+          "timestamp": "30:01"
+        }
+      ]
+    },
+    {
+      "title": "The Contradiction with Oholot: House Filled with Straw or Rocks",
+      "display_title": "Oholot Case",
+      "timestamp": "31:42",
+      "micro_segments": [
+        {
+          "title": "The Baraita: House Between Courtyards Filled with Straw, Permitting Direct Basket-Filling",
+          "display_title": "Baraita",
+          "timestamp": "31:42"
+        }
+      ]
+    },
+    {
+      "title": "When the Wall Falls Below Ten Tefachim: Emergency Solutions and Bitul Reshut",
+      "display_title": "Wall Collapses",
+      "timestamp": "33:02",
+      "micro_segments": [
+        {
+          "title": "The Problem: Wall Depletion Below Ten Tefachim Makes Courtyards One",
+          "display_title": "Collapse Problem",
+          "timestamp": "33:02"
+        },
+        {
+          "title": "Locking the Door and Bitul Reshut: Solving the Eruv Crisis",
+          "display_title": "Solutions",
+          "timestamp": "34:46"
+        }
+      ]
+    },
+    {
+      "title": "The Contradiction with Oholot: House Filled with Straw or Rocks (continued)",
+      "display_title": "Oholot Case…",
+      "timestamp": "36:11",
+      "micro_segments": [
+        {
+          "title": "Why Filling a Basket Is Permitted Inside a House but Not Outside",
+          "display_title": "House Interior",
+          "timestamp": "36:11"
+        }
+      ]
+    },
+    {
+      "title": "When the Wall Falls Below Ten Tefachim: Emergency Solutions and Bitul Reshut (continued)",
+      "display_title": "Wall Collapses…",
+      "timestamp": "44:43",
+      "micro_segments": [
+        {
+          "title": "Rava's Question: Do You Need Both Lock and Bitul, or Just One?",
+          "display_title": "Lock vs Bitul",
+          "timestamp": "44:43"
+        },
+        {
+          "title": "Rashi versus Tosafot: Is the Lock for Reminiscence or for This Case Only?",
+          "display_title": "Rashi/Tosafot",
+          "timestamp": "44:43"
+        }
+      ]
+    },
+    {
+      "title": "Grain Pile Between Two Techumim on Shabbat: Harvest Caution and Rabbi Akiva's Concern",
+      "display_title": "Grain Techumim",
+      "timestamp": "45:15",
+      "micro_segments": [
+        {
+          "title": "The Case: Grain Pile Straddling Two Shabbat Boundaries, Each Side May Take Its Portion",
+          "display_title": "Grain Pile",
+          "timestamp": "45:15"
+        },
+        {
+          "title": "Rabbi Akiva's Biblical Concern: Why No Protective Gezeira Against Taking from the Other Side",
+          "display_title": "Rabbi Akiva",
+          "timestamp": "45:15"
+        }
+      ]
+    }
+  ],
+  "topical_tags": [
+    {
+      "term": "Ditch (charitz)",
+      "timestamps": [
+        "00:20",
+        "00:25",
+        "01:00",
+        "02:10",
+        "16:04",
+        "16:23"
+      ]
+    },
+    {
+      "term": "Wall (mechitza)",
+      "timestamps": [
+        "00:39",
+        "01:00",
+        "01:53",
+        "07:10",
+        "07:13",
+        "09:01",
+        "27:15",
+        "33:02",
+        "38:20"
+      ]
+    },
+    {
+      "term": "Straw (teven)",
+      "timestamps": [
+        "01:06",
+        "06:16",
+        "06:57",
+        "07:00",
+        "07:38",
+        "07:45",
+        "08:00",
+        "11:51",
+        "12:01",
+        "12:14",
+        "12:21",
+        "13:19",
+        "25:56",
+        "26:04",
+        "26:26",
+        "31:42",
+        "45:15"
+      ]
+    },
+    {
+      "term": "Dirt/Earth (afar)",
+      "timestamps": [
+        "01:40",
+        "08:00",
+        "08:03",
+        "09:13",
+        "12:06",
+        "12:32",
+        "12:51",
+        "13:01",
+        "13:06",
+        "14:00"
+      ]
+    },
+    {
+      "term": "Eruv/Eruvin (merging courtyards)",
+      "timestamps": [
+        "01:00",
+        "01:04",
+        "04:27",
+        "04:50",
+        "22:11",
+        "28:16",
+        "28:19",
+        "33:09",
+        "34:43"
+      ]
+    },
+    {
+      "term": "Plank (neser)",
+      "timestamps": [
+        "02:10",
+        "02:15",
+        "02:25",
+        "17:19",
+        "17:21",
+        "17:27",
+        "17:29",
+        "20:00"
+      ]
+    },
+    {
+      "term": "Four tefachim (minimum width)",
+      "timestamps": [
+        "00:25",
+        "00:49",
+        "00:52",
+        "01:47",
+        "02:15",
+        "02:44",
+        "02:50",
+        "04:01",
+        "04:07",
+        "05:07",
+        "05:10",
+        "05:14",
+        "05:21",
+        "05:27",
+        "05:33",
+        "05:45",
+        "05:48",
+        "05:52",
+        "06:07",
+        "06:09",
+        "22:01",
+        "22:03",
+        "23:05",
+        "23:20",
+        "24:26",
+        "24:40",
+        "25:17",
+        "25:20",
+        "25:30"
+      ]
+    },
+    {
+      "term": "Ten tefachim (height/depth threshold)",
+      "timestamps": [
+        "00:25",
+        "00:35",
+        "26:07",
+        "26:46",
+        "28:01",
+        "28:05",
+        "33:05",
+        "34:25",
+        "36:39",
+        "37:48",
+        "38:02",
+        "38:32",
+        "39:08",
+        "39:18"
+      ]
+    },
+    {
+      "term": "Bitul (negating/renouncing rights)",
+      "timestamps": [
+        "07:21",
+        "07:26",
+        "07:34",
+        "10:38",
+        "10:41",
+        "10:49",
+        "10:54",
+        "10:58",
+        "11:02",
+        "12:06",
+        "12:10",
+        "12:35",
+        "12:41",
+        "12:43",
+        "13:01",
+        "13:06",
+        "13:09",
+        "13:19",
+        "34:20",
+        "34:39",
+        "34:46",
+        "34:50",
+        "44:41",
+        "44:43",
+        "44:46",
+        "44:52",
+        "45:04",
+        "45:15"
+      ]
+    },
+    {
+      "term": "Abaye",
+      "timestamps": [
+        "07:05",
+        "07:10",
+        "07:13"
+      ]
+    },
+    {
+      "term": "Rav Huna",
+      "timestamps": [
+        "11:15",
+        "27:39",
+        "30:07"
+      ]
+    },
+    {
+      "term": "Rabbi Yose (Oholot distinction)",
+      "timestamps": [
+        "11:16",
+        "11:19",
+        "11:27",
+        "11:40",
+        "11:42",
+        "11:46",
+        "12:43",
+        "13:25",
+        "13:28",
+        "13:40",
+        "13:42"
+      ]
+    },
+    {
+      "term": "Rav Assi",
+      "timestamps": [
+        "13:47",
+        "13:49",
+        "13:51"
+      ]
+    },
+    {
+      "term": "Lavud (closing a three-tefach gap)",
+      "timestamps": [
+        "25:37",
+        "25:40",
+        "25:50",
+        "37:07",
+        "37:48",
+        "38:32",
+        "38:35",
+        "39:18",
+        "39:21",
+        "39:27",
+        "39:32",
+        "40:38"
+      ]
+    },
+    {
+      "term": "Tumah (ritual impurity)",
+      "timestamps": [
+        "09:50",
+        "09:57",
+        "09:59",
+        "10:01",
+        "10:23",
+        "10:26",
+        "10:33",
+        "15:09",
+        "15:11",
+        "15:20"
+      ]
+    },
+    {
+      "term": "Shabbat (Sabbath restrictions)",
+      "timestamps": [
+        "14:49",
+        "15:09",
+        "15:23",
+        "15:25",
+        "15:31",
+        "15:34",
+        "15:39",
+        "15:43",
+        "15:47",
+        "15:51",
+        "15:54",
+        "26:40",
+        "26:43",
+        "26:49",
+        "26:52",
+        "27:07",
+        "28:07",
+        "28:16",
+        "28:19",
+        "28:25",
+        "33:05",
+        "33:09",
+        "33:12",
+        "43:34",
+        "43:40",
+        "43:42",
+        "43:46",
+        "43:49",
+        "43:51",
+        "43:55",
+        "43:58",
+        "44:08",
+        "44:11",
+        "44:31",
+        "44:39",
+        "44:43",
+        "44:46",
+        "44:52",
+        "44:58",
+        "45:04",
+        "45:07",
+        "45:15"
+      ]
+    },
+    {
+      "term": "Rava",
+      "timestamps": [
+        "17:29",
+        "22:26",
+        "22:32",
+        "44:43"
+      ]
+    },
+    {
+      "term": "Tosafot (interpretation)",
+      "timestamps": [
+        "03:35",
+        "03:39",
+        "03:54",
+        "04:07",
+        "04:14",
+        "04:24",
+        "05:07",
+        "05:23",
+        "05:27",
+        "14:21",
+        "14:27",
+        "21:55",
+        "22:00",
+        "44:54",
+        "45:01",
+        "45:07"
+      ]
+    },
+    {
+      "term": "Rashi (interpretation)",
+      "timestamps": [
+        "03:39",
+        "03:41",
+        "03:43",
+        "04:14",
+        "04:17",
+        "29:25",
+        "29:27",
+        "29:39",
+        "29:42",
+        "29:48",
+        "44:46",
+        "44:48",
+        "44:54",
+        "44:57",
+        "45:04"
+      ]
+    },
+    {
+      "term": "Balconies (gezuztraot)",
+      "timestamps": [
+        "03:30",
+        "03:35",
+        "03:41",
+        "03:51",
+        "04:01",
+        "04:07",
+        "04:11",
+        "04:17",
+        "04:21",
+        "05:23",
+        "22:00",
+        "22:02",
+        "22:16",
+        "23:05"
+      ]
+    },
+    {
+      "term": "Techumim (Shabbat boundaries)",
+      "timestamps": [
+        "35:16",
+        "35:22",
+        "35:28",
+        "35:32",
+        "35:35",
+        "35:42",
+        "35:45",
+        "45:15",
+        "45:17",
+        "45:20",
+        "45:23"
+      ]
+    },
+    {
+      "term": "Muktza (set-aside objects)",
+      "timestamps": [
+        "15:31",
+        "15:34",
+        "15:39",
+        "15:43",
+        "15:47",
+        "30:27",
+        "30:29",
+        "30:33",
+        "30:36",
+        "30:38",
+        "30:50",
+        "30:54",
+        "30:57",
+        "31:00"
+      ]
+    },
+    {
+      "term": "Mechitza (partition/divider)",
+      "timestamps": [
+        "07:07",
+        "07:10",
+        "08:57",
+        "09:01",
+        "38:27",
+        "38:40",
+        "38:43",
+        "38:47",
+        "38:50",
+        "38:57",
+        "39:08",
+        "39:14",
+        "42:15",
+        "42:17"
+      ]
+    },
+    {
+      "term": "Chatzitza (obstruction/filling)",
+      "timestamps": [
+        "07:13",
+        "07:16",
+        "07:19",
+        "07:21",
+        "07:26",
+        "07:34",
+        "07:36"
+      ]
+    },
+    {
+      "term": "Rocks/pebbles (tzerorot)",
+      "timestamps": [
+        "01:40",
+        "01:45",
+        "01:47",
+        "10:54",
+        "10:58",
+        "10:59"
+      ]
+    },
+    {
+      "term": "Baraita",
+      "timestamps": [
+        "06:27",
+        "31:42",
+        "31:46"
+      ]
+    }
+  ]
+}

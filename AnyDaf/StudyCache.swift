@@ -1,10 +1,7 @@
 import Foundation
 
-// MARK: - Supabase Configuration
-// After creating your Supabase project, replace these two values with your own.
-// Find them at: Project Dashboard → Settings → API
-private let supabaseBaseURL = "https://zewdazoijdpakugfvnzt.supabase.co/rest/v1/study_cache"
-private let supabaseAnonKey = Secrets.supabaseAnonKey
+private let studyCacheEdgeURL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/study-cache"
+private let appSecret = Secrets.appSecret
 
 /// Shared read-through cache for Claude-generated study content, backed by Supabase.
 ///
@@ -33,17 +30,10 @@ actor StudyCache {
         let key = cacheKey(tractate: tractate, daf: daf, sectionIndex: sectionIndex,
                            studyMode: studyMode, quizMode: quizMode)
 
-        guard var components = URLComponents(string: supabaseBaseURL) else { return nil }
-        components.queryItems = [
-            URLQueryItem(name: "key",    value: "eq.\(key)"),
-            URLQueryItem(name: "select", value: "summary,questions_json,shiur_used"),
-            URLQueryItem(name: "limit",  value: "1"),
-        ]
-        guard let url = components.url else { return nil }
+        guard let url = URL(string: "\(studyCacheEdgeURL)?key=\(key)") else { return nil }
 
         var request = URLRequest(url: url)
-        request.setValue(supabaseAnonKey, forHTTPHeaderField: "apikey")
-        request.setValue("Bearer \(supabaseAnonKey)", forHTTPHeaderField: "Authorization")
+        request.setValue(appSecret, forHTTPHeaderField: "x-app-secret")
 
         guard let (data, _) = try? await URLSession.shared.data(for: request),
               let rows = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]],
@@ -71,8 +61,8 @@ actor StudyCache {
         // shiurUsed=true: upsert so we overwrite any existing non-shiur entry.
         // shiurUsed=false: write-once so we never downgrade a shiur-enriched entry.
         let urlStr = shiurUsed
-            ? "\(supabaseBaseURL)?on_conflict=key"
-            : supabaseBaseURL
+            ? "\(studyCacheEdgeURL)?on_conflict=key"
+            : studyCacheEdgeURL
         let preferHeader = shiurUsed
             ? "resolution=merge-duplicates"
             : "resolution=ignore-duplicates"
@@ -83,8 +73,7 @@ actor StudyCache {
 
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.setValue(supabaseAnonKey, forHTTPHeaderField: "apikey")
-        request.setValue("Bearer \(supabaseAnonKey)", forHTTPHeaderField: "Authorization")
+        request.setValue(appSecret, forHTTPHeaderField: "x-app-secret")
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         request.setValue(preferHeader, forHTTPHeaderField: "Prefer")
         request.httpBody = try? JSONSerialization.data(withJSONObject: [

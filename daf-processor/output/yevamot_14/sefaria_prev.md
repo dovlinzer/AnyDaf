@@ -1,0 +1,89 @@
+### Yevamot 13b
+
+**1.**
+*Hebrew/Aramaic:* חָלְצוּ — בֵּית שַׁמַּאי פּוֹסְלִין מִן הַכְּהוּנָּה, וּבֵית הִלֵּל מַכְשִׁירִין. נִתְיַיבְּמוּ — בֵּית שַׁמַּאי מַכְשִׁירִין, וּבֵית הִלֵּל פּוֹסְלִין.
+*Translation:* If any of the rival wives of the brother **performed *ḥalitza*, Beit Shammai disqualify** her **from** marrying into **the priesthood,** as in their opinion these rival wives were fit for levirate marriage, which means that the *ḥalitza* was fully valid. Consequently, they are disqualified from marrying a priest, like all other women who perform *ḥalitza*. **And Beit Hillel deem** them **fit,** as they maintain that no legal act of *ḥalitza* was performed here at all. If **they entered into levirate marriage, Beit Shammai deem** them **fit** for the priesthood, as in their opinion, this is a fully legal levirate marriage. **And Beit Hillel disqualify them,** because they engaged in licentious sexual relations as the rival wives of a forbidden relative.
+
+**2.**
+*Hebrew/Aramaic:* אַף עַל פִּי שֶׁאֵלּוּ אוֹסְרִים וְאֵלּוּ מַתִּירִין, אֵלּוּ פּוֹסְלִין וְאֵלּוּ מַכְשִׁירִין — לֹא נִמְנְעוּ בֵּית שַׁמַּאי מִלִּישָּׂא נָשִׁים מִבֵּית הִלֵּל, וְלָא בֵּית הִלֵּל מִבֵּית שַׁמַּאי. כָּל הַטְּהָרוֹת וְהַטְּמָאוֹת שֶׁהָיוּ אֵלּוּ מְטַהֲרִים וְאֵלּוּ מְטַמְּאִין — לֹא נִמְנְעוּ עוֹשִׂין טְהָרוֹת אֵלּוּ עַל גַּבֵּי אֵלּוּ.
+*Translation:* § The mishna comments: **Although** Beit Hillel **prohibit** the rival wives to the brothers **and** Beit Shammai **permit** them, and although **these disqualify** these women **and those deem** them **fit, Beit Shammai did not refrain from marrying women from Beit Hillel, nor did Beit Hillel** refrain from marrying women **from Beit Shammai.** Furthermore, with regard to **all of the** disputes concerning the *halakhot* of **ritual purity and impurity, where these** rule that an article is **ritually pure and those** rule it **ritually impure, they did not refrain from handling ritually pure** objects **each with the other,** as Beit Shammai and Beit Hillel frequently used each other’s vessels.
+
+**3.**
+*Hebrew/Aramaic:* גְּמָ׳ אָמַר רַבִּי שִׁמְעוֹן בֶּן פַּזִּי: מַאי טַעְמָא דְּבֵית שַׁמַּאי, דִּכְתִיב: ״לֹא תִהְיֶה אֵשֶׁת הַמֵּת הַחוּצָה לְאִישׁ זָר״. ״חוּצָה״ — מִכְּלָל דְּאִיכָּא פְּנִימִית, וְאָמַר רַחֲמָנָא: ״לֹא תִהְיֶה״.
+*Translation:* GEMARA: **Rabbi Shimon ben Pazi said: What is the reason** for the opinion **of Beit Shammai? As it is written: “The wife of the dead man shall not be married outside of the family to one not of his kin”** (Deuteronomy 25:5). The term **“outside”** indicates **by inference that there is** a woman who is considered **inside,** i.e., a close relative of the *yavam*, who is inside his family. **And the Merciful One states: “Shall not be** married” and also “to one not of his kin.” In other words, even when one of the wives is a forbidden relative, the rival wife who is outside the family of the *yavam* is obligated in levirate marriage.
+
+**4.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל — מִיבְּעֵי לְהוּ לְכִדְרַב יְהוּדָה אָמַר רַב. דְּאָמַר רַב יְהוּדָה אָמַר רַב: מִנַּיִן שֶׁאֵין קִידּוּשִׁין תּוֹפְסִין בִּיבָמָה — שֶׁנֶּאֱמַר: ״לֹא תִהְיֶה אֵשֶׁת הַמֵּת הַחוּצָה לְאִישׁ זָר״. לֹא תִּהְיֶה בָּהּ הֲוָיָה לְזָר.
+*Translation:* **And** how do **Beit Hillel** respond to this argument of Beit Shammai? **They require these** passages **for that which Rav Yehuda said** that **Rav said, as Rav Yehuda said** that **Rav said: From where** is it derived **that betrothal is not effective** in the case **of a *yevama*** who did not perform *ḥalitza*, if the betrothal is performed by an unrelated man and not a *yavam*? This betrothal is not valid at all, **as it is stated: The wife of the dead man shall not be married outside of the family to one not of his kin”** (Deuteronomy 25:5). This verse indicates that **there shall not be in her** case **the becoming** married **to** one **not of his kin.**
+
+**5.**
+*Hebrew/Aramaic:* וּבֵית שַׁמַּאי — מִי כְּתִיב ״לַחוּץ״? ״חוּצָה״ כְּתִיב. וּבֵית הִלֵּל — כֵּיוָן דִּכְתִיב ״חוּצָה״, כְּמַאן דִּכְתִיב ״לַחוּץ״ דָּמֵי.
+*Translation:* **And** how do **Beit Shammai** respond to this claim? They ask: **Is it written: To the outside [*laḥutz*],** which might indicate betrothal to an unrelated man? **It is** actually **written “outside [*ḥutza*],”** which is an adjective describing this woman as one who is from the outside. **And Beit Hillel,** what is their response? They maintain that **since it is written “outside,” it is considered as though it is written: To the outside.**
+
+**6.**
+*Hebrew/Aramaic:* דְּתַנְיָא, רַבִּי נְחֶמְיָה אוֹמֵר: כׇּל תֵּיבָה שֶׁצְּרִיכָה לָמֶד בִּתְחִלָּתָהּ — הֵטִיל לָהּ הַכָּתוּב הֵא בְּסוֹפָהּ. וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: כְּגוֹן ״אֵלִים״ — ״אֵלִימָה״, ״מַחֲנַיִם״ — ״מַחֲנָיְמָה״, ״מִצְרַיִם״ — ״מִצְרַיְמָה״, ״דִּבְלָתָיְמָה״, ״יְרוּשָׁלַיְמָה״, ״מִדְבָּרָה״.
+*Translation:* **As it is taught** in a *baraita*: **Rabbi Neḥemya says** that with regard to **any word that requires** the letter ***lamed* at its beginning,** meaning: To, **the verse** at times **placed** a letter ***heh* at its end,** but the meaning is the same. **And the school of Rabbi Yishmael taught: For example,** the term: To **“Elim”** (Exodus 16:1) can be rendered as **“*Elima*”** (Exodus 15:27) instead of *le’Elim*; **“Maḥanaim”** (I Kings 2:8) becomes **“*Maḥanaima*”** (II Samuel 17:24); **“*Mitzraim*”** (e.g., Genesis 13:1) into **“*Mitzraima*”** (Genesis 12:10); Divlatayim is **“*Divlataima*”** (Numbers 33:46); to *Yerushalaim* is **“*Yerushalaima*”** (Ezekiel 8:3); and **“*midbara*”** (Joshua 18:12) means: To the wilderness [*midbar*]. All these words that contain the letter *heh* at the end mean the same as if there were a *lamed* at the beginning.
+
+**7.**
+*Hebrew/Aramaic:* וּבֵית שַׁמַּאי, דְּרַב יְהוּדָה אָמַר רַב מְנָא לְהוּ? מִ״לְּאִישׁ זָר״ נָפְקָא.
+*Translation:* The Gemara asks: **And Beit Shammai, from where do they** derive that *halakha* **that Rav Yehuda** said that **Rav said?** The Gemara answers: They **derive** it **from** the phrase: **“To one not of his kin”** (Deuteronomy 25:5). This phrase indicates that marriage is invalid with an unrelated man. However, they learn another matter from the term “outside.”
+
+**8.**
+*Hebrew/Aramaic:* וּבֵית הִלֵּל נָמֵי, תִּיפּוֹק לְהוּ מִ״לְּאִישׁ זָר״? אִין הָכִי נָמֵי. ״חוּצָה״ לְמָה לִי — לְרַבּוֹת הָאֲרוּסָה.
+*Translation:* The Gemara asks: **But** if so, **let Beit Hillel, too, derive this** *halakha* **from: “To one not of his kin.”** The Gemara answers: **Yes, it is indeed so.** They, too, infer it from this source. Then **why do I** need the term **“outside”?** This word was necessary **to include a betrothed woman.** With regard to a woman who was betrothed but not yet married to the deceased brother, although she is still technically outside his house, she is nevertheless obligated in levirate marriage.
+
+**9.**
+*Hebrew/Aramaic:* וְאִידַּךְ: מֵ״חוּצָה״ — ״הַחוּצָה״. וְאִידַּךְ: ״חוּצָה״ ״הַחוּצָה״ — לָא מַשְׁמַע לְהוּ.
+*Translation:* **And the other** one, Beit Shammai, infers this halakhic ruling **from** a single superfluous letter, as instead of “outside” being written as ***ḥutza*** it is written as ***haḥutza*. And** as for **the other** one, Beit Hillel, they **do not derive** a *halakha* from the linguistic difference between ***ḥutza* and *haḥutza*,** as they maintain that this is not a significant enough difference.
+
+**10.**
+*Hebrew/Aramaic:* רָבָא אָמַר: טַעְמַיְיהוּ דְּבֵית שַׁמַּאי דְּאֵין אִיסּוּר חָל עַל אִיסּוּר.
+*Translation:* § **Rava said: The rationale of Beit Shammai** for their opinion that rival wives are permitted in levirate marriage is not due to a specific verse. Rather, Beit Shammai apply the well-known halakhic principle **that a prohibition does not take effect** where **another prohibition** already exists. Since the first wife was already a prohibited relation to her brother-in-law during his brother’s lifetime, the second prohibition of a wife’s sister does not apply to her. Accordingly, her presence is entirely disregarded, as though there is no forbidden relative here to exempt the rival wife.
+
+**11.**
+*Hebrew/Aramaic:* תִּינַח הֵיכָא דְּנָשָׂא מֵת, וְאַחַר כָּךְ נָשָׂא חַי — לָא אָתֵי אִיסּוּר אֲחוֹת אִשָּׁה וְחָיֵיל אַאִיסּוּר אֵשֶׁת אָח. אֶלָּא נָשָׂא חַי וְאַחַר כָּךְ נָשָׂא מֵת, אֲחוֹת אִשָּׁה קָדֵים!
+*Translation:* The Gemara raises a difficulty: This works out **well where the deceased** brother had first **married** one sister **and afterward the surviving** brother had **married** another sister, as in this case it is possible to say that the **prohibition of a wife’s sister does not come and apply** in addition **to the prohibition of a brother’s wife. However,** if **the surviving** brother had **married** one sister **and afterward** the **deceased** brother had **married** another sister, in this case the prohibition of **a wife’s sister precedes** that of a brother’s wife. How can it be said in this situation that this prohibition of a forbidden relative does not take effect where another prohibition already exists, if actually it came first?
+
+**12.**
+*Hebrew/Aramaic:* כֵּיוָן דְּלָא אָתֵי אִיסּוּר אֵשֶׁת אָח וְחָיֵיל אַאִיסּוּר אֲחוֹת אִשָּׁה, הָוְיָא לַהּ צָרַת עֶרְוָה שֶׁלֹּא בִּמְקוֹם מִצְוָה, וְשָׁרְיָא.
+*Translation:* The Gemara answers: **Since the prohibition of a brother’s wife does not come and apply** in addition **to the prohibition of a wife’s sister,** the status of a brother’s wife does not pertain to her and she is not obligated in levirate marriage with him at all. This means that the other wife **is a rival wife of a forbidden relative where no mitzva applies, and she is** therefore **permitted.**
+
+**13.**
+*Hebrew/Aramaic:* חָלְצוּ בֵּית שַׁמַּאי פּוֹסְלִים וְכוּ׳. פְּשִׁיטָא!
+*Translation:* § The mishna taught: If any of the rival wives of the brother **performed *ḥalitza*, Beit Shammai disqualify** her from marrying into the priesthood, as they hold that the *ḥalitza* was fully valid. The Gemara asks: If the rival wives are obligated in the mitzva of levirate marriage and they performed *ḥalitza*, it **is obvious** that the status of a woman who had undergone *ḥalitza* applies to them.
+
+**14.**
+*Hebrew/Aramaic:* לְאַפּוֹקֵי דְּרַבִּי יוֹחָנָן בֶּן נוּרִי, דְּאָמַר: בּוֹאוּ וּנְתַקֵּן לָהֶם לַצָּרוֹת שֶׁיְּהוּ חוֹלְצוֹת וְלֹא מִתְיַיבְּמוֹת. קָא מַשְׁמַע לַן דְּבֵית הִלֵּל מַכְשִׁירִים.
+*Translation:* The Gemara answers: This statement comes **to exclude** the opinion of **Rabbi Yoḥanan ben Nuri, who said: Come and let us institute for rival wives** of women with whom relations are forbidden **that they should perform *ḥalitza* and not enter into levirate marriage.** If this ordinance were accepted, these rival wives would be disqualified by rabbinic law, even according to the opinion of Beit Hillel. The mishna therefore **teaches us that Beit Hillel deem** the rival wives fully **fit** to marry into the priesthood, as no *ḥalitza* was instituted for rival wives and any *ḥalitza* performed with them is entirely meaningless.
+
+**15.**
+*Hebrew/Aramaic:* נִתְיַיבְּמוּ, בֵּית הִלֵּל פּוֹסְלִין כּוּ׳. הָא תּוּ לְמָה לִי! אַיְּידֵי דִּתְנָא חָלְצוּ, תְּנָא נָמֵי נִתְיַיבְּמוּ.
+*Translation:* § The mishna further taught: If **they entered into levirate marriage,** Beit Shammai deem them fit for the priesthood and **Beit Hillel disqualify them.** The Gemara asks: **Why do I need this as well,** as this *halakha* follows logically from the previous statement concerning *ḥalitza*? The Gemara answers that **since** the mishna **taught: Performed *ḥalitza*, it also taught** the case of: **Entered into levirate marriage,** despite the fact that this was not necessary, as even without this ruling the matter would have been understood.
+
+**16.**
+*Hebrew/Aramaic:* תְּנַן הָתָם: מְגִילָּה נִקְרֵאת בְּאַחַד עָשָׂר, וּבִשְׁנֵים עָשָׂר, וּבִשְׁלֹשָׁה עָשָׂר, וּבְאַרְבָּעָה עָשָׂר, וּבַחֲמִשָּׁה עָשָׂר, לֹא פָּחוֹת וְלֹא יוֹתֵר.
+*Translation:* § Apropos the mishna’s comments concerning the details of the relationship between Beit Shammai and Beit Hillel, the Gemara discusses the issue of disputes in general. **We learned** in a mishna **there,** in tractate *Megilla* (2a): **The Megilla,** the Scroll of Esther, **is read on the eleventh** of Adar, **on the twelfth, on the thirteenth, on the fourteenth, or on the fifteenth,** in cities surrounded by a wall, **no earlier and no later** than this. The obligation to read the Megilla on the fourteenth or fifteenth of Adar is stated in the Megilla itself, while the additional days were instituted by the Sages to allow residents of villages, who would come to the cities on Mondays and Thursdays and supply water and rations to the residents of the cities, to hear the reading of the Megilla at that opportunity.
+
+**17.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רֵישׁ לָקִישׁ לְרַבִּי יוֹחָנָן: אִיקְּרִי כָּאן ״לֹא תִתְגּוֹדְדוּ״, לֹא תֵּעָשׂוּ אֲגוּדּוֹת אֲגוּדּוֹת? הַאי ״לֹא תִתְגּוֹדְדוּ״ מִיבְּעֵי לֵיהּ לְגוּפֵיהּ, דְּאָמַר רַחֲמָנָא: לֹא תַּעֲשׂוּ חַבּוּרָה עַל מֵת!
+*Translation:* **Reish Lakish said to Rabbi Yoḥanan: I** should **read here** the verse: **“You shall not cut yourselves [*titgodedu*]”** (Deuteronomy 14:1), which is interpreted as meaning: **Do not become numerous factions [*agudot*].** In other words, the Jewish people should be united, rather than divided into disparate groups that act in different ways. Before analyzing this issue, the Gemara asks: **This** verse: **“You shall not cut yourselves,” is required for the matter itself, as the Merciful One is saying: Do not cut yourselves over the dead.** How is the *halakha* concerning factions derived from this apparently straightforward verse?
+
+**18.**
+*Hebrew/Aramaic:* אִם כֵּן, לֵימָא קְרָא ״לֹא תְגוֹדְדוּ״. מַאי ״תִתְגּוֹדְדוּ״ — שְׁמַע מִינַּהּ לְהָכִי הוּא דַּאֲתָא. וְאֵימָא כּוּלֵּיהּ לְהָכִי הוּא דַּאֲתָא! אִם כֵּן, לֵימָא קְרָא ״לֹא תָגוֹדּוּ״. מַאי ״לֹא תִתְגּוֹדְדוּ״ — שְׁמַע מִינַּהּ תַּרְתֵּי.
+*Translation:* The Gemara answers: **If so,** that the verse comes to teach only about the practices of mourning, **let the verse state** only: **You shall not cut. What** is the meaning of: **“You shall not cut yourselves”? Learn from this** that **it comes for this** purpose as well, to teach the prohibition against splitting into factions. The Gemara asks: **But** in that case, one can **say** that **the entire** verse **comes** for **this** purpose and does not refer to cutting for the dead at all. The Gemara answers: **If so, let the verse state: *Lo tagodu*,** rather than *lo titgodedu*, both of which mean: **You shall not cut. What** is the meaning of: **“*Lo titgodedu*”? Conclude two** conclusions **from it:** Both the simple prohibition against making cuts for the dead and the matter of dividing into factions.
+
+**19.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: עַד כָּאן לֹא שָׁנִיתָ מָקוֹם שֶׁנָּהֲגוּ לַעֲשׂוֹת מְלָאכָה בְּעַרְבֵי פְּסָחִים עַד חֲצוֹת — עוֹשִׂין, מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לַעֲשׂוֹת — אֵין עוֹשִׂין!
+*Translation:* After this incidental discussion, the Gemara returns to the basic question raised by Reish Lakish: Why doesn’t the reading of the Scroll of Esther in different places at different times violate the prohibition against breaking into factions? Rabbi Yoḥanan **said to him:** Have **you not taught until now:** In **a place where** the people were **accustomed to perform labor on Passover eve until midday, one may do** so on that day; in **a place where** the people were **accustomed not to perform** labor, **one may not do** so? This shows that different places can have different customs without violating the prohibition against dividing into factions.
+
+**20.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: אָמֵינָא לָךְ אֲנָא אִיסּוּרָא, דְּאָמַר רַב שֶׁמֶן בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: ״לְקַיֵּים אֵת יְמֵי הַפּוּרִים בִּזְמַנֵּיהֶם״ — זְמַנִּים הַרְבֵּה תִּיקְּנוּ לָהֶם חֲכָמִים, וְאַתְּ אָמְרַתְּ לִי מִנְהָגָא?!
+*Translation:* Reish Lakish **said to** Rabbi Yoḥanan: **I speak to you** of **a prohibition,** as residents of villages are prohibited from reading the Megilla with a blessing on the fifteenth of Adar, **as Rav Shemen bar Abba said** that **Rabbi Yoḥanan said:** The verse **“to confirm** these **days of Purim in their appointed times”** (Esther 9:31) teaches that **the Sages instituted many times for their** reading, and it is prohibited to deviate from these dates. **And you speak to me** about **a custom** that does not involve a prohibition. How can a prohibition be established in a manner that involves the formation of factions among the people?
+
+**21.**
+*Hebrew/Aramaic:* וְהָתָם לָאו אִיסּוּרָא הוּיא? וְהָתְנַן: (בַּלַּיְלָה) בֵּית שַׁמַּאי אוֹסְרִין, וּבֵית הִלֵּל מַתִּירִין.
+*Translation:* Rabbi Yoḥanan replied: **And** in that case **there,** on Passover eve, is **there no prohibition** involved? **But didn’t we learn** in a mishna: **On the night** before the fourteenth of Nisan, **Beit Shammai prohibit** the performance of work **and Beit Hillel permit it.** Evidently, there is indeed a prohibition involved, and yet some perform work while others do not, which splits the people into factions.
+
+**22.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ: הָתָם, הָרוֹאֶה אוֹמֵר: מְלָאכָה הוּא דְּלֵית לֵיהּ. וְהָא בֵּית שַׁמַּאי מַתִּירִין הַצָּרוֹת לָאַחִים, וּבֵית הִלֵּל אוֹסְרִים?
+*Translation:* Reish Lakish **said to him:** In that case **there,** the different factions are not noticeable, as **one who sees** another idle **says: It is** because **he has no labor** to perform. Therefore, refraining from work does not have the appearance of breaking off into factions. Rabbi Yoḥanan raises a difficulty: **But Beit Shammai permit rival wives to the brothers, and Beit Hillel prohibit** this practice. This is an example of a clear prohibition, and yet two different traditions were followed.

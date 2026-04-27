@@ -1,0 +1,158 @@
+### Yevamot 72a
+
+**1.**
+*Hebrew/Aramaic:* וְאִיבָּעֵית אֵימָא: מִשּׁוּם דְּלָא נְשִׁיב לְהוּ רוּחַ צְפוֹנִית. דְּתַנְיָא: כׇּל אוֹתָן אַרְבָּעִים שָׁנָה שֶׁהָיוּ יִשְׂרָאֵל בַּמִּדְבָּר לֹא נָשְׁבָה לָהֶם רוּחַ צְפוֹנִית.
+*Translation:* **And if you wish, say** instead that it was **because** the **north wind did not blow for them,** and the hot weather was likely to lead to medical complications following the procedure. **As it is taught** in a *baraita*: **All those forty years that the Jewish people were in the wilderness,** the **north wind did not blow for them.**
+
+**2.**
+*Hebrew/Aramaic:* מַאי טַעְמָא? אִיבָּעֵית אֵימָא מִשּׁוּם דִּנְזוּפִים הָווּ, וְאִי בָּעֵית אֵימָא דְּלָא נִבַּדּוּר עַנְנֵי כָבוֹד.
+*Translation:* The Gemara asks: **What is the reason** that this wholesome wind did not blow all those years? **If you wish, say** it was **because they were under censure** following the sin of the spies and were therefore undeserving of this salutary wind. **And if you wish, say** instead that it was so **that** the **clouds of glory** covering the Tabernacle **should not disperse.**
+
+**3.**
+*Hebrew/Aramaic:* אָמַר רַב פָּפָּא: הִלְכָּךְ יוֹמָא דְעֵיבָא וְיוֹמָא דְשׁוּתָא — לָא מָהֲלִינַן בֵּיהּ, וְלָא מְסוֹכְרִינַן בֵּיהּ. וְהָאִידָּנָא דְּדָשׁוּ בַּהּ רַבִּים, ״שׁוֹמֵר פְּתָאִים ה׳״.
+*Translation:* **Rav Pappa said: Therefore,** learn from here that on **a cloudy day or** on **a day** that **a south wind [*shuta*]** blows, **we may neither circumcise nor let** blood **[*mesokhrinan*],** owing to the danger involved. **But nowadays, when many are accustomed to** ignoring these safeguards, the verse **“The Lord preserves the simple”** (Psalms 116:6) is applied, and it is assumed that they will come to no harm.
+
+**4.**
+*Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כׇּל אוֹתָן אַרְבָּעִים שָׁנָה שֶׁהָיוּ יִשְׂרָאֵל בַּמִּדְבָּר, לֹא הָיָה יוֹם שֶׁלֹּא נָשְׁבָה בּוֹ רוּחַ צְפוֹנִית בַּחֲצִי הַלַּיְלָה, שֶׁנֶּאֱמַר: ״וַיְהִי בַּחֲצִי הַלַּיְלָה וַה׳ הִכָּה כׇל בְּכוֹר וְגוֹ׳״ מַאי תַּלְמוּדָא? הָא קָא מַשְׁמַע לַן דְּעֵת רְצוֹן מִילְּתָא הִיא.
+*Translation:* **The Sages taught** in a *baraita*: **All those forty years that the Jewish people were in the wilderness there was not a day in which** the **north wind did not blow at midnight, as it is stated: “And it came to pass at midnight, that the Lord smote all the firstborn** in the land of Egypt” (Exodus 12:29). The Gemara asks: **What is the** biblical **derivation?** How is it derived from this verse that speaks of the exodus from Egypt that a north wind blew at midnight during the forty years that the Jewish people wandered in the wilderness? The Gemara answers: **This** comes to **teach us that a time of favor is a** significant **matter.** Since midnight had once been a time of divine favor at the beginning of the exodus from Egypt, it continued to be a time of favor throughout the forty years that the Jewish people sojourned in the wilderness.
+
+**5.**
+*Hebrew/Aramaic:* אָמַר רַב הוּנָא: דְּבַר תּוֹרָה, מָשׁוּךְ — אוֹכֵל בִּתְרוּמָה, וּמִדִּבְרֵיהֶם גָּזְרוּ עָלָיו, מִפְּנֵי שֶׁנִּרְאֶה כְּעָרֵל.
+*Translation:* § **Rav Huna said: By Torah law,** if one had been circumcised, but subsequently the residual foreskin was **drawn forward** by itself or manually so that it covered the corona, he may **partake of *teruma*,** as he is considered circumcised. **However, from the words of** the Sages, **they decreed** that he must be circumcised again **because he looks** as if he were **uncircumcised.**
+
+**6.**
+*Hebrew/Aramaic:* מֵיתִיבִי: מָשׁוּךְ צָרִיךְ שֶׁיָּמוּל! מִדְּרַבָּנַן. וּדְקָאָרֵי לַהּ, מַאי קָאָרֵי לַהּ? הָא ״צָרִיךְ״ קָתָנֵי!
+*Translation:* The Gemara **raises an objection** based on the following *baraita*: One whose residual foreskin was **drawn forward** so that it covers the corona **requires** a second **circumcision,** indicating that he is not considered circumcised. The Gemara explains: This requirement is **by rabbinic law,** and by Torah law he is considered circumcised. The Gemara asks: **And** the *amora* **who asked** this question, **why did he ask it** in the first place? The *baraita* merely **teaches** that such an individual **requires** circumcision, and does not indicate that it is a Torah obligation.
+
+**7.**
+*Hebrew/Aramaic:* קָטָעֵי בְּסֵיפָא, רַבִּי יְהוּדָה אוֹמֵר: לֹא יִמּוֹל, מִפְּנֵי שֶׁסַּכָּנָה הִיא לוֹ. אָמְרוּ לוֹ: וַהֲלֹא הַרְבֵּה מָלוּ בִּימֵי בֶּן כּוֹזֵיבָא וְהוֹלִידוּ בָּנִים וּבָנוֹת, שֶׁנֶּאֱמַר: ״הִמּוֹל יִמּוֹל״, אֲפִילּוּ מֵאָה פְּעָמִים, וְאוֹמֵר: ״אֶת בְּרִיתִי הֵפַר״ — לְרַבּוֹת אֶת הַמָּשׁוּךְ.
+*Translation:* The Gemara explains: The *amora* who raised the question **erred due to the latter clause** of that same *baraita*, which states: **Rabbi Yehuda says: He should not be circumcised because it would be dangerous for him** to do so. His colleagues **said to him: But weren’t** there **many** who had drawn their residual foreskins forward and subsequently **were circumcised** a second time **in the days of ben Koziva,** otherwise known as bar Kokheva, **and they fathered sons and daughters.** Such re-circumcision is necessary, **as it is stated: “He must surely be circumcised [*himmol yimmol*]”** (Genesis 17:13), the double verb form indicating: **Even one hundred times. And** furthermore, **it says: “He has broken My covenant”** (Genesis 17:14), which comes **to include one** whose foreskin was **drawn forward.**
+
+**8.**
+*Hebrew/Aramaic:* מַאי ״וְאוֹמֵר״? וְכִי תֵּימָא: הַאי ״הִמּוֹל יִמּוֹל״ לְרַבּוֹת צִיצִין הַמְעַכְּבִים אֶת הַמִּילָה — ״תָּא שְׁמַע: ״אֶת בְּרִיתִי הֵפַר״, לְרַבּוֹת אֶת הַמָּשׁוּךְ.
+*Translation:* The Gemara comments: **What is** the meaning of: **And** furthermore, **it says?** Why was it necessary to cite two verses in support of the same *halakha*? The Gemara answers: The additional verse is necessary, **lest you say** that **this** first verse: **“He shall surely be circumcised,”** comes only **to include the shreds** of flesh **that invalidate the circumcision** if they are not cut and to indicate that they must be removed. If so, **come** and **hear** a second verse: **“He has broken My covenant,”** which comes **to include one** whose foreskin was **drawn forward.**
+
+**9.**
+*Hebrew/Aramaic:* הוּא סָבַר: מִדְּקָא נָסֵיב לַהּ תַּלְמוּדָא (קְרָא) — דְּאוֹרָיְיתָא הִיא. וְלָא הִיא: מִדְּרַבָּנַן, וּקְרָא אַסְמַכְתָּא בְּעָלְמָא.
+*Translation:* Now **he,** the *amora* who raised an objection based on the first part of the *baraita*, **thought** that **since** at the end of the *baraita* the *tanna* **brings a derivation** from **a verse,** this *halakha* must be **by Torah law. But** in fact **that is not so.** It is only **by rabbinic law, and the verse** quoted is **a mere support** but not the source of the *halakha*.
+
+**10.**
+*Hebrew/Aramaic:* מֵיתִיבִי: טוּמְטוּם — אֵין אוֹכֵל בִּתְרוּמָה, נָשָׁיו וַעֲבָדָיו — אוֹכְלִין. מָשׁוּךְ, וְנוֹלַד כְּשֶׁהוּא מָהוּל — הֲרֵי אֵלּוּ אוֹכְלִים. אַנְדְּרוֹגִינוֹס — אוֹכֵל בִּתְרוּמָה, וְאֵין אוֹכֵל בְּקָדָשִׁים. טוּמְטוּם — אֵינוֹ אוֹכֵל לֹא בִּתְרוּמָה וְלֹא בְּקָדָשִׁים.
+*Translation:* The Gemara **raises an objection** from a different source: A priest who is **a *tumtum* may not partake of *teruma*,** but **his wives and slaves may partake** of it. A priest who had been circumcised, but subsequently the residual foreskin was **drawn forward, and** similarly **one who was born circumcised,** i.e., without a foreskin, **may partake** of *teruma*. A priest who is **a hermaphrodite [*androginos*],** possessing both male and female genitals, and was circumcised **may partake of *teruma*,** as whether he is male or female he is entitled to eat *teruma*, **but he may not partake of sacrificial food,** which is permitted only to male priests, as he might not be a male. A priest who is **a *tumtum* may not partake of *teruma* or sacrificial food,** as he might be a male, and since his member is hidden he cannot be circumcised.
+
+**11.**
+*Hebrew/Aramaic:* קָתָנֵי מִיהַת: מָשׁוּךְ, וְנוֹלַד כְּשֶׁהוּא מָהוּל — הֲרֵי אֵלּוּ אוֹכְלִין, תְּיוּבְתָּא דְרַב הוּנָא! תְּיוּבְתָּא.
+*Translation:* **In any event,** this *baraita* **teaches** that a priest whose foreskin was **drawn forward and** one who was **born circumcised may partake** of *teruma*. This would seem to be **a conclusive refutation of** the opinion of **Rav Huna** that a priest whose foreskin was drawn forward may not eat *teruma* at least by rabbinic law. The Gemara concludes: This is in fact **a conclusive refutation** of his opinion.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר מָר: טוּמְטוּם — אֵינוֹ אוֹכֵל בִּתְרוּמָה, נָשָׁיו וַעֲבָדָיו — אוֹכְלִים. נָשָׁיו לְטוּמְטוּם מְנָא לֵיהּ? אִילֵּימָא דְּקַדֵּישׁ, דְּתַנְיָא: טוּמְטוּם שֶׁקִּידֵּשׁ — קִדּוּשָׁיו קִדּוּשִׁין, נִתְקַדֵּשׁ — קִדּוּשָׁיו קִדּוּשִׁין,
+*Translation:* **The Master said** above in the *baraita*: A priest who is **a *tumtum* may not partake of *teruma*,** but **his wives [*nashav*] and slaves may partake** of it. The Gemara is puzzled by this teaching: **From where does a *tumtum* have wives?** If he does not have a visible male organ, how can he marry a woman? **If we say that he** merely **betrothed** a woman, **as it is taught** in another *baraita*: If **a *tumtum* betrothed** a woman **his betrothal is** considered **a** valid **betrothal,** as he might be a male, and similarly if he **was betrothed** by a man, **his betrothal is** deemed **a** valid **betrothal** as he might be a female, there is a difficulty.
+
+**13.**
+*Hebrew/Aramaic:* אֵימַר דְּאָמַר לְחוּמְרָא, לְקוּלָּא מִי אָמְרִינַן? סְפֵק אִשָּׁה הוּא, וְאֵין אִשָּׁה מְקַדֶּשֶׁת אִשָּׁה?
+*Translation:* One could **say that** the *tanna* **said** that the betrothal of a *tumtum* is valid only **as a stringency,** i.e., out of concern that he might be a male, and therefore the woman cannot leave without a proper bill of divorce. But **should we say** that his betrothal is valid also **as a leniency,** to allow his wife to eat *teruma*? There is an **uncertainty** here that perhaps **he is a woman, and** one **woman cannot betroth** another **woman.**
+
+**14.**
+*Hebrew/Aramaic:* אָמַר אַבָּיֵי: כְּשֶׁבֵּיצָיו נִיכָּרוֹת מִבַּחוּץ.
+*Translation:* **Abaye said:** The *tanna* is referring to a *tumtum* whose male organ is hidden, but he is speaking of a situation **where his testicles are visible externally.** Since it is evident that he is a male, he can betroth a woman even though he cannot have relations with her.
+
+**15.**
+*Hebrew/Aramaic:* רָבָא אָמַר: מַאי ״נָשָׁיו״ — אִמּוֹ. אִמּוֹ, פְּשִׁיטָא! מַהוּ דְּתֵימָא: מוֹלִיד — מַאֲכִיל, שֶׁאֵין מוֹלִיד — אֵינוֹ מַאֲכִיל, קָא מַשְׁמַע לַן.
+*Translation:* **Rava said** a different answer: **What is** meant here by the word *nashav*, which was translated earlier as his wives, but which can also be understood as **his women?** It refers here to the priest’s **mother,** who, after her husband the priest has passed away, may continue to eat *teruma* by virtue of her son. The Gemara questions this interpretation of the *baraita*: **His mother?** It **is obvious** that she may eat *teruma* on his account, as he is her offspring by a priest. The Gemara explains: This statement is nevertheless necessary, **lest you say** that only if the priest **is capable of having children** does he **enable** his mother **to eat** *teruma*, but if he **is incapable of having children** he **does not enable** his mother **to eat** *teruma*, and therefore a *tumtum*, who cannot have children, should not enable his mother to eat *teruma*. Therefore, the *tanna* **teaches us** that this is not so, as a woman may eat *teruma* by virtue of the child she bore a priest, even if that child is incapable of having children.
+
+**16.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: טוּמְטוּם — אֵינוֹ אוֹכֵל לֹא בִּתְרוּמָה וְלֹא בְּקָדָשִׁים. בִּשְׁלָמָא לְאַבָּיֵי, תְּנָא רֵישָׁא עָרֵל וַדַּאי, וְקָתָנֵי סֵיפָא סְפֵק עָרֵל.
+*Translation:* **Come** and **hear** a proof in support of Abaye’s opinion from that which is taught in the latter part of the *baraita*: A priest who is **a *tumtum* may not partake of *teruma* or sacrificial food.** There is a difficulty here, as the *halakha* that a *tumtum* may not partake of *teruma* was already taught in the first part of the *baraita*. **Granted, according to Abaye,** the *tanna* **teaches** in the **first clause** of the *baraita* the *halakha* governing a *tumtum* who is **definitely uncircumcised,** i.e., one whose testicles are visible externally, so that he is definitely male but cannot undergo circumcision because his member itself is hidden. **And** then **he teaches** in **the latter clause** of the *baraita* the *halakha* governing a *tumtum* about whom there is **uncertainty** as to whether he is **uncircumcised,** i.e., one whose genitalia are completely hidden, so that he might not even be a male.
+
+**17.**
+*Hebrew/Aramaic:* אֶלָּא לְרָבָא, טוּמְטוּם דְּסֵיפָא לְמָה לִי? מַאי טוּמְטוּם — עָרֵל.
+*Translation:* **But according to Rava, why do I** need the repetition of the *halakha* governing a ***tumtum*** in **the latter clause?** The *tanna* already stated this *halakha* in the first part of the *baraita*. The Gemara answers: **What is** this ***tumtum*** referred to in the latter clause? It is a man who is definitely **uncircumcised.**
+
+**18.**
+*Hebrew/Aramaic:* הַשְׁתָּא סְפֵק עָרֵל לָא אָכֵיל — וַדַּאי עָרֵל אָכֵיל?! מָה טַעַם קָאָמַר: מָה טַעַם טוּמְטוּם אֵינוֹ אוֹכֵל בִּתְרוּמָה? מִפְּנֵי שֶׁסְּפֵק עָרֵל הוּא, וְעָרֵל אֵינוֹ אוֹכֵל לֹא בִּתְרוּמָה וְלֹא בְּקָדָשִׁים.
+*Translation:* The Gemara asks: **Now,** if a *tumtum*, about whom there is **uncertainty** as to whether he is **uncircumcised, may not partake** of *teruma*, as stated in the first clause of the *baraita*, can it be supposed that a man who is **definitely uncircumcised** may eat *teruma*, so that it was necessary for the *baraita* to teach in the latter clause that he may not do so? The Gemara answers: **He is saying: What is the reason.** The *baraita* should be understood as follows: **What is the reason** that **a *tumtum* may not partake of *teruma*?** It is **because** there is **uncertainty** as to whether he is **uncircumcised, and an uncircumcised** priest **may not partake of *teruma* or sacrificial food.**
+
+**19.**
+*Hebrew/Aramaic:* לֵימָא כְּתַנָּאֵי: מָשׁוּךְ (וְנוֹלַד כְּשֶׁהוּא מָהוּל), וְגֵר שֶׁנִּתְגַּיֵּיר כְּשֶׁהוּא מָהוּל, וְקָטָן שֶׁעָבַר זְמַנּוֹ, וּשְׁאָר כׇּל הַנִּימּוֹלִים, לְאֵיתוֹיֵי מִי שֶׁיֵּשׁ לוֹ שְׁתֵּי עֲרָלוֹת — אֵינָן נִימּוֹלִין אֶלָּא בַּיּוֹם. רַבִּי אֶלְעָזָר בַּר שִׁמְעוֹן אוֹמֵר: בִּזְמַנּוֹ —
+*Translation:* The Gemara suggests: **Let us say** that this amoraic dispute as to whether or not one who had been circumcised but his residual foreskin was drawn forward is considered uncircumcised by Torah law is **parallel to** the following dispute between ***tanna’im*.** As it is taught in the *Tosefta* (*Shabbat* 16:7): One whose foreskin was **drawn forward, and** similarly, **one who was born circumcised, and a convert who converted when he was** already **circumcised, and a child whose** appropriate **time** for circumcision already **passed** and he was still uncircumcised, **and all others** who require **circumcision,** which, as the Gemara parenthetically adds, comes **to include one who has two foreskins,** both of which must be removed, **may be circumcised only during the day. Rabbi Elazar bar Shimon says:** If the circumcision is performed **at its** appropriate **time,** i.e., on the eighth day,
+
+
+---
+
+### Yevamot 72b
+
+**1.**
+*Hebrew/Aramaic:* אֵין נִימּוֹלִין אֶלָּא בְּיוֹם, שֶׁלֹּא בִּזְמַנּוֹ — נִימּוֹלִין בְּיוֹם וּבַלַּיְלָה. מַאי לָאו, בְּהָא קָמִיפַּלְגִי: דְּמָר סָבַר מָשׁוּךְ דְּאוֹרָיְיתָא, וּמָר סָבַר מָשׁוּךְ דְּרַבָּנַן.
+*Translation:* **they may be circumcised only during the day.** However, if the circumcision is performed **not at its** appropriate **time, they may be circumcised** either **during the day or at night. What, is it not** the case that **they disagree about the following: One Sage,** the Rabbis, **holds** that the obligation to circumcise one whose foreskin was **drawn forward** is **by Torah law,** and therefore he must be circumcised during the day despite the fact that the procedure is not performed at the proper time, **and one Sage,** Rabbi Elazar bar Shimon, **holds** that the circumcision of one whose foreskin was **drawn forward** is **by rabbinic law.**
+
+**2.**
+*Hebrew/Aramaic:* וְתִסְבְּרָא? קָטָן שֶׁעָבַר זְמַנּוֹ מִי אִיכָּא לְמַאן דְּאָמַר דְּרַבָּנַן?
+*Translation:* The Gemara rejects this suggestion: **And** how can **you understand** the disagreement in that way? With regard to **a child whose** appropriate **time** for circumcision **has** already **passed, is there anyone who says that** the obligation to circumcise him is only **by rabbinic law?** Even after the eighth day, there is certainly a Torah obligation to circumcise him, and yet the *tanna’im* disagree about this case as well.
+
+**3.**
+*Hebrew/Aramaic:* אֶלָּא, דְּכוּלֵּי עָלְמָא: מָשׁוּךְ — דְּרַבָּנַן, וְקָטָן שֶׁעָבַר זְמַנּוֹ — דְּאוֹרָיְיתָא. וְהָכָא בְּהָא קָמִיפַּלְגִי: מָר סָבַר דָּרְשִׁינַן ״וּבַיּוֹם״, וּמָר סָבַר לָא דָּרְשִׁינַן ״וּבַיּוֹם״.
+*Translation:* **Rather, everyone** agrees that the obligation to circumcise one whose foreskin was **drawn forward** is **by rabbinic law, and** that the obligation to circumcise **a child whose** appropriate **time** for circumcision **has** already **passed** is **by Torah law. And here they disagree with regard to the following: One Sage holds** that **we expound** the phrase **“and on the day”** in the verse “And on the eighth day the flesh of his foreskin shall be circumcised” (Leviticus 12:3). The superfluous word “and” indicates that even if the child was not circumcised on the eighth day, the procedure must still be performed during the day. **And one Sage,** Rabbi Elazar bar Shimon, **holds** that **we do not expound** the phrase **“and on the day,”** and therefore a circumcision must be performed during the day only when it takes place on the eighth day, but afterward it may be performed even at night.
+
+**4.**
+*Hebrew/Aramaic:* כִּי הָא דְּיָתֵיב רַבִּי יוֹחָנָן וְקָדָרֵישׁ: נוֹתָר, בִּזְמַנּוֹ — אֵינוֹ נִשְׂרָף אֶלָּא בַּיּוֹם, שֶׁלֹּא בִּזְמַנּוֹ — נִשְׂרָף בֵּין בַּיּוֹם בֵּין בַּלַּיְלָה.
+*Translation:* **As in** the case **where Rabbi Yoḥanan was sitting and he expounded: *Notar*,** the flesh of an offering that is left over beyond its allotted time, requires burning. If it is burnt **at its** appropriate **time,** i.e., on the same day that it became *notar*, it **may be burned only during the day.** If it is burnt **not at its** appropriate **time,** it **may be burned either during the day or at night.**
+
+**5.**
+*Hebrew/Aramaic:* וְאֵיתִיבֵיהּ רַבִּי אֶלְעָזָר לְרַבִּי יוֹחָנָן: אֵין לִי אֶלָּא נִימּוֹל לִשְׁמִינִי שֶׁאֵין נִימּוֹל אֶלָּא בַּיּוֹם, מִנַּיִן לְרַבּוֹת לְתִשְׁעָה, לַעֲשָׂרָה, לְאַחַד עָשָׂר לִשְׁנֵים עָשָׂר (מִנַּיִן)? תַּלְמוּד לוֹמַר: ״וּבַיּוֹם״.
+*Translation:* **And Rabbi Elazar raises an objection to** the opinion of **Rabbi Yoḥanan** from the following *baraita*: **I have** derived **only** that a child who **is circumcised on** the **eighth** day **may be circumcised only during the day. From where** do I derive **to include** in this *halakha* a child who is circumcised **on the ninth, tenth, eleventh,** or **twelfth** day? **From where** is it derived that he, too, may be circumcised only during the day? Therefore, **the verse states: “And on the day,”** which teaches that the obligation to circumcise during the day extends beyond the eighth day itself.
+
+**6.**
+*Hebrew/Aramaic:* וַאֲפִילּוּ לְמַאן דְּלָא דָּרֵישׁ וָאו, וָאו וְהֵי דָּרֵישׁ. אִישְׁתִּיק.
+*Translation:* **And even** the Sage **who does not expound** the letter ***vav*,** meaning “and,” as superfluous, **expounds** the letters ***vav* and *heh*** when they come together and understands them as alluding to cases not explicitly mentioned in the biblical text. Regarding *notar* the verse states: “And that which remains [*vehanotar*] of the flesh of the offering on the third day shall be burnt with fire” (Leviticus 7:17), where the letters *vav* and *heh* teach that the obligation to burn *notar* during the day extends beyond the third day itself. Rabbi Yoḥanan **was silent,** as he had no response.
+
+**7.**
+*Hebrew/Aramaic:* בָּתַר דִּנְפַק, אֲמַר לֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: רָאִיתִי לְבֶן פְּדָת שֶׁיּוֹשֵׁב וְדוֹרֵשׁ כְּמֹשֶׁה מִפִּי הַגְּבוּרָה. אֲמַר לֵיהּ רֵישׁ לָקִישׁ: דִּידֵיהּ הִיא? מַתְנִיתָא הִיא. הֵיכָא תְּנָא לֵיהּ? בְּתוֹרַת כֹּהֲנִים. נְפַק, תַּנְיַיהּ בִּתְלָתָא יוֹמֵי, וְסַבְרַהּ בִּתְלָתָא יַרְחֵי.
+*Translation:* **After** Rabbi Elazar **left, Rabbi Yoḥanan,** who was impressed with Rabbi Elazar’s exposition, **said to Reish Lakish: I saw that** Rabbi Elazar, **son of Pedat, was sitting and expounding** the Torah **as Moses** had received it directly **from the mouth of the Almighty. Reish Lakish said to him:** Was this exposition **his own? It is a *baraita*.** Rabbi Yoḥanan inquired: **Where is this** *baraita* **taught?** Reish Lakish replied: It is **in *Torat Kohanim*,** otherwise known as *Sifra*, a work of halakhic midrash on the book of Leviticus. Rabbi Yoḥanan **went out** and **learned** the entire *Torat Kohanim* **in three days, and reached** a full **understanding of it in three months.**
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: עָרֵל שֶׁהִזָּה — הַזָּאָתוֹ כְּשֵׁרָה. מִידֵי דְּהָוֵה אַטְּבוּל יוֹם, שֶׁאַף עַל פִּי שֶׁאָסוּר בִּתְרוּמָה, כָּשֵׁר בַּפָּרָה.
+*Translation:* § **Rabbi Elazar said:** If **an uncircumcised** priest **sprinkled** the purification waters containing the ashes of a red heifer in order to purify someone who had contracted ritual impurity imparted by a corpse, **his sprinkling is valid, just as it is** in the case of a priest **who immersed himself that day** but does not become completely purified until nightfall. **As, although** such an individual **is prohibited from** eating ***teruma*,** he is **fit for** all the rites connected to the red **heifer.**
+
+**9.**
+*Hebrew/Aramaic:* מָה לִטְבוּל יוֹם — שֶׁכֵּן מוּתָּר בְּמַעֲשֵׂר! אַטּוּ אֲנַן לַאֲכִילָה קָאָמְרִינַן, אֲנַן לִנְגִיעָה קָאָמְרִינַן: וּמָה טְבוּל יוֹם שֶׁאָסוּר בִּנְגִיעָה דִּתְרוּמָה — מוּתָּר בַּפָּרָה, עָרֵל שֶׁמּוּתָּר בִּנְגִיעָה — אֵינוֹ דִּין שֶׁמּוּתָּר בַּפָּרָה?!
+*Translation:* The Gemara raises a difficulty: If **one who immersed himself that day** is fit for all the rites connected to the red heifer, that is because **he is** at least **permitted to** eat **tithes,** and so he is treated more leniently than one who is uncircumcised, for whom it is prohibited to partake of second tithe. The Gemara answers: **Is that to say** that **we are speaking about eating? We spoke** in reference **to touching,** and the proof was as follows: **If one who immersed himself that day** and **who is forbidden to touch *teruma*,** as he invalidates *teruma* by touch, is nevertheless **permitted** to participate **in** all the rites connected to the red **heifer;** then with regard to one who is **uncircumcised, who is permitted to touch** *teruma* according to all opinions, **is it not right that** he should be **permitted** to participate **in** the rites connected to **the** red **heifer?**
+
+**10.**
+*Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: עָרֵל שֶׁהִזָּה — הַזָּאָתוֹ כְּשֵׁרָה. וּמַעֲשֶׂה הָיָה וְהִכְשִׁירוּ חֲכָמִים הַזָּאָתוֹ.
+*Translation:* The Gemara comments: **That** opinion **is also taught** in a *baraita*: If **an uncircumcised** priest **sprinkled** the purification waters, **his sprinkling is valid. And an incident occurred** in which such an individual sprinkled the purification waters **and the Sages validated his sprinkling.**
+
+**11.**
+*Hebrew/Aramaic:* מֵיתִיבִי: טוּמְטוּם שֶׁקִּידֵּשׁ — קִידּוּשׁוֹ פָּסוּל, מִפְּנֵי שֶׁהוּא סְפֵק עָרֵל, וְעָרֵל פָּסוּל לְקַדֵּשׁ. וְאַנְדְּרוֹגִינוֹס שֶׁקִּידֵּשׁ — קִידּוּשׁוֹ כָּשֵׁר. רַבִּי יְהוּדָה אוֹמֵר: אַף אַנְדְּרוֹגִינוֹס שֶׁקִּידֵּשׁ — קִדּוּשָׁיו פְּסוּלִים, מִפְּנֵי שֶׁסְּפֵק אִשָּׁה [הוּא], וְאִשָּׁה פְּסוּלָה מִלְּקַדֵּשׁ. קָתָנֵי מִיהָא: עָרֵל וּסְפֵק עָרֵל פָּסוּל מִלְּקַדֵּשׁ!
+*Translation:* The Gemara **raises an objection** from that which was taught in the *Tosefta* (*Para* 5:5): If **a *tumtum* sanctified** the purification waters by placing a small amount of ashes from the red heifer into springwater that had been placed into a container for that purpose, **his sanctification is invalid because** there is **uncertainty** as to whether he is **uncircumcised, and an uncircumcised** man **is disqualified from sanctifying** the purification waters. **But** if **a hermaphrodite sanctified** the purification waters, **his sanctification is valid. Rabbi Yehuda** disagrees and **says: Even** if **a hermaphrodite sanctified** the purification waters, **his sanctification is invalid, because** there is **uncertainty** as to whether a hermaphrodite is **a woman, and a woman is disqualified from sanctifying** the purification waters. **In any event,** the *baraita* **teaches** that one who is definitely **uncircumcised, and** even one about whom there is **uncertainty** as to whether he is **uncircumcised, is disqualified from sanctifying** the purification waters.
+
+**12.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: הַאי תַּנָּא — תַּנָּא דְּבֵי רַבִּי עֲקִיבָא הוּא, דִּמְרַבֵּי לֵיהּ לְעָרֵל כְּטָמֵא. דְּתַנְיָא, רַבִּי עֲקִיבָא אוֹמֵר: ״אִישׁ אִישׁ״, לְרַבּוֹת הֶעָרֵל.
+*Translation:* **Rav Yosef said: This *tanna*** of the *baraita*, who disqualifies one who is uncircumcised from sanctifying the purification waters, **is a *tanna* from the school of Rabbi Akiva, who includes the uncircumcised** in the same *halakha* **as** that which governs **the ritually impure. As it is taught** in a *baraita*: **Rabbi Akiva says** that the words “any man” in the verse **“Any man** from the seed of Aaron who is a leper or a *zav* shall not eat of the holy things until he be pure” (Leviticus 22:4), come **to include** one who is **uncircumcised,** and it is prohibited for him as well to partake of consecrated food. And so too, with regard to other matters as well, e.g., sanctifying the purification waters, one who is uncircumcised has the same status as one who is ritually impure.
+
+**13.**
+*Hebrew/Aramaic:* אָמַר רָבָא: הֲוָה יָתֵיבְנָא קַמֵּיהּ דְּרַב יוֹסֵף, וְקַשְׁיָא לִי: לָא לִישְׁתְּמִיט תַּנָּא וְלִיתְנֵי הֶעָרֵל וְהַטָּמֵא, וְלֵימָא רַבִּי עֲקִיבָא הִיא.
+*Translation:* **Rava said: I was sitting** at the time **before Rav Yosef, and I had** the following **difficulty:** If so, according to Rav Yosef’s opinion that the uncircumcised and the ritually impure have the same status, should one **not** be able **to find a *tanna* who teaches** the *halakha* of **the uncircumcised and** that of **the ritually impure** together, **and we should say** that this is the opinion of **Rabbi Akiva?** There should be some source that reflects this view.
+
+**14.**
+*Hebrew/Aramaic:* וְלָא? וְהָא קָתָנֵי: הֶעָרֵל וְהַטָּמֵא פְּטוּרִים מִן הָרְאִיָּיה! הָתָם מִשּׁוּם דִּמְאִיס.
+*Translation:* The Gemara asks: **And** is there **not** such a source? **But isn’t it taught** in a *baraita*: One who is **uncircumcised and** one who is **ritually impure are exempt from** making an **appearance** in the Temple on each of the three pilgrim Festivals. The Gemara refutes this argument: This is no proof, as **there** it can be argued that one who is uncircumcised is exempt from appearing in the Temple **because he is repulsive,** and it is unbefitting that one who is uncircumcised appear in the Temple courtyard, but this does not mean that with regard to other matters as well he is treated like one who is ritually impure.
+
+**15.**
+*Hebrew/Aramaic:* וְאָזְדוּ לְטַעְמַיְיהוּ. דְּתַנְיָא: הַכֹּל כְּשֵׁרִים לְקַדֵּשׁ — חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, רַבִּי יְהוּדָה מַכְשִׁיר בַּקָּטָן וּפוֹסֵל בְּאִשָּׁה וּבְאַנְדְּרוֹגִינוֹס.
+*Translation:* The Gemara comments: **And** the Rabbis and Rabbi Yehuda **follow their** usual line of **reasoning** with regard to a hermaphrodite. **As it is taught** in a *baraita*: **All are fit to sanctify** the purification waters **except for a deaf-mute, an imbecile, and a minor. Rabbi Yehuda deems a minor fit** for the task, **but deems a woman and a hermaphrodite unfit.**
+
+**16.**
+*Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבָּנַן — דִּכְתִיב: ״וְלָקְחוּ לַטָּמֵא מֵעֲפַר שְׂרֵיפַת הַחַטָּאת״, הָנָךְ דְּפָסְלִי בַּאֲסִיפָה — פְּסוּלִין בְּקִידּוּשׁ, הָנָךְ דִּכְשֵׁרִין בַּאֲסִיפָה — כְּשֵׁרִים בְּקִידּוּשׁ.
+*Translation:* The Gemara explains: **What is the reasoning of the Rabbis? As it is written: “And they shall take for the impure of the ashes of the burning of the sin-offering,** and he shall place on it running water in a vessel” (Numbers 19:17). The juxtaposition of the placement of the water to the gathering of the ashes indicates that they are governed by the same *halakha*. Therefore, **those who are unfit for gathering** the ashes **are** likewise **unfit for sanctification,** whereas **those who are fit for gathering** the ashes **are** likewise **fit for sanctification.** Since a woman is fit to gather the ashes of the red heifer, she may also sanctify its waters.
+
+**17.**
+*Hebrew/Aramaic:* וְרַבִּי יְהוּדָה אָמַר לָךְ: אִם כֵּן, נֵימָא קְרָא ״וְלָקַח״, מַאי ״וְלָקְחוּ״? דַּאֲפִילּוּ הָנָךְ דִּפְסוּלִין הָתָם, כְּשֵׁרִים הָכָא.
+*Translation:* **And Rabbi Yehuda** could have **said to you: If so,** then **let the verse state: And he shall take. What** is the significance of the shift to the plural form: **“And they shall take”?** It teaches **that even those who are unfit there are fit here.** As the *halakhot* of the two cases are not identical, Rabbi Yehuda deems a minor fit to perform the sanctification.
+
+**18.**
+*Hebrew/Aramaic:* אִי הָכִי, אִשָּׁה נָמֵי! ״וְנָתַן״ וְלֹא ״וְנָתְנָה״. וְרַבָּנַן — אִי כְּתִיב: ״וְלָקַח״ ״וְנָתַן״, הֲוָה אָמֵינָא שָׁקֵיל חַד וְיָהֵיב חַד, כְּתַב רַחֲמָנָא ״וְלָקְחוּ״.
+*Translation:* The Gemara raises a difficulty: **If so,** according to Rabbi Yehuda **a woman** should **also** be fit to sanctify the purification waters. The Gemara answers: Rabbi Yehuda reads the verse precisely. It says: **“And he shall place** on it,” **and not: And she shall place** on it. The Gemara asks: **And** how do **the Rabbis** respond to this claim? **If** the verse **was written: And he shall take…and he shall place, I would say** that **one** individual must **take** the ashes **and** the same **one** must also **place** the water on them. **The Merciful One** therefore **writes: “And they shall take,”** indicating that the ritual is valid even when performed by two different individuals.
+
+**19.**
+*Hebrew/Aramaic:* וְאִי כְּתַב רַחֲמָנָא ״וְלָקְחוּ״ ״וְנָתְנוּ״, הֲוָה אָמֵינָא דְּשָׁקְלִי תְּרֵי וְיָהֲבִי תְּרֵי, כְּתַב רַחֲמָנָא ״וְלָקְחוּ״ ״וְנָתַן״ — דַּאֲפִילּוּ שָׁקְלִי תְּרֵי וְיָהֵיב חַד.
+*Translation:* **And if the Merciful One had written: And they shall take…and they shall place, I would say that two** people must **take** the ashes **and two** must **place** the water on them, but if these rites are performed by fewer than two people they are invalid. **The Torah** therefore **states: “And they shall take…and he shall place,”** to teach **that even** if **two** people **take** the ashes **and one** person **places** the water on them, the ritual is valid. Since the verse had to be formulated precisely in this manner in order to teach that *halakha*, the words “and he shall place” cannot be understood as coming to exclude a woman.

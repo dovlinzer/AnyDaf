@@ -1,0 +1,77 @@
+### Pesachim 80b
+
+**1.**
+*Hebrew/Aramaic:* טׇהֳרָה מְדַחֲיָא, טוּמְאָה לָא מְדַחֲיָא. וּמָר סָבַר — אֲפִילּוּ טוּמְאָה נָמֵי מְדַחֲיָא.
+*Translation:* A Paschal lamb offered in a state of **purity defers** those who are unable to bring the offering to the second *Pesaḥ*, but a Paschal lamb brought in a state of **impurity does not defer** those who are unable to bring the offering to the second *Pesaḥ*. **And** this **Master,** Rav Adda bar Ahava, who said there is redress, **holds** that **even** a Paschal lamb offered in a state of **ritual impurity defers** those who are unable to bring the offering to the second *Pesaḥ*.
+
+**2.**
+*Hebrew/Aramaic:* אִיתְּמַר: הָיוּ שְׁלִישִׁיתָן זָבִין, וּשְׁלִישִׁיתָן טְהוֹרִין, וּשְׁלִישִׁיתָן טְמֵאֵי מֵתִים — אָמַר רַבִּי מָנִי בַּר פַּטִּישׁ: אוֹתָן טְמֵאֵי מֵתִים אֵינָן עוֹשִׂין לֹא אֶת הָרִאשׁוֹן וְלֹא הַשֵּׁנִי.
+*Translation:* **It was stated** that the Sages discussed the following matter: If **one-third of** the members of the community **were *zavim*, and one-third of them were ritually pure, and one-third of them were ritually impure with impurity imparted by a corpse,** what is the *halakha*? **Rabbi Manni bar Pattish said: Those who were ritually impure with impurity imparted by a corpse do not perform** the ritual of the Paschal lamb **on the first** *Pesaḥ* **or the second** *Pesaḥ*.
+
+**3.**
+*Hebrew/Aramaic:* בָּרִאשׁוֹן לָא עָבְדִי: הִגְדִּילוּ זָבִין עַל הַטְּהוֹרִים, דְּלָא עָבְדִי בְּטוּמְאָה, הָוֵה לֵיהּ טְמֵאֵי מֵתִים מִיעוּטָא — וּמִיעוּטָא לָא עָבְדִי בָּרִאשׁוֹן. בַּשֵּׁנִי לָא עָבְדִי: נִצָּרְפוּ זָבִין עִם טְמֵאֵי מֵתִים, דְּלָא עָבְדִי בָּרִאשׁוֹן, הָווּ לְהוּ רוּבָּא — וְרוּבָּא לָא מִדְּחוּ לְפֶסַח שֵׁנִי.
+*Translation:* **On the first** *Pesaḥ*, **they do not perform** the ritual of the Paschal lamb because **the *zavim* increased** the number of **the ritually pure, as** *zavim* **may not perform** the ritual of the Paschal lamb **in** a state of **impurity.** Therefore, **the ritually impure with impurity imparted by a corpse are the minority, and a minority may not perform** the ritual of the Paschal lamb in a state of ritual impurity **on the first** *Pesaḥ*. **On the second** *Pesaḥ*, **they may not perform** the ritual of the Paschal lamb for a different reason: **The *zavim* are joined with those** who were **ritually impure with impurity imparted by a corpse, who did not perform** the ritual of the Paschal lamb **on the first** *Pesaḥ*. Consequently, **they are the majority, and** the offering of the **majority is not deferred to the second *Pesaḥ*.**
+
+**4.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַפֶּסַח שֶׁנִּזְרַק דָּמוֹ וְאַחַר כָּךְ נוֹדַע שֶׁהוּא טָמֵא — הַצִּיץ מְרַצֶּה. נִטְמָא הַגּוּף — אֵין הַצִּיץ מְרַצֶּה, מִפְּנֵי שֶׁאָמְרוּ: הַנָּזִיר וְעוֹשֵׂה פֶסַח, הַצִּיץ מְרַצֶּה עַל טוּמְאַת הַדָּם, וְאֵין הַצִּיץ מְרַצֶּה עַל טוּמְאַת הַגּוּף.
+*Translation:* MISHNA: In a case of **a Paschal lamb whose blood was sprinkled and subsequently it became known that** the meat or blood **was ritually impure, the frontplate** of the High Priest **appeases** God for the ritual impurity after the fact, and the owners are exempt from observing the second *Pesaḥ*. If it became known later that **the body** of the individual who brought the Paschal lamb **had become ritually impure, the frontplate does not appease** God. The individual has not fulfilled his obligation to bring the Paschal lamb, and therefore he must observe the second *Pesaḥ*. This is **because** the Sages **said** that with regard to **the nazirite and one who performs** the ritual of **the Paschal lamb, the frontplate appeases** God **for** both **impurity of the blood** and meat of the offering, but **the frontplate does not appease** God **for impurity of the body** of the individual bringing the offering.
+
+**5.**
+*Hebrew/Aramaic:* נִטְמָא טוּמְאַת הַתְּהוֹם — הַצִּיץ מְרַצֶּה.
+*Translation:* The mishna introduces a *halakha* with regard to ritual impurity of the deep, a term that refers to a source of impurity that is unknown to anyone and is discovered only after it has rendered someone impure. If it became known after the offering was brought that the person had **become impure** due to **ritual impurity of the deep,** e.g., if he was informed that there was a concealed grave under the place he had sat in a house where he had previously stayed, **the frontplate appeases** God and the offering is valid.
+
+**6.**
+*Hebrew/Aramaic:* גְּמָ׳ טַעְמָא דְּנִזְרַק וְאַחַר כָּךְ נוֹדַע, אֲבָל נוֹדַע וְאַחַר כָּךְ נִזְרַק — לֹא מְרַצֶּה.
+*Translation:* GEMARA: The Gemara begins with an inference with regard to a Paschal lamb that is found to be ritually impure after its blood was sprinkled. **The reason** the frontplate appeases God **is that** the blood **was sprinkled and it subsequently became known** that it was ritually impure. **However,** if it **became known** that it was ritually impure **and** its blood was **subsequently sprinkled,** the frontplate **does not appease** God and the offering is disqualified.
+
+**7.**
+*Hebrew/Aramaic:* וּרְמִינְהוּ: עַל מָה הַצִּיץ מְרַצֶּה? עַל הַדָּם וְעַל הַבָּשָׂר וְעַל הַחֵלֶב שֶׁנִּטְמָא, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד, בֵּין בְּאוֹנֶס בֵּין בְּרָצוֹן, בֵּין בְּיָחִיד בֵּין בְּצִיבּוּר!
+*Translation:* The Gemara **raises a contradiction** from what was taught in a *baraita*: **For what does the frontplate appease** God? It appeases God **for the blood and the meat and the fat that became impure, whether unwittingly or intentionally, whether by circumstances beyond his control or willfully,** and **whether** the offering belonged to **an individual or the public.** This indicates that the frontplate appeases God even when the blood was sprinkled, despite the fact that it was already known that the meat or blood was ritually impure.
+
+**8.**
+*Hebrew/Aramaic:* אָמַר רָבִינָא: טוּמְאָתוֹ, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — הוּרְצָה. זְרִיקָתוֹ, בְּשׁוֹגֵג — הוּרְצָה, בְּמֵזִיד — לֹא הוּרְצָה.
+*Translation:* **Ravina said** that the *baraita* should be understood as follows: With regard to **its ritual impurity,** regardless of whether it became impure **unwittingly or intentionally,** the frontplate appeases God for the impurity and the offering **is accepted.** However, with regard to the **sprinkling** of **its** blood, if it was **unwittingly** sprinkled while the meat was ritually impure, then the offering **is accepted,** but if it was **intentionally** sprinkled while the meat was impure, **it is not accepted.**
+
+**9.**
+*Hebrew/Aramaic:* רַבִּי שֵׁילָא אָמַר: זְרִיקָתוֹ, בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — הוּרְצָה. טוּמְאָתוֹ, בְּשׁוֹגֵג — הוּרְצָה, בְּמֵזִיד — לֹא הוּרְצָה.
+*Translation:* **Rabbi Sheila said** that the *baraita* should be understood as follows: With regard to **sprinkling** the blood of the impure offering, **whether** it was done **unwittingly or intentionally, it is accepted.** However, with regard to the manner in which it contracted **its ritual impurity,** if it became impure **unwittingly** the offering is **accepted,** and if it became impure **intentionally it is not accepted.**
+
+**10.**
+*Hebrew/Aramaic:* אֶלָּא הָא דְּקָתָנֵי: בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד, הָכִי קָאָמַר: נִטְמָא בְּשׁוֹגֵג, וּזְרָקוֹ בֵּין בְּשׁוֹגֵג בֵּין בְּמֵזִיד — הוּרְצָה.
+*Translation:* The Gemara explains: **However, that which was taught** in the *baraita* that the frontplate appeases God regardless of **whether** the impure offering was brought **unwittingly or intentionally, this is** what **it is saying:** If the offering **became impure unwittingly and one sprinkled** its blood, **whether unwittingly or intentionally, it is accepted.**
+
+**11.**
+*Hebrew/Aramaic:* וְהָא דְּקָתָנֵי: דָּם שֶׁנִּזְרַק וְאַחַר כָּךְ נוֹדַע, טַעְמָא דְּנִזְרַק וְאַחַר כָּךְ נוֹדַע, אֲבָל נוֹדַע וְאַחַר כָּךְ נִזְרָק — לָא, הוּא הַדִּין דַּאֲפִילּוּ נוֹדַע וְאַחַר כָּךְ נִזְרַק.
+*Translation:* **And** from **that which was taught** in this mishna with regard to **blood that was sprinkled and subsequently it became known** that the offering was impure, one should not infer that **the reason** the frontplate appeases God **is** specifically **that** the blood **was sprinkled and subsequently it became known** that the offering was impure, **but** if **it became known** that the offering was impure **and subsequently** the blood **was sprinkled,** even unwittingly, the frontplate does **not** appease God. In fact, **the same is true,** i.e., the frontplate appeases God, **even** if the impure status of the offering **became known and** the blood **was subsequently sprinkled.**
+
+**12.**
+*Hebrew/Aramaic:* וְהַאי דְּקָתָנֵי נִזְרַק וְאַחַר כָּךְ נוֹדַע, מִשּׁוּם דְּבָעֵי לְמִתְנֵי סֵיפָא: נִטְמָא הַגּוּף אֵין הַצִּיץ מְרַצֶּה, דַּאֲפִילּוּ נִזְרַק וְאַחַר כָּךְ נוֹדַע — לָא, קָתָנֵי רֵישָׁא נָמֵי: נִזְרַק וְאַחַר כָּךְ נוֹדַע.
+*Translation:* **And that which was taught** in the mishna with regard to blood **that was sprinkled and subsequently it became known** that it was impure, was formulated in that particular way **because** the *tanna* **wanted to teach the latter clause** of the mishna, which states that if **the body** of the individual bringing the Paschal lamb **became impure, the frontplate does not appease** God for his impurity. In this case, **even if** the blood **was sprinkled and subsequently it became known** that the body of the individual had been impure, the frontplate does **not** appease God. Therefore, **he also taught the first clause** in a parallel way, as one in which the blood **was sprinkled and subsequently it became known** that the offering was impure. However, the *halakha* holds true even if the ritual impurity of the blood or meat of the offering was known before the sprinkling of the blood.
+
+**13.**
+*Hebrew/Aramaic:* נִטְמָא טוּמְאַת הַתְּהוֹם וְכוּ׳. בָּעֵי רָמֵי בַּר חָמָא: כֹּהֵן הַמְרַצֶּה בְּקׇרְבְּנוֹתֵיהֶן, הוּתְּרָה לוֹ טוּמְאַת הַתְּהוֹם, אוֹ לָא? מִי אָמְרִינַן כִּי גְּמִירִי טוּמְאַת הַתְּהוֹם — בִּבְעָלִים, בְּכֹהֵן — לָא גְּמִירִי, אוֹ דִילְמָא: בְּזִבְחָא גְּמִירִי, לָא שְׁנָא בְּכֹהֵן וְלָא שְׁנָא בִּבְעָלִים.
+*Translation:* It was taught in the mishna that if one **became ritually impure through impurity of the deep,** the frontplate appeases God. **Rami bar Ḥama raised a dilemma:** With regard to the **priest who facilitates acceptance of their offerings,** i.e., who performs the service of the Paschal lamb or the offerings of the nazirite, is **ritual impurity of the deep permitted for him** too **or not? Do we say** that **they learned** the leniency of **impurity of the deep** through oral tradition only **with regard to the owners** of the offering, but **they did not learn** through oral tradition that it applies also **to a priest? Or perhaps they learned** through oral tradition that this leniency applies to **the sacrifice** of the Paschal lamb and the offering of a nazirite, and therefore it is **no different** whether **the priest** was impure **or** whether **the owners** were impure.
+
+**14.**
+*Hebrew/Aramaic:* אָמַר רָבָא: תָּא שְׁמַע, דְּתָנֵי רַבִּי חִיָּיא: לֹא אָמְרוּ טוּמְאַת הַתְּהוֹם אֶלָּא לְמֵת בִּלְבַד. מֵת לְמַעוֹטֵי מַאי? לָאו לְמַעוֹטֵי טוּמְאַת הַתְּהוֹם דְּשֶׁרֶץ?
+*Translation:* **Rava said: Come** and **hear** a resolution to this question, **as Rabbi Ḥiyya taught** that **they stated** the rule of **impurity of the deep only with regard to** ritual impurity imparted by **a corpse.** The Gemara infers: Ritual impurity imparted by **a corpse** was specified **to exclude what? Is it not to exclude impurity of the deep of a creeping animal,** so that in a case of impurity caused by a creeping animal that had not been known, the frontplate does not appease God?
+
+**15.**
+*Hebrew/Aramaic:* וּבְמַאי עָסְקִינַן? אִי נֵימָא בִּבְעָלִים, וּבְמַאן — אִי בְּנָזִיר, מִי מַהֲנֵי בֵּיהּ? ״כִּי יָמוּת מֵת עָלָיו״ אָמַר רַחֲמָנָא.
+*Translation:* **And with what are we dealing? If we say** that we are dealing **with** a case where **the owners** became impure, **to whom** does this apply? **If** it applies **to a nazirite, is** impurity imparted by a creeping animal **effective** in interrupting his term as a nazirite and requiring him to bring offerings? **The Merciful One states: “And if any man shall die** very suddenly **beside him** and contaminate his nazirite head, he shall shave his head on the day of his purification; on the seventh day shall he shave it” (Numbers 6:9). This indicates that one’s term as a nazirite is interrupted only due to ritual impurity imparted by a corpse and not due to the impurity imparted by a creeping animal.
+
+**16.**
+*Hebrew/Aramaic:* אֶלָּא בְּעוֹשֵׂה פֶסַח. הָנִיחָא לְמַאן דְּאָמַר אֵין שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵאֵי שֶׁרֶץ. אֶלָּא לְמַאן דְּאָמַר שׁוֹחֲטִין וְזוֹרְקִין עַל טְמֵאֵי שֶׁרֶץ, הַשְׁתָּא טוּמְאָה יְדוּעָה הוּתְּרָה לוֹ, טוּמְאַת הַתְּהוֹם לֹא כׇּל שֶׁכֵּן?!
+*Translation:* **Rather,** say that we are dealing with **one performing** the ritual of **the Paschal lamb.** If so, **it works out well according to the one who said one may not slaughter** the Paschal lamb **and sprinkle** its blood **for** those who are **impure from creeping animals,** and therefore there is reason to discuss impurity of the deep. **However, according to the one who said** that **one may slaughter and sprinkle** the blood of the Paschal lamb **for** those who are **impure from creeping animals** so that they will be able to eat its meat at night, when they are pure, **now** you have said that **known impurity is permitted for him,** meaning that even when it is clear that one is ritually impure from a creeping animal, he is not prevented from participating in the Paschal lamb. In that case, with regard to **impurity of the deep, is it not all the more so** true that he is permitted to offer the Paschal lamb?
+
+**17.**
+*Hebrew/Aramaic:* אֶלָּא לָאו — בְּכֹהֵן, וּשְׁמַע מִינַּהּ הוּתְּרָה לוֹ טוּמְאַת הַתְּהוֹם!
+*Translation:* **Rather, is** Rabbi Ḥiyya **not** referring to **a priest** who has become ritually impure? **Learn from here that impurity of the deep is permitted for** a priest.
+
+**18.**
+*Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: לֹא, לְעוֹלָם בִּבְעָלִים, וּבְפֶסַח. וּלְמַעוֹטֵי טוּמְאַת הַתְּהוֹם דְּזִיבָה.
+*Translation:* **Rav Yosef said: No,** this cannot be proven from Rabbi Ḥiyya’s statement. **Actually,** it is possible to say that Rabbi Ḥiyya was referring to a case where **the owners** became ritually impure with impurity of the deep, and they intended to offer **the Paschal lamb. And** the limitation of the leniency to a case of ritual impurity imparted by a corpse is meant **to exclude impurity of the deep** imparted by **the discharge of a *zava*.** The frontplate does not appease God with regard to ritual impurity from impure discharges that are unknown.
+
+**19.**
+*Hebrew/Aramaic:* וְטוּמְאַת תְּהוֹם דְּזִיבָה לֹא מְרַצֶּה? וְהָתַנְיָא, רַבִּי יוֹסֵי אוֹמֵר: שׁוֹמֶרֶת יוֹם כְּנֶגֶד יוֹם שֶׁשָּׁחֲטוּ וְזָרְקוּ עָלֶיהָ
+*Translation:* The Gemara asks: **Does** the frontplate **not appease** God with regard to **ritual impurity of the deep** imparted by **the discharge of a *zava*? Wasn’t it taught** in a *baraita* that **Rabbi Yosei says: A woman who keeps watch a day for a day** is a woman who discharges blood for one or two days at a time when she does not expect her menstrual period. The case under discussion is one where she experienced a discharge for one day and **they slaughtered** a Paschal lamb **and sprinkled** the blood **for her**
