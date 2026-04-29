@@ -222,7 +222,7 @@ Rabbi *Yochanan*'s explanation continues: *zutari aytei belo da'ata d'atu* — D
 
 ---
 
-## Where Was Daniel?…
+## Where Was Daniel? (II)
 
 ### God's Reason
 

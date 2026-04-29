@@ -128,7 +128,7 @@ Rav Ashi offered the resolution: *chazina* — we assess the facts on the ground
 
 ---
 
-## Town Sale
+## Town Sale (II)
 
 ### Town Structures
 
@@ -166,7 +166,7 @@ The Gemara records two interpretive traditions. The first, cited as the local Pa
 
 ---
 
-## Town Sale (continued)
+## Town Sale (II)
 
 ### Slave Status
 
@@ -188,7 +188,7 @@ The answer: *shani be-mitaltlei de-nayyadi mi-mitaltlei de-lo nayyadi* — there
 
 ---
 
-## Santar Debate (continued)
+## Santar Debate (II)
 
 ### Santar Scribe
 

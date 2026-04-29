@@ -258,7 +258,7 @@ Rav Sheshet addresses Rabbi Yitzchak: go tell him, he says to his students, that
 
 ---
 
-## Rav Huna Citation…
+## Rav Huna Citation (II)
 
 ### Corpse Story
 

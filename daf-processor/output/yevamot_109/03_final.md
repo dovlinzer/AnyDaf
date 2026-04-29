@@ -106,7 +106,7 @@ The actual question, Rabbi Yishmael bar Rabbi Yose insists, involved a far more 
 
 A related question arises in connection with retroactive *me'un* after death: specifically, whether *me'un* may be performed posthumously *bimkom mitzvah* — where performing it would enable *yibum* that would otherwise be impossible. Two scholars were dispatched at great cost to bring this question to Rabbi Akiva in prison, and both he and Rabbi Yehuda ben Beteira ruled it forbidden. The case involved the *zikah* relationship and whether *me'un* can operate retroactively once the first husband has already died, effectively reaching back in time to unwind a prior marriage that no longer exists in any tangible form. The conclusion here is that *me'un* cannot function in that posthumous mode, even for the worthy purpose of enabling *de'oraisa yibum*.
 
-## Me'un After Get…
+## Me'un After Get (II)
 
 ### Practical Resolution
 
@@ -126,7 +126,7 @@ The *gemara* then raises a counterpoint: one might argue that since we have alre
 
 The practical implication is striking and worth stating explicitly: the *gemara* is operating on the assumption that a second man's *me'un* is genuinely effective as a matter of principle. The entire edifice of what the *gemara* forbids or permits flows not from doubts about the *me'un*'s power but from precautionary concerns about the first husband's potential misconduct. And notably, the *gemara* leaves unexplored the question of whether she could thereby marry a *kohen* — since that too would seem to be answered in the affirmative if her *gerushah* status has genuinely been erased.
 
-## Divorce & Remarriage…
+## Divorce & Remarriage (II)
 
 ### Simple Case Setup
 

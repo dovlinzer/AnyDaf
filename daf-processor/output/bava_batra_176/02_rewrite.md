@@ -60,7 +60,7 @@ The *gemara* elsewhere offers an additional avenue of explanation: a debt whose 
 
 ---
 
-## Heirs vs. Purchasers…
+## Heirs vs. Purchasers (II)
 
 ### Rav Papa's Halakha
 

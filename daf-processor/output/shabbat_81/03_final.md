@@ -92,7 +92,7 @@ A *baraita* gives a concrete measure: Rabbi Eliezer ben Yaakov holds that the st
 
 ---
 
-## Bathroom & Dignity
+## Bathroom & Dignity (II)
 
 ### Zonim Question
 
@@ -202,7 +202,7 @@ The Gemara then resolves an apparent contradiction: if wiping with a previously 
 
 ---
 
-## Grass & Witchcraft
+## Grass & Witchcraft (II)
 
 ### Fields & Grass
 

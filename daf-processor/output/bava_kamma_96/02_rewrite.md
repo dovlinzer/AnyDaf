@@ -36,7 +36,7 @@ Tosafot addresses this directly, explaining that the *gazlan*'s entitlement to t
 
 The purpose of the enactment is to lower the barrier to repentance and return. If a *gazlan* who has increased the value of a stolen object is required to return not only the principal but also every bit of the increase, he may be discouraged from returning it at all. By allowing him to retain the *shevach*, the Rabbis created an incentive to return the *keren* — the principal — even at the cost of the increase. The fact that the *gemara* here describes this benefit as belonging to the *gazlan* without explicit reference to *shinuy* lends support to Tosafot's reading that the underlying principle is institutional rather than legal-theoretical.
 
-## Yehuda vs. Shimon…
+## Yehuda vs. Shimon (II)
 
 ### Portion Amount
 

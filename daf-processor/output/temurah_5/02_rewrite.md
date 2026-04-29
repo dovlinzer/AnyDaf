@@ -152,7 +152,7 @@ Abaye, who needed *hem* for a different purpose, derives *ein olim mevatlin* fro
 
 ---
 
-## Consecrated Animals…
+## Consecrated Animals (II)
 
 ### Maaser Case
 

@@ -126,7 +126,7 @@ These are conceptually distinct. *Mili lo mimsaran l'shaliach* addresses what ha
 
 ---
 
-## Mili vs. Omer Imru…
+## Mili vs. Omer Imru (II)
 
 ### Rabbi Yosi: Both
 
@@ -138,7 +138,7 @@ Shmuel, by contrast, accepts *mili lo mimsaran l'shaliach* — he rules like Reb
 
 ---
 
-## Kitvu Meaning Debate…
+## Kitvu Meaning Debate (II)
 
 ### Shmuel's Split
 
@@ -176,7 +176,7 @@ The *Gemara* now examines the practical ruling. The case is: *amar lishnayim imr
 
 ---
 
-## Lo Ta'aseh Practice…
+## Lo Ta'aseh Practice (II)
 
 ### Woman Hiring Concern
 
@@ -194,7 +194,7 @@ The practical bottom line is nuanced. The *halacha* of *mili lo mimsaran l'shali
 
 ---
 
-## Witnesses Find Sofer…
+## Witnesses Find Sofer (II)
 
 ### Hired Witnesses Fear
 

@@ -38,7 +38,7 @@ For a modern reader, the notion that the rapist must marry his victim is deeply 
 
 A serious pedagogical problem attends the study of this *perek*, and it deserves to be named. Because the chapter is studied so widely in *yeshivos* as a vehicle for abstract legal analysis, the actual human reality that underlies it tends to disappear entirely from view. The words *ones* and *mefateh* — rapist and seducer — become technical legal categories, not descriptions of real acts committed against real women. Nobody uses the word "rape" in the learning, which would be deeply disturbing and would force a confrontation with the real world. The entire *perek* can be traversed as a set of interesting conceptual problems in *Shas* while the human situation that generated those laws remains completely bracketed. This is particularly acute in contexts where the Hebrew vocabulary does not carry the immediate emotional register it would carry for a native Hebrew speaker, and the Aramaic terminology of the Gemara adds another layer of abstraction. It is a real problem in how this material is transmitted, and it is worth pausing to acknowledge it before proceeding.
 
-## Forbidden Women…
+## Forbidden Women (II)
 
 ### Netinah Category
 

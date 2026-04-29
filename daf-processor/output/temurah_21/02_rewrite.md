@@ -108,7 +108,7 @@ Two distinctions are offered. First, in the *Menachot* case, the animal started 
 
 ---
 
-## Three Tannaic Opinions
+## Three Tannaic Opini (III)ons
 
 ### Contradiction Setup
 
@@ -116,7 +116,7 @@ The *gemara* now addresses an apparent contradiction regarding bringing *bechor*
 
 ---
 
-## Rabbi Akiva
+## Rabbi Akiva (III)
 
 ### Akiva's Distinction
 
@@ -124,7 +124,7 @@ Rabbi Akiva's position is: *yachol ya'aleh bechor michutz la'aretz la'aretz bizm
 
 ---
 
-## Three Tannaic Opinions…
+## Three Tannaic Opini (III)ons…
 
 ### Rabbi Yishmael
 
@@ -138,7 +138,7 @@ The *talmud lomar* — the verse itself — resolves the matter: *ve'achalta lif
 
 ---
 
-## Rabbi Akiva…
+## Rabbi Akiva (III)
 
 ### Akiva's Derivation
 
@@ -148,7 +148,7 @@ The underlying rationale for Rabbi Akiva's position is conceptual. The obligatio
 
 ---
 
-## Three Tannaic Opinions…
+## Three Tannaic Opini (III)ons…
 
 ### Common Denominator Q
 
@@ -176,7 +176,7 @@ The *gemara* then raises the objection of Rabbi Yochanan's rule: *kol hatorah ku
 
 ---
 
-## Rabbi Akiva…
+## Rabbi Akiva (III)
 
 ### Agricultural Basis
 

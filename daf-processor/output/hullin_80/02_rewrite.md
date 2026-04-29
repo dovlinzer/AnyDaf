@@ -86,7 +86,7 @@ The Gemara then cites a *Tosefta* that reveals the same dispute already existed 
 
 ---
 
-## Wild & Domestic Species
+## Wild & Domestic Spec (II)
 
 ### Wild Goats & Ten Types
 
@@ -104,7 +104,7 @@ Several objections are raised to this framework. Rav Acha bar Yaakov asks: perha
 
 ---
 
-## Wild & Domestic Specie…
+## Wild & Domestic Spec (II)
 
 ### Ameimar Position
 

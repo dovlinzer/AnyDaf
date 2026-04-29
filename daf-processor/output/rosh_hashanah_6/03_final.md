@@ -52,7 +52,7 @@ What the *gemara* here accomplishes is to narrow it: whatever applies in the cas
 
 ---
 
-## Motza Sefatecha Drasha
+## Motza Sefatecha Dras (II)
 
 ### Why Need Motza
 
@@ -102,7 +102,7 @@ One question left open by the *gemara* is how to categorize a pledge made to a s
 
 ---
 
-## Motza Sefatecha Drasha (continued)
+## Motza Sefatecha Dras (II)
 
 ### Two Stages
 
@@ -112,7 +112,7 @@ One question left open by the *gemara* is how to categorize a pledge made to a s
 
 ---
 
-## Rava Severity
+## Rava Severity (III)
 
 ### Rava I: Immediate
 

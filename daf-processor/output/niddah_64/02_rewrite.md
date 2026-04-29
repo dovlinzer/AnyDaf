@@ -134,7 +134,7 @@ The general tendency among the *rishonim* is that a *veset kavua* must be *repla
 
 ---
 
-## Dam Betulim Intro
+## Dam Betulim Intro (III)
 
 ### Women as Vines
 
@@ -162,7 +162,7 @@ If, however, the bleeding occurs consistently regardless of position — she ble
 
 ---
 
-## Dam Betulim Intro…
+## Dam Betulim Intro (III)
 
 ### Rabbi Yehuda
 
@@ -186,7 +186,7 @@ According to *Rav*, this phrasing of "until *Motzaei Shabbat*" is simply the nat
 
 ---
 
-## Dam Betulim Intro……
+## Dam Betulim Intro (III)…
 
 ### Blood & Fertility
 
@@ -218,7 +218,7 @@ For a woman who has already menstruated prior to marriage — and thus cannot cl
 
 ---
 
-## Pubescent, No Period…
+## Pubescent, No Period (II)
 
 ### One vs. Four Nights
 

@@ -178,7 +178,7 @@ Rabbeinu Tam extends this reasoning further: *va'afilu achar kama yamim* — eve
 
 ---
 
-## Marks: Biblical or Rabbinical?
+## Marks: Biblical or R (II)
 
 ### Simanim Status
 
@@ -198,7 +198,7 @@ The Gemara challenges this inference from a ruling in *Gittin*. If a *get* was f
 
 ---
 
-## Rava's Resolution
+## Rava's Resolution (II)
 
 ### Everyone Accepts Simanim
 

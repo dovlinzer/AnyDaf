@@ -148,7 +148,7 @@ A separate *baraita* is then cited: *lo tasgir eved el adonav* — *Rebbi* inter
 
 ---
 
-## Runaway Slave Case…
+## Runaway Slave Case (II)
 
 ### Samaritans Episode
 

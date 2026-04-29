@@ -218,7 +218,7 @@ The *bei korsaia* case is different. Here, the man is not working within the rab
 
 ---
 
-## Ruling & Implications
+## Ruling & Implication (II)
 
 ### Reiteration
 
@@ -230,7 +230,7 @@ The practical ruling that emerges from the entire preceding discussion: *Rav Yos
 
 ---
 
-## Hafka'as Kiddushin…
+## Hafka'as Kiddushin (II)
 
 ### Tosafot's Doubt
 
@@ -258,7 +258,7 @@ The *sugyot* thus align clearly: the *bei korsaia* case is the only instance in 
 
 ---
 
-## Ruling & Implications…
+## Ruling & Implication (II)
 
 ### Rav Yosef's Ruling
 

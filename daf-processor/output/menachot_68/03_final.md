@@ -136,7 +136,7 @@ An additional point worth noting: *chadash* also carries the stringency of *dava
 
 ---
 
-## Processing Stages…
+## Processing Stages (II)
 
 ### Roasted Grain Heker
 

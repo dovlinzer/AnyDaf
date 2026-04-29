@@ -180,7 +180,7 @@ One important caveat: in all the cases where the witnesses fall short of the cri
 
 ---
 
-## Two Witnesses…
+## Two Witnesses (II)
 
 ### K'dei Dibur
 

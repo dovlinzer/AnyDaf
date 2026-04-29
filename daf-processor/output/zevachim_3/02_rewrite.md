@@ -132,7 +132,7 @@ On first impression, this again seems to contradict the principle. Thinking of G
 
 ---
 
-## Shinui Kodesh…
+## Shinui Kodesh (II)
 
 ### Precision Level
 
@@ -142,7 +142,7 @@ This is not a case where proximity renders something less dangerous despite the 
 
 ---
 
-## Shinui Be'alim…
+## Shinui Be'alim (II)
 
 ### Vekipper Alav
 

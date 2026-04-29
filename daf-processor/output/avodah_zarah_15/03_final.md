@@ -148,7 +148,7 @@ This is a striking principle. The operative question is not the formal structure
 
 ---
 
-## Rabbah vs. Abaye
+## Rabbah vs. Abaye (II)
 
 ### Suspect Buyer
 
@@ -212,7 +212,7 @@ And this conclusion feeds directly back into Abaye's challenge to Rabbah: Rav Na
 
 ---
 
-## Rabbah vs. Abaye (Continued)
+## Rabbah vs. Abaye (II)
 
 ### Rav Nachman Rules
 

@@ -268,7 +268,7 @@ The *gemara* then appends an intriguing aggadic tradition. Rabbi Miryon citing R
 
 ---
 
-## Shiur: Tefachim…
+## Shiur: Tefachim (II)
 
 ### Three and Four
 

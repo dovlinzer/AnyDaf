@@ -1,6 +1,6 @@
 # Niddah 51 — Daf Yomi Shiur
 
-## Dead Bird & Machshava
+## Dead Bird & Machshav (II)
 
 ### Context & Background
 
@@ -52,7 +52,7 @@ The *Gemara* concludes that this is a powerful argument, pressing hard against t
 
 ---
 
-## Dead Bird & Machshava…
+## Dead Bird & Machshav (II)
 
 ### Rava's Answer
 
@@ -138,7 +138,7 @@ This distinction is confirmed by a *Mishnah*: *ha-shaves mishe-nitnah ta'am bi-k
 
 ---
 
-## Category Connections…
+## Category Connections (II)
 
 ### Scales & Fins
 
@@ -158,7 +158,7 @@ With this, the entire digression concludes, and tomorrow we return to the standa
 
 ---
 
-## Spices Status…
+## Spices Status (II)
 
 ### Rav Kahana
 

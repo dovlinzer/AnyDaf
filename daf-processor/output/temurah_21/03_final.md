@@ -160,7 +160,7 @@ Two distinctions are offered. First, in the *Menachot* case, the animal started 
 
 ---
 
-## Three Tannaic Opinions
+## Three Tannaic Opini (III)ons
 
 ### Contradiction Setup
 
@@ -172,7 +172,7 @@ The *gemara* now addresses an apparent contradiction regarding bringing *bechor*
 
 ---
 
-## Rabbi Akiva
+## Rabbi Akiva (III)
 
 ### Akiva's Distinction
 
@@ -202,7 +202,7 @@ The *talmud lomar* — the verse itself — resolves the matter: *ve'achalta lif
 
 ---
 
-## Rabbi Akiva Derivation
+## Rabbi Akiva (III) Derivation
 
 ### Akiva's Derivation
 

@@ -1,6 +1,6 @@
 # Sotah 21 — Daf Yomi Shiur
 
-## Merit Forestall Punishme…
+## Merit Forestall Puni (II)
 
 ### Merit Three Years
 
@@ -70,7 +70,7 @@ The contrast with the *sotah* herself is also worth observing. The *sotah* was w
 
 ---
 
-## Merit Forestall Punish…
+## Merit Forestall Puni (II)
 
 ### Crossroads Interpretatio…
 

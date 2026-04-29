@@ -14,13 +14,13 @@ The question naturally arises as to whether this *halacha* applies nowadays when
 
 Another important concept in this area concerns the *muktzeh* status of candles. If a candle was lit during *bein hashmashos* — the twilight period between Friday and *Shabbat* — it becomes *muktzeh* for the entire day. This follows from the principle of *migo d'itaktzai l'bein hashmashos itaktzai l'kuly yoma*: since the object was set aside at the onset of the holy day, that status persists through the whole of *Shabbat*. Accordingly, even if the candle goes out in the middle of the night, one still may not move the candlestick, because it was a *basis l'davar assur* — a base for a forbidden object — at the moment *Shabbat* began.
 
-## Kinyan: Gold & Silver
+## Kinyan: Gold & Silve (II)
 
 ### Gold Acquires Silver
 
 At the bottom of the preceding page — 46b — the *mishnah* states: *haZahav koneh et haKesef vehaKesef eino koneh et haZahav*, gold acquires silver, but silver does not acquire gold. According to the *mishnah*, gold is considered *peira* — a commodity — while silver is considered *matbeia*, currency. The governing rule of *kinyanim* is that the commodity acquires the currency: if one performs *meshichah* on the commodity, the currency is acquired by the seller wherever it may be. But if one pulls the currency, the commodity is not acquired to the buyer until the buyer separately performs *meshichah* on the commodity itself.
 
-## Kinyan: Gold & Silver…
+## Kinyan: Gold & Silve (II)
 
 ### Rav vs. Levi Debate
 
@@ -118,7 +118,7 @@ The *neshama* descends from a very elevated place specifically in order to perfo
 
 The Arizal HaKadosh teaches that certain *mitzvot* call to a person more powerfully than they do to others — not that they are easier, but that one finds oneself drawn to be especially careful and exacting in their performance. That particular *mitzvah* is very likely one's *tikkun*. And conversely, something that a person finds exceptionally difficult may also be part of what he must rectify — whether it manifests as a love for a *mitzvah* or as a struggle against a particular inclination.
 
-## Neshama vs. Guf…
+## Neshama vs. Guf (II)
 
 ### Neshama as Royalty
 

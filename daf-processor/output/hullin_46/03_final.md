@@ -355,7 +355,7 @@ Amimar rules that this comparison method does not apply in areas where blisters 
 
 ---
 
-## Conclusion…
+## Conclusion (II)
 
 ### Session End
 

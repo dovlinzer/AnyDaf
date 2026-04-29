@@ -1,6 +1,6 @@
 # Sotah 41 — Daf Yomi Shiur
 
-## High Priest's Blessing
+## High Priest's Blessi (II)
 
 ### High Priest Intro
 
@@ -72,7 +72,7 @@ The *navi*, by contrast, does not carry the same weight of obligatory practice. 
 
 ---
 
-## High Priest's Blessing…
+## High Priest's Blessi (II)
 
 ### No Scrolling Rule
 
@@ -128,7 +128,7 @@ The *gemara* then asks why all the different temporal designations in the *pasuk
 
 ---
 
-## Honor Display…
+## Honor Display (II)
 
 ### King's Progression
 

@@ -176,7 +176,7 @@ The *Gemara* responds: that incident was not performed on the authority of Rabbi
 
 ---
 
-## Suspended Walls…
+## Suspended Walls (II)
 
 ### Sefer Torah Case
 

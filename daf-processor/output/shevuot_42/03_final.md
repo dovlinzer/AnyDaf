@@ -404,7 +404,7 @@ Yet if the debtor truly could not deny it all, why does he not admit the full am
 
 ---
 
-## Chutzpah Principle…
+## Chutzpah Principle (II)
 
 ### Father vs. Son
 
@@ -420,7 +420,7 @@ The *Rabbanan* disagree. They hold that while a person will not have the *chutzp
 
 ---
 
-## Self-Claim Oath…
+## Self-Claim Oath (II)
 
 ### Claim Status
 

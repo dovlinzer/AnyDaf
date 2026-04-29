@@ -104,7 +104,7 @@ In application, then: according to *Rebbi*, the question is whether the skin was
 
 ---
 
-## R. Eliezer & R. Yehoshua
+## R. Eliezer & R. Yeho (II)
 
 ### R. Yehoshua: Interdepend…
 
@@ -124,7 +124,7 @@ The *gemara* now asks whether the debate of *Rebbi* and *Rabbi Elazar beRabbi Sh
 
 ---
 
-## R. Eliezer & R. Yehosh…
+## R. Eliezer & R. Yeho (II)
 
 ### Gemara Equations Debates
 

@@ -212,7 +212,7 @@ The tension is irreducible. The system demands physical perfection; the prophets
 
 ---
 
-## Androgynous Status…
+## Androgynous Status (II)
 
 ### Yishmael Position
 

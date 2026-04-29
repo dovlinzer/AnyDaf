@@ -78,7 +78,7 @@ Turning to the *mishna*'s ruling regarding *ma'aser sheni* money — that one ma
 
 ---
 
-## Accumulating Shekalim
+## Accumulating Shekali (II)
 
 ### Hamachnis Maos
 
@@ -90,7 +90,7 @@ When it comes time to pay, the person counts his coins and finds he has more tha
 
 ---
 
-## Transfer of Sanctity…
+## Transfer of Sanctity (II)
 
 ### Hekdesh Cannot Transfer
 
@@ -98,7 +98,7 @@ Why does the *mishna* offer a transfer remedy for *ma'aser sheni* but not for *h
 
 ---
 
-## Accumulating Shekalim…
+## Accumulating Shekali (II)
 
 ### Beis Hillel: Motar Chulin
 
@@ -114,7 +114,7 @@ A parallel: if one declared "these coins are for my *chatat*" (*korban* of sin-o
 
 ---
 
-## Rabbi Shimon's Explanati…
+## Rabbi Shimon's Expla (II)
 
 ### Shekalim vs Chatat
 
@@ -142,7 +142,7 @@ Finally, *bikshu lishkol dinarim* — they wished to lower the amount further, t
 
 ---
 
-## Rabbi Shimon's Explana…
+## Rabbi Shimon's Expla (II)
 
 ### Rabbi Shimon Replies
 

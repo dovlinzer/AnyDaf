@@ -98,7 +98,7 @@ Rav Yosef raises an apparent difficulty: old slaves, even when infirm, are somew
 
 ---
 
-## Husband Expenses
+## Husband Expenses (II)
 
 ### Investment Risk
 
@@ -128,7 +128,7 @@ The judges of Pumbedita report that *Rav Yehuda* acted on a case involving *chaz
 
 ---
 
-## Oath Requirement
+## Oath Requirement (II)
 
 ### Minor Wife
 
@@ -180,7 +180,7 @@ This limitation has implications beyond the specific case of divorce that Rashi 
 
 ---
 
-## Oath Requirement
+## Oath Requirement (II)
 
 ### Oath Debate
 
@@ -200,7 +200,7 @@ Rava's resolution stands as the final ruling: *Ela amar Rava: she-im hayta hotza
 
 ---
 
-## Husband Expenses
+## Husband Expenses (II)
 
 ### Sharecroppers Deal
 

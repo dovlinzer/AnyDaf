@@ -1,6 +1,6 @@
 # Niddah 62 — Daf Yomi Shiur
 
-## Seven Cleansers Intro
+## Seven Cleansers Intr (II)
 
 ### Opening & Context
 
@@ -42,7 +42,7 @@ Reading the *mishnah* closely reveals several implicit assumptions worth flaggin
 
 There is also a third implicit point worth noting. If we read the *mishnah* at face value, the non-removal of the stain by the seven cleansers proves *definitively* that it is not blood. But if that is so, why was immersion necessary at all? If we knew it was not blood even before immersion, the garment should have been permitted without any *mikveh*. One possible reading is that the *mishnah* is simply presenting the extreme version of the second case — emphasizing that even having immersed, one has not helped the situation if the stain was blood. But *Tosafot* raises the deeper question: perhaps the failure of the cleansers is not absolute proof of non-blood status, but only strong evidence. In that reading, the combination of factors — the likelihood that it is not blood, plus the prior immersion — together produces the leniency. This question of whether the cleansers *prove* the stain is not blood or merely *indicate* it will drive much of the *gemara*'s subsequent discussion.
 
-## Seven Cleansers Intro…
+## Seven Cleansers Intr (II)
 
 ### Application Method
 

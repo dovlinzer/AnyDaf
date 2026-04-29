@@ -110,7 +110,7 @@ Rav Papa reconciles the two positions: *ve-lo peligi* — they do not actually d
 
 Notably, Rav's position was not stated explicitly; it was derived from a practical case — *mikhalla itmar* — deduced from the story that follows.
 
-## Trespass Planting…
+## Trespass Planting (II)
 
 ### Fencing Evidence
 

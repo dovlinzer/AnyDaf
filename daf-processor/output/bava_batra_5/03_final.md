@@ -142,7 +142,7 @@ The case was brought before Rava. Rava told Runya: *zil payisei be-mai de-mifayi
 
 Tosafot raises the question of whether Rava's threat was genuine or merely rhetorical — a device to pressure Runya into accepting the compromise. The Gemara elsewhere employs recognizable hyperbolic phrases when rabbis threaten litigants: "I will seize your home," "I will not let you be," and so on. These phrases signal that the actual *halacha* may be less severe and that the threat is persuasive rather than substantive. Here, however, Rava used none of those standard formulas. Tosafot concludes that the absence of hyperbolic language suggests that Rava's ruling was the genuine *psak*: the actual *halacha* is full payment according to the cost of the wall, and because Ravina was willing to accept less, Rava urged Runya to take advantage of that generosity. But if Runya remained intransigent, the full amount would indeed be imposed.
 
-## Bar Metzra Case
+## Bar Metzra Case (II)
 
 ### Bar Metzra Claim
 
@@ -168,7 +168,7 @@ Rashi's first reading of *arba letzalla arba letzlalla* understands it as a cont
 
 Rashi's third reading is the most analytically compelling. On this reading, Runya himself had a field within or adjacent to the contested area, such that Runya might actually have had his own *bar metzra* claim — perhaps on a different boundary. Ravina could have had a stronger claim as a neighbor on three sides, while Runya was a neighbor on one side only, which might normally give Ravina greater priority. But the phrase *arba letzalla arba letzlalla* is interpreted through an analogy of a poor tanner versus a wealthy tanner. A poor tanner spends four units of expense to process a small piece of leather; a rich tanner spends the same four units to process a large piece. The wealthy tanner already enjoys economy of scale — his fixed costs are distributed across a much larger output, so each unit costs him proportionally less. The poor tanner, with a small operation, bears the full weight of those four units against far less production. Giving the poor tanner the adjacent piece of leather — or the adjacent plot of land — reduces his per-unit cost dramatically; giving it to the rich tanner produces a negligible marginal benefit because he already benefits from scale. On this reading, Runya actually gains more from acquiring the adjacent field than Ravina does, even if Ravina's formal *bar metzra* priority might appear stronger. This third reading has the advantage of remaining within legal rather than purely moral territory.
 
-## Bar Metzra Case — Continued
+## Bar Metzra Case (II)
 
 ### Tosafot Challenge
 

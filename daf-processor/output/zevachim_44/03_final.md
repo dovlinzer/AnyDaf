@@ -256,7 +256,7 @@ Finally, the phrase *asher yashivu li* — "that which they return to Me" — is
 
 ---
 
-## R. Eliezer Parim
+## R. Eliezer Parim (II)
 
 ### Outside Acts
 
@@ -298,7 +298,7 @@ Rabbi Yehoshua ben Levi asks: what is the scriptural basis for this limiting con
 
 ---
 
-## R. Eliezer Parim (Halacha)
+## R. Eliezer Parim (II)
 
 ### Halacha
 

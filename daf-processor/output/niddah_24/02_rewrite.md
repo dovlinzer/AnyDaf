@@ -142,7 +142,7 @@ This also dissolves Rabbi Yochanan's challenge to Resh Lakish. The *mishnah*'s s
 
 ---
 
-## Facial Deformation…
+## Facial Deformation (II)
 
 ### Stringency Leniency
 
@@ -176,7 +176,7 @@ Rav Shimi bar Chiyya challenges Rav from a Mishnah. The Mishnah in the context o
 
 ---
 
-## Conjoined Twins…
+## Conjoined Twins (II)
 
 ### Rav Bent Spine
 

@@ -88,7 +88,7 @@ Having established Rabbi Yosi HaGlili's position — that the entire *mizbeach* 
 
 ---
 
-## Damaged Altar
+## Damaged Altar (II)
 
 ### Rav's Rule
 
@@ -130,7 +130,7 @@ The Gemara identifies the root of the dispute: Rav holds *ba'alei chayim einam n
 
 ---
 
-## Damaged Altar (continued)
+## Damaged Altar (II)
 
 ### Before Altar Built
 

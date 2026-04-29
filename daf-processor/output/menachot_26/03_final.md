@@ -1,6 +1,6 @@
 # Menachot 26 — Daf Yomi Shiur
 
-## Remnants & Kometz
+## Remnants & Kometz (III)
 
 ### Mishna Overview
 
@@ -42,7 +42,7 @@ The *gemara*'s discussion of the *tzitz* bears clarification. When it asks wheth
 
 A related question, noted but not yet fully resolved in the tractate, is whether the *ritzui* of the *tzitz* requires the *Kohen Gadol* to actually be wearing it at the moment, or whether the mere existence of the *tzitz* — so long as it has not been broken or lost — is sufficient. That debate remains open.
 
-## Remnants & Kometz…
+## Remnants & Kometz (III)
 
 ### Shiura Requirement
 
@@ -72,13 +72,13 @@ Rav Papa rules that this reasoning is rejected. The *minchat nesachim* is not co
 
 A *baraita* confirms that for Rabbi Yehoshua, what is needed is that a *kezayit* of the animal itself — either of the parts to be burned or the parts to be eaten — be present at the time of *zerikat hadam*. The *baraita* also introduces the question of the *minchat nesachim* — the *mincha* that accompanies the wine libation brought together with an animal sacrifice.
 
-## Tzitz Validation…
+## Tzitz Validation (II)
 
 ### Tzitz Wearing
 
 The question of whether the *tzitz* requires active wearing by the *Kohen Gadol* or whether its mere presence suffices is a debate that surfaces in the *gemara*, though it has not yet been explicitly encountered in the course of this tractate's discussion. Under normal circumstances, the *Kohen Gadol* wore the *tzitz* as part of his standard priestly vestments whenever he performed the *avodah*. The practical upshot of the *tzitz*'s *ritzui* is not to permit eating *tamei* portions *lechatchilah*, but rather that *bedi'avad*, if a *korban* was offered under such circumstances, it is considered accepted. This is the framework within which Rabbi Eliezer's position operates as well — he holds that even if the entire *shirayim* are gone, the *korban* is valid — though the *gemara*'s analysis of *tum'ah* and the *tzitz* was directed primarily at clarifying Rabbi Yehoshua's more limited concession.
 
-## Remnants & Kometz……
+## Remnants & Kometz (III)…
 
 ### Kezayit Standard
 

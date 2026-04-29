@@ -318,7 +318,7 @@ This analysis also provides a proof for the conclusion reached earlier — that 
 
 ---
 
-## Oath vs Vow Measures
+## Oath vs Vow Measure (III)
 
 ### Word vs Act
 
@@ -338,7 +338,7 @@ The underlying principle, then, is that the *kezayit* requirement is a function 
 
 ---
 
-## Oath vs Vow Measures (continued)
+## Oath vs Vow Measure (III)s (continued)
 
 ### Konamos Parallel
 
@@ -414,7 +414,7 @@ Similarly, if one swore not to *taste* (*shelo et'om*) rather than not to *eat*,
 
 ---
 
-## Oath vs Vow Measures (Conclusion)
+## Oath vs Vow Measure (III)s (Conclusion)
 
 ### Debate Scope
 

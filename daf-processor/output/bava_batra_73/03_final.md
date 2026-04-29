@@ -86,7 +86,7 @@ By contrast, this *perek* concerns *metaltelin* exclusively — *vechol hani deh
 
 ---
 
-## Boat Component Terms…
+## Boat Component Terms (II)
 
 ### Betzi vs. Dugit
 

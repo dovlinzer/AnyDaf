@@ -270,7 +270,7 @@ This debate about the scope of *mesayea l'yadei ovrei aveira* and the definition
 
 ---
 
-## Rav Huna Opinion
+## Rav Huna Opinion (II)
 
 ### Flow = Wine
 

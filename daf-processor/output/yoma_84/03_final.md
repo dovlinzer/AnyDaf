@@ -164,7 +164,7 @@ The *Gemara* also identifies the causes of *tzapidna*: eating overly hot wheaten
 
 The symptom the *Gemara* identifies is: *kad rami midi b'kakei v'ata dama* — when you put something between your teeth and blood comes out. Bleeding gums is the presenting sign. As the *Gemara* will now clarify, however, this is only the beginning — the disease progresses from the gums downward.
 
-## Throat & Life Risk
+## Throat & Life Risk (II)
 
 ### Scurvy Progression
 
@@ -256,7 +256,7 @@ There is, however, a second and perhaps more fundamental reason. Even in cases w
 
 This same logic is applied by the Rosh in a related context. The text appears to suggest that the medical opinions of women should not be acted upon in isolation. The Rosh objects that there is no reason a woman's medical knowledge should be less reliable than a man's. He offers an alternative reading: the instruction is not to say "let it be done by women" — meaning, do not deliberately delegate to women in order to avoid the men having to act. That delegation would convey exactly the same wrong message as delegating to a non-Jew: it suggests that the men want to find someone else to take on the violation, implying that it is something improper. The Rosh's interpretation is understood by many authorities as the operative *halachic* position.
 
-## Pregnancy Discussion
+## Pregnancy Discussion (II)
 
 ### Labor Stages
 

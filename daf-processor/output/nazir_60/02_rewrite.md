@@ -54,7 +54,7 @@ The reason it is necessary to bring these *korbanot* at each stage at all is tha
 
 ---
 
-## Korbonot Overview…
+## Korbonot Overview (II)
 
 ### Four Stages Korbonot
 

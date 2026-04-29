@@ -64,7 +64,7 @@ A more ambiguous case follows: *harei alai tziporin* — "I hereby undertake [an
 
 ---
 
-## Kinuyim & Yadot…
+## Kinuyim & Yadot (II)
 
 ### Tosfos Analysis
 

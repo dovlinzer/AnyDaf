@@ -88,7 +88,7 @@ Rebbe's explicit charge to Rabban Gamliel was: *beni nehog nesiyutecha beramim* 
 
 ---
 
-## Clarifications…
+## Clarifications (II)
 
 ### Private vs. Public
 

@@ -208,7 +208,7 @@ Some of the *meforshim* draw from this an additional insight: since the anointin
 
 ---
 
-## Uses of Oil…
+## Uses of Oil (II)
 
 ### Horn vs Pitcher
 
@@ -232,7 +232,7 @@ The *Ramban*, as is well known, comments in his *perush* on the verse *lo yasur 
 
 ---
 
-## Historical Kings
+## Historical Kings (II)
 
 ### Sons ID
 

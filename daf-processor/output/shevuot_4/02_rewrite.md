@@ -134,7 +134,7 @@ The case concerns the boring of a slave's ear with an awl at the doorpost, the r
 
 Rebbi disagrees. He rules that only something made of metal qualifies — *mah martzea meyuchad shel mateches af kol shel mateches* — just as the awl is specifically of metal, so must any substitute be metal. This is a *klal u'prat* derivation: Rebbi takes the specification (*martzea*, specifically metal) as genuinely restrictive and broadens only to other metals. The *gemara* identifies the methodological difference explicitly: *Rebbi darish klal u'prat, ve-Rabbi Yoshiya b'Rebbi Yehuda darish ribui u'mi'ut*. Rebbi's narrow ruling in the awl case reveals that he is in fact a *klal u'prat* man — which directly contradicts the claim that his broader ruling in *pidyon ha-ben* reflects a general commitment to *ribui u'mi'ut*.
 
-## Pidyon HaBen…
+## Pidyon HaBen (II)
 
 ### Two Generalizations
 

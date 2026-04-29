@@ -140,7 +140,7 @@ An additional provision follows: *im hayah makiran* — if the person who gave t
 
 ---
 
-## Defective Coins…
+## Defective Coins (II)
 
 > **Hebrew/Aramaic:** גְּמָ׳ וּרְמִינְהִי: עַד כַּמָּה תְּהֵא הַסֶּלַע חֲסֵירָה וְיִהְיֶה בָּהּ אוֹנָאָה?
 >
@@ -194,7 +194,7 @@ Rava argues from principle: the governing factor is whether an ordinary person c
 
 ---
 
-## Coin Use Limits
+## Coin Use Limits (II)
 
 > **Hebrew/Aramaic:** עַד כַּמָּה תִּיפָּחֵת וִיהֵא רַשַּׁאי לְקַיְּימָהּ? בְּסֶלַע – עַד שֶׁקֶל. בְּדִינָר – עַד רוֹבַע. פָּחוֹת מִכֵּן אִיסָּר – אָסוּר לְהוֹצִיאָהּ. הֲרֵי זֶה לֹא יִמְכְּרֶנָּה לֹא לַתַּגָּר וְלֹא לְחָרָם וְלֹא לְהָרָג, מִפְּנֵי שֶׁמְּרַמִּין בָּהּ אֶת אֲחֵרִים. אֶלָּא יִקֳּבֶנָּה וְיִתְלֶנָּה בְּצַוַּאר בְּנוֹ אוֹ בְּצַוַּאר בִּתּוֹ.
 >
@@ -232,7 +232,7 @@ a *dinar haba mishekel* — a worn *shekel* now the size of a *dinar* — may st
 
 ---
 
-## Disposal of Bad Coins
+## Disposal of Bad Coin (II)
 
 > **Hebrew/Aramaic:** הֲרֵי זֶה לֹא יִמְכְּרֶנָּה לֹא לַתַּגָּר וְלֹא לְחָרָם וְלֹא לְהָרָג, מִפְּנֵי שֶׁמְּרַמִּין בָּהּ אֶת אֲחֵרִים. אֶלָּא יִקֳּבֶנָּה וְיִתְלֶנָּה בְּצַוַּאר בְּנוֹ אוֹ בְּצַוַּאר בִּתּוֹ.
 >

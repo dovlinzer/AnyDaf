@@ -207,7 +207,7 @@ Rabbi Levi, or some say Rabbi Chanina bar Pappa, introduces a striking contrast:
 
 God's way is different. Natan la-hem Torah le-Yisrael ve-samach — God gave Torah to Israel and was joyous. The proof is in the very pasuk: ki lekach tov natati lachem, Torati al ta'azovu — I have given you this wonderful gift; do not abandon my Torah. The giving is expressed with joy, not with the grief of one who must part with something beloved. The analogy is to a parent who passes on something precious to a child: the giving is a joyous act because the gift expresses love, the depth of the relationship, and the desire to share something of profound significance. God gives Torah to Israel not with reluctance but with delight — and that delight is itself part of the gift.
 
-## Yissurin Shel Ahava…
+## Yissurin Shel Ahava (II)
 
 ### Yissurin Shel Ahava
 

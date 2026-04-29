@@ -86,7 +86,7 @@ The *gemara* then suggests: perhaps Rabbi Elazar does not take the baseline case
 
 ---
 
-## Psulo BaKodesh…
+## Psulo BaKodesh (II)
 
 ### Tiyuvta de'Rabbah
 
@@ -94,7 +94,7 @@ The *tiyuvta* against Rabbah having been established through the chain of three 
 
 ---
 
-## Bamat Yachid Case…
+## Bamat Yachid Case (II)
 
 ### Absorption Doctrine
 
@@ -172,7 +172,7 @@ This retroactive model has direct implications for the bread case. The claim was
 
 ---
 
-## Zrikat Pigul…
+## Zrikat Pigul (II)
 
 ### Toda-Bread Refutation
 

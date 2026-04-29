@@ -84,7 +84,7 @@ The *Mishnah* adds: *Omer kodem le-keves ha-ba immo* — the *Omer* offering pre
 
 ---
 
-## Man vs. Woman Priority
+## Man vs. Woman Prior (III)ity
 
 ### Gender Priorities
 
@@ -118,7 +118,7 @@ Within the category of *Kohanim*, the hierarchy descends as follows. A *Kohen Ga
 
 ---
 
-## Man vs. Woman Priority…
+## Man vs. Woman Prior (III)ity…
 
 ### King over Kohen
 
@@ -132,7 +132,7 @@ What accounts for the *Kohen Gadol*'s precedence over the *navi*? One reading is
 
 ---
 
-## Kohanim Hierarchy…
+## Kohanim Hierarchy (II)
 
 ### Disqualification Types
 
@@ -156,7 +156,7 @@ One might object: but does the *Mishnah* not say that the *Mashuach Milchama* pr
 
 ---
 
-## Man vs. Woman Priority…
+## Man vs. Woman Prior (III)ity…
 
 ### Tribal Hierarchy
 

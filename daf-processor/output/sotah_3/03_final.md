@@ -256,7 +256,7 @@ A *beraita* provides formal definitions for the terms used in this evidentiary f
 
 ---
 
-## Measure of Stirah
+## Measure of Stirah (II)
 
 ### Definitional Chain
 
@@ -300,7 +300,7 @@ Pelimo says: *kedei she-toshit yadah la-sal litol kikar* — the time it takes f
 
 ---
 
-## Measure of Stirah Enumeration
+## Measure of Stirah (II)
 
 ### Enumeration Purpose
 

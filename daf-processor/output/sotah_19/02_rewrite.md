@@ -172,7 +172,7 @@ The third *ve-hishkah* — *ve-hishkah batra* — teaches the position of *Rabbi
 
 ---
 
-## Rabbi Shimon Counter…
+## Rabbi Shimon Counter (II)
 
 ### Afterwards Explicit
 

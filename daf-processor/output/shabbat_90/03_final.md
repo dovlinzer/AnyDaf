@@ -168,7 +168,7 @@ The *gemara* now provides a clarification regarding when this principle applies.
 
 The *gemara* teaches otherwise: *mid'zarko l'otzar batulei batlei* — the very act of throwing it back into the warehouse constitutes a negation of the original planting intent. Even if the seed remains visually distinct on the warehouse floor rather than having fallen into the main grain pile, the act of return carries legal weight. Since one is no longer planning to plant it, and one has restored it to the domain of stored grain, the subjective significance is extinguished. It reverts to the objective standard minimum — a quantity that a single seed obviously does not meet.
 
-## Unbroken Carrying
+## Unbroken Carrying (II)
 
 ### Two Acts Rule
 
@@ -182,7 +182,7 @@ The *mishna* states: *hamotzi ochlim unetanam al ha-iskupa* — one who takes ou
 
 The *gemara* analyzes the nature of the *iskupa*. It cannot be a *reshut harabim*, because then taking the food from the house to the porch would itself be a complete act of *hotza'ah* from *reshut hayachid* to *reshut harabim*, and one would be *chayav* at that point. It cannot be a *reshut hayachid*, because then taking it from the porch to the street would be going from *reshut hayachid* to *reshut harabim*, again producing *chiyuv*. The *gemara* therefore concludes the *iskupa* must be a *karmelit* — an intermediate domain that is neither *reshut hayachid* nor *reshut harabim*. Taking food from a private domain to a *karmelit* and from a *karmelit* to a public domain are each half-acts, neither of which independently constitutes a complete prohibited *melacha*.
 
-## Basket of Fruit
+## Basket of Fruit (II)
 
 ### Whole Basket Rule
 
@@ -192,7 +192,7 @@ The *gemara* analyzes the nature of the *iskupa*. It cannot be a *reshut harabim
 
 The *mishna* further states: *kupa she-mele'ah peirot* — a basket full of fruit — *venetnah al ha-askufa ha-chitzona* — placed on the outer porch, which here functions as a *reshut harabim* — *af al pi she-rov peiroteiha mi-bachutz patur* — even though most of the fruit overhangs into the public domain, one is exempt — *ad she-yotzi et kol ha-kupa* — until the entire basket has been taken out. Even if numerous individual pieces of fruit are wholly within the public domain, since they remain contained within a basket that is not entirely in the public domain, the carrying act is deemed incomplete. This introduces the principle *eged kli shmei eged* — that being bound within a vessel constitutes a form of legal unification — though the precise scope of this principle will be debated.
 
-## Unbroken Carrying (continued)
+## Unbroken Carrying (II)
 
 ### Rest Principle
 
@@ -202,7 +202,7 @@ The *mishna* further states: *kupa she-mele'ah peirot* — a basket full of frui
 
 The *gemara* explains the *mishna*'s teaching about the *iskupa* more precisely. *Ta'ama denach bekarmelit* — the reason one is exempt is specifically because the food came to rest in the *karmelit*. *Ha lo nach bekarmelit chayav* — had it not rested there, one would be *chayav*. This might have seemed obvious, but it is not, because this ruling is *matisin delo k'Ben Azzai* — our *mishna* does not follow *Ben Azzai*. A *braita* teaches: one who carries from a shop to the main street (*paltya*) by way of the *stav* — the colonnaded walkway in front of the shops, a space that is neither *reshut hayachid* nor *reshut harabim* and functions as a *karmelit* — is *chayav*, because one moved without interruption from one domain to the other. *Ben Azzai* rules *patur*. *Ben Azzai* either holds that traversing an intermediate domain breaks the continuity of the act, or applies the principle of *mehalech ke-omeid* — that walking constitutes a series of discrete micro-resting-points, such that passage through an intervening domain counts as an interruption. Our *mishna*, by ruling that it is only the actual putting-down in the *karmelit* that creates the exemption, implicitly rejects *Ben Azzai*: the mere traversal of a *karmelit* without rest does not break the act.
 
-## Basket of Fruit (continued)
+## Basket of Fruit (II)
 
 ### Chizkiyah: Fruits
 

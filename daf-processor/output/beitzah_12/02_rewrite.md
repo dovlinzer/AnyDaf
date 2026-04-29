@@ -146,7 +146,7 @@ Rabbi Yochanan rejected the *baraita* outright: *puk tani le-vara* — take this
 
 ---
 
-## Mitoch Scope…
+## Mitoch Scope (II)
 
 ### Food Melachos
 

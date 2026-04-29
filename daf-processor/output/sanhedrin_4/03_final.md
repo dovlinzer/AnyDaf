@@ -88,7 +88,7 @@ This connects to a foundational principle of *Torah she-baal peh*. The Talmudic 
 
 ---
 
-## Beit Shammai vs. Hillel
+## Beit Shammai vs. Hil (II)
 
 ### Shammai's Blood Analysis
 
@@ -120,7 +120,7 @@ The *gemara* raises an objection: if all four are the *mitzvah* component and th
 
 ---
 
-## Sukkah Walls Debate
+## Sukkah Walls Debate (II)
 
 ### Standard Ruling
 
@@ -140,7 +140,7 @@ Rabbi Shimon disagrees: *shalosh kehilchatan ve-revi'it afilu tefach* — three 
 
 ---
 
-## Sukkah Walls Debate (continued)
+## Sukkah Walls Debate (II)
 
 ### Gemara's Analysis
 
@@ -150,7 +150,7 @@ Rabbi Shimon holds *yesh eim lamikra*. All three appearances are read in the ful
 
 ---
 
-## Beit Shammai vs. Hillel (continued)
+## Beit Shammai vs. Hil (II)
 
 ### Reading vs. Writing Debate
 

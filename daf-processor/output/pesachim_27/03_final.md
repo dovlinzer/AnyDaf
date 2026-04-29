@@ -1,6 +1,6 @@
 # Pesachim 27 — Daf Yomi Shiur
 
-## Oven & Forbidden Wood
+## Oven & Forbidden Woo (II)
 
 ### Setup: Orlah/Kilayim
 
@@ -58,7 +58,7 @@ The underlying conceptual question is whether eating the bread constitutes a *co
 
 ---
 
-## Oven & Forbidden Wood…
+## Oven & Forbidden Woo (II)
 
 ### Coals Permitted
 
@@ -170,7 +170,7 @@ Second: *ha tanya be-hedya* — there is a *Braita* that states it explicitly. T
 
 ---
 
-## Zeh V'Zeh Gorem…
+## Zeh V'Zeh Gorem (II)
 
 ### Pots vs. Ovens
 

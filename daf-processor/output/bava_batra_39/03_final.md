@@ -110,7 +110,7 @@ The *gemara* then observes that since Rava himself had challenged Rav Nachman's 
 
 ---
 
-## Two vs Three Witnesses
+## Two vs Three Witness (II)
 
 ### Witness Number
 
@@ -146,7 +146,7 @@ The teaching of Rabbah bar Rav Huna — that a matter said before three people i
 
 ---
 
-## Two vs Three Witnesses…
+## Two vs Three Witness (II)
 
 ### Testimony vs Public
 
@@ -188,7 +188,7 @@ These two frameworks — the *mechah* as breaking evidentiary inference versus t
 
 ---
 
-## Lashon Hara Issues…
+## Lashon Hara Issues (II)
 
 ### Rashbam's View
 

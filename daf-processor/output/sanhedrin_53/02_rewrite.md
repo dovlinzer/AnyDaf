@@ -64,7 +64,7 @@ Rav Nachman said in the name of Rabbah bar Avuha: the verse *ve-ahavta le-reiach
 
 ---
 
-## Hereg Sources…
+## Hereg Sources (II)
 
 ### Kal Vachomer
 
@@ -76,7 +76,7 @@ The *kal vachomer* immediately runs into a difficulty. *Hani nicha le-man de-ama
 
 ---
 
-## Egla Arufa…
+## Egla Arufa (II)
 
 ### Hukshu Paradigm
 
@@ -126,7 +126,7 @@ The logical corollary is immediate: if we may not impose a heavier execution tha
 
 ---
 
-## Chenek…
+## Chenek (II)
 
 ### Natural Death
 
@@ -144,7 +144,7 @@ The *gemara* then asks: why not say the default execution is *sreifah* — burni
 
 ---
 
-## Four Executions…
+## Four Executions (II)
 
 ### Rava's Tradition
 

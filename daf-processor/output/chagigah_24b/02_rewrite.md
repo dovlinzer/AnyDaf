@@ -18,7 +18,7 @@ There is, however, a significant debate between Rashi and Tosfos about what prec
 
 The Gemara introduces the principle of *chiburin* — connection — through the statement of Rav Shezbi: *be-chiburin shanu*, "we are only speaking of when there is connection." The contamination transfer between hands operates only when the hands are in some form of simultaneous contact or linkage; if they are fully separate, the contamination does not pass from one to the other.
 
-## Hand Contamination…
+## Hand Contamination (II)
 
 ### Tosfos's View
 
@@ -26,7 +26,7 @@ Tosfos goes further than Rashi. According to Tosfos, the *mishnah* means that as
 
 For Rashi, by contrast, the *chiburin* describes the condition under which the *tumah* is *transferred*. Here, the *tahor* hand is already touching the *kodesh* object, and the *tamei* hand is simultaneously touching the *tahor* hand, thereby channeling the *tumah* through to the *kodesh*. The direction of travel is reversed from Tosfos's model, but the structural logic — one extended conducting act — is the same. Either way, the principle is that the transfer only works when the connection is live and simultaneous; once the hands are separate, the mechanism does not operate.
 
-## Chiburin Concept…
+## Chiburin Concept (II)
 
 ### Rashi's Example
 
@@ -60,7 +60,7 @@ Both Rabbi Yochanan and, ultimately, Resh Lakish agree on a second point, captur
 
 Closely connected to the question of *ba'otah hayad* is the question of how *strong* the derived hand's *tumah* actually is. The *braisa* quoted by Rabbi Yose the son of Rabbi Yehuda had stated that a hand makes *kodesh pasul* but not *tamei* in the full sense. To understand this, one must recall the graduated levels of *tumah* applicable to *kodesh*: a *sheni* renders *kodesh* a *shelishi*, which can still pass on *tumah* to a *revii* — that is what it means to be *metamei kodesh*. If the derived hand is treated as a *sheni*, it would make *kodesh* a *shelishi* — and that is *metamei*. But if the derived hand is treated as a *shelishi* — a step weaker than the original — it would make *kodesh* only a *revii*, which ends the chain. That is *posel* without *metamei*. Rabbi Yose the son of Rabbi Yehuda's view, then, is that the second hand is not on a par with the first; it is weaker, a *shelishi* rather than a *sheni*.
 
-## Lakish vs Yochanan…
+## Lakish vs Yochanan (II)
 
 ### Resh Lakish Retracts
 
@@ -68,7 +68,7 @@ The Gemara then resolves the dispute between Resh Lakish and Rabbi Yochanan: Res
 
 The connection between these two questions — can it affect another person's hand, and is the second hand a *sheni* or *shelishi* — is not accidental. If the only valid mechanism is simultaneous contact, the whole process is best understood as a single extended act involving what functions as one agent. Under that reading, it is most natural to speak of both hands being one's own, and also most natural to treat the second hand as equivalent in strength to the first, since conceptually it is part of the same act. But once we say the mechanism can work even when the two hands are separate — first one became *tamei*, then it touched the other — then we are describing a genuine chain of transfer, and the second hand is derivative. Under that framework, it makes equal sense whether the second hand is yours or someone else's, since what matters is the transfer, not the extended unity. And under that framework, the second hand is logically weaker — a *shelishi* rather than a *sheni*. These two linked conclusions, that another person's hand can be affected and that the derived hand is a *shelishi*, are thus two sides of the same conceptual coin, and it is notable that when Resh Lakish recants on the first point, he also affirms the second.
 
-## Secondary Hand Level…
+## Secondary Hand Level (II)
 
 ### Tannaim Debate
 

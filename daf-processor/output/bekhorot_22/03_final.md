@@ -126,7 +126,7 @@ The question addressed by this Mishnah is: how large a clod of such earth causes
 
 ---
 
-## Bittul in Mixtures
+## Bittul in Mixtures (II)
 
 ### Fish Brine Purification
 
@@ -168,7 +168,7 @@ This principle — *matza mino ve-ne'or*, finding one's kind and awakening — r
 
 ---
 
-## Chozer Ve-Ne'or Debate
+## Chozer Ve-Ne'or Deba (II)
 
 ### Abaye's Challenge
 
@@ -226,7 +226,7 @@ A further analytical point raised here concerns why the ratio of *bittul* in thi
 
 ---
 
-## Chozer Ve-Ne'or Debate Continued
+## Chozer Ve-Ne'or Deba (II)
 
 ### Dormant Terumah Reawakens
 

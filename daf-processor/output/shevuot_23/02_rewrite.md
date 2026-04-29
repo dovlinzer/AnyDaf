@@ -154,7 +154,7 @@ Rav Acha and Ravina debate how to read the formulation *shvua she'ein lecha beya
 
 ---
 
-## Litigation Oaths…
+## Litigation Oaths (II)
 
 ### Rava's Application
 

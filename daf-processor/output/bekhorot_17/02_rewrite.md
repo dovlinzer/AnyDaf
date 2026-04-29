@@ -82,7 +82,7 @@ A third formulation presents the inverse: *berachel bat ez bat rachel* — the s
 
 ---
 
-## Purity of Lineage…
+## Purity of Lineage (II)
 
 ### Korban Chovah Requirement
 
@@ -124,7 +124,7 @@ This entire sugya, it is worth noting, reflects something conceptually striking.
 
 ---
 
-## Nidmeh Exemption…
+## Nidmeh Exemption (II)
 
 ### Rav Ashi's Answer
 

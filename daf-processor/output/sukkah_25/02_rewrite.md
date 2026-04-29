@@ -114,7 +114,7 @@ This *sugya* also illustrates *Chazal*'s characteristic impulse to make the anon
 
 ---
 
-## Korban Pesach Source…
+## Korban Pesach Source (II)
 
 ### Pesach vs. Shema
 

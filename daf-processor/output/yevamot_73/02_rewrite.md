@@ -176,7 +176,7 @@ The *gemara* resolves the tension in two ways. First, quantitatively: *hanech ne
 
 ---
 
-## Non-Exhaustive Lists…
+## Non-Exhaustive Lists (II)
 
 ### Rav Ashi's Proof
 

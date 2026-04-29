@@ -248,7 +248,7 @@ The *mishnah* also states: *ve'ein omrim birchat avelim b'moed* — one does not
 
 The *mishnah* rules: *ein manichin et hamitah barechov* — one does not leave the bier in the street to enable a *hesped*, *shelo l'hargil et ha-hesped* — so as not to encourage extended eulogizing on *chol hamoed*. However, *v'shel nashim l'olam mipnei hakavod* — women's biers are never left in the street even on *chol hamoed*, out of respect. Rabbeinu Gershom suggests this has to do with concerns about bodily fluids if the woman was a *niddah*, but the more general sense is one of modesty and dignity around women — a theme already encountered in connection with the practices of *keriah*. The precise concern is not spelled out explicitly.
 
-## Ein Molichin…
+## Ein Molichin (II)
 
 ### Salei Nitzarin
 
@@ -334,7 +334,7 @@ The situation persisted *ad she-ba Rabban Gamliel* — until Rabban Gamliel the 
 
 Rav Papa adds: *afilu b'tzerda de'bar zuza* — even a cloak costing as little as a single *zuza*, something utterly inexpensive, is now acceptable and indeed standard for burial. This represents the full arc of the reform: what had been an occasion for ruinous expenditure had been reduced to the most minimal of expenses.
 
-## Ein Mani'im…
+## Ein Mani'im (II)
 
 ### Biraḥov
 

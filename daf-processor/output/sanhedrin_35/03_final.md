@@ -166,7 +166,7 @@ This conclusion is stark: *hilkach lo efshar* — it is simply impossible to beg
 
 ---
 
-## QVH: Execute on Shabbat
+## QVH: Execute on Shab (II)
 
 ### Met Mitzvah QVH
 
@@ -206,7 +206,7 @@ With that premise in hand, the full *kal va-chomer* holds: *meit mitzvah* is gre
 
 ---
 
-## Shabbat Prohibition
+## Shabbat Prohibition (II)
 
 ### Exec vs Avodah
 
@@ -218,7 +218,7 @@ Rabbi Yochanan responds with a counter-proof: *ritzicha tochiah* — execution i
 
 ---
 
-## QVH: Execute on Shabbat (continued)
+## QVH: Execute on Shab (II)
 
 ### Ritzicha QVH
 
@@ -230,7 +230,7 @@ Resh Lakish is not satisfied. He escalates: if the counter-proof is execution it
 
 ---
 
-## Shabbat Prohibition (continued)
+## Shabbat Prohibition (II)
 
 ### Ritzicha Refutes
 

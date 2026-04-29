@@ -108,7 +108,7 @@ The *baraisa* also rules that *mashkin* — *tamei* liquids — combine to make 
 
 ---
 
-## Tamei Through Food
+## Tamei Through Food (II)
 
 ### Waiting Language
 
@@ -180,7 +180,7 @@ This double doubt also highlights the conclusion discussed earlier regarding the
 
 ---
 
-## Nursing Mother…
+## Nursing Mother (II)
 
 ### Nine Fluids
 

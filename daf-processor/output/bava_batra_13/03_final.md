@@ -290,7 +290,7 @@ On this reading, Rabban Shimon ben Gamliel's objection must be understood differ
 
 ---
 
-## Kisvei Kodesh Scrolls
+## Kisvei Kodesh Scroll (II)
 
 ### Shmuel's Teaching
 
@@ -356,7 +356,7 @@ This reveals an important structural limit on *gud o agud*. The principle functi
 
 ---
 
-## Kisvei Kodesh Scrolls…
+## Kisvei Kodesh Scroll (II)
 
 ### The Scroll Question
 

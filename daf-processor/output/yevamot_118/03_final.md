@@ -20,7 +20,7 @@ Two underlying theoretical models govern how this weighting works. Ulla understa
 
 ---
 
-## Co-wives Contradiction
+## Co-wives Contradicti (II)
 
 ### Two Co-wives
 
@@ -60,7 +60,7 @@ Rabbi Yehuda and Rabbi Shimon disagree. In their view, both wives agree on the c
 
 ---
 
-## Co-wives Contradiction…
+## Co-wives Contradicti (II)
 
 ### Shimshon Analogy
 
@@ -88,7 +88,7 @@ The genuine *chiddush* of the *mishna*, as the *gemara* makes clear, operates in
 
 ---
 
-## Died vs. Killed…
+## Died vs. Killed (II)
 
 ### Elazar vs. Yochanan
 

@@ -258,7 +258,7 @@ This is a striking distinction. In the *sachar batala* model, one is compensated
 
 ---
 
-## Bribes Blind
+## Bribes Blind (II)
 
 ### Eye Disease Analogy
 
@@ -270,7 +270,7 @@ Rabbi Abahu opens a striking reflection on the nature of *shochad*. He asks: com
 
 ---
 
-## Bribes Blind (continued)
+## Bribes Blind (II)
 
 ### Exodus Verse
 

@@ -330,7 +330,7 @@ This means the determinative variable is who initiates. When the person comes fo
 
 ---
 
-## Gemara Analysis…
+## Gemara Analysis (II)
 
 ### Self-Admission Reason
 
@@ -342,7 +342,7 @@ The Gemara confirms this analysis by returning to the text of our *mishnah* itse
 
 ---
 
-## Five Claimants…
+## Five Claimants (II)
 
 ### Silence Analysis
 

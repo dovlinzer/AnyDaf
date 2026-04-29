@@ -100,7 +100,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 ---
 
-## When Singing Required
+## When Singing Require (II)
 
 ### Chizkiyahu Story
 
@@ -134,7 +134,7 @@ Rav Soloveitchik, in his *Shiurim Lezecher Abba Mari*, develops this point into 
 
 ---
 
-## Role Boundaries…
+## Role Boundaries (II)
 
 ### Assisting Debate
 
@@ -146,7 +146,7 @@ The Gemara then suggests an alternative: *de-kulei alma lav hi* — perhaps ever
 
 ---
 
-## When Singing Required…
+## When Singing Require (II)
 
 ### Free-Will Offerings
 

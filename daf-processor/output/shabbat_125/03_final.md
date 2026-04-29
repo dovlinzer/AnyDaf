@@ -260,7 +260,7 @@ Rabbi Yehuda replies: *lo dami* — it is not comparable. *Hasam haseka mibifnim
 
 ---
 
-## Covers & Stoppers
+## Covers & Stoppers (II)
 
 ### Oven Cover Permitted
 
@@ -272,7 +272,7 @@ The *beraita* that introduced the oven debate also established that the cover of
 
 ---
 
-## Gourd & Stone
+## Gourd & Stone (II)
 
 ### Tight Fit Required
 
@@ -324,7 +324,7 @@ This is the precise inverse of the *shever kli* discussion: there, an object beg
 
 ---
 
-## Gourd & Stone Redux
+## Gourd & Stone (II)
 
 ### Action vs Function
 
@@ -392,7 +392,7 @@ The underlying question of this entire section can be sharpened. The *shever kli
 
 ---
 
-## Vine & Bucket
+## Vine & Bucket (II)
 
 ### Vine Tying Required
 
@@ -420,7 +420,7 @@ The *beraita* states: *tzarich likshor* — one must tie the pieces together (to
 
 ---
 
-## Vine & Bucket Redux
+## Vine & Bucket (II)
 
 ### Attached vs Detached
 

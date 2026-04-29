@@ -112,7 +112,7 @@ Rav and Shmuel disagree. *Chad amar mutarin* — one says the limbs are permitte
 
 Each opinion must then account for the word it does not primarily rely upon. According to the opinion of *mutarin*, what purpose does *gezeirah* serve? It serves to teach, as a *baraita* records, that the cliff must be a sheer drop — *gezeirah ein gezeirah ella chatucha*, *gezeirah* means cut, implying the face of the cliff is cut straight down, a sheer precipice rather than a gradual slope. This is in fact the textual source for the entire requirement to push the goat off a cliff rather than simply releasing it into open wilderness. According to the opinion of *asurin*, what purpose does the repeated use of *midbar* serve? It serves the *derashah* cited elsewhere: *ha-midbarah, ha-midbarah, ba-midbar* — the multiple uses of "wilderness" in the *pesukim* teach that this *avodah* applies not only during the years of the *Mishkan* in the wilderness but also at *Nov*, *Giv'on*, *Shilo*, and the permanent *Beit HaMikdash* — wherever the *Mishkan* was stationed, including the settled land of *Eretz Yisrael*.
 
-## Limbs Permissibility…
+## Limbs Permissibility (II)
 
 ### Textual Locations
 
@@ -166,7 +166,7 @@ The *chukim*, by contrast, are *devarim she-ha-Satan meishiv aleihem* — things
 
 To that critique, the *Torah* responds: *Ani Hashem chakaktiv ve-ein lecha reshut le-harheir bahen* — I, God, have inscribed this, and you have no license to second-guess it. This is the meaning of *chukotai tishmoru* together with *Ani Hashem*. The *chukim* are not presented as things requiring rational vindication. They demonstrate, precisely through their resistance to rational justification, the character of pure obedience to divine command. The declaration *Ani Hashem* is what makes them binding — not their intelligibility.
 
-## Mishpatim & Chukim…
+## Mishpatim & Chukim (II)
 
 ### Rambam on Values
 

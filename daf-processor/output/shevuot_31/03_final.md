@@ -102,7 +102,7 @@ Here the student's motive is far from pure; he seeks to inflate himself at his *
 
 ---
 
-## Witness Pressure Cases
+## Witness Pressure Cas (II)
 
 ### Coerced Testimony
 
@@ -158,7 +158,7 @@ The word *v'nachatu* — "come down" — is also noteworthy. Shoes are *maamidim
 
 ---
 
-## Witness Pressure Cases (continued)
+## Witness Pressure Cas (II)
 
 ### Power of Attorney
 

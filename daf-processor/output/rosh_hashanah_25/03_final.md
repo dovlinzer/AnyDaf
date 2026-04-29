@@ -86,7 +86,7 @@ The geographic dimension adds further texture to the drama. Rabbi Yehoshua resid
 
 ---
 
-## Akiva's Consolation
+## Akiva's Consolation (II)
 
 ### Akiva Seeks Permission
 
@@ -102,7 +102,7 @@ The verse he cites is *eleh moadei Hashem mikraei kodesh asher tikre'u otam* —
 
 ---
 
-## Dosa's Submission
+## Dosa's Submission (II)
 
 ### Yehoshua Consults
 
@@ -114,7 +114,7 @@ Rabbi Yehoshua remained troubled and went to Rabbi Dosa ben Horkinas himself —
 
 ---
 
-## Torah She-be'al Peh
+## Torah She-be'al Peh (II)
 
 ### Scope of Authority
 
@@ -122,7 +122,7 @@ This is precisely the moment to pause and consider the deeper question the narra
 
 ---
 
-## Dosa's Submission (continued)
+## Dosa's Submission (II)
 
 ### Audit Argument
 
@@ -146,7 +146,7 @@ The proof text is drawn from the scene of the seventy elders ascending with Mosh
 
 ---
 
-## Torah She-be'al Peh (continued)
+## Torah She-be'al Peh (II)
 
 ### Ramban's Approach
 
@@ -162,7 +162,7 @@ One might raise the further question: if *beit din* authority is truly binding r
 
 ---
 
-## Reconciliation
+## Reconciliation (II)
 
 ### YK Travel
 
@@ -250,7 +250,7 @@ It is also worth noting, as a structural matter, that the authority to perform *
 
 ---
 
-## Akiva's Consolation (continued)
+## Akiva's Consolation (II)
 
 ### Atem Emphasis
 
@@ -370,7 +370,7 @@ But the theoretical implication is significant: a later *Beit Din ha-Gadol*, eve
 
 ---
 
-## Reconciliation (continued)
+## Reconciliation (II)
 
 ### Public Submission
 

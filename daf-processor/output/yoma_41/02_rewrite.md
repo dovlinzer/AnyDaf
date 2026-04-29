@@ -82,7 +82,7 @@ If Rabbi Chaga's position is correct, then the wealthy person who set aside mone
 
 ---
 
-## Birds Designation…
+## Birds Designation (II)
 
 ### Resolution
 
@@ -102,7 +102,7 @@ The term *preda* used by the *gemara* for a single bird from the pair is a techn
 
 ---
 
-## Yatzei Obligation…
+## Yatzei Obligation (II)
 
 ### Metzora Proof
 
@@ -150,7 +150,7 @@ This is a striking conclusion — one that does not appear to be reflected in th
 
 ---
 
-## Red String…
+## Red String (II)
 
 ### Two Strings
 

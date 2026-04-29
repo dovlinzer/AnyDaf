@@ -1,6 +1,6 @@
 # Bava Kamma 3 — Daf Yomi Shiur
 
-## Avos & Toldos Framework
+## Avos & Toldos Framew (II)
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: שְׁלֹשָׁה אָבוֹת נֶאֱמְרוּ בְּשׁוֹר – הַקֶּרֶן, וְהַשֵּׁן, וְהָרֶגֶל.
 >
@@ -14,7 +14,7 @@ The *mishnah* lists *shor* as one of the four primary categories. A *beraisa*, h
 
 ---
 
-## Keren Category
+## Keren Category (II)
 
 ### Keren Definition
 
@@ -26,7 +26,7 @@ The *gemara* describes *keren* as the *parshah* in the *Torah* dealing with gori
 
 ---
 
-## Avos & Toldos Framework (continued)
+## Avos & Toldos Framew (II)
 
 ### Rav Pappa Setup
 
@@ -38,7 +38,7 @@ The *gemara* describes *keren* as the *parshah* in the *Torah* dealing with gori
 
 ---
 
-## Keren Category (continued)
+## Keren Category (II)
 
 ### Keren Toldos
 

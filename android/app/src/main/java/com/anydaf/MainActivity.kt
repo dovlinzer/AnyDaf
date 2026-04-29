@@ -22,7 +22,9 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         // Must be called before super.onCreate() — installs the splash screen
         // and transitions seamlessly into our custom SplashScreen composable.
-        installSplashScreen()
+        // Dismiss the system splash screen at the earliest possible moment —
+        // our custom SplashScreen composable handles the branded delay.
+        installSplashScreen().setKeepOnScreenCondition { false }
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {

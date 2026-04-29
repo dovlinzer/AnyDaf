@@ -162,7 +162,7 @@ This position reflects a profound conceptual distinction. A *chatat* addresses t
 
 This is a conceptually elegant position: if I repeatedly ate something that might have been *chelev*, my being at fault is a unified personal state, not a series of discrete sinful acts. The minority view here thus isolates the *asham talui* as an expression of personal moral accountability rather than objective sin-reality. The *halacha*, however, follows Rebbi and the *Mishnah*: an *asham talui* is treated like a *chatat*, and when awareness intervenes between acts, multiple *ashamot* are required.
 
-## Asham vs. Chatat Awarene…
+## Asham vs. Chatat Awa (II)
 
 ### Learning Chatat from Ash…
 
@@ -190,13 +190,13 @@ The discussion now incorporates *Yom Kippur*. There is a principle that *Yom Kip
 
 Two background principles are important here. First, when we say awareness divides acts for *chatat* or *asham talui*, one interpretation is psychological — the person consciously recalled the possible sin, which restarts the process. Another interpretation is objective: at the moment of awareness, a *chiyuv* of *asham talui* is created for what came before; subsequent acts are therefore separate from the prior obligation. The *Gemara* elsewhere notes that even the passage of days (*yamim she-beinataim*) can constitute a form of *yedi'ah*, which is difficult to explain psychologically but makes sense if it is about objective *chiyuv*. Second, if *Yom Kippur* functions structurally like an *asham talui*, dissolving the doubtful-sin obligation for what preceded it, then on the objective-*chiyuv* view, it should divide acts — acts before *Yom Kippur* were addressed by one *chiyuv*, acts after begin a new chapter.
 
-## Asham vs. Chatat Aware…
+## Asham vs. Chatat Awa (II)
 
 ### Yom Kippur Challenge
 
 Rava bar Chanan challenges Abaye directly: according to you, who holds that *yedi'at safeik* divides for *chataot*, consider the following — one ate a *kezayis* of *chelev* before *Yom Kippur* and a *kezayis* of *chelev* after *Yom Kippur*, all in a single *he'elem* (uninterrupted state of forgetfulness), without any awareness in between. Since *Yom Kippur* functions structurally like an *asham talui* — and if *yedi'at safeik* divides for *chataot* — should he then bring two *chataot* because *Yom Kippur* intervened? This seems deeply counterintuitive and perhaps absurd. The person never had any awareness at all; he ate in a single continuous state of forgetting. Are we really going to say that the calendar fact of *Yom Kippur* passing divides his undifferentiated forgetful eating into two separate *chatat* obligations?
 
-## Yom Kippur Mechanism…
+## Yom Kippur Mechanism (II)
 
 ### Awareness Requirement
 

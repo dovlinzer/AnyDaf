@@ -214,7 +214,7 @@ The *baraita*'s proposed remedy is twofold: *no'el beiso u-mevatel reshuso* — 
 
 ---
 
-## Oholot Case…
+## Oholot Case (II)
 
 ### House Interior
 
@@ -252,7 +252,7 @@ This discussion has a fascinating practical ramification noted in a *teshuvah* o
 
 ---
 
-## Wall Collapses…
+## Wall Collapses (II)
 
 ### Lock vs Bitul
 

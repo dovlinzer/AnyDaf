@@ -26,7 +26,7 @@ The *mishnah* then records that they would say to him: *Ishi Kohen Gadol, kra at
 
 ---
 
-## Animal Parade & Despair
+## Animal Parade & Desp (II)
 
 ### Animal Parade
 
@@ -46,7 +46,7 @@ Some modern interpreters have drawn a connection between this scene and *Ma'aseh
 
 ---
 
-## Seminal Emission Concern
+## Seminal Emission Con (II)
 
 ### Food Restrictions
 
@@ -98,7 +98,7 @@ There is also a tradition in the *Yerushalmi* relevant to the question of semina
 
 ---
 
-## Animal Parade & Despair (continued)
+## Animal Parade & Desp (II)
 
 ### Goats Excluded
 
@@ -128,7 +128,7 @@ The *Gemara*'s conclusion here also opens a related question that will receive f
 
 ---
 
-## Seminal Emission Concern (continued)
+## Seminal Emission Con (II)
 
 ### Foods Causing Emission
 

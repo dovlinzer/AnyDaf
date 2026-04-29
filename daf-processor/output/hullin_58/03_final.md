@@ -113,7 +113,7 @@ This also resolves a question about the formulation. The Gemara says the egg is 
 
 ---
 
-## Treifa Offspring
+## Treifa Offspring (II)
 
 ### Sacrifice Question
 
@@ -172,7 +172,7 @@ This version of Ameimar's ruling uses fertility not as *zeh vezeh goreim* but as
 
 ---
 
-## Treifa Offspring (Continued)
+## Treifa Offspring (II)
 
 ### Case Reconstruction
 

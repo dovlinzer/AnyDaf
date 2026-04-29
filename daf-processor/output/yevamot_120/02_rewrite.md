@@ -124,7 +124,7 @@ Rabbeinu Tam extends this reasoning further: *va'afilu achar kama yamim* — eve
 
 ---
 
-## Marks: Biblical or Rabbi…
+## Marks: Biblical or R (II)
 
 ### Simanim Status
 
@@ -144,7 +144,7 @@ Rava proposes a resolution: *dechuli alma simanim d'oraita* — everyone agrees 
 
 ---
 
-## Marks: Biblical or Rab…
+## Marks: Biblical or R (II)
 
 ### Mole Case
 
@@ -152,7 +152,7 @@ The *baraita* records a debate: *ein me'idin al hashuma* — one may not testify
 
 ---
 
-## Rava's Resolution…
+## Rava's Resolution (II)
 
 ### Qualifying Marks
 

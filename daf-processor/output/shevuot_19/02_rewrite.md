@@ -84,7 +84,7 @@ To clarify the distinction: a *shogeg* is a person who fully controls and intend
 
 ---
 
-## Sheretz vs. Neveilah…
+## Sheretz vs. Neveilah (II)
 
 ### Pesukim Analysis
 
@@ -94,7 +94,7 @@ The contrast with *tumat mikdash* is then explained. The *Gemara* notes: *hacha 
 
 ---
 
-## Eliezer and Yehoshua…
+## Eliezer and Yehoshua (II)
 
 ### Tumat Mikdash Specificity
 
@@ -210,7 +210,7 @@ The *Gemara* now introduces a parallel case involving *cheilev* in order to chal
 
 ---
 
-## Safek Yedia Analysis…
+## Safek Yedia Analysis (II)
 
 ### Why Exception Applies
 

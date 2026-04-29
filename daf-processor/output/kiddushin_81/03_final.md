@@ -210,7 +210,7 @@ This disagreement has direct practical application. Consider the common case: a 
 
 ---
 
-## Gender Separation
+## Gender Separation (III)
 
 ### Abaye's Pots
 
@@ -222,7 +222,7 @@ Abaye, when men and women gathered together — for a *derasha* or a *chupah*, a
 
 ---
 
-## Rav Amram Story
+## Rav Amram Story (III)
 
 ### Captive Women Setup
 
@@ -234,7 +234,7 @@ A group of captive women who had been redeemed were brought to Nehardea and plac
 
 ---
 
-## Gender Separation (Rava's Reeds)
+## Gender Separation (III) (Rava's Reeds)
 
 ### Rava's Reeds
 
@@ -242,7 +242,7 @@ Rava used reeds rather than pots to create separation between men and women at p
 
 ---
 
-## Rav Amram Story (Continued)
+## Rav Amram Story (III) (Continued)
 
 ### Amram's Temptation
 
@@ -258,7 +258,7 @@ This story echoes the notion of *gera b'chata'av* — mastery over one's sins. I
 
 ---
 
-## Gender Separation (Regalim Concern)
+## Gender Separation (III) (Regalim Concern)
 
 ### Regalim Concern
 
@@ -270,7 +270,7 @@ Avin teaches: *saqva d'shata rigla* — the weakness of the year is the *regalim
 
 ---
 
-## Rav Amram Story (Fire Alarm & Mastery)
+## Rav Amram Story (III) (Fire Alarm & Mastery)
 
 ### Fire Alarm Strategy
 

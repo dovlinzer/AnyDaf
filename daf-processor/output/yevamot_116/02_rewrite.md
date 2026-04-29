@@ -36,13 +36,13 @@ Abaye's position is thus that while verification is required, it is not an infin
 
 Rava brings his own proof from practice. He reports that in Mechuza, his home city, two writs of debt circulated bearing the names *Chavi bar Nanai* and *Nanai bar Chavi* — clearly very common names in that locale. It is important to clarify a point about these cases: the common names belong to the *creditors*, not to both parties. The debtor's identity was presumably unambiguous. The question was whether the individuals presenting the writs and bearing those common names could be assumed to be the genuine creditors, given that many others shared those names. Rabba bar Avua — presumably a court authority in Mechuza — allowed collection on these documents. He was not deterred by the fact that many others in the city shared the creditors' names.
 
-## Found Get Case…
+## Found Get Case (II)
 
 ### Rashi: Money vs Issur
 
 Rashi draws an explicit analogy from this *dinei mamonot* case to the domain of *issur*. His reasoning runs as follows: here we have a monetary case where we concretely know that other people share the creditor's name — *shechichi tuva*, they are very common — and yet we do not require further verification beyond the fact that the person is presenting the document. If we do not demand exhaustive verification even under those conditions in money matters, then certainly in a case of *issur* — permitting a woman to remarry — where we do not actually know of anyone else with the same name, we should not be required to investigate the entire city. The analogy is admittedly imperfect, since one could distinguish in multiple directions, but the underlying principle is that not every circumstance of a shared name triggers an obligation to search and verify.
 
-## Rava: Common Names…
+## Rava: Common Names (II)
 
 ### Document as Testimony
 

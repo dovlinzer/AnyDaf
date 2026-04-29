@@ -1,6 +1,6 @@
 # Avodah Zarah 11 — Daf Yomi Shiur
 
-## Jewish Minority Context
+## Jewish Minority Cont (II)
 
 ### Integration vs. Distinct…
 
@@ -52,7 +52,7 @@ It is worth noting in this context that Jews in the Roman world likely constitut
 
 The *Gemara* now takes up the verse *Shnei goyim bevitnech* — "two nations are in your womb" — said by God to *Rivka*. *Amar Rav Yehuda amar Rav al tikrei goyim ela ge'im* — do not read it as "nations" but as "haughty ones," or ones of great stature, *de'Antoninus ve'Rebbi* — referring to Antoninus and *Rebbi*. This is a classic example of the *al tikrei* reading, rerouting the plain meaning of a biblical verse through a subtle orthographic shift to generate a new layer of significance.
 
-## Jewish Minority Contex…
+## Jewish Minority Cont (II)
 
 ### Yaakov-Eisav Paradigm
 
@@ -278,7 +278,7 @@ What is striking about this passage is the underlying reality it reveals. Around
 
 *Tosafos* draws on this point in dealing with the practical reality of Sunday as a major market day in medieval Europe. The argument that Sunday was simply a merchants' day — not a serious pagan holiday — is already anticipated by the *Gemara*'s own logic, though *Tosafos* finds other grounds as well, including a significant reconceptualization of the nature of Christian worship relative to *avodah zarah*.
 
-## Shmuel's Leniency…
+## Shmuel's Leniency (II)
 
 ### Practical Impossibility
 

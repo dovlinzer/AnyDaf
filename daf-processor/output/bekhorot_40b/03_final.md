@@ -212,7 +212,7 @@ The *mishnah* continues: *ve'hachittin hapnimiyot she'nifgemu aval lo she'ne'ekr
 
 ---
 
-## Skin Conditions
+## Skin Conditions (II)
 
 ### Scabs & Warts
 
@@ -220,7 +220,7 @@ The *mishnah* lists: *u'va'al garav u'va'al yavelet* — those with *garav* (sca
 
 ---
 
-## Non-Blemish Issues
+## Non-Blemish Issues (II)
 
 ### Age Sick Smelly
 

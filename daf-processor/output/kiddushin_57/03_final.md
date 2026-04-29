@@ -82,7 +82,7 @@ Regarding the *tzippurei metzora* — the birds brought as part of the purificat
 
 The logical structure is a *gezeira shava* of principle: just as inside the *Beis Hamikdash* the *machshir* — the *metzora's asham* — is treated like the *mechaper* and is forbidden in benefit, so too outside the *Beis Hamikdash* the *machshir* — the *metzora's* birds — is treated like the *mechaper*, and since the *egla arufa* is forbidden in benefit, so too the birds are forbidden in benefit.
 
-## Metzora Birds Timeline
+## Metzora Birds Timeli (II)
 
 ### Yochanan/Lakish
 
@@ -112,7 +112,7 @@ The *gemara* then asks: if the *egla arufa* is not forbidden from the moment of 
 
 The *gemara* rejects this: *hachi hashta? hasam is lei gvul achrina hacha leis lei gvul achrina* — the situations are not parallel. The *egla arufa* has its own distinct moment — the descent to the wadi — which is explicitly referenced in the *Torah*. The *metzora* birds have no such equivalent moment. And as *Rashi* points out, while the *Torah* says nothing analogous to the descent of the wadi by the birds, it does say explicitly that the birds must be purchased (*tikach*), thereby establishing the moment of acquisition as the operative trigger. Each has its own moment, but both become forbidden while still alive.
 
-## Metzora Birds Timeline (continued)
+## Metzora Birds Timeli (II)
 
 ### Braisa Proof
 

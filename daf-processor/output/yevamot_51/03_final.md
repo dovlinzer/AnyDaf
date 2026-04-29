@@ -52,7 +52,7 @@ The practical upshot is that the Rabbis needed these institutions to carry some 
 
 ---
 
-## Biah Pesulah Doctrine
+## Biah Pesulah Doctrin (II)
 
 ### Biah After Get
 

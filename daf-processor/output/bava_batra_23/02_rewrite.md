@@ -164,7 +164,7 @@ The *gemara* then asks why the ruling mentions the concern about *shovchin* at a
 
 ---
 
-## Dovecote Distances…
+## Dovecote Distances (II)
 
 ### Purchaser & Heir Claims
 

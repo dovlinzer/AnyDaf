@@ -104,7 +104,7 @@ This single unified structure had four wheels underneath — two outer wheels an
 
 ---
 
-## Mound & Rock
+## Mound & Rock (II)
 
 ### Dimensions
 
@@ -136,7 +136,7 @@ The question is: in which dimension do they combine? Here *Rashi* and *Tosafot* 
 
 ---
 
-## Mound & Rock (continued)
+## Mound & Rock (II)
 
 ### Application
 

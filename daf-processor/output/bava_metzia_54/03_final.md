@@ -108,7 +108,7 @@ The Gemara reads Rabbi's split ruling as revealing something about the underlyin
 
 ---
 
-## Fifth Me'akev?…
+## Fifth Me'akev? (II)
 
 ### Rav Pappa Resolves
 
@@ -148,7 +148,7 @@ The original statement of Rabbi Yochanan must therefore be read more narrowly: i
 
 ---
 
-## Ma'aser Below Prutah…
+## Ma'aser Below Prutah (II)
 
 ### Fifth Not Me'akev
 

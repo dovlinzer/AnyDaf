@@ -186,7 +186,7 @@ Finally, Rav Huna son of Rav Yehoshua offers an alternative verse as the source 
 
 ---
 
-## Judgment Midrash
+## Judgment Midrash (II)
 
 ### Future Scenario
 
@@ -230,7 +230,7 @@ The *gemara* then asks: on what basis does the most important nation enter first
 
 ---
 
-## Judgment Midrash (continued)
+## Judgment Midrash (II)
 
 ### Rome's Claim
 

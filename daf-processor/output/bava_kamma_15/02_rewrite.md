@@ -96,7 +96,7 @@ There is a further debate referenced in the *gemara*: if one admits to a fine an
 
 ---
 
-## Bifnei Beis Din…
+## Bifnei Beis Din (II)
 
 ### Bnei Chorin Bnei Brit
 
@@ -170,7 +170,7 @@ The *gemara* now attempts to resolve the *machloket* between Rav Papa and Rav Hu
 
 ---
 
-## Both Parties Pay…
+## Both Parties Pay (II)
 
 ### Compensation Model
 
@@ -186,7 +186,7 @@ The *gemara* answers: *lo nitzrecha ela le-pichut neveila* — the phrase teache
 
 ---
 
-## Mamona or Knasa…
+## Mamona or Knasa (II)
 
 ### Counter Incomplete
 

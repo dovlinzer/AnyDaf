@@ -218,7 +218,7 @@ Tosafot therefore concludes that the real dispute is more precisely framed as fo
 
 ---
 
-## Chattat & Smicha
+## Chattat & Smicha (II)
 
 ### The Challenge
 
@@ -230,7 +230,7 @@ The Gemara now turns to a challenge against the *mishna*'s third case — the *c
 
 ---
 
-## Chattat & Smicha (continued)
+## Chattat & Smicha (II)
 
 ### Rav Yosef's Answer
 

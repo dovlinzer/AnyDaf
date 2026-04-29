@@ -208,7 +208,7 @@ The rationale for the exemption is now articulated. *De-yakrei lei* — these pe
 
 ---
 
-## Merchant vs. Homeowner
+## Merchant vs. Homeown (II)
 
 ### Equal Rules for All
 
@@ -246,7 +246,7 @@ This reasoning reflects a broader economic sensibility embedded in the Gemara's 
 
 ---
 
-## Merchant vs. Homeowner Category
+## Merchant vs. Homeown (II)
 
 ### Rabbi Yehuda's Exception
 

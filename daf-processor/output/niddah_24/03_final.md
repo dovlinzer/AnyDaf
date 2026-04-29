@@ -196,7 +196,7 @@ Rav Giddel also transmits in the name of Rabbi Yochanan a case involving a fetus
 
 ---
 
-## Facial Deformation
+## Facial Deformation (II)
 
 ### Smushed Face
 
@@ -240,7 +240,7 @@ This episode encodes a broader principle of the utmost practical importance: *ch
 
 ---
 
-## Conjoined Twins
+## Conjoined Twins (II)
 
 ### Two Backs Status
 

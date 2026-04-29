@@ -100,7 +100,7 @@ Ravina responds: *Eved Ivri yokhiach* — the Hebrew slave sold to a non-Jew is 
 
 ---
 
-## Relatives' Redemption Ri…
+## Relatives' Redemptio (II)
 
 ### Relatives Redeem Houses?
 
@@ -128,7 +128,7 @@ The Gemara then notes the grammatical difficulty with this reading: the word *be
 
 ---
 
-## Obligation & Hebrew Slav…
+## Obligation & Hebrew (II)
 
 ### Right vs. Obligation
 
@@ -144,7 +144,7 @@ Rabbi Eliezer reads *ve-ga'al et mimchar achiv* as establishing a *chovah* — a
 
 ---
 
-## Relatives' Redemption…
+## Relatives' Redemptio (II)
 
 ### Yigalenu Repetitions
 
@@ -156,7 +156,7 @@ So both potential scope-extensions — *u-vekhol ge'ulah titnu* and the triple *
 
 ---
 
-## Obligation & Hebrew Sl…
+## Obligation & Hebrew (II)
 
 ### Rabbi's Teaching
 

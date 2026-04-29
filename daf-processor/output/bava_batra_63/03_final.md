@@ -108,7 +108,7 @@ What this *sugya* opens up is a remarkably sophisticated conception of ownership
 
 ---
 
-## Reish Lakish & House
+## Reish Lakish & House (II)
 
 ### Diyuta Elyona
 
@@ -122,7 +122,7 @@ The *diyuta elyona* refers to the uppermost layer of bricks — a course, in the
 
 ---
 
-## Reish Lakish & House Construction Rights
+## Reish Lakish & House (II)
 
 ### Zizin Rights
 

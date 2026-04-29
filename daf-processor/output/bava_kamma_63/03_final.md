@@ -232,7 +232,7 @@ The derivation comes from a parallel. Later in the same section of *psukim* deal
 
 ---
 
-## First Braita Logic…
+## First Braita Logic (II)
 
 ### First Establishes
 
@@ -264,7 +264,7 @@ One might suppose the answer lies in a *kal vachomer*: if someone who merely mak
 
 ---
 
-## First Braita Logic…
+## First Braita Logic (II)
 
 ### Second Excludes
 
@@ -272,7 +272,7 @@ The second *pasuk* — *im lo yimatze haganav* — according to the first *brait
 
 ---
 
-## True Ganav Kefel…
+## True Ganav Kefel (II)
 
 ### Dayo Rule
 

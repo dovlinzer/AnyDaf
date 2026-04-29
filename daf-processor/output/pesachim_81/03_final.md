@@ -114,7 +114,7 @@ This last scenario leads to an observation by *Rashi* and *Tosafot* about which 
 
 ---
 
-## Tzitz Timing & Awareness
+## Tzitz Timing & Aware (II)
 
 ### After Zerika Only
 

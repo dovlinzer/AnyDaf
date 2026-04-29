@@ -112,7 +112,7 @@ Tosafot builds on this to derive the type of saltiness that triggers taste trans
 
 ---
 
-## Blood Extraction Laws
+## Blood Extraction Law (II)
 
 ### Roasted vs Raw Meat
 
@@ -176,7 +176,7 @@ Tosafot cites the *Bahag* in rejecting the practical applicability of this metho
 
 ---
 
-## Blood Extraction Laws…
+## Blood Extraction Law (II)
 
 ### Shmuel's Contradictions
 

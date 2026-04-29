@@ -98,7 +98,7 @@ Beyond these, the *mishna* includes *kimuliya*, which Rav Yehuda identifies as *
 
 ---
 
-## Sacred Items & Geniza
+## Sacred Items & Geniz (II)
 
 ### Idolatry Items
 
@@ -154,7 +154,7 @@ Rabbi Eliezer specifies: *lo yiphos metzinora ktana shel nechoshet* — no less 
 
 ---
 
-## Sacred Items & Geniza…
+## Sacred Items & Geniz (II)
 
 ### Torah Waste
 
@@ -242,7 +242,7 @@ Rabbi Yehuda adds: *af hamotzi chagav chai tamei kol shehu* — even a live non-
 
 ---
 
-## Seeds & Plants…
+## Seeds & Plants (II)
 
 ### Why Minimum Seeds
 
@@ -284,7 +284,7 @@ A single pig bristle (*michsha shel chazir*) suffices, as it is harder and is us
 
 ---
 
-## Locusts…
+## Locusts (II)
 
 ### Locust for Wisdom
 

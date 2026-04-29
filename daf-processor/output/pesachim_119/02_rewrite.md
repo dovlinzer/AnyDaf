@@ -186,7 +186,7 @@ The Gemara does not provide the full context for each of these attributions, but
 
 ---
 
-## Doubling Verses
+## Doubling Verses (III)
 
 ### Custom Doubling
 
@@ -204,7 +204,7 @@ The Gemara asks: *mai mashma d'over lishna de-akdumi hu* — how do we know that
 
 ---
 
-## Doubling Verses…
+## Doubling Verses (III)
 
 ### Rabbi Doubling
 
@@ -238,7 +238,7 @@ David, of course, was also a flawed individual in various ways, and he did not m
 
 ---
 
-## Doubling Verses……
+## Doubling Verses (III)…
 
 ### Repetition Concern
 
@@ -246,7 +246,7 @@ A question was raised about whether the practice of repeating words or verses in
 
 ---
 
-## Bracha Status…
+## Bracha Status (II)
 
 ### Hallel Status
 

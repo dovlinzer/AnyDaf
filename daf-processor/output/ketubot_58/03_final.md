@@ -44,7 +44,7 @@ The *gemara* then raises an analogous challenge: if a *kohen* is a hired laborer
 
 ---
 
-## Simpon & Defect
+## Simpon & Defect (II)
 
 ### Defect Concern
 
@@ -184,7 +184,7 @@ There is a related question about the *kinyan kaspo* derivation. The verse reads
 
 ---
 
-## Simpon & Defect (Structural Analysis)
+## Simpon & Defect (II)
 
 ### 12 Mo. vs Chupah
 

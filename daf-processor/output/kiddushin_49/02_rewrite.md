@@ -100,7 +100,7 @@ The *Gemara* establishes that the principle of *mareh makom* applies specificall
 
 ---
 
-## Three Tannaim…
+## Three Tannaim (II)
 
 ### R. Elazar Case
 

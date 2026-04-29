@@ -34,7 +34,7 @@ The Gemara's final answer is: *ela danin inuy bidei shamayim me'inuy bidei shama
 
 Yet the earlier distinction — communal versus individual — is also worth pausing over. Is this purely a technical point about which verse grammatically qualifies for comparison? Or is there something substantively true about the communal nature of fasting that the Gemara is drawing out? One might observe that eating is naturally a public, shared activity — families and communities eat together — whereas sexual activity is inherently private. When an entire community fasts together, there is something meaningfully communal about that experience; everyone is in *shul* together, not eating. But if every household were refraining from marital relations, one would not describe this as a communal abstention from sex in the same organic sense. The experience of the day as a *communal* fast, as opposed to a collection of individual fasts happening simultaneously, may be precisely what is being communicated here. *Rashi* reinforces this by noting that the community in the *mahn* narrative is *Klal Yisrael* as a whole — all of Israel ate the *mahn*, all of Israel went hungry without it on a given day — just as all of Israel does not eat on *Yom Kippur*.
 
-## Eating & Religion
+## Eating & Religion (II)
 
 ### Manna Discussion
 
@@ -284,7 +284,7 @@ The *Gemara* now transitions to a series of anecdotes about *Amoraim* who miracu
 
 *Yoma chad lo aiti* — one day the sharecropper did not bring any quail. *Rava* wondered what had happened. He went up to the roof and heard a child reciting the verse: *shamati va'tirgaz bitni* — I have heard, and my stomach trembled. *Shma mina nach nafsheih de'Rav Chisda* — from this *Rava* understood that *Rav Chisda*, his father-in-law and *Rebbi*, had died. *Uvidil Rava achal talmida* — the student eats by virtue of his teacher. With the teacher gone, the ongoing flow of blessing that sustained the student was interrupted, and no quail fell that day.
 
-## Eating & Religion
+## Eating & Religion (II)
 
 ### Fasting & Eating
 

@@ -1,0 +1,4259 @@
+{
+  "segment": 1,
+  "segment_name": "Halakha",
+  "entries": [
+    {
+      "id": "shabbat_holidays",
+      "name": "Shabbat and Holidays",
+      "hebrew": "שַׁבָּת וּמוֹעֲדִים",
+      "parent_id": null,
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shabbat",
+      "name": "Shabbat",
+      "hebrew": "שַׁבָּת",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shabbat_melachot",
+      "name": "Melachot (Prohibited Shabbat Labors)",
+      "hebrew": "מְלָאכוֹת שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "melechet_machshevet",
+      "name": "Melechet Machshevet (Intentional Labor)",
+      "hebrew": "מְלֶאכֶת מַחְשֶׁבֶת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "melachah_sheinah_tzerichah_legufah",
+      "name": "Melachah She'einah Tzerichah LeGufah",
+      "hebrew": "מְלָאכָה שֶׁאֵינָהּ צְרִיכָה לְגוּפָהּ",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mekalkel",
+      "name": "Mekalkel (Destructive Labor on Shabbat)",
+      "hebrew": "מְקַלְקֵל",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "psik_reisha",
+      "name": "Psik Reisha (Inevitable Consequence)",
+      "hebrew": "פְּסִיק רֵישָׁא",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Also appears under Talmudic Methodology"
+    },
+    {
+      "id": "davar_sheino_mitkavein",
+      "name": "Davar She'eino Mitkavein (Unintended Act)",
+      "hebrew": "דָּבָר שֶׁאֵינוֹ מִתְכַּוֵּון",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Also appears under Talmudic Methodology"
+    },
+    {
+      "id": "hotzaah_shabbat",
+      "name": "Hotzaah (Carrying on Shabbat)",
+      "hebrew": "הוֹצָאָה בְּשַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bein_hashmashot",
+      "name": "Bein HaShmashot (Twilight)",
+      "hebrew": "בֵּין הַשְּׁמָשׁוֹת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosefet_shabbat",
+      "name": "Tosefet Shabbat (Adding to Shabbat)",
+      "hebrew": "תּוֹסֶפֶת שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "oneg_shabbat",
+      "name": "Oneg Shabbat (Shabbat Delight)",
+      "hebrew": "עוֹנֶג שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kevod_shabbat",
+      "name": "Kevod Shabbat (Shabbat Honor)",
+      "hebrew": "כְּבוֹד שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bigdei_shabbat",
+      "name": "Bigdei Shabbat (Shabbat Clothing)",
+      "hebrew": "בִּגְדֵי שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shabbat_uvanimalim",
+      "name": "Shabbat and One's Animals",
+      "hebrew": null,
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "schar_shabbat",
+      "name": "Schar Shabbat (Payment for Shabbat)",
+      "hebrew": "שְׂכַר שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "uvda_dechol_beshabbat",
+      "name": "Uvda d'Chol beShabbat (Weekday Activities on Shabbat)",
+      "hebrew": "אוּבְדָּא דְּחוֹל בְּשַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiddush",
+      "name": "Kiddush",
+      "hebrew": "קִידּוּשׁ",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "havdalah",
+      "name": "Havdalah",
+      "hebrew": "הַבְדָּלָה",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "melaveh_malkah",
+      "name": "Melaveh Malkah",
+      "hebrew": "מְלַוֶּה מַלְכָּה",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "techum_shabbat",
+      "name": "Techum Shabbat (Shabbat Boundary)",
+      "hebrew": "תְּחוּם שַׁבָּת",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eruvin",
+      "name": "Eruvin",
+      "hebrew": "עֵירוּבִין",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eruv_chatzeirot",
+      "name": "Eruv Chatzeirot",
+      "hebrew": "עֵירוּב חֲצֵרוֹת",
+      "parent_id": "eruvin",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shitufei_mevoot",
+      "name": "Shitufei Mevo'ot (Alleyway Partnership)",
+      "hebrew": "שִׁיתּוּפֵי מְבוֹאוֹת",
+      "parent_id": "eruvin",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eruv_tavshilin",
+      "name": "Eruv Tavshilin",
+      "hebrew": "עֵירוּב תַּבְשִׁילִין",
+      "parent_id": "eruvin",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "karmelit",
+      "name": "Karmelit",
+      "hebrew": "כַּרְמְלִית",
+      "parent_id": "eruvin",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hachanah_derabbah",
+      "name": "Hachanah d'Rabbah (Preparation on Shabbat/Yom Tov)",
+      "hebrew": "הַכָּנָה דְּרַבָּה",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "muktzeh",
+      "name": "Muktzeh",
+      "hebrew": "מוּקְצֶה",
+      "parent_id": "shabbat",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nolad",
+      "name": "Nolad (Born/Newly Created on Shabbat)",
+      "hebrew": "נוֹלָד",
+      "parent_id": "muktzeh",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "basis_ledavar_haasur",
+      "name": "Basis leDavar haAsur (Base for Prohibited Object)",
+      "hebrew": "בָּסִיס לְדָבָר הָאָסוּר",
+      "parent_id": "muktzeh",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "muchan_leklavim",
+      "name": "Muchan l'Klavim/Muchan l'Adam",
+      "hebrew": "מוּכָן לִכְלָבִים / מוּכָן לְאָדָם",
+      "parent_id": "muktzeh",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yom_tov",
+      "name": "Yom Tov (Jewish Holidays)",
+      "hebrew": "יוֹם טוֹב",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tosefet_yom_hakippurim",
+      "name": "Tosefet Yom HaKippurim",
+      "hebrew": "תּוֹסֶפֶת יוֹם הַכִּפּוּרִים",
+      "parent_id": "yom_tov",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chol_hamoed",
+      "name": "Chol HaMoed (Intermediate Days)",
+      "hebrew": "חוֹל הַמּוֹעֵד",
+      "parent_id": "yom_tov",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pesach",
+      "name": "Pesach (Passover)",
+      "hebrew": "פֶּסַח",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "biur_chametz",
+      "name": "Biur Chametz (Destroying Leaven)",
+      "hebrew": "בִּיעוּר חָמֵץ",
+      "parent_id": "pesach",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bal_yeiraeh_bal_yimatzei",
+      "name": "Bal Yeiraeh and Bal Yimatzei (Chametz Prohibitions)",
+      "hebrew": "בַּל יֵרָאֶה וּבַל יִמָּצֵא",
+      "parent_id": "pesach",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "matzah",
+      "name": "Matzah",
+      "hebrew": "מַצָּה",
+      "parent_id": "pesach",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maror",
+      "name": "Maror (Bitter Herbs)",
+      "hebrew": "מָרוֹר",
+      "parent_id": "pesach",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "korban_pesach",
+      "name": "Korban Pesach (Paschal Offering)",
+      "hebrew": "קָרְבַּן פֶּסַח",
+      "parent_id": "pesach",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": "Also under Temple and Sacrifices"
+    },
+    {
+      "id": "sefirat_haomer",
+      "name": "Sefirat HaOmer (Counting the Omer)",
+      "hebrew": "סְפִירַת הָעֹמֶר",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shavuot",
+      "name": "Shavuot (Pentecost)",
+      "hebrew": "שָׁבוּעוֹת",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rosh_hashanah",
+      "name": "Rosh HaShanah (New Year)",
+      "hebrew": "רֹאשׁ הַשָּׁנָה",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shofar",
+      "name": "Shofar",
+      "hebrew": "שׁוֹפָר",
+      "parent_id": "rosh_hashanah",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "aseret_yemei_teshuvah",
+      "name": "Aseret Yemei Teshuvah (Ten Days of Repentance)",
+      "hebrew": "עֲשֶׂרֶת יְמֵי תְּשׁוּבָה",
+      "parent_id": "rosh_hashanah",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yom_kippur",
+      "name": "Yom Kippur",
+      "hebrew": "יוֹם כִּפּוּר",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "erev_yom_kippur",
+      "name": "Erev Yom Kippur",
+      "hebrew": "עֶרֶב יוֹם כִּפּוּר",
+      "parent_id": "yom_kippur",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sair_laazazel",
+      "name": "Sa'ir LaAzazel (Scapegoat)",
+      "hebrew": "שָׂעִיר לַעֲזָאזֵל",
+      "parent_id": "yom_kippur",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Also under Temple and Sacrifices"
+    },
+    {
+      "id": "succot",
+      "name": "Sukkot",
+      "hebrew": "סֻכּוֹת",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "arba_minim",
+      "name": "Arba Minim (Four Species)",
+      "hebrew": "אַרְבַּע מִינִים",
+      "parent_id": "succot",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chanukah",
+      "name": "Chanukah",
+      "hebrew": "חֲנֻכָּה",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "menorah_chanukah",
+      "name": "Menorah (Chanukah)",
+      "hebrew": "מְנוֹרָה (חֲנֻכָּה)",
+      "parent_id": "chanukah",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pirsumei_nisa",
+      "name": "Pirsumei Nisa (Publicizing the Miracle)",
+      "hebrew": "פִּרְסוּמֵי נִסָּא",
+      "parent_id": "chanukah",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "purim",
+      "name": "Purim",
+      "hebrew": "פּוּרִים",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "matanot_laevyonim",
+      "name": "Matanot LaEvyonim (Purim Gifts to Poor)",
+      "hebrew": "מַתָּנוֹת לָאֶבְיוֹנִים",
+      "parent_id": "purim",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "fast_days",
+      "name": "Fast Days",
+      "hebrew": "תַּעֲנִיּוֹת",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tisha_bav",
+      "name": "Tisha B'Av",
+      "hebrew": "תִּשְׁעָה בְּאָב",
+      "parent_id": "fast_days",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tu_bav",
+      "name": "Tu b'Av (Fifteenth of Av)",
+      "hebrew": "טוּ בְּאָב",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tu_bishvat",
+      "name": "Tu b'Shevat",
+      "hebrew": "טוּ בִּשְׁבָט",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rosh_chodesh",
+      "name": "Rosh Chodesh (New Month)",
+      "hebrew": "רֹאשׁ חֹדֶשׁ",
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiddush_hachodesh",
+      "name": "Kiddush HaChodesh (Sanctifying the New Month)",
+      "hebrew": "קִידּוּשׁ הַחֹדֶשׁ",
+      "parent_id": "rosh_chodesh",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ibbur_shanah",
+      "name": "Ibbur Shanah (Intercalation of Year)",
+      "hebrew": "עִבּוּר שָׁנָה",
+      "parent_id": "rosh_chodesh",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "holidays_other_religions",
+      "name": "Holidays of Other Religions",
+      "hebrew": null,
+      "parent_id": "shabbat_holidays",
+      "category": "SHABBAT AND HOLIDAYS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "prayer_liturgy",
+      "name": "Prayer and Liturgy",
+      "hebrew": "תְּפִלָּה וְלִיטוּרְגִּיָּה",
+      "parent_id": null,
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tefillah",
+      "name": "Tefillah (Prayer)",
+      "hebrew": "תְּפִלָּה",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amidah",
+      "name": "Amidah (Shemoneh Esreh)",
+      "hebrew": "עֲמִידָה / שְׁמוֹנֶה עֶשְׂרֵה",
+      "parent_id": "tefillah",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shema",
+      "name": "Shema",
+      "hebrew": "שְׁמַע",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kavvanah",
+      "name": "Kavvanah (Intention in Prayer/Mitzvot)",
+      "hebrew": "כַּוָּנָה",
+      "parent_id": "tefillah",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "quorum_for_prayer",
+      "name": "Minyan (Quorum for Prayer)",
+      "hebrew": "מִנְיָן",
+      "parent_id": "tefillah",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "berov_am_hadrat_melech",
+      "name": "BeRov Am Hadrat Melech",
+      "hebrew": "בְּרֹב עָם הַדְרַת מֶלֶךְ",
+      "parent_id": "tefillah",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tachanun",
+      "name": "Tachanun",
+      "hebrew": "תַּחֲנוּן",
+      "parent_id": "tefillah",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hallel",
+      "name": "Hallel",
+      "hebrew": "הַלֵּל",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kaddish",
+      "name": "Kaddish",
+      "hebrew": "קַדִּישׁ",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "berachot",
+      "name": "Berachot (Blessings)",
+      "hebrew": "בְּרָכוֹת",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birkat_hamazon",
+      "name": "Birkat HaMazon (Grace After Meals)",
+      "hebrew": "בִּרְכַּת הַמָּזוֹן",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "berachah_rishonah",
+      "name": "Berachah Rishonah (Before-blessing)",
+      "hebrew": "בְּרָכָה רִאשׁוֹנָה",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "berachah_acharonah",
+      "name": "Berachah Acharonah (After-blessing)",
+      "hebrew": "בְּרָכָה אַחֲרוֹנָה",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_hanehenin",
+      "name": "Birchat HaNehenin (Blessings over Enjoyments)",
+      "hebrew": "בִּרְכַּת הַנֶּהֱנִין",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_hamitzvah",
+      "name": "Birchat HaMitzvah (Blessing over Commandments)",
+      "hebrew": "בִּרְכַּת הַמִּצְוָה",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_shevach_vehodaah",
+      "name": "Birchat Shevach v'Hodaah (Praise and Thanks Blessings)",
+      "hebrew": "בִּרְכַּת שֶׁבַח וְהוֹדָאָה",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_hagomel",
+      "name": "Birchat HaGomel (Thanksgiving Blessing)",
+      "hebrew": "בִּרְכַּת הַגּוֹמֵל",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_hailanot",
+      "name": "Birchat HaIlanot (Blessing on Trees)",
+      "hebrew": "בִּרְכַּת הָאִילָנוֹת",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "baruch_tov_vhameitiv",
+      "name": "Baruch HaTov v'HaMeitiv",
+      "hebrew": "בָּרוּךְ הַטּוֹב וְהַמֵּטִיב",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "baruch_dayyan_haemet",
+      "name": "Baruch Dayyan HaEmet",
+      "hebrew": "בָּרוּךְ דַּיַּן הָאֱמֶת",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "asher_yatzar",
+      "name": "Asher Yatzar",
+      "hebrew": "אֲשֶׁר יָצַר",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shehechiyanu",
+      "name": "Shehechiyanu",
+      "hebrew": "שֶׁהֶחֱיָנוּ",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchot_hatorah",
+      "name": "Birchot HaTorah (Torah Blessings)",
+      "hebrew": "בִּרְכוֹת הַתּוֹרָה",
+      "parent_id": "berachot",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birchat_kohanim",
+      "name": "Birchat Kohanim (Priestly Blessing)",
+      "hebrew": "בִּרְכַּת כֹּהֲנִים",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiddush_levanah",
+      "name": "Kiddush Levanah (Blessing on Moon)",
+      "hebrew": "קִידּוּשׁ לְבָנָה",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amen",
+      "name": "Amen",
+      "hebrew": "אָמֵן",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "haftorah",
+      "name": "Haftorah",
+      "hebrew": "הַפְטָרָה",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keriat_hatorah",
+      "name": "Keriat HaTorah (Torah Reading)",
+      "hebrew": "קְרִיאַת הַתּוֹרָה",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shnayim_mikra_echad_targum",
+      "name": "Shnayim Mikra ve'Echad Targum",
+      "hebrew": "שְׁנַיִם מִקְרָא וְאֶחָד תַּרְגּוּם",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "synagogues",
+      "name": "Synagogues",
+      "hebrew": "בָּתֵּי כְנֶסֶת",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beit_midrash",
+      "name": "Beit Midrash (House of Study)",
+      "hebrew": "בֵּית מִדְרָשׁ",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_prayers",
+      "name": "Temple Prayers",
+      "hebrew": "תְּפִלּוֹת בַּמִּקְדָּשׁ",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kos_shel_berachah",
+      "name": "Kos Shel Berachah (Cup of Blessing)",
+      "hebrew": "כּוֹס שֶׁל בְּרָכָה",
+      "parent_id": "prayer_liturgy",
+      "category": "PRAYER AND LITURGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tefillin_mezuzah_tzitzit",
+      "name": "Ritual Objects and Signs",
+      "hebrew": null,
+      "parent_id": null,
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tefillin",
+      "name": "Tefillin (Phylacteries)",
+      "hebrew": "תְּפִלִּין",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mezuzah",
+      "name": "Mezuzah",
+      "hebrew": "מְזוּזָה",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzitzit",
+      "name": "Tzitzit",
+      "hebrew": "צִיצִית",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "techelet",
+      "name": "Techelet (Blue Thread)",
+      "hebrew": "תְּכֵלֶת",
+      "parent_id": "tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tallit",
+      "name": "Tallit",
+      "hebrew": "טַלִּית",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "brit_milah",
+      "name": "Brit Milah (Circumcision)",
+      "hebrew": "בְּרִית מִילָה",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kippah",
+      "name": "Kippah (Head Covering)",
+      "hebrew": "כִּפָּה",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kisuy_harosh",
+      "name": "Kisuy HaRosh (Head Covering — Halachic)",
+      "hebrew": "כִּסּוּי הָרֹאשׁ",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sheitel",
+      "name": "Sheitel (Wig)",
+      "hebrew": "שֵׁיטֶל",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sefer_torah",
+      "name": "Sefer Torah (Torah Scroll)",
+      "hebrew": "סֵפֶר תּוֹרָה",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amulets",
+      "name": "Amulets",
+      "hebrew": "קְמֵעוֹת",
+      "parent_id": "tefillin_mezuzah_tzitzit",
+      "category": "RITUAL OBJECTS AND SIGNS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_sacrifices",
+      "name": "Temple and Sacrifices",
+      "hebrew": "מִקְדָּשׁ וְקָרְבָּנוֹת",
+      "parent_id": null,
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beit_hamikdash",
+      "name": "Beit HaMikdash (Temple)",
+      "hebrew": "בֵּית הַמִּקְדָּשׁ",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bayit_rishon",
+      "name": "Bayit Rishon (First Temple)",
+      "hebrew": "בַּיִת רִאשׁוֹן",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bayit_sheni",
+      "name": "Bayit Sheni (Second Temple)",
+      "hebrew": "בַּיִת שֵׁנִי",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bayit_shlishi",
+      "name": "Bayit Shlishi (Third Temple)",
+      "hebrew": "בַּיִת שְׁלִישִׁי",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "churban_beit_hamikdash",
+      "name": "Churban Beit HaMikdash (Temple Destruction)",
+      "hebrew": "חֻרְבַּן בֵּית הַמִּקְדָּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "building_beit_hamikdash",
+      "name": "Building the Beit HaMikdash",
+      "hebrew": "בִּנְיַן בֵּית הַמִּקְדָּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "zecher_lechurban",
+      "name": "Zecher l'Churban (Remembrance of Destruction)",
+      "hebrew": "זֵכֶר לְחֻרְבָּן",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_architecture",
+      "name": "Temple Architecture",
+      "hebrew": null,
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_dimensions",
+      "name": "Temple Dimensions",
+      "hebrew": null,
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "azarah",
+      "name": "Azarah (Temple Courtyard)",
+      "hebrew": "עֲזָרָה",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "heichal",
+      "name": "Heichal (Temple Sanctuary)",
+      "hebrew": "הֵיכָל",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kodesh_kodashim",
+      "name": "Kodesh Kodashim (Holy of Holies)",
+      "hebrew": "קֹדֶשׁ הַקֳּדָשִׁים",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "har_habayit",
+      "name": "Har HaBayit (Temple Mount)",
+      "hebrew": "הַר הַבַּיִת",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "parochet_hamikdash",
+      "name": "Parochet HaMikdash (Temple Curtain)",
+      "hebrew": "פָּרֹכֶת הַמִּקְדָּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bedek_habayit",
+      "name": "Bedek HaBayit (Temple Maintenance)",
+      "hebrew": "בֶּדֶק הַבַּיִת",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "biat_hamikdash",
+      "name": "Biat HaMikdash (Entering the Temple)",
+      "hebrew": "בִּיאַת הַמִּקְדָּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "trespass_beit_hamikdash",
+      "name": "Trespass on Beit HaMikdash Property",
+      "hebrew": null,
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "meilah",
+      "name": "Meilah (Sacrilege/Misuse of Temple Property)",
+      "hebrew": "מְעִילָה",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hekdesh",
+      "name": "Hekdesh (Consecrated Property)",
+      "hebrew": "הֶקְדֵּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hakdashah",
+      "name": "Hakdashah (Consecration)",
+      "hebrew": "הַקְדָּשָׁה",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pidyon_hekdesh",
+      "name": "Pidyon Hekdesh (Redeeming Consecrated Property)",
+      "hebrew": "פִּדְיוֹן הֶקְדֵּשׁ",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kedushat_damim",
+      "name": "Kedushat Damim (Monetary Sanctity)",
+      "hebrew": "קְדֻשַּׁת דָּמִים",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mishkan",
+      "name": "Mishkan (Tabernacle)",
+      "hebrew": "מִשְׁכָּן",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "building_mishkan",
+      "name": "Building the Mishkan",
+      "hebrew": "בִּנְיַן הַמִּשְׁכָּן",
+      "parent_id": "mishkan",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "miluim_mishkan",
+      "name": "Miluim for the Mishkan (Inaugural Offerings)",
+      "hebrew": "מִלּוּאִים לַמִּשְׁכָּן",
+      "parent_id": "mishkan",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mishkan_shiloh",
+      "name": "Mishkan Shiloh (Tabernacle at Shiloh)",
+      "hebrew": "מִשְׁכַּן שִׁילֹה",
+      "parent_id": "mishkan",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "klei_hamikdash",
+      "name": "Klei HaMikdash (Temple Vessels)",
+      "hebrew": "כְּלֵי הַמִּקְדָּשׁ",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "menorah_temple",
+      "name": "Menorah (Temple)",
+      "hebrew": "מְנוֹרָה (מִקְדָּשׁ)",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shulchan_hamikdash",
+      "name": "Shulchan (Temple Table/Showbread Table)",
+      "hebrew": "שֻׁלְחָן",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mizbach_hazahav",
+      "name": "Mizbach haZahav (Golden Altar)",
+      "hebrew": "מִזְבֵּחַ הַזָּהָב",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mizbach_haolah",
+      "name": "Mizbach haChitzon (Outer Altar)",
+      "hebrew": "מִזְבֵּחַ הַחִיצוֹן",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiyyor",
+      "name": "Kiyyor (Temple Laver)",
+      "hebrew": "כִּיּוֹר",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "aron",
+      "name": "The Ark (Aron haKodesh)",
+      "hebrew": "אֲרוֹן הַקֹּדֶשׁ",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "keruvim",
+      "name": "Keruvim (Cherubs)",
+      "hebrew": "כְּרוּבִים",
+      "parent_id": "klei_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lechem_hapanim",
+      "name": "Lechem HaPanim (Showbread)",
+      "hebrew": "לֶחֶם הַפָּנִים",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_memorials",
+      "name": "Temple Memorials",
+      "hebrew": null,
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shofar_boxes_mikdash",
+      "name": "Shofar Boxes of the Beit HaMikdash",
+      "hebrew": null,
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "machatzit_hashekel",
+      "name": "Machatzit HaShekel (Half-Shekel Temple Tax)",
+      "hebrew": "מַחֲצִית הַשֶּׁקֶל",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beit_hadeshen",
+      "name": "Beit HaDeshen (Ash Depository)",
+      "hebrew": "בֵּית הַדֶּשֶׁן",
+      "parent_id": "beit_hamikdash",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "korbanot",
+      "name": "Korbanot (Sacrificial Offerings)",
+      "hebrew": "קָרְבָּנוֹת",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "olah",
+      "name": "Olah (Burnt Offering)",
+      "hebrew": "עוֹלָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chatat",
+      "name": "Chatat (Sin Offering)",
+      "hebrew": "חַטָּאת",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "asham",
+      "name": "Asham (Guilt Offering)",
+      "hebrew": "אָשָׁם",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shelamim",
+      "name": "Shelamim (Peace Offering)",
+      "hebrew": "שְׁלָמִים",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "korban_todah",
+      "name": "Korban Todah (Thanks Offering)",
+      "hebrew": "קָרְבַּן תּוֹדָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "korban_tamid",
+      "name": "Korban Tamid (Daily Offering)",
+      "hebrew": "קָרְבַּן תָּמִיד",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "musaf_offering",
+      "name": "Musaf Offering (Additional Offering)",
+      "hebrew": "קָרְבַּן מוּסָף",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chagigah_offering",
+      "name": "Chagigah (Festival Offering)",
+      "hebrew": "חֲגִיגָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "oleh_veyored",
+      "name": "Oleh v'Yored (Sliding Scale Offering)",
+      "hebrew": "עוֹלֶה וְיוֹרֵד",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "korbanot_outside_mikdash",
+      "name": "Korbanot Outside the Beit HaMikdash",
+      "hebrew": null,
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bamah",
+      "name": "Bamah (Personal Altar)",
+      "hebrew": "בָּמָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shechutei_chutz",
+      "name": "Shechutei Chutz (Slaughtering Outside Temple)",
+      "hebrew": "שְׁחוּטֵי חוּץ",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "blemishes_offerings",
+      "name": "Blemishes Invalidating Temple Offerings",
+      "hebrew": "מוּם בְּקָרְבָּנוֹת",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pesulei_hamukdashim",
+      "name": "Pesulei HaMukdashim (Invalid Consecrated Animals)",
+      "hebrew": "פְּסוּלֵי הַמֻּקְדָּשִׁים",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "issurei_mizbeach",
+      "name": "Issurei Mizbeach (Altar Prohibitions)",
+      "hebrew": "אִסּוּרֵי מִזְבֵּחַ",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pigul",
+      "name": "Pigul (Disqualified Offering)",
+      "hebrew": "פִּגּוּל",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temurah",
+      "name": "Temurah (Substituting a Sacrifice)",
+      "hebrew": "תְּמוּרָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mechusar_kapparah",
+      "name": "Mechusar Kapparah (Requiring Atonement Offering)",
+      "hebrew": "מְחֻסַּר כַּפָּרָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mechusar_begadim",
+      "name": "Mechusar Begadim (Improper Priestly Dress)",
+      "hebrew": "מְחֻסַּר בְּגָדִים",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mechusar_zman",
+      "name": "Mechusar Zman (Offering Before Proper Time)",
+      "hebrew": "מְחֻסַּר זְמָן",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kabbalat_hadam",
+      "name": "Kabbalat HaDam (Blood Reception)",
+      "hebrew": "קַבָּלַת הַדָּם",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "zerikat_hadam",
+      "name": "Zerikat HaDam (Blood Sprinkling)",
+      "hebrew": "זְרִיקַת הַדָּם",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "haktarah",
+      "name": "Haktarah (Burning on Altar)",
+      "hebrew": "הַקְטָרָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "holachah",
+      "name": "Holachah (Carrying Blood to Altar)",
+      "hebrew": "הוֹלָכָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tenufah",
+      "name": "Tenufah (Wave Offering)",
+      "hebrew": "תְּנוּפָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "semichah_korban",
+      "name": "Semichah on a Korban (Laying Hands)",
+      "hebrew": "סְמִיכָה עַל קָרְבָּן",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "melikah",
+      "name": "Melikah (Nipping Bird Offerings)",
+      "hebrew": "מְלִיקָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chataot_hapnimiyot",
+      "name": "Chataot HaPnimiyot (Inner Sin Offerings)",
+      "hebrew": "חַטָּאוֹת הַפְּנִימִיּוֹת",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "par_helem_davar",
+      "name": "Par He'elem Davar shel Tzibbur (Communal Sin Offering)",
+      "hebrew": "פַּר הֶעְלֵם דָּבָר שֶׁל צִבּוּר",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchot",
+      "name": "Minchot (Flour Offerings)",
+      "hebrew": "מְנָחוֹת",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchat_chavitin",
+      "name": "Minchat Chavitin (High Priest Daily Offering)",
+      "hebrew": "מִנְחַת חֲבִיתִין",
+      "parent_id": "minchot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchat_chotei",
+      "name": "Minchat Chotei (Sinner's Flour Offering)",
+      "hebrew": "מִנְחַת חוֹטֵא",
+      "parent_id": "minchot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchat_nedavah",
+      "name": "Minchat Nedavah (Voluntary Flour Offering)",
+      "hebrew": "מִנְחַת נְדָבָה",
+      "parent_id": "minchot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchat_omer",
+      "name": "Minchat Omer",
+      "hebrew": "מִנְחַת הָעֹמֶר",
+      "parent_id": "minchot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "minchat_sotah",
+      "name": "Minchat Sotah",
+      "hebrew": "מִנְחַת סוֹטָה",
+      "parent_id": "minchot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nesachim",
+      "name": "Nesachim (Libations)",
+      "hebrew": "נְסָכִים",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "levonah",
+      "name": "Levonah (Frankincense)",
+      "hebrew": "לְבוֹנָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "incense_ketoret",
+      "name": "Ketoret (Incense)",
+      "hebrew": "קְטֹרֶת",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "haktarat_ketoret",
+      "name": "Haktarat Ketoret (Burning of Incense)",
+      "hebrew": "הַקְטָרַת קְטֹרֶת",
+      "parent_id": "incense_ketoret",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shemen_hamishchah",
+      "name": "Shemen HaMishchah (Anointing Oil)",
+      "hebrew": "שֶׁמֶן הַמִּשְׁחָה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "avodat_yom_hakippurim",
+      "name": "Avodat Yom HaKippurim (Yom Kippur Temple Service)",
+      "hebrew": "עֲבוֹדַת יוֹם הַכִּפּוּרִים",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kayitz_hamizbeiach",
+      "name": "Kayitz HaMizbeiach (Altar Supplement)",
+      "hebrew": "קַיִץ הַמִּזְבֵּחַ",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "olah_lekayitz_hamizbeiach",
+      "name": "Olah l'Kayitz HaMizbeiach",
+      "hebrew": "עוֹלָה לְקַיִץ הַמִּזְבֵּחַ",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kinim",
+      "name": "Kinim (Bird Pair Offerings)",
+      "hebrew": "קִינִים",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzipporei_metzora",
+      "name": "Tzipporei Metzora (Metzora Bird Offering)",
+      "hebrew": "צִפּוֹרֵי מְצוֹרָע",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lachmei_todah",
+      "name": "Lachmei Todah (Todah Bread)",
+      "hebrew": "לַחְמֵי תּוֹדָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "se_ir_nachshon",
+      "name": "Se'ir Nachshon (Inaugural Offering)",
+      "hebrew": "שְׂעִיר נַחְשׁוֹן",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kohanim",
+      "name": "Kohanim (Priests)",
+      "hebrew": "כֹּהֲנִים",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kohen_gadol",
+      "name": "Kohen Gadol (High Priest)",
+      "hebrew": "כֹּהֵן גָּדוֹל",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bigdei_kehunah",
+      "name": "Bigdei Kehunah (Priestly Garments)",
+      "hebrew": "בִּגְדֵי כְּהֻנָּה",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bigdei_srad",
+      "name": "Bigdei Srad (Transport Coverings)",
+      "hebrew": "בִּגְדֵי שְׂרָד",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kohen_shifts",
+      "name": "Kohen Shifts (Mishmarot)",
+      "hebrew": "מִשְׁמָרוֹת כֹּהֲנִים",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "matnot_kehunah",
+      "name": "Matnot Kehunah (Priestly Gifts)",
+      "hebrew": "מַתְּנוֹת כְּהֻנָּה",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bat_kohen_shezintah",
+      "name": "Bat Kohen sheZintah (Kohen's Daughter who Committed Adultery)",
+      "hebrew": "בַּת כֹּהֵן שֶׁזִּנְתָה",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "baal_mum",
+      "name": "Baal Mum (Blemished Priest)",
+      "hebrew": "בַּעַל מוּם",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiddush_yadayim_veraglayim",
+      "name": "Kiddush Yadayim v'Raglayim (Sanctification of Hands and Feet)",
+      "hebrew": "קִידּוּשׁ יָדַיִם וְרַגְלַיִם",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chavitei_kohen_gadol",
+      "name": "Chavitei Kohen Gadol (High Priest's Daily Offering)",
+      "hebrew": "חֲבִיתֵי כֹּהֵן גָּדוֹל",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "levites",
+      "name": "Levites (Shevet Levi)",
+      "hebrew": "לְוִיִּם",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ritzui_tzitz",
+      "name": "Ritzui Tzitz (Atoning Power of Head Plate)",
+      "hebrew": "רִצּוּי צִיץ",
+      "parent_id": "kohanim",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "aliyah_laregel",
+      "name": "Aliyah laRegel (Pilgrimage)",
+      "hebrew": "עֲלִיָּה לָרֶגֶל",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beit_pagi",
+      "name": "Beit Pagi",
+      "hebrew": "בֵּית פַּגִּי",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bechorot_animals",
+      "name": "Bechor Animals (Firstborn Animals)",
+      "hebrew": "בְּכוֹר בְּהֵמָה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "peter_chamor",
+      "name": "Peter Chamor (Firstborn Donkey)",
+      "hebrew": "פֶּטֶר חֲמוֹר",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pidyon_haben",
+      "name": "Pidyon HaBen (Redemption of Firstborn)",
+      "hebrew": "פִּדְיוֹן הַבֵּן",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaser_beheimah",
+      "name": "Maaser Beheimah (Animal Tithe)",
+      "hebrew": "מַעֲשַׂר בְּהֵמָה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ben_pekuah",
+      "name": "Ben Pekuah (Fetus from Slaughtered Animal)",
+      "hebrew": "בֶּן פְּקוּעָה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "parah_adumah",
+      "name": "Parah Adumah (Red Heifer)",
+      "hebrew": "פָּרָה אֲדֻמָּה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eglah_arufah",
+      "name": "Eglah Arufah (Broken-Necked Heifer)",
+      "hebrew": "עֶגְלָה עֲרוּפָה",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "urim_vetummim",
+      "name": "Urim veTummim",
+      "hebrew": "אוּרִים וְתֻמִּים",
+      "parent_id": "temple_sacrifices",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "animal_sacrifice_general",
+      "name": "Animal Sacrifice (General)",
+      "hebrew": "קָרְבַּן בְּהֵמָה",
+      "parent_id": "korbanot",
+      "category": "TEMPLE AND SACRIFICES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "purity_impurity",
+      "name": "Purity and Impurity",
+      "hebrew": "טָהֳרָה וְטֻמְאָה",
+      "parent_id": null,
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumah_general",
+      "name": "Tumah (Ritual Impurity — General)",
+      "hebrew": "טֻמְאָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "taharah",
+      "name": "Taharah (Ritual Purity)",
+      "hebrew": "טָהֳרָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "avot_nezikin_tumah",
+      "name": "Avot HaTumah (Primary Sources of Impurity)",
+      "hebrew": "אֲבוֹת הַטֻּמְאָה",
+      "parent_id": "tumah_general",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_met",
+      "name": "Tumat Met (Corpse Impurity)",
+      "hebrew": "טֻמְאַת מֵת",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_ohel",
+      "name": "Tumat Ohel (Tent Impurity)",
+      "hebrew": "טֻמְאַת אֹהֶל",
+      "parent_id": "tumat_met",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beit_hapras",
+      "name": "Beit HaPras (Doubtful Impurity Field)",
+      "hebrew": "בֵּית הַפְּרָס",
+      "parent_id": "tumat_met",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "met_mitzvah",
+      "name": "Met Mitzvah (Unattended Corpse)",
+      "hebrew": "מֵת מִצְוָה",
+      "parent_id": "tumat_met",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_keri",
+      "name": "Tumat Keri (Seminal Impurity)",
+      "hebrew": "טֻמְאַת קֶרִי",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "niddah",
+      "name": "Niddah (Menstrual Impurity)",
+      "hebrew": "נִדָּה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bedikot_niddah",
+      "name": "Bedikot Niddah (Niddah Examinations)",
+      "hebrew": "בְּדִיקוֹת נִדָּה",
+      "parent_id": "niddah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ketem",
+      "name": "Ketem (Stain)",
+      "hebrew": "כֶּתֶם",
+      "parent_id": "niddah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "veset",
+      "name": "Veset (Menstrual Cycle Pattern)",
+      "hebrew": "וֶסֶת",
+      "parent_id": "niddah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "zivah",
+      "name": "Zivah (Discharge Impurity)",
+      "hebrew": "זִיבָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "zav_zavah",
+      "name": "Zav/Zavah",
+      "hebrew": "זָב / זָבָה",
+      "parent_id": "zivah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "boel_niddah",
+      "name": "Boel Niddah",
+      "hebrew": "בּוֹעֵל נִדָּה",
+      "parent_id": "niddah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_neveilah",
+      "name": "Tumat Neveilah (Carcass Impurity)",
+      "hebrew": "טֻמְאַת נְבֵלָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_sheretz",
+      "name": "Tumat Sheretz (Creeping Creature Impurity)",
+      "hebrew": "טֻמְאַת שֶׁרֶץ",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_ochlin",
+      "name": "Tumat Ochlin (Food Impurity)",
+      "hebrew": "טֻמְאַת אֳכָלִין",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_mashkim",
+      "name": "Tumat Mashkim (Liquid Impurity)",
+      "hebrew": "טֻמְאַת מַשְׁקִין",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_kelim",
+      "name": "Tumat Kelim (Vessel Impurity)",
+      "hebrew": "טֻמְאַת כֵּלִים",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_avodah_zarah",
+      "name": "Tumat Avodah Zarah (Idolatry Impurity)",
+      "hebrew": "טֻמְאַת עֲבוֹדָה זָרָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumat_mikdash_vekadashav",
+      "name": "Tumat Mikdash v'Kodashav",
+      "hebrew": "טֻמְאַת מִקְדָּשׁ וְקָדָשָׁיו",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tumah_hutrah_betzubbur",
+      "name": "Tumah Hutrah b'Tzibbur (Impurity Permitted for Communal Offering)",
+      "hebrew": "טֻמְאָה הֻתְּרָה בְּצִבּוּר",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaraat",
+      "name": "Tzaraat (Biblical Leprosy)",
+      "hebrew": "צָרַעַת",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaraat_clothing",
+      "name": "Tzaraat on Clothing",
+      "hebrew": "צָרַעַת בְּגָדִים",
+      "parent_id": "tzaraat",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaraat_houses",
+      "name": "Tzaraat on Houses",
+      "hebrew": "צָרַעַת בָּתִּים",
+      "parent_id": "tzaraat",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nigei_batim",
+      "name": "Nigei Batim (House Plagues)",
+      "hebrew": "נִגְעֵי בָּתִּים",
+      "parent_id": "tzaraat",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mikvah",
+      "name": "Mikvah (Ritual Bath)",
+      "hebrew": "מִקְוֶה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tevilah",
+      "name": "Tevilah (Immersion)",
+      "hebrew": "טְבִילָה",
+      "parent_id": "mikvah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tevilat_niddah",
+      "name": "Tevilat Niddah",
+      "hebrew": "טְבִילַת נִדָּה",
+      "parent_id": "mikvah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tevilat_kelim",
+      "name": "Tevilat Kelim (Immersion of Vessels)",
+      "hebrew": "טְבִילַת כֵּלִים",
+      "parent_id": "mikvah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tevul_yom",
+      "name": "Tevul Yom (Immersed That Day)",
+      "hebrew": "טְבוּל יוֹם",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chatzitzah",
+      "name": "Chatzitzah (Interposition in Immersion)",
+      "hebrew": "חֲצִיצָה",
+      "parent_id": "mikvah",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hechsher_lekabel_tumah",
+      "name": "Hechsher l'Kabel Tumah (Preparing Food for Impurity)",
+      "hebrew": "הֶכְשֵׁר לְקַבֵּל טֻמְאָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "machshirin",
+      "name": "Machshirin (Preparation for Impurity)",
+      "hebrew": "מַכְשִׁירִין",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mukaf_tzamid_patil",
+      "name": "Mukaf Tzamid Patil (Sealed Vessel)",
+      "hebrew": "מֻקָּף צָמִיד פָּתִיל",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzamid_patil",
+      "name": "Tzamid Patil",
+      "hebrew": "צָמִיד פָּתִיל",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mei_chatat",
+      "name": "Mei Chatat (Purification Waters)",
+      "hebrew": "מֵי חַטָּאת",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yoledet",
+      "name": "Yoledet (Woman Who Gave Birth)",
+      "hebrew": "יוֹלֶדֶת",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "family_purity",
+      "name": "Family Purity (Taharat HaMishpachah)",
+      "hebrew": "טָהֳרַת הַמִּשְׁפָּחָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chullin_alteharas_hakodesh",
+      "name": "Chullin sheNaasu al Taharat haKodesh",
+      "hebrew": "חֻלִּין שֶׁנַּעֲשׂוּ עַל טָהֳרַת הַקֹּדֶשׁ",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chullin_baazarah",
+      "name": "Chullin b'Azarah (Non-Sacred Food in Temple)",
+      "hebrew": "חֻלִּין בָּעֲזָרָה",
+      "parent_id": "purity_impurity",
+      "category": "PURITY AND IMPURITY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kashrut_category",
+      "name": "Kashrut (Dietary Laws)",
+      "hebrew": "כַּשְׁרוּת",
+      "parent_id": null,
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shechitah",
+      "name": "Shechitah (Ritual Slaughter)",
+      "hebrew": "שְׁחִיטָה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tereifot",
+      "name": "Tereifot (Forbidden Animals/Organic Defects)",
+      "hebrew": "טְרֵפוֹת",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "basar_bechalav",
+      "name": "Basar b'Chalav (Meat and Milk)",
+      "hebrew": "בָּשָׂר בְּחָלָב",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bitul_beshishim",
+      "name": "Bitul b'Shishim (Nullification in Sixty)",
+      "hebrew": "בִּטּוּל בְּשִׁשִּׁים",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "min_bmin",
+      "name": "Min b'Mino and Min b'she'Eino Mino (Like/Unlike Mixtures)",
+      "hebrew": "מִין בְּמִינוֹ / מִין בְּשֶׁאֵינוֹ מִינוֹ",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "taaruvot",
+      "name": "Taaruvot (Mixtures)",
+      "hebrew": "תַּעֲרֹבוֹת",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "dimua",
+      "name": "Dimua (Mixture of Terumah)",
+      "hebrew": "דִּמּוּעַ",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kashering_meat",
+      "name": "Kashering Meat (Salting)",
+      "hebrew": "כְּשֵׁרַת בָּשָׂר",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kashering_utensils",
+      "name": "Kashering Utensils",
+      "hebrew": "הַגְעָלַת כֵּלִים",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chelev",
+      "name": "Chelev (Forbidden Fat)",
+      "hebrew": "חֵלֶב",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "blood_kashrut",
+      "name": "Blood (Forbidden)",
+      "hebrew": "דָּם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gid_hanasheh",
+      "name": "Gid HaNasheh (Sciatic Nerve)",
+      "hebrew": "גִּיד הַנָּשֶׁה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eiver_min_hachai",
+      "name": "Eiver Min HaChai (Limb from Living Animal)",
+      "hebrew": "אֵבֶר מִן הַחַי",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neveilah",
+      "name": "Neveilah (Carcass)",
+      "hebrew": "נְבֵלָה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kosher_animals",
+      "name": "Kosher Animals",
+      "hebrew": "בְּהֵמָה כְּשֵׁרָה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kosher_fish",
+      "name": "Kosher Fish",
+      "hebrew": "דָּגִים כְּשֵׁרִים",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kosher_grasshoppers",
+      "name": "Kosher Grasshoppers",
+      "hebrew": "חֲגָבִים כְּשֵׁרִים",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chalav_yisrael",
+      "name": "Chalav Yisrael",
+      "hebrew": "חָלָב יִשְׂרָאֵל",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gevinat_akum",
+      "name": "Gevinat Akum (Non-Jewish Cheese)",
+      "hebrew": "גְּבִינַת עַכּוּ\"ם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bishul_akum",
+      "name": "Bishul Akum (Non-Jewish Cooking)",
+      "hebrew": "בִּשּׁוּל עַכּוּ\"ם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pat_akum",
+      "name": "Pat Akum (Non-Jewish Bread)",
+      "hebrew": "פַּת עַכּוּ\"ם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "stam_yeinam",
+      "name": "Stam Yeinam (Non-Jewish Wine)",
+      "hebrew": "סְתָם יֵינָם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yayin_nesech",
+      "name": "Yayin Nesech (Libation Wine)",
+      "hebrew": "יַיִן נֶסֶךְ",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "giulei_nochrim",
+      "name": "Giulei Nochrim (Non-Jewish Defiling)",
+      "hebrew": "גִּיעוּלֵי נָכְרִים",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "basar_shenitalem",
+      "name": "Basar sheNitalem min haAyin (Meat Out of Sight)",
+      "hebrew": "בָּשָׂר שֶׁנִּתְעַלֵּם מִן הָעַיִן",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "taam_lifgam",
+      "name": "Taam Lifgam (Worsened Taste)",
+      "hebrew": "טַעַם לִפְגָם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kisuy_hadam",
+      "name": "Kisuy HaDam (Covering the Blood)",
+      "hebrew": "כִּסּוּי הַדָּם",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "oto_veet_bno",
+      "name": "Oto v'et B'no (Slaughtering Animal and Offspring Same Day)",
+      "hebrew": "אוֹתוֹ וְאֶת בְּנוֹ",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shiluach_haken",
+      "name": "Shiluach HaKen (Sending Away Mother Bird)",
+      "hebrew": "שִׁלּוּחַ הַקֵּן",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tevel",
+      "name": "Tevel (Untithed Produce)",
+      "hebrew": "טֶבֶל",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chadash",
+      "name": "Chadash (New Grain)",
+      "hebrew": "חָדָשׁ",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yoshon",
+      "name": "Yoshon (Old Grain)",
+      "hebrew": "יָשָׁן",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "issurei_hanaah",
+      "name": "Issurei Hanaah (Forbidden Benefit)",
+      "hebrew": "אִסּוּרֵי הֲנָאָה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "etnan_zonah",
+      "name": "Etnan Zonah (Harlot's Payment)",
+      "hebrew": "אֶתְנַן זוֹנָה",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mechir_kelev",
+      "name": "Mechir Kelev (Dog's Exchange)",
+      "hebrew": "מְחִיר כֶּלֶב",
+      "parent_id": "kashrut_category",
+      "category": "KASHRUT",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "agriculture_tithes",
+      "name": "Agriculture and Tithes",
+      "hebrew": "חַקְלָאוּת וּמַעַשְׂרוֹת",
+      "parent_id": null,
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "terumah",
+      "name": "Terumah (Priestly Tithe)",
+      "hebrew": "תְּרוּמָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "terumat_maaser",
+      "name": "Terumat Maaser (Tithe from the Tithe)",
+      "hebrew": "תְּרוּמַת מַעֲשֵׂר",
+      "parent_id": "terumah",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaser_rishon",
+      "name": "Maaser Rishon (First Tithe)",
+      "hebrew": "מַעֲשֵׂר רִאשׁוֹן",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaser_sheni",
+      "name": "Maaser Sheni (Second Tithe)",
+      "hebrew": "מַעֲשֵׂר שֵׁנִי",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pidyon_maaser_sheni",
+      "name": "Pidyon Maaser Sheni (Redeeming Second Tithe)",
+      "hebrew": "פִּדְיוֹן מַעֲשֵׂר שֵׁנִי",
+      "parent_id": "maaser_sheni",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaser_ani",
+      "name": "Maaser Ani (Poor Tithe)",
+      "hebrew": "מַעֲשַׂר עָנִי",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bikkurim",
+      "name": "Bikkurim (First Fruits)",
+      "hebrew": "בִּכּוּרִים",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "challah_tithe",
+      "name": "Challah (Dough Tithe)",
+      "hebrew": "חַלָּה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "peah",
+      "name": "Peah (Corner of Field for Poor)",
+      "hebrew": "פֵּאָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "leket",
+      "name": "Leket (Gleanings)",
+      "hebrew": "לֶקֶט",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "peret",
+      "name": "Peret (Fallen Grapes)",
+      "hebrew": "פֶּרֶט",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shikchah",
+      "name": "Shikchah (Forgotten Sheaves)",
+      "hebrew": "שִׁכְחָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "demai",
+      "name": "Demai (Doubtfully Tithed Produce)",
+      "hebrew": "דְּמַאי",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "biur_maasrot",
+      "name": "Biur Maasrot (Removal of Tithes)",
+      "hebrew": "בִּיעוּר מַעַשְׂרוֹת",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "viduy_maaser",
+      "name": "Viduy Maaser (Tithe Declaration)",
+      "hebrew": "וִידּוּי מַעֲשֵׂר",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaser_rishon_shelo_nitlah_trumato",
+      "name": "Maaser Rishon sheLo Nitlah Trumato",
+      "hebrew": "מַעֲשֵׂר רִאשׁוֹן שֶׁלֹּא נִטְּלָה תְּרוּמָתוֹ",
+      "parent_id": "maaser_rishon",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shemitah",
+      "name": "Shemitah (Sabbatical Year)",
+      "hebrew": "שְׁמִטָּה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "biur_peirot_shviit",
+      "name": "Biur Peirot Shvi'it (Removal of Sabbatical Year Produce)",
+      "hebrew": "בִּיעוּר פֵּרוֹת שְׁבִיעִית",
+      "parent_id": "shemitah",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shemitat_kesafim",
+      "name": "Shemitat Kesafim (Loan Cancellation in Sabbatical Year)",
+      "hebrew": "שְׁמִטַּת כְּסָפִים",
+      "parent_id": "shemitah",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "prozbul",
+      "name": "Prozbul",
+      "hebrew": "פְּרוֹזְבּוּל",
+      "parent_id": "shemitah",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yovel",
+      "name": "Yovel (Jubilee Year)",
+      "hebrew": "יוֹבֵל",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chalukat_haaretz",
+      "name": "Chalukat HaAretz (Division of Land)",
+      "hebrew": "חֲלוּקַת הָאָרֶץ",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sdeh_achuzah",
+      "name": "Sdeh Achuzah (Ancestral Field)",
+      "hebrew": "שְׂדֵה אֲחֻזָּה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "batei_arei_chomah",
+      "name": "Batei Arei Chomah (Walled City Houses)",
+      "hebrew": "בָּתֵּי עָרֵי חוֹמָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "orlah",
+      "name": "Orlah (Forbidden Fruit of First Three Years)",
+      "hebrew": "עָרְלָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kerem_revay",
+      "name": "Kerem Revay (Fourth Year Vineyard Fruit)",
+      "hebrew": "כֶּרֶם רְבָעִי",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neta_revay",
+      "name": "Neta Revay (Fourth Year Planting)",
+      "hebrew": "נֶטַע רְבָעִי",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kilayim_planting",
+      "name": "Kilayim in Planting (Mixed Species)",
+      "hebrew": "כִּלְאַיִם בִּזְרִיעָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kilayim_plowing",
+      "name": "Kilayim in Plowing (Mixed Species Plowing)",
+      "hebrew": "כִּלְאַיִם בַּחֲרִישָׁה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kilei_hakerem",
+      "name": "Kilei haKerem (Mixed Species in Vineyard)",
+      "hebrew": "כִּלְאֵי הַכֶּרֶם",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "grafting",
+      "name": "Grafting",
+      "hebrew": "הַרְכָּבָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "interbreeding_animals",
+      "name": "Interbreeding Animals",
+      "hebrew": "הַרְבָּעַת בְּהֵמָה",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "reishit_hagez",
+      "name": "Reishit HaGez (First Shearing)",
+      "hebrew": "רֵאשִׁית הַגֵּז",
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tithing_wool",
+      "name": "Tithing Wool",
+      "hebrew": null,
+      "parent_id": "agriculture_tithes",
+      "category": "AGRICULTURE AND TITHES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "civil_commercial_law",
+      "name": "Civil and Commercial Law",
+      "hebrew": "דִּינֵי מָמוֹנוֹת",
+      "parent_id": null,
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tort_law",
+      "name": "Tort Law (Nezikin)",
+      "hebrew": "נְזִיקִין",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "avot_nezikin",
+      "name": "Avot Nezikin (Primary Categories of Damage)",
+      "hebrew": "אֲבוֹת נְזִיקִין",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "geneivah",
+      "name": "Geneivah (Theft)",
+      "hebrew": "גְּנֵיבָה",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gezelah",
+      "name": "Gezelah (Robbery)",
+      "hebrew": "גְּזֵלָה",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gezel_hager",
+      "name": "Gezel HaGer (Robbing a Convert)",
+      "hebrew": "גֵּזֶל הַגֵּר",
+      "parent_id": "gezelah",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "theft_damage",
+      "name": "Damage (General)",
+      "hebrew": "נֵזֶק",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gerama",
+      "name": "Gerama (Indirect Causation of Damage)",
+      "hebrew": "גְּרָמָא",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": null
+    },
+    {
+      "id": "liability_damage_property",
+      "name": "Liability for Damage Caused by My Property",
+      "hebrew": null,
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hezek_reiyah",
+      "name": "Hezek Ri'iyah (Damage from Sight/Privacy)",
+      "hebrew": "הֶזֵּק רְאִיָּה",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hezek_sheino_nikkar",
+      "name": "Hezek she'Eino Nikkar (Invisible Damage)",
+      "hebrew": "הֶזֵּק שֶׁאֵינוֹ נִכָּר",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "muad_animals",
+      "name": "Muad Animals (Forewarned Damaging Animal)",
+      "hebrew": "מוּעָד",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tam_animals_damage",
+      "name": "Tam Animals (Undeclared Damaging Animal)",
+      "hebrew": "תָּם",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shor_haniskal",
+      "name": "Shor HaNiskal (Condemned Ox)",
+      "hebrew": "שׁוֹר הַנִּסְקָל",
+      "parent_id": "tort_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "murder",
+      "name": "Murder",
+      "hebrew": "רֶצַח",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "murderous_animals",
+      "name": "Murderous Animals",
+      "hebrew": null,
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ba_bamachteret",
+      "name": "Ba baMachteret (Burglar)",
+      "hebrew": "בָּא בַּמַּחְתֶּרֶת",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "fines",
+      "name": "Fines (Kenas)",
+      "hebrew": "קְנָסוֹת",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kefel",
+      "name": "Kefel (Double Payment for Theft)",
+      "hebrew": "כֶּפֶל",
+      "parent_id": "fines",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chomesh",
+      "name": "Chomesh (Fifth Part Addition)",
+      "hebrew": "חוֹמֶשׁ",
+      "parent_id": "fines",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hashavat_aveidah",
+      "name": "Hashavat Aveidah (Returning Lost Objects)",
+      "hebrew": "הֲשָׁבַת אֲבֵדָה",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "metziah",
+      "name": "Metziah (Found Object)",
+      "hebrew": "מְצִיאָה",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sales",
+      "name": "Sales (Mechirah)",
+      "hebrew": "מְכִירָה",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mekach_taut",
+      "name": "Mekach Ta'ut (Erroneous Transaction)",
+      "hebrew": "מֶקַּח טָעוּת",
+      "parent_id": "sales",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "onaah",
+      "name": "Onaah (Overcharging)",
+      "hebrew": "אוֹנָאָה",
+      "parent_id": "sales",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "onaah_mammon",
+      "name": "Onaah Mammon (Monetary Overcharging)",
+      "hebrew": "אוֹנָאַת מָמוֹן",
+      "parent_id": "onaah",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "price_gouging",
+      "name": "Price Gouging",
+      "hebrew": null,
+      "parent_id": "sales",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "honest_weights",
+      "name": "Honest Weights and Measures",
+      "hebrew": "מִשְׁקָלוֹת צֶדֶק",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "mitzvot_613"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kinyanim",
+      "name": "Kinyanim (Legal Acquisitions)",
+      "hebrew": "קִנְיָנִים",
+      "parent_id": "civil_commercial_law",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kinyan_kesef",
+      "name": "Kinyan Kesef (Acquisition by Money)",
+      "hebrew": "קִנְיָן כֶּסֶף",
+      "parent_id": "kinyanim",
+      "category": "CIVIL AND COMMERCIAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    }
+  ]
+}

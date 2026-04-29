@@ -120,7 +120,7 @@ This immediately raises a further question: if the *rabbanan* allocate *ervat av
 
 ---
 
-## Azharah & Onesh…
+## Azharah & Onesh (II)
 
 ### Mother's Punishment
 
@@ -138,7 +138,7 @@ With that distinction in mind, the *Gemara* proceeds to examine both the source 
 
 ---
 
-## Bestiality Laws
+## Bestiality Laws (III)
 
 ### Why Stone Animal
 
@@ -146,7 +146,7 @@ Before continuing with *mishkav zachor*, the *Gemara* addresses the stoning of t
 
 ---
 
-## Mishkav Zachor…
+## Mishkav Zachor (II)
 
 ### Age Requirements
 
@@ -174,7 +174,7 @@ Reb Akiva holds that no separate verse is needed. He reads the verb of the origi
 
 ---
 
-## Bestiality Laws…
+## Bestiality Laws (III)
 
 ### Bestiality Age Rules
 
@@ -196,7 +196,7 @@ Reb Akiva, consistent with his earlier reasoning, holds that no separate verse i
 
 ---
 
-## Multiple Acts Analysis
+## Multiple Acts Analys (II)
 
 ### Male-Male Both Sides
 
@@ -214,7 +214,7 @@ Again, *lidivre Reb Yishmael, chayav shtayim*: one for *u've'chol behemah lo tit
 
 ---
 
-## Multiple Acts Analysis…
+## Multiple Acts Analys (II)
 
 ### Abaye's View
 
@@ -242,7 +242,7 @@ For Reb Akiva, the answer is *chayav shtayim* — two. He has no *kadesh* prohib
 
 ---
 
-## Bestiality Laws…
+## Bestiality Laws (III)
 
 ### Abaye's Correction
 

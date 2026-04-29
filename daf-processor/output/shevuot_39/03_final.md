@@ -186,7 +186,7 @@ The *gemara* now returns to examine the opening phrase of the *braisa*: *shevuat
 
 The *gemara* then addresses the underlying reason why the world trembled at the utterance of *lo tisa*. It might seem that the trembling was simply because this commandment was given at Sinai — but the *gemara* notes that the entire *Aseret HaDibrot* were given at Sinai, and yet we do not say that the world trembled at each of them. Alternatively, perhaps the trembling reflects the particular severity of *lo tisa*. But here the *gemara* points to a *mishna* that categorizes the transgressions: the lighter ones are positive and negative commandments excluding *lo tisa*, while the weightier category includes *krisos*, *misos beit din*, and *lo tisa* alongside them. So *lo tisa* is certainly weightier than ordinary negative commandments, yet it is not weightier than *karet* and *misas beit din*. There are many sins carrying those penalties, and yet the world did not tremble specifically at their utterance. What, then, accounts for the trembling?
 
-## Language & Severity…
+## Language & Severity (II)
 
 ### Why Trembling
 
@@ -228,7 +228,7 @@ The *gemara* then draws the critical distinction. In those other cases — *avod
 
 A *braisa* is cited in which Rebbe expounds the verse *ve-hikrasti oso* — and I will destroy him. Why does the Torah need to add this given the prior mention of the family? Because the prior verse, *u-v'mishpachto*, might suggest that the entire family receives *karet*. Therefore the Torah adds *oso* — him specifically receives *karet*, but not the entire family. The upshot is that in other *aveiros* the family receives only an accessory and lesser punishment, while in the case of a false oath the punishment that falls on the family is equal to that of the sinner himself, even as *karet* remains the exclusive penalty of the individual sinner alone.
 
-## Fear & Consequences…
+## Fear & Consequences (II)
 
 ### Cleanse Doctrine
 

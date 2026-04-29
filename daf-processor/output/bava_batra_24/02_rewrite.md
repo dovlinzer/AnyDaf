@@ -162,7 +162,7 @@ The *braita* then addresses what happens if the majority of this space is subseq
 
 ---
 
-## Enclosed Spaces…
+## Enclosed Spaces (II)
 
 ### City Spacing
 

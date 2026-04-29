@@ -236,7 +236,7 @@ Second, and more fundamentally, *Tosafos* argues that even if we assume *ye'ush*
 
 This raises naturally the broader question — which *Tosafos* does not fully resolve and which remains practically sensitive — of whether one may accept *tzedakah* donations or institutional gifts from individuals whose wealth derives from ill-gotten gains. The *mishnah* itself narrows its prohibition to direct engagement with the designated collection pouch: money obtained by the tax collector through other means, and held elsewhere, is not subject to the same concern. The practical upshot seems to be that while direct engagement with the stolen cache itself is prohibited, more attenuated connection — buying from his profits, accepting donations from his household — falls outside the prohibition.
 
-## Dina Demalchuta
+## Dina Demalchuta (II)
 
 ### Exceeding Authority
 
@@ -332,7 +332,7 @@ A related ruling from *Rava*: if a man is found at the threshing floor when the 
 
 Finally, the *gemara* addresses the question of current versus back taxes. A tax collector has discretion to seize property from one person temporarily to pressure another person to pay — even using an uninvolved party's assets as leverage. This applies to current-year obligations (*dubla d'bar l'ara d'charga d'hai shata*). But for back taxes (*shata d'chalif*), the discretion is reduced: *ho'il u'fayeis malka* — since the king was already appeased with whatever was collected for the prior year, and that matter is settled, the collector's discretionary powers to apply unusual pressure are correspondingly diminished.
 
-## Gezel Goy
+## Gezel Goy (IV) (II)
 
 ### Judging Mixed Cases
 
@@ -428,7 +428,7 @@ The pattern of these cases — while consistent with the *halachic* framework of
 
 *Tosafos* takes this at face value: the dominant position of this entire *gemara* is that *gezel goy* is *assur*, and if *Rav Ashi* believed otherwise the *gemara* would have made that clear. *Tosafos* therefore concludes that he genuinely intended to pay.
 
-## Non-Jewish Courts
+## Non-Jewish Courts (II)
 
 ### Volunteer Testimony
 

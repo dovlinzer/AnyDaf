@@ -20,7 +20,7 @@ With that background in place, the *gufa* turns to examine Rabbi's *drasha* from
 
 The Gemara immediately presses: where exactly is the concept of *tzara* to be found in this *pasuk*? And further, is not *tzara* already derived from the word *litzror* in the *pasuk* concerning *achos isha* — where the very root connoting *tzara* appears in the context of a *ervah*? Why abandon so elegant a source? The Gemara answers: Rabbi needs *litzror* for an entirely different *drasha* — one that will be explained presently — and therefore *litzror* is not available to Rabbi for the ordinary case of *tzarat ervah*.
 
-## Intro & Ervah Review…
+## Intro & Ervah Review (II)
 
 ### Zika & Achos Zekuka
 
@@ -32,7 +32,7 @@ Rashi's language is precise on this point: *v'zika havei k'ktzat kiddushin* — 
 
 This is the case of *achos zekuka* — the sister of the woman to whom there is *zika* — and it is a categorically different situation from the ordinary *tzarat ervah*. This explains why Rabbi cannot use *litzror* for the standard case of *tzarat ervah*: he needs it for this more specialized *drasha*.
 
-## Rabbi's Drasha…
+## Rabbi's Drasha (II)
 
 ### Two Wives & Choice
 

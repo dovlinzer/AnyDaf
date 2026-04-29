@@ -56,7 +56,7 @@ This establishes the premise underlying the earlier discussion — that the *kor
 
 ---
 
-## Shficha vs Zrika…
+## Shficha vs Zrika (II)
 
 ### Rabbi Akiva View
 
@@ -78,7 +78,7 @@ The assumption is that the Torah never specifies what to do with the blood of th
 
 ---
 
-## Bechor Drashos…
+## Bechor Drashos (II)
 
 ### Yosi HaGelili
 
@@ -150,7 +150,7 @@ This analysis rests on a general principle in the laws of *kodshim*: *shina lo h
 
 ---
 
-## Shammai 2 Apps…
+## Shammai 2 Apps (II)
 
 ### Gemara Q
 
@@ -162,7 +162,7 @@ The *gemara* answers: *kapara b'chidi lo ashkechan* — we never find that *kapa
 
 ---
 
-## Hillel 1 App…
+## Hillel 1 App (II)
 
 ### Averaging Method
 

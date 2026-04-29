@@ -84,7 +84,7 @@ Rav Nachman bar Yitzchak then offers a ringing endorsement: *zakai imei d'Rav Hu
 
 ---
 
-## Tenth's Reality
+## Tenth's Reality (III)
 
 ### Reality vs. Designation
 
@@ -136,7 +136,7 @@ This principle is intuitive: the act of calling eleven "ten" is meaningful only 
 
 ---
 
-## Tenth's Reality…
+## Tenth's Reality (III)
 
 ### Rava: Tenth Auto-Kadosh
 
@@ -180,7 +180,7 @@ The *Gemara* resolves this tension by limiting Rav Kahana's position carefully. 
 
 ---
 
-## Tenth's Reality……
+## Tenth's Reality (III)…
 
 ### Backward Counting
 

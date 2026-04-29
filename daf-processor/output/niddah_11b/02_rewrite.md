@@ -36,7 +36,7 @@ The Gemara then reverses the question and asks it according to Rav: since Rav ho
 
 ---
 
-## Hymenal Bleeding Criteria
+## Hymenal Bleeding Cri (II)
 
 ### Beit Shammai vs. Hillel
 
@@ -82,7 +82,7 @@ But the twice-daily check operates independently of intercourse. In that context
 
 ---
 
-## Hymenal Bleeding Crite…
+## Hymenal Bleeding Cri (II)
 
 ### Color Matters or Not by…
 

@@ -80,7 +80,7 @@ By contrast, when blood falls onto the *mizbeach* from a bird sacrifice, there i
 
 ---
 
-## Sacrifices Exempt…
+## Sacrifices Exempt (II)
 
 ### Blood Relocation
 

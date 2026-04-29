@@ -310,7 +310,7 @@ The opposing view holds: *ki hikish le'le'maan tihye Torat Hashem be'ficha, lehi
 
 Rav Chazina adds a brief practical note: *chazeina lehu letefillin d'bei chavivi* — he saw the *tefillin* in the home of his beloved, referring to Rabbi Chiya, *detfiri bechitna* — that they were sewn with flax. He then notes: *ve'leis hilcheta kevasei* — the *halacha* does not follow this practice for *tefillin*. The ruling is stated simply and the *gemara* moves on.
 
-## High Priest Death
+## High Priest Death (II)
 
 ### Mishnah Categories
 

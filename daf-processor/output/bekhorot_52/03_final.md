@@ -44,7 +44,7 @@ The plain meaning of the *mishnah* is best understood through a concrete sequenc
 
 ---
 
-## Shevach & Ra'uy
+## Shevach & Ra'uy (II)
 
 ### Math of Division
 
@@ -64,7 +64,7 @@ Similarly, the *bechor* does not receive a double portion of *ra'uy*—property 
 
 ---
 
-## Shevach & Ra'uy (continued)
+## Shevach & Ra'uy (II)
 
 > **Hebrew/Aramaic:** וְלֹא הָאִשָּׁה בִּכְתוּבָּתָהּ, וְלֹא הַבָּנוֹת בִּמְזוֹנוֹתֵיהֶן, וְלֹא אֶת הַיָּבָם, וְכוּלָּם אֵין נוֹטְלִין בַּשֶּׁבַח וְלֹא בָּרָאוּי כְּבַמּוּחְזָק.
 >
@@ -188,7 +188,7 @@ If the former view is correct (Abaye), then after *yibum* the *yavam* is entitle
 
 ---
 
-## No Return in Yovel
+## No Return in Yovel (II)
 
 ### Mishnah List
 
@@ -230,7 +230,7 @@ The Sages derive from the extra word *tashuvu*—you shall return—that gifts a
 
 ---
 
-## No Return in Yovel (continued)
+## No Return in Yovel (II)
 
 ### Rabbi Eliezer
 

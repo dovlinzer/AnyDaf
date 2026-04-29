@@ -192,7 +192,7 @@ Rav Chazina adds a brief practical note: *chazeina lehu letefillin d'bei chavivi
 
 The *mishnah* now enumerates the categories of *kohen gadol* whose death releases the manslayer from the *ir miklat*: *echad mashuach beshemen hamishcha* — one anointed with the oil of anointment, as was practiced in the first *Beit HaMikdash*; *ve'echad hamerubeh bigvadim* — one who attained the status of *kohen gadol* through investiture in the eight garments alone, a practice that became necessary toward the end of the first Temple period when the *shemen hamishcha* was no longer available; and *ve'echad she'avar mimishichuto* — even a former *kohen gadol*, one who had served in that capacity but was temporarily displaced — for example, because a *pul* rendered him unfit to serve on *Yom Kippur* and a replacement served in his place. Even such a retired *kohen gadol*, his death would free the manslayer.
 
-## High Priest Death…
+## High Priest Death (II)
 
 ### Mothers' Care
 

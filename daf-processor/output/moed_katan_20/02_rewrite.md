@@ -86,7 +86,7 @@ This structure is remarkable. Even when the burial occurred during *chol hamoed*
 
 ---
 
-## Regel & Shloshim…
+## Regel & Shloshim (II)
 
 ### Braita Challenge
 

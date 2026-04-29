@@ -148,7 +148,7 @@ The *gemara* suggests that *kol ha-chozer bo yado al ha-tachtona* is extending t
 
 ---
 
-## Rav's Ruling…
+## Rav's Ruling (II)
 
 ### Rav's Split
 
@@ -158,7 +158,7 @@ Alternatively, the *gemara* proposes *iba'is eima*: perhaps Rabbi Dosa himself d
 
 ---
 
-## Land Sale…
+## Land Sale (II)
 
 ### Seller Retraction
 

@@ -40,6 +40,12 @@ with no gaps large enough to contain other topics.
    - SELF-CHECK before outputting: verify that for every consecutive pair of macro segments \
 (N, N+1), the last micro timestamp of N is earlier than the first micro timestamp of N+1. \
 If any violation exists, split or reorder until the constraint holds.
+   - UNIQUE DISPLAY TITLES: Every display_title across all macro segments must be distinct. \
+No two macro segments may share the same display_title or near-identical wording (e.g., \
+"Rov Presumption" and "Rov Presumption…" are too similar). If a topic continues after an \
+interruption, append a distinguishing term instead of an ellipsis — e.g., "Rov: Witnesses", \
+"Rov: Final Ruling", "Migo II", or "Topic A (Resumed)". The same uniqueness rule applies \
+to micro segment display_titles within the same macro segment.
 
 2. MICRO SEGMENTS: Finer divisions within each macro segment, suitable for audio chapter \
 markers. For each, provide a full title (no length limit), a display_title (25 characters \

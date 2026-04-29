@@ -24,7 +24,7 @@ Abaye introduces the following tradition: *ein sham kohen, nisperdah hachavilah*
 
 ---
 
-## No Kohen Present…
+## No Kohen Present (II)
 
 ### Rashi vs Rav Yitzchak
 
@@ -36,7 +36,7 @@ Tosafot takes a third position: Rav Yitzchak bar Yehudah maintains that the *lev
 
 ---
 
-## Aliyot Order & Peace…
+## Aliyot Order & Peace (II)
 
 ### Levi Without Kohen
 
@@ -184,7 +184,7 @@ Yet Reish Lakish concedes something to the structure of Rabbi Levi's tradition: 
 
 ---
 
-## Written vs Oral
+## Written vs Oral (II)
 
 ### R. Elazar View
 
@@ -204,7 +204,7 @@ This maps onto a question that occupies scholars of *Midrashei Halacha*: are the
 
 ---
 
-## Written vs Oral
+## Written vs Oral (II)
 
 ### Separate Genres
 

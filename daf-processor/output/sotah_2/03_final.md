@@ -48,7 +48,7 @@ The reframing also calls to mind the *Torah*'s treatment of the *go'el ha-dam*, 
 
 ---
 
-## From Jealousy to Law…
+## From Jealousy to Law (II)
 
 ### Three Requirements
 
@@ -66,7 +66,7 @@ It bears noting that the *kinuy* need not be about private seclusion specificall
 
 ---
 
-## R. Eliezer vs R. Yehoshua
+## R. Eliezer vs R. Yeh (II)
 
 ### Seclusion Standard
 
@@ -150,7 +150,7 @@ More significantly: if the first marriage is *bashert* and not *lefi ma'asav*, t
 
 ---
 
-## R. Eliezer vs R. Yehos…
+## R. Eliezer vs R. Yeh (II)
 
 ### R. Eliezer View
 

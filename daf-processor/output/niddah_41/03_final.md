@@ -170,7 +170,7 @@ The *Gemara*'s ruling here sides with *makor mekomo tamei* as the operative posi
 
 ---
 
-## Niddah Threshold
+## Niddah Threshold (II)
 
 ### Outer House
 
@@ -196,7 +196,7 @@ The halachic consequence would be significant: if this were the ruling, *bedikos
 
 ---
 
-## Niddah Threshold Continued
+## Niddah Threshold (II)
 
 ### Between the Teeth
 

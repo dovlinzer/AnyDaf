@@ -256,7 +256,7 @@ The *gemara* now introduces a new *mishna*: *nishbar kado b'reshut harabbim* —
 
 Rabbi Yehuda qualifies the ruling: *bim'khaven chayav v'eino m'khaven patur* — if the owner intentionally broke the pitcher, he is liable; if unintentionally, he is exempt. Intentionality here, as a threshold for liability, suggests a stricter standard than the default rule — whether it means literally trying to break the pitcher, or some degree of deliberate negligence, is a question the *gemara* will examine. In any case, the *mishna* presents this as a case that sounds like *bor*.
 
-## Water: Shor or Bor?
+## Water: Shor or Bor? (II)
 
 ### Vessel vs. Person
 
@@ -298,7 +298,7 @@ Shmuel adds a clarification: *v'hani milei le'inyan ketala* — the exemption fo
 
 Thus Shmuel's reading of the *mishna* is necessarily about personal injury, not about damaged garments. Since the water is always *bor*, and *bor* is exempt for vessel damage, the *mishna*'s case of liability must refer to the person being injured — falling on the ground after slipping on the water. And Shmuel holds that even though the ground inflicted the actual injury — *karka olam* — liability still attaches, because the *bor* created the hazard that caused the fall.
 
-## Water: Shor or Bor? (continued)
+## Water: Shor or Bor? (II)
 
 ### Mafkir Determination
 

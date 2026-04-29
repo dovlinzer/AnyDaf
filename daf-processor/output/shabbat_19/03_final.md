@@ -94,7 +94,7 @@ The *Gemara* adds: *amru alav al Rabbi Yose HaKohen — v'amrei lah Rabbi Yose H
 
 A practical question arises: does this apply to placing mail in a postal box on Friday? The analysis of such cases is typically conducted through the framework of *amira le-goy* — the prohibition against instructing a non-Jew to perform *melacha* on Shabbos — rather than through the specifically Beis Shammai framework of process-initiation that governs much of this section of the *Gemara*. Depositing mail in a postal box on Friday raises questions about whether the carrier is performing work for the individual sender or for the postal service as an institution, and whether the sender has truly "instructed" anyone to do anything. Sending express mail for next-day delivery on Friday would clearly be more problematic. These remain subjects of significant halachic discussion.
 
-## Renting Objects…
+## Renting Objects (II)
 
 ### Fixed Price Criteria
 
@@ -112,7 +112,7 @@ These same principles apply, with heightened scrutiny, when the work is performe
 
 The interaction between these two criteria invites close analysis. One might argue, for instance, that a first-class postage stamp constitutes a fixed price for the service of letter delivery. However, the second criterion — that the carrier have realistic ability to deliver other than on Shabbos — is more doubtful, especially if the relevant pickup or delivery cycle falls exclusively within Shabbos. Additionally, the relationship between the sender and the individual carrier is mediated through a large institution, raising the further question of whether the non-Jewish worker performing the actual delivery is doing so for the sender or for the postal service as his employer.
 
-## Sending Letters…
+## Sending Letters (II)
 
 ### Fixed Price & Timing
 

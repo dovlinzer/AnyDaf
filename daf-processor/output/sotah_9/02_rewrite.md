@@ -82,7 +82,7 @@ This accumulation principle carries a dual implication. On one hand, nothing esc
 
 ---
 
-## Detailed Sotah Examples
+## Detailed Sotah Examp (II)
 
 ### Doorway Exposure
 
@@ -134,7 +134,7 @@ The Gemara imagines this encounter in terms of deliberate romantic seduction —
 
 ---
 
-## Detailed Sotah Example…
+## Detailed Sotah Examp (II)
 
 ### Secrecy to Exposure
 

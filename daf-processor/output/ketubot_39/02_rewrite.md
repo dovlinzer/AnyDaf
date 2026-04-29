@@ -1,6 +1,6 @@
 # Ketubot 39 — Daf Yomi Shiur
 
-## Knas: Betrothal & Divorce
+## Knas: Betrothal & Di (II)
 
 ### Three Opinions on Knas
 
@@ -14,7 +14,7 @@ Three distinct positions emerge. Rabbi Yose HaGlili holds that she does not sati
 
 The *gemara* now picks up at the *baraita* beginning *tanu rabbanan*, approximately ten lines from the bottom of 38b. The *baraita* states: *knaso l'mi? l'aviha* — who receives the *knas*? The father. *Ve'yesh omrim le'atzmah* — and some say she receives it herself. Since this *baraita* appears without a limiting context, it sounds as though it is discussing an ordinary case. The *gemara* therefore asks: why would she receive it herself? Rav Chisda explains: *hacha b'naara shenisorasa venisgarsha askinan* — we are dealing with the case of our *Mishna*, where there was *erusin* followed by divorce. This *baraita* thus mirrors precisely the debate between the two versions of Rabbi Akiva: Rabbi Akiva of the *Mishna* who says she keeps it, and Rabbi Akiva of the *baraita* who says the father keeps it.
 
-## Knas: Betrothal & Divo…
+## Knas: Betrothal & Di (II)
 
 ### Obligation vs. Transfer
 

@@ -92,7 +92,7 @@ This brings the entire analysis into focus. Rabbi Shimon's position is coherent 
 
 ---
 
-## Property Sanctification
+## Property Sanctificat (II)
 
 ### Eliezer View
 
@@ -102,7 +102,7 @@ Rabbi Eliezer holds that the *kedusha* is uniform: just as his house, his vessel
 
 ---
 
-## Property Sanctificatio…
+## Property Sanctificat (II)
 
 ### Yehoshua View
 

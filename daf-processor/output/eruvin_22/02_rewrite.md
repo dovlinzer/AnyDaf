@@ -124,7 +124,7 @@ Rabbi Bibi bar Abaye proposes reading the *mishna* as the *braitta* reads it —
 
 ---
 
-## Square vs. Rectangle…
+## Square vs. Rectangle (II)
 
 ### Akiva vs. Yosi
 

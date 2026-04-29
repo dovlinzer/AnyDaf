@@ -136,7 +136,7 @@ The *gemara* then reasons: in what case does this scenario make sense? If there 
 
 ---
 
-## Rav's Clarification
+## Rav's Clarification (III)
 
 ### Rav Maintains Position
 
@@ -162,7 +162,7 @@ This *baraita* poses a powerful challenge to Rav. The implication is that withou
 
 ---
 
-## Rav's Clarification…
+## Rav's Clarification (III)
 
 ### Court Force Language
 
@@ -170,7 +170,7 @@ Rav responds by drawing attention to the precise language of the *mishnah*: *hot
 
 ---
 
-## Rava's Reinterpretation
+## Rava's Reinterpretat (II)
 
 ### Language Question
 
@@ -178,7 +178,7 @@ Rava presses this point further. Why does the *baraita* itself employ the langua
 
 ---
 
-## Rav's Clarification……
+## Rav's Clarification (III)…
 
 ### Non-Disagreement Resolut…
 
@@ -186,7 +186,7 @@ The resolution that emerges is that Rav is not engaged in a substantive dispute 
 
 ---
 
-## Rava's Reinterpretatio…
+## Rava's Reinterpretat (II)
 
 ### Resolution
 

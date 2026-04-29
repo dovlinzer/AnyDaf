@@ -74,7 +74,7 @@ Rava offers a structural argument. In the standard *bat kohen* case, one can coh
 
 ---
 
-## Bat kohen analogy…
+## Bat kohen analogy (II)
 
 ### Impossible outcome
 
@@ -114,7 +114,7 @@ The *baraita* itself resolves this: *talmud lomar l'haznotah* — the word *l'ha
 
 ---
 
-## Al techalel meanings…
+## Al techalel meanings (II)
 
 ### Double lamed analysis
 

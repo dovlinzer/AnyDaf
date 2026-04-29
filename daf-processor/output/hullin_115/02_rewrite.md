@@ -6,7 +6,7 @@
 
 The present daf continues a discussion that began on 114b, and which will occupy us for roughly the next daf and a half: how do we derive from the verses forbidding the *bishul* — the cooking — of meat and milk together that one is also prohibited from eating the mixture and even from deriving any benefit from it? This is a question that exercised the *tannaim* considerably, producing a remarkable variety of derivations. Contrary to the impression one might get from reading Rashi on the *parasha* — where he simply notes that the verse was repeated three times, once for cooking, once for eating, and once for benefit — the *tannaim* in fact offer close to a dozen independent approaches to these same questions, and only one of them corresponds to Rashi's familiar explanation.
 
-## Intro: Meat & Milk…
+## Intro: Meat & Milk (II)
 
 ### Problem Statement
 

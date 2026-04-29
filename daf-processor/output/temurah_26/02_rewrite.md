@@ -230,7 +230,7 @@ The wrongfulness of *tmurah* can be understood in terms of proper procedural dig
 
 ---
 
-## Tmura vs. Mechulal…
+## Tmura vs. Mechulal (II)
 
 ### Atpusei Concept
 

@@ -34,7 +34,7 @@ The Gemara illustrates this with a brief narrative: *Abaye hava yasiv kamei de'R
 
 ---
 
-## Field vs. City Dignity
+## Field vs. City Digni (II)
 
 ### Unresolved Question
 
@@ -66,7 +66,7 @@ This criterion, however, is not always a perfect measure. As a student pointed o
 
 ---
 
-## Field vs. City Dignity…
+## Field vs. City Digni (II)
 
 ### Prika and Te'ina
 
@@ -300,7 +300,7 @@ The answer is no: *hashavat aveidah* does not require notifying the owner. This 
 
 ---
 
-## Double Language Pattern
+## Double Language Patt (II)
 
 ### Shiluach Hakan
 
@@ -320,7 +320,7 @@ Rava responds with the same structure: *shale'ach afilu me'ah pe'amim mashma* �
 
 ---
 
-## Double Language Patter…
+## Double Language Patt (II)
 
 ### Hochacha
 

@@ -122,7 +122,7 @@ However: *aval asara benei adam, mistapkim b'aluntis achas* — ten people who d
 
 ---
 
-## Oil & Body Care
+## Oil & Body Care (III)
 
 ### Anointing Oil
 
@@ -162,7 +162,7 @@ The *gemara* notes that the mother of Shmuel bar Yehuda had a silver scraper mad
 
 ---
 
-## Bathing & Towels…
+## Bathing & Towels (II)
 
 ### Shower vs. Immerse
 
@@ -190,7 +190,7 @@ Rebbi himself is cited from a *baraita*: when we were learning Torah from Rabbi 
 
 ---
 
-## Carrying vs. Wearing…
+## Carrying vs. Wearing (II)
 
 ### Scarf Below Shoulders
 
@@ -200,7 +200,7 @@ Rava applied this practically to the inhabitants of Mechuza. When they were requ
 
 ---
 
-## Oil & Body Care…
+## Oil & Body Care (III)
 
 ### Method Debate
 
@@ -210,7 +210,7 @@ The nature of the *uvda d'chol* concern here is admittedly unclear. The classic 
 
 ---
 
-## Bathing Locations…
+## Bathing Locations (II)
 
 ### Hot Springs Healing
 
@@ -236,7 +236,7 @@ A *baraita* then adds that Rabbi Nehorai was not actually named Nehorai — his 
 
 ---
 
-## Oil & Body Care……
+## Oil & Body Care (III)…
 
 ### Silver Scraper
 
@@ -244,7 +244,7 @@ The *gemara* records that Shmuel bar Yehuda's mother had a silver scraper made f
 
 ---
 
-## Medical Treatments…
+## Medical Treatments (II)
 
 ### Purgatives
 

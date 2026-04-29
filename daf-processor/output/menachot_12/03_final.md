@@ -104,7 +104,7 @@ The case of half-portions is more straightforward: *kechatzayis bachutz kechatza
 
 ---
 
-## Hamatir K'mitzvato…
+## Hamatir K'mitzvato (II)
 
 ### R. Yehuda's Principle
 

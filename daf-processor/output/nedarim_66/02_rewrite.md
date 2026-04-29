@@ -120,7 +120,7 @@ The *mishna* records: *ma'aseh hayah ve-hitir Rabbi Meir be-chol ha-betzalim* �
 
 ---
 
-## Independent Nedarim…
+## Independent Nedarim (II)
 
 ### R. Shimon's Teaching
 
@@ -132,7 +132,7 @@ The *chachamim*, however, disagree. In their view, saying *la-zeh, la-zeh, la-ze
 
 ---
 
-## Wine & Onion Cases…
+## Wine & Onion Cases (II)
 
 ### Wine Case
 

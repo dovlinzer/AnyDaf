@@ -104,7 +104,7 @@ The more precise formulation is: calling a slave property does not dehumanize th
 
 ---
 
-## Fetus Valuation…
+## Fetus Valuation (II)
 
 ### Payment Breakdown
 
@@ -174,7 +174,7 @@ This requirement of direct impact may also shed light on the conceptual structur
 
 ---
 
-## Special Cases…
+## Special Cases (II)
 
 ### Rav Chisda View
 

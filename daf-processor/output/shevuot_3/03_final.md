@@ -198,7 +198,7 @@ The *gemara* first attempts to resolve this by suggesting that the two-which-is-
 
 ---
 
-## Lashes Not Korban
+## Lashes Not Korban (II)
 
 ### Lashes Interpretation
 
@@ -258,7 +258,7 @@ The problem is severe: how does one receive lashes for a purely passive transgre
 
 ---
 
-## Yochanan & Passive Acts
+## Yochanan & Passive A (II)
 
 ### Yochanan Follows Stam
 
@@ -282,7 +282,7 @@ Yet *Rabbi Yochanan* himself rules otherwise. Together with *Reish Lakish*, he h
 
 ---
 
-## Yochanan & Passive Acts (continued)
+## Yochanan & Passive A (II)
 
 ### Two Reasons for No
 

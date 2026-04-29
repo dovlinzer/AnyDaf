@@ -68,7 +68,7 @@ One might note an interesting implicit assumption: the Gemara speaks throughout 
 
 ---
 
-## Roofed Public Domain
+## Roofed Public Domain (II)
 
 ### Roofed = Exempt
 
@@ -88,7 +88,7 @@ This raises an important question for *eiruv* construction. The *tzurat hapetach
 
 ---
 
-## Roofed Public Domain Revisited
+## Roofed Public Domain (II)
 
 ### Wagons Were Covered
 

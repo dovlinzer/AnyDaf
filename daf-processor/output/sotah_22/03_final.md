@@ -170,7 +170,7 @@ This brings us back directly to the opening discussion. Juxtapose *kol hamelamed
 
 ---
 
-## Am Ha'aretz…
+## Am Ha'aretz (II)
 
 ### Tosfot Complexity
 

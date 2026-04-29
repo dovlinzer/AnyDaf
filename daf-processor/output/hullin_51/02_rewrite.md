@@ -12,7 +12,7 @@ The halachic framework for these two intermediate chambers differs from other or
 
 ---
 
-## Holes in Beit Hakosot
+## Holes in Beit Hakoso (II)
 
 ### Needle Perforation Rules
 
@@ -58,7 +58,7 @@ The underlying commercial reality is stark: in a world where a certain percentag
 
 ---
 
-## Holes in Beit Hakosot…
+## Holes in Beit Hakoso (II)
 
 ### Needle vs. Natural Holes
 

@@ -1,6 +1,6 @@
 # Rosh Hashanah 33 — Daf Yomi Shiur
 
-## Malchuyot/Zichronot/Shof…
+## Malchuyot/Zichronot/ (II)
 
 ### Melech Mentions
 
@@ -50,7 +50,7 @@ This framework immediately creates a problem. For *zichronos* and *shofros*, the
 
 ---
 
-## Malchuyot/Zichronot/Sh…
+## Malchuyot/Zichronot/ (II)
 
 ### Fourth Malchuyot
 
@@ -142,7 +142,7 @@ Similarly: *vehashomea min hamitasek lo yatza* — one who hears the *shofar* fr
 
 ---
 
-## Shofar Restrictions…
+## Shofar Restrictions (II)
 
 ### Positive Mitzvah
 
@@ -152,7 +152,7 @@ It is worth noting that the *Gemara* does not pause to analyze whether individua
 
 ---
 
-## Women/Children…
+## Women/Children (II)
 
 ### Bal Tosif
 
@@ -194,7 +194,7 @@ This section also clarifies an important practical boundary for adults. The *Ram
 
 ---
 
-## Kavanah Issues…
+## Kavanah Issues (II)
 
 ### Musical Intent
 
@@ -226,7 +226,7 @@ The *Mishnah* introduces the *seder tekios*: *shalosh shel shalosh shalosh* — 
 
 ---
 
-## Sound Sequence…
+## Sound Sequence (II)
 
 ### Distinct Sounds
 

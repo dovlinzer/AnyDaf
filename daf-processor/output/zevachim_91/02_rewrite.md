@@ -152,7 +152,7 @@ The *gemara*, however, resists accepting this as proof for the broader *sha'alah
 
 ---
 
-## Meat Preparation…
+## Meat Preparation (II)
 
 ### Cooking Freedom
 

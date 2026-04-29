@@ -162,7 +162,7 @@ The Gemara now turns to a challenge against the *mishna*'s third case — the *c
 
 ---
 
-## Chattat & Smicha…
+## Chattat & Smicha (II)
 
 ### Rav Yosef's Answer
 

@@ -78,7 +78,7 @@ The Gemara identifies the root of the dispute: Rav holds *ba'alei chayim einam n
 
 ---
 
-## Damaged Altar…
+## Damaged Altar (II)
 
 ### Before Altar Built
 

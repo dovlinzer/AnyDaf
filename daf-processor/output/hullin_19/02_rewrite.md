@@ -114,13 +114,13 @@ The Gemara presents a לישנא אחרינא, a second formulation of Rav Huna'
 
 The second formulation then posits: if the first two-thirds were performed correctly and only the final third was above the zone — אבל שחט שני שליש והגרים שליש, דברי הכל כשרה — everyone agrees it is valid, because the principle of רובו של אחד כמוהו applies and we do not concern ourselves with what occurred after the majority was correctly executed.
 
-## Lishna Achrina…
+## Lishna Achrina (II)
 
 ### First Two OK
 
 On this reading of the second formulation, the universal agreement on the validity of the case where the first two-thirds were correct is grounded in a precise reading of the phrase רובו של אחד כמוהו. One might note that the formulation says כמוהו rather than ככולו. Possibly the דיוק is that כמוהו means that the majority counts as itself — as sufficient — rather than as a stand-in for the whole, implying that once majority is achieved, the requirement is discharged and nothing thereafter can undermine it.
 
-## Middle Third Case…
+## Middle Third Case (II)
 
 ### Life at Middle
 

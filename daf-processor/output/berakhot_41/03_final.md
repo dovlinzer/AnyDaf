@@ -124,7 +124,7 @@ However, the *gemara* adds, if the owner explicitly gathered these fallen dates 
 
 ---
 
-## Blessing Priority
+## Blessing Priority (II)
 
 ### Same Bracha Priority
 
@@ -276,7 +276,7 @@ The *gemara* then addresses the objection: if the *pasuk* is being used as the s
 
 ---
 
-## Blessing Priority (cont.)
+## Blessing Priority (II)
 
 ### Dates & Pomegranates
 

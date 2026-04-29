@@ -208,7 +208,7 @@ The question of women's obligation in *zimun* is bound up with the prior questio
 
 The *Gemara* resolves this: why can women and slaves not form a mixed group even if each separately has a form of *zimun*? The answer is *mishum pritzuta* — because of concerns about sexual impropriety. In the social context presupposed by the *Gemara*, a mixed gathering of women and slaves at a shared table raised concerns about impropriety in a way that a gathering of men alone, or women alone, did not. This ruling naturally prompts the question of whether the concern for *pritzuta* is contingent on social context and whether it would apply equally in contemporary settings where men and women regularly share meals — a question that has been addressed in recent halachic literature, including discussions that emerged from *Gush* regarding the possibility of mixed-gender *zimun* in contemporary family contexts.
 
-## Two-Person Eating…
+## Two-Person Eating (II)
 
 ### Shomea Ke'oneh Only
 

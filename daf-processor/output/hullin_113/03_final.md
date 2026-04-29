@@ -222,7 +222,7 @@ However, the same verse that includes them also limits them: *bachalav imo* — 
 
 ---
 
-## Shmuel's Gedi Drashas
+## Shmuel's Gedi Drasha (II)
 
 ### Gedi Broadening
 
@@ -268,7 +268,7 @@ The Gemara adds a further set of exclusions derived not from the word *gedi* but
 
 ---
 
-## Shmuel's Gedi Drashas…
+## Shmuel's Gedi Drasha (II)
 
 ### Drasha Resolution
 
@@ -292,7 +292,7 @@ This principle also has direct bearing on the dog food question raised earlier. 
 
 ---
 
-## Meat Definition…
+## Meat Definition (II)
 
 ### Fat Blood Placenta
 

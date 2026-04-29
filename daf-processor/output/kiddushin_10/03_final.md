@@ -46,7 +46,7 @@ The *Ran* on the first *daf* of the *Rif* in *Kesuvos* raises a penetrating diff
 
 ---
 
-## Na'arah Me'orasah…
+## Na'arah Me'orasah (II)
 
 ### Rebbi's Distinction
 

@@ -104,7 +104,7 @@ The *mishnah* states that Samaritans are trusted regarding whether an animal has
 
 ---
 
-## Gemara Reframe…
+## Gemara Reframe (II)
 
 ### Knowledge/Intent
 
@@ -112,7 +112,7 @@ The *Gemara* again raises the *mahu deteima*: perhaps they are simply mistaken a
 
 ---
 
-## Animal/Grave Trust…
+## Animal/Grave Trust (II)
 
 ### Grave Markers
 

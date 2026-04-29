@@ -152,7 +152,7 @@ What exactly is *ne'ila*? Rav says: *tzeluta yetirta* — it is an additional *S
 
 ---
 
-## Viduy - Confession…
+## Viduy - Confession (II)
 
 ### Closing Viduy
 
@@ -166,7 +166,7 @@ The Gemara's conclusion on the Shmuel question: *tiyuvta de-Shmuel tiyuvta* — 
 
 ---
 
-## Ne'ilah Service…
+## Ne'ilah Service (II)
 
 ### Ne'ilah and Maariv
 

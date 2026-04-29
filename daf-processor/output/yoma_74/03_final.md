@@ -164,7 +164,7 @@ The *gemara* responds with what is admittedly a forced rereading of the *braisah
 
 ---
 
-## Assur for Other Items
+## Assur for Other Item (II)
 
 ### Assur Justification
 
@@ -176,7 +176,7 @@ The *gemara* offers an alternative explanation, which is considerably more compe
 
 ---
 
-## Assur for Other Items (continued)
+## Assur for Other Item (II)
 
 ### Braisah Clarifies
 

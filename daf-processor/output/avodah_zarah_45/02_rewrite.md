@@ -86,7 +86,7 @@ The reason for this shift in emphasis is not hard to find, and it is worth stati
 
 ---
 
-## Mountains Issue…
+## Mountains Issue (II)
 
 ### Forbidden Plating
 

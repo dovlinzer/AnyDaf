@@ -140,7 +140,7 @@ The *gemara* now turns to how Bar Pada would explain the first case of the *bara
 
 ---
 
-## Bar Pada Explained…
+## Bar Pada Explained (II)
 
 ### Added Status Sticks
 

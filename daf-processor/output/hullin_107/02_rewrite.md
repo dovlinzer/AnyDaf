@@ -68,7 +68,7 @@ Nonetheless, there remains a dispute regarding the status of bread between a *ke
 
 ---
 
-## Wrapping & Washing…
+## Wrapping & Washing (II)
 
 ### Rav & Shmuel Case
 

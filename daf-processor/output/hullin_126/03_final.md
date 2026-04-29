@@ -308,7 +308,7 @@ Rav Ushaya himself resolves the question: *mechusar nekiva lav ke-mechusar ma'as
 
 ---
 
-## Reptile Eggs
+## Reptile Eggs (II)
 
 ### Sealed Egg
 
@@ -328,7 +328,7 @@ If the egg has even the smallest hole — *nikvah kol she hu* — it becomes *ta
 
 ---
 
-## Half-Flesh Mouse
+## Half-Flesh Mouse (II)
 
 ### Basic Rule
 
@@ -348,7 +348,7 @@ Rabbi Yehuda extends the ruling: *af ha-nogea ba-adamah she-keneged ha-basar tam
 
 ---
 
-## Reptile Eggs Derivation
+## Reptile Eggs (II)
 
 ### Derivation
 
@@ -360,7 +360,7 @@ The *beraita* derives the rules about reptile eggs and bones from the verse: *ha
 
 ---
 
-## Half-Flesh Mouse Continued
+## Half-Flesh Mouse (II)
 
 ### Movement Condition
 

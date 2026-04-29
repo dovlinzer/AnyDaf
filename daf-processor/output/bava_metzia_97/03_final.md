@@ -114,7 +114,7 @@ This question — who has employed whom — surfaces in a direct and somewhat am
 
 ---
 
-## Public Servants…
+## Public Servants (II)
 
 ### Modern Cases
 
@@ -126,7 +126,7 @@ These questions about service professionals have obvious modern analogues. One m
 
 ---
 
-## Teacher Authority…
+## Teacher Authority (II)
 
 ### Curriculum Choice
 

@@ -66,7 +66,7 @@ The Gemara reads Rabbi's split ruling as revealing something about the underlyin
 
 ---
 
-## Fifth Me'akev?…
+## Fifth Me'akev? (II)
 
 ### Rav Pappa Resolves
 
@@ -84,7 +84,7 @@ The Gemara challenges this from a different *baraita* where Rabbi Eliezer and th
 
 ---
 
-## Ma'aser Below Prutah…
+## Ma'aser Below Prutah (II)
 
 ### Fifth Not Me'akev
 

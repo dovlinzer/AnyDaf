@@ -164,7 +164,7 @@ Abaye and Rava dispute this question.
 
 ---
 
-## Mumar Neveilot…
+## Mumar Neveilot (II)
 
 ### Abaye: Formal Rasha
 
@@ -254,7 +254,7 @@ The broader upshot is striking: even though the logical case for Rabbi Yossi —
 
 ---
 
-## Two Psul Categories…
+## Two Psul Categories (II)
 
 ### Psul Summary
 

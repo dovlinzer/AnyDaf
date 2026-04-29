@@ -24,7 +24,7 @@ One might ask whether this is a matter of "creating" *Torah she-ba'al peh* — a
 
 ---
 
-## Three Impurity Categories
+## Three Impurity Categ (II)
 
 ### Pesach/Tumah Override
 
@@ -96,7 +96,7 @@ According to Rabbi Shimon, then, *badad yeshev* is not needed for the *camp* der
 
 ---
 
-## Three Impurity Categor…
+## Three Impurity Categ (II)
 
 ### Severity Comparison
 

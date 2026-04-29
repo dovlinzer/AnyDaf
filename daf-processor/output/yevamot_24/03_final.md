@@ -240,7 +240,7 @@ On Rava's reading, *hotzi'uha* — *k'vo hotzi'uha d'beit din* — is the lingui
 
 ---
 
-## Refined Halakha
+## Refined Halakha (II)
 
 ### Compromise
 

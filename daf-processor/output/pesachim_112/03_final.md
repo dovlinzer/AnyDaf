@@ -158,7 +158,7 @@ It is worth pausing to appreciate the tension here. On the one hand, we are told
 
 ---
 
-## Four Cups Obligation…
+## Four Cups Obligation (II)
 
 ### D'vei Eliyahu
 
@@ -194,7 +194,7 @@ The fourth teaching: *ve-al timna min'alim meraglecha* — never go without shoe
 
 ---
 
-## Akiva's 7 Teachings…
+## Akiva's 7 Teachings (II)
 
 ### Shabbos vs. Dependence
 
@@ -302,7 +302,7 @@ The third command: *velo tavriach atzmecha min ha-machas* — do not try to esca
 
 ---
 
-## HaKadosh's Commands…
+## HaKadosh's Commands (II)
 
 ### Ox Danger
 

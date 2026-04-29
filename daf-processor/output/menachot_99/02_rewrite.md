@@ -132,7 +132,7 @@ The Gemara now examines Rabbi Yose's position. A *baraita* states: *Rabbi Yose o
 
 ---
 
-## Rabbi Yose's View…
+## Rabbi Yose's View (II)
 
 ### Reinterpretation of Tamid
 

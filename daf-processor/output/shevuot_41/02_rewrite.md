@@ -106,7 +106,7 @@ Returning to the view that by a *shvuat hesset* the court does not proceed to se
 
 Ravina challenges Rav Ashi: is *cherem* really so different from outright coercion? If *cherem* effectively forces the person to comply — Rashi notes the passage here employs a crude expression, describing the process as grabbing the man by a part of his anatomy in order to compel him to surrender his cloak — then the pressure exerted is functionally indistinguishable from sending in the sheriff.
 
-## Refusing Oath…
+## Refusing Oath (II)
 
 ### 30-Day Cherem
 

@@ -48,7 +48,7 @@ The *gemara* then challenges Rav's permissive position. Does Rav truly permit fi
 
 ---
 
-## First-Time Sex Issue…
+## First-Time Sex Issue (II)
 
 ### Tosafot Analysis
 
@@ -62,7 +62,7 @@ One further note from *Tosafot*: the distinction between *mekalkel* and *misasek
 
 ---
 
-## Rav vs. Shmuel…
+## Rav vs. Shmuel (II)
 
 ### Rav's Resolution
 

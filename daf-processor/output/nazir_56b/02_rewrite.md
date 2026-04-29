@@ -96,7 +96,7 @@ This approach is considerably more efficient than what a single *safek tamei naz
 
 ---
 
-## Two Nazirims Safek…
+## Two Nazirims Safek (II)
 
 ### Two Periods
 

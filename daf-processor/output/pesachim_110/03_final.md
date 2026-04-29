@@ -152,7 +152,7 @@ How does Rava deal with this apparent counterevidence? *Lo chash lah lemilsa* �
 
 This passage is genuinely fascinating from an epistemological standpoint. If one already believes in *mazikin* and in the danger of paired cups, then the one occasion when someone drinks in pairs and is harmed seems to confirm the belief powerfully, while the many occasions when nothing happens are quietly set aside. Conversely, if one believes that more than two is not a problem, then the one case of harm is readily attributed to some other cause — in this case, the student's impudence in the lecture hall. The evidence that supports one's thesis commands attention; the rest is discarded. The Gemara here illustrates, with unusual clarity, how prior assumptions shape the interpretation of observable outcomes.
 
-## Demons & Witches
+## Demons & Witches (II)
 
 ### Ashmedai King
 
@@ -196,7 +196,7 @@ If a voice responds — *ishmeia lei de-amar* — claiming *atun va-ana ha-arba'
 
 It is worth pausing to note that the identification of women specifically with witchcraft reflects a deeply embedded cultural demonization of women that runs through ancient and medieval societies — a theme that resurfaces repeatedly and extends well beyond the pages of the Talmud into later European history.
 
-## Geography Limits
+## Geography Limits (II)
 
 ### Eretz Yisrael No Care
 

@@ -94,7 +94,7 @@ Rabbi Natan also rules like Rabbi Shimon ben Shezuri in the case of *terumat ma'
 
 ---
 
-## Deathbed Gift Kinyan…
+## Deathbed Gift Kinyan (II)
 
 ### Rav Position
 
@@ -112,7 +112,7 @@ In short: Rav is willing to assess intent and give the document maximal effect i
 
 ---
 
-## Umdana Method…
+## Umdana Method (II)
 
 ### Transaction Types
 
@@ -208,7 +208,7 @@ Abaye offers a broader answer: *afilu teima be-she'ein shovra tvu'a mitocha* —
 
 ---
 
-## Ketubah Receipt…
+## Ketubah Receipt (II)
 
 ### Written Form
 

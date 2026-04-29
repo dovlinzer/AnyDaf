@@ -72,7 +72,7 @@ Rabbi Elazar's position comes from a *Braitah*: *shloshtan shavin* — the follo
 
 ---
 
-## Shelishi Limits…
+## Shelishi Limits (II)
 
 ### Challah Case
 
@@ -88,7 +88,7 @@ Rabbi Eliezer's solution is to interpose a small piece of *tahor* dough between 
 
 ---
 
-## Challah Dispute…
+## Challah Dispute (II)
 
 ### Kebeitzah Mechanics
 

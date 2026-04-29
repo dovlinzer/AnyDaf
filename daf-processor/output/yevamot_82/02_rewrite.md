@@ -126,7 +126,7 @@ However, the *gemara* qualifies this principle. Shmuel's stringency toward a *da
 
 ---
 
-## Mishna authority…
+## Mishna authority (II)
 
 ### Halacha ruling
 

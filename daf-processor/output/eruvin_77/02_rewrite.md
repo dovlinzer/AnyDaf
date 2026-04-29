@@ -136,7 +136,7 @@ The *gemara* then refines the case: what if the box has been pushed into the dir
 
 To address this, the *gemara* invokes a *baraita*: if an unripe fig was buried in straw — straw that is *muktzah* because it is not animal fodder but construction material — or a wafer was placed in dead coals, *im megula miktzato nitalat b'Shabbat*, if even a small portion of the buried item is exposed, the entire thing may be moved on *Shabbat*. The incidental movement of the surrounding *muktzah* material is not prohibited; this is *tiltul min hatzad*, incidental displacement of *muktzah* for the sake of the non-*muktzah* item, which is permitted. The same reasoning applies to the box with a lip: removing the box incidentally disturbs the dirt, but that incidental disturbance is not a prohibition, and therefore the box remains movable on *Shabbat* and does not alter the wall's halachic configuration.
 
-## Temporary Objects…
+## Temporary Objects (II)
 
 ### Serious Burial
 
@@ -168,7 +168,7 @@ If the gap between the two ladders is three *tefachim* or more, *lavud* does not
 
 This analysis applies only when the wall is less than four *tefachim* wide. If the wall is four *tefachim* wide or more, *afilu muflag tuva nami* — even if the two ladders are very far apart from each other (measured across the wall's top surface), it still works. The reason is that a four-*tefach*-wide wall is itself walkable surface: a person can climb up to the top of the wall, walk across it, and descend on the other side. The wall's own surface provides the traversal that *lavud* provides in the thin-wall case. Therefore the distance between the ladders is irrelevant; the top of the wall itself constitutes the passage, and the combined structure permits the courtyards to form a single *eruv*.
 
-## Creating Opening…
+## Creating Opening (II)
 
 ### Dual Ladder Setup
 

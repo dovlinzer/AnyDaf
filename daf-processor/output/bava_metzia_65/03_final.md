@@ -332,7 +332,7 @@ The *Gemara* rules: *vehilchasa keRav Chama* — the *halacha* follows Rav Chama
 
 ---
 
-## Tarsha & Pricing…
+## Tarsha & Pricing (II)
 
 ### Reconciliation
 
@@ -388,7 +388,7 @@ The Sages disagree and rule that the fruit is held by a third party until the ul
 
 ---
 
-## Land Sale & Fruit…
+## Land Sale & Fruit (II)
 
 ### Sequential Payment
 
@@ -400,7 +400,7 @@ The *mishnah* endorses a permissible alternative formulation: the sale is struct
 
 ---
 
-## Fruit Ownership…
+## Fruit Ownership (II)
 
 ### Raba's Framework
 

@@ -160,7 +160,7 @@ The *gemara* closes with competing traditions. Ami bar Maimra told Rav Ashi that
 
 ---
 
-## Ketubah Rights (Betrotha…
+## Ketubah Rights (Betr (II)
 
 ### Eirusin Divorce
 
@@ -178,7 +178,7 @@ The scenario shifts dramatically once *nissu'in* takes place. *Hisi'ah ve-gerash
 
 ---
 
-## Ketubah Rights (Betrot…
+## Ketubah Rights (Betr (II)
 
 ### Rabbi Yehuda Position
 

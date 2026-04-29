@@ -126,7 +126,7 @@ This analysis reveals the layered structure of tefillin's sanctity. The *klafim*
 
 ---
 
-## The Kesher Knot…
+## The Kesher Knot (II)
 
 ### God's Tefillin
 

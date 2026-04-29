@@ -184,7 +184,7 @@ The Sages offer a different reading of the same *kol*. For them, *yemei chayyech
 
 ---
 
-## Remember Exodus…
+## Remember Exodus (II)
 
 ### Messianic Era
 

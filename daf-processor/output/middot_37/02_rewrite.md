@@ -60,7 +60,7 @@ Built atop this first level was an entire second story. *Vegovah shel aliyah mem
 
 ---
 
-## Heichal Dimensions…
+## Heichal Dimensions (II)
 
 ### Upper Finish
 

@@ -116,7 +116,7 @@ The question of who exactly goes to the butcher remains somewhat open. The Ramba
 
 ---
 
-## Intestines Case…
+## Intestines Case (II)
 
 ### Rav Ashi: Buyer Only
 
@@ -124,7 +124,7 @@ Rav Ashi disagrees with Rav. Even if it was the butcher who weighed out the inte
 
 ---
 
-## Theft of Matanot…
+## Theft of Matanot (II)
 
 ### Rav Chisda Rule
 

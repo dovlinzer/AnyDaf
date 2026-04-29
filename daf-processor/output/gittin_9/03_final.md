@@ -186,7 +186,7 @@ Tosafot answers that *igun* for the slave is not primarily about marriage at all
 
 ---
 
-## Get from Overseas…
+## Get from Overseas (II)
 
 ### Deafness/Muteness
 
@@ -206,7 +206,7 @@ Rav Yosef resolves this by clarifying the case: we are dealing with an agent who
 
 ---
 
-## Gittin & Manumission…
+## Gittin & Manumission (II)
 
 ### Befanai Nechtam
 

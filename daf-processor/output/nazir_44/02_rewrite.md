@@ -226,7 +226,7 @@ Tosafot notes an interesting implication of this dispute. According to the opini
 
 Rabban Gamliel introduces a third position: *heivi shalosh behemot v'lo peirash* — he brought three animals without specifying which was designated for which offering. In such a case, *hara'uya lachatatat tikrav chatatat, l'olah tikrav olah, u'lishlamim tikrav shlamim* — the animal suited to be a *chatat* is offered as a *chatat*, the one suited for an *olah* as an *olah*, and the one suited for *shlamim* as *shlamim*. Tosafot specifies the practical identification: the female sheep is suited for the *chatat*, the male sheep for the *olah*, and the ram for the *shlamim*. The *kedusha* thus defines itself according to the nature of each animal.
 
-## Shlamim Location
+## Shlamim Location (III)
 
 ### Historical Location
 
@@ -252,43 +252,43 @@ The *braita* rejects the literal reading on grounds of *derekh bizayon* — disr
 
 Abba Chanan cites a teaching in the name of Rabbi Eliezer: *v'gilach hanazir pesach ohel moed, kol zman she-ein pesach ohel moed pasuach eino megalei'ach* — as long as the doors of the *Ohel Moed* are not open, the Nazir may not shave. This reading does not treat *pesach ohel moed* as a purely metaphorical reference to the *shlamim*. Rather, it understands the phrase to mean that the shaving must occur while the *Ohel Moed* is open — whenever and wherever the shaving takes place, even in the *Ezrat Nashim*, the doors must be open. This is analogous to the rule governing *shlamim*: if the doors were closed when the *shlamim* was slaughtered, the *korban* is *pasul*. The shaving of the Nazir is similarly rendered invalid if the doors were not open at the time.
 
-## Gender Distinction
+## Gender Distinction (IV)
 
 ### Distinction
 
 Rabbi Shimon Shezuri draws a different inference from the phrase *v'gilach hanazir pesach ohel moed*: the verse specifies *hanazir* — the Nazir — *v'lo nezirah* — but not the *nezirah*, the female Nazir. A male Nazir performs the shaving at or near *pesach ohel moed*; a female *nezirah* does not.
 
-## Pesach Timing…
+## Pesach Timing (II)
 
 ### Offering Parallel
 
 The basis for Abba Chanan's position is the parallel to the *shlamim*: just as the *shlamim* must be offered while the doors of the *Ohel Moed* are open, and if the doors were closed the offering is *pasul*, so too the shaving of the Nazir requires that the doors be open. A shaving performed while the doors were closed would be halakhically invalid.
 
-## Gender Distinction…
+## Gender Distinction (IV) (II)
 
 ### Concern
 
 The reason Rabbi Shimon Shezuri distinguishes between the male Nazir and the female *nezirah* is *shema yisgaru bah pirchei kehunah* — lest the young *Kohanim* be aroused by her, since her hair would be uncovered during the shaving.
 
-## Shlamim Location…
+## Shlamim Location (III)
 
 ### Hair Placement
 
 Rabbi Yitzchak offers a further derivation. The Torah states *v'lakach et se'ar rosh nizro v'nasan al ha'eish* — he takes the hair of his head and places it on the fire. This act of taking and immediately placing the hair on the fire implies that the shaving occurs at the very location where the fire is burning. Since the fire is beneath the pot cooking the *shlamim*, the shaving must take place at the same location where the *shlamim* are being cooked. *Mi she-eino mechusar ela lekichah u'nesinah* — the process requires nothing more than taking and placing; *yatza zeh she-mechusar lekichah, hava'ah u'nesinah* — this rules out a scenario where the shaving occurs in one location and the hair must then be transported elsewhere, which would require an additional act of bringing. The Torah's formulation implies a single, immediate sequence: shave and place.
 
-## Gender Distinction……
+## Gender Distinction (IV) (III)…
 
 ### Tosafot Read
 
 Tosafot's reading of Rabbi Shimon Shezuri's position clarifies the geography. Since the concern is specifically about *pirchei kehunah* — the young *Kohanim* — who would be present in and around the *Ezrat Nashim* area, Rabbi Shimon Shezuri is saying that while a male Nazir shaves in the *Ezrat Nashim* at the *Lishkat Nezirim* (or in its vicinity, which is *pesach ohel moed* in the relevant sense), a *nezirah* shaves in a more private location somewhere in Jerusalem, away from the *Mikdash* precincts altogether.
 
-## Shlamim Location……
+## Shlamim Location (III)…
 
 ### Lishkat Nezirim
 
 From Rabbi Yitzchak's derivation it follows that the shaving does not take place in the *Mikdash* proper but in the *Lishkat Nezirim*, the chamber located in the *Ezrat Nashim*. It is there that the *shlamim* of the Nazir are cooked, and it is therefore there that the shaving takes place, allowing the hair to be placed directly on the fire beneath the *shlamim*. The *Lishkat Nezirim* in the *Ezrat Nashim* is thus the historical location of the *tiglachat taharah* in Temple times.
 
-## Gender Distinction………
+## Gender Distinction (IV) (III)……
 
 ### Sotah Objection
 

@@ -190,7 +190,7 @@ Rabbi Yossi's position on *Surya* diverges sharply from Rabbi Meir's, and this d
 
 Since *Surya* is not *Eretz Yisrael*, the biblical prohibition of *lo techonem* does not apply there. The rabbis impose safeguards nonetheless. Fields — carrying the double concern — may be rented but not sold, as a rabbinic safeguard against selling fields in *Eretz Yisrael* itself. Homes — carrying only one concern — are fully permitted, both for sale and rental. The rabbis do not feel that permitting the sale of homes in *Surya* will create a realistic risk of selling homes in *Eretz Yisrael*, and so no safeguard is imposed. In *chutz la'aretz*, Rabbi Yossi permits everything: *keivan demirchak lo gazrinan* — since the distance is great, we do not fear any slippage toward prohibited conduct in the Land of Israel itself.
 
-## Exceptions…
+## Exceptions (II)
 
 ### Tosafot Idols
 
@@ -202,7 +202,7 @@ Tosafot then considers whether the *Tosefta*'s distinction might instead hinge o
 
 Tosafot then cites Rabbeinu Chaim Kohen, who brings a proof from the *Yerushalmi*: the implication of the ruling itself — that even where renting is permitted, it is not permitted for a domicile — suggests that in places where selling is permitted, one may sell even for a domicile. One reading of this is that *beitecha* refers only to your genuine home, which is located in *Eretz Yisrael* — a house in *chutz la'aretz* is never truly *beitecha*. Tosafot finds this position difficult: does it mean there is no *mezuzah* obligation in *chutz la'aretz* because it is never truly *beitecha*? Ultimately, Tosafot's final resolution leans on the point that *beitecha* with its full biblical force applies only when one is actually living in the house. When the owner rents out the home and vacates, the biblical prohibition may not apply — it becomes only a rabbinic extension — and in that space the rabbis permitted more latitude, particularly in *chutz la'aretz*. As throughout this tractate, the tension between treating Christianity as *avodah zarah* and the practical realities of daily commerce in Christian Europe persisted well into the era of the *Shulchan Aruch* and the *Rama*, with various authorities proposing that perhaps Christians' idolatrous practice carries different weight for non-Jews than for Jews, or that their attachment to their icons is not sufficiently sincere to trigger these restrictions — all ultimately attempts to accommodate lived reality within the halakhic framework.
 
-## Kibbutz Yachid…
+## Kibbutz Yachid (II)
 
 ### Rashi/Tosafot
 

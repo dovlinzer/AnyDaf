@@ -204,7 +204,7 @@ A parallel case follows. A widow administers an undivided estate on behalf of or
 
 ---
 
-## Proof Methods…
+## Proof Methods (II)
 
 ### Rava's Concession
 
@@ -212,7 +212,7 @@ Rava acknowledges that within Rav's framework he cannot resolve which form of pr
 
 ---
 
-## Widow Admin…
+## Widow Admin (II)
 
 ### Trustworthiness
 

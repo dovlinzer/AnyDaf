@@ -188,7 +188,7 @@ The *gemara* brings the *mishna*: one who immerses and emerges may eat *maaser*;
 
 The *gemara* asks: where is the proof that specifically the *mechusar kippurim* — one who still needs to bring a *korban* — is permitted in *teruma* the night before? The source for this precise ruling requires its own derivation.
 
-## Three Psukim
+## Three Psukim (IV)
 
 ### Rava Teaching
 
@@ -214,7 +214,7 @@ How do we know *teruma* is heavier than *maaser* and lighter than *kodshim*? A m
 
 The verse that requires only immersion reads: *nefesh asher tiga bo ve'tame'ah, ki im rachatz besaro ba'mayim*. The word *nefesh* — person — implies something available to every person. *Teruma* is restricted to *kohanim* and their households; it is not *shaveh bechol nefesh* — equal for all people. The only form of *kodesh* that all people may eat is *maaser sheni*. Therefore the verse permitting eating after immersion alone must be speaking of *maaser sheni*.
 
-## Yoledet Case
+## Yoledet Case (III)
 
 ### Yoledet Status
 
@@ -228,25 +228,25 @@ After her immersion on day seven, she enters a prolonged *tvul yom* status — s
 
 On the night before day forty — the evening preceding the morning on which she brings her *korban* — she transitions to *mechusar kippurim* status. She is now permitted to eat *teruma*, even though she has not yet brought her *korban*. The following morning, when she brings the *korban*, she may eat *kodshim* as well.
 
-## Three Psukim…
+## Three Psukim (IV) (II)
 
 ### Kodshim Weight
 
 *Kodshim* is weightier than *teruma*. The mnemonic is *pinkakas*: *peh* is *pigul*, *nun* is *notar*, *kaf* is *karet*, *ayin* is *meila*, and *samech* is the general prohibition of *assur*. None of these — with the exception of some overlap — apply to *teruma*, which instead carries *mita bidei shamayim* rather than *karet*. While one might object that *teruma*'s features from *mechpaz* are more numerous, the *gemara*'s conclusion is that the *kodshim* characteristics as a collection outweigh those of *teruma*.
 
-## Yoledet Case…
+## Yoledet Case (III)
 
 ### Milos Yamim
 
 Abaye demonstrates the two-stage purity of the *yoledet* from two verses. The first verse states *ad milos yemei tahara* — until the completion of the days of purity. This verse establishes that once the days of purity are complete — that is, when nightfall arrives on the night before day forty — she is in some sense *tehorah*.
 
-## Three Psukim………
+## Three Psukim (IV) (III)……
 
 ### Rabba Language
 
 Rabba offers an alternative derivation: even without counting features, the language of the verse *ve'chipper aleiha ha'kohen ve'tahera* itself establishes that *kodshim* is weightier. The language of *kapparah* — atonement — is uniquely associated with *korban*-bearing, and the fact that the verse uses this formulation to mark the point of *tahara* for *kodshim* demonstrates that *kodshim* occupies a categorically higher level of sanctity.
 
-## Yoledet Case……
+## Yoledet Case (III)…
 
 ### Vechiper
 
@@ -260,7 +260,7 @@ Two verses therefore govern the *yoledet*'s purity: the first — *ad milos yeme
 
 From this we draw the critical inference: a woman who is *mechusar kippurim* — who still has a pending *korban* obligation — is nonetheless *tahor* for *teruma* from the night before the *korban* is brought. This is the halachic proof that a *mechusar kippurim* is not forbidden in *teruma* even when a *korban* is required.
 
-## Three Psukim………
+## Three Psukim (IV) (III)……
 
 ### Tamei Status
 

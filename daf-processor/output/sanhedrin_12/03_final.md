@@ -102,7 +102,7 @@ The entire question of *kiddush hachodesh* and *ibur hashana* — where it must 
 
 ---
 
-## Time Restrictions
+## Time Restrictions (II)
 
 ### Daytime Req.
 
@@ -144,7 +144,7 @@ This passage also yields an important subsidiary observation. One might have ass
 
 ---
 
-## Time Restrictions (Seasonal)
+## Time Restrictions (II)
 
 ### Before RH Ban
 

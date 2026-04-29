@@ -236,7 +236,7 @@ A digression is prompted by the verse *lo yachel devaro*: *mikan lechacham she'e
 
 ---
 
-## Bathing & Makeup…
+## Bathing & Makeup (II)
 
 ### Baraita Attribution
 

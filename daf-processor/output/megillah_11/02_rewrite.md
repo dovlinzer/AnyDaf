@@ -392,7 +392,7 @@ The *Gemara* notes that this chronology is consistent with secular historical re
 
 ---
 
-## Achashverosh's Error…
+## Achashverosh's Error (II)
 
 ### Future Refutation
 

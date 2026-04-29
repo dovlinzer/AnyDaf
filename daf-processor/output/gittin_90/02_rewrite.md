@@ -36,7 +36,7 @@ The correct reading of "clarify the matter" must therefore be the opposite: we i
 
 To summarize the ruling: the *teitzei* is absolute — she cannot remain with Shimon regardless. The only question is whether she needs a *get* from Shimon. If there is only a *kol* and no firm evidence of her marriage to Reuven, she needs a *get* from Shimon before returning. If the marriage to Reuven is established by testimony, she needs no *get* from Shimon whatsoever.
 
-## Kol + Kiddushin…
+## Kol + Kiddushin (II)
 
 ### Perception Issue
 
@@ -60,7 +60,7 @@ But Rav Huna also rules: *u-megaresh sheni ve-nosei rishon lo* — we would not 
 
 The son of Rav Idi — identified in the discussion of competing rumors as Ashmeimar — disagrees: *af megaresh sheni ve-nosei rishon* — we are not concerned about the appearance of *machzir grushaso*. His reasoning: *meimar amri inei rabbanan be-kiddushei ve-kiddushei ta'us hava* — people will say the rabbis looked into the matter and determined that Shimon's *kiddushin* was an error, that it was never valid. Since there was already a *kol* that she was married to Reuven, and the investigation could not refute it, the public perception will naturally be that Shimon's marriage was mistaken from the outset — not that Reuven remarried a woman he had previously divorced. According to Tosafot, the *halacha* follows the son of Rav Idi on this point.
 
-## Kol: Substantiation…
+## Kol: Substantiation (II)
 
 ### Lo Mevatlinan Kala
 

@@ -110,7 +110,7 @@ There are three recognized exceptions to *ein shaliach lidvar aveirah*, derived 
 
 ---
 
-## Shlichut Principles…
+## Shlichut Principles (II)
 
 ### Mishna: Meila
 

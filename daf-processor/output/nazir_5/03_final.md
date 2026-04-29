@@ -204,7 +204,7 @@ Bar Pada responds: *leit chad min'hon d'lav ledrasha* — there is not a single 
 
 ---
 
-## Matna vs. Pada
+## Matna vs. Pada (III)
 
 ### Matna: 30 True
 
@@ -242,7 +242,7 @@ For Rav Matna, the *reisha* is straightforward — thirty days, bring *korbanot*
 
 ---
 
-## Partial Day Principle
+## Partial Day Princip (III)le
 
 ### Principle Overview
 
@@ -254,7 +254,7 @@ The principle of *miktzat hayom kekulo* — that part of a day counts as the who
 
 ---
 
-## Matna vs. Pada…
+## Matna vs. Pada (III)
 
 ### Consecutive Cases
 
@@ -266,7 +266,7 @@ The *gemara* now examines back-to-back *neziriyot*. The *mishnah* states: *mi sh
 
 ---
 
-## Partial Day Principle…
+## Partial Day Princip (III)le…
 
 ### Full Days Exception
 
@@ -286,7 +286,7 @@ In the case of back-to-back *neziriyot*, day thirty-one ends the first and begin
 
 ---
 
-## Matna vs. Pada……
+## Matna vs. Pada (III)…
 
 ### Pada Resolution
 
@@ -300,7 +300,7 @@ Returning to Bar Pada's resolution of the back-to-back case: the *seifa* of the 
 
 ---
 
-## Partial Day Principle……
+## Partial Day Princip (III)le……
 
 ### Double-Dip Issue
 

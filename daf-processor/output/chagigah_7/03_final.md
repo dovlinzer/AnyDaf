@@ -204,7 +204,7 @@ The *shalmei simcha*, by contrast, *ba'im af min hama'aser* — may come even fr
 
 ---
 
-## Shalmei Chagigah
+## Shalmei Chagigah (II)
 
 ### Dense Mishnah
 
@@ -238,7 +238,7 @@ The contrast might be illustrated as follows. The *olat re'iyah* is what you giv
 
 ---
 
-## Shalmei Chagigah
+## Shalmei Chagigah (II)
 
 ### Yom Tov Restriction
 

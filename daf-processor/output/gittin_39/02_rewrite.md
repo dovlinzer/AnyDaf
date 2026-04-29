@@ -100,7 +100,7 @@ The question about hair — *se'ar ha'omed ligzoz* — arises because hair that 
 
 ---
 
-## Holiness Debate…
+## Holiness Debate (II)
 
 ### Grapes Analogy
 

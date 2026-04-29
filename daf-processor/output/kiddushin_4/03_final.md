@@ -68,7 +68,7 @@ What about the fact that in cases of *ones u'mifateh* — rape and seduction —
 
 One might then suggest: what about *boshet* and *pegam* — the genuine compensation payments in a case of rape? These are not punitive fines but actual damages for the shame and physical injury suffered by the victim. If these real compensation payments go to the father, that should prove that *kiddushei kesef* goes to him as well.
 
-## Three Categories…
+## Three Categories (II)
 
 ### Father's Rights
 

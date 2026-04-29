@@ -1,6 +1,6 @@
 # Sanhedrin 52 — Daf Yomi Shiur
 
-## Srefah Hierarchy Debate
+## Srefah Hierarchy Deb (II)
 
 ### Three Positions
 
@@ -32,7 +32,7 @@ This ruling underscores the gender-specific character of *srefah* in this contex
 
 ---
 
-## Srefah Hierarchy Debat…
+## Srefah Hierarchy Deb (II)
 
 ### Rabbi Akiva
 

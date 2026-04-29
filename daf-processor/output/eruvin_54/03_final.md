@@ -274,7 +274,7 @@ Rabbi Chiya bar Abba continued with the next part of the verse: *dadeha yeravuch
 
 ---
 
-## Torah Metaphors…
+## Torah Metaphors (II)
 
 ### Elazar Passion
 

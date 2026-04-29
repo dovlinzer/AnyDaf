@@ -156,7 +156,7 @@ The Gemara's answer, attributed to Rav Sheshet, is that the two Mishnayot are ne
 
 ---
 
-## Seen with Man
+## Seen with Man (II)
 
 ### Status Question
 

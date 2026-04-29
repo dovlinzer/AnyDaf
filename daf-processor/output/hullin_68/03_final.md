@@ -162,7 +162,7 @@ The *gemara*, having pressed these arguments, introduces the resolution of Rav N
 
 ---
 
-## Placenta Evidence…
+## Placenta Evidence (II)
 
 ### Braita Parallel
 
@@ -190,7 +190,7 @@ The *braita* then introduces two further cases. If the limb was extended and cut
 
 ---
 
-## Makom Chataach…
+## Makom Chataach (II)
 
 ### Boundary Solution
 
@@ -297,7 +297,7 @@ This *braita* states the principle broadly, applying it to meat beyond the speci
 
 ---
 
-## Rebbi Yochanan…
+## Rebbi Yochanan (II)
 
 ### Maaser Sheni
 
@@ -309,7 +309,7 @@ Rabbi Yochanan's position finds support in the very contrast the *braita* draws.
 
 ---
 
-## Final Braita…
+## Final Braita (II)
 
 ### Favors Rav
 

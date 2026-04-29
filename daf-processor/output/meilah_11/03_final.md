@@ -70,7 +70,7 @@ One might wonder, as a practical matter, whether when the Mishnah advises waitin
 
 ---
 
-## Nazirite Money
+## Nazirite Money (II)
 
 ### Undetermined Money
 
@@ -132,7 +132,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Bird Age Requirements
+## Bird Age Requirement (II)
 
 ### Tosafot: Young Bird Use
 
@@ -140,7 +140,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Nazirite Money — Rava's Response
+## Nazirite Money (II)
 
 ### Rava's Response
 
@@ -152,7 +152,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Bird Age Requirements — Tor vs. Benei Yonah
+## Bird Age Requirement (II)
 
 ### Tor vs. Benei Yonah
 

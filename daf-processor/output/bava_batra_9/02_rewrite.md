@@ -116,7 +116,7 @@ The *rishonim* draw an important boundary around this principle. The power to es
 
 ---
 
-## Power & Trust…
+## Power & Trust (II)
 
 ### Trust Paradox
 

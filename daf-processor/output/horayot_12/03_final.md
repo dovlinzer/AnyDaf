@@ -260,7 +260,7 @@ The *beraita* illustrates his position with the historical case of Yosef ben Eil
 
 ---
 
-## Par Korban…
+## Par Korban (II)
 
 ### Mishnah Resolution
 

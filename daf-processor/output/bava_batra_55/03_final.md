@@ -236,7 +236,7 @@ The *Rashbam* and *Tosfos* debate the underlying logic of Rabbi Eliezer's positi
 
 ---
 
-## Peah & Tumah…
+## Peah & Tumah (II)
 
 ### Rabin Update
 
@@ -248,7 +248,7 @@ When Ravin came from *Eretz Yisrael*, he transmitted an updated version of Rabbi
 
 ---
 
-## Tumah Case…
+## Tumah Case (II)
 
 ### Valley Scenario
 

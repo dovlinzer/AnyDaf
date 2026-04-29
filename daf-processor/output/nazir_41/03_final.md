@@ -46,7 +46,7 @@ One might ask whether this reasoning proves only that the *metzora* is *permitte
 
 For the present discussion, however, the more immediately operative point is this: the *gemara* notes that for Rabbi Eliezer, both the override of the beard prohibition — which involves the *kohanim*'s *lo ta'aseh* of *lo yegalechu* together with the *aseh* of *kedoshim yihyu* — and the override of the *nazir*'s prohibition — which involves the *lo ta'aseh* of *ta'ar lo ya'avor* together with the *aseh* of *kadosh yihyeh gadel pera* — are cases of overriding a *lo ta'aseh* reinforced by an *aseh*, which represents a more difficult obstacle than a bare *lo ta'aseh* alone. *Tosafot* points out that precisely because Rabbi Eliezer uses both of his *drashos* to overcome the harder case, he must already know the basic principle from *tzitzit* and *shatnez* that an *aseh* overrides even a simple *lo ta'aseh*. The *drashos* by *rosho* and *zekano* then extend that principle to the harder cases — where both a prohibition and a positive commandment stand on the other side.
 
-## Rosho and Zekano Analysis
+## Rosho and Zekano Ana (II)
 
 ### Rosho Sideburns Issue
 

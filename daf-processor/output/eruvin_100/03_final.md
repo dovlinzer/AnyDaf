@@ -140,7 +140,7 @@ A third resolution: both cases are *beshogeg*, and the dispute is whether we pen
 
 ---
 
-## Marital Relations
+## Marital Relations (III)
 
 ### The Comparison to Sacrificial Blood
 
@@ -296,7 +296,7 @@ One might ask: if so, why is leaning on a tree still forbidden, given that one d
 
 ---
 
-## Marital Relations
+## Marital Relations (III)
 
 ### The Prohibition Against Forcing One's Wife
 
@@ -346,7 +346,7 @@ Rashi's reading makes explicit what the *gemara* implies: after the first act, *
 
 ---
 
-## Eve's Curses
+## Eve's Curses (II)
 
 ### Seven Curses
 

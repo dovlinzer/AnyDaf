@@ -124,7 +124,7 @@ The difficulties are compounded further when one considers the earlier ruling th
 
 ---
 
-## Tashmishei Categories
+## Tashmishei Categorie (II)
 
 ### Mitzvah vs. Kedusha
 

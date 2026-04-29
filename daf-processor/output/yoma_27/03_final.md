@@ -88,7 +88,7 @@ What makes this reading striking is that it is essentially *pshat* in the *psuki
 
 ---
 
-## Flaying Permitted?…
+## Flaying Permitted? (II)
 
 ### Gemara Challenge
 

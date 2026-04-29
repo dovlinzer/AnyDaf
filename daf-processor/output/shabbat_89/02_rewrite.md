@@ -1,6 +1,6 @@
 # Shabbat 89 — Daf Yomi Shiur
 
-## Angels Challenge Torah
+## Angels Challenge Tor (II)
 
 ### Angels Question Gift
 
@@ -52,7 +52,7 @@ There is also something evocative in the phrase *alita la-marom shavita shevi* �
 
 ---
 
-## Angels Challenge Torah…
+## Angels Challenge Tor (II)
 
 ### Rashi on 974
 

@@ -132,7 +132,7 @@ The Ran explains the double thrust of the *chachamim's* argument. Point one: the
 
 ---
 
-## Pre-dunking & Seeds
+## Pre-dunking & Seeds (III)
 
 ### Pre-dunking
 
@@ -148,7 +148,7 @@ At this point the *gemara* has two analogies pointing in opposite directions. Th
 
 ---
 
-## Conclusion & Scripture
+## Conclusion & Scriptu (II)
 
 ### Either Way
 
@@ -156,7 +156,7 @@ The *gemara* resolves this tension in a striking way. *Rabbanan lo kaymei lehu b
 
 ---
 
-## Pre-dunking & Seeds…
+## Pre-dunking & Seeds (III)
 
 ### Seeds Response
 
@@ -164,7 +164,7 @@ Rabbi Eliezer then responds with his own analogy. *U-mah zera'im teme'im, keivan
 
 ---
 
-## Pre-dunking & Seeds……
+## Pre-dunking & Seeds (III)…
 
 ### Suggests Lo Haylan
 
@@ -172,7 +172,7 @@ If that is Rabbi Eliezer's chosen analogy, it points strongly toward the *lo hay
 
 ---
 
-## Conclusion & Scripture…
+## Conclusion & Scriptu (II)
 
 ### Seeds Support
 

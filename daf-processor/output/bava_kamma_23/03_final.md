@@ -164,7 +164,7 @@ This reading also brings two *Rambam* rulings into alignment. The Rambam rules l
 
 ---
 
-## Dog Takes Coal to Sheaf
+## Dog Takes Coal to Sh (II)
 
 ### Scenario & Damages
 
@@ -188,7 +188,7 @@ The *Gemara* then asks: if the coal-owner was truly watching the coal carefully,
 
 ---
 
-## Dog Takes Coal to Shea…
+## Dog Takes Coal to Sh (II)
 
 ### Different Standards of C…
 

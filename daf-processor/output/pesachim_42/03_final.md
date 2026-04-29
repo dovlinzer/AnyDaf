@@ -156,7 +156,7 @@ The Gemara next cites *Rav Yehuda* teaching that in Judea in former times, one w
 
 This raises a difficulty: *Rav Yehuda* himself holds elsewhere — as the *mishnah* records — that *temed* does in fact require the separation of *terumah* and *ma'aser*. How then can he say that in earlier times one need not worry about the vinegar coming from *temed*? The Gemara resolves this in two ways. First, *Rav Yehuda* may hold that even though *temed* technically requires *ma'aser*, it is of such negligible value that even *amei ha'aretz* who ordinarily neglect *ma'aser* would not bother skipping it here — the loss would be too trivial to evade. Second, the question of whether *temed* requires *ma'aser* may itself depend on how it is produced: if the grape lees are merely soaked in water, yielding only flavor with no actual juice, it is exempt; if the pressing is more thorough and actual juice is extracted along with the water, *Rav Yehuda* would require *ma'aser*. These are two distinct modes of preparation, and the rulings differ accordingly. The broader point, however, reinforces the theme that *after the Churban Habayis* the quality of our wine declined.
 
-## Zeisom & Dyers…
+## Zeisom & Dyers (II)
 
 ### Zeisom Composition
 

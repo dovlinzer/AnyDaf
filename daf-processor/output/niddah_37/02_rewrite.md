@@ -72,7 +72,7 @@ Those present then saw *deparcha asa* — a myrtle branch flying *me'hai puraya 
 
 ---
 
-## Interrupting Clean Days
+## Interrupting Clean D (II)
 
 ### Rava's Question
 
@@ -104,7 +104,7 @@ Accordingly, the *gemara* concludes: *davar ha-gorem soter, davar she-eino gorem
 
 ---
 
-## Interrupting Clean Day…
+## Interrupting Clean D (II)
 
 ### Conclusion
 

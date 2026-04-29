@@ -174,7 +174,7 @@ The reason *Rosh Chodesh* cannot fall on Thursday is simply the structure of the
 
 ---
 
-## Four Parshiyot…
+## Four Parshiyot (II)
 
 ### Divine Name Note
 

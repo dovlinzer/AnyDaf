@@ -132,7 +132,7 @@ One might have expected Rav Moshe to simply rule that she should not go out, or 
 
 ---
 
-## Delousing & Candles…
+## Delousing & Candles (II)
 
 ### Killing Lice
 
@@ -152,7 +152,7 @@ The *gemara* cites a *baraita* that reads: *ein polin l'or haneir v'ein korin l'
 
 ---
 
-## Practical Cases…
+## Practical Cases (II)
 
 ### Medicine & Objects
 

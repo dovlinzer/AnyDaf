@@ -138,7 +138,7 @@ This immediately raises a problem. If the merchants were attracted to Rabbi Tarf
 
 ---
 
-## Mechilah Timing…
+## Mechilah Timing (II)
 
 ### Clock Value
 
@@ -146,7 +146,7 @@ The key insight the Gemara now delivers resolves the merchants' seemingly parado
 
 ---
 
-## R. Tarfon Debate…
+## R. Tarfon Debate (II)
 
 ### Real Preference
 

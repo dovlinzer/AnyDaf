@@ -196,7 +196,7 @@ The *mishnah* enumerates additional reasons why God chose to create humanity thr
 
 ---
 
-## Witness Warning…
+## Witness Warning (II)
 
 ### Personal Responsibility
 

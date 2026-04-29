@@ -138,7 +138,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 ---
 
-## When Singing Required
+## When Singing Require (II)
 
 ### Chizkiyahu Story
 
@@ -156,7 +156,7 @@ But if *shira* requires wine, how can *Bikkurim* require *shira*? There is no wi
 
 *Ve-tanna maiti lah mehacha*: the *baraita* derives it from *ki avodat hakodesh aleihem ba-katef yis'u* — the sacred work is upon them, they shall carry on the shoulder. The Gemara asks: if the verse already says *ba-katef* (on the shoulder), why add *yis'u*? *Ein yis'u ela lashon shirah* — *yis'u* is the language of song. This is then linked back to the verse *se'u zimrah u'tnu tof*. The *baraita* is essentially connecting the same dots as the preceding *Amoraic* derivations, just anchored more firmly in the Torah text.
 
-### Role Boundaries Story
+### Role Boundaries (II) Story
 
 > **Hebrew/Aramaic:** רַבִּי יוֹנָתָן אָמַר מֵהָכָא: ״וְלֹא יָמוּתוּ גַם הֵם גַּם אַתֶּם״ — מָה אַתֶּם בַּעֲבוֹדַת מִזְבֵּחַ, אַף הֵם בַּעֲבוֹדַת מִזְבֵּחַ. תַּנְיָא נָמֵי הָכִי: ״וְלֹא יָמוּתוּ גַם הֵם גַּם אַתֶּם״ — אַתֶּם בְּשֶׁלָּהֶם וְהֵם בְּשֶׁלָּכֶם בְּמִיתָה, הֵם בְּשֶׁלָּהֶם אֵינָן בְּמִיתָה אֶלָּא בְּאַזְהָרָה.
 >
@@ -170,7 +170,7 @@ Rav Soloveitchik, in his *Shiurim Lezecher Abba Mari*, develops this point into 
 
 ---
 
-## Role Boundaries
+## Role Boundaries (II)
 
 ### Death for Wrong Role
 
@@ -192,7 +192,7 @@ The Gemara then suggests an alternative: *de-kulei alma lav hi* — perhaps ever
 
 ---
 
-## When Singing Required…
+## When Singing Require (II)
 
 ### Free-Will Offerings
 

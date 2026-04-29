@@ -66,7 +66,7 @@ This is, at this point in the *gemara*, the working conclusion — though it wil
 
 ---
 
-## Carrying Concern…
+## Carrying Concern (II)
 
 ### Tosafos: Shofar vs. Lulav
 

@@ -94,7 +94,7 @@ A *baraita* cited in the name of the father of Rabbi Avin offers yet another der
 
 ---
 
-## Bat kohen analogy
+## Bat kohen analogy (II)
 
 ### Split punishment question
 
@@ -158,7 +158,7 @@ Ulla understands the verse as prohibiting a father from engaging in an act of *h
 
 ---
 
-## Al techalel meanings
+## Al techalel meanings (II)
 
 ### Rabbi Yaakov challenge
 
@@ -174,7 +174,7 @@ The *baraita* itself resolves this: *talmud lomar l'haznotah* — the word *l'ha
 
 ---
 
-## Al techalel meanings (continued)
+## Al techalel meanings (II)
 
 ### Double lamed analysis
 

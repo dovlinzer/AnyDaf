@@ -20,7 +20,7 @@ The resolution lies in the distinction between private conscience and public opp
 
 This raises an even deeper question, one that is genuinely fascinating from the perspective of the rabbis' role in *Torah* interpretation: is there such a thing as an objectively wrong *psak*? Consider an analogy to constitutional law. If a Supreme Court changes its interpretation of a provision it had read one way for two hundred years, we do not say that for two hundred years the law was wrong — we say the interpretation has evolved. Normally, one might expect rabbinic *psak* to function similarly: an older reading gives way to a newer reading, neither being termed a "mistake." The very fact that the *Mishnah* contemplates a court making a ruling, subsequently recognizing it as an error, and people in the interim having acted on what turns out to have been a wrong ruling — that itself presupposes some concept of objective meaning in the *Torah* that the court could have gotten wrong. That is a remarkable premise, and it animates much of what follows throughout the *masechet*.
 
-## First Mishnah
+## First Mishnah (III)
 
 ### Individual Follows Court
 
@@ -30,7 +30,7 @@ If the majority of *Klal Yisrael* follows such a ruling, the *beis din* themselv
 
 The *Mishnah* enumerates three variations: *bein she-asu ve-asa imahem* — whether the court members themselves acted on the ruling and the individual followed along with them — *o bein she-asu ve-asa achareihem* — or whether the court acted first and the individual followed after — *o bein she-lo asu* — or even if the court never acted at all and merely issued the ruling, yet the individual relied on it and acted accordingly. In all three cases he is *patur*, because in all three cases he can say: I relied on *beis din*.
 
-## Intro to Horayot…
+## Intro to Horayot (II)
 
 ### Zaken Mamre Paradox
 
@@ -52,7 +52,7 @@ This creates a profound point about the nature of halachic authority. One might 
 
 The rule is stated as *zeh haklal*: *hatoleh b'atzmo chayav, hatoleh b'veis din patur* — one who relies on himself is obligated, one who relies on *beis din* is exempt.
 
-## First Mishnah…
+## First Mishnah (III)
 
 ### When You Know Better
 
@@ -62,7 +62,7 @@ The *Gemara* addresses this directly. The case is one where he knows the substan
 
 This also illuminates the scope of the *Mishnah*'s ruling about someone who "rebels against the rulings of *beis din*" generally. If a person has a pattern of rejecting the court's authority, regularly treating their rulings as something he is free to accept or reject at will, and then one day he happens to follow a ruling he personally agrees with — that is not *tala b'veis din*. He is not relying on the court; he is relying on his own judgment, which in this particular case happened to coincide with theirs. Such a person remains *chayav*. The *klal* therefore includes this case as well: *le'asuyei meva'et b'hora'ah* — someone who generally rejects the court's rulings is, when he follows one, still acting on his own authority.
 
-## First Mishnah…
+## First Mishnah (III)
 
 ### Explicit Ruling Required
 
@@ -124,7 +124,7 @@ The *baraita* develops the principle of *shav mideiato* in a way that is crucial
 
 The *baraita*'s contribution is to sharpen what "would not have stopped" means. In the case at hand, the person is entirely righteous. He is *not* a *mumar*. He follows *beis din* scrupulously. But: had someone told him in the moment that he was eating *chelev*, he would not have stopped — because *beis din* ruled it *mutar*. His willingness to continue is not defiance of the law but compliance with it as he understands it. The question of *shav mideiato* in this context is therefore not about the person's character but about the specific act: in this act, given *beis din*'s ruling, he is categorized as *lo shav mideiato* — not because he is a *rasha* but because the ruling created a context in which he would have proceeded regardless of knowing the facts.
 
-## Shogeg al Pihem…
+## Shogeg al Pihem (II)
 
 ### Rav Pappa Resolution
 
@@ -134,7 +134,7 @@ The distinction *Rav Pappa* is drawing is between two levels of willingness. On 
 
 *Rav Pappa* adds a further point on behalf of *Rav*: even though *Rav* holds that this person is personally *patur*, *modeh Rav she-eino mashlim le-rov tzibbur* — *Rav* concedes that this person does not combine with the fifty percent who consciously followed *beis din* to constitute the majority that obligates *beis din* itself to bring a *korban*. The reason: *amar kra bishgagah — ad she-kulam bishgagah achas* — all of those counted toward the majority must be following *beis din* in the *same kind* of error. Those who consciously ate because of *beis din's* ruling are following the ruling directly; this person accidentally ate the wrong piece. Even if we hold him personally *patur*, he is not acting *al pihem* in the active sense, and therefore he does not count toward the communal threshold.
 
-## Talmid & Ra'uy…
+## Talmid & Ra'uy (II)
 
 ### Doubled Language
 

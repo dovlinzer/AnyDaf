@@ -132,7 +132,7 @@ So we now have clearly before us the full picture. Rabbi Meir: full standard *ke
 
 ---
 
-## Mishnah Attribution…
+## Mishnah Attribution (II)
 
 ### Contradiction Setup
 

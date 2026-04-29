@@ -218,7 +218,7 @@ Reish Lakish states the same principle: only explicit intent to permit her remar
 
 ---
 
-## Intention Narrowed…
+## Intention Narrowed (II)
 
 ### Innocent Speech
 

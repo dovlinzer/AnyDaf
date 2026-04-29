@@ -132,7 +132,7 @@ The *gemara* then asks: by the same logic, should not *lo balal* also be read as
 
 ---
 
-## Mincha Defects List…
+## Mincha Defects List (II)
 
 ### Fitness for Mixing
 

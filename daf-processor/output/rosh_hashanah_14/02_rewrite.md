@@ -72,7 +72,7 @@ This is based on the *pasuk*: *v'heyitem nekiyim me'Hashem u'mi'Yisrael* — you
 
 ---
 
-## Trumas Halishkah…
+## Trumas Halishkah (II)
 
 ### Kiddush/Chillul Hashem
 

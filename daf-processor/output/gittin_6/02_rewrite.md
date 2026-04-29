@@ -80,7 +80,7 @@ Rabbi Yirmiya challenges the foregoing from the *mishnah* itself. The *mishnah* 
 
 Rabbi Yirmiya poses his own answer: *le-var mi-Bavel* — the mishnah's geographic framework applies to everything *other than* Bavel. Bavel is a distinct entity unto itself, not simply subsumed under the general category of *chutz la'aretz*. This resolution points to something structurally important. Just as *medinat hayam* had its own defined identity in the *mishnah*, Bavel — as Tosafot notes from the opening of the tractate — has its own category. One might object that since the changed status resulted from Rav's arrival, which postdates the *mishnah*, the *mishnah* cannot be used to challenge it. The answer would be that even before Rav, the *mishnah*'s framework implicitly allowed for such an exception — or alternatively, as Tosafot proposes, the status was always there, waiting to be articulated.
 
-## Bavel's Status…
+## Bavel's Status (II)
 
 ### Tosafot Alternative
 

@@ -184,7 +184,7 @@ At that moment, Shlomo said the words of *Kohelet*: *mah yitron l'adam bechol am
 
 ---
 
-## Solomon's Fall…
+## Solomon's Fall (II)
 
 ### Beggar King
 

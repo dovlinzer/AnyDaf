@@ -186,7 +186,7 @@ This last phrase requires explanation. Why should we care whether a non-Jewish g
 
 ---
 
-## Path to Mashiach…
+## Path to Mashiach (II)
 
 ### Ikvata Meshicha
 
@@ -194,7 +194,7 @@ The placement of these passages — everything getting worse right before *Mashi
 
 ---
 
-## Pre-Mashiach Chaos…
+## Pre-Mashiach Chaos (II)
 
 ### No Rebuke
 
@@ -222,7 +222,7 @@ The placement of these passages — everything getting worse right before *Mashi
 
 ---
 
-## War Decrees…
+## War Decrees (II)
 
 ### Groom Crowns
 

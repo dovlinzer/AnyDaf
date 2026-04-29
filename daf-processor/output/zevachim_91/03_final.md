@@ -40,7 +40,7 @@ The *mishna* then presents a case: *shelamim shel emesh veshelamim shel yom* —
 
 The *mishna* then addresses a more complex case: *shelamim shel emesh ve'chattat ve'asham shel hayom* — yesterday's *shelamim* versus today's *chattat* and *asham*. On one side stands the urgency or disrespect of keeping the animal waiting since yesterday; on the other, the higher *kedusha* of the *chattat* and *asham*. *Rabbi Meir* rules that yesterday's *shelamim* comes first, while *Chakhamim* rule that the *chattat* takes precedence *mipnei shehi kodesh kodashim* — because it is *kodesh kodashim*. This is precisely the tension the *gemara* will be exploring: what happens when *tadir* (or urgency) competes with *kadosh*?
 
-### Meat Preparation
+### Meat Preparation (II)
 
 > **Hebrew/Aramaic:** וְכוּלָּן הַכֹּהֲנִים רַשָּׁאִין לְשַׁנּוֹת בַּאֲכִילָתָן – לְאָכְלָן צְלוּיִן וּשְׁלוּקִין וּמְבוּשָּׁלִין, לָתֵת לְתוֹכוֹ תַּבְלֵי חוּלִּין וְתַבְלֵי תְרוּמָה. דִּבְרֵי רַבִּי שִׁמְעוֹן. רַבִּי מֵאִיר אוֹמֵר: לֹא יִתֵּן לְתוֹכוֹ תַּבְלֵי תְרוּמָה, שֶׁלֹּא יָבִיא הַתְּרוּמָה לִידֵי פְסוּל.
 >
@@ -226,7 +226,7 @@ The *gemara*, however, resists accepting this as proof for the broader *sha'alah
 
 ---
 
-## Meat Preparation and Spices
+## Meat Preparation (II)
 
 ### Teruma Spices
 

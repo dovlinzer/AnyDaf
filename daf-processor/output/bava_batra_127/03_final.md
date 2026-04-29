@@ -136,7 +136,7 @@ One might further wonder whether a case falls between these two poles — one kn
 
 ---
 
-## Father's Testimony
+## Father's Testimony (II)
 
 ### Akra Query
 
@@ -160,7 +160,7 @@ The *gemara* resolves: *mistapka lei* — Shmuel was himself uncertain which rul
 
 ---
 
-## Father's Credibility
+## Father's Credibility (II)
 
 ### Yehuda: Believed
 
@@ -176,7 +176,7 @@ The *Rabbanan*, by contrast, say *eino ne'eman* — he is not believed. But this
 
 ---
 
-## Father's Testimony (Continued)
+## Father's Testimony (II)
 
 ### Yakkir Question
 
@@ -190,7 +190,7 @@ The *gemara* answers: *betzarich hikkira* — it applies where the *bechor* need
 
 ---
 
-## Father's Credibility (Continued)
+## Father's Credibility (II)
 
 ### Migu Basis
 

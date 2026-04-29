@@ -116,7 +116,7 @@ This clarification matters enormously for the larger question the Gemara is buil
 
 ---
 
-## Bird Simanim Intro…
+## Bird Simanim Intro (II)
 
 ### Dores Definition
 

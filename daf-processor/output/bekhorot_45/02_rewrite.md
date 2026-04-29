@@ -106,7 +106,7 @@ The Sages rule *pasul* even when the six digits appear symmetrically on all four
 
 ---
 
-## Lower Extremity…
+## Lower Extremity (II)
 
 ### Shufnar Calf
 
@@ -116,7 +116,7 @@ The *baraita* also restates *pika yotzei migudlo* — the spherical growth from 
 
 ---
 
-## Hand Defects…
+## Hand Defects (II)
 
 ### Digit Limb Status
 
@@ -176,7 +176,7 @@ This circles back to a broader point about the number 248. Since both Rabbi Akiv
 
 ---
 
-## Six Digits…
+## Six Digits (II)
 
 ### Scriptural 6-6-24
 

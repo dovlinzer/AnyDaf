@@ -90,7 +90,7 @@ This being established, the *gemara* asks a further question: *ei hachi, ipsulei
 
 Resh Lakish now enters the discussion. His position is, at first glance, surprising: *le-olam pasul mamash* — when the *mishnah* says *pasul*, it means categorically invalid, not merely that the meat is forbidden while the *korban* still atones. The *korban* does not atone at all when the blood is placed at the wrong location. However — and this is the striking part — Resh Lakish does not disagree with Shmuel's underlying principle. He actually accepts that in general *shelo bimkomo k'bimkomo dami*: a wrong-place blood application does achieve *kaparah*. What Resh Lakish disputes is the reading of the *mishnah*. He holds that our *mishnah* is dealing with a specific scenario — one involving a wrong-time thought — and that in that scenario the *korban* is categorically invalid.
 
-## Resh Lakish Position…
+## Resh Lakish Position (II)
 
 ### Silent vs. Articulated
 

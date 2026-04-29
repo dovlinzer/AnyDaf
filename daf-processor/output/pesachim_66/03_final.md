@@ -68,7 +68,7 @@ One might also note how *B'nei Beteira* address Hillel here: *rebbi*. We do not 
 
 ---
 
-## Knife on Shabbat
+## Knife on Shabbat (II)
 
 ### Animal Carries Knife
 
@@ -92,7 +92,7 @@ The *gemara* resolves this: *hani mili b'chovah she'ein kavua lahem zman* — th
 
 ---
 
-## Gemara Analysis
+## Gemara Analysis (II)
 
 ### Gezerah Shavah Analysis
 

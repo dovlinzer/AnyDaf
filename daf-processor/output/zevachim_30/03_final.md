@@ -220,7 +220,7 @@ The picture that emerges from Rabbi Yehuda's position across all these cases is 
 
 ---
 
-## Text Girsa
+## Text Girsa (II)
 
 ### Inferring Girsa
 
@@ -254,7 +254,7 @@ The *gemara* now attempts to resolve the question of the *mishnah*'s correct *gi
 
 ---
 
-## Final Synthesis…
+## Final Synthesis (II)
 
 ### Bundling Exception
 

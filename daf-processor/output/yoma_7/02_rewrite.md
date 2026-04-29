@@ -82,7 +82,7 @@ This also explains the instruction *hevei pikeach ve-shtok*. The *korban* is not
 
 ---
 
-## Fixed Time Key…
+## Fixed Time Key (II)
 
 ### Korban Categories
 

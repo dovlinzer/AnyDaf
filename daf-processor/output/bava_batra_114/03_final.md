@@ -50,7 +50,7 @@ The deeper reason they offer is structural. In ordinary *dinei mamonot*, two par
 
 ---
 
-## Rav Yehuda & Din Rules
+## Rav Yehuda & Din Rul (II)
 
 ### Dinei Mamonot Timing
 
@@ -90,7 +90,7 @@ To summarize, there are three distinct mechanisms by which a person can control 
 
 ---
 
-## Rav Yehuda & Din Rules…
+## Rav Yehuda & Din Rul (II)
 
 ### Witnesses vs Beit Din
 

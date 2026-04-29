@@ -76,7 +76,7 @@ This extended explication of the *parah adumah* passage is the *gemara*'s own, n
 
 ---
 
-## Tnai Kaful Debate…
+## Tnai Kaful Debate (II)
 
 ### Tosafot Analysis
 
@@ -238,7 +238,7 @@ The reasoning is clear in light of what has just been established. If the wife i
 
 ---
 
-## Pregnancy Case…
+## Pregnancy Case (II)
 
 ### Visible Pregnancy
 
@@ -262,7 +262,7 @@ This is genuinely unresolved. The *machloket* between Rava and Rav Yosef may not
 
 ---
 
-## Natural Events…
+## Natural Events (II)
 
 ### Field Types
 

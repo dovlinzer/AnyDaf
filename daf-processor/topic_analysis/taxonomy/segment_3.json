@@ -1,0 +1,3761 @@
+{
+  "segment": 3,
+  "segment_name": "Aggada, Theology, Biblical Figures, History, Geography",
+  "entries": [
+    {
+      "id": "aggada_theology",
+      "name": "Aggada and Theology",
+      "hebrew": "אגדה ותיאולוגיה",
+      "parent_id": null,
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Root category for aggadic, narrative, and theological topics"
+    },
+    {
+      "id": "divine_attributes",
+      "name": "Divine Attributes and Themes",
+      "hebrew": "מידות האל",
+      "parent_id": null,
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Root category for theology and divine attributes"
+    },
+    {
+      "id": "biblical_figures",
+      "name": "Biblical Figures and Narratives",
+      "hebrew": "דמויות וסיפורי התנ״ך",
+      "parent_id": null,
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Root category for biblical personalities and their stories"
+    },
+    {
+      "id": "eschatology",
+      "name": "Eschatology and Afterlife",
+      "hebrew": "אחרית הימים ועולם הבא",
+      "parent_id": null,
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Root category for end of days, afterlife, resurrection"
+    },
+    {
+      "id": "jewish_history",
+      "name": "Jewish History",
+      "hebrew": "תולדות ישראל",
+      "parent_id": null,
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Root category for Jewish historical periods and events"
+    },
+    {
+      "id": "ethics_character",
+      "name": "Ethics and Character",
+      "hebrew": "מוסר ומידות",
+      "parent_id": null,
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Root category for ethical principles and character development"
+    },
+    {
+      "id": "geography_places",
+      "name": "Geography and Places",
+      "hebrew": "גאוגרפיה ומקומות",
+      "parent_id": null,
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Root category for geographic and place references in Talmud"
+    },
+    {
+      "id": "creation_cosmology",
+      "name": "Creation and Cosmology",
+      "hebrew": "בריאת העולם וקוסמולוגיה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beriat_haolam",
+      "name": "Creation of the World",
+      "hebrew": "בריאת העולם",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Ma'aseh Bereishit; the six days of creation"
+    },
+    {
+      "id": "six_days_creation",
+      "name": "Six Days of Creation",
+      "hebrew": "ששת ימי בראשית",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "origin_universe",
+      "name": "Origin of the Universe",
+      "hebrew": "מקור היקום",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gan_eden_aggada",
+      "name": "Garden of Eden",
+      "hebrew": "גן עדן",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Terrestrial and heavenly Gan Eden"
+    },
+    {
+      "id": "celestial_bodies",
+      "name": "Celestial Bodies",
+      "hebrew": "גרמי שמים",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Sun, moon, stars in aggadic literature"
+    },
+    {
+      "id": "kiddush_levanah",
+      "name": "Sanctification of the Moon",
+      "hebrew": "קידוש לבנה",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "astronomy_aggada",
+      "name": "Astronomy",
+      "hebrew": "אסטרונומיה",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Talmudic astronomical discussions"
+    },
+    {
+      "id": "astrology",
+      "name": "Astrology",
+      "hebrew": "אסטרולוגיה",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Mazal and astrological influence"
+    },
+    {
+      "id": "mazal",
+      "name": "Mazal / Astrological Fortune",
+      "hebrew": "מזל",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "heavenly_realms",
+      "name": "Heavenly Realms",
+      "hebrew": "עולמות עליונים",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Seven heavens; structure of upper worlds"
+    },
+    {
+      "id": "angels_malachim",
+      "name": "Angels",
+      "hebrew": "מלאכים",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Nature, roles, and types of angels"
+    },
+    {
+      "id": "satan_aggada",
+      "name": "Satan",
+      "hebrew": "שטן",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Satan as adversary and accuser"
+    },
+    {
+      "id": "yetzer_hara_theology",
+      "name": "Evil Inclination",
+      "hebrew": "יצר הרע",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "As theological/cosmological force; see also ethics_character"
+    },
+    {
+      "id": "demons_sheidim",
+      "name": "Demons",
+      "hebrew": "שֵׁדִים",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Sheidim; demonic beings in Talmudic literature"
+    },
+    {
+      "id": "mazikin",
+      "name": "Harmful Spirits",
+      "hebrew": "מזיקין",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "supernatural_phenomena",
+      "name": "Supernatural Phenomena",
+      "hebrew": "תופעות על-טבעיות",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ghosts",
+      "name": "Ghosts",
+      "hebrew": "רוחות רפאים",
+      "parent_id": "supernatural_phenomena",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "seances",
+      "name": "Seances / Speaking with the Dead",
+      "hebrew": "האוב וידעוני",
+      "parent_id": "supernatural_phenomena",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Divination; necromancy"
+    },
+    {
+      "id": "evil_eye",
+      "name": "Evil Eye",
+      "hebrew": "עין הרע",
+      "parent_id": "supernatural_phenomena",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "omens",
+      "name": "Omens",
+      "hebrew": "סימנים",
+      "parent_id": "supernatural_phenomena",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "amulets",
+      "name": "Amulets",
+      "hebrew": "קמיעות",
+      "parent_id": "supernatural_phenomena",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "dreams_aggada",
+      "name": "Dreams",
+      "hebrew": "חלומות",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Prophetic and interpretive dreams"
+    },
+    {
+      "id": "bat_kol",
+      "name": "Bat Kol / Heavenly Voice",
+      "hebrew": "בת קול",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hebrew_language",
+      "name": "Hebrew Language",
+      "hebrew": "לשון הקודש",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Sacred status and significance of Hebrew"
+    },
+    {
+      "id": "biblical_names",
+      "name": "Biblical Names",
+      "hebrew": "שמות מקראיים",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Significance and interpretation of names"
+    },
+    {
+      "id": "apikorsut",
+      "name": "Heresy / Apikorsut",
+      "hebrew": "אפיקורסות",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Denial of fundamental beliefs"
+    },
+    {
+      "id": "idolatry_theology",
+      "name": "Idolatry",
+      "hebrew": "עבודה זרה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Theological dimension; see halakha for legal aspects"
+    },
+    {
+      "id": "kedushah_holiness",
+      "name": "Holiness / Kedushah",
+      "hebrew": "קדושה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kiddush_hashem",
+      "name": "Sanctification of God's Name",
+      "hebrew": "קידוש השם",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Martyrdom and public sanctification"
+    },
+    {
+      "id": "chilul_hashem",
+      "name": "Desecration of God's Name",
+      "hebrew": "חילול השם",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "manifestation_of_god",
+      "name": "Manifestation of God",
+      "hebrew": "גילוי שכינה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Theophany; Shechina; divine presence"
+    },
+    {
+      "id": "gods_names",
+      "name": "God's Names",
+      "hebrew": "שמות ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "The divine names and their significance"
+    },
+    {
+      "id": "divine_names_attributes",
+      "name": "Divine Attributes",
+      "hebrew": "מידות האלוקות",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Thirteen attributes; divine qualities"
+    },
+    {
+      "id": "hashgachah_pratit",
+      "name": "Divine Providence",
+      "hebrew": "השגחה פרטית",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sachar_vaonesh",
+      "name": "Reward and Punishment",
+      "hebrew": "שכר ועונש",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nevuah",
+      "name": "Prophecy",
+      "hebrew": "נבואה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Nature and levels of prophecy"
+    },
+    {
+      "id": "nissim_miracles",
+      "name": "Miracles",
+      "hebrew": "ניסים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Open and hidden miracles"
+    },
+    {
+      "id": "matan_torah",
+      "name": "Revelation at Sinai",
+      "hebrew": "מתן תורה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "The giving of the Torah at Mount Sinai"
+    },
+    {
+      "id": "hester_panim",
+      "name": "Hidden Face of God",
+      "hebrew": "הסתר פנים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Divine concealment; absence of apparent divine presence"
+    },
+    {
+      "id": "love_of_god",
+      "name": "Love of God",
+      "hebrew": "אהבת ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "fear_of_god",
+      "name": "Fear of God / Awe of Heaven",
+      "hebrew": "יראת שמים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Yirat Shamayim"
+    },
+    {
+      "id": "bechirah_chofshit",
+      "name": "Free Will",
+      "hebrew": "בחירה חופשית",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "neshamah",
+      "name": "The Soul",
+      "hebrew": "נשמה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Nature and levels of the soul"
+    },
+    {
+      "id": "atonement_kapparah",
+      "name": "Atonement",
+      "hebrew": "כפרה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "teshuvah_theology",
+      "name": "Repentance",
+      "hebrew": "תשובה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Theological and spiritual dimensions of teshuvah"
+    },
+    {
+      "id": "pacifism_peace",
+      "name": "Peace",
+      "hebrew": "שלום",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Pursuit of peace as divine value"
+    },
+    {
+      "id": "adam_and_eve",
+      "name": "Adam and Eve",
+      "hebrew": "אדם וחוה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "noah_flood",
+      "name": "Noah and the Flood",
+      "hebrew": "נח והמבול",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tower_of_babel",
+      "name": "Tower of Babel",
+      "hebrew": "מגדל בבל",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "abraham_patriarch",
+      "name": "Abraham",
+      "hebrew": "אברהם אבינו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "isaac_patriarch",
+      "name": "Isaac",
+      "hebrew": "יצחק אבינו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jacob_patriarch",
+      "name": "Jacob",
+      "hebrew": "יעקב אבינו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sarah_matriarch",
+      "name": "Sarah",
+      "hebrew": "שרה אמנו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rebecca_matriarch",
+      "name": "Rebecca",
+      "hebrew": "רבקה אמנו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rachel_matriarch",
+      "name": "Rachel",
+      "hebrew": "רחל אמנו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "leah_matriarch",
+      "name": "Leah",
+      "hebrew": "לאה אמנו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "twelve_tribes",
+      "name": "Twelve Tribes",
+      "hebrew": "שנים עשר שבטים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yosef_joseph",
+      "name": "Joseph",
+      "hebrew": "יוסף הצדיק",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "moses_moshe",
+      "name": "Moses",
+      "hebrew": "משה רבנו",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "aaron_kohen",
+      "name": "Aaron",
+      "hebrew": "אהרן הכהן",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "miriam_prophetess",
+      "name": "Miriam",
+      "hebrew": "מרים הנביאה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "joshua_conquest",
+      "name": "Joshua and the Conquest",
+      "hebrew": "יהושע וכיבוש הארץ",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "judges_period_figures",
+      "name": "Judges Period",
+      "hebrew": "תקופת השופטים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "king_saul",
+      "name": "King Saul",
+      "hebrew": "שאול המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "king_david",
+      "name": "King David",
+      "hebrew": "דוד המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "king_solomon",
+      "name": "King Solomon",
+      "hebrew": "שלמה המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eliyahu_prophet",
+      "name": "Elijah the Prophet",
+      "hebrew": "אליהו הנביא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Natural lifetime and post-biblical appearances"
+    },
+    {
+      "id": "elisha_prophet",
+      "name": "Elisha the Prophet",
+      "hebrew": "אלישע הנביא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "isaiah_prophet",
+      "name": "Isaiah",
+      "hebrew": "ישעיהו הנביא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jeremiah_prophet",
+      "name": "Jeremiah",
+      "hebrew": "ירמיהו הנביא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ezekiel_prophet",
+      "name": "Ezekiel",
+      "hebrew": "יחזקאל הנביא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "esther_mordechai",
+      "name": "Esther and Mordechai",
+      "hebrew": "אסתר ומרדכי",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "haman_villain",
+      "name": "Haman",
+      "hebrew": "המן הרשע",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "daniel_prophet",
+      "name": "Daniel",
+      "hebrew": "דניאל",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ezra_scribe",
+      "name": "Ezra",
+      "hebrew": "עזרא הסופר",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nehemiah_governor",
+      "name": "Nehemiah",
+      "hebrew": "נחמיה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "job_iyov",
+      "name": "Job",
+      "hebrew": "איוב",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Iyov; suffering and divine justice"
+    },
+    {
+      "id": "belshazzar",
+      "name": "Belshazzar",
+      "hebrew": "בלשאצר",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yeravam_ben_nevat",
+      "name": "Jeroboam ben Nevat",
+      "hebrew": "ירבעם בן נבט",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Archetype of causing Israel to sin"
+    },
+    {
+      "id": "yoshiyahu_josiah",
+      "name": "Josiah",
+      "hebrew": "יאשיהו המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "manna_wilderness",
+      "name": "Manna",
+      "hebrew": "מן",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Miraculous food in the wilderness"
+    },
+    {
+      "id": "red_sea_splitting",
+      "name": "Splitting of the Red Sea",
+      "hebrew": "קריעת ים סוף",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "exodus_egypt",
+      "name": "Exodus from Egypt",
+      "hebrew": "יציאת מצרים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yosef_sheida",
+      "name": "Yosef Sheida",
+      "hebrew": "יוסף שידא",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Demon named Yosef; Talmudic narrative figure"
+    },
+    {
+      "id": "olam_haba",
+      "name": "World to Come",
+      "hebrew": "עולם הבא",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gehinnom",
+      "name": "Gehinnom / Hell",
+      "hebrew": "גיהנם",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Purgatory; punishment after death"
+    },
+    {
+      "id": "techiyat_hameitim",
+      "name": "Resurrection of the Dead",
+      "hebrew": "תחיית המתים",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mashiach_messiah",
+      "name": "Messiah",
+      "hebrew": "משיח",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Nature and role of the Messiah"
+    },
+    {
+      "id": "messianic_era",
+      "name": "Messianic Era",
+      "hebrew": "ימות המשיח",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "end_of_days",
+      "name": "End of Days",
+      "hebrew": "אחרית הימים",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Acharit haYamim"
+    },
+    {
+      "id": "gog_magog",
+      "name": "Gog and Magog",
+      "hebrew": "גוג ומגוג",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kibbutz_galuyot",
+      "name": "Ingathering of the Exiles",
+      "hebrew": "קיבוץ גלויות",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bayit_shlishi",
+      "name": "Third Temple",
+      "hebrew": "בית שלישי",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "life_after_death",
+      "name": "Life After Death",
+      "hebrew": "חיים לאחר המוות",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "near_death_experiences",
+      "name": "Near Death Experiences",
+      "hebrew": "חוויות סף המוות",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "dying_death",
+      "name": "Death and Dying",
+      "hebrew": "מות ומיתה",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Beyond legal aspects; aggadic treatment of death"
+    },
+    {
+      "id": "cemetery",
+      "name": "Cemetery",
+      "hebrew": "בית הקברות",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "honoring_deceased",
+      "name": "Honoring a Deceased Person's Wishes",
+      "hebrew": "כבוד המת",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lost_tribes",
+      "name": "Lost Tribes",
+      "hebrew": "עשרת השבטים האבודים",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Eschatological fate of the ten tribes"
+    },
+    {
+      "id": "egyptian_bondage",
+      "name": "Egyptian Bondage",
+      "hebrew": "עבדות מצרים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "wilderness_period",
+      "name": "Wilderness Period",
+      "hebrew": "תקופת המדבר",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Forty years in the desert"
+    },
+    {
+      "id": "bayit_rishon",
+      "name": "First Temple Period",
+      "hebrew": "בית ראשון",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "babylonian_exile",
+      "name": "Babylonian Exile",
+      "hebrew": "גלות בבל",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bayit_sheni",
+      "name": "Second Temple Period",
+      "hebrew": "בית שני",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hasmonean_period",
+      "name": "Hasmonean Period",
+      "hebrew": "תקופת החשמונאים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "roman_period",
+      "name": "Roman Period",
+      "hebrew": "התקופה הרומאית",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "churban_destruction",
+      "name": "Destruction of the Temple",
+      "hebrew": "חורבן הבית",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Churban; destruction of First and Second Temples"
+    },
+    {
+      "id": "exile_galut",
+      "name": "Exile",
+      "hebrew": "גלות",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "General exile and its conditions"
+    },
+    {
+      "id": "men_great_assembly",
+      "name": "Men of the Great Assembly",
+      "hebrew": "אנשי כנסת הגדולה",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sadducees_boethusians",
+      "name": "Sadducees and Boethusians",
+      "hebrew": "צדוקים ובייתוסים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tannaim_history",
+      "name": "Tannaim",
+      "hebrew": "תנאים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The Tannaitic period and sages"
+    },
+    {
+      "id": "sages_mishnah",
+      "name": "Sages of the Mishnah",
+      "hebrew": "חכמי המשנה",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sages_gemara",
+      "name": "Sages of the Gemara",
+      "hebrew": "חכמי הגמרא",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "reish_galuta",
+      "name": "Exilarch",
+      "hebrew": "ריש גלותא",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Head of the exile; political leadership in Babylon"
+    },
+    {
+      "id": "political_leaders",
+      "name": "Political Leaders of the Jewish People",
+      "hebrew": "מנהיגים מדיניים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "wars_jewish",
+      "name": "Wars and Military Campaigns",
+      "hebrew": "מלחמות ישראל",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Milchamot; Rambam Hilchot Melachim"
+    },
+    {
+      "id": "melachim_kingship",
+      "name": "Kingship",
+      "hebrew": "מלכות",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Hilchot Melachim; institution of Jewish monarchy"
+    },
+    {
+      "id": "humility_anavah",
+      "name": "Humility",
+      "hebrew": "ענווה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "webshas",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "arrogance_gaavah",
+      "name": "Arrogance / Pride",
+      "hebrew": "גאווה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jealousy_kinah",
+      "name": "Jealousy",
+      "hebrew": "קנאה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gratitude_hakarat_hatov",
+      "name": "Gratitude",
+      "hebrew": "הכרת הטוב",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "teshuvah_ethics",
+      "name": "Repentance",
+      "hebrew": "תשובה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": "Practical and ethical dimensions of teshuvah"
+    },
+    {
+      "id": "mussar_character",
+      "name": "Character Development / Mussar",
+      "hebrew": "מוסר",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yetzer_hatov",
+      "name": "Good Inclination",
+      "hebrew": "יצר הטוב",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "yetzer_hara_ethics",
+      "name": "Evil Inclination",
+      "hebrew": "יצר הרע",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada",
+        "webshas"
+      ],
+      "notes": "Practical ethical struggle with evil inclination"
+    },
+    {
+      "id": "friendship",
+      "name": "Friendship",
+      "hebrew": "חברות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "wealth_poverty",
+      "name": "Wealth and Poverty",
+      "hebrew": "עושר ועוני",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "suffering_yisurin",
+      "name": "Suffering",
+      "hebrew": "יסורים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "embarrassing_others",
+      "name": "Embarrassing Others",
+      "hebrew": "בייוש",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Halbanat panim; shaming"
+    },
+    {
+      "id": "flattery_chanifah",
+      "name": "Flattery",
+      "hebrew": "חנופה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lying_sheker",
+      "name": "Lying",
+      "hebrew": "שקר",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lo_tachmod",
+      "name": "Coveting",
+      "hebrew": "לא תחמד",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Prohibition of coveting"
+    },
+    {
+      "id": "honoring_elders",
+      "name": "Honoring Elders",
+      "hebrew": "הידור פני זקן",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "honoring_living_things",
+      "name": "Honoring Living Things",
+      "hebrew": "כבוד הבריות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Kavod habriot; human dignity"
+    },
+    {
+      "id": "manners",
+      "name": "Manners and Etiquette",
+      "hebrew": "דרך ארץ",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Derech eretz"
+    },
+    {
+      "id": "human_nature",
+      "name": "Human Nature",
+      "hebrew": "טבע האדם",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "family_psychology",
+      "name": "Family Psychology",
+      "hebrew": "פסיכולוגיה משפחתית",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "fear_and_worry",
+      "name": "Fear and Worry",
+      "hebrew": "פחד ודאגה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "hebrew": "עצבות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "drunkenness",
+      "name": "Drunkenness",
+      "hebrew": "שכרות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "memory",
+      "name": "Memory",
+      "hebrew": "זיכרון",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "self_righteousness",
+      "name": "Self-Righteousness",
+      "hebrew": "צדקנות עצמית",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pacifism_ethics",
+      "name": "Pacifism",
+      "hebrew": "פציפיזם",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jerusalem_city",
+      "name": "Jerusalem",
+      "hebrew": "ירושלים",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "israel_land",
+      "name": "Land of Israel",
+      "hebrew": "ארץ ישראל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cities_of_israel",
+      "name": "Cities of Israel",
+      "hebrew": "ערי ישראל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "babylon_place",
+      "name": "Babylon",
+      "hebrew": "בבל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Babylonia as center of Jewish life"
+    },
+    {
+      "id": "judea",
+      "name": "Judea",
+      "hebrew": "יהודה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "city_of_refuge",
+      "name": "City of Refuge",
+      "hebrew": "עיר מקלט",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gan_eden_place",
+      "name": "Garden of Eden (Place)",
+      "hebrew": "גן עדן",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "As a geographic/spiritual location"
+    },
+    {
+      "id": "egypt_mitzrayim",
+      "name": "Egypt",
+      "hebrew": "מצרים",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sinai_mount",
+      "name": "Mount Sinai",
+      "hebrew": "הר סיני",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "temple_mount",
+      "name": "Temple Mount",
+      "hebrew": "הר הבית",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gehinnom_place",
+      "name": "Gehinnom (Place)",
+      "hebrew": "גיהנם",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Geographic/spiritual location of Gehinnom"
+    },
+    {
+      "id": "seven_nations",
+      "name": "Seven Nations of Canaan",
+      "hebrew": "שבעת העמים",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "four_kingdoms",
+      "name": "Four Kingdoms",
+      "hebrew": "ארבע מלכויות",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Babylonia, Persia, Greece, Rome"
+    },
+    {
+      "id": "persian_period",
+      "name": "Persian Period",
+      "hebrew": "התקופה הפרסית",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "greek_period",
+      "name": "Greek (Hellenistic) Period",
+      "hebrew": "התקופה ההלניסטית",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "seven_noahide_laws",
+      "name": "Seven Noahide Laws",
+      "hebrew": "שבע מצוות בני נח",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Universal laws for all humanity"
+    },
+    {
+      "id": "ger_toshav",
+      "name": "Resident Alien",
+      "hebrew": "גר תושב",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Non-Jew who accepts Noahide laws"
+    },
+    {
+      "id": "thirteen_principles",
+      "name": "Thirteen Principles of Faith",
+      "hebrew": "שלושה עשר עיקרים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Rambam's thirteen ikkarim"
+    },
+    {
+      "id": "unity_of_god",
+      "name": "Unity of God",
+      "hebrew": "אחדות ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Yichud Hashem"
+    },
+    {
+      "id": "incorporeality_of_god",
+      "name": "Incorporeality of God",
+      "hebrew": "שלילת הגשמות",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "eternity_of_god",
+      "name": "Eternity of God",
+      "hebrew": "קדמות ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "negative_theology",
+      "name": "Negative Theology",
+      "hebrew": "תיאולוגיה שלילית",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Describing God by what He is not"
+    },
+    {
+      "id": "omniscience_of_god",
+      "name": "Divine Omniscience",
+      "hebrew": "ידיעת ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_will",
+      "name": "Divine Will",
+      "hebrew": "רצון ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "torah_min_hashamayim",
+      "name": "Torah from Heaven",
+      "hebrew": "תורה מן השמים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Divine origin of Torah"
+    },
+    {
+      "id": "prophecy_levels",
+      "name": "Levels of Prophecy",
+      "hebrew": "מדרגות הנבואה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "moshe_prophecy",
+      "name": "Mosaic Prophecy",
+      "hebrew": "נבואת משה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Uniqueness of Moses's prophecy"
+    },
+    {
+      "id": "false_prophecy",
+      "name": "False Prophecy",
+      "hebrew": "נביא שקר",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "derech_eretz_precedes",
+      "name": "Derech Eretz Precedes Torah",
+      "hebrew": "דרך ארץ קדמה לתורה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "midot_character_traits",
+      "name": "Character Traits",
+      "hebrew": "מידות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Rambam Hilchot De'ot; the golden mean"
+    },
+    {
+      "id": "golden_mean",
+      "name": "Golden Mean",
+      "hebrew": "שביל הזהב",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Rambam's Aristotelian ethical principle"
+    },
+    {
+      "id": "anger",
+      "name": "Anger",
+      "hebrew": "כעס",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "stinginess_generosity",
+      "name": "Stinginess and Generosity",
+      "hebrew": "קמצנות ונדיבות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "love_of_money",
+      "name": "Love of Money",
+      "hebrew": "אהבת ממון",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "physical_health",
+      "name": "Physical Health",
+      "hebrew": "בריאות הגוף",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Rambam's health principles in Hilchot De'ot"
+    },
+    {
+      "id": "wisdom_seeking",
+      "name": "Seeking Wisdom",
+      "hebrew": "חכמה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "speech_ethics",
+      "name": "Ethical Speech",
+      "hebrew": "שמירת הלשון",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Lashon hara; proper speech"
+    },
+    {
+      "id": "lashon_hara",
+      "name": "Evil Speech / Gossip",
+      "hebrew": "לשון הרע",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "love_of_neighbor",
+      "name": "Love of Neighbor",
+      "hebrew": "ואהבת לרעך כמוך",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzniut_modesty",
+      "name": "Modesty",
+      "hebrew": "צניעות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "revenge_grudge",
+      "name": "Revenge and Grudges",
+      "hebrew": "נקמה ונטירה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rebuke_tochacha",
+      "name": "Rebuke",
+      "hebrew": "תוכחה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "suffering_love",
+      "name": "Suffering of Love",
+      "hebrew": "יסורים של אהבה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "aggadic_narrative_method",
+      "name": "Aggadic Narrative Method",
+      "hebrew": "שיטת האגדה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Parables, stories, and homiletical methods"
+    },
+    {
+      "id": "midrash_parable",
+      "name": "Parables and Midrash",
+      "hebrew": "משל ומדרש",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "stories_of_sages",
+      "name": "Stories of the Sages",
+      "hebrew": "סיפורי חכמים",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "creation_for_israel",
+      "name": "World Created for Israel",
+      "hebrew": "בשביל ישראל נברא העולם",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chosen_people",
+      "name": "Chosen People",
+      "hebrew": "עם הנבחר",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "covenant_brit",
+      "name": "Covenant",
+      "hebrew": "ברית",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Divine covenant with Israel"
+    },
+    {
+      "id": "torah_study_value",
+      "name": "Value of Torah Study",
+      "hebrew": "ערך תלמוד תורה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "prayer_aggada",
+      "name": "Prayer (Aggadic Aspects)",
+      "hebrew": "תפילה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Spiritual and theological aspects of prayer"
+    },
+    {
+      "id": "tsaddik_wicked",
+      "name": "Righteous and Wicked",
+      "hebrew": "צדיק ורשע",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "why_righteous_suffer",
+      "name": "Why the Righteous Suffer",
+      "hebrew": "צדיק ורע לו",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Theodicy"
+    },
+    {
+      "id": "meaning_of_life",
+      "name": "Purpose of Life",
+      "hebrew": "מטרת חיי האדם",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "olam_hazeh",
+      "name": "This World",
+      "hebrew": "עולם הזה",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "In contrast to Olam haBa"
+    },
+    {
+      "id": "days_of_mashiach",
+      "name": "Days of the Messiah",
+      "hebrew": "ימות המשיח",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "What will/won't change in messianic era per Rambam"
+    },
+    {
+      "id": "mashiach_lineage",
+      "name": "Messianic Lineage",
+      "hebrew": "ייחוס המשיח",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Descendent of David"
+    },
+    {
+      "id": "mashiach_ben_yosef",
+      "name": "Mashiach ben Yosef",
+      "hebrew": "משיח בן יוסף",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chevlei_mashiach",
+      "name": "Birth Pangs of Mashiach",
+      "hebrew": "חבלי משיח",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "olam_tohu",
+      "name": "Era Before Creation",
+      "hebrew": "תוהו ובוהו",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "patriarchs_narratives",
+      "name": "Patriarchal Narratives",
+      "hebrew": "סיפורי האבות",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Ma'aseh avot siman labanim"
+    },
+    {
+      "id": "akedat_yitzhak",
+      "name": "Binding of Isaac",
+      "hebrew": "עקדת יצחק",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "descent_to_egypt",
+      "name": "Descent to Egypt",
+      "hebrew": "ירידה למצרים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birth_of_moses",
+      "name": "Birth of Moses",
+      "hebrew": "לידת משה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "death_of_moses",
+      "name": "Death of Moses",
+      "hebrew": "מות משה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "golden_calf",
+      "name": "Golden Calf",
+      "hebrew": "חטא העגל",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "spies_meraglim",
+      "name": "Spies / Meraglim",
+      "hebrew": "מעשה המרגלים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "david_and_batsheva",
+      "name": "David and Batsheva",
+      "hebrew": "דוד ובת שבע",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "solomon_wisdom",
+      "name": "Solomon's Wisdom",
+      "hebrew": "חכמת שלמה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "elijah_chariot",
+      "name": "Elijah's Ascent to Heaven",
+      "hebrew": "עליית אליהו לשמים",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "purim_narrative",
+      "name": "Purim Narrative",
+      "hebrew": "מגילת אסתר",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "return_from_exile",
+      "name": "Return from Babylonian Exile",
+      "hebrew": "שיבת ציון",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "anshei_knesset_gedolah",
+      "name": "The Great Assembly",
+      "hebrew": "כנסת הגדולה",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "talmudic_period",
+      "name": "Talmudic Period",
+      "hebrew": "תקופת התלמוד",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "geonic_period",
+      "name": "Geonic Period",
+      "hebrew": "תקופת הגאונים",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "destruction_first_temple",
+      "name": "Destruction of the First Temple",
+      "hebrew": "חורבן בית ראשון",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "destruction_second_temple",
+      "name": "Destruction of the Second Temple",
+      "hebrew": "חורבן בית שני",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "causes_of_churban",
+      "name": "Causes of the Destruction",
+      "hebrew": "סיבות החורבן",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Sinat chinam and other causes"
+    },
+    {
+      "id": "sinat_chinam",
+      "name": "Baseless Hatred",
+      "hebrew": "שנאת חינם",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Cause of Second Temple's destruction"
+    },
+    {
+      "id": "nine_av",
+      "name": "Tisha B'Av Events",
+      "hebrew": "תשעה באב",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ten_plagues",
+      "name": "Ten Plagues",
+      "hebrew": "עשר מכות",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pharaoh",
+      "name": "Pharaoh",
+      "hebrew": "פרעה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "balaam_bilam",
+      "name": "Balaam",
+      "hebrew": "בלעם",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "samson_shimshon",
+      "name": "Samson",
+      "hebrew": "שמשון",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "ruth_naomi",
+      "name": "Ruth and Naomi",
+      "hebrew": "רות ונעמי",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hannah_prayer",
+      "name": "Hannah",
+      "hebrew": "חנה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Prayer and motherhood"
+    },
+    {
+      "id": "deborah_prophetess",
+      "name": "Deborah",
+      "hebrew": "דבורה הנביאה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jonah_prophet",
+      "name": "Jonah",
+      "hebrew": "יונה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "four_rivers_eden",
+      "name": "Four Rivers of Eden",
+      "hebrew": "ארבעת נהרות גן עדן",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mount_moriah",
+      "name": "Mount Moriah",
+      "hebrew": "הר המוריה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "euphrates_tigris",
+      "name": "Euphrates and Tigris",
+      "hebrew": "פרת וחידקל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "canaan_land",
+      "name": "Land of Canaan",
+      "hebrew": "ארץ כנען",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "boundaries_of_israel",
+      "name": "Borders of the Land of Israel",
+      "hebrew": "גבולות ארץ ישראל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "diaspora_communities",
+      "name": "Diaspora Communities",
+      "hebrew": "קהילות הגולה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "rome_edom",
+      "name": "Rome / Edom",
+      "hebrew": "רומי / אדום",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Rome as Edom in rabbinic literature"
+    },
+    {
+      "id": "persia_paras",
+      "name": "Persia",
+      "hebrew": "פרס",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shushan",
+      "name": "Shushan",
+      "hebrew": "שושן",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Capital of Persia; setting of Purim story"
+    },
+    {
+      "id": "hebron_cave_machpelah",
+      "name": "Cave of Machpelah / Hebron",
+      "hebrew": "מערת המכפלה / חברון",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "beth_el",
+      "name": "Beit El",
+      "hebrew": "בית אל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jericho",
+      "name": "Jericho",
+      "hebrew": "יריחו",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "dead_sea",
+      "name": "Dead Sea",
+      "hebrew": "ים המלח",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "jordan_river",
+      "name": "Jordan River",
+      "hebrew": "נהר הירדן",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mount_carmel",
+      "name": "Mount Carmel",
+      "hebrew": "הר כרמל",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shilo",
+      "name": "Shiloh",
+      "hebrew": "שילה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Location of Tabernacle"
+    },
+    {
+      "id": "nile_river",
+      "name": "Nile River",
+      "hebrew": "נהר הנילוס",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "pumpedita_nehardea",
+      "name": "Pumbedita and Nehardea",
+      "hebrew": "פומבדיתא ונהרדעא",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Major Babylonian academies"
+    },
+    {
+      "id": "sura_academy",
+      "name": "Sura",
+      "hebrew": "סורא",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Babylonian academy founded by Rav"
+    },
+    {
+      "id": "yavneh",
+      "name": "Yavneh",
+      "hebrew": "יבנה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Rabbinic center after Temple destruction"
+    },
+    {
+      "id": "usha",
+      "name": "Usha",
+      "hebrew": "אושא",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzipori_sepphoris",
+      "name": "Tzipori / Sepphoris",
+      "hebrew": "ציפורי",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tiberias",
+      "name": "Tiberias",
+      "hebrew": "טבריה",
+      "parent_id": "geography_places",
+      "category": "GEOGRAPHY AND PLACES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "four_cubits_of_halakha",
+      "name": "The Four Cubits of Halakha",
+      "hebrew": "ארבע אמות של הלכה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Torah as homeland; aggadic expression"
+    },
+    {
+      "id": "creation_for_torah",
+      "name": "Creation for the Sake of Torah",
+      "hebrew": "בראשית בשביל התורה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "preexistence_of_torah",
+      "name": "Pre-existence of Torah",
+      "hebrew": "קדימות התורה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_speech",
+      "name": "Divine Speech",
+      "hebrew": "דיבור אלוקי",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "shechina_divine_presence",
+      "name": "Divine Presence / Shechina",
+      "hebrew": "שכינה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "thirteen_attributes_mercy",
+      "name": "Thirteen Attributes of Mercy",
+      "hebrew": "שלוש עשרה מידות הרחמים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "measure_for_measure",
+      "name": "Measure for Measure",
+      "hebrew": "מידה כנגד מידה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "middah_rachamim",
+      "name": "Attribute of Mercy",
+      "hebrew": "מידת הרחמים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "middah_din",
+      "name": "Attribute of Justice",
+      "hebrew": "מידת הדין",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_names_tetragrammaton",
+      "name": "Tetragrammaton",
+      "hebrew": "שם המפורש",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "The four-letter divine name"
+    },
+    {
+      "id": "sanctity_of_gods_name",
+      "name": "Sanctity of Divine Names",
+      "hebrew": "קדושת שם ה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "prayer_theology",
+      "name": "Prayer as Communion with God",
+      "hebrew": "תפילה כקשר לה׳",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaddik_foundation",
+      "name": "Righteous Person as Foundation of World",
+      "hebrew": "צדיק יסוד עולם",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "world_stands_on_three",
+      "name": "World Stands on Three Things",
+      "hebrew": "על שלושה דברים העולם עומד",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Torah, Avodah, Gemilut Chasadim"
+    },
+    {
+      "id": "gemilut_chasadim",
+      "name": "Acts of Loving Kindness",
+      "hebrew": "גמילות חסדים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "charity_tzedakah_ethics",
+      "name": "Charity",
+      "hebrew": "צדקה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hospitality_hachnasat_orchim",
+      "name": "Hospitality",
+      "hebrew": "הכנסת אורחים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "visiting_sick",
+      "name": "Visiting the Sick",
+      "hebrew": "ביקור חולים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "comforting_mourners",
+      "name": "Comforting Mourners",
+      "hebrew": "ניחום אבלים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "redeeming_captives",
+      "name": "Redeeming Captives",
+      "hebrew": "פדיון שבויים",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "truth_emet",
+      "name": "Truth",
+      "hebrew": "אמת",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "peace_shalom",
+      "name": "Pursuing Peace",
+      "hebrew": "רדיפת שלום",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "patience_savlanut",
+      "name": "Patience",
+      "hebrew": "סבלנות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "diligence_zerizut",
+      "name": "Diligence",
+      "hebrew": "זריזות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "trust_in_god_bitachon",
+      "name": "Trust in God",
+      "hebrew": "בטחון",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "joy_simcha",
+      "name": "Joy",
+      "hebrew": "שמחה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "contentment_histapkut",
+      "name": "Contentment",
+      "hebrew": "הסתפקות",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "silence_shtika",
+      "name": "Silence",
+      "hebrew": "שתיקה",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cleanliness_spiritual",
+      "name": "Spiritual Cleanliness",
+      "hebrew": "טהרת הנפש",
+      "parent_id": "ethics_character",
+      "category": "ETHICS AND CHARACTER",
+      "sources": [
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "reward_this_world",
+      "name": "Reward in This World",
+      "hebrew": "שכר בעולם הזה",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "gehenom_duration",
+      "name": "Duration in Gehinnom",
+      "hebrew": "משך עונש גיהנם",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaddikim_in_olam_haba",
+      "name": "Righteous in the World to Come",
+      "hebrew": "צדיקים לעולם הבא",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "four_who_entered_pardes",
+      "name": "Four Who Entered Pardes",
+      "hebrew": "ארבעה שנכנסו לפרדס",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Mystical narrative; Ben Azzai, Ben Zoma, Acher, Rabbi Akiva"
+    },
+    {
+      "id": "maaseh_merkavah",
+      "name": "Divine Chariot Mysticism",
+      "hebrew": "מעשה מרכבה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "maaseh_bereishit",
+      "name": "Account of Creation Mysticism",
+      "hebrew": "מעשה בראשית",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada",
+        "rambam"
+      ],
+      "notes": null
+    },
+    {
+      "id": "chanina_ben_teradion",
+      "name": "Rabbi Chanina ben Teradion",
+      "hebrew": "רבי חנינא בן תרדיון",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Martyrdom narrative"
+    },
+    {
+      "id": "ten_martyrs",
+      "name": "Ten Martyrs",
+      "hebrew": "עשרה הרוגי מלכות",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "bar_kochba",
+      "name": "Bar Kochba Revolt",
+      "hebrew": "מרד בר כוכבא",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hadrian_persecution",
+      "name": "Hadrianic Persecution",
+      "hebrew": "גזרות הדריאנוס",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "alexander_the_great",
+      "name": "Alexander the Great",
+      "hebrew": "אלכסנדר מוקדון",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Encounters with Jewish sages"
+    },
+    {
+      "id": "antiochus",
+      "name": "Antiochus",
+      "hebrew": "אנטיוכוס",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "destruction_reasons_aggada",
+      "name": "Why the Temple Was Destroyed",
+      "hebrew": "מדוע נחרב הבית",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "kohelet_ecclesiastes",
+      "name": "Kohelet / Ecclesiastes",
+      "hebrew": "קהלת",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "proverbs_mishlei",
+      "name": "Proverbs / Mishlei",
+      "hebrew": "משלי",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "king_hezekiah",
+      "name": "King Hezekiah",
+      "hebrew": "חזקיהו המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "manasseh_king",
+      "name": "Manasseh",
+      "hebrew": "מנשה המלך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sennacherib",
+      "name": "Sennacherib",
+      "hebrew": "סנחריב",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nebuchadnezzar",
+      "name": "Nebuchadnezzar",
+      "hebrew": "נבוכדנצר",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cyrus_koresh",
+      "name": "Cyrus",
+      "hebrew": "כורש",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "sodom_gomorrah",
+      "name": "Sodom and Gomorrah",
+      "hebrew": "סדום ועמורה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "lot_narrative",
+      "name": "Lot",
+      "hebrew": "לוט",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "cain_abel",
+      "name": "Cain and Abel",
+      "hebrew": "קין והבל",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "enoch_chanoch",
+      "name": "Enoch",
+      "hebrew": "חנוך",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nimrod",
+      "name": "Nimrod",
+      "hebrew": "נמרוד",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_image_tzelem",
+      "name": "Man Created in Divine Image",
+      "hebrew": "בצלם אלוקים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_testing",
+      "name": "Divine Testing",
+      "hebrew": "ניסיון אלוקי",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Ten tests of Abraham and similar trials"
+    },
+    {
+      "id": "ten_tests_abraham",
+      "name": "Ten Tests of Abraham",
+      "hebrew": "עשרה ניסיונות של אברהם",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "prayer_answered",
+      "name": "Answered Prayer",
+      "hebrew": "תפילה שנענתה",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "intercession_prayer",
+      "name": "Intercessory Prayer",
+      "hebrew": "תפילה בעד אחרים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tzaddik_decree",
+      "name": "Righteous Person Decrees",
+      "hebrew": "צדיק גוזר והקב״ה מקיים",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "elijah_messianic_role",
+      "name": "Elijah's Messianic Role",
+      "hebrew": "תפקיד אליהו בגאולה",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "world_renewed",
+      "name": "Renewal of the World",
+      "hebrew": "חידוש העולם",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "seven_year_cycle_mashiach",
+      "name": "Seven-Year Cycle before Mashiach",
+      "hebrew": "שבעה שנות גאולה",
+      "parent_id": "eschatology",
+      "category": "ESCHATOLOGY AND AFTERLIFE",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "forty_years_desert_mashal",
+      "name": "Forty Years in the Desert",
+      "hebrew": "ארבעים שנה במדבר",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "tabernacle_mishkan_aggada",
+      "name": "Tabernacle (Aggadic Aspects)",
+      "hebrew": "משכן",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Spiritual significance of Mishkan"
+    },
+    {
+      "id": "ark_of_covenant",
+      "name": "Ark of the Covenant",
+      "hebrew": "ארון הברית",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "hidden_ark",
+      "name": "Hidden Ark",
+      "hebrew": "גניזת הארון",
+      "parent_id": "jewish_history",
+      "category": "JEWISH HISTORY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": "Ark hidden before Temple's destruction"
+    },
+    {
+      "id": "seventy_nations",
+      "name": "Seventy Nations",
+      "hebrew": "שבעים אומות",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "guardian_angels_nations",
+      "name": "Guardian Angels of Nations",
+      "hebrew": "שרי האומות",
+      "parent_id": "creation_cosmology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "four_expressions_redemption",
+      "name": "Four Expressions of Redemption",
+      "hebrew": "ארבע לשונות של גאולה",
+      "parent_id": "biblical_figures",
+      "category": "BIBLICAL FIGURES AND NARRATIVES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "mikra_oral_tradition",
+      "name": "Written and Oral Torah",
+      "hebrew": "תורה שבכתב ושבעל פה",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "divine_protection_israel",
+      "name": "Divine Protection of Israel",
+      "hebrew": "שמירת ה׳ על ישראל",
+      "parent_id": "divine_attributes",
+      "category": "DIVINE ATTRIBUTES AND THEMES",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    },
+    {
+      "id": "uniqueness_of_israel",
+      "name": "Uniqueness of the Jewish People",
+      "hebrew": "ייחוד עם ישראל",
+      "parent_id": "aggada_theology",
+      "category": "AGGADA AND THEOLOGY",
+      "sources": [
+        "aggada"
+      ],
+      "notes": null
+    }
+  ]
+}

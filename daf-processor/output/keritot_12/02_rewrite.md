@@ -240,7 +240,7 @@ The *mishna* now introduces the principle that governs all cases of eating that 
 
 ---
 
-## Continuous Action…
+## Continuous Action (II)
 
 ### Meir: Kalyos
 

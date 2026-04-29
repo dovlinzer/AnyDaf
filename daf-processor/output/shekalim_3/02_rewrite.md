@@ -168,7 +168,7 @@ On the twenty-fifth of *Adar*, *yoshvin ba-mikdash* — the money changers reloc
 
 ---
 
-## Shekel Collection…
+## Shekel Collection (II)
 
 ### Mashkon Seizure
 

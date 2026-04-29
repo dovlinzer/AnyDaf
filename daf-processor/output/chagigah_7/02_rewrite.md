@@ -162,7 +162,7 @@ The contrast might be illustrated as follows. The *olat re'iyah* is what you giv
 
 ---
 
-## Shalmei Chagigah…
+## Shalmei Chagigah (II)
 
 ### Yom Tov Restriction
 

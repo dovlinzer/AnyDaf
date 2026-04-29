@@ -64,7 +64,7 @@ The *gemara* asks: *mai ta'ama* — how do we derive that there is no *me'ilah* 
 
 In this same context, the *braita* states: *ve'ein osin temurah* — one cannot perform *temurah* on animals sanctified by a non-Jew. The derivation: the prohibition *lo yachlifenu velo yamir oto* appears at the end of a *parsha* that opens *Daber el bnei Yisrael*. Since the *parsha* of *temurah* is contextualized within a framework addressed to *bnei Yisrael*, the same limitation applies — only *bnei Yisrael*, not non-Jews.
 
-## Non-Jew Sanctity…
+## Non-Jew Sanctity (II)
 
 ### Two Drashot
 

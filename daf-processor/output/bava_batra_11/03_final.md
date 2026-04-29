@@ -298,7 +298,7 @@ The next question in the *Gemara* concerns a sealed door — *hayah satum u-bike
 
 ---
 
-## Multi-Unit Dwellings…
+## Multi-Unit Dwellings (II)
 
 ### Dung Heaps
 
@@ -310,7 +310,7 @@ The *baraita* is revisited in light of the distinction between the *zevel* and *
 
 ---
 
-## Mavoy Access…
+## Mavoy Access (II)
 
 ### Graduated Rights
 

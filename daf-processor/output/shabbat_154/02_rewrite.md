@@ -94,7 +94,7 @@ To summarize the two conceptual tracks that run through the *sugya*: there is a 
 
 ---
 
-## Unloading at Courtyard
+## Unloading at Courtya (II)
 
 ### Karni D'Umna & Pillows
 
@@ -108,7 +108,7 @@ The *gemara* immediately raises a further difficulty: *v'ha kamvatel kli meheich
 
 ---
 
-## Unloading at Courtyard…
+## Unloading at Courtya (II)
 
 ### Small Sacks Solution
 

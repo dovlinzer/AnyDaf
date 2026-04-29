@@ -178,7 +178,7 @@ Rabbi Abahu opens a striking reflection on the nature of *shochad*. He asks: com
 
 ---
 
-## Bribes Blind…
+## Bribes Blind (II)
 
 ### Exodus Verse
 

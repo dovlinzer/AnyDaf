@@ -56,7 +56,7 @@ There is, however, an alternative approach found in some *rishonim*, which holds
 
 ---
 
-## Abaye's Challenge
+## Abaye's Challenge (II)
 
 ### Mishrat Question
 
@@ -100,7 +100,7 @@ A related question arises: when grapes soak in water and the water changes color
 
 ---
 
-## Abaye's Challenge Continued
+## Abaye's Challenge (II)
 
 ### Rabbi Akiva's Limit
 

@@ -184,7 +184,7 @@ Why then, Rava asks rhetorically, is a *derashah* needed to include *u'chtavtam*
 
 ---
 
-## Writing & teaching…
+## Writing & teaching (II)
 
 ### V'limadetem
 
@@ -200,7 +200,7 @@ Rava responds by elaborating the practical application of this requirement in th
 
 ---
 
-## Precise articulation…
+## Precise articulation (II)
 
 ### Space between words
 

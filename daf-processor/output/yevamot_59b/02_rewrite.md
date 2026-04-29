@@ -78,7 +78,7 @@ The ruling that non-Jews are not called *adam* in this context has generated con
 
 ---
 
-## Giyoret Status…
+## Giyoret Status (II)
 
 ### RN Reversal
 
@@ -86,7 +86,7 @@ Against this backdrop — and after the Gemara had recorded the ruling of Rav Ya
 
 ---
 
-## Non-Jewish Status…
+## Non-Jewish Status (II)
 
 ### Pesukim
 

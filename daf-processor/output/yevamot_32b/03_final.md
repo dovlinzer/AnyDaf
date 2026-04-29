@@ -306,7 +306,7 @@ In the case of the *ba'al mum*: initially, he could eat from *korbanot* but coul
 
 ---
 
-## Issur Chal Analysis…
+## Issur Chal Analysis (II)
 
 ### Melikah Problem
 

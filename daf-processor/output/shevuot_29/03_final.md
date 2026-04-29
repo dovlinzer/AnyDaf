@@ -250,7 +250,7 @@ The *Gemara* presses the difficulty that Michael flagged: if the second oath was
 
 ---
 
-## God's Name Role…
+## God's Name Role (II)
 
 ### Rambam's Categories
 
@@ -272,7 +272,7 @@ The *Mishnah* turns to a summary of the scope and penalties of *shevuat bituy*. 
 
 ---
 
-## Shevuat Bituy…
+## Shevuat Bituy (II)
 
 ### Penalties
 

@@ -70,7 +70,7 @@ The Gemara responds: *ibra Rosh Chodesh nami ikri mo'ed* — indeed, Rosh Chodes
 
 This historical episode is then connected to the verse in Eichah: *kara alai mo'ed lishbor bachurai* — "He has called a *mo'ed* against me to shatter my young men." The use of the word *mo'ed* here in connection with the date of Tisha B'Av, which is fixed relative to Rosh Chodesh, demonstrates that Rosh Chodesh is itself called a *mo'ed*. Thus Rosh Chodesh falls within the scope of *eileh ta'asu b'mo'adeichem*, and the connection is complete.
 
-## Yom Kippur Inner Goat
+## Yom Kippur Inner Goa (II)
 
 ### R. Yochanan Concedes
 
@@ -80,7 +80,7 @@ This historical episode is then connected to the verse in Eichah: *kara alai mo'
 
 With all the *musaf* goats now properly linked, Rabbi Yochanan makes an important concession: *modeh Rabbi Meir be-sa'ir ha-na'aseh bifnim* — even Rabbi Meir agrees that the inner goat of Yom Kippur stands apart. The inner goat — the one brought inside and whose blood is sprinkled in the Holy of Holies as part of the central *avodah* described in *Acharei Mot* — neither does what the *musaf* goats do, nor do they do what it does. This exclusive and reciprocal separation is grounded in the word *achas*: *kapara achas mechaper ve'eino mechaper shtei kaparot* — it performs one act of atonement and does not perform two. Correspondingly, *kappara zo lo tehe ela achas bashana* — this atonement is performed only once in the year; nothing else performs it.
 
-## Rabbi Meir - Goats…
+## Rabbi Meir - Goats (II)
 
 ### Baraita Support
 
@@ -90,7 +90,7 @@ With all the *musaf* goats now properly linked, Rabbi Yochanan makes an importan
 
 A *baraita* explicitly confirms Rabbi Meir's position: for unawareness at the beginning and end, for unawareness at the beginning but awareness at the end, and for a ritually pure person who ate from a *korban tamei*, the *se'ir ha-regalim*, the *se'ir rashei chodashim*, and the *se'ir ha-na'aseh bachutz* (the outer goat of Yom Kippur) all atone — *divrei Rabbi Meir*. Crucially, the *baraita* conspicuously omits the inner goat: *ve'ilu sa'ir ha-na'aseh bifnim shayrei* — the goat brought inside is not listed. And *ve-kapartan nami shayrei* — the work that those outer goats do is never attributed to the inner goat either. The *baraita* thus independently establishes that Rabbi Meir's equation of all goats applies only to the *musaf* offerings; the inner Yom Kippur goat retains its unique and exclusive role.
 
-## Yom Kippur Inner Goat…
+## Yom Kippur Inner Goa (II)
 
 ### Achas Bashanah
 

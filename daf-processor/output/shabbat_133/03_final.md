@@ -212,7 +212,7 @@ Applied to *brit milah*: by going back and finishing the aesthetic work after *p
 
 ---
 
-## Milah & Yom Tov…
+## Milah & Yom Tov (II)
 
 ### Beautification
 
@@ -230,7 +230,7 @@ The immediate point of the *gemara*, however, is that *Zeh Eli v'anvehu* as appl
 
 ---
 
-## Continuity of Act…
+## Continuity of Act (II)
 
 ### Lechem Panim
 

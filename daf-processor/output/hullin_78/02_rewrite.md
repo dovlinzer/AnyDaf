@@ -20,7 +20,7 @@ Before examining the full matrix of cases, several foundational parameters of *o
 
 The *mishnah* then works through the permutations. The simplest case: *chullin bachutz* — both animals are non-sanctified and are slaughtered outside the *beit haMikdash*. *sheneihem kesherim*: both animals are *kasher*. The meat may be eaten. The second person, however — whoever performs the second *shechita* — *sofeg et ha'arba'im*, absorbs the forty lashes for having violated the prohibition.
 
-## Oto Ve'et Beno Intro…
+## Oto Ve'et Beno Intro (II)
 
 ### Prohibition Parameters
 
@@ -30,7 +30,7 @@ A further parameter: *chullin* slaughtered inside the *beit haMikdash* — *chul
 
 These parameters, taken together with the structure of *oto ve'et beno* itself, set up the matrix of cases the *mishnah* will now work through. The organizing question is: given the interaction between the prohibition of *oto ve'et beno* and the distinct rules governing *kodshim*, what are the *kashrus* and liability consequences in each scenario?
 
-## Mishna Permutations…
+## Mishna Permutations (II)
 
 ### Kodshim Bachutz
 

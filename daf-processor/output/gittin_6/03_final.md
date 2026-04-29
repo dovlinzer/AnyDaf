@@ -88,7 +88,7 @@ The *gemara* now examines the phrase from the *baraita* — *afilu nichnas veyot
 
 One might ask: even this seems obvious — why would the *sofer* stepping out invalidate anything? The *gemara* answers: *lo tzricha* — the *baraita*'s ruling is needed for a specific case. *D'nafik l'shuka ve'asa* — the *sofer* went out to the marketplace and returned. One might have thought that while in the marketplace, another person approached him and asked him to write a *get* for his own wife. If, when returning, the *sofer* carried that second commission in mind, his *lishmah* intent may have become confused. The *baraita* teaches us that we are not concerned for this possibility. We note that this concern again touches on *lishmah* — suggesting that the question of intent remains relevant in evaluating the *sofer*'s conduct throughout the writing, even as the evidentiary threshold for the *shaliach*'s own presence has been set quite low.
 
-## Bavel's Status
+## Bavel's Status (II)
 
 ### Rav vs. Shmuel
 
@@ -136,7 +136,7 @@ Rabbi Yirmiya challenges the foregoing from the *mishnah* itself. The *mishnah* 
 
 Rabbi Yirmiya poses his own answer: *le-var mi-Bavel* — the mishnah's geographic framework applies to everything *other than* Bavel. Bavel is a distinct entity unto itself, not simply subsumed under the general category of *chutz la'aretz*. This resolution points to something structurally important. Just as *medinat hayam* had its own defined identity in the *mishnah*, Bavel — as Tosafot notes from the opening of the tractate — has its own category. One might object that since the changed status resulted from Rav's arrival, which postdates the *mishnah*, the *mishnah* cannot be used to challenge it. The answer would be that even before Rav, the *mishnah*'s framework implicitly allowed for such an exception — or alternatively, as Tosafot proposes, the status was always there, waiting to be articulated.
 
-## Bavel's Status (continued)
+## Bavel's Status (II)
 
 ### Tosafot Alternative
 

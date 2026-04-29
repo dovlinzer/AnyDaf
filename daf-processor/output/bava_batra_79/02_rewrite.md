@@ -52,7 +52,7 @@ The *baraita* that drives the subsequent discussion introduces a distinction: wh
 
 ---
 
-## Two Sets of Terms…
+## Two Sets of Terms (II)
 
 ### Ownership vs. Sanctity
 
@@ -72,7 +72,7 @@ One participant raised the pointed question of a *bechor behemah* — a firstbor
 
 ---
 
-## Gidulei Hekdesh…
+## Gidulei Hekdesh (II)
 
 ### Clarifying Scope
 

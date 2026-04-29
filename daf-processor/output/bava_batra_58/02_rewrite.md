@@ -1,6 +1,6 @@
 # Bava Batra 58 — Daf Yomi Shiur
 
-## Rav Banna'ah & Graves
+## Rav Banna'ah & Grave (II)
 
 ### Marking Graves
 
@@ -68,7 +68,7 @@ But there is a more fundamental question about what the story is actually teachi
 
 This distinction is borne out by the language of the Rashbam on the passage. He writes that Eliezer told Rav Banna'ah: *de-ein kan chutzpah* — it would not be *chutzpah* — and adds *ve-lo tzerichinah le-iztanuei minei* — I do not need to hide or withdraw from his entering. Read carefully, the Rashbam is framing the question as one of *chutzpah*, of uninvited intrusion into a private space, not as a question of whether the couple were conducting themselves immodestly. The lesson of the story, properly understood, concerns the sanctity of private intimate space and the impropriety of invading it — an ethos of a rather different kind from the blanket restriction on public displays of affection that some have read into it. This question has been addressed at length in a *teshuvah* devoted to the subject, and interested readers may consult it.
 
-## Rav Banna'ah & Graves…
+## Rav Banna'ah & Grave (II)
 
 ### Beauty Hierarchy
 

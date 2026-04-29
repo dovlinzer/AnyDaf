@@ -182,7 +182,7 @@ Each opinion must then account for the word it does not primarily rely upon. Acc
 >
 > **Translation:** The Gemara asks: **And the one** who **said** they **are prohibited, what does he do** with **this** term **wilderness,** i.e., what does he derive from it? The Gemara answers: **He needs it for that which was taught** in a *baraita*: There are three expressions used to describe the location of the procedure with the scapegoat: **"Into the wilderness"** (Leviticus 16:10), **"into the wilderness"** (Leviticus 16:21), and **"in the wilderness"** (Leviticus 16:22), **to include Nov and Givon** and **Shiloh,** when the Tabernacle was located there, **and the eternal Temple.** The mitzva of the scapegoat applied during the time periods when communal offerings were sacrificed in any of these locations.
 
-## Limbs Permissibility…
+## Limbs Permissibility (II)
 
 ### Textual Locations
 
@@ -256,7 +256,7 @@ The *chukim*, by contrast, are *devarim she-ha-Satan meishiv aleihem* — things
 
 To that critique, the *Torah* responds: *Ani Hashem chakaktiv ve-ein lecha reshut le-harheir bahen* — I, God, have inscribed this, and you have no license to second-guess it. This is the meaning of *chukotai tishmoru* together with *Ani Hashem*. The *chukim* are not presented as things requiring rational vindication. They demonstrate, precisely through their resistance to rational justification, the character of pure obedience to divine command. The declaration *Ani Hashem* is what makes them binding — not their intelligibility.
 
-## Mishpatim & Chukim…
+## Mishpatim & Chukim (II)
 
 ### Rambam on Values
 

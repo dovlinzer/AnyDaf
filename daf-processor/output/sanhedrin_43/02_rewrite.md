@@ -148,7 +148,7 @@ At this point in the text, there is a section that was removed by censors. The p
 
 The *gemara* then distinguishes: *zika in, lo zika lo* — if he completed his *limud zechut*, yes, we place someone in his stead; if he did not complete it, no, we do not. This creates the direct connection back to Rav Sheshet's ruling: a student who said only that he had an appeal and then fell silent — or died before articulating anything — is treated identically. The bare statement of intention, unaccompanied by substantive argument, generates no procedural consequence. *Zika peshita li* — if he completed it, that is obvious; *lo zika tiba'i lach* — the question is specifically about the case where he did not complete it.
 
-## Appeals & Silence…
+## Appeals & Silence (II)
 
 ### Baraita Timing
 

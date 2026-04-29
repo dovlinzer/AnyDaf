@@ -10,7 +10,7 @@ The overarching discussion on this *daf* concerns *tumah* of a *korban pesach*. 
 
 Before proceeding, it is important to recall a foundational principle: once the *korban pesach* has been brought and the *dam* has been *nizrak*, whatever occurs afterward does not affect whether one has discharged the obligation of bringing the *pesach*. If the meat subsequently became *tamei*, or if one failed to eat it, the bringing itself was valid so long as the offering was fit to be eaten at the time of the *zrikat hadam*. The question of the *mitzvah* of eating is a separate matter entirely. The *mishnah* now addresses how one handles the meat in cases where it did become *tamei* after the *korban* was brought.
 
-## Mishnah: Burning Pesach
+## Mishnah: Burning Pes (II)
 
 ### Entire/Majority Tamei
 
@@ -42,7 +42,7 @@ There is thus an interesting reciprocal structure in the *mishnah*: on one hand,
 
 *Tosafot* addresses the rationale directly. Since one is already being subjected to the considerable inconvenience and indignity of having to come to the *Beit HaMikdash* to perform this public burning — *kedei levaysho*, in order to shame him — the authorities did not further compel him to provide his own firewood. The public nature of the burning is embarrassing enough; requiring personal wood on top of that would be excessive. The two considerations are thus kept in careful balance: the location serves the purpose of deterrence through embarrassment, while the provision of materials offers modest relief.
 
-## Mishnah: Burning Pesac…
+## Mishnah: Burning Pes (II)
 
 ### Hatzikanim Category
 
@@ -186,7 +186,7 @@ The *Gemara* derives *yatzah* from the exchange between Moshe and Aharon during 
 
 The *Gemara* reads the exchange as implying: had the meat gone out — had it not remained *bakodesh*, *penimah* — it would have been appropriate to burn it. Alternatively, had the blood been brought too far *pnimah* into the *heichal*, it would similarly have required burning. *Miklal de'im nafkuh* — from the logic of Moshe's question we infer that *yatzah* is a ground for burning *pasul kodshim*. The *Gemara* thus treats these as the two primary scriptural anchors: *nitmah* from the explicit *pesuk* about *tamei* meat, and *yatzah* derived from the Moshe-Aharon dialogue.
 
-## Expansion: Kodshim Kalim
+## Expansion: Kodshim K (II)
 
 ### Question: Shelamim
 
@@ -210,7 +210,7 @@ The question is whether these cases can be derived from existing *pesukim* or wh
 
 *Rabbi Shimon omer*: the *pasuk* states — *ve-chol chatas asher yuva mi-damah el ohel moed le-chapeir ba-kodesh lo se-acheil ba-esh tisaref* — any *chatas* whose blood was brought into the *Ohel Moed* to effect atonement inside the *heichal* shall not be eaten but shall be burned with fire in a holy place. The phrase *ba-kodesh ba-esh tisaref* establishes two things: first, that a *chatas* invalidated through mishandling of the blood is burned; second, that it is burned *ba-kodesh* — on sanctified ground, within the *Azarah*. *Limed al chatas she-sreifasah ba-kodesh* — this teaches that a *chatas* rendered *pasul* by a blood problem is burned, and burned specifically in the holy area. From *kol she-pasula ba-kodesh*, the *pasuk* is expanded to apply to other *kodshei kodashim* with other invalidities, including the *imurei kodshim kalim* — the portions of *kodshim kalim* such as *shelamim* fats that must remain within the *Azarah*.
 
-## Expansion: Kodshim Kal…
+## Expansion: Kodshim K (II)
 
 ### No Pesuk: Tradition
 
@@ -226,7 +226,7 @@ Given that the obligation to burn *pasul kodshim* ultimately rests on tradition 
 
 *Hahu miba'ei lei l'sreifa bakodesh* — that *pasuk* is needed to tell us that burning must occur *bakodesh*, in the holy area, specifically where its zone was *kodesh*. *Bakodesh ba'esh tisaref* thus informs us not that one burns *pasul kodshim* — that is known from tradition — but that one burns it within the boundaries of the zone that defined its permissible use.
 
-## Purpose of Pesuk…
+## Purpose of Pesuk (II)
 
 ### Tumah Pesuk Purpose
 

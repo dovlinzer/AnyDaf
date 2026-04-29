@@ -186,7 +186,7 @@ The governing distinction the *mishna* establishes is between *levush* — cloth
 
 ---
 
-## Animals on Shabbat…
+## Animals on Shabbat (II)
 
 ### Specific Accessories
 

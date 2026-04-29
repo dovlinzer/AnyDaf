@@ -238,7 +238,7 @@ This position reflects a profound conceptual distinction. A *chatat* addresses t
 
 This is a conceptually elegant position: if I repeatedly ate something that might have been *chelev*, my being at fault is a unified personal state, not a series of discrete sinful acts. The minority view here thus isolates the *asham talui* as an expression of personal moral accountability rather than objective sin-reality. The *halacha*, however, follows Rebbi and the *Mishnah*: an *asham talui* is treated like a *chatat*, and when awareness intervenes between acts, multiple *ashamot* are required.
 
-## Asham vs. Chatat Awareness
+## Asham vs. Chatat Awa (II)
 
 ### Learning Chatat from Asham Talui
 
@@ -268,7 +268,7 @@ Abaye challenges Rava: do you really maintain that doubtful awareness does not d
 
 In support, Abaye cites a general principle from a *baraita*: *kol she-challukin be-chatat, challukin be-ashamo* — whatever divides for *sin offerings* divides for *asamot* as well. This demonstrates that the dividing mechanism must be the same for both, and therefore whatever divides for *asham talui* — namely *yedi'at safeik* — must also divide for *chatat*.
 
-## Yom Kippur Mechanism
+## Yom Kippur Mechanism (II)
 
 ### Yom Kippur Atonement
 

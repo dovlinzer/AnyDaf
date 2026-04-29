@@ -56,7 +56,7 @@ One might ask whether the person who purchased the blemished animal bears any pr
 
 ---
 
-## Two Animals Achrayus…
+## Two Animals Achrayus (II)
 
 ### Achrayus & Loss
 
@@ -170,7 +170,7 @@ The Gemara's analysis thus suggests that while the *Mishnah* initially framed th
 
 ---
 
-## Scheming Around Bechor
+## Scheming Around Bech (II)
 
 ### Fetus as Olah
 
@@ -222,7 +222,7 @@ If the animal gave birth to a *tumtum* (genitalia covered, biological sex indete
 
 ---
 
-## Scheming Around Bechor…
+## Scheming Around Bech (II)
 
 ### Blemish Before Birth
 

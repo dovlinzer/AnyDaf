@@ -48,7 +48,7 @@ By contrast, when *Shmuel* says one can repay with the old currency — under *R
 
 ---
 
-## Currency Exchange…
+## Currency Exchange (II)
 
 ### Maaser Sheni Cases
 
@@ -174,7 +174,7 @@ The lecturer finds this position genuinely difficult: intuitively, the combinati
 
 ---
 
-## Maaser Accessibility…
+## Maaser Accessibility (II)
 
 ### Inaccessible Money
 
@@ -192,7 +192,7 @@ This seems to establish that money at the bottom of the sea is treated as non-ex
 
 ---
 
-## Flattened Coins…
+## Flattened Coins (II)
 
 ### Flattening Exempt
 
@@ -316,7 +316,7 @@ The *Rabbanan*, by contrast, hold *davar ha-gorem le-mamon lav ke-mamon dami* �
 
 ---
 
-## Burned Documents…
+## Burned Documents (II)
 
 ### Indirect Loss Debate
 
@@ -336,7 +336,7 @@ This case, *Rav Huna* emphasizes, is the genuine terrain of the *machloket*: an 
 
 ---
 
-## Grama Category…
+## Grama Category (II)
 
 ### Garmi Category
 

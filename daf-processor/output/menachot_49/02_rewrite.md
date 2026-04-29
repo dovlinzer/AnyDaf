@@ -196,7 +196,7 @@ Rabbi Shimon rules that when the afternoon *ketoret* is brought alone, the full 
 
 ---
 
-## Incense Debate…
+## Incense Debate (II)
 
 ### Full Amount Why
 

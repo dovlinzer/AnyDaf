@@ -266,7 +266,7 @@ Rabbi Elazar now articulates the reading of the *Mishnah* that Shmuel's approach
 
 ---
 
-## With/Without Liens…
+## With/Without Liens (II)
 
 ### Chachamim View
 
@@ -274,7 +274,7 @@ The *chachamim*'s position is that *achrayut* (liens) are always presumed to exi
 
 ---
 
-## Two Readings…
+## Two Readings (II)
 
 ### Yochanan Reading
 

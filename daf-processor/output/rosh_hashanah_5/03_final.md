@@ -116,7 +116,7 @@ This raises a genuine difficulty. Tosafot notes that *olat re'iyah* and *shalmei
 
 The final clause — *Hashem Elokecha* — generates the inclusion of *tzedakot, ma'asrot*, and *bechor*. Rashi notes the connection: by *tzedakah* the verse says *ve-lecha tihyeh tzedakah lifnei Hashem Elokecha*, and by *ma'aser* the verse says *ve-achalta lifnei Hashem Elokecha ma'asar degancha tiroshcha ve-yitzharecha*. The phrase *Hashem Elokecha* links these categories to the same overarching principle.
 
-## Bal Tacher List…
+## Bal Tacher List (II)
 
 ### Tzedakah/Maasrot/Leket
 
@@ -126,7 +126,7 @@ The inclusion of *tzedakah* is comprehensible, at least: charity can be given th
 
 *Leket, shikcha*, and *pe'ah*, however, are another matter entirely. These are agricultural gifts to the poor — gleanings dropped during harvest, forgotten sheaves, and the corners of the field left unharvested. They are not sanctified through speech. They do not go to the Temple. They arise from the structure of how one harvests — from what one drops, from what one forgets, from what one leaves. How does one transgress *bal tacher* in connection with them? The verse uses the word *me'imach* — from you, or from among you — and the Baraita's derivation from *et he-ani imach*, "the poor person who is with you," will be examined next. But conceptually, this is the strangest inclusion in the entire list. One is not delaying a vow, not delaying the delivery of something whose ownership has transferred, not even failing to bring a fixed obligatory offering. One is simply not distributing leavings of one's field to the poor. And yet this falls under *lo te'acher leshalmo*.
 
-## Parashat Nedenim…
+## Parashat Nedenim (II)
 
 ### Community Obligations
 

@@ -1,6 +1,6 @@
 # Bava Kamma 86 — Daf Yomi Shiur
 
-## Shevet Overview
+## Shevet Overview (II)
 
 ### Opening & Context
 
@@ -16,7 +16,7 @@ Several concrete examples illustrate this principle. A person whose hand has bee
 
 ---
 
-## Rava's Multiple Injuries
+## Rava's Multiple Inju (II)
 
 ### Successive Injuries
 

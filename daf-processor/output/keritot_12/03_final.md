@@ -332,7 +332,7 @@ The parallel with the writing of two letters on *Shabbos* — one in the morning
 
 ---
 
-## Continuous Action
+## Continuous Action (II)
 
 ### Time Gap Question
 
@@ -344,7 +344,7 @@ The *mishna* now introduces the principle that governs all cases of eating that 
 
 ---
 
-## Continuous Action...
+## Continuous Action (II)
 
 ### Meir: Kalyos
 

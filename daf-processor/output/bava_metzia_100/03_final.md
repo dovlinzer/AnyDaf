@@ -124,7 +124,7 @@ Rabba bar Rav Huna answers: yes — *in, amar Sumchus afilu b'bari v'bari*. Sumc
 
 ---
 
-## Splitting Challenge…
+## Splitting Challenge (II)
 
 ### Pregnant Chazaka
 
@@ -136,7 +136,7 @@ Tosafot raises a third possible *chazakah* that the *gemara* might have employed
 
 ---
 
-## Sumchus Debate…
+## Sumchus Debate (II)
 
 ### Rava Limits Sumchus
 
@@ -168,7 +168,7 @@ Returning to the case of *bari v'bari* — where the seller says he sold the sma
 
 ---
 
-## Oath on Slaves…
+## Oath on Slaves (II)
 
 ### Rav's Value Theory
 
@@ -300,7 +300,7 @@ Rav Sheshet's question — that this teaches nothing new beyond what Kiddushin a
 
 ---
 
-## Final Clause…
+## Final Clause (II)
 
 ### Both Ignorant Split
 

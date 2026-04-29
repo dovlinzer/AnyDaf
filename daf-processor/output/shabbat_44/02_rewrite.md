@@ -124,7 +124,7 @@ However, Rabbi Meir does carve out an exception: *chutz min haner shehidliku bo 
 
 ---
 
-## New/Old Lamps…
+## New/Old Lamps (II)
 
 ### R. Shimon View
 
@@ -132,7 +132,7 @@ Rabbi Shimon's position, restated in the *baraisa*, is that all lamps may be mov
 
 ---
 
-## Burning Status…
+## Burning Status (II)
 
 ### Goes Out OK
 

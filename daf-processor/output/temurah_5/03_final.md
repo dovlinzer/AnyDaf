@@ -168,7 +168,7 @@ A second formulation makes the same point more succinctly: *tirosh vedagan decha
 
 ---
 
-## Consecrated Animals
+## Consecrated Animals (II)
 
 ### Charamim Case
 

@@ -144,7 +144,7 @@ In all of these cases, Rabbi Shimon exempts from *oto ve'et beno*, because in ea
 
 There are, however, cases upon which everyone agrees one does not transgress *oto ve'et beno*. If one *shachts* and the animal is found to be a *neveilah* — meaning the *shechitah* itself was botched, so that the act was not even a *shechitah* at all — all agree one is exempt. Similarly, *hanocher* (one who kills the animal without engaging the *simanim*) and *hame'aker* (one who tears out the *simanim* rather than cutting them) — in all such cases where the killing was not performed through *shechitah*, everyone agrees: *patur mishum oto ve'et beno*. One may have violated *tzar ba'alei chayim*, but *oto ve'et beno* requires a *shechitah*, and these acts do not qualify as one.
 
-## Slaughter for Idolatry
+## Slaughter for Idolat (II)
 
 ### Idolatry First
 
@@ -166,7 +166,7 @@ Rabbi Yochanan therefore argues that Reish Lakish should have focused on the gen
 
 When is one *chayav* for *oto ve'et beno* even when the second *shechitah* was for idolatry? *Kegon de'asru bei mishum oto ve'et beno v'lo asru bei mishum avodah zarah* — when witnesses warned him only for the prohibition of *oto ve'et beno* and not for the prohibition of *avodah zarah*. If the witnesses did not properly warn him about *avodah zarah*, then the death penalty cannot be administered — not because of *kam lei bidrabba minei* (since that would only operate if one were actually being punished for *avodah zarah*), but because the *hasra'ah* for *avodah zarah* was absent. Without a valid *hasra'ah* for the greater sin, *kam lei bidrabba minei* does not operate to absorb the lesser. The warning for *oto ve'et beno* was valid, and since no death penalty is in play, the *malkos* for *oto ve'et beno* stand.
 
-## Slaughter for Idolatry…
+## Slaughter for Idolat (II)
 
 ### Lakish's Position
 

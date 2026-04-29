@@ -302,7 +302,7 @@ The *gemara* explains Rav Chisda's reasoning: *ho'il ve-anketina nagrei baraita*
 
 ---
 
-## Tanaim: Return Methods
+## Tanaim: Return Metho (II)
 
 ### R. Yishmael Location
 
@@ -322,7 +322,7 @@ Rabbi Akiva rules: *tzarich da'at ba'alim* — the owner must be made aware. The
 
 ---
 
-## Tanaim: Return Methods (Continued)
+## Tanaim: Return Metho (II)
 
 > **Hebrew/Aramaic:** לָא; בְּטָלֶה שֶׁלֹּא לְדַעַת, וּבִפְלוּגְתָּא דְּרַב חִסְדָּא וְרַבִּי יוֹחָנָן.
 >

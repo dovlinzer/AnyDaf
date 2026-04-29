@@ -158,7 +158,7 @@ By a *shevuah*, however, this does not work — *she'ein nishba'in la'avor al ha
 
 ---
 
-## Shevuah Stricter…
+## Shevuah Stricter (II)
 
 ### Biblical vs. Rabbinic
 
@@ -240,7 +240,7 @@ A parallel illustration: may a non-*kohen* study a cadaver for the purpose of me
 
 ---
 
-## Abaye Distinction…
+## Abaye Distinction (II)
 
 ### Rava Solution
 

@@ -66,7 +66,7 @@ Rav Sheshet then challenged this reading by citing the very *baraita* under disc
 
 ---
 
-## Baraita Challenge…
+## Baraita Challenge (II)
 
 ### Rav Sheshet Learned
 
@@ -180,7 +180,7 @@ The *gemara* responds: *shani hasam, de-ksiv min ha-seh* — there it is differe
 
 ---
 
-## Blood Represents Animal
+## Blood Represents Ani (II)
 
 ### Seh-Seh Linkage
 
@@ -188,7 +188,7 @@ The resolution, then, is that the *pesach* rule is established through a *gezera
 
 ---
 
-## Shechita Succession…
+## Shechita Succession (II)
 
 ### Peter Chamor Parallel
 
@@ -198,7 +198,7 @@ The comparison might seem strained: in the case of the *par* on *Yom Kippur*, th
 
 ---
 
-## Blood Represents Anima…
+## Blood Represents Ani (II)
 
 ### When Blood Represents
 

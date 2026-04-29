@@ -138,7 +138,7 @@ Rashi and Tosafot differ on what *tehei zariz* demands. Rashi: *tehei zariz al h
 
 ---
 
-## Procedural Safeguards
+## Procedural Safeguard (II)
 
 ### Both Parties Present
 
@@ -162,7 +162,7 @@ Rabbi Eliezer reads the verse differently: *lo tinakruhu* — do not make him a 
 
 ---
 
-## Procedural Safeguards…
+## Procedural Safeguard (II)
 
 ### Innkeeper Disqualificati…
 
@@ -176,7 +176,7 @@ Rav said to Rav Kahana: *puk dainei* — go, you take this case, since I cannot.
 
 ---
 
-## Impartiality…
+## Impartiality (II)
 
 ### Equal Care
 

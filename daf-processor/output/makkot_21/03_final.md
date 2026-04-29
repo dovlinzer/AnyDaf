@@ -136,7 +136,7 @@ The resulting legal map is as follows: for incisions made over the dead, liabili
 
 ---
 
-## Beard Cutting…
+## Beard Cutting (II)
 
 ### Rabbi Eliezer Debate
 
@@ -232,7 +232,7 @@ Rav Imi bar Abba was stringent even about the residue left by a lancet — a cut
 
 ---
 
-## Tattooing…
+## Tattooing (II)
 
 ### Breast Reconstruction
 

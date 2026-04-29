@@ -72,7 +72,7 @@ Tosafot draws one further inference from this *Gemara*: it appears that drinking
 
 ---
 
-## Makom Seudah Evidence
+## Makom Seudah Evidenc (II)
 
 ### Ein Kiddush Principle
 
@@ -108,7 +108,7 @@ The *Gemara* had initially speculated that the restriction of *makom seudah* mig
 
 ---
 
-## Makom Seudah Evidence…
+## Makom Seudah Evidenc (II)
 
 ### Tosafot's Qualification
 
@@ -184,7 +184,7 @@ The *Gemara* then explains how Rabbah could maintain this selective alignment. I
 
 ---
 
-## Shinuy Makom…
+## Shinuy Makom (II)
 
 ### Yochanan's Position
 

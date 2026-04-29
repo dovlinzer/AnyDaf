@@ -92,7 +92,7 @@ The case of the initial ten-*shekel* bidder who backs out is handled differently
 
 ---
 
-## Owner vs. Other Bidders
+## Owner vs. Other Bidd (II)
 
 ### Owner's Fifth Advantage
 
@@ -116,7 +116,7 @@ The mishnah's structure implies that outside of this final option, the auction i
 
 ---
 
-## Auction Mechanics…
+## Auction Mechanics (II)
 
 ### Sequential vs. Simultane…
 
@@ -128,7 +128,7 @@ The *gemara* initially attempts to read the mishnah as describing separate aucti
 
 ---
 
-## Owner vs. Other Bidder…
+## Owner vs. Other Bidd (II)
 
 ### Ma'aser Sheni Comparison
 

@@ -1,6 +1,6 @@
 # Sotah 31 — Daf Yomi Shiur
 
-## Opening Mishnah
+## Opening Mishnah (II)
 
 > **Hebrew/Aramaic:** מִי שֶׁקִּינֵּא לְאִשְׁתּוֹ וְנִסְתְּרָה, אֲפִילּוּ שָׁמַע מֵעוֹף הַפּוֹרֵחַ — יוֹצִיא וְיִתֵּן כְּתוּבָּה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.
 >
@@ -48,7 +48,7 @@ The *mishnah* then lists five categories of women who are presumed to harbor enm
 
 Nevertheless, the *mishnah* rules *harei elu ne'emanos* — they are believed — but with a qualification: *ve-lo le-fosla mi-ketubatah ella shelo tishteh*. Their testimony is sufficient to stop the *sotah* drinking process — we treat their claim as sufficiently credible that we will not proceed with the water — but it is *not* sufficient to strip the wife of her *ketubah*. The husband must divorce her and pay the *ketubah*. So she loses the option of drinking and clearing her name, but she retains her financial protection.
 
-## Opening Mishnah: The Kal VaChomer Logic
+## Opening Mishnah (II)
 
 > **Hebrew/Aramaic:** שֶׁהָיָה בַּדִּין: וּמָה אִם עֵדוּת רִאשׁוֹנָה, שֶׁאֵין אוֹסַרְתָּהּ אִיסּוּר עוֹלָם — אֵינָהּ מִתְקַיֶּימֶת בְּפָחוֹת מִשְּׁנַיִם, עֵדוּת אַחֲרוֹנָה, שֶׁאוֹסַרְתָּהּ אִיסּוּר עוֹלָם — אֵינוֹ דִּין שֶׁלֹּא תִּתְקַיֵּים בְּפָחוֹת מִשְּׁנַיִם?
 >

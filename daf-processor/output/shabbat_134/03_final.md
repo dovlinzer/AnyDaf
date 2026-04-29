@@ -144,7 +144,7 @@ One might ask: why does the *Gemara* say it only *resembles* *borer* rather than
 
 ---
 
-## Mustard & Coal…
+## Mustard & Coal (II)
 
 ### Coal & Kibui
 
@@ -224,7 +224,7 @@ Abaye continues transmitting from his nursemaid. If there is an infant whose ana
 
 ---
 
-## Neonatal Medicine…
+## Neonatal Medicine (II)
 
 ### Nursing Issues
 

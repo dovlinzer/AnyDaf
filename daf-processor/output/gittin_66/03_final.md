@@ -182,7 +182,7 @@ At this point the *Gemara* draws a clean conclusion: *Rabbi Yose tarti amar* —
 
 ---
 
-## Milei vs. Omer Imru…
+## Milei vs. Omer Imru (II)
 
 ### Reconciliation
 

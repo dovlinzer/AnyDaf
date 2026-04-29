@@ -1,6 +1,6 @@
 # Yevamot 23b — Daf Yomi Shiur
 
-## Unknown Marriage Case
+## Unknown Marriage Cas (II)
 
 ### Opening & Context
 
@@ -14,7 +14,7 @@ The daf begins after the *mishnah* on 23b, with the *gemara* picking up approxim
 
 The opening scenario of the *mishnah* concerns a man who married one of two sisters without knowing which one he had married. The *gemara* initially infers from this case that *kiddushin she'einam re'uyim le'biah* — an act of betrothal that can never lead to marital relations — is nonetheless halachically binding. This inference follows because the scenario assumes that from the very moment of *kiddushin*, it was impossible to determine which woman was his wife, and therefore it was never possible to be intimate with either sister, since one might be one's wife's sister.
 
-## Kiddushin Unsuitable for…
+## Kiddushin Unsuitable (II)
 
 ### Binding Nature Question
 
@@ -26,7 +26,7 @@ The *gemara* draws the inference that *kiddushin she'einam re'uyim le'biah havei
 
 One might ask: if *kiddushin* that cannot lead to relations is still binding, why is *kiddushin* with an *ervah* not binding? After all, relations with an *ervah* are also forbidden. The answer — and this is indeed the question that Tosafot addresses — is that in the case of standard *issurei lavin*, the prohibition exists independently of the *kiddushin* itself. By contrast, in the two-sisters case, it is the very act of *kiddushin* that generates the impossibility: by creating an act of betrothal to one of the two sisters, one immediately renders the other a potential *achot ishto*, making relations with either woman impossible. As Tosafot states: *kiddushin she'einam re'uyim le'biah peirush she'al yedei kiddushin kamafsida biviah* — the *kiddushin* itself is what precludes the possibility of relations. By contrast, with *chayavei lavin* or *chayavei aseh*, the *kiddushin* does not generate the prohibition; the prohibition exists prior to and independent of the act of betrothal.
 
-## Unknown Marriage Case…
+## Unknown Marriage Cas (II)
 
 ### Rashi's Explanation
 
@@ -38,7 +38,7 @@ Rashi's explanation of how the *kiddushin* could be indeterminate from the very 
 
 It should be noted that this scenario is somewhat distinct from a case where the identity was knowable in principle but happened to be unknown. One can imagine an alternative scenario — for example, where the parties agreed that the outcome would be determined by a coin flip, but the coin rolled away and its result was never observed. In that case, there was at least a definite intended recipient under each possible outcome, even if the result was unobserved. In Rashi's case, however, no specific woman was ever designated at all. Either way, the conceptual question of whether *kiddushin* that cannot lead to relations is binding remains significant.
 
-## Kiddushin Unsuitable f…
+## Kiddushin Unsuitable (II)
 
 ### Arayos vs. Lo Ta'aseh
 
@@ -306,9 +306,9 @@ The *gemara* resolves the matter: the verse speaks to the *beit din*, directing 
 
 Every element of the verse — *ve-haya ha-bechor*, *asher teleid*, *yakum al shem achiv*, *ve-lo yimache shemo* — refers to the brother performing *yibum*, not to any child who may be born. The verse is entirely about the *yavam* and his obligations and entitlements, with no residual reference to a child's name.
 
-## Bechor Exclusivity Test
+## Bechor Exclusivity T (II)
 
-### Bechor Exclusivity Theory
+### Bechor Exclusivity T (II)heory
 
 > **Hebrew/Aramaic:** אִם כֵּן, אֵשֶׁת אָחִיו שֶׁלֹּא הָיָה בְּעוֹלָמוֹ דְּמִיעֵט רַחֲמָנָא — לְמָה לִי?
 >
@@ -320,7 +320,7 @@ Now that the verse is established as speaking about the eldest brother, the *gem
 
 This is disproved from the concept of *eshet achiv shelo haya be-olamo* — the wife of a brother who was born after the deceased brother had already died. The Torah established a special exclusion for this case, teaching that there is no *mitzvat yibum* in such a situation. But consider: a brother born after his brother's death cannot be a *bechor* by any reckoning, since his older brother died before he was born. The fact that the Torah needed to explicitly exclude this brother from the *mitzvah* of *yibum* demonstrates that in principle such a brother — a non-firstborn — is subject to *yibum*. Otherwise, no exclusion would have been necessary.
 
-## No Bechor Scenario…
+## No Bechor Scenario (II)
 
 ### Bechor Presence Theory
 
@@ -334,7 +334,7 @@ A further question: perhaps *yibum* is valid when performed by a younger brother
 
 The *gemara* refutes this from the verse *ki yeshvu achim yachdav* — "when brothers dwell together." This verse links all the brothers together as an undifferentiated group, implying that the obligation falls upon the surviving brothers as a collective, regardless of whether the *bechor* is among them. Furthermore, since the verse *u-meit echad mehem* — "and one of them died" — encompasses the scenario where the *bechor* himself died, leaving only a younger brother, and the Torah still mandates *yibum*, it is clear that the presence of a *bechor* is not a precondition.
 
-## Bechor Exclusivity Tes…
+## Bechor Exclusivity T (II)
 
 ### Younger Brother Valid
 
@@ -344,7 +344,7 @@ The *gemara* refutes this from the verse *ki yeshvu achim yachdav* — "when bro
 
 The case of *eshet achiv shelo haya be-olamo* reinforces this conclusion: the brother born after the deceased cannot be a *bechor*, yet *yibum* applies to him in principle. This confirms that *yibum* is not conditioned on the performing brother being a *bechor*.
 
-## Gadol Hierarchy…
+## Gadol Hierarchy (II)
 
 ### Abbaye's Teaching
 
@@ -376,7 +376,7 @@ Specifically: perhaps when a *bechor* or *gadol* is present, the younger brother
 
 The *mishnah*'s use of the word *gadol* — oldest, not *bechor*, firstborn — already suggests that the preference is relative and contextual, not absolute. The eldest surviving brother has priority, but his presence does not invalidate *yibum* performed by a younger brother who acts first.
 
-## Gadol Hierarchy…
+## Gadol Hierarchy (II)
 
 ### Gadol Default
 

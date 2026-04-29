@@ -114,7 +114,7 @@ The *mishna* then considers a second round of flying along the same circuit. Of 
 
 At this stage the *mishna* records a dispute: *veyesh omrim hashvi'it lo hipsida klum* — some say group seven has lost nothing, meaning it retains its full remaining allotment without further reduction. The reasoning is that when all the other groups have been reduced to zero, the constraint that justified reducing group seven no longer applies: there is nothing in those other groups from which an improperly fixed identity could cause harm. Everything in those other groups was left unbrought precisely in order to ensure that the identities of flying birds remain open; once those groups yield zero, all the remaining birds are by definition undetermined, and group seven should be free to bring everything it holds. Whether *lo hipsida klum* means group seven reverts to its original seven pairs or simply retains its position without further loss from the most recent round is itself a point of discussion among the *meforshim*, with some reading it as a return to the maximum and others as merely a stay of further reduction.
 
-## Seven Women…
+## Seven Women (II)
 
 ### Metot Mixing
 
@@ -132,7 +132,7 @@ It should be noted that this characterization is somewhat a *chidush*. Strictly 
 
 The *mishna* turns to a different configuration: *kan stuma vekan meforashet* — an undifferentiated pair and a differentiated pair. *Parach min hastuma limeforashet* — a bird from the undifferentiated pair flies into the differentiated pair. The differentiated pair consists of a clearly designated *chatas* and a clearly designated *olah*. Once the undifferentiated bird enters, the three birds in the differentiated group cannot be distinguished from one another, and since a *chatas* and an *olah* are now mixed together without clear identity, none of the three can be offered. The entire group of three must be left.
 
-## Stuma to Meforashet…
+## Stuma to Meforashet (II)
 
 ### Pairing Remaining
 
@@ -160,7 +160,7 @@ A bird from the middle flies to the *chatas* side, and another from the middle f
 
 Now a bird from the *chatas* side and a bird from the *olah* side each fly back into the middle: *chazar l'emtza*. The middle now contains a mixture of a bird of *chatas* identity and a bird of *olah* identity, but one cannot tell which is which. Since a *chatas* and an *olah* are mixed and indistinguishable, neither can be offered. *Hen yamutu* — these middle birds must die. The birds remaining on each side — the defined *chatas* pile and the defined *olah* pile — are unaffected: *elu yikarvu l'chatas, elu yikarvu l'olah*. If subsequently birds from the dead-designated middle fly out to the sides, everything must die, since those birds carry the contaminating uncertainty wherever they go.
 
-## Chatat-Stuma-Olah…
+## Chatat-Stuma-Olah (II)
 
 ### Continuous Cycle
 
@@ -188,7 +188,7 @@ If a woman brought her *chatas* as a *tor* and her *olah* as a *ben yonah*, a mi
 
 The symmetric case — *olasah tor vechatasah ben yonah* — she brought her *olah* as a *tor* and her *chatas* as a *ben yonah* — also yields: *tichpol vetavi olah ben yonah* — redo the *olah* as a *ben yonah*. The first opinion consistently resolves the mismatch by redoing the *olah*, preserving the *chatas* in both cases and treating the first *olah* as a valid *olas nedavah* in any event.
 
-## Species Matching…
+## Species Matching (II)
 
 ### Ben Azzai View
 

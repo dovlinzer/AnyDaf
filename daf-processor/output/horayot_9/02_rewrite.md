@@ -106,7 +106,7 @@ Yet the *braita* also states: *kol she-hu be'oleh v'yored, nasi kayotze vo, mash
 
 ---
 
-## Tum'at Mikdash Issue…
+## Tum'at Mikdash Issue (II)
 
 ### Rav Huna Resolves
 
@@ -118,7 +118,7 @@ Rav Shimon agrees with *Rabbi Akiva* in one dimension and disagrees in another. 
 
 ---
 
-## Tum'at Mikdash Reasoning
+## Tum'at Mikdash Reaso (II)
 
 ### Mitoch HaKahal
 
@@ -130,7 +130,7 @@ The *Gemara* challenges immediately: if the criterion is that the *nasi*'s *korb
 
 ---
 
-## Rabbi Eliezer Rule…
+## Rabbi Eliezer Rule (II)
 
 ### Rav Papa's Question
 
@@ -146,7 +146,7 @@ A *tana* taught a *braita* before Rav Sheshet: *asham talui ba al tum'at mikdash
 
 ---
 
-## Tum'at Mikdash Reasoni…
+## Tum'at Mikdash Reaso (II)
 
 ### Rava's Reframe
 

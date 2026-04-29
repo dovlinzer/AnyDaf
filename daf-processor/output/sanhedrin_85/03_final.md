@@ -348,7 +348,7 @@ The Gemara resolves the question of textual economy as follows. Rabbi Yoshiyah d
 
 ---
 
-## Mishna Distinctions…
+## Mishna Distinctions (II)
 
 ### Mishna Silence
 

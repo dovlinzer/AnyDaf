@@ -42,7 +42,7 @@ The *mishnah*'s solution is elegant: *notnin shnayhem l'zu v'shnayhem l'zu* — 
 
 ---
 
-## Five Husbands, One Get
+## Five Husbands, One G (II)
 
 ### One Date, Multiple Names
 
@@ -52,7 +52,7 @@ However, if *haya chosev tofes l'chol echad v'echad* — if there was a separate
 
 ---
 
-## Mixed-Up Gittin…
+## Mixed-Up Gittin (II)
 
 ### Why Problematic?
 
@@ -70,7 +70,7 @@ Abaye rejects this analysis: *afilu teima Rabbi Eliezer* — the *mishnah* can b
 
 ---
 
-## Five Husbands, One Get…
+## Five Husbands, One G (II)
 
 ### Yochanan: Zman Echad
 

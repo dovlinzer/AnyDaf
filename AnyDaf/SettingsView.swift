@@ -79,9 +79,7 @@ struct SettingsView: View {
                         .frame(maxWidth: .infinity, alignment: .center)
                 } header: {
                     Text("Appearance")
-                } footer: {
-                    Text("Study text size applies to translations, summaries, shiur, and quiz content.")
-                }
+                } 
 
                 Section {
                     Picker("Translation Display", selection: $sourceDisplayMode) {

@@ -78,7 +78,7 @@ The *lechatchila* for *shinui ba'alim* across all *avodos* is now established, b
 
 ---
 
-## Me'akev Requirements…
+## Me'akev Requirements (II)
 
 ### Chatas Chelev vs Nazir
 

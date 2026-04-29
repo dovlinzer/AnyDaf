@@ -98,7 +98,7 @@ The connection to the *lechem hapanim* is relevant here: the changing of the *mi
 
 The Gemara then raises a structural concern: if we had previously entertained the possibility that separate afternoon lotteries were conducted every day — assigning different *kohanim* for the afternoon *tamid* and the afternoon *ketoret* — we would have exceeded the established count of four lotteries. The Gemara resolves this: *maiti kulhu mitzafra* — everything was assigned in the morning lottery itself. The morning lottery determined not only who would serve in the morning but who would serve in the afternoon. Different people could be assigned to the afternoon roles, but the assignment was made as part of the single morning lottery, not through a separate afternoon procedure. In the *maskanah*, the position is that on an ordinary weekday, the same *kohanim* who served in the morning served in the afternoon; a new lottery was only conducted on *Shabbat* when the *mishmarot* changed.
 
-## 3rd & 4th Lotteries…
+## 3rd & 4th Lotteries (II)
 
 ### Ramp-to-Altar
 

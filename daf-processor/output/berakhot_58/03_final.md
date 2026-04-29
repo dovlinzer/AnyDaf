@@ -166,7 +166,7 @@ A *Tanna'itic* source establishes the *bracha* upon seeing *chachmei Yisrael*: *
 
 ---
 
-## Masses of People…
+## Masses of People (II)
 
 ### Non-Jewish Masses
 
@@ -178,7 +178,7 @@ As noted in the earlier discussion of *uchlosa*, seeing a mass gathering of non-
 
 ---
 
-## Wise & Royal…
+## Wise & Royal (II)
 
 ### Gentile Wisdom
 

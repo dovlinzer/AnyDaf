@@ -46,7 +46,7 @@ The broader principle thus stands: the threshold for mistrial in capital cases i
 
 ---
 
-## Vote Switching Rules…
+## Vote Switching Rules (II)
 
 ### Who Argues Rules
 

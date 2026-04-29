@@ -24,7 +24,7 @@ A *tanna* teaching in the name of Rabbi Nechemia draws the distinction different
 
 ---
 
-## Urim V'Tummim Inquiry
+## Urim V'Tummim Inquir (II)
 
 ### Eight Garments Requireme…
 
@@ -181,7 +181,7 @@ A *braita* supports Ravin's version: *begadim sheKohen Gadol meshamesh bahen, Ma
 
 ---
 
-## Urim V'Tummim Inquiry Pr…
+## Urim V'Tummim Inquir (II)
 
 ### Facing & Response Format
 

@@ -292,7 +292,7 @@ The *gemara* grounds this in the verse *asher ya'aseh mei'achas meiheina* — wh
 
 ---
 
-## Shabbat Case…
+## Shabbat Case (II)
 
 ### Avodah Zarah
 

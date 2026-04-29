@@ -284,7 +284,7 @@ The refined question: *ela b'ocheil notar mechamesh zevachim b'helem echad* — 
 
 ---
 
-## Five Pots Case…
+## Five Pots Case (II)
 
 ### R. Yehoshua
 
@@ -296,7 +296,7 @@ The refined question: *ela b'ocheil notar mechamesh zevachim b'helem echad* — 
 
 ---
 
-## Me'ilah Notar…
+## Me'ilah Notar (II)
 
 ### R. Akiva
 

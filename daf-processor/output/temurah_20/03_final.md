@@ -184,7 +184,7 @@ This brings the entire analysis into focus. Rabbi Shimon's position is coherent 
 
 ---
 
-## Property Sanctification
+## Property Sanctificat (II)
 
 ### Eliezer View
 

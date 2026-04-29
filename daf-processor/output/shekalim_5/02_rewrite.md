@@ -170,7 +170,7 @@ Rabbi Elazar states that this entire mechanism — taking an oath when the villa
 
 ---
 
-## Oath Requirement…
+## Oath Requirement (II)
 
 ### Yochanan Takana
 

@@ -16,7 +16,7 @@ The answer lies in understanding what *korbanot* are actually about. The *korban
 
 ---
 
-## Baraita Interpretation
+## Baraita Interpretati (II)
 
 ### Case Analysis
 
@@ -54,7 +54,7 @@ The *Gemara* then asks: *mai Rabbi Meir mai rabanan* — where do we see this as
 
 ---
 
-## Baraita Interpretation…
+## Baraita Interpretati (II)
 
 ### Underlying Assumption
 
@@ -64,7 +64,7 @@ This analysis is extremely important because it is precisely what the *Gemara* u
 
 ---
 
-## Reading Options…
+## Reading Options (II)
 
 ### Beis Din in Tally
 

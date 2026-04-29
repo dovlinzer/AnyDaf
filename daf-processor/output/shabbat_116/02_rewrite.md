@@ -20,7 +20,7 @@ A question arises regarding the identity of Ben Beteira — specifically, why he
 
 ---
 
-## Pesach Flaying Debate
+## Pesach Flaying Debat (II)
 
 ### Rabbi Yishmael vs. Sages
 
@@ -76,7 +76,7 @@ A further question is raised regarding the hide of the *korban Pesach* in genera
 
 ---
 
-## Pesach Flaying Debate…
+## Pesach Flaying Debat (II)
 
 ### Shinu'i: Small Pieces
 

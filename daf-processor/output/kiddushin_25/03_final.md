@@ -256,7 +256,7 @@ Rabbi Shimon, however, takes the most demanding position: *zo va-zo be-hagbaha*â
 
 ---
 
-## Animals Kinyanâ€¦
+## Animals Kinyan (II)
 
 ### Rashi's Hierarchy
 

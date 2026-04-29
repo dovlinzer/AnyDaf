@@ -66,7 +66,7 @@ The *gemara* notes that this explanation follows the position of Rabbi rather th
 
 ---
 
-## Mishna Reconciliation
+## Mishna Reconciliatio (II)
 
 ### Mishna Conclusion
 
@@ -94,7 +94,7 @@ To summarize the two positions as they now stand: Reish Lakish holds that for th
 
 ---
 
-## Mishna Reconciliation…
+## Mishna Reconciliatio (II)
 
 ### Tanna Identification
 

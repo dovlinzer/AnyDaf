@@ -14,7 +14,7 @@ Having reviewed those conclusions, the *gemara* now pivots to a completely diffe
 
 ---
 
-## Kol Shemimenu L'Ishim
+## Kol Shemimenu L'Ishi (II)
 
 ### Tanu Rabbanan Teaching
 
@@ -82,7 +82,7 @@ This, then, is the *peshat* of the *pasuk*: *korban reishit takrivu otam v'el ha
 
 ---
 
-## Kol Shemimenu L'Ishim…
+## Kol Shemimenu L'Ishi (II)
 
 ### Chatat HaOf Analysis
 

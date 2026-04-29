@@ -66,7 +66,7 @@ There is a striking structural parallel running through this whole passage: an e
 
 ---
 
-## Siege Narrative…
+## Siege Narrative (II)
 
 ### Pig Symbolism
 
@@ -82,7 +82,7 @@ The second curse pronounced at that moment — *arur she'yelamed beno chochmat Y
 
 ---
 
-## Mute's Signal…
+## Mute's Signal (II)
 
 ### Three Women
 

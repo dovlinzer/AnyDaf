@@ -168,7 +168,7 @@ This generates an immediate objection from Rav Safra to Abaye: *Rav k'man amrah 
 
 The *Gemara* answers: *hacha b'mai askinan b'she-kadam v'silko* — the case is one in which the original N was removed from the pot before the stew was assembled. After N cooked with piece 1 and imparted its taste, N itself was discarded. Only N-prime — piece 1, now transformed — was placed into the stew with the other pieces of kosher meat. In this scenario, if piece 1 were merely a carrier for N's taste, one might reason as follows: N is gone; what remains is only absorbed taste, which might be nullified by the surrounding meat and liquid. But because piece 1 has become N-prime — a full unit of *neveilah* — and because the surrounding items are all of the same species (meat), Rav Yehuda's *min bemino lo batel* prevents any nullification. The case for *chanan* is therefore precisely the scenario of preliminary cooking followed by removal of the original forbidden item: without *chanan*, there would be a basis for leniency; with *chanan*, the transformed piece is treated as a full unit of *neveilah* and cannot be nullified by like-kind items.
 
-## Chatichah Natah…
+## Chatichah Natah (II)
 
 ### Rava's Formulation
 

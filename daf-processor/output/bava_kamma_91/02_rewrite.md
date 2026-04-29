@@ -172,7 +172,7 @@ This story raises a procedural question. The *gemara* notes that Rabbi Chanina r
 
 The answer lies in the nature of the loss. When someone causes a physical injury, there is an immediate and concrete financial diminishment: medical costs accumulate, income is lost, the body itself loses value. Granting time for payment in such cases means the victim suffers ongoing financial harm while waiting. But *boshet* — shame — does not generate a financial deficit in the same sense. The victim is not out of pocket in any direct way; the 400 *zuz* is a fine for the violation of dignity. Since no ongoing financial loss accrues from the delay, it is appropriate to grant time.
 
-## Honor & Payment…
+## Honor & Payment (II)
 
 ### Time to Pay
 

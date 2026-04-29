@@ -50,7 +50,7 @@ This is a good moment to clarify the logical structure at play. A *qal vachomer*
 
 ---
 
-## Issur Cheftza vs. Gavra
+## Issur Cheftza vs. Ga (II)
 
 ### Order of Neder/Shvua
 
@@ -140,7 +140,7 @@ And yet Rava's assertion stands: even in the sequential case, where the second *
 
 ---
 
-## Issur Cheftza vs. Gavr…
+## Issur Cheftza vs. Ga (II)
 
 ### Power of Words
 

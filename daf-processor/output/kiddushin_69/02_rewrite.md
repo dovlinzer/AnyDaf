@@ -120,7 +120,7 @@ The *mishnah* concludes the *perek* with a striking proposal: *Rabbi Tarfon omer
 
 ---
 
-## Rabbi Tarfon…
+## Rabbi Tarfon (II)
 
 ### L'Chatchila Question
 

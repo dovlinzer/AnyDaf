@@ -304,7 +304,7 @@ Rabbi Yehuda's position now creates an arithmetical difficulty: if all six origi
 
 ---
 
-## Field Division Pe'ah
+## Field Division Pe'ah (II)
 
 ### Pe'ah Introduction
 
@@ -328,7 +328,7 @@ The *Mishnah* in Pe'ah lists the dividers. *Ha-nachal* — a *nachal*, a riverbe
 
 ---
 
-## Pe'ah-Omer Connection
+## Pe'ah-Omer Connectio (II)
 
 ### Meir as Shimon
 
@@ -344,7 +344,7 @@ Both Rabbi Meir and Rabbi Shimon are therefore understood as operating on the sa
 
 ---
 
-## Pe'ah-Omer Connection (cont.)
+## Pe'ah-Omer Connectio (II)
 
 ### Locusts Test
 
@@ -378,7 +378,7 @@ The final resolution is brought by Rav Dimi — or in some versions Ravin — up
 
 ---
 
-## Field Division Pe'ah (cont.)
+## Field Division Pe'ah (II)
 
 ### Natural Destruction
 

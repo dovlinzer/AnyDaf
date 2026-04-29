@@ -66,7 +66,7 @@ At this point Rav Huna the son of Rav Yehoshua notes that this debate mirrors a 
 
 ---
 
-## Marital Relations
+## Marital Relations (III)
 
 ### Active vs. Passive
 
@@ -130,7 +130,7 @@ One might ask: if so, why is leaning on a tree still forbidden, given that one d
 
 ---
 
-## Marital Relations…
+## Marital Relations (III)
 
 ### Forcing Wife
 
@@ -174,7 +174,7 @@ Notably, the language the *gemara* uses for these conditions is the language of 
 
 ---
 
-## Marital Relations……
+## Marital Relations (III)…
 
 ### Woman's Modesty
 
@@ -186,7 +186,7 @@ The tension between the two approaches — one holding that female initiative pr
 
 ---
 
-## Eve's Curses…
+## Eve's Curses (II)
 
 ### Blessings Not Curses
 

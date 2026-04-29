@@ -20,9 +20,10 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.requiredWidth
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.LazyListState
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
-import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.RectangleShape
@@ -43,8 +44,6 @@ import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.Today
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.FilterChipDefaults
-import androidx.compose.material3.DropdownMenu
-import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.FilterChip
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.ui.text.style.TextOverflow
@@ -62,7 +61,13 @@ import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.TopAppBarDefaults
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.expandVertically
+import androidx.compose.animation.fadeIn
 import androidx.compose.material3.AlertDialog
+import androidx.compose.ui.window.Popup
+import androidx.compose.ui.window.PopupProperties
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.TextButton
 import androidx.compose.foundation.layout.widthIn
@@ -673,6 +678,7 @@ fun ContentScreen(
             ) {
                 Box(
                     modifier = Modifier
+                        .weight(1f)
                         .border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
                         .padding(start = 12.dp, end = 6.dp, top = 2.dp, bottom = 2.dp)
                 ) {
@@ -694,7 +700,11 @@ fun ContentScreen(
                             selected = !showShiurText,
                             onClick = { showShiurText = false },
                             label = { Text("Daf") },
-                            colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                            colors = FilterChipDefaults.filterChipColors(
+                                labelColor = appFg,
+                                selectedLabelColor = appFg,
+                                selectedContainerColor = appFg.copy(alpha = 0.25f)
+                            ),
                             border = FilterChipDefaults.filterChipBorder(
                                 enabled = true, selected = !showShiurText,
                                 borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
@@ -704,7 +714,11 @@ fun ContentScreen(
                             selected = showShiurText,
                             onClick = { showShiurText = true },
                             label = { Text("Shiur") },
-                            colors = FilterChipDefaults.filterChipColors(labelColor = appFg),
+                            colors = FilterChipDefaults.filterChipColors(
+                                labelColor = appFg,
+                                selectedLabelColor = appFg,
+                                selectedContainerColor = appFg.copy(alpha = 0.25f)
+                            ),
                             border = FilterChipDefaults.filterChipBorder(
                                 enabled = true, selected = showShiurText,
                                 borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
@@ -1027,14 +1041,6 @@ private fun CompactTabletPickers(
 ) {
     var tractateExpanded by remember { mutableStateOf(false) }
     var dafExpanded by remember { mutableStateOf(false) }
-    val tractateScrollState = rememberScrollState()
-    val dafScrollState = rememberScrollState()
-    val density = LocalDensity.current
-    val itemHeightPx = with(density) { 48.dp.roundToPx() }
-
-    LaunchedEffect(tractateExpanded) {
-        if (tractateExpanded) tractateScrollState.scrollTo(selectedTractateIndex * itemHeightPx)
-    }
 
     val dafPickerItems = remember(tractate.name, episodeIndex) {
         buildList {
@@ -1046,11 +1052,17 @@ private fun CompactTabletPickers(
         }
     }
 
-    LaunchedEffect(dafExpanded) {
-        if (dafExpanded) {
-            val idx = dafPickerItems.indexOf(selectedDaf).coerceAtLeast(0)
-            dafScrollState.scrollTo(idx * itemHeightPx)
-        }
+    // Initialize each LazyListState already scrolled to the selected item.
+    // Keying on (expanded, selectedIndex) recreates the state each time the popup
+    // opens so it is pre-positioned with no async jump on first frame.
+    val tractateListState = remember(tractateExpanded, selectedTractateIndex) {
+        LazyListState(firstVisibleItemIndex = if (tractateExpanded) selectedTractateIndex.coerceAtLeast(0) else 0)
+    }
+    val selectedDafIndex = remember(selectedDaf, dafPickerItems) {
+        dafPickerItems.indexOf(selectedDaf).coerceAtLeast(0)
+    }
+    val dafListState = remember(dafExpanded, selectedDafIndex) {
+        LazyListState(firstVisibleItemIndex = if (dafExpanded) selectedDafIndex else 0)
     }
 
     Row(
@@ -1062,7 +1074,9 @@ private fun CompactTabletPickers(
             ButtonDefaults.outlinedButtonColors(contentColor = contentColor) else ButtonDefaults.outlinedButtonColors()
         val buttonBorder = androidx.compose.foundation.BorderStroke(0.dp, Color.Transparent)
 
-        // Tractate dropdown
+        // Tractate picker — Popup anchored below the button + LazyColumn.
+        // Popup has no internal verticalScroll (unlike DropdownMenu) so LazyColumn
+        // works without the nested-scrollable crash. Only visible rows are composed.
         Box {
             OutlinedButton(
                 onClick = { tractateExpanded = true },
@@ -1079,20 +1093,61 @@ private fun CompactTabletPickers(
                     fontWeight = FontWeight.Normal
                 )
             }
-            DropdownMenu(expanded = tractateExpanded, onDismissRequest = { tractateExpanded = false }, scrollState = tractateScrollState, modifier = Modifier.heightIn(max = 300.dp)) {
-                allTractates.forEachIndexed { index, t ->
-                    DropdownMenuItem(
-                        text = { Text(t.name) },
-                        onClick = {
-                            contentViewModel.selectTractate(index)
-                            tractateExpanded = false
+            if (tractateExpanded) {
+                Popup(
+                    alignment = Alignment.BottomStart,
+                    onDismissRequest = { tractateExpanded = false },
+                    properties = PopupProperties(focusable = true)
+                ) {
+                    // Column gives ColumnScope so AnimatedVisibility resolves to the
+                    // correct overload (not RowScope.AnimatedVisibility from the outer Row).
+                    var visible by remember { mutableStateOf(false) }
+                    LaunchedEffect(Unit) { visible = true }
+                    Column {
+                    AnimatedVisibility(
+                        visible = visible,
+                        enter = expandVertically(
+                            animationSpec = tween(durationMillis = 120),
+                            expandFrom = Alignment.Top
+                        ) + fadeIn(animationSpec = tween(durationMillis = 120))
+                    ) {
+                        androidx.compose.material3.Surface(
+                            shape = RoundedCornerShape(4.dp),
+                            shadowElevation = 8.dp,
+                            color = MaterialTheme.colorScheme.surface
+                        ) {
+                            LazyColumn(
+                                state = tractateListState,
+                                modifier = Modifier
+                                    .width(200.dp)
+                                    .heightIn(max = 300.dp)
+                            ) {
+                                itemsIndexed(allTractates) { index, t ->
+                                    val isSelected = index == selectedTractateIndex
+                                    Text(
+                                        text = t.name,
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Normal,
+                                        color = if (isSelected) MaterialTheme.colorScheme.primary
+                                                else MaterialTheme.colorScheme.onSurface,
+                                        modifier = Modifier
+                                            .fillMaxWidth()
+                                            .clickable {
+                                                contentViewModel.selectTractate(index)
+                                                tractateExpanded = false
+                                            }
+                                            .padding(horizontal = 16.dp, vertical = 10.dp)
+                                    )
+                                }
+                            }
                         }
-                    )
+                    }
+                    } // Column
                 }
             }
         }
 
-        // Daf dropdown
+        // Daf picker — same Popup + LazyColumn approach
         Box {
             OutlinedButton(
                 onClick = { dafExpanded = true },
@@ -1102,20 +1157,54 @@ private fun CompactTabletPickers(
             ) {
                 Text(FeedManager.dafLabel(selectedDaf), maxLines = 1, fontSize = 14.sp, fontWeight = FontWeight.Normal)
             }
-            DropdownMenu(
-                expanded = dafExpanded,
-                onDismissRequest = { dafExpanded = false },
-                scrollState = dafScrollState,
-                modifier = Modifier.heightIn(max = 300.dp)
-            ) {
-                dafPickerItems.forEach { daf ->
-                    DropdownMenuItem(
-                        text = { Text(FeedManager.dafLabel(daf)) },
-                        onClick = {
-                            contentViewModel.selectDaf(daf)
-                            dafExpanded = false
+            if (dafExpanded) {
+                Popup(
+                    alignment = Alignment.BottomStart,
+                    onDismissRequest = { dafExpanded = false },
+                    properties = PopupProperties(focusable = true)
+                ) {
+                    var visible by remember { mutableStateOf(false) }
+                    LaunchedEffect(Unit) { visible = true }
+                    Column {
+                    AnimatedVisibility(
+                        visible = visible,
+                        enter = expandVertically(
+                            animationSpec = tween(durationMillis = 120),
+                            expandFrom = Alignment.Top
+                        ) + fadeIn(animationSpec = tween(durationMillis = 120))
+                    ) {
+                        androidx.compose.material3.Surface(
+                            shape = RoundedCornerShape(4.dp),
+                            shadowElevation = 8.dp,
+                            color = MaterialTheme.colorScheme.surface
+                        ) {
+                            LazyColumn(
+                                state = dafListState,
+                                modifier = Modifier
+                                    .width(120.dp)
+                                    .heightIn(max = 300.dp)
+                            ) {
+                                items(dafPickerItems) { daf ->
+                                    val isSelected = daf == selectedDaf
+                                    Text(
+                                        text = FeedManager.dafLabel(daf),
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Normal,
+                                        color = if (isSelected) MaterialTheme.colorScheme.primary
+                                                else MaterialTheme.colorScheme.onSurface,
+                                        modifier = Modifier
+                                            .fillMaxWidth()
+                                            .clickable {
+                                                contentViewModel.selectDaf(daf)
+                                                dafExpanded = false
+                                            }
+                                            .padding(horizontal = 16.dp, vertical = 10.dp)
+                                    )
+                                }
+                            }
                         }
-                    )
+                    }
+                    } // Column
                 }
             }
         }

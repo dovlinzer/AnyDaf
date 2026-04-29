@@ -306,7 +306,7 @@ This is not a contradiction. The *mishna* we cited reflects an earlier teaching 
 
 ---
 
-## Rav Huna Opinion…
+## Rav Huna Opinion (II)
 
 ### Baraita Positions
 

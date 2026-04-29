@@ -12,7 +12,7 @@ We begin today on 17b, at the *mishnah* located approximately ten lines from the
 
 It is worth noting at the outset that the *Rambam*, reading through both the *Yerushalmi* and the *Bavli*, understood that the original eighteen things were matters on which the schools debated and then reached agreement, all gathered into a single list. The *Yerushalmi*, however, speaks of three distinct lists. The *Rambam* follows this approach and identifies the debates we are about to study as a third list of eighteen things — matters that remained points of ongoing disagreement between *Beit Shammai* and *Beit Hillel*.
 
-## 18 Things Debates…
+## 18 Things Debates (II)
 
 ### Soaking & Dyeing
 

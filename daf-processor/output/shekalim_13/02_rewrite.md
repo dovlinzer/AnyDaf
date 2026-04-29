@@ -36,7 +36,7 @@ The argument from our own *mishnah* is ultimately the strongest. Rabbi Chizkiyah
 
 ---
 
-## Female Sanctity Status
+## Female Sanctity Stat (II)
 
 ### R. Shimon Gender
 
@@ -58,7 +58,7 @@ The illustrative case is from a *baraita*: an *asham* requiring a one-year-old f
 
 ---
 
-## Sanctity Distinctions
+## Sanctity Distinction (II)
 
 ### Sanctity Categories
 
@@ -68,7 +68,7 @@ At this point in the analysis it becomes necessary to introduce a more precise c
 
 ---
 
-## Female Sanctity Status…
+## Female Sanctity Stat (II)
 
 ### R. Abba Pesach/Asham
 
@@ -76,7 +76,7 @@ Rabbi Abba clarifies why Rabbi Yochanan's original question — why not extend t
 
 ---
 
-## Sanctity Distinctions…
+## Sanctity Distinction (II)
 
 ### R. Yehoshua Female
 

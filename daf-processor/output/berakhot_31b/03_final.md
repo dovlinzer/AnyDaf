@@ -86,7 +86,7 @@ It is worth noting that while this entire passage is introduced as deriving *hal
 
 ---
 
-## Hannah's Bold Prayer
+## Hannah's Bold Praye (III)
 
 ### Tzevaot Divine Name
 
@@ -144,7 +144,7 @@ According to Rabbi Akiva, then, Hannah could not have been threatening to force 
 
 ---
 
-## Hannah's Bold Prayer…
+## Hannah's Bold Praye (III)
 
 ### Three Women's Mitzvot
 
@@ -218,7 +218,7 @@ This entire narrative foreshadows the story immediately following in the *pesuki
 
 ---
 
-## Hannah's Bold Prayer……
+## Hannah's Bold Praye (III)r…
 
 ### Body's Purpose
 

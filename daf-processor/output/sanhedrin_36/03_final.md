@@ -238,7 +238,7 @@ This point has interesting resonances beyond the specific *Sanhedrin* context. I
 
 ---
 
-## 10 Differences: Mamonos…
+## 10 Differences: Mamo (II)
 
 ### Abbahu: Ten Differences
 
@@ -310,7 +310,7 @@ There is an interesting dispute between Rashi and *Tosafos* on the precise scope
 
 ---
 
-## 10 Differences: Mamono…
+## 10 Differences: Mamo (II)
 
 ### Purity from Song of Songs
 

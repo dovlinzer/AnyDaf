@@ -122,7 +122,7 @@ The *gemara* immediately questions whether Sumchos adds anything new: *Sumchus h
 
 ---
 
-## Shimon ben Elazar…
+## Shimon ben Elazar (II)
 
 ### Plant Materials Tumah
 

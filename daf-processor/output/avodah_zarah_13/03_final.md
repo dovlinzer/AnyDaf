@@ -190,7 +190,7 @@ Tosafot reports a sharp challenge from Rav Chananel: those who hold that *tzaar 
 
 This stands in marked contrast to the position of the Rambam and the *Trumat HaDeshen*, as well as the direction in which later *halacha* developed, which hold that *tzaar baalei chayim* is generally displaced whenever the animal's suffering serves a legitimate human purpose. For Tosafot, the permission is narrow: the only cases in which *tzaar baalei chayim* is overridden are those involving special countervailing values — the honor of all Israel, the need to make a statement against *avodah zarah* — not the general category of human benefit. According to the opposing *rishonim*, by contrast, Rav Chananel's question would never have gotten off the ground; if human benefit is always a valid override, the *knas* of *te'aker* would straightforwardly justify the suffering, and there would be nothing to reconcile.
 
-## Property Destruction…
+## Property Destruction (II)
 
 ### Abaye vs Rava
 

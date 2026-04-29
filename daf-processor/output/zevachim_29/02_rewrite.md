@@ -26,7 +26,7 @@ The *pasuk* opens *he'achol ye'achel*, a doubled verb. The *gemara* interprets t
 
 ---
 
-## Rava's Derivation…
+## Rava's Derivation (II)
 
 ### Shelamim Paradigm
 
@@ -62,7 +62,7 @@ Which one is it? *Zeh chutz lizmano* — it is *chutz lizmano* that carries *kar
 
 ---
 
-## Piggul Sources…
+## Piggul Sources (II)
 
 ### Shelamim Paradigm
 

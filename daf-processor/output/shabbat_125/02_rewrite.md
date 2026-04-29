@@ -194,7 +194,7 @@ The Sages disagree: *bein kach uvein kach pokin bo* — regardless of whether th
 
 ---
 
-## Covers & Stoppers…
+## Covers & Stoppers (II)
 
 ### Forgotten Stone
 
@@ -208,7 +208,7 @@ This is the precise inverse of the *shever kli* discussion: there, an object beg
 
 ---
 
-## Gourd & Stone…
+## Gourd & Stone (II)
 
 ### Action vs Function
 
@@ -268,7 +268,7 @@ The *beraita* states: *tzarich likshor* — one must tie the pieces together (to
 
 ---
 
-## Vine & Bucket…
+## Vine & Bucket (II)
 
 ### Attached vs Detached
 

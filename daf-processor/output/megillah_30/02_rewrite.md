@@ -118,7 +118,7 @@ The *Gemara*'s point here seems to carry a message that extends beyond theology.
 
 ---
 
-## Pesach Readings…
+## Pesach Readings (II)
 
 ### Torah Selection
 
@@ -126,7 +126,7 @@ It is worth pausing to examine the structural logic underlying the *Torah* selec
 
 ---
 
-## Sukkot Readings…
+## Sukkot Readings (II)
 
 ### Last Days
 

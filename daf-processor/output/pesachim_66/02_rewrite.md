@@ -76,7 +76,7 @@ This leads to a striking observation: in the end, Hillel did not actually prove 
 
 ---
 
-## Knife on Shabbat…
+## Knife on Shabbat (II)
 
 ### Melacha Ba-Kodashim
 
@@ -100,7 +100,7 @@ The *gemara* now ties this back to the narrative: *hainu d'ka ba'a minei* — th
 
 ---
 
-## Gemara Analysis…
+## Gemara Analysis (II)
 
 ### Bavli vs. Yerushalmi
 

@@ -56,7 +56,7 @@ Similarly, the *bechor* does not receive a double portion of *ra'uy*—property 
 
 ---
 
-## Shevach & Ra'uy…
+## Shevach & Ra'uy (II)
 
 ### Tosafot on Loans
 
@@ -174,7 +174,7 @@ The Sages derive from the extra word *tashuvu*—you shall return—that gifts a
 
 ---
 
-## No Return in Yovel…
+## No Return in Yovel (II)
 
 ### Rabbi Eliezer
 

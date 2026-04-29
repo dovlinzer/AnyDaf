@@ -62,7 +62,7 @@ This creates an ethical problem: if the buyer has paid and the seller can still 
 
 ---
 
-## Fruit Sale Example…
+## Fruit Sale Example (II)
 
 ### Rabbi Shimon's Rule
 

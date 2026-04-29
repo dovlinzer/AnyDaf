@@ -160,7 +160,7 @@ The broader lesson is that protecting one party — worker or employer — does 
 
 ---
 
-## Rav's Ruling on Mid-Job Departure
+## Rav's Ruling (II)
 
 ### Tanna Kamma vs. Rabbi Dosa
 
@@ -172,7 +172,7 @@ With the *baraita* analyzed, the *gemara* turns to a striking ruling: *amar Rav 
 
 ---
 
-## Rav's Ruling
+## Rav's Ruling (II)
 
 ### At-Will Employment
 
@@ -220,7 +220,7 @@ The *gemara* offers an alternative explanation: *amar Rav Nachman bar Yitzchak, 
 
 ---
 
-## Land Sale
+## Land Sale (II)
 
 ### General Retraction Principle
 
@@ -248,7 +248,7 @@ Alternatively, the *gemara* proposes *iba'is eima*: perhaps Rabbi Dosa himself d
 
 ---
 
-## Land Sale
+## Land Sale (II)
 
 ### Seller Retraction
 

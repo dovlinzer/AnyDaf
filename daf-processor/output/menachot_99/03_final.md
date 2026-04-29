@@ -180,7 +180,7 @@ If Yom Kippur fell on *erev Shabbat*, a further complexity arose: *se'iro shel Y
 
 ---
 
-## Rabbi Yose's View
+## Rabbi Yose's View (II)
 
 ### Morning Removal/Evening Placement
 

@@ -86,7 +86,7 @@ This invocation of *shomer peta'im Hashem* raises a serious underlying question 
 
 ---
 
-## Justinian Story…
+## Justinian Story (II)
 
 ### Gemara Response
 

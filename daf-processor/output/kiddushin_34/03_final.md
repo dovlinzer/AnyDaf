@@ -106,7 +106,7 @@ The Rambam, however, rules differently and asymmetrically: *v'af al pi shehaya t
 
 One way to understand the Rambam's position is that it reflects something intrinsic to the nature of Torah itself. The full honor owed to a *talmid chacham* who represents Torah must itself include the *mitzvah* of *kibbud av*. A *rebbe* who allows his father to stand before him — or who does nothing to prevent it — has revealed something hollow about the Torah he carries. The learning, in other words, must translate into action, and one of the central actions that Torah demands is honor to one's father. By contrast, *kibbud av* seems to operate on a more primal, universal register — it does not depend on Torah for its legitimacy, but exists, in some sense, independently of it. When these two obligations come into direct tension in terms of visible posture, it is the father's status that is not to be publicly subordinated.
 
-## Horseback Q
+## Horseback Q (II)
 
 ### Riding Status
 

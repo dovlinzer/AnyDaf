@@ -116,7 +116,7 @@ The converse is not symmetric. *Aval a-baraita Rami bar Chama ke-Rava masni lah*
 
 ---
 
-## Mishna: Two Cases
+## Mishna: Two Cases (II)
 
 ### Case 1: Fed Children
 
@@ -132,7 +132,7 @@ The *gemara* cites a *braita* that tracks the structure of our *mishna*. *Ha-goz
 
 ---
 
-## Gezeilah Be'ein Rules and the Problem of Minors
+## Gezeilah Be'ein Rule (II)
 
 ### Adult Ignorance Claim
 
@@ -262,7 +262,7 @@ The logic is carefully bounded. For the *gazlan* himself, destruction of the obj
 
 ---
 
-## Gezeilah Be'ein Rules and Sumchos
+## Gezeilah Be'ein Rule (II)
 
 ### Adults Must Return
 

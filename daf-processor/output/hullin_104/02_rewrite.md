@@ -122,7 +122,7 @@ With *basar b'chalav*, however, the calculus is entirely different. *De-sharat l
 
 The underlying principle Abaye articulates is: a *gezeirah ligezeirah* is justified not as a matter of abstract principle but as a function of how naturally and readily one step leads to the next. Where the chain of causation is realistic and close at hand, we may stack safeguards. Where the feared outcome is remote and practically unreachable, we do not.
 
-## Safeguards & Definitions
+## Safeguards & Defini (III)tions
 
 ### Student Objections
 
@@ -134,7 +134,7 @@ The concern, it should be emphasized, is not about people who knowingly intend t
 
 The difficulty of maintaining categorical distinctions in practice is not unique to this domain. The *Gemara* throughout *Shas* addresses the distinction between the *chaver* and the *am ha-aretz* — and the *am ha-aretz* is not defined as a person of bad faith, but as one who is not scrupulous about *tithes* and *tumah ve-tahara*. These were observant Jews who simply did not track all the fine distinctions. The rabbinic response was sometimes to flatten those distinctions — to impose uniform rules that are easier to maintain precisely because they do not require the practitioner to navigate subtle gradations. More stringent, perhaps, but more sustainable. The extension of *basar b'chalav* restrictions to poultry may reflect exactly this instinct: rather than require everyone to track which prohibitions are biblical and which rabbinic, we apply a uniform standard and avoid the slippage.
 
-## Abaye Slippery Slope…
+## Abaye Slippery Slope (II)
 
 ### Rav Sheshet Challenge
 
@@ -168,13 +168,13 @@ Rabbi Yosi adds: *zu mikulei Beis Shammai u'mechumrei Beis Hillel* — this is o
 
 It is worth noting that Rabbi Yehuda Hanasi sometimes chose to render rulings *stam* — anonymously — to give them greater normative weight. Here, by contrast, he attributed the ruling to Rabbi Yosi explicitly. An additional reason may be that it is so unusual for Beis Shammai to be the lenient party that explicit attribution was necessary to prevent readers from assuming an error and reversing the positions.
 
-## Safeguards & Definitio…
+## Safeguards & Defini (III)tio…
 
 ### Table Type Distinction
 
 The *mishnah*'s ruling — that birds and cheese may not appear together on the table — is clarified by the *Gemara*: *be'eizeh shulchan amru, beshulchan she'ochel alav* — this applies to the table at which one actually eats. *Aval beshulchan shesoder alav es hatavshil* — but the table on which food is arranged, like a serving counter or buffet surface, is treated differently. There, one may place them side by side without concern: *noten zeh b'tzad zeh ve'eino choshesh*.
 
-## Birds/Cheese Dispute…
+## Birds/Cheese Dispute (II)
 
 ### Table Type Clarification
 
@@ -184,7 +184,7 @@ This distinction is striking because intuitively one might expect the preparatio
 
 Rashi explains the distinction on psychological grounds: at the eating table, one is engaged in conversation, relaxed, mentally occupied — exactly the conditions under which one's attention wanders and one might mindlessly reach across and combine prohibited items. By contrast, at the preparation surface, one is actively and consciously engaged in the task of arranging the food; the focused, purposeful activity of setting up a meal is not the setting in which inadvertent mixing occurs.
 
-## Safeguards & Definitio…
+## Safeguards & Defini (III)tio…
 
 ### Extension Framework
 

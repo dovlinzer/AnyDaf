@@ -262,7 +262,7 @@ The conceptual framework at work here is important. *Nosei panim* — to lift up
 
 ---
 
-## Collective Consequence
+## Collective Consequen (II)
 
 ### Specific Cases
 
@@ -272,7 +272,7 @@ The counterpart: *oy la-rasha* — woe to the wicked: they not only bring punish
 
 ---
 
-## Justice Distribution…
+## Justice Distribution (II)
 
 ### Interest Metaphor
 
@@ -280,7 +280,7 @@ The framework is captured in a striking financial metaphor. If you pay off your 
 
 ---
 
-## Collective Consequence…
+## Collective Consequen (II)
 
 ### Merit Bringer
 

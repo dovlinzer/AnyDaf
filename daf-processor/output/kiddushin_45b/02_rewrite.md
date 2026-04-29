@@ -50,7 +50,7 @@ As the *gemara* itself notes, there is a structural asymmetry in these two posit
 
 ---
 
-## Total Elopement
+## Total Elopement (III)
 
 ### Ulla Rejects
 
@@ -62,7 +62,7 @@ The *gemara* articulates why. In the immediately preceding case — where *kiddu
 
 ---
 
-## Total Elopement…
+## Total Elopement (III)
 
 ### Rava Reinterprets
 
@@ -74,7 +74,7 @@ The contrast with the prior case now becomes clear: when the *kiddushin* was per
 
 ---
 
-## Elopement Cases…
+## Elopement Cases (II)
 
 ### Rava Defends Huna
 
@@ -90,7 +90,7 @@ This is the key to Rava's defense of Rav Huna. When the *kiddushin* was done *le
 
 ---
 
-## Total Elopement…
+## Total Elopement (III)
 
 ### Huna: Yes
 
@@ -102,7 +102,7 @@ Rav Yirmiah bar Abba holds that she may not eat *terumah* in this case.
 
 ---
 
-## Conclusion on Ketana…
+## Conclusion on Ketana (II)
 
 ### Rashi's Limitation
 

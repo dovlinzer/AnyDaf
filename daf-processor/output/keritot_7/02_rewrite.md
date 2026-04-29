@@ -74,7 +74,7 @@ The parallel to the *shemen hamishcha* debate is direct: Rabbi Meir's position i
 
 ---
 
-## Shemen Hamishcha…
+## Shemen Hamishcha (II)
 
 ### R. Eliezer's Derasha
 

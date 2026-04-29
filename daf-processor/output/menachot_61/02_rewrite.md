@@ -70,7 +70,7 @@ It must be acknowledged that this third criterion is conceptually difficult. Whe
 
 ---
 
-## Hagasha Technical
+## Hagasha Technical (III)
 
 ### Kmitza Act
 
@@ -120,7 +120,7 @@ The practical mechanics of placing bread on a live lamb and waving them together
 
 ---
 
-## Hagasha Technical…
+## Hagasha Technical (III)
 
 ### East vs West
 
@@ -166,7 +166,7 @@ Finally, the *braita* excludes the possibility that one should wave them individ
 
 ---
 
-## Hagasha Technical……
+## Hagasha Technical (III)…
 
 ### Yesod Requirement
 

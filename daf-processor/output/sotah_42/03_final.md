@@ -102,7 +102,7 @@ The four expressions of fear — *al yerach*, *al tira'u*, *al tachpezu*, *al ta
 
 ---
 
-## David & Goliath…
+## David & Goliath (II)
 
 ### Goliath Brazenness
 

@@ -1,6 +1,6 @@
 # Nedarim 38 — Daf Yomi Shiur
 
-## Torah Teaching & Fees
+## Torah Teaching & Fee (II)
 
 ### Torah Teaching Rules
 
@@ -24,7 +24,7 @@ More significant, however, is what this ruling implies about the Torah education
 
 The *Gemara* now turns to the question of whether *pisuk te'amim* — the *trop* — has the status of *Torah* itself, that is, whether it is *de'oraisa*. The term *de'oraisa* can be understood either in the historical sense of going back to Har Sinai, or in the definitional sense of whether it counts as *Torah* proper for purposes of obligations such as *birchas haTorah* or the restrictions on where one may study. This same question arises regarding *Targum*, which some hold also traces back to Sinai. The practical consequence here is that according to the view permitting a fee for teaching *pisuk te'amim*, such instruction is not considered *Torah* per se; whereas the opposing view would prohibit charging, treating it as fully Torah. Both positions remain in play.
 
-## Torah Teaching & Fees…
+## Torah Teaching & Fee (II)
 
 ### Sofrim Traditions
 

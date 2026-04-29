@@ -46,7 +46,7 @@ Having established that *merubin venismatu* is *pshita* — the sons retain thei
 
 ---
 
-## Merubim Shrinks…
+## Merubim Shrinks (II)
 
 ### Formal Assignment Impact
 
@@ -54,7 +54,7 @@ The *Gemara* does not distinguish between scenarios based on whether property wa
 
 ---
 
-## Muatim Grows…
+## Muatim Grows (II)
 
 ### Two Property Models
 

@@ -308,7 +308,7 @@ The *Mishnah* then states the foundational rule about the idol itself — a rule
 
 ---
 
-## Garden & Bath…
+## Garden & Bath (II)
 
 ### Abaye's Readings
 

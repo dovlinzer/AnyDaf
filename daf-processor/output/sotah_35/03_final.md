@@ -132,7 +132,7 @@ Rav Nachman bar Yitzchak offers an alternative: they died of *askara*, croup —
 
 ---
 
-## Jordan Crossing & Ark
+## Jordan Crossing & Ar (II)
 
 ### Waters Return
 
@@ -166,7 +166,7 @@ It was precisely a failure to appreciate this power of the *aron* that brought a
 
 ---
 
-## Uzza's Punishment…
+## Uzza's Punishment (II)
 
 ### God's Rebuke
 
@@ -212,7 +212,7 @@ The connection between the *zmirot* rebuke and the *hata'if einecha* verse may i
 
 ---
 
-## Jordan Crossing & Ark…
+## Jordan Crossing & Ar (II)
 
 ### Ark's Autonomy
 

@@ -232,7 +232,7 @@ The practical upshot: where the rumor is continuous and uninterrupted, it carrie
 
 ---
 
-## Refined Halakha…
+## Refined Halakha (II)
 
 ### Rumor Duration
 

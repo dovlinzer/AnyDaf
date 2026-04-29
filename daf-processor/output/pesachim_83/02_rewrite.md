@@ -66,7 +66,7 @@ The *mishnah* gives the reason: *lefi she'ein dochin lo et ha-Shabbos ve-lo et h
 
 ---
 
-## Atzmos, Gidin, Notar…
+## Atzmos, Gidin, Notar (II)
 
 ### Rav Mari & Rav Yitzchak
 
@@ -154,7 +154,7 @@ Ravina proposes a final answer: *bechitzon* — the *mishnah* refers to the oute
 
 ---
 
-## Notar on Shabbat…
+## Notar on Shabbat (II)
 
 ### Chizkiya's Proof
 

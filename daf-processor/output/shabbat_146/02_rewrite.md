@@ -260,7 +260,7 @@ The *mishnah* continues with a cluster of food-preservation cases. *Nosnin tavsh
 
 ---
 
-## Food Preservation…
+## Food Preservation (II)
 
 ### Gemara Reason
 

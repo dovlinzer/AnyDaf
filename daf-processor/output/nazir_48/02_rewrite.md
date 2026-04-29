@@ -104,7 +104,7 @@ The *gemara* answers concisely, and *Tosafos* elaborates: *kivan d'amar mar im h
 
 ---
 
-## Akiva Achiv & Achoso…
+## Akiva Achiv & Achoso (II)
 
 ### Akiva Achoso
 

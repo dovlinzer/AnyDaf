@@ -152,7 +152,7 @@ Rav Nachman goes further still. *Hanoteil yadav l'peirot einu ela migasei haruac
 
 ---
 
-## Bread vs Fruit…
+## Bread vs Fruit (II)
 
 ### Rabba Bar Chana Story
 

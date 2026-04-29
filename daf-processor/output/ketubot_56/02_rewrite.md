@@ -232,7 +232,7 @@ The *baraita* then states: *u-vogeres harei hi ke-tavu'ah* — and a *bogeres* i
 
 ---
 
-## Ein Poskin Ketana…
+## Ein Poskin Ketana (II)
 
 ### Rav Papa Resolve
 
@@ -240,7 +240,7 @@ The *baraita* then states: *u-vogeres harei hi ke-tavu'ah* — and a *bogeres* i
 
 ---
 
-## Mishna Reconciled…
+## Mishna Reconciled (II)
 
 ### Tosafos Naara
 

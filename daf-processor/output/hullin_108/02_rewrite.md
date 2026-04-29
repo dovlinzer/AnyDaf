@@ -110,7 +110,7 @@ The Gemara records that this debate is between major Amoraic authorities. Rav, R
 
 ---
 
-## Meat in Milk Pot
+## Meat in Milk Pot (III)
 
 ### Meat Falls in
 
@@ -122,7 +122,7 @@ Rav rules: *basar assur v'chalav mutar* — the meat is forbidden, and the milk 
 
 ---
 
-## Meat in Milk Pot…
+## Meat in Milk Pot (III)
 
 ### Status Problem
 
@@ -130,7 +130,7 @@ This ruling, however, appears to be in tension with Rav's own position that *efs
 
 ---
 
-## Efshar Lesochto…
+## Efshar Lesochto (II)
 
 ### Milk Challenge
 
@@ -158,7 +158,7 @@ Rav rules: *loke al achilato, v'eino loke al bishulo* — one receives lashes fo
 
 ---
 
-## Meat in Milk Pot…
+## Meat in Milk Pot (III)
 
 ### Boiling Pot Answer
 
@@ -168,7 +168,7 @@ The Gemara then raises a follow-up: *ki nayach hadar palit* — surely when the 
 
 ---
 
-## Half-Kezayit Debate…
+## Half-Kezayit Debate (II)
 
 ### Inconsistency
 

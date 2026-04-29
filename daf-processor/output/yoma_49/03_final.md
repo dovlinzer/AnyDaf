@@ -24,7 +24,7 @@ The discussion then shifts from the *chafina* and the placement into the ladle t
 
 ---
 
-## Baraita Challenge
+## Baraita Challenge (II)
 
 ### Invalid Persons
 
@@ -260,7 +260,7 @@ The remaining unresolved question is whether another person may use the *chafina
 
 ---
 
-## Shechita Succession
+## Shechita Succession (II)
 
 ### Live Animal Start
 
@@ -300,7 +300,7 @@ The *gemara* responds: *shani hasam, de-ksiv min ha-seh* — there it is differe
 
 ---
 
-## Blood Represents Animal
+## Blood Represents Ani (II)
 
 ### Seh-Seh Linkage
 
@@ -308,7 +308,7 @@ The resolution, then, is that the *pesach* rule is established through a *gezera
 
 ---
 
-## Shechita Succession (Continued)
+## Shechita Succession (II)
 
 ### Peter Chamor Parallel
 
@@ -322,7 +322,7 @@ The comparison might seem strained: in the case of the *par* on *Yom Kippur*, th
 
 ---
 
-## Blood Represents Animal (Continued)
+## Blood Represents Ani (II)
 
 ### When Blood Represents
 

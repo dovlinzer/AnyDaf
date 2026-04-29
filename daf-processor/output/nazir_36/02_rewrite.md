@@ -80,7 +80,7 @@ A related question arises: when grapes soak in water and the water changes color
 
 ---
 
-## Abaye's Challenge…
+## Abaye's Challenge (II)
 
 ### Rabbi Akiva's Limit
 

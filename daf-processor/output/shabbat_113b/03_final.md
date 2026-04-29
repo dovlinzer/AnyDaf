@@ -156,7 +156,7 @@ The *gemara* then asks: *lemeimra dechivari ninhu* — presumably you are saying
 
 Having completed the extensive digression about *Shabbat* clothes and Torah scholars, the *gemara* returns to the *mishnah*, which dealt with the relationship between *Yom Kippur* and *Shabbat* — specifically whether one may prepare on *Yom Kippur* for *Shabbat* and vice versa, and whether the fats of sacrifices from one sanctified day may be burned on the other. *Rabbi Ishmael* held that *Yom Kippur* can serve *Shabbat* — that is, preparations or offerings may carry over from *Yom Kippur* to *Shabbat* — while *Rabbi Akiva* disagreed and said neither day can serve the other.
 
-## Yom Kippur & Shabbat…
+## Yom Kippur & Shabbat (II)
 
 ### BeShabbato Limit
 

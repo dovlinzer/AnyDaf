@@ -172,7 +172,7 @@ The *Mishnah* further records that a ramp was constructed for the person carryin
 
 ---
 
-## Scapegoat Viduy…
+## Scapegoat Viduy (II)
 
 ### Viduy Recipients
 
@@ -202,7 +202,7 @@ The other dimension of the more complex view — that the *Kohanim*'s atonement 
 
 ---
 
-## Scapegoat Dispatch…
+## Scapegoat Dispatch (II)
 
 ### Conditions
 

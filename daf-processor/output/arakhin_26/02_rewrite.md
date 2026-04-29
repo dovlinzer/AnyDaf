@@ -60,7 +60,7 @@ This is the conceptual problem with Rabbi Shimon's position: in every other case
 
 ---
 
-## R. Yehuda Analysis…
+## R. Yehuda Analysis (II)
 
 ### Treasury vs Altar
 

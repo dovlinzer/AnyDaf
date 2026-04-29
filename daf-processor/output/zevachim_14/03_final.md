@@ -278,7 +278,7 @@ The Gemara ultimately concludes via Ulla in the name of Rabbi Elazar: *holacha b
 
 ---
 
-## Holacha Beregel…
+## Holacha Beregel (II)
 
 ### Sitting/Left Hand
 

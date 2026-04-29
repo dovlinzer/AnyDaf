@@ -12,7 +12,7 @@ The halachic framework for these two intermediate chambers differs from other or
 
 ---
 
-## Holes in Beit Hakosot
+## Holes in Beit Hakoso (II)
 
 ### Needle Perforation Rules
 

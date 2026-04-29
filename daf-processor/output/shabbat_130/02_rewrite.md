@@ -96,7 +96,7 @@ This principle is not about practical impossibility — it does not matter wheth
 
 ---
 
-## Circumcision Shabbat…
+## Circumcision Shabbat (II)
 
 ### Exposure Rationale
 

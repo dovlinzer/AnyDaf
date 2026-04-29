@@ -134,13 +134,13 @@ Indeed, the first *chalitza* was not a valid one, since the man's intent was for
 
 A parallel case is then introduced. The daughter of the father-in-law of Rav Papa — apparently a sister-in-law or close female relative — fell before a *yavam* who was not suitable for her. His motivation, too, was purely financial: he was interested only in consuming her money. Rav Papa, concerned for her welfare, came before Abaye.
 
-## Rabbi Chiya Case…
+## Rabbi Chiya Case (II)
 
 ### Money Trick
 
 This section continues the narrative of Rabbi Chiya bar Abba with an explanation of the preferable resolution — one that will become directly relevant to the Rav Papa case. Rather than relying on the trickery of making the *yavam* believe the *chalitza* is a form of *yibum*, the better approach is to promise the *yavam* money as inducement for the *chalitza*, without intending to pay. Since, as established above, conditions cannot attach to *chalitza*, the *chalitza* is valid regardless of whether the money is delivered.
 
-## Rav Papa Case…
+## Rav Papa Case (II)
 
 ### Abaye's Trick
 

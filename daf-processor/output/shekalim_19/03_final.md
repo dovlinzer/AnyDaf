@@ -174,7 +174,7 @@ This has no bearing on questions of ordering or timing of the two birds within t
 
 ---
 
-## Found Money Jerusalem
+## Found Money Jerusale (II)
 
 ### Sellers' Context
 
@@ -208,7 +208,7 @@ The *Har HaBayit*, by contrast, was not swept regularly. Two factors exempted it
 
 ---
 
-## Found Meat Rules
+## Found Meat Rules (II)
 
 ### Temple Courtyard Meat
 
@@ -226,7 +226,7 @@ In either case, whether the meat is assumed to be *olah*, *chatat*, or *shelamim
 
 ---
 
-## Outside Jerusalem Meat
+## Outside Jerusalem Me (II)
 
 ### Limb-Piece Distinction
 

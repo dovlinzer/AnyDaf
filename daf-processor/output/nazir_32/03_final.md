@@ -94,7 +94,7 @@ Reading the *mishna* according to the *Rabbanan* requires a more radical re-read
 
 ---
 
-## Stolen Animal Case
+## Stolen Animal Case (II)
 
 ### Animal Stolen Setup
 
@@ -118,7 +118,7 @@ The release in such a case works through the process of *hatara* as it operates 
 
 ---
 
-## Future Destruction Error
+## Future Destruction E (II)
 
 ### Ein Potchin B'Nolad
 
@@ -130,7 +130,7 @@ The principle at stake in the next case is *ein potchin b'nolad*: one may not op
 
 ---
 
-## Future Destruction Err…
+## Future Destruction E (II)
 
 ### Nachum's Reasoning
 

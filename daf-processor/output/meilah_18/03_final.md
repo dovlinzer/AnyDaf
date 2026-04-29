@@ -1,6 +1,6 @@
 # Meilah 18 — Daf Yomi Shiur
 
-## Pigul & Nosar Tziruf
+## Pigul & Nosar Tziruf (II)
 
 ### Pigul/Nosar Overview
 
@@ -30,7 +30,7 @@ In any case, this rabbinic *tumah* — being of lesser character — is what the
 
 However, Shmuel adds: *aval min ha-achilah mitztarfin* — but with respect to the prohibition of eating, they do combine. A *baraita* is cited: Rabbi Eliezer derives from the verse *lo yochal ki kodesh heim* — "it shall not be eaten for they are holy" — that there is a generic negative prohibition applicable to anything that has become *pasul* on account of its *kedushah* status, the classic examples being *pigul* and *nosar*. This generic prohibition of eating all *psulei ha-mukdashin* means that *pigul* and *nosar*, despite being distinct specific prohibitions, share a common *issur achilah* under which they can combine. The combination does not produce liability for *karet* — for that, one would need a *kezayit* of the specific item — but it does produce a transgression of this generic prohibition, for which one would receive *malkot*.
 
-## Tumah Sources & Levels
+## Tumah Sources & Leve (II)
 
 ### Av vs. Velad HTumah
 
@@ -74,13 +74,13 @@ The *mishnah* continues with related shiurim: *u-k'mazon shtei seudot l'eiruv* �
 
 Similarly for liquids: *kol ha-mashkin mitztarfin zeh im zeh lifsol et ha-giviyah b'revi'it* — all *tamei* liquids combine to produce the rabbinic *tumah* of the body, if one has consumed a *revi'it* — approximately 3.2 ounces — of *tamei* liquid. Different types of liquids, whether wine, oil, water, or otherwise, all combine toward that *shiur*. And for *Yom Kippur*, all different types of liquid combine toward *melo lugmav* — the volume that fills one cheek — which is the *shiur* for transgressing the prohibition against drinking.
 
-## Tumah Sources & Levels (Continued)
+## Tumah Sources & Leve (II)
 
 ### Rishon/Sheni Combine
 
 The *Gemara* returns to the question of *rishon* and *sheni* combining, providing a short discussion that has already been treated above. Rava's formulation — that the *rishon* caused the *sheni* and therefore certainly combines with it — and Rav Ashi's formulation — that *rishon* and *sheni* are *benei chada bikta*, members of the same category, from the perspective of the *shelishi* they seek to defile — both converge on the same point: once *tumah* is derivative, it becomes generic and abstract, losing the distinctive character of its originating source. For this reason, a *rishon* and a *sheni* can combine, though only at the level of the lesser, the *sheni*.
 
-## Pigul & Nosar Tziruf (Continued)
+## Pigul & Nosar Tziruf (II)
 
 ### Orlah & Kilayim
 

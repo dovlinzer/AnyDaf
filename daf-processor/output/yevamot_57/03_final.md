@@ -1,6 +1,6 @@
 # Yevamot 57 — Daf Yomi Shiur
 
-## Forbidden Marriage Status
+## Forbidden Marriage S (II)
 
 ### Daf Overview
 
@@ -16,7 +16,7 @@ The *mishnah* opens by enumerating cases of forbidden relationships involving *k
 
 Why does *chalalah* status matter if she is already forbidden to a *kohen*? For an *almanah* forbidden to a *kohen gadol*, the consequence is that she becomes lost even to a *kohen hedyot*. And for a *gerushah* or *chalutzah* with a *kohen hedyot*, it matters in a different way: if she was a *bat kohen*, she would ordinarily be entitled to return to her father's household and continue eating *terumah* after her husband's death — provided she has no children and meets the other conditions. But if she has become a *chalalah*, she is disqualified even from eating *terumah* from her father's household, just as a male *kohen* who is a *chalal* loses his *kedushas kehunah*.
 
-## Erusin vs Nisuin
+## Erusin vs Nisuin (II)
 
 ### Rebbi Meir Position
 
@@ -26,7 +26,7 @@ Why does *chalalah* status matter if she is already forbidden to a *kohen*? For 
 
 All of the above consequences attach after the act of *bi'ah*. But the *mishnah* raises the case of *erusin* alone — *erusin* with a *kohen* in circumstances where the eventual *nisuin* would constitute an *issur*. The *tanna kamma* of the *mishnah*, whom the *gemara* will identify as Rebbi Meir, rules: *min ha-erusin lo yokhelu bi-trumah* — even during *erusin*, she may not eat *terumah*. Since *erusin* is but one step removed from *nisuin*, and there is no purpose to *erusin* unless one intends to proceed to *chuppah* and *nisuin*, Rebbi Meir treats the situation as though *bi'ah* is already imminent. She is therefore regarded as quasi-*chalalah* — at least rabbinically — and she cannot eat *terumah*.
 
-## Forbidden Marriage Status (continued)
+## Forbidden Marriage S (II)
 
 ### Chalalah Status
 
@@ -38,7 +38,7 @@ Before proceeding to the opposing positions, the case requires clarification. Th
 
 The more straightforward approach — that of Tosafot — reads the case as one involving a *bat kohen* married to a *kohen*. She is already entitled to eat *terumah* by virtue of her father's household. The question, therefore, is not what entitles her to eat, but whether something now disqualifies her. Does the *erusin* to a *kohen* — when it would eventually ripen into a forbidden *nisuin* — strip her of her existing entitlement to eat *terumah*?
 
-## Erusin vs Nisuin (continued)
+## Erusin vs Nisuin (II)
 
 ### R. Eliezer & Shimon
 
@@ -196,7 +196,7 @@ Rebbi Yossi takes the opposite position: *bein bi-kdushateih kaei bein be-lav bi
 
 The paradox Rebbi Yossi's position generates is notable. He holds that a *bat giyoret* is sufficiently a full Jew that a *kohen* may marry her — no residual *ger* status clings to her in that context. Yet simultaneously, she retains enough of a non-native status that she falls outside *kehal Hashem* and may marry a *ptzua daka*. Rebbi Yehuda's position produces the mirror-image paradox: a *bat ger* is still enough of a *ger* that a *kohen* cannot marry her — but she is enough of a *yisrael* that a *ptzua daka* cannot marry her either. Both *tanna'im* end up in an internally asymmetric position, though each in the opposite direction. According to Rebbi Yossi, the question posed by Rebbi Yochanan poses no difficulty — either way she can eat. According to Rebbi Yehuda, either way she cannot. The question is therefore answerable according to both — which only deepens the puzzle of why Rebbi Oshaya said he had no answer.
 
-## Eliezer b. Yaakov
+## Eliezer b. Yaakov (II)
 
 ### Conditional Status
 

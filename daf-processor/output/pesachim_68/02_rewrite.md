@@ -132,7 +132,7 @@ An alternative reading of the verse is then offered: *betechilah mah she-ani mem
 
 ---
 
-## Shabbat Acts Pesach…
+## Shabbat Acts Pesach (II)
 
 ### Blemish Removal
 

@@ -270,7 +270,7 @@ Nevertheless, *sadcha* in the singular still does meaningful work: it excludes p
 
 ---
 
-## Kodshei Mizbe'ach…
+## Kodshei Mizbe'ach (II)
 
 > **Hebrew/Aramaic:** נָפְקָא לֵיהּ מֵרֵישָׁא דִּקְרָא, ״רֵאשִׁית דְּגָנְךָ״, וְלֹא שׁוּתָּפוּת גּוֹי.
 >
@@ -286,7 +286,7 @@ But where the sanctified part is one upon which the animal's life depends — it
 
 ---
 
-## Plural Override…
+## Plural Override (II)
 
 ### Terumah Concession
 

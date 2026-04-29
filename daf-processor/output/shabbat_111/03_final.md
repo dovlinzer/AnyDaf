@@ -84,7 +84,7 @@ The Gemara proceeds to a new *mishna*. If someone has a toothache (*hachochesh b
 
 ---
 
-## Loin Pain Remedy
+## Loin Pain Remedy (III)
 
 ### Rose Oil Exception
 
@@ -96,7 +96,7 @@ The *mishna* continues: one who has pain in the loins (*hachochesh bematnav*) ma
 
 ---
 
-## Toothache Remedy…
+## Toothache Remedy (II)
 
 ### Swallow Definition
 
@@ -136,7 +136,7 @@ As a practical note, while the *mikvah* on Yom Kippur is technically permissible
 
 ---
 
-## Loin Pain Remedy…
+## Loin Pain Remedy (III)
 
 ### Mishna Loin Pain
 
@@ -168,7 +168,7 @@ The barrel case deserves close attention. When one tightens a rag stopper in a w
 
 ---
 
-## Loin Pain Remedy…
+## Loin Pain Remedy (III)
 
 ### Resolution
 
@@ -212,7 +212,7 @@ Where there is some debate among *rishonim* is with respect to *melacha she'eina
 
 ---
 
-## Wine Barrel Case…
+## Wine Barrel Case (II)
 
 ### Squeezing Forms
 

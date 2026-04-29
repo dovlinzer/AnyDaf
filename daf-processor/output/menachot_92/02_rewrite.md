@@ -46,7 +46,7 @@ Rabbi Yehuda disagrees: *se'irei avodas kochavim ein bahem semicha* — the goat
 
 ---
 
-## Baraita & Debate…
+## Baraita & Debate (II)
 
 ### R. Shimon Rejoins
 

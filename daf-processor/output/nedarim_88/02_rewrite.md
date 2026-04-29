@@ -44,7 +44,7 @@ According to this reading, the *Chachamim* disagree and hold that on the day the
 
 ---
 
-## Blind Person Parallel
+## Blind Person Paralle (II)
 
 ### B'lo Ra'ot
 
@@ -70,7 +70,7 @@ On this reading, the positions are not merely reversed by textual accident. Rath
 
 ---
 
-## Neder/Son-in-Law Property
+## Neder/Son-in-Law Pr (III)operty
 
 ### Vow Setup
 
@@ -82,7 +82,7 @@ The difficulty is rooted in the principle of *kol shekansah isha kanah ba'alah* 
 
 ---
 
-## Blind Person Parallel…
+## Blind Person Paralle (II)
 
 ### Different Verses
 
@@ -90,7 +90,7 @@ The *Gemara*'s resolution through *Rava* — that in each domain the verse opera
 
 ---
 
-## Neder/Son-in-Law Prope…
+## Neder/Son-in-Law Pr (III)ope…
 
 ### Noseies V'Notenes
 
@@ -118,7 +118,7 @@ Rav holds in accordance with this stronger model — and the *Gemara* will note 
 
 ---
 
-## Neder/Son-in-Law Prope…
+## Neder/Son-in-Law Pr (III)ope…
 
 ### Money vs Food
 
@@ -128,7 +128,7 @@ The indirect benefit to the husband from not having to spend money on food himse
 
 ---
 
-## Rav vs Shmuel…
+## Rav vs Shmuel (II)
 
 ### Rav: Both Phrases
 

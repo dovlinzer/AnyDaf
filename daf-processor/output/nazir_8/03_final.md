@@ -200,7 +200,7 @@ A further *baraita* is brought to confirm *Rabbi Yehudah*'s independent position
 
 ---
 
-## Yehudah = Rabbi?…
+## Yehudah = Rabbi? (II)
 
 ### Partial Agreement
 

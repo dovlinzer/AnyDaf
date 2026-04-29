@@ -48,7 +48,7 @@ The discussion also surfaces the question — which the *Gemara* will take up at
 
 ---
 
-## R. Yehuda Analysis
+## R. Yehuda Analysis (II)
 
 ### Sanctified House
 
@@ -80,7 +80,7 @@ This is the conceptual problem with Rabbi Shimon's position: in every other case
 
 ---
 
-## R. Yehuda Analysis (Treasury vs Altar)
+## R. Yehuda Analysis (II)
 
 ### Treasury vs Altar
 

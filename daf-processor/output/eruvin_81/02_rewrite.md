@@ -238,7 +238,7 @@ The rest of the year, however, the calculus is different. The buyer might prefer
 
 ---
 
-## Biblical Kinyan & Rabbin…
+## Biblical Kinyan & Ra (II)
 
 ### Biblical Kinyan Invoked
 
@@ -258,7 +258,7 @@ The parallel is precise: in both cases, there is a pressing practical interest i
 
 ---
 
-## Biblical Kinyan & Rabb…
+## Biblical Kinyan & Ra (II)
 
 ### Rabbis' Protection Logic
 

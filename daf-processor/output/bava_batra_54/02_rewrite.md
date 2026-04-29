@@ -104,7 +104,7 @@ The Rashbam and Tosafot disagree about what question Rav Pappa is answering. The
 
 One might have thought logically that one would need to traverse both the length and the width — to define the entire two-dimensional space. The resonance with *Avraham Avinu* walking the land *le'orchah ulerochbah* — traversing it lengthwise and widthwise — is suggestive: to take possession of land one walks the whole thing. But the *halacha* as articulated here requires at minimum one full dimension to link the act to the totality of the plot.
 
-## Non-Jew Property
+## Non-Jew Property (III)
 
 ### Desert Principle
 
@@ -126,25 +126,25 @@ Tosafot raises a substantive challenge. Since *kesef* can in principle work for 
 
 Tosafot's answer: *ve'tzarich lomar d'anan sahadi shelo haya beda'ato ela kemoshehu ragil liknot miYisrael dehainu beshtar* — we attest that the buyer's default assumption is that the transaction works the same way it would if he were buying from a Jew, i.e., not concluded until a *shtar* is written. Even though this leaves a gap, and even though *kesef* could theoretically protect him, the force of habit and customary expectation means the buyer does not fully intend to complete the transaction without a *shtar*. Tosafot acknowledges this answer is less satisfying than the question.
 
-## Dina D'Malchusa
+## Dina D'Malchusa (III)
 
 ### Abaye's Challenge
 
 Against this entire framework, Abaye poses a powerful objection to Rav Yosef. *Mi amar Shmuel hachi?* — how could Shmuel possibly have held this position? For Shmuel himself is the author of the famous principle *dina d'malchusa dina* — the law of the kingdom is the law. And the king had explicitly ruled that land does not transfer except with a deed — *lo tikni ara ela be'igarta*. If we follow the law of the secular government, then the non-Jew's ownership does not terminate merely upon receiving money; it terminates only when a deed is issued. And correspondingly, the Jew takes possession precisely when the deed is issued. There is no gap, no ownerless interval, no opening for a third party to seize the land. How, then, can the same Shmuel who taught *dina d'malchusa dina* also teach that this land is available for seizure?
 
-## Non-Jew Property…
+## Non-Jew Property (III)
 
 ### Dura d'Reusa Case
 
 Rav Yosef replies: I cannot resolve the apparent contradiction between Shmuel's two teachings, but here is how I know Shmuel himself held the position that a third party can seize. *Be'uvda d'hava beDura diReusa* — there was an actual case in Dura diReusa (which the Rashbam explains means either a place name or a village of shepherds, from *raya*, shepherd). A Jew purchased land from a non-Jew. A second Jew came and turned over a small amount of that land — *rafik bepurtah*. The case came before Rav Yehuda, a student of Shmuel, and Rav Yehuda awarded the land to the second Jew who had performed the *chazakah*. Since Rav Yehuda was ruling in keeping with his teacher Shmuel, this demonstrates that Shmuel held the third party can acquire.
 
-## Dina D'Malchusa…
+## Dina D'Malchusa (III)
 
 ### Back Taxes Explanation
 
 Abaye responds: *Dura diReusa kamart?* You want to bring a proof from that case? *Hasam bagei d'mitmari havai* — in that case the lands in question were plots being concealed from the government. The original non-Jewish owners had not been paying their back taxes to the king — *de'inhu gufaiyu lo havai yahavi taska lemalchah*. And following the very principle of *dina d'malchusa dina* — which Abaye himself insists must govern — the king had declared: *man d'yahiv taska lachol ara* — whoever pays the outstanding taxes on a piece of land may claim it. The second Jew, therefore, was not seizing ownerless property in the *halachic* sense described by Shmuel's ruling. Rather, he was entitled to the land under the law of the king because he stepped forward and paid the back taxes that the non-Jew had failed to pay. The case was a distressed-land situation, akin to tax forfeiture. Abaye's reconstruction of the story thus shows that the entire episode was governed by *dina d'malchusa dina*, not by any *halachic* gap of ownership. Rav Yosef's proof collapses: the two statements of Shmuel remain unreconciled.
 
-## Non-Jew Property……
+## Non-Jew Property (III)…
 
 ### Rav Huna v. Nachman
 
@@ -154,7 +154,7 @@ Here we see the connection back to the earlier discussion in this daf. Shmuel's 
 
 Rav Nachman replied: *baha ana kishmai'atich svira li* — on that question, I rule in accordance with your own teaching, i.e., in the name of Rav: *keivan shenikesh bemakom echad kanah kulah* — a single blow acquires the entire defined field. The result: Rav Nachman ruled against Rav Huna on both counts simultaneously. He ruled that a third party can seize — following Shmuel's *kemidbar* principle — and that one act of *chazakah* acquires the entire field — following Rav, as taught by Rav Huna himself. Rav Huna loses the field entirely.
 
-## Dina D'Malchusa……
+## Dina D'Malchusa (III)…
 
 ### Public vs. Civil Law
 

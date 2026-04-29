@@ -1,6 +1,6 @@
 # Sanhedrin 40 — Daf Yomi Shiur
 
-## Intro: Witness Interrogation Framework
+## Intro: Witness Inte (III)rrogation Framework
 
 > **Hebrew/Aramaic:** מַתְנִי׳ הָיוּ בּוֹדְקִין אוֹתָן בְּשֶׁבַע חֲקִירוֹת: בְּאֵיזוֹ שָׁבוּעַ, בְּאֵיזוֹ שָׁנָה, בְּאֵיזוֹ חוֹדֶשׁ, בְּכַמָּה בַּחֹדֶשׁ, בְּאֵיזֶה יוֹם, בְּאֵיזוֹ שָׁעָה, בְּאֵיזֶה מְקוֹם. רַבִּי יוֹסֵי אוֹמֵר: בְּאֵיזֶה יוֹם, בְּאֵיזוֹ שָׁעָה, בְּאֵיזֶה מָקוֹם.
 >
@@ -8,7 +8,7 @@
 
 The fifth *perek*, *Hayu Bodkin*, opens at the top of Sanhedrin 40a with the *mishnah*. Having dealt in the previous *perek* with the early stages of the court process — accepting witnesses and the general framework of capital proceedings — the *mishnah* here addresses specifically the rules governing the *chakiros* and *drishot*, or *bedikos*: the different types of questions the court must put to witnesses. Some of these questions are mandatory; others are discretionary. Some are sufficiently precise that if the witnesses err in answering them, the entire testimony is disqualified; others leave room for ignorance or even contradiction without invalidating the testimony. Crucially, this framework of *drisha ve-chakira* applies only to *dinei nefashot* — capital cases. As established in the first *perek*, the Rabbis did not apply this regime to *dinei mamonos*, civil suits, not because it would not be required by Torah law but because the rigors of the process would make it impractical for people to resolve monetary disputes. The economic cost of making litigation too cumbersome was a serious concern the Rabbis sought to avoid.
 
-## Seven Chakiros: Time/Place Questions
+## Seven Chakiros: Tim (III)e/Place Questions
 
 ### Seven Questions Listed
 
@@ -98,7 +98,7 @@ For *bedikot*, by contrast, *afilu shenayim omrim ein anu yode'im edutan kayemet
 
 *Echad omer bachamesh ve-echad omer besheva* — one says the fifth hour and the other says the seventh: *edutan beteilah*, even according to Rabbi Yehuda, because *shebachamesh chama bamizrach u-vesheva chama bama'arav* — in the fifth hour the sun is in the east, while by the seventh hour it has already crossed to the western half of the sky. No reasonable person could mistake one for the other, since the sun's position has shifted unmistakably from one side to the other. This marks the outer limit beyond which even Rabbi Yehuda concedes the discrepancy is fatal to the testimony.
 
-## Post-Interrogation Procedure & Deliberation
+## Post-Interrogation P (II)
 
 ### Acquittal Presumption
 
@@ -148,7 +148,7 @@ A judge who previously said guilty may now have been persuaded to say innocent �
 
 This creates a striking catch-22. If on the first day the entire court unanimously found the defendant guilty, and the following day some judges switch to innocent, that switch — although formally permitted — would actually move the verdict from the status of non-execution (since a unanimous guilty verdict results in acquittal) to possible execution. The precise *psak* in such a case is genuinely unclear.
 
-## Voting & Court Expansion
+## Voting & Court Expan (II)
 
 ### No Unanimous Guilt
 

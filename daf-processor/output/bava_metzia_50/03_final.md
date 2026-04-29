@@ -138,7 +138,7 @@ The *Baraita* cited above makes explicit who holds the options and what they are
 
 ---
 
-## Mechilah Timing
+## Mechilah Timing (II)
 
 ### Question Posed
 
@@ -166,7 +166,7 @@ This question about whether *mechila* is automatic or time-limited turns out to 
 
 ---
 
-## R. Tarfon Debate
+## R. Tarfon Debate (II)
 
 ### Parallel Assumption
 
@@ -194,7 +194,7 @@ This immediately raises a problem. If the merchants were attracted to Rabbi Tarf
 
 ---
 
-## Mechilah Timing (cont.)
+## Mechilah Timing (II)
 
 ### Clock Value
 
@@ -206,7 +206,7 @@ The key insight the Gemara now delivers resolves the merchants' seemingly parado
 
 ---
 
-## R. Tarfon Debate (cont.)
+## R. Tarfon Debate (II)
 
 ### Real Preference
 

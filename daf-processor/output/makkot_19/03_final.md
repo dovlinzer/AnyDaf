@@ -1,6 +1,6 @@
 # Makkot 19 — Daf Yomi Shiur
 
-## Bikurim Permissibility
+## Bikurim Permissibil (III)ity
 
 ### Bikurim Timing Question
 
@@ -28,7 +28,7 @@ Rav Sheshes takes a different position: *bikurim — hanachah me'akeves bahen; k
 
 ---
 
-## Ma'aser Sheni Status
+## Ma'aser Sheni Statu (III)
 
 ### Rabbi Ishmael Query
 
@@ -52,7 +52,7 @@ The *baraisa* sets up a logical argument for why *ma'aser sheni* should indeed r
 
 ---
 
-## Bikurim Permissibility…
+## Bikurim Permissibil (III)ity…
 
 ### Bikurim as Proof
 
@@ -64,7 +64,7 @@ The *baraisa* responds by invoking *bikurim* as a counter-proof. *Bikurim* are n
 
 ---
 
-## Ma'aser Sheni Status…
+## Ma'aser Sheni Statu (III)
 
 ### Textual Link Analysis
 
@@ -78,7 +78,7 @@ The *baraisa* therefore turns to a textual source. The verse states: *ve'achalta
 
 ---
 
-## Bikurim Permissibility…
+## Bikurim Permissibil (III)ity…
 
 ### Rav Ashi Challenge
 
@@ -94,7 +94,7 @@ In any event, the operative point is that since there exist cases where *kriyah*
 
 ---
 
-## Ma'aser Sheni Status……
+## Ma'aser Sheni Statu (III)s…
 
 ### Gezeirah Shavah
 

@@ -118,7 +118,7 @@ The reason is not arbitrary. *Ke'Yerushalayim* works because it directs the list
 
 ---
 
-## Ki Yerushalayim…
+## Ki Yerushalayim (II)
 
 ### Braita Strictness
 

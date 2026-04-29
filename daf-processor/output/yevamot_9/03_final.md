@@ -1,6 +1,6 @@
 # Yevamot 9 — Daf Yomi Shiur
 
-## Intro & Ervah Review
+## Intro & Ervah Review (II)
 
 ### Opening & Drashos
 
@@ -10,7 +10,7 @@ The second *drasha* was Rabbi's — more was being read into the *pasuk* of *vel
 
 A further critical point emerged in this context: once the Gemara introduces the concept of *tzarat ervah*, one might reasonably have assumed that the *tzara* prohibition applies even outside the context of *yibum*. If a man's brother dies and one of the brother's wives is an *ervah* to the surviving brother, perhaps the co-wife is also forbidden to him as a *tzarat ervah* even in ordinary circumstances — not merely at the moment of *yibum*. The *pasuk* therefore had to make emphatically clear that *tzarat ervah* is only a category in the context of *yibum*. The logic is that since there is no *mitzvas yibum* with the co-wife of an *ervah*, she falls back under the prohibition of *eshet ach* — at least, that is the most straightforward explanation.
 
-## Rabbi's Drasha
+## Rabbi's Drasha (II)
 
 ### Velakach Veyibmah
 

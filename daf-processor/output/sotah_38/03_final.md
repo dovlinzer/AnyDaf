@@ -90,7 +90,7 @@ A *gezerah shava* resolves the question. *Eileh ya'amdu levarech* — "these sha
 
 ---
 
-## Standing Requirement…
+## Standing Requirement (II)
 
 ### Lesharto Ulevarech
 
@@ -106,7 +106,7 @@ The derivation proceeds as follows: just as priestly service (*sheirut*) must be
 
 ---
 
-## Two Approaches…
+## Two Approaches (II)
 
 ### Rabbi Natan
 
@@ -260,7 +260,7 @@ It is worth noting that these discussions about the *chazzan* calling *kohanim* 
 
 ---
 
-## Rabbi Yehoshua ben Levi
+## Rabbi Yehoshua ben L (II)
 
 ### God's Desire
 
@@ -296,7 +296,7 @@ However, a *kohen* who does not go up on every occasion does not necessarily aro
 
 ---
 
-## Rabbi Yehoshua ben Lev…
+## Rabbi Yehoshua ben L (II)
 
 ### Timing Restriction
 

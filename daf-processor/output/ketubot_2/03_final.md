@@ -104,7 +104,7 @@ The answer is no. *L'kach shaninu besulah niset l'yom ha-revi'i* — that is pre
 
 ---
 
-## Mezonot Application… (Dependency Issue)
+## Mezonot Application (II)
 
 > **Hebrew/Aramaic:** אָמַר רַב יוֹסֵף: מָרֵיהּ דְּאַבְרָהָם! תָּלֵי תַּנְיָא בִּדְלָא תַּנְיָא?! הֵי תַּנְיָא וְהֵי לָא תַּנְיָא? הָא תַּנְיָא וְהָא תַּנְיָא! אֶלָּא: תָּלֵי תַּנְיָא דִּמְפָרֵשׁ טַעְמָא בִּדְתַנְיָא דְּלָא מְפָרֵשׁ טַעְמָא.
 >

@@ -92,7 +92,7 @@ The difficulties are compounded further when one considers the earlier ruling th
 
 ---
 
-## Tashmishei Categories
+## Tashmishei Categorie (II)
 
 ### Mitzvah vs. Kedusha
 
@@ -138,7 +138,7 @@ Rava conceded the point. *Ei hachi lo efshar* — if that is the case, there is 
 
 ---
 
-## Tashmishei Categories…
+## Tashmishei Categorie (II)
 
 ### Worn Wraps Reuse
 

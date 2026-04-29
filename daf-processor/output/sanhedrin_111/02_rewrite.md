@@ -162,7 +162,7 @@ God's response to Moshe is rendered as a kind of mourning for a lost generation:
 
 ---
 
-## Moses Egypt…
+## Moses Egypt (II)
 
 ### Abraham's Test
 

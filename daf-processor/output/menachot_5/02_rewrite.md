@@ -102,7 +102,7 @@ The *Beraita* rules against this approach. Rather than stirring the blood of the
 
 ---
 
-## Metzora Sequence…
+## Metzora Sequence (II)
 
 ### Shechita Status
 

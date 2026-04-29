@@ -1,6 +1,6 @@
 # Menachot 34 — Daf Yomi Shiur
 
-## Doorframe Structure
+## Doorframe Structure (II)
 
 ### Desolate Doors
 
@@ -20,7 +20,7 @@ Rashi, read strictly, would seem to require an actual physical structure — a t
 
 This distinction — physical frame versus shape alone — recurs throughout the *sugya* and will resurface in the discussion of the *akarna* corner door.
 
-## Achsadra & Entrances
+## Achsadra & Entrances (II)
 
 ### Achsadra Structure
 

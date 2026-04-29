@@ -122,7 +122,7 @@ This explains why Ravina uses *pirsumei nisa* alongside *mitzvas kriya* rather t
 
 ---
 
-## Vocabulary Digressions
+## Vocabulary Digressio (II)
 
 ### Rare Hebrew Words
 
@@ -158,7 +158,7 @@ What is striking in all three cases is that the maidservant of Rabbi's household
 
 ---
 
-## Reading Continuity
+## Reading Continuity (III)
 
 ### Seirugin Breaks
 
@@ -170,7 +170,7 @@ Now that we understand *seirugin*, the Gemara returns to the ruling itself: *kar
 
 ---
 
-## Vocabulary Digressions…
+## Vocabulary Digressio (II)
 
 ### More Vocabulary
 
@@ -180,7 +180,7 @@ The word *metateh* — broom, and the verb *le-tate*, to sweep — from the vers
 
 ---
 
-## Reading Continuity…
+## Reading Continuity (III)
 
 ### Rav Mona Measure
 
@@ -238,7 +238,7 @@ The *Shulchan Aruch* formulation: *tzarich she-tehei ktuvah kulah lefanav le-cha
 
 ---
 
-## Reading Continuity…
+## Reading Continuity (III)
 
 ### Serussin Out of Order
 

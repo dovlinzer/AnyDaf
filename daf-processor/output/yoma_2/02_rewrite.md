@@ -1,6 +1,6 @@
 # Yoma 2 — Daf Yomi Shiur
 
-## Masechet Organization
+## Masechet Organizatio (II)
 
 ### Welcome & Overview
 
@@ -16,7 +16,7 @@ Once you have the three *masechtot* of *Yoma*, *Sukkah*, and *Rosh Hashanah*, it
 
 ---
 
-## Kohen Gadol Separation
+## Kohen Gadol Separati (II)
 
 ### Seven-Day Separation
 
@@ -24,7 +24,7 @@ The *masechet* opens: *shivat yamim kodem Yom HaKippurim mafrishin kohen gadol m
 
 ---
 
-## Masechet Organization…
+## Masechet Organizatio (II)
 
 ### Eight Perakim Structure
 
@@ -34,7 +34,7 @@ A comparable structure appears in *Masechet Shabbat*, where six *perakim* deal w
 
 ---
 
-## Kohen Gadol Separation…
+## Kohen Gadol Separati (II)
 
 ### Substitute Kohen
 

@@ -120,7 +120,7 @@ There is a related question about the *kinyan kaspo* derivation. The verse reads
 
 ---
 
-## Simpon & Defect…
+## Simpon & Defect (II)
 
 ### 12 Mo. vs Chupah
 

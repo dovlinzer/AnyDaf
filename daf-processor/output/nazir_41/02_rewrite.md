@@ -42,7 +42,7 @@ The answer comes from the juxtaposition of two verses concerning *tzitzit* and *
 
 For the present discussion, however, the more immediately operative point is this: the *gemara* notes that for Rabbi Eliezer, both the override of the beard prohibition — which involves the *kohanim*'s *lo ta'aseh* of *lo yegalechu* together with the *aseh* of *kedoshim yihyu* — and the override of the *nazir*'s prohibition — which involves the *lo ta'aseh* of *ta'ar lo ya'avor* together with the *aseh* of *kadosh yihyeh gadel pera* — are cases of overriding a *lo ta'aseh* reinforced by an *aseh*, which represents a more difficult obstacle than a bare *lo ta'aseh* alone. *Tosafot* points out that precisely because Rabbi Eliezer uses both of his *drashos* to overcome the harder case, he must already know the basic principle from *tzitzit* and *shatnez* that an *aseh* overrides even a simple *lo ta'aseh*. The *drashos* by *rosho* and *zekano* then extend that principle to the harder cases — where both a prohibition and a positive commandment stand on the other side.
 
-## Rosho and Zekano Analysis
+## Rosho and Zekano Ana (II)
 
 ### Rosho Sideburns Issue
 
@@ -68,7 +68,7 @@ Now suppose the reverse: the Torah had written only *rosho* and not *zekano*. Fr
 
 This is the crucial asymmetry. For the *Rabbanan*, the reason that *zekano* proves the *metzora* must use a razor is that the beard prohibition is specifically and exclusively a razor prohibition. When the Torah declares that the *metzora* overrides the beard prohibition, and we know that prohibition exists only in the case of a razor, then the override can only be invoked if there is no alternative — which means the *metzora mitzvah* must be performed with a razor. But the sideburn prohibition, as we shall see, is broader than just the razor. If I had only *rosho* and tried to infer the *metzora*'s razor requirement from the override of the sideburns, I would fail — because the sideburn prohibition encompasses more than the razor, the override of it does not prove that the *metzora* must use a razor. Hence *zekano* is indispensable for establishing the razor requirement. And *rosho* is indispensable for establishing both that the sideburns themselves must be shaved and that *hakafat kol harosh* is a real prohibition. *Tzrichi* — both are needed.
 
-## Rosho and Zekano Analy…
+## Rosho and Zekano Ana (II)
 
 ### Sideburns Broader Scope
 

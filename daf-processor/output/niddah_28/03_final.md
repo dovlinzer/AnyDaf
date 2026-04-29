@@ -178,7 +178,7 @@ If, however, she gave birth to a *tumtum* and a female, or an *androgynus* and a
 
 ---
 
-## Tumtum Birth…
+## Tumtum Birth (II)
 
 ### Twin Gender
 

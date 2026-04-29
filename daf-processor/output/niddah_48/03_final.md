@@ -148,7 +148,7 @@ The most ambiguous phrase in the *braita* is *v'khein sheben v'khein shebas* —
 
 ---
 
-## 30-Day Standard…
+## 30-Day Standard (II)
 
 ### Rav's Response
 
@@ -160,7 +160,7 @@ Rav's resolution of the apparent contradiction between *me'et le'et* and the *br
 
 ---
 
-## Me'et Le'et Sources…
+## Me'et Le'et Sources (II)
 
 ### Abaye's Clarity
 

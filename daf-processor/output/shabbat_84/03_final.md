@@ -184,7 +184,7 @@ Rabbi Ila's implicit challenge, however, is this: if a mat cannot be purified in
 
 ---
 
-## Mikveh & Midras…
+## Mikveh & Midras (II)
 
 ### Back Door Entry
 
@@ -200,7 +200,7 @@ How, then, do these little vessels become *tamei* at all? Through a *met* — a 
 
 ---
 
-## Mat & Midras…
+## Mat & Midras (II)
 
 ### Rabbi Chanina's Answer
 

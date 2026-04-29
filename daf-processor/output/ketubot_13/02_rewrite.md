@@ -116,7 +116,7 @@ The same Tannaitic debate recurs with the same formulations. Rabban Gamliel and 
 
 ---
 
-## Seen with Man…
+## Seen with Man (II)
 
 ### Medaberet Definition
 

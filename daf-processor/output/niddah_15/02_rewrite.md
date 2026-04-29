@@ -82,7 +82,7 @@ Rabbi Yehuda ben Dosa in the name of Rabbi Yochanan ben Zakai goes to the opposi
 
 ---
 
-## Source Conflict…
+## Source Conflict (II)
 
 ### Gemara's Kashya
 
@@ -142,7 +142,7 @@ The *mishnah* adds: *ha-ba min ha-derech* — one who returns from a journey —
 
 ---
 
-## No Taharot Status…
+## No Taharot Status (II)
 
 ### Check vs. Hetter
 
@@ -150,7 +150,7 @@ Returning to the *mishnah* of *kol ha-nashim*, a second interpretive layer emerg
 
 ---
 
-## Returning Husband…
+## Returning Husband (II)
 
 ### Wife Would Inform
 

@@ -76,7 +76,7 @@ Tosafot raises a difficulty with this: the *chazakah* is being performed on the 
 
 ---
 
-## Wine & Oil: Possession
+## Wine & Oil: Possessi (II)
 
 ### Filled Vessel = Possession
 
@@ -98,7 +98,7 @@ Tosafot objects: if the *mishna* were simply establishing that the middleman buy
 
 ---
 
-## Oil Measures & Drops
+## Oil Measures & Drops (II)
 
 ### Three Drops Rule
 
@@ -116,7 +116,7 @@ The *mishna* adds two further qualifications. A storekeeper — *chanvani* — i
 
 ---
 
-## Wine & Oil: Possession (Continued)
+## Wine & Oil: Possessi (II)
 
 ### Vessel Ownership Question
 
@@ -138,7 +138,7 @@ The *gemara* then raises a difficulty from the *mishna* itself: the *mishna*'s n
 
 ---
 
-## Oil Measures & Drops (Continued)
+## Oil Measures & Drops (II)
 
 ### Rabbi Elazar's Inquiry
 

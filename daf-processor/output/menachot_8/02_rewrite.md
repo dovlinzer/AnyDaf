@@ -1,6 +1,6 @@
 # Menachot 8 — Daf Yomi Shiur
 
-## Kometz & Vessel Holding
+## Kometz & Vessel Hold (II)
 
 ### Rava: Ground Vessel OK
 
@@ -34,7 +34,7 @@ The relevance of this dispute to Rava's earlier position becomes clear when we t
 
 ---
 
-## Kometz Two Vessels…
+## Kometz Two Vessels (II)
 
 ### Rava Reverses
 
@@ -46,7 +46,7 @@ Having established that Rava reverses to align with the blood analogy, the Gemar
 
 ---
 
-## Kometz & Vessel Holdin…
+## Kometz & Vessel Hold (II)
 
 ### Learn or Not?
 

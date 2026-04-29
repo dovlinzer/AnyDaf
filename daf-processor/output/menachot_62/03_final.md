@@ -48,7 +48,7 @@ Rav Yoshiya immediately raises what is the natural challenge to this ruling. We 
 
 ---
 
-## Women Excluded…
+## Women Excluded (II)
 
 ### Gemara Response
 
@@ -72,7 +72,7 @@ What seems to be reflected here is a broader sociological reality of the *beit h
 
 ---
 
-## Owners & Kohanim…
+## Owners & Kohanim (II)
 
 ### Semicha vs Tenufah
 

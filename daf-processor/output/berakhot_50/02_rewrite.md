@@ -148,7 +148,7 @@ The placement of this *halacha* at the end of the chapter on *zimun* is noted as
 
 ---
 
-## Zimun Participation…
+## Zimun Participation (II)
 
 ### Three From Three Groups
 

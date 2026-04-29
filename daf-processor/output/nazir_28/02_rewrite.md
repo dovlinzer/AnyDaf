@@ -154,7 +154,7 @@ If the first animal slaughtered had been the *olah* or the *shelamim*, Rabbi Aki
 
 ---
 
-## Tamei & Shaving…
+## Tamei & Shaving (II)
 
 ### Wig Debate
 

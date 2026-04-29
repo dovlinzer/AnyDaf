@@ -218,7 +218,7 @@ This position is then challenged by all the same verses that challenged Rabbi El
 
 ---
 
-## Philistine Cows Problem
+## Philistine Cows Prob (II)
 
 ### Offspring Evidence
 
@@ -230,7 +230,7 @@ The Philistine cows present a specific difficulty that the three-year answer can
 
 ---
 
-## Age Threshold…
+## Age Threshold (II)
 
 ### Case Resolution
 
@@ -242,7 +242,7 @@ The Gemara's initial response to the Philistine cow problem is the same answer i
 
 ---
 
-## Philistine Cows Proble…
+## Philistine Cows Prob (II)
 
 ### Bechor Status
 

@@ -202,7 +202,7 @@ The upshot is as follows. Rav has two criteria that apply universally: the servi
 
 ---
 
-## Menorah & Avodah Test
+## Menorah & Avodah Tes (II)
 
 ### Menorah Steps
 
@@ -246,7 +246,7 @@ The Rambam draws out the full implications of the Gemara's analysis. He rules th
 
 ---
 
-## Menorah & Avodah Test…
+## Menorah & Avodah Tes (II)
 
 ### Light vs. Burning
 
@@ -254,7 +254,7 @@ The Gemara's resolution of the *menorah* paradox turns on a fundamental distinct
 
 ---
 
-## Rambam Synthesis…
+## Rambam Synthesis (II)
 
 ### Non-Kohen May Light
 
@@ -282,7 +282,7 @@ Having established that the *hatzatat alita* (kindling the altar-twigs) is an *a
 
 ---
 
-## Wood-Stacking Test…
+## Wood-Stacking Test (II)
 
 ### Two Interpretations
 

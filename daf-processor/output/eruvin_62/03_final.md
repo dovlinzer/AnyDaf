@@ -264,7 +264,7 @@ The *gemara* resolves this: *hatam de-ati beyomei* — that case concerns a situ
 
 Having established the theoretical framework, the *gemara* turns to *pesak*. *Amar Rav Yehuda amar Shmuel halachah ke-Rabbi Eliezer ben Yaakov* — Rav Yehuda rules in the name of Shmuel that the *halachah* follows Rabbi Eliezer ben Yaakov. This is a leniency: the problem arises only with two Jewish residents, not one.
 
-## Paskening Before Rebbe
+## Paskening Before Reb (II)
 
 ### Abaye Asks
 
@@ -274,7 +274,7 @@ Having established the theoretical framework, the *gemara* turns to *pesak*. *Am
 
 Abaye poses a question to Rav Yosef: *kaima lan mishnat Rabbi Eliezer ben Yaakov kav ve-naki* — it is a standing principle that the teaching of Rabbi Eliezer ben Yaakov is like a sifted measure of grain: compact, precise, and authoritative. Furthermore, Rav Yehuda explicitly rules in the name of Shmuel that the *halachah* follows him. One might add that the principle *halachah ke-divrei ha-meikel be-eruv* — in matters of *eruvin*, we follow the lenient opinion — points in the same direction. Given all this, Abaye asks: *mahu le-oruyei bimkom rabbo* — is it permitted to render this ruling in the presence of one's *rebbe*?
 
-## Rulings Summary…
+## Rulings Summary (II)
 
 ### Minhag View
 
@@ -292,7 +292,7 @@ Before turning to Rav Yosef's response, the *gemara* notes two additional positi
 
 Rabbi Yochanan formulates it differently: *nahagu* ke-Rabbi Eliezer ben Yaakov — people practice in accordance with Rabbi Eliezer ben Yaakov. This is a weaker endorsement: Rabbi Yochanan might personally prefer a different *psak*, but since the practice has become widespread, he does not intervene to overturn it. If asked directly for a ruling, he would give a stricter answer; but he accepts the established practice as a fait accompli.
 
-## Paskening Before Rebbe…
+## Paskening Before Reb (II)
 
 ### Yosef Answers
 

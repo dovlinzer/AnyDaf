@@ -158,7 +158,7 @@ Rashi explains that under this model, the slave himself is entirely unsanctified
 
 ---
 
-## Holiness Debate
+## Holiness Debate (II)
 
 ### All Agree Holy
 
@@ -192,7 +192,7 @@ The question about hair — *se'ar ha'omed ligzoz* — arises because hair that 
 
 ---
 
-## Holiness Debate
+## Holiness Debate (II)
 
 ### Grapes Analogy
 

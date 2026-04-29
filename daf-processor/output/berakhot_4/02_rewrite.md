@@ -140,7 +140,7 @@ How then does שֶׁמָּא יִגְרוֹם הַחֵטְא work? The case of Y
 
 ---
 
-## Chatzos as Rabbinic Fence
+## Chatzos as Rabbinic (II)
 
 ### Chatzos Fits Neither
 
@@ -148,7 +148,7 @@ How then does שֶׁמָּא יִגְרוֹם הַחֵטְא work? The case of Y
 
 ---
 
-## Chatzos as Rabbinic Fe…
+## Chatzos as Rabbinic (II)
 
 ### Fence Against Aveirah
 

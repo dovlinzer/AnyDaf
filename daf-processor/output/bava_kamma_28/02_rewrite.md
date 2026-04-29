@@ -210,7 +210,7 @@ Shmuel adds a clarification: *v'hani milei le'inyan ketala* — the exemption fo
 
 Thus Shmuel's reading of the *mishna* is necessarily about personal injury, not about damaged garments. Since the water is always *bor*, and *bor* is exempt for vessel damage, the *mishna*'s case of liability must refer to the person being injured — falling on the ground after slipping on the water. And Shmuel holds that even though the ground inflicted the actual injury — *karka olam* — liability still attaches, because the *bor* created the hazard that caused the fall.
 
-## Water: Shor or Bor?…
+## Water: Shor or Bor? (II)
 
 ### Mafkir Determination
 

@@ -58,7 +58,7 @@ The Rashbam articulates this reasoning precisely. His concern is that one might 
 
 ---
 
-## Rabbi vs. Rabbanan
+## Rabbi vs. Rabbanan (II)
 
 ### Attribution to Rabbi
 
@@ -118,7 +118,7 @@ Rabbeinu Tam offers an alternative reading of this case. He suggests that the *b
 
 ---
 
-## Rabbi vs. Rabbanan (continued)
+## Rabbi vs. Rabbanan (II)
 
 ### Rabbanan Limit
 
@@ -156,7 +156,7 @@ On this point Rabbi and the *rabbanan* divide. Rabbi maintains that even transfo
 
 ---
 
-## Psak Halacha Authority
+## Psak Halacha Authori (II)
 
 ### Both Legitimate
 
@@ -200,7 +200,7 @@ Rava stakes out a position between the extremes: *assur la'asot k'divrei Rabbi* 
 
 ---
 
-## Books of Beit Rav
+## Books of Beit Rav (II)
 
 ### Midrashei Halacha ID
 

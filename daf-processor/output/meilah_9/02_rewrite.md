@@ -108,7 +108,7 @@ This difference in the underlying level of *kedushah* explains a further point: 
 
 ---
 
-## Me'ilah Restitution…
+## Me'ilah Restitution (II)
 
 ### Rava: Timing of Awareness
 

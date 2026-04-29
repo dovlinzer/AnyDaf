@@ -1,6 +1,6 @@
 # Kiddushin 59 — Daf Yomi Shiur
 
-## Agent Acts for Himself
+## Agent Acts for Himse (II)
 
 ### Mishnah Case
 
@@ -28,7 +28,7 @@ As for the *mishnah* itself, the *gemara* notes that although it does not explic
 
 ---
 
-## Agent Acts for Himself…
+## Agent Acts for Himse (II)
 
 ### Friend vs. Agent
 
@@ -44,7 +44,7 @@ The broader point is that the nature of the relationship — whether the person 
 
 ---
 
-## Rama'ut Discussion…
+## Rama'ut Discussion (II)
 
 ### Rabin Chasida Story
 

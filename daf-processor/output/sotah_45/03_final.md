@@ -256,7 +256,7 @@ Abaye responds by analogy to the sheaf *baraita*: the case of the sheaf placed o
 
 ---
 
-## Exposure & Location…
+## Exposure & Location (II)
 
 ### Ba'Sadeh Requirement
 

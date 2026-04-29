@@ -38,7 +38,7 @@ The *Rosh* here explains: *dichtiv v'ini otah d'mashma she-makkir ha-ishah ha-no
 
 ---
 
-## Explicit vs. Internal
+## Explicit vs. Interna (II)
 
 ### Keriah Wrong Person
 
@@ -110,7 +110,7 @@ The combined teaching of this section is therefore: first, *keriah* need not be 
 
 ---
 
-## Explicit vs. Internal…
+## Explicit vs. Interna (II)
 
 ### Keriah Before Death
 
@@ -118,7 +118,7 @@ The most extreme and philosophically difficult implication of *Rav Ashi*'s rulin
 
 ---
 
-## Toch Kedei Dibur…
+## Toch Kedei Dibur (II)
 
 ### Pre-Condition Problem
 

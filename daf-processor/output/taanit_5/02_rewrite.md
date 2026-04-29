@@ -54,7 +54,7 @@ Rabbi Meir derives this from the verse in *Yoel*: *ve'yored lachem geshem moreh 
 
 ---
 
-## Yoreh in Nisan Problem
+## Yoreh in Nisan Probl (II)
 
 ### Early Rain in Nisan?
 
@@ -100,7 +100,7 @@ The Gemara links this to the verse: *ha'zor'im be'dimah be'rinah yiktzoru* — t
 
 ---
 
-## Aggadic Dialogue Series
+## Aggadic Dialogue Ser (II)
 
 ### Famine Food Sources
 
@@ -108,7 +108,7 @@ Rav Nachman said to Rav Yitzchak: *mai de'chtiv, ki kara Hashem la'ra'av ve'gam 
 
 ---
 
-## Yoreh in Nisan Problem…
+## Yoreh in Nisan Probl (II)
 
 ### Seven-Year Famine
 
@@ -116,7 +116,7 @@ This question concerns the miraculous seven-year famine — a period of total ag
 
 ---
 
-## Aggadic Dialogue Serie…
+## Aggadic Dialogue Ser (II)
 
 ### Consumption Progression
 

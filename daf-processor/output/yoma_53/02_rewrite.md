@@ -70,7 +70,7 @@ The background is the verse *v'al yavo b'chol et el hakodesh... v'lo yamut*, fro
 
 ---
 
-## Ki BeAnan Erah…
+## Ki BeAnan Erah (II)
 
 ### Two Verses
 
@@ -96,7 +96,7 @@ There is something deeply meaningful here. The encounter with God that the *keto
 
 ---
 
-## Death Penalty…
+## Death Penalty (II)
 
 ### When Applies
 

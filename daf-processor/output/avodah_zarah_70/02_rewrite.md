@@ -150,7 +150,7 @@ Rashi adds a further consideration: she is a young girl. There was a prior discu
 
 ---
 
-## Thieves & Troops…
+## Thieves & Troops (II)
 
 ### Troop Barrels
 

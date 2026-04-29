@@ -30,13 +30,13 @@ The textual derivation itself warrants attention. The *Torah* states the general
 
 Rava has now established that *megilla* surpasses *avodah* and *Talmud Torah*, and that *mes mitzvah* similarly surpasses *avodah* and *Talmud Torah*. The one relationship left unresolved is that between *mikra megilla* and *mes mitzvah*. So *baei Rava* — Rava poses the question: *mikra megilla umes mitzvah hai minaihu adif* — which of these two takes precedence? Given the extraordinary weight assigned to *mes mitzvah* throughout the preceding discussion, it would seem difficult to argue that *megilla* could outweigh it. Yet the answer is not foregone.
 
-## Hierarchy: Megilla…
+## Hierarchy: Megilla (II)
 
 ### Pirsumei Nisa
 
 The *Gemara* now articulates for the first time the principle underlying *megilla*'s remarkable weight: *mikra megilla adif mishum pirsumei nisa* — reading the *megilla* takes precedence because of the publicizing of the miracle. This is an important point that extends beyond the *megilla* itself. The concern is not merely that a *mitzvah* be performed, but that everyone actively participates together — for the sake of *pirsumei nisa*, the public proclamation of the miracle. And this may well explain what we observed on the previous daf: why the *kohanim* leave the *Beis HaMikdash*, why the *yeshiva* students leave the *beis medrash*. The demand is not just to read the *megilla* privately at a convenient time. It is that everyone comes together, because the essence of the *mitzvah* is the communal act of publicizing the miracle. Perhaps, then, this same logic would cause *megilla* to override even *mes mitzvah*.
 
-## Met Mitzvah Debate…
+## Met Mitzvah Debate (II)
 
 ### Kevod Habriyot
 

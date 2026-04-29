@@ -76,7 +76,7 @@ As with the *arel* and *onen*, the *Gemara* makes clear that the *yoshev* who pe
 
 ---
 
-## Baal Mum
+## Baal Mum (III)
 
 ### Rebbi's View
 
@@ -124,7 +124,7 @@ The *mishna* also addresses the case of *zommei bat kohen u-vo'alah* — conspir
 
 ---
 
-## Baal Mum…
+## Baal Mum (III)
 
 ### Blemish Source
 
@@ -136,7 +136,7 @@ Returning now to *baal mum*: what is the source for Rebbi's position that a blem
 
 ---
 
-## Baal Mum……
+## Baal Mum (III)…
 
 ### Psul HaGuf
 
@@ -178,7 +178,7 @@ The next case is *me'ila* — the misappropriation of or deriving benefit from s
 
 ---
 
-## Me'ilah…
+## Me'ilah (II)
 
 ### Cheit Comparison
 

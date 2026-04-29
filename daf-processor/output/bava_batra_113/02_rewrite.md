@@ -58,7 +58,7 @@ An important observation: *Tosafos* raises a striking point about the earlier at
 
 *Tosafos* himself, however, is uncomfortable with this explanation in the present context. The continuation of the Gemara — in which the objection *tarveihu ish kesiv behu* is raised precisely because both verses contain *ish* — suggests that the Sages knew the texts perfectly well. The *Rashbam* offers a more refined reading: the *amoraim* were not claiming that the word *ish* or *yidbeku* was absent from the other verse. Rather, they were pointing to these words as sufficient grounds to identify the *achair* verse as referring to the husband. The Gemara's response was not "you are wrong about what this word means" but rather "given that the same word appears in both verses, you have not explained why you begin with this verse and allow the other to refer to something else." The final answer — the word *achair* — works because it appears in one verse only, providing an asymmetric signal that anchors one verse to the husband and leaves the other for the son.
 
-## Husband: Ra'uy Exclusion
+## Husband: Ra'uy Exclu (II)
 
 ### Ra'uy vs. Muchzak
 
@@ -90,7 +90,7 @@ A parallel case is derived from the book of Yehoshua: *veElazar ben Aharon met v
 
 The Gemara asks why both cases are necessary — could we not have learned the rule from Ya'ir alone? It answers that without the Pinchas case, one might have thought the peculiar distribution in Ya'ir's case was because his cities came through his wife's own direct property, not through a grandfather's estate descending after her death. The Pinchas case rules out that alternative reading. Similarly, one might have thought the Pinchas case involved property consecrated to *hekdesh* and released under unusual circumstances — *sedeh charamim* — rather than through the ordinary *rauy* mechanism. The verse in the Pinchas case uses the word *bno* — "his son" — and the Gemara reads this as emphatic: it is the property that Elazar might have been entitled to, yet it went to *bno*, his son, and not to him. Together the two cases close off alternative explanations and establish firmly that *rauy* passes to the biological heir, not to the husband.
 
-## Husband: Ra'uy Exclusi…
+## Husband: Ra'uy Exclu (II)
 
 ### Tosafos: Connection Seve…
 

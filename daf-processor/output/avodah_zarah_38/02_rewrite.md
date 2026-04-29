@@ -172,7 +172,7 @@ Rabba bar bar Chana says this was done forty years after the practice emerged fr
 
 ---
 
-## Beverages & Boiled Food
+## Beverages & Boiled F (II)
 
 ### Kusfan Vessel Size
 
@@ -208,7 +208,7 @@ Tosafot addresses this with a principle of *sfek sfeka* — double doubt. The fi
 
 ---
 
-## Beverages & Boiled Foo…
+## Beverages & Boiled F (II)
 
 ### Boiled Dates
 

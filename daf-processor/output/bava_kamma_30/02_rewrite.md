@@ -148,7 +148,7 @@ The term *mekalkel* — literally, one who ruins or corrupts — is significant.
 
 ---
 
-## Principle/Profit Debate
+## Principle/Profit Deb (II)
 
 ### Mekalkel Definition
 
@@ -160,7 +160,7 @@ This framing raises an honest difficulty. The straw itself is the immediate haza
 
 ---
 
-## Straw/Hay & Rights…
+## Straw/Hay & Rights (II)
 
 ### Rabbi Yehuda Rights
 
@@ -198,7 +198,7 @@ A further question is then raised: *le'altar kansinan* — if it is something th
 
 ---
 
-## Principle/Profit Debat…
+## Principle/Profit Deb (II)
 
 ### Usurious Loans
 

@@ -170,7 +170,7 @@ If Rabbi Eliezer's reason were purely textual — anchored in the verse *daber e
 
 ---
 
-## Final Resolution…
+## Final Resolution (II)
 
 ### Only R. Eliezer
 

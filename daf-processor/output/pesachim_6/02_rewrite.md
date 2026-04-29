@@ -162,7 +162,7 @@ Rashi makes a striking observation. Why is it that if one intends to return, one
 
 ---
 
-## Bitul after bedika…
+## Bitul after bedika (II)
 
 ### Issur hana'ah paradox
 
@@ -170,7 +170,7 @@ This raises what is truly a striking conceptual difficulty. On *Pesach* itself, 
 
 ---
 
-## Timing of bi'ur…
+## Timing of bi'ur (II)
 
 ### Lav hanitak la'aseh
 
@@ -224,7 +224,7 @@ What runs beneath this entire discussion is a striking intellectual honesty abou
 
 ---
 
-## Bitul after bedika…
+## Bitul after bedika (II)
 
 ### Bitul necessity
 

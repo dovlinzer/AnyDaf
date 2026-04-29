@@ -314,7 +314,7 @@ Rabbi Yehuda ben Bava distinguishes between Jews and non-Jews. Regarding a non-J
 
 ---
 
-## Intention Narrowed
+## Intention Narrowed (II)
 
 ### Rav Yehuda
 

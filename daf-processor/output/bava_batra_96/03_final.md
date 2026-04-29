@@ -30,13 +30,13 @@ The ambiguity of the *baraita*'s language opens a dispute between *Rabbi Yochana
 
 The critical empirical assumption is that wine does not turn to vinegar instantaneously. The process of souring (*reicha chala, ta'ama chamra* — smells like vinegar, tastes like wine) is a transitional phase that takes approximately three days to complete, after which the wine tastes like vinegar as well. This transitional phase is the crux of the dispute.
 
-## Grape Drink Blessings
+## Grape Drink Blessing (II)
 
 ### Tasting Tevel Issue
 
 Before proceeding to the opinions of *Rabbi Yochanan* and *Rabbi Yehoshua ben Levi*, an interesting procedural question arises regarding the *baraita* itself. *Rashbam* raises the difficulty: how did one taste the barrel in the first place, given that before *terumah* is separated, the barrel has the status of *tevel* — untithed produce — which may not be eaten? His answer is that the taster would separate a tiny amount, designate its *terumah*, and then taste it. *Tosafot*, by contrast, suggests that no actual tasting occurred at all: the barrel was examined by smell alone. As we noted at the outset, this is precisely the condition of *kosa deshotah* — that one may detect the early stages of souring through smell before it manifests in taste — which makes smell a legally operative mode of assessment.
 
-## Souring Wine Status…
+## Souring Wine Status (II)
 
 ### R. Yochanan Position
 
@@ -132,7 +132,7 @@ One might ask: what about wine that sours on day four? If it takes three days fo
 
 The *gemara* concludes: *hilchata kavatei d'Shmuel* — the *halacha* follows *Shmuel*, whether the case involves beer or wine. Even if wine turns to vinegar within the first three days, the buyer cannot claim *mekach taut*. Both *Rashbam* and *Tosafot* note that the *gemara*'s case assumed the buyer tasted the wine at the time of purchase and found it acceptable. The practical application of this ruling in contemporary settings is naturally subject to the underlying factual assumptions — how long spoilage takes, what effect transport has, and whether the original tasting was a reliable indicator of quality.
 
-## Grape Drink Blessings…
+## Grape Drink Blessing (II)
 
 ### Baraita: Beverages
 

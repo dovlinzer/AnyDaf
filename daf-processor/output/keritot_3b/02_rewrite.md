@@ -176,7 +176,7 @@ The *gemara* then asks: given that both scenarios exist, why did the *mishnah* l
 
 ---
 
-## Shabbat Case…
+## Shabbat Case (II)
 
 ### Avodah Zarah
 

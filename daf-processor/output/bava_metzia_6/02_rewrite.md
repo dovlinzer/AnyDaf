@@ -24,7 +24,7 @@ The Gemara now presses this directly: *ve-neima migo de-chashid amamona, chashid
 
 The Gemara answers: *lo amrinan migo de-chashid amamona chashid ashvuata.* We do not say that because one is suspect for monetary wrongdoing he is therefore suspect for false oath-taking. The principle is stated clearly: suspicion of monetary transgression does not carry over into suspicion regarding *shvuah*. The reasoning behind this principle is taken up immediately in the next section.
 
-## Purpose of Shvuah…
+## Purpose of Shvuah (II)
 
 ### Tosafot reasoning
 
@@ -34,7 +34,7 @@ Tosafot's second answer is also significant: the *shvuah* can be effective speci
 
 So to summarize: a *shvuah* can be effective for a knowing would-be thief either because people generally regard false oaths as far weightier than monetary transgressions, or more specifically because the oath reaches the person before he has fully crossed the line into confirmed *gazlanut*.
 
-## Oath & knowing thief…
+## Oath & knowing thief (II)
 
 ### Modeh b'miktzat
 

@@ -100,7 +100,7 @@ An additional provision follows: *im hayah makiran* — if the person who gave t
 
 ---
 
-## Defective Coins…
+## Defective Coins (II)
 
 ### Coins vs. Wares
 
@@ -156,7 +156,7 @@ An additional Gemara observation notes that a *dinar* can in some cases originat
 
 ---
 
-## Disposal of Bad Coins
+## Disposal of Bad Coin (II)
 
 ### Anti-Fraud Rules
 
@@ -170,7 +170,7 @@ Rabbi Elazar (cited also in the name of Rav Huna citing Rabbi Elazar) reconciles
 
 ---
 
-## Coin Use Limits…
+## Coin Use Limits (II)
 
 ### Abaye vs. Rava
 
@@ -188,7 +188,7 @@ The *baraita*'s phrase *pachat mikan issar assur* — once it goes an *issar* be
 
 ---
 
-## Disposal of Bad Coins…
+## Disposal of Bad Coin (II)
 
 ### Piercing Method
 

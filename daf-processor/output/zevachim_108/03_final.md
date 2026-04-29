@@ -230,7 +230,7 @@ The Gemara presses Rabbi Yosi HaGlili: even without *migu*, is not *tumas haguf*
 
 ---
 
-## Stringencies
+## Stringencies (III)
 
 ### Shchita Stringent
 
@@ -272,7 +272,7 @@ The *mishnah* then addresses the case where one places multiple limbs or pieces 
 
 ---
 
-## Stringencies…
+## Stringencies (III)
 
 ### Source: Ish Ish
 
@@ -284,7 +284,7 @@ The Gemara returns to ground the differential treatment of slaughter and offerin
 
 ---
 
-## Stringencies……
+## Stringencies (III)…
 
 ### Partnership & Divine
 
@@ -334,7 +334,7 @@ The further question *v'ela l'Hashem lamah li* — why does the verse require th
 
 ---
 
-## Multiple Offerings…
+## Multiple Offerings (II)
 
 ### Resh Lakish
 

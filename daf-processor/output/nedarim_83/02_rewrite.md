@@ -118,7 +118,7 @@ The gemara then presses the logic of the mishnah. If the husband cannot annul be
 
 ---
 
-## Benefit from All…
+## Benefit from All (II)
 
 ### Three Positions
 

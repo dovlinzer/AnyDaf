@@ -338,7 +338,7 @@ The *gemara* now returns to the verse cited in the story of Rabbi Eliezer: *v'sh
 
 ---
 
-## Divine Support…
+## Divine Support (II)
 
 ### Compassion View
 
@@ -354,7 +354,7 @@ The *gemara* concludes the daf with a teaching of Rabbi Yochanan in the name of 
 
 ---
 
-## Rabbi Yehoshua…
+## Rabbi Yehoshua (II)
 
 ### Eruv Connection
 

@@ -196,7 +196,7 @@ Abaye resolves the tension: Rav's ruling was never intended to address *sheves* 
 
 ---
 
-## Minor Daughter…
+## Minor Daughter (II)
 
 ### Second Challenge
 

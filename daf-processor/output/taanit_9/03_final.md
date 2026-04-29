@@ -202,7 +202,7 @@ The relevance of this *Beraita* to Rav Yochanan's teaching becomes clear. If *pa
 
 ---
 
-## Rebi Student…
+## Rebi Student (II)
 
 ### Three Shepherds
 

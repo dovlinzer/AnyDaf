@@ -110,7 +110,7 @@ Yet this celebrated exchange creates a legal problem. The *mishna* stated that a
 
 ---
 
-## Pigul vs. Shelo Lishmah
+## Pigul vs. Shelo Lish (II)
 
 ### Rava's Resolution
 
@@ -132,7 +132,7 @@ The *Gemara* further notes that the *mishna*'s own language supports this readin
 
 ---
 
-## Pigul Source & Rules
+## Pigul Source & Rules (II)
 
 ### Vayikra 7:18 & Pigul
 
@@ -148,7 +148,7 @@ The *Gemara* understands from this verse that *pigul* applies to everything conn
 
 ---
 
-## Pigul Source & Rules
+## Pigul Source & Rules (II)
 
 ### Which Avodot = Pigul
 
@@ -198,7 +198,7 @@ In summary: two conditions must be met for *pigul* to apply. First, the improper
 
 ---
 
-## Pigul vs. Shelo Lishma
+## Pigul vs. Shelo Lish (II)
 
 ### Pigul & Eating Acts
 

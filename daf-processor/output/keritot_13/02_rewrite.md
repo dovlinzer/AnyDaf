@@ -126,7 +126,7 @@ This makes the infant's *tahara* even more pressing. The *gemara* responds with 
 
 ---
 
-## Tamei Through Food…
+## Tamei Through Food (II)
 
 ### Pras Standard
 
@@ -134,7 +134,7 @@ This double doubt also highlights the conclusion discussed earlier regarding the
 
 ---
 
-## Nursing Mother…
+## Nursing Mother (II)
 
 ### Nine Fluids
 

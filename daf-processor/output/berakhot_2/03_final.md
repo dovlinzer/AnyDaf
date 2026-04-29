@@ -234,7 +234,7 @@ Both are legitimate forms of halakhic knowledge, and they arrive at the same con
 
 ---
 
-## Three Shema Start Times
+## Three Shema Start Ti (II)
 
 ### Poor Man: Bread & Salt
 
@@ -258,7 +258,7 @@ A Tosefta gives yet another formulation. *me'eimatai* מתחילים לקרות 
 
 ---
 
-## Kaparah Lo Me'akva…
+## Kaparah Lo Me'akva (II)
 
 ### Nechemiah: Zecher Ladavar
 
@@ -281,7 +281,7 @@ The answer is that without the second verse, one might argue that the workers in
 
 ---
 
-## Three Shema Start Time…
+## Three Shema Start Ti (II)
 
 ### Ani vs. Kohen: Same Time?
 

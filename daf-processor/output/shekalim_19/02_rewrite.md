@@ -116,7 +116,7 @@ The *gemara* then notes that the *mishnah*'s closing rule — *zeh haklal, holch
 
 ---
 
-## Found Money Jerusalem
+## Found Money Jerusale (II)
 
 ### Sellers' Context
 
@@ -152,7 +152,7 @@ In either case, whether the meat is assumed to be *olah*, *chatat*, or *shelamim
 
 ---
 
-## Outside Jerusalem Meat
+## Outside Jerusalem Me (II)
 
 ### Limb-Piece Distinction
 
@@ -160,7 +160,7 @@ Meat found outside *Yerushalayim* — in the surrounding territory — follows a
 
 ---
 
-## Found Money Jerusalem…
+## Found Money Jerusale (II)
 
 ### Har HaBayit Exception
 
@@ -172,7 +172,7 @@ This remains somewhat puzzling, since even if money is converted quickly upon re
 
 ---
 
-## Found Meat Rules…
+## Found Meat Rules (II)
 
 ### Nosar Concern
 
@@ -186,7 +186,7 @@ Rabbi Yosi demurs: *veya'ot* — is that reading truly compelling? He argues tha
 
 ---
 
-## Outside Jerusalem Meat…
+## Outside Jerusalem Me (II)
 
 ### Strung Meat Exception
 

@@ -156,7 +156,7 @@ And this conclusion feeds directly back into Abaye's challenge to Rabbah: Rav Na
 
 ---
 
-## Rabbah vs. Abaye…
+## Rabbah vs. Abaye (II)
 
 ### Rav Nachman Rules
 

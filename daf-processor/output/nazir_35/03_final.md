@@ -294,7 +294,7 @@ Notably, both structures — *klal u'prat u'klal* and *prat klal u'prat* — arr
 
 ---
 
-## Similarity Requirements
+## Similarity Requireme (II)
 
 ### Single Aspect Suffices
 
@@ -330,7 +330,7 @@ Applied to the laws of the Nazir: under *prat u'klal*, one would include even vi
 
 ---
 
-## Similarity Requirement…
+## Similarity Requireme (II)
 
 ### Vine Products
 

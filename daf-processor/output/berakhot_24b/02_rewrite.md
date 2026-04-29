@@ -116,7 +116,7 @@ The *Gemara* here also introduces an interpretation of Rabbi Yonatan, who reads 
 
 ---
 
-## Excrement Rules
+## Excrement Rules (III)
 
 ### Huna vs. Chisda
 
@@ -172,7 +172,7 @@ The *Gemara* turns to *reiach ra sheyesh lo ikkar* — a bad smell that has a so
 
 ---
 
-## Excrement Rules…
+## Excrement Rules (III)
 
 ### Bad Smell Distance
 
@@ -180,7 +180,7 @@ The *baraita* Rava cites as operative *halacha* also addresses the scenario of *
 
 ---
 
-## Smell Sources…
+## Smell Sources (II)
 
 ### Smell in Air
 
@@ -204,7 +204,7 @@ Rava disagrees: *amar lach hatam bikvi'uta talya milta* — the *metzora* case h
 
 ---
 
-## Excrement Rules……
+## Excrement Rules (III)…
 
 ### Pig Mouth Analogy
 

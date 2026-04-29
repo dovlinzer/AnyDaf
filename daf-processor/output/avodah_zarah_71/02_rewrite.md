@@ -1,6 +1,6 @@
 # Avodah Zarah 71 — Daf Yomi Shiur
 
-## Wine & Non-Jews Intro
+## Wine & Non-Jews Intr (II)
 
 ### Daf Overview
 
@@ -12,13 +12,13 @@ Today's *daf* is 71a. The preceding *dappim* were occupied with the question of 
 
 The *mishna* presents the following case: Jewish workers are employed by a non-Jewish owner. When the time comes to pay their wages, the employer has no cash on hand and offers them a barrel of wine instead. The *mishna* terms this *yayin nesech*, though as a practical matter, the non-Jew would not typically be setting aside wine dedicated to *avodah zarah*. Even *stam yeinam* — the ordinary wine of a non-Jew — is forbidden for benefit, and so the workers cannot simply accept this wine as payment.
 
-## Wine & Non-Jews Intro…
+## Wine & Non-Jews Intr (II)
 
 ### Chametz Tie-In
 
 A notable feature of the upcoming analysis is how it connects to *chametz*-related discussions that have already appeared in this tractate. The question of how to define *bittul* — in particular, whether *chametz* is nullified like other prohibited substances or treated more stringently — has come up before, and the current *daf* will offer another such point of contact. Given that *Pesach* is imminent, this *chametz* tie-in is both appropriate and timely.
 
-## Workers Refuse Wine…
+## Workers Refuse Wine (II)
 
 ### Request Cash
 

@@ -220,7 +220,7 @@ These principles create a practical dilemma illustrated by the following case. T
 
 ---
 
-## Witnesses Standing…
+## Witnesses Standing (II)
 
 ### Half-Sitting Solution
 

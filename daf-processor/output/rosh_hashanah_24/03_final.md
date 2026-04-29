@@ -44,7 +44,7 @@ This physical law is anchored in a *midrashic* teaching. Rabbi Yochanan derives 
 
 The same verse teaches that the sun has also never seen the indentation of the rainbow, *pegimata shel keshet*, for a different reason: *delo limru ovdei chammah girei ka mashdaya* — lest the sun-worshippers say that God is shooting arrows. A rainbow, viewed as an archer's bow, has its concave side facing the direction from which arrows are shot. The Ramban notes that the rainbow's significance as a covenantal sign lies precisely in this reversal: God holds the bow with its concave side facing upward and away, the posture of one who surrenders his weapon, as if to say He will not shoot down upon the earth. The raindrops of the *mabul* may be understood as the arrows — a connection the *gemara* surfaces here, though the precise astronomical relationship between the sun's position and the arc of the rainbow remains a matter for further investigation.
 
-## Moon Directionality…
+## Moon Directionality (II)
 
 ### Summer/Winter
 
@@ -108,7 +108,7 @@ Another *baraita* addresses the case of witnesses who say *re'inuhu v'shuv lo re
 
 Abaye clarifies. The *baraita* is not describing a case where the moon simply set in the ordinary course of events. Rather, *re'inuhu me'aleinu* — they saw it incidentally, in passing — *v'shavnu lir'oto mida'ateinu* — and then returned deliberately, intending to examine it carefully enough to testify — *velo re'inuhu*, and at that point could no longer see it. *Mai ta'ama* — what is the legal concern? *Kuvisha de'eiva b'alma hu d'chaza* — perhaps what they originally glimpsed was merely a rounded cloud. The fact that they could not relocate it when they looked intentionally suggests that the initial sighting was not reliable. Notably, the *gemara* does not require that a witness intend to testify at the moment of sighting — that is a separate discussion arising in *Makkot* and elsewhere. What it does require is that when a witness harbors enough doubt to go back and verify, and verification fails, the original sighting cannot serve as testimony.
 
-## Sanctification Ritual
+## Sanctification Ritua (II)
 
 ### Mekudash Declaration
 
@@ -118,7 +118,7 @@ Abaye clarifies. The *baraita* is not describing a case where the moon simply se
 
 The *gemara* now arrives at the ritual of formal sanctification. *Rosh Beis Din omer mekudash, vechol ha'am onim acharav mekudash mekudash* — the head of the court declares *mekudash*, sanctified, and all those present respond: *mekudash, mekudash*. The significance of this public assent is considerable. The entire thrust of the tractate has been that *Beis Din* holds the power to fix the calendar, rooted in the principle of *asher tikre'u osam* — it is you, the people, who call and designate the festivals. The verbal affirmation of the assembled community is not mere ceremony; it is the enactment of that authority.
 
-## Sanctification Debate…
+## Sanctification Debat (II)
 
 ### Tanna Kamma
 
@@ -128,7 +128,7 @@ The *gemara* now arrives at the ritual of formal sanctification. *Rosh Beis Din 
 
 The *tanna kamma* of the *mishnah* holds that the sanctification declaration is performed regardless of whether the moon was seen in its time — that is, whether the previous month was a short twenty-nine-day month or a long thirty-day month. Even when the thirtieth day arrives and it is self-evidently *Rosh Chodesh* without any sighting of the moon, the act of communal declaration is still performed. The analogy offered is the *mitzvah* of *veKidashtem et shenat hachamishim shanah* — the *yovel* year must be formally sanctified even though its identity is perfectly clear after forty-nine years of counting. The act of sanctification is not merely informational; it is constitutive.
 
-## Sanctification Ritual…
+## Sanctification Ritua (II)
 
 ### Moshe Declaration
 
@@ -154,7 +154,7 @@ The response of the people — *mekudash, mekudash* — is derived by Rav Pappa 
 
 Why is *mekudash* said twice? The *gemara* derives this from the plural form *mikra'ei kodesh* — holy convocations, in the plural — implying that the affirmation must itself be plural. The double *mekudash* also functions similarly to the double *amen* known elsewhere: a heightened, emphatic assent that internalizes and reinforces the reality being declared. An analogy is drawn to the *birkat hachodesh* recited in the synagogue before *Rosh Chodesh*, in which *chaverim kol Yisrael* and *venomar amen* may represent these two layers of communal affirmation, though the parallel is inexact since that announcement precedes the new month by several days.
 
-## Sanctification Debate…
+## Sanctification Debat (II)
 
 ### R. Elazar Tzadok
 

@@ -140,7 +140,7 @@ Returning to the main thread: the debate between Chizkiyah and Rabbi Yochanan ov
 
 ---
 
-## Private Domain Doubt
+## Private Domain Doub (III)
 
 ### Private Domain Rule
 
@@ -148,7 +148,7 @@ The Gemara now raises a further complication regarding the loaf of bread on the 
 
 ---
 
-## Three Positions
+## Three Positions (IV)
 
 ### Shammai
 
@@ -156,7 +156,7 @@ Before completing the analysis of the private domain exception, it is worth noti
 
 ---
 
-## Private Domain Doubt…
+## Private Domain Doub (III)
 
 ### Sotah Exception
 
@@ -166,7 +166,7 @@ The logic underlying the rule that doubtful *tumah* in a private domain is *tame
 
 ---
 
-## Three Positions…
+## Three Positions (IV) (II)
 
 ### Hillel
 
@@ -174,7 +174,7 @@ Hillel's position stands at the opposite extreme from Shammai. A woman is retroa
 
 ---
 
-## Private Domain Doubt……
+## Private Domain Doub (III)t…
 
 ### No Da'at
 
@@ -182,7 +182,7 @@ The loaf of bread and the worn garment beneath it are objects. They cannot be in
 
 ---
 
-## Three Positions……
+## Three Positions (IV) (III)…
 
 ### Sages Middle
 
@@ -190,7 +190,7 @@ The *Chachamim* stake out the middle position: *ela me'et l'et mematet al yad mi
 
 ---
 
-## Private Domain Doubt………
+## Private Domain Doub (III)t……
 
 ### Rabbinic Tumaot
 
@@ -198,7 +198,7 @@ An alternative explanation is offered for why the loaf of bread in the private d
 
 ---
 
-## Three Positions………
+## Three Positions (IV) (III)……
 
 ### 24 Hour Limit
 

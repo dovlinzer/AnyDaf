@@ -198,7 +198,7 @@ One might wonder what is excluded by this criterion, since most *korbanot* are e
 
 ---
 
-## Ba'ah Bechovah…
+## Ba'ah Bechovah (II)
 
 ### Rabbi Eliezer
 

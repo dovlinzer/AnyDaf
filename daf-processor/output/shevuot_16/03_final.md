@@ -92,7 +92,7 @@ The consequence of this position is pointed: not only was no resanctification ne
 
 ---
 
-## Components Required…
+## Components Required (II)
 
 ### First Sanctity Temporary
 
@@ -208,7 +208,7 @@ Tosfos also entertains the possibility of the reverse: the land's sanctity could
 
 ---
 
-## Curtains (Klayim)…
+## Curtains (Klayim) (II)
 
 ### Reconciliation Attempt
 
@@ -292,7 +292,7 @@ The Gemara therefore resolves the difficulty elegantly: there are two separate *
 
 ---
 
-## Sanctity Endures…
+## Sanctity Endures (II)
 
 ### When Both Terms Needed
 

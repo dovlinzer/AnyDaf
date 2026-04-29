@@ -110,7 +110,7 @@ Remarkably, the positions of the *Chachamim* and *Rabbi Shimon* are now reversed
 
 This reversal is genuinely striking, and the *Gemara* devotes considerable attention to explaining it.
 
-## Partial Acceptance Logic
+## Partial Acceptance L (II)
 
 ### Partial Nezirus
 
@@ -122,7 +122,7 @@ Before addressing the reversal directly, the *Gemara* first asks why there is ap
 
 The answer given by *Rebbi Yehoshua ben Levi* is that *Rabbi Shimon* in fact does dispute that first case as well; it simply was not recorded separately in the *Mishnah*.
 
-## Conditions on Torah…
+## Conditions on Torah (II)
 
 ### Matneh al Torah
 
@@ -134,7 +134,7 @@ Ravina, however, takes a different position: *Rabbi Shimon* genuinely concedes i
 
 By contrast, in the second case, what the person was internally accepting was a *nezirus* that did not include the wine prohibition — because that is all they knew *nezirus* to be. That is not a case of full acceptance plus a void condition; it is a case of genuinely partial acceptance. And the question of what partial acceptance amounts to is the subject of the ongoing debate.
 
-## Partial Acceptance Log…
+## Partial Acceptance L (II)
 
 ### Partial Debate
 

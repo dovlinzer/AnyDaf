@@ -68,7 +68,7 @@ The *Gemara* then notes: *michlal de-Rabbi Yehuda kareiv* — by implication, ac
 
 ---
 
-## Heter Bamot Duration
+## Heter Bamot Duratio (III)
 
 ### Birah Concept
 
@@ -82,7 +82,7 @@ One clarification follows from this analysis: the *birah* designation of Nob and
 
 ---
 
-## Pasuk Interpretations
+## Pasuk Interpretation (II)
 
 ### R. Yehuda Order
 
@@ -100,7 +100,7 @@ The school of Rabbi Yishmael (*tana d'vei Rabbi Yishmael*) offers yet another re
 
 ---
 
-## Heter Bamot Duration…
+## Heter Bamot Duratio (III)
 
 ### Shilo Alone Issue
 
@@ -108,7 +108,7 @@ The *Gemara* raises a pointed difficulty against the *zo v'zo Shilo* reading: in
 
 ---
 
-## Heter Bamot Duration……
+## Heter Bamot Duratio (III)n…
 
 ### Yerushalayim Alone
 
@@ -116,7 +116,7 @@ The fourth position, that of Rabbi Shimon bar Yochai, is addressed in the follow
 
 ---
 
-## Pasuk Interpretations…
+## Pasuk Interpretation (II)
 
 ### R. Shimon bar Yochai
 
@@ -186,7 +186,7 @@ The *Gemara*, however, deflects: *eima noheig b'vama gedolah v'eino noheig b'vam
 
 ---
 
-## Private vs. Public…
+## Private vs. Public (II)
 
 ### R. Elazar Absorption
 

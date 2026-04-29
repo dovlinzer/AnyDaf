@@ -18,13 +18,13 @@ The Gemara now presents the full text of the *Baraita*: *"Umal-ma bashem"* — f
 
 Ben Azzai's position in the *Baraita* is formulated similarly but with a notable narrowing: *"lirbos es ha-shelamim"* — to include not *kodshim kalim* in general, but specifically *shelamim*, the paradigmatic form of *kodshim kalim*. This immediately raises the question of what Ben Azzai intends to exclude, and how his position differs from that of Rabbi Yose Haglili.
 
-## Kodshim Kalim Debate…
+## Kodshim Kalim Debate (II)
 
 ### Gufa vs. Amar Mar
 
 This passage offers a textbook illustration of two Talmudic analytical terms that are frequently encountered but are here juxtaposed in a way that clarifies their distinct functions. *Gufa* — "the body of the matter" — is the signal to step back and examine the full text of something that was previously cited only in excerpt. Earlier, only the Rabbi Yose Haglili clause regarding *mamon ba'alim* was quoted; now the Gemara says *gufa*, let us look at the entire *Baraita*, which also includes the positions of Ben Azzai and Abba Yossi Ben Dostai. *Amar Mar*, by contrast, is nearly the inverse movement: having now placed the complete text before us, the Gemara zooms in and examines each line individually. Having already addressed Rabbi Yose Haglili's position, the Gemara now turns to analyze the Ben Azzai line in detail.
 
-## Ben Azzai Position…
+## Ben Azzai Position (II)
 
 ### Shelamim Demands
 

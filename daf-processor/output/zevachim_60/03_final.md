@@ -220,7 +220,7 @@ This case is parallel in structure to the scenario of a chipped *mizbeach*: the 
 
 ---
 
-## Bechor Post-Churban…
+## Bechor Post-Churban (II)
 
 ### Bechor Linkage
 
@@ -236,7 +236,7 @@ The resolution comes from a verse. The Torah states regarding the *bechor*: *ve'
 
 ---
 
-## Chipped Altar…
+## Chipped Altar (II)
 
 ### Meat-Blood Link
 

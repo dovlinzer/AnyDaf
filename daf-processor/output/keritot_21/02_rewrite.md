@@ -90,7 +90,7 @@ The *gemara* challenges: if the enclosed *neveilah* is not transmitting *tumah* 
 
 ---
 
-## Human Flesh…
+## Human Flesh (II)
 
 ### Corpse Tumah
 

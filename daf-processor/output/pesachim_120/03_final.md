@@ -198,13 +198,13 @@ If some members remained awake, continuity is preserved and eating may resume. I
 
 *Rabbi Yose* introduces a distinction between types of sleep: *nishnamnemu yochlu, nirdemu lo yochlu* — if they merely dozed, they may continue eating; if they fell into deep sleep, they may not. Whether *Rabbi Yose* is being *meikel* or *machmir* relative to the anonymous *mishnah* is ambiguous: he may be restricting even the case where only some fell asleep (requiring that the sleep be light), or he may be permitting even the case where all fell asleep as long as the sleep was only a doze.
 
-## Chatzot Deadline…
+## Chatzot Deadline (II)
 
 ### Pesach Nosar After Chatz…
 
 The *mishnah* states: *ha-pesach achar chatzot metamei et ha-yadayim* — the *pesach* after midnight renders the hands *tamei*. This is because the *pesach* becomes *nosar* — leftover meat that may not be eaten — once *chatzot* passes, since according to this *mishnah* the entire night is not available for eating the *korban pesach*; only until midnight. *Nosar*, when touched, imparts *tumah* to the hands, as will be discussed below. The final line of the *mishnah* generalizes: *ha-pigul ve-ha-nosar metamim et ha-yadayim* — both *pigul* and *nosar* render the hands *tamei*.
 
-## Sleeping Rule…
+## Sleeping Rule (II)
 
 ### Rav Ashi Definition
 
@@ -222,7 +222,7 @@ The *Gemara* opens the discussion of *Rabbi Yose's* ruling by asking: *heichi da
 
 *Abaye hava yasiv kamei de-Rabbah* — *Abaye* was sitting before *Rabbah* during a *shiur*. *Chazah de-ka minanem* — he observed that *Rabbah* was dozing off. *Amar lei: nim ka naim mar?* — he asked, "Master, were you dozing?" *Amar lei: nimumei ka menamnemna* — "I was dozing, yes." And then *Rabbah* cited the *mishnah* — *nishnamnemu yochlu, nirdemu lo yochlu* — to demonstrate that his dozing, being only *nishnamnemu* and not *nirdemu*, did not constitute the kind of sleep that would have legal consequence. The *Rashbam* explains that the applicable context was not the *Seder* but rather a *taanit*: the *Yerushalmi* teaches that falling asleep can constitute the beginning of a fast, since one who sleeps has effectively ended his day. *Rabbah* was therefore using *Rabbi Yose's* distinction to establish that his doze was too light to count as the sleep that initiates a *taanit*.
 
-## Chatzot Deadline…
+## Chatzot Deadline (II)
 
 ### Rabbi Elazar Chatzot
 

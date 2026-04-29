@@ -292,7 +292,7 @@ Now that there is no *Beit HaMikdash*, the *kedushah* of eating is expressed thr
 
 ---
 
-## Altar Coating…
+## Altar Coating (II)
 
 ### Copper Altar
 

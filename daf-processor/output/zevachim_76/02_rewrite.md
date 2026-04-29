@@ -18,7 +18,7 @@ The *Chachamim* object that this approach is unacceptable because it invokes the
 
 The *Chachamim* offer an alternative. One waits until the animals develop a blemish, at which point they can be redeemed. The owner then designates the proceeds: whichever animal is the *asham*, its value is directed toward this money, which is then used to purchase a proper *asham*; and whichever animal is the *shelamim*, its value is similarly directed to purchase a proper *shelamim*. This process restores clarity about which animal is which. Rabbi Shimon's implicit counter is: do you have a better solution? The *Chachamim* answer that they do — redemption upon the onset of a blemish — but it is understood that if no such solution existed, even the *Chachamim* might concede that Rabbi Shimon's approach would be preferable to simply allowing the animals to go to waste. The debate, then, is specifically about whether one may adopt Rabbi Shimon's approach when an alternative does in fact exist.
 
-## Kodshim L'Beis Hapesul
+## Kodshim L'Beis Hapes (II)
 
 ### Shvi'is/Terumah Case
 
@@ -40,13 +40,13 @@ Abaye challenges Rava's position. A later *mishnah* teaches that *kohanim* are p
 
 Why is this a significant ruling? Because if a *kohen* takes a *terumah* onion and throws it into a pot of *chatas* stew, the *terumah* onion, now mixed with the *kodshim*, can only be eaten for a single day — the time restriction of the *chatas*. Ordinarily, *terumah* has its own eating window, but once combined with the *chatas*, it is constrained to the more restrictive *kodshim* timeline. This is a classic case of bringing *kodshim* into a house of invalidity — the *terumah* is the *kodshim* whose eating time is now being limited — and yet Rabbi Shimon permits it *lechatchilah*. This appears to be a strong proof against Rava's position.
 
-## Tavlin Challenge…
+## Tavlin Challenge (II)
 
 ### Rava Dismisses
 
 Rava dismisses the challenge. *Tavlin* — vegetables such as onions and garlic used as spices — are only *terumah* on a rabbinic level; their *terumah* status is not biblical. Rava's position is therefore more nuanced than it initially appeared: Rabbi Shimon may well permit proactively limiting something whose sanctity is only *d'Rabbanan*, but he would still not allow it *lechatchilah* when the sanctity being restricted is *d'Oraisa*.
 
-## Kodshim L'Beis Hapesul…
+## Kodshim L'Beis Hapes (II)
 
 ### Rabbinic vs. Biblical
 
@@ -132,13 +132,13 @@ The solution is offered by Rabbi Yehuda son of Rabbi Shimon, drawing on a princi
 
 Applied to the case of the *metzora* oil: if the man turns out not to be a *metzora*, and the oil has already had its *kmitzah* burned, then the remaining oil cannot be used for the *metzora* ritual in any formal sense — that would violate *kol shemimenu l'ishim*. However, according to Rashi, what one does is declare that if the man is not a *metzora*, the subsequent ritual actions — the sprinkling, the application to the ear and head — are not being performed as *korban* rituals at all. They are performed as if one is simply pouring water on the man. Just as burning something on the altar fire as mere fuel (*eitzim*) does not constitute a sacrificial act and therefore does not violate the relevant prohibitions, so too performing the sprinkling as a non-ritual act — as though it were simply water — circumvents the prohibition of using *shiyarayim* for a *mikdash* rite. The stipulation covers both possibilities: if the man is a *metzora*, the ritual is fully valid; if not, the physical acts are carried out but without sacrificial intent, and no prohibition is violated.
 
-## Fuel/Water Loophole…
+## Fuel/Water Loophole (II)
 
 ### Rashi vs. Tosafot
 
 Rashi and Tosafot read the loophole differently, and the difference flows from their divergent understandings of what the underlying problem is.
 
-## Remnant Oil Problem…
+## Remnant Oil Problem (II)
 
 ### Tosafot's View
 

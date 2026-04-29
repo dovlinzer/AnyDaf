@@ -150,7 +150,7 @@ The Gemara introduces a new case: *sikcha al gabei achsadra she'yesh la patzimin
 
 ---
 
-## Portico sukkah…
+## Portico sukkah (II)
 
 ### Abaye allows it
 

@@ -12,7 +12,7 @@ We resume at the bottom of 21b, returning to the case of *Yalta*, who had previo
 
 This is a striking *Tosafot*. In a number of places where the *Gemara* warns against seeking multiple opinions or overriding a prior ruling, *Tosafot* presents a counter-voice that emphasizes the importance of dialectic and multiple perspectives as a path toward greater truth. Even if, after receiving a *psak*, one is bound by it and may not simply shop around, the underlying process of seeking out and hearing different opinions is central to *Tosafot*'s entire approach to *halacha*. Furthermore, as *Tosafot* notes elsewhere, a healthy process exists by which one may return to the original *posek* and, through reasoned argument, persuade him to reverse his own ruling. All of this is, according to *Tosafot*, not merely tolerated but positively valuable.
 
-## Yalta & Override…
+## Yalta & Override (II)
 
 ### Yalta stain case
 
@@ -54,7 +54,7 @@ The *Gemara* at no point raises a concern about a *woman* rendering a *psak* as 
 
 The analogy to a physician is instructive. If a doctor prescribed a course of treatment for one patient, and that patient then advises a friend with apparently identical symptoms to follow the same regimen, the friend is not receiving medical advice — she is receiving a secondhand account of a judgment made in different circumstances, by someone who understood which variables mattered and which did not. The same logic governs the question of relaying a *halachic* ruling in matters of blood examination: the non-expert cannot know which features of the stain were decisive, and therefore cannot reliably apply the previous ruling to a new case.
 
-## Women paskening…
+## Women paskening (II)
 
 ### Deaf woman baraita
 
@@ -86,7 +86,7 @@ The *Gemara*'s initial understanding is that *Rabbi*'s nighttime ruling was inhe
 
 This is reinforced by a *baraita*: a *chacham* should not say, "had you shown me the stain when it was fresh and moist, I surely would have ruled it *tamei*." The rule is *ein lo l'dayan ela mah she'einav ro'os* — the judge has only what his eyes see. In this context the phrase is not merely metaphorical; it is literally about the visual conditions of examination. What cannot be seen clearly cannot be ruled upon. A woman often performs a *bedikah* and notices something that appears problematic, but by the time the cloth reaches the rabbi it has dried and changed appearance. The rabbi rules on what is before him, not on what it might have been when still moist — unless the woman herself states definitively that it was problematic at the time, in which case her own assessment stands as the ruling. Otherwise, the present visual reality governs entirely.
 
-## Rabbi viewing stains…
+## Rabbi viewing stains (II)
 
 ### Definite vs tentative
 
@@ -182,7 +182,7 @@ The *Gemara* focuses first on *Rabbi Yehudah*'s ruling that a chunk renders the 
 
 *Rabbi Yochanan* offers a different framing entirely: *shel arba'ah minei damim divrei hakol teme'ah* — if a chunk bears the four problematic blood colors, everyone agrees it is *temeiah*, since it is manifestly dried blood. *Shel she'ar minei damim divrei hakol tehorah* — if it bears acceptable colors, everyone agrees she is *tehorah*. Where then is the debate? *Lo necheleku ela she-lo yadah mah hepila* — the dispute is limited to the case where she did not see what was discharged, the chunk was lost.
 
-## Yehudah chunk debate…
+## Yehudah chunk debate (II)
 
 ### Rov presumption
 
@@ -210,7 +210,7 @@ This *baraita* contradicts *Shmuel*'s limiting principle. *Shmuel* said *Rabbi Y
 
 The same *baraita* contradicts *Rabbi Yochanan* on two counts. *Rabbi Yochanan* held that a red chunk is *temeiah* by universal consensus. But the *baraita* opens with a case of a red chunk and explicitly states that the *Chachamim* say *tehorah* if there is no accompanying blood — meaning the *Chachamim* dispute even the red case. One cannot rescue *Rabbi Yochanan* by suggesting the *Chachamim*'s leniency applies only to green and white, since the *baraita* would have had no reason to mention the red case unless it was telling us that even the *Chachamim* permit it.
 
-## Oshaya baraita…
+## Oshaya baraita (II)
 
 ### Blood assumption basis
 
@@ -256,7 +256,7 @@ The baseline ruling: *harei zu safek leida safek ziva* — she is of uncertain s
 
 *Rabbi Yehoshua* disagrees: *mevia korban ve-ne'echal* — she brings a *korban* and it is eaten. His reasoning: *she'ee efshar le-ftihat ha-kever belo dam* — it is impossible for the womb to open without blood. Whenever a miscarriage occurs, blood invariably accompanies the expulsion. Therefore the third day definitively involved blood, eliminating the "neither" scenario. She is certainly either a *yoledet* or a *zavah*, and either way she brings and eats the *korban*. The case thus provides an explicit *Tannaitic* statement of the *pesichat ha-kever* principle — and it is clear that the debate between *Rabbi Yehoshua* and the *Tanna Kamma* is precisely the same as the debate between *Rabbi Yehudah* and the *Chachamim* about the chunk: can there be an opening of the uterus without blood?
 
-## Pesichat ha-kever…
+## Pesichat ha-kever (II)
 
 ### Feinstein limitation
 

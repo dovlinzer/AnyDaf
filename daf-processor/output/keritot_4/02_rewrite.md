@@ -68,7 +68,7 @@ A second opinion derives the prohibition from a *hekkesh* rather than a *gezeira
 
 The *Gemara* then considers a parallel case involving not *karet* but two separate *mitos*: the prohibitions of *ov* and *yidoni*, two forms of necromancy. The verse *lo yimatze vecha shoel ov ve-yidoni* contains a single prohibition covering both. Yet the verse *ov o yidoni mos yumas* — because it says "A or B shall be put to death" — is understood to impose a separate death penalty on each. So we have one *lav* and two *mitos*. If one performed both in a single state of forgetfulness, does one bring two *chata'ot*? This is the unresolved form of the question: one prohibition, two separate punishments.
 
-## Ov and Yidoni…
+## Ov and Yidoni (II)
 
 ### Rabbi Yochanan
 
@@ -90,7 +90,7 @@ The *Gemara* also notes that our *mishna* lists only *ov* and not *yidoni*. *Rab
 
 This explanation generates a question for *Rabbi Yochanan*: if *Rabbi Yochanan* holds that no action is required, how can *Reish Lakish's* reasoning hold? *Rabbi Yochanan's* response is: *man tanna Keritot Rabbi Akiva hi de-amar lo ba'inan ma'aseh* — the *tanna* of our *mishna* in *Keritot* is *Rabbi Akiva*, who holds no action is required, as evidenced by the fact that the *mishna* includes *megadef* — blasphemy — which involves no act in the conventional sense. If even *megadef* brings a *chatas*, one cannot exclude *yidoni* on the grounds of lacking an act. According to *Rabbi Yochanan*, therefore, *yidoni* is excluded solely because it is subsumed under one *lav* with *ov*, and only one *chatas* is brought.
 
-## Ma'aseh Requirement…
+## Ma'aseh Requirement (II)
 
 ### Minimal Action
 
@@ -130,7 +130,7 @@ This generates a further inference. According to *Reish Lakish*, who says bowing
 
 *Abaye* further elaborates: *hai man de-ba'ei le-mitzmed diburei ve-akraba* — one who seeks to gather bees or scorpions through invocation is forbidden (*chover chaver*). However, if they are coming toward one unprovoked and one uses such means to protect oneself, that may be permitted — either because it falls under *pikuach nefesh* permitting a *lav*, or because the Torah prohibited *chover chaver* in the context of active invocation for one's benefit, not passive self-defense, and the purpose defines the act.
 
-## What Is Action…
+## What Is Action (II)
 
 ### Megadef
 

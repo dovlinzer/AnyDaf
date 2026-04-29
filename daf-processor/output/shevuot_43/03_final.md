@@ -80,7 +80,7 @@ Because a third party (Charlie) stands to lose when the lienholding creditor sei
 
 ---
 
-## Excluded Objects
+## Excluded Objects (II)
 
 ### Five Exclusions
 
@@ -128,7 +128,7 @@ A surface reading of *Rabbi Meir*'s position suggests that he holds attachment t
 
 ---
 
-## Quantifiability
+## Quantifiability (II)
 
 ### Mishna Rule
 

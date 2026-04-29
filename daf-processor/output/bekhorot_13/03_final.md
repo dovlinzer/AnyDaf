@@ -238,7 +238,7 @@ The *Gemara* now transitions to the laws of *bechora tehora* — the firstborn o
 
 ---
 
-## Bechora Tehora…
+## Bechora Tehora (II)
 
 ### Kohanim Status
 

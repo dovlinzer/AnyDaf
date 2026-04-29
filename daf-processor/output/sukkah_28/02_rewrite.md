@@ -32,7 +32,7 @@ The Rabbis respond that since they already hold a *sukkah* built on *Chol HaMoed
 
 ---
 
-## Learning Dedication Stor…
+## Learning Dedication (II)
 
 ### No Holiday Visits
 
@@ -76,7 +76,7 @@ From this it would seem that Rabbi Eliezer should have answered the sheet questi
 
 ---
 
-## Learning Dedication St…
+## Learning Dedication (II)
 
 ### 30 Sukkah Laws
 

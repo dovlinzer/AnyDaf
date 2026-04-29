@@ -68,7 +68,7 @@ What then is the debate of Beit Shammai and Beit Hillel? According to Rabbi Yosi
 
 ---
 
-## Beit Shammai Debate…
+## Beit Shammai Debate (II)
 
 ### Asymmetry Logic
 
@@ -78,7 +78,7 @@ Before marriage, he was permitted to any woman in the world and she was permitte
 
 ---
 
-## Sleeping Sister…
+## Sleeping Sister (II)
 
 ### Wife vs. Husband
 

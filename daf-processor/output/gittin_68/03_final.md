@@ -308,7 +308,7 @@ The verse *vezeh hayah chelki mikol amali* — this was my portion from all my l
 
 ---
 
-## Solomon's Fall…
+## Solomon's Fall (II)
 
 ### Beggar King
 

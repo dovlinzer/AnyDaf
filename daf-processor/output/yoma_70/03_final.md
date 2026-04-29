@@ -214,7 +214,7 @@ There is also a noteworthy structural observation made by the Tosafot Yeshanim (
 
 ---
 
-## Garment Sequence
+## Garment Sequence (II)
 
 ### First Linen Set
 
@@ -236,7 +236,7 @@ After completing the *avodah* in the white garments, the *Kohen Gadol* immerses 
 
 ---
 
-## Mussaf Timing Dispute
+## Mussaf Timing Disput (II)
 
 ### Rabbi Eliezer Split
 
@@ -248,7 +248,7 @@ Rabbi Akiva disagrees. He holds that the seven lambs — and, in the more develo
 
 ---
 
-## Garment Sequence (Continued)
+## Garment Sequence (II)
 
 ### Second Linen Set
 
@@ -276,7 +276,7 @@ At the conclusion of all his service, the *Kohen Gadol* performs a final sanctif
 
 ---
 
-## Mussaf Timing Dispute (Continued)
+## Mussaf Timing Disput (II)
 
 ### Mishnah Ambiguity
 

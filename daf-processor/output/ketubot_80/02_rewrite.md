@@ -132,7 +132,7 @@ This limitation has implications beyond the specific case of divorce that Rashi 
 
 ---
 
-## Oath Requirement…
+## Oath Requirement (II)
 
 ### Oath Debate
 
@@ -148,7 +148,7 @@ The Gemara returns to the question of when an oath is required and what it accom
 
 ---
 
-## Husband Expenses…
+## Husband Expenses (II)
 
 ### Sharecroppers Deal
 

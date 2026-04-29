@@ -160,7 +160,7 @@ As for the transgender question: the *Gemara*'s framework rests on the assumptio
 
 ---
 
-## Brit Milah Timing
+## Brit Milah Timing (II)
 
 ### Rabbi Elazar Debate
 
@@ -224,7 +224,7 @@ Resh Lakish replied: *dideih?* — Do you think Rabbi Elazar composed that *dras
 
 ---
 
-## Brit Milah Timing Continued
+## Brit Milah Timing (II)
 
 ### Toras Kohanim Study
 

@@ -186,7 +186,7 @@ Rav Yosef accordingly invokes this framework on his own behalf: *l'didi d'anina 
 
 ---
 
-## Dovecote Distances
+## Dovecote Distances (II)
 
 ### 50 Amot Rule
 
@@ -252,7 +252,7 @@ The *gemara* then asks why the ruling mentions the concern about *shovchin* at a
 
 ---
 
-## Dovecote Distances (Cont.)
+## Dovecote Distances (II)
 
 ### Purchaser & Heir Claims
 

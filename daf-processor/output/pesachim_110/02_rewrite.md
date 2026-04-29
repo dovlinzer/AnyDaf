@@ -138,7 +138,7 @@ It is worth pausing to note that the identification of women specifically with w
 
 *Rav Dimi mi'Nehardea* was careful even about the hash marks on a wine barrel — if one is selling or measuring wine and making tally marks on the barrel, he insisted the count remain odd rather than even. *Hahu uvda paka'a chavita* — and there was in fact a case where the marks on a barrel came out even and the barrel burst, which he understood as confirmation of the danger.
 
-## Demons & Witches…
+## Demons & Witches (II)
 
 ### Fear Attracts
 
@@ -146,7 +146,7 @@ It is worth pausing to note that the identification of women specifically with w
 
 From a more psychological vantage point, the principle is striking in a different way: if one is perpetually anxious about a danger, one will continually experience it; if one ignores it, one will be less susceptible. The Gemara itself does not frame it in these psychological terms, but the observation stands. The irony of Rav Dimi's own practice — worrying so intensely about what that unknown fourth food might be that one ends up being *makpid* about everything — is not lost: that level of *hakpada* is itself the very disposition that, according to this rule, invites the danger.
 
-## Geography Limits…
+## Geography Limits (II)
 
 ### Bavli Extends
 

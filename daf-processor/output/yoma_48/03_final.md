@@ -1,6 +1,6 @@
 # Yoma 48 — Daf Yomi Shiur
 
-## Stuff Between Fingers
+## Stuff Between Finger (II)
 
 ### Kemitzah Overview
 
@@ -52,7 +52,7 @@ Rav Papa now shifts to questions about variations in the formal execution of *ke
 
 The *gemara* answers *teiku* across all variations. The underlying question may be understood in two ways. One is that the *gemara* presupposes that a formally defined act is required and is asking what falls within the acceptable range of that act. The other framing, more relevant in the parallel discussion of *chafinah*, concerns how much the act must be ritualized and precisely defined: perhaps once an act of *kemitzah* is required, it carries with it formal parameters, and any departure from those parameters is problematic.
 
-## Stuff Between Fingers…
+## Stuff Between Finger (II)
 
 ### Teiku
 
@@ -62,7 +62,7 @@ As already noted in the previous segment, the *gemara* concludes with *teiku* on
 
 There are two ways to understand what the underlying concern is. One reading focuses on the naturalness of the act: the act of *lekichah* captures only what is intentionally taken, and incidental inclusion between the fingers falls outside of that. A second reading emphasizes inadvertent inclusion: the act of scooping with both hands may produce material that is not genuinely part of *melo chofnov* at all, having entered not through the scooping motion but passively. These two framings lead to overlapping but somewhat distinct analyses of what would be required to resolve the question.
 
-## Variations in Acts…
+## Variations in Acts (II)
 
 ### Chafinah Normal Way
 

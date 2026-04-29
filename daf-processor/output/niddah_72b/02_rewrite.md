@@ -132,7 +132,7 @@ The textual basis for this asymmetry is the word *hi* — she — in the *pasuk*
 
 ---
 
-## Akiva vs. Tradition
+## Akiva vs. Tradition (III)
 
 ### Pesukim Conclusion
 
@@ -140,7 +140,7 @@ The foregoing derivation prompts the *gemara*'s resolution of the earlier tensio
 
 ---
 
-## Tumah Transfer…
+## Tumah Transfer (II)
 
 ### Kal Vachomer
 
@@ -164,7 +164,7 @@ The *gemara* then raises the same question it raised about the *tumah* of her pe
 
 ---
 
-## Akiva vs. Tradition…
+## Akiva vs. Tradition (III)
 
 ### Two Schools
 
@@ -172,7 +172,7 @@ This extended series of derivations — the eleven-day period, the *zavah ketana
 
 ---
 
-## Vessels Tamei…
+## Vessels Tamei (II)
 
 ### Two Days Derivation
 
@@ -184,7 +184,7 @@ For a one-day *zavah*, the phrase *kol yemei* is read as encompassing any config
 
 ---
 
-## Akiva vs. Tradition……
+## Akiva vs. Tradition (III)…
 
 ### Rambam Defense
 

@@ -110,7 +110,7 @@ Rav Kahana and Rav Assi challenge Rav directly: why not say *bemisa*? They point
 
 Rav deflects by pointing to the verse separating these two *pesukim*: *ani Hashem mekadeisham* — I am God who sanctifies them. This phrase, Rav argues, *hifsik ha'inyan* — creates a paragraph break, closing out the discussion of the *tamei kohen* and beginning a new independent topic. The *zar*'s prohibition against eating *teruma* therefore stands alone, without any *misa* appended to it from the prior *pasuk*. This is, as the *gemara* acknowledges, a reasonable reading of the text.
 
-## Zar Eats Teruma…
+## Zar Eats Teruma (II)
 
 ### Meisivei Challenge
 
@@ -150,7 +150,7 @@ From there, *veyalif chillul chillul miteruma*: since the verse again employs *y
 
 The *braisa*'s inclusion of *mechusar begadim* — a *kohen* not wearing the prescribed *bigdei kehuna* — is derived from a verse cited by Rabbi Abahu in the name of Rabbi Yochanan, with some transmitting it in the name of Rabbi Elazar berabbi Shimon. The verse is *vechagarta osam avnet* — you shall gird them with the sash — followed by *vehaysa lahem kehunah lechukat olam* — and it shall be for them an eternal priestly ordinance. From this, the *gemara* draws the foundational principle: *bizman shebigdeihem aleihem kehunasam aleihem* — when their garments are upon them, their *kehuna* is upon them; *ein bigdeihem aleihem ein kehunasam aleihem* — when their garments are not upon them, their *kehuna* is not upon them. A *kohen* performing *avoda* without his vestments is therefore treated as a *zar* — *vehavu lehu zarim* — and since a *zar* who performs *avoda* is *chayav misa*, so too is the *mechusar begadim*.
 
-## Extended Tamei Cases…
+## Extended Tamei Cases (II)
 
 ### Tosafot on Begadim
 

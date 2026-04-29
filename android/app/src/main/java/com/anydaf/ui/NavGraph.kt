@@ -3,6 +3,8 @@ package com.anydaf.ui
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
@@ -23,6 +25,7 @@ fun AnyDafNavGraph(
     resourcesViewModel: ResourcesViewModel,
 ) {
     val navController = rememberNavController()
+    val hasAcceptedTerms by contentViewModel.hasAcceptedTerms.collectAsState()
 
     NavHost(
         navController = navController,
@@ -30,9 +33,19 @@ fun AnyDafNavGraph(
         enterTransition = { fadeIn() },
         exitTransition = { fadeOut() }
     ) {
+        composable("terms") {
+            TermsScreen(onAccept = {
+                contentViewModel.acceptTerms()
+                navController.navigate("content") {
+                    popUpTo("terms") { inclusive = true }
+                }
+            })
+        }
+
         composable("splash") {
             SplashScreen(onDone = {
-                navController.navigate("content") {
+                val dest = if (hasAcceptedTerms) "content" else "terms"
+                navController.navigate(dest) {
                     popUpTo("splash") { inclusive = true }
                 }
             })

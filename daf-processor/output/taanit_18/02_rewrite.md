@@ -1,6 +1,6 @@
 # Taanit 18 — Daf Yomi Shiur
 
-## Megillat Ta'anit Categor…
+## Megillat Ta'anit Cat (II)
 
 ### Intro to Megillat Ta'anit
 
@@ -28,7 +28,7 @@ The first period listed runs *me-reish yarcha d'Nissan v'ad tamanya bei itokam t
 
 The *Gemara* immediately asks: *lama li me-reish yarcha?* Why does *Megillat Ta'anit* need to say the period begins from *Rosh Chodesh*? *Lima mi-trei be-Nissan* — just say it begins from the second of Nissan! After all, *Rosh Chodesh gufay yom tov hu* — Rosh Chodesh is itself already a minor *yom tov*, and the prohibition against fasting or delivering a *hesped* on Rosh Chodesh is already known independently of *Megillat Ta'anit*.
 
-## Megillat Ta'anit Categ…
+## Megillat Ta'anit Cat (II)
 
 ### Purpose of Eulogies
 
@@ -36,7 +36,7 @@ Before proceeding to the *Gemara*'s answer, it is worth pausing on the nature of
 
 The practice of delivering *hespedim* today is, by contrast, oriented quite differently. Modern eulogies tend to celebrate the life of the deceased, speak to the person's positive qualities, and are designed to leave those present with an affirming, uplifting sense of who that person was. People may become emotional, but the goal is rarely to produce the kind of communal outpouring of grief that the *Gemara* had in mind. It is therefore a legitimate question whether contemporary *hespedim* carry the same halachic weight as the *hesped* the *Gemara* was addressing. In practice, the prohibition on *hespedim* during Nissan is widely observed in a somewhat attenuated fashion — a few words are said, something is mentioned about the deceased — and while one should not treat this casually, the underlying rationale of the prohibition may genuinely apply with less force given the very different character of the modern *hesped*.
 
-## Rosh Chodesh Nisan…
+## Rosh Chodesh Nisan (II)
 
 ### Rav's Answer
 

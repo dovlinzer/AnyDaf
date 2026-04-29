@@ -252,7 +252,7 @@ The case of *nichnesah la-chuppah v'lo niv'alah* — she entered the *chuppah* b
 
 The underlying principle is that in Noachide marriage law, the sexual act is what finalizes the union. Without it, even a woman who has gone through whatever ceremony exists in the non-Jewish community is not yet considered a married woman for the purposes of Noachide *arayot* law.
 
-## Post-Chuppah Status…
+## Post-Chuppah Status (II)
 
 ### Beulas Baal Only
 
@@ -426,7 +426,7 @@ The answer: the father is already excluded by the later verse, *v'lo b'zachar* �
 
 The Gemara challenges Rabbi Akiva's reading that *imo* means the mother literally. If *aviv* means *eshet aviv* — the father's wife — what is the basis for treating *imo* differently and reading it literally as the mother? Rabbi Akiva answers: the mother is analogous to the father's wife — *damya l'imo*. Just as the father's wife is prohibited not because of a marriage-based category (*eshes ish*) but because of her intimate connection to the father, so too the mother is prohibited through that same family-based logic rather than as an *eshes ish*. In other words, the prohibition of the mother is a *she'er*-based prohibition, not an *ervah*-based one.
 
-## Eleazar Challenge…
+## Eleazar Challenge (II)
 
 ### Mother Objection
 
@@ -436,7 +436,7 @@ The Gemara challenges Rabbi Akiva's reading that *imo* means the mother literall
 
 The Gemara challenges Rabbi Elazar from the other direction. If *imo* refers to the maternal aunt, why do we need a specific derivation? Why not simply derive the prohibition from the prohibition of the mother herself?
 
-## Akiva Challenge…
+## Akiva Challenge (II)
 
 ### Father Objection 2
 

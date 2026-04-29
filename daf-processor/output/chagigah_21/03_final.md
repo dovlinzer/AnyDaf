@@ -208,7 +208,7 @@ It should be noted that earthenware vessels (*klei cheres*) are a special case: 
 
 ---
 
-## Basket Difference…
+## Basket Difference (II)
 
 ### Tannaic Dispute
 

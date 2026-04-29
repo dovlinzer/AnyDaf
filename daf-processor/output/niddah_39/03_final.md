@@ -158,7 +158,7 @@ There is, of course, a significant leniency on the other side. *Rabbi Meir* held
 
 ---
 
-## Counting Methods…
+## Counting Methods (II)
 
 ### Lo Shmi'a Li
 
@@ -170,7 +170,7 @@ There is, of course, a significant leniency on the other side. *Rabbi Meir* held
 
 ---
 
-## Veset Kavua…
+## Veset Kavua (II)
 
 ### Day 15 to Day 20
 
@@ -182,7 +182,7 @@ There is, of course, a significant leniency on the other side. *Rabbi Meir* held
 
 ---
 
-## Counting Methods…
+## Counting Methods (II)
 
 ### Abaye's Response
 

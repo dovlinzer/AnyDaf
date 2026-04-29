@@ -194,7 +194,7 @@ The *Gemara* resolves the problem by rereading the *mishnah*. The cases of *kona
 
 ---
 
-## Impossibility & Neder
+## Impossibility & Nede (II)
 
 ### Shvuah Sleep
 
@@ -204,7 +204,7 @@ The question posed by the *Gemara* is whether the same reasoning applies to a *n
 
 ---
 
-## Konam on Actions…
+## Konam on Actions (II)
 
 ### Itmar Debate
 
@@ -216,7 +216,7 @@ The *Gemara* presents the *itmar* — a recorded amoraic dispute — on the cond
 
 ---
 
-## Impossibility & Neder…
+## Impossibility & Nede (II)
 
 ### Concept Difference
 

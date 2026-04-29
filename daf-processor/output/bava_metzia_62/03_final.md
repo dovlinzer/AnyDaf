@@ -206,7 +206,7 @@ The Gemara introduces a *baraita* taught by *Rav Safra* drawn from the *ribbis* 
 
 ---
 
-## Abaye's Reading…
+## Abaye's Reading (II)
 
 ### Sell/Buy Scenario
 
@@ -222,7 +222,7 @@ The net economic effect is transparent: *Shimon* gave *Reuven* twenty-five *dina
 
 ---
 
-## Ha'aramas Ribbis…
+## Ha'aramas Ribbis (II)
 
 ### Lend & Buy Back
 

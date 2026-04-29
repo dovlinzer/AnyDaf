@@ -68,7 +68,7 @@ The *gemara* challenges this attribution: *ini?* — is this really what Reish L
 
 ---
 
-## Eretz Yisrael vs Bavel
+## Eretz Yisrael vs Bav (II)
 
 ### Mutual Respect Comparison
 
@@ -118,7 +118,7 @@ A third passage from Zechariah describes two women carrying a tub (*eifah*) betw
 
 ---
 
-## Eretz Yisrael vs Bavel…
+## Eretz Yisrael vs Bav (II)
 
 ### Bavel Belula Meaning
 

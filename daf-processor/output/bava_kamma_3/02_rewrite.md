@@ -1,6 +1,6 @@
 # Bava Kamma 3 — Daf Yomi Shiur
 
-## Avos & Toldos Framework
+## Avos & Toldos Framew (II)
 
 ### Four Categories
 
@@ -20,7 +20,7 @@ The *gemara* describes *keren* as the *parshah* in the *Torah* dealing with gori
 
 ---
 
-## Avos & Toldos Framewor…
+## Avos & Toldos Framew (II)
 
 ### Rav Pappa Setup
 
@@ -28,7 +28,7 @@ The *gemara* describes *keren* as the *parshah* in the *Torah* dealing with gori
 
 ---
 
-## Keren Category…
+## Keren Category (II)
 
 ### Keren Toldos
 

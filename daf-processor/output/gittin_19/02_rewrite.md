@@ -90,7 +90,7 @@ The cases of *deyo al gabei deyo* and *sikra al gabei sikra* are more straightfo
 
 ---
 
-## Writing Over Writing…
+## Writing Over Writing (II)
 
 ### Pre-inked Signatures
 

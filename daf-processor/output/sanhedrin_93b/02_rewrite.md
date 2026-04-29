@@ -150,7 +150,7 @@ The Gemara then asks: if Sancherev was fulfilling a divine mandate, why was he p
 
 The prophet then came and told Sancherev: *ki lo mu'af la'asher mutzak lah* — there is no weariness for those who are distressed by her. Rabbi Elazar bar Berachyah interprets: *ein am zu ayef mu'af* — this people, weary as it is, weary in Torah — *lo yimasru b'yad mi ha-metzik lah* — will not be delivered into the hands of the one besieging them. You conquered the ten tribes, who *heikilu me'aleihem ol Torah* — treated the yoke of Torah lightly. But now you face the later ones, *Yehudah* and *Binyamin*, who *hichbidu aleihem ol Torah* — who bore the yoke of Torah with full weight. They are *re'uyim la'asot lahem nes* — fit to have a miracle performed for them — like those who crossed the *Yam Suf* and the *Yarden*. If Sancherev retreats, good. If not, *ani e'eseh lo galil ba-goyim* — I will make him as dung among the nations.
 
-## Chizkiyahu Mashiach…
+## Chizkiyahu Mashiach (II)
 
 ### God's Oath
 

@@ -186,7 +186,7 @@ How do we know the duration was precisely six months? The verse states that Davi
 
 ---
 
-## Idolatry Attempt…
+## Idolatry Attempt (II)
 
 ### Future Forgiveness
 

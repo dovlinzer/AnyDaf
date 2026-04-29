@@ -106,7 +106,7 @@ But the *Gemara* notes that *Rav Oshaya* did not quote the end of that *Baraita*
 
 ---
 
-## Barrel & Provision Cases
+## Barrel & Provision C (II)
 
 ### Basket Figs Shovel
 
@@ -146,7 +146,7 @@ A second, closely parallel incident follows. Again a woman came before *Rabbi Yi
 
 ---
 
-## Barrel & Provision Cas…
+## Barrel & Provision C (II)
 
 ### Barrel Distance Case
 

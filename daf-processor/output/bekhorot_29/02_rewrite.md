@@ -80,7 +80,7 @@ The *mishnah* rules that he may be fed and given drink and oil — that is, comp
 
 ---
 
-## Payment Prohibitions…
+## Payment Prohibitions (II)
 
 ### Sechar Batel
 
@@ -88,7 +88,7 @@ The *mishnah* adds: if the witness or judge was elderly and could not travel una
 
 ---
 
-## Torah Teaching Source
+## Torah Teaching Sourc (II)
 
 ### Moshe's Example
 
@@ -106,7 +106,7 @@ This formulation illuminates an important structural point. One might have thoug
 
 ---
 
-## Teachers & Officials
+## Teachers & Official (III)
 
 ### Sechar Batel Principle
 
@@ -120,7 +120,7 @@ Tosafot addresses the problem of full-time judges and officials. The *gemara* in
 
 ---
 
-## Payment & Mitzvah
+## Payment & Mitzvah (III)
 
 ### Talmud Torah Exception
 
@@ -144,7 +144,7 @@ The Rambam has a well-known and sharp critique of those who draw on communal fun
 
 ---
 
-## Torah Teaching Source…
+## Torah Teaching Sourc (II)
 
 ### Rashi's Limitation
 
@@ -170,7 +170,7 @@ The answer is that the invalidation is a rabbinic *gezerah* or *takkanah*, not a
 
 ---
 
-## Teachers & Officials…
+## Teachers & Official (III)
 
 ### Rosh's Position
 
@@ -178,7 +178,7 @@ Returning to the case of Ilo: Rashi explained Ilo's exception on the basis of hi
 
 ---
 
-## Payment & Mitzvah…
+## Payment & Mitzvah (III)
 
 ### Kohanim Model
 
@@ -204,7 +204,7 @@ The *gemara* notes that the resolution is supported by the precise language of t
 
 ---
 
-## Kohen Tamei Case…
+## Kohen Tamei Case (II)
 
 ### Tamei Override
 
@@ -234,7 +234,7 @@ The *mishnah*'s phrase *kepo'el batel* — as a worker who is idle — is amplif
 
 ---
 
-## Sechar Batel Deep…
+## Sechar Batel Deep (II)
 
 ### Batel Variables
 
@@ -250,7 +250,7 @@ Tosafot raises a pointed objection to Rashi's formulation. If one asks how much 
 
 ---
 
-## Teachers & Officials……
+## Teachers & Official (III)s…
 
 ### Sechar Batel Issues
 
@@ -262,7 +262,7 @@ Tosafot's position — that one must calculate *sechar batelah* relative to a da
 
 ---
 
-## Payment & Mitzvah……
+## Payment & Mitzvah (III)…
 
 ### Doctors & Services
 
@@ -270,7 +270,7 @@ All of this bears directly on the question of how doctors can be paid. The Ramba
 
 ---
 
-## Modern Application…
+## Modern Application (II)
 
 ### Doctor Dilemma
 
@@ -306,7 +306,7 @@ Untanned leather, by contrast, represents minimal effort: the seller simply stri
 
 ---
 
-## Suspicious Trade…
+## Suspicious Trade (II)
 
 ### Rat Damage Claim
 
@@ -318,7 +318,7 @@ The *gemara* dismisses this concern: *be'achbarim midei yedia* — rat damage is
 
 ---
 
-## Effort-Based Trust…
+## Effort-Based Trust (II)
 
 ### Carded Wool
 

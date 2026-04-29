@@ -114,7 +114,7 @@ There is also a second explanation, which anticipates material the *Gemara* will
 
 ---
 
-## Land Requirement…
+## Land Requirement (II)
 
 ### Expanded Land
 

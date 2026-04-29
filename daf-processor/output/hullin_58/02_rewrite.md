@@ -118,7 +118,7 @@ This version of Ameimar's ruling uses fertility not as *zeh vezeh goreim* but as
 
 ---
 
-## Treifa Offspring…
+## Treifa Offspring (II)
 
 ### Case Reconstruction
 

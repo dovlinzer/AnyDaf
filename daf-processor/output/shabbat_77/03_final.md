@@ -186,7 +186,7 @@ The final question in this series: *mai ta'ama hai timra de-tarnagolta midli le-
 
 ---
 
-## Aleph-Ayin & Aramaic…
+## Aleph-Ayin & Aramaic (II)
 
 ### Aramaic Etymologies
 
@@ -228,7 +228,7 @@ The Gemara teaches: *shlosha kol zman she-mazkinin mosifin gevurah* — three cr
 
 ---
 
-## Shiurim: Liquids…
+## Shiurim: Liquids (II)
 
 ### Oil: Small Limbs
 

@@ -154,7 +154,7 @@ The practical stakes of this dispute are real. A common scenario: one purchases 
 
 ---
 
-## Congealed Blood…
+## Congealed Blood (II)
 
 ### Rava's View
 

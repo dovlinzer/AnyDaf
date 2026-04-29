@@ -92,7 +92,7 @@ The *gemara* says: *u'shma mina makom olah makom shirayim* — is this not a pro
 
 ---
 
-## Ein Olin Mevatlin…
+## Ein Olin Mevatlin (II)
 
 ### Yom Kippur Distinction
 
@@ -126,7 +126,7 @@ Those who do derive *ein olin mevatlin zeh et zeh* from *kodesh hem* must obtain
 
 ---
 
-## Wall vs. Base Debate…
+## Wall vs. Base Debate (II)
 
 ### Two Chatasim Theory
 

@@ -68,7 +68,7 @@ With *chelev*, *dam*, *neveilah*, and *gid hanasheh* all derived, the *gemara* t
 
 ---
 
-## Human Flesh
+## Human Flesh (II)
 
 ### Live Human Meat
 

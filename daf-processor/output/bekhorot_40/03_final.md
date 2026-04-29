@@ -234,7 +234,7 @@ Finally: *ve-tumtum ve-androgynos* — these too are neither brought as *korbano
 
 ---
 
-## Androgynous Status
+## Androgynous Status (II)
 
 ### Transgender Discussion
 
@@ -320,7 +320,7 @@ The tension is irreducible. The system demands physical perfection; the prophets
 
 ---
 
-## Androgynous Status
+## Androgynous Status (II)
 
 ### Yishmael Position
 

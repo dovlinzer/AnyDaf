@@ -152,7 +152,7 @@ The *Gemara* responds by questioning the premise: *uman teima dela gazrinan geze
 
 To press the point, the *Gemara* adduces a comparison: *challat chutz la-aretz ne'echelet im ha-zar al ha-shulchan* — the separated *challah* of produce grown outside the Land of Israel may be eaten at the same table as a non-*kohen*. Outside the Land of Israel, *challah* is only a rabbinic obligation; and since we are all in a state of ritual impurity (*tumah*), even a biblical *challah* would be ritually impure and unavailable to a *kohen*. Given this double leniency, one might have thought we would prohibit the non-*kohen* from sitting at the table lest he inadvertently eat from the *kohen*'s *challah*. Yet we do not. This appears to demonstrate that we do not extend rabbinic safeguards yet further — that we do not make a *gezeirah ligezeirah* — even where the underlying concern is relatively clear. Why then should birds be treated more strictly?
 
-## Abaye Slippery Slope
+## Abaye Slippery Slope (II)
 
 ### Challah Comparison
 
@@ -172,7 +172,7 @@ With *basar b'chalav*, however, the calculus is entirely different. *De-sharat l
 
 The underlying principle Abaye articulates is: a *gezeirah ligezeirah* is justified not as a matter of abstract principle but as a function of how naturally and readily one step leads to the next. Where the chain of causation is realistic and close at hand, we may stack safeguards. Where the feared outcome is remote and practically unreachable, we do not.
 
-## Safeguards & Definitions
+## Safeguards & Defini (III)tions
 
 ### Student Objections
 
@@ -184,7 +184,7 @@ The concern, it should be emphasized, is not about people who knowingly intend t
 
 The difficulty of maintaining categorical distinctions in practice is not unique to this domain. The *Gemara* throughout *Shas* addresses the distinction between the *chaver* and the *am ha-aretz* — and the *am ha-aretz* is not defined as a person of bad faith, but as one who is not scrupulous about *tithes* and *tumah ve-tahara*. These were observant Jews who simply did not track all the fine distinctions. The rabbinic response was sometimes to flatten those distinctions — to impose uniform rules that are easier to maintain precisely because they do not require the practitioner to navigate subtle gradations. More stringent, perhaps, but more sustainable. The extension of *basar b'chalav* restrictions to poultry may reflect exactly this instinct: rather than require everyone to track which prohibitions are biblical and which rabbinic, we apply a uniform standard and avoid the slippage.
 
-## Birds/Cheese Dispute
+## Birds/Cheese Dispute (II)
 
 ### Mishna Dispute Rules
 
@@ -208,7 +208,7 @@ Rabbi Yosi adds: *zu mikulei Beis Shammai u'mechumrei Beis Hillel* — this is o
 
 It is worth noting that Rabbi Yehuda Hanasi sometimes chose to render rulings *stam* — anonymously — to give them greater normative weight. Here, by contrast, he attributed the ruling to Rabbi Yosi explicitly. An additional reason may be that it is so unusual for Beis Shammai to be the lenient party that explicit attribution was necessary to prevent readers from assuming an error and reversing the positions.
 
-## Safeguards & Definitions
+## Safeguards & Defini (III)tions
 
 ### Table Type Distinction
 

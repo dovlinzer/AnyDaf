@@ -1,6 +1,6 @@
 # Keritot 7 — Daf Yomi Shiur
 
-## Shemen Hamishcha
+## Shemen Hamishcha (II)
 
 ### Intro to Shemen
 
@@ -108,7 +108,7 @@ The parallel to the *shemen hamishcha* debate is direct: Rabbi Meir's position i
 
 ---
 
-## Shemen Hamishcha's Sacred Status
+## Shemen Hamishcha (II)
 
 ### R. Eliezer's Derasha
 

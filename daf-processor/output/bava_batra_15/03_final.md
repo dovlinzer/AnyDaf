@@ -74,7 +74,7 @@ Tosafos adds a further refinement in the name of Rabbeinu Tam: the grouping with
 
 ---
 
-## Authorship Discussion
+## Authorship Discussio (II)
 
 ### Moshe & Yehoshua
 
@@ -132,7 +132,7 @@ The *baraita* concludes: *Ezra katav sifro ve-ha-yachas shel Divrei HaYamim ad l
 
 ---
 
-## Authorship Discussion (Continued)
+## Authorship Discussio (II)
 
 ### Moshe's Death Passage
 

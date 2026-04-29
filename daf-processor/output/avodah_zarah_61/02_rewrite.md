@@ -40,7 +40,7 @@ The *mishna* clarifies, however, that the required supervision need not be conti
 
 ---
 
-## Wine of Non-Jews…
+## Wine of Non-Jews (II)
 
 ### Misleading Language
 
@@ -60,7 +60,7 @@ The contrast case makes the principle clear. *Aval im rotze Yisrael lehotzi v'ei
 
 ---
 
-## Case 1: Locked House…
+## Case 1: Locked House (II)
 
 ### Rashi vs. Tosafot
 
@@ -168,7 +168,7 @@ The Rabbis sitting before *Rava* initially proposed that the concern of *gomlin*
 
 ---
 
-## Practical Application
+## Practical Applicatio (II)
 
 ### Wine Barrels Case
 
@@ -196,7 +196,7 @@ The paragraph concludes with the note that *kach higgia ha-Rav u-pasak halacha l
 
 ---
 
-## Practical Application…
+## Practical Applicatio (II)
 
 ### Transport Distinction
 

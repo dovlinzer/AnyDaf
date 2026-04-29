@@ -150,7 +150,7 @@ The upshot is that according to Rabbi Shimon himself, it would make no differenc
 
 ---
 
-## Balcony/Courtyard Baraita
+## Balcony/Courtyard Ba (II)
 
 ### Height ownership test
 
@@ -176,7 +176,7 @@ Strikingly, the *baraita*'s list — *gag, chatzer, achsadra, umirpeset* — doe
 
 ---
 
-## Balcony/Courtyard Baraita as Chachamim
+## Balcony/Courtyard Ba (II)
 
 ### Baraita is Chachamim
 

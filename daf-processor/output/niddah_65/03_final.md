@@ -166,7 +166,7 @@ Rav Abba raises an obvious and pointed question to Rav Ashi: *ela mei-ata ba'al 
 
 ---
 
-## Stringency Reasons…
+## Stringency Reasons (II)
 
 ### Ba'al Nefesh
 
@@ -198,7 +198,7 @@ One observation worth pausing over — and it is a striking one — is that this
 
 ---
 
-## Major Shift…
+## Major Shift (II)
 
 ### Rav Chisda Challenge
 

@@ -32,7 +32,7 @@ The practical upshot is that the Rabbis needed these institutions to carry some 
 
 ---
 
-## Biah Pesulah Doctrine
+## Biah Pesulah Doctrin (II)
 
 ### Biah After Get
 
@@ -92,7 +92,7 @@ The *Gemara* elaborates further: *biah pesulah* occupies an intermediate positio
 
 ---
 
-## Biah Pesulah Doctrine…
+## Biah Pesulah Doctrin (II)
 
 ### Chalitzah Efficacy
 

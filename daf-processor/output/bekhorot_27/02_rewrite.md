@@ -194,7 +194,7 @@ But the very leniencies we have been cataloguing reveal the tension at the heart
 
 ---
 
-## Tumah Restrictions…
+## Tumah Restrictions (II)
 
 ### Eating vs. Touching
 

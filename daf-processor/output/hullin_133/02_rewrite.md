@@ -16,7 +16,7 @@ The *gemara* asks pointedly: why does the *mishnah* say "one who slaughters *for
 
 *Rava* further derives this from a *derasha*. The verse states *me'eis ha'am* — "from the people" — excluding *kohanim*: a *kohen* need not give these gifts to a fellow *kohen*. What determines the obligation is for whom the animal belongs, not who performs the slaughter. As the verse adds, *me'izovchei hazevach* — "from those who slaughter the slaughtering" — this language encompasses even a *kohen* who serves as a butcher. The irony is precise: the determination of obligation depends on the ownership of the animal, but the person obligated is always the *shochet*.
 
-## Exemption Framework…
+## Exemption Framework (II)
 
 ### Partnership Strategy
 

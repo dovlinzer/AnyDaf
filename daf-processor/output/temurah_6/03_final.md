@@ -138,7 +138,7 @@ Rava, who already holds that one cannot escape obligations through violation, us
 
 ---
 
-## Shinui Koneh Debate
+## Shinui Koneh Debate (II)
 
 ### Real Difference Found
 
@@ -200,7 +200,7 @@ One might ask whether *beis din* would enforce such a contract by compelling per
 
 ---
 
-## Shinui Koneh Debate (Continued)
+## Shinui Koneh Debate (II)
 
 ### Rava's Statement
 

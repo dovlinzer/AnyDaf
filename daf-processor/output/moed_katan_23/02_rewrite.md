@@ -76,7 +76,7 @@ On this question, the Rosh in *siman* 46 records that the custom in Ashkenaz was
 
 As for the absolute-sounding language of the *braita* — *eino yotzei mipetach beito* — the *Rema* clarifies that the prohibition is specifically *letayel o lemassa umattan*, for leisure or commerce. He further rules *hameikel latzeit b'layla mipnei ha-tzorech lo hifsid* — one who is lenient about going out at night for a practical need has not lost anything, since going out at night lacks the public social dimension of daytime activity. The *Rema* also permits leaving for cases of significant need — if a *moshel* summons the *avel*, if travel is required, or in cases of *davar ha-avud*, a significant financial loss. The home is not meant to be a prison; the halachic frame permits real latitude when genuine need arises.
 
-## Remarriage Law…
+## Remarriage Law (II)
 
 ### Shloshim Remarriage
 

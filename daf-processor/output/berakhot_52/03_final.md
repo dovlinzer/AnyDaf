@@ -202,7 +202,7 @@ The practical application follows: by dipping only a finger and licking it rathe
 
 ---
 
-## Wine After Meal…
+## Wine After Meal (II)
 
 ### Baraita Position
 
@@ -222,7 +222,7 @@ The *gemara* concludes: *ela trei tana'ei aliba de-Beit Shammai* — there is a 
 
 ---
 
-## Cup Minimum…
+## Cup Minimum (II)
 
 ### Fixing Pagum
 

@@ -118,7 +118,7 @@ For Rava, then, the *Baraita* is not a proof about the technical term *issar* at
 
 ---
 
-## Abaye vs. Rava…
+## Abaye vs. Rava (II)
 
 ### Neder vs. Shevu'a
 
@@ -130,7 +130,7 @@ Abaye and Rava thus represent two fundamentally different views of whether the m
 
 ---
 
-## Issur in Nedarim…
+## Issur in Nedarim (II)
 
 ### Davar Hanadur
 

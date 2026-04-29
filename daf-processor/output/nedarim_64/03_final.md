@@ -74,7 +74,7 @@ The second is a concern about trivialization: if there is a universal escape rou
 
 ---
 
-## Abaye vs. Rava
+## Abaye vs. Rava (II)
 
 ### Concession on Direct Imp…
 
@@ -120,7 +120,7 @@ The debate between Rabbi Eliezer and the *chachamim* is specifically about event
 
 ---
 
-## Abaye vs. Rava
+## Abaye vs. Rava (II)
 
 ### Abaye: Dishonesty
 

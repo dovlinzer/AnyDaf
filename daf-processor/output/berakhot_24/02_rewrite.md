@@ -162,7 +162,7 @@ A perceptive literary observation illuminates the structure of these derivations
 
 ---
 
-## Ervah Expansion…
+## Ervah Expansion (II)
 
 ### Social Context
 

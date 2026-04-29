@@ -56,7 +56,7 @@ The Gemara's answer for Rabbi Elazar ben Azarya is that the doubled form here te
 
 ---
 
-## Doubling Language…
+## Doubling Language (II)
 
 ### Ha'aveit Ta'avitenu
 
@@ -132,7 +132,7 @@ Rabbi Shimon disagrees: *af litoan* — there is a *mitzvah* to reload as well, 
 
 ---
 
-## Finding Objects…
+## Finding Objects (II)
 
 ### Refet Definition
 
@@ -184,7 +184,7 @@ This reading makes the ruling more striking, not less. The *mishna* is not sayin
 
 ---
 
-## Reload Obligation…
+## Reload Obligation (II)
 
 ### Why Both?
 

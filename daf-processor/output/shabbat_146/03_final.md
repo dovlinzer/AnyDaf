@@ -380,7 +380,7 @@ But the *Gemara* clarifies: *v'lohi* — that was not the reason. Rav had in fac
 
 ---
 
-## Food Preservation
+## Food Preservation (II)
 
 ### Pit Cooling
 
@@ -400,7 +400,7 @@ The *mishnah* continues with a cluster of food-preservation cases. *Nosnin tavsh
 
 ---
 
-## Food Preservation (continued)
+## Food Preservation (II)
 
 > **Hebrew/Aramaic:** גְּמָ׳ פְּשִׁיטָא! מַהוּ דְתֵימָא: נִיגְזַר מִשּׁוּם אַשְׁווֹיֵי גוּמּוֹת, קָא מַשְׁמַע לַן. וְאֶת הַמַּיִם הַיָּפִים בָּרָעִים. פְּשִׁיטָא! סֵיפָא אִיצְטְרִיכָא לֵיהּ. וְאֶת הַצּוֹנֵן בַּחַמָּה, הָא נָמֵי פְּשִׁיטָא! מַהוּ דְתֵימָא: נִיגְזוֹר דִּילְמָא אָתֵי לְאַטְמוֹנֵי בְּרֶמֶץ, קָא מַשְׁמַע לַן.
 >

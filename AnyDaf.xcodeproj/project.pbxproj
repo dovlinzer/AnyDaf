@@ -35,6 +35,7 @@
 		FE9C6CBC2F7DAC2900295AA5 /* ShiurClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */; };
 		FEA914DC2F8C0E3C00D5D66B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */; };
 		FEB8B37B2F82035D00B963FB /* ShiurTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */; };
+		FEB91FC92F9EE3600022A7C4 /* TermsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB91FC82F9EE3600022A7C4 /* TermsView.swift */; };
 		FEE5E3A02F56497B00E38810 /* TalmudPageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E39F2F56497B00E38810 /* TalmudPageManager.swift */; };
 		FEE5E3A22F5649FF00E38810 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E3A12F5649FF00E38810 /* SplashView.swift */; };
 		FEE5E3A42F564C7C00E38810 /* ZoomableAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEE5E3A32F564C7C00E38810 /* ZoomableAsyncImage.swift */; };
@@ -75,6 +76,7 @@
 		FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurClient.swift; sourceTree = "<group>"; };
 		FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurTextView.swift; sourceTree = "<group>"; };
+		FEB91FC82F9EE3600022A7C4 /* TermsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsView.swift; sourceTree = "<group>"; };
 		FEE5E39F2F56497B00E38810 /* TalmudPageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalmudPageManager.swift; sourceTree = "<group>"; };
 		FEE5E3A12F5649FF00E38810 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		FEE5E3A32F564C7C00E38810 /* ZoomableAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomableAsyncImage.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				FEF848E12F6CC18100D40DD1 /* Bookmark.swift */,
 				FEF848E22F6CC18100D40DD1 /* BookmarkEditSheet.swift */,
 				FEF848E32F6CC18100D40DD1 /* BookmarkListView.swift */,
+				FEB91FC82F9EE3600022A7C4 /* TermsView.swift */,
 				FEF848E42F6CC18100D40DD1 /* BookmarkManager.swift */,
 				FE8774D02F60F84400AC3ED2 /* ClaudeClient.swift */,
 				FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */,
@@ -260,6 +263,7 @@
 				FE7936DA2F748E9F0086F637 /* Secrets.swift in Sources */,
 				BB0000000000000000000024 /* FeedManager.swift in Sources */,
 				BB0000000000000000000025 /* RSSParser.swift in Sources */,
+				FEB91FC92F9EE3600022A7C4 /* TermsView.swift in Sources */,
 				FE7936DC2F748EEF0086F637 /* StudyCache.swift in Sources */,
 				FE8774CB2F60F80800AC3ED2 /* StudyModeView.swift in Sources */,
 				FE8774D32F60F85700AC3ED2 /* SefariaClient.swift in Sources */,

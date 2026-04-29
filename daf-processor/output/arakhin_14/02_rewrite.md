@@ -42,7 +42,7 @@ But is this rule consistently applied? The *gemara* itself notes that later, in 
 
 Alternatively — *ve-iba'it eima* — since the subsequent discussion of *sdei achuza* is by definition an exclusively Israelite institution (non-Jews hold no ancestral portion in the Land of Israel and are thus not subject to the *dinim* of *achuza*), the entire chapter naturally confines itself to the Israelite context. The *mishna* begins with Jews in the *erachin* case precisely because everything that follows will also concern Jews exclusively.
 
-## Ancestral Fields: Fixed…
+## Ancestral Fields: Fi (II)
 
 ### Bad/Premium Land: Same R…
 
@@ -60,7 +60,7 @@ The rationale behind this position is that *adam makdish be'ayin yafah makdish* 
 
 This position stands in contrast to that of Rabbi Shimon, who holds that *makdish be'ayin ra'ah makdish* — one who consecrates property does so with a conservative, minimal intent. Rabbi Shimon's view would lead to a narrower reading of what is included in any act of consecration.
 
-## Special Cases: Rocks/Tre…
+## Special Cases: Rocks (II)
 
 ### Potential vs. Actual
 
@@ -70,7 +70,7 @@ Rav Huna responds: *re'uyah le'fardesot kamina* — when I speak of a field with
 
 The distinction thus turns on the difference between potential and actuality. If trees are presently growing on the field at the time of consecration, Rav Huna requires a double payment. If the land is merely of the quality that could support orchards, the Torah rate alone governs. A further question is raised from another *baraita* on the scope of *beit zera*: *ein li ela beit zera — sdei gefanim, sdei kanim, sdei ilanot, minayin?* Does the Torah's language of *beit zera chomer se'orim* — "a field for the seeding of a *chomer* of barley" — restrict the *din* to fields actually sown with grain, excluding fields of grapevines, reeds, or trees? The answer is *talmud lomar: sadeh mikol makom* — any kind of *sadeh* is included, regardless of what grows on it. Rav Huna acknowledges this source and maintains his position nonetheless: the *baraita*'s ruling that even *sdei ilanot* pays the fifty-*shekel* rate still refers to the land dimension of the consecration; one must still separately redeem the trees at market value. *Podeh ve'chozer ve'podeh* — he redeems and then redeems again.
 
-## Ancestral Fields: Fixe…
+## Ancestral Fields: Fi (II)
 
 ### Three Trees Case
 
@@ -98,7 +98,7 @@ The *gemara* then raises a deeper question about Rabbi Yehuda and Rabbi Shimon's
 
 Rav Nachman bar Yitzchak, however, objects: in fact, Rabbi Yehuda and Rabbi Shimon did require a special *drasha*. The Torah could have written simply *asher lo achuzato* — "which is not his ancestral land." Instead it wrote *misdeh achuzato* — "which is not *from* his ancestral lands" — conveying that the exclusion applies only to a field that could never have been ancestral land. This precise formulation teaches Rabbi Yehuda and Rabbi Shimon's case. It need not be attributed to a general principle of going after the time of *pidyon*. Consequently, the *baraita* cannot be read as evidence that the *baraita* follows Rabbi Shimon's view of *azlinan batar pidyon*, and Rav Huna's position survives intact. Having weathered a series of *kushyot*, Rav Huna has not been definitively refuted.
 
-## Special Cases: Rocks/T…
+## Special Cases: Rocks (II)
 
 ### Rocky Fields Market Value
 

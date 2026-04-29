@@ -122,7 +122,7 @@ One might ask whether *beis din* would enforce such a contract by compelling per
 
 ---
 
-## Shinui Koneh Debate…
+## Shinui Koneh Debate (II)
 
 ### Rava's Statement
 

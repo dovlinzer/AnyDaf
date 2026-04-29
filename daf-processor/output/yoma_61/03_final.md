@@ -76,7 +76,7 @@ The Gemara answers: *beketoret lo kamairi* — the Mishna is simply not discussi
 
 ---
 
-## Yehuda vs. Nechemia…
+## Yehuda vs. Nechemia (II)
 
 ### Ulla/Se'ir
 
@@ -88,7 +88,7 @@ A parallel statement from Ulla now follows: *se'ir sheshachato kodem matan damo 
 
 ---
 
-## Blood Spills…
+## Blood Spills (II)
 
 ### Se'ir Problem
 
@@ -182,7 +182,7 @@ This is a complete inversion of emphasis. The *peshat* reading centered the ritu
 
 ---
 
-## Separate Units…
+## Separate Units (II)
 
 ### Eliezer/Shimon Debate
 

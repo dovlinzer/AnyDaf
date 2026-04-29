@@ -92,7 +92,7 @@ The *gemara* cites a *braita* that tracks the structure of our *mishna*. *Ha-goz
 
 ---
 
-## Gezeilah Be'ein Rules…
+## Gezeilah Be'ein Rule (II)
 
 ### Adult Ignorance Claim
 
@@ -102,7 +102,7 @@ The *braita* then introduces a wrinkle: *ve-im amru gedolim einanu yod'in cheshb
 
 ---
 
-## Mishna: Two Cases…
+## Mishna: Two Cases (II)
 
 ### Rava's Reinterpretation
 
@@ -190,7 +190,7 @@ The logic is carefully bounded. For the *gazlan* himself, destruction of the obj
 
 ---
 
-## Gezeilah Be'ein Rules…
+## Gezeilah Be'ein Rule (II)
 
 ### Adults Must Return
 

@@ -1,6 +1,6 @@
 # Sanhedrin 34 — Daf Yomi Shiur
 
-## Vote Switching Rules
+## Vote Switching Rules (II)
 
 ### Monetary vs Capital
 
@@ -50,7 +50,7 @@ The broader principle thus stands: the threshold for mistrial in capital cases i
 
 ---
 
-## Vote Switching Rules in the Bavli
+## Vote Switching Rules (II)
 
 ### Rav Position
 

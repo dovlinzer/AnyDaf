@@ -120,7 +120,7 @@ The *Mishnah* states: *ha-omer la-chaveiro chatzi sadeh ani mocher lach* — one
 
 ---
 
-## Fence & Ditch…
+## Fence & Ditch (II)
 
 ### Measurements
 
@@ -128,7 +128,7 @@ The *Mishnah* also specifies: *ve-kama hu charitz shishah tefachim* — the ditc
 
 ---
 
-## Half Field Sale…
+## Half Field Sale (II)
 
 ### Purchaser Gets Less
 
@@ -148,7 +148,7 @@ In the *seifa* of the *Mishnah*, when the seller says *chatziyah ba-darom ani mo
 
 ---
 
-## Fence & Ditch…
+## Fence & Ditch (II)
 
 ### Ditch Configuration
 

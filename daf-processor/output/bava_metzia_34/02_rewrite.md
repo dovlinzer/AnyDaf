@@ -84,7 +84,7 @@ With the mechanism of ownership transfer established — however that mechanism 
 
 ---
 
-## Shillem vs. Promise…
+## Shillem vs. Promise (II)
 
 ### Mishnah Symmetry Problem
 

@@ -1,6 +1,6 @@
 # Pesachim 41 — Daf Yomi Shiur
 
-## Flour + Charoset/Mustard
+## Flour + Charoset/Mus (II)
 
 ### Mishna Overview
 
@@ -38,7 +38,7 @@ The organizational structure here is, as the lecturer observes, genuinely puzzli
 
 ---
 
-## Flour + Charoset/Musta…
+## Flour + Charoset/Mus (II)
 
 ### Rav Kahana's View
 

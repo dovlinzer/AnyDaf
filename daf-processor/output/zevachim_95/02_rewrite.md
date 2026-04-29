@@ -1,6 +1,6 @@
 # Zevachim 95 — Daf Yomi Shiur
 
-## Blood-Stained Garment
+## Blood-Stained Garmen (II)
 
 ### Blood Left Azarah
 
@@ -28,7 +28,7 @@ Here too one might ask: why not simply immerse the metal vessel in a *mikveh* to
 
 There is a substantial *Tosafos* here, and it is one of the reasons why this *daf* is relatively compact: *Tosafos* grapples with a deep question about what happens when a *tamei* object loses its status by being torn or broken. In general, when something *tamei* is rendered into a form that is no longer susceptible to *tumah*, the *tumah* departs. But there is a counterintuitive principle that an object can in some sense "touch itself" in the moment of transition, potentially acquiring a new, derivative degree of *tumah* even as it sheds the first. This complex analysis, while not the immediate focus of the *daf*, underlies the Gemara's ensuing discussion.
 
-## Blood-Stained Garment…
+## Blood-Stained Garmen (II)
 
 ### Challenge to Tearing
 
@@ -48,7 +48,7 @@ At first glance this contradicts the Mishnah's solution entirely. The Gemara res
 
 The conceptual elegance here is notable: the partial tear creates a zone where the object is biblically no longer the original *beged* (so the *tumah* dissolves), yet it is still halachically a *beged* of some kind (so the *mitzvah* remains operative).
 
-## Cooking Vessels…
+## Cooking Vessels (II)
 
 ### Vessel Identity
 

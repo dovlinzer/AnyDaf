@@ -80,6 +80,9 @@ class ContentViewModel : ViewModel() {
     private val _dafYomiError = MutableStateFlow<String?>(null)
     val dafYomiError: StateFlow<String?> = _dafYomiError.asStateFlow()
 
+    private val _hasAcceptedTerms = MutableStateFlow(false)
+    val hasAcceptedTerms: StateFlow<Boolean> = _hasAcceptedTerms.asStateFlow()
+
     val tractate get() = allTractates[_selectedTractateIndex.value]
 
     init {
@@ -99,6 +102,7 @@ class ContentViewModel : ViewModel() {
             persistedEngagementSeconds = AppPreferences.totalEngagementSeconds.first()
             engagementSecondsAtLastNudge = AppPreferences.engagementSecondsAtLastNudge.first()
             didClickDonate = AppPreferences.didClickDonate.first()
+            _hasAcceptedTerms.value = AppPreferences.hasAcceptedTerms.first()
         }
         FeedManager.init()
         viewModelScope.launch { FeedManager.refreshIfNeeded() }
@@ -159,6 +163,11 @@ class ContentViewModel : ViewModel() {
     fun setUseWhiteBackground(enabled: Boolean) {
         _useWhiteBackground.value = enabled
         viewModelScope.launch { AppPreferences.saveUseWhiteBackground(enabled) }
+    }
+
+    fun acceptTerms() {
+        _hasAcceptedTerms.value = true
+        viewModelScope.launch { AppPreferences.saveHasAcceptedTerms(true) }
     }
 
     fun setTabletRightPanelMode(mode: String) {

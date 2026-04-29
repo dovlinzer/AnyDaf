@@ -244,7 +244,7 @@ What makes this *gemara* so theologically powerful is not merely that the negati
 
 ---
 
-## Commentary Authority
+## Commentary Authority (II)
 
 ### Rabbinate Burden
 

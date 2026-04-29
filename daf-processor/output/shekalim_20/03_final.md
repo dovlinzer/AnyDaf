@@ -142,7 +142,7 @@ The *gemara* will engage with this difficulty in the discussions that follow. It
 
 ---
 
-## Takanot Found Animals
+## Takanot Found Animal (II)
 
 ### Nesachim Rule
 
@@ -160,7 +160,7 @@ In both cases — the non-Jew overseas and the deceased convert — the common d
 
 ---
 
-## Takanot Found Animals…
+## Takanot Found Animal (II)
 
 ### Tenai Beit Din
 

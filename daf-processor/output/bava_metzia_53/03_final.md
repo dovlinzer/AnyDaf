@@ -1,6 +1,6 @@
 # Bava Metzia 53 — Daf Yomi Shiur
 
-## Ona'ah & Deficient Coins
+## Ona'ah & Deficient C (II)
 
 ### Mishna Overview
 
@@ -20,7 +20,7 @@ On the most natural reading, the *mishna* is speaking of a coin deficient by les
 
 The more pointed reading is that the *mishna* permits treating the coin at face value even when it is deficient by a full twenty-fourth — the classic measure of *ona'ah*. Even though the recipient is technically entitled to demand reimbursement for the shortfall, normal practice is that people use such coins without protest. The *chiddush* would then be that despite this technical entitlement, one may use the coin at face value for *ma'aser sheni*. The concern, however, is that when one arrives in Jerusalem to spend the money, merchants there may not honor the face value either — which means *ma'aser sheni* may actually lose out in the transaction.
 
-## Metal vs. Face Value
+## Metal vs. Face Value (II)
 
 ### Rav Papa's Teaching
 
@@ -30,7 +30,7 @@ The more pointed reading is that the *mishna* permits treating the coin at face 
 
 Rav Papa derives a practical lesson from the *mishna*: someone who is excessively exacting about what currency he will accept, refusing coins that are slightly off, is called a *nefesh ra'ah*. However, this applies only when the coin genuinely has currency — when it circulates normally and merchants accept it. A storekeeper who refuses a coin that most people would take without hesitation is being unreasonably miserly. But if a coin has genuine difficulty circulating, then refusing it is not stinginess but simple prudence.
 
-## Ona'ah & Deficient Coins — Chizkiyahu's Position
+## Ona'ah & Deficient C (II)
 
 ### Chizkiyahu's Teaching
 
@@ -42,7 +42,7 @@ The *gemara* notes that the *mishna* appears to support Chizkiyahu's position. C
 
 This framing suggests that the *mishna* is indeed speaking of a coin deficient by the full amount of *ona'ah*, because only then would the market refuse to give full face value in exchange. The *chiddush* is that even so, you may treat it as face value for purposes of *ma'aser sheni* — even though *ma'aser sheni* ends up losing slightly in the transaction, since the coin you redeem onto is worth less than its stated denomination.
 
-## Metal vs. Face Value — Chizkiyahu Contradiction
+## Metal vs. Face Value (II)
 
 ### The Contradiction Emerges
 

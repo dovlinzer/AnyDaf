@@ -82,7 +82,7 @@ Rashi's explanation here, which he connects to the present Gemara, is that mothe
 
 ---
 
-## Mitznefet & Gazis…
+## Mitznefet & Gazis (II)
 
 ### Chamber Layout
 

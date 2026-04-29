@@ -176,7 +176,7 @@ A related ruling from *Rava*: if a man is found at the threshing floor when the 
 
 Finally, the *gemara* addresses the question of current versus back taxes. A tax collector has discretion to seize property from one person temporarily to pressure another person to pay — even using an uninvolved party's assets as leverage. This applies to current-year obligations (*dubla d'bar l'ara d'charga d'hai shata*). But for back taxes (*shata d'chalif*), the discretion is reduced: *ho'il u'fayeis malka* — since the king was already appeased with whatever was collected for the prior year, and that matter is settled, the collector's discretionary powers to apply unusual pressure are correspondingly diminished.
 
-## Gezel Goy
+## Gezel Goy (IV)
 
 ### Judging Mixed Cases
 
@@ -198,13 +198,13 @@ This distinction — *gezel goy assur*, *hafkakat halvato mutar* — is the *hal
 
 There are serious *poskim* throughout the generations — not only contemporary ones — who have argued that in a society of law-abiding citizens, where property rights are respected and enforced, the general presumption should be that non-Jews have the status of *ger toshav* for purposes of monetary *halachot*, and these distinctions accordingly do not apply. *Rav Moshe Feinstein*'s position, referenced earlier, operates on this basic premise. What remains clearly true, and genuinely troubling, is that these passages have at times been invoked to justify dishonest monetary conduct toward non-Jews — precisely the abuse the *gemara*'s own emphasis on *chilul Hashem* was meant to foreclose.
 
-## Dina Demalchuta…
+## Dina Demalchuta (II)
 
 ### Current vs. Back
 
 This section, which belongs to the *dina demalchuta* discussion, has been addressed above in its proper sequence within the "Dina Demalchuta" segment. The distinction between current-year taxes — where the collector retains broad discretion — and prior-year back taxes — where that discretion is reduced because *ho'il u'fayeis malka*, the king was already satisfied with what was collected — is the central ruling. For back taxes, while collection remains technically authorized, the extraordinary enforcement measures available for current taxes are no longer fully available.
 
-## Gezel Goy…
+## Gezel Goy (IV) (II)
 
 ### Lost Objects
 
@@ -228,7 +228,7 @@ The pattern of these cases — while consistent with the *halachic* framework of
 
 Shepherds who graze exclusively outside the *tchum* are treated differently: *mutar l'kach meihem* — one may purchase from them, since the mixing of city animals with distant flocks is far less likely. However, *Ravina* qualifies: *im hayu ba'alim meradfim achareihen* — if the owners of animals were visibly pursuing this shepherd, apparently tracking their lost animals into his flock, then even outside the *tchum* one may not purchase from him, because the circumstances themselves suggest that his flock contains animals not his own.
 
-## Gezel Goy…
+## Gezel Goy (IV) (II)
 
 ### Ger Toshav
 
@@ -242,7 +242,7 @@ The *gemara*'s earlier framing of *gezel goy* involved a tacit assumption about 
 
 The reason is that non-Jewish courts of the *magista* type (the local village court, per *Rashi*) will extract money on the basis of a single witness — *de'inhu mafik mamona apuma de-chad* — whereas Jewish law requires two witnesses before money is extracted, and a single witness can at most impose an oath. By volunteering testimony in such a court, the Jew enables a monetary extraction that Jewish procedure would not permit. The *halacha* thus limits this to unsummoned testimony in courts that do not follow the two-witness standard. If the witness is one of two (so that the non-Jew would prevail in Jewish court as well), or if the court follows the same standards as a Jewish court with respect to single witnesses, testifying is not prohibited.
 
-## Gezel Goy……
+## Gezel Goy (IV) (III)…
 
 ### Trade Examples
 
@@ -252,7 +252,7 @@ The cases of *Rav Ashi* walking along the road and *Ravina* purchasing a palm tr
 
 *Ravina*'s case with his non-Jewish partner involved his instruction to his attendant to take his share of a palm tree from the base rather than the top — the base yielding far thicker, more valuable wood. The non-Jew, *Ravina* observed, *minyana yada* — counts only quantity, not quality. The *gemara* presents this as permissible business acumen within the terms of their partnership agreement, since the division was by number of logs rather than by weight or value.
 
-## Non-Jewish Courts…
+## Non-Jewish Courts (II)
 
 ### Single Witness
 

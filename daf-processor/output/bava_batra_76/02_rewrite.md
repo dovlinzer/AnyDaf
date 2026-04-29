@@ -90,7 +90,7 @@ The *gemara* then proceeds to identify which position in the earlier *baraita* (
 
 ---
 
-## Contexts & Braitot
+## Contexts & Braitot (III)
 
 ### Identifying Positions
 
@@ -118,7 +118,7 @@ The Sages' position requires a contextual reinterpretation, provided by the next
 
 ---
 
-## Kinyanim Principles
+## Kinyanim Principles (III)
 
 ### Context & Meaning
 
@@ -126,7 +126,7 @@ The underlying principle at work throughout this discussion is that the meaning 
 
 ---
 
-## Contexts & Braitot…
+## Contexts & Braitot (III)
 
 ### Abaye & Rava
 
@@ -134,7 +134,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Kinyanim Principles…
+## Kinyanim Principles (III)
 
 ### Hagbaha Universal
 
@@ -142,7 +142,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Contexts & Braitot……
+## Contexts & Braitot (III)…
 
 ### Sages' Solution
 
@@ -150,7 +150,7 @@ Returning to the difficulty about the Sages' position in the *reshut harabim*: *
 
 ---
 
-## Kinyanim Principles……
+## Kinyanim Principles (III)…
 
 ### Chalifin Alternative
 

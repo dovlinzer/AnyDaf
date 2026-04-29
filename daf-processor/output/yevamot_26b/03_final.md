@@ -102,7 +102,7 @@ Shmuel disagrees. His position is stated concisely: *echad choletz lekullan* —
 
 ---
 
-## Rav vs Shmuel…
+## Rav vs Shmuel (II)
 
 ### Achos vs Tzaros
 
@@ -146,7 +146,7 @@ The inverse, however, holds: a first-rate *chalitzah* with Devorah — whose rel
 
 ---
 
-## Chalitzah Pesulah…
+## Chalitzah Pesulah (II)
 
 ### Strength Weakens
 
@@ -186,7 +186,7 @@ However, if Reuven begins with the co-wives — performing *chalitzah* first wit
 
 ---
 
-## Shmuel Reread…
+## Shmuel Reread (II)
 
 ### Rav Ashi
 

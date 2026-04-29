@@ -16,7 +16,7 @@ That earlier case of the *get yashan* — the old *get* — served as the thresh
 
 ---
 
-## Improper Government
+## Improper Government (II)
 
 ### Mishna: Wrong Dating
 
@@ -46,7 +46,7 @@ The consistent principle that emerges from all these cases is that a *get* must 
 
 ---
 
-## Wrong Location
+## Wrong Location (II)
 
 ### Mishna Case
 
@@ -240,7 +240,7 @@ However, *v'im l'achar zman yatza* — if the error surfaces only after a signif
 
 ---
 
-## Contemporary Dating
+## Contemporary Dating (II)
 
 ### City of Origin
 
@@ -258,7 +258,7 @@ Since the city of origin was never required, one might have thought that if one 
 
 ---
 
-## Improper Government (Continued)
+## Improper Government (II)
 
 ### Gemara: Rome's Definition
 
@@ -282,7 +282,7 @@ This rationale then drives the *gemara*'s analysis of the other cases in the *mi
 
 ---
 
-## Contemporary Dating (Continued)
+## Contemporary Dating (II)
 
 ### Question Posed
 
@@ -302,7 +302,7 @@ The conclusion Tosafot draws is two-fold: first, even if one were to rule like R
 
 ---
 
-## Wrong Location (Continued)
+## Wrong Location (II)
 
 ### Written vs. Given
 
@@ -320,7 +320,7 @@ A natural question arises: who really cares where the *sofer* was? Tosafot engag
 
 ---
 
-## Rabbi Meir vs. Sages
+## Rabbi Meir vs. Sages (II)
 
 ### Rabbi Meir Strict
 
@@ -356,7 +356,7 @@ The distinction between the governor of Bashkar and the *santar* of the city is 
 
 ---
 
-## Rabbi Meir vs. Sages (Continued)
+## Rabbi Meir vs. Sages (II)
 
 ### Sages Lenient
 

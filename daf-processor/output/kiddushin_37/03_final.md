@@ -122,7 +122,7 @@ What makes this practically significant is the agricultural reality of *chutz la
 
 ---
 
-## Chadash Dispute…
+## Chadash Dispute (II)
 
 ### Nesachim & Central Altar
 

@@ -84,7 +84,7 @@ The *Mishnah* continues: *Leviyah ve-Yisraelit mosifin aleihen od achat* — for
 
 ---
 
-## Exceptions to Bedika
+## Exceptions to Bedik (III)
 
 ### Temple Service Exemptions
 
@@ -94,7 +94,7 @@ The case of *Sanhedrin* is more conceptually complex. The intuitive question is:
 
 ---
 
-## Women Checked, Not Men
+## Women Checked, Not M (II)
 
 ### Insult & Yichus
 
@@ -102,7 +102,7 @@ The Gemara raises a pointed question: *mai shena be-nashei badki u-mai shena be-
 
 ---
 
-## Bedika Upon Challenge
+## Bedika Upon Challen (III)ge
 
 ### Chazaka Default
 
@@ -110,7 +110,7 @@ The implicit question remains: why is *bedika* not automatically required regard
 
 ---
 
-## Bedika Upon Challenge…
+## Bedika Upon Challen (III)ge…
 
 ### Rav's Lenient View
 
@@ -118,7 +118,7 @@ The Gemara notes that women do not check men in any event. Beyond the *kola* arg
 
 ---
 
-## Women Checked, Not Men…
+## Women Checked, Not M (II)
 
 ### No Obligation for Women
 
@@ -140,7 +140,7 @@ The Gemara works through how Rav Adda bar Abba's version relates to the *Mishnah
 
 ---
 
-## Bedika Upon Challenge…
+## Bedika Upon Challen (III)ge…
 
 ### Investigation on Ir'ur
 
@@ -150,7 +150,7 @@ There are two ways to resolve the tension between the two statements of Rav. The
 
 ---
 
-## Exceptions to Bedika…
+## Exceptions to Bedik (III)
 
 ### Court Purity Standard
 
@@ -158,7 +158,7 @@ Returning to the *Mishnah*'s exemptions: *ve-lo min ha-Sanhedrin u-lema'lah* —
 
 ---
 
-## Yichus in Public Life
+## Yichus in Public Lif (II)
 
 ### Domim Lecha Principle
 
@@ -172,7 +172,7 @@ The *Mishnah* then mentions *shotrei rabbim* — lower-level public officials or
 
 ---
 
-## Exceptions to Bedika……
+## Exceptions to Bedik (III)a…
 
 ### Municipal Officials
 
@@ -184,7 +184,7 @@ It is important to appreciate that *gabai tzedaka* were not merely volunteers co
 
 ---
 
-## Yichus in Public Life…
+## Yichus in Public Lif (II)
 
 ### Mekrev Achecha Standard
 

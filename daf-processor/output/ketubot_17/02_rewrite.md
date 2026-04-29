@@ -140,7 +140,7 @@ Rashi draws the implication in the other direction as well: *shemeinan de-le-man
 
 ---
 
-## First Marriage Evidence
+## First Marriage Evide (II)
 
 ### Hinuma Practice
 
@@ -176,7 +176,7 @@ The Gemara then records a concrete historical account: one of the rabbis married
 
 ---
 
-## First Marriage Evidenc…
+## First Marriage Evide (II)
 
 ### Widow Weddings
 

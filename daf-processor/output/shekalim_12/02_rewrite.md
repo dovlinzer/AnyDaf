@@ -1,6 +1,6 @@
 # Shekalim 12 — Daf Yomi Shiur
 
-## Ketoret & Kli Shares
+## Ketoret & Kli Share (III)
 
 ### Ketoret: Kli Shares Deba…
 
@@ -62,13 +62,13 @@ The *Gemara* now arrives at today's *daf*, 12a, and the *mishnah* itself. *Hamak
 
 The rationale for this prescription reflects an important constraint. Even though the sanctification was the act of a private individual, and even though that individual's *ketoret* cannot actually be used for the Temple offering — since the *korban tzibur* must be purchased with public funds — the item cannot simply revert to *bedek habayit* either. As will emerge more clearly in the continuation of the *mishnah*, items that are fit for *korbanot* cannot simply be absorbed into the general *bedek habayit* pool without being channeled toward their proper purpose.
 
-## Ketoret & Kli Shares…
+## Ketoret & Kli Share (III)
 
 ### R. Akiva's Position
 
 Rabbi Akiva's position raises a difficulty in light of the earlier debate. If the *ketoret* was made in a *kli shares*, how can it be redeemed at all? The *Gemara* applies the earlier answer: Rabbi Akiva's position is consistent with Shmuel's leniency, which permits redemption of leftover public offerings under circumstances where standard rules would normally prohibit it.
 
-## Mishnah: Ketoret…
+## Mishnah: Ketoret (II)
 
 ### Paying Workers
 
@@ -76,7 +76,7 @@ Rabbi Akiva therefore rules that the *ketoret* itself is handed directly to the 
 
 Ben Azzai objects to this approach and provides an alternative: *mafrishim mehen sechar ha'umnin* — one first sets aside the monetary amount to be paid to the workers; *umechallelin osam al hama'ot* — one then transfers the *kedushah* of the *ketoret* onto that money; *v'al ma'ot ha'umnin venotnim osam la'umnin bischaran* — one gives the *ketoret* to the workers as their wages now that it has been desanctified; *vechozrin velokechin osam mitrumah chadasha* — and then one repurchases the *ketoret* using new *terumah* funds. In this way, the workers are compensated, the *ketoret* is formally desanctified and resanctified with proper public funds, and it is now available for use in the Temple service.
 
-## Ketoret & Kli Shares……
+## Ketoret & Kli Share (III)s…
 
 ### Ben Azzai's Objection
 

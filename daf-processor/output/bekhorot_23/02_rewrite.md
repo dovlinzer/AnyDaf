@@ -90,7 +90,7 @@ This debate between *Bar Padda* and *Rabbi Yochanan* encodes a principle that re
 
 This principle has broad analogues. In *kashrus*, the question of whether *chametz* retains its status once it becomes unfit for human consumption but remains fit for animals follows precisely the same logic. Once something has been *chametz*, does it lose that status the moment it falls below human palatability, or must it become completely inedible? The parallel to *Rabbi Yochanan's* position is evident. And without drawing extended analogies to other domains, it is worth noting that the intuition underlying this principle — that a status acquired through lived experience is not simply erased by a change in condition — recurs in many areas of law and beyond.
 
-## Fish Brine Reawakens…
+## Fish Brine Reawaken (III)
 
 ### One Drop Question
 
@@ -102,13 +102,13 @@ The backstory: the fish brine came from an *am ha'aretz* and the water mixed int
 
 The *Gemara* immediately asks: why fifty percent specifically? Even at forty-nine-point-nine percent water, one drop suffices to bring it to exactly fifty-fifty — and at fifty-fifty, neither side wins, the water is not *batel*, and the *tumah* would already be present. *Eima ad mechtza* — the *Gemara* resolves that the concern is that they water it down *up to* (but not quite) half. The extra drop then tips the mixture from just-under-half to just-over-half, making the water the majority and triggering reawakening.
 
-## Fitness Standards…
+## Fitness Standards (II)
 
 ### Fetus Application
 
 *(See the discussion of the fetus and its fitness for consumption within the "Fitness Standards" section above, where the Gemara's analysis of* Rabbi Yochanan's *invocation of* bittul b'rov *and the response of* agav immeh *are addressed in their proper sequence.)*
 
-## Fish Brine Reawakens…
+## Fish Brine Reawaken (III)
 
 ### Double Derabbanan
 
@@ -158,7 +158,7 @@ The principle *Rava* articulates is: *u'plugta de-braita la plugta hi* — a dis
 
 The *Gemara* further asks: given this general statement that we follow the whole *perek* where uncontested, why did *Rav* also separately state *halacha keRabbi Yossi ben Meshullam*? The answer: had *Rav* only made the general statement without the separate ruling about *Rabbi Yossi*, one would have assumed the general statement was itself *about* *Rabbi Yossi* — since he has two statements in the subsequent *mishnah* and both are uncontested. The separate explicit ruling about *Rabbi Yossi* signals that the general statement is not about him, thereby directing us to understand that the general statement targets *Rabban Shimon ben Gamliel* specifically — whose position would otherwise be suspect in light of the *braisa* opposition.
 
-## Nursing Animals…
+## Nursing Animals (II)
 
 ### Compassion Lactation
 
@@ -170,7 +170,7 @@ This is a significant *chiddush*. The word *merachemet* shares its root with *re
 
 *Tosafos* on the phrase *hanichnas* observes why *Rabban Shimon ben Gamliel* chose specifically to describe entering the barn at night, with births occurring in the dark: *d'davka nakat hacha d'af al gav d'vadai hayta techila leidata balaila, she'adayin ein ha'imahot makirot bevladoteihen* — perhaps at night the mothers had not yet fully bonded with their young and might not recognize them. One might therefore think that in such circumstances, animals could end up nursing another's offspring. *Tosafos* concludes: *vedarkan linok ze mize veze mize afilu hachi lo chashinan* — even so, even with nighttime births and potential initial non-recognition, we are not concerned. *Rabban Shimon ben Gamliel's* ruling holds that nursing is presumptive evidence of parentage even under these conditions.
 
-## Fish Brine Reawakens…
+## Fish Brine Reawaken (III)
 
 ### Am Ha'aretz Dilution
 

@@ -1,6 +1,6 @@
 # Rosh Hashanah 33 — Daf Yomi Shiur
 
-## Malchuyot/Zichronot/Shofros
+## Malchuyot/Zichronot/ (II)
 
 ### Melech Mentions
 
@@ -90,7 +90,7 @@ This framework immediately creates a problem. For *zichronos* and *shofros*, the
 
 ---
 
-## Malchuyot/Zichronot/Shofros (continued)
+## Malchuyot/Zichronot/ (II)
 
 ### Fourth Malchuyot
 
@@ -166,7 +166,7 @@ This passage raises broader questions about the character of Rosh Hashanah. How 
 
 ---
 
-## Shofar Restrictions
+## Shofar Restrictions (II)
 
 ### Tchum Boundary
 
@@ -206,7 +206,7 @@ The *Mishnah* permits placing water or wine into the *shofar* to clean it: *aval
 
 ---
 
-## Women/Children
+## Women/Children (II)
 
 ### Women Blowing
 
@@ -230,7 +230,7 @@ As for children: not only does one not prevent them from blowing, but one active
 
 ---
 
-## Kavanah Issues
+## Kavanah Issues (II)
 
 ### Blower's Intent
 
@@ -254,7 +254,7 @@ Similarly: *vehashomea min hamitasek lo yatza* — one who hears the *shofar* fr
 
 ---
 
-## Shofar Restrictions (continued)
+## Shofar Restrictions (II)
 
 ### Positive Mitzvah
 
@@ -272,7 +272,7 @@ It is worth noting that the *Gemara* does not pause to analyze whether individua
 
 ---
 
-## Women/Children (continued)
+## Women/Children (II)
 
 ### Bal Tosif
 
@@ -330,7 +330,7 @@ This section also clarifies an important practical boundary for adults. The *Ram
 
 ---
 
-## Kavanah Issues (continued)
+## Kavanah Issues (II)
 
 ### Musical Intent
 
@@ -346,7 +346,7 @@ The *Gemara* deflects: *dilma ayidi d'tani resha mitasek, tana seifa nami mitase
 
 ---
 
-## Sound Sequence
+## Sound Sequence (II)
 
 ### Nine Sounds
 
@@ -366,7 +366,7 @@ The *Mishnah* introduces the *seder tekios*: *shalosh shel shalosh shalosh* — 
 
 ---
 
-## Sound Sequence (continued)
+## Sound Sequence (II)
 
 ### Distinct Sounds
 

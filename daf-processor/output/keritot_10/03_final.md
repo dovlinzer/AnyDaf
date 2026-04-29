@@ -202,7 +202,7 @@ Critically, a *tumah* that occurs specifically in the last six days of the sixty
 
 ---
 
-## Oleh VeYored Offerings
+## Oleh VeYored Offerin (II)
 
 ### Overview Variable
 
@@ -238,7 +238,7 @@ The Mishnah appends the observation: *mikan ata lamed she'asiris ha'eifah b'prut
 
 ---
 
-## Oleh VeYored Offerings…
+## Oleh VeYored Offerin (II)
 
 ### Pricing Scripture
 

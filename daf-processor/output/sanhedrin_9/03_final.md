@@ -58,7 +58,7 @@ Four lines from the bottom of 8a, we pick up again: *amar Ulla b'chosheshin l'la
 
 *V'hacha b'chivodan shel rishonim kamipalgi* — the dispute is about concern for the honor of the first judges, but in a scenario that is the reverse of what Ulla described. *V'hacha b'mai askinan k'gon d'ichnisu bei esrin v'tlasa* — the case began with a court of twenty-three, assembled *l'meidan dinei nefashos*. Then *v'izdu* — the court dispersed, because it became apparent that the husband would not be able to produce proof that his wife committed adultery. At that point the husband says: fine, I cannot prove adultery, but at least adjudicate the monetary question and let me establish that she forfeits her *ketubah*. So the question becomes: can twenty of the judges go home, leaving three to handle the *dinei mamonot*? *Rabbi Meir says yes — let twenty go and three remain. The Chachamim say: since we began with twenty-three, we keep twenty-three. To dismiss twenty of them would be a slight to their dignity. That is the *la'az* here — not that people will gossip about the woman, but that it would be disrespectful to dismiss the majority of a court that was properly convened. This is a fascinating read, though perhaps less intuitive than Ulla's.
 
-## Baraita Reconciliation
+## Baraita Reconciliati (II)
 
 ### Apparent Contradiction
 
@@ -68,7 +68,7 @@ Four lines from the bottom of 8a, we pick up again: *amar Ulla b'chosheshin l'la
 
 The Gemara then raises a challenge from a *braisa*: *v'chachamim omrim tavo'u mammon* — three; *tovu nefashos be-esrim ushlosha* — twenty-three. This sounds as though the Chachamim agree with Rabbi Meir: if the case involves only *dinei mamonot*, three suffice. But that seems to be exactly what Rabbi Meir said. In what sense, then, do the Chachamim disagree at all? This *braisa* appears to undermine Ulla's entire reading of the debate.
 
-## Rava's Framework…
+## Rava's Framework (II)
 
 ### Resolution
 
@@ -78,7 +78,7 @@ The Gemara then raises a challenge from a *braisa*: *v'chachamim omrim tavo'u ma
 
 The Gemara notes: *bishlama le-Rava* — for Rava, this *braisa* works nicely. *Tovu mamon techila* — if the case began as a *dinei mamonot* matter from the start, everyone agrees: three. *Tovu nefashos techila* — if it began as a capital case but the witnesses did not materialize and you are left with a monetary question, then even for that remaining monetary matter you keep twenty-three, because it was initiated as a capital case. For Rava, this resolves cleanly: the Chachamim are saying precisely that — if it started as *mamonot*, we agree to three; if it started as *nefashot*, we keep twenty-three even if all that remains is a monetary issue. But *ella le-Ulla kashya* — for Ulla it is difficult. On Ulla's reading, the whole point is that the case starts as *mamonot* and might evolve into *nefashot*, and that is precisely what causes the Chachamim to require twenty-three. How then does this *braisa* show the Chachamim agreeing to three when it begins as *mamonot*?
 
-## Baraita Reconciliation…
+## Baraita Reconciliati (II)
 
 ### Rava & Chiya Bar Abba
 

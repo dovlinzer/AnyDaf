@@ -210,7 +210,7 @@ This line in Tosafot is striking. It creates a layered taxonomy: the *shel yad* 
 
 ---
 
-## Biblical Source
+## Biblical Source (II)
 
 ### God's Back Kesher
 
@@ -364,7 +364,7 @@ But there is a deeper dimension to consider. If, as argued above, the *shel yad*
 
 ---
 
-## Order of Putting On
+## Order of Putting On (III)
 
 ### Putting On Order
 
@@ -388,7 +388,7 @@ This dependency is not a strict halachic prohibition in the sense that one canno
 
 ---
 
-## Time Restrictions
+## Time Restrictions (II)
 
 ### Placement Timing
 

@@ -132,7 +132,7 @@ From there the *Gemara* reasons by inference: if *nuksha* — which is by itself
 
 ---
 
-## Tannaim Attribution…
+## Tannaim Attribution (II)
 
 ### Rav Yehuda: Rabbi Meir
 
@@ -180,7 +180,7 @@ The resolution implicit in the *Gemara* is that each view holds that one *tanna*
 
 ---
 
-## Summary & Explanations
+## Summary & Explanatio (II)
 
 ### Small Proportions
 
@@ -344,7 +344,7 @@ This creates a difficulty for Rabbi Eliezer's position in the eating-context. If
 
 ---
 
-## Summary & Explanations…
+## Summary & Explanatio (II)
 
 ### Two Categories Recap
 

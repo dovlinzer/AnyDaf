@@ -24,7 +24,7 @@ Rabbah bar Shila said in the name of Rav Chisda: an *achsadra* — a portico, op
 
 The Gemara immediately presses: does this imply that if the *achsadra* did have columns, it would be *chayav*? The Gemara rejects this inference: *le-chizuk tikrah hu de-avidi* — even those columns are there only to support the ceiling, not to structure a doorway. They do not functionally constitute a *pitzimin*. The Gemara therefore corrects the formulation: even if an *achsadra* had such columns, it would still be exempt, since those columns do not serve the function of doorposts. Abaye then reports that he saw the *ispalidi* — some manner of portico or esplanade — of the master's house, which had columns and yet had no *mezuzah*, consistent with the ruling that such columns, being there only to support the roof, do not transform the structure into a proper doorway.
 
-## Doorframe Structure…
+## Doorframe Structure (II)
 
 ### Doorway Function
 
@@ -34,7 +34,7 @@ The word *mezuzah* in the verse *al mezuzot beitecha u'visharecha* does not refe
 
 Beyond structure, there is a second requirement: *beit dirah*. A *mezuzah* is obligated only on a dwelling or on something directly appended to a dwelling. This is why a *beit midrash* or *beit kenesset* does not require a *mezuzah* *mid'oraita* — these are not places of living. The *achsadra* or portico, though not itself a *beit dirah*, does have a connection to one, and the Tosafot at the bottom of the page addresses this directly. The Tosafot cites a *baraita* from Yoma which might have excluded a *beit shaar*, *achsadra*, and *mirpeset* from the obligation. The resolution offered by Mar bar Rav Ashi is that *mid'oraita* such structures are indeed exempt — since one does not live in them — but *miderabbanan* they do require a *mezuzah* because they serve or connect to a *beit dirah*. The principle is therefore layered: architectural form, intentional function, and relationship to a dwelling all determine the obligation.
 
-## Achsadra & Entrances…
+## Achsadra & Entrances (II)
 
 ### Rav's Achsadra
 

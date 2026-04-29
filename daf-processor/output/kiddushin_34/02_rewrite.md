@@ -108,7 +108,7 @@ The *gemara* closes this section with a discussion of the verse *v'hibitu achare
 
 The one who reads it approvingly proceeds to derive from this verse the distance protocols for standing before sages of different stature — transitioning the discussion toward the practical *halachot* of *kima* and *arba amot*.
 
-## Horseback Q…
+## Horseback Q (II)
 
 ### Distance Zones
 

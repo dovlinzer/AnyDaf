@@ -270,7 +270,7 @@ The Arab, shaken and bewildered, asked what this was about. People told him: *na
 
 ---
 
-## Workers' Rights
+## Workers' Rights (II)
 
 ### Custom Principle
 

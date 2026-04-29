@@ -176,7 +176,7 @@ The *Gemara* returns to a halachic framework: *hakol k'minhag hamedina* — all 
 
 ---
 
-## Workers' Rights…
+## Workers' Rights (II)
 
 ### Matya Story
 

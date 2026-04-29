@@ -146,7 +146,7 @@ The *gemara* then addresses the objection: if the *pasuk* is being used as the s
 
 ---
 
-## Blessing Priority…
+## Blessing Priority (II)
 
 ### Dates & Pomegranates
 

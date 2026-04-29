@@ -348,7 +348,7 @@ Rav Zutra, when he was carried on the shoulders of the crowd on the *Shabbat* of
 
 ---
 
-## Collective Consequence
+## Collective Consequen (II)
 
 ### Specific Cases
 
@@ -368,7 +368,7 @@ The counterpart: *Oy la-rasha* — woe to the wicked: they not only bring punish
 
 ---
 
-## Justice Distribution…
+## Justice Distribution (II)
 
 ### Interest Metaphor
 
@@ -376,7 +376,7 @@ The framework is captured in a striking financial metaphor. If you pay off your 
 
 ---
 
-## Collective Consequence…
+## Collective Consequen (II)
 
 ### Merit Bringer
 

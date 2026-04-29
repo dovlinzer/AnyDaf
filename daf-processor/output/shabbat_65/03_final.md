@@ -178,7 +178,7 @@ Rabbi Shimon ben Elazar formulates a general rule: any item situated beneath a h
 
 ---
 
-## Women's Attire
+## Women's Attire (II)
 
 ### Coin Wound
 
@@ -294,7 +294,7 @@ As for the mats in *Tishrei*: Rashi explains that in the autumn, the river could
 
 ---
 
-## Women's Attire
+## Women's Attire (II)
 
 ### Coin Muktzah
 

@@ -158,7 +158,7 @@ The one exception is *shifchasa* — her own slave woman. *Mipnei she'liba gas b
 
 ---
 
-## Witness Credibility…
+## Witness Credibility (II)
 
 ### Whose Slave?
 

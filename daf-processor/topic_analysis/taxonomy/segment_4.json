@@ -1,0 +1,2620 @@
+{
+  "segment": 4,
+  "segment_name": "Methodology and Authorities",
+  "entries": [
+    {
+      "id": "talmudic_methodology",
+      "name": "Talmudic Methodology",
+      "hebrew": null,
+      "parent_id": null,
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Principles, reasoning patterns, and structural features of Talmudic legal analysis"
+    },
+    {
+      "id": "meth_stam_mishnah",
+      "name": "Stam Mishnah",
+      "hebrew": "סְתָם מִשְׁנָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Anonymous Mishnah treated as authoritative baseline; attributed to Rabbi Meir"
+    },
+    {
+      "id": "meth_baraita",
+      "name": "Baraita",
+      "hebrew": "בָּרַיְיתָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Tannaitic teaching not included in the Mishnah; cited in the Gemara as supporting or challenging evidence"
+    },
+    {
+      "id": "meth_teiku",
+      "name": "Teiku / Taku (Unresolved Question)",
+      "hebrew": "תֵּיקוּ",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Designation for a Talmudic question left unresolved; various interpretations of the term exist"
+    },
+    {
+      "id": "meth_ibaya_lehu",
+      "name": "Ibaya Lehu (The Question Was Raised)",
+      "hebrew": "אִבַּעְיָא לְהוּ",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Standard formula introducing an unresolved query in the Gemara"
+    },
+    {
+      "id": "meth_asmachta_exegesis",
+      "name": "Asmachta (Exegetical Support)",
+      "hebrew": "אַסְמַכְתָּא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "A Scriptural peg used to support a rabbinic ruling without being its actual source"
+    },
+    {
+      "id": "meth_deorayta_derabanan",
+      "name": "Deorayta vs. Derabanan",
+      "hebrew": "דְּאוֹרַיְיתָא וּדְרַבָּנָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Distinction between Torah-level obligations and rabbinic enactments; critical for doubt-resolution and leniency"
+    },
+    {
+      "id": "meth_takkanah",
+      "name": "Takkanah (Rabbinic Enactment)",
+      "hebrew": "תַּקָּנָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Positive rabbinic legislation instituting new practice"
+    },
+    {
+      "id": "meth_gezeirah",
+      "name": "Gezeirah (Rabbinic Protective Fence)",
+      "hebrew": "גְּזֵרָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Preventive rabbinic prohibition enacted as a 'fence' around Torah law"
+    },
+    {
+      "id": "meth_gezeirah_lgezeirah",
+      "name": "Gezeirah l'Gezeirah (Double Rabbinic Fence)",
+      "hebrew": "גְּזֵרָה לִגְזֵרָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Rabbinic fence upon a rabbinic fence; generally not permitted"
+    },
+    {
+      "id": "meth_minhag",
+      "name": "Minhag (Custom)",
+      "hebrew": "מִנְהָג",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Established communal or individual custom; legal weight and relationship to formal law"
+    },
+    {
+      "id": "meth_minhag_hamedina",
+      "name": "Minhag haMedinah (Regional Custom)",
+      "hebrew": "מִנְהַג הַמְּדִינָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Local or regional custom that carries legal weight in commercial and labor law"
+    },
+    {
+      "id": "meth_horaas_shaah",
+      "name": "Hora'at Sha'ah (Temporary Ruling)",
+      "hebrew": "הוֹרָאַת שָׁעָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "One-time emergency ruling that does not set permanent precedent"
+    },
+    {
+      "id": "meth_halacha_lemoshe_misinai",
+      "name": "Halachah leMoshe miSinai",
+      "hebrew": "הֲלָכָה לְמֹשֶׁה מִסִּינַי",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Laws transmitted orally from Sinai without explicit Scriptural derivation"
+    },
+    {
+      "id": "meth_dibrah_torah",
+      "name": "Dibrah Torah k'Lshon Bnei Adam",
+      "hebrew": "דִּבְּרָה תוֹרָה כִּלְשׁוֹן בְּנֵי אָדָם",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Principle that the Torah speaks in ordinary human language; affects how repetitions and style are interpreted"
+    },
+    {
+      "id": "meth_lo_plug",
+      "name": "Lo Plug (No Distinction Made)",
+      "hebrew": "לֹא פְּלוּג",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Principle that a rabbinic ruling applies uniformly without exception, even where the reason does not apply"
+    },
+    {
+      "id": "meth_davar_shebeMinyan",
+      "name": "Davar sheb'Minyan",
+      "hebrew": "דָּבָר שֶׁבְּמִנְיָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A rabbinic ruling enacted by formal count that requires another formal vote to overturn"
+    },
+    {
+      "id": "meth_toch_kedei_dibbur",
+      "name": "Toch Kedei Dibbur",
+      "hebrew": "תּוֹךְ כְּדֵי דִּבּוּר",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The brief moment following a statement during which a retraction or addition is treated as simultaneous"
+    },
+    {
+      "id": "meth_kofin",
+      "name": "Kofin (Court Compulsion)",
+      "hebrew": "כּוֹפִין",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Cases where the court compels compliance with a positive obligation"
+    },
+    {
+      "id": "meth_lifnim_mishurat_hadin",
+      "name": "Lifnim miShurat haDin (Beyond the Letter of the Law)",
+      "hebrew": "לִפְנִים מִשּׁוּרַת הַדִּין",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Acting beyond strict legal requirement; sometimes judicially enforced"
+    },
+    {
+      "id": "meth_dina_dmalchuta",
+      "name": "Dina d'Malchuta Dina (The Law of the Land is Law)",
+      "hebrew": "דִּינָא דְמַלְכוּתָא דִּינָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Principle recognizing secular governmental law as binding in civil matters"
+    },
+    {
+      "id": "meth_mutav_sheyihyu",
+      "name": "Mutav sheyihyu Shogigin",
+      "hebrew": "מוּטָב שֶׁיִּהְיוּ שׁוֹגְגִין",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Better that people sin inadvertently than deliberately; rationale for not publicizing certain prohibitions"
+    },
+    {
+      "id": "meth_oness_rachmana",
+      "name": "Oness Rachmana Patreih (The Merciful One Exempts the Compelled)",
+      "hebrew": "אוֹנֵס רַחֲמָנָא פָּטְרֵיהּ",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Principle that one acting under duress is exempt from liability"
+    },
+    {
+      "id": "meth_guzma",
+      "name": "Guzma (Talmudic Exaggeration)",
+      "hebrew": "גּוּזְמָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Hyperbolic or rhetorical overstatement in rabbinic literature not meant literally"
+    },
+    {
+      "id": "meth_talmudic_lists",
+      "name": "Talmudic Lists",
+      "hebrew": null,
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Structural enumerations (e.g., 'These are the four...') as a pedagogic and mnemonic device"
+    },
+    {
+      "id": "meth_milta_delo_schechicha",
+      "name": "Milta d'Lo Schechicha Lo Gazru Bei Rabbanan",
+      "hebrew": "מִילְּתָא דְּלָא שְׁכִיחָא לָא גָּזְרוּ בֵּיהּ רַבָּנָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Rabbis did not legislate for uncommon situations"
+    },
+    {
+      "id": "meth_ein_ruach_chachamim",
+      "name": "Ein Ruach Chachamim Nochah Heimenu",
+      "hebrew": "אֵין רוּחַ חֲכָמִים נוֹחָה הֵימֶנּוּ",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The Sages are displeased with a certain behavior; non-binding disapproval short of formal prohibition"
+    },
+    {
+      "id": "meth_koach_dhetera",
+      "name": "Koach d'Hetera Adif (The Power of Leniency is Greater)",
+      "hebrew": "כֹּחַ דְּהֶתֵּרָא עָדִיף",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Where possible, a decisor should justify leniency rather than stringency"
+    },
+    {
+      "id": "meth_lo_mibaya",
+      "name": "Lo Mibaya (It Goes Without Saying)",
+      "hebrew": "לֹא מִיבַּעְיָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Rhetorical formula indicating the obvious case, leading to the novel one"
+    },
+    {
+      "id": "meth_lehodia_kochen",
+      "name": "Lehodia Kochan (To Publicize Their Power)",
+      "hebrew": "לְהוֹדִיעַ כֹּחָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "A ruling is stated to demonstrate the full scope of the Sages' authority"
+    },
+    {
+      "id": "meth_batlah_daato",
+      "name": "Batlah Da'ato Eitzel Kol Adam",
+      "hebrew": "בָּטְלָה דַּעְתּוֹ אֵצֶל כָּל אָדָם",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "One's opinion is nullified in relation to all others; standard for minority nullification"
+    },
+    {
+      "id": "meth_gematria",
+      "name": "Gematria (Numerical Value Exegesis)",
+      "hebrew": "גִּימַטְרִיָּא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Interpretive method using numerical value of Hebrew letters"
+    },
+    {
+      "id": "meth_shibuda_drabi_natan",
+      "name": "Shibuda d'Rabbi Natan",
+      "hebrew": "שִׁיעְבּוּדָא דְּרַבִּי נָתָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Creditor of a debtor has a claim against the debtor's creditor; principle of indirect debt collection"
+    },
+    {
+      "id": "meth_dichuy",
+      "name": "Dichuy (Displacement / Rejection)",
+      "hebrew": "דִּחוּי",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Once an item or person is displaced from eligibility, whether it can be reinstated"
+    },
+    {
+      "id": "meth_ein_osin_mitzvot_chavilot",
+      "name": "Ein Osin Mitzvot Chavilot Chavilot",
+      "hebrew": "אֵין עוֹשִׂין מִצְווֹת חֲבִילוֹת חֲבִילוֹת",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "One should not perform mitzvot in bundles; each deserves individual attention"
+    },
+    {
+      "id": "meth_ein_omrin_lchatay",
+      "name": "Ein Omrin l'Adam Chatay Bishvil sheyizkeh",
+      "hebrew": "אֵין אוֹמְרִין לְאָדָם חֲטָא בִּשְׁבִיל שֶׁיִּזְכֶּה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "One may not sin in order to benefit another person"
+    },
+    {
+      "id": "meth_mitzvah_min_hamuvchar",
+      "name": "Mitzvah min haMuvchar (Preferred Manner of Mitzvah Performance)",
+      "hebrew": "מִצְוָה מִן הַמּוּבְחָר",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The optimal or most beautiful way to fulfill a commandment"
+    },
+    {
+      "id": "meth_mitzvah_haba_baveirah",
+      "name": "Mitzvah haBa'ah ba'Aveirah",
+      "hebrew": "מִצְוָה הַבָּאָה בַּעֲבֵרָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A mitzvah performed by means of a transgression is invalid or disqualified"
+    },
+    {
+      "id": "meth_zerizin_makdimin",
+      "name": "Zerizin Makdimin l'Mitzvot",
+      "hebrew": "זְרִיזִין מַקְדִּימִין לְמִצְווֹת",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "The diligent perform mitzvot at the earliest opportunity"
+    },
+    {
+      "id": "meth_ein_maavirin",
+      "name": "Ein Ma'avirin al haMitzvot",
+      "hebrew": "אֵין מַעֲבִירִין עַל הַמִּצְווֹת",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "One should not pass over a mitzvah opportunity to perform a later one"
+    },
+    {
+      "id": "meth_haoseh_bmitzvah_patur",
+      "name": "Ha'oseh b'Mitzvah Patur",
+      "hebrew": "הָעוֹסֵק בְּמִצְוָה פָּטוּר מִן הַמִּצְוָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "One engaged in one mitzvah is exempt from performing another simultaneously"
+    },
+    {
+      "id": "meth_mitzvot_aseh_shehazman_gerama",
+      "name": "Mitzvot Aseh shehaZ'man Gerama",
+      "hebrew": "מִצְווֹת עֲשֵׂה שֶׁהַזְּמַן גְּרָמָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Time-bound positive commandments from which women are exempt"
+    },
+    {
+      "id": "hermeneutical_principles",
+      "name": "Hermeneutical Principles",
+      "hebrew": "מִדּוֹת שֶׁהַתּוֹרָה נִדְרֶשֶׁת בָּהֶן",
+      "parent_id": null,
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "The formal rules (middot) by which the Torah is interpreted; primarily the 13 Middot of Rabbi Yishmael"
+    },
+    {
+      "id": "herm_kal_vachomer",
+      "name": "Kal vaChomer (A Fortiori Inference)",
+      "hebrew": "קַל וָחוֹמֶר",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "If X is true in a lenient case, it is certainly true in a stricter case. First of 13 Middot."
+    },
+    {
+      "id": "herm_gezerah_shavah",
+      "name": "Gezerah Shavah (Verbal Analogy)",
+      "hebrew": "גְּזֵרָה שָׁוָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Inference drawn from identical or analogous words appearing in two different passages. Second of 13 Middot."
+    },
+    {
+      "id": "herm_binyan_av",
+      "name": "Binyan Av (Building a General Principle)",
+      "hebrew": "בִּנְיַן אָב",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A principle derived from one verse or two verses applied to other cases. Third of 13 Middot."
+    },
+    {
+      "id": "herm_kelal_uperat",
+      "name": "Kelal uFerat (General and Particular)",
+      "hebrew": "כְּלָל וּפְרָט",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "When a general statement is followed by a particular example, the law is limited to the particular. Fourth of 13 Middot."
+    },
+    {
+      "id": "herm_perat_uklal",
+      "name": "Perat uKlal (Particular and General)",
+      "hebrew": "פְּרָט וּכְלָל",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "When a particular precedes a general, the general expands the particular. Fifth of 13 Middot."
+    },
+    {
+      "id": "herm_kelal_uperat_uklal",
+      "name": "Kelal uFerat uKlal",
+      "hebrew": "כְּלָל וּפְרָט וּכְלָל",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "General-particular-general: law applies to cases similar to the particular. Sixth of 13 Middot."
+    },
+    {
+      "id": "herm_kelal_tzarich_liperat",
+      "name": "Kelal shehu Tzarich liPerat",
+      "hebrew": "כְּלָל שֶׁהוּא צָרִיךְ לִפְרָט",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A general statement requiring a particular to explain it. Seventh of 13 Middot."
+    },
+    {
+      "id": "herm_perat_tzarich_liklal",
+      "name": "Perat shehu Tzarich liKlal",
+      "hebrew": "פְּרָט שֶׁהוּא צָרִיךְ לִכְלָל",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A particular requiring its general to explain it. Eighth of 13 Middot."
+    },
+    {
+      "id": "herm_exceptions_general_rules",
+      "name": "Exceptions from General Rules (Middot 9-11)",
+      "hebrew": null,
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Three variants dealing with cases that deviate from an established general rule. Middot 9-11 of Rabbi Yishmael."
+    },
+    {
+      "id": "herm_davar_halamedmeinyano",
+      "name": "Davar haLamed meInyano (Inference from Context)",
+      "hebrew": "דָּבָר הַלָּמֵד מֵעִנְיָנוֹ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Meaning derived from the surrounding context of a passage. Twelfth of 13 Middot."
+    },
+    {
+      "id": "herm_shnei_ketuvim",
+      "name": "Shnei Ketuvim haMachishim (Two Contradictory Verses)",
+      "hebrew": "שְׁנֵי כְתוּבִים הַמַּכְחִישִׁים",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Two contradictory verses resolved by a third. Thirteenth of 13 Middot."
+    },
+    {
+      "id": "herm_hekesh",
+      "name": "Hekesh (Scriptural Juxtaposition)",
+      "hebrew": "הֶקֵּשׁ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Analogy drawn from two subjects placed adjacent in a Biblical passage"
+    },
+    {
+      "id": "herm_lav_ha_michlal_aseh",
+      "name": "Lav haBa miChlal Aseh",
+      "hebrew": "לָאו הַבָּא מִכְּלַל עֲשֵׂה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "A negative prohibition derived by implication from a positive commandment"
+    },
+    {
+      "id": "herm_lav_shebiKlalot",
+      "name": "Lav shebikhlalot (Prohibition Subsumed in a General Rule)",
+      "hebrew": "לָאו שֶׁבִּכְלָלוֹת",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "A prohibition that is part of a general category; consequences for lashes"
+    },
+    {
+      "id": "herm_lav_nitak_laseh",
+      "name": "Lav haNitak la'Aseh",
+      "hebrew": "לָאו הַנִּיתַּק לַעֲשֵׂה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A prohibition rectifiable by a subsequent positive act; affects lashes and atonement"
+    },
+    {
+      "id": "herm_lav_nitan_lazharat_mitat_beit_din",
+      "name": "Lav haNitan l'Azharat Mitat Beit Din",
+      "hebrew": "לָאו הַנִּיתַּן לְאַזְהָרַת מִיתַת בֵּית דִּין",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "A prohibition serving as the warning for a capital offense; not punishable by lashes"
+    },
+    {
+      "id": "herm_aseh_docheh_lo_taaseh",
+      "name": "Aseh Docheh Lo Taaseh",
+      "hebrew": "עֲשֵׂה דּוֹחֶה לֹא תַּעֲשֶׂה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A positive commandment overrides a negative prohibition when they conflict"
+    },
+    {
+      "id": "herm_issur_chal_al_issur",
+      "name": "Ein Issur Chal al Issur",
+      "hebrew": "אֵין אִיסּוּר חָל עַל אִיסּוּר",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A prohibition cannot take effect on something already prohibited; exceptions include issur kolel and issur mosif"
+    },
+    {
+      "id": "herm_issur_kolel",
+      "name": "Issur Kolel (Encompassing Prohibition)",
+      "hebrew": "אִיסּוּר כּוֹלֵל",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A new prohibition that adds additional items to a pre-existing prohibition can take effect"
+    },
+    {
+      "id": "herm_issur_mosif",
+      "name": "Issur Mosif (Adding Prohibition)",
+      "hebrew": "אִיסּוּר מוֹסִיף",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A new prohibition that adds stringency to a pre-existing one can take effect"
+    },
+    {
+      "id": "herm_lavud",
+      "name": "Lavud (Constructive Connection)",
+      "hebrew": "לָבוּד",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Items within three tefachim of each other are considered connected; used in laws of sukkah and partitions"
+    },
+    {
+      "id": "herm_safek",
+      "name": "Safek (Doubt)",
+      "hebrew": "סָפֵק",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Halakhic uncertainty and rules for resolution; stricter at Torah level than rabbinic level"
+    },
+    {
+      "id": "herm_sfek_sfeika",
+      "name": "Sfek Sfeika (Double Doubt)",
+      "hebrew": "סְפֵק סְפֵיקָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Two layers of doubt; permits leniency even at Torah level under certain conditions"
+    },
+    {
+      "id": "herm_rov",
+      "name": "Rov (Majority)",
+      "hebrew": "רֹב",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Follow the majority; one of the primary mechanisms for resolving doubt"
+    },
+    {
+      "id": "herm_kol_deparish",
+      "name": "Kol d'Parish meRuba Parish",
+      "hebrew": "כָּל דְּפָרִישׁ מֵרֻבָּא פָּרִישׁ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Anything that separates from a group is assumed to have come from the majority"
+    },
+    {
+      "id": "herm_kol_kavua",
+      "name": "Kol Kavua k'Mechetzah al Mechetzah Dami",
+      "hebrew": "כָּל קָבוּעַ כְּמֶחֱצָה עַל מֶחֱצָה דָּמֵי",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "When the item is in a fixed location, majority does not apply; treated as 50-50"
+    },
+    {
+      "id": "herm_chazakah",
+      "name": "Chazakah (Presumptive Status)",
+      "hebrew": "חֲזָקָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Legal presumption that a prior status continues; multiple types including chezkat hamatzui and chezkat haguf"
+    },
+    {
+      "id": "herm_umdena",
+      "name": "Umdena (Logical Assumption)",
+      "hebrew": "אוּמְדְנָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Reasonable assessment of intent or situation used to adjudicate"
+    },
+    {
+      "id": "herm_umdena_demukhach",
+      "name": "Umdena deMukhach (Compelling Assumption)",
+      "hebrew": "אוּמְדְנָא דְּמוּכָּח",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A clear and convincing inference about intent that can override explicit statements"
+    },
+    {
+      "id": "herm_breira",
+      "name": "Breira (Retroactive Clarification)",
+      "hebrew": "בְּרֵירָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Whether a later event can retroactively determine the status of an earlier situation"
+    },
+    {
+      "id": "herm_kavua",
+      "name": "Kavua (Fixed Status)",
+      "hebrew": "קָבוּעַ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "When an item remains in its fixed location, different rules of doubt apply than when it separates"
+    },
+    {
+      "id": "herm_miggo",
+      "name": "Miggo (Since He Could Have)",
+      "hebrew": "מִגּוֹ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "A claim is believed because the claimant could have made a more advantageous claim"
+    },
+    {
+      "id": "herm_hol",
+      "name": "Ho'il (Since / Because)",
+      "hebrew": "הוֹאִיל",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Logical extension: since a possibility exists, the object is treated as if it were already that thing"
+    },
+    {
+      "id": "herm_psik_reisha",
+      "name": "Psik Reisha (Inevitable Consequence)",
+      "hebrew": "פְּסִיק רֵישֵׁיהּ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "An inevitable prohibited result of an action renders the action intentional, even if unintended"
+    },
+    {
+      "id": "herm_davar_sheino_mitkavein",
+      "name": "Davar she'Eino Mitkavein",
+      "hebrew": "דָּבָר שֶׁאֵינוֹ מִתְכַּוֵּן",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "An unintended act; generally permitted unless its prohibited consequence is inevitable (psik reisha)"
+    },
+    {
+      "id": "herm_melacha_sheeinah_tzerichah",
+      "name": "Melacha she'Einah Tzerichah l'Gufah",
+      "hebrew": "מְלָאכָה שֶׁאֵינָהּ צְרִיכָה לְגוּפָהּ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A Shabbat labor performed for a purpose other than its standard outcome; Rabbi Shimon exempts"
+    },
+    {
+      "id": "herm_mitasek",
+      "name": "Mitasek (Inadvertent Unaware Action)",
+      "hebrew": "מִתְעַסֵּק",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "One who performs a prohibited act without awareness of doing so; generally exempt"
+    },
+    {
+      "id": "herm_grama",
+      "name": "Grama (Indirect Causation)",
+      "hebrew": "גְּרָמָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Indirect causation of damage; generally exempt from monetary liability but morally prohibited"
+    },
+    {
+      "id": "herm_lifnei_iver",
+      "name": "Lifnei Iver (Placing a Stumbling Block)",
+      "hebrew": "לִפְנֵי עִוֵּר",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Prohibition against causing another to sin or giving harmful advice"
+    },
+    {
+      "id": "herm_ein_shaliach_ldvar_aveirah",
+      "name": "Ein Shaliach l'Dvar Aveirah",
+      "hebrew": "אֵין שָׁלִיחַ לִדְבַר עֲבֵרָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "An agent who commits a sin is personally liable; the sender cannot transfer responsibility via agency"
+    },
+    {
+      "id": "herm_kol_harauy_lbeeilah",
+      "name": "Kol haRa'uy l'Beeilah (Applies Only to What is Eligible)",
+      "hebrew": "כָּל הָרָאוּי לְבִילָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Only that which is fit for mixing requires mixing; used in minchah and other offering contexts"
+    },
+    {
+      "id": "herm_min_bsheino_mino",
+      "name": "Min b'Mino and Min b'she'Eino Mino",
+      "hebrew": "מִין בְּמִינוֹ וּמִין בְּשֶׁאֵינוֹ מִינוֹ",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Like-kind and unlike-kind mixtures; different nullification rules apply"
+    },
+    {
+      "id": "herm_circumstantial_evidence",
+      "name": "Circumstantial Evidence",
+      "hebrew": "אֳמַדְנָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Use of indirect evidence in Talmudic legal proceedings"
+    },
+    {
+      "id": "rabbinic_institutions",
+      "name": "Rabbinic Institutions and Courts",
+      "hebrew": "מוֹסָדוֹת רַבָּנִיִּים וּבָתֵּי דִּין",
+      "parent_id": null,
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles",
+        "webshas"
+      ],
+      "notes": "Formal bodies of rabbinic governance, adjudication, and teaching"
+    },
+    {
+      "id": "inst_sanhedrin_gedolah",
+      "name": "Sanhedrin Gedolah (Great Sanhedrin of 71)",
+      "hebrew": "סַנְהֶדְרִין גְּדוֹלָה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Supreme court of 71 judges in Jerusalem; jurisdiction over capital cases, the king, and national issues"
+    },
+    {
+      "id": "inst_sanhedrin_ketanah",
+      "name": "Sanhedrin Ketanah (Small Sanhedrin of 23)",
+      "hebrew": "סַנְהֶדְרִין קְטַנָּה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Regional court of 23 judges with capital jurisdiction"
+    },
+    {
+      "id": "inst_beit_din_shlosha",
+      "name": "Beit Din of Three",
+      "hebrew": "בֵּית דִּין שֶׁל שְׁלֹשָׁה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Minimal court for monetary cases (dinei mamonot)"
+    },
+    {
+      "id": "inst_nasi",
+      "name": "Nasi (Patriarch)",
+      "hebrew": "נָשִׂיא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Head of the Sanhedrin and leader of the Jewish community in Roman Palestine"
+    },
+    {
+      "id": "inst_av_beit_din",
+      "name": "Av Beit Din",
+      "hebrew": "אַב בֵּית דִּין",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "President of the court; second-highest position in the Sanhedrin"
+    },
+    {
+      "id": "inst_yeshiva_bavel",
+      "name": "Babylonian Yeshivot (Academies)",
+      "hebrew": "יְשִׁיבוֹת בָּבֶל",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "The great academies of Sura and Pumbedita that shaped the Babylonian Talmud"
+    },
+    {
+      "id": "inst_sura",
+      "name": "Academy of Sura",
+      "hebrew": "יְשִׁיבַת סוּרָא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Founded by Rav; major center of Babylonian Torah learning"
+    },
+    {
+      "id": "inst_pumbedita",
+      "name": "Academy of Pumbedita",
+      "hebrew": "יְשִׁיבַת פּוּמְבְּדִיתָא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Founded by Rav Yehudah bar Yechezkel; rival academy to Sura"
+    },
+    {
+      "id": "inst_yavneh",
+      "name": "Academy of Yavneh",
+      "hebrew": "יְשִׁיבַת יַבְנֶה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Re-established by Rabban Yochanan ben Zakkai after destruction of the Temple; seat of the reconstituted Sanhedrin"
+    },
+    {
+      "id": "inst_bet_midrash",
+      "name": "Beit Midrash (House of Study)",
+      "hebrew": "בֵּית מִדְרָשׁ",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "House of learning; institution for Torah study and rabbinic discourse"
+    },
+    {
+      "id": "inst_exilarch",
+      "name": "Reish Galuta (Exilarch)",
+      "hebrew": "רֵישׁ גָּלוּתָא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Political head of the Jewish community in Babylonia; relationship with the yeshivot"
+    },
+    {
+      "id": "inst_hora'ah",
+      "name": "Hora'ah (Authoritative Ruling)",
+      "hebrew": "הוֹרָאָה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "The authority to issue practical halakhic decisions; not granted to every sage"
+    },
+    {
+      "id": "inst_semicha",
+      "name": "Semichah (Rabbinic Ordination)",
+      "hebrew": "סְמִיכָה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Formal ordination transmitting judicial authority; ceased in Palestine in the 4th century"
+    },
+    {
+      "id": "tannaim",
+      "name": "Tannaim",
+      "hebrew": "תַּנָּאִים",
+      "parent_id": null,
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities",
+        "webshas"
+      ],
+      "notes": "Rabbinic sages of the Mishnaic period (c. 10–220 CE) whose opinions are recorded in the Mishnah and Baraita"
+    },
+    {
+      "id": "tanna_hillel",
+      "name": "Hillel",
+      "hebrew": "הִלֵּל",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Head of the school of Beit Hillel; known for lenient rulings and ethical teachings; fl. late 1st c. BCE"
+    },
+    {
+      "id": "tanna_shammai",
+      "name": "Shammai",
+      "hebrew": "שַׁמַּאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Head of the school of Beit Shammai; typically stricter than Hillel; fl. late 1st c. BCE"
+    },
+    {
+      "id": "tanna_beit_hillel",
+      "name": "Beit Hillel (School of Hillel)",
+      "hebrew": "בֵּית הִלֵּל",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "The halakhic school following Hillel's approach; generally lenient; halakhah follows Beit Hillel"
+    },
+    {
+      "id": "tanna_beit_shammai",
+      "name": "Beit Shammai (School of Shammai)",
+      "hebrew": "בֵּית שַׁמַּאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "The halakhic school following Shammai's approach; generally strict; frequently cited for its stringent positions"
+    },
+    {
+      "id": "tanna_raban_gamliel",
+      "name": "Rabban Gamliel",
+      "hebrew": "רַבָּן גַּמְלִיאֵל",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Nasi at Yavneh; standardized prayer and unified halakhah post-Destruction; fl. c. 80–110 CE"
+    },
+    {
+      "id": "tanna_rybz",
+      "name": "Rabban Yochanan ben Zakkai",
+      "hebrew": "רַבָּן יוֹחָנָן בֶּן זַכַּאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Founded the academy at Yavneh; enacted takanot after the Temple's destruction; fl. c. 30–90 CE"
+    },
+    {
+      "id": "tanna_rabbi_eliezer",
+      "name": "Rabbi Eliezer ben Hyrcanus",
+      "hebrew": "רַבִּי אֱלִיעֶזֶר בֶּן הֻרְקָנוֹס",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Student of Rabban Yochanan ben Zakkai; 'lined cistern that loses not a drop'; often strict; excommunicated in Achnai debate"
+    },
+    {
+      "id": "tanna_rabbi_yehoshua",
+      "name": "Rabbi Yehoshua",
+      "hebrew": "רַבִּי יְהוֹשֻׁעַ",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Colleague of R. Eliezer; prominent debater; fl. c. 70–130 CE"
+    },
+    {
+      "id": "tanna_rabbi_akiva",
+      "name": "Rabbi Akiva",
+      "hebrew": "רַבִּי עֲקִיבָא",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "One of the most prominent Tannaim; systematized halakhah; teacher of Rabbi Meir; martyred by Romans"
+    },
+    {
+      "id": "tanna_rabbi_yishmael",
+      "name": "Rabbi Yishmael",
+      "hebrew": "רַבִּי יִשְׁמָעֵאל",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Formulated the 13 Middot of interpretation; often in dispute with Rabbi Akiva on exegetical method"
+    },
+    {
+      "id": "tanna_rabbi_tarfon",
+      "name": "Rabbi Tarfon",
+      "hebrew": "רַבִּי טַרְפוֹן",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Contemporary of Rabbi Akiva; priestly background; known for his emphatic and sometimes exacting rulings"
+    },
+    {
+      "id": "tanna_rabbi_meir",
+      "name": "Rabbi Meir",
+      "hebrew": "רַבִּי מֵאִיר",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Chief student of Rabbi Akiva; Stam Mishnah attributed to him; his opinions are very sharp"
+    },
+    {
+      "id": "tanna_rabbi_yehudah_bar_ilai",
+      "name": "Rabbi Yehudah bar Ilai",
+      "hebrew": "רַבִּי יְהוּדָה בַּר אִילַאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Most frequently cited Tanna in the Mishnah; student of Rabbi Akiva; halakhah often follows him"
+    },
+    {
+      "id": "tanna_rabbi_shimon_bar_yochai",
+      "name": "Rabbi Shimon bar Yochai",
+      "hebrew": "רַבִּי שִׁמְעוֹן בַּר יוֹחַאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Student of Rabbi Akiva; mystical dimension; authored Zohar according to tradition; hid in cave from Romans"
+    },
+    {
+      "id": "tanna_rabbi_yosi_bar_chalafta",
+      "name": "Rabbi Yosi bar Chalafta",
+      "hebrew": "רַבִּי יוֹסֵי בַּר חֲלַפְתָּא",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Student of Rabbi Akiva; known for precision; halakhah frequently follows his view"
+    },
+    {
+      "id": "tanna_rabbi_elazar_ben_azaryah",
+      "name": "Rabbi Elazar ben Azaryah",
+      "hebrew": "רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Appointed Nasi temporarily; descended from Ezra; noted for his wisdom and aristocratic background"
+    },
+    {
+      "id": "tanna_ben_azzai",
+      "name": "Ben Azzai",
+      "hebrew": "בֶּן עַזַּאי",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Prominent Tanna; student who never married; one of the four who entered the Pardes"
+    },
+    {
+      "id": "tanna_ben_zoma",
+      "name": "Ben Zoma",
+      "hebrew": "בֶּן זוֹמָא",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Renowned for his wisdom and aggadic insights; one of the four who entered the Pardes"
+    },
+    {
+      "id": "tanna_rebbi",
+      "name": "Rabbi Yehudah haNasi (Rebbi)",
+      "hebrew": "רַבִּי יְהוּדָה הַנָּשִׂיא",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Redactor of the Mishnah; Nasi of the Sanhedrin; known simply as 'Rebbi'; close to Roman authorities"
+    },
+    {
+      "id": "tanna_bar_kappara",
+      "name": "Bar Kappara",
+      "hebrew": "בַּר קַפָּרָא",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Student of Rabbi Yehudah haNasi; transitional figure between Tannaitic and Amoraic periods"
+    },
+    {
+      "id": "amoraim",
+      "name": "Amoraim",
+      "hebrew": "אָמוֹרָאִים",
+      "parent_id": null,
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities",
+        "webshas"
+      ],
+      "notes": "Rabbinic sages of the Talmudic period (c. 220–500 CE) whose discussions form the Gemara"
+    },
+    {
+      "id": "amora_palestinian",
+      "name": "Palestinian Amoraim",
+      "hebrew": "אָמוֹרָאֵי אֶרֶץ יִשְׂרָאֵל",
+      "parent_id": "amoraim",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Amoraim active in Eretz Yisrael (c. 220–375 CE); discussions preserved primarily in the Jerusalem Talmud"
+    },
+    {
+      "id": "amora_babylonian",
+      "name": "Babylonian Amoraim",
+      "hebrew": "אָמוֹרָאֵי בָּבֶל",
+      "parent_id": "amoraim",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Amoraim active in Babylonia (c. 220–500 CE); discussions form the Babylonian Talmud"
+    },
+    {
+      "id": "amora_rabbi_yochanan",
+      "name": "Rabbi Yochanan bar Nafcha",
+      "hebrew": "רַבִּי יוֹחָנָן בַּר נַפְחָא",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Primary redactor of the Jerusalem Talmud; principal authority of the first generation of Palestinian Amoraim"
+    },
+    {
+      "id": "amora_reish_lakish",
+      "name": "Reish Lakish (Rabbi Shimon ben Lakish)",
+      "hebrew": "רֵישׁ לָקִישׁ",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Constant disputant with Rabbi Yochanan; brother-in-law; known for sharp argumentation"
+    },
+    {
+      "id": "amora_rabbi_chanina",
+      "name": "Rabbi Chanina",
+      "hebrew": "רַבִּי חֲנִינָא",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Senior Palestinian Amora; known for his piety and healing ability"
+    },
+    {
+      "id": "amora_rabbi_oshiya",
+      "name": "Rabbi Oshiya",
+      "hebrew": "רַבִּי אוֹשַׁעְיָא",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Early Palestinian Amora; known for his encyclopedic knowledge of Baraitot"
+    },
+    {
+      "id": "amora_rabbi_yannai",
+      "name": "Rabbi Yannai",
+      "hebrew": "רַבִּי יַנַּאי",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Early Palestinian Amora; teacher of Rabbi Yochanan"
+    },
+    {
+      "id": "amora_rabbi_yehoshua_ben_levi",
+      "name": "Rabbi Yehoshua ben Levi",
+      "hebrew": "רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "First-generation Palestinian Amora; known for his aggadic teachings and legendary stories"
+    },
+    {
+      "id": "amora_rabbi_elazar_ben_pedat",
+      "name": "Rabbi Elazar ben Pedat",
+      "hebrew": "רַבִּי אֶלְעָזָר בֶּן פְּדַת",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Second-generation Palestinian Amora; prominent student of Rabbi Yochanan; transmits many rulings"
+    },
+    {
+      "id": "amora_rabbi_ami",
+      "name": "Rabbi Ami",
+      "hebrew": "רַבִּי אַמִּי",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third-generation Palestinian Amora; student of Rabbi Yochanan; leader of the Tiberias academy"
+    },
+    {
+      "id": "amora_rabbi_asi",
+      "name": "Rabbi Asi",
+      "hebrew": "רַבִּי אַסִּי",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third-generation Palestinian Amora; colleague of Rabbi Ami; often cited together with him"
+    },
+    {
+      "id": "amora_rabbi_abbahu",
+      "name": "Rabbi Abbahu",
+      "hebrew": "רַבִּי אַבָּהוּ",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third-generation Palestinian Amora based in Caesarea; engaged with Roman-Christian polemics"
+    },
+    {
+      "id": "amora_rav_zeira",
+      "name": "Rav Zeira",
+      "hebrew": "רַב זֵירָא",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Babylonian-born Amora who emigrated to Palestine; known for extreme piety and asceticism"
+    },
+    {
+      "id": "amora_rabbi_jeremiah",
+      "name": "Rabbi Jeremiah",
+      "hebrew": "רַבִּי יִרְמְיָה",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fourth-generation Palestinian Amora; famous for his sharp hypothetical edge cases"
+    },
+    {
+      "id": "amora_rabbi_mana",
+      "name": "Rabbi Mana",
+      "hebrew": "רַבִּי מָנָא",
+      "parent_id": "amora_palestinian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fifth-generation Palestinian Amora; one of the last major sages of the Jerusalem Talmud"
+    },
+    {
+      "id": "amora_rav",
+      "name": "Rav (Abba Areka)",
+      "hebrew": "רַב",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Founder of the Sura academy; first major Babylonian Amora; student of Rabbi Yehudah haNasi; fl. c. 175–247 CE"
+    },
+    {
+      "id": "amora_shmuel",
+      "name": "Shmuel",
+      "hebrew": "שְׁמוּאֵל",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Head of Nehardea academy; colleague of Rav; expert in civil law and astronomy; formulated Dina d'Malchuta Dina"
+    },
+    {
+      "id": "amora_rav_huna",
+      "name": "Rav Huna",
+      "hebrew": "רַב הוּנָא",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Second-generation Babylonian Amora; head of Sura after Rav; led 800 students; known for charity"
+    },
+    {
+      "id": "amora_rav_yehudah",
+      "name": "Rav Yehudah bar Yechezkel",
+      "hebrew": "רַב יְהוּדָה בַּר יְחֶזְקֵאל",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Founded Pumbedita academy; student of Rav and Shmuel; noted for precise transmission of teachings"
+    },
+    {
+      "id": "amora_rav_chisda",
+      "name": "Rav Chisda",
+      "hebrew": "רַב חִסְדָּא",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Second/third generation Babylonian Amora; head of Sura; known for his sharp questions"
+    },
+    {
+      "id": "amora_rav_sheshet",
+      "name": "Rav Sheshet",
+      "hebrew": "רַב שֵׁשֶׁת",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Second/third generation Babylonian Amora; blind but possessed extraordinary memory of Baraitot"
+    },
+    {
+      "id": "amora_rav_nachman",
+      "name": "Rav Nachman bar Yaakov",
+      "hebrew": "רַב נַחְמָן בַּר יַעֲקֹב",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Second/third generation Babylonian Amora; expert in civil law; son-in-law of the Exilarch"
+    },
+    {
+      "id": "amora_rabba",
+      "name": "Rabba bar Nachmani",
+      "hebrew": "רַבָּה בַּר נַחְמָנִי",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third-generation Babylonian Amora; head of Pumbedita; known as 'Uprooter of Mountains' for sharp analysis"
+    },
+    {
+      "id": "amora_rav_yosef",
+      "name": "Rav Yosef",
+      "hebrew": "רַב יוֹסֵף",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third-generation Babylonian Amora; head of Pumbedita; 'Sinai' for his encyclopedic knowledge; lost memory and recovered it"
+    },
+    {
+      "id": "amora_rav_nachman_bar_yitzchak",
+      "name": "Rav Nachman bar Yitzchak",
+      "hebrew": "רַב נַחְמָן בַּר יִצְחָק",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Third/fourth generation Babylonian Amora; succeeded Rava as head of Pumbedita"
+    },
+    {
+      "id": "amora_abaye",
+      "name": "Abaye",
+      "hebrew": "אַבַּיֵּי",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fourth-generation Babylonian Amora; head of Pumbedita; perpetual disputant with Rava; halakhah follows Rava except in 6 cases (YaL KGaM)"
+    },
+    {
+      "id": "amora_rava",
+      "name": "Rava",
+      "hebrew": "רָבָא",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fourth-generation Babylonian Amora; head of Machoza; the dominant halakhic voice in most Talmudic disputes with Abaye"
+    },
+    {
+      "id": "amora_rav_papa",
+      "name": "Rav Papa",
+      "hebrew": "רַב פָּפָּא",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fifth-generation Babylonian Amora; student of Abaye and Rava; head of Naresh; known for mediating positions"
+    },
+    {
+      "id": "amora_rav_ashi",
+      "name": "Rav Ashi",
+      "hebrew": "רַב אָשִׁי",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Fifth/sixth generation; head of Sura for 60 years; principal redactor of the Babylonian Talmud"
+    },
+    {
+      "id": "amora_ravina",
+      "name": "Ravina",
+      "hebrew": "רָבִינָא",
+      "parent_id": "amora_babylonian",
+      "category": "RABBINIC AUTHORITIES — AMORAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Co-redactor of the Babylonian Talmud with Rav Ashi; 'Rav Ashi and Ravina — end of instruction'"
+    },
+    {
+      "id": "geonim_rishonim",
+      "name": "Geonim and Rishonim",
+      "hebrew": "גְּאוֹנִים וְרִאשׁוֹנִים",
+      "parent_id": null,
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Post-Talmudic halakhic authorities: Geonim (600–1050) and Rishonim (1050–1500)"
+    },
+    {
+      "id": "geonic_era",
+      "name": "Geonim (600–1050 CE)",
+      "hebrew": "גְּאוֹנִים",
+      "parent_id": "geonim_rishonim",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Heads of the Babylonian academies of Sura and Pumbedita who served as supreme halakhic authorities"
+    },
+    {
+      "id": "gaon_saadia",
+      "name": "Rav Saadia Gaon",
+      "hebrew": "רַב סַעֲדְיָה גָּאוֹן",
+      "parent_id": "geonic_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "882–942 CE; Head of Sura; philosopher, polemicist, and halakhist; authored Emunot v'Deot"
+    },
+    {
+      "id": "gaon_sherira",
+      "name": "Rav Sherira Gaon",
+      "hebrew": "רַב שְׁרִירָא גָּאוֹן",
+      "parent_id": "geonic_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "c. 906–1006 CE; Head of Pumbedita; famous epistle (Iggeret Rav Sherira Gaon) on Talmudic history"
+    },
+    {
+      "id": "gaon_hai",
+      "name": "Rav Hai Gaon",
+      "hebrew": "רַב הַאי גָּאוֹן",
+      "parent_id": "geonic_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "939–1038 CE; Last great Gaon; son of Sherira; prolific responsa author; head of Pumbedita"
+    },
+    {
+      "id": "gaon_amram",
+      "name": "Rav Amram Gaon",
+      "hebrew": "רַב עַמְרָם גָּאוֹן",
+      "parent_id": "geonic_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "d. 875 CE; Head of Sura; compiled the first comprehensive Siddur (Seder Rav Amram Gaon)"
+    },
+    {
+      "id": "rishon_era",
+      "name": "Rishonim (1050–1500 CE)",
+      "hebrew": "רִאשׁוֹנִים",
+      "parent_id": "geonim_rishonim",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Medieval halakhic authorities whose commentaries and codes form the bedrock of later halakhic decisions"
+    },
+    {
+      "id": "rishon_rashi",
+      "name": "Rashi (Rabbi Shlomo Yitzchaki)",
+      "hebrew": "רַשִׁ\"י",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "France, 1040–1105; Wrote the primary commentary on the Talmud and Torah; essential for Talmud study"
+    },
+    {
+      "id": "rishon_rabbenu_tam",
+      "name": "Rabbenu Tam (Rabbi Yaakov ben Meir)",
+      "hebrew": "רַבֵּנוּ תָּם",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "France, 1100–1171; Grandson of Rashi; leader of the Tosafist school; Sefer haYashar"
+    },
+    {
+      "id": "rishon_ri",
+      "name": "Ri (Rabbi Yitzchak ben Shmuel of Dampierre)",
+      "hebrew": "רִ\"י",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "France, 1120–1200; Successor to Rabbenu Tam as leader of the Tosafists"
+    },
+    {
+      "id": "rishon_tosafot",
+      "name": "Tosafot",
+      "hebrew": "תּוֹסָפוֹת",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "School of French and German medieval commentators (c. 1100–1300); dialectical critique of Rashi printed in standard Talmud editions"
+    },
+    {
+      "id": "rishon_rif",
+      "name": "Rif (Rabbi Yitzchak Alfasi)",
+      "hebrew": "רִי\"ף",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Morocco/Spain, 1013–1103; Wrote Sefer haHalachot, the first major halakhic digest of the Talmud"
+    },
+    {
+      "id": "rishon_rambam",
+      "name": "Rambam (Maimonides, Rabbi Moshe ben Maimon)",
+      "hebrew": "רַמְבַּ\"ם",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities",
+        "rambam"
+      ],
+      "notes": "Spain/Egypt, 1138–1204; Wrote Mishneh Torah (code) and Moreh Nevuchim; systematic philosopher and posek"
+    },
+    {
+      "id": "rishon_ramban",
+      "name": "Ramban (Nachmanides, Rabbi Moshe ben Nachman)",
+      "hebrew": "רַמְבַּ\"ן",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain/Israel, 1194–1270; Major commentator on Torah and Talmud; defended Judaism in Barcelona Disputation"
+    },
+    {
+      "id": "rishon_rashba",
+      "name": "Rashba (Rabbi Shlomo ben Aderet)",
+      "hebrew": "רַשְׁבַּ\"א",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 1235–1310; Student of Ramban; wrote novellae on most of the Talmud and thousands of responsa"
+    },
+    {
+      "id": "rishon_rosh",
+      "name": "Rosh (Rabbi Asher ben Yechiel)",
+      "hebrew": "רֹא\"שׁ",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Germany/Spain, 1259–1327; Wrote Piskei haRosh; combined Tosafist methodology with Sephardic tradition"
+    },
+    {
+      "id": "rishon_tur",
+      "name": "Tur (Rabbi Yaakov ben Asher, Ba'al haTurim)",
+      "hebrew": "טוּר",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 1269–1343; Son of the Rosh; wrote Arba'ah Turim, the four-part code that preceded the Shulchan Aruch"
+    },
+    {
+      "id": "rishon_ritva",
+      "name": "Ritva (Rabbi Yom Tov ben Avraham Alashvili)",
+      "hebrew": "רִטְבַּ\"א",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 1250–1330; Wrote novellae on the Talmud; student of Rashba and Ra'ah"
+    },
+    {
+      "id": "rishon_meiri",
+      "name": "Meiri (Rabbi Menachem haMeiri)",
+      "hebrew": "הַמֵּאִירִי",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "France, 1249–1310; Wrote Beit haBechira, a comprehensive Talmud commentary; liberal views on non-Jews"
+    },
+    {
+      "id": "rishon_ran",
+      "name": "Ran (Rabbi Nissim of Gerona)",
+      "hebrew": "רַ\"ן",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 1320–1376; Wrote novellae on the Talmud and commentary on the Rif"
+    },
+    {
+      "id": "rishon_mordechai",
+      "name": "Mordechai (Rabbi Mordechai ben Hillel)",
+      "hebrew": "מָרְדְּכַי",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Germany, 1250–1298; Compiled Sefer Mordechai, an important halakhic digest; martyred in the Rindfleisch massacres"
+    },
+    {
+      "id": "rishon_sefer_hachinuch",
+      "name": "Sefer haChinuch",
+      "hebrew": "סֵפֶר הַחִינּוּךְ",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 13th c.; Anonymous work (attributed to Aaron haLevi of Barcelona) enumerating the 613 commandments by parashah"
+    },
+    {
+      "id": "acharonim",
+      "name": "Acharonim",
+      "hebrew": "אַחֲרוֹנִים",
+      "parent_id": null,
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Post-Rishonim halakhic authorities (1500–present) who comment on the Shulchan Aruch and continue the halakhic tradition"
+    },
+    {
+      "id": "acharon_beit_yosef",
+      "name": "Beit Yosef / Shulchan Aruch (Rabbi Yosef Karo)",
+      "hebrew": "בֵּית יוֹסֵף / שֻׁלְחָן עָרוּךְ",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities",
+        "shulchan_aruch"
+      ],
+      "notes": "Spain/Tzfat, 1488–1575; Wrote the Beit Yosef commentary on the Tur and the Shulchan Aruch code; principal Sephardic authority"
+    },
+    {
+      "id": "acharon_rama",
+      "name": "Rama (Rabbi Moshe Isserles)",
+      "hebrew": "רְמַ\"א",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities",
+        "shulchan_aruch"
+      ],
+      "notes": "Poland, 1530–1572; Added glosses (HaMapah) to the Shulchan Aruch representing Ashkenazic custom; principal Ashkenazic authority"
+    },
+    {
+      "id": "acharon_maharsha",
+      "name": "Maharsha (Rabbi Shmuel Eidels)",
+      "hebrew": "מַהַרְשָׁ\"א",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1555–1631; Wrote Chiddushei Halachot and Chiddushei Aggadot on the Talmud; printed in standard editions"
+    },
+    {
+      "id": "acharon_maharshal",
+      "name": "Maharshal (Rabbi Shlomo Luria)",
+      "hebrew": "מַהַרְשַׁ\"ל",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1510–1573; Wrote Yam shel Shlomo and Chochmat Shlomo; independent critical approach to Talmudic text"
+    },
+    {
+      "id": "acharon_magen_avraham",
+      "name": "Magen Avraham (Rabbi Avraham Gombiner)",
+      "hebrew": "מָגֵן אַבְרָהָם",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1633–1683; Major commentary on Orach Chaim section of Shulchan Aruch"
+    },
+    {
+      "id": "acharon_shaagat_aryeh",
+      "name": "Sha'agat Aryeh (Rabbi Aryeh Leib Gunzberg)",
+      "hebrew": "שַׁאֲגַת אַרְיֵה",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Lithuania, 1695–1785; Rigorous halakhic responsa; known for sharp analytical style"
+    },
+    {
+      "id": "acharon_vilna_gaon",
+      "name": "Vilna Gaon (Rabbi Eliyahu of Vilna, GRA)",
+      "hebrew": "הַגָּאוֹן מִוִּילְנָא",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Lithuania, 1720–1797; Master of all areas of Torah; wrote Biur haGra on Shulchan Aruch; opponent of Hasidism"
+    },
+    {
+      "id": "acharon_chatam_sofer",
+      "name": "Chatam Sofer (Rabbi Moshe Sofer)",
+      "hebrew": "חָתָם סוֹפֵר",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Hungary, 1762–1839; Major opponent of religious reform; thousands of responsa; 'Chadash asur min haTorah'"
+    },
+    {
+      "id": "acharon_aruch_hashulchan",
+      "name": "Aruch HaShulchan (Rabbi Yechiel Michel Epstein)",
+      "hebrew": "עָרוּךְ הַשֻּׁלְחָן",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Russia, 1829–1908; Comprehensive code following the structure of the Shulchan Aruch; integrates minhag and halakhah"
+    },
+    {
+      "id": "acharon_mishnah_berurah",
+      "name": "Mishnah Berurah (Chofetz Chaim, Rabbi Yisrael Meir Kagan)",
+      "hebrew": "מִשְׁנָה בְּרוּרָה",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1838–1933; Authoritative commentary on Orach Chaim; standard modern Ashkenazic halakhic reference"
+    },
+    {
+      "id": "acharon_chazon_ish",
+      "name": "Chazon Ish (Rabbi Avraham Yeshaya Karelitz)",
+      "hebrew": "חָזוֹן אִישׁ",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Israel, 1878–1953; Wrote comprehensive works on all areas of halakhah; major influence on Israeli haredi community"
+    },
+    {
+      "id": "meth_israel_vs_bavel",
+      "name": "Israel vs. Bavel (Eretz Yisrael and Babylonian Traditions)",
+      "hebrew": "אֶרֶץ יִשְׂרָאֵל וּבָבֶל",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Differences in halakhic tradition, calendar, and practice between the two major centers"
+    },
+    {
+      "id": "meth_ibbur_shanah",
+      "name": "Ibbur Shanah (Intercalation of the Year)",
+      "hebrew": "עִיבּוּר שָׁנָה",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The process of declaring a leap year; jurisdiction of the Sanhedrin or authorized court"
+    },
+    {
+      "id": "meth_safek_dorayta_drabbanan",
+      "name": "Safek d'Orayta and Safek d'Rabbanan",
+      "hebrew": "סָפֵק דְּאוֹרַיְיתָא וְסָפֵק דְּרַבָּנָן",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Distinction between doubt in Torah-level and rabbinic-level law; stricter treatment of Torah-level doubt"
+    },
+    {
+      "id": "meth_asmachta_transactions",
+      "name": "Asmachta (Conditional Transactions)",
+      "hebrew": "אַסְמַכְתָּא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "An overly optimistic conditional transaction where full intent to transfer ownership may be lacking; generally not enforceable"
+    },
+    {
+      "id": "herm_urim_vetummim",
+      "name": "Urim veTummim",
+      "hebrew": "אוּרִים וְתוּמִּים",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Divine oracular device on the High Priest's breastplate; used for national decisions; related to resolving doubtful cases"
+    },
+    {
+      "id": "meth_rabbinic_edicts",
+      "name": "Rabbinic Edicts and Enactments",
+      "hebrew": "תַּקָּנוֹת וּגְזֵרוֹת רַבָּנִיִּים",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "General category of post-biblical legislation; includes both takkanot (positive) and gezeirot (preventive)"
+    },
+    {
+      "id": "herm_rov_miut",
+      "name": "Rov and Miut (Majority and Minority)",
+      "hebrew": "רֹב וּמִיעוּט",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic rule that the majority determines the norm; minority status and its treatment"
+    },
+    {
+      "id": "meth_sages_general",
+      "name": "The Sages (Chachamim)",
+      "hebrew": "חֲכָמִים",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "The anonymous rabbinic majority opinion, often cited as 'Chachamim say' in contrast to individual named opinions"
+    },
+    {
+      "id": "herm_miluim",
+      "name": "Miluim (Contextual/Supplementary Analysis)",
+      "hebrew": "מִלּוּאִים",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Supplementary exegetical analysis adding to or completing a Talmudic discussion"
+    },
+    {
+      "id": "meth_tannaim_general",
+      "name": "Tannaim (General Category in Methodology)",
+      "hebrew": "תַּנָּאִים",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Status and authority of Tannaitic sources in Amoraic argumentation; 'Tanna contradicts Tanna'"
+    },
+    {
+      "id": "meth_amoraim_general",
+      "name": "Amoraim (General Category in Methodology)",
+      "hebrew": "אָמוֹרָאִים",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Status of Amoraic authority relative to Tannaitic sources; an Amora cannot dispute a Tanna without support"
+    },
+    {
+      "id": "herm_13_middot",
+      "name": "13 Middot of Rabbi Yishmael",
+      "hebrew": "י\"ג מִדּוֹת שֶׁהַתּוֹרָה נִדְרֶשֶׁת בָּהֶן",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "The canonical thirteen hermeneutical principles recited in the morning liturgy; basis for legal midrash"
+    },
+    {
+      "id": "meth_uvda_dchol",
+      "name": "Uvda d'Chol beShabbat v'Yom Tov",
+      "hebrew": "עוּבְדִין דְּחֹל בְּשַׁבָּת וְיוֹם טוֹב",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Weekday activities performed on Shabbat or Yom Tov that violate the spirit of the day even if technically permitted"
+    },
+    {
+      "id": "acharon_peri_megadim",
+      "name": "Peri Megadim (Rabbi Yosef ben Meir Teomim)",
+      "hebrew": "פְּרִי מְגָדִים",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Germany/Poland, 1727–1792; Supercommentary on the Magen Avraham and Turei Zahav; standard reference"
+    },
+    {
+      "id": "acharon_taz",
+      "name": "Taz — Turei Zahav (Rabbi David HaLevi Segal)",
+      "hebrew": "טוּרֵי זָהָב",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1586–1667; Major commentary on the Shulchan Aruch, particularly Yoreh Deah and Orach Chaim"
+    },
+    {
+      "id": "acharon_shach",
+      "name": "Shach — Siftei Kohen (Rabbi Shabbetai haKohen)",
+      "hebrew": "שִׂפְתֵי כֹּהֵן",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Lithuania, 1621–1662; Major commentary on Yoreh Deah and Choshen Mishpat of Shulchan Aruch"
+    },
+    {
+      "id": "acharon_noda_biyehudah",
+      "name": "Noda biYehudah (Rabbi Yechezkel Landau)",
+      "hebrew": "נוֹדַע בִּיהוּדָה",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Prague, 1713–1793; Major responsa collection; authoritative voice in 18th century halakhah"
+    },
+    {
+      "id": "acharon_beit_shmuel",
+      "name": "Beit Shmuel (Rabbi Shmuel ben Uri Shraga Phoebus)",
+      "hebrew": "בֵּית שְׁמוּאֵל",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 17th c.; Commentary on Even haEzer section of Shulchan Aruch; standard reference on family law"
+    },
+    {
+      "id": "acharon_chida",
+      "name": "Chida (Rabbi Chaim Yosef David Azulai)",
+      "hebrew": "חִ\"ד\"א",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Israel/Italy, 1724–1806; Prolific author and bibliographer; Shem haGedolim and Birkei Yosef"
+    },
+    {
+      "id": "inst_takkanot_uzna",
+      "name": "Takkanot of Usha",
+      "hebrew": "תַּקָּנוֹת אוּשָׁא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Enactments made at Usha after the Bar Kokhba revolt reconstituting rabbinic leadership in the Galilee"
+    },
+    {
+      "id": "inst_takkanot_ezra",
+      "name": "Takkanot of Ezra",
+      "hebrew": "תַּקָּנוֹת עֶזְרָא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Enactments attributed to Ezra the Scribe establishing communal and personal religious standards"
+    },
+    {
+      "id": "inst_anshei_knesset_hagedolah",
+      "name": "Anshei Knesset haGedolah (Men of the Great Assembly)",
+      "hebrew": "אַנְשֵׁי כְּנֶסֶת הַגְּדוֹלָה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Post-prophetic body of 120 elders that canonized Scripture, instituted prayer, and established many practices"
+    },
+    {
+      "id": "meth_tnai_kaful",
+      "name": "Tenai Kaful (Double Condition)",
+      "hebrew": "תְּנַאי כָּפוּל",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A valid legal condition must be stated in both positive and negative form (learned from the condition of the tribes of Gad and Reuven)"
+    },
+    {
+      "id": "herm_kol_harauy_lbeeilah_extended",
+      "name": "Kol haRa'uy liBeilah — Eligibility Requirement",
+      "hebrew": "כָּל הָרָאוּי לְבִילָה",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Only items fit for the required process are subject to that process's requirement"
+    },
+    {
+      "id": "meth_peshara",
+      "name": "Peshara (Compromise)",
+      "hebrew": "פְּשָׁרָה",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Court-mediated settlement as an alternative to strict legal judgment"
+    },
+    {
+      "id": "meth_zaken_mamre",
+      "name": "Zaken Mamre (Rebellious Elder)",
+      "hebrew": "זָקֵן מַמְרֵא",
+      "parent_id": "rabbinic_institutions",
+      "category": "RABBINIC INSTITUTIONS AND COURTS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A scholar who defies the Great Sanhedrin's ruling after deliberation; capital offense"
+    },
+    {
+      "id": "tanna_rebbe_shimon_ben_gamliel",
+      "name": "Rabban Shimon ben Gamliel",
+      "hebrew": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל",
+      "parent_id": "tannaim",
+      "category": "RABBINIC AUTHORITIES — TANNAIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Nasi; frequently cited in the Mishnah; his rulings are generally followed; father of Rabbi Yehudah haNasi"
+    },
+    {
+      "id": "herm_talmud_lomar",
+      "name": "Talmud Lomar (Scripture Teaches)",
+      "hebrew": "תַּלְמוּד לוֹמַר",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Standard formula introducing a Scriptural derivation of a halakhic point"
+    },
+    {
+      "id": "herm_mah_tzad",
+      "name": "Mah haTzad (What is the Common Denominator?)",
+      "hebrew": "מַה הַצַּד",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Argument by analogy based on a shared characteristic; type of logical inference in Talmudic reasoning"
+    },
+    {
+      "id": "herm_pircha",
+      "name": "Pircha (Logical Objection)",
+      "hebrew": "פִּרְכָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A refutation of an analogy by pointing out a distinguishing characteristic"
+    },
+    {
+      "id": "herm_tzrichuta",
+      "name": "Tzrichuta (Necessity of Repetition)",
+      "hebrew": "צְרִיכוּתָא",
+      "parent_id": "hermeneutical_principles",
+      "category": "HERMENEUTICAL PRINCIPLES",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Explanation of why both of two seemingly redundant teachings are necessary"
+    },
+    {
+      "id": "meth_sevara",
+      "name": "Sevara (Legal Reasoning / Common Sense)",
+      "hebrew": "סְבָרָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Logical reasoning that serves as an independent halakhic source; 'sevara is like the Torah itself'"
+    },
+    {
+      "id": "meth_chiddush",
+      "name": "Chiddush (Novel Legal Ruling)",
+      "hebrew": "חִידּוּשׁ",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A novel legal ruling that cannot be derived by logic alone; once stated, is not extended further"
+    },
+    {
+      "id": "meth_ikka_lemeimar",
+      "name": "Ikka d'Amrei / Itimar (Alternative Tradition)",
+      "hebrew": "אִיכָּא דְאָמְרֵי",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Formula introducing an alternative version of a previously cited ruling or discussion"
+    },
+    {
+      "id": "meth_maikah",
+      "name": "Meikha / Itibei (Objection from Mishnah or Baraita)",
+      "hebrew": "מֵיתִיבֵי",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Standard formula for raising a contradiction from a Tannaitic source against an Amoraic ruling"
+    },
+    {
+      "id": "meth_tartei_desatrei",
+      "name": "Tartei d'Satrei (Internal Contradiction)",
+      "hebrew": "תַּרְתֵּי דְּסָתְרֵי",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Two contradictory elements within a single ruling or source; requires resolution"
+    },
+    {
+      "id": "meth_kashya",
+      "name": "Kashya (Difficulty / Challenge)",
+      "hebrew": "קַשְׁיָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A difficulty or objection raised against a legal ruling; may remain unanswered (teku)"
+    },
+    {
+      "id": "meth_tiouvta",
+      "name": "Tiouvta / Tuvya (Decisive Refutation)",
+      "hebrew": "תְּיוּבְתָּא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "A conclusive refutation of an Amoraic position by a Tannaitic source; 'tiouvta d'X tiouvta'"
+    },
+    {
+      "id": "meth_tana_tuna",
+      "name": "Tana Tuna (The Tanna Taught)",
+      "hebrew": "תָּנָא תּוּנָא",
+      "parent_id": "talmudic_methodology",
+      "category": "TALMUDIC METHODOLOGY",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Formula citing a specific Tannaitic teaching; introduces a Baraita or Mishnah as evidence"
+    },
+    {
+      "id": "rishon_raavad",
+      "name": "Raavad (Rabbi Avraham ben David of Posquières)",
+      "hebrew": "רַאֲבַ\"ד",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Provence, 1125–1198; Wrote critical glosses (hassagot) on the Rambam's Mishneh Torah; independent halakhic authority"
+    },
+    {
+      "id": "rishon_rid",
+      "name": "Rid (Rabbi Yeshaya di Trani the Elder)",
+      "hebrew": "רִ\"ד",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Italy, c. 1180–1260; Wrote Tosafot Rid and Piskei Rid; major Italian Rishon"
+    },
+    {
+      "id": "rishon_rashbam",
+      "name": "Rashbam (Rabbi Shmuel ben Meir)",
+      "hebrew": "רַשְׁבַּ\"ם",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "France, 1085–1158; Grandson of Rashi; completed Rashi's commentary on Bava Batra; independent Talmud commentator"
+    },
+    {
+      "id": "rishon_ras_hi_additions",
+      "name": "Rabbeinu Chananel",
+      "hebrew": "רַבֵּנוּ חֲנַנְאֵל",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "North Africa, 990–1055; Wrote early Talmud commentary; bridged Geonic and Rishonic eras"
+    },
+    {
+      "id": "rishon_ramah",
+      "name": "Ramah (Rabbi Meir Abulafia)",
+      "hebrew": "רָמָ\"ה",
+      "parent_id": "rishon_era",
+      "category": "RABBINIC AUTHORITIES — GEONIM AND RISHONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Spain, 1170–1244; Wrote Yad Ramah on Sanhedrin and other tractates; important Talmudic commentary"
+    },
+    {
+      "id": "acharon_maharam_lublin",
+      "name": "Maharam of Lublin (Rabbi Meir ben Gedaliah)",
+      "hebrew": "מַהֲרַ\"ם מִלּוּבְּלִין",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1558–1616; Wrote Meir Einei Chachamim on the Talmud; important early Acharon"
+    },
+    {
+      "id": "acharon_penei_yehoshua",
+      "name": "Penei Yehoshua (Rabbi Yaakov Yehoshua Falk)",
+      "hebrew": "פְּנֵי יְהוֹשֻׁעַ",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland/Germany, 1680–1756; Major novellae on the Talmud; printed in standard editions"
+    },
+    {
+      "id": "acharon_ketzot_hachoshen",
+      "name": "Ketzot haChoshen (Rabbi Aryeh Leib haKohen Heller)",
+      "hebrew": "קְצוֹת הַחֹשֶׁן",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Galicia, 1745–1813; Deep analytical commentary on Choshen Mishpat; revolutionized study of civil law"
+    },
+    {
+      "id": "acharon_nesivos_hamishpat",
+      "name": "Nesivos haMishpat (Rabbi Yaakov Lorberbaum)",
+      "hebrew": "נְתִיבוֹת הַמִּשְׁפָּט",
+      "parent_id": "acharonim",
+      "category": "RABBINIC AUTHORITIES — ACHARONIM",
+      "sources": [
+        "authorities"
+      ],
+      "notes": "Poland, 1760–1832; Commentary on Choshen Mishpat; companion work to Ketzot haChoshen"
+    }
+  ]
+}

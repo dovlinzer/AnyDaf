@@ -26,7 +26,7 @@ The reason is not that these substances are *mekabel tumah* — that considerati
 
 This now creates the central tension with Shmuel's position. The *Tosefta* seems entirely unconcerned with whether a person *plans* to remove an object — it only asks whether the object is *mekabel tumah* and whether it will physically remain on its own. By contrast, Shmuel's principle was precisely about intent to remove: the wafer does not count because you will take it to eat it. Yet the *Tosefta*'s list includes many objects that one would naturally want to remove, and it rules that they *do* minimize the window. The *Gemara* must now work through this tension, going through the list case by case.
 
-## Maysivay to Shmuel…
+## Maysivay to Shmuel (II)
 
 ### Grass through Living Cre…
 

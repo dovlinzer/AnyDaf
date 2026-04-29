@@ -70,7 +70,7 @@ This is a good moment to clarify the logical structure at play. A *qal vachomer*
 
 ---
 
-## Issur Cheftza vs. Gavra
+## Issur Cheftza vs. Ga (II)
 
 ### Order of Neder/Shvua
 
@@ -178,7 +178,7 @@ And yet Rava's assertion stands: even in the sequential case, where the second *
 
 ## Power of Words
 
-### Issur Cheftza vs. Gavra
+### Issur Cheftza vs. Ga (II)vra
 
 It is worth pausing over what *Masechet Nedarim* reveals about the nature of speech. The *Gemara*'s language — that the second *shvua* has no *revach*, no space — treats obligations and statuses created by words as if they were concrete, quasi-physical entities that occupy space, hover, and compete. This is not incidental to the *sugya*; it is, in a sense, its deepest teaching. When one says *konam* or takes a *shvua*, one is not merely expressing an intention. One is creating a status — of an object, of oneself — that now has an independent existence in the world of *halacha*. It competes with other statuses, it occupies conceptual space, it can hover waiting for room to take effect. The tractate of *Nedarim* is, among other things, a meditation on the creative power of speech: how words construct religious realities, generate obligations, transform the status of objects, and build what might be called a personal religious world alongside the pre-existing structure of Torah obligations. Much as a *bamah* was a personal, do-it-yourself site of worship — the *Gemara* elsewhere compares *nedarim* to this — so one who makes *nedarim* is in a sense constructing his own overlay of sanctity and prohibition on a neutral world. The statuses thus created are real, weighty, and interact with one another in all the ways we have been tracing.
 

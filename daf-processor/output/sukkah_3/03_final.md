@@ -196,7 +196,7 @@ This may be the precise point of contention between Rebbe and the *Rabbanan*. Ev
 
 ---
 
-## 4x4 Standard…
+## 4x4 Standard (II)
 
 ### Exemptions
 

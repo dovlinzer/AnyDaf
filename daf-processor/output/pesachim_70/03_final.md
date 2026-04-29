@@ -44,7 +44,7 @@ The argument that thirteen covenants ought to carry halachic weight — to the p
 
 ---
 
-## Chagigah Overview
+## Chagigah Overview (II)
 
 ### Chagigah Definition
 
@@ -118,7 +118,7 @@ The *Gemara* then asks: granted that it is optional and therefore does not come 
 
 ---
 
-## Chagigah Overview (continued)
+## Chagigah Overview (II)
 
 ### Full Eating
 

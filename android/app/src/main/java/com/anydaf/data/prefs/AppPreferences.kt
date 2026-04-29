@@ -48,6 +48,7 @@ object AppPreferences {
     private val LAST_DONATION_NUDGE_TIMESTAMP = longPreferencesKey("lastDonationNudgeTimestamp")
     private val ENGAGEMENT_SECONDS_AT_LAST_NUDGE = longPreferencesKey("engagementSecondsAtLastNudge")
     private val DID_CLICK_DONATE = booleanPreferencesKey("didClickDonate")
+    private val HAS_ACCEPTED_TERMS = booleanPreferencesKey("hasAcceptedTerms")
     private val LAST_TRACTATE_INDEX = intPreferencesKey("lastTractateIndex")
     private val LAST_DAF = NEW_LAST_DAF_DOUBLE
     private val LAST_AMUD = intPreferencesKey("lastAmud")
@@ -64,6 +65,7 @@ object AppPreferences {
     val lastDonationNudgeTimestamp: Flow<Long> = store.data.map { it[LAST_DONATION_NUDGE_TIMESTAMP] ?: 0L }
     val engagementSecondsAtLastNudge: Flow<Long> = store.data.map { it[ENGAGEMENT_SECONDS_AT_LAST_NUDGE] ?: 0L }
     val didClickDonate: Flow<Boolean> = store.data.map { it[DID_CLICK_DONATE] ?: false }
+    val hasAcceptedTerms: Flow<Boolean> = store.data.map { it[HAS_ACCEPTED_TERMS] ?: false }
     val lastTractateIndex: Flow<Int> = store.data.map { it[LAST_TRACTATE_INDEX] ?: 0 }
     val lastDaf: Flow<Double> = store.data.map { it[LAST_DAF] ?: 2.0 }
     val lastAmud: Flow<Int> = store.data.map { it[LAST_AMUD] ?: 0 }
@@ -98,6 +100,10 @@ object AppPreferences {
 
     suspend fun saveDidClickDonate(clicked: Boolean) {
         store.edit { it[DID_CLICK_DONATE] = clicked }
+    }
+
+    suspend fun saveHasAcceptedTerms(accepted: Boolean) {
+        store.edit { it[HAS_ACCEPTED_TERMS] = accepted }
     }
 
     suspend fun saveLastSelection(tractateIndex: Int, daf: Double, amud: Int) {

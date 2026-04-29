@@ -76,7 +76,7 @@ Tosafot's discussion of the word *kubyustos* is worth pausing on. Rashi explains
 
 ---
 
-## Kiddushei Bia Nature
+## Kiddushei Bia Nature (II)
 
 ### Bia: Statement or Intent
 
@@ -104,7 +104,7 @@ The second case is *masar v'halach* — where the father has handed the girl ove
 
 ---
 
-## Kiddushei Bia Nature: Tosefta
+## Kiddushei Bia Nature (II)
 
 ### Tosefta: L'Shem Kiddushin
 

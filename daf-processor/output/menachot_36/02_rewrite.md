@@ -188,7 +188,7 @@ Why, of all the things Moses might have perceived in that singular moment of par
 
 ---
 
-## Biblical Source…
+## Biblical Source (II)
 
 ### Israel Above
 
@@ -316,7 +316,7 @@ But there is a deeper dimension to consider. If, as argued above, the *shel yad*
 
 ---
 
-## Order of Putting On
+## Order of Putting On (III)
 
 ### Putting On Order
 
@@ -340,7 +340,7 @@ The Gemara asks: *mei'ematai nevarech aleihen?* — from when does one make the 
 
 ---
 
-## Order of Putting On…
+## Order of Putting On (III)
 
 ### Veyayu Plural
 
@@ -348,7 +348,7 @@ Rav Kahana, in explaining the dependency of the *shel rosh* on the *shel yad*, g
 
 ---
 
-## Order of Putting On……
+## Order of Putting On (III)…
 
 ### Building Dependency
 
@@ -356,7 +356,7 @@ The underlying principle is a distinction between *state* and *action*. The *she
 
 ---
 
-## Time Restrictions…
+## Time Restrictions (II)
 
 ### Early Placement
 

@@ -92,7 +92,7 @@ The Gemara responds that the comparison is not sufficient to dissolve the concer
 
 ---
 
-## Nesachim Scope…
+## Nesachim Scope (II)
 
 ### Klal U'Frat Analysis
 
@@ -264,7 +264,7 @@ The Gemara then asks whether the derivation from *o lazevach* should instead tea
 
 ---
 
-## Metzora Exception…
+## Metzora Exception (II)
 
 ### Supporting Cases
 

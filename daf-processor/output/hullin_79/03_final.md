@@ -186,7 +186,7 @@ Rabbi Eliezer dissents: *kilayim ha-ba min ha-ez u-min ha-rachel, oso v'es beno 
 
 ---
 
-## Oso V'es Beno & Koy…
+## Oso V'es Beno & Koy (II)
 
 ### Which Koy?
 

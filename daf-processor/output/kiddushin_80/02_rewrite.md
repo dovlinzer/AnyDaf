@@ -90,7 +90,7 @@ The Rambam's ruling on *ed echad ne'eman be-issurin* illustrates this further. A
 
 ---
 
-## Chazaka as Evidence…
+## Chazaka as Evidence (II)
 
 ### Mother-Son Case
 
@@ -104,7 +104,7 @@ This brings the *gemara* back to the anomaly that was flagged at the outset: *ve
 
 ---
 
-## Infant & Dough
+## Infant & Dough (III)
 
 ### Setup
 
@@ -136,7 +136,7 @@ The *Chachamim* take a different view: *miuta ke-man de-leita dami* — the mino
 
 ---
 
-## Doubt Concepts…
+## Doubt Concepts (II)
 
 ### Chullin Framework
 
@@ -160,7 +160,7 @@ The *chazakah* involved in capital cases — a family presumed to be a family ov
 
 ---
 
-## Infant & Dough…
+## Infant & Dough (III)
 
 ### Rodents & Frogs
 
@@ -170,7 +170,7 @@ Here the decision is made by *rov*, and something has definitely touched the dou
 
 ---
 
-## Reconciliation…
+## Reconciliation (II)
 
 ### No Questions
 
@@ -182,7 +182,7 @@ These cases thus represent a middle category: more stringent than a pure *safek 
 
 ---
 
-## Infant & Dough……
+## Infant & Dough (III)…
 
 ### Clear Liquid
 

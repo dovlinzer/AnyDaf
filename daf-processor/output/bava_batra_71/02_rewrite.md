@@ -94,7 +94,7 @@ The *Gemara* presents a practical application of these principles. A dying man i
 
 *Mar Zutra* initially observes that the man said one hundred, not one hundred and twenty, seemingly limiting the gift. But *Rav Ashi* responds by citing our *Mishna*: *mi lo tnan bim'deamran bimchar aval b'noten matanah noten et kulan* — did we not learn that in cases of sale the restrictive rules apply, but in the case of a gift one gives all of it? *Alma man deyahiv matanah be'ayin yafah yahiv; hacha nami man deyahiv matanah be'ayin yafah yahiv* — the principle is that whoever gives a gift gives with a generous eye, and so here too the gift should be interpreted generously. The figure of one hundred barrels was, on this reading, approximate — the man was characterizing the house, not specifying a fractional share — and the proper interpretation is that he gave the entire house. Rav Ashi thus establishes a broader hermeneutical principle: whenever a gift can be interpreted either narrowly or generously, we interpret it in the most generous way possible.
 
-## Sale vs. Gift Logic…
+## Sale vs. Gift Logic (II)
 
 ### Gift Annulment
 

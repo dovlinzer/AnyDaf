@@ -132,7 +132,7 @@ The Gemara records two interpretive traditions. The first, cited as the local Pa
 
 ---
 
-## Town Sale…
+## Town Sale (II)
 
 ### Slave Status
 
@@ -146,7 +146,7 @@ The answer: *shani be-mitaltlei de-nayyadi mi-mitaltlei de-lo nayyadi* — there
 
 ---
 
-## Santar Debate…
+## Santar Debate (II)
 
 ### Santar Scribe
 

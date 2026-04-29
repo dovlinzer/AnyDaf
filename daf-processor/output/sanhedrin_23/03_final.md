@@ -1,6 +1,6 @@
 # Sanhedrin 23 — Daf Yomi Shiur
 
-## Perek III Intro
+## Perek III Intro (II)
 
 ### Context & Opening
 
@@ -58,7 +58,7 @@ Tosafot disagree with Rashi's reading of the *mishna*'s *pshat*. They maintain t
 
 ---
 
-## Mai Zeh Borer…
+## Mai Zeh Borer (II)
 
 ### Beit Din Rejection
 

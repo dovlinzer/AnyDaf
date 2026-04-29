@@ -166,7 +166,7 @@ For past-oriented oaths, it is relatively clear that lashes apply, and the *gema
 
 ---
 
-## Lashes Not Korban…
+## Lashes Not Korban (II)
 
 ### Rava's Comparison
 
@@ -202,7 +202,7 @@ The problem is severe: how does one receive lashes for a purely passive transgre
 
 ---
 
-## Yochanan & Passive Acts
+## Yochanan & Passive A (II)
 
 ### Yochanan Follows Stam
 
@@ -218,7 +218,7 @@ Yet *Rabbi Yochanan* himself rules otherwise. Together with *Reish Lakish*, he h
 
 ---
 
-## Yochanan & Passive Act…
+## Yochanan & Passive A (II)
 
 ### Two Reasons for No
 

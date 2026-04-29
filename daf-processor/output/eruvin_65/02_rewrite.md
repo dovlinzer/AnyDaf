@@ -112,7 +112,7 @@ The *Maharsha* adds a nuance: the key phrase is *b'yaino*, in his own wine. If s
 
 ---
 
-## Prayer Conditions…
+## Prayer Conditions (II)
 
 ### Modern Thresholds
 
@@ -124,7 +124,7 @@ The case of a *chatan* on his wedding day is instructive here as well: the *Gema
 
 ---
 
-## Wine Aggada…
+## Wine Aggada (II)
 
 ### Wine & Wisdom
 

@@ -96,7 +96,7 @@ The Gemara notes an apparent tension with Rav Nachman's own ruling in the case w
 
 ---
 
-## Proofs Against Rav & Shm…
+## Proofs Against Rav & (II)
 
 ### Widow/Ketubah Case
 
@@ -120,7 +120,7 @@ Rav Yosef deflects: *ha mani Beis Shamai he* — this *beraita* follows the view
 
 ---
 
-## Rav Nachman's Compromise
+## Rav Nachman's Compro (II)
 
 ### Rav Nachman's Visit
 
@@ -132,7 +132,7 @@ Rav Nachman declined. *Ikbi ve-asi kol hanei parsai le-ma'akra le-hada de-Rav ve
 
 ---
 
-## Rav Nachman's Compromi…
+## Rav Nachman's Compro (II)
 
 ### Pogem Shtar Case
 
@@ -148,7 +148,7 @@ A third case involves a *malveh* who died and left a brother rather than a son a
 
 ---
 
-## Proofs Against Rav & S…
+## Proofs Against Rav & (II)
 
 ### Partial Admission Case
 

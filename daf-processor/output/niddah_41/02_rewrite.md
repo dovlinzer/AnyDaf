@@ -112,7 +112,7 @@ The halachic consequence would be significant: if this were the ruling, *bedikos
 
 ---
 
-## Niddah Threshold…
+## Niddah Threshold (II)
 
 ### Between the Teeth
 

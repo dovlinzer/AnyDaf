@@ -86,7 +86,7 @@ From the *ezrat nashim* to the *ezrat yisrael*, there were fifteen steps, each a
 
 Finally, from the area beyond the *mizbeach* — moving through the *ezrat kohanim* — to the *ulam*, there were another twelve steps, each again half an *amah* tall, for a further rise of six *amot*. Adding six to thirteen and a half gives a total rise of nineteen and a half *amot* from the level of the outer eastern wall to the floor of the *ulam* and *heichal*. Since the doorways were all twenty *amot* tall, a *kohen* looking in a perfectly straight horizontal line from outside the eastern wall would, in theory, just barely be able to see the bottom half-*amah* of the *heichal* doorway — the threshold itself would be just at or barely above his line of sight.
 
-## Low Wall Necessity
+## Low Wall Necessity (II)
 
 ### Barely Sufficient Height
 
@@ -96,7 +96,7 @@ Finally, from the area beyond the *mizbeach* — moving through the *ezrat kohan
 
 This calculation creates an apparent difficulty for the passage we are analyzing. The *mishnah* in *Middot* states that the eastern wall was specifically kept low so that the *kohen* on *Har HaMishcha* could see the *heichal* opening. But if the total accumulated rise is only nineteen and a half *amot* and the doorways are twenty *amot* tall, then even with a wall of normal height, he ought to be able to see at least the bottom half-*amah* of the opening. Why, then, was a specially low wall necessary?
 
-## Middot Attribution Proof
+## Middot Attribution P (II)
 
 ### Challenge to Rabbanan
 
@@ -118,7 +118,7 @@ Once this additional *amah* is factored in, the arithmetic shifts decisively. Th
 
 Now the necessity of a low outer wall becomes clear. If the outer eastern wall were as high as the other walls, the *kohen* could only look through the gate at the top of that wall — which means his line of sight would be horizontal at the height of the gate. With a total rise of twenty and a half *amot* before the *heichal* floor, the *heichal* doorway would be entirely out of view. But if the eastern wall is low, the *kohen* can stand a bit higher relative to the wall — or rather, the low wall does not constrain his line of sight from above, and he can find an angle from *Har HaMishcha* that clears the wall and still reaches the *heichal* opening. The low wall is therefore directly necessitated by Rabbi Eliezer ben Yaakov's additional *amah* of rise before the *ulam*.
 
-## Middot Attribution Proof Conclusion
+## Middot Attribution P (II)
 
 ### Low Wall Proves Eliezer
 

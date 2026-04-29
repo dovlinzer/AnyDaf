@@ -40,7 +40,7 @@ This distinction can itself be parsed in two ways. It could reflect Rav's genera
 
 ---
 
-## Children & Yayin Nesech
+## Children & Yayin Nes (II)
 
 ### Rav Restatement
 
@@ -74,7 +74,7 @@ The *braita* states explicitly that only adults create *yayin nesech* and not ch
 
 ---
 
-## Children & Yayin Nesec…
+## Children & Yayin Nes (II)
 
 ### Braita Reasoning
 

@@ -128,13 +128,13 @@ The *gemara* analyzes the nature of the *iskupa*. It cannot be a *reshut harabim
 
 The *mishna* further states: *kupa she-mele'ah peirot* — a basket full of fruit — *venetnah al ha-askufa ha-chitzona* — placed on the outer porch, which here functions as a *reshut harabim* — *af al pi she-rov peiroteiha mi-bachutz patur* — even though most of the fruit overhangs into the public domain, one is exempt — *ad she-yotzi et kol ha-kupa* — until the entire basket has been taken out. Even if numerous individual pieces of fruit are wholly within the public domain, since they remain contained within a basket that is not entirely in the public domain, the carrying act is deemed incomplete. This introduces the principle *eged kli shmei eged* — that being bound within a vessel constitutes a form of legal unification — though the precise scope of this principle will be debated.
 
-## Unbroken Carrying…
+## Unbroken Carrying (II)
 
 ### Rest Principle
 
 The *gemara* explains the *mishna*'s teaching about the *iskupa* more precisely. *Ta'ama denach bekarmelit* — the reason one is exempt is specifically because the food came to rest in the *karmelit*. *Ha lo nach bekarmelit chayav* — had it not rested there, one would be *chayav*. This might have seemed obvious, but it is not, because this ruling is *matisin delo k'Ben Azzai* — our *mishna* does not follow *Ben Azzai*. A *braita* teaches: one who carries from a shop to the main street (*paltya*) by way of the *stav* — the colonnaded walkway in front of the shops, a space that is neither *reshut hayachid* nor *reshut harabim* and functions as a *karmelit* — is *chayav*, because one moved without interruption from one domain to the other. *Ben Azzai* rules *patur*. *Ben Azzai* either holds that traversing an intermediate domain breaks the continuity of the act, or applies the principle of *mehalech ke-omeid* — that walking constitutes a series of discrete micro-resting-points, such that passage through an intervening domain counts as an interruption. Our *mishna*, by ruling that it is only the actual putting-down in the *karmelit* that creates the exemption, implicitly rejects *Ben Azzai*: the mere traversal of a *karmelit* without rest does not break the act.
 
-## Basket of Fruit…
+## Basket of Fruit (II)
 
 ### Chizkiyah: Fruits
 

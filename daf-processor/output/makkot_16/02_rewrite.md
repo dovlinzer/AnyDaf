@@ -180,7 +180,7 @@ The question is: how much time does the person have to fulfil the *aseh*, and wh
 
 *Ela zot ve'od acheret* — and so Rabbi Yochanan is vindicated. After examining all the candidates — *ones she'gerash*, *gezel*, *mashkon*, and *pe'ah* — we are left with exactly two cases of *lav hanitak le'aseh* in which a person can genuinely, actively foreclose the *aseh* and thereby incur *malkot*. The first is *shiluach haken*: if one kills the mother bird, one has destroyed the very object of the positive commandment and can never fulfil it. The second is *pe'ah*: if one processes the grain all the way to dough and then renders it *challah*, one has actively transformed the *pe'ah* into something that can no longer be distributed as required. In all other cases, either the *aseh* remains perpetually available (and no *bitul* is possible), or any apparent *bitul* is not attributable to the person's own act.
 
-## Vow Annulment…
+## Vow Annulment (II)
 
 ### Teacher Case
 

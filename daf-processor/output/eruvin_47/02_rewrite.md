@@ -142,7 +142,7 @@ Now the challenge runs in the other direction. Rabbi Yochanan was himself the on
 
 ---
 
-## Mishnah vs Baraita…
+## Mishnah vs Baraita (II)
 
 ### Baraita Uncertainty
 

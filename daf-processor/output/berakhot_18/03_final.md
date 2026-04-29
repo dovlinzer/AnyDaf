@@ -214,7 +214,7 @@ This detailed account of where the money is hidden and how it is protected serve
 
 ---
 
-## Yochanan's Reversal…
+## Yochanan's Reversal (II)
 
 ### Original Position
 

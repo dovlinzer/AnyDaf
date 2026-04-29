@@ -112,7 +112,7 @@ There is something else worth noting about how *derech* functions across these c
 
 ---
 
-## Drachim vs. Devarim…
+## Drachim vs. Devarim (II)
 
 ### Drachim Alternatives
 

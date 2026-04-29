@@ -72,7 +72,7 @@ There is a further dispute regarding the destination of these collected *kolbon*
 
 ---
 
-## Kolbon Fee…
+## Kolbon Fee (II)
 
 ### Rabbi Meir Dissent
 
@@ -100,7 +100,7 @@ If, however, the brothers divided the estate and subsequently regrouped as a con
 
 ---
 
-## Kolbon Amount…
+## Kolbon Amount (II)
 
 ### Amount Dispute
 
@@ -128,7 +128,7 @@ The *Gemara* then cites the *drasha* on the word *adam* from the beginning of *V
 
 ---
 
-## Meir's Principle
+## Meir's Principle (III)
 
 ### Adam Derasha
 
@@ -136,7 +136,7 @@ The *drasha* on *adam ki yakriv mikem* thus establishes a range: *gerim* are inc
 
 ---
 
-## Meir's Principle…
+## Meir's Principle (III)
 
 ### Gemara Parse
 
@@ -144,7 +144,7 @@ The *Gemara* now returns to parse the *mishna*'s ruling on non-Jews and Samarita
 
 ---
 
-## Samaritan Status…
+## Samaritan Status (II)
 
 ### Gemara Challenge
 
@@ -190,7 +190,7 @@ The practical upshot is that both Rabbi Yochanan and Reish Lakish agree that a s
 
 ---
 
-## Meir's Principle…
+## Meir's Principle (III)
 
 ### Divine Standard
 

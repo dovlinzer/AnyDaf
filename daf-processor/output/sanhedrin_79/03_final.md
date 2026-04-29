@@ -1,6 +1,6 @@
 # Sanhedrin 79 — Daf Yomi Shiur
 
-## Intent & Different Victim
+## Intent & Different V (II)
 
 ### Intent Framework
 
@@ -50,7 +50,7 @@ The best reading of Rabbi Shimon's position may be that murder, unlike other *av
 
 ---
 
-## Intent & Different Victim — Gemara Clarification
+## Intent & Different V (II)
 
 ### Gemara Clarification
 

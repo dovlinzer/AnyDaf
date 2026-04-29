@@ -194,7 +194,7 @@ Rav Sheshes argues that these rulings undermine the case for the field: if selli
 
 ---
 
-## Selling futures…
+## Selling futures (II)
 
 ### Opinions differ
 

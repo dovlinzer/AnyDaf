@@ -190,7 +190,7 @@ If the platform is less than four *tefachim* wide — say, only two *tefachim* �
 
 Rav Ashi objects to this formulation as internally inconsistent. If we consider those two *tefachim* sufficient to grant access to the section of the wall above them, by the same logic that access should extend to the entire wall, as it does when the platform is four wide. And if two *tefachim* is genuinely insufficient to constitute an opening, then even the section directly opposite should be inaccessible. Ravina resolves this by specifying that the case of limited access involves not a platform raising the ground, but *akar chulya merosho* — physically removing a section from the top of the wall itself. When a small section of the top of the wall is literally removed, that section becomes lower than ten *tefachim* and is connected to the courtyard below it; but because the wall itself remains structurally ten *tefachim* high everywhere else, the removed section does not create a doorway that opens the entire wall. It is a localized lowering, not a *petach*. Rashi explains: a doorway is either a doorway or it is not; there is no such thing as a partial doorway. When you build a raised platform, you are creating an opening below ten *tefachim*, which either meets the four-*tefach* threshold (granting access to the whole wall) or does not (granting no access at all). But when you remove stone from the wall itself, the lowered section is simply a thinner part of an otherwise full wall, and its connectivity to the courtyard does not propagate to the rest of the wall's length.
 
-## Temporary Objects
+## Temporary Objects (II)
 
 ### Basket Not Valid
 
@@ -276,7 +276,7 @@ If the gap between the two ladders is three *tefachim* or more, *lavud* does not
 
 This analysis applies only when the wall is less than four *tefachim* wide. If the wall is four *tefachim* wide or more, *afilu muflag tuva nami* — even if the two ladders are very far apart from each other (measured across the wall's top surface), it still works. The reason is that a four-*tefach*-wide wall is itself walkable surface: a person can climb up to the top of the wall, walk across it, and descend on the other side. The wall's own surface provides the traversal that *lavud* provides in the thin-wall case. Therefore the distance between the ladders is irrelevant; the top of the wall itself constitutes the passage, and the combined structure permits the courtyards to form a single *eruv*.
 
-## Creating Opening…
+## Creating Opening (II)
 
 ### Dual Ladder Setup
 

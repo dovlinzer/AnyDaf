@@ -240,7 +240,7 @@ A third and particularly significant contemporary implication: if a woman is not
 
 ---
 
-## Peru u'Revu…
+## Peru u'Revu (II)
 
 ### U'Milu
 
@@ -248,7 +248,7 @@ The *Gemara* cites a further source for the derivation: *u'milu et ha'aretz v'ch
 
 ---
 
-## Rule Like Broka…
+## Rule Like Broka (II)
 
 ### Abbahu/Chiya
 
@@ -362,7 +362,7 @@ It should be noted, however, that the *Yerushalmi* treats this question in a mor
 
 ---
 
-## Woman Exempt Why…
+## Woman Exempt Why (II)
 
 ### Childbirth Risk
 
@@ -370,7 +370,7 @@ One final explanatory approach to the woman's exemption is worth noting, even th
 
 ---
 
-## Conclusion…
+## Conclusion (II)
 
 ### Tosafot
 

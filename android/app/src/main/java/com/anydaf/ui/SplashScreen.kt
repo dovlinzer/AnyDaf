@@ -9,11 +9,12 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
-import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
@@ -22,6 +23,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -44,16 +46,23 @@ fun SplashScreen(onDone: () -> Unit) {
 
     val configuration = LocalConfiguration.current
     val shortDp = minOf(configuration.screenWidthDp, configuration.screenHeightDp)
+    val screenHeightDp = configuration.screenHeightDp
+    val isTablet = configuration.smallestScreenWidthDp >= 600
+
+    val rabbiImageSize = (shortDp * if (isTablet) 0.21f else 0.28f).dp
+    val logoWidth = (shortDp * if (isTablet) 0.325f else 0.50f).dp
+    val logoBottomPad = (screenHeightDp * 0.075f).dp
 
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(SplashBlue),
-        contentAlignment = Alignment.Center
+            .background(SplashBlue)
     ) {
+        // Main content centered
         Column(
             modifier = Modifier
                 .fillMaxWidth()
+                .align(Alignment.Center)
                 .padding(horizontal = 32.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(14.dp)
@@ -64,16 +73,14 @@ fun SplashScreen(onDone: () -> Unit) {
                 fontWeight = FontWeight.Bold,
                 color = Color.White
             )
-
             Image(
                 painter = painterResource(id = R.drawable.rabbi_linzer),
                 contentDescription = "Rabbi Dov Linzer",
                 modifier = Modifier
-                    .size((shortDp * 0.28f).dp)
+                    .size(rabbiImageSize)
                     .clip(CircleShape),
                 contentScale = ContentScale.Crop
             )
-
             Text(
                 text = "Learn any daf with Rabbi Dov Linzer",
                 fontSize = 17.sp,
@@ -87,13 +94,24 @@ fun SplashScreen(onDone: () -> Unit) {
                 color = SubtitleBlue.copy(alpha = 0.75f),
                 textAlign = TextAlign.Center
             )
-            Spacer(Modifier.height(8.dp))
+        }
+
+        // Logo pinned near the bottom with rounded corners
+        Column(
+            modifier = Modifier
+                .align(Alignment.BottomCenter)
+                .navigationBarsPadding(),
+            horizontalAlignment = Alignment.CenterHorizontally
+        ) {
             Image(
-                painter = painterResource(id = R.drawable.yct_logo),
+                painter = painterResource(id = R.drawable.yct_logo_wide),
                 contentDescription = "Yeshivat Chovevei Torah",
-                modifier = Modifier.width((shortDp * 0.26f).dp),
+                modifier = Modifier
+                    .width(logoWidth)
+                    .clip(RoundedCornerShape(16.dp)),
                 contentScale = ContentScale.Fit
             )
+            Spacer(Modifier.height(logoBottomPad))
         }
     }
 }

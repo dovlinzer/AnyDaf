@@ -212,7 +212,7 @@ What provoked Shaul's anxiety at precisely this moment? The verse records that S
 
 Avner responded: *tanina, Amoni velo Amonit, Moavi velo Moavit* — we have a tradition: the prohibition is *Amoni*, not *Amonit*; *Moavi*, not *Moavit*. A female Moabitess is immediately permitted. Doeg challenged Avner's silence with a counter-argument: very well, but then say *Mitzri velo Mitzrit* — why don't we apply the same logic to Egypt and permit female Egyptian converts immediately?
 
-## Intermarriage rules…
+## Intermarriage rules (II)
 
 ### Greeting logic
 
@@ -222,7 +222,7 @@ Avner responded: *tanina, Amoni velo Amonit, Moavi velo Moavit* — we have a tr
 
 The Gemara explains the textual basis for distinguishing between male and female Ammonites and Moabites, and thereby answering Doeg's challenge about Egypt. The verse gives a specific reason for the prohibition: *al asher lo kidmo etchem balechem uvamayim* — because they did not come out to greet you with bread and water. This reason generates the limited application: *darko shel ish lekadem velo darko shel isha lekadem* — it is the way of a man to go out and greet, not the way of a woman. Therefore, only the men can be held culpable for the failure to extend hospitality; the women cannot. This is the basis for reading *Amoni* and not *Amonit*, *Moavi* and not *Moavit*.
 
-## David and Ruth…
+## David and Ruth (II)
 
 ### Beis HaMedrash
 

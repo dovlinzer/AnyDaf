@@ -140,7 +140,7 @@ It is worth noting that earlier in the *masechta*, the *Gemara* criticized someo
 
 ---
 
-## Benching Location…
+## Benching Location (II)
 
 ### Gold Pigeon Story
 
@@ -218,7 +218,7 @@ This distinction is essential and has wide practical ramifications. Saying *amen
 
 ---
 
-## Saying Amen…
+## Saying Amen (II)
 
 ### Rambam View
 

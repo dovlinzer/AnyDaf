@@ -96,7 +96,7 @@ The question is: in which dimension do they combine? Here *Rashi* and *Tosafot* 
 
 ---
 
-## Mound & Rock…
+## Mound & Rock (II)
 
 ### Application
 

@@ -14,7 +14,7 @@ Having dispatched the general question, the *gemara* turns to the specific word 
 
 The *gemara* frames this as a genuine question and proceeds to seek the reason. Before it offers an answer, the question itself implicitly presupposes that the *Lishkat Parhedrin* was not possessed of the full *kedushah* of the *azarah* — otherwise the question would be self-answering, since one may not even sit in the *azarah*, let alone sleep there or engage in marital relations. The nature of the *lishkah*'s sanctity is itself a matter that the *gemara* will address in greater detail.
 
-## Wife Separation…
+## Wife Separation (II)
 
 ### Tumah Concern
 
@@ -44,7 +44,7 @@ The rabbis brought this concern before Rav Chisda. His response — *keman?* —
 
 This requires explanation. The *rabbanan* do not deny that a man who has relations with a definite *niddah* is *tamei*. The question concerns the mechanism of *tumah* when the woman's status as *niddah* is established only retroactively. The first *mishna* in *Niddah* establishes that when a woman finds blood — whether through an internal examination or on her garments — she is *temeiah* retroactively for the preceding twenty-four hours (absent a more recent internal check that would shorten the window). This retroactivity governs objects she handled: anything she touched in the prior twenty-four hours is retroactively *tamei*. The debate is whether this retroactive *tumah* extends to her husband as well. The *rabbanan* hold that it does not — *psychologically*, as it were, the concern that one's wife might retroactively turn out to have been a *niddah* during any prior act of relations would make marital life untenable, and the sages did not extend the retroactivity that far. Rabbi Akiva disagrees and holds that even the husband is rendered *tamei* retroactively. Rav Chisda's point is therefore that if this is the governing concern behind the separation, it would only be operative according to Rabbi Akiva.
 
-## Rav Chisda Position…
+## Rav Chisda Position (II)
 
 ### Three Scenarios
 
@@ -52,7 +52,7 @@ Rav Chisda, however, does not leave it there. He responds to the rabbis: *afilu 
 
 The first is immediate discovery: she checks the moment they separate and finds she is bleeding. In that case, there is a presumption that she was already a *niddah* during relations, with implications even for the obligation to bring a *korban*. The second scenario is discovery within approximately thirty seconds — enough time to rise from the bed and perform a rinse. In that window, the *safek* is genuine and real at a biblical level, and everyone agrees that the husband would be *tamei*, since it is a true *safek* whether she was a *niddah* during the act itself. The third scenario is discovery after that thirty-second window. It is here that the debate between Rabbi Akiva and the *rabbanan* applies: only Rabbi Akiva would extend retroactive *tumah* to the husband in that case; the *rabbanan* would not. Rav Chisda's point is that even according to the *rabbanan*, there is a real window — the first thirty seconds — during which everyone agrees the husband would be *tamei* at a biblical level. The concern is not merely theoretical.
 
-## Safek Niddah…
+## Safek Niddah (II)
 
 ### Time Periods
 

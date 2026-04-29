@@ -86,7 +86,7 @@ This is precisely the moment to pause and consider the deeper question the narra
 
 ---
 
-## Dosa's Submission…
+## Dosa's Submission (II)
 
 ### Audit Argument
 
@@ -102,7 +102,7 @@ The proof text is drawn from the scene of the seventy elders ascending with Mosh
 
 ---
 
-## Torah She-be'al Peh…
+## Torah She-be'al Peh (II)
 
 ### Ramban's Approach
 
@@ -170,7 +170,7 @@ It is also worth noting, as a structural matter, that the authority to perform *
 
 ---
 
-## Akiva's Consolation…
+## Akiva's Consolation (II)
 
 ### Atem Emphasis
 
@@ -254,7 +254,7 @@ But the theoretical implication is significant: a later *Beit Din ha-Gadol*, eve
 
 ---
 
-## Reconciliation…
+## Reconciliation (II)
 
 ### Public Submission
 

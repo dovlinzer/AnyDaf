@@ -254,7 +254,7 @@ This underlying conceptual question directly bears on the dispute between Reish 
 
 ---
 
-## Ember vs. Flame…
+## Ember vs. Flame (II)
 
 ### Minimal Acceleration
 

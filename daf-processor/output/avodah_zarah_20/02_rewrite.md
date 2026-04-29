@@ -98,7 +98,7 @@ What is remarkable is that over time, for many *poskim* who were more tolerantly
 
 ---
 
-## Lo Techonem: Favor…
+## Lo Techonem: Favor (II)
 
 ### Complimenting Non-Jews
 

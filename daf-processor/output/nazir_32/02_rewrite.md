@@ -86,7 +86,7 @@ The release in such a case works through the process of *hatara* as it operates 
 
 ---
 
-## Future Destruction Error
+## Future Destruction E (II)
 
 ### Ein Potchin B'Nolad
 
@@ -94,7 +94,7 @@ The principle at stake in the next case is *ein potchin b'nolad*: one may not op
 
 ---
 
-## Stolen Animal Case…
+## Stolen Animal Case (II)
 
 ### Nachum HaMedai Case
 
@@ -102,7 +102,7 @@ The *mishna* introduces the following arresting case: *keshe'alu nezirim min ha-
 
 ---
 
-## Future Destruction Err…
+## Future Destruction E (II)
 
 ### Nachum's Reasoning
 

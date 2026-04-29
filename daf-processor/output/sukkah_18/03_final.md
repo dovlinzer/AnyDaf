@@ -206,7 +206,7 @@ Abaye had previously explained this distinction by reference to a river called B
 
 ---
 
-## Portico sukkah
+## Portico sukkah (II)
 
 ### Portico case
 
@@ -218,7 +218,7 @@ The Gemara introduces a new case: *sikcha al gabei achsadra she'yesh la patzimin
 
 ---
 
-## Portico sukkah (continued)
+## Portico sukkah (II)
 
 ### Abaye allows it
 

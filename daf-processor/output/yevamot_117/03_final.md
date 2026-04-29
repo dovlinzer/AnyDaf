@@ -50,7 +50,7 @@ A *Tosafos* cited in this context notes that the approach of doing *midrash ketu
 
 ---
 
-## Rav Nachman Intent
+## Rav Nachman Intent (II)
 
 ### Two Scenarios
 

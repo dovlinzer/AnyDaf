@@ -62,7 +62,7 @@ The *Gemara* then confirms what was implicit throughout: the act of showing a kn
 
 ---
 
-## Modern Framework
+## Modern Framework (II)
 
 ### Shulchan Aruch
 
@@ -310,7 +310,7 @@ Rava takes a different view: *im ishah niddah hi, tavo alav berachah* — if she
 
 ---
 
-## Modern Framework
+## Modern Framework (II)
 
 ### Written Rulings
 

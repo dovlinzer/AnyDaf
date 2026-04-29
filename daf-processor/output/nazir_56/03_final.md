@@ -146,7 +146,7 @@ We now turn to an entirely different topic, though one that touches on realities
 
 This creates a complex halachic predicament. A *nazir tamei* must go through the process of bringing a *korban tumah* and then counting new days of *nezirut*, culminating in the *korban tahara*. But one cannot simply bring a *korban* if one is not certain one is obligated. Nor can one simply shave without being certain of one's status. The solution for a single individual in this situation would involve waiting out the minimum period of *nezirut* — thirty days — then shaving and bringing minimal *korbanot* with appropriate stipulations. The *olah*, for instance, could be brought with the condition that if one is obligated as a *nazir tamei* it counts as the obligatory *olah*, and if not it is a voluntary *olat nedavah*. The *chatat ha'of* — a bird offering — may be brought even in a state of doubt, this being a special *halacha*. The *asham*, however, cannot be brought conditionally or on the basis of doubt. So one never fully satisfies that component of the *korban tumah* in a state of *safek*.
 
-## Two Nzirim Safek…
+## Two Nzirim Safek (II)
 
 ### Safek Tumah Rules
 

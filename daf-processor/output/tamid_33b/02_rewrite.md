@@ -68,7 +68,7 @@ The *sgan* stood at the corner holding *sudarim* — flags or handkerchiefs — 
 
 ---
 
-## Signals & Song…
+## Signals & Song (II)
 
 ### Trumpets & Alert
 

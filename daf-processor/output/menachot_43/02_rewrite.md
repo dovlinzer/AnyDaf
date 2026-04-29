@@ -24,7 +24,7 @@ Tosafot himself rejects the view that *mezuzot* do not require *lishma*, and acc
 
 ---
 
-## Testing Methods Debate
+## Testing Methods Deba (II)
 
 ### Rav Yitzchak's Test
 
@@ -44,7 +44,7 @@ The *gemara* resolves the apparent contradiction between the *braisa*'s ruling (
 
 ---
 
-## Testing Methods Debate…
+## Testing Methods Deba (II)
 
 ### Mamshichi Case
 
@@ -58,7 +58,7 @@ On this reading, the case of Mar Mamshichi is not a contradiction but a confirma
 
 ---
 
-## No Testing Meaning…
+## No Testing Meaning (II)
 
 ### Tosafot Solution
 

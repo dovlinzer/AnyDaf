@@ -310,7 +310,7 @@ In the Caesarea case, by contrast, there is no such signal. The *shochet* simply
 
 ---
 
-## Gift Refusal Case
+## Gift Refusal Case (II)
 
 ### Slaves Bequest
 

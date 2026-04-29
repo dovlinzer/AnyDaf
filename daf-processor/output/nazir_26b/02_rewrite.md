@@ -34,7 +34,7 @@ Against this background, Rav Nachman adds a crucial qualification to Rav's state
 
 *Aval ba'alat mum harei k'stumah* — but if the animal already has a blemish, it is treated like unspecified funds. An animal with a *mum* is not subject to the *kedusha* restriction that prevents sale; it can be readily sold and converted to cash. That ready convertibility places it, for halachic purposes, in the same category as cash — and therefore it follows the *halacha* of *ma'ot setumot*.
 
-## Maot Setumot…
+## Maot Setumot (II)
 
 ### Cows Unspecified?
 
@@ -126,7 +126,7 @@ The second case in the *braita* is where the son does not wait for his father to
 
 The *braita* continues: *haitah lo behemah meforeshet* — if the father had animals that were already specified, *chatat tamut* — the *chatat* animal is left to die — *olah tikarev olah* — the *olah* animal is brought as an *olah* — *shelamim yiplu li-shelamim* — the *shelamim* animals are brought as *shelamim*. Unspecified money follows one rule; specified animals follow their own designations individually.
 
-## Mum Equivalence…
+## Mum Equivalence (II)
 
 ### Animals Not Money
 

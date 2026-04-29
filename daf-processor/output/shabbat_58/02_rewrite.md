@@ -164,7 +164,7 @@ The Gemara then draws a distinction: *hani mili be-tinok de-la-kala avidi lei* �
 
 This last distinction — that the same object can function differently depending on context, and that its halachic status as a *kli* tracks its actual function — is illuminating in a broader sense. It calls to mind a *teshuvah* of Rav Moshe Feinstein addressing the question of wearing a watch without an *eiruv* on *Shabbat*. A watch is not obviously jewelry, nor is it obviously clothing; one might argue it is simply a convenient method of carrying a time-measuring device on one's wrist — a burden rather than an ornament. Rav Moshe's answer was that a watch may be worn without an *eiruv* only if one would wear it even if it were not working — because only then is it being worn as an ornament or jewelry rather than as a functional time-piece that happens to be worn on the body. The parallel to the bell-without-a-knocker analysis is clear: when the functional element is absent and the object is still worn, it is worn as jewelry; when the function is the entire point, its removal empties the object of its *kli* status.
 
-## Sticky Principle…
+## Sticky Principle (II)
 
 ### Knocker Removal
 

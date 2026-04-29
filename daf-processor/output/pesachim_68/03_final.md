@@ -106,7 +106,7 @@ One broader question that the *Gemara* does not address is worth noting. If a *b
 
 ---
 
-## Shabbat Acts Pesach
+## Shabbat Acts Pesach (II)
 
 ### Michui Kreivim
 
@@ -232,7 +232,7 @@ An alternative reading of the verse is then offered: *betechilah mah she-ani mem
 
 ---
 
-## Shabbat Acts Pesach (continued)
+## Shabbat Acts Pesach (II)
 
 ### Blemish Removal
 

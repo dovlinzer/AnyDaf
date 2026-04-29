@@ -1,6 +1,6 @@
 # Taanit 7 — Daf Yomi Shiur
 
-## Rain's Greatness
+## Rain's Greatness (II)
 
 ### Rain vs Resurrection
 
@@ -186,7 +186,7 @@ There is something quietly reassuring in the phrasing. Rather than saying *Torah
 
 ---
 
-## Rain's Greatness Revisited
+## Rain's Greatness (II)
 
 ### Rain & Creation
 

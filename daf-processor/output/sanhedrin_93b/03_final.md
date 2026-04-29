@@ -186,7 +186,7 @@ Ravina draws a practical inference: *ha-i man de-miv'as* — one who is suddenly
 
 What should one do? *Linshof mi-duchtei arba garmidei* — jump four *amot* from where one stands, for a *shed* or evil spirit may be about to attack, and moving disrupts its proximity. Alternatively, one may recite *Keri'at Shema*, which affords protection. If one is in a place of *tino'fet* — a lavatory or similarly impure location — where *Shema* cannot be recited, one should say: *iza de-vei tavcha shamina minai* — the goats of the slaughterhouse are fatter than I am — meaning: if you are a *sheid* looking for a victim, I am not worth your trouble; go to the slaughterhouse.
 
-## Chizkiyahu Mashiach
+## Chizkiyahu Mashiach (II)
 
 ### No Shirah = No Mashiach
 
@@ -294,7 +294,7 @@ The Gemara then asks: if Sancherev was fulfilling a divine mandate, why was he p
 
 The prophet then came and told Sancherev: *ki lo mu'af la'asher mutzak lah* — there is no weariness for those who are distressed by her. Rabbi Elazar bar Berachyah interprets: *ein am zu ayef mu'af* — this people, weary as it is, weary in Torah — *lo yimasru b'yad mi ha-metzik lah* — will not be delivered into the hands of the one besieging them. You conquered the ten tribes, who *heikilu me'aleihem ol Torah* — treated the yoke of Torah lightly. But now you face the later ones, *Yehudah* and *Binyamin*, who *hichbidu aleihem ol Torah* — who bore the yoke of Torah with full weight. They are *re'uyim la'asot lahem nes* — fit to have a miracle performed for them — like those who crossed the *Yam Suf* and the *Yarden*. If Sancherev retreats, good. If not, *ani e'eseh lo galil ba-goyim* — I will make him as dung among the nations.
 
-## Chizkiyahu Mashiach...
+## Chizkiyahu Mashiach (II)
 
 ### God's Oath
 

@@ -42,7 +42,7 @@ The principle Tosafot articulates is: *dekapid kra sheyavi korbanot neziroot bet
 
 ---
 
-## Eliezer: Soter Korbanot
+## Eliezer: Soter Korba (II)
 
 ### Tosafot Clarification
 
@@ -68,7 +68,7 @@ This ruling stands as a direct practical refutation of Rabbi Eliezer's position.
 
 ---
 
-## Eliezer: Soter Korbano…
+## Eliezer: Soter Korba (II)
 
 ### Gemara: Soter Definition
 

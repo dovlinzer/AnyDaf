@@ -44,7 +44,7 @@ The Gemara is quite interested in this puzzle. The amoraim seem to have treated 
 
 ---
 
-## Rabbi Chiya Mixed…
+## Rabbi Chiya Mixed (II)
 
 ### Chullin Defined
 
@@ -78,7 +78,7 @@ Rav Nachman's reply is even sharper than Rebbi's: *ani mari, arba'im b'katfeih v
 
 ---
 
-## Bread Conditional
+## Bread Conditional (II)
 
 ### Rejection Chullin
 
@@ -130,7 +130,7 @@ It is striking that of all the proposed solutions, this last one is in some ways
 
 ---
 
-## Backup Without Obligation
+## Backup Without Oblig (II)
 
 ### Temura Proposed
 

@@ -176,7 +176,7 @@ The Sages go even further in leniency: *eino bechor ela nigzaz ve'ne'avad* — i
 
 ---
 
-## Skin Conditions…
+## Skin Conditions (II)
 
 ### Garav Resolution
 
@@ -194,7 +194,7 @@ The *gemara* resolves this by identifying three distinct types of *garav*. The *
 
 ---
 
-## Non-Blemish Issues…
+## Non-Blemish Issues (II)
 
 ### Three Exclusions
 

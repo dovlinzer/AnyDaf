@@ -96,7 +96,7 @@ The Gemara therefore concludes that no proof about Rav's general view on side br
 
 ---
 
-## Side Break Size…
+## Side Break Size (II)
 
 ### Gedudim Foundation
 
@@ -142,7 +142,7 @@ A *tzurat ha-petach* is always a stronger construction than a *lechi* or *kora*,
 
 ---
 
-## Reshut Harabim…
+## Reshut Harabim (II)
 
 ### 600,000 Criterion
 
@@ -158,7 +158,7 @@ The 600,000 figure is itself subject to further debate. Does it mean that 600,00
 
 ---
 
-## Eruv Mechanisms…
+## Eruv Mechanisms (II)
 
 ### Beit Shammai-Hillel
 

@@ -68,7 +68,7 @@ According to some *rishonim*, *aveilus* technically should begin at the moment o
 
 ---
 
-## Family Aveilus Unit…
+## Family Aveilus Unit (II)
 
 ### Yom Hashevi'i
 
@@ -80,7 +80,7 @@ Returning to the *baraisa* begun earlier: Rabbi Shimon rules that even one who a
 
 ---
 
-## Start of Aveilus…
+## Start of Aveilus (II)
 
 ### Menachamim Present
 

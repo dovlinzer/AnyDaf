@@ -70,7 +70,7 @@ The *Gemara* initially puzzles over this formulation, since taking the improveme
 
 The second option — the blanket ability to say *harei shelcha lifanecha* under all circumstances — demonstrates the principle of *shinuy bamkomo omed*: the object is always the same object, always belonging to the original owner, who may always reclaim it regardless of what has happened to it. The *Gemara* then poses the obvious challenge: if *shinuy bamkomo omed* — if the object never changes identity — why should the *gazlan* ever be entitled to *notel shivcho*? If it remains the owner's property throughout, the owner should receive the enhanced value as well. The *Gemara* answers: *mipnei takanas hashavin* — because of the ordinance to facilitate repentance, discussed in the following section.
 
-## Takanat Hashavin
+## Takanat Hashavin (III)
 
 ### Improvement Example
 
@@ -78,7 +78,7 @@ The ruling that a *gazlan* who improved a stolen object may be compensated for h
 
 The *takanah* therefore allows the *gazlan* to be compensated for the *shevach*, the increase in value attributable to his efforts. Consider the concrete example: one steals lumber worth one hundred *zuz* and fashions it into a table worth one thousand *zuz*. Biblically, the owner should receive the full table. The rabbis, however, instituted that the *gazlan* keeps the table and pays the original owner only one hundred *zuz* — the value at the time of the theft, *ki'she'as gezeilah*. The *gazlan* thus retains nine hundred *zuz* of *shevach*. This is a striking arrangement, and it invites the rueful observation that — absent fear of divine punishment or social sanction — the legal structure alone provides remarkably little disincentive to steal. A *gazlan* who is caught need only return the original value, keeping all appreciation. The *takanah*, however, is not designed to benefit the *gazlan* as such; it is designed to bring stolen property back into the legitimate economy and to facilitate the owner's compensation, even if incomplete. In that sense it serves society's interest, not merely the thief's conscience.
 
-## Shinuy Bamkomo Omed…
+## Shinuy Bamkomo Omed (II)
 
 ### R. Yishmael Peah
 
@@ -156,7 +156,7 @@ Rabbi Hiyya bar Abba cites Rabbi Yochanan: *devar Torah, gezeilah hamishtanit ch
 
 The implication runs in two directions simultaneously, and it is worth pausing to appreciate the ambiguity. On the one hand, this is a *chumra*: even if the *gazlan* has transformed the object into something far more valuable, the owner takes title to the enhanced version. On the other hand, it is a *kula*: even if the object has deteriorated drastically or died, the *gazlan* may return it as is and discharge his obligation. The *halacha* of *shinuy*, as elaborated by the *mishnah* and the rabbinic tradition, plainly recognizes change as a relevant factor. Rabbi Yochanan's statement is therefore positioned as a claim about the *Torah* level of the law — what the biblical verse mandates — not about the rabbinic superstructure built atop it.
 
-## Takanat Hashavin…
+## Takanat Hashavin (III)
 
 ### Purpose of Takanah
 
@@ -166,7 +166,7 @@ The *takanah* operates as follows. One who stole lumber worth one hundred *zuz* 
 
 The *takanah* is not, it should be emphasized, a sacrifice of the victim's interests on the altar of the thief's repentance. It is premised on the recognition that a system demanding full restitution of the enhanced object will produce *no* restitution at all. Partial restitution — the original value — is better for society and for the victim than none. And the prospect of *some* meaningful return, rather than complete forfeiture, is the only realistic way to bring *gazlanim* to make good on their obligations.
 
-## Rabbi Yochanan…
+## Rabbi Yochanan (II)
 
 ### Objection to Yochanan
 
@@ -176,7 +176,7 @@ The *Gemara* challenges Rabbi Yochanan's position: Rabbi Yochanan himself holds 
 
 Rabbi Yaakov clarifies that this difficulty was never the intent of Rabbi Yochanan's statement. Rabbi Yochanan never claimed that the *Torah* categorically refuses to recognize *shinuy*. He claimed specifically that *shinuy hachozer l'vriyaso* — a reversible change — would, on the *d'Oraisa* level, still require the return of the *gezeilah*. A change that is genuinely irreversible — transforming raw lumber into a permanent piece of furniture, or weaving wool into a garment — is recognized even by the *Torah* as effecting a transfer of ownership. What the rabbis enacted as *takanas hashavin* is limited to the case of *shinuy hachozer l'vriyaso*: where the change is theoretically reversible, the *Torah* would demand return; the rabbis, for the sake of *teshuvah*, ruled that even here the *gazlan* acquires. The *mishnah* of *reishis hageiz*, which involves true and irreversible transformation — dyeing with *kalla ilan* or similar — is thus not in tension with Rabbi Yochanan's position, because he never denied that the *Torah* recognizes genuinely irreversible change.
 
-## Takanat Hashavin……
+## Takanat Hashavin (III)…
 
 ### Gazlanim Case
 

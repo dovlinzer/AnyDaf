@@ -1,6 +1,6 @@
 # Niddah 51 — Daf Yomi Shiur
 
-## Dead Bird & Machshava
+## Dead Bird & Machshav (II)
 
 ### Context & Background
 
@@ -88,7 +88,7 @@ The *Gemara* concludes that this is a powerful argument, pressing hard against t
 
 ---
 
-## Dead Bird & Machshava…
+## Dead Bird & Machshav (II)
 
 ### Rava's Answer
 
@@ -248,7 +248,7 @@ This *Mishnah* implies that until it is used as seasoning, dill does have food i
 
 ---
 
-## Category Connections…
+## Category Connections (II)
 
 ### Scales & Fins
 
@@ -284,7 +284,7 @@ With this, the entire digression concludes, and tomorrow we return to the standa
 
 ---
 
-## Spices Status…
+## Spices Status (II)
 
 ### Rav Kahana
 

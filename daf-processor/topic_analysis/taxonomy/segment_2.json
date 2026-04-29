@@ -1,0 +1,3430 @@
+{
+  "segment": 2,
+  "segment_name": "Family, Courts, Criminal, Ethics",
+  "entries": [
+    {
+      "id": "family_and_personal_status",
+      "name": "Family and Personal Status",
+      "hebrew": "משפחה ומעמד אישי",
+      "parent_id": null,
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers lineage, personal legal status, conversion, and family relationships"
+    },
+    {
+      "id": "marriage_and_divorce",
+      "name": "Marriage and Divorce",
+      "hebrew": "נישואין וגירושין",
+      "parent_id": null,
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers betrothal, marriage, divorce, levirate marriage, and related topics"
+    },
+    {
+      "id": "courts_and_jurisprudence",
+      "name": "Courts and Jurisprudence",
+      "hebrew": "בתי דין ומשפט",
+      "parent_id": null,
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers judicial procedure, testimony, and legal principles"
+    },
+    {
+      "id": "criminal_and_capital_law",
+      "name": "Criminal and Capital Law",
+      "hebrew": "דיני נפשות ועונשין",
+      "parent_id": null,
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers capital crimes, flogging, fines, and criminal procedure"
+    },
+    {
+      "id": "interpersonal_ethics",
+      "name": "Interpersonal Ethics",
+      "hebrew": "מוסר בין אדם לחברו",
+      "parent_id": null,
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam",
+        "webshas"
+      ],
+      "notes": "Covers ethical obligations between people"
+    },
+    {
+      "id": "monetary_and_property_law",
+      "name": "Monetary and Property Law",
+      "hebrew": "דיני ממונות",
+      "parent_id": null,
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers sales, loans, damages, theft, inheritance, and related civil law"
+    },
+    {
+      "id": "personal_vows_and_oaths",
+      "name": "Personal Vows and Oaths",
+      "hebrew": "נדרים ושבועות",
+      "parent_id": null,
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers vows, oaths, and the Nazirite"
+    },
+    {
+      "id": "slavery_and_servitude",
+      "name": "Slavery and Servitude",
+      "hebrew": "עבדות",
+      "parent_id": null,
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Covers Hebrew and Canaanite slaves"
+    },
+    {
+      "id": "fam_lineage",
+      "name": "Lineage and Genealogy",
+      "hebrew": "יוחסין",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Pedigree, tribal lineage, and genealogical status"
+    },
+    {
+      "id": "fam_mamzer",
+      "name": "Mamzer (Illegitimate Status)",
+      "hebrew": "ממזר",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Status of child born from certain forbidden unions"
+    },
+    {
+      "id": "fam_conversion",
+      "name": "Conversion to Judaism",
+      "hebrew": "גרות",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Process and legal status of converts"
+    },
+    {
+      "id": "fam_ger_status",
+      "name": "Status of the Convert",
+      "hebrew": "מעמד הגר",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam",
+        "webshas"
+      ],
+      "notes": "Rights and obligations of a convert in Jewish law"
+    },
+    {
+      "id": "fam_katan",
+      "name": "Minor (Katan)",
+      "hebrew": "קטן",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status and capacity of minors"
+    },
+    {
+      "id": "fam_palgais",
+      "name": "Palgais (Girl Between Minor and Adult)",
+      "hebrew": "פלגאיס",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Transitional legal status between minor and adult female"
+    },
+    {
+      "id": "fam_shoteh",
+      "name": "Shoteh (Person of Diminished Mental Capacity)",
+      "hebrew": "שוטה",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status and competency of the mentally incapacitated"
+    },
+    {
+      "id": "fam_deaf_mute",
+      "name": "Deaf-Mute (Cheresh)",
+      "hebrew": "חרש",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status of deaf-mute persons in Jewish law"
+    },
+    {
+      "id": "fam_hermaphrodite",
+      "name": "Hermaphrodite (Androginus)",
+      "hebrew": "אנדרוגינוס",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status of persons of ambiguous sex"
+    },
+    {
+      "id": "fam_tumtum",
+      "name": "Tumtum (Person of Undetermined Sex)",
+      "hebrew": "טומטום",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Legal status of person whose sex is undetermined"
+    },
+    {
+      "id": "fam_intermarriage",
+      "name": "Intermarriage Prohibitions",
+      "hebrew": "איסורי נישואין עם גויים",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition of marriage between Jews and non-Jews"
+    },
+    {
+      "id": "fam_incest",
+      "name": "Incest (Arayot)",
+      "hebrew": "עריות",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Forbidden sexual relations due to familial proximity"
+    },
+    {
+      "id": "fam_cross_dressing",
+      "name": "Cross-Dressing Prohibition",
+      "hebrew": "לא ילבש גבר שמלת אשה",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Prohibition of wearing clothing of opposite sex"
+    },
+    {
+      "id": "fam_mourning",
+      "name": "Mourning Practices",
+      "hebrew": "אבלות",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Laws and customs of mourning for deceased relatives"
+    },
+    {
+      "id": "fam_hesped",
+      "name": "Eulogy (Hesped)",
+      "hebrew": "הספד",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Laws governing eulogies for the deceased"
+    },
+    {
+      "id": "fam_nichum_aveilim",
+      "name": "Comforting Mourners (Nichum Aveilim)",
+      "hebrew": "ניחום אבלים",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation to comfort those in mourning"
+    },
+    {
+      "id": "fam_agunah",
+      "name": "Agunah (Chained Woman)",
+      "hebrew": "עגונה",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Woman unable to remarry due to missing husband or unclear death"
+    },
+    {
+      "id": "fam_family_psychology",
+      "name": "Family Psychology and Dynamics",
+      "hebrew": "פסיכולוגיה משפחתית",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Talmudic discussions of family relationships and dynamics"
+    },
+    {
+      "id": "fam_katlanit",
+      "name": "Katlanit (Woman Whose Husbands Died)",
+      "hebrew": "קטלנית",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status of woman considered a cause of husbands' deaths"
+    },
+    {
+      "id": "fam_pregnancy",
+      "name": "Pregnancy in Halakha",
+      "hebrew": "הריון",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Legal implications of pregnancy"
+    },
+    {
+      "id": "fam_pru_urvu",
+      "name": "Procreation Obligation (Pru uRvu)",
+      "hebrew": "פרו ורבו",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Commandment to be fruitful and multiply"
+    },
+    {
+      "id": "fam_contraception",
+      "name": "Contraception",
+      "hebrew": "מניעת הריון",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic permissibility of contraception"
+    },
+    {
+      "id": "fam_redeeming_captives",
+      "name": "Redeeming Captives (Pidyon Shevuyim)",
+      "hebrew": "פדיון שבויים",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation to redeem Jewish captives"
+    },
+    {
+      "id": "fam_maalah_yuchsin",
+      "name": "Stringency in Lineage Matters",
+      "hebrew": "מעלה עשו ביוחסין",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Rabbinic stringency regarding genealogical purity"
+    },
+    {
+      "id": "mar_kiddushin",
+      "name": "Betrothal (Kiddushin/Erusin)",
+      "hebrew": "קידושין / אירוסין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Act of betrothal creating marital bond"
+    },
+    {
+      "id": "mar_nisuin",
+      "name": "Marriage (Nisuin)",
+      "hebrew": "נישואין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Full marriage ceremony and its legal effects"
+    },
+    {
+      "id": "mar_methods_kiddushin",
+      "name": "Methods of Betrothal",
+      "hebrew": "דרכי הקידושין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Kesef, shtar, and biah as modes of acquiring betrothal"
+    },
+    {
+      "id": "mar_shidduch",
+      "name": "Matchmaking (Shidduch)",
+      "hebrew": "שידוך",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Process and ethics of arranging marriages"
+    },
+    {
+      "id": "mar_ketubah",
+      "name": "Ketubah (Marriage Contract)",
+      "hebrew": "כתובה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Document specifying husband's obligations; payment upon divorce or death"
+    },
+    {
+      "id": "mar_ketubah_amount",
+      "name": "Ketubah Amount and Valuation",
+      "hebrew": "שיעור הכתובה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Standard amounts for virgin vs. non-virgin ketubah"
+    },
+    {
+      "id": "mar_conjugal_rights",
+      "name": "Conjugal Rights and Obligations (Onah)",
+      "hebrew": "עונה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Husband's obligation of conjugal relations to wife"
+    },
+    {
+      "id": "mar_polygamy",
+      "name": "Polygamy",
+      "hebrew": "פוליגמיה / נשים רבות",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Permissibility and restrictions on multiple wives"
+    },
+    {
+      "id": "mar_shalom_bayit",
+      "name": "Domestic Harmony (Shalom Bayit)",
+      "hebrew": "שלום בית",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic and ethical principles for marital peace"
+    },
+    {
+      "id": "mar_marital_psychology",
+      "name": "Marital Psychology",
+      "hebrew": "פסיכולוגיה זוגית",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Talmudic discussions of marital relationships and tensions"
+    },
+    {
+      "id": "mar_shanah_rishonah",
+      "name": "First Year of Marriage (Shanah Rishonah)",
+      "hebrew": "שנה ראשונה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Special obligations in the first year of marriage"
+    },
+    {
+      "id": "mar_second_marriage",
+      "name": "Second Marriages",
+      "hebrew": "נישואין שניים",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Legal and ethical considerations for remarriage"
+    },
+    {
+      "id": "mar_get",
+      "name": "Get (Bill of Divorce)",
+      "hebrew": "גט",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Document required for valid Jewish divorce"
+    },
+    {
+      "id": "mar_gerushin",
+      "name": "Divorce (Gerushin)",
+      "hebrew": "גירושין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws and procedures of Jewish divorce"
+    },
+    {
+      "id": "mar_get_al_tenai",
+      "name": "Conditional Get",
+      "hebrew": "גט על תנאי",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Get given or received subject to conditions"
+    },
+    {
+      "id": "mar_get_meuseh",
+      "name": "Coerced Get",
+      "hebrew": "גט מעושה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Validity of a divorce obtained under coercion"
+    },
+    {
+      "id": "mar_yibbum",
+      "name": "Levirate Marriage (Yibbum)",
+      "hebrew": "יבום",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Obligation to marry brother's childless widow"
+    },
+    {
+      "id": "mar_chalitzah",
+      "name": "Chalitzah (Release from Levirate)",
+      "hebrew": "חליצה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Ceremony releasing widow from levirate obligation"
+    },
+    {
+      "id": "mar_sotah",
+      "name": "Sotah (Suspected Adulteress)",
+      "hebrew": "סוטה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Procedure for woman accused of adultery by jealous husband"
+    },
+    {
+      "id": "mar_jealousy_kinui",
+      "name": "Warning of Jealousy (Kinui)",
+      "hebrew": "קינוי",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Husband's formal warning that triggers sotah procedure"
+    },
+    {
+      "id": "mar_adultery",
+      "name": "Adultery",
+      "hebrew": "ניאוף",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition and legal consequences of adultery"
+    },
+    {
+      "id": "mar_pre_marital_relations",
+      "name": "Pre-Marital Relations",
+      "hebrew": "קדישות / פנויה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic status of relations between unmarried persons"
+    },
+    {
+      "id": "mar_seduction",
+      "name": "Seduction (Pitui)",
+      "hebrew": "פיתוי",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal consequences of seducing an unmarried woman"
+    },
+    {
+      "id": "mar_rape",
+      "name": "Rape (Ones)",
+      "hebrew": "אונס",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal treatment of rape and obligations of the rapist"
+    },
+    {
+      "id": "mar_beelah",
+      "name": "Beelah (Marital Cohabitation)",
+      "hebrew": "ביאה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal status and implications of consummating marriage"
+    },
+    {
+      "id": "mar_yichud",
+      "name": "Yichud (Seclusion Prohibition)",
+      "hebrew": "יחוד",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against seclusion of unrelated man and woman"
+    },
+    {
+      "id": "mar_forbidden_unions",
+      "name": "Forbidden Marriages",
+      "hebrew": "איסורי אישות",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Categories of marriages prohibited by Torah law"
+    },
+    {
+      "id": "mar_modest_behavior",
+      "name": "Modest Behavior (Tzniut)",
+      "hebrew": "צניעות",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Standards of modesty in behavior and dress"
+    },
+    {
+      "id": "courts_structure",
+      "name": "Structure of Jewish Courts",
+      "hebrew": "מבנה בתי הדין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Sanhedrin of 71, courts of 23, courts of 3"
+    },
+    {
+      "id": "courts_sanhedrin",
+      "name": "Sanhedrin",
+      "hebrew": "סנהדרין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "webshas"
+      ],
+      "notes": "Great Sanhedrin of 71 and small Sanhedrin of 23"
+    },
+    {
+      "id": "courts_dayyan",
+      "name": "Judge (Dayyan)",
+      "hebrew": "דיין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "webshas"
+      ],
+      "notes": "Qualifications and responsibilities of judges"
+    },
+    {
+      "id": "courts_dayyan_mumcheh",
+      "name": "Expert Judge (Dayyan Mumcheh)",
+      "hebrew": "דיין מומחה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Qualified expert judge recognized for monetary cases"
+    },
+    {
+      "id": "courts_procedure",
+      "name": "Courtroom Procedure",
+      "hebrew": "סדר הדין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Rules governing the conduct of legal proceedings"
+    },
+    {
+      "id": "courts_arbitration",
+      "name": "Arbitration (Peshara)",
+      "hebrew": "פשרה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Compromise settlement as alternative to strict judgment"
+    },
+    {
+      "id": "courts_testimony",
+      "name": "Testimony (Edut)",
+      "hebrew": "עדות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Rules governing witnesses and testimony"
+    },
+    {
+      "id": "courts_witness_qualification",
+      "name": "Witness Qualification",
+      "hebrew": "כשרות עדים",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Who is eligible to testify in Jewish courts"
+    },
+    {
+      "id": "courts_two_witnesses",
+      "name": "Requirement of Two Witnesses",
+      "hebrew": "עד אחד אינו נאמן",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Biblical requirement for two witnesses to establish facts"
+    },
+    {
+      "id": "courts_false_testimony",
+      "name": "False Testimony (Edut Sheker)",
+      "hebrew": "עדות שקר",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition of and punishment for false testimony"
+    },
+    {
+      "id": "courts_edim_zomimin",
+      "name": "Conspiring Witnesses (Edim Zomimin)",
+      "hebrew": "עדים זוממים",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Witnesses proven false receive punishment they sought for defendant"
+    },
+    {
+      "id": "courts_ein_ed_dayyan",
+      "name": "Witness Cannot Become Judge",
+      "hebrew": "אין עד נעשה דיין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Principle that a witness in a case cannot serve as its judge"
+    },
+    {
+      "id": "courts_circumstantial_evidence",
+      "name": "Circumstantial Evidence",
+      "hebrew": "אומדנא / ראיות נסיבתיות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Use and limits of circumstantial evidence in Jewish law"
+    },
+    {
+      "id": "courts_hatraah",
+      "name": "Warning (Hatraah)",
+      "hebrew": "התראה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Requirement to warn before punishment can be administered"
+    },
+    {
+      "id": "courts_conflicts_interest",
+      "name": "Conflicts of Interest in Court",
+      "hebrew": "ניגוד עניינים בדיינים",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Rules disqualifying biased judges or witnesses"
+    },
+    {
+      "id": "courts_secular_courts",
+      "name": "Secular Courts (Erkaot)",
+      "hebrew": "ערכאות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against litigating in non-Jewish courts"
+    },
+    {
+      "id": "courts_subpoenas",
+      "name": "Subpoenas and Summonses",
+      "hebrew": "הזמנה לדין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Process of compelling appearance before a court"
+    },
+    {
+      "id": "courts_appraisal",
+      "name": "Court Appraisal of Value",
+      "hebrew": "שומת בית דין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "How courts assess monetary value of property or damages"
+    },
+    {
+      "id": "courts_scribe",
+      "name": "Court Scribe",
+      "hebrew": "סופר בית דין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Role and responsibilities of the court scribe"
+    },
+    {
+      "id": "courts_legal_documents",
+      "name": "Legal Documents and Deeds",
+      "hebrew": "שטרות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Preparation, validity, and use of legal documents"
+    },
+    {
+      "id": "courts_bills_documents",
+      "name": "Bills and Commercial Documents",
+      "hebrew": "שטרי מסחר",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Commercial documents and their legal standing"
+    },
+    {
+      "id": "courts_psak",
+      "name": "Halakhic Ruling (Psak)",
+      "hebrew": "פסק הלכה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Process and principles of rendering halakhic decisions"
+    },
+    {
+      "id": "courts_jurisprudence_principles",
+      "name": "General Jurisprudential Principles",
+      "hebrew": "עקרונות המשפט",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Overarching legal principles governing Jewish law"
+    },
+    {
+      "id": "courts_judicial_malpractice",
+      "name": "Judicial Malpractice",
+      "hebrew": "טעות דיין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Consequences when a judge errs in a ruling"
+    },
+    {
+      "id": "courts_lawyers",
+      "name": "Legal Representation",
+      "hebrew": "טוען",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Use of advocates or legal representatives in court"
+    },
+    {
+      "id": "courts_dinei_nefashot",
+      "name": "Capital Cases Procedure (Dinei Nefashot)",
+      "hebrew": "דיני נפשות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Special procedural rules for capital cases"
+    },
+    {
+      "id": "courts_majority_minority",
+      "name": "Majority and Minority Opinions",
+      "hebrew": "רוב ומיעוט",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "talmudic_principles",
+        "rambam"
+      ],
+      "notes": "How courts reach decisions by majority vote"
+    },
+    {
+      "id": "courts_imprisonment",
+      "name": "Imprisonment",
+      "hebrew": "כליאה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Use of imprisonment as judicial sanction"
+    },
+    {
+      "id": "courts_extrajudicial",
+      "name": "Extra-Judicial Punishment",
+      "hebrew": "עונש מחוץ לסדרי הדין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Punishment administered outside formal court process"
+    },
+    {
+      "id": "courts_kings_law",
+      "name": "King's Law (Mishpat HaMelech)",
+      "hebrew": "משפט המלך",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Royal prerogatives in judicial and executive matters"
+    },
+    {
+      "id": "courts_modeh_bemiktzat",
+      "name": "Partial Admission (Modeh beMiktzat)",
+      "hebrew": "מודה במקצת",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Partial admission triggering oath requirement"
+    },
+    {
+      "id": "courts_oaths_adjudication",
+      "name": "Adjudicatory Oaths",
+      "hebrew": "שבועות בית דין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Oaths administered by courts in monetary disputes"
+    },
+    {
+      "id": "courts_oral_loans",
+      "name": "Oral Loans",
+      "hebrew": "הלואה על פה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Validity and collection of loans made without documents"
+    },
+    {
+      "id": "crim_capital_punishment",
+      "name": "Capital Punishment",
+      "hebrew": "מיתת בית דין",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Four modes of court-administered execution"
+    },
+    {
+      "id": "crim_four_death_penalties",
+      "name": "Four Modes of Execution",
+      "hebrew": "ארבע מיתות בית דין",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Stoning, burning, beheading, strangulation"
+    },
+    {
+      "id": "crim_stoning",
+      "name": "Stoning (Sekilah)",
+      "hebrew": "סקילה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Most severe of the four death penalties"
+    },
+    {
+      "id": "crim_burning",
+      "name": "Burning (Sereifah)",
+      "hebrew": "שריפה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Second of the four death penalties"
+    },
+    {
+      "id": "crim_beheading",
+      "name": "Beheading (Hereg)",
+      "hebrew": "הרג",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Death penalty by sword"
+    },
+    {
+      "id": "crim_strangulation",
+      "name": "Strangulation (Chenek)",
+      "hebrew": "חנק",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Least severe of the four death penalties"
+    },
+    {
+      "id": "crim_flogging",
+      "name": "Flogging (Malkot)",
+      "hebrew": "מלקות",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Lashes as punishment for violations of negative commandments"
+    },
+    {
+      "id": "crim_fines",
+      "name": "Fines (Kenas)",
+      "hebrew": "קנס",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Court-imposed monetary penalties for specific offenses"
+    },
+    {
+      "id": "crim_murder",
+      "name": "Murder (Retzichah)",
+      "hebrew": "רצח",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition of murder and its legal consequences"
+    },
+    {
+      "id": "crim_manslaughter",
+      "name": "Unintentional Killing",
+      "hebrew": "הורג בשוגג",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Accidental killing and cities of refuge"
+    },
+    {
+      "id": "crim_cities_refuge",
+      "name": "Cities of Refuge (Arei Miklat)",
+      "hebrew": "ערי מקלט",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Refuge for accidental killers from blood avenger"
+    },
+    {
+      "id": "crim_goel_hadam",
+      "name": "Blood Avenger (Goel HaDam)",
+      "hebrew": "גואל הדם",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Close relative empowered to execute accidental killer outside refuge"
+    },
+    {
+      "id": "crim_eglah_arufah",
+      "name": "Eglah Arufah (Unsolved Murder Rite)",
+      "hebrew": "עגלה ערופה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Ceremony performed when murder victim found between cities"
+    },
+    {
+      "id": "crim_suicide",
+      "name": "Suicide",
+      "hebrew": "אבוד עצמו לדעת",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic treatment of suicide"
+    },
+    {
+      "id": "crim_rebellious_son",
+      "name": "Rebellious Son (Ben Sorer uMoreh)",
+      "hebrew": "בן סורר ומורה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Capital case of juvenile delinquent with specific requirements"
+    },
+    {
+      "id": "crim_rebellious_elder",
+      "name": "Rebellious Elder (Zaken Mamre)",
+      "hebrew": "זקן ממרא",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Scholar who defies Sanhedrin ruling"
+    },
+    {
+      "id": "crim_wounding",
+      "name": "Bodily Injury and Wounding",
+      "hebrew": "חובל",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Five categories of compensation for bodily injury"
+    },
+    {
+      "id": "crim_five_damages",
+      "name": "Five Components of Injury Compensation",
+      "hebrew": "חמישה דברים",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Nezek, tzaar, ripui, shevet, boshet"
+    },
+    {
+      "id": "crim_embarrassment",
+      "name": "Embarrassment Damages (Boshet)",
+      "hebrew": "בושת",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Compensation for humiliation caused by assault"
+    },
+    {
+      "id": "crim_false_accusation_motzi_shem",
+      "name": "False Accusation of Unchastity (Motzi Shem Ra)",
+      "hebrew": "מוציא שם רע",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Husband who falsely claims wife was not a virgin"
+    },
+    {
+      "id": "crim_kidnapping",
+      "name": "Kidnapping (Geneivat Nefesh)",
+      "hebrew": "גנבת נפש",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Capital crime of kidnapping a person"
+    },
+    {
+      "id": "crim_moser",
+      "name": "Informer (Moser)",
+      "hebrew": "מוסר",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "One who informs on Jews to non-Jewish authorities"
+    },
+    {
+      "id": "crim_lav_ein_maase",
+      "name": "Negative Commandment Without Action",
+      "hebrew": "לאו שאין בו מעשה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Violations in speech or thought not punishable by flogging"
+    },
+    {
+      "id": "crim_gambling",
+      "name": "Gambling",
+      "hebrew": "משחק בקוביא",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic status of gambling and gamblers as witnesses"
+    },
+    {
+      "id": "crim_war_declaration",
+      "name": "Declaration of War",
+      "hebrew": "הכרזת מלחמה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Halakhic requirements for mandatory and discretionary war"
+    },
+    {
+      "id": "crim_war",
+      "name": "Laws of War",
+      "hebrew": "דיני מלחמה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Rules governing conduct in war"
+    },
+    {
+      "id": "eth_lashon_hara",
+      "name": "Lashon Hara (Evil Speech)",
+      "hebrew": "לשון הרע",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against speaking negatively about others"
+    },
+    {
+      "id": "eth_rechilut",
+      "name": "Rechilut (Gossip/Tale-Bearing)",
+      "hebrew": "רכילות",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Spreading information that causes conflict between people"
+    },
+    {
+      "id": "eth_slander",
+      "name": "Slander and Defamation",
+      "hebrew": "הוצאת דיבה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "False negative statements about others"
+    },
+    {
+      "id": "eth_libel",
+      "name": "Libel (Written Defamation)",
+      "hebrew": "לשון הרע בכתב",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Written defamatory statements"
+    },
+    {
+      "id": "eth_embarrassing_others",
+      "name": "Embarrassing Others (Halbanat Panim)",
+      "hebrew": "הלבנת פנים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against publicly shaming another person"
+    },
+    {
+      "id": "eth_onaat_devarim",
+      "name": "Verbal Oppression (Onaat Devarim)",
+      "hebrew": "אונאת דברים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against hurtful words"
+    },
+    {
+      "id": "eth_lifnei_iver",
+      "name": "Placing Stumbling Block (Lifnei Iver)",
+      "hebrew": "לפני עיוור לא תתן מכשול",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition of causing another to sin or err"
+    },
+    {
+      "id": "eth_lifnim_mishurat_hadin",
+      "name": "Beyond the Letter of the Law",
+      "hebrew": "לפנים משורת הדין",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Acting with greater generosity than legally required"
+    },
+    {
+      "id": "eth_tochachah",
+      "name": "Rebuke (Tochachah)",
+      "hebrew": "תוכחה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation to rebuke another for wrongdoing"
+    },
+    {
+      "id": "eth_dan_lekaf_zechut",
+      "name": "Judging Others Favorably (Dan leKaf Zechut)",
+      "hebrew": "דן לכף זכות",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation to give benefit of the doubt"
+    },
+    {
+      "id": "eth_forgiveness",
+      "name": "Forgiveness (Mechilah)",
+      "hebrew": "מחילה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation and practice of forgiving those who wronged you"
+    },
+    {
+      "id": "eth_repentance",
+      "name": "Repentance (Teshuvah)",
+      "hebrew": "תשובה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Return to proper behavior and seeking forgiveness"
+    },
+    {
+      "id": "eth_employer_employee",
+      "name": "Employer and Employee Relations",
+      "hebrew": "יחסי עובד ומעביד",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Ethical and legal obligations between workers and employers"
+    },
+    {
+      "id": "eth_honest_weights",
+      "name": "Honest Weights and Measures",
+      "hebrew": "מאזניים צדק",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against using false weights in commerce"
+    },
+    {
+      "id": "eth_misleading",
+      "name": "Misleading Others (Geneivat Daat)",
+      "hebrew": "גניבת דעת",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition of creating false impressions"
+    },
+    {
+      "id": "eth_rage",
+      "name": "Anger and Rage",
+      "hebrew": "כעס",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Talmudic teachings on controlling anger"
+    },
+    {
+      "id": "eth_jealousy",
+      "name": "Jealousy and Envy",
+      "hebrew": "קנאה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Teachings on jealousy and its consequences"
+    },
+    {
+      "id": "eth_reward_punishment",
+      "name": "Reward and Punishment",
+      "hebrew": "שכר ועונש",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Theological and ethical framework of divine retribution"
+    },
+    {
+      "id": "eth_matan_bseter",
+      "name": "Giving in Secret (Matan beSeter)",
+      "hebrew": "מתן בסתר",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Virtue of anonymous charitable giving"
+    },
+    {
+      "id": "eth_pain_suffering",
+      "name": "Pain and Suffering",
+      "hebrew": "צער",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Halakhic and ethical treatment of pain"
+    },
+    {
+      "id": "eth_social_contract",
+      "name": "Social Contract and Communal Obligations",
+      "hebrew": "חיובים חברתיים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Obligations to society and community"
+    },
+    {
+      "id": "eth_idle_speech",
+      "name": "Idle Speech (Sichah Beteilah)",
+      "hebrew": "שיחה בטלה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Discouragement of purposeless conversation"
+    },
+    {
+      "id": "eth_fairness",
+      "name": "Fairness (Yosher)",
+      "hebrew": "יושר",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "General ethical principle of fairness in dealings"
+    },
+    {
+      "id": "eth_psychology",
+      "name": "Human Psychology in Halakhic Context",
+      "hebrew": "פסיכולוגיה אנושית",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Talmudic insights on human nature and behavior"
+    },
+    {
+      "id": "mon_sales",
+      "name": "Sales (Mecher)",
+      "hebrew": "מכר",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws governing purchase and sale transactions"
+    },
+    {
+      "id": "mon_kinyanim",
+      "name": "Methods of Acquisition (Kinyanim)",
+      "hebrew": "קניינים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Various modes of transferring ownership"
+    },
+    {
+      "id": "mon_kinyan_kesef",
+      "name": "Acquisition by Money",
+      "hebrew": "קניין כסף",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Transfer of ownership through payment"
+    },
+    {
+      "id": "mon_kinyan_meshicha",
+      "name": "Acquisition by Pulling (Meshichah)",
+      "hebrew": "קניין משיכה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Transfer of ownership of movable objects by pulling"
+    },
+    {
+      "id": "mon_kinyan_chazakah",
+      "name": "Acquisition by Possession (Chazakah)",
+      "hebrew": "קניין חזקה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Establishing ownership through use or improvement of land"
+    },
+    {
+      "id": "mon_kinyan_agav",
+      "name": "Acquisition by Attachment (Agav)",
+      "hebrew": "קניין אגב",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Acquiring movables incidentally along with land"
+    },
+    {
+      "id": "mon_kinyan_sudar",
+      "name": "Acquisition by Cloth Exchange (Sudar)",
+      "hebrew": "קניין סודר",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Symbolic exchange of cloth to consummate transaction"
+    },
+    {
+      "id": "mon_mekach_taut",
+      "name": "Sale Under Mistaken Assumption (Mekach Taut)",
+      "hebrew": "מקח טעות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Voiding a sale when based on incorrect information"
+    },
+    {
+      "id": "mon_onaah",
+      "name": "Price Fraud (Onaah)",
+      "hebrew": "אונאה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Prohibition against charging significantly above or below market price"
+    },
+    {
+      "id": "mon_price_gouging",
+      "name": "Price Gouging",
+      "hebrew": "הפקעת שערים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Artificial inflation of prices especially of necessities"
+    },
+    {
+      "id": "mon_gifts",
+      "name": "Gifts (Matanah)",
+      "hebrew": "מתנה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Laws governing the giving and receiving of gifts"
+    },
+    {
+      "id": "mon_deathbed_gifts",
+      "name": "Deathbed Gifts (Matnat Shechiv Mera)",
+      "hebrew": "מתנת שכיב מרע",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Special rules for gifts given by dying person"
+    },
+    {
+      "id": "mon_theft_geneivah",
+      "name": "Theft (Geneivah)",
+      "hebrew": "גניבה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Covert taking of another's property; double payment"
+    },
+    {
+      "id": "mon_robbery_gezeilah",
+      "name": "Robbery (Gezeilah)",
+      "hebrew": "גזילה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Open taking of another's property by force"
+    },
+    {
+      "id": "mon_lost_objects",
+      "name": "Lost Objects (Hashavat Aveidah)",
+      "hebrew": "השבת אבידה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Obligation to return lost property to owner"
+    },
+    {
+      "id": "mon_damages_nezek",
+      "name": "Property Damages (Nezikin)",
+      "hebrew": "נזיקין",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Liability for damage caused by one's actions or property"
+    },
+    {
+      "id": "mon_four_avot_nezikin",
+      "name": "Four Categories of Damages",
+      "hebrew": "ארבעה אבות נזיקין",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Ox, pit, fire, man as primary damage categories"
+    },
+    {
+      "id": "mon_liability_property",
+      "name": "Liability for Damage by Property",
+      "hebrew": "אחריות על נזקי רכוש",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "When owners are liable for damage caused by their property"
+    },
+    {
+      "id": "mon_gerama",
+      "name": "Indirect Causation of Damage (Gerama)",
+      "hebrew": "גרמא",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Liability for damage caused indirectly"
+    },
+    {
+      "id": "mon_hezek_reiyah",
+      "name": "Damage by Sight (Hezek Reiyah)",
+      "hebrew": "היזק ראיה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Privacy rights and damage caused by overlooking neighbor's property"
+    },
+    {
+      "id": "mon_loans",
+      "name": "Loans",
+      "hebrew": "הלואה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws governing lending and borrowing"
+    },
+    {
+      "id": "mon_ribbit",
+      "name": "Interest on Loans (Ribbit)",
+      "hebrew": "ריבית",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Prohibition of charging interest on loans to Jews"
+    },
+    {
+      "id": "mon_heter_iska",
+      "name": "Heter Iska (Business Loan Permit)",
+      "hebrew": "היתר עסקא",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Legal mechanism to permit profit from capital investment"
+    },
+    {
+      "id": "mon_guarantor",
+      "name": "Guarantor (Arev)",
+      "hebrew": "ערב",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Third party guaranteeing repayment of a loan"
+    },
+    {
+      "id": "mon_arevut",
+      "name": "Mutual Responsibility (Arevut)",
+      "hebrew": "ערבות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "talmudic_principles"
+      ],
+      "notes": "Principle that all Jews are responsible for one another"
+    },
+    {
+      "id": "mon_liens",
+      "name": "Liens (Shiabud)",
+      "hebrew": "שיעבוד",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Encumbering property as security for debt"
+    },
+    {
+      "id": "mon_prozbul",
+      "name": "Prozbul",
+      "hebrew": "פרוזבול",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Hillel's mechanism to prevent cancellation of debts in Shemitah"
+    },
+    {
+      "id": "mon_bankruptcy",
+      "name": "Bankruptcy and Creditors",
+      "hebrew": "פשיטת רגל ונושים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Priority of creditor claims when debtor cannot pay"
+    },
+    {
+      "id": "mon_inheritance",
+      "name": "Inheritance (Yerushah)",
+      "hebrew": "ירושה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws of succession and inheritance"
+    },
+    {
+      "id": "mon_heirs",
+      "name": "Heirs and Order of Succession",
+      "hebrew": "יורשים וסדר ירושה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Who inherits and in what order"
+    },
+    {
+      "id": "mon_bekhor_inheritance",
+      "name": "Firstborn's Double Portion",
+      "hebrew": "פי שניים של הבכור",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Firstborn son's entitlement to double inheritance share"
+    },
+    {
+      "id": "mon_rental",
+      "name": "Rental (Sekhirut)",
+      "hebrew": "שכירות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws governing rental of property and workers"
+    },
+    {
+      "id": "mon_leasing",
+      "name": "Leasing Property",
+      "hebrew": "חכירה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Long-term leasing arrangements"
+    },
+    {
+      "id": "mon_borrowing",
+      "name": "Borrowing Objects (Shailah)",
+      "hebrew": "שאלה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws governing borrowing of objects; borrower bears full liability"
+    },
+    {
+      "id": "mon_deposits",
+      "name": "Deposits (Pikadon)",
+      "hebrew": "פיקדון",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Laws of guarding another's property"
+    },
+    {
+      "id": "mon_four_shomrim",
+      "name": "Four Categories of Bailees",
+      "hebrew": "ארבעה שומרים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Unpaid, paid, borrower, renter - different liability levels"
+    },
+    {
+      "id": "mon_partnerships",
+      "name": "Partnerships (Shutafut)",
+      "hebrew": "שותפות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Formation and dissolution of business partnerships"
+    },
+    {
+      "id": "mon_agency",
+      "name": "Agency (Shlichut)",
+      "hebrew": "שליחות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Appointment of agent and agent's authority"
+    },
+    {
+      "id": "mon_neighbors",
+      "name": "Neighbor Rights (Din Metzranut)",
+      "hebrew": "דין המצרנות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Neighbor's right of first refusal to purchase adjacent land"
+    },
+    {
+      "id": "mon_guardians",
+      "name": "Guardians of Property (Apotropus)",
+      "hebrew": "אפוטרופוס",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal guardian of property for minors or incapacitated"
+    },
+    {
+      "id": "mon_legal_guardian",
+      "name": "Legal Guardian of Persons",
+      "hebrew": "אפוטרופוס לגוף",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Guardian appointed over persons rather than property"
+    },
+    {
+      "id": "mon_minors_transactions",
+      "name": "Minors in Transactions",
+      "hebrew": "קטן בעסקאות",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Legal capacity of minors in commercial transactions"
+    },
+    {
+      "id": "mon_receipts",
+      "name": "Receipts (Shovr)",
+      "hebrew": "שובר",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas"
+      ],
+      "notes": "Documentation of payments received"
+    },
+    {
+      "id": "mon_plaintiff_defendant",
+      "name": "Plaintiff and Defendant (Tove'a vNitva)",
+      "hebrew": "תובע ונתבע",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Rights and burdens of proof for claimant and respondent"
+    },
+    {
+      "id": "mon_chazakah_presumption",
+      "name": "Legal Presumption (Chazakah)",
+      "hebrew": "חזקה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Legal presumptions used to resolve doubtful cases"
+    },
+    {
+      "id": "mon_hamotzi_mechaveiro",
+      "name": "Burden of Proof (HaMotzi MeChaveiro)",
+      "hebrew": "המוציא מחברו עליו הראיה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Claimant must bring proof; defendant keeps possession"
+    },
+    {
+      "id": "vow_nedarim",
+      "name": "Vows (Nedarim)",
+      "hebrew": "נדרים",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Verbal pledges to abstain from permitted activities"
+    },
+    {
+      "id": "vow_shevuot",
+      "name": "Oaths (Shevuot)",
+      "hebrew": "שבועות",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "webshas",
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Invoking God's name to affirm truth or commit to action"
+    },
+    {
+      "id": "vow_types_shevuot",
+      "name": "Types of Oaths",
+      "hebrew": "סוגי שבועות",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Shevuat shav, shevuat sheker, shevuat bitui, shevuat shav"
+    },
+    {
+      "id": "vow_hafarah",
+      "name": "Annulment of Vows by Husband/Father (Hafarah)",
+      "hebrew": "הפרת נדרים",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Husband's or father's power to annul wife's/daughter's vows"
+    },
+    {
+      "id": "vow_hatarat_nedarim",
+      "name": "Rescinding Vows (Hatarat Nedarim)",
+      "hebrew": "התרת נדרים",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Release from vows through rabbinic court"
+    },
+    {
+      "id": "vow_nazirite",
+      "name": "Nazirite (Nazir)",
+      "hebrew": "נזיר",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Vow to abstain from wine, haircuts, and corpse impurity"
+    },
+    {
+      "id": "vow_arachim",
+      "name": "Valuations (Arachim)",
+      "hebrew": "ערכין",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Pledging one's value or another's to the Temple"
+    },
+    {
+      "id": "vow_cherem",
+      "name": "Ban/Devotion (Cherem)",
+      "hebrew": "חרם",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Declaring property or person as devoted to God"
+    },
+    {
+      "id": "vow_oath_false",
+      "name": "False Oath (Shevuat Shav/Sheker)",
+      "hebrew": "שבועת שוא / שבועת שקר",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Oath in vain or knowingly false oath; prohibited by Torah"
+    },
+    {
+      "id": "vow_konam",
+      "name": "Konam (Vow Using Substitute Term)",
+      "hebrew": "קונם",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Vow using substitute terms for sacred objects"
+    },
+    {
+      "id": "vow_neder_tzedakah",
+      "name": "Vow of Charity (Neder Tzedakah)",
+      "hebrew": "נדר צדקה",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Pledges made to charity and their enforcement"
+    },
+    {
+      "id": "vow_hakdesh",
+      "name": "Dedication to Sanctuary (Hekdesh)",
+      "hebrew": "הקדש",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Dedicating property to the Temple treasury"
+    },
+    {
+      "id": "slav_eved_ivri",
+      "name": "Hebrew Slave (Eved Ivri)",
+      "hebrew": "עבד עברי",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Israelite sold into slavery due to theft or poverty"
+    },
+    {
+      "id": "slav_eved_kenaani",
+      "name": "Canaanite Slave (Eved Kenaani)",
+      "hebrew": "עבד כנעני",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Non-Jewish slave with permanent servitude status"
+    },
+    {
+      "id": "slav_release_ivri",
+      "name": "Release of Hebrew Slave",
+      "hebrew": "שחרור עבד עברי",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Hebrew slave goes free in seventh year or Jubilee"
+    },
+    {
+      "id": "slav_amah_ivriyah",
+      "name": "Hebrew Maidservant (Amah Ivriyah)",
+      "hebrew": "אמה עברייה",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Minor girl sold by father into service; special protections"
+    },
+    {
+      "id": "slav_yiud",
+      "name": "Designation for Marriage (Yiud)",
+      "hebrew": "יעוד",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Designation of Hebrew maidservant for marriage to master or son"
+    },
+    {
+      "id": "slav_ear_piercing",
+      "name": "Ear Piercing of Permanent Slave",
+      "hebrew": "רציעת אוזן",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Ceremony when Hebrew slave chooses to remain beyond sixth year"
+    },
+    {
+      "id": "slav_get_shichrur",
+      "name": "Bill of Manumission (Get Shichrur)",
+      "hebrew": "גט שחרור",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Document freeing a Canaanite slave"
+    },
+    {
+      "id": "slav_slave_obligations",
+      "name": "Slave's Religious Obligations",
+      "hebrew": "חיובי העבד",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Canaanite slave obligated in commandments like a woman"
+    },
+    {
+      "id": "slav_treatment",
+      "name": "Treatment of Slaves",
+      "hebrew": "יחס לעבדים",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Ethical and legal obligations toward slaves"
+    },
+    {
+      "id": "slav_jubilee",
+      "name": "Jubilee Release (Yovel)",
+      "hebrew": "יובל",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Fiftieth year release of all Hebrew slaves and land"
+    },
+    {
+      "id": "mar_wives_obligations",
+      "name": "Wife's Obligations to Husband",
+      "hebrew": "חיובי האישה לבעלה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Household duties and loyalty expected of wife"
+    },
+    {
+      "id": "mar_husband_obligations",
+      "name": "Husband's Obligations to Wife",
+      "hebrew": "חיובי הבעל לאשתו",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Food, clothing, conjugal rights, medical care"
+    },
+    {
+      "id": "mar_mohar",
+      "name": "Bride Price (Mohar)",
+      "hebrew": "מוהר",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Payment to bride's father in Biblical law"
+    },
+    {
+      "id": "mar_nedunya",
+      "name": "Dowry (Nedunya)",
+      "hebrew": "נדוניה",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Property brought by bride into marriage"
+    },
+    {
+      "id": "mar_melog",
+      "name": "Melog Property",
+      "hebrew": "נכסי מלוג",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Wife's property where husband enjoys fruits but not principal"
+    },
+    {
+      "id": "mar_tzon_barzel",
+      "name": "Tzon Barzel Property",
+      "hebrew": "נכסי צאן ברזל",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Wife's property with fixed value for which husband bears liability"
+    },
+    {
+      "id": "mar_meiah_zuz",
+      "name": "Ketubah Minimum Amount",
+      "hebrew": "מאה זוז / מאתיים זוז",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Minimum ketubah of 100 zuz for widow/divorcee; 200 for virgin"
+    },
+    {
+      "id": "mar_get_delivery",
+      "name": "Delivery of Get",
+      "hebrew": "מסירת גט",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Requirements for valid delivery of bill of divorce"
+    },
+    {
+      "id": "mar_get_writing",
+      "name": "Writing of Get",
+      "hebrew": "כתיבת גט",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Requirements for valid drafting of divorce document"
+    },
+    {
+      "id": "mar_kesher",
+      "name": "Marriage Bond",
+      "hebrew": "קשר נישואין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Nature of the marital bond in Jewish law"
+    },
+    {
+      "id": "courts_eid_echad",
+      "name": "Single Witness",
+      "hebrew": "עד אחד",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Limited evidentiary value of single witness testimony"
+    },
+    {
+      "id": "courts_umdena",
+      "name": "Presumptive Assessment (Umdena)",
+      "hebrew": "אומדנא",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Judicial assessment of probable intent in transactions"
+    },
+    {
+      "id": "courts_dina_demalkhuta",
+      "name": "Law of the Land (Dina deMalkhuta Dina)",
+      "hebrew": "דינא דמלכותא דינא",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "talmudic_principles",
+        "rambam"
+      ],
+      "notes": "Principle that civil law of the state is binding on Jews"
+    },
+    {
+      "id": "courts_hefker_beit_din",
+      "name": "Court Ownerless Declaration (Hefker Beit Din)",
+      "hebrew": "הפקר בית דין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "talmudic_principles",
+        "rambam"
+      ],
+      "notes": "Court's power to declare property ownerless"
+    },
+    {
+      "id": "courts_takkanat_hashavim",
+      "name": "Enactments Favoring Penitents",
+      "hebrew": "תקנת השבים",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Rabbinic enactments to facilitate repentance"
+    },
+    {
+      "id": "mon_takkanat_hashuk",
+      "name": "Market Enactments (Takkanat HaShuk)",
+      "hebrew": "תקנת השוק",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Enactments protecting purchasers in good faith"
+    },
+    {
+      "id": "mon_hafkaas_kiddushin",
+      "name": "Court Annulment of Marriage",
+      "hebrew": "הפקעת קידושין",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Rabbinic power to retroactively annul betrothal"
+    },
+    {
+      "id": "crim_sorer_umoreh_details",
+      "name": "Ben Sorer uMoreh Requirements",
+      "hebrew": "תנאי בן סורר ומורה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Specific age, food, and other requirements for the rebellious son case"
+    },
+    {
+      "id": "crim_idolatry",
+      "name": "Idolatry (Avodah Zarah) as Criminal Offense",
+      "hebrew": "עבודה זרה",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Capital crime of worshipping idols"
+    },
+    {
+      "id": "crim_desecrating_shabbat",
+      "name": "Desecrating Shabbat as Criminal Offense",
+      "hebrew": "חילול שבת כעבירה פלילית",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Capital punishment for intentional Shabbat violation"
+    },
+    {
+      "id": "crim_blasphemy",
+      "name": "Blasphemy (Birkat HaShem)",
+      "hebrew": "ברכת השם",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Capital crime of cursing God's name"
+    },
+    {
+      "id": "crim_false_prophet",
+      "name": "False Prophet",
+      "hebrew": "נביא שקר",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Capital punishment for false prophecy"
+    },
+    {
+      "id": "crim_eid_zomem_details",
+      "name": "Conspiring Witness Punishment Details",
+      "hebrew": "עונש עדים זוממים",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Ka'asher zamam - receive what they intended for their victim"
+    },
+    {
+      "id": "fam_cohen_marriage",
+      "name": "Marriage Restrictions for Kohanim",
+      "hebrew": "איסורי נישואין לכהנים",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Kohen prohibited from marrying divorcee, convert, zone, chalal"
+    },
+    {
+      "id": "fam_chalal",
+      "name": "Chalal (Disqualified Priestly Status)",
+      "hebrew": "חלל",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Child of invalid priestly marriage; loses priestly status"
+    },
+    {
+      "id": "fam_zonah",
+      "name": "Zonah (Halakhically Disqualified Woman)",
+      "hebrew": "זונה",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Woman who had forbidden relations; prohibited to Kohen"
+    },
+    {
+      "id": "fam_giyur_requirements",
+      "name": "Requirements for Conversion",
+      "hebrew": "דרישות הגיור",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Circumcision, immersion, acceptance of commandments"
+    },
+    {
+      "id": "fam_bar_mitzvah",
+      "name": "Bar/Bat Mitzvah Age of Obligation",
+      "hebrew": "בר מצווה / בת מצווה",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Age at which a person becomes obligated in commandments"
+    },
+    {
+      "id": "eth_kibbud_av_vem",
+      "name": "Honoring Parents (Kibbud Av vaEm)",
+      "hebrew": "כיבוד אב ואם",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Commandment to honor father and mother"
+    },
+    {
+      "id": "eth_morah_av",
+      "name": "Reverence for Parents (Morah Av)",
+      "hebrew": "מורא אב",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Fear and reverence required toward parents"
+    },
+    {
+      "id": "eth_tzedakah",
+      "name": "Charity (Tzedakah)",
+      "hebrew": "צדקה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Obligation to give charity to the poor"
+    },
+    {
+      "id": "eth_gemilut_chasadim",
+      "name": "Acts of Lovingkindness (Gemilut Chasadim)",
+      "hebrew": "גמילות חסדים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Broader category of kindness beyond monetary charity"
+    },
+    {
+      "id": "eth_visiting_sick",
+      "name": "Visiting the Sick (Bikur Cholim)",
+      "hebrew": "ביקור חולים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Obligation to visit and care for the sick"
+    },
+    {
+      "id": "eth_kavod_habriot",
+      "name": "Human Dignity (Kavod HaBriot)",
+      "hebrew": "כבוד הבריות",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Dignity of every human being as a halakhic principle"
+    },
+    {
+      "id": "eth_veahavta_lereakha",
+      "name": "Love Your Neighbor",
+      "hebrew": "ואהבת לרעך כמוך",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Core ethical principle of loving one's fellow as oneself"
+    },
+    {
+      "id": "eth_lo_tikom",
+      "name": "Prohibition of Revenge and Bearing Grudges",
+      "hebrew": "לא תקום ולא תטור",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Torah prohibition of revenge and bearing grudges"
+    },
+    {
+      "id": "eth_sinat_chinam",
+      "name": "Baseless Hatred (Sinat Chinam)",
+      "hebrew": "שנאת חינם",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Causeless hatred cited as cause of Temple's destruction"
+    },
+    {
+      "id": "mon_shomrim_oath",
+      "name": "Bailee's Oath",
+      "hebrew": "שבועת שומרים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Oath required of bailee claiming exemption from liability"
+    },
+    {
+      "id": "mon_shibud_nechasim",
+      "name": "Property Lien for Debt",
+      "hebrew": "שיעבוד נכסים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Automatic encumbrance of borrower's property upon taking loan"
+    },
+    {
+      "id": "mon_baal_chov",
+      "name": "Creditor's Rights",
+      "hebrew": "זכויות בעל חוב",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Rights of creditor to collect debt from sold property"
+    },
+    {
+      "id": "mon_nekasim_bnei_chorin",
+      "name": "Free Property for Debt Collection",
+      "hebrew": "נכסים בני חורין",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Unencumbered property collected first for debts"
+    },
+    {
+      "id": "mon_apotropus_minor",
+      "name": "Guardian for Orphans",
+      "hebrew": "אפוטרופוס של יתומים",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Court-appointed guardian managing orphan's estate"
+    },
+    {
+      "id": "mon_hekdesh_secular",
+      "name": "Redemption of Dedicated Property",
+      "hebrew": "פדיון הקדש",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Process of redeeming property dedicated to the Temple"
+    },
+    {
+      "id": "vow_neder_conditions",
+      "name": "Conditional Vows",
+      "hebrew": "נדר על תנאי",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Vows made contingent on certain conditions"
+    },
+    {
+      "id": "vow_yad",
+      "name": "Extension of Vow (Yad)",
+      "hebrew": "יד בנדרים",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Implied extension of vow beyond its literal terms"
+    },
+    {
+      "id": "vow_charatah",
+      "name": "Regret as Basis for Annulment (Charatah)",
+      "hebrew": "חרטה",
+      "parent_id": "personal_vows_and_oaths",
+      "category": "PERSONAL VOWS AND OATHS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Expressing regret to sage to seek annulment of vow"
+    },
+    {
+      "id": "courts_kabbalat_edut",
+      "name": "Accepting Testimony",
+      "hebrew": "קבלת עדות",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Procedures for courts receiving and evaluating testimony"
+    },
+    {
+      "id": "courts_cross_examination",
+      "name": "Cross-Examination of Witnesses (Chakirah uDerisha)",
+      "hebrew": "חקירה ודרישה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Seven standard questions posed to witnesses"
+    },
+    {
+      "id": "courts_gezeirat_hakatuv",
+      "name": "Scriptural Decree in Law",
+      "hebrew": "גזירת הכתוב",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Laws derived directly from scriptural text without logical derivation"
+    },
+    {
+      "id": "fam_shmitah_personal",
+      "name": "Shemitah's Effect on Personal Status",
+      "hebrew": "השפעת שמיטה על מעמד אישי",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Release of Hebrew slaves in Shemitah year"
+    },
+    {
+      "id": "mar_get_agent",
+      "name": "Agent for Get",
+      "hebrew": "שליח גט",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Appointing an agent to deliver or receive a get"
+    },
+    {
+      "id": "mar_tenaim",
+      "name": "Pre-Betrothal Conditions (Tenaim)",
+      "hebrew": "תנאים",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Agreement on conditions prior to formal betrothal"
+    },
+    {
+      "id": "eth_tzaar_baalei_chaim",
+      "name": "Prevention of Animal Suffering",
+      "hebrew": "צער בעלי חיים",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Obligation to prevent unnecessary suffering of animals"
+    },
+    {
+      "id": "mon_shibud_vs_kinyan",
+      "name": "Lien vs. Ownership Rights",
+      "hebrew": "שיעבוד לעומת קניין",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Distinction between ownership and security interest"
+    },
+    {
+      "id": "courts_takkanot_rabbanan",
+      "name": "Rabbinic Court Enactments",
+      "hebrew": "תקנות רבנן",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Legislative enactments by rabbinic authorities"
+    },
+    {
+      "id": "fam_nidah_marital",
+      "name": "Nidah in Marital Context",
+      "hebrew": "נידה בהקשר הנישואין",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "webshas",
+        "shulchan_aruch"
+      ],
+      "notes": "Marital separation laws during wife's menstrual period"
+    },
+    {
+      "id": "mon_milveh_al_peh",
+      "name": "Oral Loan (Milveh al Peh)",
+      "hebrew": "מלווה על פה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "webshas",
+        "rambam"
+      ],
+      "notes": "Loan without written document and its limited enforceability"
+    },
+    {
+      "id": "courts_kofin",
+      "name": "Coercion to Fulfill Obligation",
+      "hebrew": "כופין",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Court's power to compel fulfillment of certain obligations"
+    },
+    {
+      "id": "courts_nidui",
+      "name": "Rabbinic Excommunication (Nidui)",
+      "hebrew": "נידוי",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Temporary excommunication as judicial sanction"
+    },
+    {
+      "id": "courts_cherem_ban",
+      "name": "Cherem (Excommunication Ban)",
+      "hebrew": "חרם",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Full excommunication from community"
+    },
+    {
+      "id": "mon_insurance_principle",
+      "name": "Assumption of Risk (Ones)",
+      "hebrew": "אונס",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Force majeure exempting from liability for unforeseeable events"
+    },
+    {
+      "id": "mon_peshiah",
+      "name": "Negligence (Peshiah)",
+      "hebrew": "פשיעה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Careless conduct creating liability"
+    },
+    {
+      "id": "fam_adoption",
+      "name": "Adoption in Jewish Law",
+      "hebrew": "אימוץ",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Limited legal concept of adoption in halakhic framework"
+    },
+    {
+      "id": "crim_noachide_laws",
+      "name": "Noachide Laws",
+      "hebrew": "שבע מצוות בני נח",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Seven laws binding on all humanity; court system for non-Jews"
+    },
+    {
+      "id": "courts_beit_din_shel_shalosh",
+      "name": "Court of Three (Beit Din shel Shalosh)",
+      "hebrew": "בית דין של שלושה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Minimum court for monetary cases"
+    },
+    {
+      "id": "courts_beit_din_gedolah",
+      "name": "Great Sanhedrin (Beit Din HaGadol)",
+      "hebrew": "בית דין הגדול",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Supreme court of 71 members in Jerusalem"
+    },
+    {
+      "id": "courts_semicha",
+      "name": "Ordination (Semicha)",
+      "hebrew": "סמיכה",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Judicial ordination required for capital cases"
+    },
+    {
+      "id": "mon_property_damage_types",
+      "name": "Types of Property Damage",
+      "hebrew": "סוגי נזקי ממון",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Categories including ox, fire, pit, person"
+    },
+    {
+      "id": "mon_shor_tam_muad",
+      "name": "Tame vs. Forewarned Ox",
+      "hebrew": "שור תם ומועד",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam",
+        "talmudic_principles"
+      ],
+      "notes": "Different liability for first offense vs. repeated goring ox"
+    },
+    {
+      "id": "mon_eish",
+      "name": "Fire Damage Liability",
+      "hebrew": "נזקי אש",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Liability for damage caused by one's fire"
+    },
+    {
+      "id": "mon_bor",
+      "name": "Pit Damage Liability",
+      "hebrew": "נזקי בור",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Liability for damage caused by uncovered pit in public domain"
+    },
+    {
+      "id": "eth_darkhei_shalom",
+      "name": "Ways of Peace (Darkhei Shalom)",
+      "hebrew": "דרכי שלום",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Rabbinic enactments for maintaining peace with all people"
+    },
+    {
+      "id": "eth_eivah",
+      "name": "Enmity Prevention (Eivah)",
+      "hebrew": "איבה",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "talmudic_principles"
+      ],
+      "notes": "Considerations to prevent ill-will between communities"
+    },
+    {
+      "id": "slav_parasha_ivri",
+      "name": "Laws of Hebrew Slave Section",
+      "hebrew": "פרשת עבד עברי",
+      "parent_id": "slavery_and_servitude",
+      "category": "SLAVERY AND SERVITUDE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Torah sections (Exodus 21, Deuteronomy 15) on Hebrew slaves"
+    },
+    {
+      "id": "mon_shtar_techiyuv",
+      "name": "Obligation Document (Shtar Techiyuv)",
+      "hebrew": "שטר חוב",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Promissory note creating lien on borrower's property"
+    },
+    {
+      "id": "mon_pikadon_avedah",
+      "name": "Distinction Between Deposit and Lost Object",
+      "hebrew": "הבדל בין פיקדון לאבידה",
+      "parent_id": "monetary_and_property_law",
+      "category": "MONETARY AND PROPERTY LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Different rules applying to intentionally vs. accidentally lost objects"
+    },
+    {
+      "id": "courts_execution_procedure",
+      "name": "Execution Procedure",
+      "hebrew": "סדר הוצאה להורג",
+      "parent_id": "courts_and_jurisprudence",
+      "category": "COURTS AND JURISPRUDENCE",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Procedural requirements before and during execution"
+    },
+    {
+      "id": "crim_kat_kolet",
+      "name": "Prior Fleeing to City of Refuge",
+      "hebrew": "קולט מיד",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Protection afforded to killer upon reaching city of refuge"
+    },
+    {
+      "id": "fam_yuchsin_kohanim",
+      "name": "Priestly Genealogy",
+      "hebrew": "יוחסין הכהנים",
+      "parent_id": "family_and_personal_status",
+      "category": "FAMILY AND PERSONAL STATUS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Maintaining purity of priestly lineage"
+    },
+    {
+      "id": "mar_beit_din_divorce",
+      "name": "Compelled Divorce by Court",
+      "hebrew": "גירושין בכפיית בית דין",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Circumstances where court compels husband to give get"
+    },
+    {
+      "id": "mar_moredes",
+      "name": "Rebellious Wife (Moredes)",
+      "hebrew": "מורדת",
+      "parent_id": "marriage_and_divorce",
+      "category": "MARRIAGE AND DIVORCE",
+      "sources": [
+        "rambam",
+        "shulchan_aruch"
+      ],
+      "notes": "Wife who refuses conjugal obligations; reduction of ketubah"
+    },
+    {
+      "id": "eth_hashavas_guf",
+      "name": "Returning Lost Body (Saving Life)",
+      "hebrew": "השבת הגוף / פיקוח נפש",
+      "parent_id": "interpersonal_ethics",
+      "category": "INTERPERSONAL ETHICS",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "Obligation to save a person's life when in danger"
+    },
+    {
+      "id": "crim_rodef",
+      "name": "Pursuer (Rodef)",
+      "hebrew": "רודף",
+      "parent_id": "criminal_and_capital_law",
+      "category": "CRIMINAL AND CAPITAL LAW",
+      "sources": [
+        "rambam"
+      ],
+      "notes": "One pursuing another to kill; may be killed to save victim"
+    }
+  ]
+}

@@ -58,7 +58,7 @@ The conceptual core of Tosafot's distinction is this: one cannot be doubly *forb
 
 ---
 
-## Deriving Reshut Frame
+## Deriving Reshut Fram (II)
 
 ### Inclusion & Exclusion
 
@@ -106,7 +106,7 @@ The three-zone structure therefore operates as follows: an oath to act in the zo
 
 ---
 
-## Deriving Reshut Frame…
+## Deriving Reshut Fram (II)
 
 ### Circularity Problem
 

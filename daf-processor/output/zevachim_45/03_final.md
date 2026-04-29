@@ -1,6 +1,6 @@
 # Zevachim 45 — Daf Yomi Shiur
 
-## Non-Jewish Sacrifices
+## Non-Jewish Sacrifice (II)
 
 ### Mishna Setup
 
@@ -46,7 +46,7 @@ The *braita* continues: *ve-ein chayavin aleihem mishum piggul, nosar, ve-tamei*
 
 ---
 
-## Non-Jewish Sacrifices…
+## Non-Jewish Sacrifice (II)
 
 ### Rabbi Yose Position
 
@@ -60,7 +60,7 @@ Rabbi Yose then reasons: since this *pasuk* ends with *asher yakrivu la-Shem* �
 
 ---
 
-## Braita Exclusions…
+## Braita Exclusions (II)
 
 ### Me'ilah Distinction
 

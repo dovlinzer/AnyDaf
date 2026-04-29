@@ -236,7 +236,7 @@ Rabbi Yehuda extends the ruling: *af ha-nogea ba-adamah she-keneged ha-basar tam
 
 ---
 
-## Reptile Eggs…
+## Reptile Eggs (II)
 
 ### Derivation
 
@@ -244,7 +244,7 @@ The *beraita* derives the rules about reptile eggs and bones from the verse: *ha
 
 ---
 
-## Half-Flesh Mouse…
+## Half-Flesh Mouse (II)
 
 ### Movement Condition
 

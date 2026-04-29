@@ -62,7 +62,7 @@ The same chain of transmission continues with a parallel series of comparative r
 
 *Kol ra'ah velo ishah ra'ah* — any misfortune is preferable to a bad wife. The Gemara will return to this in the continuation: *zacha ezer lo zacha kenegdo* — if one merits it, she is a help; if not, she is against him.
 
-## Governance…
+## Governance (II)
 
 ### Kings' Hearts
 

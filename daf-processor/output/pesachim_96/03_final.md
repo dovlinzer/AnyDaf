@@ -222,7 +222,7 @@ Among the differences the *Tosefta* enumerates: in Egypt, certain subtle *psulim
 
 ---
 
-## Summary & Transition…
+## Summary & Transition (II)
 
 ### Rabbi Shimon
 

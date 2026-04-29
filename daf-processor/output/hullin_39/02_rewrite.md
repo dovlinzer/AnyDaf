@@ -226,7 +226,7 @@ The first opinion in the *braita* rules: *harei elu ochlin bi-terumah* — they 
 
 ---
 
-## Gift Refusal Case…
+## Gift Refusal Case (II)
 
 ### Rabban Shimon View
 

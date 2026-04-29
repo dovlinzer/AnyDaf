@@ -198,7 +198,7 @@ The Gemara explains: *aidi d'tana reisha yisrael shenasa chalalah, tana nami sei
 
 ---
 
-## Rabbi Dostai
+## Rabbi Dostai (II)
 
 ### Mikveh Metaphor
 

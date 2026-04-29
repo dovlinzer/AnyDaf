@@ -44,7 +44,7 @@ This raises the natural question: are there exceptions, and what does a *simcha 
 
 The practical questions multiply: is it permitted to eat with the service staff rather than at the main table? Tosafot rules *ein lachaleik bein seudas hamishamshim useudah atzmah* — one cannot make that distinction. However, *khnisah belo achilah shari de'ein simchah belo achilah ushtiyah* — simply entering without eating is permitted, since there is no *simcha* without eating and drinking. Tosafot ha-Rosh rules in accordance with the more permissive view among those cited.
 
-## Remarriage Law
+## Remarriage Law (II)
 
 ### Simchat Mitzvah
 

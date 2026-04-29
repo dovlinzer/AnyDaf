@@ -174,7 +174,7 @@ The Sages reject the assumption strategy entirely: *afilu karvu kulam chutz me'e
 
 ---
 
-## Assumption Strategy…
+## Assumption Strategy (II)
 
 ### Pairs Requirement
 

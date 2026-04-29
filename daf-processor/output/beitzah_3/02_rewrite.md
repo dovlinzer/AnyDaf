@@ -1,6 +1,6 @@
 # Beitzah 3 — Daf Yomi Shiur
 
-## Four Beitzah Explanations
+## Four Beitzah Explana (II)
 
 ### Rav Nachman: Muktzah
 
@@ -30,7 +30,7 @@ The *gemara* responds: *kula chada gezeirah hi* — it is all one single *gezeir
 
 Rashi explains the principle differently and more precisely. The rabbis did not say: "Fruit fallen from a tree is forbidden — and therefore, by extension, let us also forbid the egg lest it lead to that case." Rather, when the rabbis formulated the decree about *peiros hanoshrin*, they framed it in an abstract and expansive category: any food that separates from its originating source on Shabbat is forbidden. The egg was therefore included within that original *gezeirah* from the outset — not as a derivative safeguard, but as part of the same conceptual decree. The egg is not prohibited because it might lead someone to pick fallen fruit; rather, the egg is itself a species of "food that fell from its originating source," and that is the very category the rabbis meant to address. Beit Hillel endorses this concern; Beit Shammai does not.
 
-## Four Beitzah Explanati…
+## Four Beitzah Explana (II)
 
 ### Rav Yitzchak: Mashkin Sh…
 
@@ -142,7 +142,7 @@ The ruling about *sfeika* — doubt — fits naturally with Rabbah's position. R
 
 The difficulty arises for Rav Yosef and Rav Yitzchak, whose explanations are purely rabbinic in origin. For them, the egg's prohibition is a rabbinic decree — either by analogy to *peiros hanoshrin* or to *mashkin shezavu* — with no biblical basis. A doubt in a purely rabbinic matter is *sfeika d'rabbanan*, and *vekol sfeika d'rabbanan lekula* — all rabbinic doubts are resolved leniently. Why, then, does the *baraita* rule that a doubtful egg is forbidden?
 
-## Shift to Treifah Case
+## Shift to Treifah Cas (II)
 
 ### Gemara's Reinterpretation
 
@@ -150,7 +150,7 @@ To resolve this difficulty, the *gemara* proposes a forced but necessary reinter
 
 This reading is admittedly strained. Shifting from the case of an egg laid on Yom Tov to the case of an egg from a possibly *treifah* chicken without any textual marker is not a natural reading of the *baraita*. But the *gemara* accepts this reinterpretation as the price of reconciling the *baraita*'s stringent ruling on doubt with the positions of Rav Yosef and Rav Yitzchak.
 
-## Shift to Treifah Case…
+## Shift to Treifah Cas (II)
 
 ### Davar Sheyesh Lo Matirin
 

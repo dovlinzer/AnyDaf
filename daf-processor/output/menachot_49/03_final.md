@@ -248,7 +248,7 @@ Rabbah resolves this: *lo hikrivu heim aval acherim yakrivu* — the ruling does
 
 ---
 
-## Incense Debate
+## Incense Debate (II)
 
 ### Afternoon Incense
 
@@ -286,7 +286,7 @@ Rabbi Shimon rules that when the afternoon *ketoret* is brought alone, the full 
 
 ---
 
-## Incense Debate Continued
+## Incense Debate (II)
 
 ### Full Amount Why
 

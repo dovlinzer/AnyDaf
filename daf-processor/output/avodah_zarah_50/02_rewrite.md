@@ -10,7 +10,7 @@ Daf 50 opens a new *perek* — the fourth *perek*, which begins with Rabbi Ishma
 
 The first *mishna* of the *perek* opens with a discussion of *Markolis*. The classic *Markolis* in the *Gemara* appears to be a roadside idol — a deity associated with travelers, identified by some in the shiur with Mercury of Roman mythology (Hermes in the Greek), the god with winged sandals. The mode of worship was distinctive: worshippers would throw stones at a pile, and so the *Markolis* shrine was naturally constituted by an accumulation of stones. It need not have been exclusively by the side of the road, though that appears to have been the typical setting.
 
-## Markolis Overview…
+## Markolis Overview (II)
 
 ### Three-Stone Config
 
@@ -38,7 +38,7 @@ The *Gemara* resolves this by citing a ruling of Rav Yosef bar Yosef in the name
 
 Rav Yosef bar Yosef's ruling establishes that *bidua she-nasru mimenu divrei hakol asurot* — where it is certain that the stones fell from the *Markolis*, all agree they remain forbidden. The rationale is that *Markolis* is different from other idols. A standard idol that breaks loses its sacred status because the god is understood to have departed; a *Markolis*, however, is by its very nature an accumulation of thrown stones, so its collapse is not a sign of abandonment. Thus *hainu orcheih* — this is simply how it works — and everyone would concede the stones remain forbidden.
 
-## Mishnah Debate…
+## Mishnah Debate (II)
 
 ### Proximity Principle
 
@@ -48,7 +48,7 @@ The *mishna*'s language — *batzad Markolis* — is then quantified by the *Gem
 
 The debate thus reduces to an empirical disagreement: Rabbi Ishmael holds that worshippers did construct small mini-*Markolises* near the main shrine (*osin Markolis katan batzad Markolis gadol*), and therefore three stones within the intermediate zone — even those that did not fall from the main shrine — are presumed to have constituted such a mini-shrine and are forbidden. *Shalosh asurot, shtayim mutarot*. The Sages disagree: *ein osin Markolis katan batzad Markolis gadol* — no such mini-shrines were made. Therefore, once a stone is far enough away that it cannot be presumed to have fallen from the main shrine, it is irrelevant whether one finds two or three; the only operative criterion remains whether the stone is *nirot imo* — seen together with the shrine — and thus presumed to have fallen from it.
 
-## Fell vs. Independent…
+## Fell vs. Independent (II)
 
 ### Rava Reinterprets
 
@@ -122,13 +122,13 @@ Rav Yosef bar Abba reports that Rava bar Yirmiyah visited their locale and broug
 
 Rava bar Yirmiyah found this *braita* difficult to explain — *veleit nagar velo bar nagar de'yafarkina* — there is no carpenter nor son of a carpenter who can unpack it. The difficulty, on reflection, is not the elementary distinction between a Jew and non-Jew in *bittul*, which is well established. Rather, the difficulty is structural: make up your mind. If these stones are *tikrovet*, no one — not even a non-Jew — can make them permissible, since *tikrovet* admits no *bittul*. If they are not *tikrovet*, they are merely *avodah zarah* proper, and even before any non-Jew acts, they should potentially be subject to *bittul*. What is this intermediate category that requires a non-Jew to unlock the permissibility?
 
-## Non-Jew vs. Jew…
+## Non-Jew vs. Jew (II)
 
 ### Rav Sheshet Solution
 
 Rav Sheshet responds: *ana lo nagar ana velo bar nagar ana, ufarkina la* — I am neither a carpenter nor the son of a carpenter, but I can explain it. What is the difficulty? It is the principle of Rav Gidel — that *tikrovet* cannot be nullified. The concern was that the stones qualify as *tikrovet*, which would foreclose *bittul* entirely. The answer is that they do not qualify as *tikrovet*, for the reason already stated: *be'ina ke'ein panim ve'leika*.
 
-## Tikrovet Concept…
+## Tikrovet Concept (II)
 
 ### Not Ke'ein Panim
 

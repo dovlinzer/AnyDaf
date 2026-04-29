@@ -1,6 +1,6 @@
 # Ketubot 39 — Daf Yomi Shiur
 
-## Knas: Betrothal & Divorce
+## Knas: Betrothal & Di (II)
 
 ### Three Opinions on Knas
 

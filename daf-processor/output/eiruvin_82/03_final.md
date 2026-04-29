@@ -276,7 +276,7 @@ Rava resolves the apparent contradiction within the *braita*. What does the endi
 
 The *gemara*'s overall resolution reflects what one might call a realistic middle position — calibrated to the social realities of its time. The *gemara* does not treat the wife, adult children, and Jewish slaves as fully independent agents who must affirmatively opt in before anything can be done on their behalf. Nor does it treat them as simply extensions of the householder's will. Rather, it establishes a layered default: as a baseline, the householder's arrangement is presumed to reflect what the household will do together, and those in the household are presumed to go along with it. However, this presumption is defeasible — the individuals concerned retain the right and the standing to do otherwise, and if they exercise that right (whether by explicit protest or by making their own independent *eiruv*), their choice prevails.
 
-## Who Controls Eruv?…
+## Who Controls Eruv? (II)
 
 ### Information Requirement
 

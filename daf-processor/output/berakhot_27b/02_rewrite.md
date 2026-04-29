@@ -68,7 +68,7 @@ The proof that Rabbi Yirmeyah held this *talmid chaver* status comes from the wa
 
 ---
 
-## Conflicting Testimonies
+## Conflicting Testimon (II)
 
 ### Eliezer Ideology
 
@@ -112,7 +112,7 @@ Now the *gemara*'s logic here requires attention. The original question was not 
 
 ---
 
-## Intentional Early Daveni…
+## Intentional Early Da (II)
 
 ### Kabbalat Shabbat
 
@@ -148,7 +148,7 @@ For the *rambam*, this too does not require the concept of *tosefet shabbos*. Wh
 
 ---
 
-## Early Havdalah
+## Early Havdalah (III)
 
 ### Kiddush on Cup
 
@@ -156,7 +156,7 @@ As noted, Rav Nachman rules that one who *davens* Shabbos on Friday afternoon ma
 
 ---
 
-## Intentional Early Dave…
+## Intentional Early Da (II)
 
 ### Anticipation vs Reality
 
@@ -164,7 +164,7 @@ One might ask: when one says *mekadesh hashabbos* in the *beracha* while it is s
 
 ---
 
-## Early Havdalah…
+## Early Havdalah (III)
 
 ### Havdalah Timing
 
@@ -186,7 +186,7 @@ Beyond the practical issue, *tosafot* expresses a deeper discomfort: there seems
 
 ---
 
-## Conflicting Testimonie…
+## Conflicting Testimon (II)
 
 ### Transmission Chain
 
@@ -206,7 +206,7 @@ Of course, it is possible that both stories are true — two different incidents
 
 ---
 
-## Early Havdalah…
+## Early Havdalah (III)
 
 ### Daven vs Melacha
 

@@ -176,7 +176,7 @@ This ruling poses a challenge to *Rav Huna*: the case as described says the pers
 
 ---
 
-## Two at Once…
+## Two at Once (II)
 
 ### Rav Huna's Concession
 
@@ -190,7 +190,7 @@ The distinction *Rav Huna* draws is therefore not about conceptual structure but
 
 ---
 
-## Hataras Nedarim…
+## Hataras Nedarim (II)
 
 ### Ran's Solution
 

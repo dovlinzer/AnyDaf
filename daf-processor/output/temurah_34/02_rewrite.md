@@ -184,7 +184,7 @@ This conceptual framework connects to a broader question in halachah: how much p
 
 ---
 
-## Ashes Status…
+## Ashes Status (II)
 
 ### Drying Question
 

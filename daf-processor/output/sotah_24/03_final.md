@@ -40,7 +40,7 @@ The textual basis for excluding the *arusa* and *shomeret yavam* from drinking c
 
 ---
 
-## Forbidden Marriages
+## Forbidden Marriages (II)
 
 ### Widow/Divorcee Cases
 
@@ -94,7 +94,7 @@ The most complex case in this section is where the husband dies before the proce
 
 ---
 
-## Forbidden Marriages (continued)
+## Forbidden Marriages (II)
 
 ### Nursing/Pregnant Women
 

@@ -106,7 +106,7 @@ The Gemara then asks what, concretely, is the coercive power that these position
 
 ---
 
-## Power & Trust
+## Power & Trust (II)
 
 ### Coercion Ethics
 
@@ -200,7 +200,7 @@ The *rishonim* draw an important boundary around this principle. The power to es
 
 ---
 
-## Power & Trust (Continued)
+## Power & Trust (II)
 
 ### Trust Paradox
 

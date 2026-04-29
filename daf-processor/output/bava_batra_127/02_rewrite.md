@@ -124,7 +124,7 @@ The *Rabbanan*, by contrast, say *eino ne'eman* — he is not believed. But this
 
 ---
 
-## Father's Testimony…
+## Father's Testimony (II)
 
 ### Yakkir Question
 
@@ -134,7 +134,7 @@ The *gemara* answers: *betzarich hikkira* — it applies where the *bechor* need
 
 ---
 
-## Father's Credibility…
+## Father's Credibility (II)
 
 ### Migu Basis
 

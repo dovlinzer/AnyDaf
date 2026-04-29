@@ -228,7 +228,7 @@ Having rejected the *ibbur* proof, the *Gemara* asks: *ve'haida amar da* — whe
 
 ---
 
-## Shekel Collection
+## Shekel Collection (II)
 
 ### 15th Adar: Changers
 
@@ -248,7 +248,7 @@ On the twenty-fifth of *Adar*, *yoshvin ba-mikdash* — the money changers reloc
 
 ---
 
-## Shekel Collection
+## Shekel Collection (II)
 
 ### Mashkon Seizure
 

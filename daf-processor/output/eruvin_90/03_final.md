@@ -146,7 +146,7 @@ The *gemara* confirms this understanding in its language: *ve-havei ke-karfap yo
 
 ---
 
-## Boats & Vessels
+## Boats & Vessels (II)
 
 ### Rava on Boats
 
@@ -168,7 +168,7 @@ This is admittedly a difficult position to sustain, and the *gemara*'s discussio
 
 ---
 
-## Boats & Vessels Continued
+## Boats & Vessels (II)
 
 ### Rava's Exception
 

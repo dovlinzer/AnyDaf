@@ -52,13 +52,13 @@ Rava has now established that *megilla* surpasses *avodah* and *Talmud Torah*, a
 >
 > **Translation:** On the basis of these premises, **Rava raised a dilemma:** If one must choose between **reading the Megilla and** tending to **a *met mitzva*, which of them** takes **precedence?** Does **reading the Megilla** take **precedence due to** the value of **publicizing the miracle, or perhaps** burying **the *met mitzva*** takes **precedence due to** the value of preserving **human dignity? After he raised the dilemma,** Rava **then resolved it** on his own and ruled that attending to a ***met mitzva*** takes **precedence, as the Master said: Great is human dignity, as it overrides a prohibition in the Torah.** Consequently, it certainly overrides the duty to read the Megilla, despite the fact that reading the Megilla publicizes the miracle.
 
-## Hierarchy: Megilla…
+## Hierarchy: Megilla (II)
 
 ### Pirsumei Nisa
 
 The *Gemara* now articulates for the first time the principle underlying *megilla*'s remarkable weight: *mikra megilla adif mishum pirsumei nisa* — reading the *megilla* takes precedence because of the publicizing of the miracle. This is an important point that extends beyond the *megilla* itself. The concern is not merely that a *mitzvah* be performed, but that everyone actively participates together — for the sake of *pirsumei nisa*, the public proclamation of the miracle. And this may well explain what we observed on the previous daf: why the *kohanim* leave the *Beis HaMikdash*, why the *yeshiva* students leave the *beis medrash*. The demand is not just to read the *megilla* privately at a convenient time. It is that everyone comes together, because the essence of the *mitzvah* is the communal act of publicizing the miracle. Perhaps, then, this same logic would cause *megilla* to override even *mes mitzvah*.
 
-## Met Mitzvah Debate…
+## Met Mitzvah Debate (II)
 
 ### Kevod Habriyot
 

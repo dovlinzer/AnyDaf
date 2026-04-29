@@ -38,7 +38,7 @@ Rashi reads the entire passage differently, and he is driven to do so by what fo
 
 ---
 
-## Pigul: Before/After Zrika
+## Pigul: Before/After (II)
 
 ### Rabbi Shimon: Pigul
 
@@ -60,7 +60,7 @@ The *gemara* deflects: the case is one where the blood was caught immediately be
 
 ---
 
-## Pigul: Before/After Zr…
+## Pigul: Before/After (II)
 
 ### Zrika = Ra'ui L'zrika
 

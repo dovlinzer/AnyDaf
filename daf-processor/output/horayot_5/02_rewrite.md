@@ -54,7 +54,7 @@ The more attractive framework, then, is a genuine debate between Rabbi Meir and 
 
 ---
 
-## Meir vs. Yehuda…
+## Meir vs. Yehuda (II)
 
 ### Rebbi Shimon
 
@@ -78,7 +78,7 @@ With respect to the case where seven tribes sin, Rabbi Yehuda holds that even th
 
 ---
 
-## Secondary Obligation…
+## Secondary Obligation (II)
 
 ### Mutual Basis
 
@@ -92,7 +92,7 @@ Rabbi Shimon, by contrast, rejects the *grira* framework entirely. For him, the 
 
 ---
 
-## Corporate Sin…
+## Corporate Sin (II)
 
 ### Mutual Responsibility
 
@@ -116,7 +116,7 @@ The *chachamim* disagree: *ein chayavin ela al hora'at beis din hagadol bilvad* 
 
 ---
 
-## Knowledge Requirement
+## Knowledge Requiremen (II)
 
 ### Specific Sin
 
@@ -148,7 +148,7 @@ Rabbi Shimon uses the same gezerah shavah-style linkage between the upper and lo
 
 ---
 
-## Knowledge Requirement…
+## Knowledge Requiremen (II)
 
 ### Rebbi Eliezer
 
@@ -160,7 +160,7 @@ The *gemara* notes that by an individual's *korban* the verse also says *asher c
 
 ---
 
-## Textual Basis…
+## Textual Basis (II)
 
 ### Four Mentions
 
@@ -204,7 +204,7 @@ The alternative resolution: *lo shena* — it makes no difference. Any time a fu
 
 ---
 
-## Secondary Scope…
+## Secondary Scope (II)
 
 ### Textual Proof
 
@@ -216,7 +216,7 @@ The alternative resolution: *lo shena* — it makes no difference. Any time a fu
 
 ---
 
-## Local vs. Central…
+## Local vs. Central (II)
 
 ### One Tribe Korban
 

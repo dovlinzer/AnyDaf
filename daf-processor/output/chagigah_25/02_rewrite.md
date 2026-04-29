@@ -174,7 +174,7 @@ The Mishnah then arrives at its culminating principle: *u-vi-sha'as ha-regel af 
 
 ---
 
-## Collectors & Thieves…
+## Collectors & Thieves (II)
 
 ### Supervisor Present
 
@@ -194,7 +194,7 @@ A further question remains implicit: why are these people — tax collectors and
 
 ---
 
-## Yom Tov Belief…
+## Yom Tov Belief (II)
 
 ### Sukkot Lead-in
 

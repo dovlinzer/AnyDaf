@@ -100,7 +100,7 @@ Rav Yehuda says to Ravin bar Rav Nachman: *hanei diley dilakh u'dilakh diley* �
 
 ---
 
-## Tachal in Flax…
+## Tachal in Flax (II)
 
 ### Border Planting
 
@@ -108,7 +108,7 @@ The exception to the general permissibility of taking garden cress from among fl
 
 ---
 
-## Border Mound Trees…
+## Border Mound Trees (II)
 
 ### Rav vs. Shmuel
 

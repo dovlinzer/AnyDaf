@@ -86,7 +86,7 @@ Rav Ovadia Yosef rules decisively that one may rely on the broad consensus of *a
 
 ---
 
-## Torah Level Hefsek…
+## Torah Level Hefsek (II)
 
 ### Chazon Ish Method
 
@@ -94,7 +94,7 @@ The Chazon Ish approaches the same question from a different angle. Even if one 
 
 ---
 
-## Practical Solutions…
+## Practical Solutions (II)
 
 ### Rav Moshe Ruling
 
@@ -140,7 +140,7 @@ Performing the *hefsek taharah* immediately before *bein hashmashot* solves this
 
 ---
 
-## Timing of Hefsek…
+## Timing of Hefsek (II)
 
 ### Morning Bedieved
 

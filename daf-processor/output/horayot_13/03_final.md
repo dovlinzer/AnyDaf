@@ -154,7 +154,7 @@ The *Mishnah* adds: *Omer kodem le-keves ha-ba immo* — the *Omer* offering pre
 
 ---
 
-## Man vs. Woman Priority
+## Man vs. Woman Prior (III)ity
 
 ### Gender Priorities
 
@@ -224,7 +224,7 @@ What accounts for the *Kohen Gadol*'s precedence over the *navi*? One reading is
 
 ---
 
-## Kohanim Hierarchy…
+## Kohanim Hierarchy (II)
 
 ### Disqualification Types
 

@@ -236,7 +236,7 @@ Despite Rava's elegant explanations, the *gemara* continues to press. Rebbi Elie
 
 The *gemara* deflects the challenge through a reinterpretation: *mai idis? Shafay idis* — when the *braitah* says "even grade A," it does not mean explicitly-documented grade A liens. Rather, it refers to *shafay idis* — the marginal edges of an otherwise high-quality field, land situated near a river that is periodically flooded and is therefore actually grade C in value, despite being physically part of a top-grade estate. Tosafot explains: fertile land along a riverbank that is regularly inundated by overflow is essentially grazing land — it looks like part of a prime field but functions as grade C. This land, though nominally associated with an *idis* parcel, is reclassified as *ziboris*. The *braitah* is therefore saying: even when collecting from orphans, one may not take even the *shafay idis* of the estate at above its true grade C value. This interpretation preserves Rava's thesis intact.
 
-## Damages & Orphans…
+## Damages & Orphans (II)
 
 ### Shafay Idis Teaching
 

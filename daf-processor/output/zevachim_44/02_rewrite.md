@@ -160,7 +160,7 @@ Rabbi Yehoshua ben Levi asks: what is the scriptural basis for this limiting con
 
 ---
 
-## R. Eliezer Parim…
+## R. Eliezer Parim (II)
 
 ### Halacha
 

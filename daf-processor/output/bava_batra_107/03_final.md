@@ -166,7 +166,7 @@ The repetition is instructive. Rav Huna consistently rules in favor of the *Ache
 
 ---
 
-## Half Field Sale
+## Half Field Sale (II)
 
 ### Mishnah: Half Field
 
@@ -176,7 +176,7 @@ The repetition is instructive. Rav Huna consistently rules in favor of the *Ache
 
 ---
 
-## Fence & Ditch Configuration
+## Fence & Ditch (II)
 
 ### Measurements
 
@@ -184,7 +184,7 @@ The *Mishnah* also specifies: *ve-kama hu charitz shishah tefachim* — the ditc
 
 ---
 
-## Half Field Sale: Analysis
+## Half Field Sale (II)
 
 ### Purchaser Gets Less
 
@@ -216,7 +216,7 @@ In the *seifa* of the *Mishnah*, when the seller says *chatziyah ba-darom ani mo
 
 ---
 
-## Fence & Ditch Configuration
+## Fence & Ditch (II)
 
 ### Ditch Configuration
 

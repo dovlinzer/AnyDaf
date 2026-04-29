@@ -64,7 +64,7 @@ A conceptual question underlies this discussion. One might frame it as follows: 
 
 ---
 
-## Seller Intent Context
+## Seller Intent Contex (II)
 
 ### Money-Raising Test
 
@@ -106,7 +106,7 @@ This is a genuinely radical implication. Everything learned earlier about *meshi
 
 ---
 
-## Seller Intent Context…
+## Seller Intent Contex (II)
 
 ### Offloading Exception
 

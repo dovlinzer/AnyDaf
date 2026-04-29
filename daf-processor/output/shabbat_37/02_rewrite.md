@@ -66,7 +66,7 @@ This is acknowledged to be a strained reading of our *Mishna*. As Tosafot notes,
 
 ---
 
-## Somech (Leaning Against)
+## Somech (Leaning Agai (II)
 
 ### Somech Question
 
@@ -104,7 +104,7 @@ The *Gemara* pushes back: the analogy of *notlin* to *somchin* is imperfect. Tak
 
 ---
 
-## Somech (Leaning Agains…
+## Somech (Leaning Agai (II)
 
 ### Tosafot's Caveat
 
@@ -112,7 +112,7 @@ Tosafot introduces an important limitation on the permissibility of *somech*. Th
 
 ---
 
-## Ashes & Reignition…
+## Ashes & Reignition (II)
 
 ### Reignition = Fully Cooked
 

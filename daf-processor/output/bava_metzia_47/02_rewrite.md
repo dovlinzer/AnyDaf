@@ -54,7 +54,7 @@ The gemara notes in passing an interesting open question: what if, rather than a
 
 ---
 
-## Money vs. Meshicha…
+## Money vs. Meshicha (II)
 
 ### Rav Huna's View
 

@@ -92,7 +92,7 @@ A *baraita* confirms this reading. It states that in a case of a dismembered and
 
 Having established when the head is the relevant criterion, the *gemara* now asks what exactly constitutes the majority of the head. Three opinions are given. Rabbi Yosi says *misheyatza tzida* — when the temples have emerged. *Abba Chanan* in the name of Rabbi Yehoshua says *misheyatza padachata* — when the forehead has come out, which as Rashi notes corresponds to the primary front surface of the head and effectively represents the majority of the face; this is the ruling implicit in the *mishnah* itself. A third view says *misheyatza karnei rosho* — when the "horns" of the head have emerged, which Rashi identifies as the upper and rear slope of the skull, approximately what is meant in medical terminology by crowning. This position appears to represent a threshold somewhat lower than the forehead — a smaller proportion of the head — and is notably more stringent in requiring less to have emerged before birth is considered to have occurred. The ruling for practical *halacha*, particularly for *brit milah*, follows the *stam mishnah*, which identifies the forehead as the critical threshold.
 
-## Unknown Miscarriage Stat…
+## Unknown Miscarriage (II)
 
 ### Mishnah Overview
 
@@ -148,7 +148,7 @@ Ravina resolves the apparent contradiction. It is true that the majority of preg
 
 Tosafot add the necessary clarification: this ruling applies only when the animal was not away from its owner's purview long enough to have produced that smell and then miscarried without the owner's knowledge. If the animal had been absent for an extended period, one would simply assume the smell occurred and was missed. The case is therefore a tightly constrained one where the absence of the pre-birth indicator is a meaningful and observable datum.
 
-## Unknown Miscarriage St…
+## Unknown Miscarriage (II)
 
 ### Woman in Error Case
 
@@ -158,7 +158,7 @@ Tosafot add the necessary clarification: this ruling applies only when the anima
 
 *Ki ata Ravin amar* — when Ravin came from *Eretz Yisrael*, he reported that Rabbi Yose the son of Rabbi Chanina had challenged Rabbi Yehoshua ben Levi's principle from a *baraita* concerning a *to'eh* — a woman who is in error regarding her cycle and her status. Ravin then adds, pointedly, *velo yadana mai tiyuvteih* — and I do not even understand what the challenge was. He does not believe it constituted a valid refutation. The *gemara* proceeds to examine this *baraita* in detail, which concerns a woman who departed while pregnant and returned no longer pregnant, without any knowledge of when the miscarriage occurred. The case is brought as a potential challenge to Rabbi Yehoshua ben Levi — specifically, the *gemara* will argue that the difficulty in this case might imply we cannot assume the miscarriage was a valid halachic birth — and Ravin's point is that this implication is mistaken.
 
-## Unknown Miscarriage Timi…
+## Unknown Miscarriage (II)
 
 ### Case Setup
 

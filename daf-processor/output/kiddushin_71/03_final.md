@@ -166,7 +166,7 @@ With this, the Gemara begins to shift explicitly against the mode of proactive i
 
 ---
 
-## Boundaries & Assumptions
+## Boundaries & Assumpt (II)
 
 ### Shmuel's Teaching
 
@@ -190,7 +190,7 @@ The scholars pursued him but could not catch up. When they sat back down and beg
 
 ---
 
-## Keep It Hidden…
+## Keep It Hidden (II)
 
 ### Rabbi Yochanan Stays Silent
 
@@ -242,7 +242,7 @@ The forty-two letter name — still more sublime and potent — was transmitted 
 
 ---
 
-## Boundaries & Assumptions
+## Boundaries & Assumpt (II)
 
 ### Shmuel's Teaching
 

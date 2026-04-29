@@ -34,7 +34,7 @@ The *mishnah* then notes a historical anomaly: *maaseh sheba omer migagot tzerif
 
 ---
 
-## Siege Narrative
+## Siege Narrative (II)
 
 ### Greek Wisdom
 
@@ -68,7 +68,7 @@ The connection to the *mishnah* is now explained: *rashi* notes that when an arm
 
 ---
 
-## Mute's Signal
+## Mute's Signal (II)
 
 ### Gagot Tzerifin
 

@@ -168,7 +168,7 @@ Against Rabbi Chanina ben Antignos stands the position of Rabbi Meir. A *baraita
 
 ---
 
-## Bloodstains Rules…
+## Bloodstains Rules (II)
 
 ### Chanina Clarified
 

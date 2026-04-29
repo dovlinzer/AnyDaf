@@ -184,7 +184,7 @@ This is a reasonable empirical test. A stain that has already been laundered acq
 
 ---
 
-## Stain Age…
+## Stain Age (II)
 
 ### Rebbi View
 

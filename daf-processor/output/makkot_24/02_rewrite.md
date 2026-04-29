@@ -140,7 +140,7 @@ The *Gemara* proceeds to identify exemplars for each quality. *Holech tamim* —
 
 ---
 
-## David: 613 to 11…
+## David: 613 to 11 (II)
 
 ### Truth & Honesty
 

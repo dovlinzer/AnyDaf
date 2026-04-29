@@ -92,7 +92,7 @@ Rav Chisda resolves the underlying question by directing attention back to the l
 
 ---
 
-## Justinian Story
+## Justinian Story (II)
 
 ### Pregnancy Age Question
 
@@ -150,7 +150,7 @@ This invocation of *shomer peta'im Hashem* raises a serious underlying question 
 
 ---
 
-## Justinian Story (continued)
+## Justinian Story (II)
 
 ### Gemara Response
 

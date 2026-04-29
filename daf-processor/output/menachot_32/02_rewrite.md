@@ -48,7 +48,7 @@ The Gemara immediately asks: *mai lav a-petuchot* — does this ruling not refer
 
 This is a genuine *chiddush*, because the historical evidence suggests that margins were not standard practice. The Dead Sea Scroll *tefillin* fragments — a transcription and near-visual reproduction of which was distributed for examination — show that when scribes of that period wrote *tefillin*, they left no margins whatsoever. Because *tefillin* and *mezuzah* parchments were typically byproducts of the larger sheets prepared for *Sifrei Torah* — the scraps and off-cuts from the edges of those larger sheets — they were small pieces of parchment onto which text was squeezed as efficiently as possible. Given that neither *tefillin* nor *mezuzah* are generally opened and read, aesthetic concerns of *hiddur* were less pressing. The ruling that one *does* require a margin for a *mezuzah* is therefore a meaningful halachic statement. And it is this requirement — the *revach* — that constitutes the content of the ruling like Rabbi Shimon Elazar, not the *patuach*/*setum* question.
 
-## Margins/Rav Ruling…
+## Margins/Rav Ruling (II)
 
 ### Margin Width
 
@@ -88,7 +88,7 @@ The two versions differ: the first says we would listen to Eliyahu *permitting* 
 
 Chaim Soloveitchik has observed that this tension between text and practice played out historically along geographic and communal lines. *Ashkenazi* communities tended to assign greater weight to established practice, and for understandable reasons: these were cloistered, insular communities that had maintained their traditions through enormous sacrifice, including the martyrdom of the Crusades. For such communities, one looks at the practices of one's community and presumes they are correct — the *frumkeit* of the people is not in question. *Sefardi* communities, by contrast, were more integrated into the surrounding culture, more socially variegated, and in moments of extremity — such as forced conversion — more prone to internal deviation. When *Sefardi Rishonim* looked at their communities' practices, they were less confident that every deviation from the canonical text reflected a legitimate tradition rather than laxity. This difference in communal self-perception directly shaped the methodology of *psak*: whether one approaches an established practice with deference, seeking to validate it from the sources, or with scrutiny, evaluating it against the text.
 
-## Resolution…
+## Resolution (II)
 
 ### Proof Source
 

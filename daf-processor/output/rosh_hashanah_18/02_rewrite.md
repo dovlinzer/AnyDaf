@@ -184,7 +184,7 @@ Rav Shmuel bar Inya, citing Rav, introduces a further principle: *minayin le-gez
 
 ---
 
-## Tzibur Sealed…
+## Tzibur Sealed (II)
 
 ### Sealed Verse
 
@@ -258,7 +258,7 @@ The *mishna* adds: *ve-cheshe-haya beit ha-mikdash kayam, yotzim af al Iyar mipn
 
 ---
 
-## Six Rosh Chodesh…
+## Six Rosh Chodesh (II)
 
 ### Minor Fasts
 

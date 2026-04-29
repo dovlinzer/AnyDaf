@@ -32,7 +32,7 @@ The *gemara* then turns to the derivation that a *sanhedrin* of twenty-three ope
 
 If so, the *gemara* asks, why does the *pasuk* also use the word *b'sharecha* — in your gates — which ordinarily refers specifically to the gates of cities in *Eretz Yisrael*? The answer is that the two formulations do different work: *b'sharecha atah moshiv batei dinim b'chol pelech u'pelech u'v'chol ir va'ir* — in *Eretz Yisrael* you establish courts in every district and in every city, whereas *u'v'chutz la'aretz atah moshiv b'chol pelech u'pelech ve'i atah moshiv b'chol ir va'ir* — outside of *Eretz Yisrael* you establish a *beit din* in every province but not in every individual city. The *sanhedrin* presumably defines what constitutes a *pelech*, and on that basis determines where courts are to be set up.
 
-## Destructive Sanhedrin
+## Destructive Sanhedri (II)
 
 ### One Per Seven Years
 
@@ -50,7 +50,7 @@ The *gemara* records the question: when *Rabbi Eliezer ben Azariah* says one in 
 
 *Rabbi Tarfon* and *Rabbi Akiva* declare: *ilu hayinu b'Sanhedrin, lo neherag adam me'olam* — had we sat on the *sanhedrin*, we would never have allowed anyone to be executed.
 
-## Capital Conviction Issues
+## Capital Conviction I (II)
 
 ### Witness Interrogation
 
@@ -60,13 +60,13 @@ The *gemara* immediately asks: *heichi havu avdei* — how would they have actua
 
 In a case of murder, the judges would ask the witnesses: *re'item terefah* — did you see that the victim was a *terefah*, someone with a mortal internal condition who is in any case destined to die imminently? *Horeg shalem horeg* — or did you see that the person was whole and healthy? *Rav Ashi* adds a further complication: even if the witnesses claim the victim was *shalem* — complete and uninjured prior to the killing — one might still ask whether the precise location where the sword struck happened to coincide with an existing *terefah* wound, leaving the matter unresolved.
 
-## Destructive Sanhedrin…
+## Destructive Sanhedri (II)
 
 ### Shimon ben Gamliel
 
 *Rabban Shimon ben Gamliel* responds to the position of *Rabbi Tarfon* and *Rabbi Akiva*: *af hem marbin shofchei damim beYisrael* — by pursuing a policy of never convicting anyone, they would effectively increase bloodshed in Israel, since the absence of any credible threat of capital punishment removes the deterrent entirely.
 
-## Capital Conviction Iss…
+## Capital Conviction I (II)
 
 ### Shechita Comparison
 

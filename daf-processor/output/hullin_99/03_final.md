@@ -174,7 +174,7 @@ One further puzzle deserves mention. The entire framework of exceeding the *shiu
 
 ---
 
-## Summary & Principles
+## Summary & Principles (II)
 
 ### Practical Story
 
@@ -232,7 +232,7 @@ The incident is instructive on several levels. Rabbi Chanina is following the po
 
 ---
 
-## Pluralistic Halakhic Approach
+## Pluralistic Halakhic (II)
 
 ### Referral to Lenient Posek
 
@@ -270,7 +270,7 @@ A further implication, noted by Tosafot, follows from a *sugya* in *Psachim*. Th
 
 ---
 
-## Pluralistic Halakhic Authority
+## Pluralistic Halakhic (II)
 
 ### Rabbi-Shopping vs. Expertise & Integrity
 

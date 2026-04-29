@@ -52,7 +52,7 @@ The *gemara* answers: *mah hava lei l'meivad? Haya lo l'vakesh rachamim sheyigmo
 
 ---
 
-## Burial & Bones
+## Burial & Bones (II)
 
 ### Death Pre-Kohen
 
@@ -132,7 +132,7 @@ The *gemara* concludes this section with a *midrashic* application by Reish Laki
 
 ---
 
-## Burial & Bones Revisited
+## Burial & Bones (II)
 
 ### Levites' Cemetery
 

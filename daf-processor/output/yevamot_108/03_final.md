@@ -102,7 +102,7 @@ This position has a pointed internal logic. The *mishna* has been moving steadil
 
 ---
 
-## Miun: Documentation & Expression
+## Miun: Documentation (II)
 
 ### Document Reform
 
@@ -114,7 +114,7 @@ Rav Yehuda, and a *braita* corroborates this, reports that originally the docume
 
 ---
 
-## Miun: Documentation & Standard Formula
+## Miun: Documentation (II)
 
 ### Standard Formula
 

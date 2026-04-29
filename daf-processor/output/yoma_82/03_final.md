@@ -214,7 +214,7 @@ In practice, some parents begin encouraging their children to extend fasting vol
 
 ---
 
-## Pikuach Nefesh & Martyrdom
+## Pikuach Nefesh & Mar (II)
 
 ### Pregnant Woman Case
 
@@ -304,7 +304,7 @@ This does not resolve the question of precisely which sexual prohibitions are en
 
 ---
 
-## Pikuach Nefesh & Martyrdom (Continued)
+## Pikuach Nefesh & Mar (II)
 
 ### Rambam: Oness Exception
 

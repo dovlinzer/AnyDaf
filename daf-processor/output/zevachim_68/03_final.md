@@ -140,7 +140,7 @@ The application is clear from the *mishnah* just studied. Had the woman known ex
 
 ---
 
-## RY Connection…
+## RY Connection (II)
 
 ### Clarification
 

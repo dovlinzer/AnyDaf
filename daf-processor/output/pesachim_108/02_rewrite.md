@@ -62,7 +62,7 @@ When it comes to wine, the *gemara* records what appears to be a contradiction w
 
 ---
 
-## Haseiba…
+## Haseiba (II)
 
 ### All Cups Safe
 
@@ -102,7 +102,7 @@ The Rashbam's reading generates its own difficulty: if the trachea and esophagus
 
 ---
 
-## Haseiba Positions…
+## Haseiba Positions (II)
 
 ### Lefty Problem
 

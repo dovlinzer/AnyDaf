@@ -80,7 +80,7 @@ The *gemara* refines Ravina's statement: *rov ha-nisos betulot yesh lahen kol* â
 
 ---
 
-## Rov Presumptionâ€¦
+## Rov: Witnesses
 
 ### Witness Evidence
 

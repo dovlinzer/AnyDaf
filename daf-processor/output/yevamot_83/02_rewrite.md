@@ -1,6 +1,6 @@
 # Yevamot 83 — Daf Yomi Shiur
 
-## Shmuel & Rav Positions
+## Shmuel & Rav Positio (II)
 
 ### Dvei Rav Review
 
@@ -18,7 +18,7 @@ The connection of this case to the broader list is worth noting. Both Rashi and 
 
 ---
 
-## Shmuel & Rav Positions…
+## Shmuel & Rav Positio (II)
 
 ### Shmuel & Androgynos
 
@@ -36,7 +36,7 @@ The Gemara now turns to Rav's positions on the remaining items in the list. On *
 
 ---
 
-## Kiddush Hakerem…
+## Kiddush Hakerem (II)
 
 ### Rav Yosef & Huna
 

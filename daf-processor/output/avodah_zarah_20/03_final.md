@@ -64,7 +64,7 @@ The *gemara*, however, consistently reframes these practical concerns as *mitzva
 
 ---
 
-## Lo Techonem: Favor
+## Lo Techonem: Favor (II)
 
 ### Three Meanings
 
@@ -126,7 +126,7 @@ What is remarkable is that over time, for many *poskim* who were more tolerantly
 
 ---
 
-## Lo Techonem: Favor (continued)
+## Lo Techonem: Favor (II)
 
 ### Complimenting Non-Jews
 

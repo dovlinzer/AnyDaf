@@ -204,7 +204,7 @@ It is worth noting, almost as an aside, that while the Gemara speaks of eighteen
 
 ---
 
-## Idolatry Attempt
+## Idolatry Attempt (II)
 
 ### Chushai Dissuades
 
@@ -280,7 +280,7 @@ How do we know the duration was precisely six months? The verse states that Davi
 
 ---
 
-## Idolatry Attempt (continued)
+## Idolatry Attempt (II)
 
 ### Future Forgiveness
 

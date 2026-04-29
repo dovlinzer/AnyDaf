@@ -238,7 +238,7 @@ The question of what role *yerushah* — formal hereditary succession — plays 
 
 ---
 
-## Nasi & Mashiach…
+## Nasi & Mashiach (II)
 
 ### Mashiach Defined
 

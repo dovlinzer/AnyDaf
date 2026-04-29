@@ -193,7 +193,7 @@ U'mai Bazu — why then does the Mishnah enumerate these as special cases? L'afu
 
 ---
 
-## R. Elazar Position…
+## R. Elazar Position (II)
 
 ### All to Altar
 

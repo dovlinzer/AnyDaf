@@ -8,7 +8,7 @@ Our daf begins at the bottom of 8b, where the Gemara has been engaged in a compl
 
 The Gemara had entertained opinions in both directions on this question, and then observed that the answer does not actually depend on the underlying rationale for the *korah*. Some hold that the *korah* functions as a *heker* — a recognizable sign or marker — while others hold that it functions as a *mechitzah*, a halachic partition. Yet regardless of which theory one adopts, the same question remains: does the wall (or the *heker*) operate from the inner face of the beam, or from the outer face? That question can be resolved either way under either theory. So the debate about *heker* versus *mechitzah* does not, by itself, determine whether carrying beneath the beam is permitted.
 
-## Under the Korah…
+## Under the Korah (II)
 
 ### Rav Chisda: Inside/Outsi…
 

@@ -184,7 +184,7 @@ The underlying dispute, the *gemara* explains, concerns appearances. One view ho
 
 ---
 
-## Fire Creation Ban…
+## Fire Creation Ban (II)
 
 ### Molid Principle
 

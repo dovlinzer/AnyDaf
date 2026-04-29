@@ -104,7 +104,7 @@ This resolution raises a broader and troubling observation. The structure of thi
 
 ---
 
-## Impossible Conditions
+## Impossible Condition (II)
 
 ### Absurd Conditions
 
@@ -120,7 +120,7 @@ Rav Nachman rules in accordance with Rabbi Yehuda ben Teima. Rav Nachman bar Yit
 
 ---
 
-## Impossible Conditions…
+## Impossible Condition (II)
 
 ### Abaye vs. Rava
 

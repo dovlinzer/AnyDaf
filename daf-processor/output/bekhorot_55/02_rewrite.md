@@ -128,7 +128,7 @@ The *gemara* cites a tannaitic dispute that may reflect this very question. The 
 
 Rabbi Shimon ben Yochai reads differently. The verse elsewhere speaks of *me'ever l'Yarden Yericho kedma mizracha* — from across the Jordan of Jericho, eastward. The phrase *Yarden Yericho* — the Jordan of Jericho — connects the Jordan to Jericho. Just as Jericho is part of *Eretz Kena'an*, so too the Jordan and its environs are part of *Eretz Kena'an*. The *gemara* understands this tannaitic dispute as bearing on the question of whether *Eretz Yisrael* and *Ever HaYarden* are considered one region or two for purposes of *ma'aser behemah*. Note, however, that this is not the same debate as the earlier dispute between Rabbi Ami and Rabbi Chiyya bar Abba. That earlier debate was about whether regions matter at all, or only physical accessibility. This tannaitic debate presupposes that regions matter and asks instead how to define the regional boundary — is *Ever HaYarden* within or outside *Eretz Kena'an*?
 
-## Ever HaYarden Status…
+## Ever HaYarden Status (II)
 
 ### Kaftor VaPerach
 

@@ -46,7 +46,7 @@ The second exception in the communal category is the *se'ir hamishtalach*, the g
 
 ---
 
-## Baraita & Debate
+## Baraita & Debate (II)
 
 ### Baraita Text
 
@@ -66,7 +66,7 @@ Rabbi Yehuda disagrees: *se'irei avodas kochavim ain bahem semicha* — the goat
 
 ---
 
-## Baraita & Debate (continued)
+## Baraita & Debate (II)
 
 ### R. Shimon Rejoins
 

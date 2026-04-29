@@ -186,7 +186,7 @@ Rabbi Yaakov argues that this obligatory act of sanctification means that the *b
 
 The Rav offers a beautiful application of this dispute. When we recite *kiddush* on *Shabbat* — *zachor et yom hashabbat l'kadesho* — one might ask: does our *kiddush* actually add anything to *Shabbat*'s sanctity, which exists independently of us? Following Rabbi Yossi's logic, one might say that *kiddush* is merely an act of acknowledgment — we are recognizing a holiness that exists without us, and our words change nothing. But following Rabbi Yaakov's logic, one might say that our act of *kiddush* does add a human dimension of *kedushah* to a *Shabbat* that already possesses its own *kedushah*. The parallel is striking.
 
-## Bekhor Debate…
+## Bekhor Debate (II)
 
 ### Shimshon Mystery
 

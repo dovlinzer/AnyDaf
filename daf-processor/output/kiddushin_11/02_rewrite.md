@@ -84,7 +84,7 @@ The second case is *masar v'halach* — where the father has handed the girl ove
 
 ---
 
-## Kiddushei Bia Nature…
+## Kiddushei Bia Nature (II)
 
 ### Tosefta: L'Shem Kiddushin
 

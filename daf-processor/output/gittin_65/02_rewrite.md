@@ -48,7 +48,7 @@ The case of *da'as acheret makneh oso* — another party providing the requisite
 
 ---
 
-## Minor Development…
+## Minor Development (II)
 
 ### Object Permanence
 
@@ -116,7 +116,7 @@ The Gemara's response to the challenge is, once again: *hacha bemai askinan b'ma
 
 ---
 
-## Rava's Gimmel Midot…
+## Rava's Gimmel Midot (II)
 
 ### Stage One
 
@@ -158,7 +158,7 @@ If, however, the father says to an agent, *tzei v'hitkabel l'biti gita* — go a
 
 ---
 
-## Place Conditions
+## Place Conditions (III)
 
 ### Mar'eh vs. Hakpid
 
@@ -194,7 +194,7 @@ This distinction has an immediate practical consequence: if the wife is married 
 
 ---
 
-## Place Conditions…
+## Place Conditions (III)
 
 ### Woman's Place
 
@@ -202,7 +202,7 @@ However, when she says *hitkabel li giti*, appointing the agent as a *shaliach l
 
 ---
 
-## Place Conditions……
+## Place Conditions (III)…
 
 ### Mixed Places
 

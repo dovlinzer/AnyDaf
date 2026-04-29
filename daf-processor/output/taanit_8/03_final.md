@@ -176,7 +176,7 @@ One wonders whether this is an allusion to *Choni HaMa'agel*, who famously order
 
 ---
 
-## Talmidei Chachamim Disco…
+## Talmidei Chachamim D (II)
 
 ### Mitkana'im B'Af
 
@@ -190,7 +190,7 @@ It is worth noting that the word here is *halacha* rather than *Torah* — perha
 
 ---
 
-## Talmidei Chachamim Dis…
+## Talmidei Chachamim D (II)
 
 ### Yigid Alav Re'o
 

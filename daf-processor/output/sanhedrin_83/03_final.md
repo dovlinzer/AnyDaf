@@ -154,7 +154,7 @@ It is worth noting the full arc of this *limud*: it was precisely this verse's *
 
 The *gemara* notes a critical limitation embedded in the verse: *tehorah ein tmeiah lo* — the *misa* penalty applies only when the *teruma* itself is *tehorah*. If both the *kohen* and the *teruma* are *tamei*, there is no *misa*. This follows from Shmuel citing Rabbi Elazar: *umetu vo ki yechalleluhu* — the death penalty is triggered by *desecration*, and *perat lazu shemechulelet ve'omedet* — the verse excludes the case where the *teruma* is already desecrated, already *tamei* in its own right. The act of a *tamei kohen* eating already-*tamei teruma* does not constitute a new act of *chillul*, and therefore the *misa* penalty does not apply. One might wonder how the *tamei kohen* can eat *tehorah teruma* without rendering it *tamei* through contact — the *gemara* implies scenarios such as someone else placing it in his mouth, or grain that never came into contact with liquid after harvest and therefore could not contract *tumah* in the first place.
 
-## Zar Eats Teruma
+## Zar Eats Teruma (II)
 
 ### Rav's Position
 
@@ -230,7 +230,7 @@ From there, *veyalif chillul chillul miteruma*: since the verse again employs *y
 
 The *braisa*'s inclusion of *mechusar begadim* — a *kohen* not wearing the prescribed *bigdei kehuna* — is derived from a verse cited by Rabbi Abahu in the name of Rabbi Yochanan, with some transmitting it in the name of Rabbi Elazar berabbi Shimon. The verse is *vechagarta osam avnet* — you shall gird them with the sash — followed by *vehaysa lahem kehunah lechukat olam* — and it shall be for them an eternal priestly ordinance. From this, the *gemara* draws the foundational principle: *bizman shebigdeihem aleihem kehunasam aleihem* — when their garments are upon them, their *kehuna* is upon them; *ein bigdeihem aleihem ein kehunasam aleihem* — when their garments are not upon them, their *kehuna* is not upon them. A *kohen* performing *avoda* without his vestments is therefore treated as a *zar* — *vehavu lehu zarim* — and since a *zar* who performs *avoda* is *chayav misa*, so too is the *mechusar begadim*.
 
-## Extended Tamei Cases…
+## Extended Tamei Cases (II)
 
 ### Tosafot on Begadim
 

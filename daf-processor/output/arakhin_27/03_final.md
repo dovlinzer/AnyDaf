@@ -98,7 +98,7 @@ The case therefore works as follows: *stama de-rabbanan de-amar ke-issar* — th
 
 ---
 
-## Auction Mechanics
+## Auction Mechanics (II)
 
 ### Bids Set Price
 
@@ -122,7 +122,7 @@ The case of the initial ten-*shekel* bidder who backs out is handled differently
 
 ---
 
-## Owner vs. Other Bidders
+## Owner vs. Other Bidd (II)
 
 ### Owner's Fifth Advantage
 
@@ -162,7 +162,7 @@ The mishnah's structure implies that outside of this final option, the auction i
 
 ---
 
-## Auction Mechanics (continued)
+## Auction Mechanics (II)
 
 ### Sequential vs. Simultaneous Withdrawal
 
@@ -182,7 +182,7 @@ The *gemara* initially attempts to read the mishnah as describing separate aucti
 
 ---
 
-## Owner vs. Other Bidders (continued)
+## Owner vs. Other Bidd (II)
 
 ### Ma'aser Sheni Comparison
 

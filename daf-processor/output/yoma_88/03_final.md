@@ -176,7 +176,7 @@ And here is the telling detail. As Rashi explains, Rabbi Hanina was himself the 
 
 ---
 
-## Viduy - Confession
+## Viduy - Confession (II)
 
 ### Timing of Viduy
 
@@ -228,7 +228,7 @@ What is notable throughout this entire passage is what the Gemara does not discu
 
 ---
 
-## Ne'ilah Service
+## Ne'ilah Service (II)
 
 ### Three Times Year
 

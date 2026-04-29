@@ -260,7 +260,7 @@ Tosafot notes that this *takana* intersects with the dispute between Rabbi Yocha
 
 ---
 
-## Nichsei Melog…
+## Nichsei Melog (II)
 
 ### Usha Leadership
 

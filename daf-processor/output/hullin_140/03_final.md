@@ -134,7 +134,7 @@ The Gemara returns to the case of *yonei hordasiyot* — the Herodian doves — 
 
 Rav Ashi reported in the name of Chanina that the story was *milat* — nonsense, or fabrication. The Gemara pushes back: would Rav Kahana simply make something up? *Ela eima bemilin* — rather, it was done through words, meaning through magic or incantation. Some interpret this to mean the birds were not speaking in human language, but in bird-speech, and Rav Kahana possessed knowledge of bird-speech. Either way, the Gemara openly acknowledges the fantastical character of the account.
 
-## Herodian Doves…
+## Herodian Doves (II)
 
 ### Mezuman Status
 

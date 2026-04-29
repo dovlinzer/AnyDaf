@@ -1,6 +1,6 @@
 # Bava Metzia 53 — Daf Yomi Shiur
 
-## Ona'ah & Deficient Coins
+## Ona'ah & Deficient C (II)
 
 ### Mishna Overview
 
@@ -22,7 +22,7 @@ The more pointed reading is that the *mishna* permits treating the coin at face 
 
 Rav Papa derives a practical lesson from the *mishna*: someone who is excessively exacting about what currency he will accept, refusing coins that are slightly off, is called a *nefesh ra'ah*. However, this applies only when the coin genuinely has currency — when it circulates normally and merchants accept it. A storekeeper who refuses a coin that most people would take without hesitation is being unreasonably miserly. But if a coin has genuine difficulty circulating, then refusing it is not stinginess but simple prudence.
 
-## Ona'ah & Deficient Coi…
+## Ona'ah & Deficient C (II)
 
 ### Chizkiyahu's Position
 
@@ -30,7 +30,7 @@ The *gemara* notes that the *mishna* appears to support Chizkiyahu's position. C
 
 This framing suggests that the *mishna* is indeed speaking of a coin deficient by the full amount of *ona'ah*, because only then would the market refuse to give full face value in exchange. The *chiddush* is that even so, you may treat it as face value for purposes of *ma'aser sheni* — even though *ma'aser sheni* ends up losing slightly in the transaction, since the coin you redeem onto is worth less than its stated denomination.
 
-## Metal vs. Face Value…
+## Metal vs. Face Value (II)
 
 ### Chizkiyahu Contradiction
 

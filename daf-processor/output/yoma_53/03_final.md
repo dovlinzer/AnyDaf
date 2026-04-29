@@ -52,7 +52,7 @@ One might ask: would the *ketoret* not produce smoke regardless, even without *m
 
 ---
 
-## Ki BeAnan Erah
+## Ki BeAnan Erah (II)
 
 ### First Source
 
@@ -96,7 +96,7 @@ Having established that *ki b'anan eraeh* teaches the requirement for *ma'aleh a
 
 ---
 
-## Ki BeAnan Erah (Extended)
+## Ki BeAnan Erah (II)
 
 ### Expanded Application
 
@@ -120,7 +120,7 @@ There is something deeply meaningful here. The encounter with God that the *keto
 
 ---
 
-## Death Penalty and Acharei Mos
+## Death Penalty (II)
 
 ### Temporal Framework
 

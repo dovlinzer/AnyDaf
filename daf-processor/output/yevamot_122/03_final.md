@@ -22,13 +22,13 @@ Returning to the main thread: how is the fruit-seller case relevant to the woman
 
 One might push back: the non-Jew was extremely specific — he named Reuven ben Shimon — and the man had not been seen for three years. That specificity might have been a reason to credit the testimony. But the Gemara is unpersuaded, because the motivation to threaten overrides the specificity. The principle that emerges is that *mesiach lefi tumo* is qualified: it does not operate when there is affirmative reason to think the speaker may be fabricating or exaggerating.
 
-## Witnessing Standards
+## Witnessing Standard (III)
 
 ### Geonic Responsum
 
 As noted above, within the discussion of Abaye's extended deliberation, Rashi introduces a Geonic responsum identifying the *regalim* mentioned in the Gemara not as pilgrimage festivals but as the yearly yahrzeit gatherings held at the graves of major sages. The Geonim describe a practice in which, *midei shanah be-shanah*, scholars from the surrounding region would convene at the sage's burial site each year on the anniversary of his death, together with the broader community, to conduct a *yeshivah* — a day of Torah study — in his honor. This represents the earliest known reference to something resembling the yahrzeit lecture as an institution, though the Gemara itself says nothing of the kind. It is the Geonim who read this practice into the text, revealing both their interpretive creativity and the antiquity of the commemoration as a living custom by their era.
 
-## Non-Jew Testimony…
+## Non-Jew Testimony (II)
 
 ### Fruit Seller Example
 
@@ -48,7 +48,7 @@ It is worth pausing on the context of these final two cases. If *kolar* means th
 
 One might note that in none of these cases does the Gemara describe any attempt to verify the facts — to locate the grave, to find corroborating witnesses, to identify the body. The question the Gemara addresses is purely one of whose testimony is admitted, not of evidentiary sufficiency in the modern sense. These *halakhot*, it is worth noting, have found real application in tragic historical circumstances, including in *responsa* literature dealing with mass casualties where identifying individual deaths was impossible.
 
-## Witnessing Standards…
+## Witnessing Standard (III)
 
 ### Light Requirements
 
@@ -92,7 +92,7 @@ This answer surfaces a well-known question from Masechet Eduyot: why record a mi
 
 There is an additional irony worth noting. The celebrated dispute between Beit Hillel and Beit Shammai over which school's rulings we follow was itself famously resolved by a *bat kol* that declared the *halakha* to follow Beit Hillel. Here it is Beit Shammai who rejects the evidentiary weight of a *bat kol*, and Beit Hillel who accepts it — which lends a certain poetic consistency to each school's position across these two quite different contexts.
 
-## Witnessing Standards…
+## Witnessing Standard (III)
 
 ### Demon/Co-wife Question
 

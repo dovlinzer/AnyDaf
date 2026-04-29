@@ -152,7 +152,7 @@ The Gemara offers a second resolution, independent of the question of masechta o
 
 Rashi and Tosafot understand this point somewhat differently. Rashi notes that the principle *kol hameshane yado al hatachtona* was not the primary topic of the *mishnah* in Bava Metzia in which it appears—it was, so to speak, brought in from outside the immediate subject matter, which itself signals that it is being stated as a standalone *halacha psuka* rather than as a ruling tied to a specific context. Tosafot, by contrast, focuses on the language itself: *midekatni kol hameshane hu lashon halacha psuka*—the formulation *kol hameshane*, stating the rule as an all-encompassing principle, is itself the hallmark of *halacha psuka*. The framing as a *klal* rather than as a case-bound ruling is what makes explicit the binding character of the position.
 
-## Yehoshua ben Korcha…
+## Yehoshua ben Korcha (II)
 
 ### Tosafot's Expansion
 

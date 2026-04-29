@@ -246,7 +246,7 @@ Rav Yehuda then goes further: the wall that already runs *above* the well at gro
 
 ---
 
-## Suspended Walls
+## Suspended Walls (II)
 
 ### Position Separation
 
@@ -280,7 +280,7 @@ The *Gemara* responds: that incident was not performed on the authority of Rabbi
 
 ---
 
-## Suspended Walls (continued)
+## Suspended Walls (II)
 
 ### Sefer Torah Case
 

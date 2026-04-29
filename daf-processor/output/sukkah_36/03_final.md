@@ -289,7 +289,7 @@ Conversely, Rabbi Shimon's exemption of small *etrogim* from *ma'aser* does not 
 
 ---
 
-## Invalid Etrog Types…
+## Invalid Etrog Types (II)
 
 ### Molded Etrog (Dfus)
 

@@ -62,7 +62,7 @@ The Conservative side assembled responsa from the faculty and leadership of JTS,
 
 ---
 
-## Temple Model…
+## Temple Model (II)
 
 ### Worship as Male Space
 
@@ -146,7 +146,7 @@ This philosophical difference translates directly into practical requirements. S
 
 ---
 
-## Mechitzah Specifications
+## Mechitzah Specificat (II)
 
 ### Height Measurements
 
@@ -162,7 +162,7 @@ This distinction helps explain why *mechitzah* requirements are applied differen
 
 ---
 
-## Egalitarian Paradox
+## Egalitarian Paradox (III)
 
 ### Sisterhood Comment
 
@@ -170,7 +170,7 @@ A striking observation came from a woman who noted that in certain social enviro
 
 ---
 
-## Mechitzah Specificatio…
+## Mechitzah Specificat (II)
 
 ### Placement Models
 
@@ -178,7 +178,7 @@ Beyond height and opacity, the question of placement is also significant. A *mec
 
 ---
 
-## Egalitarian Paradox…
+## Egalitarian Paradox (III)
 
 ### Leadership Challenge
 
@@ -202,7 +202,7 @@ It must be acknowledged frankly that actual practice in this area is not always 
 
 ---
 
-## Egalitarian Paradox…
+## Egalitarian Paradox (III)
 
 ### Variable Heights
 
@@ -210,7 +210,7 @@ Even setting aside the theoretical questions, the practical reality is that peop
 
 ---
 
-## Cultural Definitions…
+## Cultural Definitions (II)
 
 ### Lower Mechitzah Limits
 
@@ -278,7 +278,7 @@ A related example concerns the phrase *Da Lifnei Mi Atah Omed* — "Know before 
 
 ---
 
-## Conclusion…
+## Conclusion (II)
 
 ### Communal Involvement
 
@@ -286,7 +286,7 @@ What these examples converge on is the importance of involving the entire commun
 
 ---
 
-## Subtle Exclusion…
+## Subtle Exclusion (II)
 
 ### Language Choices
 

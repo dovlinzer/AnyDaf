@@ -40,7 +40,7 @@ What the *gemara* here accomplishes is to narrow it: whatever applies in the cas
 
 ---
 
-## Motza Sefatecha Drasha
+## Motza Sefatecha Dras (II)
 
 ### Why Need Motza
 
@@ -56,7 +56,7 @@ The *gemara* then notes that since we apparently derive all three elements from 
 
 ---
 
-## Tzedakah & Bedek
+## Tzedakah & Bedek (III)
 
 ### Categories Drasha
 
@@ -72,7 +72,7 @@ One question left open by the *gemara* is how to categorize a pledge made to a s
 
 ---
 
-## Motza Sefatecha Drasha…
+## Motza Sefatecha Dras (II)
 
 ### Two Stages
 
@@ -98,7 +98,7 @@ In summary: the first verse addresses a *neder* in the classic sense (*harei ala
 
 ---
 
-## Tzedakah & Bedek…
+## Tzedakah & Bedek (III)
 
 ### Rava Tzedakah
 
@@ -108,7 +108,7 @@ The *gemara* responds *pshita* — this is obvious — and one might expect that
 
 ---
 
-## Rava Severity
+## Rava Severity (III)
 
 ### Rava I: Immediate
 
@@ -116,7 +116,7 @@ This is the first of three escalating statements from Rava about the severity an
 
 ---
 
-## Tzedakah & Bedek…
+## Tzedakah & Bedek (III)
 
 ### Tosafot Limitation
 
@@ -124,7 +124,7 @@ Tosafot, commenting on 4a, pulls back from the full force of Rava's position. To
 
 ---
 
-## Rava Severity…
+## Rava Severity (III)
 
 ### Rava II: One Regel
 
@@ -140,7 +140,7 @@ The third of Rava's statements: *v'amar Rava, keivan she'avru alav gimmel regali
 
 ---
 
-## Rava Severity…
+## Rava Severity (III)
 
 ### Baraita Challenge
 

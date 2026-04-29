@@ -98,7 +98,7 @@ This distinction carries a subtle but important point about the nature of *kedus
 
 ---
 
-## Pesach Shelo Lishmo…
+## Pesach Shelo Lishmo (II)
 
 ### Rav Dimi/Yochanan
 

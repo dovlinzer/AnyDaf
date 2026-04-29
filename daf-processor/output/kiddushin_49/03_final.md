@@ -104,7 +104,7 @@ One might ask why her *da'at* should be more flexible simply because a *shaliach
 
 ---
 
-## Three Tannaim
+## Three Tannaim (II)
 
 ### Abaye Reports
 
@@ -136,7 +136,7 @@ The *Gemara* establishes that the principle of *mareh makom* applies specificall
 
 ---
 
-## Three Tannaim (continued)
+## Three Tannaim (II)
 
 ### R. Elazar Case
 

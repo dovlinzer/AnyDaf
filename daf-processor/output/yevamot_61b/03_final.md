@@ -1,6 +1,6 @@
 # Yevamot 61b — Daf Yomi Shiur
 
-## Aylonit & Zonah
+## Aylonit & Zonah (III)
 
 ### Aylonit Zonah
 
@@ -22,7 +22,7 @@ The *gemara* then cites Rabbi Eliezer's ruling that a *kohen* may not marry a *k
 
 Rabba offers the first explanation: the prohibition is constructed from a combination of two Tannaitic positions — Rabbi Yehuda's ruling that an *aylonit* is forbidden to a *kohen*, and Rabbi Meir's principle of *chayesh l'miyuta*, concern for minority likelihoods. Put together: a *kohen* should not marry a *ketanah* because she might grow up to become an *aylonit*.
 
-## Aylonit & Zonah…
+## Aylonit & Zonah (III)
 
 ### Rabbi Eliezer & Meir
 
@@ -68,7 +68,7 @@ This is important for resolving the *gemara*'s investigation. Rabbi Eliezer — 
 
 What is striking here is that *Tosafot* introduces the moral concept of marital fidelity as a category that intensifies the character of the forbidden act — and this in a halachic framework that, in principle, did not prohibit polygamy and in which the prohibitions on sexual relations were asymmetrical between husband and wife. The notion that a man is *mizanneh al ishto* by having sex with another woman almost certainly reflects the reality of *Ashkenaz* after *Cherem de-Rabbeinu Gershom* and the internalization of monogamous norms, such that extramarital sex by a married man is characterized as a betrayal of his wife.
 
-## Ketanah Prohibition…
+## Ketanah Prohibition (II)
 
 ### Kohen Gadol Timing
 
@@ -96,7 +96,7 @@ The *gemara* objects: if so, why shouldn't even a non-*kohen* avoid marrying a *
 
 Rav Papa returns to the *kohen gadol* explanation but with a different source. He cites a *baraita* that derives from the verse *ve-hu ishah be-visuleha* that a *kohen gadol* must marry a *be-sulah* who is an *ishah* — an adult. *Yachol ketanah?* Could she be a minor? No — *talmud lomar ishah*. *Yachol bogeret?* Could she be fully mature? No — *talmud lomar be-sulah*, which implies intact *betulim*, characteristic of a *na'arah* rather than a *bogeret*. The result: *ha ketzad? yatza mikhlal katnut ve-lo ba le-khlal bagrus* — she must be in the intermediate stage, neither *ketanah* nor *bogeret*, which is a *na'arah* between twelve and twelve and a half years of age. According to this Tanna, the *kohen gadol* may only marry a woman during that narrow window.
 
-## Aylonit & Zonah……
+## Aylonit & Zonah (III)…
 
 ### Ruling Rejected
 
@@ -160,7 +160,7 @@ The *gemara* rejects this challenge: *lo* — it is not a contradiction. The dis
 
 *Tosafot* adds a further *nafka mina*: the *gemara* elsewhere teaches that the *mitzvah* of *pru urvu* is so weighty that one would even sell a *sefer Torah* to obtain the funds necessary to marry and fulfill it. That extreme measure applies only before one has fulfilled the *mitzvah*. After *yatza hamitzvah*, the *mishnah*'s declaration that one is *batel mi-piryah ve-rivyah* means he need not take such measures — but it does not mean he is exempt from marriage altogether.
 
-## Pru Urvu Basics…
+## Pru Urvu Basics (II)
 
 ### Shammai's Logic
 

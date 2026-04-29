@@ -44,7 +44,7 @@ The *gemara* deflects: *amar lach mishum detana reisha mezidin ve'asu shogegin t
 
 ---
 
-## Meir vs. Yehuda
+## Meir vs. Yehuda (II)
 
 ### New Mishnah
 
@@ -64,7 +64,7 @@ Rabbi Yehuda disagrees in two related ways: *Rabbi Yehuda omer yod-beis shevatim
 
 ---
 
-## Corporate Sin
+## Corporate Sin (II)
 
 ### Unifying Role
 
@@ -78,7 +78,7 @@ The more attractive framework, then, is a genuine debate between Rabbi Meir and 
 
 ---
 
-## Meir vs. Yehuda (continued)
+## Meir vs. Yehuda (II)
 
 ### Rebbi Shimon
 
@@ -106,7 +106,7 @@ Rabbi Shimon does not accept this notion of secondary *grira*. He maintains his 
 
 ---
 
-## Secondary Obligation
+## Secondary Obligation (II)
 
 ### Grira Principle
 
@@ -118,7 +118,7 @@ With respect to the case where seven tribes sin, Rabbi Yehuda holds that even th
 
 ---
 
-## Secondary Obligation (continued)
+## Secondary Obligation (II)
 
 ### Mutual Basis
 
@@ -132,7 +132,7 @@ Rabbi Shimon, by contrast, rejects the *grira* framework entirely. For him, the 
 
 ---
 
-## Corporate Sin (continued)
+## Corporate Sin (II)
 
 ### Mutual Responsibility
 
@@ -140,7 +140,7 @@ The broader conceptual point here reinforces the *tzibbur*-centered reading of w
 
 ---
 
-## Local vs. Central
+## Local vs. Central (II)
 
 ### Local Beis Din
 
@@ -160,7 +160,7 @@ The *chachamim* disagree: *ein chayavin ela al hora'at beis din hagadol bilvad* 
 
 ---
 
-## Knowledge Requirement
+## Knowledge Requiremen (II)
 
 ### Specific Sin
 
@@ -194,7 +194,7 @@ The *baraisa* then elaborates in language that is explicitly Rabbi Yehuda's: if 
 
 ---
 
-## Textual Basis
+## Textual Basis (II)
 
 ### Meir's Reading
 
@@ -212,7 +212,7 @@ The *gemara* notes that by an individual's *korban* the verse also says *asher c
 
 ---
 
-## Knowledge Requirement (continued)
+## Knowledge Requiremen (II)
 
 ### Rebbi Eliezer
 
@@ -228,7 +228,7 @@ Rav Ashi, however, argues that even Rabbi Eliezer could agree in this case: *sha
 
 ---
 
-## Textual Basis (continued)
+## Textual Basis (II)
 
 ### Four Mentions
 
@@ -280,7 +280,7 @@ The *gemara* then addresses where Rabbi Shimon and Rabbi Meir derive the rule th
 
 ---
 
-## Secondary Scope
+## Secondary Scope (II)
 
 ### One Tribe Question
 
@@ -302,7 +302,7 @@ The alternative resolution: *lo shena* — it makes no difference. Any time a fu
 
 ---
 
-## Secondary Scope (continued)
+## Secondary Scope (II)
 
 ### Textual Proof
 
@@ -322,7 +322,7 @@ The alternative resolution: *lo shena* — it makes no difference. Any time a fu
 
 ---
 
-## Local vs. Central (continued)
+## Local vs. Central (II)
 
 ### One Tribe Korban
 

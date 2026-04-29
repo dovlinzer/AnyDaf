@@ -58,7 +58,7 @@ The *gemara* notes that when they came before Rabbi Yochanan — which, Rashi ob
 
 ---
 
-## Yeridat HaDorot…
+## Yeridat HaDorot (II)
 
 ### Rabbi Yochanan's Response
 
@@ -184,7 +184,7 @@ With that, the *aggadic* passage concludes and the *gemara* returns to the *mish
 
 ---
 
-## Mezuzah in Mikdash…
+## Mezuzah in Mikdash (II)
 
 ### Mishnah: Chambers
 

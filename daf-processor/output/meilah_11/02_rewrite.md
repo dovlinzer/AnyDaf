@@ -84,7 +84,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Bird Age Requirements
+## Bird Age Requirement (II)
 
 ### Tosafot: Young Bird Use
 
@@ -92,7 +92,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Nazirite Money…
+## Nazirite Money (II)
 
 ### Rava's Response
 
@@ -100,7 +100,7 @@ The most complex case is the money designated for the *shelamim*. In principle, 
 
 ---
 
-## Bird Age Requirements…
+## Bird Age Requirement (II)
 
 ### Tor vs. Benei Yonah
 

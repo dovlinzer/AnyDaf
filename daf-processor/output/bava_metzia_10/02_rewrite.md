@@ -180,7 +180,7 @@ The two positions also account for the parallel question of *arba amot*: if *arb
 
 ---
 
-## Ketana Chatzer…
+## Ketana Chatzer (II)
 
 ### Chatzer Crime
 

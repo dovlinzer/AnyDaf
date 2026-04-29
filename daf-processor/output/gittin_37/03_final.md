@@ -156,7 +156,7 @@ One of the *Amora'im* suggests another etymology based on a foreign language: *p
 
 ---
 
-## Land Requirement
+## Land Requirement (II)
 
 ### Mishna's Rule
 

@@ -88,7 +88,7 @@ Having surveyed courts that represent the people in ceremonial or representation
 
 ---
 
-## Capital Crimes (23)
+## Capital Crimes (23) (23)
 
 ### Capital Crime Baseline
 
@@ -110,7 +110,7 @@ Why mention these animals at all? Because it sets up the disagreement that follo
 
 ---
 
-## High Court (71)
+## High Court (71) (71)
 
 ### Tribe, Prophet, Kohen Ga…
 

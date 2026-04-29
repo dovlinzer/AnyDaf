@@ -38,7 +38,7 @@ Rabbah explains Rabbi Yose's position: *isha mezanah meshamashet be-moch she-lo 
 
 ---
 
-## Birth Control Debate…
+## Birth Control Debate (II)
 
 ### Converts Planning
 
@@ -68,7 +68,7 @@ The upshot of this entire discussion is a coherent picture of the two positions.
 
 ---
 
-## Captive Women…
+## Captive Women (II)
 
 ### Three Cases
 

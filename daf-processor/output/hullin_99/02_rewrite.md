@@ -174,7 +174,7 @@ The incident is instructive on several levels. Rabbi Chanina is following the po
 
 ---
 
-## Pluralistic Halakhic App…
+## Pluralistic Halakhic (II)
 
 ### Referral to Lenient Posek
 
@@ -194,7 +194,7 @@ This implicit acknowledgment operates constantly in any community where Ashkenaz
 
 ---
 
-## Summary & Principles…
+## Summary & Principles (II)
 
 ### Gid Hanasheh Ruling
 
@@ -208,7 +208,7 @@ A further implication, noted by Tosafot, follows from a *sugya* in *Psachim*. Th
 
 ---
 
-## Pluralistic Halakhic A…
+## Pluralistic Halakhic (II)
 
 ### Rabbi-Shopping vs. Exper…
 

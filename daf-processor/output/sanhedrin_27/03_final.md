@@ -216,7 +216,7 @@ The *gemara* records that Rav Pappi acted in accordance with Rava's position. Ho
 
 ---
 
-## Mumar Neveilot
+## Mumar Neveilot (II)
 
 ### For Appetite
 
@@ -244,7 +244,7 @@ Abaye and Rava dispute this question.
 
 ---
 
-## Mumar Neveilot (continued)
+## Mumar Neveilot (II)
 
 ### Abaye: Formal Rasha
 
@@ -260,7 +260,7 @@ Rava says *kasher* — he is valid. Rava rejects Abaye's formal category. *Rasha
 
 ---
 
-## Two Psul Categories
+## Two Psul Categories (II)
 
 ### Two Psul Types
 
@@ -378,7 +378,7 @@ The broader upshot is striking: even though the logical case for Rabbi Yosei —
 
 ---
 
-## Two Psul Categories (Summary)
+## Two Psul Categories (II)
 
 ### Psul Summary
 

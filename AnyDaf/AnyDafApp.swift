@@ -12,6 +12,8 @@ private let kDonorIntervalDays: Double = 90
 struct AnyDafApp: App {
     @State private var showSplash = true
     @State private var showDonationNudge = false
+    @State private var showTerms = false
+    @AppStorage("hasAcceptedTerms") private var hasAcceptedTerms: Bool = false
     @State private var sessionStart: Date?
     @State private var nudgeCheckedThisSession = false
     @Environment(\.scenePhase) private var scenePhase
@@ -52,10 +54,19 @@ struct AnyDafApp: App {
                     withAnimation(.easeOut(duration: 0.5)) {
                         showSplash = false
                     }
+                    if !hasAcceptedTerms {
+                        showTerms = true
+                    }
                 }
             }
             .onChange(of: scenePhase) { phase in
                 handleScenePhase(phase)
+            }
+            .fullScreenCover(isPresented: $showTerms) {
+                TermsView {
+                    hasAcceptedTerms = true
+                    showTerms = false
+                }
             }
             .sheet(isPresented: $showDonationNudge) {
                 DonationNudgeView {

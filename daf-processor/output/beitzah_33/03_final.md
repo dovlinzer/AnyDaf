@@ -178,7 +178,7 @@ The Sages disagree. *Megavev mishel le-fanav u-madlik* — one may gather and bu
 
 ---
 
-## Fire Creation Ban
+## Fire Creation Ban (II)
 
 ### Fire Sources Prohibited
 

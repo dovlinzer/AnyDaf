@@ -20,7 +20,7 @@ The answer lies in understanding what *korbanot* are actually about. The *korban
 
 ---
 
-## Baraita Interpretation
+## Baraita Interpretati (II)
 
 ### Case Analysis
 
@@ -62,7 +62,7 @@ This is the proof that there exists a position — call it that of the *chachami
 
 ---
 
-## Reading Options
+## Reading Options (II)
 
 ### Rav Papa Challenge
 

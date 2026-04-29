@@ -92,7 +92,7 @@ Rashi grapples with the difficulty that if both Tannaim accept Rav Avin's princi
 
 ---
 
-## Eternal Mound Debate…
+## Eternal Mound Debate (II)
 
 ### Trees Distinction
 
@@ -148,7 +148,7 @@ But Eliyahu already held the key of rain. Heaven therefore said to him: *yomru s
 
 ---
 
-## Elijah Keys…
+## Elijah Keys (II)
 
 ### Door Parable
 

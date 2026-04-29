@@ -102,7 +102,7 @@ The overarching conclusion is significant: an *eved Ivri* has *kesef* and *shtar
 
 ---
 
-## Ownership Concept…
+## Ownership Concept (II)
 
 ### Braita Sources
 

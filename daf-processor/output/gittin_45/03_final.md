@@ -172,7 +172,7 @@ The resolution offered is: *mistabra heicha de-ika issura hatam kansinan* — we
 
 ---
 
-## Runaway Slave Case
+## Runaway Slave Case (II)
 
 ### Facts of Case
 
@@ -224,7 +224,7 @@ A separate *baraita* is then cited: *lo tasgir eved el adonav* — *Rebbi* inter
 
 ---
 
-## Runaway Slave Case (continued)
+## Runaway Slave Case (II)
 
 ### Samaritans Episode
 

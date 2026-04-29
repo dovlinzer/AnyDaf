@@ -26,7 +26,7 @@ The *gemara* opens with the question *mai zeh borer lo echad vezeh borer lo echa
 
 ---
 
-## Perek III Intro…
+## Perek III Intro (II)
 
 ### Rashi: Full Beit Din
 
@@ -38,7 +38,7 @@ Tosafot disagree with Rashi's reading of the *mishna*'s *pshat*. They maintain t
 
 ---
 
-## Mai Zeh Borer…
+## Mai Zeh Borer (II)
 
 ### Beit Din Rejection
 

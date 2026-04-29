@@ -116,7 +116,7 @@ This passage also yields an important subsidiary observation. One might have ass
 
 ---
 
-## Time Restrictions…
+## Time Restrictions (II)
 
 ### Before RH Ban
 

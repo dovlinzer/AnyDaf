@@ -1,6 +1,6 @@
 # Sanhedrin 103 — Daf Yomi Shiur
 
-## Achav & Idolatry
+## Achav & Idolatry (II)
 
 ### Three Evil Kings
 
@@ -52,7 +52,7 @@ The *Gemara* then cites a verse about *Achazyahu* hiding in *Shomron* — though
 
 ---
 
-## Menashe's Repentance
+## Menashe's Repentanc (III)
 
 ### Menashe's Status
 
@@ -74,7 +74,7 @@ However, *Rabbi Yehuda omer Menashe yesh lo chelek l'olam haba* — Rabbi Yehuda
 
 ---
 
-## Achav & Idolatry (continued)
+## Achav & Idolatry (II)
 
 ### No Share in Olam HaBa
 
@@ -82,7 +82,7 @@ The question arises regarding the *pasuk haraita ki nikhna Achav lifnai — yaan
 
 ---
 
-## Menashe's Repentance (continued)
+## Menashe's Repentanc (III)e (continued)
 
 ### Rabbi Yehuda's View
 
@@ -184,7 +184,7 @@ This principle — that the silent bystander who could have acted bears genuine 
 
 ---
 
-## Escalating Desecration
+## Escalating Desecrati (II)
 
 ### Lazy Man's Field
 
@@ -250,7 +250,7 @@ The *Gemara* now works backwards through the verse, identifying each element wit
 
 ---
 
-## Menashe's Repentance (continued again)
+## Menashe's Repentanc (III)e (continued again)
 
 ### Torah Scholar
 
@@ -264,7 +264,7 @@ This is a remarkable acknowledgment: all three of these notoriously wicked kings
 
 ---
 
-## Escalating Desecration (continued)
+## Escalating Desecrati (II)
 
 ### Four-Faced Idol
 

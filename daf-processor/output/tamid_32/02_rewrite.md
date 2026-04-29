@@ -126,7 +126,7 @@ Alexander is unmoved. *Lo sagi de-lo azalna* — it will not suffice not to go. 
 
 ---
 
-## Africa & Amazons…
+## Africa & Amazons (II)
 
 ### City of Women
 

@@ -148,7 +148,7 @@ Rabbi Yossi's argument, when unpacked, relies on the same chain of *heikeshim* e
 
 ---
 
-## Rabbi Akiva's Answer…
+## Rabbi Akiva's Answer (II)
 
 ### Matzah on Erev Pesach
 

@@ -26,13 +26,13 @@ One might ask: given all these disputes, why not simply apply the principle of *
 
 The Gemara now picks up five lines from the bottom of 41b, with the passage *sha'alu es Ben Zoma*. The questioners ask Ben Zoma: *mipnei mah amru devarim habaim machmat haseudah betoch haseudah einam te'unim bracha lo lifnehem velo achareihem* — why did the Sages rule that foods that come as part of the meal require no *bracha* either before or after? He replied: *ho'il upas potartan* — because the bread exempts them. The Gemara then presses: if the bread exempts everything in the meal, then *yayin nami tipater bepas* — let the wine during the meal also be exempt through *hamotzi*. This takes for granted — as the next *Mishna* will make explicit — that one does indeed recite *borei pri hagafen* on wine consumed during a bread meal. This is another *halacha* that many are unaware of: even at a weekday meal with bread, if wine is brought to the table, one must recite *borei pri hagafen*. Wine is not covered by *hamotzi*.
 
-## Wine Exemptions…
+## Wine Exemptions (II)
 
 ### Wine Status
 
 The Gemara answers: *shani yayin d'goreim bracha l'atzmo* — wine is different, for it causes a *bracha* unto itself. This sounds somewhat circular, but the point is clarified by the *Rishonim*.
 
-## Ben Zoma…
+## Ben Zoma (II)
 
 ### Wine's Ritual Status
 

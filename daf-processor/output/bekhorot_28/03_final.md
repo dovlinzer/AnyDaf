@@ -194,7 +194,7 @@ A related nuance also surfaces here: the combination of expert assessment and wi
 
 ---
 
-## Judicial Liability
+## Judicial Liability (III)
 
 ### Civil Errors
 
@@ -246,7 +246,7 @@ This brings the *Gemara* to the general principles of causation in damages. The 
 
 ---
 
-## Judicial Liability…
+## Judicial Liability (III)
 
 ### Purity Rulings
 
@@ -266,7 +266,7 @@ However, the *mishna* qualifies the liability rule with a crucial exception: *im
 
 ---
 
-## Grama & Garmi…
+## Grama & Garmi (II)
 
 ### Taking & Handing
 
@@ -298,7 +298,7 @@ This also illuminates the phrase *mah she'asa asuy* in the *tumah* context. The 
 
 ---
 
-## Judicial Liability……
+## Judicial Liability (III)…
 
 ### Rabbi Tarfon Story
 

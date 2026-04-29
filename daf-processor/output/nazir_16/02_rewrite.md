@@ -46,7 +46,7 @@ With respect to *hilchos Shabbos*, the *Tannaim* and *Amoraim* themselves debate
 
 ---
 
-## Two Naziriyos…
+## Two Naziriyos (II)
 
 ### Rabbi Papyas
 

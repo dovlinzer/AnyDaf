@@ -282,7 +282,7 @@ The *gemara* records that Rav Ashi was once sitting before *Ameimar* and had a w
 
 ---
 
-## Body Placement…
+## Body Placement (II)
 
 ### R. Yehuda Negaim
 

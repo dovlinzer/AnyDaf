@@ -38,7 +38,7 @@ This *mishna* touches on a tension that plays out constantly: the balance betwee
 
 ---
 
-## Groom Exemption
+## Groom Exemption (III)
 
 ### Groom Exempt Mishna
 
@@ -52,7 +52,7 @@ This response underscores the dual nature of the concept of *kabbalas ol malchus
 
 ---
 
-## Workers at Height…
+## Workers at Height (II)
 
 ### Shema Aloft, Tefila Below
 
@@ -76,7 +76,7 @@ This raises a related question: when these workers say *shema*, are they saying 
 
 ---
 
-## Groom Exemption…
+## Groom Exemption (III)
 
 ### Exemption Grounds
 
@@ -134,7 +134,7 @@ A question is also raised regarding *Birkas Hamazon*: does the omission of the s
 
 ---
 
-## Groom Exemption…
+## Groom Exemption (III)
 
 ### Virgin vs. Widow
 

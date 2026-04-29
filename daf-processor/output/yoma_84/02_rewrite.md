@@ -156,7 +156,7 @@ The *Gemara* seeks to identify more precisely which remedy the *Chachamim* conce
 
 The *Gemara* asks: *b'zu a-hei* — which case are they conceding? Surely not the pregnant woman — that one is obvious and requires no special concession. And we know they dispute the rabid dog. Therefore, *ela lav a-sam* — it must be that they are conceding the medicine for the throat ailment. *Shema mina* — this supports the reading that the *Chachamim* agree regarding the throat.
 
-## Throat & Life Risk…
+## Throat & Life Risk (II)
 
 ### Mishnah Structure
 
@@ -212,7 +212,7 @@ A practical heuristic offered: if someone proposes paying for a cab so that the 
 
 This heuristic, however, applies only to the ambiguous early stages of a process that may take considerable time to develop. It emphatically does not apply to sudden accidents or clearly acute emergencies.
 
-## Pregnancy Discussion…
+## Pregnancy Discussion (II)
 
 ### Accidents Rule
 

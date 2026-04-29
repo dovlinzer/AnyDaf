@@ -124,7 +124,7 @@ Rashi's first reading of *arba letzalla arba letzlalla* understands it as a cont
 
 Rashi's third reading is the most analytically compelling. On this reading, Runya himself had a field within or adjacent to the contested area, such that Runya might actually have had his own *bar metzra* claim — perhaps on a different boundary. Ravina could have had a stronger claim as a neighbor on three sides, while Runya was a neighbor on one side only, which might normally give Ravina greater priority. But the phrase *arba letzalla arba letzlalla* is interpreted through an analogy of a poor tanner versus a wealthy tanner. A poor tanner spends four units of expense to process a small piece of leather; a rich tanner spends the same four units to process a large piece. The wealthy tanner already enjoys economy of scale — his fixed costs are distributed across a much larger output, so each unit costs him proportionally less. The poor tanner, with a small operation, bears the full weight of those four units against far less production. Giving the poor tanner the adjacent piece of leather — or the adjacent plot of land — reduces his per-unit cost dramatically; giving it to the rich tanner produces a negligible marginal benefit because he already benefits from scale. On this reading, Runya actually gains more from acquiring the adjacent field than Ravina does, even if Ravina's formal *bar metzra* priority might appear stronger. This third reading has the advantage of remaining within legal rather than purely moral territory.
 
-## Bar Metzra Case…
+## Bar Metzra Case (II)
 
 ### Tosafot Challenge
 

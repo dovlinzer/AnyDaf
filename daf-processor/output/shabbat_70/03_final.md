@@ -114,7 +114,7 @@ Given this compelling Tannaitic derivation, why did Shmuel not use it? The *gema
 
 ---
 
-## Rabbi Yossi - Achas Meih…
+## Rabbi Yossi - Achas (II)
 
 ### Achas Meihena Juxtaposit…
 
@@ -150,7 +150,7 @@ Spelling it out fully: *achas she'hi hena* corresponds to the case of *zadon Sha
 
 ---
 
-## Rabbi Yossi - Achas Me…
+## Rabbi Yossi - Achas (II)
 
 ### Shmuel's Disagreement
 
@@ -212,7 +212,7 @@ The *gemara* resolves the impasse — at least at this stage of the discussion. 
 
 ---
 
-## 39 Melachot - Source fro…
+## 39 Melachot - Source (II)
 
 ### Rabbi Yochanan's Question
 
@@ -226,7 +226,7 @@ Rabbi Yochanan answered: to teach that it is possible to bring thirty-nine *korb
 
 ---
 
-## 39 Melachot - Source f…
+## 39 Melachot - Source (II)
 
 ### Forgetting All vs. Shabb…
 

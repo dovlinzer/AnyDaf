@@ -138,7 +138,7 @@ Rashi, in connection with the *parfisa*, records a remarkable *teshuvat geonim*.
 
 ---
 
-## Grass & Witchcraft…
+## Grass & Witchcraft (II)
 
 ### Pottery Witchcraft
 
@@ -156,7 +156,7 @@ The Gemara closes the topic with the question of *keshafim*: *mai kshafim* — w
 
 ---
 
-## Bathroom & Dignity…
+## Bathroom & Dignity (II)
 
 ### Pottery Concern
 

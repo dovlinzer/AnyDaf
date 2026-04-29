@@ -354,7 +354,7 @@ The final *aggadic* section thus makes sense as the natural culmination of the t
 
 ---
 
-## Disreputable Trades…
+## Disreputable Trades (II)
 
 ### Bloodletter Traits
 

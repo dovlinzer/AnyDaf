@@ -56,7 +56,7 @@ The word *gam* — "even" — resolves this. *Gam atem*, "even you," extends the
 
 ---
 
-## Korban Pesach Shlichut
+## Korban Pesach Shlich (II)
 
 ### Rabbi Yonatan's Use
 
@@ -76,7 +76,7 @@ The *gemara* answers: *minei* — you learn it from the case itself. Even if the
 
 ---
 
-## Korban Pesach Shlichut…
+## Korban Pesach Shlich (II)
 
 ### Co-Ownership Problem
 

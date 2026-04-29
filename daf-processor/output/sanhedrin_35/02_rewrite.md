@@ -110,7 +110,7 @@ The conclusion is stark: *hilkach lo efshar* — it is simply impossible to begi
 
 ---
 
-## QVH: Execute on Shabbat
+## QVH: Execute on Shab (II)
 
 ### Met Mitzvah QVH
 
@@ -144,7 +144,7 @@ Rabbi Yochanan responds with a counter-proof: *ritzicha tochiah* — execution i
 
 ---
 
-## QVH: Execute on Shabba…
+## QVH: Execute on Shab (II)
 
 ### Ritzicha QVH
 
@@ -152,7 +152,7 @@ Resh Lakish is not satisfied. He escalates: if the counter-proof is execution it
 
 ---
 
-## Shabbat Prohibition…
+## Shabbat Prohibition (II)
 
 ### Ritzicha Refutes
 

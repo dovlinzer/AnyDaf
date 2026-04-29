@@ -100,7 +100,7 @@ Shmuel offers a different limiting principle: when she herself contradicts the w
 
 The *stam* of the *gemara*, however, consistently resists these limiting moves. Rather than accepting Rav's or Shmuel's positions as valid limitations on the *mishna*, the *stam* repeatedly narrows the scope of those amoraic statements themselves, so that the *mishna*'s consequences remain applicable in nearly all cases. The dynamic is a recurring one throughout this *perek*: the *amoraim* try to limit the *mishna*, and the *stam* pushes back, insisting on a broader, more stringent application of the *mishna*'s rule. The *stam* thus consistently presents itself as more *machmir* than the *amoraim*, reading the case as a *knas* and treating the sweep of the consequences as essentially unqualified.
 
-## Why Ed Echad?…
+## Why Ed Echad? (II)
 
 ### Tosafot's View
 
@@ -252,7 +252,7 @@ The *gemara* rejects the inference. *Shani hatam dechtiv elav tishme'un* — tha
 
 Moreover, even the *navi*'s ability to override is categorically different in nature. What Elijah did was a *hora'at sha'ah* — a ruling for an exigent moment — not a systemic or permanent modification of the law. And the *gemara* characterizes it as *migdar milta*: a protective measure necessitated by exigent circumstances, designed to be limited in time and scope. *Migdar milta* is categorically distinct from *yesh koach* in the sense of a structural rabbinic power to uproot Torah law as part of the ongoing legal system.
 
-## Shev Ve'al Ta'aseh…
+## Shev Ve'al Ta'aseh (II)
 
 ### Tzitzit Clarification
 

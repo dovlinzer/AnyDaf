@@ -50,7 +50,7 @@ The Ran then extends this framework to *nezirut*. Technically, there is only one
 
 ---
 
-## Knidrei Reshaim…
+## Knidrei Reshaim (II)
 
 ### Shvuah Exclusion
 

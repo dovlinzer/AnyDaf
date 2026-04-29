@@ -1,6 +1,6 @@
 # Kiddushin 6 — Daf Yomi Shiur
 
-## Kiddushin Formulations
+## Kiddushin Formulatio (II)
 
 ### Six Formulations
 
@@ -46,7 +46,7 @@ Rabbi Elazar be-Rabbi Shimon, however, holds that even if they are no longer dis
 
 The *halachah* follows Rabbi Yose: *amar Rav Huna amar Shmuel halachah ke-Rabbi Yose*. Rav Ami and Rav Assi then apply this in connection with another statement of Shmuel — that anyone who does not have thorough command of the laws of *gittin* and *kiddushin* should not involve himself in adjudicating such cases. They suggest that even ignorance of this specific *halachah* of Rabbi Yose would qualify one as insufficiently expert to sit on such a *beit din*.
 
-## Kiddushin Formulations…
+## Kiddushin Formulatio (II)
 
 ### Witnesses & Intent
 

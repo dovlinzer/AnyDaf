@@ -116,7 +116,7 @@ The *Gemara* asks: but the *braita* used *ken ya'aseh* to teach the *me'akev* st
 
 ---
 
-## Seven vs. Four…
+## Seven vs. Four (II)
 
 ### Abaye's Resolution
 
@@ -130,7 +130,7 @@ Having established the multiple exegetical uses of *ken ya'aseh*, the *Gemara* r
 
 ---
 
-## Yom Kippur Par…
+## Yom Kippur Par (II)
 
 ### Gemara Concern
 

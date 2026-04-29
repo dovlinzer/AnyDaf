@@ -110,7 +110,7 @@ The Gemara answers: *ei d'nafal berotev rakah hachi nami* — if it fell into a 
 
 ---
 
-## Efshar Lesochto
+## Efshar Lesochto (II)
 
 ### Reversal Question
 
@@ -142,7 +142,7 @@ The Gemara records that this debate is between major Amoraic authorities. Rav, R
 
 ---
 
-## Meat in Milk Pot
+## Meat in Milk Pot (III)
 
 ### Meat Falls in
 
@@ -158,7 +158,7 @@ Rav rules: *basar assur v'chalav mutar* — the meat is forbidden, and the milk 
 
 ---
 
-## Meat in Milk Pot (continued)
+## Meat in Milk Pot (III) (continued)
 
 ### Status Problem
 
@@ -166,7 +166,7 @@ This ruling, however, appears to be in tension with Rav's own position that *efs
 
 ---
 
-## Efshar Lesochto (continued)
+## Efshar Lesochto (II)
 
 ### Milk Challenge
 
@@ -186,7 +186,7 @@ The Gemara then immediately raises an objection to the more extreme version of t
 
 ---
 
-## Half-Kezayit Debate
+## Half-Kezayit Debate (II)
 
 ### Half-Kezayit Case
 
@@ -216,7 +216,7 @@ The Gemara then raises a follow-up: *ki nayach hadar palit* — surely when the 
 
 ---
 
-## Half-Kezayit Debate (continued)
+## Half-Kezayit Debate (II)
 
 ### Inconsistency
 

@@ -266,7 +266,7 @@ The resolution: the act of producing the *shetar* itself creates a *migo*. By br
 
 ---
 
-## Sealing Claims…
+## Sealing Claims (II)
 
 ### Until Claims Sealed
 
@@ -334,7 +334,7 @@ Tosafot addresses this directly: *davka heicha denis-atzmu ladin vekafu ladun ka
 
 ---
 
-## Venue & Jurisdiction…
+## Venue & Jurisdiction (II)
 
 ### Yibum Case
 

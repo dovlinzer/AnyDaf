@@ -170,7 +170,7 @@ This is a *pesak halacha*, not merely a theoretical position. Resh Lakish is say
 
 ---
 
-## Tumtum Evidence…
+## Tumtum Evidence (II)
 
 ### Ishtani Principle
 

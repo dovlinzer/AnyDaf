@@ -1,6 +1,6 @@
 # Bekhorot 6 — Daf Yomi Shiur
 
-## Bechor Shor Chesev Eiz
+## Bechor Shor Chesev E (II)
 
 ### Intro: Mother-Child Match
 
@@ -16,7 +16,7 @@ This brings us to Rabbi Yose HaGlili's position. If all three species must be st
 
 ---
 
-## Donkey Firstborn Limit
+## Donkey Firstborn Lim (II)
 
 ### Broad to Narrow
 
@@ -26,7 +26,7 @@ The *baraita* records his reasoning: we hear from the verse *bechor behemah hatm
 
 ---
 
-## Bechor Shor Chesev Eiz…
+## Bechor Shor Chesev E (II)
 
 ### Rav Achai's Challenge
 
@@ -38,7 +38,7 @@ The Gemara responds: if that were the intent, the Torah need not have written th
 
 ---
 
-## Donkey Firstborn Limit…
+## Donkey Firstborn Lim (II)
 
 ### Peter Chamor Twice
 

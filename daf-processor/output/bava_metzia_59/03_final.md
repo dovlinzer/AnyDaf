@@ -100,7 +100,7 @@ Mar Zutra bar Tuvya said in the name of Rav — and others attribute the stateme
 
 ---
 
-## Furnace Over Shame…
+## Furnace Over Shame (II)
 
 ### Tamar's Discretion
 
@@ -118,7 +118,7 @@ The Maharsha adds a further dimension through wordplay. The word *hi mutzet* —
 
 ---
 
-## David & Bathsheba…
+## David & Bathsheba (II)
 
 ### Tamar's Example
 
@@ -182,7 +182,7 @@ A second resolution is offered: *lishna acharina, ha b'meili dishmaya v'ha b'mei
 
 ---
 
-## Gates of Heaven…
+## Gates of Heaven (II)
 
 ### Ona'ah Gate Open
 
@@ -212,7 +212,7 @@ A theological coherence underlies this grouping. *Avodah zarah* is an obvious af
 
 ---
 
-## Household & Wife…
+## Household & Wife (II)
 
 ### Finances & Peace
 

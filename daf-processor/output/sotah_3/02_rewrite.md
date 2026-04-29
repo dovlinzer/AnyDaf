@@ -208,7 +208,7 @@ Pelimo says: *kedei she-toshit yadah la-sal litol kikar* — the time it takes f
 
 ---
 
-## Measure of Stirah…
+## Measure of Stirah (II)
 
 ### Enumeration Purpose
 

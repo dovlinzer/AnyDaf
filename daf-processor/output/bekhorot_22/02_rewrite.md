@@ -116,7 +116,7 @@ This principle — *matza mino ve-ne'or*, finding one's kind and awakening — r
 
 ---
 
-## Chozer Ve-Ne'or Debate
+## Chozer Ve-Ne'or Deba (II)
 
 ### Conceptual Implications
 
@@ -126,7 +126,7 @@ This framing also has implications for understanding *bittul* in other domains, 
 
 ---
 
-## Bittul in Mixtures…
+## Bittul in Mixtures (II)
 
 ### Abaye's Challenge
 
@@ -168,7 +168,7 @@ A further analytical point raised here concerns why the ratio of *bittul* in thi
 
 ---
 
-## Chozer Ve-Ne'or Debate…
+## Chozer Ve-Ne'or Deba (II)
 
 ### Dormant Terumah Reawakens
 

@@ -48,7 +48,7 @@ Rav Papa issues the definitive ruling: *hilchata sfina agra u'fagra* — the *ha
 
 Rav Papa adds a further detail regarding practice: *ve'nahagu benei Kufra agra be'sha'at meshicha fagra be'sha'at shevira* — the sailors, or perhaps those who work with pitch-sealed boats (*benei Kufra*, literally those associated with *kufra*, the pitch used to waterproof wooden vessels, as we know from *Parshat Noach*), have a custom to pay the rental fee *be'sha'at meshicha*, at the moment of taking possession of the boat, and to pay the depreciation charge *be'sha'at shevira*, only at the time of breakage. Whether this means the assessment of damage is made at the time of the breakage, or merely that payment is scheduled for that point, is a *machloket Rishonim*. In either case, the practical effect of dividing the two payments is to make it structurally clearer that they are two distinct obligations — one for use and one for damage — which reduces the appearance of *ribbit*.
 
-## Mafriz al Sadeh…
+## Mafriz al Sadeh (II)
 
 ### Minhag & Flexibility
 
@@ -180,7 +180,7 @@ Rav Soloveitchik, in one of his *Yahrtzeit Shiurim*, connected this to *kiddush*
 
 A parallel case may be found in the laws of *shemitat kesafim* — the release of loans in the *shemitah* year. The question of how *shemitat kesafim* operates is itself contested: is it an *afka'ata demalka*, an automatic cancellation imposed by the King, operating without any human action? Or is it a *mitzvah* obligating the lender to personally and actively forgive the loan? The Mordechai quotes an opinion that in truth the cancellation occurs automatically, yet there remains a personal *mitzvah* to forgive the loan oneself even though it has already been canceled. This is the same paradigm: something happens automatically by divine decree — the *kedusha* or the cancellation — and yet the human being retains an independent obligation, a *mitzvah*, to do it actively as well. In each of these domains, the interplay between divine automaticity and human agency defines a distinctive structure in *halachic* thinking.
 
-## Tzon Barzel…
+## Tzon Barzel (II)
 
 ### Practical Application
 

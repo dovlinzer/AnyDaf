@@ -90,7 +90,7 @@ These questions bear directly on contemporary practice. *Sicha* — applying oil
 
 ---
 
-## Knotting & Unknotting
+## Knotting & Unknottin (II)
 
 ### Tent Stakes
 
@@ -122,7 +122,7 @@ The Gemara asks where *keria* — tearing — occurred in the *Mishkan*, given t
 
 ---
 
-## Knotting & Unknotting…
+## Knotting & Unknottin (II)
 
 ### Tightening Threads
 

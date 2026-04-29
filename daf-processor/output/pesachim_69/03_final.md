@@ -340,7 +340,7 @@ This *baraita* appears to demonstrate that even someone in a state of *tumah* â€
 
 ---
 
-## Braitah Proofâ€¦
+## Braitah Proof (II)
 
 ### Sheretz Alternative
 

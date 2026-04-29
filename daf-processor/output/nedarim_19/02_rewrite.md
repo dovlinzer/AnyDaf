@@ -16,7 +16,7 @@ The *gemara* opens by pressing a contradiction. We say *stam nedarim le-hachmir*
 
 Rabbi Zeira offers the resolution: *lo kashya, ha Rabbi Eliezer, ha Rabbanan* — there is no true contradiction, because the two rulings reflect the positions of Rabbi Eliezer and the *Rabbanan* respectively. The source is a *baraita*: if one consecrates all his *chaya* (wild animals) or all his *behema* (domesticated animals) to *hekdesh*, the question arises whether a *koi* — a hybrid creature of disputed zoological classification — is included. Rabbi Eliezer says it is not consecrated; the *Chachamim* say it is.
 
-## Koi Consecration Case
+## Koi Consecration Cas (II)
 
 ### Koi Baraita
 
@@ -28,13 +28,13 @@ At this point the *gemara* makes a significant observation. One might have thoug
 
 Woven into this discussion is the concept of *ma'eil inish nafshei le-sfeika* — whether a person would willingly subject himself to a doubtful status — and *ma'eil mamonei le-sfeika* — whether a person would willingly subject his property to such doubt. Until this point, one might have assumed that *stam nedarim le-hachmir* is purely a legal interpretive principle — a rule for how courts construe ambiguous language — with no reference to the vower's subjective intent. But the *gemara*'s introduction of the *ma'eil* framework suggests that the question of what a person would have wanted is itself part of the legal analysis. This can be understood as follows: rather than asking about this particular individual's intent, we adopt a general interpretive presumption — that people making these types of declarations typically intend either the broader or the narrower meaning — and apply that presumption uniformly as a matter of law. The *Ran* supports the more formalist reading: even if the person says he had no specific meaning in mind, the legal principle determines the meaning of his words regardless.
 
-## Safek Bechoros Digression
+## Safek Bechoros Digre (II)
 
 ### Safek Bechoros
 
 Abaye challenges the identification of *safek nezirut le-hakel* with Rabbi Eliezer. If that leniency is Rabbi Eliezer's position, then the same *mishnah* that rules *safek nezirut le-hakel* should reflect his position throughout. Yet the *mishnah* also rules on *safek bechoros* — cases of doubtful firstborn status — and the *gemara* cites a *baraita* stating that a *safek bechor* is forbidden for shearing and labor. If a cow gave birth to twins and it is unknown whether the firstborn was male or female, the male calf's *bechor* status is uncertain. In terms of monetary law (*Choshen Mishpat*), the principle of *hamotzi me-chaveiro alav ha-rayah* applies — the *kohen* cannot collect without proof. But in terms of *issur ve-heter*, since *bechorah* is a biblical obligation, *safek d'oraita le-chumra* applies and the animal is forbidden for shearing or work. This is a straightforward *safek d'oraita*, with nothing to do with Rabbi Eliezer's position — and yet it rules strictly, in contrast to the leniency by *nezirut*. The question stands: why are some doubtful cases treated leniently and others strictly?
 
-## Koi Consecration Case…
+## Koi Consecration Cas (II)
 
 ### Kedusha Types
 
@@ -46,7 +46,7 @@ By contrast, when a person makes a *neder* or declares himself a *nazir* using a
 
 This distinction — facts versus interpretation — is analytically powerful and the *gemara* presents it as resolving the question about *safek bechoros*. The case of *bechoros* cannot be compared to *nedarim* or *nezirut* because in *bechoros* we are uncertain about a fact, while in *nedarim* we are choosing how to interpret language.
 
-## Safek Bechoros Digress…
+## Safek Bechoros Digre (II)
 
 ### Liquids Tumah
 
@@ -124,7 +124,7 @@ The *gemara* now returns to the *mishnah* regarding regional linguistic variatio
 
 The *gemara* infers from this: if in *Galil* the people *were* familiar with *terumat halishka*, making the word ambiguous in their region as well, the declaration would be forbidden — *ha makirim, assurin*. This confirms that Rabbi Yehuda endorses the principle of *stam nedarim le-hachmir* in any case of genuine ambiguity.
 
-## Stam Charamim Regions
+## Stam Charamim Region (II)
 
 ### Charamim Permitted Forbi…
 
@@ -132,13 +132,13 @@ Immediately following is the parallel ruling about *charamim*: *stam charamim bi
 
 But this is the problem. If in *Yehuda* the word *cherem* can mean either the strict form (*cherem* to *hekdesh*) or the lenient form (*charmei kohanim*), why are we lenient? By the logic of *stam nedarim le-hachmir*, whenever there is genuine ambiguity we should be strict.
 
-## Stam Teruma Regions…
+## Stam Teruma Regions (II)
 
 ### Yehuda Consistency
 
 The proof that Rabbi Yehuda holds *stam nedarim le-hachmir* despite the leniency in *Galil* for *teruma* was already established — in *Galil* the word is not ambiguous, so there is nothing to be *machmir* about. The rule *stam nedarim le-hachmir* applies precisely when there is genuine ambiguity. Rabbi Yehuda's position is therefore entirely consistent: where there is real ambiguity he is strict; where the word has only one meaning in that locale he is lenient. This is not a *kula* in *stam nedarim*; it is a determination that the word is not, in that context, a *stam* case at all.
 
-## Stam Charamim Regions…
+## Stam Charamim Region (II)
 
 ### Elazar b'Tzadok
 

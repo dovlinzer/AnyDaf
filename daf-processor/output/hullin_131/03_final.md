@@ -178,7 +178,7 @@ This raises the broader question of why we apply the civil framework (*hamotzi m
 
 ---
 
-## Kohen Gifts Rules
+## Kohen Gifts Rules (II)
 
 ### Rav Idi Question
 
@@ -220,7 +220,7 @@ Tosafot, drawing on the Yerushalmi, makes a further distinction: there may actua
 
 ---
 
-## Kohen Gifts Rules
+## Kohen Gifts Rules (II)
 
 ### Kohen No Choice
 
@@ -236,7 +236,7 @@ The *braita* then adds — puzzlingly — *velo milevi l'levi*: nor do you compe
 
 ---
 
-## Poor's Gifts…
+## Poor's Gifts (II)
 
 ### Field Gifts
 

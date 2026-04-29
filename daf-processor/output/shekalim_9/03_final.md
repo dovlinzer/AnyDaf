@@ -282,7 +282,7 @@ A *baraita* elaborates the formal proclamations made during each removal. For th
 
 ---
 
-## Shirayim Status…
+## Shirayim Status (II)
 
 ### Basket Cycle
 
@@ -316,7 +316,7 @@ What is remarkable — as the lecturer notes in closing — is what the *chakham
 
 ---
 
-## Third Collection…
+## Third Collection (II)
 
 ### Pinchas Chain
 

@@ -38,7 +38,7 @@ The *mishna* then introduces cases requiring illustration, and those following a
 
 The next case: *sofo shel zeh betzad sofo shel zeh veha-eidim ba-emtza* — the tail (*sof*) of one *get* faces the tail of the other, with the witnesses between them. The ruling is *et she-nikra'im imo kasher* — the one that can be read together with the witnesses is valid. Visually: if *get* one is written normally and the witnesses appear at its bottom, and *get* two is written upside-down below the witnesses, then *get* one's witnesses are properly placed at its conclusion, and it is valid. The second *get*, read from the other direction, has the witnesses at its head — which is invalid.
 
-## Two-Column Get…
+## Two-Column Get (II)
 
 ### Head-Tail Adjacent
 

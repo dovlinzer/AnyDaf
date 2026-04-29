@@ -166,7 +166,7 @@ The Gemara responds by distinguishing the *kohen*'s situation from the woman's. 
 
 ---
 
-## Rabbi Dostai…
+## Rabbi Dostai (II)
 
 ### B'Amav One Genre
 

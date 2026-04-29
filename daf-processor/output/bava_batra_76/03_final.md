@@ -122,7 +122,7 @@ The *gemara* then proceeds to identify which position in the earlier *baraita* (
 
 ---
 
-## Contexts & Braitot
+## Contexts & Braitot (III)
 
 ### Identifying Positions
 
@@ -166,7 +166,7 @@ The Sages' position requires a contextual reinterpretation, provided by the next
 
 ---
 
-## Kinyanim Principles
+## Kinyanim Principles (III)
 
 ### Context & Meaning
 
@@ -174,7 +174,7 @@ The underlying principle at work throughout this discussion is that the meaning 
 
 ---
 
-## Contexts & Braitot (continued)
+## Contexts & Braitot (III) (continued)
 
 ### Abaye & Rava
 
@@ -186,7 +186,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Kinyanim Principles (continued)
+## Kinyanim Principles (III) (continued)
 
 ### Hagbaha Universal
 
@@ -198,7 +198,7 @@ Abaye and Rava together articulate the rule precisely: *mesirah konah birshut ha
 
 ---
 
-## Contexts & Braitot (continued again)
+## Contexts & Braitot (III) (continued again)
 
 ### Sages' Solution
 
@@ -206,7 +206,7 @@ The *gemara* resolves this: *ani d'amar lo katav v'lo masar, lo kanah ad sheyich
 
 ---
 
-## Kinyanim Principles (continued once more)
+## Kinyanim Principles (III) (continued once more)
 
 ### Chalifin Alternative
 

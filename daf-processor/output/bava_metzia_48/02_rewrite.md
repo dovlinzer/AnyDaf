@@ -78,7 +78,7 @@ At this point, Rav Nachman registers his own position: *devar Torah ma'ot konot*
 
 ---
 
-## Reish Lakish Proofs…
+## Reish Lakish Proofs (II)
 
 ### Levi Grocer
 
@@ -86,7 +86,7 @@ Levi had examined the text of the *Mishnah* in his own version and found: *ashka
 
 ---
 
-## Rav Nachman Agrees…
+## Rav Nachman Agrees (II)
 
 ### Siton Proof
 

@@ -304,9 +304,9 @@ The shiur rewrite text for some dafs is very large. Parsing it synchronously on 
 ## Daf Page Image Quality (Android)
 
 ### Current approach
-`PdfDafPageView.kt` uses `SubcomposeAsyncImage` (Coil) with `Size.ORIGINAL` + `FilterQuality.High`. The source images are Google Drive JPEG thumbnails at `sz=w2000` (`TalmudPageManager.kt` builds the URL as `https://drive.google.com/thumbnail?id=$fileId&sz=w2000`).
+`PdfDafPageView.kt` uses `SubcomposeAsyncImage` (Coil) with `Size.ORIGINAL` + `FilterQuality.High`. The source images are Google Drive JPEG thumbnails at `sz=w3000` (`TalmudPageManager.kt` builds the URL as `https://drive.google.com/thumbnail?id=$fileId&sz=w3000`).
 
-**Known limitation:** At full-page zoom-out, the GPU must downscale 2000px → ~400px using bilinear filtering, which produces blurry text on physical devices. On the emulator this is not visible (software renderer has better filtering). `FilterQuality.High` only enables bicubic on Android 12+; on earlier versions it falls back to bilinear.
+**Known limitation:** At full-page zoom-out, the GPU must downscale 3000px → ~400px using bilinear filtering, which produces blurry text on physical devices. On the emulator this is not visible (software renderer has better filtering). `FilterQuality.High` only enables bicubic on Android 12+; on earlier versions it falls back to bilinear.
 
 ### Approaches tried and rejected
 
@@ -314,7 +314,8 @@ The shiur rewrite text for some dafs is very large. Parsing it synchronously on 
 |----------|--------|
 | `BoxWithConstraints` to compute a target size | Made it worse — `maxHeight` is `Dp.Infinity` inside a `weight(1f)` layout, causing Coil to receive an invalid huge dimension |
 | `LocalConfiguration.current.screenWidthDp × density` as Coil target | Also worse — the user preferred `Size.ORIGINAL` |
-| `Size.ORIGINAL` + `FilterQuality.High` | Current state — acceptable at zoom-in, slightly soft at full view |
+| `SubsamplingScaleImageView` (SSIV) with OkHttp local cache | No visible improvement — SSIV tiling benefit is for images 10 000 px+; for a 3000 px JPEG it still subsamples the same way. Reverted. |
+| PDF rendering via `PdfRenderer` (local asset test) | Marginally better but not worth the infrastructure cost (all pages would need to be stored as PDFs). Reverted. |
 
 **Do not re-attempt BoxWithConstraints or LocalConfiguration sizing** — both were tried and reverted.
 
@@ -343,3 +344,192 @@ Color locations:
 - Android: `ui/theme/Color.kt` (`AppBlue`); also referenced in `ShiurTextView.kt` (local copy)
 - iOS: `SplashView.swift` (`SplashView.background`); flows to `ContentView.appBg`, `StudyModeView.studyBg`, `ShiurTextView.appBlue`
 - Also hardcoded in: `PDFDafPageView.swift` (UIColor), `ArticleReaderView.swift` (SwiftUI Color + HTML hex), `Launch Screen.storyboard`
+
+---
+
+## Mafteach haDaf (מַפְתֵּחַ הַדַּף) — Talmudic Knowledge Base
+
+*Mafteach haDaf* ("Key of the Daf") is a structured knowledge base and browsable topical index of the Babylonian Talmud, built from 2,350 processed shiur (lecture) transcripts. Name deliberately evokes AnyDaf while distinguishing from the existing *HaMafteach* Talmudic index. The AI basis is intentionally not emphasized — this is a scholarly reference tool where accuracy and precision are the value proposition. Each processed daf has a lecture rewrite and Talmudic source text stored in Supabase.
+
+**The goal**: A web app where a user can:
+- Browse by topic (like a traditional Talmud encyclopedia)
+- Search by any term — English, Hebrew, transliteration
+- Ask natural language questions ("What does the Talmud say about demons harming people?")
+- Get answers grounded only in the stored texts — no hallucination, precise tractate/daf/timestamp sourcing
+
+### Why No Hallucination
+
+At query time, the LLM reads only stored verbatim texts — no external knowledge about the Talmud is used. Tractate/daf identification comes from file metadata, not LLM extraction. The system prompt explicitly forbids drawing on training knowledge. If a topic doesn't appear in the corpus, the system says so.
+
+### Three-Layer Architecture
+
+**Layer 1 — Data (Supabase `shiur_segments` table)**
+
+Each daf's rewrite is already divided into micro-segments with timestamps (from the segmentation JSON). Each micro-segment becomes one row:
+
+| Field | Content |
+|---|---|
+| `tractate`, `daf`, `timestamp` | Precise location |
+| `segment_title` | Name of this segment |
+| `lecture_text` | Rabbi's explanation (from `rewrite`) |
+| `talmudic_text` | Talmudic source text being discussed (from `final` blockquotes) |
+| `taxonomy_ids` | Which taxonomy entries this segment relates to (array) |
+| `embedding` | Vector for semantic search |
+
+~2,350 dafs × ~20 micro-segments = ~47,000 rows total.
+
+**Why `rewrite` AND `final`**: The lecture (`rewrite`) gives conceptual explanation — unique scholarly value, no traditional index does this. The `final` blockquotes give the actual Talmudic text. Both are stored; both are searched. `source` field distinguishes them at query time.
+
+**Layer 2 — Taxonomy (browsable index)**
+
+1,222-entry hierarchical taxonomy (see `topic_analysis/taxonomy/seed_taxonomy.json`). Provides traditional index browsing: SHABBAT AND HOLIDAYS → Muktzeh → all passages. Each entry accumulates all segments tagged to it via `taxonomy_ids`.
+
+User sees: `name` and `hebrew` fields only. `id` is internal database key — stable, snake_case, never shown to user.
+
+**Layer 3 — Query (LLM synthesis)**
+
+At query time, retrieve relevant segments (by taxonomy, semantic search, or both) and pass verbatim texts to Claude Sonnet. Claude synthesizes, summarizes, compares — but only from what's in front of it. Citations come from metadata, not Claude's memory.
+
+### Web App Navigation — Core UX Principle
+
+**Search is the primary entry point. Browse is secondary.** A user who knows what they want types it directly — "sheidim," "שדים," "demons," "Rabbi Chanina ben Dosa" — and lands on the entry without navigating any hierarchy. The category/parent structure is for exploratory browsing only; it should never be *required* to find a known topic.
+
+Three navigation modes:
+
+| Mode | Use case |
+|---|---|
+| **Search box** (primary) | Type any term in any language → immediate results |
+| **Browse by category** | Exploratory — "what's indexed under Civil Law?" |
+| **A-Z index** | Traditional book-index scanning, flat alphabetical view |
+
+For **Rabbinic Authorities** specifically: the taxonomy groups them by period and geography (for users who want to browse that way), but the web app must also offer a flat A-Z list of all authorities — many users know a sage's name without knowing their generation or whether they were Palestinian or Babylonian.
+
+The A-Z view is useful across the whole index, not just authorities.
+
+### Search Design
+
+Each taxonomy entry has an `aliases` array covering all reasonable search formulations:
+```json
+{
+  "id": "biur_chametz",
+  "name": "Biur Chametz (Removal of Chametz)",
+  "hebrew": "בִּיעוּר חָמֵץ",
+  "aliases": ["Biur Chametz", "ביעור חמץ", "Burning Chametz", "Destroying Chametz", "Chametz Removal"]
+}
+```
+Search checks `name + id + hebrew + aliases` simultaneously. No separate "see also" entries needed — aliases handle multilingual and parallel-term lookup. "Destroying chametz," "biur chametz," and "ביעור חמץ" all reach the same entry.
+
+**Embedding/semantic search**: Each segment and each taxonomy entry gets an embedding vector. Natural language queries ("why burn chametz before Pesach?") match by meaning, not keywords, so they find the right passages even without knowing the exact term.
+
+**Taxonomy categories** are UI navigation folders only — users don't search at this level. Category assignments can be changed any time without reprocessing. Entry `id`s are what matter for the database; finalize those before re-tagging.
+
+### Phases of Work
+
+| Phase | Description | Status |
+|---|---|---|
+| 1a | Seed taxonomy built (1,222 entries, 4 Claude Sonnet calls) | ✅ Done |
+| 1b | User reviews `seed_taxonomy.xlsx` — names, Hebrew, parent structure, missing entries, duplicates | 🔄 In progress |
+| 1c | Generate aliases for all entries (batch Claude job) | Not started |
+| 1d | Map 28,982 canonical terms → seed taxonomy entries; propose subcategory enrichment (e.g., Muktzeh → 10-20 subcategories grounded in what actually appears in the corpus) | Not started |
+| 1e | User reviews and approves enriched taxonomy with subcategories | Not started |
+| 2 | Build `shiur_segments` table — parse `rewrite` + `final` from Supabase into micro-segment rows (no LLM needed, ~free) | Not started |
+| 3 | Re-tagging pass — Claude Sonnet Batch API reads each daf's segments + full taxonomy, assigns `taxonomy_ids` to each segment (~$300-350 total) | Not started |
+| 4 | Add pgvector embeddings to each segment row (~$1 total) | Not started |
+| 5 | Build web app — taxonomy browser, search, Q&A interface, audio deep-links | Not started |
+
+### Taxonomy Hierarchy
+
+**Four levels total:**
+```
+Category          "SHABBAT AND HOLIDAYS"                    — UI folder only, no passages tagged
+  Main entry      "Muktzeh"                                 — real index entry (general discussions)
+    Sub-entry     "Muktzeh Machmat Mi'us"                   — real index entry (specific category)
+      Sub-sub     "Muktzeh Machmat Mi'us vs. Chisaron Kis"  — real index entry (recognized sub-question)
+```
+
+Maximum depth is sub-sub-entry (3 content levels below category). Anything deeper signals the entry should be reorganized rather than nested further.
+
+**Criterion for creating a deeper level**: Whether the sub-topic has **independent standing in halakhic or Talmudic discourse** — i.e., Chazal, the Rishonim, or standard halakhic literature treat it as a recognized distinct question with its own name or category status.
+
+- ✅ "Muktzeh Machmat Mi'us vs. Machmat Chisaron Kis" — recognized distinct halakhic question → sub-sub-entry even if it appears only twice
+- ✅ "Muktzeh — differences between Shabbat and Yom Tov" — recognized distinct question → sub-sub-entry
+- ❌ "Muktzeh on a rainy Shabbat" — incidental angle, not a recognized distinct category → stays as a passage under the parent entry even if it appears five times
+
+**Volume is a signal, not the trigger.** Frequency of occurrence suggests a topic may warrant its own entry, but the real test is recognized independent standing in the literature. Interest/significance overrides (promoting a rare but important distinction) are a human judgment call made during review — not automated.
+
+**In the re-tagging prompt**, Claude is told: *"Create a sub-sub-entry only if this is a recognized distinct concept in Talmudic or halakhic literature — one that has its own name or is discussed as a separate category by the Talmud or Rishonim."*
+
+### Key Decisions (with reasoning)
+
+- **No pre-computed summaries or aspect tags**: Store raw texts; Claude reasons over them at query time. Pre-computing "aspects" requires predicting all future query dimensions — impossible. A passage about Ashmodai and King Solomon gets found by reading the text, not by pre-tagging it.
+- **Claude Sonnet for re-tagging, not Haiku**: Accuracy over cost. Conceptual connections in Talmudic reasoning require genuine understanding. Cost (~$300) is acceptable.
+- **Subcategories come from the corpus**: The 28,982 canonical terms already extracted from the lectures show what subcategories actually appear (e.g., all the muktzeh variants). Don't enumerate subcategories from training knowledge — let the corpus tell you.
+- **`rewrite` not `final` as primary lecture source**: `rewrite` is the rabbi's explanation. `final` adds Talmudic text blockquotes. Both are stored, but the lecture text is the unique value no traditional index provides.
+
+### Scripts in `daf-processor/`
+
+All scripts: `load_dotenv(Path(__file__).parent / ".env", override=True)` — required, relative path without `override=True` fails.
+
+| Script | Purpose |
+|---|---|
+| `extract_topics.py` | Extracts `topical_tags` from `shiur_content.segmentation` → `topic_analysis/topics_raw.json` (51,671 raw terms) |
+| `normalize_topics.py` | Batch API: normalizes raw terms → canonical forms. **Config: `BATCH_SIZE=100, MAX_TOKENS=8192`** (Hebrew tokenizes ~2x heavier than ASCII; original 150/4096 caused all 345 chunks to truncate) |
+| `consolidate_topics.py` | Batch API: deduplicates 28,982 canonical forms by alphabetical grouping |
+| `build_taxonomy.py` | Multi-segment Claude Sonnet calls → `seed_taxonomy.json`. Supports `--segment N`, `--merge`, `--save-partial` |
+
+### Taxonomy Files (`topic_analysis/taxonomy/`)
+
+| File | Content |
+|---|---|
+| `webshas_entries_raw.txt` | ~1,400 WebShas entries (primary source, A-Z) |
+| `segment_1-4.json` | Raw segment outputs (segments 1+2 were truncated and salvaged) |
+| `seed_taxonomy.json` | Merged final taxonomy (1,222 entries, 30 categories) |
+| `seed_taxonomy.xlsx` | Excel version for human review — color-coded by category, auto-filter, frozen header |
+
+### Supabase Schema
+
+Existing table `shiur_content`: `tractate`, `daf` (float: 5.0=5a, 5.5=5b), `segmentation` (jsonb), `rewrite` (text), `final` (text)
+
+`segmentation` structure:
+```json
+{
+  "topical_tags": [{"term": "string", "timestamps": ["00:00"]}],
+  "macro_segments": [{"title": "", "timestamp": "", "micro_segments": [{"title": "", "timestamp": ""}]}]
+}
+```
+
+Planned new table `shiur_segments`:
+```sql
+CREATE TABLE shiur_segments (
+  id            serial primary key,
+  tractate      text not null,
+  daf           text not null,
+  timestamp     text,
+  segment_title text,
+  lecture_text  text,
+  talmudic_text text,
+  taxonomy_ids  text[],
+  embedding     vector(1536),
+  created_at    timestamptz default now()
+);
+CREATE INDEX ON shiur_segments (tractate, daf);
+CREATE INDEX ON shiur_segments USING gin (taxonomy_ids);
+```
+
+Planned updated taxonomy table:
+```sql
+CREATE TABLE taxonomy (
+  id          text primary key,
+  name        text not null,
+  hebrew      text,
+  parent_id   text references taxonomy(id),
+  category    text,
+  aliases     text[],
+  sources     text[]
+);
+CREATE INDEX ON taxonomy USING gin (aliases);
+```
+
+### Batch API Critical Config
+
+`BATCH_SIZE=100, MAX_TOKENS=8192` for all haiku batch jobs. After truncation, delete `.normalize_batch_state.json` to force fresh submission. Always check `stop_reason == "max_tokens"` — truncated JSON causes silent failures downstream.

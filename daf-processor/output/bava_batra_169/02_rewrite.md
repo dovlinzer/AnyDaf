@@ -30,7 +30,7 @@ The double-collection scheme can now be reconstructed in detail. Let us call the
 
 If Dov genuinely lost his *shtar* and was issued a replacement also bearing *achrayus*, he is now holding two *shtarot* both bearing the original date and both carrying the insurance clause. He uses the first to collect from buyer number one — a legitimate collection, since the field genuinely was seized. He then approaches Shimon: "Leave the field with me a while longer and we will go through the process again in a few years, and I will collect from buyer number two." After a suitable interval — long enough that courts and parties will have forgotten the earlier proceedings — Shimon again formally seizes the field, and Dov presents his second *shtar* to collect from buyer number two. The fraud succeeds because the two seizures are separated by enough time that nobody connects them.
 
-## Lost Documents Rule…
+## Lost Documents Rule (II)
 
 ### RSG Disagrees
 
@@ -46,7 +46,7 @@ Tosafos raises a compelling difficulty with Rabban Shimon ben Gamliel's position
 
 The practical upshot, according to Rabban Shimon ben Gamliel, is that the buyer must guard his *shtar* carefully. The Sages, by contrast, hold that returning a *shtar* does not reverse a sale — and therefore even if the seller produces a duplicate, it does not prove that the buyer voluntarily surrendered his ownership.
 
-## Achrayus & Liens…
+## Achrayus & Liens (II)
 
 ### Rav Safra Logic
 

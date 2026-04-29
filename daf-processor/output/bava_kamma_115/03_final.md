@@ -180,7 +180,7 @@ The *gemara* immediately notes the apparent tension with the *Chanan Bisha* case
 
 ---
 
-## Special Circumstances
+## Special Circumstance (II)
 
 ### Debt Payment
 
@@ -238,7 +238,7 @@ Rav Kahana challenged Ravina's reasoning on the second loan: perhaps Avimi lent 
 
 ---
 
-## Special Circumstances…
+## Special Circumstance (II)
 
 ### Narsha Sefer
 

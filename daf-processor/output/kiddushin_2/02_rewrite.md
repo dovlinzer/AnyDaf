@@ -102,7 +102,7 @@ The contrast with other applications of *kesef* as a mode of acquisition sharpen
 
 ---
 
-## Intro to Kiddushin…
+## Intro to Kiddushin (II)
 
 ### Kinyan vs. Kiddushin
 

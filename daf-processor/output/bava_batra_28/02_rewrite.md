@@ -114,7 +114,7 @@ The Gemara does raise one preliminary challenge before moving on: perhaps, just 
 
 ---
 
-## Challenge: Need for Ta'a…
+## Challenge: Need for (II)
 
 ### Gemara's Question
 
@@ -146,7 +146,7 @@ The *ta'anah* can take various forms: "I bought it from you," "you gifted it to 
 
 ---
 
-## Challenge: Need for Ta…
+## Challenge: Need for (II)
 
 ### Gemara's Answer
 

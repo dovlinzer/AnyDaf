@@ -26,7 +26,7 @@ The genuine question, as the *Gemara* frames it, is what the term *memirin* actu
 
 This framing sets the agenda for the *masechet*: the word *memirin* is about efficacy, not permission.
 
-## Sin vs Metaphysics
+## Sin vs Metaphysics (III)
 
 ### Core Question
 
@@ -94,13 +94,13 @@ The *Gemara* responds by citing Rav Yehuda in the name of Rav, and the same ruli
 
 The *Gemara* suggests: one might have thought that this principle of equating men and women applies only to prohibitions that are uniform — that apply equally at the individual and communal level. *Temurah*, however, is specifically excluded from communal application: *ein hatzibur veha'shutfin osin temurah* — neither communal *korbanot* nor partnership *korbanot* can have *temurah* performed on them. *Temurah* is uniquely the domain of the private, fully individual *korban*. Since in some sense not everyone is included — groups and partnerships are excluded — perhaps women too might have been excluded from the prohibition and its effect. The verse therefore comes to teach that they are not.
 
-## Heir Ownership…
+## Heir Ownership (II)
 
 ### Communal vs Partnership
 
 It is worth noting here a point of distinction between *korban tzibur* — a communal sacrifice representing all of *Klal Yisrael* — and a *korban shutfin*, a partnership sacrifice of a small group. These are different categories. The earlier discussion comparing *semichah* and *temurah* in the context of ownership was primarily about whether one is considered the owner at all. The exclusion of *shutfin* from *temurah* is not precisely the same as saying they are not the owners; rather, it reflects a different quality of ownership — not the intense personal relationship that *temurah* requires. This is an important nuance: the discussion of ownership for the purposes of *semichah* and the discussion of what kind of *korban* is eligible for *temurah* are related but not identical considerations.
 
-## Women & Temurah…
+## Women & Temurah (II)
 
 ### Speech Act
 
@@ -110,7 +110,7 @@ There is a further reason the *Gemara* considers why women might have been exclu
 
 Rashi acknowledges that this remains an odd *hava amina*: the general principle is that wherever the Torah does not explicitly exclude women, the use of *lashon zachar* does not suffice to exclude them. Still, the *Gemara* is trying to articulate what *kind* of reasoning one would have needed to overcome in order to include women — and the double novelty of *temurah*, both as a violation that takes effect despite being prohibited and as a violation achieved through speech alone, provides at least a theoretical basis for questioning the default inclusion.
 
-## Sin vs Metaphysics…
+## Sin vs Metaphysics (III)
 
 ### Minor Case
 
@@ -132,7 +132,7 @@ The *Gemara* leaves the question unresolved, and then introduces a conditional f
 
 This conditional leads directly to the parallel case of the non-Jew: *oved kochavim mahu she'yamir* — can a non-Jew perform *temurah*? The *Gemara* notes that a non-Jew does have the power to sanctify. The *baraita* derives this from the double expression *ish ish* — "any man" who brings a *korban* — understood as inclusive of non-Jews, who may make *nedarim* and *nedavot* like Jews. So he has *kedushah* capacity. Yet he is not merely not yet subject to the laws of *temurah* — he will never be. He is categorically outside the prohibition. The question is whether this categorical exclusion also removes the metaphysical efficacy of his act.
 
-## Sin vs Metaphysics……
+## Sin vs Metaphysics (III)…
 
 ### Frameworks
 
@@ -140,7 +140,7 @@ At this point the *Gemara* draws out the two frameworks clearly. One way to unde
 
 The second way to frame the question is not about sin at all, but about membership in the *parsha* — in the halachic category. Many halachic acts require the performer to belong to a certain category. *Shechita*, for instance, requires a Jew; a minor can perform it validly, but a non-Jew cannot. This has nothing to do with whether there is a *mitzvah* on the Jew and not the non-Jew — it is about being within the *parsha*, the framework of the relevant halachot. On this reading, the minor who will become an adult is within the *parsha* of *temurah*, and therefore the metaphysics of *temurah* apply to him; a non-Jew who stands permanently outside the *parsha* is beyond its reach. The underlying question — whether *temurah*'s effect is about sin or about the metaphysics of *kedushah* — remains the animating concern.
 
-## Non-Jew Case…
+## Non-Jew Case (II)
 
 ### Weaker Kedusha
 

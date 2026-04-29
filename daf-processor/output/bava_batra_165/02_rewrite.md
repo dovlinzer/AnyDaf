@@ -170,7 +170,7 @@ There is something quietly resonant in this question given the narrative context
 
 *Ve-al da ayiluhi le-Rabbi Yirmiyah le-vei midrasha* — and because of this, they brought Rabbi Yirmiyah back into the *beit midrash*. Whether it was the wisdom of his answers, the humility with which he delivered them, or some unspoken mutual desire for reconciliation, he was restored. The one who had been expelled for asking what happens when something is partly inside and partly outside was now brought fully back inside.
 
-## Shtar Be-Ed Echad…
+## Shtar Be-Ed Echad (II)
 
 ### Tosafot's Limitation
 

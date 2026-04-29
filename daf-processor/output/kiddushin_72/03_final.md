@@ -234,7 +234,7 @@ There is something poignant in this reading. The *Gemara* is drawing on the prof
 
 ---
 
-## Future Purification…
+## Future Purification (II)
 
 ### Yechezkel's Vision
 

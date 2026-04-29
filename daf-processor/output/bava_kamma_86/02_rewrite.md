@@ -12,7 +12,7 @@ Several concrete examples illustrate this principle. A person whose hand has bee
 
 ---
 
-## Rava's Multiple Injuries
+## Rava's Multiple Inju (II)
 
 ### Successive Injuries
 
@@ -24,7 +24,7 @@ The practical consequence of this question — the *nafka mina* — turns on *tz
 
 ---
 
-## Shevet Overview…
+## Shevet Overview (II)
 
 ### Tzaar & Boshet
 
@@ -32,7 +32,7 @@ It is worth clarifying the conceptual distinction at stake. *Nezek*, *shevet*, a
 
 ---
 
-## Rava's Multiple Injuri…
+## Rava's Multiple Inju (II)
 
 ### Assessment Method
 

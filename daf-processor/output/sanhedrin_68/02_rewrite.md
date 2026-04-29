@@ -14,13 +14,13 @@ It is worth noting that the *gemara* earlier, in dealing with the *issur* of *ki
 
 The *gemara* opens 68a with a challenge to the *mishnah*. Since Rabbi Akiva cites Rabbi Yehoshua as his source, the *gemara* asks: *amar Rabbi Akiva me-Rabbi Yehoshua gemar lei?* — did Rabbi Akiva really learn this from Rabbi Yehoshua? A *brayta* is cited suggesting he actually learned it from Rabbi Eliezer, his primary *rebbe*. The *gemara* thus poses a tension: the *mishnah* attributes the teaching to Rabbi Yehoshua, while the *brayta* points to Rabbi Eliezer.
 
-## Opening & Arba Mitot…
+## Opening & Arba Mitot (II)
 
 ### Illusion vs. Actual Deed
 
 The clarification is that Rabbi Akiva in fact learned from both. He received the teaching from Rabbi Eliezer, and he also received it — with fuller comprehension — from Rabbi Yehoshua. This resolution will be elaborated upon after the *gemara* recounts the famous narrative surrounding Rabbi Eliezer's death.
 
-## Rabbi Akiva's Source…
+## Rabbi Akiva's Source (II)
 
 ### Rabbi Eliezer Background
 

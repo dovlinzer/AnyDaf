@@ -100,7 +100,7 @@ The Gemara resolves this: for *Rabban Shimon ben Gamliel*, *netushin* is *k'shvu
 
 ---
 
-## Three Categories…
+## Three Categories (II)
 
 ### Captive vs. Overseas
 
@@ -112,7 +112,7 @@ A question arises as to why these two cases are treated differently. Rashi's exp
 
 ---
 
-## Aris Sharecropping…
+## Aris Sharecropping (II)
 
 ### Psychology of Aris
 
@@ -156,7 +156,7 @@ This is qualified by a teaching of Rav Yehuda in the name of Shmuel. If a *shavu
 
 ---
 
-## Boreach Runaway…
+## Boreach Runaway (II)
 
 ### Tax vs. Murder
 
@@ -168,7 +168,7 @@ The case of the *boreach* must be specified further. If someone is running from 
 
 ---
 
-## Harvest vs. Tilling…
+## Harvest vs. Tilling (II)
 
 ### Apotropus Limits
 

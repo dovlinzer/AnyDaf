@@ -164,7 +164,7 @@ If a cleaver is found tied together with a *shechitah* knife — *nimtzeit keshu
 
 ---
 
-## Spittle Purity…
+## Spittle Purity (II)
 
 ### Non-Jewish Presence
 

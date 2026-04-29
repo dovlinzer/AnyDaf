@@ -94,7 +94,7 @@ By contrast: *zeh omer ad ha-ziz ve-zeh omer ad ha-chalon* — one says the hous
 
 ---
 
-## Excluded Objects…
+## Excluded Objects (II)
 
 ### Kelal-Prat-Kelal
 
@@ -116,7 +116,7 @@ As noted, the question of whether a *shomer* retains any *chiyuv shemira* — an
 
 ---
 
-## Quantifiability…
+## Quantifiability (II)
 
 ### Rava's Standard
 

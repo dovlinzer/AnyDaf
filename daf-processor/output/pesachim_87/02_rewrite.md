@@ -190,7 +190,7 @@ Rabbi Yochanan extends this further, citing the verse *ve-richamti et Lo Ruchama
 
 ---
 
-## Commentary Authority…
+## Commentary Authority (II)
 
 ### Scattering Kindness
 

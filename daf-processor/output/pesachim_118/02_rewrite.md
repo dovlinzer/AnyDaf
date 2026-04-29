@@ -164,7 +164,7 @@ The *rishonim* raise a pointed question: why does the *mishnah* need to specify 
 
 ---
 
-## Hallel Completion…
+## Hallel Completion (II)
 
 ### Ending Formula
 

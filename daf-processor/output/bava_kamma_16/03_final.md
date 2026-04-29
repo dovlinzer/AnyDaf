@@ -104,7 +104,7 @@ Tosafot takes a more restrictive view, attempting to confine the lion's characte
 
 ---
 
-## Animal Identity & Lore
+## Animal Identity & Lo (II)
 
 ### Domestication Doctrine
 
@@ -148,7 +148,7 @@ Ravina presses this point further using a later *mishnah*. The later *mishnah* i
 
 ---
 
-## Five Tam, Five Muad…
+## Five Tam, Five Muad (II)
 
 ### Ravina's Rewrite
 
@@ -208,7 +208,7 @@ The *gemara* resolves the tension: *dilma min ha-tzad* — crushing here means n
 
 ---
 
-## Animal Identity & Lore
+## Animal Identity & Lo (II)
 
 ### Bordelis Identity
 

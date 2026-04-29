@@ -1,6 +1,6 @@
 # Bava Metzia 118 — Daf Yomi Shiur
 
-## Roof Collapse Rights
+## Roof Collapse Rights (II)
 
 ### Cliff Structure
 
@@ -16,7 +16,7 @@ The *mishna* presumably reflects a real-world scenario — such arrangements wou
 
 The *mishna* states: if the roof collapsed — *v'nifchas* — the owner of the garden (*ba'al hagina*) may descend and plant below, *ad she'ya'aseh l'veit bado kipin*, until the owner of the *beit habad* constructs arched vaults to restore the roof. In other words, if the person responsible for the roof fails to repair it, the garden owner may come and plant in the space below — within or around the *beit habad* — until the roof is restored. It is a curious remedy, since the *beit habad* is not obviously ideal for planting, but the *mishna* may contemplate adjacent space below, and in any case it functions as a parallel to the earlier rule that a tenant in an *aliya* (upper story) whose floor has collapsed may move into the space below until repairs are made. This is a variation on the same principle: the party who suffers the loss of use has a remedy against the party responsible for the structural failure.
 
-## Collapsed Wall Liability
+## Collapsed Wall Liabi (II)
 
 ### Ones Exemption
 
@@ -48,7 +48,7 @@ The *mishna* turns to a further case, one that moves from the domain of *nezikin
 
 On the other hand, *mishekiblo alav* — if the yard owner agreed to the arrangement and accepted the stones, and then the wall owner returns and says *heilech et yetziat'cha v'ani etol et sheli* — "I will pay your expenses for clearing it and I want my stones back" — *ein shom'in lo*. Once the yard owner has agreed and cleared away the rubble, the arrangement is binding and cannot be reversed. The *gemara* will probe both of these rulings in greater depth.
 
-## Rubble Agreement
+## Rubble Agreement (II)
 
 ### Cannot Force
 
@@ -82,7 +82,7 @@ The obvious question is: why can the employer not pay in straw *lechatchila*? Th
 
 *Tosafot* in the beginning of *Bava Kamma* elaborates on the broader question of *shaveh kesef k'kesef*, identifying wages and loan repayment as two areas where the principle may not apply in the usual way: if one borrowed cash, one must return cash; if one agreed to pay wages, cash is implicitly required.
 
-## Collapsed Wall Liability (continued)
+## Collapsed Wall Liabi (II)
 
 ### Mafkir Defense
 
@@ -94,7 +94,7 @@ Could the same logic apply here? If my wall collapses into your yard and I immed
 
 The *halacha* that emerges is significant: if a wall collapses into another's yard and the owner was an *ones*, and he genuinely declares *mafkir* before any negligence, he is exempt even without removing the rubble. The case in the *mishna* is distinguished because the purported *mafkir* is not genuine.
 
-## Roof Collapse Rights (continued)
+## Roof Collapse Rights (II)
 
 ### Rav vs Shmuel
 
@@ -118,7 +118,7 @@ Had the *gemara* only taught the case of a domicile, one might have concluded th
 
 Conversely, had only the planting case been taught, one might have concluded that Rav's majority requirement applies there because splitting a field is manageable, but perhaps even Rav would concede that in a domicile any small breach allows full relocation. *Tzricha* — each case is necessary to establish that both Rav and Shmuel maintain their respective positions regardless of whether the space in question is a residence or an agricultural field.
 
-## Rubble Agreement (continued)
+## Rubble Agreement (II)
 
 ### Immediate Kinyan
 

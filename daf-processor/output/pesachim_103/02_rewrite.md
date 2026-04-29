@@ -136,7 +136,7 @@ One further point bears emphasis: *borei meorei ha-esh* is a *birkas hashevach*,
 
 ---
 
-## Multiple Wines One Meal
+## Multiple Wines One M (II)
 
 ### Two Boruchs?
 
@@ -186,7 +186,7 @@ This explains what is otherwise structurally puzzling: why is the *borei pri hag
 
 ---
 
-## Multiple Wines One Mea…
+## Multiple Wines One M (II)
 
 ### Tosafot Wine Discussion
 

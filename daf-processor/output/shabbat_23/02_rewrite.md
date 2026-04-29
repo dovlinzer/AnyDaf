@@ -34,7 +34,7 @@ Rabbi Yehoshua ben Levi's ruling — *nashim chayavot b'ner Chanukah she'af hen 
 
 ---
 
-## Hadlaka vs. Hanacha…
+## Hadlaka vs. Hanacha (II)
 
 ### Alternative Framework
 
@@ -48,7 +48,7 @@ One might also note that from a *hanacha*-as-duration perspective, it would be s
 
 ---
 
-## Women & Af Hen Hayu…
+## Women & Af Hen Hayu (II)
 
 ### Two Interpretations
 
@@ -172,7 +172,7 @@ The *Gemara* cites a *baraita*: Rabbi Shimon ben Elazar teaches that the Torah r
 
 ---
 
-## Oils & Configuration…
+## Oils & Configuration (II)
 
 ### Two-Spout Lamp
 

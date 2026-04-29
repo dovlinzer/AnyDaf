@@ -42,7 +42,7 @@ To illustrate with grain: if wheat is planted in one year and growing, but does 
 
 ---
 
-## Sukkot Proof & Challenges
+## Sukkot Proof & Chall (II)
 
 ### Source of Third
 
@@ -172,7 +172,7 @@ But the *gemara* notes that this same reasoning cuts against the proof. If one i
 
 ---
 
-## Sukkot Proof & Challen…
+## Sukkot Proof & Chall (II)
 
 ### Asif Language Challenge
 

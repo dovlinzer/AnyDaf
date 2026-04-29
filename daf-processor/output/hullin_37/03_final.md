@@ -131,7 +131,7 @@ The *gemara* now applies this to *mesukenet*. *v'ei salka da'atach treifah hainu
 
 ---
 
-## Three Categories…
+## Three Categories (II)
 
 ### Rashi: Continuum
 

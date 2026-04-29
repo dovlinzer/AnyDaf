@@ -134,7 +134,7 @@ Despite the local coherence of each of Bar Kappara's arguments, the Gemara is go
 
 ---
 
-## Simultaneous Prohibitions
+## Simultaneous Prohibi (II)
 
 ### All Three Are Kolel
 
@@ -142,7 +142,7 @@ The Gemara now asks: *be-mai kamiflagi* — what is the underlying dispute betwe
 
 ---
 
-## Simultaneous Prohibiti…
+## Simultaneous Prohibi (II)
 
 ### R. Chiya on Kolel
 
@@ -166,7 +166,7 @@ The Gemara therefore proposes a reframing: *kamiflagi be-issur bat achat* — th
 
 ---
 
-## Mosif vs. Kolel…
+## Mosif vs. Kolel (II)
 
 ### Application to Yevamot
 

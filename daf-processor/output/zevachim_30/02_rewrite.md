@@ -112,7 +112,7 @@ The *gemara* now attempts to resolve the question of the *mishnah*'s correct *gi
 
 ---
 
-## Final Synthesis…
+## Final Synthesis (II)
 
 ### Bundling Exception
 
@@ -124,7 +124,7 @@ When two discrete *kezayitim* are involved — even with the conjunctive *vav* l
 
 ---
 
-## Text Girsa…
+## Text Girsa (II)
 
 ### One Q, Two Answers
 

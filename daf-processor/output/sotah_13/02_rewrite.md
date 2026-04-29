@@ -94,7 +94,7 @@ The *Gemara* raises a question about the earlier *pasuk*: if Yosef's brothers we
 
 ---
 
-## Yosef-Moshe Parallel…
+## Yosef-Moshe Parallel (II)
 
 ### Moshe's Care
 

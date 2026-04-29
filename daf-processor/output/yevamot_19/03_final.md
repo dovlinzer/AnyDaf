@@ -108,7 +108,7 @@ The *gemara* provides two scenarios in which *eishes achiv shelo hayah be'olamo*
 
 ---
 
-## Zika Kkenussa Damya…
+## Zika Kkenussa Damya (II)
 
 ### Zika Definition
 

@@ -272,7 +272,7 @@ The larger pattern running through this entire section is now legible: the archi
 
 ---
 
-## Collectors & Thieves
+## Collectors & Thieves (II)
 
 ### Tax Collectors
 
@@ -284,7 +284,7 @@ The Mishnah states: *ha-gabba'im she-nichnesu le-toch ha-bayis* — tax collecto
 
 ---
 
-## Yom Tov Belief
+## Yom Tov Belief (II)
 
 ### Festival Rule
 
@@ -296,7 +296,7 @@ The Mishnah then arrives at its culminating principle: *u-bi-sha'as ha-regel af 
 
 ---
 
-## Collectors & Thieves Revisited
+## Collectors & Thieves (II)
 
 ### Supervisor Present
 
@@ -328,7 +328,7 @@ A further question remains implicit: why are these people — tax collectors and
 
 ---
 
-## Yom Tov Belief Continued
+## Yom Tov Belief (II)
 
 ### Sukkot Lead-in
 

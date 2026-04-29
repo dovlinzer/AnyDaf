@@ -106,7 +106,7 @@ At this point the *gemara* introduces the passage familiar from Pirkei Avot: *af
 
 ---
 
-## Hillel's Teaching…
+## Hillel's Teaching (II)
 
 ### Legs Guarantors
 
@@ -118,7 +118,7 @@ Rabbi Yochanan offers a related reflection on the phrase *sham raglai molichot o
 
 ---
 
-## Skull & Angel…
+## Skull & Angel (II)
 
 ### Shlomo & Luz
 

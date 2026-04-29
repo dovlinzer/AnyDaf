@@ -132,7 +132,7 @@ The quota is: five *sela'im* of warp (*sheti*) per week in Judea, which equals t
 
 ---
 
-## Separate Maintenance…
+## Separate Maintenance (II)
 
 ### Nursing Mother
 

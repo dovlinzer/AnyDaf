@@ -144,7 +144,7 @@ Rabbi Yossi illustrates his position with the historical case of Yosef ben Eilim
 
 ---
 
-## Par Korban…
+## Par Korban (II)
 
 ### Mishnah Resolution
 

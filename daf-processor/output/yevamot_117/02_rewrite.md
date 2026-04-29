@@ -72,7 +72,7 @@ Yet the *Gemara* raises a counterargument: *ho'il v'lo yad'a be-mai mistaryah* â
 
 ---
 
-## Rav Nachman Intentâ€¦
+## Rav Nachman Intent (II)
 
 ### Agunah Concern
 

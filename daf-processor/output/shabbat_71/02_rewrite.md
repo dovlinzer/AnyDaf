@@ -160,7 +160,7 @@ Reish Lakish's answer to the latter is that the verse applies *l'achar kapparah*
 
 ---
 
-## Atonement Timing…
+## Atonement Timing (II)
 
 ### Complex Scenario
 

@@ -154,7 +154,7 @@ The assumption that the blemished piece was the one already offered removes the 
 
 ---
 
-## Assumption Strategy…
+## Assumption Strategy (II)
 
 ### Pairs Requirement
 

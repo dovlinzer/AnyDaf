@@ -198,7 +198,7 @@ The upshot, according to *Tosafos* and the *Rosh*, is: a normal *tevul yom* of a
 
 ---
 
-## Modern Har Habayit…
+## Modern Har Habayit (II)
 
 ### Significance
 

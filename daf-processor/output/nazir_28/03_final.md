@@ -164,7 +164,7 @@ The positions of the *Tanna Kamma* and Rabbi Akiva thus represent different thre
 
 ---
 
-## Tamei & Shaving
+## Tamei & Shaving (II)
 
 ### Tamei Case
 
@@ -214,7 +214,7 @@ If the first animal slaughtered had been the *olah* or the *shelamim*, Rabbi Aki
 
 ---
 
-## Tamei & Shaving (Conclusion)
+## Tamei & Shaving (II)
 
 ### Wig Debate
 

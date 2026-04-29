@@ -302,7 +302,7 @@ One additional requirement accompanies redemption: *tzarich la'asos damim* — t
 
 ---
 
-## Tmura vs. Mechulal
+## Tmura vs. Mechulal (II)
 
 ### Conceptual Problem
 
@@ -322,7 +322,7 @@ The wrongfulness of *tmurah* can be understood in terms of proper procedural dig
 
 ---
 
-## Tmura vs. Mechulal Distinction
+## Tmura vs. Mechulal (II)
 
 ### Atpusei Concept
 

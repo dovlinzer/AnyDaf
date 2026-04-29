@@ -42,7 +42,7 @@ The *Gemara* then adds a brief but important note: if this *kattan* had simply c
 
 This point is underscored by a *tannaic* teaching: *shoteh* — a person of unsound mind — and *katan* — a minor — who contracted marriage and died: their wives are entirely exempt from both *chalitzah* and *yibum*. The marriage of a *shoteh* or *katan* carries no halachic recognition. The *Gemara* notes that the classic triad of those lacking legal capacity — *shoteh*, *katan*, and *cheresh* — is only partially represented here, since the Rabbis did institute *kiddushin* and *nisuin* for a *cheresh* at least on a rabbinic level, which is why the *cheresh* is treated differently and not mentioned in this context.
 
-## Underage Kiddushin…
+## Underage Kiddushin (II)
 
 ### Rav Ashi vs. Shmuel
 
@@ -112,7 +112,7 @@ The source for why this matters: Any *talmid chacham* whose *Torah* is transmitt
 
 Rabbi Yochanan's concern was not vanity but this: the transmission of *Torah* in a teacher's name is the mechanism by which a *talmid chacham* remains present in this world even after death. When his student taught his insight without attribution, Rabbi Yochanan felt that something vital had been severed — not his reputation, but his continued living connection to this world. The *Gemara* notes that the *pasuk* in *Shir Hashirim* invoked here is also from Shlomo, making it in some sense an apt citation in this context.
 
-## Capacity & Status…
+## Capacity & Status (II)
 
 ### Saris Definition
 

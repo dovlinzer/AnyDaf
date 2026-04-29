@@ -100,7 +100,7 @@ Rashi makes this point sharply. The full verse reads *v'hisnachaltem osam livnei
 
 ---
 
-## Ownership Concept
+## Ownership Concept (II)
 
 ### Michael's Question
 
@@ -130,7 +130,7 @@ The overarching conclusion is significant: an *eved Ivri* has *kesef* and *shtar
 
 ---
 
-## Ownership Concept (Slave's Self-Redemption)
+## Ownership Concept (II)
 
 ### Braita Sources
 

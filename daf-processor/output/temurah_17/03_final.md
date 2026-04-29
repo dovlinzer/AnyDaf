@@ -52,7 +52,7 @@ The *mishnah* continues: *Rabbi Yose berabbi Yehuda omer, asah shogeg kemezid be
 
 This does not mean, it should be noted at the outset, that these animals cannot be sanctified at all. What is excluded is *kedushat haguf* — intrinsic sanctity, the sanctity of an animal designated for the altar. They can still be subject to *kedushat damim*, monetary sanctity, much like sanctifying a car or a woodpile. But *kedushat haguf* is foreclosed to them. Nor can they serve as the source from which *temurah* is generated, since *temurah* can only flow from something that already possesses *kedushat haguf*. The *gemara* will explore all of this further below.
 
-## Shogeg kemezid…
+## Shogeg kemezid (II)
 
 ### Lokeh vs. Kadosh
 
@@ -112,7 +112,7 @@ By *temurah*, the advance declaration of intent frames the subsequent act, and l
 
 Stepping back, these cases appear to reflect two different lines of analysis: some answers treat the *chiddush* as concerning lashes, others as concerning the effect. Different *amora'im* may have understood Rabbi Yose berabbi Yehuda's statement differently, and the underlying dispute between the *ba'alei hatosafot* is really a dispute among the *amora'im* themselves. If the *chiddush* concerns lashes, then something deeply unusual is being asserted — that one can receive *malkot* even without full willfulness — and the *gemara* works hard to limit such cases as narrowly as possible. If the *chiddush* concerns effect, then the *gemara* is explaining why *temurah* can succeed even where a direct act of sanctification would fail, on the reasoning that transferring existing *kedusha* requires less precision than creating it from nothing.
 
-## Excluded Animals…
+## Excluded Animals (II)
 
 ### Shmuel Position
 

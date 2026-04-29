@@ -82,7 +82,7 @@ This speaks to a broader phenomenon: the conscious integration of communal welfa
 
 *Tosafot* raises a sharp objection. Across the broader corpus of *Gemaros*, there is no evidence anywhere for the position that a woman who definitely had five separate births is exempt from bringing five *korbanos*. If five *leidot* are *vadai*, surely five *korbanos* are obligatory. *Tosafot* therefore argues that the correct *girsa* of the *Beraita* in the case of definite births is not *ve-ein ha-she'ar aleha chova* but rather *ve-ha-she'ar aleha chova* — the remainder is indeed obligatory. What Rabban Shimon ben Gamliel corrected was not the total number of *korbanos* owed, but the urgency of bringing them all before she could eat *zevachim*. The prior accepted practice, apparently, was that a woman had to bring all outstanding *korbanos* before she fully achieved *tahara*. Rabban Shimon taught that one *korban* suffices to permit eating *zevachim*, and the rest she may bring at her leisure. By removing the urgency — by telling women they need only purchase one *kan* immediately and could worry about the rest later, when prices might be more favorable — he effectively collapsed demand and with it the price.
 
-## Zahav bi-Dinarin…
+## Zahav bi-Dinarin (II)
 
 ### Tosafot Grammar
 

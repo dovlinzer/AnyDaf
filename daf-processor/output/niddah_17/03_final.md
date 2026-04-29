@@ -146,7 +146,7 @@ The fifth category: one who performs bloodletting and then has marital relations
 
 Rav qualifies: *velo amran ela dela ta'im midei* — this is only a concern if the person did not eat after the bloodletting. If one ate something (*aval ta'im midei*), then *leit lan bah* — it is not a consideration. The parallel to the modern practice of providing food and drink after blood donation is obvious enough.
 
-## Sex & Light…
+## Sex & Light (II)
 
 ### Rav Chisda & Abaye
 

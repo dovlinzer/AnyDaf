@@ -1,6 +1,6 @@
 # Shabbat 135 — Daf Yomi Shiur
 
-## Exceptions to Bris Milah
+## Exceptions to Bris M (II)
 
 ### Safek, Androgynos, Bein
 
@@ -48,7 +48,7 @@ The position that requires nothing — neither *hatafat dam bris* nor anything e
 
 The position that requires *hatafat dam bris* on a weekday holds that even when the foreskin is not covering the organ, there remains a ritual act to perform — and that act must be understood as something done in relation to a foreskin. Hence the necessity of positing a buried foreskin. But this position, taken to its logical conclusion, raises a further question: if there truly is a buried foreskin and one is genuinely performing an act of *bris milah* upon it, should that not override *Shabbat*? Which leads to the final position: that *hatafat dam bris* does override *Shabbat*, because the buried foreskin is certainly present and the act of drawing blood upon it constitutes a genuine performance of the *mitzvah*.
 
-## Exceptions to Bris Mil…
+## Exceptions to Bris M (II)
 
 ### Safek - Viability Doubt
 

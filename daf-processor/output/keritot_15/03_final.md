@@ -450,7 +450,7 @@ The refined question: *ela b'ocheil notar mechamesh zevachim b'helem echad* — 
 
 ---
 
-## Five Pots Case…
+## Five Pots Case (II)
 
 ### R. Yehoshua
 
@@ -464,7 +464,7 @@ If one sacrifice prepared five ways generates five obligations, then certainly f
 
 ---
 
-## Me'ilah Notar…
+## Me'ilah Notar (II)
 
 ### R. Akiva
 

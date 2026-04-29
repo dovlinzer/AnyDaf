@@ -62,7 +62,7 @@ The *chidush* in the *braita* is that while the owner and the worker are exempt 
 
 ---
 
-## Vineyard Derasha…
+## Vineyard Derasha (II)
 
 ### Until Full
 

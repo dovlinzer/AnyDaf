@@ -64,7 +64,7 @@ The second *braita* is cited in parallel. A *kohen* was bringing the *minchat ne
 
 ---
 
-## Fixed Time Key
+## Fixed Time Key (II)
 
 ### Par Avodah Zarah
 
@@ -110,7 +110,7 @@ This also explains the instruction *hevei pikeach ve-shtok*. The *korban* is not
 
 ---
 
-## Fixed Time Key (continued)
+## Fixed Time Key (II)
 
 ### Korban Categories
 

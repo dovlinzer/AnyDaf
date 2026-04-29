@@ -80,7 +80,7 @@ The case where one person does both *arichah* and *afiyah* is the more conceptua
 
 ---
 
-## Mechametz Achar Mechametz
+## Mechametz Achar Mech (II)
 
 ### Universal Consensus
 
@@ -114,7 +114,7 @@ The *chachamim*'s position is implicitly grounded in the principle of *davar she
 
 ---
 
-## Mechametz Achar Mecham…
+## Mechametz Achar Mech (II)
 
 ### Castration Analogy
 
@@ -132,7 +132,7 @@ All authorities agree on this case. The dispute, as the *Gemara* will now make c
 
 ---
 
-## Blemish on Bechor…
+## Blemish on Bechor (II)
 
 ### Second Blemish Consensus
 

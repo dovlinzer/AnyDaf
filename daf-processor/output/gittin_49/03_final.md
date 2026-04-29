@@ -66,7 +66,7 @@ Rabbi Akiva's position is based on a simple reading of the verse's syntax. *Meit
 
 ---
 
-## Ishmael's View…
+## Ishmael's View (II)
 
 ### Grade Mismatch
 
@@ -82,7 +82,7 @@ So on Rabbi Yishmael's account, the framework is: you begin with the *nizak*'s b
 
 ---
 
-## Akiva's View…
+## Akiva's View (II)
 
 ### Hekdesh Kal Vachomer
 

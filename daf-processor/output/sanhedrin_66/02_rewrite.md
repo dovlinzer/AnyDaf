@@ -122,13 +122,13 @@ The list continues: *beno koreh lo me-achorav* — his son called to him from be
 
 Closely related is the matter raised under the heading *al tatchil bi*: "don't start with me." Rashi illustrates with the example of a tax collector: if someone comes to collect from you, you say, "Don't start with me — ask someone else first, come to me second." The underlying concern is that being the first target of an unfortunate event early in the day will be a *siman ra* for the rest of the day. This represents the superstitious belief that one's fortune for a given period is set by what happens at its beginning.
 
-## Me'onein Forms…
+## Me'onein Forms (II)
 
 ### Rosh Hashanah Simanim
 
 This naturally raises a question with considerable practical relevance, particularly around this time of year: what about the *simanim* of Rosh Hashanah — the symbolic foods? Are those not precisely this kind of omen-reading? The distinction drawn in the *poskim* is fundamental. The *simanim* are not predictions and not signs in the operative sense; they are symbolic and aspirational. The formula *yehi ratzon* — may it be Your will — frames them explicitly as a prayer and an expression of hope, not as a reading of what the future will be based on what is happening now. The forbidden form of omen-reading is *causative*: "because this occurred, this outcome is predicted." The *simanim* of Rosh Hashanah are the opposite: they are acts of symbolic expression and aspiration toward a desired future, directed toward God.
 
-## Daily Superstitions…
+## Daily Superstitions (II)
 
 ### Weekly Timing
 

@@ -134,7 +134,7 @@ These questions bear directly on contemporary practice. *Sicha* — applying oil
 
 ---
 
-## Knotting & Unknotting
+## Knotting & Unknottin (II)
 
 ### Tent Stakes
 

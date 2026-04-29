@@ -82,7 +82,7 @@ The logic maps onto five categories of mishap: *met, nishbar, nishba, avad, nign
 
 ---
 
-## Shomer Chinam Cases…
+## Shomer Chinam Cases (II)
 
 ### Death Claim (Multiple)
 
@@ -96,7 +96,7 @@ The *shomer chinam* is exempt regardless. Whatever he says happened, and whateve
 
 ---
 
-## Four Guards Overview…
+## Four Guards Overview (II)
 
 ### Monetary Outcome Rule
 
@@ -112,7 +112,7 @@ The question immediately arises: even if the monetary outcome is identical, the 
 
 ---
 
-## Shomer Chinam Cases…
+## Shomer Chinam Cases (II)
 
 ### Ignorance Claim
 

@@ -20,7 +20,7 @@ This ruling prompted the Gemara to challenge Rabbi Avyasar's reliability. The cr
 
 ---
 
-## Rabbi Avyasar Defense
+## Rabbi Avyasar Defens (II)
 
 ### Avyasar Divine Alignment
 
@@ -48,7 +48,7 @@ It is striking that this *aggadata* appears at the opening of *Masechet Gittin*,
 
 ---
 
-## Domestic Ethics
+## Domestic Ethics (III)
 
 ### Pre-Shabbat Statements
 
@@ -60,7 +60,7 @@ Abaye adds: *ana lo shmiyena le'ha de'Rabbah bar bar Chana* — I never heard th
 
 ---
 
-## Rabbi Avyasar Defense…
+## Rabbi Avyasar Defens (II)
 
 ### Rabbi Chanina's Fear
 
@@ -112,7 +112,7 @@ Tosafot clarifies what is actually prohibited. Rashi explains that the prohibiti
 
 ---
 
-## Music Prohibition…
+## Music Prohibition (II)
 
 ### Rabbinic Origin
 
@@ -168,7 +168,7 @@ Rav Avira expounded again — sometimes in the name of Rav Ami, sometimes in the
 
 ---
 
-## Domestic Ethics…
+## Domestic Ethics (III)
 
 ### Charity Derasha
 
@@ -176,7 +176,7 @@ Rav Avira expounded again — sometimes in the name of Rav Ami, sometimes in the
 
 ---
 
-## Livelihood Derasha…
+## Livelihood Derasha (II)
 
 ### Shearing Property
 
@@ -188,7 +188,7 @@ This is illustrated through a parable of two sheep crossing a body of water. One
 
 ---
 
-## Domestic Ethics……
+## Domestic Ethics (III)…
 
 ### Poor Giving Charity
 

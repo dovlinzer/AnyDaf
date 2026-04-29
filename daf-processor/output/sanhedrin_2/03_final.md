@@ -132,7 +132,7 @@ The passage above already covers this with the statement *Ha-hekdeshos bishlosha
 
 ---
 
-## Capital Crimes (23)
+## Capital Crimes (23) (23)
 
 ### Capital Crime Baseline
 
@@ -162,7 +162,7 @@ Why mention these animals at all? Because it sets up the disagreement that follo
 
 ---
 
-## High Court (71)
+## High Court (71) (71)
 
 ### Tribe, Prophet, Kohen Gadol
 

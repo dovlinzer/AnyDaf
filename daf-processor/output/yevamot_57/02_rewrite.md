@@ -1,6 +1,6 @@
 # Yevamot 57 — Daf Yomi Shiur
 
-## Forbidden Marriage Status
+## Forbidden Marriage S (II)
 
 ### Daf Overview
 
@@ -18,7 +18,7 @@ Why does *chalalah* status matter if she is already forbidden to a *kohen*? For 
 
 All of the above consequences attach after the act of *bi'ah*. But the *mishnah* raises the case of *erusin* alone — *erusin* with a *kohen* in circumstances where the eventual *nisuin* would constitute an *issur*. The *tanna kamma* of the *mishnah*, whom the *gemara* will identify as Rebbi Meir, rules: *min ha-erusin lo yokhelu bi-trumah* — even during *erusin*, she may not eat *terumah*. Since *erusin* is but one step removed from *nisuin*, and there is no purpose to *erusin* unless one intends to proceed to *chuppah* and *nisuin*, Rebbi Meir treats the situation as though *bi'ah* is already imminent. She is therefore regarded as quasi-*chalalah* — at least rabbinically — and she cannot eat *terumah*.
 
-## Forbidden Marriage Sta…
+## Forbidden Marriage S (II)
 
 ### Chalalah Status
 
@@ -26,7 +26,7 @@ Before proceeding to the opposing positions, the case requires clarification. Th
 
 The more straightforward approach — that of Tosafot — reads the case as one involving a *bat kohen* married to a *kohen*. She is already entitled to eat *terumah* by virtue of her father's household. The question, therefore, is not what entitles her to eat, but whether something now disqualifies her. Does the *erusin* to a *kohen* — when it would eventually ripen into a forbidden *nisuin* — strip her of her existing entitlement to eat *terumah*?
 
-## Erusin vs Nisuin…
+## Erusin vs Nisuin (II)
 
 ### R. Eliezer & Shimon
 
@@ -150,7 +150,7 @@ Now, if Rebbi Eliezer ben Yaakov's rule is that a *yisraelit* mother enables the
 
 The *gemara* then adduces a *baraita* brought by Rav Aha bar Katinah from the south. The *baraita* asks: *minayin le-ptzua daka kohen she-nasa bat gerim she-ma'achilah bi-trumah?* — how do we know that a *ptzua daka kohen* who married a *bat gerim* may enable her to eat *terumah*? It derives this from the verse *ve-kohen ki yikneh nefesh kinyan kaspo hi yokhal bo*. The *gemara* immediately asks: according to whose opinion is this *baraita* needed? According to Rebbi Yehuda — it contradicts his position, since he holds she cannot eat. According to Rebbi Yossi — no verse is needed, since either way she may eat. It must therefore be according to Rebbi Eliezer ben Yaakov, whose position left open the question of the *ptzua daka*'s case. And from the *baraita* we learn: *kashira hi ve-tosaf bah acher* — she is *kashira*, more fit to marry a *kohen*, but no additional *kedushah* is added to place her in the *kehal Hashem* category. Therefore the *ptzua daka kohen* can marry her and enable her to eat *terumah*.
 
-## Eliezer b. Yaakov…
+## Eliezer b. Yaakov (II)
 
 ### Kashrah vs Kedushah
 

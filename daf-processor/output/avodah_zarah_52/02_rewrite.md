@@ -38,7 +38,7 @@ With the verbal linkage between implements and idols rejected by Rabbi Akiva, th
 
 ---
 
-## Yishmael Position…
+## Yishmael Position (II)
 
 ### Jew Immediate (Logical)
 
@@ -50,7 +50,7 @@ The Gemara again anticipates Rabbi Akiva's counter: he would read *to'avas Hashe
 
 ---
 
-## Akiva Position…
+## Akiva Position (II)
 
 ### Psilei Eloheihem
 

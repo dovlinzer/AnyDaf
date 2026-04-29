@@ -102,7 +102,7 @@ Rabbeinu Chananel is deeply troubled by the implicit permission the *gemara* see
 
 ---
 
-## Date & Pomegranate…
+## Date & Pomegranate (II)
 
 ### Heaven Rejects
 
