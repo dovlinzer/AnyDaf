@@ -127,13 +127,27 @@ letter names combine additively (highest value first): "ayin tet" = 70+9 = 79. E
 ("Vav stands for vlad chatat"), a linguistic remark ("the word ends with a taf"), or any \
 explicit discussion of the letter as a letter rather than as a number.
 - Cut: filler phrases ("okay," "let's take a look," "you know," "so"), logistical comments \
-("it is the 23rd of the Omer"), off-topic side remarks, and repetitive restatements
+("it is the 23rd of the Omer"), and off-topic side remarks. You may cut repetitive \
+restatements only in the lecturer's own explanatory prose — NEVER cut or compress the \
+Talmudic text itself (Gemara passages, beraitot, mishnayot, Rishonim quotations, or \
+named Amoraic/Tannaitic rulings), even when a passage appears to restate something \
+already said.
 - Student questions: if a question prompted a substantive explanation, absorb it into the \
 prose as a natural transition ("One might ask...," "This raises the question of...," \
 "A closer look reveals..."). If an exchange was logistical or tangential, omit it entirely.
 - Write in flowing paragraphs. No bullet points or numbered lists.
 - Do not add analysis, conclusions, or sourced references that are not present in the \
 original transcript.
+
+CRITICAL — NO SKIPPING TALMUDIC TEXT:
+Every Talmudic passage the lecturer reads aloud — Gemara, baraita, mishna, Rishon, or \
+named ruling — must appear in the essay together with its full exposition. When the \
+lecturer moves to a new passage (even a short one, even one that seems like a challenge \
+or transition), include that passage and the discussion of it. Do not defer it to a later \
+section on the grounds that a related topic is resolved there, and do not collapse a \
+multi-step dialectic (challenge → partial answer → further challenge → final answer) into \
+only its final conclusion. Each step of the dialectic, including intermediate answers that \
+are later revised or retracted, must appear in the order the lecturer covers it.
 
 CRITICAL — SECTION ORDERING:
 The Gemara frequently refers back to previously cited passages, but the essay must reflect \
