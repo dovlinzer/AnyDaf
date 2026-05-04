@@ -472,10 +472,70 @@ All scripts: `load_dotenv(Path(__file__).parent / ".env", override=True)` — re
 
 | Script | Purpose |
 |---|---|
+| `main.py` | Entry point — runs all three passes (segmentation, rewrite, source insertion) on SRT files |
+| `pipeline.py` | Orchestrates API calls; `--resume` skips passes whose output files already exist; omit `--resume` to force overwrite |
+| `prompts.py` | All three prompt templates (segmentation, rewrite, source insertion) |
+| `audit_gaps.py` | Detects missing Sefaria coverage in `03_final.md` files; outputs `audit_gaps.csv` ranked by severity |
 | `extract_topics.py` | Extracts `topical_tags` from `shiur_content.segmentation` → `topic_analysis/topics_raw.json` (51,671 raw terms) |
 | `normalize_topics.py` | Batch API: normalizes raw terms → canonical forms. **Config: `BATCH_SIZE=100, MAX_TOKENS=8192`** (Hebrew tokenizes ~2x heavier than ASCII; original 150/4096 caused all 345 chunks to truncate) |
 | `consolidate_topics.py` | Batch API: deduplicates 28,982 canonical forms by alphabetical grouping |
 | `build_taxonomy.py` | Multi-segment Claude Sonnet calls → `seed_taxonomy.json`. Supports `--segment N`, `--merge`, `--save-partial` |
+
+### Pass 2 (Rewrite) — Known Failure Modes and Prompt Fixes
+
+The rewrite pass uses Claude Sonnet to convert the SRT transcript into a polished essay. Two systematic failure modes were identified through analysis of Menachot 109 and an audit of all 2,353 dafs.
+
+**Failure mode 1 — Complete omission of Talmudic passages.**
+When the lecturer signals that a topic will be resolved later ("we'll get to that at the end"), the model sometimes defers the *entire* discussion — including intermediate dialectical steps — to the later section, then fails to restore it. Result: a stretch of Sefaria text has no corresponding essay content and no blockquote in the `03_final.md`.
+
+**Failure mode 2 — Narrative compression / temporal displacement.**
+The model has strong Talmudic background knowledge. When a Gemara works through a multi-step dialectic (challenge → failed attempt A → correction → failed attempt B → final resolution), the model tends to collapse this into challenge → final resolution, skipping the intermediate steps. More subtly, it may take the *final* resolution's reading of a term and apply it at the *start* of the challenge — producing a coherent but temporally wrong narrative. This is harder to detect because the passage IS present in the final, just misread.
+
+Example (Menachot 109, 08:48–11:29): The Gemara first reads *עלייה* as meaning the attic (worst), then corrects to *עלייה* = best (*meulah*), then later concludes via *yad ba'al hashetar* that you can also say *עלייה* = attic. The rewrite applied the final resolution's "attic" reading to the initial challenge, skipping both intermediate steps.
+
+**Fixes applied to `prompts.py`:**
+
+1. The "Cut" bullet now explicitly restricts repetitive-restatement cutting to the lecturer's own explanatory prose only — never to Talmudic text (Gemara, baraita, mishna, Rishon, named rulings).
+
+2. A new `CRITICAL — NO SKIPPING TALMUDIC TEXT` block requires every passage the lecturer reads aloud to appear in the essay with its full exposition; prohibits deferring content because a related topic is resolved later; and requires all steps of a multi-step dialectic — including intermediate answers later revised — to appear in order.
+
+### Auditing Output Quality (`audit_gaps.py`)
+
+`audit_gaps.py` detects type-1 failures (complete omissions) by comparing the numbered Sefaria segments in `sefaria.md` against the blockquoted Hebrew passages in `03_final.md`. It flags consecutive runs of 2+ missing segments within the covered range.
+
+```bash
+# Full audit of all output directories
+python audit_gaps.py
+
+# Single directory (for debugging or spot-checking a specific daf)
+python audit_gaps.py --dir output/menachot_109
+
+# Raise threshold to reduce false positives
+python audit_gaps.py --min-gap 3
+```
+
+Output: `audit_gaps.csv` in `daf-processor/`, one row per gap, sorted by severity.
+
+**Interpreting results:** 2-4 missing segments may be false positives (the Haiku insertion pass legitimately combining adjacent segments). 10+ consecutive missing segments within a covered range is a near-certain real skip. As of the initial audit: 1,207 of 2,353 dafs flagged at min-gap=2; 218 with 10+ missing (high-priority re-run candidates).
+
+**What the audit does NOT catch:** narrative compression / temporal displacement errors (failure mode 2 above). Those require human spot-checks of dialectically complex passages.
+
+### Re-running Passes 2 and 3
+
+To regenerate all rewrites and source insertions with the updated prompt:
+
+```bash
+# Re-run all dafs — pass 2 first, then pass 3
+# Do NOT use --resume: that would skip dafs that already have output files
+python main.py ./srt/processed/ --passes 2
+python main.py ./srt/processed/ --passes 3
+```
+
+Use batch mode (default) for cost efficiency (~50% discount vs. direct API). Estimated cost for all 2,353 dafs: ~$440–500 total (passes 2 + 3). Before committing to the full run, test a single daf with `--no-batch` and verify the output manually:
+
+```bash
+python main.py "srt/processed/Menachot 109.srt" --passes 2 --masechta Menachot --daf 109 --no-batch
+```
 
 ### Taxonomy Files (`topic_analysis/taxonomy/`)
 
