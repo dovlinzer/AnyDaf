@@ -116,6 +116,7 @@ _ALIASES: dict[str, str] = {
     "rosh hashana": "Rosh Hashanah",
     "megilah":    "Megillah",      # one-l variant in SoundCloud/Transistor titles
     "megila":     "Megillah",
+    "succah":     "Sukkah",        # c-spelling used in Transistor titles
 }
 # Merge aliases into lookup (aliases do not override canonical spellings)
 for _alias, _canonical in _ALIASES.items():
