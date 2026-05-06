@@ -1,641 +1,684 @@
 {
   "masechta": "Sukkah",
   "daf": 3,
-  "amud": "",
+  "amud": "a-b",
   "macro_segments": [
     {
-      "title": "Review of Previous Discussion: The Height of Twenty Amot and the Role of Sechach",
-      "display_title": "Sechach & Height",
+      "title": "Review of Previous Day's Themes: Sechach, Permanence, and Height",
+      "display_title": "Review: Sechach & Height",
       "timestamp": "00:00",
       "micro_segments": [
         {
-          "title": "Opening Review: Core Themes on Sechach and Sukkah Definition",
-          "display_title": "Sechach Definition",
+          "title": "Introduction and Summary of Day One Discussion",
+          "display_title": "Day One Summary",
           "timestamp": "00:00"
         },
         {
-          "title": "Three Key Issues: Permanence vs. Temporariness, Visibility of Sechach, and Shade Provision",
-          "display_title": "Three Key Issues",
+          "title": "Sechach as Defining Feature of Sukkah",
+          "display_title": "Sechach Definition",
+          "timestamp": "00:27"
+        },
+        {
+          "title": "Three Major Themes: Temporary Dwelling, Visibility, and Shade",
+          "display_title": "Three Themes",
           "timestamp": "00:48"
         },
         {
-          "title": "Tosafot's Question on Sechach Permanence and Rain Penetration",
-          "display_title": "Tosafot & Rain",
+          "title": "Tosafot on Permanence of Sechach and Rain",
+          "display_title": "Tosafot: Sechach",
           "timestamp": "01:34"
         }
       ]
     },
     {
-      "title": "The Case of Queen Hilni: Testing Theories of the Twenty-Amah Height Restriction",
-      "display_title": "Hilni Case",
+      "title": "Testing Explanations of Twenty Amot Height Limit via the Queen Hilni Case",
+      "display_title": "Queen Hilni Case",
       "timestamp": "02:23",
       "micro_segments": [
         {
-          "title": "The Hilni Proof and Initial Rebuttal: Exempt Women and Their Sons' Obligations",
+          "title": "Introduction to the Hilni Case and Proof Offered by Rabbi Yehuda",
           "display_title": "Hilni Proof",
           "timestamp": "02:23"
         },
         {
-          "title": "Validating the Walls-Don't-Reach-Sechach Theory Through Hilni's Sukkah",
-          "display_title": "Walls Theory",
+          "title": "Case Where Walls Do Not Reach Sechach—Walls Reaching Sechach Approach",
+          "display_title": "Walls Not Reaching",
           "timestamp": "02:59"
         },
         {
-          "title": "Challenging the Small-Sukkah Theory: Would a Queen Sit in a Tiny Sukkah?",
-          "display_title": "Small Sukkah",
+          "title": "Case of Small Sukkah—Sechach Providing Shade Approach",
+          "display_title": "Small Sukkah Case",
           "timestamp": "04:13"
         },
         {
-          "title": "Resolving the Contradiction: Hilni's Sukkah with Internal Compartments",
+          "title": "Raba bar Rav Adda's Solution: Compartmented Sukkah",
           "display_title": "Compartments",
-          "timestamp": "05:00"
+          "timestamp": "04:58"
         },
         {
-          "title": "Rav Ashi's Refinement: Large Dining Room with Private Eating Chambers",
-          "display_title": "Rav Ashi View",
-          "timestamp": "07:00"
+          "title": "Rav Ashi's Refinement: Outer Room with Side Chambers",
+          "display_title": "Outer & Side",
+          "timestamp": "07:01"
         },
         {
-          "title": "Tosafot's Solution: Minimum Size Requires Both Dimensions, Not Just Area",
-          "display_title": "Both Dimensions",
-          "timestamp": "09:27"
+          "title": "Rashi's Interpretation and Rabbi Yehuda's Counterargument",
+          "display_title": "Rashi & Yehuda",
+          "timestamp": "07:30"
+        },
+        {
+          "title": "Tosafot's Response on Non-Minimum Dimensions",
+          "display_title": "Tosafot Dimensions",
+          "timestamp": "09:28"
         }
       ]
     },
     {
-      "title": "The Minimum Size of a Sukkah: From Head-and-Body to Head-Body-and-Table",
+      "title": "Shift to Minimum Size of Sukkah: Head, Body, and Table",
       "display_title": "Minimum Size",
       "timestamp": "11:38",
       "micro_segments": [
         {
-          "title": "Shmuel bar Yitzchak's Position: Head, Body, and Table as Minimum Size",
-          "display_title": "Shmuel Position",
+          "title": "Shmuel bar Yitzchak's Position: Head, Body, and Table Required",
+          "display_title": "Shmuel: Head/Body",
           "timestamp": "11:38"
         },
         {
-          "title": "Rabbi Abba's Challenge: Is This Following Bet Shammai?",
-          "display_title": "Rabbi Abba",
-          "timestamp": "12:20"
+          "title": "Rabbi Abba's Challenge: Which Tannaitic Position Is This?",
+          "display_title": "Rabbi Abba Query",
+          "timestamp": "12:22"
         },
         {
-          "title": "The Mishna on Bet Shammai and Bet Hillel: Table in the House Debate",
-          "display_title": "Bet Shammai/Hillel",
-          "timestamp": "12:52"
-        },
-        {
-          "title": "Rav Nachman's Alternative: Debating a Large Sukkah, Not Minimum Size",
-          "display_title": "Rav Nachman",
-          "timestamp": "17:50"
-        },
-        {
-          "title": "Reconciling the Mishna: Two Debates—Large Sukkah Scenario and Minimum Size",
-          "display_title": "Two Debates",
-          "timestamp": "23:18"
-        },
-        {
-          "title": "The Linkage of Debates: Habitation, Table Presence, and Natural Behavior",
-          "display_title": "Habitation Link",
-          "timestamp": "25:52"
-        },
-        {
-          "title": "Geonic Practice: Six Places Where We Rule Like Bet Shammai",
-          "display_title": "Geonic Rule",
-          "timestamp": "26:56"
-        },
-        {
-          "title": "The Mechanics of Rabbinic Authority: Can Rabbis Prevent Biblical Fulfillment?",
-          "display_title": "Rabbinic Authority",
-          "timestamp": "27:40"
+          "title": "Reference to Mishnah 28a: Bet Shammai and Bet Hillel Debate",
+          "display_title": "Mishnah 28a",
+          "timestamp": "12:42"
         }
       ]
     },
     {
-      "title": "The Four-by-Four Amah Standard for Houses in Halacha",
-      "display_title": "4x4 Standard",
+      "title": "Bet Shammai vs. Bet Hillel on Table Inside House: Large vs. Small Sukkah",
+      "display_title": "Table in House",
+      "timestamp": "13:01",
+      "micro_segments": [
+        {
+          "title": "Mishnah: Case of Head and Body in Sukkah, Table in House",
+          "display_title": "Mishna: Table Out",
+          "timestamp": "13:01"
+        },
+        {
+          "title": "Bet Shammai Invalidates, Bet Hillel Validates",
+          "display_title": "Shammai vs Hillel",
+          "timestamp": "13:20"
+        },
+        {
+          "title": "Bet Hillel's Counterargument: Case of Yochanan ben HaChoranis",
+          "display_title": "Yochanan Story",
+          "timestamp": "13:25"
+        },
+        {
+          "title": "Bet Shammai's Rebuttal: He Never Observed Sukkah Properly",
+          "display_title": "Shammai Rebuttal",
+          "timestamp": "13:54"
+        },
+        {
+          "title": "Gemara's Question: Does Bet Shammai/Hillel Debate Large or Small Sukkah?",
+          "display_title": "Size Debate?",
+          "timestamp": "17:39"
+        },
+        {
+          "title": "Rav Nachman bar Yitzchak's Proposal: They Debate Large Sukkah Due to Gezerah",
+          "display_title": "Gezerah Concern",
+          "timestamp": "17:39"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi's Requirement: Four by Four Amot as Minimum Size",
+      "display_title": "Rabbi: 4x4 Amot",
+      "timestamp": "20:18",
+      "micro_segments": [
+        {
+          "title": "Resolving Contradictory Braitot: Shammai vs. Hillel Mapping",
+          "display_title": "Braitot Resolved",
+          "timestamp": "20:18"
+        }
+      ]
+    },
+    {
+      "title": "Bet Shammai vs. Bet Hillel on Table Inside House: Large vs. Small Sukkah (continued)",
+      "display_title": "Table in House…",
+      "timestamp": "22:05",
+      "micro_segments": [
+        {
+          "title": "Linguistic Evidence from Mishna: Poslin vs. Machshirin Language",
+          "display_title": "Language Evidence",
+          "timestamp": "22:05"
+        },
+        {
+          "title": "Resolution: Two Debates—Large Sukkah and Minimum Size Both Included",
+          "display_title": "Two Debates",
+          "timestamp": "23:19"
+        },
+        {
+          "title": "Linking the Two Debates: Minimum Size Requires Table or Not",
+          "display_title": "Linked Debates",
+          "timestamp": "25:41"
+        }
+      ]
+    },
+    {
+      "title": "Rabbi's Requirement: Four by Four Amot as Minimum Size (continued)",
+      "display_title": "Rabbi: 4x4 Amot…",
       "timestamp": "41:29",
       "micro_segments": [
         {
-          "title": "Introduction: House Minimum Size and Its Halachic Consequences",
-          "display_title": "House Minimum",
+          "title": "Braitot Teaching Minimum Sizes: Rebbe vs. Rabbanan",
+          "display_title": "Size Braitot",
           "timestamp": "41:29"
         }
       ]
     },
     {
-      "title": "The Distinction Between Permanent Dwelling and Temporary Dwelling",
-      "display_title": "Permanent vs. Temp",
+      "title": "Four by Four Amot as Universal Definition of 'House' in Halacha",
+      "display_title": "4x4: House",
       "timestamp": "42:00",
       "micro_segments": [
         {
-          "title": "Sukkah as Temporary Dwelling: Why Smaller Sizes Are Permissible",
-          "display_title": "Temp Dwelling",
+          "title": "Braita Listing Halachos Requiring Four by Four: Mezuzah, Railing, Tzaraat",
+          "display_title": "Mezuzah/Tzaraat",
           "timestamp": "42:00"
         },
         {
-          "title": "Rabbi's Position: Requiring 4x4 Amot for a Sukkah—Conceptual Implications",
-          "display_title": "Rabbi 4x4",
-          "timestamp": "42:39"
+          "title": "Sale in Walled Cities and Return from War Draft",
+          "display_title": "Sale & Draft",
+          "timestamp": "43:47"
         },
         {
-          "title": "The Debate's Foundation: Does a Sukkah Require Permanence or Temporariness?",
-          "display_title": "Permanence Debate",
-          "timestamp": "43:06"
+          "title": "Eruv Participation: Not Required Below Four by Four",
+          "display_title": "Eruv Exemption",
+          "timestamp": "44:22"
+        },
+        {
+          "title": "Eruvin Chatzeirot Storage: Must Be in House, Not Small Structure",
+          "display_title": "Eruv Storage",
+          "timestamp": "45:02"
         }
       ]
     },
     {
-      "title": "The Four-by-Four Amah Standard for Houses in Halacha (continued)",
-      "display_title": "4x4 Standard (II)",
-      "timestamp": "43:48",
+      "title": "Sukkah vs. House: Temporary vs. Permanent Dwelling Status",
+      "display_title": "Sukkah vs House",
+      "timestamp": "45:27",
       "micro_segments": [
         {
-          "title": "Exemptions from Commandments: Mezuzah, Railing, Tzaraat for Structures Under 4x4",
-          "display_title": "Exemptions",
-          "timestamp": "43:48"
+          "title": "Gemara's Inference: Four by Four Requirement Might Apply Only to Houses",
+          "display_title": "Inference",
+          "timestamp": "45:27"
         },
         {
-          "title": "Property Law and City Limits: Sale, Redemption, and War Exemptions",
-          "display_title": "Property Rules",
-          "timestamp": "44:08"
+          "title": "Distinguishing Dirat Arai (Temporary) from Dirat Keva (Permanent)",
+          "display_title": "Arai vs Keva",
+          "timestamp": "46:46"
         },
         {
-          "title": "Eruv and Joining: Structures Must Be Fit for Dwelling",
-          "display_title": "Eruv Rules",
-          "timestamp": "44:22"
+          "title": "Principle: Sukkah as Temporary Allows Smaller Size Than Permanent House",
+          "display_title": "Temporary Allows",
+          "timestamp": "47:29"
+        }
+      ]
+    },
+    {
+      "title": "Four by Four Amot as Universal Definition of 'House' in Halacha (continued)",
+      "display_title": "4x4: House…",
+      "timestamp": "48:14",
+      "micro_segments": [
+        {
+          "title": "Pregnancy Between Two Cities: Joining Two Cities Requires House-Sized Structure",
+          "display_title": "City Joining",
+          "timestamp": "48:14"
         },
         {
-          "title": "Connecting Two Cities: Why a Lean-To Suffices but a Deficient House Does Not",
-          "display_title": "City Connection",
-          "timestamp": "48:12"
+          "title": "Burginin vs. House: Why Small Structure Cannot Join Cities",
+          "display_title": "Burginin vs House",
+          "timestamp": "48:55"
+        }
+      ]
+    },
+    {
+      "title": "Sukkah vs. House: Temporary vs. Permanent Dwelling Status (continued)",
+      "display_title": "Sukkah vs House…",
+      "timestamp": "49:35",
+      "micro_segments": [
+        {
+          "title": "Possible Debate: Does Rebbe Require Sukkah to Be Permanent?",
+          "display_title": "Rebbe Permanent?",
+          "timestamp": "49:35"
+        }
+      ]
+    },
+    {
+      "title": "Four by Four Amot as Universal Definition of 'House' in Halacha (continued) (continued)",
+      "display_title": "4x4: House……",
+      "timestamp": "49:55",
+      "micro_segments": [
+        {
+          "title": "Division of Property Among Brothers and Shutafim",
+          "display_title": "Brother Division",
+          "timestamp": "49:55"
+        }
+      ]
+    },
+    {
+      "title": "Dividing a Courtyard and Role of Doorways",
+      "display_title": "Courtyard Division",
+      "timestamp": "50:41",
+      "micro_segments": [
+        {
+          "title": "Rav Huna: Courtyard Divided by Its Doorways",
+          "display_title": "Rav Huna",
+          "timestamp": "50:41"
         },
         {
-          "title": "Dividing Property: Houses Under 4x4 Do Not Factor into Courtyard Division",
-          "display_title": "Property Division",
-          "timestamp": "50:02"
+          "title": "Rav Chisda: Four Amot per Doorway, Rest Divided Equally",
+          "display_title": "Rav Chisda",
+          "timestamp": "50:46"
+        },
+        {
+          "title": "Only Houses with Four by Four Count; Condemned Houses Excluded",
+          "display_title": "Counting Houses",
+          "timestamp": "53:33"
         }
       ]
     }
   ],
   "topical_tags": [
     {
-      "term": "Sechach definition and significance",
+      "term": "Sechach (roof covering)",
       "timestamps": [
-        "00:00",
-        "00:27",
+        "00:31",
         "00:40",
-        "00:46",
-        "00:52",
-        "01:02",
-        "01:07",
-        "01:16",
-        "01:34",
-        "01:40",
-        "01:43",
-        "01:47",
-        "01:49",
-        "02:07",
+        "01:12",
+        "01:59",
         "03:00",
         "03:05",
         "03:10",
-        "03:13",
         "03:15",
-        "03:18",
         "03:21",
-        "03:23",
-        "03:39",
-        "03:41",
-        "03:44",
-        "04:10",
-        "05:07",
+        "04:23",
         "05:43",
         "06:00",
         "06:09",
         "06:12",
         "06:16",
-        "06:19",
-        "06:22",
-        "06:27"
+        "06:23",
+        "06:27",
+        "42:17"
       ]
     },
     {
-      "term": "Sukkah temporariness vs. permanence",
+      "term": "Height of Sukkah (twenty amot limit)",
       "timestamps": [
-        "00:18",
-        "00:21",
-        "00:27",
-        "00:48",
-        "01:18",
-        "01:27",
-        "01:32",
-        "02:20",
-        "05:56",
-        "06:00",
-        "42:00",
-        "42:39",
-        "43:06"
-      ]
-    },
-    {
-      "term": "Shade provision by sechach",
-      "timestamps": [
-        "01:07",
-        "01:12",
-        "01:16",
-        "01:20",
-        "04:18",
-        "04:23",
-        "04:29",
-        "04:32",
-        "04:36",
-        "04:38"
-      ]
-    },
-    {
-      "term": "Queen Hilni case",
-      "timestamps": [
-        "02:29",
+        "00:10",
+        "01:24",
         "02:35",
-        "02:40",
-        "02:42",
-        "03:26",
-        "03:29",
-        "03:48",
-        "03:49",
-        "03:53",
-        "03:55",
-        "04:40",
-        "04:45",
-        "04:46",
-        "04:53",
-        "04:55",
-        "04:58",
-        "05:00",
-        "05:20",
-        "07:15",
-        "07:21",
-        "08:02",
-        "08:04",
-        "08:06",
-        "08:08",
+        "04:32",
         "08:13",
-        "08:17",
-        "08:20",
-        "08:25",
-        "08:40",
-        "08:45",
-        "08:52",
-        "09:00",
-        "10:51"
+        "11:05"
       ]
     },
     {
-      "term": "Walls reaching sechach",
+      "term": "Temporary dwelling (dirat arai)",
       "timestamps": [
-        "02:59",
-        "03:00",
-        "03:05",
+        "00:15",
+        "00:27",
+        "01:47",
+        "46:46",
+        "47:29"
+      ]
+    },
+    {
+      "term": "Visibility of sechach",
+      "timestamps": [
+        "01:02",
         "03:10",
         "03:13",
-        "03:15",
-        "03:18",
-        "03:21",
-        "03:23",
+        "03:15"
+      ]
+    },
+    {
+      "term": "Queen Hilni / Hilni HaMalka",
+      "timestamps": [
+        "02:35",
+        "02:40",
         "03:26",
-        "05:56",
-        "05:58",
-        "06:00",
-        "06:04"
+        "04:43",
+        "08:06",
+        "10:50",
+        "10:54"
       ]
     },
     {
-      "term": "Minimum size of sukkah",
-      "timestamps": [
-        "11:02",
-        "11:12",
-        "11:14",
-        "11:17",
-        "11:38",
-        "11:41",
-        "11:45",
-        "12:20",
-        "12:28",
-        "12:30",
-        "12:52",
-        "13:01",
-        "13:13",
-        "13:19",
-        "15:00",
-        "15:03",
-        "15:07",
-        "15:16",
-        "16:33",
-        "16:36",
-        "16:39",
-        "16:48",
-        "16:55",
-        "17:00",
-        "17:03",
-        "17:07",
-        "17:50",
-        "23:18",
-        "23:29",
-        "25:52"
-      ]
-    },
-    {
-      "term": "Head, body, table (rosho v'rubo v'shulchano)",
-      "timestamps": [
-        "10:57",
-        "10:59",
-        "11:41",
-        "11:45",
-        "11:49",
-        "11:51",
-        "12:02",
-        "12:05",
-        "12:20",
-        "12:28",
-        "13:01",
-        "13:13",
-        "13:16",
-        "13:19",
-        "13:41",
-        "13:47",
-        "14:37",
-        "17:00",
-        "17:03",
-        "17:07",
-        "19:35",
-        "19:37",
-        "19:40",
-        "19:50",
-        "19:52",
-        "19:55",
-        "20:01",
-        "20:04",
-        "20:09",
-        "20:11",
-        "20:14",
-        "20:20",
-        "20:27",
-        "20:31",
-        "20:34",
-        "21:07",
-        "23:18",
-        "23:22",
-        "24:18",
-        "24:22"
-      ]
-    },
-    {
-      "term": "Bet Shammai vs. Bet Hillel sukkah debate",
+      "term": "Bet Shammai (House of Shammai)",
       "timestamps": [
         "12:30",
-        "12:52",
-        "13:01",
         "13:20",
-        "13:23",
-        "14:37",
-        "14:41",
-        "14:54",
-        "14:57",
+        "13:54",
+        "13:59",
+        "14:03",
+        "14:06",
         "15:00",
-        "15:07",
-        "15:20",
-        "16:30",
-        "16:39",
-        "16:42",
+        "16:14",
         "16:48",
-        "16:52",
         "17:10",
         "17:16",
-        "17:28",
-        "17:31",
-        "17:50",
-        "18:01",
-        "18:14",
-        "18:17",
-        "18:27",
-        "18:30",
-        "18:32",
-        "20:04",
-        "20:09",
-        "20:14",
-        "20:20",
-        "20:27",
-        "20:31",
-        "20:34",
         "20:42",
-        "20:46",
         "20:51",
-        "20:57",
         "21:00",
-        "21:04",
-        "21:07",
-        "21:30",
-        "21:33",
-        "21:36",
-        "22:05",
-        "22:09",
-        "22:11",
-        "22:15",
-        "22:25",
-        "22:28",
-        "22:31",
-        "22:34",
-        "22:38",
-        "23:18",
-        "23:22",
-        "23:26",
-        "23:29",
+        "26:14",
         "26:30",
         "26:46",
-        "26:49",
-        "26:56",
-        "27:00",
-        "27:59",
-        "28:01",
-        "28:06",
-        "40:31",
-        "40:34",
-        "40:41",
-        "40:43",
+        "26:48",
         "40:46",
-        "40:49",
-        "40:53",
-        "40:56",
-        "41:00",
         "41:03",
         "41:07",
-        "41:10",
-        "41:13",
         "41:17",
         "41:20",
-        "41:24",
         "41:27"
       ]
     },
     {
-      "term": "Gezeirah (rabbinic edict) against following table out of sukkah",
+      "term": "Bet Hillel (House of Hillel)",
       "timestamps": [
+        "13:20",
+        "13:25",
+        "13:34",
+        "13:54",
+        "15:00",
+        "16:14",
+        "16:39",
+        "16:48",
+        "17:10",
+        "20:42",
+        "20:51",
+        "21:00",
+        "26:14",
+        "26:30",
+        "26:32",
+        "26:40",
+        "40:31"
+      ]
+    },
+    {
+      "term": "Minimum size (head, body, table)",
+      "timestamps": [
+        "11:41",
+        "11:45",
+        "11:51",
+        "11:55",
+        "15:13",
+        "15:16",
+        "16:36",
+        "16:39",
+        "16:46",
+        "16:52",
+        "20:27",
+        "20:31",
+        "20:37"
+      ]
+    },
+    {
+      "term": "Shulchan (table/serving tray)",
+      "timestamps": [
+        "11:41",
+        "15:19",
+        "15:24",
+        "15:27",
+        "15:34",
+        "15:38",
+        "15:42",
+        "15:55",
+        "16:02",
+        "16:28",
+        "16:39",
+        "16:52",
+        "17:00",
+        "17:09",
+        "17:29",
         "18:14",
-        "18:17",
-        "18:20",
-        "18:24",
         "18:27",
-        "18:32",
-        "40:31",
-        "40:46"
+        "20:27",
+        "20:37",
+        "20:46"
       ]
     },
     {
-      "term": "Four by four amot standard for houses",
+      "term": "Gezerah (rabbinic decree/concern)",
       "timestamps": [
-        "11:45",
-        "12:28",
-        "19:40",
-        "19:43",
-        "19:50",
-        "19:52",
-        "41:29",
-        "42:39",
-        "43:06",
-        "43:09",
-        "43:42",
-        "43:45",
-        "44:08",
-        "44:11",
-        "44:19",
-        "44:31",
-        "44:53",
-        "44:59",
-        "45:04",
-        "45:08",
-        "45:11",
-        "48:55",
-        "49:01",
-        "49:08",
-        "49:35",
-        "49:52",
-        "50:02",
-        "50:04",
-        "50:06",
-        "50:08",
-        "50:11",
-        "50:13",
-        "50:17",
-        "50:20",
-        "50:24",
-        "50:27",
-        "50:29",
-        "50:32"
+        "17:39",
+        "18:14",
+        "18:27",
+        "41:07"
       ]
     },
     {
-      "term": "Rabbi's (Rebbe's) position on sukkah size",
+      "term": "Yotzei (fulfilled obligation)",
       "timestamps": [
-        "11:45",
-        "12:28",
-        "19:50",
-        "19:52",
-        "19:55",
+        "27:18",
+        "27:23",
+        "28:04",
+        "28:08",
+        "28:11",
+        "28:20",
+        "40:46",
+        "40:53",
+        "41:27"
+      ]
+    },
+    {
+      "term": "Four by four amot (house requirement)",
+      "timestamps": [
         "20:01",
         "20:04",
-        "42:39",
-        "42:45",
-        "42:48",
-        "43:06"
+        "42:00",
+        "42:41",
+        "43:47",
+        "44:22",
+        "44:29",
+        "44:31",
+        "44:36",
+        "44:40",
+        "45:27",
+        "45:52",
+        "46:02",
+        "46:04",
+        "46:25",
+        "49:55",
+        "50:01",
+        "50:04",
+        "50:06",
+        "50:11",
+        "50:13",
+        "50:20",
+        "50:24",
+        "53:17",
+        "53:26"
       ]
     },
     {
-      "term": "Mezuzah requirement tied to house definition",
+      "term": "Mezuzah (doorpost scroll)",
       "timestamps": [
-        "41:29",
-        "43:48",
-        "43:50",
-        "43:54",
-        "44:11",
-        "44:13"
+        "42:10",
+        "42:16",
+        "43:50"
       ]
     },
     {
-      "term": "Tzaraat (leprosy spots) in houses",
+      "term": "Tzaraat (leprosy spots)",
       "timestamps": [
-        "41:29",
-        "43:54",
-        "43:57"
+        "42:18",
+        "43:54"
       ]
     },
     {
-      "term": "Eruv and joining of courtyards",
+      "term": "Sale in walled cities",
       "timestamps": [
-        "41:29",
+        "42:28",
+        "44:00"
+      ]
+    },
+    {
+      "term": "Return from war / draft exemption",
+      "timestamps": [
+        "42:24",
+        "44:06"
+      ]
+    },
+    {
+      "term": "Eruv / Eruvin (joining boundaries)",
+      "timestamps": [
         "44:22",
         "44:27",
+        "44:35",
+        "44:40",
+        "44:49",
+        "44:57",
         "45:02",
-        "45:05",
-        "45:11",
+        "45:04",
+        "45:08",
         "45:14",
-        "45:17",
-        "45:20",
+        "45:19",
+        "45:27",
+        "45:51",
+        "45:58",
+        "46:03",
         "46:08",
         "46:12",
-        "46:14",
         "46:17",
-        "46:19",
-        "46:21",
-        "46:24",
-        "46:26",
-        "46:31",
-        "46:34",
-        "46:35",
-        "46:39",
-        "46:43",
-        "46:49",
+        "46:21"
+      ]
+    },
+    {
+      "term": "Dirat keva (permanent dwelling)",
+      "timestamps": [
+        "46:46",
+        "46:48",
         "46:52",
-        "46:55",
-        "46:58",
-        "47:02",
-        "47:04",
-        "48:00",
-        "48:03"
+        "47:29",
+        "49:35"
       ]
     },
     {
-      "term": "Yerushalmiyot and Talmudic comparison",
+      "term": "Rabbi / Rebbe (minimum size position)",
       "timestamps": [
-        "01:59"
-      ]
-    },
-    {
-      "term": "Geonim and halachic ruling",
-      "timestamps": [
-        "26:56",
-        "26:59",
-        "27:05",
-        "27:09"
-      ]
-    },
-    {
-      "term": "Permanence of dwelling (dirat keva)",
-      "timestamps": [
-        "42:39",
-        "42:48",
-        "43:09",
-        "43:11",
-        "43:14",
-        "43:17"
-      ]
-    },
-    {
-      "term": "Temporariness of dwelling (dirat arai)",
-      "timestamps": [
+        "11:45",
+        "20:01",
+        "20:20",
+        "20:50",
         "42:00",
-        "42:06",
-        "42:13",
-        "42:22",
-        "42:31",
-        "42:39"
+        "49:35"
+      ]
+    },
+    {
+      "term": "Tosafot (medieval commentary)",
+      "timestamps": [
+        "01:34",
+        "01:40",
+        "01:43",
+        "01:47",
+        "09:28",
+        "26:53"
+      ]
+    },
+    {
+      "term": "Rashi (medieval commentary)",
+      "timestamps": [
+        "07:30",
+        "09:07",
+        "30:34"
+      ]
+    },
+    {
+      "term": "Raba bar Rav Adda (Amora)",
+      "timestamps": [
+        "04:58",
+        "05:00"
+      ]
+    },
+    {
+      "term": "Rav Ashi (Amora)",
+      "timestamps": [
+        "07:01"
+      ]
+    },
+    {
+      "term": "Shmuel bar Yitzchak (Amora)",
+      "timestamps": [
+        "11:38",
+        "11:40"
+      ]
+    },
+    {
+      "term": "Rabbi Abba (Amora)",
+      "timestamps": [
+        "12:22",
+        "12:28",
+        "17:17",
+        "17:20"
+      ]
+    },
+    {
+      "term": "Rav Nachman bar Yitzchak (Amora)",
+      "timestamps": [
+        "17:39",
+        "17:40"
+      ]
+    },
+    {
+      "term": "Yochanan ben HaChoranis (case subject)",
+      "timestamps": [
+        "13:33",
+        "13:39",
+        "14:37"
+      ]
+    },
+    {
+      "term": "Rav Huna (Amora)",
+      "timestamps": [
+        "50:41"
+      ]
+    },
+    {
+      "term": "Rav Chisda (Amora)",
+      "timestamps": [
+        "50:46"
+      ]
+    },
+    {
+      "term": "Machzikat rosho v'rubo (contains head and majority of body)",
+      "timestamps": [
+        "11:41",
+        "13:13",
+        "16:36",
+        "20:27",
+        "20:34"
+      ]
+    },
+    {
+      "term": "Mishna on 28a (reference text)",
+      "timestamps": [
+        "12:42",
+        "12:52"
+      ]
+    },
+    {
+      "term": "Braitot (tannaitic teachings)",
+      "timestamps": [
+        "09:12",
+        "19:58",
+        "20:18",
+        "20:24",
+        "20:31",
+        "20:34",
+        "42:00"
       ]
     }
   ]

@@ -2,190 +2,182 @@
 
 ## Wine & Oil Vows
 
-### Wine Vow Intro
+### Wine Vows Intro
 
-The *mishnayot* at the end of Menachot deal with people who take vows to bring various offerings — beginning with *menachot* and then extending to other inanimate items placed on the *mizbe'ach*. The first *chiddush* is simply that one may do this at all: that is, one may independently vow to bring wine or oil in the same manner that they accompany a sacrifice as part of the *minchat nesachim*. We have already learned that wine may be brought by itself, paralleling the wine that is brought as part of the flour, oil, and wine accompanying sacrifices. The focus of the *mishnah*, however, is on the minimum required amount.
+The *mishna* on 107a opens a series of cases in which individuals undertake vows (*harei alai* — "I hereby obligate myself") to bring various inanimate offerings to the altar. The first *mishna* of this section deals with someone who says *harei alai yayin* — "I obligate myself to bring wine." The underlying *chiddush* — that one may indeed bring wine as a standalone offering, in the manner that wine accompanies the *minchat nesachim* (the flour, oil, and wine that accompany animal sacrifices) — has already been established. The *mishna* now focuses on the minimum quantity required.
 
 ### Wine Minimum
 
-The *mishnah* states: *harei alai yayin* — "I obligate myself to bring wine." The rule is *lo yifchot mi-shlosha lugim* — it cannot be less than three *log*, because that is the minimum amount brought as *nesachim*. The relevant verse reads *revi'it ha-hin la-keves yayin* — a quarter of a *hin* for the lamb's wine libation. A *hin* is twelve *log*, so a quarter of a *hin* is three *log*.
+*Lo yifchot mi-shlosha lugim* — the offering may not be less than three *log*, because that is the minimum amount brought as *nesachim*. The *pasuk* states *revi'it ha-hin la-keves yayin* — a quarter of a *hin* of wine for a lamb. A *hin* is twelve *log*, so a quarter of a *hin* is three *log*. That is the floor below which one may not go.
 
-### Oil Minimum Debate
+### Oil Offering Debate
 
-If someone obligates himself to bring oil — and this *mishnah* assumes that one may indeed bring oil independently, as per the position of Rabbi Tarfon — how much must he bring? The *mishnah* states *lo yifchot mi-log*, no less than one *log*, because a single *log* of oil is the amount accompanying a standard *mincha*. *Rabbi* disagrees and says *shlosha lugim* — three *log* — because since the basis of this vow is presumably the *minchat nesachim*, the minimum amount of oil there is three *log*, not that of a standard *mincha*.
+*Shemen* — if one obligates himself to bring oil on its own (a position whose permissibility was itself debated earlier in the *mishna*, with Rabbi Tarfon's view being that one may indeed do so), how much must he bring? *Lo yifchot mi-log* — no less than one *log*, because one *log* is the amount of oil that accompanies a standard *mincha*. *Rabbi omer shlosha lugim* — Rabbi, however, says three *log*, because the conceptual basis for this type of offering is the *minchat nesachim*, where the minimum quantity of oil is three *log*. If one said a quantity but cannot recall the precise amount — *perashti ve-eini yodea mah perashti* — *yavi ke-yom merube* — he brings the amount appropriate to the largest day of offerings, as will be explained.
 
-### Ezrach Pasuk
+### Wine Source Pasuk
 
-The *Gemara* cites a *baraita*: *Tanu Rabbanan* — the Rabbis taught. The verse *kol ha-ezrach ya'aseh kacha* — "every citizen shall do thus" — appears as an extra verse after the passage commanding the *nesachim*. This extra *pasuk* teaches *she-mitnadvim yayin*, that one may bring wine on its own, independently of any sacrifice. And how much? *Shlosha lugim* — three *log* — as that is the minimum. The *baraita* then addresses how we know one may bring more than three *log*: the word *yihye* in the verse *ke-chachem ka-ger ka-ezrach yihye* indicates that one may give a larger amount. And should one think one might give less than three *log*? *Talmud lomar kacha* — the word *kacha* ("thus") teaches that it must be at least the minimum. The ruling is therefore that the floor is three *log*, but any larger amount is permitted.
+A *baraita* is then cited: *Tanu Rabbanan* — the Rabbis taught. The *pasuk* says *kol ha-ezrach yaaseh kacha* — "every citizen shall do thus," an apparently superfluous verse following the section on *nesachim*. This extra verse teaches, *melamed she-mitnadvin yayin* — that one may bring wine as a voluntary standalone offering, separate from any animal sacrifice. *Ve-kama* — and how much? *Shlosha lugim* — three *log*, the minimum quantity of *nesachim*.
 
-### Wine Flexibility
+### Wine Increase
 
-The practical upshot of the *ezrach* exposition is clear: a minimum of three *log* is required, the word *kacha* establishes that floor, and the word *yihye* opens the door to giving more. One cannot go below three *log*, but may go as high as one wishes.
+*U-minyan she-im ratza le-hosif yosif* — and how do we know that one may bring more than three *log*? *Talmud lomar yihye* — the verse says *ke-chachem ka-ger ka-ezrach yihye* — the word *yihye* implies that additional amounts are permitted. And lest one think one may bring less than three *log* — *yachol yifchot* — *talmud lomar kacha* — the word *kacha* ("thus," i.e. exactly as specified) teaches that the minimum is fixed. One must bring no less than three *log*, but may bring any greater amount.
 
----
+### Derash Methodology
 
-## Don Minah Dispute
+The *Gemara* turns to the *machloket* between the Rabbis and Rabbi regarding oil. *Be-mai ka-miflegi* — what is the precise nature of their dispute? *Amru rabbanan kamei de-Rav Pappa* — the rabbinic students offered an explanation before *Rav Pappa*: *be-don minah u-minah u-ve-don minah ve-oki be-atrah ka-miflegi* — they are debating the hermeneutical principle of *don minah u-minah* versus *don minah ve-oki be-atrah*.
 
-### Don Minah Methods
+The distinction is this: when one derives a law by analogy from a source case, does one import the original context of the source ("source formatting," so to speak) — that is *don minah u-minah* — or does one apply the law but anchor it in the contextual norms of the destination case — that is *don minah ve-oki be-atrah*, "learn from it but place it in its [destination] location"?
 
-The *Gemara* now asks directly: *be-mai ka-miflegi* — what is the nature of the debate between the *Rabbanan* (who hold the minimum for oil is one *log*) and *Rabbi* (who holds it is three *log*)? The Rabbis in the study house of Rav Pappa proposed that they argue over two hermeneutical principles: *don minah u-minah* versus *don minah ve-oki be-atrah*. When one law is derived from a parallel case, there are two possible approaches. *Don minah u-minah* — learn from it and carry the source's context along with the ruling, that is, apply the rule in the manner of the source case. *Don minah ve-oki be-atrah* — learn from the source but then situate the derived law in the context of its destination. In contemporary terms, this is the difference between pasting with the source formatting versus pasting with the destination formatting.
+### Rabbanan Position
 
-### Rabbanan: One Log
+The Rabbis held *don minah u-minah* — learn from the source and carry its original context with you. The reasoning: *mah mincha mishtandvin af shemen nami mishtandvin* — just as one can voluntarily dedicate a *mincha* to the altar (derived from *adam ki yakriv mikem korban lashem* and *ve-nefesh ki takriv korban mincha lashem*, where the word *korban* serves as the textual basis for the permissibility of a standalone oil offering), so too one can bring oil on its own. And *u-minah* — carry the source context with you: *mah mincha be-log af shemen be-log* — just as a standard *mincha* has one *log* of oil, so too standalone oil is one *log*.
 
-The *Rabbanan*, according to this proposal, hold *don minah u-minah*. Their reasoning runs: just as one may independently bring a *mincha*, one may also independently bring oil — *ma mincha mishtandvin af shemen nami mishtandvin*. And since we bring the learning along with the source's original context (*u-minah*), just as a *mincha* involves one *log* of oil, oil brought independently is also one *log* — *ma mincha be-log af shemen be-log*. The derivation that one may bring oil independently comes from the word *korban* in the *mincha* passage: *adam ki yakriv mikem korban la-Shem* and *ve-nefesh ki takriv korban mincha la-Shem*. Since the source is the standard *mincha* and we stay with the source's parameters, the amount is one *log*.
+### Rabbi Position
 
-### Rabbi: Three Log
+Rabbi, by contrast, held *don minah ve-oki be-atrah* — learn from the source, but anchor the ruling in its destination context. *Mah mincha mishtandvin af shemen nami mishtandvin* — the word *korban* from the *mincha* verse is indeed the textual hook that permits standalone oil. *Ve-oki be-atrah* — but place it in its destination: *ke-nesachim* — like the *nesachim*. Because the operative model for bringing oil not mixed into a flour offering — the model of liquids brought independently — is the *nesachim*, where wine is the paradigmatic standalone liquid offering. The *nesachim*, then, serves as the anchor or destination context. *Mah nesachim shlosha login af shemen nami shlosha login* — just as the minimum quantity of oil in *nesachim* is three *log*, so too standalone oil is three *log*.
 
-*Rabbi*, on this reading, holds *don minah ve-oki be-atrah*: he equally derives the possibility of bringing oil independently from the word *korban* in the *mincha* passage — *ma mincha mishtandvin af shemen nami mishtandvin* — but then places the derived ruling in the context of its destination. Since the contextual anchor of bringing liquids independently is the *minchat nesachim* — where we see wine and, by extension, oil being offered separately — the amount is pegged to the *nesachim* standard. *Va-oki be-atra ke-nesachim*: just as the minimum oil in the *nesachim* context is three *log*, so too oil brought independently is three *log*.
+### Rav Pappa Resolve
 
-### Rav Pappa Resolution
-
-Rav Pappa responded to his students' framing with a challenge. If it were truly agreed by all that the derivation comes from *mincha*, then everyone would accept *don minah u-minah* — stay with the source — and the answer would simply be one *log*. There would be no room for a three-*log* position via *don minah ve-oki be-atrah*, because it would be artificial to relocate to *nesachim* when the *mincha* context is already in play (in both the *mincha* and the *minchat nesachim* the oil is mixed with flour, making the distinction between them difficult to articulate). Rather, Rav Pappa proposes that the real dispute is about which source each opinion is learning from altogether. The *Rabbanan* derive the ability to bring oil independently — and its minimum amount — from the standard *mincha*, yielding one *log*. *Rabbi*, by contrast, derives it directly from the *ezrach* verse — *kol ha-ezrach ya'aseh kacha* — and since that verse is set in the *nesachim* context, the minimum is three *log*. *Rabbi me-ezrach gamar lah*: this is a much cleaner derivation.
+*Rav Pappa*, however, rejected the students' framing. *Ei mi-mincha gamar lah le-Rabbi de-chulei alma lo pligi dominu mino* — if it is truly agreed that the source text for Rabbi is the *mincha* verse, then everyone would agree to apply the source context directly, and the minimum would be one *log*. There would be no basis for three *log* if you are genuinely deriving from a *mincha* context. Rather, *Rav Pappa* said, *ela Rabbi me'ezrach gamar lah* — Rabbi derives the permissibility of standalone oil not from the *mincha* verse at all, but straight from the *ezrach* verse — *kol ha-ezrach yaaseh kacha* — the same verse that teaches the permissibility of standalone wine. On this reading, Rabbi learns from *minchat nesachim* directly, and the minimum is therefore three *log*. This is a more elegant solution: in both the standard *mincha* and the *minchat nesachim* the oil is mixed with flour; the *ezrach* verse, by contrast, speaks to items brought independently alongside a sacrifice, making it a more natural source for a standalone oil offering.
 
 ### Rav Huna Challenge
 
-Rav Huna the son of Rav Natan challenged Rav Pappa: *umi mazit amrat hachi* — how can you say that? A *baraita* has been taught in which the word *korban* from the standard *mincha* passage is identified as the source teaching that one may bring oil independently — *melamed she-mitnadvim shemen* — and the amount given is three *log*. Now, the position of three *log* is *Rabbi's* position. Yet this *baraita* has *Rabbi* learning from *korban* in the *mincha* passage, not from the *ezrach* verse. This directly contradicts Rav Pappa's reading, which had *Rabbi* learning from *ezrach* and the *Rabbanan* learning from *korban*-*mincha*. Rav Pappa replied: *ei tanya tanya* — if there is a *baraita*, a *baraita* it is; if the tradition has it that *Rabbi* begins with the *mincha* derivation and yet arrives at three *log* via *minchat nesachim*, then so be it. Conceptually, Rav Pappa maintained it would have been cleaner for *Rabbi* to learn directly from *ezrach*, but he conceded that the *baraita* is evidence that *Rabbi* proceeds from *korban* of *mincha* and then applies the *nesachim* standard — a variation of *don minah ve-oki be-atrah* — while the *Rabbanan* learn from *korban* of *mincha* and stay with its original context.
+*Rav Huna berei de-Rav Natan* challenged *Rav Pappa*: *umi mazit amrat hachi* — how can you say that? *Ve-ha-tanya* — has it not been taught in a *baraita* that the word *korban* from the standard *mincha* verse teaches that one may bring standalone oil — *melamed she-mitnadvin shemen* — *ve-kama shlosha login* — and the minimum is three *log*? Now, the position of three *log* is Rabbi's position — *man shamat lei de-amar shlosha login Rabbi* — and yet this *baraita* derives it from the word *korban* in the *mincha* verse, not from *ezrach*. This directly contradicts *Rav Pappa*'s reconstruction, which held that Rabbi does not derive from the *mincha* verse at all. *Rav Pappa* replied: *ei tanya tanya* — if that is what the *baraita* says, so it is. He conceded that if the *baraita* explicitly roots Rabbi's position in *korban* from the *mincha* verse and yet arrives at three *log*, then the students' original framing — that the dispute is about *don minah u-minah* versus *don minah ve-oki be-atrah* — must be correct after all, however conceptually awkward it may seem.
 
----
+### Oil Uncertainty
 
-## Forgotten Specification
-
-### Forgotten Amount
-
-The *mishnah* states: *perashti ve-eini yode'a mah perashti* — "I specified [how much oil I would bring] but I do not remember what I specified." In such a case, the rule is *yavi ke-yom merubeh* — he brings the amount appropriate to the "day of plenty."
-
-### Yom Merube Standard
-
-The *Gemara* clarifies what *yom merubeh* means: *ke-yom tov ha-rishon shel chag she-chal lihyot be-Shabbat* — the first day of *Sukkot* that falls on *Shabbat*. This is the day on which the greatest number of *korbanot* are brought, and consequently the greatest quantity of *minchat nesachim* accompanies them. Since the vower cannot recall how much he specified, we assume the most he could have meant, and that maximum is measured against the largest possible day of communal sacrifice.
+As for the case of *perashti ve-eini yodea mah perashti* — one who specified an amount of oil but cannot recall what he said — *yavi ke-yom merube* — he brings the maximum amount corresponding to the largest day. The *tanna* specifies: *ke-yom tov ha-rishon shel chag she-chal lihyot be-Shabbat* — the first day of *Sukkot* that falls on *Shabbat*, when the greatest number of communal *korbanot* are brought and thus the greatest quantity of *minchat nesachim* accompanies them. That total quantity of oil is the maximum one could have had in mind, and it is therefore what must be brought.
 
 ---
 
 ## Olah Vows
 
-### Olah Animal Debate
+### Olah Lamb Default
 
-The next *mishnah* reads: *harei alai olah* — "I obligate myself in a burnt offering." The rule is *yavi keves* — he brings a lamb, as that is the least expensive and smallest of the standard mammals brought as an *olah*. Rabbi Elazar ben Azariah says he may bring *o tor o ven yonah* — either a turtledove or a young pigeon, which are birds and are even less expensive. All of these categories — animals and birds — appear together in the opening section of Vayikra as valid *olot*. The intuition behind the first opinion is that the standard *korban* is a mammal, and one should bring the minimum within that standard category. Rabbi Elazar ben Azariah holds that the objectively smallest *olah* suffices.
+The next *mishna* takes up the case of *harei alai olah* — one who obligates himself to bring an elevation offering without further specification. *Yavi keves* — he brings a lamb, the smallest of the standard animal *olot*.
 
-### Forgotten Cattle Type
+### Olah Birds Debate
 
-If one said *perashti min ha-bakar ve-eini yode'a mah perashti* — "I specified from the cattle but I do not remember what I said" — did I vow an ox or a calf? In that case, *yavi par ve-egel* — he must bring both an ox and a calf.
+*Rabbi Elazar ben Azaryah omer o tor o ven yonah* — Rabbi Elazar ben Azaryah says one may fulfill the obligation with either a turtledove or a young pigeon, which are objectively even smaller than a lamb. All of these appear in the opening passages of Vayikra as valid forms of *olah*. The apparent basis of the dispute is whether the default interpretation of an unspecified *olah* vow refers to the minimum within the standard mammalian category, or to the absolute smallest *olah* possible — which would be a bird. The *Gemara* will clarify, however, that the dispute is not really about this, but rather a matter of regional pricing: *ve-lo pligi, mar ki atreih u-mar ki atreih* — they do not actually disagree in principle; in one locale, lambs were cheapest, and in another, birds were. (The *Gemara* thus explains the dispute as one of local custom and cost rather than a principled disagreement about the nature of the obligation.)
 
-### Forgotten Animal
+A *baraita* then elaborates: *Tanu Rabbanan* — if one says *harei alai olah be-sela la-mizbeach* — I obligate myself to bring an offering on the altar for one *sela* — *yavi keves she-ein lecha davar she-karev be-sela le-gabei mizbeach ela keves* — he brings a lamb, because there is nothing offered on the altar that costs exactly one *sela* other than a lamb, as established in the *mishna*. If one said he specified something but cannot recall what — *perashti ve-eini yodea mah perashti yavi mi-kol davar she-karev be-sela le-gabei mizbeach* — he must bring every possible item that in its entirety costs a *sela*, since he committed to a specific item at that price and must cover all possibilities.
 
-If one said *min ha-behemah ve-eini yode'a mah perashti* — "I said it would be a mammal but I don't remember which specific animal" — he must bring all types. The *mishnah* lists: *yavi par ve-egel ayil sa'ir gedi u-taleh* — an ox, a calf, a ram, a goat, a kid goat, and a lamb. This presupposes that when the vower was specifying, he was distinguishing among all these sub-categories — between a ram and a lamb, between an adult goat and a kid goat — and since he cannot recall which one he named, he must bring all of them.
+### Cattle Uncertainty
 
-### Forgotten with Birds
+*Peirashti min ha-bakar ve-eini yodea mah peirashti* — if one said his *olah* would be from the cattle but cannot remember which, *yavi par ve-egel* — he brings both an ox and a calf, since an *olah* must be male, and he may have intended either.
 
-If one said *perashti ve-eini yode'a mah perashti* — without specifying that he meant a mammal — then *mosif aleihem tor u-ven yonah*: he adds to the above list a turtledove and a pigeon as well, since those too are valid *olot* that he might have intended.
+### All Mammals Uncertainty
+
+*Min ha-behemah ve-eini yodea mah peirashti* — if one said from the mammals generally but cannot recall the species, he must bring all types: *yavi par ve-egel, ayil, sa'ir, gedi u-taleh* — an ox and a calf, a ram (adult sheep), an adult goat, a kid goat, and a lamb. The assumption is that had he remembered, he would have specified among these distinct categories, so since he cannot, he must bring all of them.
+
+If the uncertainty is even broader — *peirashti ve-eini yodea mah peirashti* — he said he was bringing some kind of *olah* but does not know whether it was an animal or a bird — *mosif aleihem tor u-ven yonah* — in addition to all the mammals, he must also bring a turtledove and a pigeon, covering the possibility that he vowed a bird *olah*.
 
 ---
 
 ## Todah & Shelamim
 
-### Todah Minimum
+### Todah Lamb Minimum
 
-If someone says *harei alai todah* or *shelamim* — "I obligate myself in a thanksgiving offering" or "in a peace offering" — the minimum animal required is a lamb. Unlike the *olah*, birds are not an option for *todah* or *shelamim*, so the minimum reverts to the smallest mammal.
+*Harei alai todah u-shlamim* — if one says "I obligate myself in a thanksgiving offering or a peace offering," what is the minimum? *Yavi keves* — a lamb. Unlike *olah*, there is no bird option for a *todah* or *shelamim*; the minimum is a lamb.
 
-### Shelamim Cattle Gender
+### Todah Cattle Gender
 
-If one said *perashti min ha-bakar ve-eini yode'a mah perashti* — "I specified cattle but do not remember which type" — since a *shelamim* or *todah* may be male or female, the uncertainty now encompasses gender as well. Therefore, *yavi par u-parah egel ve-eglah* — he must bring an ox, a cow, a male calf, and a female calf.
+*Peirashti min ha-bakar ve-eini yodea mah peirashti* — if one specified cattle but cannot remember which type. Unlike *olah*, which is exclusively male, a *shelamim* or *todah* may be either male or female. Therefore — *yavi par u-parah, egel ve-eglah* — he must bring an ox and a cow, and a male calf and a female calf, covering all possibilities of gender and age within the cattle category.
 
-### Shelamim All Types
+### Todah All Mammals
 
-If one said *min ha-behemah ve-eini yode'a mah perashti* — "from the animals but I don't remember which" — he must bring all types in both genders: *par u-parah egel ve-eglah ayil ve-rachel sa'ir u-se'irah gedi ve-gediyah taleh ve-tlayah* — an ox and a cow, a male and female calf, a ram and an adult female sheep, a male and female adult goat, a male and female kid goat, and a lamb and a ewe.
-
----
-
-## Cost Vows
-
-### Ox Maneh Cost
-
-The *mishnah* now turns to cases where the vower specifies a cost rather than merely a type. *Harei alai shor* — "I obligate myself in an ox" — *yavi hu ve-nesachav be-maneh*: he must bring the ox together with its *nesachim* for a total of one *maneh*, which is one hundred *dinar*. This is the standard assumed cost of an ox together with its accompanying libations.
-
-### Animal Cost Values
-
-The *mishnah* then establishes the assumed costs for each species: *egel* — a calf — requires the animal and its *nesachim* together for five *sela'im*, which is twenty *dinar*. An *ayil* — a ram — requires two *sela'im*, which is eight *dinar*. A *keves* — a lamb — requires the animal and its *nesachim* for one *sela*, which is four *dinar*. This gives a clear picture of the relative cost of these animals: a lamb costs four *dinar* all in, while an ox costs one hundred *dinar* — twenty-five times the price of a lamb. Rashi notes these values are known from *halacha le-Moshe mi-Sinai*, while Tosafot suggests they may simply reflect standard market prices assumed by the *mishnah*.
-
-### Cost Excludes Nesachim
-
-The *mishnah* then distinguishes the case where the vower explicitly states a monetary amount. *Shor be-maneh* — "an ox for a *maneh*" — *yavi be-maneh chutz mi-nesachav*: because he explicitly said an ox for a *maneh*, the one hundred *dinar* is spent on the animal alone, not including the *nesachim*. Similarly, *egel be-chamesh* — "a calf for five [*sela'im*]" — *yavi be-chamesh chutz min ha-nesachim*: the five *sela'im* go toward the calf itself, excluding the *nesachim*. And *keves be-sela* — the one *sela* is spent on the lamb alone. When the vower does not specify a cost, the stated amounts are assumed to cover the entire bundle of animal plus *nesachim*; when a cost is explicitly named, it applies only to the animal.
-
-### Double Animal Failure
-
-*Shor be-maneh ve-hevi shnayim be-maneh lo yatza* — if one vowed an ox for one hundred *dinar* and brought two oxen whose combined cost is one hundred *dinar*, he has not fulfilled his obligation, because he specified an ox worth a hundred *dinar*. The *mishnah* continues: *ve-afilu zeh be-maneh chaser dinar ve-zeh be-maneh chaser dinar* — even if each of the two individually cost ninety-nine *dinar*, spending nearly two hundred *dinar* in total, the obligation is not met, because he said one ox worth one hundred *dinar* and no single animal brought was worth that.
+*Min ha-behemah ve-eini yodea mah peirashti* — if one said mammals generally but cannot remember which type, he must bring every species in both genders: *par u-parah, egel ve-eglah, ayil ve-rachel, sa'ir u-se'irah, gedi u-gediyah, taleh u-tlayah* — an ox and cow, a male and female calf, a ram and an adult female sheep, a male and female adult goat, and a male and female kid.
 
 ---
 
-## Animal Variations
+## Sacrifice Pricing
 
-### Color Variation
+### Ox Price
 
-*Shachor ve-hevi lavan, lavan ve-hevi shachor* — if one specified a black animal and brought a white one, or specified white and brought black, he has not fulfilled his obligation.
+The *mishna* now specifies the standard monetary values assigned to each type of animal sacrifice together with its *nesachim*. *Harei alai shor* — one who says "I obligate myself in an ox" — *yavi hu ve-nesachav be-maneh* — must bring it together with its *nesachim* for the total cost of one *maneh*, which is one hundred *dinar*.
 
-### Size Variation Debate
+### Calf Price
 
-*Gadol ve-hevi katan lo yatza* — if one specified a large animal and brought a small one, the obligation is not met. Here is the *chiddush*: *katan ve-hevi gadol yatza* — if one specified a small animal and brought a large one, he has fulfilled his obligation. *Rebbi* disagrees: *Rebbi omer lo yatza* — one does not fulfill the obligation in that case either.
+*Egel* — a calf — *yavi hu ve-nesachav be-chamesh* — he brings it with its *nesachim* for five *sela*, which is twenty *dinar*.
 
-### Size Upgrade Debate
+### Ram Price
 
-Rebbi's position is internally coherent: a large ox is not a small ox with something added to it — it is a categorically different animal. The *Tanna Kamma*, however, appears to reason that when one says "small," he means at minimum a small animal; he does not mean precisely and exclusively a small one. One can note that this principle sits more naturally in an earlier context where one said he would bring a specified number of *isronot* of flour and brought more — there the larger quantity literally contains the smaller. Whether the same logic applies to different sizes of animals is precisely what the *Tanna Kamma* and *Rebbi* dispute.
+*Ayil* — a ram — *yavi hu ve-nesachav bi-shtayim* — with its *nesachim* for two *sela*, which is eight *dinar*.
 
----
+### Lamb Price
 
-## Gemara Context Analysis
+*Keves* — a lamb — *yavi hu ve-nesachav be-sela* — one *sela*, which is four *dinar*. To appreciate the scale: a lamb costs four *dinar* and an ox costs one hundred *dinar*, twenty-five times as much. *Rashi* notes that these valuations derive from tradition (*halacha le-Moshe mi-Sinai*), while *Tosafot* raises the possibility that they simply reflect the standard market prices of the time.
 
-### Context Principle
+### Price Excludes Nesachim
 
-Returning to the debate between the *Tanna Kamma* and Rabbi Elazar ben Azariah over the minimum *olah* — whether it is a lamb or a bird — the *Gemara* says *ve-lo pligi, mar ki atreih u-mar ki atreih*: they do not actually disagree. Rather, each speaks according to the reality of his locale. In one place a lamb was the least expensive option; in another place turtledoves were cheaper. The *Gemara* does not frame the dispute as being about whether one assumes the default *korban* is a mammal versus an objectively smaller bird offering; that is not how the *Gemara* chooses to explain it.
-
-### Sela Standard
-
-A *baraita* is then cited: *harei alai olah be-sela la-mizbe'ach yavi keves* — if one says "I obligate myself in a burnt offering for one *sela* on the *mizbe'ach*," he brings a lamb, *she-ein lecha davar she-karev be-sela le-gabei mizbe'ach ela keves* — because there is nothing offered on the *mizbe'ach* that costs exactly one *sela* except a lamb. As we saw in the *mishnah*, one *sela* is the standard all-in cost of a lamb and its *nesachim*.
-
-### Flexible Cost Item
-
-If one said he specified an amount but cannot recall what he said — *perashti ve-eini yode'a mah perashti* — *yavi mi-kol davar she-karev be-sela le-gabei mizbe'ach*: he must bring any possible item whose total cost on the *mizbe'ach* is one *sela*. Since he said he would bring something for a *sela* but cannot recall which item he named, all possibilities that come to one *sela* must be covered. Without specification, the default assumption is the standard item at that price, which is the lamb.
+When one does not specify an amount, the stated figure covers the entire bundle — the animal plus its *nesachim*. But if one explicitly names both the animal type and the price — *shor be-maneh yavi be-maneh chutz me-nesachav* — an ox at a *maneh*, he brings an ox costing one *maneh* and the *nesachim* are separate and additional. *Egel be-chamesh yavi be-chamesh chutz min ha-nesachim* — a calf at five *sela*, the five *sela* goes to the calf alone, not including the *nesachim*. *Keves be-sela yavi be-sela chutz min ha-nesachim* — and similarly for a lamb.
 
 ---
 
-## Mishnah Attribution
+## Exact Specification
 
-### Cattle Both Required
+### Two Animals Fail
 
-The *Gemara* returns to the *mishnah*'s ruling that if one said "from the cattle" (*min ha-bakar*) but cannot remember which type, he must bring both an ox and a calf. The *Gemara* asks: *amai* — why? *Ve-leihavei par min ha-munach* — let him just bring an ox. After all, if he had vowed a calf and brings an ox, the ox is larger — should that not suffice?
+The *mishna* now turns to cases of exact specification and what happens when the fulfillment does not match the vow precisely. *Shor be-maneh ve-hevi shnayim be-maneh lo yatza* — if one vowed an ox for one hundred *dinar* and brought two oxen whose combined cost is one hundred *dinar*, he has not fulfilled his obligation — he vowed a single ox at that price. *Ve-afilu zeh be-maneh chaser dinar ve-zeh be-maneh chaser dinar* — even if each of the two oxen cost ninety-nine *dinar*, so that together he spent nearly double the vowed amount, he has still not fulfilled his obligation, because he specified a single ox worth one hundred *dinar* and did not bring one.
 
-### Rebbi Attribution
+### Color Specificity
 
-The *Gemara* answers: *ha mani Rebbi hi de-amar katan ve-hevi gadol lo yatza* — this follows *Rebbi*, who holds that if one said a small animal and brought a large one, the obligation is not fulfilled. Hence if one had vowed a calf and brings an ox, he has not discharged his obligation, and that is why he must bring both.
+*Shachor ve-hevi lavan, lavan ve-hevi shachor* — if one specified a black animal and brought white, or a white and brought black, the obligation is not fulfilled.
 
-### Rabbanan Middle
+### Size Dispute
 
-But the *Gemara* immediately challenges this: *ei Rebbi eima seifa* — if the opening clause (*reisha*) follows *Rebbi*, what do we make of the final section of the *mishnah*? There we read *katan ve-hevi gadol yatza* — that the *Tanna Kamma* holds one does fulfill the obligation by bringing a larger animal when a smaller one was specified, and only *Rebbi* says *lo yatza*. The *Tanna Kamma*'s position in the final clause (*seifa*) is that of the *Rabbanan*. So how can the *reisha* follow *Rebbi* while the middle section (*metzi'ata*) follows the *Rabbanan*? Normally we would assume everything before *Rebbi's* dissent represents the *Chachamim*.
+The *mishna* then addresses size: *gadol ve-hevi katan lo yatza* — if one vowed a large animal and brought a small one, the obligation is not fulfilled. Here arises a *machloket*:
 
-### Three-Position Structure
+### Tanna Kamma: Large OK
 
-The *Gemara* confirms: *reisha ve-seifa Rebbi, metzi'ata Rabbanan* — yes, the opening and closing clauses reflect *Rebbi's* position, and the middle section reflects the *Rabbanan's*. *Ve-hachi ka'amar*: the *mishnah* is structured as follows. The *reisha* — that one who said "cattle" must bring both calf and ox and cannot satisfy his obligation with just an ox — follows *Rebbi*, who holds that substituting a larger animal for a smaller one does not work. This dispute is then made explicit in the *seifa*, where the *Rabbanan* (as *Tanna Kamma*) hold that *katan ve-hevi gadol yatza*, while *Rebbi* says *lo yatza*. The *mishnah* is thus: *risha* — *Rebbi*; *metzi'ata* — *Rabbanan*; *seifa* — explicitly *Rebbi* once more.
+*Katan ve-hevi gadol yatza* — if one vowed a small animal and brought a large one, the Tanna Kamma holds that the obligation is fulfilled. The apparent reasoning is that when one says "small," one means at minimum something small — not an exact size — so a larger animal satisfies the obligation.
+
+### Rabbi: Large Fails
+
+*Rebbi omer lo yatza* — Rabbi says the obligation is not fulfilled even in this direction. Rabbi's position is conceptually coherent: a large ox is not simply a small ox with something added; it is a categorically different type of animal. One might note that the argument for Tanna Kamma is stronger in the case of meal offerings — when one vows a certain number of *isronot* of flour and brings more, the larger amount literally contains the smaller amount within it. With animals, that containment is less obvious.
 
 ---
 
-## Six Horns Context
+## Size Debate Resolution
 
-### Six Horns Setup
+### Gemara Question
 
-The *Gemara* now cites a *mishnah* from *Shekalim* that was also quoted a few *dappim* earlier: *shisha l'nedavah* — there were six *shofarot* (horn-shaped collection boxes) in the *Beit ha-Mikdash* dedicated to voluntary burnt offerings. Money placed in these boxes would be used to bring *olot* on the *mizbe'ach* on days when it was not busy with other sacrifices. The question is *keneged mi* — what do these six correspond to? Why six separate boxes rather than one?
+The *Gemara* now raises a difficulty. Recall that the *mishna* ruled: *peirashti min ha-bakar ve-eini yodea mah peirashti yavi par ve-egel* — if one said his offering would be from the cattle but cannot remember which, he must bring both an ox and a calf. The *Gemara* asks: *amai* — why? *Ve-leihavei par min ha-munach* — just bring an ox. If one vowed a calf and brings an ox, and Tanna Kamma holds that *katan ve-hevi gadol yatza* — bringing a larger one fulfills a vow for a smaller one — then an ox should discharge even the possibility that he vowed a calf.
 
-### Six Families Rotation
+The answer is immediate: *ha mani Rebbi hi de-amar katan ve-hevi gadol lo yatza* — this ruling in the *mishna* follows Rabbi, who holds that if you vowed a small animal and brought a large one, you have not fulfilled your obligation. Therefore even if he vowed a calf, he cannot discharge that obligation with an ox; he must bring a calf in any case.
 
-Chizkiya explains: *keneged shisha batei avot ha-kohanim she-tiknu lahem chachamim she-yishalom zeh im zeh* — corresponding to the six priestly families (*batei avot*) among whom the Sages instituted this arrangement so that they would be at peace with one another. Each *mishmar* — the weekly cohort of priests — was divided into six *batei avot*, each serving on one day of the working week (with all families serving together on *Shabbat*). There was therefore one *shofar* for Sunday, one for Monday, one for Tuesday, one for Wednesday, and so on. On your family's day, if few individual *korbanot* were brought, you would draw from your designated *shofar* to bring *olot* and thereby keep the *mizbe'ach* busy — and the priestly family that performed those *olot* would benefit from the hides and associated perquisites. Had there been only one communal *shofar*, the family serving on a quiet Wednesday might draw heavily from it, prompting families who served on busier days to complain that the Wednesday family was benefiting from shared funds that they did not need. By assigning each day its own *shofar*, the arrangement eliminated that grievance. It is worth noting that the word *keneged* here does not merely mean "symbolically corresponding to" — it describes the actual functional rationale.
+### Mixed Opinions
 
-### Preventing Conflict
+The *Gemara* then pauses: *ei Rebbi eima seifa* — but if the ruling about cattle follows Rabbi, look at what the *mishna* says further on: *shor be-maneh ve-hevi shnayim be-maneh lo yatza... shachor ve-hevi lavan, lavan ve-hevi shachor, gadol ve-hevi katan lo yatza, katan ve-hevi gadol yatza* — and then the *mishna* itself states the Tanna Kamma's position that bringing a large animal fulfills a small vow, followed by *Rebbi omer lo yatza* at the very end. So the opening (*reisha*) of the *mishna* would follow Rabbi, the middle (*metzi'ata*) would follow the Rabbis, and the end (*seifa*) would return to Rabbi? *Reisha ve-seifa Rebbi, metzi'ata Rabbanan?*
 
-The purpose is therefore explicitly to prevent dispute among the priestly families. The six-box structure was an institutional safeguard ensuring that each *beit av* drew only from funds associated with its own day, so no family could claim that another was unfairly benefiting from communal resources.
+### Rabbi Position
 
-### Coin Deterioration
+The *Gemara* confirms: *ein, reisha ve-seifa Rebbi, metzi'ata Rabbanan* — yes, that is precisely how the *mishna* is to be read. *Ve-hachi ka'amar* — and this is what the *mishna* means: The opening, which requires bringing both a calf and an ox when the vow was for an unspecified type of cattle, follows Rabbi — an ox does not discharge a calf vow. The middle section then states the general *machloket* between Rabbi and the Rabbis — the Rabbis hold *katan ve-hevi gadol yatza*, Rabbi holds *lo yatza* — and the final ruling *Rebbi omer lo yatza* is Rabbi's position within that debate.
 
-Rabbi Yochanan offers a different explanation: *mitoch she-nedavah merubah tiknu lahem shofarot merubos k'dei she-lo yis'afshu ha-maot* — because donations were numerous, the Sages instituted multiple *shofarot* so that the coins would not deteriorate. If all donations were placed into a single box, a large accumulation of copper coins sitting for a long time would become rusty or moldy before being used. Distributing the money across six boxes ensured a faster turnover in each one and prevented this deterioration.
+### Debate Framework
 
-### Six Animals Parallel
+The broader implication is that the question of size substitution — whether a larger animal can discharge a vow for a smaller one — is the heart of a comprehensive dispute between Rabbi and the *Rabbanan*, and the structure of this entire *mishna* reflects that disagreement, with the earlier section being attributed to Rabbi's position and the middle to the *Rabbanan*'s.
 
-Zeiri suggests yet another correspondence: *keneged par ve-egel keves ve-gedi ve-sa'ir* — the six *shofarot* correspond to the six types of sacrificial mammals that may serve as an *olah*: an ox, a calf, a ram, a sheep, a goat, and a kid goat. This is presumably why the *Gemara* discusses the six *shofarot* at precisely this point in the tractate, having just enumerated these very animals in the context of vow uncertainties. The *Gemara* adds that this reading aligns with *Rebbi's* position — *ve-Rebbi hi de-amar katan ve-gadol lo yatza* — since *Rebbi* holds that a smaller animal does not satisfy a vow for a larger one and vice versa, treating each of the six animal types as genuinely distinct, which supports envisioning six separate corresponding categories.
+---
+
+## Temple Treasury Boxes
+
+### Six Horns Intro
+
+The *Gemara* now cites a *mishna* from *Shekalim*: *shisha l'nedava* — there were six horns (*shofarot* — the narrow-topped collection boxes in the Temple) designated for voluntary elevation offering funds. Money that could not be used for its original purpose was redeemed, and the proceeds placed in these boxes; from them, *olot* were funded to keep the altar active during quiet periods. The question is: *keneged mi* — corresponding to what? Why specifically six boxes rather than one?
+
+### Six Families Theory
+
+*Chizkiyah* offered one explanation: *keneged shisha batei avos ha-kohanim she-tiknu lahem chachamim she-yishalom zeh im zeh* — corresponding to the six priestly family units (*batei avos*) within each weekly rotation (*mishmar*) of priests. The twenty-four *mishmarot* each served one week; within each *mishmar*, the six *batei avos* each took a day of the week (Sunday through Friday, with *Shabbat* shared by all). Each *beit av* served on its designated day, and on quiet days when few private *korbanot* were brought there would be less revenue from hides and other perquisites. By having a separate box for each day, each *beit av* could draw supplemental funds only from its own box — the day's designated *shofar* — rather than from a communal pool. This avoided resentment: had there been a single box, a *beit av* on a busy day might have bristled at a slower-day *beit av* drawing communal funds to sponsor extra *olot* and profit from their perquisites. The word *keneged* here, *Chizkiyah* implies, points not merely to symbolic correspondence but to the practical purpose that motivated the arrangement.
+
+### Coin Preservation
+
+*Rabbi Yochanan* offered a different practical rationale: *mitoch she-nedava meruba tiknu lahem shofarot merubos kedei she-lo yis'afshu ha-maos* — because the volume of donations was large, multiple boxes were instituted so that the coins would not sit too long and deteriorate. Copper coins left in a single large box for an extended period would rust or become moldy; distributing the funds across six boxes meant each box turned over more quickly.
+
+### Animal Types Theory
+
+*Zeiri* gave a third explanation: *keneged par ve-egel, keves ve-gedi ve-sa'ir* — corresponding to the six types of mammalian *olah* offerings: an ox, a calf, a ram, a lamb, an adult goat, and a kid goat. Each box was designated for a particular animal type, and donors could earmark their funds accordingly.
+
+### Rabbi Connection
+
+*Ve-Rebbi hi de-amar katan ben gadol lo yatza* — and this explanation follows Rabbi's position, who holds that a smaller animal vow is not discharged by a larger animal. Because Rabbi maintains that each animal type constitutes a categorically distinct offering — a calf is not merely a small ox — it is coherent to have six separate boxes, one for each distinct mammalian *olah* type. Were they interchangeable, there would be less reason to maintain separate accounting for each. The juxtaposition of this *mishna* from *Shekalim* with the preceding discussion of Rabbi's position is thus not incidental; the six-box structure of the Temple treasury itself reflects Rabbi's fundamental view of how these six animal types relate to one another.

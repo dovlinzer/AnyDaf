@@ -1,329 +1,455 @@
 {
   "masechta": "Yevamot",
   "daf": 3,
-  "amud": "",
+  "amud": "a",
   "macro_segments": [
     {
-      "title": "Introduction to Seder Nashim and Yevamot: Terminology, Conceptual Framework, and the Paradox of Yibum Overriding Arayot",
-      "display_title": "Intro: Yibum & Arayot",
-      "timestamp": "00:00",
+      "title": "Introduction to Seder Nashim and the Masechet Yevamot: Scope, Structure, and the Metaphysics of Levirate Marriage",
+      "display_title": "Intro: Nashim & Yibum",
+      "timestamp": "00:23",
       "micro_segments": [
         {
-          "title": "Opening remarks on Seder Nashim (wives vs. women) and the structure of Yevamot as a masechet dealing with personal status beyond yibum",
-          "display_title": "Seder Nashim Overview",
-          "timestamp": "00:00"
+          "title": "Overview of Seder Nashim: Translation, Content, and the Primacy of Wives in Halakhic Discourse",
+          "display_title": "Nashim Definition",
+          "timestamp": "00:23"
         },
         {
-          "title": "Etymology and biblical background of yibum; pre-Matan Torah practice and the Ramban's view on gilgul neshamot",
-          "display_title": "Yibum Etymology & History",
+          "title": "Structural Challenges of Yevamot as the Opening Masechet: Length and Curriculum Design",
+          "display_title": "Masechet Structure",
+          "timestamp": "01:13"
+        },
+        {
+          "title": "Scope of Yevamot Beyond Yibum: Personal Status, Mamzerut, Gerus, and Agunah Questions",
+          "display_title": "Yevamot Scope",
+          "timestamp": "01:42"
+        },
+        {
+          "title": "Etymology and Dual Meaning of Yabam and Yevama: Brother-in-Law and Sister-in-Law",
+          "display_title": "Yabam Terminology",
           "timestamp": "02:54"
         },
         {
-          "title": "The conceptual paradox: how yibum (a positive commandment) overrides the issur arayot (biblical prohibition); debates among Karaites and Sadducees",
-          "display_title": "Yibum vs. Arayot Paradox",
-          "timestamp": "03:42"
+          "title": "Historical Context of Yibum Before and After Matan Torah: Ancient Practice, Ramban's View, and Restrictions Due to Arayot",
+          "display_title": "Yibum History",
+          "timestamp": "03:01"
         },
         {
-          "title": "The mechanism of asei doche lo ta'asei and the idea of ne'emru be-dibbur echad (two contradictory commands stated as one)",
-          "display_title": "Asei Doche Lo Ta'asei",
-          "timestamp": "07:07"
+          "title": "The Metaphysical Dimension of Lehakim Shem Achiv Hamet: Gilgul Neshamot and the Continuity of the Dead Brother's Soul",
+          "display_title": "Lehakim Shem",
+          "timestamp": "04:03"
+        },
+        {
+          "title": "Halakhic Consequences of Yibum: Inheritance, Paternity, and the Continuation of the Dead Brother's Name",
+          "display_title": "Yibum Halakha",
+          "timestamp": "05:14"
+        },
+        {
+          "title": "The Central Paradox: Yibum as Asei Doche Lo Ta'asei or a More Radical Chiddush Resolving Biblical Contradiction",
+          "display_title": "Asei/Lo Taase",
+          "timestamp": "05:35"
+        },
+        {
+          "title": "Non-Rabbinic Interpretations: Karaite and Tzaduki Solutions to the Eshet Ach Contradiction",
+          "display_title": "Karaite Views",
+          "timestamp": "06:15"
         }
       ]
     },
     {
-      "title": "Linguistic and Technical Opening of Yevamot: Order, Terminology, and Enumeration of the Fifteen Exempt Women",
-      "display_title": "Opening Sugya: Order & L…",
+      "title": "Opening Technical Analysis of the Mishna: Ordering Principles Based on Derasha, Proximity, and Logical Organization",
+      "display_title": "Mishna Order",
       "timestamp": "09:19",
       "micro_segments": [
         {
-          "title": "Why the mishna begins with daughter (bito): the preference for women learned through drasha rather than explicit verses",
-          "display_title": "Why Daughter First?",
+          "title": "The Pattern of Opening Sugyas: Late Layer Analysis, Technical Language Questions, and Rav Sherira Gaon's Letter on Stam Additions",
+          "display_title": "Opening Sugya",
           "timestamp": "09:19"
         },
         {
-          "title": "The gezeira shava linking biological daughter to wife's daughter through the words heina and zima (biblical punishment by burning)",
-          "display_title": "Gezeira Shava: Daughter",
-          "timestamp": "15:22"
+          "title": "Why the Mishna Begins with Bito: The Centrality of Derasha and the Unique Status of Biological Daughter Among Arayot",
+          "display_title": "Bito Priority",
+          "timestamp": "10:51"
         },
         {
-          "title": "The organizing principle of the mishna: degree of relation (vertical descent, ascent, and collateral relationships) rather than drasha priority",
-          "display_title": "Organization by Kinship",
-          "timestamp": "20:08"
+          "title": "Distinction Between Bito and Bat Ishto: Explicit Versus Derived Prohibitions in the Psukim",
+          "display_title": "Bito vs Bat Ishto",
+          "timestamp": "12:11"
         },
         {
-          "title": "Why the mishna says 'potrot' (exempt) rather than 'osrot' (forbidden): the mechanism of removing the mitzvah of yibum",
-          "display_title": "Potrot vs. Osrot",
-          "timestamp": "29:16"
+          "title": "The Gezeira Shava of Heina-Heina and Zima-Zima: Deriving Daughter's Prohibition and Punishment from Granddaughter and Wife's Daughter",
+          "display_title": "Gezeira Shava",
+          "timestamp": "15:23"
         },
         {
-          "title": "Why chalitza is mentioned before yibum: the view of Abba Shaul that chalitza is preferred to prevent improper motivation in yibum",
-          "display_title": "Chalitza Before Yibum",
-          "timestamp": "34:15"
+          "title": "Organization by Relationship Proximity Rather Than Derasha: Vertical, Lateral, and Collateral Relationships Ordered by Closeness",
+          "display_title": "Korvei Ordering",
+          "timestamp": "20:36"
         },
         {
-          "title": "The enumeration of fifteen women as exclusions: rejecting Rav and Rav Assi's cases of sotah and ailonit, and the two additional cases of me'anenes and machzir gerushato",
-          "display_title": "Fifteen Women & Exclusio…",
-          "timestamp": "38:56"
+          "title": "Three Generations Down and Up: Why Mother-in-Law and Grandmother-in-Law Follow Daughters and Granddaughters",
+          "display_title": "Three Generations",
+          "timestamp": "24:06"
+        },
+        {
+          "title": "Horizontal Organization Through Sisters: Integrating Achot Imma and Achot Ishto Into the Sibling Category",
+          "display_title": "Sister Inclusion",
+          "timestamp": "25:39"
+        },
+        {
+          "title": "Ordering of Wives: Why Kallato Precedes Eshet Achiv Shelo Haya Beolamo in Logical Priority But Not List Order",
+          "display_title": "Wives Ordering",
+          "timestamp": "26:19"
+        }
+      ]
+    },
+    {
+      "title": "Linguistic Precision in the Mishna: The Terms 'Potrot' (Exempt) and the Sequence of Chalitza Before Yibum",
+      "display_title": "Language: Potrot",
+      "timestamp": "29:13",
+      "micro_segments": [
+        {
+          "title": "Why 'Potrot' Rather Than 'Osrot': The Halakhic Mechanism of Removing Mitzvas Yibum Versus Making Co-Wives Forbidden",
+          "display_title": "Potrot Mechanism",
+          "timestamp": "29:13"
+        },
+        {
+          "title": "The Difference Between Assur and Patur: Avoiding Ambiguity About Chalitza Obligations in Cases of Uncertainty",
+          "display_title": "Assur vs Patur",
+          "timestamp": "29:45"
+        },
+        {
+          "title": "Co-Wife Exemption Only in Context of Mitzva: Why the Mechanism Depends on Yibum Obligation Rather Than Erva Status",
+          "display_title": "Tzara Mechanism",
+          "timestamp": "31:38"
+        },
+        {
+          "title": "The Sequence of Chalitza Before Yibum: Abba Shaul's Preference and the Concern for Leshem Mitzvah",
+          "display_title": "Chalitza Priority",
+          "timestamp": "34:40"
+        },
+        {
+          "title": "Abba Shaul's Objection: Why Yibum Motivated by Attraction Rather Than Obligation Approaches Issur Erva",
+          "display_title": "Leshem Mitzvah",
+          "timestamp": "36:38"
+        }
+      ]
+    },
+    {
+      "title": "Numerical Precision and Exclusionary Scope: Why Fifteen Women Exactly, and What Cases Are Deliberately Omitted",
+      "display_title": "Fifteen Women",
+      "timestamp": "38:52",
+      "micro_segments": [
+        {
+          "title": "The Debate Over Additional Exempt Categories: Rav's Tzarat Suta and Rav Assi's Tzarat Aylonit",
+          "display_title": "Rav Disputes",
+          "timestamp": "38:52"
+        },
+        {
+          "title": "Suta and Aylonit: Women Exempt from Yibum Due to Relationship Viability Rather Than Erva Status",
+          "display_title": "Suta/Aylonit",
+          "timestamp": "39:14"
+        },
+        {
+          "title": "Cases Where Tzara Principle Does Not Apply: Mema'enes and Machzir Gerushato as Deliberate Exclusions",
+          "display_title": "Tzara Exclusions",
+          "timestamp": "42:39"
+        },
+        {
+          "title": "The Case of Mema'enes: Underage Wife Who Performs Mi'un, Breaking the Quasi-Marital Zika Relationship",
+          "display_title": "Mema'enes Case",
+          "timestamp": "44:27"
+        },
+        {
+          "title": "The Case of Machzir Gerushato: Divorced and Remarried Wife, Creating a Different Quality of Issur Than Suta",
+          "display_title": "Machzir Grushaso",
+          "timestamp": "46:46"
+        },
+        {
+          "title": "Tzarat Tzara as the Ultimate Limiting Criterion: Why These Cases Affect Only Immediate Co-Wives, Not Subsequent Generations",
+          "display_title": "Tzarat Tzara",
+          "timestamp": "48:25"
         }
       ]
     }
   ],
   "topical_tags": [
     {
-      "term": "yibum (levirate marriage)",
+      "term": "Yibum (Levirate Marriage)",
       "timestamps": [
         "00:05",
-        "01:45",
-        "03:01",
+        "01:47",
         "03:20",
-        "07:09",
-        "09:23",
-        "20:25",
-        "27:53",
-        "29:57",
-        "30:51",
-        "35:03",
-        "39:38",
-        "40:07",
-        "42:16",
-        "45:24",
-        "46:04"
+        "04:13",
+        "05:35",
+        "06:00",
+        "07:07",
+        "16:00",
+        "27:00",
+        "29:31",
+        "35:00",
+        "38:52"
       ]
     },
     {
-      "term": "arayot (forbidden sexual relationships)",
+      "term": "Erva/Arayot (Forbidden Relations)",
       "timestamps": [
-        "01:58",
-        "08:19",
-        "10:48",
-        "14:14",
+        "05:50",
+        "06:45",
+        "10:51",
+        "13:55",
+        "14:15",
         "15:00",
-        "30:53",
-        "34:02",
-        "40:41",
-        "41:54",
-        "42:23"
+        "20:22",
+        "30:52",
+        "32:00",
+        "39:14"
       ]
     },
     {
-      "term": "tzarot (co-wives)",
+      "term": "Tzara (Co-Wife)",
       "timestamps": [
-        "05:51",
-        "11:07",
-        "29:29",
-        "31:32",
-        "40:13",
-        "41:01",
-        "42:28",
-        "43:40",
-        "46:37",
+        "10:04",
+        "14:47",
+        "29:05",
+        "31:38",
+        "40:07",
+        "42:13",
         "48:06"
       ]
     },
     {
-      "term": "erva (nakedness; forbidden relationship)",
+      "term": "Derasha (Rabbinic Interpretation)",
       "timestamps": [
-        "05:53",
-        "10:48",
-        "13:01",
-        "15:07",
-        "22:27",
-        "27:59",
-        "40:37",
-        "41:54",
-        "42:23"
-      ]
-    },
-    {
-      "term": "drasha (rabbinic interpretation/derivation)",
-      "timestamps": [
-        "11:35",
-        "11:41",
+        "10:37",
+        "11:01",
         "13:27",
-        "14:23",
-        "15:02",
+        "14:40",
         "20:15",
-        "22:18",
         "22:47"
       ]
     },
     {
-      "term": "gezeira shava (verbal analogy)",
+      "term": "Gezeira Shava (Verbal Analogy)",
       "timestamps": [
-        "15:29",
+        "15:23",
         "16:02",
-        "16:59",
-        "17:31"
+        "17:06"
       ]
     },
     {
-      "term": "potrot (exempt)",
+      "term": "Chalitza (Widow's Release)",
       "timestamps": [
-        "14:30",
-        "29:16",
-        "29:37",
-        "30:29",
-        "31:32",
-        "34:08"
-      ]
-    },
-    {
-      "term": "chalitza (release ceremony)",
-      "timestamps": [
-        "29:55",
+        "29:52",
         "30:01",
-        "30:45",
-        "34:15",
-        "34:33",
-        "35:40",
-        "36:19",
-        "36:31",
-        "37:31"
+        "34:40",
+        "35:42",
+        "36:38"
       ]
     },
     {
-      "term": "issur (prohibition)",
+      "term": "Potrot/Patur (Exempt)",
       "timestamps": [
-        "06:07",
-        "30:47",
-        "30:53",
-        "31:02",
-        "40:49",
-        "41:32",
-        "47:29",
-        "47:52"
+        "10:29",
+        "14:51",
+        "29:13",
+        "29:45"
       ]
     },
     {
-      "term": "sotah (suspected adulteress)",
+      "term": "Mamzer (Illegitimate Child)",
       "timestamps": [
-        "39:25",
-        "40:44",
-        "41:04",
-        "48:50"
+        "01:52",
+        "38:04"
       ]
     },
     {
-      "term": "ailonit (barren/infertile woman)",
+      "term": "Eshet Ach (Brother's Wife)",
       "timestamps": [
-        "41:51",
-        "42:46",
-        "48:51"
+        "06:45",
+        "07:07",
+        "27:13",
+        "28:02"
       ]
     },
     {
-      "term": "me'anenes (girl who exercised refusal)",
+      "term": "Kiddushin (Betrothal/Marriage)",
       "timestamps": [
-        "43:40",
-        "46:04",
-        "46:23",
-        "46:38"
+        "00:51",
+        "48:26"
       ]
     },
     {
-      "term": "machzir gerushato (one who remarries his divorcée)",
+      "term": "Matan Torah",
       "timestamps": [
-        "43:40",
-        "46:47",
-        "46:57",
-        "47:16",
-        "47:30"
+        "03:01",
+        "03:48"
       ]
     },
     {
-      "term": "Abba Shaul (tanna with stringent view on yibum)",
-      "timestamps": [
-        "36:39",
-        "36:46",
-        "37:27"
-      ]
-    },
-    {
-      "term": "Rav and Rav Assi (amoraim debating exemption categories)",
-      "timestamps": [
-        "39:12",
-        "39:17",
-        "40:25",
-        "40:58",
-        "41:39",
-        "41:48",
-        "42:40",
-        "42:56",
-        "43:20"
-      ]
-    },
-    {
-      "term": "mi'un (refusal by minor girl)",
-      "timestamps": [
-        "46:04",
-        "46:09",
-        "46:31",
-        "46:33"
-      ]
-    },
-    {
-      "term": "zika (quasi-relationship transferred from deceased brother)",
-      "timestamps": [
-        "45:41",
-        "45:46"
-      ]
-    },
-    {
-      "term": "asei doche lo ta'asei (positive commandment overrides negative)",
+      "term": "Asei Doche Lo Ta'asei (Positive Overrides Negative)",
       "timestamps": [
         "07:12"
       ]
     },
     {
-      "term": "ne'emru be-dibbur echad (two contradictory commands as one utterance)",
+      "term": "Ramban",
       "timestamps": [
-        "07:22",
-        "07:40"
+        "03:48",
+        "04:49"
       ]
     },
     {
-      "term": "korva (closeness of kinship relation)",
+      "term": "Karaim (Karaites)",
       "timestamps": [
-        "23:08",
-        "23:15",
-        "24:39",
-        "26:01",
-        "26:54"
+        "06:24"
       ]
     },
     {
-      "term": "issur kares (punishment of kareth/excision)",
+      "term": "Tzadukim (Sadducees)",
       "timestamps": [
-        "06:08",
-        "30:55"
+        "06:15"
       ]
     },
     {
-      "term": "gilgul neshamot (reincarnation of souls)",
+      "term": "Gilgul Neshamot (Soul Reincarnation)",
       "timestamps": [
-        "04:52",
-        "05:06"
+        "04:49",
+        "08:54"
       ]
     },
     {
-      "term": "Ramban (Nachmanides)",
+      "term": "Lehakim Shem Achiv Hamet (Establishing the Dead Brother's Name)",
       "timestamps": [
-        "03:42",
-        "04:03"
+        "04:16"
       ]
     },
     {
-      "term": "Karaites (Qaraim)",
+      "term": "Rav",
       "timestamps": [
-        "06:24",
-        "06:29"
+        "39:14",
+        "40:25",
+        "42:14"
       ]
     },
     {
-      "term": "Tzadukim/Eseiyim (Sadducees)",
+      "term": "Rav Assi",
       "timestamps": [
-        "06:15",
-        "06:18"
+        "39:14",
+        "41:39",
+        "42:35"
+      ]
+    },
+    {
+      "term": "Abba Shaul",
+      "timestamps": [
+        "36:39",
+        "36:46"
+      ]
+    },
+    {
+      "term": "Rashi",
+      "timestamps": [
+        "12:13",
+        "16:12",
+        "37:27",
+        "50:05"
+      ]
+    },
+    {
+      "term": "Rav Sherira Gaon",
+      "timestamps": [
+        "10:17"
+      ]
+    },
+    {
+      "term": "Suta (Suspected Adulteress)",
+      "timestamps": [
+        "39:22",
+        "40:25",
+        "47:49"
+      ]
+    },
+    {
+      "term": "Aylonit (Barren Woman)",
+      "timestamps": [
+        "41:39",
+        "41:46"
+      ]
+    },
+    {
+      "term": "Mema'enes (Minor Who Refuses Marriage)",
+      "timestamps": [
+        "43:16",
+        "44:27"
+      ]
+    },
+    {
+      "term": "Machzir Gerushato (Remarrying Divorced Wife)",
+      "timestamps": [
+        "43:43",
+        "46:46"
+      ]
+    },
+    {
+      "term": "Mi'un (Refusal by Minor)",
+      "timestamps": [
+        "46:03"
+      ]
+    },
+    {
+      "term": "Zika (Quasi-Marital Connection)",
+      "timestamps": [
+        "45:38"
+      ]
+    },
+    {
+      "term": "Bito (Biological Daughter)",
+      "timestamps": [
+        "10:51",
+        "13:08",
+        "20:35"
+      ]
+    },
+    {
+      "term": "Bat Ishto (Wife's Daughter)",
+      "timestamps": [
+        "12:48",
+        "13:10"
+      ]
+    },
+    {
+      "term": "Achot Ishto (Wife's Sister)",
+      "timestamps": [
+        "20:31",
+        "23:00",
+        "26:19"
+      ]
+    },
+    {
+      "term": "Kallato (Daughter-in-Law)",
+      "timestamps": [
+        "21:47",
+        "29:04"
+      ]
+    },
+    {
+      "term": "Leshem Mitzvah (For the Sake of the Commandment)",
+      "timestamps": [
+        "37:52",
+        "38:16"
+      ]
+    },
+    {
+      "term": "Korvei (Close Relations)",
+      "timestamps": [
+        "24:32",
+        "24:54"
+      ]
+    },
+    {
+      "term": "Ishura (Mutual Obligation)",
+      "timestamps": [
+        "20:32"
       ]
     }
   ]

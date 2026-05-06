@@ -7,11 +7,12 @@ REWRITE_MODEL = "claude-sonnet-4-6"
 SOURCE_INSERTION_MODEL = "claude-haiku-4-5-20251001"
 
 # Max output tokens per pass.
-# Pass 1 (segmentation JSON) is compact — 8K is ample.
+# Pass 1 (segmentation JSON): long shiurim with many topical_tags exceeded 16K;
+# 32K matches the rewrite limit and eliminates truncation on known corpus.
 # Pass 2 (rewrite) can be 12K–20K for a 45-min shiur; 32K gives headroom.
 # Pass 3 (source insertion) outputs the full essay PLUS all Sefaria blockquotes;
-# allow up to 32K (raise further if very long shiurim are still truncated).
-SEGMENTATION_MAX_TOKENS = 16000
+# allow up to 64K (raise further if very long shiurim are still truncated).
+SEGMENTATION_MAX_TOKENS = 32000
 REWRITE_MAX_TOKENS = 32000
 SOURCE_INSERTION_MAX_TOKENS = 64000
 

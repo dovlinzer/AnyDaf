@@ -91,7 +91,7 @@ object AppPreferences {
     val printFontSize: Flow<StudyFontSize> = store.data.map {
         StudyFontSize.entries.firstOrNull { f -> f.name == it[PRINT_FONT_SIZE] } ?: StudyFontSize.SMALL
     }
-    val printLineSpacing: Flow<Double> = store.data.map { it[PRINT_LINE_SPACING] ?: 1.15 }
+    val printLineSpacing: Flow<Double> = store.data.map { it[PRINT_LINE_SPACING] ?: 1.5 }
     suspend fun saveEngagementSeconds(seconds: Long) {
         store.edit { it[TOTAL_ENGAGEMENT_SECONDS] = seconds }
     }

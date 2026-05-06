@@ -629,8 +629,8 @@ fun ContentScreen(
                                                 val shiurDisplayForPrint = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                                                 IconButton(
                                                     onClick = {
-                                                        val txt = shiurDisplayForPrint ?: return@IconButton
-                                                        PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), txt), printFontSize, printLineSpacing)
+                                                        val txt = shiurDisplayForPrint
+                                                        if (txt != null) PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), txt), printFontSize, printLineSpacing)
                                                     },
                                                     modifier = Modifier.size(36.dp)
                                                 ) {
@@ -669,8 +669,8 @@ fun ContentScreen(
                                             studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
                                         },
                                         onPrintTranslation = {
-                                            val s = studyViewModel.session.value ?: return@StudyModeContent
-                                            PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
+                                            val s = studyViewModel.session.value
+                                            if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
                                         },
                                         modifier = Modifier.fillMaxSize()
                                     )

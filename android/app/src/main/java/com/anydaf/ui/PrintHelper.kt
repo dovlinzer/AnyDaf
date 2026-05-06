@@ -1,8 +1,10 @@
 package com.anydaf.ui
 
+import android.app.AlertDialog
 import android.content.Context
 import android.graphics.BitmapFactory
 import android.print.PrintAttributes
+import android.print.PrintJob
 import android.print.PrintManager
 import android.util.Base64
 import android.webkit.JavascriptInterface
@@ -61,55 +63,85 @@ object PrintHelper {
         Toast.makeText(context, "Preparing document…", Toast.LENGTH_SHORT).show()
 
         CoroutineScope(Dispatchers.Main).launch {
-            val logoBase64 = withContext(Dispatchers.IO) { loadLogoBase64(context) }
-            val html = withContext(Dispatchers.Default) {
-                buildHtml(content, printFontSize.printPt, printLineSpacing, logoBase64)
-            }
-
-            val webView = WebView(context)
-            webView.settings.javaScriptEnabled = true
-            webView.settings.domStorageEnabled = false
-
-            var presented = false
-
-            fun presentPrint() {
-                if (presented) return
-                presented = true
-                val printManager = context.getSystemService(Context.PRINT_SERVICE) as PrintManager
-                val jobName = jobName(content)
-                val adapter = webView.createPrintDocumentAdapter(jobName)
-                printManager.print(jobName, adapter, PrintAttributes.Builder().build())
-                CoroutineScope(Dispatchers.Main).launch {
-                    delay(3_000)
-                    webView.destroy()
-                    active = false
+            try {
+                val logoBase64 = withContext(Dispatchers.IO) { loadLogoBase64(context) }
+                val html = withContext(Dispatchers.Default) {
+                    buildHtml(content, printFontSize.printPt, printLineSpacing, logoBase64)
                 }
-            }
 
-            webView.addJavascriptInterface(object : Any() {
-                @JavascriptInterface
-                fun onImagesReady() {
-                    CoroutineScope(Dispatchers.Main).launch { presentPrint() }
-                }
-            }, "Android")
+                val webView = WebView(context)
+                webView.settings.javaScriptEnabled = true
+                webView.settings.domStorageEnabled = false
 
-            webView.webViewClient = object : WebViewClient() {
-                override fun onPageFinished(view: WebView, url: String) {
-                    if (content is PrintableContent.Article) {
-                        view.evaluateJavascript(imagesReadyJs, null)
-                        // 10-second fallback in case some images never fire onload/onerror
+                var presented = false
+
+                fun presentPrint() {
+                    if (presented) return
+                    presented = true
+                    try {
+                        val printManager = context.getSystemService(Context.PRINT_SERVICE) as PrintManager
+                        val jobName = jobName(content)
+                        val adapter = webView.createPrintDocumentAdapter(jobName)
+                        val job: PrintJob = printManager.print(jobName, adapter, PrintAttributes.Builder().build())
+                        // Monitor job state — release resources once it's no longer active
                         CoroutineScope(Dispatchers.Main).launch {
-                            delay(10_000)
-                            presentPrint()
+                            var waited = 0
+                            while (waited < 120_000) {
+                                delay(2_000)
+                                waited += 2_000
+                                if (job.isCancelled || job.isCompleted || job.isFailed) break
+                            }
+                            webView.destroy()
+                            active = false
                         }
-                    } else {
-                        presentPrint()
+                    } catch (e: Exception) {
+                        webView.destroy()
+                        active = false
+                        showPrintError(context)
                     }
                 }
-            }
 
-            val baseUrl = if (content is PrintableContent.Article) "https://library.yctorah.org" else null
-            webView.loadDataWithBaseURL(baseUrl, html, "text/html", "UTF-8", null)
+                webView.addJavascriptInterface(object : Any() {
+                    @JavascriptInterface
+                    fun onImagesReady() {
+                        CoroutineScope(Dispatchers.Main).launch { presentPrint() }
+                    }
+                }, "Android")
+
+                webView.webViewClient = object : WebViewClient() {
+                    override fun onPageFinished(view: WebView, url: String) {
+                        if (content is PrintableContent.Article) {
+                            view.evaluateJavascript(imagesReadyJs, null)
+                            // 10-second fallback in case some images never fire onload/onerror
+                            CoroutineScope(Dispatchers.Main).launch {
+                                delay(10_000)
+                                presentPrint()
+                            }
+                        } else {
+                            presentPrint()
+                        }
+                    }
+                }
+
+                val baseUrl = if (content is PrintableContent.Article) "https://library.yctorah.org" else null
+                webView.loadDataWithBaseURL(baseUrl, html, "text/html", "UTF-8", null)
+
+            } catch (e: Exception) {
+                active = false
+                showPrintError(context)
+            }
+        }
+    }
+
+    private fun showPrintError(context: Context) {
+        try {
+            AlertDialog.Builder(context)
+                .setTitle("Print Unavailable")
+                .setMessage("Printing could not be started. Make sure a printer or PDF service is available, or try again. Note: printing may not work on all emulators.")
+                .setPositiveButton("OK", null)
+                .show()
+        } catch (_: Exception) {
+            Toast.makeText(context, "Print failed. Try on a physical device.", Toast.LENGTH_LONG).show()
         }
     }
 
@@ -148,14 +180,19 @@ object PrintHelper {
                 content.article.authorName.ifEmpty { "YCT Torah Library" }
         }
 
-        val logoHtml = if (logoBase64 != null) {
-            """<img src="data:image/jpeg;base64,$logoBase64" style="height:48pt;max-width:160pt;object-fit:contain;" alt="YCT">"""
+        // Compact logo for the running header (smaller than the cover block)
+        val logoHeaderHtml = if (logoBase64 != null) {
+            """<img src="data:image/jpeg;base64,$logoBase64" style="height:22pt;max-width:100pt;object-fit:contain;vertical-align:middle;" alt="YCT">"""
         } else {
-            """<div style="font-size:14pt;font-weight:bold;color:#1B3A8A;">Yeshivat Chovevei Torah</div>"""
+            """<span style="font-size:8pt;font-weight:bold;color:#1B3A8A;">Yeshivat Chovevei Torah</span>"""
         }
 
+        // ── CSS ────────────────────────────────────────────────────────────────
+        // Running header/footer via position:fixed — Chromium/WebView repeats
+        // fixed elements on every printed page, making them true running headers.
+        // @page top/bottom margins are enlarged to leave room for the bands.
         val css = """
-            @page { margin: 36pt; }
+            @page { margin: 68pt 36pt 44pt 36pt; }
             * { box-sizing: border-box; }
             body {
                 font-family: Georgia, serif;
@@ -163,6 +200,42 @@ object PrintHelper {
                 line-height: $lineSpacing;
                 color: #1a1a1a;
                 margin: 0; padding: 0;
+            }
+            /* Running header — repeats on every page */
+            .page-header {
+                position: fixed;
+                top: -52pt;           /* reach up into the @page top margin */
+                left: 0; right: 0;
+                height: 44pt;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                border-bottom: 0.5pt solid #ccc;
+                padding-bottom: 6pt;
+                background: white;
+            }
+            .page-header-title {
+                font-size: ${maxOf(fontPt - 1, 8)}pt;
+                font-weight: bold;
+                color: #1B3A8A;
+            }
+            .page-header-sub {
+                font-size: ${maxOf(fontPt - 2, 7)}pt;
+                color: #777;
+                text-align: right;
+            }
+            /* Running footer — repeats on every page */
+            .page-footer {
+                position: fixed;
+                bottom: -28pt;        /* reach down into the @page bottom margin */
+                left: 0; right: 0;
+                height: 22pt;
+                border-top: 0.5pt solid #ccc;
+                padding-top: 4pt;
+                text-align: center;
+                font-size: ${maxOf(fontPt - 3, 7)}pt;
+                color: #999;
+                background: white;
             }
             h2 {
                 font-size: ${fontPt + 2}pt;
@@ -184,7 +257,7 @@ object PrintHelper {
                 page-break-inside: auto; break-inside: auto;
             }
             .bq-label {
-                font-size: ${fontPt - 2}pt;
+                font-size: ${maxOf(fontPt - 2, 7)}pt;
                 font-weight: bold;
                 color: #888;
                 margin-bottom: 4pt;
@@ -200,14 +273,6 @@ object PrintHelper {
                 page-break-after: avoid; break-after: avoid;
             }
             .hebrew { direction: rtl; text-align: right; margin-bottom: 4pt; }
-            .attribution {
-                margin-top: 24pt;
-                padding-top: 6pt;
-                border-top: 0.5pt solid #ccc;
-                font-size: ${fontPt - 2}pt;
-                color: #888;
-                text-align: center;
-            }
             /* Article styles */
             img { max-width: 100%; height: auto; }
             a { color: #1B3A8A; }
@@ -222,6 +287,9 @@ object PrintHelper {
             hr { border: none; border-top: 0.5pt solid #ccc; margin: 16pt 0; }
         """.trimIndent()
 
+        val escapedTitle   = escHtml(title)
+        val escapedSubtitle = escHtml(subtitle)
+
         return """
             <!DOCTYPE html>
             <html>
@@ -231,13 +299,20 @@ object PrintHelper {
             <style>$css</style>
             </head>
             <body>
-            <div style="text-align:center;margin-bottom:20pt;padding-bottom:12pt;border-bottom:0.5pt solid #ccc;">
-              $logoHtml
-              <div style="font-size:${fontPt + 4}pt;font-weight:bold;margin-top:8pt;">$title</div>
-              <div style="font-size:${fontPt + 1}pt;color:#555;margin-top:4pt;">$subtitle</div>
+            <!-- Running header (position:fixed → appears on every page) -->
+            <div class="page-header">
+              <div>$logoHeaderHtml</div>
+              <div style="text-align:right;">
+                <div class="page-header-title">$escapedTitle</div>
+                <div class="page-header-sub">$escapedSubtitle</div>
+              </div>
             </div>
+            <!-- Running footer -->
+            <div class="page-footer">
+              Printed from AnyDaf &bull; Yeshivat Chovevei Torah &bull; yctorah.org
+            </div>
+            <!-- Main content -->
             $body
-            <div class="attribution">Printed from AnyDaf &bull; Powered by Yeshivat Chovevei Torah &bull; yctorah.org</div>
             </body>
             </html>
         """.trimIndent()

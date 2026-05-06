@@ -179,13 +179,15 @@ fun StudyModeScreen(
             isAudioStopped = isAudioStopped,
             onComplete = onBack,
             onPrintTranslation = {
-                val s = studyViewModel.session.value ?: return@StudyModeContent
-                PrintHelper.print(
-                    context,
-                    PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value),
-                    printFontSize,
-                    printLineSpacing
-                )
+                val s = studyViewModel.session.value
+                if (s != null) {
+                    PrintHelper.print(
+                        context,
+                        PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value),
+                        printFontSize,
+                        printLineSpacing
+                    )
+                }
             },
             modifier = Modifier.padding(padding)
         )

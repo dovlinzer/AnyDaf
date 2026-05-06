@@ -220,9 +220,9 @@ fun SettingsScreen(
                 textAlign = androidx.compose.ui.text.style.TextAlign.Center
             )
             DropdownSettingRow(
-                label = "Line spacing: ${if (printLineSpacing == 1.15) "1.15×" else "1.5×"}",
-                options = listOf(1.15, 1.5),
-                optionLabel = { if (it == 1.15) "1.15×" else "1.5×" },
+                label = "Line spacing: ${when (printLineSpacing) { 1.15 -> "1.15×"; 2.0 -> "2.0×"; else -> "1.5×" }}",
+                options = listOf(1.15, 1.5, 2.0),
+                optionLabel = { when (it) { 1.15 -> "1.15× (compact)"; 2.0 -> "2.0× (double)"; else -> "1.5× (relaxed)" } },
                 onSelect = { contentViewModel.setPrintLineSpacing(it) }
             )
 

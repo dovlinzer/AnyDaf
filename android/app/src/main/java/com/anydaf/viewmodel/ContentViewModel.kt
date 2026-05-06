@@ -63,7 +63,7 @@ class ContentViewModel : ViewModel() {
     private val _printFontSize = MutableStateFlow(StudyFontSize.SMALL)
     val printFontSize: StateFlow<StudyFontSize> = _printFontSize.asStateFlow()
 
-    private val _printLineSpacing = MutableStateFlow(1.15)
+    private val _printLineSpacing = MutableStateFlow(1.5)
     val printLineSpacing: StateFlow<Double> = _printLineSpacing.asStateFlow()
 
     private val _useWhiteBackground = MutableStateFlow(false)
