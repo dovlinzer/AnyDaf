@@ -1,0 +1,332 @@
+[
+  {
+    "id": "yom_tov_melachot",
+    "name": "Melachot on Yom Tov (Permitted and Prohibited Labors)",
+    "hebrew": "מלאכות ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The specific labors permitted or prohibited on Yom Tov, including the principle that only food preparation is permitted, and the distinctions from Shabbat"
+  },
+  {
+    "id": "ochel_nefesh",
+    "name": "Ochel Nefesh (Food Preparation on Yom Tov)",
+    "hebrew": "אוכל נפש",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The halakhic principle permitting food-related labors on Yom Tov; the scope and limits of what counts as food preparation"
+  },
+  {
+    "id": "nolad_beitza",
+    "name": "Egg Laid on Yom Tov (Nolad)",
+    "hebrew": "ביצה שנולדה ביום טוב",
+    "parent_id": "nolad",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The specific dispute between Beit Shammai and Beit Hillel regarding an egg laid on Yom Tov; the classic case of nolad on Yom Tov"
+  },
+  {
+    "id": "hachana_leyom_tov",
+    "name": "Preparation for Yom Tov (Hachanah)",
+    "hebrew": "הכנה ליום טוב",
+    "parent_id": "hachanah_derabbah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The requirement to prepare items before Yom Tov begins; designation of animals, produce, and other items for Festival use"
+  },
+  {
+    "id": "muktzeh_yom_tov",
+    "name": "Muktzeh on Yom Tov",
+    "hebrew": "מוקצה ביום טוב",
+    "parent_id": "muktzeh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Application of muktzeh rules on Yom Tov; items not designated before the Festival such as undomesticated animals, scattered wood, and dead animals"
+  },
+  {
+    "id": "shevut_yom_tov",
+    "name": "Shevut on Yom Tov (Rabbinic Prohibitions)",
+    "hebrew": "שבות ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Rabbinic decrees (shevut) that apply equally on Yom Tov as on Shabbat, including climbing trees, riding animals, clapping, dancing, and various mitzva-related acts"
+  },
+  {
+    "id": "techum_yom_tov",
+    "name": "Techum on Yom Tov",
+    "hebrew": "תחום ביום טוב",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Travel boundary restrictions on Yom Tov; how they apply to people, animals, vessels, borrowed objects, produce, and water"
+  },
+  {
+    "id": "regel_dam_baal",
+    "name": "Feet of the Owner (Regel BeAlim / Kedei Raglo)",
+    "hebrew": "כרגלי בעלים",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The principle that objects follow the Shabbat/Yom Tov travel limits of their owner; governs animals, vessels, borrowed items, produce, water, and gifts"
+  },
+  {
+    "id": "beit_shammai_beit_hillel",
+    "name": "Disputes of Beit Shammai and Beit Hillel",
+    "hebrew": "מחלוקות בית שמאי ובית הלל",
+    "parent_id": "meth_tannaim_general",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The general phenomenon of halakhic disputes between the schools of Shammai and Hillel; cases where Beit Shammai is lenient and Beit Hillel is strict"
+  },
+  {
+    "id": "semichah_yom_tov",
+    "name": "Semichah (Laying Hands) on Festival Offerings",
+    "hebrew": "סמיכה ביום טוב",
+    "parent_id": "semichah_korban",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether one may lay hands on a peace-offering or burnt-offering brought on a Yom Tov"
+  },
+  {
+    "id": "kisuy_hadam_yom_tov",
+    "name": "Covering the Blood on Yom Tov",
+    "hebrew": "כיסוי הדם ביום טוב",
+    "parent_id": "kisuy_hadam",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The halakhot of covering blood of slaughtered animals on Yom Tov; dispute between Beit Shammai and Beit Hillel about whether earth must be pre-prepared"
+  },
+  {
+    "id": "shiluch_matnot_yom_tov",
+    "name": "Sending Gifts and Portions on Yom Tov",
+    "hebrew": "שילוח מנות ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The halakhot of sending gifts of food and live animals to others on Yom Tov; the dispute between Beit Shammai and Beit Hillel"
+  },
+  {
+    "id": "matnot_kehunah_yom_tov",
+    "name": "Delivering Priestly Gifts on Yom Tov",
+    "hebrew": "מתנות כהונה ביום טוב",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether challah and other priestly gifts (foreleg, jaw, maw) may be delivered to a priest on Yom Tov"
+  },
+  {
+    "id": "borer_yom_tov",
+    "name": "Selecting/Sorting (Borer) on Yom Tov",
+    "hebrew": "בורר ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Rules for separating food from refuse (legumes, etc.) on Yom Tov; which tools and methods are permitted"
+  },
+  {
+    "id": "shechitat_beheimah_yom_tov",
+    "name": "Slaughtering Animals on Yom Tov",
+    "hebrew": "שחיטת בהמה ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Rules governing the slaughter of animals on Yom Tov, including the requirement that enough time remain to eat from the animal, and treatment of firstborn animals and animals in danger of dying"
+  },
+  {
+    "id": "tzad_chayah_yom_tov",
+    "name": "Hunting and Trapping on Yom Tov",
+    "hebrew": "ציד ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Prohibition of trapping fish, animals, and birds on Yom Tov; rules for taking animals from enclosures (beivarim)"
+  },
+  {
+    "id": "karpef",
+    "name": "Karpef (Enclosed Storage Area)",
+    "hebrew": "קרפף",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "An enclosed area near a city used for storage; halakhic status regarding handling scattered wood and other muktzeh items on Yom Tov"
+  },
+  {
+    "id": "beivarin_enclosures",
+    "name": "Beivarim (Animal Enclosures)",
+    "hebrew": "בייארות / ביברין",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Enclosures containing animals, fish, or birds; halakhic status of taking from such enclosures on Yom Tov — whether it constitutes hunting"
+  },
+  {
+    "id": "hachanah_leyom_tov_shabbat",
+    "name": "Cooking on Yom Tov for Shabbat",
+    "hebrew": "בישול ביום טוב לשבת",
+    "parent_id": "eruv_tavshilin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The prohibition of cooking on Yom Tov for the following Shabbat without an eruv tavshilin; the institution of eruv tavshilin to permit this"
+  },
+  {
+    "id": "shinui_yom_tov",
+    "name": "Shinui (Performing Actions in an Unusual Manner) on Yom Tov",
+    "hebrew": "שינוי ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The principle of performing certain actions on Yom Tov in an unusual manner (shinui) to distinguish them from weekday activities; e.g., pounding spices, sharpening knives, transporting goods"
+  },
+  {
+    "id": "weighing_measuring_yom_tov",
+    "name": "Weighing and Measuring on Yom Tov",
+    "hebrew": "שקילה ומדידה ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Prohibition of weighing and measuring in a commercial manner on Yom Tov; permitted alternatives using unconventional methods"
+  },
+  {
+    "id": "domestic_vs_desert_animals_yom_tov",
+    "name": "Domestic vs. Desert Animals on Yom Tov",
+    "hebrew": "בהמה גסה ועדרים ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Distinction between domestic animals (sleeping in city) and desert animals (sleeping in pasture) with respect to slaughter and watering on Yom Tov"
+  },
+  {
+    "id": "kivshono_yom_tov",
+    "name": "Insulating Hot Food on Yom Tov",
+    "hebrew": "הטמנה ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The prohibition of insulating food on Yom Tov for Shabbat ab initio; Rabban Gamliel's stringency in this area"
+  },
+  {
+    "id": "producing_fire_yom_tov",
+    "name": "Producing Fire on Yom Tov",
+    "hebrew": "הוצאת אש ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Prohibition of producing new fire on Yom Tov (from wood, stones, tiles, water vessels); only transferring existing fire is permitted"
+  },
+  {
+    "id": "tevilah_yom_tov",
+    "name": "Immersion on Yom Tov and Shabbat",
+    "hebrew": "טבילה ביום טוב ובשבת",
+    "parent_id": "tevilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel regarding immersion of vessels and persons before Yom Tov or on Yom Tov/Shabbat itself"
+  },
+  {
+    "id": "bechor_blemish_festival",
+    "name": "Firstborn Animal with Blemish on Festival",
+    "hebrew": "בכור בעל מום ביום טוב",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Rules for slaughtering a blemished firstborn animal that fell into a cistern on a Festival; whether a blemish must be certified before the Festival"
+  },
+  {
+    "id": "tzad_yonei_shovaich",
+    "name": "Taking Doves from a Dovecote on Yom Tov",
+    "hebrew": "נטילת גוזלות משובך ביום טוב",
+    "parent_id": "tzad_chayah_yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Specific rules for taking fledgling doves from a dovecote on Yom Tov; disputes about pre-designation and moving ladders"
+  },
+  {
+    "id": "yom_tov_sheni",
+    "name": "Second Day of Yom Tov (Yom Tov Sheni shel Galuyot)",
+    "hebrew": "יום טוב שני של גלויות",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "Implicit context in tractate Beitzah regarding consecutive days of Yom Tov and Shabbat; the institution of the second festival day in the diaspora"
+  },
+  {
+    "id": "havarah_yom_tov",
+    "name": "Kindling Fire on Yom Tov",
+    "hebrew": "הבערה ביום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The dispute whether kindling fire on Yom Tov is permitted for non-food purposes such as heating water for washing feet; Beit Shammai vs. Beit Hillel"
+  },
+  {
+    "id": "baalei_chaim_reshuyot",
+    "name": "Animals Transferred Between Domains on Yom Tov",
+    "hebrew": "בעלי חיים ברשויות ביום טוב",
+    "parent_id": "techum_yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_beitzah"
+    ],
+    "notes": "The principle that animals follow the Shabbat limits of their owner; implications for borrowed animals and those given to shepherds"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "shevuot_arba_shevuot",
+    "name": "Four Categories of Oaths (Arba Shevuot)",
+    "hebrew": "ארבע שבועות",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "The Mishnaic framework of four oath types: future positive, future negative, past positive, past negative — foundational structure of tractate Shevuot"
+  },
+  {
+    "id": "shevuat_shav",
+    "name": "Oath Taken in Vain (Shevuat Shav)",
+    "hebrew": "שבועת שוא",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Oath about something impossible or obviously false, or oath to violate a commandment; distinct from shevuat sheker (false oath) — treated in Shevuot ch. 3"
+  },
+  {
+    "id": "shevuat_bitui",
+    "name": "Oath on an Utterance (Shevuat Bitui)",
+    "hebrew": "שבועת ביטוי",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Oath to do or refrain from doing something in the future, or affirming/denying something about the past; primary category in Shevuot ch. 3"
+  },
+  {
+    "id": "shevuat_edut",
+    "name": "Oath of Testimony (Shevuat Edut)",
+    "hebrew": "שבועת עדות",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Oath taken by witnesses falsely denying knowledge of testimony; special rules re: who can administer it, liability, and sliding-scale offering — Shevuot ch. 4"
+  },
+  {
+    "id": "shevuat_pikadon",
+    "name": "Oath on a Deposit (Shevuat Pikadon)",
+    "hebrew": "שבועת פיקדון",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Oath falsely denying possession of another's deposit, loan, pledge, or stolen/lost item; requires guilt-offering and repayment with fifth — Shevuot ch. 5"
+  },
+  {
+    "id": "tumah_mikdash_vekodashaiv_awareness",
+    "name": "Awareness of Impurity in Defiling Temple or Sacrificial Food (Yediot HaTumah)",
+    "hebrew": "ידיעות הטומאה במקדש ובקדשיו",
+    "parent_id": "tumat_mikdash_vekadashav",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Detailed rules about whether awareness existed at beginning/end of transgression and how this affects liability for sliding-scale offering — Shevuot ch. 1-2"
+  },
+  {
+    "id": "goat_yom_kippur_inner_outer",
+    "name": "Atonement of Inner and Outer Yom Kippur Goats",
+    "hebrew": "שעיר הפנימי והחיצוני ביום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Distinction between the goat whose blood is presented inside (atones for awareness at beginning) vs. outside Sanctuary (atones for awareness at end) — Shevuot ch. 1-2"
+  },
+  {
+    "id": "goats_rosh_chodesh_festivals_atonement",
+    "name": "Atonement of Festival and New Moon Goats",
+    "hebrew": "שעירי הרגלים וראשי חדשים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Dispute among R. Meir, R. Yehuda, and R. Shimon about which sins the goats of Rosh Chodesh and Yom Tov atone for — Shevuot ch. 1"
+  },
+  {
+    "id": "expansion_of_temple_courtyard",
+    "name": "Expansion of the Temple Courtyard (Tosefet Azarah)",
+    "hebrew": "תוספת העזרה",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Procedure for consecrating additions to the Temple courtyard requiring king, prophet, Urim veTummim, Sanhedrin, two thanks-offerings, and song — Shevuot 2:2"
+  },
+  {
+    "id": "oath_testimony_court_vs_outside",
+    "name": "Oath of Testimony — Court vs. Outside Court",
+    "hebrew": "שבועת עדות בבית דין ושלא בבית דין",
+    "parent_id": "shevuat_edut",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Dispute whether witnesses become liable only when denying testimony in court or also outside court — Shevuot 4:1, 4:3"
+  },
+  {
+    "id": "shevuat_edut_monetary_claims_only",
+    "name": "Oath of Testimony Limited to Monetary Claims",
+    "hebrew": "שבועת עדות בממון",
+    "parent_id": "shevuat_edut",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Oath of testimony applies only where testimony would generate monetary liability; exempt for capital cases, fines, status claims — Shevuot 4:6-4:7"
+  },
+  {
+    "id": "modeh_bemiktzat_oath",
+    "name": "Partial Admission Oath (Modeh beMiktzat — Shevuot)",
+    "hebrew": "שבועת מודה במקצת",
+    "parent_id": "courts_modeh_bemiktzat",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Detailed rules of partial admission oath: minimum claim amount (two ma'ah), minimum admission (one peruta), same-type requirement — Shevuot ch. 6"
+  },
+  {
+    "id": "shevuat_hesset",
+    "name": "Rabbinically Imposed Oath — Claimant Takes Oath and Collects (Shevuat HeSset/Takkanat Chachamim)",
+    "hebrew": "שבועת התובע וגובה",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Rabbinic enactment where plaintiff (not defendant) takes oath and collects: hired worker, robbery victim, injured party, opponent of oath-suspect — Shevuot ch. 7"
+  },
+  {
+    "id": "suspect_oath_taker",
+    "name": "Person Suspected of Taking False Oaths (Chashud al HaShevuah)",
+    "hebrew": "החשוד על השבועה",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "When one litigant is disqualified from taking an oath due to prior false oaths, the opposing party takes the oath and collects — Shevuot 7:4"
+  },
+  {
+    "id": "shevuat_shutafin",
+    "name": "Oath of Partners and Managers (Shevuat Shutafin)",
+    "hebrew": "שבועת שותפין ואריסין",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Partners, sharecroppers, stewards, and household managers can be required to take oaths even without specific claims — Shevuot 7:8"
+  },
+  {
+    "id": "four_bailees_liability_oaths",
+    "name": "Oaths of the Four Bailees (Shevuot Arba Shomrim)",
+    "hebrew": "שבועות ארבעה שומרים",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Detailed rules of what oath each of the four bailees takes and when; principle that oath stringent on defendant is exempt, lenient is liable — Shevuot ch. 8"
+  },
+  {
+    "id": "changing_claim_bailee_oath",
+    "name": "Changing One's Claim (Shinui be'Tevi'ah) — Bailee Oaths",
+    "hebrew": "שינוי בתביעה אצל שומרים",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Principle: bailee who changes from one claim of liability to another, or from exemption to liability, affects guilt-offering liability — Shevuot 8:2-8:6"
+  },
+  {
+    "id": "oath_names_of_god",
+    "name": "Oath Administered Using Divine Names and Appellations",
+    "hebrew": "שבועה בכינויי השם",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Dispute between R. Meir and Rabbis whether oaths and curses using divine appellations (not Tetragrammaton) generate liability — Shevuot 4:13"
+  },
+  {
+    "id": "oath_not_applicable_to_fine",
+    "name": "Oath of Testimony Not Applicable to Fines (Kenas)",
+    "hebrew": "שבועה בקנסות",
+    "parent_id": "shevuat_pikadon",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "One who denies a fine (double payment, four/five-fold, rape fine) is exempt from false oath offering since fines are not paid on self-admission — Shevuot 5:5"
+  },
+  {
+    "id": "collateral_lost_oath_dispute",
+    "name": "Dispute Over Value of Lost Collateral (Mashkon)",
+    "hebrew": "מחלוקת בשווי משכון שאבד",
+    "parent_id": "mon_loans",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Special rules when creditor and debtor dispute the value of collateral that was lost; who takes the oath — Shevuot 6:7"
+  },
+  {
+    "id": "storekeeper_ledger_oath",
+    "name": "Storekeeper's Ledger Oath (Shevuat Chanvani al Pinkaso)",
+    "hebrew": "שבועת חנוני על פנקסו",
+    "parent_id": "vow_shevuot",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Rabbinic enactment allowing storekeeper to take oath and collect when employer sent workers to receive goods — Shevuot 7:5-7:6"
+  },
+  {
+    "id": "oath_land_not_sworn",
+    "name": "Land (Real Property) Not Subject to Oaths or Double Payment",
+    "hebrew": "קרקעות אינן נשבעין עליהן",
+    "parent_id": "courts_oaths_adjudication",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Land, documents, Canaanite slaves, and consecrated property are exempt from oaths, double payment, and bailees' liability — Shevuot 6:5"
+  },
+  {
+    "id": "shevuat_mitzvah_exempt",
+    "name": "Oath to Perform or Refrain from a Mitzvah — Exempt",
+    "hebrew": "שבועה על המצוות",
+    "parent_id": "shevuat_bitui",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "One who swears to perform or not perform a mitzvah is exempt from sliding-scale offering for violation; dispute with R. Yehuda ben Beteira — Shevuot 3:6"
+  },
+  {
+    "id": "issur_chal_al_issur_oaths",
+    "name": "Prohibition Cannot Take Effect Where One Already Exists — Oaths",
+    "hebrew": "אין שבועה חלה על שבועה",
+    "parent_id": "herm_issur_chal_al_issur",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah_shevuot"
+    ],
+    "notes": "Applied to oaths: repeated oaths on same act generate only one liability; also applied to oath over already-prohibited foods — Shevuot 3:4, 3:7"
+  }
+]

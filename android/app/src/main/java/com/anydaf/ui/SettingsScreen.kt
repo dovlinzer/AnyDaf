@@ -65,6 +65,8 @@ fun SettingsScreen(
     val sourceDisplayMode by contentViewModel.sourceDisplayMode.collectAsState()
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val printFontSize by contentViewModel.printFontSize.collectAsState()
+    val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val scope = rememberCoroutineScope()
     val context = LocalContext.current
@@ -196,7 +198,37 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            // 6. Audio
+            // 6. Print
+            SectionHeader("Print")
+            Text(
+                "Font size",
+                style = MaterialTheme.typography.bodyLarge,
+                modifier = Modifier.padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 2.dp)
+            )
+            FontSizeControl(
+                studyFontSize = printFontSize,
+                onSizeChange = { contentViewModel.setPrintFontSize(it) },
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp)
+            )
+            Text(
+                printFontSize.displayName,
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(bottom = 8.dp),
+                textAlign = androidx.compose.ui.text.style.TextAlign.Center
+            )
+            DropdownSettingRow(
+                label = "Line spacing: ${if (printLineSpacing == 1.15) "1.15×" else "1.5×"}",
+                options = listOf(1.15, 1.5),
+                optionLabel = { if (it == 1.15) "1.15×" else "1.5×" },
+                onSelect = { contentViewModel.setPrintLineSpacing(it) }
+            )
+
+            SectionDivider()
+
+            // 7. Audio
             SectionHeader("Audio")
             Row(
                 modifier = Modifier
@@ -227,7 +259,7 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            // 7. About
+            // 8. About
             SectionHeader("About")
             Row(
                 modifier = Modifier

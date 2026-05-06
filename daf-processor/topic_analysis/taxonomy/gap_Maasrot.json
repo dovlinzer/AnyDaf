@@ -1,0 +1,167 @@
+[
+  {
+    "id": "chiyuv_maasrot_onset",
+    "name": "Onset of Tithe Obligation (Shiur Malachah / Gmar Melachah)",
+    "hebrew": "גמר מלאכה לענין מעשרות",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Covers when produce becomes obligated in tithes based on completion of agricultural work (threshing floor equivalent) — the specific trigger-point for each type of produce"
+  },
+  {
+    "id": "achilat_arai",
+    "name": "Casual/Chance Eating Exempt from Tithes (Achilat Arai)",
+    "hebrew": "אכילת עראי",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "The principle that eating produce in a casual, incidental manner (not as a formal meal) exempts one from tithing; contrasted with keva eating"
+  },
+  {
+    "id": "worker_eating_rights",
+    "name": "Worker's Right to Eat from Produce (Po'el Ochel)",
+    "hebrew": "פועל אוכל",
+    "parent_id": "eth_employer_employee",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "The Torah-mandated right of a hired agricultural worker to eat from the produce he harvests and the interaction of that right with tithe obligations"
+  },
+  {
+    "id": "chatzer_machayevet_maaser",
+    "name": "Courtyard that Obligates Tithes (Chatzer haMechayevet Maaser)",
+    "hebrew": "חצר המחייבת במעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Which type of courtyard renders produce brought into it liable for tithes — rules about the nature of the courtyard as a formal domain"
+  },
+  {
+    "id": "produce_liability_stages",
+    "name": "Stages of Fruit Ripeness for Tithe Liability",
+    "hebrew": "שלבי גידול פירות לחיוב מעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Specific determinations of when each type of fruit or vegetable reaches the stage at which tithes become obligatory (bichur/peel stage for various species)"
+  },
+  {
+    "id": "produce_sale_am_haaretz",
+    "name": "Selling Produce to One Untrusted in Tithes (Am HaAretz)",
+    "hebrew": "מכירה לעם הארץ",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Prohibitions on selling untithed produce or byproducts to those suspected of not tithing, and related rules about straw, grape pulp, and olive peat"
+  },
+  {
+    "id": "maasrot_syria",
+    "name": "Tithe Obligations for Produce from Syria",
+    "hebrew": "מעשרות בסוריא",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Special rules governing tithe obligations for produce acquired in Syria, depending on whether the land was purchased"
+  },
+  {
+    "id": "grape_skin_wine",
+    "name": "Grape-Skin Wine (Yayin Poret / Tirosh miGefanim)",
+    "hebrew": "יין שני / יין מזג",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Rules about tithe obligations for secondary wine made by adding water to grape skins"
+  },
+  {
+    "id": "ants_grain_liability",
+    "name": "Ants Carrying Grain Near Completed Pile",
+    "hebrew": "נמלים שהוציאו חיטים מהגורן",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Whether grain dragged by ants from a completed tithe-liable pile overnight is itself liable for tithes"
+  },
+  {
+    "id": "exotic_produce_tithe_exemption",
+    "name": "Exotic or Foreign Produce Exempt from Tithes",
+    "hebrew": "ירקות נכרים הפטורים ממעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Certain foreign species (e.g., Balbeck garlic, Rikpa onions, Egyptian lentils) exempt from tithes due to their origin"
+  },
+  {
+    "id": "seeds_exempt_from_tithe",
+    "name": "Seeds of Vegetables Not Eaten — Exempt from Tithes",
+    "hebrew": "זרעי ירקות שאינם נאכלים פטורים ממעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Seeds of garden vegetables that are inedible are exempt from tithes even if the parent plant was terumah"
+  },
+  {
+    "id": "dill_coriander_tithe",
+    "name": "Tithing Dill and Coriander (Seeds, Plants, and Pods)",
+    "hebrew": "מעשר שבת ואזוב וגרגיר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Dispute about whether seeds, plant, and pods of dill and coriander are each separately subject to tithing"
+  },
+  {
+    "id": "terumah_before_gmar_melachah",
+    "name": "Separating Terumah Before Work is Completed",
+    "hebrew": "תורם לפני גמר מלאכה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Effect on chance-eating exemption when terumah is separated from produce before its agricultural work has been completed"
+  },
+  {
+    "id": "figs_tree_overhang",
+    "name": "Tree Overhanging from One Domain to Another (Tithe Implications)",
+    "hebrew": "אילן הנוטה לחצר אחרת לגבי מעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Rules about when fruit from a tree overhanging from garden to courtyard (or from Israel to outside) is liable for tithes, based on root location"
+  },
+  {
+    "id": "maasrot_jerusalem_branches",
+    "name": "Jerusalem Rule: Tithe Determined by Branch Location",
+    "hebrew": "ירושלים כלפי ענפים במעשר",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_maasrot"
+    ],
+    "notes": "Special rule that for trees overhanging Jerusalem's walls, tithe liability is determined by branch location rather than root location"
+  }
+]

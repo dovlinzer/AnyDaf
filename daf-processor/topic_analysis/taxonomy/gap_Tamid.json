@@ -1,0 +1,255 @@
+[
+  {
+    "id": "tamid_daily_offering_procedure",
+    "name": "Korban Tamid — Detailed Procedure",
+    "hebrew": "סדר עבודת קרבן התמיד",
+    "parent_id": "korban_tamid",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed step-by-step procedure of the daily tamid offering as described in tractate Tamid: slaughter, blood sprinkling, flaying, limb division, and bringing to the altar"
+  },
+  {
+    "id": "temple_night_watch",
+    "name": "Temple Night Watch (Mishmar HaLaylah)",
+    "hebrew": "משמר הלילה במקדש",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws and practice of the priestly night watch in the Temple courtyard, including the three watch stations: Chamber of Avtinas, Chamber of the Spark, and Chamber of the Hearth"
+  },
+  {
+    "id": "chamber_of_hearth",
+    "name": "Chamber of the Hearth (Beit HaMoked)",
+    "hebrew": "בית המוקד",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The large domed hall in the Temple where priests slept, warmed themselves, and assembled for the lottery; its structure, sleeping arrangements, and role in the daily Temple service"
+  },
+  {
+    "id": "lottery_temple_service",
+    "name": "Temple Service Lottery (Payis)",
+    "hebrew": "פייס לעבודת המקדש",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The four daily lotteries conducted to assign priests to the various rites of the Temple service, including removal of ashes, slaughter, incense burning, and taking limbs to the altar"
+  },
+  {
+    "id": "ash_removal_altar",
+    "name": "Removal of Ashes from the Altar (Terumat HaDeshen)",
+    "hebrew": "תרומת הדשן",
+    "parent_id": "korban_tamid",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rite of removing ashes from the outer altar each morning, who performs it, the procedure, and the coal heap in the center of the altar"
+  },
+  {
+    "id": "incense_burning_procedure",
+    "name": "Incense Burning Procedure (Haktarat HaKetoret — Seder)",
+    "hebrew": "סדר הקטרת הקטורת",
+    "parent_id": "haktarat_ketoret",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed procedure for burning the incense on the golden altar, including the coal pan transfer, the spoon and vessel, spreading the incense, and the prohibition on others being present"
+  },
+  {
+    "id": "candelabrum_service_procedure",
+    "name": "Candelabrum Cleaning and Kindling Procedure",
+    "hebrew": "הטבת הנרות והדלקתם",
+    "parent_id": "menorah_temple",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed procedure for removing ashes and wicks from the Candelabrum lamps and rekindling them, including the role of the western lamp and the stone steps before the Candelabrum"
+  },
+  {
+    "id": "temple_wood_arrangement",
+    "name": "Arrangement of Wood on the Altar (Ma'arachah)",
+    "hebrew": "מערכה",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of assembling the wood arrangements on the outer altar, including which woods are permitted, the large arrangement for offerings, and the second arrangement for incense coals"
+  },
+  {
+    "id": "temple_limb_division",
+    "name": "Division and Carrying of Sacrificial Limbs",
+    "hebrew": "סדר איברי התמיד",
+    "parent_id": "korban_tamid",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The precise division of the daily offering's limbs among the priests, the order of carrying them, how they are held, and how they are brought up the ramp to the altar"
+  },
+  {
+    "id": "gevini_temple_crier",
+    "name": "Temple Crier (Gevini HaKorei)",
+    "hebrew": "גביני כרוז",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The role of the Temple crier who announced each morning to priests, Levites, and Israelites to take their respective positions for the daily service"
+  },
+  {
+    "id": "temple_sounds_heard_jericho",
+    "name": "Temple Sounds Heard in Jericho",
+    "hebrew": "קולות המקדש הנשמעים ביריחו",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Tradition listing the sounds and smells of the Temple service that were perceptible from as far as Jericho, including the gate, shovel, Basin pulley, shofar, cymbals, and incense"
+  },
+  {
+    "id": "ben_katin_basin_mechanism",
+    "name": "Ben Katin's Basin Mechanism (Mukhani)",
+    "hebrew": "מוכני של בן קטין",
+    "parent_id": "kiyyor",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The pulley mechanism crafted by Ben Katin to submerge the Basin overnight so its water would not be disqualified by remaining still, and the sound it made when raised"
+  },
+  {
+    "id": "priestly_immersion_tunnel",
+    "name": "Priestly Immersion Passage Under the Temple",
+    "hebrew": "מסיבה תחת הבירה",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The underground passage allowing an impure priest to exit to the Chamber of Immersion without passing through the Temple courtyard, including the bathroom and immersion facilities there"
+  },
+  {
+    "id": "ten_commandments_temple_recitation",
+    "name": "Recitation of Ten Commandments in the Temple",
+    "hebrew": "קריאת עשרת הדברות במקדש",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The daily practice of the priestly watch in the Chamber of Hewn Stone to recite the Ten Commandments along with the Shema and its blessings"
+  },
+  {
+    "id": "priestly_benediction_temple_differences",
+    "name": "Differences in Priestly Blessing in the Temple",
+    "hebrew": "שינויי ברכת כהנים במקדש",
+    "parent_id": "birchat_kohanim",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinctions between the Priestly Benediction as performed in the Temple vs. outside: recited as one blessing, use of the divine name as written, hands raised above the head, and the response formula"
+  },
+  {
+    "id": "levites_daily_psalm",
+    "name": "Daily Psalm of the Levites (Shir shel Yom)",
+    "hebrew": "שיר של יום",
+    "parent_id": "levites",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The assignment of specific psalms to each day of the week, recited by the Levites during the daily wine libation, as listed at the end of tractate Tamid"
+  },
+  {
+    "id": "temple_slaughterhouse_rings",
+    "name": "Temple Slaughterhouse and Rings (Beit HaMitbachayim)",
+    "hebrew": "בית המטבחיים וטבעות הצפון",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The northern slaughterhouse area of the Temple with its twenty-four rings affixed to the floor for holding animals during slaughter, the pillars, hooks, and marble tables"
+  },
+  {
+    "id": "high_priest_temple_service_prerogative",
+    "name": "High Priest's Prerogative to Sacrifice Any Offering",
+    "hebrew": "זכות הכהן הגדול להקריב בכל עת",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The High Priest's right to offer any portion of any sacrifice he wishes at any time, and the procedure by which he receives the limbs from other priests and places his hands upon them"
+  },
+  {
+    "id": "deputy_high_priest",
+    "name": "Deputy High Priest (Segan HaKohanim)",
+    "hebrew": "סגן הכהנים",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The role of the deputy high priest (segan) in assisting the High Priest, standing to his right, signaling the Levites with cloths during the libation, and other functions"
+  },
+  {
+    "id": "temple_libation_signal",
+    "name": "Trumpet and Cymbal Signal for Libation and Levitical Song",
+    "hebrew": "תקיעה וצלצול לנסכים ולשיר",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The procedure of sounding trumpets (tekia, terua, tekia) and clashing cymbals by Ben Arza to signal the start of the Levitical psalm during the libation, and the people's prostration at each section"
+  },
+  {
+    "id": "chamber_hewn_stone_lottery",
+    "name": "Chamber of Hewn Stone (Lishkat HaGazit)",
+    "hebrew": "לשכת הגזית",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The Chamber of Hewn Stone where lotteries were conducted and the priests recited Shema and its blessings each morning before the daily service"
+  },
+  {
+    "id": "temple_shovel_sound",
+    "name": "Temple Shovel Sound (Magreifah)",
+    "hebrew": "מגרפה",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The instrument thrown between the Entrance Hall and the altar that produced a sound so loud no voice could be heard in Jerusalem, signaling priests, Levites, and the non-priestly watch to assemble"
+  },
+  {
+    "id": "pesakhter_vessel",
+    "name": "Pesakhter (Large Ash Vessel)",
+    "hebrew": "פסכתר",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A large vessel holding a half-kor used to remove ashes from the altar, to cover scattered coals on Shabbat, and to cover a dead creeping animal found in the Temple on Shabbat"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "tevul_yom",
+    "name": "Tevul Yom (Immersed That Day — Detailed Laws)",
+    "hebrew": "טבול יום",
+    "parent_id": "tevul_yom",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "The existing 'tevul_yom' entry is minimal; this tractate covers the full halakhic status of the tevul yom — their degree of impurity (third grade), what they disqualify vs. render impure, and how they interact with terumah, hullin, and kodashim."
+  },
+  {
+    "id": "chibbur_tziruf_ochlin",
+    "name": "Connection of Foods (Chibbur/Tziruf) for Impurity Purposes",
+    "hebrew": "חיבור וצירוף אוכלין לטומאה",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Whether foods stuck together, batter-cakes joined in baking, froth, scum, or liquids floating on other liquids serve as connectives (mitzaref/mechubar) for purposes of transmitting impurity from a tevul yom or other impure sources."
+  },
+  {
+    "id": "nitzok_tziruf",
+    "name": "Nitzok (Stream of Poured Liquid as Connective)",
+    "hebrew": "ניצוק",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Whether a stream of liquid poured from one vessel to another serves as a connective for transmitting impurity between them; discussed in context of tevul yom touching the stream."
+  },
+  {
+    "id": "yad_ochlin",
+    "name": "Yad (Handle) of Food for Impurity",
+    "hebrew": "יד האוכל לטומאה",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Handles or stems of food that serve as connectives for impurity transmission — when the handle is touched by an impure person or tevul yom, whether the food itself becomes impure."
+  },
+  {
+    "id": "shovarim_shel_ashkelon",
+    "name": "Ashkelon Grappling-Irons and Broken Tool Susceptibility",
+    "hebrew": "שוברין של אשקלון",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Whether broken tools (Ashkelon grappling-irons, pitchforks, rakes, combs) that retain partial functionality remain susceptible to impurity; includes the rabbinic principle introduced by the scribes referenced by Rabbi Joshua."
+  },
+  {
+    "id": "tenai_beit_din_terumah",
+    "name": "Court Stipulation in Terumah Separation (Tenai Beit Din)",
+    "hebrew": "תנאי בית דין בתרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "The court-established stipulation that if terumah separated under a condition (e.g., 'if it comes up safely') breaks before reaching the cistern, it does not retroactively subject the cistern contents to terumah restrictions."
+  },
+  {
+    "id": "shlishi_letumah_bechulin",
+    "name": "Third-Degree Impurity Clean in Hullin (Shlishi b'Hullin Tahor)",
+    "hebrew": "שלישי בחולין טהור",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "The principle that an item with third-degree impurity is considered clean with respect to non-sacred (hullin) food, though it disqualifies terumah; central to Tractate Tevul Yom chapters 3-4."
+  },
+  {
+    "id": "mashkim_hayotzim_min_hatamei",
+    "name": "Liquids Issuing from an Impure Person",
+    "hebrew": "משקים היוצאים מן הטמא",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Whether liquids that issue from or are touched by an impure person (including tevul yom) acquire first-degree impurity and can render other things susceptible to impurity; dispute between Rabbi Meir and the Sages regarding tevul yom."
+  },
+  {
+    "id": "get_shechiv_mera_holech_besafina",
+    "name": "Get Written for One Departing on Dangerous Journey",
+    "hebrew": "גט לאדם היוצא בשיירה או בספינה",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "The rabbinic enactment allowing a get to be written for a man being led to execution or departing on a dangerous sea voyage or caravan journey, even before separation occurs; later extended to the dangerously ill."
+  },
+  {
+    "id": "terumah_conditional_separation",
+    "name": "Conditional Separation of Terumah",
+    "hebrew": "תרומה על תנאי",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_tevul_yom"
+    ],
+    "notes": "Separating terumah subject to a condition (e.g., 'let this be terumah if it comes up safely' or 'let this be terumah of tithe after nightfall'); whether such conditional designations take effect."
+  }
+]

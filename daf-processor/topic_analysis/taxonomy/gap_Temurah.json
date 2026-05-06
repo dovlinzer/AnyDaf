@@ -1,0 +1,310 @@
+[
+  {
+    "id": "temurah_substitution",
+    "name": "Temurah (Substitution of Consecrated Animals)",
+    "hebrew": "תמורה",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "The act of substituting a non-sacred animal for a consecrated one; both become sacred and the owner receives lashes. Core topic of tractate Temurah."
+  },
+  {
+    "id": "temurah_takes_effect",
+    "name": "Temurah Taking Effect (Bidieved)",
+    "hebrew": "חלות תמורה בדיעבד",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Though substitution is prohibited, once done it takes halakhic effect; both original and substitute become sacred."
+  },
+  {
+    "id": "temurah_individual_vs_communal",
+    "name": "Temurah: Individual vs. Communal Offerings",
+    "hebrew": "תמורה ביחיד ובציבור",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Only individual owners can effect substitution; communal offerings and partners cannot render substitutes."
+  },
+  {
+    "id": "temurah_kohen_ownership",
+    "name": "Kohen's Ownership of Priestly Gifts and Substitution",
+    "hebrew": "בעלות כהן על מתנות כהונה לענין תמורה",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Dispute between R. Yochanan ben Nuri and R. Akiva whether a kohen who received a firstborn can effect substitution, hinging on when ownership is acquired."
+  },
+  {
+    "id": "chatat_yemut",
+    "name": "Five Sin Offerings Left to Die",
+    "hebrew": "חמש חטאות המתות",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Halacha leMoshe miSinai: five categories of sin offerings that are sequestered and left to die — offspring of chatat, substitute of chatat, chatat whose owner died, chatat after owner achieved atonement with another, chatat whose year passed."
+  },
+  {
+    "id": "vlad_chatat",
+    "name": "Offspring of a Sin Offering (Vlad Chatat)",
+    "hebrew": "ולד חטאת",
+    "parent_id": "chatat_yemut",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "The offspring of a sin offering is left to die and may not be sacrificed or used for benefit."
+  },
+  {
+    "id": "chatat_baalav_kippur",
+    "name": "Sin Offering After Owner Achieved Atonement",
+    "hebrew": "חטאת שכיפרו בעליה",
+    "parent_id": "chatat_yemut",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "A sin offering found after its owner achieved atonement with a different animal is left to die. Extensive discussion of cases with money and animals replacing each other."
+  },
+  {
+    "id": "offspring_consecrated_animals",
+    "name": "Offspring of Consecrated Animals (Vlad Kodashim)",
+    "hebrew": "ולד קדשים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Status of offspring born to consecrated animals; inherits the sanctity of the parent offering (e.g., offspring of shelamim is shelamim, offspring of olah follows olah rules)."
+  },
+  {
+    "id": "temurah_vs_kodashim_stringencies",
+    "name": "Comparative Stringencies: Temurah vs. Kodashim",
+    "hebrew": "חומרות תמורה על קדשים וקדשים על תמורה",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Mishnah 2:3 compares stringencies unique to temurah (e.g., blemished animal gains inherent sanctity, no redemption of wool/labor) vs. those unique to consecrated animals."
+  },
+  {
+    "id": "temurah_shogeg_kemezid",
+    "name": "Unwitting Substitution Treated as Intentional",
+    "hebrew": "תמורה שוגג כמזיד",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "The Torah treats one who substitutes unintentionally like one who acts intentionally — the substitution takes effect. Contrasted with consecration where unwitting act is ineffective."
+  },
+  {
+    "id": "disqualified_animals_altar",
+    "name": "Animals Disqualified from the Altar (Issurei Mizbeach — Specific Cases)",
+    "hebrew": "פסולי המוקדשין מן המזבח",
+    "parent_id": "issurei_mizbeach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Tractate Temurah ch. 6 details nine categories of animals prohibited on the altar: copulated with, object of bestiality, set-aside for idolatry, worshipped, payment to prostitute, price of a dog, kilayim, tereifa, yotzei dofen."
+  },
+  {
+    "id": "etnan_zonah_altar",
+    "name": "Payment to Prostitute and Price of Dog — Altar Prohibition",
+    "hebrew": "אתנן זונה ומחיר כלב",
+    "parent_id": "disqualified_animals_altar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Detailed rules on what constitutes etnan zonah and mechir kelev that disqualify an animal from the altar, including barter, maidservant cases, and whether offspring are also prohibited."
+  },
+  {
+    "id": "yotzei_dofen_kodashim",
+    "name": "Caesarean-Born Animal (Yotzei Dofen) in Kodashim",
+    "hebrew": "יוצא דופן בקדשים",
+    "parent_id": "disqualified_animals_altar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "An animal born by caesarean section is disqualified from the altar and cannot effect temurah."
+  },
+  {
+    "id": "kodshei_mizbeach_vs_bedek_habayit",
+    "name": "Differences Between Altar Consecrations and Temple Maintenance Consecrations",
+    "hebrew": "הבדלים בין קדשי מזבח לקדשי בדק הבית",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Ch. 7 systematically enumerates distinctions: temurah, piggul/notar/tumah liability, offspring/milk restrictions, slaughter outside courtyard, unspecified consecrations, effect on all items, liability for by-products."
+  },
+  {
+    "id": "hadfanah_kevurah_kodashim",
+    "name": "Burial of Prohibited Sacred Items (Kevurah)",
+    "hebrew": "קבורת קדשים ואיסורים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Items from which benefit is forbidden that must be buried rather than burned: fetus of consecrated animal, placenta, stoned ox, eglah arufah, metzora birds, nazirite's hair, peter chamor, basar bechalav, non-sacred animals slaughtered in courtyard."
+  },
+  {
+    "id": "sereifah_vs_kevurah",
+    "name": "Burning vs. Burial — Method of Destruction for Prohibited Items",
+    "hebrew": "שריפה לעומת קבורה",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Distinction between items requiring burning (chametz, impure terumah, orlah, kilei hakerem, piggul/notar offerings) and items requiring burial; the two categories cannot be switched even for stringency."
+  },
+  {
+    "id": "asham_taluy_nifdeh",
+    "name": "Asham Taluy After Determination of Sin",
+    "hebrew": "אשם תלוי שנודע שלא חטא",
+    "parent_id": "asham",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "A provisional guilt offering (asham taluy) that is found unnecessary when the person learns he did not sin — it is burned, per R. Yehuda buried."
+  },
+  {
+    "id": "bechor_outside_eretz_yisrael",
+    "name": "Firstborn and Animal Tithe Offerings from Outside Eretz Yisrael",
+    "hebrew": "בכור ומעשר בהמה מחוץ לארץ",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Firstborn and animal tithe should not be brought to the Temple from outside Eretz Yisrael ab initio; if brought unblemished they are sacrificed, if blemished eaten in place."
+  },
+  {
+    "id": "firstborn_animal_tithe_eating_rules",
+    "name": "Eating Rules for Firstborn and Animal Tithe (vs. Other Kodashim)",
+    "hebrew": "דיני אכילת בכור ומעשר לעומת שאר קדשים",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Firstborn and tithe differ from other kodashim: not sold in market by litra, not subject to redemption, sold/eaten only from home; their substitutes and offspring graze until blemished then eaten."
+  },
+  {
+    "id": "designating_fetus_offering",
+    "name": "Designating a Fetus in the Womb as an Offering",
+    "hebrew": "הקדשת עובר במעי בהמה",
+    "parent_id": "hakdashah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "One can preemptively designate the fetus in the womb as a burnt or peace offering before birth, thereby avoiding the firstborn obligation. Rules for twins, tumtum, hermaphrodite."
+  },
+  {
+    "id": "female_animal_designated_male_offering",
+    "name": "Female Animal Designated for a Male-Only Offering",
+    "hebrew": "נקבה שהוקדשה לעולה או אשם",
+    "parent_id": "blemishes_offerings",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "If one designated a female for a burnt offering or guilt offering (which require males), the animal grazes until blemished, is sold, and the proceeds fund the proper offering."
+  },
+  {
+    "id": "temurah_limbs_fetuses",
+    "name": "Substitution for Limbs and Fetuses",
+    "hebrew": "תמורה באברים ועוברים",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "One cannot substitute for consecrated limbs or fetuses with whole animals, nor whole animals for limbs; dispute of R. Yosei whether substituting a limb consecrates the entire animal."
+  },
+  {
+    "id": "simultaneous_designation_two_offerings",
+    "name": "Simultaneous Designation of One Animal for Two Offerings",
+    "hebrew": "הקדשת בהמה אחת לשתי קדושות",
+    "parent_id": "hakdashah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Dispute (R. Meir vs. R. Yosei) about what happens when one simultaneously or sequentially designates an animal as substitute for both a burnt offering and a peace offering."
+  },
+  {
+    "id": "temurah_language_formula",
+    "name": "Formulas That Effect Temurah",
+    "hebrew": "לשונות המועילים לתמורה",
+    "parent_id": "temurah_substitution",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Which verbal formulas effect temurah: 'in place of,' 'substitute,' 'exchange for' — effective; 'desacralized' — not temurah, but if blemished animal, effects redemption."
+  },
+  {
+    "id": "chatat_avudat_kochavim",
+    "name": "Set-Aside and Worshipped Animals — Prohibited for Altar",
+    "hebrew": "מוקצה ונעבד לעבודה זרה",
+    "parent_id": "disqualified_animals_altar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Animal set aside for idol worship (muktzeh) vs. animal actually worshipped (ne'evad) — both prohibited on altar; distinction regarding what is on them and their consumption."
+  },
+  {
+    "id": "tereifa_offspring_altar",
+    "name": "Offspring of a Tereifa Animal and Altar Eligibility",
+    "hebrew": "ולד טריפה לגבי מזבח",
+    "parent_id": "tereifot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Dispute whether offspring of a tereifa may be sacrificed on the altar (R. Eliezer prohibits, Rabbis permit). Also R. Chanina: animal that suckled from a tereifa is disqualified."
+  },
+  {
+    "id": "prohibited_mixture_animals_altar",
+    "name": "Prohibited Animals Mixed with Permitted — Altar Nullification Rules",
+    "hebrew": "איסורי מזבח שנתערבו במוקדשים",
+    "parent_id": "disqualified_animals_altar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Animals prohibited on the altar (the nine categories) prohibit an entire mixture in any amount — no nullification applies, unlike food mixtures."
+  },
+  {
+    "id": "communal_vs_individual_offerings_differences",
+    "name": "Differences Between Individual and Communal Offerings",
+    "hebrew": "הבדלים בין קרבנות יחיד לקרבנות ציבור",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_temurah"
+    ],
+    "notes": "Systematic list: individual offerings — temurah, male or female, require compensation; communal offerings — override Shabbat and tumah, fixed time determines this rule per R. Meir."
+  }
+]

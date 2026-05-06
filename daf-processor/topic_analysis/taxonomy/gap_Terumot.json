@@ -1,0 +1,343 @@
+[
+  {
+    "id": "terumah_amount_measure",
+    "name": "Amount/Measure of Terumah (Shiur Terumah)",
+    "hebrew": "שיעור תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "The prescribed proportions for giving terumah: generous (1/30), average (1/50), stingy (1/60), and disputes about minimum and maximum amounts"
+  },
+  {
+    "id": "terumah_who_may_give",
+    "name": "Who May Give Terumah (Ha-Torem)",
+    "hebrew": "המורם",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about who is qualified to separate terumah: excludes deaf-mute, imbecile, minor, non-Jew, and others; partial disqualifications for mute, blind, drunk, naked"
+  },
+  {
+    "id": "terumah_from_which_produce",
+    "name": "From Which Produce Terumah May Be Taken",
+    "hebrew": "ממה תורמים",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules prohibiting terumah from one species for another, from incomplete-processed produce for completed, from attached for detached, from new for old, from Israel for outside Israel, etc."
+  },
+  {
+    "id": "terumah_species_kilayim_rule",
+    "name": "Terumah from Kilayim Species (Min b'Mino in Terumah)",
+    "hebrew": "תרומה מין על שאינו מינו",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Prohibition against giving terumah from one species for another that is kilayim with it; rules about what counts as the same kind for terumah purposes"
+  },
+  {
+    "id": "terumah_intentional_unintentional",
+    "name": "Intentional vs. Unintentional Violation in Terumah",
+    "hebrew": "מזיד ושוגג בתרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Distinctions between acting intentionally (mezid) versus unintentionally (shogeg) in giving terumah from improper sources, eating terumah, planting on Shabbat, etc."
+  },
+  {
+    "id": "terumah_designation_verbal",
+    "name": "Verbal Designation of Terumah (Tenuat Peh)",
+    "hebrew": "תנאי בתרומה / פיו ולבו שוין",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Requirements for valid verbal designation of terumah, including that mouth and heart must be in agreement (3:8), and how to designate from within a pile"
+  },
+  {
+    "id": "terumah_by_agent",
+    "name": "Terumah Given Through an Agent (Shaliach)",
+    "hebrew": "תורם על ידי שליח",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about appointing a household member, slave, or worker to give terumah on one's behalf, and annulment of such authorization"
+  },
+  {
+    "id": "terumah_clean_unclean",
+    "name": "Giving Terumah from Clean for Unclean Produce",
+    "hebrew": "תורם מן הטהור על הטמא",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about separating terumah from pure produce for impure produce and vice versa, disputes between Rabbi Eliezer and sages"
+  },
+  {
+    "id": "terumah_eating_unwitting",
+    "name": "Eating Terumah Unwittingly (Ochel Terumah b'Shogeg)",
+    "hebrew": "אוכל תרומה בשוגג",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Obligation to repay value plus one-fifth (chomesh) for unintentional eating of terumah; who pays the principal and who pays the fifth"
+  },
+  {
+    "id": "terumah_eating_intentional",
+    "name": "Eating Terumah Intentionally (Ochel Terumah b'Mezid)",
+    "hebrew": "אוכל תרומה במזיד",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "One who eats terumah intentionally repays only the principal value, not the added fifth; the repayment remains hullin and the priest may waive it"
+  },
+  {
+    "id": "medumma",
+    "name": "Medumma (Terumah Mixed with Hullin)",
+    "hebrew": "מדומע",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Produce that has become forbidden through mixture of terumah falling into hullin; rules of nullification in 100 parts, proportional rendering of subsequent mixtures"
+  },
+  {
+    "id": "terumah_nullification_hundred",
+    "name": "Nullification of Terumah in 100 Parts (Bitul Terumah)",
+    "hebrew": "תרומה עולה באחד ומאה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "The rule that terumah is nullified when mixed with 100 parts hullin; disputes about how to count, cross-type nullification, and deliberate addition of hullin"
+  },
+  {
+    "id": "terumah_growth_planted",
+    "name": "Produce That Grows from Terumah Seeds",
+    "hebrew": "גידולי תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Status of produce growing from terumah seeds: first growth is terumah, second growth is hullin; distinction between seeds that disintegrate and those that do not"
+  },
+  {
+    "id": "terumah_planting",
+    "name": "Planting Terumah Seeds",
+    "hebrew": "הזורע תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about planting terumah seeds: if unwitting may overturn; if intentional must let remain; distinction based on whether seeds disintegrate in soil"
+  },
+  {
+    "id": "terumah_uncovered_liquid",
+    "name": "Uncovered Terumah Liquids (Gilui)",
+    "hebrew": "גילוי בתרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Terumah wine left uncovered must be poured out due to snake-venom concern; also applies to hullin water, wine, and milk left uncovered"
+  },
+  {
+    "id": "terumah_taste_flavor",
+    "name": "Flavor/Taste Imparted by Terumah (Noten Taam)",
+    "hebrew": "נותן טעם בתרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about terumah ingredients (onions, spices, wine) imparting forbidden flavor to hullin mixtures; application of noten ta'am principle to terumah context"
+  },
+  {
+    "id": "terumah_pickling_together",
+    "name": "Pickling Hullin Together with Terumah (Kavush b'Terumah)",
+    "hebrew": "כבוש עם תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about vegetables or olives of hullin pickled together with terumah, whether whole or crushed; prohibited brine resulting from unclean fish"
+  },
+  {
+    "id": "terumah_burning_oil",
+    "name": "Burning Terumah Oil That Must Be Destroyed",
+    "hebrew": "שריפת שמן תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Permissibility of using terumah oil that must be burned for lighting in synagogues, study houses, dark alleys, for the sick, and in celebration vs. mourning houses"
+  },
+  {
+    "id": "terumah_order_of_separation",
+    "name": "Order of Separating Terumah and Tithes",
+    "hebrew": "סדר הפרשת תרומות ומעשרות",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Bikkurim precedes terumah, terumah precedes maaser rishon, maaser rishon precedes maaser sheni; violation of this order, though a transgression, is post-facto valid"
+  },
+  {
+    "id": "terumah_repayment_species",
+    "name": "Repayment of Eaten Terumah — Same or Different Species",
+    "hebrew": "פרעון תרומה שנאכלה מין על מינו",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Dispute between Rabbi Eliezer and Rabbi Akiva whether one repays terumah with the same kind or with any superior kind; repayment becomes terumah in the priest's possession"
+  },
+  {
+    "id": "terumah_priest_daughter_israelite",
+    "name": "Priest's Daughter Married to Israelite and Terumah",
+    "hebrew": "בת כהן שנישאת לישראל",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "A daughter of a priest who married an Israelite loses right to eat terumah; if she ate she repays value but not fifth; her adultery penalty differs from ordinary case"
+  },
+  {
+    "id": "terumah_discovery_disqualification",
+    "name": "Discovery of Disqualifying Status After Eating Terumah",
+    "hebrew": "נודע שהוא בן גרושה כשאכל תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "What happens when a priest discovers mid-eating that he was disqualified (son of divorced woman/halutzah, or has blemish); dispute whether to swallow or spit out"
+  },
+  {
+    "id": "terumah_doubt_basket",
+    "name": "Doubtful Terumah (Safek Terumah) in Baskets",
+    "hebrew": "ספק תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Cases of doubt as to which basket contains terumah; the remaining basket treated as terumah for challah purposes; liability when one eats from uncertain basket"
+  },
+  {
+    "id": "terumah_processing_stage",
+    "name": "Stage of Processing Required for Terumah Obligation",
+    "hebrew": "גמר מלאכה בתרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Whether terumah may be taken from olives for oil before pressing or grapes for wine before treading; rules about completed vs. incomplete processing"
+  },
+  {
+    "id": "terumah_maaser_levite",
+    "name": "Terumah Separated by a Levite from His Tithes",
+    "hebrew": "לוי שתרם ממעשרותיו",
+    "parent_id": "terumat_maaser",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules about a Levite who gave terumah from tithe that had not yet had terumat maaser separated; validity depends on whether done intentionally or inadvertently"
+  },
+  {
+    "id": "terumah_non_jew_samaritan",
+    "name": "Terumah Given by Non-Jew or Samaritan",
+    "hebrew": "תרומת כותי ונכרי",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Status of terumah, tithes, and dedications given by a non-Jew or Samaritan; dispute about fourth-year vineyard law for non-Jews; whether non-Jewish terumah renders medumma"
+  },
+  {
+    "id": "terumah_cattle_feeding",
+    "name": "Feeding Terumah to Animals",
+    "hebrew": "מאכילין תרומה לבהמה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Vetches of terumah may be fed to cattle, wild beasts, and fowl; rules about who may feed terumah to animals based on ownership and hiring arrangements"
+  },
+  {
+    "id": "terumah_partners_separation",
+    "name": "Partners Separating Terumah",
+    "hebrew": "שותפים שתרמו",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Rules when two partners separately take terumah from shared produce; dispute about validity of both or only the first; depends on whether they conferred"
+  },
+  {
+    "id": "terumah_stolen_eaten",
+    "name": "Stolen Terumah and Its Repayment",
+    "hebrew": "הגוזל תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "One who steals terumah and eats it must pay double at hullin price plus principal; stealing and not eating requires double payment at terumah price"
+  },
+  {
+    "id": "terumah_processing_change",
+    "name": "Changing Terumah Produce from Its Natural State",
+    "hebrew": "שינוי תרומה ממין למין",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Prohibition against changing terumah from its natural state (e.g., dates to honey, grapes to raisins for wine); exceptions only for olives and grapes"
+  },
+  {
+    "id": "terumah_fruit_juice_liquids",
+    "name": "Fruit Juice of Terumah as Liquid (Michshirin)",
+    "hebrew": "משקי תרומה פרי",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_terumot"
+    ],
+    "notes": "Dispute whether fruit juices other than wine and olive oil (e.g., date honey, apple wine) are considered liquids for purposes of terumah and susceptibility to impurity"
+  }
+]

@@ -17,6 +17,7 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.BookmarkBorder
 import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.NavigateNext
+import androidx.compose.material.icons.filled.Print
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
@@ -49,6 +50,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -166,6 +168,9 @@ fun StudyModeScreen(
             )
         }
     ) { padding ->
+        val context = LocalContext.current
+        val printFontSize by contentViewModel.printFontSize.collectAsState()
+        val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
         StudyModeContent(
             studyViewModel = studyViewModel,
             bookmarkViewModel = bookmarkViewModel,
@@ -173,6 +178,15 @@ fun StudyModeScreen(
             resourcesViewModel = resourcesViewModel,
             isAudioStopped = isAudioStopped,
             onComplete = onBack,
+            onPrintTranslation = {
+                val s = studyViewModel.session.value ?: return@StudyModeContent
+                PrintHelper.print(
+                    context,
+                    PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value),
+                    printFontSize,
+                    printLineSpacing
+                )
+            },
             modifier = Modifier.padding(padding)
         )
     }
@@ -193,6 +207,7 @@ fun StudyModeContent(
     isAudioStopped: Boolean = true,
     onComplete: (() -> Unit)? = null,
     onStartStudy: (() -> Unit)? = null,
+    onPrintTranslation: (() -> Unit)? = null,
     modifier: Modifier = Modifier
 ) {
     val session by studyViewModel.session.collectAsState()
@@ -202,6 +217,8 @@ fun StudyModeContent(
     val isRateLimited by studyViewModel.isRateLimited.collectAsState()
     val rateLimitCountdown by studyViewModel.rateLimitCountdown.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val printFontSize by contentViewModel.printFontSize.collectAsState()
+    val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
 
@@ -403,8 +420,28 @@ fun StudyModeContent(
                             3 -> ResourcesTab(
                                 viewModel = resourcesViewModel,
                                 studyFontSize = studyFontSize,
-                                onSizeChange = { contentViewModel.setStudyFontSize(it) }
+                                onSizeChange = { contentViewModel.setStudyFontSize(it) },
+                                printFontSize = printFontSize,
+                                printLineSpacing = printLineSpacing
                             )
+                        }
+                        // Print button overlay — shown only on the Text tab when a print handler is wired
+                        if (selectedTab == 0 && onPrintTranslation != null) {
+                            val blueMode = LocalIsBlueMode.current
+                            IconButton(
+                                onClick = onPrintTranslation,
+                                modifier = Modifier
+                                    .align(Alignment.TopEnd)
+                                    .size(40.dp)
+                                    .padding(4.dp)
+                            ) {
+                                Icon(
+                                    Icons.Default.Print,
+                                    contentDescription = "Print",
+                                    modifier = Modifier.size(20.dp),
+                                    tint = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface).copy(alpha = 0.5f)
+                                )
+                            }
                         }
                     }
 

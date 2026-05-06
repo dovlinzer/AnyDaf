@@ -1,0 +1,321 @@
+[
+  {
+    "id": "rosh_hashanah_new_year_types",
+    "name": "Four New Years (Arba Roshei Shanim)",
+    "hebrew": "ארבעה ראשי שנים",
+    "parent_id": "rosh_hashanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The four different new year dates for different purposes: kings, festivals, animal tithes, trees, vegetables, shemitah/yovel"
+  },
+  {
+    "id": "new_year_kings",
+    "name": "New Year for Kings (Rosh HaShanah laMelachim)",
+    "hebrew": "ראש השנה למלכים",
+    "parent_id": "rosh_hashanah_new_year_types",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "First of Nisan as the new year for counting years of a king's reign"
+  },
+  {
+    "id": "new_year_trees",
+    "name": "New Year for Trees (Rosh HaShanah laIlanot)",
+    "hebrew": "ראש השנה לאילנות",
+    "parent_id": "rosh_hashanah_new_year_types",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Tu b'Shevat (Beit Hillel) or 1 Shevat (Beit Shammai) as the cutoff for fruit tithes; distinct from the general Tu b'Shevat entry in that it addresses the halakhic mechanism of tithing"
+  },
+  {
+    "id": "new_year_animal_tithes",
+    "name": "New Year for Animal Tithes",
+    "hebrew": "ראש השנה למעשר בהמה",
+    "parent_id": "rosh_hashanah_new_year_types",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "First of Elul (or 1 Tishrei per R. Elazar and R. Shimon) as the cutoff date for grouping animals for maaser beheimah"
+  },
+  {
+    "id": "din_rosh_hashanah_judgment",
+    "name": "Divine Judgment on Rosh HaShanah",
+    "hebrew": "דין בראש השנה",
+    "parent_id": "rosh_hashanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The concept that all creatures pass before God like sheep (bnei maron) on Rosh HaShanah; also judgment on Pesach for grain, Shavuot for fruit, Sukkot for water"
+  },
+  {
+    "id": "kidush_hachodesh_witnesses",
+    "name": "Witnesses for Sanctifying the New Month",
+    "hebrew": "עדים לקידוש החודש",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for qualification, examination, and acceptance of witnesses who testify about sighting the new moon; desecrating Shabbat to bring testimony; disqualification of relatives and others"
+  },
+  {
+    "id": "messianic_messengers_month",
+    "name": "Messengers Sent Out for New Month (Shelichei Beit Din)",
+    "hebrew": "שלוחי בית דין לחודש",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The six months in which messengers were dispatched to inform the Diaspora of the new moon; later replaced by torch signals; historical and legal background"
+  },
+  {
+    "id": "torch_signals_new_moon",
+    "name": "Torch Signals for the New Moon (Massuot)",
+    "hebrew": "משואות לחידוש החודש",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The original system of lighting torches on mountaintops to relay the news of the new month; discontinued due to Samaritan interference"
+  },
+  {
+    "id": "beit_yazek_court",
+    "name": "Beit Ya'azek (Witness Assembly Court)",
+    "hebrew": "בית יעזק",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The Jerusalem courtyard where witnesses for the new moon gathered; Rabban Gamliel's institution of 2000-cubit movement rights for witnesses and others who arrived on Shabbat"
+  },
+  {
+    "id": "moon_witness_examination",
+    "name": "Examination of New Moon Witnesses",
+    "hebrew": "בדיקת עדי הירח",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The procedure for examining witnesses about the shape, position, and direction of the new moon; Rabban Gamliel's diagram of lunar forms"
+  },
+  {
+    "id": "hachodesh_mekudash",
+    "name": "Declaration of the New Month (Mekudash)",
+    "hebrew": "מקודש מקודש",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The formal pronouncement by the head of the court 'It is sanctified' and communal response; whether sanctification is needed when moon was not seen at anticipated time"
+  },
+  {
+    "id": "shofar_types_materials",
+    "name": "Types and Materials of the Shofar",
+    "hebrew": "מיני השופר וחומריו",
+    "parent_id": "shofar",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Which animals' horns are valid for shofar; cow horn disqualified; ibex (straight) for Rosh HaShanah Temple service; ram's horn for fast days; cracked or repaired shofarot"
+  },
+  {
+    "id": "shofar_temple_vs_provinces",
+    "name": "Shofar in the Temple vs. Provinces",
+    "hebrew": "שופר במקדש ובמדינה",
+    "parent_id": "shofar",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinctions between shofar practice in the Temple (with gold-mouthed ibex horn + two silver trumpets) and elsewhere; shofar on Shabbat only in Temple or (post-Temple) where there is a court"
+  },
+  {
+    "id": "shofar_rosh_hashanah_shabbat",
+    "name": "Shofar on Shabbat-Rosh HaShanah",
+    "hebrew": "שופר בראש השנה שחל בשבת",
+    "parent_id": "shofar",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabban Yochanan ben Zakkai's institution permitting shofar blowing on Shabbat-Rosh HaShanah wherever there is a court of 23 after Temple destruction"
+  },
+  {
+    "id": "shofar_kavvanah_intent",
+    "name": "Intent When Hearing the Shofar (Kavvanah)",
+    "hebrew": "כוונה בשמיעת שופר",
+    "parent_id": "shofar",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement to intend to fulfill the mitzva when hearing shofar; one who hears from a pit or echo; one who hears from behind a synagogue; comparison to Megillah reading"
+  },
+  {
+    "id": "tekiah_terua_shevarim",
+    "name": "Tekiah, Terua, Shevarim (Shofar Blast Types)",
+    "hebrew": "תקיעה תרועה שברים",
+    "parent_id": "shofar",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The three types of shofar sounds, their lengths relative to each other, the order of sets (tekia-terua-tekia), and rules about extended tekiot"
+  },
+  {
+    "id": "musaf_rosh_hashanah_blessings",
+    "name": "Musaf Blessings of Rosh HaShanah (Malkhuyot, Zikhronot, Shofarot)",
+    "hebrew": "מלכויות זכרונות שופרות",
+    "parent_id": "amidah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The three special blessings of the Rosh HaShanah Musaf Amidah: Malkhuyot (Kingship), Zikhronot (Remembrances), Shofarot (Shofar verses); minimum ten verses each; order of shofar blowing relative to each blessing"
+  },
+  {
+    "id": "zikhronot_blessing",
+    "name": "Zikhronot (Remembrances Blessing)",
+    "hebrew": "זכרונות",
+    "parent_id": "musaf_rosh_hashanah_blessings",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The Rosh HaShanah Musaf blessing containing verses about God's remembrance of creation, covenant, and deeds"
+  },
+  {
+    "id": "malkhuyot_blessing",
+    "name": "Malkhuyot (Kingship Blessing)",
+    "hebrew": "מלכויות",
+    "parent_id": "musaf_rosh_hashanah_blessings",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The Rosh HaShanah Musaf blessing proclaiming God's kingship with ten biblical verses; debate between R. Akiva and R. Yochanan ben Nuri about its placement"
+  },
+  {
+    "id": "shofarot_blessing",
+    "name": "Shofarot (Shofar Verses Blessing)",
+    "hebrew": "שופרות",
+    "parent_id": "musaf_rosh_hashanah_blessings",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The Rosh HaShanah Musaf blessing containing ten verses mentioning the shofar, from Torah, Writings, and Prophets"
+  },
+  {
+    "id": "chazan_shaliach_tzibbur_rosh_hashanah",
+    "name": "Prayer Leader Fulfilling Obligation for Congregation",
+    "hebrew": "שליח ציבור מוציא את הרבים",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debate between Rabban Gamliel and sages whether the shaliach tzibbur's prayer fulfills the obligation for individuals who do not know how to pray; context of Rosh HaShanah Musaf"
+  },
+  {
+    "id": "rabban_yochanan_ben_zakkai_takkanot",
+    "name": "Takkanot of Rabban Yochanan ben Zakkai",
+    "hebrew": "תקנות רבן יוחנן בן זכאי",
+    "parent_id": "meth_takkanah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Post-Temple institutions by Rabban Yochanan ben Zakkai: shofar on Shabbat where there is a court; lulav all seven days outside Temple; prohibition on new grain all day of 16 Nisan; accepting new moon testimony all day"
+  },
+  {
+    "id": "lulav_zecher_lmikdash",
+    "name": "Lulav All Seven Days (Zecher laMikdash)",
+    "hebrew": "לולב שבעה ימים זכר למקדש",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabban Yochanan ben Zakkai's institution that the lulav be taken all seven days of Sukkot outside the Temple, in commemoration of Temple practice"
+  },
+  {
+    "id": "chadash_omer_day_prohibition",
+    "name": "New Grain Prohibition Throughout Day of Omer (Zecher laMikdash)",
+    "hebrew": "איסור חדש כל יום הנף זכר למקדש",
+    "parent_id": "chadash",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabban Yochanan ben Zakkai's institution extending the prohibition on new grain throughout the entire sixteenth of Nisan as a remembrance of the Temple"
+  },
+  {
+    "id": "authority_beit_din_to_sanctify_month",
+    "name": "Authority of Beit Din to Sanctify the Month",
+    "hebrew": "סמכות בית הדין לקדש החודש",
+    "parent_id": "kiddush_hachodesh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that the calendar is determined by the earthly court's declaration, not heavenly calculation; Rabban Gamliel's authority even when disputed; submission to court ruling as binding"
+  },
+  {
+    "id": "disqualified_witnesses_gambling",
+    "name": "Disqualified Witnesses (Gamblers, Usurers, Dove Racers, Shevi'it Merchants, Slaves)",
+    "hebrew": "פסולי עדות",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Categories of people disqualified from giving testimony, as enumerated in Rosh HaShanah: dice players, usurers, pigeon racers, shevi'it merchants, and slaves"
+  },
+  {
+    "id": "trumpets_chatzotzrot_temple",
+    "name": "Trumpets (Chatzotzrot) in Temple Service",
+    "hebrew": "חצוצרות",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Use of silver trumpets alongside the shofar in the Temple on Rosh HaShanah and fast days; rules about when trumpets sound long vs. short blasts"
+  },
+  {
+    "id": "shofar_yovel_rosh_hashanah",
+    "name": "Shofar of Yovel vs. Rosh HaShanah",
+    "hebrew": "שופר של יובל ושל ראש השנה",
+    "parent_id": "yovel",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Comparison between the shofar blown on Yom Kippur of the Jubilee year and that of Rosh HaShanah; debate between R. Yehuda and sages about which horn is used"
+  },
+  {
+    "id": "bnei_maron_imagery",
+    "name": "Bnei Maron (Divine Review of All Creatures)",
+    "hebrew": "כבני מרון",
+    "parent_id": "din_rosh_hashanah_judgment",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The imagery of all humanity passing before God like sheep (bnei maron) on Rosh HaShanah for divine judgment"
+  }
+]

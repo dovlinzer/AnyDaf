@@ -1,0 +1,420 @@
+[
+  {
+    "id": "niddah_retroactive_impurity",
+    "name": "Retroactive Impurity of Menstruating Woman (Le'achar Zman)",
+    "hebrew": "טומאה למפרע של נידה",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Rules about how far back a woman transmits impurity retroactively when she discovers menstrual blood — the dispute between Shammai, Hillel, and the Rabbis regarding 24-hour period vs. examination to examination"
+  },
+  {
+    "id": "veset_kavua",
+    "name": "Fixed Menstrual Cycle (Veset Kavua)",
+    "hebrew": "וסת קבוע",
+    "parent_id": "veset",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Laws of a woman who has established a fixed menstrual cycle — her time is sufficient and she does not transmit impurity retroactively; how a veset is established after three occurrences"
+  },
+  {
+    "id": "veset_haguf",
+    "name": "Body-Sensation Menstrual Cycle (Veset HaGuf)",
+    "hebrew": "וסת הגוף",
+    "parent_id": "veset",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Fixed menstrual cycles established through bodily sensations such as yawning, sneezing, stomach pain, or shuddering rather than calendar-based patterns"
+  },
+  {
+    "id": "dam_besulim",
+    "name": "Blood of Virginity (Dam Besulim)",
+    "hebrew": "דם בתולים",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Halakhic status of blood discharged when the hymen is ruptured during first intercourse — dispute between Beit Shammai and Beit Hillel regarding how long such blood is attributed to the torn hymen and remains pure"
+  },
+  {
+    "id": "arba_nashim_dayam_shaatan",
+    "name": "Four Women Whose Time is Sufficient",
+    "hebrew": "ארבע נשים דיין שעתן",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The four categories of women (virgin, pregnant, nursing, elderly) who do not transmit impurity retroactively — dispute between Rabbi Eliezer and Rabbi Yehoshua"
+  },
+  {
+    "id": "dam_tohar",
+    "name": "Blood of Purity (Dam Tohar)",
+    "hebrew": "דם טוהר",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Blood seen by a woman during the days of purity following childbirth (33 or 66 days), which is ritually pure and does not render her impure; disputes about her status with regard to teruma and Temple entry"
+  },
+  {
+    "id": "yoledet_bziva",
+    "name": "Woman Who Gives Birth as a Zava (Yoledet b'Ziva)",
+    "hebrew": "יולדת בזיבה",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A woman who experienced three days of ziva-type bleeding during labor and then gave birth; she must observe seven clean days in addition to the birth-related impurity period"
+  },
+  {
+    "id": "ubar_status",
+    "name": "Halakhic Status of the Fetus/Embryo (Ubar)",
+    "hebrew": "עובר",
+    "parent_id": "fam_pregnancy",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Determination of whether a discharged mass is a halakhically significant fetus; formation of the male fetus on the 41st day and female on the 81st day; conditions under which a discharge triggers yoledet impurity obligations"
+  },
+  {
+    "id": "nefalim_discharge",
+    "name": "Miscarried Fetuses and Discharges (Nefalim)",
+    "hebrew": "נפלים",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Rules governing various forms of miscarriage or abnormal discharge — gestational sacs, sandal-shaped fetuses, tissue, flesh — and whether they trigger yoledet impurity periods"
+  },
+  {
+    "id": "shilya",
+    "name": "Afterbirth (Shilya)",
+    "hebrew": "שליא",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Halakhic status of the afterbirth — whether it triggers yoledet impurity and whether a house containing an afterbirth is rendered impure due to the assumption that an offspring was present within it"
+  },
+  {
+    "id": "ketamim_blood_stains",
+    "name": "Blood Stain Attribution and Location Rules",
+    "hebrew": "כתמים — מקום המציאה וייחוסם",
+    "parent_id": "ketem",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Detailed rules about where on the body or garment a blood stain was found determines impurity; ability to attribute stains to wounds, lice, other women's blood, or gentile sources; location relative to the body determines whether blood could have originated in the uterus"
+  },
+  {
+    "id": "shiva_ikurin",
+    "name": "Seven Stain-Removing Substances (Shiva Ikurin)",
+    "hebrew": "שבעה עיקרין",
+    "parent_id": "ketem",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The seven substances (tasteless saliva, split bean liquid, urine, natron, borit, Cimolian earth, potash) used to test whether a stain is blood or dye; rules about their order of application"
+  },
+  {
+    "id": "tumah_bikurot",
+    "name": "Impurity Transmitted by Infant on Day of Birth",
+    "hebrew": "טומאת בן יומו",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A baby boy even one day old conveys full halakhic status — transmits corpse impurity, creates levirate bonds, enables or disqualifies mother from teruma; one who kills him is liable"
+  },
+  {
+    "id": "simanim_gadlut",
+    "name": "Signs of Halakhic Adulthood (Simanim)",
+    "hebrew": "סימני בגרות",
+    "parent_id": "fam_bar_mitzvah",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Two pubic hairs as the primary sign of halakhic adulthood; rules about their minimum length; disputes about the age at which an ailonit or saris is determined (18 or 20 years old)"
+  },
+  {
+    "id": "bogeret",
+    "name": "Grown Woman (Bogeret)",
+    "hebrew": "בוגרת",
+    "parent_id": "fam_palgais",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The third stage of female development (bogeret/grown womanhood) after minor and na'arah; signs indicating its onset (breast development); halakhic consequences including loss of father's authority over her vows and earnings"
+  },
+  {
+    "id": "ailonit",
+    "name": "Sexually Underdeveloped Woman (Ailonit)",
+    "hebrew": "איילונית",
+    "parent_id": "fam_hermaphrodite",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A woman who has not developed signs of puberty by age 18 or 20; her halakhic status as exempt from levirate marriage obligations; distinction from normal women in marriage law"
+  },
+  {
+    "id": "saris",
+    "name": "Sexually Underdeveloped Man (Saris)",
+    "hebrew": "סריס",
+    "parent_id": "fam_hermaphrodite",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A man who has not developed signs of puberty by age 18 or 20; exempt from levirate marriage obligations; determination by age and absence of physical signs"
+  },
+  {
+    "id": "naarah_rights_father",
+    "name": "Father's Rights Over Na'arah's Earnings and Finds",
+    "hebrew": "זכויות האב בנערה",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Father's entitlement to found objects, earnings, and power to annul vows of a minor daughter and a na'arah; these rights cease when she becomes a bogeret"
+  },
+  {
+    "id": "meiun",
+    "name": "Refusal (Mi'un)",
+    "hebrew": "מיאון",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A minor girl's right to refuse a marriage contracted by her mother or brothers after her father's death; this right ceases when she develops pubic hair"
+  },
+  {
+    "id": "kuti_tumah",
+    "name": "Ritual Impurity of Samaritans (Kutim)",
+    "hebrew": "טומאת כותים",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Samaritan women deemed as menstruating from cradle; Samaritan men deemed as those who engage in intercourse with menstruating women; their garments and bedding transmit impurity accordingly; credibility of Samaritans in certain testimony"
+  },
+  {
+    "id": "dam_nochrit",
+    "name": "Blood of a Gentile Woman",
+    "hebrew": "דם הגויה",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel about whether blood of a gentile woman transmits impurity; Hillel holds it is like her saliva and urine, transmitting impurity only while moist"
+  },
+  {
+    "id": "beit_haperas_tumah",
+    "name": "Beit HaPeras Impurity Rules",
+    "hebrew": "בית הפרס",
+    "parent_id": "beit_hapras",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Specific rules about beit haperas and credibility of Samaritan testimony regarding graves; area of 100 cubits considered impure due to dispersal of bones by plow"
+  },
+  {
+    "id": "tumat_met_corpse_fluid",
+    "name": "Impurity of Blood Discharged from a Corpse",
+    "hebrew": "דם שיצא מן המת",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A quarter-log of blood emerging from a woman's corpse transmits impurity both as menstrual blood and as corpse blood (tent impurity); dispute between Rabbi Yehuda and Rabbis about whether post-mortem discharge transmits menstrual impurity"
+  },
+  {
+    "id": "bedikat_niddah_examinations_detail",
+    "name": "Examination Cloths and Intercourse Examinations",
+    "hebrew": "בדיקת עדים בשעת תשמיש",
+    "parent_id": "bedikot_niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Use of examination cloths before and after intercourse; disputes between Beit Shammai and Beit Hillel about frequency of examination; the modest women's practice of using a third cloth"
+  },
+  {
+    "id": "perozdor_anatomy",
+    "name": "Parable of the House — Uterine Anatomy in Purity Law",
+    "hebrew": "משל הבית — חדר ופרוזדור ועלייה",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The rabbinic model of female anatomy using the metaphor of inner room (uterus), corridor (vaginal canal), and upper story (bladder); determining the source of blood found in the corridor"
+  },
+  {
+    "id": "colors_niddah_blood",
+    "name": "Colors of Impure Menstrual Blood (Chamisha Damim)",
+    "hebrew": "חמישה דמים טמאים",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The five (or seven, per Beit Shammai) colors of blood that render a woman impure as a niddah; red, black, crocus, earth-water, diluted wine; specific standards for each color"
+  },
+  {
+    "id": "zav_zava_seven_clean_days",
+    "name": "Seven Clean Days of Zav and Zava",
+    "hebrew": "שבעה נקיים של זב וזבה",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Requirements for counting seven clean days before purification; examination obligations on each day; dispute between Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Akiva about what constitutes sufficient examination"
+  },
+  {
+    "id": "tumah_cesarian",
+    "name": "Impurity Status After Caesarean Birth",
+    "hebrew": "יוצא דופן",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A child born by caesarean section (yotzei dofen) — the mother does not observe the standard days of impurity and purity for childbirth; dispute with Rabbi Shimon"
+  },
+  {
+    "id": "tumah_onset_internal",
+    "name": "Impurity Begins Upon Internal Flow (Hargashat Davar)",
+    "hebrew": "טומאה מבפנים — ביציאת הדם לחדר",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Women become impure when blood flows into the vaginal canal even before leaving the body; contrast with zav and baal keri who become impure only when emission exits the body"
+  },
+  {
+    "id": "kohanim_testimony_betula",
+    "name": "Intercourse with Minor Girl (Three Years and One Day)",
+    "hebrew": "ביאת קטנה בת שלש שנים ויום אחד",
+    "parent_id": "mar_beelah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Halakhic intercourse with a girl aged three years and one day — acquisition through yibbum, liability for adultery, niddah impurity transmission; below that age the hymen regenerates and intercourse has no legal effect"
+  },
+  {
+    "id": "boy_nine_years_levirate",
+    "name": "Levirate Intercourse by Boy of Nine Years and One Day",
+    "hebrew": "ביאת יבם בן תשע שנים ויום אחד",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A boy of nine years and one day who performs levirate intercourse acquires the yevama; cannot give a get until majority; transmits impurity through niddah intercourse; halakhic consequences regarding teruma and bestiality"
+  },
+  {
+    "id": "vows_minors_examination",
+    "name": "Examination of Minors' Vows",
+    "hebrew": "בדיקת נדרי קטנים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Rules about validity of vows made by girls (age 11-12) and boys (age 12-13) — their vows require examination of understanding; once they develop pubic hair, vows are valid without examination"
+  },
+  {
+    "id": "tumah_dry_wet",
+    "name": "Impurity Transmission When Moist vs. Dry",
+    "hebrew": "טומאה לחה ויבשה",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Rules about which impure substances transmit impurity when dry as well as when moist (menstrual blood, corpse flesh) vs. those that transmit impurity only when moist (ziva discharge, saliva, semen, sheretz); soaking test to determine restorability"
+  },
+  {
+    "id": "tzara_beit_impurity_tumtum_androginos_birth",
+    "name": "Yoledet Impurity for Tumtum and Hermaphrodite Births",
+    "hebrew": "טומאת יולדת בטומטום ואנדרוגינוס",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "A woman who gives birth to a tumtum or hermaphrodite observes combined stringencies of male and female birth; impurity for 14 days but blood of purity for only 33 additional days"
+  },
+  {
+    "id": "beit_haporas_samaritans_burial",
+    "name": "Samaritan House of Impurity (Beit HaTumah)",
+    "hebrew": "בית טומאה של כותים",
+    "parent_id": "kuti_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The room used by Samaritan women during menstruation transmits tent-impurity like a corpse due to stillborn children buried there; dispute between Rabbi Yehuda who denies this"
+  },
+  {
+    "id": "labor_blood_not_ziva",
+    "name": "Labor Blood Does Not Constitute Ziva Blood",
+    "hebrew": "דם חבלים אינו דם זיבה",
+    "parent_id": "zivah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Blood emitted during labor pains is not counted as blood of ziva; disputes about how far in advance of birth labor blood exemption applies (2 weeks per R. Yosi/Shimon, 1 month per R. Yehuda, up to 40-50 days per R. Meir)"
+  },
+  {
+    "id": "eleven_days_ziva",
+    "name": "Eleven Days Between Menstrual Periods (Yemei Ziva)",
+    "hebrew": "אחד עשר ימי בין נידה לנידה",
+    "parent_id": "zivah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "The eleven-day period between menstrual cycles during which blood emissions are classified as ziva rather than niddah; significance for counting clean days and bringing offerings"
+  },
+  {
+    "id": "safsal_blood_attribution",
+    "name": "Attribution of Blood Found on Shared Bench or Bed",
+    "hebrew": "ייחוס כתם שנמצא על ספסל ומיטה משותפת",
+    "parent_id": "ketem",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_niddah"
+    ],
+    "notes": "Rules for attributing blood stains found on a bench or bed used by multiple women; all are impure unless one examined herself and found blood; stone and bathhouse benches not susceptible to impurity and therefore blood stains on them do not render users impure (Rabbi Nechemya)"
+  }
+]

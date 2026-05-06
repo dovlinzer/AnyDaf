@@ -1,0 +1,178 @@
+[
+  {
+    "id": "zav_zivah_laws",
+    "name": "Zav/Zavah — Laws of Gonorrheal Discharge",
+    "hebrew": "דיני זב וזבה",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Detailed laws of the zav: counting of sightings, examination for causes, threshold between one/two/three issues, distinction from keri, relationship to sacrifice obligation"
+  },
+  {
+    "id": "zav_examination_bedikat_zav",
+    "name": "Examination of the Zav (Bedikat haZav)",
+    "hebrew": "בדיקת הזב",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Seven factors examined to determine whether a zav's discharge was caused by an external factor (food, drink, carrying, jumping, illness, sight, thought) which would exempt him from zav status"
+  },
+  {
+    "id": "zav_hefsek_interruption",
+    "name": "Hefsek in Zav Counting (Interruption Undoing Days)",
+    "hebrew": "הפסק בספירת הזב",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Rules about how an emission of semen or additional zov during the counting period undoes previous clean days; dispute between Bet Shammai and Bet Hillel"
+  },
+  {
+    "id": "midras_tumah",
+    "name": "Midras Tumah (Pressure/Treading Impurity)",
+    "hebrew": "טומאת מדרס",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Impurity conveyed to objects fit for sitting/lying when a zav, zavah, niddah, or yoledet rests upon them; distinct from contact impurity; applies even without direct touch if weight is borne"
+  },
+  {
+    "id": "mishkav_umoshav",
+    "name": "Mishkav and Moshav (Objects for Lying and Sitting)",
+    "hebrew": "משכב ומושב",
+    "parent_id": "midras_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Special category of objects that can become midras-defiled and in turn convey second-degree impurity to persons and garments; detailed rules about which objects qualify"
+  },
+  {
+    "id": "madaf_tumah",
+    "name": "Madaf Tumah (Impurity Above the Zav)",
+    "hebrew": "טומאת מדף",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Objects resting above a zav (even without direct contact) that become defiled at a lesser grade; the madaf conveys impurity to food and liquids"
+  },
+  {
+    "id": "zav_carrying_moving",
+    "name": "Zav — Impurity Through Carrying and Moving",
+    "hebrew": "טומאת הזב בנשיאה והיסט",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Rules distinguishing defiling through carrying (masa) vs. moving (heset) a zav; who defiles whom when zav and clean person share a moving object like a boat or animal"
+  },
+  {
+    "id": "heset_tumah",
+    "name": "Heset (Moving/Displacing Impurity)",
+    "hebrew": "טומאת היסט",
+    "parent_id": "avot_nezikin_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Impurity transmitted when a zav moves an object or is moved by it, even without direct contact; distinct from touch and carrying; major topic of tractate Zavim"
+  },
+  {
+    "id": "zav_rishon_sheni_grades",
+    "name": "Grades of Impurity — Rishon and Sheni in Zav Context",
+    "hebrew": "ראשון ושני לטומאה בהקשר הזב",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Detailed treatment of first and second degree impurity conveyed by touching/carrying a zav or objects connected to him; how separation from source affects degree; disqualification of terumah at further remove"
+  },
+  {
+    "id": "drawn_water_pasul_tevilah",
+    "name": "Drawn Water (Mayim She'uvim) Disqualifying Immersion",
+    "hebrew": "מים שאובים הפוסלים את הטהרה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Rule that three logs of drawn water falling on a clean person's head and majority of body disqualifies terumah; also immersing head and majority in drawn water"
+  },
+  {
+    "id": "pasul_terumah_categories",
+    "name": "Categories That Disqualify Terumah (Posel et haTerumah)",
+    "hebrew": "הפוסלים את התרומה",
+    "parent_id": "terumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Enumerated list of those who disqualify terumah without rendering it impure outright: eating first/second degree impure food, drinking impure liquids, tevul yom, drawn water, unwashed hands, sacred scrolls, food defiled by liquids"
+  },
+  {
+    "id": "scroll_tumah_yadayim",
+    "name": "Sefer (Sacred Scroll) Defiling the Hands",
+    "hebrew": "ספר המטמא את הידיים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Rabbinic ruling that sacred scripture scrolls defile the hands; listed among those who disqualify terumah"
+  },
+  {
+    "id": "zav_korban_sacrifice",
+    "name": "Sacrifice of the Zav",
+    "hebrew": "קורבן הזב",
+    "parent_id": "mechusar_kapparah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "The obligation of a confirmed zav to bring a sacrifice after purification; threshold of three sightings required for sacrifice obligation; cases where he is exempt from sacrifice but still obligated in running water"
+  },
+  {
+    "id": "zav_mikveh_mayanot",
+    "name": "Immersion of Zav in Running Water (Mayanot)",
+    "hebrew": "טבילת הזב במעיינות",
+    "parent_id": "tevilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Requirement for a zav to immerse specifically in running spring water (mayim chayim), not just a mikvah; applies even in intermediate cases"
+  },
+  {
+    "id": "androginus_tumtum_zivah",
+    "name": "Androginus and Tumtum in Laws of Zivah",
+    "hebrew": "אנדרוגינוס וטומטום בדיני זיבה",
+    "parent_id": "fam_hermaphrodite",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Rules that androginus and tumtum bear stringencies of both male and female regarding zivah: defiled by blood like a woman and by seminal-like discharge like a man; their impurity is doubtful"
+  },
+  {
+    "id": "zav_balance_scale",
+    "name": "Zav on a Balance Scale",
+    "hebrew": "זב במאזניים",
+    "parent_id": "midras_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zavim"
+    ],
+    "notes": "Specific case: if a zav sits on one side of a balance and objects fit for sitting are on the other side; whether the objects become defiled depends on which side outweighs the other"
+  }
+]

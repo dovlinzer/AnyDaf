@@ -1,0 +1,288 @@
+[
+  {
+    "id": "sheviit_plowing_restrictions",
+    "name": "Plowing Restrictions Before the Sabbatical Year",
+    "hebrew": "מניעת חרישה ערב שביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rules governing when plowing of orchards and fields must cease in the sixth year before the sabbatical year begins"
+  },
+  {
+    "id": "sheviit_agricultural_labor",
+    "name": "Agricultural Labor Permitted/Forbidden in the Sabbatical Year",
+    "hebrew": "מלאכות המותרות והאסורות בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Detailed rules about which agricultural acts (manuring, pruning, watering, trimming, etc.) are permitted or forbidden during shemitah"
+  },
+  {
+    "id": "sheviit_sefichin",
+    "name": "Sefichin (Aftergrowths of the Sabbatical Year)",
+    "hebrew": "ספיחין",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rabbinic prohibition against eating aftergrowths that grew on their own during the sabbatical year; exceptions and categories discussed"
+  },
+  {
+    "id": "sheviit_kedushat_shviit",
+    "name": "Sanctity of Sabbatical Year Produce (Kedushat Shvi'it)",
+    "hebrew": "קדושת שביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Laws governing the sacred status of produce grown in the sabbatical year: how it must be eaten, sold, and treated"
+  },
+  {
+    "id": "sheviit_biur",
+    "name": "Biur Shvi'it (Removal of Sabbatical Year Produce)",
+    "hebrew": "ביעור שביעית",
+    "parent_id": "biur_peirot_shviit",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Obligation to remove sabbatical produce from one's home when that species is no longer available in the field; three territories for this law; timing based on second rainfall"
+  },
+  {
+    "id": "sheviit_territories",
+    "name": "Three Territories of the Land for Shemitah",
+    "hebrew": "שלוש ארצות לביעור",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Division of Israel into Judea, Transjordan, and Galilee (each subdivided into three regions) for purposes of biur shvi'it"
+  },
+  {
+    "id": "sheviit_money_substitutes",
+    "name": "Money Substitutes for Sabbatical Produce (Peidyon Shvi'it)",
+    "hebrew": "דמי שביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Laws governing money received in exchange for sabbatical year produce, which acquires the sanctity of the produce itself"
+  },
+  {
+    "id": "sheviit_commerce_prohibition",
+    "name": "Prohibition of Commerce with Sabbatical Produce",
+    "hebrew": "איסור סחורה בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Prohibition against engaging in commercial trade using sabbatical year produce; one may only use it for personal consumption"
+  },
+  {
+    "id": "sheviit_selling_implements",
+    "name": "Selling Agricultural Implements in the Sabbatical Year",
+    "hebrew": "מכירת כלי עבודה בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Restrictions on selling tools that may be used for forbidden agricultural work during shemitah; distinction between tools for forbidden and permitted use"
+  },
+  {
+    "id": "sheviit_lifnei_iver_shemitah",
+    "name": "Aiding Violators of Shemitah (Lifnei Iver in Shemitah Context)",
+    "hebrew": "לפני עיור בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rules about lending or selling items to those suspected of violating shemitah; includes cases involving neighbors and women borrowing kitchen items"
+  },
+  {
+    "id": "sheviit_gentile_fields",
+    "name": "Shemitah and Non-Jewish Fields",
+    "hebrew": "שביעית בשדה נכרי",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Permissibility of renting plowed land from a Gentile in the seventh year and related rulings about working non-Jewish land"
+  },
+  {
+    "id": "sheviit_syria",
+    "name": "Shemitah in Syria",
+    "hebrew": "שביעית בסוריה",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Special rules for Syria regarding sabbatical year work and produce; permitted detached produce work but not attached; export rules"
+  },
+  {
+    "id": "sheviit_export_import",
+    "name": "Export and Import of Sabbatical Produce and Terumah",
+    "hebrew": "הוצאת שביעית ותרומה לחוץ לארץ",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Prohibition against exporting sabbatical year produce or terumah from Israel to other countries; special status of Syria"
+  },
+  {
+    "id": "sheviit_saplings",
+    "name": "Saplings in the Sabbatical Year (Neti'ot)",
+    "hebrew": "נטיעות בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Definition of saplings vs. trees for purposes of shemitah plowing rules; prohibition on planting, sinking shoots, or grafting within 30 days of Rosh Hashanah"
+  },
+  {
+    "id": "sheviit_rosh_hashana_cutoff",
+    "name": "Rosh Hashanah as Shemitah Cutoff Date",
+    "hebrew": "ראש השנה כגבול לשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rosh Hashanah serves as the determining date for whether produce or agricultural work is governed by the sixth or seventh year; rules for produce rooted before vs. after"
+  },
+  {
+    "id": "sheviit_ownerless_produce",
+    "name": "Hefker of Sabbatical Produce (Ownerlessness)",
+    "hebrew": "הפקר שביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Obligation to make sabbatical produce ownerless and accessible to all; rules about gathering and eating ownerless produce from fields"
+  },
+  {
+    "id": "shemitat_kesafim_details",
+    "name": "Shemitat Kesafim — Loan Cancellation Details",
+    "hebrew": "פרטי שמיטת כספים",
+    "parent_id": "shemitat_kesafim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Detailed rules of loan cancellation: which debts are cancelled (documented, undocumented, wages, shop debts), and the verbal formula for remission"
+  },
+  {
+    "id": "prozbul_details",
+    "name": "Prozbul — Details and Formula",
+    "hebrew": "פרוזבול — פרטים ונוסח",
+    "parent_id": "prozbul",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Hillel's enactment allowing debts to be collected after shemitah by transferring them to court; formula, validity rules (pre/post-dated), and land requirement"
+  },
+  {
+    "id": "lifnim_mishurat_hadin_debts",
+    "name": "Voluntary Repayment Beyond Legal Obligation",
+    "hebrew": "לפנים משורת הדין בחובות",
+    "parent_id": "meth_lifnim_mishurat_hadin",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Cases where repayment is not legally required after shemitah cancellation but sages express approval for voluntary repayment; connects to lifnim mishurat hadin"
+  },
+  {
+    "id": "sheviit_bee_hive_status",
+    "name": "Legal Status of a Beehive (Kaveret)",
+    "hebrew": "כוורת — מעמדה ההלכתי",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Debate whether a beehive is considered like land (not susceptible to tumah, prozbul security, Shabbat liability) or like a movable vessel; dispute between R. Eliezer and Sages"
+  },
+  {
+    "id": "sheviit_dung_heaps",
+    "name": "Dung Heaps and Manure in Shemitah",
+    "hebrew": "מזבלות בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rules about when and how to pile manure in fields during the sabbatical year without appearance of fertilizing for shemitah"
+  },
+  {
+    "id": "sheviit_stone_removal",
+    "name": "Removing Stones from Fields in Shemitah",
+    "hebrew": "פינוי אבנים בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Regulations about removing stones from one's field during the sixth year and sabbatical year to avoid appearance of field improvement"
+  },
+  {
+    "id": "sheviit_otzar_beit_din",
+    "name": "Distribution of Sabbatical Produce at Time of Removal",
+    "hebrew": "חלוקת שביעית בשעת הביעור",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Rules about distributing sabbatical produce when biur time arrives; giving three meals to each person; poor vs. rich in post-biur consumption"
+  },
+  {
+    "id": "sheviit_produce_categories",
+    "name": "Categories of Sabbatical Year Produce (Food, Dye, Animal Feed)",
+    "hebrew": "סוגי פירות שביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "Classification of plants subject to shemitah: human food, animal food, dyeing material; whether biur and money-substitute laws apply to each category"
+  },
+  {
+    "id": "sheviit_intended_use",
+    "name": "Intended Use Determining Shemitah Status",
+    "hebrew": "מחשבה הקובעת בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "How one's intention to use a plant as food, animal fodder, or wood determines which shemitah laws apply to it"
+  },
+  {
+    "id": "convert_debt_heirs",
+    "name": "Debts Owed to a Convert's Heirs",
+    "hebrew": "חוב לבני גר",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_sheviit"
+    ],
+    "notes": "When a convert dies leaving sons who converted with him, the legal obligation to repay debts owed to the convert and the moral dimension of voluntary repayment"
+  }
+]

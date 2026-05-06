@@ -60,6 +60,12 @@ class ContentViewModel : ViewModel() {
     private val _studyFontSize = MutableStateFlow(StudyFontSize.MEDIUM)
     val studyFontSize: StateFlow<StudyFontSize> = _studyFontSize.asStateFlow()
 
+    private val _printFontSize = MutableStateFlow(StudyFontSize.SMALL)
+    val printFontSize: StateFlow<StudyFontSize> = _printFontSize.asStateFlow()
+
+    private val _printLineSpacing = MutableStateFlow(1.15)
+    val printLineSpacing: StateFlow<Double> = _printLineSpacing.asStateFlow()
+
     private val _useWhiteBackground = MutableStateFlow(false)
     val useWhiteBackground: StateFlow<Boolean> = _useWhiteBackground.asStateFlow()
 
@@ -95,6 +101,8 @@ class ContentViewModel : ViewModel() {
             _shiurShowSources.value = AppPreferences.shiurShowSources.first()
             _studyShowHebrew.value = AppPreferences.studyShowHebrew.first()
             _studyFontSize.value = AppPreferences.studyFontSize.first()
+            _printFontSize.value = AppPreferences.printFontSize.first()
+            _printLineSpacing.value = AppPreferences.printLineSpacing.first()
             _useWhiteBackground.value = AppPreferences.useWhiteBackground.first()
             _tabletRightPanelMode.value = AppPreferences.tabletRightPanel.first()
             _tabletCollapsedSide.value = AppPreferences.tabletCollapsedSide.first()
@@ -158,6 +166,16 @@ class ContentViewModel : ViewModel() {
     fun setStudyFontSize(size: StudyFontSize) {
         _studyFontSize.value = size
         viewModelScope.launch { AppPreferences.saveStudyFontSize(size) }
+    }
+
+    fun setPrintFontSize(size: StudyFontSize) {
+        _printFontSize.value = size
+        viewModelScope.launch { AppPreferences.savePrintFontSize(size) }
+    }
+
+    fun setPrintLineSpacing(spacing: Double) {
+        _printLineSpacing.value = spacing
+        viewModelScope.launch { AppPreferences.savePrintLineSpacing(spacing) }
     }
 
     fun setUseWhiteBackground(enabled: Boolean) {

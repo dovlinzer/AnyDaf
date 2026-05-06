@@ -1,0 +1,530 @@
+[
+  {
+    "id": "shema_times",
+    "name": "Times for Recitation of Shema",
+    "hebrew": "זמן קריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing the earliest and latest times for reciting Shema in the morning and evening"
+  },
+  {
+    "id": "shema_blessings",
+    "name": "Blessings Accompanying Shema",
+    "hebrew": "ברכות קריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The blessings recited before and after Shema in both morning and evening: Yotzer Or, Ahavah Rabbah, Emet veYatziv, Emet veEmunah, Hashkivenu"
+  },
+  {
+    "id": "shema_kavvanah",
+    "name": "Intention in Shema (Kavvanah)",
+    "hebrew": "כוונה בקריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The requirement to have intent while reciting Shema, and whether reading Torah that happened to be Shema fulfills the obligation"
+  },
+  {
+    "id": "shema_interruptions",
+    "name": "Interruptions During Shema",
+    "hebrew": "הפסקות בקריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws concerning permissible and impermissible interruptions between paragraphs of Shema and within each paragraph, including greeting others"
+  },
+  {
+    "id": "shema_posture",
+    "name": "Posture for Reciting Shema",
+    "hebrew": "תנוחה בקריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether one must recline at night and stand in the morning, or may recite in any position"
+  },
+  {
+    "id": "shema_order_paragraphs",
+    "name": "Order of Shema Paragraphs",
+    "hebrew": "סדר פרשיות שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rationale for ordering the three paragraphs of Shema as they are, including acceptance of yoke of Heaven before yoke of mitzvot"
+  },
+  {
+    "id": "tefillah_times",
+    "name": "Times for Prayer (Amida)",
+    "hebrew": "זמני תפילה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The latest permissible times for Shacharit, Mincha, Maariv, and Musaf prayers"
+  },
+  {
+    "id": "tefillah_direction",
+    "name": "Facing Jerusalem During Prayer",
+    "hebrew": "כוון לירושלים בתפילה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement to face toward the Temple/Holy of Holies when praying; adjustments for those traveling by donkey, ship, etc."
+  },
+  {
+    "id": "tefillah_preparation",
+    "name": "Preparation for Prayer (Kavanah and Stillness)",
+    "hebrew": "הכנה לתפילה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The early pious would wait one hour before praying to achieve proper gravity and submission; not interrupting prayer even for a king or snake"
+  },
+  {
+    "id": "tefillah_fixed_prayer",
+    "name": "Fixed Prayer vs. Supplication",
+    "hebrew": "תפילה קבועה ובקשה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Eliezer's ruling that one whose prayer is fixed (mechanical) has not properly supplicated; the ideal of kavvanah in prayer"
+  },
+  {
+    "id": "tefillah_danger",
+    "name": "Prayer in Dangerous Situations",
+    "hebrew": "תפילה בשעת סכנה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Abbreviated prayer for one walking in a dangerous place; Rabbi Yehoshua's formula of short prayer"
+  },
+  {
+    "id": "tefillah_shaliach_tzibbur",
+    "name": "Prayer Leader (Shaliach Tzibbur)",
+    "hebrew": "שליח ציבור",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the communal prayer leader, including replacement when he errs, what constitutes heretical additions to prayer, and birchat kohanim in this context"
+  },
+  {
+    "id": "tefillah_musaf",
+    "name": "Musaf Prayer",
+    "hebrew": "תפילת מוסף",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Additional prayer corresponding to the Musaf offering; times and quorum requirements for Musaf"
+  },
+  {
+    "id": "amidah_rain_geshem",
+    "name": "Mention of Rain in Amida (Geshem/Tal)",
+    "hebrew": "הזכרת גשמים בתפילה",
+    "parent_id": "amidah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Recitation of 'mashiv haruach' in the second blessing and the request for rain in the ninth blessing of the Amida"
+  },
+  {
+    "id": "havdalah_blessings_order",
+    "name": "Havdalah Blessings and Their Order",
+    "hebrew": "סדר ברכות הבדלה",
+    "parent_id": "havdalah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel on the order of candle, spices, Grace after Meals, and havdalah blessings; also the exact wording of the candle blessing"
+  },
+  {
+    "id": "havdalah_in_amida",
+    "name": "Havdalah in the Amida",
+    "hebrew": "הבדלה בתפילה",
+    "parent_id": "havdalah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Rabbi Akiva and Rabbi Eliezer regarding in which blessing of the Amida havdalah is inserted"
+  },
+  {
+    "id": "zimmun",
+    "name": "Zimmun (Invitation for Grace After Meals)",
+    "hebrew": "זימון",
+    "parent_id": "birkat_hamazon",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the zimmun — the formal invitation to recite Grace after Meals jointly; who counts toward the quorum, formula for different group sizes, division of groups"
+  },
+  {
+    "id": "birkat_hamazon_place",
+    "name": "Place of Recitation for Grace After Meals",
+    "hebrew": "מקום ברכת המזון",
+    "parent_id": "birkat_hamazon",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether one who forgot to recite Grace after Meals must return to the place where he ate"
+  },
+  {
+    "id": "birchat_hamazon_after_special_foods",
+    "name": "Grace After Meals for Special Foods",
+    "hebrew": "ברכת המזון על פירות שבעת המינים",
+    "parent_id": "birkat_hamazon",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute whether full three-blessing Grace after Meals or abbreviated single blessing is required after eating fruit of the seven species"
+  },
+  {
+    "id": "brachot_over_food_categories",
+    "name": "Blessings over Categories of Food",
+    "hebrew": "ברכות על מיני מאכל",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific blessings for tree fruits (borei pri haetz), ground produce (borei pri haadama), bread (hamotzi), wine (borei pri hagafen), vegetables, and the catch-all shehakol"
+  },
+  {
+    "id": "bracha_priority_seven_species",
+    "name": "Priority of Seven Species in Blessings",
+    "hebrew": "קדימה בברכות לשבעת המינים",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Which food to bless first when multiple foods are present; dispute between Rabbi Yehuda and Rabbis regarding priority of seven species"
+  },
+  {
+    "id": "bracha_exemptions",
+    "name": "One Blessing Exempting Another",
+    "hebrew": "ברכה אחת פוטרת אחרת",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a blessing over a primary food exempts a secondary food from its own blessing; the principle of ikar and tafel"
+  },
+  {
+    "id": "ikar_vatafel",
+    "name": "Primary and Secondary Food (Ikar veTafel)",
+    "hebrew": "עיקר וטפל",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that a blessing over the primary food exempts the secondary food accompanying it from a separate blessing"
+  },
+  {
+    "id": "kiddush_order_blessings",
+    "name": "Order of Kiddush Blessings",
+    "hebrew": "סדר ברכות קידוש",
+    "parent_id": "kiddush",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether the blessing over wine or over the day comes first in kiddush"
+  },
+  {
+    "id": "washing_hands_meal",
+    "name": "Handwashing at a Meal (Netilat Yadayim)",
+    "hebrew": "נטילת ידים לסעודה",
+    "parent_id": "NEW:PURITY AND MEAL PRACTICES",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of handwashing before and after a meal, including the dispute between Beit Shammai and Beit Hillel about the order of washing and mixing wine"
+  },
+  {
+    "id": "mayim_acharonim",
+    "name": "Final Waters (Mayim Acharonim)",
+    "hebrew": "מים אחרונים",
+    "parent_id": "NEW:PURITY AND MEAL PRACTICES",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Washing hands after a meal before Grace after Meals; dispute about whether to sweep the house first or wash first"
+  },
+  {
+    "id": "tevilah_baal_keri",
+    "name": "Immersion for Baal Keri (Ezra's Decree)",
+    "hebrew": "תקנת עזרא לבעל קרי",
+    "parent_id": "tumat_keri",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Ezra's decree requiring immersion before Torah study and prayer for one who experienced a seminal emission; what Torah activities are permitted beforehand"
+  },
+  {
+    "id": "zehirut_mitziut",
+    "name": "Distancing from Filth for Prayer",
+    "hebrew": "ריחוק מצואה לתפילה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement to distance at least four cubits from urine and feces before reciting Shema or praying"
+  },
+  {
+    "id": "chatan_patur_shema",
+    "name": "Groom's Exemption from Shema",
+    "hebrew": "פטור חתן מקריאת שמע",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A groom is exempt from reciting Shema on his wedding night due to preoccupation; Rabban Gamliel's practice of reciting it anyway"
+  },
+  {
+    "id": "avel_patur_mitzvot",
+    "name": "Mourner's Exemption from Mitzvot",
+    "hebrew": "פטור אבל ממצוות",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One whose deceased is before him is exempt from Shema, Amida, and tefillin; pallbearers' exemptions; Rabban Gamliel bathing after his wife's death as one who is delicate"
+  },
+  {
+    "id": "blessings_on_natural_phenomena",
+    "name": "Blessings on Natural Phenomena",
+    "hebrew": "ברכות על מאורעות הטבע",
+    "parent_id": "birchat_shevach_vehodaah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Blessings over lightning, thunder, storms, mountains, seas, rivers, deserts, the great sea, and shooting stars"
+  },
+  {
+    "id": "blessing_on_miracles",
+    "name": "Blessing on Places of Miracles",
+    "hebrew": "ברכה על מקום שנעשה נס",
+    "parent_id": "birchat_shevach_vehodaah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Blessing recited upon seeing a place where miracles were performed for Israel; blessing upon seeing where idolatry was eradicated"
+  },
+  {
+    "id": "blessing_good_bad_tidings",
+    "name": "Blessing on Good and Bad Tidings",
+    "hebrew": "ברכה על בשורות טובות ורעות",
+    "parent_id": "birchat_shevach_vehodaah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Reciting 'hatov vehameitiv' for good tidings and 'dayyan ha'emet' for bad tidings; obligation to bless for bad just as for good"
+  },
+  {
+    "id": "tefillat_haderech",
+    "name": "Traveler's Prayer (Tefillat HaDerech)",
+    "hebrew": "תפילת הדרך",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prayer upon entering and exiting a city; Ben Azzai's view of four prayers — two upon entrance and two upon exit"
+  },
+  {
+    "id": "tefilat_shav",
+    "name": "Vain Prayer (Tefillat Shav)",
+    "hebrew": "תפילת שוא",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against praying for something that has already occurred or cannot be changed, e.g., praying the sex of an already-conceived child"
+  },
+  {
+    "id": "kavod_beit_hamikdash_conduct",
+    "name": "Respectful Conduct Toward the Temple Mount",
+    "hebrew": "כבוד הר הבית",
+    "parent_id": "har_habayit",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against entering Temple Mount with staff, shoes, money belt, or dust on feet; not using it as a shortcut; not spitting there; not acting with levity opposite the eastern gate"
+  },
+  {
+    "id": "zikat_hashem_beshalom",
+    "name": "Mentioning God's Name in Greetings",
+    "hebrew": "הזכרת שם שמים בשאלת שלום",
+    "parent_id": "berachot",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic institution to greet others using God's name, as Boaz did; derived from biblical precedent to prevent neglect of this custom"
+  },
+  {
+    "id": "conclusion_blessings_temple",
+    "name": "Temple Blessing Conclusion Formula",
+    "hebrew": "חתימת ברכות במקדש",
+    "parent_id": "temple_prayers",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The change in blessing conclusion formula in the Temple from 'until the world' (haolam) to 'from world to world' (min haolam ve'ad haolam) due to Sadducee heresy about the afterlife"
+  },
+  {
+    "id": "women_minors_mitzvot_obligations",
+    "name": "Women and Minors — Obligations in Mitzvot",
+    "hebrew": "חיוב נשים וקטנים במצוות",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Women, slaves, and minors are exempt from Shema and tefillin but obligated in prayer, mezuza, and Grace after Meals; they do not count for zimmun"
+  },
+  {
+    "id": "exodus_egypt_night_mention",
+    "name": "Mentioning Exodus at Night",
+    "hebrew": "זכירת יציאת מצרים בלילה",
+    "parent_id": "shema",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Obligation to mention the Exodus from Egypt at night as part of Shema; derived by Ben Zoma from 'all the days of your life'; dispute with Rabbis about inclusion of messianic era"
+  },
+  {
+    "id": "beit_shammai_beit_hillel_disputes",
+    "name": "Beit Shammai and Beit Hillel Disputes (Meals/Prayer)",
+    "hebrew": "מחלוקות בית שמאי ובית הלל בסעודה ותפילה",
+    "parent_id": "NEW:BEIT SHAMMAI AND BEIT HILLEL",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The series of disputes between Beit Shammai and Beit Hillel regarding kiddush, handwashing, havdalah, and meal practices in tractate Berakhot"
+  },
+  {
+    "id": "prayer_study_hall_entry_exit",
+    "name": "Prayer upon Entering/Exiting Study Hall",
+    "hebrew": "תפילה בכניסה ויציאה מבית המדרש",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Nechunia ben HaKana's practice of reciting a brief prayer upon entering and exiting the beit midrash for protection from mishaps and gratitude"
+  },
+  {
+    "id": "amidah_short_form",
+    "name": "Abbreviated Amida (Tefillah Ketzarah)",
+    "hebrew": "תפילה קצרה",
+    "parent_id": "amidah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute among Rabban Gamliel, Rabbi Yehoshua, and Rabbi Akiva about whether the full eighteen blessings or an abbreviated form is required"
+  },
+  {
+    "id": "omen_prayer_fluency",
+    "name": "Fluency of Prayer as Omen of Acceptance",
+    "hebrew": "שגורה תפילתו סימן לקבלתה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Chanina ben Dosa's practice of knowing whether his prayer for the sick was accepted based on whether it was fluent in his mouth; erring in prayer as bad omen"
+  },
+  {
+    "id": "wine_dilution_blessing",
+    "name": "Blessing over Diluted vs. Undiluted Wine",
+    "hebrew": "ברכה על יין מזוג ושאינו מזוג",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Rabbi Eliezer and Rabbis whether a blessing may be recited over undiluted wine or only after water is added"
+  },
+  {
+    "id": "incense_blessing_meal",
+    "name": "Blessing over Incense at a Meal",
+    "hebrew": "ברכה על מוגמר בסעודה",
+    "parent_id": "birchat_hanehenin",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who blesses over wine at the end of a meal also recites the blessing over the incense (mugmar) brought after the meal"
+  },
+  {
+    "id": "candle_blessing_havdalah",
+    "name": "Blessing over Fire/Candle at Havdalah",
+    "hebrew": "ברכת הנר בהבדלה",
+    "parent_id": "havdalah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai (bara, past tense) and Beit Hillel (boreh, present tense) for the candle blessing; prohibition against blessing over gentile fire, fire for the dead, or fire of idolatry"
+  },
+  {
+    "id": "amen_after_blessing",
+    "name": "Responding Amen to Another's Blessing",
+    "hebrew": "עניית אמן לאחר ברכה",
+    "parent_id": "amen",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One answers amen after a Jew even if he did not hear the full blessing; but one does not answer amen after a Samaritan unless he heard the full blessing"
+  }
+]

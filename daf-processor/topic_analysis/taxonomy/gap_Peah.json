@@ -1,0 +1,222 @@
+[
+  {
+    "id": "peah_corners_field",
+    "name": "Peah (Corner of Field — Detailed Laws)",
+    "hebrew": "פֵּאָה",
+    "parent_id": "peah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Detailed laws of peah: minimum amount, when and how to leave it, what divides a field for peah purposes, which crops are subject, and distribution to the poor"
+  },
+  {
+    "id": "leket_detailed",
+    "name": "Leket (Gleanings — Detailed Laws)",
+    "hebrew": "לֶקֶט",
+    "parent_id": "leket",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Detailed laws of leket: what constitutes a gleaning vs. owner's property, fallen grain from hand/sickle, ant holes, harvesting by night or blind person"
+  },
+  {
+    "id": "shikchah_detailed",
+    "name": "Shikchah (Forgotten Sheaf — Detailed Laws)",
+    "hebrew": "שִׁכְחָה",
+    "parent_id": "shikchah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Detailed laws of shikchah: what qualifies as forgotten, end-of-row rules, sheaves of two seahs, trees (especially olives), standing grain saving sheaves, intentional forgetting"
+  },
+  {
+    "id": "olelot",
+    "name": "Olelot (Defective Grape Clusters)",
+    "hebrew": "עוֹלֵלוֹת",
+    "parent_id": "peret",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Laws of defective clusters of grapes left for the poor: definition (lacking shoulder and pendant), single grapes, entirely defective vineyard, timing of poor's access"
+  },
+  {
+    "id": "maaser_ani_detailed",
+    "name": "Maaser Ani (Poor Tithe — Detailed Laws)",
+    "hebrew": "מַעֲשַׂר עָנִי",
+    "parent_id": "maaser_ani",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Detailed laws of poor man's tithe: trustworthiness of am haaretz regarding it, minimum amounts for distribution, sharecropper's rights, who may take it"
+  },
+  {
+    "id": "dividing_field_peah",
+    "name": "Divisions of a Field for Agricultural Gifts",
+    "hebrew": "מַפסִיקִים לַפֵּאָה",
+    "parent_id": "peah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "What physical features (streams, roads, paths, fallow land, different species) divide a field requiring separate peah from each section; applies to trees and vines as well"
+  },
+  {
+    "id": "hefker_ownerless_poor",
+    "name": "Hefker for the Poor (Declaring Field Ownerless)",
+    "hebrew": "הֶפְקֵר לַעֲנִיִּים",
+    "parent_id": "peah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Laws regarding declaring produce ownerless for the poor: debate between Bet Shammai and Bet Hillel on whether hefker for poor alone is valid hefker; effect on tithe obligations"
+  },
+  {
+    "id": "ne_emanut_poor_gifts",
+    "name": "Trustworthiness (Ne'emanut) Regarding Agricultural Gifts to Poor",
+    "hebrew": "נֶאֱמָנוּת בְּמַתְּנוֹת עֲנִיִּים",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Rules on when an am haaretz is trusted to identify produce as leket, shikchah, peah, or poor tithe; distinctions based on processing stage (raw vs. cooked, whole vs. ground)"
+  },
+  {
+    "id": "charity_minimum_amounts",
+    "name": "Minimum Amounts of Charity Distribution",
+    "hebrew": "שִׁיעוּרֵי מַתְּנוֹת עֲנִיִּים",
+    "parent_id": "eth_tzedakah",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Minimum quantities to be given to the poor from the threshing floor: wheat, barley, spelt, dried figs, wine, oil; minimum for wandering poor (loaf, overnight needs, Shabbat meals)"
+  },
+  {
+    "id": "tamchui_kuppah",
+    "name": "Tamchui and Kuppah (Charity Dish and Communal Fund)",
+    "hebrew": "תַּמְחוּי וְקֻפָּה",
+    "parent_id": "eth_tzedakah",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Distinction between the tamchui (charity plate for daily food) and kuppah (weekly communal fund); eligibility thresholds (two meals vs. fourteen meals vs. 200 zuz); collection by two, distribution by three"
+  },
+  {
+    "id": "eligibility_charity",
+    "name": "Eligibility for Charity and Agricultural Gifts",
+    "hebrew": "זַכַּאוּת לְקַבֵּל צְדָקָה",
+    "parent_id": "eth_tzedakah",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Thresholds for eligibility to take leket/shikchah/peah/maaser ani vs. communal charity; 200 zuz threshold, assets mortgaged to creditor or ketubah, exempt from selling house or tools"
+  },
+  {
+    "id": "kerem_revay_peah",
+    "name": "Fourth Year Vineyard — Peah and Poor Gifts",
+    "hebrew": "כֶּרֶם רְבָעִי וּמַתְּנוֹת עֲנִיִּים",
+    "parent_id": "kerem_revay",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Dispute between Bet Shammai and Bet Hillel on whether peret and olelot apply to fourth-year vineyard, and whether all fruit goes to the winepress"
+  },
+  {
+    "id": "sharecropper_agricultural_gifts",
+    "name": "Sharecropper's Obligations for Agricultural Gifts",
+    "hebrew": "אָרִיס וּמַתְּנוֹת עֲנִיִּים",
+    "parent_id": "peah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Laws governing whether a sharecropper (aris) is permitted or forbidden to take leket, shikchah, peah, and maaser ani; depends on terms of sharecropping agreement"
+  },
+  {
+    "id": "hekdesh_agricultural_gifts_exemption",
+    "name": "Hekdesh and Exemption from Agricultural Gifts",
+    "hebrew": "הֶקְדֵּשׁ וּפְטוֹר מִמַּתְּנוֹת עֲנִיִּים",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Effect of dedication to Temple (hekdesh) on obligations of peah, leket, shikchah, and tithes; timing of dedication and redemption affects liability"
+  },
+  {
+    "id": "ger_agricultural_gifts",
+    "name": "Convert's Obligation for Agricultural Gifts",
+    "hebrew": "גֵּר וּמַתְּנוֹת עֲנִיִּים",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "A non-Jew who converts after harvesting his field is exempt from leket, shikchah, and peah; dispute regarding shikchah since liability arises at binding time"
+  },
+  {
+    "id": "prozbul_land_requirement",
+    "name": "Land Requirement for Prozbul",
+    "hebrew": "שִׁיעוּר קַרְקַע לְפְּרוֹזְבּוּל",
+    "parent_id": "prozbul",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Rabbi Akiva's view that any size of land is sufficient to write a prozbul; minimum land size debate among Tannaim"
+  },
+  {
+    "id": "deathbed_gift_land_retention",
+    "name": "Deathbed Gift — Retention of Land",
+    "hebrew": "מַתְּנַת שְׁכִיב מֵרַע וְשִׁיּוּר קַרְקַע",
+    "parent_id": "mon_deathbed_gifts",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Laws of deathbed gifts: validity requires retention of any land; if no land retained, gift is invalid; assigning land to wife causes loss of ketubah"
+  },
+  {
+    "id": "slave_manumission_property_gift",
+    "name": "Manumission of Slave Through Property Gift",
+    "hebrew": "שִׁחְרוּר עֶבֶד בְּמַתָּנַת נְכָסִים",
+    "parent_id": "slav_get_shichrur",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Master who gives all his property to his slave in writing thereby frees the slave; if master retains any portion, slave is not freed; dispute about exception clause"
+  },
+  {
+    "id": "mitzvot_no_shiur",
+    "name": "Mitzvot Without a Defined Measure (Ein Lahem Shiur)",
+    "hebrew": "מִצְווֹת שֶׁאֵין לָהֶם שִׁיעוּר",
+    "parent_id": "NEW:mitzvot_performance",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Category of mitzvot for which no minimum measure is prescribed: peah, bikkurim, re'iyah, gemilut chasadim, talmud Torah; discussed in Mishnah Peah 1:1"
+  },
+  {
+    "id": "olives_shikchah_laws",
+    "name": "Shikchah for Olive Trees",
+    "hebrew": "שִׁכְחָה בְּזֵיתִים",
+    "parent_id": "shikchah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_peah"
+    ],
+    "notes": "Special laws of forgotten sheaf applied to olive trees: named trees exempt, trees with two seahs, trees between rows, timing after second rainfall; Rabbi Yose's opinion that no shikchah applies to olive trees"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "mar_kiddushin_modes",
+    "name": "Modes of Betrothal (Kinyanei Kiddushin)",
+    "hebrew": "קניני קידושין",
+    "parent_id": "mar_methods_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Specific discussion of the three modes of betrothal: money (kesef), document (shtar), and intercourse (biah), including minimum values and conditions"
+  },
+  {
+    "id": "mar_kiddushin_kesef",
+    "name": "Betrothal by Money (Kiddushei Kesef)",
+    "hebrew": "קידושי כסף",
+    "parent_id": "mar_methods_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Betrothal effected through giving money or money's worth; dispute between Beit Shammai and Beit Hillel regarding minimum value (dinar vs. peruta)"
+  },
+  {
+    "id": "mar_kiddushin_shtar",
+    "name": "Betrothal by Document (Kiddushei Shtar)",
+    "hebrew": "קידושי שטר",
+    "parent_id": "mar_methods_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Betrothal effected through a written document given to the woman"
+  },
+  {
+    "id": "mar_kiddushin_biah",
+    "name": "Betrothal by Intercourse (Kiddushei Biah)",
+    "hebrew": "קידושי ביאה",
+    "parent_id": "mar_methods_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Betrothal effected through sexual intercourse; also the sole mode of levirate acquisition by the yavam"
+  },
+  {
+    "id": "mar_kiddushin_conditional",
+    "name": "Conditional Betrothal (Kiddushin al Tenai)",
+    "hebrew": "קידושין על תנאי",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Betrothal made subject to fulfillment of a condition; rules on what constitutes a valid condition, including the requirement of doubled condition (tenai kaful)"
+  },
+  {
+    "id": "mar_kiddushin_mekach_taut",
+    "name": "Betrothal under Mistaken Assumption",
+    "hebrew": "קידושין במקח טעות",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Betrothal where one party misrepresented their status or the item used; cases where betrothal is void due to material misrepresentation"
+  },
+  {
+    "id": "mar_sivlonot",
+    "name": "Sivlonot (Pre-Marital Gifts)",
+    "hebrew": "סבלונות",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Gifts sent by a groom to a bride after betrothal; whether sivlonot sent after an invalid betrothal constitute a new act of betrothal"
+  },
+  {
+    "id": "mar_kiddushin_agent",
+    "name": "Betrothal through an Agent (Shaliach l'Kiddushin)",
+    "hebrew": "שליח לקידושין",
+    "parent_id": "mon_agency",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Rules for appointing an agent to betroth on one's behalf; when agent exceeds instructions; competition between principal and agent betrothal"
+  },
+  {
+    "id": "mar_kiddushin_forbidden_items",
+    "name": "Betrothal with Forbidden Items",
+    "hebrew": "קידושין בדבר האסור",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Whether betrothal is effected using items from which benefit is prohibited (orlah, kilei hakerem, condemned ox, etc.) or items with special sanctity (terumah, maaser sheni, hekdesh)"
+  },
+  {
+    "id": "mar_kiddushin_two_women",
+    "name": "Betrothal of Two Women Simultaneously",
+    "hebrew": "מקדש שתי נשים כאחת",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Case where a man attempts to betroth two women simultaneously with one item worth a peruta, or betroths a woman and her daughter/sister together"
+  },
+  {
+    "id": "fam_shetuki",
+    "name": "Shetuki (Child of Unknown Father)",
+    "hebrew": "שתוקי",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Person who knows their mother but not their father; their status and marriage restrictions; distinct from foundling (asufi)"
+  },
+  {
+    "id": "fam_asufi",
+    "name": "Asufi (Foundling)",
+    "hebrew": "אסופי",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Child found in a public place who knows neither parent; their status and marriage restrictions compared to shetuki and mamzer"
+  },
+  {
+    "id": "fam_gibeonite",
+    "name": "Gibeonite (Netinei)",
+    "hebrew": "נתיני",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Descendants of the Gibeonites who converted in Joshua's time; their prohibited status with respect to marriage into the congregation (kahal)"
+  },
+  {
+    "id": "fam_ten_yuchasin",
+    "name": "Ten Categories of Lineage (Eser Yuchasin)",
+    "hebrew": "עשר יוחסין",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "The ten categories of those who ascended from Babylonia with Ezra (priests, Levites, Israelites, halalim, converts, freed slaves, mamzerim, Gibeonites, shetukim, asufim) and their permitted intermarriages"
+  },
+  {
+    "id": "fam_yuchsin_investigation",
+    "name": "Lineage Investigation for Priestly Marriage",
+    "hebrew": "בדיקת יוחסין לנישואי כהן",
+    "parent_id": "fam_yuchsin_kohanim",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "How many generations back a priest must investigate a prospective bride's maternal and paternal lineage; presumptions based on public office or Temple service"
+  },
+  {
+    "id": "meth_mitzvot_aretz_dependent",
+    "name": "Mitzvot Dependent on the Land (Mitzvot haTeluyot baAretz)",
+    "hebrew": "מצוות התלויות בארץ",
+    "parent_id": "meth_deorayta_derabanan",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Principle distinguishing mitzvot that apply only in Eretz Yisrael from those applying everywhere; exceptions such as orlah and kilayim that apply even outside the land"
+  },
+  {
+    "id": "meth_women_time_bound_mitzvot",
+    "name": "Women Exempt from Time-Bound Positive Commandments",
+    "hebrew": "נשים פטורות ממצוות עשה שהזמן גרמן",
+    "parent_id": "meth_mitzvot_aseh_shehazman_gerama",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "The rule that women are exempt from positive time-bound commandments and its exceptions; application in Kiddushin to distinguish men's and women's obligations"
+  },
+  {
+    "id": "mar_father_betrothal_daughter",
+    "name": "Father's Authority to Betroth His Minor Daughter",
+    "hebrew": "רשות האב לקדש את בתו הקטנה",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "The father's legal right to betroth his minor or young-adult daughter; limits of this authority and when it expires"
+  },
+  {
+    "id": "mar_mamzer_purification",
+    "name": "Purification of Mamzer Status",
+    "hebrew": "טיהור ממזרים",
+    "parent_id": "fam_mamzer",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Rabbi Tarfon's view that mamzerim can be 'purified' over generations by marrying a Canaanite maidservant; dispute with Rabbi Eliezer"
+  },
+  {
+    "id": "mar_credibility_kiddushin_claims",
+    "name": "Credibility of Claims Regarding Betrothal",
+    "hebrew": "נאמנות בטענות קידושין",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Who is believed regarding claims of betrothal, its conditions, or the identity of the betrothed; disputed claims between parties and their legal effect on relatives"
+  },
+  {
+    "id": "mar_kiddushin_offerings_portion",
+    "name": "Betrothal with Priestly Portions",
+    "hebrew": "קידושין בחלק הקדשים",
+    "parent_id": "mar_kiddushin_forbidden_items",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Whether a priest who betroths a woman with his share of sacrificial offerings effects valid betrothal; distinction between most-holy and lesser-holy offerings"
+  },
+  {
+    "id": "eth_vocation_choice",
+    "name": "Choice of Vocation and Trade",
+    "hebrew": "בחירת מקצוע ואומנות",
+    "parent_id": "eth_employer_employee",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Rabbinic guidance on which trades to teach one's son; preference for Torah study over worldly vocation; ethical evaluation of various professions"
+  },
+  {
+    "id": "mar_yichud_prohibitions",
+    "name": "Prohibited Seclusion — Specific Cases (Yichud)",
+    "hebrew": "איסורי ייחוד — פרטים",
+    "parent_id": "mar_yichud",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Specific rules: man may not be secluded with two women; woman may be with two men; exception when wife is present; seclusion with mother or daughter"
+  },
+  {
+    "id": "fam_bachelor_teacher",
+    "name": "Bachelor Prohibited from Teaching Children",
+    "hebrew": "רווק שלא ילמד תינוקות",
+    "parent_id": "mar_yichud",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Prohibition on an unmarried man serving as a teacher of young children due to concern of improper conduct; parallel prohibition for women teachers"
+  },
+  {
+    "id": "meth_tenai_kaful",
+    "name": "Double Condition Requirement (Tenai Kaful)",
+    "hebrew": "תנאי כפול",
+    "parent_id": "meth_tnai_kaful",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Rabbi Meir's view that a legally valid condition must state both the positive and negative consequences; derived from the condition of Gad and Reuben (Numbers 32); dispute with Rabbi Chanina ben Gamliel"
+  },
+  {
+    "id": "mon_kinyan_animal",
+    "name": "Acquisition of Animals (Kinyan Behemah)",
+    "hebrew": "קניין בהמה",
+    "parent_id": "mon_kinyanim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Large animals acquired by passing reins/bit; small animals acquired by lifting or pulling; dispute between Rabbi Meir/Eliezer and Rabbis regarding pulling"
+  },
+  {
+    "id": "mon_kinyan_slave",
+    "name": "Acquisition of Slaves (Kinyan Avadim)",
+    "hebrew": "קניין עבדים",
+    "parent_id": "mon_kinyanim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Modes of acquiring a Canaanite slave: money, document, or chazakah; how a slave acquires his own freedom; comparison with acquisition of land and movables"
+  },
+  {
+    "id": "mon_kinyan_chalifin",
+    "name": "Barter Acquisition (Kinyan Chalifin/Chalipin)",
+    "hebrew": "קניין חליפין",
+    "parent_id": "mon_kinyanim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Acquisition through exchange of one item for another; once a party acquires what he receives, the risk for the item he gives transfers to the other party"
+  },
+  {
+    "id": "mon_kinyan_hekdesh_dibbur",
+    "name": "Acquisition of Hekdesh by Speech",
+    "hebrew": "קניין הקדש בדיבור",
+    "parent_id": "hakdashah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "The principle that consecration to the Temple treasury takes effect through speech alone, unlike acquisition between private parties which requires a formal act"
+  },
+  {
+    "id": "mon_movables_with_land",
+    "name": "Movable Property Acquired Together with Land (Agav Karka)",
+    "hebrew": "מטלטלין נקנין אגב קרקע",
+    "parent_id": "mon_kinyan_agav",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_kiddushin"
+    ],
+    "notes": "Movable property can be transferred simultaneously with land through the act of acquisition performed on the land; also binds land to oath obligations of movables"
+  }
+]

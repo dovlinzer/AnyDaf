@@ -1,0 +1,442 @@
+[
+  {
+    "id": "get_lishmah",
+    "name": "Get Lishmah (Bill of Divorce Written for Specific Woman)",
+    "hebrew": "גט לשמה",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement that a get be written specifically for the woman being divorced; core topic of tractate Gittin chapters 2-3"
+  },
+  {
+    "id": "get_agent_declaration",
+    "name": "Agent's Declaration for Get (Written and Signed in My Presence)",
+    "hebrew": "הבאת גט ממדינת הים — בפני נכתב ובפני נחתם",
+    "parent_id": "mar_get_agent",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement that an agent bringing a get from overseas declare it was written and signed in his presence; major topic of Gittin chapter 1"
+  },
+  {
+    "id": "get_overseas_eretz_yisrael",
+    "name": "Get from Overseas to Eretz Yisrael",
+    "hebrew": "גט ממדינת הים לארץ ישראל",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Special laws governing a get brought from outside Eretz Yisrael, including agent declaration requirements and borders of Eretz Yisrael for this purpose"
+  },
+  {
+    "id": "get_materials_writing",
+    "name": "Valid Materials for Writing a Get",
+    "hebrew": "חומרי כתיבת הגט",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "What substances and surfaces are valid for writing a get, including ink types, unusual surfaces like olive leaves or animal horns; Gittin chapter 2"
+  },
+  {
+    "id": "get_dated_improperly",
+    "name": "Improperly Dated Get",
+    "hebrew": "גט מוקדם ומאוחר",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws concerning a get with an incorrect or anachronistic date (e.g., dated by an illegitimate kingdom, or written by day and signed at night)"
+  },
+  {
+    "id": "get_cancelled_revoked",
+    "name": "Cancellation/Revocation of a Get (Bitul Get)",
+    "hebrew": "ביטול גט",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing a husband's ability to cancel or revoke a get before it reaches his wife; Rabban Gamliel's ordinance against secret revocation; Gittin chapters 4 and 1"
+  },
+  {
+    "id": "get_conditional",
+    "name": "Conditional Get (Get al Tenai — detailed laws)",
+    "hebrew": "גט על תנאי",
+    "parent_id": "mar_get_al_tenai",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of conditional divorce — conditions related to return from travel, service, nursing, 'from today if I die'; Gittin chapters 6-8"
+  },
+  {
+    "id": "get_meuseh_coerced",
+    "name": "Coerced Get — Validity and Limits",
+    "hebrew": "גט מעושה",
+    "parent_id": "mar_get_meuseh",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a get given under compulsion is valid vs. invalid; difference between Jewish court compulsion and gentile compulsion; Gittin 9:8"
+  },
+  {
+    "id": "get_possession_transfer",
+    "name": "Transfer of Get to Wife's Possession",
+    "hebrew": "הגעת הגט לרשות האישה",
+    "parent_id": "mar_get_delivery",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of when a get enters the wife's legal possession — throwing, airspace, courtyard, basket, being asleep; Gittin chapter 8"
+  },
+  {
+    "id": "get_folded_signed",
+    "name": "Folded Get (Get Mekushar) and Bare Get (Get Pashut/Kal)",
+    "hebrew": "גט מקושר וגט קרח",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the folded-tied get vs. plain get, and the 'bare' get with insufficient witnesses on its folds; Gittin 8:10"
+  },
+  {
+    "id": "get_partial_divorce",
+    "name": "Partial Divorce (Get with Exceptions)",
+    "hebrew": "גט חלקי — חוץ מפלוני",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of a get given with conditions excluding certain men; whether such a get is valid; Gittin chapter 9"
+  },
+  {
+    "id": "get_remarry_prohibited",
+    "name": "Prohibition on Remarrying Divorced Wife",
+    "hebrew": "איסור להחזיר גרושתו",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws prohibiting a man from remarrying his divorced wife in certain circumstances — after she remarried, or when he divorced her due to bad reputation or specific vows; Gittin 4:7"
+  },
+  {
+    "id": "get_shetar_shichrur_parallel",
+    "name": "Parallel Laws of Get and Get Shichrur (Bill of Manumission)",
+    "hebrew": "שוויון גט ושטר שחרור",
+    "parent_id": "slav_get_shichrur",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Ways in which bills of divorce and bills of manumission share identical halakhot; Gittin 1:4, 9:3"
+  },
+  {
+    "id": "tikkun_olam",
+    "name": "Tikkun Olam (Rabbinic Enactments for the Betterment of Society)",
+    "hebrew": "תקנות מפני תיקון העולם",
+    "parent_id": "meth_takkanah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Category of rabbinic enactments justified by 'for the betterment of the world' — redeeming captives, prozbul, widow's oath, orphan guardianship, etc.; Gittin chapters 4-5"
+  },
+  {
+    "id": "darkhei_shalom_enactments",
+    "name": "Enactments for Ways of Peace (Darkhei Shalom)",
+    "hebrew": "תקנות מפני דרכי שלום",
+    "parent_id": "eth_darkhei_shalom",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rabbinic enactments enacted to preserve peace — Torah reading order, irrigation precedence, lost items of incompetents, poor gentiles and pe'ah; Gittin 5:8-9"
+  },
+  {
+    "id": "sikarikon",
+    "name": "Sikarikon (Law of Extorted Land)",
+    "hebrew": "סיקריקון",
+    "parent_id": "mon_sales",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing purchase of land from a Sicarius (violent extorter) — order of acquisition from Sicarius vs. original owner; Gittin 5:6"
+  },
+  {
+    "id": "deaf_mute_transactions",
+    "name": "Deaf-Mute's Legal Transactions (Gestures and Lip Movements)",
+    "hebrew": "עסקאות חרש באמצעות רמיזה",
+    "parent_id": "fam_deaf_mute",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic enactment validating transactions by a deaf-mute through gestures or lip movements; Gittin 5:7"
+  },
+  {
+    "id": "katan_transactions",
+    "name": "Minor's Transactions in Movable Property",
+    "hebrew": "מקח וממכר של קטן",
+    "parent_id": "mon_minors_transactions",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic enactment validating purchases and sales by young children (paotot) for movable property; Gittin 5:7"
+  },
+  {
+    "id": "eved_chetzi_shihrur",
+    "name": "Half-Slave's Emancipation (Eved Chatzi Ben Chorin)",
+    "hebrew": "עבד חצי בן חורין",
+    "parent_id": "slav_eved_kenaani",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of a slave owned jointly where one owner freed him — Beit Hillel vs. Beit Shammai dispute; obligation to fully emancipate for the world's betterment; Gittin 4:5"
+  },
+  {
+    "id": "pidyon_shevuyim_limits",
+    "name": "Limits on Redeeming Captives",
+    "hebrew": "פדיון שבויים — אין פודין יתר על דמיהם",
+    "parent_id": "fam_redeeming_captives",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The enactment that captives should not be redeemed for more than their monetary value, and prohibition on aiding their escape; Gittin 4:6"
+  },
+  {
+    "id": "sefer_torah_purchase_from_goy",
+    "name": "Purchase of Torah Scrolls and Sacred Objects from Gentiles",
+    "hebrew": "פדיון ספרים מן הגויים",
+    "parent_id": "sefer_torah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against paying above market value to purchase Torah scrolls, tefillin, or mezuzot from gentiles to prevent increased theft; Gittin 4:6"
+  },
+  {
+    "id": "apotropus_orphans",
+    "name": "Steward (Apotropus) for Orphans — Appointment and Accountability",
+    "hebrew": "אפוטרופוס על יתומים",
+    "parent_id": "mon_apotropus_minor",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of a court-appointed vs. father-appointed steward for orphans, including obligation to tithe and take oaths; Gittin 5:4"
+  },
+  {
+    "id": "gezeilat_beam_takkanat_hashavim",
+    "name": "Stolen Beam Built into a Building (Ordinance for the Penitent)",
+    "hebrew": "גזל קורה ובנאה בבירה — תקנת השבים",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Ordinance allowing a robber who built a stolen beam into a building to pay its value rather than destroy the building; encourages repentance; Gittin 5:5"
+  },
+  {
+    "id": "collection_from_orphans_property",
+    "name": "Debt Collection from Orphans' Inherited Property",
+    "hebrew": "גביית חוב מנכסי יתומים",
+    "parent_id": "mon_bankruptcy",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rule that a creditor collecting from orphans' inherited property collects only from inferior-quality land; Gittin 5:1-2"
+  },
+  {
+    "id": "collection_from_liened_property",
+    "name": "Collection from Liened Property Sold to Third Parties (Bnei Chorin vs. Meshubad)",
+    "hebrew": "גביה מנכסים משועבדים שנמכרו",
+    "parent_id": "mon_shibud_nechasim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about when creditors, injured parties, and women collecting ketubah may seize liened property sold to others; Gittin 5:1-3"
+  },
+  {
+    "id": "get_rumor_report",
+    "name": "Rumor of Betrothal or Divorce (Kol)",
+    "hebrew": "קול קידושין וגירושין",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a circulating rumor of betrothal or divorce is sufficient to establish legal status, and what constitutes a valid explanation negating the rumor; Gittin 9:9"
+  },
+  {
+    "id": "grounds_for_divorce",
+    "name": "Grounds for Divorce (Devar Ervah vs. Any Reason)",
+    "hebrew": "טעמי הגירושין — ערות דבר לעומת כל דבר",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai (adultery only), Beit Hillel (any grounds), and Rabbi Akiva (found a prettier woman) as to grounds required for valid divorce; Gittin 9:10"
+  },
+  {
+    "id": "get_witness_qualifications",
+    "name": "Witness Qualifications for Get",
+    "hebrew": "כשרות עדי גט",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Who may sign as a witness on a get, including women who are enemies, Samaritans, gentile court documents, Hebrew vs. Greek signatures; Gittin 1:5, 2:5, 9:6-8"
+  },
+  {
+    "id": "get_scribe_who_writes",
+    "name": "Who May Write a Get",
+    "hebrew": "מי כותב את הגט",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Anyone may write a get — deaf-mute, minor, woman, even the husband or wife themselves; what matters is the signatures of witnesses; Gittin 2:5"
+  },
+  {
+    "id": "get_verbal_instruction",
+    "name": "Husband's Verbal Instruction to Write and Give Get",
+    "hebrew": "ציווי הבעל לכתוב ולתת גט",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirements that the husband personally instruct the scribe and witnesses; cases of ambiguous instruction, deathbed instruction, and instruction through a third party; Gittin 6:5-7, 7:2"
+  },
+  {
+    "id": "get_kordeyakos_insanity",
+    "name": "Get Given or Retracted During Temporary Insanity",
+    "hebrew": "גט בעת קורדייקוס",
+    "parent_id": "fam_shoteh",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Validity of a get or its retraction made during an episode of temporary insanity (kordeyakos); Gittin 7:1"
+  },
+  {
+    "id": "get_mute_husband",
+    "name": "Get from a Mute Husband",
+    "hebrew": "גט מבעל אילם",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Procedure for examining a mute husband to determine valid consent for giving a get via nod of head; Gittin 7:1"
+  },
+  {
+    "id": "tinok_shenishbah_poel",
+    "name": "Minor's Purchase in Rabbinic Law (Takkanat Paotot)",
+    "hebrew": "תקנת פעוטות",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic enactment validating commercial transactions of young children (paotot) in movable property for their benefit; Gittin 5:7"
+  },
+  {
+    "id": "get_ailonit_divorce",
+    "name": "Divorce of an Ailonit (Sexually Underdeveloped Woman)",
+    "hebrew": "גירושי איילונית",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether a husband who divorced his wife claiming she is an ailonit may remarry her; and implications for the validity of the marriage; Gittin 4:8, 8:6-7"
+  },
+  {
+    "id": "samaritan_witnesses",
+    "name": "Samaritan Witnesses on Legal Documents",
+    "hebrew": "עדי כותים בשטרות",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "General invalidity of Samaritan witnesses on documents, with the exception of bills of divorce and manumission; Gittin 1:5"
+  },
+  {
+    "id": "gentile_court_documents",
+    "name": "Documents Produced in Gentile Courts",
+    "hebrew": "שטרות העולים בערכאות של גויים",
+    "parent_id": "courts_legal_documents",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Validity of documents authenticated by gentile courts for monetary matters, with exception for bills of divorce and manumission; Gittin 1:5"
+  },
+  {
+    "id": "prosbol_shemitat_kesafim",
+    "name": "Prozbul — Hillel's Ordinance",
+    "hebrew": "פרוזבול",
+    "parent_id": "prozbul",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Hillel's institution of the prozbul document to prevent loan cancellation in the sabbatical year; Gittin 4:3"
+  },
+  {
+    "id": "eved_nikhnas_legoyim",
+    "name": "Slave Sold to Gentiles — Automatic Emancipation",
+    "hebrew": "עבד הנמכר לגויים",
+    "parent_id": "slav_eved_kenaani",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Penalty that a slave sold to a gentile or to a Jew outside Eretz Yisrael is automatically emancipated; Gittin 4:6"
+  },
+  {
+    "id": "teruma_wife_agent_get",
+    "name": "Wife's Right to Eat Teruma During Get Delivery Process",
+    "hebrew": "אשת כהן ואכילת תרומה בעת שליחות גט",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a priest's wife designates an agent to receive vs. deliver her get, and the effect on her right to eat teruma; Gittin 6:4"
+  },
+  {
+    "id": "get_innkeeper_remarry",
+    "name": "Divorced Wife Who Spent Night at Inn with Ex-Husband",
+    "hebrew": "גרושה שלנה עם גרושה בפונדקי",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Beit Shammai vs. Beit Hillel dispute about whether seclusion at an inn after divorce requires a new get; Gittin 8:9"
+  }
+]

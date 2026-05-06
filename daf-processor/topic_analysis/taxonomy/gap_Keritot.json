@@ -1,0 +1,211 @@
+[
+  {
+    "id": "karet_liability",
+    "name": "Karet (Excision from the World-to-Come)",
+    "hebrew": "כרת",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "The 36 categories of transgression punishable by karet, their enumeration, and the distinction between intentional (karet) and unwitting (sin offering) violation"
+  },
+  {
+    "id": "asham_talui",
+    "name": "Asham Talui (Provisional Guilt Offering)",
+    "hebrew": "אשם תלוי",
+    "parent_id": "asham",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "The provisional guilt offering brought when one is uncertain whether they committed a sin requiring a sin offering; rules of when it applies, when it atones, and what happens if certainty is later established"
+  },
+  {
+    "id": "oleh_veyored_details",
+    "name": "Sliding-Scale Offering — Detailed Rules (Oleh v'Yored)",
+    "hebrew": "קרבן עולה ויורד",
+    "parent_id": "oleh_veyored",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Detailed rules of the sliding-scale offering: the five categories obligated (false oath of testimony, false oath on deposit, defiling the Temple or its foods, woman after childbirth, leper); substitution between animal, bird, and flour depending on financial status"
+  },
+  {
+    "id": "yoledet_offering",
+    "name": "Offering of a Woman after Childbirth (Korban Yoledet)",
+    "hebrew": "קרבן יולדת",
+    "parent_id": "yoledet",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Detailed rules of which types of miscarriage or birth obligate a sin offering, including sandal fetus, placenta, amniotic sac, caesarean birth; cases of uncertainty; aggregation of multiple births into one offering"
+  },
+  {
+    "id": "mechusar_kapparah_details",
+    "name": "Mechusar Kapparah — Detailed Rules",
+    "hebrew": "מחוסר כפרה",
+    "parent_id": "mechusar_kapparah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "The four categories of mechusar kapparah (zav, zava, woman after childbirth, leper) and their inability to eat sacrificial meat until the atonement offering is brought; also nazirite and convert in this context"
+  },
+  {
+    "id": "lapse_of_awareness_heelem",
+    "name": "Lapse of Awareness (He'elem) in Sin Offering Liability",
+    "hebrew": "העלם",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Rules governing what constitutes a single lapse of awareness for purposes of sin offering liability; whether multiple transgressions in one lapse require one or multiple offerings; combining different prohibitions"
+  },
+  {
+    "id": "safek_chatat",
+    "name": "Doubt in Sin Offering Liability (Safek Chatat)",
+    "hebrew": "ספק חטאת",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Cases of doubt whether one committed a sin requiring a sin offering, including mixed pieces of forbidden/permitted food, uncertainty about Shabbat vs. weekday labor; dispute between Rabbi Eliezer and Rabbi Yehoshua"
+  },
+  {
+    "id": "asham_meilah_safek",
+    "name": "Doubt in Misuse of Consecrated Property (Safek Meilah)",
+    "hebrew": "ספק מעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Rabbi Akiva's position that a provisional guilt offering is brought for uncertainty about meilah; dispute with Rabbis; Rabbi Tarfon's alternative procedure of paying immediately with conditional guilt offering"
+  },
+  {
+    "id": "korban_provision_discovery",
+    "name": "Discovery of Innocence After Bringing Offering",
+    "hebrew": "נודע לו שלא חטא",
+    "parent_id": "asham_talui",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "What happens to a provisional or definite guilt offering when it is discovered that no sin was committed: before/after slaughter, before/after blood sprinkling; dispute between Rabbi Meir, Rabbis, Rabbi Eliezer, Rabbi Yosei"
+  },
+  {
+    "id": "asham_chasidim",
+    "name": "Guilt Offering of the Pious (Asham Chasidim)",
+    "hebrew": "אשם חסידים",
+    "parent_id": "asham_talui",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Rabbi Eliezer's view that one may voluntarily bring a provisional guilt offering at any time; the practice of Bava ben Buta who brought one daily; dispute with the Rabbis who limit the provisional guilt offering to actual cases of doubt"
+  },
+  {
+    "id": "yom_kippur_atones_uncertain",
+    "name": "Yom Kippur Atoning for Uncertain Sins",
+    "hebrew": "יום הכיפורים מכפר על הספק",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Yom Kippur exempts one from bringing a provisional guilt offering for uncertainties that arose even at nightfall ending the day; sin offerings and definite guilt offerings are not exempted by Yom Kippur"
+  },
+  {
+    "id": "shiur_achilah_eating_measure",
+    "name": "Measure and Time for Forbidden Eating (Shiur Achilah)",
+    "hebrew": "שיעור אכילה",
+    "parent_id": "kashrut_category",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "The time span within which consumption of an olive-bulk creates liability; dispute between Rabbi Meir (time to eat toasted grain) and Rabbis (time to eat a half-loaf); also the quarter-log of wine for a priest entering the Temple"
+  },
+  {
+    "id": "ribui_chayyavot_bevia_achat",
+    "name": "Multiple Liabilities from a Single Act of Intercourse",
+    "hebrew": "ריבוי חיובים בביאה אחת",
+    "parent_id": "fam_incest",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Talmudic analysis of how a single act of forbidden intercourse can incur multiple separate sin offering liabilities when the woman stands in multiple prohibited relationship categories to the man simultaneously"
+  },
+  {
+    "id": "shifcha_charufah",
+    "name": "Espoused Maidservant (Shifcha Charufah)",
+    "hebrew": "שפחה חרופה",
+    "parent_id": "slav_amah_ivriyah",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Halakhot of the half-slave half-free betrothed maidservant; the guilt offering brought for intercourse with her; distinctions from other forbidden relationships regarding punishment, offering type, and conditions for liability"
+  },
+  {
+    "id": "dam_prohibition_details",
+    "name": "Blood Prohibition — Detailed Categories",
+    "hebrew": "איסור דם — פרטים",
+    "parent_id": "blood_kashrut",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Detailed enumeration of which blood is forbidden (slaughter blood, blood of stabbing, blood that departs with the soul) vs. which is permitted (spleen, heart, eggs, grasshoppers, tamtzit exudate blood); dispute of Rabbi Yehuda on exudate blood"
+  },
+  {
+    "id": "kavvanah_korban",
+    "name": "Designation of Offering for Specific Sin (Kavvanat HaKorban)",
+    "hebrew": "כוונת הקרבן",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "A sin offering may not be redirected to atone for a different sin than originally designated; one's heirs may not bring a designated sin offering in place of the decedent; derived from 'for his sin that he sinned'"
+  },
+  {
+    "id": "kibbud_av_vaem_equality",
+    "name": "Equality of Father and Mother in Honor Obligation",
+    "hebrew": "שקולים אב ואם בכבוד",
+    "parent_id": "eth_kibbud_av_vem",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Rabbi Shimon's exposition that Torah alternates order of father/mother and mother/father to show equality, yet concludes the father's honor takes precedence because both son and mother are obligated to honor the father; teacher's honor vis-à-vis father"
+  },
+  {
+    "id": "nazirite_offering_impurity",
+    "name": "Nazirite's Offering for Impurity (Korban Nazir Tamei)",
+    "hebrew": "קרבן נזיר שנטמא",
+    "parent_id": "vow_nazirite",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "The nazirite who became ritually impure brings an offering for intentional impurity the same as for unwitting impurity; the nazirite's mechusar kapparah status until offerings are sacrificed"
+  },
+  {
+    "id": "combined_partners_offering",
+    "name": "Two Partners Bringing One Atonement Offering",
+    "hebrew": "שני שותפים בקרבן אחד",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keritot"
+    ],
+    "notes": "Dispute whether two people who each may have committed a sin can jointly bring one sin offering or guilt offering as partners with a stipulation; Rabbi Shimon permits it conditionally; Rabbi Yosei prohibits conditional atonement offerings"
+  }
+]

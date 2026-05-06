@@ -1,0 +1,332 @@
+[
+  {
+    "id": "peter_chamor_redemption",
+    "name": "Redemption of Firstborn Donkey (Peter Chamor)",
+    "hebrew": "פטר חמור",
+    "parent_id": "peter_chamor",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Detailed laws of redeeming the firstborn donkey with a lamb, including cases of uncertainty, partnerships with gentiles, breaking the neck (arifah), and what happens when the lamb dies before or after designation"
+  },
+  {
+    "id": "arifat_chamor",
+    "name": "Breaking the Neck of the Firstborn Donkey (Arifah)",
+    "hebrew": "עריפת חמור",
+    "parent_id": "peter_chamor",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "The obligation to break the neck of the firstborn donkey when one does not wish to redeem it, and the principle that redemption takes precedence over breaking the neck"
+  },
+  {
+    "id": "bechor_beheimah_tehorah",
+    "name": "Firstborn of Kosher Animals (Bechor Beheimah Tehorah)",
+    "hebrew": "בכור בהמה טהורה",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Laws of the firstborn of kosher animals (cattle, sheep, goats), including partnerships with gentiles, when sanctity applies, animals born by caesarean section, uncertainty cases, and the role of priests and Levites"
+  },
+  {
+    "id": "bechor_mumim",
+    "name": "Blemishes of the Firstborn Animal",
+    "hebrew": "מומי הבכור",
+    "parent_id": "blemishes_offerings",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Detailed enumeration and classification of blemishes that permit slaughter of a firstborn animal outside the Temple, including blemishes of the ear, eye, nose, lip, genitals, tail, legs, and additional blemishes enumerated by Ila in Yavne"
+  },
+  {
+    "id": "bechor_examination_expert",
+    "name": "Expert Examination of Firstborn Blemishes",
+    "hebrew": "מומחה לבכורות",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Requirements for expert examination before slaughtering a firstborn animal based on its blemish, liability of non-expert who rules incorrectly, payment of wages to examiners, and credibility of priests and shepherds in testifying about blemishes"
+  },
+  {
+    "id": "intentional_caused_blemish",
+    "name": "Intentionally Caused Blemish (Mum sheNaaseh beYadayim)",
+    "hebrew": "מום שנעשה בידיים",
+    "parent_id": "blemishes_offerings",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Prohibition against intentionally causing a blemish on a consecrated firstborn animal; if blemish was caused intentionally, the animal may not be slaughtered on its account, but if unintentionally, it may be slaughtered"
+  },
+  {
+    "id": "shearing_firstborn",
+    "name": "Prohibition of Shearing a Firstborn Animal",
+    "hebrew": "איסור גיזת הבכור",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Prohibition of shearing the firstborn animal's wool, and the related question of wool that shed naturally or was stored, as debated by Akavya ben Mahalalel and the Rabbis"
+  },
+  {
+    "id": "maaser_beheimah_laws",
+    "name": "Laws of Animal Tithe (Maaser Beheimah)",
+    "hebrew": "מעשר בהמה",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Detailed practical laws of animal tithe: when it applies (in and outside Israel, with or without Temple), procedure of passing animals under the rod, counting, painting the tenth animal, times of year for gathering, joining of flocks, and errors in counting"
+  },
+  {
+    "id": "maaser_beheimah_counting_errors",
+    "name": "Errors in Counting Animal Tithe",
+    "hebrew": "טעות במניין מעשר בהמה",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Halakhic consequences when the ninth animal is called tenth, tenth called ninth, eleventh called tenth — status of each animal as tithe, peace offering, or substitute, and dispute between Rabbi Meir and Rabbi Yehuda"
+  },
+  {
+    "id": "maaser_beheimah_rosh_hashanah",
+    "name": "New Year for Animal Tithe",
+    "hebrew": "ראש השנה למעשר בהמה",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Dispute between Rabbi Akiva, Ben Azzai, Rabbi Elazar and Rabbi Shimon, and Rabbi Meir regarding the dates that mark the new year for animal tithe and when different birth cohorts are tithed together"
+  },
+  {
+    "id": "maaser_beheimah_orphan",
+    "name": "Orphan Animal Exempt from Animal Tithe",
+    "hebrew": "יתום במעשר בהמה",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Definition of 'orphan' animal (whose mother died during or after birth) and its exemption from animal tithe along with other exempt categories like tereifa and caesarean-born animals"
+  },
+  {
+    "id": "bechor_partnership_gentile",
+    "name": "Partnership with a Gentile Exempting Firstborn Status",
+    "hebrew": "שותפות עם הגוי בבכורה",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Various forms of partnership, sale, or receivership with a gentile that exempt an animal's offspring from firstborn sanctity, based on the verse that the mitzva applies only to Israel"
+  },
+  {
+    "id": "bechor_guaranteed_investment_gentile",
+    "name": "Guaranteed Investment from a Gentile (Iska) and Firstborn",
+    "hebrew": "קיבל צאן ברזל מן הגוי ובכורה",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "When a Jew receives animals as a guaranteed investment from a gentile, the offspring and their descendants are exempt from firstborn status as long as they serve as collateral for the gentile's claim"
+  },
+  {
+    "id": "mumei_kohanim",
+    "name": "Blemishes Disqualifying Priests from Temple Service",
+    "hebrew": "מומין הפוסלין בכהנים",
+    "parent_id": "baal_mum",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Extensive enumeration of physical blemishes that disqualify a priest from performing Temple service, including head shape, eye conditions, nose and lip defects, bodily proportions, epilepsy, extra or missing limbs, and skin conditions — some applying to animals but not priests and vice versa"
+  },
+  {
+    "id": "blemish_animal_vs_person",
+    "name": "Blemishes Unique to Animals vs. Those Unique to Priests",
+    "hebrew": "מומין השווים בבהמה ובאדם ומומין המיוחדים",
+    "parent_id": "baal_mum",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Comparative analysis of which blemishes disqualify both priests and animals, which disqualify only priests (e.g., deaf-mute, imbecile, drunkard), and which disqualify only animals (e.g., tereifa, caesarean birth, same-day slaughter)"
+  },
+  {
+    "id": "pidyon_haben_laws",
+    "name": "Laws of Redemption of the Firstborn Son (Pidyon HaBen)",
+    "hebrew": "פדיון הבן",
+    "parent_id": "pidyon_haben",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Detailed laws: who is firstborn for redemption vs. inheritance, cases of miscarriage, caesarean section, conversion, uncertain parentage; the five sela payment in Tyrian coinage; timing of obligation; who redeems when father dies; precedence of self-redemption vs. son's redemption"
+  },
+  {
+    "id": "bechor_nachla_vs_redemption",
+    "name": "Firstborn for Inheritance vs. Firstborn for Redemption",
+    "hebrew": "בכור לנחלה ובכור לכהן",
+    "parent_id": "pidyon_haben",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "The tractate's systematic analysis of cases where a son is firstborn for inheritance but not for priestly redemption, firstborn for redemption but not inheritance, both, or neither — including cases of miscarriage, caesarean section, prior births by maidservant or gentile woman"
+  },
+  {
+    "id": "bekhor_nachalah_double_portion",
+    "name": "Firstborn's Double Inheritance Portion",
+    "hebrew": "פי שניים של בכור בנחלה",
+    "parent_id": "mon_bekhor_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Details of the firstborn's double portion: applies to father's property but not mother's; does not include property due but not yet possessed; does not apply to appreciation after death; compared to wife's ketubah and daughters' maintenance rights"
+  },
+  {
+    "id": "sdeh_achuzah_yovel_exceptions",
+    "name": "Fields That Do Not Return in the Jubilee Year",
+    "hebrew": "שדות שאינן חוזרות ביובל",
+    "parent_id": "sdeh_achuzah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Properties that do not revert to original owners in the Jubilee Year: the firstborn's extra inheritance portion, a husband inheriting wife's property, a yavam inheriting his brother's property, and the dispute between Rabbi Meir and the Rabbis regarding gifts"
+  },
+  {
+    "id": "suspect_firstborn_commerce",
+    "name": "Person Suspected of Firstborn Animal Violations",
+    "hebrew": "החשוד על הבכורות",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Restrictions on purchasing meat, hides, and wool from one suspected of improperly slaughtering firstborn animals; the graduated suspicion from raw products to processed goods"
+  },
+  {
+    "id": "suspect_shemitah_commerce",
+    "name": "Person Suspected of Sabbatical Year Violations",
+    "hebrew": "החשוד על השביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Restrictions on purchasing flax and other products from one suspected of Sabbatical Year violations; graduated trust depending on degree of processing"
+  },
+  {
+    "id": "suspect_terumah_commerce",
+    "name": "Person Suspected of Terumah Violations",
+    "hebrew": "החשוד על התרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Restrictions on purchasing food items from one suspected of selling terumah as non-sacred produce; dispute between Rabbi Yehuda and Rabbi Shimon on scope of suspicion"
+  },
+  {
+    "id": "wages_for_judging_testifying",
+    "name": "Prohibition of Wages for Judging or Testifying",
+    "hebrew": "שכר דיינות ועדות",
+    "parent_id": "schar_shabbat",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Prohibition against taking wages to serve as judge, witness, or to sprinkle purification waters; rulings of such persons are void; exceptions for compensation for lost work time and transportation"
+  },
+  {
+    "id": "expert_judge_liability_exemption",
+    "name": "Expert Judge Exempt from Liability for Erroneous Ruling",
+    "hebrew": "דיין מומחה פטור מתשלומים",
+    "parent_id": "courts_judicial_malpractice",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "An expert judge recognized by the court is exempt from paying compensation for an erroneous ruling, illustrated by the incident of Rabbi Tarfon and the hysterectomized cow; non-experts bear financial responsibility"
+  },
+  {
+    "id": "tyrian_maneh_currency",
+    "name": "Tyrian Maneh (Coinage Standard)",
+    "hebrew": "מנה צורי",
+    "parent_id": "NEW:MONETARY STANDARDS AND COINAGE",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "The Tyrian maneh as the standard for various Torah monetary obligations including the five sela of pidyon haben, thirty shekel for slave killed by ox, fifty shekel for rape/seduction, and one hundred shekel for defamer; Tyrian coinage worth eight times provincial coinage"
+  },
+  {
+    "id": "disqualified_consecrated_animals_sale",
+    "name": "Sale of Disqualified Consecrated Animals",
+    "hebrew": "פסולי המוקדשין ומכירתן",
+    "parent_id": "pesulei_hamukdashim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "How disqualified consecrated animals (other than firstborn and animal tithe) are sold in the market by weight; contrast with firstborn and animal tithe which are sold at home by estimate, with all profit going to the owner"
+  },
+  {
+    "id": "bechor_nursing_presumption",
+    "name": "Presumption Based on Nursing Animal",
+    "hebrew": "חזקת בהמה מניקה",
+    "parent_id": "herm_chazakah",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "The presumption that a nursing animal has previously given birth to the animal it is nursing, used to determine whether an animal purchased from a gentile has firstborn-exempt status"
+  },
+  {
+    "id": "bechor_caesarean_birth",
+    "name": "Caesarean-Born Animal and Firstborn Status",
+    "hebrew": "יוצא דופן בבכורה",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "An animal born by caesarean section and the animal following it — neither has firstborn sanctity; dispute between Rabbi Tarfon and Rabbi Akiva on whether either has any firstborn status"
+  },
+  {
+    "id": "matnot_kehunah_gifts",
+    "name": "Priestly Gifts from Slaughtered Animals (Foreleg, Jaw, Maw)",
+    "hebrew": "מתנות כהונה — זרוע לחיים וקיבה",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "Obligation to give the foreleg, jaw, and maw to a priest from non-sacred slaughtered animals; exemption of blemished firstborn animals (and their uncertain counterparts) from this obligation; dispute between Rabbi Yosei and Rabbi Meir"
+  },
+  {
+    "id": "bechor_ila_yavne",
+    "name": "Ila's Enumeration of Blemishes at Yavne",
+    "hebrew": "עילא ביבנה",
+    "parent_id": "bechor_mumim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bekhorot"
+    ],
+    "notes": "The expert Ila enumerated blemishes that permit firstborn slaughter at Yavne; he added three novel blemishes (eye like a human, mouth like a pig, most of speech-facilitating tongue removed) which were later accepted by the court"
+  }
+]

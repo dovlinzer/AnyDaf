@@ -1,0 +1,518 @@
+[
+  {
+    "id": "sanhedrin_composition",
+    "name": "Composition and Jurisdiction of Jewish Courts (Sanhedrin Structure)",
+    "hebrew": "מניין הדיינים וסמכות בתי הדין",
+    "parent_id": "courts_structure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Detailed rules about which court size (3, 23, or 71) has jurisdiction over which types of cases — monetary, capital, national matters, etc."
+  },
+  {
+    "id": "crim_ir_hanidachat",
+    "name": "Idolatrous City (Ir HaNidachat)",
+    "hebrew": "עיר הנידחת",
+    "parent_id": "crim_idolatry",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Laws of a city whose residents were subverted to idol worship, including conditions for designation, execution of residents by sword, destruction of property, and its exclusion from World-to-Come."
+  },
+  {
+    "id": "crim_hanging_after_execution",
+    "name": "Hanging the Corpse After Execution (Taliyah)",
+    "hebrew": "תלייה לאחר מיתה",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Laws of hanging the corpse of one executed by stoning, who is hanged, who is not, how the hanging is performed, and the prohibition against leaving the body overnight."
+  },
+  {
+    "id": "crim_burial_executed",
+    "name": "Burial of the Executed (Kevurat HaNeharagim)",
+    "hebrew": "קבורת הנהרגים",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Two separate graveyards for those executed by the court, return of bones to ancestral burial plot after decomposition, and relatives' post-execution conduct."
+  },
+  {
+    "id": "crim_viduy_lifnei_mita",
+    "name": "Confession Before Execution (Viduy Lifnei Mita)",
+    "hebrew": "וידוי לפני מיתה",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Requirement for the condemned to confess before execution so that death serves as atonement; formulas of confession and their role in attaining a share in the World-to-Come."
+  },
+  {
+    "id": "crim_hatraah_capital",
+    "name": "Warning Before Capital Transgression (Hatraah b'Dinei Nefashot)",
+    "hebrew": "התראה בדיני נפשות",
+    "parent_id": "courts_hatraah",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Special rules of forewarning in capital cases, including the inciter (meisit) who uniquely requires no forewarning, and rules of examination of witnesses."
+  },
+  {
+    "id": "crim_meisit",
+    "name": "Inciter to Idolatry (Meisit)",
+    "hebrew": "מסית",
+    "parent_id": "crim_idolatry",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Laws of one who incites an individual to worship idols — unique in that witnesses may be hidden to entrap him, no forewarning required, executed by stoning."
+  },
+  {
+    "id": "crim_maddiah",
+    "name": "Subverter of a City to Idolatry (Maddiah)",
+    "hebrew": "מדיח",
+    "parent_id": "crim_idolatry",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "One who subverts an entire city to idol worship, distinct from the meisit who incites individuals; leads to designation of the city as ir hanidachat."
+  },
+  {
+    "id": "crim_molekh",
+    "name": "Passing Children to Molekh",
+    "hebrew": "נתינה למולך",
+    "parent_id": "crim_idolatry",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Specific conditions for liability for the Molekh ritual: handing over child to priests and passing through fire, executed by stoning."
+  },
+  {
+    "id": "crim_ob_yidoni",
+    "name": "Necromancy and Sorcery (Ov v'Yidoni)",
+    "hebrew": "אוב וידעוני",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Definitions of the ov (necromancer) and yidoni (sorcerer) and their execution by stoning; also prohibition on consulting them."
+  },
+  {
+    "id": "crim_makeh_av_veem",
+    "name": "Striking Father or Mother",
+    "hebrew": "מכה אביו ואמו",
+    "parent_id": "crim_strangulation",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "One who strikes a parent and causes a wound is executed by strangulation; conditions and comparison with cursing a parent."
+  },
+  {
+    "id": "crim_kidnapping_details",
+    "name": "Kidnapping Details (Gonev Nefesh)",
+    "hebrew": "גונב נפש",
+    "parent_id": "crim_kidnapping",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Conditions for liability for kidnapping: bringing the victim into one's domain, exploiting him, selling him; disputes about kidnapping one's own son or a half-slave."
+  },
+  {
+    "id": "crim_zaken_mamre_procedure",
+    "name": "Rebellious Elder Procedure (Zaken Mamre)",
+    "hebrew": "זקן ממרא — הליכי דין",
+    "parent_id": "crim_rebellious_elder",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Three-stage process of escalating courts for the rebellious elder, execution delayed until pilgrimage festival for public deterrence, distinction between teaching and acting on a contrary ruling."
+  },
+  {
+    "id": "crim_navi_sheker_procedure",
+    "name": "False Prophet — Types and Procedure",
+    "hebrew": "נביא שקר — סוגים והליכים",
+    "parent_id": "crim_false_prophet",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Distinction between false prophet executed by court (strangulation) vs. prophet who suppresses prophecy or ignores a prophet's word, whose death is by heaven."
+  },
+  {
+    "id": "crim_stoning_procedure",
+    "name": "Stoning Procedure (Sekilah — Seder HaMitzvah)",
+    "hebrew": "סדר מצות סקילה",
+    "parent_id": "crim_stoning",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Detailed procedure: platform twice the height of a person, witness pushes from the hips, stone placed on chest, all of Israel stones; signals to halt the execution if new evidence arises."
+  },
+  {
+    "id": "crim_burning_procedure",
+    "name": "Burning Procedure (Sereifah — Seder HaMitzvah)",
+    "hebrew": "סדר מצות שריפה",
+    "parent_id": "crim_burning",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Method of burning by inserting a lit wick into the mouth while the condemned is submerged in dung and strangled open; dispute between Sages and Rabbi Yehuda."
+  },
+  {
+    "id": "crim_beheading_procedure",
+    "name": "Beheading Procedure (Hereg — Seder HaMitzvah)",
+    "hebrew": "סדר מצות הרג",
+    "parent_id": "crim_beheading",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Method of execution by sword as the monarchy does; dispute about use of a cleaver vs. sword and questions of dignity."
+  },
+  {
+    "id": "crim_strangulation_procedure",
+    "name": "Strangulation Procedure (Chenek — Seder HaMitzvah)",
+    "hebrew": "סדר מצות חנק",
+    "parent_id": "crim_strangulation",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Method of strangulation using rough scarf within soft scarf, two witnesses pulling in opposite directions until death."
+  },
+  {
+    "id": "crim_severity_death_penalties",
+    "name": "Relative Severity of the Four Death Penalties",
+    "hebrew": "חומרת ארבע מיתות",
+    "parent_id": "crim_four_death_penalties",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "Dispute between Rabbi Shimon and the Rabbis about the ordering of the four death penalties by severity; practical implications when condemned persons are intermingled."
+  },
+  {
+    "id": "crim_intermingled_condemned",
+    "name": "Intermingled Condemned Persons",
+    "hebrew": "נתערבו נידונים",
+    "parent_id": "crim_four_death_penalties",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "When persons liable to different modes of execution become intermingled and identity is uncertain, all receive the most lenient mode; rules and disputes."
+  },
+  {
+    "id": "crim_two_death_penalties",
+    "name": "Liable for Two Death Penalties",
+    "hebrew": "חייב שתי מיתות",
+    "parent_id": "crim_four_death_penalties",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "One who commits a transgression that entails two different death penalties receives the more severe one; dispute of Rabbi Yosei."
+  },
+  {
+    "id": "courts_halting_execution",
+    "name": "Halting the Execution for New Evidence",
+    "hebrew": "עיכוב ההוצאה להורג לראיה חדשה",
+    "parent_id": "courts_dinei_nefashot",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Procedure of the man with cloths at the court entrance and the rider on horse who can stop the execution; condemned may return to court multiple times to present new arguments."
+  },
+  {
+    "id": "courts_capital_procedure_daytime",
+    "name": "Capital Cases Must Be Judged by Day",
+    "hebrew": "דיני נפשות ביום",
+    "parent_id": "courts_dinei_nefashot",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Capital cases must be judged and concluded during daytime; no capital cases on eve of Shabbat or Festival."
+  },
+  {
+    "id": "courts_student_in_capital_case",
+    "name": "Student's Role in Capital Cases",
+    "hebrew": "תלמיד המלמד זכות בדיני נפשות",
+    "parent_id": "courts_dinei_nefashot",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "A student who teaches a reason to acquit in a capital case is raised to sit among the judges; one who teaches liability is silenced."
+  },
+  {
+    "id": "courts_judges_deliberation_capital",
+    "name": "Judges' Deliberation Process in Capital Cases",
+    "hebrew": "שיקול הדעת בדיני נפשות",
+    "parent_id": "courts_dinei_nefashot",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Judges pair off to deliberate overnight, minimize food and wine, vote again next day; one who argued for liability may switch to acquittal but not vice versa."
+  },
+  {
+    "id": "courts_crier_before_execution",
+    "name": "Crier Before Execution",
+    "hebrew": "כרוז לפני הוצאה להורג",
+    "parent_id": "courts_execution_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Public announcement before stoning giving name of condemned, transgression, witnesses, and invitation for anyone to testify in his favor."
+  },
+  {
+    "id": "courts_intimidating_witnesses_capital",
+    "name": "Intimidating Witnesses in Capital Cases",
+    "hebrew": "איום על העדים בדיני נפשות",
+    "parent_id": "courts_cross_examination",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Court warns witnesses about the gravity of capital testimony, the concept that killing one person is as destroying a world, obligation to testify, and that false testimony causes eternal guilt."
+  },
+  {
+    "id": "courts_seven_interrogations",
+    "name": "Seven Interrogatory Questions (Sheva Chakirot)",
+    "hebrew": "שבע חקירות",
+    "parent_id": "courts_cross_examination",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Seven specific time and place questions required in capital cases: jubilee cycle, year, month, day of month, day of week, hour, and location; distinction from bedikot."
+  },
+  {
+    "id": "courts_bedikot",
+    "name": "Examination Questions (Bedikot)",
+    "hebrew": "בדיקות",
+    "parent_id": "courts_cross_examination",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Additional examination questions beyond the seven interrogations concerning the details of the act; witnesses who cannot answer bedikot do not automatically void their testimony."
+  },
+  {
+    "id": "courts_witness_contradiction",
+    "name": "Contradiction Between Witnesses (Hakchashah)",
+    "hebrew": "הכחשה בין עדים",
+    "parent_id": "courts_testimony",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Rules about when discrepancies between witnesses' testimony void their evidence — distinction between minor discrepancies (e.g., off by one day due to month length) vs. major contradictions."
+  },
+  {
+    "id": "courts_judges_rows_observers",
+    "name": "Rows of Torah Scholars Before the Court",
+    "hebrew": "שלוש שורות של תלמידי חכמים",
+    "parent_id": "courts_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Three rows of Torah scholars sat before the Sanhedrin; when a judge was needed, the first-row scholar was elevated and others moved up in order."
+  },
+  {
+    "id": "courts_court_scribes",
+    "name": "Court Scribes (Sofrei Dayanim)",
+    "hebrew": "סופרי הדיינים",
+    "parent_id": "courts_scribe",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Two (or three per R. Yehuda) scribes who recorded the opinions of judges who voted to acquit and convict; their records used to remind judges of prior positions."
+  },
+  {
+    "id": "courts_judge_revealing_opinion",
+    "name": "Prohibition on Judge Revealing His Minority Opinion",
+    "hebrew": "איסור גילוי דעת הדיין",
+    "parent_id": "courts_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "A judge who is outvoted may not afterward reveal that he voted for acquittal; based on 'do not go as a talebearer' — confidentiality of judicial deliberations."
+  },
+  {
+    "id": "courts_reopening_case",
+    "name": "Reopening a Decided Case (Chazarat haDin)",
+    "hebrew": "חזרת הדין",
+    "parent_id": "courts_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Rules for when a litigant may reopen a monetary case with new evidence; thirty-day rule and disputes; distinction between capital and monetary cases."
+  },
+  {
+    "id": "courts_disqualifying_judges_litigants",
+    "name": "Litigant's Right to Disqualify Judges",
+    "hebrew": "פסילת דיינים על ידי בעל דין",
+    "parent_id": "courts_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Litigants' ability to challenge judges or witnesses chosen by the opposing party; dispute between R. Meir and Rabbis about conditions for disqualification."
+  },
+  {
+    "id": "courts_disqualified_witnesses_conduct",
+    "name": "Disqualification of Witnesses for Unseemly Conduct",
+    "hebrew": "פסול עדים מחמת מעשים פסולים",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Gamblers with dice, usurers, pigeon racers, and Sabbatical year merchants are disqualified as witnesses due to their dishonest conduct."
+  },
+  {
+    "id": "courts_love_hate_disqualification",
+    "name": "Disqualification Due to Love or Hate",
+    "hebrew": "פסול עד מחמת אהבה ושנאה",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Groomsman is disqualified as witness due to love; one who has not spoken to the litigant for three days due to enmity is disqualified due to hate."
+  },
+  {
+    "id": "courts_relative_witness",
+    "name": "Relatives Disqualified as Witnesses or Judges",
+    "hebrew": "פסול קרובים לעדות ולדיון",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Detailed list of relatives disqualified from testifying or judging, including father, brother, uncles, brothers-in-law, sons-in-law, and their sons; dispute about maternal relatives."
+  },
+  {
+    "id": "courts_mumcheh_selection",
+    "name": "Selection of Judges by Litigants",
+    "hebrew": "בחירת דיינים על ידי בעלי הדין",
+    "parent_id": "courts_procedure",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Each litigant chooses one judge and together they choose a third; dispute between R. Meir and Rabbis on details; accepting unqualified judges by agreement."
+  },
+  {
+    "id": "kohen_gadol_legal_status",
+    "name": "Legal Status of the High Priest (Kohen Gadol baDin)",
+    "hebrew": "כהן גדול בדין",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": ["mishnah"],
+    "notes": "High Priest may judge and be judged, testify and be testified about, perform chalitzah and have chalitzah performed; special conduct at funerals of relatives, consolation practices."
+  },
+  {
+    "id": "melech_legal_status",
+    "name": "Legal Status of the King (Melech baDin)",
+    "hebrew": "המלך בדין",
+    "parent_id": "melachim_kingship",
+    "category": "JEWISH HISTORY",
+    "sources": ["mishnah"],
+    "notes": "King does not judge or be judged, does not testify, does not perform chalitzah or levirate marriage; special mourning and comforting practices for the king."
+  },
+  {
+    "id": "melech_halachot",
+    "name": "Laws of the King (Hilkhot Melech)",
+    "hebrew": "הלכות מלך",
+    "parent_id": "melachim_kingship",
+    "category": "JEWISH HISTORY",
+    "sources": ["mishnah"],
+    "notes": "Restrictions on the king: limit on wives (18), horses, gold and silver; obligation to write a Torah scroll and keep it with him at all times; special honor prohibitions."
+  },
+  {
+    "id": "olam_haba_exclusions",
+    "name": "Those Who Have No Share in the World-to-Come",
+    "hebrew": "אלו שאין להם חלק לעולם הבא",
+    "parent_id": "olam_haba",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Mishnah Sanhedrin chapter 10 lists those excluded from the World-to-Come: deniers of resurrection, Torah from Heaven, epikoros; also three kings and four commoners."
+  },
+  {
+    "id": "dor_hamabul_afterlife",
+    "name": "Generation of the Flood — Afterlife Status",
+    "hebrew": "דור המבול לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Generation of the flood has no share in the World-to-Come and will not stand in judgment; based on 'My spirit shall not abide in man forever.'"
+  },
+  {
+    "id": "dor_haflagah_afterlife",
+    "name": "Generation of the Dispersion — Afterlife Status",
+    "hebrew": "דור הפלגה לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Generation of the Tower of Babel has no share in the World-to-Come, derived from the double expression of 'the Lord scattered them.'"
+  },
+  {
+    "id": "anshei_sedom_afterlife",
+    "name": "People of Sodom — Afterlife Status",
+    "hebrew": "אנשי סדום לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "People of Sodom have no share in the World-to-Come but will stand in judgment; dispute with R. Nechemia."
+  },
+  {
+    "id": "meraglim_afterlife",
+    "name": "Spies (Meraglim) — Afterlife Status",
+    "hebrew": "מרגלים לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Spies who brought back an evil report of Canaan have no share in the World-to-Come, based on 'died by plague.'"
+  },
+  {
+    "id": "dor_hamidbar_afterlife",
+    "name": "Generation of the Wilderness — Afterlife Status",
+    "hebrew": "דור המדבר לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Dispute between R. Akiva and R. Eliezer whether the wilderness generation has a share in the World-to-Come."
+  },
+  {
+    "id": "edat_korach_afterlife",
+    "name": "Assembly of Korah — Afterlife Status",
+    "hebrew": "עדת קרח לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Dispute whether Korah's assembly is destined to arise for resurrection; R. Akiva says no, R. Eliezer says yes based on 'The Lord kills and makes alive.'"
+  },
+  {
+    "id": "eser_hashvatim_afterlife",
+    "name": "Ten Tribes — Return and Afterlife Status",
+    "hebrew": "עשרת השבטים לעתיד לבוא",
+    "parent_id": "lost_tribes",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Dispute between R. Akiva and R. Eliezer whether the ten tribes will return; analogy to day that passes never to return vs. day that darkens and then brightens."
+  },
+  {
+    "id": "crim_kippa_incarceration",
+    "name": "Vaulted Chamber Incarceration (Kippah)",
+    "hebrew": "כיפה — כליאה ועינוש",
+    "parent_id": "courts_imprisonment",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Placing a repeatedly flogged transgressor or unidentified murderer in the kippah (vaulted chamber) and feeding barley bread until death; form of extra-judicial execution."
+  },
+  {
+    "id": "crim_kana'im_pog'im_bo",
+    "name": "Zealots Who Strike (Kana'im Pog'im Bo)",
+    "hebrew": "קנאים פוגעים בו",
+    "parent_id": "courts_extrajudicial",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": ["mishnah"],
+    "notes": "Three acts for which zealots may kill the perpetrator without court proceedings: stealing a sacred vessel, cursing with a sorcerer's name, cohabiting with an Aramean woman."
+  },
+  {
+    "id": "adam_nivra_yechidi",
+    "name": "Adam Was Created Alone (Adam Nivra Yechidi)",
+    "hebrew": "אדם נברא יחידי",
+    "parent_id": "beriat_haolam",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": ["mishnah"],
+    "notes": "Theological teaching in Sanhedrin 4:5 that Adam was created alone to teach the value of each human life — whoever destroys one soul destroys a world; promotes human dignity and peace."
+  },
+  {
+    "id": "kofer_beikkar_afterlife",
+    "name": "Denial of Core Principles — Loss of World-to-Come",
+    "hebrew": "כופר בעיקר ואין לו חלק לעולם הבא",
+    "parent_id": "olam_haba_exclusions",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah"],
+    "notes": "Denial of resurrection of the dead, Torah from Heaven, or treating Torah scholars with contempt (epikoros) causes forfeiture of share in World-to-Come."
+  },
+  {
+    "id": "crim_ba_bamachteret_barrel",
+    "name": "Burglar's Liability for Damage (Ba baMachteret — Chevet)",
+    "hebrew": "בא במחתרת — חיוב נזיקין",
+    "parent_id": "ba_bamachteret",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah"],
+    "notes": "If the homeowner is liable for killing the burglar (e.g., father breaking into son's house), the burglar is liable for damage; if homeowner is exempt, burglar is also exempt."
+  },
+  {
+    "id": "crim_intent_murder",
+    "name": "Intent and Outcome in Murder Cases",
+    "hebrew": "כוונה בדיני רצח",
+    "parent_id": "crim_murder",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "One who intended to kill X but killed Y, or intended a non-lethal blow but caused death, is exempt; liability requires correspondence between intent and outcome."
+  },
+  {
+    "id": "crim_indirect_killing",
+    "name": "Indirect Killing and Criminal Liability",
+    "hebrew": "הריגה בגרמא",
+    "parent_id": "crim_murder",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": ["mishnah"],
+    "notes": "One who pushes another into water where victim could have escaped, or sets animal against another — exempt from court liability; distinction from direct killing."
+  },
+  {
+    "id": "crim_revised_prognosis",
+    "name": "Revised Medical Prognosis and Murder Liability",
+    "hebrew": "שינו

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "orlah_fruit_trees",
+    "name": "Orlah (Forbidden Fruit of First Three Years — Laws)",
+    "hebrew": "עָרְלָה",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Detailed laws of orlah: what trees are subject, counting years, replanting, uprooting, grafting, and geographical differences (Israel, Syria, outside Israel)"
+  },
+  {
+    "id": "orlah_tree_purpose_exemption",
+    "name": "Orlah Exemption Based on Purpose of Planting",
+    "hebrew": "נטיעה לגדר ולקורות — פטור מערלה",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "A tree planted as a fence or for lumber is exempt from orlah; if planted partly for food and partly for fence, the food-facing part is subject"
+  },
+  {
+    "id": "orlah_replanted_tree",
+    "name": "Replanted Tree and Orlah Counting",
+    "hebrew": "עץ שנעקר וחזר ונטעו",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Rules for whether a uprooted and replanted tree restarts the orlah count, depending on whether it could survive on its own root"
+  },
+  {
+    "id": "orlah_bent_shoot",
+    "name": "Bent-Down Shoot (Hiluch) and Orlah",
+    "hebrew": "ההורכב (ריכוב) בערלה",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Laws of a layered/bent-down shoot: whether it takes on the status of its parent tree or is counted anew for orlah"
+  },
+  {
+    "id": "orlah_syria_outside_israel",
+    "name": "Orlah in Syria and Outside the Land",
+    "hebrew": "ערלה בסוריא ובחוץ לארץ",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Geographical distinctions in orlah law: doubtful orlah is forbidden in Israel, permitted in Syria, and outside Israel one may purchase but not personally gather"
+  },
+  {
+    "id": "bitul_bemiatayim",
+    "name": "Bitul b'Matayim (Nullification in Two Hundred and One)",
+    "hebrew": "בִּטּוּל בְּמָאתַיִם וְאֶחָד",
+    "parent_id": "bitul_beshishim",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Orlah and kilayim of the vineyard are nullified in a mixture of 201 parts, unlike terumah which is 101; detailed rules for this ratio"
+  },
+  {
+    "id": "kilei_kerem_bitul",
+    "name": "Nullification of Kilayim of the Vineyard (Bitul)",
+    "hebrew": "כִּלְאֵי הַכֶּרֶם וּבִטּוּלָם",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Rules for how kilayim of the vineyard become nullified in mixtures, how it combines with orlah, and when it can void terumah"
+  },
+  {
+    "id": "taaruvot_noten_taam",
+    "name": "Flavor Imparted by Forbidden Substance (Noten Ta'am)",
+    "hebrew": "נוֹתֵן טַעַם בְּתַעֲרוֹבוֹת",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "When a forbidden substance imparts flavor to a mixture it prohibits the whole; distinction between same-species (follows flavor imparting) and different species (follows nullification ratio)"
+  },
+  {
+    "id": "taaruvot_chametz_oseh_machmat",
+    "name": "Leaven That Causes Fermentation in Mixtures",
+    "hebrew": "שְׂאוֹר שֶׁהֶחֱמִיץ בְּתַעֲרוֹבוֹת",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Rules for when orlah or kilayim leaven ferments dough: prohibition depends on whether there is sufficient leaven to ferment; cases where hullin and terumah leaven combine"
+  },
+  {
+    "id": "taaruvot_seasoning_meabed",
+    "name": "Seasoning That Flavors a Dish (Me'abeid/Metzamtzem)",
+    "hebrew": "תַּבְלִין שֶׁשִּׁבְּלוּ",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "When forbidden seasonings (orlah, terumah, kilayim) season a dish, the dish may be prohibited; rules differ by species type and by whether there is sufficient amount to season"
+  },
+  {
+    "id": "taaruvot_davar_shebeminyan",
+    "name": "Items Sold by Count That Cannot Be Nullified",
+    "hebrew": "דָּבָר שֶׁבְּמִנְיָן — אֵינוֹ בָּטֵל",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Certain items sold individually (e.g., soft-shelled nuts, pomegranates, loaves) are not nullified even in 201; Rabbi Meir vs. Sages dispute; list of six (or seven) such items"
+  },
+  {
+    "id": "asherah_tree_prohibition",
+    "name": "Asherah Tree — Prohibition of Use",
+    "hebrew": "אֲשֵׁרָה",
+    "parent_id": "issurei_hanaah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Leaves, sprouts, and sap from an Asherah (idolatrous tree) are forbidden for benefit; contrasted with orlah in what they prohibit"
+  },
+  {
+    "id": "orlah_dye_garment",
+    "name": "Garment Dyed with Orlah — Burning Requirement",
+    "hebrew": "בֶּגֶד שֶׁצָּבְעוֹ בְּקְלִפֵּי עָרְלָה",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "A garment dyed with orlah peels must be burned; if mixed with other garments, Rabbi Meir requires all to be burned while Sages nullify in 201"
+  },
+  {
+    "id": "orlah_oven_baking",
+    "name": "Oven Heated with Orlah Wood — Bread Baked in It",
+    "hebrew": "תַּנּוּר שֶׁהִסִּיקוֹ בִּקְלִפֵּי עָרְלָה",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Bread baked in an oven heated with orlah shells must be burned; if mixed with other loaves, it is nullified in 201"
+  },
+  {
+    "id": "neta_revay_kerem_revay_laws",
+    "name": "Fourth-Year Vineyard Produce Laws (Kerem Revay/Neta Revay)",
+    "hebrew": "נֶטַע רְבָעִי — הִלְכוֹתָיו",
+    "parent_id": "kerem_revay",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "Fourth-year fruit is subject to different rules from orlah: certain items (leaves, sprouts) are permitted in regard to the fourth year though restricted under orlah"
+  },
+  {
+    "id": "chadash_orlah_kilayim_safek",
+    "name": "Doubtful Status in Chadash, Orlah, and Kilayim — Geographical Distinctions",
+    "hebrew": "סָפֵק עָרְלָה, כִּלְאֵי הַכֶּרֶם, חָדָשׁ — בְּמָקוֹמוֹת שׁוֹנִים",
+    "parent_id": "herm_safek",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah_orlah"
+    ],
+    "notes": "The last mishnah in Orlah distinguishes the rabbinic vs. Torah status and handling of doubtful orlah, kilayim, and chadash in Israel, Syria, and abroad"
+  }
+]

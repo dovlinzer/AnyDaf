@@ -1,0 +1,387 @@
+[
+  {
+    "id": "shechitat_chulin_validity",
+    "name": "Validity of Slaughter (Shechitat Chulin)",
+    "hebrew": "כשרות השחיטה",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Who may slaughter, conditions under which slaughter is valid, including slaughter by deaf-mutes, minors, blind persons, on Shabbat, at night, etc."
+  },
+  {
+    "id": "simanim_shechitah",
+    "name": "Simanim (Organs Cut in Slaughter)",
+    "hebrew": "סימנים בשחיטה",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "The windpipe and gullet as the required organs to be cut in valid slaughter; rules about majority of each siman"
+  },
+  {
+    "id": "shehiyah_drash_chalada",
+    "name": "Shehiyah, Derash, Chalada, Hagramah, Ikkur (Five Defects of Slaughter)",
+    "hebrew": "שהייה, דרסה, חלדה, הגרמה, עיקור",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "The five defects that invalidate slaughter: pausing, pressing, burrowing under tissue, slanting, tearing"
+  },
+  {
+    "id": "melikah_birds",
+    "name": "Melikah (Nipping of Bird Offerings) — Location Requirements",
+    "hebrew": "מליקה ממקום הראוי",
+    "parent_id": "melikah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Distinction between valid locations for melikah vs. shechitah — nape valid for melikah, throat for shechitah"
+  },
+  {
+    "id": "tereifot_animals",
+    "name": "Tereifot — Specific Conditions (Animal)",
+    "hebrew": "טריפות בבהמה",
+    "parent_id": "tereifot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Enumerated list of eighteen (or more) specific conditions making an animal a tereifa, including perforated organs, broken bones, clawing by predator, etc."
+  },
+  {
+    "id": "tereifot_birds",
+    "name": "Tereifot — Specific Conditions (Bird)",
+    "hebrew": "טריפות בעוף",
+    "parent_id": "tereifot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Enumerated list of conditions making a bird a tereifa, including weasel strike on head, perforated gizzard, trampling, etc."
+  },
+  {
+    "id": "simanim_kosher_birds",
+    "name": "Signs of Kosher Birds",
+    "hebrew": "סימני עוף טהור",
+    "parent_id": "kosher_animals",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Rabbinic-enumerated signs for identifying kosher birds: extra digit, crop, peelable gizzard membrane; predatory behavior as disqualifier"
+  },
+  {
+    "id": "simanim_kosher_fish",
+    "name": "Signs of Kosher Fish (Fins and Scales)",
+    "hebrew": "סימני דגים טהורים",
+    "parent_id": "kosher_fish",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Fin and scale requirements for kosher fish; debate about minimum number of scales"
+  },
+  {
+    "id": "simanim_kosher_grasshoppers",
+    "name": "Signs of Kosher Grasshoppers",
+    "hebrew": "סימני חגבים טהורים",
+    "parent_id": "kosher_grasshoppers",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Four legs, four wings, two jumping legs, wings covering majority of body; species name requirement"
+  },
+  {
+    "id": "shechitah_intent_idolatry",
+    "name": "Slaughter with Idolatrous Intent",
+    "hebrew": "שוחט לשם עבודה זרה",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Slaughter performed for the sake of idols, mountains, seas, etc. renders the animal forbidden; rules about joint slaughter with one person having forbidden intent"
+  },
+  {
+    "id": "shechitat_nochri",
+    "name": "Slaughter Performed by a Gentile",
+    "hebrew": "שחיטת נכרי",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Gentile slaughter renders animal a neveilah; concern about idolatrous intent even when Jew intended non-sacred use"
+  },
+  {
+    "id": "ben_pekuah_detailed",
+    "name": "Ben Pekuah — Fetus Permitted by Mother's Slaughter",
+    "hebrew": "בן פקועה",
+    "parent_id": "ben_pekuah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Detailed laws of the fetus found in a slaughtered mother: when it requires its own slaughter, when it is permitted by mother's slaughter, limbs severed from fetus"
+  },
+  {
+    "id": "oto_veet_bno_detailed",
+    "name": "Oto v'et B'no — Detailed Laws",
+    "hebrew": "אותו ואת בנו — פרטי הדינים",
+    "parent_id": "oto_veet_bno",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Detailed application of prohibition against slaughtering mother and offspring same day: combinations of sacred/non-sacred, inside/outside Temple; obligation to inform buyer; four critical days of year"
+  },
+  {
+    "id": "kisuy_hadam_detailed",
+    "name": "Kisuy HaDam — Detailed Laws",
+    "hebrew": "כיסוי הדם — פרטי הדינים",
+    "parent_id": "kisuy_hadam",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Detailed laws of covering blood: which animals require it, valid and invalid covering materials, blood mixtures, the koy, who is obligated"
+  },
+  {
+    "id": "gid_hanasheh_detailed",
+    "name": "Gid HaNasheh — Detailed Laws",
+    "hebrew": "גיד הנשה — פרטי הדינים",
+    "parent_id": "gid_hanasheh",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Scope of prohibition (right/left thigh, fetus, non-kosher animals per R. Yehuda), how to remove it, minimum measure for lashes, cooking with meat"
+  },
+  {
+    "id": "matnot_kehunah_basar",
+    "name": "Priestly Gifts from Slaughtered Animals (Foreleg, Jaw, Maw)",
+    "hebrew": "מתנות כהונה — זרוע לחיים וקיבה",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Obligation to give foreleg, jaw, and maw of slaughtered non-sacred animals to priests; scope, exclusions (sacrificial animals), definition of each body part"
+  },
+  {
+    "id": "reishit_hagez_detailed",
+    "name": "Reishit HaGez — Detailed Laws",
+    "hebrew": "ראשית הגז — פרטי הדינים",
+    "parent_id": "reishit_hagez",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "How many sheep trigger obligation; minimum amount of wool to give; distinction from foreleg/jaw/maw gifts; exemption if wool dyed before giving"
+  },
+  {
+    "id": "shiluach_haken_detailed",
+    "name": "Shiluach HaKen — Detailed Laws",
+    "hebrew": "שילוח הקן — פרטי הדינים",
+    "parent_id": "shiluach_haken",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Detailed rules: which birds, domesticated vs. wild, hovering vs. resting, unfertilized eggs, fledglings able to fly, repeated return of mother, taking mother instead of sending"
+  },
+  {
+    "id": "koy",
+    "name": "Koy (Animal of Uncertain Status)",
+    "hebrew": "כוי",
+    "parent_id": "kashrut_category",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "The koy is an animal of uncertain classification (domesticated or undomesticated); affects laws of kisuy hadam, firstborn, fat prohibition, and other halakhot"
+  },
+  {
+    "id": "eiver_min_hachai_fetus",
+    "name": "Eiver Min HaChai from a Fetus",
+    "hebrew": "אבר מן החי מן העובר",
+    "parent_id": "eiver_min_hachai",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Whether a limb severed from a fetus in the womb has the status of eiver min hachai; relationship to slaughter of mother animal"
+  },
+  {
+    "id": "tumat_chelev_vedam",
+    "name": "Comparative Stringencies of Chelev and Blood Prohibitions",
+    "hebrew": "חומרות חלב ודם זה לעומת זה",
+    "parent_id": "chelev",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Mishnah 8:6 lists unique stringencies: chelev of offerings is subject to meilah, piggul, notar, tumah rules; blood prohibition applies to non-kosher animals and birds"
+  },
+  {
+    "id": "basar_bechalav_details",
+    "name": "Basar b'Chalav — Detailed Laws (Cooking, Eating, Benefit)",
+    "hebrew": "בשר בחלב — פרטי הדינים",
+    "parent_id": "basar_bechalav",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Whether bird meat may be cooked or placed on table with cheese; udder, heart; which meats are subject to the Torah prohibition vs. rabbinic; milk of non-kosher animal; taste imparted by drop of milk"
+  },
+  {
+    "id": "tumat_or_behemah",
+    "name": "Ritual Impurity of Animal Hide",
+    "hebrew": "טומאת עור הבהמה",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "When animal hide retains halakhic status of flesh for impurity purposes; threshold of flaying for hide to separate from flesh status; different rules for carpet vs. jug preparation"
+  },
+  {
+    "id": "tumat_or_shemonah_sheratzim",
+    "name": "Skin of Eight Creeping Animals (Sheratzim)",
+    "hebrew": "עור שמונה שרצים",
+    "parent_id": "tumat_sheretz",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Whether skins of the eight sheratzim impart impurity like their flesh; dispute between R. Yochanan ben Nuri and Sages; specific animals listed"
+  },
+  {
+    "id": "achilah_lefi_nefesh",
+    "name": "Placenta and Edibility According to Personal Disposition",
+    "hebrew": "שליה — אכילה לפי נפש יפה",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Placenta found in slaughtered animal: permitted for one with hardy soul; intent to eat raises it to status of food for impurity purposes but not carcass impurity"
+  },
+  {
+    "id": "eiver_vebasar_hamudaim",
+    "name": "Partially Severed Limb or Flesh Hanging from Animal",
+    "hebrew": "אבר ובשר המדולדלים",
+    "parent_id": "eiver_min_hachai",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Halakhic status of a limb or flesh that is partially severed and still attached to a living animal or person; impurity status and effect of slaughter on them"
+  },
+  {
+    "id": "darchei_emori",
+    "name": "Darchei HaEmori (Forbidden Superstitious Practices)",
+    "hebrew": "דרכי האמורי",
+    "parent_id": "idolatry_theology",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Prohibition against imitating Amorite superstitious practices, such as burying placenta at crossroads or hanging it on a tree to prevent miscarriage"
+  },
+  {
+    "id": "bikkur_behemah_sakanah",
+    "name": "Slaughter of an Animal in Mortal Danger",
+    "hebrew": "שחיטת בהמה הגוססת",
+    "parent_id": "shechitah",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Signs required to validate slaughter of a dying animal (convulsion of limbs, blood spurting); disputes among Tannaim"
+  },
+  {
+    "id": "nefesh_yafah",
+    "name": "Nefesh HaYafah (Hardy Soul) — Concept in Kashrut",
+    "hebrew": "נפש יפה",
+    "parent_id": "kashrut_category",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Concept that items technically permitted but repulsive to most people may be eaten only by one with a hardy, undiscerning soul; applied to placenta"
+  },
+  {
+    "id": "tziruf_leevul_ochlin",
+    "name": "Joining of Attached Parts to Complete Egg-Bulk for Food Impurity",
+    "hebrew": "צירוף עור ועצמות לביצה לטומאת אוכלין",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Hide, congealed gravy, spices, bones, sinews, hooves join with meat to form egg-bulk for food impurity but not for carcass impurity (olive-bulk)"
+  },
+  {
+    "id": "atzam_baalei_chaim_tumah",
+    "name": "Bones of Living Animals and Impurity",
+    "hebrew": "עצמות בעלי חיים וטומאה",
+    "parent_id": "tumat_neveilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Thigh bones of carcasses and creeping animals: sealed vs. perforated bones and their different impurity status for contact and carrying"
+  },
+  {
+    "id": "bechor_behemah_detailed",
+    "name": "Firstborn Animal — Laws of Consecration and Blemish",
+    "hebrew": "בכור בהמה — קדושה ומום",
+    "parent_id": "bechorot_animals",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Detailed rules when permanent blemish precedes consecration vs. when consecration precedes blemish: gifts of priesthood, shearing, labor, offspring, milk, slaughter outside Temple"
+  },
+  {
+    "id": "yom_echad_oto_veet_bno",
+    "name": "Day Follows Night in Oto v'et B'no",
+    "hebrew": "יום אחד אותו ואת בנו",
+    "parent_id": "oto_veet_bno",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "The 'one day' of the prohibition follows the night; one may slaughter by day and the offspring at night but not slaughter at night and offspring next day; derived via gezerah shavah with Creation"
+  },
+  {
+    "id": "orlah_and_temed",
+    "name": "Temed (Beverage from Grape Residue) — Halakhic Status",
+    "hebrew": "תמד",
+    "parent_id": "kashrut_category",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Temed before fermentation is not wine and cannot be purchased with maaser sheni money; after fermentation it is wine; effect on mikvah validity"
+  },
+  {
+    "id": "chomesh_kalbon_maaser_beheimah",
+    "name": "Kalbon (Premium on Half-Shekel) and Animal Tithe — Partnership Rules",
+    "hebrew": "קלבון ומעשר בהמה — שותפות",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chullin"
+    ],
+    "notes": "Brothers who are partners: when obligated in kalbon are exempt from animal tithe and vice versa; rules for partners and non-partners"
+  }
+]

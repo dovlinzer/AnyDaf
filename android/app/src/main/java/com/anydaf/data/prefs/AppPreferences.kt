@@ -61,6 +61,8 @@ object AppPreferences {
     private val TABLET_RIGHT_PANEL = stringPreferencesKey("tabletRightPanel")
     private val TABLET_COLLAPSED_SIDE = stringPreferencesKey("tabletCollapsedSide")
     private val TABLET_SPLIT_DP = doublePreferencesKey("tabletSplitDp")
+    private val PRINT_FONT_SIZE = stringPreferencesKey("printFontSize")
+    private val PRINT_LINE_SPACING = doublePreferencesKey("printLineSpacing")
     val totalEngagementSeconds: Flow<Long> = store.data.map { it[TOTAL_ENGAGEMENT_SECONDS] ?: 0L }
     val lastDonationNudgeTimestamp: Flow<Long> = store.data.map { it[LAST_DONATION_NUDGE_TIMESTAMP] ?: 0L }
     val engagementSecondsAtLastNudge: Flow<Long> = store.data.map { it[ENGAGEMENT_SECONDS_AT_LAST_NUDGE] ?: 0L }
@@ -86,6 +88,10 @@ object AppPreferences {
     // Empty string = not yet persisted (composable uses default "NONE"); -1.0 = split dp not yet persisted
     val tabletCollapsedSide: Flow<String> = store.data.map { it[TABLET_COLLAPSED_SIDE] ?: "" }
     val tabletSplitDp: Flow<Double> = store.data.map { it[TABLET_SPLIT_DP] ?: -1.0 }
+    val printFontSize: Flow<StudyFontSize> = store.data.map {
+        StudyFontSize.entries.firstOrNull { f -> f.name == it[PRINT_FONT_SIZE] } ?: StudyFontSize.SMALL
+    }
+    val printLineSpacing: Flow<Double> = store.data.map { it[PRINT_LINE_SPACING] ?: 1.15 }
     suspend fun saveEngagementSeconds(seconds: Long) {
         store.edit { it[TOTAL_ENGAGEMENT_SECONDS] = seconds }
     }
@@ -147,6 +153,14 @@ object AppPreferences {
             it[TABLET_COLLAPSED_SIDE] = collapsedSide
             it[TABLET_SPLIT_DP] = splitDp
         }
+    }
+
+    suspend fun savePrintFontSize(size: StudyFontSize) {
+        store.edit { it[PRINT_FONT_SIZE] = size.name }
+    }
+
+    suspend fun savePrintLineSpacing(spacing: Double) {
+        store.edit { it[PRINT_LINE_SPACING] = spacing }
     }
 
 }

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kerem_revay_fourth_year_vineyard",
+    "name": "Fourth Year Vineyard Produce (Kerem Revay — Laws)",
+    "hebrew": "כרם רבעי",
+    "parent_id": "kerem_revay",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of kerem revay: redemption procedures, borders of Jerusalem for transport, peret and defective clusters in fourth year, removal, and relation to maaser sheni laws. The existing kerem_revay entry is a stub; this covers the tractate's specific halakhic content."
+  },
+  {
+    "id": "pidyon_maaser_sheni_procedures",
+    "name": "Redemption Procedures for Maaser Sheni",
+    "hebrew": "פדיון מעשר שני",
+    "parent_id": "pidyon_maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of redeeming maaser sheni: adding a fifth (chomesh), who may redeem, redemption at lower market price, evaluation by one or three, redemption by owner vs. others, conditional redemption, deceptive redemption techniques."
+  },
+  {
+    "id": "chomesh_maaser_sheni",
+    "name": "Adding a Fifth When Redeeming Maaser Sheni (Chomesh)",
+    "hebrew": "חומש מעשר שני",
+    "parent_id": "pidyon_maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Obligation to add one-fifth when redeeming one's own maaser sheni; who is obligated; applies to owner and one who received it as a gift; comparison with chomesh for redeeming other sacred items."
+  },
+  {
+    "id": "biur_maaser_sheni_removal",
+    "name": "Biur Maaser Sheni (Removal of Second Tithe)",
+    "hebrew": "ביעור מעשר שני",
+    "parent_id": "biur_maasrot",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The removal of maaser sheni on the eve of Pesach in the fourth and seventh years; timing; cooked dishes; what must be removed vs. what has already been treated as removed."
+  },
+  {
+    "id": "viduy_maaser_declaration",
+    "name": "Viduy Maaser (Tithe Confession/Declaration)",
+    "hebrew": "וידוי מעשר",
+    "parent_id": "viduy_maaser",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of the viduy maaser declaration (Deut. 26:13-15): text, timing (minhah of last festival day), who may recite it (Israelites, mamzerim; not converts or freed slaves per most opinions), disqualifying violations, the blessings invoked."
+  },
+  {
+    "id": "maaser_sheni_jerusalem_consumption",
+    "name": "Eating Maaser Sheni in Jerusalem",
+    "hebrew": "אכילת מעשר שני בירושלים",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing consumption of maaser sheni specifically in Jerusalem: bringing produce in and taking it out, produce passing through Jerusalem, produce that became impure, eating after Temple destruction."
+  },
+  {
+    "id": "maaser_sheni_tumah_redemption",
+    "name": "Maaser Sheni that Became Impure",
+    "hebrew": "מעשר שני שנטמא",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "What happens when maaser sheni or items bought with maaser sheni money become ritually impure: redemption vs. burial, distinctions based on primary vs. secondary impurity, inside vs. outside Jerusalem."
+  },
+  {
+    "id": "maaser_sheni_money_exchange",
+    "name": "Exchange and Currency Laws of Maaser Sheni",
+    "hebrew": "חילול מעשר שני על מטבע",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of exchanging maaser sheni money: silver to copper, silver to gold, exchanging in Jerusalem, minimum denominations, changing a sela, debates between Beit Shammai and Beit Hillel."
+  },
+  {
+    "id": "maaser_sheni_permissible_uses",
+    "name": "Permissible Uses of Maaser Sheni (Food, Drink, Anointing)",
+    "hebrew": "שימושי מעשר שני",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Maaser sheni may be used for eating, drinking, and anointing; prohibition on spicing oil; what may and may not be purchased with maaser sheni money; value improvements and proportional division."
+  },
+  {
+    "id": "maaser_sheni_kedushat_damim_vs_kedushat_haguf",
+    "name": "Maaser Sheni: Sacred in Value vs. Sacred in Body",
+    "hebrew": "קדושת דמים וקדושת הגוף במעשר שני",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether the sanctity of maaser sheni is a bodily sanctity or a monetary sanctity, affecting rules of redemption, becoming impure, items bought with maaser sheni money."
+  },
+  {
+    "id": "neta_revay_orlah_marking",
+    "name": "Marking Orlah and Fourth Year Vines",
+    "hebrew": "ציון ערלה ורבעי",
+    "parent_id": "orlah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The practice of marking orlah trees with potter's clay and fourth-year vines with clods of earth and graves with lime; timing of these markings (in the seventh year according to Rabban Shimon ben Gamliel)."
+  },
+  {
+    "id": "maaser_sheni_distant_produce_transfer",
+    "name": "Transferring Maaser Sheni Status When Produce is Distant",
+    "hebrew": "מעשר שני כשהפירות רחוקים",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Procedure for designating and transferring maaser sheni or tithing when one is physically distant from the produce, including the famous case of Rabban Gamliel on the ship; leasing the location to effect the transfer."
+  },
+  {
+    "id": "yochanan_kohen_gadol_takkanot",
+    "name": "Enactments of Yochanan the High Priest",
+    "hebrew": "תקנות יוחנן כהן גדול",
+    "parent_id": "meth_takkanah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The historical rabbinic enactments attributed to Yochanan the High Priest: abolition of the viduy maaser recitation, abolition of the 'wakers' (hammers in the Temple), and declaration that demai need not be examined in his day."
+  },
+  {
+    "id": "found_objects_sacred_status",
+    "name": "Found Objects with Markings of Sacred Status",
+    "hebrew": "מציאה עם סימן קדושה",
+    "parent_id": "metziah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of found money, vessels, or produce with inscriptions indicating korban, maaser, demai, tevel, or terumah: how to determine their status, presumptions applied, single-letter abbreviations used in times of danger."
+  }
+]

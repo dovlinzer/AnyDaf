@@ -1,0 +1,398 @@
+[
+  {
+    "id": "avodah_zarah_general",
+    "name": "Avodah Zarah (Idol Worship — General Prohibitions)",
+    "hebrew": "עבודה זרה",
+    "parent_id": "crim_idolatry",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "General prohibitions related to idol worship including business dealings, selling items, and benefiting from idols"
+  },
+  {
+    "id": "gentile_festivals_commerce",
+    "name": "Commerce Near Gentile Festivals",
+    "hebrew": "אסור לשאת ולתת עם הגוים לפני אידיהם",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on conducting business with gentiles in the days before their festivals, lest they give thanks to their idols"
+  },
+  {
+    "id": "selling_to_gentiles",
+    "name": "Selling Items to Gentiles (Issurei Mechirah)",
+    "hebrew": "איסורי מכירה לגוים",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibitions on selling certain items to gentiles including animals, weapons, and items used for idol worship"
+  },
+  {
+    "id": "selling_large_animals_gentiles",
+    "name": "Selling Large Animals to Gentiles",
+    "hebrew": "איסור מכירת בהמה גסה לגוים",
+    "parent_id": "selling_to_gentiles",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against selling large domesticated animals to gentiles lest they cause the Jew's animal to perform labor on Shabbat"
+  },
+  {
+    "id": "renting_to_gentiles",
+    "name": "Renting Property to Gentiles",
+    "hebrew": "השכרת בתים ושדות לגוים",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing renting houses and fields to gentiles in Eretz Yisrael, Syria, and outside Israel, due to concerns about idol worship and land settlement"
+  },
+  {
+    "id": "idol_nullification",
+    "name": "Nullification of Idols (Bitul Avodah Zarah)",
+    "hebrew": "ביטול עבודה זרה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing how an idol's forbidden status is revoked, including who can nullify it and what acts constitute nullification"
+  },
+  {
+    "id": "hanaah_avodah_zarah",
+    "name": "Benefit from Idolatry (Hanaah min Avodah Zarah)",
+    "hebrew": "איסור הנאה מעבודה זרה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on deriving any benefit from objects of idol worship, their accessories, and items that served idol worship"
+  },
+  {
+    "id": "ashera",
+    "name": "Ashera (Idolatrous Tree)",
+    "hebrew": "אשרה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of trees planted or used for idol worship, including their forbidden status, benefit from their shade, and nullification"
+  },
+  {
+    "id": "markulis",
+    "name": "Markulis (Mercury Idol)",
+    "hebrew": "מרקוליס",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws specific to the Mercury idol worshipped by stone-casting, including which stones near it are forbidden"
+  },
+  {
+    "id": "statues_tzlamim",
+    "name": "Statues (Tzlamim) and Idolatrous Images",
+    "hebrew": "צלמים",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws regarding statues and images assumed to be idols, what makes them forbidden, and fragments of statues"
+  },
+  {
+    "id": "yayin_nesech_laws",
+    "name": "Wine Used for Libation — Detailed Laws (Yayin Nesech)",
+    "hebrew": "יין נסך",
+    "parent_id": "yayin_nesech",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed halakhot of wine used for idolatrous libations: touch by gentile, mixture, safeguarding, supervision, and nullification in mixture"
+  },
+  {
+    "id": "stam_yeinam_laws",
+    "name": "Gentile Wine — Detailed Laws (Stam Yeinam)",
+    "hebrew": "סתם יינם",
+    "parent_id": "stam_yeinam",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of ordinary gentile wine: supervision, temporary absence, placement in public domain, and wage from wine work"
+  },
+  {
+    "id": "bishul_akum_detailed",
+    "name": "Bishul Akum — Detailed Laws",
+    "hebrew": "בישול עכו\"ם",
+    "parent_id": "bishul_akum",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Boiled and pickled vegetables prepared by gentiles and their prohibited status"
+  },
+  {
+    "id": "gevinat_akum_reasons",
+    "name": "Reason for Prohibition of Gentile Cheese",
+    "hebrew": "טעם גזירת גבינות הגוים",
+    "parent_id": "gevinat_akum",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Talmudic discussion of the reasons behind the prohibition of gentile cheese, including curdling with carcass stomach or stomach of calf used for idol worship"
+  },
+  {
+    "id": "chalav_akum_supervision",
+    "name": "Milk Milked by Gentile — Supervision Requirement",
+    "hebrew": "חלב שחלבו גוי",
+    "parent_id": "chalav_yisrael",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement for Jewish supervision when a gentile milks an animal, and status of milk without such supervision"
+  },
+  {
+    "id": "bishul_beit_mikdash_mashkin",
+    "name": "Fish Brine and Certain Foods from Gentiles",
+    "hebrew": "מורייס וציר של גוים",
+    "parent_id": "avodah_zarah_general",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of specific foods from gentiles such as fish brine, cheese of Beit Unyaki, and their level of prohibition"
+  },
+  {
+    "id": "taaruvot_yayin_nesech",
+    "name": "Mixtures Involving Wine Used for Libation",
+    "hebrew": "תערובת יין נסך",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for how wine used for libation renders mixtures forbidden — same species forbidden with any amount; different species only if flavor is imparted"
+  },
+  {
+    "id": "taaruvot_avodah_zarah",
+    "name": "Mixtures Involving Idolatrous Items",
+    "hebrew": "תערובת עבודה זרה",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "List of forbidden items that in any amount render their mixture forbidden, including idols, condemned ox, broken-necked heifer, and others"
+  },
+  {
+    "id": "kashering_from_gentiles",
+    "name": "Kashering Utensils Purchased from Gentiles",
+    "hebrew": "הגעלת כלים שנקנו מגוים",
+    "parent_id": "kashering_utensils",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Process of immersion, purging with boiling water, or heating until white-hot for utensils purchased from gentiles, based on how they were used"
+  },
+  {
+    "id": "tevilat_kelim_gentiles",
+    "name": "Immersion of Vessels Purchased from Gentiles",
+    "hebrew": "טבילת כלים שנקנו מגוים",
+    "parent_id": "tevilat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement to immerse vessels purchased from gentiles in a mikvah before use"
+  },
+  {
+    "id": "yichud_with_gentiles",
+    "name": "Seclusion with Gentiles (Yichud im Nochri)",
+    "hebrew": "יחוד עם הגוים",
+    "parent_id": "mar_yichud",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on a Jewish woman secluding herself with gentile men due to fear of sexual assault, and any person with gentiles due to fear of bloodshed"
+  },
+  {
+    "id": "animal_with_gentiles",
+    "name": "Leaving Animals with Gentiles",
+    "hebrew": "הפקדת בהמה אצל גוים",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on keeping animals in gentile inns due to suspicion of bestiality"
+  },
+  {
+    "id": "jewish_midwife_gentile",
+    "name": "Jewish Midwife Assisting Gentile Birth",
+    "hebrew": "יהודית מיילדת גויה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on a Jewish woman delivering a gentile child as she would be aiding the birth of an idolater; permitted in the reverse"
+  },
+  {
+    "id": "gentile_nursing",
+    "name": "Nursing by Gentile Woman",
+    "hebrew": "גויה מניקה ילד יהודי",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Conditions under which a gentile woman may nurse a Jewish child and restrictions on Jewish woman nursing a gentile child"
+  },
+  {
+    "id": "haircut_from_gentile",
+    "name": "Haircut from a Gentile",
+    "hebrew": "תספורת מגוי",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on receiving a haircut from a gentile due to danger, with dispute between Rabbi Meir and Rabbis regarding public thoroughfare"
+  },
+  {
+    "id": "winepress_gentile",
+    "name": "Winepress Owned or Used by Gentile",
+    "hebrew": "בית הגיתות של גוי",
+    "parent_id": "yayin_nesech",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of purchasing or using a winepress in which a gentile has trodden, including when the juice acquires the status of forbidden wine"
+  },
+  {
+    "id": "wine_supervision_absence",
+    "name": "Wine Left Unattended with Gentile",
+    "hebrew": "יין שנשאר בהשגחת גוי",
+    "parent_id": "yayin_nesech",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for how long a Jew may be absent from wine in the presence of a gentile before it becomes forbidden as wine used for libation"
+  },
+  {
+    "id": "bitul_avodah_zarah_items",
+    "name": "Items That Cannot Be Nullified (Lo Batel)",
+    "hebrew": "דברים שאינם בטלים",
+    "parent_id": "taaruvot",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific list of items such as idols, yayin nesech, and others that render any mixture forbidden regardless of proportion"
+  },
+  {
+    "id": "tumat_avodah_zarah_carrying",
+    "name": "Impurity Transmitted by Idolatrous Objects Through Carrying",
+    "hebrew": "טומאת עבודה זרה במשא",
+    "parent_id": "tumat_avodah_zarah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute whether objects of idol worship transmit impurity like a creeping animal (by touch) or like a menstruating woman (by carrying)"
+  },
+  {
+    "id": "building_beit_avodah_zarah",
+    "name": "Building for Idol Worship",
+    "hebrew": "בניין לעבודה זרה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on assisting in building structures used for idol worship such as basilicas, tribunals, and stadiums"
+  },
+  {
+    "id": "idol_accessories",
+    "name": "Accessories of Idol Worship (Mishimshei Avodah Zarah)",
+    "hebrew": "משמשי עבודה זרה",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Forbidden status of items used as accessories for idol worship and how nullification of the idol affects its accessories"
+  },
+  {
+    "id": "wages_from_avodah_zarah",
+    "name": "Wages from Work Involving Idolatrous Wine or Items",
+    "hebrew": "שכר מעבודה הקשורה ביין נסך",
+    "parent_id": "yayin_nesech",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether wages earned by a Jew for transporting or handling wine used for libation are forbidden"
+  },
+  {
+    "id": "oved_avodah_zarah_peacetime_wartime",
+    "name": "Idols Abandoned in Peacetime vs. Wartime",
+    "hebrew": "עבודה זרה שנגנזה בשלום ובמלחמה",
+    "parent_id": "idol_nullification",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between idols abandoned voluntarily in peacetime (permitted) vs. in wartime under duress (prohibited)"
+  },
+  {
+    "id": "ben_noach_avodah_zarah",
+    "name": "Gentile's Own Idol — Immediate Prohibition",
+    "hebrew": "עבודה זרה של גוי אסורה מיד",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A gentile's idol is forbidden immediately upon its fashioning; a Jew's idol only becomes forbidden upon actual worship"
+  },
+  {
+    "id": "eretz_yisrael_avodah_zarah",
+    "name": "Idolatry Laws Specific to Eretz Yisrael",
+    "hebrew": "דיני עבודה זרה בארץ ישראל",
+    "parent_id": "avodah_zarah_general",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Special stringencies in Eretz Yisrael regarding renting to gentiles, land settlement, and avoiding support of idolatry on holy land"
+  },
+  {
+    "id": "wine_cistern_libation",
+    "name": "Wine Cistern Contaminated by Libation Wine",
+    "hebrew": "בור שנפל לתוכו יין נסך",
+    "parent_id": "yayin_nesech",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Wine used for libation that fell into a cistern renders all wine forbidden; dispute about selling the whole and deducting the value of the forbidden portion"
+  }
+]

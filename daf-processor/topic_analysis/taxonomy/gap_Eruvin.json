@@ -1,0 +1,354 @@
+[
+  {
+    "id": "lechi_mavoy",
+    "name": "Lechi (Side Post for Alleyway)",
+    "hebrew": "לחי",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The side post used to render an alleyway fit for carrying on Shabbat; distinct from the cross beam (korah); rules about its minimum dimensions and construction"
+  },
+  {
+    "id": "korah_mavoy",
+    "name": "Korah (Cross Beam for Alleyway)",
+    "hebrew": "קורה",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The cross beam placed over the entrance of an alleyway to permit carrying; rules about its minimum width, strength, height, and material"
+  },
+  {
+    "id": "passei_biraot",
+    "name": "Passei Biraot (Boards Around a Well)",
+    "hebrew": "פסי בירעות",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rabbinic enactment permitting upright corner boards (deyomadin) arranged around a public well to create a virtual partition, enabling drawing water on Shabbat"
+  },
+  {
+    "id": "tzurat_hapetach",
+    "name": "Tzurat HaPetach (Form of a Doorway)",
+    "hebrew": "צורת הפתח",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Two vertical posts with a horizontal beam spanning them, serving as a valid halakhic partition or entrance marker for eruvin purposes"
+  },
+  {
+    "id": "mechitzot_shabbat",
+    "name": "Mechitzot (Partitions for Shabbat Domains)",
+    "hebrew": "מחיצות",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The laws of valid partitions for creating Shabbat domains, including minimum height (10 handbreadths), construction from various materials, lavud principle, and breach rules"
+  },
+  {
+    "id": "eruv_techumin",
+    "name": "Eruv Techumin (Joining of Shabbat Boundaries)",
+    "hebrew": "עירוב תחומין",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The eiruv that allows extension of the Shabbat limit by depositing food at a chosen location before Shabbat, establishing one's 'residence' there; distinct from eruv chatzeirot"
+  },
+  {
+    "id": "shituf_mevoot",
+    "name": "Shituf Mevo'ot (Merging of Alleyways)",
+    "hebrew": "שיתוף מבואות",
+    "parent_id": "shitufei_mevoot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific procedures, measures, and food requirements for merging courtyards that open into a shared alleyway; how it relates to eruv chatzeirot"
+  },
+  {
+    "id": "kibush_reshut",
+    "name": "Renunciation of Domain Rights (Bitul Reshut)",
+    "hebrew": "ביטול רשות",
+    "parent_id": "eruv_chatzeirot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The act by which a resident who forgot to participate in an eruv renounces his domain rights in the courtyard to allow the others to carry; rules about timing and effect"
+  },
+  {
+    "id": "shabbat_tchum_measurement",
+    "name": "Measurement of Shabbat Limit (Middot Techum)",
+    "hebrew": "מדידת תחום שבת",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The technical rules for measuring the 2000-cubit Shabbat limit: use of 50-cubit rope, treatment of hills and valleys, squaring the city, extending the city boundary (karpef)"
+  },
+  {
+    "id": "ibud_reshuyot_shabbat",
+    "name": "City Boundary Extension for Shabbat (Tzurat HaIr)",
+    "hebrew": "צורת העיר לשבת",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for extending the outline of a city to include protrusions, turrets, and remnants of walls before measuring the Shabbat limit; squaring the city to gain corners"
+  },
+  {
+    "id": "karpef_techum",
+    "name": "Karpef Addition to City Boundary",
+    "hebrew": "קרפף לתחום",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The additional 70-cubit buffer added around every city before measuring the Shabbat limit; how this combines two adjacent towns into one for techum purposes"
+  },
+  {
+    "id": "shevet_beshabbat_involuntary",
+    "name": "Shabbat Limit for One Taken Out Involuntarily",
+    "hebrew": "הוציאוהו גויים",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for one taken outside the Shabbat limit by gentiles or mental illness: whether he retains only 4 cubits or regains his original limit upon return"
+  },
+  {
+    "id": "kniyas_shabbat_sleeping",
+    "name": "Acquisition of Shabbat Residence While Asleep or Unaware",
+    "hebrew": "קניית שביתה בשינה",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute whether a sleeping or unaware person automatically acquires a Shabbat residence at his location or requires only 4 cubits (Rabbi Yochanan ben Nuri vs. Rabbis)"
+  },
+  {
+    "id": "tnai_beiruv",
+    "name": "Conditional Eruv (Eiruv Al Tenai)",
+    "hebrew": "עירוב על תנאי",
+    "parent_id": "eruv_techumin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The ability to establish an eruv with a condition, choosing which direction the eruv will take effect based on circumstances; rules and limits of such conditions"
+  },
+  {
+    "id": "renting_domain_goy",
+    "name": "Renting Domain from Gentile for Eruv",
+    "hebrew": "שכירות רשות מגוי",
+    "parent_id": "eruv_chatzeirot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The requirement to rent the rights of a gentile or non-observant resident in a shared courtyard in order to permit carrying there via eruv"
+  },
+  {
+    "id": "mavoy_eruv_rules",
+    "name": "Alleyway (Mavoy) — Eruv Laws",
+    "hebrew": "מבוי",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The halakhic definition of a mavoy (alleyway), its structural requirements for carrying, and interaction between eruv chatzeirot and shituf mevo'ot"
+  },
+  {
+    "id": "gezuztra_balcony",
+    "name": "Gezuztra (Balcony) — Shabbat Domain",
+    "hebrew": "גזוזטרא",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about balconies overhanging water or public domains and drawing water through holes on Shabbat; partition requirements for balconies"
+  },
+  {
+    "id": "drawing_water_shabbat",
+    "name": "Drawing Water on Shabbat",
+    "hebrew": "שאיבת מים בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rules governing drawing water from cisterns, channels, or wells on Shabbat, including partition requirements and domain considerations"
+  },
+  {
+    "id": "waste_water_shabbat",
+    "name": "Pouring Waste Water on Shabbat",
+    "hebrew": "שפיכת מים בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws about pouring waste water into a small courtyard or public domain on Shabbat; requirement for a pit, minimum courtyard size of 4 cubits"
+  },
+  {
+    "id": "carrying_from_domain_to_domain",
+    "name": "Carrying Between Domains (Transfer of Objects)",
+    "hebrew": "הוצאה מרשות לרשות",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Practical rules about a person standing in one domain and handling objects in another domain; positions of body and object relative to domain boundaries"
+  },
+  {
+    "id": "phylacteries_shabbat",
+    "name": "Carrying Phylacteries on Shabbat",
+    "hebrew": "הבאת תפילין בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Special rules for rescuing phylacteries found in the public domain on Shabbat by donning them pair by pair; passsing them hand-to-hand less than 4 cubits"
+  },
+  {
+    "id": "sefer_torah_shabbat_rescue",
+    "name": "Rescuing Sacred Writings on Shabbat",
+    "hebrew": "הצלת כתבי הקודש בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about rolling back a Torah scroll that fell into the public domain on Shabbat; priority of rescue of sacred writings over rabbinic Shabbat decrees"
+  },
+  {
+    "id": "roofs_shabbat_domain",
+    "name": "Rooftops as Shabbat Domain",
+    "hebrew": "גגות כרשות אחת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The dispute whether all roofs of a city form one shared domain or each is independent; rules about height differences between adjacent roofs"
+  },
+  {
+    "id": "breach_in_wall_shabbat",
+    "name": "Breach in a Wall or Partition on Shabbat",
+    "hebrew": "פרצה במחיצה",
+    "parent_id": "mechitzot_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about when a breach invalidates a partition: breaches up to 10 cubits treated as doorways; breaches over 10 cubits invalidating the domain"
+  },
+  {
+    "id": "temple_shabbat_leniencies",
+    "name": "Temple Shabbat Leniencies (Miqdash vs. Medinah)",
+    "hebrew": "התרים במקדש לגבי שבת",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Activities permitted in the Temple on Shabbat that are forbidden outside it due to rabbinic decree: closing bolts, removing impurity, tying harp strings, cutting warts, medical treatment of priests"
+  },
+  {
+    "id": "tumat_sheretz_mikdash",
+    "name": "Removing Creeping Animal Impurity from Temple on Shabbat",
+    "hebrew": "הוצאת שרץ מן המקדש בשבת",
+    "parent_id": "biat_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The obligation and method for removing a sheretz (creeping creature) from the Temple precincts on Shabbat; dispute about which areas require removal"
+  },
+  {
+    "id": "lavud_principle",
+    "name": "Lavud (Constructive Connection of Gaps)",
+    "hebrew": "לבוד",
+    "parent_id": "mechitzot_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The halakhic principle that gaps of less than 3 handbreadths between surfaces are treated as closed/connected; applied to partitions in eruvin"
+  },
+  {
+    "id": "shevitat_reshut_courtyard",
+    "name": "Shabbat Residence in Courtyard (Shevisah b'Chatzar)",
+    "hebrew": "שביתה בחצר",
+    "parent_id": "eruv_chatzeirot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The concept that a person's Shabbat residence is established in his home and courtyard, forming the basis for eruv chatzeirot; interaction between house, courtyard and alleyway domains"
+  },
+  {
+    "id": "two_days_yom_tov_eruv",
+    "name": "Two Days of Yom Tov — Eruv Considerations",
+    "hebrew": "שני ימים טובים לעניין עירוב",
+    "parent_id": "eruv_techumin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The dispute between Rabbi Eliezer and Rabbis about establishing separate eruvin for each of two consecutive days of Yom Tov or Yom Tov adjacent to Shabbat"
+  },
+  {
+    "id": "rosh_hashana_two_days_eruv",
+    "name": "Two Days of Rosh HaShanah — Eruv and Calendar Uncertainty",
+    "hebrew": "שני ימי ראש השנה לעניין עירוב",
+    "parent_id": "rosh_hashanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Yehuda's view allowing separate eruvin for the two potentially-Rosh-HaShanah days due to calendar uncertainty; rabbinic disagreement; conditional tithing on Rosh HaShanah"
+  },
+  {
+    "id": "soldier_camp_eruv",
+    "name": "Military Camp Exemptions (Machaneh Tzava)",
+    "hebrew": "מחנה צבא",
+    "parent_id": "eruvin",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Four exemptions granted to soldiers in a military camp: wood gathering without concern for theft, handwashing before eating, separation of demai tithes, and eruv establishment"
+  },
+  {
+    "id": "deyomadin",
+    "name": "Deyomadin (Corner Posts Around a Well)",
+    "hebrew": "דיומדין",
+    "parent_id": "passei_biraot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The L-shaped double corner posts used in pairs to construct the virtual partition around a well; their minimum dimensions and spacing requirements"
+  }
+]

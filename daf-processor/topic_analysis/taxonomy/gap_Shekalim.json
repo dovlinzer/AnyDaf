@@ -1,0 +1,442 @@
+[
+  {
+    "id": "machatzit_hashekel_obligation",
+    "name": "Half-Shekel Obligation (Chovat HaMachatzit HaShekel)",
+    "hebrew": "חובת מחצית השקל",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Covers who is obligated to give the half-shekel, exemptions for women/slaves/minors/kohanim, and the debate over priestly obligation"
+  },
+  {
+    "id": "kalbon",
+    "name": "Kalbon (Premium on Half-Shekel)",
+    "hebrew": "קלבון",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The small surcharge added when paying the half-shekel; who is obligated and how much it is"
+  },
+  {
+    "id": "terumas_halishkah",
+    "name": "Terumat HaLishkah (Collection from the Treasury Chamber)",
+    "hebrew": "תרומת הלשכה",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The ceremony of collecting funds from the Temple treasury chamber three times a year using baskets; the procedure, timing, and rules for the collector"
+  },
+  {
+    "id": "lishkat_shekalim",
+    "name": "Lishkat HaShekalim (Temple Treasury Chamber)",
+    "hebrew": "לשכת השקלים",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The chamber in the Temple where half-shekel contributions were stored; the three large baskets and their use"
+  },
+  {
+    "id": "shofrot_mikdash",
+    "name": "Shofrot (Collection Horns of the Temple)",
+    "hebrew": "שופרות",
+    "parent_id": "shofar_boxes_mikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The thirteen collection horns in the Temple, each designated for a specific type of donation; rules for money found between them"
+  },
+  {
+    "id": "lishkat_chashaim",
+    "name": "Lishkat Chashaim (Chamber of Secret Gifts)",
+    "hebrew": "לשכת חשאים",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The chamber in the Temple where sin-fearing donors could leave money anonymously for poor people of noble birth to draw from secretly"
+  },
+  {
+    "id": "lishkat_kelim",
+    "name": "Lishkat Kelim (Chamber of Vessels)",
+    "hebrew": "לשכת כלים",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The chamber where donated vessels were stored; every thirty days treasurers would open it and allocate usable vessels or sell the rest for Temple maintenance"
+  },
+  {
+    "id": "seals_temple_libations",
+    "name": "Seals for Temple Libations (Chotamot)",
+    "hebrew": "חותמות",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The four (or five) seals used in the Temple to confirm payment for libations accompanying offerings; the officials Yochanan and Achiyya and the reconciliation process"
+  },
+  {
+    "id": "memuneh_temple_officials",
+    "name": "Temple Officials (Memunin)",
+    "hebrew": "ממונים",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The specific appointed officials in the Temple: over seals, libations, lotteries, bird-offerings, intestinal disease, well-digging, gates, wicks, cymbal, song, shewbread, incense, curtains, and vestments"
+  },
+  {
+    "id": "amarkolin",
+    "name": "Amarkolin (Temple Trustees)",
+    "hebrew": "אמרכולין",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The seven trustees and three treasurers who administered Temple finances; the rule that no public authority may be fewer than two people"
+  },
+  {
+    "id": "shekalim_donation_leftover",
+    "name": "Leftover Temple Funds (Shirei Lishkah)",
+    "hebrew": "שירי הלשכה",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "What is done with the surplus from the Temple treasury chamber collection after communal offerings are purchased; including golden plating, repletion of altar, and sacred vessels"
+  },
+  {
+    "id": "leftover_sacred_funds",
+    "name": "Leftover Designated Sacred Funds (Motar Hekdesh)",
+    "hebrew": "מותר הקדשות",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rules governing what to do with surplus money set aside for various types of offerings — sin-offerings, guilt-offerings, burnt-offerings, meal-offerings, Paschal lambs, nazirite offerings"
+  },
+  {
+    "id": "motar_tzedakah",
+    "name": "Leftover Charity and Redemption Funds",
+    "hebrew": "מותר צדקה ופדיון שבויים",
+    "parent_id": "eth_tzedakah",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rules governing surplus funds collected for charity, captive redemption, burial of the dead, and specific individuals — how excess is allocated"
+  },
+  {
+    "id": "nefesh_monument",
+    "name": "Nefesh (Grave Monument)",
+    "hebrew": "נפש",
+    "parent_id": "cemetery",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The monument built on a grave; dispute whether leftover burial funds should be used to build a nefesh on the grave"
+  },
+  {
+    "id": "maaser_beheimah_dates",
+    "name": "Dates for Animal Tithe (Zmanim l'Maaser Beheimah)",
+    "hebrew": "זמני מעשר בהמה",
+    "parent_id": "maaser_beheimah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The three annual dates when animal tithes are set aside, disputed among Rabbi Akiva, ben Azzai, and Rabbi Elazar and Rabbi Shimon"
+  },
+  {
+    "id": "sefikhim_guarding",
+    "name": "Guarding Sefikhim (Volunteer-Grown Grain for Omer)",
+    "hebrew": "שומרי ספיחים",
+    "parent_id": "minchat_omer",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The guards of sefikhim (volunteer-grown grain) during the Sabbatical Year to ensure availability for the omer and two loaves; dispute whether this must be paid from Temple funds or can be volunteered"
+  },
+  {
+    "id": "parah_adumah_ramp",
+    "name": "Ramp for the Red Heifer (Gesher Parah Adumah)",
+    "hebrew": "גשר פרה אדומה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The ramp built from the Temple Mount to the Mount of Olives for the red heifer ceremony; whether it comes from public funds or the High Priest's own funds"
+  },
+  {
+    "id": "maavir_hashekel_darkonot",
+    "name": "Exchanging Shekels for Darics (Gold Coins for Transport)",
+    "hebrew": "דרכונות",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The practice of exchanging many small shekels for large gold coins (darics) to ease transport of Temple contributions from distant communities"
+  },
+  {
+    "id": "shekalim_maaseh_hapanim",
+    "name": "Appearance Above Suspicion in Temple Service",
+    "hebrew": "יציאת ידי שמים ויציאת ידי הבריות",
+    "parent_id": "eth_kavod_habriot",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The requirement that Temple officials appear innocent before both God and man; the rules against wearing cuffed garments, sandals, etc. when collecting from the treasury chamber"
+  },
+  {
+    "id": "gentile_donations_temple",
+    "name": "Gentile and Samaritan Donations to the Temple",
+    "hebrew": "נדבת נכרים וכותים למקדש",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The rule that voluntary vow and free-will offerings from gentiles are accepted, but obligatory offerings such as sin-offerings, guilt-offerings, and bird-pairs are not; the rejection of Samaritan assistance in building the Second Temple"
+  },
+  {
+    "id": "ark_sequestered",
+    "name": "Hidden/Sequestered Ark",
+    "hebrew": "גניזת הארון",
+    "parent_id": "hidden_ark",
+    "category": "JEWISH HISTORY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The tradition that the Ark was hidden under the wood depository in the Temple; the incident of the priest who discovered a different flagstone and died"
+  },
+  {
+    "id": "temple_gates_names",
+    "name": "Gates of the Temple Courtyard",
+    "hebrew": "שערי העזרה",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The thirteen named gates of the Temple courtyard: Upper Gate, Gate of Kindling, Gate of Firstborn, Gate of Water, Gate of Jeconiah, Gate of Offering, Gate of Women, Gate of Song, Gate of Nicanor, and two unnamed western gates"
+  },
+  {
+    "id": "temple_tables",
+    "name": "Tables of the Temple (Shulchanot HaMikdash)",
+    "hebrew": "שולחנות המקדש",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The thirteen tables in the Temple: eight marble for washing innards, two flanking the ramp for limbs and vessels, two in the entrance hall for shewbread, and one golden Shewbread table inside the Sanctuary"
+  },
+  {
+    "id": "iluv_mizbeach",
+    "name": "Ma'alim b'Kodesh (Elevating in Matters of Sanctity)",
+    "hebrew": "מעלין בקודש",
+    "parent_id": "kedushah_holiness",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The principle that one elevates to a higher level in matters of sanctity and does not downgrade; illustrated by the shewbread placed on gold upon removal from the Sanctuary"
+  },
+  {
+    "id": "parochet_details",
+    "name": "Dimensions and Purification of the Temple Curtain",
+    "hebrew": "טומאת הפרוכת וטהרתה",
+    "parent_id": "parochet_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The curtain's dimensions (40x20 cubits), construction (72 strands of 24 threads each), weight requiring 300 priests to carry, and the rules for immersing a curtain that became ritually impure"
+  },
+  {
+    "id": "found_money_temple",
+    "name": "Found Money Near Temple Horns",
+    "hebrew": "מעות הנמצאות בין שופרות",
+    "parent_id": "metziah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rules for determining the status of money found between collection horns or between sacred and non-sacred containers; follows proximity, and in case of equidistance follows the more stringent allocation"
+  },
+  {
+    "id": "found_meat_temple",
+    "name": "Found Meat in Jerusalem or Temple Courtyard",
+    "hebrew": "בשר הנמצא בעזרה ובירושלים",
+    "parent_id": "metziah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rules for determining the status of found meat based on its form (whole limbs vs. small pieces) and location (courtyard, Jerusalem, or outlying areas)"
+  },
+  {
+    "id": "found_animal_jerusalem",
+    "name": "Found Animal Near Jerusalem (Behemah haNimtzet)",
+    "hebrew": "בהמה הנמצאת בין ירושלים למגדל עדר",
+    "parent_id": "metziah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "An animal found straying within a certain distance of Jerusalem is presumed to be designated for an offering; males presumed burnt-offerings, females peace-offerings"
+  },
+  {
+    "id": "libations_public_funds",
+    "name": "Libations for Found Animals from Public Funds",
+    "hebrew": "נסכי בהמה הנמצאת מן הציבור",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The court's ordinance that libations accompanying found animals are paid from public Temple funds, to prevent people from abandoning found animals to avoid liability for libations"
+  },
+  {
+    "id": "sheva_takkanot_shimon",
+    "name": "Seven Court Ordinances of Rabbi Shimon",
+    "hebrew": "שבע תקנות שהתקין בית דין",
+    "parent_id": "meth_takkanah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Seven specific court ordinances relating to financial aspects of offerings: libations for found animals, libations for gentile offerings sent from abroad, libations for a deceased convert's offerings, the High Priest's daily offering after his death, salt and wood for priests, red heifer ashes, and replacement of disqualified bird-pairs"
+  },
+  {
+    "id": "shekalim_not_in_present_time",
+    "name": "Half-Shekel and First Fruits in Present Time (without Temple)",
+    "hebrew": "שקלים ובכורים בזמן הזה",
+    "parent_id": "machatzit_hashekel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The rule that the half-shekel and first fruits are practiced only when the Temple stands; dispute whether consecrating them in the present time takes effect"
+  },
+  {
+    "id": "spittle_purity_jerusalem",
+    "name": "Ritual Purity of Spittle Found in Jerusalem",
+    "hebrew": "רוק הנמצא בירושלים",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rabbinic presumption that spittle found in Jerusalem is ritually pure (except in the upper marketplace); dispute between Rabbi Meir and Rabbi Yosei about middle vs. side of streets, with variation at Festival time"
+  },
+  {
+    "id": "vessels_found_near_bathhouse",
+    "name": "Vessels Found Near a Bathhouse (Ritual Purity)",
+    "hebrew": "כלים הנמצאים דרך ירידה לבית המרחץ",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The rule that vessels found on the way into a bathhouse are presumed impure and those on the way out are pure; exception for grave-digging tools"
+  },
+  {
+    "id": "knife_found_before_pesach",
+    "name": "Knife Found Before Passover (Presumption of Purity)",
+    "hebrew": "סכין הנמצאת ערב פסח",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Rules for knives and cleavers found on the 13th or 14th of Nisan regarding presumed ritual purity and whether immersion is required"
+  },
+  {
+    "id": "burning_disqualified_kodshim",
+    "name": "Burning Disqualified Sacred Flesh (Sreikat Basar Pigul/Tamei)",
+    "hebrew": "שריפת בשר קדשים שנטמא",
+    "parent_id": "pesulei_hamukdashim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "Dispute between Beit Shammai, Beit Hillel, Rabbi Elazar, and Rabbi Akiva about where flesh of most sacred offerings that became impure (inside or outside, primary or secondary source) should be burned"
+  },
+  {
+    "id": "kiyor_ramp_placement",
+    "name": "Placement of Offering Limbs on the Altar Ramp",
+    "hebrew": "הנחת אברים על הכבש",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The specific placement of limbs of daily, additional, and New Moon offerings on different parts of the altar ramp"
+  },
+  {
+    "id": "hekdesh_all_possessions",
+    "name": "Consecrating All One's Possessions (Makdish Nechasav)",
+    "hebrew": "המקדיש נכסיו",
+    "parent_id": "hakdashah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "What happens when one consecrates all possessions without specification, including animals fit for the altar; disputes between Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Akiva on whether animals go to Temple maintenance or sacrificial use"
+  },
+  {
+    "id": "price_setting_temple_supplies",
+    "name": "Price Setting for Temple Supplies",
+    "hebrew": "קציצת מחירים לצרכי המקדש",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The monthly setting of prices for Temple supplies; the rule that the Temple treasury always has the upper hand; merchants bear loss if goods spoil before sacrifice"
+  },
+  {
+    "id": "desacralization_wages",
+    "name": "Desacralization via Artisan Wages",
+    "hebrew": "חילול הקדש בשכר אומנים",
+    "parent_id": "pidyon_hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The method of desacralizing leftover incense or consecrated items by setting aside their value against artisan wages owed, then reconsecrating with new-year funds"
+  },
+  {
+    "id": "prostrations_temple",
+    "name": "Prostrations in the Temple (Hishtachaviyot)",
+    "hebrew": "השתחוויות במקדש",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_shekalim"
+    ],
+    "notes": "The thirteen locations of prostration in the Temple courtyard corresponding to the thirteen gates; the tradition of Rabban Gamliel's household of a fourteenth prostration near the wood depository"
+  }
+]

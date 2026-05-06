@@ -1,0 +1,354 @@
+[
+  {
+    "id": "tzaraat_skin_negaim",
+    "name": "Tzaraat of the Skin (Negaim — Detailed Laws)",
+    "hebrew": "נגעי עור הבשר",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of tzaraat on human skin: signs of uncleanness (white hair, quick flesh, spreading), inspection procedure, isolation and certification, minimum sizes, color variations, and the four principal shades of negaim"
+  },
+  {
+    "id": "tzaraat_signs_baheret_seet",
+    "name": "Signs of Tzaraat — Baheret and Se'et",
+    "hebrew": "בהרת ושאת",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The four principal colors of negaim: baheret (bright white like snow), second shade of baheret (lime of Temple), se'et (egg membrane white), second shade of se'et (wool white); and their legal interactions"
+  },
+  {
+    "id": "tzaraat_spreading_pisyon",
+    "name": "Spreading of a Nega (Pisyon)",
+    "hebrew": "פשיון הנגע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing the spreading of a tzaraat nega as a sign of uncleanness: minimum size of effective spreading, spreading to and from different types of negaim, spreading outside original sign"
+  },
+  {
+    "id": "tzaraat_white_hair_sear_lavan",
+    "name": "White Hair in a Nega (Se'ar Lavan)",
+    "hebrew": "שיער לבן בנגע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of white hair as a sign of tzaraat uncleanness: minimum required, whether it causes uncleanness at the beginning or only after the nega, color requirements, length, interaction with boils and burns"
+  },
+  {
+    "id": "tzaraat_quick_flesh_michyah",
+    "name": "Quick Flesh in a Nega (Michyah)",
+    "hebrew": "מחיה בנגע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of quick flesh (michyah) as a sign of tzaraat: its function as a sign of uncleanness, its role in scalp and forehead baldness negaim, inability to cause uncleanness in boil/burn, its prevention of all-white cleanness"
+  },
+  {
+    "id": "tzaraat_inspection_procedure",
+    "name": "Inspection of Negaim by the Priest",
+    "hebrew": "ראיית הנגעים על ידי הכהן",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing the inspection of tzaraat: timing of inspection (days of week, hours of day), lighting conditions, bodily posture of examinee, qualifications of inspecting priest (sight), role of priest in declaring clean or unclean, inability to inspect one's own negaim"
+  },
+  {
+    "id": "tzaraat_isolation_weeks",
+    "name": "Isolation Periods in Tzaraat (Hesger)",
+    "hebrew": "הסגר הנגעים",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The one-week and two-week isolation periods for different types of negaim; rules about re-inspection, bridegroom's grace period, festival grace period, and counting the days of isolation"
+  },
+  {
+    "id": "tzaraat_all_white_hefsach",
+    "name": "Tzaraat Spreading Over Entire Body (Hefsach)",
+    "hebrew": "פרח בכולו — טהרת המצורע שפרח בו הנגע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When tzaraat spreads over the entire body the person becomes clean; rules about reappearance of natural skin (ends of limbs), whether it originated in clean or unclean status, interaction with quick flesh and white hair"
+  },
+  {
+    "id": "tzaraat_scall_neteck",
+    "name": "Scall Tzaraat of Head and Beard (Neteck)",
+    "hebrew": "נתק ראש וזקן",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific laws of tzaraat of the head and beard (neteck/scall): signs of uncleanness are thin yellow hair and spreading (not quick flesh or white hair), protective role of black hair, shaving for inspection, two scalls side by side"
+  },
+  {
+    "id": "tzaraat_baldness_karahat_gabahat",
+    "name": "Tzaraat of Scalp and Forehead Baldness (Karahat/Gabahat)",
+    "hebrew": "קרחת וגבחת",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of tzaraat on scalp baldness (karahat) and forehead baldness (gabahat): definition of each area, signs of uncleanness (quick flesh and spreading), they do not combine with each other"
+  },
+  {
+    "id": "tzaraat_boil_burn_shechin_michvah",
+    "name": "Tzaraat of Boil and Burn (Shechin and Michvah)",
+    "hebrew": "שחין ומכווה",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of tzaraat that appears on a boil or burn: only one week isolation, only two signs (white hair and spreading), definition of boil vs. burn, scar formation, they do not combine with skin-of-flesh negaim"
+  },
+  {
+    "id": "tzaraat_minimum_size_gris",
+    "name": "Minimum Size of a Nega (Gris — Split Bean)",
+    "hebrew": "שיעור הנגע — גריס",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The minimum size required for a skin tzaraat nega to be susceptible to uncleanness: a Cilician split bean squared (36 hairs); minimum size for house negaim is two split beans; detailed calculations of relative sizes"
+  },
+  {
+    "id": "tzaraat_body_parts_exempt",
+    "name": "Body Parts Exempt from Tzaraat Uncleanness",
+    "hebrew": "אברים שאין מטמאים בנגעים",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Twenty-four tips of limbs and other bodily areas that do not become unclean from quick flesh or bright spots: fingertips, toes, ear tips, nose tip, penis tip, nipples; internal body areas (inside eye, ear, nose, mouth, armpits, wrinkles, soles)"
+  },
+  {
+    "id": "tzaraat_plucking_signs",
+    "name": "Plucking Signs of Tzaraat Uncleanness",
+    "hebrew": "עקירת סימני טומאה בנגע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of plucking out white hairs or burning quick flesh; legal consequences: if done before priest's certification the person is clean, but if after certification remains unclean; rabbinic dispute about plucking during isolation"
+  },
+  {
+    "id": "tzaraat_doubt_safek_negaim",
+    "name": "Doubt in Negaim (Safek Negaim)",
+    "hebrew": "ספק נגעים",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for doubtful tzaraat cases: before uncleanness established, doubt is treated as clean; after uncleanness established, doubt treated as unclean; specific cases of two men whose negaim may have spread to each other"
+  },
+  {
+    "id": "tzaraat_color_relative_to_skin",
+    "name": "Assessing Tzaraat Colors Relative to Skin Tone",
+    "hebrew": "ראיית נגעים לפי גוון עור הנבדק",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute about how to assess brightness of negaim on very dark or very light-skinned individuals; Rabbi Akiva's painter analogy; Rabbi Judah and Sages' positions on using standard intermediate skin tone as reference"
+  },
+  {
+    "id": "tzaraat_clean_bright_spots",
+    "name": "Bright Spots That Are Permanently Clean",
+    "hebrew": "בהרות טהורות",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Categories of negaim that are permanently clean and not subject to inspection: present before the Torah was given, present when a convert converted, present at birth, hidden in a crease and later revealed, on areas that later became boil scars"
+  },
+  {
+    "id": "metzora_purification_taharat_metzora",
+    "name": "Purification Ritual of the Metzora",
+    "hebrew": "טהרת המצורע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The two-stage purification process for a healed metzora: first-day ritual with two birds, cedarwood, hyssop, scarlet wool, living water, and earthenware vessel; second shaving on day seven; eighth-day sacrifices (guilt offering, sin offering, burnt offering)"
+  },
+  {
+    "id": "metzora_two_birds",
+    "name": "Two Birds of the Metzora Purification",
+    "hebrew": "שתי צפרים של מצורע",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the two birds used in metzora purification: must be wild birds, matched in appearance and price, purchased at same time; one slaughtered over living water in earthenware vessel, the other released into open field; what happens if one dies or is found non-kosher"
+  },
+  {
+    "id": "metzora_oil_log",
+    "name": "Log of Oil in Metzora Purification",
+    "hebrew": "לוג השמן של מצורע",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The log of oil used in metzora purification: sprinkling toward Holy of Holies seven times, application to ear, thumb, and big toe over guilt-offering blood, application of remainder to head; dispute about necessity of 'putting upon' the head for atonement; replenishment if oil is missing"
+  },
+  {
+    "id": "metzora_blood_application",
+    "name": "Application of Guilt-Offering Blood to Metzora",
+    "hebrew": "מתן דם האשם על המצורע",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Procedure for applying guilt-offering blood to the metzora's right ear tip, right thumb, and right big toe; the metzora immersed in the chamber of metzoraim and stood at the Nikanor gate; dispute if limbs are missing"
+  },
+  {
+    "id": "metzora_shaving_tikkun",
+    "name": "Shaving of the Metzora",
+    "hebrew": "תגלחת המצורע",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Two required shavings of the metzora: first shaving (all hair) on day one of purification, second shaving on day seven; razor over entire body; same shaving rules apply to nazirite and Levites; invalidity if not done with razor or if two hairs remain"
+  },
+  {
+    "id": "metzora_stages_purity",
+    "name": "Stages of Metzora's Progressive Purification",
+    "hebrew": "שלבי טהרת המצורע",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Three progressive stages of the metzora's purification: after first-day ritual (clean re: entry but impure like sheretz); after second shaving on day seven (clean re: sheretz but like tevul yom, may eat maaser sheni); after eighth-day offerings (may eat kodashim)"
+  },
+  {
+    "id": "metzora_conduct_during_impurity",
+    "name": "Conduct of the Metzora During Impurity",
+    "hebrew": "דיני המצורע בזמן טומאתו",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules governing the metzora while impure: conveys uncleanness to all vessels in a house up to the roof beams; must have partition in synagogue; cannot enter within walls of Jerusalem while impure; forbidden from intercourse during intermediate stage of purification"
+  },
+  {
+    "id": "metzora_rich_poor_sacrifices",
+    "name": "Rich vs. Poor Metzora's Sacrifices",
+    "hebrew": "קרבן מצורע עשיר ומצורע עני",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Difference between rich and poor metzora's eighth-day offerings: rich brings two lambs and ewe; poor brings two birds; if status changes between diagnosis and offering, dispute whether guilt-offering or sin-offering determines status; a man may bring rich sacrifice for family members"
+  },
+  {
+    "id": "tzaraat_garments_detailed",
+    "name": "Detailed Laws of Tzaraat in Garments",
+    "hebrew": "נגעי בגדים",
+    "parent_id": "tzaraat_clothing",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of garment tzaraat: which garments are susceptible (wool, linen, hides; not sea-hides unless combined with land material); mixed wool/camel hair thresholds; colored garments; warp and woof susceptibility; isolation, washing, burning; patching procedures; mixing up isolated vs. certified garments"
+  },
+  {
+    "id": "tzaraat_houses_detailed",
+    "name": "Detailed Laws of Tzaraat in Houses (Nigei Batim)",
+    "hebrew": "נגעי בתים — פרטי הדינים",
+    "parent_id": "nigei_batim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws: which houses are susceptible (four-sided, containing stones/wood/earth; not round, triangular, ship-built, non-Jewish houses); minimum number of stones; inspection procedure; isolation, scraping, replastering, demolition; stones from isolated house used elsewhere; uncleanness by entry"
+  },
+  {
+    "id": "tzaraat_house_entry_tumah",
+    "name": "Uncleanness Conveyed by Entering a Leprous House",
+    "hebrew": "טומאת ביאה בבית מנוגע",
+    "parent_id": "nigei_batim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of entering a house certified as having tzaraat: immediate uncleanness; clothing worn remains clean unless stayed long enough to eat half a loaf; clothing carried on shoulders becomes unclean immediately; head and majority of body inside constitutes entry; metzora entering causes all vessels to become unclean"
+  },
+  {
+    "id": "tzaraat_whos_susceptible",
+    "name": "Who is Susceptible to Tzaraat Uncleanness",
+    "hebrew": "מי מטמא בנגעים",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "All persons may become impure from tzaraat except non-Jews and resident aliens (gerim toshavim); non-Jewish garments and houses not susceptible; a convert's pre-conversion negaim are clean; all may inspect negaim but only a priest may declare clean or unclean"
+  },
+  {
+    "id": "tzaraat_bridegroom_festival_exemption",
+    "name": "Bridegroom and Festival Exemption from Tzaraat Inspection",
+    "hebrew": "חתן ומועד — פטור מראיית נגעים",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A bridegroom whose nega appears during the seven days of the marriage feast receives a grace period before inspection; similarly during a festival all days of the festival constitute a grace period; applies to him, his house, and his clothing"
+  },
+  {
+    "id": "hyssop_eizov_ritual",
+    "name": "Hyssop (Eizov) in Purification Rituals",
+    "hebrew": "אזוב בטהרה",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The hyssop used in the metzora purification: must be standard hyssop without a qualifying name (not ezovyon, blue hyssop, Roman hyssop, wild hyssop); minimum size; bound together with cedarwood and scarlet wool"
+  },
+  {
+    "id": "cedarwood_purification",
+    "name": "Cedarwood (Eitz Erez) in Purification Rituals",
+    "hebrew": "עץ ארז בטהרה",
+    "parent_id": "metzora_purification_taharat_metzora",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The cedarwood used in metzora purification: minimum one cubit in length, quarter of a bed-leg in thickness; bound with hyssop and scarlet wool"
+  }
+]

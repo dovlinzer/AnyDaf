@@ -1,0 +1,266 @@
+[
+  {
+    "id": "chol_hamoed_labor",
+    "name": "Labor on Chol HaMoed (Melacha b'Moed)",
+    "hebrew": "מלאכה בחול המועד",
+    "parent_id": "chol_hamoed",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Detailed rules governing which types of work are permitted or forbidden on the intermediate days of a Festival, including distinctions between professional and amateur work, public needs vs. private, and avoiding financial loss (davar ha'aved)"
+  },
+  {
+    "id": "davar_haaved",
+    "name": "Davar HaAved (Preventing Financial Loss on Chol HaMoed)",
+    "hebrew": "דבר האבד",
+    "parent_id": "chol_hamoed",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Principle permitting otherwise prohibited labor on Chol HaMoed when there is risk of significant financial loss; covers agricultural and commercial contexts"
+  },
+  {
+    "id": "tzorech_hamoed",
+    "name": "Tzorech HaMoed (Labor for Festival Needs)",
+    "hebrew": "צורך המועד",
+    "parent_id": "chol_hamoed",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Category of permitted Chol HaMoed labor done specifically for the needs of the Festival itself, e.g., food preparation, obtaining clothing"
+  },
+  {
+    "id": "mourning_chol_hamoed",
+    "name": "Mourning on Chol HaMoed",
+    "hebrew": "אבלות בחול המועד",
+    "parent_id": "chol_hamoed",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Rules governing mourning practices (aninut, avelut) that occur during or coincide with Chol HaMoed; includes restrictions on eulogies, rending garments, overturned bed, consolation meal"
+  },
+  {
+    "id": "festival_interrupting_mourning",
+    "name": "Festival Interrupting Mourning Period",
+    "hebrew": "רגל מפסיק את האבלות",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Halakhic principle that a pilgrimage festival (Pesach, Shavuot, Sukkot) interrupts and/or cancels the seven-day or thirty-day mourning period; includes rules about how many days before the festival burial must occur"
+  },
+  {
+    "id": "shiva_sheloshim",
+    "name": "Shiva and Shloshim (Seven and Thirty Days of Mourning)",
+    "hebrew": "שבעה ושלושים",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "The seven-day and thirty-day mourning periods, their requirements and how they interact with Shabbat and Festivals"
+  },
+  {
+    "id": "seudat_havraah",
+    "name": "Seudat Havraah (First Mourner's Meal)",
+    "hebrew": "סעודת הבראה",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "The meal provided to mourners after burial by neighbors/community; rules about who provides it, what vessels may be used, and whether it applies on Chol HaMoed"
+  },
+  {
+    "id": "nihum_aveilim_practices",
+    "name": "Consolation Row (Shurah) and Mourners' Blessing",
+    "hebrew": "שורה וברכת אבלים",
+    "parent_id": "fam_nichum_aveilim",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Specific practice of consolers standing in a row at the cemetery to console mourners; and the recitation (or non-recitation) of birkat avelim during Chol HaMoed"
+  },
+  {
+    "id": "wailing_lamentation_mourning",
+    "name": "Wailing and Lamentation (Yelalah and Kinah)",
+    "hebrew": "ילילה וקינה",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Distinction between communal wailing (all together) and antiphonal lamentation (one leads, others respond); rules about when each is permitted including on Chol HaMoed, Rosh Chodesh, Chanukah, and Purim"
+  },
+  {
+    "id": "hesped_chol_hamoed",
+    "name": "Eulogy on Chol HaMoed and Other Special Days",
+    "hebrew": "הספד בחול המועד",
+    "parent_id": "fam_hesped",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Prohibition on eulogies during Chol HaMoed; related rules about not setting down the bier in public; thirty days before Festival restriction"
+  },
+  {
+    "id": "keriat_begadim_mourning",
+    "name": "Rending Garments in Mourning (Keria)",
+    "hebrew": "קריעה",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Practice of rending garments as sign of mourning; rules about when it is suspended such as during Chol HaMoed"
+  },
+  {
+    "id": "tzaraat_examination_chol_hamoed",
+    "name": "Tzaraat Examination on Chol HaMoed",
+    "hebrew": "בדיקת נגעים בחול המועד",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Dispute about whether a priest may examine tzaraat symptoms during Chol HaMoed; Rabbi Meir permits lenient examination but not stringent; Rabbis prohibit both"
+  },
+  {
+    "id": "ostracism_nidui",
+    "name": "Ostracism/Excommunication (Nidui) — Practical Halakhot",
+    "hebrew": "נידוי",
+    "parent_id": "courts_nidui",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Practical consequences of nidui including prohibition on haircutting and laundering; release from nidui on Chol HaMoed and its effects"
+  },
+  {
+    "id": "irrigation_chol_hamoed",
+    "name": "Irrigation on Chol HaMoed",
+    "hebrew": "השקיית שדות בחול המועד",
+    "parent_id": "chol_hamoed_labor",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Rules permitting irrigation from newly emerged or established springs but prohibiting use of cistern water or shadoof due to excessive labor"
+  },
+  {
+    "id": "grave_marking_beit_hapras_moed",
+    "name": "Marking Graves on Chol HaMoed",
+    "hebrew": "ציון קברות בחול המועד",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Requirement to mark graves for public impurity awareness; inspectors going out to uproot kilayim; public welfare activities permitted on Chol HaMoed"
+  },
+  {
+    "id": "ossilegium_likkut_atzamot",
+    "name": "Gathering Bones of the Deceased (Likkut Atzamot)",
+    "hebrew": "ליקוט עצמות",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Ancient practice of secondary burial — collecting bones from temporary grave for reburial in ancestral tomb; dispute whether permitted on Chol HaMoed due to joy vs. mourning"
+  },
+  {
+    "id": "marriage_prohibition_chol_hamoed",
+    "name": "Prohibition of Marriage on Chol HaMoed",
+    "hebrew": "איסור נישואין בחול המועד",
+    "parent_id": "chol_hamoed",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Prohibition against marrying a new wife (virgin or widow) on Chol HaMoed so as not to mix one's personal joy with the joy of the Festival; remarrying divorced wife is permitted"
+  },
+  {
+    "id": "laundering_chol_hamoed",
+    "name": "Laundering Clothes on Chol HaMoed",
+    "hebrew": "כיבוס בגדים בחול המועד",
+    "parent_id": "chol_hamoed_labor",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "General prohibition on laundering on Chol HaMoed; exceptions for those returning from abroad, released from prison/captivity, released from nidui, zavim/zavot, yoledot, and quick-dirtying towels"
+  },
+  {
+    "id": "haircut_chol_hamoed",
+    "name": "Haircutting on Chol HaMoed",
+    "hebrew": "תספורת בחול המועד",
+    "parent_id": "chol_hamoed_labor",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "General prohibition on cutting hair on Chol HaMoed; exceptions for those who could not cut hair before the Festival: returnees from abroad, released prisoners, those released from nidui/vow, nazirite, metzora"
+  },
+  {
+    "id": "writing_documents_chol_hamoed",
+    "name": "Writing Documents on Chol HaMoed",
+    "hebrew": "כתיבת שטרות בחול המועד",
+    "parent_id": "chol_hamoed_labor",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Which legal documents may be written on Chol HaMoed (betrothal, divorce, wills, prozbul, chalitza, etc.) and which may not (loan documents, Torah scrolls, tefillin, mezuzot)"
+  },
+  {
+    "id": "prozbul",
+    "name": "Prozbul",
+    "hebrew": "פרוזבול",
+    "parent_id": "mon_prozbul",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Document authorizing court to collect loans despite shemitat kesafim; listed among documents that may be written on Chol HaMoed"
+  },
+  {
+    "id": "public_needs_chol_hamoed",
+    "name": "Public Welfare Work on Chol HaMoed (Tzorchei Rabbim)",
+    "hebrew": "צורכי רבים בחול המועד",
+    "parent_id": "chol_hamoed_labor",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Category of permitted labor on Chol HaMoed for communal/public needs: repairing cisterns, roads, streets, ritual baths, marking graves, uprooting kilayim"
+  },
+  {
+    "id": "shavuot_mourning_status",
+    "name": "Shavuot's Status Regarding Mourning",
+    "hebrew": "שבועות לענין אבלות",
+    "parent_id": "festival_interrupting_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Dispute whether Shavuot (one-day festival) acts like Shabbat (counts but doesn't interrupt) or like other pilgrimage festivals (interrupts) for purposes of mourning period calculation"
+  },
+  {
+    "id": "rosh_hashana_yom_kippur_mourning",
+    "name": "Rosh HaShana and Yom Kippur's Status Regarding Mourning",
+    "hebrew": "ראש השנה ויום כיפור לענין אבלות",
+    "parent_id": "festival_interrupting_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_moed_katan"
+    ],
+    "notes": "Dispute (Rabban Gamliel vs. Rabbis) whether Rosh HaShana and Yom Kippur interrupt the mourning period like pilgrimage festivals or only count like Shabbat"
+  }
+]

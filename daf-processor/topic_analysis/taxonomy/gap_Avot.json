@@ -1,0 +1,146 @@
+[
+  {
+    "id": "chain_of_tradition",
+    "name": "Chain of Torah Tradition (Mesorah)",
+    "hebrew": "שלשלת הקבלה",
+    "parent_id": "aggada_theology",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": ["mishnah_avot"],
+    "notes": "The transmission of Torah from Sinai through generations: Moses to Joshua to elders to prophets to Men of Great Assembly, and onward. A central theme of Avot ch. 1."
+  },
+  {
+    "id": "torah_lishma",
+    "name": "Torah Study for Its Own Sake (Torah Lishmah)",
+    "hebrew": "תורה לשמה",
+    "parent_id": "torah_study_value",
+    "category": "ETHICS AND CHARACTER",
+    "sources": ["mishnah_avot"],
+    "notes": "The ideal of studying Torah intrinsically, not for reward or status; contrasted with using Torah as a spade (Avot 4:5, 6:1)."
+  },
+  {
+    "id": "fence_around_torah",
+    "name": "Fence Around the Torah (Seyag laTorah)",
+    "hebrew": "סייג לתורה",
+    "parent_id": "meth_gezeirah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": ["mishnah_avot"],
+    "notes": "The principle of erecting protective enactments around Torah law to prevent transgression; mentioned in Avot 1:1, 3:13."
+  },
+  {
+    "id": "torah_combined_with_work",
+    "name": "Torah Combined with Worldly Occupation (Torah im Derech Eretz)",
+    "hebrew": "תורה עם דרך ארץ",
+    "parent_id": "ethics_character",
+    "category": "ETHICS AND CHARACTER",
+    "sources": ["mishnah_avot"],
+    "notes": "The value and necessity of combining Torah study with a livelihood; discussed in Avot 2:2."
+  },
+  {
+    "id": "dispute_for_heaven",
+    "name": "Dispute for the Sake of Heaven (Machloket leShem Shamayim)",
+    "hebrew": "מחלוקת לשם שמים",
+    "parent_id": "interpersonal_ethics",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_avot"],
+    "notes": "Distinction between disputes conducted for the sake of heaven (Hillel and Shammai) vs. those not (Korach); Avot 5:17."
+  },
+  {
+    "id": "ten_utterances_creation",
+    "name": "Ten Utterances of Creation (Asarah Maamarot)",
+    "hebrew": "עשרה מאמרות",
+    "parent_id": "beriat_haolam",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": ["mishnah_avot"],
+    "notes": "The world was created with ten divine utterances; the theological significance of this for reward and punishment (Avot 5:1)."
+  },
+  {
+    "id": "causing_multitudes_to_sin_merit",
+    "name": "Causing the Multitudes to Sin or to be Righteous",
+    "hebrew": "מחטיא את הרבים / מזכה את הרבים",
+    "parent_id": "eth_lifnei_iver",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_avot"],
+    "notes": "One who causes the public to sin cannot repent; one who causes the public to be righteous is credited with their righteousness (Avot 5:18)."
+  },
+  {
+    "id": "world_this_as_vestibule",
+    "name": "This World as Vestibule to the World to Come",
+    "hebrew": "העולם הזה כפרוזדור",
+    "parent_id": "olam_haba",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": ["mishnah_avot"],
+    "notes": "The metaphor of this world as a vestibule (prozdor) preparing for the banquet hall of the World to Come (Avot 4:16)."
+  },
+  {
+    "id": "reward_for_mitzvah_is_mitzvah",
+    "name": "Reward for a Commandment is a Commandment (Mitzvah Goreret Mitzvah)",
+    "hebrew": "מצוה גוררת מצוה",
+    "parent_id": "sachar_vaonesh",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": ["mishnah_avot"],
+    "notes": "One mitzvah leads to another mitzvah, and one transgression leads to another transgression (Avot 4:2)."
+  },
+  {
+    "id": "prayer_for_welfare_of_government",
+    "name": "Prayer for the Welfare of the Government",
+    "hebrew": "הוי מתפלל בשלומה של מלכות",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": ["mishnah_avot"],
+    "notes": "The obligation to pray for governmental stability, since without it people would devour one another (Avot 3:2)."
+  },
+  {
+    "id": "shechina_among_learners",
+    "name": "Shekhinah Among Torah Learners",
+    "hebrew": "שכינה שרויה ביניהם",
+    "parent_id": "shechina_divine_presence",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": ["mishnah_avot"],
+    "notes": "Divine presence rests among those studying Torah, whether ten, five, three, two, or even one (Avot 3:2, 3:6)."
+  },
+  {
+    "id": "avodat_hashem_without_reward",
+    "name": "Serving God Without Expectation of Reward",
+    "hebrew": "עבודה שלא על מנת לקבל פרס",
+    "parent_id": "fear_of_god",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": ["mishnah_avot"],
+    "notes": "The ideal of serving God like servants who do not expect reward, but purely out of reverence (Avot 1:3)."
+  },
+  {
+    "id": "do_not_separate_from_community",
+    "name": "Do Not Separate from the Community",
+    "hebrew": "אל תפרוש מן הציבור",
+    "parent_id": "eth_social_contract",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_avot"],
+    "notes": "The principle that one should not separate oneself from the communal life (Avot 2:4)."
+  },
+  {
+    "id": "judgment_divine_providence_free_will",
+    "name": "Divine Foreknowledge and Human Free Will",
+    "hebrew": "הכל צפוי והרשות נתונה",
+    "parent_id": "bechirah_chofshit",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": ["mishnah_avot"],
+    "notes": "The paradox that everything is foreseen yet freedom of choice is granted; world judged by preponderance of deeds (Avot 3:15)."
+  },
+  {
+    "id": "ben_zoma_four_questions",
+    "name": "Who is Wise, Mighty, Rich, Honored (Ben Zoma)",
+    "hebrew": "איזהו חכם איזהו גיבור איזהו עשיר איזהו מכובד",
+    "parent_id": "midot_character_traits",
+    "category": "ETHICS AND CHARACTER",
+    "sources": ["mishnah_avot"],
+    "notes": "Ben Zoma's redefinition of wisdom, strength, wealth, and honor in ethical and spiritual terms (Avot 4:1). Widely quoted throughout Talmudic literature."
+  },
+  {
+    "id": "citing_sources_in_name",
+    "name": "Quoting a Teaching in the Name of Its Author",
+    "hebrew": "האומר דבר בשם אומרו",
+    "parent_id": "eth_misleading",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_avot"],
+    "notes": "The obligation to cite one's source when transmitting a teaching; doing so brings redemption to the world (Avot 6:6)."
+  }
+]

@@ -1,0 +1,80 @@
+Looking at Mishnah Uktzim, which deals with the laws of handles (yadot), stems (uktzim/itztzuvanim), and connectors (beit hashelesha) as they relate to food's susceptibility to tumah and the transmission of tumah - I'll identify genuine gaps in the taxonomy.
+
+Uktzim covers: which parts of produce (stalks, roots, shells, pits, husks) count as "handles" (yadot) to transmit tumah or become susceptible to it, which parts are considered part of the food itself, and which are considered separate. This is a specialized area of tumat ochlin law.
+
+```json
+[
+  {
+    "id": "uktzin_yadot",
+    "name": "Yadot (Handles of Food for Tumah Purposes)",
+    "hebrew": "ידות",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "Stems, stalks, and attached parts of food that serve as 'handles' — they transmit tumah to the food but do not themselves become tamei; central topic of tractate Uktzim"
+  },
+  {
+    "id": "uktzin_itztzuvanim",
+    "name": "Uktzin / Itztzuvanim (Stalks and Connectors of Produce)",
+    "hebrew": "עוקצין / עיצבונין",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "The classification of stems, roots, and connective parts of produce as to whether they join with the food for tumah purposes or are considered separate; gives the tractate its name"
+  },
+  {
+    "id": "beit_hashelesha",
+    "name": "Beit HaShelesha (Connector Joining Food for Tumah)",
+    "hebrew": "בית השלישי",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "Third-level connected parts of food that combine to be susceptible to tumah; discussed in Uktzim regarding which connections are significant for impurity laws"
+  },
+  {
+    "id": "tziruf_ochlin_letumah",
+    "name": "Tziruf Ochlin leTumah (Combining Parts of Food for Tumah)",
+    "hebrew": "צירוף אוכלין לטומאה",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "The rules about which attached or adjacent parts of food combine together to form a requisite measure for tumah or for hechsher; discussed extensively in Uktzim"
+  },
+  {
+    "id": "kelipot_kelafim",
+    "name": "Kelipot / Kelafim (Peels and Shells in Tumah Law)",
+    "hebrew": "קליפות / קלפים",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "Whether peels, shells, husks, and outer coverings of produce are considered part of the food for tumah susceptibility and transmission, or are discarded matter; central to Uktzim"
+  },
+  {
+    "id": "garinin_gluskim",
+    "name": "Garinin / Pits and Seeds in Tumah Law",
+    "hebrew": "גרעינין",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "Whether pits, seeds, and stones inside fruits join with the food for tumah or are considered separate non-food matter; treated in Uktzim"
+  },
+  {
+    "id": "ochel_mekabel_tumah_shiur",
+    "name": "Shiur Ochel for Tumah (Minimum Food Measure for Impurity)",
+    "hebrew": "שיעור אוכל לטומאה",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "The minimum amount of food required to be susceptible to tumah (k'beitzah), and how attached parts contribute or do not contribute to that measure; discussed in Uktzim"
+  },
+  {
+    "id": "shomer_food_tumah",
+    "name": "Shomer (Protective Covering of Food for Tumah)",
+    "hebrew": "שומר",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": ["mishnah"],
+    "notes": "Parts of produce that protect the food (e.g., husks, calyx) and thus join with it for tumah purposes — the shomer concept is central to tractate Uktzim"
+  }
+]
+```

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "demai_produce",
+    "name": "Demai (Doubtfully Tithed Produce — Laws)",
+    "hebrew": "דמאי",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Detailed laws of demai: which produce is subject, exemptions, leniencies, and the full halakhic framework beyond the general entry"
+  },
+  {
+    "id": "demai_exemptions",
+    "name": "Produce Exempt from Demai",
+    "hebrew": "פירות הפטורים מן הדמאי",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Categories of produce treated leniently or fully exempt from demai laws: unripe figs, jujuba, capers, wild figs, etc."
+  },
+  {
+    "id": "ne_eman_trustworthy",
+    "name": "Ne'eman (Trustworthy Person for Tithes)",
+    "hebrew": "נאמן",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws of accepting upon oneself the status of ne'eman — one who is reliable in matters of tithes; obligations this entails"
+  },
+  {
+    "id": "chaver_status",
+    "name": "Chaver (Rabbinic Associate — Laws and Obligations)",
+    "hebrew": "חבר",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws of the chaver: one who accepts strict obligations regarding tithes and purity; restrictions on dealings with am haaretz; conditions for membership"
+  },
+  {
+    "id": "am_haaretz_tithe",
+    "name": "Am HaAretz (in Context of Tithes)",
+    "hebrew": "עם הארץ",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Halakhic status of the am haaretz in matters of tithes: produce bought from him, hosting him, and trusting his declarations"
+  },
+  {
+    "id": "tithing_declarations_verbal",
+    "name": "Verbal Tithing Declarations (Designating Tithes by Speech)",
+    "hebrew": "הפרשת מעשרות בדיבור",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws of designating tithes through verbal formulae, including tithing in advance, from a distance, or while in the house of study; complex formulas for combined terumah and tithe designations"
+  },
+  {
+    "id": "tithing_in_advance",
+    "name": "Tithing in Advance (Hafrashat Maaser b'Tenai)",
+    "hebrew": "הפרשת מעשר על תנאי",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Declaring tithes conditionally before Shabbat or before eating, so that the designation takes effect retroactively; especially in context of demai"
+  },
+  {
+    "id": "sharecropping_tithes",
+    "name": "Sharecropping and Tithes (Arisut)",
+    "hebrew": "אריסות ומעשרות",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws of who is responsible for tithes when a field is rented for a share in the produce (aris); distinctions between Jewish, Gentile, Samaritan, priestly, and Levitical landowners"
+  },
+  {
+    "id": "samaritans_produce",
+    "name": "Samaritans' Produce (Kutim) — Tithes",
+    "hebrew": "פירות כותים",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws regarding produce grown or sold by Samaritans (Kutim) in relation to tithes and demai; their trustworthiness in tithe declarations"
+  },
+  {
+    "id": "tithing_cross_lots",
+    "name": "Tithing From One Lot for Another",
+    "hebrew": "מעשר מזה על זה",
+    "parent_id": "maaser_rishon",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Rules for when one may separate tithes from one batch of produce for another; distinctions between field owners, wholesalers, and vendors of different batches"
+  },
+  {
+    "id": "perforated_pot_produce",
+    "name": "Perforated Pot (Atzitz Nakuv) — Agricultural Law",
+    "hebrew": "עציץ נקוב",
+    "parent_id": "agriculture_tithes",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Status of produce grown in a perforated pot versus unperforated pot in relation to terumah and tithes; perforated pot treated as land"
+  },
+  {
+    "id": "po_hamafsid_peh_hamatter",
+    "name": "Peh She'asar Hu Peh She'hitir (The Mouth That Forbade Is the Mouth That Permitted)",
+    "hebrew": "הפה שאסר הוא הפה שהתיר",
+    "parent_id": "herm_miggo",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Principle that when the same person both creates a prohibition and permits it, we rely on his word; applied in context of seller declaring produce tithed after already stating its origin"
+  },
+  {
+    "id": "maaser_ani_demai",
+    "name": "Maaser Ani of Demai (Poor Man's Tithe Designation)",
+    "hebrew": "מעשר עני של דמאי",
+    "parent_id": "maaser_ani",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Whether one must designate (but need not separate) the poor man's tithe from demai produce; dispute between Rabbi Eliezer and the sages"
+  },
+  {
+    "id": "feeding_demai_to_poor",
+    "name": "Feeding Demai to the Poor",
+    "hebrew": "האכלת דמאי לעניים",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Leniency permitting demai produce to be given to the poor, workers, and travelers without first separating all tithes"
+  },
+  {
+    "id": "tevel_mixtures",
+    "name": "Mixtures Involving Tevel",
+    "hebrew": "תערובת טבל",
+    "parent_id": "tevel",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Rules for tevel mixed with common produce, tithed produce, or first tithe; calculations for how much must be separated to correct the mixture"
+  },
+  {
+    "id": "demai_eruv",
+    "name": "Use of Demai for Eruv",
+    "hebrew": "עירוב בדמאי",
+    "parent_id": "eruv_chatzeirot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Permissibility of using demai produce for eruv chatzeirot and shitufei mevo'ot; reciting blessings and zimmun over demai"
+  },
+  {
+    "id": "produce_syria_tithes",
+    "name": "Produce of Syria — Tithe Status",
+    "hebrew": "פירות סוריא",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Laws of tithing produce sold or grown in Syria; when declarations of tithing or Land of Israel origin are trusted"
+  },
+  {
+    "id": "partnership_division_tithes",
+    "name": "Dividing Shared Produce Between Chaver and Am HaAretz",
+    "hebrew": "חלוקת שותפות בין חבר לעם הארץ",
+    "parent_id": "chaver_status",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Rules for how a chaver and am haaretz who are partners or co-heirs may divide produce without the chaver violating tithe laws; what divisions are permitted and which are not"
+  },
+  {
+    "id": "agent_reliability_tithes",
+    "name": "Agent Reliability in Tithe Matters (Shliach b'Maasrot)",
+    "hebrew": "שליח במעשרות",
+    "parent_id": "mon_agency",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Rules for trusting an agent sent to purchase tithed produce; when agent's report can be relied upon and when not"
+  },
+  {
+    "id": "innkeeper_produce_exchange",
+    "name": "Innkeeper and Produce Exchange (Suspicion of Switching)",
+    "hebrew": "בעלת פונדק והחלפת פירות",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Suspicion that innkeeper or mother-in-law may exchange produce given to them with untithed produce of their own; resulting tithing obligations on what is returned"
+  },
+  {
+    "id": "produce_gentile_miller",
+    "name": "Produce Ground by Gentile Miller",
+    "hebrew": "טוחן אצל הגוי",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_demai"
+    ],
+    "notes": "Wheat ground at a Gentile miller's mill acquires demai status; contrasted with Samaritan or am haaretz miller where original status is retained"
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "id": "shabbat_domains",
+    "name": "Domains of Shabbat (Reshuyot)",
+    "hebrew": "רשויות שבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Classification of public domain (reshut harabim), private domain (reshut hayachid), karmelit, and exempt domain (mekom patur) for purposes of Shabbat carrying prohibitions"
+  },
+  {
+    "id": "shabbat_eve_activities",
+    "name": "Pre-Shabbat Activities (Erev Shabbat Restrictions)",
+    "hebrew": "מלאכות ערב שבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Restrictions on beginning activities on Shabbat eve that will continue into Shabbat, including the Beit Shammai/Beit Hillel dispute about when one must cease"
+  },
+  {
+    "id": "shabbat_candles",
+    "name": "Shabbat Candles (Hadlakat Nerot Shabbat)",
+    "hebrew": "הדלקת נרות שבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of kindling Shabbat lights, permitted and forbidden wicks and oils, and the obligation to light before Shabbat"
+  },
+  {
+    "id": "hatmanah",
+    "name": "Hatmanah (Insulating Food on Shabbat)",
+    "hebrew": "הטמנה",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of insulating cooked food before Shabbat to keep it warm, including permitted and forbidden insulating materials and heat-generating vs. non-heat-generating materials"
+  },
+  {
+    "id": "bishul_shabbat",
+    "name": "Bishul on Shabbat (Cooking Prohibition)",
+    "hebrew": "בישול בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibition of cooking on Shabbat including chazarah (returning food to the fire), kli rishon/sheni, and related rabbinic decrees"
+  },
+  {
+    "id": "chazarah_shabbat",
+    "name": "Chazarah (Returning Food to Heat on Shabbat)",
+    "hebrew": "חזרה בשבת",
+    "parent_id": "bishul_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws regarding returning a pot to the stove on Shabbat, and the conditions under which it is permitted"
+  },
+  {
+    "id": "refuah_shabbat",
+    "name": "Medical Treatment on Shabbat (Refuah b'Shabbat)",
+    "hebrew": "רפואה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic prohibition on taking medicine or engaging in medical treatments on Shabbat unless there is danger to life, including specific cases of foods and ointments used medicinally"
+  },
+  {
+    "id": "pikuach_nefesh_shabbat",
+    "name": "Pikuach Nefesh (Life-Threatening Danger Overrides Shabbat)",
+    "hebrew": "פיקוח נפש בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that saving life overrides Shabbat, including childbirth, circumcision complications, and related cases"
+  },
+  {
+    "id": "shabbat_carrying_measures",
+    "name": "Measures for Carrying on Shabbat (Shi'urei Hotzaah)",
+    "hebrew": "שיעורי הוצאה בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The minimum measures of various substances for which one becomes liable for carrying in a prohibited domain on Shabbat"
+  },
+  {
+    "id": "shabbat_39_melachot",
+    "name": "Thirty-Nine Melachot (Arba'im Chaser Achat)",
+    "hebrew": "ל\"ט מלאכות",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The enumerated list of the 39 primary categories of prohibited labor on Shabbat derived from the work of the Tabernacle"
+  },
+  {
+    "id": "shabbat_sin_offering_categories",
+    "name": "Sin-Offerings for Shabbat Violations",
+    "hebrew": "חטאות על חילול שבת",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules determining how many sin-offerings one must bring for multiple Shabbat violations, based on awareness, categories of labor, and number of Shabbatot"
+  },
+  {
+    "id": "shabbat_throwing",
+    "name": "Throwing Objects on Shabbat (Zrikah)",
+    "hebrew": "זריקה בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of liability for throwing objects between domains on Shabbat, including objects that pass through a public domain between two private domains"
+  },
+  {
+    "id": "shabbat_knots",
+    "name": "Tying and Untying Knots on Shabbat (Kesher v'Hitarah)",
+    "hebrew": "קשירה והתרה בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labors of tying and untying on Shabbat, including which knots are Torah-level prohibitions and which are rabbinic"
+  },
+  {
+    "id": "shabbat_trapping",
+    "name": "Trapping on Shabbat (Tzeidah)",
+    "hebrew": "צידה בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labor of trapping animals on Shabbat, including minimum enclosure sizes for liability and distinction between domesticated and wild animals"
+  },
+  {
+    "id": "shabbat_writing",
+    "name": "Writing on Shabbat (Ketivah)",
+    "hebrew": "כתיבה בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labor of writing two letters on Shabbat, including valid writing substances, languages, and surfaces"
+  },
+  {
+    "id": "shabbat_building",
+    "name": "Building on Shabbat (Binyan)",
+    "hebrew": "בנין בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labor of building on Shabbat, including any constructive act that endures"
+  },
+  {
+    "id": "shabbat_weaving",
+    "name": "Weaving on Shabbat (Oreg)",
+    "hebrew": "אורג בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labors of weaving, making meshes, sewing, and tearing on Shabbat including minimum measures for liability"
+  },
+  {
+    "id": "shabbat_extinguishing",
+    "name": "Extinguishing Fire on Shabbat (Mechabeh)",
+    "hebrew": "מכבה בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of extinguishing fire on Shabbat, exemptions for fear and the sick, and indirect extinguishing"
+  },
+  {
+    "id": "shabbat_fire_prevention",
+    "name": "Preventing Fire Spread on Shabbat",
+    "hebrew": "הצלה מן הדליקה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of rescuing items from a fire on Shabbat, how much one may rescue, use of barriers, and role of gentile firefighters"
+  },
+  {
+    "id": "shabbat_rescuing_sacred_texts",
+    "name": "Rescuing Sacred Writings from Fire on Shabbat",
+    "hebrew": "הצלת כתבי הקדש מן הדליקה",
+    "parent_id": "shabbat_fire_prevention",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The obligation and limits of rescuing Torah scrolls, Prophets, Writings, and their coverings from fire on Shabbat"
+  },
+  {
+    "id": "shabbat_animal_carrying",
+    "name": "What Animals May Carry on Shabbat",
+    "hebrew": "יציאת בהמה בשבת",
+    "parent_id": "shabbat_uvanimalim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of what equipment and adornments animals may go out with into the public domain on Shabbat, distinguishing protective items from burdens"
+  },
+  {
+    "id": "shabbat_woman_ornaments",
+    "name": "Women's Ornaments on Shabbat",
+    "hebrew": "תכשיטי אשה בשבת",
+    "parent_id": "hotzaah_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of which ornaments and accessories a woman may wear into the public domain on Shabbat and which are considered burdens"
+  },
+  {
+    "id": "shabbat_circumcision_override",
+    "name": "Circumcision Overriding Shabbat",
+    "hebrew": "מילה דוחה שבת",
+    "parent_id": "brit_milah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of how circumcision at its appointed time overrides Shabbat, what preparations may be made on Shabbat, and when the override applies"
+  },
+  {
+    "id": "milah_timing",
+    "name": "Timing of Circumcision (Zman Milah)",
+    "hebrew": "זמן המילה",
+    "parent_id": "brit_milah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing when circumcision is performed — eighth day, ninth, tenth, eleventh, or twelfth day — based on birth circumstances, illness, and Shabbat/Festival coincidence"
+  },
+  {
+    "id": "milah_shreds",
+    "name": "Shreds that Invalidate Circumcision (Tzitzin HaMeakvin)",
+    "hebrew": "ציצין המעכבין את המילה",
+    "parent_id": "brit_milah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Which remaining flesh shreds invalidate a circumcision and require correction, and the requirement to uncover the corona membrane (priah)"
+  },
+  {
+    "id": "shabbat_childbirth",
+    "name": "Childbirth on Shabbat",
+    "hebrew": "לידה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws permitting desecration of Shabbat for a woman giving birth, calling a midwife, and related actions"
+  },
+  {
+    "id": "shabbat_corpse_preparation",
+    "name": "Preparation of a Corpse on Shabbat",
+    "hebrew": "טיפול במת בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "What may and may not be done for a corpse on Shabbat, including anointing, rinsing, moving limbs, and closing eyes"
+  },
+  {
+    "id": "shabbat_muktze_types",
+    "name": "Types of Muktzeh (Categories)",
+    "hebrew": "סוגי מוקצה",
+    "parent_id": "muktzeh",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Different categories of muktzeh including muktzeh machmat gufo, muktzeh machmat chisaron kis, and graf shel re'i (disgusting objects set aside from use)"
+  },
+  {
+    "id": "shabbat_weekday_speech",
+    "name": "Prohibition of Weekday Speech on Shabbat (Dibur b'Shabbat)",
+    "hebrew": "דיבור אסור בשבת",
+    "parent_id": "uvda_dechol_beshabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against discussing weekday activities such as hiring workers or commercial arrangements on Shabbat"
+  },
+  {
+    "id": "shabbat_goy_melacha",
+    "name": "Gentile Performing Labor on Shabbat (Amirah l'Nochri)",
+    "hebrew": "אמירה לנכרי בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws regarding instructing or benefiting from a gentile's performance of prohibited labor on Shabbat, including the cases of a lamp lit by a gentile and a ramp made by a gentile"
+  },
+  {
+    "id": "shabbat_minor_chinuch",
+    "name": "Training Minors in Shabbat Observance (Chinuch)",
+    "hebrew": "חינוך קטן לשבת",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The obligation of parents to prevent children from desecrating Shabbat even though minors are not obligated, as derived from Mishnah Shabbat chapter 16"
+  },
+  {
+    "id": "shabbat_filtering_selecting",
+    "name": "Filtering and Selecting on Shabbat (Borer)",
+    "hebrew": "בורר בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibited labor of selecting on Shabbat, including filtering wine, separating chaff from grain, and similar activities"
+  },
+  {
+    "id": "shabbat_squeezing",
+    "name": "Squeezing Fruits on Shabbat (Sechitah)",
+    "hebrew": "סחיטה בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of squeezing fruits for their juice on Shabbat and the status of liquids that seep from fruit on their own"
+  },
+  {
+    "id": "shabbat_folding_garments",
+    "name": "Folding Garments on Shabbat",
+    "hebrew": "קיפול כלים בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws permitting folding garments on Shabbat for use on Shabbat, and prohibiting folding in preparation for after Shabbat"
+  },
+  {
+    "id": "shabbat_vow_annulment",
+    "name": "Annulling Vows on Shabbat",
+    "hebrew": "התרת נדרים בשבת",
+    "parent_id": "vow_hatarat_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Permission to nullify or dissolve vows on Shabbat when the vow affects Shabbat observance or oneg Shabbat"
+  },
+  {
+    "id": "shabbat_measuring",
+    "name": "Measuring on Shabbat",
+    "hebrew": "מדידה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of measuring on Shabbat and exceptions for measuring a mikveh, a rag for ritual impurity, or for a mitzva purpose"
+  },
+  {
+    "id": "shabbat_eighteen_decrees",
+    "name": "Eighteen Decrees of Beit Shammai",
+    "hebrew": "שמונה עשר דבר",
+    "parent_id": "meth_gezeirah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The eighteen rabbinic decrees issued by Beit Shammai's majority in the upper story of Chananya ben Chizkiya ben Garon, representing a landmark moment in rabbinic legislation"
+  },
+  {
+    "id": "darkei_emori",
+    "name": "Ways of the Amorite (Darkei haEmori)",
+    "hebrew": "דרכי האמורי",
+    "parent_id": "idolatry_theology",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of superstitious practices associated with gentile customs, such as using a fox's tooth or a crucifixion nail as a remedy"
+  },
+  {
+    "id": "shabbat_kli_rishon_sheni",
+    "name": "Primary and Secondary Vessels (Kli Rishon v'Sheni)",
+    "hebrew": "כלי ראשון ושני",
+    "parent_id": "bishul_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between a primary vessel that was on the fire and a secondary vessel into which food was poured, affecting cooking prohibition on Shabbat"
+  },
+  {
+    "id": "shabbat_partial_labor",
+    "name": "Incomplete Labor Performed by Two People (Shenayim she'Asu)",
+    "hebrew": "שנים שעשו",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rule that when two people jointly perform a prohibited labor, each performing only part, they are generally exempt, and its exceptions"
+  },
+  {
+    "id": "shabbat_unusual_manner",
+    "name": "Unusual Manner of Performing Labor on Shabbat (Shinui)",
+    "hebrew": "שינוי בשבת",
+    "parent_id": "shabbat_melachot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that performing a prohibited labor on Shabbat in an unusual manner (shinui) affects liability, including cases of carrying behind one's back"
+  },
+  {
+    "id": "shabbat_loan_borrow",
+    "name": "Borrowing and Lending on Shabbat",
+    "hebrew": "הלוואה ושאלה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws permitting informal borrowing of food or vessels on Shabbat using euphemistic language to avoid commercial transactions"
+  },
+  {
+    "id": "shabbat_raffle_lots",
+    "name": "Drawing Lots on Shabbat",
+    "hebrew": "הגרלה בשבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Permission to draw lots among family members for food portions on Shabbat, and among priests for sacrificial portions on Festivals"
+  },
+  {
+    "id": "shabbat_techum_edge",
+    "name": "Waiting at Techum Boundary on Shabbat Eve",
+    "hebrew": "ממתין בתחום בין השמשות",
+    "parent_id": "techum_shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Law of waiting at the Shabbat boundary at nightfall in order to tend to needs immediately after Shabbat, including permitted and forbidden purposes"
+  },
+  {
+    "id": "shabbat_funeral_needs",
+    "name": "Funeral Preparations at Shabbat's End",
+    "hebrew": "צרכי המת במוצאי שבת",
+    "parent_id": "shabbat",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of waiting at the Shabbat boundary to attend to funeral needs, and use of items prepared by gentiles (coffin, grave) on Shabbat for a Jew"
+  },
+  {
+    "id": "tumat_sheretz_eight",
+    "name": "Eight Sheratzim (Specific Creeping Animals with Impurity)",
+    "hebrew": "שמונה שרצים",
+    "parent_id": "tumat_sheretz",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The eight specific creeping animals listed in Leviticus 11 that transmit ritual impurity, distinct from other creeping animals"
+  },
+  {
+    "id": "tumat_avodah_zarah_carrying",
+    "name": "Idolatry's Impurity by Carrying (Tum'at Masa of Avodah Zarah)",
+    "hebrew": "טומאת משא של עבודה זרה",
+    "parent_id": "tumat_avodah_zarah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The derivation that idolatrous objects transmit impurity by carrying (like a menstruating woman) even without direct contact, derived from Isaiah 30:22"
+  },
+  {
+    "id": "shabbat_shofar_boxes_lottery",
+    "name": "Casting Lots for Priestly Portions on Festivals",
+    "hebrew": "הגרלה לכהנים ביום טוב",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The permissibility of casting lots among priests for sanctified foods on Festivals but not for specific portions"
+  },
+  {
+    "id": "kilayim_garden_bed",
+    "name": "Diverse Species in a Garden Bed (Arugah)",
+    "hebrew": "ערוגה של כלאים",
+    "parent_id": "kilayim_planting",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rule permitting five different species in a six-by-six handbreadth garden bed, one in each corner and one in the center, without violating kilayim"
+  },
+  {
+    "id": "shabbat_semen_impurity_timing",
+    "name": "Duration of Semen's Impurity (Three Days)",
+    "hebrew": "טומאת שכבת זרע שלושה ימים",
+    "parent_id": "tumat_keri",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The derivation that a woman who discharges semen within three days of relations is ritually impure, based on the verse from Exodus 19:15"
+  },
+  {
+    "id": "shabbat_oil_smearing_yom_kippur",
+    "name": "Smearing Oil as Substitute for Drinking on Yom Kippur",
+    "hebrew": "סיכה ביום הכיפורים",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The derivation that anointing/smearing oil is prohibited on Yom Kippur like drinking, based on Psalms 109:18"
+  },
+  {
+    "id": "shabbat_perforated_flowerpot",
+    "name": "Perforated and Unperforated Flowerpots (Atzitz Nakuv)",
+    "hebrew": "עציץ נקוב ושאינו נקוב",
+    "parent_id": "kilayim_planting",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The distinction between a perforated flowerpot (treated as connected to the ground) and unperforated pot for purposes of agricultural laws and Shabbat picking prohibition"
+  },
+  {
+    "id": "shabbat_nail_crucified",
+    "name": "Folk Remedies and Superstitious Cures",
+    "hebrew": "סגולות ורפואות עממיות",
+    "parent_id": "darkei_emori",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Items used as folk remedies such as locust eggs, fox teeth, and nails from the crucified — Rabbi Meir permits, Rabbis prohibit as darkei haEmori"
+  },
+  {
+    "id": "shabbat_flute_funeral",
+    "name": "Flutes at a Funeral on Shabbat",
+    "hebrew": "חלילין בהלוויה בשבת",
+    "parent_id": "fam_hesped",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on a Jew using flutes brought by a gentile on Shabbat for a funeral eulogy unless they were brought from within the techum"
+  },
+  {
+    "id": "shabbat_conditional_grave_coffin",
+    "name": "Coffin and Grave Made by Gentile on Shabbat",
+    "hebrew": "ארון וקבר שעשה נכרי בשבת",
+    "parent_id": "shabbat_goy_melacha",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A coffin or grave made by a gentile on Shabbat: if done for himself, a Jew may use it; if done for a Jew, it is permanently forbidden"
+  }
+]

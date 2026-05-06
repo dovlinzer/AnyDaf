@@ -1,0 +1,431 @@
+[
+  {
+    "id": "megillah_reading_times",
+    "name": "Megillah Reading Times and Locations (Walled vs. Unwalled Cities)",
+    "hebrew": "זמן קריאת המגילה (מוקפת חומה ועיירות)",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Laws governing when Megillah is read — 14th vs. 15th of Adar — based on whether a city was walled since the days of Joshua; includes advancing reading to day of assembly for villages"
+  },
+  {
+    "id": "kerakin_mukafoot_chomah",
+    "name": "Walled Cities (Kerakin Mukafoot Chomah) — Purim on 15th",
+    "hebrew": "כרכים המוקפין חומה מימות יהושע בן נון",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Definition and halakhic status of cities walled since Joshua's time, who read Megillah on the 15th of Adar"
+  },
+  {
+    "id": "yom_hakenisa",
+    "name": "Day of Assembly (Yom HaKenisah) — Advancing Mitzvot",
+    "hebrew": "יום הכניסה",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Rabbinic enactment permitting villages to advance Megillah reading to Monday or Thursday (day of assembly/market day)"
+  },
+  {
+    "id": "matanot_laevyonim_purim",
+    "name": "Gifts to the Poor on Purim (Matanot LaEvyonim)",
+    "hebrew": "מתנות לאביונים",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Obligation to distribute gifts to the poor on Purim; must be performed on actual Purim day even when Megillah reading is advanced"
+  },
+  {
+    "id": "adar_rishon_sheni",
+    "name": "First and Second Adar (Adar Rishon v'Sheni) — Purim Timing",
+    "hebrew": "אדר ראשון ואדר שני",
+    "parent_id": "ibbur_shanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Distinction between first and second Adar in a leap year regarding Megillah reading and Purim observance — Purim is in second Adar"
+  },
+  {
+    "id": "arba_parshiyot",
+    "name": "Four Special Torah Portions (Arba Parshiyot)",
+    "hebrew": "ארבע פרשיות",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The four special Torah portions read on Shabbatot surrounding Adar: Shekalim, Zachor, Parah, HaChodesh"
+  },
+  {
+    "id": "parshat_shekalim",
+    "name": "Parshat Shekalim",
+    "hebrew": "פרשת שקלים",
+    "parent_id": "arba_parshiyot",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Special Torah portion read on Shabbat of or before Rosh Chodesh Adar, relating to the half-shekel Temple tax"
+  },
+  {
+    "id": "parshat_zachor",
+    "name": "Parshat Zachor",
+    "hebrew": "פרשת זכור",
+    "parent_id": "arba_parshiyot",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Special Torah portion read on the Shabbat before Purim; mitzva to remember/eradicate Amalek"
+  },
+  {
+    "id": "parshat_parah",
+    "name": "Parshat Parah",
+    "hebrew": "פרשת פרה",
+    "parent_id": "arba_parshiyot",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Special Torah portion about the Red Heifer read on the third special Shabbat, to prepare for Passover purity"
+  },
+  {
+    "id": "parshat_hachodesh",
+    "name": "Parshat HaChodesh",
+    "hebrew": "פרשת החודש",
+    "parent_id": "arba_parshiyot",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Special Torah portion about the first month (Exodus 12) read on the fourth special Shabbat before Passover"
+  },
+  {
+    "id": "keriat_hatorah_minyan_aliyot",
+    "name": "Number of Torah Readers (Aliyot) by Day",
+    "hebrew": "מניין העולים לתורה לפי הימים",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Rules governing the number of people called up to read Torah: 3 on Monday/Thursday/Shabbat Mincha, 4 on Rosh Chodesh/Chol HaMoed, 5 on Yom Tov, 6 on Yom Kippur, 7 on Shabbat"
+  },
+  {
+    "id": "haftarah_laws",
+    "name": "Laws of Haftarah Reading",
+    "hebrew": "הלכות הפטרה",
+    "parent_id": "haftorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "When haftarah is read, who reads it, skipping within Prophets, the person who reads haftarah also leads other parts of service"
+  },
+  {
+    "id": "torah_reading_blessings",
+    "name": "Blessings Before and After Torah Reading",
+    "hebrew": "ברכות התורה לפני ואחרי הקריאה",
+    "parent_id": "birchot_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Who recites blessings before and after the Torah reading — first and last reader bless; middle readers do not"
+  },
+  {
+    "id": "torah_reading_minimum_verses",
+    "name": "Minimum Verses in Torah Reading",
+    "hebrew": "שיעור הקריאה בתורה (שלושה פסוקים)",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Each Torah reader must read a minimum of three verses; rules about reading to a translator one verse at a time"
+  },
+  {
+    "id": "targum_torah_reading",
+    "name": "Aramaic Translation (Targum) During Torah Reading",
+    "hebrew": "תרגום בקריאת התורה",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Rules about translating Torah and Prophets into Aramaic during public reading — one verse at a time for Torah, three for Prophets"
+  },
+  {
+    "id": "davar_shebekedushah_asarah",
+    "name": "Requirements of Ten for Sacred Matters (Davar shebKedushah)",
+    "hebrew": "דבר שבקדושה בעשרה",
+    "parent_id": "quorum_for_prayer",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "List of sacred activities requiring a minyan of ten: Shema blessings, prayer repetition, Priestly Blessing, Torah reading, haftarah, funeral rites, bridegroom's blessing, zimmun with God's name"
+  },
+  {
+    "id": "kedushat_beit_knesset",
+    "name": "Sanctity of Synagogue (Kedushat Beit Knesset)",
+    "hebrew": "קדושת בית הכנסת",
+    "parent_id": "synagogues",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Halakhic sanctity of synagogues and their sale; restrictions on uses even in ruin; hierarchy of sacred objects"
+  },
+  {
+    "id": "mechiras_beit_knesset",
+    "name": "Sale of a Synagogue (Mechirat Beit Knesset)",
+    "hebrew": "מכירת בית הכנסת",
+    "parent_id": "kedushat_beit_knesset",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Rules governing the sale of a synagogue — conditions, permitted uses after sale, downgrading of sanctity prohibition"
+  },
+  {
+    "id": "kedushot_ascending_descending",
+    "name": "Hierarchy of Sacred Objects (Maalot HaKedushah)",
+    "hebrew": "מעלות הקדושה — עולין בקודש ואין מורידין",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Principle of ascending in sanctity and not descending — proceeds from sale of sacred items may only purchase items of greater sanctity"
+  },
+  {
+    "id": "megillah_writing_requirements",
+    "name": "Requirements for Writing the Megillah",
+    "hebrew": "הלכות כתיבת המגילה",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Megillah must be written in Ashurit (Hebrew script), on parchment, with ink; specific invalid writing materials listed"
+  },
+  {
+    "id": "megillah_reading_requirements",
+    "name": "Requirements for Reading the Megillah (Keriat HaMegillah)",
+    "hebrew": "הלכות קריאת המגילה",
+    "parent_id": "purim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Reading must be in order, not by heart, not in translation one doesn't understand; who is obligated and who may read; need for intent"
+  },
+  {
+    "id": "megillah_who_reads",
+    "name": "Who is Fit to Read the Megillah",
+    "hebrew": "הכשרים לקרוא את המגילה",
+    "parent_id": "megillah_reading_requirements",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "All are fit to read except deaf-mute, imbecile, and minor (Rabbi Yehuda permits a minor); language requirements"
+  },
+  {
+    "id": "kol_hayom_kosher",
+    "name": "All-Day Validity of Mitzvot (Kol HaYom Kasher)",
+    "hebrew": "כל היום כשר למצוות היום",
+    "parent_id": "meth_deorayta_derabanan",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Principle that mitzvot of the day may be performed any time during the day; parallel principle for nighttime mitzvot"
+  },
+  {
+    "id": "torah_reading_public_prohibited_sections",
+    "name": "Prohibited Sections in Public Torah Reading and Translation",
+    "hebrew": "סדרי קריאה — נקרא ולא מתורגם, לא נקרא ולא מתורגם",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Certain Torah passages (Reuben/Bilhah, second Golden Calf narrative, Priestly Benediction, David/Amnon) are read but not translated or neither read nor translated in public"
+  },
+  {
+    "id": "maaseh_merkavah_haftarah",
+    "name": "Prohibition to Use Maaseh Merkavah as Haftarah",
+    "hebrew": "אין מפטירין במרכבה",
+    "parent_id": "maaseh_merkavah",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Prohibition to conclude public Torah reading with the section of the Divine Chariot (Ezekiel 1); Rabbi Yehuda permits it"
+  },
+  {
+    "id": "prayer_leader_qualifications",
+    "name": "Qualifications of Prayer Leader (Shaliach Tzibbur)",
+    "hebrew": "כשרות שליח ציבור",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Who may lead public prayer — restrictions on those with exposed limbs, the blind (dispute), heretics; also covers Priestly Blessing eligibility"
+  },
+  {
+    "id": "heretical_prayer_formulations",
+    "name": "Heretical Prayer Formulations (Minim in Prayer)",
+    "hebrew": "נוסחות תפילה של מינים",
+    "parent_id": "apikorsut",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Prayers that indicate heretical belief — 'may the good bless You,' double 'we give thanks,' extending mercy of shiluach haken to all — are silenced"
+  },
+  {
+    "id": "tefillin_shape_placement",
+    "name": "Shape and Placement of Tefillin",
+    "hebrew": "צורת התפילין ומקומן",
+    "parent_id": "tefillin",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Round tefillin are invalid; placement on forehead (not above hairline) or palm (not bicep) are ways of heretics; gold-plated or worn on outside of sleeve are ways of outsiders"
+  },
+  {
+    "id": "birkhat_kohanim_eligibility",
+    "name": "Eligibility for Priestly Blessing (Birchat Kohanim — Who May Duchen)",
+    "hebrew": "כשרות לנשיאת כפיים",
+    "parent_id": "birchat_kohanim",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Priests with blemished or discolored hands, those who attract undue attention, may not duchen; rules about who performs the blessing in connection with Torah reading service"
+  },
+  {
+    "id": "maavar_lifnei_hatevah",
+    "name": "Passing Before the Ark (Maavar Lifnei HaTevah)",
+    "hebrew": "עובר לפני התיבה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Rules about who leads the repeated Amida prayer — connection to haftarah reader, restrictions on those in colored/no-sandal garments"
+  },
+  {
+    "id": "hakhel",
+    "name": "Hakhel (Assembly of the Nation)",
+    "hebrew": "הקהל",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Commandment for the king to read Deuteronomy before all Israel on Sukkot following the Sabbatical year; mentioned as an example of a mitzvah that is postponed rather than advanced"
+  },
+  {
+    "id": "maaneh_kohanim_mishmeret",
+    "name": "Non-Priestly Watches (Anshei Ma'amad)",
+    "hebrew": "אנשי מעמד",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Representatives of the lay public who accompanied or fasted during the priestly watches; they read from Creation in the Torah; mentioned in context of special Torah reading occasions"
+  },
+  {
+    "id": "special_torah_portions_moadim",
+    "name": "Special Torah Portions for Holidays and Occasions",
+    "hebrew": "קריאות מיוחדות לשבתות ומועדים",
+    "parent_id": "keriat_hatorah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The specific Torah portions assigned for each holiday: Passover, Shavuot, Rosh HaShanah, Yom Kippur, Sukkot, Hanukkah, Purim, Rosh Chodesh, fast days"
+  },
+  {
+    "id": "zimmun_shem_asarah",
+    "name": "Zimmun with God's Name (Zimmun beShem with Ten)",
+    "hebrew": "זימון בשם בעשרה",
+    "parent_id": "birkat_hamazon",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The elevated form of zimmun using God's name requires ten adult men present"
+  },
+  {
+    "id": "hesped_shurot_nihum",
+    "name": "Funeral Eulogy Rows and Comforting Mourners (Shurot Nichum Aveilim)",
+    "hebrew": "שורות ניחום אבלים",
+    "parent_id": "fam_nichum_aveilim",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Practice of mourners standing and community passing in rows to comfort them; requires a minyan of ten"
+  },
+  {
+    "id": "birchat_chatanim_asarah",
+    "name": "Bridegroom's Blessing Requires Ten (Birchat Chatanim)",
+    "hebrew": "ברכת חתנים בעשרה",
+    "parent_id": "mar_nisuin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The seven wedding blessings (sheva brachot) require a quorum of ten men"
+  },
+  {
+    "id": "megillah_language",
+    "name": "Language of Megillah Reading",
+    "hebrew": "לשון קריאת המגילה",
+    "parent_id": "megillah_reading_requirements",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "Foreign-language speakers may hear Megillah in their language; one who hears it in Hebrew (Ashurit) fulfills obligation regardless of language; reading by heart or in unknown language does not fulfill obligation"
+  },
+  {
+    "id": "kohen_gadol_par_helam_davar",
+    "name": "Bull of Anointed Kohen Gadol for Erroneous Ruling",
+    "hebrew": "פר כהן משיח על שגגת הוראה",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The anointed (oil) High Priest brings a special bull if he issued an erroneous ruling and acted upon it; the multi-garment High Priest does not bring this offering"
+  },
+  {
+    "id": "beit_olam_vs_beit_olam_walled",
+    "name": "Halakhic Distinction of Walled vs. Unwalled in Various Contexts",
+    "hebrew": "הבדל בין מוקף חומה לשאינו מוקף חומה",
+    "parent_id": "batei_arei_chomah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_megillah"
+    ],
+    "notes": "The concept of walled cities (from Joshua's time) appears in multiple halakhic contexts: Purim reading, eating consecrated food near Shiloh/Jerusalem, redemption of houses"
+  }
+]

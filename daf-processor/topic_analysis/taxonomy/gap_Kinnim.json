@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kinim_bird_offerings_mixing",
+    "name": "Kinim — Mixed Bird Offerings (Laws of Mixed-Up Pairs)",
+    "hebrew": "קינים — תערובת עופות",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing what happens when bird pairs (hatat and olah) become mixed up with each other or with other bird offerings, including rules of invalidation and valid remainder"
+  },
+  {
+    "id": "bird_hatat",
+    "name": "Bird Hatat (Chatat haOf)",
+    "hebrew": "חטאת העוף",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific laws of the bird sin-offering, performed below the red line on the altar, distinct from beast chatat"
+  },
+  {
+    "id": "bird_olah",
+    "name": "Bird Olah (Olat haOf)",
+    "hebrew": "עולת העוף",
+    "parent_id": "olah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific laws of the bird burnt-offering, performed above the red line on the altar, distinct from beast olah"
+  },
+  {
+    "id": "chut_hamidah_mizbeach",
+    "name": "Red Line of the Altar (Chut haSikra)",
+    "hebrew": "חוט הסיקרא של המזבח",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The red line dividing the upper and lower halves of the outer altar, which determines where bird and beast offerings are performed"
+  },
+  {
+    "id": "obligatory_bird_offerings",
+    "name": "Obligatory Bird Offerings (Kinnim Chovat)",
+    "hebrew": "קן חובה",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Bird pairs brought as obligatory offerings (e.g., for birth, zivah), consisting of one hatat and one olah"
+  },
+  {
+    "id": "voluntary_bird_offerings",
+    "name": "Voluntary Bird Offerings (Kinnim Nedavah)",
+    "hebrew": "קן נדבה",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Bird pairs brought as freewill or vow offerings, all of which are olot; no hatat is included"
+  },
+  {
+    "id": "assigned_unassigned_bird_pairs",
+    "name": "Assigned and Unassigned Bird Pairs (Mefurashin v'she'Einan Mefurashin)",
+    "hebrew": "מפורשין ושאינן מפורשין",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between bird pairs that have been assigned to specific purposes (hatat or olah) and those that have not yet been designated"
+  },
+  {
+    "id": "bird_pair_escaping_mixing",
+    "name": "Bird Flying Away and Invalidating Offerings",
+    "hebrew": "עוף שפרח ופסל",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules governing when a bird from a pair flies away into other groups of birds, the consequent invalidation, and calculation of which offerings remain valid"
+  },
+  {
+    "id": "turtledove_pigeon_pairing",
+    "name": "Pairing of Turtledoves and Pigeons",
+    "hebrew": "צמד תורים ובני יונה",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rule that turtledoves and pigeons cannot be paired together for a single kin; the hatat and olah must be of the same species"
+  },
+  {
+    "id": "left_to_die_yumtu",
+    "name": "Leaving Invalid Birds to Die (Yumtu)",
+    "hebrew": "ימותו",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Halakhic ruling that certain mixed or invalid bird offerings must be left to die rather than offered or redeemed"
+  },
+  {
+    "id": "kinim_priestly_discretion",
+    "name": "Priestly Discretion in Offering Kinnim",
+    "hebrew": "כהן הנמלך בקינים",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws concerning whether the priest seeks guidance before offering mixed bird pairs, and the different outcomes depending on whether advice was sought"
+  },
+  {
+    "id": "kinim_women_obligations",
+    "name": "Women's Obligations for Kinnim",
+    "hebrew": "חיוב האשה בקינים",
+    "parent_id": "kinim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific scenarios involving women who owe bird offerings for birth or zivah and the rules when multiple women's pairs become mixed"
+  },
+  {
+    "id": "conditional_vow_birth",
+    "name": "Conditional Vow Contingent on Birth",
+    "hebrew": "נדר על תנאי של לידה",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A vow made contingent on giving birth, e.g., 'I vow a pair of birds if I give birth to a male child,' and the halakhic obligations that result"
+  },
+  {
+    "id": "scholars_improve_with_age",
+    "name": "Torah Scholars' Wisdom Increasing with Age",
+    "hebrew": "תלמידי חכמים כל זמן שמזקינין דעתן מתיישבת עליהן",
+    "parent_id": "wisdom_seeking",
+    "category": "ETHICS AND CHARACTER",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that Torah scholars grow wiser with age, contrasted with unlearned people whose intellect diminishes; from the end of tractate Kinnim"
+  }
+]

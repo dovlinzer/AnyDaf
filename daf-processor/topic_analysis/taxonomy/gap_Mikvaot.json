@@ -1,0 +1,244 @@
+[
+  {
+    "id": "mikveh_shiur_forty_seah",
+    "name": "Shiur of Forty Seah (Mikveh Minimum Measure)",
+    "hebrew": "שיעור ארבעים סאה במקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The requirement that a mikveh contain at least forty seahs of valid water; debates about what happens when a mikveh is found to be lacking"
+  },
+  {
+    "id": "mikveh_drawn_water_pesul",
+    "name": "Drawn Water Invalidating a Mikveh (Mayim She'uvim)",
+    "hebrew": "מים שאובים הפוסלים את המקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rule that three logs of drawn water (mayim she'uvim) invalidate a mikveh; details of when and how this applies, including cases of doubt"
+  },
+  {
+    "id": "mikveh_degrees_categories",
+    "name": "Six Degrees/Categories of Mikveh Water",
+    "hebrew": "שישה מדרגות של מקוואות",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The hierarchy of water sources for immersion: pools, cisterns, rain flows, springs, living waters, etc., each with different purifying capacities"
+  },
+  {
+    "id": "mayim_chayyim",
+    "name": "Living Waters (Mayim Chayyim)",
+    "hebrew": "מים חיים",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Flowing spring water (mayim chayyim) required for purification of zavim, metzoraim, and preparation of mei chatat; distinguished from mikveh water"
+  },
+  {
+    "id": "mikveh_hashakah",
+    "name": "Hashakah (Connecting Two Mikvaot)",
+    "hebrew": "השקה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The halakhic mechanism of connecting two bodies of water so that valid mikveh water renders drawn water valid; minimum hole size required (tube of a water-skin)"
+  },
+  {
+    "id": "mikveh_color_change",
+    "name": "Color Change Invalidating a Mikveh",
+    "hebrew": "מקווה שנשתנה מראיו",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether wine, olive sap, or dye that changes the color of mikveh water invalidates it; distinction between color change and actual mixing of liquids"
+  },
+  {
+    "id": "chatzitzah_vessels",
+    "name": "Chatzitzah on Vessels (Interposition Blocking Immersion of Utensils)",
+    "hebrew": "חציצה בכלים",
+    "parent_id": "chatzitzah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Materials (pitch, myrrh, clay, etc.) that block valid immersion of vessels; distinction based on whether the owner minds the substance being there"
+  },
+  {
+    "id": "chatzitzah_persons",
+    "name": "Chatzitzah on Persons (Interposition Blocking Immersion of People)",
+    "hebrew": "חציצה באנשים",
+    "parent_id": "chatzitzah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Materials (threads, matted hair, pus, excrement, dough, clay) that block valid immersion of persons; rule that hidden or wrinkled parts do not require water penetration"
+  },
+  {
+    "id": "mikveh_vessel_immersion_requirements",
+    "name": "Requirements for Valid Immersion of Vessels",
+    "hebrew": "דיני טבילת כלים",
+    "parent_id": "tevilat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific requirements for vessels to be validly immersed: orientation in water, handles, knots, sealed containers, water entering inside; practical rules for tefillin, sandals, water-skins"
+  },
+  {
+    "id": "mikveh_sea_equivalence",
+    "name": "The Sea as Equivalent to a Mikveh",
+    "hebrew": "הים כמקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute whether all seas are valid as a mikveh or only the Great Sea; whether flowing seawater is valid for zavim and metzoraim"
+  },
+  {
+    "id": "mikveh_retroactive_unfitness",
+    "name": "Retroactive Unfitness of Mikveh (Lemafrea)",
+    "hebrew": "מקווה שנמצא חסר למפרע",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a mikveh is measured and found to lack forty seahs, all prior immersions are retroactively invalid; distinction between major and minor impurity"
+  },
+  {
+    "id": "mikveh_snow_hail_ice",
+    "name": "Snow, Hail, and Ice in a Mikveh",
+    "hebrew": "שלג וברד וכפור וקרח במקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether snow, hail, frozen dew, ice, salt, and thin mud can complete the forty-seah requirement of a mikveh; they supplement but do not invalidate"
+  },
+  {
+    "id": "mikveh_liquids_other_than_water",
+    "name": "Other Liquids in a Mikveh (Juice, Wine, Brine)",
+    "hebrew": "שאר משקים במקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Status of grape juice, wine, brine, fish brine, and grape-skin wine that fell into a mikveh; whether they can supplement the forty seahs or invalidate"
+  },
+  {
+    "id": "mikveh_spring_water",
+    "name": "Spring Water (Ma'ayan) — Laws and Status",
+    "hebrew": "דיני המעיין",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Spring water purifies in any quantity when flowing; distinctions between a spring and a mikveh; what happens when a spring is channeled through vessels or troughs"
+  },
+  {
+    "id": "tumat_keri_seminal_emission_details",
+    "name": "Details of Seminal Emission Impurity (Keri)",
+    "hebrew": "פרטי טומאת קרי",
+    "parent_id": "tumat_keri",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Details of what constitutes keri impurity: murky urine, white viscous fluid, heated flesh after a dream, drops from the member; timing of woman's discharge after intercourse"
+  },
+  {
+    "id": "mikveh_purity_eretz_yisrael",
+    "name": "Purity Status of Mikvaot in the Land of Israel vs. Diaspora",
+    "hebrew": "מקוואות ארץ ישראל לעומת חוץ לארץ",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Land of Israel declared clean; mikvaot of gentiles outside Israel valid for keri; within Israel, location relative to city entrance affects validity for different levels of impurity"
+  },
+  {
+    "id": "mikveh_connection_adjacent",
+    "name": "Adjacent Mikvaot — Pooling Together (Hibur Mikvaot)",
+    "hebrew": "חיבור מקוואות זה לזה",
+    "parent_id": "mikveh_hashakah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for when two adjacent mikvaot are considered joined (e.g., crack in wall, hole size); how water from one renders the other valid"
+  },
+  {
+    "id": "immersion_doubt_safek",
+    "name": "Doubtful Immersion (Safek Tevilah)",
+    "hebrew": "ספק טבילה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Status of person when there is doubt whether they immersed, or whether the mikveh had the required measure; distinction between doubt in public vs. private domain"
+  },
+  {
+    "id": "swallowed_object_immersion",
+    "name": "Swallowed Objects and Immersion",
+    "hebrew": "בלע טבעת וטבל",
+    "parent_id": "tevilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Status of a ring or other object swallowed by a person who then immerses or enters a tent of a corpse; whether the object is purified or remains impure after being vomited up"
+  },
+  {
+    "id": "immersion_food_impurity_body",
+    "name": "Effect of Immersion on Impurity Caused by Eating Unclean Foods",
+    "hebrew": "טבל אחר אכילת אוכלים טמאים",
+    "parent_id": "tevilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Foods and liquids that cause bodily unfitness requiring immersion; the combining of all liquids for the quarter-log measure; whether immersion after eating unclean food removes the impurity of the food itself"
+  },
+  {
+    "id": "mikveh_vessel_orientation",
+    "name": "Orientation of Vessels During Immersion",
+    "hebrew": "כלי שטבלו כשפיו למטה",
+    "parent_id": "tevilat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A vessel immersed with its mouth downward is not validly immersed; vessels narrow at both ends or with inward-turned mouths require special handling"
+  },
+  {
+    "id": "mikveh_bathhouse_pool",
+    "name": "Bathhouse Pools and Mikveh Validity",
+    "hebrew": "אמבטי ומרחץ כמקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules regarding bath basins, their outlets, and the 'purifier' pipe in a bathhouse; when drawn water in the lower pipe invalidates the valid water above"
+  }
+]

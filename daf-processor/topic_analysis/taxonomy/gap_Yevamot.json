@@ -1,0 +1,387 @@
+[
+  {
+    "id": "yibbum_levirate_marriage",
+    "name": "Yibbum (Levirate Marriage)",
+    "hebrew": "יִבּוּם",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Detailed laws of levirate marriage: who is obligated, how it is performed, acquisition of the yevama, and cases where it is inapplicable"
+  },
+  {
+    "id": "tzarat_ervah",
+    "name": "Tzarat Ervah (Rival Wife of Forbidden Relative)",
+    "hebrew": "צָרַת עֶרְוָה",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Exemption of rival wife from levirate marriage when the other wife is a forbidden relative of the yavam; chain of rival wives of rival wives"
+  },
+  {
+    "id": "chalitzah_details",
+    "name": "Ḥalitza — Procedural Details",
+    "hebrew": "חֲלִיצָה — פרטי הדין",
+    "parent_id": "mar_chalitzah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Detailed laws of ḥalitza: the shoe, the court of three, the text recited, spitting, validity of ḥalitza under various conditions, night, left foot, missing limbs"
+  },
+  {
+    "id": "maavar_levirate_betrothal",
+    "name": "Ma'amar (Levirate Betrothal)",
+    "hebrew": "מַאֲמָר",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Rabbinic act of betrothal by a yavam to a yevama; effect on requiring a get in addition to chalitzah; distinction from full levirate marriage"
+  },
+  {
+    "id": "fifteen_forbidden_relatives_yibbum",
+    "name": "Fifteen Forbidden Relatives Exempt from Yibbum",
+    "hebrew": "חֲמֵשׁ עֶשְׂרֵה נָשִׁים",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "The fifteen categories of women who are forbidden to the yavam as close relatives and are therefore exempt from both yibbum and chalitzah"
+  },
+  {
+    "id": "aylonit",
+    "name": "Aylonit (Sexually Underdeveloped Woman)",
+    "hebrew": "אַיְלוֹנִית",
+    "parent_id": "fam_hermaphrodite",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "A woman incapable of bearing children due to developmental conditions; her effect on marriage, levirate marriage, teruma, and priestly marriage"
+  },
+  {
+    "id": "saris",
+    "name": "Saris (Eunuch)",
+    "hebrew": "סָרִיס",
+    "parent_id": "fam_hermaphrodite",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Distinction between saris chamah (congenital eunuch) and saris adam (castrated eunuch); their obligations in chalitzah, levirate marriage, and marital law"
+  },
+  {
+    "id": "petzua_dakka_kerut_shofkha",
+    "name": "Petzua Dakka and Kerut Shofkha (Genital Injuries Prohibiting Marriage)",
+    "hebrew": "פְּצוּעַ דַּכָּא וּכְרוּת שׇׁפְכָה",
+    "parent_id": "fam_cohen_marriage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Men with crushed testicles or severed penis who are prohibited from marrying women born Jewish; their status regarding teruma and marriage"
+  },
+  {
+    "id": "kahal_entrance_prohibition",
+    "name": "Entering the Congregation (Issur Kahal)",
+    "hebrew": "לֹא יָבֹא בִּקְהַל ה'",
+    "parent_id": "fam_intermarriage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Prohibition of Ammonites, Moabites, Egyptians, Edomites, mamzerim, Gibeonites, petzua dakka, and kerut shofkha from marrying into the congregation of Israel"
+  },
+  {
+    "id": "gibeonite_netinin",
+    "name": "Gibeonites (Netinin)",
+    "hebrew": "נְתִינִים",
+    "parent_id": "fam_intermarriage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Gibeonites who converted in Joshua's time; their prohibition from entering the congregation and marrying Jews of unflawed lineage, eternally"
+  },
+  {
+    "id": "mi_ani_vehalad",
+    "name": "Testimony of Wife Regarding Husband's Death for Remarriage",
+    "hebrew": "עֵדוּת אִשָּׁה לְהִנָּשֵׂא",
+    "parent_id": "courts_testimony",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Special rules permitting a woman to testify about her husband's death to allow remarriage; one witness; hearsay; testimony of women, slaves, and gentiles; credibility standards"
+  },
+  {
+    "id": "ishah_sheniseit_beter_eda_sheker",
+    "name": "Woman Who Remarried Based on False Testimony",
+    "hebrew": "אִשָּׁה שֶׁנִּשֵּׂאת עַל פִּי עֵד אֶחָד שֶׁבַּעְלָהּ מֵת",
+    "parent_id": "fam_agunah",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Laws governing a woman who remarried based on testimony that her husband died, and her husband later returned; she must leave both husbands, offspring is mamzer, various penalties"
+  },
+  {
+    "id": "maamar_get_chalitzah_sequence",
+    "name": "Sequence of Ma'amar, Get, and Ḥalitza in Levirate Situations",
+    "hebrew": "סֵדֶר מַאֲמָר גֵּט וְחֲלִיצָה",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "What actions are effective or ineffective after prior acts by the yavam: get after get, ma'amar after ma'amar, intercourse, ḥalitza; the debate between Rabban Gamliel and the Rabbis"
+  },
+  {
+    "id": "terumah_eligibility_marriage",
+    "name": "Eligibility to Eat Teruma Based on Marital Status",
+    "hebrew": "אֲכִילַת תְּרוּמָה עַל פִּי נִשּׂוּאִין",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "When an Israelite woman married to a priest may eat teruma; disqualification through forbidden unions; effects of pregnancy, children, betrothal, and yibbum bond on teruma rights"
+  },
+  {
+    "id": "halal_halalah",
+    "name": "Ḥalal and Ḥalala (Disqualified Priestly Lineage)",
+    "hebrew": "חָלָל וַחֲלָלָה",
+    "parent_id": "fam_chalal",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Status of children born of forbidden priestly unions; disqualification from priestly privileges and teruma; how a woman becomes a ḥalala through intercourse with a disqualified priest"
+  },
+  {
+    "id": "meiut_mamzerim_offspring",
+    "name": "Mamzer Offspring from Forbidden Relations",
+    "hebrew": "וָלָד מַמְזֵר",
+    "parent_id": "fam_mamzer",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Definition of mamzer: dispute between Rabbi Akiva, Shimon HaTimni, Rabbi Yehoshua — whether it arises from any prohibition, karet-level, or capital-level forbidden relations"
+  },
+  {
+    "id": "beit_shammai_beit_hillel_rivalwife",
+    "name": "Beit Shammai and Beit Hillel Dispute on Rival Wives",
+    "hebrew": "מַחְלֹקֶת בֵּית שַׁמַּאי וּבֵית הִלֵּל בְּצָרוֹת",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "The fundamental dispute between Beit Shammai (permitting rival wives for levirate marriage) and Beit Hillel (forbidding them); practical consequences; their practice of intermarriage despite the dispute"
+  },
+  {
+    "id": "mi_ani_child_death_order",
+    "name": "Testimony on Order of Deaths for Levirate Exemption",
+    "hebrew": "עֵדוּת עַל סֵדֶר מִיתוֹת לְעִנְיַן יִבּוּם",
+    "parent_id": "courts_testimony",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Cases where a woman testifies about whether her husband or child died first; presumptive status and its effect on the credibility of testimony regarding yibbum obligation"
+  },
+  {
+    "id": "meiun_refusal_minor",
+    "name": "Mi'un (Refusal of a Minor Girl to Continue Her Marriage)",
+    "hebrew": "מֵאוּן",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Rabbinic institution allowing a minor girl married by her mother or brothers to refuse her husband; effect on levirate marriage, disqualification from priesthood, repeat refusals; Beit Shammai and Beit Hillel dispute"
+  },
+  {
+    "id": "mixed_offspring_safeik_yichus",
+    "name": "Mixed Offspring (Offspring of Uncertain Patrilineage)",
+    "hebrew": "נִתְעָרְבוּ וְלָדוֹת",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Cases where children's lineage is uncertain due to mixing; rules for chalitzah and levirate marriage; status for teruma, Temple service, inheritance, and priestly purity"
+  },
+  {
+    "id": "convert_brother_no_yibbum",
+    "name": "Converts: No Levirate Bond Between Brothers",
+    "hebrew": "גֵּר שֶׁנִּתְגַּיֵּר — אֵין לוֹ יִבּוּם",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Sons who converted with their mother are not considered brothers for purposes of levirate marriage or chalitzah; conversion is like rebirth"
+  },
+  {
+    "id": "three_month_waiting_remarriage",
+    "name": "Three-Month Waiting Period Before Remarriage",
+    "hebrew": "הַמְתָּנַת שְׁלֹשָׁה חֳדָשִׁים",
+    "parent_id": "mar_second_marriage",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Requirement for widows and divorcées to wait three months before remarrying in order to establish paternity; who is included; exceptions; dispute between Rabbi Yehuda and Rabbi Yosei"
+  },
+  {
+    "id": "pru_urvu_obligation_details",
+    "name": "Fulfillment and Details of the Mitzva of Procreation",
+    "hebrew": "פְּרִיָּה וּרְבִיָּה — פְּרָטִים",
+    "parent_id": "fam_pru_urvu",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Number of children required; Beit Shammai vs. Beit Hillel; ten-year waiting period before divorcing an infertile wife; whether women are obligated"
+  },
+  {
+    "id": "high_priest_marriage_restrictions",
+    "name": "High Priest's Marriage Restrictions",
+    "hebrew": "אִסּוּרֵי נִשּׂוּאִין לְכֹהֵן גָּדוֹל",
+    "parent_id": "fam_cohen_marriage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "High Priest may not marry a widow, divorcée, ḥalutza, or grown woman (bogeret); may only marry a virgin; betrothal before appointment; High Priest must perform chalitzah not yibbum"
+  },
+  {
+    "id": "ishah_mezanah_betrumah",
+    "name": "Disqualification of Kohen's Wife from Teruma by Intercourse",
+    "hebrew": "פְּסוּל אֵשֶׁת כֹּהֵן מִתְּרוּמָה",
+    "parent_id": "terumah_eligibility_marriage",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "How forbidden intercourse or betrothal to prohibited men disqualifies a priest's wife from eating teruma; betrothal vs. marriage for this purpose; dispute between Rabbi Elazar/Shimon and the Sages"
+  },
+  {
+    "id": "body_water_testimony_death",
+    "name": "Falling into Water — Testimony of Death",
+    "hebrew": "נָפַל לַמַּיִם — עֵדוּת לְהַתִּיר אִשְׁתּוֹ",
+    "parent_id": "mi_ani_vehalad",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "When a man falls into water, rules about testifying to his death; distinction between water with visible end and without visible end; cases from tradition"
+  },
+  {
+    "id": "partzuf_identification_dead",
+    "name": "Identification of the Dead (Partzuf and Simanim)",
+    "hebrew": "הַכָּרַת הַמֵּת — פַּרְצוּף וְסִימָנִים",
+    "parent_id": "courts_testimony",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Requirement to identify a corpse by the facial features (partzuf); three-day limit; inadequacy of bodily marks or belongings alone for testimony permitting remarriage"
+  },
+  {
+    "id": "bat_kol_testimony_death",
+    "name": "Relying on a Disembodied Voice (Bat Kol) for Permitting Remarriage",
+    "hebrew": "בַּת קוֹל לְהַתִּיר אִשָּׁה לְהִנָּשֵׂא",
+    "parent_id": "mi_ani_vehalad",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Unusual leniency of relying on a disembodied voice as evidence of a husband's death; specific cases cited in the Mishnah"
+  },
+  {
+    "id": "single_witness_death_husband",
+    "name": "Single Witness Testifying to Husband's Death",
+    "hebrew": "עֵד אֶחָד לְמִיתַת הַבַּעַל",
+    "parent_id": "courts_eid_echad",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Special rabbinic leniency allowing a woman to remarry based on one witness testifying to her husband's death; tradition from Rabban Gamliel the Elder; inclusion of women, slaves, hearsay"
+  },
+  {
+    "id": "rival_wife_testimony_inadmissible",
+    "name": "Rival Wife's Testimony — Inadmissibility",
+    "hebrew": "צָרָה — פְּסוּלָה לְהָעִיד",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Five categories of women not deemed credible to testify about each other's husbands' deaths due to conflicts of interest: rival wife, mother-in-law, stepdaughter, daughter of mother-in-law, yavam's wife"
+  },
+  {
+    "id": "ammonite_moabite_prohibition",
+    "name": "Prohibition of Ammonite and Moabite Converts",
+    "hebrew": "עַמּוֹנִי וּמוֹאָבִי — לֹא יָבֹאוּ בִּקְהַל",
+    "parent_id": "kahal_entrance_prohibition",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Ammonite and Moabite males are prohibited from marrying into the Jewish people eternally; their females are permitted immediately; distinction from Egyptian and Edomite converts"
+  },
+  {
+    "id": "wife_brother_did_not_coexist",
+    "name": "Wife of a Brother With Whom He Did Not Coexist",
+    "hebrew": "אֵשֶׁת אָח שֶׁלֹּא הָיָה בְּעוֹלָמוֹ",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "A brother born after the first brother's death has no levirate bond with the first brother's widow; the exemption of the wife of a brother who predeceased the yavam's birth"
+  },
+  {
+    "id": "zikah_levirate_bond",
+    "name": "Zikah (Levirate Bond)",
+    "hebrew": "זִיקָה",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "The halakhic bond between a widow and her surviving brother-in-law (yavam) prior to yibbum or chalitzah; its effects on remarriage, teruma, and rival wives"
+  },
+  {
+    "id": "ketubah_yevama",
+    "name": "Ketubah of a Yevama",
+    "hebrew": "כְּתוּבַּת יְבָמָה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "The yevama's marriage contract rights: payable from first husband's estate; property rights during the waiting period; Beit Shammai and Beit Hillel dispute on inheritance if she dies"
+  },
+  {
+    "id": "bechor_brother_inheritance_yavam",
+    "name": "Yavam's Inheritance of Deceased Brother's Estate",
+    "hebrew": "יָרֻשַּׁת הַיָּבָם",
+    "parent_id": "mon_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_yevamot"
+    ],
+    "notes": "Whether a yavam who consummates levirate marriage acquires his brother's estate solely, or shares equally with other brothers; dispute including Rabbi Yehuda's view about the father's priority"
+  }
+]

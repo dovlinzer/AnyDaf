@@ -1,0 +1,387 @@
+[
+  {
+    "id": "partition_mekhitza_jointly_owned",
+    "name": "Partition of Jointly Owned Property (Meḥitza)",
+    "hebrew": "מחיצה בנכסים משותפים",
+    "parent_id": "mon_partnerships",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing construction of partitions in jointly owned courtyards, including materials, thickness, cost-sharing, and ownership of fallen walls (Bava Batra ch. 1)"
+  },
+  {
+    "id": "chezkat_yishuv_ir",
+    "name": "Residency Requirements for City Membership",
+    "hebrew": "חזקת ישוב עיר",
+    "parent_id": "mon_chazakah_presumption",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws determining when a resident becomes obligated in communal expenses such as walls and gates; twelve-month rule vs. purchasing a home (Bava Batra 1:5)"
+  },
+  {
+    "id": "chazkat_shalosh_shanim",
+    "name": "Presumptive Ownership After Three Years (Chazkat Shalosh Shanim)",
+    "hebrew": "חזקת שלוש שנים",
+    "parent_id": "mon_kinyan_chazakah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific rule that three years of working and profiting from land establishes presumptive ownership; different rules for irrigated vs. non-irrigated fields (Bava Batra ch. 3)"
+  },
+  {
+    "id": "taanah_bechazakah",
+    "name": "Claim Required to Validate Possession (Taanah)",
+    "hebrew": "טענה בחזקה",
+    "parent_id": "mon_kinyan_chazakah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement that possessor of land must provide a valid claim explaining how he became owner for the chazakah to be effective (Bava Batra 3:3)"
+  },
+  {
+    "id": "harchakat_nezikin",
+    "name": "Distancing Requirements to Prevent Damage (Harchakat Nezikin)",
+    "hebrew": "הרחקת נזיקין",
+    "parent_id": "mon_damages_nezek",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific minimum distances required between various objects/activities and a neighbor's property to prevent damage: pits, trees, threshing floors, tanneries, dovecotes, etc. (Bava Batra ch. 2)"
+  },
+  {
+    "id": "hizkei_shechenim",
+    "name": "Neighbor Damage Rights (Hizkei Shechenim)",
+    "hebrew": "היזקי שכנים",
+    "parent_id": "mon_hezek_reiyah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rights and restrictions between neighbors regarding windows, openings, noise, smoke, odors, and other disturbances in shared courtyards and adjacent properties (Bava Batra ch. 2-3)"
+  },
+  {
+    "id": "chazkat_batim_sadot",
+    "name": "Presumptive Ownership of Houses and Fields",
+    "hebrew": "חזקת בתים ושדות",
+    "parent_id": "mon_kinyan_chazakah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific application of chazakah to different types of property including houses, pits, cisterns, bathhouses, slaves, irrigated and non-irrigated fields (Bava Batra ch. 3)"
+  },
+  {
+    "id": "zechut_derekh_vemaavar",
+    "name": "Right of Way and Access (Zechut Derekh)",
+    "hebrew": "זכות דרך ומעבר",
+    "parent_id": "mon_neighbors",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of access paths, public thoroughfares, private paths, and right of way including seller's right to access retained property through buyer's land (Bava Batra 4:2, 6:6-7)"
+  },
+  {
+    "id": "mechirat_bayit_vehasagot",
+    "name": "What is Included in Sale of a House",
+    "hebrew": "מכירת בית וכלל הנמכר עמו",
+    "parent_id": "mon_sales",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed rules about which components are included in the sale of a house, courtyard, field, ship, or city when sold without specification vs. with 'all that is in it' (Bava Batra ch. 4)"
+  },
+  {
+    "id": "mechirat_sadeh_vehasagot",
+    "name": "What is Included in Sale of a Field",
+    "hebrew": "מכירת שדה וכלל הנמכר עמו",
+    "parent_id": "mon_sales",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about what is included when selling a field: stones, reeds, attached produce, watch stations, carob trees, cisterns, etc. (Bava Batra ch. 4)"
+  },
+  {
+    "id": "midot_sadeh_beit_kor",
+    "name": "Field Measurements and Discrepancies in Sales (Beit Kor)",
+    "hebrew": "מידות שדה ובית כור",
+    "parent_id": "mon_mekach_taut",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules governing land sales where the area is specified by measure; what happens when the actual area differs from stated area, including the quarter-kav per se'a tolerance (Bava Batra ch. 7)"
+  },
+  {
+    "id": "yerushat_habanim_vebirkhorat",
+    "name": "Order of Inheritance and Firstborn's Double Portion",
+    "hebrew": "סדר הירושה ופי שניים לבכור",
+    "parent_id": "mon_bekhor_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed order of precedence in inheritance including son before daughter, descendants, brothers, and the firstborn's double portion; daughters' maintenance from the estate (Bava Batra ch. 8)"
+  },
+  {
+    "id": "yerushah_banim_uvanot",
+    "name": "Sons vs. Daughters in Inheritance",
+    "hebrew": "בנים ובנות בירושה",
+    "parent_id": "mon_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between sons who inherit and daughters who receive maintenance (mezonot) from estate; daughters inherit only when there are no sons; daughters' maintenance vs. sons' inheritance (Bava Batra ch. 8-9)"
+  },
+  {
+    "id": "yerushah_minhag_yerushah",
+    "name": "Bequeathing Contrary to Torah Order of Inheritance",
+    "hebrew": "הפקעת סדר ירושה",
+    "parent_id": "mon_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Ability to transfer property contrary to Torah inheritance order through gifts rather than inheritance declarations; deathbed gifts vs. inheritance orders (Bava Batra 8:5)"
+  },
+  {
+    "id": "shtar_mekuyyam_veshtar_gamur",
+    "name": "Tied vs. Ordinary Legal Documents (Mekuyyam)",
+    "hebrew": "שטר פשוט ושטר מקושר",
+    "parent_id": "courts_legal_documents",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between ordinary (pashut) and tied/folded (mekushshar) documents; number of witnesses required for each; placement of signatures (Bava Batra ch. 10)"
+  },
+  {
+    "id": "shtar_mechikah_vesirug",
+    "name": "Erased or Contradictory Amounts in Documents",
+    "hebrew": "שטר עם סכומים סותרים או מחוקים",
+    "parent_id": "courts_legal_documents",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules when a promissory note contains contradictory amounts or erased text; principle of following the lower amount and the bottom entry (Bava Batra 10:2)"
+  },
+  {
+    "id": "arev_kablan",
+    "name": "Guarantor After Loan (Arev she'Achar Matan Maaseh)",
+    "hebrew": "ערב לאחר מתן מעות",
+    "parent_id": "mon_guarantor",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between a guarantor who committed before the loan was made vs. after; Ben Nannas's ruling that post-loan guarantors have no obligation since the lender did not rely on them (Bava Batra 10:8)"
+  },
+  {
+    "id": "milveh_bishtar_veal_peh",
+    "name": "Loan by Promissory Note vs. Oral Loan — Lien on Sold Property",
+    "hebrew": "מלוה בשטר ומלוה על פה וגביית משועבדים",
+    "parent_id": "mon_liens",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between promissory note loan (can collect from sold/liened property) vs. oral loan or handwritten note without witnesses (can collect only from unsold property) (Bava Batra 10:8)"
+  },
+  {
+    "id": "sivlonot_tnai_nisuin",
+    "name": "Pre-Wedding Gifts (Sivlonot)",
+    "hebrew": "סבלונות",
+    "parent_id": "mar_tenaim",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Gifts sent by groom to bride's father's house after betrothal and their recoverability if the marriage is not completed; depends on whether groom ate a groom's feast (Bava Batra 9:5)"
+  },
+  {
+    "id": "matnat_shechiv_mera_kinyan",
+    "name": "Act of Acquisition for Deathbed Gift",
+    "hebrew": "קניין במתנת שכיב מרע",
+    "parent_id": "mon_deathbed_gifts",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether a deathbed gift requires a formal act of acquisition or whether verbal instruction suffices; dispute between Rabbi Elazar and Rabbi Yehoshua/Eliezer (Bava Batra 9:7)"
+  },
+  {
+    "id": "dayetikei_tzavaah",
+    "name": "Will / Testament (Dayetikei)",
+    "hebrew": "דייתיקי",
+    "parent_id": "mon_deathbed_gifts",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of a written will or testament, its validity, requirements for delivery, and distinction between a will found on the deceased vs. one properly transferred (Bava Batra 8:6, 9:6)"
+  },
+  {
+    "id": "nefila_al_beit_av",
+    "name": "Inheritance When Both Die Simultaneously (Beit Collapsed)",
+    "hebrew": "בית שנפל על אב ובנו",
+    "parent_id": "mon_inheritance",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel when house collapses on father and son or husband and wife and order of death is unknown; rules for dividing disputed inheritance (Bava Batra ch. 9)"
+  },
+  {
+    "id": "minkat_sadeh_vegufen",
+    "name": "Minimum Size for Division of Property",
+    "hebrew": "שיעור חלוקת קרקע",
+    "parent_id": "mon_partnerships",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Minimum sizes required before court will divide jointly owned property: four by four cubits for courtyard, nine kav for field, half-kav for garden, etc. (Bava Batra 1:6)"
+  },
+  {
+    "id": "hazkarat_shem_kishefatayim",
+    "name": "Two People with Identical Names in One City",
+    "hebrew": "שניים ששמם שווה בעיר אחת",
+    "parent_id": "courts_legal_documents",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Problem of two people sharing identical names in the same city for purposes of legal documents; how to distinguish them and what happens to promissory notes when one is paid (Bava Batra 10:7)"
+  },
+  {
+    "id": "kever_kubrin_catacomb",
+    "name": "Catacomb (Kever) Construction Standards",
+    "hebrew": "מבנה קברים וכוכים",
+    "parent_id": "cemetery",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws on dimensions of burial chambers, niches (kukhin), and courtyards when constructing an underground catacomb (Bava Batra 6:8)"
+  },
+  {
+    "id": "chazkat_mavoi_vemaavar",
+    "name": "Acquired Privilege for Communal Easements (Chazkat Mavoi)",
+    "hebrew": "חזקת מבוי ומעבר",
+    "parent_id": "mon_neighbors",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about when one acquires a prescriptive easement for use of another's property including spouts, gutters, windows, ladders, projections — fixed vs. movable structures (Bava Batra 3:6)"
+  },
+  {
+    "id": "ilan_venikpat_leschar",
+    "name": "Trees Sold for Felling — What Seller Retains",
+    "hebrew": "מכירת אילנות לקציצה",
+    "parent_id": "mon_sales",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When buying trees in another's field — two trees vs. three trees and whether land is acquired; rights to new growth from trunk vs. roots; what happens if trees die (Bava Batra 5:4)"
+  },
+  {
+    "id": "kinyan_meshicha_produce",
+    "name": "Acquisition of Produce by Pulling (Meshichah)",
+    "hebrew": "קניין משיכה בפירות",
+    "parent_id": "mon_kinyan_meshicha",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rules about when pulling vs. measuring effects acquisition of produce; when renting a place effects acquisition; different rules for flax (Bava Batra 5:7)"
+  },
+  {
+    "id": "minhag_hamidah_umishkal",
+    "name": "Honest Measuring and Weighing Practices",
+    "hebrew": "מידה ומשקל נאמנים",
+    "parent_id": "eth_honest_weights",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Practical obligations of sellers: cleaning measuring vessels, dripping three extra drops, tilting scales for buyer, following regional customs for heaping or leveling (Bava Batra ch. 5)"
+  },
+  {
+    "id": "tochnit_binyan_bayit",
+    "name": "Standard Building Dimensions",
+    "hebrew": "מידות בנייה תקניות",
+    "parent_id": "NEW:Architecture and Construction Law",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Standard dimensions for various building types: small house, large house, banquet hall, bridal home, cowshed, and their heights proportional to length and width (Bava Batra 6:4)"
+  },
+  {
+    "id": "tzinor_veagaf_reshut_harabim",
+    "name": "Projections into Public Domain",
+    "hebrew": "זיזים ואגפים לרשות הרבים",
+    "parent_id": "mon_neighbors",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on extending balconies and projections into public domain; acquired privilege of existing projections; digging underneath public domain (Bava Batra 3:8)"
+  },
+  {
+    "id": "matanah_kol_hanechasim",
+    "name": "Giving Away All One's Property",
+    "hebrew": "מתנת כל הנכסים",
+    "parent_id": "mon_deathbed_gifts",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for a person on his deathbed who writes away all his property; whether gift stands if he recovers; requirement to reserve some land; healthy person giving away all property (Bava Batra 9:6)"
+  },
+  {
+    "id": "shtar_chov_meuchak",
+    "name": "Erased Promissory Note — Ratification",
+    "hebrew": "שטר שנמחק וקיומו",
+    "parent_id": "courts_legal_documents",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Procedure for ratifying a promissory note that has been erased: producing witnesses who remember its contents and having court issue a new ratification document (Bava Batra 10:6)"
+  },
+  {
+    "id": "parchos_shtar_piraon",
+    "name": "Receipt for Partial Debt Payment",
+    "hebrew": "שובר על פירעון חלקי",
+    "parent_id": "mon_receipts",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Rabbi Yehuda and Rabbi Yosei about whether to exchange note for smaller one or issue a receipt for partial payment; danger of receipt being destroyed by mice (Bava Batra 10:6)"
+  },
+  {
+    "id": "maaseh_beitror_uminuy_sofer",
+    "name": "Scribe's Rules for Writing Documents",
+    "hebrew": "דיני הסופר בכתיבת שטרות",
+    "parent_id": "courts_scribe",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about when a scribe may write a document for one party without the other being present: get, receipt, promissory note, bill of sale, betrothal documents, sharecropping contracts (Bava Batra ch. 10)"
+  }
+]

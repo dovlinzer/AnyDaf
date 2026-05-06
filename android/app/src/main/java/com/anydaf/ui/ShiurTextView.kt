@@ -1,17 +1,24 @@
 package com.anydaf.ui
 
 import androidx.compose.foundation.isSystemInDarkTheme
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Print
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -165,7 +172,8 @@ private fun containsHebrew(text: String): Boolean =
 fun ShiurTextView(
     rewriteText: String,
     currentSegmentIndex: Int,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    onPrint: (() -> Unit)? = null
 ) {
     val blueMode = LocalIsBlueMode.current
     // Amber on blue background or dark theme; brand blue on white/parchment light theme
@@ -184,9 +192,10 @@ fun ShiurTextView(
         if (idx >= 0) listState.animateScrollToItem(idx)
     }
 
+    Box(modifier = modifier) {
     LazyColumn(
         state = listState,
-        modifier = modifier.padding(horizontal = 18.dp)
+        modifier = Modifier.fillMaxSize().padding(horizontal = 18.dp)
     ) {
         itemsIndexed(blocks) { _, block ->
             when (block) {
@@ -313,5 +322,22 @@ fun ShiurTextView(
                 }
             }
         }
+    } // LazyColumn
+    if (onPrint != null) {
+        IconButton(
+            onClick = onPrint,
+            modifier = Modifier
+                .align(Alignment.TopEnd)
+                .size(40.dp)
+                .padding(4.dp)
+        ) {
+            Icon(
+                Icons.Default.Print,
+                contentDescription = "Print",
+                modifier = Modifier.size(20.dp),
+                tint = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface).copy(alpha = 0.5f)
+            )
+        }
     }
+    } // Box
 }

@@ -1,0 +1,387 @@
+[
+  {
+    "id": "menachot_kometz",
+    "name": "Kemitzah (Removal of the Handful)",
+    "hebrew": "קמיצה",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "The rite of removing the handful from a meal offering; covers who may perform it, how it is done, disqualifying intentions, left-hand removal, outsized/lacking handful, etc."
+  },
+  {
+    "id": "shirayim_minchah",
+    "name": "Shirayim (Remainder of the Meal Offering)",
+    "hebrew": "שיריים",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "The remainder of the meal offering after the handful is burned; rules about its consumption by priests, conditions under which it is permitted or forbidden."
+  },
+  {
+    "id": "minchah_chotei_sotah_disqualification",
+    "name": "Meal Offering of Sinner and Sota — Special Disqualification Rules",
+    "hebrew": "מנחת חוטא ומנחת קנאות",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "The meal offering of a sinner and the sota's jealousy meal offering are disqualified if any of the four rites (kemitzah, placing in vessel, conveying, burning) is performed not for their sake, unlike other meal offerings."
+  },
+  {
+    "id": "machavat_marcheshet",
+    "name": "Machavat and Marcheshet (Shallow and Deep Pan Meal Offerings)",
+    "hebrew": "מחבת ומרחשת",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Two types of pan-prepared meal offerings; differences in their preparation (depth, cover, consistency of product) and halakhic interchangeability when vowed."
+  },
+  {
+    "id": "lechem_hapanim_shulchan_details",
+    "name": "Shewbread — Detailed Laws of Arrangement and Replacement",
+    "hebrew": "לחם הפנים — הסדר והחלפה",
+    "parent_id": "lechem_hapanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Detailed rules: dimensions of loaves, placement on Table, gold panels and rods, simultaneous removal and placement to ensure constant presence, distribution on Shabbat."
+  },
+  {
+    "id": "shtei_halechem_shavuot_details",
+    "name": "Shtei HaLechem — Detailed Laws of the Two Loaves",
+    "hebrew": "שתי הלחם",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Detailed laws of the two loaves on Shavuot: leavening method, dimensions, relation to accompanying lambs, whether they prevent or are prevented by each other."
+  },
+  {
+    "id": "omer_harvest_rite",
+    "name": "Omer Harvest Rite",
+    "hebrew": "קצירת העומר",
+    "parent_id": "minchat_omer",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Detailed procedure for harvesting the omer: fashioning sheaves, nighttime reaping, public ceremony with repeated declarations, rebuttal of Boethusian practice."
+  },
+  {
+    "id": "chadash_issur_details",
+    "name": "Chadash — Prohibition and Permitting by the Omer",
+    "hebrew": "איסור חדש והיתרו על ידי העומר",
+    "parent_id": "chadash",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "The omer permits the new grain crop; timing of permission for those near vs. far from Jerusalem; Rabban Yochanan ben Zakkai's post-Temple enactment; five grain species and their joining."
+  },
+  {
+    "id": "five_grains",
+    "name": "Five Grain Species (Chamesh Minei Dagan)",
+    "hebrew": "חמשת מיני דגן",
+    "parent_id": "kashrut_category",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Wheat, barley, spelt, oats, and rye — the five species obligated in challah, subject to chadash prohibition, and joining together for the measure."
+  },
+  {
+    "id": "menorah_oil_grades",
+    "name": "Grades of Olive Oil for Menorah and Meal Offerings",
+    "hebrew": "דרגות שמן זית למנורה ולמנחות",
+    "parent_id": "menorah_temple",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Three harvests, each producing three grades of oil; first grade for Candelabrum, remainder for meal offerings; ranking of nine grades; geography of optimal oil sources."
+  },
+  {
+    "id": "nesachim_wine_quality",
+    "name": "Wine Quality Requirements for Libations",
+    "hebrew": "כשרות יין הנסכים",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Rules about which wines are valid or invalid for libations; forbidden types (irrigated, fertilized vineyard, smoked, boiled, sweet, etc.); geographic sources of best wine."
+  },
+  {
+    "id": "measuring_vessels_temple",
+    "name": "Measuring Vessels of the Temple (Midot)",
+    "hebrew": "מדות המקדש",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Dry and liquid measuring vessels used in the Temple for meal offerings and libations; their sizes, purposes, and the sanctity of their overflows."
+  },
+  {
+    "id": "ibbur_libations_mixing",
+    "name": "Intermingling of Libations",
+    "hebrew": "עירוב נסכים",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Rules about mixing libations of bulls with rams, lambs with lambs, individual with communal, same day with previous day; when mixing validates or invalidates."
+  },
+  {
+    "id": "semichah_korban_details",
+    "name": "Placing Hands on Offering — Detailed Laws",
+    "hebrew": "פרטי דיני סמיכה",
+    "parent_id": "semichah_korban",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Who performs semichah; who is exempt (deaf-mute, minor, blind, gentile, slave, agent, woman); requirement to lean with two hands; immediate slaughter following; comparison with tenufah."
+  },
+  {
+    "id": "tenufah_details",
+    "name": "Tenufah (Waving) — Detailed Laws",
+    "hebrew": "פרטי דיני תנופה",
+    "parent_id": "tenufah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Which offerings require waving vs. bringing near; manner of waving (four directions, up and down); waving of live animals vs. slaughtered; comparison with semichah."
+  },
+  {
+    "id": "hagashah",
+    "name": "Hagashah (Bringing the Meal Offering Near)",
+    "hebrew": "הגשה",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "The rite of bringing the meal offering near the southwest corner of the altar; which meal offerings require it; distinction from tenufah; order of rites."
+  },
+  {
+    "id": "bikkurim_waving",
+    "name": "Waving of Bikkurim",
+    "hebrew": "תנופת ביכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "First fruits require waving but not bringing near, per Rabbi Eliezer ben Yaakov."
+  },
+  {
+    "id": "minchah_leavening_prohibition",
+    "name": "Prohibition of Leavening Meal Offerings",
+    "hebrew": "איסור חימוץ במנחות",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Most meal offerings must be matza; method of kneading with lukewarm water; lashing for leavening at each stage of preparation (kneading, shaping, baking)."
+  },
+  {
+    "id": "minchah_oil_frankincense_requirements",
+    "name": "Oil and Frankincense Requirements of Meal Offerings",
+    "hebrew": "שמן ולבונה במנחות",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Classification of meal offerings by whether they require oil, frankincense, both, or neither; prohibition of adding oil or frankincense to sinner's or sota's meal offering."
+  },
+  {
+    "id": "chalot_todah_details",
+    "name": "Loaves of the Thanks Offering — Detailed Laws",
+    "hebrew": "חלות תודה",
+    "parent_id": "korban_todah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Forty loaves (ten each of four types); measures of flour and oil; terumah loaf given to priest; consecration of loaves dependent on valid slaughter; use of non-sacred vs. second-tithe money."
+  },
+  {
+    "id": "maaser_sheni_korbanot",
+    "name": "Second-Tithe Money for Offerings and Libations",
+    "hebrew": "מעשר שני לקרבנות ונסכים",
+    "parent_id": "maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Rules about when second-tithe money may or may not be used to purchase obligatory offerings, voluntary offerings, or libations; libations may never come from second-tithe money."
+  },
+  {
+    "id": "beit_onias",
+    "name": "Temple of Onias (Beit Chonyo)",
+    "hebrew": "בית חוניו",
+    "parent_id": "bamah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Egyptian temple built by Onias; offerings sacrificed there do not fulfill obligations; priests who served there may not serve in Jerusalem; halakhic status compared to blemished priests."
+  },
+  {
+    "id": "kavvanah_lshem_shamayim",
+    "name": "Directing One's Heart to Heaven in Offerings",
+    "hebrew": "מתכוון לשם שמים בקרבנות",
+    "parent_id": "kavvanah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Final mishna principle: one who brings a large offering and one who brings a meager offering have equal merit if they direct their heart to Heaven."
+  },
+  {
+    "id": "meuneh_grain_quality",
+    "name": "Quality Requirements for Grain Used in Meal Offerings",
+    "hebrew": "מצות הקמח במנחות",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Geographic sources of optimal flour (Makhnis, Zateḥa, Aforayim); prohibition of fertilized, irrigated, or tree-shaded fields; inspection method; sifting requirements."
+  },
+  {
+    "id": "melo_kometz_shiur",
+    "name": "Measure of the Handful (Melo Kometz)",
+    "hebrew": "מלא קומץ",
+    "parent_id": "menachot_kometz",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Definition of a valid handful: neither overflowing with fingers apart nor taken with fingertips only; how the priest folds fingers onto palm; role of foreign objects disqualifying the handful."
+  },
+  {
+    "id": "kohen_gadol_minchah_daily",
+    "name": "High Priest's Daily Griddle-Cake Offering (Chavitei Kohen Gadol)",
+    "hebrew": "חביתי כהן גדול",
+    "parent_id": "minchat_chavitin",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Half offered in morning, half in afternoon; brought as whole and divided by High Priest; rules when High Priest dies mid-day; whether it comes from communal or heirs' funds."
+  },
+  {
+    "id": "shewbread_table_dimensions",
+    "name": "Dimensions and Structure of the Shewbread Table",
+    "hebrew": "מידות שולחן לחם הפנים",
+    "parent_id": "shulchan_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Dispute between Rabbi Yehuda and Rabbi Meir over cubit size; dimensions of loaves and table; placement of loaves and frankincense bowls; gold panels and rods supporting the loaves."
+  },
+  {
+    "id": "baking_two_loaves_shewbread",
+    "name": "Baking of Two Loaves and Shewbread",
+    "hebrew": "אפיית שתי הלחם ולחם הפנים",
+    "parent_id": "lechem_hapanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Where kneading and baking take place (inside/outside courtyard); whether preparation overrides Shabbat or Festival; use of mold (defus); minimum and maximum days from baking to eating."
+  },
+  {
+    "id": "mechsher_minchah_breaking",
+    "name": "Breaking Meal Offerings into Pieces (Petitah)",
+    "hebrew": "פתיתת המנחות",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Procedure for breaking loaves into olive-bulk pieces; differences between Israelite meal offering, priestly meal offering, and High Priest's offering; folding method."
+  },
+  {
+    "id": "minchah_vessel_consecration",
+    "name": "Consecration of Meal Offering in a Service Vessel",
+    "hebrew": "קידוש מנחה בכלי שרת",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Whether handful must be sanctified in a service vessel; dispute between Rabbi Shimon and the Sages; procedures inside vs. outside the Temple courtyard."
+  },
+  {
+    "id": "mevatel_mitzvah_components",
+    "name": "Preventing Fulfillment by Absence of Ritual Components",
+    "hebrew": "מעכב זה את זה במצוות",
+    "parent_id": "meth_davar_shebeMinyan",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Extensive list of paired or grouped ritual components that prevent each other: goats of Yom Kippur, lambs and loaves of Shavuot, branches of menorah, passages of mezuzah and tefillin, four species, leper purification components, etc."
+  },
+  {
+    "id": "vow_meal_offering_specifics",
+    "name": "Vows to Bring Specific Meal Offerings",
+    "hebrew": "נדר מנחה מסוימת",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Rules when one vows a specific type of meal offering (pan vs. deep pan, loaves vs. wafers, specific measures); bringing wrong type; what happens when the specification was vague."
+  },
+  {
+    "id": "vow_animal_offering_specifics",
+    "name": "Vows to Bring Specific Animal Offerings",
+    "hebrew": "נדר קרבן בהמה מסוים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Rules for vague vows to bring burnt offerings or peace offerings; what animals must be brought when the animal type is unspecified; obligations of value vs. type."
+  },
+  {
+    "id": "pidyon_hekdesh_blemished_vow",
+    "name": "Redeeming a Blemished Consecrated Animal",
+    "hebrew": "פדיון קדשים שנסתאבו",
+    "parent_id": "pidyon_hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "When a consecrated animal becomes blemished, it may be redeemed and its value used to purchase a replacement; rules about combining or splitting redemption money for replacement offerings."
+  },
+  {
+    "id": "flour_meal_offering_grain_types",
+    "name": "Valid Grain Types for Voluntary Meal Offerings",
+    "hebrew": "מינים כשרים למנחת נדבה",
+    "parent_id": "minchot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_menachot"
+    ],
+    "notes": "Voluntary meal offerings must come from wheat (fine flour), not barley; must include oil and frankincense; minimum measure of one tenth of an ephah; no partial tenths."
+  }
+]

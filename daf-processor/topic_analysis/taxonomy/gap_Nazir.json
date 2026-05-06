@@ -1,0 +1,310 @@
+[
+  {
+    "id": "nazir_nazirite_vow",
+    "name": "Nazirite Vow (Nezirut)",
+    "hebrew": "נזירות",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "The laws of naziriteship: vow formulations, duration, prohibitions, and conclusion. Core topic of tractate Nazir."
+  },
+  {
+    "id": "nazir_prohibitions",
+    "name": "Nazirite Prohibitions (Issurei Nazir)",
+    "hebrew": "איסורי נזיר",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Three categories: wine and grape products, shaving, corpse impurity."
+  },
+  {
+    "id": "nazir_grape_products",
+    "name": "Nazirite Prohibition on Grape Products",
+    "hebrew": "איסור יוצא מן הגפן לנזיר",
+    "parent_id": "nazir_prohibitions",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Prohibition on wine, grapes, chartzanim and zaggim (skins and seeds); combining quantities; olive-bulk threshold."
+  },
+  {
+    "id": "nazir_shaving_prohibition",
+    "name": "Nazirite Prohibition on Shaving (Taar HaNazir)",
+    "hebrew": "תער הנזיר",
+    "parent_id": "nazir_prohibitions",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Prohibition on cutting hair during naziriteship; what actions constitute a violation; shampooing vs. combing."
+  },
+  {
+    "id": "nazir_corpse_impurity",
+    "name": "Nazirite Prohibition on Corpse Impurity",
+    "hebrew": "טומאת מת לנזיר",
+    "parent_id": "nazir_prohibitions",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Prohibition on contracting corpse impurity; which sources of impurity obligate shaving; met mitzvah exception."
+  },
+  {
+    "id": "nazir_duration_term",
+    "name": "Duration of Nazirite Term",
+    "hebrew": "זמן הנזירות",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Default thirty-day term; extended terms; vow formulations affecting duration; multiple consecutive naziriteships."
+  },
+  {
+    "id": "nazir_samson_type",
+    "name": "Nazirite Like Samson (Nezirut Shimshon)",
+    "hebrew": "נזירות שמשון",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Permanent naziriteship modeled after Samson; cannot lighten hair; no offering for impurity; distinction from ordinary permanent nazirite."
+  },
+  {
+    "id": "nazir_permanent_nazirite",
+    "name": "Permanent Nazirite (Nazir Olam)",
+    "hebrew": "נזיר עולם",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "One who vows naziriteship forever; may lighten hair when it grows heavy; brings offerings like completing a term."
+  },
+  {
+    "id": "nazir_shaving_purity",
+    "name": "Nazirite Shaving of Purity (Giluach Taharah)",
+    "hebrew": "גילוח טהרה",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Shaving and offerings at completion of pure nazirite term; procedure, order of offerings, throwing hair under the pot."
+  },
+  {
+    "id": "nazir_shaving_impurity",
+    "name": "Nazirite Shaving of Impurity (Giluach Tumah)",
+    "hebrew": "גילוח טומאה",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Shaving and offerings when nazirite becomes impure mid-term; sprinkling on third and seventh days; negating the tally."
+  },
+  {
+    "id": "nazir_offerings",
+    "name": "Nazirite Offerings (Korbanot Nazir)",
+    "hebrew": "קרבנות נזיר",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Three offerings at end of naziriteship (sin, burnt, peace offering); bird offerings for impurity; wave offering of cooked foreleg."
+  },
+  {
+    "id": "nazir_nullification_husband",
+    "name": "Husband's Nullification of Wife's Naziriteship",
+    "hebrew": "הפרת נזירות האשה על ידי הבעל",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "When and how a husband can nullify his wife's nazirite vow; effect on separated offerings; limits of nullification after offerings begun."
+  },
+  {
+    "id": "nazir_father_son",
+    "name": "Father's Naziriteship for Minor Son",
+    "hebrew": "נזירות האב על בנו הקטן",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "A father may impose naziriteship on his minor son; son may reject it; disposition of already-separated offerings."
+  },
+  {
+    "id": "nazir_outside_israel",
+    "name": "Naziriteship Observed Outside Eretz Yisrael",
+    "hebrew": "נזירות בחוצה לארץ",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Dispute of Beit Shammai and Beit Hillel whether one must repeat naziriteship upon arriving in Eretz Yisrael; case of Queen Helene."
+  },
+  {
+    "id": "nazir_impurity_negates_tally",
+    "name": "Impurity Negating the Nazirite Tally",
+    "hebrew": "טומאה שמבטלת את מניין הנזיר",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Rules for when corpse impurity negates all or part of the days counted; disputes between Sages."
+  },
+  {
+    "id": "nazir_conditional_vow",
+    "name": "Conditional Nazirite Vow",
+    "hebrew": "נזירות על תנאי",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Vow contingent on birth of son, outcome of battle, etc.; what happens if condition is met mid-term."
+  },
+  {
+    "id": "nazir_vow_language",
+    "name": "Language and Substitutes for Nazirite Vow",
+    "hebrew": "לשון נזירות ותחליפיה",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Valid substitute terms (nazik, nazi'ach, pazi'ach); intimations of nazirite vows; partial statements binding as naziriteship."
+  },
+  {
+    "id": "nazir_erroneous_consecration",
+    "name": "Erroneous Consecration (Hakdasha b'Ta'ut)",
+    "hebrew": "הקדשה בטעות",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Dispute of Beit Shammai and Beit Hillel whether erroneous consecration takes effect; cases of misidentified animals and objects."
+  },
+  {
+    "id": "nazir_uncertain_impurity",
+    "name": "Uncertain Impurity of Nazirite (Safek Tumah shel Nazir)",
+    "hebrew": "ספק טומאת נזיר",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Two nazirites where one may have become impure; procedures for offerings under uncertainty; case of the unknown impurity."
+  },
+  {
+    "id": "nazir_tumah_depths",
+    "name": "Impurity of the Depths (Tumat HaTehom)",
+    "hebrew": "טומאת התהום",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Unknown impurity from a corpse buried in the depths; does not negate a nazirite's tally; distinction from known impurity."
+  },
+  {
+    "id": "nazir_high_priest_met_mitzvah",
+    "name": "High Priest and Nazirite vs. Met Mitzvah",
+    "hebrew": "כהן גדול ונזיר לעומת מת מצווה",
+    "parent_id": "met_mitzvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Dispute whether High Priest or nazirite must tend to met mitzvah when both are present; relative sanctity and offering obligations."
+  },
+  {
+    "id": "nazir_leper_nazirite",
+    "name": "Nazirite Who Is Also a Leper",
+    "hebrew": "נזיר שהוא מצורע",
+    "parent_id": "tzaraat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Complex interaction when nazirite also has leprosy; shaving obligations of each conflict; procedure over 120-day period."
+  },
+  {
+    "id": "nazir_gentile_slave_woman",
+    "name": "Naziriteship of Women, Slaves, and Gentiles",
+    "hebrew": "נזירות האשה, העבד והנכרי",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Gentiles excluded from naziriteship; women and Canaanite slaves included; relative stringencies between women and slaves."
+  },
+  {
+    "id": "nazir_samuel_nazirite",
+    "name": "Samuel the Prophet as Nazirite",
+    "hebrew": "שמואל הנביא כנזיר",
+    "parent_id": "biblical_figures",
+    "category": "BIBLICAL FIGURES AND NARRATIVES",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Aggadic discussion on whether Samuel was a nazirite based on the word 'mora' in Hannah's prayer; comparison with Samson."
+  },
+  {
+    "id": "nazir_cemetery_vow",
+    "name": "Taking Nazirite Vow While in a Cemetery",
+    "hebrew": "נדר נזירות בבית הקברות",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "Days spent in a cemetery at start of naziriteship do not count toward term; re-entry triggers impurity obligation."
+  },
+  {
+    "id": "nazir_dissolved_vow_effect",
+    "name": "Effect of Dissolving a Nazirite Vow",
+    "hebrew": "השפעת התרת נדר נזיר",
+    "parent_id": "vow_hatarat_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "What happens to separated offerings when a nazirite vow is dissolved by a halakhic authority; retroactive effect."
+  },
+  {
+    "id": "nazir_chain_vow",
+    "name": "Chain of Nazirite Vows (And I — Va'Ani)",
+    "hebrew": "שרשרת נזירות בלשון 'ואני'",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "When multiple persons vow naziriteship by saying 'and I' sequentially; dissolving one affects the others; interdependence of vows."
+  },
+  {
+    "id": "nazir_vow_funding_other",
+    "name": "Vow to Fund Another Nazirite's Offerings",
+    "hebrew": "קבלת חיוב לגלח נזיר",
+    "parent_id": "nazir_nazirite_vow",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nazir"
+    ],
+    "notes": "One who accepts obligation to pay for another nazirite's shaving offerings; half vs. full obligation; mutual shaving arrangement."
+  }
+]

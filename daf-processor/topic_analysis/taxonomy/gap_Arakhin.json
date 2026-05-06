@@ -1,0 +1,266 @@
+[
+  {
+    "id": "arachim_valuations",
+    "name": "Arachim (Torah Valuations)",
+    "hebrew": "ערכין",
+    "parent_id": "vow_arachim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Fixed Torah valuations by age and sex (Lev. 27:3-7); who can vow/be valuated; tumtum, androginus, minor, deaf-mute in context of valuations; age categories (1 month-5, 5-20, 20-60, 60+)"
+  },
+  {
+    "id": "arachim_vs_assessment",
+    "name": "Arachim vs. Erech — Valuation vs. Assessment Distinction",
+    "hebrew": "הבדל בין ערך לדמים",
+    "parent_id": "vow_arachim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Distinction between fixed Torah valuation (erech) and market-value assessment (damim); cases where one is stricter/more lenient than the other"
+  },
+  {
+    "id": "arachim_destitute_wealthy",
+    "name": "Affordability in Valuations (Yashot haYad)",
+    "hebrew": "יד שאין משגת בערכין",
+    "parent_id": "vow_arachim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "The priest's ability to reduce valuation payment for destitute person; minimum of one sela; maximum of fifty sela; whose means determine the amount"
+  },
+  {
+    "id": "arachim_limbs",
+    "name": "Valuation of Limbs",
+    "hebrew": "ערך אבר",
+    "parent_id": "vow_arachim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Whether one can vow the valuation of a limb; items upon which the soul depends trigger full valuation; vow of one's weight"
+  },
+  {
+    "id": "cherem_dedication",
+    "name": "Cherem (Dedication to Priests or Temple)",
+    "hebrew": "חרם",
+    "parent_id": "vow_cherem",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Detailed laws of cherem: dedicating property, animals, or persons; whether cherem goes to priests or Temple treasury; limits on what may be dedicated; priests and Levites and cherem"
+  },
+  {
+    "id": "sdeh_achuzah_laws",
+    "name": "Sdeh Achuzah — Ancestral Field Consecration Laws",
+    "hebrew": "שדה אחוזה",
+    "parent_id": "sdeh_achuzah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Detailed laws: redemption at 50 shekels per beit kor; counting years to Jubilee; crevices and boulders; who may redeem; one-fifth addition for owner; what happens if not redeemed by Jubilee; Levite cities fields"
+  },
+  {
+    "id": "sdeh_miknah_laws",
+    "name": "Sdeh Miknah — Purchased Field Consecration Laws",
+    "hebrew": "שדה מקנה",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Laws of consecrating a purchased field: redemption at market value; does not go to priests at Jubilee; distinction from ancestral field; case where son purchased from father"
+  },
+  {
+    "id": "batei_arei_chomah_laws",
+    "name": "Batei Arei Chomah — Houses in Walled Cities",
+    "hebrew": "בתי ערי חומה",
+    "parent_id": "batei_arei_chomah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Detailed laws: 12-month redemption window; becomes permanent after one year; Hillel's enactment of chamber for deposit; definition of walled city (from Joshua's era); houses vs. fields within walls; Levite city houses"
+  },
+  {
+    "id": "hekdesh_proclamation",
+    "name": "Proclamation of Consecrated Property Sale (Hakrazah)",
+    "hebrew": "הכרזה על נכסי הקדש",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Announcing the sale of consecrated property or orphan's property for 30 or 60 days morning and evening to maximize price; bidding procedures; reneging on bids"
+  },
+  {
+    "id": "hekdesh_property_repossession",
+    "name": "Repossession of Property for Valuations and Hekdesh",
+    "hebrew": "גובין נכסים לערכין",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Court repossession of property to pay valuations; what the treasurer leaves for the obligated person (30 days food, 12 months clothing, tools of trade); phylacteries; wife and children's garments"
+  },
+  {
+    "id": "hekdesh_wife_ketubah_conflict",
+    "name": "Conflict Between Hekdesh and Ketubah/Creditor Claims",
+    "hebrew": "הקדש וכתובה ובעל חוב",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "When one consecrates property that has liens for ketubah or creditor; collusion prevention; vow of benefit to prevent remarriage after divorce"
+  },
+  {
+    "id": "goring_ox_slave",
+    "name": "Forewarned Ox Killing a Canaanite Slave",
+    "hebrew": "שור שהמית עבד כנעני",
+    "parent_id": "shor_haniskal",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Fixed payment of 30 sela regardless of slave's value; contrast with killing a freeman; injury payment based on actual damage"
+  },
+  {
+    "id": "condemned_person_valuation",
+    "name": "Status of Condemned Person in Valuations and Vows",
+    "hebrew": "דין הנידון ונוטה למות בערכין",
+    "parent_id": "arachim_valuations",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Whether a moribund person or one sentenced to death can be subject to vows of assessment or valuation; dispute between Rabbi Chanina ben Akavya and Rabbi Yosi"
+  },
+  {
+    "id": "pregnant_condemned_execution",
+    "name": "Execution of a Pregnant Woman",
+    "hebrew": "הריון ודחיית מיתה",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Court does not wait for pregnant condemned woman to give birth; but if she sat on the birthing chair, execution is delayed; distinction from benefit of her hair after death"
+  },
+  {
+    "id": "levite_city_laws",
+    "name": "Laws of Levite Cities",
+    "hebrew": "ערי הלוויים",
+    "parent_id": "levites",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Levites may always redeem their fields and houses; 2000 cubits surrounding cities; division into empty lots and fields; prohibition on converting field to empty lot or vice versa; Levite inheritance from Israelite"
+  },
+  {
+    "id": "temple_trumpet_blasts",
+    "name": "Temple Trumpet Blasts (Teki'ot HaMikdash)",
+    "hebrew": "תקיעות במקדש",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Minimum 21 and maximum 48 trumpet blasts daily; occasions for extra blasts; Friday of Sukkot with water libation; signals for gates, offerings, and Shabbat"
+  },
+  {
+    "id": "levite_musicians",
+    "name": "Levite Musicians in the Temple",
+    "hebrew": "הלויים המשוררים במקדש",
+    "parent_id": "levites",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Minimum and maximum numbers of lyres, flutes, harps; 12 days of flute playing; cymbal used alone; minor Levites as cadets; minimum 12 Levites on platform; debate on their status"
+  },
+  {
+    "id": "flute_playing_mikdash",
+    "name": "Flute Playing in the Temple (Chalil)",
+    "hebrew": "חליל במקדש",
+    "parent_id": "levite_musicians",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "12 days per year for flute before altar: Pesach slaughtering, second Pesach, first day of Pesach, Shavuot, 8 days of Sukkot; reed flute preferred over copper; concluding with single flute"
+  },
+  {
+    "id": "jubilee_field_redemption_procedure",
+    "name": "Redemption of Ancestral Field During Jubilee Period",
+    "hebrew": "גאולת שדה אחוזה ביובל",
+    "parent_id": "yovel",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Cannot consecrate less than 2 years before Jubilee; cannot redeem less than 1 year after Jubilee; counting months for Temple treasury; what happens if not redeemed; priests entering the field; Rabbi Eliezer's view of abandoned field"
+  },
+  {
+    "id": "sale_field_jubilee",
+    "name": "Sale of Field with Jubilee Provisions",
+    "hebrew": "מכירת שדה ביובל",
+    "parent_id": "yovel",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Cannot redeem within first two years; blight/shemitah years don't count; resale price calculation; prohibition on selling distant field to redeem nearby; incremental redemption; comparison to Temple treasury redemption"
+  },
+  {
+    "id": "hillel_enactment_walled_city",
+    "name": "Hillel's Enactment for Walled City House Redemption",
+    "hebrew": "תקנת הלל לבתי ערי חומה",
+    "parent_id": "batei_arei_chomah_laws",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Buyer's concealment to prevent redemption; Hillel's enactment that seller deposits money in court chamber and breaks down the door; procedural reform"
+  },
+  {
+    "id": "defamer_motzi_shem_ra_fine",
+    "name": "Defamer's Fine (Motzi Shem Ra) — 100 Sela",
+    "hebrew": "קנס מוציא שם רע",
+    "parent_id": "crim_false_accusation_motzi_shem",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "100 sela fixed fine regardless of woman's status; compared to rapist/seducer 50 sela; lesson that speech-based sin is graver than action; connection to spies narrative"
+  },
+  {
+    "id": "weight_vow",
+    "name": "Vow of One's Weight (Mishkal)",
+    "hebrew": "נודר במשקל",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Vowing to donate one's weight in silver or gold; incident of Yirmatya's mother; how to measure weight of a limb; dispute between Rabbi Yehuda and Rabbi Yosi on displacement method"
+  },
+  {
+    "id": "coercion_korban_vow",
+    "name": "Court Coercion to Bring Voluntary Offering",
+    "hebrew": "כפייה להביא קרבן",
+    "parent_id": "courts_kofin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_arakhin"
+    ],
+    "notes": "Court repossesses property of those obligated in burnt offerings and peace offerings; coercion until person says 'I want to'; parallel to coerced get; distinction from sin and guilt offerings"
+  }
+]

@@ -43,7 +43,9 @@ import com.anydaf.viewmodel.ResourcesViewModel
 fun ResourcesTab(
     viewModel: ResourcesViewModel,
     studyFontSize: StudyFontSize = StudyFontSize.MEDIUM,
-    onSizeChange: (StudyFontSize) -> Unit = {}
+    onSizeChange: (StudyFontSize) -> Unit = {},
+    printFontSize: StudyFontSize = StudyFontSize.SMALL,
+    printLineSpacing: Double = 1.15
 ) {
     val exactArticles by viewModel.exactArticles.collectAsState()
     val nearbyArticles by viewModel.nearbyArticles.collectAsState()
@@ -156,7 +158,9 @@ fun ResourcesTab(
                     isLoading = isLoadingArticle,
                     studyFontSize = studyFontSize,
                     onSizeChange = onSizeChange,
-                    onDismiss = { viewModel.dismissArticle() }
+                    onDismiss = { viewModel.dismissArticle() },
+                    printFontSize = printFontSize,
+                    printLineSpacing = printLineSpacing
                 )
             }
         }

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "fast_days_rain",
+    "name": "Fast Days for Rain (Taanit Geshamim)",
+    "hebrew": "תענית גשמים",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The structured progression of communal and individual fasts decreed when rain fails to fall, including the three stages of increasing severity"
+  },
+  {
+    "id": "geshem_rain_prayer",
+    "name": "Prayer for Rain (Geshem / Tefillat Geshem)",
+    "hebrew": "תפילת גשם",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The insertion of rain-related phrases in the Amida (mashiv haruach, veten tal umatar) and the timing of when one begins and ends requesting rain"
+  },
+  {
+    "id": "anenu_fast_prayer",
+    "name": "Anenu and Special Fast Day Prayers",
+    "hebrew": "עננו ותפילות תענית",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The twenty-four blessing prayer recited on fast days, including the six additional blessings with special conclusions invoking historical episodes of divine response"
+  },
+  {
+    "id": "neilah_prayer",
+    "name": "Ne'ila Prayer (Closing Prayer)",
+    "hebrew": "תפילת נעילה",
+    "parent_id": "tefillah",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The closing prayer recited on communal fast days and Yom Kippur, representing a fourth Amida in a single day alongside shacharit, musaf, and mincha"
+  },
+  {
+    "id": "maamadot",
+    "name": "Ma'amadot (Non-Priestly Watches)",
+    "hebrew": "מעמדות",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The system of Israelite representatives parallel to the priestly watches who would stand by the daily offerings and read from Genesis in their towns; their fasting schedule and Torah reading portions"
+  },
+  {
+    "id": "korban_etzim",
+    "name": "Wood Offering (Korban Etzim)",
+    "hebrew": "קרבן עצים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The nine annual wood-offering days when specific families volunteered wood for the altar, treated as private semi-holidays with special observances"
+  },
+  {
+    "id": "shiva_asar_betammuz",
+    "name": "Seventeenth of Tammuz Fast",
+    "hebrew": "שבעה עשר בתמוז",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The five calamities that occurred on the seventeenth of Tammuz including the breaking of the tablets, cessation of the daily offering, breach of Jerusalem walls, burning of a Torah scroll, and placement of an idol in the Sanctuary"
+  },
+  {
+    "id": "tisha_bav_laws",
+    "name": "Laws of Tisha B'Av (Prohibitions and Practices)",
+    "hebrew": "דיני תשעה באב",
+    "parent_id": "tisha_bav",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Specific prohibitions of the Ninth of Av week and day: haircuts, laundering, two cooked dishes, meat and wine; the custom of overturning one's bed"
+  },
+  {
+    "id": "av_mourning_practices",
+    "name": "Mourning Practices of the Month of Av",
+    "hebrew": "אבלות חודש אב",
+    "parent_id": "tisha_bav",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Decreasing acts of rejoicing from Rosh Chodesh Av, including restrictions on building, planting, business, betrothals, and greetings"
+  },
+  {
+    "id": "tu_bav_celebrations",
+    "name": "Tu b'Av Celebrations and Marriage Market",
+    "hebrew": "טו באב - מנהגי שמחה",
+    "parent_id": "tu_bav",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The daughters of Jerusalem dancing in borrowed white garments in vineyards to attract marriage partners; the concept that borrowed garments were required to avoid embarrassing the poor"
+  },
+  {
+    "id": "megillat_taanit",
+    "name": "Megillat Ta'anit (Scroll of Fasts)",
+    "hebrew": "מגילת תענית",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The ancient scroll listing days on which fasting and eulogizing are prohibited; rules about fasting on the day before and after such days"
+  },
+  {
+    "id": "ashes_fast_day",
+    "name": "Ashes on the Ark and Heads on Fast Days",
+    "hebrew": "אפר על ראשי הנשיא ועל התיבה",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The ceremony of placing burnt ashes on the ark, on the head of the Nasi and deputy Nasi, and on everyone's heads as a sign of mourning during communal fast days"
+  },
+  {
+    "id": "shofar_fast_day",
+    "name": "Sounding the Shofar on Fast Days",
+    "hebrew": "תקיעת שופר בתעניות",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Blowing the shofar (tekiah and teruah) during communal fast days as a cry to God; the procedure in the Temple context vs. outside; distinction from Rosh Hashanah shofar"
+  },
+  {
+    "id": "choni_hameagel_circle",
+    "name": "Ḥoni HaMe'aggel and the Circle (Drawing a Circle for Prayer)",
+    "hebrew": "חוני המעגל",
+    "parent_id": "biblical_figures",
+    "category": "BIBLICAL FIGURES AND NARRATIVES",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "The narrative of Ḥoni drawing a circle and refusing to move until rain fell; his exchange with Shimon ben Shetach; paradigm of the tzaddik whose prayers are answered"
+  },
+  {
+    "id": "completing_fast",
+    "name": "Completing a Fast After Rain Falls (Hashlamat HaTa'anit)",
+    "hebrew": "השלמת התענית",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Whether a community must complete a fast after the desired outcome (rain) arrives before or after midday/sunrise; the incident in Lod with Rabbi Tarfon"
+  },
+  {
+    "id": "priestly_watch_fasting",
+    "name": "Priestly Watch Members and Fasting (Mishmar and Patrilineal Family)",
+    "hebrew": "אנשי משמר ובית אב בתענית",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Rules governing when the mishmar and bet av members may fast during communal fast periods, their prohibition on drinking wine, and restrictions on haircuts and laundering"
+  },
+  {
+    "id": "communal_mourning_customs",
+    "name": "Communal Mourning Customs When Fasts Are Unanswered",
+    "hebrew": "מנהגי אבלות ציבורית",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "When all fasts have been exhausted without rain, the community adopts mourning-like practices: reducing business, building, planting, betrothals, marriages, and greetings"
+  },
+  {
+    "id": "local_drought_plague_fast",
+    "name": "Local Calamities Requiring Immediate Fasting",
+    "hebrew": "תענית על צרות פרטיות של עיר",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Calamities requiring immediate communal fast without waiting: blight, locusts, dangerous beasts, pestilence, sword, a city receiving no rain while surroundings did; criteria for pestilence"
+  },
+  {
+    "id": "crying_out_shabbat",
+    "name": "Crying Out for Help on Shabbat (Tza'akah beShabbat)",
+    "hebrew": "צעקה בשבת",
+    "parent_id": "fast_days",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_taanit"
+    ],
+    "notes": "Crying out to God or summoning help on Shabbat for emergencies such as siege, flood, or shipwreck; dispute about whether crying out differs from sounding the alarm"
+  }
+]

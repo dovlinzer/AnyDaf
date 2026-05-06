@@ -1,0 +1,321 @@
+[
+  {
+    "id": "tumat_ohel_details",
+    "name": "Ohel (Tent) as Vehicle of Corpse Impurity",
+    "hebrew": "טומאת אוהל",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Detailed laws of how a tent/covering spreads or blocks corpse impurity, including minimum sizes, slopes, partial coverings, and configurations of structures"
+  },
+  {
+    "id": "tumat_met_shiurim",
+    "name": "Minimum Quantities for Corpse Impurity (Shiurei Tumat Met)",
+    "hebrew": "שיעורי טומאת מת",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Specific minimum quantities that convey corpse impurity: olive-size of flesh, quarter-kav of bones, quarter-log of blood, ladleful of corpse mold, etc."
+  },
+  {
+    "id": "evel_nezel",
+    "name": "Nezel (Corpse Fluid)",
+    "hebrew": "נצל",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The fluid that drains from a decomposing corpse and its role in transmitting impurity"
+  },
+  {
+    "id": "afar_kuvarim",
+    "name": "Afar Kuvarim (Grave Dust / Corpse Mold)",
+    "hebrew": "עפר קברים",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Dust or mold from a decomposed corpse and its minimum quantity (ladleful) for conveying impurity"
+  },
+  {
+    "id": "dam_met",
+    "name": "Dam HaMet (Blood of a Corpse)",
+    "hebrew": "דם המת",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Blood of a corpse that conveys impurity, including mixed blood (dam tarbut), minimum quantity of quarter-log, and distinctions between blood that flowed during life vs. after death"
+  },
+  {
+    "id": "evarim_min_hamet",
+    "name": "Limbs from a Corpse (Evarim min HaMet)",
+    "hebrew": "אברים מן המת",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Laws of whole limbs severed from a corpse or from a living person and how they convey impurity; the 248 limbs of the human body and their required flesh content"
+  },
+  {
+    "id": "tumah_spreading_blocking",
+    "name": "Spreading and Blocking of Corpse Impurity (Mevi and Chotzetz)",
+    "hebrew": "מביא טומאה וחוצץ",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Objects and structures that spread (mevi) corpse impurity to other spaces vs. those that block (chotzetz) its transmission; requires one cubic handbreadth space"
+  },
+  {
+    "id": "shiur_tefach_murbah",
+    "name": "One Cubic Handbreadth (Tefach Murbah) as Threshold for Impurity",
+    "hebrew": "טפח על טפח ברום טפח",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The minimum space of one cubic handbreadth (tefach al tefach b'rum tefach) that constitutes a halakhic 'tent' for purposes of corpse impurity"
+  },
+  {
+    "id": "tzamid_patil_in_ohel",
+    "name": "Sealed Vessel Protecting Contents in Ohel (Tzamid Patil b'Ohel)",
+    "hebrew": "כלי חרס צמיד פתיל באוהל",
+    "parent_id": "mukaf_tzamid_patil",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Earthenware vessel sealed with a tight-fitting lid protecting its contents from corpse impurity inside a tent; dispute between Beit Shammai and Beit Hillel"
+  },
+  {
+    "id": "bet_haperas",
+    "name": "Bet HaPeras (Field with Plowed Grave)",
+    "hebrew": "בית הפרס",
+    "parent_id": "beit_hapras",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Detailed laws of a field made impure by plowing over a grave, its dimensions (100 cubits furrow), types (plowed grave, lost grave, kokhin field), purification methods, and examination procedures"
+  },
+  {
+    "id": "sadeh_sheniavad_kever",
+    "name": "Field in Which a Grave Was Lost (Sadeh sheNiavad Kever)",
+    "hebrew": "שדה שנאבד בה קבר",
+    "parent_id": "beit_hapras",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "A field in which a grave has been lost, distinguished from a plowed-over grave field; may be sown but not planted, transmits impurity by overshadowing"
+  },
+  {
+    "id": "sadeh_kokhin",
+    "name": "Kokhin Field (Sadeh Kokhin)",
+    "hebrew": "שדה כוכין",
+    "parent_id": "beit_hapras",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "A field used for burial niches (kokhin); may neither be planted nor sown, but its earth is considered clean for use in making ovens for sacred purposes"
+  },
+  {
+    "id": "tumat_eretz_amim",
+    "name": "Impurity of the Land of the Nations (Tumat Eretz HaAmim)",
+    "hebrew": "טומאת ארץ העמים",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Rabbinic decree that lands of non-Jews convey impurity; detailed rules about travel over such lands, purchasing fields in Syria, and how this interacts with terumah and shemitah obligations"
+  },
+  {
+    "id": "tumat_ohel_non_jewish_dwelling",
+    "name": "Impurity of Non-Jewish Dwellings (Tumat Ohel Nochrim)",
+    "hebrew": "אוהל הגויים",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Rabbinic decree that dwellings of non-Jews are impure due to presumption that fetuses were buried beneath them; requires examination after 40 days of habitation"
+  },
+  {
+    "id": "graveyard_finding_corpses",
+    "name": "Finding Multiple Corpses and Establishing a Graveyard",
+    "hebrew": "מוצא מתים",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Laws governing discovery of corpses in a field: finding one may be removed, finding three within a space of a bier and bearers (4-8 cubits) establishes a graveyard requiring 20-cubit search"
+  },
+  {
+    "id": "pesichat_hakever",
+    "name": "Opening of the Grave/Womb (Pesicat HaKever)",
+    "hebrew": "פתיחת הקבר",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The concept of the womb opening during childbirth creating impurity like a grave opening; stillborn children and the point at which the womb is considered 'opened'"
+  },
+  {
+    "id": "tumah_going_out_not_in",
+    "name": "Impurity Goes Out but Does Not Go In (Darkah Latzet v'Lo Lavo)",
+    "hebrew": "דרכה לצאת ולא לבוא",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Halakhic principle that corpse impurity naturally spreads outward from its source, so a sealed inner space may protect against outside impurity but not against impurity within it"
+  },
+  {
+    "id": "garlic_skin_principle",
+    "name": "Garlic Skin Principle (Klipat HaShum)",
+    "hebrew": "כקליפת השום",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "A covering as thin as garlic skin can block corpse impurity if there is a space of one cubic handbreadth beneath it; used in cases of covering over drains, pillars, and wall spaces"
+  },
+  {
+    "id": "mavi_tumah_chotzetz",
+    "name": "Objects That Convey vs. Block Impurity (Mevi u'Chotzetz)",
+    "hebrew": "מביא וחוצץ",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Classification of objects into: those that both convey and block impurity, those that convey but don't block, those that block but don't convey, and those that neither convey nor block"
+  },
+  {
+    "id": "regel_defilement_chain",
+    "name": "Chain of Defilement from Corpse (Shelshelel HaTumah)",
+    "hebrew": "שלשלת הטומאה",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The graduated chain of corpse impurity transmission: first-degree (corpse itself), persons and vessels touching it receive 7-day impurity, subsequent generations receive evening-only impurity; the maximum chain length"
+  },
+  {
+    "id": "tzelem_etzem",
+    "name": "Bone the Size of a Barleycorn (Etzem k'Seorah)",
+    "hebrew": "עצם כשעורה",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Minimum bone fragment (barleycorn size) that conveys corpse impurity by contact and carrying but not by overshadowing; disputes about divided bones"
+  },
+  {
+    "id": "rov_binyan_tumat_etzem",
+    "name": "Majority or Structural Majority of a Corpse's Bones",
+    "hebrew": "רוב בניינו ורוב מניינו של מת",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The structural majority (rov binyan) or numerical majority (rov minyan, 125 bones) of a corpse's skeleton that conveys full corpse impurity including by overshadowing"
+  },
+  {
+    "id": "petach_haohel_shiur",
+    "name": "Minimum Opening Size for Impurity Passage (Shiur Petach HaOhel)",
+    "hebrew": "שיעור פתח האוהל",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Detailed rules about minimum opening sizes (one handbreadth square, or drill-hole size) in walls, doors, windows, and ceilings that allow corpse impurity to pass through or that protect against its spread"
+  },
+  {
+    "id": "tzurat_hapetach",
+    "name": "Form of a Doorway (Tzurat HaPetach) in Impurity Context",
+    "hebrew": "צורת הפתח",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "In Oholot, the intended use of an opening (for a door, light, ventilation, etc.) determines its minimum size threshold for conveying or blocking impurity"
+  },
+  {
+    "id": "geviyat_bones_248",
+    "name": "248 Limbs of the Human Body",
+    "hebrew": "רמח אברים שבאדם",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The enumeration of 248 limbs in the human body; each whole limb with appropriate flesh can defile by contact, carrying, and overshadowing"
+  },
+  {
+    "id": "covering_stone_grave",
+    "name": "Covering Stone and Buttressing Stone of a Grave",
+    "hebrew": "אבן המסיפות ואבן הסמוכות",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "The flat stone covering a burial niche and the stone supporting it; they defile by contact and overshadowing; dispute whether they defile by carrying and whether grave dust beneath them matters"
+  },
+  {
+    "id": "projection_balcony_impurity",
+    "name": "Projections and Balconies as Ohel (Ziz and Gessissah)",
+    "hebrew": "זיז וגזוזטרא",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Architectural projections (ziz), balconies (gessissah), and cornices extending from a wall that serve as ohel for transmitting or blocking corpse impurity; minimum width of one handbreadth"
+  },
+  {
+    "id": "ohel_zarua",
+    "name": "Tent Made by Human Action vs. Naturally Formed Tent",
+    "hebrew": "אוהל זרוע",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Dispute (Rabbi Judah) whether a tent must be deliberately made by a human to qualify as a halakhic ohel, or whether naturally formed enclosures (crevices, crags) also qualify"
+  },
+  {
+    "id": "midras_kelim_tumah_ohel",
+    "name": "Persons and Vessels as Ohel (Adam u'Kelim k'Ohel)",
+    "hebrew": "אדם וכלים כאוהל",
+    "parent_id": "tumat_ohel",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_oholot"
+    ],
+    "notes": "Living persons and vessels can serve as an ohel to convey corpse impurity (e.g., pallbearers carrying a coffin) but cannot serve as an ohel to protect against impurity"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "kilayim_seeds_plants",
+    "name": "Kilayim of Seeds and Plants (Kilei Zeraim)",
+    "hebrew": "כלאי זרעים",
+    "parent_id": "kilayim_planting",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules against sowing mixed seeds in a field; minimum separations, bed arrangements, and species that do or do not constitute kilayim with one another"
+  },
+  {
+    "id": "kilei_hakerem_details",
+    "name": "Kilayim in a Vineyard — Detailed Rules (Kilei haKerem)",
+    "hebrew": "כלאי הכרם — פרטים",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of sowing grain or vegetables near vines: required distances, karahat, mehol, aris, and what causes sanctification/prohibition of seed or vine"
+  },
+  {
+    "id": "kilayim_clothing_shatnez",
+    "name": "Kilayim of Clothing — Shatnez (כלאי בגדים / שעטנז)",
+    "hebrew": "שעטנז",
+    "parent_id": "NEW:kilayim_general",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of wearing wool and linen mixtures; what constitutes shatnez (spinning, weaving, combing); application to garments, mattresses, shrouds, packsaddles, sellers and tailors"
+  },
+  {
+    "id": "kilayim_animal_work",
+    "name": "Kilayim of Animals in Work (Kilei Beheimah b'Avodah)",
+    "hebrew": "כלאי בהמה בעבודה",
+    "parent_id": "interbreeding_animals",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of yoking, plowing, pulling, or leading together two different species of animals; includes liability for driver and passenger"
+  },
+  {
+    "id": "vineyard_definitions",
+    "name": "Definition and Structure of a Vineyard (Tzurat haKerem)",
+    "hebrew": "צורת הכרם",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "What constitutes a valid halachic vineyard: minimum rows and vines, layout patterns (two-opposite-two with tail), poor vineyard, ruined vineyard"
+  },
+  {
+    "id": "karahat_mehol_vineyard",
+    "name": "Karahat and Mehol of a Vineyard",
+    "hebrew": "קרחת הכרם ומחול הכרם",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Required minimum dimensions of bare patches (karahat) and border spaces (mehol) in a vineyard to permit sowing; dispute between Bet Shammai and Bet Hillel"
+  },
+  {
+    "id": "aris_vineyard",
+    "name": "Aris (Espalier Vineyard)",
+    "hebrew": "אריס (עריס)",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of vines trained along a fence or trellis (aris): required working-space, gaps in an aris, vines suspended over trees, projecting tendrils and blossoms"
+  },
+  {
+    "id": "havrakat_hagefen",
+    "name": "Bending and Conducting a Vine Underground (Havrakas haGefen)",
+    "hebrew": "הברכת הגפן",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for a vine bent into the ground and re-emerging elsewhere; soil cover required, measuring from the second root, combining of bent vines"
+  },
+  {
+    "id": "kilayim_flowerpot",
+    "name": "Flowerpot (Atzitz) in Kilayim Context",
+    "hebrew": "עציץ בכלאי הכרם",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether a perforated vs. non-perforated flowerpot carried through a vineyard creates kilayim prohibition"
+  },
+  {
+    "id": "species_classification_kilayim",
+    "name": "Species Classification for Kilayim Purposes",
+    "hebrew": "סוגי מינים לענין כלאים",
+    "parent_id": "kilayim_planting",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Determining which plant and animal species are considered the 'same species' or 'different species' for kilayim law; domesticated vs. wild variants; behemah vs. hayyah classification"
+  },
+  {
+    "id": "sanctification_kilayim_vineyard",
+    "name": "Sanctification (Prohibition) of Kilayim Produce in Vineyard",
+    "hebrew": "קידוש כלאי הכרם",
+    "parent_id": "kilei_hakerem",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When kilayim of the vineyard takes effect; what causes the seed and vine to become prohibited; forbidden benefit vs. merely forbidden sowing; from which growth stage prohibition begins"
+  },
+  {
+    "id": "grafting_kilayim",
+    "name": "Grafting (Harkavah) in Kilayim",
+    "hebrew": "הרכבה בכלאים",
+    "parent_id": "grafting",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of grafting between different species: tree on tree, vegetable on vegetable, tree on vegetable; dispute of Rabbi Judah regarding vegetable on tree"
+  },
+  {
+    "id": "bed_sowing_kilayim",
+    "name": "Sowing Multiple Species in Garden Beds (Arugot)",
+    "hebrew": "זריעה בערוגות",
+    "parent_id": "kilayim_seeds_plants",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for sowing up to five or thirteen different species in a small garden bed using borders; required dimensions of furrow and border to separate species"
+  }
+]

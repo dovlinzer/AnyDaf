@@ -35,6 +35,7 @@ import androidx.compose.material.icons.filled.BookmarkBorder
 import androidx.compose.material.icons.filled.FormatListBulleted
 import androidx.compose.material.icons.automirrored.filled.MenuBook
 import androidx.compose.material.icons.filled.Favorite
+import androidx.compose.material.icons.filled.Print
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
@@ -132,6 +133,8 @@ fun ContentScreen(
     val showDonationNudge by contentViewModel.showDonationNudge.collectAsState()
 
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
+    val printFontSize by contentViewModel.printFontSize.collectAsState()
+    val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val tabletRightPanelMode by contentViewModel.tabletRightPanelMode.collectAsState()
     val isTablet = LocalConfiguration.current.screenWidthDp >= 600
@@ -611,7 +614,7 @@ fun ContentScreen(
                                             // Shiur header — tractate + daf (lock icon when audio is playing)
                                             Row(
                                                 verticalAlignment = Alignment.CenterVertically,
-                                                modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp)
+                                                modifier = Modifier.padding(start = 16.dp, end = 4.dp, top = 6.dp, bottom = 6.dp)
                                             ) {
                                                 if (!isAudioStopped) {
                                                     Icon(Icons.Default.Lock, null, Modifier.size(14.dp), tint = appFg.copy(alpha = 0.55f))
@@ -620,8 +623,19 @@ fun ContentScreen(
                                                 Text(
                                                     "${playingTractate} ${playingDaf.toInt()}",
                                                     style = MaterialTheme.typography.titleMedium.copy(fontWeight = androidx.compose.ui.text.font.FontWeight.Bold),
-                                                    color = appFg
+                                                    color = appFg,
+                                                    modifier = Modifier.weight(1f)
                                                 )
+                                                val shiurDisplayForPrint = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
+                                                IconButton(
+                                                    onClick = {
+                                                        val txt = shiurDisplayForPrint ?: return@IconButton
+                                                        PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), txt), printFontSize, printLineSpacing)
+                                                    },
+                                                    modifier = Modifier.size(36.dp)
+                                                ) {
+                                                    Icon(Icons.Default.Print, "Print", Modifier.size(18.dp), tint = appFg.copy(alpha = 0.5f))
+                                                }
                                             }
                                             CompositionLocalProvider(
                                                 LocalStudyFontSize provides studyFontSize.spSize.sp,
@@ -653,6 +667,10 @@ fun ContentScreen(
                                         onStartStudy = {
                                             resourcesViewModel.reset()
                                             studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
+                                        },
+                                        onPrintTranslation = {
+                                            val s = studyViewModel.session.value ?: return@StudyModeContent
+                                            PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
                                         },
                                         modifier = Modifier.fillMaxSize()
                                     )
@@ -754,7 +772,10 @@ fun ContentScreen(
                             ShiurTextView(
                                 rewriteText = shiurDisplayText,
                                 currentSegmentIndex = shiurSegmentIndex,
-                                modifier = Modifier.weight(1f).fillMaxWidth()
+                                modifier = Modifier.weight(1f).fillMaxWidth(),
+                                onPrint = {
+                                    PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), shiurDisplayText), printFontSize, printLineSpacing)
+                                }
                             )
                         }
                     }

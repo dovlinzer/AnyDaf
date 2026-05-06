@@ -1,0 +1,431 @@
+[
+  {
+    "id": "bedikat_chametz",
+    "name": "Bedikat Chametz (Searching for Leaven)",
+    "hebrew": "בדיקת חמץ",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of searching for chametz on the night of the 14th of Nisan, including which areas require searching, use of candlelight, and concerns about animals dragging leaven"
+  },
+  {
+    "id": "bitul_chametz",
+    "name": "Bitul Chametz (Nullification of Leaven)",
+    "hebrew": "ביטול חמץ",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The nullification of chametz in one's heart as a valid form of removal, distinct from physical destruction"
+  },
+  {
+    "id": "zman_biur_chametz",
+    "name": "Zman Biur Chametz (Time for Removing Leaven)",
+    "hebrew": "זמן ביעור חמץ",
+    "parent_id": "biur_chametz",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Rabbi Meir and Rabbi Yehuda regarding the exact hours of the 14th of Nisan during which chametz may be eaten and when it must be burned"
+  },
+  {
+    "id": "chametz_shavar_alav_hapesach",
+    "name": "Chametz sheAvar Alav HaPesach (Leaven Over Which Passover Passed)",
+    "hebrew": "חמץ שעבר עליו הפסח",
+    "parent_id": "bal_yeiraeh_bal_yimatzei",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against deriving benefit from chametz belonging to a Jew that remained in his possession throughout Passover, and permissibility of chametz belonging to a gentile"
+  },
+  {
+    "id": "chametz_bemashkon",
+    "name": "Chametz as Collateral (Mashkon)",
+    "hebrew": "חמץ במשכון",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of chametz given as collateral to a gentile or by a gentile to a Jew before Passover and the question of ownership during the festival"
+  },
+  {
+    "id": "issur_melacha_erev_pesach",
+    "name": "Issur Melacha b'Erev Pesach (Prohibition of Work on Passover Eve)",
+    "hebrew": "איסור מלאכה בערב פסח",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Regional customs regarding performing labor on the morning of Passover eve, including disputes between different locales and between Beit Shammai and Beit Hillel regarding the night before"
+  },
+  {
+    "id": "siur_venichratz",
+    "name": "Siur and Nichratz (Stages of Leavening)",
+    "hebrew": "סיאור ונקרץ",
+    "parent_id": "biur_chametz",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The two stages of dough becoming leavened: siur (beginning to crack like locust antennae) and nichratz (fully cracked/leavened), and their halakhic consequences including liability for karet"
+  },
+  {
+    "id": "chametz_erev_pesach_shabbat",
+    "name": "Chametz on Passover Eve that Falls on Shabbat",
+    "hebrew": "ערב פסח שחל בשבת",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Special rules when the 14th of Nisan falls on Shabbat, including how and when to remove chametz, differing opinions of Rabbi Meir, the Rabbis, and Rabbi Eliezer bar Tzadok"
+  },
+  {
+    "id": "five_grains_matza",
+    "name": "Five Grains for Matza (Chamesh Minim)",
+    "hebrew": "חמשת המינים למצה",
+    "parent_id": "matzah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The five species of grain (wheat, barley, spelt, rye, oats) from which matza may be made to fulfill the Passover obligation"
+  },
+  {
+    "id": "five_vegetables_maror",
+    "name": "Five Vegetables for Maror (Chamesh Minim leMaRor)",
+    "hebrew": "חמשת המינים למרור",
+    "parent_id": "maror",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The five species of vegetables (hazeret, tamkha, harḥavina, olashin, maror) with which one may fulfill the obligation of bitter herbs on Passover"
+  },
+  {
+    "id": "korban_pesach_registration",
+    "name": "Registration for the Paschal Lamb (Minuy al haKorban)",
+    "hebrew": "מנוי על קרבן פסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of registering (minuy) for the Paschal lamb, including who may be included, withdrawal from the group, conditions for valid registration, and disputes about minimum/maximum group size"
+  },
+  {
+    "id": "korban_pesach_slaughter_groups",
+    "name": "Three Groups for Slaughtering the Paschal Lamb",
+    "hebrew": "שלוש כיתות לשחיטת הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The procedure of dividing those who bring the Paschal lamb into three separate groups for slaughter in the Temple courtyard, including the trumpet blasts and hallel recitation during the process"
+  },
+  {
+    "id": "tzliyat_hapesach",
+    "name": "Tzliyat HaPesach (Roasting the Paschal Lamb)",
+    "hebrew": "צליית הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of roasting the Paschal lamb including the pomegranate spit, prohibition of using metal spit or grill, what to do if it touches an oven, and the placement of legs and entrails"
+  },
+  {
+    "id": "korban_pesach_shelo_lishmo",
+    "name": "Paschal Lamb Slaughtered Not for Its Purpose (shelo Lishmo)",
+    "hebrew": "פסח שנשחט שלא לשמו",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the Paschal lamb slaughtered with improper intent (not for the sake of the Paschal offering), including all four aspects of the service performed shelo lishmo"
+  },
+  {
+    "id": "korban_pesach_bemumah",
+    "name": "Disqualifications of the Paschal Lamb",
+    "hebrew": "פסולי קרבן פסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Various disqualifications of the Paschal lamb including slaughter before midday, slaughter for invalid recipients (uncircumcised, ritually impure, those not registered), and discovered blemishes"
+  },
+  {
+    "id": "korban_chagigah_arbaah_asar",
+    "name": "Festival Peace-Offering of the Fourteenth (Chagigat Arbaah Asar)",
+    "hebrew": "חגיגת ארבעה עשר",
+    "parent_id": "chagigah_offering",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The special Festival peace-offering brought with the Paschal lamb on the 14th of Nisan when the Paschal lamb comes on a weekday in ritual purity with many registrants; conditions for bringing it"
+  },
+  {
+    "id": "korban_pesach_tumat_tzibur",
+    "name": "Paschal Lamb in Communal Ritual Impurity (Tumah Hutrah b'Tzibur)",
+    "hebrew": "פסח בטומאה לציבור",
+    "parent_id": "tumah_hutrah_betzubbur",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When the majority of Israel is ritually impure and the Paschal lamb is sacrificed in impurity, including which types of impurity permit eating and which do not"
+  },
+  {
+    "id": "pesach_sheni",
+    "name": "Pesach Sheni (Second Passover)",
+    "hebrew": "פסח שני",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the second Passover offering on the 14th of Iyyar for those who were impure or on a distant journey during the first Passover; differences between first and second Pesach; who is obligated and who is exempt from karet"
+  },
+  {
+    "id": "derech_rechokah",
+    "name": "Derech Rechokah (Distant Journey Exemption)",
+    "hebrew": "דרך רחוקה",
+    "parent_id": "pesach_sheni",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Definition of 'distant journey' that exempts one from the first Paschal offering; dispute between Rabbi Akiva (from Modi'im) and Rabbi Eliezer (from the Temple threshold)"
+  },
+  {
+    "id": "seder_night_rituals",
+    "name": "Seder Night Rituals and Order",
+    "hebrew": "ליל הסדר",
+    "parent_id": "pesach",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The order of the Passover seder including reclining, four cups of wine, dipping vegetables, matza and maror, haggadah recitation, and the obligation of every person to view himself as personally leaving Egypt"
+  },
+  {
+    "id": "arba_kosot",
+    "name": "Arba Kosot (Four Cups of Wine at the Seder)",
+    "hebrew": "ארבע כוסות",
+    "parent_id": "seder_night_rituals",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Obligation to drink four cups of wine at the Passover seder, including provision for the poor; dispute regarding drinking between the third and fourth cups"
+  },
+  {
+    "id": "haggadah_sippur_yetziat_mitzrayim",
+    "name": "Haggadah and Sippur Yetziat Mitzrayim (Telling the Exodus Story)",
+    "hebrew": "הגדה וסיפור יציאת מצרים",
+    "parent_id": "seder_night_rituals",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Obligation to tell the story of the Exodus including beginning with disgrace and ending with glory, expounding from 'An Aramean tried to destroy my father,' and Rabban Gamliel's three required mentions of Pesach, matza, and maror"
+  },
+  {
+    "id": "hallel_at_seder",
+    "name": "Hallel at the Seder",
+    "hebrew": "הלל בליל הסדר",
+    "parent_id": "hallel",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The recitation of hallel at the Passover seder split between before and after the meal, dispute between Beit Shammai and Beit Hillel about where the first portion ends, and the concluding blessing (Geulah)"
+  },
+  {
+    "id": "afikoman",
+    "name": "Afikoman",
+    "hebrew": "אפיקומן",
+    "parent_id": "seder_night_rituals",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition of concluding after the Paschal lamb with an afikoman; the requirement that the Paschal lamb be the last food eaten; related rules about interruptions in eating"
+  },
+  {
+    "id": "hacharasat_hamoed_customs",
+    "name": "Local Customs (Minhag HaMakom)",
+    "hebrew": "מנהג המקום",
+    "parent_id": "meth_minhag_hamedina",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing travelers who move between communities with differing customs, including the principle that one must follow both the stringencies of origin and destination; illustrated through Passover eve labor customs"
+  },
+  {
+    "id": "mechiyas_atzamot_pesach",
+    "name": "Prohibition of Breaking Bones of the Paschal Lamb",
+    "hebrew": "שבירת עצמות הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Biblical prohibition against breaking the bones of a ritually pure Paschal lamb, punishment of forty lashes, and the method of removing meat from a limb that exited the boundary"
+  },
+  {
+    "id": "notar_pesach",
+    "name": "Notar of the Paschal Lamb",
+    "hebrew": "נותר הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of leftover Paschal lamb meat that must be burned; the rule that after midnight the Paschal lamb renders hands impure as notar; burning of bones, sinews, and leftovers on the 16th of Nisan"
+  },
+  {
+    "id": "tzafon_techum_achilat_pesach",
+    "name": "Boundary for Eating the Paschal Lamb",
+    "hebrew": "תחום אכילת הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws regarding the geographic boundary within which the Paschal lamb must be eaten (Jerusalem), what happens when meat exits the boundary, and the distinction between inside and outside a doorway"
+  },
+  {
+    "id": "tzitz_metzarer_al_tumah",
+    "name": "Frontplate Appeasing for Impurity (Ritzui Tzitz b'Tumah)",
+    "hebrew": "ציץ מרצה על הטומאה",
+    "parent_id": "ritzui_tzitz",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific application of the High Priest's frontplate (tzitz) to appease for impurity of the blood or meat of the Paschal lamb, but not for bodily impurity of the individual; and its application to tumah b'makom ne'elam"
+  },
+  {
+    "id": "tumah_bemakom_neelam",
+    "name": "Ritual Impurity of the Deep (Tumah b'Makom Ne'elam)",
+    "hebrew": "טומאה במקום נעלם",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Concept of tumah that was unknown to anyone and is only discovered retroactively; in context of Paschal lamb, the frontplate atones for such impurity"
+  },
+  {
+    "id": "pesach_mitzrayim_vdorot",
+    "name": "Differences Between Egyptian Passover and Later Generations",
+    "hebrew": "פסח מצרים ופסח דורות",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The distinct requirements of the original Egyptian Paschal offering (taking on 10th of Nisan, hyssop, doorpost blood, one night only) versus the Paschal offering for all generations"
+  },
+  {
+    "id": "avel_ochel_kodashim",
+    "name": "Acute Mourner Eating Sacrificial Food (Avel b'Kodashim)",
+    "hebrew": "אבל באכילת קודשים",
+    "parent_id": "fam_mourning",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rule that an acute mourner (onen) is prohibited from eating sacrificial food except that he immerses and eats the Paschal lamb on Passover night; distinction from regular mourning rules"
+  },
+  {
+    "id": "ger_she_nitgayer_pesach",
+    "name": "Convert Who Converted on Passover Eve",
+    "hebrew": "גר שנתגייר בערב פסח",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel regarding whether a convert on Passover eve may immediately eat the Paschal lamb or must wait seven days like one impure from a corpse"
+  },
+  {
+    "id": "onkeli_hafalas_chalah",
+    "name": "Separating Challah on Yom Tov (Hafrashat Challah b'Yom Tov)",
+    "hebrew": "הפרשת חלה ביום טוב",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The problem of separating ritually impure challah on Passover Yom Tov when it cannot be burned yet; dispute between Rabbi Eliezer, Ben Beteira, and Rabbi Yehoshua about the proper procedure"
+  },
+  {
+    "id": "kibbud_av_biur_chametz",
+    "name": "Interrupting a Journey to Remove Chametz",
+    "hebrew": "שב ובדוק חמץ בדרכו",
+    "parent_id": "biur_chametz",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws governing whether one traveling for a mitzvah must return home to remove chametz, depending on the nature of the mitzvah and whether there is time to complete it"
+  },
+  {
+    "id": "korban_pesach_temurah",
+    "name": "Substitute of the Paschal Lamb (Temurah haFesach)",
+    "hebrew": "תמורת הפסח",
+    "parent_id": "temurah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "What happens to an animal substituted for a Paschal lamb; dispute regarding whether the substitute is sacrificed as a peace-offering; depends on whether the original was found before or after the replacement was slaughtered"
+  },
+  {
+    "id": "shofar_boxes_korban",
+    "name": "Temple Trumpet Blasts at Paschal Offering",
+    "hebrew": "תקיעת חצוצרות בשחיטת הפסח",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The sounding of three sets of trumpet blasts (tekiah, teruah, tekiah) during the slaughter of the Paschal lamb in the Temple, with rows of priests receiving and passing the blood"
+  },
+  {
+    "id": "rov_kehilla_betumah",
+    "name": "Communal Offering in State of Impurity (Rov haTzibur beTumah)",
+    "hebrew": "רוב הציבור בטומאה",
+    "parent_id": "tumah_hutrah_betzubbur",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When most of the community is ritually impure the Paschal lamb is offered in impurity by all, but those with non-corpse impurity (zav, zavah, niddah, yoledet) may not eat from it; distinction from minority impurity cases"
+  },
+  {
+    "id": "mivchar_shabbat_pesach_overrides",
+    "name": "What Overrides Shabbat for the Paschal Lamb",
+    "hebrew": "דברים שהפסח דוחה את השבת",
+    "parent_id": "korban_pesach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Enumeration of which acts of the Paschal lamb service override Shabbat (slaughter, blood sprinkling, cleaning intestines, burning fats) versus which do not (roasting, washing entrails, carrying, bringing from outside Shabbat limit)"
+  }
+]

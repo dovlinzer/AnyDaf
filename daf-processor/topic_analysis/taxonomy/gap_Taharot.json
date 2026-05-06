@@ -1,0 +1,156 @@
+[
+  {
+    "id": "tumat_ochlin_degrees",
+    "name": "Degrees of Food Uncleanness (Rishon, Sheni, Shlishi)",
+    "hebrew": "דרגות טומאת אוכלים (ראשון, שני, שלישי)",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "The graduated system of food impurity: first, second, third (and fourth for kodesh), how they interact, combine, and are transmitted; central topic of Taharot tractate"
+  },
+  {
+    "id": "tziruf_ochlin",
+    "name": "Combination of Foods for Minimum Measure (Tziruf)",
+    "hebrew": "צירוף אוכלים לשיעור",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Rules for combining different pieces of food to meet the minimum bulk (egg-size) required for conveying or contracting impurity, including foods of different grades"
+  },
+  {
+    "id": "safek_tumah_reshut_hayachid_rabbim",
+    "name": "Doubtful Impurity in Private vs. Public Domain",
+    "hebrew": "ספק טומאה ברשות היחיד ורשות הרבים",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "The fundamental rule that doubtful impurity in a private domain is deemed unclean while in a public domain it is deemed clean; distinctions between domains for purposes of impurity law"
+  },
+  {
+    "id": "am_haaretz_chaver_tumah",
+    "name": "Am HaAretz and Chaver in Laws of Purity",
+    "hebrew": "עם הארץ וחבר בדיני טומאה",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Rules governing the presumed impurity of an am haaretz and the effect of leaving objects in their possession; the chaver's practices of purity and their interaction with am haaretz"
+  },
+  {
+    "id": "hechsher_zeitin_anavim",
+    "name": "Susceptibility to Impurity of Olives and Grapes",
+    "hebrew": "הכשר זיתים וענבים",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "When olives and grapes become susceptible to impurity through their liquids during pressing; debates between Bet Shammai and Bet Hillel on the stages of preparation"
+  },
+  {
+    "id": "neveilat_of_tahor_bird",
+    "name": "Neveilah of a Clean Bird (Neveilat Of HaTahor)",
+    "hebrew": "נבילת עוף הטהור",
+    "parent_id": "tumat_neveilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Special impurity rules for the carcass of a clean bird: intention requirement, gullet defilement, sanctuary entry guilt, terumah burning, and effect of slaughtering or melikah"
+  },
+  {
+    "id": "tumat_mashkim_derived",
+    "name": "Liquids as Conveyors and Connectors of Impurity",
+    "hebrew": "משקים כמעבירי ומחברי טומאה",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Rules about liquids serving as connectors (tziruf) between objects for impurity transmission; flow between vessels, dripping moisture as connective; outer surfaces of vessels and liquids"
+  },
+  {
+    "id": "safek_sheretz_bdika",
+    "name": "Doubtful Contact with Sheretz",
+    "hebrew": "ספק מגע בשרץ",
+    "parent_id": "tumat_sheretz",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Rules for doubtful contact with a dead sheretz in public and private domains, including moving sheretz, weasel carrying sheretz, and sheretz found in various contexts"
+  },
+  {
+    "id": "chazakah_tumah_befound",
+    "name": "Status of Impurity Determined at Time of Discovery",
+    "hebrew": "טומאה לפי שעת המציאה",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Principle that all cases of doubtful impurity are assessed according to their condition at the time they are found (e.g., needle found rusty is clean)"
+  },
+  {
+    "id": "edut_betumah",
+    "name": "Testimony and Witness Credibility in Impurity Cases",
+    "hebrew": "עדות וקבלת עדים בדיני טומאה",
+    "parent_id": "courts_testimony",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Rules on when one or two witnesses are believed regarding impurity, including conflict between witnesses, self-testimony, and testimony of women in purity contexts"
+  },
+  {
+    "id": "midras_am_haaretz",
+    "name": "Midras Impurity from Am HaAretz",
+    "hebrew": "טומאת מדרס של עם הארץ",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Clothes and objects left with or exposed to an am haaretz are presumed to have midras (pressure) impurity; rules for deposits with am haaretz"
+  },
+  {
+    "id": "beit_hapras_safek",
+    "name": "Beit HaPras Doubtful Impurity Cases",
+    "hebrew": "ספק טומאה בבית הפרס",
+    "parent_id": "beit_hapras",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Among the six doubtful impurity cases for which terumah is burned; the specific rules of beit hapras as a source of doubtful corpse impurity"
+  },
+  {
+    "id": "gan_shemen_gat_taharah",
+    "name": "Purity Standards in Olive Press and Wine Press",
+    "hebrew": "טהרה בבית הבד ובגת",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Detailed rules for maintaining purity during olive and grape pressing; workers' movements, trusted/untrusted persons, cleansing of press vessels"
+  },
+  {
+    "id": "designation_food_susceptibility",
+    "name": "Designation as Food (Machshavah) for Susceptibility to Impurity",
+    "hebrew": "מחשבה להכשיר אוכל לטומאה",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_taharot"
+    ],
+    "notes": "Whether designation (intention) for human consumption renders an object susceptible to food impurity; role of intent vs. act in making food susceptible; deaf-mute and minor's intention"
+  }
+]

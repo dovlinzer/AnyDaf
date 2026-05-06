@@ -1,5 +1,6 @@
 package com.anydaf.ui
 
+import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.webkit.WebResourceRequest
@@ -21,6 +22,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.OpenInBrowser
+import androidx.compose.material.icons.filled.Print
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -57,7 +59,9 @@ fun ArticleReaderScreen(
     isLoading: Boolean,
     studyFontSize: StudyFontSize,
     onSizeChange: (StudyFontSize) -> Unit,
-    onDismiss: () -> Unit
+    onDismiss: () -> Unit,
+    printFontSize: StudyFontSize = StudyFontSize.SMALL,
+    printLineSpacing: Double = 1.15
 ) {
     val context = LocalContext.current
     val darkTheme = isSystemInDarkTheme()
@@ -123,6 +127,20 @@ fun ArticleReaderScreen(
                 }
             }
             Spacer(Modifier.width(8.dp))
+            IconButton(
+                onClick = {
+                    PrintHelper.print(context, PrintableContent.Article(article, html), printFontSize, printLineSpacing)
+                },
+                enabled = !isLoading,
+                modifier = Modifier.size(40.dp)
+            ) {
+                Icon(
+                    Icons.Default.Print,
+                    "Print",
+                    tint = if (isLoading) MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f)
+                           else MaterialTheme.colorScheme.onSurface
+                )
+            }
             IconButton(onClick = onDismiss, modifier = Modifier.size(40.dp)) {
                 Icon(Icons.Default.Close, "Close", tint = MaterialTheme.colorScheme.onSurface)
             }

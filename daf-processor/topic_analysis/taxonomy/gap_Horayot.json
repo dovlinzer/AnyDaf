@@ -1,0 +1,167 @@
+[
+  {
+    "id": "par_helem_davar_shel_tzibbur_horayot",
+    "name": "Erroneous Court Ruling (Horayot) — Communal Sin Offering",
+    "hebrew": "הוראת בית דין שגגה — פר העלם דבר של ציבור",
+    "parent_id": "par_helem_davar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The specific laws of when a Sanhedrin's erroneous ruling obligates a communal bull sin-offering, including the conditions of nullifying part vs. whole of a mitzva, majority of congregation acting on it, etc."
+  },
+  {
+    "id": "horayot_individual_exemption",
+    "name": "Individual's Exemption When Following Erroneous Court Ruling",
+    "hebrew": "יחיד שעשה על פי בית דין — פטור",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The principle that an individual who acts on an erroneous Sanhedrin ruling is exempt from a personal sin-offering, and its limits (e.g., if the individual knew the court erred)."
+  },
+  {
+    "id": "kohen_gadol_chatat_par",
+    "name": "High Priest's Bull Sin-Offering for Erroneous Ruling",
+    "hebrew": "פר כהן משיח על שגגת הוראה",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The anointed High Priest who issues an erroneous ruling for himself and acts on it unwittingly brings a bull sin-offering; the parallel between High Priest liability and Sanhedrin liability."
+  },
+  {
+    "id": "kohen_gadol_vs_merubeh_begadim",
+    "name": "Anointed High Priest vs. High Priest Consecrated by Garments",
+    "hebrew": "כהן משיח לעומת מרובה בגדים",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The legal distinctions between a High Priest anointed with the anointing oil and one who was consecrated solely by wearing the eight special garments after the anointing oil was hidden."
+  },
+  {
+    "id": "kohen_gadol_onen",
+    "name": "High Priest Sacrificing as an Acute Mourner (Onen)",
+    "hebrew": "כהן גדול מקריב אונן",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The High Priest may sacrifice offerings on the day a close relative dies (as an onen) but may not eat from them; contrast with an ordinary priest who is an onen."
+  },
+  {
+    "id": "nasi_king_sin_offering",
+    "name": "King's (Nasi's) Sin-Offering — Male Goat",
+    "hebrew": "שעיר נשיא",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The king (nasi) who sins unwittingly brings a male goat as a sin-offering, distinct from the individual's ewe/female goat and the High Priest's bull. Discusses who qualifies as 'nasi'."
+  },
+  {
+    "id": "kohen_gadol_changed_status_offering",
+    "name": "Change of Status Before/After Sin — High Priest and King",
+    "hebrew": "שינוי מעמד לפני ואחרי העבירה — כהן גדול ונשיא",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "Rules for determining which offering is brought when a High Priest or king sinned before appointment or after leaving office, and whether they bring the offering of their current or former status."
+  },
+  {
+    "id": "kohen_gadol_former_acting",
+    "name": "Acting (Temporary) High Priest vs. Current High Priest",
+    "hebrew": "כהן גדול שעבר לעומת הממונה תחתיו",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "Distinctions between the current serving High Priest and a former/substitute High Priest regarding the Yom Kippur bull, daily meal-offering, and other obligations such as marriage to a virgin and restrictions on mourning."
+  },
+  {
+    "id": "asham_talui_provisional_guilt",
+    "name": "Provisional Guilt-Offering (Asham Talui) — Who Is Liable",
+    "hebrew": "אשם תלוי — חיוב יחיד ומלך",
+    "parent_id": "asham",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "In Horayot: individual and king are liable for an asham talui; anointed priest and court are exempt. Covers which categories of persons owe an asham talui vs. chatat."
+  },
+  {
+    "id": "takdimut_mitzvot_frequency",
+    "name": "Priority Between Mitzvot Based on Frequency (Tadir)",
+    "hebrew": "תדיר קודם — תדיר ומקודש",
+    "parent_id": "meth_zerizin_makdimin",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The principle that a more frequent mitzva precedes a less frequent one, and a more sanctified person precedes a less sanctified one, as applied to ordering sacrificial rites and communal priorities."
+  },
+  {
+    "id": "order_of_precedence_persons",
+    "name": "Order of Precedence Among Persons (Kohen, Levi, Yisrael, Mamzer, etc.)",
+    "hebrew": "סדר הקדימה — כהן לוי ישראל ממזר גר ועבד",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The halakhic hierarchy for rescue, return of lost objects, clothing, and redemption from captivity: priest before Levite, Levite before Israelite, Israelite before mamzer, mamzer before Gibeonite, Gibeonite before convert, convert before freed slave. Torah scholarship overrides lineage."
+  },
+  {
+    "id": "rescuing_man_vs_woman",
+    "name": "Priority in Rescue and Redemption — Man vs. Woman",
+    "hebrew": "קדימה בהצלה ופדיון — איש לפני אישה",
+    "parent_id": "fam_redeeming_captives",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "Woman precedes man for clothing and release from captivity (due to greater humiliation and risk of rape); man precedes woman for rescue from danger and return of lost objects. Special case when both face degradation in captivity."
+  },
+  {
+    "id": "horayat_shaat_haaveirah_communal",
+    "name": "Absence of Awareness of Halakha (Heflem Davar) as Trigger for Communal Offering",
+    "hebrew": "העלם דבר של ציבור — תנאי החיוב",
+    "parent_id": "par_helem_davar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "The requirement that the court's error must consist of unawareness of the law combined with unwitting action by the public; intentional ruling with unwitting public action, or unwitting ruling with intentional public action, changes liability."
+  },
+  {
+    "id": "horayot_idol_worship_special",
+    "name": "Special Rules for Erroneous Ruling on Idol Worship",
+    "hebrew": "הוראה בעבודה זרה — שעיר ופר",
+    "parent_id": "par_helem_davar",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "When the communal sin involves an erroneous ruling on idolatry, the offerings are a bull and a goat (rather than just a bull), and special rules apply for individual, king, priest, and court."
+  },
+  {
+    "id": "talmid_chacham_vs_am_haaretz_precedence",
+    "name": "Torah Scholarship Overrides Lineage in Precedence",
+    "hebrew": "תלמיד חכם קודם לכהן גדול עם הארץ",
+    "parent_id": "order_of_precedence_persons",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_horayot"
+    ],
+    "notes": "A mamzer who is a Torah scholar takes precedence over a High Priest who is ignorant. Torah wisdom surpasses all matters of lineage and priestly status in determining priority."
+  }
+]

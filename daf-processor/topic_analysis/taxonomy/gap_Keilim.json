@@ -1,0 +1,244 @@
+[
+  {
+    "id": "tumat_keilim_general",
+    "name": "Vessel Impurity — General Laws (Keilim)",
+    "hebrew": "טומאת כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Comprehensive laws of vessel susceptibility to impurity: what makes a vessel susceptible, minimum sizes, when vessels become pure upon breakage, and the distinction between flat and receptacle vessels across all materials"
+  },
+  {
+    "id": "hishtalshelut_hatumot",
+    "name": "Hierarchy of Impurity Grades (Hishtalshelut haTumot)",
+    "hebrew": "השתלשלות הטומאות",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The graduated levels of impurity transmission — rishon, sheni, shlishi, revi'i — and which sources are av hatumah vs. derivative, as discussed extensively in Keilim ch. 1"
+  },
+  {
+    "id": "dargot_kedushah",
+    "name": "Grades of Holiness (Dargot Kedushah)",
+    "hebrew": "דרגות קדושה",
+    "parent_id": "kedushah_holiness",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Ten grades of holiness from Land of Israel through the Holy of Holies, and corresponding restrictions on entry for various classes of impure persons, as enumerated in Keilim 1:6-9"
+  },
+  {
+    "id": "kelei_cheres",
+    "name": "Earthenware Vessels (Kelei Cheres)",
+    "hebrew": "כלי חרס",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Specific laws unique to earthenware vessels: impurity only through airspace, not through back/outside, completion of manufacture in the kiln, minimum sizes for broken fragments"
+  },
+  {
+    "id": "kelei_etz",
+    "name": "Wooden Vessels (Kelei Etz)",
+    "hebrew": "כלי עץ",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Laws of wooden vessel susceptibility to impurity: flat wooden objects are pure, receptacles are susceptible; minimum sizes; when manufacture is complete; large vessels holding 40 se'ah are pure"
+  },
+  {
+    "id": "kelei_matachot",
+    "name": "Metal Vessels (Kelei Matachot)",
+    "hebrew": "כלי מתכות",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Laws of metal vessel impurity: susceptibility whether flat or receptacle, reversion to impurity if reforged, vessels attached to the ground are pure, named vessels vs. unnamed, specific rules for swords, needles, keys, wagons"
+  },
+  {
+    "id": "kelei_or",
+    "name": "Leather Vessels (Kelei Or)",
+    "hebrew": "כלי עור",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Laws of leather vessels susceptibility to impurity including minimum sizes, when manufacture is complete, susceptibility of hides by intention, midras impurity of various leather goods"
+  },
+  {
+    "id": "kelei_zechuchit",
+    "name": "Glass Vessels (Kelei Zechuchit)",
+    "hebrew": "כלי זכוכית",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Unique rabbinic extension of impurity laws to glass vessels: flat glass is pure, receptacles are susceptible; breakage purifies; remanufacturing restores susceptibility; tractate Keilim ends with glass vessels"
+  },
+  {
+    "id": "tumat_tanur_vekhirayim",
+    "name": "Impurity of Ovens and Stoves (Tum'at Tanur veKirayim)",
+    "hebrew": "טומאת תנור וכיריים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Detailed laws of impurity of ovens, double stoves, and single stoves: when manufacture is complete, minimum sizes, how breakage purifies, the oven of Akhnai, protection of objects inside from impurity transmission"
+  },
+  {
+    "id": "midras_tumah",
+    "name": "Midras Impurity (Tum'at Midras)",
+    "hebrew": "טומאת מדרס",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Impurity contracted by objects used for lying/sitting/riding by a zav or zavah — its distinct rules from corpse impurity, which vessels are susceptible, minimum sizes for beds and seats"
+  },
+  {
+    "id": "tzamid_patil_protection",
+    "name": "Tightly Fitting Cover Protection (Tzamid Patil)",
+    "hebrew": "צמיד פתיל",
+    "parent_id": "mukaf_tzamid_patil",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Details of what materials constitute a valid tightly fitting cover, which vessel materials can protect their contents in a tent of a corpse, and minimum hole sizes that invalidate the cover — Keilim chapters 9-10"
+  },
+  {
+    "id": "gistera_shiyarei_kelim",
+    "name": "Remnants of Broken Vessels (Gistera / Shiyarei Kelim)",
+    "hebrew": "גיסטרא / שיירי כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Laws concerning fragments of broken vessels — minimum sizes for continued susceptibility, the principle that remnants do not have remnants, when a repaired vessel reverts to its original status"
+  },
+  {
+    "id": "chibbur_kelim",
+    "name": "Connected Parts of Vessels (Chibbur Kelim)",
+    "hebrew": "חיבור כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "When parts of a vessel are considered connected for purposes of impurity transmission — handles, plugs, coverings, ropes, staffs, plumb-lines, and other attachments; measured lengths for various implements (chapters 13, 29)"
+  },
+  {
+    "id": "penei_ugevei_kelim",
+    "name": "Inner and Outer Sides of Vessels (Penei uGevei Kelim)",
+    "hebrew": "פנים וגב כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Distinction between inner side (susceptible by airspace) and outer side (susceptible only by contact) of vessels; when inner impurity spreads to outer and vice versa; the 'holding place' of vessels (chapter 25)"
+  },
+  {
+    "id": "gemar_melacha_kelim",
+    "name": "Completion of Manufacture of Vessels (Gemar Melacha)",
+    "hebrew": "גמר מלאכה של כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The principle that vessels only become susceptible to impurity upon completion of their manufacture — what constitutes completion for different vessel types (ovens, beds, baskets, leather goods, cloth)"
+  },
+  {
+    "id": "kavvanah_lehachshir_kelim",
+    "name": "Intention to Make Vessel Susceptible (Kavvanah l'Hachshir Kelim)",
+    "hebrew": "כוונה להכשיר כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The role of intention (as opposed to act) in rendering a vessel susceptible to impurity, and the converse — when intention can render a vessel insusceptible. Vessels become susceptible by intention but cannot be rendered insusceptible except by a change-effecting act (chapter 25-26)"
+  },
+  {
+    "id": "shiurei_kelim",
+    "name": "Minimum Sizes in Laws of Vessels (Shiurei Kelim)",
+    "hebrew": "שיעורי כלים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The extensive system of minimum measurements governing vessel impurity — hole sizes that purify, minimum capacities for susceptibility, standard measures used (olive, fig, pomegranate, egg, log, se'ah), as systematized in chapter 17"
+  },
+  {
+    "id": "shiurim_standard_measures",
+    "name": "Standard Halakhic Measures (Shiurim)",
+    "hebrew": "שיעורים",
+    "parent_id": "NEW:Halakhic Measurements",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The enumeration and definition of standard halakhic measurements — olive, fig, pomegranate, date, egg, barleycorn, lentil, ox-goad thickness, cubit — and what 'moderate size' means for each (Keilim chapter 17)"
+  },
+  {
+    "id": "amah_standard_cubit",
+    "name": "The Standard Cubit (Amah)",
+    "hebrew": "אמה",
+    "parent_id": "NEW:Halakhic Measurements",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The definition and history of the cubit measurement, the two cubits at Shushan HaBirah, difference between building cubit and vessel cubit, application in Temple context"
+  },
+  {
+    "id": "tumat_begadim",
+    "name": "Impurity of Cloth and Garments (Tum'at Begadim)",
+    "hebrew": "טומאת בגדים",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Laws specific to cloth susceptibility to impurity: minimum size of 3x3 fingerbreadths for corpse impurity, 3x3 handbreadths for midras, how remnants are treated, patches and their connection, poor men's patchwork garments (chapters 27-29)"
+  },
+  {
+    "id": "hamesh_damim_begadim",
+    "name": "Five Grades of Vessel Susceptibility by Material",
+    "hebrew": "חמישה דרגות קבלת טומאה",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "The hierarchy of vessel materials and their susceptibility: cloth (5 types), sackcloth (4), leather (3), wood (2), earthenware (1) — as enumerated in Keilim 27:1"
+  },
+  {
+    "id": "moshav_hamerkav",
+    "name": "Riding-Upon vs. Sitting-Upon Impurity (Merkav vs. Moshav)",
+    "hebrew": "מרכב ומושב",
+    "parent_id": "midras_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_keilim"
+    ],
+    "notes": "Distinction between objects used for riding (merkav) and objects used for sitting (moshav) — practical halakhic differences in how impurity is transmitted by contact versus carrying (chapter 23)"
+  }
+]

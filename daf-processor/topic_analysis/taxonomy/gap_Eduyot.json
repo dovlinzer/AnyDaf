@@ -1,0 +1,497 @@
+[
+  {
+    "id": "eduyot_testimony_format",
+    "name": "Eduyot — Testimonial Format of Halakhic Transmission",
+    "hebrew": "עדות בהלכה",
+    "parent_id": "meth_baraita",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The unique format of Tractate Eduyot whereby rulings are transmitted as formal testimonies (eduyot) before sages; the halakhic and jurisprudential significance of this mode of transmission"
+  },
+  {
+    "id": "recording_minority_opinions",
+    "name": "Recording Minority Opinions in Halakha",
+    "hebrew": "שמירת דעת יחיד",
+    "parent_id": "courts_majority_minority",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The principle and rationale for recording dissenting individual opinions alongside the majority ruling, so future courts may rely on them; discussed explicitly in Eduyot 1:5-1:6"
+  },
+  {
+    "id": "beit_shammai_beit_hillel_disputes",
+    "name": "Disputes of Beit Shammai and Beit Hillel",
+    "hebrew": "מחלוקות בית שמאי ובית הילל",
+    "parent_id": "meth_tannaim_general",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The body of halakhic disputes between the schools of Shammai and Hillel, including cases where Beit Shammai is lenient and Beit Hillel strict, and vice versa; their practice of intermarrying despite disputes"
+  },
+  {
+    "id": "beit_hillel_changed_opinion",
+    "name": "Beit Hillel Changed Their Opinion to Follow Beit Shammai",
+    "hebrew": "חזרו בית הלל להורות כדברי בית שמאי",
+    "parent_id": "beit_shammai_beit_hillel_disputes",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The specific instances recorded in Eduyot where Beit Hillel reversed their position and ruled according to Beit Shammai's opinion"
+  },
+  {
+    "id": "court_overruling_prior_court",
+    "name": "Court Overruling a Prior Court's Decision",
+    "hebrew": "בית דין מבטל דברי בית דין חברו",
+    "parent_id": "courts_jurisprudence_principles",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The rule that a court may not overturn another court's ruling unless it exceeds the prior court in both wisdom and number; Eduyot 1:5"
+  },
+  {
+    "id": "tumat_eiver_min_hachai",
+    "name": "Impurity of a Limb Severed from a Living Person",
+    "hebrew": "טומאת אבר מן החי",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute among Rabbi Eliezer, Rabbi Joshua, and Rabbi Nehunia regarding the impurity status of flesh and bone severed from a living person (as opposed to a corpse); Eduyot 6:2-6:3"
+  },
+  {
+    "id": "drawn_water_mikveh",
+    "name": "Drawn Water Invalidating a Mikveh (Mayim She'uvim)",
+    "hebrew": "שאובין הפוסלין את המקווה",
+    "parent_id": "mikvah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The quantity of drawn water that invalidates a mikveh; dispute between Shammai (nine kavs), Hillel (a hin), and the testimony of weavers in the name of Shemaiah and Avtalion (three logs); Eduyot 1:3"
+  },
+  {
+    "id": "hallah_minimum_measure",
+    "name": "Minimum Measure of Dough for Challah Obligation",
+    "hebrew": "שיעור עיסה החייבת בחלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Shammai (one kav), Hillel (two kavs), and the Sages (kav and a half / five quarters) regarding the minimum measure of dough obligated in challah; Eduyot 1:2"
+  },
+  {
+    "id": "pidyon_peter_chamor_death",
+    "name": "Redemption of Firstborn Donkey That Died Before Redemption",
+    "hebrew": "פדיון פטר חמור שמת",
+    "parent_id": "peter_chamor",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute whether the owner bears financial responsibility if the firstborn donkey dies before redemption; Eduyot 7:1"
+  },
+  {
+    "id": "oven_tannur_akhnai_impurity",
+    "name": "Oven Cut Into Rings (Tannur) — Susceptibility to Impurity",
+    "hebrew": "תנור שנחתך חוליות — טומאה",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that an oven cut into rings with sand between them is susceptible to impurity; Rabbi Eliezer disagrees; Eduyot 7:7 (related to the famous Tannur shel Akhnai context)"
+  },
+  {
+    "id": "ibbur_shanah_conditional",
+    "name": "Conditional Intercalation of the Year",
+    "hebrew": "עיבור שנה על תנאי",
+    "parent_id": "ibbur_shanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that a year may be intercalated conditionally, pending approval by a leader; case of Rabban Gamliel who approved upon return from Syria; Eduyot 7:7"
+  },
+  {
+    "id": "ibbur_shanah_whole_adar",
+    "name": "Intercalation Throughout the Entire Month of Adar",
+    "hebrew": "עיבור שנה כל אדר",
+    "parent_id": "ibbur_shanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that the year may be intercalated throughout all of Adar, not only until Purim; Eduyot 7:7"
+  },
+  {
+    "id": "elijah_lineage_restoration",
+    "name": "Elijah's Role in Restoring Disputed Lineage",
+    "hebrew": "אליהו לטהר ולטמא, לרחק ולקרב",
+    "parent_id": "elijah_messianic_role",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The tradition that Elijah will come to clarify genealogical disputes — removing those wrongly admitted and admitting those wrongly excluded; debate among Rabbi Joshua, Rabbi Judah, Rabbi Shimon, and the Sages; Eduyot 8:7"
+  },
+  {
+    "id": "sanctification_of_land_eternal",
+    "name": "First Sanctification of Jerusalem — Permanent for All Time",
+    "hebrew": "קידוש ראשון קידש לשעתו ולעתיד לבוא",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Rabbi Joshua's testimony that the original sanctification of Jerusalem sanctified it for its own time and for the future, permitting sacrifices even without the Temple standing; Eduyot 8:6"
+  },
+  {
+    "id": "sacrifices_without_temple",
+    "name": "Offering Sacrifices Without the Temple Standing",
+    "hebrew": "קרבנות בזמן שאין בית המקדש",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Rabbi Joshua's view that sacrifices may be offered even without the Temple, and most holy sacrifices eaten without the curtains; Eduyot 8:6"
+  },
+  {
+    "id": "akavia_ben_mahalalel_excommunication",
+    "name": "Akavia ben Mahalalel — Refusal to Retract and Excommunication",
+    "hebrew": "עקביא בן מהללאל ונידויו",
+    "parent_id": "courts_nidui",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The story of Akavia ben Mahalalel who refused to retract four rulings despite being offered the role of head of court; his excommunication and death while excommunicated; Eduyot 5:6-5:7"
+  },
+  {
+    "id": "deaf_mute_kiddushin_get",
+    "name": "Deaf-Mute Woman's Marriage and Divorce",
+    "hebrew": "חרשת שנישאת וגירושיה",
+    "parent_id": "fam_deaf_mute",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Nehunia ben Gudgada that a deaf-mute woman given in marriage by her father can be divorced with a get; Eduyot 7:9"
+  },
+  {
+    "id": "stolen_beam_palace",
+    "name": "Stolen Beam Built Into a Palace — Monetary Restitution",
+    "hebrew": "קורה גזולה שבנאה בבירה — תשלום דמים",
+    "parent_id": "gezelah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that a stolen beam built into a palace may be restored through monetary payment of its value rather than returning the beam itself; Eduyot 7:9 (related to the Talmudic principle of takkanat hashavim)"
+  },
+  {
+    "id": "sin_offering_stolen_unknown",
+    "name": "Sin Offering Stolen When Theft Was Unknown — Atonement Valid",
+    "hebrew": "חטאת גזולה שלא נודע לרבים — כיפר",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that a stolen sin-offering whose theft was not publicly known still effects atonement for the welfare of the altar; Eduyot 7:9"
+  },
+  {
+    "id": "half_slave_half_free",
+    "name": "Half-Slave Half-Free Person (Chatzi Eved Chatzi Ben Chorin)",
+    "hebrew": "חציו עבד וחציו בן חורין",
+    "parent_id": "slav_eved_kenaani",
+    "category": "SLAVERY AND SERVITUDE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "The status and obligations of a person who is half-slave and half-free; Beit Shammai's argument that the master must emancipate him to allow him to fulfill the obligation of procreation; Beit Hillel changed their ruling; Eduyot 1:13"
+  },
+  {
+    "id": "niddah_retroactive_impurity",
+    "name": "Retroactive Reckoning of Niddah Impurity",
+    "hebrew": "למפרע בנידה",
+    "parent_id": "niddah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Shammai, Hillel, and the Sages about how far back a woman's niddah impurity applies retroactively upon discovery; the 24-hour rule vs. the examination-to-examination rule; Eduyot 1:1"
+  },
+  {
+    "id": "maaser_sheni_exchange_uncoined_metal",
+    "name": "Exchanging Second Tithe for Uncoined Metal",
+    "hebrew": "פדיון מעשר שני בשיבוח אסימון",
+    "parent_id": "pidyon_maaser_sheni",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Rabbi Dosa and the Sages whether second tithe may be redeemed for uncoined metal (asimon); Eduyot 3:2"
+  },
+  {
+    "id": "kerem_revay_fifth_and_removal",
+    "name": "Fourth Year Vineyard — Laws of Fifth and Removal",
+    "hebrew": "כרם רבעי — חומש וביעור",
+    "parent_id": "kerem_revay",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel whether fourth-year vineyard fruit is subject to the additional fifth (chomesh) and the law of removal (biur); Eduyot 4:5"
+  },
+  {
+    "id": "kiddushin_minimum_value_perutah",
+    "name": "Minimum Value for Valid Kiddushin (Perutah vs. Denar)",
+    "hebrew": "שיעור קידושין — פרוטה או דינר",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (a denar or its value) and Beit Hillel (a perutah or its value) as the minimum for valid betrothal; Eduyot 4:7"
+  },
+  {
+    "id": "old_get_serugin",
+    "name": "Old Get (Get Yashan) — Seclusion After Writing",
+    "hebrew": "גט ישן",
+    "parent_id": "mar_get",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel regarding whether a get written before the husband secluded himself with his wife again is still valid; Eduyot 4:7"
+  },
+  {
+    "id": "rival_wives_yibbum_eligibility",
+    "name": "Rival Wives (Tzarot) and Yibbum Eligibility",
+    "hebrew": "צרות ויבום",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Major dispute between Beit Shammai (permits rival wives to the surviving brothers for yibbum) and Beit Hillel (forbids); consequences for priestly fitness after chalitzah or yibbum; Eduyot 4:8"
+  },
+  {
+    "id": "liquid_slaughterhouse_purity",
+    "name": "Purity of Liquids in the Temple Slaughterhouse",
+    "hebrew": "משקין בית מטבחיא — טהרתן",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Yose ben Yoezer that liquids in the Temple slaughterhouse are pure (not subject to impurity); Eduyot 8:4"
+  },
+  {
+    "id": "ayal_locust_purity",
+    "name": "Purity of the Ayal Locust",
+    "hebrew": "טהרת האיל הסלעמית",
+    "parent_id": "kosher_grasshoppers",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Yose ben Yoezer (Yose the Permitter) that the ayal locust is pure/permitted; Eduyot 8:4"
+  },
+  {
+    "id": "corpse_contact_impurity_yose_ben_yoezer",
+    "name": "Impurity from Touching a Corpse (Testimony of Yose ben Yoezer)",
+    "hebrew": "טומאת מגע במת — עדות יוסי בן יועזר",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Yose ben Yoezer's testimony that one who touches a corpse becomes impure (he declared this as a leniency relative to the prior practice); Eduyot 8:4"
+  },
+  {
+    "id": "get_signed_not_written_by_parties",
+    "name": "Validity of Get/Document — Depends on Signatories",
+    "hebrew": "גט שכתבה היא ושובר שכתבו הוא — כשר",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that a document's legal validity depends only on its signatories, not on who physically wrote it; a wife may write her own get and a husband may write his own receipt; Eduyot 2:3"
+  },
+  {
+    "id": "proselyte_erev_pesach_korban",
+    "name": "Proselyte Who Converted on Erev Pesach — May He Bring Korban Pesach",
+    "hebrew": "גר שנתגייר בערב פסח",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (may immerse and eat the Passover sacrifice that evening) and Beit Hillel (compared to one separating from a grave, must wait); Eduyot 5:2"
+  },
+  {
+    "id": "koheleth_defiles_hands",
+    "name": "Whether Kohelet Defiles the Hands (Canonical Status)",
+    "hebrew": "קהלת מטמא את הידיים",
+    "parent_id": "sefer_torah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (Kohelet does not defile the hands) and Beit Hillel (it does defile the hands), regarding the canonical/sacred status of Ecclesiastes; Eduyot 5:3"
+  },
+  {
+    "id": "fowl_with_cheese_table",
+    "name": "Placing Fowl on a Table with Cheese",
+    "hebrew": "עוף עם גבינה על השולחן",
+    "parent_id": "basar_bechalav",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (fowl may be placed on the same table as cheese but not eaten together) and Beit Hillel (may neither be placed nor eaten together); Eduyot 5:2"
+  },
+  {
+    "id": "nazirite_in_diaspora_returning_to_land",
+    "name": "Nazirite Who Made Vow Outside the Land and Came to Israel",
+    "hebrew": "נזיר שגלח בחוץ לארץ ובא לארץ",
+    "parent_id": "vow_nazirite",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai and Beit Hillel about how long such a nazir must observe naziriteship upon arriving in the Land of Israel; Eduyot 4:11"
+  },
+  {
+    "id": "nazirite_conflicting_witness_groups",
+    "name": "Nazirite — Two Witness Groups Testifying Different Numbers of Neziruyot",
+    "hebrew": "נזיר שיש לו שתי כתות עדים",
+    "parent_id": "vow_nazirite",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (testimony divided, no naziriteship) and Beit Hillel (two are included within five, must be nazirite twice) when witnesses disagree on the number of neziruyot vowed; Eduyot 4:11"
+  },
+  {
+    "id": "shikchah_large_sheaf",
+    "name": "Large Forgotten Sheaf — Whether Subject to Shikchah",
+    "hebrew": "שיכחה בעומר גדול",
+    "parent_id": "shikchah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute between Beit Shammai (a four-kav sheaf that was forgotten is not subject to shikchah) and Beit Hillel (it is subject); Eduyot 4:3-4:4"
+  },
+  {
+    "id": "hefker_poor_only",
+    "name": "Declaring Ownerless for the Poor Only",
+    "hebrew": "הפקר לעניים",
+    "parent_id": "peah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute whether declaring produce ownerless only for the poor (but not for the rich) counts as valid hefker for peah/shikchah purposes; Beit Shammai permits, Beit Hillel requires hefker for all; Eduyot 4:3"
+  },
+  {
+    "id": "offspring_shelamim",
+    "name": "Offspring of a Peace-Offering — May It Be Brought as a Peace-Offering",
+    "hebrew": "ולד שלמים — האם קרב שלמים",
+    "parent_id": "shelamim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Joshua and Rabbi Papias that the offspring of a peace-offering may itself be brought as a peace-offering; Rabbi Eliezer disagrees; Eduyot 7:6"
+  },
+  {
+    "id": "tamid_fourth_hour",
+    "name": "Morning Tamid Offered at the Fourth Hour",
+    "hebrew": "תמיד של שחר בשעה הרביעית",
+    "parent_id": "korban_tamid",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Judah ben Bava that the morning daily offering was brought at the fourth hour; Eduyot 6:1"
+  },
+  {
+    "id": "wine_forty_days_libation",
+    "name": "Wine Forty Days Old as Valid for Altar Libation",
+    "hebrew": "יין בן ארבעים יום לנסכים",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Judah ben Bava that wine forty days old was used as a libation on the altar; Eduyot 6:1"
+  },
+  {
+    "id": "female_captive_terumah",
+    "name": "Female Captive and Her Eligibility to Eat Terumah",
+    "hebrew": "שבויה ואכילת תרומה",
+    "parent_id": "terumah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Dispute regarding a priest's wife taken captive: whether she may eat terumah upon return; the role of self-testimony and corroborating witnesses; Eduyot 3:6"
+  },
+  {
+    "id": "issa_family_doubtful_lineage",
+    "name": "Family of Doubtful Lineage (Issa)",
+    "hebrew": "משפחת עיסה",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Status of a family of doubtful lineage (issa) and whether widows from such families may marry kohanim; the authority of courts to investigate such lineage; Eduyot 8:3"
+  },
+  {
+    "id": "pigeon_racing_invalid_witness",
+    "name": "Pigeon Racers Disqualified as Witnesses",
+    "hebrew": "מפריחי יונים — פסולין לעדות",
+    "parent_id": "courts_witness_qualification",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony that those who fly racing pigeons are disqualified from giving testimony; Eduyot 2:7"
+  },
+  {
+    "id": "doubt_tumah_public_private_domain",
+    "name": "Doubtful Tumah in Public vs. Private Domain",
+    "hebrew": "ספק טומאה ברשות הרבים ורשות היחיד",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Cases of doubtful impurity debated between Rabbi Joshua (impure) and the Sages (pure) involving impure person passing pure person, and impurity in public vs. private domains; Eduyot 3:7"
+  },
+  {
+    "id": "ashes_red_heifer_defiled_by_touch",
+    "name": "Ashes of Red Heifer Defiled by Touching Part of Them",
+    "hebrew": "אפר פרה אדומה שנגע בחלקו",
+    "parent_id": "parah_adumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_eduyot"
+    ],
+    "notes": "Testimony of Rabbi Shimon ben Bathyra that if a defiled person touched part of the ashes of purification, the whole batch is defiled; Eduyot 8:1"
+  }
+]

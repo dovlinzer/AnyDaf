@@ -1,0 +1,453 @@
+[
+  {
+    "id": "mar_virginity_claim",
+    "name": "Virginity Claim (Taanat Betulim)",
+    "hebrew": "טענת בתולים",
+    "parent_id": "mar_kiddushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Husband's claim that bride was not a virgin; procedures, burden of proof, credibility of parties"
+  },
+  {
+    "id": "mar_hinnuma",
+    "name": "Hinnuma (Bridal Veil/Wedding Customs as Evidence)",
+    "hebrew": "הינומא",
+    "parent_id": "mar_nisuin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Use of bridal veil and uncovered hair as evidence of virgin status at time of marriage"
+  },
+  {
+    "id": "mar_ketubah_stipulations",
+    "name": "Ketubah Stipulations (Tena'ei Ketubah)",
+    "hebrew": "תנאי כתובה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Court-mandated and voluntary stipulations included in or implied by the ketubah, including redemption from captivity, medical care, daughters' sustenance, widow's residence"
+  },
+  {
+    "id": "mar_widow_sustenance",
+    "name": "Widow's Sustenance from Estate (Mezonot Almanah)",
+    "hebrew": "מזונות אלמנה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "A widow's right to be sustained from her late husband's estate until she remarries or collects her ketubah"
+  },
+  {
+    "id": "mar_widow_residence",
+    "name": "Widow's Right of Residence (Dirat Almanah)",
+    "hebrew": "דירת אלמנה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "A widow's right to continue residing in her late husband's house; differences between Jerusalem, Galilee, and Judea customs"
+  },
+  {
+    "id": "mar_daughters_sustenance",
+    "name": "Daughters' Sustenance Stipulation (Mezonot Banot)",
+    "hebrew": "מזונות הבנות",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Court stipulation that daughters are sustained from the father's estate after his death until married"
+  },
+  {
+    "id": "mar_ketubot_benin_dichrin",
+    "name": "Sons Inheriting Mother's Ketubah (Ketubot Benin Dichrin)",
+    "hebrew": "כתובת בנין דכרין",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Stipulation that male children of a wife inherit her ketubah amount in addition to their share with other brothers"
+  },
+  {
+    "id": "mar_ketubah_collection_oath",
+    "name": "Oath Required for Ketubah Collection (Shevu'at Ketubah)",
+    "hebrew": "שבועת כתובה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Circumstances requiring a woman to take an oath before collecting her ketubah, including partial admission, single witness, collection from orphans or liened property"
+  },
+  {
+    "id": "mar_ketubah_collection_widow",
+    "name": "Widow's Collection of Ketubah (Gviyat Ketubah)",
+    "hebrew": "גביית כתובה",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Procedures and time limits for a widow or divorcée to collect her ketubah, including selling husband's property outside court"
+  },
+  {
+    "id": "mar_ketubah_precedence",
+    "name": "Ketubah Precedence Among Multiple Wives",
+    "hebrew": "קדימות בכתובות",
+    "parent_id": "mar_ketubah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Order of collection when a man had multiple wives with competing ketubah claims against the estate"
+  },
+  {
+    "id": "mar_ailonit",
+    "name": "Ailonit (Sexually Underdeveloped Woman)",
+    "hebrew": "איילונית",
+    "parent_id": "mar_forbidden_unions",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Halakhic status and marriage rights of an ailonit; whether she is entitled to a ketubah"
+  },
+  {
+    "id": "mar_moredet_husband",
+    "name": "Husband Who Rebels Against Wife (Mored)",
+    "hebrew": "מורד על אשתו",
+    "parent_id": "mar_moredes",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Incremental increase in ketubah obligation when husband withholds conjugal rights or refuses to support wife"
+  },
+  {
+    "id": "mar_vow_restricting_wife",
+    "name": "Husband's Vow Restricting Wife",
+    "hebrew": "נדר המגביל את האישה",
+    "parent_id": "vow_nedarim",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Cases where husband vows to restrict wife from food, adornment, visiting family, or attending social gatherings, requiring divorce with ketubah payment"
+  },
+  {
+    "id": "mar_blemishes_marriage",
+    "name": "Blemishes Discovered After Marriage (Mumim b'Nisuin)",
+    "hebrew": "מומים בנישואין",
+    "parent_id": "mar_mekach_taut",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Physical defects discovered after betrothal or marriage; who bears burden of proof and grounds for divorce without ketubah payment"
+  },
+  {
+    "id": "mar_wife_property_rights",
+    "name": "Wife's Property Rights During Marriage (Nichsei Melog and Tzon Barzel)",
+    "hebrew": "נכסי מלוג ונכסי צאן ברזל",
+    "parent_id": "mar_melog",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Distinctions between usufruct property (melog) and guaranteed-value property (tzon barzel); husband's rights to produce vs. wife's principal"
+  },
+  {
+    "id": "mar_wife_work_obligations",
+    "name": "Wife's Work Obligations to Husband",
+    "hebrew": "מלאכות שהאישה עושה לבעלה",
+    "parent_id": "mar_wives_obligations",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Fixed list of household tasks a wife must perform; how the number of maidservants she brings reduces her obligations"
+  },
+  {
+    "id": "mar_husband_onah_obligation",
+    "name": "Conjugal Frequency Obligation (Onah)",
+    "hebrew": "עונה",
+    "parent_id": "mar_conjugal_rights",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Detailed schedule of conjugal obligations according to husband's occupation (men of leisure, laborers, donkey drivers, camel drivers, sailors)"
+  },
+  {
+    "id": "mar_dowry_assessment",
+    "name": "Dowry Assessment and Valuation",
+    "hebrew": "שומת הנדוניה",
+    "parent_id": "mar_nedunya",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Rules for how goods and money of a dowry are assessed in the ketubah; the one-fifth inflation of goods valuation"
+  },
+  {
+    "id": "mar_sustaining_stepdaughter",
+    "name": "Obligation to Sustain Stepdaughter",
+    "hebrew": "מזונות בת אשתו",
+    "parent_id": "mar_husband_obligations",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "A husband who stipulates to sustain his wife's daughter from a prior relationship; obligations persist after divorce"
+  },
+  {
+    "id": "mar_father_authority_daughter",
+    "name": "Father's Authority Over Daughter (Reshut HaAv)",
+    "hebrew": "רשות האב בבתו",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Father's legal rights over minor daughter: betrothal proceeds, earnings, found objects, vow nullification, receiving her get"
+  },
+  {
+    "id": "mar_captive_woman_purity",
+    "name": "Captive Woman's Purity (Ishto Shevuyah)",
+    "hebrew": "אשתו שבויה",
+    "parent_id": "fam_agunah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Presumption of violation for women captured by enemy forces; husband obligated to redeem wife; priest's wife who was captured"
+  },
+  {
+    "id": "mar_meiah_zuz_priest",
+    "name": "Kohen's Daughter Ketubah (Four Hundred Zuz)",
+    "hebrew": "כתובת בת כהן",
+    "parent_id": "mar_ketubah_amount",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Custom of priestly courts to grant four hundred dinars ketubah for a virgin daughter of a priest"
+  },
+  {
+    "id": "mar_moving_wife",
+    "name": "Relocating a Wife (Havasat Ishah)",
+    "hebrew": "הוצאת אישה ממקומה",
+    "parent_id": "mar_husband_obligations",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Limits on husband's right to compel wife to move between towns or lands; three geographic regions of Israel"
+  },
+  {
+    "id": "mar_aliyah_eretz_yisrael_marriage",
+    "name": "Compelling Aliyah to Eretz Yisrael in Marriage",
+    "hebrew": "כפיית עלייה לארץ ישראל",
+    "parent_id": "israel_land",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Either spouse may compel the other to immigrate to Eretz Yisrael or move to Jerusalem; refusal as grounds for divorce"
+  },
+  {
+    "id": "mar_rape_fine_oness",
+    "name": "Rape Fine (Kenas Oness)",
+    "hebrew": "קנס אונס",
+    "parent_id": "mar_rape",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Fine paid to father of raped young woman; who qualifies, who is exempt; distinction from seduction; rapist must marry victim"
+  },
+  {
+    "id": "mar_seduction_fine_pitui",
+    "name": "Seduction Fine (Kenas Mefateh)",
+    "hebrew": "קנס מפתה",
+    "parent_id": "mar_seduction",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Fine paid to father for seduction of a young woman; three vs. four payments compared to rape; seducer may release the woman"
+  },
+  {
+    "id": "mar_defamation_motzi_shem_ra_payment",
+    "name": "False Defamation Fine (Motzi Shem Ra — Ketubah Context)",
+    "hebrew": "מוציא שם רע בנישואין",
+    "parent_id": "crim_false_accusation_motzi_shem",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Husband falsely claims wife was not a virgin; 100 sela fine and prohibition from divorcing her; does not apply to converts"
+  },
+  {
+    "id": "mar_husband_wife_oath",
+    "name": "Husband Administering Oath to Wife",
+    "hebrew": "שבועה לאישה",
+    "parent_id": "courts_oaths_adjudication",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Husband's right to administer oaths regarding wife's management of household property; ability to waive this right in ketubah"
+  },
+  {
+    "id": "mar_husband_overseas",
+    "name": "Husband Who Went Overseas (Ba'al sheHalakh leMedinah haYam)",
+    "hebrew": "בעל שהלך למדינת הים",
+    "parent_id": "mar_husband_obligations",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Wife's entitlement to sustenance when husband is overseas; oath requirements upon his return; third party who sustained the wife"
+  },
+  {
+    "id": "mar_ketubah_currency",
+    "name": "Ketubah Currency and Geographic Variation",
+    "hebrew": "מטבע הכתובה",
+    "parent_id": "mar_ketubah_amount",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Which currency standard applies when husband and wife married and divorced in different countries or regions"
+  },
+  {
+    "id": "mon_orphan_estate_distribution",
+    "name": "Distribution of Estate Among Orphans",
+    "hebrew": "חלוקת עיזבון ביתומים",
+    "parent_id": "mon_heirs",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Rules for distributing estate when there are multiple creditors, widows, and heirs including the 'weakest one' dispute between R. Tarfon and R. Akiva"
+  },
+  {
+    "id": "mar_meun_minor",
+    "name": "Mi'un (Refusal by Minor Girl)",
+    "hebrew": "מיאון",
+    "parent_id": "mar_gerushin",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Minor orphan girl's right to refuse marriage arranged by mother or brothers upon reaching majority; no ketubah entitlement upon refusal"
+  },
+  {
+    "id": "courts_admon_rulings",
+    "name": "Rulings of Admon (Seven Decrees)",
+    "hebrew": "דיני עדמון",
+    "parent_id": "courts_jurisprudence_principles",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Seven disputed rulings by the Jerusalem judge Admon, including field ownership after signing as witness, lost path to field, cross-debts"
+  },
+  {
+    "id": "courts_hanan_rulings",
+    "name": "Rulings of Ḥanan ben Avishalom",
+    "hebrew": "דיני חנן בן אבישלום",
+    "parent_id": "courts_jurisprudence_principles",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Two rulings by Jerusalem judge Ḥanan regarding wife's oath when husband is overseas and reimbursement to one who sustained another's wife"
+  },
+  {
+    "id": "mon_peh_sheasar_hu_peh_shehitir",
+    "name": "The Mouth That Prohibited is the Mouth That Permitted (Peh sheAsar hu Peh sheHitir)",
+    "hebrew": "פה שאסר הוא פה שהתיר",
+    "parent_id": "herm_miggo",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Credibility principle: one who admits a fact that creates a prohibition is believed when claiming it no longer applies; used extensively in Ketubot"
+  },
+  {
+    "id": "mar_betulah_eid_wedding",
+    "name": "Evidence of Virginity at Wedding (Edut al Betulah)",
+    "hebrew": "עדות על הבתולים בחופה",
+    "parent_id": "mar_virginity_claim",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Forms of testimony and evidence establishing that a woman was married as a virgin, including witnesses to hinnuma and distribution of roasted grain"
+  },
+  {
+    "id": "mar_priest_cannot_remarry_divorcee",
+    "name": "Priest Forbidden to Remarry His Divorcée",
+    "hebrew": "כהן שגירש אשתו",
+    "parent_id": "fam_cohen_marriage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Practical halakhic consequence that a priest is given extra time before being forced to divorce, since he cannot remarry his ex-wife"
+  },
+  {
+    "id": "mar_supported_orphan_dowry",
+    "name": "Dowry for Orphan Girl from Charity",
+    "hebrew": "נדוניה ליתומה מן הצדקה",
+    "parent_id": "mar_nedunya",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Charity administrators' obligation to provide at least fifty dinars dowry for an orphan girl they marry off"
+  },
+  {
+    "id": "mar_ketubah_sale_by_widow",
+    "name": "Widow's Sale of Estate Property for Sustenance",
+    "hebrew": "מכירת נכסים על ידי האלמנה",
+    "parent_id": "mar_widow_sustenance",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Rules governing a widow's right to sell her late husband's property to fund her sustenance; whether in court or outside court; limits on overselling"
+  },
+  {
+    "id": "mar_sons_daughters_small_estate",
+    "name": "Sons vs. Daughters in Small Estate",
+    "hebrew": "בנים ובנות בנכסים מועטים",
+    "parent_id": "mon_heirs",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Dispute between Admon and Rabbis: when estate is insufficient for both sons' inheritance and daughters' sustenance, daughters take precedence"
+  },
+  {
+    "id": "mar_yevama_property",
+    "name": "Yevama's Property Rights Pending Levirate Marriage",
+    "hebrew": "נכסי יבמה",
+    "parent_id": "mar_yibbum",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah_ketubot"
+    ],
+    "notes": "Rights of a widow waiting for her yavam regarding property she inherits; how her usufruct property is treated before and after yibbum"
+  }
+]

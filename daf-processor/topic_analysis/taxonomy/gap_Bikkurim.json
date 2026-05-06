@@ -1,0 +1,200 @@
+[
+  {
+    "id": "bikkurim_declaration",
+    "name": "Bikkurim Declaration (Viduy Bikkurim)",
+    "hebrew": "וידוי בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The recitation of Deuteronomy 26:3-10 accompanying the bringing of first fruits; who recites and who does not (convert, guardian, slave, woman, tumtum, androginus)"
+  },
+  {
+    "id": "bikkurim_eligibility",
+    "name": "Eligibility to Bring Bikkurim",
+    "hebrew": "חיוב והבאת בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Who brings and recites, who brings but does not recite, and who does not bring at all — including sharecroppers, robbers, converts, women, slaves, guardians"
+  },
+  {
+    "id": "bikkurim_seven_species",
+    "name": "Bikkurim from the Seven Species",
+    "hebrew": "בכורים משבעת המינים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Requirement that bikkurim come specifically from the seven species; restrictions on produce from hills, valleys, or non-choice olives"
+  },
+  {
+    "id": "bikkurim_pilgrimage_ceremony",
+    "name": "Bikkurim Pilgrimage Procession",
+    "hebrew": "הולכת בכורים לירושלים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The festive procession of bringing bikkurim to Jerusalem — the maamad assemblies, the ox with gilded horns, the flute, the greeting by Temple officials"
+  },
+  {
+    "id": "bikkurim_waving_tenufah",
+    "name": "Waving of Bikkurim (Tenufah)",
+    "hebrew": "תנופת בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The ritual waving of the bikkurim basket by the owner and priest together at the Temple"
+  },
+  {
+    "id": "bikkurim_tosfet",
+    "name": "Additions to Bikkurim (Tosfet Bikkurim)",
+    "hebrew": "תוספת בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Laws of produce added to bikkurim baskets beyond the bikkurim themselves, and the ornamentation of bikkurim — their status and rules"
+  },
+  {
+    "id": "bikkurim_designation",
+    "name": "Designation of Bikkurim (Hekdesh bikkurim)",
+    "hebrew": "הפרשת בכורים בשדה",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The act of marking first fruits while still attached to the soil; the dispute whether a second designation is required after plucking"
+  },
+  {
+    "id": "bikkurim_priestly_ownership",
+    "name": "Bikkurim as Priestly Property",
+    "hebrew": "בכורים ניתנים לכהן",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Status of bikkurim as priest's property — may be used to purchase slaves, land, or unclean animals; distribution to mishmar"
+  },
+  {
+    "id": "ger_bikkurim",
+    "name": "Convert's Bikkurim and Declaration",
+    "hebrew": "בכורים של גר",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Convert brings bikkurim but cannot recite the declaration ('which the Lord swore to our fathers'); prayer formulations for converts in synagogue vs. private"
+  },
+  {
+    "id": "comparative_halakha_method",
+    "name": "Comparative Halakhic Analysis (X is like Y in some ways)",
+    "hebrew": "שווה בדינים ושונה בדינים",
+    "parent_id": "NEW:TALMUDIC METHODOLOGY",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The Mishnaic literary form of comparing legal categories (terumah vs. bikkurim, etrog vs. tree/vegetable, koy vs. behemah/hayyah, androginus vs. man/woman) to derive halakha"
+  },
+  {
+    "id": "koy_animal",
+    "name": "Koy (Animal of Uncertain Classification)",
+    "hebrew": "כוי",
+    "parent_id": "kosher_animals",
+    "category": "KASHRUT",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The koy is an animal of uncertain status — neither clearly domesticated (behemah) nor wild (hayyah); its laws regarding blood covering, chelev, firstborn, kilayim, and shechitah"
+  },
+  {
+    "id": "etrog_classification",
+    "name": "Etrog's Halakhic Classification",
+    "hebrew": "אתרוג — דינו כאילן וכירק",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The etrog is compared to both a tree and a vegetable — implications for orlah, revai, shemitah, and tithing by harvest time vs. growth time"
+  },
+  {
+    "id": "androginus_halakhic_status",
+    "name": "Androginus (Hermaphrodite) — Detailed Halakhic Status",
+    "hebrew": "אנדרוגינוס",
+    "parent_id": "fam_hermaphrodite",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Comprehensive treatment of the androginus: ways it is like a man, like a woman, like both, and like neither — covering tumah, inheritance, mitzvot, testimony, yibbum, nazirite vows"
+  },
+  {
+    "id": "maamad_assembly",
+    "name": "Ma'amad (Assembly for Temple Pilgrimage)",
+    "hebrew": "מעמד",
+    "parent_id": "aliyah_laregel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The cities of the maamad would assemble together and travel jointly to Jerusalem for bikkurim; the maamad officer's role"
+  },
+  {
+    "id": "human_blood_tumah",
+    "name": "Tumah Status of Human Blood",
+    "hebrew": "דם האדם לעניין טומאה",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Human blood compared to animal blood (renders seeds susceptible to tumah) and to sheretz blood (not liable for eating) — its dual halakhic nature"
+  },
+  {
+    "id": "bikkurim_responsibility",
+    "name": "Owner's Responsibility for Bikkurim Until Delivery",
+    "hebrew": "אחריות על בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "The owner bears financial/halakhic responsibility for bikkurim from designation until arrival at the Temple Mount; replacement obligations if lost, stolen, or became impure"
+  },
+  {
+    "id": "bikkurim_onen",
+    "name": "Bikkurim and the Onen",
+    "hebrew": "אונן ובכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "An onen (mourner before burial) is forbidden from eating bikkurim; dispute of R. Shimon who permits"
+  },
+  {
+    "id": "bikkurim_biur",
+    "name": "Biur Bikkurim (Removal of Bikkurim)",
+    "hebrew": "ביעור בכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_bikkurim"
+    ],
+    "notes": "Bikkurim are subject to the law of biur (removal); dispute whether this applies equally or is exempted per R. Shimon"
+  }
+]

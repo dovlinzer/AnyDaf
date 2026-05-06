@@ -1,0 +1,511 @@
+[
+  {
+    "id": "metziah_found_object_division",
+    "name": "Division of Found Object Between Two Claimants",
+    "hebrew": "שניים אוחזים בטלית",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "The foundational case of two claimants each holding a garment claiming full ownership, resolved by oath and division; core topic of Bava Metzia ch. 1"
+  },
+  {
+    "id": "hashavas_aveidah_proclamation",
+    "name": "Proclamation of Found Object (Hakhrazah)",
+    "hebrew": "הכרזת אבידה",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Obligation to proclaim found items so the owner can reclaim them; which items require proclamation and which do not; duration of proclamation obligation"
+  },
+  {
+    "id": "yiush_aveidah",
+    "name": "Despair of Owner (Yiush) in Lost Objects",
+    "hebrew": "יאוש באבידה",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "When owner's despair of recovering lost property affects finder's acquisition rights; relevant to found items in various locations"
+  },
+  {
+    "id": "simanim_distinguishing_marks",
+    "name": "Distinguishing Marks (Simanim)",
+    "hebrew": "סימנים",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Use of distinguishing marks to identify and reclaim lost property; whether simanim work by Torah law or rabbinic enactment; what constitutes an effective siman"
+  },
+  {
+    "id": "care_of_found_objects",
+    "name": "Care and Safeguarding of Found Objects",
+    "hebrew": "שמירת אבידה",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Obligations of finder to care for found animals, scrolls, garments, and vessels until owner claims them; working animals to cover feed costs"
+  },
+  {
+    "id": "returning_lost_animal",
+    "name": "Returning Lost Animal (Hashavat Aveidah — Beheimah)",
+    "hebrew": "השבת אבידה בבהמה",
+    "parent_id": "hashavat_aveidah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Specific rules for returning lost animals including loading/unloading burdens, repeated returns, compensation for finder's lost work time"
+  },
+  {
+    "id": "perikah_teinah",
+    "name": "Unloading and Loading Burdens (Perikah and Te'inah)",
+    "hebrew": "פריקה וטעינה",
+    "parent_id": "hashavat_aveidah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Mitzvah to unload a burden from an animal collapsing under it and to help reload; dispute whether loading is biblical or rabbinic; obligation to help enemy's animal"
+  },
+  {
+    "id": "priority_lost_objects",
+    "name": "Priority Among Lost Objects (Kevod HaTorah vs. Kvod Av)",
+    "hebrew": "קדימה בהשבת אבידה",
+    "parent_id": "hashavat_aveidah",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules of priority when one finds both his own and his father's or teacher's lost item; teacher's lost object takes precedence over father's"
+  },
+  {
+    "id": "shomer_chinam",
+    "name": "Unpaid Bailee (Shomer Chinam)",
+    "hebrew": "שומר חינם",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules specific to the unpaid bailee: liable for negligence, exempt for theft/loss if takes oath; detailed treatment in Bava Metzia ch. 3 and 7"
+  },
+  {
+    "id": "shomer_sachar",
+    "name": "Paid Bailee (Shomer Sachar)",
+    "hebrew": "שומר שכר",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules specific to the paid bailee: liable for theft and loss, exempt for circumstances beyond control upon oath; compared with renter"
+  },
+  {
+    "id": "sho_el_borrower",
+    "name": "Borrower (Sho'el)",
+    "hebrew": "שואל",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Borrower is liable for all mishaps including ones beyond control; exception when owner is working for borrower at time (ba'alav immo)"
+  },
+  {
+    "id": "baalav_immo",
+    "name": "Owner Working for Borrower (Ba'alav Immo)",
+    "hebrew": "בעליו עמו",
+    "parent_id": "sho_el_borrower",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Exemption from borrower's liability when the owner of the borrowed item was in service of the borrower at the time of the loan; Exodus 22:14"
+  },
+  {
+    "id": "shomer_sheshachar_laacher",
+    "name": "Bailee Who Lends Owner's Item to Another",
+    "hebrew": "שואל שהשאיל לאחר",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Case where renter lends animal to borrower; who bears liability and to whom when the animal dies"
+  },
+  {
+    "id": "shlichut_shover",
+    "name": "Transfer of Deposit Via Agent or Family Member",
+    "hebrew": "שליחות בפיקדון",
+    "parent_id": "mon_deposits",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Bailee who sent deposit via son, slave, or agent; when liability begins and who bears risk during transit"
+  },
+  {
+    "id": "shelichut_acquisition_delivery",
+    "name": "Agency in Delivery of Borrowed Item",
+    "hebrew": "שליחות במסירת שאולה",
+    "parent_id": "mon_agency",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules about sending borrowed item via agent; when borrower's liability begins based on who requested and agreed to the agent"
+  },
+  {
+    "id": "ribbit_prohibited_interest",
+    "name": "Ribbit — Prohibited Interest",
+    "hebrew": "ריבית אסורה",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Detailed treatment of neshekh vs. tarbit; biblical and rabbinic forms of interest; parties who violate the prohibition (lender, borrower, guarantor, witnesses, scribe)"
+  },
+  {
+    "id": "ribbit_ketzutzah",
+    "name": "Fixed/Explicit Interest (Ribbit Ketzutzah)",
+    "hebrew": "ריבית קצוצה",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Interest explicitly stipulated at time of loan; biblical prohibition requiring return of the interest amount"
+  },
+  {
+    "id": "avak_ribbit",
+    "name": "Dust of Interest (Avak Ribbit)",
+    "hebrew": "אבק ריבית",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rabbinic category of interest-like arrangements prohibited but not requiring repayment; includes verbal benefits, premature gifts to lender, price differentials"
+  },
+  {
+    "id": "ribbit_verbal",
+    "name": "Verbal Interest (Ribbit b'Devarim)",
+    "hebrew": "ריבית בדברים",
+    "parent_id": "avak_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on providing information or other non-monetary benefits as compensation for a loan; Rabbi Shimon's opinion in Bava Metzia 5:10"
+  },
+  {
+    "id": "ribbit_iska",
+    "name": "Business Partnership Investment (Iska)",
+    "hebrew": "עסקה / איסקא",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Permissible and impermissible profit-sharing arrangements; half-loan half-deposit structure; precursor to heter iska"
+  },
+  {
+    "id": "ribbit_sharecropper_loan",
+    "name": "Interest Issues in Agricultural Loans to Sharecroppers",
+    "hebrew": "ריבית באריסות",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Lending wheat to sharecroppers for seeding vs. eating; concern about price changes creating interest; Rabban Gamliel's stringent practice"
+  },
+  {
+    "id": "ona_ah_devarim",
+    "name": "Verbal Mistreatment (Ona'at Devarim)",
+    "hebrew": "אונאת דברים",
+    "parent_id": "eth_onaat_devarim",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on causing pain through words; examples: reminding penitent of past deeds, reminding convert of ancestors' conduct; Bava Metzia 4:10"
+  },
+  {
+    "id": "ona_ah_mamon",
+    "name": "Price Fraud in Sales (Ona'at Mamon)",
+    "hebrew": "אונאת ממון",
+    "parent_id": "mon_onaah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "One-sixth overcharge rule; time limit for returning item; items exempt from ona'ah (land, slaves, documents, hekdesh); detailed treatment in Bava Metzia ch. 4"
+  },
+  {
+    "id": "geneivat_daat_commerce",
+    "name": "Deceptive Practices in Commerce (Geneivat Daat)",
+    "hebrew": "גניבת דעת במסחר",
+    "parent_id": "eth_misleading",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on mixing produce, adulterating wine with water, adorning slaves or animals for sale; detailed commercial deception rules in Bava Metzia 4:11-12"
+  },
+  {
+    "id": "ta_arovet_produce",
+    "name": "Mixing of Produce (Ta'arovet)",
+    "hebrew": "ערבוב פירות",
+    "parent_id": "geneivat_daat_commerce",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on mixing inferior with superior produce for sale; exceptions for wine; rules for merchants combining produce from multiple sources"
+  },
+  {
+    "id": "kinyan_meshicha_peiros",
+    "name": "Acquisition of Produce by Pulling (Meshicha)",
+    "hebrew": "קניין משיכה בפירות",
+    "parent_id": "mon_kinyan_meshicha",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Money does not effect acquisition of movable property; only meshicha (pulling/taking possession) completes sale; mi shepara curse for reneging after money paid"
+  },
+  {
+    "id": "mi_shepara",
+    "name": "Mi ShePara (He Who Punished)",
+    "hebrew": "מי שפרע",
+    "parent_id": "mon_kinyan_meshicha",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rabbinic curse pronounced on one who reneges after paying money but before meshicha; not legally enforceable but moral sanction; Bava Metzia 4:2"
+  },
+  {
+    "id": "currency_exchange_kinyan",
+    "name": "Currency Exchange and Which Coins Effect Acquisition",
+    "hebrew": "חליפין מטבעות",
+    "parent_id": "mon_kinyanim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules determining which currency is 'merchandise' and which is 'money' in exchange transactions; gold vs. silver, silver vs. copper, minted vs. unminted coins"
+  },
+  {
+    "id": "sekhar_poel_timely_payment",
+    "name": "Timely Payment of Wages (Lo Talin)",
+    "hebrew": "לא תלין פועל",
+    "parent_id": "eth_employer_employee",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Biblical prohibition against withholding worker's wages overnight; day vs. night workers; claim requirement; application to ger toshav; Bava Metzia 9:11-12"
+  },
+  {
+    "id": "poel_eating_produce",
+    "name": "Laborer's Right to Eat from Produce (Achilat Poel)",
+    "hebrew": "אכילת פועל",
+    "parent_id": "eth_employer_employee",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Torah right of agricultural laborer to eat from produce he is harvesting; conditions and limits; distinction between attached/detached produce and completion of work"
+  },
+  {
+    "id": "minhag_hamedina_labor",
+    "name": "Regional Custom in Labor Law",
+    "hebrew": "מנהג המדינה בפועלים",
+    "parent_id": "meth_minhag_hamedina",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Role of local custom in determining working hours, meals, and conditions for laborers; Rabban Shimon ben Gamliel vs. Rabbi Yochanan ben Matya; Bava Metzia 7:1"
+  },
+  {
+    "id": "arisut_sharecropping",
+    "name": "Sharecropping (Arisut)",
+    "hebrew": "אריסות",
+    "parent_id": "mon_leasing",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Sharecropper who cultivates land and shares proportional yield with owner; obligations, customs, consequences of crop failure or neglect; Bava Metzia ch. 9"
+  },
+  {
+    "id": "chakirus_tenant_farming",
+    "name": "Tenant Farming for Fixed Produce (Chakirus)",
+    "hebrew": "חכירות",
+    "parent_id": "mon_leasing",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Arrangement where farmer pays fixed amount of produce regardless of yield; different liability rules from sharecropping; regional disaster exemption"
+  },
+  {
+    "id": "kablanut_contractor_farming",
+    "name": "Agricultural Contracting (Kablanut)",
+    "hebrew": "קבלנות בשדה",
+    "parent_id": "mon_leasing",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Contractor who receives field to cultivate; liability if lets field lie fallow; court appraises potential yield; Bava Metzia 9:3"
+  },
+  {
+    "id": "sechirut_bait",
+    "name": "House Rental (Sechirat Bayit)",
+    "hebrew": "שכירות בית",
+    "parent_id": "mon_rental",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules of house rental: notice periods, repairs, landlord vs. tenant responsibilities, fallen house, windows, intercalated year; Bava Metzia ch. 8 and 10"
+  },
+  {
+    "id": "sechirut_chamor",
+    "name": "Donkey/Animal Rental",
+    "hebrew": "שכירות חמור",
+    "parent_id": "mon_rental",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules when rented animal is used differently than stipulated (mountain vs. valley); liability for injury or death based on changed conditions; angarya seizure"
+  },
+  {
+    "id": "collateral_mashkon",
+    "name": "Collateral (Mashkon)",
+    "hebrew": "משכון",
+    "parent_id": "mon_loans",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules of collateral taken for loans: creditor may not enter debtor's home, must return pillow at night and plow by day, prohibition on widow's collateral, millstone prohibition"
+  },
+  {
+    "id": "mashkon_bailee_status",
+    "name": "Bailee Status of Creditor Holding Collateral",
+    "hebrew": "שומר משכון",
+    "parent_id": "collateral_mashkon",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Dispute whether creditor holding collateral is paid or unpaid bailee; Rabbi Yehuda's distinction between money loan vs. produce loan; Bava Metzia 6:7"
+  },
+  {
+    "id": "prohibited_collateral_items",
+    "name": "Items Prohibited as Collateral",
+    "hebrew": "כלים הפסולים למשכון",
+    "parent_id": "collateral_mashkon",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on taking millstones, widow's garment, and food preparation implements as collateral; Deuteronomy 24:6,17; Bava Metzia 9:13"
+  },
+  {
+    "id": "gaviyat_chov_through_court",
+    "name": "Debt Collection Through Court Agent",
+    "hebrew": "גביית חוב על ידי שליח בית דין",
+    "parent_id": "mon_baal_chov",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Creditor may take collateral only through court agent, not independently; prohibition on entering debtor's home; Deuteronomy 24:10-11"
+  },
+  {
+    "id": "deposit_safekeeping_standards",
+    "name": "Standards of Care for Deposits",
+    "hebrew": "אופן שמירת פיקדון",
+    "parent_id": "mon_deposits",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Liability for deposit given to minor child, slung behind back, or improperly locked; proper safeguarding methods; money with money changer vs. homeowner"
+  },
+  {
+    "id": "shichrur_collateral_use",
+    "name": "Using Collateral to Reduce Debt (Abba Shaul's Ruling)",
+    "hebrew": "השכרת משכון לגבות החוב",
+    "parent_id": "collateral_mashkon",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Abba Shaul's permission for creditor to rent out poor debtor's collateral to progressively reduce the debt; treated as returning lost property to owner"
+  },
+  {
+    "id": "decrease_stored_produce",
+    "name": "Standard Decrease of Stored Produce (Chisaron)",
+    "hebrew": "חסרון פירות המופקדים",
+    "parent_id": "mon_deposits",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Bailee who returns different produce deducts standard amount for shrinkage/spoilage; rates for wheat, barley, wine, oil; dispute about wine/oil ratios; Bava Metzia 3:7-8"
+  },
+  {
+    "id": "deposit_moved_by_bailee",
+    "name": "Barrel or Deposit Moved by Bailee",
+    "hebrew": "פיקדון שהוזז על ידי השומר",
+    "parent_id": "mon_deposits",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Liability rules when bailee moves deposited barrel: whether moved for his own purposes or for its benefit; before vs. after replacement; designated vs. undesignated location"
+  },
+  {
+    "id": "ganav_after_shomer_paid",
+    "name": "Double Payment When Bailee Paid Owner",
+    "hebrew": "כפל כשהשומר שילם",
+    "parent_id": "kefel",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "When bailee pays owner for stolen deposit instead of swearing, bailee receives thief's double payment; Rabbi Yosei's dissent that double payment always goes to owner"
+  },
+  {
+    "id": "fixing_price_futures",
+    "name": "Setting Price for Future Delivery (Kevi'at Mechir)",
+    "hebrew": "קביעת מחיר לאספקה עתידית",
+    "parent_id": "mon_ribbit",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Prohibition on setting price for future delivery of produce before market rate is established; permissible when seller already has the produce or market rate is public"
+  },
+  {
+    "id": "davar_shelo_ba_laolam",
+    "name": "Transfer of Something Not Yet in Existence (Davar sheLo Ba laOlam)",
+    "hebrew": "דבר שלא בא לעולם",
+    "parent_id": "mon_kinyanim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Whether one can acquire or sell something not yet in existence; relevant in cases of produce futures and offspring of animals; Bava Metzia 4:2 and 8:4-5"
+  },
+  {
+    "id": "regional_disaster_crop_failure",
+    "name": "Regional Disaster and Crop Failure (Makkat Medinah)",
+    "hebrew": "מכת מדינה",
+    "parent_id": "arisut_sharecropping",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "When regional agricultural disaster allows sharecropper to reduce payment to landowner; distinct from individual field failure; Bava Metzia 9:6"
+  },
+  {
+    "id": "diokan_tzibur_public_domain_use",
+    "name": "Use of Public Domain (Reshut HaRabbim)",
+    "hebrew": "שימוש ברשות הרבים",
+    "parent_id": "tort_law",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rules about temporarily occupying public domain with manure, clay, building materials; obligation to complete work quickly; liability for damage caused; Bava Metzia 10:5"
+  },
+  {
+    "id": "bayit_vaaliyah",
+    "name": "House and Upper Story Owned by Different Parties",
+    "hebrew": "בית ועלייה",
+    "parent_id": "mon_neighbors",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Disputes about collapsed shared structure, repair obligations, division of stones; landlord and upper-story tenant repair responsibilities; Bava Metzia ch. 10"
+  },
+  {
+    "id": "contractor_artisan_liability",
+    "name": "Contractor and Artisan Liability",
+    "hebrew": "אחריות קבלן ואומן",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Artisan taking raw materials home is a paid bailee; once work is finished and owner informed, becomes unpaid bailee; Bava Metzia 6:6"
+  },
+  {
+    "id": "poalim_reneging_midwork",
+    "name": "Workers or Employer Reneging Mid-Work",
+    "hebrew": "פועלים שחזרו בהם",
+    "parent_id": "eth_employer_employee",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Rights and liabilities when workers or employer back out mid-task; hiring replacements at increased cost; urgent situations involving financial loss; Bava Metzia 6:1-2"
+  },
+  {
+    "id": "shvitat_keilim_bailee",
+    "name": "Watchmen of Produce (Shomrei Peirot) — Rabbinic Eating Rights",
+    "hebrew": "שומרי פירות",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Watchmen of produce may eat by local custom but not by Torah law; distinction from laborer's Torah right to eat; Bava Metzia 7:8"
+  },
+  {
+    "id": "ones_circumstances_beyond_control",
+    "name": "Circumstances Beyond Control (Ones) in Bailment",
+    "hebrew": "אונס בשמירה",
+    "parent_id": "mon_insurance_principle",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "What constitutes ones for bailees: wolf attack, lion, bear, bandits; one wolf vs. two wolves; when shepherd led animals toward danger; Bava Metzia 7:9-10"
+  },
+  {
+    "id": "tenai_bemamonot",
+    "name": "Conditions in Monetary Matters (Tenai b'Mamonot)",
+    "hebrew": "תנאי בממון",
+    "parent_id": "meth_tnai_kaful",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "Validity of conditions in monetary transactions; bailee can stipulate reduced liability; difference between monetary and non-monetary conditions; Bava Metzia 7:10-11"
+  },
+  {
+    "id": "ibbur_shanah_rental",
+    "name": "Intercalated Year and Rental Contracts",
+    "hebrew": "עיבור השנה בשכירות",
+    "parent_id": "ibbur_shanah",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": ["mishnah_bava_metzia"],
+    "notes": "How intercalation of year affects rental contracts; year vs. monthly rate ambiguity; Tzippori bathhouse case before Rabban Shimon ben Gamliel; Bava Metzia 8:8"
+  },
+  {
+    "id": "vegetables_between_two_gardens",
+    "name": "Ownership of Produce Growing Between Two Properties",
+    "hebrew": "ירקות הגדלים בין שני שדות",
+    "parent_id": "mon_neighbors",
+    "category":

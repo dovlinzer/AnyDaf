@@ -1,0 +1,156 @@
+[
+  {
+    "id": "netilat_yadayim",
+    "name": "Netilat Yadayim (Ritual Hand Washing)",
+    "hebrew": "נטילת ידיים",
+    "parent_id": "purity_impurity",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rabbinic requirement of ritual hand washing before meals and other activities; minimum water quantities, valid vessels, and procedures"
+  },
+  {
+    "id": "tumat_yadayim",
+    "name": "Tumat Yadayim (Ritual Impurity of Hands)",
+    "hebrew": "טומאת ידיים",
+    "parent_id": "purity_impurity",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rabbinic decree of second-degree impurity on hands, degrees of hand impurity, and what causes it"
+  },
+  {
+    "id": "kitvei_hakodesh_defilement",
+    "name": "Kitvei HaKodesh Meting'im et HaYadayim (Holy Scriptures Defiling Hands)",
+    "hebrew": "כתבי הקודש מטמאין את הידיים",
+    "parent_id": "tumat_yadayim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rabbinic decree that canonical Holy Scriptures defile the hands; debates over which books (Song of Songs, Kohelet) are canonical and defile hands"
+  },
+  {
+    "id": "canonicity_of_books",
+    "name": "Canonicity of Biblical Books",
+    "hebrew": "קנוניזציה של ספרי המקרא",
+    "parent_id": "sefer_torah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debates over whether certain books (Shir HaShirim, Kohelet) belong to the biblical canon; the vote at Yavneh"
+  },
+  {
+    "id": "mayim_rishonin_shniyim",
+    "name": "Mayim Rishonim and Mayim Shniyim (First and Second Waters for Hand Washing)",
+    "hebrew": "מים ראשונים ומים שניים",
+    "parent_id": "netilat_yadayim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The two-stage hand washing process: first water to remove impurity, second water to clean off the first water; laws governing each stage"
+  },
+  {
+    "id": "ammon_moav_shemitah",
+    "name": "Ammon and Moab in the Seventh Year (Tithes)",
+    "hebrew": "עמון ומואב בשביעית",
+    "parent_id": "shemitah",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Halakhic debate about which tithe applies to Ammon and Moab in the seventh year (maaser ani vs. maaser sheni); methodology of legal analogy"
+  },
+  {
+    "id": "ammonite_convert_assembly",
+    "name": "Ammonite and Moabite Converts Entering the Congregation",
+    "hebrew": "עמוני ומואבי בקהל",
+    "parent_id": "fam_conversion",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The prohibition against Ammonites and Moabites entering the congregation, and the ruling that since Sennacherib mixed the nations this no longer applies"
+  },
+  {
+    "id": "sennacherib_mixing_nations",
+    "name": "Sennacherib's Mixing of the Nations",
+    "hebrew": "סנחריב שבלבל את האומות",
+    "parent_id": "courts_jurisprudence_principles",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The legal principle that Sennacherib's deportations mixed national identities, nullifying national-based prohibitions such as the ban on Ammonites"
+  },
+  {
+    "id": "aramaic_in_scripture",
+    "name": "Aramaic Sections in Scripture (Defiling Hands)",
+    "hebrew": "תרגום שבכתבי הקודש",
+    "parent_id": "kitvei_hakodesh_defilement",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Status of Aramaic sections in Ezra and Daniel and their capacity to defile hands; requirement that canonical text be in Assyrian script on parchment in ink"
+  },
+  {
+    "id": "pharisee_sadducee_disputes",
+    "name": "Pharisee-Sadducee Halakhic Disputes",
+    "hebrew": "מחלוקות פרושים וצדוקים",
+    "parent_id": "sadducees_boethusians",
+    "category": "JEWISH HISTORY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debates between Pharisees and Sadducees on specific halakhic matters: purity of liquids, liability for slaves' damages, defilement of holy scriptures"
+  },
+  {
+    "id": "shituf_shem_bget",
+    "name": "Writing Ruler's Name with Divine Name in a Get",
+    "hebrew": "שיתוף שם שלטון עם שם שמים בגט",
+    "parent_id": "mar_get_writing",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Complaint about writing the ruler's name alongside Moses's name in a get document; Galilean heretic's objection and Pharisaic response"
+  },
+  {
+    "id": "safek_yadayim",
+    "name": "Doubt Regarding Hand Impurity (Safek Yadayim)",
+    "hebrew": "ספק ידיים",
+    "parent_id": "tumat_yadayim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for cases of doubt whether hands became impure or whether they were purified; the general leniency applied to doubts about hand impurity"
+  },
+  {
+    "id": "min_heretic_disputes",
+    "name": "Disputes with Minim (Heretics)",
+    "hebrew": "מחלוקות עם מינים",
+    "parent_id": "apikorsut",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Recorded debates between rabbis and minim (heretics/sectarians) on halakhic and theological matters"
+  },
+  {
+    "id": "continuous_flow_liquid_purity",
+    "name": "Continuous Flow of Liquid (Hashaka / Tziruf)",
+    "hebrew": "ניצוק וצירוף נוזלים",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Pharisees and Sadducees whether an uninterrupted stream of liquid connects two vessels for purposes of impurity transmission (nizoq)"
+  }
+]

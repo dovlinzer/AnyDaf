@@ -1,0 +1,85 @@
+### Menachot 109b
+
+**1.**
+*Hebrew/Aramaic:* נַעֲשָׂה כּוֹמֶר לַעֲבוֹדָה זָרָה.
+*Translation:* as by slaughtering the idolatrous offering intentionally **he became a servant of idol worship.**
+
+**2.**
+*Hebrew/Aramaic:* אָמַר רַב נַחְמָן: מְנָא אָמֵינָא לַהּ? דְּתַנְיָא: כֹּהֵן שֶׁעָבַד עֲבוֹדָה זָרָה, וְשָׁב, קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ.
+*Translation:* **Rav Naḥman said: From where do I say** that even a priest who intentionally slaughters an idolatrous offering is nevertheless fit to serve in the Temple if he repents? **As it is taught** in a *baraita*: With regard to **a priest who served** in **idol worship and repented, his offering** in the Temple **is an aroma pleasing** to the Lord and is acceptable.
+
+**3.**
+*Hebrew/Aramaic:* בְּמַאי? אִילֵּימָא בְּשׁוֹגֵג – מַאי ״וְשָׁב״? שָׁב וְעוֹמֵד הוּא! אֶלָּא פְּשִׁיטָא בְּמֵזִיד, וְאִי בִּזְרִיקָה – כִּי שָׁב מַאי הָוֵי? הָא עֲבַד לֵהּ שֵׁירוּת! אֶלָּא לָאו בִּשְׁחִיטָה.
+*Translation:* Rav Naḥman clarifies: **In what** manner did he serve in idol worship? **If we say** that he served in idol worship **unwittingly, what** does the *baraita* mean when it says: **And repented? He is already repentant,** as he never intended to sin in the first place. **Rather,** it is **obvious** that the *baraita* is referring to a case **of intentional** idol worship. **And if** the *baraita* is referring **to sprinkling** the blood of an idolatrous offering, **when he repents, what of it? Hasn’t he performed** idolatrous **service,** thereby disqualifying himself from serving in the Temple in any event? **Rather, is it not** referring **to** the **slaughter** of an idolatrous offering? Evidently, even if the priest slaughtered it intentionally, once he repents he is fit to serve in the Temple.
+
+**4.**
+*Hebrew/Aramaic:* וְרַב שֵׁשֶׁת אָמַר לָךְ, לְעוֹלָם בְּשׁוֹגֵג, וְהָכִי קָאָמַר: אִם שָׁב מֵעִיקָּרוֹ, דְּכִי עֲבַד בְּשׁוֹגֵג עֲבַד – קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ, וְאִם לָאו – אֵין קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ.
+*Translation:* **And** as for **Rav Sheshet, he** could have **said to you** that **actually** the *baraita* is referring **to unwitting** slaughter. **And this** is what the *baraita* **is saying: If** the priest **is repentant from the outset, as when he served** in idol worship **he served unwittingly,** then **his offering is an aroma pleasing** to the Lord and is acceptable. **But if not,** i.e., he slaughtered an idolatrous offering intentionally, **his** subsequent **offering** in the Temple is **not an aroma pleasing** to the Lord.
+
+**5.**
+*Hebrew/Aramaic:* הִשְׁתַּחֲוָה לַעֲבוֹדָה זָרָה – רַב נַחְמָן אָמַר: קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ, וְרַב שֵׁשֶׁת אָמַר: אֵין קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ. הוֹדָה לַעֲבוֹדָה זָרָה – רַב נַחְמָן אָמַר: קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ, וְרַב שֵׁשֶׁת אָמַר: אֵין קׇרְבָּנוֹ רֵיחַ נִיחוֹחַ.
+*Translation:* § The Gemara lists other similar disagreements between Rav Naḥman and Rav Sheshet. In a case where a priest **bowed to** an object of **idol worship, Rav Naḥman says:** If he subsequently repents and serves in the Temple, **his offering is an aroma pleasing** to the Lord. **And Rav Sheshet says: His offering is not an aroma pleasing** to the Lord. In a case where a priest **acknowledges** an object of **idol worship** as a divinity, **Rav Naḥman says:** If he subsequently repents and serves in the Temple, **his offering is an aroma pleasing** to the Lord. **And Rav Sheshet says: His offering is not an aroma pleasing** to the Lord.
+
+**6.**
+*Hebrew/Aramaic:* וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן הָךְ קַמַּיְיתָא – בְּהַהִיא קָאָמַר רַב שֵׁשֶׁת מִשּׁוּם דַּעֲבַד לֵיהּ שֵׁירוּת, אֲבָל שְׁחִיטָה דְּלָא עֲבַד לֵיהּ שֵׁירוּת – אֵימָא מוֹדֶה לֵיהּ לְרַב נַחְמָן.
+*Translation:* Having listed four similar disputes between Rav Naḥman and Rav Sheshet, namely, with regard to a priest who unwittingly sprinkled the blood of an idolatrous offering, a priest who intentionally slaughtered an idolatrous offering, a priest who bowed to an idol, and a priest who acknowledged an idol as a divinity, the Gemara explains: **And** it was **necessary** to teach the dispute with regard to all four cases. **As, had** the Sages **taught us** only **this first** case, where a priest sprinkles the blood of an idolatrous offering unwittingly, one might have thought that only **in that** case **Rav Sheshet says** that the priest’s subsequent service in the Temple is disqualified, **because he performed a service for** idolatry that is considered a sacrificial rite in the Temple. **But** in a case where the priest merely performed **slaughter, since he did not perform a service for** idolatry that is a sacrificial rite in the Temple, there is room to **say** that Rav Sheshet **concedes to** the opinion of **Rav Naḥman.**
+
+**7.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן שְׁחִיטָה, מִשּׁוּם דְּעָבֵד לֵיהּ עֲבוֹדָה, אֲבָל הִשְׁתַּחֲוָה דְּלָא עֲבַד לֵיהּ עֲבוֹדָה – אֵימָא לָא. צְרִיכָא.
+*Translation:* **And had** the Sages **taught us** only the dispute with regard to a priest intentionally performing **slaughter** for an idolatrous offering, one might have thought that Rav Sheshet says that the priest’s subsequent service in the Temple is disqualified **because he performed** a sacrificial **rite for** idolatry. **But** if he merely **bowed** to the idol, **since he did not perform** a sacrificial **rite for** idolatry, there is room to **say** that Rav Sheshet does **not** disqualify the priest’s subsequent service in the Temple. Therefore, it was **necessary** to teach this case as well.
+
+**8.**
+*Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן הִשְׁתַּחֲוָאָה, מִשּׁוּם דְּעָבֵיד לֵיהּ מַעֲשֶׂה, אֲבָל הוֹדָה דְּדִיבּוּרָא בְּעָלְמָא – אֵימָא לָא. צְרִיכָא.
+*Translation:* **And had** the Sages **taught us** only the case of a priest **bowing** to an idol, one might have thought that in this case Rav Sheshet says that the priest’s subsequent service in the Temple is disqualified **because he performed an action for** idolatry. **But** if he only **acknowledged** the idol as a divinity, **which is mere speech,** there is room to **say** that Rav Sheshet does **not** disqualify the priest’s subsequent service in the Temple. The Gemara concludes: Therefore, it was **necessary** to teach this case as well.
+
+**9.**
+*Hebrew/Aramaic:* וְאֵין צָרִיךְ לוֹמַר דָּבָר אַחֵר [וְכוּ׳]. מִדְּקָאָמַר: אֵין צָרִיךְ לוֹמַר דָּבָר אַחֵר, מִכְּלָל דְּבֵית חוֹנְיוֹ לָאו עֲבוֹדָה זָרָה הוּא.
+*Translation:* § The mishna teaches: **And needless to say,** if priests served for **something else,** a euphemism for idolatry, they are disqualified from service in the Temple. The Gemara comments: **From** the fact **that it says: Needless to say,** if they served for **something else, by inference, the temple of Onias is not** a temple of **idol worship,** but rather a temple devoted to the worship of God.
+
+**10.**
+*Hebrew/Aramaic:* תַּנְיָא כְּמַאן דְּאָמַר בֵּית חוֹנְיוֹ לָאו עֲבוֹדָה זָרָה הוּא, דְּתַנְיָא: אוֹתָהּ שָׁנָה שֶׁמֵּת שִׁמְעוֹן הַצַּדִּיק, אָמַר לָהֶן: שָׁנָה זוֹ הוּא מֵת, אָמְרוּ לוֹ: מִנַּיִן אַתָּה יוֹדֵעַ?
+*Translation:* **It is taught** in a *baraita* **like the one who says** that **the temple of Onias is not** a temple of **idol worship. As it is taught:** During **the year in which Shimon HaTzaddik died, he said to** his associates: **This year, he will die,** euphemistically referring to himself. **They said to him: From where do you know?**
+
+**11.**
+*Hebrew/Aramaic:* אָמַר לָהֶן: כׇּל יוֹם הַכִּפּוּרִים נִזְדַּמֵּן לִי זָקֵן אֶחָד לָבוּשׁ לְבָנִים, וְנִתְעַטֵּף לְבָנִים, וְנִכְנַס עִמִּי וְיָצָא עִמִּי. שָׁנָה זוֹ נִזְדַּמֵּן לִי זָקֵן אֶחָד לָבוּשׁ שְׁחוֹרִים, וְנִתְעַטֵּף שְׁחוֹרִים, וְנִכְנַס עִמִּי וְלֹא יָצָא עִמִּי.
+*Translation:* Shimon HaTzaddik **said to them:** In previous years, **every Yom Kippur,** upon entering the Holy of Holies, I had a prophetic vision in which **I would be met by an old man** who was **dressed in white, and** his head was **wrapped in white, and he would enter** the Holy of Holies **with me, and he would leave with me.** But **this year, I was met by an old man** who was **dressed in black, and** his head was **wrapped in black, and he entered** the Holy of Holies **with me, but he did not leave with me.** Shimon HaTzaddik understood this to be a sign that his death was impending.
+
+**12.**
+*Hebrew/Aramaic:* לְאַחַר הָרֶגֶל, חָלָה שִׁבְעַת יָמִים וָמֵת, וְנִמְנְעוּ אֶחָיו הַכֹּהֲנִים מִלְּבָרֵךְ בַּשֵּׁם.
+*Translation:* Indeed, **after the pilgrimage festival** of *Sukkot*, **he was ill for seven days and died. And his fellow priests refrained from reciting the** Priestly **Benediction with the** ineffable **name** of God.
+
+**13.**
+*Hebrew/Aramaic:* בִּשְׁעַת פְּטִירָתוֹ, אָמַר לָהֶם: חוֹנְיוֹ בְּנִי יְשַׁמֵּשׁ תַּחְתַּי. נִתְקַנֵּא בּוֹ שִׁמְעִי אָחִיו, שֶׁהָיָה גָּדוֹל מִמֶּנּוּ שְׁתֵּי שָׁנִים וּמֶחֱצָה. אָמַר לוֹ: בֹּא וַאֲלַמֶּדְךָ סֵדֶר עֲבוֹדָה. הִלְבִּישׁוֹ בְּאוּנְקְלִי, וַחֲגָרוֹ בְּצִילְצוֹל, (העמידו) [וְהֶעֱמִידוֹ] אֵצֶל הַמִּזְבֵּחַ. אָמַר לָהֶם לְאֶחָיו הַכֹּהֲנִים: רְאוּ מָה נָדַר זֶה וְקִיֵּים לַאֲהוּבָתוֹ: ״אוֹתוֹ הַיּוֹם שֶׁאֶשְׁתַּמֵּשׁ בִּכְהוּנָּה גְּדוֹלָה אֶלְבּוֹשׁ בְּאוּנְקְלִי שֶׁלִּיכִי וְאֶחְגּוֹר בְּצִילְצוֹל שֶׁלִּיכִי״.
+*Translation:* **At the time of his death, he said to** the Sages: **Onias, my son, will serve** as High Priest **in my stead. Shimi,** Onias’ **brother, became jealous** of him, **as** Shimi **was two and a half years older than** Onias. Shimi **said to** Onias treacherously: **Come and I will teach you the order of the service** of the High Priest. Shimi **dressed** Onias **in a tunic [*be’unkeli*] and girded him with a ribbon [*betziltzul*]** as a belt, i.e., not in the vestments of the High Priest, and **stood him next to the altar.** Shimi **said to his fellow priests: Look what this** man **vowed and fulfilled for his beloved,** that he had said to her: **On the day that I serve in the High Priesthood I will wear your tunic and gird your ribbon.**
+
+**14.**
+*Hebrew/Aramaic:* בִּקְּשׁוּ אֶחָיו הַכֹּהֲנִים לְהׇרְגוֹ, רָץ מִפְּנֵיהֶם, וְרָצוּ אַחֲרָיו. הָלַךְ לַאֲלֶכְּסַנְדְּרִיָּא שֶׁל מִצְרַיִם, וּבָנָה שָׁם מִזְבֵּחַ, וְהֶעֱלָה עָלָיו לְשׁוּם עֲבוֹדָה זָרָה. וּכְשֶׁשָּׁמְעוּ חֲכָמִים בַּדָּבָר, אָמְרוּ: מָה זֶה שֶׁלֹּא יָרַד לָהּ – כָּךְ, הַיּוֹרֵד לָהּ – עַל אַחַת כַּמָּה וְכַמָּה. דִּבְרֵי רַבִּי מֵאִיר.
+*Translation:* **The fellow priests of** Onias **wanted to kill him** because he had disgraced the Temple service with his garments. Onias **ran** away **from them and they ran after him. He went to Alexandria in Egypt and built an altar there, and sacrificed** offerings **upon it for the sake of idol worship. When the Sages heard of the matter they said: If this** person, Shimi, **who did not enter** the position of High Priest, acted with **such** jealousy, **all the more so** will **one who enters** a prestigious position rebel if that position is taken away from him. This is **the statement of Rabbi Meir.** According to Rabbi Meir, the temple of Onias was built for idol worship.
+
+**15.**
+*Hebrew/Aramaic:* אָמַר לוֹ רַבִּי יְהוּדָה: לֹא כָּךְ הָיָה מַעֲשֶׂה, אֶלָּא לֹא קִיבֵּל עָלָיו חוֹנְיוֹ, שֶׁהָיָה שִׁמְעִי אָחִיו גָּדוֹל מִמֶּנּוּ שְׁתֵּי שָׁנִים וּמֶחֱצָה, וְאַף עַל פִּי כֵן נִתְקַנֵּא בּוֹ חוֹנְיוֹ בְּשִׁמְעִי אָחִיו. אָמַר לוֹ: בֹּא וַאֲלַמֶּדְךָ סֵדֶר עֲבוֹדָה, וְהִלְבִּישׁוֹ בְּאוּנְקְלִי, וַחֲגָרוֹ בְּצִילְצוֹל, וְהֶעֱמִידוֹ אֵצֶל הַמִּזְבֵּחַ. אָמַר לָהֶם לְאֶחָיו הַכֹּהֲנִים: רְאוּ מָה נָדַר זֶה וְקִיֵּים לַאֲהוּבָתוֹ ״אוֹתוֹ הַיּוֹם שֶׁיִּשְׁתַּמֵּשׁ בִּכְהוּנָּה גְּדוֹלָה אֶלְבּוֹשׁ בְּאוּנְקְלִי שֶׁלִּיכִי וְאֶחְגּוֹר בְּצִילְצוֹל שֶׁלִּיכִי״.
+*Translation:* **Rabbi Yehuda said to him:** The **incident was not like this. Rather, Onias did not accept** the position of High Priest **because his brother Shimi was two and a half years older than him,** so Shimi was appointed as High Priest. **And even so,** even though Onias himself offered the position to Shimi, **Onias was jealous of his brother Shimi.** Onias **said to** Shimi: **Come and I will teach you the order of the service** of the High Priest. **And** Onias **dressed** Shimi **in a tunic and girded him in a ribbon and stood him next to the altar.** Onias **said to his fellow priests: Look what this** man, Shimi, **vowed and fulfilled for his beloved,** that he had said to her: **On the day that I serve in the High Priesthood I will wear your tunic and gird your ribbon.**
+
+**16.**
+*Hebrew/Aramaic:* בִּקְּשׁוּ אֶחָיו הַכֹּהֲנִים לְהׇרְגוֹ, סָח לָהֶם כׇּל הַמְאוֹרָע, בִּקְּשׁוּ לַהֲרוֹג אֶת חוֹנְיוֹ, רָץ מִפְּנֵיהֶם, וְרָצוּ אַחֲרָיו, רָץ לְבֵית הַמֶּלֶךְ, וְרָצוּ אַחֲרָיו, כׇּל הָרוֹאֶה אוֹתוֹ אוֹמֵר: זֶה הוּא, זֶה הוּא, הָלַךְ לַאֲלֶכְּסַנְדְּרִיָּא שֶׁל מִצְרַיִם, וּבָנָה שָׁם מִזְבֵּחַ, וְהֶעֱלָה עָלָיו לְשֵׁם שָׁמַיִם, שֶׁנֶּאֱמַר: ״(וְהָיָה) בַּיּוֹם הַהוּא יִהְיֶה מִזְבֵּחַ לַה׳ בְּתוֹךְ אֶרֶץ מִצְרָיִם וּמַצֵּבָה אֵצֶל גְּבוּלָהּ לַה׳״.
+*Translation:* **His fellow priests wanted to kill** Shimi. Shimi then **told them the entire incident,** that he had been tricked by his brother Onias, so the priests **wanted to kill Onias.** Onias **ran** away **from them, and they ran after him.** Onias **ran to the palace of the king, and they ran after him. Anyone who saw him would say: This is him, this is him,** and he was not able to escape unnoticed. Onias **went to Alexandria in Egypt and built an altar there, and sacrificed** offerings **upon it for the sake of Heaven. As it is stated: “In that day shall there be an altar to the Lord in the midst of the land of Egypt, and a pillar at its border, to the Lord”** (Isaiah 19:19). According to Rabbi Yehuda, the temple of Onias was dedicated to the worship of God.
+
+**17.**
+*Hebrew/Aramaic:* וּכְשֶׁשָּׁמְעוּ חֲכָמִים בַּדָּבָר, אָמְרוּ: וּמָה זֶה שֶׁבָּרַח מִמֶּנָּה כָּךְ, הַמְבַקֵּשׁ לֵירֵד לָהּ – עַל אַחַת כַּמָּה וְכַמָּה.
+*Translation:* **And when the Sages heard of the matter they said: If this one,** Onias, **who fled from** the position of High Priest and offered it to his brother, still was overcome with **such** jealousy to the point where he tried to have Shimi killed, **all the more so** will **one who wants to enter** a prestigious position be jealous of the one who already has that position.
+
+**18.**
+*Hebrew/Aramaic:* תַּנְיָא, אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן פְּרַחְיָה: בַּתְּחִלָּה, כׇּל הָאוֹמֵר ״עֲלֵה לָהּ״ – אֲנִי כּוֹפְתוֹ וְנוֹתְנוֹ לִפְנֵי הָאֲרִי; עַתָּה, כׇּל הָאוֹמֵר לִי לֵירֵד מִמֶּנָּה – אֲנִי מֵטִיל עָלָיו קוּמְקוּם שֶׁל חַמִּין.
+*Translation:* § As a corollary to the statement of the Sages with regard to one who is jealous and wants the position of another, **it is taught** in a *baraita* that **Rabbi Yehoshua ben Peraḥya said: Initially,** in response to **anyone who would say** to me: **Ascend to** the position of *Nasi*, **I would tie him up and place him in front of a lion** out of anger for his suggestion. **Now** that I have become the *Nasi*, in response to **anyone who tells me to leave** the position, **I** would **throw a kettle [*kumkum*] of boiling** water **at him** out of anger at his suggestion.
+
+**19.**
+*Hebrew/Aramaic:* שֶׁהֲרֵי שָׁאוּל בָּרַח מִמֶּנָּה, וּכְשֶׁעָלָה בִּקֵּשׁ לַהֲרוֹג אֶת דָּוִד.
+*Translation:* It is human nature that after one ascends to a prestigious position he does not wish to lose it. **As** evidence of this principle, **Saul** initially **fled from** the kingship, as he did not wish to be king, as stated in the verse: “When they sought him he could not be found…Behold he has hidden himself among the baggage” (I Samuel 10:21–22). **But when he ascended** to the kingship **he tried to kill David,** who he thought was trying to usurp his authority (see I Samuel, chapters 18–27).
+
+**20.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ מָר קַשִּׁישָׁא בְּרֵיהּ דְּרַב חִסְדָּא לְאַבָּיֵי: רַבִּי מֵאִיר, הַאי קְרָא דְּרַבִּי יְהוּדָה מַאי עָבֵיד לֵיהּ?
+*Translation:* § **Mar Kashisha, son of Rav Ḥisda, said to Abaye: What does Rabbi Meir do with this verse of Rabbi Yehuda?** Since Rabbi Meir holds that the temple of Onias was dedicated to idol worship, how does he explain the verse in Isaiah?
+
+**21.**
+*Hebrew/Aramaic:* לְכִדְתַנְיָא: לְאַחַר מַפַּלְתּוֹ שֶׁל סַנְחֵרִיב, יָצָא חִזְקִיָּה וּמָצָא בְּנֵי מְלָכִים שֶׁהָיוּ יוֹשְׁבִין בִּקְרוֹנוֹת שֶׁל זָהָב, הִדִּירָן שֶׁלֹּא לַעֲבוֹד עֲבוֹדָה זָרָה, שֶׁנֶּאֱמַר: ״בַּיּוֹם הַהוּא יִהְיוּ חָמֵשׁ עָרִים בְּאֶרֶץ מִצְרַיִם מְדַבְּרוֹת שְׂפַת כְּנַעַן
+*Translation:* Abaye answered Mar Kashisha and said that Rabbi Meir uses this verse **for that which is taught** in a *baraita*: **After the downfall of Sennacherib,** the king of Assyria who besieged Jerusalem (see II Kings, chapters 18–19), King **Hezekiah emerged** from Jerusalem **and found the** gentile **princes** Sennacherib had brought with him from his other conquests, **sitting in carriages [*bikronot*] of gold. He made them vow that they would not worship idols,** and they fulfilled their vow, **as it is stated** in Isaiah’s prophecy about Egypt: **“In that day there shall be five cities in the land of Egypt that speak the language of Canaan**

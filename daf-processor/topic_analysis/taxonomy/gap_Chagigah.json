@@ -1,0 +1,277 @@
+[
+  {
+    "id": "aliyah_laregel_obligation",
+    "name": "Obligation of Aliyah laRegel (Appearance at the Temple)",
+    "hebrew": "מצוות ראייה",
+    "parent_id": "aliyah_laregel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Who is obligated to appear at the Temple on pilgrimage festivals, exemptions for deaf-mutes, minors, women, lame, blind, sick, etc. Details of minimum age for minors (Beit Shammai vs. Beit Hillel)."
+  },
+  {
+    "id": "korban_olat_reiyah",
+    "name": "Olat Reiyah (Burnt-Offering of Appearance)",
+    "hebrew": "עולת ראייה",
+    "parent_id": "aliyah_laregel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The burnt-offering brought upon appearing at the Temple during the three pilgrimage festivals; minimum value requirements and disputes between Beit Shammai and Beit Hillel."
+  },
+  {
+    "id": "simchat_yom_tov",
+    "name": "Simchat Yom Tov (Rejoicing on the Festival)",
+    "hebrew": "שמחת יום טוב",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Obligation to rejoice on pilgrimage festivals through peace-offerings; how priests and Israelites fulfill the obligation of rejoicing differently; what foods qualify for simcha."
+  },
+  {
+    "id": "shalmei_simcha",
+    "name": "Shalmei Simcha (Peace-Offerings of Rejoicing)",
+    "hebrew": "שלמי שמחה",
+    "parent_id": "shelamim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Festival peace-offerings brought specifically to fulfill the obligation of rejoicing on Yom Tov; minimum values, sources of funding (non-sacred vs. second tithe), and timing."
+  },
+  {
+    "id": "tashlumin_chagigah",
+    "name": "Tashlumin (Make-Up Days for Festival Offering)",
+    "hebrew": "תשלומין לחגיגה",
+    "parent_id": "chagigah_offering",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "If one failed to bring the Festival peace-offering on the first day, he may make it up throughout the remaining days of the festival. After the festival passes, no restitution is owed."
+  },
+  {
+    "id": "semichat_yedayim_beyom_tov",
+    "name": "Semichah on Offerings on Yom Tov (Laying Hands on Festival Day)",
+    "hebrew": "סמיכה ביום טוב",
+    "parent_id": "semichah_korban",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The dispute among the Zugot pairs (five pairs) over whether one may lay hands on an offering on a Festival day; relates to labor prohibitions on Yom Tov."
+  },
+  {
+    "id": "am_haaretz_purity",
+    "name": "Am HaAretz and Ritual Purity",
+    "hebrew": "עם הארץ לענין טומאה וטהרה",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The status of an am haaretz with respect to ritual purity; their garments as sources of impurity for those more scrupulous; trusted periods (winepress season, pilgrimage festival)."
+  },
+  {
+    "id": "perushim_purity",
+    "name": "Perushim (Those Scrupulous in Purity)",
+    "hebrew": "פרושין",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The class of people who are meticulously careful in ritual purity; their garments are considered impure with the treading of a zav for priests eating teruma."
+  },
+  {
+    "id": "tumat_midras",
+    "name": "Tumat Midras (Impurity by Treading/Pressure)",
+    "hebrew": "טומאת מדרס",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Impurity conveyed when a zav or niddah treads on or sits/lies upon an object; the garments of an am haaretz are considered midras for perushim, and so on up the levels of purity."
+  },
+  {
+    "id": "levels_of_purity_kodesh",
+    "name": "Levels of Purity (Non-Sacred, Tithes, Teruma, Kodesh, Mei Chatat)",
+    "hebrew": "מדרגות הטהרה: חולין, מעשר, תרומה, קודש, חטאת",
+    "parent_id": "purity_impurity",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The graduated system of purity levels: one who immersed for non-sacred food may not eat tithes; for tithes may not eat teruma; for teruma may not eat sacrificial food; for sacrificial food may not touch purification waters. Each level has stricter requirements."
+  },
+  {
+    "id": "stringencies_kodesh_over_terumah",
+    "name": "Stringencies of Kodesh over Terumah (Greater Strictness for Sacrificial Food)",
+    "hebrew": "חומרות קודש על תרומה",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Detailed halakhic differences requiring greater purity for sacrificial foods than for teruma: immersing vessels inside other vessels, carrying trodden objects, hands, fourth-degree impurity, etc."
+  },
+  {
+    "id": "tevul_yom_kodesh",
+    "name": "Tevul Yom and Purity Levels",
+    "hebrew": "טבול יום לענין קודש ותרומה",
+    "parent_id": "tevul_yom",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The distinction in purity requirements for a tevul yom (one who immersed that day) regarding teruma vs. kodesh; immersion without intent to achieve purity status is ineffective."
+  },
+  {
+    "id": "onen_kodesh",
+    "name": "Onen's Prohibition from Sacrificial Food",
+    "hebrew": "אונן לענין אכילת קודש",
+    "parent_id": "mechusar_kapparah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "An acute mourner (onen) on the day of bereavement requires immersion to eat sacrificial food, but not for teruma; similarly one who is mechusar kapparah."
+  },
+  {
+    "id": "ne'emanut_amei_haaretz",
+    "name": "Trustworthiness of Amei HaAretz in Purity (Ne'emanut)",
+    "hebrew": "נאמנות עמי הארץ לענין טהרה",
+    "parent_id": "am_haaretz_purity",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Periods and circumstances under which amei haaretz are deemed trustworthy regarding ritual purity: during winepress season, during pilgrimage festivals, within Modi'im boundaries, etc."
+  },
+  {
+    "id": "purification_temple_vessels_festival",
+    "name": "Purification of Temple Vessels After the Festival",
+    "hebrew": "טבילת כלי המקדש לאחר הרגל",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "After the pilgrimage festival when amei haaretz entered the Temple, all vessels required immersion. Disputes about when this is done; golden and bronze altars are exempt as they are like the ground."
+  },
+  {
+    "id": "issur_expounding_arayot",
+    "name": "Prohibition of Expounding Arayot Before Three",
+    "hebrew": "אין דורשין בעריות בשלשה",
+    "parent_id": "fam_incest",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The prohibition of publicly expounding the laws of forbidden sexual relations before three or more people; classified with other restricted topics of Torah study."
+  },
+  {
+    "id": "maaseh_bereishit_restriction",
+    "name": "Restriction on Teaching Maaseh Bereishit (Cosmogony)",
+    "hebrew": "אין דורשין במעשה בראשית בשניים",
+    "parent_id": "maaseh_bereishit",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The restriction against expounding the account of Creation before two or more individuals; paired with the restriction on Maaseh Merkavah."
+  },
+  {
+    "id": "maaseh_merkavah_restriction",
+    "name": "Restriction on Teaching Maaseh Merkavah (Divine Chariot)",
+    "hebrew": "אין דורשין במעשה מרכבה ביחיד",
+    "parent_id": "maaseh_merkavah",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The prohibition of teaching the Design of the Divine Chariot even one-on-one, unless the student is wise and understands on his own; source for esoteric teaching restrictions."
+  },
+  {
+    "id": "pardes_four_topics",
+    "name": "Four Forbidden Speculative Topics (Above, Below, Before, After)",
+    "hebrew": "ארבעה שנכנסו לפרדס",
+    "parent_id": "four_who_entered_pardes",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The four matters one should not speculate about: what is above the firmament, what is below the earth, what was before creation, what will be after the world ends."
+  },
+  {
+    "id": "hatarat_nedarim_biblical_basis",
+    "name": "Dissolution of Vows — Lack of Biblical Basis",
+    "hebrew": "התרת נדרים פורחת באויר",
+    "parent_id": "vow_hatarat_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The mishna's statement that the halakhot of dissolving vows 'fly in the air' with no scriptural support; categorization of Torah topics by the strength of their biblical basis."
+  },
+  {
+    "id": "harerei_ketoraf_harim",
+    "name": "Mountains Hanging by a Hair (Minimal Biblical Basis for Major Topics)",
+    "hebrew": "הררים תלויים בשערה",
+    "parent_id": "meth_deorayta_derabanan",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The category of halakhot — Shabbat, Festival peace-offerings, meilah — that have minimal written basis in the Torah yet have elaborate rabbinic detail; methodological classification of Torah topics."
+  },
+  {
+    "id": "zugot_pairs",
+    "name": "The Five Pairs (Zugot)",
+    "hebrew": "חמשה זוגות",
+    "parent_id": "auth_pre_tannaitic",
+    "category": "RABBINIC AUTHORITIES — TANNAIM",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The five pairs of leading sages who served as Nasi and Av Beit Din in the Second Temple period; their disputes over semichah on festival offerings are recorded in Mishnah Chagigah."
+  },
+  {
+    "id": "fourth_degree_impurity",
+    "name": "Fourth-Degree Impurity (Revi'i l'Tumah)",
+    "hebrew": "רביעי לטומאה בקודש",
+    "parent_id": "tumah_general",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The concept that sacrificial food can be rendered impure to a fourth degree (disqualified but not transmitting impurity further), while teruma is only susceptible to third-degree impurity; a unique stringency for kodesh."
+  },
+  {
+    "id": "haver_am_haaretz_distinction",
+    "name": "Haver vs. Am HaAretz Distinction",
+    "hebrew": "חבר ועם הארץ",
+    "parent_id": "am_haaretz_purity",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "The social/religious distinction between a haver (one meticulous in purity and tithes) and an am haaretz; practical halakhic consequences for accepting food and vessels from an am haaretz."
+  },
+  {
+    "id": "modiin_boundary_purity",
+    "name": "Modi'im Boundary for Purity Trustworthiness",
+    "hebrew": "מן המודיעים ולפנים",
+    "parent_id": "ne'emanut_amei_haaretz",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_chagigah"
+    ],
+    "notes": "Potters within the boundary of Modi'im (15 mil from Jerusalem) are trusted regarding purity of earthenware vessels; those outside are not; geographic demarcation for purity trustworthiness."
+  }
+]

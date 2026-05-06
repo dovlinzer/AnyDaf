@@ -1,0 +1,288 @@
+[
+  {
+    "id": "vow_konam_substitute_terms",
+    "name": "Substitute Terms for Vows (Yad and Kinuyim)",
+    "hebrew": "כינויי נדרים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Covers the substitute and analogous terms (konam, konaḥ, konas, etc.) that function as valid vow formulations, and intimations of vows (yad l'nedarim)"
+  },
+  {
+    "id": "vow_neder_exhortation",
+    "name": "Vows of Exhortation (Nidrei Zeiruzin)",
+    "hebrew": "נדרי זירוזין",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Vows used to encourage or pressure another in bargaining or social interaction, which the Sages dissolved without requiring a halakhic authority"
+  },
+  {
+    "id": "vow_neder_exaggeration",
+    "name": "Vows of Exaggeration (Nidrei Guzma)",
+    "hebrew": "נדרי גוזמא",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Hyperbolic vow expressions not intended literally, dissolved by the Sages without requiring a request to a halakhic authority"
+  },
+  {
+    "id": "vow_neder_shegagah",
+    "name": "Unintentional Vows (Nidrei Shegagot)",
+    "hebrew": "נדרי שגגות",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Vows taken under mistaken assumptions or forgotten circumstances, which the Sages dissolved without a formal request to a halakhic authority"
+  },
+  {
+    "id": "vow_neder_oness",
+    "name": "Vows Impeded by Circumstances Beyond One's Control (Nidrei Ones)",
+    "hebrew": "נדרי אונסין",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Vows that could not be fulfilled due to unforeseen circumstances (illness, flood, etc.) which are not binding"
+  },
+  {
+    "id": "vow_dissolution_petition",
+    "name": "Dissolution of Vows by Halakhic Authority (Hatarat Nedarim — Process)",
+    "hebrew": "פתח וחרטה",
+    "parent_id": "vow_hatarat_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The procedural mechanism by which a sage dissolves a vow, including the 'opening' (petach) — finding an extenuating circumstance — and regret (charatah); covers what types of openings are valid"
+  },
+  {
+    "id": "vow_hadarat_hanaah",
+    "name": "Prohibition of Benefit by Vow (Hadarah/Muddar Hana'ah)",
+    "hebrew": "מודר הנאה",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The specific category of vow prohibiting one person from deriving benefit from another, covering what transactions, entry, lending, and assistance are included or excluded"
+  },
+  {
+    "id": "vow_interpretation_unspecified",
+    "name": "Interpretation of Unspecified Vows (Stam Nedarim)",
+    "hebrew": "סתם נדרים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Rules for determining the scope of vows when the vow term is unspecified — whether it follows common usage, regional custom, or the speaker's intent; includes lenient treatment of specified intent"
+  },
+  {
+    "id": "vow_food_scope",
+    "name": "Scope of Food Vows (What Foods are Included)",
+    "hebrew": "נדרי אוכלין — גדר הכוונה",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Detailed rules for which foods and derivatives are included when one vows against a food type (wine includes/excludes vinegar, olive includes/excludes oil, etc.)"
+  },
+  {
+    "id": "vow_partial_dissolution",
+    "name": "Partially Dissolved Vow is Entirely Dissolved",
+    "hebrew": "נדר שהותר מקצתו הותר כולו",
+    "parent_id": "vow_hatarat_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The principle, attributed to Rabbi Akiva, that if part of a vow is dissolved it is entirely dissolved; covers interconnected vs. separate vow formulations"
+  },
+  {
+    "id": "vow_time_limits",
+    "name": "Time Limits in Vows",
+    "hebrew": "נדרים עם גבולות זמן",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Rules governing vows with specified time limits — 'today,' 'this week,' 'this month,' 'until Passover,' 'until the rains' — including whether 'until' means before or at the end of the event"
+  },
+  {
+    "id": "vow_wife_nullification",
+    "name": "Husband's Nullification of Wife's Vows",
+    "hebrew": "הפרת נדרי האשה על ידי הבעל",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Detailed laws of when and how a husband can nullify his wife's vows, including timing (same day), which vows qualify (affliction, affecting relations), betrothed vs. married, and joint nullification by father and husband"
+  },
+  {
+    "id": "vow_betrothed_woman_father",
+    "name": "Father's Authority over Betrothed Daughter's Vows",
+    "hebrew": "נדרי נערה המאורסה — שליטת האב",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The joint authority of father and betrothed husband over the vows of a betrothed young woman, including what happens when one of them dies, and the limits of each one's authority"
+  },
+  {
+    "id": "vow_yevama_nullification",
+    "name": "Yavam's Authority over Yevama's Vows",
+    "hebrew": "הפרת נדרי יבמה",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Dispute among Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Akiva whether a yavam can nullify the vows of his yevama while she awaits levirate marriage"
+  },
+  {
+    "id": "vow_advance_nullification",
+    "name": "Pre-emptive Nullification of Future Vows",
+    "hebrew": "הפרת נדרים מראש",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The question of whether a husband can preemptively nullify all future vows his wife will take; debate between Rabbi Eliezer and the Rabbis; includes the practice of Torah scholars before marriage"
+  },
+  {
+    "id": "vow_affliction_category",
+    "name": "Vows of Affliction (Inui Nefesh)",
+    "hebrew": "נדרי עינוי נפש",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The category of vows a husband can nullify because they cause affliction to the wife — definition and scope of what constitutes inui nefesh vs. what does not"
+  },
+  {
+    "id": "vow_affecting_husband_wife_relations",
+    "name": "Vows Affecting Relations Between Husband and Wife",
+    "hebrew": "נדרים שבינו לבינה",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The category of vows a husband can nullify because they affect their marital relationship — including vows about work obligations, sexual prohibition, and similar matters"
+  },
+  {
+    "id": "vow_false_to_robbers",
+    "name": "False Vows to Protect Life or Property from Murderers and Robbers",
+    "hebrew": "נדרים בהרשאה להצלה",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The permission to make false vow-like declarations to protect oneself or one's property from robbers and tax collectors; dispute between Beit Shammai and Beit Hillel on scope"
+  },
+  {
+    "id": "vow_shared_property_nedarim",
+    "name": "Shared Property and Vows of Benefit",
+    "hebrew": "שותפות ונדרי הנאה",
+    "parent_id": "vow_hadarat_hanaah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "How vows of benefit prohibition operate when partners share a courtyard or other property; whether each can enter their own portion; forced sale of portion to avoid causing transgression"
+  },
+  {
+    "id": "vow_gift_validity_nedarim",
+    "name": "Validity of Gift as Means of Circumventing a Vow",
+    "hebrew": "מתנה להתיר נדר",
+    "parent_id": "vow_hadarat_hanaah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The rule that a gift given solely to circumvent a vow must be a genuine gift capable of being consecrated; the Beit Horon incident; transferring property to a third party to feed someone bound by a vow"
+  },
+  {
+    "id": "vow_interpretation_lashon",
+    "name": "Interpretation of Vow Language According to Common Usage",
+    "hebrew": "נדרים כלשון בני אדם",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The principle that vow language is interpreted according to the common usage of the speaker and their locale — covering terms like 'seafarers,' 'those with dark heads,' 'those who rest on Shabbat,' etc."
+  },
+  {
+    "id": "vow_object_association",
+    "name": "Vow by Association with Forbidden or Sacred Object",
+    "hebrew": "נדר הבא מכוח קדשים או איסורים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The rule that a vow takes effect only when the object of association is itself forbidden by vow (e.g., korban), not by Torah law (e.g., pig, neveilah); includes the hierarchy of valid vow associations"
+  },
+  {
+    "id": "vow_within_vow",
+    "name": "Vow Within a Vow (Neder b'Neder)",
+    "hebrew": "נדר בנדר",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The rule that an additional vow can stack onto an existing vow prohibition, unlike oaths which cannot stack (ein shevuah chal al shevuah)"
+  },
+  {
+    "id": "vow_vs_oath_differences",
+    "name": "Differences Between Vows and Oaths (Nedarim vs. Shevuot)",
+    "hebrew": "חומרי נדרים על שבועות וחומרי שבועות על נדרים",
+    "parent_id": "vow_nedarim",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The comparative stringencies and leniencies of vows vs. oaths — vows apply to objects (devar sheyesh bo mamash) but not actions; oaths apply to actions but cannot override mitzvot; vow within vow vs. no oath within oath"
+  },
+  {
+    "id": "vow_woman_removed_from_jews",
+    "name": "Vow of Woman Removing Herself from All Jews",
+    "hebrew": "מוסרת אני לכל ישראל",
+    "parent_id": "vow_hafarah",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "The case of a woman who vows to be removed from all Jews sexually; the husband nullifies his portion and she remains forbidden to all others; the evolution of this halakha to prevent women from exploiting vows"
+  },
+  {
+    "id": "brit_milah_greatness",
+    "name": "Greatness of Circumcision (Gedulat haMilah)",
+    "hebrew": "גדולת מצוות מילה",
+    "parent_id": "brit_milah",
+    "category": "RITUAL OBJECTS AND SIGNS",
+    "sources": [
+      "mishnah_nedarim"
+    ],
+    "notes": "Aggadic and halakhic enumerations of the greatness of circumcision — overrides Shabbat, overrides tzaraat, 13 covenants, Moses punished for delay, Abraham called wholehearted only after circumcision"
+  }
+]

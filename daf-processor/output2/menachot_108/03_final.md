@@ -1,0 +1,237 @@
+# Menachot 108 — Daf Yomi Shiur
+
+## Six Shofrot Origins
+
+### Shofrot Purpose
+
+> **Hebrew/Aramaic:** וּשְׁמוּאֵל אָמַר: כְּנֶגֶד מוֹתַר חַטָּאת, וּמוֹתַר אָשָׁם, וּמוֹתַר אֲשַׁם נָזִיר, וּמוֹתַר אֲשַׁם מְצוֹרָע, וּמוֹתַר מִנְחַת חוֹטֵא, וּמוֹתַר עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל.
+>
+> **Translation:** **And Shmuel says:** These six horns **correspond to** the surplus coins left over after purchasing six offerings, namely: The **surplus** coins left over after purchasing **a sin offering; and** the **surplus** coins left over after purchasing **a guilt offering; and** the **surplus** coins left over after purchasing **a nazirite's guilt offering,** brought if he comes into contact with a corpse during his term of naziriteship; **and** the **surplus** coins left over after purchasing **a leper's guilt offering,** brought as part of his purification process; **and** the **surplus** coins left over after purchasing **a meal offering of a sinner;** and the **surplus** coins left over after purchasing **the tenth of an ephah** griddle-cake meal offering sacrificed **by the High Priest** each day, half in the morning and half in the evening.
+
+The *daf* opens in the middle of 108a, eight lines from the top, beginning with the words *v'Shmuel amar*. The discussion concerns why there were six extra collection boxes (*shofrot*) in the *Beis HaMikdash* — thirteen in total — into which money was deposited for the *olah l'keitz hamizbeach*, a communal burnt offering brought when there was insufficient activity to keep the altar occupied. Much of the money directed to this fund was originally designated for various *korbanot* that could not ultimately be brought — certain types of *chataot*, *ashamot*, and the like — and the question is what accounts for exactly six such *shofrot*. One earlier answer attributed to *Bar Padda* explained the six in terms of the different species of animals with which donations could have originally been made. Now the *Gemara* presents the view of *Shmuel*, whose answer focuses on different categories of *korbanot* rather than different species of animals.
+
+### Shmuel's Categories
+
+*Shmuel* explains: the six *shofrot* correspond to leftover money from six distinct sources: the *chatat*, the *asham*, the *asham nazir*, the *asham metzora*, the *minchat chote*, and the daily *minchat chavitin* of the *kohen gadol*. The *halacha* for the first two is that leftover money designated for a *chatat* or an *asham* — situations where money was sanctified for such a sacrifice but not all of it was consumed — goes toward the *olah l'keitz hamizbeach*.
+
+The three categories of *ashamot* are distinguished because each serves a distinct purpose. The *asham metzora* is brought as part of the purification process of one afflicted with spiritual impurity, with its blood applied to the ear, thumb, and toe; the *asham nazir* similarly marks a transition of status, enabling renewed *nezirut* in a state of purity. Both of these are therefore unlike the classic *asham*, which addresses sins such as theft with false denial (*asham gezelot*) or misuse of consecrated property (*meilah*). That gives four categories: one *chatat* and three types of *ashamot*. The fifth is the *minchat chote*, the sinner's *mincha* brought in cases of *olah veyored* — when the *Torah* permits a lesser-cost substitute for a *chatat* — which parallels the *chatat* but in *mincha* form. The sixth is the leftover money from the *minchat chavitin*, the daily tenth of an *eifah* brought by the *kohen gadol*, which a verse in *Yechezkel* calls a *chatat*, leading to the assumption that leftover money from it follows the same rule of redirection toward the *olah l'keitz hamizbeach*.
+
+*Shmuel*'s list thus comprises one *chatat*, three *ashamot*, a *mincha*-equivalent *chatat*, and the *minchat chavitin* — six distinct sources.
+
+### Rabbi Oshaya List
+
+> **Hebrew/Aramaic:** וְרַבִּי אוֹשַׁעְיָא אָמַר: כְּנֶגֶד מוֹתַר חַטָּאת, וּמוֹתַר אָשָׁם, וּמוֹתַר אֲשַׁם נָזִיר, וּמוֹתַר אֲשַׁם מְצוֹרָע, וּמוֹתַר קִינִּין, וּמוֹתַר מִנְחַת חוֹטֵא.
+>
+> **Translation:** **And Rabbi Oshaya says** that there is a different explanation for the six collection horns: They **correspond to** the **surplus** coins left over after purchasing **a sin offering; and** the **surplus** coins left over after purchasing **a guilt offering; and** the **surplus** coins left over after purchasing **a nazirite's guilt offering; and** the **surplus** coins left over after purchasing **a leper's guilt offering; and** the **surplus** coins left over after the purchase of **pairs** of doves or pigeons by women after childbirth, by *zavim* as part of their purification process, and others; **and** the **surplus** coins left over after purchasing **a meal offering of a sinner.**
+
+*Rabbi Oshaya* presents an alternative list: he agrees with the first four sources (*chatat* and the three *ashamot*), agrees with the *minchat chote* (though he places it last), but replaces the *minchat chavitin* of the *kohen gadol* with the *kinnim*, the bird sacrifices. This substitution is natural enough: bird sacrifices are indeed a classic form of *chatat*, brought, for instance, by a woman after childbirth (*yoledet*) in her purification offering. The five sources *Rabbi Oshaya* endorses are thus: the ordinary *chatat*, the three types of *ashamot*, the bird *chataot*, and the *minchat chote*.
+
+### Bird Sacrifice Omission
+
+> **Hebrew/Aramaic:** וּשְׁמוּאֵל מַאי טַעְמָא לָא אָמַר כְּרַבִּי אוֹשַׁעְיָא? קִינִּין תְּנָא לֵיהּ רֵישָׁא.
+>
+> **Translation:** The Gemara asks: **And what is the reason** that **Shmuel does not say in accordance with** the explanation of **Rabbi Oshaya** that one of the collection horns was for the surplus coins left over after purchasing pairs of birds? The Gemara answers: A collection horn for coins for **pairs** of birds is already **taught** in **the first clause** of the mishna in tractate *Shekalim* (18a), among the list of seven collection horns that served purposes other than the communal gift offerings.
+
+A question is raised: why did *Shmuel* not include bird sacrifices (*kinnim*), which are a most natural category? The answer is: the *Mishnah* that lists all thirteen *shofrot* already specifies one of the first seven as designated explicitly for bird sacrifices, where a woman wishing to contribute money for her obligatory bird offerings could deposit directly into that box, with the *kohanim* then bringing the appropriate sacrifices on her behalf. Since one of the first seven *shofrot* already serves *kinnim*, *Shmuel* has no reason to include a category for leftover *kinnim* money among the final six.
+
+### Kinnim Shofrot Split
+
+> **Hebrew/Aramaic:** וְרַבִּי אוֹשַׁעְיָא תָּנֵי, וְלָא תָּנֵי קִינִּין? וְהָתָנֵי רַבִּי אוֹשַׁעְיָא וְתָנֵי קִינִּין! חַד לְקִינִּין, וְחַד לְמוֹתַר קִינִּין.
+>
+> **Translation:** The Gemara asks: **And does Rabbi Oshaya teach** the mishna **without teaching** that one of the collection horns was for **pairs** of birds? Does he have a different version of the mishna? **But doesn't Rabbi Oshaya teach** the mishna explicitly, **teaching** in his version of the mishna that there was a collection horn for **pairs** of birds? The Gemara answers that **one** of the collection horns was for coins designated **for** purchasing **pairs** of birds, **and one** collection horn was **for the surplus** coins remaining after purchasing **pairs** of birds.
+
+The *Gemara* then addresses the implicit tension in *Rabbi Oshaya*'s position. One might suppose that *Rabbi Oshaya* simply did not have *kinnim* in his version of the opening seven *shofrot*, and so he needed to include it among the six. The *Gemara* raises this: but did not *Rabbi Oshaya* himself teach a *Mishnah* that includes *kinnim* in the first seven? The answer is: there is no contradiction. The *shofar* among the first seven designated for *kinnim* receives money designated *l'chatchila* for the purpose of purchasing bird sacrifices, with the *kohanim* bringing offerings on behalf of whichever women deposited that money. The *shofar* in the second six, by contrast, receives leftover *kinnim* money — funds originally designated for a bird sacrifice that ended up not being fully used, and which must now be redirected to an *olah*. These serve distinct purposes and thus require distinct *shofrot*. This resolves *Rabbi Oshaya*'s position; the lecturer notes, however, that it does not fully explain why *Shmuel* rejected *kinnim* as one of his six, beyond the formal answer already given.
+
+---
+
+## Leftover Money Rules
+
+### Money Rot Principle
+
+> **Hebrew/Aramaic:** וְרַבִּי אוֹשַׁעְיָא מַאי טַעְמָא לָא אָמַר כִּשְׁמוּאֵל? סָבַר לַהּ כְּמַאן דְּאָמַר: מוֹתָר שֶׁל עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל יִרְקַב, דְּתַנְיָא: מוֹתַר מִנְחַת – נְדָבָה, מוֹתַר מִנְחָה – יִרְקַב.
+>
+> **Translation:** The Gemara asks: **And what is the reason** that **Rabbi Oshaya does not say in accordance with** the opinion of **Shmuel?** The Gemara answers that **he holds like the one who says** that the **surplus** coins left over after purchasing **the tenth of an ephah** griddle-cake meal offering **of the High Priest** are not used to purchase other offerings but are left to **rot; as it is taught** in a *baraita*: **The surplus** coins left over after purchasing **the meal offering of** are used for the purchase of a communal **gift** offering. **The surplus** coins left over after purchasing **a meal offering** are left to **rot.**
+
+The *Gemara* now asks: why did *Rabbi Oshaya* exclude the *minchat chavitin* of the *kohen gadol* from his list? While one could answer simply that he already has six without it, the *Gemara* proposes a principled objection: *Rabbi Oshaya* holds that the leftover money of the *kohen gadol*'s daily *minchat chavitin* must be allowed to rot. The reasoning is as follows: on one hand, since *Yechezkel* calls it a *chatat*, it cannot simply be repurposed toward another *chatat*-type offering — the general rule is that what was used for a *chatat* cannot be redirected back to its own purpose in this way. On the other hand, *Rabbi Oshaya* does not regard it as a standard *chatat* whose leftover money redirects to an *olah*. The result is a middle category with no valid destination, leaving no choice but to let it rot.
+
+### Baraita Interpretation
+
+> **Hebrew/Aramaic:** מַאי קָאָמַר? אָמַר רַב חִסְדָּא: הָכִי קָאָמַר – מוֹתַר מִנְחַת חוֹטֵא נְדָבָה, מוֹתַר עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל – יִרְקַב.
+>
+> **Translation:** The Gemara clarifies the opaque wording: **What is** the *baraita* **saying? Rav Ḥisda said** that **this** is what the *baraita* **is saying: The surplus** coins left over from the purchase of **a meal offering of a sinner** are used for the purchase of a communal **gift** offering. **The surplus** coins left over from purchasing **the tenth of an ephah** griddle-cake meal offering **of the High Priest** are left to **rot.**
+
+A *baraita* is cited: leftover money of a freewill *mincha*, the leftover *mincha* shall be let to rot. As the *Gemara* immediately asks, what does this even mean? The statement is nearly incomprehensible as stated. *Rav Chisda* explains: the *baraita* means that leftover money of a *minchat chote* goes to a *nedavah*. The word *nedavah* here refers to the communal *nedavat tzibbur*, that is, the *olos keitz hamizbeach* — which is precisely what both *Shmuel* and *Rabbi Oshaya* agreed upon. So the first part of the *baraita* is uncontroversial and consistent with both views.
+
+The second clause states that the leftover money of the *minchat chavitin*, the *kohen gadol*'s daily tenth of an *eifah*, must be let to rot. It is called a *chatat* in *Yechezkel*, but because it is not a standard *chatat* brought for a sin, its leftover money cannot go toward an *olah*; yet it cannot go back toward another *chatat*-type offering either. So it must rot. *Rav Chisda* thus reads the *baraita* as containing two distinct propositions: the *minchat chote*'s leftovers go to *nedavah*, while the *minchat chavitin*'s leftovers rot.
+
+### Rabbah's Ruling
+
+> **Hebrew/Aramaic:** רַבָּה אָמַר: אֲפִילּוּ מוֹתַר עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל – נָמֵי נְדָבָה, אֶלָּא מוֹתַר לַחְמֵי תוֹדָה – יִרְקַב.
+>
+> **Translation:** **Rabba** offered an alternative interpretation of the *baraita* and **said: Even the surplus** coins left over from purchasing **the tenth of an ephah** griddle-cake meal offering **of the High Priest** are **also** used for the purchase of a communal **gift** offering. **Rather, the surplus** coins left over from purchasing **the loaves** accompanying **a thanks offering** are left **to rot.**
+
+*Rabbah* now offers a third position: even the leftover money of the *kohen gadol*'s daily *mincha* goes to *nedavah*, i.e., to the *olos keitz hamizbeach*. *Rabbah* sides with *Shmuel*, rejecting the *baraita*'s conclusion that this money rots. If there must be something that rots according to the *baraita*, *Rabbah* redirects that ruling: rather, it is the leftover money from the *lachm* of the *todah* offering that must rot. The bread of a *todah* has no independent sanctified status; it exists solely to accompany the *todah* sacrifice itself and cannot be transferred to any independent *korban*. Leftover money for it therefore cannot be redirected and must be let to rot.
+
+### Kohen Gadol Debate
+
+> **Hebrew/Aramaic:** בִּפְלוּגְתָּא: מוֹתַר עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל, רַבִּי יוֹחָנָן אָמַר: נְדָבָה, רַבִּי אֶלְעָזָר אָמַר: יִרְקַב.
+>
+> **Translation:** The Gemara points out that the opinions of Rav Ḥisda and Rabba correspond to opinions raised **in the dispute** among earlier *amora'im*, as with regard to **the surplus** coins left over from purchasing **the tenth of an ephah** griddle-cake meal offering **of the High Priest, Rabbi Yoḥanan says** that they are used to buy a communal **gift** offering, while **Rabbi Elazar says** that they must be left **to rot.**
+
+The *Gemara* confirms that this question — what to do with the leftover money of the *kohen gadol*'s *minchat chavitin* — is an established dispute among *Amoraim*: it goes toward the communal *nedavah* of the *olos keitz hamizbeach*, in keeping with the positions of *Shmuel* and *Rabbah*; or it must rot, in keeping with the position of *Rabbi Oshaya*.
+
+### Shekalim Mishna
+
+> **Hebrew/Aramaic:** מֵיתִיבִי: מוֹתַר שְׁקָלִים – חוּלִּין, וּמוֹתַר עֲשִׂירִית הָאֵיפָה, וּמוֹתַר קִינֵּי זָבִין וְקִינֵּי זָבוֹת וְקִינֵּי יוֹלְדוֹת וְחַטָּאוֹת וַאֲשָׁמוֹת – מוֹתְרֵיהֶן נְדָבָה.
+>
+> **Translation:** The Gemara **raises an objection** to the opinion of Rabbi Elazar from a mishna (*Shekalim* 6b): **The surplus** coins that had been designated for **shekels are non-sacred** property; **but** with regard to **the surplus** coins left over after purchasing **the tenth of an ephah** meal offering, **and the surplus** money that had been designated to purchase offerings that are brought due to ritual impurity or a sin, such as **the pairs** of birds **of *zavim*, the pairs** of birds **of *zavot*, the pairs** of birds **of women after childbirth, and sin offerings, and guilt offerings,** in these cases, **the surplus** coins must be used for a communal **gift** offering.
+
+The *Gemara* then raises a challenge from a *Mishnah* in *Shekalim*: leftover money from *shekalim* contributions is non-sanctified (*chulin*) and may even be used for non-sacred purposes; but leftover money from the tenth of an *eifah*, from bird sacrifices of a *zav*, a *zava*, and a *yoledet*, from *chataot*, and from *ashamot* — all of these go to *nedavah*. This *Mishnah* explicitly states that the *motar asiris haeifah* goes to *nedavah*, which appears to be a clear proof for the position of *Rabbi Yochanan* and *Shmuel*.
+
+The lecturer notes that this *Mishnah* is actually a hybrid of the two lists: it includes both the bird sacrifices (which *Rabbi Oshaya* mentioned but *Shmuel* did not) and the *asiris haeifah* (which *Shmuel* mentioned but *Rabbi Oshaya* did not). This reflects the actual substance of the *machloket*: everyone agreed about the *halacha* regarding leftover bird sacrifice money — that it goes to the *keitz hamizbeach* — and the real debate was specifically about the *asiris haeifah*. The *Mishnah* in *Shekalim* thus appears to settle the matter firmly in favor of *nedavah*.
+
+> **Hebrew/Aramaic:** מַאי לָאו: מוֹתַר עֲשִׂירִית הָאֵיפָה – שֶׁל כֹּהֵן גָּדוֹל?
+>
+> **Translation:** The Gemara explains the objection: **What** is the meaning of the phrase: The tenth of an ephah meal offering? **Is it not** referring to **the surplus** coins left over after purchasing **the High Priest's tenth of an ephah** griddle-cake meal offering?
+
+> **Hebrew/Aramaic:** לֹא, מוֹתַר מִנְחַת חוֹטֵא.
+>
+> **Translation:** The Gemara answers: **No,** it is referring to **the surplus** coins left over after purchasing **the meal offering of a sinner,** which is also brought from a tenth of an ephah of fine flour (Leviticus 5:11).
+
+The *Gemara* asks: does "tenth of an *eifah*" not refer to the *kohen gadol*'s *minchat chavitin*? The *Gemara* offers a deflection: no, it refers to leftover money of a *minchat chote*. While *asiris haeifah* ordinarily calls to mind the *kohen gadol*'s daily offering, a standard *mincha* is also a tenth of an *eifah*, and so the term can be applied to the *minchat chote* as well. *Rabbi Oshaya* therefore reads this *Mishnah* as perfectly matching his own list of six sources: the *chatat*, the three *ashamot*, the bird sacrifices, and the *minchat chote* (referred to here as *motar asiris haeifah*). The surface reading, however — that the *Mishnah* refers to the *kohen gadol*'s offering — still supports *Shmuel*'s position.
+
+### Non-Standard Chatat
+
+> **Hebrew/Aramaic:** אָמַר רַב נַחְמָן בַּר רַב יִצְחָק: מִסְתַּבְּרָא כְּמַאן דְּאָמַר מוֹתַר עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל יִרְקַב. דְּתַנְיָא: ״לֹא יָשִׂים עָלֶיהָ שֶׁמֶן וְלֹא יִתֵּן עָלֶיהָ לְבֹנָה כִּי חַטָּאת הִיא״, אָמַר רַבִּי יְהוּדָה: הִיא קְרוּיָה ״חַטָּאת״, וְאֵין אַחֶרֶת קְרוּיָה ״חַטָּאת״. לִימֵּד עַל עֲשִׂירִית הָאֵיפָה שֶׁל כֹּהֵן גָּדוֹל שֶׁאֵינָהּ קְרוּיָה ״חַטָּאת״, וּטְעוּנָה לְבוֹנָה.
+>
+> **Translation:** **Rav Naḥman bar Rav Yitzḥak said: It is reasonable** to accept the opinion of **the one who said: The surplus** coins left over from purchasing **the tenth of an ephah** griddle-cake meal offering **of the High Priest** are left to **rot. As it is taught** in a *baraita* with regard to a sinner's meal offering: The verse states: "But if his means are not sufficient for two doves or two pigeons, then he shall bring his offering for that which he has sinned, the tenth part of an ephah of fine flour for a sin offering; **he shall put no oil upon it, nor shall he put any frankincense upon it, for it is a sin offering"** (Leviticus 5:11). **Rabbi Yehuda said** that the phrase "it is a sin offering" is interpreted as a restriction: **It is called a sin offering, and no other** meal offering **is called a sin offering. This taught that with regard to the tenth of an ephah** griddle-cake meal offering **of the High Priest, it is not called a sin offering, and** consequently it **requires frankincense.**
+
+*Rav Nachman bar Yitzchak* weighs in: it stands to reason that the leftover money must rot. He brings proof from a *baraita*: this is the verse regarding the *minchat chote*, specifying that no oil and no frankincense are placed upon it, because it is a *chatat*. *Rabbi Yehuda* comments on this verse: the *minchat chote* is the *mincha* called a *chatat*, and no other is called a *chatat*. The implication is that even though *Yechezkel* calls the *kohen gadol*'s daily offering a *chatat*, the verse in the *Torah* is teaching that that designation does not apply with full legal force to any other offering.
+
+### True Chatat Standard
+
+> **Hebrew/Aramaic:** וּמִדְּאֵינָהּ קְרוּיָה ״חַטָּאת״, מוֹתָרָהּ יִרְקַב.
+>
+> **Translation:** Rav Naḥman inferred: **And since it is not called a sin offering, its surplus** coins should not be used to buy communal gift offerings like the surplus coins of sin offerings; rather, they should be left to **rot.**
+
+*Rabbi Yehuda*'s principle illuminates the underlying debate. The *baraita* continues: and consequently, since it is not a real *chatat*, it requires frankincense (*levonah*), because the prohibition on *levonah* applies only to a genuine *chatat* (*lo yasim aleha levonah*). And because it is not a real *chatat*, its leftover money must rot.
+
+This resolves the entire debate with precision. The position that says leftover money goes to *nedavah* holds that since *Yechezkel* calls it a *chatat*, any leftover funds follow the *chatat* rule and are redirected to *nedavah*. The position that says it rots holds that *Yechezkel*'s terminology notwithstanding, this is not a genuine *chatat* as established by the *Torah* verse — it therefore receives *levonah* (contrary to the *chatat* rule), and its leftover money cannot be redirected to an *olah*. Caught between the two, with no valid destination available, the money must be let to rot.
+
+---
+
+## Blemished Animals
+
+### Ox Quantity Change
+
+> **Hebrew/Aramaic:** מַתְנִי׳ ״שׁוֹר זֶה עוֹלָה״, וְנִסְתָּאֵב – אִם רָצָה יָבִיא בְּדָמָיו שְׁנַיִם. ״שְׁנֵי שְׁוָורִים אֵלּוּ עוֹלָה״, וְנִסְתָּאֲבוּ – רָצָה יָבִיא בִּדְמֵיהֶן אֶחָד, וְרַבִּי אוֹסֵר.
+>
+> **Translation:** MISHNA: With regard to one who said: **This bull is** hereby **a burnt offering, and** subsequently **it became blemished [*venista'ev*]** and was disqualified from sacrifice, he should redeem the bull and with that money purchase another bull as an offering in its stead. **If he wishes, he may bring two** bulls **with its** redemption **money** instead of one. If one says: **These two bulls are** hereby **a burnt offering, and** subsequently **they became blemished,** if **he wishes he may bring one** bull **with their** redemption **money. And Rabbi** Yehuda HaNasi **deems** this **prohibited,** and holds that he must bring two bulls.
+
+The *Gemara* now moves to a new *Mishnah*. If someone said "this ox is an *olah*," thereby sanctifying the animal itself rather than undertaking a personal obligation, and then the animal developed a blemish rendering it unfit for the altar, it must be redeemed. If he wishes, he may use the redemption money to purchase two oxen, offering both. If he said "these two oxen are an *olah*" and both developed blemishes, he may use the combined redemption money to bring a single large ox. In both cases, the *Mishnah* permits these transfers, because the issue is not satisfying a specific personal vow but rather properly channeling the existing sanctity. There is no designated obligation to fulfill — just a *halacha* that sanctity of an *olah* must be transferred to a valid *olah*, and the number or size of animals is unrestricted.
+
+*Rebbi* forbids. The question is whether *Rebbi* forbids only the second case (two to one) or both.
+
+### Sheep-Ram Transfers
+
+> **Hebrew/Aramaic:** ״אַיִל זֶה עוֹלָה״, וְנִסְתָּאֵב – אִם רָצָה יָבִיא בְּדָמָיו כֶּבֶשׂ. ״כֶּבֶשׂ זֶה עוֹלָה״, וְנִסְתָּאֵב – אִם רָצָה יָבִיא בְּדָמָיו אַיִל, וְרַבִּי אוֹסֵר.
+>
+> **Translation:** In a case where one said: **This ram is** hereby **a burnt offering, and it became blemished, if he wishes he may bring a lamb with its** redemption **money.** In a case where one said: **This lamb is** hereby **a burnt offering, and it became blemished, if he wishes he may bring a ram with its** redemption **money. And Rabbi** Yehuda HaNasi **deems** it **prohibited** for one to bring one type of animal with redemption money from another type of animal.
+
+The *Mishnah* continues: if one said "this ram is an *olah*" and it developed a blemish, he may bring a sheep in its place, even though it is smaller — perhaps it was simply more expensive. Similarly, if one said "this sheep is an *olah*" and it developed a blemish, he may bring a ram. *Rebbi* forbids. Since *Rebbi* clearly forbids even the last case of sheep to ram, which is going from small to large, it follows that *Rebbi* is opposed to any change — not merely to a deterioration in quantity or size.
+
+### Sanctification vs. Vow
+
+> **Hebrew/Aramaic:** גְּמָ׳ וְהָא אָמְרַתְּ רֵישָׁא: ״שׁוֹר בְּמָנֶה״ וְהֵבִיא שְׁנַיִם בְּמָנֶה – לֹא יָצָא.
+>
+> **Translation:** GEMARA: The mishna teaches that if one vows to bring a certain bull as a burnt offering and it became blemished, he may bring two bulls with its redemption money. The Gemara asks: **But didn't you say in the first clause,** i.e., in the previous mishna (107b), that if one said: It is incumbent upon me to bring **a bull with** the value of **one hundred dinars** as a burnt offering or peace offering, **and he brought two** bulls **with** a combined value of **one hundred dinars,** he **has not fulfilled** his obligation? If so, why does the mishna here teach that one may bring two bulls with the redemption money of one bull?
+
+> **Hebrew/Aramaic:** ״שׁוֹר זֶה״ וְנִסְתָּאֵב שָׁאנֵי.
+>
+> **Translation:** The Gemara answers that these two cases are not comparable. The previous mishna was referring to a case where one vowed to bring a bull worth one hundred dinars, without referring to a specific bull. Therefore, he is obligated to fulfill the specific conditions of his vow. By contrast, this mishna is referring to a case where one said: **This bull** is hereby a burnt offering, **and** therefore, if the bull **becomes blemished** and disqualified as an offering the *halakha* **is different.** Since he was only ever obligated to sacrifice this bull, and is no longer able to sacrifice it, he is no longer obligated by his vow, and may bring any number of offerings with its value.
+
+The *Gemara* opens 108b by noting the apparent tension with an earlier ruling: we established previously that if one takes a personal vow to bring an ox worth a *maneh* and instead brings two animals together worth a *maneh*, the vow is not fulfilled. How then can the *Mishnah* here permit going from one ox to two? The *Gemara* answers: the case of "this ox" (sanctifying the animal itself) is different. Here there is no personal obligation to be satisfied; the sanctity already rests on the animal and must simply be transferred to a valid recipient. The question of whether a specific vow has been fulfilled does not arise — only the question of where the sanctity must go. Therefore, no restriction applies to number or size.
+
+### Rabbi No Changes
+
+> **Hebrew/Aramaic:** מִשּׁוּם דְּהָוֵה לֵיהּ גָּדוֹל וְהֵבִיא קָטָן, וְאַף עַל גַּב דְּנִסְתָּאֵב, לְכִתְחִילָּה לָא שָׁרֵי רַבִּי.
+>
+> **Translation:** The Gemara answers: **Because it is** similar to a case where one vowed to bring **a large** bull **and he brought a small** bull, in which case he has not fulfilled his vow. Similarly, in this case, he vowed to bring two bulls and brought only one. **And although** he is not actually obligated to bring two bulls, as the bulls that he consecrated **became blemished** and he needs only to bring an offering with their redemption money, nevertheless **Rabbi** Yehuda HaNasi **does not permit** bringing two bulls instead of one ***ab initio*.**
+
+> **Hebrew/Aramaic:** וְלִפְלוֹג נָמֵי בְּרֵישָׁא?
+>
+> **Translation:** The Gemara asks: **But** if so, **let** Rabbi Yehuda HaNasi **disagree in the first clause** of the mishna **as well,** which states that if one consecrated a specific bull as a burnt offering and it subsequently became blemished, he may purchase two bulls with its redemption money. There, too, Rabbi Yehuda HaNasi should prohibit bringing two bulls *ab initio*, as it is similar to a case where one vowed to bring a small bull and brought a large one, in which case Rabbi Yehuda HaNasi also holds that he has not fulfilled his obligation.
+
+> **Hebrew/Aramaic:** רַבִּי אַכּוּלַּהּ מִילְּתָא פְּלִיג, וְנָטַר לְהוּ לְרַבָּנַן עַד דְּמַסְּקִי מִילְּתַיְיהוּ, וַהֲדַר מִיפְּלִיג עֲלַיְיהוּ.
+>
+> **Translation:** The Gemara answers: **Rabbi** Yehuda HaNasi **disagrees with** this **entire matter,** both in the first and latter clauses of the mishna; **but he waited until the Rabbis had completed their statement, and then disagreed with them** with regard to both cases.
+
+The *Gemara* then takes up *Rebbi*'s position. Why does *Rebbi* forbid? Because one started with something large (two oxen are always considered greater than one, regardless of individual cost) and is bringing something small (one). This mirrors the rule of personal vows, where one may not obligate oneself in something large and discharge with something small. And even though a blemish intervened, *Rebbi* does not permit it even *lechatchila*, applying the personal vow standard to cases of sanctification.
+
+The *Gemara* then asks: if *Rebbi*'s principle is to pattern sanctification after personal vow rules, why does he not also object to the first case, going from one to two? *Rebbi* a*kula milta palig* — *Rebbi* does forbid both cases. He let the Rabbis finish stating their position across both cases and then registered his dissent, which applies to the entire *Mishnah*. Thus, *Rebbi oser* at the end of the *Mishnah* is to be read as rejecting both the case of one to two and two to one.
+
+### Vow Pattern Logic
+
+> **Hebrew/Aramaic:** תֵּדַע, דְּקָתָנֵי: ״אַיִל זֶה עוֹלָה״ וְנִסְתָּאֵב – רָצָה יָבִיא בְּדָמָיו כֶּבֶשׂ; ״כֶּבֶשׂ זֶה לְעוֹלָה״ וְנִסְתָּאֵב – רָצָה יָבִיא בְּדָמָיו אַיִל, וְרַבִּי אוֹסֵר. שְׁמַע מִינַּהּ.
+>
+> **Translation:** **Know** that Rabbi Yehuda HaNasi disagrees with the statement of the Rabbis in the first clause of the mishna as well, **as** the mishna **teaches** that if one said: **This ram is** hereby **a burnt offering, and it became blemished,** if **he wishes he may bring a lamb with its** redemption **money.** If one said: **This lamb is** hereby **a burnt offering, and it became blemished, he may bring a ram with its** redemption **money. And Rabbi** Yehuda HaNasi **deems** it **prohibited** for one to bring one type of animal with the redemption money of another type of animal, even if he wishes to bring a ram with the redemption money of a lamb. Evidently, Rabbi Yehuda HaNasi disagrees with the Rabbis even in a case where one consecrated a small animal and wishes to bring a large animal with its redemption money. **Conclude from it** that he also disagrees in a case where one vowed to bring a certain animal which subsequently became blemished; the person may not bring two animals with the redemption money.
+
+The *Gemara* elaborates on *Rebbi*'s reasoning: *lechatchila* one must treat the sanctification of an animal as subject to the same constraints as a personal vow. In the earlier discussion of personal vows, *Rebbi* held that even going from a small animal to a large one does not satisfy the vow — any deviation, upward or downward, is impermissible. *Rebbi* applies this same standard to cases of sanctification: the blemish does not free the owner to transfer in any direction he chooses. Even though there is no specific obligation to satisfy, *Rebbi* requires *lechatchila* that the transfer not involve any change of quantity or magnitude, patterning the sanctification rules after the personal vow framework.
+
+To confirm that *Rebbi* forbids both directions, the *Gemara* points to the structure of the *Mishnah* itself. The final cases are: a ram to a sheep; and a sheep to a ram. *Rebbi oser* covers both. The second case explicitly involves going from small to large (sheep to ram), and *Rebbi* forbids it. We learn from this that *Rebbi* forbids any change: large to small, small to large, one to two, two to one. The *Mishnah*'s structure confirms that *Rebbi oser* at the end applies to both preceding cases, and the principle is that *lechatchila* no changes are permitted, based on the personal vow framework.
+
+### Species Change Query
+
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: מִמִּינָא לְמִינָא מַאי?
+>
+> **Translation:** § **A dilemma was raised before** the Sages: According to the Rabbis, **what** is the *halakha* with regard to one who wishes to use the redemption money **from** an animal of one **species** which became blemished **to** purchase a different **species** of animal? For example, if one vowed to bring a bull which subsequently became blemished, may he bring rams with its value instead?
+
+The *Gemara* now raises a new question: they raised the question of cross-species transfer. The earlier discussion was about changes in number or size within the same species. What if one transfers the sanctity not within the same species but from one species to an entirely different one — say, from a cow to a ram? Can that be done?
+
+### Cost Equivalence Rule
+
+> **Hebrew/Aramaic:** תָּא שְׁמַע: שׁוֹר זֶה עוֹלָה, וְנִסְתָּאֵב – לֹא יָבִיא בְּדָמָיו אַיִל, אֲבָל מֵבִיא בְּדָמָיו שְׁנֵי אֵילִים, וְרַבִּי אוֹסֵר, לְפִי שֶׁאֵין בִּילָּה. שְׁמַע מִינַּהּ.
+>
+> **Translation:** The Gemara suggests: **Come** and **hear** a resolution from that which is taught in a *baraita*: If one said: **This bull is** hereby **a burnt offering, and it became blemished, he may not bring a ram with its** redemption **money,** as a ram is not worth as much as a bull. **But he may bring two rams with its** redemption **money,** if together they are equal in value to the bull. **And Rabbi** Yehuda HaNasi **deems** this **prohibited,** the reason being that one must bring two meal offerings to accompany his two rams. These meal offerings must be brought in two vessels, **because there is no mixing** permitted. Accordingly, bringing two offerings runs counter to the person's vow, which involved bringing only one meal offering. **Conclude from** this *baraita* that according to the Rabbis it is permitted to use the redemption money from one species of animal to purchase a different species.
+
+Come and hear. A *baraita* states: if one said "this ox is an *olah*" and it developed a blemish, one may not bring a single ram in its place. This might seem to indicate a species change is forbidden, but the *baraita* immediately clarifies: but one may bring two rams. The concern is not the species difference per se, but rather that a single ram is of lesser value than an ox; one must not shortchange the *Beis HaMikdash* by transferring to an animal of significantly lower cost. Two rams together may be of equivalent value, and that transfer is permitted. Thus, cross-species transfer is in principle allowed by the Rabbis, as long as the final animals are roughly equivalent in cost. But *Rebbi* forbids, because there cannot be mixing.
+
+### Bila Principle
+
+> **Hebrew/Aramaic:** אִי הָכִי, מַאי אִירְיָא תְּרֵי? אֲפִילּוּ חַד נָמֵי! דְּהָא בְּנִסְתָּאֵב, לְרַבָּנַן לָא שָׁנֵי לְהוּ בֵּין גָּדוֹל לְקָטָן!
+>
+> **Translation:** The Gemara asks: **If so,** if the Rabbis deem it permitted to bring a different species of animal, **why** does the *baraita* **specifically** state that one may bring **two** rams in place of a bull? The same *halakha* would apply **even** for **one** ram, **as** although one ram is smaller than one bull, **in** a case where the animal **became blemished, according to the Rabbis, there is no difference whether** one brings **a large** animal **or a small** animal. If one vowed to bring a ram he may bring a lamb instead, so why not a ram in place of a bull?
+
+What does "cannot be mixing" mean? When one brings two rams, each requires its own accompanying *minchat nesachim* — the *mincha* that accompanies an animal offering. The result is two separate *menachos*, which makes clear to all observers that something substantially different is happening from what was originally vowed. *Rashi* explains that while transferring sanctity from one animal to another is understood as a transfer of *kedusha*, producing two separate *menachos* confuses the matter and signals a departure from the original act. This is *Rebbi*'s concern with the one-to-two transfer.
+
+The *Gemara* then challenges this reading of *Rebbi*: if the two *menachos* could be mixed together, would *Rebbi* permit it? That seems to recast *Rebbi*'s objection as limited to the *bila* problem, as if he has no fundamental objection to going from one animal to two. But this is difficult: we already read in the *Mishnah* that going from ram to sheep or sheep to ram is forbidden by *Rebbi*, and those are single-animal cases involving no *bila* problem at all. *Rebbi*'s objection there has nothing to do with the mixing of *menachos*. So *bila* cannot be *Rebbi*'s only concern.
+
+### Two Tannaic Views
+
+> **Hebrew/Aramaic:** תְּרֵי תַנָּאֵי, וְאַלִּיבָּא דְּרַבָּנַן.
+>
+> **Translation:** The Gemara answers: There are **two *tanna'im*, and** they disagree **with regard to** the opinion **of the Rabbis.** The *tanna* of the mishna holds that the Rabbis deem it permitted to bring a small animal in place of a large animal that became blemished. The *tanna* of the *baraita* holds that the Rabbis do not deem it permitted to bring a small animal in place of a large animal.
+
+> **Hebrew/Aramaic:** רַבִּי אוֹסֵר, לְפִי שֶׁאֵין בִּילָּה; טַעְמָא דְּאֵין בִּילָּה, הָא יֵשׁ בִּילָּה – שְׁרֵי.
+>
+> **Translation:** The *baraita* states: **Rabbi** Yehuda HaNasi **deems** it **prohibited** to bring two rams with the redemption money of a bull, **because there is no mixing.** The Gemara infers: **The reason** that he deems it prohibited is **because there is no mixing. But** had there **been mixing,** then according to Rabbi Yehuda HaNasi it would be **permitted.**
+
+> **Hebrew/Aramaic:** וְהָתְנַן: ״אַיִל זֶה עוֹלָה״ וְנִסְתָּאֵב, רָצָה יָבִיא בְּדָמָיו כֶּבֶשׂ. ״כֶּבֶשׂ זֶה עוֹלָה״ וְנִסְתָּאֵב, יָבִיא בְּדָמָיו אַיִל, וְרַבִּי אוֹסֵר.
+>
+> **Translation:** The Gemara asks: **But didn't we learn** in the mishna that if one said: **This ram is** hereby **a burnt offering, and it became blemished,** if **he wishes he may bring a lamb with its** redemption **money.** If one said: **This lamb is** hereby **a burnt offering, and it became blemished, he may bring a ram with its** redemption **money. And Rabbi** Yehuda HaNasi **deems** it **prohibited** for one to bring one type of animal with the redemption money of another type of animal. Evidently, Rabbi Yehuda HaNasi prohibits any kind of divergence from the animal that was consecrated, regardless of whether mixing is permitted.
+
+> **Hebrew/Aramaic:** תְּרֵי תַנָּאֵי, וְאַלִּיבָּא דְּרַבִּי.
+>
+> **Translation:** The Gemara answers: There are **two *tanna'im*, and** they disagree **with regard to** the opinion **of Rabbi** Yehuda HaNasi. The *tanna* of the *baraita* holds that Rabbi Yehuda deems it prohibited to switch to a different type of animal only if it affects the accompanying meal offering, whereas the *tanna* of the mishna holds that Rabbi Yehuda HaNasi deems any kind of change prohibited.
+
+The *Gemara* resolves the tension: there are two *tannaim* who represent different understandings of *Rebbi*'s position. Our *Mishnah* holds that according to *Rebbi*, any change — in number, size, or direction — is forbidden *lechatchila*, because sanctification is patterned entirely after personal vow rules, and just as no deviation is tolerated in a personal vow, none is tolerated here. The *baraita*, by contrast, represents a different *tanna*'s understanding of *Rebbi*, according to which *Rebbi* objects only when there is a *bila* problem — i.e., when the transfer creates two separate *menachos* that cannot be properly merged. Under this second view, going from a single animal to another single animal (even of a different species) would in principle be permissible for *Rebbi*, and the *baraita* thus records a more limited version of *Rebbi*'s restriction.
+
+### Personal Vow Standard
+
+> **Hebrew/Aramaic:** וּבִטְהוֹרִים, ״עֵגֶל״ וְהֵבִיא פַּר, ״כֶּבֶשׂ״ וְהֵבִיא אַיִל – יָצָא. סְתָמָא – כְּרַבָּנַן.
+>
+> **Translation:** The Gemara cites the latter clause of the *baraita*: All of the cases in the mishna and *baraita* are referring to a case where the animal became blemished; **and with regard to pure** animals, i.e., those that are not blemished, if one vowed to bring **a calf and brought a bull** instead, or he vowed to bring **a lamb and brought a ram** instead, **he has fulfilled** his obligation. The Gemara explains that the **unattributed** last clause of the *baraita* is **in accordance with** the opinion of **the Rabbis.** Rabbi Yehuda HaNasi would disagree in this case as well.
+
+The *baraita* concludes: in cases of pure, unblemished animals, meaning cases of a personal vow, if one vowed to bring a calf and brought a full-grown ox, or vowed a sheep and brought a ram, one has fulfilled the obligation. This is the Rabbis' position: going from small to large in a personal vow satisfies the vow. This is to be contrasted with *Rebbi*, who holds that even small-to-large does not discharge a personal vow, and who carries that same stringency into the laws of sanctification as well.
+
+To summarize the positions: according to the Rabbis, when a sanctified animal develops a blemish, the owner may transfer the sanctity across changes in number, size, and species, provided the *Beis HaMikdash* is not shortchanged in terms of value — and at least one *tannaic* reading of the Rabbis' position introduces this cost-equivalence requirement. According to *Rebbi*, there are two layers of restriction: first, his fundamental principle that in a personal vow one may not deviate in any direction, and second, his application of that principle to cases of sanctification, such that *lechatchila* no changes are permitted — neither one to two, nor two to one, nor small to large, nor large to small. Two *tannaim* interpret this second principle differently: one holds that *Rebbi* forbids all changes without exception, while the other holds that *Rebbi*'s concern is specifically the *bila* problem, i.e., the improper appearance created when a single animal is replaced by two that generate separate, unmixed *menachos*.

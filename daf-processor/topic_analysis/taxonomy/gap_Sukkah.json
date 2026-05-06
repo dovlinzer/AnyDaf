@@ -1,0 +1,255 @@
+[
+  {
+    "id": "sukkah_structure",
+    "name": "Sukkah Structure and Validity",
+    "hebrew": "כשרות הסוכה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Laws governing the physical construction and validity of the sukkah: height requirements, walls, schach, and related rules"
+  },
+  {
+    "id": "schach",
+    "name": "Schach (Sukkah Roofing)",
+    "hebrew": "סכך",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Laws of valid and invalid roofing material for a sukkah, including susceptibility to impurity and attachment to the ground"
+  },
+  {
+    "id": "dofen_akumah",
+    "name": "Dofen Akumah (Curved Wall Principle)",
+    "hebrew": "דופן עקומה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Legal principle by which part of an existing roof or ceiling is treated as an extension of the wall, enabling a sukkah to be valid"
+  },
+  {
+    "id": "yeshivat_sukkah",
+    "name": "Yeshivat Sukkah (Dwelling in the Sukkah)",
+    "hebrew": "ישיבת סוכה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Obligation to eat, sleep, and dwell in the sukkah during the seven days of the festival, including the first night obligation and exemptions"
+  },
+  {
+    "id": "sukkah_exemptions",
+    "name": "Exemptions from Sukkah",
+    "hebrew": "פטורים מן הסוכה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Who is exempt from the sukkah obligation: women, minors, slaves, the ill, travelers performing a mitzvah, and rain as a sign of exemption"
+  },
+  {
+    "id": "nisuch_hamayim",
+    "name": "Nisuch HaMayim (Water Libation)",
+    "hebrew": "ניסוך המים",
+    "parent_id": "nesachim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The special water libation performed on the altar during the festival of Sukkot, including the drawing from Siloam pool and pouring procedures"
+  },
+  {
+    "id": "simchat_beit_hashoevah",
+    "name": "Simchat Beit HaShoevah (Celebration of Water Drawing)",
+    "hebrew": "שמחת בית השואבה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The great celebration in the Temple courtyard during Sukkot associated with the water libation, including music, dancing, torches, and illumination"
+  },
+  {
+    "id": "aravah_sukkot",
+    "name": "Aravah (Willow Branch Mitzva on Sukkot)",
+    "hebrew": "ערבה",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The distinct mitzva of encircling the altar with willow branches on Sukkot (separate from the willow of the four species), including the seven-day and Shabbat override issues"
+  },
+  {
+    "id": "hakafot_sukkot",
+    "name": "Hakafot (Circling the Altar on Sukkot)",
+    "hebrew": "הקפות המזבח",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The practice of circling the altar once each day of Sukkot and seven times on Hoshana Rabbah, with lulav and aravah"
+  },
+  {
+    "id": "lulav_ownership",
+    "name": "Lulav Ownership on First Day",
+    "hebrew": "לולב של מצוה ביום ראשון",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Requirement that the lulav belong to the person fulfilling the mitzva on the first day of Sukkot; inability to use a borrowed lulav on the first day"
+  },
+  {
+    "id": "lulav_waving",
+    "name": "Waving the Lulav (Naanuim)",
+    "hebrew": "נענועי הלולב",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Laws of when to wave the lulav during Hallel, in which directions, and at which verses"
+  },
+  {
+    "id": "etrog_specifications",
+    "name": "Etrog Specifications and Validity",
+    "hebrew": "כשרות האתרוג",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Physical requirements for a valid etrog including size, blemishes, orla status, teruma status, and color"
+  },
+  {
+    "id": "lulav_myrtle_willow_specs",
+    "name": "Lulav, Myrtle, and Willow Specifications",
+    "hebrew": "כשרות לולב הדס וערבה",
+    "parent_id": "arba_minim",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Physical requirements for valid lulav, hadas, and aravah, including dryness, severed tops, minimum lengths, and number of species"
+  },
+  {
+    "id": "hallel_on_sukkot",
+    "name": "Hallel on Sukkot",
+    "hebrew": "הלל בסוכות",
+    "parent_id": "hallel",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Recitation of the full Hallel throughout the eight days of Sukkot and Shemini Atzeret, including waving the lulav during Hallel"
+  },
+  {
+    "id": "shemini_atzeret",
+    "name": "Shemini Atzeret (Eighth Day of Assembly)",
+    "hebrew": "שמיני עצרת",
+    "parent_id": "yom_tov",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The eighth day following Sukkot as an independent festival, with obligations of rejoicing and Hallel but not sukkah or lulav"
+  },
+  {
+    "id": "hoshana_rabbah",
+    "name": "Hoshana Rabbah (Seventh Day of Sukkot)",
+    "hebrew": "הושענא רבה",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The seventh day of Sukkot on which the altar is encircled seven times and special willow-branch customs are performed"
+  },
+  {
+    "id": "priestly_watches_festivals",
+    "name": "Priestly Watches on Festivals",
+    "hebrew": "משמרות כהונה ברגלים",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Distribution of festival offerings and Temple service among the 24 priestly watches during pilgrimage festivals, including equal shares and rotation of bull sacrifices on Sukkot"
+  },
+  {
+    "id": "shewbread_distribution_festivals",
+    "name": "Shewbread Distribution on Festivals",
+    "hebrew": "חלוקת לחם הפנים ברגלים",
+    "parent_id": "lechem_hapanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Rules for distribution of the shewbread among priestly watches when Shabbat coincides with or is adjacent to a festival"
+  },
+  {
+    "id": "mishmar_bilgah",
+    "name": "Mishmar of Bilgah (Priestly Penalty)",
+    "hebrew": "משמר בלגה",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The permanent penalty imposed on the priestly watch of Bilgah: fixed ring, sealed niche, and always dividing shewbread in the south"
+  },
+  {
+    "id": "takkanot_rybz_sukkot",
+    "name": "Takkanot of Rabban Yochanan ben Zakkai for Sukkot",
+    "hebrew": "תקנות רבן יוחנן בן זכאי לסוכות",
+    "parent_id": "meth_takkanah",
+    "category": "TALMUDIC METHODOLOGY",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Post-Temple enactments of Rabban Yochanan ben Zakkai: lulav taken seven days everywhere, and prohibition of new grain extended through 16 Nisan as zecher lamikdash"
+  },
+  {
+    "id": "zecher_lamikdash",
+    "name": "Zecher laMikdash (Commemoration of Temple Practice)",
+    "hebrew": "זכר למקדש",
+    "parent_id": "zecher_lechurban",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "Rabbinic enactments instituted to remember Temple practices, such as taking lulav seven days outside the Temple after its destruction"
+  },
+  {
+    "id": "sukkot_bull_offerings",
+    "name": "Sukkot Bull Offerings (Seventy Bulls)",
+    "hebrew": "קרבנות פרים של חג",
+    "parent_id": "musaf_offering",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The seventy bulls sacrificed over the seven days of Sukkot in descending order (13, 12, 11... 7), and their distribution among the priestly watches"
+  },
+  {
+    "id": "childrens_sukkah_obligation",
+    "name": "Children's Obligation in Sukkah",
+    "hebrew": "חינוך קטן בסוכה",
+    "parent_id": "fam_katan",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah_sukkah"
+    ],
+    "notes": "The rabbinic obligation to train children in the mitzva of sukkah once they no longer need their mother, and the incident of Shammai the Elder roofing for a newborn"
+  }
+]

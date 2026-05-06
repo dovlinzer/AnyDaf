@@ -1,0 +1,442 @@
+[
+  {
+    "id": "shor_tam_liability",
+    "name": "Innocuous Ox (Shor Tam) — Liability from Body of Ox",
+    "hebrew": "שור תם — תשלום מגוף השור",
+    "parent_id": "mon_shor_tam_muad",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that an innocuous ox's owner pays only half-damages exclusively from proceeds of the sale of the belligerent ox, not from other assets"
+  },
+  {
+    "id": "nezek_shein_vetafes",
+    "name": "Tooth and Foot Damage (Shen veTefes/Regel)",
+    "hebrew": "נזק שן ורגל",
+    "parent_id": "mon_four_avot_nezikin",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed rules for the primary categories of Tooth (eating) and Foot (trampling) damage, including exemption in public domain and payment for benefit derived"
+  },
+  {
+    "id": "nezek_bor_depth",
+    "name": "Pit Depth Requirement for Liability",
+    "hebrew": "עומק הבור לחיוב",
+    "parent_id": "mon_bor",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rule that a pit must be at least ten handbreadths deep to create full liability for death; lesser depth creates liability only for injury"
+  },
+  {
+    "id": "nezek_bor_kelim",
+    "name": "Pit Liability — Exemption for Vessels",
+    "hebrew": "פטור הבור על הכלים",
+    "parent_id": "mon_bor",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Torah edict exempting the digger of a pit from liability for damage to vessels (as opposed to animals) that fall in"
+  },
+  {
+    "id": "adam_muad_leolam",
+    "name": "Person Always Forewarned (Adam Muad leOlam)",
+    "hebrew": "אדם מועד לעולם",
+    "parent_id": "avot_nezikin",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that a person is always considered forewarned for damage he causes, whether intentional or unintentional, asleep or awake, requiring full damages"
+  },
+  {
+    "id": "nezek_esh_spread",
+    "name": "Fire Damage — Liability for Spread of Fire",
+    "hebrew": "נזק האש — אחריות על התפשטות",
+    "parent_id": "mon_eish",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed rules on how far fire can spread before owner loses liability, including disputes of Rabbi Eliezer, Rabbi Akiva, and Rabbi Shimon"
+  },
+  {
+    "id": "nezek_esh_concealed_items",
+    "name": "Fire Damage — Hidden Items in Stack",
+    "hebrew": "דבר הגנוז בגדיש",
+    "parent_id": "mon_eish",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Rabbi Yehuda and Rabbis whether one who sets fire to a stack is liable for concealed vessels inside it; in a house, all agree he is liable"
+  },
+  {
+    "id": "gezel_shinui",
+    "name": "Robbery with Change (Shinui) — Acquisition by Transformation",
+    "hebrew": "שינוי בגזל — קניין שינוי",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A robber who transforms stolen property (e.g., wood into vessels, wool into garments) acquires it via the change, and pays value at time of robbery rather than returning the item"
+  },
+  {
+    "id": "gezel_shiuma_shaat_hagezeilah",
+    "name": "Robbery Valuation at Time of Theft",
+    "hebrew": "שומת הגזל בשעת הגזילה",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Principle that robbers pay according to the value of the stolen item at the time of the robbery, even if it subsequently appreciated or depreciated"
+  },
+  {
+    "id": "gezel_shevuat_shav_chomesh",
+    "name": "Robbery with False Oath — Additional Fifth (Chomesh)",
+    "hebrew": "גזל ושבועת שקר — תוספת חומש",
+    "parent_id": "chomesh",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who robs and takes a false oath must pay principal plus one-fifth additional, and bring a guilt offering; the one-fifth compounds if he takes further false oaths"
+  },
+  {
+    "id": "gezel_hager_kohanim",
+    "name": "Robbing a Convert Who Died Without Heirs — Payment to Priests",
+    "hebrew": "גזל הגר — תשלום לכהנים",
+    "parent_id": "gezel_hager",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who robs a convert who subsequently dies without heirs must pay the principal plus a fifth to the priests and bring a guilt-offering"
+  },
+  {
+    "id": "yiush_baal_aveidah",
+    "name": "Owner's Despair of Recovery (Yiush)",
+    "hebrew": "יאוש בעל האבידה",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When an owner despairs of recovering stolen or lost property, another person may acquire the item; relevant to salvage from river, troop, bandits, and swarms"
+  },
+  {
+    "id": "chazarat_gezeilah_unsettled",
+    "name": "Returning Robbery in Settled vs. Unsettled Area",
+    "hebrew": "השבת גזילה ביישוב ובמדבר",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who robbed in a settled area may not return the item in an unsettled area where it is of no benefit to the owner"
+  },
+  {
+    "id": "hezek_public_domain_objects",
+    "name": "Liability for Objects Left in Public Domain",
+    "hebrew": "נזקי חפצים ברשות הרבים",
+    "parent_id": "mon_damages_nezek",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules on liability for damage caused by objects left or spilled in public domain, including thorns, water, straw, hay, and poured liquids"
+  },
+  {
+    "id": "nezek_two_walkers_collision",
+    "name": "Damage Between Two People Walking in Public Domain",
+    "hebrew": "נזק שני הולכים ברשות הרבים",
+    "parent_id": "mon_damages_nezek",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for when two people or carriers collide in public domain — including barrel vs. cross beam, walking vs. running — determining liability based on direction and stopping"
+  },
+  {
+    "id": "five_payments_bodily_injury",
+    "name": "Five Payments for Bodily Injury",
+    "hebrew": "חמישה תשלומים בנזק הגוף",
+    "parent_id": "crim_five_damages",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The five components of compensation for bodily injury: damage (nezek), pain (tza'ar), medical costs (ripui), loss of livelihood (shevet), and humiliation (boshet)"
+  },
+  {
+    "id": "tza_ar_pain_compensation",
+    "name": "Pain Compensation (Tza'ar)",
+    "hebrew": "תשלום צער",
+    "parent_id": "crim_five_damages",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Compensation for pain caused by injury, assessed by how much the victim would accept to undergo such pain; separate from damage to the body's monetary value"
+  },
+  {
+    "id": "ripui_medical_costs",
+    "name": "Medical Cost Compensation (Ripui)",
+    "hebrew": "תשלום ריפוי",
+    "parent_id": "crim_five_damages",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Ongoing obligation to pay for the injured party's medical treatment; if wound reopens, liability continues; ends when wound fully heals"
+  },
+  {
+    "id": "shevet_loss_of_livelihood",
+    "name": "Loss of Livelihood Compensation (Shevet)",
+    "hebrew": "תשלום שבת",
+    "parent_id": "crim_five_damages",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Compensation for income lost during convalescence, assessed as wages of a cucumber watchman (not the victim's professional wages, which are subsumed in the damage payment)"
+  },
+  {
+    "id": "boshet_humiliation_assessment",
+    "name": "Humiliation Assessment (Boshet) — Factors and Method",
+    "hebrew": "שומת בושת",
+    "parent_id": "crim_embarrassment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Method and factors for assessing humiliation damages, including the dignity of both parties; specific fixed amounts for slap, back-of-hand slap, spitting, uncovering a woman's head"
+  },
+  {
+    "id": "onesh_mavet_poter_mamon",
+    "name": "Capital Liability Exempts from Monetary Payment",
+    "hebrew": "חייבי מיתה פטורים מתשלומין",
+    "parent_id": "crim_capital_punishment",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who is liable for capital punishment for an act (e.g., injuring a parent, desecrating Shabbat) is exempt from monetary payments for the same act"
+  },
+  {
+    "id": "kefel_double_payment_theft",
+    "name": "Double Payment for Theft (Kefel) — Detailed Rules",
+    "hebrew": "תשלומי כפל — פרטי הדינים",
+    "parent_id": "kefel",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed rules on when kefel applies: admission vs. witness testimony, stolen-then-stolen items, partial sales, invalid slaughter, and interaction with fourfold/fivefold payments"
+  },
+  {
+    "id": "arba_vechamishah_fourfold_fivefold",
+    "name": "Fourfold and Fivefold Payment (Arba v'Chamisha)",
+    "hebrew": "תשלומי ארבעה וחמישה",
+    "parent_id": "fines",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Fourfold payment for sheep and fivefold for ox when a thief slaughters or sells a stolen animal; detailed rules on when this applies vs. only double payment"
+  },
+  {
+    "id": "gazlan_ustanim_prohibited_purchase",
+    "name": "Prohibition on Purchasing from Suspected Thieves",
+    "hebrew": "איסור קנייה מחשודי גזל",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on purchasing wool, milk, kids, wood, or produce from shepherds and watchmen who tend others' property, due to presumption of theft"
+  },
+  {
+    "id": "umman_shevach_vehotzaah",
+    "name": "Craftsman's Payment — Enhancement vs. Expenses",
+    "hebrew": "שכר אומן — שבח כנגד הוצאה",
+    "parent_id": "eth_employer_employee",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When a craftsman performs work improperly or damages, the owner pays only the lesser of enhancement or expenses; dispute regarding dyer who dyed wrong color"
+  },
+  {
+    "id": "umman_damaging_work",
+    "name": "Craftsman Who Damages the Work",
+    "hebrew": "אומן שקלקל",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Craftsmen (carpenter, builder, dyer) who damage items entrusted to them are liable to pay for the damage caused"
+  },
+  {
+    "id": "nezek_goring_slave_thirty_shekel",
+    "name": "Ox Goring a Slave — Thirty Shekel Payment",
+    "hebrew": "שור שנגח עבד — שלושים שקל",
+    "parent_id": "shor_haniskal",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Fixed payment of thirty sela when an ox kills a Canaanite slave, regardless of the slave's actual value (whether worth one dinar or one hundred maneh)"
+  },
+  {
+    "id": "kofer_ransom_forewarned_ox",
+    "name": "Ransom Payment (Kofer) for Forewarned Ox that Kills",
+    "hebrew": "כופר על שור מועד שהמית",
+    "parent_id": "shor_haniskal",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Owner of a forewarned ox that kills a person pays ransom (kofer); owner of innocuous ox is exempt from ransom; both oxen are put to death"
+  },
+  {
+    "id": "raising_small_animals_eretz_yisrael",
+    "name": "Prohibition on Raising Small Animals in Settled Eretz Yisrael",
+    "hebrew": "איסור גידול בהמה דקה ביישוב ארץ ישראל",
+    "parent_id": "agriculture_tithes",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbinic prohibition on raising small livestock (sheep, goats) in settled areas of Eretz Yisrael due to crop damage; permitted in Syria and wilderness"
+  },
+  {
+    "id": "mesikin_regional_disaster_exemption",
+    "name": "Regional Disaster Exemption for Robber (Massikin)",
+    "hebrew": "פטור גזלן באסון אזורי",
+    "parent_id": "mon_robbery_gezeilah",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "If thugs seize a robbed field as part of a regional seizure, the robber is exempt (the field would have been taken anyway); if they came specifically due to the robber, he must compensate"
+  },
+  {
+    "id": "salvage_compensation_honey_donkey",
+    "name": "Salvage and Compensation — Rescuing Another's Property",
+    "hebrew": "הצלת ממון חבירו ותגמול",
+    "parent_id": "mon_lost_objects",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who salvages another's property (honey, donkey) without agreement is entitled only to wage compensation; prior agreement obligates owner to pay the full value of what the rescuer sacrificed"
+  },
+  {
+    "id": "launderer_tailor_craftsman_remnants",
+    "name": "Craftsman's Claim to Remnants and Threads",
+    "hebrew": "זכות האומן בשיורים ותלישים",
+    "parent_id": "eth_employer_employee",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules on which scraps, threads, and shavings belong to the craftsman (launderer, carder, tailor, carpenter) vs. the customer, based on whether the customer values them"
+  },
+  {
+    "id": "muad_partial_species",
+    "name": "Ox Forewarned for One Species/Type but Not Another",
+    "hebrew": "מועד למין אחד ולא לאחר",
+    "parent_id": "muad_animals",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "An ox may be forewarned regarding one species, size category, or day (e.g., Shabbat) but innocuous for others, with differential liability accordingly"
+  },
+  {
+    "id": "shor_hefker_and_hekdesh_goring",
+    "name": "Goring by Ownerless, Consecrated, or Gentile Ox — Exemptions",
+    "hebrew": "נגיחת שור הפקר והקדש ושל גוי",
+    "parent_id": "shor_haniskal",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Exemptions from ox-goring liability when the goring or gored ox is consecrated property; and the rule that a gentile's ox that gores a Jew's ox is always liable for full damages"
+  },
+  {
+    "id": "bailee_transfer_responsibility",
+    "name": "Transfer of Ox to Bailee — Shifting Responsibility",
+    "hebrew": "מסירת שור לשומר — העברת אחריות",
+    "parent_id": "mon_four_shomrim",
+    "category": "MONETARY AND PROPERTY LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "When an owner conveys a dangerous ox to a bailee (unpaid, borrower, paid, renter), the bailee assumes the owner's liability for damage caused by the ox"
+  },
+  {
+    "id": "pigeon_trap_distance_rule",
+    "name": "Pigeon Trap Distance Rule",
+    "hebrew": "מרחק פורש מצודות יונים",
+    "parent_id": "mon_neighbors",
+    "category": "CIVIL AND COMMERCIAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition on spreading traps for pigeons within thirty ris of any settled area to prevent catching privately owned birds"
+  },
+  {
+    "id": "forgiveness_request_after_payment",
+    "name": "Requesting Forgiveness After Paying Damages",
+    "hebrew": "בקשת מחילה לאחר תשלום נזק",
+    "parent_id": "eth_forgiveness",
+    "category": "INTERPERSONAL ETHICS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Even after paying all monetary compensation, an assailant must request forgiveness from the victim; without forgiveness the transgression is not fully atoned"
+  },
+  {
+    "id": "self_injury_exempt_others_liable",
+    "name": "Self-Injury: Exempt for Self, Liable for Others",
+    "hebrew": "החובל בעצמו — פטור; אחרים חייבים",
+    "parent_id": "crim_wounding",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "One who injures himself is exempt from penalties, but others who cause the same injury are liable; analogously, one who damages his own property is exempt but others are liable"
+  },
+  {
+    "id": "konam_inheritance",
+    "name": "Konam Vow Affecting Inheritance",
+    "hebrew": "קונם ויורש",
+    "parent_id": "vow_konam",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "If a father vowed that his son may not benefit from his property, the son may inherit after father's death (no longer the father's property), unless the vow explicitly covered life and death"
+  },
+  {
+    "id": "nezek_miscarriage_compensation",
+    "name": "Compensation for Miscarriage (Nezek Vlad)",
+    "hebrew": "תשלום נזק ולד",
+    "parent_id": "crim_five_damages",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "A person who causes a woman to miscarry must pay compensation for the miscarried offspring to the husband; assessed by value difference of the woman before and after birth, or by value of offspring"
+  }
+]

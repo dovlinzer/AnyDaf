@@ -1,0 +1,365 @@
+[
+  {
+    "id": "lishmah_korban",
+    "name": "Lishmah (Offering for Its Own Sake)",
+    "hebrew": "לשמה בקרבנות",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The requirement that offerings be sacrificed with proper intent for the specific type of offering; consequences of slaughtering not for its own sake (shelo lishmah)"
+  },
+  {
+    "id": "shinui_makom_korban",
+    "name": "Shinui Makom (Improper Location Intent for Offering)",
+    "hebrew": "שינוי מקום בקרבנות",
+    "parent_id": "pigul",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Disqualification of offerings due to intent to eat or burn sacrificial portions outside the designated area (chutz limkomo), distinct from pigul which involves intent beyond designated time"
+  },
+  {
+    "id": "arba_avodot_korban",
+    "name": "Four Sacrificial Rites (Arba Avodot)",
+    "hebrew": "ארבע עבודות קרבן",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The four essential rites of sacrifice: slaughter, blood collection, conveying blood to altar, and sprinkling blood; disqualifying intent during any of these invalidates the offering"
+  },
+  {
+    "id": "kodshei_kodashim_vs_kodshim_kalim",
+    "name": "Kodshei Kodashim vs. Kodashim Kalim (Most Sacred vs. Lesser Sanctity)",
+    "hebrew": "קדשי קדשים וקדשים קלים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Distinction between offerings of the highest sanctity and offerings of lesser sanctity, with differences in location of slaughter, consumption, and who may eat them"
+  },
+  {
+    "id": "tzafon_temple",
+    "name": "Tzafon (Northern Section of Temple Courtyard)",
+    "hebrew": "צפון בעזרה",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Requirement that offerings of the most sacred order be slaughtered in the northern section of the Temple courtyard; detailed laws of this location requirement"
+  },
+  {
+    "id": "matnot_dam_mispar",
+    "name": "Number of Blood Placements (Matnot Dam)",
+    "hebrew": "מתנות דם",
+    "parent_id": "zerikat_hadam",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rules governing required number of blood placements: one placement, two placements that are four, four placements on corners, and inner altar placements; consequences of omitting placements"
+  },
+  {
+    "id": "dam_hanefesh_vs_sheyarei_hadam",
+    "name": "Dam HaNefesh and Sheyarei HaDam (Soul Blood and Remainder Blood)",
+    "hebrew": "דם הנפש ושיירי הדם",
+    "parent_id": "zerikat_hadam",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Distinction between the initial blood spurting from the neck and the remainder blood; the remainder is poured at the base of the altar and its absence does not disqualify the offering"
+  },
+  {
+    "id": "yesod_hamizbeach",
+    "name": "Yesod HaMizbeach (Base of the Altar)",
+    "hebrew": "יסוד המזבח",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The base/foundation of the outer altar where remainder blood is poured; not all sides have a base, affecting where blood can be placed"
+  },
+  {
+    "id": "chut_hasikra",
+    "name": "Chut HaSikra (Red Line of the Altar)",
+    "hebrew": "חוט הסיקרא",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The red line running along the middle of the outer altar dividing it into upper and lower halves; blood of different offerings must be placed on the correct side of this line"
+  },
+  {
+    "id": "meila_korbanot_pesulim",
+    "name": "Misuse Liability for Disqualified Offerings",
+    "hebrew": "מעילה בקרבנות פסולים",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Whether disqualified offerings retain their consecrated status for purposes of misuse liability; relationship between sin offerings and burnt offerings that were changed in designation"
+  },
+  {
+    "id": "orlah_kodshim",
+    "name": "Ascending the Altar – Shall Not Descend (Ya'aleh Lo Yeirid)",
+    "hebrew": "עלה לא ירד",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rule that disqualified offerings that have ascended the altar are not removed; distinction between items that may remain and items that must be removed; sanctification by the altar"
+  },
+  {
+    "id": "kadosh_mizbeach",
+    "name": "Sanctification by the Altar (Kiddush Mizbeach)",
+    "hebrew": "קידוש המזבח",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The principle that the altar sanctifies items suited to it; similarly the ramp and service vessels sanctify; items already on the altar are not removed even if disqualified"
+  },
+  {
+    "id": "tadir_umekudash",
+    "name": "Tadir uMekudash (Precedence of Frequent and Sacred Offerings)",
+    "hebrew": "תדיר ומקודש",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rules of priority in sacrificing offerings: more frequent offerings precede less frequent ones; more sacred offerings precede less sacred ones"
+  },
+  {
+    "id": "shechitat_chutz",
+    "name": "Shechitat Chutz (Slaughtering Outside the Temple)",
+    "hebrew": "שחיטת חוץ",
+    "parent_id": "shechutei_chutz",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Detailed laws of liability for slaughtering and offering sacrifices outside the Temple courtyard; conditions for liability including fitness of the animal and intent"
+  },
+  {
+    "id": "beit_hapras_bamot",
+    "name": "History of Bamot (Private Altars — Permitted and Prohibited Periods)",
+    "hebrew": "היתר וחובת הבמות",
+    "parent_id": "bamah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Historical progression of permitted and prohibited private altars: Tabernacle period, Gilgal, Shiloh, Nov, Gibeon, Jerusalem Temple; differences in laws of consumption at each location"
+  },
+  {
+    "id": "mekom_achilat_kodshim",
+    "name": "Location of Eating Sacrificial Meat",
+    "hebrew": "מקום אכילת קדשים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rules governing where sacrificial meat may be eaten: within curtains (Temple courtyard), within Jerusalem walls, or anywhere; differences between most sacred and lesser sanctity offerings"
+  },
+  {
+    "id": "zman_achilat_kodshim",
+    "name": "Time Limit for Eating Sacrificial Meat (Zman Achilah)",
+    "hebrew": "זמן אכילת קדשים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Time limits within which sacrificial meat must be consumed: one day and night (until midnight), two days and one night; consequences of eating after the permitted time (notar)"
+  },
+  {
+    "id": "notar",
+    "name": "Notar (Leftover Sacrificial Meat)",
+    "hebrew": "נותר",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Prohibition against eating sacrificial meat left over beyond its permitted time; karet liability; distinction from pigul"
+  },
+  {
+    "id": "orot_kodshim",
+    "name": "Hides of Sacrificial Animals (Orot Kodashim)",
+    "hebrew": "עורות קדשים",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rules governing who receives the hides of burnt offerings and other sacrificial animals; hides of burnt offerings go to priests; hides of offerings of lesser sanctity go to owners; conditions affecting this"
+  },
+  {
+    "id": "seriphat_kodshim",
+    "name": "Burning of Disqualified Offerings (Serifat Kodashim)",
+    "hebrew": "שריפת קדשים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Laws of burning disqualified offerings in the place of burning (beit hadeshen) or in the Temple courtyard; distinction between offerings burned outside Jerusalem and those burned inside"
+  },
+  {
+    "id": "tum_bigdei_kohanim_sereifah",
+    "name": "Garment Impurity from Burning Communal Sin Offerings",
+    "hebrew": "טומאת בגדים בשריפת פרים ושעירים",
+    "parent_id": "tumat_met",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Kohanim who burn the bulls and goats that are burned outside Jerusalem render their garments impure; when this occurs and when it does not"
+  },
+  {
+    "id": "dam_sin_offering_garments",
+    "name": "Blood of Sin Offering on Garments",
+    "hebrew": "דם חטאת שניתז על הבגד",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Laws requiring laundering of garments on which sin offering blood was sprayed; applies to both eaten and burned sin offerings; must be laundered in the sacred area"
+  },
+  {
+    "id": "klei_basar_kiddush_vessels",
+    "name": "Cooking Vessels for Sacrificial Meat — Scouring and Rinsing",
+    "hebrew": "מריקה ושטיפה בכלי נחושת",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Requirement to scour and rinse copper vessels in which sin offerings were cooked; must be done in the sacred area; distinction between earthenware (broken) and copper (scoured and rinsed) vessels"
+  },
+  {
+    "id": "bitul_damim_taarovet",
+    "name": "Mixtures of Different Bloods",
+    "hebrew": "תערובת דמים",
+    "parent_id": "zerikat_hadam",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Laws governing when blood of different offerings become mixed; rules for presenting mixed bloods on altar; blood of fit offerings mixed with unfit bloods; blood requiring inner vs. outer presentation"
+  },
+  {
+    "id": "taarovet_evarim_kodshim",
+    "name": "Mixtures of Sacrificial Limbs and Animals",
+    "hebrew": "תערובת אברים וקרבנות",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Laws when sacrificial animals or their limbs become intermixed; solutions including letting them graze until blemished, selling, eating by most stringent rule"
+  },
+  {
+    "id": "tzipor_chataat_kiddush",
+    "name": "Bird Sin Offering Rites (Melikah and Dam)",
+    "hebrew": "מליקה ומיצוי דם עוף",
+    "parent_id": "melikah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Detailed rites of the bird sin offering: melikah at nape, sprinkling blood below red line, squeezing blood at base; differences from bird burnt offering"
+  },
+  {
+    "id": "tzipor_olah_kiddush",
+    "name": "Bird Burnt Offering Rites",
+    "hebrew": "עולת העוף",
+    "parent_id": "olah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Detailed rites of the bird burnt offering: melikah at nape with separation of head, squeezing blood at upper altar, removal of crop and feathers, rending the body"
+  },
+  {
+    "id": "tumat_neveilat_of",
+    "name": "Impurity of Bird Carcasses (Neveilat Of)",
+    "hebrew": "טומאת נבילת עוף",
+    "parent_id": "tumat_neveilah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Unique impurity of bird carcasses transmitted through swallowing (beit habeli'ah); how melikah prevents this impurity even for tereifa birds; debate between Rabbi Meir, Rabbi Yehuda, Rabbi Yosi"
+  },
+  {
+    "id": "chalukot_basar_kohanim",
+    "name": "Distribution of Sacrificial Meat Among Priests",
+    "hebrew": "חלוקת בשר הקרבנות לכהנים",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Rules for which priests receive a share of sacrificial meat; priests unfit for service on a given day do not receive a share; relationship between sprinkling blood and receiving a share"
+  },
+  {
+    "id": "korban_goyim",
+    "name": "Offerings of Gentiles (Korban Goyim)",
+    "hebrew": "קרבן גוים",
+    "parent_id": "korbanot",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Special rules for offerings consecrated by gentiles: not subject to piggul, notar, or eating-in-impurity prohibitions; liability for slaughtering outside the Temple"
+  },
+  {
+    "id": "shisha_dvarim_lishmah",
+    "name": "Six Intentions Required for Sacrificial Rites",
+    "hebrew": "שישה דברים הנדרשים בזביחה",
+    "parent_id": "lishmah_korban",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "The six matters for which an offering must be slaughtered: for the sake of its type, its owner, God, consumption by fire, aroma, pleasing God; plus atonement for sin offerings and guilt offerings"
+  },
+  {
+    "id": "private_altar_laws",
+    "name": "Laws Unique to the Tabernacle vs. Private Altars",
+    "hebrew": "דינים המיוחדים לבמה ולמשכן",
+    "parent_id": "bamah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Specific rites that apply only at the Tabernacle/Temple and not at private altars: semichah, slaughter in north, blood placements, waving, bringing to corner; piggul, notar, and impurity apply equally"
+  },
+  {
+    "id": "avodat_kohen_passul",
+    "name": "Service Performed by Disqualified Priest",
+    "hebrew": "עבודת כהן פסול",
+    "parent_id": "kohanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_zevachim"
+    ],
+    "notes": "Effect of Temple service performed by various disqualified priests (impure, lacking vestments, tevul yom, mechusar kapparah, onen, uncircumcised) on the validity of the offering"
+  }
+]

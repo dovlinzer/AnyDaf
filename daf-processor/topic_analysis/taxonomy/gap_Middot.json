@@ -1,0 +1,277 @@
+[
+  {
+    "id": "temple_watch_mishmar",
+    "name": "Temple Watch (Mishmar HaMikdash)",
+    "hebrew": "משמר המקדש",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "Laws and procedures of the priestly and Levitical guard watch in the Temple, including the officer of the Temple Mount, beating of sleeping watchmen, and burning of clothes"
+  },
+  {
+    "id": "temple_gates",
+    "name": "Temple Gates (Sha'arei HaMikdash)",
+    "hebrew": "שערי המקדש",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The specific gates of the Temple Mount and Temple Courtyard, their names, purposes, and special features including the gates of Nicanor, Huldah, Kiponus, Taddi, and others"
+  },
+  {
+    "id": "beit_hamoked",
+    "name": "Beit HaMoked (Fire Chamber)",
+    "hebrew": "בית המוקד",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The fire chamber in the Temple where priests slept and kept watch, its structure, chambers, and the key-storage arrangements"
+  },
+  {
+    "id": "temple_mount_dimensions",
+    "name": "Temple Mount Dimensions and Layout",
+    "hebrew": "מידות הר הבית",
+    "parent_id": "temple_dimensions",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The precise measurements and layout of the Temple Mount (500x500 cubits), its sections, and the Soreg partition"
+  },
+  {
+    "id": "soreg",
+    "name": "Soreg (Temple Mount Lattice Fence)",
+    "hebrew": "סורג",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The ten-handbreadth lattice fence separating the outer Temple Mount from the Hel, including the thirteen breaches made by the Greek kings and the thirteen prostrations instituted after repair"
+  },
+  {
+    "id": "hel",
+    "name": "Hel (Temple Rampart)",
+    "hebrew": "חיל",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The ten-cubit wide rampart between the Soreg and the courtyard steps"
+  },
+  {
+    "id": "mizbach_dimensions",
+    "name": "Altar Dimensions and Structure",
+    "hebrew": "מידות המזבח",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "Precise measurements and construction of the outer altar, including the foundation, surround, horns, and ramp; the red dividing line between upper and lower blood applications"
+  },
+  {
+    "id": "kevesh_hamizbeiach",
+    "name": "Kevesh (Altar Ramp)",
+    "hebrew": "כבש המזבח",
+    "parent_id": "mizbach_haolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The ramp leading up to the altar, its dimensions (32 cubits long, 16 wide), location on the south side, and the window for disqualified bird offerings"
+  },
+  {
+    "id": "altar_stones",
+    "name": "Altar Stones — Prohibition of Iron",
+    "hebrew": "אבני המזבח",
+    "parent_id": "issurei_mizbeach",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "Requirement that altar stones be whole (unhewn), the disqualification by iron touch, and the whitewashing schedule of the altar"
+  },
+  {
+    "id": "ezrat_nashim",
+    "name": "Ezrat Nashim (Women's Courtyard)",
+    "hebrew": "עזרת נשים",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The Women's Courtyard in the Temple: its dimensions (135x135 cubits), four corner chambers (Nazirites, wood, those with skin disease, oil), and the balcony added for separation of men and women"
+  },
+  {
+    "id": "ezrat_yisrael",
+    "name": "Ezrat Yisrael (Israelites' Courtyard)",
+    "hebrew": "עזרת ישראל",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The Court of Israel, its dimensions (135x11 cubits), and its separation from the Court of the Priests by a row of mosaic stones"
+  },
+  {
+    "id": "ezrat_kohanim",
+    "name": "Ezrat Kohanim (Priests' Courtyard)",
+    "hebrew": "עזרת כהנים",
+    "parent_id": "azarah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The Court of the Priests, its dimensions, its height relative to the Court of Israel, and the thirteen prostrations made there"
+  },
+  {
+    "id": "ulam_temple",
+    "name": "Ulam (Temple Porch)",
+    "hebrew": "אולם",
+    "parent_id": "heichal",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The entrance porch of the Temple Sanctuary: its dimensions (40 cubits high, 20 cubits wide), the five ash beams over the doorway, cedar poles, golden chains, and the golden vine"
+  },
+  {
+    "id": "golden_vine_temple",
+    "name": "Golden Vine of the Temple (Gefen shel Zahav)",
+    "hebrew": "גפן של זהב",
+    "parent_id": "klei_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The golden vine at the door of the Sanctuary upon which worshippers would hang donated leaves, grapes, and bunches"
+  },
+  {
+    "id": "ta_cells_temple",
+    "name": "Ta'im (Temple Cells/Side Chambers)",
+    "hebrew": "תאים",
+    "parent_id": "heichal",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The thirty-eight cells surrounding the Hekhal on three sides, their arrangement in three stories, widths, and interconnecting doors"
+  },
+  {
+    "id": "mesibah_temple",
+    "name": "Mesibah (Temple Winding Stairway/Walkway)",
+    "hebrew": "מסיבה",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The winding walkway used to ascend to the roofs of the cells and upper chamber, going from the northeast corner around the north and west sides"
+  },
+  {
+    "id": "upper_chamber_temple",
+    "name": "Upper Chamber (Aliyah) of the Temple",
+    "hebrew": "עלייה",
+    "parent_id": "heichal",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The upper chamber above the Hekhal, its dimensions, the trap doors for workmen to descend in baskets for repairs without gazing at the Holy of Holies"
+  },
+  {
+    "id": "lishkat_hagazit",
+    "name": "Lishkat HaGazit (Chamber of Hewn Stone)",
+    "hebrew": "לשכת הגזית",
+    "parent_id": "inst_sanhedrin_gedolah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The chamber of hewn stone in the Temple courtyard where the Great Sanhedrin sat to judge priestly fitness; the procedures for disqualified and qualified priests"
+  },
+  {
+    "id": "lishkat_hamelach",
+    "name": "Lishkat HaMelach (Salt Chamber)",
+    "hebrew": "לשכת המלח",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The chamber in the Temple courtyard where salt for the offerings was stored"
+  },
+  {
+    "id": "lishkat_haparvah",
+    "name": "Lishkat HaParvah (Parvah Chamber)",
+    "hebrew": "לשכת הפרווה",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The chamber in the Temple courtyard where animal hides were salted; the High Priest's mikveh was on its roof for use on Yom Kippur"
+  },
+  {
+    "id": "fifteen_steps_temple",
+    "name": "Fifteen Steps (of the Temple)",
+    "hebrew": "חמש עשרה מעלות",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The fifteen semi-circular steps leading from the Court of Women to the Court of Israel, corresponding to the fifteen Songs of Ascent in Psalms, upon which the Levites sang"
+  },
+  {
+    "id": "temple_circulation_procession",
+    "name": "Temple Procession — Entering and Exiting Right",
+    "hebrew": "סדר כניסה ויציאה להר הבית",
+    "parent_id": "biat_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The custom of entering the Temple Mount by the right and circling to the right, and the exceptions for mourners and the excommunicated with their respective exchanges of comfort"
+  },
+  {
+    "id": "shaar_nicanor",
+    "name": "Gate of Nicanor (Sha'ar Nicanor)",
+    "hebrew": "שער ניקנור",
+    "parent_id": "temple_gates",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The eastern gate of the Temple courtyard, the miracle associated with it (or its gleaming copper), and why it was not replaced with gold like the other gates"
+  },
+  {
+    "id": "hekhal_dimensions",
+    "name": "Hekhal Dimensions",
+    "hebrew": "מידות ההיכל",
+    "parent_id": "heichal",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "Detailed measurements of the Hekhal (100x100x100 cubits), its walls, porch, Holy of Holies, side cells, and the full east-west and north-south calculations"
+  },
+  {
+    "id": "spikes_temple_roof",
+    "name": "Spikes on Temple Roof (Zahavit/Kelayot Orev)",
+    "hebrew": "כלות עורב",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_middot"
+    ],
+    "notes": "The iron spikes placed on the roof of the Temple to prevent birds from perching and soiling it; dispute whether included in height measurement"
+  }
+]

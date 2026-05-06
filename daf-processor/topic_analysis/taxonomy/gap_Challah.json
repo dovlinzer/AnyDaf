@@ -1,0 +1,189 @@
+[
+  {
+    "id": "challah_tithe_dough",
+    "name": "Challah — Dough Tithe (Laws of Hallah)",
+    "hebrew": "חלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Detailed laws of the challah obligation: minimum measure (five-fourths of a kav), who is obligated, when the obligation begins (rolling/formation of crust), and how it is separated"
+  },
+  {
+    "id": "challah_minimum_measure",
+    "name": "Minimum Measure for Challah (Shiur Challah)",
+    "hebrew": "שיעור חלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "The minimum amount of dough (five-fourths of a kav) that triggers the challah obligation, and the proportion to be separated (1/24 for private bakers, 1/48 for commercial bakers)"
+  },
+  {
+    "id": "challah_outside_israel",
+    "name": "Challah Outside the Land of Israel",
+    "hebrew": "חלה בחוץ לארץ",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Differences in challah law between the Land of Israel, Syria, and lands further outside; three territorial zones with different obligations; two challah portions in Syria"
+  },
+  {
+    "id": "challah_gentile_dough",
+    "name": "Challah Obligation for Gentile Dough",
+    "hebrew": "חלה בעיסת גוי",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Whether dough belonging to or made by a non-Jew is subject to challah; cases of conversion and partnership with a non-Jew"
+  },
+  {
+    "id": "challah_five_grains_combination",
+    "name": "Combining Different Grain Species for Challah",
+    "hebrew": "צירוף מינים לחלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Rules about which of the five grain species combine with each other to reach the minimum measure for challah; wheat and spelt combine, barley with other species except wheat, etc."
+  },
+  {
+    "id": "challah_tumah_cleanness",
+    "name": "Challah and Ritual Purity",
+    "hebrew": "חלה בטהרה ובטומאה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Separating challah in a state of cleanness vs. uncleanness; proportions for intentionally vs. unintentionally defiled dough; separating from clean dough to exempt unclean dough"
+  },
+  {
+    "id": "challah_hekdesh_exemption",
+    "name": "Challah and Hekdesh (Dedicated Dough)",
+    "hebrew": "חלה בהקדש",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Effect of dedicating dough to the Temple before or after reaching the point of obligation on challah liability; parallel with tithes and produce dedicated before ripening"
+  },
+  {
+    "id": "challah_rice_mixture",
+    "name": "Dough Mixed with Rice or Non-Grain Ingredients",
+    "hebrew": "עיסת אורז ועיסת תערובת",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Whether dough containing rice or other non-obligated species mixed with grain is subject to challah; depends on whether it has the taste of grain"
+  },
+  {
+    "id": "challah_bakers_commercial",
+    "name": "Commercial Baker's Challah",
+    "hebrew": "נחתום המפריש חלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Commercial bakers separate a smaller proportion (1/48) than private individuals (1/24); women selling in the market treated like commercial bakers"
+  },
+  {
+    "id": "challah_demai",
+    "name": "Challah from Demai Dough",
+    "hebrew": "חלה מן הדמאי",
+    "parent_id": "demai",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Separating challah from demai (doubtfully tithed produce); challah for demai can be taken from clean dough for unclean, and even from dough not in close proximity"
+  },
+  {
+    "id": "challah_syria_territories",
+    "name": "Three Territories for Challah (Land of Israel, Syria, Abroad)",
+    "hebrew": "שלוש ארצות לחלה",
+    "parent_id": "challah_outside_israel",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Rabban Gamliel's division of three zones — from Israel to Chezib (one challah portion), from Chezib to the river (two portions), and beyond the river (two portions with different rules for priest)"
+  },
+  {
+    "id": "dough_obligation_trigger",
+    "name": "Point at Which Dough Becomes Obligated in Challah",
+    "hebrew": "גלגול עיסה — חיוב חלה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "The rolling/kneading (galgul) for wheat or formation of solid mass for barley as the trigger for the challah obligation; eating before this point vs. liability for death afterwards"
+  },
+  {
+    "id": "bikkurim_geographic_restrictions",
+    "name": "Geographic Restrictions on Bikkurim and Priestly Gifts",
+    "hebrew": "גבולות ארץ ישראל לבכורים ומתנות כהונה",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Whether bikkurim, firstlings, and other priestly gifts brought from Syria, Babylon, or Alexandria are accepted; the rule that purchasing land in Syria is like purchasing land in the outskirts of Jerusalem"
+  },
+  {
+    "id": "matnot_kehunah_distribution",
+    "name": "Distribution of Priestly Gifts to Any Priest",
+    "hebrew": "מתנות כהונה לכל כהן",
+    "parent_id": "matnot_kehunah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "List of items that may be given to any priest (devoted things, firstlings, pidyon haben, shoulder/cheeks/maw, first fleece, bikkurim, etc.) vs. items requiring specific conditions"
+  },
+  {
+    "id": "challah_as_terumah_parallel",
+    "name": "Challah Parallels to Terumah",
+    "hebrew": "חלה כתרומה",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Rules shared between challah and terumah: karet for intentional consumption by non-priest, added fifth for inadvertent consumption, nullification in 101 parts, require handwashing and sunset, cannot separate from pure for impure"
+  },
+  {
+    "id": "israel_tenant_syria",
+    "name": "Israelite Tenant Farmer in Syria",
+    "hebrew": "ישראל אריס בסוריה",
+    "parent_id": "challah_outside_israel",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Dispute between Rabbi Eliezer and Rabban Gamliel whether an Israelite who rents land from a non-Jew in Syria is liable for tithes and shemitah; eventual ruling followed Rabban Gamliel in both"
+  },
+  {
+    "id": "loaves_todah_nazirite_challah",
+    "name": "Challah Obligation on Todah Loaves and Nazirite Wafers",
+    "hebrew": "חלה בלחמי תודה וחלות נזיר",
+    "parent_id": "challah_tithe",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah_challah"
+    ],
+    "notes": "Todah loaves and nazirite wafers made for personal use are exempt from challah; if made for sale they are subject to challah"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ki_yutan_susceptibility",
+    "name": "Ki Yutan — Susceptibility to Impurity through Liquid Contact",
+    "hebrew": "כי יותן — הכשר לקבל טומאה",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The law that produce becomes susceptible to impurity only after contact with one of seven liquids with the owner's desire/approval (Ki Yutan, Lev. 11:38). Central topic of Makhshirin covering when intent/desire renders liquid contact effective."
+  },
+  {
+    "id": "ratzon_baal_hechsher",
+    "name": "Owner's Desire/Intent as Condition for Hechsher",
+    "hebrew": "רצון הבעלים בהכשר",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The requirement that liquid contact renders produce susceptible to impurity only if the owner desired or approved of the wetting, whether initially or retroactively (beshaat nefila or lvasofa). The complex rules of initial vs. final desire."
+  },
+  {
+    "id": "shiva_mashkim",
+    "name": "Seven Liquids (Shiva Mashkim)",
+    "hebrew": "שבעה משקים",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The seven liquids that can render produce susceptible to impurity: dew, water, wine, oil, blood, milk, and bees' honey (M. Makhshirin 6:4). Includes distinctions between different types and their derivative status."
+  },
+  {
+    "id": "toladot_mashkim",
+    "name": "Derivatives of the Seven Liquids (Toladot Mashkim)",
+    "hebrew": "תולדות המשקים",
+    "parent_id": "shiva_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Liquids that are derivatives of the seven primary liquids (e.g., eye discharge as derivative of water, whey as derivative of milk, olive sap as derivative of oil) and their status regarding susceptibility-conferring and impurity."
+  },
+  {
+    "id": "ziat_adam_mashkim",
+    "name": "Human Perspiration and Its Status",
+    "hebrew": "זיעת האדם",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules regarding human perspiration — whether it causes susceptibility to impurity or not, and under what circumstances (e.g., perspiration after entering drawn water vs. after drying off)."
+  },
+  {
+    "id": "ziat_batim_mashkim",
+    "name": "Sweat/Condensation of Structures",
+    "hebrew": "זיעת הבתים",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The condensation/sweat of houses, cisterns, ditches, and caverns and whether it causes susceptibility to impurity. Distinct from human perspiration."
+  },
+  {
+    "id": "nisoach_mashkim_vessels",
+    "name": "Liquid Flow Between Vessels (Nisoach/Tziruf)",
+    "hebrew": "ניסוך ממשקים וצירוף כלים",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about whether a stream/flow of liquid connecting two vessels constitutes a connection for impurity purposes. M. Makhshirin 5:9-10 discusses flows from vessel to vessel and their clean/unclean status."
+  },
+  {
+    "id": "deaf_mute_minor_intent_tumah",
+    "name": "Legal Incapacity: Acts Without Halakhic Intent (Cheresh, Shoteh, Katan in Tumah)",
+    "hebrew": "חרש שוטה וקטן — מעשיהם בלא כוונה בדיני הכשר",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The rule that a deaf-mute, imbecile, or minor cannot confer susceptibility to impurity through their actions because their intent/desire has no halakhic standing — 'their act counts but not their intent' (M. Makhshirin 3:8, 6:1)."
+  },
+  {
+    "id": "majority_population_halakhic_status",
+    "name": "Following the Majority of a City's Population (Rov in Mixed Communities)",
+    "hebrew": "רוב העיר — הולכים אחר הרוב",
+    "parent_id": "herm_rov",
+    "category": "HERMENEUTICAL PRINCIPLES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Application of the principle of following the majority in determining status of found objects, abandoned children, bread, meat, and other items in cities with mixed Jewish/non-Jewish populations (M. Makhshirin 2:5-2:10)."
+  },
+  {
+    "id": "tinok_hanmatzei_status",
+    "name": "Status of a Foundling (Tinok haNimtzei)",
+    "hebrew": "תינוק הנמצא",
+    "parent_id": "fam_lineage",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for determining the religious/national status of an abandoned child found in a city with mixed Jewish/non-Jewish population, following the majority or other criteria (M. Makhshirin 2:7)."
+  },
+  {
+    "id": "am_haaretz_trustworthiness_tahara",
+    "name": "Am HaAretz Trustworthiness in Matters of Purity",
+    "hebrew": "נאמנות עם הארץ בענייני טהרה",
+    "parent_id": "chullin_alteharas_hakodesh",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules about when an am haaretz (common person not careful about purity laws) may be trusted to declare produce or liquids clean (M. Makhshirin 6:3)."
+  },
+  {
+    "id": "kilon_pump_beam_hechsher",
+    "name": "Kilon (Pump-Beam) and Duration of Susceptibility",
+    "hebrew": "קילון — ניסוך על ידי קילון",
+    "parent_id": "hechsher_lekabel_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules regarding water drawn through a kilon (pump-beam or shaduf), how long it continues to confer susceptibility to impurity (M. Makhshirin 4:9)."
+  },
+  {
+    "id": "zav_blood_niddah_hechsher",
+    "name": "Bodily Fluids of Zav/Zavah/Niddah as Active Liquids",
+    "hebrew": "משקי הזב והנידה לעניין הכשר וטומאה",
+    "parent_id": "zav_zavah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific status of the bodily fluids of a zav (flow, spittle, semen, urine) and menstrual blood: they both convey impurity and render produce susceptible to impurity regardless of desire (M. Makhshirin 6:6)."
+  },
+  {
+    "id": "dam_shechita_hechsher",
+    "name": "Blood of Slaughter as Hechsher Liquid",
+    "hebrew": "דם שחיטה להכשר",
+    "parent_id": "shiva_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether blood from slaughter of clean animals renders produce susceptible to impurity and under what conditions, including blood of clean vs. unclean animals (M. Makhshirin 6:5, 6:7)."
+  },
+  {
+    "id": "chalav_nashim_vs_behemah",
+    "name": "Human Milk vs. Animal Milk in Purity Law",
+    "hebrew": "חלב האישה וחלב הבהמה בטהרה",
+    "parent_id": "shiva_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The debate about whether human milk causes susceptibility regardless of desire while animal milk requires desire, with Rabbi Akiva's kal vachomer argument and the sages' responses (M. Makhshirin 6:8). A standalone halakhic discussion."
+  },
+  {
+    "id": "nitzok_connection",
+    "name": "Nitzok (Uninterrupted Liquid Flow as Connection)",
+    "hebrew": "ניצוק — חיבור על ידי ניסוך",
+    "parent_id": "tumat_mashkim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Whether a continuous stream of liquid connecting a clean and unclean vessel creates a connection (Nitzok) that conveys impurity or susceptibility. M. Makhshirin 5:9 addresses the flow/stream being clean."
+  }
+]

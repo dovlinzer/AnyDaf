@@ -1,0 +1,255 @@
+[
+  {
+    "id": "edim_zomimin_punishment",
+    "name": "Edim Zomimin — Punishment Calculation",
+    "hebrew": "עדים זוממין — חישוב העונש",
+    "parent_id": "courts_edim_zomimin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rules for calculating the punishment of conspiring witnesses, including the division of monetary penalties among witnesses vs. lashes, and the principle that punishment mirrors what they sought to inflict"
+  },
+  {
+    "id": "edim_zomimin_after_verdict",
+    "name": "Edim Zomimin — After Verdict (Not After Execution)",
+    "hebrew": "עדים זוממין — לאחר גמר דין ולא לאחר מיתה",
+    "parent_id": "courts_edim_zomimin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute between Sages and Sadducees: conspiring witnesses are punished after the verdict is finalized but before execution of the condemned, not only after the condemned is killed"
+  },
+  {
+    "id": "edim_zomimin_group_testimony",
+    "name": "Edim Zomimin — Group Testimony Invalidation",
+    "hebrew": "עדים זוממין — ביטול עדות קבוצה",
+    "parent_id": "courts_edim_zomimin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules regarding when one disqualified or conspiring witness voids an entire group's testimony; dispute between Rabbi Yosei and Rabbi Yehudah HaNasi regarding monetary vs. capital cases"
+  },
+  {
+    "id": "hazamat_edim_impeachment",
+    "name": "Hazamat Edim (Impeachment of Witnesses)",
+    "hebrew": "הזמת עדים",
+    "parent_id": "courts_testimony",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The procedural mechanism for rendering witnesses as conspiring (zomemim): witnesses must be impeached personally (alibi-style), not merely contradicted in content"
+  },
+  {
+    "id": "galut_exile_unintentional_murder",
+    "name": "Galut — Exile for Unintentional Murder",
+    "hebrew": "גלות",
+    "parent_id": "crim_cities_refuge",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of who is exiled and who is not: downward vs. upward motion, permission to be in location, optional vs. obligatory activity, blind persons, enemies, and categories of people exempt from exile"
+  },
+  {
+    "id": "goel_hadam_blood_redeemer",
+    "name": "Goel HaDam — Blood Redeemer's Powers and Limits",
+    "hebrew": "גואל הדם",
+    "parent_id": "crim_goel_hadam",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific halakhot of the blood redeemer: within vs. outside the city of refuge boundary, debate whether killing outside boundary is a mitzva, optional, or forbidden"
+  },
+  {
+    "id": "kohen_gadol_death_exile_release",
+    "name": "Death of High Priest Releasing Exiled Murderer",
+    "hebrew": "מיתת כהן גדול ושחרור הגולה",
+    "parent_id": "galut_exile_unintentional_murder",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The law that an unintentional murderer returns from exile upon the death of the High Priest; types of High Priests whose death effects this release; mothers providing sustenance so exiles won't pray for the Kohen Gadol's death"
+  },
+  {
+    "id": "arei_miklat_practical_laws",
+    "name": "Cities of Refuge — Practical Laws of Residence",
+    "hebrew": "דיני מגורים בערי מקלט",
+    "parent_id": "crim_cities_refuge",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Practical rules of residence in the city of refuge: paying rent to Levites, returning to prior office upon release, prohibition on leaving for any purpose including testimony, killing in city requires relocation within city"
+  },
+  {
+    "id": "roads_to_cities_of_refuge",
+    "name": "Roads to Cities of Refuge (Derakhim l'Arei Miklat)",
+    "hebrew": "דרכים לערי מקלט",
+    "parent_id": "crim_cities_refuge",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Obligation to prepare and straighten roads to cities of refuge; court providing two Torah scholars to accompany the fleeing murderer and dissuade the blood redeemer"
+  },
+  {
+    "id": "malkot_flogging_procedure",
+    "name": "Malkot — Procedure for Flogging",
+    "hebrew": "מלקות — סדר הלקאה",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed procedure for administering lashes: position of condemned, composition and size of the strap, distribution of lashes (one-third front, two-thirds back), role of court crier reciting verses, assessment of physical capacity"
+  },
+  {
+    "id": "malkot_assessment_capacity",
+    "name": "Malkot — Medical Assessment of Capacity (Shuma)",
+    "hebrew": "שומא — הערכת יכולת המקבל מלקות",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement to assess beforehand how many lashes the condemned can survive; number must be divisible by three; reassessment after flogging begins; exemption if he cannot receive more"
+  },
+  {
+    "id": "malkot_karet_atonement",
+    "name": "Malkot Atones for Karet",
+    "hebrew": "לוקה ונפטר מידי כרתו",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The principle that one liable to karet who receives lashes is exempted from karet, based on the verse 'your brother shall be debased before your eyes' — he is restored to brotherhood after flogging"
+  },
+  {
+    "id": "malkot_multiple_violations",
+    "name": "Malkot for Multiple Simultaneous Violations",
+    "hebrew": "מלקות על עבירות מרובות בבת אחת",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Case of one who performs a single act and violates multiple prohibitions simultaneously, receiving multiple sets of lashes; illustrative case of plowing with multiple concurrent violations"
+  },
+  {
+    "id": "tattoo_prohibition",
+    "name": "Prohibition of Tattooing (Ketovet Ka'aka)",
+    "hebrew": "כתובת קעקע",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of the prohibition against tattooing: requires both incision in skin and insertion of dye to be liable; debate whether writing God's name is required"
+  },
+  {
+    "id": "bald_spot_mourning_prohibition",
+    "name": "Prohibition of Bald Spot in Mourning (Korcha)",
+    "hebrew": "קורחה על מת",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Prohibition against making a bald spot on one's head in mourning; multiple incisions yield multiple sets of lashes"
+  },
+  {
+    "id": "rounding_head_beard_prohibition",
+    "name": "Prohibition of Rounding Head and Beard (Peot)",
+    "hebrew": "פאת הראש והזקן",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed laws of the prohibitions against rounding the corners of the head and marring the edges of the beard; number of lashes for each edge; requirement of razor specifically for beard"
+  },
+  {
+    "id": "nazirite_violations_lashes",
+    "name": "Nazirite Violations and Lashes",
+    "hebrew": "נזיר שעבר על איסוריו — מלקות",
+    "parent_id": "vow_nazirite",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules for when a nazirite receives multiple sets of lashes: continuous violation vs. repeated violations after forewarning for wine drinking, corpse impurity, and shaving"
+  },
+  {
+    "id": "shatnez_wearing_lashes",
+    "name": "Shatnez — Lashes for Wearing Mixed Species",
+    "hebrew": "שעטנז — מלקות",
+    "parent_id": "crim_flogging",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific rule that wearing shatnez repeatedly after forewarning incurs separate sets of lashes each time; continuous wearing incurs only one set"
+  },
+  {
+    "id": "istatit_conspiracy_testimony",
+    "name": "Istatit — Concern of Organized Witness Conspiracy",
+    "hebrew": "אסטטית",
+    "parent_id": "courts_edim_zomimin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Yehuda's position that when one set of witnesses renders many successive sets conspiring, this raises concern of organized conspiracy (istatit), and only the first set is executed"
+  },
+  {
+    "id": "sanhedrin_destructive_tribunal",
+    "name": "Sanhedrin Charutzit — Destructive vs. Virtuous Tribunal",
+    "hebrew": "סנהדרין חרוצית",
+    "parent_id": "courts_sanhedrin",
+    "category": "COURTS AND JURISPRUDENCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Dispute regarding a Sanhedrin that executes frequently: Rabbi Elazar ben Azarya (once in 70 years = destructive); Rabbi Tarfon and Rabbi Akiva (would find technical grounds to avoid all executions); Rabban Shimon ben Gamliel's response that this increases murderers"
+  },
+  {
+    "id": "reward_for_overcoming_desire",
+    "name": "Reward for Abstaining from Desired Transgression",
+    "hebrew": "שכר הפורש מן העבירה שנפשו מחמדת",
+    "parent_id": "sachar_vaonesh",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Principle derived from Rabbi Shimon bar Rabbi Yehudah HaNasi: one who refrains from robbery or forbidden relations, which the soul desires, receives greater reward than one who refrains from blood, which the soul loathes"
+  },
+  {
+    "id": "ribui_mitzvot_lezakot",
+    "name": "Ribui Mitzvot l'Zakot — Multiplying Commandments to Confer Merit",
+    "hebrew": "ריבוי מצוות לזכות את ישראל",
+    "parent_id": "torah_study_value",
+    "category": "ETHICS AND CHARACTER",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabbi Chananya ben Akashya's statement that God multiplied Torah and mitzvot to increase merit for the Jewish people, based on Isaiah 42:21"
+  },
+  {
+    "id": "kohen_chalal_testimony",
+    "name": "Conspiring Witness Testimony to Disqualify a Priest (Chalal)",
+    "hebrew": "עדות מזמת לפסול כהן — חלל",
+    "parent_id": "fam_chalal",
+    "category": "FAMILY AND PERSONAL STATUS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific case of conspiring witnesses who testified to render a kohen a chalal; punishment is lashes rather than being rendered a chalal themselves"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "parah_adumah_ritual",
+    "name": "Parah Adumah Ritual Procedure",
+    "hebrew": "סדר פרה אדומה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Detailed procedure for burning the red heifer: slaughter, blood sprinkling, burning with cedar/hyssop/scarlet, collection and division of ashes — distinct from the general parah adumah entry"
+  },
+  {
+    "id": "mei_chatat_preparation",
+    "name": "Preparation of Mei Chatat (Mixing Ashes with Water)",
+    "hebrew": "הכנת מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Rules governing the mixing of red heifer ashes with water: valid/invalid vessels, intention, work during preparation, multiple simultaneous preparations"
+  },
+  {
+    "id": "haza_at_mei_chatat",
+    "name": "Sprinkling of Mei Chatat (Haza'ah)",
+    "hebrew": "הזאת מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Laws of sprinkling the purification waters: use of hyssop, valid/invalid sprinklers, intention during sprinkling, sprinkled on multiple objects, dripping water"
+  },
+  {
+    "id": "tumah_madaf",
+    "name": "Madaf Uncleanness (for Mei Chatat)",
+    "hebrew": "טומאת מדף",
+    "parent_id": "tumat_kelim",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Special stringency for purity of mei chatat whereby objects that are susceptible to midras are treated as if they have madaf-level uncleanness; unique to the hatat domain"
+  },
+  {
+    "id": "hyssop_ezov",
+    "name": "Hyssop (Ezov) for Purification",
+    "hebrew": "אזוב לטהרה",
+    "parent_id": "parah_adumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Rules for valid hyssop used in mei chatat sprinkling: species requirements, invalid named varieties, minimum quantity, stalks and buds, combination with thread and spindle-reed"
+  },
+  {
+    "id": "parah_adumah_invalid_factors",
+    "name": "Factors Invalidating the Red Cow",
+    "hebrew": "פסולי פרה אדומה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Conditions that disqualify the red heifer: non-red hairs, riding/leaning on it, use for labor, being mounted by a male, pregnancy, purchase from non-Jews, etc."
+  },
+  {
+    "id": "parah_adumah_priest_purity",
+    "name": "Priest's Purity Status for Red Heifer Ceremony",
+    "hebrew": "טהרת הכהן לפרה אדומה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Seven-day separation, sprinkling on the officiating priest, deliberate defilement to counter Sadducee view, immersion and sunset requirements for the burning priest"
+  },
+  {
+    "id": "parah_adumah_mount_olives",
+    "name": "Red Heifer Ceremony on Mount of Olives",
+    "hebrew": "פרה אדומה בהר המשחה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "The ramp from Temple Mount to Mount of Olives, the place of burning, procedures at the Mount of Olives including the immersion pool and the burning site"
+  },
+  {
+    "id": "childrens_purity_shiloah",
+    "name": "Children Raised in Purity for Mei Chatat (Shiloah)",
+    "hebrew": "ילדי הטהרה לקידוש מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Special institution of raising children in purity over rock-hewn courtyards to draw water from the Shiloah spring for sanctifying the mei chatat ashes"
+  },
+  {
+    "id": "parah_adumah_ashes_division",
+    "name": "Division and Storage of Red Heifer Ashes",
+    "hebrew": "חלוקת אפר הפרה",
+    "parent_id": "parah_adumah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Division of ashes into three parts: one on the chel, one on the Mount of Olives, one distributed among priestly watches; historical list of who prepared each of the nine cows"
+  },
+  {
+    "id": "work_invalid_hatat_water",
+    "name": "Work Invalidating Mei Chatat",
+    "hebrew": "מלאכה הפוסלת מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Any work performed while drawing, carrying, or mixing the hatat waters invalidates them; detailed rules about what constitutes work and exceptions"
+  },
+  {
+    "id": "mei_chatat_tumah_stringency",
+    "name": "Stringency of Mei Chatat Purity (Middat Chumra Hapacha leKula)",
+    "hebrew": "חומרת מי חטאת שנהפכה לקולא",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "The paradox that those engaged with the red heifer become impure themselves even though the rite purifies others; stringencies of hatat purity that end up being lenient"
+  },
+  {
+    "id": "water_fitness_mikveh_mei_chatat",
+    "name": "Fitness of Water for Mei Chatat",
+    "hebrew": "מים כשרים למי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Which water sources are valid for mei chatat: living vs. drawn water, mixed waters (Jordan/Yarmuk), marsh waters, spoiled/salty water, well water with sediment"
+  },
+  {
+    "id": "vessel_for_hatat",
+    "name": "Vessels for Hatat Waters",
+    "hebrew": "כלי מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Rules for valid vessels to collect and hold mei chatat: earthenware, stone, dung vessels, boat; what counts as a vessel vs. not (cupped hands, wall of vessel, stopper)"
+  },
+  {
+    "id": "trough_stone_hatat",
+    "name": "Stone Trough for Hatat Waters",
+    "hebrew": "אבן שחצבו בה כלי לחטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Laws specific to stone troughs fixed to the ground vs. moveable, dual troughs, holes in troughs, clay rims — their status for drawing, mixing and sprinkling hatat waters"
+  },
+  {
+    "id": "age_requirements_sacrifices",
+    "name": "Age Requirements for Sacrificial Animals",
+    "hebrew": "גיל קרבנות",
+    "parent_id": "blemishes_offerings",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Minimum and maximum age for various sacrifices: lambs, rams, bulls, calves; day-counting from birth; the palges/noked status of animals 13 months old"
+  },
+  {
+    "id": "palges_animal_age",
+    "name": "Palges (Animal in Transitional Age Status)",
+    "hebrew": "פלגס",
+    "parent_id": "age_requirements_sacrifices",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Animal between one and two years old (13 months), called palges (R. Tarfon), noked (Ben Azzai), parakhrigma (R. Ishmael); neither valid as lamb nor ram; brings ram libations but not counted as offering"
+  },
+  {
+    "id": "parah_adumah_omer_twoBread_land",
+    "name": "Requirement that Omer and Two Loaves Come from Eretz Yisrael",
+    "hebrew": "עומר ושתי הלחם מארץ ישראל",
+    "parent_id": "minchat_omer",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Exception to the rule that congregation offerings may come from outside the land or from old produce: the omer and the two loaves of Shavuot must come from new produce within Eretz Yisrael"
+  },
+  {
+    "id": "defilement_garments_hatat",
+    "name": "Defilement of Garments by Red Heifer Participants",
+    "hebrew": "טומאת בגדים בעוסקי פרה",
+    "parent_id": "parah_adumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "All who participate in the red heifer rite defile their garments; the paradox that the cow itself does not defile garments but those who handle it do"
+  },
+  {
+    "id": "rishon_leTumah_level",
+    "name": "Levels of Ritual Impurity Transmission (Rishon, Sheni, Shlishi)",
+    "hebrew": "דרגות טומאה: ראשון שני שלישי",
+    "parent_id": "avot_nezikin_tumah",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "The graded transmission of impurity from primary (av hatumah) through first, second, third degree; how liquids that become unclean defile vessels at higher degrees than their own source"
+  },
+  {
+    "id": "hatat_water_coverage_tightly_sealed",
+    "name": "Tightly-Fitting Cover (Tzamid Patil) for Hatat Waters",
+    "hebrew": "צמיד פתיל על מי חטאת",
+    "parent_id": "tzamid_patil",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Whether a tightly-fitting cover protects hatat waters from impurity; distinction between sealed water that has been prepared vs. unprepared water"
+  },
+  {
+    "id": "invalidation_by_intention_hatat",
+    "name": "Intention Affecting Validity of Hatat Waters",
+    "hebrew": "מחשבה הפוסלת מי חטאת",
+    "parent_id": "mei_chatat",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_parah"
+    ],
+    "notes": "Changed intention during drawing or mixing (switching from one mixture to multiple or vice versa), intending to drink hatat water, intending to store vs. pour water — effect on validity"
+  }
+]

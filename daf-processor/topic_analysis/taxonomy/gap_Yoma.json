@@ -1,0 +1,365 @@
+[
+  {
+    "id": "parhedrin_chamber",
+    "name": "Chamber of Parhedrin (High Priest's Pre-Yom Kippur Quarters)",
+    "hebrew": "לשכת פרהדרין",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The chamber where the High Priest was sequestered for seven days before Yom Kippur; its laws and practices"
+  },
+  {
+    "id": "kohen_gadol_seven_days",
+    "name": "High Priest's Seven-Day Preparation for Yom Kippur",
+    "hebrew": "שבעת ימי הפרישה",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The seven-day sequestering, practice of service, and preparation of the High Priest before Yom Kippur"
+  },
+  {
+    "id": "kohen_gadol_replacement_wife",
+    "name": "Designating a Replacement Wife for the High Priest",
+    "hebrew": "אשה אחרת לכהן גדול",
+    "parent_id": "kohen_gadol",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The debate whether to designate a replacement wife for the High Priest lest his wife die before Yom Kippur, based on 'his house' meaning his wife"
+  },
+  {
+    "id": "lottery_temple_priests",
+    "name": "Priestly Lottery (Payis) for Temple Service",
+    "hebrew": "פייס",
+    "parent_id": "kohen_shifts",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The four daily lotteries conducted in the Temple to determine which priests perform the various services; history of how the lottery replaced a race after injury"
+  },
+  {
+    "id": "kohen_gadol_oath_yom_kippur",
+    "name": "Oath Administered to the High Priest Before Yom Kippur",
+    "hebrew": "השבעת הכהן הגדול",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The oath administered by the elders to the High Priest that he would not deviate from the prescribed Yom Kippur service, particularly regarding incense in the Holy of Holies"
+  },
+  {
+    "id": "kohen_gadol_wakefulness",
+    "name": "Keeping the High Priest Awake on Yom Kippur Eve",
+    "hebrew": "מניעת שינה מכהן גדול",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The practices used to prevent the High Priest from sleeping on Yom Kippur eve, including Torah reading, snapping fingers, and standing on cold floor"
+  },
+  {
+    "id": "vidui_yom_kippur",
+    "name": "Confession (Vidui) on Yom Kippur",
+    "hebrew": "וידוי יום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The three confessions recited by the High Priest on Yom Kippur: over his bull (for himself and family), again over the bull (adding the priests), and over the scapegoat (for all Israel)"
+  },
+  {
+    "id": "shem_hamephorash",
+    "name": "Utterance of the Explicit Divine Name (Shem HaMephorash)",
+    "hebrew": "שם המפורש",
+    "parent_id": "divine_names_tetragrammaton",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The High Priest's utterance of the Tetragrammaton on Yom Kippur during the confessions; the people's response 'Blessed be the name of His glorious kingdom'"
+  },
+  {
+    "id": "gorlot_yom_kippur",
+    "name": "Lots for the Two Yom Kippur Goats (Goralot)",
+    "hebrew": "גורלות של יום הכיפורים",
+    "parent_id": "sair_laazazel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The lottery procedure to designate which goat is for God and which for Azazel; the lottery receptacle and its historical development from wood to gold"
+  },
+  {
+    "id": "ketoret_kodesh_kodashim",
+    "name": "Incense Offering in the Holy of Holies",
+    "hebrew": "הקטרת קטורת בקודש הקודשים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The unique Yom Kippur incense service performed inside the Holy of Holies; the coal pan, spoon, handfuls of incense, procedure of entry and exit"
+  },
+  {
+    "id": "zerikat_dam_yom_kippur",
+    "name": "Blood Sprinklings on Yom Kippur",
+    "hebrew": "הזאות דם ביום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The specific blood sprinklings of Yom Kippur: inside the Holy of Holies (one up, seven down), on the parochet, and on the golden altar; counting method"
+  },
+  {
+    "id": "even_hashtiya",
+    "name": "Foundation Stone (Even HaShtiya)",
+    "hebrew": "אבן השתיה",
+    "parent_id": "kodesh_kodashim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The foundation rock in the Holy of Holies from the days of the early prophets, three fingerbreadths high, upon which the High Priest placed the incense after the Ark was taken"
+  },
+  {
+    "id": "dispatch_scapegoat",
+    "name": "Dispatching the Scapegoat to the Wilderness",
+    "hebrew": "שילוח השעיר לעזאזל",
+    "parent_id": "sair_laazazel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The procedure of leading the scapegoat to the cliff (Tzuk), the booths along the route, the crimson strip, the escort, and the signal system back to Jerusalem"
+  },
+  {
+    "id": "crimson_strip_yom_kippur",
+    "name": "Crimson Strip (Lashon shel Zehorit)",
+    "hebrew": "לשון של זהורית",
+    "parent_id": "sair_laazazel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The crimson strip tied to the scapegoat's horns and to the sanctuary entrance; its miraculous turning white when sins were forgiven"
+  },
+  {
+    "id": "burning_par_veshair",
+    "name": "Burning the Bull and Goat of Yom Kippur",
+    "hebrew": "שריפת הפר והשעיר של יום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The procedure of burning the bull and goat sin-offerings outside Jerusalem; when their carriers become impure"
+  },
+  {
+    "id": "keriat_hatorah_yom_kippur",
+    "name": "Torah Reading by the High Priest on Yom Kippur",
+    "hebrew": "קריאת התורה של כהן גדול ביום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The High Priest's public Torah reading on Yom Kippur from Leviticus 16 and 23; the eight blessings he recites afterward"
+  },
+  {
+    "id": "inuyim_yom_kippur",
+    "name": "Five Afflictions on Yom Kippur (Inuyim)",
+    "hebrew": "חמישה עינויים ביום הכיפורים",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The five prohibitions constituting affliction on Yom Kippur: eating/drinking, bathing, anointing, wearing shoes, and conjugal relations; their measures and exceptions"
+  },
+  {
+    "id": "shiurei_yom_kippur_eating",
+    "name": "Measures for Eating/Drinking on Yom Kippur",
+    "hebrew": "שיעורי אכילה ושתייה ביום הכיפורים",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The date-bulk measure for food and cheekful measure for drink that create liability on Yom Kippur; whether food and drink combine"
+  },
+  {
+    "id": "chinuch_minors_fasting",
+    "name": "Training Minors to Fast (Chinuch for Yom Kippur)",
+    "hebrew": "חינוך קטנים לצום",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The practice of training children one or two years before bar/bat mitzvah to fast partial fasts on Yom Kippur"
+  },
+  {
+    "id": "pikuach_nefesh_yom_kippur",
+    "name": "Saving Life (Pikuach Nefesh) Overriding Yom Kippur",
+    "hebrew": "פיקוח נפש ביום הכיפורים",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "Cases where danger to life overrides Yom Kippur fasting: pregnant women with cravings, the ill, bulmos sufferers, rockslide victims"
+  },
+  {
+    "id": "bulmos",
+    "name": "Bulmos (Life-Threatening Hunger Illness)",
+    "hebrew": "בולמוס",
+    "parent_id": "pikuach_nefesh_yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The medical condition of severe hunger causing vision impairment; one may feed the sufferer even impure food until his eyes recover"
+  },
+  {
+    "id": "kapparot_yom_kippur_scope",
+    "name": "Scope of Yom Kippur Atonement",
+    "hebrew": "גדרי כפרת יום הכיפורים",
+    "parent_id": "yom_kippur",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "What Yom Kippur atones for: transgressions between person and God vs. between people; requirement to appease others; the interplay between sin-offering, guilt-offering, death, repentance and Yom Kippur"
+  },
+  {
+    "id": "bein_adam_lachavero_atonement",
+    "name": "Atonement for Interpersonal Sins (Bein Adam laChavero)",
+    "hebrew": "כפרה על עבירות שבין אדם לחברו",
+    "parent_id": "kapparot_yom_kippur_scope",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The principle that Yom Kippur does not atone for sins between people until one appeases the offended party"
+  },
+  {
+    "id": "teshuvah_types_atonement",
+    "name": "Repentance and Its Role in Atonement",
+    "hebrew": "תשובה ככפרה",
+    "parent_id": "atonement_kapparah",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The graduated system of atonement: repentance for minor sins, Yom Kippur for severe ones, death for gravest; the invalid who says 'I will sin and repent'"
+  },
+  {
+    "id": "mukheni_basin_device",
+    "name": "Device for Sinking the Temple Basin (Mukheni)",
+    "hebrew": "מוכני של כיור",
+    "parent_id": "kiyyor",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The mechanical device built by ben Katin to sink the Temple laver into water overnight to prevent its water from being disqualified by remaining overnight"
+  },
+  {
+    "id": "temple_benefactors",
+    "name": "Temple Benefactors and Their Contributions",
+    "hebrew": "עושי מעשים לכבוד המקדש",
+    "parent_id": "beit_hamikdash",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "Those who contributed to the Temple: Yehoshua ben Gamla (gold lots), ben Katin (mukheni, spigots), King Munbaz (gold handles), Queen Helene (chandelier, golden tablet), Nicanor (doors). Contrasted with those who withheld secrets: House of Garmu, House of Avtinas, Hugras ben Levi, ben Kamtzar"
+  },
+  {
+    "id": "house_of_avtinas",
+    "name": "House of Avtinas (Incense Preparers)",
+    "hebrew": "בית אבטינס",
+    "parent_id": "incense_ketoret",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The family that held the secret formula for preparing the Temple incense and refused to teach it to others"
+  },
+  {
+    "id": "house_of_garmu",
+    "name": "House of Garmu (Shewbread Bakers)",
+    "hebrew": "בית גרמו",
+    "parent_id": "lechem_hapanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The family that held the secret of preparing the shewbread and refused to teach it to others"
+  },
+  {
+    "id": "kohen_gadol_immersions_yom_kippur",
+    "name": "High Priest's Five Immersions and Ten Sanctifications on Yom Kippur",
+    "hebrew": "חמש טבילות ועשר קידושין של כהן גדול",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The five immersions and ten sanctifications of hands and feet performed by the High Priest throughout the Yom Kippur service; where each is performed"
+  },
+  {
+    "id": "bigdei_lavan_yom_kippur",
+    "name": "White Linen Garments of the High Priest on Yom Kippur",
+    "hebrew": "בגדי לבן של כהן גדול",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The special white linen garments worn by the High Priest during Yom Kippur's inner services (Holy of Holies); their cost, origin (Pelusium vs. India), and alternation with golden garments"
+  },
+  {
+    "id": "order_yom_kippur_service",
+    "name": "Order of the Yom Kippur Service (Seder HaAvodah)",
+    "hebrew": "סדר עבודת יום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The precise sequential order of all Yom Kippur services; consequence of performing them out of order; need to repeat services if blood spills"
+  },
+  {
+    "id": "nicanor_gates",
+    "name": "Gate of Nicanor",
+    "hebrew": "שער ניקנור",
+    "parent_id": "temple_architecture",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The famous gate of the Temple named after Nicanor; the miracle associated with its doors"
+  },
+  {
+    "id": "signal_system_temple",
+    "name": "Signal System from Wilderness to Temple",
+    "hebrew": "מערכת הסימנים מהמדבר",
+    "parent_id": "sair_laazazel",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_yoma"
+    ],
+    "notes": "The system of platforms and waving scarves used to signal from the wilderness back to Jerusalem when the scapegoat arrived; debate about its necessity"
+  }
+]

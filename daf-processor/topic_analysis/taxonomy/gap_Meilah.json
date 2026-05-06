@@ -1,0 +1,200 @@
+[
+  {
+    "id": "meilah_misuse_consecrated",
+    "name": "Meilah (Misuse of Consecrated Property — General)",
+    "hebrew": "מעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Detailed halakhot of meilah: liability thresholds, stages of consecration, permitting factors, joining of measures, and agent liability — the core subject of tractate Meilah"
+  },
+  {
+    "id": "meilah_shiur_peruta",
+    "name": "Shiur Peruta for Meilah (Minimum Value for Misuse Liability)",
+    "hebrew": "שיעור פרוטה במעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "The minimum benefit of one peruta required to incur liability for meilah; disputes between Rabbi Akiva and Rabbis regarding benefit vs. damage requirement"
+  },
+  {
+    "id": "meilah_after_meilah",
+    "name": "Meilah After Meilah (Repeated Misuse of Same Item)",
+    "hebrew": "מעילה אחר מעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Whether repeated misuse of the same consecrated item by multiple persons each incurs liability; applies to animals and service vessels"
+  },
+  {
+    "id": "meilah_period_fitness",
+    "name": "Period of Fitness for Priests (Ra'ui laKohanim) in Meilah",
+    "hebrew": "ראוי לכהנים במעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rabbi Yehoshua's principle: if a sacrificial item had a period during which it was permitted to priests before being disqualified, no meilah liability applies afterward"
+  },
+  {
+    "id": "meilah_agent_liability",
+    "name": "Agency in Meilah (Shliach b'Meilah)",
+    "hebrew": "שליח במעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rules for who bears meilah liability when an agent uses consecrated property: if agent follows instructions, homeowner is liable; if agent deviates, agent is liable"
+  },
+  {
+    "id": "meilah_joining_measures",
+    "name": "Joining Consecrated Items for Meilah Measure (Tziruf b'Meilah)",
+    "hebrew": "צירוף שיעורים במעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rules for combining different consecrated items or multiple acts of benefit to reach the minimum peruta measure for meilah liability"
+  },
+  {
+    "id": "meilah_stages_offering",
+    "name": "Stages of Offering and Meilah Liability",
+    "hebrew": "שלבי הקרבה ומעילה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "How meilah liability changes at each stage of the sacrificial process: consecration, slaughter, blood sprinkling, placement on altar, and burning"
+  },
+  {
+    "id": "meilah_kodshei_kodashim_vs_kalim",
+    "name": "Meilah in Kodshei Kodashim vs. Kodashim Kalim",
+    "hebrew": "מעילה בקדשי קדשים לעומת קדשים קלים",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "The distinction in meilah rules between most sacred offerings and offerings of lesser sanctity, including the concept of leniency and stringency of the sprinkling act"
+  },
+  {
+    "id": "meilah_growth_of_hekdesh",
+    "name": "Growth of Consecrated Property (Gidulei Hekdesh)",
+    "hebrew": "גידולי הקדש",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Whether growths, offspring, eggs, or milk that develop after consecration are themselves subject to meilah; dispute between Rabbis and Rabbi Yosi"
+  },
+  {
+    "id": "meilah_libations_blood",
+    "name": "Meilah in Libations and Blood (Nesachim and Dam)",
+    "hebrew": "מעילה בנסכים ובדם",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rabbi Shimon's ruling on meilah for blood (lenient at outset, stringent at end) vs. libations (stringent at outset, lenient at end)"
+  },
+  {
+    "id": "meilah_consecrated_money_purse",
+    "name": "Consecrated Peruta Among Non-Sacred Money",
+    "hebrew": "פרוטה של הקדש בכיס",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Dispute between Rabbi Akiva and Rabbis about when meilah is incurred when a consecrated peruta is mixed into a purse of non-sacred perutot"
+  },
+  {
+    "id": "meilah_redemption_desacralization",
+    "name": "Desacralization of Consecrated Money (Pidyon to Prevent Meilah)",
+    "hebrew": "פדיון לצורך מניעת מעילה",
+    "parent_id": "pidyon_hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Procedure by which one can desacralize a consecrated peruta already sent with an agent by transferring its sanctity to another peruta or vessel"
+  },
+  {
+    "id": "chatat_five_die",
+    "name": "Five Sin Offerings Left to Die (Chamesh Chatat HaMeitot)",
+    "hebrew": "חמש חטאות המיתות",
+    "parent_id": "chatat",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "The five categories of sin offerings that must be left to die rather than sacrificed, including offspring of a sin offering, substitute for a sin offering, sin offering of one who died, one that passed a year, and one that was lost and found blemished after atonement"
+  },
+  {
+    "id": "meilah_hekdesh_fit_unfit",
+    "name": "Consecrated Items Fit and Unfit for Altar or Temple Maintenance",
+    "hebrew": "הקדש הראוי ושאינו ראוי למזבח ולבדק הבית",
+    "parent_id": "hekdesh",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rules for meilah liability when consecrated items are fit only for altar, only for Temple maintenance, both, or neither — and how items consecrated empty differ from those subsequently filled"
+  },
+  {
+    "id": "meilah_willow_siloam_water",
+    "name": "Meilah Status of Willow Branches and Siloam Water",
+    "hebrew": "מעילה בערבה ומי השילוח",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Meilah status of water drawn from Siloam for libation before and after placement in service vessel, and willow branches for the altar before and after their placement"
+  },
+  {
+    "id": "nazirite_money_death",
+    "name": "Disposition of Nazirite Funds Upon Death",
+    "hebrew": "מעות נזיר שמת",
+    "parent_id": "vow_nazirite",
+    "category": "PERSONAL VOWS AND OATHS",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "What happens to funds set aside for a nazirite's three offerings when the nazirite dies, including disposition of designated sin offering money, burnt offering money, and peace offering money"
+  },
+  {
+    "id": "tziruf_tumah_joining",
+    "name": "Joining of Impure Foods and Impurities to Constitute Requisite Measures",
+    "hebrew": "צירוף אוכלים טמאים לשיעור",
+    "parent_id": "tumat_ochlin",
+    "category": "PURITY AND IMPURITY",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "Rules for combining different impure foods or items of different impurity levels to constitute requisite measures for various halakhic consequences; principle attributed to Rabbi Yehoshua"
+  },
+  {
+    "id": "meilah_inner_altar_ash_wicks",
+    "name": "Meilah Status of Inner Altar Ash and Candelabrum Wicks",
+    "hebrew": "דישון מזבח הפנימי ופתילות המנורה",
+    "parent_id": "meilah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah_meilah"
+    ],
+    "notes": "The ashes from the inner altar and wicks of the Candelabrum may not be used but if benefit was derived there is no meilah liability; if re-consecrated, meilah liability applies"
+  }
+]

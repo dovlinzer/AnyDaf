@@ -1,0 +1,332 @@
+[
+  {
+    "id": "sota_ritual",
+    "name": "Sota Ritual (Bitter Waters)",
+    "hebrew": "סוטה",
+    "parent_id": "mar_sotah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed procedure of the sota rite: warning, seclusion, scroll writing, erasing in water, drinking the bitter waters, and its effects"
+  },
+  {
+    "id": "kinui_warning_sota",
+    "name": "Warning (Kinui) for Sota",
+    "hebrew": "קינוי לסוטה",
+    "parent_id": "mar_jealousy_kinui",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rules for issuing a valid warning (kinui) to one's wife prohibiting seclusion with a named man, number of witnesses required, and its effects"
+  },
+  {
+    "id": "seclusion_stiha",
+    "name": "Seclusion (Stiha/Hastarah) in Sota",
+    "hebrew": "סתירה בסוטה",
+    "parent_id": "mar_sotah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rules regarding the prohibited seclusion that triggers the sota process: duration, witnesses required, and what constitutes sufficient seclusion"
+  },
+  {
+    "id": "mechikat_hamegillah",
+    "name": "Erasing the Scroll (Mechikat HaMegillah)",
+    "hebrew": "מחיקת המגילה",
+    "parent_id": "sota_ritual",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Laws of writing and erasing the sota scroll into the bitter waters: materials permitted, passages written, and conditions that invalidate the scroll"
+  },
+  {
+    "id": "merit_zechut_delays_sota",
+    "name": "Merit Delaying Sota Punishment",
+    "hebrew": "זכות תולה בסוטה",
+    "parent_id": "sota_ritual",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debate whether personal merit can delay or prevent the sotah water's effects, and implications for teaching daughters Torah"
+  },
+  {
+    "id": "sota_minchat_kenaot",
+    "name": "Sota Meal-Offering (Minchat Kena'ot)",
+    "hebrew": "מנחת קנאות",
+    "parent_id": "minchat_sotah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Specific rules distinguishing the sota's barley meal-offering from other meal-offerings: no oil, no frankincense, brought in wicker basket, Egyptian basket"
+  },
+  {
+    "id": "midah_kneged_midah",
+    "name": "Measure for Measure (Midah k'Neged Midah)",
+    "hebrew": "מידה כנגד מידה",
+    "parent_id": "measure_for_measure",
+    "category": "DIVINE ATTRIBUTES AND THEMES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Principle that Divine punishment and reward correspond proportionally to a person's actions, illustrated through sota, Samson, Absalom, Miriam, Joseph, Moses"
+  },
+  {
+    "id": "lashon_spoken_in_any_language",
+    "name": "Recitations Valid in Any Language",
+    "hebrew": "נאמרים בכל לשון",
+    "parent_id": "prayer_liturgy",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Category of Torah recitations and declarations (e.g., Shema, Amidah, Birkat Hamazon, vow oaths) that may be said in any language, not only Hebrew"
+  },
+  {
+    "id": "lashon_kodesh_required",
+    "name": "Recitations Required in Hebrew (Lashon haKodesh)",
+    "hebrew": "נאמרים בלשון הקודש",
+    "parent_id": "prayer_liturgy",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Category of Torah recitations that must specifically be said in Hebrew: bikkurim declaration, chalitza, blessings and curses at Gerizim/Ebal, priestly blessing, High Priest's Yom Kippur reading, Hakhel, eglah arufah, war priest's address"
+  },
+  {
+    "id": "mikra_bikkurim_declaration",
+    "name": "Bikkurim Declaration (Mikra Bikkurim)",
+    "hebrew": "מקרא ביכורים",
+    "parent_id": "bikkurim",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific verbal declaration recited when bringing first fruits to the Temple, required in Hebrew, and its textual content (Deuteronomy 26)"
+  },
+  {
+    "id": "hakhel_assembly",
+    "name": "Hakhel (Assembly at Sukkot)",
+    "hebrew": "הקהל",
+    "parent_id": "succot",
+    "category": "SHABBAT AND HOLIDAYS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The septennial public Torah reading by the king at Sukkot following the Sabbatical Year: procedure, Torah portions read, blessings recited, and King Agrippa episode"
+  },
+  {
+    "id": "kohen_mashuach_milchama",
+    "name": "Priest Anointed for War (Kohen Mashuach Milchama)",
+    "hebrew": "כהן משוח מלחמה",
+    "parent_id": "kohanim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The special priest appointed to address soldiers before battle, his speech in Hebrew, and his role in war preparations"
+  },
+  {
+    "id": "war_exemptions",
+    "name": "War Exemptions (Petur miMilchama)",
+    "hebrew": "פטור ממלחמה",
+    "parent_id": "crim_war",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Categories of men exempt from military service: new house not dedicated, vineyard not yet used, betrothed not yet married; distinction between obligatory and elective wars"
+  },
+  {
+    "id": "milchemet_mitzvah_reshut",
+    "name": "Obligatory vs. Elective War (Milchemet Mitzvah/Reshut)",
+    "hebrew": "מלחמת מצוה ומלחמת רשות",
+    "parent_id": "crim_war",
+    "category": "CRIMINAL AND CAPITAL LAW",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Distinction between obligatory wars (milchemet mitzvah) where no exemptions apply and elective wars (milchemet reshut) where biblical exemptions for new house, vineyard, and betrothal apply"
+  },
+  {
+    "id": "eglah_arufah_procedure",
+    "name": "Eglah Arufah Procedure",
+    "hebrew": "עגלה ערופה",
+    "parent_id": "eglah_arufah",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Detailed procedure of the broken-necked heifer ritual: measurement from corpse to nearest city, who goes out, nachal eitan, elders' declaration, priests' recitation"
+  },
+  {
+    "id": "nachal_eitan",
+    "name": "Nachal Eitan (Perennial Stream for Eglah Arufah)",
+    "hebrew": "נחל איתן",
+    "parent_id": "eglah_arufah_procedure",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Requirement that the heifer be brought to a perennial or forceful stream; whether this requirement is indispensable or not"
+  },
+  {
+    "id": "birchat_gerizim_eval",
+    "name": "Blessings and Curses at Gerizim and Ebal",
+    "hebrew": "ברכות וקללות בגריזים ועיבל",
+    "parent_id": "lashon_kodesh_required",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The ceremony of blessings and curses pronounced on Mount Gerizim and Mount Ebal: who stood where, procedure of Levites turning and reciting, the people's Amen responses"
+  },
+  {
+    "id": "kohen_gadol_yom_kippur_reading",
+    "name": "High Priest's Torah Reading on Yom Kippur",
+    "hebrew": "קריאת כהן גדול ביום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Procedure for the High Priest reading Torah portions on Yom Kippur, the blessings recited afterward, and the order of passing the scroll"
+  },
+  {
+    "id": "birchat_kohen_gadol_yom_kippur",
+    "name": "High Priest's Blessings on Yom Kippur",
+    "hebrew": "ברכות כהן גדול ביום הכיפורים",
+    "parent_id": "avodat_yom_hakippurim",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The eight blessings recited by the High Priest on Yom Kippur after the Torah reading: Torah, Temple service, thanksgiving, forgiveness, Temple, Israel, priests, Jerusalem"
+  },
+  {
+    "id": "bitul_sota_waters_adultery_proliferation",
+    "name": "Nullification of Sota Waters (Bitul Mei Sotah)",
+    "hebrew": "ביטול מי סוטה",
+    "parent_id": "sota_ritual",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Rabban Yochanan ben Zakkai's nullification of the sota bitter water ritual when adultery proliferated among men, based on Hosea 4:14"
+  },
+  {
+    "id": "shamir_worm",
+    "name": "Shamir Worm",
+    "hebrew": "שמיר",
+    "parent_id": "supernatural_phenomena",
+    "category": "AGGADA AND THEOLOGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The legendary shamir worm used to cut the Temple stones without iron; said to have ceased after the Second Temple's destruction"
+  },
+  {
+    "id": "yochanan_kohen_gadol_takkanot",
+    "name": "Takkanot of Yochanan the High Priest",
+    "hebrew": "תקנות יוחנן כהן גדול",
+    "parent_id": "inst_takkanot_ezra",
+    "category": "RABBINIC INSTITUTIONS AND COURTS",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Enactments attributed to Yochanan the High Priest: abolishing tithe declaration, nullifying awakeners and strikers at Temple, and demai inquiry"
+  },
+  {
+    "id": "ikveta_demeshicha",
+    "name": "Footsteps of the Messiah (Ikveta diMeshicha)",
+    "hebrew": "עקבתא דמשיחא",
+    "parent_id": "chevlei_mashiach",
+    "category": "ESCHATOLOGY AND AFTERLIFE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Signs and characteristics of the pre-Messianic era: moral deterioration, disrespect for elders, erosion of faith and family bonds, impudence"
+  },
+  {
+    "id": "pinchas_ben_yair_ladder",
+    "name": "Pinchas ben Yair's Ladder of Virtues",
+    "hebrew": "סולם של רבי פינחס בן יאיר",
+    "parent_id": "mussar_character",
+    "category": "ETHICS AND CHARACTER",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The ascending chain of spiritual virtues from Torah study through diligence, cleanliness, purity, piety, humility, fear of sin, holiness, divine spirit, to resurrection"
+  },
+  {
+    "id": "viduy_maaser_declaration",
+    "name": "Tithe Confession/Declaration (Viduy Maaser)",
+    "hebrew": "וידוי מעשר",
+    "parent_id": "viduy_maaser",
+    "category": "AGRICULTURE AND TITHES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The formal declaration recited after the third and sixth years of the Sabbatical cycle confirming proper distribution of tithes; may be recited in any language per Mishnah Sotah"
+  },
+  {
+    "id": "teaching_daughters_torah",
+    "name": "Teaching Daughters Torah",
+    "hebrew": "לימוד תורה לבנות",
+    "parent_id": "torah_study_value",
+    "category": "ETHICS AND CHARACTER",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debate between Ben Azzai (obligation to teach daughters Torah) and Rabbi Eliezer (teaching daughters Torah is tiflut/promiscuity)"
+  },
+  {
+    "id": "sota_paramour_prohibition",
+    "name": "Sota Forbidden to Paramour",
+    "hebrew": "סוטה אסורה לבועל",
+    "parent_id": "mar_sotah",
+    "category": "MARRIAGE AND DIVORCE",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The prohibition on the sota woman marrying her paramour after divorce, derived from the double expression of defilement in Numbers 5"
+  },
+  {
+    "id": "war_priest_address",
+    "name": "Priest's Address Before Battle (Divrei Kohen)",
+    "hebrew": "דברי הכהן לפני המלחמה",
+    "parent_id": "kohen_mashuach_milchama",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "The specific speech given by the war-priest to soldiers before battle, expounding Deuteronomy 20:3-4, encouraging soldiers against fear of enemy weapons and sounds"
+  },
+  {
+    "id": "levite_city_boundaries",
+    "name": "Levite City Boundaries (Migrash Arei Levi)",
+    "hebrew": "מגרש ערי הלוים",
+    "parent_id": "levites",
+    "category": "TEMPLE AND SACRIFICES",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Interpretation of the 1000 vs 2000 cubit measurements around Levite cities (Numbers 35:4-5): one for open land, one for fields/vineyards or Shabbat boundary"
+  },
+  {
+    "id": "song_at_sea_hallel_manner",
+    "name": "Manner of Singing the Song at the Sea",
+    "hebrew": "אמירת שירת הים",
+    "parent_id": "hallel",
+    "category": "PRAYER AND LITURGY",
+    "sources": [
+      "mishnah"
+    ],
+    "notes": "Debate whether Israel sang the Song of the Sea responsively after Moses (like Hallel) or in unison together with Moses (like Shema)"
+  }
+]
