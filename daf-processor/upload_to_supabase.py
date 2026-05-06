@@ -2,9 +2,8 @@
 """
 Upload daf-processor output files to Supabase.
 
-Populates two tables:
+Populates one table:
   shiur_content   — one row per daf (segmentation JSON, rewrite, final)
-  shiur_sections  — one row per macro segment (title, timestamp, content, full-text index)
 
 Required environment variables:
   SUPABASE_URL          e.g. https://zewdazoijdpakugfvnzt.supabase.co
@@ -32,8 +31,7 @@ load_dotenv()
 logger = logging.getLogger(__name__)
 
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://zewdazoijdpakugfvnzt.supabase.co")
-CONTENT_TABLE  = "shiur_content"
-SECTIONS_TABLE = "shiur_sections"
+CONTENT_TABLE = "shiur_content"
 
 PASS_FILES = {
     "segmentation": "01_segmentation.json",
@@ -132,57 +130,6 @@ def ts_to_seconds(ts: str) -> Optional[float]:
 
 
 # ---------------------------------------------------------------------------
-# Section splitting
-# ---------------------------------------------------------------------------
-
-def split_rewrite_into_sections(rewrite: str) -> List[dict]:
-    """
-    Split a markdown rewrite on ## (macro) and ### (micro) headers.
-
-    Returns list of dicts:
-      {'level': 'macro'|'micro', 'title': str, 'content': str,
-       'parent_macro_title': str|None}
-
-    The top-level # daf header is skipped. Content includes the header line.
-    Old rewrites with only ## headers produce macro-only output (no micros).
-    """
-    sections: List[dict] = []
-    current_macro_title: Optional[str] = None
-    current_title: Optional[str] = None
-    current_level: Optional[str] = None
-    current_lines: List[str] = []
-
-    def flush():
-        if current_title is not None and current_level is not None:
-            sections.append({
-                "level":              current_level,
-                "title":              current_title,
-                "content":            "\n".join(current_lines).strip(),
-                "parent_macro_title": None if current_level == "macro" else current_macro_title,
-            })
-
-    for line in rewrite.splitlines():
-        if line.startswith("## "):
-            flush()
-            current_title = line[3:].strip()
-            current_macro_title = current_title
-            current_level = "macro"
-            current_lines = [line]
-        elif line.startswith("### "):
-            flush()
-            current_title = line[4:].strip()
-            current_level = "micro"
-            current_lines = [line]
-        elif line.startswith("# ") and current_title is None:
-            continue  # top-level daf header
-        elif current_title is not None:
-            current_lines.append(line)
-
-    flush()
-    return sections
-
-
-# ---------------------------------------------------------------------------
 # Build rows
 # ---------------------------------------------------------------------------
 
@@ -199,88 +146,6 @@ def build_content_row(tractate: str, daf: float, job_dir: Path) -> dict:
             row[key] = f.read_text(encoding="utf-8")
 
     return row
-
-
-def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
-    rewrite_file = job_dir / PASS_FILES["rewrite"]
-    if not rewrite_file.exists():
-        return []
-
-    rewrite = rewrite_file.read_text(encoding="utf-8")
-    sections = split_rewrite_into_sections(rewrite)
-    if not sections:
-        return []
-
-    seg = load_segmentation(job_dir / PASS_FILES["segmentation"])
-    macros = seg.get("macro_segments", []) if seg else []
-
-    # Build lookups for matching by title (case-insensitive), with positional fallback.
-    macro_by_title = {m["title"].strip().lower(): m for m in macros}
-
-    rows: List[dict] = []
-    segment_index = 0          # global sequential index within this daf
-    macro_section_pos = 0      # counts macro sections seen so far (positional fallback)
-
-    # Maps macro title → (segment_index, segmentation_dict) for micro matching
-    macro_info: dict = {}
-
-    for section in sections:
-        level = section["level"]
-        title = section["title"]
-        content = section["content"]
-
-        if level == "macro":
-            seg_match = macro_by_title.get(title.strip().lower())
-            if seg_match is None and macro_section_pos < len(macros):
-                seg_match = macros[macro_section_pos]  # positional fallback
-
-            ts_str  = seg_match["timestamp"] if seg_match else None
-            ts_secs = ts_to_seconds(ts_str) if ts_str else None
-
-            rows.append({
-                "tractate":             tractate,
-                "daf":                  daf,
-                "segment_index":        segment_index,
-                "parent_segment_index": None,
-                "title":                title,
-                "timestamp_mm_ss":      ts_str,
-                "timestamp_secs":       ts_secs,
-                "content":              content,
-            })
-            macro_info[title] = (segment_index, seg_match)
-            macro_section_pos += 1
-
-        else:  # micro
-            parent_title = section["parent_macro_title"]
-            parent_seg_index, parent_seg_match = macro_info.get(parent_title, (None, None))
-
-            ts_str  = None
-            ts_secs = None
-            if parent_seg_match:
-                micros = parent_seg_match.get("micro_segments", [])
-                micro_match = next(
-                    (m for m in micros
-                     if m["title"].strip().lower() == title.strip().lower()),
-                    None,
-                )
-                if micro_match:
-                    ts_str  = micro_match.get("timestamp")
-                    ts_secs = ts_to_seconds(ts_str) if ts_str else None
-
-            rows.append({
-                "tractate":             tractate,
-                "daf":                  daf,
-                "segment_index":        segment_index,
-                "parent_segment_index": parent_seg_index,
-                "title":                title,
-                "timestamp_mm_ss":      ts_str,
-                "timestamp_secs":       ts_secs,
-                "content":              content,
-            })
-
-        segment_index += 1
-
-    return rows
 
 
 # ---------------------------------------------------------------------------
@@ -304,18 +169,6 @@ def upload_job(tractate: str, daf: float, job_dir: Path,
         ok = False
     else:
         logger.info(f"  ✓ {label} → {CONTENT_TABLE} ({', '.join(cols)})")
-
-    # shiur_sections rows
-    section_rows = build_section_rows(tractate, daf, job_dir)
-    if section_rows:
-        url = f"{SUPABASE_URL}/rest/v1/{SECTIONS_TABLE}?on_conflict=tractate,daf,segment_index"
-        if not upsert(url, section_rows, headers, dry_run,
-                      f"{label} → {SECTIONS_TABLE} ({len(section_rows)} sections)"):
-            ok = False
-        else:
-            logger.info(f"  ✓ {label} → {SECTIONS_TABLE} ({len(section_rows)} sections)")
-    else:
-        logger.debug(f"  {label}: no rewrite file — skipping {SECTIONS_TABLE}")
 
     return ok
 
