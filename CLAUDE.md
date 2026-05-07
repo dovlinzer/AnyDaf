@@ -347,124 +347,142 @@ Color locations:
 
 ---
 
-## Mafteach haDaf (מַפְתֵּחַ הַדַּף) — Talmudic Knowledge Base
+## AskAnyDaf — Talmudic Knowledge Base
 
-*Mafteach haDaf* ("Key of the Daf") is a structured knowledge base and browsable topical index of the Babylonian Talmud, built from 2,350 processed shiur (lecture) transcripts. Name deliberately evokes AnyDaf while distinguishing from the existing *HaMafteach* Talmudic index. The AI basis is intentionally not emphasized — this is a scholarly reference tool where accuracy and precision are the value proposition. Each processed daf has a lecture rewrite and Talmudic source text stored in Supabase.
+**Public name: AskAnyDaf.** Internal/subtitle: *Mafteach haDaf* (מַפְתֵּחַ הַדַּף, "Key of the Daf"). The AI basis is intentionally not foregrounded — this is a scholarly reference tool where accuracy and citation precision are the value proposition.
 
-**The goal**: A web app where a user can:
-- Browse by topic (like a traditional Talmud encyclopedia)
-- Search by any term — English, Hebrew, transliteration
-- Ask natural language questions ("What does the Talmud say about demons harming people?")
-- Get answers grounded only in the stored texts — no hallucination, precise tractate/daf/timestamp sourcing
+**The goal**: A public-facing web app where a user can ask nuanced natural-language questions about the Talmud and receive grounded, cited answers — drawn only from processed shiur transcripts, never from the LLM's training knowledge.
+
+Example queries the system must handle well:
+- "Where does the Talmud talk about sheidim and give them names?"
+- "Where is sheidim discussed in ways that aren't simply about their danger?"
+- "Where is migo used in a non-monetary context?"
+- "Please provide the full passages in the original Aramaic and/or English translation."
 
 ### Why No Hallucination
 
-At query time, the LLM reads only stored verbatim texts — no external knowledge about the Talmud is used. Tractate/daf identification comes from file metadata, not LLM extraction. The system prompt explicitly forbids drawing on training knowledge. If a topic doesn't appear in the corpus, the system says so.
+At query time, Claude reads only verbatim stored texts — no external Talmud knowledge is used. Tractate/daf/segment identification comes from database metadata, not LLM extraction. The system prompt explicitly forbids drawing on training knowledge. If a topic doesn't appear in the corpus, the system says so.
 
-### Three-Layer Architecture
+### Strategy
 
-**Layer 1 — Data (Supabase `shiur_segments` table)**
+**The knowledge-base query feature is the primary goal. The taxonomy/index is secondary.**
 
-Each daf's rewrite is already divided into micro-segments with timestamps (from the segmentation JSON). Each micro-segment becomes one row:
+A user typing a nuanced question gets a synthesized answer with precise citations. Taxonomy browsing (browse by topic category) is a future enhancement — useful but not the core value. This pivot means the expensive taxonomy re-tagging pass (~$300) is deferred; the knowledge-base can launch with embeddings alone.
 
-| Field | Content |
-|---|---|
-| `tractate`, `daf`, `timestamp` | Precise location |
-| `segment_title` | Name of this segment |
-| `lecture_text` | Rabbi's explanation (from `rewrite`) |
-| `talmudic_text` | Talmudic source text being discussed (from `final` blockquotes) |
-| `taxonomy_ids` | Which taxonomy entries this segment relates to (array) |
-| `embedding` | Vector for semantic search |
+### How Queries Work
 
-~2,350 dafs × ~20 micro-segments = ~47,000 rows total.
+**Stage 1 — Retrieval (embeddings)**: The user's question is embedded as a vector and matched semantically against all segments. Finds conceptually relevant content even when exact words differ — "sheidim given names" finds segments discussing named demons without requiring the word "name."
 
-**Why `rewrite` AND `final`**: The lecture (`rewrite`) gives conceptual explanation — unique scholarly value, no traditional index does this. The `final` blockquotes give the actual Talmudic text. Both are stored; both are searched. `source` field distinguishes them at query time.
+**Stage 2 — Synthesis (Claude)**: Retrieved segments are passed verbatim to Claude along with the user's exact question. Claude applies the specific nuanced filter to what it's reading and returns organized results with citations. It cannot invent a reference that doesn't appear in the passed text.
 
-**Layer 2 — Taxonomy (browsable index)**
+**The nuance lives in Stage 2, not Stage 1.** This is why complex, interpretive questions work — "non-threatening sheidim," "migo in non-monetary contexts" — Claude filters from real source material.
 
-1,222-entry hierarchical taxonomy (see `topic_analysis/taxonomy/seed_taxonomy.json`). Provides traditional index browsing: SHABBAT AND HOLIDAYS → Muktzeh → all passages. Each entry accumulates all segments tagged to it via `taxonomy_ids`.
+Users can also request full passages in Hebrew/Aramaic and English translation; these are stored from `03_final.md` and Sefaria files.
 
-User sees: `name` and `hebrew` fields only. `id` is internal database key — stable, snake_case, never shown to user.
+### Data
 
-**Layer 3 — Query (LLM synthesis)**
+**Source**: 99,436 segments across 40 tractates, previously stored in Supabase `shiur_sections` table. Downloaded as `daf-processor/shiur_sections_rows.csv` (freed from Supabase to save space). To be restored to Supabase with added fields.
 
-At query time, retrieve relevant segments (by taxonomy, semantic search, or both) and pass verbatim texts to Claude Sonnet. Claude synthesizes, summarizes, compares — but only from what's in front of it. Citations come from metadata, not Claude's memory.
+**Output folders**: 2,363 daf folders under `daf-processor/output/`. Each contains:
+- `03_final.md` — English commentary with Hebrew/Aramaic + English translation blockquotes embedded
+- `sefaria.md`, `sefaria_prev.md`, `sefaria_next.md` — raw Sefaria passages
 
-### Web App Navigation — Core UX Principle
+The `03_final.md` files are the source for both `talmudic_text` (extracted blockquotes) and `source_type` classification.
 
-**Search is the primary entry point. Browse is secondary.** A user who knows what they want types it directly — "sheidim," "שדים," "demons," "Rabbi Chanina ben Dosa" — and lands on the entry without navigating any hierarchy. The category/parent structure is for exploratory browsing only; it should never be *required* to find a known topic.
+### source_type Field
 
-Three navigation modes:
+Each segment is classified automatically by inspecting its corresponding section in `03_final.md`:
 
-| Mode | Use case |
-|---|---|
-| **Search box** (primary) | Type any term in any language → immediate results |
-| **Browse by category** | Exploratory — "what's indexed under Civil Law?" |
-| **A-Z index** | Traditional book-index scanning, flat alphabetical view |
+| Value | Meaning | Detection |
+|---|---|---|
+| `talmudic` | Segment directly explains a Gemara passage | Section contains `> **Hebrew/Aramaic:**` blockquote |
+| `mishnah` | Segment explains a Mishnah | Section title contains "Mishnah" or blockquote cites a Mishnah |
+| `shiur_discussion` | Shiur commentary — Rishonim, Acharonim, conceptual analysis without a direct Talmudic passage | No embedded blockquote |
 
-For **Rabbinic Authorities** specifically: the taxonomy groups them by period and geography (for users who want to browse that way), but the web app must also offer a flat A-Z list of all authorities — many users know a sage's name without knowing their generation or whether they were Palestinian or Babylonian.
+At query time, `shiur_discussion` results are flagged in the UI (e.g., "Shiur analysis" label) so users know the content comes from the Rav's discussion rather than the Talmudic text itself.
 
-The A-Z view is useful across the whole index, not just authorities.
+### Supabase
 
-### Search Design
+**Infrastructure**: Upgrade existing AnyDaf Supabase project to Pro ($25/month, 8GB storage). New tables live alongside `shiur_content`, `episode_audio`, `app_config` — same URL and keys.
 
-Each taxonomy entry has an `aliases` array covering all reasonable search formulations:
+**Embeddings**: `text-embedding-3-small` at 512 dimensions (not 1536). Quality is nearly identical for this domain; storage is 2/3 smaller. Cost to embed all 99K segments: ~$2 total.
+
+**`shiur_sections` table** (restoring and extending the old table):
+
+```sql
+CREATE TABLE shiur_sections (
+  id                 serial primary key,
+  tractate           text not null,
+  daf                numeric(4,1) not null,
+  segment_index      integer not null,
+  parent_segment_index integer,
+  title              text,
+  timestamp_mm_ss    text,
+  timestamp_secs     numeric,
+  content            text,           -- lecture text (from shiur_sections_rows.csv)
+  talmudic_text      text,           -- Hebrew/Aramaic + English translation (from 03_final.md blockquotes)
+  source_type        text not null default 'talmudic',  -- 'talmudic' | 'mishnah' | 'shiur_discussion'
+  embedding          vector(512),
+  updated_at         timestamptz default now(),
+  UNIQUE (tractate, daf, segment_index)
+);
+CREATE INDEX ON shiur_sections (tractate, daf);
+CREATE INDEX ON shiur_sections USING ivfflat (embedding vector_cosine_ops) WITH (lists = 100);
+```
+
+Existing table `shiur_content` (unchanged): `tractate`, `daf` (float), `segmentation` (jsonb), `rewrite` (text), `final` (text)
+
+`segmentation` structure:
 ```json
 {
-  "id": "biur_chametz",
-  "name": "Biur Chametz (Removal of Chametz)",
-  "hebrew": "בִּיעוּר חָמֵץ",
-  "aliases": ["Biur Chametz", "ביעור חמץ", "Burning Chametz", "Destroying Chametz", "Chametz Removal"]
+  "topical_tags": [{"term": "string", "timestamps": ["00:00"]}],
+  "macro_segments": [{"title": "", "timestamp": "", "micro_segments": [{"title": "", "timestamp": ""}]}]
 }
 ```
-Search checks `name + id + hebrew + aliases` simultaneously. No separate "see also" entries needed — aliases handle multilingual and parallel-term lookup. "Destroying chametz," "biur chametz," and "ביעור חמץ" all reach the same entry.
 
-**Embedding/semantic search**: Each segment and each taxonomy entry gets an embedding vector. Natural language queries ("why burn chametz before Pesach?") match by meaning, not keywords, so they find the right passages even without knowing the exact term.
+### upload_to_supabase.py — `--sections` Flag
 
-**Taxonomy categories** are UI navigation folders only — users don't search at this level. Category assignments can be changed any time without reprocessing. Entry `id`s are what matter for the database; finalize those before re-tagging.
+The segment upload logic is being re-integrated into `upload_to_supabase.py` with a `--sections` flag (off by default, so existing `--dir` / bulk runs are unaffected).
+
+When `--sections` is passed:
+1. Delete existing `shiur_sections` rows for the daf's `(tractate, daf)`
+2. Load the daf's rows from the CSV (or re-parse from segmentation JSON if CSV not available)
+3. Parse `03_final.md` for that daf — extract talmudic blockquotes per section, detect `source_type`
+4. Call OpenAI `text-embedding-3-small` (512d) for each segment's `content`
+5. Upsert all rows to `shiur_sections`
+
+Usage:
+```bash
+python upload_to_supabase.py --sections                          # all dafs
+python upload_to_supabase.py --dir output/berakhot_11 --sections # single daf
+python upload_to_supabase.py --dry-run --sections                # preview
+```
+
+Requires `OPENAI_API_KEY` in `.env` when `--sections` is active.
 
 ### Phases of Work
 
 | Phase | Description | Status |
 |---|---|---|
-| 1a | Seed taxonomy built (1,222 entries, 4 Claude Sonnet calls) | ✅ Done |
-| 1b | User reviews `seed_taxonomy.xlsx` — names, Hebrew, parent structure, missing entries, duplicates | 🔄 In progress |
-| 1c | Generate aliases for all entries (batch Claude job) | Not started |
-| 1d | Map 28,982 canonical terms → seed taxonomy entries; propose subcategory enrichment (e.g., Muktzeh → 10-20 subcategories grounded in what actually appears in the corpus) | Not started |
-| 1e | User reviews and approves enriched taxonomy with subcategories | Not started |
-| 2 | Build `shiur_segments` table — parse `rewrite` + `final` from Supabase into micro-segment rows (no LLM needed, ~free) | Not started |
-| 3 | Re-tagging pass — Claude Sonnet Batch API reads each daf's segments + full taxonomy, assigns `taxonomy_ids` to each segment (~$300-350 total) | Not started |
-| 4 | Add pgvector embeddings to each segment row (~$1 total) | Not started |
-| 5 | Build web app — taxonomy browser, search, Q&A interface, audio deep-links | Not started |
+| A1 | Add `--sections` flag to `upload_to_supabase.py` | 🔄 In progress |
+| A2 | Bulk load: run `--sections` across all 2,363 output folders | Not started |
+| A3 | Build AskAnyDaf query API (Next.js route: embed query → vector search → Claude synthesis) | Not started |
+| A4 | Build AskAnyDaf web UI — search box, results with citations, full-passage toggle, source_type labels | Not started |
+| B1 | Taxonomy: complete seed_taxonomy.xlsx review (was in progress) | Deferred |
+| B2 | Taxonomy: generate aliases, map canonical terms, subcategory enrichment | Deferred |
+| B3 | Re-tagging pass — assign taxonomy_ids to each segment (~$300, Batch API) | Deferred |
+| B4 | Add taxonomy browse UI to AskAnyDaf | Deferred |
 
-### Taxonomy Hierarchy
+### Query API Design (Phase A3)
 
-**Four levels total:**
-```
-Category          "SHABBAT AND HOLIDAYS"                    — UI folder only, no passages tagged
-  Main entry      "Muktzeh"                                 — real index entry (general discussions)
-    Sub-entry     "Muktzeh Machmat Mi'us"                   — real index entry (specific category)
-      Sub-sub     "Muktzeh Machmat Mi'us vs. Chisaron Kis"  — real index entry (recognized sub-question)
-```
+Next.js API route at `/api/ask`:
+1. Embed user question via OpenAI `text-embedding-3-small`
+2. pgvector cosine similarity search → top 40–60 segments
+3. Build prompt: system instructions (no hallucination, cite only what's provided) + retrieved segments with metadata + user question
+4. Stream Claude Sonnet response
+5. Return: synthesized answer + list of source citations (tractate, daf, segment title, timestamp, source_type)
 
-Maximum depth is sub-sub-entry (3 content levels below category). Anything deeper signals the entry should be reorganized rather than nested further.
-
-**Criterion for creating a deeper level**: Whether the sub-topic has **independent standing in halakhic or Talmudic discourse** — i.e., Chazal, the Rishonim, or standard halakhic literature treat it as a recognized distinct question with its own name or category status.
-
-- ✅ "Muktzeh Machmat Mi'us vs. Machmat Chisaron Kis" — recognized distinct halakhic question → sub-sub-entry even if it appears only twice
-- ✅ "Muktzeh — differences between Shabbat and Yom Tov" — recognized distinct question → sub-sub-entry
-- ❌ "Muktzeh on a rainy Shabbat" — incidental angle, not a recognized distinct category → stays as a passage under the parent entry even if it appears five times
-
-**Volume is a signal, not the trigger.** Frequency of occurrence suggests a topic may warrant its own entry, but the real test is recognized independent standing in the literature. Interest/significance overrides (promoting a rare but important distinction) are a human judgment call made during review — not automated.
-
-**In the re-tagging prompt**, Claude is told: *"Create a sub-sub-entry only if this is a recognized distinct concept in Talmudic or halakhic literature — one that has its own name or is discussed as a separate category by the Talmud or Rishonim."*
-
-### Key Decisions (with reasoning)
-
-- **No pre-computed summaries or aspect tags**: Store raw texts; Claude reasons over them at query time. Pre-computing "aspects" requires predicting all future query dimensions — impossible. A passage about Ashmodai and King Solomon gets found by reading the text, not by pre-tagging it.
-- **Claude Sonnet for re-tagging, not Haiku**: Accuracy over cost. Conceptual connections in Talmudic reasoning require genuine understanding. Cost (~$300) is acceptable.
-- **Subcategories come from the corpus**: The 28,982 canonical terms already extracted from the lectures show what subcategories actually appear (e.g., all the muktzeh variants). Don't enumerate subcategories from training knowledge — let the corpus tell you.
-- **`rewrite` not `final` as primary lecture source**: `rewrite` is the rabbi's explanation. `final` adds Talmudic text blockquotes. Both are stored, but the lecture text is the unique value no traditional index provides.
+Users can request full passages (Hebrew/Aramaic + English) — these are returned from the `talmudic_text` field of matched segments.
 
 ### Scripts in `daf-processor/`
 
@@ -472,8 +490,9 @@ All scripts: `load_dotenv(Path(__file__).parent / ".env", override=True)` — re
 
 | Script | Purpose |
 |---|---|
+| `upload_to_supabase.py` | Uploads shiur_content rows + (with `--sections`) shiur_sections rows with embeddings |
 | `extract_topics.py` | Extracts `topical_tags` from `shiur_content.segmentation` → `topic_analysis/topics_raw.json` (51,671 raw terms) |
-| `normalize_topics.py` | Batch API: normalizes raw terms → canonical forms. **Config: `BATCH_SIZE=100, MAX_TOKENS=8192`** (Hebrew tokenizes ~2x heavier than ASCII; original 150/4096 caused all 345 chunks to truncate) |
+| `normalize_topics.py` | Batch API: normalizes raw terms → canonical forms. **Config: `BATCH_SIZE=100, MAX_TOKENS=8192`** |
 | `consolidate_topics.py` | Batch API: deduplicates 28,982 canonical forms by alphabetical grouping |
 | `build_taxonomy.py` | Multi-segment Claude Sonnet calls → `seed_taxonomy.json`. Supports `--segment N`, `--merge`, `--save-partial` |
 
@@ -486,50 +505,154 @@ All scripts: `load_dotenv(Path(__file__).parent / ".env", override=True)` — re
 | `seed_taxonomy.json` | Merged final taxonomy (1,222 entries, 30 categories) |
 | `seed_taxonomy.xlsx` | Excel version for human review — color-coded by category, auto-filter, frozen header |
 
-### Supabase Schema
+### Taxonomy Design (for Phase B)
 
-Existing table `shiur_content`: `tractate`, `daf` (float: 5.0=5a, 5.5=5b), `segmentation` (jsonb), `rewrite` (text), `final` (text)
-
-`segmentation` structure:
-```json
-{
-  "topical_tags": [{"term": "string", "timestamps": ["00:00"]}],
-  "macro_segments": [{"title": "", "timestamp": "", "micro_segments": [{"title": "", "timestamp": ""}]}]
-}
+**Four levels total:**
+```
+Category          "SHABBAT AND HOLIDAYS"                    — UI folder only, no passages tagged
+  Main entry      "Muktzeh"                                 — real index entry (general discussions)
+    Sub-entry     "Muktzeh Machmat Mi'us"                   — real index entry (specific category)
+      Sub-sub     "Muktzeh Machmat Mi'us vs. Chisaron Kis"  — real index entry (recognized sub-question)
 ```
 
-Planned new table `shiur_segments`:
-```sql
-CREATE TABLE shiur_segments (
-  id            serial primary key,
-  tractate      text not null,
-  daf           text not null,
-  timestamp     text,
-  segment_title text,
-  lecture_text  text,
-  talmudic_text text,
-  taxonomy_ids  text[],
-  embedding     vector(1536),
-  created_at    timestamptz default now()
-);
-CREATE INDEX ON shiur_segments (tractate, daf);
-CREATE INDEX ON shiur_segments USING gin (taxonomy_ids);
-```
+**Criterion for creating a deeper level**: Whether the sub-topic has **independent standing in halakhic or Talmudic discourse** — recognized distinct question with its own name or category in the Rishonim.
 
-Planned updated taxonomy table:
-```sql
-CREATE TABLE taxonomy (
-  id          text primary key,
-  name        text not null,
-  hebrew      text,
-  parent_id   text references taxonomy(id),
-  category    text,
-  aliases     text[],
-  sources     text[]
-);
-CREATE INDEX ON taxonomy USING gin (aliases);
-```
+**Key decisions**:
+- No pre-computed summaries or aspect tags — store raw texts, Claude reasons at query time
+- Claude Sonnet for re-tagging (not Haiku) — accuracy over cost (~$300 acceptable)
+- Subcategories derived from the 28,982 canonical corpus terms, not from training knowledge
+- Each taxonomy entry has an `aliases` array for multilingual search (Hebrew script, transliteration, English variants)
 
 ### Batch API Critical Config
 
 `BATCH_SIZE=100, MAX_TOKENS=8192` for all haiku batch jobs. After truncation, delete `.normalize_batch_state.json` to force fresh submission. Always check `stop_reason == "max_tokens"` — truncated JSON causes silent failures downstream.
+
+---
+
+## AskYCTorah — YCT Torah Library Knowledge Base
+
+**Public name: AskYCTorah.** A public-facing knowledge base covering R. Linzer's teshuvot, shiurim, articles, and source sheets, plus broader YCT Torah Library content. Hosted as a second tab alongside AskAnyDaf (same Vercel deployment), eventually at a subdomain of yctorah.org.
+
+**The goal**: A smart librarian, not a synthesizer. The system finds and surfaces relevant documents with direct excerpts and links — it does not construct answers or extract conclusions. The user does the intellectual work; the system does the finding.
+
+### Sources
+
+| Source | Type | Access |
+|---|---|---|
+| library.yctorah.org | Articles, shiurim, dvar Torah | WordPress REST API (`/wp-json/wp/v2/posts`) |
+| psak.yctorah.org | Teshuvot, psakim | WordPress REST API (existing integration in YCTLibraryClient) |
+| Personal material | Source sheets, lectures, teshuvot by R. Linzer | PDF/Word upload workflow |
+
+### Core Design Principle: The Author Pre-Designates What Stands Alone
+
+Claude never extracts conclusions, paraphrases rulings, or selects "representative" quotes. The only content shown to users is:
+1. The retrieved passage most semantically relevant to the query (surfaced by embedding search, not chosen by Claude)
+2. An author-approved scope description
+3. An author-designated standalone summary, if one exists (Tier 2 only)
+
+This is not a limitation — it is the feature. Users are researchers and serious learners who need to engage with primary sources, not receive pre-digested conclusions.
+
+### The No-Paraphrasing Rule
+
+Even an exact match on a psak question does not trigger a summary. The response shows the document, its scope description, and a link — never Claude's reconstruction of the conclusion. Paraphrasing a halakhic ruling can lose a nuance that changes the psak. Any text shown to the user must be verbatim from the source.
+
+### Three Response Tiers
+
+**Tier 1 — Non-psak / conceptual content**
+Show the retrieved passage (the embedding-matched chunk) as a direct excerpt, labeled as from [title]. Add the scope description and a link to the full piece. No Claude selection or summarizing — the retrieval system surfaces the relevant passage naturally.
+
+Example query: *"Does R. Linzer have anything to say about Torah and capitalism?"*
+Example response: Shows the shemita/capitalism passage that matched the query, with title and link.
+
+**Tier 2 — Psak with author-designated standalone summary**
+R. Linzer has explicitly written a self-contained bottom-line section (e.g., "Practical Ruling" or "Guidelines") that is meant to stand alone. The system displays that text verbatim, with a strong note to read the full article for nuance and context.
+
+**Key**: Only R. Linzer designates a standalone summary — Claude never decides that a passage is safe to quote as a ruling. This is set at ingestion during editorial review.
+
+**Tier 3 — Psak without a standalone summary**
+Scope description + link only. No excerpting.
+
+### Honest Gap Reporting
+
+When no exact match exists, the system says so explicitly and shows what does exist:
+
+> *Your question is about second-trimester abortion for reason Y. R. Linzer has not written specifically about this case. The closest relevant material is:*
+> *1. [Teshuva title] — Teshuva (link). R. Linzer addresses first-trimester abortion for reason X, examining [sources].*
+> *2. [Source sheet title] — Annotated source packet (link). [Scope description.]*
+
+"R. Linzer has not written specifically about this" is always shown when there is no direct match. Users must not walk away thinking they have a psak they don't have.
+
+### Document Schema
+
+Each document in the database has:
+
+```
+title              — from WordPress or filename
+url                — link to original (required; always shown)
+document_type      — teshuva | shiur | source_sheet | article | dvar_torah
+author             — R. Linzer or other YCT faculty
+description        — scope/approach in 2-4 sentences; Claude draft → author approved
+                     Never states or implies a conclusion
+standalone_summary — verbatim author-written bottom-line (Tier 2 only; null otherwise)
+reviewed           — bool: whether editorial pass has been completed
+tags               — topics (from WordPress categories or manual)
+embedding          — on the full text, for retrieval
+```
+
+Unreviewed documents appear in results as title + document_type + link only — no excerpting until reviewed.
+
+### document_type Values
+
+| Value | Meaning |
+|---|---|
+| `teshuva` | Reaches a halakhic conclusion |
+| `shiur` | Educational lecture, may discuss multiple views |
+| `source_sheet` | Primarily citations, exploratory, no conclusion |
+| `article` | Published piece, may or may not be conclusory |
+| `dvar_torah` | Weekly Torah thought |
+
+**document_type must be set by a human at ingestion** — it cannot be reliably auto-detected. A source sheet discussing R. Moshe Feinstein alongside R. Linzer's commentary looks too similar to a teshuva to classify automatically.
+
+### Editorial Workflow
+
+1. Document enters ingestion pipeline (scraped from WordPress API or uploaded)
+2. Claude generates drafts: scope description, detection of possible standalone summary section
+3. R. Linzer (or research assistant) reviews via a simple approval interface:
+   - Confirm document_type
+   - Approve or edit scope description
+   - For Tier 2 documents: paste in the standalone summary text
+4. Document goes live with `reviewed = true`
+
+Target: 2–5 minutes per document for review. Documents can be ingested immediately and sit unreviewed (showing title + type + link only) until the editorial pass catches up.
+
+### Forward-Looking Practice
+
+For future teshuvot: write an explicit **"Practical Ruling"** or **"Bottom Line"** section when a standalone quotable ruling is intended. This disciplines the writing and makes Tier 2 designation straightforward. The system rewards this discipline by displaying the ruling directly to users.
+
+### Response Format
+
+Claude's synthesis role is minimal:
+- Determine whether the query is about psak or conceptual content
+- Identify the closest match and flag if it is not an exact match
+- Order results by relevance
+- Frame results using the tier logic above
+
+Claude does **not**:
+- Summarize or paraphrase document content
+- Select illustrative quotes (retrieval does this)
+- Infer conclusions from source sheets or shiurim
+- Blend content across documents into a synthesized answer
+
+### Phases of Work
+
+| Phase | Description | Status |
+|---|---|---|
+| 1 | Design finalized | ✅ Done |
+| 2 | WordPress importer (library.yctorah.org + psak.yctorah.org) | Not started |
+| 3 | PDF/Word importer for personal material | Not started |
+| 4 | Chunking + embedding pipeline | Not started |
+| 5 | Editorial review interface | Not started |
+| 6 | Query API + response formatting | Not started |
+| 7 | Web UI (second tab in AskAnyDaf Vercel deployment) | Not started |
+
+Start with Phase 2 (WordPress content) since it's already accessible via API and represents the largest corpus. Personal material (Phase 3) requires upload infrastructure and is most valuable but most manual.

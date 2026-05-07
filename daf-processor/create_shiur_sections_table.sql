@@ -1,51 +1,59 @@
--- Run this once in the Supabase SQL editor after create_shiur_content_table.sql.
+-- AskAnyDaf: shiur_sections table (updated schema with talmudic_text, source_type, embedding)
+-- Run this in Supabase SQL Editor after upgrading to Pro.
+--
+-- Enable pgvector extension first (if not already enabled):
+--   CREATE EXTENSION IF NOT EXISTS vector;
+--
+-- If the table already exists from the old schema, drop and recreate:
+--   DROP TABLE IF EXISTS shiur_sections;
 
-create table if not exists shiur_sections (
-  id                    bigint generated always as identity primary key,
-  tractate              text    not null,
-  -- numeric(4,1): N.0 = amud aleph / whole-daf, N.5 = amud bet
-  daf                   numeric(4,1) not null,
-  segment_index         int     not null,   -- globally sequential within the daf (macro + micro)
-  parent_segment_index  int,               -- null = macro segment; int = micro (points to parent macro's segment_index)
-  title                 text    not null,   -- segment title (macro ≤25 chars; micro may be longer)
-  timestamp_mm_ss       text,               -- "MM:SS" — human-readable
-  timestamp_secs        float,              -- seconds — for seek() in the audio player
-  content               text,               -- written prose for this segment (from rewrite)
+CREATE TABLE IF NOT EXISTS shiur_sections (
+  id                   bigint GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+  tractate             text NOT NULL,
+  daf                  numeric(4,1) NOT NULL,   -- N.0 = amud aleph, N.5 = amud bet
+  segment_index        integer NOT NULL,
+  parent_segment_index integer,                 -- null = macro; int = micro (index of parent macro)
+  title                text,
+  timestamp_mm_ss      text,                    -- "MM:SS" human-readable
+  timestamp_secs       numeric,                 -- seconds, for audio seek
+  content              text,                    -- shiur lecture text
+  talmudic_text        text,                    -- Hebrew/Aramaic + English translation blockquote
+  source_type          text NOT NULL DEFAULT 'talmudic',
+                                                -- 'talmudic' | 'mishnah' | 'shiur_discussion'
+  embedding            vector(512),             -- text-embedding-3-small at 512 dims
+  updated_at           timestamptz DEFAULT now(),
 
-  updated_at            timestamptz not null default now(),
-
-  unique (tractate, daf, segment_index)
+  UNIQUE (tractate, daf, segment_index)
 );
 
--- Migration: add parent_segment_index to an existing table.
-alter table shiur_sections
-  add column if not exists parent_segment_index integer;
+-- Fast lookup by tractate/daf
+CREATE INDEX IF NOT EXISTS shiur_sections_tractate_daf_idx
+  ON shiur_sections (tractate, daf, segment_index);
 
--- Full-text search vector, auto-updated by trigger below.
--- Weights: title (A = highest), content (B).
-alter table shiur_sections
-  add column if not exists content_search tsvector
-    generated always as (
+-- Full-text search (title weighted higher than content)
+ALTER TABLE shiur_sections
+  ADD COLUMN IF NOT EXISTS content_search tsvector
+    GENERATED ALWAYS AS (
       setweight(to_tsvector('english', coalesce(title, '')), 'A') ||
       setweight(to_tsvector('english', coalesce(content, '')), 'B')
-    ) stored;
+    ) STORED;
 
--- GIN index makes full-text search fast even over thousands of sections.
-create index if not exists shiur_sections_search_idx
-  on shiur_sections using gin(content_search);
+CREATE INDEX IF NOT EXISTS shiur_sections_search_idx
+  ON shiur_sections USING gin (content_search);
 
--- Index for the most common app lookup: all sections for a given daf.
-create index if not exists shiur_sections_tractate_daf_idx
-  on shiur_sections (tractate, daf, segment_index);
+-- Cosine similarity vector search.
+-- Create AFTER bulk load completes (not before), so index builds on real data.
+-- Tune lists= based on row count: ~sqrt(row_count) is a good starting point.
+-- CREATE INDEX shiur_sections_embedding_idx
+--   ON shiur_sections USING ivfflat (embedding vector_cosine_ops) WITH (lists = 320);
 
--- Auto-update updated_at
-create trigger shiur_sections_updated_at
-  before update on shiur_sections
-  for each row execute function update_updated_at();  -- reuses function from shiur_content
+-- Row-level security: anon read, service-role writes
+ALTER TABLE shiur_sections ENABLE ROW LEVEL SECURITY;
 
--- Row-level security: public read, service-role writes.
-alter table shiur_sections enable row level security;
+CREATE POLICY "Public read access"
+  ON shiur_sections FOR SELECT
+  USING (true);
 
-create policy "Public read access"
-  on shiur_sections for select
-  using (true);
+-- After bulk load:
+-- ANALYZE shiur_sections;
+-- Then create the ivfflat index above.
