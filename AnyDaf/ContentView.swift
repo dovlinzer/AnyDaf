@@ -6,6 +6,11 @@ private enum IPadRightPanel: String {
     case study = "study"
 }
 
+/// Which content the iPhone main panel displays (replaces the old showShiurText Bool).
+private enum MainContentMode {
+    case daf, text, shiur
+}
+
 struct ContentView: View {
     @StateObject private var feedManager = FeedManager()
     @State private var audioPlayer = AudioPlayer()
@@ -30,7 +35,7 @@ struct ContentView: View {
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     @AppStorage("shiurShowSources") private var shiurShowSources: Bool = true
     @State private var showStudyMode = false
-    @State private var showShiurText = false
+    @State private var mainContentMode: MainContentMode = .daf
     @State private var showSettings = false
     @State private var showBookmarkList = false
     @State private var showBookmarkEdit = false
@@ -193,7 +198,8 @@ struct ContentView: View {
         .onChange(of: selectedDaf) { _, newDaf in
             guard audioPlayer.isStopped else { return }
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: newDaf) }
-            if horizontalSizeClass == .regular && iPadRightPanel == .study {
+            if (horizontalSizeClass == .regular && iPadRightPanel == .study)
+                || (horizontalSizeClass != .regular && mainContentMode == .text) {
                 Task {
                     await studyManager.startSession(
                         tractate: tractate.name, daf: Int(newDaf), mode: .facts, quizMode: quizMode)
@@ -204,7 +210,8 @@ struct ContentView: View {
             guard audioPlayer.isStopped else { return }
             shiurClient.reset()
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
-            if horizontalSizeClass == .regular && iPadRightPanel == .study {
+            if (horizontalSizeClass == .regular && iPadRightPanel == .study)
+                || (horizontalSizeClass != .regular && mainContentMode == .text) {
                 Task {
                     await studyManager.startSession(
                         tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
@@ -470,6 +477,9 @@ struct ContentView: View {
                 }
                 .padding(.horizontal)
                 .padding(.vertical, 10)
+                if audioPlayer.isStopped {
+                    shiurNavigationStrip
+                }
                 ShiurTextView(
                     rewriteText: text,
                     currentSegmentIndex: shiurClient.currentSegmentIndex,
@@ -503,8 +513,14 @@ struct ContentView: View {
 
             ZStack {
                 if !showStudyMode {
-                    dafAndShiurView
-                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    Group {
+                        if mainContentMode == .text {
+                            mainTextContent
+                        } else {
+                            dafAndShiurView
+                        }
+                    }
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
                 } else {
                     studyModeContent
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -541,47 +557,21 @@ struct ContentView: View {
                 )
                 .layoutPriority(1)
 
-            if shiurClient.shiurRewrite != nil {
-                HStack(spacing: 0) {
-                    ForEach([(false, "Daf"), (true, "Shiur")], id: \.0) { val, label in
-                        Button {
-                            showShiurText = val
-                        } label: {
-                            Text(label)
-                                .font(.footnote)
-                                .padding(.horizontal, 6)
-                                .padding(.vertical, 4)
-                                .background(
-                                    RoundedRectangle(cornerRadius: 14, style: .continuous)
-                                        .fill(showShiurText == val ? appFg.opacity(0.25) : Color.clear)
-                                )
-                        }
-                        .buttonStyle(.plain)
-                        .foregroundStyle(appFg)
-                    }
+            HStack(spacing: 0) {
+                contentModeButton("Daf",  mode: .daf)
+                contentModeButton("Text", mode: .text)
+                if shiurClient.shiurRewrite != nil {
+                    contentModeButton("Shiur", mode: .shiur)
                 }
-                .padding(.horizontal, 4)
-                .padding(.vertical, 4)
-                .background(
-                    RoundedRectangle(cornerRadius: 20, style: .continuous)
-                        .fill(appFg.opacity(0.07))
-                        .stroke(appFg.opacity(0.25), lineWidth: 1)
-                )
             }
+            .padding(.horizontal, 4)
+            .padding(.vertical, 4)
+            .background(
+                RoundedRectangle(cornerRadius: 20, style: .continuous)
+                    .fill(appFg.opacity(0.07))
+                    .stroke(appFg.opacity(0.25), lineWidth: 1)
+            )
 
-            if !audioPlayer.isStopped {
-                Button {
-                    withAnimation(.easeInOut(duration: 0.6)) { showStudyMode = true }
-                    Task {
-                        await studyManager.startSession(
-                            tractate: playingTractate.name, daf: Int(playingDaf), mode: .facts, quizMode: quizMode)
-                    }
-                } label: {
-                    Image(systemName: "book.circle.fill")
-                        .font(.system(size: 38))
-                        .foregroundStyle(appFg)
-                }
-            }
         }
         .padding(.horizontal, 8)
         .padding(.top, 4)
@@ -666,17 +656,78 @@ struct ContentView: View {
         .colorScheme(useWhiteBackground ? .light : .dark)
     }
 
+    /// Button used in the iPhone Daf/Text/Shiur toggle row.
+    private func contentModeButton(_ label: String, mode: MainContentMode) -> some View {
+        Button {
+            mainContentMode = mode
+            if mode == .text, studyManager.session == nil, !studyManager.isLoadingText {
+                Task {
+                    await studyManager.startSession(
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                }
+            }
+        } label: {
+            Text(label)
+                .font(.footnote)
+                .padding(.horizontal, 6)
+                .padding(.vertical, 4)
+                .background(
+                    RoundedRectangle(cornerRadius: 14, style: .continuous)
+                        .fill(mainContentMode == mode ? appFg.opacity(0.25) : Color.clear)
+                )
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(appFg)
+    }
+
     private var shiurDisplayText: String? {
         shiurShowSources
             ? (shiurClient.shiurFinal ?? shiurClient.shiurRewrite)
             : shiurClient.shiurRewrite
     }
 
+    // MARK: - Shiur Chapter Navigation Strip (shown when reading shiur without audio)
+
+    /// Chip strip for navigating shiur segments without audio playback.
+    /// Tapping a chip scrolls the shiur text to that macro segment.
+    @ViewBuilder private var shiurNavigationStrip: some View {
+        if !shiurClient.segments.isEmpty {
+            ScrollViewReader { proxy in
+                ScrollView(.horizontal, showsIndicators: false) {
+                    HStack(spacing: 6) {
+                        ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
+                            let isActive = idx == shiurClient.currentSegmentIndex
+                            Button {
+                                shiurClient.currentSegmentIndex = idx
+                            } label: {
+                                Text(seg.displayTitle)
+                                    .font(.caption2)
+                                    .lineLimit(1)
+                                    .padding(.horizontal, 8)
+                                    .padding(.vertical, 4)
+                                    .background(Capsule().fill(isActive ? appFg.opacity(0.85) : appFg.opacity(0.15)))
+                                    .foregroundStyle(isActive
+                                                     ? (useWhiteBackground ? .white : SplashView.background)
+                                                     : appFg.opacity(0.8))
+                            }
+                            .id(idx)
+                        }
+                    }
+                    .padding(.horizontal)
+                }
+                .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
+                    withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
+                }
+            }
+            .frame(height: 30)
+        }
+    }
+
     // MARK: - Daf / Shiur Content (iPhone — on iPad the toggle lives in the right column)
 
     @ViewBuilder private var dafAndShiurView: some View {
         VStack(spacing: 0) {
-            if showShiurText, let text = shiurDisplayText {
+            if mainContentMode == .shiur, let text = shiurDisplayText {
                 if !audioPlayer.isStopped {
                     HStack(spacing: 6) {
                         Image(systemName: "lock.fill")
@@ -689,6 +740,8 @@ struct ContentView: View {
                     }
                     .padding(.horizontal, 18)
                     .padding(.vertical, 5)
+                } else {
+                    shiurNavigationStrip
                 }
                 ShiurTextView(
                     rewriteText: text,
@@ -716,6 +769,19 @@ struct ContentView: View {
         }
     }
 
+    // MARK: - Main Page Text Content (iPhone only — Text tab moved here from Study page)
+
+    /// Shows the Sefaria daf text (with Source/Translation sub-tabs) in the main content area.
+    @ViewBuilder private var mainTextContent: some View {
+        StudyModeView(
+            manager: studyManager,
+            readAloudManager: readAloudManager,
+            isAudioPlaying: !audioPlayer.isStopped,
+            textOnly: true,
+            onDismiss: { }
+        )
+    }
+
     // MARK: - Study Mode Content
 
     @ViewBuilder private var studyModeContent: some View {
@@ -731,7 +797,15 @@ struct ContentView: View {
                     }
                 } else {
                     withAnimation(.easeInOut(duration: 0.5)) { showStudyMode = false }
-                    studyManager.endSession()
+                    if mainContentMode == .text {
+                        // Text mode owns the session — restart it so the main page text view stays live
+                        Task {
+                            await studyManager.startSession(
+                                tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                        }
+                    } else {
+                        studyManager.endSession()
+                    }
                 }
             }
         )

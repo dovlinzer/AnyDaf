@@ -126,13 +126,25 @@ VStack(spacing: 0) {
 |-------|-------------------------------|
 | Split screen (`collapsedSide != "right"`) | `compactPickers` pill at top of left column VStack |
 | Right panel collapsed (`collapsedSide == "right"`) | `compactPickers` in toolbar `.principal` slot |
-| iPhone | `pickerRow` HStack: pill (`compactPickers`) + daf/shiur toggle (if `shiurRewrite != nil`) + study icon (if audio playing) |
+| iPhone | `pickerRow` HStack: pill (`compactPickers`) + Daf/Text/Shiur toggle (Shiur only if `shiurRewrite != nil`) |
 
-`compactPickers` is the single source of truth for picker UI on all form factors — `.menu` style for tractate/daf, `.segmented` for amud. All `onChange` handlers live inside `compactPickers`. `pickerRow` wraps `compactPickers` in a pill border and places the daf/shiur toggle and study icon inline to the right. The toolbar `.principal` slot shows `compactPickers` directly (no pill border).
+`compactPickers` is the single source of truth for picker UI on all form factors — `.menu` style for tractate/daf, `.segmented` for amud. All `onChange` handlers live inside `compactPickers`. `pickerRow` wraps `compactPickers` in a pill border and places the Daf/Text/Shiur toggle inline to the right. The toolbar `.principal` slot shows `compactPickers` directly (no pill border).
 
-**iPhone `pickerRow` overflow:** When all three items are visible simultaneously (long tractate name + high daf + daf/shiur toggle + study icon), the row overflows. Font must stay at `.footnote` and HStack spacing at 8pt to keep total width under 390pt. Do not increase font or spacing without testing the worst-case combination (e.g. Bava Batra 157 + Shiur available + audio playing).
+### iPhone main content mode (iOS: `MainContentMode` enum; Android: `MainContentMode` private enum)
 
-**Do not restore `onChange(of: shiurClient.shiurRewrite)` that resets `showShiurText = false`.** It was removed intentionally — `shiurRewrite` briefly goes `nil` during loading when a new daf is selected, which was resetting the toggle to Daf mode even when the user wanted to stay in Shiur mode.
+The main content area on iPhone is controlled by `mainContentMode` (`.daf` / `.text` / `.shiur`), replacing the old `showShiurText: Bool`:
+
+- **Daf**: shows the daf image (default)
+- **Text**: shows `StudyModeView(textOnly: true)` / `StudyModeContent(textOnly = true)` — Sefaria translation, no tab pill, locked to tab 0. Study button hidden from bottom action row. Session auto-starts when Text mode is selected; restarts on daf/tractate change.
+- **Shiur**: shows the shiur rewrite text (only available when `shiurRewrite != nil`)
+
+The Study button at the bottom is hidden when audio is playing (`!audioPlayer.isStopped` / `!isAudioStopped`) **or** when in Text mode (user is already viewing study content).
+
+`StudyModeView` / `StudyModeContent` gains a `textOnly` flag:
+- When `true`: hides the header/tab pill, locks to tab 0 (Translation), hides prev/next nav buttons
+- When `false && !isInline` (phone full-screen Study mode): hides the Text tab from the tab row, initializes `selectedTab = 1` (Summary)
+
+**Do not restore `onChange(of: shiurClient.shiurRewrite)` that resets mode to `.daf`.** It was removed intentionally — `shiurRewrite` briefly goes `nil` during loading when a new daf is selected, which was resetting the toggle to Daf mode even when the user wanted to stay in Shiur mode. The existing guard `if shiurRewrite == null && mainContentMode == .shiur` handles only the Shiur→Daf fallback.
 
 ### Right column
 

@@ -110,6 +110,8 @@ import com.anydaf.viewmodel.PdfViewModel
 import com.anydaf.viewmodel.ResourcesViewModel
 import com.anydaf.viewmodel.StudySessionViewModel
 
+private enum class MainContentMode { DAF, TEXT, SHIUR }
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ContentScreen(
@@ -173,7 +175,7 @@ fun ContentScreen(
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
     val currentTime by audioViewModel.currentTime.collectAsState()
     val duration by audioViewModel.duration.collectAsState()
-    var showShiurText by remember { mutableStateOf(false) }
+    var mainContentMode by remember { mutableStateOf(MainContentMode.DAF) }
 
     val tractate = allTractates[selectedTractateIndex]
 
@@ -207,12 +209,19 @@ fun ContentScreen(
 
     // Fall back to Daf view automatically if the new daf has no shiur text.
     LaunchedEffect(shiurRewrite) {
-        if (shiurRewrite == null) showShiurText = false
+        if (shiurRewrite == null && mainContentMode == MainContentMode.SHIUR) mainContentMode = MainContentMode.DAF
     }
 
     // Reset study session when daf/tractate changes — skip when audio is playing.
+    // In Text mode, restart the session rather than ending it.
     LaunchedEffect(tractate.name, selectedDaf) {
-        if (isAudioStopped) studyViewModel.endSession()
+        if (isAudioStopped) {
+            if (mainContentMode == MainContentMode.TEXT) {
+                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+            } else {
+                studyViewModel.endSession()
+            }
+        }
     }
 
     // Keep the active chapter marker in sync with audio playback.
@@ -637,6 +646,39 @@ fun ContentScreen(
                                                     Icon(Icons.Default.Print, "Print", Modifier.size(18.dp), tint = appFg.copy(alpha = 0.5f))
                                                 }
                                             }
+                                            // Chapter navigation chips — when reading without audio
+                                            if (isAudioStopped && shiurSegments.isNotEmpty()) {
+                                                val stripListState = rememberLazyListState()
+                                                LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
+                                                LazyRow(
+                                                    state = stripListState,
+                                                    horizontalArrangement = Arrangement.spacedBy(6.dp),
+                                                    contentPadding = PaddingValues(horizontal = 12.dp),
+                                                    modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp)
+                                                ) {
+                                                    itemsIndexed(shiurSegments) { index, seg ->
+                                                        val isActive = index == shiurSegmentIndex
+                                                        Box(
+                                                            modifier = Modifier
+                                                                .clip(RoundedCornerShape(50))
+                                                                .background(
+                                                                    if (isActive) MaterialTheme.colorScheme.primary
+                                                                    else MaterialTheme.colorScheme.surfaceVariant
+                                                                )
+                                                                .clickable { ShiurClient.jumpToSegment(index) }
+                                                                .padding(horizontal = 10.dp, vertical = 4.dp)
+                                                        ) {
+                                                            Text(
+                                                                text = seg.displayTitle,
+                                                                style = MaterialTheme.typography.labelSmall,
+                                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                                maxLines = 1
+                                                            )
+                                                        }
+                                                    }
+                                                }
+                                            }
                                             CompositionLocalProvider(
                                                 LocalStudyFontSize provides studyFontSize.spSize.sp,
                                                 LocalIsBlueMode provides !useWhiteBackground
@@ -710,27 +752,47 @@ fun ContentScreen(
                         contentColor = appFg
                     )
                 }
-                // Daf / Shiur chips — stacked vertically to the right of picker box
-                if (shiurRewrite != null) {
-                    Spacer(Modifier.width(14.dp))
-                    Row(horizontalArrangement = Arrangement.spacedBy((-4).dp)) {
-                        FilterChip(
-                            selected = !showShiurText,
-                            onClick = { showShiurText = false },
-                            label = { Text("Daf") },
-                            colors = FilterChipDefaults.filterChipColors(
-                                labelColor = appFg,
-                                selectedLabelColor = appFg,
-                                selectedContainerColor = appFg.copy(alpha = 0.25f)
-                            ),
-                            border = FilterChipDefaults.filterChipBorder(
-                                enabled = true, selected = !showShiurText,
-                                borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
-                            )
+                // Daf / Text / Shiur chips
+                Spacer(Modifier.width(14.dp))
+                Row(horizontalArrangement = Arrangement.spacedBy((-4).dp)) {
+                    FilterChip(
+                        selected = mainContentMode == MainContentMode.DAF,
+                        onClick = { mainContentMode = MainContentMode.DAF },
+                        label = { Text("Daf") },
+                        colors = FilterChipDefaults.filterChipColors(
+                            labelColor = appFg,
+                            selectedLabelColor = appFg,
+                            selectedContainerColor = appFg.copy(alpha = 0.25f)
+                        ),
+                        border = FilterChipDefaults.filterChipBorder(
+                            enabled = true, selected = mainContentMode == MainContentMode.DAF,
+                            borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
                         )
+                    )
+                    FilterChip(
+                        selected = mainContentMode == MainContentMode.TEXT,
+                        onClick = {
+                            mainContentMode = MainContentMode.TEXT
+                            if (studyViewModel.session.value == null && !studyViewModel.isLoadingText.value) {
+                                resourcesViewModel.reset()
+                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+                            }
+                        },
+                        label = { Text("Text") },
+                        colors = FilterChipDefaults.filterChipColors(
+                            labelColor = appFg,
+                            selectedLabelColor = appFg,
+                            selectedContainerColor = appFg.copy(alpha = 0.25f)
+                        ),
+                        border = FilterChipDefaults.filterChipBorder(
+                            enabled = true, selected = mainContentMode == MainContentMode.TEXT,
+                            borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
+                        )
+                    )
+                    if (shiurRewrite != null) {
                         FilterChip(
-                            selected = showShiurText,
-                            onClick = { showShiurText = true },
+                            selected = mainContentMode == MainContentMode.SHIUR,
+                            onClick = { mainContentMode = MainContentMode.SHIUR },
                             label = { Text("Shiur") },
                             colors = FilterChipDefaults.filterChipColors(
                                 labelColor = appFg,
@@ -738,7 +800,7 @@ fun ContentScreen(
                                 selectedContainerColor = appFg.copy(alpha = 0.25f)
                             ),
                             border = FilterChipDefaults.filterChipBorder(
-                                enabled = true, selected = showShiurText,
+                                enabled = true, selected = mainContentMode == MainContentMode.SHIUR,
                                 borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
                             )
                         )
@@ -746,58 +808,112 @@ fun ContentScreen(
                 }
             }
 
-            // Main content area: daf image or lecture text
+            // Main content area: daf image, Sefaria text, or lecture text
             Box(modifier = Modifier.weight(1f).fillMaxWidth().background(appBg)) {
                 val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
-                if (showShiurText && shiurDisplayText != null) {
-                    Column(Modifier.fillMaxSize()) {
-                        if (!isAudioStopped) {
-                            Row(
-                                verticalAlignment = Alignment.CenterVertically,
-                                modifier = Modifier.padding(horizontal = 18.dp, vertical = 5.dp)
+                when {
+                    mainContentMode == MainContentMode.TEXT -> {
+                        StudyModeContent(
+                            studyViewModel = studyViewModel,
+                            bookmarkViewModel = bookmarkViewModel,
+                            contentViewModel = contentViewModel,
+                            resourcesViewModel = resourcesViewModel,
+                            textOnly = true,
+                            isAudioStopped = isAudioStopped,
+                            onStartStudy = {
+                                resourcesViewModel.reset()
+                                studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
+                            },
+                            onPrintTranslation = {
+                                val s = studyViewModel.session.value
+                                if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
+                            },
+                            modifier = Modifier.fillMaxSize()
+                        )
+                    }
+                    mainContentMode == MainContentMode.SHIUR && shiurDisplayText != null -> {
+                        Column(Modifier.fillMaxSize()) {
+                            if (!isAudioStopped) {
+                                Row(
+                                    verticalAlignment = Alignment.CenterVertically,
+                                    modifier = Modifier.padding(horizontal = 18.dp, vertical = 5.dp)
+                                ) {
+                                    Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = appFg.copy(alpha = 0.55f))
+                                    Spacer(Modifier.width(4.dp))
+                                    Text(
+                                        "${audioLockedTractate} ${audioLockedDaf.toInt()}",
+                                        style = MaterialTheme.typography.labelSmall,
+                                        color = appFg.copy(alpha = 0.55f)
+                                    )
+                                }
+                            } else if (shiurSegments.isNotEmpty()) {
+                                // Chapter navigation chips — visible when reading without audio
+                                val stripListState = rememberLazyListState()
+                                LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
+                                LazyRow(
+                                    state = stripListState,
+                                    horizontalArrangement = Arrangement.spacedBy(6.dp),
+                                    contentPadding = PaddingValues(horizontal = 16.dp),
+                                    modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp)
+                                ) {
+                                    itemsIndexed(shiurSegments) { index, seg ->
+                                        val isActive = index == shiurSegmentIndex
+                                        Box(
+                                            modifier = Modifier
+                                                .clip(RoundedCornerShape(50))
+                                                .background(
+                                                    if (isActive) MaterialTheme.colorScheme.primary
+                                                    else MaterialTheme.colorScheme.surfaceVariant
+                                                )
+                                                .clickable { ShiurClient.jumpToSegment(index) }
+                                                .padding(horizontal = 10.dp, vertical = 4.dp)
+                                        ) {
+                                            Text(
+                                                text = seg.displayTitle,
+                                                style = MaterialTheme.typography.labelSmall,
+                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
+                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                maxLines = 1
+                                            )
+                                        }
+                                    }
+                                }
+                            }
+                            CompositionLocalProvider(
+                                LocalStudyFontSize provides studyFontSize.spSize.sp,
+                                LocalIsBlueMode provides !useWhiteBackground
                             ) {
-                                Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = appFg.copy(alpha = 0.55f))
-                                Spacer(Modifier.width(4.dp))
-                                Text(
-                                    "${audioLockedTractate} ${audioLockedDaf.toInt()}",
-                                    style = MaterialTheme.typography.labelSmall,
-                                    color = appFg.copy(alpha = 0.55f)
+                                ShiurTextView(
+                                    rewriteText = shiurDisplayText,
+                                    currentSegmentIndex = shiurSegmentIndex,
+                                    modifier = Modifier.weight(1f).fillMaxWidth(),
+                                    onPrint = {
+                                        PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), shiurDisplayText), printFontSize, printLineSpacing)
+                                    }
                                 )
                             }
                         }
-                        CompositionLocalProvider(
-                            LocalStudyFontSize provides studyFontSize.spSize.sp,
-                            LocalIsBlueMode provides !useWhiteBackground
-                        ) {
-                            ShiurTextView(
-                                rewriteText = shiurDisplayText,
-                                currentSegmentIndex = shiurSegmentIndex,
-                                modifier = Modifier.weight(1f).fillMaxWidth(),
-                                onPrint = {
-                                    PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), shiurDisplayText), printFontSize, printLineSpacing)
-                                }
+                    }
+                    else -> {
+                        if (pdfViewModel.hasPages(tractate.name)) {
+                            DafPageView(
+                                tractate = tractate,
+                                daf = selectedDaf,
+                                amud = selectedAmud,
+                                pdfViewModel = pdfViewModel,
+                                onDafAmudChange = { newDaf, newAmud ->
+                                    contentViewModel.selectDaf(newDaf.toDouble())
+                                    contentViewModel.selectAmud(newAmud)
+                                },
+                                modifier = Modifier.fillMaxSize(),
+                                foregroundColor = appFg
                             )
                         }
                     }
-                } else {
-                    if (pdfViewModel.hasPages(tractate.name)) {
-                        DafPageView(
-                            tractate = tractate,
-                            daf = selectedDaf,
-                            amud = selectedAmud,
-                            pdfViewModel = pdfViewModel,
-                            onDafAmudChange = { newDaf, newAmud ->
-                                contentViewModel.selectDaf(newDaf.toDouble())
-                                contentViewModel.selectAmud(newAmud)
-                            },
-                            modifier = Modifier.fillMaxSize(),
-                            foregroundColor = appFg
-                        )
-                    }
                 }
 
-                // Action row overlaid at the bottom of the image — maximises image height
-                Row(
+                // Action row overlaid at the bottom of the image — hidden in Text mode
+                if (mainContentMode != MainContentMode.TEXT) Row(
                     modifier = Modifier
                         .align(Alignment.BottomCenter)
                         .fillMaxWidth()
@@ -832,13 +948,15 @@ fun ContentScreen(
                         }
                     }
 
-                    FilledTonalButton(
-                        onClick = { onStartStudy(playingTractate, playingDaf.toInt(), studyMode, quizMode) },
-                        modifier = Modifier.weight(1f)
-                    ) {
-                        Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))
-                        Spacer(Modifier.width(6.dp))
-                        Text("Study")
+                    if (isAudioStopped && mainContentMode != MainContentMode.TEXT) {
+                        FilledTonalButton(
+                            onClick = { onStartStudy(playingTractate, playingDaf.toInt(), studyMode, quizMode) },
+                            modifier = Modifier.weight(1f)
+                        ) {
+                            Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))
+                            Spacer(Modifier.width(6.dp))
+                            Text("Study")
+                        }
                     }
                 }
             }

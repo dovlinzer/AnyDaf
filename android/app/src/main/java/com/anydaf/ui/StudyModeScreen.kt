@@ -206,6 +206,7 @@ fun StudyModeContent(
     contentViewModel: ContentViewModel,
     resourcesViewModel: ResourcesViewModel,
     isInline: Boolean = false,
+    textOnly: Boolean = false,
     isAudioStopped: Boolean = true,
     onComplete: (() -> Unit)? = null,
     onStartStudy: (() -> Unit)? = null,
@@ -224,7 +225,11 @@ fun StudyModeContent(
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
 
-    var selectedTab by remember { mutableIntStateOf(0) }
+    // Phone Study mode (not textOnly, not inline): hide Text tab and start on Summary.
+    val isPhoneStudy = !textOnly && !isInline
+    val tabOffset = if (isPhoneStudy) 1 else 0
+    val displayTabs = if (isPhoneStudy) listOf("Summary", "Quiz", "Resources") else listOf("Text", "Summary", "Quiz", "Resources")
+    var selectedTab by remember { mutableIntStateOf(tabOffset) }
 
     LaunchedEffect(session?.currentSectionIndex) {
         if (selectedTab == 1 || selectedTab == 2) {
@@ -350,53 +355,73 @@ fun StudyModeContent(
                     }
                 }
                 sessionObj == null -> {
-                    if (isInline) {
+                    if (isInline || textOnly) {
+                        LaunchedEffect(Unit) { onStartStudy?.invoke() }
+                    }
+                    Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
+                }
+                sessionObj.isComplete -> {
+                    if (textOnly) {
                         LaunchedEffect(Unit) { onStartStudy?.invoke() }
                         Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
                     } else {
-                        Box(Modifier.fillMaxSize(), Alignment.Center) { CircularProgressIndicator() }
-                    }
-                }
-                sessionObj.isComplete -> {
-                    Box(Modifier.fillMaxSize(), Alignment.Center) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                            Text("Session complete!", style = MaterialTheme.typography.headlineMedium)
-                            Spacer(Modifier.height(16.dp))
-                            Button(onClick = {
-                                studyViewModel.endSession()
-                                onComplete?.invoke()
-                            }) { Text("Done") }
+                        Box(Modifier.fillMaxSize(), Alignment.Center) {
+                            Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                                Text("Session complete!", style = MaterialTheme.typography.headlineMedium)
+                                Spacer(Modifier.height(16.dp))
+                                Button(onClick = {
+                                    studyViewModel.endSession()
+                                    onComplete?.invoke()
+                                }) { Text("Done") }
+                            }
                         }
                     }
                 }
                 else -> {
-                    ScrollableTabRow(
-                        selectedTabIndex = selectedTab,
-                        edgePadding = 0.dp,
-                        indicator = { tabPositions ->
-                            TabRowDefaults.SecondaryIndicator(
-                                modifier = Modifier.tabIndicatorOffset(tabPositions[selectedTab]),
-                                height = 4.dp,
-                                color = Color(0xFF0059EA)
-                            )
-                        }
-                    ) {
-                        listOf("Text", "Summary", "Quiz", "Resources").forEachIndexed { index, title ->
-                            Tab(
-                                selected = selectedTab == index,
-                                onClick = {
-                                    selectedTab = index
-                                    if (index == 1 || index == 2) {
-                                        studyViewModel.loadStudyContentForCurrentSection()
-                                    }
-                                },
-                                text = { Text(title) }
-                            )
+                    // Section X/Y counter — always shown in textOnly mode (tab pill is hidden there)
+                    if (textOnly) {
+                        Text(
+                            "Section ${sessionObj.currentSectionIndex + 1} / ${sessionObj.sections.size}",
+                            style = MaterialTheme.typography.labelSmall,
+                            color = appFg.copy(alpha = 0.6f),
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(horizontal = 16.dp, vertical = 4.dp)
+                        )
+                    }
+
+                    if (!textOnly) {
+                        val displaySelectedTab = selectedTab - tabOffset
+                        ScrollableTabRow(
+                            selectedTabIndex = displaySelectedTab,
+                            edgePadding = 0.dp,
+                            indicator = { tabPositions ->
+                                TabRowDefaults.SecondaryIndicator(
+                                    modifier = Modifier.tabIndicatorOffset(tabPositions[displaySelectedTab]),
+                                    height = 4.dp,
+                                    color = Color(0xFF0059EA)
+                                )
+                            }
+                        ) {
+                            displayTabs.forEachIndexed { displayIndex, title ->
+                                val logicalTab = displayIndex + tabOffset
+                                Tab(
+                                    selected = selectedTab == logicalTab,
+                                    onClick = {
+                                        selectedTab = logicalTab
+                                        if (logicalTab == 1 || logicalTab == 2) {
+                                            studyViewModel.loadStudyContentForCurrentSection()
+                                        }
+                                    },
+                                    text = { Text(title) }
+                                )
+                            }
                         }
                     }
 
+                    val activeTab = if (textOnly) 0 else selectedTab
                     Box(modifier = Modifier.weight(1f)) {
-                        when (selectedTab) {
+                        when (activeTab) {
                             0 -> TranslationTab(
                                 section = currentSection,
                                 tractate = sessionObj.tractate,
@@ -428,7 +453,7 @@ fun StudyModeContent(
                             )
                         }
                         // Print button overlay — shown only on the Text tab when a print handler is wired
-                        if (selectedTab == 0 && onPrintTranslation != null) {
+                        if (activeTab == 0 && onPrintTranslation != null) {
                             val blueMode = LocalIsBlueMode.current
                             IconButton(
                                 onClick = onPrintTranslation,

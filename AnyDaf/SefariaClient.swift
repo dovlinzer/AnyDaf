@@ -390,7 +390,7 @@ class SefariaClient {
     /// `<i class="footnote">…</i>` blocks (including nested `<i>` tags).
     private static func stripFootnoteBlocks(_ html: String) -> String {
         // Remove <sup …>N</sup> footnote-marker spans (class attr varies)
-        var s = html.replacingOccurrences(
+        let s = html.replacingOccurrences(
             of: #"<sup\b[^>]*>[^<]*</sup>"#,
             with: "", options: .regularExpression)
 

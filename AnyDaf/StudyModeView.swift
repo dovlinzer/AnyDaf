@@ -25,6 +25,9 @@ struct StudyModeView: View {
     @ObservedObject var readAloudManager: ReadAloudManager
     @ObservedObject private var resourcesManager = ResourcesManager.shared
     var isAudioPlaying: Bool = false
+    /// When true, shows only the Text (Translation) tab in the main content area.
+    /// The header and tab pill are suppressed; used for the iPhone main-page text view.
+    var textOnly: Bool = false
     let onDismiss: () -> Void
     @State private var quizzedSectionIndices: Set<Int> = []
     /// Owned here so it survives loading-state transitions that unmount SectionStudyView.
@@ -44,7 +47,9 @@ struct StudyModeView: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            header
+            if !textOnly {
+                header
+            }
 
             // Read-Aloud (commented out — re-enable when ready)
 //            if readAloudManager.isActive {
@@ -68,7 +73,9 @@ struct StudyModeView: View {
                         isLoadingContent: manager.isLoadingStudyContent,
                         isRateLimited: manager.isRateLimited,
                         rateLimitCountdown: manager.rateLimitCountdown,
-                        selectedTab: $selectedTab,
+                        selectedTab: textOnly ? .constant(0) : $selectedTab,
+                        showTabPill: !textOnly,
+                        showTextTab: horizontalSizeClass == .regular,
                         // Adjacent-daf context for mid-sentence continuations
                         precedingContext: session.currentSectionIndex == 0
                             ? session.precedingContext : nil,
@@ -162,6 +169,12 @@ struct StudyModeView: View {
         .background(studyBg)
         .environment(\.studyFg, studyFg)
         .environment(\.studyCardFill, studyCardFill)
+        .onAppear {
+            // On iPhone, the Text tab has moved to the main page — start Study on Summary instead.
+            if !textOnly && horizontalSizeClass != .regular && selectedTab == 0 {
+                selectedTab = 1
+            }
+        }
         // Article reader — overlay here so it covers the custom header row too.
         .overlay {
             if let article = selectedArticle {
@@ -436,6 +449,10 @@ struct SectionStudyView: View {
     let rateLimitCountdown: Int
     /// 0 = Translation, 1 = Summary, 2 = Quiz. Owned by StudyModeView so it survives transitions.
     @Binding var selectedTab: Int
+    /// When false, the entire tab pill is hidden (used for the iPhone main-page text-only view).
+    var showTabPill: Bool = true
+    /// When false, the Text tab button is hidden from the pill (iPhone study mode — Text moved to main page).
+    var showTextTab: Bool = true
     /// Tail of the previous daf — non-nil only for the very first section when it starts mid-sentence.
     let precedingContext: String?
     /// Head of the next daf — non-nil only for the very last section when it ends mid-sentence.
@@ -493,19 +510,23 @@ struct SectionStudyView: View {
 //                        }
                 }
 
-                // Translation / Summary / Quiz / Resources tab pill
-                HStack(spacing: 0) {
-                    tabPillButton("Text",      tag: 0)
-                    tabPillButton("Summary",   tag: 1)
-                    tabPillButton("Quiz",      tag: 2)
-                    tabPillButton("Resources", tag: 3)
+                // Tab pill — hidden in text-only mode; Text tab hidden on iPhone (moved to main page)
+                if showTabPill {
+                    HStack(spacing: 0) {
+                        if showTextTab {
+                            tabPillButton("Text",      tag: 0)
+                        }
+                        tabPillButton("Summary",   tag: 1)
+                        tabPillButton("Quiz",      tag: 2)
+                        tabPillButton("Resources", tag: 3)
+                    }
+                    .padding(.trailing, 8)
+                    .background(
+                        RoundedRectangle(cornerRadius: 10)
+                            .stroke(fg.opacity(0.22), lineWidth: 0.5)
+                    )
+                    .padding(.horizontal, 4)
                 }
-                .padding(.trailing, 8)
-                .background(
-                    RoundedRectangle(cornerRadius: 10)
-                        .stroke(fg.opacity(0.22), lineWidth: 0.5)
-                )
-                .padding(.horizontal, 4)
             }
             .padding([.horizontal, .top])
             .padding(.bottom, 8)

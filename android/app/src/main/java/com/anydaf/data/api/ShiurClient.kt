@@ -141,6 +141,11 @@ object ShiurClient {
         }
     }
 
+    /** Jump directly to a segment by index (used for shiur-text navigation without audio). */
+    fun jumpToSegment(index: Int) {
+        _currentSegmentIndex.value = index.coerceIn(0, (_segments.value.size - 1).coerceAtLeast(0))
+    }
+
     /** Update currentSegmentIndex based on the audio's current playback position. */
     fun updateCurrentSegment(currentTimeSecs: Float) {
         val segs = _segments.value
