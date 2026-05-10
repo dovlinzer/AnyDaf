@@ -3,26 +3,23 @@
 Daf Yomi Shiur Processor
 Converts SRT lecture transcripts into formatted, source-annotated written essays.
 
-Three passes:
-  1. Segmentation  (Haiku)  — SRT → JSON outline with macro/micro segments and topical tags
-  2. Rewrite       (Sonnet) — SRT + outline → polished written essay
-  3. Source insert (Haiku)  — essay + Sefaria text → essay with daf passages inserted
+Four passes + amud B detection:
+  1.   Segmentation  (Haiku)  — SRT → JSON outline
+  2.   Rewrite       (Sonnet) — SRT + outline → essay (Hebrew/Aramaic translated to English)
+  2.5. Cleanup       (Sonnet) — essay → essay with direct-quote Aramaic hidden in HTML comments
+  3.   Source insert (Haiku)  — essay + Sefaria text → final essay with blockquotes inserted
+                                and HTML comments stripped
+  B.   Amud B detect (local)  — finds amud B boundary in 01_segmentation.json
 
 Usage examples:
   # Single file, direct API:
-  python main.py rdldafyomimenachot79.srt
-
-  # Directory of SRTs, batch API (default), resume interrupted run:
-  python main.py ./srt_files/ --resume
-
-  # Direct API (skips batch, useful for single files or quick testing):
   python main.py rdldafyomimenachot79.srt --no-batch
 
-  # Override daf identification (for non-standard filenames):
-  python main.py mylecture.srt --masechta Menachot --daf 79
+  # Run only cleanup + source insertion (passes 2 and 2.5 already done):
+  python main.py rdldafyomimenachot79.srt --no-batch --passes 3
 
-  # Run only the rewrite pass (assumes segmentation already done):
-  python main.py ./srt_files/ --passes 2
+  # Run only the cleanup pass:
+  python main.py rdldafyomimenachot79.srt --no-batch --passes 2.5
 """
 
 import argparse
@@ -72,11 +69,11 @@ def main():
         help='Override amud (a or b) when a shiur covers only one side of a daf (use with single-file input)',
     )
     parser.add_argument(
-        '--passes', choices=['all', '1', '2', '3'], default='all',
+        '--passes', choices=['all', '1', '2', '2.5', '3'], default='all',
         help=(
             'Which pass(es) to run: all (default), 1=segmentation, '
-            '2=rewrite, 3=source insertion. '
-            'Passes 2 and 3 require previous pass output to exist.'
+            '2=rewrite, 2.5=cleanup, 3=source insertion. '
+            'Each pass requires the previous pass output to exist.'
         ),
     )
     parser.add_argument(

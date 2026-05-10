@@ -41,7 +41,6 @@ import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.ArrowDropDown
-import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.Today
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.FilterChipDefaults
@@ -170,6 +169,11 @@ fun ContentScreen(
     val isLoadingFeed by FeedManager.isLoading.collectAsState()
     val shiurSegments by ShiurClient.segments.collectAsState()
     val shiurSegmentIndex by ShiurClient.currentSegmentIndex.collectAsState()
+    val audioSegments by ShiurClient.audioSegments.collectAsState()
+    val audioSegmentIndex by ShiurClient.audioCurrentSegmentIndex.collectAsState()
+    val amudBSegmentIndex by ShiurClient.amudBSegmentIndex.collectAsState()
+    val amudBSeconds by ShiurClient.amudBSeconds.collectAsState()
+    val amudBMicroTitle by ShiurClient.amudBMicroTitle.collectAsState()
     val shiurRewrite by ShiurClient.shiurRewrite.collectAsState()
     val shiurFinal by ShiurClient.shiurFinal.collectAsState()
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
@@ -183,50 +187,53 @@ fun ContentScreen(
     var audioLockedTractate by remember { mutableStateOf(tractate.name) }
     var audioLockedDaf by remember { mutableStateOf(selectedDaf) }
 
-    // Tractate/daf to display and use for study sessions (locked to playing daf while audio plays).
-    val playingTractate = if (isAudioStopped) tractate.name else audioLockedTractate
-    val playingDaf = if (isAudioStopped) selectedDaf else audioLockedDaf
-
     // Always load on first appearance — mirrors iOS onAppear (no audio guard needed here).
     LaunchedEffect(Unit) {
         ShiurClient.load(tractate.name, selectedDaf)
     }
 
-    // Reload when daf/tractate changes — skip when audio is playing (locked to playing daf).
+    // Reload whenever daf/tractate changes, regardless of audio state.
     LaunchedEffect(tractate.name, selectedDaf) {
-        if (isAudioStopped) ShiurClient.load(tractate.name, selectedDaf)
+        ShiurClient.load(tractate.name, selectedDaf)
     }
 
-    // When audio starts, freeze the locked daf. When it stops, sync to selected daf.
+    // When audio starts, freeze the locked daf and snapshot the audio segments.
     LaunchedEffect(isAudioStopped) {
         if (!isAudioStopped) {
             audioLockedTractate = tractate.name
             audioLockedDaf = selectedDaf
-        } else {
-            ShiurClient.load(tractate.name, selectedDaf)
+            ShiurClient.snapshotAudioSegments()
         }
     }
 
-    // Fall back to Daf view automatically if the new daf has no shiur text.
-    LaunchedEffect(shiurRewrite) {
-        if (shiurRewrite == null && mainContentMode == MainContentMode.SHIUR) mainContentMode = MainContentMode.DAF
-    }
-
-    // Reset study session when daf/tractate changes — skip when audio is playing.
+    // Reset study session when daf/tractate changes — always follow the selector.
     // In Text mode, restart the session rather than ending it.
     LaunchedEffect(tractate.name, selectedDaf) {
-        if (isAudioStopped) {
-            if (mainContentMode == MainContentMode.TEXT) {
-                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
-            } else {
-                studyViewModel.endSession()
-            }
+        if (mainContentMode == MainContentMode.TEXT) {
+            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+        } else {
+            studyViewModel.endSession()
         }
     }
 
-    // Keep the active chapter marker in sync with audio playback.
+    // Drive audioCurrentSegmentIndex from playback position — always fires regardless of which
+    // daf is selected, since updateCurrentSegment only touches audioCurrentSegmentIndex.
     LaunchedEffect(currentTime) {
         ShiurClient.updateCurrentSegment(currentTime)
+    }
+    // Mirror audio position into shiur text only when viewing the same daf that is playing.
+    LaunchedEffect(audioSegmentIndex) {
+        if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
+            ShiurClient.jumpToSegment(audioSegmentIndex)
+        }
+    }
+    // Sync the a/b picker to the shiur's actual segment position when in Shiur mode,
+    // both on mode entry and as the segment changes (e.g. audio crossing the amud B boundary).
+    LaunchedEffect(mainContentMode, shiurSegmentIndex, amudBSegmentIndex) {
+        if (mainContentMode != MainContentMode.SHIUR) return@LaunchedEffect
+        val bIdx = amudBSegmentIndex ?: return@LaunchedEffect
+        val correctAmud = if (shiurSegmentIndex >= bIdx) 1 else 0
+        if (correctAmud != selectedAmud) contentViewModel.selectAmud(correctAmud)
     }
     // Auto-refresh episode index when SoundCloud stream resolution fails, then retry once.
     val resolutionFailed by audioViewModel.resolutionFailed.collectAsState()
@@ -320,7 +327,19 @@ fun ContentScreen(
                             tractate = tractate,
                             episodeIndex = episodeIndex,
                             contentViewModel = contentViewModel,
-                            contentColor = appFg
+                            contentColor = appFg,
+                            onAmudChange = { newAmud ->
+                                val bIdx = amudBSegmentIndex
+                                if (bIdx != null) {
+                                    ShiurClient.jumpToSegment(if (newAmud == 1) bIdx else 0)
+                                    if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
+                                        val seekSecs = if (newAmud == 1)
+                                            amudBSeconds?.toFloat() ?: shiurSegments.getOrNull(bIdx)?.seconds?.toFloat()
+                                        else 0f
+                                        if (seekSecs != null) audioViewModel.seekToSeconds(seekSecs)
+                                    }
+                                }
+                            }
                         )
                     }
                 } else {
@@ -420,7 +439,17 @@ fun ContentScreen(
                                         tractate = tractate,
                                         episodeIndex = episodeIndex,
                                         contentViewModel = contentViewModel,
-                                        contentColor = appFg
+                                        contentColor = appFg,
+                                        onAmudChange = { newAmud ->
+                                            amudBSegmentIndex?.let { bIdx ->
+                                                ShiurClient.jumpToSegment(if (newAmud == 1) bIdx else 0)
+                                            }
+                                            if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
+                                                amudBSeconds?.let { bSecs ->
+                                                    audioViewModel.seekToSeconds(if (newAmud == 1) bSecs.toFloat() else 0f)
+                                                }
+                                            }
+                                        }
                                     )
                                 }
                             } // Row (centering)
@@ -442,32 +471,31 @@ fun ContentScreen(
                             }
                         }
                         if (!isAudioStopped) {
-                            if (shiurSegments.isNotEmpty() && duration > 0f) {
+                            if (audioSegments.isNotEmpty() && duration > 0f) {
                                 val stripListState = rememberLazyListState()
-                                LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
+                                LaunchedEffect(audioSegmentIndex) { stripListState.animateScrollToItem(audioSegmentIndex) }
                                 LazyRow(
                                     state = stripListState,
                                     horizontalArrangement = Arrangement.spacedBy(6.dp),
                                     contentPadding = PaddingValues(horizontal = 4.dp),
                                     modifier = Modifier.fillMaxWidth()
                                 ) {
-                                    itemsIndexed(shiurSegments) { index, seg ->
-                                        val isActive = index == shiurSegmentIndex
+                                    itemsIndexed(audioSegments) { index, seg ->
+                                        val isActive = index == audioSegmentIndex
                                         Box(
                                             modifier = Modifier
                                                 .clip(RoundedCornerShape(50))
-                                                .background(
-                                                    if (isActive) MaterialTheme.colorScheme.primary
-                                                    else MaterialTheme.colorScheme.surfaceVariant
-                                                )
-                                                .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
+                                                .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
+                                                .clickable {
+                                                    audioViewModel.seekToSeconds(seg.seconds.toFloat())
+                                                    ShiurClient.jumpToAudioSegment(index)
+                                                }
                                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                                         ) {
                                             Text(
                                                 text = seg.displayTitle,
                                                 style = MaterialTheme.typography.labelSmall,
-                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                color = if (isActive) { if (useWhiteBackground) Color.White else AppBlue } else appFg.copy(alpha = 0.8f),
                                                 maxLines = 1
                                             )
                                         }
@@ -485,7 +513,9 @@ fun ContentScreen(
                                     onClick = {
                                         val url = audioUrl ?: return@FilledTonalButton
                                         hasAutoRefreshedForAudio = false
-                                        audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                                        val startAt = shiurSegments.getOrNull(shiurSegmentIndex)
+                                            ?.takeIf { shiurSegmentIndex > 0 }?.seconds?.toFloat() ?: 0f
+                                        audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}", startAt)
                                     },
                                     enabled = hasAudio,
                                     colors = ButtonDefaults.filledTonalButtonColors(
@@ -625,12 +655,8 @@ fun ContentScreen(
                                                 verticalAlignment = Alignment.CenterVertically,
                                                 modifier = Modifier.padding(start = 16.dp, end = 4.dp, top = 6.dp, bottom = 6.dp)
                                             ) {
-                                                if (!isAudioStopped) {
-                                                    Icon(Icons.Default.Lock, null, Modifier.size(14.dp), tint = appFg.copy(alpha = 0.55f))
-                                                    Spacer(Modifier.width(6.dp))
-                                                }
                                                 Text(
-                                                    "${playingTractate} ${playingDaf.toInt()}",
+                                                    "${tractate.name} ${selectedDaf.toInt()}",
                                                     style = MaterialTheme.typography.titleMedium.copy(fontWeight = androidx.compose.ui.text.font.FontWeight.Bold),
                                                     color = appFg,
                                                     modifier = Modifier.weight(1f)
@@ -639,15 +665,15 @@ fun ContentScreen(
                                                 IconButton(
                                                     onClick = {
                                                         val txt = shiurDisplayForPrint
-                                                        if (txt != null) PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), txt), printFontSize, printLineSpacing)
+                                                        if (txt != null) PrintHelper.print(context, PrintableContent.Shiur(tractate.name, selectedDaf.toInt().toString(), txt), printFontSize, printLineSpacing)
                                                     },
                                                     modifier = Modifier.size(36.dp)
                                                 ) {
                                                     Icon(Icons.Default.Print, "Print", Modifier.size(18.dp), tint = appFg.copy(alpha = 0.5f))
                                                 }
                                             }
-                                            // Chapter navigation chips — when reading without audio
-                                            if (isAudioStopped && shiurSegments.isNotEmpty()) {
+                                            // Chapter navigation chips — always visible
+                                            if (shiurSegments.isNotEmpty()) {
                                                 val stripListState = rememberLazyListState()
                                                 LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
                                                 LazyRow(
@@ -661,18 +687,14 @@ fun ContentScreen(
                                                         Box(
                                                             modifier = Modifier
                                                                 .clip(RoundedCornerShape(50))
-                                                                .background(
-                                                                    if (isActive) MaterialTheme.colorScheme.primary
-                                                                    else MaterialTheme.colorScheme.surfaceVariant
-                                                                )
+                                                                .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
                                                                 .clickable { ShiurClient.jumpToSegment(index) }
                                                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                                                         ) {
                                                             Text(
                                                                 text = seg.displayTitle,
                                                                 style = MaterialTheme.typography.labelSmall,
-                                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                                color = if (isActive) { if (useWhiteBackground) Color.White else AppBlue } else appFg.copy(alpha = 0.8f),
                                                                 maxLines = 1
                                                             )
                                                         }
@@ -686,7 +708,10 @@ fun ContentScreen(
                                                 ShiurTextView(
                                                     rewriteText = shiurDisplayText,
                                                     currentSegmentIndex = shiurSegmentIndex,
-                                                    modifier = Modifier.weight(1f).fillMaxWidth()
+                                                    modifier = Modifier.weight(1f).fillMaxWidth(),
+                                                    amudBSegmentIndex = amudBSegmentIndex,
+                                                    amudBMicroTitle = amudBMicroTitle,
+                                                    onSegmentVisible = { idx -> ShiurClient.jumpToSegment(idx) }
                                                 )
                                             }
                                         }
@@ -708,7 +733,7 @@ fun ContentScreen(
                                         isAudioStopped = isAudioStopped,
                                         onStartStudy = {
                                             resourcesViewModel.reset()
-                                            studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
+                                            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
                                         },
                                         onPrintTranslation = {
                                             val s = studyViewModel.session.value
@@ -749,7 +774,17 @@ fun ContentScreen(
                         tractate = tractate,
                         episodeIndex = episodeIndex,
                         contentViewModel = contentViewModel,
-                        contentColor = appFg
+                        contentColor = appFg,
+                        onAmudChange = { newAmud ->
+                            amudBSegmentIndex?.let { bIdx ->
+                                ShiurClient.jumpToSegment(if (newAmud == 1) bIdx else 0)
+                            }
+                            if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
+                                amudBSeconds?.let { bSecs ->
+                                    audioViewModel.seekToSeconds(if (newAmud == 1) bSecs.toFloat() else 0f)
+                                }
+                            }
+                        }
                     )
                 }
                 // Daf / Text / Shiur chips
@@ -822,7 +857,7 @@ fun ContentScreen(
                             isAudioStopped = isAudioStopped,
                             onStartStudy = {
                                 resourcesViewModel.reset()
-                                studyViewModel.startSession(playingTractate, playingDaf.toInt(), studyMode, quizMode)
+                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
                             },
                             onPrintTranslation = {
                                 val s = studyViewModel.session.value
@@ -833,21 +868,8 @@ fun ContentScreen(
                     }
                     mainContentMode == MainContentMode.SHIUR && shiurDisplayText != null -> {
                         Column(Modifier.fillMaxSize()) {
-                            if (!isAudioStopped) {
-                                Row(
-                                    verticalAlignment = Alignment.CenterVertically,
-                                    modifier = Modifier.padding(horizontal = 18.dp, vertical = 5.dp)
-                                ) {
-                                    Icon(Icons.Default.Lock, null, Modifier.size(12.dp), tint = appFg.copy(alpha = 0.55f))
-                                    Spacer(Modifier.width(4.dp))
-                                    Text(
-                                        "${audioLockedTractate} ${audioLockedDaf.toInt()}",
-                                        style = MaterialTheme.typography.labelSmall,
-                                        color = appFg.copy(alpha = 0.55f)
-                                    )
-                                }
-                            } else if (shiurSegments.isNotEmpty()) {
-                                // Chapter navigation chips — visible when reading without audio
+                            if (shiurSegments.isNotEmpty()) {
+                                // Chapter navigation chips — always visible in shiur mode
                                 val stripListState = rememberLazyListState()
                                 LaunchedEffect(shiurSegmentIndex) { stripListState.animateScrollToItem(shiurSegmentIndex) }
                                 LazyRow(
@@ -861,18 +883,14 @@ fun ContentScreen(
                                         Box(
                                             modifier = Modifier
                                                 .clip(RoundedCornerShape(50))
-                                                .background(
-                                                    if (isActive) MaterialTheme.colorScheme.primary
-                                                    else MaterialTheme.colorScheme.surfaceVariant
-                                                )
+                                                .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
                                                 .clickable { ShiurClient.jumpToSegment(index) }
                                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                                         ) {
                                             Text(
                                                 text = seg.displayTitle,
                                                 style = MaterialTheme.typography.labelSmall,
-                                                color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                                        else MaterialTheme.colorScheme.onSurfaceVariant,
+                                                color = if (isActive) { if (useWhiteBackground) Color.White else AppBlue } else appFg.copy(alpha = 0.8f),
                                                 maxLines = 1
                                             )
                                         }
@@ -887,9 +905,12 @@ fun ContentScreen(
                                     rewriteText = shiurDisplayText,
                                     currentSegmentIndex = shiurSegmentIndex,
                                     modifier = Modifier.weight(1f).fillMaxWidth(),
+                                    amudBSegmentIndex = amudBSegmentIndex,
+                                    amudBMicroTitle = amudBMicroTitle,
                                     onPrint = {
-                                        PrintHelper.print(context, PrintableContent.Shiur(playingTractate, playingDaf.toInt().toString(), shiurDisplayText), printFontSize, printLineSpacing)
-                                    }
+                                        PrintHelper.print(context, PrintableContent.Shiur(tractate.name, selectedDaf.toInt().toString(), shiurDisplayText), printFontSize, printLineSpacing)
+                                    },
+                                    onSegmentVisible = { idx -> ShiurClient.jumpToSegment(idx) }
                                 )
                             }
                         }
@@ -927,7 +948,9 @@ fun ContentScreen(
                             onClick = {
                                 val url = audioUrl ?: return@FilledTonalButton
                                 hasAutoRefreshedForAudio = false
-                                audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}")
+                                val startAt = shiurSegments.getOrNull(shiurSegmentIndex)
+                                    ?.takeIf { shiurSegmentIndex > 0 }?.seconds?.toFloat() ?: 0f
+                                audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}", startAt)
                             },
                             enabled = hasAudio,
                             modifier = Modifier.weight(1f),
@@ -950,7 +973,7 @@ fun ContentScreen(
 
                     if (isAudioStopped && mainContentMode != MainContentMode.TEXT) {
                         FilledTonalButton(
-                            onClick = { onStartStudy(playingTractate, playingDaf.toInt(), studyMode, quizMode) },
+                            onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
                             modifier = Modifier.weight(1f)
                         ) {
                             Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))
@@ -963,10 +986,10 @@ fun ContentScreen(
 
             // Audio player bar and chapter strip — shown below the daf
             if (!isAudioStopped) {
-                if (shiurSegments.isNotEmpty() && duration > 0f) {
+                if (audioSegments.isNotEmpty() && duration > 0f) {
                     val stripListState = rememberLazyListState()
-                    LaunchedEffect(shiurSegmentIndex) {
-                        stripListState.animateScrollToItem(shiurSegmentIndex)
+                    LaunchedEffect(audioSegmentIndex) {
+                        stripListState.animateScrollToItem(audioSegmentIndex)
                     }
                     LazyRow(
                         state = stripListState,
@@ -974,23 +997,22 @@ fun ContentScreen(
                         contentPadding = PaddingValues(horizontal = 16.dp),
                         modifier = Modifier.fillMaxWidth()
                     ) {
-                        itemsIndexed(shiurSegments) { index, seg ->
-                            val isActive = index == shiurSegmentIndex
+                        itemsIndexed(audioSegments) { index, seg ->
+                            val isActive = index == audioSegmentIndex
                             Box(
                                 modifier = Modifier
                                     .clip(RoundedCornerShape(50))
-                                    .background(
-                                        if (isActive) MaterialTheme.colorScheme.primary
-                                        else MaterialTheme.colorScheme.surfaceVariant
-                                    )
-                                    .clickable { audioViewModel.seekToSeconds(seg.seconds.toFloat()) }
+                                    .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
+                                    .clickable {
+                                        audioViewModel.seekToSeconds(seg.seconds.toFloat())
+                                        ShiurClient.jumpToAudioSegment(index)
+                                    }
                                     .padding(horizontal = 10.dp, vertical = 4.dp)
                             ) {
                                 androidx.compose.material3.Text(
                                     text = seg.displayTitle,
                                     style = MaterialTheme.typography.labelSmall,
-                                    color = if (isActive) MaterialTheme.colorScheme.onPrimary
-                                            else MaterialTheme.colorScheme.onSurfaceVariant,
+                                    color = if (isActive) { if (useWhiteBackground) Color.White else AppBlue } else appFg.copy(alpha = 0.8f),
                                     maxLines = 1
                                 )
                             }
@@ -1176,7 +1198,8 @@ private fun CompactTabletPickers(
     tractate: com.anydaf.model.Tractate,
     episodeIndex: Map<String, Map<Double, String>>,
     contentViewModel: ContentViewModel,
-    contentColor: Color = Color.Unspecified
+    contentColor: Color = Color.Unspecified,
+    onAmudChange: ((Int) -> Unit)? = null
 ) {
     var tractateExpanded by remember { mutableStateOf(false) }
     var dafExpanded by remember { mutableStateOf(false) }
@@ -1353,14 +1376,27 @@ private fun CompactTabletPickers(
                               else MaterialTheme.colorScheme.outline
         val amudTextColor = if (useCustomColor) contentColor
                             else MaterialTheme.colorScheme.onSurface
-        Box(
-            contentAlignment = Alignment.Center,
+        Row(
             modifier = Modifier
-                .clip(RoundedCornerShape(50))
-                .clickable { contentViewModel.selectAmud(if (selectedAmud == 0) 1 else 0) }
-                .padding(horizontal = 10.dp, vertical = 8.dp)
+                .clip(RoundedCornerShape(6.dp))
+                .background(amudBorderColor.copy(alpha = 0.15f)),
+            verticalAlignment = Alignment.CenterVertically
         ) {
-            Text(if (selectedAmud == 0) "a" else "b", color = amudTextColor, fontSize = 14.sp, fontWeight = FontWeight.Normal)
+            listOf(0 to "a", 1 to "b").forEach { (amud, label) ->
+                Box(
+                    contentAlignment = Alignment.Center,
+                    modifier = Modifier
+                        .clip(RoundedCornerShape(6.dp))
+                        .background(if (selectedAmud == amud) amudBorderColor.copy(alpha = 0.5f) else Color.Transparent)
+                        .clickable {
+                            contentViewModel.selectAmud(amud)
+                            onAmudChange?.invoke(amud)
+                        }
+                        .padding(horizontal = 8.dp, vertical = 4.dp)
+                ) {
+                    Text(label, color = amudTextColor, fontSize = 14.sp, fontWeight = if (selectedAmud == amud) FontWeight.SemiBold else FontWeight.Normal)
+                }
+            }
         }
     }
 }

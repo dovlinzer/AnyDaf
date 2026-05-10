@@ -23,6 +23,7 @@ class AudioPlayer {
     private var nowPlayingTitle = ""
     private var routeChangeObserver: NSObjectProtocol?
     private var currentPlayTask: Task<Void, Never>?
+    private var startAtSeconds: Double = 0
 
     init() {
         setupRemoteCommands()
@@ -31,11 +32,12 @@ class AudioPlayer {
 
     // MARK: - Public API
 
-    func play(url: URL, title: String = "") {
+    func play(url: URL, title: String = "", startAt: Double = 0) {
         stop()
         resolutionFailed = false
         isStopped = false
         nowPlayingTitle = title
+        startAtSeconds = startAt
         isBuffering = true
 
         if url.scheme == "soundcloud-track", let trackID = url.host {
@@ -223,10 +225,24 @@ class AudioPlayer {
                     self.isBuffering = false
                     let secs = item.duration.seconds
                     self.duration = secs.isFinite ? secs : 0
-                    p.rate = self.playbackRate   // start at stored rate (non-zero = plays)
-                    self.isPlaying = true
-                    UIApplication.shared.isIdleTimerDisabled = true
-                    self.updateNowPlaying()
+                    let rate = self.playbackRate
+                    let startAt = self.startAtSeconds
+                    if startAt > 0 {
+                        p.seek(to: CMTime(seconds: startAt, preferredTimescale: 600)) { _ in
+                            Task { @MainActor [weak self] in
+                                guard let self, !self.isStopped else { return }
+                                p.rate = rate
+                                self.isPlaying = true
+                                UIApplication.shared.isIdleTimerDisabled = true
+                                self.updateNowPlaying()
+                            }
+                        }
+                    } else {
+                        p.rate = rate
+                        self.isPlaying = true
+                        UIApplication.shared.isIdleTimerDisabled = true
+                        self.updateNowPlaying()
+                    }
                 }
             }
             .store(in: &cancellables)
@@ -250,7 +266,12 @@ class AudioPlayer {
             Task { @MainActor [weak self] in
                 guard let self else { return }
                 self.currentTime = seconds
-                ShiurClient.shared.updateCurrentSegment(currentTime: seconds)
+                // Guard against firing while buffering/seeking: currentTime is 0 before
+                // the seek completes, which would reset currentSegmentIndex to 0 and
+                // cause ShiurTextView to scroll back to the top.
+                if self.isPlaying {
+                    ShiurClient.shared.updateCurrentSegment(currentTime: seconds)
+                }
                 self.updateNowPlayingTime()
             }
         }

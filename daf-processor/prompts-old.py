@@ -105,44 +105,17 @@ GUIDELINES:
 something is surprising or counterintuitive ("this is a striking Gemara," "the argument \
 seems to favor X, yet...")
 - Preserve all halachic analysis, source citations, named opinions, and textual references \
-exactly — do not simplify, omit, or reorder arguments. Source attributions are especially \
-critical: when the lecturer attributes a statement or explanation to a specific source \
-(*Tosafot*, *Rashi*, a named Amora, the *Gemara* itself), that attribution must be \
-clearly maintained and must not be merged with or transferred to a different source. \
-If *Tosafot* offers one explanation and the *Gemara* offers a separate one, they must \
-appear as distinct attributed positions, not conflated into a single account.
-- TRANSLATION OF HEBREW/ARAMAIC TERMS: Translate Hebrew and Aramaic terms that appear in \
-the lecturer's own explanatory prose into English. For example, "a korban on the \
-mizbeyach" → "a sacrifice on the altar"; "a keves or ayil" → "a lamb or ram". \
-Do NOT translate the following categories — keep them as *italicized transliterations*:
-  (1) Proper nouns: names of people (*Rabbi Yochanan*, *Abaye*, *Rava*), places \
-(*Bavel*, *Eretz Yisrael*, *Yerushalayim*), tractate names (*Menachot*, *Yevamot*).
-  (2) Widely-used Jewish English terms that carry meaning beyond a plain translation: \
-*mitzvah*, *Shabbat*, *Yom Tov*, *Yom Kippur*, *Torah*, *halacha*, *pasuk*, *bracha*, \
-*daf*, *masechta*, *sugya*, *machloket*, *mishna*, *Gemara*, *baraita*, *tanna*, \
-*amora*, *Rishonim*, *Acharonim*, *psak*, *teshuvah*, *beit din*, *tzaddik*.
-  (3) The central technical terms of {masechta} — the concepts that define this \
-tractate's subject matter and would be awkward or confusing to translate throughout. \
-Use judgment: if a term appears repeatedly as the core subject of the tractate \
-(e.g. *korban*/*korbanot*, *olah*, *mincha*, *mizbeach* in a tractate on temple \
-service; *yibbum*, *zikkah*, *chalitza* in a tractate on levirate marriage; \
-*kiddushin*, *get* in a tractate on marriage law), keep it in transliteration.
-  (4) Terms being analyzed as specific words — when the Talmudic argument turns on \
-the precise word itself ("the word *X* teaches..."), keep the original term.
-- DIRECT TALMUDIC QUOTATIONS: When the lecturer reads aloud a phrase from the Gemara, \
-baraita, or mishna, always present it as *italicized transliteration* — English \
-translation (e.g. *Tanu Rabbanan* — the Rabbis taught; *shlosha lugim* — three log; \
-*ve-dilma* — perhaps). Do not omit the transliteration for direct quotations even \
-when you are translating the lecturer's own vocabulary elsewhere. This double form \
-is required for subsequent processing.
-- Do not use Hebrew script inline in the prose body. Hebrew script belongs only in \
-the Sefaria blockquotes, not in running English text.
-- Transliterated terms that are retained are always **lowercase** in prose body text, \
-regardless of how they appear in the source transcript. Do not capitalize common \
-Hebrew/Aramaic nouns mid-sentence (e.g. *kaveiret*, *lechatchila*, *meitivei*, \
-*tanur*, not *Kaveiret*, *Lechatchila*, *Meitivei*, *Tanur*). The only exceptions \
-are proper nouns: names of people (*Rabbi Hiyya*), places (*Sura*, *Bavel*), and \
-tractate names (*Chullin*, *Menachot*) retain their initial capital.
+exactly — do not simplify, omit, or reorder arguments
+- Retain Hebrew and Aramaic terms in *italicized transliteration* in the essay prose \
+(e.g. *shechita*, *basar b'chalav*, *treif*) — do not use Hebrew script inline in the \
+prose body, and do not leave transliterations unitalicized. Hebrew script belongs only \
+in the Sefaria blockquotes, not in running English text.
+- Transliterated terms are always **lowercase** in prose body text, regardless of how \
+they appear in the source transcript. Do not capitalize common Hebrew/Aramaic nouns \
+mid-sentence (e.g. *kaveiret*, *lechatchila*, *meitivei*, *tanur*, not *Kaveiret*, \
+*Lechatchila*, *Meitivei*, *Tanur*). The only exceptions are proper nouns: names of \
+people (*Rabbi Hiyya*), places (*Sura*, *Bavel*), and tractate names (*Chullin*, \
+*Menachot*) retain their initial capital.
 - Hebrew letter names used as numbers: when a Hebrew letter name is spoken as a numerical \
 reference (daf number, amud, pasuk, perek, mishnah, etc.), convert it to its Arabic numeral. \
 Standard values — alef=1, bet/beis=2, gimel=3, dalet/daled=4, heh/hey=5, vav=6, zayin=7, \
@@ -159,11 +132,6 @@ restatements only in the lecturer's own explanatory prose — NEVER cut or compr
 Talmudic text itself (Gemara passages, beraitot, mishnayot, Rishonim quotations, or \
 named Amoraic/Tannaitic rulings), even when a passage appears to restate something \
 already said.
-- Do NOT cut background explanations of Talmudic concepts, institutions, or terminology \
-that the lecturer introduces — for example, an explanation of what a *mavoi* is, how \
-*eruvin* work, what *tumah* means, or any similar orientation to a concept that may be \
-unfamiliar to the reader. These are valuable pedagogical content even when they \
-temporarily digress from the main halachic argument, and they must be retained in full.
 - Student questions: if a question prompted a substantive explanation, absorb it into the \
 prose as a natural transition ("One might ask...," "This raises the question of...," \
 "A closer look reveals..."). If an exchange was logistical or tangential, omit it entirely.
@@ -179,16 +147,7 @@ or transition), include that passage and the discussion of it. Do not defer it t
 section on the grounds that a related topic is resolved there, and do not collapse a \
 multi-step dialectic (challenge → partial answer → further challenge → final answer) into \
 only its final conclusion. Each step of the dialectic, including intermediate answers that \
-are later revised or retracted, must appear in the section where the lecturer covers it — \
-not grouped with related material from a different point in the lecture.
-
-Pay particular attention to brief dialectical moves that are easy to overlook: \
-a one-sentence answer or wordplay (*aliyah* = *me'uleh*), a first answer that is quickly \
-challenged (*targuma* + one phrase), a short transitional question (*vi'amai...*, \
-*vi'ha vi'khen katani...*) posed between an answer and its follow-up objection. \
-Each of these is a real move in the Talmudic argument and must be written into the \
-essay at the point in the lecture where the lecturer introduces it — never omitted \
-because it is brief, immediately superseded, or seems like a mere transition.
+are later revised or retracted, must appear in the order the lecturer covers it.
 
 CRITICAL — SECTION ORDERING:
 The Gemara frequently refers back to previously cited passages, but the essay must reflect \
@@ -204,43 +163,6 @@ TRANSCRIPT:
 {transcript}"""
 
 
-def cleanup_prompt(essay: str) -> str:
-    return f"""You are processing a Talmudic essay. Your sole task is to convert \
-Hebrew/Aramaic translation bridges into HTML comments.
-
-A translation bridge is an italicized transliterated phrase immediately followed by \
-an em-dash (—) and its English translation. Examples:
-  *Tanu Rabbanan* — the Rabbis taught
-  *shlosha lugim* — three log
-  *ve-dilma* — perhaps
-  *lo shanu ela* — this only applies when
-
-For each translation bridge, make this transformation:
-  BEFORE: *phrase* — English translation
-  AFTER:  <!-- phrase --> English translation
-
-Remove the italicized phrase and the em-dash; insert an HTML comment containing the \
-phrase; keep the English translation unchanged.
-
-Do NOT convert:
-- Terms not followed by an em-dash: standalone italicized terms like *Gemara*, \
-*baraita*, *mishna*, *korban*, *olah*, or terms under textual analysis \
-("the word *kacha* teaches...")
-- Anything inside a blockquote (lines starting with >)
-- Section headers (lines starting with # or ##)
-- A phrase followed by a colon rather than an em-dash (*Tanu Rabbanan*: ...)
-
-When a bridge spans a longer phrase with nested italics or punctuation, convert the \
-whole transliterated portion up to the em-dash into the comment.
-
-Return the complete essay with ONLY the translation bridges converted. Do not alter \
-any other text, markdown formatting, or structure.
-
-ESSAY:
-
-{essay}"""
-
-
 def source_insertion_prompt(
     masechta: str,
     daf: int,
@@ -251,6 +173,7 @@ def source_insertion_prompt(
     amud=None,           # type: Optional[str]
 ) -> str:
     label = _daf_label(masechta, daf, amud)
+    # Build the optional preceding-context block
     prev_block = ""
     if prev_daf_tail:
         prev_block = f"""
@@ -261,6 +184,7 @@ SEFARIA TEXT FOR {masechta.upper()} {daf - 1} (PRECEDING DAF — for context onl
 ---
 """
 
+    # Build the optional following-context block
     next_block = ""
     if next_daf_head:
         next_block = f"""
@@ -275,18 +199,16 @@ SEFARIA TEXT FOR {masechta.upper()} {daf + 1} (FOLLOWING DAF — for context onl
 the Sefaria text for that daf (and, where available, the end of the preceding daf and \
 the beginning of the following daf as supplementary context).
 
-Your task is to insert the Sefaria source text after the relevant essay headings, \
-then strip all HTML comments from the prose. Work in three explicit steps.
+Your task is to insert the Sefaria source text after the relevant essay headings. \
+Work in two explicit steps.
 
 ─── STEP 1: ALIGNMENT ───────────────────────────────────────────────────────────
 
-For each section of the essay (## or ### heading), locate anchors in the section body \
-in this priority order:
-  (a) HTML comments of the form <!-- Hebrew/Aramaic phrase --> — these are the primary \
-anchors, placed where the lecturer originally quoted Talmudic text. Use the phrase \
-inside the comment to locate the corresponding position in the Sefaria text.
-  (b) If no HTML comment is present, look for any inline Hebrew or Aramaic text as a \
-fallback anchor.
+For each section of the essay (## or ### heading), scan the section body for Hebrew or \
+Aramaic text that the lecturer is reading aloud — it typically appears as a Hebrew/\
+Aramaic phrase or sentence followed immediately by an English translation. Use those \
+Hebrew/Aramaic strings as anchors to locate the exact position of that section within \
+the Sefaria text provided.
 
 Key alignment rules:
 - Check the PRECEDING DAF context first for the opening section(s). It is common for \
@@ -296,8 +218,8 @@ matches text in the preceding-daf block, use that text.
 appears to run past the end of the current daf.
 - The sections cover the text sequentially: where one section's source ends, the next \
 section's source begins immediately after it. Do not skip backwards.
-- If a section contains no anchor (pure analysis of a previously cited passage), it \
-continues from where the previous section left off.
+- If a section contains no Hebrew/Aramaic anchor (pure analysis of a previously cited \
+passage), it continues from where the previous section left off.
 - If a section discusses a passage that appears in none of the three Sefaria blocks \
 provided, leave that section without a blockquote.
 
@@ -319,11 +241,7 @@ walk through that stretch continuously. Every segment of Sefaria text between yo
 starting point and ending point must appear in exactly one blockquote — including short \
 transitional or follow-up lines such as הָוֵי בַּהּ / אִיבַּעְיָא לְהוּ / אָמַר רַב X. \
 These lines are new Talmudic statements and must be inserted even when they function as \
-a question or reaction to the immediately preceding passage. Before moving from one \
-essay section to the next, verify that every Sefaria segment between the end of the \
-previous blockquote and the start of the next anchor has been placed in a blockquote. \
-If any such segment has not yet been inserted, include it in the current section's \
-blockquote before proceeding.
+a question or reaction to the immediately preceding passage.
 - Only use text that appears verbatim in the Sefaria text provided. \
 Never fabricate, paraphrase, or approximate source text.
 
@@ -341,14 +259,19 @@ as the blockquote for the following section. Do not force the entire segment int
 whichever section happens to contain the later anchor.
 
 Sections with no new Sefaria text — STRICT RULE:
-If an essay section contains no anchor that can be located in the Sefaria text \
-AND there are no Sefaria segments remaining between the end of the previous \
-blockquote and the anchor of the next anchored section, leave the section with \
-NO blockquote and NO placeholder of any kind — go directly from the heading \
+If an essay section contains no Hebrew or Aramaic text that can be located in the \
+Sefaria text (i.e. the lecturer is doing pure analysis with no new Talmudic \
+quotation) AND there are no Sefaria segments remaining between the end of the \
+previous blockquote and the anchor of the next anchored section, leave the section \
+with NO blockquote and NO placeholder of any kind — go directly from the heading \
 line to the essay prose. Do NOT insert *[Continued from above]* or any similar \
 placeholder. If condition (2) fails — meaning there ARE Sefaria segments that come \
 after your last insertion point and before the next real anchor — those segments \
-must be inserted here as a blockquote.
+must be inserted here as a blockquote. If the section body contains ANY \
+Hebrew/Aramaic string (even a single short clause like הָוֵי בַּהּ רַב עַמְרָם: \
+אַהֵיָיא) that appears in the Sefaria text, that text is a new anchor and must get \
+its own blockquote covering from the end of the previous insertion up to and \
+including that passage.
 
 CORRECT format for a section with no new Sefaria text and no pending segments:
   ### Section Title
@@ -362,13 +285,17 @@ between the last insertion and the next anchor:
   > **Translation:** [corresponding translation]
   [full essay prose for this section — never omitted]
 
-CRITICAL — DO NOT ALTER ESSAY PROSE: Every sentence from the input essay must appear \
-in your output verbatim, with two exceptions only: (1) blockquotes are inserted after \
-headings, and (2) HTML comments (<!-- ... -->) are removed in Step 3. No sentence, \
-clause, or word of prose may be deleted, shortened, reworded, or moved. If you find \
-yourself omitting a paragraph or condensing multiple sentences into one, stop — that \
-is an error. The essay prose is fixed input; your only job is to add blockquotes and \
-strip comments.
+INCORRECT — prose deleted:
+  ### Section Title
+  [nothing]
+
+INCORRECT — placeholder inserted when no blockquote is needed:
+  ### Section Title
+  *[Continued from above]*
+  [essay prose]   ← wrong; omit the placeholder entirely
+
+Do not alter the essay text in any way — only insert blockquotes after headings. \
+Every word of prose from the input essay must appear in the output.
 
 FORMAT for each inserted blockquote:
   > **Hebrew/Aramaic:** [full passage, copied exactly from the Sefaria text, \
@@ -377,13 +304,6 @@ including any מַתְנִי׳ / גְּמָ׳ label at the start]
   > **Translation:** [English translation from the Sefaria text, with **bold** for \
 Talmudic source text and plain text for Rashi/commentary additions, including any \
 MISHNA / GEMARA label at the start]
-
-─── STEP 3: COMMENT REMOVAL ─────────────────────────────────────────────────────
-
-After completing all blockquote insertions, scan the entire output and remove every \
-HTML comment (<!-- ... -->) from the prose. The final document must contain no HTML \
-comments anywhere. Every word of prose (excluding the removed comments) must appear \
-in the output unchanged.
 
 ESSAY:
 

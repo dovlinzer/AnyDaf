@@ -1,5 +1,22 @@
 import SwiftUI
 
+// Collects {segIdx → Y-position-in-scroll-space} for all visible ## headings.
+private struct SegmentAnchorKey: PreferenceKey {
+    static var defaultValue: [Int: CGFloat] = [:]
+    static func reduce(value: inout [Int: CGFloat], nextValue: () -> [Int: CGFloat]) {
+        value.merge(nextValue()) { $1 }
+    }
+}
+
+// Reference-type flag used to suppress the programmatic scrollTo that would
+// otherwise fire when currentSegmentIndex changes due to user-scroll detection.
+private class ScrollDetectionState {
+    var suppressNextScrollTo: Int? = nil
+    /// True while animateScrollTo is in flight — suppresses onSegmentVisible to prevent
+    /// intermediate scroll positions from triggering mode-sync feedback loops.
+    var isProgrammaticScrolling: Bool = false
+}
+
 /// Displays the lecture rewrite as a formatted scrollable document.
 /// Auto-scrolls to the current audio chapter as the segment index advances.
 struct ShiurTextView: View {
@@ -7,10 +24,28 @@ struct ShiurTextView: View {
     let currentSegmentIndex: Int
     let foreground: Color
     var useWhiteBackground: Bool = false
+    /// When set, pressing B scrolls to this ### micro-segment title within the amud B macro segment.
+    var amudBSegmentIndex: Int? = nil
+    var amudBMicroTitle: String? = nil
+    /// Called (on main thread) when the user scrolls past a new macro segment heading.
+    /// Only fired when the heading enters the upper portion of the visible scroll area.
+    var onSegmentVisible: ((Int) -> Void)? = nil
 
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
+
+    /// Returns the scroll target ID for a given segment index.
+    /// When the index is the amud B segment and a micro-title is known, returns the
+    /// h3 anchor so the view scrolls to the exact ### heading rather than the ## heading.
+    private func scrollTarget(for idx: Int) -> String {
+        if idx == amudBSegmentIndex, let microTitle = amudBMicroTitle {
+            return "h3-\(microTitle)"
+        }
+        return "seg-\(idx)"
+    }
+
     /// Parsed representation of rewriteText, computed off the main thread.
     @State private var parsedBlocks: [ParsedBlock] = []
+    @State private var scrollDetectionState = ScrollDetectionState()
 
     /// Amber for Talmudic source words on the blue background; app blue on white background.
     private static let amber    = Color(red: 1.0,   green: 0.72,  blue: 0.0)
@@ -31,6 +66,7 @@ struct ShiurTextView: View {
                 .padding(.horizontal, 18)
                 .padding(.vertical, 12)
             }
+            .coordinateSpace(name: "shiurScroll")
             .dynamicTypeSize(studyFontSize.dynamicTypeSize)
             // Reparse whenever the text changes — runs on a background thread so large
             // shiur texts cannot hang the main thread and trigger a watchdog kill.
@@ -42,19 +78,64 @@ struct ShiurTextView: View {
                 }
                 let computed = await innerTask.value
                 guard !Task.isCancelled else { return }
+                // Suppress onPreferenceChange during initial layout: setting parsedBlocks
+                // causes geometry readers to fire with scroll position 0, which would
+                // call onSegmentVisible(0) and corrupt the active segment.
+                scrollDetectionState.isProgrammaticScrolling = true
                 parsedBlocks = computed
-                proxy.scrollTo("seg-\(idx)", anchor: .top)
+                if idx > 0 {
+                    // Allow SwiftUI to commit the new parsedBlocks layout before scrolling.
+                    // proxy.scrollTo silently fails if called before items exist in the view.
+                    // Use withAnimation so SwiftUI renders lazy items progressively rather
+                    // than estimating the offset, which overshoots on dafs with high bIdx.
+                    try? await Task.sleep(nanoseconds: 50_000_000)
+                    withAnimation(.easeInOut(duration: 0.4)) {
+                        proxy.scrollTo(scrollTarget(for: idx), anchor: .top)
+                    }
+                } else {
+                    proxy.scrollTo(scrollTarget(for: idx), anchor: .top)
+                }
+                Task {
+                    try? await Task.sleep(nanoseconds: 650_000_000)
+                    scrollDetectionState.isProgrammaticScrolling = false
+                }
             }
             .onChange(of: currentSegmentIndex) { _, newIdx in
+                // Suppress if this change originated from user scroll detection.
+                if scrollDetectionState.suppressNextScrollTo == newIdx {
+                    scrollDetectionState.suppressNextScrollTo = nil
+                    return
+                }
+                scrollDetectionState.isProgrammaticScrolling = true
                 withAnimation(.easeInOut(duration: 0.4)) {
-                    proxy.scrollTo("seg-\(newIdx)", anchor: .top)
+                    proxy.scrollTo(scrollTarget(for: newIdx), anchor: .top)
+                }
+                Task {
+                    try? await Task.sleep(nanoseconds: 650_000_000)
+                    scrollDetectionState.isProgrammaticScrolling = false
                 }
             }
             .onAppear {
                 // Re-appear with already-parsed blocks (e.g. switching back from Study tab).
                 if !parsedBlocks.isEmpty {
-                    proxy.scrollTo("seg-\(currentSegmentIndex)", anchor: .top)
+                    scrollDetectionState.isProgrammaticScrolling = true
+                    proxy.scrollTo(scrollTarget(for: currentSegmentIndex), anchor: .top)
+                    Task {
+                        try? await Task.sleep(nanoseconds: 650_000_000)
+                        scrollDetectionState.isProgrammaticScrolling = false
+                    }
                 }
+            }
+            .onPreferenceChange(SegmentAnchorKey.self) { anchors in
+                guard onSegmentVisible != nil, !parsedBlocks.isEmpty else { return }
+                guard !scrollDetectionState.isProgrammaticScrolling else { return }
+                // Find the segment heading closest to the top of the scroll area (Y ≤ 80pt).
+                let passed = anchors.filter { $0.value <= 80 }
+                guard let top = passed.max(by: { $0.value < $1.value }) else { return }
+                let newIdx = top.key
+                guard newIdx != currentSegmentIndex else { return }
+                scrollDetectionState.suppressNextScrollTo = newIdx
+                onSegmentVisible?(newIdx)
             }
         }
     }
@@ -72,14 +153,22 @@ struct ShiurTextView: View {
                 .padding(.top, segIdx == 0 ? 0 : 20)
                 .padding(.bottom, 4)
                 .id(id)
+                .background(
+                    GeometryReader { geo in
+                        Color.clear.preference(
+                            key: SegmentAnchorKey.self,
+                            value: [segIdx: geo.frame(in: .named("shiurScroll")).minY]
+                        )
+                    }
+                )
 
-        case .h3(let id, let text):
+        case .h3(_, let text):
             Text(text)
                 .font(.subheadline.weight(.semibold))
                 .foregroundStyle(foreground.opacity(0.7))
                 .padding(.top, 12)
                 .padding(.bottom, 2)
-                .id(id)
+                .id("h3-\(text)")
 
         case .body(let id, let text):
             Text(italicLatinAttributedString(text, font: .body))

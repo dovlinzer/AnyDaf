@@ -62,9 +62,23 @@ struct ShiurMicroSegment: Identifiable, Decodable {
 
 struct ShiurSegmentation: Decodable {
     let macroSegments: [ShiurSegment]
+    let amudBSegmentIndex: Int?
+    let amudBTimestamp: String?
+    /// Display title of the ### micro-segment where amud B begins (nil if amud B starts at a ## boundary).
+    let amudBMicroTitle: String?
+
+    var amudBSeconds: Double? {
+        guard let ts = amudBTimestamp else { return nil }
+        let parts = ts.split(separator: ":").compactMap { Double($0) }
+        guard parts.count == 2 else { return nil }
+        return parts[0] * 60 + parts[1]
+    }
 
     enum CodingKeys: String, CodingKey {
         case macroSegments = "macro_segments"
+        case amudBSegmentIndex = "amud_b_segment_index"
+        case amudBTimestamp = "amud_b_timestamp"
+        case amudBMicroTitle = "amud_b_micro_title"
     }
 }
 
@@ -76,10 +90,20 @@ class ShiurClient: ObservableObject {
 
     @Published var segments: [ShiurSegment] = []
     @Published var currentSegmentIndex: Int = 0
+    /// Segment index where amud B begins (nil if not detected for this daf).
+    @Published var amudBSegmentIndex: Int? = nil
+    /// Seconds into the audio where amud B begins (nil if not detected).
+    @Published var amudBSeconds: Double? = nil
+    /// Display title of the ### micro-segment where amud B begins (nil if at a ## boundary or not detected).
+    @Published var amudBMicroTitle: String? = nil
     /// Lecture rewrite text (pass 2) for the loaded daf, or nil if not available.
     @Published var shiurRewrite: String? = nil
     /// Lecture text with Sefaria sources inserted (pass 3), or nil if not available.
     @Published var shiurFinal: String? = nil
+    /// Segments frozen at audio play-start — independent of which daf the user is viewing.
+    @Published var audioSegments: [ShiurSegment] = []
+    /// Position within the audio episode — driven by updateCurrentSegment, never touches currentSegmentIndex.
+    @Published var audioCurrentSegmentIndex: Int = 0
 
     private let edgeFunctionURL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/get-shiur"
 
@@ -90,6 +114,9 @@ class ShiurClient: ObservableObject {
         guard key != loadedKey else { return }
         segments = []
         currentSegmentIndex = 0
+        amudBSegmentIndex = nil
+        amudBSeconds = nil
+        amudBMicroTitle = nil
         shiurRewrite = nil
         shiurFinal = nil
 
@@ -112,6 +139,9 @@ class ShiurClient: ObservableObject {
                let segData = try? JSONSerialization.data(withJSONObject: segJSON),
                let decoded = try? JSONDecoder().decode(ShiurSegmentation.self, from: segData) {
                 segments = decoded.macroSegments
+                amudBSegmentIndex = decoded.amudBSegmentIndex
+                amudBSeconds = decoded.amudBSeconds
+                amudBMicroTitle = decoded.amudBMicroTitle
             }
 
             shiurRewrite = first["rewrite"] as? String
@@ -122,22 +152,39 @@ class ShiurClient: ObservableObject {
         }
     }
 
-    /// Update currentSegmentIndex based on the audio's current playback position.
-    func updateCurrentSegment(currentTime: Double) {
-        guard !segments.isEmpty else { return }
-        var idx = 0
-        for (i, seg) in segments.enumerated() {
-            if currentTime >= seg.seconds { idx = i }
-        }
-        if idx != currentSegmentIndex { currentSegmentIndex = idx }
+    /// Snapshot current segments as the audio segments; call when audio starts playing.
+    func snapshotAudioSegments() {
+        audioSegments = segments
+        audioCurrentSegmentIndex = currentSegmentIndex
     }
 
-    /// Clear when navigating to a different daf.
+    /// Jump the audio chapter strip to a segment — does not affect shiur text.
+    func jumpToAudioSegment(_ idx: Int) {
+        guard !audioSegments.isEmpty else { return }
+        audioCurrentSegmentIndex = max(0, min(idx, audioSegments.count - 1))
+    }
+
+    /// Update audioCurrentSegmentIndex based on audio playback position — never touches currentSegmentIndex.
+    func updateCurrentSegment(currentTime: Double) {
+        guard !audioSegments.isEmpty else { return }
+        var idx = 0
+        for (i, seg) in audioSegments.enumerated() {
+            if currentTime >= seg.seconds { idx = i }
+        }
+        if idx != audioCurrentSegmentIndex { audioCurrentSegmentIndex = idx }
+    }
+
+    /// Clear all state when stopping audio or navigating to a new daf.
     func reset() {
         segments = []
         currentSegmentIndex = 0
+        amudBSegmentIndex = nil
+        amudBSeconds = nil
+        amudBMicroTitle = nil
         shiurRewrite = nil
         shiurFinal = nil
+        audioSegments = []
+        audioCurrentSegmentIndex = 0
         loadedKey = nil
     }
 }

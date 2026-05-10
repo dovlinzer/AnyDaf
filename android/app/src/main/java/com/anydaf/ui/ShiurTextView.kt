@@ -25,8 +25,11 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
+import androidx.compose.runtime.snapshotFlow
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import androidx.compose.ui.Alignment
@@ -174,7 +177,10 @@ fun ShiurTextView(
     rewriteText: String,
     currentSegmentIndex: Int,
     modifier: Modifier = Modifier,
-    onPrint: (() -> Unit)? = null
+    amudBSegmentIndex: Int? = null,
+    amudBMicroTitle: String? = null,
+    onPrint: (() -> Unit)? = null,
+    onSegmentVisible: ((Int) -> Unit)? = null
 ) {
     val blueMode = LocalIsBlueMode.current
     // Amber on blue background or dark theme; brand blue on white/parchment light theme
@@ -185,12 +191,55 @@ fun ShiurTextView(
         value = withContext(Dispatchers.Default) { parseShiurBlocks(rewriteText) }
     }
     val listState = rememberLazyListState()
+    // Tracks which segment index was reported from user scroll, to suppress the
+    // resulting animateScrollToItem (which would fight the user's natural scroll).
+    val userScrolledToSeg = remember { mutableStateOf(-1) }
+    // Set to true while animateScrollToItem is running to prevent the scroll detection
+    // from misreading the intermediate scroll position as a user-initiated navigation.
+    val isProgrammaticScrolling = remember { mutableStateOf(false) }
+    // Always reflects the latest currentSegmentIndex inside the long-lived detection
+    // LaunchedEffect whose key does not include currentSegmentIndex.
+    val currentSegmentIndexState = rememberUpdatedState(currentSegmentIndex)
 
-    // Scroll to the active segment whenever the index changes OR blocks finish loading.
+    // Detect scroll position and report the active segment to the parent.
+    LaunchedEffect(listState, blocks) {
+        snapshotFlow { listState.firstVisibleItemIndex to listState.isScrollInProgress }
+            .collect { (firstIdx, isScrolling) ->
+                if (!isScrolling || blocks.isEmpty() || isProgrammaticScrolling.value) return@collect
+                var activeSegIdx = 0
+                for (i in 0..firstIdx.coerceAtMost(blocks.size - 1)) {
+                    val b = blocks[i]
+                    if (b is ShiurBlock.Header2) activeSegIdx = b.segIdx
+                }
+                if (activeSegIdx != currentSegmentIndexState.value) {
+                    userScrolledToSeg.value = activeSegIdx
+                    onSegmentVisible?.invoke(activeSegIdx)
+                }
+            }
+    }
+
+    // Scroll to the active segment whenever it changes externally (audio/chip tap).
+    // Suppressed when the change came from our own scroll detection above.
+    // When jumping to the amud B segment and a micro-title is known, scroll to the
+    // exact ### Header3 block rather than the ## Header2 to land at the right position.
     LaunchedEffect(blocks, currentSegmentIndex) {
         if (blocks.isEmpty()) return@LaunchedEffect
-        val idx = blocks.indexOfFirst { it is ShiurBlock.Header2 && it.segIdx == currentSegmentIndex }
-        if (idx >= 0) listState.animateScrollToItem(idx)
+        if (userScrolledToSeg.value == currentSegmentIndex) {
+            userScrolledToSeg.value = -1
+            return@LaunchedEffect
+        }
+        val targetIdx = if (currentSegmentIndex == amudBSegmentIndex && amudBMicroTitle != null) {
+            blocks.indexOfFirst { it is ShiurBlock.Header3 && it.text == amudBMicroTitle }
+                .takeIf { it >= 0 }
+                ?: blocks.indexOfFirst { it is ShiurBlock.Header2 && it.segIdx == currentSegmentIndex }
+        } else {
+            blocks.indexOfFirst { it is ShiurBlock.Header2 && it.segIdx == currentSegmentIndex }
+        }
+        if (targetIdx >= 0) {
+            isProgrammaticScrolling.value = true
+            listState.animateScrollToItem(targetIdx)
+            isProgrammaticScrolling.value = false
+        }
     }
 
     Box(modifier = modifier) {

@@ -59,6 +59,7 @@ class AudioViewModel : ViewModel() {
     private var audioFocusRequest: AudioFocusRequest? = null
     private var positionJob: kotlinx.coroutines.Job? = null
     private var resolveJob: kotlinx.coroutines.Job? = null
+    private var startAtMs: Long = 0
 
     private val focusListener = AudioManager.OnAudioFocusChangeListener { focusChange ->
         when (focusChange) {
@@ -68,12 +69,13 @@ class AudioViewModel : ViewModel() {
         }
     }
 
-    fun play(urlString: String, title: String = "") {
+    fun play(urlString: String, title: String = "", startAt: Float = 0f) {
         stop()
         _resolutionFailed.value = false
         _isStopped.value = false
         _isBuffering.value = true
         _currentTitle.value = title
+        startAtMs = (startAt * 1000L).toLong()
 
         if (urlString.startsWith("soundcloud-track://")) {
             val trackId = urlString.removePrefix("soundcloud-track://")
@@ -160,6 +162,7 @@ class AudioViewModel : ViewModel() {
                         _isBuffering.value = false
                         _duration.value = exo.duration.coerceAtLeast(0L) / 1000f
                         exo.setPlaybackSpeed(_playbackRate.value)
+                        if (startAtMs > 0) exo.seekTo(startAtMs)
                         exo.play()
                         _isPlaying.value = true
                         startPositionUpdater()

@@ -27,7 +27,31 @@ AnyDaf/
       ui/                    # Composable screens + theme/
       viewmodel/             # ViewModels
     res/                     # XML resources, colors, themes
+  daf-processor/             # SRT → shiur processing pipeline (THE CORRECT DIRECTORY)
 ```
+
+## Daf Processor (`AnyDaf/daf-processor/`)
+
+**This is the canonical daf-processor.** Do NOT use `old-dp/` (a retired copy kept for reference only).
+
+Key scripts:
+
+| Script | Purpose |
+|--------|---------|
+| `main.py` | Entry point — processes SRT files through all passes |
+| `pipeline.py` | Orchestrates passes 1 / 2 / 2.5 / 3 + amud B detection |
+| `prompts.py` | All Claude prompt templates |
+| `find_amud_b.py` | Detects amud B boundary; auto-called by pipeline after pass 3 |
+| `upload_to_supabase.py` | Uploads `output/` dirs to Supabase `shiur_content` table |
+
+`pipeline.py` imports from `prompts.py` (not `prompts2.py`) and `find_amud_b.py`. **Never reference `prompts2.py` or `pipeline2.py`** — those files no longer exist.
+
+Output dirs live in `daf-processor/output/<masechta>_<daf>/` with files:
+- `01_segmentation.json` — macro/micro segments + amud_b fields (written by find_amud_b)
+- `02_rewrite.md` — pass 2 essay
+- `02.5_cleanup.md` — pass 2.5 cleaned essay
+- `03_final.md` — final essay with Sefaria blockquotes
+- `sefaria.md` — cached Sefaria text
 
 ## iOS Key Files
 
@@ -261,10 +285,161 @@ Android enums in `model/StudyModels.kt` mirror these exactly (SCREAMING_SNAKE_CA
 - Feed is cached and refreshed lazily on app launch
 - On iPad, the audio controls float as a pill overlay at the bottom of the daf image (`appBg.opacity(0.92)` background, `RoundedRectangle(cornerRadius: 16)`)
 
+## Audio / Shiur Decoupling Architecture
+
+This is a critical architectural pattern. Read carefully before touching anything related to audio segments, shiur segments, or the chapter strip.
+
+### The Problem
+
+Content (daf image, text, shiur) follows the selector freely — the user can navigate to any daf at any time. Audio plays independently and does not change when the selected daf changes. When the selected daf differs from the playing daf, audio and shiur/text navigation must be **decoupled**: moving a segment in one must not move the other.
+
+### Two-Layer Segment State (ShiurClient)
+
+`ShiurClient` (iOS) / `ShiurClient.kt` (Android) maintains two independent segment layers:
+
+| State | Purpose |
+|-------|---------|
+| `segments` / `currentSegmentIndex` | Shiur content for the **currently selected daf** — changes when the user navigates |
+| `audioSegments` / `audioCurrentSegmentIndex` | Frozen snapshot for the **currently playing audio daf** — set once at play-start, never changes until audio stops |
+
+Key methods:
+- `snapshotAudioSegments()` — copies `segments → audioSegments` at the moment audio starts playing; called from `onChange(of: audioPlayer.isStopped)` when `isStopped` becomes `false`
+- `jumpToAudioSegment(idx)` — moves `audioCurrentSegmentIndex` only; does not touch `currentSegmentIndex`
+- `updateCurrentSegment(currentTime)` — advances `audioCurrentSegmentIndex` using `audioSegments`; never touches `currentSegmentIndex`
+
+### Audio Locked Daf
+
+At play-start, two state vars are frozen alongside the snapshot:
+- iOS: `@State var audioLockedTractateIndex: Int` and `@State var audioLockedDaf: Double`
+- Android: `audioLockedTractate: String` and `audioLockedDaf: Double` in ContentScreen
+
+These never change while audio plays. All same-daf guards read from these.
+
+### Same-Daf Sync (the coupling when dafs match)
+
+When the selected daf IS the playing daf, audio and shiur/text stay in sync:
+
+```swift
+// iOS — in ContentView body
+.onChange(of: shiurClient.audioCurrentSegmentIndex) { _, newIdx in
+    guard !audioPlayer.isStopped,
+          selectedTractateIndex == audioLockedTractateIndex,
+          selectedDaf == audioLockedDaf else { return }
+    shiurClient.currentSegmentIndex = newIdx
+}
+```
+
+```kotlin
+// Android — in ContentScreen
+LaunchedEffect(audioSegmentIndex) {
+    if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
+        ShiurClient.jumpToSegment(audioSegmentIndex)
+    }
+}
+```
+
+### Chapter Strip (audio pill bar)
+
+The chapter strip in the audio controls shows `audioSegments` / `audioCurrentSegmentIndex` — the frozen audio snapshot — not `segments`. The strip is shown only when `audioSegments` is non-empty and `audioPlayer.duration > 0`.
+
+Pill tap: calls both `audioPlayer.seek(to: seg.seconds / duration)` and `shiurClient.jumpToAudioSegment(idx)`.
+
+The `onChange` that scrolls the strip to keep the active pill visible watches `audioCurrentSegmentIndex`, not `currentSegmentIndex`.
+
+### Shiur Navigation Strip (shiur text pill bar)
+
+Separate from the chapter strip. Shows `segments` / `currentSegmentIndex` — the selected daf's shiur. Pill tap calls `shiurClient.currentSegmentIndex = idx`. `onSegmentVisible` callback (user scroll detection) calls `shiurClient.jumpToSegment(idx)` always — no audio guard needed there.
+
+### onChange(of: selectedSide) — Audio Seek Guard
+
+Pressing a/b in the picker seeks audio to amud B only when the selected daf matches the playing daf:
+
+```swift
+let isSameDaf = !audioPlayer.isStopped
+    && selectedTractateIndex == audioLockedTractateIndex
+    && selectedDaf == audioLockedDaf
+if isSameDaf { /* seek audio */ }
+```
+
+### reset() vs loadSegments() — Critical Distinction
+
+`shiurClient.reset()` clears **all** state including `audioSegments` — only call it when audio is stopped.  
+`shiurClient.loadSegments()` clears only the content state (`segments`, `shiurRewrite`, etc.) and leaves `audioSegments` intact — safe to call anytime.
+
+In `onChange(of: selectedTractateIndex)` in ContentView: **guard `reset()` with `if audioPlayer.isStopped`** to prevent wiping the audio snapshot when the user navigates to a different tractate while audio plays.
+
+### SwiftUI Scroll Reliability (ShiurTextView)
+
+Several non-obvious timing issues were worked out:
+
+1. **`proxy.scrollTo` called before layout is committed fails silently.** After setting `parsedBlocks`, sleep 50ms before scrolling. Use `withAnimation(.easeInOut(duration: 0.4))` — it causes SwiftUI to render lazy items progressively, landing accurately even for items far down the list. Non-animated `scrollTo` on `LazyVStack` estimates offset and overshoots on dafs with high segment indices.
+
+2. **GeometryReader fires at scroll=0 when `parsedBlocks` is first assigned**, causing `onPreferenceChange` to report segment 0 and corrupt the active segment. Fix: set `scrollDetectionState.isProgrammaticScrolling = true` *before* `parsedBlocks = computed`, and clear it after 650ms.
+
+3. **`isProgrammaticScrolling` flag** in `ScrollDetectionState` (reference type — intentional, shared across closures): suppresses `onPreferenceChange → onSegmentVisible` during programmatic scrolls to prevent feedback loops. Set before any programmatic `proxy.scrollTo`; clear after 650ms.
+
+4. **`suppressNextScrollTo`**: when `onSegmentVisible` fires (user scroll), it sets `currentSegmentIndex` via callback. This would re-trigger `onChange(of: currentSegmentIndex)` → another `proxy.scrollTo`. Suppress by storing the index in `suppressNextScrollTo` and skipping the scroll in `onChange` when it matches.
+
 ## Bookmarks
 
 - Identified by `(tractateIndex, daf, amud)`; optionally linked to a study section index
 - `BookmarkManager` (iOS) / `BookmarkViewModel` (Android)
+
+---
+
+## Planned Feature: Text View Segment Navigation
+
+**Status: Not started.** This extends the audio/shiur decoupling architecture to the Sefaria text view (Text mode on iPhone / Translation tab on iPad).
+
+### Goals
+
+1. **A/B jump in text view** — pressing b/a scrolls the Sefaria text to the start of amud B/A (like it already does in shiur mode).
+2. **Segment strip in text view** — a horizontal pill strip showing the shiur's macro segments; tapping a pill scrolls the Sefaria text to the corresponding passage.
+3. **Full audio coupling** — same decoupling rules as shiur: when selected daf == playing daf, audio position and text scroll stay in sync; when dafs differ, they decouple.
+
+### Sefaria Segment Numbering
+
+`SefariaClient.fetchText(tractate:daf:amud:)` returns `[String]` where each index is a verse/sentence. `fetchFullDaf` concatenates A + B, so `a.count` is the exact index where amud B begins. This index is known at fetch time but not currently stored or surfaced to the UI.
+
+### Pipeline Work (prerequisite)
+
+A new post-processing pass is needed to map each shiur macro segment to a Sefaria segment index:
+
+1. Read `03_final.md` for the daf; extract the first blockquote (Hebrew/Aramaic text) that follows each `## ` macro segment header — these blockquotes are verbatim (or near-verbatim) Sefaria text.
+2. Fetch the cached Sefaria segments for that daf (from `sefaria.md` or the Sefaria API).
+3. Do substring matching (strip diacritics/punctuation for fuzzy tolerance; match on a 20–30 char substring) to find the Sefaria segment index for each blockquote.
+4. For macro segments with no following blockquote (pure commentary), use the nearest preceding matched index.
+5. Write `sefaria_index: <int>` into each macro segment object in `01_segmentation.json`.
+6. `upload_to_supabase.py` picks this up automatically since it uploads `segmentation` as a JSON blob — no schema change needed.
+
+The matching should run against the **Hebrew** Sefaria fetch (less variation than English translations).
+
+Best implemented as a new script `find_sefaria_indices.py` modeled on `find_amud_b.py`, callable standalone or auto-called by `pipeline.py` after pass 3.
+
+### ShiurClient Changes
+
+`ShiurSegment` gains an optional `sefariaIndex: Int?` field (iOS) / `sefariaIndex: Int?` property (Android), decoded from `sefaria_index` in the JSON. No other model changes — the two-layer audio/content architecture already handles everything else.
+
+`ShiurSegmentation` also gains `amudBSefariaIndex: Int?` — the Sefaria segment index where amud B begins (derived from `a.count` at fetch time, stored alongside `amud_b_timestamp`).
+
+### iOS App Changes
+
+- **A/B jump**: wire the existing `selectedSide` `onChange` to scroll the text view to `amudBSefariaIndex` (same pattern as shiur scrolling to `amudBSegmentIndex`).
+- **Segment strip**: show the same `audioSegments` / `audioCurrentSegmentIndex` pill strip above or below the Sefaria text view. Pill tap scrolls Sefaria text to `seg.sefariaIndex` + seeks audio (same-daf only). Audio position changes scroll text via the existing `onChange(of: shiurClient.audioCurrentSegmentIndex)` handler — add a branch that also scrolls the text view when in text mode.
+- **Text view layout**: remove the existing MISHNA/GEMARA section breaks; render as one continuous scrollable list. Each Sefaria segment gets a stable `.id(index)` so `proxy.scrollTo(sefariaIndex)` lands precisely.
+
+### Android App Changes
+
+Symmetric with iOS. `LaunchedEffect(audioSegmentIndex)` already syncs audio→shiur; extend it to also scroll the text view when `mainContentMode == TEXT` and same-daf guard passes. `LaunchedEffect(isAudioStopped)` already calls `ShiurClient.snapshotAudioSegments()` — no change needed.
+
+### Coupling Rules (identical to shiur)
+
+| Situation | Behavior |
+|-----------|----------|
+| Pill tapped in text segment strip | Scroll text to `sefariaIndex` + seek audio (same-daf only) |
+| Audio advances to new segment | `updateCurrentSegment` fires → text scrolls to `sefariaIndex` (same-daf only) |
+| Selected daf ≠ playing daf | Text strip shows selected daf's segments; audio strip shows playing daf's segments; no cross-coupling |
+| User presses a/b | Text scrolls to amud boundary; audio seeks (same-daf only) |
 
 ---
 

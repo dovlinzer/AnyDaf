@@ -13,7 +13,8 @@ from config import (
     SEGMENTATION_MAX_TOKENS, REWRITE_MAX_TOKENS, SOURCE_INSERTION_MAX_TOKENS,
     BATCH_POLL_INTERVAL, BATCH_TIMEOUT, DEFAULT_WORKERS,
 )
-from prompts import segmentation_prompt, rewrite_prompt, source_insertion_prompt
+from find_amud_b import process_dir as detect_amud_b
+from prompts import segmentation_prompt, rewrite_prompt, cleanup_prompt, source_insertion_prompt
 from sefaria import fetch_daf_text, fetch_daf_tail, fetch_daf_head, identify_daf  # noqa: F401
 from srt_parser import parse_srt, srt_to_timestamped_text, srt_to_text
 
@@ -174,19 +175,22 @@ def _repair_segmentation_text(text: str) -> str:
 PASS_FILES = {
     1: '01_segmentation.json',
     2: '02_rewrite.md',
+    '2.5': '025_cleanup.md',
     3: '03_final.md',
 }
 PASS_MODELS = {
     1: SEGMENTATION_MODEL,
     2: REWRITE_MODEL,
+    '2.5': REWRITE_MODEL,
     3: SOURCE_INSERTION_MODEL,
 }
 PASS_TOKENS = {
     1: SEGMENTATION_MAX_TOKENS,
     2: REWRITE_MAX_TOKENS,
+    '2.5': REWRITE_MAX_TOKENS,
     3: SOURCE_INSERTION_MAX_TOKENS,
 }
-PASS_NAMES = {1: 'Segmentation', 2: 'Rewrite', 3: 'Source Insertion'}
+PASS_NAMES = {1: 'Segmentation', 2: 'Rewrite', '2.5': 'Cleanup', 3: 'Source Insertion'}
 
 
 class Pipeline:
@@ -251,6 +255,13 @@ class Pipeline:
         else:
             self._process_direct(jobs)
 
+        # After all passes complete, detect amud B boundary for each processed daf.
+        # Skips dirs that lack sefaria.md / 03_final.md or are amud-b-only.
+        for _, masechta, daf, amud in jobs:
+            job_dir = self._job_dir(masechta, daf, amud)
+            status = detect_amud_b(job_dir, dry_run=False, force=True)
+            logger.info(f"  [{masechta} {daf}{amud or ''}] amud B: {status}")
+
     # ------------------------------------------------------------------
     # Helpers
     # ------------------------------------------------------------------
@@ -303,7 +314,7 @@ class Pipeline:
         return text
 
     def _build_prompt(
-        self, srt_file: Path, masechta: str, daf: int, job_dir: Path, pass_num: int,
+        self, srt_file: Path, masechta: str, daf: int, job_dir: Path, pass_num,
         amud: Optional[str] = None,
     ) -> Optional[str]:
         entries = parse_srt(srt_file.read_text(encoding='utf-8'))
@@ -321,9 +332,18 @@ class Pipeline:
                                   seg_file.read_text(encoding='utf-8'), amud=amud)
 
         rewrite_file = job_dir / PASS_FILES[2]
-        if pass_num == 3:
+        if pass_num == '2.5':
             if not rewrite_file.exists():
-                logger.warning(f"  Pass 2 output missing for {label}; cannot build pass 3 prompt")
+                logger.warning(f"  Pass 2 output missing for {label}; cannot build pass 2.5 prompt")
+                return None
+            return cleanup_prompt(rewrite_file.read_text(encoding='utf-8'))
+
+        cleanup_file = job_dir / PASS_FILES['2.5']
+        if pass_num == 3:
+            # Use cleanup output if available, fall back to raw rewrite
+            source_file = cleanup_file if cleanup_file.exists() else rewrite_file
+            if not source_file.exists():
+                logger.warning(f"  Pass 2/2.5 output missing for {label}; cannot build pass 3 prompt")
                 return None
             sefaria_text = self._get_sefaria(masechta, daf, job_dir)
             if sefaria_text.startswith('[Sefaria text not available'):
@@ -333,7 +353,7 @@ class Pipeline:
             next_head = self._get_sefaria_next_head(masechta, daf, job_dir)
             return source_insertion_prompt(
                 masechta, daf,
-                rewrite_file.read_text(encoding='utf-8'),
+                source_file.read_text(encoding='utf-8'),
                 sefaria_text,
                 prev_daf_tail=prev_tail,
                 next_daf_head=next_head,
@@ -380,6 +400,19 @@ class Pipeline:
                         stop_reason = stream.get_final_message().stop_reason
                     break   # success — exit the overload retry loop
                 except anthropic.APIStatusError as e:
+                    is_content_filter = (
+                        e.status_code == 400
+                        and 'content filtering' in str(e).lower()
+                    )
+                    if is_content_filter:
+                        safe_label = label.replace(' ', '_')
+                        debug_path = self.output_dir / f"debug_pass{pass_num}_{safe_label}_prompt.txt"
+                        debug_path.write_text(prompt, encoding='utf-8')
+                        logger.error(
+                            f"  [{label}] Pass {pass_num} blocked by content filter. "
+                            f"Full prompt saved to {debug_path} for inspection."
+                        )
+                        raise
                     if e.status_code in (429, 529) and overload_attempt < MAX_OVERLOAD_RETRIES - 1:
                         wait = OVERLOAD_BACKOFF[overload_attempt]
                         logger.warning(
@@ -415,7 +448,7 @@ class Pipeline:
         label = f"{masechta} {daf}{amud or ''}"
         logger.info(f"Starting {label}")
 
-        for pass_num in (1, 2, 3):
+        for pass_num in (1, 2, '2.5', 3):
             if not self._should_run(pass_num):
                 continue
             out_file = job_dir / PASS_FILES[pass_num]
@@ -442,7 +475,7 @@ class Pipeline:
     # ------------------------------------------------------------------
 
     def _process_batch(self, jobs: List[Tuple[Path, str, int, Optional[str]]]):
-        for pass_num in (1, 2, 3):
+        for pass_num in (1, 2, '2.5', 3):
             if not self._should_run(pass_num):
                 continue
             self._run_batch_phase(jobs, pass_num)
@@ -451,7 +484,7 @@ class Pipeline:
         logger.info(f"Batch phase {pass_num}: {PASS_NAMES[pass_num]}")
 
         # Pre-fetch Sefaria for pass 3 (needed to build prompts)
-        if pass_num == 3:
+        if pass_num == 3:  # type: ignore[comparison-overlap]
             for _, masechta, daf, amud in jobs:
                 job_dir = self._job_dir(masechta, daf, amud)
                 self._get_sefaria(masechta, daf, job_dir)
@@ -460,7 +493,7 @@ class Pipeline:
 
         # Build requests
         requests_list = []
-        id_to_job = {}  # custom_id → (masechta, daf, amud, job_dir)
+        id_to_job = {}  # custom_id → (srt_file, masechta, daf, amud, job_dir, prompt)
 
         for srt_file, masechta, daf, amud in jobs:
             job_dir = self._job_dir(masechta, daf, amud)
@@ -471,7 +504,8 @@ class Pipeline:
             prompt = self._build_prompt(srt_file, masechta, daf, job_dir, pass_num, amud=amud)
             if prompt is None:
                 continue
-            custom_id = f"{masechta.lower().replace(' ', '_')}_{daf}{amud or ''}_p{pass_num}"
+            safe_pass = str(pass_num).replace('.', '_')
+            custom_id = f"{masechta.lower().replace(' ', '_')}_{daf}{amud or ''}_p{safe_pass}"
             requests_list.append({
                 "custom_id": custom_id,
                 "params": {
@@ -480,7 +514,7 @@ class Pipeline:
                     "messages": [{"role": "user", "content": prompt}],
                 },
             })
-            id_to_job[custom_id] = (masechta, daf, amud, job_dir)
+            id_to_job[custom_id] = (srt_file, masechta, daf, amud, job_dir, prompt)
 
         if not requests_list:
             logger.info("  No jobs to submit for this phase.")
@@ -493,7 +527,7 @@ class Pipeline:
         # Persist batch ID so user can recover if script is interrupted
         state_file = self.output_dir / f".batch_phase{pass_num}.json"
         state_file.write_text(
-            json.dumps({"batch_id": batch.id, "jobs": {k: list(v[:3]) for k, v in id_to_job.items()}}),
+            json.dumps({"batch_id": batch.id, "jobs": {k: list(v[1:4]) for k, v in id_to_job.items()}}),
             encoding='utf-8',
         )
 
@@ -536,7 +570,7 @@ class Pipeline:
             cid = result.custom_id
             if cid not in id_to_job:
                 continue
-            masechta, daf, amud, job_dir = id_to_job[cid]
+            srt_file, masechta, daf, amud, job_dir, prompt = id_to_job[cid]
             label = f"{masechta} {daf}{amud or ''}"
             if result.result.type == 'succeeded':
                 out_file = job_dir / PASS_FILES[pass_num]
@@ -565,6 +599,16 @@ class Pipeline:
                 succeeded += 1
                 logger.info(f"  ✓ {label}")
             else:
-                logger.error(f"  ✗ {label}: {result.result.type}")
+                err = getattr(result.result, 'error', None)
+                err_type = getattr(err, 'type', 'unknown') if err else 'unknown'
+                err_msg  = getattr(err, 'message', '') if err else ''
+                logger.error(
+                    f"  ✗ {label} pass {pass_num}: {err_type}"
+                    + (f" — {err_msg}" if err_msg else "")
+                )
+                safe_label = label.replace(' ', '_')
+                debug_path = self.output_dir / f"debug_pass{pass_num}_{safe_label}_prompt.txt"
+                debug_path.write_text(prompt, encoding='utf-8')
+                logger.error(f"    Prompt saved to {debug_path}")
 
         logger.info(f"  Phase {pass_num} complete: {succeeded}/{len(requests_list)} succeeded")

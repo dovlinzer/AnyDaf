@@ -59,6 +59,26 @@ object ShiurClient {
     private val _currentSegmentIndex = MutableStateFlow(0)
     val currentSegmentIndex: StateFlow<Int> = _currentSegmentIndex.asStateFlow()
 
+    /** Segments for the audio episode currently playing — frozen at play-start, independent of selected daf. */
+    private val _audioSegments = MutableStateFlow<List<ShiurSegment>>(emptyList())
+    val audioSegments: StateFlow<List<ShiurSegment>> = _audioSegments.asStateFlow()
+
+    /** Position within the audio episode — driven by updateCurrentSegment, independent of currentSegmentIndex. */
+    private val _audioCurrentSegmentIndex = MutableStateFlow(0)
+    val audioCurrentSegmentIndex: StateFlow<Int> = _audioCurrentSegmentIndex.asStateFlow()
+
+    /** Segment index where amud B begins, or null if not detected for this daf. */
+    private val _amudBSegmentIndex = MutableStateFlow<Int?>(null)
+    val amudBSegmentIndex: StateFlow<Int?> = _amudBSegmentIndex.asStateFlow()
+
+    /** Seconds into the audio where amud B begins, or null if not detected. */
+    private val _amudBSeconds = MutableStateFlow<Double?>(null)
+    val amudBSeconds: StateFlow<Double?> = _amudBSeconds.asStateFlow()
+
+    /** Display title of the ### micro-segment where amud B begins, or null if at a ## boundary. */
+    private val _amudBMicroTitle = MutableStateFlow<String?>(null)
+    val amudBMicroTitle: StateFlow<String?> = _amudBMicroTitle.asStateFlow()
+
     /** Lecture rewrite text (pass 2) for the loaded daf, or null if not available. */
     private val _shiurRewrite = MutableStateFlow<String?>(null)
     val shiurRewrite: StateFlow<String?> = _shiurRewrite.asStateFlow()
@@ -74,6 +94,9 @@ object ShiurClient {
         if (key == loadedKey) return
         _segments.value = emptyList()
         _currentSegmentIndex.value = 0
+        _amudBSegmentIndex.value = null
+        _amudBSeconds.value = null
+        _amudBMicroTitle.value = null
         _shiurRewrite.value = null
         _shiurFinal.value = null
 
@@ -128,6 +151,15 @@ object ShiurClient {
                             )
                         }
                         _segments.value = parsed
+
+                        val bIdx = segJSON.optInt("amud_b_segment_index", -1)
+                        if (bIdx >= 0) {
+                            _amudBSegmentIndex.value = bIdx
+                            val bTs = segJSON.optString("amud_b_timestamp")
+                            _amudBSeconds.value = if (bTs.isNotEmpty()) parseShiurTimestamp(bTs) else null
+                            val bMicro = segJSON.optString("amud_b_micro_title")
+                            _amudBMicroTitle.value = bMicro.ifEmpty { null }
+                        }
                     }
                 }
 
@@ -141,28 +173,44 @@ object ShiurClient {
         }
     }
 
-    /** Jump directly to a segment by index (used for shiur-text navigation without audio). */
+    /** Jump the shiur-text view to a segment (content daf only — does not affect audio). */
     fun jumpToSegment(index: Int) {
         _currentSegmentIndex.value = index.coerceIn(0, (_segments.value.size - 1).coerceAtLeast(0))
     }
 
-    /** Update currentSegmentIndex based on the audio's current playback position. */
+    /** Snapshot the current content segments as the audio segments; called when audio starts. */
+    fun snapshotAudioSegments() {
+        _audioSegments.value = _segments.value
+        _audioCurrentSegmentIndex.value = _currentSegmentIndex.value
+    }
+
+    /** Jump the audio chapter strip to a segment (audio daf only — does not affect shiur text). */
+    fun jumpToAudioSegment(index: Int) {
+        _audioCurrentSegmentIndex.value = index.coerceIn(0, (_audioSegments.value.size - 1).coerceAtLeast(0))
+    }
+
+    /** Update audioCurrentSegmentIndex based on audio playback position — never touches currentSegmentIndex. */
     fun updateCurrentSegment(currentTimeSecs: Float) {
-        val segs = _segments.value
+        val segs = _audioSegments.value
         if (segs.isEmpty()) return
         var idx = 0
         for (i in segs.indices) {
             if (currentTimeSecs >= segs[i].seconds) idx = i
         }
-        if (idx != _currentSegmentIndex.value) _currentSegmentIndex.value = idx
+        if (idx != _audioCurrentSegmentIndex.value) _audioCurrentSegmentIndex.value = idx
     }
 
-    /** Clear when navigating to a different daf. */
+    /** Clear all state when stopping audio or navigating to a new daf. */
     fun reset() {
         _segments.value = emptyList()
         _currentSegmentIndex.value = 0
+        _amudBSegmentIndex.value = null
+        _amudBSeconds.value = null
+        _amudBMicroTitle.value = null
         _shiurRewrite.value = null
         _shiurFinal.value = null
+        _audioSegments.value = emptyList()
+        _audioCurrentSegmentIndex.value = 0
         loadedKey = null
     }
 }
