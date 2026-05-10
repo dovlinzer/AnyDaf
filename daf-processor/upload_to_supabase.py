@@ -4,13 +4,12 @@ Upload daf-processor output files to Supabase.
 
 Populates tables:
   shiur_content   — one row per daf (segmentation JSON, rewrite, final)
-  shiur_sections  — one row per segment with talmudic text, source_type, embedding
-                    (only when --sections flag is passed)
+  shiur_sections  — one row per segment with talmudic text and source_type
+                    (only when --sections flag is passed; no embeddings)
 
 Required environment variables:
   SUPABASE_URL          e.g. https://zewdazoijdpakugfvnzt.supabase.co
   SUPABASE_SERVICE_KEY  Service-role key from Supabase dashboard → Settings → API
-  OPENAI_API_KEY        Required when --sections is active
 
 Usage:
   python upload_to_supabase.py                                    # shiur_content for all output/
@@ -29,6 +28,8 @@ import sys
 from pathlib import Path
 from typing import List, Optional, Tuple
 
+import time
+
 import requests
 from dotenv import load_dotenv
 load_dotenv()
@@ -46,9 +47,25 @@ PASS_FILES = {
     "final":        "03_final.md",
 }
 
-EMBED_MODEL = "text-embedding-3-small"
-EMBED_DIMS  = 512
-EMBED_BATCH = 100
+
+
+# ---------------------------------------------------------------------------
+# Network helpers
+# ---------------------------------------------------------------------------
+
+def _request(method: str, url: str, *, retries: int = 6, **kwargs):
+    """HTTP request with exponential backoff on connection/DNS errors."""
+    for attempt in range(retries):
+        try:
+            return requests.request(method, url, **kwargs)
+        except (requests.exceptions.ConnectionError,
+                requests.exceptions.Timeout) as e:
+            if attempt == retries - 1:
+                raise
+            wait = 2.0 * (2 ** attempt)   # 2 4 8 16 32 64 s
+            logger.warning(f"  Network error (attempt {attempt + 1}/{retries}), "
+                           f"retrying in {wait:.0f}s: {e}")
+            time.sleep(wait)
 
 
 # ---------------------------------------------------------------------------
@@ -69,7 +86,7 @@ def upsert(url: str, rows, headers: dict, dry_run: bool, label: str) -> bool:
         print(f"  [DRY RUN] Would upsert {count} row(s) → {label}")
         return True
     h = {**headers, "Prefer": "resolution=merge-duplicates"}
-    resp = requests.post(url, headers=h, json=rows, timeout=60)
+    resp = _request("POST", url, headers=h, json=rows, timeout=60)
     if resp.status_code in (200, 201):
         return True
     logger.error(f"  ✗ {label}: HTTP {resp.status_code} — {resp.text[:300]}")
@@ -84,7 +101,7 @@ def delete_sections_for_daf(tractate: str, daf: float, headers: dict, dry_run: b
         return True
     url = (f"{SUPABASE_URL}/rest/v1/{SECTIONS_TABLE}"
            f"?tractate=eq.{requests.utils.quote(tractate)}&daf=eq.{daf}")
-    resp = requests.delete(url, headers=headers, timeout=30)
+    resp = _request("DELETE", url, headers=headers, timeout=30)
     if resp.status_code in (200, 204):
         return True
     logger.error(f"  ✗ delete {tractate} {daf}: HTTP {resp.status_code} — {resp.text[:200]}")
@@ -249,7 +266,7 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
     """
     Build shiur_sections rows from 03_final.md (preferred) or 02_rewrite.md (fallback).
     Timestamps come from 01_segmentation.json matched by title.
-    Returns rows WITHOUT embeddings (added separately in upload_job).
+    Returns rows ready for upsert (no embeddings — column was dropped).
     """
     # Prefer 03_final.md (has talmudic blockquotes); fall back to 025_cleanup.md
     # (Hebrew/Aramaic words replaced with English, inline re-citations removed),
@@ -307,6 +324,15 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
                     ts_str  = micro_match.get("timestamp")
                     ts_secs = ts_to_seconds(ts_str) if ts_str else None
 
+        source_type = section.get("source_type", "shiur_discussion")
+
+        # shiur_discussion rows have no talmudic_text and are no longer stored
+        # in shiur_sections — the full interleaved shiur is in shiur_content.final
+        # and fetched on demand when the user requests it.
+        if source_type == "shiur_discussion":
+            segment_index += 1
+            continue
+
         rows.append({
             "tractate":             tractate,
             "daf":                  daf,
@@ -315,9 +341,8 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
             "title":                title,
             "timestamp_mm_ss":      ts_str,
             "timestamp_secs":       ts_secs,
-            "content":              section["content"] or None,
             "talmudic_text":        section.get("talmudic_text") or None,
-            "source_type":          section.get("source_type", "shiur_discussion"),
+            "source_type":          source_type,
         })
         segment_index += 1
 
@@ -327,18 +352,6 @@ def build_section_rows(tractate: str, daf: float, job_dir: Path) -> List[dict]:
 # ---------------------------------------------------------------------------
 # Embeddings
 # ---------------------------------------------------------------------------
-
-def generate_embeddings(texts: List[str]) -> List[List[float]]:
-    import openai
-    client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-    all_embeddings = []
-    for i in range(0, len(texts), EMBED_BATCH):
-        batch = texts[i:i + EMBED_BATCH]
-        resp = client.embeddings.create(model=EMBED_MODEL, input=batch, dimensions=EMBED_DIMS)
-        all_embeddings.extend(item.embedding for item in resp.data)
-        logger.debug(f"  Embedded batch {i // EMBED_BATCH + 1} ({len(batch)} texts)")
-    return all_embeddings
-
 
 # ---------------------------------------------------------------------------
 # Upload
@@ -370,21 +383,20 @@ def upload_job(tractate: str, daf: float, job_dir: Path,
         logger.warning(f"  {label}: no sections parsed, skipping {SECTIONS_TABLE}")
         return ok
 
-    # Generate embeddings (embed content + talmudic_text concatenated for richer signal)
-    if not dry_run:
-        texts = [
-            " ".join(filter(None, [r.get("content"), r.get("talmudic_text")]))
-            for r in section_rows
-        ]
-        try:
-            embeddings = generate_embeddings(texts)
-            for row, emb in zip(section_rows, embeddings):
-                row["embedding"] = emb
-        except Exception as e:
-            logger.error(f"  {label}: embedding failed — {e}")
-            return False
-    else:
-        print(f"  [DRY RUN] Would generate {len(section_rows)} embeddings for {label}")
+    # Drop rows with no text content (nothing useful to store or search)
+    before = len(section_rows)
+    section_rows = [
+        r for r in section_rows
+        if (r.get("content") or "").strip() or (r.get("talmudic_text") or "").strip()
+    ]
+    skipped = before - len(section_rows)
+    if skipped:
+        logger.warning(f"  {label}: skipping {skipped} section(s) with empty content")
+    if not section_rows:
+        logger.warning(f"  {label}: no sections with content, skipping {SECTIONS_TABLE}")
+        return ok
+    if dry_run:
+        print(f"  [DRY RUN] Would upload {len(section_rows)} sections for {label}")
 
     delete_sections_for_daf(tractate, daf, headers, dry_run)
 
@@ -436,8 +448,7 @@ def main():
                         help="Comma-separated list of tractates to upload, e.g. "
                              "\"Berakhot,Shabbat,Sanhedrin\" (case-insensitive)")
     parser.add_argument("--sections", action="store_true",
-                        help="Also upload shiur_sections rows with talmudic text, "
-                             "source_type, and embeddings (requires OPENAI_API_KEY)")
+                        help="Also upload shiur_sections rows with talmudic text and source_type")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--force", action="store_true",
                         help="Re-upload even if rows exist (upsert always overwrites)")
@@ -455,16 +466,6 @@ def main():
     if not service_key and not args.dry_run:
         print("Error: SUPABASE_SERVICE_KEY not set.", file=sys.stderr)
         sys.exit(1)
-
-    if args.sections and not args.dry_run:
-        if not os.environ.get("OPENAI_API_KEY"):
-            print("Error: OPENAI_API_KEY not set (required for --sections).", file=sys.stderr)
-            sys.exit(1)
-        try:
-            import openai  # noqa: F401
-        except ImportError:
-            print("Error: openai package not installed. Run: pip install openai", file=sys.stderr)
-            sys.exit(1)
 
     tractate_filter = (
         {t.strip().lower() for t in args.tractates.split(",")}
