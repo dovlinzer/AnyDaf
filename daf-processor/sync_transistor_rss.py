@@ -37,7 +37,7 @@ logger = logging.getLogger(__name__)
 
 TRANSISTOR_FEEDS = [
     "https://feeds.transistor.fm/daf-yomi-archive",
-    "https://feeds.transistor.fm/daf-yomi-by-yct-with-rabbi-dov-linzer",
+    "https://feeds.transistor.fm/daf-yomi-by-yct-with-rabbi-dov-linzer-9e59f324-8344-4633-b555-e5b6757f7196",
 ]
 SUPABASE_URL   = os.environ.get("SUPABASE_URL", "https://zewdazoijdpakugfvnzt.supabase.co")
 EPISODE_TABLE  = "episode_audio"
