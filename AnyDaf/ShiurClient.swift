@@ -8,6 +8,9 @@ struct ShiurSegment: Identifiable, Decodable {
     let displayTitle: String
     let timestamp: String   // "MM:SS"
     var microSegments: [ShiurMicroSegment]
+    /// 0-based index into the flat Sefaria segment array (amud A + B concatenated).
+    /// Nil if find_sefaria_indices.py has not been run for this daf.
+    let sefariaIndex: Int?
 
     var id: String { timestamp }
 
@@ -22,6 +25,7 @@ struct ShiurSegment: Identifiable, Decodable {
         case title, timestamp
         case displayTitle = "display_title"
         case microSegments = "micro_segments"
+        case sefariaIndex = "sefaria_index"
     }
 
     init(from decoder: Decoder) throws {
@@ -30,6 +34,7 @@ struct ShiurSegment: Identifiable, Decodable {
         displayTitle = (try? c.decode(String.self, forKey: .displayTitle)) ?? title
         timestamp = try c.decode(String.self, forKey: .timestamp)
         microSegments = (try? c.decode([ShiurMicroSegment].self, forKey: .microSegments)) ?? []
+        sefariaIndex = try? c.decode(Int.self, forKey: .sefariaIndex)
     }
 }
 
@@ -66,6 +71,9 @@ struct ShiurSegmentation: Decodable {
     let amudBTimestamp: String?
     /// Display title of the ### micro-segment where amud B begins (nil if amud B starts at a ## boundary).
     let amudBMicroTitle: String?
+    /// 0-based index of the first amud B segment in the flat Sefaria array (= amud A segment count).
+    /// Nil if find_sefaria_indices.py has not been run for this daf.
+    let amudBSefariaIndex: Int?
 
     var amudBSeconds: Double? {
         guard let ts = amudBTimestamp else { return nil }
@@ -79,6 +87,7 @@ struct ShiurSegmentation: Decodable {
         case amudBSegmentIndex = "amud_b_segment_index"
         case amudBTimestamp = "amud_b_timestamp"
         case amudBMicroTitle = "amud_b_micro_title"
+        case amudBSefariaIndex = "amud_b_sefaria_index"
     }
 }
 
@@ -96,6 +105,8 @@ class ShiurClient: ObservableObject {
     @Published var amudBSeconds: Double? = nil
     /// Display title of the ### micro-segment where amud B begins (nil if at a ## boundary or not detected).
     @Published var amudBMicroTitle: String? = nil
+    /// 0-based Sefaria flat-array index where amud B begins (nil if not yet computed).
+    @Published var amudBSefariaIndex: Int? = nil
     /// Lecture rewrite text (pass 2) for the loaded daf, or nil if not available.
     @Published var shiurRewrite: String? = nil
     /// Lecture text with Sefaria sources inserted (pass 3), or nil if not available.
@@ -117,6 +128,7 @@ class ShiurClient: ObservableObject {
         amudBSegmentIndex = nil
         amudBSeconds = nil
         amudBMicroTitle = nil
+        amudBSefariaIndex = nil
         shiurRewrite = nil
         shiurFinal = nil
 
@@ -142,6 +154,7 @@ class ShiurClient: ObservableObject {
                 amudBSegmentIndex = decoded.amudBSegmentIndex
                 amudBSeconds = decoded.amudBSeconds
                 amudBMicroTitle = decoded.amudBMicroTitle
+                amudBSefariaIndex = decoded.amudBSefariaIndex
             }
 
             shiurRewrite = first["rewrite"] as? String
@@ -181,6 +194,7 @@ class ShiurClient: ObservableObject {
         amudBSegmentIndex = nil
         amudBSeconds = nil
         amudBMicroTitle = nil
+        amudBSefariaIndex = nil
         shiurRewrite = nil
         shiurFinal = nil
         audioSegments = []

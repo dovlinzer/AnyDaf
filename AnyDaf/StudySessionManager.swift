@@ -55,8 +55,8 @@ class StudySessionManager: ObservableObject {
             let hebrewA = try? await hebrewASegs
             let hebrewB = try? await hebrewBSegs
 
-            let sectionsA = SefariaClient.parseSections(from: segsA, hebrewSegments: hebrewA)
-            let sectionsB = SefariaClient.parseSections(from: segsB, hebrewSegments: hebrewB)
+            let sectionsA = SefariaClient.parseSections(from: segsA, hebrewSegments: hebrewA, offset: 0)
+            let sectionsB = SefariaClient.parseSections(from: segsB, hebrewSegments: hebrewB, offset: segsA.count)
 
             let allSections = sectionsA + sectionsB
             session = StudySession(
@@ -385,6 +385,27 @@ class StudySessionManager: ObservableObject {
         else { return }
         self.session!.currentSectionIndex = idx
         // Content loading is driven by StudyModeView's tab-aware onChange observer.
+    }
+
+    /// Jump directly to a section by 0-based index.
+    func jumpToSectionAt(_ index: Int) {
+        guard session != nil, !session!.sections.isEmpty else { return }
+        let clamped = max(0, min(index, session!.sections.count - 1))
+        if session!.currentSectionIndex != clamped { session!.currentSectionIndex = clamped }
+    }
+
+    /// Jump to the section whose flat Sefaria segment range contains `sefariaIndex`.
+    /// Finds the last section whose firstSegmentIndex ≤ sefariaIndex (i.e., the section that
+    /// "owns" that index). No-ops if the session has no sections.
+    func jumpToSection(containing sefariaIndex: Int) {
+        guard let session = self.session, !session.sections.isEmpty else { return }
+        var target = 0
+        for (i, sec) in session.sections.enumerated() {
+            if sec.firstSegmentIndex <= sefariaIndex { target = i }
+        }
+        if self.session!.currentSectionIndex != target {
+            self.session!.currentSectionIndex = target
+        }
     }
 
     // MARK: - Quiz — Multiple Choice

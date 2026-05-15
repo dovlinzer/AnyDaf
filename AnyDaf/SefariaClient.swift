@@ -252,8 +252,11 @@ class SefariaClient {
     /// - Parameter hebrewSegments: optional parallel Hebrew/Aramaic segments (same count as
     ///   `segments`). When provided, each `StudySection.hebrewText` is built from the
     ///   corresponding Hebrew segments using the same index boundaries.
+    /// - Parameter offset: 0-based index of `segments[0]` in the full flat Sefaria array
+    ///   (= 0 for amud A; = segsA.count for amud B). Used to populate `firstSegmentIndex`.
     static func parseSections(from segments: [String],
-                              hebrewSegments: [String]? = nil) -> [StudySection] {
+                              hebrewSegments: [String]? = nil,
+                              offset: Int = 0) -> [StudySection] {
 
         // ── Phase 1: header-based split, tracking original segment indices ──────
         // Each part stores its English text fragments AND the original segment indices
@@ -321,7 +324,8 @@ class SefariaClient {
                     rawSegments: segs,
                     hebrewText: hebrewText(for: indices),
                     hebrewSegments: hebrewSegsArray(for: indices),
-                    quizQuestions: []
+                    quizQuestions: [],
+                    firstSegmentIndex: offset + (indices.first ?? 0)
                 ))
             } else {
                 let totalChunks = (segs.count + maxSegmentsPerSection - 1) / maxSegmentsPerSection
@@ -331,13 +335,15 @@ class SefariaClient {
                     // Slice the same range from indices
                     let idxStart = min(start, indices.count)
                     let idxEnd   = min(end, indices.count)
+                    let chunkIndices = Array(indices[idxStart..<idxEnd])
                     studySections.append(StudySection(
                         title: "\(title), Part \(i + 1)",
                         rawText: segs[start..<end].joined(separator: "\n\n"),
                         rawSegments: Array(segs[start..<end]),
-                        hebrewText: hebrewText(for: Array(indices[idxStart..<idxEnd])),
-                        hebrewSegments: hebrewSegsArray(for: Array(indices[idxStart..<idxEnd])),
-                        quizQuestions: []
+                        hebrewText: hebrewText(for: chunkIndices),
+                        hebrewSegments: hebrewSegsArray(for: chunkIndices),
+                        quizQuestions: [],
+                        firstSegmentIndex: offset + (chunkIndices.first ?? 0)
                     ))
                 }
             }
@@ -356,7 +362,8 @@ class SefariaClient {
                     rawSegments: Array(segments[start..<end]),
                     hebrewText: hebrewText(for: indices),
                     hebrewSegments: hebrewSegsArray(for: indices),
-                    quizQuestions: []
+                    quizQuestions: [],
+                    firstSegmentIndex: offset + (indices.first ?? 0)
                 ))
             }
         }

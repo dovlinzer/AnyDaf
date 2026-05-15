@@ -50,7 +50,7 @@ import com.anydaf.viewmodel.AudioViewModel
 import kotlin.math.roundToInt
 
 @Composable
-fun AudioPlayerBar(audioViewModel: AudioViewModel, onStop: () -> Unit = { audioViewModel.stop() }) {
+fun AudioPlayerBar(audioViewModel: AudioViewModel, nowPlayingLabel: String = "", onStop: () -> Unit = { audioViewModel.stop() }) {
     val isPlaying by audioViewModel.isPlaying.collectAsState()
     val currentTime by audioViewModel.currentTime.collectAsState()
     val duration by audioViewModel.duration.collectAsState()
@@ -60,7 +60,21 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, onStop: () -> Unit = { audioV
         modifier = Modifier.fillMaxWidth(),
         elevation = CardDefaults.cardElevation(4.dp)
     ) {
-        Column(modifier = Modifier.padding(horizontal = 8.dp, vertical = 4.dp)) {
+        Column(modifier = Modifier.padding(horizontal = 8.dp, vertical = 2.dp)) {
+
+            // Now-playing label (tractate + daf)
+            if (nowPlayingLabel.isNotEmpty()) {
+                Text(
+                    text = nowPlayingLabel,
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.55f),
+                    maxLines = 1,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(top = 2.dp),
+                    textAlign = TextAlign.Center
+                )
+            }
 
             // Progress row: show seek bar once duration is known; spinner for initial load only
             if (duration <= 0f) {
@@ -80,7 +94,7 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, onStop: () -> Unit = { audioV
 
             // Controls row
             Row(
-                modifier = Modifier.fillMaxWidth().padding(bottom = 2.dp),
+                modifier = Modifier.fillMaxWidth().padding(bottom = 1.dp),
                 horizontalArrangement = Arrangement.SpaceEvenly,
                 verticalAlignment = Alignment.CenterVertically
             ) {
@@ -91,23 +105,23 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, onStop: () -> Unit = { audioV
                 ) {
                     IconButton(
                         onClick = { audioViewModel.skip(-30f) },
-                        modifier = Modifier.size(36.dp)
+                        modifier = Modifier.size(30.dp)
                     ) {
                         SkipIcon(forward = false)
                     }
                     IconButton(
                         onClick = { audioViewModel.togglePlayPause() },
-                        modifier = Modifier.size(36.dp)
+                        modifier = Modifier.size(30.dp)
                     ) {
                         Icon(
                             if (isPlaying) Icons.Default.Pause else Icons.Default.PlayArrow,
                             if (isPlaying) "Pause" else "Play",
-                            Modifier.size(26.dp)
+                            Modifier.size(22.dp)
                         )
                     }
                     IconButton(
                         onClick = { audioViewModel.skip(30f) },
-                        modifier = Modifier.size(36.dp)
+                        modifier = Modifier.size(30.dp)
                     ) {
                         SkipIcon(forward = true)
                     }
@@ -115,9 +129,9 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, onStop: () -> Unit = { audioV
 
                 IconButton(
                     onClick = onStop,
-                    modifier = Modifier.size(36.dp)
+                    modifier = Modifier.size(30.dp)
                 ) {
-                    Icon(Icons.Default.Stop, "Stop", Modifier.size(20.dp))
+                    Icon(Icons.Default.Stop, "Stop", Modifier.size(18.dp))
                 }
 
                 val speeds = listOf(0.5f, 0.75f, 1f, 1.25f, 1.5f, 2f)
@@ -181,7 +195,7 @@ private fun SeekBar(
         Box(
             modifier = Modifier
                 .weight(1f)
-                .height(20.dp)
+                .height(16.dp)
                 .pointerInput(duration) {
                     awaitEachGesture {
                         val down = awaitFirstDown()

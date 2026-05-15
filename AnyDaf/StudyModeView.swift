@@ -41,6 +41,7 @@ struct StudyModeView: View {
 
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
+    @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
     private var studyBg: Color { useWhiteBackground ? .white : SplashView.background }
     private var studyFg: Color { useWhiteBackground ? Color(.label) : .white }
     private var studyCardFill: Color { useWhiteBackground ? Color(.systemGray5) : .white.opacity(0.1) }
@@ -126,6 +127,14 @@ struct StudyModeView: View {
                         },
                         readAloudManager: readAloudManager,
                         resourcesManager: resourcesManager,
+                        onPrint: {
+                            PrintManager.present(.talmudText(
+                                tractate: session.tractate,
+                                daf: "\(session.daf)",
+                                sections: session.sections,
+                                mode: sourceDisplayMode
+                            ))
+                        },
                         onArticleTapped: { article in
                             selectedArticle = article
                             articleHTML = ""
@@ -434,6 +443,62 @@ struct StudyModeView: View {
     }
 }
 
+// MARK: - Translation HTML helpers
+
+fileprivate struct TranslationSegment {
+    let text: String
+    let isDirect: Bool   // true = literal Aramaic/Hebrew translation (was bold in HTML)
+}
+
+@MainActor fileprivate func parseTranslationHTML(_ html: String) -> [TranslationSegment] {
+    var segments: [TranslationSegment] = []
+
+    var cleaned = html.replacingOccurrences(
+        of: #"<(?:strong|b)>([A-Z][A-Z ]*):?</(?:strong|b)>"#,
+        with: "$1. ", options: .regularExpression)
+
+    for br in ["<br/>", "<br />", "<br>"] {
+        cleaned = cleaned.replacingOccurrences(of: br, with: "\n")
+    }
+
+    let boldPattern = #"<(?:b|strong)>(.*?)</(?:b|strong)>"#
+    guard let regex = try? NSRegularExpression(
+            pattern: boldPattern, options: [.dotMatchesLineSeparators]) else {
+        return [TranslationSegment(text: SefariaClient.stripHTML(html), isDirect: false)]
+    }
+
+    let ns = cleaned as NSString
+    let matches = regex.matches(in: cleaned, range: NSRange(location: 0, length: ns.length))
+    var lastEnd = 0
+
+    for match in matches {
+        if match.range.location > lastEnd {
+            let raw = ns.substring(with: NSRange(location: lastEnd,
+                                                 length: match.range.location - lastEnd))
+            let s = SefariaClient.stripHTML(raw)
+            if !s.trimmingCharacters(in: .whitespaces).isEmpty {
+                segments.append(.init(text: s, isDirect: false))
+            }
+        }
+        if let r = Range(match.range(at: 1), in: cleaned) {
+            let s = SefariaClient.stripHTML(String(cleaned[r]))
+            if !s.isEmpty { segments.append(.init(text: s, isDirect: true)) }
+        }
+        lastEnd = match.range.location + match.range.length
+    }
+
+    if lastEnd < ns.length {
+        let raw = ns.substring(with: NSRange(location: lastEnd,
+                                             length: ns.length - lastEnd))
+        let s = SefariaClient.stripHTML(raw)
+        if !s.trimmingCharacters(in: .whitespaces).isEmpty {
+            segments.append(.init(text: s, isDirect: false))
+        }
+    }
+
+    return segments
+}
+
 // MARK: - Section Study View
 
 struct SectionStudyView: View {
@@ -467,6 +532,7 @@ struct SectionStudyView: View {
     @ObservedObject var readAloudManager: ReadAloudManager
 
     @ObservedObject var resourcesManager: ResourcesManager
+    var onPrint: (() -> Void)? = nil
     let onArticleTapped: (YCTArticle) -> Void
 
     @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
@@ -494,6 +560,14 @@ struct SectionStudyView: View {
                         .font(.caption)
                         .foregroundStyle(fg.opacity(0.6))
                     Spacer()
+                    // Print button — shown on Translation tab only
+                    if selectedTab == 0, let printAction = onPrint {
+                        Button(action: printAction) {
+                            Image(systemName: "printer")
+                                .font(.callout)
+                                .foregroundStyle(fg.opacity(0.55))
+                        }
+                    }
                     // Read-Aloud button (commented out — re-enable when ready)
 //                        Button {
 //                            if readAloudManager.isActive {
@@ -1188,73 +1262,7 @@ struct SectionStudyView: View {
         }
     }
 
-    // MARK: - HTML Parsing
-
-    private struct TranslationSegment {
-        let text: String
-        let isDirect: Bool   // true = literal Aramaic/Hebrew translation (was bold in HTML)
-    }
-
-    private func parseTranslationHTML(_ html: String) -> [TranslationSegment] {
-        var segments: [TranslationSegment] = []
-
-        // Unwrap section-header bold tags (e.g. <strong>GEMARA:</strong>) so the label
-        // appears inline as plain text rather than being styled as a direct translation.
-        var cleaned = html.replacingOccurrences(
-            of: #"<(?:strong|b)>([A-Z][A-Z ]*):?</(?:strong|b)>"#,
-            with: "$1. ", options: .regularExpression)
-
-        // Normalise line-breaks
-        for br in ["<br/>", "<br />", "<br>"] {
-            cleaned = cleaned.replacingOccurrences(of: br, with: "\n")
-        }
-
-        // Find all remaining bold spans — these are the direct Aramaic/Hebrew translations
-        let boldPattern = #"<(?:b|strong)>(.*?)</(?:b|strong)>"#
-        guard let regex = try? NSRegularExpression(
-                pattern: boldPattern, options: [.dotMatchesLineSeparators]) else {
-            return [TranslationSegment(text: SefariaClient.stripHTML(html), isDirect: false)]
-        }
-
-        let ns = cleaned as NSString
-        let matches = regex.matches(in: cleaned,
-                                    range: NSRange(location: 0, length: ns.length))
-        var lastEnd = 0
-
-        for match in matches {
-            // Non-bold text before this match (editorial additions)
-            if match.range.location > lastEnd {
-                let raw = ns.substring(with: NSRange(location: lastEnd,
-                                                     length: match.range.location - lastEnd))
-                let s = SefariaClient.stripHTML(raw)
-                if !s.trimmingCharacters(in: .whitespaces).isEmpty {
-                    segments.append(.init(text: s, isDirect: false))
-                }
-            }
-            // Bold span (direct translation)
-            if let r = Range(match.range(at: 1), in: cleaned) {
-                let s = SefariaClient.stripHTML(String(cleaned[r]))
-                if !s.isEmpty { segments.append(.init(text: s, isDirect: true)) }
-            }
-            lastEnd = match.range.location + match.range.length
-        }
-
-        // Trailing non-bold text
-        if lastEnd < ns.length {
-            let raw = ns.substring(with: NSRange(location: lastEnd,
-                                                 length: ns.length - lastEnd))
-            let s = SefariaClient.stripHTML(raw)
-            if !s.trimmingCharacters(in: .whitespaces).isEmpty {
-                segments.append(.init(text: s, isDirect: false))
-            }
-        }
-
-        return segments
-    }
-
     private func buildTranslationText(from segments: [TranslationSegment]) -> Text {
-        // Shekalim (Jerusalem Talmud) uses no bold/direct markers, so render all text
-        // in the direct/highlight color rather than the muted "added" color.
         let allDirect = tractate == "Shekalim"
         return segments.reduce(Text("")) { acc, seg in
             acc + Text(seg.text)

@@ -27,6 +27,10 @@ struct ShiurTextView: View {
     /// When set, pressing B scrolls to this ### micro-segment title within the amud B macro segment.
     var amudBSegmentIndex: Int? = nil
     var amudBMicroTitle: String? = nil
+    /// Set by the caller to force-scroll to a specific segment index. Consumed (reset to nil) after scrolling.
+    /// Using Binding<Int?> instead of a counter ensures onChange always fires (nil→N is always a change),
+    /// avoids reading a potentially stale currentSegmentIndex, and cannot fire spuriously on view recreation.
+    @Binding var scrollRequest: Int?
     /// Called (on main thread) when the user scrolls past a new macro segment heading.
     /// Only fired when the heading enters the upper portion of the visible scroll area.
     var onSegmentVisible: ((Int) -> Void)? = nil
@@ -58,13 +62,14 @@ struct ShiurTextView: View {
     var body: some View {
         ScrollViewReader { proxy in
             ScrollView {
-                LazyVStack(alignment: .leading, spacing: 0) {
+                VStack(alignment: .leading, spacing: 0) {
                     ForEach(parsedBlocks) { item in
                         blockView(item)
                     }
                 }
                 .padding(.horizontal, 18)
-                .padding(.vertical, 12)
+                .padding(.top, 4)
+                .padding(.bottom, 12)
             }
             .coordinateSpace(name: "shiurScroll")
             .dynamicTypeSize(studyFontSize.dynamicTypeSize)
@@ -85,13 +90,8 @@ struct ShiurTextView: View {
                 parsedBlocks = computed
                 if idx > 0 {
                     // Allow SwiftUI to commit the new parsedBlocks layout before scrolling.
-                    // proxy.scrollTo silently fails if called before items exist in the view.
-                    // Use withAnimation so SwiftUI renders lazy items progressively rather
-                    // than estimating the offset, which overshoots on dafs with high bIdx.
                     try? await Task.sleep(nanoseconds: 50_000_000)
-                    withAnimation(.easeInOut(duration: 0.4)) {
-                        proxy.scrollTo(scrollTarget(for: idx), anchor: .top)
-                    }
+                    proxy.scrollTo(scrollTarget(for: idx), anchor: .top)
                 } else {
                     proxy.scrollTo(scrollTarget(for: idx), anchor: .top)
                 }
@@ -107,13 +107,28 @@ struct ShiurTextView: View {
                     return
                 }
                 scrollDetectionState.isProgrammaticScrolling = true
-                withAnimation(.easeInOut(duration: 0.4)) {
-                    proxy.scrollTo(scrollTarget(for: newIdx), anchor: .top)
-                }
+                proxy.scrollTo(scrollTarget(for: newIdx), anchor: .top)
                 Task {
                     try? await Task.sleep(nanoseconds: 650_000_000)
                     scrollDetectionState.isProgrammaticScrolling = false
                 }
+            }
+            // Fires on every pill tap (nil→idx is always a change). Scrolls to the explicit
+            // requested index rather than reading currentSegmentIndex, then resets to nil so
+            // the same pill can be tapped again and onChange fires a second time (idx→nil→idx).
+            .onChange(of: scrollRequest) { _, newIdx in
+                guard let idx = newIdx, !parsedBlocks.isEmpty else { return }
+                scrollDetectionState.isProgrammaticScrolling = true
+                // Always scroll to segment top ("seg-N"), never to the amud-B h3.
+                // scrollTarget(for:) is intentionally NOT used here — that h3 redirect
+                // is only correct for the B-toggle (onChange(of: currentSegmentIndex)).
+                proxy.scrollTo("seg-\(idx)", anchor: .top)
+                Task {
+                    try? await Task.sleep(nanoseconds: 650_000_000)
+                    scrollDetectionState.isProgrammaticScrolling = false
+                }
+                // Consume the request so the next tap (even to the same segment) sees a change.
+                scrollRequest = nil
             }
             .onAppear {
                 // Re-appear with already-parsed blocks (e.g. switching back from Study tab).

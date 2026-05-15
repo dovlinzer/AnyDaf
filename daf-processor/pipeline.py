@@ -112,7 +112,9 @@ def repair_segmentation(data: dict) -> dict:
                 )
                 macro1 = {**macro, "micro_segments": early,
                           "timestamp": early[0]["timestamp"]}
+                original_dt = (macro.get("display_title") or base_title)[:22].rstrip()
                 macro2 = {**macro, "title": cont_title, "display_title": cont_dt,
+                          "heading_title": original_dt + " (cont.)",
                           "micro_segments": late, "timestamp": late[0]["timestamp"]}
                 new_macros.extend([macro1, macro2])
                 overlap_found = True
@@ -130,13 +132,17 @@ def repair_segmentation(data: dict) -> dict:
         logger.info(f"  Segmentation: split {splits_made} non-contiguous macro(s) into "
                     f"'(continued)' segments to restore chronological order.")
 
-    # ── Pass 3: enforce display_title length ─────────────────────────────
+    # ── Pass 3: enforce display_title length; preserve heading_title ─────
     for macro in repaired:
-        macro["display_title"] = _truncate_display_title(
-            macro.get("display_title") or macro.get("title", ""))
+        raw_dt = macro.get("display_title") or macro.get("title", "")
+        if "heading_title" not in macro:
+            macro["heading_title"] = raw_dt
+        macro["display_title"] = _truncate_display_title(raw_dt)
         for micro in macro.get("micro_segments", []):
-            micro["display_title"] = _truncate_display_title(
-                micro.get("display_title") or micro.get("title", ""))
+            raw_mdt = micro.get("display_title") or micro.get("title", "")
+            if "heading_title" not in micro:
+                micro["heading_title"] = raw_mdt
+            micro["display_title"] = _truncate_display_title(raw_mdt)
 
     changed = repaired != macros
     if changed:

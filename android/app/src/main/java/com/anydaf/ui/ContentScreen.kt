@@ -225,6 +225,10 @@ fun ContentScreen(
     LaunchedEffect(audioSegmentIndex) {
         if (!isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf) {
             ShiurClient.jumpToSegment(audioSegmentIndex)
+            val sefariaIdx = ShiurClient.audioSegments.value.getOrNull(audioSegmentIndex)?.sefariaIndex
+            if (sefariaIdx != null && mainContentMode == MainContentMode.TEXT) {
+                studyViewModel.jumpToSection(sefariaIdx)
+            }
         }
     }
     // Sync the a/b picker to the shiur's actual segment position when in Shiur mode,
@@ -502,7 +506,10 @@ fun ContentScreen(
                                     }
                                 }
                             }
-                            AudioPlayerBar(audioViewModel = audioViewModel)
+                            AudioPlayerBar(
+                                audioViewModel = audioViewModel,
+                                nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else ""
+                            )
                         }
                         if (isAudioStopped) {
                             Box(
@@ -688,7 +695,14 @@ fun ContentScreen(
                                                             modifier = Modifier
                                                                 .clip(RoundedCornerShape(50))
                                                                 .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
-                                                                .clickable { ShiurClient.jumpToSegment(index) }
+                                                                .clickable {
+                                                                    ShiurClient.jumpToSegment(index)
+                                                                    val isSameDaf = !isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf
+                                                                    if (isSameDaf) {
+                                                                        audioViewModel.seekToSeconds(seg.seconds.toFloat())
+                                                                        ShiurClient.jumpToAudioSegment(index)
+                                                                    }
+                                                                }
                                                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                                                         ) {
                                                             Text(
@@ -848,23 +862,25 @@ fun ContentScreen(
                 val shiurDisplayText = if (shiurShowSources) shiurFinal ?: shiurRewrite else shiurRewrite
                 when {
                     mainContentMode == MainContentMode.TEXT -> {
-                        StudyModeContent(
-                            studyViewModel = studyViewModel,
-                            bookmarkViewModel = bookmarkViewModel,
-                            contentViewModel = contentViewModel,
-                            resourcesViewModel = resourcesViewModel,
-                            textOnly = true,
-                            isAudioStopped = isAudioStopped,
-                            onStartStudy = {
-                                resourcesViewModel.reset()
-                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
-                            },
-                            onPrintTranslation = {
-                                val s = studyViewModel.session.value
-                                if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
-                            },
-                            modifier = Modifier.fillMaxSize()
-                        )
+                        Column(Modifier.fillMaxSize()) {
+                            StudyModeContent(
+                                studyViewModel = studyViewModel,
+                                bookmarkViewModel = bookmarkViewModel,
+                                contentViewModel = contentViewModel,
+                                resourcesViewModel = resourcesViewModel,
+                                textOnly = true,
+                                isAudioStopped = isAudioStopped,
+                                onStartStudy = {
+                                    resourcesViewModel.reset()
+                                    studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+                                },
+                                onPrintTranslation = {
+                                    val s = studyViewModel.session.value
+                                    if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
+                                },
+                                modifier = Modifier.weight(1f).fillMaxWidth()
+                            )
+                        }
                     }
                     mainContentMode == MainContentMode.SHIUR && shiurDisplayText != null -> {
                         Column(Modifier.fillMaxSize()) {
@@ -884,7 +900,14 @@ fun ContentScreen(
                                             modifier = Modifier
                                                 .clip(RoundedCornerShape(50))
                                                 .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
-                                                .clickable { ShiurClient.jumpToSegment(index) }
+                                                .clickable {
+                                                    ShiurClient.jumpToSegment(index)
+                                                    val isSameDaf = !isAudioStopped && tractate.name == audioLockedTractate && selectedDaf == audioLockedDaf
+                                                    if (isSameDaf) {
+                                                        audioViewModel.seekToSeconds(seg.seconds.toFloat())
+                                                        ShiurClient.jumpToAudioSegment(index)
+                                                    }
+                                                }
                                                 .padding(horizontal = 10.dp, vertical = 4.dp)
                                         ) {
                                             Text(
@@ -1019,7 +1042,10 @@ fun ContentScreen(
                         }
                     }
                 }
-                AudioPlayerBar(audioViewModel = audioViewModel)
+                AudioPlayerBar(
+                    audioViewModel = audioViewModel,
+                    nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else ""
+                )
             }
         }
         } // end phone else-branch

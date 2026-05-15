@@ -147,6 +147,20 @@ struct ArticleReaderView: View {
 
                     Spacer()
 
+                    // Print
+                    if let html = html {
+                        Button {
+                            PrintManager.present(.article(article: article, html: html))
+                        } label: {
+                            Image(systemName: "printer")
+                                .font(.title3)
+                                .foregroundStyle(fg.opacity(0.6))
+                                .frame(width: 44, height: 44)
+                                .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                    }
+
                     // Open-in-browser
                     Button {
                         if let url = URL(string: article.link) {

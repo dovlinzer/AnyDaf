@@ -293,6 +293,8 @@ struct StudySection: Identifiable {
     let hebrewSegments: [String] // individual Hebrew HTML segments (for paragraph-aligned display)
     var summary: String?         // Claude-generated summary
     var quizQuestions: [QuizQuestion]
+    /// 0-based index of this section's first segment in the flat Sefaria array (amud A + B concatenated).
+    let firstSegmentIndex: Int
 }
 
 /// Full study session state

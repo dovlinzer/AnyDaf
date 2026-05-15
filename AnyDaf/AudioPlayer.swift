@@ -20,7 +20,7 @@ class AudioPlayer {
     private var player: AVPlayer?
     private var timeObserver: Any?
     private var cancellables = Set<AnyCancellable>()
-    private var nowPlayingTitle = ""
+    var nowPlayingTitle = ""
     private var routeChangeObserver: NSObjectProtocol?
     private var currentPlayTask: Task<Void, Never>?
     private var startAtSeconds: Double = 0

@@ -66,13 +66,15 @@ def lookup_segment(heading_type: str, heading_text: str,
     """
     if heading_type == '##':
         for i, seg in enumerate(macro_segments):
-            if (seg.get('display_title', '').strip() == heading_text or
+            if (seg.get('heading_title', '').strip() == heading_text or
+                    seg.get('display_title', '').strip() == heading_text or
                     seg.get('title', '').strip() == heading_text):
                 return (i, seg.get('timestamp', ''))
     else:  # '###'
         for i, seg in enumerate(macro_segments):
             for micro in seg.get('micro_segments', []):
-                if (micro.get('display_title', '').strip() == heading_text or
+                if (micro.get('heading_title', '').strip() == heading_text or
+                        micro.get('display_title', '').strip() == heading_text or
                         micro.get('title', '').strip() == heading_text):
                     return (i, micro.get('timestamp', ''))
     return None

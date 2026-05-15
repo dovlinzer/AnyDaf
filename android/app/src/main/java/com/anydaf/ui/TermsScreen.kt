@@ -12,12 +12,22 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun TermsScreen(onAccept: () -> Unit) {
+    val scrollState = rememberScrollState()
+    val hasScrolledToBottom by remember {
+        derivedStateOf {
+            scrollState.maxValue == 0 || scrollState.value >= scrollState.maxValue
+        }
+    }
+
     Scaffold(
         topBar = {
             TopAppBar(title = { Text("Terms of Service") })
@@ -25,6 +35,7 @@ fun TermsScreen(onAccept: () -> Unit) {
         bottomBar = {
             Button(
                 onClick = onAccept,
+                enabled = hasScrolledToBottom,
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(16.dp)
@@ -40,7 +51,7 @@ fun TermsScreen(onAccept: () -> Unit) {
                 .fillMaxSize()
                 .padding(padding)
                 .padding(horizontal = 16.dp, vertical = 8.dp)
-                .verticalScroll(rememberScrollState())
+                .verticalScroll(scrollState)
         )
     }
 }
@@ -48,7 +59,7 @@ fun TermsScreen(onAccept: () -> Unit) {
 private val TERMS_TEXT = """
 Last updated: April 2026
 
-Please read these Terms of Service carefully before using AnyDaf. By tapping "Accept & Continue," you agree to be bound by these terms.
+Please read these Terms of Service carefully before using AnyDaf. By tapping "Accept & Continue," or by using AnyDaf or accessing its content, you agree to be bound by these terms.
 
 1. PERSONAL USE ONLY
 
@@ -56,7 +67,7 @@ AnyDaf is provided for your personal, non-commercial Torah study. You may not us
 
 2. NO SCRAPING OR AUTOMATED ACCESS
 
-You may not use bots, scrapers, crawlers, automated scripts, or any other tool to systematically access, download, copy, or harvest content from AnyDaf or its underlying data. All content must be accessed through the app interface only.
+You may not use bots, scrapers, crawlers, automated scripts, or any other tool to systematically access, download, copy, or harvest content from AnyDaf or its underlying data. All content must be accessed through the app interface only. You may not train any generative artificial product on the content of AnyDaf without an express written license from Rabbi Linzer.
 
 3. INTELLECTUAL PROPERTY
 
@@ -70,9 +81,9 @@ Organizations or individuals seeking to use AnyDaf content for commercial purpos
 
 AnyDaf is provided "as is" without warranty of any kind, express or implied. YCT makes no representations regarding the accuracy, completeness, or availability of the content.
 
-6. GOVERNING LAW
+6. GOVERNING LAW AND EXCLUSIVE JURISDICTION
 
-These Terms are governed by the laws of the State of New York, without regard to its conflict of law provisions.
+These Terms are governed by the laws of the State of New York, without regard to its conflict of law provisions. By using AnyDaf or accessing its content, you submit to the jurisdiction of, and venue in, the United States District Court for the S.D.N.Y., or if there is no subject matter jurisdiction in that court, to the Supreme Court, New York County.
 
 7. CONTACT
 

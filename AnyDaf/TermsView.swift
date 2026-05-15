@@ -1,7 +1,15 @@
 import SwiftUI
 
+private struct BottomVisibleKey: PreferenceKey {
+    static var defaultValue: CGFloat = 0
+    static func reduce(value: inout CGFloat, nextValue: () -> CGFloat) {
+        value = nextValue()
+    }
+}
+
 struct TermsView: View {
     let onAccept: () -> Void
+    @State private var hasScrolledToBottom = false
 
     var body: some View {
         NavigationStack {
@@ -11,6 +19,19 @@ struct TermsView: View {
                         .font(.body)
                         .foregroundStyle(.primary)
                         .padding()
+
+                    GeometryReader { geo in
+                        Color.clear.preference(
+                            key: BottomVisibleKey.self,
+                            value: geo.frame(in: .global).maxY
+                        )
+                    }
+                    .frame(height: 1)
+                }
+            }
+            .onPreferenceChange(BottomVisibleKey.self) { maxY in
+                if maxY > 0 && maxY <= UIScreen.main.bounds.height {
+                    hasScrolledToBottom = true
                 }
             }
             .navigationTitle("Terms of Service")
@@ -22,9 +43,10 @@ struct TermsView: View {
                         .foregroundStyle(.white)
                         .frame(maxWidth: .infinity)
                         .padding()
-                        .background(SplashView.background)
+                        .background(hasScrolledToBottom ? SplashView.background : Color.gray)
                         .clipShape(RoundedRectangle(cornerRadius: 12))
                 }
+                .disabled(!hasScrolledToBottom)
                 .padding()
                 .background(.ultraThinMaterial)
             }
@@ -35,7 +57,7 @@ struct TermsView: View {
 private let termsText = """
 Last updated: April 2026
 
-Please read these Terms of Service carefully before using AnyDaf. By tapping "Accept & Continue," you agree to be bound by these terms.
+Please read these Terms of Service carefully before using AnyDaf. By tapping "Accept & Continue," or by using AnyDaf or accessing its content, you agree to be bound by these terms.
 
 1. PERSONAL USE ONLY
 
@@ -43,7 +65,7 @@ AnyDaf is provided for your personal, non-commercial Torah study. You may not us
 
 2. NO SCRAPING OR AUTOMATED ACCESS
 
-You may not use bots, scrapers, crawlers, automated scripts, or any other tool to systematically access, download, copy, or harvest content from AnyDaf or its underlying data. All content must be accessed through the app interface only.
+You may not use bots, scrapers, crawlers, automated scripts, or any other tool to systematically access, download, copy, or harvest content from AnyDaf or its underlying data. All content must be accessed through the app interface only. You may not train any generative artificial product on the content of AnyDaf without an express written license from Rabbi Linzer.
 
 3. INTELLECTUAL PROPERTY
 
@@ -57,9 +79,9 @@ Organizations or individuals seeking to use AnyDaf content for commercial purpos
 
 AnyDaf is provided "as is" without warranty of any kind, express or implied. YCT makes no representations regarding the accuracy, completeness, or availability of the content.
 
-6. GOVERNING LAW
+6. GOVERNING LAW AND EXCLUSIVE JURISDICTION
 
-These Terms are governed by the laws of the State of New York, without regard to its conflict of law provisions.
+These Terms are governed by the laws of the State of New York, without regard to its conflict of law provisions. By using AnyDaf or accessing its content, you submit to the jurisdiction of, and venue in, the United States District Court for the S.D.N.Y., or if there is no subject matter jurisdiction in that court, to the Supreme Court, New York County.
 
 7. CONTACT
 

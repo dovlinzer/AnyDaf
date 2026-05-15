@@ -149,7 +149,9 @@ data class StudySection(
     val hebrewText: String?,
     val hebrewSegments: List<String>,
     var summary: String? = null,
-    var quizQuestions: List<QuizQuestion> = emptyList()
+    var quizQuestions: List<QuizQuestion> = emptyList(),
+    /** 0-based index of this section's first segment in the flat Sefaria array (amud A + B concatenated). */
+    val firstSegmentIndex: Int = 0
 )
 
 data class StudySession(

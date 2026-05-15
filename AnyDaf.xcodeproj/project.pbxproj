@@ -31,6 +31,8 @@
 		FE8774DD2F64813E00AC3ED2 /* pages.json in Resources */ = {isa = PBXBuildFile; fileRef = FE8774DC2F64813E00AC3ED2 /* pages.json */; };
 		FE8774E02F73000000AC3ED2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8774DE2F73000000AC3ED2 /* SettingsView.swift */; };
 		FE8774E12F7A000000AC3ED2 /* ReadAloudManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8774E02F7A000000AC3ED2 /* ReadAloudManager.swift */; };
+		FE87E5E82FB409B50051998A /* PrintManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE87E5E72FB409B50051998A /* PrintManager.swift */; };
+		FE87E5EA2FB409CE0051998A /* ShiurParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE87E5E92FB409CE0051998A /* ShiurParser.swift */; };
 		FE9C6CBC2F7DAC2900295AA5 /* ShiurClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */; };
 		FEA914DC2F8C0E3C00D5D66B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */; };
 		FEB8B37B2F82035D00B963FB /* ShiurTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */; };
@@ -71,6 +73,8 @@
 		FE8774DC2F64813E00AC3ED2 /* pages.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pages.json; sourceTree = "<group>"; };
 		FE8774DE2F73000000AC3ED2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		FE8774E02F7A000000AC3ED2 /* ReadAloudManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadAloudManager.swift; sourceTree = "<group>"; };
+		FE87E5E72FB409B50051998A /* PrintManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintManager.swift; sourceTree = "<group>"; };
+		FE87E5E92FB409CE0051998A /* ShiurParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurParser.swift; sourceTree = "<group>"; };
 		FE9C6CBB2F7DAC2800295AA5 /* ShiurClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurClient.swift; sourceTree = "<group>"; };
 		FEA914DB2F8C0E3C00D5D66B /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiurTextView.swift; sourceTree = "<group>"; };
@@ -119,7 +123,9 @@
 				FE7936DD2F76E3D00086F637 /* DonationNudgeView.swift */,
 				FE7936DB2F748EEF0086F637 /* StudyCache.swift */,
 				FE7936D92F748E9F0086F637 /* Secrets.swift */,
+				FE87E5E92FB409CE0051998A /* ShiurParser.swift */,
 				FEB8B37A2F82035D00B963FB /* ShiurTextView.swift */,
+				FE87E5E72FB409B50051998A /* PrintManager.swift */,
 				FEF848E12F6CC18100D40DD1 /* Bookmark.swift */,
 				FEF848E22F6CC18100D40DD1 /* BookmarkEditSheet.swift */,
 				FEF848E32F6CC18100D40DD1 /* BookmarkListView.swift */,
@@ -259,11 +265,13 @@
 				FE8774E02F73000000AC3ED2 /* SettingsView.swift in Sources */,
 				FE7936D42F73426D0086F637 /* YCTLibraryClient.swift in Sources */,
 				FE7936DE2F76E3D10086F637 /* DonationNudgeView.swift in Sources */,
+				FE87E5EA2FB409CE0051998A /* ShiurParser.swift in Sources */,
 				FE7936D82F74142C0086F637 /* ResourcesDiskCache.swift in Sources */,
 				FE8774CC2F60F80800AC3ED2 /* StudySessionManager.swift in Sources */,
 				FE8774CD2F60F80800AC3ED2 /* StudyModels.swift in Sources */,
 				FEE5E3A02F56497B00E38810 /* TalmudPageManager.swift in Sources */,
 				BB0000000000000000000026 /* AudioPlayer.swift in Sources */,
+				FE87E5E82FB409B50051998A /* PrintManager.swift in Sources */,
 				FEB8B37B2F82035D00B963FB /* ShiurTextView.swift in Sources */,
 				FE8774E12F7A000000AC3ED2 /* ReadAloudManager.swift in Sources */,
 				FEE5E3A42F564C7C00E38810 /* ZoomableAsyncImage.swift in Sources */,

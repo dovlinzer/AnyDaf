@@ -454,10 +454,10 @@ enum PrintManager {
         }
         .hebrew-source {
           direction: rtl; text-align: right;
-          font-size: \(fs + 1)pt; line-height: 1.9;
+          font-size: \(fs + 1)pt; line-height: \(ls);
           margin-bottom: 6pt;
         }
-        .translation { font-size: \(max(fs - 1, 9))pt; color: #333; line-height: 1.65; }
+        .translation { font-size: \(max(fs - 1, 9))pt; color: #333; line-height: \(ls); }
         .translation strong { color: #1B3A8A; font-weight: normal; }
         em { font-style: italic; }
 
@@ -469,7 +469,7 @@ enum PrintManager {
         }
         .hebrew-block {
           direction: rtl; text-align: right;
-          font-size: \(fs + 1)pt; line-height: 1.9;
+          font-size: \(fs + 1)pt; line-height: \(ls);
           margin-bottom: 8pt;
         }
         .english-block { margin-bottom: 14pt; }

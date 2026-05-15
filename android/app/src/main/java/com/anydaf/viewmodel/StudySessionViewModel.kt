@@ -71,8 +71,8 @@ class StudySessionViewModel : ViewModel() {
                 val hebrewA = hebrewADeferred.await()
                 val hebrewB = hebrewBDeferred.await()
 
-                val sectionsA = SefariaClient.parseSections(segsA, hebrewA)
-                val sectionsB = SefariaClient.parseSections(segsB, hebrewB)
+                val sectionsA = SefariaClient.parseSections(segsA, hebrewA, offset = 0)
+                val sectionsB = SefariaClient.parseSections(segsB, hebrewB, offset = segsA.size)
                 val combined = sectionsA + sectionsB
                 val total = combined.size
                 val numbered = combined.mapIndexed { i, s -> s.copy(title = "Section ${i + 1}/$total") }
@@ -279,6 +279,19 @@ class StudySessionViewModel : ViewModel() {
         viewModelScope.launch {
             _session.update { it?.copy(currentSectionIndex = idx) }
             // Content loading is driven by StudyModeScreen's LaunchedEffect observer.
+        }
+    }
+
+    /** Jump to the section whose flat Sefaria segment range contains [sefariaIndex]. */
+    fun jumpToSection(sefariaIndex: Int) {
+        val session = _session.value ?: return
+        if (session.sections.isEmpty()) return
+        var target = 0
+        for ((i, sec) in session.sections.withIndex()) {
+            if (sec.firstSegmentIndex <= sefariaIndex) target = i
+        }
+        if (session.currentSectionIndex != target) {
+            _session.update { it?.copy(currentSectionIndex = target) }
         }
     }
 

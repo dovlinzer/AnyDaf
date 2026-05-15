@@ -131,7 +131,7 @@ fun SettingsScreen(
                 )
             }
             Text(
-                "Study text size",
+                "Text size",
                 style = MaterialTheme.typography.bodyLarge,
                 modifier = Modifier.padding(start = 16.dp, end = 16.dp, top = 4.dp, bottom = 2.dp)
             )

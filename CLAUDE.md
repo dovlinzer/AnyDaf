@@ -42,16 +42,86 @@ Key scripts:
 | `pipeline.py` | Orchestrates passes 1 / 2 / 2.5 / 3 + amud B detection |
 | `prompts.py` | All Claude prompt templates |
 | `find_amud_b.py` | Detects amud B boundary; auto-called by pipeline after pass 3 |
-| `upload_to_supabase.py` | Uploads `output/` dirs to Supabase `shiur_content` table |
+| `upload_to_supabase.py` | Uploads `output/` dirs to Supabase `shiur_content` + optionally `shiur_sections` |
 
 `pipeline.py` imports from `prompts.py` (not `prompts2.py`) and `find_amud_b.py`. **Never reference `prompts2.py` or `pipeline2.py`** — those files no longer exist.
 
 Output dirs live in `daf-processor/output/<masechta>_<daf>/` with files:
 - `01_segmentation.json` — macro/micro segments + amud_b fields (written by find_amud_b)
 - `02_rewrite.md` — pass 2 essay
-- `02.5_cleanup.md` — pass 2.5 cleaned essay
+- `025_cleanup.md` — pass 2.5 cleaned essay (note: filename is `025_`, not `02.5_`)
 - `03_final.md` — final essay with Sefaria blockquotes
-- `sefaria.md` — cached Sefaria text
+- `sefaria.md` — cached Sefaria text for the full daf
+- `sefaria_prev.md` — b-side of preceding daf (context for pass 3)
+- `sefaria_next.md` — a-side of following daf (context for pass 3)
+
+### Pipeline Passes (pipeline.py)
+
+Passes run in sequence: 1 → 2 → 2.5 → 3 → amud B detection. Use `--passes <N>` to run a single pass; use `--resume` to skip passes whose output files already exist.
+
+**Pass 1 — Segmentation** (Haiku): SRT timestamped text → `01_segmentation.json`
+- Prompt: `segmentation_prompt()`. Accepts `--amud a|b` when a shiur covers only one amud.
+- Post-processing `repair_segmentation()` runs automatically on every pass 1 output:
+  1. Sorts micro-segments within each macro by timestamp
+  2. Re-anchors each macro's timestamp to its first micro
+  3. Sorts macros chronologically
+  4. Splits non-contiguous macros (Claude sometimes groups thematically across time gaps) by inserting a `(continued)` segment at the correct chronological position — iterates until no overlaps remain
+  5. Enforces 25-char `display_title` limit on all macro and micro segments
+- Retries once if output JSON is invalid.
+
+**Pass 2 — Rewrite** (Sonnet): raw SRT text + segmentation JSON → `02_rewrite.md`
+- Prompt: `rewrite_prompt()`. Produces a written essay; inline Aramaic is translated to English.
+
+**Pass 2.5 — Cleanup** (Sonnet): `02_rewrite.md` → `025_cleanup.md`
+- Prompt: `cleanup_prompt()`. Preserves Aramaic direct quotes hidden in HTML comments; strips inline re-citations and other artifacts. This output feeds pass 3.
+
+**Pass 3 — Source Insertion** (Haiku): `025_cleanup.md` + Sefaria text → `03_final.md`
+- Prompt: `source_insertion_prompt()`. Inserts Sefaria Hebrew/Aramaic + English translation blockquotes after each `##` macro header where relevant. Strips the HTML comments from pass 2.5.
+- Fetches (and caches) three Sefaria texts: current daf, b-side of preceding daf, a-side of following daf — all three are passed as context so the insertion model knows where the daf begins and ends.
+- Skips gracefully if Sefaria text is unavailable.
+- Uses `025_cleanup.md` if it exists; falls back to `02_rewrite.md`.
+
+**Amud B Detection** (local, no API): runs after all passes via `find_amud_b.process_dir()`
+- Reads `01_segmentation.json` and `sefaria.md`/`03_final.md` to locate the amud B boundary
+- Writes `amud_b_segment_index`, `amud_b_timestamp`, `amud_b_micro_title` into `01_segmentation.json`
+- Runs with `force=True` so it always re-detects (the segmentation may have been repaired)
+
+### upload_to_supabase.py
+
+Uploads to two Supabase tables. **Always uploads `shiur_content`; only uploads `shiur_sections` when `--sections` is passed.**
+
+```
+python upload_to_supabase.py                              # shiur_content for all output/
+python upload_to_supabase.py --dir output/menachot_80    # single daf, shiur_content only
+python upload_to_supabase.py --sections                  # all dafs, both tables
+python upload_to_supabase.py --dir output/berakhot_11 --sections
+python upload_to_supabase.py --dry-run --sections        # preview, no writes
+python upload_to_supabase.py --tractates "Berakhot,Shabbat"  # filter by tractate
+```
+
+#### shiur_content table
+
+One row per daf. Fields uploaded: `tractate`, `daf` (float), `segmentation` (full JSON from `01_segmentation.json`), `rewrite` (text of `02_rewrite.md`), `final` (text of `03_final.md`). Upserted on `(tractate, daf)` conflict.
+
+#### shiur_sections table (--sections only)
+
+**What is stored:** only `talmudic` and `mishnah` segments — rows where a Sefaria blockquote exists after the `##` header in `03_final.md`. `shiur_discussion` segments (pure rabbi commentary with no blockquote) are **skipped entirely** — their text lives in `shiur_content.final`.
+
+**What is NOT stored:** the shiur lecture text (`content`) is not included in uploaded rows. No embeddings — the embedding column was dropped from this table.
+
+**How sectioning works (`split_final_into_sections`):**
+1. Reads `03_final.md` (falls back to `025_cleanup.md`, then `02_rewrite.md` if final doesn't exist)
+2. Splits on `## ` (macro) and `### ` (micro) headers; skips top-level `# ` daf title
+3. For each section, extracts:
+   - `talmudic_text`: the blockquote at the top of the section if it contains `**Hebrew/Aramaic:**` — this is the verbatim Sefaria text (Hebrew/Aramaic + English translation)
+   - `content`: the remaining lecture text after the blockquote (extracted but not uploaded)
+   - `source_type`: `mishnah` (title matches "mishnah"), `talmudic` (has blockquote), `shiur_discussion` (no blockquote)
+4. Timestamps (`timestamp_mm_ss`, `timestamp_secs`) are pulled from `01_segmentation.json` by title match; micro-segment timestamps come from the parent macro's `micro_segments` array
+5. `segment_index` is a sequential counter across all sections (including skipped `shiur_discussion` ones, so indices stay aligned with the segmentation JSON)
+6. `parent_segment_index` is null for macro rows; for micro rows it's the `segment_index` of the parent macro
+7. Rows are deleted for `(tractate, daf)` before re-upserting (delete+insert, not pure upsert), in chunks of 50
+
+**Known issue in filter:** the final content-filter check (`r.get("content")`) always evaluates to None because `content` was removed from the row dict in a refactor. The filter effectively only checks `talmudic_text`, which is fine since `shiur_discussion` rows (no talmudic_text) are already skipped above.
 
 ## iOS Key Files
 
@@ -372,7 +442,7 @@ In `onChange(of: selectedTractateIndex)` in ContentView: **guard `reset()` with 
 
 Several non-obvious timing issues were worked out:
 
-1. **`proxy.scrollTo` called before layout is committed fails silently.** After setting `parsedBlocks`, sleep 50ms before scrolling. Use `withAnimation(.easeInOut(duration: 0.4))` — it causes SwiftUI to render lazy items progressively, landing accurately even for items far down the list. Non-animated `scrollTo` on `LazyVStack` estimates offset and overshoots on dafs with high segment indices.
+1. **`proxy.scrollTo` called before layout is committed fails silently.** After setting `parsedBlocks`, sleep 50ms before scrolling. No `withAnimation` needed — ShiurTextView uses a regular `VStack` (not `LazyVStack`), so all items are measured before any scroll and `scrollTo` is always exact. Do NOT switch back to `LazyVStack`: it estimates heights for off-screen items, causing `scrollTo` to land mid-section even with `withAnimation`.
 
 2. **GeometryReader fires at scroll=0 when `parsedBlocks` is first assigned**, causing `onPreferenceChange` to report segment 0 and corrupt the active segment. Fix: set `scrollDetectionState.isProgrammaticScrolling = true` *before* `parsedBlocks = computed`, and clear it after 650ms.
 
@@ -403,18 +473,32 @@ Several non-obvious timing issues were worked out:
 
 ### Pipeline Work (prerequisite)
 
-A new post-processing pass is needed to map each shiur macro segment to a Sefaria segment index:
+A new post-processing pass is needed to map each shiur macro segment to a Sefaria segment index. **`shiur_sections` significantly shortens this work** — the `talmudic_text` column already contains the extracted Hebrew/Aramaic blockquote per macro segment, which is exactly what we'd match against Sefaria. No need to re-parse `03_final.md`.
 
-1. Read `03_final.md` for the daf; extract the first blockquote (Hebrew/Aramaic text) that follows each `## ` macro segment header — these blockquotes are verbatim (or near-verbatim) Sefaria text.
-2. Fetch the cached Sefaria segments for that daf (from `sefaria.md` or the Sefaria API).
-3. Do substring matching (strip diacritics/punctuation for fuzzy tolerance; match on a 20–30 char substring) to find the Sefaria segment index for each blockquote.
-4. For macro segments with no following blockquote (pure commentary), use the nearest preceding matched index.
-5. Write `sefaria_index: <int>` into each macro segment object in `01_segmentation.json`.
-6. `upload_to_supabase.py` picks this up automatically since it uploads `segmentation` as a JSON blob — no schema change needed.
+#### How `shiur_sections` fits in
 
-The matching should run against the **Hebrew** Sefaria fetch (less variation than English translations).
+`upload_to_supabase.py --sections` already:
+- Aligns macro segments from `01_segmentation.json` to sections in `03_final.md`
+- Extracts the Hebrew/Aramaic + English blockquote as `talmudic_text`
+- Stores one row per talmudic/mishnah segment with matching `segment_index`
+- Skips `shiur_discussion` segments (pure commentary with no blockquote) — these have no `talmudic_text` to match
 
-Best implemented as a new script `find_sefaria_indices.py` modeled on `find_amud_b.py`, callable standalone or auto-called by `pipeline.py` after pass 3.
+So `shiur_sections` rows where `parent_segment_index IS NULL` are the macro-level talmudic/mishnah segments, and their `talmudic_text` is ready to use as the match source.
+
+#### Matching plan
+
+1. Add a `sefaria_index INTEGER` column to `shiur_sections`.
+2. Write a script `find_sefaria_indices.py` (modeled on `find_amud_b.py`) that for each `(tractate, daf)`:
+   a. Fetches Sefaria Hebrew segments via `SefariaClient` (or reads `sefaria.md` cache).
+   b. Queries `shiur_sections` for macro rows (`parent_segment_index IS NULL`) ordered by `segment_index`.
+   c. For each row with non-null `talmudic_text`: substring-match the Hebrew portion against the Sefaria segment array (strip vowels/punctuation for fuzzy tolerance; match on a 20–30 char run) → record the winning Sefaria segment index.
+   d. For `shiur_discussion` macro segments (not in `shiur_sections`): use the nearest preceding matched index.
+   e. Writes `sefaria_index` into each macro segment object in `01_segmentation.json` **and** updates `shiur_sections.sefaria_index` via Supabase REST.
+3. `upload_to_supabase.py` picks up the updated `01_segmentation.json` automatically since it uploads `segmentation` as a JSON blob — no schema change to `shiur_content` needed.
+
+Match against the **Hebrew** portion of `talmudic_text` only (before the English translation block), against the Hebrew Sefaria fetch. English translations vary too much by edition.
+
+Also store `amud_b_sefaria_index` in the segmentation JSON — this comes for free from `SefariaClient.fetchFullDaf` since `a.count` is the exact Sefaria index where amud B begins.
 
 ### ShiurClient Changes
 

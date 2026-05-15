@@ -89,12 +89,12 @@ def rewrite_prompt(masechta: str, daf: int, transcript: str, segmentation_json: 
 with Talmudic terminology.
 
 Begin the document with a top-level header (# {label} — Daf Yomi Shiur). \
-Use the `display_title` field of each macro segment as the ## section header, \
-copied verbatim — do not rephrase or substitute with the longer `title` field. \
+Use the `heading_title` field of each macro segment as the ## section header, \
+copied verbatim — do not rephrase, truncate, or substitute any other field. \
 There must be exactly one ## heading per macro segment, in order. \
 Do not create additional ## headings; if you need to subdivide within a macro segment, \
 use ### instead. \
-Within each ## section, use the `display_title` field of each micro segment as the \
+Within each ## section, use the `heading_title` field of each micro segment as the \
 ### subsection header, copied verbatim.
 
 SEGMENTATION:

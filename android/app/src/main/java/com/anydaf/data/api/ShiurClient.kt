@@ -29,7 +29,9 @@ data class ShiurSegment(
     /** Short label (≤25 chars) for audio navigation pills; falls back to title if absent in JSON. */
     val displayTitle: String,
     val timestamp: String,  // "MM:SS"
-    val microSegments: List<ShiurMicroSegment>
+    val microSegments: List<ShiurMicroSegment>,
+    /** 0-based index into the flat Sefaria segment array (amud A + B concatenated). Null if not yet computed. */
+    val sefariaIndex: Int? = null
 ) {
     val seconds: Double get() = parseShiurTimestamp(timestamp)
 }
@@ -79,6 +81,10 @@ object ShiurClient {
     private val _amudBMicroTitle = MutableStateFlow<String?>(null)
     val amudBMicroTitle: StateFlow<String?> = _amudBMicroTitle.asStateFlow()
 
+    /** 0-based Sefaria flat-array index where amud B begins (= amud A segment count). Null if not yet computed. */
+    private val _amudBSefariaIndex = MutableStateFlow<Int?>(null)
+    val amudBSefariaIndex: StateFlow<Int?> = _amudBSefariaIndex.asStateFlow()
+
     /** Lecture rewrite text (pass 2) for the loaded daf, or null if not available. */
     private val _shiurRewrite = MutableStateFlow<String?>(null)
     val shiurRewrite: StateFlow<String?> = _shiurRewrite.asStateFlow()
@@ -97,6 +103,7 @@ object ShiurClient {
         _amudBSegmentIndex.value = null
         _amudBSeconds.value = null
         _amudBMicroTitle.value = null
+        _amudBSefariaIndex.value = null
         _shiurRewrite.value = null
         _shiurFinal.value = null
 
@@ -143,11 +150,13 @@ object ShiurClient {
                                     )
                                 }
                             } else emptyList()
+                            val sefariaIdx = macro.optInt("sefaria_index", -1).takeIf { it >= 0 }
                             ShiurSegment(
                                 title = macro.optString("title"),
                                 displayTitle = macro.optString("display_title").ifEmpty { macro.optString("title") },
                                 timestamp = macro.optString("timestamp"),
-                                microSegments = micros
+                                microSegments = micros,
+                                sefariaIndex = sefariaIdx
                             )
                         }
                         _segments.value = parsed
@@ -160,6 +169,8 @@ object ShiurClient {
                             val bMicro = segJSON.optString("amud_b_micro_title")
                             _amudBMicroTitle.value = bMicro.ifEmpty { null }
                         }
+                        val bSefaria = segJSON.optInt("amud_b_sefaria_index", -1).takeIf { it >= 0 }
+                        _amudBSefariaIndex.value = bSefaria
                     }
                 }
 
@@ -207,6 +218,7 @@ object ShiurClient {
         _amudBSegmentIndex.value = null
         _amudBSeconds.value = null
         _amudBMicroTitle.value = null
+        _amudBSefariaIndex.value = null
         _shiurRewrite.value = null
         _shiurFinal.value = null
         _audioSegments.value = emptyList()

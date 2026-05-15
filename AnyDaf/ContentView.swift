@@ -46,6 +46,8 @@ struct ContentView: View {
     /// Tractate/daf frozen at the moment audio starts — stays fixed while picker freely moves.
     @State private var audioLockedTractateIndex: Int = 0
     @State private var audioLockedDaf: Double = 2.0
+    /// Nil-reset binding used to force-scroll ShiurTextView to a specific segment on every pill tap.
+    @State private var shiurForceScrollIndex: Int? = nil
 
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
@@ -219,7 +221,7 @@ struct ContentView: View {
                 shiurClient.snapshotAudioSegments()
             }
         }
-        // Mirror audio position into shiur text only when viewing the same daf that is playing.
+        // Mirror audio position into shiur/text only when viewing the same daf that is playing.
         .onChange(of: shiurClient.audioCurrentSegmentIndex) { _, newIdx in
             guard !audioPlayer.isStopped,
                   selectedTractateIndex == audioLockedTractateIndex,
@@ -474,11 +476,23 @@ struct ContentView: View {
     @ViewBuilder private var iPadRightContent: some View {
         if let text = shiurDisplayText {
             VStack(spacing: 0) {
-                // Shiur header — tractate + daf
+                // Shiur header — tractate + daf + print
                 HStack(spacing: 6) {
                     Text("\(tractate.name) \(Int(selectedDaf))")
                         .font(.headline)
                         .foregroundStyle(appFg)
+                    Spacer()
+                    Button {
+                        PrintManager.present(.shiur(
+                            tractate: tractate.name,
+                            daf: FeedManager.dafLabel(selectedDaf),
+                            text: text
+                        ))
+                    } label: {
+                        Image(systemName: "printer")
+                            .font(.callout)
+                            .foregroundStyle(appFg.opacity(0.55))
+                    }
                 }
                 .padding(.horizontal)
                 .padding(.vertical, 10)
@@ -490,6 +504,7 @@ struct ContentView: View {
                     useWhiteBackground: useWhiteBackground,
                     amudBSegmentIndex: shiurClient.amudBSegmentIndex,
                     amudBMicroTitle: shiurClient.amudBMicroTitle,
+                    scrollRequest: $shiurForceScrollIndex,
                     onSegmentVisible: { idx in shiurClient.currentSegmentIndex = idx }
                 )
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -655,8 +670,22 @@ struct ContentView: View {
             .onChange(of: selectedSide) { _, newVal in
                 storedSide = newVal
                 imageSide = newVal
+                // Jump the text view to the correct amud when the picker changes.
+                if mainContentMode == .text {
+                    Task {
+                        if newVal == 1 { await studyManager.jumpToAmudB() }
+                        else           { await studyManager.jumpToAmudA() }
+                    }
+                }
                 if let bIdx = shiurClient.amudBSegmentIndex {
-                    shiurClient.currentSegmentIndex = (newVal == 1) ? bIdx : 0
+                    // Guard against the feedback loop: tapping a pill changes currentSegmentIndex,
+                    // which syncs selectedSide as a side-effect, which would then reset
+                    // currentSegmentIndex back to bIdx/0. Only navigate if the segment is NOT
+                    // already on the correct side — meaning this is a genuine user picker tap.
+                    let currentSide = shiurClient.currentSegmentIndex >= bIdx ? 1 : 0
+                    if currentSide != newVal {
+                        shiurClient.currentSegmentIndex = (newVal == 1) ? bIdx : 0
+                    }
                     let isSameDaf = !audioPlayer.isStopped
                         && selectedTractateIndex == audioLockedTractateIndex
                         && selectedDaf == audioLockedDaf
@@ -713,36 +742,66 @@ struct ContentView: View {
 
     /// Chip strip for navigating shiur segments without audio playback.
     /// Tapping a chip scrolls the shiur text to that macro segment.
+    /// Chip strip for navigating shiur segments without audio playback.
+    /// Tapping a chip scrolls the shiur text to that macro segment.
     @ViewBuilder private var shiurNavigationStrip: some View {
         if !shiurClient.segments.isEmpty {
-            ScrollViewReader { proxy in
-                ScrollView(.horizontal, showsIndicators: false) {
-                    HStack(spacing: 6) {
-                        ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
-                            let isActive = idx == shiurClient.currentSegmentIndex
-                            Button {
-                                shiurClient.currentSegmentIndex = idx
-                            } label: {
-                                Text(seg.displayTitle)
-                                    .font(.caption2)
-                                    .lineLimit(1)
-                                    .padding(.horizontal, 8)
-                                    .padding(.vertical, 4)
-                                    .background(Capsule().fill(isActive ? appFg.opacity(0.85) : appFg.opacity(0.15)))
-                                    .foregroundStyle(isActive
-                                                     ? (useWhiteBackground ? .white : SplashView.background)
-                                                     : appFg.opacity(0.8))
+            HStack(spacing: 0) {
+                ScrollViewReader { proxy in
+                    ScrollView(.horizontal, showsIndicators: false) {
+                        HStack(spacing: 6) {
+                            ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
+                                let isActive = idx == shiurClient.currentSegmentIndex
+                                Button {
+                                    shiurClient.currentSegmentIndex = idx
+                                    shiurForceScrollIndex = idx
+                                    // Seek audio to this segment when the same daf is playing.
+                                    let isSameDaf = !audioPlayer.isStopped
+                                        && selectedTractateIndex == audioLockedTractateIndex
+                                        && selectedDaf == audioLockedDaf
+                                    if isSameDaf && audioPlayer.duration > 0 {
+                                        audioPlayer.seek(to: seg.seconds / audioPlayer.duration)
+                                        shiurClient.jumpToAudioSegment(idx)
+                                    }
+                                } label: {
+                                    Text(seg.displayTitle)
+                                        .font(.caption2)
+                                        .lineLimit(1)
+                                        .padding(.horizontal, 8)
+                                        .padding(.vertical, 4)
+                                        .background(Capsule().fill(isActive ? appFg.opacity(0.85) : appFg.opacity(0.15)))
+                                        .foregroundStyle(isActive
+                                                         ? (useWhiteBackground ? .white : SplashView.background)
+                                                         : appFg.opacity(0.8))
+                                }
+                                .id(idx)
                             }
-                            .id(idx)
                         }
+                        .padding(.horizontal)
                     }
-                    .padding(.horizontal)
+                    .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
+                        withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
+                    }
+                    .onAppear {
+                        proxy.scrollTo(shiurClient.currentSegmentIndex, anchor: .center)
+                    }
                 }
-                .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
-                    withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
-                }
-                .onAppear {
-                    proxy.scrollTo(shiurClient.currentSegmentIndex, anchor: .center)
+
+                // Print button — right of the segment pills, with breathing room
+                if let text = shiurDisplayText {
+                    Button {
+                        PrintManager.present(.shiur(
+                            tractate: tractate.name,
+                            daf: FeedManager.dafLabel(selectedDaf),
+                            text: text
+                        ))
+                    } label: {
+                        Image(systemName: "printer")
+                            .font(.callout)
+                            .foregroundStyle(appFg.opacity(0.55))
+                    }
+                    .padding(.leading, 6)
+                    .padding(.trailing, 10)
                 }
             }
             .frame(height: 30)
@@ -762,6 +821,7 @@ struct ContentView: View {
                     useWhiteBackground: useWhiteBackground,
                     amudBSegmentIndex: shiurClient.amudBSegmentIndex,
                     amudBMicroTitle: shiurClient.amudBMicroTitle,
+                    scrollRequest: $shiurForceScrollIndex,
                     onSegmentVisible: { idx in shiurClient.currentSegmentIndex = idx }
                 )
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -788,13 +848,15 @@ struct ContentView: View {
 
     /// Shows the Sefaria daf text (with Source/Translation sub-tabs) in the main content area.
     @ViewBuilder private var mainTextContent: some View {
-        StudyModeView(
-            manager: studyManager,
-            readAloudManager: readAloudManager,
-            isAudioPlaying: !audioPlayer.isStopped,
-            textOnly: true,
-            onDismiss: { }
-        )
+        VStack(spacing: 0) {
+            StudyModeView(
+                manager: studyManager,
+                readAloudManager: readAloudManager,
+                isAudioPlaying: !audioPlayer.isStopped,
+                textOnly: true,
+                onDismiss: { }
+            )
+        }
     }
 
     // MARK: - Study Mode Content
@@ -1002,6 +1064,14 @@ struct AudioPlayingControls: View {
 
             if !shiurClient.audioSegments.isEmpty && audioPlayer.duration > 0 {
                 chapterStrip
+            }
+
+            if !audioPlayer.nowPlayingTitle.isEmpty {
+                Text(audioPlayer.nowPlayingTitle)
+                    .font(.caption2)
+                    .foregroundStyle(appFg.opacity(0.55))
+                    .lineLimit(1)
+                    .padding(.top, 2)
             }
 
             HStack(alignment: .center, spacing: 0) {

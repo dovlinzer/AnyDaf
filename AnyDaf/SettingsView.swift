@@ -7,6 +7,8 @@ struct SettingsView: View {
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("shiurShowSources") private var shiurShowSources: Bool = true
+    @AppStorage("printFontSize") private var printFontSize: StudyFontSize = .small
+    @AppStorage("printLineSpacing") private var printLineSpacing: Double = 1.15
     @Environment(\.dismiss) private var dismiss
 
     let isReloading: Bool
@@ -107,6 +109,64 @@ struct SettingsView: View {
                     .pickerStyle(.menu)
                 } header: {
                     Text("Quiz Mode")
+                }
+
+                Section {
+                    HStack(spacing: 0) {
+                        let pCases = StudyFontSize.allCases
+                        let pIdx = pCases.firstIndex(of: printFontSize) ?? 1
+                        Button {
+                            if pIdx > 0 { printFontSize = pCases[pIdx - 1] }
+                        } label: {
+                            Text("A")
+                                .font(.footnote.weight(.semibold))
+                                .foregroundStyle(pIdx > 0 ? Color.accentColor : Color.secondary)
+                                .frame(width: 36, height: 44)
+                                .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+
+                        HStack(spacing: 0) {
+                            Spacer(minLength: 4)
+                            ForEach(pCases.indices, id: \.self) { i in
+                                let dotSize: CGFloat = 5 + CGFloat(i) * 2
+                                Circle()
+                                    .fill(i == pIdx ? Color.accentColor : Color.secondary.opacity(0.35))
+                                    .frame(width: dotSize, height: dotSize)
+                                    .animation(.spring(response: 0.25), value: printFontSize)
+                                if i < pCases.count - 1 { Spacer(minLength: 4) }
+                            }
+                            Spacer(minLength: 4)
+                        }
+                        .frame(maxWidth: .infinity)
+
+                        Button {
+                            if pIdx < pCases.count - 1 { printFontSize = pCases[pIdx + 1] }
+                        } label: {
+                            Text("A")
+                                .font(.title2.weight(.semibold))
+                                .foregroundStyle(pIdx < pCases.count - 1 ? Color.accentColor : Color.secondary)
+                                .frame(width: 36, height: 44)
+                                .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                    }
+                    .padding(.vertical, 2)
+                    Text(printFontSize.displayName)
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                        .frame(maxWidth: .infinity, alignment: .center)
+
+                    Picker("Line Spacing", selection: $printLineSpacing) {
+                        Text("1.15× (compact)").tag(1.15)
+                        Text("1.5× (relaxed)").tag(1.5)
+                        Text("2.0× (double)").tag(2.0)
+                    }
+                    .pickerStyle(.menu)
+                } header: {
+                    Text("Print")
+                } footer: {
+                    Text("Controls the font size and line spacing used when printing shiur text and translations.")
                 }
 
                 Section {

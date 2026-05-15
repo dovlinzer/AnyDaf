@@ -240,7 +240,7 @@ object SefariaClient {
         return "$num$side"
     }
 
-    fun parseSections(enSegs: List<String>, heSegs: List<String>?): List<StudySection> {
+    fun parseSections(enSegs: List<String>, heSegs: List<String>?, offset: Int = 0): List<StudySection> {
         if (enSegs.isEmpty()) return emptyList()
 
         val maxSegments = 6
@@ -301,7 +301,8 @@ object SefariaClient {
                     rawText = part.segs.joinToString("\n\n"),
                     rawSegments = part.segs.toList(),
                     hebrewText = hebrewTextFor(part.indices),
-                    hebrewSegments = hebrewSegsFor(part.indices)
+                    hebrewSegments = hebrewSegsFor(part.indices),
+                    firstSegmentIndex = offset + (part.indices.firstOrNull() ?: 0)
                 ))
             } else {
                 val totalChunks = (part.segs.size + maxSegments - 1) / maxSegments
@@ -310,12 +311,14 @@ object SefariaClient {
                     val end = minOf(start + maxSegments, part.segs.size)
                     val idxStart = minOf(start, part.indices.size)
                     val idxEnd = minOf(end, part.indices.size)
+                    val chunkIndices = part.indices.subList(idxStart, idxEnd)
                     studySections.add(StudySection(
                         title = "${part.title}, Part ${i + 1}",
                         rawText = part.segs.subList(start, end).joinToString("\n\n"),
                         rawSegments = part.segs.subList(start, end),
-                        hebrewText = hebrewTextFor(part.indices.subList(idxStart, idxEnd)),
-                        hebrewSegments = hebrewSegsFor(part.indices.subList(idxStart, idxEnd))
+                        hebrewText = hebrewTextFor(chunkIndices),
+                        hebrewSegments = hebrewSegsFor(chunkIndices),
+                        firstSegmentIndex = offset + (chunkIndices.firstOrNull() ?: 0)
                     ))
                 }
             }
@@ -333,7 +336,8 @@ object SefariaClient {
                     rawText = enSegs.subList(start, end).joinToString("\n\n"),
                     rawSegments = enSegs.subList(start, end),
                     hebrewText = hebrewTextFor(indices),
-                    hebrewSegments = hebrewSegsFor(indices)
+                    hebrewSegments = hebrewSegsFor(indices),
+                    firstSegmentIndex = offset + (indices.firstOrNull() ?: 0)
                 ))
             }
         }
