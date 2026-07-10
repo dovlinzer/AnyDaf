@@ -23,7 +23,9 @@
           "display_title": "Three-Authority Girsa",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Abaye's Question on Whether Regel Counts Toward Shloshim",
@@ -45,7 +47,9 @@
           "display_title": "Rava: No Count",
           "timestamp": "09:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Tosefta Case: Burial Two Days Before Regel",
@@ -72,7 +76,9 @@
           "display_title": "Personal vs Communal",
           "timestamp": "15:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Burial During Regel: Postponement of Shiva",
@@ -94,7 +100,9 @@
           "display_title": "No Mourning Last Three",
           "timestamp": "16:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Abaye's Question on Whether Regel Counts Toward Shloshim (continued)",
@@ -111,7 +119,9 @@
           "display_title": "Confirmation",
           "timestamp": "23:04"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Beis Shammai vs Beis Hillel: Three Days vs Even One Hour",
@@ -143,7 +153,9 @@
           "display_title": "Ravina: One Hour",
           "timestamp": "29:26"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Source of Seven Days Aveilus: Vehafachti Chagichem Le'Evel",
@@ -165,7 +177,9 @@
           "display_title": "Distant Report",
           "timestamp": "30:28"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Halacha of Shmuah Kerovah and Shmuah Rechokah",
@@ -192,7 +206,9 @@
           "display_title": "Lenient Opinion",
           "timestamp": "37:51"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Cases of Rabbi Chanina and Rav Natan Bar Ami Hearing Distant Reports",
@@ -219,7 +235,9 @@
           "display_title": "Minority Opinion",
           "timestamp": "44:26"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Story of Rabbi Chiya Finding Out About Brother and Sister's Deaths",
@@ -241,7 +259,9 @@
           "display_title": "Three Inferences",
           "timestamp": "48:27"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Impact of Regel and Shabbat on the Thirty-Day Boundary for Shmuah Kerovah",
@@ -263,7 +283,9 @@
           "display_title": "Practice Timing",
           "timestamp": "50:15"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Question of Kria (Tearing) When Hearing Falls on Regel or Shabbat",
@@ -290,7 +312,9 @@
           "display_title": "Parents Honor",
           "timestamp": "53:33"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -686,5 +710,6 @@
         "49:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

@@ -38,7 +38,9 @@
           "display_title": "Second Child Born",
           "timestamp": "03:42"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Clarifying the Chiddush of the Mishnah",
@@ -75,7 +77,9 @@
           "display_title": "Twin Viability",
           "timestamp": "15:15"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Case of Two Nezirut Declarations: 'And Me' Interpretation",
@@ -107,7 +111,9 @@
           "display_title": "Loyalty Motivation",
           "timestamp": "29:43"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Nezirut Declarations with Immediate and Delayed Start",
@@ -139,7 +145,9 @@
           "display_title": "Three Scenarios",
           "timestamp": "44:09"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rava's Question: Post-Dated Nezirut with Insufficient Overlap",
@@ -166,7 +174,9 @@
           "display_title": "Sufficient Remainder",
           "timestamp": "52:26"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -379,5 +389,6 @@
         "15:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

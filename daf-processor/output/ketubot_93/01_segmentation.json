@@ -33,7 +33,9 @@
           "display_title": "Two Models Explained",
           "timestamp": "06:56"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Robert Aumann's Game-Theoretic Solution to the Mishna's Division Problem",
@@ -70,7 +72,9 @@
           "display_title": "Uniqueness Proof",
           "timestamp": "14:43"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Gemara's Attempts to Explain the Mishna Through Ad Hoc Interpretations",
@@ -107,7 +111,9 @@
           "display_title": "Two Stages Analysis",
           "timestamp": "28:35"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Opinion of Rabbi: Proportional Distribution and Rebbi's Implicit Adoption of the Mishna",
@@ -129,7 +135,9 @@
           "display_title": "Tosafot on Proportional",
           "timestamp": "39:03"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Investment Partnership (Hitilu LaKis) and the Debate Over Divisible vs. Non-Divisible Assets",
@@ -161,7 +169,9 @@
           "display_title": "Tosafta Discrete Goods",
           "timestamp": "49:02"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Connecting the Investment Rule to the Three Wives Mishna and the Question of Intrinsic Value",
@@ -183,7 +193,9 @@
           "display_title": "Principal Value Impact",
           "timestamp": "53:01"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -393,5 +405,6 @@
         "43:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

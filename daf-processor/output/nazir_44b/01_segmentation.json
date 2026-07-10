@@ -18,7 +18,9 @@
           "display_title": "Tumah to Taharah",
           "timestamp": "00:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Tiglachat Tumah: shaving after impurity from contact with a corpse",
@@ -65,7 +67,9 @@
           "display_title": "Akiva's Conclusion",
           "timestamp": "06:30"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Gemara debate: did Rabbi Tarfon accept Rabbi Akiva's distinction, and evidence from a Baraita",
@@ -92,7 +96,9 @@
           "display_title": "Critique of Rava",
           "timestamp": "10:25"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Status of Tevul Yom (one who immersed but awaits nightfall): can a Tevul Yom bring Korbanos and enter the Mikdash",
@@ -124,7 +130,9 @@
           "display_title": "Zav Status Inference",
           "timestamp": "15:39"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Relevance of Tevul Yom status to Har Habayit (Temple Mount) access in modern times",
@@ -146,7 +154,9 @@
           "display_title": "Tevul Yom & Har Habayit",
           "timestamp": "18:41"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Abaye's challenge: if Tevul Yom of Zav is like Zav, same should apply to Nazir—but Nazir Tamei can enter Machaneh Leviyah",
@@ -168,7 +178,9 @@
           "display_title": "Korban Timing Issue",
           "timestamp": "26:17"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Distinction between Zav and Metzora: Tevul Yom who must bring Korban has Zav-like status and restrictions",
@@ -195,7 +207,9 @@
           "display_title": "Conclusion on Tevul Yom",
           "timestamp": "37:36"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Relevance of Tevul Yom status to Har Habayit (Temple Mount) access in modern times (continued)",
@@ -207,7 +221,9 @@
           "display_title": "Significance",
           "timestamp": "38:23"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Mishnah on Tiglachat Taharah: shaving at the end of the full thirty-day Nazir period",
@@ -244,7 +260,9 @@
           "display_title": "Rabban Gamliel",
           "timestamp": "43:59"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": false
     },
     {
       "title": "Gemara on Tiglachat Taharah: where does the shaving take place—Petach Ohel Moed or elsewhere",
@@ -291,7 +309,9 @@
           "display_title": "Sotah Response",
           "timestamp": "56:26"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -499,5 +519,6 @@
         "46:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

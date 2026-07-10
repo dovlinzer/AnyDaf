@@ -43,7 +43,9 @@
           "display_title": "Ran's View",
           "timestamp": "05:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Non-Jew Bringing Items on Yom Tov: Muktzeh and Beyond",
@@ -80,7 +82,9 @@
           "display_title": "Jew-to-Jew Exception",
           "timestamp": "09:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rashi's Explanation: Neheneh from Melacha of Non-Jew on Shabbat",
@@ -112,7 +116,9 @@
           "display_title": "Techumim Weakest",
           "timestamp": "13:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tosafot and Rishonim Reject Rashi: Concern Is Encouraging Future Requests",
@@ -149,7 +155,9 @@
           "display_title": "Rashi vs Tosafot",
           "timestamp": "19:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Fish in Closed Channel and Muktzeh Status",
@@ -166,7 +174,9 @@
           "display_title": "Fish Already Caught",
           "timestamp": "21:26"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Wild Animal Nesting: Does It Need Zeimun (Designation)?",
@@ -213,7 +223,9 @@
           "display_title": "Garden Location",
           "timestamp": "31:47"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Animal in Danger of Death: Shechita Requirements",
@@ -235,7 +247,9 @@
           "display_title": "Field Shechita",
           "timestamp": "35:58"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Flaying and Dismemberment: Halacha vs. Derech Eretz",
@@ -282,7 +296,9 @@
           "display_title": "Ravenousness Point",
           "timestamp": "42:37"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Derech Eretz Teachings: Restraint in Eating and Drinking",
@@ -314,7 +330,9 @@
           "display_title": "Turmus Bean",
           "timestamp": "47:02"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Why Torah Was Given to Israel: Stiff-Necked Nation Requires Taming",
@@ -346,7 +364,9 @@
           "display_title": "Three Tough Groups",
           "timestamp": "50:52"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -660,5 +680,6 @@
         "51:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

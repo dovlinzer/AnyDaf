@@ -28,7 +28,9 @@
           "display_title": "Three-Month Wait",
           "timestamp": "06:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pregnancy Prevention: Birth Control and the Debate Between Rabbi Yose and Rabbi Yehuda",
@@ -40,7 +42,9 @@
           "display_title": "Moch & R. Yose",
           "timestamp": "14:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Pregnancy Prevention: Birth Control and the Debate Between Rabbi Yose and Rabbi Yehuda (continued)",
@@ -72,7 +76,9 @@
           "display_title": "Internal Methods",
           "timestamp": "23:20"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Presumption of Non-Violation for Captive Women and Its Scope (continued)",
@@ -84,7 +90,9 @@
           "display_title": "Three Cases",
           "timestamp": "16:17"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Revisiting Knas and the Principle of Kim Lei (Capital Penalties Override Monetary Penalties)",
@@ -136,7 +144,9 @@
           "display_title": "No Ransom Ever",
           "timestamp": "54:34"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -511,5 +521,6 @@
         "07:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

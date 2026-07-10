@@ -43,7 +43,9 @@
           "display_title": "Acha's Position",
           "timestamp": "06:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Finalization of Sale with Partial Payment: Intent and Circumstantial Evidence",
@@ -80,7 +82,9 @@
           "display_title": "Implied Finalization",
           "timestamp": "12:31"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Contextual Resolution: Seller's Intent Based on Financial Circumstances",
@@ -102,7 +106,9 @@
           "display_title": "Rava's Rule",
           "timestamp": "19:35"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Partial Payment for Chattel and the Extension of Intent Doctrine",
@@ -129,7 +135,9 @@
           "display_title": "Disruption of Rules",
           "timestamp": "24:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Contextual Resolution: Seller's Intent Based on Financial Circumstances (continued)",
@@ -146,7 +154,9 @@
           "display_title": "Proof Burden",
           "timestamp": "26:27"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Employment Law: Worker Breach and Employer Remedies in Davar Ha'aved Situations",
@@ -178,7 +188,9 @@
           "display_title": "Goods Deposit",
           "timestamp": "34:05"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rental Terms and Breach: Negligence, Causation, and Changed Warranties",
@@ -220,7 +232,9 @@
           "display_title": "Rabbi Meir Position",
           "timestamp": "49:26"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Liability for Breach of Rental Terms: The Gazlan Doctrine and Its Application",
@@ -257,7 +271,9 @@
           "display_title": "Gazlan Implication",
           "timestamp": "56:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -470,5 +486,6 @@
         "25:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

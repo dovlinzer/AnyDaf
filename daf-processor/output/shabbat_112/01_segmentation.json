@@ -23,7 +23,9 @@
           "display_title": "Summary of Approaches",
           "timestamp": "03:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Permitted Knots: Garments, Hairnets, and Daily-Use Items",
@@ -40,7 +42,9 @@
           "display_title": "Hairnet Straps",
           "timestamp": "06:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shoe and Sandal Straps: The Central Dispute and Three Braitot",
@@ -67,7 +71,9 @@
           "display_title": "Shared Sandals",
           "timestamp": "15:43"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Story of Rav Yehudah's Sandals: Intent, Frequency, and Daily Undoing",
@@ -84,7 +90,9 @@
           "display_title": "Abaye's Challenge",
           "timestamp": "18:18"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Broken Sandal Straps and the Status of Damaged Vessels",
@@ -106,7 +114,9 @@
           "display_title": "Reversing Sandal",
           "timestamp": "21:56"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Mishnaic Debate: Inner Strap vs. Outer Strap and Vessel Status",
@@ -128,7 +138,9 @@
           "display_title": "Rabbi Yehudah Position",
           "timestamp": "25:05"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Contradiction Between Rabbi Yochanan and the Mishnah",
@@ -155,7 +167,9 @@
           "display_title": "Rabin Alternative",
           "timestamp": "39:51"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Ship of Theseus in Halakha: Replacing All Component Parts",
@@ -187,7 +201,9 @@
           "display_title": "Yeridat HaDorot",
           "timestamp": "46:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Permitted Knots Continued: Wine Flasks, Meat Pots, and Animal Pens",
@@ -219,7 +235,9 @@
           "display_title": "Abaye/Yosef Debate",
           "timestamp": "52:28"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -434,5 +452,6 @@
         "06:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -23,7 +23,9 @@
           "display_title": "Tannaitic Support",
           "timestamp": "03:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Debate Between Rabbi Eliezer and Rabban Shimon ben Gamliel on Accepting Single Witness Against Rumor",
@@ -50,7 +52,9 @@
           "display_title": "Combining Testimony",
           "timestamp": "09:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Reframing: Ziluta D'Bei Dina Is Not the Debate; Combining Separate Testimonies Is",
@@ -72,7 +76,9 @@
           "display_title": "Baraita Support",
           "timestamp": "14:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Case of Forged Document with Migo (Presumptive Argument) in Land Versus Money",
@@ -99,7 +105,9 @@
           "display_title": "Land/Money Rule",
           "timestamp": "25:26"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Case of Guarantor Collecting Old Debt Using Reused Document for New Loan",
@@ -126,7 +134,9 @@
           "display_title": "Bad Coin",
           "timestamp": "31:46"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -385,5 +395,6 @@
         "32:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

@@ -18,7 +18,9 @@
           "display_title": "Pet Tags & Chips",
           "timestamp": "02:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Responsibility of Leadership to Prevent Wrongdoing and Protest Injustice",
@@ -50,7 +52,9 @@
           "display_title": "Must Protest",
           "timestamp": "09:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Vision of Yechezkel: Divine Justice, Marked Righteous and Wicked, Merit Ended",
@@ -97,7 +101,9 @@
           "display_title": "Merit Dispute",
           "timestamp": "19:36"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "When Did the Merit of the Forefathers End? Multiple Rabbinic Opinions",
@@ -139,7 +145,9 @@
           "display_title": "Sfat Emet",
           "timestamp": "35:53"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Death Without Sin and Suffering Without Iniquity: Theological Debate",
@@ -176,7 +184,9 @@
           "display_title": "Rav Ami Refuted",
           "timestamp": "42:04"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Reuben's Apparent Sin: Gemara Reinterprets as Innocence and Divine Presence",
@@ -213,7 +223,9 @@
           "display_title": "Rava's View",
           "timestamp": "46:09"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -551,5 +563,6 @@
         "44:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

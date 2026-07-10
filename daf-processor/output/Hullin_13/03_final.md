@@ -1,4 +1,5 @@
 # Chullin 13 — Daf Yomi Shiur
+[DAF:12b]
 
 ## Cheresh, Shoteh, Katan
 
@@ -87,6 +88,7 @@ The Gemara now reports that Rabbi Yochanan had already addressed a version of th
 
 For an adult, however, pure intention — even without any accompanying action — can change this status. Ve-im niskavven lekach — harei hem bekhiyutan. Bare intention, for an adult, has full biblical weight.
 
+[DAF:13a]
 ### Minor's Intention
 
 > **Hebrew/Aramaic:** הֶעֱלוּם חֵרֵשׁ שׁוֹטֶה וְקָטָן, אַף עַל פִּי שֶׁנִּתְכַּוְּונוּ לְכָךְ, אֵינָן בְּ״כִי יוּתַּן״, מִפְּנֵי שֶׁיֵּשׁ לָהֶן מַעֲשֶׂה וְאֵין לָהֶן מַחְשָׁבָה.
@@ -214,6 +216,7 @@ The Gemara then cites a Braita confirming this reading: shechitat min *la-avodah
 
 ## Minim Question
 
+[DAF:13b]
 ### Minority Concern
 
 > **Hebrew/Aramaic:** אָמַר מָר: שְׁחִיטַת נׇכְרִי נְבֵלָה, וְנֵיחוּשׁ שֶׁמָּא מִין הוּא? אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: אֵין מִינִין בָּאוּמּוֹת.

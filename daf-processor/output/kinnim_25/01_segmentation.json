@@ -23,7 +23,9 @@
           "display_title": "Single Species: Five",
           "timestamp": "02:27"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Mixed Species Case: Six Birds Required When Chatas Type Unknown",
@@ -40,7 +42,9 @@
           "display_title": "Two Olos per Species",
           "timestamp": "04:12"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Priest's Complete Uncertainty: Seven Birds Required Including New Chatas",
@@ -62,7 +66,9 @@
           "display_title": "New Chatas Needed",
           "timestamp": "07:02"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Ben Azzai's Disagreement: Eight Birds Based on Reverse Order Rule",
@@ -79,7 +85,9 @@
           "display_title": "Olos & Chatasim",
           "timestamp": "08:00"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Aggadic Conclusion: Riddle of One Voice Becoming Seven",
@@ -101,7 +109,9 @@
           "display_title": "Elders & Wisdom",
           "timestamp": "14:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -236,5 +246,6 @@
         "16:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 2
 }

@@ -43,7 +43,9 @@
           "display_title": "Chachamim Requirement",
           "timestamp": "08:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Detailed Analysis of Facial Features and Human Appearance Standards",
@@ -85,7 +87,9 @@
           "display_title": "Cyclops Malformation",
           "timestamp": "18:47"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Viability as the Central Criterion: Internal Organs and Development",
@@ -127,7 +131,9 @@
           "display_title": "Palm Tree Fetus",
           "timestamp": "33:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Debate on Smushed vs. Effaced Facial Features and Missing Body Parts",
@@ -149,7 +155,9 @@
           "display_title": "Resolution Smushed",
           "timestamp": "36:48"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Debate on Smushed vs. Effaced Facial Features and Missing Body Parts (continued)",
@@ -161,7 +169,9 @@
           "display_title": "Stringency Leniency",
           "timestamp": "38:46"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Conjoined Twins and Spinal Abnormalities: Rav vs. Shmuel on Viability",
@@ -188,7 +198,9 @@
           "display_title": "Priest Blemish",
           "timestamp": "41:18"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Conjoined Twins and Spinal Abnormalities: Rav vs. Shmuel on Viability (continued)",
@@ -225,7 +237,9 @@
           "display_title": "Huna Warning",
           "timestamp": "41:29"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Comparing Human and Animal Gestation: Seventh Month Viability Question",
@@ -252,7 +266,9 @@
           "display_title": "Braita Scope",
           "timestamp": "41:29"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Lilith-like Fetus and Snake-like Fetus: Eye Appearance as Determining Factor",
@@ -299,7 +315,9 @@
           "display_title": "Abyaye Principle",
           "timestamp": "41:29"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -495,5 +513,6 @@
         "41:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

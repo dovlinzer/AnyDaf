@@ -23,7 +23,9 @@
           "display_title": "Nedarim vs. Shevuot",
           "timestamp": "07:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Two Which Are Four: Oaths in the Torah and Their Expansion by the Rabbis",
@@ -45,7 +47,9 @@
           "display_title": "Mishnah's Cases",
           "timestamp": "20:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tumat Mikdash V'Kodashav: The Complex Case of Impurity in the Temple",
@@ -77,7 +81,9 @@
           "display_title": "No Awareness",
           "timestamp": "42:00"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbinic Disputes: Rabbi Yehuda, Rabbi Shimon, and Rabbi Meir on Atonement Categories",
@@ -109,7 +115,9 @@
           "display_title": "R. Shimon b. Yehuda",
           "timestamp": "51:32"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Scapegoat and All Other Sins: Atonement Beyond Temple Impurity",
@@ -131,7 +139,9 @@
           "display_title": "R. Shimon on Kohanim",
           "timestamp": "57:39"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -358,5 +368,6 @@
         "01:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

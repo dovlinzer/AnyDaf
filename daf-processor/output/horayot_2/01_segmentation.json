@@ -18,7 +18,9 @@
           "display_title": "Court Authority & Error",
           "timestamp": "01:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The First Mishnah: Individual Following a Mistaken Court Ruling",
@@ -30,7 +32,9 @@
           "display_title": "Individual Follows Court",
           "timestamp": "02:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Introduction to Horayot: Authority, Institutions, and the Ruling Court (continued)",
@@ -47,7 +51,9 @@
           "display_title": "Objective Truth in Psak",
           "timestamp": "05:13"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The First Mishnah: Individual Following a Mistaken Court Ruling (continued)",
@@ -59,7 +65,9 @@
           "display_title": "When You Know Better",
           "timestamp": "09:26"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The First Mishnah: Individual Following a Mistaken Court Ruling (continued)",
@@ -71,7 +79,9 @@
           "display_title": "Explicit Ruling Required",
           "timestamp": "14:55"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "When Does a Court Ruling Bind Everyone? The Threshold of Halacha LeMaaseh",
@@ -98,7 +108,9 @@
           "display_title": "Theory vs. Practice",
           "timestamp": "23:03"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Shogeg Al Pihem: The Debate Over Accidental Versus Intentional Reliance on Court Rulings",
@@ -120,7 +132,9 @@
           "display_title": "Shav Mideiato",
           "timestamp": "31:07"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Requirement of Knowledge: Talmid and Ra'uy LiHora'ah",
@@ -132,7 +146,9 @@
           "display_title": "Shev Mideiato Braita",
           "timestamp": "31:28"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Shogeg Al Pihem: The Debate Over Accidental Versus Intentional Reliance on Court Rulings (continued)",
@@ -144,7 +160,9 @@
           "display_title": "Rav Pappa Resolution",
           "timestamp": "35:19"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Requirement of Knowledge: Talmid and Ra'uy LiHora'ah (continued)",
@@ -161,7 +179,9 @@
           "display_title": "Abaye's Challenge",
           "timestamp": "44:27"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "The Scope of Reliance on the Court: When the Ruling Is No Longer Valid and the Debate Among Sages",
@@ -183,7 +203,9 @@
           "display_title": "Guilt vs. Causation",
           "timestamp": "51:22"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -355,5 +377,6 @@
         "52:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

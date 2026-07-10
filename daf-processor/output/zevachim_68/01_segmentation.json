@@ -28,7 +28,9 @@
           "display_title": "Authorial Voice",
           "timestamp": "00:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Detailed Mishnah in Kinnim: Woman's Vow and Mixed Bird Sacrifices",
@@ -125,7 +127,9 @@
           "display_title": "Ben Azzai",
           "timestamp": "22:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Connection Back to Rabbi Yehoshua and Conclusion of Previous Discussion",
@@ -137,7 +141,9 @@
           "display_title": "Closing Statement",
           "timestamp": "23:23"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Yehoshua's Parable: The Ram's Sound Becomes Seven Sounds",
@@ -154,7 +160,9 @@
           "display_title": "Expansion Theme",
           "timestamp": "25:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Connection Back to Rabbi Yehoshua and Conclusion of Previous Discussion (continued)",
@@ -166,7 +174,9 @@
           "display_title": "Clarification",
           "timestamp": "26:41"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Second Mishnah: Invalid Melikah (Slaughter of Birds)",
@@ -203,7 +213,9 @@
           "display_title": "Key Principle",
           "timestamp": "35:31"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Gemara Debate: When Is Melikah by Non-Kohen Valid or Invalid?",
@@ -255,7 +267,9 @@
           "display_title": "Person vs Object",
           "timestamp": "38:28"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -510,5 +524,6 @@
         "19:15"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

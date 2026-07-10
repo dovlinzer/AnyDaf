@@ -23,57 +23,79 @@
           "display_title": "Son's Equal Portion",
           "timestamp": "05:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The three-against-three debate (Rabbi Abin et al. vs. Rabbi Abbahu et al.) on whether the son's kinyan remains valid when the future children did not acquire",
       "display_title": "Abin vs. Abbahu",
-      "timestamp": "08:43"
+      "timestamp": "08:43",
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Yirmiyah's response to the age-based argument: compelling reasoning trumps seniority, and appeal to Rabbi Avin's concession",
       "display_title": "Reasoning > Age",
-      "timestamp": "10:20"
+      "timestamp": "10:20",
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Avin's explanation of why the son does not acquire: the principle of 'you and a donkey' (את וחמור) applied to conditional acquisitions",
       "display_title": "You & Donkey Principle",
-      "timestamp": "13:01"
+      "timestamp": "13:01",
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Expansion of את וחמור through parallels: the case of terumah from a spoiled gourd, and the five women kiddushin case showing את וחמור does work partially",
       "display_title": "At Vachamor Cases",
-      "timestamp": "16:32"
+      "timestamp": "16:32",
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gifting to a wife and children: the meaning of 'to you and my children'—does it mean equal division or equal to one child",
       "display_title": "Wife & Children Gift",
-      "timestamp": "29:15"
+      "timestamp": "29:15",
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The dispute between Rav Yosef (fifty-fifty) and Abaye (equal to one child), with supporting cases and the final ruling",
       "display_title": "Wife Share Dispute",
-      "timestamp": "29:29"
+      "timestamp": "29:29",
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Cases of ambiguous designations: silk sent 'to the house,' property to 'my sons,' and property to 'my sons' with one son and one daughter",
       "display_title": "Ambiguous Designations",
-      "timestamp": "40:22"
+      "timestamp": "40:22",
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The question of whether 'sons' (בנים) can refer to a single son and whether it includes daughters or grandsons",
       "display_title": "Singular 'Sons'",
-      "timestamp": "43:08"
+      "timestamp": "43:08",
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "The case of a man with a son and grandson: does 'my sons' include the grandson?",
       "display_title": "Grandson Question",
-      "timestamp": "49:07"
+      "timestamp": "49:07",
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Capital improvements to an inherited estate: whether older sons' work on the undivided estate benefits all or only themselves",
       "display_title": "Estate Improvements",
-      "timestamp": "50:48"
+      "timestamp": "50:48",
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -291,5 +313,6 @@
         "53:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

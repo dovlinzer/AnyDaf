@@ -28,7 +28,9 @@
           "display_title": "Klal u'Prat Structure",
           "timestamp": "01:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Torah Sources for Kefel Payment: Pesukei Shemirat Pikdaon and Toenei Ta'anat Gneiva",
@@ -50,7 +52,9 @@
           "display_title": "Gneiva vs Claim",
           "timestamp": "05:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Daf 62b Source: Klal u'Prat u'Klal Analysis for Objects Subject to Kefel",
@@ -72,7 +76,9 @@
           "display_title": "Gneiva Land Tosafot",
           "timestamp": "08:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Klal u'Prat u'Klal Debate: Is Kal a Ribuy or a Standard Klal",
@@ -99,7 +105,9 @@
           "display_title": "Ribuy u'Mi'ut Method",
           "timestamp": "17:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Four Specific Cases in the Oath Formula: Land, Slaves, Documents, and Non-Specific Items",
@@ -126,7 +134,9 @@
           "display_title": "Tosafot Half-Items",
           "timestamp": "20:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Application to Aveidah and Toenei Ta'anat Gneiva be'Aveidah",
@@ -143,7 +153,9 @@
           "display_title": "Wallet Scenario",
           "timestamp": "22:13"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Talmudic Comparison: Lost vs. Stolen Oath and Corresponding Penalties",
@@ -170,7 +182,9 @@
           "display_title": "Admission Payment",
           "timestamp": "24:55"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Categorical Distinction: Only False Oath Claiming Gneiva Triggers Kefel",
@@ -187,7 +201,9 @@
           "display_title": "Oath Requirement",
           "timestamp": "26:41"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Two Bratot Explaining the Two Pesukim: True Ganav vs. Toenei Ta'anat Ganav Interpretations",
@@ -209,7 +225,9 @@
           "display_title": "Consensus Claim",
           "timestamp": "29:39"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Rabbinic Interpretation of 'Im Lo Yimatze Haganav' as False Oath Scenario",
@@ -231,7 +249,9 @@
           "display_title": "Shomer Parallel",
           "timestamp": "31:13"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "First Braita's Position: Why Two Pesukim for Same Case of Toenei Ta'anat Ganav",
@@ -243,7 +263,9 @@
           "display_title": "First Establishes",
           "timestamp": "32:33"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Second Braita's Derivation: How True Ganav Pays Kefel Without Oath",
@@ -260,7 +282,9 @@
           "display_title": "Kal Vachomer",
           "timestamp": "33:01"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "First Braita's Position: Why Two Pesukim for Same Case of Toenei Ta'anat Ganav (continued)",
@@ -272,7 +296,9 @@
           "display_title": "Second Excludes",
           "timestamp": "33:06"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Second Braita's Derivation: How True Ganav Pays Kefel Without Oath (continued)",
@@ -284,7 +310,9 @@
           "display_title": "Dayo Rule",
           "timestamp": "36:43"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Source from Tana d'Bei Chizkiah: Explicit Pesukim on Ganav Paying Kefel When Not Slaughtered or Sold",
@@ -306,7 +334,9 @@
           "display_title": "Multiple Animals",
           "timestamp": "37:46"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Klal u'Prat u'Klal on Explicit Ganav Pesukim to Show Kefel Applies to All Items",
@@ -333,7 +363,9 @@
           "display_title": "Chayim Ribuy",
           "timestamp": "40:35"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -602,5 +634,6 @@
         "40:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -18,7 +18,9 @@
           "display_title": "Tosafot: Sun & Roof",
           "timestamp": "00:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sukkah on a Boat: Structural Stability and Wind Resistance",
@@ -50,7 +52,9 @@
           "display_title": "Akiva: Temporary",
           "timestamp": "06:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Sukkah on an Animal: Living Beings and Halachic Fitness",
@@ -107,7 +111,9 @@
           "display_title": "Shrinkage Risk",
           "timestamp": "20:00"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Meir vs. Rabbi Yehuda: The Broader Debate on Concern for Death",
@@ -159,7 +165,9 @@
           "display_title": "Debate Separation",
           "timestamp": "22:57"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -421,5 +429,6 @@
         "00:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

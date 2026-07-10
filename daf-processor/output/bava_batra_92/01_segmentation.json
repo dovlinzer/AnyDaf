@@ -73,7 +73,9 @@
           "display_title": "Storage Capacity",
           "timestamp": "15:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Introduction to Perek Hamocher Peirot and foundational case of selling seeds",
@@ -100,7 +102,9 @@
           "display_title": "Rabban Shimon",
           "timestamp": "18:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Debate of Rav and Shmuel on mekach taut and buyer's assumption in sale of goring ox",
@@ -147,7 +151,9 @@
           "display_title": "Payment Mode",
           "timestamp": "29:02"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Framework of holchin bemamon achar harov and debate on burden of proof in monetary disputes",
@@ -179,7 +185,9 @@
           "display_title": "Tosafot Challenge",
           "timestamp": "33:06"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Case of widow/divorcee claiming ketubah status and role of rov with witnesses and kol",
@@ -216,7 +224,9 @@
           "display_title": "Kol Resolution",
           "timestamp": "51:14"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -345,5 +355,6 @@
         "51:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

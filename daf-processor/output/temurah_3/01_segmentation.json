@@ -33,7 +33,9 @@
           "display_title": "Sin vs Effect",
           "timestamp": "04:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Relationship of Temurah to Sin: Minor, Non-Jew, and the Sanctity Question",
@@ -60,7 +62,9 @@
           "display_title": "Hybrid Case",
           "timestamp": "09:06"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Sanctity of Non-Jewish Consecrations: Lower Status of Korbanot",
@@ -82,7 +86,9 @@
           "display_title": "Temurah Exclusion",
           "timestamp": "14:15"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Sanctity of Non-Jewish Consecrations: Lower Status of Korbanot (continued)",
@@ -109,7 +115,9 @@
           "display_title": "Types of Kedusha",
           "timestamp": "14:26"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Temurah as a Lav Without a Physical Act: The General Principle",
@@ -136,7 +144,9 @@
           "display_title": "Resolution",
           "timestamp": "14:26"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Exceptions to the Lav Without Act Principle: Rabbi Yosi HaGlili's Framework",
@@ -183,7 +193,9 @@
           "display_title": "Speech as Action",
           "timestamp": "14:26"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -406,5 +418,6 @@
         "14:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

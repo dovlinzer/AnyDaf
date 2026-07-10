@@ -28,7 +28,9 @@
           "display_title": "Three Models",
           "timestamp": "08:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Evidence-Based Approach: Lack of Objection and Negligence with Documents",
@@ -70,7 +72,9 @@
           "display_title": "Evidence Plus Documentat…",
           "timestamp": "24:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Machah Shelo Befanav: Objection at a Distance and the Role of Communication",
@@ -87,7 +91,9 @@
           "display_title": "Tosafot's Critique",
           "timestamp": "32:53"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Parameters of Chazakah: Continuity and Interruptions in Possession",
@@ -114,7 +120,9 @@
           "display_title": "Fallow Explanations",
           "timestamp": "41:17"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Chazakat HaBatim: Houses and the Problem of Nocturnal Occupation",
@@ -146,7 +154,9 @@
           "display_title": "Escrow Witnesses",
           "timestamp": "51:15"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Proof of Continuous Occupancy: Explicit Demand vs. Implicit Inference",
@@ -183,7 +193,9 @@
           "display_title": "Proven vs Presumed",
           "timestamp": "58:01"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -572,5 +584,6 @@
         "30:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

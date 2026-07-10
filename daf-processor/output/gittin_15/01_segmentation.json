@@ -23,7 +23,9 @@
           "display_title": "Shchiv Mera Conditions",
           "timestamp": "03:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tannaic Debate on Holech K'Zachi in the Context of Gift-Giving",
@@ -55,7 +57,9 @@
           "display_title": "Shchiv Mera Exception",
           "timestamp": "19:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Amoraic Refinements: Three Positions on When Holech Lav K'Zachi and Its Consequences",
@@ -77,7 +81,9 @@
           "display_title": "Reconciling Principles",
           "timestamp": "26:32"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "B'Fanai Nichtav U'B'Fanai Nechtam: The Condition for Validating Get from Overseas",
@@ -104,7 +110,9 @@
           "display_title": "Rav Ashi Clarification",
           "timestamp": "34:46"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Single vs. Multiple Witnesses in Different Validation Modes",
@@ -126,7 +134,9 @@
           "display_title": "Rav Ashi Solution",
           "timestamp": "44:44"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Gemara's Methodological Defense of Implicit Inference vs. Explicit Statement in Mishna",
@@ -143,7 +153,9 @@
           "display_title": "Rav Chisda Defense",
           "timestamp": "49:38"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Gidud and Mechitza: Combining Depth and Height for Reshut HaYachid",
@@ -165,7 +177,9 @@
           "display_title": "Tosafos Distinction",
           "timestamp": "54:10"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Vow Language and the Principle of Lashon Bnei Adam in Nedarim",
@@ -182,7 +196,9 @@
           "display_title": "Nedarim vs Shavuot",
           "timestamp": "56:01"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -368,5 +384,6 @@
         "56:24"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -33,7 +33,9 @@
           "display_title": "Two Days & Night",
           "timestamp": "03:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Bechor With Blemish: Timing and Extensions After Mum Develops",
@@ -85,7 +87,9 @@
           "display_title": "Alt. Rabbi Eliezer",
           "timestamp": "14:48"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Inspection and Shechita: When Shechita Precedes Expert Ruling",
@@ -147,7 +151,9 @@
           "display_title": "Rabbi Yoshiya Demo",
           "timestamp": "31:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Judicial Liability and Malpractice: Compensation for Erroneous Rulings",
@@ -159,7 +165,9 @@
           "display_title": "Civil Errors",
           "timestamp": "36:58"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Compensation Standards and Exemptions: Grazing Animals vs. Cattle",
@@ -191,7 +199,9 @@
           "display_title": "Rashi Alt. View",
           "timestamp": "40:33"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Direct Causation in Damages: Grama vs. Garmi and Physical Actions",
@@ -203,7 +213,9 @@
           "display_title": "Garmi Definition",
           "timestamp": "42:01"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Judicial Liability and Malpractice: Compensation for Erroneous Rulings (continued)",
@@ -225,7 +237,9 @@
           "display_title": "Mumche Exemption",
           "timestamp": "42:58"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Direct Causation in Damages: Grama vs. Garmi and Physical Actions (continued)",
@@ -257,7 +271,9 @@
           "display_title": "Ruling Binding?",
           "timestamp": "49:01"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Judicial Liability and Malpractice: Compensation for Erroneous Rulings (continued) (continued)",
@@ -279,7 +295,9 @@
           "display_title": "Akiva Response",
           "timestamp": "52:24"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Error Categories: Toeh B'Dvar Mishna vs. Toeh B'Shikul Hadaas and Non-Ruling Status",
@@ -321,7 +339,9 @@
           "display_title": "Canonization",
           "timestamp": "61:49"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -628,5 +648,6 @@
         "56:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

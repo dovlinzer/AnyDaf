@@ -28,7 +28,9 @@
           "display_title": "City Absorbs Him",
           "timestamp": "05:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Manslayer's Return from Exile: Resuming Previous Honors and Status",
@@ -65,7 +67,9 @@
           "display_title": "Eved/Manslayer Link",
           "timestamp": "14:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Transition from Exile to Lashes: The Categories of Those Who Receive Flogging",
@@ -107,7 +111,9 @@
           "display_title": "Minimal Amount",
           "timestamp": "24:47"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Talmudic Debate: Can One Receive Both Lashes and Karet or Capital Punishment?",
@@ -149,7 +155,9 @@
           "display_title": "Chasima Model",
           "timestamp": "33:20"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -390,5 +398,6 @@
         "23:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -28,7 +28,9 @@
           "display_title": "Sukkah parallel",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara question on Avimi: can a neder forbid something even after it leaves one's possession (adam oser davar shebirshuto lichshe-yeitzei me-reshuto)",
@@ -70,7 +72,9 @@
           "display_title": "Hekdesh vs nedarim",
           "timestamp": "14:14"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Mishna on forbidden fruits and the question of chilufeihem (proceeds from sale) versus giduleihem (produce that grows from the seed)",
@@ -97,7 +101,9 @@
           "display_title": "Two possibilities",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Acha Bar Minyumi's proof from a husband forbidding his wife, and the question of whether chilufeihem count as benefit when creditors extract debt",
@@ -149,7 +155,9 @@
           "display_title": "Orlah burning",
           "timestamp": "35:47"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rambam's position on son who is forbidden from benefiting from father's inheritance, and Ra'avad's objection about passing on property one does not own",
@@ -171,7 +179,9 @@
           "display_title": "Ownership question",
           "timestamp": "38:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Mishna on cherem formula and the distinction between things of olei bavel (communal property from returnees from Babylon) and things of the city",
@@ -203,7 +213,9 @@
           "display_title": "Rabbi Elazar consistency",
           "timestamp": "47:35"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Mishna on writing one's share to the Nasi and the debate between Rabbi Yehuda and the Rabbis about what constitutes valid acquisition",
@@ -230,7 +242,9 @@
           "display_title": "Galil exemption",
           "timestamp": "51:17"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -528,5 +542,6 @@
         "36:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

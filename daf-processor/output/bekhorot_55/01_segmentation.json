@@ -18,7 +18,9 @@
           "display_title": "Ten Animals Requirement",
           "timestamp": "00:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Fifteen-Kilometer Distance and Flock Combination",
@@ -40,7 +42,9 @@
           "display_title": "30+ Mil Apart Rule",
           "timestamp": "03:50"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     },
     {
       "title": "Talmudic Derivation of the Sixteen-Mil Standard",
@@ -57,7 +61,9 @@
           "display_title": "Shepherd's Sight Range",
           "timestamp": "07:27"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": false
     },
     {
       "title": "Debate Between Rav and Shmuel on Middle-Flock Combining",
@@ -84,7 +90,9 @@
           "display_title": "Defense of Rav",
           "timestamp": "14:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Extension of Flock Combining: Shepherd's House, Supplies, and Dog",
@@ -111,7 +119,9 @@
           "display_title": "Sheepdog Question",
           "timestamp": "17:37"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Regional Division and the Jordan River Boundary",
@@ -133,7 +143,9 @@
           "display_title": "Countries Division",
           "timestamp": "23:53"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Conceptual Boundaries Beyond Physical Barriers",
@@ -155,7 +167,9 @@
           "display_title": "Eretz Yisrael Boundaries",
           "timestamp": "29:51"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Status of Ever HaYarden and Its Halakhic Implications",
@@ -172,7 +186,9 @@
           "display_title": "Bikkurim Example",
           "timestamp": "33:12"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Tannaitic Debate on Jordan as Regional Boundary",
@@ -189,7 +205,9 @@
           "display_title": "Yochai Position",
           "timestamp": "37:29"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Status of Ever HaYarden and Its Halakhic Implications (continued)",
@@ -201,7 +219,9 @@
           "display_title": "Kaftor VaPerach",
           "timestamp": "39:40"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Jordan Definition: From Jericho Southward Only",
@@ -218,7 +238,9 @@
           "display_title": "Jericho Source",
           "timestamp": "46:29"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Aggadic Digression: Etymology and Essence of Rivers",
@@ -245,7 +267,9 @@
           "display_title": "Yuval vs Prat",
           "timestamp": "53:01"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Halakhic Application: Rainwater vs Natural Water in Mikvah",
@@ -272,7 +296,9 @@
           "display_title": "Rashi's Mayim Chayim",
           "timestamp": "59:47"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -458,5 +484,6 @@
         "14:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

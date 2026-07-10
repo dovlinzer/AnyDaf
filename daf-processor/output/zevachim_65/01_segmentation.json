@@ -23,7 +23,9 @@
           "display_title": "Lishmah & Pigul",
           "timestamp": "01:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Chatas with Improper Intention and Mixed Pigul/Shelo Lishmah Thoughts",
@@ -60,7 +62,9 @@
           "display_title": "Eating & Burning",
           "timestamp": "06:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Textual Sources: Pesukei Olah and Chatas from Vayikra",
@@ -82,7 +86,9 @@
           "display_title": "Verb Comparison",
           "timestamp": "10:59"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Midrashic Derivations: Kohein Requirement and Melikah Specifications",
@@ -119,7 +125,9 @@
           "display_title": "Head Separation",
           "timestamp": "23:42"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Blood-Squeezing Requirements and Location on the Altar",
@@ -151,7 +159,9 @@
           "display_title": "Fire & Placement",
           "timestamp": "31:48"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Removing the Crop and Tearing Open the Body",
@@ -178,7 +188,9 @@
           "display_title": "Post-Blood Acts",
           "timestamp": "36:40"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Debate on Severing Both Simanim in Chatas: Tanna Kamma vs. Rabbi Eliezer b'Rabbi Shimon",
@@ -210,7 +222,9 @@
           "display_title": "Flesh Cutting",
           "timestamp": "43:45"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Rava's Conceptual Debate: Is the Second Siman Part of Shechita or Separate Requirement",
@@ -252,7 +266,9 @@
           "display_title": "Gemara Synthesis",
           "timestamp": "51:55"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -506,5 +522,6 @@
         "26:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

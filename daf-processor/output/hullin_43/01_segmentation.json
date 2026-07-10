@@ -28,7 +28,9 @@
           "display_title": "Tannaitic Summary",
           "timestamp": "06:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Seven Amoraic Additions to the List of Treifos",
@@ -70,7 +72,9 @@
           "display_title": "Seventh Teaching",
           "timestamp": "13:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Consolidating Holes into a Single Category to Accommodate New Treifos",
@@ -92,7 +96,9 @@
           "display_title": "Balance to 18",
           "timestamp": "18:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Ulla's Alternative Framework: Eight Types of Injuries Rather Than Eighteen Specific Cases",
@@ -114,7 +120,9 @@
           "display_title": "Practical Checking",
           "timestamp": "25:31"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Debate Over the Gallbladder: Is a Hole in It a Treifa?",
@@ -141,7 +149,9 @@
           "display_title": "Miracles Dismissed",
           "timestamp": "33:37"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Series of Teachings from Rav Yitzchak bar Yosef in Name of Rabbi Yochanan",
@@ -163,7 +173,9 @@
           "display_title": "Sealed Gallbladder",
           "timestamp": "39:32"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Double-Layered Organs and Holes: Gizzard and Esophagus",
@@ -195,7 +207,9 @@
           "display_title": "Color Change Issue",
           "timestamp": "43:06"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Non-Parallel Holes in Double-Layered Organs: Gizzard vs. Esophagus",
@@ -222,7 +236,9 @@
           "display_title": "Reconciliation",
           "timestamp": "46:46"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rava on Scar Tissue Covering Holes in the Esophagus",
@@ -244,7 +260,9 @@
           "display_title": "Status Irreversible",
           "timestamp": "49:17"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Thorn in the Esophagus: When Are We Concerned About Hidden Damage?",
@@ -271,7 +289,9 @@
           "display_title": "Rav Kahana's Answer",
           "timestamp": "59:32"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -593,5 +613,6 @@
         "51:44"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

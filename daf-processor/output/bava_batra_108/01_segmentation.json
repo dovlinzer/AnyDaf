@@ -33,7 +33,9 @@
           "display_title": "Irrigation Use",
           "timestamp": "07:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Introduction to Perek Yesh Nochlin: The Concept and Etymology of Nachala (Inheritance)",
@@ -60,7 +62,9 @@
           "display_title": "Modern Wills",
           "timestamp": "14:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Mishnah's Structure: Categories of Inheritance Relationships",
@@ -87,7 +91,9 @@
           "display_title": "Maternal Brothers",
           "timestamp": "21:22"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Why Father-to-Son Inheritance is Listed First Despite Being Explicit in Scripture",
@@ -109,7 +115,9 @@
           "display_title": "Derasha vs Tragic",
           "timestamp": "27:48"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Derivation of Inheritance Hierarchy from Scripture: Father, Daughter, and Brother",
@@ -131,7 +139,9 @@
           "display_title": "Script Sources",
           "timestamp": "30:02"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Determining Hierarchy Between Son and Brother: Evidence from Ye'udah and Ancestral Fields",
@@ -163,7 +173,9 @@
           "display_title": "Two Against One",
           "timestamp": "38:12"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Property Flow and Daughter's Inheritance: Establishing Downstream vs. Upstream Principles",
@@ -185,7 +197,9 @@
           "display_title": "Revert to Father",
           "timestamp": "40:07"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -516,5 +530,6 @@
         "38:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

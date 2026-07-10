@@ -18,7 +18,9 @@
           "display_title": "Mishna Rule",
           "timestamp": "08:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Chisda's Distinction Between Short and Long Nazirut",
@@ -40,7 +42,9 @@
           "display_title": "Fifty-Day Case",
           "timestamp": "17:26"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Complex Case of Double Safek: Metzora and Nazir Tamei Status Simultaneously",
@@ -62,7 +66,9 @@
           "display_title": "Conditional Korbanos",
           "timestamp": "26:00"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Fundamental Proof That Yemei Gamro and Yemei Sifro Do Not Count: The Braita's Midrash Halacha",
@@ -89,7 +95,9 @@
           "display_title": "Fundamental Non-Counting",
           "timestamp": "41:24"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -361,5 +369,6 @@
         "39:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

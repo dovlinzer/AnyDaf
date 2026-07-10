@@ -28,7 +28,9 @@
           "display_title": "Presence & Restriction",
           "timestamp": "05:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Shimon's Ultra-Restrictive Model: Bamah Gedolah as Extended Bamah Ketanah",
@@ -55,7 +57,9 @@
           "display_title": "Olot vs. Chatas",
           "timestamp": "15:01"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Transition to Shilo: When the Mishkan Became a Permanent Resting Place",
@@ -77,7 +81,9 @@
           "display_title": "Kodashim Eating Rules",
           "timestamp": "22:20"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Line of Sight Principle: Eating Kodashim from Anywhere You See Shilo",
@@ -109,7 +115,9 @@
           "display_title": "Edge Cases",
           "timestamp": "31:25"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Divine Presence in Three Tribal Locations: Benjamin's Theological Centrality",
@@ -136,7 +144,9 @@
           "display_title": "Tannaitic Dispute",
           "timestamp": "43:37"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Historical Chronology: Computing the Years Shilo Stood via Subtraction from the 480-Year Count",
@@ -183,7 +193,9 @@
           "display_title": "David & Solomon",
           "timestamp": "53:28"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -442,5 +454,6 @@
         "22:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

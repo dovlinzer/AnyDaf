@@ -33,7 +33,9 @@
           "display_title": "Sephardic vs. Ashkenazi",
           "timestamp": "05:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Non-Kosher Eggs: Conditions Under Which Eggs Impart Taste",
@@ -65,7 +67,9 @@
           "display_title": "Absorption Question",
           "timestamp": "13:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Fat Falling into Meat: Measuring Sixty Based on Current Proportions Versus Original Proportions",
@@ -82,7 +86,9 @@
           "display_title": "Proportional Absorption",
           "timestamp": "18:33"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Half a K'Zayit of Fat and the Question of Thirty Versus Sixty: Rabbinic Stringency with Measures",
@@ -104,7 +110,9 @@
           "display_title": "Chatzi Shiur Asur",
           "timestamp": "21:32"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Sixty or Sixty-One for Eggs: Ambiguity in the Tradition and the Stringency Applied to Eggs",
@@ -126,7 +134,9 @@
           "display_title": "Yitzchak's Clarity",
           "timestamp": "25:57"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Evolution of the Sixty Measure: From Uncertain Numbers in Tannaitic Sources Toward Crystallization of Sixty",
@@ -158,7 +168,9 @@
           "display_title": "Thirty Question",
           "timestamp": "31:04"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Learning Out Sixty from Scripture: All Forbidden Things Measured by Sixty (with Alternative Tradition of One Hundred)",
@@ -175,7 +187,9 @@
           "display_title": "All by 100",
           "timestamp": "34:29"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Ram's Foreleg as a Biblical Model: Determining Whether Sixty or One Hundred Is the Correct Measure",
@@ -202,7 +216,9 @@
           "display_title": "Bones Question",
           "timestamp": "39:52"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Foreleg as an Exception or a General Rule: Can We Learn Out Sixty and One Hundred to All Forbidden Things?",
@@ -229,7 +245,9 @@
           "display_title": "Learning Stringencies",
           "timestamp": "48:21"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Rava's Alternative Explanation: The Foreleg Case Teaches About Ta'am Ke'Ikar as a Prohibition by Kodashim Only",
@@ -266,7 +284,9 @@
           "display_title": "Conclusion",
           "timestamp": "55:10"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -447,5 +467,6 @@
         "56:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

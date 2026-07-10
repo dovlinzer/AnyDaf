@@ -28,7 +28,9 @@
           "display_title": "Eliezer vs. Chachamim",
           "timestamp": "00:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tosafot's Reading: When Must a Tamei Nazir Become Pure Before Bringing Korbanos",
@@ -50,7 +52,9 @@
           "display_title": "Why Tumah Can't Destroy…",
           "timestamp": "02:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Clarification of Rabbi Eliezer's Position: Soter Korbanot, Not All Days",
@@ -62,7 +66,9 @@
           "display_title": "Tosafot Clarification",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Story of Miriam from Tarmod: Practical Example of Tumah After First Korban",
@@ -79,7 +85,9 @@
           "display_title": "Chachamim's Ruling",
           "timestamp": "06:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Clarification of Rabbi Eliezer's Position: Soter Korbanot, Not All Days (continued)",
@@ -91,7 +99,9 @@
           "display_title": "Gemara: Soter Definition",
           "timestamp": "09:14"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Transition: From Specific Nazir Laws to General Tumah and Kohanic Restrictions",
@@ -108,7 +118,9 @@
           "display_title": "Preview: Nazir-Kohen Pri…",
           "timestamp": "11:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Mishnah: Kohen Gadol and Nazir Cannot Become Tamei to Relatives But Can to Meit Mitzvah",
@@ -130,7 +142,9 @@
           "display_title": "Chachamim: Nazir Priority",
           "timestamp": "18:30"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Gemara's Parallel Cases: Mashuach Beshemen vs. Merubeh Begadim",
@@ -152,7 +166,9 @@
           "display_title": "One-Day vs. Permanent Is…",
           "timestamp": "27:27"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara's Question on Mashuach Milchamah vs. Sgan: Whose Tumah Overrides?",
@@ -174,7 +190,9 @@
           "display_title": "Rationale: Sgan's Role",
           "timestamp": "31:17"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gemara Resolves Apparent Contradiction: Lechaiyaso vs. Le'inyan Tumah",
@@ -196,7 +214,9 @@
           "display_title": "Tosafot: Hierarchy Clari…",
           "timestamp": "40:47"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Gemara's General Principle: Each Individual Overrides Tumah for Meit Mitzvah",
@@ -213,7 +233,9 @@
           "display_title": "Source Question",
           "timestamp": "42:58"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Derivation of Meit Mitzvah from Pesukim: Analysis of 'Al Kol Nafshot Met' and 'Le'aviv U'le'imo'",
@@ -240,7 +262,9 @@
           "display_title": "Extra Words Teach New Ru…",
           "timestamp": "43:00"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Gezeira Shava: Connecting 'Le'imo' in Nazir to 'Le'imo' in Kohen Gadol",
@@ -262,7 +286,9 @@
           "display_title": "Redundancy Analysis",
           "timestamp": "51:01"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -377,5 +403,6 @@
         "49:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

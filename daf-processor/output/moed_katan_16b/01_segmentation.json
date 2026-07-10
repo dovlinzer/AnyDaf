@@ -28,7 +28,9 @@
           "display_title": "Ashkenazi vs. Sephardi",
           "timestamp": "02:33"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Self-Imposed Nezifa: Stories of Bar Kappara and Rabbi Chiya Responding to Rabbinic Censure",
@@ -65,7 +67,9 @@
           "display_title": "Reconciliation",
           "timestamp": "10:34"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Public Display of Torah and Intellectual Elitism: Tensions Between Accessibility and Proper Understanding",
@@ -92,7 +96,9 @@
           "display_title": "Tzedakah vs. Torah",
           "timestamp": "17:26"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "The Story of Zutra bar Tuvia: Questioning Rabbinic Authority and the Limits of Deference",
@@ -109,7 +115,9 @@
           "display_title": "Zutra's Nezifa",
           "timestamp": "28:05"
         }
-      ]
+      ],
+      "sefaria_index": 36,
+      "matched": true
     },
     {
       "title": "Digression on David: Self-Abnegation of Honor and the Power of the Righteous",
@@ -131,7 +139,9 @@
           "display_title": "Tzaddik Gozer",
           "timestamp": "37:35"
         }
-      ]
+      ],
+      "sefaria_index": 43,
+      "matched": true
     },
     {
       "title": "Nidui for Personal Honor (Nidui Lichvodo): Limitations and Application by Non-Ordained Scholars",
@@ -153,7 +163,9 @@
           "display_title": "Ruling for Oneself",
           "timestamp": "45:10"
         }
-      ]
+      ],
+      "sefaria_index": 43,
+      "matched": false
     },
     {
       "title": "The Case of the Scholar with a Bad Reputation: Balancing Community Need and Moral Accountability",
@@ -190,7 +202,9 @@
           "display_title": "Rabbi Ilai's Teaching",
           "timestamp": "55:25"
         }
-      ]
+      ],
+      "sefaria_index": 43,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -389,5 +403,6 @@
         "55:25"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

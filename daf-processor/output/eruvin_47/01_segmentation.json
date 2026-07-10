@@ -28,7 +28,9 @@
           "display_title": "Rav Mesharshya",
           "timestamp": "02:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Method of Proving and Testing the Principles Through Cases of Exceptions and Cases Requiring Explicit Rulings",
@@ -45,7 +47,9 @@
           "display_title": "Cases Requiring Ruling",
           "timestamp": "03:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case One: A Private City Becoming Public and Vice Versa, and How to Make an Eruv",
@@ -72,7 +76,9 @@
           "display_title": "Rav's Ruling",
           "timestamp": "07:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Case Two: When a Householder Leaves His House to Spend Shabbat Elsewhere, Whether He Prevents the Neighbors from Making an Eruv",
@@ -109,7 +115,9 @@
           "display_title": "Rav Rules",
           "timestamp": "11:38"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Case Three: Using One's Own Physical Presence Instead of Bread for Eruv Techumin",
@@ -141,7 +149,9 @@
           "display_title": "Challenge",
           "timestamp": "15:45"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Resolution: Distinction Between Mishnayot and Baraitot, and Discussion of Shmuel's Principle on Rabbi Meir's Gezeirot",
@@ -153,7 +163,9 @@
           "display_title": "Rav vs Yochanan",
           "timestamp": "15:57"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Case Four: Marriage and Betrothal Within Three Months of Widowhood or Divorce",
@@ -190,7 +202,9 @@
           "display_title": "Challenge",
           "timestamp": "22:59"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Resolution: Distinction Between Mishnayot and Baraitot, and Discussion of Shmuel's Principle on Rabbi Meir's Gezeirot (continued)",
@@ -212,7 +226,9 @@
           "display_title": "Contradiction",
           "timestamp": "28:29"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Case Five: Purchasing Items at Pagan Markets to Bring Them Under Jewish Ownership",
@@ -249,7 +265,9 @@
           "display_title": "Yochanan Explicit",
           "timestamp": "34:35"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Discussion of Objects Owned by Non-Jews and Their Techumin Status",
@@ -281,7 +299,9 @@
           "display_title": "Confusion Concern",
           "timestamp": "45:22"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Case Six: Rams Brought Outside the Techumin and Sold in the City of Mavrakhta",
@@ -303,7 +323,9 @@
           "display_title": "City as Four Amot",
           "timestamp": "49:41"
         }
-      ]
+      ],
+      "sefaria_index": 38,
+      "matched": true
     },
     {
       "title": "Case Seven: A Fishnet Dividing Waters Between the Techumin of Two Cities",
@@ -330,7 +352,9 @@
           "display_title": "Water Leniency",
           "timestamp": "54:26"
         }
-      ]
+      ],
+      "sefaria_index": 42,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -622,5 +646,6 @@
         "54:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 26
 }

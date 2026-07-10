@@ -38,7 +38,9 @@
           "display_title": "Boat vs. Animal Logic",
           "timestamp": "10:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Introduction to Debt Acquisition (Otiot): The Debate on Mesira vs. Shtar",
@@ -65,7 +67,9 @@
           "display_title": "Why Mesira Works",
           "timestamp": "26:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tannaitic Debates on Debt Acquisition: The Positions of Rabbi and the Sages",
@@ -92,7 +96,9 @@
           "display_title": "Shtar's Limited Scope",
           "timestamp": "30:15"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Reconciling Multiple Braitot: Boat Acquisition and the Role of Context (Reshut Ha-Rabim vs. Simta)",
@@ -119,7 +125,9 @@
           "display_title": "Sages on Boats",
           "timestamp": "45:06"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "General Principles of Kinyanim: Hagbaha Works Everywhere; Physical Control vs. Symbolic Transfer",
@@ -131,7 +139,9 @@
           "display_title": "Context & Meaning",
           "timestamp": "46:22"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Reconciling Multiple Braitot: Boat Acquisition and the Role of Context (Reshut Ha-Rabim vs. Simta) (continued)",
@@ -143,7 +153,9 @@
           "display_title": "Abaye & Rava",
           "timestamp": "49:13"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "General Principles of Kinyanim: Hagbaha Works Everywhere; Physical Control vs. Symbolic Transfer (continued)",
@@ -155,7 +167,9 @@
           "display_title": "Hagbaha Universal",
           "timestamp": "50:11"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Reconciling Multiple Braitot: Boat Acquisition and the Role of Context (Reshut Ha-Rabim vs. Simta) (continued) (continued)",
@@ -167,7 +181,9 @@
           "display_title": "Sages' Solution",
           "timestamp": "51:16"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "General Principles of Kinyanim: Hagbaha Works Everywhere; Physical Control vs. Symbolic Transfer (continued) (continued)",
@@ -179,7 +195,9 @@
           "display_title": "Chalifin Alternative",
           "timestamp": "52:34"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -421,5 +439,6 @@
         "39:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

@@ -1,4 +1,5 @@
 # Chullin 15 — Daf Yomi Shiur
+[DAF:15a]
 
 ## Shechita Shabbat, Eating…
 
@@ -158,6 +159,7 @@ The Gemara explains the distinction: *ad kan lo kashari Rebbi Meir ela b'mevashe
 
 ## Sick Person Cases
 
+[DAF:15b]
 ### Meat Not Edible Raw
 
 > **Hebrew/Aramaic:** כִּי שָׁרֵי רַבִּי מֵאִיר, כְּגוֹן שֶׁהָיָה לוֹ חוֹלֶה מִבְּעוֹד יוֹם.

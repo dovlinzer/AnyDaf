@@ -28,7 +28,9 @@
           "display_title": "Safek Resolution",
           "timestamp": "03:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Zeira and Abaye: The Nature of Two-Day Yom Tov as Minhag vs. Takana",
@@ -70,7 +72,9 @@
           "display_title": "Future Persecution",
           "timestamp": "13:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Days of Rosh Hashanah: A Fundamentally Different Category",
@@ -102,7 +106,9 @@
           "display_title": "Post-Mincha Kedusha",
           "timestamp": "20:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabban Yochanan ben Zakkai's Reform and Its Halachic Consequences",
@@ -129,7 +135,9 @@
           "display_title": "Practice Divergence",
           "timestamp": "24:55"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Principle of Davar She'beminyan: Legislation Cannot Self-Nullify",
@@ -161,7 +169,9 @@
           "display_title": "Takana Application",
           "timestamp": "50:06"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Abaye's Challenge: Kedusha Achat Is Emergent, Not Legislated",
@@ -178,7 +188,9 @@
           "display_title": "Automatic Shift",
           "timestamp": "52:32"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Alternative Explanations for Maintaining One Kedusha After Reform",
@@ -205,7 +217,9 @@
           "display_title": "Final Ruling",
           "timestamp": "60:30"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Dispute Among Rishonim: One or Two Days of Rosh Hashanah in Eretz Yisrael",
@@ -227,7 +241,9 @@
           "display_title": "Modern Practice",
           "timestamp": "62:48"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -674,5 +690,6 @@
         "17:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

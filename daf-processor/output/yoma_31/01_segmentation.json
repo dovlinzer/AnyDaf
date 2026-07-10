@@ -23,7 +23,9 @@
           "display_title": "Rabbinic Model",
           "timestamp": "01:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Partial Entry into the Beit HaMikdash: Does Biah B'Miktzat Require Mikvah?",
@@ -40,7 +42,9 @@
           "display_title": "Metzora Precedent",
           "timestamp": "03:55"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Performing Avodah Without Entering: Does Long-Distance Shechitah Require Mikvah?",
@@ -62,7 +66,9 @@
           "display_title": "Rabbanan Dispute",
           "timestamp": "08:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Five Immersions and Ten Hand-Washings of the Kohen Gadol",
@@ -99,7 +105,9 @@
           "display_title": "Immersion Process",
           "timestamp": "23:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Hand and Foot Washing in Relation to Changing Garments: The Debate Between Rabbi Meir and the Rabbanan",
@@ -151,7 +159,9 @@
           "display_title": "Final Reconciliation",
           "timestamp": "48:53"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -397,5 +407,6 @@
         "06:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

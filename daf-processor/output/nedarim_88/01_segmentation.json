@@ -23,7 +23,9 @@
           "display_title": "Relevance Anecdote",
           "timestamp": "01:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Knowledge and Awareness in Annulment (Hafara): The Debate Over Partial Hearing",
@@ -50,7 +52,9 @@
           "display_title": "Two Half-Hearings",
           "timestamp": "06:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis: Comparison to Blind Person in Manslaughter Law and the Principle of Partial Awareness",
@@ -77,7 +81,9 @@
           "display_title": "Partial Awareness Drive",
           "timestamp": "15:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Neder Prohibiting Benefit to the Son-in-Law and the Wife's Possession of Property",
@@ -94,7 +100,9 @@
           "display_title": "Automatic Transfer",
           "timestamp": "18:14"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Comparison to Blind Person in Manslaughter Law and the Principle of Partial Awareness (continued)",
@@ -106,7 +114,9 @@
           "display_title": "Different Verses",
           "timestamp": "19:22"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Neder Prohibiting Benefit to the Son-in-Law and the Wife's Possession of Property (continued)",
@@ -123,7 +133,9 @@
           "display_title": "Stipulation Fails",
           "timestamp": "20:04"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Gemara Debate: Rav vs. Shmuel on Whether Stipulation Alone Prevents Husband's Acquisition",
@@ -135,7 +147,9 @@
           "display_title": "Yad Isha Identity",
           "timestamp": "20:20"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Neder Prohibiting Benefit to the Son-in-Law and the Wife's Possession of Property (continued)",
@@ -147,7 +161,9 @@
           "display_title": "Money vs Food",
           "timestamp": "23:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Gemara Debate: Rav vs. Shmuel on Whether Stipulation Alone Prevents Husband's Acquisition (continued)",
@@ -164,7 +180,9 @@
           "display_title": "Shmuel: Stipulation Only",
           "timestamp": "26:05"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "The Shitur Mevo'ot: Transfer of Possession Through the Wife When Husband is Giver",
@@ -191,7 +209,9 @@
           "display_title": "Rava's Caveat",
           "timestamp": "34:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Limitation on Wife's Ability to Represent: The Requirement of Independent Standing",
@@ -213,7 +233,9 @@
           "display_title": "House Ownership",
           "timestamp": "41:04"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Final Halacha: Following Shmuel's Position on Stipulation Against Husband's Rights",
@@ -230,7 +252,9 @@
           "display_title": "Alternative Positions",
           "timestamp": "44:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -433,5 +457,6 @@
         "37:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

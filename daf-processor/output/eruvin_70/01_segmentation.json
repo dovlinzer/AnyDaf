@@ -38,7 +38,9 @@
           "display_title": "Chashad Distinction",
           "timestamp": "03:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishna on Forgotten Eruv: One Person's Waiver and Collective Rights in the Courtyard",
@@ -75,7 +77,9 @@
           "display_title": "Reassertion Debate",
           "timestamp": "07:47"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: Why One Person Cannot Take From His Own House When He Waives the Courtyard",
@@ -102,7 +106,9 @@
           "display_title": "Conditional Waiver Fails",
           "timestamp": "13:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Braita: Complex Scenarios of Who Can Give and Receive Waivers—Givers vs. Receivers Asymmetry",
@@ -144,7 +150,9 @@
           "display_title": "Case 6: Two to Two Failu…",
           "timestamp": "22:49"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Abaye and Rava Dispute: Must Each Giver Waive Individually, or Can One Represent the Collective?",
@@ -171,7 +179,9 @@
           "display_title": "Givers Individual, Recei…",
           "timestamp": "30:19"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Heir's Right to Do Bittul Reshut: Is He a Continuation of the Father or a New Entity?",
@@ -193,7 +203,9 @@
           "display_title": "Rav Nachman Answer",
           "timestamp": "31:29"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Principle of Status at Beginning of Shabbat: What Begins Permitted Remains Permitted; What Begins Forbidden Remains Forbidden—Exception of Bittul Reshut",
@@ -230,7 +242,9 @@
           "display_title": "Bittul Exception",
           "timestamp": "33:37"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Application to Heirs: Father Dies Before Shabbat; Heir Cannot Do Bittul vs. Father Dies on Shabbat; Heir Can Carry",
@@ -257,7 +271,9 @@
           "display_title": "Forbidden Until Bittul",
           "timestamp": "35:33"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1346,5 +1362,6 @@
         "31:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

@@ -28,7 +28,9 @@
           "display_title": "Sons' Descendants Priori…",
           "timestamp": "04:00"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Statement of Rabbi Yochanan: Whoever Does Not Leave a Son Faces God's Wrath",
@@ -50,7 +52,9 @@
           "display_title": "Resolution & Rav Yochanan",
           "timestamp": "13:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Midrashic Interpretations on Death, Legacy, and the Importance of Having a Son",
@@ -72,7 +76,9 @@
           "display_title": "Poverty & Wisdom",
           "timestamp": "21:07"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The General Principle of Inheritance Order and the Chart of Succession",
@@ -94,7 +100,9 @@
           "display_title": "Males Over Females",
           "timestamp": "26:20"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Case of Rami bar Chama: Grandfather vs. Uncle in the Inheritance Line",
@@ -116,7 +124,9 @@
           "display_title": "Direct Descendants First",
           "timestamp": "39:04"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Comprehensive Summary of Inheritance Rules and Practical Applications",
@@ -133,7 +143,9 @@
           "display_title": "Edge Cases & Exceptions",
           "timestamp": "42:33"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "The Case of the Daughters of Tzelofchad Receiving Three Portions: Division Among Yotzei Mitzrayim",
@@ -160,7 +172,9 @@
           "display_title": "Muchzekim Principle",
           "timestamp": "50:47"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -382,5 +396,6 @@
         "43:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

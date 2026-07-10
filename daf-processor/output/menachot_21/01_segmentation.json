@@ -38,7 +38,9 @@
           "display_title": "Wood Status",
           "timestamp": "04:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Cooked and Salted Blood: Status and Liability for Eating",
@@ -70,7 +72,9 @@
           "display_title": "Salt Quantity",
           "timestamp": "12:15"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Congealed Blood: Fire vs. Sun and Application to Offerings",
@@ -107,7 +111,9 @@
           "display_title": "Heat Transforms",
           "timestamp": "26:36"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Halachic Implications: Cooked Blood and Meat Preparation",
@@ -129,7 +135,9 @@
           "display_title": "Practical Case",
           "timestamp": "34:21"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Congealed Blood: Fire vs. Sun and Application to Offerings (continued)",
@@ -146,7 +154,9 @@
           "display_title": "Donkey Blood",
           "timestamp": "36:15"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Blood as Chatzitza in Ritual Immersion and Adhesiveness",
@@ -168,7 +178,9 @@
           "display_title": "Adhesiveness",
           "timestamp": "38:18"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Mitzvah of Salting Offerings: Quantity and Type of Salt",
@@ -210,7 +222,9 @@
           "display_title": "Pot Comparison",
           "timestamp": "46:10"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Me'ilah and Salt: Status of Salt Before and After Application",
@@ -232,7 +246,9 @@
           "display_title": "Shekalim Source",
           "timestamp": "50:12"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Three Locations of Salt in the Mikdash and Their Uses",
@@ -259,7 +275,9 @@
           "display_title": "Cleanliness Reason",
           "timestamp": "55:13"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Permitted and Prohibited Uses of Kodesh Salt by Kohanim",
@@ -286,7 +304,9 @@
           "display_title": "Use Distinction",
           "timestamp": "58:02"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -535,5 +555,6 @@
         "56:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

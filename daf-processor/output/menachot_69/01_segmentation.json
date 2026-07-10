@@ -33,7 +33,9 @@
           "display_title": "Simple explanation",
           "timestamp": "02:36"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Tarfon's Difficulty and Yehuda ben Nechemiah's Resolution",
@@ -60,7 +62,9 @@
           "display_title": "Yehuda's death",
           "timestamp": "05:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Deeper Conceptual Issue: Single vs. Parallel Prohibitions",
@@ -92,7 +96,9 @@
           "display_title": "Grapes test",
           "timestamp": "12:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Can the Omer and Shtei HaLechem Operate Out of Order?",
@@ -129,7 +135,9 @@
           "display_title": "Refutation",
           "timestamp": "25:35"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Stage of Plant Growth Required for Shtei HaLechem to Apply",
@@ -151,7 +159,9 @@
           "display_title": "Teiku",
           "timestamp": "30:20"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Status of Planted Seeds Before They Take Root",
@@ -188,7 +198,9 @@
           "display_title": "All Teiku",
           "timestamp": "42:22"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Wheat Kernels from Animal Dung: Status as Food and for Korbanot",
@@ -215,7 +227,9 @@
           "display_title": "Two theories",
           "timestamp": "46:02"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Materials That Have Passed Through Animals: Digestion and Status Change",
@@ -247,7 +261,9 @@
           "display_title": "Tosafot's principle",
           "timestamp": "54:39"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Can Grain Be Offered That Fell from the Clouds?",
@@ -269,7 +285,9 @@
           "display_title": "It can happen",
           "timestamp": "56:57"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1005,5 +1023,6 @@
         "27:18"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

@@ -23,7 +23,9 @@
           "display_title": "Activities in Sukkah",
           "timestamp": "01:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Learning in the Sukkah: Distinctions Between Memorization and Analysis",
@@ -45,7 +47,9 @@
           "display_title": "Sukkah as Home",
           "timestamp": "04:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Removing Vessels and Setting Up the Sukkah Environment",
@@ -72,7 +76,9 @@
           "display_title": "Welcoming Environment",
           "timestamp": "08:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rain and Discomfort: When One May Leave the Sukkah",
@@ -94,7 +100,9 @@
           "display_title": "Continuity Rule",
           "timestamp": "21:47"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Theological Significance of Rain: The Master's Rejection of the Servant",
@@ -116,7 +124,9 @@
           "display_title": "God's Presence",
           "timestamp": "28:13"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Celestial Signs and Afflictions: Solar and Lunar Eclipses as Divine Messages",
@@ -148,7 +158,9 @@
           "display_title": "Lesser Deities",
           "timestamp": "36:08"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Protection of the Righteous: Doing God's Will Transcends Natural Omens",
@@ -165,7 +177,9 @@
           "display_title": "Separation Principle",
           "timestamp": "37:44"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Specific Sins Causing Solar Afflictions and Loss of Wealth",
@@ -192,7 +206,9 @@
           "display_title": "Arrogance Root",
           "timestamp": "43:35"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Introduction to the Lulav and Etrog: Invalidities Based on Physical Qualities",
@@ -219,7 +235,9 @@
           "display_title": "Height Requirement",
           "timestamp": "47:27"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Principle of Hadar: Beauty as a Requirement Based on Scripture",
@@ -236,7 +254,9 @@
           "display_title": "Tosafos on Hadar",
           "timestamp": "48:36"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Distinguishing First Day from Intermediate Days: Ownership and Validity Questions",
@@ -258,7 +278,9 @@
           "display_title": "Stolen Lulav Problem",
           "timestamp": "51:36"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1076,5 +1098,6 @@
         "32:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

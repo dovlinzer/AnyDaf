@@ -1,5 +1,7 @@
 package com.anydaf.ui
 
+import android.net.Uri
+import android.widget.VideoView
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -30,6 +32,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.viewinterop.AndroidView
 import com.anydaf.R
 import kotlinx.coroutines.delay
 
@@ -40,7 +43,7 @@ private val SubtitleBlue = Color(red = 0.75f, green = 0.85f, blue = 1f)
 @Composable
 fun SplashScreen(onDone: () -> Unit) {
     LaunchedEffect(Unit) {
-        delay(2000)
+        delay(3200)
         onDone()
     }
 
@@ -96,20 +99,29 @@ fun SplashScreen(onDone: () -> Unit) {
             )
         }
 
-        // Logo pinned near the bottom with rounded corners
+        // Logo animation pinned near the bottom
         Column(
             modifier = Modifier
                 .align(Alignment.BottomCenter)
                 .navigationBarsPadding(),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Image(
-                painter = painterResource(id = R.drawable.yct_logo_wide),
-                contentDescription = "Yeshivat Chovevei Torah",
+            AndroidView(
+                factory = { ctx ->
+                    VideoView(ctx).apply {
+                        val uri = Uri.parse("android.resource://${ctx.packageName}/${R.raw.yct_splash}")
+                        setVideoURI(uri)
+                        setOnPreparedListener { mp ->
+                            mp.isLooping = true
+                            mp.setVolume(0f, 0f)
+                            start()
+                        }
+                    }
+                },
                 modifier = Modifier
                     .width(logoWidth)
-                    .clip(RoundedCornerShape(16.dp)),
-                contentScale = ContentScale.Fit
+                    .height(logoWidth)
+                    .clip(RoundedCornerShape(16.dp))
             )
             Spacer(Modifier.height(logoBottomPad))
         }

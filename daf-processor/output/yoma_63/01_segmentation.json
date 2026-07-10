@@ -18,7 +18,9 @@
           "display_title": "Same Height, Cost, Time",
           "timestamp": "00:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shechutei Chutz: Slaughtering Korban Animals Outside the Beis HaMikdash",
@@ -45,7 +47,9 @@
           "display_title": "Shelamim/Heichal Doors",
           "timestamp": "09:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pesach Slaughtered Outside During the Rest of the Year: Liability Analysis",
@@ -67,7 +71,9 @@
           "display_title": "Natural Status",
           "timestamp": "15:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Pesach Slaughtered Outside During the Rest of the Year: Liability Analysis (continued)",
@@ -89,7 +95,9 @@
           "display_title": "Akira Rejected",
           "timestamp": "24:09"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Ravin's Opposing View: Pesach Chayav Whether Lishmo or Shelo Lishmo",
@@ -116,7 +124,9 @@
           "display_title": "Natural Shelamim",
           "timestamp": "32:56"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rav Ashi vs. Rav Yirmiyah of Difti: Two Tannaitic Positions",
@@ -138,7 +148,9 @@
           "display_title": "Identity Dispute",
           "timestamp": "35:20"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "The Korban Definition: What Makes an Animal Fit for Pesach Ohel Mo'ed",
@@ -165,7 +177,9 @@
           "display_title": "L'Hashem Exclusion",
           "timestamp": "42:24"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Question of L'Hashem's Scope: Does It Include or Exclude Sa'ir HaMishtale'ach?",
@@ -187,7 +201,9 @@
           "display_title": "Eight-Day Inclusion",
           "timestamp": "45:27"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Mechusar Zman: Why Both Eight Days Old and Blemish-Free Are Required",
@@ -219,7 +235,9 @@
           "display_title": "Sa'ir Status",
           "timestamp": "53:26"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -444,5 +462,6 @@
         "16:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

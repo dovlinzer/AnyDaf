@@ -33,7 +33,9 @@
           "display_title": "Ikar vs. Tafel",
           "timestamp": "06:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Transfer of Firstborn Donkey to Kohen and Suspicion of Improper Use",
@@ -60,7 +62,9 @@
           "display_title": "Donkey Ownership",
           "timestamp": "10:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Debate on When Redemption of Firstborn Donkey Is Completed",
@@ -97,7 +101,9 @@
           "display_title": "Human Comparison",
           "timestamp": "18:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "When Does Obligation to Redeem Firstborn Donkey Begin",
@@ -129,7 +135,9 @@
           "display_title": "Rambam Position",
           "timestamp": "26:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Obligations Regarding Breaking Neck and Priorities of Mitzvot",
@@ -146,7 +154,9 @@
           "display_title": "Mitzvot Priorities",
           "timestamp": "28:44"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Firstborn of Kosher Animals and Non-Jewish Ownership",
@@ -158,7 +168,9 @@
           "display_title": "Non-Jew Ownership",
           "timestamp": "32:15"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Firstborn of Kosher Animals and Non-Jewish Ownership (continued)",
@@ -170,7 +182,9 @@
           "display_title": "Kohanim Status",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Acquisition of Animals from Jews vs. Non-Jews",
@@ -207,7 +221,9 @@
           "display_title": "Ona'at Akum",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -332,5 +348,6 @@
         "29:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 26
 }

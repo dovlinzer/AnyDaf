@@ -23,7 +23,9 @@
           "display_title": "Retroactive Valuation",
           "timestamp": "03:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Bechor versus Ma'aser: Why One Can Be Sold and the Other Cannot",
@@ -50,7 +52,9 @@
           "display_title": "Orphans Exception",
           "timestamp": "08:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Ma'aser Behemah of Orphans: Why They May Sell Despite the Biblical Prohibition",
@@ -87,7 +91,9 @@
           "display_title": "Lulav-Etrog Analogy",
           "timestamp": "20:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Biblical vs. Rabbinic Restriction: Why Ma'aser Cannot Be Sold Alive But May Be Sold Dead",
@@ -119,7 +125,9 @@
           "display_title": "Sheep vs Cow",
           "timestamp": "30:47"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Deriving the Prohibition Against Selling Ma'aser from Charamim Using Gezerah Shavah",
@@ -151,7 +159,9 @@
           "display_title": "Rava's Approach",
           "timestamp": "41:07"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Interpretation: Lo Yiga'el Means Lo Yimacher, Proven by Context of Tmura",
@@ -173,7 +183,9 @@
           "display_title": "Why Use Lo Yiga'el",
           "timestamp": "46:22"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -390,5 +402,6 @@
         "46:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 25
 }

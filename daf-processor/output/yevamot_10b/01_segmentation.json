@@ -18,7 +18,9 @@
           "display_title": "Transition to Standard F…",
           "timestamp": "01:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate of Reish Lakish and Rabbi Yochanan: Status of Women After Chalitzah or Yibbum",
@@ -45,7 +47,9 @@
           "display_title": "Agency & Representation",
           "timestamp": "20:03"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Proofs and Refutations: The Baraita of Chalitz Li'Yevamto and Competing Interpretations",
@@ -72,7 +76,9 @@
           "display_title": "Ravina Resolution",
           "timestamp": "31:01"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Application to Yibbum: The Parallel Debate When One Brother Performs Yibbum Instead of Chalitzah",
@@ -89,7 +95,9 @@
           "display_title": "Rav Acha vs. Ravina",
           "timestamp": "35:28"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Women Who Should Possibly Be Added to the List: Sotah (Adulteress) and Her Co-Wife",
@@ -131,7 +139,9 @@
           "display_title": "Yosi ben Kippur",
           "timestamp": "40:38"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -376,5 +386,6 @@
         "01:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

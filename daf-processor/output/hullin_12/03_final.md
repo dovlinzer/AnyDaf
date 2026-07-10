@@ -1,4 +1,5 @@
 # Hullin 12 — Daf Yomi Shiur
+[DAF:12a]
 
 ## Rov Metzuyin Principle
 
@@ -182,6 +183,7 @@ The upshot of this entire discussion is that rov metzuyin etzel shechita mumchin
 
 ## Cheresh Shoteh veKatan
 
+[DAF:12b]
 ### Mishna: CSvK Restriction
 
 > **Hebrew/Aramaic:** חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, שֶׁמָּא יְקַלְקְלוּ אֶת שְׁחִיטָתָן. ״שֶׁמָּא קִלְקְלוּ״ לָא קָתָנֵי, אֶלָּא ״שֶׁמָּא יְקַלְקְלוּ״. אָמַר רָבָא: זֹאת אוֹמֶרֶת אֵין מוֹסְרִין לָהֶן חוּלִּין לְכַתְּחִלָּה.

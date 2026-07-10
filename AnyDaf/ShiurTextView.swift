@@ -229,6 +229,13 @@ struct ShiurTextView: View {
             .clipShape(RoundedRectangle(cornerRadius: 6))
             .padding(.bottom, 12)
             .id(id)
+
+        case .dafMarker(_, let label):
+            Text("[\(label)]")
+                .font(.caption.weight(.medium))
+                .foregroundStyle(foreground.opacity(0.45))
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.vertical, 6)
         }
     }
 
@@ -277,13 +284,15 @@ struct ShiurTextView: View {
         case h3(id: String, text: String)
         case body(id: String, text: String)
         case blockquote(id: String, source: String, translation: String, showLabel: Bool)
+        case dafMarker(id: String, label: String)
 
         var id: String {
             switch self {
-            case .h2(let id, _, _):         return id
-            case .h3(let id, _):            return id
-            case .body(let id, _):          return id
-            case .blockquote(let id, _, _, _): return id
+            case .h2(let id, _, _):               return id
+            case .h3(let id, _):                  return id
+            case .body(let id, _):                return id
+            case .blockquote(let id, _, _, _):    return id
+            case .dafMarker(let id, _):           return id
             }
         }
     }
@@ -365,6 +374,11 @@ struct ShiurTextView: View {
                 }
             } else if trimmed.isEmpty {
                 flushBody(); flushBlockquote()
+            } else if trimmed.hasPrefix("[DAF:") && trimmed.hasSuffix("]") {
+                flushBody(); flushBlockquote()
+                let label = String(trimmed.dropFirst(5).dropLast())
+                result.append(.dafMarker(id: "daf-\(counter)", label: label))
+                counter += 1
             } else {
                 flushBlockquote()
                 bodyLines.append(trimmed)

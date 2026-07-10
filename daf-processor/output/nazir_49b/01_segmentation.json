@@ -28,7 +28,9 @@
           "display_title": "Halacha L'Moshe Exceptio…",
           "timestamp": "01:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah: Items That Cause Tumah and Require Nazir Shaving",
@@ -100,7 +102,9 @@
           "display_title": "Tumah Consequences",
           "timestamp": "13:49"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Gemara Discussion: The Story of Sumchus and Rabbi Meir's Students",
@@ -147,7 +151,9 @@
           "display_title": "Death Terminology",
           "timestamp": "23:27"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Netzeil: Dissolved and Recongealed Flesh",
@@ -179,7 +185,9 @@
           "display_title": "Tosafot Tests",
           "timestamp": "31:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Netzeil of Animals and Tumat Neveilah",
@@ -211,7 +219,9 @@
           "display_title": "Decomposition Results",
           "timestamp": "40:16"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Mishnah on Niztok (Pouring Liquids): Connection and Tumah",
@@ -238,7 +248,9 @@
           "display_title": "Thick Foods Criteria",
           "timestamp": "44:34"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Fat of Dead Body: Liquefied Fat and Tumah Status",
@@ -275,7 +287,9 @@
           "display_title": "Unresolved Question",
           "timestamp": "45:37"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -435,5 +449,6 @@
         "34:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

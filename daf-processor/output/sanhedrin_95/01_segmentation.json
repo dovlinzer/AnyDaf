@@ -23,7 +23,9 @@
           "display_title": "Abundance & Neglect",
           "timestamp": "01:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Spoils of Sancheriv's Defeated Army and the Laws of Acquisition",
@@ -55,7 +57,9 @@
           "display_title": "Yeush & Property",
           "timestamp": "05:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sancheriv's Ten-Stage Approach to Jerusalem and the Astrological Calculus",
@@ -102,7 +106,9 @@
           "display_title": "Justice & Sleep",
           "timestamp": "16:04"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "David's Sin Through Nov and the Cascade of Punishments Across Generations",
@@ -164,7 +170,9 @@
           "display_title": "Oath of Protection",
           "timestamp": "36:27"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Land Jumping (Kfitzat Haderech) for Three Righteous Figures",
@@ -186,7 +194,9 @@
           "display_title": "Jacob's Return",
           "timestamp": "37:13"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Composition and Destruction of Sancheriv's Army: Numbers and Methods",
@@ -233,7 +243,9 @@
           "display_title": "Angel Recognition",
           "timestamp": "55:50"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -489,5 +501,6 @@
         "31:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

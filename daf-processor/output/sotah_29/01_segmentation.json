@@ -33,7 +33,9 @@
           "display_title": "Three Restrictions",
           "timestamp": "04:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Akiva and Rabbi Yishmael dispute over sources for Sotah's restrictions",
@@ -75,7 +77,9 @@
           "display_title": "Redundancy Principle",
           "timestamp": "15:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The rule of Safek Tumah derived from meat of Korban and the requirement of Yesh Bo Da'at",
@@ -107,7 +111,9 @@
           "display_title": "Two Sources Combined",
           "timestamp": "21:46"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's derivation from the Pesach vessel: food can become Shlishi LeTerumah",
@@ -134,7 +140,9 @@
           "display_title": "Tevul Yom Kal VaChomer",
           "timestamp": "26:00"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Analyzing the Kal VaChomer from Tevul Yom: weakness and the Tzad HaShaVeh approach",
@@ -171,7 +179,9 @@
           "display_title": "Common Denominator",
           "timestamp": "41:19"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The later generation's challenge to the Tzad HaShaVeh and Rabbi Akiva's remedy with a Pesach source",
@@ -193,7 +203,9 @@
           "display_title": "Akiva's Pesach Source",
           "timestamp": "48:42"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Extending the logic to Kodesh: Revi'i BeKodesh from Kal VaChomer",
@@ -225,7 +237,9 @@
           "display_title": "R. Yochanan's Problem",
           "timestamp": "54:29"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -501,5 +515,6 @@
         "14:25"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

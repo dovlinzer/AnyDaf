@@ -28,7 +28,9 @@
           "display_title": "Treifa Exclusion",
           "timestamp": "04:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Does 'Three Days' Include the Holiday Itself? Resolving Through Rabbi Yishmael's Teaching",
@@ -55,7 +57,9 @@
           "display_title": "Lifnei Proof",
           "timestamp": "19:43"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Core Prohibition Reconsidered: Harvacha (Increase) vs. Lifnei Iver vs. Azil u'Modeh",
@@ -82,7 +86,9 @@
           "display_title": "Caesarian Coin",
           "timestamp": "37:09"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Detailed Analysis of Mishna Transactions: Lending, Borrowing, Debts—Abaye vs. Rava on Underlying Rationale",
@@ -109,7 +115,9 @@
           "display_title": "Unified Azil u'Modeh",
           "timestamp": "47:29"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -450,5 +458,6 @@
         "39:19"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

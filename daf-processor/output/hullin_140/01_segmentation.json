@@ -23,7 +23,9 @@
           "display_title": "Kan Mikol Makom",
           "timestamp": "01:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Meaning of 'Lefanecha' and 'Baderech': Control vs. Location",
@@ -45,7 +47,9 @@
           "display_title": "Gemara Rejects Baraita",
           "timestamp": "08:33"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "Expansion of 'Baderech': Ocean, Sky, and Person's Head",
@@ -67,7 +71,9 @@
           "display_title": "Nest on Head",
           "timestamp": "13:33"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Digression: Hints of Biblical Figures (Moshe, Haman, Esther, Mordechai) and the Maharsha's Analysis",
@@ -89,7 +95,9 @@
           "display_title": "Non-Hebrew Names",
           "timestamp": "18:08"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Herodian Doves: Fantastic Story and the Question of Non-Kosher Bird Control",
@@ -106,7 +114,9 @@
           "display_title": "Rav Ashi Response",
           "timestamp": "25:57"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Herodian Doves: Fantastic Story and the Question of Non-Kosher Bird Control (continued)",
@@ -118,7 +128,9 @@
           "display_title": "Mezuman Status",
           "timestamp": "26:36"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Non-Kosher Birds (Of Tamei): The Extended Debate on Word 'Tzippor'",
@@ -140,7 +152,9 @@
           "display_title": "Defense Sustained",
           "timestamp": "27:24"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of 'Kol Tzippor Tehora Tocheilu': Non-Kosher Species vs. Prohibited Kosher Birds",
@@ -162,7 +176,9 @@
           "display_title": "Asei & Lo Ta'asei",
           "timestamp": "32:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Two Live Birds in Metzora Purification: 'Chayot' and 'Tehorot' Examined",
@@ -184,7 +200,9 @@
           "display_title": "Machshir Mechaper",
           "timestamp": "37:23"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Excluded Cases for Metzora Birds: Treifa, Ir Hanidachat, Defiled Offerings",
@@ -206,7 +224,9 @@
           "display_title": "Summary Tzippor",
           "timestamp": "47:34"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Eggs vs. Mother Bird: Separate Obligations and Treifa Status",
@@ -228,7 +248,9 @@
           "display_title": "Tikach Lach",
           "timestamp": "50:04"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Edge Case: Half-Slaughtered Chick and Status Changes",
@@ -250,7 +272,9 @@
           "display_title": "Teiku",
           "timestamp": "55:09"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Complex Nest Scenarios: Division, Fertilization, Stacking, and Cross-Species Brooding",
@@ -272,7 +296,9 @@
           "display_title": "All Teiku",
           "timestamp": "57:03"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Cross-Species Brooding: Korei (Partridge) Exception",
@@ -294,7 +320,9 @@
           "display_title": "Korei Exception",
           "timestamp": "58:01"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Mishnah: Korei Zachar (Male Partridge) — Rabbi Eliezer vs. Chachamim Dispute",
@@ -321,7 +349,9 @@
           "display_title": "Final Dispute Scope",
           "timestamp": "60:02"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -699,5 +729,6 @@
         "57:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

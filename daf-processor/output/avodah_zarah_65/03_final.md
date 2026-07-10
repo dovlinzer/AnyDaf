@@ -1,4 +1,5 @@
 # Avodah Zarah 65 — Daf Yomi Shiur
+[DAF:65a]
 
 ## Ger Toshav Status
 
@@ -222,6 +223,7 @@ The *Gemara* now presents a story. The father of the sons of Rav Acha son of Rav
 
 When people brought this to Abaye's attention, he said: *ki katrach be-heteira katrach* — when he exerted himself, he did so with something that was still *heter*. The act of pouring the wine occurred while the wine was still permitted.
 
+[DAF:65b]
 ### Heteira & Rotzeh
 
 > **Hebrew/Aramaic:** וְהָא רוֹצֶה בְּקִיּוּמוֹ, דְּלָא נִצְטְרוֹ זִיקֵי! דְּמַתְנֵי בַּהֲדַיְיהוּ? אִי נָמֵי, דְּמַיְיתוּ (פְּרִיסְדְּקֵי) [פַּרְדִּיסְקֵי] בַּהֲדַיְיהוּ.

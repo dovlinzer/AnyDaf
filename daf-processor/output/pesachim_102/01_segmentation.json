@@ -48,7 +48,9 @@
           "display_title": "Rav Chisda Final",
           "timestamp": "19:18"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Case of Chaveirim Eating and Interrupting for Mitzvot or Shabbat",
@@ -60,7 +62,9 @@
           "display_title": "Friends at Meal",
           "timestamp": "23:28"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Interrupting a Meal for Shabbat: Rabbi Yehuda versus Rabbi Yossi",
@@ -72,7 +76,9 @@
           "display_title": "Shabbat Arrives",
           "timestamp": "25:06"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Case of Chaveirim Eating and Interrupting for Mitzvot or Shabbat (continued)",
@@ -89,7 +95,9 @@
           "display_title": "Foods & Bracha",
           "timestamp": "26:29"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Interrupting a Meal for Shabbat: Rabbi Yehuda versus Rabbi Yossi (continued)",
@@ -116,7 +124,9 @@
           "display_title": "No Interruption",
           "timestamp": "30:18"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Two Cups or One Cup: The Principle of אין עושין מצוות חבילות חבילות (Not Bundling Mitzvot)",
@@ -148,7 +158,9 @@
           "display_title": "Tosafot Exception",
           "timestamp": "38:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Havdalah and Kiddush When Yom Tov Follows Shabbat: The Debate of Rav and Shmuel",
@@ -165,7 +177,9 @@
           "display_title": "Havdalah Kiddush One",
           "timestamp": "44:44"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Practical Application to Chuppah (Wedding Canopy): Two Cups Versus One",
@@ -192,7 +206,9 @@
           "display_title": "Meshullam Dissent",
           "timestamp": "48:12"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Separate Brachot at Separate Times: Eirusin and Nisu'in Under the Chuppah",
@@ -214,7 +230,9 @@
           "display_title": "Modern Custom",
           "timestamp": "50:43"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Havdalah and Kiddush When Yom Tov Follows Shabbat: The Debate of Rav and Shmuel (continued)",
@@ -236,7 +254,9 @@
           "display_title": "No Spices",
           "timestamp": "54:11"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -622,5 +642,6 @@
         "49:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

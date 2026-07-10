@@ -23,7 +23,9 @@
           "display_title": "First vs. Second Spot",
           "timestamp": "03:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Fines for Intentional Blemishes: Beneficiary Analysis and the Doctrine of Lo Kansu Beno Acharav",
@@ -50,7 +52,9 @@
           "display_title": "Terumah Case",
           "timestamp": "14:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Intentional Blemish-Making: The Non-Jew and the Children Cases—Distinguishing Knowledge and Intent",
@@ -77,7 +81,9 @@
           "display_title": "Kicking Analysis",
           "timestamp": "33:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Pre-Birth Blemish-Making and the Visibility Standard for Mumim",
@@ -99,7 +105,9 @@
           "display_title": "Visible When Bleating",
           "timestamp": "36:41"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Credibility of Witnesses for Blemishes: Israelite vs. Kohen, Owner vs. Shepherd, Beneficiary Analysis",
@@ -131,7 +139,9 @@
           "display_title": "Meir Opinion",
           "timestamp": "49:13"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Safek Bechor and the Implications of Trust Categories: Owners as Witnesses",
@@ -153,7 +163,9 @@
           "display_title": "Chalipha Case",
           "timestamp": "57:06"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -284,5 +296,6 @@
         "18:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

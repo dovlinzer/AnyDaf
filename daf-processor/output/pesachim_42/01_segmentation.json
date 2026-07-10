@@ -18,7 +18,9 @@
           "display_title": "Eating Before Erev",
           "timestamp": "01:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda's Opinion on Negative Prohibitions Implied by Positive Mitzvot",
@@ -40,7 +42,9 @@
           "display_title": "Universal Application",
           "timestamp": "07:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Water Used by Bakers and the Requirement to Spill It Out",
@@ -57,7 +61,9 @@
           "display_title": "Mayim Shelannu Pun",
           "timestamp": "10:32"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rava's Stringent Requirements for Women Kneading Dough on Pesach",
@@ -79,7 +85,9 @@
           "display_title": "Warm Water B'Diavad",
           "timestamp": "18:27"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Introduction to Third Perek: Non-Chametz Foods Prohibited on Pesach",
@@ -96,7 +104,9 @@
           "display_title": "Rabbi Eliezer Klal",
           "timestamp": "23:55"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Egyptian Zeisom and Other Professional/Non-Food Items Containing Grain",
@@ -108,7 +118,9 @@
           "display_title": "Three Categories",
           "timestamp": "26:54"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Analysis of Babylonian Kutach and Historical Context of Wine Quality",
@@ -130,7 +142,9 @@
           "display_title": "Temet & Separations",
           "timestamp": "39:32"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Egyptian Zeisom and Other Professional/Non-Food Items Containing Grain (continued)",
@@ -152,7 +166,9 @@
           "display_title": "Butchers' Dough",
           "timestamp": "40:37"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -357,5 +373,6 @@
         "42:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

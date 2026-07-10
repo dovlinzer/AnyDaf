@@ -38,7 +38,9 @@
           "display_title": "Student Questions",
           "timestamp": "08:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate on Non-Jewish Ownership and Exemption from Firstborn Status",
@@ -75,7 +77,9 @@
           "display_title": "Rarity Principle",
           "timestamp": "21:38"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Core Dispute: How Much Non-Jewish Ownership Exempts One from Firstborn Obligations",
@@ -127,7 +131,9 @@
           "display_title": "Pappa Refutation",
           "timestamp": "34:11"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Rulings on Blemishes and the Hybrid Animal Case",
@@ -159,7 +165,9 @@
           "display_title": "Abnormality Principle",
           "timestamp": "49:09"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Case of Rav Mari bar Rachel: Selling the Ear and Divine Punishment",
@@ -191,7 +199,9 @@
           "display_title": "Misinterpretation Effect",
           "timestamp": "55:38"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Modern Practice: Selling the Firstborn's Ear to a Non-Jew as a Mitzvah",
@@ -213,7 +223,9 @@
           "display_title": "Transaction Mechanics",
           "timestamp": "58:47"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -481,5 +493,6 @@
         "58:53"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

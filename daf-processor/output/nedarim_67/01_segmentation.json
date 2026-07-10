@@ -28,7 +28,9 @@
           "display_title": "Orphan Question",
           "timestamp": "04:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of the Na'arah Me'orasah: Father and Groom Together",
@@ -65,7 +67,9 @@
           "display_title": "Gemara Parsing",
           "timestamp": "13:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Hityakmu (Affirmation) and the Reversal of Hafarah: When One Party Affirms While the Other Voids",
@@ -107,7 +111,9 @@
           "display_title": "Why Mention Hakamah",
           "timestamp": "22:14"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Scriptural Sources for Hafarah: Parsing the Pesukim of Parashat Matot",
@@ -139,7 +145,9 @@
           "display_title": "Vows During Marriage",
           "timestamp": "28:33"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Resolving the Apparent Redundancy of the Pesukim: Is the First Case Erusin or Nisuin?",
@@ -171,7 +179,9 @@
           "display_title": "Father-Only Fails",
           "timestamp": "37:40"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Partnership Model (Shutfuta): Both Father and Groom Required, Father Fundamentally Primary",
@@ -203,7 +213,9 @@
           "display_title": "Father's Fundamentality",
           "timestamp": "45:02"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -695,5 +707,6 @@
         "43:57"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

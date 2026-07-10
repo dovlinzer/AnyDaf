@@ -38,7 +38,9 @@
           "display_title": "Why Wait 30 Days",
           "timestamp": "10:49"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Ben Zoma's Objection and the Simpler Alternative",
@@ -65,7 +67,9 @@
           "display_title": "Second 30 Days",
           "timestamp": "19:38"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rabbi Yehoshua's Response: The Problem of Splitting the Korban Tahara",
@@ -92,7 +96,9 @@
           "display_title": "Fat Problem",
           "timestamp": "23:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "A Nazir in Doubt of Both Tumah Status and Metzora Status",
@@ -144,7 +150,9 @@
           "display_title": "Year-Long Version",
           "timestamp": "37:06"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Four Haircuts and Their Associated Offerings",
@@ -171,7 +179,9 @@
           "display_title": "Second Haircut",
           "timestamp": "44:55"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -733,5 +743,6 @@
         "36:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

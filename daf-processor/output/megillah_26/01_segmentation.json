@@ -38,7 +38,9 @@
           "display_title": "Prohibited Haftarot",
           "timestamp": "02:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Categorization of Readable and Translatable Material",
@@ -70,7 +72,9 @@
           "display_title": "Hodaat Yerushalayim",
           "timestamp": "11:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Stories Read But Not Translated: Protection of Honor and Theological Concerns",
@@ -102,7 +106,9 @@
           "display_title": "David & Amnon",
           "timestamp": "20:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Euphemistic and Respectful Reading Practices: Toning Down Offensive Language",
@@ -124,7 +130,9 @@
           "display_title": "Responsibility",
           "timestamp": "27:43"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Sanctity of the Synagogue and Allocation of Its Resources",
@@ -151,7 +159,9 @@
           "display_title": "No Downgrade",
           "timestamp": "37:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Public vs. Private Ownership of Synagogues in Cities and Villages",
@@ -188,7 +198,9 @@
           "display_title": "Bed Rental",
           "timestamp": "54:47"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -396,5 +408,6 @@
         "54:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

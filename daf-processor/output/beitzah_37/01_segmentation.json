@@ -28,7 +28,9 @@
           "display_title": "Af Al Pi Shebatla",
           "timestamp": "05:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rashut Activities: Quasi-Mitzvah Prohibitions",
@@ -55,7 +57,9 @@
           "display_title": "Chalitzah Yibum",
           "timestamp": "14:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Sanctification and Consecration: Gezeirah of Writing and Business",
@@ -82,7 +86,9 @@
           "display_title": "Challah Separation",
           "timestamp": "19:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Conceptual Framework: Reshut versus Mitzvah categories in relation to Shvut",
@@ -99,7 +105,9 @@
           "display_title": "Shabbat Yom Tov",
           "timestamp": "22:11"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Differences between Shabbat and Yom Tov: Lowering fruit and Beit Shammai versus Beit Hillel",
@@ -131,7 +139,9 @@
           "display_title": "Unresolved Gaps",
           "timestamp": "30:03"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Techumim: Objects follow the owner's Techum boundaries",
@@ -168,7 +178,9 @@
           "display_title": "Water Exemption",
           "timestamp": "38:11"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Mishnah Analysis: Rabbi Dosa versus Standard Opinion on Animal Ownership",
@@ -195,7 +207,9 @@
           "display_title": "Rav Yochanan Psak",
           "timestamp": "43:16"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Two Borrowers with Non-Overlapping Techumim: Shirt Cannot Move",
@@ -222,7 +236,9 @@
           "display_title": "Zero Overlap",
           "timestamp": "46:40"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Partnership Property: Barrel versus Animal with Different Techumim",
@@ -259,7 +275,9 @@
           "display_title": "Rav Ushaya",
           "timestamp": "53:56"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Contradiction: Rav Ushaya on Bereira in Corpse Tumah Context",
@@ -291,7 +309,9 @@
           "display_title": "Contradiction",
           "timestamp": "57:36"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -532,5 +552,6 @@
         "57:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

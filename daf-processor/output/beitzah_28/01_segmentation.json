@@ -38,7 +38,9 @@
           "display_title": "Impure Challah Problem",
           "timestamp": "09:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Commerce on Yom Tov: Dividing Animals and Purchasing Meat Without Explicit Money Discussion",
@@ -90,7 +92,9 @@
           "display_title": "Bizayon vs Uvda",
           "timestamp": "29:48"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Sharpening Knives on Yom Tov: Restrictions on Tools and the Debate Over Machshirei Ochel Nefesh",
@@ -137,7 +141,9 @@
           "display_title": "Preparatory Acts Debate",
           "timestamp": "51:25"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -407,5 +413,6 @@
         "02:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

@@ -33,7 +33,9 @@
           "display_title": "Org: Chronological vs Th…",
           "timestamp": "03:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Foundational Concepts: Reshuyot and Biblical Definitions of Carrying",
@@ -65,7 +67,9 @@
           "display_title": "Hotza'ah: Non-Creative",
           "timestamp": "12:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Practical Scenarios: The Ani, Ba'al Habayit, and Two Becoming Four",
@@ -117,7 +121,9 @@
           "display_title": "Summary: 2 Biblical + 4",
           "timestamp": "26:53"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara Inquiry: Comparison with Shevu'ot and the Role of Av and Toledah",
@@ -154,7 +160,9 @@
           "display_title": "Rav Papa: Chiyuvim & Ptu…",
           "timestamp": "43:40"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Resolving Terminology: Hotza'ah and Hachnasah as Generic Terms for Domain Transfer",
@@ -196,7 +204,9 @@
           "display_title": "Conclusion: Av-Toledah",
           "timestamp": "48:46"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -513,5 +523,6 @@
         "29:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

@@ -33,7 +33,9 @@
           "display_title": "Vision Hazards",
           "timestamp": "05:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Washing Hands After Haircuts, Bloodletting, and Bodily Acts",
@@ -65,7 +67,9 @@
           "display_title": "Rambam vs. Demons",
           "timestamp": "12:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Evil Spirits and Supernatural Dangers at Night",
@@ -92,7 +96,9 @@
           "display_title": "Rivers & Pools",
           "timestamp": "20:32"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Four Cups of Wine at Pesach: Community Obligation and Individual Means",
@@ -109,7 +115,9 @@
           "display_title": "Akiva's Principle",
           "timestamp": "22:23"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Four Cups of Wine at Pesach: Community Obligation and Individual Means (continued)",
@@ -121,7 +129,9 @@
           "display_title": "D'vei Eliyahu",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Ethical Teachings to His Son Rabbi Yehoshua",
@@ -138,7 +148,9 @@
           "display_title": "Shoes & Breakfast",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Ethical Teachings to His Son Rabbi Yehoshua (continued)",
@@ -155,7 +167,9 @@
           "display_title": "Fortune & Blessing",
           "timestamp": "24:26"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Ethical Teachings to Rabbi Shimon bar Yochai in Prison",
@@ -187,7 +201,9 @@
           "display_title": "Pure Body Marriage",
           "timestamp": "24:26"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rabbeinu HaKadosh's Commands to His Sons",
@@ -209,7 +225,9 @@
           "display_title": "Pay Taxes",
           "timestamp": "25:14"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Rabbeinu HaKadosh's Commands to His Sons (continued)",
@@ -221,7 +239,9 @@
           "display_title": "Ox Danger",
           "timestamp": "25:22"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Animal Behavior, Practical Safety, and Health Concerns",
@@ -248,7 +268,9 @@
           "display_title": "Cats & Shoes",
           "timestamp": "25:25"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -480,5 +502,6 @@
         "20:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

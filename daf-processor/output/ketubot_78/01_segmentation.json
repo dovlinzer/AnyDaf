@@ -23,7 +23,9 @@
           "display_title": "Tzoan Barzel vs Milog",
           "timestamp": "02:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishna's First Case: Property Inherited Before Erusin",
@@ -50,7 +52,9 @@
           "display_title": "Anu Boshim Response",
           "timestamp": "11:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishna's Second Case: Property Inherited After Nisuin",
@@ -72,7 +76,9 @@
           "display_title": "Old vs New Property",
           "timestamp": "18:15"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: The Merit Argument and Rashi's Reframing",
@@ -94,7 +100,9 @@
           "display_title": "Safek Zechus Gray Area",
           "timestamp": "28:44"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Braita Version from Rabbi Chanina ben Akavya vs. Mishna Version from Rabbi Yehuda",
@@ -121,7 +129,9 @@
           "display_title": "Lechatchila vs Bedieved",
           "timestamp": "37:36"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Later Amoraic Positions: Rav and Shmuel Override Tannaitic Debate",
@@ -138,7 +148,9 @@
           "display_title": "Rabanan's Vote & Usha",
           "timestamp": "44:23"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Takkanat Usha and the Distinction Between Perot and Guf HaKarka",
@@ -160,7 +172,9 @@
           "display_title": "Own vs Receive Income",
           "timestamp": "50:04"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position: Known vs. Unknown Property",
@@ -182,7 +196,9 @@
           "display_title": "Expectation & Knowledge",
           "timestamp": "52:22"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -537,5 +553,6 @@
         "51:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

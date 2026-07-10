@@ -48,7 +48,9 @@
           "display_title": "Filter & Sanctity",
           "timestamp": "10:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Thematic Integration: Water and Divine Presence Across Sukkot Parshiyot",
@@ -65,7 +67,9 @@
           "display_title": "Opening & Closing",
           "timestamp": "14:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Simchat Beit HaShoeva: The Celebration and Its Musical Component",
@@ -97,7 +101,9 @@
           "display_title": "Creation Motif",
           "timestamp": "24:58"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Musical Instruments and Shabbat: Debate on Ikar Shira (Primary Song)",
@@ -129,7 +135,9 @@
           "display_title": "Impossible Cases Rule",
           "timestamp": "42:20"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Klei Shares and Hermeneutic Principles: Menorah as Paradigm for Vessel Materials",
@@ -156,7 +164,9 @@
           "display_title": "Menorah Application",
           "timestamp": "50:06"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -358,5 +368,6 @@
         "13:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

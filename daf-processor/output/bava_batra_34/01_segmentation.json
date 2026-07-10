@@ -28,7 +28,9 @@
           "display_title": "Two Years Parallel",
           "timestamp": "03:31"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Boat Dispute and the Question of Possessory Holding Patterns",
@@ -55,7 +57,9 @@
           "display_title": "Kol D'Alim Gavar",
           "timestamp": "12:38"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Two Deeds on the Same Day and the Principle of Full Evidence",
@@ -72,7 +76,9 @@
           "display_title": "Full Evidence Required",
           "timestamp": "14:52"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Swap and Sale Case: When Clear Monetary Standing Requires a Split",
@@ -89,7 +95,9 @@
           "display_title": "Standing Doctrine",
           "timestamp": "17:23"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Third-Party Seizure and the Concept of Gazlan Shel Rabim",
@@ -116,7 +124,9 @@
           "display_title": "Gazlan Definition",
           "timestamp": "22:07"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -373,5 +383,6 @@
         "22:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

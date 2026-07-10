@@ -28,7 +28,9 @@
           "display_title": "Achronim Debate",
           "timestamp": "01:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi's planting on Purim and the question of melacha prohibition",
@@ -65,7 +67,9 @@
           "display_title": "Chizkiya's Doubt",
           "timestamp": "05:40"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Status of melacha prohibition in walled versus unwalled cities",
@@ -97,7 +101,9 @@
           "display_title": "Rav Curses Planter",
           "timestamp": "09:08"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Rejection of melacha prohibition as binding halacha",
@@ -134,7 +140,9 @@
           "display_title": "Simcha Work Types",
           "timestamp": "18:23"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Identifying walled cities: Tiberia and related locations",
@@ -161,7 +169,9 @@
           "display_title": "Exposed vs. Protected",
           "timestamp": "27:22"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "Identifying biblical walled cities with later locations",
@@ -203,7 +213,9 @@
           "display_title": "Zebulun Complaint",
           "timestamp": "39:56"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Rome and Jerusalem in rabbinic interpretation",
@@ -235,7 +247,9 @@
           "display_title": "Jacob & Esau",
           "timestamp": "54:34"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -484,5 +498,6 @@
         "11:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

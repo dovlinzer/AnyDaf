@@ -156,26 +156,27 @@ class YCTLibraryClient {
 
     // MARK: - Post Fetching
 
-    /// Fetches articles tagged with any of the given term IDs.
-    /// Filters to English-only posts (excludes slugs ending in known non-English suffixes).
-    func fetchArticles(termIDs: [Int], dafTermMap: [Int: Int], currentDaf: Int) async throws -> [YCTArticle] {
-        guard !termIDs.isEmpty else { return [] }
-        let ids = termIDs.map(String.init).joined(separator: ",")
+    /// Fetches all articles for a tractate in a single bulk request.
+    ///
+    /// `allTermIDs` is every daf-level (and optionally tractate-level) term ID to query.
+    /// `termToDaf` maps each term ID back to its daf number (0 = tractate-level sentinel).
+    /// Each returned article has `matchType.referencedDaf` set from the post's own
+    /// `reference` field, so one HTTP call replaces the old per-daf loop.
+    func fetchBulkArticles(allTermIDs: [Int], termToDaf: [Int: Int]) async throws -> [YCTArticle] {
+        guard !allTermIDs.isEmpty else { return [] }
+        let ids = allTermIDs.map(String.init).joined(separator: ",")
         var components = URLComponents(string: "\(baseURL)/posts")!
         components.queryItems = [
             URLQueryItem(name: "reference", value: ids),
-            URLQueryItem(name: "per_page", value: "20"),
-            URLQueryItem(name: "_fields", value: "id,title,excerpt,content,date,link,slug,_links,_embedded"),
-            URLQueryItem(name: "_embed",   value: "author"),
+            URLQueryItem(name: "per_page",  value: "100"),
+            URLQueryItem(name: "_fields",   value: "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"),
+            URLQueryItem(name: "_embed",    value: "author"),
         ]
         guard let url = components.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)
         guard let posts = try? JSONSerialization.jsonObject(with: data) as? [[String: Any]] else {
             throw YCTError.decodingError
         }
-
-        // Build reverse map: termID → daf number (for match type resolution)
-        let termToDaf = Dictionary(uniqueKeysWithValues: dafTermMap.map { ($1, $0) })
 
         var articles: [YCTArticle] = []
         for post in posts {
@@ -189,7 +190,6 @@ class YCTLibraryClient {
                   let link = post["link"] as? String
             else { continue }
 
-            // Skip non-English articles
             if nonEnglishSuffixes.contains(where: { slug.hasSuffix($0) }) { continue }
 
             let title = stripHTML(titleRaw)
@@ -200,8 +200,13 @@ class YCTLibraryClient {
                 excerpt = full.count > 200 ? String(full.prefix(200)).trimmingCharacters(in: .whitespaces) + "…" : full
             }
             let authorName = authorName(from: post)
-            let matchType = resolveMatchType(postID: id, termIDs: termIDs, termToDaf: termToDaf, currentDaf: currentDaf)
             let formattedDate = formatDate(date)
+
+            // Determine daf associations from the post's own reference term list
+            let postRefIDs = post["reference"] as? [Int] ?? []
+            let dafs = postRefIDs.compactMap { termToDaf[$0] }.sorted()
+            let primaryDaf = dafs.first ?? 0
+            let additionalDafs = dafs.dropFirst().filter { $0 != primaryDaf }
 
             articles.append(YCTArticle(
                 id: id,
@@ -210,15 +215,13 @@ class YCTLibraryClient {
                 date: formattedDate,
                 link: link,
                 authorName: authorName,
-                matchType: matchType,
+                matchType: .tractateWide(daf: primaryDaf),
+                additionalDafs: Array(additionalDafs),
                 source: source
             ))
         }
 
-        // Sort: exact first, then nearby, then tractate-wide
-        return articles.sorted { a, b in
-            matchRank(a.matchType) < matchRank(b.matchType)
-        }
+        return articles
     }
 
     // MARK: - Article Content
@@ -245,15 +248,6 @@ class YCTLibraryClient {
         } catch {
             throw YCTError.networkError(error)
         }
-    }
-
-    private func resolveMatchType(postID: Int, termIDs: [Int], termToDaf: [Int: Int], currentDaf: Int) -> ResourceMatchType {
-        // We can't easily know which term matched a post without fetching post terms separately.
-        // Use a heuristic: if the current daf's term is in termIDs, assume exact for all returned
-        // posts (the API returns posts matching ANY of the IDs). For more precision the caller
-        // separates exact vs nearby term IDs before calling.
-        // This function is used by the batch path; see ResourcesManager for the tiered approach.
-        return .exact(daf: currentDaf)
     }
 
     private func authorName(from post: [String: Any]) -> String {

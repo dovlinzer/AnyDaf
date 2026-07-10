@@ -33,7 +33,9 @@
           "display_title": "Rock Type Rule",
           "timestamp": "10:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Debate on Diagonal Niche Placement and Intersection Problems",
@@ -75,7 +77,9 @@
           "display_title": "Height Staggering",
           "timestamp": "19:17"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rav Huna's Palm-Branch Theory and Its Geometric Refutation",
@@ -102,7 +106,9 @@
           "display_title": "Infant Niches",
           "timestamp": "28:04"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Baraita on Disinterring Bodies Found During Field Excavation",
@@ -134,7 +140,9 @@
           "display_title": "Context Principle",
           "timestamp": "35:00"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Interpretive Framework: Applying Baraita to Cave-Niche Burials",
@@ -156,7 +164,9 @@
           "display_title": "Spacing Rationale",
           "timestamp": "36:15"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -314,5 +324,6 @@
         "35:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

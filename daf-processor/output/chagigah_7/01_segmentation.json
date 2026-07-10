@@ -48,7 +48,9 @@
           "display_title": "Final Agreement",
           "timestamp": "05:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Reconstructed Conversation: How the Gemara Constructs Arguments",
@@ -75,7 +77,9 @@
           "display_title": "Dynamic Transmission",
           "timestamp": "08:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Core Debate Resolved: Bringing Multiple Korbanos as Olat Re'iyah",
@@ -107,7 +111,9 @@
           "display_title": "Sin vs Free-Will",
           "timestamp": "13:45"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Half Cannot Appear: The Meaning of Ain Nire'in Lachatza'in",
@@ -134,7 +140,9 @@
           "display_title": "Rashi's View",
           "timestamp": "18:44"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Olot BaMoed: Non-Obligatory Offerings on Chol HaMoed",
@@ -161,7 +169,9 @@
           "display_title": "Shalmei Simcha",
           "timestamp": "26:33"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Shalmei Chagigah Debate: Beit Shammai vs Beit Hillel",
@@ -173,7 +183,9 @@
           "display_title": "Dense Mishnah",
           "timestamp": "26:46"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Conceptual Framework: Olat Re'iyah, Shalmei Chagigah, and Shalmei Simcha Distinguished",
@@ -200,7 +212,9 @@
           "display_title": "Celebration Offering",
           "timestamp": "28:46"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Shalmei Chagigah Debate: Beit Shammai vs Beit Hillel (continued)",
@@ -232,7 +246,9 @@
           "display_title": "Arba'ah Asar Status",
           "timestamp": "40:07"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Question of Mixing Funds: Can You Add to Your Base Obligation?",
@@ -279,7 +295,9 @@
           "display_title": "Sikra Problem",
           "timestamp": "50:21"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -646,5 +664,6 @@
         "52:24"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

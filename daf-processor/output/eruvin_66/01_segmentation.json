@@ -28,7 +28,9 @@
           "display_title": "Rent on Shabbat?",
           "timestamp": "03:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Comparing Sechirus to Eruv and Bitul Reshut: Is Renting Like Making an Eruv or Like Annulment?",
@@ -55,7 +57,9 @@
           "display_title": "Sechirus Works Shabbat",
           "timestamp": "13:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shmuel's Principle: When Bitul Reshut Is Permitted—The Requirement of Osrin and Mearvin",
@@ -82,7 +86,9 @@
           "display_title": "Non-Jew Exception",
           "timestamp": "21:20"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Debate Over Bitul Reshut Between Courtyards: Shmuel's Restriction vs. Rabbi Yochanan's Leniency",
@@ -104,7 +110,9 @@
           "display_title": "Usage vs. Space",
           "timestamp": "34:45"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Abaye and Rava: Further Refinement—When Inner and Outer Courtyards Can Use Bitul",
@@ -121,7 +129,9 @@
           "display_title": "Rava Objects",
           "timestamp": "40:26"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Complex Scenarios of Shared Eruv: Where the Eruv Is Placed and Who Forgot Determines If Bitul Works",
@@ -148,7 +158,9 @@
           "display_title": "Why It Works",
           "timestamp": "52:33"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -398,5 +410,6 @@
         "32:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

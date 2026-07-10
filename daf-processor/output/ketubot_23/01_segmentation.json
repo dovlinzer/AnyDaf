@@ -23,7 +23,9 @@
           "display_title": "Missing Get",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Contradictory Witnesses About Marriage vs. Divorce: The Chazakah Argument",
@@ -50,7 +52,9 @@
           "display_title": "Chazakah Factor",
           "timestamp": "08:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Peh She'Asar Doctrine and the Lock-In Effect of Beit Din Rulings",
@@ -82,7 +86,9 @@
           "display_title": "Avuha d'Shmuel",
           "timestamp": "24:05"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Captive Woman (Shvuyah) and the Limits of Peh She'Asar",
@@ -109,7 +115,9 @@
           "display_title": "Rav Ashi Concern",
           "timestamp": "37:54"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Two Captive Women Testifying About Each Other's Status",
@@ -141,7 +149,9 @@
           "display_title": "Reciprocal Cases",
           "timestamp": "50:01"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -422,5 +432,6 @@
         "06:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

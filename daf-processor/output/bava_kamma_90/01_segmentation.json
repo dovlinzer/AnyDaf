@@ -28,7 +28,9 @@
           "display_title": "Historical Significance",
           "timestamp": "05:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Takanas Usha and the Debate over Kinyan Peiros vs. Kinyan Haguf in Nichsei Milugs",
@@ -80,7 +82,9 @@
           "display_title": "Full Ownership Req.",
           "timestamp": "25:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Boshet (Embarrassment) and Fixed Amounts vs. Case-by-Case Assessment",
@@ -112,7 +116,9 @@
           "display_title": "Objective Value",
           "timestamp": "36:00"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Witness as Judge (Ed Na'aseh Dayan) and Assessment of Instruments of Injury",
@@ -154,7 +160,9 @@
           "display_title": "Witness Assessment",
           "timestamp": "48:45"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Shor Tam and Shor Mu'ad: Order of Judgment in Capital and Monetary Cases",
@@ -186,7 +194,9 @@
           "display_title": "Execution Delay",
           "timestamp": "53:52"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -510,5 +520,6 @@
         "55:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

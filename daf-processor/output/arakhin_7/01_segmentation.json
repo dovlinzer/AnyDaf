@@ -23,7 +23,9 @@
           "display_title": "Compensation Obligation",
           "timestamp": "01:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Reframing of the Debate: From Personal Legal Status to the Question of Debt Collection from Heirs",
@@ -45,7 +47,9 @@
           "display_title": "Torah-Inscribed Debt",
           "timestamp": "03:45"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Tosefta Parallel: Execution and Personal Injury—Can One Condemned to Execution Cause Injury to Others?",
@@ -67,7 +71,9 @@
           "display_title": "Reframe to Heirs",
           "timestamp": "07:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Bringing a Sacrifice for One Condemned to Execution: Is Postponement of Execution Forbidden?",
@@ -94,7 +100,9 @@
           "display_title": "Slaughtered Sacrifice",
           "timestamp": "15:04"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Execution of a Pregnant Woman: The Status of the Fetus and the Principle Against Postponement",
@@ -116,7 +124,9 @@
           "display_title": "Fetus Independence",
           "timestamp": "15:41"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Gemara's Three-Word Difficulty on Abortion: Pshita Gufa Hi (Of Course It Is Her Body)",
@@ -138,7 +148,9 @@
           "display_title": "Both Shall Die",
           "timestamp": "17:26"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Woman in Labor Condemned to Execution: The Halachic Obligation to Abort the Fetus Before Execution",
@@ -160,7 +172,9 @@
           "display_title": "Order of Death",
           "timestamp": "19:20"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Performing a Cesarean Section on Shabbat to Save a Fetus When the Mother Dies in Labor",
@@ -187,7 +201,9 @@
           "display_title": "Building Collapse",
           "timestamp": "20:48"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Benefit from the Executed Woman's Hair: Is Hair Part of the Body or Separate Property?",
@@ -224,7 +240,9 @@
           "display_title": "Woman vs Animal",
           "timestamp": "22:42"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -403,5 +421,6 @@
         "17:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

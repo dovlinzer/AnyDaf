@@ -33,7 +33,9 @@
           "display_title": "Two Readings",
           "timestamp": "02:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Abaye and Rava: Is Taste a Biblical Concern in Basar Bechalav?",
@@ -75,7 +77,9 @@
           "display_title": "Definition of Cooking",
           "timestamp": "11:49"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Chaticha Naaseit Neveila: The Entire Piece Becomes Forbidden",
@@ -107,7 +111,9 @@
           "display_title": "Thick Stew Answer",
           "timestamp": "18:29"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Efshar Lesochto: Does the Status Revert When Milk is Removed?",
@@ -134,7 +140,9 @@
           "display_title": "Majority View",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Meat Falling into Milk: The Milk's Status and Min Bemino Question",
@@ -151,7 +159,9 @@
           "display_title": "Rav's Ruling",
           "timestamp": "25:21"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Meat Falling into Milk: The Milk's Status and Min Bemino Question (continued)",
@@ -163,7 +173,9 @@
           "display_title": "Status Problem",
           "timestamp": "25:59"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Efshar Lesochto: Does the Status Revert When Milk is Removed? (continued)",
@@ -180,7 +192,9 @@
           "display_title": "Torah's Focus",
           "timestamp": "28:05"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Half-Kezayit Each: When Do Meat and Milk Combine for Prohibition?",
@@ -197,7 +211,9 @@
           "display_title": "Rav's Position",
           "timestamp": "29:21"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Meat Falling into Milk: The Milk's Status and Min Bemino Question (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Boiling Pot Answer",
           "timestamp": "31:06"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Half-Kezayit Each: When Do Meat and Milk Combine for Prohibition? (continued)",
@@ -236,7 +254,9 @@
           "display_title": "Cooking Standard",
           "timestamp": "36:53"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Baraita on Chaticha Naaseit Neveila and Debate of Tannaim",
@@ -273,7 +293,9 @@
           "display_title": "Final Answer",
           "timestamp": "42:20"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -525,5 +547,6 @@
         "25:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

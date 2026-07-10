@@ -28,7 +28,9 @@
           "display_title": "Intent Requirement",
           "timestamp": "03:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Baraita Dispute: Beit Shammai vs. Beit Hillel on Explicit Language",
@@ -55,7 +57,9 @@
           "display_title": "Meifer vs. Mevatel",
           "timestamp": "06:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Language Specificity and the Implications Problem",
@@ -72,7 +76,9 @@
           "display_title": "Vow Negation Problem",
           "timestamp": "09:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Using the Wrong Person's Language: Chacham vs. Ba'al",
@@ -99,7 +105,9 @@
           "display_title": "Ran Language Analysis",
           "timestamp": "15:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Scriptural Derivation of Three Laypeople for Hatarat Nedarim",
@@ -131,7 +139,9 @@
           "display_title": "Moadim Requirement",
           "timestamp": "30:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Definition and Status of a Mumche for Individual Annulment",
@@ -153,7 +163,9 @@
           "display_title": "Gadol HaDor Requirement",
           "timestamp": "39:28"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Application and Practical Concerns for Modern Hatarat Nedarim",
@@ -170,7 +182,9 @@
           "display_title": "Petach vs. Charata",
           "timestamp": "42:47"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -323,5 +337,6 @@
         "42:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

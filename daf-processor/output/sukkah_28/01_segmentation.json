@@ -33,7 +33,9 @@
           "display_title": "Rabbis' Counter-Verse",
           "timestamp": "04:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Stories of Rabbi Eliezer and Rabban Yochanan Ben Zakkai's Dedication to Learning",
@@ -55,7 +57,9 @@
           "display_title": "Household Rejoicing",
           "timestamp": "09:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Story of Rabbi Eliezer in Caesarea and the Sheet on the Sukkah",
@@ -77,7 +81,9 @@
           "display_title": "Window Stopper Case",
           "timestamp": "19:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Stories of Rabbi Eliezer and Rabban Yochanan Ben Zakkai's Dedication to Learning (continued)",
@@ -104,7 +110,9 @@
           "display_title": "Yonatan ben Uziel",
           "timestamp": "30:10"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Women, Slaves, and Minors: Exemptions from the Sukkah Obligation",
@@ -136,7 +144,9 @@
           "display_title": "Minors Chinuch Age",
           "timestamp": "50:45"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -293,5 +303,6 @@
         "34:28"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

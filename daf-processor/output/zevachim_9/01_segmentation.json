@@ -23,7 +23,9 @@
           "display_title": "Ma'aser Classification",
           "timestamp": "02:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Testing the Reversion Doctrine: Bechor, Ma'aser, and Temurah as Alternatives",
@@ -55,7 +57,9 @@
           "display_title": "Toda Rejection",
           "timestamp": "08:25"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Defense and Refinement: Three Pesukim and Multiple Scenarios of Pesach Disqualification",
@@ -102,7 +106,9 @@
           "display_title": "Case Breakdown",
           "timestamp": "21:41"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Nesi'im and the Chagiga Problem: Free-Will Chatat and the Nature of Redemption",
@@ -119,7 +125,9 @@
           "display_title": "Rav's First Teaching",
           "timestamp": "31:09"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Challenging the Free-Will Chatat: Mavog's Attempts and Rejections",
@@ -151,7 +159,9 @@
           "display_title": "Wrong Sin Type",
           "timestamp": "44:13"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Rav's Second Teaching: Interchange of Chatat Types and the Oleh V'Yored Question",
@@ -188,7 +198,9 @@
           "display_title": "Teiku",
           "timestamp": "50:11"
         }
-      ]
+      ],
+      "sefaria_index": 39,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -425,5 +437,6 @@
         "50:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 24
 }

@@ -18,7 +18,9 @@
           "display_title": "Yerushalmi's Debate",
           "timestamp": "00:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Bavli's Cryptic Debate: Rabbi Meir (Three) vs. Chachamim (Twenty-Three)",
@@ -50,7 +52,9 @@
           "display_title": "Two Meanings",
           "timestamp": "05:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Alternative: The Case Dissolves, Then Reappears as Monetary",
@@ -67,7 +71,9 @@
           "display_title": "Honor Concern",
           "timestamp": "08:32"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Reconciling the Baraita: Cases Against the Woman vs. the Man",
@@ -79,7 +85,9 @@
           "display_title": "Apparent Contradiction",
           "timestamp": "09:53"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Rava's Alternative: The Case Dissolves, Then Reappears as Monetary (continued)",
@@ -91,7 +99,9 @@
           "display_title": "Resolution",
           "timestamp": "10:19"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Reconciling the Baraita: Cases Against the Woman vs. the Man (continued)",
@@ -118,7 +128,9 @@
           "display_title": "Yerushalmi Mirroring",
           "timestamp": "13:06"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Imported Debates: The Bavli Explores Alternative Readings",
@@ -150,7 +162,9 @@
           "display_title": "Ravina's Invalid Witness",
           "timestamp": "22:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Invalid Witness Scenario: A Deep Dive into When Witnesses Become One Unit",
@@ -182,7 +196,9 @@
           "display_title": "Applied to Mishnah",
           "timestamp": "30:39"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Additional Imported Debates on the Debate",
@@ -204,7 +220,9 @@
           "display_title": "Ben Zakkai Method",
           "timestamp": "33:43"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Double Crime of False Witnesses: Motzi Shem Ra Exemplified",
@@ -236,7 +254,9 @@
           "display_title": "Two Crimes",
           "timestamp": "37:22"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -568,5 +588,6 @@
         "37:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

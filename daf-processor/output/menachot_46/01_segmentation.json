@@ -33,7 +33,9 @@
           "display_title": "Kodesh Yihyu Pasuk",
           "timestamp": "08:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Zikah (Connection) and When Components Become One Unit",
@@ -55,7 +57,9 @@
           "display_title": "Shechita Makes Zikah",
           "timestamp": "20:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Todah (Thanksgiving Offering): Parallel Case of Bread and Animal Sanctification",
@@ -97,7 +101,9 @@
           "display_title": "Post-Shechita Irreversib…",
           "timestamp": "32:01"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Why Todah Can Function as Shelamim While Shtei Halechem Cannot",
@@ -114,7 +120,9 @@
           "display_title": "Shtei Halechem Unique",
           "timestamp": "35:01"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Abaye's Question: Why Are the Two Lambs Connected but Not the Other Sacrifices?",
@@ -151,7 +159,9 @@
           "display_title": "Nazir Ram Proof",
           "timestamp": "52:41"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -550,5 +560,6 @@
         "04:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

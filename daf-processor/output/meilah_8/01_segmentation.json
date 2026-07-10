@@ -18,7 +18,9 @@
           "display_title": "Rashi Auth.",
           "timestamp": "00:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tumah and Pesul: Framework and Halachic Categories",
@@ -50,7 +52,9 @@
           "display_title": "Shechita Process",
           "timestamp": "05:05"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Chatas Ha'Of: Tumah, Pesul, and Status Changes",
@@ -82,7 +86,9 @@
           "display_title": "Me'ilah Change",
           "timestamp": "17:50"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Mitzuy Chatas Ha'Of: Whether Squeezing Out Blood is Me'akev",
@@ -119,7 +125,9 @@
           "display_title": "Mitzuy Concl.",
           "timestamp": "31:01"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Olat Ha'Of and Animal Korbanos: Status Changes Across Types",
@@ -146,7 +154,9 @@
           "display_title": "Chatas & Asham",
           "timestamp": "42:05"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Non-Animal Korbanos: Bread and Menachos",
@@ -168,7 +178,9 @@
           "display_title": "Menachos",
           "timestamp": "49:34"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "When Me'ilah Ends: The Question of Ashes and Beis Hadeshen",
@@ -195,7 +207,9 @@
           "display_title": "Mishna Support",
           "timestamp": "55:15"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -524,5 +538,6 @@
         "37:59"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

@@ -23,7 +23,9 @@
           "display_title": "Partial = Full",
           "timestamp": "01:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Story of the Drunk Woman and the Context-Dependent Interpretation of Intent",
@@ -50,7 +52,9 @@
           "display_title": "Chasorei Mechasra",
           "timestamp": "08:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Explanation of Drunk Woman's Case Through Pragmatic Intent",
@@ -72,7 +76,9 @@
           "display_title": "Sober Contrast",
           "timestamp": "14:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Nezirus Conditional on Non-Performance of Obligations",
@@ -89,7 +95,9 @@
           "display_title": "Conditions Void",
           "timestamp": "15:56"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Nezirus Declarations With Mistaken Understanding of Obligations",
@@ -116,7 +124,9 @@
           "display_title": "Positions Reversed",
           "timestamp": "19:03"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Explanation of Position Reversal Through Partial vs. Full Acceptance",
@@ -128,7 +138,9 @@
           "display_title": "Partial Nezirus",
           "timestamp": "20:20"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Nezirus Conditional on Non-Performance of Obligations (continued)",
@@ -140,7 +152,9 @@
           "display_title": "Matneh al Torah",
           "timestamp": "21:19"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Explanation of Position Reversal Through Partial vs. Full Acceptance (continued)",
@@ -162,7 +176,9 @@
           "display_title": "Parallel Processes",
           "timestamp": "31:29"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Alternative Explanations for Position Reversal",
@@ -184,7 +200,9 @@
           "display_title": "Ein Piv V'libo",
           "timestamp": "40:01"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Nezirus with Accepting Responsibility to Bring Korbanot for Another Nazir",
@@ -206,7 +224,9 @@
           "display_title": "V'ani Coverage",
           "timestamp": "43:45"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Analysis of Partial Statements in Nazirus Declarations",
@@ -238,7 +258,9 @@
           "display_title": "Supplementation Needed",
           "timestamp": "50:35"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -348,5 +370,6 @@
         "51:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

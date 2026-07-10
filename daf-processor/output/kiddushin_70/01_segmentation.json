@@ -23,7 +23,9 @@
           "display_title": "Scriptural Proof",
           "timestamp": "00:36"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Disqualified Kohanim (Chalalim): The Case of Those Without Documentation",
@@ -60,7 +62,9 @@
           "display_title": "Chazaka Strength",
           "timestamp": "08:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Secondary Categories: Gerim, Freed Slaves, and the Netenim",
@@ -82,7 +86,9 @@
           "display_title": "Mamzeirim",
           "timestamp": "22:39"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Three Categories from Tel Melach and Tel Charsha: Mamzeirim, Shtukim, and Asufim",
@@ -109,7 +115,9 @@
           "display_title": "Asufim",
           "timestamp": "26:18"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Aggadic Excursus: The Ethical Problem of Intermarriage Across Social Classes",
@@ -141,7 +149,9 @@
           "display_title": "Kol Haposel",
           "timestamp": "38:39"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Story of the Visitor from Nehardea and Rav Yehuda's Authority",
@@ -198,7 +208,9 @@
           "display_title": "Slave Verdict",
           "timestamp": "58:49"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -526,5 +538,6 @@
         "04:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

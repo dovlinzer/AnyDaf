@@ -28,7 +28,9 @@
           "display_title": "Melachot on Shabbat",
           "timestamp": "03:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate of Rav Nachman and Rav Sheshet: Hutra vs. Dechuya with Extreme Formulations",
@@ -60,7 +62,9 @@
           "display_title": "Minchat Nesachim",
           "timestamp": "12:54"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rav Nachman's Response: Distinguishing Fixed-Time from Non-Fixed-Time Korbanot",
@@ -87,7 +91,9 @@
           "display_title": "Fixed Time Principle",
           "timestamp": "19:34"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Tosafot's Resolution: Ritzuy Tzitz for Non-Fixed-Time Korbanot When the Object is Tamei",
@@ -109,7 +115,9 @@
           "display_title": "Keep It Quiet",
           "timestamp": "22:18"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Nachman's Response: Distinguishing Fixed-Time from Non-Fixed-Time Korbanot (continued)",
@@ -121,7 +129,9 @@
           "display_title": "Korban Categories",
           "timestamp": "24:01"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Blood and Meat Becoming Tamei: Braita on Validity of Tamei Sacrifices and the Role of Tzitz",
@@ -148,7 +158,9 @@
           "display_title": "Non-Fixed Tzibur",
           "timestamp": "32:05"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Elimination of Alternatives: Why Tzitz Works Only for Tumah, Not for Pigul or Notar",
@@ -175,7 +187,9 @@
           "display_title": "Hutrah Logic",
           "timestamp": "39:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Abaye's Framework: Consensus on Broken Tzitz; Debate on Tzitz Hanging in Locker",
@@ -197,7 +211,9 @@
           "display_title": "On Peg Debate",
           "timestamp": "48:42"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Debate on Whether Tzitz Must Be Worn: Rabbi Yehuda vs. Rabbi Shimon on the Forehead Requirement",
@@ -229,7 +245,9 @@
           "display_title": "Shimon: Fitness",
           "timestamp": "53:49"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -521,5 +539,6 @@
         "03:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

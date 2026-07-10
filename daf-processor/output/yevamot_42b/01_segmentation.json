@@ -33,7 +33,9 @@
           "display_title": "R. Yochanan Reversal",
           "timestamp": "05:00"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Stam Mishna Versus Machloket: Hermeneutic Principles",
@@ -65,7 +67,9 @@
           "display_title": "Combs Resolution",
           "timestamp": "18:36"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     },
     {
       "title": "Returning to the Three-Month Wait and Erusin",
@@ -87,7 +91,9 @@
           "display_title": "Lo Pelug Conclusion",
           "timestamp": "23:08"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": false
     },
     {
       "title": "The Widow's Aveilus Restriction on Erusin",
@@ -124,7 +130,9 @@
           "display_title": "New vs Old Aveilus",
           "timestamp": "45:54"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": false
     },
     {
       "title": "Transition to Next Mishna: Multiple Brothers and Multiple Widows",
@@ -146,7 +154,9 @@
           "display_title": "Kasher/Pasul Mix",
           "timestamp": "50:18"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -425,5 +435,6 @@
         "48:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 27
 }

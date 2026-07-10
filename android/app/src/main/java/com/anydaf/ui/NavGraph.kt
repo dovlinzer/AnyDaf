@@ -72,7 +72,6 @@ fun AnyDafNavGraph(
             StudyModeScreen(
                 studyViewModel = studyViewModel,
                 audioViewModel = audioViewModel,
-                bookmarkViewModel = bookmarkViewModel,
                 contentViewModel = contentViewModel,
                 resourcesViewModel = resourcesViewModel,
                 onBack = {

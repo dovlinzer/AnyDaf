@@ -114,12 +114,23 @@ class YCTLibraryClient(
 
     // MARK: - Post Fetching
 
-    /** Fetches articles tagged with any of the given term IDs. English-only filter applied. */
-    suspend fun fetchArticles(termIDs: List<Int>): List<YCTArticle> = withContext(Dispatchers.IO) {
-        if (termIDs.isEmpty()) return@withContext emptyList()
+    /**
+     * Fetches all articles for a tractate in a single bulk request.
+     *
+     * [allTermIDs] is every daf-level (and optionally tractate-level) term ID to query.
+     * [termToDaf] maps each term ID back to its daf number (0 = tractate-level sentinel).
+     * Each returned article has matchType.referencedDaf set from the post's own
+     * `reference` field, so one HTTP call replaces the old per-daf loop.
+     */
+    suspend fun fetchBulkArticles(
+        allTermIDs: List<Int>,
+        termToDaf: Map<Int, Int>
+    ): List<YCTArticle> = withContext(Dispatchers.IO) {
+        if (allTermIDs.isEmpty()) return@withContext emptyList()
 
-        val ids = termIDs.joinToString(",")
-        val url = "$baseURL/posts?reference=$ids&per_page=20&_embed=author"
+        val ids = allTermIDs.joinToString(",")
+        val fields = "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"
+        val url = "$baseURL/posts?reference=$ids&per_page=100&_fields=${encode(fields)}&_embed=author"
         val body = fetchString(url) ?: return@withContext emptyList()
         val arr = JSONArray(body)
 
@@ -129,7 +140,6 @@ class YCTLibraryClient(
             val id = post.getInt("id")
             val slug = post.getString("slug")
 
-            // Skip non-English
             if (nonEnglishSuffixes.any { slug.endsWith(it) }) continue
 
             val title = stripHtml(post.getJSONObject("title").getString("rendered"))
@@ -145,6 +155,18 @@ class YCTLibraryClient(
                 ?.optJSONObject(0)
                 ?.optString("name", "") ?: ""
 
+            // Determine daf associations from the post's own reference term list
+            val refArray = post.optJSONArray("reference")
+            val dafs = mutableListOf<Int>()
+            if (refArray != null) {
+                for (j in 0 until refArray.length()) {
+                    termToDaf[refArray.getInt(j)]?.let { dafs.add(it) }
+                }
+            }
+            dafs.sort()
+            val primaryDaf = dafs.firstOrNull() ?: 0
+            val additionalDafs = dafs.drop(1).filter { it != primaryDaf }
+
             articles.add(YCTArticle(
                 id = id,
                 title = title,
@@ -152,12 +174,13 @@ class YCTLibraryClient(
                 date = date,
                 link = link,
                 authorName = authorName,
-                matchType = ResourceMatchType.Exact(0),
+                matchType = ResourceMatchType.TractateWide(primaryDaf),
+                additionalDafs = additionalDafs,
                 source = source
             ))
         }
 
-        articles.sortedBy { matchRank(it.matchType) }
+        articles
     }
 
     // MARK: - Article Content

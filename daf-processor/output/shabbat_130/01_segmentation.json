@@ -38,7 +38,9 @@
           "display_title": "Barbers & Pricing",
           "timestamp": "10:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Childbirth Care and Umbilical Cord Management on Shabbat",
@@ -70,7 +72,9 @@
           "display_title": "Yechezkel Derivation",
           "timestamp": "16:42"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Circumcision on Shabbat: Rabbi Eliezer's Permissive Position",
@@ -87,7 +91,9 @@
           "display_title": "Multi-Stage Violations",
           "timestamp": "21:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Restrictive Principle: Only the Circumcision Itself Overrides Shabbat",
@@ -99,7 +105,9 @@
           "display_title": "Akiva's Principle",
           "timestamp": "21:32"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Circumcision on Shabbat: Rabbi Eliezer's Permissive Position (continued)",
@@ -111,7 +119,9 @@
           "display_title": "Exposure Rationale",
           "timestamp": "22:53"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Competing Interpretations and Localized Rabbinic Authorities",
@@ -133,7 +143,9 @@
           "display_title": "Reward for Devotion",
           "timestamp": "26:44"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mitzvot Accepted with Joy vs. Displeasure and Their Continued Status",
@@ -165,7 +177,9 @@
           "display_title": "Elisha Story",
           "timestamp": "29:14"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Forgotten Circumcision Knife: Case Study in Halakhic Stringency and Leniency",
@@ -192,7 +206,9 @@
           "display_title": "Shimon's Domain",
           "timestamp": "29:44"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Alleyway (Mavoi) Carrying and Jurisdiction Questions",
@@ -219,7 +235,9 @@
           "display_title": "Paradoxical Carrying",
           "timestamp": "30:37"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -395,5 +413,6 @@
         "29:14"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

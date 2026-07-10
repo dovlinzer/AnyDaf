@@ -23,7 +23,9 @@
           "display_title": "Mavoi Shituf",
           "timestamp": "00:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Paradox of Eruvei Chatzrot and the Status of Mavoi",
@@ -55,7 +57,9 @@
           "display_title": "Rav's Mavoi Rule",
           "timestamp": "04:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Bitul Reshut and the Gemara's Rejection of Explanations",
@@ -82,7 +86,9 @@
           "display_title": "Rav Ashi Solution",
           "timestamp": "10:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Return to Rabbi Eliezer: Scope of His Position on Machshirei Mitzvot",
@@ -104,7 +110,9 @@
           "display_title": "Extensions",
           "timestamp": "23:38"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Excluding Tzitzit and Mezuzah from Rabbi Eliezer's Rule",
@@ -136,7 +144,9 @@
           "display_title": "Ownership Condition",
           "timestamp": "27:35"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Lulav: Learning from the Pasuk that it Overrides Shabbat",
@@ -168,7 +178,9 @@
           "display_title": "Arba Minim",
           "timestamp": "31:36"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Sukkah: Learning via Gezeirah Shavah from Lulav",
@@ -190,7 +202,9 @@
           "display_title": "Night & Day",
           "timestamp": "35:00"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Matzah: Learning via Gezeirah Shavah from Sukkah",
@@ -212,7 +226,9 @@
           "display_title": "Men & Women",
           "timestamp": "36:08"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Shofar: Learning from the Pasuk Yom Teruah Yiheyeh Lachem",
@@ -244,7 +260,9 @@
           "display_title": "Shofar Special",
           "timestamp": "38:28"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Milah: Learning from the Pasuk U'Vayom Hashmini Yimmol Basar Orlato",
@@ -276,7 +294,9 @@
           "display_title": "Thirteen Brits",
           "timestamp": "44:19"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -573,5 +593,6 @@
         "44:24"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

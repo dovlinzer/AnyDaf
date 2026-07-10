@@ -1,4 +1,5 @@
 # Avodah Zarah 22 — Daf Yomi Shiur
+[DAF:22a]
 
 ## Field Rental & Shabbat
 
@@ -24,11 +25,11 @@ This ruling immediately raises a question: but we allow renting to an *oved koch
 >
 > **Translation:** The Gemara answers: **Rabbi Shimon ben Elazar does not accept** the principle that a sharecropper works for his **tenancy,** rather than as the Jew's employee. The Gemara asks: **But** if so, with regard to **a gentile, what is the reason** that it is **permitted** to rent to him? The Gemara answers **that we say to him** that he may not perform labor on certain days, **and he complies.** The Gemara asks: If that is so, then in the case of **a Samaritan as well, we can say to him** that he may not perform labor on certain days, **and he** will **comply.** The Gemara answers: **A Samaritan** will **not comply, as he says: I am more learned than you,** and I know that it is permitted to work on these days. The Gemara asks: **If that is so, why** does Rabbi Shimon ben Elazar state **specifically** that the reason for the prohibition is **because** the field **is called by the name of** the owner? **Let him derive** this *halakha* **due to** the fact that the Samaritan, like a Jew, is commanded to refrain from labor during the intermediate days of the Festival, and since he will work on these days, renting him a field is included in the prohibition: **"You shall not put a stumbling block before the blind"** (Leviticus 19:14). The Gemara answers: Rabbi Shimon ben Elazar **states one** reason **and** adds **another: One** reason is **that** of the prohibition: You shall not put a stumbling block **before the blind; and, furthermore,** it is prohibited **because** the field **is called by the name of** the owner.
 
-The Gemara then asks: if the prohibition against renting to a *kuti* is due to the field carrying the Jew's name, why not simply derive the prohibition from *lifnei iver lo titein michshol* — the prohibition in Vayikra 19:14 against placing a stumbling block before another? The Gemara answers: *chada ve-od ka-amar* — both reasons are stated, one alongside the other. There are thus two independent sources for the *halachah*: the concern of *lifnei iver*, and the separate concern that the field is *nikret al shemo* — called by the Jew's name — while another performs *melachah* in it.
+The Gemara then asks: if the prohibition against renting to a *kuti* is due to the field carrying the Jew's name, why not simply derive the prohibition from *lifnei iver lo titein michshol* — the prohibition in Vayikra 19:14 against placing a stumbling block before another? The Gemara answers: both reasons are stated, one alongside the other. There are thus two independent sources for the *halachah*: the concern of *lifnei iver*, and the separate concern that the field is *nikret al shemo* — called by the Jew's name — while another performs *melachah* in it.
 
 ### Rambam Marit Ayin
 
-The Rambam's ruling on this issue illuminates the practical *halachah*. He writes that if a Jew makes a deal with a non-Jew to build a yard, repair a wall, harvest a field, or plant a vineyard — or hires him for a year or two for such work — and this *melachah* is being performed within the *techum*, in a place where people can observe it, it is forbidden to allow the non-Jew to perform this work on Shabbat. The reason is *mipnei haroim* — because observers do not know the nature of the arrangement and will assume the Jew directed his worker to labor on Shabbat. This is a concern of *marit ayin*.
+The Rambam's ruling on this issue illuminates the practical *halachah*. He writes that if a Jew makes a deal with a non-Jew to build a yard, repair a wall, harvest a field, or plant a vineyard — or hires him for a year or two for such work — and this *melachah* is being performed within the *techum*, in a place where people can observe it, it is forbidden to allow the non-Jew to perform this work on Shabbat. The reason is because observers do not know the nature of the arrangement and will assume the Jew directed his worker to labor on Shabbat. This is a concern of *marit ayin*.
 
 However, if the work is being done *chutz latchum*, outside the area where people would see it, it is permitted, since there is no one present who might draw the wrong inference.
 
@@ -52,7 +53,7 @@ The Gemara presents a case: two parties — an *oved kochavim* and a Jew — sha
 
 Ravina then challenged Rava from a *baraita*: a Jew and a non-Jew who jointly took on a field may not arrange that the non-Jew takes his share on Shabbat and the Jew takes his share during the weekdays. However, if this was stipulated from the outset (*hitnu mitechila*), it is permitted. If they calculated the arrangement after the fact (*ba'u lecheshbon*), it is forbidden — because this reveals that the Jew is effectively collecting the wages of Shabbat, making it appear that the non-Jew was his agent working on Shabbat.
 
-When Ravina cited this *baraita* to Rava, *ichsif* — Rava was embarrassed. However, it was subsequently revealed (*iglay milta*) that in the original saffron field case the parties had indeed stipulated the arrangement from the beginning, so Rava's ruling was correct after all.
+When Ravina cited this *baraita* to Rava, Rava was embarrassed. However, it was subsequently revealed (*iglay milta*) that in the original saffron field case the parties had indeed stipulated the arrangement from the beginning, so Rava's ruling was correct after all.
 
 ### Orlah Plants
 
@@ -82,7 +83,7 @@ The Gemara then clarifies the role of Ravina's citation of the *orlah* case: rat
 
 A dilemma is then raised: what is the *halachah* in an unspecified case — *stama* — where the Jew and non-Jew made no explicit condition from the outset and also did not calculate the profit after the fact? The Gemara suggests: come and hear — since *if they stipulated from the beginning it is permitted*, this implies that without any stipulation it is *asur*. But this conflicts with the other clause: *if they came to calculate it is forbidden* — implying that without any calculation it is *mutar*.
 
-The two clauses thus contradict each other on the status of the unspecified case. The Gemara concludes: *ela meha leka l'mishma minah* — no definitive ruling can be derived from this source. The matter remains unresolved, functioning as a practical *teiku*, though the Gemara does not use that term explicitly.
+The two clauses thus contradict each other on the status of the unspecified case. The Gemara concludes: no definitive ruling can be derived from this source. The matter remains unresolved, functioning as a practical *teiku*, though the Gemara does not use that term explicitly.
 
 ## Second Chapter Intro
 
@@ -128,10 +129,11 @@ A *baraita* articulates the four concerns about animals that might disqualify th
 >
 > **Translation:** The Gemara explains: **Rav Taḥlifa says** that **Rav Sheila bar Avina says in the name of Rav: A gentile** protects and thereby **spares his** own **animal so that it will not become barren.** Since an act of bestiality may cause an animal to become barren, there is no concern that the gentile engaged in immoral behavior with it. Therefore, one may use an animal purchased from a gentile as an offering.
 
-The concern about *reviah* and *nirba* remains. Here, Rav Tachlifa citing Rav Shila bar Avina in the name of Rav provides the key principle: an *oved kochavim* is *chas* — feels concern — for his animal, specifically that she should not become barren (*shelo te'aker*). The premise is that bestiality causes damage to a female animal's reproductive capacity, and the non-Jew, motivated by the desire to preserve the value of his livestock, will not engage in this behavior toward his own animals. This care for his property thus functions as a practical deterrent.
+The concern about *reviah* and *nirba* remains. Here, Rav Tachlifa citing Rav Shila bar Avina in the name of Rav provides the key principle: an *oved kochavim* is feels concern — for his animal, specifically that she should not become barren (*shelo te'aker*). The premise is that bestiality causes damage to a female animal's reproductive capacity, and the non-Jew, motivated by the desire to preserve the value of his livestock, will not engage in this behavior toward his own animals. This care for his property thus functions as a practical deterrent.
 
-## Female Animals & Male Deterioration
+## Female Animals & Shepherd Cases
 
+[DAF:22b]
 ### Female Barrenness
 
 > **Hebrew/Aramaic:** הָתִינַח נְקֵבוֹת, זְכָרִים מַאי אִיכָּא לְמֵימַר? אָמַר רַב כָּהֲנָא: הוֹאִיל וּמַכְחִישִׁין בַּבָּשָׂר.
@@ -142,11 +144,11 @@ The concern for *akarot* — barrenness — explains why a non-Jew would refrain
 
 ### Male Deterioration
 
-But what about male animals? Here, Rav Kahana provides a different explanation: *ho'il u'machkhishin babasar* — the animal physically deteriorates from such treatment, becoming lean and weakened. Since a diminished male animal is worth less — both for work and for sale — the non-Jew refrains out of economic self-interest, providing the same practical deterrent as *akarot* does for females.
+The explanation for male animals follows a different logic. A diminished male animal is worth less — both for work and for sale — so the non-Jew refrains out of economic self-interest, providing the same practical deterrent as *akarot* does for females.
 
 ### Shepherd's Fear
 
-> **Hebrew/Aramaic:** אֶלָּא הָא דְּתַנְיָא: לוֹקְחִין בְּהֵמָה מֵרוֹעֶה שֶׁלָּהֶן, לֵיחוּשׁ דִּלְמָא רַבְעַהּ לָהּ! רוֹעֶה שֶׁלָּהֶן מִתְיָירֵא מִשּׁוּם הֶפְסֵד שָׂכָר.
+> **Hebrew/Aramaic:** אֶלָּא הָא דְּתַנְיָא: לוֹקְחִין בְּהֵמָה מֵרוֹעֶה שֶׁלָּהֶן, לֵחוּשׁ דִּלְמָא רַבְעַהּ לָהּ! רוֹעֶה שֶׁלָּהֶן מִתְיָירֵא מִשּׁוּם הֶפְסֵד שָׂכָר.
 >
 > **Translation:** **Rather,** the Gemara instead raises a contradiction from **that which is taught** in a *baraita*: **One may purchase an animal** for use as an offering **from their shepherd,** i.e., a gentile shepherd. The Gemara explains the apparent contradiction: In light of the ruling of the mishna, **let us be concerned** that **perhaps he engaged in bestiality with** the animal, as it does not belong to him, and therefore it should be prohibited to purchase an animal from gentile shepherds. The Gemara answers: **Their shepherd is fearful** of engaging in bestiality with the animals under his care, **due to** the **forfeit of** his **wages** that would result if this were discovered.
 
@@ -160,49 +162,49 @@ This, however, generates a new tension. If the shepherd's fear of financial loss
 >
 > **Translation:** **Rather,** the Gemara instead raises a contradiction from **that which is taught** in a *baraita*: **One may not deliver an animal to their shepherd,** i.e., a gentile shepherd. The Gemara explains the contradiction: Why may one not do so? **Let us say** that **their shepherd is fearful due to** the **forfeit of his wages,** and accordingly one should be permitted to give him an animal. The Gemara answers: With regard to **themselves,** i.e., other gentiles, **as they are aware of each other's** actions, **they are fearful** that they may be caught, and therefore will not engage in bestiality with an animal belonging to another gentile. But with regard to **ourselves,** Jews, **as we are not aware of them** and their behavior, **they are not fearful** of us. The Gemara notes that **Rabba said: This** is in accordance with the adage **that people say:** Just as **the stylus etches** script upon **marble, a sinner knows his fellow** sinner, i.e., a transgressor is acutely aware of others who act in the same manner.
 
-Here the Gemara introduces a crucial principle: *inhu di'yad'ei bahadadei mirteti, anan d'la yad'inan behu lo mirteti* — non-Jews, being aware of each other's practices, would recognize the signs of abuse in an animal and hold each other accountable; we, not knowing what to look for, would not identify the problem and therefore cannot deter it. When the non-Jew's employer or peers would notice the harm, his fear of exposure acts as a restraint. When the owner is a Jew who would not recognize the signs, that restraint is absent.
+Here the Gemara introduces a crucial principle: non-Jews, being aware of each other's practices, would recognize the signs of abuse in an animal and hold each other accountable; we, not knowing what to look for, would not identify the problem and therefore cannot deter it. When the non-Jew's employer or peers would notice the harm, his fear of exposure acts as a restraint. When the owner is a Jew who would not recognize the signs, that restraint is absent.
 
-Rava crystallizes this with an idiomatic expression: *machtava glei lei b'za, ragla b'chavreiah yada* — the chisel is apparent to the marble; those who move in the same circles know each other's behavior. The English parallel would be: it takes one to know one. This principle explains why, *vis-à-vis* a Jewish owner, the non-Jewish shepherd is less deterred — we would not recognize what had occurred and therefore cannot serve as a check on his behavior.
+Rava crystallizes this with an idiomatic expression: the chisel is apparent to the marble; those who move in the same circles know each other's behavior. The English parallel would be: it takes one to know one. This principle explains why, *vis-à-vis* a Jewish owner, the non-Jewish shepherd is less deterred — we would not recognize what had occurred and therefore cannot serve as a check on his behavior.
 
 ## Widow & Dog Case
 
 ### No Male Dog
 
-> **Hebrew/Aramaic:** אֲבָל הָא דְּתָנֵי רַב יוֹסֵף: אַרְמַלְתָּא לָא תְּרַבֵּי כַּלְבָּא, וְלָא תַּשְׁרֵי בַּר בֵּי רַב בְּאוּשְׁפִּיזָא. בִּשְׁלָמָא בַּר בֵּי רַב צְנִיעַ לַהּ, אֶלָּא כַּלְבָּא, כֵּיוָן דְּמִיגָּרֵה בַּהּ — מִרַתְתָא!
+> **Hebrew/Aramaic:** אִי הָכִי, זְכָרִים מִנְּקֵבוֹת לָא נִיזְבּוֹן, דְּחָיְישִׁינַן דִּלְמָא מַרְבְּעָא לֵיהּ עִילָּוַהּ! כֵּיוָן דְּמִיגָּרֵי בַּהּ, מִרַתְתָא.
 >
-> **Translation:** The Gemara further asks: **But** consider **that which Rav Yosef teaches: A widow may not raise a dog** due to the suspicion that she may engage in bestiality, **and** she **may not allow a student** of Torah to dwell **as a lodger [*be'ushpiza*]** in her home. **Granted,** it makes sense that is prohibited for her to have **a student** of Torah lodging in her home, as he is regarded as **discreet in her** eyes, so she will not be deterred from sinning with him. **But** with regard to **a dog, since it would follow her** around after she mates with it, **she is afraid** to engage in bestiality with it. Therefore, it should be permitted for her to raise a dog.
+> **Translation:** The Gemara raises a difficulty: **If that is so,** and the reason one may purchase an animal for use as an offering from a gentile is that engaging in bestiality has a negative impact on the animal, then **let us not purchase male** animals **from female** gentiles, **as we** should be **concerned** that **perhaps she engaged in bestiality with it.** This would not damage the animal or render it barren, and therefore there is no deterrent that would prevent a gentile woman from doing so. The Gemara answers: **Since,** if she were to engage in bestiality, the animal would **follow her** around in public, **she is afraid** of others discovering her behavior.
 
 Rav Yosef teaches: a widow should not raise a male dog (*kalba*, not *kalbata*), and she should not allow a single *bar bei rav* — a yeshiva student — to lodge in her home. The first prohibition appears puzzling given the preceding discussion: since a male animal's arousal would disclose the woman's transgression, should this not serve as a sufficient deterrent?
 
 ### Dog Arousal & Meat
 
-> **Hebrew/Aramaic:** כֵּיוָן דְּכִי שָׁדְיָא לֵיהּ אוּמְצָא וּמִסְּרִיךְ אַבָּתְרַהּ, מֵימָר אָמְרִי אִינָשֵׁי: הַאי דְּמִסְּרִיךְ אַבָּתְרַהּ מִשּׁוּם אוּמְצָא דְּקָא מִסְּרִיךְ.
+> **Hebrew/Aramaic:** אֶלָּא הָא דְּתָנֵי רַב יוֹסֵף: אַרְמַלְתָּא לָא תְּרַבֵּי כַּלְבָּא, וְלָא תַּשְׁרֵי בַּר בֵּי רַב בְּאוּשְׁפִּיזָא. בִּשְׁלָמָא בַּר בֵּי רַב צְנִיעַ לַהּ, אֶלָּא כַּלְבָּא, כֵּיוָן דְּמִיגָּרֵה בַּהּ — מִרַתְתָא! כֵּיוָן דְּכִי שָׁדְיָא לֵיהּ אוּמְצָא וּמִסְּרִיךְ אַבָּתְרַהּ, מֵימָר אָמְרִי אִינָשֵׁי: הַאי דְּמִסְּרִיךְ אַבָּתְרַהּ מִשּׁוּם אוּמְצָא דְּקָא מִסְּרִיךְ.
 >
-> **Translation:** The Gemara answers: **Since it will** also **follow her** around in a case **when she throws it a piece of meat, people will say:** The fact **that it is following her** is **due to the meat** she threw at it, and they will not suspect her of bestiality. Consequently, she will not be deterred from transgressing.
+> **Translation:** The Gemara further asks: **But** consider **that which Rav Yosef teaches: A widow may not raise a dog** due to the suspicion that she may engage in bestiality, **and** she **may not allow a student** of Torah to dwell **as a lodger [*be'ushpiza*]** in her home. **Granted,** it makes sense that is prohibited for her to have **a student** of Torah lodging in her home, as he is regarded as **discreet in her** eyes, so she will not be deterred from sinning with him. **But** with regard to **a dog, since it would follow her** around after she mates with it, **she is afraid** to engage in bestiality with it. Therefore, it should be permitted for her to raise a dog. The Gemara answers: **Since it will** also **follow her** around in a case **when she throws it a piece of meat, people will say:** The fact **that it is following her** is **due to the meat** she threw at it, and they will not suspect her of bestiality. Consequently, she will not be deterred from transgressing.
 
-The Gemara works through the logic. The prohibition against a *bar bei rav* lodging with her is straightforward: since the yeshiva student values his reputation for *tzniut*, if something occurred between them, he would not disclose it. He is, as a person, capable of concealing the relationship. The dog, by contrast, *keivan d'migri bah mirtata* — once aroused, it will follow her in a manner that publicly signals the relationship, thus generating fear that will deter her. On this reasoning, one might think she *should* be permitted to keep a male dog, since his very revealing behavior serves as a deterrent.
+The Gemara works through the logic. The prohibition against a *bar bei rav* lodging with her is straightforward: since the yeshiva student values his reputation for *tzniut*, if something occurred between them, he would not disclose it. He is, as a person, capable of concealing the relationship. The dog, by contrast, once aroused, it will follow her in a manner that publicly signals the relationship, thus generating fear that will deter her. On this reasoning, one might think she *should* be permitted to keep a male dog, since his very revealing behavior serves as a deterrent.
 
-Yet the teaching prohibits the dog as well, and an alternative explanation is offered: *keivan d'ki shadya lei umtza u'mashrich batra* — when she throws the dog a piece of meat (*umtza*), it follows her, and people will simply attribute the dog's attachment to the meat rather than to any inappropriate relationship. Since the behavior can be innocently explained, the deterrent effect is neutralized, and therefore the prohibition stands.
+Yet the teaching prohibits the dog as well, and an alternative explanation is offered: when she throws the dog a piece of meat (*umtza*), it follows her, and people will simply attribute the dog's attachment to the meat rather than to any inappropriate relationship. Since the behavior can be innocently explained, the deterrent effect is neutralized, and therefore the prohibition stands.
 
 ### Female-Female Worst
 
-> **Hebrew/Aramaic:** נְקֵבוֹת אֵצֶל נְקֵבוֹת, מַאי טַעְמָא לָא מְיַיחֲדִינַן? אָמַר מָר עוּקְבָא בַּר חָמָא: מִפְּנֵי שֶׁהַגּוֹיִם מְצוּיִין אֵצֶל נְשֵׁי חַבְרֵיהֶן, וּפְעָמִים שֶׁאֵינוֹ מוֹצְאָהּ וּמוֹצֵא אֶת הַבְּהֵמָה וְרוֹבְעָהּ.
+> **Hebrew/Aramaic:** נְקֵבוֹת אֵצֶל נְקֵבוֹת, מַאי טַעְמָא לָא מְיַיחֲדִינַן? אָמַר מָר עוּקְבָא בַּר חָמָא: מִפְּנֵי שֶׁהַגּוֹיִם מְצוּיִים אֵצֶל נְשֵׁי חַבְרֵיהֶן, וּפְעָמִים שֶׁאֵינוֹ מוֹצְאָהּ וּמוֹצֵא אֶת הַבְּהֵמָה וְרוֹבְעָהּ. וְאִיבָּעֵית אֵימָא: אֲפִילּוּ מוֹצְאָהּ נָמֵי רוֹבְעָהּ, דְּאָמַר מָר: חֲבִיבָה עֲלֵיהֶן בְּהֶמְתָּן שֶׁל יִשְׂרָאֵל יוֹתֵר מִנְּשׁוֹתֵיהֶן, דְּאָמַר רַבִּי יוֹחָנָן: בְּשָׁעָה שֶׁבָּא נָחָשׁ עַל חַוָּה הֵטִיל בָּהּ זוּהֲמָא. אִי הָכִי, יִשְׂרָאֵל נָמֵי? יִשְׂרָאֵל שֶׁעָמְדוּ עַל הַר סִינַי — פָּסְקָה זוּהֲמָתָן, גּוֹיִם שֶׁלֹּא עָמְדוּ עַל הַר סִינַי — לֹא פָּסְקָה זוּהֲמָתָן.
 >
-> **Translation:** The Gemara asks: With regard to **female** animals **with females, what is the reason** that **we do not** permit them to **be secluded** with each other? **Mar Ukva bar Ḥama says:** It is **because gentiles frequent the wives of others, and on occasion** the gentile **does not find her, and he finds the animal and engages in bestiality with it** instead.
+> **Translation:** The Gemara asks: With regard to **female** animals **with females, what is the reason** that **we do not** permit them to **be secluded** with each other? **Mar Ukva bar Ḥama says:** It is **because gentiles frequent the wives of others, and on occasion** the gentile **does not find her, and he finds the animal and engages in bestiality with it** instead. **And if you wish, say** instead: **Even** when **he finds** the wife, **he also engages in bestiality with** the animal, **as the Master said: The animal of a Jew is more appealing to** gentiles **than their** own **wives, as Rabbi Yoḥanan says: At the time when the snake came upon Eve,** at the time of the sin of her eating from the Tree of Knowledge, **it infected her with** moral **contamination,** and this contamination lingers in all human beings. The Gemara asks: **If that is so, a Jew** should **also** be suspected of engaging in bestiality. The Gemara answers: With regard to the **Jewish people, who stood at Mount Sinai** and received the Torah, **their contamination ended,** whereas in the case of **gentiles, who did not stand at Mount Sinai** and receive the Torah, **their contamination has not ended.**
 
 One might then ask: why are we concerned about female animals in the care of female owners? In the cases of male animals with female owners, we noted that the animal would develop an attachment that would expose the woman. So what is the remaining concern?
 
-Mar Ukva bar Chama explains: *ovdei kochavim* are known to frequent their companions' wives' homes. Sometimes when they arrive, they do not find the wife but do find the animal — and they will commit *reviah* with it. And if one wishes to push further: even when they do find the wife, *afilu motzah nami rova* — they will *also* abuse the animal. For, as the teaching states, the animals of Israel are more beloved to them than their own wives.
+Mar Ukva bar Chama explains: *ovdei kochavim* are known to frequent their companions' wives' homes. Sometimes when they arrive, they do not find the wife but do find the animal — and they will commit *reviah* with it. And if one wishes to push further: even when they do find the wife, they will *also* abuse the animal. For, as the teaching states, the animals of Israel are more beloved to them than their own wives.
 
 ## Snake & Chava
 
 ### Zohama Doctrine
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: אֲפִילּוּ מוֹצְאָהּ נָמֵי רוֹבְעָהּ, דְּאָמַר מָר: חֲבִיבָה עֲלֵיהֶן בְּהֶמְתָּן שֶׁל יִשְׂרָאֵל יוֹתֵר מִנְּשׁוֹתֵיהֶן, דְּאָמַר רַבִּי יוֹחָנָן: בְּשָׁעָה שֶׁבָּא נָחָשׁ עַל חַוָּה הֵטִיל בָּהּ זוּהֲמָא.
+> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: עוֹפוֹת מַאי? תָּא שְׁמַע, דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי חֲנִינָא: אֲנִי רָאִיתִי גּוֹי שֶׁלָּקַח אַוָּוז מִן הַשּׁוּק, רְבָעָהּ, חֲנָקָהּ, צְלָאָהּ, וַאֲכָלָהּ. וְאָמַר רַבִּי יִרְמְיָה מִדִּיפְתִּי: אֲנִי רָאִיתִי עַרְבִי אֶחָד שֶׁלָּקַח יָרֵךְ מִן הַשּׁוּק, וְחָקַק בָּהּ כְּדֵי רְבִיעָה, רְבָעָהּ, צְלָאָהּ, וַאֲכָלָהּ.
 >
-> **Translation:** **And if you wish, say** instead: **Even** when **he finds** the wife, **he also engages in bestiality with** the animal, **as the Master said: The animal of a Jew is more appealing to** gentiles **than their** own **wives, as Rabbi Yoḥanan says: At the time when the snake came upon Eve,** at the time of the sin of her eating from the Tree of Knowledge, **it infected her with** moral **contamination.**
+> **Translation:** § The Gemara inquires with regard to the *halakha* in the case of a bird. **A dilemma was raised before** the Sages: With regard to **birds, what** is the *halakha*? Are gentiles suspected of engaging in bestiality with birds? The Gemara suggests: **Come** and **hear** a proof that they are suspected of doing so, **as Rav Yehuda says** that **Shmuel says in the name of Rabbi Ḥanina: I** once **saw a gentile who bought a goose in the market, engaged in bestiality with it, strangled it, roasted it, and** then **ate it. And** similarly, **Rabbi Yirmeya of Difti says: I saw a certain Arab who bought a thigh** of meat **from the market and carved** a space **in it** that was **the size necessary** to allow **for penetration.** Subsequently, **he penetrated it, roasted it, and ate it.**
 
-This remarkable statement — that the animals of Israel are more attractive to idolaters than their own wives — leads the Gemara to Rabbi Yochanan's foundational teaching: *besha'ah she-ba nachash al Chava hitil bah zohama* — at the time the snake came upon Chava, he instilled in her a *zohama*, a contamination or impurity. This is a striking *Gemara*. The teaching implies that the snake had an actual physical relationship with Chava, introducing into humanity a form of animalistic contamination that explains, at least in part, the tendencies being discussed throughout this *daf*.
+This remarkable statement — that the animals of Israel are more attractive to idolaters than their own wives — leads the Gemara to Rabbi Yochanan's foundational teaching: at the time the snake came upon Chava, he instilled in her a *zohama*, a contamination or impurity. This is a striking *Gemara*. The teaching implies that the snake had an actual physical relationship with Chava, introducing into humanity a form of animalistic contamination that explains, at least in part, the tendencies being discussed throughout this *daf*.
 
 ### Textual Proofs
 
@@ -212,11 +214,7 @@ From this, the Gemara derives that humanity as a whole inherited a strain of *zo
 
 ### Sinai as Cure
 
-> **Hebrew/Aramaic:** אִי הָכִי, יִשְׂרָאֵל נָמֵי? יִשְׂרָאֵל שֶׁעָמְדוּ עַל הַר סִינַי — פָּסְקָה זוּהֲמָתָן, גּוֹיִם שֶׁלֹּא עָמְדוּ עַל הַר סִינַי — לֹא פָּסְקָה זוּהֲמָתָן.
->
-> **Translation:** The Gemara asks: **If that is so, a Jew** should **also** be suspected of engaging in bestiality. The Gemara answers: With regard to the **Jewish people, who stood at Mount Sinai** and received the Torah, **their contamination ended,** whereas in the case of **gentiles, who did not stand at Mount Sinai** and receive the Torah, **their contamination has not ended.**
-
-The obvious question follows: if all of humanity descends from Chava, why are we not equally subject to this *zohama*? The Gemara's answer: *Yisrael she-amdu al Har Sinai paskah zohamatam* — Israel, who stood at Mount Sinai, had their *zohama* removed. *Ovdei kochavim she-lo amdu al Har Sinai lo paskah zohamatam* — idolaters, who did not stand at Sinai, retain it. Sinai functions here as a transformative counter-medicine to the contamination introduced at the beginning of human history. The Gemara elsewhere supports this with the verse from Shir HaShirim: *hinach yafah ra'ayati u-mum ein bach* — you are beautiful, my beloved, and there is no flaw in you.
+Israel, who stood at Mount Sinai, had their *zohama* removed. Idolaters, who did not stand at Sinai, retain it. Sinai functions here as a transformative counter-medicine to the contamination introduced at the beginning of human history. The Gemara elsewhere supports this with the verse from Shir HaShirim: *hinach yafah ra'ayati u-mum ein bach* — you are beautiful, my beloved, and there is no flaw in you.
 
 One might ask what this implies about the generations before Sinai — the patriarchs, matriarchs, and all those who lived before *matan Torah*. The Gemara does not resolve this question here, and it remains an open point.
 
@@ -224,23 +222,15 @@ One might ask what this implies about the generations before Sinai — the patri
 
 ### Poultry Concern
 
-> **Hebrew/Aramaic:** אִיבַּעְיָא לְהוּ: עוֹפוֹת מַאי? תָּא שְׁמַע, דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי חֲנִינָא: אֲנִי רָאִיתִי גּוֹי שֶׁלָּקַח אַוָּוז מִן הַשּׁוּק, רְבָעָהּ, חֲנָקָהּ, צְלָאָהּ, וַאֲכָלָהּ.
->
-> **Translation:** § The Gemara inquires with regard to the *halakha* in the case of a bird. **A dilemma was raised before** the Sages: With regard to **birds, what** is the *halakha*? Are gentiles suspected of engaging in bestiality with birds? The Gemara suggests: **Come** and **hear** a proof that they are suspected of doing so, **as Rav Yehuda says** that **Shmuel says in the name of Rabbi Ḥanina: I** once **saw a gentile who bought a goose in the market, engaged in bestiality with it, strangled it, roasted it, and** then **ate it.**
-
-Having worked through the various cases involving *behemot* — large and small animals — the Gemara raises a new question: *iba'it lehu ofot* — what about poultry? Are we concerned about *reviah* with fowl? The question is significant because we also take certain *ofot* as *korbanot*, and the same logic that applied to animals would seem to apply here.
+Having worked through the various cases involving *behemot* — large and small animals — the Gemara raises a new question: what about poultry? Are we concerned about *reviah* with fowl? The question is significant because we also take certain *ofot* as *korbanot*, and the same logic that applied to animals would seem to apply here.
 
 ### Goose Incident
 
-Rav Yehuda citing Shmuel in the name of Rabbi Chanina offers testimony: *ani ra'iti* — I personally saw an *oved kochavim* who took a goose from the market, committed *reviah* with it, then choked it, roasted it, and ate it. This eyewitness account is brought as evidence that the concern about poultry is real and not hypothetical.
+Rav Yehuda citing Shmuel in the name of Rabbi Chanina offers testimony: I personally saw an *oved kochavim* who took a goose from the market, committed *reviah* with it, then choked it, roasted it, and ate it. This eyewitness account is brought as evidence that the concern about poultry is real and not hypothetical.
 
 ### Meat Incident
 
-> **Hebrew/Aramaic:** וְאָמַר רַבִּי יִרְמְיָה מִדִּיפְתִּי: אֲנִי רָאִיתִי עַרְבִי אֶחָד שֶׁלָּקַח יָרֵךְ מִן הַשּׁוּק, וְחָקַק בָּהּ כְּדֵי רְבִיעָה, רְבָעָהּ, צְלָאָהּ, וַאֲכָלָהּ.
->
-> **Translation:** And similarly, **Rabbi Yirmeya of Difti says: I saw a certain Arab who bought a thigh** of meat **from the market and carved** a space **in it** that was **the size necessary** to allow **for penetration.** Subsequently, **he penetrated it, roasted it, and ate it.** These incidents demonstrate that gentiles are suspected of immoral conduct with fowl.
-
-Rabbi Yirmiya from Difti then offers his own testimony, which is even more striking: *ani ra'iti* — I saw an *Arvi* (a member of the mixed tribes of the region, not to be identified with any modern people) who took a thigh — a piece of meat — from the market, fashioned it for the purpose of *reviah*, performed the act with it, then roasted and ate it. This account moves beyond a living bird to an already-dead piece of flesh, escalating the severity of what was witnessed.
+Rabbi Yirmiya from Difti then offers his own testimony, which is even more striking: I saw an *Arvi* (a member of the mixed tribes of the region, not to be identified with any modern people) who took a thigh — a piece of meat — from the market, fashioned it for the purpose of *reviah*, performed the act with it, then roasted and ate it. This account moves beyond a living bird to an already-dead piece of flesh, escalating the severity of what was witnessed.
 
 ### Lechatchila-Bedieved
 
@@ -248,7 +238,7 @@ Rabbi Yirmiya from Difti then offers his own testimony, which is even more strik
 >
 > **Translation:** § The Gemara cites another resolution of the apparent contradiction between the mishna, which rules that gentiles are suspected of bestiality, and the *baraita*, which permits an animal purchased from gentiles to be sacrificed as an offering. **Ravina said** that it **is not difficult; this** mishna issues its ruling with regard to the *halakha **ab initio*****,** while **that** *baraita* is referring to the *halakha* **after the fact.**
 
-Ravina then provides the resolution that draws together the contradictions of the entire *daf*: *Ravina amar la kashya — ha lechatchila, ha bedieved*. There is no difficulty. One ruling speaks to *lechatchila* — the ideal, prospective standard — while the other speaks to *bedieved* — the evaluation of a specific case after the fact, or when the transaction is already before us.
+Ravina then provides the resolution that draws together the contradictions of the entire *daf*: There is no difficulty. One ruling speaks to *lechatchila* — the ideal, prospective standard — while the other speaks to *bedieved* — the evaluation of a specific case after the fact, or when the transaction is already before us.
 
 This is the key to reconciling the *Mishnah*'s prohibition with the established teaching that we purchase animals from non-Jews for *korbanot*. *Lechatchila*, we are concerned and therefore should not entrust our animals to non-Jewish shepherds or leave them in non-Jewish inns. *Bedieved* — when we are evaluating a particular animal that is now before us for purchase, the various considerations established throughout the *daf* (the non-Jew's concern for *akarot*, the male animal's *hekchesh*, the shepherd's fear of financial loss) give us sufficient grounds to conclude that in all likelihood this specific animal was not harmed. Therefore the animal may be purchased and brought as a *korban*.
 

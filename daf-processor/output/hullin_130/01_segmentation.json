@@ -23,7 +23,9 @@
           "display_title": "Kohanim sustenance",
           "timestamp": "01:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishnah's teaching: gifts apply only to non-sanctified animals, not sacrifices",
@@ -50,7 +52,9 @@
           "display_title": "Verse excludes korbanot",
           "timestamp": "07:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "When an animal with a blemish is sanctified: it never acquires the status of a sacrifice",
@@ -72,7 +76,9 @@
           "display_title": "Bechor & maaser exception",
           "timestamp": "19:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "When sanctity precedes the blemish: the animal retains sacrifice status with restrictions",
@@ -94,7 +100,9 @@
           "display_title": "Why restrictions apply",
           "timestamp": "25:58"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The word 'ze' (this) in the verse about priestly gifts and its implications",
@@ -116,7 +124,9 @@
           "display_title": "'Ze' means present",
           "timestamp": "40:15"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The verse's applicability to courts: oversight of proper distribution of gifts",
@@ -143,7 +153,9 @@
           "display_title": "Possession requirement",
           "timestamp": "50:30"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Analogy from the poor person's gifts: when must one repay if gifts are taken improperly",
@@ -170,7 +182,9 @@
           "display_title": "Final conclusion",
           "timestamp": "57:00"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -412,5 +426,6 @@
         "35:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

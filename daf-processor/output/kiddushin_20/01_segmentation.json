@@ -28,7 +28,9 @@
           "display_title": "Mashal Comparison",
           "timestamp": "03:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Stipulation Against Yi'ud: Can You Exclude the Right of Yi'ud?",
@@ -60,7 +62,9 @@
           "display_title": "Yehuda's Position",
           "timestamp": "08:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Derasha on Le'Amah: Selling to Pesulim and Relatives",
@@ -92,7 +96,9 @@
           "display_title": "Institution vs. Fact",
           "timestamp": "19:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Sale to Father and Not to Son: When is Yi'ud Possible?",
@@ -109,7 +115,9 @@
           "display_title": "Yi'ud Possibility",
           "timestamp": "24:12"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Historical Context: Eved Ivri Only During Yovel",
@@ -121,7 +129,9 @@
           "display_title": "Rambam Yovel",
           "timestamp": "27:04"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Eved Ivri's Status: Treatment and Rights (Begapo Yavo Begapo Yeitzei)",
@@ -153,7 +163,9 @@
           "display_title": "Injury Compensation",
           "timestamp": "30:40"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Wife and Shifcha Kena'anis: Family Structure of Eved Ivri",
@@ -165,7 +177,9 @@
           "display_title": "Shifcha Provision",
           "timestamp": "31:32"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Redemption Price: Purchase Price vs. Current Market Value",
@@ -187,7 +201,9 @@
           "display_title": "Lower Price",
           "timestamp": "35:20"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Why Lekula (Lenient) Not Lechumra (Strict): Torah's Concern for Eved",
@@ -219,7 +235,9 @@
           "display_title": "Tosafot Pillow",
           "timestamp": "39:32"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Counterargument: Does Treatment Rule Apply to Redemption Price?",
@@ -251,7 +269,9 @@
           "display_title": "Repeated Sin",
           "timestamp": "44:53"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Selling Daughter Preferable to Borrowing with Interest",
@@ -263,7 +283,9 @@
           "display_title": "Economic Logic",
           "timestamp": "47:36"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Even in Ultimate Fall, Obligation to Redeem Remains",
@@ -285,7 +307,9 @@
           "display_title": "Mandate Conclusion",
           "timestamp": "51:18"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Two Pessukim Solution: Increased vs. Decreased Value Determines Price Type",
@@ -312,7 +336,9 @@
           "display_title": "K'Sinai Derasha",
           "timestamp": "56:15"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Synthesis: Moral Framing - Sin, Censure, and Redemptive Responsibility",
@@ -324,7 +350,9 @@
           "display_title": "Moral Tensions",
           "timestamp": "56:32"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -850,5 +878,6 @@
         "13:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

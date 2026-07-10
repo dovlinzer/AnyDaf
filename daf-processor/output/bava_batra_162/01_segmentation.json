@@ -38,7 +38,9 @@
           "display_title": "Conclusion",
           "timestamp": "03:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Multiple Witnesses with Invalid Ones Among Them",
@@ -100,7 +102,9 @@
           "display_title": "Karov Pasul",
           "timestamp": "20:46"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Modern Practice: Women Signing Ketubah",
@@ -127,7 +131,9 @@
           "display_title": "Honor Line",
           "timestamp": "23:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Measurement of Two Lines Distance",
@@ -179,7 +185,9 @@
           "display_title": "Before Hashrat",
           "timestamp": "35:53"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Space Between Witnesses and Court Validation",
@@ -226,7 +234,9 @@
           "display_title": "No Blank Space",
           "timestamp": "40:34"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -643,5 +653,6 @@
         "21:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 3
 }

@@ -43,7 +43,9 @@
           "display_title": "Lishmah Concerns",
           "timestamp": "04:23"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Mute or Uninformed Messenger: Aino Yachol Lomar and the Role of Signature Validation",
@@ -70,7 +72,9 @@
           "display_title": "Signatures Primary",
           "timestamp": "09:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Reconciling the Evidence: The Shift from Lishmah to Signature Validation After Learning",
@@ -107,7 +111,9 @@
           "display_title": "Resolution Balance",
           "timestamp": "16:32"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Husband Delivering His Own Get: Why the Teshuva Concerns Don't Apply",
@@ -129,7 +135,9 @@
           "display_title": "Husband Exception",
           "timestamp": "20:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Two Messengers Bringing the Get: Distinguishing from Standard Shlichus",
@@ -156,7 +164,9 @@
           "display_title": "Testimony Paradigm",
           "timestamp": "24:32"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Yehoshua ben Levi's Position: The Lishmah-Only View and Two Messengers Reconciliation",
@@ -183,7 +193,9 @@
           "display_title": "Resolution Unusual",
           "timestamp": "41:13"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Number of Witnesses Present for Get Delivery: Two vs. Three and the Shliach-Eid-Dayan Identity Question",
@@ -225,7 +237,9 @@
           "display_title": "Woman Dayan Risk",
           "timestamp": "46:54"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Failure to Declare and Remediation: Rabbi Meir's Stringency vs. The Sages' Leniency",
@@ -257,7 +271,9 @@
           "display_title": "Meir Rationale",
           "timestamp": "53:31"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -614,5 +630,6 @@
         "53:53"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

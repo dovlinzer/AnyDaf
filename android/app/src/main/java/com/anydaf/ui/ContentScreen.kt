@@ -91,6 +91,7 @@ import com.anydaf.ui.theme.AppBlue
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.anydaf.data.api.Dedication
 import com.anydaf.data.api.FeedManager
 import com.anydaf.data.api.ShiurClient
 import com.anydaf.model.Bookmark
@@ -164,7 +165,12 @@ fun ContentScreen(
             onDismiss = { contentViewModel.dismissDonationNudge() }
         )
     }
-    
+
+    val dedication by contentViewModel.dedication.collectAsState()
+    dedication?.let {
+        DedicationDialog(dedication = it, onDismiss = { contentViewModel.dismissDedication() })
+    }
+
     val episodeIndex by FeedManager.episodeIndex.collectAsState()
     val isLoadingFeed by FeedManager.isLoading.collectAsState()
     val shiurSegments by ShiurClient.segments.collectAsState()
@@ -179,7 +185,27 @@ fun ContentScreen(
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
     val currentTime by audioViewModel.currentTime.collectAsState()
     val duration by audioViewModel.duration.collectAsState()
-    var mainContentMode by remember { mutableStateOf(MainContentMode.DAF) }
+    val lastContentModeStr by contentViewModel.lastContentMode.collectAsState()
+    val lastTextSectionIndex by contentViewModel.lastTextSectionIndex.collectAsState()
+    val lastTextTractate by contentViewModel.lastTextTractate.collectAsState()
+    val lastTextDaf by contentViewModel.lastTextDaf.collectAsState()
+    val lastShiurSegmentIndex by contentViewModel.lastShiurSegmentIndex.collectAsState()
+    val lastShiurTractate by contentViewModel.lastShiurTractate.collectAsState()
+    val lastShiurDaf by contentViewModel.lastShiurDaf.collectAsState()
+    var shiurInitialRestoreDone by remember { mutableStateOf(false) }
+    // Guards against re-running the daf-change LaunchedEffect below when selectedDaf is set
+    // programmatically to mirror Study Mode's own daf navigation (Prev Daf/Next Daf). Without
+    // this, that effect would call studyViewModel.endSession() (outside Text mode) or restart
+    // the session, clobbering the position Study Mode just navigated to.
+    var suppressDafSessionSync by remember { mutableStateOf(false) }
+    var mainContentMode by remember {
+        mutableStateOf(
+            contentViewModel.currentContentMode.value.let { name ->
+                if (name.isNotEmpty()) MainContentMode.entries.firstOrNull { it.name == name } ?: MainContentMode.DAF
+                else MainContentMode.DAF
+            }
+        )
+    }
 
     val tractate = allTractates[selectedTractateIndex]
 
@@ -209,11 +235,45 @@ fun ContentScreen(
     // Reset study session when daf/tractate changes — always follow the selector.
     // In Text mode, restart the session rather than ending it.
     LaunchedEffect(tractate.name, selectedDaf) {
-        if (mainContentMode == MainContentMode.TEXT) {
-            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
+        if (suppressDafSessionSync) {
+            suppressDafSessionSync = false
         } else {
-            studyViewModel.endSession()
+            shiurInitialRestoreDone = true  // daf/tractate change is not a launch restore
+            if (mainContentMode == MainContentMode.TEXT) {
+                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode,
+                    startAtAmudB = selectedAmud == 1)
+            } else {
+                studyViewModel.endSession()
+            }
         }
+    }
+    // Keep the picker readout (selectedDaf/selectedAmud) in sync with Study Mode's own
+    // navigation — crossing a daf boundary via Prev Daf/Next Daf, or crossing the amud A/B
+    // boundary while paging through sections within the same daf.
+    //
+    // selectedDaf here must stay a whole daf number, never daf+0.5 for "amud b" — the .5 suffix
+    // is reserved for genuine half-daf *audio episodes* (see dafPickerItems in
+    // CompactTabletPickers, which only appends daf+0.5 when episodeIndex actually has an entry
+    // there). Study Mode sessions always key on a whole daf (StudySession.daf: Int); amud is
+    // carried separately via selectedAmud. This mirrors the iOS fix in ContentView.swift —
+    // there, setting selectedDaf to a daf+0.5 that wasn't a real episode entry fell outside
+    // dafPickerItems and made the UIKit-backed picker render the daf number blank; Compose's
+    // DropdownMenu doesn't blank out the same way, but the same needless conflation was here.
+    val studySessionSnapshot by studyViewModel.session.collectAsState()
+    val studySessionAmudSide = studySessionSnapshot?.let { s ->
+        val bIdx = s.amudBSectionIndex
+        if (bIdx != null && s.currentSectionIndex >= bIdx) 1 else 0
+    }
+    LaunchedEffect(studySessionSnapshot?.daf, studySessionAmudSide) {
+        val s = studySessionSnapshot ?: return@LaunchedEffect
+        val side = studySessionAmudSide ?: 0
+        val newSelectedDaf = s.daf.toDouble()
+        val dafChanged = newSelectedDaf != selectedDaf
+        val amudChanged = side != selectedAmud
+        if (!dafChanged && !amudChanged) return@LaunchedEffect
+        if (dafChanged) suppressDafSessionSync = true
+        contentViewModel.selectDaf(newSelectedDaf)
+        contentViewModel.selectAmud(side)
     }
 
     // Drive audioCurrentSegmentIndex from playback position — always fires regardless of which
@@ -238,6 +298,117 @@ fun ContentScreen(
         val bIdx = amudBSegmentIndex ?: return@LaunchedEffect
         val correctAmud = if (shiurSegmentIndex >= bIdx) 1 else 0
         if (correctAmud != selectedAmud) contentViewModel.selectAmud(correctAmud)
+    }
+    // Tracks the mode before the most recent change, so a direct Shiur<->Text switch can be
+    // told apart from entering either mode via the Daf image or on launch.
+    var previousMainContentMode by remember { mutableStateOf(mainContentMode) }
+    // On a direct Shiur<->Text switch, carry the exact position across via sefariaIndex
+    // (mirrors the iOS fix in ContentView.swift). Any other transition — from the Daf image,
+    // or on launch — keeps restoring each mode's own last-remembered position, unchanged.
+    //
+    // studySessionIsCurrent guards against a stale studyViewModel.session: Shiur mode does not
+    // restart the study session on a daf change (the LaunchedEffect(tractate.name, selectedDaf)
+    // above calls endSession() instead when not in Text mode), so studyViewModel.session can
+    // be null, or briefly still reference a previous daf, right as this fires. Without this
+    // guard, jumpToSection would silently no-op against a null/stale session and this effect
+    // would return early without ever starting a fresh session for the daf actually selected —
+    // leaving Text mode stuck, or (if the session was stale rather than null) showing the wrong
+    // daf's text while the shiur pill strip (always fresh per daf) shows the current daf's titles.
+    LaunchedEffect(mainContentMode) {
+        val fromMode = previousMainContentMode
+        previousMainContentMode = mainContentMode
+        val studySessionIsCurrent = studyViewModel.session.value?.tractate == tractate.name
+            && studyViewModel.session.value?.daf == selectedDaf.toInt()
+        if (mainContentMode == MainContentMode.TEXT) {
+            if (fromMode == MainContentMode.SHIUR && studySessionIsCurrent) {
+                val segs = ShiurClient.segments.value
+                val sefariaIdx = segs.getOrNull(ShiurClient.currentSegmentIndex.value)?.sefariaIndex
+                if (sefariaIdx != null) {
+                    studyViewModel.jumpToSection(sefariaIdx)
+                    return@LaunchedEffect
+                }
+            }
+            val session = studyViewModel.session.value ?: return@LaunchedEffect
+            val sameDaf = lastTextTractate == tractate.name && lastTextDaf == selectedDaf
+            if (sameDaf && lastTextSectionIndex > 0) {
+                studyViewModel.jumpToSectionAt(minOf(lastTextSectionIndex, session.sections.size - 1))
+            } else if (selectedAmud == 1) {
+                val bIdx = session.amudBSectionIndex
+                if (bIdx != null) studyViewModel.jumpToSectionAt(bIdx)
+            }
+        } else if (mainContentMode == MainContentMode.SHIUR && fromMode == MainContentMode.TEXT && studySessionIsCurrent) {
+            val curSession = studyViewModel.session.value
+            val firstSegIdx = curSession?.currentSection?.firstSegmentIndex
+            if (curSession != null && firstSegIdx != null) {
+                val nextIndex = curSession.currentSectionIndex + 1
+                val rangeEnd = if (nextIndex < curSession.sections.size)
+                    curSession.sections[nextIndex].firstSegmentIndex else Int.MAX_VALUE
+                val segs = ShiurClient.segments.value
+                // Prefer the segment explicitly navigated to (a pill tap), as long as it's still
+                // within the current section's range — the user may have tapped a segment
+                // anchored mid-section, and switching to Shiur should land on exactly that one.
+                // Falls back to a point lookup at the section's start otherwise (a section
+                // reached by scrolling or Prev/Next, not a pill tap).
+                val activeIdx = studyViewModel.activeSefariaIndex.value
+                val explicitIdx = activeIdx?.takeIf { it >= firstSegIdx && it < rangeEnd }?.let { idx ->
+                    segs.indexOfFirst { it.sefariaIndex == idx && it.matched == true }.takeIf { it >= 0 }
+                }
+                val owning = explicitIdx ?: ShiurClient.owningSegmentIndex(firstSegIdx, segs)
+                owning?.let { ShiurClient.jumpToSegment(it) }
+            }
+        }
+    }
+    // Restore persisted content mode on first app launch only (sentinel "" = not yet loaded).
+    // If currentContentMode is already set (non-empty), we are returning from in-session
+    // navigation (e.g. Settings) and the remember initializer already has the correct mode —
+    // do NOT override it with the DataStore value, which may be stale from a previous session.
+    LaunchedEffect(lastContentModeStr) {
+        if (lastContentModeStr.isEmpty()) return@LaunchedEffect
+        if (contentViewModel.currentContentMode.value.isNotEmpty()) return@LaunchedEffect
+        val restored = MainContentMode.entries.firstOrNull { it.name == lastContentModeStr }
+            ?: MainContentMode.DAF
+        if (restored != mainContentMode) {
+            mainContentMode = restored
+            if (restored == MainContentMode.TEXT &&
+                studyViewModel.session.value == null && !studyViewModel.isLoadingText.value) {
+                val sameDaf = lastTextTractate == tractate.name && lastTextDaf == selectedDaf
+                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode,
+                    startAtAmudB = !sameDaf && selectedAmud == 1,
+                    startAtSectionIndex = if (sameDaf && lastTextSectionIndex > 0) lastTextSectionIndex else null)
+            }
+        }
+    }
+    // Persist content mode whenever it changes — in-memory first (instant), DataStore async.
+    LaunchedEffect(mainContentMode) {
+        contentViewModel.currentContentMode.value = mainContentMode.name
+        contentViewModel.saveContentMode(mainContentMode.name)
+    }
+    // Save text section position whenever it changes in text mode.
+    val currentSectionIndex = studyViewModel.session.collectAsState().value?.currentSectionIndex
+    LaunchedEffect(currentSectionIndex) {
+        if (mainContentMode == MainContentMode.TEXT && currentSectionIndex != null) {
+            contentViewModel.saveTextPosition(tractate.name, selectedDaf, currentSectionIndex)
+        }
+    }
+    // Save shiur segment position whenever it changes (in shiur mode or on tablet where shiur is always visible).
+    LaunchedEffect(shiurSegmentIndex) {
+        if (mainContentMode == MainContentMode.SHIUR) {
+            contentViewModel.saveShiurPosition(tractate.name, selectedDaf, shiurSegmentIndex)
+        }
+    }
+    // On first segment load after launch, restore shiur to the exact saved position (or amud B).
+    LaunchedEffect(amudBSegmentIndex) {
+        val bIdx = amudBSegmentIndex ?: return@LaunchedEffect
+        if (shiurInitialRestoreDone) return@LaunchedEffect
+        shiurInitialRestoreDone = true
+        if (mainContentMode != MainContentMode.SHIUR) return@LaunchedEffect
+        if (ShiurClient.currentSegmentIndex.value != 0) return@LaunchedEffect
+        val sameDaf = lastShiurTractate == tractate.name && lastShiurDaf == selectedDaf
+        if (sameDaf && lastShiurSegmentIndex > 0) {
+            ShiurClient.jumpToSegment(lastShiurSegmentIndex)
+        } else if (selectedAmud == 1) {
+            ShiurClient.jumpToSegment(bIdx)
+        }
     }
     // Auto-refresh episode index when SoundCloud stream resolution fails, then retry once.
     val resolutionFailed by audioViewModel.resolutionFailed.collectAsState()
@@ -387,6 +558,7 @@ fun ContentScreen(
             )
         }
     ) { padding ->
+        // isTablet is derived from configuration — compute rightPanelMode here for use below
         if (isTablet) {
             // ── Tablet: two-column layout with draggable divider ──────────────
             val minLeftPx = with(density) { 200.dp.toPx() }
@@ -740,7 +912,6 @@ fun ContentScreen(
                                 else -> {
                                     StudyModeContent(
                                         studyViewModel = studyViewModel,
-                                        bookmarkViewModel = bookmarkViewModel,
                                         contentViewModel = contentViewModel,
                                         resourcesViewModel = resourcesViewModel,
                                         isInline = true,
@@ -751,7 +922,7 @@ fun ContentScreen(
                                         },
                                         onPrintTranslation = {
                                             val s = studyViewModel.session.value
-                                            if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
+                                            if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value, s.precedingContext, s.followingContext), printFontSize, printLineSpacing)
                                         },
                                         modifier = Modifier.fillMaxSize()
                                     )
@@ -801,58 +972,26 @@ fun ContentScreen(
                         }
                     )
                 }
-                // Daf / Text / Shiur chips
+                // Daf / Text / Shiur pill
                 Spacer(Modifier.width(14.dp))
-                Row(horizontalArrangement = Arrangement.spacedBy((-4).dp)) {
-                    FilterChip(
-                        selected = mainContentMode == MainContentMode.DAF,
-                        onClick = { mainContentMode = MainContentMode.DAF },
-                        label = { Text("Daf") },
-                        colors = FilterChipDefaults.filterChipColors(
-                            labelColor = appFg,
-                            selectedLabelColor = appFg,
-                            selectedContainerColor = appFg.copy(alpha = 0.25f)
-                        ),
-                        border = FilterChipDefaults.filterChipBorder(
-                            enabled = true, selected = mainContentMode == MainContentMode.DAF,
-                            borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
-                        )
-                    )
-                    FilterChip(
-                        selected = mainContentMode == MainContentMode.TEXT,
-                        onClick = {
-                            mainContentMode = MainContentMode.TEXT
-                            if (studyViewModel.session.value == null && !studyViewModel.isLoadingText.value) {
-                                resourcesViewModel.reset()
-                                studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode)
-                            }
-                        },
-                        label = { Text("Text") },
-                        colors = FilterChipDefaults.filterChipColors(
-                            labelColor = appFg,
-                            selectedLabelColor = appFg,
-                            selectedContainerColor = appFg.copy(alpha = 0.25f)
-                        ),
-                        border = FilterChipDefaults.filterChipBorder(
-                            enabled = true, selected = mainContentMode == MainContentMode.TEXT,
-                            borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
-                        )
-                    )
+                Row(
+                    modifier = Modifier.border(1.dp, appFg.copy(alpha = 0.4f), RoundedCornerShape(10.dp))
+                ) {
+                    ContentModeSegment("Daf", mainContentMode == MainContentMode.DAF, appFg) {
+                        mainContentMode = MainContentMode.DAF
+                    }
+                    ContentModeSegment("Text", mainContentMode == MainContentMode.TEXT, appFg) {
+                        mainContentMode = MainContentMode.TEXT
+                        if (studyViewModel.session.value == null && !studyViewModel.isLoadingText.value) {
+                            resourcesViewModel.reset()
+                            studyViewModel.startSession(tractate.name, selectedDaf.toInt(), studyMode, quizMode,
+                                startAtAmudB = selectedAmud == 1)
+                        }
+                    }
                     if (shiurRewrite != null) {
-                        FilterChip(
-                            selected = mainContentMode == MainContentMode.SHIUR,
-                            onClick = { mainContentMode = MainContentMode.SHIUR },
-                            label = { Text("Shiur") },
-                            colors = FilterChipDefaults.filterChipColors(
-                                labelColor = appFg,
-                                selectedLabelColor = appFg,
-                                selectedContainerColor = appFg.copy(alpha = 0.25f)
-                            ),
-                            border = FilterChipDefaults.filterChipBorder(
-                                enabled = true, selected = mainContentMode == MainContentMode.SHIUR,
-                                borderColor = appFg.copy(alpha = 0.5f), selectedBorderColor = Color.Transparent
-                            )
-                        )
+                        ContentModeSegment("Shiur", mainContentMode == MainContentMode.SHIUR, appFg) {
+                            mainContentMode = MainContentMode.SHIUR
+                        }
                     }
                 }
             }
@@ -865,7 +1004,6 @@ fun ContentScreen(
                         Column(Modifier.fillMaxSize()) {
                             StudyModeContent(
                                 studyViewModel = studyViewModel,
-                                bookmarkViewModel = bookmarkViewModel,
                                 contentViewModel = contentViewModel,
                                 resourcesViewModel = resourcesViewModel,
                                 textOnly = true,
@@ -876,7 +1014,7 @@ fun ContentScreen(
                                 },
                                 onPrintTranslation = {
                                     val s = studyViewModel.session.value
-                                    if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value), printFontSize, printLineSpacing)
+                                    if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value), printFontSize, printLineSpacing)
                                 },
                                 modifier = Modifier.weight(1f).fillMaxWidth()
                             )
@@ -1003,6 +1141,55 @@ fun ContentScreen(
                             Spacer(Modifier.width(6.dp))
                             Text("Study")
                         }
+                    }
+                }
+            }
+
+            // Text mode action row — Listen + Study buttons below the text content.
+            // Only shown when audio is stopped; audio-playing state is handled by the bar below.
+            if (mainContentMode == MainContentMode.TEXT && isAudioStopped) {
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(appBg)
+                        .padding(horizontal = 16.dp, vertical = 6.dp),
+                    horizontalArrangement = Arrangement.spacedBy(8.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    if (hasAudio || isLoadingFeed) {
+                        FilledTonalButton(
+                            onClick = {
+                                val url = audioUrl ?: return@FilledTonalButton
+                                hasAutoRefreshedForAudio = false
+                                val startAt = shiurSegments.getOrNull(shiurSegmentIndex)
+                                    ?.takeIf { shiurSegmentIndex > 0 }?.seconds?.toFloat() ?: 0f
+                                audioViewModel.play(url, "${tractate.name} ${FeedManager.dafLabel(selectedDaf)}", startAt)
+                            },
+                            enabled = hasAudio,
+                            modifier = Modifier.weight(1f),
+                            colors = ButtonDefaults.filledTonalButtonColors(
+                                disabledContainerColor = appFg.copy(alpha = 0.12f),
+                                disabledContentColor = appFg.copy(alpha = 0.45f)
+                            )
+                        ) {
+                            if (isLoadingFeed && !hasAudio) {
+                                CircularProgressIndicator(Modifier.size(16.dp), strokeWidth = 2.dp)
+                                Spacer(Modifier.width(6.dp))
+                                Text("Loading…")
+                            } else {
+                                Icon(Icons.Default.PlayArrow, null, Modifier.size(18.dp))
+                                Spacer(Modifier.width(6.dp))
+                                Text("Listen")
+                            }
+                        }
+                    }
+                    FilledTonalButton(
+                        onClick = { onStartStudy(tractate.name, selectedDaf.toInt(), studyMode, quizMode) },
+                        modifier = Modifier.weight(1f)
+                    ) {
+                        Icon(Icons.AutoMirrored.Filled.MenuBook, null, Modifier.size(18.dp))
+                        Spacer(Modifier.width(6.dp))
+                        Text("Study")
                     }
                 }
             }
@@ -1424,6 +1611,29 @@ private fun CompactTabletPickers(
                 }
             }
         }
+    }
+}
+
+@Composable
+private fun ContentModeSegment(
+    label: String,
+    selected: Boolean,
+    fg: Color,
+    onClick: () -> Unit
+) {
+    Box(
+        modifier = Modifier
+            .clip(RoundedCornerShape(9.dp))
+            .background(if (selected) fg.copy(alpha = 0.25f) else Color.Transparent)
+            .clickable(onClick = onClick)
+            .padding(horizontal = 10.dp, vertical = 5.dp),
+        contentAlignment = Alignment.Center
+    ) {
+        Text(
+            text = label,
+            style = androidx.compose.material3.MaterialTheme.typography.labelMedium,
+            color = fg
+        )
     }
 }
 

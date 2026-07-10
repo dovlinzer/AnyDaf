@@ -33,7 +33,9 @@
           "display_title": "Case Structure",
           "timestamp": "03:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Husband with Blemishes After Marriage: Asymmetry Between Genders",
@@ -65,7 +67,9 @@
           "display_title": "Halacha Ruling",
           "timestamp": "11:34"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Intolerable Conditions: Forced Divorce Beyond Physical Blemishes",
@@ -102,7 +106,9 @@
           "display_title": "Food Refusal",
           "timestamp": "22:51"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Scope of Forced Divorce: Biblical Violations vs. Happy Marriages",
@@ -134,7 +140,9 @@
           "display_title": "Happy Marriage",
           "timestamp": "30:01"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Halacha l'Ma'aseh: Rambam and Rama on Post-marital Blemishes and Forced Divorce",
@@ -161,7 +169,9 @@
           "display_title": "Gender Asymmetry",
           "timestamp": "40:00"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Aggadic Digressions: Ba'alei Raatan and Stories of Sages",
@@ -198,7 +208,9 @@
           "display_title": "Babylon Prevention",
           "timestamp": "57:26"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -464,5 +476,6 @@
         "45:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

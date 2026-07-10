@@ -33,7 +33,9 @@
           "display_title": "Resolution on Olah",
           "timestamp": "07:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Taanit and Yahrtzeit: Days as Objects of Neder Status",
@@ -65,7 +67,9 @@
           "display_title": "Kraft Cheese Example",
           "timestamp": "21:38"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Teruma and Lachmei Todah: The Limits of B'Ikaro K'Matpis",
@@ -92,7 +96,9 @@
           "display_title": "B'Hashta Interpretation",
           "timestamp": "28:13"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Case of Bechor: Is It a Davar Hanadur?",
@@ -124,7 +130,9 @@
           "display_title": "Sanctity Discussion",
           "timestamp": "31:02"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -417,5 +425,6 @@
         "30:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

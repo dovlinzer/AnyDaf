@@ -23,7 +23,9 @@
           "display_title": "Calev & Miriam",
           "timestamp": "00:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Genealogy of Miriam and the Descent of David from Calev: Textual Integration and Interpretation",
@@ -55,7 +57,9 @@
           "display_title": "Path to David",
           "timestamp": "10:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pharaoh's Three Decrees and Amram's Response: Divorce, Remarriage, and Miriam's Counsel",
@@ -87,7 +91,9 @@
           "display_title": "Remarriage Celebration",
           "timestamp": "15:43"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Yocheved's Pregnancy and Birth: The Mystery of Her Age and Conception",
@@ -119,7 +125,9 @@
           "display_title": "Three-Month Pregnancy",
           "timestamp": "20:38"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Moses' Birth and the Miraculous Signs: Light, Purity, and Hidden Pregnancy",
@@ -146,7 +154,9 @@
           "display_title": "Three-Month Hiding",
           "timestamp": "25:32"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Basket and Concealment: Preparation and Divine Protection in the Nile",
@@ -178,7 +188,9 @@
           "display_title": "Maidservants Killed",
           "timestamp": "31:40"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Discovery and Rescue: Divine Presence, Recognition, and the Arm Stretched",
@@ -215,7 +227,9 @@
           "display_title": "Unwitting Prophecy",
           "timestamp": "38:02"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "The Astrologers' Misunderstanding and the True Waters of Contention: Merivah, Not the Nile",
@@ -242,7 +256,9 @@
           "display_title": "Moshe's Credit",
           "timestamp": "41:43"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -483,5 +499,6 @@
         "22:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

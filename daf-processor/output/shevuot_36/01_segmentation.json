@@ -18,7 +18,9 @@
           "display_title": "Sotah Parallels",
           "timestamp": "01:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Deriving Shvuat Ha'edut from Sotah: Gzerah Shava vs. Semantic Analysis",
@@ -40,7 +42,9 @@
           "display_title": "Word Meaning vs. Gzerah",
           "timestamp": "08:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Distinguishing Alah and Shvua in Shvuat Ha'edut: Analysis of Veshama Kol Alah",
@@ -62,7 +66,9 @@
           "display_title": "Arur as Shvua",
           "timestamp": "20:33"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Semantic Equivalence of Curse and Oath: Cases of Joshua, Saul, and Yonatan",
@@ -84,7 +90,9 @@
           "display_title": "Curse-Oath Unity",
           "timestamp": "25:01"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "God's Name Requirement: Implicit vs. Explicit in Oaths and Curses",
@@ -101,7 +109,9 @@
           "display_title": "Implicit God's Name",
           "timestamp": "27:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Practical Enunciation: Euphemizing Curses to Avoid Self-Cursing",
@@ -118,7 +128,9 @@
           "display_title": "Third Person Usage",
           "timestamp": "42:27"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Blessing as Alternative to Curse: Rabbi Meir vs. Rabbis",
@@ -140,7 +152,9 @@
           "display_title": "Rabbis Position",
           "timestamp": "45:01"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Requirement of Bilateral Statements: Monetary vs. Prohibition Cases",
@@ -167,7 +181,9 @@
           "display_title": "Ha'edut Monetary",
           "timestamp": "56:00"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -607,5 +623,6 @@
         "22:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 29
 }

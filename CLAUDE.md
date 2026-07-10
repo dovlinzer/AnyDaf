@@ -252,6 +252,63 @@ Simple `VStack` with `navBarSafeArea + portraitTopPad` top spacer (to clear the 
 
 ---
 
+## Study Mode Tab Nav Buttons — Per-Tab, Not Shared (iOS)
+
+**iOS gotcha, source of a recurring bug class.** Each Study Mode tab in `StudyModeView.swift` (Translation, Summary, Quiz) renders its **own** copy of the bottom nav row inside its own tab content view, rather than sharing one component. Each copy independently needs the same boundary logic:
+
+- Section 1: left button must be "Prev Daf" (`onPreviousDaf()`), not a disabled/hidden "Previous".
+- Last section: right button must be "Next Daf" (`onNextDaf()`), not a disabled/hidden "Next".
+
+The Translation tab (~line 1214) has always had this correctly. The Summary tab did not — it simply hid the button at each boundary (`if sectionNumber > 1` / `if sectionNumber < totalSections`), silently dropping the ability to cross a daf boundary. Fixed to mirror the Translation tab's pattern. **The Quiz tab's post-answer nav row (~line 763) has the same hide-at-boundary bug and has not been fixed** — check it if quiz nav is ever reported broken.
+
+**Android does not have this bug class** — `StudyModeScreen.kt` uses a single shared bottom nav `Row` (~line 501) for all non-textOnly tabs (Summary/Quiz/Resources), computed once from `isFirst`/`isLast`/`canGoPrevDaf`/`canGoNextDaf`, so the daf-boundary fallback is already correct everywhere on that platform.
+
+**When fixing nav-button logic in Study Mode on iOS, check both the Summary and Quiz tabs for the same pattern — don't assume a fix in one tab covers the others.**
+
+---
+
+## Prev Daf Hangs on Summary/Quiz Tab (iOS, fixed)
+
+**The bug:** pressing "Next Daf" always worked, but "Prev Daf" while already on the Summary or Quiz tab left the UI spinning on the loading skeleton forever, even though the daf text itself (Translation tab) loaded fine.
+
+**Root cause:** `onPreviousDaf` calls `startSession(..., startAtLastSection: true)`, which lands `currentSectionIndex` on the *last* section instead of 0. During `startSession`, `isLoadingText = true` unmounts `SectionStudyView` entirely (`StudyModeView`'s `if manager.isLoadingText { loadingState(...) } else { ... SectionStudyView(...) }`), and it remounts fresh once `isLoadingText` goes back to `false` — already showing the new session's starting index. SwiftUI's `.onChange(of:)` only fires on a *transition* it can observe; it does not fire for a value a freshly-mounted view already holds on first appearance. So `.onChange(of: manager.session?.currentSectionIndex)` (the handler that calls `loadStudyContentForCurrentSection()`) never fires for that landing index, and nothing else does either — `prefetchAllSections()` only prefetched indices 0 and 1, never the actual starting index. "Next Daf" happened to work only because it always lands on index 0, which prefetch already covers regardless of any onChange firing.
+
+**Fix (`StudyModeView.swift`):** the existing `.onChange(of: manager.isLoadingText)` handler (already needed because it's the one place that reliably fires "session finished loading" regardless of whether `SectionStudyView` existed a moment ago — see the comment above it) now also calls `loadStudyContentForCurrentSection()` when `selectedTab` is Summary/Quiz, mirroring what `.onChange(of: selectedTab)` already does for the tab-switch case.
+
+**Fix (`StudySessionManager.swift`):** `prefetchAllSections()` now prefetches the session's actual starting index (`session.currentSectionIndex`, which may be the last section after Prev Daf) in addition to 0 and 1 — otherwise Prev Daf still had to wait for a full uncached Claude call instead of hitting the wait-path for an already-in-flight prefetch. Also hardened `loadStudyContentForCurrentSection()`'s fast-path (`summary != nil`) to explicitly clear `isLoadingStudyContent` rather than leaving it untouched — a stale in-flight call for a since-abandoned index (e.g. rapid section changes) could otherwise strand the flag `true` and keep the skeleton showing even once the current section's content is ready.
+
+**Android does not have this bug** — `StudyModeScreen.kt`'s `LaunchedEffect(session?.currentSectionIndex) { ... }` sits outside any loading-state conditional, and Compose's `LaunchedEffect` runs its block on first composition regardless of whether the key "changed" from a prior value, unlike SwiftUI's `onChange`. No Android fix needed.
+
+---
+
+## Daf Number Went Blank in the Top Picker After Crossing Amud A/B (both platforms, fixed)
+
+**The bug:** navigating to amud b via Study Mode — either Prev Daf landing on the previous daf's last section, or paging Next across the a/b boundary within the same daf — correctly moved the amud pill to "b", but the daf number next to it went blank.
+
+**Root cause:** the picker-sync handler described above (`onChange(of: studySessionDafSide)` on iOS, the equivalent `LaunchedEffect(studySessionSnapshot?.daf, studySessionAmudSide)` on Android) encoded "amud b" by setting `selectedDaf = daf + 0.5` — reusing the same fractional-daf convention that `dafPickerItems` uses for genuine **half-daf audio episodes** (some feeds split content not at the amud boundary; `dafPickerItems` only appends `daf + 0.5` when `feedManager.episodeIndex` actually has an entry there). Study Mode sessions always key on a whole daf (`StudySession.daf: Int` / `daf: Int`); amud is already carried separately via `selectedSide`/`selectedAmud`. Setting `selectedDaf` to an arbitrary `daf + 0.5` that wasn't a real episode entry made it fall outside `dafPickerItems`, and on iOS the UIKit-backed `.menu`-style `Picker` (with its selection now unmatched to any `ForEach` tag) rendered the daf number blank. Android's Compose `DropdownMenu`-based picker doesn't blank out the same way (its button `Text` reads `selectedDaf` directly, not gated on a list match), but the same needless conflation was present there too.
+
+**Fix (both platforms):** the sync handler now always sets `selectedDaf` to the plain whole daf number (`Double(newValue.daf)` on iOS, `s.daf.toDouble()` on Android), never `+ 0.5`. Amud is carried purely via `selectedSide`/`selectedAmud`, as it already was everywhere else in the app. iOS's `dafChanged` detection was updated to compare `newValue.daf != Int(selectedDaf)` so it still works correctly even when `selectedDaf` itself happens to be sitting on a genuine half-daf audio episode value.
+
+---
+
+## Picker Readout Desync from Study Mode Navigation (both platforms)
+
+**The bug:** the top-level tractate/daf/amud picker (`compactPickers` on iOS, the `selectedDaf`/`selectedAmud` picker row on Android) is driven by its own state (`selectedDaf`/`selectedSide` on iOS; `ContentViewModel.selectedDaf`/`selectedAmud` on Android) — separate from the Study Mode session's own `daf`/`currentSectionIndex`. Study Mode's internal header (`StudyModeView.swift`'s `header`, `StudyModeScreen.kt`'s equivalent) reads directly from the session and always updated correctly. But the outer picker readout did **not** follow when Study Mode crossed a daf boundary (Prev Daf/Next Daf) or crossed the amud A/B boundary while paging through sections within the same daf — it silently went stale, e.g. still showing "Bava Kamma 45a" in the picker while the Study panel had already moved to 45b or 46a.
+
+**Root cause:** `onNextDaf`/`onPreviousDaf` (iOS, in `StudyModeView.swift`) and the equivalent nav-row `onClick` handlers (Android, in `StudyModeScreen.kt`) call `manager.startSession(...)` / `studyViewModel.startSession(...)` directly — they never touch the outer picker state, because `StudyModeView`/`StudyModeScreen` don't own it (`ContentView`/`ContentScreen` do).
+
+**Fix (implemented on both platforms):** `ContentView.swift` and `ContentScreen.kt` each now observe the study session's `daf` + derived amud side (`currentSectionIndex >= amudBSectionIndex`) and sync it back into the picker state whenever it changes.
+
+**The trap when implementing this:** both platforms already have a *reactive* handler that fires whenever the picker's `selectedDaf` changes — on iOS, `.onChange(of: selectedDaf)` (restarts the study session or reloads shiur); on Android, `LaunchedEffect(tractate.name, selectedDaf)` (restarts the session **or calls `studyViewModel.endSession()` outside Text mode** — this last part is not obvious and would silently kill the very session you just navigated into, e.g. when Study Mode is showing in an iPad/tablet side panel rather than Text mode). Naively setting `selectedDaf` to mirror the session would immediately trigger this handler and undo/clobber the navigation. Both platforms now use a one-shot guard flag (`suppressDafSessionSync` / `suppressSideSessionSync` on iOS, `suppressDafSessionSync` on Android — Android didn't need a side-specific guard since it has no reactive handler keyed on `selectedAmud` alone) set immediately before the programmatic assignment and cleared the first time the corresponding change-handler observes it. This mirrors the existing `suppressTractateReset` idiom already used in `ContentView.swift` for bookmark navigation — **use a guard flag, don't call the setter and hope the redundant reactive side effects are harmless.**
+
+**Do not have the sync path call through `.onChange(of: selectedSide)` (iOS) / any `selectedAmud`-driven amud-jump logic without checking first** — those handlers also nudge `shiurClient` position and can seek live audio. Study Mode navigation should never move the (independently-tracked) shiur/audio position — see [Audio / Shiur Decoupling Architecture](#audio--shiur-decoupling-architecture-this-is-a-critical-architectural-pattern-read-carefully-before-touching-anything-related-to-audio-segments-shiur-segments-or-the-chapter-strip). The guard flags make this a no-op automatically since the suppressed handler returns before reaching that logic.
+
+**Fixed:** iOS's `onNextDaf`/`onPreviousDaf` (`StudyModeView.swift`) now check tractate start/end boundaries the same way Android's `canGoPrevDaf`/`canGoNextDaf` do (`ContentScreen.kt`/`StudyModeScreen.kt` check `tractateObj.startDaf`/`endDaf`). `onPreviousDaf` used to hardcode `s.daf > 2`, which was wrong for tractates that don't start at daf 2 (`Kinnim` starts at 22, `Tamid` at 25, `Middot` at 34 — see `Tractate.swift`); `onNextDaf` had no upper guard at all. Both closures now look up the session's tractate in `allTractates` and compare against its actual `startDaf`/`endDaf`.
+
+`SectionStudyView` also gained `canGoPrevDaf`/`canGoNextDaf` computed properties (same lookup) so the "Prev Daf"/"Next Daf" buttons are **hidden** (replaced with an empty `Spacer` to keep the two-button row balanced, mirroring Android's `Spacer(Modifier.weight(1f))` pattern) at the tractate's first/last daf — not just disabled-but-visible. Applied to both the Translation tab (~line 1242) and Summary tab (~line 937) nav rows. **The Quiz tab's post-answer nav row does not have "Prev Daf"/"Next Daf" buttons at all yet** (see above) — nothing to hide there until that gap is fixed.
+
+---
+
 ## iOS Picker Gotchas
 
 ### `@AppStorage` + Picker snap-back bug
@@ -319,7 +376,7 @@ All settings are persisted and must be added in four places when changed:
 |---------|-------------|-----------------|-----|
 | Quiz mode | `.multipleChoice` | `MULTIPLE_CHOICE` | `quizMode` |
 | Quiz source | `.dafText` | `DAF_TEXT` | `quizSource` |
-| Source display mode | `.toggle` | `TOGGLE` | `sourceDisplayMode` |
+| Text display mode | `.translation` | `TRANSLATION` | `textDisplayMode` |
 | White background | `false` | `false` | `useWhiteBackground` |
 
 ## Theming
@@ -332,10 +389,10 @@ All settings are persisted and must be added in four places when changed:
 
 ```swift
 // iOS (StudyModels.swift)
-enum QuizMode:   multipleChoice | flashcard | fillInBlank | shortAnswer
-enum QuizSource: summary | dafText
-enum SourceDisplayMode: toggle | alwaysShow | alwaysHide
-enum StudyMode:  facts | summary | quiz | resources
+enum QuizMode:       multipleChoice | flashcard | fillInBlank | shortAnswer
+enum QuizSource:     summary | dafText
+enum TextDisplayMode: source | translation | both
+enum StudyMode:      facts | summary | quiz | resources
 ```
 
 Android enums in `model/StudyModels.kt` mirror these exactly (SCREAMING_SNAKE_CASE).
@@ -457,73 +514,88 @@ Several non-obvious timing issues were worked out:
 
 ---
 
-## Planned Feature: Text View Segment Navigation
+## Text View Segment Navigation (implemented)
 
-**Status: Not started.** This extends the audio/shiur decoupling architecture to the Sefaria text view (Text mode on iPhone / Translation tab on iPad).
+Extends the shiur segment-pill navigation to the Sefaria text view (Text mode on iPhone / Translation tab on iPad): a pill strip to jump the text to a shiur macro segment, and automatic position hand-off when switching directly between Shiur mode and Text mode.
 
-### Goals
+### Data: `sefaria_index` mapping
 
-1. **A/B jump in text view** — pressing b/a scrolls the Sefaria text to the start of amud B/A (like it already does in shiur mode).
-2. **Segment strip in text view** — a horizontal pill strip showing the shiur's macro segments; tapping a pill scrolls the Sefaria text to the corresponding passage.
-3. **Full audio coupling** — same decoupling rules as shiur: when selected daf == playing daf, audio position and text scroll stay in sync; when dafs differ, they decouple.
+`find_sefaria_indices.py` (in `daf-processor/`) matches each shiur macro segment's Hebrew blockquote (from `03_final.md`) against the daf's flat Sefaria segment array (parsed from `sefaria.md`), writing `sefaria_index` into each macro segment of `01_segmentation.json`, plus `amud_b_sefaria_index` (= the count of amud A items, same value as `SefariaClient.fetchFullDaf`'s `a.count`). Purely local text matching — no API calls, free to re-run.
 
-### Sefaria Segment Numbering
+**Carry-forward for unmatched segments**: `shiur_discussion` segments (pure commentary, no direct Talmudic blockquote) have no text to match against Sefaria. These carry forward the most recently matched `sefaria_index` rather than being left unset — landing right after the Talmudic passage they're discussing is more useful than not being jumpable at all. Only segments before the *first* match in a daf are left with no `sefaria_index` (rare — a daf would have to open with discussion before any blockquote). Run across all `output/` dirs: 76.8% direct match, 13.5% carried forward, 9.8% genuinely unset (mostly the 5 dafs with corrupt `01_segmentation.json`, which `process_dir` now skips gracefully instead of crashing the whole batch).
 
-`SefariaClient.fetchText(tractate:daf:amud:)` returns `[String]` where each index is a verse/sentence. `fetchFullDaf` concatenates A + B, so `a.count` is the exact index where amud B begins. This index is known at fetch time but not currently stored or surfaced to the UI.
+After running, re-upload via `python upload_to_supabase.py` (default path, no `--sections` needed) — pushes the richer `segmentation` JSON blob into the existing `shiur_content` table, no schema change.
 
-### Pipeline Work (prerequisite)
+### Models
 
-A new post-processing pass is needed to map each shiur macro segment to a Sefaria segment index. **`shiur_sections` significantly shortens this work** — the `talmudic_text` column already contains the extracted Hebrew/Aramaic blockquote per macro segment, which is exactly what we'd match against Sefaria. No need to re-parse `03_final.md`.
+`ShiurSegment.sefariaIndex: Int?` (iOS `ShiurClient.swift`, Android `ShiurClient.kt`) and `ShiurSegmentation.amudBSefariaIndex: Int?` were already in place from an earlier session — decoded from `sefaria_index` / `amud_b_sefaria_index`.
 
-#### How `shiur_sections` fits in
+### Segment pill strip
 
-`upload_to_supabase.py --sections` already:
-- Aligns macro segments from `01_segmentation.json` to sections in `03_final.md`
-- Extracts the Hebrew/Aramaic + English blockquote as `talmudic_text`
-- Stores one row per talmudic/mishnah segment with matching `segment_index`
-- Skips `shiur_discussion` segments (pure commentary with no blockquote) — these have no `talmudic_text` to match
+Both platforms reuse the existing `shiurClient.segments` (same shiur, same titles) — no new data source, no prop drilling (it's a singleton on both platforms, same pattern as `ResourcesManager.shared`).
 
-So `shiur_sections` rows where `parent_segment_index IS NULL` are the macro-level talmudic/mishnah segments, and their `talmudic_text` is ready to use as the match source.
+- **iOS**: `SectionStudyView.textNavigationStrip` (`StudyModeView.swift`) — shown above the scrollable content, Translation tab only. Active pill = the shiur segment whose `sefariaIndex` is the closest one ≤ the current section's `firstSegmentIndex` (`activeShiurSegmentIndex`, a reverse scan of the same kind `jumpToSection(containing:)` already did forward). Tap calls a new `onJumpToSefariaIndex` closure threaded from `StudyModeView`, which calls the previously-unused `manager.jumpToSection(containing:)`. Pills for segments with no `sefariaIndex` are shown dimmed and disabled rather than hidden (keeps the strip's segment count/order legible).
+- **Android**: `TextNavigationStrip` (`StudyModeScreen.kt`), a `LazyRow` mirroring the existing shiur chip strip pattern in `ContentScreen.kt`. Tap calls `studyViewModel.jumpToSection(sefariaIndex)`.
 
-#### Matching plan
+**Not implemented**: audio-seek-on-tap for text pills (the shiur strip seeks playing audio on a same-daf tap; the text strip does not, to keep the change scoped — `SectionStudyView`/`StudyModeContent` don't have audio-player state threaded in). Also not implemented: pressing the a/b amud picker while already in Text mode does not scroll the text view directly (only the Shiur↔Text mode-switch sync below does).
 
-1. Add a `sefaria_index INTEGER` column to `shiur_sections`.
-2. Write a script `find_sefaria_indices.py` (modeled on `find_amud_b.py`) that for each `(tractate, daf)`:
-   a. Fetches Sefaria Hebrew segments via `SefariaClient` (or reads `sefaria.md` cache).
-   b. Queries `shiur_sections` for macro rows (`parent_segment_index IS NULL`) ordered by `segment_index`.
-   c. For each row with non-null `talmudic_text`: substring-match the Hebrew portion against the Sefaria segment array (strip vowels/punctuation for fuzzy tolerance; match on a 20–30 char run) → record the winning Sefaria segment index.
-   d. For `shiur_discussion` macro segments (not in `shiur_sections`): use the nearest preceding matched index.
-   e. Writes `sefaria_index` into each macro segment object in `01_segmentation.json` **and** updates `shiur_sections.sefaria_index` via Supabase REST.
-3. `upload_to_supabase.py` picks up the updated `01_segmentation.json` automatically since it uploads `segmentation` as a JSON blob — no schema change to `shiur_content` needed.
+### Bidirectional Shiur↔Text mode-switch sync
 
-Match against the **Hebrew** portion of `talmudic_text` only (before the English translation block), against the Hebrew Sefaria fetch. English translations vary too much by edition.
+On a **direct** switch between Shiur mode and Text mode (not via the Daf image, and not on launch — those still restore each mode's own last-remembered position, unchanged), position carries across via `sefariaIndex`:
 
-Also store `amud_b_sefaria_index` in the segmentation JSON — this comes for free from `SefariaClient.fetchFullDaf` since `a.count` is the exact Sefaria index where amud B begins.
+- Shiur → Text: read the shiur's current segment's `sefariaIndex`, call `jumpToSection(containing:)` / `jumpToSection(sefariaIndex)`.
+- Text → Shiur: read the current section's `firstSegmentIndex`, reverse-map to the owning shiur segment (same scan as the active-pill calculation), set the shiur's current segment index directly.
 
-### ShiurClient Changes
+**iOS** (`ContentView.swift`): `.onChange(of: mainContentMode)` already received `(oldValue, newValue)` but only used `newValue` — now branches on `oldValue` to detect the direct-switch case, falling back to the existing `lastTextSectionIndex`/`lastShiurSegmentIndex` restore otherwise. The iPad `iPadRightPanel` toggle (`.shiur`/`.study`) gets the same treatment — its Study panel defaults to the Translation tab, so it's the direct equivalent of iPhone's Text mode, and previously had no position sync there at all.
 
-`ShiurSegment` gains an optional `sefariaIndex: Int?` field (iOS) / `sefariaIndex: Int?` property (Android), decoded from `sefaria_index` in the JSON. No other model changes — the two-layer audio/content architecture already handles everything else.
+**Android** (`ContentScreen.kt`): a single `mainContentMode` state already covers both phone and tablet layouts (unlike iOS's split `mainContentMode`/`iPadRightPanel`), so one fix covers both form factors. This also **fixed a real bug**: the existing "switching to text mode" `LaunchedEffect` called `studyViewModel.jumpToSection(lastTextSectionIndex)` and `jumpToSection(bIdx)` — passing raw section indices to a function that expects a flat Sefaria index, which would pick the wrong section in general (coincidentally close only for very early sections in a daf). Fixed by adding `jumpToSectionAt(index)` (`StudySessionViewModel.kt`, direct index jump — the Android equivalent of iOS's already-existing `jumpToSectionAt`) and using it for the non-direct-switch restore path, reserving `jumpToSection(sefariaIndex)` for actual Sefaria-index lookups. Also added a `previousMainContentMode` tracker (Compose's `LaunchedEffect(mainContentMode)` doesn't get an old value for free like SwiftUI's `onChange` does) to detect the direct-switch case.
 
-`ShiurSegmentation` also gains `amudBSefariaIndex: Int?` — the Sefaria segment index where amud B begins (derived from `a.count` at fetch time, stored alongside `amud_b_timestamp`).
+### Two bugs found testing on Kiddushin 2 (both fixed, both platforms)
 
-### iOS App Changes
+**Bug 1 — wrong active pill from carried-forward `sefariaIndex` collisions.** Kiddushin 2's segmentation has four consecutive segments (`Ha-Isha Nikneit Mishna`, `Kiddushin vs. Nisu'in`, `Kesef Dispute`, `Intro to Kiddushin (II)`) all carrying `sefaria_index: 0` — only the first of the four actually matched a blockquote; the other three carried forward from it (see the carry-forward rule above). The active-pill scan (find the *last* segment with `sefariaIndex ≤ target`) picked the last of that run — `Intro to Kiddushin (II)` — even while viewing the Mishna itself (`sefariaIndex == 0` exactly), instead of the segment that actually matched there.
 
-- **A/B jump**: wire the existing `selectedSide` `onChange` to scroll the text view to `amudBSefariaIndex` (same pattern as shiur scrolling to `amudBSegmentIndex`).
-- **Segment strip**: show the same `audioSegments` / `audioCurrentSegmentIndex` pill strip above or below the Sefaria text view. Pill tap scrolls Sefaria text to `seg.sefariaIndex` + seeks audio (same-daf only). Audio position changes scroll text via the existing `onChange(of: shiurClient.audioCurrentSegmentIndex)` handler — add a branch that also scrolls the text view when in text mode.
-- **Text view layout**: remove the existing MISHNA/GEMARA section breaks; render as one continuous scrollable list. Each Sefaria segment gets a stable `.id(index)` so `proxy.scrollTo(sefariaIndex)` lands precisely.
+**Fix**: `activeShiurSegmentIndex` (iOS `SectionStudyView` in `StudyModeView.swift`), `shiurSegmentIndex(owning:)` (iOS `ContentView.swift`), and the equivalent scans in Android (`TextNavigationStrip` in `StudyModeScreen.kt`, and the Text→Shiur sync in `ContentScreen.kt`) now all check for an **exact** `sefariaIndex` match first (`firstIndex`/`indexOfFirst`, picking the earliest segment with that exact value) before falling back to "last segment strictly before target." This correctly resolves ties in favor of the real anchor; a position strictly *between* two anchors still falls back to the nearest-preceding-segment heuristic, which remains inherently approximate — there's no finer-grained data to resolve those cases better.
 
-### Android App Changes
+**Bug 2 — stale study session shows the wrong daf's text.** Shiur mode does not keep `studyManager`'s / `studyViewModel`'s study session in sync with daf changes — only Text mode's `onChange(of: selectedDaf)` path restarts it (Android additionally calls `endSession()` when leaving Text mode on a daf change, nulling it out). So changing the daf while in Shiur mode, then switching directly to Text mode, ran the new Shiur→Text sync against a **stale session still pointing at whatever daf was last actually visited in Text mode** — while the shiur pill strip (which always reloads correctly per daf via `ShiurClient`) showed the *current* daf's segment titles. The result: correct-looking pills next to text from a completely different daf.
 
-Symmetric with iOS. `LaunchedEffect(audioSegmentIndex)` already syncs audio→shiur; extend it to also scroll the text view when `mainContentMode == TEXT` and same-daf guard passes. `LaunchedEffect(isAudioStopped)` already calls `ShiurClient.snapshotAudioSegments()` — no change needed.
+**Fix (both platforms)**: added a `studySessionIsCurrent` guard — checks the loaded session's `tractate`/`daf` actually match the currently selected daf — before trusting the direct-switch jump in both directions (Shiur→Text and Text→Shiur), on both the iPhone/phone path and iOS's iPad `iPadRightPanel` path. When the guard fails, the code falls through to the existing (already-correct) restore-or-fresh-start logic instead of acting on stale data.
 
-### Coupling Rules (identical to shiur)
+### Bug 3 — found testing on Kiddushin 11: title-string matching is fundamentally unreliable (fixed, pipeline)
 
-| Situation | Behavior |
-|-----------|----------|
-| Pill tapped in text segment strip | Scroll text to `sefariaIndex` + seek audio (same-daf only) |
-| Audio advances to new segment | `updateCurrentSegment` fires → text scrolls to `sefariaIndex` (same-daf only) |
-| Selected daf ≠ playing daf | Text strip shows selected daf's segments; audio strip shows playing daf's segments; no cross-coupling |
-| User presses a/b | Text scrolls to amud boundary; audio seeks (same-daf only) |
+**The bug:** Kiddushin 11's very first segment (`Terumah: Erusin/Kiddushim`, the real start of the daf, "עד שתכנס לחופה") had `sefaria_index: None` and showed grayed out in the pill strip, even though its blockquote is right there in `03_final.md`.
+
+**Root cause:** `find_sefaria_indices.py` matched macro segments to `## ` headers in `03_final.md` by **exact title string** — but a macro's `title`/`display_title` come from pass 1 (segmentation), while the `## ` header text comes from pass 2/3 (rewrite + source insertion), a **separate Claude call**. The two are never guaranteed to produce identical text. In this case: `display_title` was `"Terumah: Erusin/Kiddushi…"` (pass 1's own 25-char truncation, with an ellipsis) while the actual `03_final.md` header was `"Terumah: Erusin/Kiddushim"` (pass 2/3's independently-written full text, coincidentally also 25 characters but with no ellipsis) — one character of difference was enough to make the dictionary lookup miss entirely, so the segment fell through to "no blockquote found" even though its content was right there.
+
+**Scope**: checked across all 2,363 dafs — 2,256 (95.5%) have the exact same *count* of macro segments as `## ` headers, in the same chronological order (pass 2/3 doesn't reorder or drop segments, just rewrites their titles/prose). Title-string matching was silently failing on some fraction of segments in most dafs, not just the unusual ones.
+
+**Fix**: `find_sefaria_indices.py` now matches **positionally** (macro segment *i* ↔ the *i*-th `## ` header) whenever the counts match, which is far more reliable than joining on independently-generated title text. Only falls back to the old title-based lookup when counts don't match (a genuine pass 2/3 split/merge, where position can't be assumed to line up). Re-running across all dafs improved direct matches from 76.8% → 79.9% and cut unmatched segments from 9.8% → 8.7%.
+
+### Eliminating the remaining unmatched segments (0% unset now)
+
+After the positional-matching fix, 8.7% of segments still had no `sefaria_index` at all. Checked every one of them across the whole corpus: **100% were leading segments before any blockquote match had been found yet in that daf** — typically an "Introduction/Overview" segment discussing the masechta or sugya structure before the Gemara's first direct quote. There were zero cases where carry-forward *should* have kicked in from a real prior match and silently failed to — the mechanism was working correctly, it just had nothing to carry forward from yet in these cases.
+
+**Fix**: `last_idx` now initializes to `0` instead of `None`, so leading unmatched segments carry forward to the start of the daf's own text instead of being left unset. An "introduction to this sugya" segment landing at the very beginning of the daf is the one sensible default available — not a guess, just the natural anchor for material that introduces what follows. This removed the `unset` case entirely (the `else: macro.pop(...)` branch and its now-impossible condition were deleted). Coverage: 79.9% direct match + 20.1% carried forward, 0% unmatched.
+
+### Inline segment-title headers in the Text view (implemented)
+
+Beyond the pill strip, the shiur segment's title now also appears as a small heading directly above the Sefaria text, right where that segment begins — an organizing guidepost while reading, and a much faster way to visually spot a bad `sefariaIndex` match than tapping through pills one at a time (a header appearing in a clearly wrong spot is immediately obvious).
+
+**Where it appears**: since the Translation tab shows one `StudySection` at a time (paged via Next/Previous, not a continuous scroll of the whole daf), the header can only land at *section* granularity, not the exact word a quote begins at. It shows above a section's text only when that section is the **first** one to reach a given shiur segment — computed by comparing the current section's owning segment (via the same "owning segment" scan the pill strip uses) against the previous section's.
+
+**iOS** (`StudyModeView.swift`): `SectionStudyView.activeShiurSegmentIndex` was refactored into a parameterized `owningShiurSegmentIndex(for:)` (later `forRangeStarting:endingBefore:`, see Bug 4 below) so it could be reused for both the current section and (for comparison) the previous one. New `allSections: [StudySection]` property (the full ordered list, passed from `StudyModeView` — used only for this previous-section lookup, not for rendering). `newShiurSegmentHeader: ShiurSegment?` computes the comparison; `segmentTitleHeader` renders it inside `translationCard`, right after the pill/legend divider in both the Hebrew and English-only branches. Uses `displayTitle` (the same brief label already shown in both the Shiur and Text pill strips) — originally used the full `title`, but switched to keep one consistent label per segment across Shiur and Text rather than introducing a third, more verbose variant just for this header.
+
+**Android** (`StudyModeScreen.kt`, `SectionStudyView.kt`): the "owning segment" scan was already duplicated three times across the Android codebase (Text↔Shiur sync in `ContentScreen.kt`, `TextNavigationStrip`'s active-pill computation) — factored into a shared `ShiurClient.owningSegmentIndex(...)` and all three call sites (including this new one) now use it. `StudyModeContent` computes `newSegmentTitle: String?` the same way as iOS and passes it into `TranslationTab`, which renders it just after the pill/legend divider.
+
+### Bug 4 — found testing on Hullin 2: segments anchored mid-section were invisible to the header/active-pill (fixed, both platforms)
+
+**The bug:** tapping a pill (e.g. "Tamei Shochet Reading", `sefariaIndex: 11`) correctly jumped the text to the right section — but no header appeared, and the pill itself never showed as active/highlighted.
+
+**Root cause:** `jumpToSection(containing:)` (the pill-tap handler) finds the *last text section* whose `firstSegmentIndex ≤` the tapped `sefariaIndex` — correct, and sections are coarser than shiur segments, so the section it lands on can easily have a `firstSegmentIndex` well below the tapped segment's own `sefariaIndex` (e.g. a section spanning raw indices 9–15 for a segment anchored at 11). But the "which segment is active here" computation (`activeShiurSegmentIndex` / `TextNavigationStrip`'s `activeIndex`) derived its answer from that section's *own* `firstSegmentIndex` alone (9), not from the tapped segment's `sefariaIndex` (11) — so it re-resolved to whatever *earlier* segment happens to own position 9, not the one just tapped. Any segment whose real anchor begins partway through a section, rather than exactly at its start, was structurally invisible to both the header and the active-pill highlight — a general gap, not specific to this daf.
+
+**Fix (both platforms):** the "owning segment" lookup was changed from a single point to a **range** — a section's full span, from its own `firstSegmentIndex` up to (but excluding) the *next* section's `firstSegmentIndex`. Among shiur segments whose `sefariaIndex` falls inside that range, it now prefers the one with the **largest** `sefariaIndex` (the most specific anchor actually reached within the section) rather than the smallest/earliest. Segments tied at that same largest value (carried-forward duplicates) still resolve to the **first** one in array order, preserving the Bug 1 fix (Kiddushin 2's carried-forward-duplicate collision) without regressing it.
+
+- **iOS**: `owningShiurSegmentIndex(for:)` → `owningShiurSegmentIndex(forRangeStarting:endingBefore:)` in both `StudyModeView.swift` (`SectionStudyView`) and `ContentView.swift` (mode-switch sync, both the iPhone and iPad `iPadRightPanel` call sites). New `sectionRangeEnd(after:)` / `currentSectionRangeEnd()` helpers compute the exclusive upper bound from the next section in `allSections` / `session.sections`.
+- **Android**: `ShiurClient.owningSegmentIndex(target:, segments:)` → `owningSegmentIndex(start:, end:, segments:)`, all four call sites (`ContentScreen.kt`'s Text→Shiur sync, `StudyModeScreen.kt`'s header computation ×2, and `TextNavigationStrip`'s `activeIndex`) updated to pass a range. `TextNavigationStrip` gained a new `currentSectionRangeEnd: Int` parameter since it only received the single current `StudySection`, not the full list needed to find the next one.
 
 ---
 
@@ -927,3 +999,128 @@ Claude does **not**:
 | 7 | Web UI (second tab in AskAnyDaf Vercel deployment) | Not started |
 
 Start with Phase 2 (WordPress content) since it's already accessible via API and represents the largest corpus. Personal material (Phase 3) requires upload infrastructure and is most valuable but most manual.
+
+---
+
+## Audio Tagging System
+
+A Supabase-backed tagging system for curated audio content (podcasts, conference recordings) that links episodes to specific Talmud, Shulkhan Arukh, and Rambam references. Displayed in the Resources tab alongside library.yctorah.org articles.
+
+### Files
+
+| File | Location |
+|---|---|
+| Schema SQL | `AnyDaf/audio_tags_schema.sql` |
+| Upload script | `AnyDaf/upload_audio_tags.py` |
+| Tagger spreadsheet | `AnyDaf/audio_tagger.xlsx` |
+
+### Spreadsheet Design (`audio_tagger.xlsx`)
+
+- **Episodes tab** — tagger fills in source, episode_number, title, presenter, audio_url, platform. Grey `id` column (`=ROW()-1`) and grey `display_label` column (`=source & " — " & title`) auto-fill; do not edit.
+- **Reference tabs (Talmud / SA / Rambam)** — Column A is an **Episode dropdown** sourced from the named range `EpisodeLabels` (points to `Episodes!$I$2:$I$500`). The tagger picks `"source — title"` from the list; the grey `episode_id` column auto-resolves via `INDEX/MATCH`. The tagger never types a source name or episode number in the reference tabs — no typo risk.
+- Dropdowns also on `amud` (a/b), `platform` (soundcloud/youtube/direct/website), and `section` (OC/YD/EH/CM).
+- Upload script reads the file with `data_only=True` (requires the file was saved from Excel/LibreOffice so formula caches are populated). Run `scripts/recalc.py audio_tagger.xlsx` to recalculate programmatically if needed.
+
+### Supabase Tables
+
+```
+audio_episodes        — one row per recording (podcast ep or conference talk)
+audio_talmud_refs     — Talmud citations linked to an episode
+audio_sa_refs         — Shulkhan Arukh citations linked to an episode
+audio_rambam_refs     — Rambam citations linked to an episode
+```
+
+#### `audio_episodes`
+
+| Column | Type | Notes |
+|---|---|---|
+| `id` | serial PK | |
+| `source` | text | Podcast/event name, e.g. "Iggros Moshe A to Z" |
+| `episode_number` | int | Nullable for one-off recordings |
+| `title` | text | Episode title |
+| `presenter` | text | Speaker name |
+| `audio_url` | text | SoundCloud, YouTube, direct mp3, or website URL |
+| `platform` | text | `soundcloud` \| `youtube` \| `direct` \| `website` |
+| `description` | text | Optional blurb |
+
+Unique constraint on `(source, episode_number)`.
+
+#### `audio_talmud_refs`
+
+| Column | Type | Notes |
+|---|---|---|
+| `episode_id` | int FK | → `audio_episodes.id` |
+| `tractate` | text | AnyDaf canonical name |
+| `daf` | int | |
+| `amud` | text | `a`, `b`, or null (full daf) |
+| `commentary` | text | e.g. "Tosafot", "Rashi" |
+| `commentary_ref` | text | e.g. "s.v. Ee Hakhi" / "ד״ה אי הכי" |
+
+#### `audio_sa_refs`
+
+| Column | Type | Notes |
+|---|---|---|
+| `episode_id` | int FK | |
+| `section` | text | `OC` \| `YD` \| `EH` \| `CM` |
+| `siman` | int | |
+| `seif` | int | Nullable |
+| `commentary` | text | e.g. "Mishna Berura" |
+| `commentary_ref` | text | e.g. "s.k. 14" |
+
+#### `audio_rambam_refs`
+
+| Column | Type | Notes |
+|---|---|---|
+| `episode_id` | int FK | |
+| `halakhot` | text | e.g. "Nizkei Mamon" |
+| `chapter` | int | |
+| `halakha` | int | Nullable |
+| `commentary` | text | e.g. "Raavad" |
+| `commentary_ref` | text | |
+
+### App Query (Talmud)
+
+```sql
+SELECT e.id, e.title, e.audio_url, e.platform, e.presenter, e.source,
+       r.daf, r.amud, r.commentary, r.commentary_ref
+FROM   audio_talmud_refs r
+JOIN   audio_episodes e ON e.id = r.episode_id
+WHERE  r.tractate = 'Avodah Zarah'
+  AND  r.daf IN (2, 3, 4)   -- current daf ± nearby range
+ORDER  BY r.daf, r.amud;
+```
+
+### Platform Playback Notes
+
+| platform | How the app handles it |
+|---|---|
+| `soundcloud` | Play in-app via existing SoundCloud audio infrastructure |
+| `youtube` | Open in YouTube app / browser (cannot stream natively) |
+| `direct` | Stream in-app via AVPlayer / Android MediaPlayer |
+| `website` | Open in in-app WebView or browser |
+
+### Upload Script Usage
+
+```bash
+pip install openpyxl httpx python-dotenv
+
+# Validate without writing
+python upload_audio_tags.py --dry-run
+
+# Upload
+python upload_audio_tags.py --file audio_tagger.xlsx
+```
+
+Requires `SUPABASE_URL` and `SUPABASE_KEY` (service role) in `.env`.  
+Script upserts Episodes first, then resolves `display_label → episode_id` via the `"source — title"` label built in the spreadsheet. Re-running is safe.
+
+### First Source: Iggros Moshe A to Z
+
+- SoundCloud: https://soundcloud.com/iggrosmosheatoz
+- 53 episodes
+- Tagging project in progress: tagger uses `audio_tagger.xlsx`, uploads via script
+- Only `audio_talmud_refs` needed initially; SA and Rambam tables ready for future use
+
+### WordPress Audio Posts (Pending)
+
+library.yctorah.org has audio posts at `/audio/[slug]/` URLs. The post type is a custom WordPress type not currently exposed via the REST API (`show_in_rest` not set). Once enabled, the app can query these posts via `YCTLibraryClient` alongside standard articles. The audio URL format (SoundCloud embed vs direct mp3) needs to be confirmed before implementing in-app playback.

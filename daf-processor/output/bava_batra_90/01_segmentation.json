@@ -33,7 +33,9 @@
           "display_title": "Modern Scales Q&A",
           "timestamp": "05:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The List of Permissible Measures and Why They Cannot Be Confused",
@@ -80,7 +82,9 @@
           "display_title": "Mikdash Measures",
           "timestamp": "23:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shmuel's Rule on Adding to Measures and Pricing",
@@ -127,7 +131,9 @@
           "display_title": "Birchat Kohanim",
           "timestamp": "47:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Case Studies and Applications of Shmuel's Rule",
@@ -144,7 +150,9 @@
           "display_title": "Pumbedita & Papunia",
           "timestamp": "50:19"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Hoarding Fruit, Deceptive Pricing, and Market Manipulation",
@@ -176,7 +184,9 @@
           "display_title": "Father Better",
           "timestamp": "54:28"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -476,5 +486,6 @@
         "50:57"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

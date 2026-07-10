@@ -38,7 +38,9 @@
           "display_title": "Conditions Explained",
           "timestamp": "09:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Opening Mishnah: Hameivi Get Mimedinat Hayam and the Requirement for Testimony",
@@ -90,7 +92,9 @@
           "display_title": "Ramban Property",
           "timestamp": "35:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: The Two Reasons for Testimony and Their Conceptual Differences",
@@ -132,7 +136,9 @@
           "display_title": "Unresolved Q",
           "timestamp": "47:46"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -330,5 +336,6 @@
         "45:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

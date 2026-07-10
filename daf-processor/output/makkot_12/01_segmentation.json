@@ -38,7 +38,9 @@
           "display_title": "Kohen Responsibility",
           "timestamp": "06:40"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Burial in the Cities of Refuge and Return of Bones",
@@ -60,7 +62,9 @@
           "display_title": "Disinterment & Return",
           "timestamp": "10:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Disqualified Kohen and Retroactive Nullification of Status",
@@ -92,7 +96,9 @@
           "display_title": "Korban Exception",
           "timestamp": "16:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Burial in the Cities of Refuge and Return of Bones (continued)",
@@ -109,7 +115,9 @@
           "display_title": "Tchum Refuge",
           "timestamp": "27:22"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Goel HaDam and Killing Outside Ir Miklat",
@@ -146,7 +154,9 @@
           "display_title": "End Not Harsher",
           "timestamp": "40:31"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Father and Son as Goel HaDam",
@@ -168,7 +178,9 @@
           "display_title": "Grandson Allowed",
           "timestamp": "44:20"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Tree at the Boundary of Ir Miklat",
@@ -205,7 +217,9 @@
           "display_title": "Rav Ashi Crown",
           "timestamp": "58:07"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -752,5 +766,6 @@
         "58:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

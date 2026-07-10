@@ -23,7 +23,9 @@
           "display_title": "Mikra & Pisuk Te'amim",
           "timestamp": "02:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Teaching Torah and its Permutations: Oral vs. Written, Fees, and Indirect Benefits (continued)",
@@ -35,7 +37,9 @@
           "display_title": "Sofrim Traditions",
           "timestamp": "03:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mikra Sofrim, Ittur Sofrim, and Qere v'Lo Ketiv: Scribal Traditions Going Back to Sinai",
@@ -67,7 +71,9 @@
           "display_title": "Gemara vs. Mesora",
           "timestamp": "19:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Textual Divisions and Regional Variations in Pasuk Division",
@@ -79,7 +85,9 @@
           "display_title": "Three-Pasuk Division",
           "timestamp": "26:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Midrashic Teachings on Moshe's Wealth, Wisdom, Power, and Humility as Conditions for Divine Presence",
@@ -136,7 +144,9 @@
           "display_title": "Humility Proof",
           "timestamp": "40:51"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "All Prophets Were Wealthy: Comparative Analysis of Moshe, Samuel, Amos, and Jonah",
@@ -173,7 +183,9 @@
           "display_title": "Jonah's Payment",
           "timestamp": "46:13"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Moshe's Difficulty in Retaining Torah Until God Gave It as a Gift",
@@ -190,7 +202,9 @@
           "display_title": "Gift Theology",
           "timestamp": "47:29"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Return to Halakhot Nedarim: Feeding a Mudar Hana'ah's Family and Animals",
@@ -227,7 +241,9 @@
           "display_title": "Alternative Values",
           "timestamp": "54:07"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -609,5 +625,6 @@
         "50:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

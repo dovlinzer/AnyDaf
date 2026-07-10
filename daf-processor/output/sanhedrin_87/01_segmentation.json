@@ -43,7 +43,9 @@
           "display_title": "Final Authority",
           "timestamp": "08:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Intellectual Freedom and the Status of the Zaken Mamre After Ruling",
@@ -65,7 +67,9 @@
           "display_title": "Talmid Exemption",
           "timestamp": "13:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Interpretation of Ki Yipla Mimcha Davar: Breaking Down the Pasuk",
@@ -132,7 +136,9 @@
           "display_title": "Court Location",
           "timestamp": "22:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Three Tannaitic Positions on Zaken Mamre Liability: Weight of Sin, Authority Type, and Scope",
@@ -164,7 +170,9 @@
           "display_title": "Rabbi Yehuda Reading",
           "timestamp": "29:38"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Demonstrating Tannaitic Debates Across All Topics: Kiddush Hachodesh",
@@ -191,7 +199,9 @@
           "display_title": "Pesach Connection",
           "timestamp": "36:47"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Debates on Halacha L'Moshe MiSinai: The Eleven Days of Zava",
@@ -213,7 +223,9 @@
           "display_title": "Mikva Implications",
           "timestamp": "40:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Debates on Gezeirah Shavah: Daughter's Relationship Status",
@@ -230,7 +242,9 @@
           "display_title": "Kareis Connection",
           "timestamp": "42:19"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Debates on Blood Types and Impurity: Dam Niddah, Leidah, and Zivah",
@@ -257,7 +271,9 @@
           "display_title": "Zivah Childbirth",
           "timestamp": "47:28"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Debates on Dinei Mamonos: Two-Judge Court Validity",
@@ -274,7 +290,9 @@
           "display_title": "Marriage Scenario",
           "timestamp": "51:45"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Debates on Dinei Nefashos: Wrongful Death and Payment",
@@ -296,7 +314,9 @@
           "display_title": "Payment Marriage Link",
           "timestamp": "53:21"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Debates on Dinei Makkos: Three vs. Twenty-Three Judge Court",
@@ -318,7 +338,9 @@
           "display_title": "Compensation Link",
           "timestamp": "54:17"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Debates on Tzaraas of People: White Hair and Spot Priority",
@@ -340,7 +362,9 @@
           "display_title": "Rabbi Yehoshua",
           "timestamp": "55:25"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Debates on Tzaraas of Houses: Corner Requirement and Spread",
@@ -362,7 +386,9 @@
           "display_title": "Kiros Derivation",
           "timestamp": "57:02"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Debates on Tzaraas of Clothes: Full Spread and Purity",
@@ -379,7 +405,9 @@
           "display_title": "Head to Toe",
           "timestamp": "57:44"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -680,5 +708,6 @@
         "29:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

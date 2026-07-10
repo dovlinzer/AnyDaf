@@ -43,7 +43,9 @@
           "display_title": "Rav's Leniency",
           "timestamp": "08:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Practical Halachic Discussions on Hefsek Taharah and Shivat Nekiyim Requirements",
@@ -95,7 +97,9 @@
           "display_title": "Torah Interpretation",
           "timestamp": "12:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tumah of Zav, Zavah, Niddah, Yoledet, and Metzora: Mishkav U'Moshav and Status After Death",
@@ -127,7 +131,9 @@
           "display_title": "Fainting Concern",
           "timestamp": "21:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Twelve Questions from the People of Alexandria to Rabbi Yehoshua ben Chananya",
@@ -169,7 +175,9 @@
           "display_title": "Shmuel's Position",
           "timestamp": "45:50"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Three Questions of Agada: God's Will Regarding Sinners, Justice and Mercy, and Jerusalem's Chosenness",
@@ -201,7 +209,9 @@
           "display_title": "Chosenness Timing",
           "timestamp": "49:52"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Three Foolish Questions: Lot's Wife, the Shunamite's Son, and Future Resurrection",
@@ -228,7 +238,9 @@
           "display_title": "Moshe's Answer",
           "timestamp": "55:15"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Three Practical Questions on Wisdom, Wealth, and Male Children",
@@ -280,7 +292,9 @@
           "display_title": "Wife's Pleasure",
           "timestamp": "60:29"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -863,5 +877,6 @@
         "52:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

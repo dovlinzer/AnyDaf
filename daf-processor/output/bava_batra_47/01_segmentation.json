@@ -33,7 +33,9 @@
           "display_title": "Buyers' Testimony",
           "timestamp": "03:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Kablan Areiv Case: A Cosigner Who Can Be Collected From Immediately",
@@ -75,7 +77,9 @@
           "display_title": "Ri Megash vs Rashbam",
           "timestamp": "08:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Craftsman, Sharecropper, Thief, and Related Classes: Chazakah and Testifying Rights",
@@ -117,7 +121,9 @@
           "display_title": "Gazlan Teshuvah",
           "timestamp": "20:40"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Additional Cases of Chazakah Qualification: Craftsman Who Quit, Sharecropper Who Quit, and Independent Children",
@@ -154,7 +160,9 @@
           "display_title": "Gazlan Proof Rejected",
           "timestamp": "28:16"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Sikrikon Case: Stolen Property Sold and Resold, and the Nature of Coerced Sales",
@@ -191,7 +199,9 @@
           "display_title": "Witness Specificity",
           "timestamp": "39:12"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Nature of Coercion and the Validity of Coerced Sales",
@@ -233,7 +243,9 @@
           "display_title": "Force & Agreement",
           "timestamp": "46:26"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -510,5 +522,6 @@
         "27:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

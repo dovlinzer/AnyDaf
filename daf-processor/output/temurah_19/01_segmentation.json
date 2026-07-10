@@ -23,7 +23,9 @@
           "display_title": "Bread Exclusion Explained",
           "timestamp": "03:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Complex Case of Olah (Elevation Offering): Gender Restrictions and Derivative Status",
@@ -75,7 +77,9 @@
           "display_title": "Pregnant Animal Case",
           "timestamp": "48:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of a Female Asham (Guilt Offering) and the Limits of Rabbi Eliezer's Leniency",
@@ -102,7 +106,9 @@
           "display_title": "Kedusha Transfer Rules",
           "timestamp": "55:58"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Mishna: The Female Asham and Its Blemish-Based Redemption",
@@ -124,7 +130,9 @@
           "display_title": "Rabbi Shimon Opinion",
           "timestamp": "58:39"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -394,5 +402,6 @@
         "44:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

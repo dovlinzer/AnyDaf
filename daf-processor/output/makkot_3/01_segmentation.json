@@ -38,7 +38,9 @@
           "display_title": "Pidyon Nafsho Dispute",
           "timestamp": "06:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Exception of Eved Ivri (Slave Sales) for Edim Zomemim",
@@ -75,7 +77,9 @@
           "display_title": "Rava vs. Akiva",
           "timestamp": "14:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Doctrine of Meshalem Al Pi Atzmo: When Edim Zomemim Can Voluntarily Admit and Pay",
@@ -112,7 +116,9 @@
           "display_title": "Ed Echad Logic",
           "timestamp": "20:29"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Ketubah Valuation Dispute: Assessment Based on Baal vs. Ishah",
@@ -139,7 +145,9 @@
           "display_title": "Assessment Expansion",
           "timestamp": "28:09"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Loan Duration Valuation: Thirty Days vs. Ten Years and the Shemita Complication",
@@ -181,7 +189,9 @@
           "display_title": "Conditions on Torah Law",
           "timestamp": "39:09"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Default Loan Terms: Thirty-Day Minimum and the Gezera from Shemita",
@@ -213,7 +223,9 @@
           "display_title": "Fiscal Year Analogy",
           "timestamp": "46:29"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -580,5 +592,6 @@
         "02:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

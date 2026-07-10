@@ -33,7 +33,9 @@
           "display_title": "Rav Sheshet",
           "timestamp": "11:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Interaction Between Multiple Oaths and Their Effect on Kefel and Chomesh Obligations",
@@ -70,7 +72,9 @@
           "display_title": "Multiple Like Payments",
           "timestamp": "37:26"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Distribution of Kefel Between the Shomer and the Owner When Both Oath and Payment Occur",
@@ -92,7 +96,9 @@
           "display_title": "Rava's Reading",
           "timestamp": "44:01"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Validity of a Ganav's Admission to the Shomer When the Shomer Has Taken an Oath",
@@ -109,7 +115,9 @@
           "display_title": "Intention Question",
           "timestamp": "52:15"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Parallel Question: Does Owner's Admission to Ganav Exempt the Ganav from Kefel Owed to Shomer",
@@ -126,7 +134,9 @@
           "display_title": "Moral Responsibility",
           "timestamp": "54:33"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Shomer's Options When a Ganav Is Found After Unavoidable Theft: Payment Versus Oath",
@@ -148,7 +158,9 @@
           "display_title": "Reconciliation",
           "timestamp": "58:54"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "The Status of Shomira After an Object Is Stolen by Force and Then Returned by the Ganav",
@@ -160,7 +172,9 @@
           "display_title": "Shomira Reinstatement",
           "timestamp": "60:19"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -523,5 +537,6 @@
       "term": "Pesach Chametz",
       "timestamps": []
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

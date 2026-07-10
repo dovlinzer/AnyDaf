@@ -28,7 +28,9 @@
           "display_title": "Shimon vs. Yochanan",
           "timestamp": "02:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Searching for Tannaitic Support for the Implicit Stipulation Doctrine",
@@ -65,7 +67,9 @@
           "display_title": "No Explicit Tanna",
           "timestamp": "09:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "What to Do with Leftover Communal Sacrifices from the Previous Year",
@@ -87,7 +91,9 @@
           "display_title": "Leftover Funds Usage",
           "timestamp": "16:29"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Special Case of a Leftover Chatas from Last Year",
@@ -114,7 +120,9 @@
           "display_title": "Tannaitic Parallels",
           "timestamp": "29:11"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Doctrine That Communal Sacrifices Are Defined by Their Use at Shechitah",
@@ -141,7 +149,9 @@
           "display_title": "Tosafot on Sakin",
           "timestamp": "48:07"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Yom Kippur Scapegoat and Its Atonement Scope",
@@ -173,7 +183,9 @@
           "display_title": "Kalos & Chamuros",
           "timestamp": "56:12"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -557,5 +569,6 @@
         "34:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

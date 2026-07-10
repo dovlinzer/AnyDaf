@@ -63,7 +63,9 @@
           "display_title": "Core Question",
           "timestamp": "09:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate of Rav vs. Shmuel and Rav Sheshet on the Status of Kiddushei Ketanah Upon Maturity",
@@ -110,7 +112,9 @@
           "display_title": "Henkin's Disagreement",
           "timestamp": "16:59"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Application of the Rav-Shmuel Debate to the Case of Kiddushin B'Tnai (Conditional Marriage) and the Limit of Kiddushei Derabbanan",
@@ -142,7 +146,9 @@
           "display_title": "Possible Agreement",
           "timestamp": "20:38"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Challenge to Rav's Position and the Case of the Chariot (Bei Korsaia) in Narash",
@@ -184,7 +190,9 @@
           "display_title": "Hafka'as Kiddushin",
           "timestamp": "23:20"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Principle of Hafka'as Kiddushin: Conditions, Application, and the Distinction Between Ad Hoc and Categorical Cases",
@@ -196,7 +204,9 @@
           "display_title": "Case-Specific Nature",
           "timestamp": "24:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Ruling and Its Implications: When the Kiddushin of the Ketanah Automatically Takes Effect",
@@ -208,7 +218,9 @@
           "display_title": "Reiteration",
           "timestamp": "24:57"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Principle of Hafka'as Kiddushin: Conditions, Application, and the Distinction Between Ad Hoc and Categorical Cases (continued)",
@@ -245,7 +257,9 @@
           "display_title": "Conclusion",
           "timestamp": "28:36"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Ruling and Its Implications: When the Kiddushin of the Ketanah Automatically Takes Effect (continued)",
@@ -262,7 +276,9 @@
           "display_title": "Next Mishnah",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Mishnah on Two Wives with Different Status: Ketanah vs. Choreshet, and Which Actions Release the Co-Wife",
@@ -304,7 +320,9 @@
           "display_title": "Chalitzah Problem",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Can a Choreshet (Deaf-Mute Woman) Perform Chalitzah? The Status of Her Marriage and the Limit of Rabbinic Kiddushin",
@@ -351,7 +369,9 @@
           "display_title": "Became Deaf",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Abaye's Challenge: The Mishnah's Cases Appear to Involve Choreshet Me'ikara, Yet Chalitzah Is Not Permitted",
@@ -398,7 +418,9 @@
           "display_title": "Conclusion",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Further Challenges with Sisters: When One Brother Is Deaf and the Other Is Hearing, Both Married to Sisters",
@@ -430,7 +452,9 @@
           "display_title": "Agunah Result",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Resolution Attempts: The Mishnah Cases Must Involve Only Those Always in Their Stated Status, Yet Chalitzah Remains Forbidden",
@@ -467,7 +491,9 @@
           "display_title": "Final Conclusion",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -762,5 +788,6 @@
         "55:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

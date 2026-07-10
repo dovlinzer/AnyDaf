@@ -41,7 +41,7 @@ struct StudyModeView: View {
 
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
-    @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
+    @AppStorage("textDisplayMode") private var textDisplayMode: TextDisplayMode = .translation
     private var studyBg: Color { useWhiteBackground ? .white : SplashView.background }
     private var studyFg: Color { useWhiteBackground ? Color(.label) : .white }
     private var studyCardFill: Color { useWhiteBackground ? Color(.systemGray5) : .white.opacity(0.1) }
@@ -67,6 +67,7 @@ struct StudyModeView: View {
                 } else if let section = session.currentSection {
                     SectionStudyView(
                         section: section,
+                        allSections: session.sections,
                         tractate: session.tractate,
                         sectionNumber: session.currentSectionIndex + 1,
                         totalSections: session.sections.count,
@@ -77,6 +78,8 @@ struct StudyModeView: View {
                         selectedTab: textOnly ? .constant(0) : $selectedTab,
                         showTabPill: !textOnly,
                         showTextTab: horizontalSizeClass == .regular,
+                        daf: session.daf,
+                        amudBStart: session.currentSectionIndex == (session.amudBSectionIndex ?? -1),
                         // Adjacent-daf context for mid-sentence continuations
                         precedingContext: session.currentSectionIndex == 0
                             ? session.precedingContext : nil,
@@ -103,7 +106,10 @@ struct StudyModeView: View {
                             Task { await manager.goToPreviousSection() }
                         },
                         onNextDaf: {
-                            guard let s = manager.session else { return }
+                            guard let s = manager.session,
+                                  let t = allTractates.first(where: { $0.name == s.tractate }),
+                                  s.daf < t.endDaf
+                            else { return }
                             Task {
                                 await manager.startSession(
                                     tractate: s.tractate,
@@ -114,7 +120,10 @@ struct StudyModeView: View {
                             }
                         },
                         onPreviousDaf: {
-                            guard let s = manager.session, s.daf > 2 else { return }
+                            guard let s = manager.session,
+                                  let t = allTractates.first(where: { $0.name == s.tractate }),
+                                  s.daf > t.startDaf
+                            else { return }
                             Task {
                                 await manager.startSession(
                                     tractate: s.tractate,
@@ -132,7 +141,9 @@ struct StudyModeView: View {
                                 tractate: session.tractate,
                                 daf: "\(session.daf)",
                                 sections: session.sections,
-                                mode: sourceDisplayMode
+                                mode: textDisplayMode,
+                                precedingContext: session.precedingContext,
+                                followingContext: session.followingContext
                             ))
                         },
                         onArticleTapped: { article in
@@ -148,7 +159,13 @@ struct StudyModeView: View {
                                 }
                                 isLoadingArticle = false
                             }
-                        }
+                        },
+                        onJumpToSefariaIndex: { sefariaIndex in
+                            manager.jumpToSection(containing: sefariaIndex)
+                        },
+                        pendingScrollTarget: manager.pendingScrollToSefariaIndex,
+                        onScrollTargetConsumed: { manager.pendingScrollToSefariaIndex = nil },
+                        activeSefariaIndex: manager.activeSefariaIndex
                     )
                     // Load Summary/Quiz content when the user switches to those tabs,
                     // and track which sections have been quizzed for the score screen.
@@ -207,9 +224,22 @@ struct StudyModeView: View {
         .animation(.spring(response: 0.4, dampingFraction: 0.85), value: selectedArticle?.id)
         // isLoadingText goes true→false once per startSession, on the OUTER VStack so it
         // fires even though SectionStudyView (where this logic was) doesn't exist while loading.
+        // Also drives the initial Summary/Quiz load: SectionStudyView remounts fresh once
+        // isLoadingText goes false, already showing the session's starting section index
+        // (e.g. the last section after Prev Daf) — onChange(of: currentSectionIndex) below
+        // never fires for that index because there was no prior mounted value to transition
+        // from. Without this, a startAtLastSection landing while already on the Summary/Quiz
+        // tab shows the loading skeleton forever, since nothing besides the tab-switch and
+        // section-advance handlers ever calls loadStudyContentForCurrentSection().
         .onChange(of: manager.isLoadingText) { _, isLoading in
             guard !isLoading, let session = manager.session else { return }
             resourcesManager.reset()
+            if selectedTab == 1 || selectedTab == 2 {
+                Task { await manager.loadStudyContentForCurrentSection() }
+            }
+            if selectedTab == 2 {
+                quizzedSectionIndices.insert(session.currentSectionIndex)
+            }
             if selectedTab == 3 {
                 Task { await resourcesManager.loadResources(tractate: session.tractate, daf: session.daf) }
             }
@@ -503,6 +533,11 @@ fileprivate struct TranslationSegment {
 
 struct SectionStudyView: View {
     let section: StudySection
+    /// All sections in the session, in order — used only to detect where a new shiur segment
+    /// begins (comparing this section's owning segment against the previous section's) for the
+    /// inline guidepost header. Not used for anything else; the displayed content still comes
+    /// from `section` alone.
+    let allSections: [StudySection]
     let tractate: String
     let sectionNumber: Int
     let totalSections: Int
@@ -518,6 +553,10 @@ struct SectionStudyView: View {
     var showTabPill: Bool = true
     /// When false, the Text tab button is hidden from the pill (iPhone study mode — Text moved to main page).
     var showTextTab: Bool = true
+    /// Daf number — used to format the amud-transition marker.
+    var daf: Int = 0
+    /// True when this section is the first section of amud B (shows a [7b] / [ז׳ ע״ב] marker).
+    var amudBStart: Bool = false
     /// Tail of the previous daf — non-nil only for the very first section when it starts mid-sentence.
     let precedingContext: String?
     /// Head of the next daf — non-nil only for the very last section when it ends mid-sentence.
@@ -532,23 +571,122 @@ struct SectionStudyView: View {
     @ObservedObject var readAloudManager: ReadAloudManager
 
     @ObservedObject var resourcesManager: ResourcesManager
+    /// Singleton, same instance ContentView observes — no prop drilling needed (same pattern
+    /// as resourcesManager above). Drives the Translation tab's segment pill strip.
+    @ObservedObject private var shiurClient = ShiurClient.shared
     var onPrint: (() -> Void)? = nil
     let onArticleTapped: (YCTArticle) -> Void
+    /// Jump the Sefaria text to the section owning this flat Sefaria segment index —
+    /// called when a segment pill is tapped in the Translation tab.
+    var onJumpToSefariaIndex: ((Int) -> Void)? = nil
+    /// Set (by StudySessionManager.jumpToSection(containing:)) when the Text view should scroll
+    /// to a segment's exact raw position, not just the top of the section it lands on — e.g. a
+    /// pill tap that lands within the section already on screen. Consumed once and cleared via
+    /// onScrollTargetConsumed.
+    var pendingScrollTarget: Int? = nil
+    var onScrollTargetConsumed: (() -> Void)? = nil
+    /// The segment explicitly navigated to (pill tap or mode-switch sync) — see
+    /// StudySessionManager.activeSefariaIndex. Drives which pill highlights as active, taking
+    /// priority over the coarse range-based computation when it's still within this section.
+    var activeSefariaIndex: Int? = nil
 
-    @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
+    @AppStorage("textDisplayMode") private var textDisplayMode: TextDisplayMode = .translation
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @Environment(\.studyFg)            private var fg
     @Environment(\.studyCardFill)      private var cardFill
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
 
     @State private var revealedCount: Int = 1
-    @AppStorage("studyShowHebrew") private var showHebrew = false
 
     // Scroll anchor IDs
     private let topID = "sectionTop"
     private let quizTopID = "quizTop"
     private func questionID(_ idx: Int) -> String { "question_\(idx)" }
     private let nextButtonID = "nextButton"
+
+    /// Whether a "Prev Daf" / "Next Daf" jump is actually possible from here — false at the
+    /// tractate's first/last daf, where there's nowhere to go. Defaults to true if the tractate
+    /// can't be found (shouldn't happen) so navigation isn't hidden incorrectly.
+    private var canGoPrevDaf: Bool {
+        allTractates.first(where: { $0.name == tractate }).map { daf > $0.startDaf } ?? true
+    }
+    private var canGoNextDaf: Bool {
+        allTractates.first(where: { $0.name == tractate }).map { daf < $0.endDaf } ?? true
+    }
+
+    /// The shiur segment that "owns" a Sefaria index RANGE — a section's full span, from its
+    /// own firstSegmentIndex — used as the "nothing specific navigated to yet" fallback for
+    /// activeShiurSegmentIndex (fresh section load, Prev/Next-section, or a newly-selected daf).
+    /// In that state the user is looking at the TOP of the section, so this answers "which
+    /// segment governs this exact starting position" — the last genuinely-`matched` segment
+    /// whose own sefariaIndex is ≤ that position. (A carried-forward placeholder like
+    /// "Introduction", `matched == false`, only inherits its index from whatever it followed, so
+    /// it must never outrank a real match.) This intentionally does NOT prefer the largest anchor
+    /// across the whole section's range — that was the right answer for "which pill was just
+    /// tapped" (now handled directly by activeSefariaIndex), but the wrong one here: it would
+    /// highlight a segment anchored well past the section's start (e.g. Hullin 3's first section
+    /// spans four matched segments; on fresh load this must resolve to the first of them, not
+    /// whichever anchors last).
+    private func owningShiurSegmentIndex(at position: Int) -> Int? {
+        var best: Int? = nil
+        for (idx, seg) in shiurClient.segments.enumerated() {
+            guard seg.matched != false, let sIdx = seg.sefariaIndex, sIdx <= position else { continue }
+            best = idx
+        }
+        return best
+    }
+
+    /// Exclusive upper bound of the Sefaria range a section at `allSections[index]` covers —
+    /// the next section's firstSegmentIndex, or unbounded for the last section.
+    private func sectionRangeEnd(after index: Int) -> Int {
+        index + 1 < allSections.count ? allSections[index + 1].firstSegmentIndex : Int.max
+    }
+
+    /// The shiur segment that drives the pill strip's active highlight. Prefers the segment
+    /// explicitly navigated to (activeSefariaIndex — a pill tap or mode-switch sync), as long as
+    /// it's still within the current section's range: several matched segments can share one
+    /// coarse section (e.g. Hullin 3's first section spans four of them), and without this,
+    /// tapping any of the earlier ones would always show whichever has the largest anchor as
+    /// active instead of the one actually tapped. Falls back to that range-based "largest
+    /// anchor" computation when there's no specific target (e.g. after Prev/Next-section
+    /// navigation, or on first load).
+    private var activeShiurSegmentIndex: Int? {
+        let sectionIndex = sectionNumber - 1
+        let start = section.firstSegmentIndex
+        let end = sectionRangeEnd(after: sectionIndex)
+        if let activeIdx = activeSefariaIndex, activeIdx >= start, activeIdx < end,
+           let segIdx = shiurClient.segments.firstIndex(where: { $0.sefariaIndex == activeIdx && $0.matched == true }) {
+            return segIdx
+        }
+        return owningShiurSegmentIndex(at: start)
+    }
+
+    /// sefariaIndex -> segment, for genuinely-matched segments only. Used to render an inline
+    /// title header immediately before the raw text segment where that shiur segment actually
+    /// begins (as opposed to the old once-per-section approximation). Ties (rare — two matched
+    /// segments sharing the same index) keep the first in array order.
+    private var matchedSegmentByIndex: [Int: ShiurSegment] {
+        var dict: [Int: ShiurSegment] = [:]
+        for seg in shiurClient.segments {
+            guard seg.matched == true, let idx = seg.sefariaIndex else { continue }
+            if dict[idx] == nil { dict[idx] = seg }
+        }
+        return dict
+    }
+
+    /// Inline guidepost header shown immediately before the raw text segment at `absoluteIndex`,
+    /// if a shiur segment's own (matched) anchor sits exactly there. Empty otherwise.
+    @ViewBuilder
+    private func inlineSegmentHeader(forRawIndex absoluteIndex: Int) -> some View {
+        if let seg = matchedSegmentByIndex[absoluteIndex] {
+            Text(seg.displayTitle)
+                .font(.subheadline.bold())
+                .foregroundStyle(fg.opacity(0.85))
+                .fixedSize(horizontal: false, vertical: true)
+                .padding(.top, 6)
+                .padding(.bottom, 2)
+        }
+    }
 
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
@@ -607,6 +745,13 @@ struct SectionStudyView: View {
             .frame(maxWidth: horizontalSizeClass == .regular ? 700 : .infinity)
             .frame(maxWidth: .infinity)
 
+            // Segment pill strip — Translation tab only, same segments/titles as the shiur
+            // strip (ContentView.shiurNavigationStrip). Pinned above the scrollable content
+            // rather than inside it, mirroring how the shiur strip sits above ShiurTextView.
+            if selectedTab == 0 {
+                textNavigationStrip
+            }
+
             // Scrollable content — quiz questions advance within this area only.
             ScrollViewReader { proxy in
                 ScrollView {
@@ -633,13 +778,40 @@ struct SectionStudyView: View {
                 // reduces the layout-recalculation lag on first text-field focus.
                 .scrollDismissesKeyboard(.interactively)
                 .onChange(of: section.id) { _, _ in
-                    // showHebrew is @AppStorage — persists across sections, daf changes, and app restarts.
+                    // textDisplayMode is @AppStorage — persists across sections, daf changes, and app restarts.
                     // selectedTab intentionally NOT reset — user stays in
                     // whichever tab they were in when they advance or jump amud.
                     revealedCount = 1
+                    // A pending exact-position target (set by jumpToSection(containing:), e.g. a
+                    // pill tap or Shiur↔Text sync) means the OTHER onChange below will scroll to
+                    // that segment's own raw position once it's rendered — skip the top-scroll
+                    // here so it doesn't fight with that. Plain navigation (Prev/Next, initial
+                    // load, jumpToSectionAt) never sets a pending target, so this fires as before.
+                    guard pendingScrollTarget == nil else { return }
                     DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
                         proxy.scrollTo(topID, anchor: .top)
                     }
+                }
+                .onChange(of: pendingScrollTarget) { _, newValue in
+                    guard let idx = newValue else { return }
+                    // Same delay as the topID scroll above — lets a section switch (if any)
+                    // finish rendering the new content (with its "raw-N" ids) first. Harmless
+                    // when the section didn't change (e.g. a pill tap landing within the
+                    // section already on screen), which is exactly the case this exists for.
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                        proxy.scrollTo("raw-\(idx)", anchor: .top)
+                    }
+                    onScrollTargetConsumed?()
+                }
+                .onAppear {
+                    // Handles the case where this view mounts fresh with a pending target
+                    // already set (e.g. switching into Text mode itself triggers the jump) —
+                    // onChange only fires on a value transition observed by an already-live view.
+                    guard let idx = pendingScrollTarget else { return }
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                        proxy.scrollTo("raw-\(idx)", anchor: .top)
+                    }
+                    onScrollTargetConsumed?()
                 }
             // Read-Aloud view-request handler (commented out — re-enable when ready)
 //            .onChange(of: readAloudManager.viewRequest) { _, request in
@@ -905,7 +1077,18 @@ struct SectionStudyView: View {
 
                 // Navigation buttons
                 HStack(spacing: 12) {
-                    if sectionNumber > 1 {
+                    if sectionNumber == 1 {
+                        if canGoPrevDaf {
+                            Button { onPreviousDaf() } label: {
+                                Label("Prev Daf", systemImage: "arrow.left")
+                                    .frame(maxWidth: .infinity)
+                            }
+                            .buttonStyle(.bordered)
+                            .tint(fg)
+                        } else {
+                            Spacer().frame(maxWidth: .infinity)
+                        }
+                    } else {
                         Button { onPrevious() } label: {
                             Label("Previous", systemImage: "arrow.left")
                                 .frame(maxWidth: .infinity)
@@ -913,12 +1096,21 @@ struct SectionStudyView: View {
                         .buttonStyle(.bordered)
                         .tint(fg)
                     }
+
                     if sectionNumber < totalSections {
                         Button { onNext() } label: {
                             Label("Next", systemImage: "arrow.right")
                                 .frame(maxWidth: .infinity)
                         }
                         .buttonStyle(.borderedProminent)
+                    } else if canGoNextDaf {
+                        Button { onNextDaf() } label: {
+                            Label("Next Daf", systemImage: "arrow.right")
+                                .frame(maxWidth: .infinity)
+                        }
+                        .buttonStyle(.borderedProminent)
+                    } else {
+                        Spacer().frame(maxWidth: .infinity)
                     }
                 }
             }
@@ -946,6 +1138,59 @@ struct SectionStudyView: View {
             }
         } else {
             quizContent(proxy: proxy)
+        }
+    }
+
+    // MARK: - Text Segment Navigation Strip
+
+    /// Pill strip for jumping the Sefaria text to a shiur macro segment — the Translation-tab
+    /// counterpart of ContentView's shiurNavigationStrip. Uses the same shiurClient.segments
+    /// (same shiur, same titles) so the two navigation strips always agree.
+    @AppStorage("useWhiteBackground") private var _navStripUseWhite: Bool = false
+    @ViewBuilder private var textNavigationStrip: some View {
+        if !shiurClient.segments.isEmpty {
+            ScrollViewReader { proxy in
+                ScrollView(.horizontal, showsIndicators: false) {
+                    HStack(spacing: 6) {
+                        ForEach(Array(shiurClient.segments.enumerated()), id: \.offset) { idx, seg in
+                            let isActive = idx == activeShiurSegmentIndex
+                            // Disabled when we KNOW this segment has no real anchor of its own
+                            // (matched == false — a carried-forward placeholder like
+                            // "Introduction" that only inherits its sefariaIndex from whatever
+                            // it followed). matched == nil (not yet computed for this daf) stays
+                            // enabled, same as before this field existed.
+                            let isUnmatched = seg.matched == false
+                            Button {
+                                guard let sefariaIndex = seg.sefariaIndex, !isUnmatched else { return }
+                                onJumpToSefariaIndex?(sefariaIndex)
+                            } label: {
+                                Text(seg.displayTitle)
+                                    .font(.caption2)
+                                    .lineLimit(1)
+                                    .padding(.horizontal, 8)
+                                    .padding(.vertical, 4)
+                                    .background(Capsule().fill(isActive ? fg.opacity(0.85) : fg.opacity(0.15)))
+                                    .foregroundStyle(isActive
+                                                     ? (_navStripUseWhite ? .white : SplashView.background)
+                                                     : fg.opacity((seg.sefariaIndex == nil || isUnmatched) ? 0.4 : 0.8))
+                            }
+                            .disabled(seg.sefariaIndex == nil || isUnmatched)
+                            .id(idx)
+                        }
+                    }
+                    .padding(.horizontal)
+                }
+                .onChange(of: activeShiurSegmentIndex) { _, newIdx in
+                    guard let newIdx else { return }
+                    withAnimation { proxy.scrollTo(newIdx, anchor: .center) }
+                }
+                .onAppear {
+                    guard let idx = activeShiurSegmentIndex else { return }
+                    proxy.scrollTo(idx, anchor: .center)
+                }
+            }
+            .frame(height: 30)
+            .padding(.bottom, 4)
         }
     }
 
@@ -993,40 +1238,33 @@ struct SectionStudyView: View {
 
     // MARK: Translation card sub-views
 
-    /// Source | Translation toggle pill (toggle mode only).
-    private var languageTogglePill: some View {
+    /// א | A | אA display mode pill — always visible when Hebrew text is available.
+    private var textDisplayPill: some View {
         HStack(spacing: 0) {
-            Button {
-                withAnimation(.easeInOut(duration: 0.18)) { showHebrew = true }
-            } label: {
-                Text("Source")
-                    .font(.caption.bold())
-                    .foregroundStyle(fg)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 4)
-                    .background(
-                        RoundedRectangle(cornerRadius: 6)
-                            .fill(showHebrew ? fg.opacity(0.28) : Color.clear)
-                    )
-            }
-            Button {
-                withAnimation(.easeInOut(duration: 0.18)) { showHebrew = false }
-            } label: {
-                Text("Translation")
-                    .font(.caption.bold())
-                    .foregroundStyle(fg)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 4)
-                    .background(
-                        RoundedRectangle(cornerRadius: 6)
-                            .fill(!showHebrew ? fg.opacity(0.28) : Color.clear)
-                    )
-            }
+            pillSegment("א", mode: .source)
+            pillSegment("A", mode: .translation)
+            pillSegment("\u{202D}א\u{200E}A", mode: .both)
         }
         .background(
             RoundedRectangle(cornerRadius: 8)
                 .stroke(fg.opacity(0.22), lineWidth: 0.5)
         )
+    }
+
+    private func pillSegment(_ label: String, mode: TextDisplayMode) -> some View {
+        Button {
+            withAnimation(.easeInOut(duration: 0.18)) { textDisplayMode = mode }
+        } label: {
+            Text(label)
+                .font(.caption.bold())
+                .foregroundStyle(fg)
+                .padding(.horizontal, 10)
+                .padding(.vertical, 4)
+                .background(
+                    RoundedRectangle(cornerRadius: 6)
+                        .fill(textDisplayMode == mode ? fg.opacity(0.28) : Color.clear)
+                )
+        }
     }
 
     /// Colour key for the English translation (Direct / Added).
@@ -1127,24 +1365,29 @@ struct SectionStudyView: View {
         } else {
             VStack(alignment: .leading, spacing: 14) {
                 ForEach(pairs.indices, id: \.self) { idx in
-                    VStack(alignment: .leading, spacing: 8) {
-                        // Hebrew on top
-                        hebrewSegmentView(pairs[idx].1)
-                        // Dashed divider between languages
-                        stackedSeparator
-                        // English below
-                        englishSegmentView(
-                            pairs[idx].0,
-                            preceding: idx == 0 ? precedingContext : nil,
-                            following: idx == pairs.count - 1 ? followingContext : nil
+                    let absoluteIndex = section.firstSegmentIndex + idx
+                    VStack(alignment: .leading, spacing: 4) {
+                        inlineSegmentHeader(forRawIndex: absoluteIndex)
+                        VStack(alignment: .leading, spacing: 8) {
+                            // Hebrew on top
+                            hebrewSegmentView(pairs[idx].1)
+                            // Dashed divider between languages
+                            stackedSeparator
+                            // English below
+                            englishSegmentView(
+                                pairs[idx].0,
+                                preceding: idx == 0 ? precedingContext : nil,
+                                following: idx == pairs.count - 1 ? followingContext : nil
+                            )
+                        }
+                        .padding(.vertical, 6)
+                        .padding(.horizontal, 8)
+                        .background(
+                            RoundedRectangle(cornerRadius: 6)
+                                .fill(fg.opacity(0.04))
                         )
                     }
-                    .padding(.vertical, 6)
-                    .padding(.horizontal, 8)
-                    .background(
-                        RoundedRectangle(cornerRadius: 6)
-                            .fill(fg.opacity(0.04))
-                    )
+                    .id("raw-\(absoluteIndex)")
                     // Separator between paragraph pairs
                     if idx < pairs.count - 1 {
                         Divider()
@@ -1155,70 +1398,121 @@ struct SectionStudyView: View {
         }
     }
 
+    /// Source (Hebrew-only) content, one raw segment per paragraph, with an inline segment
+    /// header wherever a shiur segment's own anchor begins. Falls back to a single joined block
+    /// when per-segment data isn't available (shouldn't normally happen alongside hebrewText).
+    @ViewBuilder
+    private var sourceContent: some View {
+        if section.hebrewSegments.isEmpty {
+            hebrewTextView(section.hebrewText ?? "")
+        } else {
+            VStack(alignment: .leading, spacing: 14) {
+                ForEach(section.hebrewSegments.indices, id: \.self) { idx in
+                    let absoluteIndex = section.firstSegmentIndex + idx
+                    VStack(alignment: .leading, spacing: 4) {
+                        inlineSegmentHeader(forRawIndex: absoluteIndex)
+                        hebrewSegmentView(section.hebrewSegments[idx])
+                    }
+                    .id("raw-\(absoluteIndex)")
+                }
+            }
+        }
+    }
+
+    /// Translation (English-only) content, one raw segment per paragraph, with an inline
+    /// segment header wherever a shiur segment's own anchor begins. Used both when Hebrew is
+    /// available (`.translation` display mode) and when it isn't (the no-Hebrew fallback below).
+    @ViewBuilder
+    private var translationOnlyContent: some View {
+        if section.rawSegments.isEmpty {
+            englishTextView
+        } else {
+            VStack(alignment: .leading, spacing: 14) {
+                ForEach(section.rawSegments.indices, id: \.self) { idx in
+                    let absoluteIndex = section.firstSegmentIndex + idx
+                    VStack(alignment: .leading, spacing: 4) {
+                        inlineSegmentHeader(forRawIndex: absoluteIndex)
+                        englishSegmentView(
+                            section.rawSegments[idx],
+                            preceding: idx == 0 ? precedingContext : nil,
+                            following: idx == section.rawSegments.count - 1 ? followingContext : nil
+                        )
+                    }
+                    .id("raw-\(absoluteIndex)")
+                }
+            }
+        }
+    }
+
+    /// Inline [7b] / [ז׳ ע״ב] marker shown at the start of the first amud B section.
+    @ViewBuilder
+    private func amudMarker(hebrewFormat: Bool, alignment: Alignment) -> some View {
+        if amudBStart && daf > 0 {
+            let label = hebrewFormat ? "[\(toHebrewNumeral(daf)) ע״ב]" : "[\(daf)b]"
+            Text(label)
+                .font(.caption.weight(.medium))
+                .foregroundStyle(fg.opacity(0.55))
+                .frame(maxWidth: .infinity, alignment: alignment)
+        }
+    }
+
     @ViewBuilder
     private var translationCard: some View {
         VStack(alignment: .leading, spacing: 10) {
-            // Header row — only shown for English-only and toggle mode
-            if section.hebrewText == nil {
-                // English only: color legend only (no title — section may be an intro with no source text)
-                HStack {
-                    Spacer()
-                    colorLegend
-                }
-                Divider()
-                    .background(fg.opacity(0.3))
-            } else if sourceDisplayMode == .toggle {
-                // Toggle mode: pill on the left IS the header — no separate title
-                HStack {
-                    languageTogglePill
-                    Spacer()
-                }
-                Divider()
-                    .background(fg.opacity(0.3))
-            } else if sourceDisplayMode == .stacked {
-                // Stacked mode: legend on the right so users can see the colour key
-                HStack {
-                    Spacer()
-                    colorLegend
-                }
-                Divider()
-                    .background(fg.opacity(0.3))
-            }
-
-            // Content — switches on display mode
+            // Header row
             if let hebrewText = section.hebrewText {
-                switch sourceDisplayMode {
-                case .toggle:
-                    if showHebrew {
-                        hebrewTextView(hebrewText)
-                    } else {
-                        VStack(alignment: .leading, spacing: 6) {
-                            colorLegend
-                            englishTextView
-                        }
+                HStack {
+                    textDisplayPill
+                    Spacer()
+                    if textDisplayMode != .source {
+                        colorLegend
                     }
-                case .stacked:
+                }
+                Divider()
+                    .background(fg.opacity(0.3))
+
+                // Content — segment headers now render inline, at each matched segment's exact
+                // raw position, inside sourceContent/translationOnlyContent/stackedContent.
+                switch textDisplayMode {
+                case .source:
+                    amudMarker(hebrewFormat: true, alignment: .trailing)
+                    sourceContent
+                case .translation:
+                    amudMarker(hebrewFormat: false, alignment: .leading)
+                    translationOnlyContent
+                case .both:
+                    amudMarker(hebrewFormat: true, alignment: .trailing)
                     stackedContent(hebrewText: hebrewText)
                 }
             } else {
-                // No Hebrew — English only
-                translationBody
-                    .lineSpacing(6)
-                    .frame(maxWidth: .infinity, alignment: .leading)
+                // No Hebrew — English only, show legend
+                HStack {
+                    Spacer()
+                    colorLegend
+                }
+                Divider()
+                    .background(fg.opacity(0.3))
+                amudMarker(hebrewFormat: false, alignment: .leading)
+                translationOnlyContent
             }
 
             Divider()
                 .background(fg.opacity(0.3))
 
             HStack(spacing: 12) {
-                // Left button: "Prev Daf" on the first section, "Previous" otherwise
+                // Left button: "Prev Daf" on the first section, "Previous" otherwise.
+                // At the tractate's first daf there's no previous daf to jump to — hide it.
                 if sectionNumber == 1 {
-                    Button { onPreviousDaf() } label: {
-                        Label("Prev Daf", systemImage: "arrow.left")
-                            .frame(maxWidth: .infinity)
+                    if canGoPrevDaf {
+                        Button { onPreviousDaf() } label: {
+                            Label("Prev Daf", systemImage: "arrow.left")
+                                .frame(maxWidth: .infinity)
+                        }
+                        .buttonStyle(.bordered)
+                        .tint(fg)
+                    } else {
+                        Spacer().frame(maxWidth: .infinity)
                     }
-                    .buttonStyle(.bordered)
-                    .tint(fg)
                 } else {
                     Button { onPrevious() } label: {
                         Label("Previous", systemImage: "arrow.left")
@@ -1228,19 +1522,22 @@ struct SectionStudyView: View {
                     .tint(fg)
                 }
 
-                // Right button: "Next" within the daf, "Next Daf" on the last section
+                // Right button: "Next" within the daf, "Next Daf" on the last section.
+                // At the tractate's last daf there's no next daf to jump to — hide it.
                 if sectionNumber < totalSections {
                     Button { onNext() } label: {
                         Label("Next", systemImage: "arrow.right")
                             .frame(maxWidth: .infinity)
                     }
                     .buttonStyle(.borderedProminent)
-                } else {
+                } else if canGoNextDaf {
                     Button { onNextDaf() } label: {
                         Label("Next Daf", systemImage: "arrow.right")
                             .frame(maxWidth: .infinity)
                     }
                     .buttonStyle(.borderedProminent)
+                } else {
+                    Spacer().frame(maxWidth: .infinity)
                 }
             }
         }
@@ -1742,4 +2039,34 @@ struct ShortAnswerQuestionView: View {
         isFocused = false
         onSubmit(trimmed)
     }
+}
+
+// MARK: - Gematria
+
+/// Convert an integer to Hebrew numeral notation with geresh/gershayim.
+/// Handles the special cases for 15 (ט״ו) and 16 (ט״ז) to avoid spelling divine names.
+func toHebrewNumeral(_ n: Int) -> String {
+    guard n > 0 else { return "" }
+    var remaining = n
+    var letters = ""
+
+    for (v, l) in [(400,"ת"),(300,"ש"),(200,"ר"),(100,"ק")] {
+        while remaining >= v { letters += l; remaining -= v }
+    }
+    if remaining == 15      { letters += "טו"; remaining = 0 }
+    else if remaining == 16 { letters += "טז"; remaining = 0 }
+    else {
+        for (v, l) in [(90,"צ"),(80,"פ"),(70,"ע"),(60,"ס"),(50,"נ"),(40,"מ"),(30,"ל"),(20,"כ"),(10,"י")] {
+            while remaining >= v { letters += l; remaining -= v }
+        }
+        for (v, l) in [(9,"ט"),(8,"ח"),(7,"ז"),(6,"ו"),(5,"ה"),(4,"ד"),(3,"ג"),(2,"ב"),(1,"א")] {
+            while remaining >= v { letters += l; remaining -= v }
+        }
+    }
+
+    if letters.count == 1 {
+        return letters + "\u{05F3}"
+    }
+    let lastIdx = letters.index(before: letters.endIndex)
+    return String(letters[..<lastIdx]) + "\u{05F4}" + String(letters[lastIdx...])
 }

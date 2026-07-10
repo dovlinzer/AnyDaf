@@ -33,7 +33,9 @@
           "display_title": "Student Q: Dowry",
           "timestamp": "08:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Wedding Days: Virgins on Wednesday, Widows/Divorcees on Thursday, and Initial Questions",
@@ -65,7 +67,9 @@
           "display_title": "Rashi vs. Tosafot",
           "timestamp": "16:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Application to Mezonot (Food Obligation): When Does the Husband's Support Begin?",
@@ -87,7 +91,9 @@
           "display_title": "Wednesday Date",
           "timestamp": "24:06"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Application to Mezonot (Food Obligation): When Does the Husband's Support Begin? (continued)",
@@ -99,7 +105,9 @@
           "display_title": "Dependency Issue",
           "timestamp": "24:49"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Gemarah's Response to the Mishnah: Takanat Chachamim and the Reason for Wednesday (Not Sunday)",
@@ -131,7 +139,9 @@
           "display_title": "Rabbinic Demand",
           "timestamp": "29:39"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Exceptions and Complications: When Obligations Do NOT Begin (Ones—Force and Circumstance)",
@@ -168,7 +178,9 @@
           "display_title": "Rav Ashi",
           "timestamp": "42:59"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Digression on Prenuptial Agreements in Modern Practice and Their Halachic Parallel",
@@ -190,7 +202,9 @@
           "display_title": "Prenup Practice",
           "timestamp": "48:04"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Transition to Gittin (Divorce): Contrasting Ones in Mezonot vs. Gittin; the Condition-Met Problem",
@@ -227,7 +241,9 @@
           "display_title": "Gemarah Resolution",
           "timestamp": "55:36"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -452,5 +468,6 @@
         "48:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

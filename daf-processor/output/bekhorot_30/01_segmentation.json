@@ -23,7 +23,9 @@
           "display_title": "Teruma Mishna",
           "timestamp": "01:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Dispute between Rabbi Yehuda and Rabbi Shimon on Fining Suspected Offenders",
@@ -45,7 +47,9 @@
           "display_title": "Zikas Teruma",
           "timestamp": "03:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Butcher Case: Nuts as a Tool for Corruption and the Basis for Fines",
@@ -72,7 +76,9 @@
           "display_title": "Nuts Connection",
           "timestamp": "06:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Broader Context: Chashud (Suspicion) and Societal Trust in Kashrut and Religious Conduct",
@@ -89,7 +95,9 @@
           "display_title": "Core Principle",
           "timestamp": "10:32"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Detailed Analysis of Which Suspicions Transfer and Which Do Not (Shvi'is, Maasrot, Taharot)",
@@ -116,7 +124,9 @@
           "display_title": "Taharot Exception",
           "timestamp": "12:41"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Psychological Basis for Distinguishing Categories: Rationalization and Strictness",
@@ -143,7 +153,9 @@
           "display_title": "Modern Examples",
           "timestamp": "14:47"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Exceptions and Individual Circumstances: When General Rules Can Be Overridden",
@@ -165,7 +177,9 @@
           "display_title": "Rabbi Ila'i Answer",
           "timestamp": "27:41"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Competing Views: Rabbi Yannai and Rabbi Ishmael vs. Rabbi Meir on Stringency Levels",
@@ -182,7 +196,9 @@
           "display_title": "Gemara Response",
           "timestamp": "32:03"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Attribution and Debate: Whose View is the Stam Mishna? Rabbi Akiva vs. Sages",
@@ -209,7 +225,9 @@
           "display_title": "Insult Proof",
           "timestamp": "34:27"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Extreme Position: Suspect for One Thing Means Suspect for Everything",
@@ -226,7 +244,9 @@
           "display_title": "All-or-Nothing",
           "timestamp": "36:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Chaveirim (Fellowship): Accepting Members and Conditions for Membership",
@@ -248,7 +268,9 @@
           "display_title": "Ger Conversion",
           "timestamp": "46:55"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Conversion Standards: The Scope of Kabbalat Mitzvot (Acceptance of Mitzvos)",
@@ -285,7 +307,9 @@
           "display_title": "Hillel Story",
           "timestamp": "52:40"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Accepting Chaveirim Members: Gradual Process and the Role of Observation",
@@ -307,7 +331,9 @@
           "display_title": "R. Shimon View",
           "timestamp": "56:53"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Ladder of Observance: Progressing from Hand-Washing to Full Purity Observance",
@@ -329,7 +355,9 @@
           "display_title": "Ladder Logic",
           "timestamp": "58:23"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Probationary Periods for Chaveirim: Duration Before Full Trust and Acceptance",
@@ -351,7 +379,9 @@
           "display_title": "Beit Hillel",
           "timestamp": "59:37"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -534,5 +564,6 @@
         "59:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

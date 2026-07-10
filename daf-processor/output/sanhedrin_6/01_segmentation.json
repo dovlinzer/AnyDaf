@@ -38,7 +38,9 @@
           "display_title": "Conditional Authority",
           "timestamp": "06:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Composition of Batei Din: One, Two, or Three Judges",
@@ -65,7 +67,9 @@
           "display_title": "Abbahu Disputes",
           "timestamp": "10:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "When One Judge Can Rule: Acceptance of Authority (Kiblu Aleihu) and the Demand for Din Torah",
@@ -92,7 +96,9 @@
           "display_title": "Reconciliation",
           "timestamp": "15:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Mistakes in Judgment: When Is a Ruling Overturned? (Taah Bidvar Mishna vs. Shikul Hadaat)",
@@ -119,7 +125,9 @@
           "display_title": "Canonization",
           "timestamp": "21:46"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Compromise (Peshara) vs. Judgment (Din): How Many Judges Are Required for Each?",
@@ -146,7 +154,9 @@
           "display_title": "Peshara Summary",
           "timestamp": "26:26"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -417,5 +427,6 @@
         "16:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

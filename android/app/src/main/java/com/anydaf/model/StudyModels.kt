@@ -68,9 +68,10 @@ enum class QuizMode(val displayName: String, val description: String) {
     )
 }
 
-enum class SourceDisplayMode(val displayName: String, val description: String) {
-    TOGGLE("Toggle", "Tap a button to switch between source text and translation."),
-    STACKED("Top & Bottom", "Each paragraph shown as source above translation, scroll through paired paragraphs.")
+enum class TextDisplayMode(val displayName: String) {
+    SOURCE("Source"),
+    TRANSLATION("Translation"),
+    BOTH("Both")
 }
 
 enum class StudyFontSize(val displayName: String, val spSize: Float, val articleFontPx: Int) {

@@ -58,7 +58,9 @@
           "display_title": "Kasher Analysis",
           "timestamp": "11:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Haktara Mefagelet Haktara: Whether the Kometz Can Invalidate the Levona with Intent to Offer it Tomorrow",
@@ -115,7 +117,9 @@
           "display_title": "Combined Principles",
           "timestamp": "27:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Intent to Eat or Offer Something Not Normally Eaten or Offered: The Position of Rebbi Eliezer",
@@ -157,7 +161,9 @@
           "display_title": "Pasuk Limits",
           "timestamp": "36:34"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Braita: Category-Crossing in Animal Sacrifices and the Debate of Rebbi Eliezer vs. Chachamim",
@@ -199,7 +205,9 @@
           "display_title": "Unresolved Status",
           "timestamp": "45:55"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1173,5 +1181,6 @@
         "20:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

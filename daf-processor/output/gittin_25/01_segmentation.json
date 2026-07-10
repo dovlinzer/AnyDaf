@@ -23,7 +23,9 @@
           "display_title": "R. Eliezer Position",
           "timestamp": "00:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rei'ach Haget: The Doctrine of Invalid Gets That Appear Valid and Create Liminal Status",
@@ -55,7 +57,9 @@
           "display_title": "Rambam Pasul/Batel",
           "timestamp": "05:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Geographical and Doctrinal Dispute: Babylonian Amoraim vs. Land of Israel Sages on Rei'ach Haget",
@@ -87,7 +91,9 @@
           "display_title": "R. Yochanan Rejects",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Consistency with Ein Breira: Inheritance, Chalitzah, and the Last Mishnah Case",
@@ -109,7 +115,9 @@
           "display_title": "Lishmah vs Breira",
           "timestamp": "18:31"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Introduction to the Breira Sugya: The Case of Two Wives and the Difference Between Toleh Bedaat Atzmo and Toleh Bedaat Acherim",
@@ -131,7 +139,9 @@
           "display_title": "Rashi Indecisive",
           "timestamp": "21:47"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Pesach Korban Proof: When the First Son Enters Jerusalem, He and His Brothers Retroactively Become Included",
@@ -158,7 +168,9 @@
           "display_title": "Daughters Proof",
           "timestamp": "27:35"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Abaye's Critique and the Question of Whether Toleh Bedaat Acherim Can Succeed for a Get",
@@ -175,7 +187,9 @@
           "display_title": "Question Remains",
           "timestamp": "28:10"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rav Mesharshiya's Proof: Rabbi Yehuda Holds Toleh Bedaat Atzmo Has No Breira; Toleh Bedaat Acherim Does",
@@ -202,7 +216,9 @@
           "display_title": "Time TBD",
           "timestamp": "30:15"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Second Proof from Rav Mesharshiya: Rabbi Shimon and Kiddushei Biah with Father's Condition",
@@ -224,7 +240,9 @@
           "display_title": "Context Not Condition",
           "timestamp": "30:15"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rava's Counter-Argument: No Distinction Between Toleh Bedaat Atzmo and Toleh Bedaat Acherim; Everyone Holds of Breira",
@@ -251,7 +269,9 @@
           "display_title": "Practical Safeguard",
           "timestamp": "30:15"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -490,5 +510,6 @@
         "30:15"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

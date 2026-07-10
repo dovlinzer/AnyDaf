@@ -33,7 +33,9 @@
           "display_title": "Both Stringencies",
           "timestamp": "07:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Digression on Cherry-Picking Stringencies and Leniencies Between Beit Shammai and Beit Hillel",
@@ -65,7 +67,9 @@
           "display_title": "Consistent Choice",
           "timestamp": "11:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Resolution: The Bat Kol of Beit Hillel and Beit Shammai and Exceptions via Rabbi Yehoshua",
@@ -97,7 +101,9 @@
           "display_title": "Analogous Debates",
           "timestamp": "15:38"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Further Clarification: When We Do and Do Not Combine Stringencies from Different Sides",
@@ -134,7 +140,9 @@
           "display_title": "Rabbi Akiva's Etrog",
           "timestamp": "25:55"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Practical Resolution: When Tzurat Hapetach Suffices and the Key Case of Alleyways Not Opening into Reshus Harabim on Both Ends",
@@ -166,7 +174,9 @@
           "display_title": "Courtyard Case",
           "timestamp": "34:59"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Abaye's Challenge and the Resolution via Rav Sheshet: Distinguishing Wall Requirements from Eruv Requirements",
@@ -208,7 +218,9 @@
           "display_title": "Walls vs Eruv",
           "timestamp": "44:00"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Transition to Three-Walled Alleyway (Mavoi Asui Knadli) and the Debate Between Rav and Shmuel",
@@ -225,7 +237,9 @@
           "display_title": "Rav vs Shmuel",
           "timestamp": "45:24"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -695,5 +709,6 @@
         "45:43"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

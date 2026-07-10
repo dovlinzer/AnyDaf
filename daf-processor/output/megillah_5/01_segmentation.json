@@ -33,7 +33,9 @@
           "display_title": "Multiple Purim Days",
           "timestamp": "10:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Prohibition Against Reading on Shabbat: Rava's Explanation and Alternative Reasons",
@@ -65,7 +67,9 @@
           "display_title": "Seudah & Mishloach Manot",
           "timestamp": "23:53"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Reading Requirements: Private vs. Public Reading and the Role of Pirsumei Nisa",
@@ -97,7 +101,9 @@
           "display_title": "Rav Consistent with Rav…",
           "timestamp": "32:41"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Definition of Big Cities and Villages, and the Direction of Reading Changes",
@@ -124,7 +130,9 @@
           "display_title": "Other Times Not Moveable",
           "timestamp": "46:30"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Why Certain Observances Can Only Be Postponed, Not Advanced",
@@ -146,7 +154,9 @@
           "display_title": "Rava on Chagiga",
           "timestamp": "49:40"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rabbi's Attempt to Eliminate Tisha B'Av and the Correction of the Story",
@@ -173,7 +183,9 @@
           "display_title": "Two Witnesses Better",
           "timestamp": "53:29"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -483,5 +495,6 @@
         "35:14"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

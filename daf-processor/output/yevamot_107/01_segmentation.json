@@ -23,7 +23,9 @@
           "display_title": "Marriage Stages",
           "timestamp": "01:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Beit Shammai vs. Beit Hillel on Mi'un: Arusot vs. Nesuot",
@@ -50,7 +52,9 @@
           "display_title": "Discussion",
           "timestamp": "05:20"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis of Beit Shammai's Reasoning: Ein Tenai BeNisuin",
@@ -77,7 +81,9 @@
           "display_title": "Tosafot Caveat",
           "timestamp": "12:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara's Exploration: When Exactly Does Mi'un Cease to Apply?",
@@ -104,7 +110,9 @@
           "display_title": "No Distinction",
           "timestamp": "17:41"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Alternative Explanation by Rabba and Rav Yosef: Ein Adam Oseh Bei'ato Bei'at Zenut",
@@ -131,7 +139,9 @@
           "display_title": "Kehunah Status",
           "timestamp": "23:25"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rav Pappa's Financial Explanation: Peiri (Usufruct Rights)",
@@ -158,7 +168,9 @@
           "display_title": "Celebration Value",
           "timestamp": "30:14"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Mi'un and Yibum: Can She Refuse a Brother-in-Law After Husband's Death?",
@@ -185,7 +197,9 @@
           "display_title": "Bi'ah Challenge",
           "timestamp": "35:20"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Ulla's Alternative View: Mi'un Works Against Zikah and Brother-in-Law",
@@ -207,7 +221,9 @@
           "display_title": "Rami's Source",
           "timestamp": "37:43"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Resolution: Status at Moment of Husband's Death Becomes Instantiated",
@@ -229,7 +245,9 @@
           "display_title": "Retroactive Limits",
           "timestamp": "37:43"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Rav vs. Shmuel: Can Mi'un Against One Brother Free Her From Others?",
@@ -261,7 +279,9 @@
           "display_title": "Rav Ashi: Collective",
           "timestamp": "38:12"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Gemara's Final Analysis: Collective Zikah and the All-or-Nothing Principle",
@@ -293,7 +313,9 @@
           "display_title": "Conclusion",
           "timestamp": "38:30"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -510,5 +532,6 @@
         "38:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

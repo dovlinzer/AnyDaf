@@ -23,7 +23,9 @@
           "display_title": "Tumat HaTehom Exception",
           "timestamp": "03:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of the Zavah (Menstruating Woman) and Rabbi Yose's Position on Unknowable Tumah",
@@ -50,7 +52,9 @@
           "display_title": "Zav & Zavah Cases",
           "timestamp": "10:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Yose's Position on Retroactive Versus New Tumah (Lemafrea Debate)",
@@ -77,7 +81,9 @@
           "display_title": "Miktzat HaYom Principle",
           "timestamp": "15:07"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "When Does Tzitz Work for Tumat HaTehom: The Timeline from Shechita to Zerika",
@@ -89,7 +95,9 @@
           "display_title": "After Zerika Only",
           "timestamp": "22:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Application of Tumat HaTehom to the Kohen (Priest) Performing the Service",
@@ -111,7 +119,9 @@
           "display_title": "Halacha Lemoshe Status",
           "timestamp": "31:00"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "When Does Tzitz Work for Tumat HaTehom: The Timeline from Shechita to Zerika (continued)",
@@ -128,7 +138,9 @@
           "display_title": "Rashi/Tosafot Limit",
           "timestamp": "32:40"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "The Source of Tumat HaTehom: Is It Derived from Scripture or a Tradition?",
@@ -160,7 +172,9 @@
           "display_title": "Halacha Lemoshe Conclusi…",
           "timestamp": "32:40"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Detailed Scenarios of Tumat HaTehom: Mishnah's Enumeration of Cases",
@@ -197,7 +211,9 @@
           "display_title": "Tumat HaTehom Scope",
           "timestamp": "32:40"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -519,5 +535,6 @@
         "13:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

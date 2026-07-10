@@ -18,7 +18,9 @@
           "display_title": "Me'akvin Principle",
           "timestamp": "00:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna: Animals of Musafim and the Dispute with Rabbi Shimon",
@@ -35,7 +37,9 @@
           "display_title": "Rabbi Shimon",
           "timestamp": "01:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara: Identifying Which Korban the Mishna Addresses",
@@ -77,7 +81,9 @@
           "display_title": "Different Scenarios",
           "timestamp": "12:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Yechezkel Passages and Difficult Pesukim Explained",
@@ -134,7 +140,9 @@
           "display_title": "Chanina ben Chizkiya",
           "timestamp": "27:02"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Interpretation of Yechezkel on Preference of Animal with Nesachim",
@@ -156,7 +164,9 @@
           "display_title": "Ram Priority",
           "timestamp": "29:51"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Second Mishna: Olah and Shtei Halechem Are Not Me'akvin One Another",
@@ -193,7 +203,9 @@
           "display_title": "Matir Concept",
           "timestamp": "36:51"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Gemara on Shtei Halechem Mishna: Distinguishing Two Korbanot",
@@ -230,7 +242,9 @@
           "display_title": "Conclusion",
           "timestamp": "43:42"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -591,5 +605,6 @@
         "03:56"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

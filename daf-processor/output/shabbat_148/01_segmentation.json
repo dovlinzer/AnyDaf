@@ -23,7 +23,9 @@
           "display_title": "Removing Dirt",
           "timestamp": "04:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Restoring Broken Bones and Dislocated Limbs on Shabbat",
@@ -50,7 +52,9 @@
           "display_title": "Theory vs. Practice",
           "timestamp": "10:52"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Borrowing and Lending on Shabbat and Yom Tov: Business Concerns and Writing",
@@ -87,7 +91,9 @@
           "display_title": "Shabbat Context",
           "timestamp": "25:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Yom Tov Labor-Saving and Weekday-like Activities (Uvdin d'Chol)",
@@ -119,7 +125,9 @@
           "display_title": "Modern Devices",
           "timestamp": "30:14"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbinic Discretion: When to Enforce Halachah and When to Remain Silent",
@@ -151,7 +159,9 @@
           "display_title": "Rishonim Nuances",
           "timestamp": "33:37"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Clapping and Dancing on Yom Tov: Intrinsic Problem vs. Concern of Consequences",
@@ -173,7 +183,9 @@
           "display_title": "Consequences Framework",
           "timestamp": "38:37"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Lending Bread and the Prohibition of Ribis (Interest): Peiros B'Peiros",
@@ -195,7 +207,9 @@
           "display_title": "Practical Leniency",
           "timestamp": "41:25"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Yom Tov Loans and Court Enforcement: Dispute Between Rav Yosef and Rava",
@@ -217,7 +231,9 @@
           "display_title": "Mishnah Support",
           "timestamp": "45:20"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Shemittah Annulment and Yom Tov Loans: When Debt Can Be Collected",
@@ -244,7 +260,9 @@
           "display_title": "Collateral Scheme",
           "timestamp": "52:15"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Erev Pesach Sacrifices: Sanctifying Korban Pesach on Shabbat",
@@ -276,7 +294,9 @@
           "display_title": "General Principle",
           "timestamp": "56:52"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -514,5 +534,6 @@
         "42:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

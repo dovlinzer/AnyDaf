@@ -23,7 +23,9 @@
           "display_title": "Sale Docs Allowed",
           "timestamp": "01:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mechanics of Achrayus (Warranty) and Double Collection Schemes",
@@ -40,7 +42,9 @@
           "display_title": "Double Collect",
           "timestamp": "04:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Braita on Lost Documents: Loan Documents vs. Sale Documents (continued)",
@@ -62,7 +66,9 @@
           "display_title": "Tosafos Solution",
           "timestamp": "07:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mechanics of Achrayus (Warranty) and Double Collection Schemes (continued)",
@@ -84,7 +90,9 @@
           "display_title": "Destruction Issue",
           "timestamp": "15:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Gemara's Response: The Seizure Process and Its Documents",
@@ -111,7 +119,9 @@
           "display_title": "Same Day Question",
           "timestamp": "23:49"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Proposed Solution: Receipt to the Seller and Its Problems",
@@ -138,7 +148,9 @@
           "display_title": "Land Not Cash",
           "timestamp": "39:01"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Writing a Shtar Without Achrayus: Explicit Exclusion and Default Rules",
@@ -170,7 +182,9 @@
           "display_title": "Nachman Solution",
           "timestamp": "41:04"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Returning the Shtar and Reversal of Sale: The Core Dispute",
@@ -197,7 +211,9 @@
           "display_title": "Rava Objection",
           "timestamp": "42:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Nature of Kinyan: Transfer of Otiyos (Letters) by Mesira (Handing Over)",
@@ -224,7 +240,9 @@
           "display_title": "Chachamim Pos",
           "timestamp": "53:49"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1462,5 +1480,6 @@
         "35:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

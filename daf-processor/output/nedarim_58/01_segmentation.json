@@ -23,7 +23,9 @@
           "display_title": "Amoraic Positions",
           "timestamp": "02:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Shimon's Principle: Davar Sheyesh Lo Matirin is Never Batel",
@@ -60,7 +62,9 @@
           "display_title": "Rishonim Reframe",
           "timestamp": "13:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Testing the Negation Question with Onions: The Mishna of Betzalim Sheyardu Aleihem Geshamim",
@@ -87,7 +91,9 @@
           "display_title": "Ground-Up Objection",
           "timestamp": "31:16"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Baraita of Weeding with a Samaritan: Evidence That New Growth Permits the Mixture",
@@ -129,7 +135,9 @@
           "display_title": "Direct Weeding",
           "timestamp": "39:32"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Yitzchak's Resolution: Shemittah is Unique Because It Focuses on the Land",
@@ -151,7 +159,9 @@
           "display_title": "Tosafos Active/Passive",
           "timestamp": "43:19"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Counterevidence from Maaser: Why the Original Portion Is Not Negated",
@@ -178,7 +188,9 @@
           "display_title": "Maaser Digun",
           "timestamp": "49:14"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Synthesis: The General Rule and the Exception",
@@ -200,7 +212,9 @@
           "display_title": "Why Others Fail",
           "timestamp": "51:16"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -504,5 +518,6 @@
         "44:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

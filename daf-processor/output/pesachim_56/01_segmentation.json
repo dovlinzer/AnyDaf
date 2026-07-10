@@ -28,7 +28,9 @@
           "display_title": "Vessels from Uman",
           "timestamp": "02:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis: Returning Hens Within Three Days—Hefsed Merubah vs. Hefsed Muat",
@@ -50,7 +52,9 @@
           "display_title": "Hefsed Merubah",
           "timestamp": "05:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis: Removing Dung from Chatzer and Refet—Abaye vs. Rava",
@@ -72,7 +76,9 @@
           "display_title": "Rava Alternative",
           "timestamp": "08:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis: Bringing Vessels from Craftsman—Trust and Leniencies",
@@ -99,7 +105,9 @@
           "display_title": "Baraita Vessels",
           "timestamp": "13:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Six Practices of the People of Jericho: Baraita on What Sages Protested and Allowed",
@@ -121,7 +129,9 @@
           "display_title": "With Protest",
           "timestamp": "17:18"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Baraita on King Hezekiah's Six Actions and the Rabbis' Responses",
@@ -143,7 +153,9 @@
           "display_title": "Actions Disapproved",
           "timestamp": "22:30"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Grafting Palm Trees: Technical Explanation of Markivin Dekalim",
@@ -160,7 +172,9 @@
           "display_title": "Rav Acha Method",
           "timestamp": "24:31"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Wrapping Shema: The Insertion of Baruch Shem Kevod Malchuto—Talmudic and Midrashic Sources",
@@ -202,7 +216,9 @@
           "display_title": "Minim Challenge",
           "timestamp": "32:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Mishna on Jericho Practices: Sages' Approval vs. Disapproval Summarized",
@@ -219,7 +235,9 @@
           "display_title": "Mishna Protest",
           "timestamp": "36:50"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -450,5 +468,6 @@
         "18:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

@@ -38,7 +38,9 @@
           "display_title": "Bone Amount Distinctions",
           "timestamp": "04:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Braita Distinguishing Touching from Ohel: Eiver Min HaChat and Eiver Min HaMeis",
@@ -75,7 +77,9 @@
           "display_title": "Masa Derivation",
           "timestamp": "09:49"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Kever Lifnei HaDibbur: Tumah Status Before Legislation",
@@ -112,7 +116,9 @@
           "display_title": "Metaphysics & Law",
           "timestamp": "22:28"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Mishnah on Things a Nazir Is Not Megaleach For",
@@ -144,7 +150,9 @@
           "display_title": "Day Eight Start",
           "timestamp": "30:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Things Causing Tumah That Do Not Trigger Nazir Megaleach",
@@ -216,7 +224,9 @@
           "display_title": "Peraot Rabbinic",
           "timestamp": "50:47"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -552,5 +562,6 @@
         "02:43"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

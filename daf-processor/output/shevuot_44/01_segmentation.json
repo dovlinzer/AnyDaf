@@ -48,7 +48,9 @@
           "display_title": "Asmachta Analysis",
           "timestamp": "10:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tannaitic Debate: Rabbi Eliezer vs. Rabbi Akiva on Creditor's Liability for Lost Collateral",
@@ -85,7 +87,9 @@
           "display_title": "Shomer Status",
           "timestamp": "16:01"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rabbi Yitzchak's Principle of Kinyan (Taking Possession) and Its Limitations",
@@ -117,7 +121,9 @@
           "display_title": "Shomer Avedah",
           "timestamp": "27:06"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Shomer Avedah Debate: Does Performing Mitzvah Create Shomer Sachar Status?",
@@ -149,7 +155,9 @@
           "display_title": "Using Collateral",
           "timestamp": "37:05"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Shmuel's Framework Applied to Shemitah: What Debt Does Collateral Represent?",
@@ -186,7 +194,9 @@
           "display_title": "Reminder Only",
           "timestamp": "44:14"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Summary and Transition: Three Models of Collateral and Introduction to Rabbinic Oaths",
@@ -223,7 +233,9 @@
           "display_title": "All Oaths Topic",
           "timestamp": "47:58"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Torah-Imposed Oaths vs. Rabbinic Oaths: Nishba'in v'Lo Meshalmin vs. Nishba'in v'Notlin",
@@ -260,7 +272,9 @@
           "display_title": "Presumption",
           "timestamp": "48:46"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Cases Allowing Oath-Based Collection: Sachor, Nigzal, Nechbal",
@@ -312,7 +326,9 @@
           "display_title": "R. Yehuda Assault",
           "timestamp": "54:58"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Gold-to-Silver Valuation Discrepancy in Mishnah and Historical Ratio Analysis",
@@ -344,7 +360,9 @@
           "display_title": "Historical Ratios",
           "timestamp": "56:47"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -597,5 +615,6 @@
         "56:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

@@ -43,7 +43,9 @@
           "display_title": "Noten Ta'am Debate",
           "timestamp": "02:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Toveling and Its Relationship to Kashering: Procedural and Halachic Status",
@@ -65,7 +67,9 @@
           "display_title": "Toveling Order",
           "timestamp": "04:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "When the Torah Forbade Non-Jewish Vessels: The Ben Yomo Principle",
@@ -102,7 +106,9 @@
           "display_title": "Post-Kasher Taste",
           "timestamp": "09:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Amram's Challenge: Spits and Grates in Kodashim vs. Non-Jewish Vessels",
@@ -144,7 +150,9 @@
           "display_title": "Rava's Logic",
           "timestamp": "16:52"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rava's Solution: Kodashim Kashered Daily via Continuous Cooking",
@@ -186,7 +194,9 @@
           "display_title": "Heteira Bala Rule",
           "timestamp": "28:44"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Practical Kashering Methods: Hagala Procedure and Large Vessel Solutions",
@@ -218,7 +228,9 @@
           "display_title": "Bolo Kach Polto",
           "timestamp": "34:30"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Knife Kashering: Cold-Use Cleaning via Surface Friction",
@@ -250,7 +262,9 @@
           "display_title": "Bati Bar Tuvia",
           "timestamp": "38:13"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Conclusion: The Masechet Ends with Kashering and Ethical Complexity",
@@ -267,7 +281,9 @@
           "display_title": "Thematic Arc",
           "timestamp": "40:32"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -444,5 +460,11 @@
         "00:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "39:44",
+  "amud_b_micro_title": "Final Narrative",
+  "shiur_start_daf": 76,
+  "shiur_start_amud": "a"
 }

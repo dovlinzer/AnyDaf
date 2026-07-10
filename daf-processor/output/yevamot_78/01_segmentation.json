@@ -38,7 +38,9 @@
           "display_title": "Tosafot on Tradition",
           "timestamp": "03:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Baraita Debate: Egyptian and Edomite Women and the Textual Support",
@@ -60,7 +62,9 @@
           "display_title": "Yochanan's Evaluation",
           "timestamp": "06:54"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Marriage Problem for Mixed Generations: Applying Yehuda's Gerim Principle",
@@ -112,7 +116,9 @@
           "display_title": "Women Forbidden Necessary",
           "timestamp": "11:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Textual Analysis of 'Banim,' 'Dorot,' and 'Lahem' in the Pasuk",
@@ -149,7 +155,9 @@
           "display_title": "Mamzer Parallel",
           "timestamp": "18:14"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Dispute Over Whether Psul Follows Father, Mother, or Weightier Status",
@@ -216,7 +224,9 @@
           "display_title": "Normally Father",
           "timestamp": "32:43"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Ruling on Mixed Marriages: When Both Converts Are Not Jewish, Follow the Father",
@@ -243,7 +253,9 @@
           "display_title": "Gender-Dependent",
           "timestamp": "49:26"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Mamzerim and Netinim: Permanent and Absolute Prohibitions",
@@ -295,7 +307,9 @@
           "display_title": "Rav Ami Story",
           "timestamp": "52:52"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -530,5 +544,6 @@
         "52:52"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

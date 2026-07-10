@@ -38,7 +38,9 @@
           "display_title": "Eating Shirayim",
           "timestamp": "08:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Requirement of Right Hand for Kemitza: Derivation from the Word Kaf and the Metzora Case",
@@ -70,7 +72,9 @@
           "display_title": "Rava's Yad Solution",
           "timestamp": "21:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Dispute Between Rabbi Shimon and the Chachamim on Which Actions Require the Right Hand",
@@ -117,7 +121,9 @@
           "display_title": "Minchat Choté",
           "timestamp": "43:54"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -298,5 +304,6 @@
         "45:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

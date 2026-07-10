@@ -33,7 +33,9 @@
           "display_title": "Metzitzah Evolution",
           "timestamp": "03:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Post-Circumcision Care: Poultices, Bandages, and Wound Treatment",
@@ -60,7 +62,9 @@
           "display_title": "Yom Tov Differences",
           "timestamp": "09:19"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Wine and Oil Mixing Debate: Rabbi Meir's Stringency and Communal Authority",
@@ -92,7 +96,9 @@
           "display_title": "Authority & Trust",
           "timestamp": "12:45"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Mustard Filtering and Coal Heating: Melacha Boundaries on Yom Tov",
@@ -114,7 +120,9 @@
           "display_title": "Borer Analysis",
           "timestamp": "32:25"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Mustard Filtering and Coal Heating: Melacha Boundaries on Yom Tov (continued)",
@@ -131,7 +139,9 @@
           "display_title": "Ochel Nefesh Rules",
           "timestamp": "32:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Cheese-Making on Yom Tov: Preparation vs. Necessity Debate",
@@ -153,7 +163,9 @@
           "display_title": "Fresh Cheese Value",
           "timestamp": "32:48"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Protective Garments for Brit Milah: Medical Safety and Wound Care",
@@ -175,7 +187,9 @@
           "display_title": "Alternative Garment",
           "timestamp": "32:48"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Neonatal Medical Issues: Temperature, Breathing, Placenta Application, and Bleeding Readiness",
@@ -187,7 +201,9 @@
           "display_title": "Imperforate Anus",
           "timestamp": "32:48"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Neonatal Medical Issues: Temperature, Breathing, Placenta Application, and Bleeding Readiness (continued)",
@@ -219,7 +235,9 @@
           "display_title": "Jaundice Concern",
           "timestamp": "33:08"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rabbi Natan's Case Studies: Medical Judgment in Brit Milah for Vulnerable Infants",
@@ -246,7 +264,9 @@
           "display_title": "Blood Ritualization",
           "timestamp": "35:00"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Bathing the Infant: Scope and Method on Day One vs. Day Three",
@@ -283,7 +303,9 @@
           "display_title": "Rav Dimi Ruling",
           "timestamp": "45:04"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Scope of Bathing: Whole Body vs. Genital Area Only",
@@ -315,7 +337,9 @@
           "display_title": "Sakana Permits",
           "timestamp": "48:00"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Hot Water and Oil on Wounds: Medicinal Treatment Boundaries",
@@ -342,7 +366,9 @@
           "display_title": "Running vs. Applying",
           "timestamp": "50:37"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     },
     {
       "title": "Dry Bandages and Medicinal Cloths: Prevention vs. Cure",
@@ -364,7 +390,9 @@
           "display_title": "Curative Effect",
           "timestamp": "52:15"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -835,5 +863,6 @@
         "52:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

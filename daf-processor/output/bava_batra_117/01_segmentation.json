@@ -18,7 +18,9 @@
           "display_title": "Three Portions",
           "timestamp": "00:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis: Yotzei Mitzrayim versus Ba'ei Ha'aretz as the Primary Recipients",
@@ -50,7 +52,9 @@
           "display_title": "Family Fairness",
           "timestamp": "15:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Shimon ben Elazar's Third Position: Both Yotzei Mitzrayim and Ba'ei Ha'aretz Receive Portions",
@@ -67,7 +71,9 @@
           "display_title": "Yehoshua Calev",
           "timestamp": "21:03"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Status of Meraglim, Adat Korach, and the Mtlonenim: How Wickedness Affects Inheritance Rights",
@@ -89,7 +95,9 @@
           "display_title": "Assigned vs. Unassigned",
           "timestamp": "31:42"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Scriptural Support for Yotzei Mitzrayim: Why God's Promise to the Exodus Generation Requires Their Inclusion",
@@ -106,7 +114,9 @@
           "display_title": "All via Fathers",
           "timestamp": "35:38"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Papa's Challenge to the Ba'ei Ha'aretz Position Using Scriptural Verses on Growth and Diminishment of Portions",
@@ -128,7 +138,9 @@
           "display_title": "Tosafot Girsa",
           "timestamp": "42:45"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Why Bnot Tzelofchad's Complaint Makes Sense Only Under the Yotzei Mitzrayim Framework",
@@ -145,7 +157,9 @@
           "display_title": "Uncles' Portion",
           "timestamp": "45:46"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -396,5 +410,6 @@
         "20:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

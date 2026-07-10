@@ -23,7 +23,9 @@
           "display_title": "Four Services",
           "timestamp": "02:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Proof for Shechitah (Slaughter) Requiring Proper Intent Regarding the Type of Offering",
@@ -55,7 +57,9 @@
           "display_title": "Shechitah Conclusion",
           "timestamp": "06:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kabbalah (Collection of Blood) Requiring Proper Intent and Its Distinction from Shechitah",
@@ -87,7 +91,9 @@
           "display_title": "Kohen Requirement",
           "timestamp": "14:03"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Zrikah (Sprinkling of Blood) Requiring Proper Intent and Its Unique Stringencies",
@@ -114,7 +120,9 @@
           "display_title": "Death Penalty",
           "timestamp": "17:29"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Holachah (Carrying the Blood) Requiring Proper Intent and Connection to Kabbalah",
@@ -141,7 +149,9 @@
           "display_title": "Holachah & Kabbalah",
           "timestamp": "20:17"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Intent Regarding the Owner: Shechitah Must Be Done for the Correct Owner",
@@ -168,7 +178,9 @@
           "display_title": "Zevach Teaches Both",
           "timestamp": "27:25"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Owner Intent for Other Services: Why Shechitah and Owner Intent Are Not Identical Requirements",
@@ -210,7 +222,9 @@
           "display_title": "After Death",
           "timestamp": "42:37"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Prooftext from the Nazir's Ram: Learning Owner Intent from an Alternative Source",
@@ -237,7 +251,9 @@
           "display_title": "Incomplete Generalization",
           "timestamp": "51:04"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -535,5 +551,6 @@
       "term": "Piggul (offered with wrong intent)",
       "timestamps": []
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 27
 }

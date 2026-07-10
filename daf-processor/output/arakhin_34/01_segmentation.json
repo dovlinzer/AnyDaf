@@ -28,7 +28,9 @@
           "display_title": "Walled City Problem",
           "timestamp": "04:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Definition of Walled Cities and Their Qualification Criteria",
@@ -65,7 +67,9 @@
           "display_title": "Wall Knockdown",
           "timestamp": "10:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Sanctified Fields of Kohanim and Their Distribution at Yovel",
@@ -102,7 +106,9 @@
           "display_title": "Acharit Olam",
           "timestamp": "19:59"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -279,5 +285,6 @@
         "20:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

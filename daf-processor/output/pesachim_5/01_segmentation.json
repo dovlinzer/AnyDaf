@@ -28,7 +28,9 @@
           "display_title": "Biyur After Six Hours",
           "timestamp": "01:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Dvar Bei Rabbi Ishmael: The Fourteenth as Rishon",
@@ -50,7 +52,9 @@
           "display_title": "Textual Parallels",
           "timestamp": "02:46"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rav Nachman Bar Yitzchak's Interpretation: Rishon as 'Prior' or 'Beforehand'",
@@ -87,7 +91,9 @@
           "display_title": "Grammar: Vav and He",
           "timestamp": "10:50"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Gemara's Resolution: Three Rishonim Merit Three Rishonim",
@@ -124,7 +130,9 @@
           "display_title": "Mashiach",
           "timestamp": "20:54"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Alternative Answers: Rava's Proof from Shechitat HaPesach",
@@ -146,7 +154,9 @@
           "display_title": "Zman Shechita Begins",
           "timestamp": "24:01"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Tanya: Alternative Interpretations of Achad HaRishon—Before Yom Tov, On Yom Tov, or Split Day",
@@ -163,7 +173,9 @@
           "display_title": "Cannot Slaughter with Ch…",
           "timestamp": "25:10"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Rabbi Akiva's Answer: Melacha Problem on Yom Tov Rishon Proves Prior Removal",
@@ -175,7 +187,9 @@
           "display_title": "Melacha Objection",
           "timestamp": "25:16"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rabbi Yossi's Answer: The Word Ach Divides the Day",
@@ -192,7 +206,9 @@
           "display_title": "Hekesh to Matzah",
           "timestamp": "27:26"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Answer: Melacha Problem on Yom Tov Rishon Proves Prior Removal (continued)",
@@ -204,7 +220,9 @@
           "display_title": "Matzah on Erev Pesach",
           "timestamp": "27:59"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "Three Things Learned from Rabbi Akiva's Position",
@@ -226,7 +244,9 @@
           "display_title": "Not Permitted on Yom Tov",
           "timestamp": "33:41"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Tanu Rabbanan: Seven Days Chametz Shall Not Be Found—Deriving Multiple Prohibitions",
@@ -253,7 +273,9 @@
           "display_title": "Houses vs. Borders",
           "timestamp": "41:54"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Gezeirah Shava on Se'or: Applying Restrictions from Houses to Borders and Reverse",
@@ -275,7 +297,9 @@
           "display_title": "Border Rules to Houses",
           "timestamp": "43:42"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Non-Jewish Chametz: When Can a Jew Possess It?",
@@ -307,7 +331,9 @@
           "display_title": "Shelcha Twice = Ribui",
           "timestamp": "46:51"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -790,5 +816,6 @@
         "45:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

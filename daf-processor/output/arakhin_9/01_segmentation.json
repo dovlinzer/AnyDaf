@@ -48,7 +48,9 @@
           "display_title": "Brit Milah Rules",
           "timestamp": "05:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Mathematical Analysis: Why Not Nine Full Months?",
@@ -80,7 +82,9 @@
           "display_title": "Offset Correction",
           "timestamp": "11:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Ulla's Position: Alternative Formulation and Debate Structure",
@@ -102,7 +106,9 @@
           "display_title": "Tolerance Rationale",
           "timestamp": "20:02"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Baraita Dispute: How Many Full Months Can Be Added in a Leap Year?",
@@ -124,7 +130,9 @@
           "display_title": "Seven vs Eight",
           "timestamp": "26:25"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rosh Hashanah and Pesach: Fixed Calendar Relationship Analysis",
@@ -151,7 +159,9 @@
           "display_title": "At Bash Gar",
           "timestamp": "31:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Acheirim Opinion: Fixed Calendar with No Variation Between Years",
@@ -178,7 +188,9 @@
           "display_title": "Adar Correction",
           "timestamp": "44:32"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Ravina's Objection: Accounting for Hours and Longer Cycles in Gap Between Years",
@@ -195,7 +207,9 @@
           "display_title": "Long Cycles",
           "timestamp": "48:45"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Ravina's Objection: Accounting for Hours and Longer Cycles in Gap Between Years (continued)",
@@ -207,7 +221,9 @@
           "display_title": "Five Days Some",
           "timestamp": "49:02"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Shmuel's Standard Lunar Year Length: 352–356 Days with Two-Day Variation",
@@ -229,7 +245,9 @@
           "display_title": "Nazir 354",
           "timestamp": "49:02"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rabbi's Practical Case: Nine Lacking Months for Calendar Correction",
@@ -256,7 +274,9 @@
           "display_title": "RSbR Confirms",
           "timestamp": "49:04"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -459,5 +479,6 @@
         "05:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

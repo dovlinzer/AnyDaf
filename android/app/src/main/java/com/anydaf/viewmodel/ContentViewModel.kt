@@ -3,13 +3,15 @@ package com.anydaf.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.anydaf.AnyDafApp
+import com.anydaf.data.api.Dedication
 import com.anydaf.data.api.DafYomiService
+import com.anydaf.data.api.DedicationService
 import com.anydaf.data.api.FeedManager
 import com.anydaf.data.prefs.AppPreferences
 import com.anydaf.model.QuizMode
-import com.anydaf.model.SourceDisplayMode
 import com.anydaf.model.StudyFontSize
 import com.anydaf.model.StudyMode
+import com.anydaf.model.TextDisplayMode
 import com.anydaf.model.allTractates
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -26,6 +28,9 @@ class ContentViewModel : ViewModel() {
 
     private val _showDonationNudge = MutableStateFlow(false)
     val showDonationNudge: StateFlow<Boolean> = _showDonationNudge.asStateFlow()
+
+    private val _dedication = MutableStateFlow<Dedication?>(null)
+    val dedication: StateFlow<Dedication?> = _dedication.asStateFlow()
 
     private var sessionStartMs: Long? = null
     private var nudgeCheckedThisSession = false
@@ -48,14 +53,11 @@ class ContentViewModel : ViewModel() {
     private val _studyMode = MutableStateFlow(StudyMode.FACTS)
     val studyMode: StateFlow<StudyMode> = _studyMode.asStateFlow()
 
-    private val _sourceDisplayMode = MutableStateFlow(SourceDisplayMode.TOGGLE)
-    val sourceDisplayMode: StateFlow<SourceDisplayMode> = _sourceDisplayMode.asStateFlow()
+    private val _textDisplayMode = MutableStateFlow(TextDisplayMode.TRANSLATION)
+    val textDisplayMode: StateFlow<TextDisplayMode> = _textDisplayMode.asStateFlow()
 
     private val _shiurShowSources = MutableStateFlow(true)
     val shiurShowSources: StateFlow<Boolean> = _shiurShowSources.asStateFlow()
-
-    private val _studyShowHebrew = MutableStateFlow(false)
-    val studyShowHebrew: StateFlow<Boolean> = _studyShowHebrew.asStateFlow()
 
     private val _studyFontSize = MutableStateFlow(StudyFontSize.MEDIUM)
     val studyFontSize: StateFlow<StudyFontSize> = _studyFontSize.asStateFlow()
@@ -68,6 +70,27 @@ class ContentViewModel : ViewModel() {
 
     private val _useWhiteBackground = MutableStateFlow(false)
     val useWhiteBackground: StateFlow<Boolean> = _useWhiteBackground.asStateFlow()
+
+    // "" = not yet loaded (composable defaults to DAF); "DAF"|"TEXT"|"SHIUR" = persisted mode
+    private val _lastContentMode = MutableStateFlow("")
+    val lastContentMode: StateFlow<String> = _lastContentMode.asStateFlow()
+
+    // In-memory mode — survives navigation back from Settings without waiting for DataStore.
+    val currentContentMode = MutableStateFlow("")
+
+    private val _lastTextSectionIndex = MutableStateFlow(0)
+    val lastTextSectionIndex: StateFlow<Int> = _lastTextSectionIndex.asStateFlow()
+    private val _lastTextTractate = MutableStateFlow("")
+    val lastTextTractate: StateFlow<String> = _lastTextTractate.asStateFlow()
+    private val _lastTextDaf = MutableStateFlow(0.0)
+    val lastTextDaf: StateFlow<Double> = _lastTextDaf.asStateFlow()
+
+    private val _lastShiurSegmentIndex = MutableStateFlow(0)
+    val lastShiurSegmentIndex: StateFlow<Int> = _lastShiurSegmentIndex.asStateFlow()
+    private val _lastShiurTractate = MutableStateFlow("")
+    val lastShiurTractate: StateFlow<String> = _lastShiurTractate.asStateFlow()
+    private val _lastShiurDaf = MutableStateFlow(0.0)
+    val lastShiurDaf: StateFlow<Double> = _lastShiurDaf.asStateFlow()
 
     // "" = not yet set (auto-detect); "SHIUR" or "STUDY" = explicit user preference
     private val _tabletRightPanelMode = MutableStateFlow("")
@@ -97,13 +120,19 @@ class ContentViewModel : ViewModel() {
             _selectedDaf.value = AppPreferences.lastDaf.first()  // now Double
             _selectedAmud.value = AppPreferences.lastAmud.first()
             _quizMode.value = AppPreferences.quizMode.first()
-            _sourceDisplayMode.value = AppPreferences.sourceDisplayMode.first()
+            _textDisplayMode.value = AppPreferences.textDisplayMode.first()
             _shiurShowSources.value = AppPreferences.shiurShowSources.first()
-            _studyShowHebrew.value = AppPreferences.studyShowHebrew.first()
             _studyFontSize.value = AppPreferences.studyFontSize.first()
             _printFontSize.value = AppPreferences.printFontSize.first()
             _printLineSpacing.value = AppPreferences.printLineSpacing.first()
             _useWhiteBackground.value = AppPreferences.useWhiteBackground.first()
+            _lastContentMode.value = AppPreferences.lastContentMode.first()
+            _lastTextSectionIndex.value = AppPreferences.lastTextSectionIndex.first()
+            _lastTextTractate.value = AppPreferences.lastTextTractate.first()
+            _lastTextDaf.value = AppPreferences.lastTextDaf.first()
+            _lastShiurSegmentIndex.value = AppPreferences.lastShiurSegmentIndex.first()
+            _lastShiurTractate.value = AppPreferences.lastShiurTractate.first()
+            _lastShiurDaf.value = AppPreferences.lastShiurDaf.first()
             _tabletRightPanelMode.value = AppPreferences.tabletRightPanel.first()
             _tabletCollapsedSide.value = AppPreferences.tabletCollapsedSide.first()
             _tabletSplitDp.value = AppPreferences.tabletSplitDp.first()
@@ -114,6 +143,22 @@ class ContentViewModel : ViewModel() {
         }
         FeedManager.init()
         viewModelScope.launch { FeedManager.refreshIfNeeded() }
+        viewModelScope.launch {
+            val lastShown = AppPreferences.lastDedicationDateShown.first()
+            val today = java.time.LocalDate.now().toString()
+            if (today != lastShown) {
+                val ded = DedicationService.fetch()
+                if (ded != null) {
+                    _dedication.value = ded
+                    AppPreferences.saveLastDedicationDateShown(today)  // only mark when found
+                }
+                // If null, don't mark — we'll check again on the next open.
+            }
+        }
+    }
+
+    fun dismissDedication() {
+        _dedication.value = null
     }
 
     fun selectTractate(index: Int) {
@@ -139,6 +184,18 @@ class ContentViewModel : ViewModel() {
         saveSelection()
     }
 
+    fun saveContentMode(mode: String) {
+        viewModelScope.launch { AppPreferences.saveLastContentMode(mode) }
+    }
+
+    fun saveTextPosition(tractate: String, daf: Double, sectionIndex: Int) {
+        viewModelScope.launch { AppPreferences.saveLastTextPosition(tractate, daf, sectionIndex) }
+    }
+
+    fun saveShiurPosition(tractate: String, daf: Double, segmentIndex: Int) {
+        viewModelScope.launch { AppPreferences.saveLastShiurPosition(tractate, daf, segmentIndex) }
+    }
+
     fun selectQuizMode(mode: QuizMode) {
         _quizMode.value = mode
         viewModelScope.launch { AppPreferences.saveQuizMode(mode) }
@@ -148,19 +205,14 @@ class ContentViewModel : ViewModel() {
         _studyMode.value = mode
     }
 
-    fun selectSourceDisplayMode(mode: SourceDisplayMode) {
-        _sourceDisplayMode.value = mode
-        viewModelScope.launch { AppPreferences.saveSourceDisplayMode(mode) }
+    fun selectTextDisplayMode(mode: TextDisplayMode) {
+        _textDisplayMode.value = mode
+        viewModelScope.launch { AppPreferences.saveTextDisplayMode(mode) }
     }
 
     fun setShiurShowSources(enabled: Boolean) {
         _shiurShowSources.value = enabled
         viewModelScope.launch { AppPreferences.saveShiurShowSources(enabled) }
-    }
-
-    fun setStudyShowHebrew(enabled: Boolean) {
-        _studyShowHebrew.value = enabled
-        viewModelScope.launch { AppPreferences.saveStudyShowHebrew(enabled) }
     }
 
     fun setStudyFontSize(size: StudyFontSize) {

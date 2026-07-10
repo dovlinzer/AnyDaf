@@ -18,7 +18,9 @@
           "display_title": "Prior Topics",
           "timestamp": "00:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah on Women Taking Lulav and Water Maintenance on Different Days",
@@ -40,7 +42,9 @@
           "display_title": "Minor's Obligation",
           "timestamp": "03:36"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Gemara on Women and Muktzah Status of Lulav; Parallel to Shofar Discussions",
@@ -62,7 +66,9 @@
           "display_title": "Shofar Parallel",
           "timestamp": "05:45"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Braita on Chinuch (Training Minors) in Various Mitzvot",
@@ -144,7 +150,9 @@
           "display_title": "Food Discernment",
           "timestamp": "31:20"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Overview of Fourth Perek: Mitzvot Applicable Throughout Succos",
@@ -156,7 +164,9 @@
           "display_title": "Perek Structure",
           "timestamp": "32:23"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Mishnah: Lulav and Arava for Six or Seven Days; Hallel, Simcha, Sukkah, Water Pouring, and Chalil",
@@ -183,7 +193,9 @@
           "display_title": "Chalil Days",
           "timestamp": "35:08"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Detailed Breakdown: When Lulav is Taken for Six or Seven Days",
@@ -200,7 +212,9 @@
           "display_title": "Lulav 6 Days",
           "timestamp": "36:47"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Arava (Hoshana Rabbah) for Six or Seven Days by Same Shabbat Rules",
@@ -217,7 +231,9 @@
           "display_title": "Arava 6 Days",
           "timestamp": "37:53"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Mishnah: Procedure When First Yom Tov Falls on Shabbat; Bringing Lulav to Temple Mount",
@@ -249,7 +265,9 @@
           "display_title": "Takkanah Decision",
           "timestamp": "40:09"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Gemara on Lulav on Shabbat: Why Not on Chol Hamoed Shabbat?",
@@ -271,7 +289,9 @@
           "display_title": "Rabbah Gezeirah",
           "timestamp": "48:22"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Gemara Conclusion: Why First Day Allowed Despite Carrying Concern; Biblical vs. Rabbinic Mitzvot",
@@ -293,7 +313,9 @@
           "display_title": "Shofar Puzzle",
           "timestamp": "53:57"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1062,5 +1084,6 @@
         "30:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

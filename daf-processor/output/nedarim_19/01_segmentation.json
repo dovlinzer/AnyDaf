@@ -23,7 +23,9 @@
           "display_title": "Rabbi Zeira Resolution",
           "timestamp": "01:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of the Koi (Hybrid Animal) and the Principle of Safek in Consecrated Property",
@@ -35,7 +37,9 @@
           "display_title": "Koi Baraita",
           "timestamp": "02:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Safek Bechoros and Rabbinic Tumah of Liquids: Distinguishing Questions of Fact from Questions of Law",
@@ -47,7 +51,9 @@
           "display_title": "Safek Bechoros",
           "timestamp": "10:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of the Koi (Hybrid Animal) and the Principle of Safek in Consecrated Property (continued)",
@@ -64,7 +70,9 @@
           "display_title": "Facts vs. Interpretation",
           "timestamp": "14:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Safek Bechoros and Rabbinic Tumah of Liquids: Distinguishing Questions of Fact from Questions of Law (continued)",
@@ -81,7 +89,9 @@
           "display_title": "Shmuel Resolution",
           "timestamp": "20:45"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Debate Between Rabbi Yehuda and Rabbi Shimon on Safek Nezirut",
@@ -98,7 +108,9 @@
           "display_title": "Yehuda Matir Shimon Oser",
           "timestamp": "24:58"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rava's Explanation: A Person Would Not Willingly Enter Safek When Definite Is Available",
@@ -120,7 +132,9 @@
           "display_title": "Nazir Shimshon",
           "timestamp": "37:53"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rabbi Tarfon's Legal Principle: Ki Yafla—Nezirut Requires Unambiguous Declaration",
@@ -142,7 +156,9 @@
           "display_title": "Grain Lost Detail",
           "timestamp": "45:58"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Case of Stam Teruma in Different Regions: Regional Linguistic Variation",
@@ -154,7 +170,9 @@
           "display_title": "Teruma Strict Lenient",
           "timestamp": "47:49"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Case of Stam Charamim (Dedications) in Different Regions",
@@ -166,7 +184,9 @@
           "display_title": "Charamim Permitted Forbi…",
           "timestamp": "48:27"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Case of Stam Teruma in Different Regions: Regional Linguistic Variation (continued)",
@@ -178,7 +198,9 @@
           "display_title": "Yehuda Consistency",
           "timestamp": "49:14"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Case of Stam Charamim (Dedications) in Different Regions (continued)",
@@ -190,7 +212,9 @@
           "display_title": "Elazar b'Tzadok",
           "timestamp": "49:51"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -380,5 +404,6 @@
         "10:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

@@ -23,7 +23,9 @@
           "display_title": "Tzedakah Obligation",
           "timestamp": "03:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Double Language Formulations and Their Effect on Kiddushin Validity",
@@ -50,7 +52,9 @@
           "display_title": "Single Language Dispute",
           "timestamp": "09:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Legal Rulings on Kiddushin with Non-Standard Objects and Materials",
@@ -72,7 +76,9 @@
           "display_title": "Precious Stones Issue",
           "timestamp": "12:11"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Kiddushin Through a Written Document (Shtar Kiddushin)",
@@ -99,7 +105,9 @@
           "display_title": "Biblical Sources Debate",
           "timestamp": "23:01"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Requirements for Writing Shtar Kiddushin and Disputes About Leshem Status",
@@ -131,7 +139,9 @@
           "display_title": "Tannaim Clarification",
           "timestamp": "40:12"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Kiddushin Through Sexual Intercourse (Bi'ah)",
@@ -168,7 +178,9 @@
           "display_title": "Wife vs. Shifcha",
           "timestamp": "49:59"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -359,5 +371,6 @@
         "48:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

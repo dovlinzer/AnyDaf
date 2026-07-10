@@ -38,7 +38,9 @@
           "display_title": "Ran's Resolution",
           "timestamp": "08:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Interpretation of Temporal Language in Vows: From Today to Year-Long Prohibitions",
@@ -80,7 +82,9 @@
           "display_title": "Vows vs Fasts",
           "timestamp": "23:44"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Ambiguous Temporal Specifications and Competing Interpretive Principles: From Rosh Chodesh Dating to Yovel Cycles",
@@ -112,7 +116,9 @@
           "display_title": "Yovel & Vows",
           "timestamp": "45:14"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Hermeneutic Debate: How Ambiguous Language in Vows Should Be Interpreted",
@@ -139,7 +145,9 @@
           "display_title": "General Principle",
           "timestamp": "50:55"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -422,5 +430,6 @@
         "50:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

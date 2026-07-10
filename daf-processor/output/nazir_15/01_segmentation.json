@@ -28,7 +28,9 @@
           "display_title": "Tosafot's Reading",
           "timestamp": "02:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav's Radical View: Day Seventy Double-Counts (Oleh L'kan U'lekan)",
@@ -50,7 +52,9 @@
           "display_title": "Challenge to Rav",
           "timestamp": "07:51"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Gemara's Refutation of Rav's View Through the Mishnah's Language",
@@ -72,7 +76,9 @@
           "display_title": "Day of Birth Conclusion",
           "timestamp": "12:58"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Clarification: Partial Days in Nazirut vs. Double-Counting",
@@ -89,7 +95,9 @@
           "display_title": "Why Day 71 Fails",
           "timestamp": "13:41"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Rav's Support in Abba Shaul's View on Mourning and the Concept of Miktzas HaYom",
@@ -116,7 +124,9 @@
           "display_title": "Parallel Principles",
           "timestamp": "20:26"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Problem: Rav's View is Supported by Abba Shaul, but Abba Shaul Only Applies to Rabbinic Laws",
@@ -133,7 +143,9 @@
           "display_title": "Rabbi Yosi's Zava",
           "timestamp": "24:25"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rabbi Yosi on the Zava: The Woman Who Bleeds on Day Two",
@@ -155,7 +167,9 @@
           "display_title": "Rabbi Yosi's Ruling",
           "timestamp": "29:55"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Gemara's Analysis: Two Models of Miktzas HaYom",
@@ -177,7 +191,9 @@
           "display_title": "Anticipation Model",
           "timestamp": "34:00"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Gemara's Question: Retroactive Impurity—Rabbinic or Biblical?",
@@ -199,7 +215,9 @@
           "display_title": "Tumah of Depths",
           "timestamp": "38:48"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Rabbi Yoshiya's Opinion: Day Seven Can Be Retroactively Disrupted",
@@ -221,7 +239,9 @@
           "display_title": "Logical Problem",
           "timestamp": "43:07"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Resolving the Logical Problem: Rabbi Yochanan's Support for the Sufficiency Model",
@@ -243,7 +263,9 @@
           "display_title": "Oshaya Conclusion",
           "timestamp": "45:54"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Final Question: How Does a Woman Ever Become a Full Zava Under Rabbi Yosi's Model?",
@@ -270,7 +292,9 @@
           "display_title": "Miktzas Hayom Requirement",
           "timestamp": "51:26"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -547,5 +571,6 @@
         "34:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

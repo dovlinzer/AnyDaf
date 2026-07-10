@@ -38,7 +38,9 @@
           "display_title": "Rav vs. Shmuel",
           "timestamp": "04:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Kofer HaKol and Shevuat Hesset: Obligation Without Evidence",
@@ -70,7 +72,9 @@
           "display_title": "Both Cases",
           "timestamp": "15:09"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Drora D'Mamona: When Shevuat Hesset Applies and Limitations",
@@ -92,7 +96,9 @@
           "display_title": "Shepherd Case",
           "timestamp": "19:36"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shevua D'Oraita versus Shevua D'Rabbanan: Reversal and Enforcement",
@@ -124,7 +130,9 @@
           "display_title": "Chashud",
           "timestamp": "20:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Consequences of Refusing Shevuat Hesset and Rabbinic Enforcement",
@@ -141,7 +149,9 @@
           "display_title": "Crude Force",
           "timestamp": "21:55"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Consequences of Refusing Shevuat Hesset and Rabbinic Enforcement (continued)",
@@ -153,7 +163,9 @@
           "display_title": "30-Day Cherem",
           "timestamp": "21:58"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Shtar and Shevuat Hesset: When Written Evidence Changes the Rules",
@@ -190,7 +202,9 @@
           "display_title": "Case Delayed",
           "timestamp": "21:58"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Payment with Witnesses: Stipulation and Proof Requirements",
@@ -237,7 +251,9 @@
           "display_title": "Unresolved",
           "timestamp": "24:00"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -425,5 +441,6 @@
         "21:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

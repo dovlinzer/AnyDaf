@@ -29,7 +29,8 @@
           "timestamp": "05:00"
         }
       ],
-      "sefaria_index": 12
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Status of Teruma Lachmei Todah as Teruma",
@@ -47,7 +48,8 @@
           "timestamp": "10:19"
         }
       ],
-      "sefaria_index": 0
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Deriving the Number of Loaves and Amount of Flour",
@@ -80,7 +82,8 @@
           "timestamp": "16:58"
         }
       ],
-      "sefaria_index": 4
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Historical Application: Miluim and Bread Types",
@@ -103,7 +106,8 @@
           "timestamp": "29:55"
         }
       ],
-      "sefaria_index": 15
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Nazir's Bread Offering: Two of Three Types",
@@ -121,7 +125,8 @@
           "timestamp": "31:03"
         }
       ],
-      "sefaria_index": 25
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Sanctification of Breads Through Slaughtering the Todah",
@@ -149,7 +154,8 @@
           "timestamp": "33:09"
         }
       ],
-      "sefaria_index": 29
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Definition of Lechem: Crust and Non-Doughy Texture",
@@ -176,7 +182,9 @@
           "display_title": "Non-Stringy Standard",
           "timestamp": "37:37"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "Edge Case: Bringing More Than Forty Loaves",
@@ -203,7 +211,9 @@
           "display_title": "Knife Power Debate",
           "timestamp": "44:52"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     }
   ],
   "topical_tags": [

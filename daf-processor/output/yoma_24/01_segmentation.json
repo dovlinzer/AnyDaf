@@ -53,7 +53,9 @@
           "display_title": "Positions Compared",
           "timestamp": "09:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Deriving the Required Amount of Ashes: The Kometz Measure and Comparison to Terumah",
@@ -75,7 +77,9 @@
           "display_title": "Kometz Measure",
           "timestamp": "24:17"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Four Capital Avodat Categories and the Debate Over Terumat HaDeshen's Status",
@@ -97,7 +101,9 @@
           "display_title": "Levi Adds HaDeshen",
           "timestamp": "26:55"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rav's Exegesis: Two Criteria for Capital Avodat—Avodah Tammah (Completing) and Placing, Not Removing",
@@ -119,7 +125,9 @@
           "display_title": "HaDeshen Is Siluk",
           "timestamp": "29:32"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Levi's Counter-Interpretation: Terumat HaDeshen Qualifies as Capital Avodat Because It Is a Completing Act",
@@ -141,7 +149,9 @@
           "display_title": "Reconciliation",
           "timestamp": "36:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Testing the Avodah Tammah Criterion: The Menorah and the Paradox of Non-Avodah Labor",
@@ -168,7 +178,9 @@
           "display_title": "Hatzat Proof",
           "timestamp": "46:02"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rambam's Synthesis: Classifying Interim vs. Final Avodot and Surprising Leniency on Non-Kohen Lighting",
@@ -180,7 +192,9 @@
           "display_title": "Wood as Haktarah",
           "timestamp": "46:08"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Testing the Avodah Tammah Criterion: The Menorah and the Paradox of Non-Avodah Labor (continued)",
@@ -192,7 +206,9 @@
           "display_title": "Light vs. Burning",
           "timestamp": "46:34"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Rambam's Synthesis: Classifying Interim vs. Final Avodot and Surprising Leniency on Non-Kohen Lighting (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Removed & Lit Outside",
           "timestamp": "46:58"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Testing Wood-Stacking Against the Avodah Tammah Criterion: Interim vs. Completing Act",
@@ -221,7 +239,9 @@
           "display_title": "Wood Logs Question",
           "timestamp": "47:37"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Testing Wood-Stacking Against the Avodah Tammah Criterion: Interim vs. Completing Act (continued)",
@@ -233,7 +253,9 @@
           "display_title": "Two Interpretations",
           "timestamp": "48:08"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "Summary: Baraita Support for Both Rav and Levi Regarding Capital Avodat Categories",
@@ -250,7 +272,9 @@
           "display_title": "Levi's Baraita",
           "timestamp": "48:08"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -909,5 +933,6 @@
         "46:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

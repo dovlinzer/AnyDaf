@@ -33,7 +33,9 @@
           "display_title": "Rava's Resolution",
           "timestamp": "03:00"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Fatal Conditions That Are Not Treifah Defects",
@@ -55,7 +57,9 @@
           "display_title": "Poison & Snake Bite",
           "timestamp": "06:49"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Chiltit (Asafoetida) as a Treifah Defect and Related Spices",
@@ -87,7 +91,9 @@
           "display_title": "Tea (Tiah) ID",
           "timestamp": "12:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Cautionary Tales on Dangerous Foods and Poison Detection",
@@ -134,7 +140,9 @@
           "display_title": "Rav & Shmuel Praise",
           "timestamp": "18:36"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Identifying Kosher Species: Mammals, Wild Animals, and the Role of Simanim",
@@ -161,7 +169,9 @@
           "display_title": "Grasshoppers & Fish",
           "timestamp": "28:07"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Deriving Simanim from Indirect Signs: Teeth, Hooves, and Flesh Direction",
@@ -213,7 +223,9 @@
           "display_title": "Wild Donkey Exception",
           "timestamp": "44:20"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Distinguishing Chaya from Behema: Horn Characteristics and Fat Permissibility",
@@ -290,7 +302,9 @@
           "display_title": "Respect for Rav Acha",
           "timestamp": "54:02"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -825,5 +839,6 @@
         "54:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

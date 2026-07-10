@@ -33,7 +33,9 @@
           "display_title": "Animate/Inanimate",
           "timestamp": "03:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Talmudic Derivation: Textual Basis for Smicha and Tenufa Requirements",
@@ -70,7 +72,9 @@
           "display_title": "Singular Form",
           "timestamp": "07:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Challenge to Smicha-Only-on-Living-Animals Principle",
@@ -102,7 +106,9 @@
           "display_title": "Honor Exception",
           "timestamp": "12:05"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Historical Testimony: Ben Sira's Account of Kohen Gadol's Service",
@@ -129,7 +135,9 @@
           "display_title": "Fire vs. Blood",
           "timestamp": "15:04"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Two Loaves of Shavuot: Kneading and Baking Requirements",
@@ -151,7 +159,9 @@
           "display_title": "Mold Stages",
           "timestamp": "16:38"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Textual Basis for Lechem Hapanim Measurements and Baking",
@@ -188,7 +198,9 @@
           "display_title": "Expansion Problem",
           "timestamp": "21:25"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Shape Debate: Open Box vs. Racing Boat Configuration",
@@ -215,7 +227,9 @@
           "display_title": "V-Shape Fix",
           "timestamp": "24:08"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Support Structure Analysis: Panels, Rods, and Bread Configuration",
@@ -252,7 +266,9 @@
           "display_title": "Mutual Support",
           "timestamp": "32:13"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -573,5 +589,6 @@
         "03:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

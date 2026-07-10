@@ -58,7 +58,9 @@
           "display_title": "Concession",
           "timestamp": "06:54"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Cases of Explicit Interest (Ribbit Ketzuza): Payment in Kind and Recovery in Court",
@@ -125,7 +127,9 @@
           "display_title": "Borrower Protection",
           "timestamp": "20:20"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Deferred Payment in Rentals vs. Sales: The Mishna's Distinction",
@@ -172,7 +176,9 @@
           "display_title": "Debt vs. Payable",
           "timestamp": "28:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Hidden Interest (Tarsha): Pricing Without Explicit Comparison",
@@ -219,7 +225,9 @@
           "display_title": "Buyer's Need",
           "timestamp": "35:09"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Special Case: Sending Merchandise to a Distant Market",
@@ -256,7 +264,9 @@
           "display_title": "Favor Exchange",
           "timestamp": "44:34"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Halacha Conclusions on Ribbit Ketzuza and Related Cases",
@@ -278,7 +288,9 @@
           "display_title": "Rav Yannai Rule",
           "timestamp": "46:32"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Hidden Interest (Tarsha): Pricing Without Explicit Comparison (continued)",
@@ -290,7 +302,9 @@
           "display_title": "Reconciliation",
           "timestamp": "46:59"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Mishna: Partial Payment in Land Sale and the Fruit Problem",
@@ -322,7 +336,9 @@
           "display_title": "Bisos Example",
           "timestamp": "50:54"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Four Scenarios for Who Eats the Fruit",
@@ -339,7 +355,9 @@
           "display_title": "Third Party",
           "timestamp": "52:32"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Mishna: Partial Payment in Land Sale and the Fruit Problem (continued)",
@@ -351,7 +369,9 @@
           "display_title": "Sequential Payment",
           "timestamp": "52:44"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Four Scenarios for Who Eats the Fruit (continued)",
@@ -393,7 +413,9 @@
           "display_title": "Tzad Echad Rule",
           "timestamp": "55:31"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -596,5 +618,6 @@
         "47:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

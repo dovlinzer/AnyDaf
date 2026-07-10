@@ -18,7 +18,9 @@
           "display_title": "Gift Reciprocity",
           "timestamp": "02:02"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Gemara's Reconciliation: Braita vs. Mishna on Directional Flow of Gifts (Family-to-Individual vs. Individual-to-Individual)",
@@ -50,7 +52,9 @@
           "display_title": "Samuel's Yibum Case",
           "timestamp": "12:21"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Yibum Problem: Death Before Nisuin and the Status of Contested Gifts as Rav'ui vs. Muchzak",
@@ -67,7 +71,9 @@
           "display_title": "Obligation Trigger",
           "timestamp": "18:13"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Digression: Kiddushin and Ketubah—When Betrothal Gifts Must Be Returned Upon the Woman's Death",
@@ -134,7 +140,9 @@
           "display_title": "Amimar Dissent",
           "timestamp": "45:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Return to Shushbinut: Five Halachic Properties of Wedding Gifts as a Unique Form of Obligation",
@@ -171,7 +179,9 @@
           "display_title": "Bechor Exclusion",
           "timestamp": "54:52"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -505,5 +515,6 @@
         "47:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

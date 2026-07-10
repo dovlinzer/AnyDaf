@@ -38,7 +38,9 @@
           "display_title": "Disqualified Items",
           "timestamp": "07:28"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The question of whether wrapping bread or hands exempts one from netilas yadayim",
@@ -60,7 +62,9 @@
           "display_title": "Size vs Wrapping",
           "timestamp": "11:40"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The shiur (minimum amount) of bread requiring netilas yadayim and practical applications",
@@ -82,7 +86,9 @@
           "display_title": "Practical Halacha",
           "timestamp": "13:54"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "The question of whether wrapping bread or hands exempts one from netilas yadayim (continued)",
@@ -104,7 +110,9 @@
           "display_title": "Wrapping Terumah",
           "timestamp": "15:58"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Whether netilas yadayim is required for one being fed versus one feeding",
@@ -136,7 +144,9 @@
           "display_title": "Halachic Conclusion",
           "timestamp": "29:40"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Meat and milk separation regarding eating at the same table and the concept of tfisa achat",
@@ -183,7 +193,9 @@
           "display_title": "Table Types",
           "timestamp": "42:50"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -532,5 +544,6 @@
         "26:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -23,7 +23,9 @@
           "display_title": "Eat Immediately",
           "timestamp": "02:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Preparation of the Korban Pesach: Roasting Requirements and Prohibited Methods",
@@ -45,7 +47,9 @@
           "display_title": "Baker's Water",
           "timestamp": "04:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Flour in Charoset and Mustard: The Debate on Fermentation with Acidic Liquids (continued)",
@@ -62,7 +66,9 @@
           "display_title": "Vinegar Neutral",
           "timestamp": "13:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Cooking with Other Liquids: Extension of the Biblical Prohibition Beyond Water",
@@ -84,7 +90,9 @@
           "display_title": "Pan-Roasting",
           "timestamp": "20:12"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Cooking Before and After Roasting: Sequential Actions and Change of Status",
@@ -111,7 +119,9 @@
           "display_title": "Apply to Pesach",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Extreme Cases: Completely Raw and Charred Meat",
@@ -128,7 +138,9 @@
           "display_title": "Completely Raw",
           "timestamp": "31:46"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Meaning of Na (Rare) and the Role of Tzeli Esh in Defining Permitted Preparation",
@@ -150,7 +162,9 @@
           "display_title": "Two Halves",
           "timestamp": "36:00"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Lashes and Negative Prohibitions: The Debate Between Abaye and Rava",
@@ -182,7 +196,9 @@
           "display_title": "Nazir Example",
           "timestamp": "43:20"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Timing of the Prohibition: Night of Pesach vs. Erev Pesach",
@@ -204,7 +220,9 @@
           "display_title": "Pasuk Contrast",
           "timestamp": "50:24"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Early Consumption of Roasted Korban Pesach: Is It a Negative Prohibition?",
@@ -226,7 +244,9 @@
           "display_title": "Lav M'Klal Aseh",
           "timestamp": "56:02"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -612,5 +632,6 @@
         "56:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

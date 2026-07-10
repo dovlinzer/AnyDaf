@@ -23,7 +23,9 @@
           "display_title": "Universal Petachim",
           "timestamp": "01:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Petach with Yom Tov and Shabbat: Mishna 66a Opening",
@@ -40,7 +42,9 @@
           "display_title": "Ran's Addition",
           "timestamp": "02:36"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Berishona Hayu Omrim: Historical Practice and Neder She'Hutar Miktzato",
@@ -67,7 +71,9 @@
           "display_title": "Yerushalmi Source",
           "timestamp": "04:52"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Keitzad: Multiple People in a Neder and the Daisy-Chain Effect",
@@ -109,7 +115,9 @@
           "display_title": "Conceptual Model",
           "timestamp": "09:39"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Independent Nedarim: Konam La'Zeh, Konam La'Zeh and the Necessity of Repeating the Formula",
@@ -121,7 +129,9 @@
           "display_title": "Linked vs. Independent",
           "timestamp": "10:10"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Wine and Onion Cases: Ta'ut and Huter Miktzato",
@@ -153,7 +163,9 @@
           "display_title": "R. Meir Permits All",
           "timestamp": "13:27"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Independent Nedarim: Konam La'Zeh, Konam La'Zeh and the Necessity of Repeating the Formula (continued)",
@@ -170,7 +182,9 @@
           "display_title": "Chachamim Disagree",
           "timestamp": "17:37"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Wine and Onion Cases: Ta'ut and Huter Miktzato (continued)",
@@ -182,7 +196,9 @@
           "display_title": "Wine Case",
           "timestamp": "17:42"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Potchin L'Adam Bichvod Atzmo U'Bichvod Banav - Personal and Family Honor",
@@ -204,7 +220,9 @@
           "display_title": "Daughters' Honor",
           "timestamp": "20:17"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Konam She'Ani Nosei Plonis Ke'Urah - False Assumptions About a Woman's Appearance",
@@ -231,7 +249,9 @@
           "display_title": "R. Yishmael Story",
           "timestamp": "23:08"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis of the Niece Story: Nolad or Ta'ut?",
@@ -263,7 +283,9 @@
           "display_title": "Rabbi Yishmael's Eulogy",
           "timestamp": "27:12"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Hahu Bar Bavel: Miscommunication Between Husband and Wife Due to Different Aramaic Dialects",
@@ -305,7 +327,9 @@
           "display_title": "Husband's Will",
           "timestamp": "49:29"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -494,5 +518,6 @@
         "14:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

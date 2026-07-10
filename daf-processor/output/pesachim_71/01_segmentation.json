@@ -28,7 +28,9 @@
           "display_title": "Ben Dortai",
           "timestamp": "01:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Overview of Regular Holiday Korbanot and the Three Obligatory Offerings",
@@ -60,7 +62,9 @@
           "display_title": "Korban Shutafin",
           "timestamp": "07:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shlamim Slaughtered Before Yom Tov Cannot Fulfill Simcha or Chagigah Obligations",
@@ -92,7 +96,9 @@
           "display_title": "Tosafot",
           "timestamp": "12:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "When Can Shlamim Be Slaughtered and Eaten: The Dispute on Timing",
@@ -124,7 +130,9 @@
           "display_title": "Rashi/Tosafot",
           "timestamp": "19:22"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rav Yosef's Challenge: Can Chagigah of Fourteenth Count as Simcha?",
@@ -146,7 +154,9 @@
           "display_title": "Rav Idi Bar Avin",
           "timestamp": "23:15"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Challenge from Sukkot: Eight Days of Simcha Becomes Impossible When Holiday Falls on Shabbat",
@@ -178,7 +188,9 @@
           "display_title": "Rav Papa",
           "timestamp": "30:20"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Nature of Simcha: Through Korban vs. Modern Practice",
@@ -205,7 +217,9 @@
           "display_title": "Rambam One",
           "timestamp": "32:14"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Rava's Response and the Alternative Opinion: Eating Determines Obligation, Not Slaughter",
@@ -232,7 +246,9 @@
           "display_title": "Rambam Ruling",
           "timestamp": "37:55"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Burning of Imurim and the Morning Expiration Date",
@@ -264,7 +280,9 @@
           "display_title": "Abaye Response",
           "timestamp": "43:15"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Unpacking the Baraita: Two Chagigot or One?",
@@ -296,7 +314,9 @@
           "display_title": "Fourteenth Proof",
           "timestamp": "51:14"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Conclusion: Boker Always Means Immediate Morning Unless Context Indicates Otherwise",
@@ -318,7 +338,9 @@
           "display_title": "Imurim Rule",
           "timestamp": "53:20"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1000,5 +1022,6 @@
         "43:28"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

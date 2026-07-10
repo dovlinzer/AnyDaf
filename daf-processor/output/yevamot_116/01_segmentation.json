@@ -18,7 +18,9 @@
           "display_title": "Death Cases Overview",
           "timestamp": "01:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case of Yitzchak Reish Galuta: Identifying the Person Named in the Message",
@@ -35,7 +37,9 @@
           "display_title": "Abaye vs Rava",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Example of Found Get: Establishing Standards for Identity Verification",
@@ -52,7 +56,9 @@
           "display_title": "Abaye: Check & Eliminate",
           "timestamp": "03:55"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rava's Position: Multiple Common Names and the Evidence of Possession",
@@ -64,7 +70,9 @@
           "display_title": "Mechuza Writs",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Example of Found Get: Establishing Standards for Identity Verification (continued)",
@@ -76,7 +84,9 @@
           "display_title": "Rashi: Money vs Issur",
           "timestamp": "07:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rava's Position: Multiple Common Names and the Evidence of Possession (continued)",
@@ -93,7 +103,9 @@
           "display_title": "Possession vs Authority",
           "timestamp": "11:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Case of Anan bar Chiya: Locating the Correct Person and Eliminating Alternatives",
@@ -125,7 +137,9 @@
           "display_title": "Mili Masar",
           "timestamp": "20:30"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Return to Sesame Seeds Case and Application of Standards Across Different Scenarios",
@@ -142,7 +156,9 @@
           "display_title": "Sesame Seeds",
           "timestamp": "25:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Ketata (Fighting): When the Woman's Credibility is Questioned",
@@ -164,7 +180,9 @@
           "display_title": "Blame Shifts Concern",
           "timestamp": "30:06"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Third Party Witness (Ed Echad) During Ketata: Unresolved Question",
@@ -186,7 +204,9 @@
           "display_title": "Teiku Unresolved",
           "timestamp": "35:09"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Practical Implications and Modern Applications of Ketata and Milchama Standards",
@@ -203,7 +223,9 @@
           "display_title": "Agunah Solutions",
           "timestamp": "35:55"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda's Stringent Standard: Requiring Signs of Mourning and Grief",
@@ -230,7 +252,9 @@
           "display_title": "Coaching Falsification",
           "timestamp": "38:23"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Beis Hillel's Basic Principle: Woman Believed to Report Husband's Death",
@@ -252,7 +276,9 @@
           "display_title": "Beis Shammai Object",
           "timestamp": "41:14"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Debate Over Generalization: Beis Shammai vs. Beis Hillel on Abstracting the Case",
@@ -279,7 +305,9 @@
           "display_title": "Hillel Concedes",
           "timestamp": "44:45"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Original Case of the Woman and the Ten Harvesters",
@@ -301,7 +329,9 @@
           "display_title": "Remarriage Principle",
           "timestamp": "45:37"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Comparison: Rabbi Chanina ben Akiva and Rabbanan on Parah Adumah Transfer Rules",
@@ -323,7 +353,9 @@
           "display_title": "Broad View",
           "timestamp": "49:33"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Analysis: When to Generalize Rules vs. Limit to Concrete Cases",
@@ -350,7 +382,9 @@
           "display_title": "Woman vs Parah",
           "timestamp": "52:39"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -512,5 +546,6 @@
         "35:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -23,7 +23,9 @@
           "display_title": "Ta'am K'Ikar Intro",
           "timestamp": "05:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Ta'am Lifgam (Bad Taste) and the Mishnah's Permissibility",
@@ -50,7 +52,9 @@
           "display_title": "Reish Lakish Dispute",
           "timestamp": "08:19"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Ta'amo U'Mamasho vs. Ta'amo V'Lo Mamasho: The Essence Question",
@@ -72,7 +76,9 @@
           "display_title": "Biblical vs. Rabbinic",
           "timestamp": "26:20"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rabbi Meir vs. Rabbi Shimon: The Source from Neveilah (Carcass)",
@@ -99,7 +105,9 @@
           "display_title": "Starkist Analogy",
           "timestamp": "39:50"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Hishbiach U'Levasof Pagam: When Taste Starts Good and Becomes Bad",
@@ -131,7 +139,9 @@
           "display_title": "Final Resolution",
           "timestamp": "42:40"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -277,5 +287,11 @@
         "28:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 1,
+  "amud_b_timestamp": "08:19",
+  "amud_b_micro_title": "Reish Lakish Dispute",
+  "shiur_start_daf": 67,
+  "shiur_start_amud": "a"
 }

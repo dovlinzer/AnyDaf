@@ -18,7 +18,9 @@
           "display_title": "Hagasha & Tenufa",
           "timestamp": "00:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna: The Machavat and Marcheshet—Flat Frying Pan vs. Deep Saucepan",
@@ -50,7 +52,9 @@
           "display_title": "Rabbi Chanina",
           "timestamp": "10:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara: Beit Shammai vs. Beit Hillel on the Names Marcheshet and Machavat",
@@ -82,7 +86,9 @@
           "display_title": "Marcheshet Description",
           "timestamp": "22:00"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Mishna: Baked Mincha in an Oven—Tanur, Kupach, and Prohibited Vessels",
@@ -114,7 +120,9 @@
           "display_title": "Rabbi Shimon",
           "timestamp": "28:49"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Gemara: When Does the Mincha Acquire Kedusha? The Question of Yotzei (Taking Out)",
@@ -141,7 +149,9 @@
           "display_title": "Rava's Reinterpretation",
           "timestamp": "33:14"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Mishna: Baked Mincha with Chalos and Rekikin—Half and Half Debate",
@@ -168,7 +178,9 @@
           "display_title": "Mixing Method",
           "timestamp": "38:38"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara: Rabbi Yose b'Rabbi Yehuda's Drasha from 'Kol Mincha'—Two Distinct Types",
@@ -200,7 +212,9 @@
           "display_title": "B'Diavad Distinction",
           "timestamp": "44:09"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Perek Rabbi Ishmael: The Omer—Introduction and Overview",
@@ -217,7 +231,9 @@
           "display_title": "Starting Amounts",
           "timestamp": "45:19"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Mishna: Rabbi Chananya Segan HaKohanim on the Public Cutting of the Omer",
@@ -244,7 +260,9 @@
           "display_title": "Sadducee Refutation",
           "timestamp": "48:21"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Gemara: Why Different Amounts of Grain (Three vs. Five Se'im)?",
@@ -276,7 +294,9 @@
           "display_title": "Five Melachot",
           "timestamp": "52:11"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Gemara: Comparing Rabbi Ishmael and Rabbi Shimon b'R. Yochanan—Minimizing Shabbat Violation",
@@ -308,7 +328,9 @@
           "display_title": "Omer Warranted",
           "timestamp": "58:01"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -592,5 +614,6 @@
         "11:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

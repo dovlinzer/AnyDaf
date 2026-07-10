@@ -18,7 +18,9 @@
           "display_title": "Rabbi Akiva Position",
           "timestamp": "02:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rami bar Chama's Question on Blood Hitting a Tamei Garment",
@@ -35,7 +37,9 @@
           "display_title": "Rav Huna's Answer",
           "timestamp": "04:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Debate of Rabbi Eliezer and the Rabbis on Antecedent Tumah via the Parah Adumah Case",
@@ -87,7 +91,9 @@
           "display_title": "Minimum Amount",
           "timestamp": "19:10"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Mishnah on Invalid Blood and its Supporting Verses",
@@ -119,7 +125,9 @@
           "display_title": "Akiva Counter",
           "timestamp": "23:09"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Cases of Blood Not Caught in a Vessel and Blood No Longer Fit for Sprinkling",
@@ -146,7 +154,9 @@
           "display_title": "Summary Principle",
           "timestamp": "26:16"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Tannaitic Derivations from Verses Excluding Various Unfitness Cases",
@@ -168,7 +178,9 @@
           "display_title": "Fitness Summary",
           "timestamp": "28:42"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Requirement of Minimum Amount Caught at Once: Parah Adumah and Blood Cases",
@@ -200,7 +212,9 @@
           "display_title": "Rava's Blood",
           "timestamp": "34:00"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "The Status of Remaining Blood on the Kohen's Finger During and After Sprinkling",
@@ -232,7 +246,9 @@
           "display_title": "Vessel Rim",
           "timestamp": "46:34"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -345,5 +361,6 @@
         "27:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

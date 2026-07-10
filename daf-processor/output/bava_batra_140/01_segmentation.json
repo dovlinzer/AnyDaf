@@ -23,7 +23,9 @@
           "display_title": "Merubim Definition",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Merubim Venismatu: When a Large Estate Shrinks and the Status of the Heirs' Portion",
@@ -50,7 +52,9 @@
           "display_title": "Nachala DeOraisa",
           "timestamp": "08:14"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Muatim Venisrabu: When a Small Estate Grows and the Question of Excess Benefit",
@@ -62,7 +66,9 @@
           "display_title": "Muatim Growth Question",
           "timestamp": "10:43"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Merubim Venismatu: When a Large Estate Shrinks and the Status of the Heirs' Portion (continued)",
@@ -74,7 +80,9 @@
           "display_title": "Formal Assignment Impact",
           "timestamp": "12:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Muatim Venisrabu: When a Small Estate Grows and the Question of Excess Benefit (continued)",
@@ -101,7 +109,9 @@
           "display_title": "Geviya & Ownership",
           "timestamp": "19:11"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Widow and Multiple Creditors: Priority and the Framework for Assessing Estate Size",
@@ -138,7 +148,9 @@
           "display_title": "Widow Priority",
           "timestamp": "41:55"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Admon's Argument: Do Sons Deserve Equal Support as Daughters in a Small Estate?",
@@ -170,7 +182,9 @@
           "display_title": "Tosafot vs. Rashbam",
           "timestamp": "49:14"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Tumtum and Androgynous: Indeterminate Sex in Inheritance and Conditional Gifts",
@@ -207,7 +221,9 @@
           "display_title": "Tumtum Own Category",
           "timestamp": "53:45"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -398,5 +414,6 @@
         "52:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

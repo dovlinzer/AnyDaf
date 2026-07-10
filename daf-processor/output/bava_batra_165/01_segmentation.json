@@ -38,7 +38,9 @@
           "display_title": "Tehillim & Handwriting",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Excursus on Lashon Hara: Three Daily Transgressions and the Severity of the Offense",
@@ -65,7 +67,9 @@
           "display_title": "Avak Gezel & Commerce",
           "timestamp": "12:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Minhag HaMedinah and the Debate over Mekushar vs. Pashut Authorization",
@@ -97,7 +101,9 @@
           "display_title": "Three Sages Agree",
           "timestamp": "20:58"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Validity of a Shtar with One Witness and the Question of Combination",
@@ -124,7 +130,9 @@
           "display_title": "Amemar's Position",
           "timestamp": "28:45"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Story of Rabbi Yirmiyah: Combination of Witnesses and Judges from Different Courts",
@@ -181,7 +189,9 @@
           "display_title": "Yirmiyah Restored",
           "timestamp": "44:44"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Validity of a Shtar with One Witness and the Question of Combination (continued)",
@@ -193,7 +203,9 @@
           "display_title": "Tosafot's Limitation",
           "timestamp": "45:32"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Contradictions in the Shtar: Amount Discrepancies and the Minimalist Principle",
@@ -225,7 +237,9 @@
           "display_title": "Coin Types & Minimums",
           "timestamp": "54:37"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Currency Terminology in Shtarot: Silver, Gold, Dinars, and Interpretation by Material Type",
@@ -272,7 +286,9 @@
           "display_title": "No Gold Pennies",
           "timestamp": "57:27"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1036,5 +1052,6 @@
         "04:19"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

@@ -18,7 +18,9 @@
           "display_title": "First Perek Structure",
           "timestamp": "00:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishna on Ha-Isha Nikneit: Three Ways a Woman is Acquired and Two Ways She Acquires Herself",
@@ -60,7 +62,9 @@
           "display_title": "Biah Method",
           "timestamp": "06:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kiddushin Versus Nisu'in: Two Distinct Stages of Marriage with Different Legal and Practical Consequences",
@@ -92,7 +96,9 @@
           "display_title": "Biah Distinction",
           "timestamp": "11:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Kesef as Object of Value: Beit Shammai Versus Beit Hillel on the Minimum Amount Required",
@@ -119,7 +125,9 @@
           "display_title": "Kesef in Context",
           "timestamp": "24:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Introduction to Masechet Kiddushin: Structure, Scope, and the Relationship between Kiddushin and Kinyan (continued)",
@@ -131,7 +139,9 @@
           "display_title": "Kinyan vs. Kiddushin",
           "timestamp": "26:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Opening Question: Ha-Isha Nikneit Versus Ha-Ish Mekadesh and the Conceptual Shift from Kinyan to Kiddushin",
@@ -163,7 +173,9 @@
           "display_title": "Biblical vs. Rabbinic",
           "timestamp": "34:56"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Meaning of Kiddushin: D'Asar Lah Akuly Alma K'Hekdesh and the Sanctification Model",
@@ -190,7 +202,9 @@
           "display_title": "Woman's Agency",
           "timestamp": "40:00"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Tosafot's Questions on the Gezerah Shavah: Why the Parallel to Efron's Field Is Not Perfect",
@@ -212,7 +226,9 @@
           "display_title": "Tosafot Q2",
           "timestamp": "42:47"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Kicha in the Torah: Biblical Meaning Versus Rabbinic Application to Kiddushin",
@@ -234,7 +250,9 @@
           "display_title": "Methodological Paradox",
           "timestamp": "45:46"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Mishna's Emphasis: Ha-Isha Nikneit to Highlight Her Consent and Subject Status, Not Her Object Status",
@@ -261,7 +279,9 @@
           "display_title": "Father's Rights",
           "timestamp": "50:10"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Grammatical Analysis: Why Shalosh (Feminine) Rather Than Shlosha (Masculine) for Drachim",
@@ -288,7 +308,9 @@
           "display_title": "Context Resolution",
           "timestamp": "53:18"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Application to the Mishnayot: Why Shalosh Drachim for Women and Shiva Derachim (Not Sheva) for the Zav",
@@ -310,7 +332,9 @@
           "display_title": "Zav Rationale",
           "timestamp": "54:32"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -669,5 +693,6 @@
       "term": "Mum Debate (Defect Discussions)",
       "timestamps": []
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

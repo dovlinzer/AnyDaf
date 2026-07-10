@@ -48,7 +48,9 @@
           "display_title": "Three Positions",
           "timestamp": "05:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Goring of Children (Ben and Bat): Establishing Uniform Halachic Treatment Between Adults and Minors",
@@ -100,7 +102,9 @@
           "display_title": "Repeated Word",
           "timestamp": "20:22"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Unintentional Goring (Shor Shelo B'Kavanah): Exemption from Skilah but Possible Payment of Kofer",
@@ -142,7 +146,9 @@
           "display_title": "Direct Contact",
           "timestamp": "38:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Baraita Establishing Four Combinations: Skilah and Kofer Are Linked to Different Factors (Kavanah vs. Muad)",
@@ -179,7 +185,9 @@
           "display_title": "Independent Factors",
           "timestamp": "40:50"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Damage (Nezikin) When Unintentional: The Debate Between Rabbi Yehuda and Rabbi Shimon on Payment for Harm to Wrong Party",
@@ -211,7 +219,9 @@
           "display_title": "Mishna's View",
           "timestamp": "47:41"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Intentional Harm to Wrong Party (Tried to Kill One Person, Killed Another): The Dispute Between Rabbi Shimon and the Rabbanan on Criminal Liability",
@@ -248,7 +258,9 @@
           "display_title": "Safeik Nefashot",
           "timestamp": "50:54"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Ownership Requirements for Skilah: Whether an Ox Must Have an Owner at the Time of the Goring or Throughout the Process",
@@ -285,7 +297,9 @@
           "display_title": "Gemar Din",
           "timestamp": "58:21"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -450,5 +464,6 @@
         "58:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

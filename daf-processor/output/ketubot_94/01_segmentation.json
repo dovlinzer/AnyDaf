@@ -33,7 +33,9 @@
           "display_title": "Same-Day Documents",
           "timestamp": "05:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis of the Oath Debate: Tana Kama vs. Ben Nanas",
@@ -65,7 +67,9 @@
           "display_title": "Psychological Deterrent",
           "timestamp": "15:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Oath and Representation: Partners in Undivided Property and Court Cases",
@@ -92,7 +96,9 @@
           "display_title": "Context & Presence",
           "timestamp": "26:04"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Two Documents on the Same Day: Rav vs. Shmuel and the Underlying Principles",
@@ -124,7 +130,9 @@
           "display_title": "Braita Citation",
           "timestamp": "37:45"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Case of Rami bar Chama and Mar Ukva: Judicial Authority and Shuda De-Dayni",
@@ -156,7 +164,9 @@
           "display_title": "Conscious Exercise",
           "timestamp": "48:12"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Case of Ambiguous Document Dating and Reimbursement Rights",
@@ -188,7 +198,9 @@
           "display_title": "Power of Attorney",
           "timestamp": "55:03"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -361,5 +373,6 @@
         "55:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

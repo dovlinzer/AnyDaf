@@ -23,7 +23,9 @@
           "display_title": "Core Question",
           "timestamp": "02:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's New Case: When the Shochet Plans to Use Blood for Idolatry",
@@ -50,7 +52,9 @@
           "display_title": "Reish Lakish",
           "timestamp": "05:20"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Model of Pigul: Learning from Sacrificial Intent to Secular Slaughter",
@@ -77,7 +81,9 @@
           "display_title": "Tosafot: Act Redefined",
           "timestamp": "10:57"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Gemara's Parallel Case: Intent for Wrong Avodah at Proper Avodah Time",
@@ -99,7 +105,9 @@
           "display_title": "Extending Pigul Model",
           "timestamp": "16:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Why Both Cases Must Be Taught: Distinguishing Between Inside and Outside the Temple",
@@ -121,7 +129,9 @@
           "display_title": "Excusing Yochanan",
           "timestamp": "17:42"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rav Yosef's Kal V'Chomer: Why Only the Shochet's Intent Should Matter",
@@ -143,7 +153,9 @@
           "display_title": "Avoda L'Avoda Reread",
           "timestamp": "22:44"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Four Avodot vs. Two Avodot: Why Only Shechitah and Zrika Affect Meat Status",
@@ -165,7 +177,9 @@
           "display_title": "Sin vs. Meat Status",
           "timestamp": "30:16"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Braita Supporting Rabbi Yochanan: Shechitah or Zrika for Avodah Zarah Forbids the Meat",
@@ -187,7 +201,9 @@
           "display_title": "Redefining Act",
           "timestamp": "39:16"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Caesarea Case: Shechitah Followed by Later Declaration of Intent",
@@ -209,7 +225,9 @@
           "display_title": "Rav Chisda Resolution",
           "timestamp": "41:26"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Can Later Statements Prove Earlier Intent? The Gittin Analogy",
@@ -236,7 +254,9 @@
           "display_title": "Get and Roof Case",
           "timestamp": "49:53"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Limits of Hochiach Sofo: When Later Behavior Can and Cannot Reinterpret Past Acts",
@@ -258,7 +278,9 @@
           "display_title": "Ravina Proposal",
           "timestamp": "53:08"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Bava Batra Case: Rabban Shimon ben Gamliel on Possession and Refusal of Gifts",
@@ -275,7 +297,9 @@
           "display_title": "Tanna Kamma View",
           "timestamp": "60:40"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Bava Batra Case: Rabban Shimon ben Gamliel on Possession and Refusal of Gifts (continued)",
@@ -292,7 +316,9 @@
           "display_title": "Consent Principle",
           "timestamp": "60:50"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Final Ruling: Halacha According to Rabbi Yosi; Non-Owner's Intent Irrelevant",
@@ -314,7 +340,9 @@
           "display_title": "Application",
           "timestamp": "60:50"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Partial Ownership Question: How Much Ownership Makes Intent Relevant According to Rabbi Eliezer?",
@@ -336,7 +364,9 @@
           "display_title": "Real Partners Only",
           "timestamp": "60:50"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -528,5 +558,6 @@
         "60:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

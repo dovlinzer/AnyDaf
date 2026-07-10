@@ -33,7 +33,9 @@
           "display_title": "Lach vs. Mimcha",
           "timestamp": "10:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Principle of Specificity: Generic Versus Explicit Formulations in Nedarim",
@@ -55,7 +57,9 @@
           "display_title": "Ambiguity Problem",
           "timestamp": "15:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Concept of Yad: Clear Versus Ambiguous Speech Acts",
@@ -82,7 +86,9 @@
           "display_title": "Ran's Explanation",
           "timestamp": "20:30"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rava's Support for the Yad Principle Using the Nazir Precedent",
@@ -109,7 +115,9 @@
           "display_title": "Applying to Neder",
           "timestamp": "31:00"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "The Amoraim Debate: Abaye Versus Rava on Yadayim She'einan Mochichot",
@@ -146,7 +154,9 @@
           "display_title": "Ran's Distinction",
           "timestamp": "46:21"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -322,5 +332,6 @@
         "15:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

@@ -33,7 +33,9 @@
           "display_title": "Ketuvot Torn Up",
           "timestamp": "06:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Proactive Identification of Invalid Families and the Concerns It Raises",
@@ -60,7 +62,9 @@
           "display_title": "Abaye's Pushback",
           "timestamp": "15:08"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Aggadic Teachings on Lineage, Divine Presence, and the Status of Converts",
@@ -87,7 +91,9 @@
           "display_title": "Converts as Scabs",
           "timestamp": "21:06"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Shift from Identifying Invalid Families to Keeping Them Hidden",
@@ -104,7 +110,9 @@
           "display_title": "Mixed Family Rule",
           "timestamp": "27:40"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Geographic Boundaries and Status Assumptions for Babylonia and the Land of Israel",
@@ -121,7 +129,9 @@
           "display_title": "Diversion Strategy",
           "timestamp": "32:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Shift from Identifying Invalid Families to Keeping Them Hidden (continued)",
@@ -143,7 +153,9 @@
           "display_title": "Secret Traditions",
           "timestamp": "38:11"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Geographic Boundaries and Status Assumptions for Babylonia and the Land of Israel (continued)",
@@ -165,7 +177,9 @@
           "display_title": "Bavel Bri'ah",
           "timestamp": "57:37"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Geographic Delimitation of Babylonia and the Status of Specific Regions",
@@ -197,7 +211,9 @@
           "display_title": "Shot Mishat",
           "timestamp": "65:16"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -558,5 +574,6 @@
         "64:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

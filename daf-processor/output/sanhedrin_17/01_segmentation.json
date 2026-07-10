@@ -33,7 +33,9 @@
           "display_title": "Border Restrictions",
           "timestamp": "03:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Great Sanhedrin's Composition: Counting Moshe and the Selection of 70 Elders",
@@ -75,7 +77,9 @@
           "display_title": "Moshe's Response",
           "timestamp": "15:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Sanhedrin Composition Requirements: Personal Qualifications and Judicial Structure",
@@ -122,7 +126,9 @@
           "display_title": "Beitar & Yavneh",
           "timestamp": "23:17"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Identifying Talmudic Sages by Their Titles and Phrases",
@@ -144,7 +150,9 @@
           "display_title": "Amoraim Roles",
           "timestamp": "25:38"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Minimum City Population and Infrastructure Requirements for a Local Sanhedrin",
@@ -166,7 +174,9 @@
           "display_title": "Alternative Minimums",
           "timestamp": "29:37"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "The Census of Israel Under Moshe: Calculation of Total Number of Judges from Commanders",
@@ -183,7 +193,9 @@
           "display_title": "Total 78,600",
           "timestamp": "30:32"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -328,5 +340,6 @@
         "30:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

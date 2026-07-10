@@ -23,7 +23,9 @@
           "display_title": "Elu Ne'emarim Intro",
           "timestamp": "01:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Texts That Can Be Recited in Any Language",
@@ -60,7 +62,9 @@
           "display_title": "Tosafot: No Shomeia",
           "timestamp": "06:03"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Texts That Must Be Recited in Hebrew",
@@ -82,7 +86,9 @@
           "display_title": "Chalitza",
           "timestamp": "11:04"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Brachos and Klalos on Har Gerizim and Har Eival: Historical Account",
@@ -109,7 +115,9 @@
           "display_title": "70 Languages",
           "timestamp": "16:38"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Derivation of Languages for Sotah and Ma'aser from Gezera Shava",
@@ -166,7 +174,9 @@
           "display_title": "Avodah Zarah",
           "timestamp": "31:53"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Krias Shema Language Dispute: Rabbi versus Rabbanan",
@@ -198,7 +208,9 @@
           "display_title": "Hearing Requirement",
           "timestamp": "34:46"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Principle of Torah Given in All Languages",
@@ -220,7 +232,9 @@
           "display_title": "70 Languages Link",
           "timestamp": "39:05"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -613,5 +627,6 @@
         "18:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

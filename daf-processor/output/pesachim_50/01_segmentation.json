@@ -73,7 +73,9 @@
           "display_title": "Rabbi Natan",
           "timestamp": "10:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Aggadic Section: The Future World and the Reversal of Values",
@@ -190,7 +192,9 @@
           "display_title": "Name Hidden",
           "timestamp": "34:33"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Transition and Overview: End of Perek III (Chametz Focus) and Beginning of Perek IV (Minhagim and Erev Pesach Practices)",
@@ -202,7 +206,9 @@
           "display_title": "Masechta Structure",
           "timestamp": "36:37"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Minhag and Practice: Work on Erev Pesach Until Noon and the Binding Nature of Local Custom",
@@ -239,7 +245,9 @@
           "display_title": "Rabbi Yehuda Shevi'it",
           "timestamp": "42:25"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Gemara Discussion: Mai Irya (Why Erev Pesachim?) and Differences from Other Erev Yom Tov Cases",
@@ -266,7 +274,9 @@
           "display_title": "Noon Cherem",
           "timestamp": "45:40"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Talmudic Exposition: Types of Diligence (Zariz) and Laziness (Shafel) and Their Rewards",
@@ -313,7 +323,9 @@
           "display_title": "Lishma Intent",
           "timestamp": "54:42"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Aggadic Teachings on Work, Business, and Blessing: Various Occupations and the Absence of Siman Bracha",
@@ -380,7 +392,9 @@
           "display_title": "Lishma Exception",
           "timestamp": "62:31"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -802,5 +816,6 @@
         "00:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

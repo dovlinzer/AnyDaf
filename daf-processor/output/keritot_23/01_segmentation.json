@@ -23,7 +23,9 @@
           "display_title": "Certainty Before Melikah",
           "timestamp": "02:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Pieces of Meat, One Permitted and One Prohibited: The Asham Taluy and Its Variations",
@@ -60,7 +62,9 @@
           "display_title": "R. Yosi: No Joint",
           "timestamp": "06:56"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Variations with Forbidden Fat and Other Violations: Complex Cases of Multiple Transgressions",
@@ -87,7 +91,9 @@
           "display_title": "Chelev Kodesh Mix",
           "timestamp": "19:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Problem of Multiple Prohibitions on One Object: Issur Chal Al Issur and Its Exceptions",
@@ -114,7 +120,9 @@
           "display_title": "Simultaneous Effect",
           "timestamp": "37:29"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Status of an Asham Taluy After the Truth Becomes Known: What Happens When Doubt Resolves",
@@ -146,7 +154,9 @@
           "display_title": "R. Yosi: Blood OK",
           "timestamp": "53:47"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Comparison with Other Conditional Sacrifices: When Similar Rules of Certainty and Doubt Apply",
@@ -168,7 +178,9 @@
           "display_title": "Egla Arufa",
           "timestamp": "56:57"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "The Theoretical Debate: Does Sanctification Depend on Knowledge or on Intent?",
@@ -190,7 +202,9 @@
           "display_title": "When Sin Confirmed",
           "timestamp": "60:07"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -573,5 +587,6 @@
         "61:19"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -33,7 +33,9 @@
           "display_title": "Eating Preference",
           "timestamp": "07:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Household Unity: Family Members, Spouses, Servants, and Students",
@@ -70,7 +72,9 @@
           "display_title": "Students at Yeshiva",
           "timestamp": "17:17"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Eruv Contribution: Single vs. Multiple Eruv Units When Contributing Outside",
@@ -97,7 +101,9 @@
           "display_title": "Receiving vs. Contributi…",
           "timestamp": "21:15"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Techumin Shabbos: Where You Measure from When You Deposit Eruv",
@@ -119,7 +125,9 @@
           "display_title": "Contextual Preference",
           "timestamp": "27:12"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Household Definition: Father and Children vs. Rav and Students",
@@ -151,7 +159,9 @@
           "display_title": "Lechi & Kora Leniency",
           "timestamp": "32:49"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Eruv Chatzeros vs. Shituf Meva'ot: Can They Substitute?",
@@ -183,7 +193,9 @@
           "display_title": "Gemara's Objection",
           "timestamp": "38:42"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Position: Both Eruv and Shituf Required",
@@ -210,7 +222,9 @@
           "display_title": "Shituf Backup Logic",
           "timestamp": "42:31"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Rav's Textual Variant: Courtyards Not Open to Each Other",
@@ -227,7 +241,9 @@
           "display_title": "Why Eruv Fails",
           "timestamp": "45:14"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     },
     {
       "title": "Shituf Requirement: Active Participation and Passage Through Street",
@@ -264,7 +280,9 @@
           "display_title": "Location Matters",
           "timestamp": "51:04"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": false
     },
     {
       "title": "Rav's Alternative Reason: Single Courtyard Status Prevents Lechi/Kora Leniency",
@@ -286,7 +304,9 @@
           "display_title": "Transformation Problem",
           "timestamp": "52:17"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -504,5 +524,6 @@
         "02:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

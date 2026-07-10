@@ -23,7 +23,9 @@
           "display_title": "Object Doesn't Rest",
           "timestamp": "01:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The General Rule (Ze Haklal): Beginning and End Must Be Unintentional",
@@ -45,7 +47,9 @@
           "display_title": "Carrying vs. Wounding",
           "timestamp": "04:54"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's First Approach: Control Over the Act (Lichta U'Mashna)",
@@ -72,7 +76,9 @@
           "display_title": "Wounding w/ Rope",
           "timestamp": "10:40"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rava's Counterexample: Carrying (Meavir) as the True Case",
@@ -94,7 +100,9 @@
           "display_title": "Simple Mishna Reading",
           "timestamp": "15:27"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Reading: Remembering Only in the Middle (No Forgetting Again)",
@@ -116,7 +124,9 @@
           "display_title": "Beginning/End Rule",
           "timestamp": "17:53"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Itmar: Two Amot Unintentional, Two Amot Intentional, Two More Unintentional",
@@ -148,7 +158,9 @@
           "display_title": "Throwing/Carrying",
           "timestamp": "24:44"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rava on Dog's Mouth: Intention Determines Whether It's a Valid Place",
@@ -165,7 +177,9 @@
           "display_title": "Intent Difference",
           "timestamp": "26:20"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Multiple Offerings From One Eating: Tamei, Hekdesh, Chelev, Yom Kippur",
@@ -187,7 +201,9 @@
           "display_title": "Gemara Response",
           "timestamp": "31:08"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Machshava Meshvia Makom: Intent Makes Non-Standard Places Significant",
@@ -204,7 +220,9 @@
           "display_title": "Applications",
           "timestamp": "32:55"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Transition and Closing: End of Carrying Section, Beginning of Building",
@@ -226,7 +244,9 @@
           "display_title": "Habona",
           "timestamp": "35:11"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Mishna on Building: Minimum Requirement Is Kol Shehu and the Principle of Mitkayem",
@@ -253,7 +273,9 @@
           "display_title": "Rabban Shimon",
           "timestamp": "39:11"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Gemara on Kol Shehu in Building: Examples From Mishkan and Daily Life",
@@ -285,7 +307,9 @@
           "display_title": "Cornerstone",
           "timestamp": "47:12"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Dispute on Requirements for Boneh: With or Without Plaster, Role of Intention",
@@ -307,7 +331,9 @@
           "display_title": "Three Levels",
           "timestamp": "48:34"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Mesatet (Chiseling) and the Introduction of Makeh B'Patish as Competing Category",
@@ -344,7 +370,9 @@
           "display_title": "Why Three Cases",
           "timestamp": "53:07"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -593,5 +621,6 @@
         "33:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

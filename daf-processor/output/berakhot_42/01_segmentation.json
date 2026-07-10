@@ -13,7 +13,9 @@
           "display_title": "Wine Quantity",
           "timestamp": "00:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Bread and Accompaniments: The Concept of Items That Come 'Because of the Meal' (Machmat Ha-Seudah)",
@@ -35,7 +37,9 @@
           "display_title": "Sfek Brachot",
           "timestamp": "03:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Ben Zoma's Challenge: Why Does Bread Exempt Other Foods in a Meal?",
@@ -47,7 +51,9 @@
           "display_title": "Question Posed",
           "timestamp": "04:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Wine and Other Beverages: Exemption Rules and the Status of Wine in Meals (continued)",
@@ -59,7 +65,9 @@
           "display_title": "Wine Status",
           "timestamp": "05:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Ben Zoma's Challenge: Why Does Bread Exempt Other Foods in a Meal? (continued)",
@@ -71,7 +79,9 @@
           "display_title": "Wine's Ritual Status",
           "timestamp": "05:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Pas Ha-Ba'ah B'Kisnin: Cake, Pie, and Crackers as Mezonot",
@@ -108,7 +118,9 @@
           "display_title": "Rav Pappa Visit",
           "timestamp": "22:19"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "When the Meal Ends: Defining the Boundary Between Meal and Post-Meal Foods",
@@ -141,7 +153,9 @@
           "timestamp": "33:03",
           "display_title": "Mayim Acharonim and Birc…"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Mishna on Wine and Food: Which Blessing Covers Which",
@@ -163,7 +177,9 @@
           "display_title": "Beit Shammai",
           "timestamp": "41:25"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Sitting Together at Meals: The Role of Seating and Group Status",
@@ -180,7 +196,9 @@
           "display_title": "Wine Categories",
           "timestamp": "44:17"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Wine Before and After the Meal: The Custom of Drinking Wine Together",
@@ -202,7 +220,9 @@
           "display_title": "Changing Intent",
           "timestamp": "48:29"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Wine During the Meal vs. Wine After: Can One Blessing Cover Both?",
@@ -229,7 +249,9 @@
           "display_title": "Separate Categories",
           "timestamp": "54:01"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Bread Covers Snacks; Snacks Don't Cover Bread; Beit Shammai's Restrictions",
@@ -246,7 +268,9 @@
           "display_title": "Beit Shammai",
           "timestamp": "56:25"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Keviat Seudah (Establishing a Meal) as the Basis for Group Blessings",
@@ -278,7 +302,9 @@
           "display_title": "Wine Zimun",
           "timestamp": "60:31"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -737,5 +763,6 @@
         "46:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

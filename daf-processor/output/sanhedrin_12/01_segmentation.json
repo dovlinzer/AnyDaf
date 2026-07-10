@@ -18,7 +18,9 @@
           "display_title": "Chaverim Phrase",
           "timestamp": "00:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Three Criteria for Intercalating the Year: Aviv, Peirot Ha'ilan, and Tkufa",
@@ -40,7 +42,9 @@
           "display_title": "Tkufa Debate",
           "timestamp": "04:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Geographic Criteria: The Three Lands and the Primacy of Yehuda",
@@ -67,7 +71,9 @@
           "display_title": "Chananya's Testimony",
           "timestamp": "06:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Centrality of Eretz Yisrael and Bavel in Religious Authority: Historical Geonic Debates",
@@ -94,7 +100,9 @@
           "display_title": "Geonic Authority Shift",
           "timestamp": "10:09"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Temporal Restrictions on Intercalation: Daytime Only and Proximity to Rosh Hashanah",
@@ -111,7 +119,9 @@
           "display_title": "Daytime Proof",
           "timestamp": "14:51"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Restrictions Due to Famine and Agricultural Concerns",
@@ -128,7 +138,9 @@
           "display_title": "Elisha Story",
           "timestamp": "15:54"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Temporal Restrictions on Intercalation: Daytime Only and Proximity to Rosh Hashanah (continued)",
@@ -145,7 +157,9 @@
           "display_title": "Adar Only",
           "timestamp": "20:13"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Political Constraints and Hidden Communication: The Cryptic Message to Rava",
@@ -172,7 +186,9 @@
           "display_title": "Natziv Terminology",
           "timestamp": "24:18"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Restrictions Regarding Shemita and Constraints on Consecutive Years",
@@ -199,7 +215,9 @@
           "display_title": "Vegetable Imports",
           "timestamp": "29:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Intercalation Due to Tumah (Impurity): The Case of Chizkiyahu",
@@ -231,7 +249,9 @@
           "display_title": "Fixed-Time Principle",
           "timestamp": "38:31"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Resolution of Chizkiyahu's Sin: The Timing Error on the 30th of Adar",
@@ -253,7 +273,9 @@
           "display_title": "Tannai Debate",
           "timestamp": "42:21"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -495,5 +517,6 @@
         "42:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

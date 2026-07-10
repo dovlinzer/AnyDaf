@@ -23,7 +23,9 @@
           "display_title": "Object Stolen Case",
           "timestamp": "01:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Son Who Stole From His Father and Then Inherited: The Problem of Restitution to Unknown Recipients",
@@ -50,7 +52,9 @@
           "display_title": "Tosafot's View",
           "timestamp": "07:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Neder Preventing Benefit from Property and Its Application to Inheritance",
@@ -72,7 +76,9 @@
           "display_title": "No Heirs Scenario",
           "timestamp": "09:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Question: Is This Obligation About a Debt or a Ritual Act of Returning?",
@@ -94,7 +100,9 @@
           "display_title": "Self-Forgiveness Challen…",
           "timestamp": "12:16"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Tannaitic Dispute: Rabbi Yose HaGlili vs. Rabbi Akiva on the Nature of Restitution",
@@ -121,7 +129,9 @@
           "display_title": "Akiva: Act Required",
           "timestamp": "17:50"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Sheshet's Challenge: The Debate Should Be Narrower, Not Extreme",
@@ -138,7 +148,9 @@
           "display_title": "Both Need Act",
           "timestamp": "23:15"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Abaye's Resolution: Both Mishnaot Are Rabbi Yose HaGlili, With a Narrower Dispute",
@@ -160,7 +172,9 @@
           "display_title": "Loan Conversion",
           "timestamp": "26:53"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rava's Resolution: Both Mishnaot Are Rabbi Akiva, With Conditions on Mechila",
@@ -177,7 +191,9 @@
           "display_title": "Automatic Erasure",
           "timestamp": "28:07"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Question of When Money Goes to the Kohanim: Must Admission Occur After the Ger's Death",
@@ -194,7 +210,9 @@
           "display_title": "Post-Death Admission",
           "timestamp": "32:02"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Ravina's New Question: Does the Law of Returning Stolen Property Apply to a Female Proselyte?",
@@ -216,7 +234,9 @@
           "display_title": "Minor Exception",
           "timestamp": "34:23"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -626,5 +646,6 @@
         "05:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -28,7 +28,9 @@
           "display_title": "Suspicion Rationale",
           "timestamp": "03:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Water Rights and Competing Claims: The Debate Between Rav and Shmuel",
@@ -65,7 +67,9 @@
           "display_title": "Beni Becharmach",
           "timestamp": "14:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Darkei Shalom in Property Rights: Traps, Findings, and Poor Persons",
@@ -92,7 +96,9 @@
           "display_title": "Dates Story",
           "timestamp": "21:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Darkei Shalom and Interfaith Relations: Supporting Non-Jewish Poor",
@@ -124,7 +130,9 @@
           "display_title": "Tosefta Version",
           "timestamp": "31:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Lending to Those Suspected of Violating Religious Laws",
@@ -151,7 +159,9 @@
           "display_title": "Rava's Position",
           "timestamp": "39:28"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Entrusting Grain and Produce: Concerns About Swapping and Tumah",
@@ -183,7 +193,9 @@
           "display_title": "Innkeeper Case",
           "timestamp": "49:41"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -420,5 +432,6 @@
         "38:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

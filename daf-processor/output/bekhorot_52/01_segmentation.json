@@ -28,7 +28,9 @@
           "display_title": "Father vs. Son",
           "timestamp": "01:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Double Portion (Pi Shenayim) of the Firstborn in Father's Estate Only",
@@ -50,7 +52,9 @@
           "display_title": "Inheritance Sequence",
           "timestamp": "03:27"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Limitations on Double Portion: Shevach and Ra'uy (Improvements and Future Property)",
@@ -72,7 +76,9 @@
           "display_title": "Ra'uy Exclusion",
           "timestamp": "03:37"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Limitations on Double Portion: Shevach and Ra'uy (Improvements and Future Property) (continued)",
@@ -84,7 +90,9 @@
           "display_title": "Tosafot on Loans",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Woman's Ketubah: Collection Limitations and Comparison to General Creditors",
@@ -106,7 +114,9 @@
           "display_title": "Why Different",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Daughters' Support Obligation and Yabam's (Brother-in-Law's) Double Portion",
@@ -128,7 +138,9 @@
           "display_title": "Yabam Improvements",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara on Double Portion Basis: Scriptural derivation from Deuteronomy",
@@ -155,7 +167,9 @@
           "display_title": "Daughters Obligation",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Yabam's Status: Representing Dead Brother vs. Bechor-like Status",
@@ -182,7 +196,9 @@
           "display_title": "Representing vs. Bonus",
           "timestamp": "03:46"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "What Does Not Revert in Yovel: Bechor, Yabam, and Wife Inheritance",
@@ -209,7 +225,9 @@
           "display_title": "Rabbis Disagree",
           "timestamp": "03:59"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "What Does Not Revert in Yovel: Bechor, Yabam, and Wife Inheritance (continued)",
@@ -221,7 +239,9 @@
           "display_title": "Rabbi Eliezer",
           "timestamp": "04:05"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Brothers' Division: Purchasers vs. Heirs and Rabbi Yochanan's Extreme View",
@@ -243,7 +263,9 @@
           "display_title": "Sheshet Objection",
           "timestamp": "04:05"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Family Graveplot Exception: Wife's Burial Rights and Compensation",
@@ -265,7 +287,9 @@
           "display_title": "Burial Deduction",
           "timestamp": "04:08"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -560,5 +584,6 @@
         "04:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

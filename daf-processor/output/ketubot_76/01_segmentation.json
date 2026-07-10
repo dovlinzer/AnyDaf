@@ -28,7 +28,9 @@
           "display_title": "Presume Prior Knowledge",
           "timestamp": "08:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Competing Presumptions: Chazaka Ein Adam Shoteh Bakos vs. Chazakas HaGuf",
@@ -55,7 +57,9 @@
           "display_title": "Tosafot's Framework",
           "timestamp": "20:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Answer: Father's House vs. Husband's House and Who Collects the Ketubah",
@@ -82,7 +86,9 @@
           "display_title": "Congenital Blemishes",
           "timestamp": "32:23"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Donkey and Cow Transaction: Burden of Proof When Death Timing Uncertain",
@@ -109,7 +115,9 @@
           "display_title": "Ring Conditional",
           "timestamp": "40:12"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Shmuel's True Position: Burden Follows the Problem's Location",
@@ -141,7 +149,9 @@
           "display_title": "Two Approaches",
           "timestamp": "61:30"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -314,5 +324,6 @@
         "56:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

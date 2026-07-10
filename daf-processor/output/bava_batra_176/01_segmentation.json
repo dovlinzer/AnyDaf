@@ -28,7 +28,9 @@
           "display_title": "Liens as Ownership",
           "timestamp": "15:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Liens with Heirs vs. Purchasers: The Middle Position",
@@ -50,7 +52,9 @@
           "display_title": "Well-Digger Case",
           "timestamp": "17:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Liens with Heirs vs. Purchasers: The Middle Position (continued)",
@@ -62,7 +66,9 @@
           "display_title": "Rav Papa's Halakha",
           "timestamp": "17:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Documents and Witnesses: Requirements for Creating Liens",
@@ -94,7 +100,9 @@
           "display_title": "Document Effectiveness",
           "timestamp": "17:44"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Guarantor's Obligation: Signing Before or After Witnesses",
@@ -126,7 +134,9 @@
           "display_title": "Unity of Statement",
           "timestamp": "18:03"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Guarantor's Liability: The Choking Analogy and Obligations",
@@ -168,7 +178,9 @@
           "display_title": "Final Halakha",
           "timestamp": "18:20"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -468,5 +480,6 @@
         "18:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

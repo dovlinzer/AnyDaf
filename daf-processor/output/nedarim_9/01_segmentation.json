@@ -23,7 +23,9 @@
           "display_title": "Chiddush Analysis",
           "timestamp": "02:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Neder vs. Nedava: Conceptual and Motivational Distinctions",
@@ -45,7 +47,9 @@
           "display_title": "Nazirut Analysis",
           "timestamp": "10:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Introduction to the Mishnah: Vows of the Wicked and Righteous (continued)",
@@ -57,7 +61,9 @@
           "display_title": "Shvuah Exclusion",
           "timestamp": "11:59"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Questions: How Do We Know What Was Meant?",
@@ -89,7 +95,9 @@
           "display_title": "Raba: Hemenu",
           "timestamp": "23:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Value of Making Nedarim: Rabbi Meir vs. Rabbi Yehudah",
@@ -121,7 +129,9 @@
           "display_title": "Meir Consistency",
           "timestamp": "30:04"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Hillel HaZaken's Practice: Bringing a Korban Without Vow",
@@ -143,7 +153,9 @@
           "display_title": "Tosafot Solution",
           "timestamp": "34:15"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Reality of Nedavat Kesherim and Nezirut",
@@ -165,7 +177,9 @@
           "display_title": "Beautiful Nazir Story",
           "timestamp": "36:31"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Analysis of the Nazir's Motivation: Pure vs. Complicated Conviction",
@@ -187,7 +201,9 @@
           "display_title": "Motivation Types",
           "timestamp": "41:07"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Rabbi Yehudah's Position: Nedavat Nezirut Through Intent to Bring Chatas",
@@ -204,7 +220,9 @@
           "display_title": "Righteous Nazir",
           "timestamp": "47:37"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Objection: Nazirut as Intrinsically Negative",
@@ -231,7 +249,9 @@
           "display_title": "Denial Problem",
           "timestamp": "49:28"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Broader Theological Questions: Asceticism and Jewish Values",
@@ -253,7 +273,9 @@
           "display_title": "Rambam Critique",
           "timestamp": "51:13"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -631,5 +653,6 @@
         "50:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

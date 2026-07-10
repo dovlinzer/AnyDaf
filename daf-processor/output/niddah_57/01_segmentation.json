@@ -23,7 +23,9 @@
           "display_title": "City Stains",
           "timestamp": "02:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Beit HaTme'ot (House of Impurity) and Samaritan Practices",
@@ -55,7 +57,9 @@
           "display_title": "Samaritan Burial",
           "timestamp": "08:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Analysis of Samaritan Trustworthiness and Derasha on Inheritance",
@@ -77,7 +81,9 @@
           "display_title": "Kohen Evidence",
           "timestamp": "16:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Reframing: Samaritans as Untrustworthy Despite Personal Care",
@@ -94,7 +100,9 @@
           "display_title": "Lifnei Iver",
           "timestamp": "19:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Trustworthiness Regarding Animals, Graves, and Rabbinic Laws",
@@ -106,7 +114,9 @@
           "display_title": "Firstborn Animals",
           "timestamp": "25:26"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Gemara's Reframing: Samaritans as Untrustworthy Despite Personal Care (continued)",
@@ -118,7 +128,9 @@
           "display_title": "Knowledge/Intent",
           "timestamp": "25:59"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Trustworthiness Regarding Animals, Graves, and Rabbinic Laws (continued)",
@@ -145,7 +157,9 @@
           "display_title": "General Principle",
           "timestamp": "36:55"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mishnah: Stains on Body and Garments - Location-Based Assumptions",
@@ -182,7 +196,9 @@
           "display_title": "Ein Machzikin",
           "timestamp": "43:06"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Mishnah: Garments as Blankets and Shawls - Complete Coverage",
@@ -199,7 +215,9 @@
           "display_title": "Moving Garments",
           "timestamp": "44:05"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Shmuel's Revolutionary Principle: Hargashah (Sensation) as Requirement for Biblical Niddah",
@@ -226,7 +244,9 @@
           "display_title": "Rabbinic Category",
           "timestamp": "48:46"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Gemara's Challenge to Shmuel: Cases Suggesting Tamei Without Clear Sensation",
@@ -268,7 +288,9 @@
           "display_title": "Sex Sensation",
           "timestamp": "57:47"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Synthesis: Sensation, Doubt, and Modern Application of Hargashah Principle",
@@ -285,7 +307,9 @@
           "display_title": "Modern Question",
           "timestamp": "58:30"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -556,5 +580,6 @@
         "39:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

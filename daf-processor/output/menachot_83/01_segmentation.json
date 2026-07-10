@@ -24,7 +24,8 @@
           "timestamp": "02:37"
         }
       ],
-      "sefaria_index": 14
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The General Pasuk 'Zot HaTorah' and Laws Derived from Each Sacrifice",
@@ -72,7 +73,8 @@
           "timestamp": "24:00"
         }
       ],
-      "sefaria_index": 0
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Derasha from Chatat: Origin of the Rule that Sacrifices Come Only from Non-Sanctified Funds",
@@ -100,7 +102,8 @@
           "timestamp": "32:47"
         }
       ],
-      "sefaria_index": 7
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Explanation of Pesach and Zavacha Tzon u'Vakar",
@@ -128,7 +131,8 @@
           "timestamp": "41:36"
         }
       ],
-      "sefaria_index": 14
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Communal and Individual Minchot: Source and Geographic Restrictions",
@@ -146,7 +150,8 @@
           "timestamp": "46:40"
         }
       ],
-      "sefaria_index": 29
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Debate Over Omer and Shtei HaLechem: New Grain Requirement and Exceptions",
@@ -174,7 +179,8 @@
           "timestamp": "52:00"
         }
       ],
-      "sefaria_index": 29
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Brief Overview: Animal Sacrifices Have Fewer Restrictions than Minchot",
@@ -186,7 +192,9 @@
           "display_title": "Animals Anywhere",
           "timestamp": "53:14"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": false
     }
   ],
   "topical_tags": [

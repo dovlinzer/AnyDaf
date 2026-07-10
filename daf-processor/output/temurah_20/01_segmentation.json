@@ -38,7 +38,9 @@
           "display_title": "Rabbi Shimon's View",
           "timestamp": "07:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Wrong Gender as Defect: Comparing Asham, Pesach, and Olah",
@@ -70,7 +72,9 @@
           "display_title": "Bird Alternative",
           "timestamp": "30:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Sanctifying Property for the Temple: Competing Views on Animal Status",
@@ -82,7 +86,9 @@
           "display_title": "Eliezer View",
           "timestamp": "30:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sanctifying Property for the Temple: Competing Views on Animal Status (continued)",
@@ -104,7 +110,9 @@
           "display_title": "Yehoshua Agrees Shimon",
           "timestamp": "31:23"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Temurah and Vlad of Asham: What Happens When the Original Cannot Be Brought",
@@ -126,7 +134,9 @@
           "display_title": "Elazar Dissent",
           "timestamp": "31:23"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Asham Cases Where the Animal Cannot Be Brought: Four Additional Situations",
@@ -158,7 +168,9 @@
           "display_title": "Communal Details",
           "timestamp": "31:23"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Rav Nachman's Distinction: The Debate Applies Only Before Atonement",
@@ -185,7 +197,9 @@
           "display_title": "Clarification",
           "timestamp": "33:36"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -597,5 +611,6 @@
         "32:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

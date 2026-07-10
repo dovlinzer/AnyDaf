@@ -53,7 +53,9 @@
           "display_title": "Tosafot Nuance",
           "timestamp": "09:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Requirement of Haseiba (Reclining) at the Seder",
@@ -75,7 +77,9 @@
           "display_title": "Wine Cups",
           "timestamp": "12:01"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Requirement of Haseiba (Reclining) at the Seder (continued)",
@@ -92,7 +96,9 @@
           "display_title": "Tosafot Meal Focus",
           "timestamp": "12:13"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Physical Mechanics of Haseiba: Permitted and Prohibited Positions",
@@ -119,7 +125,9 @@
           "display_title": "Medieval Anatomy",
           "timestamp": "12:26"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Physical Mechanics of Haseiba: Permitted and Prohibited Positions (continued)",
@@ -136,7 +144,9 @@
           "display_title": "Unusual Position",
           "timestamp": "12:31"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Exemptions from Haseiba Based on Social Status and Relationship",
@@ -183,7 +193,9 @@
           "display_title": "Freedom Tension",
           "timestamp": "12:31"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Women's Obligation in the Four Cups: Biblical Miracle and Publicizing the Redemption",
@@ -210,7 +222,9 @@
           "display_title": "Soloveitchik",
           "timestamp": "12:35"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Measure and Quality of the Four Cups: Wine Requirements and Fulfillment",
@@ -252,7 +266,9 @@
           "display_title": "Mixing Math",
           "timestamp": "12:50"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -542,5 +558,6 @@
         "12:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

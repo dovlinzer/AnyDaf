@@ -28,7 +28,9 @@
           "display_title": "Kissei Hakodesh",
           "timestamp": "02:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Writing Requirements for a Mezuzah: Letter vs. Book Format",
@@ -50,7 +52,9 @@
           "display_title": "Gezeirah Shavah",
           "timestamp": "06:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Placement of the Mezuzah: Location, Attachment, and Physical Requirements",
@@ -87,7 +91,9 @@
           "display_title": "Resh Galuta",
           "timestamp": "23:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Angle and Orientation of the Mezuzah: The Debate Between Rashi and Tosafot",
@@ -124,7 +130,9 @@
           "display_title": "Ashkenazi Angle",
           "timestamp": "33:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Secondary Doors and the Requirement for Mezuzot: Private vs. Common Entrances",
@@ -151,7 +159,9 @@
           "display_title": "Common Usage",
           "timestamp": "37:59"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Height of the Mezuzah: The Top Third and Optimal Placement",
@@ -183,7 +193,9 @@
           "display_title": "High Arches",
           "timestamp": "42:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Protection and Religious Purpose: The Placement Toward the Public Domain and Divine Guardianship",
@@ -215,7 +227,9 @@
           "display_title": "Superstition Downplay",
           "timestamp": "47:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Depth of Placement and Multiple Doorways: When Another Mezuzah Is Required",
@@ -242,7 +256,9 @@
           "display_title": "Tefach Separation",
           "timestamp": "53:51"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Construction of the Mezuzah: The Principle of Tasseh—Active Making, Not Automatic Placement",
@@ -264,7 +280,9 @@
           "display_title": "Tasseh v'Lo",
           "timestamp": "56:34"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -434,5 +452,6 @@
         "06:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

@@ -43,7 +43,9 @@
           "display_title": "Widowed Door",
           "timestamp": "09:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Building from Bottom Up vs. Top Down on Yom Tov",
@@ -80,7 +82,9 @@
           "display_title": "Sadducee Debate",
           "timestamp": "18:55"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Standing in One Domain and Manipulating Objects in Another",
@@ -127,7 +131,9 @@
           "display_title": "Rav Dimi Teaching",
           "timestamp": "46:19"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Bar with a Bulbous Head as a Lock Mechanism",
@@ -159,7 +165,9 @@
           "display_title": "Tosafot Chumra",
           "timestamp": "50:42"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -635,5 +643,6 @@
         "40:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

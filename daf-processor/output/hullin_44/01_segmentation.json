@@ -28,7 +28,9 @@
           "display_title": "Swallowing Place",
           "timestamp": "07:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of Mixed Shechita: Applying Stringencies of Contradictory Positions",
@@ -55,7 +57,9 @@
           "display_title": "Compensation Ruling",
           "timestamp": "14:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Problem of Hybrid Rulings: The Braita on Beis Hillel and Beis Shammai",
@@ -87,7 +91,9 @@
           "display_title": "Bat Kol Role",
           "timestamp": "30:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Boundaries of the Esophagus: Upper and Lower Limits",
@@ -114,7 +120,9 @@
           "display_title": "Animal Variations",
           "timestamp": "40:39"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Trachea (Gargeret): Majority Cut Standard and Measurement Disputes",
@@ -141,7 +149,9 @@
           "display_title": "Rabbah's Ruling",
           "timestamp": "45:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Procedural Halacha: Can One Rabbi Override Another's Ruling?",
@@ -183,7 +193,9 @@
           "display_title": "Rava's Defense",
           "timestamp": "47:38"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -468,5 +480,6 @@
         "42:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

@@ -43,7 +43,9 @@
           "display_title": "Affirmed Vow",
           "timestamp": "05:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Recognition of Mother and Continuation of Nursing After Divorce",
@@ -75,7 +77,9 @@
           "display_title": "Blind Child",
           "timestamp": "14:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Duration and Appropriateness of Nursing: Biblical and Rabbinic Limits",
@@ -112,7 +116,9 @@
           "display_title": "Halakha Ruling",
           "timestamp": "28:39"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Suckling Directly from Animal on Shabbat and Other Shabbat Cases",
@@ -139,7 +145,9 @@
           "display_title": "Drain Pipe Case",
           "timestamp": "33:52"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Obligation to Continue Nursing After Husband's Death Within 24 Months",
@@ -181,7 +189,9 @@
           "display_title": "Rebbe Authority",
           "timestamp": "42:23"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Exceptions to 24-Month Wait: Weaning, Nursemaid, or Child's Death",
@@ -233,7 +243,9 @@
           "display_title": "Rejection",
           "timestamp": "56:53"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -425,5 +437,6 @@
         "32:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

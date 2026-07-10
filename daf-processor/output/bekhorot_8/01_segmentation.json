@@ -33,7 +33,9 @@
           "display_title": "Summary",
           "timestamp": "04:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Fish Consumed by Other Fish: Determining Production vs. Ingestion",
@@ -70,7 +72,9 @@
           "display_title": "Rav Ashi: Own Kind",
           "timestamp": "10:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Baraita on Animal Reproduction and Gestation Periods by Species",
@@ -107,7 +111,9 @@
           "display_title": "Geese & Ducks",
           "timestamp": "17:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Timing of Copulation and Birth: Day vs. Night Animals",
@@ -134,7 +140,9 @@
           "display_title": "Examples",
           "timestamp": "19:18"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Halakhic Application: Eggs Found on Yom Tov and the Assumption of Day-Laying Hens",
@@ -166,7 +174,9 @@
           "display_title": "Tosafot Ruling",
           "timestamp": "22:23"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Gestation Periods Across Species with Plant Parallels",
@@ -218,7 +228,9 @@
           "display_title": "Predators 3 Years",
           "timestamp": "33:12"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Snake's Curse: Seven-Year Gestation and Its Basis in Scripture",
@@ -255,7 +267,9 @@
           "display_title": "Curse Discussion",
           "timestamp": "40:34"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Copulation and Pregnancy: Do Pregnant Animals Continue Copulating?",
@@ -282,7 +296,9 @@
           "display_title": "Like Humans",
           "timestamp": "44:56"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Story of Rabbi Yehoshua ben Chananya and the Elders of Athens: Entry and Greeting",
@@ -339,7 +355,9 @@
           "display_title": "Contest Terms",
           "timestamp": "53:03"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "The Story Continues: First Question on Marriage and Status",
@@ -366,7 +384,9 @@
           "display_title": "Olam HaBa Interpretation",
           "timestamp": "54:45"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -632,5 +652,6 @@
         "55:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

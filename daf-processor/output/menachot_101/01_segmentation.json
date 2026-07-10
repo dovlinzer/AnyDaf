@@ -23,7 +23,9 @@
           "display_title": "Animals vs. Mum",
           "timestamp": "00:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Huna bar Manoach's Challenge to Shmuel's Position",
@@ -45,7 +47,9 @@
           "display_title": "No Redemption When Tamei",
           "timestamp": "02:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Gemara's Initial Explanation: Fundamental Tahor Status",
@@ -72,7 +76,9 @@
           "display_title": "Fundamentally Tahor",
           "timestamp": "06:20"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Gemara's Alternative Explanation: Rarity and Rabbinic Restriction",
@@ -99,7 +105,9 @@
           "display_title": "Wood Rarity",
           "timestamp": "09:22"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rav Papa's Challenge from the Temimim Badecke Habayit Case",
@@ -126,7 +134,9 @@
           "display_title": "Shmuel Consistent",
           "timestamp": "13:39"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Distinction Between Tamei and Tahor in Redemption",
@@ -153,7 +163,9 @@
           "display_title": "Minchat Chatai Exception",
           "timestamp": "16:36"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Special Case of Minchat Chatai and the Oleh V'Yored",
@@ -175,7 +187,9 @@
           "display_title": "Minchat Chatai Redemption",
           "timestamp": "18:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position on Piggul and Food Status",
@@ -192,7 +206,9 @@
           "display_title": "Assur Behenaa Rule",
           "timestamp": "19:37"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Tanaic Dispute on Assur Behenaa Items and Tumat Ochlin",
@@ -214,7 +230,9 @@
           "display_title": "Basar Bechalav Case",
           "timestamp": "21:53"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Explanation of Rabbi Shimon's Reasoning",
@@ -236,7 +254,9 @@
           "display_title": "Assur Behenaa Not Food",
           "timestamp": "23:28"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Addressing the Challenge to Rabbi Shimon on Basar Bechalav",
@@ -253,7 +273,9 @@
           "display_title": "Two Reasons",
           "timestamp": "27:13"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "The Problem of Piggul by Mincha and the Baraita on Notar",
@@ -280,7 +302,9 @@
           "display_title": "Sha'at Hakoasher",
           "timestamp": "29:15"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Reconciling the Rabi Oshaya Baraita with Rabbi Shimon on Mincha",
@@ -302,7 +326,9 @@
           "display_title": "Theoretical Redemption",
           "timestamp": "32:13"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "The Problem of Potential Redemption for the Growing-Sanctified Mincha",
@@ -324,7 +350,9 @@
           "display_title": "Para Aduma Case",
           "timestamp": "34:37"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Distinguishing Para Aduma from Regular Menachot",
@@ -346,7 +374,9 @@
           "display_title": "No Menachot Search",
           "timestamp": "37:33"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     },
     {
       "title": "The Notar Contradiction Within Rabbi Shimon's Own Position",
@@ -368,7 +398,9 @@
           "display_title": "Opportunity vs. Obligati…",
           "timestamp": "39:55"
         }
-      ]
+      ],
+      "sefaria_index": 36,
+      "matched": true
     },
     {
       "title": "Piggul in Animals and the Parallel to Mincha",
@@ -390,7 +422,9 @@
           "display_title": "Shechita-Kmitza",
           "timestamp": "44:56"
         }
-      ]
+      ],
+      "sefaria_index": 38,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Resolution: Redemption vs. Zerika",
@@ -417,7 +451,9 @@
           "display_title": "Without Performance",
           "timestamp": "48:42"
         }
-      ]
+      ],
+      "sefaria_index": 38,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -622,5 +658,6 @@
         "48:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

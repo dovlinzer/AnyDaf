@@ -33,7 +33,9 @@
           "display_title": "Three-Year Storage",
           "timestamp": "06:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Export Restrictions from Eretz Yisrael and Trade Regulations",
@@ -65,7 +67,9 @@
           "display_title": "Middlemen Limits",
           "timestamp": "12:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Price Fluctuations and Emergency Communal Responses",
@@ -82,7 +86,9 @@
           "display_title": "Critical Commodities",
           "timestamp": "14:24"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Restrictions on Emigration from Eretz Yisrael to Chutz La'Aretz",
@@ -104,7 +110,9 @@
           "display_title": "Tosafot Challenge",
           "timestamp": "16:49"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Story of Elimelech, Machlon, and Chilyon: Consequences of Abandoning Eretz Yisrael",
@@ -131,7 +139,9 @@
           "display_title": "Ruth & Boaz",
           "timestamp": "19:58"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Boaz/Avtzan and His Sixty Children: One Greater Than Many",
@@ -163,7 +173,9 @@
           "display_title": "Nachshon Lineage",
           "timestamp": "25:55"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rabbinic Genealogies and the Mothers of Biblical Figures",
@@ -180,7 +192,9 @@
           "display_title": "Anti-Heretic Purpose",
           "timestamp": "29:30"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Abraham's Ten Years of Captivity and the Ur Kasdim Tradition",
@@ -197,7 +211,9 @@
           "display_title": "Geography Variants",
           "timestamp": "30:39"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Divine Providence Over Leaders: Abraham's Death and the World's Loss",
@@ -219,7 +235,9 @@
           "display_title": "Local Authority",
           "timestamp": "33:23"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Alternative View: The Famine Was Not the Cause of Emigration",
@@ -241,7 +259,9 @@
           "display_title": "Depression Worse",
           "timestamp": "36:37"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Nostalgic Recollections: Days of Scarcity and Days of Abundance",
@@ -263,7 +283,9 @@
           "display_title": "Righteous Youth",
           "timestamp": "39:53"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Teachings in the Beit Midrash: Warnings Against Relying on Non-Jewish Authorities",
@@ -280,7 +302,9 @@
           "display_title": "Reliance Loses",
           "timestamp": "41:40"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -535,5 +559,6 @@
         "41:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

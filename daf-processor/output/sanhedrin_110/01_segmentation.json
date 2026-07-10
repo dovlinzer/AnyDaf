@@ -28,7 +28,9 @@
           "display_title": "Bakesh Avdecha",
           "timestamp": "01:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Story of Korach's Rebellion: Names and Character Analysis",
@@ -65,7 +67,9 @@
           "display_title": "Korach's Wife",
           "timestamp": "15:59"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Character and Status of the Rebels",
@@ -87,7 +91,9 @@
           "display_title": "Machloket Prohibition",
           "timestamp": "23:28"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Consequences of Quarreling and Challenging Authority",
@@ -114,7 +120,9 @@
           "display_title": "Forms of Discord",
           "timestamp": "28:03"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Wealth of Korach and Its Origin",
@@ -136,7 +144,9 @@
           "display_title": "Yosef's Treasures",
           "timestamp": "32:27"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Fate of Korach: Swallowed or Burned or Both",
@@ -163,7 +173,9 @@
           "display_title": "Gehennom Access",
           "timestamp": "43:56"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Sons of Korach: Surviving the Rebellion and Repenting",
@@ -185,7 +197,9 @@
           "display_title": "Repentance Song",
           "timestamp": "48:45"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Generation of the Desert and the World to Come",
@@ -222,7 +236,9 @@
           "display_title": "Zechut Avot",
           "timestamp": "52:14"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -392,5 +408,6 @@
         "52:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

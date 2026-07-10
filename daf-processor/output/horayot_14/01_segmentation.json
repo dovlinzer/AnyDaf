@@ -43,7 +43,9 @@
           "display_title": "Weddings Extension",
           "timestamp": "11:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Refinement of the law regarding returning to seat after personal need",
@@ -65,7 +67,9 @@
           "display_title": "Rava's Leniency",
           "timestamp": "14:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The story of Rabban Shimon ben Gamliel establishing status distinctions and the coup attempt by Rabbi Meir and Rabbi Natan",
@@ -137,7 +141,9 @@
           "display_title": "Swords Remain",
           "timestamp": "35:05"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The debate between Rabban Shimon ben Gamliel and the rabbis: Sinai versus Uprooting Mountains",
@@ -169,7 +175,9 @@
           "display_title": "Rav Yosef Deference",
           "timestamp": "41:25"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Abaye, Rava, Rabbi Zeira, and Rabbah bar Matna: question of who should lead the study group",
@@ -196,7 +204,9 @@
           "display_title": "Teyku Conclusion",
           "timestamp": "45:51"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -457,5 +467,6 @@
         "00:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

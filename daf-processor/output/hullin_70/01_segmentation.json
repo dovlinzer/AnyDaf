@@ -78,7 +78,9 @@
           "display_title": "Spleen & Kidney",
           "timestamp": "20:22"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "The Firstborn (Bechor) in Difficult Childbirth: Limb-by-Limb Birth and Sanctity",
@@ -105,7 +107,9 @@
           "display_title": "Piecemeal Status",
           "timestamp": "25:37"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Selling a Portion of the Fetus to a Non-Jew and Retroactive Sanctity",
@@ -132,7 +136,9 @@
           "display_title": "Sale Validity",
           "timestamp": "30:41"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Alternative Scenario: Third via Cesarean, Two-Thirds Natural Birth",
@@ -159,7 +165,9 @@
           "display_title": "Need Both Cases",
           "timestamp": "36:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -330,5 +338,6 @@
         "28:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

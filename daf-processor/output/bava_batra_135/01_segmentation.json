@@ -23,7 +23,9 @@
           "display_title": "Divorce Claim",
           "timestamp": "04:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Debate Over Retroactive Divorce Claims and the Limits of Biyado Legarsha",
@@ -45,7 +47,9 @@
           "display_title": "Lemafrea Lehaba",
           "timestamp": "10:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of Splitting a Divorce Claim Across Time: Can It Be Believed Going Forward If Stated Retroactively?",
@@ -67,7 +71,9 @@
           "display_title": "Adultery Parallel",
           "timestamp": "14:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of the Dying Man's Ambiguous Statement About His Wife's Status",
@@ -89,7 +95,9 @@
           "display_title": "Abbaye Challenge",
           "timestamp": "24:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Parallel Case: The Dying Man Without Known Brothers and the Question of Future Concerns",
@@ -116,7 +124,9 @@
           "display_title": "Concrete Concern",
           "timestamp": "33:56"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Mishna's Second Part: When a Brother Claims Another Brother Exists, But the Other Brother Denies Knowledge",
@@ -153,7 +163,9 @@
           "display_title": "Shevach Value",
           "timestamp": "42:45"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Introduction to the Will (Diatiki): The Requirements for a Deathbed Bequest in Written Form",
@@ -180,7 +192,9 @@
           "display_title": "Execution Required",
           "timestamp": "50:21"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -535,5 +549,6 @@
         "42:18"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

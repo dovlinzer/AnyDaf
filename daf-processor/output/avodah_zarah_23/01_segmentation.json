@@ -23,7 +23,9 @@
           "display_title": "History vs. Today",
           "timestamp": "04:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Ravina's Answer: Distinguishing Between Prospective Concern (Lechatchila) and Retrospective Assessment (Bedieved)",
@@ -40,7 +42,9 @@
           "display_title": "Chezkat Chayim",
           "timestamp": "07:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Challenge: The Case of a Woman Seized by Non-Jews for Debt Versus for Death Penalty",
@@ -62,7 +66,9 @@
           "display_title": "Economics Protects",
           "timestamp": "14:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Tosafot's Expansion: The Ashkenazi Reality of Women in Business and the Distinction Between Brief Yichud and Captivity",
@@ -84,7 +90,9 @@
           "display_title": "Business vs. Captivity",
           "timestamp": "21:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Rabbi Padat's Answer: The Concern for Bestiality Is a Dispute Between Rabbi Eliezer and the Rabbanan",
@@ -101,7 +109,9 @@
           "display_title": "Parah Adumah",
           "timestamp": "27:45"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara's Resolution: The Dispute Between Rabbi Eliezer and the Rabbanan Is Whether We Are Concerned About Acts of Bestiality",
@@ -113,7 +123,9 @@
           "display_title": "Tosafot's Use",
           "timestamp": "28:23"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Gemara's First Challenge: Questioning Whether the Dispute Is Really About Bestiality or About Burden on the Animal",
@@ -135,7 +147,9 @@
           "display_title": "Bestiality Only",
           "timestamp": "31:25"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Gemara's Second Hypothesis: Perhaps Everyone Agrees We're Not Concerned About Bestiality, and the Difference Is in the Reasoning for Rabbi Eliezer's Position",
@@ -157,7 +171,9 @@
           "display_title": "Bestiality General",
           "timestamp": "33:07"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Gemara's Resolution: The Dispute Between Rabbi Eliezer and the Rabbanan Is Whether We Are Concerned About Acts of Bestiality (continued)",
@@ -169,7 +185,9 @@
           "display_title": "Only R. Eliezer",
           "timestamp": "37:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Exploration of How Bestiality Invalidates a Red Heifer Despite Its Non-Sacrificial Status",
@@ -196,7 +214,9 @@
           "display_title": "Called Chatat",
           "timestamp": "40:33"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Question of C-Section Animals and Rabbi Shimon's Position on the Red Heifer",
@@ -223,7 +243,9 @@
           "display_title": "R. Yochanan",
           "timestamp": "44:13"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Gemara's Final Answer: The Red Heifer Is Invalidated by 'Blemish' (Mum), Including Ritual Blemishes Like Bestiality and Idolatry",
@@ -245,7 +267,9 @@
           "display_title": "R. Yishmael",
           "timestamp": "46:16"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Shila's Interpretation: Rabbi Eliezer's Reason Is the Verse About Taking the Red Heifer From the Israelites",
@@ -262,7 +286,9 @@
           "display_title": "Terumah Challenge",
           "timestamp": "48:04"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Story of Dama ben Netina: A Non-Jew's Exemplary Filial Piety and the Purchase of Precious Stones for the Ephod",
@@ -284,7 +310,9 @@
           "display_title": "Ephod Problem",
           "timestamp": "50:48"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Gemara's Unresolved Cliffhanger: The Apparent Contradiction in the Verse's Limiting Language",
@@ -296,7 +324,9 @@
           "display_title": "Contradiction",
           "timestamp": "51:09"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -480,5 +510,6 @@
         "26:59"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

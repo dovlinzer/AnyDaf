@@ -33,7 +33,9 @@
           "display_title": "Mitzvah Context",
           "timestamp": "08:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Reconciling Shmuel with Tannaitic Sources: The Role of Intention in Unintended Consequences",
@@ -65,7 +67,9 @@
           "display_title": "Two Positions",
           "timestamp": "25:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Burning of Invalid Nesachim: Creating a Separate Fire for Liquids in the Temple",
@@ -92,7 +96,9 @@
           "display_title": "Public Announcement",
           "timestamp": "31:49"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Opening of Dam Chatas: Blood of Sin-Offering and the Laws of Laundering Garments",
@@ -114,7 +120,9 @@
           "display_title": "Invalid Blood",
           "timestamp": "34:28"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Question of Bird Sin-Offering Blood: Inclusion or Exclusion from Laundering Laws",
@@ -166,7 +174,9 @@
           "display_title": "Rava Challenge",
           "timestamp": "46:55"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Unresolved Questions About Bird Sin-Offering Blood and Temple Service",
@@ -223,7 +233,9 @@
           "display_title": "Unresolved Nature",
           "timestamp": "59:34"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -481,5 +493,6 @@
         "59:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

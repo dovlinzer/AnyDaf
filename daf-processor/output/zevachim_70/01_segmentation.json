@@ -23,7 +23,9 @@
           "display_title": "Yehuda's Source",
           "timestamp": "01:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Challenge: Can treifah be read literally or does it teach something else?",
@@ -45,7 +47,9 @@
           "display_title": "Mi Sheyesh Bemino",
           "timestamp": "03:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Question of Cholev Status in Different Animals and the Role of Treifah",
@@ -67,7 +71,9 @@
           "display_title": "Rava's Approach",
           "timestamp": "15:57"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Derashah on Cholev Neveilah and Treifah: Determining if the pasuk speaks of kosher or non-kosher animals",
@@ -94,7 +100,9 @@
           "display_title": "Achol Teaching",
           "timestamp": "39:12"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Case of Non-Kosher Birds: Clarifying the Braita's Surprising Statement",
@@ -111,7 +119,9 @@
           "display_title": "Rava Clarification",
           "timestamp": "41:49"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Limits of Rabbi Meir's Position: How far does the principle extend regarding blemished birds?",
@@ -133,7 +143,9 @@
           "display_title": "Chickens Ducks",
           "timestamp": "44:15"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "The Question of Eglah Arufah: Does breaking the neck make it tahor like melikah?",
@@ -155,7 +167,9 @@
           "display_title": "Pseudo-Korban",
           "timestamp": "50:11"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Braita on Eglah Arufah Cholev: Determining when the meat is tamei and when cholev is tahor",
@@ -187,7 +201,9 @@
           "display_title": "Goat Unresolved",
           "timestamp": "56:18"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -901,5 +917,6 @@
         "55:44"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

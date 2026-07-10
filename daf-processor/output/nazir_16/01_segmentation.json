@@ -23,7 +23,9 @@
           "display_title": "Miktzat Hayom",
           "timestamp": "03:35"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Two Consecutive Naziriyos: Splitting the Final Day",
@@ -40,7 +42,9 @@
           "display_title": "One Day Two Periods",
           "timestamp": "06:07"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Forty Minus One: Structural Analysis of Complete Numbers in Halakha",
@@ -62,7 +66,9 @@
           "display_title": "Melachot Count",
           "timestamp": "09:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Two Consecutive Naziriyos: Splitting the Final Day (continued)",
@@ -74,7 +80,9 @@
           "display_title": "Rabbi Papyas",
           "timestamp": "09:12"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Nazir Who Becomes Tamei: When Does Tumah Cancel Nazirut",
@@ -106,7 +114,9 @@
           "display_title": "Yom Milat",
           "timestamp": "15:46"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Reconciling Rabbi Eliezer's Position Across Different Scenarios",
@@ -128,7 +138,9 @@
           "display_title": "Bar Pada Matna",
           "timestamp": "18:18"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Nazir in the Cemetery: Does Nazirut Take Effect While Tamei",
@@ -150,7 +162,9 @@
           "display_title": "R. Eliezer 7th Day",
           "timestamp": "31:41"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Gemara Debate: Rabbi Yochanan vs Reish Lakish on Whether Nazirut Takes Effect While Tamei",
@@ -192,7 +206,9 @@
           "display_title": "Challenge 3",
           "timestamp": "46:40"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rambam's Position on Nazir in Cemetery and Malkot",
@@ -214,7 +230,9 @@
           "display_title": "Lav She'ein Bo",
           "timestamp": "50:55"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Counting Days vs Prohibitions: Distinguishing Two Aspects of Nazirut",
@@ -236,7 +254,9 @@
           "display_title": "Application",
           "timestamp": "51:03"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -408,5 +428,6 @@
         "50:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

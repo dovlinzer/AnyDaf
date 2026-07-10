@@ -28,7 +28,9 @@
           "display_title": "Rambam Model",
           "timestamp": "07:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Hierarchy of Impurity and Exclusion from the Mikdash: Tamei Meis, Zav, and Metzora",
@@ -60,7 +62,9 @@
           "display_title": "Pesach B'Tumah Limits",
           "timestamp": "14:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Three-Camp Division and Exclusion Zones in the Midbar and Yerushalayim",
@@ -92,7 +96,9 @@
           "display_title": "R. Shimon Kal V'Chomer",
           "timestamp": "32:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Hierarchy of Impurity and Exclusion from the Mikdash: Tamei Meis, Zav, and Metzora (continued)",
@@ -109,7 +115,9 @@
           "display_title": "Zav/Ba'al Keri/Metzora",
           "timestamp": "42:34"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Question of Whether Zav and Metzora Also Transgress During Pesach Habah B'Tumah",
@@ -126,7 +134,9 @@
           "display_title": "Conditional Exemption",
           "timestamp": "48:23"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Contemporary Implications: Ba'al Keri on Har Habayit and the Status of Tunnels",
@@ -148,7 +158,9 @@
           "display_title": "Priests' Ba'al Keri",
           "timestamp": "53:51"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -564,5 +576,6 @@
         "48:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

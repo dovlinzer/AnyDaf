@@ -28,7 +28,9 @@
           "display_title": "Baraita Examples",
           "timestamp": "04:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Problem of Bleeding During Childbirth: How to Count Uninterrupted Periods",
@@ -55,7 +57,9 @@
           "display_title": "Dam Niddah Definition",
           "timestamp": "12:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "When Bleeding Changes Status: One Bleed vs. Multiple Bleeds by Category",
@@ -77,7 +81,9 @@
           "display_title": "Amoraic Debate",
           "timestamp": "20:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "External Causes of Bleeding and Establishing a Veset (Regular Cycle)",
@@ -104,7 +110,9 @@
           "display_title": "Days & Ones",
           "timestamp": "34:23"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Women Who Must Check: Frequency, Exceptions, and Special Cases",
@@ -131,7 +139,9 @@
           "display_title": "Kohanot Stringencies",
           "timestamp": "53:52"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Can a Woman Establish a Veset During Her Niddah Days?",
@@ -148,7 +158,9 @@
           "display_title": "Well Metaphor",
           "timestamp": "58:24"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -341,5 +353,6 @@
         "52:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

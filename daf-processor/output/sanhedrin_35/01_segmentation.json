@@ -43,7 +43,9 @@
           "display_title": "Fire Prohibition",
           "timestamp": "06:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Bavli on Daf 35: Capital Cases Must Finish by Day; Sleep-on-Judgment Rule",
@@ -90,7 +92,9 @@
           "display_title": "Tzedakah Sleeping",
           "timestamp": "13:46"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Why Not Begin on Friday and Conclude on Sunday: Fear of Forgetting Arguments",
@@ -127,7 +131,9 @@
           "display_title": "Cannot Start Erev",
           "timestamp": "19:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Challenge: Kal Vachomer Why Not Execute on Shabbat?",
@@ -159,7 +165,9 @@
           "display_title": "Pesach & Brit",
           "timestamp": "21:17"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Refutation: Verse Prohibits Execution on Shabbat Despite Kal Vachomer",
@@ -171,7 +179,9 @@
           "display_title": "Exec vs Avodah",
           "timestamp": "23:35"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Challenge: Kal Vachomer Why Not Execute on Shabbat? (continued)",
@@ -183,7 +193,9 @@
           "display_title": "Ritzicha QVH",
           "timestamp": "23:47"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Refutation: Verse Prohibits Execution on Shabbat Despite Kal Vachomer (continued)",
@@ -220,7 +232,9 @@
           "display_title": "Explicit Prohibition",
           "timestamp": "32:06"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Abaye's Challenge: Kal Vachomer—If Execution Doesn't Override Shabbat, Shouldn't Override Avodah",
@@ -267,7 +281,9 @@
           "display_title": "Public Override",
           "timestamp": "37:46"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -486,5 +502,6 @@
         "34:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

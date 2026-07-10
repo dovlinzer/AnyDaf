@@ -58,7 +58,9 @@
           "display_title": "Passion vs Apathy",
           "timestamp": "10:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Seven Intercourses of Sisera and the Distinction Between Intent and Action",
@@ -105,7 +107,9 @@
           "display_title": "Priority Merit",
           "timestamp": "15:57"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Halachic Rules for Korban Chatat: Common Person, Kohen Gadol, and Nasi Distinction",
@@ -167,7 +171,9 @@
           "display_title": "Teiku Status",
           "timestamp": "29:04"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Definition and Status of Mumar: Categories of Apostasy and Exclusion from Korbanos",
@@ -244,7 +250,9 @@
           "display_title": "One-Time Act",
           "timestamp": "44:31"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Definition of Nasi (King) and Mashiach (Anointed Kohen Gadol): Status Requirements and Distinctions",
@@ -291,7 +299,9 @@
           "display_title": "Inheritance Question",
           "timestamp": "48:22"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Definition of Nasi (King) and Mashiach (Anointed Kohen Gadol): Status Requirements and Distinctions (continued)",
@@ -323,7 +333,9 @@
           "display_title": "Murderer Release",
           "timestamp": "49:19"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Anointing Oil: Miraculous Properties, Usage, and Designation of Kohanim and Kings",
@@ -370,7 +382,9 @@
           "display_title": "Inheritance Distinction",
           "timestamp": "50:02"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -634,5 +648,6 @@
         "47:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

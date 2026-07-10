@@ -3,36 +3,22 @@ import SwiftUI
 struct SettingsView: View {
     @ObservedObject var bookmarkManager: BookmarkManager
     @AppStorage("quizMode") private var quizMode: QuizMode = .multipleChoice
-    @AppStorage("sourceDisplayMode") private var sourceDisplayMode: SourceDisplayMode = .toggle
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("shiurShowSources") private var shiurShowSources: Bool = true
     @AppStorage("printFontSize") private var printFontSize: StudyFontSize = .small
     @AppStorage("printLineSpacing") private var printLineSpacing: Double = 1.15
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.openURL) private var openURL
 
     let isReloading: Bool
     let onReload: () -> Void
+    var tractate: String = ""
+    var daf: String = ""
 
     var body: some View {
         NavigationStack {
             Form {
-                Section {
-                    Link(destination: URL(string: "https://wl.donorperfect.net/weblink/weblink.aspx?name=yctorah&id=2")!) {
-                        HStack {
-                            Text("Donate to YCT")
-                                .foregroundStyle(.primary)
-                            Spacer()
-                            Image(systemName: "heart.fill")
-                                .foregroundStyle(.red)
-                        }
-                    }
-                } header: {
-                    Text("Support AnyDaf")
-                } footer: {
-                    Text("AnyDaf is provided free by Yeshivat Chovevei Torah. Your donation supports Torah learning.")
-                }
-
                 Section {
                     Toggle("White Background", isOn: $useWhiteBackground)
                     HStack(spacing: 0) {
@@ -82,17 +68,6 @@ struct SettingsView: View {
                 } header: {
                     Text("Appearance")
                 } 
-
-                Section {
-                    Picker("Translation Display", selection: $sourceDisplayMode) {
-                        ForEach(SourceDisplayMode.allCases, id: \.rawValue) { mode in
-                            Text(mode.displayName).tag(mode)
-                        }
-                    }
-                    .pickerStyle(.menu)
-                } header: {
-                    Text("Translation Display")
-                }
 
                 Section {
                     Toggle("Include source text", isOn: $shiurShowSources)
@@ -188,6 +163,37 @@ struct SettingsView: View {
                     .disabled(isReloading)
                 } header: {
                     Text("Audio")
+                }
+
+                Section {
+                    Button {
+                        let dafLine = tractate.isEmpty ? "" : "Tractate/Daf: \(tractate) \(daf)\n\n"
+                        let body = "\(dafLine)Feedback type:\n" +
+                            "[ ] Bug report\n" +
+                            "[ ] Shiur text correction\n" +
+                            "[ ] Summary or quiz issue\n" +
+                            "[ ] Resources suggestion\n" +
+                            "[ ] Other\n\n" +
+                            "Details:\n\n"
+                        let subjectEnc = "AnyDaf Feedback"
+                            .addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? "AnyDaf Feedback"
+                        let bodyEnc = body
+                            .addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? body
+                        if let url = URL(string: "mailto:anydaf@yctorah.org?subject=\(subjectEnc)&body=\(bodyEnc)") {
+                            openURL(url)
+                        }
+                    } label: {
+                        HStack {
+                            Image(systemName: "envelope")
+                                .foregroundStyle(.blue)
+                            Text("Send Feedback")
+                                .foregroundStyle(.primary)
+                        }
+                    }
+                } header: {
+                    Text("Feedback")
+                } footer: {
+                    Text("Report bugs or send corrections and suggestions about shiur text, summaries, quizzes, or resources.")
                 }
 
                 Section {

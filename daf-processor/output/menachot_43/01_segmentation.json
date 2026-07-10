@@ -23,7 +23,9 @@
           "display_title": "Tosafot: Opening Analysis",
           "timestamp": "02:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Challenge and the Two Testing Methods for Techelet",
@@ -40,7 +42,9 @@
           "display_title": "Rav Adda's Test",
           "timestamp": "06:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Meaning of 'No Testing' and Tosafot's Reinterpretation",
@@ -52,7 +56,9 @@
           "display_title": "Testing Paradox",
           "timestamp": "08:44"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Gemara's Challenge and the Two Testing Methods for Techelet (continued)",
@@ -69,7 +75,9 @@
           "display_title": "Sequential Test Logic",
           "timestamp": "10:32"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Meaning of 'No Testing' and Tosafot's Reinterpretation (continued)",
@@ -81,7 +89,9 @@
           "display_title": "Tosafot Solution",
           "timestamp": "14:07"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Purchasing Techelet and Tzitzit from Trustworthy Sources",
@@ -103,7 +113,9 @@
           "display_title": "Selling Restrictions",
           "timestamp": "21:37"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Yehuda's Practice: Putting Tzitzit on Women's Garments and Daily Blessings",
@@ -125,7 +137,9 @@
           "display_title": "Blessing Resolution",
           "timestamp": "28:05"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Women's Obligation in Tzitzit: The Tannaic Debate",
@@ -147,7 +161,9 @@
           "display_title": "Rabbi Shimon's View",
           "timestamp": "40:10"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Meaning of Seeing Tzitzit: Remembrance of All Mitzvot and Shema",
@@ -174,7 +190,9 @@
           "display_title": "Divine Presence",
           "timestamp": "51:26"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "The Belovedness of Israel: Surrounded by Mitzvot and Protected from Sin",
@@ -196,7 +214,9 @@
           "display_title": "Three-Cord String",
           "timestamp": "55:01"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     },
     {
       "title": "The Cosmic Significance of Techelet: From Ocean to Heaven to God's Throne",
@@ -213,7 +233,9 @@
           "display_title": "Keren Ora Insight",
           "timestamp": "57:15"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -568,5 +590,6 @@
         "51:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

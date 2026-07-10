@@ -38,7 +38,9 @@
           "display_title": "Modern Practice",
           "timestamp": "05:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Story of King Yannai and Shimon ben Shetach: Who Can Lead the Benching?",
@@ -70,7 +72,9 @@
           "display_title": "Kezayit Rule",
           "timestamp": "10:46"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Can a Person Who Ate Kezayit Discharge One Who Ate His Fill?",
@@ -97,7 +101,9 @@
           "display_title": "Modern Leniency",
           "timestamp": "14:25"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Rabban Shimon ben Gamliel: Minimal Consumption Still Counts for the Group",
@@ -119,7 +125,9 @@
           "display_title": "Leaf & Wine",
           "timestamp": "19:15"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Sources of Birkat Hamazon: Who Instituted Which Blessings?",
@@ -156,7 +164,9 @@
           "display_title": "Exile Context",
           "timestamp": "23:38"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Order and Structure of Birkat Hamazon",
@@ -183,7 +193,9 @@
           "display_title": "R. Eliezer Flexibility",
           "timestamp": "28:31"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Learning the Source of Each Blessing from Scripture",
@@ -210,7 +222,9 @@
           "display_title": "Tov Source",
           "timestamp": "33:44"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Debating Which Blessings Are De'oraita: The Tannaim Dispute",
@@ -237,7 +251,9 @@
           "display_title": "R. Nasan Source",
           "timestamp": "39:11"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Digression: Why Did the Women Talk So Much to Saul?",
@@ -254,7 +270,9 @@
           "display_title": "R. Yochanan View",
           "timestamp": "40:51"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Birkat Ha-Torah: Source and Comparison to Birkat Hamazon",
@@ -281,7 +299,9 @@
           "display_title": "R. Meir Source",
           "timestamp": "45:05"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Blessing Over Bad as Well as Good: Universal Principle",
@@ -303,7 +323,9 @@
           "display_title": "Din & Rachamim",
           "timestamp": "50:06"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Required Themes in Birkat Ha-Aretz and Boneh Yerushalayim",
@@ -335,7 +357,9 @@
           "display_title": "Hodaya Frame",
           "timestamp": "55:08"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Standards and Censure: Improper Closings and Omissions",
@@ -362,7 +386,9 @@
           "display_title": "R. Elazar Standard",
           "timestamp": "58:23"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -712,5 +738,6 @@
         "55:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

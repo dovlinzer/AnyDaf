@@ -23,7 +23,9 @@
           "display_title": "Murderers & Capacity",
           "timestamp": "06:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbinic Chronology: Periods of Non-Jewish Rule over Israel",
@@ -40,7 +42,9 @@
           "display_title": "Roman Delay Period",
           "timestamp": "16:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Three Systems of Dating Documents (Shtarot) in Rabbinic Law",
@@ -67,7 +71,9 @@
           "display_title": "Seleucid Origin",
           "timestamp": "26:32"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rabbinic Cosmology: The Six-Thousand-Year Cycle and Messianic Expectations",
@@ -89,7 +95,9 @@
           "display_title": "Year 4000 Calculation",
           "timestamp": "34:30"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Conversion Between Beriyas Olam and Minyan Shtarot Dating Systems",
@@ -111,7 +119,9 @@
           "display_title": "Subtract Forty-Eight",
           "timestamp": "39:54"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Determining the Year of the Shmita Cycle Using Churban HaBayis as a Reference Point",
@@ -133,7 +143,9 @@
           "display_title": "Famine Mnemonic",
           "timestamp": "48:44"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Messianic Calculations and Expectations Around Year 400 After Churban HaBayis",
@@ -150,7 +162,9 @@
           "display_title": "Baraita's 4231",
           "timestamp": "50:01"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -430,5 +444,11 @@
         "48:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9,
+  "amud_b_segment_index": 5,
+  "amud_b_timestamp": "43:14",
+  "amud_b_micro_title": "Add One, Divide by 7",
+  "shiur_start_daf": 9,
+  "shiur_start_amud": "a"
 }

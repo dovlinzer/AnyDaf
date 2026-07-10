@@ -23,7 +23,9 @@
           "display_title": "Korban Nature",
           "timestamp": "02:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Refutation of Rav from the Case of Asham Metzora Shelo Lishmo",
@@ -40,7 +42,9 @@
           "display_title": "Contradiction",
           "timestamp": "04:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Limited Application of Rav's Logic to the Omer",
@@ -62,7 +66,9 @@
           "display_title": "Valid Omer",
           "timestamp": "07:20"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav Adda bar Ahava's Explanation: Ein Mechusar Zman Lo Vo Bayom",
@@ -84,7 +90,9 @@
           "display_title": "Pesach Distinction",
           "timestamp": "11:53"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rav Sheshet's Challenge: Order of Rituals in Metzora Purification",
@@ -106,7 +114,9 @@
           "display_title": "Order Problem",
           "timestamp": "17:44"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rav Papa's Resolution: Fixed Sequence of Metzora Rituals",
@@ -118,7 +128,9 @@
           "display_title": "Fixed Sequence",
           "timestamp": "20:12"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rav Papa's Challenge: Chatat Before Asham in Metzora",
@@ -135,7 +147,9 @@
           "display_title": "Linah Solution",
           "timestamp": "21:24"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rav Papa's Resolution: Fixed Sequence of Metzora Rituals (continued)",
@@ -147,7 +161,9 @@
           "display_title": "Shechita Status",
           "timestamp": "22:50"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Clarification: Ein Mechusar Zman Applies Only to Time, Not to Order or Treif Status",
@@ -164,7 +180,9 @@
           "display_title": "Other Defects",
           "timestamp": "23:59"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Alternative Explanation: Reish Lakish Holds the Grain Becomes Permitted at Daybreak",
@@ -181,7 +199,9 @@
           "display_title": "Mishna Implication",
           "timestamp": "27:27"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rava's Position: Minchat Omer Shelo Lishmo is Valid; Shiyarim Can Be Eaten",
@@ -203,7 +223,9 @@
           "display_title": "Omer Abnormal",
           "timestamp": "33:20"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Tanach Source: Excluding Treifa Animals from Korbanot",
@@ -225,7 +247,9 @@
           "display_title": "Counterargument",
           "timestamp": "42:41"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Distinguishing Minchat Omer from Other Treif Cases",
@@ -242,7 +266,9 @@
           "display_title": "Test Cases",
           "timestamp": "48:03"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -572,5 +598,6 @@
         "50:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

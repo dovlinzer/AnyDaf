@@ -33,7 +33,9 @@
           "display_title": "Sha'ot Poslot",
           "timestamp": "12:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Animal's Position in the Courtyard: Inside Versus Outside Zones",
@@ -60,7 +62,9 @@
           "display_title": "Basar Outside Azarah",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Location Requirements for Holy of Holies Sacrifices: North and Courtyard Boundaries",
@@ -87,7 +91,9 @@
           "display_title": "Pirchasa V'Yatzah",
           "timestamp": "44:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Position of the Animal and Priest During Slaughter and Blood Reception",
@@ -129,7 +135,9 @@
           "display_title": "Tzitzit Outside",
           "timestamp": "60:35"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -387,5 +395,6 @@
         "58:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

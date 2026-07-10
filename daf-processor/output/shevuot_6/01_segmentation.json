@@ -28,7 +28,9 @@
           "display_title": "Names & Recognition",
           "timestamp": "07:07"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Linguistic and Taxonomical Authority of the Kohen in Inspection",
@@ -50,7 +52,9 @@
           "display_title": "Minor/Shoteh Kohen",
           "timestamp": "12:22"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "The Identity of Rabbi Yehoshua ben Korcha and the Etymology of the Nickname Korcha",
@@ -72,7 +76,9 @@
           "display_title": "Age Problems",
           "timestamp": "16:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Returning to the Four Shades: The Tanna Kamma's Position and the Problem with Dilmah",
@@ -94,7 +100,9 @@
           "display_title": "Patuach & Chaluk",
           "timestamp": "22:08"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Akiva's Baraita on Color Descriptions and the Brightness of Beheret",
@@ -121,7 +129,9 @@
           "display_title": "Abaye's Drasha",
           "timestamp": "25:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Four Negaim and Their Characteristics According to the Rabbanan",
@@ -153,7 +163,9 @@
           "display_title": "White Wool Standard",
           "timestamp": "30:45"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Mashalim (Parables) Explaining the Combination Patterns of the Four Shades",
@@ -185,7 +197,9 @@
           "display_title": "Garment Mashal",
           "timestamp": "39:00"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Scope of the Korban Oleh V'Yored: Tumat Mikdash V'Kodashav vs. Terumah",
@@ -212,7 +226,9 @@
           "display_title": "Terumah Exclusion",
           "timestamp": "44:48"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -483,5 +499,6 @@
         "46:43"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

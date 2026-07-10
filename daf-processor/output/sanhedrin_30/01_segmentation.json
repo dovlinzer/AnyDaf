@@ -28,7 +28,9 @@
           "display_title": "Scribes Test",
           "timestamp": "02:59"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Ambiguous Documents: Beit Din Language with Only Two Signatures",
@@ -70,7 +72,9 @@
           "display_title": "Rav Ashi Case",
           "timestamp": "08:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "When Is an Admission Binding on One Who Wants to Do the Right Thing",
@@ -112,7 +116,9 @@
           "display_title": "Dreams No Weight",
           "timestamp": "14:10"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Court Deliberation and Recording of Dissenting Opinions",
@@ -149,7 +155,9 @@
           "display_title": "Elazar Middle",
           "timestamp": "26:58"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Process of Court Deliberation and Bringing Parties and Witnesses",
@@ -166,7 +174,9 @@
           "display_title": "Jerusalem Custom",
           "timestamp": "33:12"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "When Testimony of Two Witnesses Can Combine: The Debate on Temporal and Substantive Requirements",
@@ -243,7 +253,9 @@
           "display_title": "Nehardai All",
           "timestamp": "59:31"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -390,5 +402,6 @@
         "40:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 33
 }

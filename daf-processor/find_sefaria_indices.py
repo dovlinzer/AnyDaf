@@ -142,7 +142,10 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
     if not final_path.exists():
         return "SKIP (no 03_final.md)"
 
-    seg = json.loads(seg_path.read_text())
+    try:
+        seg = json.loads(seg_path.read_text())
+    except json.JSONDecodeError as e:
+        return f"SKIP (corrupt 01_segmentation.json: {e})"
     macros = seg.get("macro_segments", [])
     if not macros:
         return "SKIP (no macro_segments)"
@@ -161,35 +164,68 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
     # (a ## block may have multiple ### sub-sections each with their own blockquote)
     macro_re = re.compile(r'^## (.+)$', re.MULTILINE)
     matches = list(macro_re.finditer(final_text))
+    position_hebrews: list[list[str]] = []
     title_to_hebrews: dict[str, list[str]] = {}
     for i, m in enumerate(matches):
         title = m.group(1).strip()
         start = m.end()
         end   = matches[i + 1].start() if i + 1 < len(matches) else len(final_text)
-        title_to_hebrews[title] = extract_blockquote_hebrews(final_text[start:end])
+        hebrews = extract_blockquote_hebrews(final_text[start:end])
+        position_hebrews.append(hebrews)
+        title_to_hebrews[title] = hebrews
+
+    # ## headers in 03_final.md come from pass 2/3 (rewrite + source insertion) — a separate
+    # Claude call from pass 1's segmentation, which produced the macro segments' own title /
+    # display_title. The two are not guaranteed (or even expected) to be identical strings —
+    # e.g. "Terumah: Erusin/Kiddushim" (03_final.md header) vs "Terumah: Erusin/Kiddushi…"
+    # (display_title, independently truncated to 25 chars by pass 1). When they diverge even
+    # slightly, exact-string lookup fails even though it's clearly the same segment. Both files
+    # preserve the same chronological segment order, so whenever the counts match (true for
+    # ~95% of dafs), position is a far more reliable join key than title text. Only fall back
+    # to the title-based lookup when the counts don't match (a real pass 2/3 split/merge, where
+    # position can't be assumed to line up).
+    use_positional = len(matches) == len(macros)
 
     # Assign sefaria_index to each macro segment
-    matched  = 0
-    last_idx = 0
+    matched   = 0
+    carried   = 0
+    # Leading segments before any blockquote match (e.g. "Introduction to the sugya" discussion
+    # before the Gemara's first direct quote) carry forward to 0 — the start of the daf's own
+    # text — rather than being left unset. This is every case that used to fall through to
+    # "unset": checked across the whole corpus, no segment ever needed carry-forward from a
+    # real prior match and failed to get one; the daf's own start is simply the only sensible
+    # anchor available for material introducing it.
+    last_idx  = 0
 
-    for macro in macros:
+    for i, macro in enumerate(macros):
         title   = macro.get("title",         "").strip()
         display = macro.get("display_title", "").strip()
 
-        hebrews = title_to_hebrews.get(title) or title_to_hebrews.get(display) or []
+        if use_positional:
+            hebrews = position_hebrews[i]
+        else:
+            hebrews = title_to_hebrews.get(title) or title_to_hebrews.get(display) or []
         if hebrews:
             idx = match_any_hebrew(hebrews, items)
             if idx is not None:
                 macro["sefaria_index"] = idx
+                macro["matched"] = True
                 last_idx = idx
                 matched += 1
                 continue
 
-        # No blockquote or no match — shiur-discussion segment, leave sefaria_index unset
-        macro.pop("sefaria_index", None)
+        # No blockquote or no match — shiur-discussion segment. Carry forward the most
+        # recently matched index (0 if nothing has matched yet) so it still lands somewhere
+        # sensible instead of being unjumpable. `matched: False` distinguishes this
+        # placeholder position from a genuine blockquote match, so downstream consumers
+        # (the app's active-pill/header logic) can tell "this segment has no real anchor
+        # of its own" apart from "this segment's real anchor happens to be position 0".
+        macro["sefaria_index"] = last_idx
+        macro["matched"] = False
+        carried += 1
 
     seg["amud_b_sefaria_index"] = a_count
-    detail = f"{matched}/{len(macros)} matched, amud_b_sefaria_index={a_count}"
+    detail = f"{matched}/{len(macros)} matched, {carried} carried forward, amud_b_sefaria_index={a_count}"
 
     if dry_run:
         return f"DRY-RUN → {detail}"

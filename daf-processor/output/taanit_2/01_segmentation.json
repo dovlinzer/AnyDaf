@@ -33,7 +33,9 @@
           "display_title": "Sin & Forgiveness",
           "timestamp": "10:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna 1: When to Begin Mentioning Gevurot Geshamim (Mashiv Haruach Umorid Hageshem)",
@@ -70,7 +72,9 @@
           "display_title": "R. Yehuda Ruling",
           "timestamp": "14:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara on Gevurot Geshamim: Textual Sources and Theological Foundations",
@@ -107,7 +111,9 @@
           "display_title": "Mitzvot & Agriculture",
           "timestamp": "34:44"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara: Three Keys of God (Maftechot) and Direct Divine Control",
@@ -154,7 +160,9 @@
           "display_title": "Kimelman: Rain Metaphor",
           "timestamp": "43:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Debate on Timing of Hazkarah: Sources and Philosophical Frameworks",
@@ -201,7 +209,9 @@
           "display_title": "Shevach v. Bakasha",
           "timestamp": "51:24"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Validation of Rabbi Eliezer's Position and Gemara's Resolution of Techiyat Hameitim Analogy",
@@ -223,7 +233,9 @@
           "display_title": "Yatzah Nisan",
           "timestamp": "53:30"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Contextual Meaning: Religious Rhythms of the Year and Dependency on God",
@@ -260,7 +272,9 @@
           "display_title": "Seasonal Religiosity",
           "timestamp": "57:02"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -472,5 +486,6 @@
         "56:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

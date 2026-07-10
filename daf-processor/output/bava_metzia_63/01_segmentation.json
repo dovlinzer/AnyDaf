@@ -33,7 +33,9 @@
           "display_title": "iPhone Subterfuge",
           "timestamp": "02:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Muchar Ba'amana Case: Pre-Purchasing Future Produce at Fixed Prices",
@@ -60,7 +62,9 @@
           "display_title": "Debt Conversion",
           "timestamp": "07:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rabbi Oshaya's Tosefta: The Wheat-Wine-Oil Chain and the Possession Requirement",
@@ -102,7 +106,9 @@
           "display_title": "Hiyya vs. Oshaya",
           "timestamp": "15:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Applying Rabbi Oshaya's Tosefta to Explain the Mishna",
@@ -129,7 +135,9 @@
           "display_title": "Rashi's View",
           "timestamp": "18:21"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Two Conditions for Valid Future Sales: Money or Merchandise Possession",
@@ -151,7 +159,9 @@
           "display_title": "Yatza Ha-Sha'ar",
           "timestamp": "20:10"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Understanding Rabbinic Ribbis Through Time and Deferred Exchange (Agra Natar)",
@@ -178,7 +188,9 @@
           "display_title": "Possession Alternative",
           "timestamp": "24:14"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rava's First Three Deductions from Rabbi Oshaya: Ma'amidin, Mammonot, and Valuation Equivalence",
@@ -205,7 +217,9 @@
           "display_title": "Rabbi Yannai",
           "timestamp": "33:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Challenging Rava: The Meitivei Query on Converting Debt into Cash",
@@ -227,7 +241,9 @@
           "display_title": "Ownership Transfer",
           "timestamp": "36:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Distinguishing Debt-Based vs. Money-Based Future Sales: Rav and Shmuel Debate",
@@ -264,7 +280,9 @@
           "display_title": "Ribbis Conditional",
           "timestamp": "47:22"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rava's Assertion: Money-Based Futures Permitted Even Without Merchandise (Poskin Al Sha'ar)",
@@ -296,7 +314,9 @@
           "display_title": "Framing Matters",
           "timestamp": "55:38"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Additional Arguments: Broker Fees and Market Availability Justify Future Sales",
@@ -318,7 +338,9 @@
           "display_title": "Money as Middleman",
           "timestamp": "58:40"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Summary: Why Future Sales Avoid Ribbis—The Sale Framework and Buyer's Opportunity Cost",
@@ -340,7 +362,9 @@
           "display_title": "Iska Partnership",
           "timestamp": "60:38"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -670,5 +694,6 @@
         "09:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

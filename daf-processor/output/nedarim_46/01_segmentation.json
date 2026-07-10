@@ -38,7 +38,9 @@
           "display_title": "House/Field Ownership",
           "timestamp": "19:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Bidirectional vs. Unidirectional Neder and the Role of Ones (Duress)",
@@ -60,7 +62,9 @@
           "display_title": "Ones Paradox",
           "timestamp": "30:38"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Debate Between Rabba and Rav Yosef: Size of Courtyard and Divisibility",
@@ -87,7 +91,9 @@
           "display_title": "Halacha Ruling",
           "timestamp": "42:11"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Conceptual Issues: Breira (Retroactive Clarification) and Ones (Duress) in Partnership",
@@ -109,7 +115,9 @@
           "display_title": "Partnership Assumptions",
           "timestamp": "44:52"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Bathhouse/Press Case Continued: Tefisat Yad (Residual Ownership Interest) and Percentage vs. Fixed Rate",
@@ -136,7 +144,9 @@
           "display_title": "Market Practice Standard",
           "timestamp": "51:53"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -367,5 +377,6 @@
         "17:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

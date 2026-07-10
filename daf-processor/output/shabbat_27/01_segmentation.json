@@ -33,7 +33,9 @@
           "display_title": "Rava/Rav Papa revision",
           "timestamp": "05:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Papa's alternative: resolving via Shatnez rather than size",
@@ -55,7 +57,9 @@
           "display_title": "Kol V'Chomer logic",
           "timestamp": "10:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rav Nachman's answer: wool and linen distinction applies only to Tzitzit",
@@ -92,7 +96,9 @@
           "display_title": "Wool/linen emphasized",
           "timestamp": "24:39"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Practical halachic ruling on Tzitzit obligation for non-wool/linen garments",
@@ -114,7 +120,9 @@
           "display_title": "Rav Moshe polyester",
           "timestamp": "29:32"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Abaye on Sumchus and Rabbi Shimon ben Elazar regarding Sechach",
@@ -126,7 +134,9 @@
           "display_title": "Sumchus agreement",
           "timestamp": "31:29"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Prohibition on using tree-derived materials for wicks and tents (Tumat Ohalim)",
@@ -138,7 +148,9 @@
           "display_title": "Flax is a tree",
           "timestamp": "31:41"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Abaye on Sumchus and Rabbi Shimon ben Elazar regarding Sechach (continued)",
@@ -150,7 +162,9 @@
           "display_title": "Warp/woof tamei",
           "timestamp": "31:55"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Prohibition on using tree-derived materials for wicks and tents (Tumat Ohalim) (continued)",
@@ -167,7 +181,9 @@
           "display_title": "Plant vs. tree",
           "timestamp": "34:05"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Tumat Ohalim: which materials become tamei under a dead body",
@@ -194,7 +210,9 @@
           "display_title": "Mishkan materials",
           "timestamp": "42:17"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Leather of non-kosher animals: Tumat Ohalim status",
@@ -221,7 +239,9 @@
           "display_title": "Tachash identity",
           "timestamp": "49:26"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Abaye on Sumchus and Rabbi Shimon ben Elazar regarding Sechach (continued) (continued)",
@@ -233,7 +253,9 @@
           "display_title": "Nega'im standard",
           "timestamp": "50:17"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Leather of non-kosher animals: Tumat Ohalim status (continued)",
@@ -250,7 +272,9 @@
           "display_title": "Tefillin practical",
           "timestamp": "59:53"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -777,5 +801,6 @@
         "31:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

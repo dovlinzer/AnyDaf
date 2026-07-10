@@ -38,7 +38,9 @@
           "display_title": "Techum Application",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Debate: Rav vs. Shmuel on Depositum and Techum",
@@ -70,7 +72,9 @@
           "display_title": "Guardian Status",
           "timestamp": "04:54"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Connecting the Amoraim Debate to a Tannaitic Dispute",
@@ -97,7 +101,9 @@
           "display_title": "Shmuel's Logic",
           "timestamp": "12:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Mishnah as Proof and Rav's Clarification",
@@ -119,7 +125,9 @@
           "display_title": "Control Degrees",
           "timestamp": "19:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Taan Shma: The Case of Guests and Ownership Transfer",
@@ -141,7 +149,9 @@
           "display_title": "Zikuya Special",
           "timestamp": "22:42"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Meat Hanging Case: Rav Chana bar Chanilai's Dried Meat",
@@ -188,7 +198,9 @@
           "display_title": "Kashrus Issue",
           "timestamp": "31:23"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Summary Theme: Control vs. Ownership in Techumim",
@@ -210,7 +222,9 @@
           "display_title": "Core Principle",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Final Mishnah: Watering and Slaughtering Domestic vs. Wilderness Animals",
@@ -237,7 +251,9 @@
           "display_title": "Wilderness Def",
           "timestamp": "36:27"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Debate Over Muktzah and Rabbi's Position on Wilderness Animals",
@@ -274,7 +290,9 @@
           "display_title": "Masechet End",
           "timestamp": "42:21"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -643,5 +661,6 @@
         "32:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

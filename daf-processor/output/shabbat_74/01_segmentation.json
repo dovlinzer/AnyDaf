@@ -33,7 +33,9 @@
           "display_title": "Parallel Avot",
           "timestamp": "05:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Choresh: Plowing and Ground Preparation",
@@ -60,7 +62,9 @@
           "display_title": "Digging for Dirt",
           "timestamp": "10:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Kotzer: Harvesting and Cutting Growing Things",
@@ -82,7 +86,9 @@
           "display_title": "Shinui Objection",
           "timestamp": "18:19"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Me'amer: Gathering and Collecting",
@@ -109,7 +115,9 @@
           "display_title": "Practical Examples",
           "timestamp": "21:31"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Dash, Menapeitz, and Menafet: Threshing and Combing",
@@ -126,7 +134,9 @@
           "display_title": "Wool Combing Question",
           "timestamp": "24:32"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Zoreh, Borer, and Meraked: Separating Good from Bad",
@@ -153,7 +163,9 @@
           "display_title": "Thirty-Nine Limit",
           "timestamp": "31:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Borer: Selecting and Separating Food from Non-Food",
@@ -185,7 +197,9 @@
           "display_title": "Immediacy Criterion",
           "timestamp": "41:02"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Borer: Expanding Criteria and Multiple Food Types",
@@ -212,7 +226,9 @@
           "display_title": "Lupine Exception",
           "timestamp": "48:50"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Tachan: Grinding and Fine Chopping",
@@ -239,7 +255,9 @@
           "display_title": "Kapid Amishchata",
           "timestamp": "53:30"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Dash and Sechita: Threshing and Squeezing as Extract and Separate",
@@ -261,7 +279,9 @@
           "display_title": "Lemon Squeezing",
           "timestamp": "55:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -477,5 +497,6 @@
         "48:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

@@ -18,7 +18,9 @@
           "display_title": "Multiple Purim Days",
           "timestamp": "04:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Territorial Distinctions for Purim Observance: Walled Cities, Unwalled Villages, and Shushan",
@@ -45,7 +47,9 @@
           "display_title": "City Extensions/Mil",
           "timestamp": "12:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Deriving Halachot from Megillah Verses Using Standard Talmudic Hermeneutics",
@@ -57,7 +61,9 @@
           "display_title": "Megillah as Torah",
           "timestamp": "14:03"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Question of Innovation: Can Prophets and Sages Introduce New Practices or Only Rediscover the Original?",
@@ -79,7 +85,9 @@
           "display_title": "Targumim Authority",
           "timestamp": "27:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Authority of Interpretation: Explicating Cryptic Prophecies and the Weight of Rabbinic Tradition",
@@ -101,7 +109,9 @@
           "display_title": "Daniel/Nevi'im",
           "timestamp": "40:46"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Weight of the Mitzvah of Megillah: Suspension of Temple Service and Torah Study",
@@ -118,7 +128,9 @@
           "display_title": "Talmud Torah Hierarchy",
           "timestamp": "44:02"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -295,5 +307,6 @@
         "17:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

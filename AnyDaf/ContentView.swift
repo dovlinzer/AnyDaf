@@ -7,7 +7,7 @@ private enum IPadRightPanel: String {
 }
 
 /// Which content the iPhone main panel displays (replaces the old showShiurText Bool).
-private enum MainContentMode {
+private enum MainContentMode: String {
     case daf, text, shiur
 }
 
@@ -35,12 +35,30 @@ struct ContentView: View {
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     @AppStorage("shiurShowSources") private var shiurShowSources: Bool = true
     @State private var showStudyMode = false
-    @State private var mainContentMode: MainContentMode = .daf
+    @AppStorage("lastContentMode") private var mainContentMode: MainContentMode = .daf
+    // Persisted text-mode position — only valid when tractate+daf match the current selection.
+    @AppStorage("lastTextSectionIndex") private var lastTextSectionIndex: Int = 0
+    @AppStorage("lastTextTractate") private var lastTextTractate: String = ""
+    @AppStorage("lastTextDaf") private var lastTextDaf: Double = 0
+    // Persisted shiur-mode position — only valid when tractate+daf match the current selection.
+    @AppStorage("lastShiurSegmentIndex") private var lastShiurSegmentIndex: Int = 0
+    @AppStorage("lastShiurTractate") private var lastShiurTractate: String = ""
+    @AppStorage("lastShiurDaf") private var lastShiurDaf: Double = 0
+    // One-shot flag: true once we've applied the initial shiur position restore on this launch.
+    @State private var shiurInitialRestoreDone = false
     @State private var showSettings = false
     @State private var showBookmarkList = false
     @State private var showBookmarkEdit = false
     @State private var isFetchingDafYomi = false
     @State private var suppressTractateReset = false
+    /// Guards against re-running picker-driven side effects when selectedDaf/selectedSide are
+    /// set programmatically to mirror Study Mode's own daf/amud navigation (Prev Daf/Next Daf,
+    /// or crossing the amud A/B boundary while paging through sections). Without these, the
+    /// generic onChange(of: selectedDaf/selectedSide) handlers would redundantly restart the
+    /// study session (clobbering the position Study Mode just navigated to) or nudge shiur/audio
+    /// position, which Study Mode navigation should never touch.
+    @State private var suppressDafSessionSync = false
+    @State private var suppressSideSessionSync = false
     /// Prevents looping: only one automatic feed-refresh per play attempt.
     @State private var hasAutoRefreshedForAudio = false
     /// Tractate/daf frozen at the moment audio starts — stays fixed while picker freely moves.
@@ -60,6 +78,48 @@ struct ContentView: View {
     @AppStorage("iPadRightPanel") private var iPadRightPanel: IPadRightPanel = .shiur
 
     var tractate: Tractate { allTractates[selectedTractateIndex] }
+
+    /// Study session's current daf + amud side, used to keep the picker readout
+    /// (selectedDaf/selectedSide) in sync with Study Mode's own navigation.
+    private struct StudyDafSide: Equatable { let daf: Int; let side: Int }
+    private var studySessionDafSide: StudyDafSide? {
+        guard let s = studyManager.session else { return nil }
+        let onAmudB = s.amudBSectionIndex.map { s.currentSectionIndex >= $0 } ?? false
+        return StudyDafSide(daf: s.daf, side: onAmudB ? 1 : 0)
+    }
+
+    /// The shiur segment to highlight when switching Text→Shiur. Prefers studyManager's
+    /// activeSefariaIndex (the segment explicitly navigated to via a pill tap — see
+    /// StudySessionManager.activeSefariaIndex), as long as it's still within [start, end): the
+    /// user may have tapped a specific segment anchored mid-section, and switching to Shiur
+    /// should land on exactly that one, not just whatever governs the section's start. Falls
+    /// back to a point lookup at `start` — the last genuinely-`matched` segment whose own
+    /// sefariaIndex is ≤ that position — for the "nothing specific was tapped" case (a section
+    /// reached by scrolling or by Prev/Next, not a pill tap); several matched segments can share
+    /// one coarse section (e.g. Hullin 3's first section spans four of them), and a fresh look at
+    /// the top of that section should resolve to the first of them, not whichever anchors last.
+    /// `matched == nil` (not yet computed) stays eligible in the fallback.
+    /// Mirrors the reverse scan in SectionStudyView.activeShiurSegmentIndex (StudyModeView.swift).
+    private func shiurSegmentIndex(forRangeStarting start: Int, endingBefore end: Int) -> Int? {
+        if let activeIdx = studyManager.activeSefariaIndex, activeIdx >= start, activeIdx < end,
+           let segIdx = shiurClient.segments.firstIndex(where: { $0.sefariaIndex == activeIdx && $0.matched == true }) {
+            return segIdx
+        }
+        var best: Int? = nil
+        for (idx, seg) in shiurClient.segments.enumerated() {
+            guard seg.matched != false, let sIdx = seg.sefariaIndex, sIdx <= start else { continue }
+            best = idx
+        }
+        return best
+    }
+
+    /// Exclusive upper bound of the Sefaria range the current text section covers — the next
+    /// section's firstSegmentIndex, or unbounded if this is the last section.
+    private func currentSectionRangeEnd() -> Int {
+        guard let session = studyManager.session else { return Int.max }
+        let nextIndex = session.currentSectionIndex + 1
+        return nextIndex < session.sections.count ? session.sections[nextIndex].firstSegmentIndex : Int.max
+    }
 
     var currentAudioURL: URL? {
         feedManager.audioURL(tractate: tractate.name, daf: selectedDaf)
@@ -150,7 +210,10 @@ struct ContentView: View {
             SettingsView(
                 bookmarkManager: bookmarkManager,
                 isReloading: feedManager.isLoading,
-                onReload: { Task { await feedManager.forceRefresh() } }
+                onReload: { Task { await feedManager.forceRefresh() } },
+                tractate: tractate.name,
+                daf: selectedDaf == Double(Int(selectedDaf))
+                    ? "\(Int(selectedDaf))" : "\(selectedDaf)"
             )
         }
         .sheet(isPresented: $showBookmarkEdit) {
@@ -192,25 +255,68 @@ struct ContentView: View {
                         tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
                 }
             }
-        }
-        .onChange(of: selectedDaf) { _, newDaf in
-            Task { await shiurClient.loadSegments(tractate: tractate.name, daf: newDaf) }
-            if (horizontalSizeClass == .regular && iPadRightPanel == .study)
-                || (horizontalSizeClass != .regular && mainContentMode == .text) {
+            // iPhone: restore text mode session if last mode was text
+            if horizontalSizeClass != .regular && mainContentMode == .text {
+                let sameDaf = lastTextTractate == tractate.name && lastTextDaf == selectedDaf
                 Task {
                     await studyManager.startSession(
-                        tractate: tractate.name, daf: Int(newDaf), mode: .facts, quizMode: quizMode)
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode,
+                        startAtAmudB: !sameDaf && selectedSide == 1,
+                        startAtSectionIndex: sameDaf ? lastTextSectionIndex : nil)
                 }
             }
         }
+        .onChange(of: selectedDaf) { _, newDaf in
+            shiurInitialRestoreDone = true  // daf change is not a launch restore
+            Task { await shiurClient.loadSegments(tractate: tractate.name, daf: newDaf) }
+            if suppressDafSessionSync {
+                suppressDafSessionSync = false
+            } else if (horizontalSizeClass == .regular && iPadRightPanel == .study)
+                || (horizontalSizeClass != .regular && mainContentMode == .text) {
+                Task {
+                    await studyManager.startSession(
+                        tractate: tractate.name, daf: Int(newDaf), mode: .facts, quizMode: quizMode,
+                        startAtAmudB: selectedSide == 1)
+                }
+            }
+        }
+        // Keep the picker readout (selectedDaf/selectedSide) in sync with Study Mode's own
+        // navigation — crossing a daf boundary via Prev Daf/Next Daf, or crossing the amud A/B
+        // boundary while paging through sections within the same daf.
+        //
+        // selectedDaf here must stay a whole daf number, never daf+0.5 for "amud b" — the .5
+        // suffix is reserved for genuine half-daf *audio episodes* (see dafPickerItems, which
+        // only appends daf+0.5 when feedManager.episodeIndex actually has an entry there).
+        // Study Mode sessions always key on a whole daf (StudySession.daf: Int); amud is carried
+        // separately via selectedSide. Setting selectedDaf to an arbitrary daf+0.5 that isn't a
+        // real episode entry made it fall outside dafPickerItems, and the picker's UIKit-backed
+        // .menu style then rendered the daf number blank — reproduced by Prev Daf landing on
+        // amud b, and by paging Next across the amud a/b boundary within the same daf.
+        .onChange(of: studySessionDafSide) { _, newValue in
+            guard let newValue else { return }
+            let newSelectedDaf = Double(newValue.daf)
+            let dafChanged = newValue.daf != Int(selectedDaf)
+            let sideChanged = newValue.side != selectedSide
+            guard dafChanged || sideChanged else { return }
+            if dafChanged { suppressDafSessionSync = true }
+            if sideChanged { suppressSideSessionSync = true }
+            selectedDaf = newSelectedDaf
+            storedDaf = newSelectedDaf
+            imageDaf = newValue.daf
+            imageSide = newValue.side
+            selectedSide = newValue.side
+            storedSide = newValue.side
+        }
         .onChange(of: selectedTractateIndex) { _, _ in
+            shiurInitialRestoreDone = true  // tractate change is not a launch restore
             if audioPlayer.isStopped { shiurClient.reset() }
             Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
             if (horizontalSizeClass == .regular && iPadRightPanel == .study)
                 || (horizontalSizeClass != .regular && mainContentMode == .text) {
                 Task {
                     await studyManager.startSession(
-                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode,
+                        startAtAmudB: selectedSide == 1)
                 }
             }
         }
@@ -241,12 +347,59 @@ struct ContentView: View {
         .task {
             await feedManager.refreshIfNeeded()
         }
-        // Sync the a/b picker to the shiur's actual position when entering shiur mode (iPhone).
-        .onChange(of: mainContentMode) { _, newMode in
-            guard newMode == .shiur, let bIdx = shiurClient.amudBSegmentIndex else { return }
-            let newSide = shiurClient.currentSegmentIndex >= bIdx ? 1 : 0
-            selectedSide = newSide
-            storedSide = newSide
+        // Sync the a/b picker and content position when switching modes on iPhone.
+        // A direct Shiur↔Text switch carries the exact position across via sefariaIndex;
+        // any other transition (e.g. from the Daf image, or on launch) keeps restoring each
+        // mode's own last-remembered position, same as before.
+        //
+        // studySessionIsCurrent guards against a stale studyManager.session: Shiur mode does
+        // not restart the study session on a daf change (only Text mode does — see the
+        // onChange(of: selectedDaf) handler above), so if the user changes daf while in Shiur
+        // mode, studyManager.session can still point at whatever daf they were last actually
+        // in Text mode for. Without this guard, a direct Shiur→Text switch would jump within
+        // that stale session — showing the wrong daf's text while the (always-fresh-per-daf)
+        // shiur pill strip correctly shows the current daf's titles.
+        .onChange(of: mainContentMode) { oldMode, newMode in
+            let studySessionIsCurrent = studyManager.session?.tractate == tractate.name
+                && studyManager.session?.daf == Int(selectedDaf)
+            if newMode == .shiur {
+                if oldMode == .text, studySessionIsCurrent,
+                   let sefariaIdx = studyManager.session?.currentSection?.firstSegmentIndex,
+                   let segIdx = shiurSegmentIndex(
+                       forRangeStarting: sefariaIdx, endingBefore: currentSectionRangeEnd()) {
+                    shiurClient.currentSegmentIndex = segIdx
+                }
+                if let bIdx = shiurClient.amudBSegmentIndex {
+                    // Sync picker to shiur's current position (reflects the jump above too).
+                    let newSide = shiurClient.currentSegmentIndex >= bIdx ? 1 : 0
+                    selectedSide = newSide
+                    storedSide = newSide
+                }
+            } else if newMode == .text {
+                if oldMode == .shiur, studySessionIsCurrent,
+                   shiurClient.currentSegmentIndex < shiurClient.segments.count,
+                   let sefariaIdx = shiurClient.segments[shiurClient.currentSegmentIndex].sefariaIndex {
+                    studyManager.jumpToSection(containing: sefariaIdx)
+                } else {
+                    let sessionMatchesDaf = studyManager.session != nil
+                        && lastTextTractate == tractate.name
+                        && lastTextDaf == selectedDaf
+                    if sessionMatchesDaf {
+                        if lastTextSectionIndex > 0 {
+                            let count = studyManager.session?.sections.count ?? 0
+                            studyManager.session?.currentSectionIndex = min(lastTextSectionIndex, count - 1)
+                        } else if selectedSide == 1, let bIdx = studyManager.session?.amudBSectionIndex {
+                            studyManager.session?.currentSectionIndex = bIdx
+                        }
+                    } else if !studyManager.isLoadingText {
+                        Task {
+                            await studyManager.startSession(
+                                tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode,
+                                startAtAmudB: selectedSide == 1)
+                        }
+                    }
+                }
+            }
         }
         // Keep the a/b picker in sync as audio plays through the daf (both iPad and iPhone).
         .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
@@ -255,6 +408,34 @@ struct ContentView: View {
             guard shiurVisible else { return }
             let newSide = newIdx >= bIdx ? 1 : 0
             if newSide != selectedSide { selectedSide = newSide; storedSide = newSide }
+        }
+        // Save text-mode position so we can restore to the exact section on relaunch.
+        .onChange(of: studyManager.session?.currentSectionIndex) { _, newIdx in
+            guard mainContentMode == .text, let idx = newIdx else { return }
+            lastTextSectionIndex = idx
+            lastTextTractate = tractate.name
+            lastTextDaf = selectedDaf
+        }
+        // Save shiur segment position continuously so we can restore the exact spot on relaunch.
+        .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
+            guard mainContentMode == .shiur || horizontalSizeClass == .regular else { return }
+            lastShiurSegmentIndex = newIdx
+            lastShiurTractate = tractate.name
+            lastShiurDaf = selectedDaf
+        }
+        // On first segment load after launch, restore shiur position.
+        // shiurInitialRestoreDone prevents this from re-firing on subsequent daf changes.
+        .onChange(of: shiurClient.amudBSegmentIndex) { _, bIdx in
+            guard !shiurInitialRestoreDone else { return }
+            shiurInitialRestoreDone = true
+            guard mainContentMode == .shiur || horizontalSizeClass == .regular else { return }
+            guard shiurClient.currentSegmentIndex == 0 else { return }
+            let sameDaf = lastShiurTractate == tractate.name && lastShiurDaf == selectedDaf
+            if sameDaf && lastShiurSegmentIndex > 0 {
+                shiurClient.currentSegmentIndex = lastShiurSegmentIndex
+            } else if selectedSide == 1, let bIdx {
+                shiurClient.currentSegmentIndex = bIdx
+            }
         }
     }
 
@@ -417,13 +598,30 @@ struct ContentView: View {
                         .padding(.horizontal, 16)
                         .padding(.vertical, 8)
                         .colorScheme(useWhiteBackground ? .light : .dark)
-                        .onChange(of: iPadRightPanel) { _, newPanel in
+                        // Same direct-switch-only sync as the iPhone mainContentMode handler
+                        // above — iPad's Study panel defaults to the Translation tab, so this
+                        // toggle is the direct equivalent of iPhone's Shiur/Text switch.
+                        .onChange(of: iPadRightPanel) { oldPanel, newPanel in
                             if newPanel == .study {
+                                let sefariaIdx = (oldPanel == .shiur
+                                    && shiurClient.currentSegmentIndex < shiurClient.segments.count)
+                                    ? shiurClient.segments[shiurClient.currentSegmentIndex].sefariaIndex
+                                    : nil
                                 Task {
                                     await studyManager.startSession(
                                         tractate: tractate.name, daf: Int(selectedDaf),
                                         mode: .facts, quizMode: quizMode)
+                                    if let sefariaIdx {
+                                        studyManager.jumpToSection(containing: sefariaIdx)
+                                    }
                                 }
+                            } else if newPanel == .shiur, oldPanel == .study,
+                                      studyManager.session?.tractate == tractate.name,
+                                      studyManager.session?.daf == Int(selectedDaf),
+                                      let sefariaIdx = studyManager.session?.currentSection?.firstSegmentIndex,
+                                      let segIdx = shiurSegmentIndex(
+                                          forRangeStarting: sefariaIdx, endingBefore: currentSectionRangeEnd()) {
+                                shiurClient.currentSegmentIndex = segIdx
                             }
                         }
                         ZStack {
@@ -653,6 +851,11 @@ struct ContentView: View {
             .onChange(of: selectedDaf) { _, newVal in
                 storedDaf = newVal
                 imageDaf = Int(newVal)
+                // Skip re-deriving the amud side here when it was just set explicitly by the
+                // Study Mode sync (see onChange(of: studySessionDafSide)) — otherwise this
+                // handler's own isHalf/startDaf inference can override it (e.g. for a tractate
+                // whose startAmud == 1, landing back on that daf would force side back to 1).
+                guard !suppressDafSessionSync else { return }
                 let isHalf = newVal.truncatingRemainder(dividingBy: 1) != 0
                 let side = isHalf ? 1 : (newVal == Double(tractate.startDaf) ? tractate.startAmud : 0)
                 imageSide = side
@@ -670,6 +873,10 @@ struct ContentView: View {
             .onChange(of: selectedSide) { _, newVal in
                 storedSide = newVal
                 imageSide = newVal
+                if suppressSideSessionSync {
+                    suppressSideSessionSync = false
+                    return
+                }
                 // Jump the text view to the correct amud when the picker changes.
                 if mainContentMode == .text {
                     Task {
@@ -715,7 +922,8 @@ struct ContentView: View {
             if mode == .text, studyManager.session == nil, !studyManager.isLoadingText {
                 Task {
                     await studyManager.startSession(
-                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode)
+                        tractate: tractate.name, daf: Int(selectedDaf), mode: .facts, quizMode: quizMode,
+                        startAtAmudB: selectedSide == 1)
                 }
             }
         } label: {
@@ -750,7 +958,7 @@ struct ContentView: View {
                 ScrollViewReader { proxy in
                     ScrollView(.horizontal, showsIndicators: false) {
                         HStack(spacing: 6) {
-                            ForEach(Array(shiurClient.segments.enumerated()), id: \.element.id) { idx, seg in
+                            ForEach(Array(shiurClient.segments.enumerated()), id: \.offset) { idx, seg in
                                 let isActive = idx == shiurClient.currentSegmentIndex
                                 Button {
                                     shiurClient.currentSegmentIndex = idx
@@ -1174,7 +1382,7 @@ struct AudioPlayingControls: View {
         ScrollViewReader { proxy in
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 6) {
-                    ForEach(Array(shiurClient.audioSegments.enumerated()), id: \.element.id) { idx, seg in
+                    ForEach(Array(shiurClient.audioSegments.enumerated()), id: \.offset) { idx, seg in
                         let isActive = idx == shiurClient.audioCurrentSegmentIndex
                         Button {
                             audioPlayer.seek(to: seg.seconds / audioPlayer.duration)

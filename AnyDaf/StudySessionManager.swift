@@ -11,6 +11,20 @@ class StudySessionManager: ObservableObject {
     @Published var isLoadingText = false
     @Published var isLoadingStudyContent = false
     @Published var error: String?
+    /// Set by jumpToSection(containing:) alongside the target section, so the Text view can
+    /// scroll to the segment's exact raw position within that section (not just the section's
+    /// top) once it's rendered. Consumed and cleared by SectionStudyView.
+    @Published var pendingScrollToSefariaIndex: Int?
+    /// The segment explicitly navigated to (via pill tap or Shiur↔Text mode-switch sync), kept
+    /// (unlike pendingScrollToSefariaIndex) so the pill strip can highlight exactly that segment
+    /// rather than whichever one happens to have the largest anchor within the current section's
+    /// coarse range — several matched segments can share a section (e.g. Hullin 3's first
+    /// section spans four of them), and without this, tapping any of the earlier ones would
+    /// always show the last (highest-anchored) one as active instead of the one actually tapped.
+    /// SectionStudyView falls back to the range-based computation when this is nil or no longer
+    /// within the current section (e.g. after Prev/Next-section navigation, which doesn't touch
+    /// this property).
+    @Published var activeSefariaIndex: Int?
 
     private let sefariaClient = SefariaClient()
     private let claudeClient = ClaudeClient()
@@ -28,12 +42,14 @@ class StudySessionManager: ObservableObject {
 
     // MARK: - Session lifecycle
 
-    func startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode, startAtLastSection: Bool = false) async {
+    func startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode, startAtLastSection: Bool = false, startAtAmudB: Bool = false, startAtSectionIndex: Int? = nil) async {
         studyMode = mode
         self.quizMode = quizMode
         isLoadingText = true
         error = nil
         loadingIndices = []
+        pendingScrollToSefariaIndex = nil
+        activeSefariaIndex = nil
 
         do {
             // Fetch the daf's two amudim AND adjacent-daf context all in parallel.
@@ -58,7 +74,10 @@ class StudySessionManager: ObservableObject {
             let sectionsA = SefariaClient.parseSections(from: segsA, hebrewSegments: hebrewA, offset: 0)
             let sectionsB = SefariaClient.parseSections(from: segsB, hebrewSegments: hebrewB, offset: segsA.count)
 
-            let allSections = sectionsA + sectionsB
+            // When A and B each produce "X, Part 1", "X, Part 2" independently,
+            // combining them gives confusingly repeating labels.  Renumber them
+            // sequentially across the combined list so they read "Part 1, 2, 3, 4…".
+            let allSections = StudySessionManager.resequencePartNumbers(sectionsA + sectionsB)
             session = StudySession(
                 tractate: tractate,
                 daf: daf,
@@ -72,8 +91,12 @@ class StudySessionManager: ObservableObject {
                 followingContext: endsInMidSentence(segsB) ? nextContext : nil
             )
 
-            if startAtLastSection, !allSections.isEmpty {
+            if let idx = startAtSectionIndex {
+                session!.currentSectionIndex = min(idx, allSections.count - 1)
+            } else if startAtLastSection, !allSections.isEmpty {
                 session!.currentSectionIndex = allSections.count - 1
+            } else if startAtAmudB, let bIdx = session?.amudBSectionIndex {
+                session!.currentSectionIndex = bIdx
             }
 
             isLoadingText = false
@@ -89,13 +112,21 @@ class StudySessionManager: ObservableObject {
         }
     }
 
-    /// Prefetch the first two sections at session start so they're silently ready by the
-    /// time the user taps Study tab.  Only two calls — not all sections at once — to stay
-    /// comfortably within the 5 requests/minute rate limit.  Remaining sections are
-    /// prefetched one step ahead as the user advances (see advanceToNextSection).
+    /// Prefetch the session's starting section plus the first two sections at session start,
+    /// so they're silently ready by the time the user taps Study tab.  The starting section is
+    /// included because it isn't always index 0 — e.g. Prev Daf lands on the last section via
+    /// startAtLastSection — and without prefetching it directly, a user already on the
+    /// Summary/Quiz tab would otherwise wait for a fresh, uncached Claude call.  Only a
+    /// handful of calls — not all sections at once — to stay comfortably within the
+    /// 5 requests/minute rate limit.  Remaining sections are prefetched one step ahead as the
+    /// user advances (see advanceToNextSection).
     private func prefetchAllSections() {
         let count = session?.sections.count ?? 0
-        for idx in 0..<min(2, count) {
+        guard count > 0 else { return }
+        let startIdx = session?.currentSectionIndex ?? 0
+        var indices = [startIdx]
+        indices.append(contentsOf: (0..<min(2, count)).filter { $0 != startIdx })
+        for idx in indices {
             Task { await prefetchSection(at: idx) }
         }
     }
@@ -233,8 +264,15 @@ class StudySessionManager: ObservableObject {
 
         let idx = session.currentSectionIndex
 
-        // Fast-path: already loaded (prefetch beat us here).
-        guard session.sections[idx].summary == nil else { return }
+        // Fast-path: already loaded (prefetch beat us here). Explicitly clear the flag rather
+        // than leaving it untouched — an older, still in-flight call for a since-abandoned
+        // index (e.g. a rapid-fire section change) may have left it true, which would strand
+        // the Summary/Quiz UI on its loading skeleton even though this section's content is
+        // ready right now.
+        guard session.sections[idx].summary == nil else {
+            isLoadingStudyContent = false
+            return
+        }
 
         isLoadingStudyContent = true
 
@@ -403,6 +441,8 @@ class StudySessionManager: ObservableObject {
         for (i, sec) in session.sections.enumerated() {
             if sec.firstSegmentIndex <= sefariaIndex { target = i }
         }
+        pendingScrollToSefariaIndex = sefariaIndex
+        activeSefariaIndex = sefariaIndex
         if self.session!.currentSectionIndex != target {
             self.session!.currentSectionIndex = target
         }
@@ -475,6 +515,33 @@ class StudySessionManager: ObservableObject {
             self.session!.sections[si].quizQuestions[questionIndex].isGrading = false
             self.session!.sections[si].quizQuestions[questionIndex].gradeResult =
                 GradeResult(isCorrect: false, feedback: "Grading failed. The answer was: \(correctAnswer)")
+        }
+    }
+
+    // MARK: - Section utilities
+
+    /// Renumbers "X, Part N" sections so that when amud A and amud B are combined
+    /// the part counters run sequentially (1, 2, 3, 4…) instead of resetting to 1
+    /// at the start of each amud.
+    private static func resequencePartNumbers(_ sections: [StudySection]) -> [StudySection] {
+        var partCounters: [String: Int] = [:]
+        return sections.map { section in
+            guard let range = section.title.range(of: #", Part \d+$"#, options: .regularExpression) else {
+                return section
+            }
+            let baseName = String(section.title[..<range.lowerBound])
+            let newPart  = (partCounters[baseName, default: 0]) + 1
+            partCounters[baseName] = newPart
+            return StudySection(
+                title: "\(baseName), Part \(newPart)",
+                rawText: section.rawText,
+                rawSegments: section.rawSegments,
+                hebrewText: section.hebrewText,
+                hebrewSegments: section.hebrewSegments,
+                summary: section.summary,
+                quizQuestions: section.quizQuestions,
+                firstSegmentIndex: section.firstSegmentIndex
+            )
         }
     }
 

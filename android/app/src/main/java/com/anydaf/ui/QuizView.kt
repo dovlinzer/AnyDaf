@@ -42,6 +42,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.anydaf.model.QuizMode
 import com.anydaf.model.QuizQuestion
 import com.anydaf.model.StudySection
@@ -154,10 +155,15 @@ fun QuizQuestionCard(
     onMarkFlashcard: (Boolean) -> Unit,
     onGradeAnswer: (String) -> Unit
 ) {
+    val quizFontSize = LocalStudyFontSize.current
     Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
         Text(
             "Q${questionIndex + 1}. ${question.question}",
-            style = MaterialTheme.typography.bodyLarge.copy(fontWeight = FontWeight.Medium)
+            style = MaterialTheme.typography.bodyLarge.copy(
+                fontWeight = FontWeight.Medium,
+                fontSize = quizFontSize,
+                lineHeight = (quizFontSize.value * 1.45f).sp
+            )
         )
 
         when (question.mode) {
@@ -208,6 +214,7 @@ fun MultipleChoiceQuestion(question: QuizQuestion, onAnswer: (Int) -> Unit) {
                 else -> MaterialTheme.colorScheme.outline
             }
 
+            val choiceFontSize = LocalStudyFontSize.current
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -216,7 +223,13 @@ fun MultipleChoiceQuestion(question: QuizQuestion, onAnswer: (Int) -> Unit) {
                     .clickable(enabled = !isAnswered) { onAnswer(idx) }
                     .padding(12.dp)
             ) {
-                Text(choice, style = MaterialTheme.typography.bodyMedium)
+                Text(
+                    choice,
+                    style = MaterialTheme.typography.bodyMedium.copy(
+                        fontSize = choiceFontSize,
+                        lineHeight = (choiceFontSize.value * 1.45f).sp
+                    )
+                )
             }
         }
     }
@@ -243,13 +256,20 @@ fun FlashcardQuestion(question: QuizQuestion, onMark: (Boolean) -> Unit) {
         ) { Text("Reveal Answer") }
     } else {
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            val answerFontSize = LocalStudyFontSize.current
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
                     .background(MaterialTheme.colorScheme.secondaryContainer, RoundedCornerShape(8.dp))
                     .padding(12.dp)
             ) {
-                Text(question.correctAnswer, style = MaterialTheme.typography.bodyMedium)
+                Text(
+                    question.correctAnswer,
+                    style = MaterialTheme.typography.bodyMedium.copy(
+                        fontSize = answerFontSize,
+                        lineHeight = (answerFontSize.value * 1.45f).sp
+                    )
+                )
             }
             if (question.selfMarkedCorrect == null) {
                 Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {

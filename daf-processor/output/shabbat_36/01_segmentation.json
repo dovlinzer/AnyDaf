@@ -18,7 +18,9 @@
           "display_title": "Shofar Placement",
           "timestamp": "00:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Muktzah Status of Shofar and Chatzotzrot: Three-Way Tannaitic Debate",
@@ -40,7 +42,9 @@
           "display_title": "Three Tannaim",
           "timestamp": "03:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Muktzah Categories: Kli Shemelachto L'Issur Versus Kli Shemelachto L'Heter",
@@ -72,7 +76,9 @@
           "display_title": "Moving Objects",
           "timestamp": "11:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Terminology Shift: Name Changes of Shofar and Chatzotzrot After Churban Bayit Sheni",
@@ -89,7 +95,9 @@
           "display_title": "Rosh Hashanah",
           "timestamp": "19:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Additional Terminology Shifts: Aravah, Tziptzafah, Petora, and Stomach Components",
@@ -116,7 +124,9 @@
           "display_title": "Geography",
           "timestamp": "23:31"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Transition to Third Perek: Food on the Fire and Stirring Concern",
@@ -133,7 +143,9 @@
           "display_title": "Fire Management",
           "timestamp": "27:07"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mishnah: Kirah Fueled with Straw Versus Wood and Required Fire Management",
@@ -160,7 +172,9 @@
           "display_title": "Ash Coverage",
           "timestamp": "30:06"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Mishnah Debate: Beit Shammai Versus Beit Hillel on Hot Water and Cooked Food",
@@ -182,7 +196,9 @@
           "display_title": "Hillel Both",
           "timestamp": "32:32"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Mishnah: Removing Versus Returning Food to Fire on Shabbat",
@@ -199,7 +215,9 @@
           "display_title": "Hillel Return",
           "timestamp": "32:57"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Gemara: Inquiry Into Mishnah Meaning—Sheiya (Leaving On) Versus Chazara (Returning)",
@@ -226,7 +244,9 @@
           "display_title": "Personal Experience",
           "timestamp": "37:27"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rationale for Greater Stringency on Chazara: Stirring Versus Appearance of Cooking",
@@ -248,7 +268,9 @@
           "display_title": "Modern Devices",
           "timestamp": "40:32"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Gemara: Reading Mishnah as Primarily About Chazara with Inserted Sheiya Section",
@@ -275,7 +297,9 @@
           "display_title": "Complexity",
           "timestamp": "47:15"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Preview of Continuation: Chananya Debate and Blech Practice Tomorrow",
@@ -287,7 +311,9 @@
           "display_title": "Chananya Debate",
           "timestamp": "49:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -1158,5 +1184,6 @@
         "49:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

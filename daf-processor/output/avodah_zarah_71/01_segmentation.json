@@ -13,7 +13,9 @@
           "display_title": "Daf Overview",
           "timestamp": "00:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna: Jewish Workers Refusing Non-Kosher Wine as Wages",
@@ -25,7 +27,9 @@
           "display_title": "Non-Jew Payment",
           "timestamp": "00:55"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Introduction to the Daf: Wine Left with Non-Jews and Issues of Benefit (continued)",
@@ -37,7 +41,9 @@
           "display_title": "Chametz Tie-In",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Mishna: Jewish Workers Refusing Non-Kosher Wine as Wages (continued)",
@@ -54,7 +60,9 @@
           "display_title": "Possession Final",
           "timestamp": "02:22"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara: Paying Taxes Through a Non-Jew (Shaliach vs. Simple Debt)",
@@ -81,7 +89,9 @@
           "display_title": "Tosafot Leniency",
           "timestamp": "07:53"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Mishna: Selling Wine to Non-Jew (Price Fixed Before Measuring)",
@@ -98,7 +108,9 @@
           "display_title": "Two Cases",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara: What Finalizes a Sale to a Non-Jew—Meshicha vs. Kesef (Money)",
@@ -145,7 +157,9 @@
           "display_title": "Barrels vs. Liquid",
           "timestamp": "41:54"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Proof from Scrap Metal with Idol: Mekach Taos and Payment",
@@ -172,7 +186,9 @@
           "display_title": "Money Paid Effect",
           "timestamp": "47:27"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Further Proofs on Kinyan for Non-Jews: Prepayment Analysis",
@@ -194,7 +210,9 @@
           "display_title": "Kinyan Reading",
           "timestamp": "50:38"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Proof from Ben Noach Laws: Theft and Kinyan by Non-Jews",
@@ -231,7 +249,9 @@
           "display_title": "Tosafot Caveat",
           "timestamp": "57:13"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -487,5 +507,11 @@
         "52:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7,
+  "amud_b_segment_index": 6,
+  "amud_b_timestamp": "28:03",
+  "amud_b_micro_title": "Forbidden Drops",
+  "shiur_start_daf": 71,
+  "shiur_start_amud": "a"
 }

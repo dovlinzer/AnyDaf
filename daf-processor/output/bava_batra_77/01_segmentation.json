@@ -38,7 +38,9 @@
           "display_title": "Seller's Intent",
           "timestamp": "04:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Transferring Debt: The Requirement for Both Mesira and a Written Document",
@@ -65,7 +67,9 @@
           "display_title": "Rashbam Explanation",
           "timestamp": "10:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Halakhic Ruling on Otiyot and the Role of Writing versus Mesira",
@@ -97,7 +101,9 @@
           "display_title": "Sevara Explained",
           "timestamp": "14:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Challenge to the Sevara: Transferring Documents Through Agav and the Case of Land",
@@ -129,7 +135,9 @@
           "display_title": "Agav Principle",
           "timestamp": "23:50"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Gemara's Response: Distinguishing Agav from Mesira in Debt Transfer",
@@ -156,7 +164,9 @@
           "display_title": "Final Conclusion",
           "timestamp": "32:27"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "What Is and Is Not Included in the Sale of a Boat",
@@ -173,7 +183,9 @@
           "display_title": "Antiki Definition",
           "timestamp": "33:46"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -721,5 +733,6 @@
         "33:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

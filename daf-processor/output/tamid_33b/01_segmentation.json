@@ -33,7 +33,9 @@
           "display_title": "Divine Name & Hands",
           "timestamp": "11:28"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The High Priest's Role in Offering the Limbs of the Daily Offering",
@@ -60,7 +62,9 @@
           "display_title": "Altar Circuit & Wine",
           "timestamp": "13:02"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Signaling System and Levitical Song Accompanying Wine Libation",
@@ -72,7 +76,9 @@
           "display_title": "Flag Signals",
           "timestamp": "13:32"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "The Signaling System and Levitical Song Accompanying Wine Libation (continued)",
@@ -99,7 +105,9 @@
           "display_title": "Closing Statement",
           "timestamp": "13:43"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Song of the Day Recited by Levites for Each Day of the Week",
@@ -121,7 +129,9 @@
           "display_title": "Days 3-7 Songs",
           "timestamp": "13:43"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -335,5 +345,6 @@
         "13:43"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

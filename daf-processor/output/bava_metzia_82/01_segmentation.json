@@ -23,7 +23,9 @@
           "display_title": "R. Yehuda: Money/Fruit",
           "timestamp": "01:22"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Baraita Debate: Rabbi Eliezer vs. Rabbi Akiva on Collateral",
@@ -45,7 +47,9 @@
           "display_title": "With Shtar (Document)",
           "timestamp": "02:46"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rashi's Explanation: Memory Aid vs. Collection Purpose",
@@ -62,7 +66,9 @@
           "display_title": "R. Akiva: Payment",
           "timestamp": "04:04"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Gemara's Analysis: Reconciling Mishna with Rabbi Eliezer",
@@ -94,7 +100,9 @@
           "display_title": "Conclusion: Not R. Eliez…",
           "timestamp": "11:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Role of Shmuel: Disproportionate Collateral",
@@ -116,7 +124,9 @@
           "display_title": "Reject Extreme",
           "timestamp": "15:08"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Yitzchak's Principle: Creditor Acquires Ownership of Collateral",
@@ -143,7 +153,9 @@
           "display_title": "All Agree?",
           "timestamp": "19:15"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Watchman Framework: Shomer Aviday (Lost Object) and the Debate",
@@ -170,7 +182,9 @@
           "display_title": "Mitzvah Collateral",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Resolution: The Debate Hinges on When Creditor Needs the Collateral",
@@ -192,7 +206,9 @@
           "display_title": "R. Eliezer: No Mitzvah",
           "timestamp": "27:50"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Second Mishna: Moving a Barrel and Accidental Breakage",
@@ -219,7 +235,9 @@
           "display_title": "R. Eliezer Astounded",
           "timestamp": "34:27"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gemara on Breakage: Negligence vs. Accident (Ones) Debate",
@@ -251,7 +269,9 @@
           "display_title": "R. Eliezer Critique",
           "timestamp": "38:30"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -417,5 +437,6 @@
         "39:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

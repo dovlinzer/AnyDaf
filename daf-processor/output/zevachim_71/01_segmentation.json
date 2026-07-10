@@ -18,7 +18,9 @@
           "display_title": "Ta'arovet Concept",
           "timestamp": "00:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Five Categories of Chataot HaMetot and Their Mixed Status",
@@ -40,7 +42,9 @@
           "display_title": "One in 10,000 Rule",
           "timestamp": "02:54"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Why Bitul Does Not Apply to Live Animals; Redemption and Benefit Prohibitions",
@@ -62,7 +66,9 @@
           "display_title": "Permissible for Benefit",
           "timestamp": "05:12"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Specific Cases of Forbidden Animals: Sin, Bestiality, Idolatry, and Halachic Restrictions",
@@ -94,7 +100,9 @@
           "display_title": "Cesarean Section",
           "timestamp": "08:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Solutions for Mixed Forbidden Animals with Permitted Korbanot Through Mum and Redemption",
@@ -121,7 +129,9 @@
           "display_title": "Treifa Solution",
           "timestamp": "13:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mixed Chullin with Kodshim; Mixed Kodshim of Different Types",
@@ -148,7 +158,9 @@
           "display_title": "Two Piles Method",
           "timestamp": "16:13"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Mixed Olah with Bechor or Ma'aser; Eating with Restrictions",
@@ -170,7 +182,9 @@
           "display_title": "Bechor Restrictions",
           "timestamp": "20:09"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Exceptions: Chatat and Asham Cannot Mix; Summary of Mixable Types",
@@ -182,7 +196,9 @@
           "display_title": "Chatat-Asham Rule",
           "timestamp": "21:37"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Gemara: Clarifying 'Afilu Echad Beribo' and Comparing Parallel Sugyot",
@@ -204,7 +220,9 @@
           "display_title": "Rav Ashi Query",
           "timestamp": "23:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara: Why Both Cases Are Necessary; Distinguishing Issurei Hana'ah from Pasul Korban",
@@ -226,7 +244,9 @@
           "display_title": "Takanata Solution",
           "timestamp": "28:54"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gemara: Establishing that Issurei Hana'ah Do Not Become Batul in Any Context",
@@ -248,7 +268,9 @@
           "display_title": "Final Principle",
           "timestamp": "31:02"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -537,5 +559,6 @@
         "30:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 1
 }

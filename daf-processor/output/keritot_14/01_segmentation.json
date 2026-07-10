@@ -23,7 +23,9 @@
           "display_title": "Rabbi Meir's Sixth",
           "timestamp": "02:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Principle of Issur Chal Al Issur and Its Exceptions",
@@ -55,7 +57,9 @@
           "display_title": "Yom Kippur Addition",
           "timestamp": "12:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Resolving Whether Multiple Prohibitions Apply to One Object in Same Eating",
@@ -77,7 +81,9 @@
           "display_title": "Beth Habliah Limit",
           "timestamp": "26:37"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Response to Rabbi Meir's Shabbat Carrying Addition and the Nature of Melacha",
@@ -109,7 +115,9 @@
           "display_title": "Rejection of Rafram",
           "timestamp": "31:47"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Multiple Sin Offerings from a Single Act of Sexual Relations",
@@ -136,7 +144,9 @@
           "display_title": "Father Marriage Case",
           "timestamp": "47:32"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rabbi Yossi's Position on Issur Chal Al Issur in Capital Cases",
@@ -168,7 +178,9 @@
           "display_title": "Father Example",
           "timestamp": "58:42"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -517,5 +529,6 @@
         "00:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

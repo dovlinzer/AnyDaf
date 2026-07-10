@@ -28,7 +28,9 @@
           "display_title": "Fruit Restrictions",
           "timestamp": "07:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Complex Calendar: When Orlah and Reva'i Expire Relative to Rosh Hashanah and Tu B'Shvat",
@@ -50,7 +52,9 @@
           "display_title": "Biblical Sources",
           "timestamp": "13:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Dispute Over the Thirty-Day Requirement: Rabbi Meir vs. Rabbi Eliezer and the Role of Rooting Time",
@@ -82,7 +86,9 @@
           "display_title": "Rabbi Eliezer: Rooting T…",
           "timestamp": "29:47"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Reconciling the Thirty-Day Rule with Rooting Time: The Gemara's Resolution Using Rabbi Meir",
@@ -104,7 +110,9 @@
           "display_title": "Shmita Conclusion",
           "timestamp": "36:00"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Prooftext Debate: Interpreting Genesis on the 601st Year to Determine If One Day or One Month Counts",
@@ -126,7 +134,9 @@
           "display_title": "Day-Month-Year Analogy",
           "timestamp": "40:55"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Historical and Eschatological Timeline: Rabbi Eliezer's Tishrei-Centered Year vs. Rabbi Yehoshua's Nissan-Centered Year",
@@ -148,7 +158,9 @@
           "display_title": "Rabbi Yehoshua Timeline",
           "timestamp": "51:31"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -392,5 +404,6 @@
         "52:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

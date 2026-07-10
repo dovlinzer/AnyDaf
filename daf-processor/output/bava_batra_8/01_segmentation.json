@@ -28,7 +28,9 @@
           "display_title": "Residency Duration",
           "timestamp": "02:26"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Gemara's Discussion of Guard's Gates and the Exclusion of the Poor",
@@ -45,7 +47,9 @@
           "display_title": "Multiple Resolutions",
           "timestamp": "04:13"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "The Rabbinic Discussion of Taxation: Per Person vs. Proportional to Wealth and Benefit",
@@ -67,7 +71,9 @@
           "display_title": "Tosafot Analysis",
           "timestamp": "12:18"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Exemption of Rabbis from Protection-Related Taxes",
@@ -94,7 +100,9 @@
           "display_title": "Tax Categories",
           "timestamp": "30:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Story of Rabbi and His Warehouse During Famine: Torah Scholars vs. Illiterate Poor",
@@ -121,7 +129,9 @@
           "display_title": "King's Crown Tax",
           "timestamp": "43:10"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Duration of Residency for Different Communal Obligations and Charitable Contributions",
@@ -143,7 +153,9 @@
           "display_title": "All Contribute to Walls",
           "timestamp": "52:23"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Orphans and Charitable Obligations: The Limit of Enforced Contributions",
@@ -165,7 +177,9 @@
           "display_title": "Ifra's Donation",
           "timestamp": "55:50"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -486,5 +500,6 @@
         "51:25"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -497,45 +497,71 @@ class Pipeline:
                 self._get_sefaria_prev_tail(masechta, daf, job_dir)
                 self._get_sefaria_next_head(masechta, daf, job_dir)
 
-        # Build requests
-        requests_list = []
+        state_file = self.output_dir / f".batch_phase{pass_num}.json"
+        batch = None
         id_to_job = {}  # custom_id → (srt_file, masechta, daf, amud, job_dir, prompt)
 
-        for srt_file, masechta, daf, amud in jobs:
-            job_dir = self._job_dir(masechta, daf, amud)
-            if self._is_done(job_dir, pass_num):
-                label = f"{masechta} {daf}{amud or ''}"
-                logger.info(f"  Skipping {label} pass {pass_num} (already done)")
-                continue
-            prompt = self._build_prompt(srt_file, masechta, daf, job_dir, pass_num, amud=amud)
-            if prompt is None:
-                continue
-            safe_pass = str(pass_num).replace('.', '_')
-            custom_id = f"{masechta.lower().replace(' ', '_')}_{daf}{amud or ''}_p{safe_pass}"
-            requests_list.append({
-                "custom_id": custom_id,
-                "params": {
-                    "model": PASS_MODELS[pass_num],
-                    "max_tokens": PASS_TOKENS[pass_num],
-                    "messages": [{"role": "user", "content": prompt}],
-                },
-            })
-            id_to_job[custom_id] = (srt_file, masechta, daf, amud, job_dir, prompt)
+        # Resume a batch already submitted by a previous (interrupted) run instead of
+        # unconditionally submitting a new one — a saved batch ID means the API call
+        # already happened and may well have already succeeded server-side; resubmitting
+        # duplicates the cost for no reason. srt_file/prompt aren't in the saved state
+        # (only needed to build the request / for the error-debug dump), so those come
+        # back as None — harmless, since a resumed batch skips straight to polling/collecting.
+        if self.resume and state_file.exists():
+            try:
+                saved = json.loads(state_file.read_text(encoding='utf-8'))
+                batch = self.client.messages.batches.retrieve(saved["batch_id"])
+                for custom_id, (masechta, daf, amud) in saved["jobs"].items():
+                    job_dir = self._job_dir(masechta, daf, amud)
+                    id_to_job[custom_id] = (None, masechta, daf, amud, job_dir, None)
+                logger.info(
+                    f"  Resuming saved batch {saved['batch_id']} "
+                    f"({len(id_to_job)} job(s), status={batch.processing_status}) "
+                    f"instead of submitting a new one"
+                )
+            except Exception as e:
+                logger.warning(f"  Could not resume saved batch from {state_file} ({e}); submitting fresh")
+                batch = None
+                id_to_job = {}
 
-        if not requests_list:
-            logger.info("  No jobs to submit for this phase.")
-            return
+        if batch is None:
+            # Build requests
+            requests_list = []
 
-        logger.info(f"  Submitting {len(requests_list)} request(s) to Batch API")
-        batch = self.client.messages.batches.create(requests=requests_list)
-        logger.info(f"  Batch ID: {batch.id}  (save this to resume if needed)")
+            for srt_file, masechta, daf, amud in jobs:
+                job_dir = self._job_dir(masechta, daf, amud)
+                if self._is_done(job_dir, pass_num):
+                    label = f"{masechta} {daf}{amud or ''}"
+                    logger.info(f"  Skipping {label} pass {pass_num} (already done)")
+                    continue
+                prompt = self._build_prompt(srt_file, masechta, daf, job_dir, pass_num, amud=amud)
+                if prompt is None:
+                    continue
+                safe_pass = str(pass_num).replace('.', '_')
+                custom_id = f"{masechta.lower().replace(' ', '_')}_{daf}{amud or ''}_p{safe_pass}"
+                requests_list.append({
+                    "custom_id": custom_id,
+                    "params": {
+                        "model": PASS_MODELS[pass_num],
+                        "max_tokens": PASS_TOKENS[pass_num],
+                        "messages": [{"role": "user", "content": prompt}],
+                    },
+                })
+                id_to_job[custom_id] = (srt_file, masechta, daf, amud, job_dir, prompt)
 
-        # Persist batch ID so user can recover if script is interrupted
-        state_file = self.output_dir / f".batch_phase{pass_num}.json"
-        state_file.write_text(
-            json.dumps({"batch_id": batch.id, "jobs": {k: list(v[1:4]) for k, v in id_to_job.items()}}),
-            encoding='utf-8',
-        )
+            if not requests_list:
+                logger.info("  No jobs to submit for this phase.")
+                return
+
+            logger.info(f"  Submitting {len(requests_list)} request(s) to Batch API")
+            batch = self.client.messages.batches.create(requests=requests_list)
+            logger.info(f"  Batch ID: {batch.id}  (save this to resume if needed)")
+
+            # Persist batch ID so user can recover if script is interrupted
+            state_file.write_text(
+                json.dumps({"batch_id": batch.id, "jobs": {k: list(v[1:4]) for k, v in id_to_job.items()}}),
+                encoding='utf-8',
+            )
 
         # Poll until done
         start = time.time()
@@ -612,9 +638,16 @@ class Pipeline:
                     f"  ✗ {label} pass {pass_num}: {err_type}"
                     + (f" — {err_msg}" if err_msg else "")
                 )
-                safe_label = label.replace(' ', '_')
-                debug_path = self.output_dir / f"debug_pass{pass_num}_{safe_label}_prompt.txt"
-                debug_path.write_text(prompt, encoding='utf-8')
-                logger.error(f"    Prompt saved to {debug_path}")
+                if prompt is not None:
+                    safe_label = label.replace(' ', '_')
+                    debug_path = self.output_dir / f"debug_pass{pass_num}_{safe_label}_prompt.txt"
+                    debug_path.write_text(prompt, encoding='utf-8')
+                    logger.error(f"    Prompt saved to {debug_path}")
+                else:
+                    logger.error(f"    (prompt unavailable — resumed from saved batch state)")
 
-        logger.info(f"  Phase {pass_num} complete: {succeeded}/{len(requests_list)} succeeded")
+        logger.info(f"  Phase {pass_num} complete: {succeeded}/{len(id_to_job)} succeeded")
+
+        # This batch is now fully consumed — clear the saved state so a later run
+        # doesn't try to resume it again (Batch API results may not be queryable forever).
+        state_file.unlink(missing_ok=True)

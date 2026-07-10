@@ -28,7 +28,9 @@
           "display_title": "Fundamental vs. Technical",
           "timestamp": "02:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna Debate: Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Shimon on Mit'asek Cases",
@@ -55,7 +57,9 @@
           "display_title": "Shem Echad Resolution",
           "timestamp": "10:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rava's Explanation: Order and Intent in Mit'asek Cases",
@@ -77,7 +81,9 @@
           "display_title": "Machshavto",
           "timestamp": "17:21"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Shoveling Coals and Unintended Consequences",
@@ -109,7 +115,9 @@
           "display_title": "Rav Ashi",
           "timestamp": "36:56"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Warming with Coals: Melacha She'eina Tzricha Legufa",
@@ -136,7 +144,9 @@
           "display_title": "vs. Eino Mitkavein",
           "timestamp": "44:25"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Blood: Types and Permissibility on Shabbat",
@@ -168,7 +178,9 @@
           "display_title": "No Prohibition",
           "timestamp": "54:03"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -449,5 +461,6 @@
         "57:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -33,7 +33,9 @@
           "display_title": "Mezuman Definition",
           "timestamp": "08:08"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Question of Whether the Halakha Applies to Non-Cash Items: Money, Metal, Lumber, and Birds",
@@ -65,7 +67,9 @@
           "display_title": "Response: Gender",
           "timestamp": "26:29"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Braita on the Son Using the Father's Unspecified Money (Gleiach al Maot Aviv)",
@@ -92,7 +96,9 @@
           "display_title": "Specified Animals",
           "timestamp": "32:13"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "The Inference About Blemished Animals (Behemah Ba'alas Mum) and Whether They Count as Cash",
@@ -119,7 +125,9 @@
           "display_title": "Final Principle",
           "timestamp": "34:54"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -428,5 +436,6 @@
         "07:18"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

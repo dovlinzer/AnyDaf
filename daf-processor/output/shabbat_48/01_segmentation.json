@@ -23,7 +23,9 @@
           "display_title": "Gefet vs. Sesame",
           "timestamp": "01:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Tosafot Discussion: Distinguishing Hatmanah from Shehiya",
@@ -45,7 +47,9 @@
           "display_title": "Practical Application",
           "timestamp": "10:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Stories from the House of the Reish Galuta: Improper Practices",
@@ -62,7 +66,9 @@
           "display_title": "Cloth & Squeezing",
           "timestamp": "16:18"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Insulation with Muktzah Materials and the Question of Moving Them on Shabbat",
@@ -84,7 +90,9 @@
           "display_title": "Baraita Evidence",
           "timestamp": "25:29"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Making Vessels (Kelim): Opening Garments and Related Prohibitions",
@@ -111,7 +119,9 @@
           "display_title": "Breakage & Repair",
           "timestamp": "29:38"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Chibbur (Connection) for Tumah and Haza'ah: Temporary vs. Permanent",
@@ -138,7 +148,9 @@
           "display_title": "Barrel vs. Garment",
           "timestamp": "39:46"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Temporary Connections: Laundry, Keychains, and Kilayim",
@@ -165,7 +177,9 @@
           "display_title": "Intention Matters",
           "timestamp": "43:16"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Doctrine: Chibbur as Rabbinic Enactment",
@@ -192,7 +206,9 @@
           "display_title": "Rabbinic Enactment",
           "timestamp": "47:36"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Scissors and Plane: Chibbur for Tumah but Not Haza'ah",
@@ -219,7 +235,9 @@
           "display_title": "Final Principle",
           "timestamp": "54:01"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -505,5 +523,6 @@
         "04:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

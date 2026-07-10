@@ -1,10 +1,13 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-# Models — Haiku for mechanical passes, Sonnet for quality rewrite
+# Models — Haiku for mechanical passes, Sonnet for quality rewrite and source insertion.
+# Source insertion was Haiku until testing showed it unreliably preserves ## / ### headings
+# on dense, quote-heavy dafs (silently merging or fabricating section structure) — Sonnet
+# was 10/10 clean on the same test set where Haiku was 5/10.
 SEGMENTATION_MODEL = "claude-haiku-4-5-20251001"
 REWRITE_MODEL = "claude-sonnet-4-6"
-SOURCE_INSERTION_MODEL = "claude-haiku-4-5-20251001"
+SOURCE_INSERTION_MODEL = "claude-sonnet-4-6"
 
 # Max output tokens per pass.
 # Pass 1 (segmentation JSON): long shiurim with many topical_tags exceeded 16K;

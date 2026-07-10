@@ -23,7 +23,9 @@
           "display_title": "Paradox Setup",
           "timestamp": "00:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Two Equal-Sized Groups: Examining the Case Where Permission Makes No Practical Difference",
@@ -45,7 +47,9 @@
           "display_title": "Worst-Case Analysis",
           "timestamp": "03:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Unequal-Sized Groups: Where Not Asking Permission Makes a Dramatic Difference",
@@ -77,7 +81,9 @@
           "display_title": "General Rule",
           "timestamp": "13:22"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Differentiated Chatat and Olah: The Case Where Everything Dies if Permission Is Asked",
@@ -99,7 +105,9 @@
           "display_title": "Half and Half Result",
           "timestamp": "19:42"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Mixed Designated and Undifferentiated Groups: Chatat, Olah, and Stuma",
@@ -121,7 +129,9 @@
           "display_title": "Raavad's View",
           "timestamp": "27:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Designated Chatat Mixed into an Undifferentiated Group (Chovah)",
@@ -143,7 +153,9 @@
           "display_title": "Chatat 2x Chovah",
           "timestamp": "34:06"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Designated Olah Mixed into an Undifferentiated Group (Chovah)",
@@ -155,7 +167,9 @@
           "display_title": "Olah Symmetry",
           "timestamp": "37:08"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Woman's Vow and the Priest's Error: When a Woman Vows to Bring a Nest with a Male Child",
@@ -177,7 +191,9 @@
           "display_title": "Woman's Makeup",
           "timestamp": "42:46"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "When the Woman Brought Mixed Types (Torim and Benei Yonah): The Complication of Unknown Types",
@@ -194,7 +210,9 @@
           "display_title": "Two Types Solution",
           "timestamp": "57:26"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "The Woman Specifies Her Vow: When the Woman Makes Her Vow Explicit and Brings a Single Type",
@@ -216,7 +234,9 @@
           "display_title": "Four Bird Solution",
           "timestamp": "59:00"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "When the Vow Is Made Together with the Korban: The Case of Kava Nidrah",
@@ -238,7 +258,9 @@
           "display_title": "Six Birds Two Types",
           "timestamp": "63:50"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -650,5 +672,6 @@
         "62:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 3
 }

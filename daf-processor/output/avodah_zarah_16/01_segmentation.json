@@ -33,7 +33,9 @@
           "display_title": "Davar Ha'avad",
           "timestamp": "07:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Principle of Lifnei Iver and Differential Responsibility to Jews vs. Non-Jews",
@@ -65,7 +67,9 @@
           "display_title": "Responsibility Scope",
           "timestamp": "13:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Opening of Daf 16: Selling Iron Ingots and Weapons—The Persian Exception",
@@ -87,7 +91,9 @@
           "display_title": "Persian Exception",
           "timestamp": "19:15"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Young Animals, Broken Limbs, and the Extension of Prohibition: Rabbi Yehuda's Exception",
@@ -114,7 +120,9 @@
           "display_title": "Marit Ayin",
           "timestamp": "21:15"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Ben Beteira's Allowance of Horses and the Debate Over Melacha vs. Klei Zayin",
@@ -151,7 +159,9 @@
           "display_title": "Ruling",
           "timestamp": "27:37"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Question of Fattened Oxen (Shor Shel Patam) and Rabbi's Tribute to the Romans",
@@ -193,7 +203,9 @@
           "display_title": "Elimination Goal",
           "timestamp": "31:33"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Dangerous Animals and Structures: Bears, Lions, and Stadiums—Nezek Larabbim",
@@ -235,7 +247,9 @@
           "display_title": "Tashmish",
           "timestamp": "42:38"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Large Wild Animals (Chaya Gassa) and the Question of Whether They Do Work",
@@ -277,7 +291,9 @@
           "display_title": "What Work",
           "timestamp": "47:35"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Arode (Wild Donkey) and Proof That Large Wild Animals Can Be Yoked to Labor",
@@ -314,7 +330,9 @@
           "display_title": "Conclusion",
           "timestamp": "50:01"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -647,5 +665,11 @@
         "49:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 7,
+  "amud_b_timestamp": "46:07",
+  "amud_b_micro_title": "Rav Ashi",
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "b"
 }

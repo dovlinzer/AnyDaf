@@ -28,7 +28,9 @@
           "display_title": "Chachamim View",
           "timestamp": "01:24"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Gemara's Opening Question: What is Shimeon's Claim in the Mishnah?",
@@ -50,7 +52,9 @@
           "display_title": "Predated Liens Problem",
           "timestamp": "03:06"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "The Document's Suspicious Status: Why a Found Shtar is No Longer Valid Testimony",
@@ -72,7 +76,9 @@
           "display_title": "Lamudic Approach",
           "timestamp": "06:44"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Writing Debt Documents Before Borrowing Money Occurs: The Kinyan Debate",
@@ -94,7 +100,9 @@
           "display_title": "Shtar Hakna'ah",
           "timestamp": "11:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Applying the Kinyan Rule Back to the Mishnah: Why We Still Cannot Return the Document",
@@ -116,7 +124,9 @@
           "display_title": "Protocol Violation",
           "timestamp": "17:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Abaye's Alternative: Every Signature Creates Liens Retroactively (Edim Bechasimtan)",
@@ -138,7 +148,9 @@
           "display_title": "Gemara Challenge",
           "timestamp": "23:19"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Abaye and Conditional Effectiveness: Liens Take Effect Only When Document is Delivered",
@@ -160,7 +172,9 @@
           "display_title": "Retroactive Liens",
           "timestamp": "28:37"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Can We Return Documents Without Liens When Both Parties Agree? (Abaye's Problem)",
@@ -182,7 +196,9 @@
           "display_title": "Scheme Details",
           "timestamp": "32:35"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Shmuel's Rejection of Fraud Concerns and the Shift to Debtor Protection",
@@ -204,7 +220,9 @@
           "display_title": "Debtor Denies",
           "timestamp": "38:57"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Mishnah's Debate: With Liens vs. Without Liens When Debtor Denies",
@@ -221,7 +239,9 @@
           "display_title": "Bottle Stopper",
           "timestamp": "42:18"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rabbi Elazar and Rabbi Yochanan: Two Readings of the Mishnah's Scenario",
@@ -233,7 +253,9 @@
           "display_title": "Elazar Reading",
           "timestamp": "44:42"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Mishnah's Debate: With Liens vs. Without Liens When Debtor Denies (continued)",
@@ -245,7 +267,9 @@
           "display_title": "Chachamim View",
           "timestamp": "44:57"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Rabbi Elazar and Rabbi Yochanan: Two Readings of the Mishnah's Scenario (continued)",
@@ -262,7 +286,9 @@
           "display_title": "Protection Target",
           "timestamp": "48:06"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Baraisa Evidence: Explicit Proof that the Mishnah Assumes Debtor Admission",
@@ -284,7 +310,9 @@
           "display_title": "Implicit Liens",
           "timestamp": "51:50"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "How the Baraisa Contradicts Rabbi Elazar: The Document is Not Worthless",
@@ -306,7 +334,9 @@
           "display_title": "Schemes Confirmed",
           "timestamp": "54:31"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Synthesis: The Unified Explanation of the Mishnah According to Rabbi Yochanan",
@@ -333,7 +363,9 @@
           "display_title": "Never Return",
           "timestamp": "56:55"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -613,5 +645,6 @@
         "05:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

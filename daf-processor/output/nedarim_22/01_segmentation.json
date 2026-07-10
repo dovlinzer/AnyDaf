@@ -18,7 +18,9 @@
           "display_title": "Opening with Charata",
           "timestamp": "01:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case of Rabbi Yannai: Using the heavenly ledger inspection as a pesach",
@@ -40,7 +42,9 @@
           "display_title": "Too Generic",
           "timestamp": "03:09"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rejection of scare-tactic pesakim: The heavenly ledger and the altar/sacrifice metaphors",
@@ -72,7 +76,9 @@
           "display_title": "Abaye-Rava Debate",
           "timestamp": "15:06"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Prohibition against using scare-tactic pesakim; additional rejected statements about vow-takers as wicked",
@@ -94,7 +100,9 @@
           "display_title": "Sages' Teaching",
           "timestamp": "18:10"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Digression on anger and its consequences in Talmudic thought",
@@ -141,7 +149,9 @@
           "display_title": "Sin and Scripture",
           "timestamp": "29:32"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Vows made in the name of the God of Israel: Distinction between neder and shvua; exception for shalom bayis",
@@ -173,7 +183,9 @@
           "display_title": "Kahana-Yosef Story",
           "timestamp": "39:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Bottom-line halakha and Geonic dispute: Can we open with charata? Can we release shvuot?",
@@ -210,7 +222,9 @@
           "display_title": "Final Ruling",
           "timestamp": "45:41"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -535,5 +549,6 @@
         "25:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

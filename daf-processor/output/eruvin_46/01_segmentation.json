@@ -23,7 +23,9 @@
           "display_title": "Hefker Objects",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rain, Ocean Water, and the Determination of Shabbat Boundaries (Techumin)",
@@ -50,7 +52,9 @@
           "display_title": "Rivers & Flowing Water",
           "timestamp": "08:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Halachic Ruling: Always Lenient in Eruvin (Halacha K'Divrei HaMeikel B'Eruv)",
@@ -82,7 +86,9 @@
           "display_title": "Minority Opinion",
           "timestamp": "12:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "General Principles of Halacha: Lenient Positions and One-Against-Many",
@@ -109,7 +115,9 @@
           "display_title": "Aveilus Leniency",
           "timestamp": "27:40"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Eruvin vs. Techumin Distinction and Why Leniency Applies to Both",
@@ -126,7 +134,9 @@
           "display_title": "Alleyway Courtyards",
           "timestamp": "31:35"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Rav Ashi's Distinction: Beginning vs. Remnant of Eruv",
@@ -143,7 +153,9 @@
           "display_title": "Food Minimum",
           "timestamp": "34:31"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "General Principles of Psak: Hierarchy of Tannaitic Authorities",
@@ -170,7 +182,9 @@
           "display_title": "Transitive Logic",
           "timestamp": "40:19"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Challenging the Klalei Psak: When Rules Don't Apply",
@@ -192,7 +206,9 @@
           "display_title": "Conditional Rules",
           "timestamp": "43:45"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -395,5 +411,6 @@
         "35:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

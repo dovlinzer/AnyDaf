@@ -1,4 +1,37 @@
 import SwiftUI
+import AVFoundation
+
+private class _PlayerContainer: UIView {
+    let player = AVPlayer()
+    private var playerLayer: AVPlayerLayer?
+
+    override func layoutSubviews() {
+        super.layoutSubviews()
+        playerLayer?.frame = bounds
+    }
+
+    func configure(url: URL) {
+        player.replaceCurrentItem(with: AVPlayerItem(url: url))
+        player.isMuted = true
+        let layer = AVPlayerLayer(player: player)
+        layer.videoGravity = .resizeAspect
+        self.layer.addSublayer(layer)
+        playerLayer = layer
+        player.play()
+    }
+}
+
+private struct YCTLogoAnimated: UIViewRepresentable {
+    func makeUIView(context: Context) -> _PlayerContainer {
+        let view = _PlayerContainer()
+        view.backgroundColor = .clear
+        if let url = Bundle.main.url(forResource: "yct_splash", withExtension: "mp4") {
+            view.configure(url: url)
+        }
+        return view
+    }
+    func updateUIView(_ uiView: _PlayerContainer, context: Context) {}
+}
 
 /// Splash screen shown immediately after the system launch screen.
 /// Background and text colors match Launch Screen.storyboard exactly.
@@ -37,10 +70,9 @@ struct SplashView: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
 
                 // Logo pinned near the bottom
-                Image("Image")
-                    .resizable()
-                    .scaledToFit()
-                    .frame(width: short * (isPad ? 0.325 : 0.50))
+                YCTLogoAnimated()
+                    .frame(width: short * (isPad ? 0.325 : 0.50),
+                           height: short * (isPad ? 0.325 : 0.50))
                     .clipShape(RoundedRectangle(cornerRadius: 16))
                     .padding(.bottom, geo.size.height * 0.075)
             }

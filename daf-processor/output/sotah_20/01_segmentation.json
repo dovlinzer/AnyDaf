@@ -18,7 +18,9 @@
           "display_title": "Drinking Order",
           "timestamp": "00:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Refusal to Drink and Consequences for the Megilla",
@@ -40,7 +42,9 @@
           "display_title": "Mincha & Single Use",
           "timestamp": "03:10"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Forced Drinking After Erasure and the Threshold of Erasure",
@@ -57,7 +61,9 @@
           "display_title": "How Much Erased?",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Physical Effects of Drinking and Divine Punishment Signs",
@@ -79,7 +85,9 @@
           "display_title": "Presumption Guilt",
           "timestamp": "08:17"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Zechus Toleh: Merit Suspending Punishment and its Timeframes",
@@ -106,7 +114,9 @@
           "display_title": "R. Yehoshua View",
           "timestamp": "18:14"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Meir and the Ink Debate: Kankantom and Erasability",
@@ -128,7 +138,9 @@
           "display_title": "Kankantom Purpose",
           "timestamp": "29:27"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Gemara Analysis of Contradictory Sources and Rabbi Meir's Stages of Learning",
@@ -150,7 +162,9 @@
           "display_title": "Who Forbade?",
           "timestamp": "33:42"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Ink Requirements and Debated Applications to Sefer Torah",
@@ -172,7 +186,9 @@
           "display_title": "Megilla Reuse",
           "timestamp": "37:45"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Fear and Bodily Flux: Fear as Cause of Niddah Status",
@@ -189,7 +205,9 @@
           "display_title": "Fear Types",
           "timestamp": "49:17"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Varying Durations of Zechus Toleh Suspension Across Tannaim",
@@ -216,7 +234,9 @@
           "display_title": "Three Years",
           "timestamp": "54:33"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Zechus Toleh as Divine Punishment Rather Than Court Procedure",
@@ -233,7 +253,9 @@
           "display_title": "God vs. Court",
           "timestamp": "56:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -415,5 +437,6 @@
         "44:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

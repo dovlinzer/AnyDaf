@@ -18,7 +18,9 @@
           "display_title": "Antoninus & Rabbi",
           "timestamp": "00:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Roman History and Origins of Caesar: The Sefer Josippon Account",
@@ -40,7 +42,9 @@
           "display_title": "Caesar Etymology",
           "timestamp": "06:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Onkelos the Proselyte Story: Converting Romans and Jewish Faith",
@@ -52,7 +56,9 @@
           "display_title": "Onkelos Recognition",
           "timestamp": "07:48"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Midrashic Reading of Rivka's Womb: Antoninus and Rabbi as Goyim (Nations)",
@@ -64,7 +70,9 @@
           "display_title": "Goyim as Ge'im",
           "timestamp": "09:36"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Contextual Framework: Jewish Minority Status and the Broader World (continued)",
@@ -76,7 +84,9 @@
           "display_title": "Yaakov-Eisav Paradigm",
           "timestamp": "10:01"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Wealth and Seasonal Produce: The Luxury of Antoninus and Rabbi",
@@ -93,7 +103,9 @@
           "display_title": "Cucumber Debate",
           "timestamp": "13:34"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Pagan Holidays: Birth Days, Death Days, and the Distinction of Funeral Pyres",
@@ -115,7 +127,9 @@
           "display_title": "Chashivuta Framework",
           "timestamp": "17:25"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Burning for Jewish Kings: Torah Precedent and Personal Effects",
@@ -142,7 +156,9 @@
           "display_title": "Hobbling Animals",
           "timestamp": "27:40"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Ethical Limits and Halachic Values: Bal Tashchit, Tza'ar Ba'alei Chayim, and Kavod HaRabim",
@@ -164,7 +180,9 @@
           "display_title": "Benefit Permissible",
           "timestamp": "34:36"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Beard Shaving and Hair Lock: Another Roman Pagan Holiday",
@@ -176,7 +194,9 @@
           "display_title": "Lock Interpretations",
           "timestamp": "36:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Seventy-Year Spectacle: Eisav Triumphant Over Yaakov",
@@ -208,7 +228,9 @@
           "display_title": "Final Woe Line",
           "timestamp": "42:10"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Why Annual Holidays Only: Pagan Temples and Fixed Worship Sites",
@@ -230,7 +252,9 @@
           "display_title": "Daily Worship Sites",
           "timestamp": "45:19"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Business Permissions in Exile: Shmuel's Leniency Outside Israel",
@@ -242,7 +266,9 @@
           "display_title": "Holiday Day Only",
           "timestamp": "46:24"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Merchants' Holiday Exception: Non-Fixed Annual Celebration",
@@ -259,7 +285,9 @@
           "display_title": "Market Days Activity",
           "timestamp": "47:20"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Business Permissions in Exile: Shmuel's Leniency Outside Israel (continued)",
@@ -276,7 +304,9 @@
           "display_title": "Fear of Anger",
           "timestamp": "49:46"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Geographic Restrictions: City vs. Suburb in Holiday Context",
@@ -298,7 +328,9 @@
           "display_title": "Rambam Exile",
           "timestamp": "53:00"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Entry into Town During Holiday: Path Analysis and Maris Ayin",
@@ -325,7 +357,9 @@
           "display_title": "Pilgrimage Practice",
           "timestamp": "58:22"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -547,5 +581,11 @@
         "58:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14,
+  "amud_b_segment_index": 10,
+  "amud_b_timestamp": "38:02",
+  "amud_b_micro_title": "Adam HaRishon Clothes",
+  "shiur_start_daf": 11,
+  "shiur_start_amud": "a"
 }

@@ -33,7 +33,9 @@
           "display_title": "Blech Practice",
           "timestamp": "07:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Cooking Eggs and Fish by Indirect Heat: Non-Flame Methods and Biblical Transgression",
@@ -65,7 +67,9 @@
           "display_title": "Gmar Melacha",
           "timestamp": "32:25"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Heating by Sun versus Fire: Toldot Chama versus Toldot Ha-Or",
@@ -92,7 +96,9 @@
           "display_title": "Rabbi Yose",
           "timestamp": "40:15"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Tiberias Case: Heating Water Through Hot Springs as Hatmanah and Benefit Prohibition",
@@ -119,7 +125,9 @@
           "display_title": "Ulla & Nachman",
           "timestamp": "54:29"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Bathing with Preheated Water: Distinction Between Erev Shabbat and Shabbat Heating",
@@ -151,7 +159,9 @@
           "display_title": "Unresolved",
           "timestamp": "60:41"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -523,5 +533,6 @@
         "49:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

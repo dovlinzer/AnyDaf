@@ -18,7 +18,9 @@
           "display_title": "Har HaBayis Structure",
           "timestamp": "01:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Ritual of the Aravah on Sukkos: Gathering, Placement, and Recitations",
@@ -65,7 +67,9 @@
           "display_title": "Post-Hoshana Rabbah",
           "timestamp": "10:59"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Meaning and Mystical Significance of Ani Vahu Hoshia Na",
@@ -87,7 +91,9 @@
           "display_title": "Pronunciation Debate",
           "timestamp": "20:00"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Etymology and History of Motza: Free from Royal Tax",
@@ -99,7 +105,9 @@
           "display_title": "Motza Tax Exemption",
           "timestamp": "22:00"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Dimensions and Mechanics of the Aravah Branches Arching Over the Altar",
@@ -126,7 +134,9 @@
           "display_title": "Height Calculations",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Biblical Source for the Aravah Ritual: Isru Chag Ba'avotim ad Karnot Hamizbe'ach",
@@ -148,7 +158,9 @@
           "display_title": "Eating Restraint",
           "timestamp": "31:36"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Connection to the Mishkan: Using Things as They Grow",
@@ -165,7 +177,9 @@
           "display_title": "Eternal Standing",
           "timestamp": "35:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Statements of Rabbi Shimon bar Yochai on Righteous Individuals and Divine Judgment",
@@ -192,7 +206,9 @@
           "display_title": "Lamed-Vavniks",
           "timestamp": "41:57"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Taking Leave of the Altar: Avoidance of Combining God's Name with Earthly Objects",
@@ -204,7 +220,9 @@
           "display_title": "Praising Altar",
           "timestamp": "43:25"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Symbolism of the Palm Tree: Single Heart Devoted to God",
@@ -221,7 +239,9 @@
           "display_title": "One Heart Teaching",
           "timestamp": "46:51"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -526,5 +546,6 @@
         "13:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

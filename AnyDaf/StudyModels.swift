@@ -131,25 +131,12 @@ enum QuizMode: String, CaseIterable {
     }
 }
 
-/// How the original Hebrew/Aramaic source text is displayed alongside the English translation.
+/// How the source and translation text are displayed in the Text view.
 /// Stored in AppStorage as a raw String.
-enum SourceDisplayMode: String, CaseIterable {
-    case toggle  = "toggle"
-    case stacked = "stacked"
-
-    var displayName: String {
-        switch self {
-        case .toggle:  return "Toggle"
-        case .stacked: return "Top & Bottom"
-        }
-    }
-
-    var modeDescription: String {
-        switch self {
-        case .toggle:  return "Tap a button to switch between source text and translation."
-        case .stacked: return "Each paragraph shown as source above translation, scroll through paired paragraphs."
-        }
-    }
+enum TextDisplayMode: String, CaseIterable {
+    case source      = "source"
+    case translation = "translation"
+    case both        = "both"
 }
 
 /// Text size preference for study mode content — stored in AppStorage as a raw String.

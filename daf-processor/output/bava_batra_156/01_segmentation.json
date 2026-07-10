@@ -38,7 +38,9 @@
           "display_title": "Tosafot Value",
           "timestamp": "07:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Paradox of Gifts Versus Sales by Minors: Why Gifts Are Permitted Despite Greater Risk",
@@ -70,7 +72,9 @@
           "display_title": "Chachamim Rationale",
           "timestamp": "17:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "When Direct Checking for Adulthood Is Required: Marriage, Divorce, Chalitzah, and Meiun",
@@ -107,7 +111,9 @@
           "display_title": "Age Twenty",
           "timestamp": "27:47"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Halachic Rulings on Maturity, Testimony, Gifts, and Age Verification Across Different Contexts",
@@ -139,7 +145,9 @@
           "display_title": "Verification All",
           "timestamp": "29:07"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Deathbed Gift and the Question of Whether Verbal Transfer Suffices: Mishnah on Mechalek Nechasav",
@@ -166,7 +174,9 @@
           "display_title": "Bnei Rochel Case",
           "timestamp": "35:54"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Debating the Meroni Case: Was He a Shichiv Meyra and Did He Need a Kinyan?",
@@ -188,7 +198,9 @@
           "display_title": "Chachamim Response",
           "timestamp": "38:19"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Thorn Bushes in the Vineyard: Rabbi Eliezer's Interpretation of Bnei Rochel's Unworthiness",
@@ -210,7 +222,9 @@
           "display_title": "Sons Unworthy",
           "timestamp": "42:47"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Gemara's Conclusion: Verbal Kinyan for Shichiv Meyra and the Application of Tiruf Daas",
@@ -237,7 +251,9 @@
           "display_title": "Medical Ethics",
           "timestamp": "46:36"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer vs. Rabbi Yehoshua: The Scope of Verbal Matnat Shechiv Meyra on Shabbat vs. Weekdays",
@@ -269,7 +285,9 @@
           "display_title": "Yerushalmi Version",
           "timestamp": "53:25"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -650,5 +668,6 @@
         "48:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

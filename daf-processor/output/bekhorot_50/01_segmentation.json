@@ -33,7 +33,9 @@
           "display_title": "Payment in Equivalent Va…",
           "timestamp": "03:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Monetary Equivalencies: From Sela to Contemporary Coinage",
@@ -65,7 +67,9 @@
           "display_title": "Silver Price Fluctuation",
           "timestamp": "10:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara's Explanation of Coinage Systems and the Arabian Dinar Dispute",
@@ -97,7 +101,9 @@
           "display_title": "Reconciliation of Opinio…",
           "timestamp": "20:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Yochanan's Standard and Mathematical Derivation of Twenty Zuz",
@@ -124,7 +130,9 @@
           "display_title": "Zuz Weight Expression",
           "timestamp": "23:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Biblical Sela Versus Rabbinic Sela and the Coinage Change",
@@ -151,7 +159,9 @@
           "display_title": "Coinage Enlargement",
           "timestamp": "30:46"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Chazal's Flexibility on Coinage Standards and the Originalist Rav Ashi",
@@ -183,7 +193,9 @@
           "display_title": "Rav Ashi's Justification",
           "timestamp": "34:00"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Chanina's Distinction Between Biblical and Rabbinic Usage of Kesef",
@@ -215,7 +227,9 @@
           "display_title": "Qintrin/Shekel Terminolo…",
           "timestamp": "36:39"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Question of Fixed Kesef Amounts and Their Limitations",
@@ -242,7 +256,9 @@
           "display_title": "Fixed Price = Sela",
           "timestamp": "49:52"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rabbinic Amounts Use Local Sela Worth One-Eighth of Standard",
@@ -269,7 +285,9 @@
           "display_title": "Chanan Bisha Story",
           "timestamp": "52:55"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Ketubah: Biblical Basis and Medieval Enhancement",
@@ -306,7 +324,9 @@
           "display_title": "Zekok Value",
           "timestamp": "57:51"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -583,5 +603,6 @@
         "43:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

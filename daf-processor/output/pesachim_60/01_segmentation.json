@@ -58,7 +58,9 @@
           "display_title": "Mixed Intentions",
           "timestamp": "05:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Pappa's Question: One Avodah versus Two Avodot in Hybrid Intention",
@@ -95,7 +97,9 @@
           "display_title": "Shelo Lishmo First",
           "timestamp": "13:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Reading the Mishnah: Distinguishing First Case from Hybrid Case",
@@ -147,7 +151,9 @@
           "display_title": "Unresolved Question",
           "timestamp": "24:47"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Owners (Le'ochlav) Case: Mixed Intention Regarding Eaters",
@@ -189,7 +195,9 @@
           "display_title": "Separate Mishnas",
           "timestamp": "32:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Principle of Machshevet Ochlim: Thought About Eaters Only Relevant During Shechita",
@@ -246,7 +254,9 @@
           "display_title": "No Final Answer",
           "timestamp": "37:35"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Puzzle of Pesach on Other Days: Can Shelo Lishmo Validate Mixed Intention?",
@@ -283,7 +293,9 @@
           "display_title": "Rava's Turn",
           "timestamp": "44:51"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Rava's Position: Shelo Lishmo Wins Out Even in Mixed Intention on Purim",
@@ -320,7 +332,9 @@
           "display_title": "Mixed Irrelevant",
           "timestamp": "47:21"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rav Adda's Objection: Speaking Differently from Remaining Silent",
@@ -357,7 +371,9 @@
           "display_title": "Can't Supplement",
           "timestamp": "49:47"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Rava's Response: The Eaters Case Is Different Because Status Is Mutable",
@@ -399,7 +415,9 @@
           "display_title": "Debate Ends",
           "timestamp": "53:07"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -634,5 +652,6 @@
         "00:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

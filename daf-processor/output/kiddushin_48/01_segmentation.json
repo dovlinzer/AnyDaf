@@ -28,7 +28,9 @@
           "display_title": "Liability vs. Ownership",
           "timestamp": "02:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Comparison with Borrowed Objects: The Case of the Hatchet (She'elah)",
@@ -50,7 +52,9 @@
           "display_title": "Immediate Liability",
           "timestamp": "07:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Attempting to Frame Mekadesh Bimilveh as a Tannaitic Debate",
@@ -87,7 +91,9 @@
           "display_title": "Samchat Da'ata",
           "timestamp": "23:28"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Oral Loans and the Requirement of Ma'amad Shloshtan",
@@ -104,7 +110,9 @@
           "display_title": "Oral vs. Physical",
           "timestamp": "29:34"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Document of Kiddushin (Shtar Kiddushin) Case",
@@ -146,7 +154,9 @@
           "display_title": "Amoraim Dispute",
           "timestamp": "41:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Service Case: Marrying With Labor (Shchirus)",
@@ -188,7 +198,9 @@
           "display_title": "Final Ruling",
           "timestamp": "57:01"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -394,5 +406,6 @@
         "39:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

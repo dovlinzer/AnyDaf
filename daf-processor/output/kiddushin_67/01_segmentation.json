@@ -38,7 +38,9 @@
           "display_title": "Personal Status Rule",
           "timestamp": "18:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Matrilineal and Patrilineal Descent in Genealogical Status (Yichus)",
@@ -65,7 +67,9 @@
           "display_title": "Matrilineal Descent",
           "timestamp": "27:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis of the Mishna's General Rule and Exceptions",
@@ -127,7 +131,9 @@
           "display_title": "Non-Jewish Tribal Status",
           "timestamp": "50:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -358,5 +364,6 @@
         "36:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

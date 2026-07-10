@@ -23,7 +23,9 @@
           "display_title": "Benjamin's Ten Sons",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Joseph's Elevation in Egypt: The Divine Letter and Seventy Languages",
@@ -50,7 +52,9 @@
           "display_title": "Oath Annulment",
           "timestamp": "09:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Judah's Leadership: First into the Sea and Kiddush Hashem in Public",
@@ -77,7 +81,9 @@
           "display_title": "Judah's Kingdom",
           "timestamp": "23:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tribe Division at Mount Gerizim and Mount Eival: Blessing and Curse",
@@ -99,7 +105,9 @@
           "display_title": "Facing Mountains",
           "timestamp": "30:36"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Covenant Framework: Three Berit Moments and Forty-Eight Covenants Per Mitzvah",
@@ -126,7 +134,9 @@
           "display_title": "Mutual Guarantee",
           "timestamp": "44:55"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Reinterpreting Curses: All Klalot Rooted in Adultery and Sexual Sin",
@@ -143,7 +153,9 @@
           "display_title": "Curses Explained",
           "timestamp": "48:16"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Mishna: Structural Parallelism Between Blessings and Curses",
@@ -160,7 +172,9 @@
           "display_title": "Seven Parallels",
           "timestamp": "51:40"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -339,5 +353,6 @@
         "35:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

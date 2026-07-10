@@ -23,7 +23,9 @@
           "display_title": "Literary Transmission",
           "timestamp": "05:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Crop Failure and Lease Obligations: Makat Medina Rule",
@@ -50,7 +52,9 @@
           "display_title": "Ulla's Questions",
           "timestamp": "11:17"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Bad Luck (Mazal) and Divine Providence in Crop Failure Cases",
@@ -72,7 +76,9 @@
           "display_title": "All Fields Blighted",
           "timestamp": "21:52"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Excursus on Arachin: Years of Produce and Blight Exclusions in Land Redemption",
@@ -109,7 +115,9 @@
           "display_title": "Agricultural Work",
           "timestamp": "34:45"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Misplanting, Failure to Plant, and the Rule of Chazakah",
@@ -141,7 +149,9 @@
           "display_title": "Rabbi vs. R.S.b.G.",
           "timestamp": "41:04"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Calendars of Planting Seasons and Continued Planting Obligation",
@@ -163,7 +173,9 @@
           "display_title": "Seasonal Divisions",
           "timestamp": "46:14"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Quality of Produce Payment and Breach of Planting Contract",
@@ -185,7 +197,9 @@
           "display_title": "Spoiled Wine",
           "timestamp": "53:15"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Next Mishnah: Constraints on Crop Change—Barley to Wheat vs. Wheat to Barley",
@@ -202,7 +216,9 @@
           "display_title": "R.S.b.G. Disagrees",
           "timestamp": "56:03"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -525,5 +541,6 @@
         "56:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

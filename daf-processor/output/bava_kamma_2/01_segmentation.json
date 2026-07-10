@@ -23,7 +23,9 @@
           "display_title": "Nizkei Mammon Content",
           "timestamp": "04:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Four Categories of Damage (Arba'ah Avot Nezikin): Classification and Conceptual Framework",
@@ -45,7 +47,9 @@
           "display_title": "Categorical Distinctions",
           "timestamp": "12:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Common Denominator: Unifying Principle of Liability for Property Damage",
@@ -67,7 +71,9 @@
           "display_title": "Liability Frameworks",
           "timestamp": "19:04"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Avot and Toldot: Category Classification and Halakhic Relationships",
@@ -89,7 +95,9 @@
           "display_title": "Rabbi Eliezer Dispute",
           "timestamp": "27:51"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Three Types of Ox Damage: Keren, Shen, and Regel as Conceptual Categories",
@@ -131,7 +139,9 @@
           "display_title": "Rav Pappa Query",
           "timestamp": "55:57"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -405,5 +415,6 @@
         "30:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

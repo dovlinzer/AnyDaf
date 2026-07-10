@@ -23,7 +23,9 @@
           "display_title": "Tosafot Explanations",
           "timestamp": "02:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Placement of Signatures on a Mekushar Document",
@@ -45,7 +47,9 @@
           "display_title": "Hakol Sharir V'Kayam",
           "timestamp": "07:12"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Alternative Placement: Signatures Running Parallel to the Text",
@@ -67,7 +71,9 @@
           "display_title": "Tosafot: Three Witnesses",
           "timestamp": "10:48"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Direction of Witness Signatures to Prevent Tampering",
@@ -89,7 +95,9 @@
           "display_title": "Mar Zutra: Justification",
           "timestamp": "20:20"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Corrections and Erasures in Documents",
@@ -106,7 +114,9 @@
           "display_title": "Last Line Summary",
           "timestamp": "31:04"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Principle of Ein Lamedim Mishniyah Acharonah",
@@ -123,7 +133,9 @@
           "display_title": "White Space Rule",
           "timestamp": "38:47"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Modern Practice Using Hakol Sharir V'Kayam and Reconciliation with Gemara",
@@ -145,7 +157,9 @@
           "display_title": "Corrections Before Final",
           "timestamp": "41:49"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -336,5 +350,6 @@
         "39:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

@@ -28,7 +28,9 @@
           "display_title": "Rabbi Shimon Position",
           "timestamp": "01:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Inauguration of the Altars and the Priority of the Tamid shel Shachar",
@@ -45,7 +47,9 @@
           "display_title": "Outer Altar & Tamid",
           "timestamp": "05:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Choosing Between Today's Musafim and Tomorrow's Tamidim: Which Takes Priority?",
@@ -67,7 +71,9 @@
           "display_title": "Abaye's Objection",
           "timestamp": "15:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Reserve Supply of Sheep: Why Six Lambs Are Kept in the Lishka",
@@ -104,7 +110,9 @@
           "display_title": "Rotation System",
           "timestamp": "30:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Afternoon Tamid and Ketores: When Can They Be Brought Alone?",
@@ -131,7 +139,9 @@
           "display_title": "Ketores Different",
           "timestamp": "43:55"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position as Rabbinic Protection Against Negligence, Not Principled Pairing",
@@ -153,7 +163,9 @@
           "display_title": "Tamid Needs Protection",
           "timestamp": "53:29"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Afternoon Ketores as the Fundamental Form: Bringing the Full Measure if Done Alone",
@@ -180,7 +192,9 @@
           "display_title": "Mizbeach Identity",
           "timestamp": "58:21"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -428,5 +442,6 @@
         "53:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

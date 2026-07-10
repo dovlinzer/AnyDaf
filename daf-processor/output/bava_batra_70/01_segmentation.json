@@ -23,7 +23,9 @@
           "display_title": "No Dispute",
           "timestamp": "02:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Exclusion of Specific Carob and Sycamore Trees and the Buyer's Acquisition Rights",
@@ -60,7 +62,9 @@
           "display_title": "Half-Tree Answer",
           "timestamp": "11:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Deposit Returned Against a Document: Credibility and Conditional Oaths",
@@ -82,7 +86,9 @@
           "display_title": "Oath Requirement",
           "timestamp": "20:51"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Iska Document Against Orphans: Half-Loan, Half-Deposit",
@@ -114,7 +120,9 @@
           "display_title": "Halakha: Half Collection",
           "timestamp": "34:33"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -282,5 +290,6 @@
         "35:41"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

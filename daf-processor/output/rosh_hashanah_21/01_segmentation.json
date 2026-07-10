@@ -48,7 +48,9 @@
           "display_title": "Fixed Calendar Practice",
           "timestamp": "13:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Uncertainty About Rosh Chodesh in Distant Lands (Bavel) and the Principle of Sefeika DeYoma",
@@ -80,7 +82,9 @@
           "display_title": "Tosafot's Decentralizati…",
           "timestamp": "24:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Geographic Reach of Messengers and Two-Day Observance in Different Locations",
@@ -107,7 +111,9 @@
           "display_title": "Aibo & Chiyya Story",
           "timestamp": "33:25"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Two-Day Observance of Yom Kippur and the Uncertainty of Month-Length",
@@ -139,7 +145,9 @@
           "display_title": "Nachman's Curse",
           "timestamp": "39:42"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Solar Season and the Requirement to Add a Leap Month",
@@ -166,7 +174,9 @@
           "display_title": "Adjustment Limits",
           "timestamp": "45:02"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Lunar Phase Markers for Calculating the Middle of the Month at Sea",
@@ -188,7 +198,9 @@
           "display_title": "Land vs. Sea",
           "timestamp": "48:32"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Violation of Shabbat for Testimony about Rosh Chodesh: Nissan and Tishrei",
@@ -225,7 +237,9 @@
           "display_title": "Post-Mikdash Reality",
           "timestamp": "55:58"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -441,5 +455,6 @@
         "55:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

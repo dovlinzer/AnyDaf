@@ -18,7 +18,9 @@
           "display_title": "Mishnah vs. Gemara Order",
           "timestamp": "00:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kiddushei Biah: Derivation from the word Uv'alah",
@@ -60,7 +62,9 @@
           "display_title": "Tosafot Ye'ud",
           "timestamp": "07:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Kiddushei Shtar: Derivation through Comparison to Divorce",
@@ -107,7 +111,9 @@
           "display_title": "Rabbi Yose HaGalili",
           "timestamp": "21:22"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Learned One from Two: Attempting to Derive Methods from Combined Sources",
@@ -149,7 +155,9 @@
           "display_title": "Be'al Korchah",
           "timestamp": "24:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Rav Huna's Kal Vachomer for Chuppah",
@@ -226,7 +234,9 @@
           "display_title": "Tosafot HaRosh",
           "timestamp": "29:16"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Practical Mechanics of Kiddushei Kesef: The Role of Amira",
@@ -263,7 +273,9 @@
           "display_title": "Safek Kiddushin",
           "timestamp": "31:08"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Shmuel's Rule on Amira Requirements and Yadayim",
@@ -300,7 +312,9 @@
           "display_title": "Status Change Resolution",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -540,5 +554,6 @@
         "32:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

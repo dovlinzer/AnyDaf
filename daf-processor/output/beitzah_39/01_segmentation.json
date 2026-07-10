@@ -18,7 +18,9 @@
           "display_title": "Tchumim on Yom Tov",
           "timestamp": "00:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Coal and Flame: Halachic Status and Ownership",
@@ -60,7 +62,9 @@
           "display_title": "Hekdesh vs. AZ",
           "timestamp": "08:00"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Flame, Physical Objects, and Shabbat Liability",
@@ -87,7 +91,9 @@
           "display_title": "Blown Flame",
           "timestamp": "14:28"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Private Wells, City Wells, and Travelers' Wells: Ownership and Tchum",
@@ -114,7 +120,9 @@
           "display_title": "Breira & Filling",
           "timestamp": "17:51"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Flowing vs. Collected Water and the Contradiction",
@@ -136,7 +144,9 @@
           "display_title": "Collected Water",
           "timestamp": "20:02"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Hefker vs. Shutafut: Dispute Between Rav Nachman and Rav Sheshet",
@@ -168,7 +178,9 @@
           "display_title": "Hefker vs. Shutafut",
           "timestamp": "23:27"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Noder Hana'ah Scenario: Vows and Benefits from Communal Property",
@@ -200,7 +212,9 @@
           "display_title": "City Examples",
           "timestamp": "30:42"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Partnership vs. Hefker: Using Shared Well During Issur Hana'ah",
@@ -227,7 +241,9 @@
           "display_title": "Rav Nachman Position",
           "timestamp": "36:30"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Estate Division and Reconstitution: Single Entity vs. Partnership",
@@ -264,7 +280,9 @@
           "display_title": "No Reconstitution",
           "timestamp": "45:10"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Resolving Rav Nachman's Position: Hefker Well and Magbia Metzia",
@@ -291,7 +309,9 @@
           "display_title": "Tosafot Resolution",
           "timestamp": "46:34"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Fruit in Another City and the Eruv Requirement",
@@ -318,7 +338,9 @@
           "display_title": "Guest Gift Rules",
           "timestamp": "49:45"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -624,5 +646,6 @@
         "49:33"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

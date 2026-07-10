@@ -28,7 +28,9 @@
           "display_title": "Seder Nashim Context",
           "timestamp": "02:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The First Mishnah: Kinuyim and Yadot as Valid Speech Acts for Becoming a Nazir",
@@ -50,7 +52,9 @@
           "display_title": "Substitute Words",
           "timestamp": "08:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Continuation of the Mishnah: Allusions, Context-Dependent Meaning, and the Obligation of Offerings",
@@ -72,7 +76,9 @@
           "display_title": "Rabbi Meir Dispute",
           "timestamp": "14:06"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The First Mishnah: Kinuyim and Yadot as Valid Speech Acts for Becoming a Nazir (continued)",
@@ -94,7 +100,9 @@
           "display_title": "Lashes vs. Korbanot",
           "timestamp": "21:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Gemara Introduction: Why Nazir Appears in Seder Nashim; Structural Justification",
@@ -116,7 +124,9 @@
           "display_title": "Nazir-Sotah Link",
           "timestamp": "24:48"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Structural Analysis of the Mishnah: A-B-B-A Order and the Primacy of Kinuyim",
@@ -148,7 +158,9 @@
           "display_title": "Final Order",
           "timestamp": "33:40"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Specific Case of Ahei: Context, Ambiguity, and the Yad Mokhiach Requirement",
@@ -190,7 +202,9 @@
           "display_title": "Yad Works",
           "timestamp": "42:54"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Closing Remarks: Nazir as Sinner and Alternative Model of Kedushah Through Engagement",
@@ -212,7 +226,9 @@
           "display_title": "Mother's Model",
           "timestamp": "45:29"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -428,5 +444,6 @@
         "13:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

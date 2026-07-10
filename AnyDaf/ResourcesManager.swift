@@ -162,8 +162,8 @@ class ResourcesManager: ObservableObject {
         "\(source.rawValue):\(tractate)"
     }
 
-    /// Fetches all articles for a tractate from a single client, or returns the
-    /// already-loaded cached slice when available.
+    /// Fetches all articles for a tractate from a single client in one bulk request,
+    /// or returns the already-loaded cached slice when available.
     private func fetchAllFromClient(
         _ client: YCTLibraryClient,
         tractate: String,
@@ -177,24 +177,21 @@ class ResourcesManager: ObservableObject {
 
         let dafTermMap = try await client.resolveDafTermIDs(tractate: tractate,
                                                             tractateTermID: tractateTermID)
-        var all: [YCTArticle] = []
 
-        // Fetch articles for each daf-level term
-        for dafNum in dafTermMap.keys.sorted() {
-            guard let termID = dafTermMap[dafNum] else { continue }
-            let articles = try await fetchAndTag(client: client, termIDs: [termID],
-                                                 matchType: .tractateWide(daf: dafNum))
-            all += articles
-        }
-
-        // For psak: also fetch articles tagged directly on the tractate term (daf = 0 sentinel)
+        // Build termID → dafNum reverse map.
+        // For psak, also include the tractate-level term mapped to daf 0.
+        var termToDaf = Dictionary(uniqueKeysWithValues: dafTermMap.map { ($1, $0) })
         if client.fetchesTractateLevel {
-            let tractateLevel = try await fetchAndTag(client: client, termIDs: [tractateTermID],
-                                                      matchType: .tractateWide(daf: 0))
-            all += tractateLevel
+            termToDaf[tractateTermID] = 0
         }
 
-        return mergeAndDeduplicate(all)
+        guard !termToDaf.isEmpty else { return [] }
+
+        let articles = try await client.fetchBulkArticles(
+            allTermIDs: Array(termToDaf.keys),
+            termToDaf: termToDaf
+        )
+        return mergeAndDeduplicate(articles)
     }
 
     /// Two-pass deduplication:
@@ -256,12 +253,4 @@ class ResourcesManager: ObservableObject {
         return result
     }
 
-    private func fetchAndTag(
-        client: YCTLibraryClient,
-        termIDs: [Int],
-        matchType: ResourceMatchType
-    ) async throws -> [YCTArticle] {
-        let fetched = try await client.fetchArticles(termIDs: termIDs, dafTermMap: [:], currentDaf: 0)
-        return fetched.map { var a = $0; a.matchType = matchType; return a }
-    }
 }

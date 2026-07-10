@@ -23,7 +23,9 @@
           "display_title": "Tikkun Olam Limit",
           "timestamp": "02:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Gonev Nefesh: Requirements for Liability",
@@ -50,7 +52,9 @@
           "display_title": "Half-Slave Case",
           "timestamp": "05:57"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Gemara on the Use Requirement (Eimur) and Its Scope",
@@ -72,7 +76,9 @@
           "display_title": "Pregnant Woman Case",
           "timestamp": "10:08"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Textual Derivations of the Kidnapping Prohibition",
@@ -94,7 +100,9 @@
           "display_title": "Sell to Family",
           "timestamp": "24:06"
         }
-      ]
+      ],
+      "sefaria_index": 39,
+      "matched": true
     },
     {
       "title": "The Debate on Stolen vs. Half-Slave Person Culpability",
@@ -111,7 +119,9 @@
           "display_title": "Half-Slave Liability",
           "timestamp": "35:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Prohibitions: Stealing vs. Selling as Two Distinct Transgressions",
@@ -133,7 +143,9 @@
           "display_title": "Lo Tignovu Context",
           "timestamp": "40:57"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Combining Testimony of Two Witnesses: The Davar vs. Chatzi Davar Debate",
@@ -155,7 +167,9 @@
           "display_title": "Lashes Acceptance",
           "timestamp": "48:12"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Whether Stealing and Selling Are Separate or One Crime",
@@ -177,7 +191,9 @@
           "display_title": "Abaye Summary",
           "timestamp": "61:10"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "When False Witnesses Testify in Sequence: The Significance of Signals",
@@ -199,7 +215,9 @@
           "display_title": "Remiza/Signals",
           "timestamp": "65:38"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -331,5 +349,6 @@
         "65:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

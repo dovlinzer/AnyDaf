@@ -18,7 +18,9 @@
           "display_title": "Lo Yimkor Berachok",
           "timestamp": "00:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara Analysis of Matza (Finding Money) and the Hermeneutic Debate",
@@ -50,7 +52,9 @@
           "display_title": "Rava's Resolution",
           "timestamp": "06:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Comparison of Redemption Rights for Sold Fields vs. Consecrated Fields",
@@ -77,7 +81,9 @@
           "display_title": "Tosafot Analysis",
           "timestamp": "14:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Batei Arei Chomah (Walled City Houses): Basic Rules and Redemption",
@@ -109,7 +115,9 @@
           "display_title": "Rebbi's Opinion",
           "timestamp": "20:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara on Year Measurement: From Date vs. Calendar",
@@ -136,7 +144,9 @@
           "display_title": "Bar Mitzvah App.",
           "timestamp": "28:47"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Interest (Ribbit) Analysis in the Context of Conditional Sale",
@@ -163,7 +173,9 @@
           "display_title": "Rashi Framing",
           "timestamp": "39:17"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Multiple Sales and Succession of Rights in Walled City Houses",
@@ -185,7 +197,9 @@
           "display_title": "Rights Transfer",
           "timestamp": "45:23"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Calendar Issues: Leap Years and Adar I/II",
@@ -217,7 +231,9 @@
           "display_title": "Solar vs. Lunar",
           "timestamp": "53:08"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Gift (Matana) in Walled City Houses and Perpetual Ownership",
@@ -249,7 +265,9 @@
           "display_title": "Rav Pappa",
           "timestamp": "56:42"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Consecrated Houses in Walled Cities and Yovel",
@@ -276,7 +294,9 @@
           "display_title": "Yovel Exclusion",
           "timestamp": "59:54"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -501,5 +521,6 @@
         "59:34"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

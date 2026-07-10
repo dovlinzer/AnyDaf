@@ -18,7 +18,9 @@
           "display_title": "Rehoboam Example",
           "timestamp": "01:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Reading Schedule for Torah Portions Across Days of Week",
@@ -40,7 +42,9 @@
           "display_title": "Halacha Decision",
           "timestamp": "03:10"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Procedure for Opening, Blessing, and Reading the Sefer Torah",
@@ -67,7 +71,9 @@
           "display_title": "Final Halacha",
           "timestamp": "06:48"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Sanctity of Tablets, Platforms, and Margins of Sefer Torah",
@@ -89,7 +95,9 @@
           "display_title": "Tosafot View",
           "timestamp": "11:42"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Proper Technique for Rolling and Tightening the Sefer Torah",
@@ -116,7 +124,9 @@
           "display_title": "Tosafot Gartel",
           "timestamp": "17:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Importance of Gelila (Rolling) and Honors Associated with Torah Service",
@@ -138,7 +148,9 @@
           "display_title": "Credit Equivalent",
           "timestamp": "22:17"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Using Heavenly Voice (Bas Kol) as a Sign for Guidance",
@@ -160,7 +172,9 @@
           "display_title": "Tosafot Source",
           "timestamp": "24:55"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Reading Torah with Trop and Learning Mishnah with Melody",
@@ -187,7 +201,9 @@
           "display_title": "Chavrusa Learning",
           "timestamp": "29:38"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Improper Handling of Sefer Torah and Loss of Mitzvah Credit",
@@ -209,7 +225,9 @@
           "display_title": "Tosafot Interpretation",
           "timestamp": "30:33"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Final Teaching: Rolling Covers Before Sealing and Studying Laws According to Seasons",
@@ -241,7 +259,9 @@
           "display_title": "Talmud Torah",
           "timestamp": "33:43"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -401,5 +421,6 @@
         "34:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

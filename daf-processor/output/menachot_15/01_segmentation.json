@@ -23,7 +23,9 @@
           "display_title": "Minchat Chotei",
           "timestamp": "02:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tumah in Public and Individual Sacrifices: Division of Contaminated Portions",
@@ -75,7 +77,9 @@
           "display_title": "Ein Krban Chaluk",
           "timestamp": "16:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Toda Mefagelet Es HaLechem: Dependency and Piggul",
@@ -102,7 +106,9 @@
           "display_title": "Tenufah Union",
           "timestamp": "29:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Half Kezayis from Meat and Half from Bread: Does It Combine?",
@@ -144,7 +150,9 @@
           "display_title": "Ayin Matir",
           "timestamp": "42:17"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Nesachim (Wine and Flour Offerings) and Piggul",
@@ -181,7 +189,9 @@
           "display_title": "Log Shemen",
           "timestamp": "57:05"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -392,5 +402,6 @@
         "42:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

@@ -18,7 +18,9 @@
           "display_title": "Squash & Porridge",
           "timestamp": "01:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Officer of the Temple Mount and Enforcement of Watch Discipline",
@@ -45,7 +47,9 @@
           "display_title": "Ancient Discipline",
           "timestamp": "08:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Value of Rebuke and Constructive Feedback in Jewish Ethics",
@@ -72,7 +76,9 @@
           "display_title": "Rebuke Heaven",
           "timestamp": "17:52"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Lottery System for Trumat HaDeshen: From Race to Drawing of Lots",
@@ -99,7 +105,9 @@
           "display_title": "Rava's View",
           "timestamp": "25:39"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Order of Service: Trumat HaDeshen and Preparation of the Chavitin",
@@ -121,7 +129,9 @@
           "display_title": "Chavitin Start",
           "timestamp": "31:00"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Kohen Performing Trumat HaDeshen: Washing and Solo Entry to the Altar",
@@ -153,7 +163,9 @@
           "display_title": "Ash Piling",
           "timestamp": "45:14"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Gemara's Questions on the Architecture and the Order of Offerings",
@@ -175,7 +187,9 @@
           "display_title": "Water Heating",
           "timestamp": "50:47"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Full Morning Tending: Clearing Unconsumed Offerings and Removing Ashes to the Tapuach",
@@ -207,7 +221,9 @@
           "display_title": "Festival Ashes",
           "timestamp": "55:05"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -557,5 +573,6 @@
         "55:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -23,7 +23,9 @@
           "display_title": "Hebrew Scroll/Reading",
           "timestamp": "03:09"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Reading in Translation: Distinguishing the Scroll's Language from the Reader's Language",
@@ -60,7 +62,9 @@
           "display_title": "Ravina Pirsumei Nisa",
           "timestamp": "21:34"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Digressions on Aramaic Vocabulary and the Knowledge of Rare Hebrew Words",
@@ -72,7 +76,9 @@
           "display_title": "Rare Hebrew Words",
           "timestamp": "23:14"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Continuity in Reading: Breaks, Reversals, and the Requirement for Uninterrupted Order",
@@ -84,7 +90,9 @@
           "display_title": "Seirugin Breaks",
           "timestamp": "24:53"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Digressions on Aramaic Vocabulary and the Knowledge of Rare Hebrew Words (continued)",
@@ -96,7 +104,9 @@
           "display_title": "More Vocabulary",
           "timestamp": "28:41"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "Continuity in Reading: Breaks, Reversals, and the Requirement for Uninterrupted Order (continued)",
@@ -113,7 +123,9 @@
           "display_title": "Rav vs. Shmuel Break",
           "timestamp": "31:21"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     },
     {
       "title": "The Scroll Itself: Missing Letters, Verses, and the Threshold for Invalidity",
@@ -135,7 +147,9 @@
           "display_title": "Percentage Threshold",
           "timestamp": "41:46"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Continuity in Reading: Breaks, Reversals, and the Requirement for Uninterrupted Order (continued)",
@@ -147,7 +161,9 @@
           "display_title": "Serussin Out of Order",
           "timestamp": "42:31"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": true
     },
     {
       "title": "Intent and Consciousness in Reading: Drowsiness, Copying, and Kavana",
@@ -169,7 +185,9 @@
           "display_title": "Complete Scroll",
           "timestamp": "47:32"
         }
-      ]
+      ],
+      "sefaria_index": 38,
+      "matched": true
     },
     {
       "title": "Writing the Megillah from Memory: The Exception of Rabbi Meir and the Principle of She'at Hadchak",
@@ -191,7 +209,9 @@
           "display_title": "Tefillin Mezuzot",
           "timestamp": "53:47"
         }
-      ]
+      ],
+      "sefaria_index": 42,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -404,5 +424,6 @@
         "52:15"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 30
 }

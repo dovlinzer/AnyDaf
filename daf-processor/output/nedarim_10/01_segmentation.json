@@ -33,7 +33,9 @@
           "display_title": "Nedarim vs Nidavot",
           "timestamp": "01:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Shimon's Critique: Why Nazirship Is Intrinsically Problematic",
@@ -60,7 +62,9 @@
           "display_title": "Nazir Chotei",
           "timestamp": "06:01"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Meaning of 'Sinner' (Chotei): Motivation vs. Intrinsic Problem",
@@ -87,7 +91,9 @@
           "display_title": "Repeated Sin",
           "timestamp": "08:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Philosophical Analysis: Asceticism, Wine, and the Jewish Rejection of Body-Soul Dualism",
@@ -119,7 +125,9 @@
           "display_title": "Wine Intent",
           "timestamp": "12:54"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Extended Discussion: Wine, Altered States, and Societal Separation in Nazirship",
@@ -141,7 +149,9 @@
           "display_title": "Raisins Extension",
           "timestamp": "17:11"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Introduction to Kinuyim (Substitutes): The Mishnah on Alternative Vow Terminology",
@@ -173,7 +183,9 @@
           "display_title": "Bemosi/Bemohi",
           "timestamp": "19:04"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Gemara's Debate on Kinuyim: Are They a Foreign Language or Invented Terms?",
@@ -200,7 +212,9 @@
           "display_title": "Why Kinuyim",
           "timestamp": "24:19"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Problem of Invoked Divine Names: Why Saying 'Korban La'Hashem' Is Problematic",
@@ -227,7 +241,9 @@
           "display_title": "Dedication Irony",
           "timestamp": "26:56"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Kinuyei Kinuyim (Substitutes of Substitutes): The Beis Shammai/Beis Hillel Dispute",
@@ -269,7 +285,9 @@
           "display_title": "Problematic Forms",
           "timestamp": "34:14"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Ambiguous Cases: Kinama, Kina—Is It a Kinuy or a Kinuy of a Kinuy?",
@@ -291,7 +309,9 @@
           "display_title": "Teiku Resolution",
           "timestamp": "34:49"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Kinuyim of Shvuah (Oath): Shvuel, Shvutiel, Shkukel, and the Oath of Moses",
@@ -318,7 +338,9 @@
           "display_title": "Hand Examples",
           "timestamp": "37:36"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Saul Lieberman's Historical Context: Oaths in Greco-Roman Society and Popular Usage",
@@ -345,7 +367,9 @@
           "display_title": "Rabbinical Regulation",
           "timestamp": "42:47"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Vows by Sacred Objects and the Principle of Charitable Interpretation (Lechumra)",
@@ -382,7 +406,9 @@
           "display_title": "Kaf Necessity",
           "timestamp": "51:06"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Final Mishna: Vows by Altar Appurtenances and the Dispute on Jerusalem",
@@ -399,7 +425,9 @@
           "display_title": "Rabbi Yehuda",
           "timestamp": "52:23"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1029,5 +1057,6 @@
         "52:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

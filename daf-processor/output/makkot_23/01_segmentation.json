@@ -53,7 +53,9 @@
           "display_title": "Nikleh Dismissal",
           "timestamp": "10:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Sources and Derivations: Smichuyot (Proximity of Verses)",
@@ -85,7 +87,9 @@
           "display_title": "Donkey Strap",
           "timestamp": "22:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Implementation Details: Size Adjustments and Attendants",
@@ -122,7 +126,9 @@
           "display_title": "Three Judges",
           "timestamp": "29:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Dismissal from Lashing: Circumstances and Limitations",
@@ -154,7 +160,9 @@
           "display_title": "Sequence Rules",
           "timestamp": "35:39"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Malkot and Karatah (Excision): Atonement and Absolution",
@@ -196,7 +204,9 @@
           "display_title": "Chananya ben Akashya",
           "timestamp": "41:06"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Disputes on Kareit Absolution Through Malkot",
@@ -228,7 +238,9 @@
           "display_title": "Halacha Decision",
           "timestamp": "45:08"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Three Decrees Accepted by Heavenly Court (Beit Din Shel Ma'alah)",
@@ -255,7 +267,9 @@
           "display_title": "Ma'aser Decree",
           "timestamp": "50:00"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Three Places Where Ruach Hakodesh Appeared: Shem, Shmuel, and Shlomo",
@@ -292,7 +306,9 @@
           "display_title": "Tradition Resolution",
           "timestamp": "57:41"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -521,5 +537,6 @@
         "55:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

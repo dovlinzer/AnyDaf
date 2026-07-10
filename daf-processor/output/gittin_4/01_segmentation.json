@@ -28,77 +28,107 @@
           "display_title": "Both Terms",
           "timestamp": "01:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Fundamental Debate on What Constitutes a Get: Writing vs. Signing",
       "display_title": "Get Validity",
-      "timestamp": "02:26"
+      "timestamp": "02:26",
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Position: Signatures Alone Create the Get",
       "display_title": "R. Meir: Signing",
-      "timestamp": "03:12"
+      "timestamp": "03:12",
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer's Position: Writing Alone Suffices; Signatures Optional",
       "display_title": "R. Eliezer: Writing",
-      "timestamp": "04:02"
+      "timestamp": "04:02",
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Resolving the Debate: Rabbi Meir's View on Leniency in Writing",
       "display_title": "R. Meir: Lenient",
-      "timestamp": "09:56"
+      "timestamp": "09:56",
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer on Signatures: Optional but Must Follow Rules if Done",
       "display_title": "R. Eliezer: Conditional",
-      "timestamp": "12:00"
+      "timestamp": "12:00",
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda's Position: Both Writing and Signing Must Be Detached",
       "display_title": "R. Yehuda: Both",
-      "timestamp": "21:51"
+      "timestamp": "21:51",
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Why the Gemara Prefers Rabbi Eliezer and Rabbi Meir Explanations",
       "display_title": "Why Not R. Yehuda",
-      "timestamp": "23:04"
+      "timestamp": "23:04",
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Analysis of Medina HaYam Rule: Geographic Scope and Its Rationales",
       "display_title": "Medina HaYam",
-      "timestamp": "27:27"
+      "timestamp": "27:27",
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbah's Approach: Lishma as the Primary Concern for Distant Locations",
       "display_title": "Rabbah on Lishma",
-      "timestamp": "34:46"
+      "timestamp": "34:46",
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rava's Approach: Witness Availability as the Primary Concern",
       "display_title": "Rava on Witnesses",
-      "timestamp": "37:31"
+      "timestamp": "37:31",
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Debate Over Whether Molich (Sending Out) Requires the Declaration",
       "display_title": "Molich Issue",
-      "timestamp": "38:15"
+      "timestamp": "38:15",
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Testing the Two Approaches: Medina to Medina Within Eretz Yisrael",
       "display_title": "Medina to Medina",
-      "timestamp": "43:06"
+      "timestamp": "43:06",
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Rava's Difficulty: Why Eretz Yisrael's Lack of Requirement Doesn't Fit Witness Theory",
       "display_title": "Rava's Challenge",
-      "timestamp": "43:06"
+      "timestamp": "43:06",
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rabbah's Resolution: Travel to Central Courts Explains Eretz Yisrael Exemption",
       "display_title": "Rabbah's Answer",
-      "timestamp": "43:47"
+      "timestamp": "43:47",
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -282,5 +312,6 @@
         "43:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

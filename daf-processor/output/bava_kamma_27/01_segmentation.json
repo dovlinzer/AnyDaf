@@ -23,7 +23,9 @@
           "display_title": "Adam Muad L'olam Start",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Adam Muad L'olam and Personal Injury Payments (Arba'ah Devarim)",
@@ -45,7 +47,9 @@
           "display_title": "Negligence Examples",
           "timestamp": "03:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Specific Cases: When Arba'ah Devarim Are Paid",
@@ -67,7 +71,9 @@
           "display_title": "Demei Dispute",
           "timestamp": "05:53"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Falling Person Case: Negligence Threshold for Arba'ah Devarim",
@@ -89,7 +95,9 @@
           "display_title": "Ruach Metzuyah",
           "timestamp": "12:22"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Boshet (Embarrassment) Payments: Higher Intent Requirement",
@@ -121,7 +129,9 @@
           "display_title": "Woman Intervening",
           "timestamp": "18:33"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Coal on Heart Case: Self-Rescue and Contribution",
@@ -153,7 +163,9 @@
           "display_title": "Ox Coal",
           "timestamp": "27:45"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Transition to Third Perek: Vessel in Reshut HaRabbim",
@@ -170,7 +182,9 @@
           "display_title": "Adam Muad Puzzle",
           "timestamp": "30:39"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Kad vs. Chavis: Terminology and Business Implications",
@@ -187,7 +201,9 @@
           "display_title": "Burden of Proof",
           "timestamp": "33:05"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Three Amoraim Debate: When is Breaker of Vessel Chayav?",
@@ -209,7 +225,9 @@
           "display_title": "R. Yochanan: Corner",
           "timestamp": "37:52"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Rav Pappa's Reconciliation and Negligence Threshold",
@@ -226,7 +244,9 @@
           "display_title": "Self-Damage",
           "timestamp": "39:04"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Eretz Yisrael Teaching: People Don't Watch Where They're Going",
@@ -248,7 +268,9 @@
           "display_title": "Olive Press Season",
           "timestamp": "43:07"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Two Rishonim Approaches: Tosafot vs. Ramban on Adam Muad L'olam",
@@ -270,7 +292,9 @@
           "display_title": "Nizkak Negligence",
           "timestamp": "50:55"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Taking Law Into Own Hands: Vigilante Justice in Disputes",
@@ -292,7 +316,9 @@
           "display_title": "Bmkom Pseida",
           "timestamp": "55:08"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -665,5 +691,6 @@
         "55:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

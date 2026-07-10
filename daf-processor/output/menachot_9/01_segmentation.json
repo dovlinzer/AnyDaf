@@ -28,7 +28,9 @@
           "display_title": "Shmuel: Vessels",
           "timestamp": "07:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Slaughtering and Eating Sacred Offerings in the Heichal",
@@ -50,7 +52,9 @@
           "display_title": "Eating Undignified",
           "timestamp": "28:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Location and Sanctification of Mincha: Inside vs. Outside the Mikdash",
@@ -72,7 +76,9 @@
           "display_title": "Refill Before",
           "timestamp": "42:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Role of Kemitza in Defining and Validating the Mincha",
@@ -94,7 +100,9 @@
           "display_title": "Metzora Log",
           "timestamp": "43:52"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Remnant of Mincha Lacking Between Kemitza and Haktara",
@@ -121,7 +129,9 @@
           "display_title": "Deficiency=Mum",
           "timestamp": "57:15"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -415,5 +425,6 @@
         "57:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

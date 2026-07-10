@@ -33,7 +33,9 @@
           "display_title": "Sheva Brachot",
           "timestamp": "06:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The difficulty to Ulla regarding Havdalah blessings",
@@ -55,7 +57,9 @@
           "display_title": "Single Theme Bracha",
           "timestamp": "11:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shabbat establishes itself and the laws of Kiddush and Havdalah",
@@ -87,7 +91,9 @@
           "display_title": "Kiddush Required",
           "timestamp": "19:55"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Eating and drinking rules around Shabbat boundaries",
@@ -109,7 +115,9 @@
           "display_title": "Dead & Waters",
           "timestamp": "27:51"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Making Kiddush if forgotten on Friday night",
@@ -136,7 +144,9 @@
           "display_title": "Normal Cases",
           "timestamp": "37:03"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Prioritizing Kiddush over meal quality when resources are limited",
@@ -158,7 +168,9 @@
           "display_title": "Havdalah Economy",
           "timestamp": "40:40"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Difference between beginning and ending Shabbat: delaying Havdalah is permitted",
@@ -180,7 +192,9 @@
           "display_title": "Havdalah Delay",
           "timestamp": "45:58"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Eight inferences from the case of one cup at home after Shabbat",
@@ -222,7 +236,9 @@
           "display_title": "Minyan Requirement",
           "timestamp": "52:47"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -857,5 +873,6 @@
         "04:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

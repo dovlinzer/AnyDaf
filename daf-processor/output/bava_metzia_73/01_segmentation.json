@@ -33,7 +33,9 @@
           "display_title": "Rabbi Yehuda Opinion",
           "timestamp": "07:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara: Market Price, Stable Wholesale Pricing, and the Distinction Between Retail and Wholesale",
@@ -55,7 +57,9 @@
           "display_title": "Warehouse Pricing",
           "timestamp": "11:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "New versus Old Grain: The Problem of Different Products at the Same Price",
@@ -72,7 +76,9 @@
           "display_title": "Rashi's Solution",
           "timestamp": "15:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gathered Grain versus Farmer's Grain: Quality and Market Availability Distinctions",
@@ -99,7 +105,9 @@
           "display_title": "Quality Expectations",
           "timestamp": "21:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Borrowing Against Market Price (Se'ah Be'Se'ah): When Fixed Prices Make Loans Permissible",
@@ -126,7 +134,9 @@
           "display_title": "Rav Huna Changes Mind",
           "timestamp": "29:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Transporting Goods Between Markets at Different Price Levels",
@@ -153,7 +163,9 @@
           "display_title": "Tosafot Service Model",
           "timestamp": "45:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of the Donkey Drivers: Selling at Lower Prices in High-Price Markets",
@@ -180,7 +192,9 @@
           "display_title": "Rav Conservative",
           "timestamp": "48:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Extending the Principles: Scrap Metal, Garments, and Market Stability",
@@ -197,7 +211,9 @@
           "display_title": "Garments Dispute",
           "timestamp": "51:05"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Pre-Purchasing Wine from a Vineyard: Risk and Product Transformation",
@@ -229,7 +245,9 @@
           "display_title": "Land Possession Fix",
           "timestamp": "56:23"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -504,5 +522,6 @@
         "49:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

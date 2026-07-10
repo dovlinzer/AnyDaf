@@ -38,7 +38,9 @@
           "display_title": "Modeh B'Miktzat",
           "timestamp": "05:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Chanina's Teaching: Differentiating Requirements for Dinei Mamonot and Dinei Nefashot",
@@ -65,7 +67,9 @@
           "display_title": "Judicial Liability",
           "timestamp": "14:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rava's Reading: The Mishnah Mentions Both Loans and Torts as Separate Categories",
@@ -97,7 +101,9 @@
           "display_title": "Rava vs Rav Acha",
           "timestamp": "25:02"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Nezek and Chatzi Nezek: Understanding Full and Half Damages as Separate Categories",
@@ -119,7 +125,9 @@
           "display_title": "Graduated Fines",
           "timestamp": "32:28"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Source of the Requirement for Three Judges: Deriving from the Three Instances of Elohim",
@@ -161,7 +169,9 @@
           "display_title": "Majority Rule",
           "timestamp": "43:42"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -471,5 +481,6 @@
         "45:04"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

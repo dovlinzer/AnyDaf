@@ -68,7 +68,9 @@
           "display_title": "Novelty Analysis",
           "timestamp": "19:20"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Yehoshua's Refusal to Rule on Tzarat Ha-Bat and Its Consequences",
@@ -120,7 +122,9 @@
           "display_title": "Evasion Strategy",
           "timestamp": "30:05"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Story of Rabbi Dosa ben Horkinas and His Brother Yonatan: Tradition vs. Logical Proof",
@@ -212,7 +216,9 @@
           "display_title": "Akiva's Response",
           "timestamp": "56:36"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Examining the Three Traditions from Chagai: Status of Ammon, Moav, and Tartarmodum Converts",
@@ -259,7 +265,9 @@
           "display_title": "Resolution Amoraim",
           "timestamp": "58:02"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -718,5 +726,6 @@
         "00:53"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

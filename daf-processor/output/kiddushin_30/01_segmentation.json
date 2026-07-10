@@ -23,7 +23,9 @@
           "display_title": "Exception",
           "timestamp": "01:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Divergent Rulings: Shmuel vs. Rabbi Yochanan on Marriage Priority",
@@ -45,7 +47,9 @@
           "display_title": "V'lo Pligi",
           "timestamp": "04:09"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Babylonian vs. Eretz Yisrael Perspectives on Marriage and Family Obligations",
@@ -72,7 +76,9 @@
           "display_title": "EY Model",
           "timestamp": "07:28"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Age of Marriage and Protection from Sexual Temptation",
@@ -99,7 +105,9 @@
           "display_title": "Rav Chisda",
           "timestamp": "14:59"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Parental Guidance on Marriage: Age-Appropriate Pressure",
@@ -116,7 +124,9 @@
           "display_title": "Two Views",
           "timestamp": "20:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Scope of Father's Obligation in Talmud Torah",
@@ -143,7 +153,9 @@
           "display_title": "Rava's View",
           "timestamp": "23:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Obligation to Teach Grandsons and the Unbroken Chain of Torah",
@@ -165,7 +177,9 @@
           "display_title": "Grandson = Sinai",
           "timestamp": "27:54"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Chiya bar Abba and the Importance of Teaching Children",
@@ -182,7 +196,9 @@
           "display_title": "Ve-Hodastem",
           "timestamp": "30:20"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rabbi Chiya bar Abba and Other Sages: Personal Practice of Teaching",
@@ -199,7 +215,9 @@
           "display_title": "Beis Midrash",
           "timestamp": "31:49"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Shinnantam Le-Vanecha: Sharp and Accessible Torah Knowledge",
@@ -221,7 +239,9 @@
           "display_title": "Rambam",
           "timestamp": "35:52"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Sofrim and Letter Counting in Torah and Tanach",
@@ -248,7 +268,9 @@
           "display_title": "Limited Knowledge",
           "timestamp": "40:58"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Counting Pesukim and Textual Variations in Different Lands",
@@ -265,7 +287,9 @@
           "display_title": "Regional Variations",
           "timestamp": "44:22"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Shinnantam Le-Vanecha: Sharp Torah Knowledge and Warrior Imagery",
@@ -297,7 +321,9 @@
           "display_title": "Love",
           "timestamp": "50:05"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Torah as Panacea Against the Yetzer Hara",
@@ -324,7 +350,9 @@
           "display_title": "Without Torah",
           "timestamp": "55:20"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -548,5 +576,6 @@
         "40:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

@@ -43,7 +43,9 @@
           "display_title": "Bikurim Comparison",
           "timestamp": "13:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Role of Shechita and Zerika in Sanctifying the Bread of Shtei HaLechem",
@@ -80,7 +82,9 @@
           "display_title": "Abaye-Rava Debate",
           "timestamp": "23:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Mixed Cases of Shechita and Zerika: When One Is Valid and One Is Not",
@@ -102,7 +106,9 @@
           "display_title": "Rabbi's Rule",
           "timestamp": "27:02"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Piggul Debate: Does Invalid Zerika Affect Already-Invalid Bread",
@@ -144,7 +150,9 @@
           "display_title": "Gemara Rejects",
           "timestamp": "36:21"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Lost Bread After Shechita: Can Invalid Zerika Permit the Meat",
@@ -176,7 +184,9 @@
           "display_title": "Toda Unique",
           "timestamp": "46:15"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Multiple Loaves When Shechita Occurs on Four Instead of Two: Determining Kedusha",
@@ -228,7 +238,9 @@
           "display_title": "Resolution Two Four",
           "timestamp": "53:33"
         }
-      ]
+      ],
+      "sefaria_index": 36,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -534,5 +546,6 @@
         "03:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

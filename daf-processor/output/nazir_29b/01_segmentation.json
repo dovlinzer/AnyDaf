@@ -28,7 +28,9 @@
           "display_title": "Chinuch Framework",
           "timestamp": "11:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Rabbi Chanina: Practical Application and Unresolved Timing Issues",
@@ -55,7 +57,9 @@
           "display_title": "Counting Periods",
           "timestamp": "24:29"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Son Using Father's Dedicated Funds for Nazir Sacrifices: Sources and Positions",
@@ -77,7 +81,9 @@
           "display_title": "Braita Positions",
           "timestamp": "37:57"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Multiple Sons and Inheritance Principles: Applying Yerusha Laws to Hekdesh",
@@ -104,7 +110,9 @@
           "display_title": "Tamei/Tahor Transfer",
           "timestamp": "50:08"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -419,5 +427,6 @@
         "12:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

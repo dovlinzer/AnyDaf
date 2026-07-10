@@ -33,7 +33,9 @@
           "display_title": "Rabbi Zeira: Pesach Mitz…",
           "timestamp": "04:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pesach Mitzrayim vs. Pesach L'Doros: Comparing the Egyptian Passover with Future Generations",
@@ -65,7 +67,9 @@
           "display_title": "Pesach L'Doros: Seven Da…",
           "timestamp": "08:03"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Deriving the Rules: Using Textual Markers (Hazeh, Bo, Mimenu) to Determine What Applies Only to Mitzrayim",
@@ -107,7 +111,9 @@
           "display_title": "Resolving Limits",
           "timestamp": "12:06"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Detailed Analysis of Limiting Terms: Going Through Each Phrase to Determine Scope of Application",
@@ -144,7 +150,9 @@
           "display_title": "Breaking Bones",
           "timestamp": "18:34"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Conclusion on Pesach Mitzrayim vs. L'Doros: Summary of What Is Unique and What Is Replicated",
@@ -161,7 +169,9 @@
           "display_title": "Tosefta Details",
           "timestamp": "18:45"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Conclusion on Pesach Mitzrayim vs. L'Doros: Summary of What Is Unique and What Is Replicated (continued)",
@@ -178,7 +188,9 @@
           "display_title": "Emurim Service",
           "timestamp": "18:52"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Temurah of Pesach: Can a Substituted Animal Be Brought as a Shelamim?",
@@ -205,7 +217,9 @@
           "display_title": "After Shechitah",
           "timestamp": "18:52"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Temurah Status: The Relationship Between Original Pesach and Its Substitute",
@@ -237,7 +251,9 @@
           "display_title": "Rava: After Shechitah",
           "timestamp": "18:52"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -491,5 +507,6 @@
         "18:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 25
 }

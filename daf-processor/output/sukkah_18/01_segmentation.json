@@ -28,7 +28,9 @@
           "display_title": "Practical ruling",
           "timestamp": "01:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Proofs from Mishnayot and Baraitot: Four Tefachim and Planks",
@@ -75,7 +77,9 @@
           "display_title": "Rav Huna's solution",
           "timestamp": "15:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Abaye's Ruling on Small Sukkot and Gaps: Three Tefachim in Minimum-Sized Structures",
@@ -92,7 +96,9 @@
           "display_title": "Space definition",
           "timestamp": "16:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Debate on Levud in the Middle of a Roof: Rav Acha versus Ravina",
@@ -129,7 +135,9 @@
           "display_title": "Exception response",
           "timestamp": "16:03"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Yehuda ben Rabbi Ilai's Public Teaching and Qualifications",
@@ -161,7 +169,9 @@
           "display_title": "Modern prohibition",
           "timestamp": "17:11"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Sukkah on a Portico with Posts: Introduction to Pi Tikra Yored Ve-Sotem",
@@ -173,7 +183,9 @@
           "display_title": "Portico case",
           "timestamp": "17:19"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Sukkah on a Portico with Posts: Introduction to Pi Tikra Yored Ve-Sotem (continued)",
@@ -195,7 +207,9 @@
           "display_title": "Roof edge as wall",
           "timestamp": "17:28"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Abaye-Rava Debate and Its Relation to Rav-Shmuel on Shabbat",
@@ -242,7 +256,9 @@
           "display_title": "Roof serves space",
           "timestamp": "17:28"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -382,5 +398,6 @@
         "17:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

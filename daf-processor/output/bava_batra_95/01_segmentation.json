@@ -28,7 +28,9 @@
           "display_title": "FDA Analogy",
           "timestamp": "02:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Comparing Grain Contaminant to Ona'ah (Overcharging): The Fundamental Distinction",
@@ -50,7 +52,9 @@
           "display_title": "Presupposition Difference",
           "timestamp": "11:06"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Planted Field Case: Tolerating Bad Trees and the Job-Completion Doctrine",
@@ -77,7 +81,9 @@
           "display_title": "Disease Transmission",
           "timestamp": "20:55"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Wine Cellar Case: Quality Designations and the Tolerance Framework",
@@ -99,7 +105,9 @@
           "display_title": "Mishna-Braita Reconcilia…",
           "timestamp": "25:34"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Rav Zvid Braita and the Modifier Framework: Good vs. Bad Linguistic Markers",
@@ -126,7 +134,9 @@
           "display_title": "Marker Balancing Logic",
           "timestamp": "40:28"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Wine Souring and Brachot: When Kossos Wine Requires Shehakol Instead of Borei Pri Hagafen",
@@ -153,7 +163,9 @@
           "display_title": "Grape Juice Status",
           "timestamp": "49:40"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Barrel-Checking Braita: Determining When Wine Becomes Vinegar and the Three-Day Rule",
@@ -175,7 +187,9 @@
           "display_title": "Spoilage from Top",
           "timestamp": "54:28"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -396,5 +410,6 @@
         "54:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

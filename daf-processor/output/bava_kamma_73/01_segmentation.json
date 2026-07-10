@@ -33,7 +33,9 @@
           "display_title": "Teshuvah Discussion",
           "timestamp": "02:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishna on Burglary, Slaughter, and Sale with Zomem Witnesses",
@@ -60,7 +62,9 @@
           "display_title": "Toch K'dei Dibbur",
           "timestamp": "10:06"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Rabbi Yosi's Principle: Edut She-Batlah Miktzata Batlah Kulla",
@@ -82,7 +86,9 @@
           "display_title": "Debate Focus Refined",
           "timestamp": "18:33"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Distinguishing Two Levels of Toch K'dei Dibbur",
@@ -104,7 +110,9 @@
           "display_title": "Two Conceptions",
           "timestamp": "35:28"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Rava's Case: Hachasha (Contradiction) and Hazama (Zomem Status)",
@@ -131,7 +139,9 @@
           "display_title": "Abaye's Counter",
           "timestamp": "51:03"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -476,5 +486,6 @@
         "51:58"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

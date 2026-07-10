@@ -28,7 +28,9 @@
           "display_title": "Bein Hashmashos",
           "timestamp": "05:34"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Comparative Analysis of Tisha B'Av, Yom Kippur, and Ta'anit Tzibur",
@@ -70,7 +72,9 @@
           "display_title": "Work Restrictions",
           "timestamp": "24:09"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Yuhara (Religious Ostentation) and Communal Observance Standards",
@@ -92,7 +96,9 @@
           "display_title": "Idle Workers",
           "timestamp": "33:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Work on Erev Pesach: Regional Differences and Halachic Debate",
@@ -119,7 +125,9 @@
           "display_title": "Meir vs. Yehuda",
           "timestamp": "38:22"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Completing Previously Begun Work on Erev Pesach (Afternoon)",
@@ -146,7 +154,9 @@
           "display_title": "Both Required",
           "timestamp": "50:14"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Three (or Four) Permitted Professions on Erev Pesach",
@@ -173,7 +183,9 @@
           "display_title": "Inference Method",
           "timestamp": "55:22"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -446,5 +458,6 @@
         "55:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

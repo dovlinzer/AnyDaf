@@ -23,7 +23,9 @@
           "display_title": "Financial Penalties",
           "timestamp": "01:12"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Currency Equivalencies and Monetary Calculations",
@@ -40,7 +42,9 @@
           "display_title": "Depletion Calculations",
           "timestamp": "02:20"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Tarpeikin Currency and Meal Value Definitions",
@@ -62,7 +66,9 @@
           "display_title": "Penalty Comparison",
           "timestamp": "04:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Differential Penalties for Mored and Moredes: Rationales and Distinctions",
@@ -89,7 +95,9 @@
           "display_title": "Biological Arguments",
           "timestamp": "08:59"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Minimum Food Support Obligations (Mishna)",
@@ -151,7 +159,9 @@
           "display_title": "Status Adjustments",
           "timestamp": "21:16"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Tannaitic Dispute on Meal Measurements and Bread Quantities",
@@ -183,7 +193,9 @@
           "display_title": "Achilat Pras",
           "timestamp": "25:53"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Calculation of Two Kav Grain into Weekly Meal Count",
@@ -215,7 +227,9 @@
           "display_title": "Shabbat Meals",
           "timestamp": "33:57"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Analysis of Missing Food Items and Nutritional Content",
@@ -227,7 +241,9 @@
           "display_title": "No Protein/Veg",
           "timestamp": "35:35"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Wine Allocation Prohibitions and Exceptions",
@@ -264,7 +280,9 @@
           "display_title": "Nakdimon Story",
           "timestamp": "42:13"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Tannaitic Teaching on Wine Consumption and Female Licentiousness",
@@ -291,7 +309,9 @@
           "display_title": "Guest Exception",
           "timestamp": "46:28"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Stories of Women Seeking Food Allocation and Wine",
@@ -323,7 +343,9 @@
           "display_title": "Rav Yosef's Wife",
           "timestamp": "50:53"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -456,5 +478,6 @@
         "20:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

@@ -28,7 +28,9 @@
           "display_title": "Liability Ends",
           "timestamp": "09:39"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Multiple Transactions and Multiple Payments: When a Borrower Pays Multiple Times for One Object",
@@ -50,7 +52,9 @@
           "display_title": "Two Obligations",
           "timestamp": "25:18"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     },
     {
       "title": "False Oaths and Sacrificial Obligations: When the Renter and Borrower Each Bring Different Offerings",
@@ -87,7 +91,9 @@
           "display_title": "Reject Rabbi Ami",
           "timestamp": "35:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "When a Watchman Hands Over to Another Watchman: Liability for Negligence in Delegation",
@@ -124,7 +130,9 @@
           "display_title": "Ruling: Liable",
           "timestamp": "52:01"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -492,5 +500,6 @@
         "54:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

@@ -13,7 +13,9 @@
           "display_title": "Daf Overview",
           "timestamp": "00:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Exceptions to Shelichus: The Sending of Fire Through Unresponsible Persons (Cheresh, Shoteh, Katan vs. Pikeach)",
@@ -40,7 +42,9 @@
           "display_title": "Shaliach Awareness",
           "timestamp": "03:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Me'ilah (Misuse of Consecrated Property) and Shelichus: When Does the Sender Become Liable",
@@ -62,7 +66,9 @@
           "display_title": "Gezeirah Shavah Answer",
           "timestamp": "05:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shelichus Yad (Unauthorized Use of Another's Property) as a Second Exception to Ein Shaliach Lidvar Aveira",
@@ -84,7 +90,9 @@
           "display_title": "Shammai vs. Hillel",
           "timestamp": "07:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tevicha Umechira (Slaughtering or Selling Stolen Livestock) as a Third Exception",
@@ -106,7 +114,9 @@
           "display_title": "Exceptions Not Rules",
           "timestamp": "10:53"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The General Rule: Ein Shaliach Lidvar Aveira, Confirmed by Shchutei Chutz Paradigm",
@@ -128,7 +138,9 @@
           "display_title": "Alternative Drashim",
           "timestamp": "13:45"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Shammai HaZaken's Position: Shaliach Lidvar Aveira in Murder (Asumo Haragta B'Cherev B'nei Amon)",
@@ -160,7 +172,9 @@
           "display_title": "Murder Exception",
           "timestamp": "18:14"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Raba's Clarification: Cases Where Ein Shaliach Lidvar Aveira Even for Shammai",
@@ -177,7 +191,9 @@
           "display_title": "Pleasure Theory",
           "timestamp": "20:37"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Shaliach Na'aseh Eid: Can a Shaliach Serve as a Witness to His Own Mission",
@@ -204,7 +220,9 @@
           "display_title": "Final Halacha",
           "timestamp": "26:14"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Application of Shaliach Na'aseh Eid to Kiddushin, Gerushin, and Dinei Mamonot",
@@ -231,7 +249,9 @@
           "display_title": "Why Concerns Addressed",
           "timestamp": "27:04"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Impact of Shevuas Hesess on Shaliach Witnesses in Monetary Cases",
@@ -253,7 +273,9 @@
           "display_title": "New Outcome",
           "timestamp": "33:03"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -527,5 +549,6 @@
         "19:05"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

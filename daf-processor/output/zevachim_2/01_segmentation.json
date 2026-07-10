@@ -23,7 +23,9 @@
           "display_title": "Sources: Rishonim",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Sacrifices Slaughtered Shelo Lishmah (Not for Their Name)",
@@ -50,7 +52,9 @@
           "display_title": "R. Eliezer, Yosi ben Cho…",
           "timestamp": "09:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shimon Achi Azaryah's Ruling on Elevation vs. Degradation of Sacrifices",
@@ -67,7 +71,9 @@
           "display_title": "Hierarchy examples",
           "timestamp": "16:29"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Talmudic Analysis of Shelo Lishmah: The Sanctity Remains Intact",
@@ -89,7 +95,9 @@
           "display_title": "Neder vs. nedava",
           "timestamp": "21:15"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Gemara's Inquiry into Lishma Requirements: Zevachim versus Geitin",
@@ -111,7 +119,9 @@
           "display_title": "Blank intent",
           "timestamp": "28:14"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Stam Leshmah: How Sanctified Objects Define Acts",
@@ -128,7 +138,9 @@
           "display_title": "Woman no default",
           "timestamp": "32:17"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Evidentiary Basis for Blank Intent in Sacrifices",
@@ -150,7 +162,9 @@
           "display_title": "Beis din rule",
           "timestamp": "43:31"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Evidentiary Basis for Requiring Lishma in Gittin",
@@ -177,7 +191,9 @@
           "display_title": "Blank form gittin",
           "timestamp": "50:50"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "The Conceptual Difference: Objects with Inherent Identity versus Objects Requiring Definition",
@@ -194,7 +210,9 @@
           "display_title": "No inherent woman",
           "timestamp": "52:26"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -464,5 +482,6 @@
         "15:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

@@ -28,7 +28,9 @@
           "display_title": "Rebbi Yanai Position",
           "timestamp": "01:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Combination of Neveilot and Sheratzim: Scope and Implications",
@@ -50,7 +52,9 @@
           "display_title": "Sheratzim Tumah",
           "timestamp": "02:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Eating Sheratzim: Distinction Between Living and Dead Specimens",
@@ -82,7 +86,9 @@
           "display_title": "Opening with Achilah",
           "timestamp": "06:03"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Size Requirements for Sheratzim: Ke'adasha and the Link to Tumah",
@@ -109,7 +115,9 @@
           "display_title": "Alive/Dead Distinction",
           "timestamp": "10:15"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Debate Over Rav's Intent: Independent Statement vs. Commentary on Mishnah",
@@ -131,7 +139,9 @@
           "display_title": "Dead Sheratzim Conclusion",
           "timestamp": "16:37"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Limbs of Dead Animals and Tumah: Restriction to Sheratzim",
@@ -153,7 +163,9 @@
           "display_title": "Muvdalim/Sheratzim",
           "timestamp": "19:05"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Extending the Logic to Behemot: Addressing the Objection",
@@ -175,7 +187,9 @@
           "display_title": "Final Halacha",
           "timestamp": "25:15"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -499,5 +513,6 @@
         "22:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

@@ -28,7 +28,9 @@
           "display_title": "Gatehouse Debate",
           "timestamp": "04:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Courtyards with Three Houses Between Them",
@@ -50,7 +52,9 @@
           "display_title": "Structural vs Intentional",
           "timestamp": "10:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rava's Test Case: Two Courtyards with Two Independent Houses",
@@ -82,7 +86,9 @@
           "display_title": "Contradiction Problem",
           "timestamp": "21:13"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Opening Requirements Between Two Courtyards",
@@ -109,7 +115,9 @@
           "display_title": "Partial Openings",
           "timestamp": "31:17"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Circular Openings and Geometric Calculations",
@@ -141,7 +149,9 @@
           "display_title": "Tosafot Defense",
           "timestamp": "46:15"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Different Rules for Openings Between Houses Versus Courtyards",
@@ -168,7 +178,9 @@
           "display_title": "Size vs Height",
           "timestamp": "50:32"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Openings in Ceilings Between Upper and Lower Rooms",
@@ -190,7 +202,9 @@
           "display_title": "No Ladder Needed",
           "timestamp": "55:07"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -424,5 +438,6 @@
         "49:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

@@ -23,7 +23,9 @@
           "display_title": "Jordan Boat",
           "timestamp": "00:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The value of constant Torah study: teachings of Rav, Rabbi Yonatan, and Reish Lakish",
@@ -50,7 +52,9 @@
           "display_title": "Reish Lakish",
           "timestamp": "04:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Resumption of the boat discussion: Rava's formulation and the principle of carriability",
@@ -87,7 +91,9 @@
           "display_title": "Oxen & Tumah",
           "timestamp": "11:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishnah on three types of chests and their tumah status",
@@ -109,7 +115,9 @@
           "display_title": "Huge Chest",
           "timestamp": "16:58"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Pottery vessels and the exclusion from midras tumah",
@@ -136,7 +144,9 @@
           "display_title": "Wooden vs Boat",
           "timestamp": "22:18"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Why pottery cannot become midras: the mikveh principle",
@@ -153,7 +163,9 @@
           "display_title": "Mishkav Connection",
           "timestamp": "25:32"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The mat (pifrach) and exceptional midras status despite non-receptacle form",
@@ -165,7 +177,9 @@
           "display_title": "Rabbi Ila's Challenge",
           "timestamp": "30:53"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Why pottery cannot become midras: the mikveh principle (continued)",
@@ -177,7 +191,9 @@
           "display_title": "Back Door Entry",
           "timestamp": "31:53"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The mat (pifrach) and exceptional midras status despite non-receptacle form (continued)",
@@ -194,7 +210,9 @@
           "display_title": "Competing Verses",
           "timestamp": "44:22"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Rava's alternative explanation: pottery sealed vessels remain tahor",
@@ -211,7 +229,9 @@
           "display_title": "Proof via Seal",
           "timestamp": "47:39"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Transition to Zra'im: the Mishnah on planted beds (arugah) with five seeds",
@@ -243,7 +263,9 @@
           "display_title": "Rashi: Rabbinic Kilayim",
           "timestamp": "53:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -466,5 +488,6 @@
         "53:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

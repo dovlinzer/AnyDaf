@@ -38,7 +38,9 @@
           "display_title": "Rabbi Chanina Ruling",
           "timestamp": "11:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "General Principles and Transitions in Melachot Discussion",
@@ -80,7 +82,9 @@
           "display_title": "Tolish Principle",
           "timestamp": "18:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Carrying Between Domains and Opposite Balconies Case",
@@ -112,7 +116,9 @@
           "display_title": "Handing vs. Throwing",
           "timestamp": "26:01"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Source and Derivation of Carrying as Melacha",
@@ -149,7 +155,9 @@
           "display_title": "Av Tolada Distinction",
           "timestamp": "34:52"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer's Rejection of Av-Tolada Categories",
@@ -181,7 +189,9 @@
           "display_title": "Written Criteria",
           "timestamp": "42:38"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Four Amot in Reshut HaRabbim and Throwing Traditions",
@@ -213,7 +223,9 @@
           "display_title": "Self-Sufficiency",
           "timestamp": "49:38"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Mekoshshesh Case and Thirty-Nine Melachot",
@@ -250,7 +262,9 @@
           "display_title": "Which Melacha Exempt",
           "timestamp": "53:53"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -620,5 +634,6 @@
         "52:52"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

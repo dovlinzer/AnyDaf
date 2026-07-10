@@ -38,7 +38,9 @@
           "display_title": "Reshus Meshaneh",
           "timestamp": "01:45"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rabbi Yaakov's Position on Half Payment and the Debate with Rabbi Yehuda",
@@ -80,7 +82,9 @@
           "display_title": "Abaye Disagrees",
           "timestamp": "06:11"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "The Debate Clarified: Apotropus Collection for Tam and Reshus Meshaneh",
@@ -112,7 +116,9 @@
           "display_title": "Ravina Reshus",
           "timestamp": "10:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Payment Rules for Apotropus and the Exempt Status from Kofer",
@@ -139,7 +145,9 @@
           "display_title": "Kofer Self-Value",
           "timestamp": "15:30"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Kofer Payment and the Debate Between Rabbanan and Rabbi Yishmael",
@@ -166,7 +174,9 @@
           "display_title": "Pidyon Value",
           "timestamp": "20:01"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Nachman's Challenge: Kofer Payment with Multiple Partners",
@@ -203,7 +213,9 @@
           "display_title": "Unresolved Q",
           "timestamp": "30:37"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Borrowed Ox Case: When Expectation of Tam Meets Reality of Muad",
@@ -240,7 +252,9 @@
           "display_title": "Tam Payment Rule",
           "timestamp": "36:23"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Return to Owner: Reshus Meshaneh and Reversion of Status",
@@ -282,7 +296,9 @@
           "display_title": "Shomer vs Ownership",
           "timestamp": "52:16"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Stadium Ox: Sacrificial Validity and Forced vs. Willing Participation",
@@ -324,7 +340,9 @@
           "display_title": "Korban Unresolved",
           "timestamp": "58:50"
         }
-      ]
+      ],
+      "sefaria_index": 41,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -442,5 +460,6 @@
         "54:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 28
 }

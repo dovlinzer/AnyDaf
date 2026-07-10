@@ -28,7 +28,9 @@
           "display_title": "Jerusalem's Restoration",
           "timestamp": "04:09"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Principle of Redemption Through Justice and Charity: Ulla's Interpretation of Tsedakah",
@@ -50,7 +52,9 @@
           "display_title": "Vilna Gaon's Blessing",
           "timestamp": "10:42"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Chain of Corruption: From Arrogant Leaders to Complicit Enablers and the Perverse Legal System",
@@ -77,7 +81,9 @@
           "display_title": "Fingers & Tongues",
           "timestamp": "17:01"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Aggregate Narrative on Joseph, Aaron, and Rabbinic Virtue: Three Unrelated Statements of Rav Milai",
@@ -99,7 +105,9 @@
           "display_title": "Aaron & Heart Purity",
           "timestamp": "23:36"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Responsa of Rav Menashia and the Principle of Withholding Full Halachic Truth from the Unlearned",
@@ -146,7 +154,9 @@
           "display_title": "Withholding Truth",
           "timestamp": "31:56"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Crafting Pretense as Halachic Mechanism: The Use of Haarama (Scheming) Among Talmidei Chachamim",
@@ -183,7 +193,9 @@
           "display_title": "Rav Ashi Allows",
           "timestamp": "48:41"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Filtering Liquids on Shabbat: The Principle That Drinkability Without Filtering Permits Filtering",
@@ -225,7 +237,9 @@
           "display_title": "Drinkability Test",
           "timestamp": "55:42"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -384,5 +398,6 @@
         "26:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

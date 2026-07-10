@@ -33,7 +33,9 @@
           "display_title": "Simchat Mereus",
           "timestamp": "07:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Remarriage prohibitions for widower and the story of Joseph the Priest",
@@ -45,7 +47,9 @@
           "display_title": "Simchat Mitzvah",
           "timestamp": "08:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The mourner's movement restrictions during Shiva and Shloshim",
@@ -82,7 +86,9 @@
           "display_title": "Exceptions & Latitudes",
           "timestamp": "25:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Remarriage prohibitions for widower and the story of Joseph the Priest (continued)",
@@ -109,7 +115,9 @@
           "display_title": "Tosafot Objection",
           "timestamp": "30:47"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Clothing restrictions during Shloshim: laundering and pressing",
@@ -136,7 +144,9 @@
           "display_title": "Laundering Debate",
           "timestamp": "38:37"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Shabbat's status in mourning: does Aveilus apply on Shabbat",
@@ -178,7 +188,9 @@
           "display_title": "Mishnah Language",
           "timestamp": "45:01"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Onein status on Shabbat and conceptual relationship to Aveilus",
@@ -215,7 +227,9 @@
           "display_title": "Continuity Model",
           "timestamp": "54:21"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -386,5 +400,6 @@
         "52:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

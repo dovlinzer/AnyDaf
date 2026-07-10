@@ -28,7 +28,9 @@
           "display_title": "Beis Hillel Permits",
           "timestamp": "01:58"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Shechitah of Nedavah: Moving Beyond Carrying to a General Principle",
@@ -50,7 +52,9 @@
           "display_title": "Mitoch Principle",
           "timestamp": "04:44"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rabbah's Challenge: Is the Mitoch Debate Limited to Carrying or General to All Melachos?",
@@ -77,7 +81,9 @@
           "display_title": "Jeremiah Source",
           "timestamp": "09:32"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Why Carrying Is Different: Melacha Gru'ah and the Structural Distinction from Other Melachos",
@@ -104,7 +110,9 @@
           "display_title": "Shopping Purpose",
           "timestamp": "15:46"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Rambam's Framework: Melechet Avodah vs. Ochel Nefesh—Two Approaches to Yom Tov Restrictions",
@@ -126,7 +134,9 @@
           "display_title": "Categorical Exclusion",
           "timestamp": "19:15"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "The Scope of Mitoch: Which Melachos Qualify and What Justification Is Needed?",
@@ -138,7 +148,9 @@
           "display_title": "Building Excluded",
           "timestamp": "20:18"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Tosafot's Nuanced Reading: Mitoch Requires Justification but Applies Broadly to Food-Related Acts",
@@ -165,7 +177,9 @@
           "display_title": "Ball Game",
           "timestamp": "27:21"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Extension of Mitoch: Cooking and Fire as Non-Restricted Melachos",
@@ -187,7 +201,9 @@
           "display_title": "Rejection & Reason",
           "timestamp": "34:20"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Scope of Mitoch: Which Melachos Qualify and What Justification Is Needed? (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Candle Case",
           "timestamp": "38:34"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Shift from Biblical Principles to Derabbanan: Delivering Challah and Matanot to the Kohen on Yom Tov",
@@ -236,7 +254,9 @@
           "display_title": "Hillel Argument",
           "timestamp": "44:07"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Three Baraita Versions: Mapping the Dispute Between Beis Shammai and Beis Hillel",
@@ -258,7 +278,9 @@
           "display_title": "Acherim Version",
           "timestamp": "49:50"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Rava's Resolution: The Mishnah Refers to Separation on Yom Tov but Shechitah Yesterday",
@@ -280,7 +302,9 @@
           "display_title": "Bundling",
           "timestamp": "52:11"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Halacha Ruling: Following Rabbi Yosi—Gifts Are Permitted on Yom Tov, Only Terumah Debated",
@@ -302,7 +326,9 @@
           "display_title": "Yosi Permits",
           "timestamp": "53:45"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -579,5 +605,6 @@
         "26:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

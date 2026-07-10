@@ -28,7 +28,9 @@
           "display_title": "R. Yehuda ben Beteira",
           "timestamp": "04:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Sourcing the Seven Mitzvot from Parashat Noah: Tana D'Bei Menashe's Approach",
@@ -65,7 +67,9 @@
           "display_title": "Sirus & Kilayim",
           "timestamp": "26:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Capital Liability for Sheva Mitzvot: Determining Which Mitzvot Carry the Death Penalty",
@@ -92,7 +96,9 @@
           "display_title": "Seven Mitzvot Death",
           "timestamp": "39:15"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Scope of Gezel: Jew vs. Non-Jew, Permissibility, and Threshold Issues",
@@ -124,7 +130,9 @@
           "display_title": "Withholding Wages",
           "timestamp": "58:00"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Keyotzei Bo (Similar Cases): Extending the Scope of Gezel and Shfichus Damim",
@@ -151,7 +159,9 @@
           "display_title": "Non-Jew Permissions",
           "timestamp": "62:42"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -477,5 +487,6 @@
         "42:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 24
 }

@@ -28,7 +28,9 @@
           "display_title": "Bedek Habayis",
           "timestamp": "04:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on the Tam: Before and After Court Judgment",
@@ -55,7 +57,9 @@
           "display_title": "Creditors vs. Nizak",
           "timestamp": "23:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Principle of Assessing Damage: Timing and Depreciation",
@@ -77,7 +81,9 @@
           "display_title": "Continued Injury",
           "timestamp": "38:25"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Torah's Case and the Debate over Splitting the Carcass",
@@ -109,7 +115,9 @@
           "display_title": "Shevach Neveilah",
           "timestamp": "55:33"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -321,5 +329,6 @@
         "21:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

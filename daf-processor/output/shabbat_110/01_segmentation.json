@@ -18,7 +18,9 @@
           "display_title": "Intent & Practice",
           "timestamp": "00:59"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Botanical and Medical Identification: Talmudic Dispute over the Identity of Biblical Hyssop and Remedy Plants",
@@ -35,7 +37,9 @@
           "display_title": "Ulla & Shumshuk",
           "timestamp": "02:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Medical Remedies for Intestinal and Liver Parasites: Treatments with Ezovon and Yo'ezer",
@@ -57,7 +61,9 @@
           "display_title": "Medical Knowledge",
           "timestamp": "07:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Remedies for Poisoning and Snake-Related Injuries: Folk Medicine Protocols and Miraculous Interventions",
@@ -104,7 +110,9 @@
           "display_title": "Internal Snake",
           "timestamp": "26:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Foods and Beverages Permitted Despite Medicinal Purpose: The General Principle and Its Scope",
@@ -131,7 +139,9 @@
           "display_title": "Water Variants",
           "timestamp": "31:43"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Remedial Beverages and Their Seasonal Efficacy: Egyptian Zeysum, Alexandrian Quma, and Proportional Formulas",
@@ -153,7 +163,9 @@
           "display_title": "Pesach-Shavuot",
           "timestamp": "34:35"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Cup of Roots (Cos Ikrin): Multi-Stage Treatment Protocol for Zavah (Abnormal Bleeding)",
@@ -175,7 +187,9 @@
           "display_title": "Two Ingredients",
           "timestamp": "36:47"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Escalating Treatment Protocols for Zavah (Abnormal Female Bleeding): Eleven Progressive Remedies",
@@ -237,7 +251,9 @@
           "display_title": "Remedy 11",
           "timestamp": "43:13"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Escalating Treatment Protocols for Jaundice: Thirteen Progressive Remedies and Supportive Cases",
@@ -284,7 +300,9 @@
           "display_title": "Remedy 7",
           "timestamp": "48:13"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Halakhic Analysis of Sterilization: Intent, Directness, and Permissibility of Medicinal Side Effects",
@@ -306,7 +324,9 @@
           "display_title": "Rav Assi",
           "timestamp": "52:40"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -470,5 +490,6 @@
         "39:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 8
 }

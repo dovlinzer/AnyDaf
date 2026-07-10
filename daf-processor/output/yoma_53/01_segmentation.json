@@ -18,7 +18,9 @@
           "display_title": "Mishnah Drama",
           "timestamp": "00:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Tzedokim vs. Chazal Dispute on When and How the Incense is Placed",
@@ -45,7 +47,9 @@
           "display_title": "Maaleh Ashan",
           "timestamp": "06:32"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Textual Analysis of כי בענן אראה על הכפורת and Its Two Proofs",
@@ -62,7 +66,9 @@
           "display_title": "Second Source",
           "timestamp": "09:07"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Death Penalty for Improper Incense and the Case of Nadav and Avihu",
@@ -79,7 +85,9 @@
           "display_title": "Two Incense",
           "timestamp": "17:13"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "The Textual Analysis of כי בענן אראה על הכפורת and Its Two Proofs (continued)",
@@ -106,7 +114,9 @@
           "display_title": "Punishment Warning",
           "timestamp": "32:57"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Death Penalty for Improper Incense and the Case of Nadav and Avihu (continued)",
@@ -133,7 +143,9 @@
           "display_title": "Multiple Explanations",
           "timestamp": "43:28"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Walking Backwards When Leaving the Divine Presence",
@@ -175,7 +187,9 @@
           "display_title": "Dog Vomit",
           "timestamp": "54:34"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -372,5 +386,6 @@
         "55:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 25
 }

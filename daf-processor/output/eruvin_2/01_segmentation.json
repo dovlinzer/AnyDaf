@@ -38,7 +38,9 @@
           "display_title": "Walls Focus",
           "timestamp": "01:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishnah's Definition of Mavoi (Alleyway) and Requirements for Its Four Sides",
@@ -75,7 +77,9 @@
           "display_title": "Fourth Wall Need",
           "timestamp": "05:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah's Requirements for Height and Width of the Fourth Side Opening",
@@ -107,7 +111,9 @@
           "display_title": "Modern Practice",
           "timestamp": "08:07"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Comparison to Sukkah and Explanation of Pesulah versus Takanta",
@@ -134,7 +140,9 @@
           "display_title": "Terseness Reason",
           "timestamp": "11:44"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara's Investigation: Learning the Parameters of a Doorway from the Heichal and Ulam",
@@ -166,7 +174,9 @@
           "display_title": "United Sanctity",
           "timestamp": "16:16"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Gemara's Deep Dive: Reconciling the Mishkhan-Mikdash Relationship and Applying Halachos Across Structures",
@@ -193,7 +203,9 @@
           "display_title": "Textual Sources",
           "timestamp": "23:01"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Gemara Questions: Why Learn from Heichal/Ulam Opening Rather Than Courtyard Opening or Gates?",
@@ -220,7 +232,9 @@
           "display_title": "Petach Source",
           "timestamp": "29:30"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Gemara's Reassessment: Questioning Whether Parameters Are Derived from Heichal at All",
@@ -247,7 +261,9 @@
           "display_title": "According to Rav",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Gemara Resolution: Rav Yehuda bar Chiya and Rav's Correction to the Mishnah's Wording on Tzuras Hapesach",
@@ -274,7 +290,9 @@
           "display_title": "Modern Eruv Impact",
           "timestamp": "34:42"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -503,5 +521,6 @@
         "33:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

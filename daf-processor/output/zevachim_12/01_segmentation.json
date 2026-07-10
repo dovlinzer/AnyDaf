@@ -33,7 +33,9 @@
           "display_title": "Resolution",
           "timestamp": "06:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Analysis of Bein Ha'arbayim: The Afternoon as the Specified Time for Pesach",
@@ -65,7 +67,9 @@
           "display_title": "Ordering: After Tamid",
           "timestamp": "13:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Gemara's Reinterpretation: Both Sides Agree on When Pesach is Kásher; They Differ on Shelo Lishmo",
@@ -87,7 +91,9 @@
           "display_title": "Shelo Lishmo Debate",
           "timestamp": "18:23"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Concept of Dichui (Pushed Away): When a Korban Passes Through an Invalid Period",
@@ -114,7 +120,9 @@
           "display_title": "Rav Papa's Response",
           "timestamp": "23:46"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Technical Meaning of Mechusar Zman: Sanctification Before an Animal's Time Has Arrived",
@@ -146,7 +154,9 @@
           "display_title": "Lailah & Yom",
           "timestamp": "28:51"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Live Animals and Dichui: Can a Living Korban Become Pushed Away and Remain Invalid?",
@@ -168,7 +178,9 @@
           "display_title": "Three Conclusions",
           "timestamp": "33:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Cases of Dichui: Mumar, Mental Illness, and Horayos Mistakes",
@@ -200,7 +212,9 @@
           "display_title": "Horayos Explanation",
           "timestamp": "41:29"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Shimon ben Azzai's Tradition: Only Pesach, Chatat, and Olah Are Invalid Shelo Lishmo",
@@ -222,7 +236,9 @@
           "display_title": "Rav Huna Kal Vachomer",
           "timestamp": "43:01"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Challenging the Kal Va'chomer: Why Olah But Not Other Korbanot?",
@@ -269,7 +285,9 @@
           "display_title": "Tradition Only",
           "timestamp": "47:27"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -668,5 +686,6 @@
         "47:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

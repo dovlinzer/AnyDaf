@@ -80,11 +80,51 @@ def lookup_segment(heading_type: str, heading_text: str,
     return None
 
 
+def _insert_daf_markers(final_lines: list[str], markers: list[tuple[str | None, str]]) -> list[str]:
+    """
+    Strip existing [DAF:…] markers and insert new ones.
+      markers: list of (target, label) where
+        target=None → insert immediately after the first '# ' title line
+        target=str  → insert immediately before the '## target' or '### target' heading line
+    """
+    cleaned = [l for l in final_lines
+               if not re.fullmatch(r'\[DAF:[^\]]+\]', l.strip())]
+
+    start_label = next((lbl for tgt, lbl in markers if tgt is None), None)
+    heading_markers = {tgt: lbl for tgt, lbl in markers if tgt is not None}
+
+    result: list[str] = []
+    start_inserted = False
+
+    for line in cleaned:
+        stripped = line.strip()
+        if not start_inserted and start_label and stripped.startswith('# ') and not stripped.startswith('## '):
+            result.append(line)
+            result.append(f'[DAF:{start_label}]')
+            start_inserted = True
+            continue
+        if stripped.startswith('### '):
+            heading_text = stripped[4:]
+            if heading_text in heading_markers:
+                result.append(f'[DAF:{heading_markers[heading_text]}]')
+        elif stripped.startswith('## '):
+            heading_text = stripped[3:]
+            if heading_text in heading_markers:
+                result.append(f'[DAF:{heading_markers[heading_text]}]')
+        result.append(line)
+
+    if not start_inserted and start_label:
+        result.insert(0, f'[DAF:{start_label}]')
+
+    return result
+
+
 def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
     """Process one output directory. Returns a status string for logging."""
     seg_path = daf_dir / "01_segmentation.json"
     sefaria_path = daf_dir / "sefaria.md"
     final_path = daf_dir / "03_final.md"
+    prev_path = daf_dir / "sefaria_prev.md"
 
     if not seg_path.exists():
         return "SKIP (no segmentation)"
@@ -121,6 +161,7 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
 
     a_items = parse_sefaria_items(a_section)
     b_items = parse_sefaria_items(b_section)
+    prev_items = parse_sefaria_items(prev_path.read_text()) if prev_path.exists() else []
 
     if not b_items:
         return "SKIP (no amud B items)"
@@ -184,6 +225,37 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
 
     detail = f"segment {found_seg_idx} '{found_heading_text}' @ {found_timestamp} (B[{found_b_item_idx}], {found_heading_type})"
 
+    # ── Detect shiur start (prev-daf or current daf) ────────────────────
+    daf_num = int(seg.get("daf", 0))
+    shiur_starts_on_prev = False
+    curr_daf_a_heading = None
+
+    if prev_items:
+        for item in prev_items[:5]:
+            if first_match_in_final(item, final_lines) is not None:
+                shiur_starts_on_prev = True
+                break
+
+    if shiur_starts_on_prev:
+        for item in a_items[:5]:
+            ln = first_match_in_final(item, final_lines)
+            if ln is not None:
+                heading = nearest_heading(final_lines, ln)
+                if heading:
+                    curr_daf_a_heading = heading[1]
+                break
+
+    # ── Build marker list ────────────────────────────────────────────────
+    markers: list[tuple[str | None, str]] = []
+    if shiur_starts_on_prev:
+        markers.append((None, f"{daf_num - 1}b"))
+        if curr_daf_a_heading:
+            markers.append((curr_daf_a_heading, f"{daf_num}a"))
+    else:
+        markers.append((None, f"{daf_num}a"))
+    if found_seg_idx is not None:
+        markers.append((found_heading_text, f"{daf_num}b"))
+
     if dry_run:
         return f"DRY-RUN → {detail}"
 
@@ -193,7 +265,13 @@ def process_dir(daf_dir: Path, dry_run: bool, force: bool) -> str:
         seg["amud_b_micro_title"] = found_heading_text
     else:
         seg.pop("amud_b_micro_title", None)
+    seg["shiur_start_daf"] = daf_num - 1 if shiur_starts_on_prev else daf_num
+    seg["shiur_start_amud"] = "b" if shiur_starts_on_prev else "a"
     seg_path.write_text(json.dumps(seg, ensure_ascii=False, indent=2))
+
+    new_lines = _insert_daf_markers(final_lines, markers)
+    final_path.write_text("\n".join(new_lines) + "\n")
+
     return f"OK → {detail}"
 
 

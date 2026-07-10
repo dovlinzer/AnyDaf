@@ -28,7 +28,9 @@
           "display_title": "Avida Legluya",
           "timestamp": "04:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Visual indicators of kosher eggs and their limitations as proof",
@@ -60,7 +62,9 @@
           "display_title": "Scrambled Egg Ban",
           "timestamp": "12:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Simanim lav de'oraita: indicators are insufficient for biblical reliance and require merchant's specific claim",
@@ -92,7 +96,9 @@
           "display_title": "Combined Evidence",
           "timestamp": "20:37"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The practical application by the Rishonim: Tosafot on purchases from non-Jews in medieval Europe",
@@ -114,7 +120,9 @@
           "display_title": "Contextual Leniency",
           "timestamp": "32:11"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Embryonic reptile eggs and the status of mixed or inverted contents",
@@ -151,7 +159,9 @@
           "display_title": "Kosher Embryos",
           "timestamp": "40:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Blood spots on eggs: location, source, and when the whole egg is forbidden",
@@ -183,7 +193,9 @@
           "display_title": "Abaye Reversal",
           "timestamp": "50:51"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Deriving the prohibition on non-kosher bird eggs from the term bat ha-ya'anah (ostrich)",
@@ -205,7 +217,9 @@
           "display_title": "Scriptural Parallels",
           "timestamp": "52:01"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -487,5 +501,6 @@
         "51:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

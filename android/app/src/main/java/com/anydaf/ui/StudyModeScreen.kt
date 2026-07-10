@@ -1,8 +1,11 @@
 package com.anydaf.ui
 
+import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -11,10 +14,12 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material.icons.filled.Bookmark
-import androidx.compose.material.icons.filled.BookmarkBorder
 import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.NavigateNext
 import androidx.compose.material.icons.filled.Print
@@ -27,7 +32,6 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
-import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.ScrollableTabRow
@@ -52,12 +56,14 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.anydaf.data.api.ShiurClient
 import com.anydaf.model.StudyScope
+import com.anydaf.model.TextDisplayMode
 import com.anydaf.model.allTractates
 import com.anydaf.viewmodel.AudioViewModel
-import com.anydaf.viewmodel.BookmarkViewModel
 import com.anydaf.viewmodel.ContentViewModel
 import com.anydaf.viewmodel.ResourcesViewModel
 import com.anydaf.viewmodel.StudySessionViewModel
@@ -67,7 +73,6 @@ import com.anydaf.viewmodel.StudySessionViewModel
 fun StudyModeScreen(
     studyViewModel: StudySessionViewModel,
     audioViewModel: AudioViewModel,
-    bookmarkViewModel: BookmarkViewModel,
     contentViewModel: ContentViewModel,
     resourcesViewModel: ResourcesViewModel,
     onBack: () -> Unit
@@ -138,32 +143,6 @@ fun StudyModeScreen(
                             Button(onClick = { studyViewModel.jumpToAmudB() }, modifier = Modifier.padding(end = 8.dp), colors = activeColors) { Text("b") }
                         }
                     }
-                    if (sessionObj != null) {
-                        val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
-                        val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
-                        val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
-                        IconButton(onClick = {
-                            if (tractateIndex < 0) return@IconButton
-                            if (isBookmarked) {
-                                bookmarkViewModel.existing(tractateIndex, sessionObj.daf.toDouble(), amud)?.let { bookmarkViewModel.delete(it) }
-                            } else {
-                                bookmarkViewModel.add(
-                                    com.anydaf.model.Bookmark(
-                                        name = com.anydaf.model.Bookmark.defaultName(tractateIndex, sessionObj.daf.toDouble(), amud),
-                                        tractateIndex = tractateIndex,
-                                        daf = sessionObj.daf.toDouble(),
-                                        amud = amud,
-                                        studySectionIndex = sessionObj.currentSectionIndex
-                                    )
-                                )
-                            }
-                        }) {
-                            Icon(
-                                if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
-                                "Bookmark"
-                            )
-                        }
-                    }
                 }
             )
         }
@@ -173,7 +152,6 @@ fun StudyModeScreen(
         val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
         StudyModeContent(
             studyViewModel = studyViewModel,
-            bookmarkViewModel = bookmarkViewModel,
             contentViewModel = contentViewModel,
             resourcesViewModel = resourcesViewModel,
             isAudioStopped = isAudioStopped,
@@ -183,7 +161,7 @@ fun StudyModeScreen(
                 if (s != null) {
                     PrintHelper.print(
                         context,
-                        PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.sourceDisplayMode.value),
+                        PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value),
                         printFontSize,
                         printLineSpacing
                     )
@@ -202,7 +180,6 @@ fun StudyModeScreen(
 @Composable
 fun StudyModeContent(
     studyViewModel: StudySessionViewModel,
-    bookmarkViewModel: BookmarkViewModel,
     contentViewModel: ContentViewModel,
     resourcesViewModel: ResourcesViewModel,
     isInline: Boolean = false,
@@ -253,14 +230,8 @@ fun StudyModeContent(
     ) {
         Column(modifier = modifier.fillMaxSize()) {
 
-            // Inline tablet header — session info + A/B jump + bookmark
-            // Inline tablet action bar — single compact row so it never grows tall.
-            // The tractate/daf headline is omitted (visible in the left-panel pickers);
-            // only the current-section label + A/B jumps + bookmark are shown.
+            // Inline tablet header — session info + A/B jumps
             if (isInline && sessionObj != null) {
-                val tractateIndex = allTractates.indexOfFirst { it.name == sessionObj.tractate }
-                val amud = if ((sessionObj.amudBSectionIndex ?: Int.MAX_VALUE) <= sessionObj.currentSectionIndex) 1 else 0
-                val isBookmarked = tractateIndex >= 0 && bookmarkViewModel.isBookmarked(tractateIndex, sessionObj.daf.toDouble(), amud)
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
@@ -286,37 +257,10 @@ fun StudyModeContent(
                         FilledTonalButton(onClick = { studyViewModel.jumpToAmudA() }) { Text("A") }
                         FilledTonalButton(onClick = { studyViewModel.jumpToAmudB() }) { Text("B") }
                     }
-                    IconButton(onClick = {
-                        if (tractateIndex < 0) return@IconButton
-                        if (isBookmarked) {
-                            bookmarkViewModel.existing(tractateIndex, sessionObj.daf.toDouble(), amud)?.let { bookmarkViewModel.delete(it) }
-                        } else {
-                            bookmarkViewModel.add(
-                                com.anydaf.model.Bookmark(
-                                    name = com.anydaf.model.Bookmark.defaultName(tractateIndex, sessionObj.daf.toDouble(), amud),
-                                    tractateIndex = tractateIndex,
-                                    daf = sessionObj.daf.toDouble(),
-                                    amud = amud,
-                                    studySectionIndex = sessionObj.currentSectionIndex
-                                )
-                            )
-                        }
-                    }) {
-                        Icon(
-                            if (isBookmarked) Icons.Default.Bookmark else Icons.Default.BookmarkBorder,
-                            "Bookmark"
-                        )
-                    }
                 }
                 androidx.compose.material3.HorizontalDivider()
             }
 
-            sessionObj?.let {
-                LinearProgressIndicator(
-                    progress = { it.progress.toFloat() },
-                    modifier = Modifier.fillMaxWidth()
-                )
-            }
 
             if (isRateLimited) {
                 androidx.compose.material3.Surface(
@@ -378,16 +322,34 @@ fun StudyModeContent(
                     }
                 }
                 else -> {
-                    // Section X/Y counter — always shown in textOnly mode (tab pill is hidden there)
-                    if (textOnly) {
+                    // Section counter + print button row — always shown
+                    val activeTabForHeader = if (textOnly) 0 else selectedTab
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(start = 16.dp, end = 16.dp, top = 2.dp, bottom = 2.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
                         Text(
                             "Section ${sessionObj.currentSectionIndex + 1} / ${sessionObj.sections.size}",
                             style = MaterialTheme.typography.labelSmall,
-                            color = appFg.copy(alpha = 0.6f),
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(horizontal = 16.dp, vertical = 4.dp)
+                            color = appFg.copy(alpha = 0.6f)
                         )
+                        Spacer(Modifier.weight(1f))
+                        if (activeTabForHeader == 0 && onPrintTranslation != null) {
+                            val blueMode = LocalIsBlueMode.current
+                            IconButton(
+                                onClick = onPrintTranslation,
+                                modifier = Modifier.size(32.dp)
+                            ) {
+                                Icon(
+                                    Icons.Default.Print,
+                                    contentDescription = "Print",
+                                    modifier = Modifier.size(18.dp),
+                                    tint = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface).copy(alpha = 0.5f)
+                                )
+                            }
+                        }
                     }
 
                     if (!textOnly) {
@@ -395,6 +357,7 @@ fun StudyModeContent(
                         ScrollableTabRow(
                             selectedTabIndex = displaySelectedTab,
                             edgePadding = 0.dp,
+                            divider = {},
                             indicator = { tabPositions ->
                                 TabRowDefaults.SecondaryIndicator(
                                     modifier = Modifier.tabIndicatorOffset(tabPositions[displaySelectedTab]),
@@ -420,18 +383,134 @@ fun StudyModeContent(
                     }
 
                     val activeTab = if (textOnly) 0 else selectedTab
+                    // Pre-compute nav state here so it can be captured by the bottomContent lambda
+                    val isFirst = sessionObj.currentSectionIndex == 0
+                    val isLast = sessionObj.currentSectionIndex == sessionObj.sections.size - 1
+                    val tractateObj = allTractates.find { it.name == sessionObj.tractate }
+                    val canGoPrevDaf = tractateObj != null && sessionObj.daf > tractateObj.startDaf
+                    val canGoNextDaf = tractateObj != null && sessionObj.daf < tractateObj.endDaf
+
+                    // Inline segment headers now render at each matched segment's exact raw
+                    // position inside TranslationTab itself (see SectionStudyView.kt), rather
+                    // than once per coarse section — just pass the full shiur segment list.
+                    val shiurSegmentsForHeader by ShiurClient.segments.collectAsState()
+                    val pendingScrollSefariaIndex by studyViewModel.pendingScrollSefariaIndex.collectAsState()
+                    val activeSefariaIndex by studyViewModel.activeSefariaIndex.collectAsState()
+
+                    // Segment pill strip — Translation tab only, same segments/titles as the
+                    // shiur strip in ContentScreen.kt. Pinned above the scrollable tab content
+                    // rather than inside it, mirroring how the shiur strip sits above ShiurTextView.
+                    if (activeTab == 0) {
+                        val curIdx = sessionObj.currentSectionIndex
+                        val curRangeEnd = if (curIdx + 1 < sessionObj.sections.size)
+                            sessionObj.sections[curIdx + 1].firstSegmentIndex else Int.MAX_VALUE
+                        TextNavigationStrip(
+                            currentSection = currentSection,
+                            currentSectionRangeEnd = curRangeEnd,
+                            appFg = appFg,
+                            useWhiteBackground = useWhiteBackground,
+                            activeSefariaIndex = activeSefariaIndex,
+                            onJumpToSefariaIndex = { studyViewModel.jumpToSection(it) }
+                        )
+                    }
+
                     Box(modifier = Modifier.weight(1f)) {
                         when (activeTab) {
                             0 -> TranslationTab(
                                 section = currentSection,
+                                shiurSegments = shiurSegmentsForHeader,
+                                pendingScrollSefariaIndex = pendingScrollSefariaIndex,
+                                onScrollTargetConsumed = { studyViewModel.clearPendingScrollTarget() },
                                 tractate = sessionObj.tractate,
-                                sourceDisplayMode = contentViewModel.sourceDisplayMode.collectAsState().value,
-                                showHebrew = contentViewModel.studyShowHebrew.collectAsState().value,
-                                onShowHebrewChange = { contentViewModel.setStudyShowHebrew(it) },
+                                textDisplayMode = contentViewModel.textDisplayMode.collectAsState().value,
+                                onModeChange = { contentViewModel.selectTextDisplayMode(it) },
                                 precedingContext = sessionObj.precedingContext,
                                 followingContext = sessionObj.followingContext,
                                 isFirstSection = sessionObj.currentSectionIndex == 0,
-                                isLastSection = sessionObj.currentSectionIndex == sessionObj.sections.size - 1
+                                isLastSection = sessionObj.currentSectionIndex == sessionObj.sections.size - 1,
+                                amudBStart = sessionObj.currentSectionIndex == (sessionObj.amudBSectionIndex ?: -1),
+                                daf = sessionObj.daf,
+                                // In textOnly mode the nav buttons live inside the scroll content
+                                bottomContent = if (textOnly) {
+                                    {
+                                        Row(
+                                            modifier = Modifier
+                                                .fillMaxWidth()
+                                                .padding(horizontal = 0.dp, vertical = 8.dp),
+                                            horizontalArrangement = Arrangement.spacedBy(8.dp)
+                                        ) {
+                                            if (isFirst) {
+                                                if (canGoPrevDaf) {
+                                                    OutlinedButton(
+                                                        onClick = {
+                                                            studyViewModel.startSession(
+                                                                tractate = sessionObj.tractate,
+                                                                daf = sessionObj.daf - 1,
+                                                                mode = studyViewModel.studyMode,
+                                                                quizMode = studyViewModel.quizMode,
+                                                                startAtLastSection = true
+                                                            )
+                                                        },
+                                                        modifier = Modifier.weight(1f),
+                                                        colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                                        border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                                    ) {
+                                                        Icon(Icons.AutoMirrored.Filled.ArrowBack, null)
+                                                        Spacer(Modifier.width(4.dp))
+                                                        Text("Prev Daf")
+                                                    }
+                                                } else {
+                                                    Spacer(Modifier.weight(1f))
+                                                }
+                                            } else {
+                                                OutlinedButton(
+                                                    onClick = { studyViewModel.goToPreviousSection() },
+                                                    modifier = Modifier.weight(1f),
+                                                    colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                                    border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                                ) {
+                                                    Icon(Icons.AutoMirrored.Filled.ArrowBack, null)
+                                                    Spacer(Modifier.width(4.dp))
+                                                    Text("Previous")
+                                                }
+                                            }
+                                            if (isLast) {
+                                                if (canGoNextDaf) {
+                                                    OutlinedButton(
+                                                        onClick = {
+                                                            studyViewModel.startSession(
+                                                                tractate = sessionObj.tractate,
+                                                                daf = sessionObj.daf + 1,
+                                                                mode = studyViewModel.studyMode,
+                                                                quizMode = studyViewModel.quizMode
+                                                            )
+                                                        },
+                                                        modifier = Modifier.weight(1f),
+                                                        colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                                        border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                                    ) {
+                                                        Text("Next Daf")
+                                                        Spacer(Modifier.width(4.dp))
+                                                        Icon(Icons.Default.NavigateNext, null)
+                                                    }
+                                                } else {
+                                                    Spacer(Modifier.weight(1f))
+                                                }
+                                            } else {
+                                                OutlinedButton(
+                                                    onClick = { studyViewModel.advanceToNextSection() },
+                                                    modifier = Modifier.weight(1f),
+                                                    colors = ButtonDefaults.outlinedButtonColors(contentColor = appFg),
+                                                    border = BorderStroke(1.dp, appFg.copy(alpha = 0.5f))
+                                                ) {
+                                                    Text("Next")
+                                                    Spacer(Modifier.width(4.dp))
+                                                    Icon(Icons.Default.NavigateNext, null)
+                                                }
+                                            }
+                                        }
+                                    }
+                                } else null
                             )
                             1 -> StudyTab(
                                 section = currentSection,
@@ -452,32 +531,11 @@ fun StudyModeContent(
                                 printLineSpacing = printLineSpacing
                             )
                         }
-                        // Print button overlay — shown only on the Text tab when a print handler is wired
-                        if (activeTab == 0 && onPrintTranslation != null) {
-                            val blueMode = LocalIsBlueMode.current
-                            IconButton(
-                                onClick = onPrintTranslation,
-                                modifier = Modifier
-                                    .align(Alignment.TopEnd)
-                                    .size(40.dp)
-                                    .padding(4.dp)
-                            ) {
-                                Icon(
-                                    Icons.Default.Print,
-                                    contentDescription = "Print",
-                                    modifier = Modifier.size(20.dp),
-                                    tint = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface).copy(alpha = 0.5f)
-                                )
-                            }
-                        }
                     }
 
-                    if (!sessionObj.isComplete) {
-                        val isFirst = sessionObj.currentSectionIndex == 0
-                        val isLast = sessionObj.currentSectionIndex == sessionObj.sections.size - 1
-                        val tractateObj = allTractates.find { it.name == sessionObj.tractate }
-                        val canGoPrevDaf = tractateObj != null && sessionObj.daf > tractateObj.startDaf
-                        val canGoNextDaf = tractateObj != null && sessionObj.daf < tractateObj.endDaf
+                    // Nav row below the content area — only for non-textOnly modes
+                    // (in textOnly mode the buttons are inside the TranslationTab scroll content)
+                    if (!textOnly) {
                         Row(
                             modifier = Modifier
                                 .fillMaxWidth()
@@ -558,6 +616,79 @@ fun StudyModeContent(
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+/**
+ * Pill strip for jumping the Sefaria text to a shiur macro segment — the Translation-tab
+ * counterpart of the shiur chip strip in ContentScreen.kt. Uses the same ShiurClient.segments
+ * (same shiur, same titles) so the two navigation strips always agree.
+ */
+@Composable
+private fun TextNavigationStrip(
+    currentSection: com.anydaf.model.StudySection?,
+    currentSectionRangeEnd: Int,
+    appFg: Color,
+    useWhiteBackground: Boolean,
+    // The segment explicitly navigated to (pill tap or mode-switch sync) — see
+    // StudySessionViewModel.activeSefariaIndex.
+    activeSefariaIndex: Int?,
+    onJumpToSefariaIndex: (Int) -> Unit
+) {
+    val shiurSegments by ShiurClient.segments.collectAsState()
+    if (shiurSegments.isEmpty() || currentSection == null) return
+
+    // Prefers the segment explicitly navigated to, as long as it's still within the current
+    // section's range: several matched segments can share one coarse section, and without this,
+    // tapping any of the earlier ones would always show whichever has the largest anchor as
+    // active instead of the one actually tapped. Falls back to a point lookup at the section's
+    // start otherwise (e.g. after Prev/Next-section navigation, or on first load — a fresh look
+    // at the top of the section should resolve to the FIRST segment it contains, not whichever
+    // anchors last). Mirrors activeShiurSegmentIndex in iOS's StudyModeView.swift.
+    val activeIndex = remember(shiurSegments, currentSection.firstSegmentIndex, currentSectionRangeEnd, activeSefariaIndex) {
+        val start = currentSection.firstSegmentIndex
+        val explicitIdx = activeSefariaIndex?.takeIf { it >= start && it < currentSectionRangeEnd }?.let { idx ->
+            shiurSegments.indexOfFirst { it.sefariaIndex == idx && it.matched == true }.takeIf { it >= 0 }
+        }
+        explicitIdx ?: ShiurClient.owningSegmentIndex(start, shiurSegments)
+    }
+
+    val stripListState = rememberLazyListState()
+    LaunchedEffect(activeIndex) {
+        activeIndex?.let { stripListState.animateScrollToItem(it) }
+    }
+    LazyRow(
+        state = stripListState,
+        horizontalArrangement = Arrangement.spacedBy(6.dp),
+        contentPadding = PaddingValues(horizontal = 12.dp),
+        modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp)
+    ) {
+        itemsIndexed(shiurSegments) { index, seg ->
+            val isActive = index == activeIndex
+            // Disabled when we KNOW this segment has no real anchor of its own (matched ==
+            // false — a carried-forward placeholder like "Introduction" that only inherits its
+            // sefariaIndex from whatever it followed). matched == null (not yet computed for
+            // this daf) stays enabled, same as before this field existed.
+            val isUnmatched = seg.matched == false
+            Box(
+                modifier = Modifier
+                    .clip(RoundedCornerShape(50))
+                    .background(if (isActive) appFg.copy(alpha = 0.85f) else appFg.copy(alpha = 0.15f))
+                    .clickable(enabled = seg.sefariaIndex != null && !isUnmatched) {
+                        seg.sefariaIndex?.let(onJumpToSefariaIndex)
+                    }
+                    .padding(horizontal = 10.dp, vertical = 4.dp)
+            ) {
+                Text(
+                    text = seg.displayTitle,
+                    style = MaterialTheme.typography.labelSmall,
+                    color = if (isActive) {
+                        if (useWhiteBackground) Color.White else AppBlue
+                    } else appFg.copy(alpha = if (seg.sefariaIndex == null || isUnmatched) 0.4f else 0.8f),
+                    maxLines = 1
+                )
             }
         }
     }

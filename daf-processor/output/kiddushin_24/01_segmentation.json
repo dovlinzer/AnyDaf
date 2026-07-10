@@ -38,7 +38,9 @@
           "display_title": "Friend's Get Shichrur",
           "timestamp": "06:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mechanics of Slave Acquisition and Conditional Gifts: Rabbi Meir vs. Chachamim",
@@ -70,7 +72,9 @@
           "display_title": "Ownership Dispute",
           "timestamp": "11:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Ma'aser Sheni Baraita and Its Apparent Contradiction to the Eved Kanaani Dispute",
@@ -102,7 +106,9 @@
           "display_title": "Ma'aser Ownership",
           "timestamp": "22:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mechanisms of Slave Freedom: Injury to Teeth, Eyes, and Other Limbs",
@@ -134,7 +140,9 @@
           "display_title": "Chachamim Compromise",
           "timestamp": "33:12"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Distinction Between Direct and Indirect Injury: Contact vs. Non-Contact Injury",
@@ -166,7 +174,9 @@
           "display_title": "Blowing Baraita",
           "timestamp": "35:15"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -412,5 +422,6 @@
         "10:53"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

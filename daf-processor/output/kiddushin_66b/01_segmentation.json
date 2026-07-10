@@ -48,7 +48,9 @@
           "display_title": "Kohen Ben Gerusha",
           "timestamp": "18:41"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Mishnah on Yichus: Paternal vs. Maternal Descent and the Rules of Lineage",
@@ -90,7 +92,9 @@
           "display_title": "Matrilineal Descent",
           "timestamp": "28:10"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Testing the Rule: Exceptions and Applications Not Listed in the Mishnah",
@@ -142,7 +146,9 @@
           "display_title": "Category Resolution",
           "timestamp": "48:02"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     },
     {
       "title": "Non-Jewish Nations and Tribal Identity: Paternal Descent Among Goyim",
@@ -169,7 +175,9 @@
           "display_title": "Reverse Case",
           "timestamp": "52:06"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -414,5 +422,6 @@
         "05:14"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

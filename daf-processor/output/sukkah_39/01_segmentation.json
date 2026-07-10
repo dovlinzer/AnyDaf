@@ -23,7 +23,9 @@
           "display_title": "Torah & Megillah",
           "timestamp": "01:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Teaching on Breaking Divine Names in Blessings",
@@ -40,7 +42,9 @@
           "display_title": "Context & Completion",
           "timestamp": "03:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Practices of Doubling in Hallel and the Role of Repetition",
@@ -72,7 +76,9 @@
           "display_title": "Ana Hashem",
           "timestamp": "06:53"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Blessing Hallel: Obligation, Timing, and Nature of the Beracha",
@@ -124,7 +130,9 @@
           "display_title": "Melech Mehulal",
           "timestamp": "15:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Tosafot on Over L'Asiyasan: The Timing of Blessing and the Role of Nanuim",
@@ -156,7 +164,9 @@
           "display_title": "Nanuim Status",
           "timestamp": "21:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Mishnah: Buying Lulav and Esrog in the Shemitah Year",
@@ -178,7 +188,9 @@
           "display_title": "No Gift Given",
           "timestamp": "25:08"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Huna's Solution: Bundling the Esrog with the Lulav Price",
@@ -190,7 +202,9 @@
           "display_title": "Free Gift Strategy",
           "timestamp": "25:13"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Prohibition on Buying Esrog: Money Used for Shemitah Produce and Misuse",
@@ -222,7 +236,9 @@
           "display_title": "Am Ha'aretz Risk",
           "timestamp": "30:00"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Doing Business vs. Selling: The Permissibility of Occasional Sales of Shemitah Produce",
@@ -249,7 +265,9 @@
           "display_title": "Reselling Profit",
           "timestamp": "33:13"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Gemara's Question: Why Can't You Buy Lulav if Esrog Has Kedusha?",
@@ -261,7 +279,9 @@
           "display_title": "Lulav Parallel",
           "timestamp": "43:39"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Year Determination: When Produce Belongs to Which Shemitah Cycle",
@@ -288,7 +308,9 @@
           "display_title": "Vegetable Analogy",
           "timestamp": "45:42"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Talmudic Debate: Esrog's Classification as Tree or Vegetable for Shemitah",
@@ -325,7 +347,9 @@
           "display_title": "Final Ruling",
           "timestamp": "51:11"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Practical Consequence: Sixth-Year Lulav, Shemitah Esrog at Erev Sukkot",
@@ -347,7 +371,9 @@
           "display_title": "Lulav Kedusha Q",
           "timestamp": "52:21"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -723,5 +749,6 @@
         "51:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

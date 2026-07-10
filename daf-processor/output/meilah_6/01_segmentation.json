@@ -18,7 +18,9 @@
           "display_title": "Zrikat Pigul",
           "timestamp": "01:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Nosar (Leftover Meat) and the Moment of Status Change: Before or After Zrika",
@@ -50,7 +52,9 @@
           "display_title": "Rashi: Nosar Reading",
           "timestamp": "09:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pigul (Improper Intent) and the Timing of Status Change: Before or After Zrika",
@@ -72,7 +76,9 @@
           "display_title": "Gemara: Why Zrika Not Ka…",
           "timestamp": "12:27"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Pigul (Improper Intent) and the Timing of Status Change: Before or After Zrika (continued)",
@@ -89,7 +95,9 @@
           "display_title": "Braita: Pigul Me'ilah",
           "timestamp": "16:25"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Bringing Into vs. Taking Out of Me'ilah: Different Standards for Questionable Zrika",
@@ -111,7 +119,9 @@
           "display_title": "Kol Ha-Apokei",
           "timestamp": "29:11"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Psul Yotzei (Removed from Temple Bounds): The Status of Disqualified Meat in Kodshei Kodashim",
@@ -133,7 +143,9 @@
           "display_title": "R. Akiva: Status Changes",
           "timestamp": "34:43"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Psul Yotzei in Kodshim Kalim: The Parallel Dispute and Evidence for Different Standards",
@@ -155,7 +167,9 @@
           "display_title": "Why Both Cases",
           "timestamp": "42:03"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Miktzato (Partial Removal) vs. Kulo (Total Removal): The Limits of Zrika's Effectiveness for Yotzei",
@@ -172,7 +186,9 @@
           "display_title": "Miktzato vs. Kulo",
           "timestamp": "47:02"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "Machsheves Pigul on Objects That No Longer Exist: Expanding the Scope of Pigul Disqualification",
@@ -189,7 +205,9 @@
           "display_title": "Implication Teased",
           "timestamp": "48:04"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -579,5 +597,6 @@
         "48:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

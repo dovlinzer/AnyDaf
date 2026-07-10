@@ -48,7 +48,9 @@
           "display_title": "Rabbi Yochanan's Solution",
           "timestamp": "11:53"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The General Framework of Miruach and Ownership: When Does Hekdesh and Non-Jewish Ownership Exempt from Ma'asrot",
@@ -80,7 +82,9 @@
           "display_title": "Terumot Separation Rules",
           "timestamp": "18:45"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Gilgul (Kneading of Dough) and the Obligation in Challah: Hekdesh and Non-Jewish Ownership",
@@ -132,7 +136,9 @@
           "display_title": "Alternative Loopholes",
           "timestamp": "47:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishnah's Description of the Omer Service: Preparation, Offering, and Public Distribution of Roasted Grain",
@@ -164,7 +170,9 @@
           "display_title": "Reishit Concerns",
           "timestamp": "54:01"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -400,5 +408,6 @@
         "54:59"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

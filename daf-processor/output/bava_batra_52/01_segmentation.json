@@ -33,7 +33,9 @@
           "display_title": "Rashbam Analysis",
           "timestamp": "02:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Family Possession Rights: Father and Son, No Chazaka When Living Together",
@@ -70,7 +72,9 @@
           "display_title": "Baraita Support",
           "timestamp": "07:55"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Undivided Estate Administered by One Brother: Burden of Proof for Personal Funds",
@@ -122,7 +126,9 @@
           "display_title": "Suspicion Factor",
           "timestamp": "21:58"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Limiting the Burden of Proof: Personal Income and Reasonable Sources",
@@ -144,7 +150,9 @@
           "display_title": "Plausible Sources",
           "timestamp": "28:36"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Forms of Proof for Personal Fund Claims: Witnesses vs. Document Validation",
@@ -171,7 +179,9 @@
           "display_title": "Baraita Text",
           "timestamp": "32:53"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Widow as Estate Administrator: Trust and Suspicion Despite Selfless Service",
@@ -183,7 +193,9 @@
           "display_title": "Widow Role",
           "timestamp": "33:26"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Forms of Proof for Personal Fund Claims: Witnesses vs. Document Validation (continued)",
@@ -195,7 +207,9 @@
           "display_title": "Rava's Concession",
           "timestamp": "34:50"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Widow as Estate Administrator: Trust and Suspicion Despite Selfless Service (continued)",
@@ -212,7 +226,9 @@
           "display_title": "Suspicion Universal",
           "timestamp": "35:58"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Two Distinct Uses of Chazaka: Evidence vs. Act of Transfer",
@@ -239,7 +255,9 @@
           "display_title": "Acts List",
           "timestamp": "41:27"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Acquisitional Chazaka: Presence, Consent, and the Mechanics of Finalization",
@@ -271,7 +289,9 @@
           "display_title": "Gift Answer",
           "timestamp": "48:30"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Qualitative Threshold for Chazaka Acts: 'Kol SheHu' and Meaningful Improvement",
@@ -303,7 +323,9 @@
           "display_title": "Na'al Debate",
           "timestamp": "51:08"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -603,5 +625,6 @@
         "31:28"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

@@ -28,7 +28,9 @@
           "display_title": "Abraham's Bakol",
           "timestamp": "06:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Death of the Righteous and the Preservation of Bodies",
@@ -60,7 +62,9 @@
           "display_title": "Four Sinless Deaths",
           "timestamp": "28:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Digging Cisterns and Wells: Distance Requirements from Neighbor's Property",
@@ -87,7 +91,9 @@
           "display_title": "Millstones & Ovens",
           "timestamp": "37:02"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Wall of the Cistern as Standard Width and Its Implications",
@@ -104,7 +110,9 @@
           "display_title": "Sale Agreement",
           "timestamp": "41:14"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Debate: Can One Dig a Cistern at the Property Boundary Line?",
@@ -131,7 +139,9 @@
           "display_title": "Rabbi Yose Exception",
           "timestamp": "49:05"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Resolving the Mishna: Why the Wall is Mentioned and Distance Always Required",
@@ -153,7 +163,9 @@
           "display_title": "Abaye's Reading",
           "timestamp": "58:17"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -283,5 +295,6 @@
         "14:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

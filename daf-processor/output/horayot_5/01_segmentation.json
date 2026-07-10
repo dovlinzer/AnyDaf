@@ -28,7 +28,9 @@
           "display_title": "Partial Mezid",
           "timestamp": "03:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Who Brings the Korban: Dispute Between Rebbi Meir and Rebbi Yehuda on Beis Din vs. Tzibbur Responsibility",
@@ -50,7 +52,9 @@
           "display_title": "Rebbi Yehuda",
           "timestamp": "06:27"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Conceptual Basis for Tzibbur Obligation: Corporate Sin vs. Individual Sin through Ruling",
@@ -67,7 +71,9 @@
           "display_title": "Tribal Units",
           "timestamp": "07:25"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Who Brings the Korban: Dispute Between Rebbi Meir and Rebbi Yehuda on Beis Din vs. Tzibbur Responsibility (continued)",
@@ -84,7 +90,9 @@
           "display_title": "Partial Tribes",
           "timestamp": "10:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Exploration: Secondary Responsibility of Tribes That Did Not Sin",
@@ -96,7 +104,9 @@
           "display_title": "Grira Principle",
           "timestamp": "11:18"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Exploration: Secondary Responsibility of Tribes That Did Not Sin (continued)",
@@ -113,7 +123,9 @@
           "display_title": "No Secondary",
           "timestamp": "13:09"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Conceptual Basis for Tzibbur Obligation: Corporate Sin vs. Individual Sin through Ruling (continued)",
@@ -125,7 +137,9 @@
           "display_title": "Mutual Responsibility",
           "timestamp": "11:30"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Local Beis Din vs. Beis Din Hagadol: Scope of Obligation for Individual Tribes",
@@ -147,7 +161,9 @@
           "display_title": "Central Court",
           "timestamp": "15:24"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Baraita on Knowledge of Specific Sin and Derasha from Torah Verses",
@@ -169,7 +185,9 @@
           "display_title": "Kahal Interpretation",
           "timestamp": "22:35"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rebbi Meir and Rebbi Shimon's Textual Basis for Dual Obligation",
@@ -186,7 +204,9 @@
           "display_title": "Shimon's Link",
           "timestamp": "24:33"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Baraita on Knowledge of Specific Sin and Derasha from Torah Verses (continued)",
@@ -198,7 +218,9 @@
           "display_title": "Rebbi Eliezer",
           "timestamp": "27:27"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rebbi Meir and Rebbi Shimon's Textual Basis for Dual Obligation (continued)",
@@ -215,7 +237,9 @@
           "display_title": "Three Mentions",
           "timestamp": "31:07"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rebbi Shimon ben Elazar's Doctrine: Dual Measures of Majority",
@@ -232,7 +256,9 @@
           "display_title": "Six or Seven",
           "timestamp": "35:39"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Ambiguity in Rebbi Yehuda's Position on Secondary Obligation's Scope",
@@ -254,7 +280,9 @@
           "display_title": "Central Court Theory",
           "timestamp": "39:34"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Ambiguity in Rebbi Yehuda's Position on Secondary Obligation's Scope (continued)",
@@ -271,7 +299,9 @@
           "display_title": "Collective via Central",
           "timestamp": "47:45"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Local Beis Din vs. Beis Din Hagadol: Scope of Obligation for Individual Tribes (continued)",
@@ -283,7 +313,9 @@
           "display_title": "One Tribe Korban",
           "timestamp": "46:33"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Rebbi Shimon's Position on Single Tribe with Central Court Ruling",
@@ -315,7 +347,9 @@
           "display_title": "Conclusion",
           "timestamp": "53:11"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Textual Support for Individual Tribe as 'Kahal': Verses on Joshua and Jacob",
@@ -347,7 +381,9 @@
           "display_title": "Benjamin Proof",
           "timestamp": "55:23"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -532,5 +568,6 @@
         "38:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -28,7 +28,9 @@
           "display_title": "Arez & Sasmagor",
           "timestamp": "03:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Mezuzah in the Chambers of the Beit HaMikdash",
@@ -45,7 +47,9 @@
           "display_title": "Rav Pappa's Solution",
           "timestamp": "08:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Discussion of Yeridat HaDorot and the Absence of the Third Beit HaMikdash (continued)",
@@ -57,7 +61,9 @@
           "display_title": "Rabbi Yochanan's Response",
           "timestamp": "09:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Identification of Nations and Empires in Relation to the Verse 'Yaft Elokim Leyafet'",
@@ -94,7 +100,9 @@
           "display_title": "The Giants",
           "timestamp": "22:25"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rome and Persia: Future Dominion and the Coming of Mashiach",
@@ -126,7 +134,9 @@
           "display_title": "Mashiach & Rome",
           "timestamp": "33:20"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Mishnah on Mezuzah in the Chambers of the Beit HaMikdash (continued)",
@@ -143,7 +153,9 @@
           "display_title": "Rabbi Yehudah's Objection",
           "timestamp": "35:12"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Halachic Analysis of Livable Spaces and the Mezuzah Obligation",
@@ -190,7 +202,9 @@
           "display_title": "Decree on Lishkat",
           "timestamp": "51:56"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -454,5 +468,6 @@
         "01:57"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

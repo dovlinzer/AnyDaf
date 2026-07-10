@@ -18,7 +18,9 @@
           "display_title": "Yored Bireshut",
           "timestamp": "00:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shmuel's Statement on Work Without Explicit Permission",
@@ -40,7 +42,9 @@
           "display_title": "Harebrained Ideas",
           "timestamp": "10:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Partners Testifying as Witnesses on Shared Property",
@@ -72,7 +76,9 @@
           "display_title": "Achrayut Permits Testimo…",
           "timestamp": "28:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Whether Partners Can Renounce Their Stake and Testify",
@@ -109,7 +115,9 @@
           "display_title": "Fixed Contributions",
           "timestamp": "43:16"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Rishonim's Solutions: Techilato Pasul vs. Ba'al Din vs. Nogei'a",
@@ -126,7 +134,9 @@
           "display_title": "Ra'avad Framework",
           "timestamp": "47:44"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Shomer Sachar Zeh L'Zeh: Partners as Guardians of Each Other's Portions",
@@ -143,7 +153,9 @@
           "display_title": "Alternating Watch Days",
           "timestamp": "52:27"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Sale of Property and Testimony: Achrayut's Role",
@@ -165,7 +177,9 @@
           "display_title": "Difference Question",
           "timestamp": "54:39"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -440,5 +454,6 @@
         "54:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

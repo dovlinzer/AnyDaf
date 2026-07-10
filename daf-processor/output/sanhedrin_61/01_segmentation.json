@@ -23,7 +23,9 @@
           "display_title": "Source & Derivation",
           "timestamp": "02:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Why Slaughtering Is the Paradigm and Prostration Is a Separate Category: The Counterfactual Debate",
@@ -50,7 +52,9 @@
           "display_title": "Eichah Ye'avdu Phrase",
           "timestamp": "19:52"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Debate Over When One Becomes Liable for Avodah Zarah: Actual Worship versus Verbal Commitment",
@@ -92,7 +96,9 @@
           "display_title": "Ravina's Answer",
           "timestamp": "22:46"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -391,5 +397,6 @@
         "18:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

@@ -18,7 +18,9 @@
           "display_title": "New Topics Intro",
           "timestamp": "01:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "A Son Inherits from His Mother: The Drasha and Its Legal Significance",
@@ -50,7 +52,9 @@
           "display_title": "Rabbi Zechariah Equal",
           "timestamp": "11:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Debate Over Equal Inheritance from the Mother: Tannaim and Amoraim Weigh In",
@@ -77,7 +81,9 @@
           "display_title": "Rav Nachman Traditions",
           "timestamp": "28:28"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Patriarchal Logic Behind the Order of Inheritance: Rabbi Yannai and Rabbi Yehuda Nesia",
@@ -94,7 +100,9 @@
           "display_title": "Bechor Double Portion",
           "timestamp": "31:46"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Bechor Double Portion from Mother's Estate: Does It Apply?",
@@ -111,7 +119,9 @@
           "display_title": "Rava Father Only",
           "timestamp": "39:08"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "A Husband Inherits from His Wife: The Drasha and Interpretive Debates",
@@ -148,7 +158,9 @@
           "display_title": "Yishmael Five Proofs",
           "timestamp": "41:17"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -528,5 +540,6 @@
         "40:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

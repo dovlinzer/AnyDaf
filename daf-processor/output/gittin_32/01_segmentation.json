@@ -18,7 +18,9 @@
           "display_title": "Core Topics Preview",
           "timestamp": "01:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah on Annulling a Get: Cases and the Takana of Rabban Gamliel",
@@ -45,7 +47,9 @@
           "display_title": "Rabban Gamliel Takana",
           "timestamp": "06:49"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis of the Mishnah: The Requirement of Communication and Intent",
@@ -82,7 +86,9 @@
           "display_title": "Tosafot Devarim Shebelev",
           "timestamp": "19:08"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Formula for Annulment: Batel vs. Other Formulations",
@@ -109,7 +115,9 @@
           "display_title": "Abaye Context Analysis",
           "timestamp": "28:06"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Ravina's Questions: Formula Variations and Ambiguities in Annulment Language",
@@ -136,7 +144,9 @@
           "display_title": "Hekdesh Hefker Compare",
           "timestamp": "36:04"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Can the Annulment Be Reversed? The Dispute Between Rav Nachman and Rav Sheshet",
@@ -168,7 +178,9 @@
           "display_title": "Tosafot Annul Get",
           "timestamp": "42:28"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Original Practice: Annulment in a Beis Din; The Question of Two vs. Three Judges",
@@ -190,7 +202,9 @@
           "display_title": "Agency vs Document",
           "timestamp": "46:43"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -376,5 +390,6 @@
         "47:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

@@ -23,7 +23,9 @@
           "display_title": "Arel, Onen, Yoshev",
           "timestamp": "01:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of Arel (Uncircumcised Kohen)",
@@ -40,7 +42,9 @@
           "display_title": "Arel as Lav",
           "timestamp": "03:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Onen (Mourner in First Day)",
@@ -62,7 +66,9 @@
           "display_title": "Chilul Limitation",
           "timestamp": "06:05"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of Yoshev (Kohen Sitting While Serving)",
@@ -79,7 +85,9 @@
           "display_title": "Yoshev as Lav",
           "timestamp": "07:13"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Case of Baal Mum (Kohen with Physical Blemish)",
@@ -91,7 +99,9 @@
           "display_title": "Rebbi's View",
           "timestamp": "07:38"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Structural Conclusion: Progression to Chanuk and Chelek Chapters",
@@ -113,7 +123,9 @@
           "display_title": "Chanuk Default",
           "timestamp": "08:42"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Cases Punishable by Chanuk (Strangulation)",
@@ -130,7 +142,9 @@
           "display_title": "Bas Kohen",
           "timestamp": "08:42"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "The Case of Baal Mum (Kohen with Physical Blemish) (continued)",
@@ -142,7 +156,9 @@
           "display_title": "Blemish Source",
           "timestamp": "09:06"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Case of Baal Mum (Kohen with Physical Blemish) (continued) (continued)",
@@ -159,7 +175,9 @@
           "display_title": "Chachamim View",
           "timestamp": "09:27"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Case of Me'ilah (Misappropriation of Sacred Items)",
@@ -171,7 +189,9 @@
           "display_title": "Rebbi on Me'ilah",
           "timestamp": "09:20"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Case of Me'ilah (Misappropriation of Sacred Items) (continued)",
@@ -188,7 +208,9 @@
           "display_title": "Chachamim Exclude",
           "timestamp": "09:27"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The Case of Zar Sheshimesh (Non-Kohen Serving in Temple)",
@@ -220,7 +242,9 @@
           "display_title": "Three Opinions",
           "timestamp": "09:27"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Makeh Aviv Ve-Imo (One Who Strikes Father or Mother)",
@@ -257,7 +281,9 @@
           "display_title": "Accidental Wounding",
           "timestamp": "53:36"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -438,5 +464,6 @@
         "53:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

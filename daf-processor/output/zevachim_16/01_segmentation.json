@@ -18,7 +18,9 @@
           "display_title": "Kabbalat HaDam Review",
           "timestamp": "00:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Non-Kohen (Zar): Source for Prohibition and the Tzad HaShaveh Framework",
@@ -50,7 +52,9 @@
           "display_title": "Common Denominator Accep…",
           "timestamp": "05:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kal VaChomer from Yoshev (sitting Kohen) and Return to Tzad HaShaveh",
@@ -87,7 +91,9 @@
           "display_title": "General Rule Established",
           "timestamp": "11:36"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Onen (Mourner): Proof that Onen Invalidates Sacrifice",
@@ -149,7 +155,9 @@
           "display_title": "Tamei Exception Analogy",
           "timestamp": "25:21"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rava's Proposal: Onen Invalidates only by Korban Yachid, not Tzibur",
@@ -166,7 +174,9 @@
           "display_title": "Rava's Logic Grid",
           "timestamp": "32:19"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Rava Bar Ahilai's Refutation: Multiple Kal VaChomer Possibilities Undermine Rava's Logic",
@@ -198,7 +208,9 @@
           "display_title": "Pshat Conclusion",
           "timestamp": "41:56"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -478,5 +490,6 @@
         "02:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -18,7 +18,9 @@
           "display_title": "Tikkun/Tashlumin",
           "timestamp": "02:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Cosmology and Astronomy: The Rakia, Sun's Path, and Duration of a Mil",
@@ -50,7 +52,9 @@
           "display_title": "Geography Season",
           "timestamp": "10:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah: Differences Between Pesach Rishon and Pesach Sheni",
@@ -72,7 +76,9 @@
           "display_title": "Override Shabbat",
           "timestamp": "13:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Kekhol Chukat HaPesach and the Classification of Mitzvot",
@@ -99,7 +105,9 @@
           "display_title": "Lo Totzi/Chaburah",
           "timestamp": "28:33"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Question of Hallel: When It Is Recited and Its Connection to Chag and Shechirat Pesach",
@@ -126,7 +134,9 @@
           "display_title": "Shechirah Hallel",
           "timestamp": "46:32"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Pesach Sheni and Lina: Whether an Overnight Stay Is Required",
@@ -138,7 +148,9 @@
           "display_title": "Tosefta Lina",
           "timestamp": "51:03"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Pesach She-Ba B'Tumah: Zvaim, Niddot, and Yoldot Unable to Eat; Exemption from Karet",
@@ -170,7 +182,9 @@
           "display_title": "Rava Heikhal",
           "timestamp": "53:13"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -417,5 +431,6 @@
         "53:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

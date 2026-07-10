@@ -48,7 +48,9 @@
           "display_title": "Rav Asi's Flight",
           "timestamp": "11:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Halakhic Framework: Obligations of Kibbud and Mora During and After Life",
@@ -85,7 +87,9 @@
           "display_title": "Ma'aser Ani",
           "timestamp": "25:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Extremes of Kibbud and the Testing of Emotional Restraint",
@@ -107,7 +111,9 @@
           "display_title": "Shmuel Rebuke",
           "timestamp": "36:29"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Prioritization of Obligations: Kibbud Av Va'em Against Other Mitzvot",
@@ -129,7 +135,9 @@
           "display_title": "Matna's Ruling",
           "timestamp": "41:25"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Special Status of Teacher's Honor: Beyond the Parent's Right to Forgive",
@@ -146,7 +154,9 @@
           "display_title": "Torah Ownership",
           "timestamp": "45:11"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Social Status and Hierarchical Respect: The Standing-Up Dispute",
@@ -163,7 +173,9 @@
           "display_title": "Hidur Rising",
           "timestamp": "46:29"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -425,5 +437,6 @@
         "47:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

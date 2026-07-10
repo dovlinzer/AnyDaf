@@ -28,7 +28,9 @@
           "display_title": "First/Second Brood",
           "timestamp": "02:15"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Question of Breira and Non-Specific Designation",
@@ -60,7 +62,9 @@
           "display_title": "Rava's Answer",
           "timestamp": "15:32"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Preventing Mind-Change: Why Pre-Yom Tov Designation is Mandatory",
@@ -82,7 +86,9 @@
           "display_title": "Rejection Risk",
           "timestamp": "19:43"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Identifying Chickens After Designation: Changed Appearance and Number Discrepancies",
@@ -114,7 +120,9 @@
           "display_title": "Three→Two Case",
           "timestamp": "28:39"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Rabbinical Debate on Subset vs. Complete Replacement",
@@ -141,7 +149,9 @@
           "display_title": "Bundling Logic",
           "timestamp": "38:49"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Inside the Nest vs. Outside the Nest: Rov vs. Karov",
@@ -163,7 +173,9 @@
           "display_title": "Plank Scenario",
           "timestamp": "46:03"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Two Nests, One Above the Other: Ambiguity About Source of Found Bird",
@@ -195,7 +207,9 @@
           "display_title": "Sightline Rule",
           "timestamp": "52:27"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -492,5 +506,6 @@
         "18:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

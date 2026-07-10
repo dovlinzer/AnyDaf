@@ -38,7 +38,9 @@
           "display_title": "Machloket Framework",
           "timestamp": "07:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Ulla's Precision in Neder Language and the Breadth of Vegetable Categories",
@@ -60,7 +62,9 @@
           "display_title": "Rashba's Extension",
           "timestamp": "10:07"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Core Disagreement: Specification as Inclusion or Exclusion",
@@ -82,7 +86,9 @@
           "display_title": "Abaye: Malkot vs. Issur",
           "timestamp": "12:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Shlichut Principles: The Agent's Role in Executing a Neder",
@@ -99,7 +105,9 @@
           "display_title": "Ein Shaliach L'Aveira",
           "timestamp": "18:55"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Shlichut Principles: The Agent's Role in Executing a Neder (continued)",
@@ -111,7 +119,9 @@
           "display_title": "Mishna: Meila",
           "timestamp": "23:45"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Meila Exception: When Shaliach Performs the Task Correctly",
@@ -133,7 +143,9 @@
           "display_title": "Attribution Problem",
           "timestamp": "26:10"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Clarifying Meat and Poultry Categories in Neder",
@@ -155,7 +167,9 @@
           "display_title": "Poultry vs. Fish Q",
           "timestamp": "37:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Medical Context: Bloodletting and Dietary Restrictions After Hakazat Dam",
@@ -187,7 +201,9 @@
           "display_title": "Fish & Eyes Remedy",
           "timestamp": "50:04"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -418,5 +434,6 @@
         "48:56"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

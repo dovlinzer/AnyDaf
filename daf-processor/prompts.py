@@ -276,7 +276,18 @@ the Sefaria text for that daf (and, where available, the end of the preceding da
 the beginning of the following daf as supplementary context).
 
 Your task is to insert the Sefaria source text after the relevant essay headings, \
-then strip all HTML comments from the prose. Work in three explicit steps.
+then strip all HTML comments from the prose. Work through the four steps below \
+internally, as your own private reasoning process — they are not a template for \
+your response.
+
+Your response must contain NOTHING but the final document: it starts directly with \
+the essay's own first heading line (e.g. "# Avodah Zarah 2 — Daf Yomi Shiur") and \
+contains only headings, blockquotes, and essay prose. Do not include the words \
+"STEP 1", "STEP 2", "STEP 3", "STEP 4", or any other step label. Do not include any \
+analysis, alignment notes, section-by-section commentary, or explanation of your \
+reasoning — none of that belongs in the response. If you catch yourself writing a \
+sentence that describes what you are about to do rather than being part of the essay \
+itself, delete it.
 
 ─── STEP 1: ALIGNMENT ───────────────────────────────────────────────────────────
 
@@ -300,6 +311,14 @@ section's source begins immediately after it. Do not skip backwards.
 continues from where the previous section left off.
 - If a section discusses a passage that appears in none of the three Sefaria blocks \
 provided, leave that section without a blockquote.
+- Commentary sections (e.g. Tosafot, Rashi, other Rishonim) very often analyze a \
+passage that an EARLIER section already quoted — most commonly the Mishnah. That is \
+normal and does not mean the section needs, or should be given, a blockquote of its \
+own. Never assign such a section text whose real anchor belongs to a LATER section \
+just to avoid leaving it without a blockquote — a commentary section discussing \
+already-quoted material correctly has no blockquote at all (see the "no new Sefaria \
+text" rule below). A section earns a blockquote only when ITS OWN body contains an \
+anchor for NEW Sefaria text, or when genuinely-pending text (see below) belongs to it.
 
 ─── STEP 2: INSERTION ───────────────────────────────────────────────────────────
 
@@ -350,6 +369,17 @@ placeholder. If condition (2) fails — meaning there ARE Sefaria segments that 
 after your last insertion point and before the next real anchor — those segments \
 must be inserted here as a blockquote.
 
+CRITICAL CAVEAT before backfilling pending segments into an anchor-less section: \
+first check whether the essay's NEXT section (the one that actually has an anchor) \
+has its own HTML comment early in its body whose matched Sefaria position is AT or \
+NEAR the start of that "pending" stretch. If so, that pending text is what the next \
+section is quoting — it belongs there, not here. In that case leave the CURRENT \
+(anchor-less) section with no blockquote, and let the next section's blockquote \
+begin from the pending text's actual start. Only backfill pending text into the \
+current section when the following section's own anchor clearly starts LATER than \
+the pending stretch — i.e. when that text genuinely belongs to no other section and \
+would otherwise be silently dropped.
+
 CORRECT format for a section with no new Sefaria text and no pending segments:
   ### Section Title
   [full essay prose for this section — never omitted]
@@ -370,13 +400,40 @@ yourself omitting a paragraph or condensing multiple sentences into one, stop �
 is an error. The essay prose is fixed input; your only job is to add blockquotes and \
 strip comments.
 
+CRITICAL — NEVER DROP OR MERGE A HEADING: every ## and ### heading line in the input \
+essay must appear, verbatim and exactly once, in your output — in the same order, \
+with nothing merged together. This applies EVEN WHEN a section gets no blockquote of \
+its own (a section with no new Sefaria text still keeps its own heading line, \
+immediately followed by its own prose — see the "no new Sefaria text" format above). \
+A common trap: sometimes several consecutive ## / ### sections all discuss the SAME \
+single, indivisible Sefaria segment (the lecturer moved through it slowly across \
+several micro-topics, but Sefaria itself has no smaller unit to split it into). In \
+that case, insert the blockquote ONCE, under the FIRST such section — but the \
+following sections still each keep their own heading line with no blockquote beneath \
+it, exactly as if they were ordinary anchor-less commentary sections. Do NOT respond \
+to "this text was already quoted above" by deleting the later headings and silently \
+concatenating their prose into the first section — that discards real document \
+structure and is a serious error, not a minor formatting choice.
+
 FORMAT for each inserted blockquote:
   > **Hebrew/Aramaic:** [full passage, copied exactly from the Sefaria text, \
 including any מַתְנִי׳ / גְּמָ׳ label at the start]
   >
-  > **Translation:** [English translation from the Sefaria text, with **bold** for \
-Talmudic source text and plain text for Rashi/commentary additions, including any \
+  > **Translation:** [English translation from the Sefaria text, including any \
 MISHNA / GEMARA label at the start]
+
+CRITICAL — PRESERVE THE SEFARIA TRANSLATION'S EXISTING **BOLD** MARKUP EXACTLY: \
+the Sefaria translation text you are copying already contains its own **bold** \
+markdown — bold marks the literal Talmudic source words, plain text marks Rashi/ \
+commentary interpolations that Sefaria adds for readability. This bold/plain \
+distinction already exists character-for-character in the Sefaria text provided to \
+you; your job is to copy it through unchanged, exactly like copying any other part \
+of the passage verbatim. Do NOT decide for yourself which words look like Talmudic \
+text and re-derive the bolding, and do NOT drop the ** markers while transcribing. \
+Copy every ** pair from the source Sefaria segment into your blockquote in the same \
+position relative to the surrounding words. A translation blockquote with zero \
+**bold** spans in it is a strong signal that you dropped this formatting — check \
+the corresponding Sefaria segment above and restore it before finishing.
 
 ─── STEP 3: COMMENT REMOVAL ─────────────────────────────────────────────────────
 
@@ -384,6 +441,29 @@ After completing all blockquote insertions, scan the entire output and remove ev
 HTML comment (<!-- ... -->) from the prose. The final document must contain no HTML \
 comments anywhere. Every word of prose (excluding the removed comments) must appear \
 in the output unchanged.
+
+─── STEP 4: VERIFICATION ────────────────────────────────────────────────────────
+
+Before finishing, compare the ## and ### heading lines in the ESSAY input below \
+against the heading lines in the document you are about to output. Every heading in \
+the input must appear in the output, EXACTLY as it is spelled in the input, in the \
+same order, with nothing added and nothing removed.
+
+If a heading from the input is missing from your output: you merged it away by \
+accident while copying prose. Find that exact point and re-insert that EXACT heading \
+line, copied character-for-character from the ESSAY input — never a paraphrase, \
+summary, or title of your own composition. Do not add a blockquote beneath a \
+restored heading unless it has a genuine anchor of its own.
+
+Do NOT invent, add, or split out any heading that does not appear verbatim in the \
+ESSAY input, for any reason — not to organize long content, not to give a name to a \
+sub-topic you notice, not to "improve" the structure. The set of headings in your \
+output must be exactly the set of headings in the input: same count, same text, same \
+order. Nothing more, nothing less.
+
+REMINDER — OUTPUT FORMAT: your response is the final document ONLY. Begin your \
+response with the essay's own first heading line. Do not begin your response with \
+"STEP 1", a summary of your alignment analysis, or any other preamble.
 
 ESSAY:
 

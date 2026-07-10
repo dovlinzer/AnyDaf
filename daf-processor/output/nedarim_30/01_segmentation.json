@@ -23,7 +23,9 @@
           "display_title": "Saplings Example",
           "timestamp": "02:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Oshaya's Query: Two Rings and Conditional Kiddushin",
@@ -45,7 +47,9 @@
           "display_title": "Single Act, Dual Effect",
           "timestamp": "06:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Yirmiyah's Objection and the Distinction between Personal and Third-Party Redemption",
@@ -72,7 +76,9 @@
           "display_title": "Woman as Third Party",
           "timestamp": "11:45"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Ran's Challenge to the Gemara's Logic: Woman as Subject, Not Object",
@@ -99,7 +105,9 @@
           "display_title": "Evolution of Status",
           "timestamp": "22:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Categories and Linguistic Meaning: Yordei Hayam (Seafarers) and Yoshvei Hayabashah (Land-dwellers)",
@@ -121,7 +129,9 @@
           "display_title": "Short-trip Sailors",
           "timestamp": "26:06"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Non-literal Interpretation: Those Who See the Sun",
@@ -143,7 +153,9 @@
           "display_title": "Fish and Fetuses",
           "timestamp": "34:59"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Generic Terms in Language: Black-headed (Shcharei HaRosh) as Men, Not Hair Color",
@@ -170,7 +182,9 @@
           "display_title": "Minor Girls Hair",
           "timestamp": "40:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Past vs. Future Birth: Yeludim and Noladim as Distinct or Overlapping Categories",
@@ -217,7 +231,9 @@
           "display_title": "Fish and Birds",
           "timestamp": "42:03"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -325,5 +341,6 @@
         "48:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

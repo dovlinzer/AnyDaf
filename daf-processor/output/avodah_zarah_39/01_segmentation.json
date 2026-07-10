@@ -38,7 +38,9 @@
           "display_title": "Barzilai & David",
           "timestamp": "05:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Pickled Vegetables and Wine Vinegar: Distinction Between Removing Bad Taste and Adding Good Taste",
@@ -65,7 +67,9 @@
           "display_title": "Taste vs. Mamash",
           "timestamp": "11:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kosher Fish Identification: Scales and Fins as Signs of Kashrut",
@@ -97,7 +101,9 @@
           "display_title": "Modern Fish Species",
           "timestamp": "18:17"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Fish Products and Sources: Organs, Roe, and River-Specific Fish Populations",
@@ -129,7 +135,9 @@
           "display_title": "Named Fish Species",
           "timestamp": "25:35"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Case Studies in Fish Identification by Sages: Testing Questionable Fish for Kosher Signs",
@@ -151,7 +159,9 @@
           "display_title": "Rabbah Case",
           "timestamp": "31:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Prohibition on Asafoetida (Chiltit) Cut with Non-Kosher Knife: Spice Reviving Knife Fat Taste",
@@ -163,7 +173,9 @@
           "display_title": "Chiltit Rule",
           "timestamp": "32:24"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Trust and Presumption in Kosher Food: Slaves, Wives, and Household Members of the Reliable",
@@ -190,7 +202,9 @@
           "display_title": "Wife Follows Husband",
           "timestamp": "40:44"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Seals and Standards of Kashrut Certification: Double vs. Single Seal Requirements by Product",
@@ -222,7 +236,9 @@
           "display_title": "Shmuel Mnemonic",
           "timestamp": "46:35"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Six Products in Syria: Restricted Purchases to Reputable Dealers Except When Guest in Private Home",
@@ -244,7 +260,9 @@
           "display_title": "R. Y. ben Levi",
           "timestamp": "49:43"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -505,5 +523,6 @@
         "04:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

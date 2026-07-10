@@ -23,7 +23,9 @@
           "display_title": "Shema in Torah",
           "timestamp": "03:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Meir's Position on Mezuzah Writing and Rabbi Shimon Elazar's Challenge",
@@ -45,7 +47,9 @@
           "display_title": "Not Juxtaposed",
           "timestamp": "09:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Ruling on Margins and the Halacha According to Rav",
@@ -62,7 +66,9 @@
           "display_title": "Clarification",
           "timestamp": "11:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Resolving the Contradiction: Petuchot vs. Setumot in Actual Practice",
@@ -74,7 +80,9 @@
           "display_title": "Scrolls Evidence",
           "timestamp": "12:35"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Ruling on Margins and the Halacha According to Rav (continued)",
@@ -86,7 +94,9 @@
           "display_title": "Margin Width",
           "timestamp": "15:19"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rav's Influence by Established Practice (Minhag) Over Textual Rulings",
@@ -118,7 +128,9 @@
           "display_title": "Ashkenazi/Sephardi",
           "timestamp": "25:54"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Resolving the Contradiction: Petuchot vs. Setumot in Actual Practice (continued)",
@@ -145,7 +157,9 @@
           "display_title": "Tosafot Variants",
           "timestamp": "33:26"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Requirement of Different Parchment Types (Klaf vs. Duchsostos)",
@@ -177,7 +191,9 @@
           "display_title": "Flexibility",
           "timestamp": "40:05"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -544,5 +560,6 @@
         "27:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

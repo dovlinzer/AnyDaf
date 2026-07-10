@@ -23,7 +23,9 @@
           "display_title": "Rubo Kekulo",
           "timestamp": "02:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Consecutive Nezirut and the Mishna's Teaching on Day Thirty Becoming Both End and Beginning",
@@ -45,7 +47,9 @@
           "display_title": "Oleh Lakan Ulakan",
           "timestamp": "07:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tumah on the Last Day and the Retroactive Invalidation of Nezirut",
@@ -72,7 +76,9 @@
           "display_title": "Lechatchila Day 31",
           "timestamp": "17:38"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Problem of Rabbi Eliezer's Position on Tumah and Its Resolution Through Torah Analysis",
@@ -99,7 +105,9 @@
           "display_title": "Torah Verse Proof",
           "timestamp": "33:23"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Connecting Bar Pada and Rav Masna to Tannaitic Hermeneutics of Melot Hayamim",
@@ -131,7 +139,9 @@
           "display_title": "Rabbanan Kisari",
           "timestamp": "41:28"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Indefinite Expressions of Nezirut: Big, Small, and Distance-Based Formulations",
@@ -148,7 +158,9 @@
           "display_title": "Distance Limits",
           "timestamp": "45:29"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Reconciling the Mishna with the Braita: Journey Context and Distance Translation",
@@ -175,7 +187,9 @@
           "display_title": "Rav Pappa No Units",
           "timestamp": "51:16"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Vows Measured by Countable vs. Uncountable References: Hairs, Sand, and Distances",
@@ -192,7 +206,9 @@
           "display_title": "Ketzisusa Principle",
           "timestamp": "55:39"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -553,5 +569,6 @@
         "36:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

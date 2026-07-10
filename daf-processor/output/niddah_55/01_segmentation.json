@@ -18,7 +18,9 @@
           "display_title": "Mishna Categories",
           "timestamp": "00:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Basar Hamet (Flesh of Corpse): Proving Tumah and the State Requirement",
@@ -75,7 +77,9 @@
           "display_title": "Flesh Healing",
           "timestamp": "20:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Zov (Flow) of a Zav: Proving Its Tumah Status and Degree",
@@ -112,7 +116,9 @@
           "display_title": "Both Verses Needed",
           "timestamp": "31:03"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Other Fluids of a Zav: Spit, Phlegm, and Their Tumah Status",
@@ -159,7 +165,9 @@
           "display_title": "Tears Theory",
           "timestamp": "46:02"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "The Nine Fluids of a Zav: Categories and Classification",
@@ -206,7 +214,9 @@
           "display_title": "Urine Kal Vachomer",
           "timestamp": "55:15"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -549,5 +559,6 @@
         "39:05"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

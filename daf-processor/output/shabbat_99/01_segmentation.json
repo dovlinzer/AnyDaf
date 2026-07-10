@@ -18,7 +18,9 @@
           "display_title": "Assembly Method",
           "timestamp": "01:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishkan Curtains and the Craftsmanship Required",
@@ -40,7 +42,9 @@
           "display_title": "Goat Hair Spinning",
           "timestamp": "04:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Levite Carrying and the Layout of Wagons in Reshut HaRabim",
@@ -77,7 +81,9 @@
           "display_title": "Tosafot's Model",
           "timestamp": "15:13"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Mound of Earth and Rock as Reshut Hayachid",
@@ -94,7 +100,9 @@
           "display_title": "Combination Debate",
           "timestamp": "25:21"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Mound of Earth and Rock as Reshut Hayachid (continued)",
@@ -106,7 +114,9 @@
           "display_title": "Application",
           "timestamp": "30:50"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Drawing Water from Wells in Reshut HaRabim",
@@ -128,7 +138,9 @@
           "display_title": "Drinking Rule",
           "timestamp": "31:42"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Throwing and Landing on Non-Four-Wide Elevated Objects",
@@ -150,7 +162,9 @@
           "display_title": "Tosafot Theory",
           "timestamp": "38:16"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Wall Surrounding Karmelis and Its Own Status",
@@ -172,7 +186,9 @@
           "display_title": "Precedent",
           "timestamp": "43:59"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Becoming Reshut Hayachid During the Act of Carrying",
@@ -204,7 +220,9 @@
           "display_title": "Architecture Change",
           "timestamp": "50:50"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Throwing Plank onto Two Pegs Creating Reshut Hayachid",
@@ -231,7 +249,9 @@
           "display_title": "Unresolved (Teiku)",
           "timestamp": "54:48"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -537,5 +557,6 @@
         "54:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

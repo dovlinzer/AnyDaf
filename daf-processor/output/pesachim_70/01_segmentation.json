@@ -33,7 +33,9 @@
           "display_title": "13 Covenants",
           "timestamp": "04:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Introduction to the Chagigah: The Festive Offering Accompanying Pesach",
@@ -55,7 +57,9 @@
           "display_title": "Al HaSova",
           "timestamp": "07:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Mishnah on Chagigah: When It Is and Is Not Brought",
@@ -82,7 +86,9 @@
           "display_title": "Eating Rules",
           "timestamp": "12:03"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara's Opening Question: Why Discuss Chagigah Here?",
@@ -99,7 +105,9 @@
           "display_title": "Not Obligatory",
           "timestamp": "13:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Introduction to the Chagigah: The Festive Offering Accompanying Pesach (continued)",
@@ -111,7 +119,9 @@
           "display_title": "Full Eating",
           "timestamp": "15:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Ben Teima's Opinion: Chagigah Must Be Exactly Like Pesach",
@@ -143,7 +153,9 @@
           "display_title": "Full Requirements",
           "timestamp": "25:56"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Problem of Bone-Breaking: Clarifying What Differs from Pesach",
@@ -170,7 +182,9 @@
           "display_title": "Resolution",
           "timestamp": "36:47"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Ben Dortai's Position: Chagigah Overrides Shabbat Like Pesach",
@@ -192,7 +206,9 @@
           "display_title": "Ashi Objects",
           "timestamp": "46:00"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Alternative Reading: The Verse Teaches About Surplus Money and Shelamim",
@@ -204,7 +220,9 @@
           "display_title": "Money Use",
           "timestamp": "48:41"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Why Chagigah Does Not Override Shabbat: Examining the Reasons",
@@ -246,7 +264,9 @@
           "display_title": "Conclusion",
           "timestamp": "53:44"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -712,5 +732,6 @@
         "52:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

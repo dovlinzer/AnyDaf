@@ -23,7 +23,9 @@
           "display_title": "Tamei Grapes Extraction",
           "timestamp": "01:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Burning and Using Tamei Terumah: The Concern of Atei L'Yidei Takalah",
@@ -50,7 +52,9 @@
           "display_title": "Rav Assi: Boiled Grain",
           "timestamp": "04:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Abba Shaul: Burning Tamei Terumah for Temple Dough",
@@ -72,7 +76,9 @@
           "display_title": "Rav Ashi's Resolution",
           "timestamp": "07:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Abaye and Chanina bar Avin Learning Terumos and Questioning the Mishnah",
@@ -94,7 +100,9 @@
           "display_title": "Rava's Problem",
           "timestamp": "10:46"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Resolving the Mishnah: Tehurim mil'Tamei but Asurin mil'Echol",
@@ -121,7 +129,9 @@
           "display_title": "Tevel vs. Terumah",
           "timestamp": "18:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav Sheshet's Answer: Hesech Hadaat as Independent Psul",
@@ -138,7 +148,9 @@
           "display_title": "Hesech Hadaat Psul",
           "timestamp": "22:24"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan vs. Reish Lakish: Is Hesech Hadaat a Tumah Problem or Intrinsic Psul?",
@@ -165,7 +177,9 @@
           "display_title": "Notar & Linah",
           "timestamp": "29:38"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Mishnah on Korban Validity: Intrinsic vs. External Invalidity",
@@ -182,7 +196,9 @@
           "display_title": "Dam & Baalim",
           "timestamp": "33:04"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Debate: Meat Becomes Tamei—Do You Perform Zrika of the Blood?",
@@ -204,7 +220,9 @@
           "display_title": "Tzitz Atonement",
           "timestamp": "38:33"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Proof from Water Sanctification (Mei Chag)",
@@ -231,7 +249,9 @@
           "display_title": "Ein Zri'ah L'Hekdesh",
           "timestamp": "47:56"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Application to Terumah: Why Planted Terumah Cannot Regain Permitted Status",
@@ -248,7 +268,9 @@
           "display_title": "Zri'ah Effect Limited",
           "timestamp": "49:46"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Grapes: Pressing Less Than Kezayit Produces Tahor Juice Even When Source Is Tamei",
@@ -270,7 +292,9 @@
           "display_title": "Pressing Kezayit Limit",
           "timestamp": "58:51"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -397,5 +421,6 @@
         "58:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

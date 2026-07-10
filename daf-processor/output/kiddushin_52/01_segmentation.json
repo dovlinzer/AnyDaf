@@ -23,7 +23,9 @@
           "display_title": "Abaye's View",
           "timestamp": "01:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Proof Against Rava: Bracita of Mi Sheyeish Lo Shtei Kitei Banot",
@@ -60,7 +62,9 @@
           "display_title": "Allowing Doubt",
           "timestamp": "06:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Second Proof Against Rava: Case of Marriage to One of Two Sisters",
@@ -82,7 +86,9 @@
           "display_title": "Knew Then Forgot",
           "timestamp": "07:58"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Complex Case of Yibum and Chalitza with Uncertain Wives",
@@ -114,7 +120,9 @@
           "display_title": "Proper Sequence",
           "timestamp": "14:09"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Third Proof Against Rava: Two Men, Two Sisters",
@@ -141,7 +149,9 @@
           "display_title": "Sequence Req.",
           "timestamp": "17:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Decisive Proof Against Rava: Case of Five Daughters and Five Sons",
@@ -178,7 +188,9 @@
           "display_title": "YAL KGAM Acronym",
           "timestamp": "25:13"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Case of Five Women and Figs in Shemita: Four Halachos Derived",
@@ -215,7 +227,9 @@
           "display_title": "Rav's Inference",
           "timestamp": "43:05"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Discussion of Gezel (Stolen Property) in Kiddushin",
@@ -247,7 +261,9 @@
           "display_title": "Intent Distinction",
           "timestamp": "43:18"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Practical Cases of Gezel and Ownership Disputes",
@@ -289,7 +305,9 @@
           "display_title": "No Permission",
           "timestamp": "51:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -529,5 +547,6 @@
         "43:05"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -23,7 +23,9 @@
           "display_title": "Tanna Kamma vs. R. Yehuda",
           "timestamp": "00:47"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Ilfa's Position: Piggul Only Applies Across Two Separate Avodot",
@@ -40,7 +42,9 @@
           "display_title": "One Avodah Not Piggul",
           "timestamp": "01:44"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Rabbi Yochanan's Counter-Position: Piggul Status Established Even Within One Avodah",
@@ -57,7 +61,9 @@
           "display_title": "First Thought Locks",
           "timestamp": "02:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Comparison to Temurah: When Sequential vs. Packaged Thoughts Take Effect",
@@ -94,7 +100,9 @@
           "display_title": "Discrete Acts",
           "timestamp": "19:46"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Levi Question: When Does Rabbi Yehuda Agree It's Eiruv Machshavot (Bundled)?",
@@ -116,7 +124,9 @@
           "display_title": "Abbreviated Texts",
           "timestamp": "22:07"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Final Synthesis: Rabbi Yehuda's Position on Piggul Across All Scenarios",
@@ -128,7 +138,9 @@
           "display_title": "Established Status",
           "timestamp": "23:27"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Text Reconstruction: Was the Mishnah 'Kezayit Kezayit' or 'Kezayit V'Kezayit'?",
@@ -140,7 +152,9 @@
           "display_title": "Inferring Girsa",
           "timestamp": "23:33"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Final Synthesis: Rabbi Yehuda's Position on Piggul Across All Scenarios (continued)",
@@ -157,7 +171,9 @@
           "display_title": "Separate Kezayitim",
           "timestamp": "23:36"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Text Reconstruction: Was the Mishnah 'Kezayit Kezayit' or 'Kezayit V'Kezayit'? (continued)",
@@ -174,7 +190,9 @@
           "display_title": "Conclusion: Vav Text",
           "timestamp": "23:55"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -559,5 +577,6 @@
         "06:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

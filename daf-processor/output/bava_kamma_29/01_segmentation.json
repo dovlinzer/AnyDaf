@@ -18,7 +18,9 @@
           "display_title": "Tripping & Injury",
           "timestamp": "00:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Elazar's Limitation: Damage Only When Object Causes the Act, Not Merely the Impact",
@@ -45,7 +47,9 @@
           "display_title": "Accident as Mazik",
           "timestamp": "06:31"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "The Mishna's Debate: Liability for Broken Pitcher in Public Domain",
@@ -72,7 +76,9 @@
           "display_title": "Ones Liability Affirmed",
           "timestamp": "10:47"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Oneis Exemption and Strict Liability: Torah's Principle and Its Application to Nezikin",
@@ -99,7 +105,9 @@
           "display_title": "Nitkal Debate",
           "timestamp": "14:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Abaye's Complexity: Two Separate Debates Within the Mishna and Braita",
@@ -126,7 +134,9 @@
           "display_title": "Peshia + Mafkir",
           "timestamp": "23:58"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Elazar's One-Debate Approach: Dispute Over Ownership Requirement, Not Initial Negligence",
@@ -143,7 +153,9 @@
           "display_title": "Two Debates Confirmed",
           "timestamp": "37:38"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Simplest Approach: Debate Only After It Fell, Assuming Ones at Time of Falling",
@@ -170,7 +182,9 @@
           "display_title": "Unified Debate",
           "timestamp": "44:20"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Implicit Debate: Does Ownership of Bor Matter? Rav Elazar vs. Rav Yochanan",
@@ -222,7 +236,9 @@
           "display_title": "Rava Language",
           "timestamp": "61:43"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -573,5 +589,6 @@
         "13:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

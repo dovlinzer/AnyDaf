@@ -29,7 +29,8 @@
           "timestamp": "07:27"
         }
       ],
-      "sefaria_index": 3
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Ma'aseh Shabbat (Benefiting from Shabbat Violation) as Alternative to Muktzeh",
@@ -67,7 +68,8 @@
           "timestamp": "20:20"
         }
       ],
-      "sefaria_index": 2
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav's Ruling and Its Basis: Why He Chose Rebbi Yehuda",
@@ -100,7 +102,8 @@
           "timestamp": "37:21"
         }
       ],
-      "sefaria_index": 9
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Application of Ma'aseh Shabbat and Muktzeh in Cases of Sick Persons",
@@ -128,7 +131,8 @@
           "timestamp": "45:06"
         }
       ],
-      "sefaria_index": 15
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Instrument of Shechita: Permissible and Forbidden Tools",
@@ -166,7 +170,8 @@
           "timestamp": "51:39"
         }
       ],
-      "sefaria_index": 22
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -501,5 +506,7 @@
   "amud_b_segment_index": 2,
   "amud_b_timestamp": "37:21",
   "amud_b_micro_title": "Meat Not Edible Raw",
-  "amud_b_sefaria_index": 16
+  "amud_b_sefaria_index": 16,
+  "shiur_start_daf": 15,
+  "shiur_start_amud": "a"
 }

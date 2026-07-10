@@ -23,7 +23,9 @@
           "display_title": "Intermediary Avodot",
           "timestamp": "01:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Defending the Tamei Kohen's Liability: Responses to the Challenge",
@@ -45,7 +47,9 @@
           "display_title": "Explicit Braita",
           "timestamp": "07:24"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Full Braita: Comprehensive List of Those Deserving Mita Bidei Shamayim",
@@ -82,7 +86,9 @@
           "display_title": "Baal Mum & Meila",
           "timestamp": "11:24"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Derivation of Mita for Eating Tevel: Sources and Logical Connections",
@@ -114,7 +120,9 @@
           "display_title": "Ravina's Gezerah Shava",
           "timestamp": "17:41"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Derivation of Mita for Tamei Kohen Eating Teruma",
@@ -131,7 +139,9 @@
           "display_title": "Tehorah Requirement",
           "timestamp": "33:31"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Derivation of Mita for Zar Eating Teruma: Rav's Position vs. Braita",
@@ -153,7 +163,9 @@
           "display_title": "Rav's Defense",
           "timestamp": "35:45"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     },
     {
       "title": "Derivation of Mita for Zar Eating Teruma: Rav's Position vs. Braita (continued)",
@@ -170,7 +182,9 @@
           "display_title": "Rav as Tanna",
           "timestamp": "35:57"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Derivation of Mita for Zar and Tamei Kohen Performing Avoda",
@@ -197,7 +211,9 @@
           "display_title": "Teruma Superior",
           "timestamp": "36:11"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Extension of Mita Liability: Tvul Yom, Mechusar Begadim, and Mechusar Kapparah",
@@ -214,7 +230,9 @@
           "display_title": "Begadim Requirement",
           "timestamp": "38:42"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Extension of Mita Liability: Tvul Yom, Mechusar Begadim, and Mechusar Kapparah (continued)",
@@ -236,7 +254,9 @@
           "display_title": "Tosafot on Kappurim",
           "timestamp": "39:01"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Final Cases: Unwashed Hands/Feet, Drunkenness, and Wild Hair",
@@ -258,7 +278,9 @@
           "display_title": "Hair Requirement",
           "timestamp": "39:01"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -521,5 +543,6 @@
         "39:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

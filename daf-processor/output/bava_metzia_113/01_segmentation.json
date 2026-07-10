@@ -43,7 +43,9 @@
           "display_title": "Additional Prohibitions",
           "timestamp": "11:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah on Collateral Seizure and the Role of Beit Din",
@@ -80,7 +82,9 @@
           "display_title": "Return Benefits",
           "timestamp": "20:34"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara's First Challenge: Can Beit Din Enter the Home?",
@@ -107,7 +111,9 @@
           "display_title": "Rav Papa Reply",
           "timestamp": "24:20"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Textual Proofs on Beit Din's Authority: bachutz ta'amod and ve'ha'ish",
@@ -139,7 +145,9 @@
           "display_title": "Baraita 2: Entry Barred",
           "timestamp": "43:44"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Collateral Restrictions and Basic Needs Framework",
@@ -171,7 +179,9 @@
           "display_title": "Erchin Analogy",
           "timestamp": "48:59"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Reconciling Mesadrin with Liquidation: Rabban Shimon ben Gamliel's Thirty-Day Rule",
@@ -208,7 +218,9 @@
           "display_title": "Unresolved Tension",
           "timestamp": "60:45"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -542,5 +554,6 @@
         "44:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

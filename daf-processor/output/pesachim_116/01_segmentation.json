@@ -23,7 +23,9 @@
           "display_title": "Removing the Seder Plate",
           "timestamp": "03:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Significance and Mechanics of Yachatz: Lechem Oni and Breaking the Matzah",
@@ -50,7 +52,9 @@
           "display_title": "Tosafot on Three Matzot",
           "timestamp": "11:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Charoset: Debates on Obligation and Symbolic Meanings",
@@ -72,7 +76,9 @@
           "display_title": "Charoset Preparation",
           "timestamp": "19:00"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Mishnah on Mah Nishtanah: Questions, Structure, and Children's Engagement",
@@ -104,7 +110,9 @@
           "display_title": "Child Asking Before Seei…",
           "timestamp": "27:50"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Talmudic Exposition of Questioning Dynamics: Who Asks and Why",
@@ -126,7 +134,9 @@
           "display_title": "Dipping Once vs. Twice",
           "timestamp": "32:51"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav versus Shmuel: Two Approaches to Beginning the Narrative (Idol Worship vs. Slavery)",
@@ -148,7 +158,9 @@
           "display_title": "Rav Nachman Anecdote",
           "timestamp": "35:56"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rabban Gamliel's Mishnah: The Three Essential Elements and Their Explanations",
@@ -175,7 +187,9 @@
           "display_title": "Integration of Symbols",
           "timestamp": "44:27"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Personalization of Redemption: Bekhol Dor VaDor and the Obligation to See Oneself as Redeemed",
@@ -197,7 +211,9 @@
           "display_title": "Lefikhakh to Hallel",
           "timestamp": "49:00"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Hallel in the Seder: When to Recite and How Much; Beit Shammai versus Beit Hillel Debate",
@@ -219,7 +235,9 @@
           "display_title": "Immediacy vs. Narrative",
           "timestamp": "50:01"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Closing of Hallel and Geula Blessing: Tarfon versus Akiva on the Chatimah",
@@ -246,7 +264,9 @@
           "display_title": "Rambam's Girsa",
           "timestamp": "53:36"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Final Gemara Rulings: Lifting Matzah and Maror, Not Lifting Meat; Appearance and Propriety",
@@ -263,7 +283,9 @@
           "display_title": "Not Lifting Meat",
           "timestamp": "54:34"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -605,5 +627,6 @@
         "40:19"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

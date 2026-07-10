@@ -18,7 +18,9 @@
           "display_title": "Gate Opening Before Shec…",
           "timestamp": "00:16"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Binding and Positioning of the Tamid Before Slaughter",
@@ -45,7 +47,9 @@
           "display_title": "Shochet Position",
           "timestamp": "05:44"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Location of Shechita and Blood Sprinkling on the Altar",
@@ -77,7 +81,9 @@
           "display_title": "Blood Spilling Foundation",
           "timestamp": "12:47"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Flaying and Initial Dismemberment of the Animal",
@@ -109,7 +115,9 @@
           "display_title": "Heart Blood Removal",
           "timestamp": "17:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Systematic Removal of Limbs and Internal Organs",
@@ -141,7 +149,9 @@
           "display_title": "Organ Separation",
           "timestamp": "26:31"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Removal of Chest, Flanks, Throat, and Tail",
@@ -178,7 +188,9 @@
           "display_title": "Left Leg Final Cut",
           "timestamp": "37:59"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Procession of Kohanim Holding Pieces and Ascending the Ramp",
@@ -225,7 +237,9 @@
           "display_title": "Ramp Placement & Salt",
           "timestamp": "46:41"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Recitation of Shema in the Chamber of Hewn Stone",
@@ -242,7 +256,9 @@
           "display_title": "Prayer & Sacrifices",
           "timestamp": "49:22"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gemara on Binding Methods and Tables in the Temple",
@@ -284,7 +300,9 @@
           "display_title": "Marble vs. Metal",
           "timestamp": "57:18"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -440,5 +458,6 @@
         "56:18"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

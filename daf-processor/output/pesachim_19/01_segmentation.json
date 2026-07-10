@@ -33,7 +33,9 @@
           "display_title": "Svara vs. Mikra",
           "timestamp": "12:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Comparison of Halachic Positions: Rabbi Yosei, Rabbi Akiva, and the Limits of Tumah Transmission",
@@ -70,7 +72,9 @@
           "display_title": "Tziruf Status",
           "timestamp": "39:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Needle in the Meat: Tumah of Vessels and Conditional Assumptions in the Mikdash",
@@ -107,7 +111,9 @@
           "display_title": "Muzzled Cow",
           "timestamp": "55:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -286,5 +292,6 @@
         "50:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

@@ -13,7 +13,9 @@
           "display_title": "Non-Jew Threat Case",
           "timestamp": "00:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Witnessing Standards: Visibility, Heavenly Voice, and Investigation",
@@ -25,7 +27,9 @@
           "display_title": "Geonic Responsum",
           "timestamp": "03:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Non-Jew's Testimony About Death: Admissibility and Limitations (continued)",
@@ -42,7 +46,9 @@
           "display_title": "Accepted Testimonies",
           "timestamp": "11:31"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Witnessing Standards: Visibility, Heavenly Voice, and Investigation (continued)",
@@ -69,7 +75,9 @@
           "display_title": "Snake Bite Case",
           "timestamp": "18:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Beit Shammai vs. Beit Hillel on Heavenly Voice; Textual Boundaries",
@@ -86,7 +94,9 @@
           "display_title": "Recording Minority Views",
           "timestamp": "19:37"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Witnessing Standards: Visibility, Heavenly Voice, and Investigation (continued)",
@@ -98,7 +108,9 @@
           "display_title": "Demon/Co-wife Question",
           "timestamp": "21:12"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Historical Development of Halacha: From Yehuda ben Bava to Rabban Gamliel",
@@ -130,7 +142,9 @@
           "display_title": "Women's Credibility",
           "timestamp": "29:55"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Innkeeper Story: Non-Jewish Woman as a Witness and Early Restrictions",
@@ -152,7 +166,9 @@
           "display_title": "Physical Evidence",
           "timestamp": "34:42"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Cross-Examination and Consistency: The Two Versions of Rabbi Tarfon's Case",
@@ -184,7 +200,9 @@
           "display_title": "Takkanat Agunah",
           "timestamp": "49:32"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Conclusion: The Aggadic Statement on Talmudic Scholars and Peace",
@@ -201,7 +219,9 @@
           "display_title": "Maharsha Exegesis",
           "timestamp": "51:42"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -384,5 +404,6 @@
         "52:43"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

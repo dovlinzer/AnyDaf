@@ -38,7 +38,9 @@
           "display_title": "Rabbi Yehuda Synthesis",
           "timestamp": "04:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Hierarchies of Sanctity and Priority: Tadir (Regular) vs. Mikudash (Holy); Application to Sacrifices and Personnel",
@@ -100,7 +102,9 @@
           "display_title": "Grain Priority",
           "timestamp": "20:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gender, Birth Status, and the Ultimate Meritocracy of Torah Learning",
@@ -132,7 +136,9 @@
           "display_title": "Meritocracy Irony",
           "timestamp": "29:29"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Priestly Hierarchy and Status Distinctions Among Kohanim",
@@ -144,7 +150,9 @@
           "display_title": "Kohen Gadol Grades",
           "timestamp": "31:34"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gender, Birth Status, and the Ultimate Meritocracy of Torah Learning (continued)",
@@ -161,7 +169,9 @@
           "display_title": "Kohen vs. Prophet",
           "timestamp": "32:38"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Priestly Hierarchy and Status Distinctions Among Kohanim (continued)",
@@ -188,7 +198,9 @@
           "display_title": "Tumah Exception",
           "timestamp": "38:07"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gender, Birth Status, and the Ultimate Meritocracy of Torah Learning (continued) (continued)",
@@ -215,7 +227,9 @@
           "display_title": "Rav Moshe Reading",
           "timestamp": "43:39"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Digression: Dogs, Cats, and Rats—Explaining Animal Behavior and Human Dominance",
@@ -232,7 +246,9 @@
           "display_title": "Rat Dominance",
           "timestamp": "52:24"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Cognitive and Medical Effects on Torah Learning: Forgetting and Restoring Knowledge",
@@ -269,7 +285,9 @@
           "display_title": "Death-Related",
           "timestamp": "56:56"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -747,5 +765,6 @@
         "55:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 24
 }

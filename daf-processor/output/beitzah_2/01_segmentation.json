@@ -23,7 +23,9 @@
           "display_title": "B.H. vs B.S. Debates",
           "timestamp": "01:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Opening Mishna: An Egg Laid on Yom Tov and Initial Debate Framework",
@@ -45,7 +47,9 @@
           "display_title": "Two More Cases",
           "timestamp": "04:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Opening Analysis: Setting the Context for the Egg Debate",
@@ -67,7 +71,9 @@
           "display_title": "Rashi on Nolad",
           "timestamp": "17:33"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav Nachman's Position: Muktzah as the Explanatory Framework for Beit Shammai and Beit Hillel",
@@ -94,7 +100,9 @@
           "display_title": "Rashi Rationale",
           "timestamp": "34:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Critique of Rav Nachman and Search for Alternative Explanations",
@@ -116,7 +124,9 @@
           "display_title": "Rejection",
           "timestamp": "43:03"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rava's Alternative Explanation: Preparation (Hachana) and the Requirement That Foods Be Ready Before Yom Tov",
@@ -153,7 +163,9 @@
           "display_title": "Internal Eggs",
           "timestamp": "52:46"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -349,5 +361,6 @@
         "54:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

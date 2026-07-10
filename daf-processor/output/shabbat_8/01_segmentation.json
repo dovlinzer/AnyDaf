@@ -28,7 +28,9 @@
           "display_title": "Abaye's Concession",
           "timestamp": "02:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Tree with Branch Overhanging: Where Does the Object Reside?",
@@ -65,7 +67,9 @@
           "display_title": "Rashi's Explanation",
           "timestamp": "08:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Beehive Case: Domains and Height Measurements",
@@ -107,7 +111,9 @@
           "display_title": "Rav Ashi on Vessel Walls",
           "timestamp": "24:00"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Pillars and Holes: Usage as the Key to Reshut HaRabim Status",
@@ -149,7 +155,9 @@
           "display_title": "Objects Don't = Domains",
           "timestamp": "34:21"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Eruv in a Deep Pit: Accessibility and Reshut Status",
@@ -186,7 +194,9 @@
           "display_title": "Rava Reasserts Position",
           "timestamp": "42:30"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rava's Definition of Usage: Walking vs. Non-Walking Uses",
@@ -213,7 +223,9 @@
           "display_title": "Abaye-Rava Contrast",
           "timestamp": "50:07"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Transporting Objects in Multiple Acts: Throwing and Setting Up a Bundle",
@@ -245,7 +257,9 @@
           "display_title": "Dragging vs. Separate Ac…",
           "timestamp": "54:25"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Ledge (Iskofah): Definition of a Makom Patur (Exempted Zone)",
@@ -282,7 +296,9 @@
           "display_title": "Dimi on Non-Domain Spaces",
           "timestamp": "61:42"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -497,5 +513,6 @@
         "19:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

@@ -68,7 +68,9 @@
           "display_title": "Judge Eligibility",
           "timestamp": "12:16"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Challenges the Requirement of Drishah V'Chakirah in Dinei Mamonot",
@@ -120,7 +122,9 @@
           "display_title": "Rav Ashi Tzedek",
           "timestamp": "25:36"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Case Study: Ships and Camels Illustrating Balanced Justice in Compromise",
@@ -147,7 +151,9 @@
           "display_title": "Compromise Payment",
           "timestamp": "27:46"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Expansion of Tzedek Tzedek Tirdof: Pursuing the Best Courts",
@@ -164,7 +170,9 @@
           "display_title": "Sages' Locations",
           "timestamp": "28:57"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Digression: Signals and Customs of Brit Milah in Bror Chayil",
@@ -186,7 +194,9 @@
           "display_title": "Candles & Sheet",
           "timestamp": "30:13"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": false
     },
     {
       "title": "Expansion of Tzedek Tzedek Tirdof: Pursuing the Best Courts (continued)",
@@ -203,7 +213,9 @@
           "display_title": "Lishkat HaGazit",
           "timestamp": "32:07"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Gemara Debate: How to Open Arguments in Defense in Capital Cases",
@@ -265,7 +277,9 @@
           "display_title": "Sotah Support",
           "timestamp": "40:58"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -555,5 +569,6 @@
         "10:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

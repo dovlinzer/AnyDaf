@@ -23,7 +23,9 @@
           "display_title": "Hillel's Corner Count",
           "timestamp": "00:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Baraita's Derivation from Vekiper: Why Three Repetitions are Necessary",
@@ -55,7 +57,9 @@
           "display_title": "Adda's Explanation",
           "timestamp": "07:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Gemara's Examination of Alternative Readings of Vekiper",
@@ -127,7 +131,9 @@
           "display_title": "One Altar Principle",
           "timestamp": "16:27"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Mishna's Ruling on Pigul and the Machmir/Meikel Status of Beis Shammai and Beis Hillel",
@@ -164,7 +170,9 @@
           "display_title": "Shammai Meikel Cases",
           "timestamp": "21:15"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -620,5 +628,6 @@
         "22:28"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

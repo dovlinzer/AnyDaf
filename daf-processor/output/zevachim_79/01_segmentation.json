@@ -53,7 +53,9 @@
           "display_title": "Notein Ta'am D'Oraita",
           "timestamp": "06:31"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Issurin Mevatlin Zeh Et Zeh: The Debate Between Reish Lakish and Rabbi Elazar",
@@ -80,7 +82,9 @@
           "display_title": "Mitzvot Levels",
           "timestamp": "10:43"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Porous Vessels and Tumah: Absorption and Release of Impurity in Pottery",
@@ -112,7 +116,9 @@
           "display_title": "Tanna Kamma = R. Yehuda",
           "timestamp": "14:48"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Pishtan Sheta'vasa Nidda: Flax Spun by a Nidda and Moisture/Saliva Issues",
@@ -139,7 +145,9 @@
           "display_title": "Rav Pappa's Answer",
           "timestamp": "17:40"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mixed Blood of Forbidden and Permitted Sources: Spilling and Gezeira Concerns",
@@ -176,7 +184,9 @@
           "display_title": "Tosafot on Gezira",
           "timestamp": "25:23"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Blood of Unblemished vs. Blemished Animals: Casting Lots and Uncertainty",
@@ -208,7 +218,9 @@
           "display_title": "Chachamim Strict",
           "timestamp": "30:30"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Blood Given Above vs. Below: Mixing Chatat Blood with Olah/Shelamim Blood",
@@ -240,7 +252,9 @@
           "display_title": "B'Dieved Kosher",
           "timestamp": "34:25"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Blood Given in One Application vs. Four Applications: Matan Arba B'Matan Achat Debate",
@@ -272,7 +286,9 @@
           "display_title": "Rabbi Yehoshua One",
           "timestamp": "36:53"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "The Dispute on Bal Tosif vs. Bal Tigra: Can You Violate Negative Commands Passively",
@@ -304,7 +320,9 @@
           "display_title": "Passive vs. Active",
           "timestamp": "40:25"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -545,5 +563,6 @@
         "06:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

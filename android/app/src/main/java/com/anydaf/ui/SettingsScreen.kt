@@ -21,6 +21,7 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.Favorite
+import androidx.compose.material.icons.filled.Email
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.CircularProgressIndicator
@@ -49,7 +50,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
 import com.anydaf.data.api.FeedManager
 import com.anydaf.model.QuizMode
-import com.anydaf.model.SourceDisplayMode
 import com.anydaf.model.StudyFontSize
 import com.anydaf.viewmodel.ContentViewModel
 import kotlinx.coroutines.launch
@@ -62,7 +62,6 @@ fun SettingsScreen(
     onAbout: () -> Unit = {}
 ) {
     val quizMode by contentViewModel.quizMode.collectAsState()
-    val sourceDisplayMode by contentViewModel.sourceDisplayMode.collectAsState()
     val shiurShowSources by contentViewModel.shiurShowSources.collectAsState()
     val studyFontSize by contentViewModel.studyFontSize.collectAsState()
     val printFontSize by contentViewModel.printFontSize.collectAsState()
@@ -158,18 +157,7 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            // 3. Translation Display
-            SectionHeader("Translation Display")
-            DropdownSettingRow(
-                label = sourceDisplayMode.displayName,
-                options = SourceDisplayMode.entries,
-                optionLabel = { it.displayName },
-                onSelect = { contentViewModel.selectSourceDisplayMode(it) }
-            )
-
-            SectionDivider()
-
-            // 4. Shiur
+            // 3. Shiur
             SectionHeader("Shiur")
             Row(
                 modifier = Modifier
@@ -259,7 +247,47 @@ fun SettingsScreen(
 
             SectionDivider()
 
-            // 8. About
+            // 8. Feedback
+            SectionHeader("Feedback")
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable {
+                        val dafInt = contentViewModel.selectedDaf.value.toInt()
+                        val tractate = contentViewModel.tractate.name
+                        val dafLine = "Tractate/Daf: $tractate $dafInt\n\n"
+                        val body = dafLine +
+                            "Feedback type:\n" +
+                            "[ ] Bug report\n" +
+                            "[ ] Shiur text correction\n" +
+                            "[ ] Summary or quiz issue\n" +
+                            "[ ] Resources suggestion\n" +
+                            "[ ] Other\n\n" +
+                            "Details:\n\n"
+                        val intent = Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:anydaf@yctorah.org")).apply {
+                            putExtra(Intent.EXTRA_SUBJECT, "AnyDaf Feedback")
+                            putExtra(Intent.EXTRA_TEXT, body)
+                        }
+                        try { context.startActivity(Intent.createChooser(intent, "Send Feedback")) }
+                        catch (_: Exception) {}
+                    }
+                    .padding(horizontal = 16.dp, vertical = 12.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(Icons.Default.Email, null, Modifier.size(20.dp), tint = MaterialTheme.colorScheme.primary)
+                Spacer(Modifier.width(16.dp))
+                Column {
+                    Text("Send Feedback", style = MaterialTheme.typography.bodyLarge, color = MaterialTheme.colorScheme.primary)
+                    Text(
+                        "Report bugs or send corrections about shiur text, summaries, quizzes, or resources.",
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                }
+            }
+
+            // 9. About
+            SectionDivider()
             SectionHeader("About")
             Row(
                 modifier = Modifier

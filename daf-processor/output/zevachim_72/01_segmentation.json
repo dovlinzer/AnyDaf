@@ -23,7 +23,9 @@
           "display_title": "Kol vs. Et Shedarko",
           "timestamp": "02:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Distinguishing Between Kol Shedarko Limanot and Et Shedarko Limanot: The Logic of Individual Identity and Discreteness",
@@ -45,7 +47,9 @@
           "display_title": "People & Identity",
           "timestamp": "08:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Mishnah on Kilayim and the Debate Between Rabbi Meir, the Sages, and Rabbi Akiva on What Cannot Be Nullified",
@@ -72,7 +76,9 @@
           "display_title": "Tosafot's Question",
           "timestamp": "16:17"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Gemara's Explanation: Cattle and the Debate Between Rabbi Yochanan and Reish Lakish on the Correct Reading of the Mishnah",
@@ -94,7 +100,9 @@
           "display_title": "Problem for Yochanan",
           "timestamp": "18:05"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Papa's Answer: The Tanai of the Pressed Figs (Litra Ketziot) and the Principle That Anything Sometimes Counted Is Not Nullified",
@@ -121,7 +129,9 @@
           "display_title": "No Fixed Location",
           "timestamp": "27:21"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Rava's Ultimate Answer: Living Things Are Inherently Important and Cannot Be Nullified",
@@ -133,7 +143,9 @@
           "display_title": "Rava's Solution",
           "timestamp": "29:37"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -406,5 +418,6 @@
         "29:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

@@ -38,7 +38,9 @@
           "display_title": "Rods Per Loaf",
           "timestamp": "05:10"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Measurements of the Mizbeiach: Dispute Between Rabbi Meir and Rabbi Yehuda",
@@ -65,7 +67,9 @@
           "display_title": "Yechezkel Parsing",
           "timestamp": "09:15"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Calculating the Height of the Mizbeiach and the Halfway Mark",
@@ -92,7 +96,9 @@
           "display_title": "Reinterpret Horizontal",
           "timestamp": "20:39"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Revised Calculations: All Vertical Measurements Are Six-Tefach Amot",
@@ -124,7 +130,9 @@
           "display_title": "Ariel 12 Center",
           "timestamp": "28:55"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Mizbeiach Fit Within the Azarah: Comprehensive Layout",
@@ -146,7 +154,9 @@
           "display_title": "Final Interp",
           "timestamp": "34:42"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Standard Measures: The Beinonis Amah and Measuring Sticks in Shushan Habira",
@@ -168,7 +178,9 @@
           "display_title": "Two Rationales",
           "timestamp": "43:47"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": false
     },
     {
       "title": "The Picture of Shushan on the Eastern Gate: Commemoration and Political Symbolism",
@@ -195,7 +207,9 @@
           "display_title": "Textual Support",
           "timestamp": "49:45"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -389,5 +403,6 @@
         "50:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

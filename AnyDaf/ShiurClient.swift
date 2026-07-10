@@ -11,6 +11,10 @@ struct ShiurSegment: Identifiable, Decodable {
     /// 0-based index into the flat Sefaria segment array (amud A + B concatenated).
     /// Nil if find_sefaria_indices.py has not been run for this daf.
     let sefariaIndex: Int?
+    /// True if sefariaIndex is a genuine blockquote match; false if it's a carried-forward
+    /// placeholder (e.g. a shiur-discussion segment with no Talmudic quote of its own); nil
+    /// if find_sefaria_indices.py hasn't been re-run with this field for this daf yet.
+    let matched: Bool?
 
     var id: String { timestamp }
 
@@ -26,6 +30,7 @@ struct ShiurSegment: Identifiable, Decodable {
         case displayTitle = "display_title"
         case microSegments = "micro_segments"
         case sefariaIndex = "sefaria_index"
+        case matched
     }
 
     init(from decoder: Decoder) throws {
@@ -35,6 +40,7 @@ struct ShiurSegment: Identifiable, Decodable {
         timestamp = try c.decode(String.self, forKey: .timestamp)
         microSegments = (try? c.decode([ShiurMicroSegment].self, forKey: .microSegments)) ?? []
         sefariaIndex = try? c.decode(Int.self, forKey: .sefariaIndex)
+        matched = try? c.decode(Bool.self, forKey: .matched)
     }
 }
 

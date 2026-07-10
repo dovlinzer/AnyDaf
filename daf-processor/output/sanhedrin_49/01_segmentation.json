@@ -38,7 +38,9 @@
           "display_title": "Biblical text analysis",
           "timestamp": "06:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Yoav's Conditions for Execution: Curses, Sanctuary, and Due Process",
@@ -70,7 +72,9 @@
           "display_title": "Curser consequence",
           "timestamp": "20:15"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Court Case Against Yoav: Charges of Murder and Rebellion (Abner and Amasa)",
@@ -112,7 +116,9 @@
           "display_title": "Yoav indictment",
           "timestamp": "29:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Yoav's Character: Why He Did Not Rebel Against Avshalom (Interpretations and Legacy)",
@@ -139,7 +145,9 @@
           "display_title": "Rabbi Abba view",
           "timestamp": "33:16"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Killing of Avner: Pretext and Hidden Conversation (Bor and Sira Allegory)",
@@ -166,7 +174,9 @@
           "display_title": "Torah distraction",
           "timestamp": "42:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Virtues of Yoav and Final Verdict: Comparing Avner and Amasa as Tzadikim Tovim",
@@ -198,7 +208,9 @@
           "display_title": "Execution & burial",
           "timestamp": "46:33"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Four Modes of Execution and Order (Sekila, Serefa, Hereg, Chenek)",
@@ -220,7 +232,9 @@
           "display_title": "Additional sdarim",
           "timestamp": "49:32"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Mitzvat Chalitzah (Shoe Removal) and Order: Whether Sequence is Necessary or Conditional",
@@ -242,7 +256,9 @@
           "display_title": "Chalitzah flexibility",
           "timestamp": "52:38"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Priestly Garments and Order: Distinguishing Customary from Essential Sequence",
@@ -264,7 +280,9 @@
           "display_title": "Torah order logic",
           "timestamp": "53:45"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -628,5 +646,6 @@
         "31:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

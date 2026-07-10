@@ -33,7 +33,9 @@
           "display_title": "Old vs. New City",
           "timestamp": "04:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Windows and Privacy: Height Requirements and Distance Restrictions",
@@ -80,7 +82,9 @@
           "display_title": "One vs. Two Walls",
           "timestamp": "13:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gutters and Ladders: Distance Requirements for Maintenance Access",
@@ -107,7 +111,9 @@
           "display_title": "Gutter Distance",
           "timestamp": "16:18"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Indirect Damage (Grama) and Possession: The Case of Bloodletters and Ravens",
@@ -149,7 +155,9 @@
           "display_title": "Rav Mari Qualification",
           "timestamp": "23:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Dovecotes: Distance Requirements and Dove Flight/Movement Ranges",
@@ -171,7 +179,9 @@
           "display_title": "Chazaka Permission",
           "timestamp": "27:31"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Trapping Doves: Distance Requirements and Settlement Contexts",
@@ -208,7 +218,9 @@
           "display_title": "Ownership Determination",
           "timestamp": "31:45"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Dovecotes: Distance Requirements and Dove Flight/Movement Ranges (continued)",
@@ -220,7 +232,9 @@
           "display_title": "Purchaser & Heir Claims",
           "timestamp": "33:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Found Doves (Nippul): Ownership Based on Proximity to Dovecotes",
@@ -242,7 +256,9 @@
           "display_title": "Two Dovecotes",
           "timestamp": "41:37"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rabbi Chanina's Challenge: Rov (Majority) vs. Karov (Proximity) Principle",
@@ -269,7 +285,9 @@
           "display_title": "Mountain Area Limit",
           "timestamp": "47:05"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Chick Movement: Physical Limitations and the Fifty Amot Boundary",
@@ -291,7 +309,9 @@
           "display_title": "Rejection",
           "timestamp": "50:53"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Resolving Rov vs. Karov: Two Equal Dovecotes and Vineyard Settlement Distinction",
@@ -313,7 +333,9 @@
           "display_title": "Vineyard Chick Case",
           "timestamp": "54:37"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -641,5 +663,6 @@
         "42:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

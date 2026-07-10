@@ -23,7 +23,9 @@
           "display_title": "Pesulah Bakodesh",
           "timestamp": "02:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Zar (Non-Kohen) Performing Melikah: Debate Between Rav and Rabbi Yochanan",
@@ -50,7 +52,9 @@
           "display_title": "Bamah & Kli Sharet",
           "timestamp": "09:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Shechitah (Slaughter) of Birds vs. Melikah: When Does the Act Make Something a Neveilah?",
@@ -92,7 +96,9 @@
           "display_title": "Proper vs. Improper",
           "timestamp": "26:41"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Melikah or Shechitah of a Treifah Bird: Three-Way Dispute Among Rabbi Meir, Rabbi Yehudah, and Rabbi Yose",
@@ -144,7 +150,9 @@
           "display_title": "Yehudah Response",
           "timestamp": "55:26"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -454,5 +462,6 @@
         "26:41"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

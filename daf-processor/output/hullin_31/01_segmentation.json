@@ -28,7 +28,9 @@
           "display_title": "Rabbeinu Tam",
           "timestamp": "05:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shechita of Multiple Heads and the Problem of Drisa (Pressure) with Knife Length",
@@ -60,7 +62,9 @@
           "display_title": "Arrow Story",
           "timestamp": "17:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Knife Fell and Slaughtered: The Requirement of Human Action (Koach Gavra) vs. Intent",
@@ -87,7 +91,9 @@
           "display_title": "Both Mishnayot",
           "timestamp": "39:25"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "The General Principle: When is Kavana (Intent) Required and When Is It Not Required?",
@@ -129,7 +135,9 @@
           "display_title": "Resolution",
           "timestamp": "60:39"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -380,5 +388,6 @@
         "42:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

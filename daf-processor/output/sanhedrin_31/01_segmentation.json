@@ -33,7 +33,9 @@
           "display_title": "Application Cases",
           "timestamp": "06:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Privacy, Secrecy, and Disclosure of Court Proceedings",
@@ -55,7 +57,9 @@
           "display_title": "Student Story",
           "timestamp": "09:30"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Reopening Cases and the Thirty-Day Limit on New Evidence",
@@ -87,7 +91,9 @@
           "display_title": "Halacha: Second Case",
           "timestamp": "15:39"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rav Shmuel bar Yehuda's Clarification: Sealing Off Claims and the Three Exceptions",
@@ -99,7 +105,9 @@
           "display_title": "Three Exceptions",
           "timestamp": "16:39"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Child's Case and Circumstantial Evidence",
@@ -116,7 +124,9 @@
           "display_title": "Children Unaware",
           "timestamp": "19:57"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Producing a Receipt and the Principle of Migo (Self-Help)",
@@ -153,7 +163,9 @@
           "display_title": "Migo Resolution",
           "timestamp": "23:01"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Rav Shmuel bar Yehuda's Clarification: Sealing Off Claims and the Three Exceptions (continued)",
@@ -170,7 +182,9 @@
           "display_title": "Exception Cases",
           "timestamp": "27:15"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     },
     {
       "title": "Venue and Jurisdiction: Where Cases Are Heard",
@@ -187,7 +201,9 @@
           "display_title": "Lender Dictates",
           "timestamp": "28:41"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": true
     },
     {
       "title": "Writing Out Reasons for Judgment",
@@ -204,7 +220,9 @@
           "display_title": "Tosafot Question",
           "timestamp": "31:13"
         }
-      ]
+      ],
+      "sefaria_index": 37,
+      "matched": false
     },
     {
       "title": "Venue and Jurisdiction: Where Cases Are Heard (continued)",
@@ -221,7 +239,9 @@
           "display_title": "Lender-Borrower",
           "timestamp": "33:38"
         }
-      ]
+      ],
+      "sefaria_index": 41,
+      "matched": true
     },
     {
       "title": "Case of Ukvin HaBavli: Venue Between Babylonia and Eretz Yisrael",
@@ -243,7 +263,9 @@
           "display_title": "Honoring Mar Ukva",
           "timestamp": "38:37"
         }
-      ]
+      ],
+      "sefaria_index": 45,
+      "matched": true
     },
     {
       "title": "Tosafot on Court Costs: Does the Guilty Party Pay the Winner's Expenses?",
@@ -255,7 +277,9 @@
           "display_title": "No Expense Payment",
           "timestamp": "39:00"
         }
-      ]
+      ],
+      "sefaria_index": 45,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -710,5 +734,6 @@
         "33:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 29
 }

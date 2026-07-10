@@ -33,7 +33,9 @@
           "display_title": "Final Purification",
           "timestamp": "07:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Chisda's Position: Days of Metzora Status Count Toward Nezirut in Long Nezirut",
@@ -55,7 +57,9 @@
           "display_title": "Rav Sharvaya's Challenge",
           "timestamp": "14:51"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Chisda's Attempted Response: A Fifty-Day Nezirut Case Where Days Neither Destroy Nor Count",
@@ -72,7 +76,9 @@
           "display_title": "Real Halacha Problem",
           "timestamp": "17:54"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "A Complex Case: Nazir Who Is Safek Tamei Meit and Safek Muchlat Metzora",
@@ -104,7 +110,9 @@
           "display_title": "Shaving Non-Doubling",
           "timestamp": "27:12"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Proof That Yemei Gamro and Yemei Sipro Fundamentally Do Not Count: The Baraita's Derivation",
@@ -136,7 +144,9 @@
           "display_title": "Fundamental Non-Counting",
           "timestamp": "44:02"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -576,5 +586,6 @@
         "41:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

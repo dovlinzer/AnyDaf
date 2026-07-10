@@ -38,7 +38,9 @@
           "display_title": "Speech Acts",
           "timestamp": "14:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Unique Features and Scholarly Background of Nedarim",
@@ -65,7 +67,9 @@
           "display_title": "Textual Sources",
           "timestamp": "24:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna Nedarim 2: Kinuyim and Variations",
@@ -92,7 +96,9 @@
           "display_title": "Purpose of Kinuyim",
           "timestamp": "30:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Mishna Nedarim 2: Yadot and Abbreviated Statements",
@@ -124,7 +130,9 @@
           "display_title": "Two Yad Models",
           "timestamp": "37:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Object-Focused Neder vs. Person-Focused Shvuah",
@@ -151,7 +159,9 @@
           "display_title": "Rashi's Solution",
           "timestamp": "43:35"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gemara Digression: Chiastic Structures in Mishnayot",
@@ -203,7 +213,9 @@
           "display_title": "No Fixed Rule",
           "timestamp": "50:29"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -407,5 +419,6 @@
         "50:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

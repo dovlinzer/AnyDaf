@@ -43,7 +43,9 @@
           "display_title": "Any Language Allowed",
           "timestamp": "04:34"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Fear of False Oaths: Cosmic and Familial Consequences",
@@ -80,7 +82,9 @@
           "display_title": "Metaphor of Fire",
           "timestamp": "09:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Process of Administering the Oath and the Response of the Witnesses",
@@ -117,7 +121,9 @@
           "display_title": "Future Generations",
           "timestamp": "13:10"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Clarifying the Scope of Language Requirements and Comparative Analysis of Transgressions",
@@ -134,7 +140,9 @@
           "display_title": "Relative Severity",
           "timestamp": "15:17"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Clarifying the Scope of Language Requirements and Comparative Analysis of Transgressions (continued)",
@@ -156,7 +164,9 @@
           "display_title": "Family Liability",
           "timestamp": "17:54"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Fear of False Oaths: Cosmic and Familial Consequences (continued)",
@@ -168,7 +178,9 @@
           "display_title": "Cleanse Doctrine",
           "timestamp": "16:09"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -424,5 +436,6 @@
         "20:06"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

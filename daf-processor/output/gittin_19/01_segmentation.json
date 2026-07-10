@@ -23,7 +23,9 @@
           "display_title": "Dating Requirements",
           "timestamp": "01:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna: Physical Materials for Writing a Get - Permitted Inks and Surfaces",
@@ -55,7 +57,9 @@
           "display_title": "Rabbi Yose HaGalili",
           "timestamp": "06:45"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Gemara: Analysis of Ink Types - Dyo, Sam, Sikra, Kumos, Kankantom and Their Permanence",
@@ -82,7 +86,9 @@
           "display_title": "Permanent Materials",
           "timestamp": "10:04"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Gemara: The Case of Inking Over Previous Writing - Shabbat Comparison and Different Halakhic Areas",
@@ -109,7 +115,9 @@
           "display_title": "Ink on Ink",
           "timestamp": "16:22"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara: The Case of Inking Over Previous Writing - Shabbat Comparison and Different Halakhic Areas (continued)",
@@ -121,7 +129,9 @@
           "display_title": "Pre-inked Signatures",
           "timestamp": "19:06"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara: The Debate on Using Pre-Written Text for Witness Signatures - Analogy from Shabbat Limitations",
@@ -153,7 +163,9 @@
           "display_title": "Different Halakhic Areas",
           "timestamp": "25:16"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Gemara: Methods for Illiterate Witnesses - Stencils, Lead Writing, and Gallnut Ink",
@@ -190,7 +202,9 @@
           "display_title": "Gallnut Worked Klaf",
           "timestamp": "34:18"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Gemara: Special Leniencies for Get Witnesses vs. Stringencies for Other Documents - The Agunah Exception",
@@ -217,7 +231,9 @@
           "display_title": "Rav Kahana's Lashes",
           "timestamp": "38:04"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Gemara: Literacy Requirements for Witnesses - Reading vs. Signing and the Problem of Abuse",
@@ -249,7 +265,9 @@
           "display_title": "Rav Gamda Rejected",
           "timestamp": "41:48"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Gemara: Reading Requirements for Witnesses - Trust and Verification Methods for Non-Get Documents",
@@ -276,7 +294,9 @@
           "display_title": "Deception Concern",
           "timestamp": "47:44"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Gemara: Foreign Language Documents and Verification Methods - Persian Get and Non-Jewish Courts",
@@ -318,7 +338,9 @@
           "display_title": "Any Language Valid",
           "timestamp": "52:54"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -547,5 +569,6 @@
         "52:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

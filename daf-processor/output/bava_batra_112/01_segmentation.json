@@ -28,7 +28,9 @@
           "display_title": "Rambam Sofrim",
           "timestamp": "02:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Challenging Rebbi Yishmael's Pesukimim Sources: The Bnot Tzelofchad Discussion",
@@ -55,7 +57,9 @@
           "display_title": "Tosafot Extra Pesuk",
           "timestamp": "05:45"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Elazar and Pinchas Story: Can Property Be Purchased or Inherited from Mother?",
@@ -97,7 +101,9 @@
           "display_title": "Cherem Alternative",
           "timestamp": "10:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Abaye's Tangled Discussion: Woman Inheriting from Both Shevat (Father's and Mother's)",
@@ -144,7 +150,9 @@
           "display_title": "Father's Tribe Core",
           "timestamp": "21:09"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Resolution via Lo Tisov Nachala: The Doubled Pesuk Teaches Both Husband and Son Diversion",
@@ -181,7 +189,9 @@
           "display_title": "Both Diversions",
           "timestamp": "26:02"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -461,5 +471,6 @@
         "02:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

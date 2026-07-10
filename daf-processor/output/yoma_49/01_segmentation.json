@@ -23,7 +23,9 @@
           "display_title": "Holacha & Left Hand",
           "timestamp": "03:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Meitivei Challenge: The Baraita Forbidding Left Hand and Non-Kohen Service",
@@ -45,7 +47,9 @@
           "display_title": "Rav Sheshet Problem",
           "timestamp": "04:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Chisda and the Question of Non-Kohen Performing Holacha",
@@ -77,7 +81,9 @@
           "display_title": "Zar Forbidden",
           "timestamp": "11:03"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Meitivei Challenge: The Baraita Forbidding Left Hand and Non-Kohen Service (continued)",
@@ -89,7 +95,9 @@
           "display_title": "Rav Sheshet Learned",
           "timestamp": "12:02"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Distinction Between Zar and Blood Service: The Maise Itzba Explanation",
@@ -106,7 +114,9 @@
           "display_title": "Shabbat Parallel",
           "timestamp": "19:13"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Pappa's Questions on Chafina Parameters: Single Person and Repetition",
@@ -138,7 +148,9 @@
           "display_title": "Back to Chafina",
           "timestamp": "30:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Chofen v'Chozer v'Chofen: Whether Chafina Must Be Repeated Inside Kodesh Kodashim",
@@ -170,7 +182,9 @@
           "display_title": "Avodah Hardship",
           "timestamp": "47:44"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Shechita and Subsequent Service: Can Another Kohen Continue If First Dies?",
@@ -202,7 +216,9 @@
           "display_title": "Pesach Joining Rule",
           "timestamp": "51:59"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Conceptual Framework: Blood Representation of the Animal in Different Avodot",
@@ -214,7 +230,9 @@
           "display_title": "Seh-Seh Linkage",
           "timestamp": "53:45"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Shechita and Subsequent Service: Can Another Kohen Continue If First Dies? (continued)",
@@ -226,7 +244,9 @@
           "display_title": "Peter Chamor Parallel",
           "timestamp": "54:54"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Conceptual Framework: Blood Representation of the Animal in Different Avodot (continued)",
@@ -238,7 +258,9 @@
           "display_title": "When Blood Represents",
           "timestamp": "56:30"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -806,5 +828,6 @@
         "43:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

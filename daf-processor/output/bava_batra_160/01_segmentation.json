@@ -33,7 +33,9 @@
           "display_title": "R. Chanina Leniency",
           "timestamp": "05:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Structure of Mekushar Documents: Rashbam vs. Tosafot Dispute",
@@ -55,7 +57,9 @@
           "display_title": "Tosafot: No Blanks",
           "timestamp": "08:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Textual Basis: Three Scriptural Sources for Pashut and Mekushar",
@@ -87,7 +91,9 @@
           "display_title": "Third Proof: Edim",
           "timestamp": "16:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Gemara's Reframing: All Sources Are Asmachta, Not Genuine Derivation",
@@ -109,7 +115,9 @@
           "display_title": "Extension to All",
           "timestamp": "20:46"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Where Witnesses Sign on Mekushar: Rav Huna vs. Rabbi Yirmeya",
@@ -131,7 +139,9 @@
           "display_title": "R. Chama & Rabbi",
           "timestamp": "23:24"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Forgery Problem: How to Prevent Additions After the Document Ends",
@@ -168,7 +178,9 @@
           "display_title": "Conclusion",
           "timestamp": "34:04"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -379,5 +391,6 @@
         "20:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 4
 }

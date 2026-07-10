@@ -23,7 +23,9 @@
           "display_title": "Ulla vs. R. Nechemiah",
           "timestamp": "01:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna on Co-wives: One Says Husband Died, One Says He Did Not Die",
@@ -40,7 +42,9 @@
           "display_title": "Co-wife Excluded",
           "timestamp": "02:52"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case of Died vs. Killed: Rabbi Meir's Position on Contradictory Specifics",
@@ -62,7 +66,9 @@
           "display_title": "R. Yehuda & Shimon",
           "timestamp": "05:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna on Co-wives: One Says Husband Died, One Says He Did Not Die (continued)",
@@ -79,7 +85,9 @@
           "display_title": "First Wife Marries",
           "timestamp": "09:04"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Case of Died vs. Killed: Rabbi Meir's Position on Contradictory Specifics (continued)",
@@ -96,7 +104,9 @@
           "display_title": "Co-wife Claim Void",
           "timestamp": "10:54"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Mishna: Woman Returns from Overseas and Testifies Husband Died",
@@ -123,7 +133,9 @@
           "display_title": "Both Cases Needed",
           "timestamp": "20:28"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Case of Marrying One of Five Women: Uncertainty and Obligation to Pay",
@@ -150,7 +162,9 @@
           "display_title": "R. Akiva Position",
           "timestamp": "27:12"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Parallel Case of Stealing from One of Five People",
@@ -177,7 +191,9 @@
           "display_title": "Special Obligation",
           "timestamp": "34:10"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Complex Cases of Woman Returning with Son and Yibum Status",
@@ -209,7 +225,9 @@
           "display_title": "Scope Limited",
           "timestamp": "43:32"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Gemara Discussion: Can Husband Give Get to Wife Not Present Through Third Party",
@@ -256,7 +274,9 @@
           "display_title": "Modern Issues",
           "timestamp": "56:51"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -373,5 +393,6 @@
         "45:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

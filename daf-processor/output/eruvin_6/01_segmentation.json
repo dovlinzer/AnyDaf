@@ -23,7 +23,9 @@
           "display_title": "Maboi Size",
           "timestamp": "02:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Side Breaks in Maboi Walls: Eser Amot vs. Arba Tefachim Tolerance",
@@ -50,7 +52,9 @@
           "display_title": "Rav Huna Four",
           "timestamp": "08:31"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Bent Maboi (Right-Angle Configuration) and Its Status",
@@ -67,7 +71,9 @@
           "display_title": "Bent Resolution",
           "timestamp": "18:00"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Side Breaks in Maboi Walls: Eser Amot vs. Arba Tefachim Tolerance (continued)",
@@ -79,7 +85,9 @@
           "display_title": "Gedudim Foundation",
           "timestamp": "20:04"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Reshut Harabim: Definition, Criteria, and the 600,000 Threshold",
@@ -91,7 +99,9 @@
           "display_title": "Four Domains",
           "timestamp": "26:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Making an Eruv Around Reshut Harabim: Closed Gates and Tzurat Hapetach",
@@ -103,7 +113,9 @@
           "display_title": "Tzurat Hapetach",
           "timestamp": "27:23"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Reshut Harabim: Definition, Criteria, and the 600,000 Threshold (continued)",
@@ -120,7 +132,9 @@
           "display_title": "Eruv Possibility",
           "timestamp": "31:10"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Making an Eruv Around Reshut Harabim: Closed Gates and Tzurat Hapetach (continued)",
@@ -142,7 +156,9 @@
           "display_title": "Locked Gates",
           "timestamp": "39:13"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Mevuot Hamefulashin Feeding Reshut Harabim: Easier Requirements",
@@ -174,7 +190,9 @@
           "display_title": "Ability Close",
           "timestamp": "49:43"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Summary and Modern Application of Eruv Principles",
@@ -191,7 +209,9 @@
           "display_title": "UWS Example",
           "timestamp": "52:18"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -469,5 +489,6 @@
         "52:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

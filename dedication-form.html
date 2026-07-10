@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<!--
+  AnyDaf Dedication Form
+  ======================
+  Single-file public submission form + admin panel.
+
+  SETUP (one-time):
+  1. Run the SQL in dedication-form-setup.sql against your Supabase project.
+  2. In Supabase dashboard → Authentication → Users → "Add user" → add
+     your email (dlinzer@yctorah.org) and a password.
+  3. Open this file in any browser (file:// or hosted — both work for
+     email/password sign-in; magic links require a hosted URL).
+
+  PUBLIC: anyone can submit a dedication request (status = 'pending').
+  ADMIN: click "Admin Login" at the bottom, sign in with your Supabase
+         email/password to see the pending queue and manage all entries.
+-->
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AnyDaf / AnyTorah — Dedication Form</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <style>
+    [x-cloak] { display: none !important; }
+    .app-blue { color: #1B3A8A; }
+    .bg-app-blue { background-color: #1B3A8A; }
+    .border-app-blue { border-color: #1B3A8A; }
+    .ring-app-blue { --tw-ring-color: #1B3A8A; }
+    input:focus, select:focus, textarea:focus {
+      outline: 2px solid #1B3A8A;
+      outline-offset: 2px;
+    }
+  </style>
+</head>
+<body class="bg-gray-50 min-h-screen font-sans text-gray-800">
+
+  <!-- ── Header ── -->
+  <header class="bg-app-blue text-white py-5 px-6 shadow-md">
+    <div class="max-w-2xl mx-auto flex items-center gap-3">
+      <span class="text-3xl">📖</span>
+      <div>
+        <h1 class="text-xl font-bold leading-tight">Learning Dedication</h1>
+        <p class="text-blue-200 text-sm">Submit a dedication to be displayed in the AnyDaf and AnyTorah apps</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-2xl mx-auto px-4 py-8 space-y-8">
+
+    <!-- ── How It Works ── -->
+    <div class="bg-blue-50 border border-blue-200 rounded-xl p-4 text-sm text-blue-900">
+      <p>Dedications appear in the <strong>AnyDaf and AnyTorah apps</strong> when users open them on the selected day (or week/month).
+         Submissions are reviewed before going live.</p>
+    </div>
+
+    <!-- ── Submission Form ── -->
+    <section class="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
+      <div class="bg-app-blue text-white px-6 py-4">
+        <h2 id="form-title" class="text-lg font-semibold">Submit a Dedication</h2>
+      </div>
+      <form id="dedication-form" class="p-6 space-y-6">
+
+        <!-- ─ Dedicator info ─ -->
+        <fieldset>
+          <legend class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
+            Your Information
+          </legend>
+          <div class="space-y-3">
+            <div>
+              <label class="block text-sm font-medium mb-1" for="dedicated_by">
+                Your name <span class="text-red-500">*</span>
+              </label>
+              <input id="dedicated_by" type="text" required placeholder="e.g. The Smith Family"
+                class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+            </div>
+            <div class="grid grid-cols-2 gap-3">
+              <div>
+                <label class="block text-sm font-medium mb-1" for="dedicator_email">Email</label>
+                <input id="dedicator_email" type="email" placeholder="you@example.com"
+                  class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+              </div>
+              <div>
+                <label class="block text-sm font-medium mb-1" for="dedicator_phone">Phone</label>
+                <input id="dedicator_phone" type="tel" placeholder="555-000-0000"
+                  class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+              </div>
+            </div>
+          </div>
+        </fieldset>
+
+        <hr class="border-gray-100" />
+
+        <!-- ─ Dedication timing ─ -->
+        <fieldset>
+          <legend class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
+            When &amp; How Long
+          </legend>
+          <div class="grid grid-cols-2 gap-3">
+            <div>
+              <label class="block text-sm font-medium mb-1" for="date">
+                Date <span class="text-red-500">*</span>
+              </label>
+              <input id="date" type="date" required
+                class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+            </div>
+            <div>
+              <label class="block text-sm font-medium mb-1" for="period">Period</label>
+              <select id="period" class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm bg-white">
+                <option value="today">Today's learning</option>
+                <option value="week">This week's learning</option>
+                <option value="month">This month's learning</option>
+              </select>
+            </div>
+          </div>
+        </fieldset>
+
+        <hr class="border-gray-100" />
+
+        <!-- ─ App targeting ─ -->
+        <fieldset>
+          <legend class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
+            Which App
+          </legend>
+          <div class="flex gap-2">
+            <label class="flex-1">
+              <input type="radio" name="app" id="app-anydaf" value="anydaf" class="sr-only peer" />
+              <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
+                          peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
+                          hover:border-gray-400 transition-colors select-none">
+                AnyDaf
+              </div>
+            </label>
+            <label class="flex-1">
+              <input type="radio" name="app" id="app-anytorah" value="anytorah" class="sr-only peer" />
+              <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
+                          peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
+                          hover:border-gray-400 transition-colors select-none">
+                AnyTorah
+              </div>
+            </label>
+            <label class="flex-1">
+              <input type="radio" name="app" id="app-both" value="both" checked class="sr-only peer" />
+              <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
+                          peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
+                          hover:border-gray-400 transition-colors select-none">
+                Both Apps
+              </div>
+            </label>
+          </div>
+        </fieldset>
+
+        <hr class="border-gray-100" />
+
+        <!-- ─ Dedication content ─ -->
+        <fieldset>
+          <legend class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
+            Dedication Details
+          </legend>
+          <div class="space-y-3">
+            <div>
+              <label class="block text-sm font-medium mb-1" for="preposition">Dedicated…</label>
+              <select id="preposition" class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm bg-white">
+                <option value="">(no preposition)</option>
+                <option value="in memory of">in memory of</option>
+                <option value="in honor of">in honor of</option>
+                <option value="on the occasion of">on the occasion of</option>
+              </select>
+            </div>
+            <div>
+              <label class="block text-sm font-medium mb-1" for="honoree_name">
+                Honoree / occasion name
+              </label>
+              <input id="honoree_name" type="text" placeholder="e.g. Rabbi Abraham Katz"
+                class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+            </div>
+            <div>
+              <label class="block text-sm font-medium mb-1" for="occasion">
+                Additional occasion details
+                <span class="text-gray-400 font-normal">(optional)</span>
+              </label>
+              <input id="occasion" type="text" placeholder="e.g. on the occasion of his yahrtzeit"
+                class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+            </div>
+            <div class="grid grid-cols-2 gap-3">
+              <div>
+                <label class="block text-sm font-medium mb-1" for="dedicatee_email">Honoree email</label>
+                <input id="dedicatee_email" type="email" placeholder="optional"
+                  class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+              </div>
+              <div>
+                <label class="block text-sm font-medium mb-1" for="dedicatee_phone">Honoree phone</label>
+                <input id="dedicatee_phone" type="tel" placeholder="optional"
+                  class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+              </div>
+            </div>
+          </div>
+        </fieldset>
+
+        <!-- ─ Photo upload ─ -->
+        <div>
+          <label class="block text-sm font-medium mb-1">
+            Photo
+            <span class="text-gray-400 font-normal">(optional — often a photo of the person being honored)</span>
+          </label>
+          <!-- Drop zone / file picker -->
+          <div id="photo-drop-zone"
+            class="relative border-2 border-dashed border-gray-300 rounded-xl p-6 text-center cursor-pointer hover:border-app-blue transition-colors">
+            <input id="photo-input" type="file" accept="image/*"
+              class="absolute inset-0 w-full h-full opacity-0 cursor-pointer" />
+            <div id="photo-placeholder" class="space-y-1 pointer-events-none">
+              <div class="text-4xl text-gray-300">📷</div>
+              <p class="text-sm text-gray-400">Click or drag &amp; drop a photo</p>
+              <p class="text-xs text-gray-300">JPG, PNG, WEBP · max 5 MB</p>
+            </div>
+            <div id="photo-new-preview" class="hidden flex-col items-center gap-2 pointer-events-none">
+              <img id="photo-new-img" src="" alt="preview"
+                class="w-24 h-24 rounded-full object-cover border-2 border-gray-200 shadow-sm" />
+              <p class="text-xs text-gray-400">New photo selected</p>
+            </div>
+          </div>
+          <!-- Remove new-photo button (outside drop zone so it receives clicks) -->
+          <button type="button" id="photo-remove-btn"
+            class="hidden mt-1 text-xs text-red-500 hover:text-red-700">
+            Remove new photo
+          </button>
+          <!-- Existing photo (shown only when editing a row that already has one) -->
+          <div id="existing-photo-wrap" class="hidden mt-2 items-center gap-3">
+            <img id="existing-photo-img" src="" alt="current photo"
+              class="w-12 h-12 rounded-full object-cover border border-gray-200 shadow-sm flex-shrink-0" />
+            <div class="text-xs text-gray-500">
+              <p class="font-medium">Current photo</p>
+              <button type="button" id="clear-existing-photo-btn"
+                class="text-red-500 hover:text-red-700 mt-0.5">Remove</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- ─ Live preview ─ -->
+        <div class="bg-blue-50 rounded-xl p-4 space-y-1">
+          <p class="text-xs font-semibold text-blue-600 uppercase tracking-wide">Preview</p>
+          <p id="preview-title" class="font-semibold text-app-blue text-sm"></p>
+          <p id="preview-message" class="text-sm text-gray-700 italic"></p>
+        </div>
+
+        <!-- ─ Custom override ─ -->
+        <div>
+          <label class="block text-sm font-medium mb-1" for="display_text">
+            Custom message override
+            <span class="text-gray-400 font-normal">(replaces the auto-generated preview above)</span>
+          </label>
+          <textarea id="display_text" rows="2"
+            placeholder="Leave blank to use the auto-generated message"
+            class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm resize-none"></textarea>
+        </div>
+
+        <!-- ─ Admin direct-approve toggle (only visible when admin is logged in) ─ -->
+        <div id="admin-status-row" class="hidden items-center gap-2">
+          <input id="create-approved" type="checkbox" class="rounded border-gray-300" />
+          <label for="create-approved" class="text-sm font-medium">
+            Publish immediately (skip pending review)
+          </label>
+        </div>
+
+        <!-- ─ Buttons ─ -->
+        <div class="flex gap-3">
+          <button type="submit" id="submit-btn"
+            class="flex-1 bg-app-blue text-white rounded-lg py-2.5 text-sm font-semibold
+                   hover:opacity-90 transition-opacity">
+            Submit Dedication
+          </button>
+          <button type="button" id="cancel-edit-btn"
+            class="hidden px-4 border border-gray-300 rounded-lg text-sm text-gray-600
+                   hover:bg-gray-50 transition-colors">
+            Cancel
+          </button>
+        </div>
+
+        <p id="form-message" class="text-sm text-center hidden"></p>
+      </form>
+    </section>
+
+    <!-- ── Admin Panel (shown only when logged in) ── -->
+    <section id="admin-panel" class="hidden space-y-6">
+      <div class="flex items-center justify-between">
+        <h2 class="text-lg font-semibold">Admin Panel</h2>
+        <div class="flex items-center gap-3 text-sm">
+          <span id="admin-email" class="text-gray-500"></span>
+          <button onclick="signOut()"
+            class="text-red-500 hover:text-red-700 font-medium">Sign out</button>
+        </div>
+      </div>
+
+      <!-- Tabs -->
+      <div class="flex border-b border-gray-200">
+        <button onclick="showTab('pending')" id="tab-pending"
+          class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-app-blue app-blue">
+          Pending <span id="pending-count" class="ml-1 bg-red-100 text-red-700 rounded-full px-2 py-0.5 text-xs"></span>
+        </button>
+        <button onclick="showTab('approved')" id="tab-approved"
+          class="tab-btn px-4 py-2 text-sm font-medium border-b-2 border-transparent text-gray-500 hover:text-gray-700">
+          Approved
+        </button>
+      </div>
+
+      <div id="tab-content-pending" class="space-y-3"></div>
+      <div id="tab-content-approved" class="space-y-3 hidden"></div>
+    </section>
+
+  </main>
+
+  <!-- ── Admin Login Footer ── -->
+  <footer class="max-w-2xl mx-auto px-4 py-8 mt-4 border-t border-gray-200">
+    <div id="login-section">
+      <button onclick="toggleLoginForm()"
+        class="text-xs text-gray-400 hover:text-gray-600 transition-colors underline">
+        Admin Login
+      </button>
+      <div id="login-form" class="hidden mt-3 bg-white border border-gray-200 rounded-xl p-4 space-y-3 max-w-xs">
+        <p class="text-sm font-medium text-gray-700">Admin Sign In</p>
+        <input id="admin-email-input" type="email" placeholder="Email"
+          class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+        <input id="admin-password-input" type="password" placeholder="Password"
+          class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+        <button onclick="signIn()"
+          class="w-full bg-app-blue text-white rounded-lg py-2 text-sm font-medium hover:opacity-90">
+          Sign In
+        </button>
+        <p id="login-error" class="text-xs text-red-500 hidden"></p>
+      </div>
+    </div>
+  </footer>
+
+<script>
+// ── Config ─────────────────────────────────────────────────────────────────
+const SUPABASE_URL = 'https://zewdazoijdpakugfvnzt.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpld2Rhem9pamRwYWt1Z2Z2bnp0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ0NzIwODYsImV4cCI6MjA5MDA0ODA4Nn0.HJxIG18vEpt-exzoQwRLeXiKLAinWfBl7gMORKjxIz8';
+
+// ── Helpers (defined first so nothing below can break them) ────────────────
+function v(id) { return (document.getElementById(id).value ?? '').trim(); }
+function set(id, val) { document.getElementById(id).value = val; }
+function esc(s) { return (s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function today() { return new Date().toISOString().slice(0, 10); }
+function periodLabel(p) {
+  return p === 'week' ? "This Week" : p === 'month' ? "This Month" : "Today";
+}
+function getApp() {
+  return document.querySelector('input[name="app"]:checked')?.value ?? 'both';
+}
+function appLabel(app) {
+  return app === 'anydaf' ? 'AnyDaf' : app === 'anytorah' ? 'AnyTorah' : 'AnyDaf and AnyTorah';
+}
+function buildMessage(row) {
+  if (row.display_text) return row.display_text;
+  const phrases = { today: "Today's learning", week: "This week's learning", month: "This month's learning" };
+  const parts = [`${phrases[row.period] ?? "Today's learning"} with ${appLabel(row.app)} is dedicated by ${row.dedicated_by}`];
+  if (row.preposition)  parts.push(row.preposition);
+  if (row.honoree_name) parts.push(row.honoree_name);
+  if (row.occasion)     parts.push(row.occasion);
+  return parts.join(' ') + '.';
+}
+
+// ── Preview (wired up immediately — works even if Supabase CDN is slow) ───
+function updatePreview() {
+  const dedicatedBy = v('dedicated_by');
+  const periodTitles = { today: "Today's Learning", week: "This Week's Learning", month: "This Month's Learning" };
+  const periodPhrases = { today: "Today's learning", week: "This week's learning", month: "This month's learning" };
+  const period = v('period');
+  const displayText = v('display_text');
+
+  document.getElementById('preview-title').textContent = periodTitles[period] ?? "Today's Learning";
+
+  if (!dedicatedBy) {
+    document.getElementById('preview-message').textContent = '';
+    return;
+  }
+  if (displayText) {
+    document.getElementById('preview-message').textContent = displayText;
+    return;
+  }
+
+  const preposition = v('preposition');
+  const honoreeName = v('honoree_name');
+  const occasion = v('occasion');
+  const parts = [`${periodPhrases[period]} with ${appLabel(getApp())} is dedicated by ${dedicatedBy}`];
+  if (preposition)  parts.push(preposition);
+  if (honoreeName)  parts.push(honoreeName);
+  if (occasion)     parts.push(occasion);
+  document.getElementById('preview-message').textContent = parts.join(' ') + '.';
+}
+
+// Wire preview listeners immediately — both 'input' (text fields) and 'change' (selects/radios)
+['dedicated_by', 'honoree_name', 'occasion', 'display_text']
+  .forEach(id => document.getElementById(id).addEventListener('input', updatePreview));
+['period', 'preposition', 'dedicated_by', 'honoree_name', 'occasion', 'display_text']
+  .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
+document.querySelectorAll('input[name="app"]')
+  .forEach(r => r.addEventListener('change', updatePreview));
+
+// Set date default
+document.getElementById('date').value = today();
+updatePreview();
+
+// ── State ──────────────────────────────────────────────────────────────────
+let currentUser = null;
+let editingId = null;
+let activeTab = 'pending';
+let db = null;
+let selectedPhotoFile = null;   // File selected in drop zone
+let existingPhotoUrl = null;    // photo_url from the row being edited
+let clearExistingPhoto = false; // admin clicked "Remove" on existing photo
+
+// ── Supabase init (wrapped so a CDN hiccup can't break the preview above) ─
+try {
+  db = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  db.auth.onAuthStateChange((_event, session) => {
+    currentUser = session?.user ?? null;
+    onAuthChange();
+  });
+} catch (e) {
+  console.error('Supabase init failed:', e);
+  document.getElementById('login-section').innerHTML =
+    '<p class="text-xs text-red-400">Admin unavailable (Supabase failed to load)</p>';
+}
+
+// ── Photo handlers ─────────────────────────────────────────────────────────
+document.getElementById('photo-input').addEventListener('change', function (e) {
+  const file = e.target.files?.[0];
+  if (!file) return;
+  if (file.size > 5 * 1024 * 1024) {
+    alert('Photo must be under 5 MB.');
+    this.value = '';
+    return;
+  }
+  selectedPhotoFile = file;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    document.getElementById('photo-new-img').src = ev.target.result;
+    document.getElementById('photo-placeholder').classList.add('hidden');
+    document.getElementById('photo-new-preview').classList.remove('hidden');
+    document.getElementById('photo-new-preview').classList.add('flex');
+    document.getElementById('photo-remove-btn').classList.remove('hidden');
+  };
+  reader.readAsDataURL(file);
+});
+
+document.getElementById('photo-remove-btn').addEventListener('click', function () {
+  selectedPhotoFile = null;
+  document.getElementById('photo-input').value = '';
+  document.getElementById('photo-new-preview').classList.add('hidden');
+  document.getElementById('photo-new-preview').classList.remove('flex');
+  document.getElementById('photo-placeholder').classList.remove('hidden');
+  document.getElementById('photo-remove-btn').classList.add('hidden');
+});
+
+document.getElementById('clear-existing-photo-btn').addEventListener('click', function () {
+  clearExistingPhoto = true;
+  existingPhotoUrl = null;
+  document.getElementById('existing-photo-wrap').classList.add('hidden');
+  document.getElementById('existing-photo-wrap').classList.remove('flex');
+});
+
+function resetPhotoUI() {
+  selectedPhotoFile = null;
+  existingPhotoUrl = null;
+  clearExistingPhoto = false;
+  document.getElementById('photo-input').value = '';
+  document.getElementById('photo-new-preview').classList.add('hidden');
+  document.getElementById('photo-new-preview').classList.remove('flex');
+  document.getElementById('photo-placeholder').classList.remove('hidden');
+  document.getElementById('photo-remove-btn').classList.add('hidden');
+  document.getElementById('existing-photo-wrap').classList.add('hidden');
+  document.getElementById('existing-photo-wrap').classList.remove('flex');
+}
+
+// ── Auth ───────────────────────────────────────────────────────────────────
+async function signIn() {
+  if (!db) return;
+  const email = document.getElementById('admin-email-input').value.trim();
+  const password = document.getElementById('admin-password-input').value;
+  const err = document.getElementById('login-error');
+  err.classList.add('hidden');
+  const { error } = await db.auth.signInWithPassword({ email, password });
+  if (error) {
+    err.textContent = error.message;
+    err.classList.remove('hidden');
+  }
+}
+
+async function signOut() {
+  if (!db) return;
+  await db.auth.signOut();
+}
+
+function toggleLoginForm() {
+  document.getElementById('login-form').classList.toggle('hidden');
+}
+
+function onAuthChange() {
+  const panel = document.getElementById('admin-panel');
+  const statusRow = document.getElementById('admin-status-row');
+  const loginSection = document.getElementById('login-section');
+  if (currentUser) {
+    panel.classList.remove('hidden');
+    statusRow.classList.remove('hidden');
+    statusRow.classList.add('flex');
+    document.getElementById('admin-email').textContent = currentUser.email;
+    loginSection.classList.add('hidden');
+    loadAdminData();
+  } else {
+    panel.classList.add('hidden');
+    statusRow.classList.add('hidden');
+    statusRow.classList.remove('flex');
+    loginSection.classList.remove('hidden');
+  }
+}
+
+document.getElementById('dedication-form').addEventListener('submit', async e => {
+  e.preventDefault();
+  const btn = document.getElementById('submit-btn');
+  const msg = document.getElementById('form-message');
+  btn.disabled = true;
+  btn.textContent = 'Saving…';
+  msg.classList.add('hidden');
+
+  const isAdmin = !!currentUser;
+  const approvedChecked = document.getElementById('create-approved').checked;
+  const status = (isAdmin && approvedChecked) ? 'approved' : 'pending';
+
+  // ── Upload photo if a new one was selected ──────────────────────────────
+  let photoUrl = clearExistingPhoto ? null : existingPhotoUrl;
+  if (selectedPhotoFile) {
+    const ext = selectedPhotoFile.name.split('.').pop().toLowerCase();
+    const filename = `${Date.now()}-${Math.random().toString(36).slice(2)}.${ext}`;
+    const uploadResp = await fetch(
+      `${SUPABASE_URL}/storage/v1/object/dedication-photos/${filename}`,
+      {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+          'Content-Type': selectedPhotoFile.type || 'image/jpeg',
+          'x-upsert': 'false',
+        },
+        body: selectedPhotoFile,
+      }
+    );
+    if (!uploadResp.ok) {
+      const errBody = await uploadResp.json().catch(() => null);
+      const errMsg = errBody?.message || errBody?.error || `HTTP ${uploadResp.status}`;
+      btn.disabled = false;
+      btn.textContent = editingId ? 'Update Dedication' : 'Submit Dedication';
+      msg.textContent = `Photo upload failed (${uploadResp.status}): ${errMsg}`;
+      msg.className = 'text-sm text-center text-red-600';
+      msg.classList.remove('hidden');
+      return;
+    }
+    photoUrl = `${SUPABASE_URL}/storage/v1/object/public/dedication-photos/${filename}`;
+  }
+
+  const row = {
+    dedicated_by:    v('dedicated_by'),
+    date:            v('date'),
+    period:          v('period'),
+    preposition:     v('preposition'),
+    honoree_name:    v('honoree_name'),
+    occasion:        v('occasion'),
+    display_text:    v('display_text') || null,
+    dedicator_email: v('dedicator_email') || null,
+    dedicator_phone: v('dedicator_phone') || null,
+    dedicatee_email: v('dedicatee_email') || null,
+    dedicatee_phone: v('dedicatee_phone') || null,
+    photo_url:       photoUrl || null,
+    app:             getApp(),
+    status,
+  };
+
+  let error;
+  if (editingId) {
+    ({ error } = await db.from('dedications').update(row).eq('id', editingId));
+  } else {
+    ({ error } = await db.from('dedications').insert(row));
+  }
+
+  btn.disabled = false;
+  if (error) {
+    btn.textContent = editingId ? 'Update Dedication' : 'Submit Dedication';
+    msg.textContent = 'Error: ' + error.message;
+    msg.className = 'text-sm text-center text-red-600';
+    msg.classList.remove('hidden');
+  } else {
+    if (editingId) {
+      cancelEdit();
+      msg.textContent = '✓ Dedication updated.';
+    } else {
+      document.getElementById('dedication-form').reset();
+      document.getElementById('date').value = today();
+      resetPhotoUI();
+      updatePreview();
+      msg.textContent = status === 'approved'
+        ? '✓ Dedication published.'
+        : '✓ Submitted! It will appear in the app once approved.';
+    }
+    msg.className = 'text-sm text-center text-green-600';
+    msg.classList.remove('hidden');
+    if (isAdmin) loadAdminData();
+    setTimeout(() => msg.classList.add('hidden'), 5000);
+  }
+});
+
+document.getElementById('cancel-edit-btn').addEventListener('click', cancelEdit);
+
+function cancelEdit() {
+  editingId = null;
+  document.getElementById('dedication-form').reset();
+  document.getElementById('date').value = today();
+  document.getElementById('form-title').textContent = 'Submit a Dedication';
+  document.getElementById('submit-btn').textContent = 'Submit Dedication';
+  document.getElementById('cancel-edit-btn').classList.add('hidden');
+  resetPhotoUI();
+  updatePreview();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// ── Admin Panel ────────────────────────────────────────────────────────────
+async function loadAdminData() {
+  const { data, error } = await db
+    .from('dedications')
+    .select('*')
+    .order('date', { ascending: false });
+
+  if (error) { console.error(error); return; }
+
+  const pending  = data.filter(r => r.status === 'pending');
+  const approved = data.filter(r => r.status === 'approved');
+
+  const badge = document.getElementById('pending-count');
+  badge.textContent = pending.length || '';
+  badge.style.display = pending.length ? '' : 'none';
+
+  document.getElementById('tab-content-pending').innerHTML =
+    pending.length ? pending.map(dedicationCard).join('') : emptyState('No pending submissions');
+  document.getElementById('tab-content-approved').innerHTML =
+    approved.length ? approved.map(dedicationCard).join('') : emptyState('No approved dedications yet');
+}
+
+function dedicationCard(row) {
+  const isPending = row.status === 'pending';
+  const msg = buildMessage(row);
+  return `
+    <div class="bg-white border border-gray-200 rounded-xl p-4 space-y-2">
+      <div class="flex items-start gap-3">
+        ${row.photo_url && row.photo_url.includes('/public/')
+          ? `<img src="${esc(row.photo_url)}" alt="photo"
+               class="w-12 h-12 rounded-full object-cover border border-gray-200 shadow-sm flex-shrink-0 mt-0.5" />`
+          : ''}
+        <div class="flex-1 space-y-0.5">
+          <div class="flex items-center gap-2 flex-wrap">
+            <span class="font-medium text-sm">${esc(row.dedicated_by)}</span>
+            <span class="text-xs text-gray-400">${row.date} · ${periodLabel(row.period)}</span>
+            <span class="text-xs bg-gray-100 text-gray-600 rounded-full px-2 py-0.5">${row.app === 'anydaf' ? 'AnyDaf' : row.app === 'anytorah' ? 'AnyTorah' : 'Both'}</span>
+            ${isPending
+              ? '<span class="text-xs bg-amber-100 text-amber-700 rounded-full px-2 py-0.5">Pending</span>'
+              : '<span class="text-xs bg-green-100 text-green-700 rounded-full px-2 py-0.5">Approved</span>'}
+          </div>
+          <p class="text-sm text-gray-600 italic">${esc(msg)}</p>
+          ${row.dedicator_email || row.dedicator_phone
+            ? `<p class="text-xs text-gray-400">Submitted by: ${[row.dedicator_email, row.dedicator_phone].filter(Boolean).join(' · ')}</p>`
+            : ''}
+        </div>
+      </div>
+      <div class="flex gap-2 pt-1">
+        ${isPending
+          ? `<button onclick="approve('${row.id}')" class="text-xs bg-green-600 text-white rounded-lg px-3 py-1.5 hover:opacity-90">Approve</button>`
+          : `<button onclick="setStatus('${row.id}','pending')" class="text-xs bg-gray-100 text-gray-700 rounded-lg px-3 py-1.5 hover:bg-gray-200">Unpublish</button>`}
+        <button onclick="startEdit(${JSON.stringify(row).replace(/"/g, '&quot;')})"
+          class="text-xs border border-gray-300 rounded-lg px-3 py-1.5 hover:bg-gray-50">Edit</button>
+        <button onclick="deleteDedication('${row.id}')"
+          class="text-xs text-red-500 border border-red-200 rounded-lg px-3 py-1.5 hover:bg-red-50">Delete</button>
+      </div>
+    </div>`;
+}
+
+function emptyState(msg) {
+  return `<p class="text-sm text-gray-400 text-center py-6">${msg}</p>`;
+}
+
+async function approve(id) {
+  await setStatus(id, 'approved');
+}
+
+async function setStatus(id, status) {
+  const { error } = await db.from('dedications').update({ status }).eq('id', id);
+  if (!error) loadAdminData();
+}
+
+async function deleteDedication(id) {
+  if (!confirm('Delete this dedication?')) return;
+  const { error } = await db.from('dedications').delete().eq('id', id);
+  if (!error) loadAdminData();
+}
+
+function startEdit(row) {
+  editingId = row.id;
+  set('dedicated_by',    row.dedicated_by ?? '');
+  set('date',            row.date ?? today());
+  set('period',          row.period ?? 'today');
+  set('preposition',     row.preposition ?? '');
+  set('honoree_name',    row.honoree_name ?? '');
+  set('occasion',        row.occasion ?? '');
+  set('display_text',    row.display_text ?? '');
+  set('dedicator_email', row.dedicator_email ?? '');
+  set('dedicator_phone', row.dedicator_phone ?? '');
+  set('dedicatee_email', row.dedicatee_email ?? '');
+  set('dedicatee_phone', row.dedicatee_phone ?? '');
+  const appVal = row.app ?? 'both';
+  document.querySelectorAll('input[name="app"]').forEach(r => { r.checked = r.value === appVal; });
+  const approvedCheck = document.getElementById('create-approved');
+  approvedCheck.checked = row.status === 'approved';
+  document.getElementById('form-title').textContent = 'Edit Dedication';
+  document.getElementById('submit-btn').textContent = 'Update Dedication';
+  document.getElementById('cancel-edit-btn').classList.remove('hidden');
+  // Photo state
+  resetPhotoUI();
+  if (row.photo_url) {
+    existingPhotoUrl = row.photo_url;
+    document.getElementById('existing-photo-img').src = row.photo_url;
+    document.getElementById('existing-photo-wrap').classList.remove('hidden');
+    document.getElementById('existing-photo-wrap').classList.add('flex');
+  }
+  updatePreview();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showTab(tab) {
+  activeTab = tab;
+  ['pending', 'approved'].forEach(t => {
+    document.getElementById(`tab-content-${t}`).classList.toggle('hidden', t !== tab);
+    const btn = document.getElementById(`tab-${t}`);
+    if (t === tab) {
+      btn.classList.add('border-app-blue', 'app-blue');
+      btn.classList.remove('border-transparent', 'text-gray-500');
+    } else {
+      btn.classList.remove('border-app-blue', 'app-blue');
+      btn.classList.add('border-transparent', 'text-gray-500');
+    }
+  });
+}
+
+</script>
+</body>
+</html>

@@ -28,7 +28,9 @@
           "display_title": "Midat Chasidut",
           "timestamp": "01:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of Eating Tevel Without Separating Terumot U'Ma'asrot",
@@ -50,7 +52,9 @@
           "display_title": "Tosafot Challenge",
           "timestamp": "07:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Case of Royal Seizure of Grain and the Principle of Mishtarshe Leh",
@@ -77,7 +81,9 @@
           "display_title": "Tosafot Distinction",
           "timestamp": "14:23"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of Purchasing Animal Organs from a Butcher and Priestly Gifts in Purchased Items",
@@ -104,7 +110,9 @@
           "display_title": "Gifts While Exist",
           "timestamp": "17:52"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Nine Gifts of the Kohen and the Meaning of Nichsei Kohen",
@@ -126,7 +134,9 @@
           "display_title": "Freedom of Use",
           "timestamp": "22:06"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Levi Who Grabbed Priestly Gifts and the Debate Over Leviyim in the Term Am",
@@ -153,7 +163,9 @@
           "display_title": "Rav's Doubt",
           "timestamp": "27:18"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Priestly Gifts (Kohen Gifts) vs. Gifts to the Poor: Different Enforcement Rules",
@@ -165,7 +177,9 @@
           "display_title": "Rav Idi Question",
           "timestamp": "30:21"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Gifts to the Poor: Gifts of the Field and Maaser Ani With Their Different Rules",
@@ -192,7 +206,9 @@
           "display_title": "Maaser Ani House",
           "timestamp": "33:01"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Priestly Gifts (Kohen Gifts) vs. Gifts to the Poor: Different Enforcement Rules (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Levi to Kohen",
           "timestamp": "35:38"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gifts to the Poor: Gifts of the Field and Maaser Ani With Their Different Rules (continued)",
@@ -231,7 +249,9 @@
           "display_title": "Poverty Lesson",
           "timestamp": "43:18"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Reading the Braitah on Kohen vs. Levi Obligations: Attempts to Narrow the Case",
@@ -253,7 +273,9 @@
           "display_title": "No Kedusha Cases",
           "timestamp": "50:50"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Direct Proof That Leviyim Are Obligated: The Case of Shechting for a Levi vs. Shechting for a Non-Jew",
@@ -275,7 +297,9 @@
           "display_title": "Counter Argument",
           "timestamp": "53:30"
         }
-      ]
+      ],
+      "sefaria_index": 30,
+      "matched": true
     },
     {
       "title": "Tannaitic Dispute Over Whether Leviyim Are Included in the Term Am",
@@ -297,7 +321,9 @@
           "display_title": "Rav's Uncertainty",
           "timestamp": "55:52"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -546,5 +572,6 @@
         "07:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

@@ -23,7 +23,9 @@
           "display_title": "Pasuk Source",
           "timestamp": "00:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Dispute of Rabbi Shimon vs. Chachamim on Chullin Shenishchatu Ba'azarah",
@@ -45,7 +47,9 @@
           "display_title": "Not Biblical",
           "timestamp": "03:29"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Understanding 'Lav De-Oraisa': Biblical vs. Rabbinic Prohibition and Object Status",
@@ -67,7 +71,9 @@
           "display_title": "Tosafot Analysis",
           "timestamp": "08:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Rabbeinu Tam vs. Rashi: The Nature of Chametz and Stringency of Prohibited Objects",
@@ -89,7 +95,9 @@
           "display_title": "Extension Doctrine",
           "timestamp": "10:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Challenge to Rabbi Shimon: Burning Chullin Shenishchatu Ba'azarah Despite Permissibility for Marriage",
@@ -111,7 +119,9 @@
           "display_title": "Shechita She'eina",
           "timestamp": "15:42"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Braita on Treifah Animal: Rabbi Shimon vs. Chachamim on Status of Invalid Slaughter",
@@ -128,7 +138,9 @@
           "display_title": "R. Shimon vs. Chachamim",
           "timestamp": "16:34"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Transition: From Forbidden Objects to Benefit Transfers via Money and Exceptions",
@@ -150,7 +162,9 @@
           "display_title": "Two Verses Rule",
           "timestamp": "20:51"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Shemitah Produce: Status Transfers Continuously Through Exchanges",
@@ -172,7 +186,9 @@
           "display_title": "Exception Parallels",
           "timestamp": "23:50"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Mishnah: Using Terumot, Ma'asrot, Temple Gifts, and Chatas Water/Ash for Kiddushin",
@@ -194,7 +210,9 @@
           "display_title": "Chatas/Parah",
           "timestamp": "28:55"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Ulla's Teaching: Tovas Hana'ah (Benefit of Choosing Recipient) Not Monetary Value",
@@ -216,7 +234,9 @@
           "display_title": "Choice Benefit",
           "timestamp": "31:16"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Rav Abba's Challenge: How Can Tovas Hana'ah Allow Marriage if It's Not Money?",
@@ -238,7 +258,9 @@
           "display_title": "Rashi Critique",
           "timestamp": "34:54"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Inherited Tevel from Kohen Grandfather: Ownership Through Potential Gifts",
@@ -260,7 +282,9 @@
           "display_title": "Grandfather's Claim",
           "timestamp": "36:06"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     },
     {
       "title": "Rav Chiyya bar Avin's Question to Rav Huna on Tovas Hana'ah as Monetary Value",
@@ -287,7 +311,9 @@
           "display_title": "Rav's Deflection",
           "timestamp": "40:34"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Debate on Stealing Tevel: Does Owner Have Monetary Stake in Obligatory Gifts?",
@@ -309,7 +335,9 @@
           "display_title": "Benefit = Ownership?",
           "timestamp": "43:10"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Alternative Explanation: Debate About Tevel from Kohen Ancestor and Matanot Status",
@@ -331,7 +359,9 @@
           "display_title": "R.Y.B.Y: Not Pre-owned",
           "timestamp": "45:03"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Gemara's Resolution: Thief Penalty Overrides Ownership Analysis",
@@ -353,7 +383,9 @@
           "display_title": "Shmuel Alternative",
           "timestamp": "45:11"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Mei Chatas and Eifer Parah: Service for Drawing Water and Transporting Ash, Not the Act Itself",
@@ -380,7 +412,9 @@
           "display_title": "Language Check",
           "timestamp": "54:23"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -563,5 +597,6 @@
         "45:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

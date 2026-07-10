@@ -23,7 +23,9 @@
           "display_title": "Facing the Sun",
           "timestamp": "04:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Alexander the Great and the Ten Questions of the Sages of the South",
@@ -115,7 +117,9 @@
           "display_title": "Classical Parallels",
           "timestamp": "30:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Alexander's Journey to Africa and Encounter with the Amazons",
@@ -132,7 +136,9 @@
           "display_title": "Crossing Darkness",
           "timestamp": "35:59"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Alexander's Journey to Africa and Encounter with the Amazons (continued)",
@@ -154,7 +160,9 @@
           "display_title": "Gate Inscription",
           "timestamp": "37:12"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Alexander at the Garden of Eden: The Eyeball and the Limit of Desire",
@@ -191,7 +199,9 @@
           "display_title": "Sheol Verse",
           "timestamp": "64:17"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Concluding Teachings on Torah Study and Peace",
@@ -218,7 +228,9 @@
           "display_title": "End of Gemara",
           "timestamp": "64:52"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Morning Service in the Temple: Blessing Before the Offering",
@@ -255,7 +267,9 @@
           "display_title": "Shabbat Blessing",
           "timestamp": "69:32"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -362,5 +376,6 @@
         "69:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

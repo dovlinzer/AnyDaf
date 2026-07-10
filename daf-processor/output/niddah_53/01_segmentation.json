@@ -33,7 +33,9 @@
           "display_title": "Rabbis Counter",
           "timestamp": "04:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Chanina ben Antignos and the Conditions for Treating Stains as Zavah",
@@ -65,7 +67,9 @@
           "display_title": "3 Beans Argument",
           "timestamp": "11:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gris (Bean) Measurement and the Debate Over Stain Size Requirements",
@@ -92,7 +96,9 @@
           "display_title": "Rabbis Respond",
           "timestamp": "15:52"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Clarification of the Dispute: Location of Stains (Single Spot vs. Multiple Spots)",
@@ -114,7 +120,9 @@
           "display_title": "Settlement",
           "timestamp": "17:27"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": false
     },
     {
       "title": "Baraita on Stain Size: Three Gris and More Equals Zavah Concern",
@@ -136,7 +144,9 @@
           "display_title": "Rebbi Analysis",
           "timestamp": "20:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Bein Hashmashos Complication: Twilight and Double-Counting of Bleeding",
@@ -168,7 +178,9 @@
           "display_title": "Eliminate Twilight",
           "timestamp": "29:44"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rabbi Rebbi's Position on When Twilight Concern Applies",
@@ -195,7 +207,9 @@
           "display_title": "No Checking Agreement",
           "timestamp": "40:12"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Reconciling Two Versions of Rabbi Yehuda ben Agra's Position",
@@ -222,7 +236,9 @@
           "display_title": "Twilight Timing",
           "timestamp": "51:12"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Retroactive Assumption of Tumah: How Far Back Does a Stain Affect Previous Acts?",
@@ -249,7 +265,9 @@
           "display_title": "Full Correction",
           "timestamp": "54:23"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Connecting Stains to Subsequent Bleeding: The Twenty-Four Hour Rule",
@@ -276,7 +294,9 @@
           "display_title": "Consequences",
           "timestamp": "56:29"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Do Stains Require Hefsek Tahara (Checking Before Immersion)?",
@@ -313,7 +333,9 @@
           "display_title": "Recognition",
           "timestamp": "60:59"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -480,5 +502,6 @@
         "43:07"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

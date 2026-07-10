@@ -23,7 +23,9 @@
           "display_title": "Categories Applied",
           "timestamp": "01:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis of Watering Fields (Mashkin Beit Hashalchin) on Chol HaMoed and Shemita",
@@ -45,7 +47,9 @@
           "display_title": "Shemita Problem",
           "timestamp": "04:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Abaye's Position: Shemita Nowadays is Rabbinic and Follows Rabbi's View",
@@ -67,7 +71,9 @@
           "display_title": "Post-Churban Status",
           "timestamp": "07:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Position: Only Explicit Avot are Biblical, All Toladot are Rabbinic",
@@ -94,7 +100,9 @@
           "display_title": "Asmachta Resolution",
           "timestamp": "23:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Debate on Charisha (Plowing): Whether it is Biblically Forbidden and Whether Violator Receives Lashes",
@@ -121,7 +129,9 @@
           "display_title": "Rava's Specificity",
           "timestamp": "32:19"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rav Dimi's Report from Eretz Yisrael and Two Interpretations of Tosefet (Added Time Period)",
@@ -143,7 +153,9 @@
           "display_title": "Tosefet as Days",
           "timestamp": "40:05"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Mishna and Talmud on Plowing Periods: When Work May Continue Before Shemita Begins (Pesach, Shavuot, Rosh Hashanah)",
@@ -170,7 +182,9 @@
           "display_title": "Stipulation Clause",
           "timestamp": "46:31"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Source of Tosefet: Halacha L'Moshe MiSinai (One Month) vs. Rabbinic Addition (Back to Pesach/Shavuot)",
@@ -197,7 +211,9 @@
           "display_title": "Rabbinic Portion",
           "timestamp": "58:38"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -453,5 +469,6 @@
         "46:31"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

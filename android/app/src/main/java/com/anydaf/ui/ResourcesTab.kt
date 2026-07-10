@@ -201,6 +201,9 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
         )
     ) {
         Column(modifier = Modifier.padding(12.dp)) {
+            val titleSize = fontSize
+            val bodySize = fontSize * 0.85f
+            val labelSize = fontSize * 0.75f
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
@@ -208,7 +211,10 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
             ) {
                 Text(
                     text = article.title,
-                    style = MaterialTheme.typography.titleSmall.copy(fontSize = fontSize),
+                    style = MaterialTheme.typography.titleSmall.copy(
+                        fontSize = titleSize,
+                        lineHeight = (titleSize.value * 1.35f).sp
+                    ),
                     modifier = Modifier.weight(1f),
                     maxLines = 2,
                     overflow = TextOverflow.Ellipsis
@@ -223,7 +229,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                             label = {
                                 Text(
                                     "Daf $d",
-                                    style = MaterialTheme.typography.labelSmall.copy(fontSize = fontSize * 0.75f)
+                                    style = MaterialTheme.typography.labelSmall.copy(fontSize = labelSize)
                                 )
                             }
                         )
@@ -234,7 +240,10 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                 Spacer(Modifier.height(2.dp))
                 Text(
                     text = article.authorName,
-                    style = MaterialTheme.typography.bodySmall.copy(fontSize = fontSize * 0.85f),
+                    style = MaterialTheme.typography.bodySmall.copy(
+                        fontSize = bodySize,
+                        lineHeight = (bodySize.value * 1.4f).sp
+                    ),
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
             }
@@ -242,7 +251,10 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                 Spacer(Modifier.height(4.dp))
                 Text(
                     text = article.excerpt,
-                    style = MaterialTheme.typography.bodySmall.copy(fontSize = fontSize * 0.85f),
+                    style = MaterialTheme.typography.bodySmall.copy(
+                        fontSize = bodySize,
+                        lineHeight = (bodySize.value * 1.4f).sp
+                    ),
                     maxLines = 3,
                     overflow = TextOverflow.Ellipsis,
                     color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
@@ -251,7 +263,7 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
             Spacer(Modifier.height(4.dp))
             Text(
                 text = article.date,
-                style = MaterialTheme.typography.labelSmall.copy(fontSize = fontSize * 0.75f),
+                style = MaterialTheme.typography.labelSmall.copy(fontSize = labelSize),
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
         }

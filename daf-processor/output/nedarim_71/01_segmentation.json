@@ -23,7 +23,9 @@
           "display_title": "Father as Anchor",
           "timestamp": "02:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara's Challenge: Does the Last Groom Annul Vows Heard by the First Groom?",
@@ -45,7 +47,9 @@
           "display_title": "Shmuel's Position",
           "timestamp": "05:47"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Braita Proving Shmuel's Point: Groom Heard, Died, Father and Next Groom Can Still Annul",
@@ -72,7 +76,9 @@
           "display_title": "Beit Shammai vs Hillel",
           "timestamp": "10:39"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Interpretation of Beit Shammai and Beit Hillel Dispute: Role-Staking and Transferability",
@@ -94,7 +100,9 @@
           "display_title": "Hafara as Key Factor",
           "timestamp": "17:34"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "New Question: Does Divorce (Gerushin) Constitute Hakama (Affirmation of Vow)?",
@@ -116,7 +124,9 @@
           "display_title": "Divorce & Remarriage Case",
           "timestamp": "24:25"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "First Proof Attempt: Can Last Groom Annul If Vow Was Affirmed by First Groom?",
@@ -133,7 +143,9 @@
           "display_title": "Mishnah Qualification",
           "timestamp": "32:04"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Testing Gerushin as Hakama: Explicit Braita on Divorce and Remarriage Same Day",
@@ -160,7 +172,9 @@
           "display_title": "Ran's Nesuah Analysis",
           "timestamp": "36:29"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "Unresolved Question: Nature of Hakama and Requirements for Its Performance",
@@ -177,7 +191,9 @@
           "display_title": "Hakama & Verbal Acts",
           "timestamp": "37:10"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -345,5 +361,6 @@
         "36:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

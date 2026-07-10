@@ -28,7 +28,9 @@
           "display_title": "Ten Cups Wine",
           "timestamp": "20:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Claim of Non-Virginity: Pesach Patuach versus Absence of Blood",
@@ -65,7 +67,9 @@
           "display_title": "Uriah Get",
           "timestamp": "46:57"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Wednesday Wedding and Next-Morning Court Hearing: Implications of Non-Virginity Claims",
@@ -97,7 +101,9 @@
           "display_title": "Rashi Credibility",
           "timestamp": "50:02"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -331,5 +337,6 @@
         "09:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

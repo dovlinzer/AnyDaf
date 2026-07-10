@@ -28,7 +28,9 @@
           "display_title": "Linking Debates",
           "timestamp": "04:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Continuation of the High Priest's Mincha When He Is Unavailable or Disqualified",
@@ -50,7 +52,9 @@
           "display_title": "Whole or Halves",
           "timestamp": "09:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Source of Funds for the Posthumous Mincha: Heirs or Communal Treasury",
@@ -77,7 +81,9 @@
           "display_title": "Resolution",
           "timestamp": "14:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Practical Implications of Bringing the Mincha as a Whole Unit",
@@ -99,7 +105,9 @@
           "display_title": "Oil Proportion",
           "timestamp": "21:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbinic Ordinances Regarding Sacred Items and the No-Me'ila Rule",
@@ -121,7 +129,9 @@
           "display_title": "Bird Replacement",
           "timestamp": "26:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Purity Status of Spittle Found in Jerusalem",
@@ -143,7 +153,9 @@
           "display_title": "Festival Reversal",
           "timestamp": "30:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Purity Status of Vessels Found in Jerusalem",
@@ -170,7 +182,9 @@
           "display_title": "Grave Implements",
           "timestamp": "33:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Slaughtering Knife on the Fourteenth of Nisan and Related Cases",
@@ -197,7 +211,9 @@
           "display_title": "Tied Together",
           "timestamp": "37:14"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Purity Status of Spittle Found in Jerusalem (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Non-Jewish Presence",
           "timestamp": "39:23"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Extended Digression: The Blood of a Carcass and Related Purity Matters",
@@ -236,7 +254,9 @@
           "display_title": "Amoraim Dispute",
           "timestamp": "48:08"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Road Behavior of Pure and Impure Individuals During Normal and Festival Times",
@@ -253,7 +273,9 @@
           "display_title": "Festival Period",
           "timestamp": "52:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Grave-Related Implements and Their Identification",
@@ -275,7 +297,9 @@
           "display_title": "Tied Implements",
           "timestamp": "53:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -551,5 +575,6 @@
         "52:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 2
 }

@@ -18,7 +18,9 @@
           "display_title": "Daily Opening",
           "timestamp": "01:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Yichud (Private Seclusion) Between Men and Women: Biblical and Rabbinic Sources",
@@ -45,7 +47,9 @@
           "display_title": "Yichud Non-Jews",
           "timestamp": "06:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Clarification of Gezeirot: Wine, Oil, Bread, and Daughters Through Euphemism",
@@ -62,7 +66,9 @@
           "display_title": "Non-Jewish Boys",
           "timestamp": "08:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Age of Tumah for Non-Jewish Children: Boys at Nine, Girls at Three",
@@ -84,7 +90,9 @@
           "display_title": "Ravina Girls",
           "timestamp": "14:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Oil Permitting Court and Rabbi Yehuda Nesi'ah's Multiple Lenient Rulings",
@@ -101,7 +109,9 @@
           "display_title": "Yosef Sharya",
           "timestamp": "19:04"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Get After Death (Gitin) Tangent: Retroactive Conditions and Permissive Positions",
@@ -133,7 +143,9 @@
           "display_title": "Shtar Date",
           "timestamp": "31:43"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Yosef ben Yoezer's Three Leniencies: Locusts, Temple Liquids, and Corpse Impurity",
@@ -155,7 +167,9 @@
           "display_title": "Corpse Impurity",
           "timestamp": "39:38"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Safek Tumah BeReshut HaRabim: Yosef ben Yoezer's Publicization of a Hidden Halacha",
@@ -177,7 +191,9 @@
           "display_title": "Rivers Tevilah",
           "timestamp": "46:33"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Introduction to Shlukos: Non-Jewish Cooked Foods and the Concern of Bishul Akum",
@@ -194,7 +210,9 @@
           "display_title": "Bishul Akum",
           "timestamp": "52:45"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -372,5 +390,6 @@
         "54:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -5,7 +5,8 @@ import WebKit
 
 enum PrintableContent {
     case shiur(tractate: String, daf: String, text: String)
-    case talmudText(tractate: String, daf: String, sections: [StudySection], mode: SourceDisplayMode)
+    case talmudText(tractate: String, daf: String, sections: [StudySection], mode: TextDisplayMode,
+                    precedingContext: String? = nil, followingContext: String? = nil)
     case article(article: YCTArticle, html: String)
 }
 
@@ -282,16 +283,16 @@ enum PrintManager {
 
     fileprivate static func jobTitle(for content: PrintableContent) -> String {
         switch content {
-        case .shiur(let t, let d, _):         return "Shiur — \(t) \(d)"
-        case .talmudText(let t, let d, _, _): return "\(t) \(d)"
-        case .article(let a, _):              return a.title
+        case .shiur(let t, let d, _):                  return "Shiur — \(t) \(d)"
+        case .talmudText(let t, let d, _, _, _, _):    return "\(t) \(d)"
+        case .article(let a, _):                       return a.title
         }
     }
 
     fileprivate static func runningTitle(for content: PrintableContent) -> String {
         switch content {
-        case .shiur(let t, let d, _):         return "\(t) \(d) — Shiur"
-        case .talmudText(let t, let d, _, _): return "\(t) \(d)"
+        case .shiur(let t, let d, _):                  return "\(t) \(d) — Shiur"
+        case .talmudText(let t, let d, _, _, _, _):    return "\(t) \(d)"
         case .article(let a, _):
             return a.authorName.isEmpty ? a.title : "\(a.title) — \(a.authorName)"
         }
@@ -300,7 +301,7 @@ enum PrintManager {
     // Base URL enables WKWebView to load article images from the article's origin.
     // Shiur and talmud have no remote images so nil is fine.
     fileprivate static func baseURL(for content: PrintableContent) -> URL? {
-        guard case .article(let article, _) = content,
+        guard case .article(let article, _) = content, // talmudText never has remote images
               let url  = URL(string: article.link),
               let host = url.host,
               let scheme = url.scheme
@@ -343,10 +344,11 @@ enum PrintManager {
             subtitle = "Shiur"
             body     = shiurBodyHTML(from: text)
 
-        case .talmudText(let tractate, let daf, let sections, let mode):
+        case .talmudText(let tractate, let daf, let sections, let mode, let preceding, let following):
             title    = "\(tractate) \(daf)"
-            subtitle = mode == .stacked ? "Text and Translation" : "Translation"
-            body     = talmudBodyHTML(sections: sections, mode: mode)
+            subtitle = mode == .both ? "Text and Translation" : (mode == .source ? "Source Text" : "Translation")
+            body     = talmudBodyHTML(sections: sections, mode: mode,
+                                      precedingContext: preceding, followingContext: following)
 
         case .article(let article, let html):
             title    = article.title
@@ -461,19 +463,25 @@ enum PrintManager {
         .translation strong { color: #1B3A8A; font-weight: normal; }
         em { font-style: italic; }
 
-        /* ── Talmud text ── */
-        .section-label {
-          font-size: \(max(fs - 2, 8))pt; font-weight: bold; color: #1B3A8A;
-          letter-spacing: 1pt; text-transform: uppercase;
-          margin: 18pt 0 8pt 0;
+        /* ── Adjacent-daf context (shaded italic brackets) ── */
+        .adj-context {
+          font-style: italic;
+          color: #666;
+          background: #f2f2f2;
+          padding: 5pt 10pt;
+          border-radius: 3pt;
+          margin-bottom: 12pt;
         }
+
+        /* ── Talmud text ── */
         .hebrew-block {
           direction: rtl; text-align: right;
           font-size: \(fs + 1)pt; line-height: \(ls);
           margin-bottom: 8pt;
         }
-        .english-block { margin-bottom: 14pt; }
-        .english-block b, .english-block strong { color: #1B3A8A; font-weight: normal; }
+        /* English translation paragraphs use the global p { margin-bottom: 9pt } rule. */
+        /* Sefaria uses <b>/<i> for source-word emphasis — render blue/non-bold like shiur. */
+        .talmud-body p b, .talmud-body p strong { color: #1B3A8A; font-weight: normal; }
         .pair-divider {
           border: none; border-top: 1px dashed #ccc;
           margin: 8pt 0 10pt 0;
@@ -520,24 +528,70 @@ enum PrintManager {
 
     // MARK: - Talmud text HTML
 
-    private static func talmudBodyHTML(sections: [StudySection], mode: SourceDisplayMode) -> String {
-        var html = ""
-        let showHebrew = (mode == .stacked)
-        for section in sections {
-            if !section.title.isEmpty {
-                html += "<div class=\"section-label\">\(escapeHTML(section.title))</div>\n"
-            }
-            if showHebrew, let hebrewHTML = section.hebrewText, !hebrewHTML.isEmpty {
-                let stripped = stripHTMLTags(hebrewHTML)
-                if !stripped.isEmpty {
-                    html += "<div class=\"hebrew-block\">\(escapeHTML(stripped))</div>\n"
-                    html += "<hr class=\"pair-divider\">\n"
+    private static func talmudBodyHTML(sections: [StudySection], mode: TextDisplayMode,
+                                        precedingContext: String? = nil,
+                                        followingContext: String? = nil) -> String {
+        var html = "<div class=\"talmud-body\">\n"
+
+        // Preceding-daf context: shown when this daf opens mid-sentence.
+        if let ctx = precedingContext, !ctx.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            html += "<p class=\"adj-context\">[\u{2026}\(escapeHTML(ctx))]</p>\n"
+        }
+
+        let total = sections.count
+        for (i, section) in sections.enumerated() {
+            html += "<h2>Section \(i + 1)/\(total)</h2>\n"
+
+            switch mode {
+            case .source:
+                for heb in section.hebrewSegments where !heb.isEmpty {
+                    let stripped = stripHTMLTags(heb)
+                    if !stripped.isEmpty {
+                        html += "<div class=\"hebrew-block\">\(escapeHTML(stripped))</div>\n"
+                    }
+                }
+
+            case .translation:
+                // rawSegments holds individual Sefaria verses; fall back to splitting
+                // rawText only if rawSegments is unexpectedly empty.
+                let segs = section.rawSegments.isEmpty
+                    ? section.rawText.components(separatedBy: "\n\n")
+                    : section.rawSegments
+                for seg in segs where !seg.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                    // Bare <p> so the global p { margin-bottom: 9pt } rule applies and
+                    // each verse is visually separated (same structure as shiur body text).
+                    html += "<p>\(seg)</p>\n"
+                }
+
+            case .both:
+                let hebrewSegs  = section.hebrewSegments
+                let englishSegs = section.rawSegments.isEmpty
+                    ? section.rawText.components(separatedBy: "\n\n")
+                    : section.rawSegments
+                let count = max(hebrewSegs.count, englishSegs.count)
+                for i in 0..<count {
+                    let heb = i < hebrewSegs.count ? hebrewSegs[i] : ""
+                    let eng = i < englishSegs.count ? englishSegs[i] : ""
+                    let hebStripped = stripHTMLTags(heb)
+                    if !hebStripped.isEmpty {
+                        html += "<div class=\"hebrew-block\">\(escapeHTML(hebStripped))</div>\n"
+                    }
+                    if !eng.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                        html += "<p>\(eng)</p>\n"
+                    }
+                    if !hebStripped.isEmpty || !eng.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                        html += "<hr class=\"pair-divider\">\n"
+                    }
                 }
             }
-            if !section.rawText.isEmpty {
-                html += "<div class=\"english-block\">\(section.rawText)</div>\n"
-            }
         }
+
+        // Following-daf context: shown when this daf ends mid-sentence.
+        if let ctx = followingContext, !ctx.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+            html += "<p class=\"adj-context\">[\(escapeHTML(ctx))\u{2026}]</p>\n"
+        }
+
+        html += "</div>\n"  // .talmud-body
         return html
     }
 

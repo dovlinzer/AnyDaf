@@ -33,7 +33,9 @@
           "display_title": "Nikva Size",
           "timestamp": "04:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Dryness of the Ear and Disputes Over Hole Size Standards",
@@ -55,7 +57,9 @@
           "display_title": "K'adasha Standard",
           "timestamp": "06:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Martzea (Awl) and Tools for Making Holes in Slave's Ear",
@@ -82,7 +86,9 @@
           "display_title": "Kohen Exclusion",
           "timestamp": "09:34"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Distinguishing Mum Levels: Disqualification vs. Permissibility to Eat Outside Mikdash",
@@ -99,7 +105,9 @@
           "display_title": "Rashi Levels",
           "timestamp": "14:03"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     },
     {
       "title": "Measurement Standards: Karshina, Sela, and the Size of Puncturing Tools",
@@ -131,7 +139,9 @@
           "display_title": "Neronian Sela",
           "timestamp": "23:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Digression into Purity Laws: Statement of Chizkiyah Avi Akash on Vessels",
@@ -158,7 +168,9 @@
           "display_title": "No Distinction Rule",
           "timestamp": "47:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Return to Beis Shammai vs. Beis Hillel: Resolving the Sela/Makdach Equivalence",
@@ -180,7 +192,9 @@
           "display_title": "Rav Nachman Final",
           "timestamp": "53:11"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Eye Blemishes: Haris (Eyelid) and Various Ocular Defects",
@@ -207,7 +221,9 @@
           "display_title": "Haris/Eyelid",
           "timestamp": "56:11"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -428,5 +444,6 @@
         "55:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

@@ -18,7 +18,9 @@
           "display_title": "Default Rule Debate",
           "timestamp": "00:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Distinguishing Cases of Menasech: Direct Pouring vs. Mixing, and the Principle of Kam Leih B'Derabbah Mineih",
@@ -40,7 +42,9 @@
           "display_title": "Tosafot Resolution",
           "timestamp": "08:46"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Why All Three Cases Are Necessary: Prevalence, Extent of Loss, and Additional Transgressions",
@@ -57,7 +61,9 @@
           "display_title": "Case Distinctions",
           "timestamp": "20:59"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Fundamental Debate: Is Invisible Damage Considered Damage at All? Chizkiyah vs. Rabbi Yochanan",
@@ -84,7 +90,9 @@
           "display_title": "Knas vs. Tashlumim",
           "timestamp": "31:40"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Proofs from Related Cases: Pigul in the Temple and Parah Adumah",
@@ -116,7 +124,9 @@
           "display_title": "Hesach Hada'at",
           "timestamp": "43:05"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -342,5 +352,6 @@
         "40:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

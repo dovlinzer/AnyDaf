@@ -33,7 +33,9 @@
           "display_title": "Amoraic Consensus",
           "timestamp": "05:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Two Identical Gittin Mixed Up: When Uncertainty Prevents Effective Delivery",
@@ -45,7 +47,9 @@
           "display_title": "Setup: Two Identical",
           "timestamp": "07:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Multiple Husbands in One Get: When Collective and Individual Statements Combine",
@@ -57,7 +61,9 @@
           "display_title": "One Date, Multiple Names",
           "timestamp": "10:20"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Two Identical Gittin Mixed Up: When Uncertainty Prevents Effective Delivery (continued)",
@@ -74,7 +80,9 @@
           "display_title": "Abaye's Answer",
           "timestamp": "17:17"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Multiple Husbands in One Get: When Collective and Individual Statements Combine (continued)",
@@ -106,7 +114,9 @@
           "display_title": "ben Beteira: Revach",
           "timestamp": "32:12"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Two Gittin Written in Parallel Columns with Witnesses Underneath",
@@ -148,7 +158,9 @@
           "display_title": "Our Tanna's View",
           "timestamp": "50:56"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -302,5 +314,6 @@
         "52:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

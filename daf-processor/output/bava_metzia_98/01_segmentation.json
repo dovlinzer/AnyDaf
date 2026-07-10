@@ -33,7 +33,9 @@
           "display_title": "Case 4: Both Uncertain",
           "timestamp": "01:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Challenge on Case 1: Bari ve-Shema (Definite vs. Doubtful) and Chezkat Mamon",
@@ -60,7 +62,9 @@
           "display_title": "Galgul Shvua",
           "timestamp": "03:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Case: Modeh B'Miktzat (Partial Admission) and the Principle of Mitoch She'eino Yachol Lehishava Meshalem",
@@ -92,7 +96,9 @@
           "display_title": "Resolution",
           "timestamp": "09:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rami Bar Chama's Stricter View: Four Guards Require Both Confession and Denial (Kfira B'Miktzat)",
@@ -124,7 +130,9 @@
           "display_title": "Why Both Required",
           "timestamp": "14:47"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Case 3 of the Mishnah: Opposing Claims, Galgul Shvua, and the Oath of the Renter",
@@ -146,7 +154,9 @@
           "display_title": "Adding the Oath",
           "timestamp": "18:10"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Case 4 of the Mishnah: Both Parties Uncertain, Sumchus and the Division of Doubt",
@@ -163,7 +173,9 @@
           "display_title": "Sumchus Debate",
           "timestamp": "19:46"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Ba'alim (Owners Present) and Its Effect on Liability: Ba'alim She'achar ve-Lo Ba'alim",
@@ -210,7 +222,9 @@
           "display_title": "Question 4: Teiku",
           "timestamp": "26:54"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -474,5 +488,6 @@
         "17:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

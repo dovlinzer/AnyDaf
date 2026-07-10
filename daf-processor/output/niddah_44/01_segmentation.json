@@ -18,7 +18,9 @@
           "display_title": "Niddah Blood",
           "timestamp": "00:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Infants and Early Development: Niddah, Zavah, and Zav Status",
@@ -45,7 +47,9 @@
           "display_title": "Tosafot on Psukim",
           "timestamp": "02:03"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Birth as Threshold: Yibum, Terumah, and Legal Status of the Newborn",
@@ -82,7 +86,9 @@
           "display_title": "Aveilus & Choson",
           "timestamp": "08:01"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara on Infants: Textual Derivations from Scripture for Early Tumah",
@@ -119,7 +125,9 @@
           "display_title": "Met Tumah from Nefesh",
           "timestamp": "12:35"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Gemara on Birth Requirement: Yibum, Terumah, and the Fetal Status Question",
@@ -161,7 +169,9 @@
           "display_title": "Two Wives Case",
           "timestamp": "20:44"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": false
     },
     {
       "title": "Inheritance and Bequest: The Halakhic Significance of Birth for Property Transmission",
@@ -188,7 +198,9 @@
           "display_title": "Mother's Property Case",
           "timestamp": "26:57"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Fetal Viability and Death: Medical-Halakhic Analysis of When Life Begins",
@@ -225,7 +237,9 @@
           "display_title": "Shabbat Paradox",
           "timestamp": "34:07"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Inheritance and Bequest: The Halakhic Significance of Birth for Property Transmission (continued)",
@@ -242,7 +256,9 @@
           "display_title": "Halacha: Rav Yosef",
           "timestamp": "40:11"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": false
     },
     {
       "title": "Murder and Mourning: Legal Consequences of Birth for Capital Offense and Aveilus",
@@ -254,7 +270,9 @@
           "display_title": "Murder Threshold",
           "timestamp": "40:36"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Fetal Viability and Death: Medical-Halakhic Analysis of When Life Begins (continued)",
@@ -266,7 +284,9 @@
           "display_title": "Rav Moshe: Murder",
           "timestamp": "40:42"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Murder and Mourning: Legal Consequences of Birth for Capital Offense and Aveilus (continued)",
@@ -293,7 +313,9 @@
           "display_title": "Early Viability Signs",
           "timestamp": "43:27"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Three Years and a Day: The Halakhic Threshold for Valid Sexual Acts",
@@ -340,7 +362,9 @@
           "display_title": "Under 3 Years",
           "timestamp": "50:54"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -561,5 +585,6 @@
         "40:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

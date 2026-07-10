@@ -18,7 +18,9 @@
           "display_title": "Daf Navigation",
           "timestamp": "00:36"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Priestly Division of Shavuot Offerings: Lechem Hapanim and Shtei Halechem",
@@ -35,7 +37,9 @@
           "display_title": "Mishnah Order",
           "timestamp": "01:59"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Debate on Order of Blessings: Sukkah vs. Shehecheyanu on First Night",
@@ -67,7 +71,9 @@
           "display_title": "Tadir Principle",
           "timestamp": "05:02"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Connection to Beit Shammai vs. Beit Hillel Debate on Kiddush Order",
@@ -109,7 +115,9 @@
           "display_title": "Rabbah's Counter",
           "timestamp": "10:33"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Mishnah Evidence on Matzah vs. Chametz and Rav's Minority Position",
@@ -131,7 +139,9 @@
           "display_title": "Rav Minority",
           "timestamp": "16:21"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Final Halakhic Ruling on Sukkah and Shehecheyanu Order",
@@ -163,7 +173,9 @@
           "display_title": "Second Day Exception",
           "timestamp": "18:07"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Communal Sacrifices and Distribution: Regular Regalim and Special Cases",
@@ -185,7 +197,9 @@
           "display_title": "Kayitz Ha-Mizbeiach",
           "timestamp": "21:31"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Yom Tov Adjacent to Shabbat: Early Arrivals and Late Departures",
@@ -197,7 +211,9 @@
           "display_title": "Yom Tov-Shabbat Adjacency",
           "timestamp": "22:27"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Communal Sacrifices and Distribution: Regular Regalim and Special Cases (continued)",
@@ -209,7 +225,9 @@
           "display_title": "Tamid/Musaf Exclusion",
           "timestamp": "23:33"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Yom Tov Adjacent to Shabbat: Early Arrivals and Late Departures (continued)",
@@ -226,7 +244,9 @@
           "display_title": "One-Day Gap Division",
           "timestamp": "24:45"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Regular Division of Lechem Hapanim: Incoming vs. Outgoing Mishmarot",
@@ -248,7 +268,9 @@
           "display_title": "North-South Placement",
           "timestamp": "26:46"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Yom Tov Adjacent to Shabbat: Early Arrivals and Late Departures (continued)",
@@ -260,7 +282,9 @@
           "display_title": "Communal Eating",
           "timestamp": "29:58"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Regular Division of Lechem Hapanim: Incoming vs. Outgoing Mishmarot (continued)",
@@ -282,7 +306,9 @@
           "display_title": "Bird in Hand",
           "timestamp": "33:08"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Musaf Distribution Debate: Rav Yehuda's Position on Skins",
@@ -314,7 +340,9 @@
           "display_title": "Final Contradiction",
           "timestamp": "39:17"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Bilgah Mishmar Penalty: The Story of Miriam bat Bilgah",
@@ -346,7 +374,9 @@
           "display_title": "Negligence Theory",
           "timestamp": "43:49"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Collective Punishment and Community Responsibility: Abaye's Defense",
@@ -373,7 +403,9 @@
           "display_title": "Woe/Blessing Principle",
           "timestamp": "49:25"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     },
     {
       "title": "Conclusion: Closing Remarks and Transition to Next Masechet",
@@ -390,7 +422,9 @@
           "display_title": "Next Masechet",
           "timestamp": "51:55"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -573,5 +607,6 @@
         "07:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

@@ -33,7 +33,9 @@
           "display_title": "Maaser Behema",
           "timestamp": "04:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The 24 Gifts of Kehuna (Matnos Kehuna) and Their Classifications",
@@ -65,7 +67,9 @@
           "display_title": "Gezel Location",
           "timestamp": "15:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Abbaye's Argument on Partial Atonement and the Challenge of Unarticulated Conditions",
@@ -102,7 +106,9 @@
           "display_title": "Context vs Condition",
           "timestamp": "28:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Order of Giving Money and Korban: Which Must Come First?",
@@ -144,7 +150,9 @@
           "display_title": "Expired Mishmarot",
           "timestamp": "38:48"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Deriving the Order of Money and Korban from Scripture: Gezel Ha-Ger and Me'ila",
@@ -176,7 +184,9 @@
           "display_title": "Chomesh Not Required",
           "timestamp": "48:04"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Introduction to the Final Chapter: Stealing and Shinuy Reshut",
@@ -193,7 +203,9 @@
           "display_title": "Thief Children",
           "timestamp": "50:19"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Rav Chisda's Rule: Ownership Transitions When Hope is Lost (Ye'ush)",
@@ -220,7 +232,9 @@
           "display_title": "Weakened Ownership",
           "timestamp": "53:08"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -432,5 +446,6 @@
         "49:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

@@ -23,7 +23,9 @@
           "display_title": "Eating w/ Blemish",
           "timestamp": "01:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnah: Basic Parameters of Ma'aser Behema",
@@ -55,7 +57,9 @@
           "display_title": "Year Separation",
           "timestamp": "08:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Midrash Halacha: The Logical Argument for Separating Species",
@@ -72,7 +76,9 @@
           "display_title": "Torah's Generic Use",
           "timestamp": "11:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Akiva's Position: Ma'aser Behema Cannot Be Brought from Outside Eretz Yisrael",
@@ -99,7 +105,9 @@
           "display_title": "Sanctify Not Offer",
           "timestamp": "20:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Gemara's Solution: Prohibition Against Counting Ma'aser Today",
@@ -121,7 +129,9 @@
           "display_title": "Takala Response",
           "timestamp": "32:30"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Dealing with Inadvertently Sanctified Objects: Destruction and Transfer of Kedusha",
@@ -153,7 +163,9 @@
           "display_title": "Transfer Kedusha",
           "timestamp": "38:00"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Why Bechor and Ma'aser Require Different Solutions",
@@ -180,7 +192,9 @@
           "display_title": "Tosafot's View",
           "timestamp": "48:15"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Why Ma'aser Cannot Receive a Blanket Blemish Solution",
@@ -212,7 +226,9 @@
           "display_title": "Do Nothing Best",
           "timestamp": "53:29"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Balance: Present Obligation Suspended for Future Readiness",
@@ -224,7 +240,9 @@
           "display_title": "Resume When Ready",
           "timestamp": "54:37"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -537,5 +555,6 @@
         "47:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

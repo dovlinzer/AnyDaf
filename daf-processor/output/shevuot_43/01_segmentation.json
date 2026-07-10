@@ -38,7 +38,9 @@
           "display_title": "Encumbered Property",
           "timestamp": "10:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Objects Excluded from Oath, Double Payment, and Guardianship Obligations",
@@ -60,7 +62,9 @@
           "display_title": "R. Meir Laden Vines",
           "timestamp": "22:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Requirement of Quantifiability in Modeh BeKtszat: When Claims and Admissions Must Be Expressible in Measure, Weight, or Number",
@@ -77,7 +81,9 @@
           "display_title": "House Full Case",
           "timestamp": "25:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Objects Excluded from Oath, Double Payment, and Guardianship Obligations (continued)",
@@ -99,7 +105,9 @@
           "display_title": "Shomer Obligations",
           "timestamp": "29:53"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Requirement of Quantifiability in Modeh BeKtszat: When Claims and Admissions Must Be Expressible in Measure, Weight, or Number (continued)",
@@ -126,7 +134,9 @@
           "display_title": "Menorah Subset",
           "timestamp": "40:47"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Collateral (Mashkon) Cases: Valuation Disputes and Who Takes the Oath When Collateral Value Affects the Debt Remaining",
@@ -163,7 +173,9 @@
           "display_title": "Unusual Oath Rule",
           "timestamp": "48:13"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Protection Against False Oath in Mashkon Case: Why the Lender Takes the Oath and the Remedy of Rav Ashi",
@@ -195,7 +207,9 @@
           "display_title": "Sequential Oaths",
           "timestamp": "55:40"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -376,5 +390,6 @@
         "05:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

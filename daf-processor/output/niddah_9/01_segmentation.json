@@ -73,7 +73,9 @@
           "display_title": "Virgin Definition",
           "timestamp": "14:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Pregnant Woman as Mesuleket Damim: Bleeding During Pregnancy and Non-Viable Birth",
@@ -135,7 +137,9 @@
           "display_title": "Modern Tests",
           "timestamp": "31:39"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Pregnant Woman and the Expected Menstrual Day: Can a Pregnant Woman Ignore Her Period Schedule?",
@@ -167,7 +171,9 @@
           "display_title": "Pregnancy Override",
           "timestamp": "41:11"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Nursing Woman as Mesuleket Damim: Duration and the Dispute Between Rabbi Meir and the Other Tannaim",
@@ -224,7 +230,9 @@
           "display_title": "Semen Parallel",
           "timestamp": "48:55"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Postmenopausal Woman (Zekeinah) as Mesuleket Damim: Appearance, Age, and Cycle Definition",
@@ -261,7 +269,9 @@
           "display_title": "Cycle Length",
           "timestamp": "58:40"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -555,5 +565,6 @@
         "57:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

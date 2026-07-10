@@ -23,7 +23,9 @@
           "display_title": "Sauce",
           "timestamp": "01:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Achila Gassa: Overeating and Forced Consumption as Non-Eating",
@@ -50,7 +52,9 @@
           "display_title": "Terumah",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Non-Standard Modes of Consumption: Chewing Raw Grain and Swallowing Whole",
@@ -72,7 +76,9 @@
           "display_title": "Regurgitated Status",
           "timestamp": "08:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Food and Drink Do Not Combine for Yom Kippur Purposes",
@@ -94,7 +100,9 @@
           "display_title": "Psychological Reality",
           "timestamp": "14:46"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Single Korban for Combined Eating and Drinking in One Forgetting",
@@ -111,7 +119,9 @@
           "display_title": "Two Aveiros",
           "timestamp": "21:32"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Eating and Drinking Non-Fit Foods and Liquids",
@@ -128,7 +138,9 @@
           "display_title": "Fish Brine",
           "timestamp": "22:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": false
     },
     {
       "title": "The Question of Azharah (Negative Prohibition) for Fasting",
@@ -150,7 +162,9 @@
           "display_title": "Implied Lav",
           "timestamp": "25:17"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Derivation of Negative Prohibition from Gezeirah Shavah with Melacha",
@@ -177,7 +191,9 @@
           "display_title": "Five Instances",
           "timestamp": "39:02"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Alternative Derivations of Negative Prohibition for Fasting",
@@ -199,7 +215,9 @@
           "display_title": "Word Meaning",
           "timestamp": "42:10"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Tosefet Yom Kippur: Adding from Weekday to Holy Day",
@@ -221,7 +239,9 @@
           "display_title": "Extension",
           "timestamp": "44:33"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Kol HaOchel VeShoTeh BeTisha: Eating on the Ninth Counts as Fasting",
@@ -243,7 +263,9 @@
           "display_title": "Enhancement",
           "timestamp": "48:03"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -629,5 +651,6 @@
         "48:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

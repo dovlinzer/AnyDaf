@@ -38,7 +38,9 @@
           "display_title": "Kol She'biyado",
           "timestamp": "06:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Pesach Korban and Spilled Blood: Rabbi Yehuda's Solution and the Mixture Approach",
@@ -75,7 +77,9 @@
           "display_title": "Kohanim Platforms",
           "timestamp": "19:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Pigul: Slaughtering with Invalid Thoughts about Eating and Burning",
@@ -107,7 +111,9 @@
           "display_title": "Milk & Eggs",
           "timestamp": "31:21"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Asymmetry in Pigul: Mother-Fetus Relationship and Thought-Action Parallels",
@@ -149,7 +155,9 @@
           "display_title": "Emurim Thought",
           "timestamp": "42:29"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Items That Neither Create Pigul Nor Become Pigul: Separate Entities and Inedible Parts",
@@ -186,7 +194,9 @@
           "display_title": "Rava Inference",
           "timestamp": "55:46"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Blemished Animals on Altar: Rabbi Akiva's Principle and Female Korban Issue",
@@ -218,7 +228,9 @@
           "display_title": "Meat vs Emurim",
           "timestamp": "61:31"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -445,5 +457,6 @@
         "34:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

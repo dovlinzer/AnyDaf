@@ -23,7 +23,9 @@
           "display_title": "Shmuel Exceptional",
           "timestamp": "02:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Attribution period for hymenal bleeding based on girl's age and maturity status (ketanah, naarah, bogeret)",
@@ -55,7 +57,9 @@
           "display_title": "One-Three Split",
           "timestamp": "25:33"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Digression on kashrering olive presses and wine vats: definition of onah (period of time) in terms of hymenal bleeding",
@@ -82,7 +86,9 @@
           "display_title": "Wedding Night Onah",
           "timestamp": "39:44"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Major shift in halacha: transition from attributing hymenal bleeding to treating all bleeding as niddah bleeding requiring immediate separation",
@@ -99,7 +105,9 @@
           "display_title": "Ulla's Conclusion",
           "timestamp": "40:23"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Challenges and justifications for treating hymenal bleeding as niddah blood despite biological difference",
@@ -111,7 +119,9 @@
           "display_title": "Wedding Night Problem",
           "timestamp": "41:07"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Challenges and justifications for treating hymenal bleeding as niddah blood despite biological difference (continued)",
@@ -148,7 +158,9 @@
           "display_title": "Post-Tumah Stringency",
           "timestamp": "44:50"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Major shift in halacha: transition from attributing hymenal bleeding to treating all bleeding as niddah bleeding requiring immediate separation (continued)",
@@ -165,7 +177,9 @@
           "display_title": "Rabbinical Consensus",
           "timestamp": "41:45"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -339,5 +353,6 @@
         "43:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

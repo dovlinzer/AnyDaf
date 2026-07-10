@@ -43,7 +43,9 @@
           "display_title": "Three Categories",
           "timestamp": "10:31"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Ger Toshav and the Positive Obligation of Care (Lehachayoto)",
@@ -60,7 +62,9 @@
           "display_title": "Conversion Intent",
           "timestamp": "13:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rava's Gift to Bar Sheishach and the Nature of the World to Come",
@@ -102,7 +106,9 @@
           "display_title": "Ultimate Principle",
           "timestamp": "18:47"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Earning Money from Work Involving Forbidden Wine (Yayin Nesech)",
@@ -149,7 +155,9 @@
           "display_title": "Heteira & Rotzeh",
           "timestamp": "35:11"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Mixtures of Forbidden Wine with Food: The Principle of Taste and Pleasure",
@@ -191,7 +199,9 @@
           "display_title": "Wheat Kernel Grooves",
           "timestamp": "39:16"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -424,5 +434,11 @@
         "39:16"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 3,
+  "amud_b_timestamp": "35:11",
+  "amud_b_micro_title": "Heteira & Rotzeh",
+  "shiur_start_daf": 65,
+  "shiur_start_amud": "a"
 }

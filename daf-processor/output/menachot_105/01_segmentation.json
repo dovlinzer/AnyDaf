@@ -23,7 +23,9 @@
           "display_title": "Uncertain Quantity",
           "timestamp": "00:48"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Specification of Mincha Type When Unspecified",
@@ -40,7 +42,9 @@
           "display_title": "Rabbi Yehuda: Solet Defa…",
           "timestamp": "02:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Vows of Minchot: Quantity and Specification Rules (continued)",
@@ -52,7 +56,9 @@
           "display_title": "Rabbi's Separate Vessels",
           "timestamp": "03:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Analysis of Rabbi Yehuda's Solet Default Position",
@@ -74,7 +80,9 @@
           "display_title": "Olah vs Mincha",
           "timestamp": "13:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Mincha, Min HaMincha, and Types: Plural versus Singular Analysis",
@@ -96,7 +104,9 @@
           "display_title": "Minei Mincha Unresolved",
           "timestamp": "20:15"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Bringing All Five Types When Uncertain Which Type Was Vowed",
@@ -113,7 +123,9 @@
           "display_title": "Non-Rabbi Shimon",
           "timestamp": "22:08"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Position: Permutations and Stipulation Strategy",
@@ -135,7 +147,9 @@
           "display_title": "Abaye's Stipulation",
           "timestamp": "24:00"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Precedent for Stipulation in Doubt: The Metzora Case",
@@ -162,7 +176,9 @@
           "display_title": "Minchot: No Destruction",
           "timestamp": "29:44"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Bringing Double Portions to Cover All Permutations with Stipulation",
@@ -184,7 +200,9 @@
           "display_title": "Rav Pappa Clarification",
           "timestamp": "31:00"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Technical Issues in Kemitza and Oil Distribution Across Mincha Types",
@@ -216,7 +234,9 @@
           "display_title": "Oil Chi Pattern",
           "timestamp": "39:40"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Why Minchat Nesachim Is Not Included as a Sixth Option",
@@ -238,7 +258,9 @@
           "display_title": "Not Default Option",
           "timestamp": "43:07"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -483,5 +505,6 @@
         "24:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

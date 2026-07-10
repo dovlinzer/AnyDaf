@@ -38,7 +38,9 @@
           "display_title": "Connection & Care",
           "timestamp": "13:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Four Permissible Vows: When Vows Are Not Binding",
@@ -75,7 +77,9 @@
           "display_title": "Halakhic Authority",
           "timestamp": "30:52"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Core of Vow Annulment: Intent and the Frame of Mind",
@@ -132,7 +136,9 @@
           "display_title": "Woman & Daughter",
           "timestamp": "49:17"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -274,5 +280,6 @@
         "22:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

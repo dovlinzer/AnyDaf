@@ -43,7 +43,9 @@
           "display_title": "King Cannot Mechel",
           "timestamp": "10:20"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Basis in Scripture: Mipnei Seiva Takum v'Hadarta Pnei Zaken and the Definition of Zaken",
@@ -80,7 +82,9 @@
           "display_title": "Tanna Kamma vs. R. Yosei",
           "timestamp": "20:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Nature of Kiuma and Hiddur: What Actions Constitute Proper Respect",
@@ -107,7 +111,9 @@
           "display_title": "Bikkurim Story",
           "timestamp": "33:58"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Requirement to Stand: Distance, Context, and Eyesight",
@@ -134,7 +140,9 @@
           "display_title": "Attention Requirement",
           "timestamp": "49:19"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Obligation of the Zaken Not to Burden Others and the Example of Abaye's Modesty",
@@ -156,7 +164,9 @@
           "display_title": "Mata Mechasya Story",
           "timestamp": "51:27"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Respect for Elders Beyond Sages: The Teachings of Rabbi Yochanan and the Balance with Torah Honor",
@@ -188,7 +198,9 @@
           "display_title": "Rav Nachman's Logic",
           "timestamp": "55:52"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Limit on Frequency of Standing: Morning and Evening Only",
@@ -200,7 +212,9 @@
           "display_title": "Twice Daily Limit",
           "timestamp": "56:38"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -531,5 +545,6 @@
         "10:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

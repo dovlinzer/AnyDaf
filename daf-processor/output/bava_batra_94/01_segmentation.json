@@ -23,7 +23,9 @@
           "display_title": "FDA Comparison",
           "timestamp": "01:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Katina's Teaching on Kitniyot and the Definition of Tinofes",
@@ -50,7 +52,9 @@
           "display_title": "Grama Debate",
           "timestamp": "03:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Distinguishing Tolerable Amounts by Crop Type: Wheat, Barley, and Lentils",
@@ -72,7 +76,9 @@
           "display_title": "Reconciliation",
           "timestamp": "10:12"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Core Question: Full Reimbursement vs. Partial Reimbursement for Overage",
@@ -99,7 +105,9 @@
           "display_title": "Knas Explanation",
           "timestamp": "17:39"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Testing the Knas Theory: The Kilayim Comparison",
@@ -126,7 +134,9 @@
           "display_title": "Mechzi K'Mekayem",
           "timestamp": "28:40"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Testing Against Bava Metzia: The Disputed Deposit Analogy",
@@ -158,7 +168,9 @@
           "display_title": "Gemara Analysis",
           "timestamp": "37:17"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Testing Against Shtar With Ribbis: Loan Documents and Interest Violations",
@@ -185,7 +197,9 @@
           "display_title": "Tosafot Questions",
           "timestamp": "44:56"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Testing Against Land Sales: Mida B'Chevel vs. More or Less",
@@ -207,7 +221,9 @@
           "display_title": "Land Significance",
           "timestamp": "52:02"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -440,5 +456,6 @@
         "50:27"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

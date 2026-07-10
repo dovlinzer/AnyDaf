@@ -33,7 +33,9 @@
           "display_title": "Rabbi Akiva Response",
           "timestamp": "06:07"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Ba'al Ov and Yidoni: Death Penalties and the Omission Question",
@@ -80,7 +82,9 @@
           "display_title": "According Akiva",
           "timestamp": "16:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Definition and Classification of Maaseh: Megadef, Ba'al Ov, and Physical Action",
@@ -127,7 +131,9 @@
           "display_title": "Bees & Scorpions",
           "timestamp": "32:36"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Dispute on Whether Speech and Movement Count as Maaseh",
@@ -169,7 +175,9 @@
           "display_title": "Girsa Variants",
           "timestamp": "38:04"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Braita on Ba'al Ov and Yidoni: Precise Definitions and Biblical Support",
@@ -206,7 +214,9 @@
           "display_title": "Dwelling Place",
           "timestamp": "42:16"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -732,5 +742,6 @@
         "40:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 24
 }

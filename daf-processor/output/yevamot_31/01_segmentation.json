@@ -23,7 +23,9 @@
           "display_title": "Chazaka principle",
           "timestamp": "01:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Bringing the Gittin case of thrown get and its application to Yevamot",
@@ -50,7 +52,9 @@
           "display_title": "Bar Shatya case",
           "timestamp": "11:13"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Resolving the apparent contradiction: why Mishna excludes true Safek Gerushin if Chazaka applies",
@@ -72,7 +76,9 @@
           "display_title": "Zeman issue",
           "timestamp": "16:46"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Why Zeman (date requirement) applies to Get but not to Shtar Kiddushin",
@@ -114,7 +120,9 @@
           "display_title": "Witness testimony",
           "timestamp": "31:39"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Three brothers married to three unrelated women; one brother dies and the second does Maamar then dies",
@@ -141,7 +149,9 @@
           "display_title": "Rebbi Shimon",
           "timestamp": "39:00"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Gemara's reframing: the double woman case as a Gezeira (preventive rabbinic ruling) not a Doraita problem",
@@ -163,7 +173,9 @@
           "display_title": "Wrong order fear",
           "timestamp": "43:51"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Can the second brother give a Get to negate his Maamar and free the third brother for the other widow?",
@@ -190,7 +202,9 @@
           "display_title": "Practical issue",
           "timestamp": "49:43"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     },
     {
       "title": "Two brothers married to two sisters; one brother dies, then his wife dies (Achos Isha case)",
@@ -217,7 +231,9 @@
           "display_title": "Teaching order",
           "timestamp": "54:50"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -416,5 +432,6 @@
         "33:40"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

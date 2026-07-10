@@ -23,7 +23,9 @@
           "display_title": "Complete Sentence Rule",
           "timestamp": "03:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Testing the concept of Yad across specific halachic categories: Tzedakah",
@@ -45,7 +47,9 @@
           "display_title": "Tzedakah as Neder",
           "timestamp": "09:06"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Comparison of Yad applicability: Tzedakah versus Hefker and the scope of beneficiaries",
@@ -67,7 +71,9 @@
           "display_title": "Mechanisms Differ",
           "timestamp": "15:00"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Cases of Hazmanah (designation) for functional status: Beit HaKiseh and bathing facilities",
@@ -89,7 +95,9 @@
           "display_title": "Teiku Conclusion",
           "timestamp": "18:14"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Halachic resolution through Ran's framework: implicit psak and stringency in cases of Safek Issurim",
@@ -111,7 +119,9 @@
           "display_title": "Tzedakah Status",
           "timestamp": "26:22"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Mishnah and Gemara on Menudeh Ani Lach: distinguishing Nidui language from Cherem language",
@@ -138,7 +148,9 @@
           "display_title": "Rav Chisda Ruling",
           "timestamp": "34:59"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Extended digression on Nidui (excommunication): conditions for imposition and reversal",
@@ -160,7 +172,9 @@
           "display_title": "Name & Poverty",
           "timestamp": "39:03"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Story of immediate Nidui and reversal: Rabbi Abba's account of Rav Huna's responsive censure",
@@ -177,7 +191,9 @@
           "display_title": "Three Inferences",
           "timestamp": "40:14"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Talmid Chacham's authority to place and remove his own Nidui within limits",
@@ -199,7 +215,9 @@
           "display_title": "Mar Zutra Story",
           "timestamp": "40:30"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -653,5 +671,6 @@
         "24:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

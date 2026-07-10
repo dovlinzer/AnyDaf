@@ -18,7 +18,9 @@
           "display_title": "Kutim Status",
           "timestamp": "00:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Story of Rav Pappa and Rav Shmuel: Distinguishing Between Torah Scholarship and Piety",
@@ -45,7 +47,9 @@
           "display_title": "Kuti After Tevilah",
           "timestamp": "10:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Daughters of Tzaddukim and Their Legal Status in Hilchot Niddah",
@@ -77,7 +81,9 @@
           "display_title": "Rava's Answer",
           "timestamp": "29:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Blood Status of Non-Jewish Women and Metzurot: Beit Shammai vs. Beit Hillel",
@@ -119,7 +125,9 @@
           "display_title": "Rav Pappa's Question",
           "timestamp": "54:19"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -619,5 +627,6 @@
         "09:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

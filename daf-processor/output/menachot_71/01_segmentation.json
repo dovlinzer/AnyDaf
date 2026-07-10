@@ -23,7 +23,9 @@
           "display_title": "Cut vs. Brought",
           "timestamp": "00:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Resolution: Reishit (Firstness) and the Gezeira Shava from Challah",
@@ -45,7 +47,9 @@
           "display_title": "Kodem Cutting vs Bringing",
           "timestamp": "02:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tosafot's Resolution: Emending the Mishnah Text and Explaining the Distinction Between Cutting and Bringing",
@@ -72,7 +76,9 @@
           "display_title": "Motzei Yom Tov Cutting",
           "timestamp": "04:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Final Mishnah: When the Omer Permits—The Question of Hashrashah (Sprouting)",
@@ -89,7 +95,9 @@
           "display_title": "Unresolved Debate",
           "timestamp": "09:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Elazar's Challenge: Where Is the Source That the Omer Permits Based on Sprouting?",
@@ -111,7 +119,9 @@
           "display_title": "Narrowing Scope",
           "timestamp": "12:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "From 'Chametz' to 'Planted': Rava's Definitive Proof from the Two Loaves of Shavuot",
@@ -138,7 +148,9 @@
           "display_title": "Conclusion Sprouting",
           "timestamp": "17:42"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Permitted Harvesting Before the Omer: Places and Methods That Do Not Impinge on Reishit",
@@ -160,7 +172,9 @@
           "display_title": "Jericho Case",
           "timestamp": "19:31"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Harvesting for Fodder (Shachath): Is It Considered Real Harvesting?",
@@ -182,7 +196,9 @@
           "display_title": "Shimon's Position",
           "timestamp": "24:31"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Harvesting for Mitzvah Purposes: Trees, Mourning, and Study Halls",
@@ -209,7 +225,9 @@
           "display_title": "Bundle Restriction",
           "timestamp": "28:35"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Omer Offering: Preferred Manner and Backup Options",
@@ -236,7 +254,9 @@
           "display_title": "Overrides Shabbat",
           "timestamp": "30:22"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rabbi Benjamin's Source: Two Verses Reconciled by Geographic Limitation",
@@ -258,7 +278,9 @@
           "display_title": "Species vs Field",
           "timestamp": "32:00"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Jericho Exception and the Baraita from Pesachim: What Was Approved vs. Tolerated",
@@ -290,7 +312,9 @@
           "display_title": "Gemara Resolution",
           "timestamp": "44:05"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Field Division for Terumah (Pe'ah): The Mishnah in Pe'ah and Its Relation to Harvesting",
@@ -312,7 +336,9 @@
           "display_title": "Fodder Divides Field",
           "timestamp": "48:40"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Connecting the Mishnah in Pe'ah to Our Omer Discussion: Is Fodder Harvesting Real Harvesting?",
@@ -329,7 +355,9 @@
           "display_title": "Fodder Not Real",
           "timestamp": "50:15"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Connecting the Mishnah in Pe'ah to Our Omer Discussion: Is Fodder Harvesting Real Harvesting? (continued)",
@@ -351,7 +379,9 @@
           "display_title": "Meir as Akiva",
           "timestamp": "58:46"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Field Division for Terumah (Pe'ah): The Mishnah in Pe'ah and Its Relation to Harvesting (continued)",
@@ -363,7 +393,9 @@
           "display_title": "Natural Destruction",
           "timestamp": "52:13"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -812,5 +844,6 @@
         "59:18"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

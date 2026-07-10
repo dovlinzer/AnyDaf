@@ -1,4 +1,5 @@
 # Avodah Zarah 62 — Daf Yomi Shiur
+[DAF:62a]
 
 ## HaSocher Et HaPoel
 
@@ -102,6 +103,7 @@ Abaye accepts Rabbi Yochanan's framework that the donkey drivers' wages carry a 
 >
 > **Translation:** **Bring this produce** designated as second tithe **to Jerusalem for me** in exchange **for a share** of the produce, of which you may partake in Jerusalem. This is considered payment and is tantamount to conducting commerce with the tithe. **But he may say to him: Bring it** to Jerusalem **to eat it and drink it in Jerusalem,** as long as he does not specify that it is payment; **and** once in Jerusalem **they may give one another unrequited gifts.** This indicates that what may not be given as payment may be given as a gift, and therefore the donkey drivers may be compensated with Sabbatical-Year produce.
 
+[DAF:62b]
 ### Rava: Skilled Labor
 
 > **Hebrew/Aramaic:** וְרָבָא אָמַר: לְעוֹלָם דְּקָדוֹשׁ בִּקְדוּשַּׁת שְׁבִיעִית, וּדְקָא קַשְׁיָא לָךְ פּוֹעֵל — פּוֹעֵל דְּלָא נְפִישׁ אַגְרֵיהּ לָא קַנְסוּהּ רַבָּנַן, חַמָּרִין דִּנְפִישׁ אַגְרַיְיהוּ — קְנַסוּ רַבָּנַן בְּהוּ. וּמַתְנִיתִין — חוּמְרָא דְּיֵין נֶסֶךְ שָׁאנֵי.

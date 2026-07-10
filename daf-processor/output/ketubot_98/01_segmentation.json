@@ -28,7 +28,9 @@
           "display_title": "Gerushah Rules",
           "timestamp": "05:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mishnaic Derivation and the Concept of Partial Payment (Miktzat Kesef Kal Kesef)",
@@ -65,7 +67,9 @@
           "display_title": "Clarifying the Analogy",
           "timestamp": "12:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Case of the Woman Who Seized a Cup of Silver and Sought Continued Mezonot",
@@ -87,7 +91,9 @@
           "display_title": "Halakhic Basis",
           "timestamp": "15:45"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Question of Shevuah (Oath) When a Widow Sells Without Beit Din",
@@ -119,7 +125,9 @@
           "display_title": "Tosafot's Analysis",
           "timestamp": "26:29"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Mishnah on Underselling and Overselling: When Does a Sale Become Void?",
@@ -146,7 +154,9 @@
           "display_title": "Multiple Sales",
           "timestamp": "35:05"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: Why Underselling Counts as Full Payment but Overselling Voids the Sale",
@@ -183,7 +193,9 @@
           "display_title": "Land Sales Application",
           "timestamp": "39:44"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Case of the Agent Who Buys More Than Instructed: Exceeding One's Agency (Shlichus)",
@@ -225,7 +237,9 @@
           "display_title": "Unresolved Q",
           "timestamp": "51:30"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -569,5 +583,6 @@
         "30:57"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

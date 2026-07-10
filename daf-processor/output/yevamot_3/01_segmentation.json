@@ -53,7 +53,9 @@
           "display_title": "Karaite Views",
           "timestamp": "06:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Opening Technical Analysis of the Mishna: Ordering Principles Based on Derasha, Proximity, and Logical Organization",
@@ -100,7 +102,9 @@
           "display_title": "Wives Ordering",
           "timestamp": "26:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Linguistic Precision in the Mishna: The Terms 'Potrot' (Exempt) and the Sequence of Chalitza Before Yibum",
@@ -132,7 +136,9 @@
           "display_title": "Leshem Mitzvah",
           "timestamp": "36:38"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Numerical Precision and Exclusionary Scope: Why Fifteen Women Exactly, and What Cases Are Deliberately Omitted",
@@ -169,7 +175,9 @@
           "display_title": "Tzarat Tzara",
           "timestamp": "48:25"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -452,5 +460,6 @@
         "20:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

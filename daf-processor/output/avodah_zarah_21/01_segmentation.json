@@ -28,7 +28,9 @@
           "display_title": "Animals Question",
           "timestamp": "05:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Scope of Restrictions Across Land of Israel, Syria, and Outside Israel",
@@ -60,7 +62,9 @@
           "display_title": "Neighborhood Rule",
           "timestamp": "12:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Exceptions to Renting Permissions: Dwelling (Beit Dira) and Bathhouse (Merchatz)",
@@ -77,7 +81,9 @@
           "display_title": "Bathhouse Ban",
           "timestamp": "14:15"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: Why Fields Differ from Homes in Halakhic Status",
@@ -99,7 +105,9 @@
           "display_title": "Tosafot Mezuzah",
           "timestamp": "15:39"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Rabbi Meir's Position: Syria as Equivalent to Eretz Yisrael and the Doctrine of Kibbutz Yachid",
@@ -116,7 +124,9 @@
           "display_title": "David's Conquest",
           "timestamp": "18:20"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Rabbi Yossi's Lenient Position: Eretz Yisrael and Syria Not Equivalent",
@@ -133,7 +143,9 @@
           "display_title": "Yossi in Syria",
           "timestamp": "22:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Exceptions to Renting Permissions: Dwelling (Beit Dira) and Bathhouse (Merchatz) (continued)",
@@ -145,7 +157,9 @@
           "display_title": "Tosafot Idols",
           "timestamp": "25:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Meir's Position: Syria as Equivalent to Eretz Yisrael and the Doctrine of Kibbutz Yachid (continued)",
@@ -157,7 +171,9 @@
           "display_title": "Rashi/Tosafot",
           "timestamp": "25:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara on Bathhouse vs. Field: Distinguishing Maris Ayin (Appearance Concerns)",
@@ -179,7 +195,9 @@
           "display_title": "No Sharecropping",
           "timestamp": "54:02"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Tosafot's Comprehensive Framework: Distinguishing Permitted vs. Prohibited Non-Jewish Work",
@@ -201,7 +219,9 @@
           "display_title": "Rabbeinu Tam",
           "timestamp": "56:15"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -422,5 +442,6 @@
         "01:00"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

@@ -28,7 +28,9 @@
           "display_title": "Migo in Modern Courts",
           "timestamp": "03:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Case of Rabba bar Sharshom: Mortgage, Migo, and the prohibition against collecting from orphans without oath",
@@ -60,7 +62,9 @@
           "display_title": "Rashbam vs Tosafot",
           "timestamp": "16:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Case of Rav Idi bar Avin: Dispute over palm tree inheritance and the meaning of admission",
@@ -87,7 +91,9 @@
           "display_title": "Witnesses & Migo",
           "timestamp": "30:31"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Case of ancestral plot (Shel Avotai): Chazaka against testimony of original ownership",
@@ -109,7 +115,9 @@
           "display_title": "Abaye & Rava",
           "timestamp": "35:27"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Case of one witness to Chazaka: The problem of evidentiary sufficiency and land reversion",
@@ -141,7 +149,9 @@
           "display_title": "Witness Problem",
           "timestamp": "48:43"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Case of the Silver Ingot (Naska): One witness as adverse or supportive testimony",
@@ -168,7 +178,9 @@
           "display_title": "Adverse vs Supportive",
           "timestamp": "54:40"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -545,5 +557,6 @@
         "43:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 5
 }

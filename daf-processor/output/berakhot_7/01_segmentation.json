@@ -27,7 +27,9 @@
           "display_title": "Shacharit Prayer",
           "timestamp": "01:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Obligation to Rejoice the Bride and Groom",
@@ -54,7 +56,9 @@
           "display_title": "Building Jerusalem",
           "timestamp": "05:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Power of Fear of Heaven and Awe of God",
@@ -81,7 +85,9 @@
           "display_title": "Others Accompany",
           "timestamp": "09:52"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Greeting Others with Peace",
@@ -98,7 +104,9 @@
           "display_title": "Theft of Shalom",
           "timestamp": "12:13"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "God's Prayer and the Attributes of Compassion",
@@ -125,7 +133,9 @@
           "display_title": "Blessing Significance",
           "timestamp": "18:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Proper Way to Appease Someone When They Are Angry",
@@ -157,7 +167,9 @@
           "display_title": "When Angry",
           "timestamp": "32:09"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Internalization of Mussar Over External Punishment",
@@ -174,7 +186,9 @@
           "display_title": "Understanding Wins",
           "timestamp": "34:56"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "The Three Requests of Moses",
@@ -196,7 +210,9 @@
           "display_title": "God's Ways",
           "timestamp": "36:35"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "The Problem of Theodicy and Reward and Punishment",
@@ -228,7 +244,9 @@
           "display_title": "Undeserved Kindness",
           "timestamp": "42:52"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Moses Cannot See God's Face",
@@ -260,7 +278,9 @@
           "display_title": "Moses' Descendants",
           "timestamp": "48:54"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -442,5 +462,6 @@
         "34:52"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 36
 }

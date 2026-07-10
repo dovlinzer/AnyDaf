@@ -28,7 +28,9 @@
           "display_title": "Chalipin Method",
           "timestamp": "06:48"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Shmuel's Innovation: Meshicha as a Method of Acquisition for Eved Knaani",
@@ -65,7 +67,9 @@
           "display_title": "Minor Slave Exception",
           "timestamp": "19:10"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Chazakah: How Takeover (Possession) Works for an Eved Knaani",
@@ -92,7 +96,9 @@
           "display_title": "Rejection of Bia",
           "timestamp": "24:43"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Case Study: Rav Yehuda Hindua and Chazakah at Time of Death",
@@ -119,7 +125,9 @@
           "display_title": "Gadol vs. Katan",
           "timestamp": "33:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Position: Kesef by Others, Shtar Only to the Slave",
@@ -156,7 +164,9 @@
           "display_title": "Rava: Master Accepts",
           "timestamp": "46:57"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Sages' Position: Slave Can Own Money; Shtar Only by Others",
@@ -198,7 +208,9 @@
           "display_title": "Get Analogy",
           "timestamp": "55:30"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -354,5 +366,6 @@
         "55:30"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

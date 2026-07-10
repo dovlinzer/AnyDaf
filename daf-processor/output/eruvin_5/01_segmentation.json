@@ -28,7 +28,9 @@
           "display_title": "Rav Yosef vs Abaye",
           "timestamp": "03:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Conceptual Models of the Beam: Heker (Visibility) Versus Mechitzah (Partition Function)",
@@ -65,7 +67,9 @@
           "display_title": "Preventive Measure",
           "timestamp": "13:11"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Reverse Case: When the Beam Height Falls Below Ten Tefachim and Digging Is Required",
@@ -87,7 +91,9 @@
           "display_title": "Broken Mavoi",
           "timestamp": "17:57"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Minimum Dimensions of a Mavoi and Abaye's Argument for Four Amos Length",
@@ -114,7 +120,9 @@
           "display_title": "Lechi Transition",
           "timestamp": "31:30"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Lechi That Stands by Itself: When an Unintended Partition Functions as a Lechi",
@@ -136,7 +144,9 @@
           "display_title": "Omed Meruba",
           "timestamp": "41:00"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Differences Between Mavoi and Chatzer Regarding Fourth Wall Requirements and Breaks",
@@ -168,7 +178,9 @@
           "display_title": "Rav Huna Position",
           "timestamp": "46:02"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Leniency: Measurement Precision and the Principle of Safek",
@@ -190,7 +202,9 @@
           "display_title": "Safek Relaxation",
           "timestamp": "49:53"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -385,5 +399,6 @@
         "49:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

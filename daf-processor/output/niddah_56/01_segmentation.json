@@ -48,7 +48,9 @@
           "display_title": "Rava Response",
           "timestamp": "13:15"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Dead Rodents: Tamei Status When Moist Versus Dried or Charred",
@@ -90,7 +92,9 @@
           "display_title": "Entirety Rule",
           "timestamp": "20:12"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Drying, Burning, and Reconstitution: Sources of Impurity Only When Fresh",
@@ -127,7 +131,9 @@
           "display_title": "Shmuel's View",
           "timestamp": "28:26"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Stains on Garments: Retroactive Impurity and Temporal Limits",
@@ -154,7 +160,9 @@
           "display_title": "Rabbi Shimon",
           "timestamp": "33:14"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Investigation of Sweeping and Laundering: Active Checking Versus Natural Removal",
@@ -191,7 +199,9 @@
           "display_title": "No Checking Loss",
           "timestamp": "36:23"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Testing Stain Age: Laundering and Physical Appearance Analysis",
@@ -203,7 +213,9 @@
           "display_title": "Rav Acha",
           "timestamp": "37:14"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Testing Stain Age: Laundering and Physical Appearance Analysis (continued)",
@@ -220,7 +232,9 @@
           "display_title": "Inference",
           "timestamp": "37:50"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Stains by Origin: Non-Jewish, Jewish, Samaritan Sources and Attributions",
@@ -262,7 +276,9 @@
           "display_title": "Samaritans",
           "timestamp": "39:41"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -508,5 +524,6 @@
         "38:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

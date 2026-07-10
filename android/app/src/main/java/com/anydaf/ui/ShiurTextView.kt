@@ -48,6 +48,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextDirection
 import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 
 // Source-word accent colors: amber on blue background, app blue on white background
 private val Amber   = Color(0xFFFFB700)
@@ -60,6 +61,7 @@ private sealed class ShiurBlock {
     data class Header3(val text: String) : ShiurBlock()
     data class Body(val text: String) : ShiurBlock()
     data class Blockquote(val source: String, val translation: String, val showLabel: Boolean = true) : ShiurBlock()
+    data class DafMarker(val label: String) : ShiurBlock()
 }
 
 private fun parseShiurBlocks(rewriteText: String): List<ShiurBlock> {
@@ -130,6 +132,10 @@ private fun parseShiurBlocks(rewriteText: String): List<ShiurBlock> {
                 }
             }
             line.isEmpty() -> { flushBody(); flushBlockquote() }
+            line.startsWith("[DAF:") && line.endsWith("]") -> {
+                flushBody(); flushBlockquote()
+                result.add(ShiurBlock.DafMarker(line.drop(5).dropLast(1)))
+            }
             else -> { flushBlockquote(); bodyLines.add(line) }
         }
     }
@@ -280,11 +286,14 @@ fun ShiurTextView(
                     )
                 }
                 is ShiurBlock.Body -> {
+                    val bodyFontSize = LocalStudyFontSize.current
                     Text(
                         text = italicLatinAnnotatedString(block.text),
-                        style = MaterialTheme.typography.bodyMedium,
+                        style = MaterialTheme.typography.bodyMedium.copy(
+                            fontSize = bodyFontSize,
+                            lineHeight = (bodyFontSize.value * 1.45f).sp
+                        ),
                         color = if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface,
-                        lineHeight = MaterialTheme.typography.bodyMedium.lineHeight * 1.35f,
                         modifier = Modifier.fillMaxWidth().padding(bottom = 10.dp)
                     )
                 }
@@ -332,6 +341,8 @@ fun ShiurTextView(
                             // Hebrew/Aramaic source — RTL if it contains Hebrew characters
                             val srcColor = if (blueMode) Amber.copy(alpha = 0.9f)
                                            else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
+                            val bqFontSize = LocalStudyFontSize.current
+                            val bqLineHeight = (bqFontSize.value * 1.45f).sp
                             if (block.source.isNotEmpty()) {
                                 val isHebrew = containsHebrew(block.source)
                                 if (isHebrew) {
@@ -339,6 +350,8 @@ fun ShiurTextView(
                                         Text(
                                             text = italicLatinAnnotatedString(block.source),
                                             style = MaterialTheme.typography.bodySmall.copy(
+                                                fontSize = bqFontSize,
+                                                lineHeight = bqLineHeight,
                                                 textDirection = TextDirection.Rtl,
                                                 textAlign = TextAlign.Start  // "start" = right in RTL
                                             ),
@@ -349,7 +362,10 @@ fun ShiurTextView(
                                 } else {
                                     Text(
                                         text = italicLatinAnnotatedString(block.source),
-                                        style = MaterialTheme.typography.bodySmall,
+                                        style = MaterialTheme.typography.bodySmall.copy(
+                                            fontSize = bqFontSize,
+                                            lineHeight = bqLineHeight
+                                        ),
                                         color = srcColor,
                                         modifier = Modifier.fillMaxWidth()
                                     )
@@ -362,13 +378,25 @@ fun ShiurTextView(
                                 if (block.source.isNotEmpty()) Spacer(Modifier.height(6.dp))
                                 Text(
                                     text = translationAnnotatedString(block.translation, sourceWordColor),
-                                    style = MaterialTheme.typography.bodySmall,
+                                    style = MaterialTheme.typography.bodySmall.copy(
+                                        fontSize = bqFontSize,
+                                        lineHeight = bqLineHeight
+                                    ),
                                     color = addedColor,
                                     modifier = Modifier.fillMaxWidth()
                                 )
                             }
                         }
                     }
+                }
+                is ShiurBlock.DafMarker -> {
+                    Text(
+                        text = "[${block.label}]",
+                        style = MaterialTheme.typography.labelSmall,
+                        color = (if (blueMode) Color.White else MaterialTheme.colorScheme.onSurface).copy(alpha = 0.45f),
+                        modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp),
+                        textAlign = TextAlign.Start
+                    )
                 }
             }
         }

@@ -31,7 +31,11 @@ data class ShiurSegment(
     val timestamp: String,  // "MM:SS"
     val microSegments: List<ShiurMicroSegment>,
     /** 0-based index into the flat Sefaria segment array (amud A + B concatenated). Null if not yet computed. */
-    val sefariaIndex: Int? = null
+    val sefariaIndex: Int? = null,
+    /** True if sefariaIndex is a genuine blockquote match; false if carried-forward from a
+     *  previous match (e.g. shiur-discussion segment with no quote of its own); null if not
+     *  yet computed for this daf. */
+    val matched: Boolean? = null
 ) {
     val seconds: Double get() = parseShiurTimestamp(timestamp)
 }
@@ -151,12 +155,15 @@ object ShiurClient {
                                 }
                             } else emptyList()
                             val sefariaIdx = macro.optInt("sefaria_index", -1).takeIf { it >= 0 }
+                            val matchedFlag = if (macro.has("matched") && !macro.isNull("matched"))
+                                macro.getBoolean("matched") else null
                             ShiurSegment(
                                 title = macro.optString("title"),
                                 displayTitle = macro.optString("display_title").ifEmpty { macro.optString("title") },
                                 timestamp = macro.optString("timestamp"),
                                 microSegments = micros,
-                                sefariaIndex = sefariaIdx
+                                sefariaIndex = sefariaIdx,
+                                matched = matchedFlag
                             )
                         }
                         _segments.value = parsed
@@ -209,6 +216,34 @@ object ShiurClient {
             if (currentTimeSecs >= segs[i].seconds) idx = i
         }
         if (idx != _audioCurrentSegmentIndex.value) _audioCurrentSegmentIndex.value = idx
+    }
+
+    /**
+     * The shiur segment that governs a given Sefaria position — the last genuinely-matched
+     * segment (real blockquote match, not a carried-forward placeholder like "Introduction")
+     * whose own sefariaIndex is <= [position]. Used as the "nothing specific was navigated to
+     * yet" fallback (fresh section load, Prev/Next-section, a newly-selected daf) — in that
+     * state the user is looking at the TOP of the section, so this answers "which segment
+     * governs this exact starting position", not "which segment anchors somewhere within the
+     * whole section". Callers that DO have a specific tapped/synced target (StudySessionViewModel
+     * .activeSefariaIndex) should prefer that directly instead of calling this, as long as it
+     * falls within the current section's range — see TextNavigationStrip and ContentScreen.kt's
+     * Text<->Shiur mode-switch sync.
+     *
+     * A placeholder's sefariaIndex is just inherited from whatever it followed, not its own
+     * anchor, so it must never outrank a real match. Segments whose `matched` flag hasn't been
+     * computed yet (null) are treated as eligible, same as before this field existed, so dafs
+     * not yet re-processed don't regress.
+     *
+     * Mirrors owningShiurSegmentIndex(at:) in iOS's StudyModeView.swift / ContentView.swift.
+     */
+    fun owningSegmentIndex(position: Int, segments: List<ShiurSegment>): Int? {
+        var best: Int? = null
+        segments.forEachIndexed { i, seg ->
+            val sIdx = seg.sefariaIndex
+            if (sIdx != null && sIdx <= position && seg.matched != false) best = i
+        }
+        return best
     }
 
     /** Clear all state when stopping audio or navigating to a new daf. */

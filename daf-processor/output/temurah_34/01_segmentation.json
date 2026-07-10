@@ -33,7 +33,9 @@
           "display_title": "Chullin ba-Azarah",
           "timestamp": "03:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah on Things That Must Be Burned: Biblical Items and the Rule of Appropriate Destruction",
@@ -70,7 +72,9 @@
           "display_title": "Bread & Oil Usage",
           "timestamp": "10:03"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Psulei Kodshim and Special Cases: When Disqualified Sacrifices Must Be Burned",
@@ -92,7 +96,9 @@
           "display_title": "Chatat ha-Of",
           "timestamp": "13:28"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Principle of Distinction: Kol ha-Nikbarim Lo Yisarefu, Ve-Kol ha-Nisrafin Lo Yikaveru",
@@ -114,7 +120,9 @@
           "display_title": "Rabbi Yehuda",
           "timestamp": "18:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara Discussion on Se'ar Nazir and Peter Chamor: Resolving Contradictions Between Tannaitic Sources",
@@ -161,7 +169,9 @@
           "display_title": "Rabbi Yirmiya",
           "timestamp": "28:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Detailed Enumeration of Nisrafin and Conditions for Burning Versus Burying",
@@ -188,7 +198,9 @@
           "display_title": "Solids & Liquids",
           "timestamp": "31:15"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Gemara's Investigation of the Principle: When Ashes of Burned Items Remain Forbidden or Become Permitted",
@@ -205,7 +217,9 @@
           "display_title": "Ashes Principle",
           "timestamp": "34:41"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Explanation of the Underlying Principle: The Role of Mitzvah in Transforming Status of Destroyed Objects",
@@ -227,7 +241,9 @@
           "display_title": "Chemical Change",
           "timestamp": "37:51"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Gemara's Investigation of the Principle: When Ashes of Burned Items Remain Forbidden or Become Permitted (continued)",
@@ -264,7 +280,9 @@
           "display_title": "Trumat Deshen",
           "timestamp": "45:26"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -714,5 +732,6 @@
         "22:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

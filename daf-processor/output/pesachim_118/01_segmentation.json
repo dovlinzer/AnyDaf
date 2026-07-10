@@ -28,7 +28,9 @@
           "display_title": "Rachamei Concept",
           "timestamp": "03:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Kiddush and Zekher L'Yetziat Mitzrayim: Obligation to Mention the Exodus",
@@ -55,7 +57,9 @@
           "display_title": "Beyond Shabbat",
           "timestamp": "06:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Parallel Berachos: Kiddush vs. Shemoneh Esrei formulations of sanctification",
@@ -77,7 +81,9 @@
           "display_title": "Haftarah Blessings",
           "timestamp": "09:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Elohei Avraham, Elohei Yitzchak, Elohei Yaakov: Names of God and fulfilled promises",
@@ -104,7 +110,9 @@
           "display_title": "Avraham Singular",
           "timestamp": "10:57"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mekadesh HaShabbat vs. Mekadesh Yisrael v'Hazmanim: Context determines formulation",
@@ -146,7 +154,9 @@
           "display_title": "Marimar Ruling",
           "timestamp": "20:18"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Liturgical Practice and Textual Flux: Variability in nuschaot and authority",
@@ -173,7 +183,9 @@
           "display_title": "Oseh Hashalom",
           "timestamp": "24:07"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "The Third and Fourth Cups: Structure and their associated blessings",
@@ -200,7 +212,9 @@
           "display_title": "Cups Cherut",
           "timestamp": "29:18"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Completing Hallel and Birchat HaShir: Ending the second half of Hallel",
@@ -222,7 +236,9 @@
           "display_title": "Internal Impetus",
           "timestamp": "60:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Completing Hallel and Birchat HaShir: Ending the second half of Hallel (continued)",
@@ -249,7 +265,9 @@
           "display_title": "Ritual Transition",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Nishmat Kol Chai and Yishtabach: Extended ending and alternative concluding passages",
@@ -276,7 +294,9 @@
           "display_title": "Minhag Variance",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Hallel HaGadol: The wider praise of divine providence and salvation",
@@ -313,7 +333,9 @@
           "display_title": "Provision Theme",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Hodu LaHashem Ki Tov: Recognizing divine goodness and provision",
@@ -340,7 +362,9 @@
           "display_title": "Chazal Affirm",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Difficulty of Parnassa and the Challenge of Human Dignity",
@@ -367,7 +391,9 @@
           "display_title": "Bodily Functions",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Philosophical Reflection: Work, dignity, and the human condition",
@@ -394,7 +420,9 @@
           "display_title": "Seder Transition",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Aggadic discussions: Mashiach, sin, and divine reward",
@@ -411,7 +439,9 @@
           "display_title": "Lashon Hara",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Why Hallel HaMitzri on festivals when Hallel HaGadol contains the same themes?",
@@ -443,7 +473,9 @@
           "display_title": "Context Diff",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Lo Lanu Hashem Lo Lanu: Chavlo shel Mashiach and prayers during persecution",
@@ -470,7 +502,9 @@
           "display_title": "Three Youths",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Narrative of Deliverance: Abraham and Chananya in the fiery furnace",
@@ -507,7 +541,9 @@
           "display_title": "Promise Fulfil",
           "timestamp": "60:56"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -673,5 +709,6 @@
         "60:56"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

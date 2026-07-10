@@ -40,6 +40,23 @@ class StudySessionViewModel : ViewModel() {
     private val _rateLimitCountdown = MutableStateFlow(0)
     val rateLimitCountdown: StateFlow<Int> = _rateLimitCountdown.asStateFlow()
 
+    /** Set by jumpToSection(sefariaIndex) alongside the target section, so the Text view can
+     *  scroll to the segment's exact raw position within that section (not just its top) once
+     *  it's rendered. Consumed and cleared by TranslationTab via onScrollTargetConsumed. */
+    private val _pendingScrollSefariaIndex = MutableStateFlow<Int?>(null)
+    val pendingScrollSefariaIndex: StateFlow<Int?> = _pendingScrollSefariaIndex.asStateFlow()
+
+    fun clearPendingScrollTarget() {
+        _pendingScrollSefariaIndex.value = null
+    }
+
+    /** The segment explicitly navigated to (pill tap or Shiur<->Text mode-switch sync), kept
+     *  (unlike pendingScrollSefariaIndex) so the pill strip can highlight exactly that segment
+     *  rather than whichever one happens to have the largest anchor within the current section's
+     *  coarse range. See TextNavigationStrip in StudyModeScreen.kt. */
+    private val _activeSefariaIndex = MutableStateFlow<Int?>(null)
+    val activeSefariaIndex: StateFlow<Int?> = _activeSefariaIndex.asStateFlow()
+
     var studyMode: StudyMode = StudyMode.FACTS
     var quizMode: QuizMode = QuizMode.MULTIPLE_CHOICE
 
@@ -47,12 +64,14 @@ class StudySessionViewModel : ViewModel() {
 
     // MARK: - Session lifecycle
 
-    fun startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode, startAtLastSection: Boolean = false) {
+    fun startSession(tractate: String, daf: Int, mode: StudyMode, quizMode: QuizMode, startAtLastSection: Boolean = false, startAtAmudB: Boolean = false, startAtSectionIndex: Int? = null) {
         studyMode = mode
         this.quizMode = quizMode
         loadingIndices.clear()
         _isLoadingText.value = true
         _error.value = null
+        _pendingScrollSefariaIndex.value = null
+        _activeSefariaIndex.value = null
 
         viewModelScope.launch {
             try {
@@ -82,7 +101,12 @@ class StudySessionViewModel : ViewModel() {
                     daf = daf,
                     scope = StudyScope.FULL_DAF,
                     sections = numbered,
-                    currentSectionIndex = if (startAtLastSection) maxOf(0, numbered.size - 1) else 0,
+                    currentSectionIndex = when {
+                        startAtSectionIndex != null -> minOf(startAtSectionIndex, numbered.size - 1)
+                        startAtLastSection -> maxOf(0, numbered.size - 1)
+                        startAtAmudB -> sectionsA.size
+                        else -> 0
+                    },
                     amudBSectionIndex = sectionsA.size,
                     precedingContext = prevContext,
                     followingContext = if (SefariaClient.endsInMidSentence(segsB)) nextContext else null
@@ -282,6 +306,16 @@ class StudySessionViewModel : ViewModel() {
         }
     }
 
+    /** Jump directly to a section by 0-based index. */
+    fun jumpToSectionAt(index: Int) {
+        val session = _session.value ?: return
+        if (session.sections.isEmpty()) return
+        val clamped = index.coerceIn(0, session.sections.size - 1)
+        if (session.currentSectionIndex != clamped) {
+            _session.update { it?.copy(currentSectionIndex = clamped) }
+        }
+    }
+
     /** Jump to the section whose flat Sefaria segment range contains [sefariaIndex]. */
     fun jumpToSection(sefariaIndex: Int) {
         val session = _session.value ?: return
@@ -290,6 +324,8 @@ class StudySessionViewModel : ViewModel() {
         for ((i, sec) in session.sections.withIndex()) {
             if (sec.firstSegmentIndex <= sefariaIndex) target = i
         }
+        _pendingScrollSefariaIndex.value = sefariaIndex
+        _activeSefariaIndex.value = sefariaIndex
         if (session.currentSectionIndex != target) {
             _session.update { it?.copy(currentSectionIndex = target) }
         }

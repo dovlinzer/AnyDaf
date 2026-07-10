@@ -18,7 +18,9 @@
           "display_title": "Pigul & Status",
           "timestamp": "00:44"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Chatat Shemetah and Related Cases: When a Sin-Offering Must Die and Loses Meilah Status",
@@ -60,7 +62,9 @@
           "display_title": "Meilah & Tmura Purposes",
           "timestamp": "08:41"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Designated Money for Nazirite Offerings: Ambiguity and the Special Case of Shelamim Money After Death",
@@ -107,7 +111,9 @@
           "display_title": "Reish Lakish Challenge",
           "timestamp": "22:50"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Birds That Do Not Fit Age Requirements: No Meilah Due to Lack of Pidyon",
@@ -119,7 +125,9 @@
           "display_title": "Tosafot: Young Bird Use",
           "timestamp": "23:48"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": false
     },
     {
       "title": "Designated Money for Nazirite Offerings: Ambiguity and the Special Case of Shelamim Money After Death (continued)",
@@ -131,7 +139,9 @@
           "display_title": "Rava's Response",
           "timestamp": "24:44"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Birds That Do Not Fit Age Requirements: No Meilah Due to Lack of Pidyon (continued)",
@@ -148,7 +158,9 @@
           "display_title": "No Pidyon for Birds",
           "timestamp": "25:40"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Blood (Dam): A Paradox of Meilah—No Meilah Beforehand, Rabbinic Meilah Afterward",
@@ -200,7 +212,9 @@
           "display_title": "Two Exceptions Principle",
           "timestamp": "35:46"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Nesachim (Wine): Strong Meilah at Start, None After Pouring—Comparison with Blood's Inverse Pattern",
@@ -237,7 +251,9 @@
           "display_title": "Burning Derabbanan Only",
           "timestamp": "50:02"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -887,5 +903,6 @@
         "50:10"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

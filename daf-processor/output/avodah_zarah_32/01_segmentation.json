@@ -23,7 +23,9 @@
           "display_title": "Assur BeHana'ah Status",
           "timestamp": "00:37"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shmuel's Teaching to Chiya bar Rav: Non-Jewish Exposure to Water and Armenians Drinking Exposed Water",
@@ -40,7 +42,9 @@
           "display_title": "Non-Jewish Constitution",
           "timestamp": "01:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Yosef on Beer Vinegar (Chala DeShichra): Grape Additives and Storage Concerns",
@@ -62,7 +66,9 @@
           "display_title": "Spoilage Logic",
           "timestamp": "03:11"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tosafot's Application to Mead and Other Beverages: Extension of Storage Principle",
@@ -89,7 +95,9 @@
           "display_title": "Price & Admixture Risk",
           "timestamp": "08:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Hadrianic Pottery (Cheres HaDrianos): Production, Properties, and Absorption of Wine",
@@ -116,7 +124,9 @@
           "display_title": "Wine Quality",
           "timestamp": "12:26"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Debate Over Hadrianic Pottery's Status: Is It Forbidden Only for Wine Use or Even as Pottery?",
@@ -138,7 +148,9 @@
           "display_title": "Rabban Gamliel Story",
           "timestamp": "17:12"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rabban Shimon ben Gamliel's Ruling and Gemara's Analysis: Leather Flasks and Saddle Cloth Usage",
@@ -165,7 +177,9 @@
           "display_title": "Concentration Logic",
           "timestamp": "22:42"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Conflicting Testimonies About Rabban Gamliel and Reconciliation Through Two Versions",
@@ -187,7 +201,9 @@
           "display_title": "Storage Implications",
           "timestamp": "27:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Leather with Heart Cutout (Orot Levuvin): Idolatrous Use and Detection Methods",
@@ -219,7 +235,9 @@
           "display_title": "Rav Yosef-Abaye Debate",
           "timestamp": "30:26"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Meat Brought to Idolatrous Worship: Permission Before vs. Prohibition After Entry",
@@ -251,7 +269,9 @@
           "display_title": "Post-Exit Forbidden",
           "timestamp": "33:53"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rabbi Yehuda ben Beteira's Source: Tumah Status of Idolatrous Offerings and Dead Bodies",
@@ -278,7 +298,9 @@
           "display_title": "Second Answer",
           "timestamp": "38:12"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Non-Jew Traveling to Festival/Fair (Tarpot): Business Restrictions Based on Direction of Travel",
@@ -300,7 +322,9 @@
           "display_title": "Return Permission",
           "timestamp": "42:24"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Jew Traveling to Festival (Tarpot): Reverse Rules Due to Stringency and Assumption of Intent",
@@ -322,7 +346,9 @@
           "display_title": "Habitual Worshiper",
           "timestamp": "45:17"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Non-Jew and Jew at Market Day Fair: Idol Sales and Contaminated Money Concerns",
@@ -349,7 +375,9 @@
           "display_title": "Benefit of Doubt",
           "timestamp": "48:47"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -567,5 +595,11 @@
         "30:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11,
+  "amud_b_segment_index": 8,
+  "amud_b_timestamp": "29:36",
+  "amud_b_micro_title": "Salted Leather Rule",
+  "shiur_start_daf": 32,
+  "shiur_start_amud": "a"
 }

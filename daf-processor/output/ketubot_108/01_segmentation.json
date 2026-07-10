@@ -28,7 +28,9 @@
           "display_title": "Dosa & Yochanan",
           "timestamp": "02:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Tosafot's Conceptual Framework: Direct vs. Indirect Benefit and Public Policy",
@@ -65,7 +67,9 @@
           "display_title": "Tosafot summary",
           "timestamp": "08:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara on Nedarim: Paying Another's Obligation When Under a Vow of Non-Benefit",
@@ -97,7 +101,9 @@
           "display_title": "Rashi/Tosafot",
           "timestamp": "16:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Understanding Debt Repayment as Indirect Grama: No Direct Benefit Transfer",
@@ -124,7 +130,9 @@
           "display_title": "Rava challenge",
           "timestamp": "32:05"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Admon's Seven Positions: First Case on Unequal Distribution in Small Estates",
@@ -156,7 +164,9 @@
           "display_title": "Tosafot reinterpret",
           "timestamp": "38:18"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Admon's Second Case: Concession of Container vs. Concession of Contents (Modeh Be-Miktzat)",
@@ -198,7 +208,9 @@
           "display_title": "Language inclusion",
           "timestamp": "51:58"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -571,5 +583,6 @@
         "37:54"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

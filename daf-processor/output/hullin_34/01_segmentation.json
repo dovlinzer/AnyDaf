@@ -28,7 +28,9 @@
           "display_title": "Biblical vs. Rabbinic",
           "timestamp": "03:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Chulin Treated with Sanctity of Sacrifices and Terumah",
@@ -60,7 +62,9 @@
           "display_title": "Ulla's Position",
           "timestamp": "12:56"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Eating of Tamei Food and Resulting Status Levels",
@@ -97,7 +101,9 @@
           "display_title": "Kodesh Perspective",
           "timestamp": "25:56"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Eating Shlishi of Chulin Treated as Terumah or Kodesh",
@@ -124,7 +130,9 @@
           "display_title": "Solution & Proportions",
           "timestamp": "37:39"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -631,5 +639,6 @@
         "37:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

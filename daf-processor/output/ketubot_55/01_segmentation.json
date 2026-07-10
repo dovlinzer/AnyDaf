@@ -23,7 +23,9 @@
           "display_title": "Tosefet Status",
           "timestamp": "01:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Itmar Debate: Pumbedita and Mata Mechasyah on the Status of the Ketubah",
@@ -45,7 +47,9 @@
           "display_title": "Halacha Ruling",
           "timestamp": "03:16"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Widow's Shevuah and Designated Metaltelim or Land",
@@ -77,7 +81,9 @@
           "display_title": "Halacha Widow",
           "timestamp": "10:01"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Case of a Deathbed Gift with Kinyan",
@@ -89,7 +95,9 @@
           "display_title": "Gift Instructions",
           "timestamp": "12:45"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Amdina and the Umdana Methodology in Interpreting Intent",
@@ -106,7 +114,9 @@
           "display_title": "Rabbi Natan Ruling",
           "timestamp": "14:18"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Case of a Deathbed Gift with Kinyan (continued)",
@@ -123,7 +133,9 @@
           "display_title": "Shmuel Position",
           "timestamp": "20:48"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Amdina and the Umdana Methodology in Interpreting Intent (continued)",
@@ -140,7 +152,9 @@
           "display_title": "Umdana Scope",
           "timestamp": "21:39"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Rabbi Elazar ben Azariah's Position and Its Halachic Acceptance",
@@ -177,7 +191,9 @@
           "display_title": "Final Ruling",
           "timestamp": "21:39"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Defining Nisuin: Chupa, Sex, or Anticipated Intimacy",
@@ -209,7 +225,9 @@
           "display_title": "Teiqu Status",
           "timestamp": "22:01"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda on Lowering the Ketubah Amount Through Receipt",
@@ -236,7 +254,9 @@
           "display_title": "Abaye Position",
           "timestamp": "23:12"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda on Lowering the Ketubah Amount Through Receipt (continued)",
@@ -248,7 +268,9 @@
           "display_title": "Written Form",
           "timestamp": "23:25"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     },
     {
       "title": "Rabbi Yehuda on Monetary Stipulations and Rabbinic Protections",
@@ -280,7 +302,9 @@
           "display_title": "Common Protect",
           "timestamp": "23:47"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -630,5 +654,6 @@
         "23:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

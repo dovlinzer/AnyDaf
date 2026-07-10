@@ -23,7 +23,9 @@
           "display_title": "Immersion Framework",
           "timestamp": "05:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Beit Shammai's Calculation: Eighty Nights Plus Daytime Immersions Yielding Ninety-Five",
@@ -45,7 +47,9 @@
           "display_title": "Night of Arrival +1",
           "timestamp": "19:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Beit Hillel's Alternative: Counting Only Until the Woman Can Be with Her Husband (Thirty-Five Total)",
@@ -62,7 +66,9 @@
           "display_title": "Fifth Week Cutoff",
           "timestamp": "21:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Scope Limitation: Why Thirteen Weeks Rather Than Eighty Days",
@@ -79,7 +85,9 @@
           "display_title": "Avoiding Half-Weeks",
           "timestamp": "24:02"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Clarification on Counting: Distinctions Between Yoledet and Zavah, and What Counts as a New Category",
@@ -101,7 +109,9 @@
           "display_title": "Shomeret Yom Exception",
           "timestamp": "30:43"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Three Lessons Derived from the Entire Analysis",
@@ -128,7 +138,9 @@
           "display_title": "Rabbi Yose Dissent",
           "timestamp": "34:52"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "The Minimum Halachic Threshold for Fetal Viability: Day Forty-One",
@@ -155,7 +167,9 @@
           "display_title": "Sages: Both Day 41",
           "timestamp": "40:57"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "The Cleopatra Precedent: Examining Empirical Evidence for Fetal Development",
@@ -187,7 +201,9 @@
           "display_title": "Equal Development Stages",
           "timestamp": "53:14"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "The Halakhic Consensus: Day Forty-One for Both Genders, Despite Ambivalence Toward Empirical Proof",
@@ -199,7 +215,9 @@
           "display_title": "Majority Prevails",
           "timestamp": "55:29"
         }
-      ]
+      ],
+      "sefaria_index": 35,
+      "matched": true
     },
     {
       "title": "Aggadic Discourse: The Fetus in the Womb—Physical Development and Spiritual Elevation",
@@ -231,7 +249,9 @@
           "display_title": "Womb Perfection",
           "timestamp": "60:46"
         }
-      ]
+      ],
+      "sefaria_index": 38,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -391,5 +411,6 @@
         "32:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

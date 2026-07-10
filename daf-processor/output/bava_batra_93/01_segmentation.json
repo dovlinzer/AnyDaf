@@ -28,7 +28,9 @@
           "display_title": "Shmuel's Position",
           "timestamp": "01:30"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Slave with Defects: Attempting to Prove the Debate Through Talmudic Precedent",
@@ -55,7 +57,9 @@
           "display_title": "Rejection",
           "timestamp": "04:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Pregnant Cow Gored and the Question of Miscarriage: Rov vs. Safek in Causation",
@@ -92,7 +96,9 @@
           "display_title": "No Proof Here",
           "timestamp": "13:12"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Debated Tannaim: Ox with Propensity to Gore (Chazaka) vs. Camel in Heat",
@@ -129,7 +135,9 @@
           "display_title": "Rov vs. Chazaka",
           "timestamp": "21:20"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Flaxseed as a Test Case: Does Majority Usage Constitute Mekach Taus?",
@@ -161,7 +169,9 @@
           "display_title": "Positions Aligned",
           "timestamp": "30:46"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Liability for Defective Products: From Seeds to Catering and Professional Negligence",
@@ -203,7 +213,9 @@
           "display_title": "Foreseeability",
           "timestamp": "45:08"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Debate on Shomer Liability: Negligence Standard and the Nature of Adam Hamazik",
@@ -230,7 +242,9 @@
           "display_title": "Ramban Alternative",
           "timestamp": "50:23"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": false
     },
     {
       "title": "Standard Allowances for Defective Goods: Dirt, Worms, and Mixed Legumes in Produce",
@@ -272,7 +286,9 @@
           "display_title": "Mixed Vegetation",
           "timestamp": "55:16"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -462,5 +478,6 @@
         "55:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

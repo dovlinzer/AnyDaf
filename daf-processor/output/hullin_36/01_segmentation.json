@@ -33,7 +33,9 @@
           "display_title": "Restrictions & Blood Sta…",
           "timestamp": "03:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Spurting Blood Distinction: When Blood Is Machshir",
@@ -60,7 +62,9 @@
           "display_title": "Shechita Blood Timing",
           "timestamp": "06:10"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Blood Splattered on a Gourd: Rabbi vs. Rabbi Chiya Debate",
@@ -87,7 +91,9 @@
           "display_title": "Voting Realignment",
           "timestamp": "08:10"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Yesh Lishechita Mitichila V'ad Sof: When Is Shechita Considered Begun?",
@@ -124,7 +130,9 @@
           "display_title": "Vote Reconciliation",
           "timestamp": "14:06"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rav Ashi's Alternative Interpretation: Tolun Means Always Doubtful",
@@ -151,7 +159,9 @@
           "display_title": "Shimon's No-Burn Vote",
           "timestamp": "16:56"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Chibat Hakodesh: Sanctity as an Independent Source of Machshir",
@@ -178,7 +188,9 @@
           "display_title": "Food Susceptibility",
           "timestamp": "22:25"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rabbi Shimon's Shechita as Parallel to Chibat Hakodesh",
@@ -205,7 +217,9 @@
           "display_title": "Hillel vs. Shammai",
           "timestamp": "29:33"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Frustration and Resignation: The Dual Standard for Rabbinic Machshir",
@@ -227,7 +241,9 @@
           "display_title": "Same Rabbinic Track",
           "timestamp": "32:02"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Abaye's Refined Answer: Reish Lakish Asked About Biblical, Not Rabbinic Tumah",
@@ -249,7 +265,9 @@
           "display_title": "De'oraita Status",
           "timestamp": "34:11"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": false
     },
     {
       "title": "Sacrifice Meat's Susceptibility: The Biblical Source for Chibat Hakodesh",
@@ -281,7 +299,9 @@
           "display_title": "River Water Option",
           "timestamp": "38:50"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Chibat Hakodesh as Biblical Principle: Wood and Frankincense Made Like Food",
@@ -303,7 +323,9 @@
           "display_title": "Kodesh Transforms",
           "timestamp": "41:21"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "The Unresolved Question: Does Chibat Hakodesh Only Invalidate or Also Transfer Tumah?",
@@ -330,7 +352,9 @@
           "display_title": "Parallel Uncertainty",
           "timestamp": "43:06"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -600,5 +624,6 @@
         "43:01"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

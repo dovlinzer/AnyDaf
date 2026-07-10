@@ -23,7 +23,9 @@
           "display_title": "Two Payment Scenarios",
           "timestamp": "00:59"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Logic and Purpose of Keifel Payment to Shomer When Ganav is Found",
@@ -40,7 +42,9 @@
           "display_title": "Takanah Purpose",
           "timestamp": "02:47"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rava's Answer: Implicit Condition of Ownership Transfer in Case of Theft and Payment",
@@ -67,7 +71,9 @@
           "display_title": "External vs. Internal Be…",
           "timestamp": "07:35"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Alternative Answer: Ownership Transfer the Moment Before Theft (Samuch Ligenivas)",
@@ -94,7 +100,9 @@
           "display_title": "Tosafos's Tosafos",
           "timestamp": "10:47"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Distinction Between Actual Payment (Shillem) and Promise to Pay (Ratza Leshalom)",
@@ -111,7 +119,9 @@
           "display_title": "Rabbi Yochanan's Rule",
           "timestamp": "12:16"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Distinction Between Actual Payment (Shillem) and Promise to Pay (Ratza Leshalom) (continued)",
@@ -128,7 +138,9 @@
           "display_title": "Ambiguity in Coverage",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Braita on Socher (Renter): Promise to Pay Suffices for Keifel",
@@ -150,7 +162,9 @@
           "display_title": "Socher as Proof",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Cases of Changed Mind and Conditional Promises: Retraction and Timing Issues",
@@ -192,7 +206,9 @@
           "display_title": "Both Parties Dead",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Edge Cases: Partial Payment, Multiple Animals, Multiple Parties, Husband-Wife Scenarios",
@@ -229,7 +245,9 @@
           "display_title": "All Teiku",
           "timestamp": "12:28"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Expansion on Cases Receiving Keifel: Shomer Chinam, Shomer Sachar, and Shoal",
@@ -261,7 +279,9 @@
           "display_title": "Rare False Claim",
           "timestamp": "12:58"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Dispute: Whether Shoal Also Gets Keifel and the Basis for the Distinction",
@@ -288,7 +308,9 @@
           "display_title": "Tosafos Nafka Mina",
           "timestamp": "12:58"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Braita on Shoal: Actual Payment Required for Keifel",
@@ -315,7 +337,9 @@
           "display_title": "Tanaim Consultation",
           "timestamp": "12:58"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rav Huna's Requirement: Oath Even When Shomer Agrees to Pay (Mashbinan Shuva'ah)",
@@ -337,7 +361,9 @@
           "display_title": "Court Involvement",
           "timestamp": "13:20"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -622,5 +648,6 @@
         "13:20"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

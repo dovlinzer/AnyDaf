@@ -209,8 +209,8 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
     private fun cacheKey(source: YCTSource, tractate: String) = "${source.name}:$tractate"
 
     /**
-     * Fetches all articles for a tractate from a single client, or returns the
-     * cached slice when available.
+     * Fetches all articles for a tractate from a single client in one bulk request,
+     * or returns the cached slice when available.
      */
     private suspend fun fetchAllFromClient(
         client: YCTLibraryClient,
@@ -222,20 +222,17 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         val tractateTermID = client.resolveTractateTermID(tractate) ?: return emptyList()
         val dafTermMap = client.resolveDafTermIDs(tractate, tractateTermID)
 
-        val all = mutableListOf<YCTArticle>()
-
-        // Fetch articles for each daf-level term
-        for (dafNum in dafTermMap.keys.sorted()) {
-            val termID = dafTermMap[dafNum] ?: continue
-            all += fetchAndTag(client, listOf(termID), ResourceMatchType.TractateWide(dafNum))
-        }
-
-        // For psak: also fetch articles tagged directly on the tractate term (daf = 0 sentinel)
+        // Build termID → dafNum reverse map.
+        // For psak, also include the tractate-level term mapped to daf 0.
+        val termToDaf = dafTermMap.entries.associate { (daf, term) -> term to daf }.toMutableMap()
         if (client.fetchesTractateLevel) {
-            all += fetchAndTag(client, listOf(tractateTermID), ResourceMatchType.TractateWide(0))
+            termToDaf[tractateTermID] = 0
         }
 
-        return mergeAndDeduplicate(all)
+        if (termToDaf.isEmpty()) return emptyList()
+
+        val articles = client.fetchBulkArticles(termToDaf.keys.toList(), termToDaf)
+        return mergeAndDeduplicate(articles)
     }
 
     /**
@@ -296,12 +293,4 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         return result
     }
 
-    private suspend fun fetchAndTag(
-        client: YCTLibraryClient,
-        termIDs: List<Int>,
-        matchType: ResourceMatchType
-    ): List<YCTArticle> {
-        val fetched = client.fetchArticles(termIDs)
-        return fetched.map { it.copy(matchType = matchType) }
-    }
 }

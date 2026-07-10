@@ -33,7 +33,9 @@
           "display_title": "Tosafot: Tavi Analysis",
           "timestamp": "05:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis: The Ten Tefachim Requirement and Shmuel's Position on Beds as Ohalim",
@@ -50,7 +52,9 @@
           "display_title": "Shmuel: Consistency",
           "timestamp": "07:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Oholos and Rabbi Yehuda's Criteria for What Constitutes an Ohel: Natural vs. Intentional Structures",
@@ -77,7 +81,9 @@
           "display_title": "Rabbis: Ribui",
           "timestamp": "13:27"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Parah Adumah Preparations: Protecting Against Tum'at Hatehom Through Architectural and Procedural Measures",
@@ -104,7 +110,9 @@
           "display_title": "R. Yosef: Bucket",
           "timestamp": "21:49"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Reconciling Rabbi Yehuda's Position: The Debate Over Tavi and the Conceptual Framework of Ohalim",
@@ -121,7 +129,9 @@
           "display_title": "Oxen: Natural Ohel",
           "timestamp": "29:49"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rabbi Yehuda's Concession: Size Matters—Large Natural Structures Are Ohalim Without Intent",
@@ -148,7 +158,9 @@
           "display_title": "Rava: Safety Risk",
           "timestamp": "34:41"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Ox as a Natural Ohel: Anatomy and Function—The Rib Cage Protects Inner Organs",
@@ -170,7 +182,9 @@
           "display_title": "Bed vs. Ox",
           "timestamp": "41:01"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Returning to the Sukkah Question: Rabbi Yehuda vs. Rabbi Shimon on Temporary vs. Permanent Ohalim",
@@ -197,7 +211,9 @@
           "display_title": "R. Shimon: Temp Matters",
           "timestamp": "45:27"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Mishna on Supporting Schach with a Bed Frame: Can Schach Rest on Objects That Receive Tumah?",
@@ -219,7 +235,9 @@
           "display_title": "Two Reasons",
           "timestamp": "52:17"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Distinguishing Between Direct and Indirect Support: Ma'amid Bedavar Hamekabel Tumah and Its Implications",
@@ -241,7 +259,9 @@
           "display_title": "Indirect Support",
           "timestamp": "54:22"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -477,5 +497,6 @@
         "03:28"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

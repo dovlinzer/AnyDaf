@@ -43,7 +43,9 @@
           "display_title": "Two Scenarios",
           "timestamp": "10:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Who Controls the Trumah? Ownership, Benefit Rights, and the Role of the Person Separating",
@@ -85,7 +87,9 @@
           "display_title": "Rav Abba",
           "timestamp": "28:04"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Related Applications: Sanctifying Animals and the Concept of Ownership vs. Beneficiary",
@@ -112,7 +116,9 @@
           "display_title": "Ownership Split",
           "timestamp": "31:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Teaching Torah to Someone from Whom One Cannot Benefit: Mikra vs. Midrash",
@@ -144,7 +150,9 @@
           "display_title": "Moshe's Model",
           "timestamp": "35:21"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of Teaching Mikra to Minors: Babysitting vs. Teaching Fees",
@@ -171,7 +179,9 @@
           "display_title": "Indirect Benefit",
           "timestamp": "43:29"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Shabbat Context: Teaching First Lessons on Shabbat and the Nature of Payment",
@@ -213,7 +223,9 @@
           "display_title": "Babysitting Critique",
           "timestamp": "51:57"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Nature of Ta'amim and Pisuk: Are Cantillation and Division Part of Torah Itself?",
@@ -245,7 +257,9 @@
           "display_title": "De'Oraita Meaning",
           "timestamp": "55:43"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -479,5 +493,6 @@
         "36:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

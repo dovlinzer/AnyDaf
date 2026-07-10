@@ -23,7 +23,9 @@
           "display_title": "Identity & Belonging",
           "timestamp": "02:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Three Teachings of Rabbi Meir: One Hundred Blessings Daily",
@@ -50,7 +52,9 @@
           "display_title": "Blessings on Yom Tov",
           "timestamp": "05:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Three Identity Blessings: She'asani Yisrael, Not Woman, Not Ignorant",
@@ -87,7 +91,9 @@
           "display_title": "Slave Blessing",
           "timestamp": "13:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Chilazon: Identifying the Source of Techelet Dye",
@@ -104,7 +110,9 @@
           "display_title": "Techelet Expense",
           "timestamp": "15:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "No Mitzvah Is Trivial: The Reward of Tzitzit in This World and the Next",
@@ -151,7 +159,9 @@
           "display_title": "Reward Fulfillment",
           "timestamp": "24:36"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Borrowed Garments and Rented Houses: The Thirty-Day Rule",
@@ -173,7 +183,9 @@
           "display_title": "Eretz Yisrael Exception",
           "timestamp": "26:34"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Tefillin: Two Separate Mitzvot and the Question of Interdependence",
@@ -200,7 +212,9 @@
           "display_title": "Gezerah Incentive",
           "timestamp": "31:04"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Transgressions for Not Performing Tefillin, Tzitzit, Mezuzah, and Priestly Blessing",
@@ -227,7 +241,9 @@
           "display_title": "Priestly Blessing Violat…",
           "timestamp": "32:42"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Extended Life Through Tefillin: Reish Lakish's Exegesis",
@@ -244,7 +260,9 @@
           "display_title": "Head & Heart Verse",
           "timestamp": "33:18"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "The Order of Mincha and Nesachim When Brought Together with the Korban",
@@ -281,7 +299,9 @@
           "display_title": "Wine & Levite Song",
           "timestamp": "40:44"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "The Matanot on the Outer Altar: No Single Placement Is Indispensable",
@@ -298,7 +318,9 @@
           "display_title": "Scriptural Basis",
           "timestamp": "41:43"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -617,5 +639,6 @@
         "39:51"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

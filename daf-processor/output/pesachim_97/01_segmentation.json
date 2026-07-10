@@ -23,7 +23,9 @@
           "display_title": "Temurah Status",
           "timestamp": "01:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rava's Teaching on Temurah: When a Temurah Can Be Brought Itself Despite the Original Being Nidcheh",
@@ -45,7 +47,9 @@
           "display_title": "Timeline Diagram",
           "timestamp": "03:01"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Abaye's Challenge to Rava: Using the Pesach Pasuk to Question the Nidcheh Doctrine",
@@ -72,7 +76,9 @@
           "display_title": "Asmachta Resolution",
           "timestamp": "08:17"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The True Purpose of the Pesach Pasuk: Teaching Details About Fat and Conversion to Shelamim",
@@ -99,7 +105,9 @@
           "display_title": "Goat Exclusion",
           "timestamp": "11:46"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Alternative Version: Rava's Teaching Applied to the Beginning of the Mishnah (Proceeds Case)",
@@ -116,7 +124,9 @@
           "display_title": "Shechita Effect",
           "timestamp": "14:32"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Abaye's Second Challenge from a Different Braitta: Using 'Pesach Hu' Pasuk to Prove Temurah Cannot Be Brought",
@@ -143,7 +153,9 @@
           "display_title": "Refutation Accepted",
           "timestamp": "17:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shmuel's Cryptic Principle: Comparing Pesach to Chatas to Determine Status",
@@ -165,7 +177,9 @@
           "display_title": "Pesach-Relevant Cases",
           "timestamp": "22:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav Yosef's Challenge: The Avar Shnaso Case Undermines Shmuel's Principle",
@@ -187,7 +201,9 @@
           "display_title": "Principle Fails",
           "timestamp": "30:34"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Resolving Rav Yosef's Challenge: Shmuel Speaks Only of the Avud (Lost) Scenario",
@@ -209,7 +225,9 @@
           "display_title": "Chakhamim's View",
           "timestamp": "31:12"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Applying the Lost Chatas Framework to Pesach: Before or After Shechita",
@@ -231,7 +249,9 @@
           "display_title": "Perfect Match",
           "timestamp": "39:26"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "The Problem: Shmuel's Perfect Analogy Says the Same Thing as Rabbi Yochanan, Making Him Redundant",
@@ -253,7 +273,9 @@
           "display_title": "Chatzot Disagreement",
           "timestamp": "39:37"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Shmuel Holds Like Rabbi: All Lost Chataot Always Die (No Roeh Case)",
@@ -275,7 +297,9 @@
           "display_title": "Time, Not Shechita",
           "timestamp": "40:11"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Defining When a Pesach Is Considered Avud: Before Chatzot Is Not Avud",
@@ -302,7 +326,9 @@
           "display_title": "After Chatzot Rule",
           "timestamp": "41:09"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Core Disagreement: Shmuel (Chatzot) vs. Rabbi Yochanan (Shechita)",
@@ -324,7 +350,9 @@
           "display_title": "Avud Framework",
           "timestamp": "44:52"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Alternative Version: Could Shmuel Hold Like Rabbi Holding Shechita Determines?",
@@ -351,7 +379,9 @@
           "display_title": "Rejected Interpretation",
           "timestamp": "46:36"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Final Resolution: Shmuel Teaches via Chatas Analogy That Chatzot (Time), Not Shechita (Act), Is Determinative",
@@ -378,7 +408,9 @@
           "display_title": "Time-Based Status",
           "timestamp": "49:38"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -589,5 +621,6 @@
         "48:44"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

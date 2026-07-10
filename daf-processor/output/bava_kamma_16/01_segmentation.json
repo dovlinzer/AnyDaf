@@ -53,7 +53,9 @@
           "display_title": "Tafas & Gezela Debate",
           "timestamp": "11:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah Analysis: Five Tam and Five Muad Animals; Disputed Readings and Emendations",
@@ -85,7 +87,9 @@
           "display_title": "Wild Animals Muad",
           "timestamp": "17:50"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Identity and Transformation of Dangerous Animals (Bordelis, Tzavoa, Hyena)",
@@ -97,7 +101,9 @@
           "display_title": "Domestication Doctrine",
           "timestamp": "24:29"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Interpretation of the Five Muad: Are They Truly Muad or Just Categories?",
@@ -124,7 +130,9 @@
           "display_title": "Later Mishnah Evidence",
           "timestamp": "33:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Mishnah Analysis: Five Tam and Five Muad Animals; Disputed Readings and Emendations (continued)",
@@ -146,7 +154,9 @@
           "display_title": "Five / More Muad Problem",
           "timestamp": "39:16"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Crouch-Related Damage (Lirvots) and Small vs. Large Vessels",
@@ -168,7 +178,9 @@
           "display_title": "Side Impact Theory",
           "timestamp": "41:48"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Identity and Transformation of Dangerous Animals (Bordelis, Tzavoa, Hyena) (continued)",
@@ -195,7 +207,9 @@
           "display_title": "Snake Eternal Muad",
           "timestamp": "48:59"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Lion in Public Domain: Dras (Alive Prey) vs. Taraf (Dead Prey); Natural vs. Unusual Acts",
@@ -242,7 +256,9 @@
           "display_title": "Shen vs. Keren Unresolved",
           "timestamp": "58:45"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -539,5 +555,6 @@
         "37:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

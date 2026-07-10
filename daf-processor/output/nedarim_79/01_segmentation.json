@@ -33,7 +33,9 @@
           "display_title": "Savir Standard",
           "timestamp": "01:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Chanina's Theory of Silence as Hakeimah: Intent-Based Reinterpretation of the Pasuk",
@@ -75,7 +77,9 @@
           "display_title": "Ran's Two Scenarios",
           "timestamp": "06:33"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Comparative Strength of Hakeimah versus Heifer: Mechanisms and Reversibility",
@@ -112,7 +116,9 @@
           "display_title": "Undoing Hakeimah",
           "timestamp": "13:19"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Tanaic Challenges to Rabbi Chanina: Three Tyufot Rejecting Intent-Based Limitation",
@@ -149,7 +155,9 @@
           "display_title": "Hearing Debate",
           "timestamp": "20:21"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Ran's Explanation of Non-Verbal Kiyum and Rabbi Akiva Eiger's Challenge on Evidence",
@@ -186,7 +194,9 @@
           "display_title": "Observable Evidence",
           "timestamp": "27:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Categories of Nedarim Subject to Heifer: Inuy Nefesh and Bein Ish Leishah",
@@ -228,7 +238,9 @@
           "display_title": "Sole Supplier",
           "timestamp": "34:52"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: Hakeimah Permanence versus Bein Ish Leishah Reversibility Upon Remarriage",
@@ -270,7 +282,9 @@
           "display_title": "Refined Distinction",
           "timestamp": "42:29"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -641,5 +655,6 @@
         "44:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

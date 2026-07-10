@@ -33,7 +33,9 @@
           "display_title": "OU Gezeira Critique",
           "timestamp": "07:18"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Laws of Davar Charif (Sharp/Penetrating Foods) and Taste Transfer",
@@ -65,7 +67,9 @@
           "display_title": "Davar Charif Examples",
           "timestamp": "12:23"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Question of Placing Salt Dishes Next to Sour Milk Dips and the Principle of Dissolution",
@@ -87,7 +91,9 @@
           "display_title": "Retention & Dissolution",
           "timestamp": "14:19"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Pigeon Incident: Meat Falling into Yogurt and the Concept of Maliach K'Roteach (Salted Like Boiled)",
@@ -119,7 +125,9 @@
           "display_title": "Bahag Salt-Heat Equation",
           "timestamp": "18:29"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Blood Extraction from Meat: Roasting, Raw Meat Juices, and the Status of Blood in Meat",
@@ -151,7 +159,9 @@
           "display_title": "Rava Permits Red",
           "timestamp": "31:46"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Practical Methods for Catching Meat Juices During Roasting While Avoiding Blood",
@@ -183,7 +193,9 @@
           "display_title": "Tosafot Rejects Salt Met…",
           "timestamp": "38:31"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Blood Extraction from Meat: Roasting, Raw Meat Juices, and the Status of Blood in Meat (continued)",
@@ -195,7 +207,9 @@
           "display_title": "Shmuel's Contradictions",
           "timestamp": "40:39"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Salting Fish and Birds Together: Why Different Types of Meat Cannot Be Kashered Simultaneously",
@@ -222,7 +236,9 @@
           "display_title": "Fish Absorbency Timing",
           "timestamp": "48:22"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rav Mari's Case: Non-Kosher Meat Salted with Kosher Meat and the Status of Non-Kosher Juices",
@@ -249,7 +265,9 @@
           "display_title": "Taste vs Thing Itself",
           "timestamp": "52:16"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -843,5 +861,6 @@
         "26:09"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

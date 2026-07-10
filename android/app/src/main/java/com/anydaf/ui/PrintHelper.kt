@@ -12,7 +12,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.Toast
 import com.anydaf.R
-import com.anydaf.model.SourceDisplayMode
+import com.anydaf.model.TextDisplayMode
 import com.anydaf.model.StudyFontSize
 import com.anydaf.model.StudySection
 import com.anydaf.model.YCTArticle
@@ -25,7 +25,14 @@ import java.io.ByteArrayOutputStream
 
 sealed class PrintableContent {
     data class Shiur(val tractate: String, val daf: String, val text: String) : PrintableContent()
-    data class TalmudText(val tractate: String, val daf: String, val sections: List<StudySection>, val mode: SourceDisplayMode) : PrintableContent()
+    data class TalmudText(
+        val tractate: String,
+        val daf: String,
+        val sections: List<StudySection>,
+        val mode: TextDisplayMode,
+        val precedingContext: String? = null,
+        val followingContext: String? = null
+    ) : PrintableContent()
     data class Article(val article: YCTArticle, val html: String) : PrintableContent()
 }
 
@@ -169,7 +176,10 @@ object PrintHelper {
     ): String {
         val body = when (content) {
             is PrintableContent.Shiur      -> buildShiurBody(content.text)
-            is PrintableContent.TalmudText -> buildTalmudBody(content.sections, content.mode)
+            is PrintableContent.TalmudText -> buildTalmudBody(
+                content.sections, content.mode,
+                content.precedingContext, content.followingContext
+            )
             is PrintableContent.Article    -> content.html
         }
 
@@ -188,11 +198,20 @@ object PrintHelper {
         }
 
         // ── CSS ────────────────────────────────────────────────────────────────
-        // Running header/footer via position:fixed — Chromium/WebView repeats
-        // fixed elements on every printed page, making them true running headers.
-        // @page top/bottom margins are enlarged to leave room for the bands.
+        // Running header/footer via HTML <thead>/<tfoot> on a full-page wrapper
+        // table. WebView (Chromium) natively repeats table-header-group and
+        // table-footer-group on every printed page, ensuring the header and footer
+        // never overlap body text — more reliable than position:fixed approaches.
         val css = """
-            @page { margin: 68pt 36pt 44pt 36pt; }
+            @page {
+                margin: 36pt;
+                @bottom-right {
+                    content: counter(page);
+                    font-family: Georgia, serif;
+                    font-size: ${maxOf(fontPt - 3, 7)}pt;
+                    color: #999;
+                }
+            }
             * { box-sizing: border-box; }
             body {
                 font-family: Georgia, serif;
@@ -201,18 +220,17 @@ object PrintHelper {
                 color: #1a1a1a;
                 margin: 0; padding: 0;
             }
-            /* Running header — repeats on every page */
-            .page-header {
-                position: fixed;
-                top: -52pt;           /* reach up into the @page top margin */
-                left: 0; right: 0;
-                height: 44pt;
+            /* Full-page layout table — thead/tfoot repeat on every page */
+            .print-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+            thead { display: table-header-group; }
+            tfoot { display: table-footer-group; }
+            /* Header cell */
+            .header-cell {
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
                 border-bottom: 0.5pt solid #ccc;
-                padding-bottom: 6pt;
-                background: white;
+                padding: 4pt 0 6pt;
             }
             .page-header-title {
                 font-size: ${maxOf(fontPt - 1, 8)}pt;
@@ -224,19 +242,16 @@ object PrintHelper {
                 color: #777;
                 text-align: right;
             }
-            /* Running footer — repeats on every page */
-            .page-footer {
-                position: fixed;
-                bottom: -28pt;        /* reach down into the @page bottom margin */
-                left: 0; right: 0;
-                height: 22pt;
+            /* Footer cell */
+            .footer-cell {
                 border-top: 0.5pt solid #ccc;
                 padding-top: 4pt;
                 text-align: center;
                 font-size: ${maxOf(fontPt - 3, 7)}pt;
                 color: #999;
-                background: white;
             }
+            /* Body cell — top padding keeps content clear of the header rule */
+            .body-cell { vertical-align: top; padding-top: 10pt; }
             h2 {
                 font-size: ${fontPt + 2}pt;
                 margin: 20pt 0 4pt;
@@ -265,12 +280,22 @@ object PrintHelper {
             .bq-source { color: #1B3A8A; margin-bottom: 4pt; }
             .bq-source.rtl { direction: rtl; text-align: right; }
             .bq-translation { color: #444; }
+            .bq-translation b, .bq-translation strong,
+            p b, p strong { color: #1B3A8A; font-weight: normal; }
             .source-word { color: #1B3A8A; }
             .section-title {
                 font-size: ${fontPt + 2}pt;
                 font-weight: bold;
                 margin: 16pt 0 6pt;
                 page-break-after: avoid; break-after: avoid;
+            }
+            .adj-context {
+                font-style: italic;
+                color: #666;
+                background: #f2f2f2;
+                padding: 5pt 10pt;
+                border-radius: 3pt;
+                margin-bottom: 12pt;
             }
             .hebrew { direction: rtl; text-align: right; margin-bottom: 4pt; }
             /* Article styles */
@@ -299,20 +324,37 @@ object PrintHelper {
             <style>$css</style>
             </head>
             <body>
-            <!-- Running header (position:fixed → appears on every page) -->
-            <div class="page-header">
-              <div>$logoHeaderHtml</div>
-              <div style="text-align:right;">
-                <div class="page-header-title">$escapedTitle</div>
-                <div class="page-header-sub">$escapedSubtitle</div>
-              </div>
-            </div>
-            <!-- Running footer -->
-            <div class="page-footer">
-              Printed from AnyDaf &bull; Yeshivat Chovevei Torah &bull; yctorah.org
-            </div>
-            <!-- Main content -->
-            $body
+            <table class="print-table">
+              <thead>
+                <tr>
+                  <td>
+                    <div class="header-cell">
+                      <div>$logoHeaderHtml</div>
+                      <div style="text-align:right;">
+                        <div class="page-header-title">$escapedTitle</div>
+                        <div class="page-header-sub">$escapedSubtitle</div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </thead>
+              <tfoot>
+                <tr>
+                  <td>
+                    <div class="footer-cell">
+                      Printed from AnyDaf &bull; Yeshivat Chovevei Torah &bull; yctorah.org
+                    </div>
+                  </td>
+                </tr>
+              </tfoot>
+              <tbody>
+                <tr>
+                  <td class="body-cell">
+                    $body
+                  </td>
+                </tr>
+              </tbody>
+            </table>
             </body>
             </html>
         """.trimIndent()
@@ -405,36 +447,59 @@ object PrintHelper {
 
     // ── Talmud text HTML builder ───────────────────────────────────────────────
 
-    private fun buildTalmudBody(sections: List<StudySection>, mode: SourceDisplayMode): String {
+    private fun buildTalmudBody(
+        sections: List<StudySection>,
+        mode: TextDisplayMode,
+        precedingContext: String? = null,
+        followingContext: String? = null
+    ): String {
         val sb = StringBuilder()
-        for (section in sections) {
-            sb.append("<div class=\"section-title\">${escHtml(section.title)}</div>\n")
+
+        // Preceding-daf context: shown when this daf opens mid-sentence.
+        if (!precedingContext.isNullOrBlank()) {
+            sb.append("<p class=\"adj-context\">[…${escHtml(precedingContext)}]</p>\n")
+        }
+
+        val total = sections.size
+        for ((i, section) in sections.withIndex()) {
+            sb.append("<h2>Section ${i + 1}/$total</h2>\n")
             when (mode) {
-                SourceDisplayMode.STACKED -> {
+                TextDisplayMode.SOURCE -> {
+                    for (heb in section.hebrewSegments) {
+                        if (heb.isNotBlank()) sb.append("<div class=\"bq-source rtl hebrew\">${escHtml(heb)}</div>\n")
+                    }
+                }
+                TextDisplayMode.TRANSLATION -> {
+                    for (seg in section.rawSegments) {
+                        if (seg.isNotBlank()) sb.append("<p>$seg</p>\n")
+                    }
+                }
+                TextDisplayMode.BOTH -> {
                     val hebrewSegs = section.hebrewSegments
                     val englishSegs = section.rawSegments
-                    for (i in 0 until maxOf(hebrewSegs.size, englishSegs.size)) {
-                        val heb = hebrewSegs.getOrNull(i)
-                        val eng = englishSegs.getOrNull(i)
+                    for (j in 0 until maxOf(hebrewSegs.size, englishSegs.size)) {
+                        val heb = hebrewSegs.getOrNull(j)
+                        val eng = englishSegs.getOrNull(j)
                         if (!heb.isNullOrBlank() || !eng.isNullOrBlank()) {
                             sb.append("<div class=\"blockquote\">")
                             if (!heb.isNullOrBlank()) {
                                 sb.append("<div class=\"bq-source rtl hebrew\">${escHtml(heb)}</div>")
                             }
                             if (!eng.isNullOrBlank()) {
-                                sb.append("<div class=\"bq-translation\">${escHtml(eng)}</div>")
+                                sb.append("<div class=\"bq-translation\">$eng</div>")
                             }
                             sb.append("</div>\n")
                         }
                     }
                 }
-                SourceDisplayMode.TOGGLE -> {
-                    for (seg in section.rawSegments) {
-                        if (seg.isNotBlank()) sb.append("<p>${escHtml(seg)}</p>\n")
-                    }
-                }
             }
         }
+
+        // Following-daf context: shown when this daf ends mid-sentence.
+        if (!followingContext.isNullOrBlank()) {
+            sb.append("<p class=\"adj-context\">[${escHtml(followingContext)}…]</p>\n")
+        }
+
         return sb.toString()
     }
 

@@ -28,7 +28,9 @@
           "display_title": "Rabbah vs. Rava",
           "timestamp": "02:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Hen and Rope Case: Attempting to Resolve Rava's Question",
@@ -75,7 +77,9 @@
           "display_title": "Alt: Continued Pushing",
           "timestamp": "12:21"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Rava's Second Question: Does Chatzi Nezek Tzeroros Pay from Body (Migufo) or Out of Pocket (Me'aliya)?",
@@ -97,7 +101,9 @@
           "display_title": "Inconclusive",
           "timestamp": "16:24"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Ember in the Grain Case: Complexity with Rabbi Eliezer and Sumchus",
@@ -144,7 +150,9 @@
           "display_title": "Rav Sama Objection",
           "timestamp": "26:26"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rava's Third Question: Does Warning Three Times (Ha'ada'ah) Turn Tzeroros into Full Damages?",
@@ -166,7 +174,9 @@
           "display_title": "Single vs. Repeated",
           "timestamp": "41:04"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Defecating Animal Case: Tzeroros as Extension of Body vs. Distinct from Body",
@@ -193,7 +203,9 @@
           "display_title": "Sumchus vs. Rabbanan",
           "timestamp": "43:00"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -538,5 +550,6 @@
         "15:50"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

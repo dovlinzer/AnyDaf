@@ -38,7 +38,9 @@
           "display_title": "Two Groups",
           "timestamp": "06:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Historical Merger of Chaveirim and Talmidei Chachamim Identities",
@@ -75,7 +77,9 @@
           "display_title": "Conflation",
           "timestamp": "17:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Family Members' Status Changes Upon Death or Remarriage",
@@ -112,7 +116,9 @@
           "display_title": "Woman Story",
           "timestamp": "26:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Backsliding and Re-acceptance into Chaveirim",
@@ -149,7 +155,9 @@
           "display_title": "Tax Collector",
           "timestamp": "36:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Partiality Concerns When Judging One's Own Cases",
@@ -181,7 +189,9 @@
           "display_title": "Tosafos",
           "timestamp": "42:12"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Redemption of Blemished Consecrated Animals and Sales Restrictions",
@@ -203,7 +213,9 @@
           "display_title": "Balance Weighing",
           "timestamp": "44:46"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -469,5 +481,6 @@
         "21:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

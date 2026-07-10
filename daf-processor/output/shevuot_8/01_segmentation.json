@@ -63,7 +63,9 @@
           "display_title": "Rabbi Shimon Context",
           "timestamp": "22:55"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Rabbi Yehuda Versus Rabbi Shimon: Methodological Dispute on Parsing the Yom Kippur Verses",
@@ -85,7 +87,9 @@
           "display_title": "Both Agree: Tumat Mikdash",
           "timestamp": "28:49"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Determining Which Scenario of Awareness the Yom Kippur Korban Atones For",
@@ -132,7 +136,9 @@
           "display_title": "Viddui Hanistarot",
           "timestamp": "45:02"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "The Musaf Korban and the Second Scenario: Knowledge at the End but Not the Beginning",
@@ -164,7 +170,9 @@
           "display_title": "Achat Bashanah Twice",
           "timestamp": "50:33"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -720,5 +728,6 @@
         "09:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 19
 }

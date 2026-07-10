@@ -58,7 +58,9 @@
           "display_title": "Gemara Principle",
           "timestamp": "08:06"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Geometry of Circular Sukkah: Circumference, Diameter, and Pythagorean Calculations",
@@ -110,7 +112,9 @@
           "display_title": "Tosafot Geometry",
           "timestamp": "41:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Nested Sukkot of Smelters and the Principle that Structural Designation Depends on Usage",
@@ -132,7 +136,9 @@
           "display_title": "Temporary Status",
           "timestamp": "48:40"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Who May Build Sukkah and the Requirement of Intent for Shade (Tzeil)",
@@ -164,7 +170,9 @@
           "display_title": "Conclusion",
           "timestamp": "53:52"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -400,5 +408,6 @@
         "37:45"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

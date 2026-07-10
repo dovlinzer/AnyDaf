@@ -43,7 +43,9 @@
           "display_title": "Teiku - Unresolved",
           "timestamp": "06:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Transition to Sanctification of Azara and Jerusalem Boundaries",
@@ -65,7 +67,9 @@
           "display_title": "Three Camps",
           "timestamp": "10:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Source for Sanctification Practice: Vechen Ta'asu from the Mishkan",
@@ -92,7 +96,9 @@
           "display_title": "Otam Limitation",
           "timestamp": "14:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Procession with Two Todah Offerings: Source and Components",
@@ -119,7 +125,9 @@
           "display_title": "Mincha Instead",
           "timestamp": "25:52"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Musical Instruments and Psalms During the Sanctification Procession",
@@ -146,7 +154,9 @@
           "display_title": "Healing Dispute",
           "timestamp": "42:33"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Order and Arrangement of the Procession: Beit Din and Two Todahs",
@@ -183,7 +193,9 @@
           "display_title": "Teiku Resolution",
           "timestamp": "51:44"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -448,5 +460,6 @@
         "50:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

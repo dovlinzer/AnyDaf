@@ -48,7 +48,9 @@
           "display_title": "Tosafot's Question",
           "timestamp": "05:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Role of Presence: Does Proximity to the Original Lender Create a New Loan?",
@@ -95,7 +97,9 @@
           "display_title": "Rejection of Zechiyah",
           "timestamp": "23:15"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Conversion and Ribbit: When a Non-Jewish Debtor Converts to Judaism",
@@ -137,7 +141,9 @@
           "display_title": "Rava's Rationale",
           "timestamp": "30:10"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Written Ribbit Contracts: Validity and Enforcement in Court",
@@ -174,7 +180,9 @@
           "display_title": "Severability Test",
           "timestamp": "31:02"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Ruse and Property Transfer: Collateral, False Sale, and Document Validity",
@@ -221,7 +229,9 @@
           "display_title": "Legitimate vs. Ruse",
           "timestamp": "33:26"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -342,5 +352,6 @@
         "33:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

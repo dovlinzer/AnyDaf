@@ -38,7 +38,9 @@
           "display_title": "Pnei Yehoshua",
           "timestamp": "07:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rav Yosef's Challenge to Rabba: Tosefta on Returning Lost Objects",
@@ -60,7 +62,9 @@
           "display_title": "Yam Shel Shlomo",
           "timestamp": "13:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rabba's Defense and Counter-Challenge: Tosefta on Animals and Shmira",
@@ -82,7 +86,9 @@
           "display_title": "Animals vs. Objects",
           "timestamp": "17:25"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Torah's Multiple Phrasings of Hashavat Aveidah and De'at Ba'alim",
@@ -104,7 +110,9 @@
           "display_title": "Enclosed vs. Awareness",
           "timestamp": "23:10"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Shomer Aveidah and To'en Ta'anat Ganav: Abaye's Challenge",
@@ -131,7 +139,9 @@
           "display_title": "Ganav vs. Gazlan",
           "timestamp": "32:40"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Abaye's Counter-Challenge: Shomer Sachar Never Pays Kefel",
@@ -148,7 +158,9 @@
           "display_title": "Limited Exception",
           "timestamp": "35:23"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Socher (Renter) Case: Integration with Machloket on Liability Levels",
@@ -175,7 +187,9 @@
           "display_title": "Rabbi Zeira",
           "timestamp": "47:46"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     },
     {
       "title": "Rashi's Admission of Uncertainty and Conceptual Issues",
@@ -192,7 +206,9 @@
           "display_title": "Why Kefel?",
           "timestamp": "50:10"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Shoel (Borrower) Exemption: Ba'alav Imo and Two Sovereigns",
@@ -209,7 +225,9 @@
           "display_title": "Ralbag Logic",
           "timestamp": "51:31"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": false
     },
     {
       "title": "Animal Falling into Garden: Benefit vs. Damage and Negligence",
@@ -231,7 +249,9 @@
           "display_title": "Damage Direction",
           "timestamp": "55:21"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -471,5 +491,6 @@
         "54:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 17
 }

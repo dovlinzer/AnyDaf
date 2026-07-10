@@ -33,7 +33,9 @@
           "display_title": "Tosafot Analysis",
           "timestamp": "04:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Tannaitic Debate: Rabbi Meir vs. Rabbi Yehuda on Fining in Sogeg Cases",
@@ -60,7 +62,9 @@
           "display_title": "Rabbi Yehuda Position",
           "timestamp": "08:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Contradictions and Reconciliation: Multiple Cases Showing Reversals",
@@ -97,7 +101,9 @@
           "display_title": "Shemita Laxity",
           "timestamp": "19:51"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Teruma Case and Hezek She'eino Nikar's Relationship to Gezela",
@@ -134,7 +140,9 @@
           "display_title": "Dam & Meserech",
           "timestamp": "36:29"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Pigul and the Question of Testimony: When Is a Witness Believed About Unseen Acts?",
@@ -166,7 +174,9 @@
           "display_title": "Kohen Gadol",
           "timestamp": "52:00"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Sefer Torah Invalidation: Testimony About Defective Preparation",
@@ -203,7 +213,9 @@
           "display_title": "Reconciliation",
           "timestamp": "61:01"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -471,5 +483,6 @@
         "58:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

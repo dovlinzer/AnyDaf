@@ -38,7 +38,9 @@
           "display_title": "Trampled Path",
           "timestamp": "03:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Three Categories of Beit HaPras: Lost Graves, Plowed Graves, and Fields of Lamentation",
@@ -60,7 +62,9 @@
           "display_title": "Yei'ush Ba'alim",
           "timestamp": "06:58"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Marked Fields and Ambiguity: Determining the Type of Beit HaPras from Physical Signs",
@@ -92,7 +96,9 @@
           "display_title": "Interspersed Trees",
           "timestamp": "17:05"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Marking Stones and Markers: How Boundaries Delineate Areas of Tumah",
@@ -119,7 +125,9 @@
           "display_title": "Field Boundaries",
           "timestamp": "23:51"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Chol HaMoed Activities: Public Works and the Question of When to Perform Kilayim Removal",
@@ -151,7 +159,9 @@
           "display_title": "Kilayim Penalties",
           "timestamp": "33:52"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Watering Fields and Gardens on Chol HaMoed and Shvi'it: Debate Over Loss vs. Profit",
@@ -193,7 +203,9 @@
           "display_title": "Erev Shvi'it",
           "timestamp": "44:36"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Trapping Pests and Protecting Crops on Chol HaMoed and Shvi'it",
@@ -215,7 +227,9 @@
           "display_title": "Anthills",
           "timestamp": "49:55"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -410,5 +424,6 @@
         "39:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

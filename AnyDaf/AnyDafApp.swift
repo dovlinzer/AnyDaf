@@ -21,6 +21,9 @@ struct AnyDafApp: App {
     @AppStorage("lastDonationNudgeTimestamp") private var lastDonationNudgeTimestamp: Double = 0
     @AppStorage("engagementSecondsAtLastNudge") private var engagementSecondsAtLastNudge: Double = 0
     @AppStorage("didClickDonate") private var didClickDonate: Bool = false
+    @State private var dedication: Dedication? = nil        // sheet item — non-nil = sheet visible
+    @State private var dedicationPending: Dedication? = nil // fetched during splash, shown after
+    @AppStorage("lastDedicationDateShown") private var lastDedicationDateShown: String = ""
 
     init() {
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .default)
@@ -50,12 +53,17 @@ struct AnyDafApp: App {
                 }
             }
             .onAppear {
-                DispatchQueue.main.asyncAfter(deadline: .now() + 2.0) {
+                DispatchQueue.main.asyncAfter(deadline: .now() + 3.2) {
                     withAnimation(.easeOut(duration: 0.5)) {
                         showSplash = false
                     }
                     if !hasAcceptedTerms {
                         showTerms = true
+                    }
+                    // Promote any dedication fetched during the splash delay
+                    if let pending = dedicationPending {
+                        dedication = pending
+                        dedicationPending = nil
                     }
                 }
             }
@@ -70,15 +78,13 @@ struct AnyDafApp: App {
             }
             .sheet(isPresented: $showDonationNudge) {
                 DonationNudgeView {
-                    if let url = URL(string: "https://wl.donorperfect.net/weblink/weblink.aspx?name=yctorah&id=2") {
-                        UIApplication.shared.open(url)
-                    }
-                    didClickDonate = true
                     recordNudgeShown()
                     showDonationNudge = false
-                } onDismiss: {
-                    recordNudgeShown()
-                    showDonationNudge = false
+                }
+            }
+            .sheet(item: $dedication) { ded in
+                DedicationBannerView(dedication: ded) {
+                    dedication = nil
                 }
             }
         }
@@ -94,6 +100,22 @@ struct AnyDafApp: App {
                 nudgeCheckedThisSession = true
                 if shouldShowNudge() {
                     showDonationNudge = true
+                }
+            }
+            let today = DedicationService.todayDateString()
+            if today != lastDedicationDateShown {
+                Task {
+                    if let ded = await DedicationService.fetch() {
+                        lastDedicationDateShown = today  // only mark when a dedication is found
+                        if showSplash {
+                            // Hold until splash finishes; onAppear callback will promote it
+                            dedicationPending = ded
+                        } else {
+                            // Splash already gone (re-foreground) — show immediately
+                            dedication = ded
+                        }
+                    }
+                    // If nil, don't mark — we'll check again on the next open.
                 }
             }
         case .background:

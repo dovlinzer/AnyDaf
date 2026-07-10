@@ -23,7 +23,9 @@
           "display_title": "Categories & Link",
           "timestamp": "02:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Tanna Kamma's Position: Distinguishing Between Mekhuhu Beis Din and Mocher Atzmo Through Limiting Words",
@@ -40,7 +42,9 @@
           "display_title": "Baraita Overview",
           "timestamp": "03:39"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer's Position and the Gemara's Challenge: Does Everyone Hold Sakhir Sakhir?",
@@ -52,7 +56,9 @@
           "display_title": "Tavyumi on Abaye",
           "timestamp": "05:44"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Tanna Kamma's Position: Distinguishing Between Mekhuhu Beis Din and Mocher Atzmo Through Limiting Words (continued)",
@@ -64,7 +70,9 @@
           "display_title": "Six Year Limit",
           "timestamp": "05:55"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": false
     },
     {
       "title": "Rabbi Eliezer's Position and the Gemara's Challenge: Does Everyone Hold Sakhir Sakhir? (continued)",
@@ -76,7 +84,9 @@
           "display_title": "Reframing Debate",
           "timestamp": "05:59"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Tanna Kamma's Position: Distinguishing Between Mekhuhu Beis Din and Mocher Atzmo Through Limiting Words (continued) (continued)",
@@ -123,7 +133,9 @@
           "display_title": "Double Wage & Force",
           "timestamp": "18:43"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer's Position and the Gemara's Challenge: Does Everyone Hold Sakhir Sakhir? (continued) (continued)",
@@ -135,7 +147,9 @@
           "display_title": "Fundamental Link",
           "timestamp": "22:04"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "The Opposing View: Rabbi Elazar ben Yaakov and the Question of a Tanna Who Rejects Sakhir Sakhir",
@@ -172,7 +186,9 @@
           "display_title": "L'olam Resolution",
           "timestamp": "29:31"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Finding a True Dissenter: Rabbi on Self-Sale to Non-Jew and the Limits of Sakhir Sakhir",
@@ -199,7 +215,9 @@
           "display_title": "Yigalenu Limit",
           "timestamp": "35:19"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Dissenting Views: Rabbi Yossi HaGlili and Rabbi Akiva on Ge'ulat Kerovim vs. Others",
@@ -256,7 +274,9 @@
           "display_title": "Akiva Svara",
           "timestamp": "44:08"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "The Consensus View: Rabbi (Judah the Prince) and the Chachamim's Position on Ge'ulat Kerovim",
@@ -283,7 +303,9 @@
           "display_title": "V'yatza Yovel",
           "timestamp": "46:11"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -583,5 +605,6 @@
         "46:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 23
 }

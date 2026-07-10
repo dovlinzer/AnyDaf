@@ -28,7 +28,9 @@
           "display_title": "Heter Iska",
           "timestamp": "02:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Purchase of a Field in Someone Else's Name and Conditions of Sale",
@@ -65,7 +67,9 @@
           "display_title": "Witness Notification",
           "timestamp": "17:39"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Case of Rav Kahana: Buying Flax Futures and the Problem of Ribbit",
@@ -97,7 +101,9 @@
           "display_title": "Name Mechanism",
           "timestamp": "26:05"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Stolen Object Obligation: Introduction to Gezel and Shevuat Sheker",
@@ -144,7 +150,9 @@
           "display_title": "Various Cases",
           "timestamp": "38:40"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis of Whose View the Mishna Represents",
@@ -201,7 +209,9 @@
           "display_title": "Conclusion",
           "timestamp": "52:51"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -419,5 +429,6 @@
         "39:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

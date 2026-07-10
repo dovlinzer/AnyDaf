@@ -23,7 +23,9 @@
           "display_title": "General Principle",
           "timestamp": "01:53"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rabbi Yehuda's Position: Testimony Valid Only Before and After the Doubtful Period",
@@ -50,7 +52,9 @@
           "display_title": "During perek Issue",
           "timestamp": "10:44"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Rabbi Shimon's Position: Testimony Allowed Even During the perek, But Only for Stringency",
@@ -72,7 +76,9 @@
           "display_title": "Reconciliation",
           "timestamp": "15:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Practical Application and Halachic Consensus: How the Law Is Decided in Practice",
@@ -89,7 +95,9 @@
           "display_title": "Both Required?",
           "timestamp": "19:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Conclusion of the Mishnah: Why Both Upper and Lower Signs Are Mentioned",
@@ -106,7 +114,9 @@
           "display_title": "Structural Purpose",
           "timestamp": "21:27"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Parallel Mishnayos: A-Without-B but Not B-Without-A in Other Contexts",
@@ -128,7 +138,9 @@
           "display_title": "Testing Methods",
           "timestamp": "27:50"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Extra Limbs and Tumah: Bone Without Fingernail vs. Fingernail Without Bone",
@@ -150,7 +162,9 @@
           "display_title": "No Nail Required",
           "timestamp": "35:04"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Seats and Vessels: Something Can Be Tamei from Death Without Being a Midras",
@@ -172,7 +186,9 @@
           "display_title": "Primary Function",
           "timestamp": "36:27"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Judges for Capital and Monetary Cases: Genealogy and Exclusions",
@@ -199,7 +215,9 @@
           "display_title": "Both Exclusions",
           "timestamp": "39:16"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -548,5 +566,6 @@
         "19:11"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

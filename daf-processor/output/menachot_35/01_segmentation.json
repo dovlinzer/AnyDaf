@@ -28,7 +28,9 @@
           "display_title": "Tosafot & Pasken",
           "timestamp": "02:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Discussion of Invalid Reversals and the Concept of Inner and Outer Compartments",
@@ -60,7 +62,9 @@
           "display_title": "Historical Variations",
           "timestamp": "06:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Titura and Ma'abarta: The Base and Bridge of Tefillin as Halacha L'Moshe Mi'Sinai",
@@ -87,7 +91,9 @@
           "display_title": "Halacha L'Moshe Mi'Sinai",
           "timestamp": "09:12"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Furrow Between Compartments: Requirements for Separation",
@@ -104,7 +110,9 @@
           "display_title": "Visual Separation",
           "timestamp": "15:26"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Inspection of Klaf and the Requirements for Writing Tefillin",
@@ -121,7 +129,9 @@
           "display_title": "Quill Detection",
           "timestamp": "18:18"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Black Straps and the Color Requirements for Tefillin Straps and Box",
@@ -163,7 +173,9 @@
           "display_title": "White Boxes",
           "timestamp": "25:56"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "The Squareness of Tefillin: Halacha L'Moshe Mi'Sinai and Measurement by Diagonal",
@@ -195,7 +207,9 @@
           "display_title": "Papa's Objection",
           "timestamp": "34:09"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Internal Wall Integrity: When Breaks in Compartment Walls Invalidate Tefillin",
@@ -227,7 +241,9 @@
           "display_title": "Elasticity Test",
           "timestamp": "39:14"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -448,5 +464,6 @@
         "39:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

@@ -23,92 +23,128 @@
           "display_title": "Exceptions - Not Burned",
           "timestamp": "02:19"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     },
     {
       "title": "Methods of Making Bread Leavened: Rabbi Meir vs. Rabbi Yehuda Dispute on Creating Sourdough",
       "display_title": "Making Chametz - R. Meir",
-      "timestamp": "03:54"
+      "timestamp": "03:54",
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "The Problem of Measuring Flour When Sourdough Is Denser Than Flour: Rabbi Yehuda's Method and Its Flaws",
       "display_title": "Measuring Issues",
-      "timestamp": "06:28"
+      "timestamp": "06:28",
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "How Measurements of Flour Are Determined: The Flour That Went Into It, Not Current Volume",
       "display_title": "Flour Measurement Basis",
-      "timestamp": "08:27"
+      "timestamp": "08:27",
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Tosafot on Measuring Without Compression and Its Application to Challah and Matzah",
       "display_title": "Tosafot - Measuring",
-      "timestamp": "09:45"
+      "timestamp": "09:45",
+      "sefaria_index": 32,
+      "matched": false
     },
     {
       "title": "Establishing the Source that All Meal Offerings Must Be Matzah: Is It a Mitzvah or a Requirement for Validity?",
       "display_title": "Source for Matzah",
-      "timestamp": "12:23"
+      "timestamp": "12:23",
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Rav Chisda's Challenge: The Middle Category Between Chametz and Matzah (She'or / Chametz Nuksheh)",
       "display_title": "Chametz Nuksheh",
-      "timestamp": "16:08"
+      "timestamp": "16:08",
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Debate Between Rabbi Meir and Rabbi Yehuda on When Dough Becomes Problematically Fermented During Pesach",
       "display_title": "R. Meir vs. R. Yehuda",
-      "timestamp": "18:45"
+      "timestamp": "18:45",
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Boiled Dough as Another Middle Category: Neither Chametz Nor Matzah",
       "display_title": "Boiled Dough",
-      "timestamp": "23:57"
+      "timestamp": "23:57",
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Menachot Revucha (Boiled in Oil) as a Defined Category, Making Generic Boiling Invalid",
       "display_title": "Mincha Revucha",
-      "timestamp": "28:45"
+      "timestamp": "28:45",
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Ravina's Objection: The Prohibition 'Do Not Bake Chametz' Indicates Personal Transgression, Not Invalidation",
       "display_title": "Prohibition vs. Validity",
-      "timestamp": "31:01"
+      "timestamp": "31:01",
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Gemara's Resolution: Finding Matzah as an Obligation in a Baraita About Mincha Machavat",
       "display_title": "Baraita Resolution",
-      "timestamp": "33:58"
+      "timestamp": "33:58",
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rav Preida's Question on the Obligation to Use Lukewarm Water and Be Vigilant Against Leavening",
       "display_title": "Lukewarm Water & Vigilan…",
-      "timestamp": "36:23"
+      "timestamp": "36:23",
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Gemara's Derash on 'Matzah Tihiyeh': Understanding Both as Obligation and as Active Watchfulness",
       "display_title": "Matzah Tihiyeh Derash",
-      "timestamp": "37:30"
+      "timestamp": "37:30",
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Anecdote of Rav Preida, Rabbi Ezra bar Beray, and the Importance of Torah Learning Over Lineage",
       "display_title": "Rav Preida & Rabbi Ezra",
-      "timestamp": "39:19"
+      "timestamp": "39:19",
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Rav Preida's Aggadic Drasha: God's Gratitude Belongs to the Ancestors, Not to Their Descendants",
       "display_title": "God's Gratitude",
-      "timestamp": "41:50"
+      "timestamp": "41:50",
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rabbi Ezra's Multiple Drashot Showing Affinity Between Related Concepts: Adir, Yedid, Tov, and Zeh",
       "display_title": "Drashot on Affinity",
-      "timestamp": "45:22"
+      "timestamp": "45:22",
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "The Underlying Message: When Family Lineage Combines with Torah Learning, There Is a Special Power",
       "display_title": "Lineage & Torah",
-      "timestamp": "51:47"
+      "timestamp": "51:47",
+      "sefaria_index": 16,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -284,5 +320,6 @@
         "51:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 20
 }

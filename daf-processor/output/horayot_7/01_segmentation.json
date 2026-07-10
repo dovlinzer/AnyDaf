@@ -18,7 +18,9 @@
           "display_title": "Mezid & Shogeg",
           "timestamp": "00:35"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Derivation from Scripture: Comparison of Kohen Gadol to Tzibur via Le'ashmat Ha'am",
@@ -50,7 +52,9 @@
           "display_title": "Own Sin Only",
           "timestamp": "11:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Circular Reasoning Objection: Does Asham Talui Exclusion Presuppose Hora'ah?",
@@ -72,7 +76,9 @@
           "display_title": "Asham Side Point",
           "timestamp": "14:37"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Mishna: Kohen Gadol Alone vs. With Tzibur",
@@ -89,7 +95,9 @@
           "display_title": "With Tzibur",
           "timestamp": "15:25"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara: Definition of 'With Tzibur' (Im Hatzibur)",
@@ -151,7 +159,9 @@
           "display_title": "Radical Teiku",
           "timestamp": "34:41"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Mishna: Beit Din and Kohen Gadol Must Negate Part and Affirm Part",
@@ -178,7 +188,9 @@
           "display_title": "Omission Note",
           "timestamp": "36:54"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara: Sources for Hora'ah Plus Ma'aseh Requirement",
@@ -200,7 +212,9 @@
           "display_title": "Avoda Zara Source",
           "timestamp": "40:09"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Observation: Mishna Omits 'Vechen Hamashiach' for Avoda Zara—Tannaim Dispute",
@@ -227,7 +241,9 @@
           "display_title": "No Asham",
           "timestamp": "42:40"
         }
-      ]
+      ],
+      "sefaria_index": 29,
+      "matched": true
     },
     {
       "title": "Rabbi's Reasoning: Ba'ayim Beshgega Alone Suffices for Avoda Zara",
@@ -244,7 +260,9 @@
           "display_title": "Chet Bishgaga",
           "timestamp": "46:01"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     },
     {
       "title": "Chachamim's Reasoning: Even Avoda Zara Requires Helem Davar Framework",
@@ -261,7 +279,9 @@
           "display_title": "Exclusion",
           "timestamp": "46:32"
         }
-      ]
+      ],
+      "sefaria_index": 34,
+      "matched": true
     },
     {
       "title": "Asham Talui Analysis: Why Kohen Gadol Never Brings It",
@@ -293,7 +313,9 @@
           "display_title": "Chachamim: Never",
           "timestamp": "50:51"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1118,5 +1140,6 @@
         "50:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }

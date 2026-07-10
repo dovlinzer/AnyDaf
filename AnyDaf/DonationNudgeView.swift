@@ -1,7 +1,6 @@
 import SwiftUI
 
 struct DonationNudgeView: View {
-    let onDonate: () -> Void
     let onDismiss: () -> Void
 
     var body: some View {
@@ -16,22 +15,14 @@ struct DonationNudgeView: View {
                 Text("Support AnyDaf")
                     .font(.title2.bold())
 
-                Text("AnyDaf is provided free by Yeshivat Chovevei Torah. If you find it valuable, please consider making a donation to support Torah learning.")
+                Text("AnyDaf is provided free by Yeshivat Chovevei Torah. If you find it valuable, please consider supporting Torah learning at YCT.")
                     .multilineTextAlignment(.center)
                     .foregroundStyle(.secondary)
                     .padding(.horizontal)
             }
 
-            VStack(spacing: 12) {
-                Button(action: onDonate) {
-                    Text("Donate to YCT")
-                        .frame(maxWidth: .infinity)
-                }
-                .buttonStyle(.borderedProminent)
-
-                Button("Maybe Later", action: onDismiss)
-                    .foregroundStyle(.secondary)
-            }
+            Button("Close", action: onDismiss)
+                .foregroundStyle(.secondary)
 
             Spacer()
         }

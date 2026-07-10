@@ -18,7 +18,9 @@
           "display_title": "Why 18 Brachot?",
           "timestamp": "00:51"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Shimon HaPakuli and the Organization of the Shemoneh Esrei",
@@ -30,7 +32,9 @@
           "display_title": "Organization at Yavne",
           "timestamp": "02:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Birkat HaMinim: The Blessing Against Heretics",
@@ -67,7 +71,9 @@
           "display_title": "Author Exception",
           "timestamp": "12:21"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Symbolism of Prayer Numbers: Seven, Nine, and Twenty-Four Brachot",
@@ -89,7 +95,9 @@
           "display_title": "Twenty-Four of Taanit",
           "timestamp": "21:23"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Abbreviated Prayer: Me'ein Shemoneh Esrei and Havineinu",
@@ -131,7 +139,9 @@
           "display_title": "Mistake vs Intention",
           "timestamp": "26:11"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Missing Elements in Prayer: What Requires Going Back",
@@ -158,7 +168,9 @@
           "display_title": "Private vs Communal",
           "timestamp": "26:54"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Yaaleh V'Yavo on Rosh Chodesh: When to Return to Refeit",
@@ -180,7 +192,9 @@
           "display_title": "Tachanun Exception",
           "timestamp": "26:54"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Rabbi Eliezer's Principle: Fixed Prayer vs. Supplication (Tachanun)",
@@ -217,7 +231,9 @@
           "display_title": "Sunrise Danger",
           "timestamp": "26:54"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -374,5 +390,6 @@
         "02:08"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 27
 }

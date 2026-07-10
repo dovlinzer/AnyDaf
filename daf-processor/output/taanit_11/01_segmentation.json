@@ -28,7 +28,9 @@
           "display_title": "Leadership Models",
           "timestamp": "04:46"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Calendar and astronomical discussion: tekufot, Julian vs. Gregorian calendar, and when to begin saying v'ten tal u'matar",
@@ -55,7 +57,9 @@
           "display_title": "Prayer to Liturgy Shift",
           "timestamp": "15:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Separating from communal suffering and the severe consequences of perishah min ha'tzibur",
@@ -112,7 +116,9 @@
           "display_title": "Deeds Enumerated Death",
           "timestamp": "22:18"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Fasting as religious practice: Samuel's critique of habitual fasting; nazir as ascetic model",
@@ -164,7 +170,9 @@
           "display_title": "Talmid Chacham Can't Fast",
           "timestamp": "22:44"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -472,5 +480,6 @@
         "10:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -23,7 +23,9 @@
           "display_title": "Blood as Matir",
           "timestamp": "00:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Three Verses on Blood: Excluding Dam from Notar, Tumah, and Me'ilah",
@@ -45,7 +47,9 @@
           "display_title": "Rabbi Yochanan",
           "timestamp": "04:50"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Principle of Ne'asita Mitzvato and Its Exceptions",
@@ -72,7 +76,9 @@
           "display_title": "Resolution via Extra Let…",
           "timestamp": "13:57"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Three Verses About Tumah and Keriyos: Application to Shelamim and All Sacrifices",
@@ -99,7 +105,9 @@
           "display_title": "Rava's Resolution",
           "timestamp": "27:54"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Mishnah: Six Things Requiring Proper Intent (Leshem Shisha Devarim)",
@@ -121,7 +129,9 @@
           "display_title": "Alternative Readings",
           "timestamp": "34:53"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Gemara on Intent: Technical Requirements and Distinctions Based on Type of Sacrifice",
@@ -148,7 +158,9 @@
           "display_title": "Abaye's Resolution",
           "timestamp": "44:26"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Further Distinctions on Intent: Intentional vs. Mistaken Understanding",
@@ -175,7 +187,9 @@
           "display_title": "Conscious Intent Required",
           "timestamp": "50:56"
         }
-      ]
+      ],
+      "sefaria_index": 33,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -416,5 +430,6 @@
         "44:39"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

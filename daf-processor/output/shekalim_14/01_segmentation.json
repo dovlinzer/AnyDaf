@@ -43,7 +43,9 @@
           "display_title": "Beit Garmo & Avtinas",
           "timestamp": "04:45"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Gemara debate on recognition and merit of the officials",
@@ -65,7 +67,9 @@
           "display_title": "Garmo/Avtinas status",
           "timestamp": "10:12"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The organizing work of earlier generations in Torah and rabbinic traditions",
@@ -102,7 +106,9 @@
           "display_title": "Ezra the Scribe",
           "timestamp": "18:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Parable of the bread-makers: The labor of previous generations",
@@ -119,7 +125,9 @@
           "display_title": "Our struggle",
           "timestamp": "20:39"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The comparison to angels and the story of Rabbi Pinchas ben Yair's donkey",
@@ -151,7 +159,9 @@
           "display_title": "Donkey machmir",
           "timestamp": "25:33"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Petachiah: The interpreter of mysteries and hidden meanings",
@@ -203,7 +213,9 @@
           "display_title": "Wolf danger",
           "timestamp": "33:51"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Ben Achiah: Guardian of the Kohanim's health",
@@ -225,7 +237,9 @@
           "display_title": "Wine remedies",
           "timestamp": "35:37"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": false
     },
     {
       "title": "Nechunya the well-digger and the death of his son in thirst",
@@ -272,7 +286,9 @@
           "display_title": "Awe of closeness",
           "timestamp": "42:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The righteous chasid and his daughter washed away by a river",
@@ -314,7 +330,9 @@
           "display_title": "Responses differ",
           "timestamp": "49:57"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gevini the announcer and his thunderous voice",
@@ -331,7 +349,9 @@
           "display_title": "Loud voice",
           "timestamp": "52:10"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Ben Gever oversaw the locking of the Temple gates",
@@ -348,7 +368,9 @@
           "display_title": "Krias hagever",
           "timestamp": "52:40"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Ben Babi and the appointment of parnasin for charity distribution",
@@ -370,7 +392,9 @@
           "display_title": "Parnasin honor",
           "timestamp": "54:53"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Ben Arza and the chimes signaling the Leviyim's song",
@@ -382,7 +406,9 @@
           "display_title": "Signal chimes",
           "timestamp": "55:51"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Hugras ben Levi and the artistry of Temple song",
@@ -404,7 +430,9 @@
           "display_title": "Kohanim amazed",
           "timestamp": "56:55"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -713,5 +741,6 @@
         "56:55"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

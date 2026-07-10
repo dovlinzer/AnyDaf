@@ -23,7 +23,9 @@
           "display_title": "Dots prevent abuse",
           "timestamp": "01:26"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Protection Against Erasing and Rewriting the Document Body",
@@ -45,7 +47,9 @@
           "display_title": "Validation voided",
           "timestamp": "09:20"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "White Space Between Witness Signatures and Validation Mark",
@@ -77,7 +81,9 @@
           "display_title": "Extra witness risk",
           "timestamp": "20:32"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Single-Erasure vs. Double-Erasure Detection",
@@ -129,7 +135,9 @@
           "display_title": "Beit Din error risk",
           "timestamp": "38:40"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Dated Documents and Mekushar (Tied) Contracts",
@@ -166,7 +174,9 @@
           "display_title": "Rabbi's learning",
           "timestamp": "50:48"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Roman Official Titles and Terms of Office",
@@ -193,7 +203,9 @@
           "display_title": "Term designation",
           "timestamp": "54:49"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     },
     {
       "title": "Greek Geometric Terms Applied to Nazir Vows and Ritual Impurity",
@@ -220,7 +232,9 @@
           "display_title": "Four walls source",
           "timestamp": "56:42"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -720,5 +734,6 @@
         "33:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 11
 }

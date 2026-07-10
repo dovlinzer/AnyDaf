@@ -33,7 +33,9 @@
           "display_title": "Shelamim Emesh",
           "timestamp": "03:27"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Preparation of Sacrificial Meat: Cooking Methods and Spice Usage",
@@ -50,7 +52,9 @@
           "display_title": "Absorption Issue",
           "timestamp": "08:05"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemaras Inquiry into Tadir Precedence: Multiple Proofs Establishing the Principle",
@@ -82,7 +86,9 @@
           "display_title": "Rosh Chodesh",
           "timestamp": "13:38"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Application of Tadir Principle to Tefila and Kiddush",
@@ -99,7 +105,9 @@
           "display_title": "Mincha & Musaf",
           "timestamp": "16:13"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Distinction Between Tadir (Regular Obligation) and Matzui (Prevalent/Common)",
@@ -121,7 +129,9 @@
           "display_title": "Tadir Contexts",
           "timestamp": "22:01"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Unresolved Question: Order When One Korban Is Already Shechted Out of Order",
@@ -153,7 +163,9 @@
           "display_title": "Mincha Evidence",
           "timestamp": "28:23"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Case of Korban Pesach Shechted Before Tamid: Stirring Blood to Restore Order",
@@ -180,7 +192,9 @@
           "display_title": "Mishna Reading",
           "timestamp": "31:25"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": false
     },
     {
       "title": "Preparation of Sacrificial Meat: Cooking Methods and Spice Usage (continued)",
@@ -197,7 +211,9 @@
           "display_title": "Royal Status",
           "timestamp": "32:11"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Scenarios of Oil and Fire: Determining What Oil Can Be Offered and How",
@@ -224,7 +240,9 @@
           "display_title": "Nedava Oil",
           "timestamp": "36:26"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Determining the Source and Parameters of Oil Offering: Minchas Menachot versus Nesachim",
@@ -256,7 +274,9 @@
           "display_title": "Three Logs",
           "timestamp": "48:58"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Rav Papa's Framework: Connecting the One Log vs. Three Log Debate to Sources",
@@ -278,7 +298,9 @@
           "display_title": "Mincha Source",
           "timestamp": "56:02"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -707,5 +729,6 @@
         "30:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 21
 }

@@ -18,7 +18,9 @@
           "display_title": "Terminology",
           "timestamp": "01:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Dead Body and Tiltul Min HaTzad Debate",
@@ -55,7 +57,9 @@
           "display_title": "R. Yehuda Ruling",
           "timestamp": "08:53"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Muktzah Categories: General Principles and Distinctions",
@@ -92,7 +96,9 @@
           "display_title": "No-Move Rule",
           "timestamp": "14:22"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "New vs. Old Lamps: The Mishnah Discussion",
@@ -119,7 +125,9 @@
           "display_title": "Issur Category",
           "timestamp": "21:50"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara's Debate on Lamp Burning Status and Its Duration",
@@ -136,7 +144,9 @@
           "display_title": "Burning @ Start",
           "timestamp": "24:55"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "New vs. Old Lamps: The Mishnah Discussion (continued)",
@@ -148,7 +158,9 @@
           "display_title": "R. Shimon View",
           "timestamp": "25:57"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Gemara's Debate on Lamp Burning Status and Its Duration (continued)",
@@ -165,7 +177,9 @@
           "display_title": "R. Elazar View",
           "timestamp": "27:10"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Abaye's Analysis: Distinguishing Son from Father",
@@ -187,7 +201,9 @@
           "display_title": "Issur Debate",
           "timestamp": "29:15"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Large vs. Small Containers: When Status Is Fixed",
@@ -214,7 +230,9 @@
           "display_title": "Status Fixed",
           "timestamp": "34:53"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Metal Candelabra Lit on Shabbat: Universal Agreement on Issur",
@@ -246,7 +264,9 @@
           "display_title": "Final Ruling",
           "timestamp": "40:25"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Basis and Money: Bed Designated for Muktzah",
@@ -278,7 +298,9 @@
           "display_title": "Must Use",
           "timestamp": "45:05"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Status at Shabbos Outset: When Money Is Present",
@@ -305,7 +327,9 @@
           "display_title": "Bein Hashem",
           "timestamp": "46:46"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": false
     },
     {
       "title": "Complex Mishnah: Removable Drawer (Muchni) and Tumah Laws",
@@ -337,7 +361,9 @@
           "display_title": "If No Money",
           "timestamp": "54:57"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Gemara's Challenge: Does Status Depend on Bein Hashemashos?",
@@ -374,7 +400,9 @@
           "display_title": "Conclusion",
           "timestamp": "56:39"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -661,5 +689,6 @@
         "42:23"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

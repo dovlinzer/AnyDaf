@@ -33,7 +33,9 @@
           "display_title": "Judea vs. Galilee",
           "timestamp": "03:02"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Cases of Acceptance and Holding Terumah Until Next Season",
@@ -65,7 +67,9 @@
           "display_title": "Burning Produce",
           "timestamp": "11:01"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Checking Fields for Bones: Pesach vs. Terumah Standards",
@@ -102,7 +106,9 @@
           "display_title": "Unified Status",
           "timestamp": "27:05"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Belief in Vessels vs. Belief in Contents: Mixed Wine/Oil (Meduma'os)",
@@ -134,7 +140,9 @@
           "display_title": "Rashi's Policy",
           "timestamp": "29:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Belief in Pottery Vessels from Near Jerusalem (Modi'in Region)",
@@ -181,7 +189,9 @@
           "display_title": "Pure Vessel/Impure Conte…",
           "timestamp": "38:09"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": true
     },
     {
       "title": "Belief in Tax Collectors and Thieves Who Return Property",
@@ -193,7 +203,9 @@
           "display_title": "Tax Collectors",
           "timestamp": "39:56"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Universal Belief at Yom Tov (Festival): Unifying the People",
@@ -205,7 +217,9 @@
           "display_title": "Festival Rule",
           "timestamp": "52:06"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Belief in Tax Collectors and Thieves Who Return Property (continued)",
@@ -227,7 +241,9 @@
           "display_title": "Thieves' Teshuvah",
           "timestamp": "54:12"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     },
     {
       "title": "Universal Belief at Yom Tov (Festival): Unifying the People (continued)",
@@ -239,7 +255,9 @@
           "display_title": "Sukkot Lead-in",
           "timestamp": "56:29"
         }
-      ]
+      ],
+      "sefaria_index": 28,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -623,5 +641,6 @@
         "55:35"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

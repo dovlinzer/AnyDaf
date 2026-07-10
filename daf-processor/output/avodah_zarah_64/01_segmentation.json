@@ -23,7 +23,9 @@
           "display_title": "Gemara Structure",
           "timestamp": "02:02"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "First Case: Hiring a Jew to Break Barrels of Yayin Nesech",
@@ -60,7 +62,9 @@
           "display_title": "Reducing Issur",
           "timestamp": "17:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Second Case: Money from Avodat Kochavim in the Hands of a Non-Jew",
@@ -97,7 +101,9 @@
           "display_title": "Rav Sheshet",
           "timestamp": "24:37"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Third Case: Division of Inheritance Between Ger and Oved Kochavim",
@@ -139,7 +145,9 @@
           "display_title": "Inheritance vs. Partners…",
           "timestamp": "30:39"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Fourth Case: Can a Ger Toshav Annul the Status of Avodat Kochavim?",
@@ -176,7 +184,9 @@
           "display_title": "Non-Jew Interpretation",
           "timestamp": "40:45"
         }
-      ]
+      ],
+      "sefaria_index": 17,
+      "matched": true
     },
     {
       "title": "Definition and Status of Ger Toshav",
@@ -228,7 +238,9 @@
           "display_title": "Final Status",
           "timestamp": "51:39"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -420,5 +432,11 @@
         "17:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16,
+  "amud_b_segment_index": 4,
+  "amud_b_timestamp": "32:46",
+  "amud_b_micro_title": "Ger Toshav Question",
+  "shiur_start_daf": 64,
+  "shiur_start_amud": "a"
 }

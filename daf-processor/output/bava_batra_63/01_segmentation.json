@@ -28,7 +28,9 @@
           "display_title": "Ravina bar Kissi Braita",
           "timestamp": "03:56"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Sumchos's Framework: How Chelek Scales Based on Context (Water Rights)",
@@ -55,7 +57,9 @@
           "display_title": "Water Usage Context",
           "timestamp": "10:53"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Ben Levi's Field: Retaining Rights to Terumah and the Problem of Davar Shelo Ba L'Olam",
@@ -82,7 +86,9 @@
           "display_title": "Variations & Conditions",
           "timestamp": "18:22"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Principle: Selling a House with Retained Rights to the Upper Story",
@@ -94,7 +100,9 @@
           "display_title": "Diyuta Elyona",
           "timestamp": "46:13"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Reish Lakish's Principle: Selling a House with Retained Rights to the Upper Story (continued)",
@@ -116,7 +124,9 @@
           "display_title": "Rav Pappa Difficulty",
           "timestamp": "46:26"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Rav Dimi's Doctrine: The Necessity of Explicit Language for Umka V'Ruma (Depths and Heights)",
@@ -143,7 +153,9 @@
           "display_title": "Mishna Reinterpretation",
           "timestamp": "46:26"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Roof with Maakaeh: Implicit Rights and the Role of Physical Structure in Property Transfer",
@@ -180,7 +192,9 @@
           "display_title": "Rashbam Caveat",
           "timestamp": "46:26"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -353,5 +367,6 @@
         "46:13"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

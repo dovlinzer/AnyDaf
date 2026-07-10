@@ -43,7 +43,9 @@
           "display_title": "Masechet Structure",
           "timestamp": "07:43"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Psulo BaKodesh and the Principle of Im Alu Lo Yerdu",
@@ -70,7 +72,9 @@
           "display_title": "Rabbah v. Rav Yosef",
           "timestamp": "24:32"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Kedushat Bamat Yachid and Conditional Sanctification in Mikdash Context",
@@ -82,7 +86,9 @@
           "display_title": "Rabbi Elazar Q.",
           "timestamp": "25:06"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Psulo BaKodesh and the Principle of Im Alu Lo Yerdu (continued)",
@@ -94,7 +100,9 @@
           "display_title": "Tiyuvta de'Rabbah",
           "timestamp": "28:48"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Kedushat Bamat Yachid and Conditional Sanctification in Mikdash Context (continued)",
@@ -111,7 +119,9 @@
           "display_title": "Teiqu",
           "timestamp": "33:57"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Zrikat Pigul and Me'ilah Status: Validity of Flawed Zrika for Changing Kedushah",
@@ -138,7 +148,9 @@
           "display_title": "Shechita v. Zrika",
           "timestamp": "44:03"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Pigul Labeling and Retroactive Status: When Does an Act Become Pigul for Halachic Purposes?",
@@ -165,7 +177,9 @@
           "display_title": "Retroactive Status",
           "timestamp": "54:41"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Zrikat Pigul and Me'ilah Status: Validity of Flawed Zrika for Changing Kedushah (continued)",
@@ -177,7 +191,9 @@
           "display_title": "Toda-Bread Refutation",
           "timestamp": "57:15"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -415,5 +431,6 @@
         "46:12"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

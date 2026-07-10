@@ -28,7 +28,9 @@
           "display_title": "Ashkenazi/Sephardi",
           "timestamp": "05:38"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Linen Garments with Tzitzit: The Dispute between Beit Shammai and Beit Hillel",
@@ -55,7 +57,9 @@
           "display_title": "Rabbinic Authority",
           "timestamp": "11:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Concern of Shatnez: False Techelet and Ignorance in Jerusalem",
@@ -87,7 +91,9 @@
           "display_title": "Teaching Solution",
           "timestamp": "18:06"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Problem of False Techelet: Kala Ilan and the Market Deception",
@@ -114,7 +120,9 @@
           "display_title": "Rejected Solutions",
           "timestamp": "31:47"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "The Concern of Spilling Back Dye and the Risk of Invalidation",
@@ -131,7 +139,9 @@
           "display_title": "Holiday Announcements",
           "timestamp": "39:02"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "The Core Problem: Tearing the Corner and Sewing It Back (Asiyah v'Lo Min Ha'Asuy)",
@@ -158,7 +168,9 @@
           "display_title": "Shammai/Hillel",
           "timestamp": "44:55"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -369,5 +381,6 @@
         "03:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

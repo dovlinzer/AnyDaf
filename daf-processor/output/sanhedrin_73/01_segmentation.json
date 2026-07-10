@@ -23,7 +23,9 @@
           "display_title": "Katan Rodef",
           "timestamp": "02:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Debate on Rodef: Din Model versus Pure Victim Protection, with Focus on Blame and Pursuit",
@@ -60,7 +62,9 @@
           "display_title": "Machteret Hatra'ah",
           "timestamp": "17:10"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishna on Salvation of Victims: Rodef Achar Chaveiro, Sexual Offenses, and Capital Crimes",
@@ -87,7 +91,9 @@
           "display_title": "Matzilin Oso",
           "timestamp": "29:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara on Rodef: Derivation from Betrothed Maiden Using Kal VaChomer and Gezerah Shavah",
@@ -114,7 +120,9 @@
           "display_title": "Expanded Cases",
           "timestamp": "39:19"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Detailed Analysis of Sexual Offenses: Severity, Victim Status, and Pegam (Defilement)",
@@ -141,7 +149,9 @@
           "display_title": "Na'arah Basadeh",
           "timestamp": "44:58"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Textual Analysis of Pesukim: Extracting Na'ar and Na'arah to Distinguish Victim from Serious Sin",
@@ -168,7 +178,9 @@
           "display_title": "Rebbi Elazar Position",
           "timestamp": "52:58"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Rebbi Yehuda's Position: When Woman Says Leave Him, Life Not at Risk So No Intervention",
@@ -200,7 +212,9 @@
           "display_title": "Pegam Severity",
           "timestamp": "58:45"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -574,5 +588,6 @@
         "35:19"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

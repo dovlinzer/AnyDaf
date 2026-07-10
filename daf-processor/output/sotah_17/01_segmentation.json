@@ -33,7 +33,9 @@
           "display_title": "Rabbi Yehudah View",
           "timestamp": "05:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara Debate: Hermeneutics of Ha'alot and Ha'eileh",
@@ -65,7 +67,9 @@
           "display_title": "Hei Analysis",
           "timestamp": "15:15"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Challenge to Rabbi Meir: Inferring Inverses and Tenai Kaful",
@@ -87,7 +91,9 @@
           "display_title": "Akiva: Fire",
           "timestamp": "22:34"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Symbolic Meaning of Dust and Divine Name Erasure",
@@ -114,7 +120,9 @@
           "display_title": "Techelet: Throne",
           "timestamp": "31:18"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Material Requirements for Writing the Megillah",
@@ -131,7 +139,9 @@
           "display_title": "Ink Requirements",
           "timestamp": "37:54"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Conditions of Validity: Timing, Order, and Continuity",
@@ -168,7 +178,9 @@
           "display_title": "Intermittent Invalid",
           "timestamp": "42:04"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": true
     },
     {
       "title": "Tosafot on Scoring, Physical Form, and Textual Quotation",
@@ -190,7 +202,9 @@
           "display_title": "Tosafot Question",
           "timestamp": "50:12"
         }
-      ]
+      ],
+      "sefaria_index": 27,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -508,5 +522,6 @@
         "51:48"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 25
 }

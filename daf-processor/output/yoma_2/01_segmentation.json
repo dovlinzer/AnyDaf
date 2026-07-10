@@ -23,7 +23,9 @@
           "display_title": "Timeline & Length",
           "timestamp": "02:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Separation of the Kohen Gadol: Preparation and Contingency Planning",
@@ -35,7 +37,9 @@
           "display_title": "Seven-Day Separation",
           "timestamp": "03:57"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Introduction to Masechet Yoma and the Organization of the Talmudic Curriculum (continued)",
@@ -47,7 +51,9 @@
           "display_title": "Eight Perakim Structure",
           "timestamp": "06:30"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Separation of the Kohen Gadol: Preparation and Contingency Planning (continued)",
@@ -64,7 +70,9 @@
           "display_title": "Backup Wife & Ein Ladava…",
           "timestamp": "08:47"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Parallels with Parah Adumah: The Kohenim Hasoref and Chamber of Stone",
@@ -91,7 +99,9 @@
           "display_title": "Tosafot on Tvul Yom",
           "timestamp": "18:23"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Geographic and Conceptual Placement of the Chamber: Northeast Location and Its Significance",
@@ -113,7 +123,9 @@
           "display_title": "Inside vs Outside Ezrah",
           "timestamp": "24:37"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Deriving the Source for Seven-Day Separation: The Gezeira Shava of Milu'im",
@@ -130,7 +142,9 @@
           "display_title": "Timing of Command",
           "timestamp": "36:19"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Examining Alternatives: Why Not All Korbanos or Regalim Require Seven-Day Preparation",
@@ -152,7 +166,9 @@
           "display_title": "Specific Regalim Rejected",
           "timestamp": "42:27"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "The Principle of Shemini Atzeret: Independence Versus Continuation of Sukkot",
@@ -174,7 +190,9 @@
           "display_title": "Tashlumim Status",
           "timestamp": "48:05"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -427,5 +445,6 @@
         "52:17"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

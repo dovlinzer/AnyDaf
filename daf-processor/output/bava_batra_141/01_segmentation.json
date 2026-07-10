@@ -38,7 +38,9 @@
           "display_title": "Eino Notel Rule",
           "timestamp": "04:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Debate between Abaye and Rava: Does Tumtum Receive Any Share?",
@@ -70,7 +72,9 @@
           "display_title": "Priority Question",
           "timestamp": "06:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabban Shimon ben Gamliel's Position on Kedusha and Tumtum",
@@ -97,7 +101,9 @@
           "display_title": "Alignment Analysis",
           "timestamp": "09:00"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Baraita: Tumtum Inherits Like Son, Receives Sustenance Like Daughter",
@@ -129,7 +135,9 @@
           "display_title": "Abaye Reframe",
           "timestamp": "14:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Preference for Sons vs. Daughters and Birth Order Discussion",
@@ -166,7 +174,9 @@
           "display_title": "Rav Chisda",
           "timestamp": "22:28"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Tannaim Dispute: Rabbi Meir vs. Rabbi Yehuda on Blessing Daughters",
@@ -198,7 +208,9 @@
           "display_title": "Yehuda Kal Vachomer",
           "timestamp": "28:58"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Gift on Birth Announcement: Father's Conditional Bequest to Messenger or Child",
@@ -230,7 +242,9 @@
           "display_title": "Twins & Nefel",
           "timestamp": "36:15"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Shchiv Mera Case: Transferring Property to Unborn Child (Ubar)",
@@ -262,7 +276,9 @@
           "display_title": "Rav Huna Defense",
           "timestamp": "40:45"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Search for Tannaitic Authority: Who Authored the Mishnah?",
@@ -314,7 +330,9 @@
           "display_title": "Seifa Problem",
           "timestamp": "52:31"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -665,5 +683,6 @@
         "47:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 10
 }

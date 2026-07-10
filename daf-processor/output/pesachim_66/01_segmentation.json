@@ -28,7 +28,9 @@
           "display_title": "Hillel Becomes Nasi",
           "timestamp": "06:38"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Problem of Bringing the Knife on Shabbat: Overriding Rabbinic Prohibitions for Pesach",
@@ -40,7 +42,9 @@
           "display_title": "Animal Carries Knife",
           "timestamp": "09:40"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Gemara's Analysis of Hillel's Derivation and the Nature of Torah She-be'al Peh",
@@ -52,7 +56,9 @@
           "display_title": "Gezerah Shavah Analysis",
           "timestamp": "14:22"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "The Problem of Bringing the Knife on Shabbat: Overriding Rabbinic Prohibitions for Pesach (continued)",
@@ -79,7 +85,9 @@
           "display_title": "People's Intuition",
           "timestamp": "24:59"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "The Gemara's Analysis of Hillel's Derivation and the Nature of Torah She-be'al Peh (continued)",
@@ -96,7 +104,9 @@
           "display_title": "Seven Principles",
           "timestamp": "32:49"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Aggadic Excursus: Pride, Anger, and Spiritual Downfall",
@@ -123,7 +133,9 @@
           "display_title": "Eliab's Story",
           "timestamp": "42:59"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     },
     {
       "title": "Overriding Tumah (Impurity): Pesach Rishon and Pesach Sheni",
@@ -145,7 +157,9 @@
           "display_title": "Three Categories",
           "timestamp": "48:20"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -353,5 +367,6 @@
         "05:29"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

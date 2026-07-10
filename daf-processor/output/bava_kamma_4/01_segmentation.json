@@ -28,7 +28,9 @@
           "display_title": "Peshiat HaNizak",
           "timestamp": "06:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Conceptual Framework of Four Avot Nezikin: Sources, Definitions, and Common Denominator",
@@ -50,7 +52,9 @@
           "display_title": "Vemamoncha Role",
           "timestamp": "11:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Dispute over Maveh: Rav's Reading as Adam vs. Shmuel's Reading as Shen",
@@ -82,7 +86,9 @@
           "display_title": "Shmuel Division",
           "timestamp": "16:13"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Reading the Mishnah According to Shmuel: Comparative Strengths of Regel vs. Shen",
@@ -109,7 +115,9 @@
           "display_title": "Keren Absence",
           "timestamp": "27:02"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "Problem of Adam and Shmuel's Exclusion from Main Mishnah",
@@ -146,7 +154,9 @@
           "display_title": "Rabbi Abahu",
           "timestamp": "39:57"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Alternative Interpretations of Maveh Rejected: Water, Fire, and Final Reading",
@@ -173,7 +183,9 @@
           "display_title": "Distinct from Esh",
           "timestamp": "43:54"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Rabbi Oshaya's Braita: Thirteen Avot Nezikin Expanded Categories",
@@ -200,7 +212,9 @@
           "display_title": "Mishnah Limitations",
           "timestamp": "46:54"
         }
-      ]
+      ],
+      "sefaria_index": 22,
+      "matched": true
     },
     {
       "title": "Distinction Between Property Damage and Personal Injury: Chavala as Separate Category",
@@ -227,7 +241,9 @@
           "display_title": "Negligence Concept",
           "timestamp": "52:13"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -800,5 +816,6 @@
         "41:36"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 18
 }

@@ -54,7 +54,8 @@
           "timestamp": "10:34"
         }
       ],
-      "sefaria_index": 0
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Shaliach for Shechita and Terumah: Chazakah Shaliach Oseh Shlichuto and Rov Metzuyin",
@@ -97,7 +98,8 @@
           "timestamp": "23:52"
         }
       ],
-      "sefaria_index": 7
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Tannaitic Debate: Is Rov Metzuyin Etzel Shechita Mumchin a Universal Principle?",
@@ -145,7 +147,8 @@
           "timestamp": "34:39"
         }
       ],
-      "sefaria_index": 10
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Cheresh Shoteh veKatan: Prohibition to Give Them Animals to Slaughter and the Question of Kavanah",
@@ -208,7 +211,8 @@
           "timestamp": "52:26"
         }
       ],
-      "sefaria_index": 16
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Rabbi Yochanan's Question: Does a Katan Have Halachically Relevant Machshava?",
@@ -241,7 +245,8 @@
           "timestamp": "57:43"
         }
       ],
-      "sefaria_index": 20
+      "sefaria_index": 20,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -446,5 +451,7 @@
   "amud_b_segment_index": 3,
   "amud_b_timestamp": "37:10",
   "amud_b_micro_title": "Mishna: CSvK Restriction",
-  "amud_b_sefaria_index": 15
+  "amud_b_sefaria_index": 15,
+  "shiur_start_daf": 12,
+  "shiur_start_amud": "a"
 }

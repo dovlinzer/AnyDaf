@@ -23,7 +23,9 @@
           "display_title": "Yom Kippur Connection",
           "timestamp": "02:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Halakha L'Moshe MiSinai as Source for Shiurim (Measurements)",
@@ -90,7 +92,9 @@
           "display_title": "Halakha vs. Derabbanan",
           "timestamp": "15:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Chatzitzin (Obstructions): Biblical Source and Rabbinic Extensions",
@@ -142,7 +146,9 @@
           "display_title": "Rashi on Devar Torah",
           "timestamp": "28:00"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Mechitzin (Walls): Ten Tefachim and Related Halakhot",
@@ -169,7 +175,9 @@
           "display_title": "Measurement Direction",
           "timestamp": "31:52"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Number of Walls Required: Rabbanan vs. Rabbi Shimon Debate",
@@ -236,7 +244,9 @@
           "display_title": "Shade vs. Protection",
           "timestamp": "48:01"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -1088,5 +1098,6 @@
         "03:21"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

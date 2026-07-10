@@ -13,8 +13,8 @@ import androidx.datastore.preferences.preferencesDataStore
 import androidx.datastore.core.DataMigration
 import com.anydaf.AnyDafApp
 import com.anydaf.model.QuizMode
-import com.anydaf.model.SourceDisplayMode
 import com.anydaf.model.StudyFontSize
+import com.anydaf.model.TextDisplayMode
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
@@ -53,9 +53,8 @@ object AppPreferences {
     private val LAST_DAF = NEW_LAST_DAF_DOUBLE
     private val LAST_AMUD = intPreferencesKey("lastAmud")
     private val QUIZ_MODE = stringPreferencesKey("quizMode")
-    private val SOURCE_DISPLAY_MODE = stringPreferencesKey("sourceDisplayMode")
+    private val TEXT_DISPLAY_MODE = stringPreferencesKey("textDisplayMode")
     private val SHIUR_SHOW_SOURCES = booleanPreferencesKey("shiurShowSources")
-    private val STUDY_SHOW_HEBREW = booleanPreferencesKey("studyShowHebrew")
     private val STUDY_FONT_SIZE = stringPreferencesKey("studyFontSize")
     private val USE_WHITE_BACKGROUND = booleanPreferencesKey("useWhiteBackground")
     private val TABLET_RIGHT_PANEL = stringPreferencesKey("tabletRightPanel")
@@ -63,6 +62,14 @@ object AppPreferences {
     private val TABLET_SPLIT_DP = doublePreferencesKey("tabletSplitDp")
     private val PRINT_FONT_SIZE = stringPreferencesKey("printFontSize")
     private val PRINT_LINE_SPACING = doublePreferencesKey("printLineSpacing")
+    private val LAST_CONTENT_MODE = stringPreferencesKey("lastContentMode")
+    private val LAST_TEXT_SECTION_INDEX = intPreferencesKey("lastTextSectionIndex")
+    private val LAST_TEXT_TRACTATE = stringPreferencesKey("lastTextTractate")
+    private val LAST_TEXT_DAF = doublePreferencesKey("lastTextDaf")
+    private val LAST_SHIUR_SEGMENT_INDEX = intPreferencesKey("lastShiurSegmentIndex")
+    private val LAST_SHIUR_TRACTATE = stringPreferencesKey("lastShiurTractate")
+    private val LAST_SHIUR_DAF = doublePreferencesKey("lastShiurDaf")
+    private val LAST_DEDICATION_DATE_SHOWN = stringPreferencesKey("lastDedicationDateShown")
     val totalEngagementSeconds: Flow<Long> = store.data.map { it[TOTAL_ENGAGEMENT_SECONDS] ?: 0L }
     val lastDonationNudgeTimestamp: Flow<Long> = store.data.map { it[LAST_DONATION_NUDGE_TIMESTAMP] ?: 0L }
     val engagementSecondsAtLastNudge: Flow<Long> = store.data.map { it[ENGAGEMENT_SECONDS_AT_LAST_NUDGE] ?: 0L }
@@ -74,11 +81,10 @@ object AppPreferences {
     val quizMode: Flow<QuizMode> = store.data.map {
         QuizMode.entries.firstOrNull { m -> m.name == it[QUIZ_MODE] } ?: QuizMode.MULTIPLE_CHOICE
     }
-    val sourceDisplayMode: Flow<SourceDisplayMode> = store.data.map {
-        SourceDisplayMode.entries.firstOrNull { m -> m.name == it[SOURCE_DISPLAY_MODE] } ?: SourceDisplayMode.TOGGLE
+    val textDisplayMode: Flow<TextDisplayMode> = store.data.map {
+        TextDisplayMode.entries.firstOrNull { m -> m.name == it[TEXT_DISPLAY_MODE] } ?: TextDisplayMode.TRANSLATION
     }
     val shiurShowSources: Flow<Boolean> = store.data.map { it[SHIUR_SHOW_SOURCES] ?: true }
-    val studyShowHebrew: Flow<Boolean> = store.data.map { it[STUDY_SHOW_HEBREW] ?: false }
     val studyFontSize: Flow<StudyFontSize> = store.data.map {
         StudyFontSize.entries.firstOrNull { f -> f.name == it[STUDY_FONT_SIZE] } ?: StudyFontSize.MEDIUM
     }
@@ -92,6 +98,15 @@ object AppPreferences {
         StudyFontSize.entries.firstOrNull { f -> f.name == it[PRINT_FONT_SIZE] } ?: StudyFontSize.SMALL
     }
     val printLineSpacing: Flow<Double> = store.data.map { it[PRINT_LINE_SPACING] ?: 1.5 }
+    // "" = not yet persisted (composable defaults to DAF)
+    val lastContentMode: Flow<String> = store.data.map { it[LAST_CONTENT_MODE] ?: "" }
+    val lastTextSectionIndex: Flow<Int> = store.data.map { it[LAST_TEXT_SECTION_INDEX] ?: 0 }
+    val lastTextTractate: Flow<String> = store.data.map { it[LAST_TEXT_TRACTATE] ?: "" }
+    val lastTextDaf: Flow<Double> = store.data.map { it[LAST_TEXT_DAF] ?: 0.0 }
+    val lastShiurSegmentIndex: Flow<Int> = store.data.map { it[LAST_SHIUR_SEGMENT_INDEX] ?: 0 }
+    val lastShiurTractate: Flow<String> = store.data.map { it[LAST_SHIUR_TRACTATE] ?: "" }
+    val lastShiurDaf: Flow<Double> = store.data.map { it[LAST_SHIUR_DAF] ?: 0.0 }
+    val lastDedicationDateShown: Flow<String> = store.data.map { it[LAST_DEDICATION_DATE_SHOWN] ?: "" }
     suspend fun saveEngagementSeconds(seconds: Long) {
         store.edit { it[TOTAL_ENGAGEMENT_SECONDS] = seconds }
     }
@@ -124,16 +139,12 @@ object AppPreferences {
         store.edit { it[QUIZ_MODE] = mode.name }
     }
 
-    suspend fun saveSourceDisplayMode(mode: SourceDisplayMode) {
-        store.edit { it[SOURCE_DISPLAY_MODE] = mode.name }
+    suspend fun saveTextDisplayMode(mode: TextDisplayMode) {
+        store.edit { it[TEXT_DISPLAY_MODE] = mode.name }
     }
 
     suspend fun saveShiurShowSources(enabled: Boolean) {
         store.edit { it[SHIUR_SHOW_SOURCES] = enabled }
-    }
-
-    suspend fun saveStudyShowHebrew(enabled: Boolean) {
-        store.edit { it[STUDY_SHOW_HEBREW] = enabled }
     }
 
     suspend fun saveStudyFontSize(size: StudyFontSize) {
@@ -155,12 +166,36 @@ object AppPreferences {
         }
     }
 
+    suspend fun saveLastContentMode(mode: String) {
+        store.edit { it[LAST_CONTENT_MODE] = mode }
+    }
+
+    suspend fun saveLastTextPosition(tractate: String, daf: Double, sectionIndex: Int) {
+        store.edit {
+            it[LAST_TEXT_TRACTATE] = tractate
+            it[LAST_TEXT_DAF] = daf
+            it[LAST_TEXT_SECTION_INDEX] = sectionIndex
+        }
+    }
+
+    suspend fun saveLastShiurPosition(tractate: String, daf: Double, segmentIndex: Int) {
+        store.edit {
+            it[LAST_SHIUR_TRACTATE] = tractate
+            it[LAST_SHIUR_DAF] = daf
+            it[LAST_SHIUR_SEGMENT_INDEX] = segmentIndex
+        }
+    }
+
     suspend fun savePrintFontSize(size: StudyFontSize) {
         store.edit { it[PRINT_FONT_SIZE] = size.name }
     }
 
     suspend fun savePrintLineSpacing(spacing: Double) {
         store.edit { it[PRINT_LINE_SPACING] = spacing }
+    }
+
+    suspend fun saveLastDedicationDateShown(date: String) {
+        store.edit { it[LAST_DEDICATION_DATE_SHOWN] = date }
     }
 
 }

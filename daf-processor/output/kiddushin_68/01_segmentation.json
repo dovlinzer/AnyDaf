@@ -28,7 +28,9 @@
           "display_title": "Three Generations",
           "timestamp": "05:49"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mamzerut and the Four Schools of Tannaim: When Does Prohibition Prevent Kiddushin?",
@@ -90,7 +92,9 @@
           "display_title": "Rabbi Yona Drasha",
           "timestamp": "19:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Problem of Niddah and Sotah: Exceptions to the Rule of Mamzerut",
@@ -152,7 +156,9 @@
           "display_title": "Reconciliation",
           "timestamp": "39:24"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Kiddushin Cannot Take Effect: Shifcha Kenaanit and Nochrit (Women Excluded Entirely)",
@@ -204,7 +210,9 @@
           "display_title": "Concluding Rule",
           "timestamp": "58:57"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -562,5 +570,6 @@
         "57:38"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 13
 }

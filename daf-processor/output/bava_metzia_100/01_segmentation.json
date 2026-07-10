@@ -33,7 +33,9 @@
           "display_title": "Doubtful Case Split",
           "timestamp": "02:13"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Cases of Claims on Two Different Items: Slaves and Fields",
@@ -60,7 +62,9 @@
           "display_title": "Seller's Oath",
           "timestamp": "04:12"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Gemara Challenge: Why Split Rather Than Apply חזקה or המוציא מחבירו?",
@@ -82,7 +86,9 @@
           "display_title": "Original Owner",
           "timestamp": "08:14"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Identification of Tanna: Sumchus vs. Rabbanan on Doubtful Money",
@@ -104,7 +110,9 @@
           "display_title": "Sumchus Bari/Bari",
           "timestamp": "10:00"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Gemara Challenge: Why Split Rather Than Apply חזקה or המוציא מחבירו? (continued)",
@@ -116,7 +124,9 @@
           "display_title": "Pregnant Chazaka",
           "timestamp": "11:23"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Identification of Tanna: Sumchus vs. Rabbanan on Doubtful Money (continued)",
@@ -128,7 +138,9 @@
           "display_title": "Rava Limits Sumchus",
           "timestamp": "12:56"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "Final Clause and Return to Sumchus: Splitting Without Oath",
@@ -140,7 +152,9 @@
           "display_title": "Doubt Resolution Methods",
           "timestamp": "13:18"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Problem of Oath on Slaves: Resolving the Modeh Bemiktzat Issue",
@@ -152,7 +166,9 @@
           "display_title": "Different Items",
           "timestamp": "15:26"
         }
-      ]
+      ],
+      "sefaria_index": 19,
+      "matched": true
     },
     {
       "title": "Problem of Oath on Slaves: Resolving the Modeh Bemiktzat Issue (continued)",
@@ -174,7 +190,9 @@
           "display_title": "Uncut Cloth Theory",
           "timestamp": "16:36"
         }
-      ]
+      ],
+      "sefaria_index": 20,
+      "matched": true
     },
     {
       "title": "Question on Unique Teaching: Redundancy with Kiddushin Principle",
@@ -196,7 +214,9 @@
           "display_title": "Rabban Gamliel",
           "timestamp": "16:36"
         }
-      ]
+      ],
+      "sefaria_index": 25,
+      "matched": true
     },
     {
       "title": "Examination of Rabbi Meir's Position on Slaves and Real Estate",
@@ -228,7 +248,9 @@
           "display_title": "Hybrid Status",
           "timestamp": "17:49"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": true
     },
     {
       "title": "Return to Rabbi Oshaya's Solution and Principle of Zokekin",
@@ -250,7 +272,9 @@
           "display_title": "Minor Items Effect",
           "timestamp": "16:36"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": false
     },
     {
       "title": "Final Clause and Return to Sumchus: Splitting Without Oath (continued)",
@@ -272,7 +296,9 @@
           "display_title": "Sumchus-Rabbanan Contrast",
           "timestamp": "50:15"
         }
-      ]
+      ],
+      "sefaria_index": 31,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -484,5 +510,6 @@
         "16:42"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 24
 }

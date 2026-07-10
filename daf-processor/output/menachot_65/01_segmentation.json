@@ -23,7 +23,9 @@
           "display_title": "Hashmonean Exception",
           "timestamp": "05:25"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Narrative of the Siege: The Traitor's Communication, the Pig Sacrifice, and the Symbolic Reversal",
@@ -50,7 +52,9 @@
           "display_title": "Curse & Wisdom",
           "timestamp": "10:14"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mute Figure's Signaling and the Identification of Mordechai as the Intermediary",
@@ -67,7 +71,9 @@
           "display_title": "Ein Socher",
           "timestamp": "13:55"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Narrative of the Siege: The Traitor's Communication, the Pig Sacrifice, and the Symbolic Reversal (continued)",
@@ -84,7 +90,9 @@
           "display_title": "Greek Wisdom Ban",
           "timestamp": "19:36"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Mute Figure's Signaling and the Identification of Mordechai as the Intermediary (continued)",
@@ -101,7 +109,9 @@
           "display_title": "Mordechai ID",
           "timestamp": "24:50"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Harvest Procedure of the Omer and the Public Declaration of the Correct Day",
@@ -128,7 +138,9 @@
           "display_title": "Anti-Baitusim",
           "timestamp": "33:35"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "The Debate Over the Tamid and the Establishment of Its Proper Offering",
@@ -150,7 +162,9 @@
           "display_title": "Pharisaic Refutation",
           "timestamp": "36:49"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Debate Over Shavuot: When Does It Fall and the Pharisaic Victory Over the Baitusim",
@@ -182,7 +196,9 @@
           "display_title": "Debate End",
           "timestamp": "42:05"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Textual Proofs That the Omer Begins the Day After Yom Tov, Not the Day After Shabbat",
@@ -204,7 +220,9 @@
           "display_title": "Pesach Depends",
           "timestamp": "49:40"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -524,5 +542,6 @@
         "50:26"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

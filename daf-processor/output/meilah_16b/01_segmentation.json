@@ -18,7 +18,9 @@
           "display_title": "Nevelos & Sheratzim",
           "timestamp": "02:03"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Analysis of Sheratzim Consumption: The Shiur (Measure) for Eating Non-Kosher Crawling Creatures",
@@ -40,7 +42,9 @@
           "display_title": "Alive vs. Dead",
           "timestamp": "10:04"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Debate Over Rav's Intent: Is He Explaining the Mishna or Making an Independent Statement?",
@@ -57,7 +61,9 @@
           "display_title": "Rav Yosef Response",
           "timestamp": "16:00"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Reconciling Rabbi Yochanan's Positions: Limbs of Non-Kosher Animals and the Muvdalim Principle",
@@ -89,7 +95,9 @@
           "display_title": "Bal Teshaktzu",
           "timestamp": "24:36"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Conclusion: Summary of Sheratzim Shiur and Transition to Next Mishna",
@@ -101,7 +109,9 @@
           "display_title": "Final Sheratzim Ruling",
           "timestamp": "25:54"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -609,5 +619,6 @@
         "25:37"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 7
 }

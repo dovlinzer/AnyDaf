@@ -18,7 +18,9 @@
           "display_title": "Power of Speech",
           "timestamp": "01:08"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Oath to Fulfill Commandments (Shevuah l'Kayem et ha-Mitzvah)",
@@ -45,7 +47,9 @@
           "display_title": "Ran's Position",
           "timestamp": "04:32"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Personal Obligation Through Statement (Neder Mitzva)",
@@ -77,7 +81,9 @@
           "display_title": "Ran on Explicit",
           "timestamp": "13:20"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Conceptual Framework: Neder as Creating Personal Religious Obligation",
@@ -114,7 +120,9 @@
           "display_title": "Neder Obligations",
           "timestamp": "27:35"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": false
     },
     {
       "title": "Practical Application: Person Obligates Himself to Go Somewhere",
@@ -131,7 +139,9 @@
           "display_title": "Ezekiel Source",
           "timestamp": "34:59"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Niddui from Heaven (Dream Scenarios and Resolution)",
@@ -168,7 +178,9 @@
           "display_title": "Dream Nonsense",
           "timestamp": "39:59"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Husband Representing Wife in Annulment of Vow (Hatarat Nedarim)",
@@ -200,7 +212,9 @@
           "display_title": "Rambam Tosafot",
           "timestamp": "42:34"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Releasing from Niddui vs. Neder in Rebbe's Location",
@@ -222,7 +236,9 @@
           "display_title": "Yachid Mumche",
           "timestamp": "46:17"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Concluding Teaching on Fearing God's Name and Future Redemption",
@@ -244,7 +260,9 @@
           "display_title": "Righteous Wicked",
           "timestamp": "46:57"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": true
     },
     {
       "title": "Technical Discussion: Requirements for Yachid Mumche in Niddui vs. Neder Annulment",
@@ -266,7 +284,9 @@
           "display_title": "Neder Shamta Diff",
           "timestamp": "52:15"
         }
-      ]
+      ],
+      "sefaria_index": 13,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -564,5 +584,6 @@
         "40:57"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 9
 }

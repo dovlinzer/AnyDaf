@@ -23,7 +23,9 @@
           "display_title": "Living Arrangements",
           "timestamp": "02:17"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Divorced Wives of Kohanim: Neighborhood Restrictions and Property Rights",
@@ -65,7 +67,9 @@
           "display_title": "Rav's Statement",
           "timestamp": "09:24"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Legal Proceedings and Intermediaries Between Ex-Spouses",
@@ -107,7 +111,9 @@
           "display_title": "Implementation Dispute",
           "timestamp": "16:29"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Testimony from Childhood: Who Is Believed for What Matters",
@@ -144,7 +150,9 @@
           "display_title": "Not Believed Cases",
           "timestamp": "24:01"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Gemara Analysis: Reasons for Accepting Childhood Testimony",
@@ -181,7 +189,9 @@
           "display_title": "Rabbi Elazar Tale",
           "timestamp": "37:32"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "Additional Categories of Accepted Childhood Testimony",
@@ -213,7 +223,9 @@
           "display_title": "Ketzatzah Case",
           "timestamp": "47:14"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -454,5 +466,6 @@
         "37:32"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

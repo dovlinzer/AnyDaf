@@ -28,7 +28,9 @@
           "display_title": "Rabbis' Rebuttal",
           "timestamp": "02:01"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Gemara's Analysis: Does Rabbi Tarfon Hold the Dayo Principle",
@@ -75,7 +77,9 @@
           "display_title": "Tarfon's Response",
           "timestamp": "11:01"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Rav Pappa's Challenge: A Tanna Who Rejects Dayo Even When Kal Vachomer Bears Fruit",
@@ -127,7 +131,9 @@
           "display_title": "Braita Confirmed",
           "timestamp": "23:46"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Rav Acha's Challenge: A Tanna Who Rejects Dayo Even When Kal Vachomer Bears Fruit",
@@ -204,7 +210,9 @@
           "display_title": "Final Pasuk",
           "timestamp": "39:39"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -358,5 +366,6 @@
         "39:02"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

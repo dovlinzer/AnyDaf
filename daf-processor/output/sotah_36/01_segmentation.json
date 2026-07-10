@@ -43,7 +43,9 @@
           "display_title": "Malbim's Theory",
           "timestamp": "11:42"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Teshuvah, Acceptance, and the Seven Nations: Dispute Between Rabbi Yehudah and Rabbi Shimon",
@@ -75,7 +77,9 @@
           "display_title": "Yefat Toar Override?",
           "timestamp": "14:47"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Gemara's Harmonization: How All Events Occurred on One Day with Miraculous Transportation",
@@ -117,7 +121,9 @@
           "display_title": "Two Tzira",
           "timestamp": "32:33"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Division of the Tribes: Har Gerizim Versus Har Eival",
@@ -179,7 +185,9 @@
           "display_title": "Binyamin Shalem",
           "timestamp": "48:30"
         }
-      ]
+      ],
+      "sefaria_index": 10,
+      "matched": true
     },
     {
       "title": "The Story of Yosef: His Resistance to Potiphar's Wife and the Connection to the Ephod Stones",
@@ -216,7 +224,9 @@
           "display_title": "Shepherd Role",
           "timestamp": "54:03"
         }
-      ]
+      ],
+      "sefaria_index": 23,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -480,5 +490,6 @@
         "54:03"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 14
 }

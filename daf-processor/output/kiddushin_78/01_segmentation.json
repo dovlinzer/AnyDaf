@@ -43,7 +43,9 @@
           "display_title": "Kehunah Shani",
           "timestamp": "06:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "The Distinction Between Zonah and Chalalah",
@@ -90,7 +92,9 @@
           "display_title": "Rav Ashi Conclusion",
           "timestamp": "17:33"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Multiple Transgressions from a Single Act: Lo Yikach and Lo Yechallel",
@@ -137,7 +141,9 @@
           "display_title": "Rashi/Rambam",
           "timestamp": "27:09"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Role of Marriage vs. Sex in the Prohibitions",
@@ -179,7 +185,9 @@
           "display_title": "Rambam Limitation",
           "timestamp": "37:58"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Problem of a Ger and His Daughter",
@@ -231,7 +239,9 @@
           "display_title": "Final Application",
           "timestamp": "46:00"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Alternate Positions on Ger and Giyoret Status",
@@ -288,7 +298,9 @@
           "display_title": "Betuloteha",
           "timestamp": "53:40"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -536,5 +548,6 @@
         "55:14"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 22
 }

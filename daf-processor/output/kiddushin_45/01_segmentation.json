@@ -23,7 +23,9 @@
           "display_title": "Core Question",
           "timestamp": "01:03"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Shmuel's Position: Ketanah Requires Both Get and Mi'un",
@@ -50,7 +52,9 @@
           "display_title": "Rav Confirms",
           "timestamp": "05:03"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": false
     },
     {
       "title": "Rav Acha's Explanation: The Dual-Purpose Requirement of Get and Mi'un",
@@ -72,7 +76,9 @@
           "display_title": "Sister Concern",
           "timestamp": "07:01"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": true
     },
     {
       "title": "Rav Nachman's Limitation: Shidduchin as Prerequisite for the Concern",
@@ -84,7 +90,9 @@
           "display_title": "Shidduchin Gate",
           "timestamp": "13:53"
         }
-      ]
+      ],
+      "sefaria_index": 3,
+      "matched": false
     },
     {
       "title": "Ulla's Radical Rejection: No Get or Mi'un Required at All",
@@ -101,7 +109,9 @@
           "display_title": "Shidduchin Ambiguity",
           "timestamp": "15:00"
         }
-      ]
+      ],
+      "sefaria_index": 16,
+      "matched": true
     },
     {
       "title": "Yibum Context: Mi'un Requirement in Cases of Levirate Marriage",
@@ -128,7 +138,9 @@
           "display_title": "Yiud Mechanism",
           "timestamp": "28:26"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Yibum Case: Ketanah Marries Herself, Then Husband Dies; Brother Must Give Get or Chalitza",
@@ -150,7 +162,9 @@
           "display_title": "Chalitza Alone",
           "timestamp": "37:42"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Ravina's Critique: Presumption of Father's Subsequent Acceptance Has No Force",
@@ -172,7 +186,9 @@
           "display_title": "Ravina Rejects",
           "timestamp": "47:22"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Degrading Manner Exception: When Respect Is Absent, Father's Later Acceptance Cannot Be Presumed",
@@ -189,7 +205,9 @@
           "display_title": "Bizayon Definition",
           "timestamp": "49:02"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "Party Announcement Cases: Father's Public Commitment Precludes Reversal Concern",
@@ -211,7 +229,9 @@
           "display_title": "Rava Expense",
           "timestamp": "51:58"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "Final Ruling Positions: Pesak Against Rav and Shmuel; Father's Absence as Alternative Framework",
@@ -233,7 +253,9 @@
           "display_title": "Remote Marriage",
           "timestamp": "55:00"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -447,5 +469,6 @@
         "54:49"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 6
 }

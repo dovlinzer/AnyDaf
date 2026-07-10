@@ -18,7 +18,9 @@
           "display_title": "Gender to Geography",
           "timestamp": "00:09"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Mishnah: Mitzvot Dependent on the Land of Israel",
@@ -40,7 +42,9 @@
           "display_title": "R. Eliezer on Chadash",
           "timestamp": "03:29"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "Gemara: Understanding 'Dependent on the Land' (Teluyah Ba'aretz)",
@@ -62,7 +66,9 @@
           "display_title": "Rashi's Answer",
           "timestamp": "06:20"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Rav Yehuda's Resolution: Chovat Haguf vs. Chovat Karka",
@@ -84,7 +90,9 @@
           "display_title": "Avodah Zarah Paradigm",
           "timestamp": "14:00"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "The Chadash Debate: Rabbi Eliezer vs. Tanna Kamma",
@@ -101,7 +109,9 @@
           "display_title": "R. Eliezer Position",
           "timestamp": "25:52"
         }
-      ]
+      ],
+      "sefaria_index": 6,
+      "matched": true
     },
     {
       "title": "The Chadash Debate: Rabbi Eliezer vs. Tanna Kamma (continued)",
@@ -113,7 +123,9 @@
           "display_title": "Nesachim & Central Altar",
           "timestamp": "26:29"
         }
-      ]
+      ],
+      "sefaria_index": 14,
+      "matched": true
     },
     {
       "title": "Rabbi Yishmael vs. Rabbi Akiva: The Meaning of Moshavoteichem",
@@ -135,7 +147,9 @@
           "display_title": "Response on Shabbat",
           "timestamp": "29:36"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Practical Halakha on Chadash: The Rishonim's Handling of a Forbidden Grain in Diaspora",
@@ -162,7 +176,9 @@
           "display_title": "Modern Context",
           "timestamp": "39:31"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": false
     },
     {
       "title": "The Orlah Problem: How We Drink Wine from Grafted Vines Outside Eretz Yisrael",
@@ -189,7 +205,9 @@
           "display_title": "Signs of Attachment",
           "timestamp": "44:45"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Nesachim Debate: The Underlying Dispute Between Rabbi Yishmael and Rabbi Akiva",
@@ -216,7 +234,9 @@
           "display_title": "Akiva's Consequence",
           "timestamp": "51:55"
         }
-      ]
+      ],
+      "sefaria_index": 18,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -406,5 +426,6 @@
         "45:46"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 16
 }

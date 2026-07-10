@@ -23,7 +23,9 @@
           "display_title": "Abaye: All or Nothing",
           "timestamp": "00:41"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Rabbi Shimon's Doctrine of Splitting the Words (Palginan Dibura) and Its Application",
@@ -50,7 +52,9 @@
           "display_title": "Tosafot's Explanation",
           "timestamp": "02:40"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": true
     },
     {
       "title": "The Ruling Against Palginan Dibura: Following Rabbi Meir, Not Rabbi Shimon",
@@ -72,7 +76,9 @@
           "display_title": "Despite Praise",
           "timestamp": "05:48"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "The Case of Shachiv Mera (Deathbed Gift) as Evidence for Palginan Dibura",
@@ -94,7 +100,9 @@
           "display_title": "Tosafot on Institution",
           "timestamp": "07:42"
         }
-      ]
+      ],
+      "sefaria_index": 2,
+      "matched": true
     },
     {
       "title": "Distinguishing Palginan Dibura from Qualified Language: The Lav Krisus Principle",
@@ -116,7 +124,9 @@
           "display_title": "Complete Severance",
           "timestamp": "09:26"
         }
-      ]
+      ],
+      "sefaria_index": 4,
+      "matched": true
     },
     {
       "title": "Validation of Signatures When a Get Is Challenged (Irur)",
@@ -138,7 +148,9 @@
           "display_title": "Husband's Challenge",
           "timestamp": "12:34"
         }
-      ]
+      ],
+      "sefaria_index": 5,
+      "matched": true
     },
     {
       "title": "Bringing a Get from Overseas and Saying Befanai Nichtav U'Vefanai Nechtam",
@@ -150,7 +162,9 @@
           "display_title": "Unable to Say",
           "timestamp": "13:20"
         }
-      ]
+      ],
+      "sefaria_index": 7,
+      "matched": true
     },
     {
       "title": "The Parallel Between Git (Divorce) and Shichrurei Avadim (Manumission): Three Points of Similarity",
@@ -162,7 +176,9 @@
           "display_title": "Agunah & Iguan",
           "timestamp": "15:13"
         }
-      ]
+      ],
+      "sefaria_index": 8,
+      "matched": true
     },
     {
       "title": "Bringing a Get from Overseas and Saying Befanai Nichtav U'Vefanai Nechtam (continued)",
@@ -179,7 +195,9 @@
           "display_title": "Given While Able",
           "timestamp": "17:37"
         }
-      ]
+      ],
+      "sefaria_index": 9,
+      "matched": true
     },
     {
       "title": "The Parallel Between Git (Divorce) and Shichrurei Avadim (Manumission): Three Points of Similarity (continued)",
@@ -206,7 +224,9 @@
           "display_title": "Dina D'Malchuta",
           "timestamp": "21:22"
         }
-      ]
+      ],
+      "sefaria_index": 11,
+      "matched": true
     },
     {
       "title": "Rabbi Meir's Fourth Similarity: Retraction of a Get vs. Retraction of a Writ of Manumission",
@@ -233,7 +253,9 @@
           "display_title": "R. Meir Dissents",
           "timestamp": "25:27"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -430,5 +452,6 @@
         "21:22"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 12
 }

@@ -28,7 +28,9 @@
           "display_title": "Chizkiyahu Burial",
           "timestamp": "02:05"
         }
-      ]
+      ],
+      "sefaria_index": 0,
+      "matched": false
     },
     {
       "title": "Aggadic Digression on Sefer Torah, Learning, Teaching, and Acts of Righteousness",
@@ -90,7 +92,9 @@
           "display_title": "Torah & Chasadim",
           "timestamp": "24:56"
         }
-      ]
+      ],
+      "sefaria_index": 1,
+      "matched": true
     },
     {
       "title": "Introduction to the Second Perek: Regel (Foot Damage) and the Definition of Muad",
@@ -117,7 +121,9 @@
           "display_title": "Behema & Chickens",
           "timestamp": "30:19"
         }
-      ]
+      ],
+      "sefaria_index": 12,
+      "matched": true
     },
     {
       "title": "Gemara Discussion of Regel and Behema Redundancy; Introduction of Av and Toladah",
@@ -149,7 +155,9 @@
           "display_title": "Literary Structure",
           "timestamp": "36:24"
         }
-      ]
+      ],
+      "sefaria_index": 15,
+      "matched": true
     },
     {
       "title": "Braita Enumerating Cases of Direct Body Damage (Gufo) versus Indirect Damage (Tzrorot)",
@@ -176,7 +184,9 @@
           "display_title": "Tzrorot Payment",
           "timestamp": "48:12"
         }
-      ]
+      ],
+      "sefaria_index": 21,
+      "matched": true
     },
     {
       "title": "Cases of Regel Damage via Animals in Motion: Wings, Jumping, Pecking, and Wind",
@@ -198,7 +208,9 @@
           "display_title": "Wind Damage",
           "timestamp": "48:50"
         }
-      ]
+      ],
+      "sefaria_index": 24,
+      "matched": true
     },
     {
       "title": "Rava's Explanation of Kocho vs. Gufo Using the Analogy of Zav and Tumah",
@@ -230,7 +242,9 @@
           "display_title": "Bucket Rope",
           "timestamp": "54:25"
         }
-      ]
+      ],
+      "sefaria_index": 26,
+      "matched": true
     },
     {
       "title": "Conclusion: Rava's Unresolved Question on Similar Cases",
@@ -242,7 +256,9 @@
           "display_title": "Pending Question",
           "timestamp": "55:49"
         }
-      ]
+      ],
+      "sefaria_index": 32,
+      "matched": true
     }
   ],
   "topical_tags": [
@@ -650,5 +666,6 @@
         "28:47"
       ]
     }
-  ]
+  ],
+  "amud_b_sefaria_index": 15
 }
