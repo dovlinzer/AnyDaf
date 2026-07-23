@@ -1,0 +1,552 @@
+Below is a written essay based on a shiur on Hullin 130, followed by the Sefaria text for that daf (and, where available, the end of the preceding daf and the beginning of the following daf as supplementary context).
+
+Your task is to insert the Sefaria source text after the relevant essay headings, then strip all HTML comments from the prose. Work through the four steps below internally, as your own private reasoning process — they are not a template for your response.
+
+Your response must contain NOTHING but the final document: it starts directly with the essay's own first heading line (e.g. "# Avodah Zarah 2 — Daf Yomi Shiur") and contains only headings, blockquotes, and essay prose. Do not include the words "STEP 1", "STEP 2", "STEP 3", "STEP 4", or any other step label. Do not include any analysis, alignment notes, section-by-section commentary, or explanation of your reasoning — none of that belongs in the response. If you catch yourself writing a sentence that describes what you are about to do rather than being part of the essay itself, delete it.
+
+─── STEP 1: ALIGNMENT ───────────────────────────────────────────────────────────
+
+For each section of the essay (## or ### heading), locate anchors in the section body in this priority order:
+  (a) HTML comments of the form <!-- Hebrew/Aramaic phrase --> — these are the primary anchors, placed where the lecturer originally quoted Talmudic text. Use the phrase inside the comment to locate the corresponding position in the Sefaria text.
+  (b) If no HTML comment is present, look for any inline Hebrew or Aramaic text as a fallback anchor.
+
+Key alignment rules:
+- Check the PRECEDING DAF context first for the opening section(s). It is common for a shiur to begin a few lines before the new daf; if the anchor for the first section matches text in the preceding-daf block, use that text.
+- Likewise, check the FOLLOWING DAF context for the closing section(s) if the shiur appears to run past the end of the current daf.
+- The sections cover the text sequentially: where one section's source ends, the next section's source begins immediately after it. Do not skip backwards.
+- If a section contains no anchor (pure analysis of a previously cited passage), it continues from where the previous section left off.
+- If a section discusses a passage that appears in none of the three Sefaria blocks provided, leave that section without a blockquote.
+- Commentary sections (e.g. Tosafot, Rashi, other Rishonim) very often analyze a passage that an EARLIER section already quoted — most commonly the Mishnah. That is normal and does not mean the section needs, or should be given, a blockquote of its own. Never assign such a section text whose real anchor belongs to a LATER section just to avoid leaving it without a blockquote — a commentary section discussing already-quoted material correctly has no blockquote at all (see the "no new Sefaria text" rule below). A section earns a blockquote only when ITS OWN body contains an anchor for NEW Sefaria text, or when genuinely-pending text (see below) belongs to it.
+
+─── STEP 2: INSERTION ───────────────────────────────────────────────────────────
+
+For each section where you found an anchor, insert the complete Sefaria passage immediately AFTER that section's heading line (## or ###), before the prose body, as a markdown blockquote.
+
+What to insert:
+- Insert the COMPLETE unit containing the anchor — the entire Mishnah (from מַתְנִי׳ / MISHNA to its end), the entire Baraita (from תָּנוּ רַבָּנַן / תַּנְיָא to its final word), or the complete Gemara sugya being read (from גְּמָ׳ / GEMARA or from the opening statement of the passage). Never truncate mid-sentence or mid-unit.
+- Do NOT insert only the specific phrase the lecturer quoted. Insert the full surrounding unit as it appears in the Sefaria text.
+- NO GAPS: after identifying where the lecture starts and ends in the Sefaria text, walk through that stretch continuously. Every segment of Sefaria text between your starting point and ending point must appear in exactly one blockquote — including short transitional or follow-up lines such as הָוֵי בַּהּ / אִיבַּעְיָא לְהוּ / אָמַר רַב X. These lines are new Talmudic statements and must be inserted even when they function as a question or reaction to the immediately preceding passage. Before moving from one essay section to the next, verify that every Sefaria segment between the end of the previous blockquote and the start of the next anchor has been placed in a blockquote. If any such segment has not yet been inserted, include it in the current section's blockquote before proceeding.
+- Only use text that appears verbatim in the Sefaria text provided. Never fabricate, paraphrase, or approximate source text.
+
+Section labels: retain מַתְנִי׳ / MISHNA and גְּמָ׳ / GEMARA (and any equivalent labels such as מתנ״ or גמ׳) exactly as they appear at the start of a unit in the Sefaria text. Do not strip or abbreviate them.
+
+Splitting a Sefaria segment across two essay sections:
+The Sefaria text groups multiple sentences into a single numbered segment. When such a segment spans the boundary between two essay sections — i.e. the first essay section quotes or discusses only the opening sentences, and the next section discusses the remainder — split the segment at the natural sentence boundary. Insert the first part as the blockquote for the first section and the second part as the blockquote for the following section. Do not force the entire segment into whichever section happens to contain the later anchor.
+
+Sections with no new Sefaria text — STRICT RULE:
+If an essay section contains no anchor that can be located in the Sefaria text AND there are no Sefaria segments remaining between the end of the previous blockquote and the anchor of the next anchored section, leave the section with NO blockquote and NO placeholder of any kind — go directly from the heading line to the essay prose. Do NOT insert *[Continued from above]* or any similar placeholder. If condition (2) fails — meaning there ARE Sefaria segments that come after your last insertion point and before the next real anchor — those segments must be inserted here as a blockquote.
+
+CRITICAL CAVEAT before backfilling pending segments into an anchor-less section: first check whether the essay's NEXT section (the one that actually has an anchor) has its own HTML comment early in its body whose matched Sefaria position is AT or NEAR the start of that "pending" stretch. If so, that pending text is what the next section is quoting — it belongs there, not here. In that case leave the CURRENT (anchor-less) section with no blockquote, and let the next section's blockquote begin from the pending text's actual start. Only backfill pending text into the current section when the following section's own anchor clearly starts LATER than the pending stretch — i.e. when that text genuinely belongs to no other section and would otherwise be silently dropped.
+
+CORRECT format for a section with no new Sefaria text and no pending segments:
+  ### Section Title
+  [full essay prose for this section — never omitted]
+
+CORRECT format for an anchor-less section where pending Sefaria segments exist between the last insertion and the next anchor:
+  ### Section Title
+  > **Hebrew/Aramaic:** [pending Sefaria segments, copied verbatim]
+  >
+  > **Translation:** [corresponding translation]
+  [full essay prose for this section — never omitted]
+
+CRITICAL — DO NOT ALTER ESSAY PROSE: Every sentence from the input essay must appear in your output verbatim, with two exceptions only: (1) blockquotes are inserted after headings, and (2) HTML comments (<!-- ... -->) are removed in Step 3. No sentence, clause, or word of prose may be deleted, shortened, reworded, or moved. If you find yourself omitting a paragraph or condensing multiple sentences into one, stop — that is an error. The essay prose is fixed input; your only job is to add blockquotes and strip comments.
+
+CRITICAL — NEVER DROP OR MERGE A HEADING: every ## and ### heading line in the input essay must appear, verbatim and exactly once, in your output — in the same order, with nothing merged together. This applies EVEN WHEN a section gets no blockquote of its own (a section with no new Sefaria text still keeps its own heading line, immediately followed by its own prose — see the "no new Sefaria text" format above). A common trap: sometimes several consecutive ## / ### sections all discuss the SAME single, indivisible Sefaria segment (the lecturer moved through it slowly across several micro-topics, but Sefaria itself has no smaller unit to split it into). In that case, insert the blockquote ONCE, under the FIRST such section — but the following sections still each keep their own heading line with no blockquote beneath it, exactly as if they were ordinary anchor-less commentary sections. Do NOT respond to "this text was already quoted above" by deleting the later headings and silently concatenating their prose into the first section — that discards real document structure and is a serious error, not a minor formatting choice.
+
+FORMAT for each inserted blockquote:
+  > **Hebrew/Aramaic:** [full passage, copied exactly from the Sefaria text, including any מַתְנִי׳ / גְּמָ׳ label at the start]
+  >
+  > **Translation:** [English translation from the Sefaria text, including any MISHNA / GEMARA label at the start]
+
+CRITICAL — PRESERVE THE SEFARIA TRANSLATION'S EXISTING **BOLD** MARKUP EXACTLY: the Sefaria translation text you are copying already contains its own **bold** markdown — bold marks the literal Talmudic source words, plain text marks Rashi/ commentary interpolations that Sefaria adds for readability. This bold/plain distinction already exists character-for-character in the Sefaria text provided to you; your job is to copy it through unchanged, exactly like copying any other part of the passage verbatim. Do NOT decide for yourself which words look like Talmudic text and re-derive the bolding, and do NOT drop the ** markers while transcribing. Copy every ** pair from the source Sefaria segment into your blockquote in the same position relative to the surrounding words. A translation blockquote with zero **bold** spans in it is a strong signal that you dropped this formatting — check the corresponding Sefaria segment above and restore it before finishing.
+
+─── STEP 3: COMMENT REMOVAL ─────────────────────────────────────────────────────
+
+After completing all blockquote insertions, scan the entire output and remove every HTML comment (<!-- ... -->) from the prose. The final document must contain no HTML comments anywhere. Every word of prose (excluding the removed comments) must appear in the output unchanged.
+
+─── STEP 4: VERIFICATION ────────────────────────────────────────────────────────
+
+Before finishing, compare the ## and ### heading lines in the ESSAY input below against the heading lines in the document you are about to output. Every heading in the input must appear in the output, EXACTLY as it is spelled in the input, in the same order, with nothing added and nothing removed.
+
+If a heading from the input is missing from your output: you merged it away by accident while copying prose. Find that exact point and re-insert that EXACT heading line, copied character-for-character from the ESSAY input — never a paraphrase, summary, or title of your own composition. Do not add a blockquote beneath a restored heading unless it has a genuine anchor of its own.
+
+Do NOT invent, add, or split out any heading that does not appear verbatim in the ESSAY input, for any reason — not to organize long content, not to give a name to a sub-topic you notice, not to "improve" the structure. The set of headings in your output must be exactly the set of headings in the input: same count, same text, same order. Nothing more, nothing less.
+
+REMINDER — OUTPUT FORMAT: your response is the final document ONLY. Begin your response with the essay's own first heading line. Do not begin your response with "STEP 1", a summary of your alignment analysis, or any other preamble.
+
+ESSAY:
+
+# Hullin 130 — Daf Yomi Shiur
+
+## Gifts to Kohanim
+
+### Priestly gifts intro
+
+Today's *daf* is 130, the beginning of a new *perek*. The *perek* we just finished was, without question, the most challenging in *Chullin* — anatomical difficulties aside. We now turn to the last three chapters, which continue to address matters relating to animals but shift focus to the gifts derived from them: beginning with the shearing of sheep and the portions taken at *shechita* of cattle and sheep, and concluding with the commandment of sending away the mother bird. It is a welcome change of pace.
+
+This *perek* opens with <!-- hazroa vehalechayayim veakeiva --> the arm, the jaw, and the stomach. The *Torah* commands that when a person slaughters a cow or a sheep, he gives the arm, the jaw, and one of the stomachs to the *kohanim*. The relevant *pesukim* are in *Devarim* 18. The *Torah* first notes that the *kohanim* have no tribal portion and that they eat the fire-offerings of God: <!-- lo yihyeh lakohanim halevi'im kol shevet levi chelek venachala im yisrael ishei Hashem venachalato yocheilun --> they have no inheritance; they live from the *korbanot*. But the *kohanim* were only present in the *Beit Hamikdash* roughly two weeks out of the year. What sustained them the rest of the time?
+
+### Three gifts explained
+
+The very next *pasuk* answers directly: <!-- vezeh yihyeh mishpat hakohanim me'eit ha'am me'eit zovechei hazevach im shor im seh venatan lakohen hazroa vehalechayayim vehakeiva --> this shall be the law of the *kohanim* from the people, from those who slaughter an ox or a sheep: one gives the *kohen* the arm, the cheeks, and the maw. The *pasuk* continues: <!-- reishit degancha tiroshcha veyitzharecha vereishit geiz tzoncha titein lo --> the first of the grain, the wine, the oil, and the first of the shearing of the flock shall be given to him.
+
+There is a famous *Midrash* connecting these specific portions to *Pinchas*: he used his *zeroa* — his arm — to thrust the spear, and the spear passed through the stomach, *el hakuba* — *hakeiva*. Since *Pinchas* was a *kohen*, the *Midrash* sees these gifts as symbolically linked to his zealotry on God's behalf.
+
+### Kohanim sustenance
+
+The placement of these *pesukim* is deliberate. The *Torah* juxtaposes the gifts of the arm, jaw, and stomach, the *terumah* of grain, wine, and oil, and the first of the shearing, precisely because it is explaining how the *kohanim* sustain themselves. Grain is covered by *terumah*; clothing by *reishit hagez*; and meat by *hazroa vehalechayayim veakeiva*. The *kohanim* serve in a role of *avodat hakodesh* and are understood to function not only within the *Beit Hamikdash* but as teachers and religious leaders for the broader community — *yoru mishpatecha l'Yaakov*. The *Torah* accordingly provides for the full range of their material needs.
+
+It bears noting that these gifts are not *kadosh* in the manner of *terumah*; they can be used and sold. The obligation to give them, however, applies in all times and in all places, as the *Mishnah* makes clear.
+
+---
+
+## Non-sanctified vs sacrif…
+
+### Application scope
+
+The *Mishnah* states: <!-- noheg ba'aretz uvachutz la'aretz --> this obligation applies both within the Land of Israel and outside it — <!-- bifnei habayit veshelo bifnei habayit --> whether the Temple stands or not. The gifts of *hazroa vehalechayayim veakeiva* are thus a perpetual obligation, independent of the *Beit Hamikdash*.
+
+### Exclusion from korbanot
+
+The *Mishnah* continues: <!-- bechullin aval lo bemukdashin --> in non-sanctified animals but not in *korbanot*. When one brings an animal as a sacrifice, he does not separately give these portions as gifts to the *kohanim*.
+
+### Kal vachomer setup
+
+The *Mishnah* itself raises the question of why the gifts do not apply to *korbanot*. The argument that might have led us to think they should runs as follows: by *chullin*, ordinary non-sanctified animals, one does not give the *chazeh* and the *shok* — the breast and the thigh — as one does by a *shelamim*, and yet one does give *hazroa vehalechayayim veakeiva*. By *kodshim*, where one already gives the breast and thigh, one might reason *kal vachomer* — how much more so should these additional gifts apply. If a lesser obligation includes the gifts, surely a greater obligation should include them as well.
+
+### Verse excludes korbanot
+
+Against this *kal vachomer*, the *Torah* provides an explicit exclusion. The verse concerning the *shelamim* states: <!-- ve'asain osam l'Aharon hakohen ulvanav l'chok olam --> I give these to Aaron and his sons as an eternal statute. The word *osam* — "them" — limits the priestly entitlement from *korbanot* to the *chazeh* and *shok* alone. The gifts of *hazroa vehalechayayim veakeiva* are not given from a *korban*; <!-- ein lo ela mah shene'emar binyan --> one receives from the *korban* only what the verse explicitly designates.
+
+---
+
+## Blemish before sanctity
+
+### Permanent blemish ruling
+
+The *Mishnah* now turns to a question that, while only tangentially related to *hazroa vehalechayayim veakeiva*, is highly relevant to the larger category of when an animal is considered to have had the status of a *korban*. This passage, in fact, appears verbatim in *Bechoros* as well, because it defines the precise conditions under which an animal enters the *korban* category — which in turn determines whether it is excluded from *bechorah* and from the priestly gifts alike.
+
+The principle: <!-- kol hakodashim shekadam mum kavua lehekdesham --> if a permanent blemish preceded the sanctification of the animal. A *mum kavua* is a blemish that will not heal. If such a blemish already existed at the moment of sanctification, the animal could never have been designated as a *korban* in the first place, since it was already unfit. Consequently, whatever sanctity the animal received cannot be *kedushat haguf* — the sanctity of an object that is itself to be used as a sacrifice. Instead, it receives only *kedushat bedek habayit* — the sanctity of an object donated to the Temple treasury for its monetary value. The *Beit Hamikdash* owns its worth, not its identity.
+
+The distinction is significant. *Kedushat bedek habayit* is, in essence, *kedushat damim* — the treasury cares only about the object's monetary value, not about what it is intrinsically. Just as one might donate a car to the *Beit Hamikdash* and the treasury simply assesses and sells it, so too this blemished animal: its identity as a cow or a sheep was never sanctified. It was merely property owned by the Temple for the sake of its price.
+
+### Treasury property effects
+
+Since this animal never possessed the sanctity of a *korban*, the *Mishnah* rules: <!-- venifdu chayavim bivichorah uvematanot --> once redeemed, it is subject to the laws of *bechorah* and the priestly gifts. <!-- Veyotzim lechulin lehiggazez ulehe'aved --> after redemption, it fully returns to the status of *chullin*; it may be shorn and worked.
+
+This last point requires explanation. The *Torah* prohibits working or shearing an animal that was once a *korban* and was subsequently redeemed after acquiring a blemish. The principle is that even after redemption, the animal retains a residual *kedushah* of a former *korban*, and therefore may only be slaughtered and eaten — it cannot be put to secular use. But that residual sanctity applies only when the animal once genuinely had *kedushat korban*. Here, where the animal's sanctity was always only *kedushat bedek habayit*, redemption severs the relationship completely. There is no residual sanctity, because there was never *kedushat haguf* to begin with. The transaction is simply: the Temple owned it; now it does not. Accordingly, <!-- vladan vechalban mutar --> its offspring and milk are permitted after redemption — and <!-- lachtar pidyonam --> once redeemed.
+
+Furthermore: <!-- vehashochtan bachutz patur --> if one slaughters such an animal outside the *Beit Hamikdash*, one does not transgress the prohibition of offering a *korban* outside the Temple. That prohibition applies specifically to animals that possess *kedushat korban*. This animal may have been owned by the *Beit Hamikdash*, but it was never a *korban*, so no transgression is incurred — just as slaughtering an animal that was donated to the Temple treasury but was never a sacrifice does not constitute *shechita* of a *korban* outside the *Beit Hamikdash*.
+
+<!-- Ve'ein osin temurah --> the laws of *temura* do not apply. The *Torah* states that if one attempts to substitute a sanctified *korban* with another animal, both become *kadosh*: *vehaya hu utmurato yihye kodesh*. This principle of *temura* applies only to animals that possess genuine *kedushat korban*. An animal that was always only in the category of *bedek habayit* cannot generate *temura*.
+
+<!-- Ve'im mesu yifdu --> if such an animal dies, it may still be redeemed. By contrast, an animal that possessed genuine *kedushat korban* may not be redeemed after death. Two reasons underlie this: first, the principle of *ein podin et hakodashim l'hachilam l'klavim* — one does not redeem *korbanot* merely to use them as dog food. If the animal is dead, redemption would serve no licit purpose. Second, the *Torah*'s language for redeeming a blemished *korban* — *vehe'emido lifnei Hashem vehe'ericho lifnei hakohen* — requires that the animal stand and be assessed. Both <!-- ha'amadah v'ha'arachah --> standing and valuation — are prerequisites that cannot be fulfilled by a dead animal. Neither consideration applies to an animal whose sanctity was only *bedek habayit*, and thus it may be redeemed even after death, if only to recover whatever monetary value remains.
+
+### Bechor & maaser exception
+
+The *Mishnah* records one exception to the rule that a pre-existing *mum kavua* prevents an animal from acquiring *kedushat korban*: <!-- chutz min habechor umin hamaser --> except for the firstborn and the tithe animal.
+
+Consider an animal born with a congenital blemish. Generally, if the blemish precedes the sanctification, the animal never achieves *kedushat korban*. Yet if this animal is a *bechor* — a firstborn male — the rule is different. The sanctity of *bechor* is not something actively conferred by a person through speech; it arises automatically and intrinsically from the act of birth. Because *kedushah* is imposed upon the animal by the *Torah* itself by virtue of being born firstborn, that identity as a *korban bechor* attaches regardless of any pre-existing blemish. The animal cannot be brought to the *mizbe'ach* because of its *mum*, but it nonetheless possesses the full *kedushah* of a *korban bechor*.
+
+Similarly with *ma'aser behemah*: one gathers all newly born animals of the year, drives them into a pen, and counts them — *ha'asiri yihyeh kodesh*, the tenth is holy. If the tenth animal to emerge happens to have a blemish, it does not receive merely *kedushat bedek habayit*. Its sanctity as *ma'aser* is conferred automatically by the counting process, not by an act of verbal dedication on the owner's part. The *pesukim* teach that *ha'asiri yihyeh kodesh* regardless of a blemish. Accordingly, both *bechor* and *ma'aser behemah* acquire full *kedushat korban* even when the blemish preceded what would otherwise be considered their sanctification.
+
+---
+
+## Sanctity before blemish
+
+### Sanctified then blemished
+
+The *Mishnah* now presents the contrasting case: <!-- kol shekadam hekdeshan es mumam --> where the sanctification preceded the blemish — or <!-- mum over kodem hekdeshan --> where a *mum over*, a transient blemish, preceded sanctification. A transient blemish does not define the animal's identity, since it will heal; it does not bar the animal from *kedushat korban*, and it does not prevent the sanctity from taking hold. If the animal was then sanctified and only later developed a permanent blemish — <!-- ve'achar kach nolad lahem mum kavua --> the permanent blemish occurred after the animal already possessed the full sanctity of a *korban*. As a result, all of the rules of *kedushat korban* apply.
+
+### Post-redemption restrict…
+
+For such an animal, once it acquires its permanent blemish and is redeemed, the following consequences obtain: <!-- peturim min habechorahumin hamatnot --> it is exempt from the laws of *bechorah*, and one does not give *zeroa lechayayim vekeivah* from it after *shechita*. <!-- Ve'einam yotzim lechulin lehiggazez ulehe'aved --> it does not fully return to *chullin*; it may not be shorn and may not be worked. <!-- Uveladan vechalban assur le'achar pidyonam --> even after redemption, its offspring and milk are forbidden for benefit.
+
+Furthermore: <!-- vehashochtan bachutz chayav --> one who slaughters such an animal outside the *Beit Hamikdash* incurs liability, because the animal possesses *kedushat korban*. One might ask: if it has a permanent blemish, it cannot be brought as a *korban* in any event — how can one be liable for slaughtering it outside? The *Gemara* addresses this by confining the ruling to a specific type of blemish, such as a cataract of the eye, which is technically a *mum* sufficient to permit redemption and preclude normal offering, but which, if the animal were actually placed upon the *mizbe'ach*, would not be removed *bedi'eved*. Such a blemish allows the animal to be redeemed and bars it from ideal offering, but since *bedi'eved* it would be accepted, one is still liable for slaughtering it outside. <!-- Ve'osim temurah --> the laws of *temura* apply, since the animal possesses genuine *kedushat korban*. <!-- Ve'im mesu yikkaveru --> if such an animal dies before redemption, it must be buried; it cannot be redeemed, because of the requirements of *ha'amadah v'ha'arachah* and the prohibition of redeeming *korbanot* for use as dog food.
+
+### Why restrictions apply
+
+The underlying principle is that when an animal's identity was defined by *kedushat korban* — when the *kedushah* came first — that identity does not fully dissolve upon redemption. Even after the formal *kedushah* has been removed through *pidyon*, the animal retains a residual dimension of its former sanctity. The practical expression of this residual *kedushah* is that one may do nothing with the animal except slaughter it and eat it: one may not shear it, may not work it, may not benefit from its milk or its offspring. All the exclusions flow from this.
+
+Contrast this with the first case: if the blemish preceded sanctification, the animal's identity was never defined by *kedushat korban* at all. The *Beit Hamikdash* owned it as property; redemption simply transfers that ownership back. No residual sanctity remains, because there was no *kedushat haguf* to leave a trace.
+
+---
+
+## 'Ze' and ownership
+
+### Rav Chisda ruling
+
+With the *Mishnah*'s framework now established, the *Gemara* turns to a remarkable ruling of Rav Chisda. The *Gemara* has already noted that when the *Torah* introduces the gifts of *hazroa vehalechayayim veakeiva*, it uses the word *ze* — *vezeh yihyeh mishpat hakohanim* — "this is the law of the *kohanim*." After establishing that this word *ze* excluded the *chazeh veshok* from non-*korban* animals (since the *chazeh veshok* is a *korban* ritual that cannot be replicated outside the *Beit Hamikdash* and cannot be performed inside with *chullin*), the *Gemara* asks: what further teaching does *ze* come to convey?
+
+The answer is: <!-- lichdirav Chisda --> it comes to support Rav Chisda's ruling. <!-- Amar Rav Chisda: hamazik matnot kehuna o she'achalan patur milishalem --> one who damages gifts owed to a *kohen*, or who eats them, is exempt from payment. This applies to *hazroa vehalechayayim veakeiva*, to *reishit hagez*, and to analogous priestly gifts.
+
+This is a striking ruling. One might assume that since the gifts are owed to the *kohanim* by *Torah* law, destroying them would obligate compensation. Rav Chisda says otherwise. The *Gemara* presents two possible rationales, each reflecting a fundamentally different understanding of the ownership of these gifts before they are handed over.
+
+### Two explanations
+
+<!-- I ba'it eima mishum dehavei lei mamon she'ein lo tovin --> one may explain that the gifts, once separated, belong collectively to the *kohanim* as a class, but since there is no specific individual *kohen* who has a claim, no one can bring the damager to court. This is the principle of *mamon she'ein lo tovin* — property with no particular claimant. The damager has in fact injured the *kohanim*'s collective property, but since the injury cannot be attributed to any identifiable individual, there is no mechanism for legal recovery.
+
+<!-- Ve'i ba'it eima midikativ ze --> alternatively, the word *ze* teaches that the obligation to give the gifts exists only when they are physically present. If the gift has been destroyed, the obligation simply does not apply — not because the *kohanim* owned it and cannot collect, but because the *kohanim* never owned it to begin with. On this reading, the gift remains in the owner's possession until actually transferred. The owner has a *mitzvah* to give it; if he destroys it, he has subverted that *mitzvah*, but he has not damaged anyone else's property. He damaged his own.
+
+These are two very different conceptual frameworks. The *mamon she'ein lo tovin* explanation acknowledges that the property already belongs to the *kohanim* as a collective; the obstacle is procedural. The *ze* explanation holds that the property never transferred — it belongs to the giver until the moment of actual delivery.
+
+### 'Ze' means present
+
+The word *ze* thus functions as a limiting principle: the obligation attaches only to that which is physically present, *ze* — this thing before you. If it is not here, there is no obligation to give, and consequently no liability for its destruction. The verb form of giving applies only to something that can actually be given.
+
+---
+
+## Verse & courts
+
+### Court enforcement query
+
+The *Gemara* now examines a *baraita* that appears to challenge Rav Chisda's ruling. The *baraita* states: <!-- vezeh yihyeh mishpat hakohanim — melamed shehamatnot din --> "this is the law of the *kohanim*" teaches that the gifts have the status of *din*, meaning they are subject to the law of the courts. At first reading, this sounds as though the courts can compel payment or adjudicate claims relating to these gifts — which would seem to contradict Rav Chisda's ruling that one who damages them is exempt.
+
+The *Gemara* asks: <!-- lema'i hilchata? lav lehotzi'o bedayanim? --> For what practical purpose does the *baraita* say the gifts are a *din*? Is it not to say that one can collect compensation through the courts? Rashi notes that this might mean even the first *kohen* to file suit could collect. If so, the principle of *mamon she'ein lo tovin* would not apply here — even as a collective, the *kohanim* could bring a claim.
+
+### Worthy kohanim rule
+
+The *Gemara* rejects this reading. <!-- Lo, lechulkan bedayanim --> the *baraita* does not mean courts can collect compensation for damaged gifts. Rather, it means that courts oversee the proper distribution of gifts. The *Gemara* invokes the teaching of Rav Shmuel bar Nachmani: one does not give the gifts of the *kohanim* — whether *terumah*, *zeroa lechayayim vekeivah*, or any other priestly gift — to a *kohen* who is an *am ha'aretz*, one who is not careful in his religious observance.
+
+The source is a verse in *Divrei Hayamim*, cited in the context of the reign of Yehoshaphat. Yehoshaphat said to the people of Jerusalem: <!-- latet menat hakohanim vehaleviyim lema'an yechezku betorat Hashem --> give the gifts to the *kohanim* and *leviyim* so that they will be strengthened in the Torah of God. The *Gemara* derives: <!-- kol hamachzik beTorat Hashem yesh lo menat --> one who upholds God's Torah is entitled to receive; <!-- veshe'eino machzik beTorat Hashem ein lo menat --> one who does not is not.
+
+This is a *lekatchila* standard. Tosafot notes that *bedi'avad*, or where no other *kohen* is available, one may give to an *am ha'aretz kohen*. But when there is a choice, the obligation to give priestly gifts is bound up with the *kohen*'s role as representative and teacher of Torah. The *Beit Hamikdash* role and the communal religious-leadership role are intertwined; the gifts are meant to support the latter as much as the former. The court's oversight, then, is directed at ensuring that gifts flow to those *kohanim* who genuinely fulfill that role.
+
+### Baraita ruling
+
+The *Gemara* then examines a second *baraita* in which Rabbi Yehuda ben Beteira says: <!-- mishpat — melamed shematanot din --> the word *mishpat* teaches that the gifts are subject to court law. <!-- Yachol afilu chazeh veshok --> one might have thought this applies even to the *chazeh* and *shok* of a *korban*. <!-- Talmud lomar ze --> the verse says *ze*, "this," excluding the *chazeh veshok* and restricting the principle to the gifts of *zeroa lechayayim vekeivah*.
+
+The question then is: <!-- l'mai --> for what purpose? <!-- Ileima l'chulkan bedayanim --> if it means the courts oversee distribution to worthy *kohanim*, then why would the *chazeh veshok* be excluded? Presumably the same principle of giving only to deserving *kohanim* should apply to *korban* portions as well. The *Gemara* does not easily resolve this, and one might note that the *chazeh veshok* is in any case divided equally among the *kohanim* serving that week. Nevertheless, the *Gemara* here suggests another reading: the reference to courts is about the right to collect compensation — <!-- lo tzivu bedayanim --> and it is that right that is specific to the gifts of *zeroa lechayayim vekeivah*.
+
+### Possession requirement
+
+To harmonize this with Rav Chisda's ruling that one who damages these gifts is exempt, the *Gemara* clarifies: <!-- hacha bema'i askinan — de'asu liyadei --> the *baraita* is discussing a case where the gifts actually came into the *kohen*'s possession. <!-- Le'asu liyadei betivlaihu --> specifically, a case where a *kohen* came and physically seized the whole animal — before the gifts had been formally separated — and claimed the *zeroa lechayayim vekeivah*. One might have thought he is not entitled to it since it was not yet separated and he was not given it. The *baraita* teaches, based on the principle that <!-- matnot shelo hurmu kemi shehurmu damyan --> gifts not yet separated are treated as if already separated — that even in this case his possession is valid, and if someone subsequently damages those portions, the court can compel payment.
+
+Why does this not apply to the *chazeh veshok*? Because the *chazeh veshok* is distributed to the *kohanim* serving that week's rotation. A *kohen* who was not on duty that week and burst in to seize the *chazeh veshok* would have no entitlement, and his seizure would not grant him ownership. The distinction, then, is that these priestly gifts — unlike *korban* portions — can be acquired through physical seizure even before formal separation, and it is that mode of acquisition that creates court-enforceable ownership.
+
+Before the *kohen* takes possession, Rav Chisda's rule holds: one who damages the gifts is exempt, either because of *mamon she'ein lo tovin* or because of the *ze* principle. Once the *kohen* has validly taken possession, the ordinary laws of property damage apply.
+
+---
+
+## Poor gifts analogy
+
+### Traveler taking poor gif…
+
+The *Gemara* introduces a *baraita* from a related domain to test Rav Chisda's ruling. The *baraita* discusses a *ba'al habayit* — a person of means — who is traveling from place to place and finds himself with no funds or food. Being temporarily without resources, he is permitted to take *leket*, *shikcha*, *pe'ah*, and *ma'aser ani* — the agricultural gifts designated for the poor — even though he is not ordinarily eligible.
+
+Rabbi Eliezer says: <!-- notel hu vechesheyachzor yeshalem --> he takes them, and when he returns home, he repays. The implication is that there is some form of obligation to pay back on account of his having taken gifts he was not permanently entitled to.
+
+### Repayment dispute
+
+This seems to challenge Rav Chisda's ruling: if destroying or consuming gifts meant for the poor creates an obligation to repay, it would suggest that similar gifts — those of the *kohanim* — should also generate an obligation when consumed improperly. The *Gemara* raises this challenge and then considers how Rav Chisda might have responded.
+
+The initial suggestion is that Rav Chisda would say <!-- midat chasidut shanu kan --> what Rabbi Eliezer taught here is merely a matter of pious conduct, not a legal obligation. One is not compelled by the courts to repay; it is simply the right thing to do.
+
+### Poverty timing test
+
+Rava, however, objects to this framing. He argues: the word used is *yeshalem* — he shall pay — not a recommendation for piety. Rabbi Eliezer cannot be reduced to a counsel of *chasidut*. Moreover, Rava argues, the challenge to Rav Chisda should not have been drawn from Rabbi Eliezer's opinion at all — Rabbi Eliezer is a single *tanna* whose view is not authoritative.
+
+Rava reframes the entire discussion. The real challenge comes from the *seifa* of the *Mishnah*, from the ruling of the *Chachamim*: <!-- ani haya be'oto sha'ah --> he was poor at that moment. The *Chachamim* hold that the wealthy traveler, being temporarily without resources, was genuinely in a state of poverty at that time, and therefore was fully entitled to take the gifts. He owes nothing upon return.
+
+The implication of the *Chachamim*'s reasoning is important: *ta'ama de'ani*, the reason he need not repay is that he was legally poor at the time. But if he were not poor — <!-- ha'ashir meshalem --> if he had money available and simply helped himself to *leket shikcha pe'ah* and *ma'aser ani*, he would be obligated to repay. Why? <!-- lehavi kemazik matnot kehuna --> why should this be different from damaging gifts of the *kohanim*, where Rav Chisda says one need not pay?
+
+It is to this question that Rav Chisda applies <!-- midat chasidut shanu kan --> The *Chachamim*'s implication that the wealthy person who takes gifts of the poor must repay is not a court-enforceable obligation — after all, which *ani* will file suit? It is *mamon she'ein lo tovin*. But morally, since one took what was not rightfully his, it is more than *midat chasidut* — it is strongly the right thing to do to donate an equivalent amount to the poor.
+
+### Final conclusion
+
+The *Gemara* thus concludes with Rav Chisda's ruling intact. One who damages gifts of the *kohanim* — or priestly-analogous gifts such as those designated for the poor — before they are transferred is exempt from payment in court. Two explanations remain on the table, reflecting different understandings of ownership:
+
+The first is *mamon she'ein lo tovin*: the property already belongs to the collective of *kohanim* or the collective of *aniyim*, but since no individual can assert a claim, there is no legal mechanism for recovery. The damage is real; the remedy is absent.
+
+The second is the *ze* principle: the gift has not yet transferred. It remains the owner's property, and in destroying it he has deprived himself of the ability to fulfill his *mitzvah*, but he has not damaged anyone else's property. The obligation to give exists only when *ze* — this thing — is actually present.
+
+These two explanations are not merely technical alternatives. They reflect fundamentally different understandings of the moment at which ownership of priestly and other obligatory gifts transfers from the giver to the recipient — a question the *Gemara* leaves instructively open.
+
+---
+
+SEFARIA TEXT FOR HULLIN 129 (PRECEDING DAF — for context only):
+
+### Hullin 129b
+
+**1.**
+*Hebrew/Aramaic:* לַאֲחֵרִים – אֵין קָרוּי אוֹכֶל.
+*Translation:* **to others,** such as the limb and flesh from a living animal, which are forbidden even to gentiles, **is not called food.**
+
+**2.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי אַסִּי: דִּילְמָא טַעְמָא דְּרַבִּי שִׁמְעוֹן הָתָם, הוֹאִיל וּמְעוֹרֶה – מְעוֹרֶה.
+*Translation:* **Rabbi Zeira** questioned the explanation of Rabbi Yoḥanan and **said to Rabbi Asi:** If Rabbi Shimon is discussing the first clause in the mishna, claiming that a hanging limb or flesh is pure during the lifetime of the animal, the reason for his statement is not necessarily that food that is forbidden to all people is not considered food. **Perhaps the reason** for the opinion **of Rabbi Shimon there** is that **since** the flesh or limb is still **attached** to the animal, it is considered **attached.**
+
+**3.**
+*Hebrew/Aramaic:* דְּתַנְיָא: יִחוּר שֶׁל תְּאֵנָה שֶׁנִּפְשַׁח וּמְעוֹרֶה בַּקְּלִיפָּה – רַבִּי יְהוּדָה מְטַהֵר, וַחֲכָמִים אוֹמְרִים: אִם יָכוֹל לִחְיוֹת – טָהוֹר, וְאִם לָאו – טָמֵא. וְאָמְרִינַן לָךְ: מַאי טַעְמָא דְּרַבִּי יְהוּדָה? וְאָמְרַתְּ לַן: הוֹאִיל וּמְעוֹרֶה – מְעוֹרֶה.
+*Translation:* **As it is taught** in a mishna (*Okatzin* 3:8): With regard to **a branch of a fig** tree **that was detached** from the tree **and** remains **attached** only **to the bark** of the tree, **Rabbi Yehuda deems** the figs on the branch **not susceptible to impurity,** as they are considered attached to the tree. **And the Rabbis say: If** it is possible to reattach the branch to the tree and the branch **can** continue to **live** and produce fruit, then it is considered attached to the tree, and the fruit **is not susceptible to impurity. But if not,** the fruit is **susceptible to impurity. And we said to you,** Rabbi Asi: **What is the reason** for the opinion **of Rabbi Yehuda? And you said to us: Since** the branch is still **attached** to the bark of the tree, it is considered **attached.** Therefore, the same logic applies to the statement of Rabbi Shimon.
+
+**4.**
+*Hebrew/Aramaic:* אֲמַר לֵיהּ, אַמְּצִיעֲתָא: נִשְׁחֲטָה הַבְּהֵמָה, הוּכְשְׁרָה בְּדָמֶיהָ – דִּבְרֵי רַבִּי מֵאִיר; רַבִּי שִׁמְעוֹן אוֹמֵר: לֹא הוּכְשְׁרוּ.
+*Translation:* Rabbi Asi **said to** Rabbi Zeira: Rabbi Yoḥanan is explaining the reasoning for Rabbi Shimon’s opinion in **the middle clause** of the mishna, which teaches: If **the animal was slaughtered,** the limb and the flesh **were rendered** susceptible to impurity **with the blood of** the slaughtered animal; this is **the statement of Rabbi Meir. Rabbi Shimon says: They were not rendered** susceptible with the blood of the slaughtered animal.
+
+**5.**
+*Hebrew/Aramaic:* (אָמַר רַבִּי אַסִּי) אָמַר רַבִּי יוֹחָנָן: מַאי טַעְמָא דְּרַבִּי שִׁמְעוֹן? אָמַר קְרָא ״מִכׇּל הָאֹכֶל אֲשֶׁר יֵאָכֵל״ – אוֹכֶל שֶׁאַתָּה יָכוֹל לְהַאֲכִילוֹ לַאֲחֵרִים – קָרוּי אוֹכֶל, אוֹכֶל שֶׁאֵין אַתָּה יָכוֹל לְהַאֲכִילוֹ לַאֲחֵרִים – אֵין קָרוּי אוֹכֶל.
+*Translation:* **Rabbi Asi said** that **Rabbi Yoḥanan said: What is the reason** for the opinion **of Rabbi Shimon?** The reason is that **the verse states** with regard to impurity as food: **“From all food which may be eaten,** that on which water comes shall be impure” (Leviticus 11:34). The phrase “food which may be eaten” indicates that only **food that you can feed to others,** including gentiles, **is called food** in this regard, but **food that you cannot feed to others,** such as the limb and flesh from a living animal, **is not called food.**
+
+**6.**
+*Hebrew/Aramaic:* וְדִילְמָא טַעְמָא דְּרַבִּי שִׁמְעוֹן בְּהָהִיא
+*Translation:* Rabbi Zeira questioned this explanation of Rabbi Yoḥanan as well, and said to Rabbi Asi: If it is with regard to Rabbi Shimon’s opinion in the middle clause of the mishna, **perhaps the reason** for the opinion **of Rabbi Shimon in that** clause is not that food that is forbidden to all is not called food.
+
+**7.**
+*Hebrew/Aramaic:* אִי כִּדְרָבָא, אִי כִּדְרַבִּי יוֹחָנָן?
+*Translation:* Rather, it is **either in accordance with** the explanation **of Rava or in accordance with** the explanation **of Rabbi Yoḥanan** cited earlier (127b–128a). According to both explanations of Rabbi Shimon’s opinion, the mishna is discussing a case where only the body of the animal, but not the partially severed limb, came into contact with the blood of slaughter. According to Rava, the reason for Rabbi Shimon’s opinion is that the body of the animal serves the partially severed limb as a handle, and he holds that a handle of a food item transmits impurity to the attached food, but a handle that comes into contact with liquid does not render the attached food susceptible to impurity. And according to Rabbi Yoḥanan, Rabbi Shimon holds that if one grasps a small part of a large item such that the large part does not ascend with the small part, the small part is not considered part of the item with regard to impurity (see 127b).
+
+**8.**
+*Hebrew/Aramaic:* אֶלָּא, לְעוֹלָם אַסֵּיפָא, וְלָאו אַאֵבֶר, אֶלָּא אַבָּשָׂר. מֵתָה הַבְּהֵמָה – הַבָּשָׂר צָרִיךְ הֶכְשֵׁר, וְרַבִּי שִׁמְעוֹן מְטַהֵר.
+*Translation:* **Rather, actually,** one must explain the statement of Rabbi Shimon as it was explained originally, that he is referring **to the latter clause** of the mishna. **And** he is **not** referring **to** the case of a partially severed **limb, but rather to** the case of partially severed **flesh.** Therefore, the latter clause of the mishna teaches: If **the animal died** without slaughter, Rabbi Meir holds that **the** hanging **flesh needs** to be **rendered susceptible** to impurity in order to impart impurity as food, **and Rabbi Shimon deems** the limb **not susceptible to impurity** even if it came into contact with liquid.
+
+**9.**
+*Hebrew/Aramaic:* אָמַר רַבִּי יוֹחָנָן: מַאי טַעְמָא דְּרַבִּי שִׁמְעוֹן? אָמַר קְרָא ״מִכׇּל הָאֹכֶל אֲשֶׁר יֵאָכֵל״, אוֹכֶל שֶׁאַתָּה יָכוֹל לְהַאֲכִילוֹ לַאֲחֵרִים – קָרוּי אוֹכֶל, אוֹכֶל שֶׁאִי אַתָּה יָכוֹל לְהַאֲכִילוֹ לַאֲחֵרִים – אֵין קָרוּי אוֹכֶל.
+*Translation:* **Rabbi Yoḥanan said: What is the reason** for the opinion **of Rabbi Shimon?** The reason is that **the verse states** with regard to impurity as food: **“From all food which may be eaten,** that on which water comes shall be impure” (Leviticus 11:34). The phrase “food which may be eaten” indicates that only **food that you can feed to others,** including gentiles, **is called food** with regard to being susceptible to impurity as food, but **food that you cannot feed to others,** such as flesh from a living animal, which is forbidden even to gentiles, **is not called food.**
+
+**10.**
+*Hebrew/Aramaic:* מַתְנִי׳ הָאֵבֶר וְהַבָּשָׂר הַמְדוּלְדָּלִין בְּאָדָם – טְהוֹרִים. מֵת הָאָדָם – הַבָּשָׂר טָהוֹר. הָאֵבֶר מְטַמֵּא מִשּׁוּם אֵבֶר מִן הַחַי, וְאֵינוֹ מְטַמֵּא מִשּׁוּם אֵבֶר מִן הַמֵּת, דִּבְרֵי רַבִּי מֵאִיר. וְרַבִּי שִׁמְעוֹן מְטַהֵר.
+*Translation:* MISHNA: **The limb and the flesh** of a person that were partially severed and remain **hanging from a person are ritually pure,** although there is no potential for healing. If **the person died, the** hanging **flesh is ritually pure,** as its halakhic status is that of flesh severed from a living person. **The** hanging **limb imparts impurity as a limb** severed **from the living and does not impart impurity as a limb from a corpse;** this is **the statement of Rabbi Meir. And Rabbi Shimon deems** the flesh and the limb **ritually pure.**
+
+**11.**
+*Hebrew/Aramaic:* גְּמָ׳ וְרַבִּי שִׁמְעוֹן מָה נַפְשָׁךְ? אִי מִיתָה עוֹשָׂה נִיפּוּל – לִיטַמֵּא מִשּׁוּם אֵבֶר מִן הַחַי, וְאִי אֵין מִיתָה עוֹשָׂה נִיפּוּל – לִיטַמֵּא מִשּׁוּם אֵבֶר מִן הַמֵּת!
+*Translation:* GEMARA: The Gemara challenges the opinion of Rabbi Shimon in the latter clause of the mishna: **Whichever** way **you** look at it, the ruling of **Rabbi Shimon** is difficult. **If death renders** a hanging limb **fallen off,** i.e., if after the person dies the hanging limb is considered to have fallen off his body beforehand, the limb **should impart impurity as a limb** severed **from the living. And if death does not render** a hanging limb **fallen off,** and the limb is considered attached to the body at the time of death, then the limb **should impart impurity as a limb from a corpse.**
+
+**12.**
+*Hebrew/Aramaic:* רַבִּי שִׁמְעוֹן בְּעָלְמָא קָאֵי, דְּקָאָמַר תַּנָּא קַמָּא: הָאֵבֶר מְטַמֵּא מִשּׁוּם אֵבֶר מִן הַחַי וְאֵין מְטַמֵּא מִשּׁוּם אֵבֶר מִן הַמֵּת, אַלְמָא אֵבֶר הַמֵּת בְּעָלְמָא מְטַמֵּא, וַאֲמַר לֵיהּ רַבִּי שִׁמְעוֹן: אֵבֶר הַמֵּת בְּעָלְמָא לֹא מְטַמֵּא.
+*Translation:* The Gemara explains: This statement of Rabbi Shimon is not referring directly to the case in the mishna. Rather, the statement of **Rabbi Shimon is referring** to the matter of a limb that separates from a corpse **in general.** Rabbi Shimon inferred from **that which the first *tanna*,** Rabbi Meir, **said: The** hanging **limb imparts impurity as a limb** severed **from the living and does not impart impurity as a limb from a corpse,** that **evidently, in general the limb of a corpse imparts impurity. And** in reference to this **Rabbi Shimon said to him: In general, the limb of a corpse does not impart impurity,** if it does not contain an olive-bulk of flesh.
+
+**13.**
+*Hebrew/Aramaic:* דְּתַנְיָא: אָמַר רַבִּי אֱלִיעֶזֶר: שָׁמַעְתִּי שֶׁאֵבֶר מִן הַחַי מְטַמֵּא. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ: מִן הַחַי וְלֹא מִן הַמֵּת? וְקַל וָחוֹמֶר – וּמָה חַי שֶׁהוּא טָהוֹר, אֵבֶר הַפּוֹרֵשׁ מִמֶּנּוּ טָמֵא; מֵת שֶׁהוּא טָמֵא, לֹא כׇּל שֶׁכֵּן?
+*Translation:* Another pair of *tanna’im* had the same dispute as Rabbi Meir and Rabbi Shimon, **as it is taught** in a *baraita*: **Rabbi Eliezer says: I heard that a limb** severed **from the living imparts impurity. Rabbi Yehoshua said to him:** May one infer from this statement that a limb **from a living** person imparts impurity **but** a limb **from a corpse does not?** But it can be inferred ***a fortiori*** that a limb from a corpse imparts impurity: **If** with regard to **a living** person, **who is pure** and does not impart impurity, nevertheless **a limb that separates from him is impure,** then with regard to **a corpse, which is impure, all the more so** is it **not** clear that the limb that separates from it is impure?
+
+**14.**
+*Hebrew/Aramaic:* כָּתוּב בִּמְגִילַּת תַּעֲנִית: ״פִּסְחָא זְעִירָא דְּלָא לְמִסְפַּד״, הָא רַבָּה לְמִסְפַּד?! אֶלָּא כָּל דְּכֵן! הָכָא נָמֵי, כׇּל דְּכֵן! אֲמַר לֵיהּ: כָּךְ שָׁמַעְתִּי.
+*Translation:* Furthermore, Rabbi Yehoshua adds that **it is written in *Megillat Ta’anit*:** On **Minor Passover,** i.e., the fourteenth of Iyyar, **one does not eulogize.** Should one infer from here **that** on **Major** Passover, i.e., the fourteenth of Nisan, it is permitted **to eulogize?** Clearly that is not the case. **Rather,** if one may not eulogize on the fourteenth of Iyyar, **all the more so** one may not eulogize on the fourteenth of Nisan. **Here too,** if a limb from a living person is impure, **all the more so** a limb from a corpse is impure. Rabbi Eliezer **said to him:** Despite this reasoning, **such** is the ruling **I heard** from my teachers.
+
+**15.**
+*Hebrew/Aramaic:* וּמַאי אִיכָּא בֵּין אֵבֶר מִן הַחַי לְאֵבֶר מִן הַמֵּת? כְּזַיִת בָּשָׂר וְעֶצֶם כִּשְׂעוֹרָה הַפּוֹרֵשׁ מֵאֵבֶר מִן הַחַי אִיכָּא בֵּינַיְיהוּ.
+*Translation:* §The mishna teaches that Rabbi Meir holds that with regard to a partially severed limb of a person, after the person dies the limb imparts impurity as a limb from a living person but not as a limb from a corpse. The Gemara asks: **What** difference **is there between** the impurity of **a limb from a living** person **and** the impurity of **a limb from a corpse?** The Gemara answers: The practical difference **between them** is with regard to the case of **an olive-bulk of flesh, or a bone** the volume of **a barley grain, that separates from** the severed **limb of a living** person.
+
+**16.**
+*Hebrew/Aramaic:* דִּתְנַן: כְּזַיִת בָּשָׂר הַפּוֹרֵשׁ מֵאֵבֶר מִן הַחַי – רַבִּי אֱלִיעֶזֶר מְטַמֵּא, וְרַבִּי נְחוּנְיָא בֶּן הַקָּנָה וְרַבִּי יְהוֹשֻׁעַ מְטַהֲרִין. עֶצֶם כִּשְׂעוֹרָה הַפּוֹרֵשׁ מֵאֵבֶר מִן הַחַי – רַבִּי נְחוּנְיָא מְטַמֵּא, רַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ מְטַהֲרִין.
+*Translation:* **As we learned** in a mishna (*Eduyyot* 6:3): In the case of **an olive-bulk of flesh that separates from a limb** severed **from a living** person, **Rabbi Eliezer deems** it **impure, and Rabbi Neḥunya ben HaKana and Rabbi Yehoshua deem** it **pure.** In the case of **a bone** the volume of **a barley-grain that separates from a limb** severed **from a living** person, **Rabbi Neḥunya deems** it **impure, and Rabbi Eliezer and Rabbi Yehoshua deem** it **pure.**
+
+**17.**
+*Hebrew/Aramaic:* הַשְׁתָּא דְּאָתֵית לְהָכִי, בֵּין תַּנָּא קַמָּא לְרַבִּי שִׁמְעוֹן נָמֵי, כְּזַיִת בָּשָׂר וְעֶצֶם כִּשְׂעוֹרָה אִיכָּא בֵּינַיְיהוּ.
+*Translation:* The Gemara comments: **Now that you have arrived at this** dispute between *tanna’im*, it is possible to say that the difference **between the first *tanna*** in the mishna, i.e., Rabbi Meir, **and Rabbi Shimon** is **also** with regard to the cases of **an olive-bulk of flesh and a bone** the size of **a barley grain.** Rabbi Meir states that the partially severed limb of a person imparts the impurity of a limb from a living person but not the impurity of a limb from a corpse. The difference between these two types of impurity is with regard to a case where either an olive-bulk of flesh or a bone the size of a barley grain was separated from the severed limb; Rabbi Neḥunya holds that flesh that separated from a limb of a living person is pure, but a bone that separated from a limb of a living person is impure, and Rabbi Eliezer holds vice versa. Rabbi Meir consequently holds in accordance with one of these two opinions. Rabbi Shimon holds in accordance with the opinion of Rabbi Yehoshua that both a bone and flesh that separated from a limb of a living person are pure.
+
+**18.**
+*Hebrew/Aramaic:* הֲדַרַן עֲלָךְ הָעוֹר וְהָרוֹטֶב.
+*Translation:* 
+
+
+---
+
+SEFARIA TEXT FOR HULLIN 130:
+
+### Hullin 130a
+
+**1.**
+*Hebrew/Aramaic:* מַתְנִי׳ הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה נוֹהֲגִין בָּאָרֶץ וּבְחוּצָה לָאָרֶץ, בִּפְנֵי הַבַּיִת וְשֶׁלֹּא בִּפְנֵי הַבַּיִת, בַּחוּלִּין אֲבָל לֹא בַּמּוּקְדָּשִׁין.
+*Translation:* MISHNA: The mitzva to give **the foreleg, the jaw, and the maw** of slaughtered animals to the priests, known as the gifts of the priesthood, **applies** both **in Eretz** Yisrael **and outside of Eretz** Yisrael, **in the presence of the Temple and not in the presence of the Temple,** and it applies **to non-sacred** animals, **but not to sacrificial** animals.
+
+**2.**
+*Hebrew/Aramaic:* שֶׁהָיָה בַּדִּין, וּמָה אִם הַחוּלִּין, שֶׁאֵינָן חַיָּיבִים בְּחָזֶה וָשׁוֹק – חַיָּיבִים בְּמַתָּנוֹת, קָדָשִׁים, שֶׁחַיָּיבִים בְּחָזֶה וָשׁוֹק – אֵינוֹ דִּין שֶׁחַיָּיבִים בְּמַתָּנוֹת?
+*Translation:* It is necessary to emphasize that it does not apply to sacrificial animals, **as by right it should be** inferred *a fortiori*: **If non-sacred** animals, **which are not obligated to** have the **breast and thigh** taken from them and given to the priest, **are obligated to** have **gifts** of the priesthood given from them, then with regard to **sacrificial** animals, **which are obligated to** have the **breast and thigh** given from them, **is it not right that** they should be **obligated to** have **gifts** of the priesthood given from them?
+
+**3.**
+*Hebrew/Aramaic:* תַּלְמוּד לוֹמַר: ״וָאֶתֵּן אֹתָם לְאַהֲרֹן הַכֹּהֵן וּלְבָנָיו לְחׇק עוֹלָם״ – אֵין לוֹ אֶלָּא מַה שֶּׁאָמוּר בָּעִנְיָן.
+*Translation:* Therefore, **the verse states:** “For the breast of waving and the thigh of giving I have taken of the children of Israel from the sacrifice of the peace offerings, **and have given them to Aaron the priest and to his sons as a due forever** from the children of Israel” (Leviticus 7:34), from which it is derived that the priest **has only that which is stated with regard to** that **matter,** i.e., the breast and the thigh, and not the foreleg, the jaw and the maw.
+
+**4.**
+*Hebrew/Aramaic:* כׇּל הַקֳּדָשִׁים שֶׁקָּדַם מוּם קָבוּעַ לְהֶקְדֵּשָׁן, וְנִפְדּוּ – חַיָּיבִין בַּבְּכוֹרָה וּבַמַּתָּנוֹת, וְיוֹצְאִין לְחוּלִּין לְהִגָּזֵז וּלְהֵעָבֵד, וּוְלָדָן וַחֲלָבָן מוּתָּר לְאַחַר פִּדְיוֹנָן.
+*Translation:* **All sacrificial** animals in **which a permanent blemish preceded their consecration** do not assume inherent sanctity, and only their value is consecrated. **And** once **they were redeemed,** they **are obligated in** the mitzva of **a firstborn,** i.e., their offspring are subject to being counted a firstborn, **and in the gifts** of the priesthood, **and they can emerge** from their sacred status and assume **non-sacred** status **with regard to being shorn and with regard to being utilized for labor,** as it is prohibited to shear animals with sacred status or utilize them for labor. **And their offspring and their milk are permitted after their redemption.**
+
+**5.**
+*Hebrew/Aramaic:* וְהַשּׁוֹחֲטָן בַּחוּץ פָּטוּר, וְאֵין עוֹשִׂין תְּמוּרָה, וְאִם מֵתוּ – יִפָּדוּ, חוּץ מִן הַבְּכוֹר וּמִן הַמַּעֲשֵׂר.
+*Translation:* **And one who slaughters** these animals **outside** the Temple courtyard is **exempt** from *karet*, **and** those animals **do not render** an animal that was **a substitute** for them consecrated. **And if** these animals **died** before they were redeemed, **they may be redeemed** and fed to dogs. Although typically sacrificial animals that were redeemed may not be fed to the dogs, in this case it is permitted. This is the *halakha* with regard to all animals **except for the firstborn** animal **and the** animal **tithe,** whose sanctity is inherent, even when a permanent blemish preceded their consecration.
+
+**6.**
+*Hebrew/Aramaic:* כֹּל שֶׁקָּדַם הֶקְדֵּשָׁן אֶת מוּמָן, אוֹ מוּם עוֹבֵר קוֹדֵם לְהֶקְדֵּשָׁן, וּלְאַחַר מִכָּאן נוֹלַד לָהֶם מוּם קָבוּעַ, וְנִפְדּוּ – פְּטוּרִין מִן הַבְּכוֹרָה וּמִן הַמַּתָּנוֹת, וְאֵינָן יוֹצְאִין לְחוּלִּין לְהִגָּזֵז וּלְהֵעָבֵד.
+*Translation:* With regard to **all** sacrificial animals **whose consecration preceded their blemish, or** who had **a temporary blemish prior to their consecration and afterward developed a permanent blemish and they were redeemed, they are exempt from** the mitzva of **a firstborn, and from the gifts** of the priestood, **and they do not emerge** from their sacred status and assume **non-sacred** status **with regard to being shorn and with regard to being utilized for labor.**
+
+**7.**
+*Hebrew/Aramaic:* וּוְלָדָן וַחֲלָבָן אָסוּר לְאַחַר פִּדְיוֹנָן, וְהַשּׁוֹחֲטָן בַּחוּץ – חַיָּיב, וְעוֹשִׂין תְּמוּרָה, וְאִם מֵתוּ – יִקָּבֵרוּ.
+*Translation:* **And their offspring,** which were conceived prior to redemption, **and their milk, are prohibited after their redemption. And one who slaughters them outside** the Temple courtyard is **liable** to receive *karet*, **and** those animals **render** an animal that was **a substitute** for them consecrated. **And if** these animals **died** before they were redeemed, they may not be redeemed and fed to dogs; rather, **they must be buried.**
+
+**8.**
+*Hebrew/Aramaic:* גְּמָ׳ טַעְמָא דִּכְתַב רַחֲמָנָא ״אוֹתָם״, הָא לָאו הָכִי הֲוָה אָמֵינָא קָדָשִׁים חַיָּיבִין בְּמַתָּנוֹת?
+*Translation:* GEMARA: The mishna teaches that the verse: “And have given them to Aaron the priest and to his sons” (Leviticus 7:34), indicates that only the breast and thigh, which are the subject of that verse, are given from sacrificial animals to the priest, but gifts of the priesthood are not given from sacrificial animals. The Gemara infers: The **reason** sacrificial animals are not included in the mitzva of gifts of the priesthood is due to the fact **that the Merciful One writes: “Them,”** in reference to the breast and the thigh of sacrificial animals. **But** were it **not** for **this, I would say** by *a fortiori* inference that **sacrificial** animals are **obligated to** have **gifts** of the priesthood given from them.
+
+**9.**
+*Hebrew/Aramaic:* אִיכָּא לְמִיפְרַךְ: מָה לְחוּלִּין שֶׁכֵּן חַיָּיבִין בִּבְכוֹרָה!
+*Translation:* The Gemara asks: Why is it necessary to derive this *halakha* from a verse? The *a fortiori* inference **can be refuted** as follows: **What** is unique **about non-sacred** animals? They are unique **in that** they **are obligated** in the mitzva of **a firstborn,** whereas sacrificial animals are exempt. Therefore, the *a fortiori* inference stated in the mishna should not apply.
+
+**10.**
+*Hebrew/Aramaic:* תֵּיתֵי מִזְּכָרִים – מָה לִזְכָרִים, שֶׁכֵּן חַיָּיבִין בְּרֵאשִׁית הַגֵּז!
+*Translation:* The Gemara responds: One could **derive** that the mitzva to give the gifts of the priesthood applies to sacrificial animals through an *a fortiori* inference **from** non-sacred **male** animals, which do not give birth to offspring and whose owners are therefore exempt from counting their offspring a firstborn, and nevertheless are subject to the giving of the gifts of the priesthood. The Gemara rejects this suggestion: **What** is unique **about** non-sacred **male** animals? They are unique **in that** they are **obligated to** have **the first sheared wool** given to the priest from them.
+
+**11.**
+*Hebrew/Aramaic:* מִתְּיָישִׁים – מָה לִתְיָישִׁים, שֶׁכֵּן נִכְנָסִין לַדִּיר לְהִתְעַשֵּׂר!
+*Translation:* The Gemara persists: One can derive that the obligation applies to sacrificial animals by an *a fortiori* inference **from male goats,** whose owners are exempt from counting their offspring a firstborn as well as from the first sheared wool, and yet are subject to the obligation of gifts of the priesthood. The Gemara rejects this claim as well: **What** is unique **about male goats?** They are unique **in that they enter the pen to be tithed** for the animal tithe, whereas sacrificial animals are not subject to the animal tithe.
+
+**12.**
+*Hebrew/Aramaic:* מִזְּקֵנִים – מָה לִזְקֵנִים, שֶׁכֵּן נִכְנְסוּ לְדִיר לְהִתְעַשֵּׂר!
+*Translation:* The Gemara further suggests that one can derive the obligation of sacrificial animals having the breast and thigh given from them by *a fortiori* inference **from old** male goats, which have already entered the pen in order to be tithed. Consequently, the obligation of the animal tithe, the obligation of counting the offspring a firstborn, and the first sheared wool do not apply. The Gemara rejects this suggestion as well: **What** is unique **about old** male goats? They are unique **in that they** have **entered the pen to be tithed,** which is not the case with regard to sacrificial animals.
+
+**13.**
+*Hebrew/Aramaic:* מִלָּקוּחַ וְיָתוֹם – מָה לְלָקוּחַ וְיָתוֹם, שֶׁכֵּן נִכְנָסִין בְּמִינָן לַדִּיר לְהִתְעַשֵּׂר!
+*Translation:* The Gemara again suggests that perhaps one can derive the obligation of giving gifts of the priesthood with regard to sacrificial animals by an *a fortiori* inference **from a purchased** animal, to which the obligation of the animal tithe never applies. **Or** perhaps it can be derived from **an orphaned** animal, born after the death of its mother, which is also not subject to the obligation of animal tithe. The Gemara rejects this claim: **What** is unique **about a purchased** animal **or an orphaned** animal? They are unique **in that** although they themselves do not enter the pen, animals **of their type enter the pen to be tithed.**
+
+**14.**
+*Hebrew/Aramaic:* בְּמִינָן קָאָמְרַתְּ? קֳדָשִׁים נָמֵי, בְּמִינָן נִכְנָסִין לַדִּיר לְהִתְעַשֵּׂר.
+*Translation:* The Gemara responds: **You say** that it is significant that animals **of their type** enter the pen? With regard to **sacrificial** animals **as well,** non-sacred animals **of their type enter the pen to be tithed.** Accordingly, one can claim *a fortiori* that the mitzva to give the gifts applies to sacrificial animals, and it is only due to the verse that they are exempt.
+
+**15.**
+*Hebrew/Aramaic:* וְיִהְיוּ חוּלִּין חַיָּיבִין בְּחָזֶה וָשׁוֹק מִקַּל וָחוֹמֶר: וּמָה קָדָשִׁים, שֶׁאֵין חַיָּיבִים בְּמַתָּנוֹת, חַיָּיבִין בְּחָזֶה וָשׁוֹק; חוּלִּין, שֶׁחַיָּיבִין בְּמַתָּנוֹת, אֵינוֹ דִּין שֶׁחַיָּיבִין בְּחָזֶה וָשׁוֹק?
+*Translation:* § The Gemara challenges: **And** now that it has been established that the obligation of the gifts of the priesthood does not apply to sacrificial animals, **non-sacred** animals **should be obligated to** have the **breast and thigh** given from them **by an *a fortiori*** inference: **If sacrificial** animals, **which are not obligated to** have **gifts** of the priesthood given from them, are nevertheless **obligated to** have the **breast and thigh** given from them, then with regard to **non-sacred** animals, **which are obligated to** have **gifts** of the priesthood given from them, **is it not right that** they should be **obligated to** have the **breast and thigh** given from them?
+
+**16.**
+*Hebrew/Aramaic:* אָמַר קְרָא: ״וְזֶה יִהְיֶה מִשְׁפַּט הַכֹּהֲנִים״, ״זֶה״ – אִין, מִידֵּי אַחֲרִינָא – לָא.
+*Translation:* The Gemara responds that the **verse states: “And this shall be the priests’ due** from the people, from them that perform a slaughter, whether it be an ox or sheep, that they shall give to the priest the foreleg, and the jaw, and the maw” (Deuteronomy 18:3). The verse indicates that **“this,”** the foreleg, the jaw, and the maw, **yes,** is given to the priests, but **another item,** i.e., the breast and thigh, is **not** given to the priests from non-sacred slaughtered animals.
+
+**17.**
+*Hebrew/Aramaic:* אֶלָּא טַעְמָא דִּכְתַב רַחֲמָנָא ״זֶה״, הָא לָאו הָכִי הֲוָה אָמֵינָא חוּלִּין חַיָּיבִין בְּחָזֶה וָשׁוֹק? וְהָא בָּעֵי תְּנוּפָה, הֵיכָא לִינוּפִינְהוּ? אִי אַבָּרַאי – ״לִפְנֵי ה׳״ כְּתִיב,
+*Translation:* The Gemara raises a difficulty: **But** this derivation indicates that the **reason** the giving of the breast and thigh does not apply to non-sacred animals is that **the Merciful One writes “this,”** from which it may be inferred if **not** for **this, I would say** that one is **obligated to** give the **breast and thigh** from **non-sacred** animals. **But** the procedure for giving the breast and thigh **requires waving,** and **where would one wave** the breast and thigh of a non-sacred animal? **If** it is suggested that one wave them **outside** the Temple, that cannot be done, as **it is written:** “That the breast may be waved for a wave offering **before the Lord”** (Leviticus 7:30), indicating that they must be waved inside the Temple.
+
+
+---
+
+### Hullin 130b
+
+**1.**
+*Hebrew/Aramaic:* אִי אַגַּוַּאי – קָא מְעַיֵּיל חוּלִּין לָעֲזָרָה, הִלְכָּךְ לָא אֶפְשָׁר.
+*Translation:* **If** it is suggested that they should be waved **inside** the Temple, that too cannot be correct, because one who waves them inside the Temple thereby **brings a non-sacred** animal **into the** Temple **courtyard. Therefore,** since it is **not possible** to perform the procedure of giving the breast and thigh with non-sacred animals, it is not necessary for a verse to teach that the giving of the breast and thigh does not apply to such animals.
+
+**2.**
+*Hebrew/Aramaic:* אֶלָּא ״זֶה״ לְמָה לִי? לְכִדְרַב חִסְדָּא, דְּאָמַר רַב חִסְדָּא: הַמַּזִּיק מַתְּנוֹת כְּהוּנָּה אוֹ שֶׁאֲכָלָן – פָּטוּר מִלְּשַׁלֵּם.
+*Translation:* The Gemara asks: **But** if that is so, **why do I** need the verse to state: **“This** shall be the priests’ due” (Deuteronomy 18:3)? The Gemara answers: The verse is necessary **for that which Rav Ḥisda** taught, **as Rav Ḥisda said: One who causes damage** to **gifts of the priesthood, or who consumed them** before they were given to the priests, is **exempt from** having **to pay** to the priest, as the verse states: “This shall be the priests’ due,” which indicates that only the foreleg, the jaw, and the maw themselves, not their replacements, are given to the priests.
+
+**3.**
+*Hebrew/Aramaic:* גּוּפָא, אָמַר רַב חִסְדָּא: הַמַּזִּיק מַתְּנוֹת כְּהוּנָּה, אוֹ שֶׁאֲכָלָן – פָּטוּר מִלְּשַׁלֵּם. מַאי טַעְמָא? אִיבָּעֵית אֵימָא דִּכְתִיב ״זֶה״, וְאִיבָּעֵית אֵימָא מִשּׁוּם דְּהָוֵה לֵיהּ מָמוֹן שֶׁאֵין לוֹ תּוֹבְעִים.
+*Translation:* § The Gemara analyzes **the** matter **itself: Rav Ḥisda said** that **one who causes damage** to **gifts of the priesthood or who consumed them** is **exempt from** having **to pay** a substitute to the priest. The Gemara asks: **What is the reason? If you wish, say that** it is because **“this” is written** in the verse, indicating that only the foreleg, the jaw, and the maw themselves are given to the priests, as explained above. **And if you wish, say** instead that it is **because it is money that has no claimants.** Since one may give the gifts to any priest, no single priest can issue a claim on them.
+
+**4.**
+*Hebrew/Aramaic:* מֵיתִיבִי: ״וְזֶה יִהְיֶה מִשְׁפַּט הַכֹּהֲנִים״ – מְלַמֵּד שֶׁהַמַּתָּנוֹת דִּין. לְמַאי הִלְכְתָא? לָאו לְהוֹצִיאָן בְּדַיָּינִין? לָא, לְחוֹלְקָן בְּדַיָּינִין.
+*Translation:* The Gemara **raises an objection** from a *baraita*. The verse states: **“And this shall be the priests’ due [*mishpat*]”** (Deuteronomy 18:3), which **teaches that the gifts** given to the priests are considered **a judgment,** as *mishpat* can mean judgment. The Gemara continues: **With regard to what *halakha*** are the gifts a judgment? Is it **not with regard to extracting** them **through judges,** i.e., a priest may claim them in court and the court will order the individual to give the gifts to that priest? If so, the gifts are considered to be money that has claimants. The Gemara rejects this suggestion: **No,** they are a judgment **with regard to distributing them through judges,** i.e., the court dictates to the owner to which type of priests he should give the gifts.
+
+**5.**
+*Hebrew/Aramaic:* וְכִדְרַב שְׁמוּאֵל בַּר נַחְמָנִי, דְּאָמַר רַב שְׁמוּאֵל בַּר נַחְמָנִי אָמַר רַבִּי יוֹנָתָן: מִנַּיִן שֶׁאֵין נוֹתְנִין מַתָּנָה לְכֹהֵן עַם הָאָרֶץ? שֶׁנֶּאֱמַר: ״וַיֹּאמֶר לָעָם לְיוֹשְׁבֵי יְרוּשָׁלִַם לָתֵת מְנָת לַכֹּהֲנִים וְלַלְוִיִּם לְמַעַן יֶחֶזְקוּ בְּתוֹרַת ה׳״, כׇּל הַמַּחְזִיק בְּתוֹרַת ה׳ – יֵשׁ לוֹ מְנָת, וְשֶׁאֵינוֹ מַחֲזִיק בְּתוֹרַת ה׳ – אֵין לוֹ מְנָת.
+*Translation:* **And** this is **in accordance with that which Rav Shmuel bar Naḥmani** taught, **as Rav Shmuel bar Naḥmani said** that **Rabbi Yonatan said: From where** is it derived **that one does not give a gift** of the priesthood **to a priest** who is **an *am ha’aretz*?** It is derived from a verse, **as it is stated: “And he commanded the people who dwelled in Jerusalem to give the portion of the priests and of the Levites, so that they may firmly adhere to the Torah of the Lord”** (II Chronicles 31:4). This indicates that **anyone who firmly adheres to the Torah of the Lord has a portion, and one who does not firmly adhere to the Torah of the Lord does not have a portion.**
+
+**6.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר: ״מִשְׁפָּט״ – מְלַמֵּד שֶׁהַמַּתָּנוֹת דִּין. יָכוֹל אֲפִילּוּ חָזֶה וָשׁוֹק דִּין? תַּלְמוּד לוֹמַר ״זֶה״.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof with regard to the statement of Rav Ḥisda from a *baraita*: **Rabbi Yehuda ben Beteira says** that the phrase “And this shall be the priests’ **due” teaches that the gifts** of the priesthood are **a judgment.** One **might** have thought that the gifts of the **breast and thigh** are **also a judgment.** Therefore, **the verse states: “This,”** to teach that only the gifts of the foreleg, the jaw, and the maw are called a judgment.
+
+**7.**
+*Hebrew/Aramaic:* לְמַאי? אִילֵימָא לְחוֹלְקוֹ בְּדַיָּינִין – אַטּוּ חָזֶה וָשׁוֹק לָאו בְּדַיָּינִין מִיחַלְּקוּ? אֶלָּא לָאו (להוציא) [לְהוֹצִיאוֹ] בְּדַיָּינִין.
+*Translation:* The Gemara analyzes this *baraita*: **With regard to what** matter is this *halakha* stated? **If we say** that it is **with regard to distributing** them **through judges, is that to say** that the **breast and thigh are not distributed through judges?** These are also called a “portion” (II Chronicles 31:4), and therefore the court determines to which priests they should be given, as stated above. **Rather, is it not** stated **with regard to extracting** them **through judges?** If so, one can infer from the *baraita* that gifts of the priesthood can be extracted in court by a priest, which contradicts the statement of Rav Ḥisda.
+
+**8.**
+*Hebrew/Aramaic:* הָכָא בְּמַאי עָסְקִינַן, דַּאֲתוֹ לִידֵיהּ. אִי דַּאֲתוֹ לִידֵיהּ, מַאי לְמֵימְרָא? דַּאֲתוֹ לִידֵיהּ בְּטִבְלַיְיהוּ, וְקָסָבַר הַאי תַּנָּא: מַתָּנוֹת שֶׁלֹּא הוּרְמוּ – כְּמִי שֶׁהוּרְמוּ דָּמְיָין.
+*Translation:* The Gemara responds: **Here, we are dealing with** a case **where** the gifts already **came into** the priest’s **possession,** and the owner stole them from him. The *baraita* teaches that the priest may claim them in court and the court will order that they be returned to him. The Gemara asks: **If** this is a case **where they came into his possession, what** is the purpose **of stating** that the priest may claim them in court? That is obvious, as they already belong to him. The Gemara responds: The *baraita* is referring to a case **where they came into his possession while they** were still **untithed,** i.e., the priest received the entire animal before the gifts were separated, **and this *tanna* holds** that **gifts that have not been separated are considered as though they have been separated.** Accordingly, the gifts belong to the priest, and if the owner takes them from him against his will it is considered theft.
+
+**9.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: בַּעַל הַבַּיִת שֶׁהָיָה עוֹבֵר מִמָּקוֹם לְמָקוֹם, וְצָרִיךְ לִיטּוֹל לֶקֶט, שִׁכְחָה, וּפֵאָה, וּמַעְשַׂר עָנִי – נוֹטֵל, וְלִכְשֶׁיַּחְזוֹר יְשַׁלֵּם, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof with regard to the statement of Rav Ḥisda from a mishna (*Pe’a* 5:4): In the case of **a homeowner who was passing from place to place,** and he ran out of money while traveling **and needs to take gleanings, forgotten** sheaves, ***pe’a*, or the poor man’s tithe** in order to sustain himself, he may **take** them, **and when he returns** to his house **he will pay** a poor person for whatever he took; this is **the statement of Rabbi Eliezer.** The mishna teaches that a poor person may extract payment for that which the homeowner took, despite the fact that he never had possession of the gifts. This ruling apparently contradicts the statement of Rav Ḥisda.
+
+**10.**
+*Hebrew/Aramaic:* אָמַר רַב חִסְדָּא: מִדַּת חֲסִידוּת שָׁנוּ כָּאן. אָמַר רָבָא: תַּנָּא תָּנֵי ״יְשַׁלֵּם״, וְאַתְּ אָמְרַתְּ מִדַּת חֲסִידוּת שָׁנוּ כָּאן?! וְעוֹד, מִדְּרַבִּי אֱלִיעֶזֶר לֵיקוּם וְלֹיתֵוב?
+*Translation:* **Rav Ḥisda said:** The mishna **taught an attribute of piety here,** i.e., strictly speaking a poor person has no right to claim any amount from the homeowner for what he took. **Rava said** in bewilderment: **The *tanna* taught** explicitly that **he will pay, and you say** that he **taught an attribute of piety here? And furthermore, should** one **arise and raise an objection from** the statement **of Rabbi Eliezer?** The *halakha* is not in accordance with his opinion.
+
+**11.**
+*Hebrew/Aramaic:* אֶלָּא מִסֵּיפָא, וַחֲכָמִים אוֹמְרִים: עָנִי הָיָה בְּאוֹתָהּ שָׁעָה, טַעְמָא דְּעָנִי, הָא עָשִׁיר – מְשַׁלֵּם.
+*Translation:* **Rather,** the objection is **from the latter clause** of the mishna: **And the Rabbis say** that the homeowner is not required to pay for what he took during his travels, as **he was** considered **poor at that time.** It may be inferred that the **reason** he is exempt from payment is only **that** he was considered **poor** at the time, **but** if he were considered **wealthy,** he would have to **pay** the poor people who issue a claim against him in court, as he was not entitled to those gifts.
+
+**12.**
+*Hebrew/Aramaic:* אַמַּאי? לֶיהֱוֵי כְּמַזִּיק מַתְּנוֹת כְּהוּנָּה אוֹ שֶׁאֲכָלָן! אָמַר רַב חִסְדָּא: מִדַּת חֲסִידוּת שָׁנוּ כָּאן.
+*Translation:* The Gemara explains the objection: But **why** must he pay? **Let it be** considered **like** a case where one **causes damage to gifts of the priesthood or consumes them,** with regard to which Rav Ḥisda states that he is not required to pay the priest. The opinion of the Rabbis apparently contradicts the statement of Rav Ḥisda. **Rav Ḥisda says:** Even if the homeowner was considered wealthy at the time he is not required to pay, and the Rabbis who obligated him to pay **taught an attribute of piety here.**
+
+**13.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: מִנַּיִן לְבַעַל הַבַּיִת שֶׁאָכַל פֵּירוֹתָיו טְבָלִין, וְכֵן לֵוִי שֶׁאָכַל מַעְשְׂרוֹתָיו טְבָלִים, מִנַּיִן שֶׁפָּטוּר מִן הַתַּשְׁלוּמִין? תַּלְמוּד לוֹמַר: ״וְלֹא יְחַלְּלוּ אֶת קׇדְשֵׁי בְּנֵי יִשְׂרָאֵל אֲשֶׁר יָרִימוּ״ – אֵין לְךָ בָּהֶן אֶלָּא מִשְּׁעַת הֲרָמָה וְאֵילָךְ.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from a *baraita*: **From where** is it derived **with regard to a homeowner who consumed his produce** while it was **untithed,** i.e., neither *teruma* nor the first tithe had been separated, **and similarly,** with regard to **a Levite who consumed his tithes** while they were **untithed,** i.e., *teruma* of the tithe had not been separated, **from where** is it derived **that** he is **exempt from payment? The verse states: “And they shall not profane the sacred things of the children of Israel, which they set apart** to the Lord” (Leviticus 22:15). This teaches that **you,** the priest, **have** rights **to them only from the time of separation onward.** Since the produce was eaten before *teruma* was separated from it, the priest cannot claim payment for it in court.
+
+**14.**
+*Hebrew/Aramaic:* הָא מִשְּׁעַת הֲרָמָה וְאֵילָךְ מִיהָא מְשַׁלֵּם, אַמַּאי? לֶיהֱוֵי כְּמַזִּיק מַתְּנוֹת כְּהוּנָּה אוֹ שֶׁאֲכָלָן! הָכָא נָמֵי
+*Translation:* The Gemara infers from this ruling: This indicates that if it was consumed **from the time of separation onward,** the priest may **in any event** claim payment for the *teruma* in court, and the one who consumed it must **pay.** But **why** must one pay? **Let it be like** a case where one **causes damage to gifts of the priesthood or consumes them,** with regard to which Rav Ḥisda states that he is exempt from payment. The Gemara responds: **Here too,**
+
+
+---
+
+SEFARIA TEXT FOR HULLIN 131 (FOLLOWING DAF — for context only):
+
+### Hullin 131a
+
+**1.**
+*Hebrew/Aramaic:* דַּאֲתוֹ לִידֵיהּ בְּטִבְלַיְיהוּ, וְקָסָבַר הַאי תַּנָּא: מַתָּנוֹת שֶׁלֹּא הוּרְמוּ – כְּמִי שֶׁהוּרְמוּ דָּמְיָין.
+*Translation:* the *baraita* is referring to a case **where they came into** the priest’s **possession while they** were still **untithed, and this *tanna* holds** that **gifts that have not been separated are considered as though they have been separated.** In such a case, the priest obtained rights to the ownerless gifts by seizing them first. Although when he seized the produce it was still untithed, the portion of the produce that is to be separated has the status of *teruma*. Accordingly, one who consumes such produce is required to pay the priest.
+
+**2.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: הֲרֵי שֶׁאָנְסוּ בֵּית הַמֶּלֶךְ גׇּרְנוֹ, אִם בְּחוֹבוֹ – חַיָּיב לְעַשֵּׂר, אִם בְּאַנְפָּרוּת – פָּטוּר מִלְּעַשֵּׂר.
+*Translation:* The Gemara further suggests: **Come** and **hear** another proof with regard to the statement of Rav Ḥisda from a *baraita*: In a case **where the household of the king seized one’s threshing floor** by force, **if** they took it **as** payment of **his debt** owed to the king, then **he is obligated to tithe** other grain in accordance with the amount he would have tithed before the grain was seized. Since he was already obligated to tithe the grain before it was seized, it is considered as though the grain was sold in an untithed state. **If they took it without reason [*anparot*],** then **he is exempt from tithing.** The fact that one is required to tithe grain seized as payment of a debt indicates that the tithe is considered money that has claimants, from which it follows that a priest may extract payment of the tithe from him. Again, this apparently contradicts the statement of Rav Ḥisda.
+
+**3.**
+*Hebrew/Aramaic:* שָׁאנֵי הָתָם, דְּקָא מִשְׁתָּרְשִׁי לֵיהּ.
+*Translation:* The Gemara rejects this proof: It **is different there,** since if one is not required to tithe grain seized as payment of a debt, this would mean **that** the seizure **causes benefit for him,** as he will be exempt from tithing grain that he was previously obligated to tithe. It is for this reason that the *baraita* rules that one must tithe other grain instead of the seized grain, not because a priest could have issued a claim against him in court.
+
+**4.**
+*Hebrew/Aramaic:* תָּא שְׁמַע, אָמַר לוֹ: מְכוֹר לִי בְּנֵי מֵעֶיהָ שֶׁל פָּרָה, וְהָיָה בָּהֶן מַתְּנוֹת כְּהוּנָּה – נוֹתְנָן לַכֹּהֵן, וְאֵינוֹ מְנַכֶּה לוֹ מִן הַדָּמִים. לָקַח הֵימֶנּוּ בְּמִשְׁקָל – נוֹתְנָן לַכֹּהֵן, וּמְנַכֶּה לוֹ מִן הַדָּמִים.
+*Translation:* The Gemara suggests: **Come** and **hear** a proof from a mishna (132a): If an Israelite **says** to a butcher: **Sell me the innards of** a particular **cow, and there were gifts of the priesthood** included **with it,** i.e., the maw, that were not yet given to the priest, the purchaser **must give them to the priest, and** the butcher **may not deduct** the value of the gifts **from the money** that the purchaser pays **him,** as it is assumed that the gifts were not included in the sale. If **he purchased** the innards **from** the butcher **by weight,** the purchaser **must give** the gifts **to the priest, and** the butcher **deducts** the value of the gifts **from the money** that the Israelite pays **him.**
+
+**5.**
+*Hebrew/Aramaic:* אַמַּאי? לֶיהֱוֵי כְּמַזִּיק מַתְּנוֹת כְּהוּנָּה אוֹ שֶׁאֲכָלָן! שָׁאנֵי הָתָם, דְּאִיתַנְהוּ בְּעֵינַיְהוּ.
+*Translation:* The Gemara asks: **Why** must the buyer give the maw to the priest? **Let** the butcher’s sale of the maw **be** considered **like** a case where one **causes damage to gifts of the priesthood or consumes them,** with regard to which Rav Ḥisda states that one is exempt from payment. This mishna apparently contradicts Rav Ḥisda’s statement. The Gemara rejects this: It **is different there, as** the gifts **are intact,** i.e., they are distinct items in their own right. In such a case, the gifts must be given to the priest. By contrast, Rav Ḥisda is discussing cases in which the gifts are not distinguishable objects at the time.
+
+**6.**
+*Hebrew/Aramaic:* תָּא שְׁמַע: תִּשְׁעָה נִכְסֵי כֹהֵן – תְּרוּמָה, וּתְרוּמַת מַעֲשֵׂר, וְחַלָּה, רֵאשִׁית הַגֵּז, וּמַתָּנוֹת, וְהַדְּמַאי, וְהַבִּכּוּרִים, וְהַקֶּרֶן, וְהַחוֹמֶשׁ.
+*Translation:* The Gemara suggests: **Come** and **hear** another proof: **Nine** items are the **property of a priest: *Teruma*, *teruma* of the tithe, *ḥalla*,** the portion of dough given to the priest, **the first sheared** wool, **gifts** of the priesthood, **doubtfully tithed produce [*demai*], first fruits, the principal** value of the property of a convert, **and the** additional **one-fifth.** The two are paid to the priest in a case where the property of a convert was stolen and the thief took an oath that he did not steal it, and after the convert died the thief admitted to taking a false oath.
+
+**7.**
+*Hebrew/Aramaic:* לְמַאי, לָאו לְהוֹצִיאָן בְּדַיָּינִין? לָא, לִכְדִתְנַן: לָמָה אָמְרוּ נִכְסֵי כֹהֵן? שֶׁקּוֹנֶה בָּהֶן עֲבָדִים וְקַרְקָעוֹת וּבְהֵמָה טְמֵאָה, וּבַעַל חוֹב נוֹטְלָן בְּחוֹבוֹ, וְאִשָּׁה בִּכְתוּבָּתָהּ, וְסֵפֶר תּוֹרָה.
+*Translation:* The Gemara explains the proof: **With regard to what** matter are these items considered the property of a priest? **Is it not with regard to extracting them with judges,** which would contradict the opinion of Rav Ḥisda? The Gemara responds: **No,** it is **with regard to that which we learned** in a mishna (*Bikkurim* 3:12): **To what** end did **they say** that these items are the **property of a priest?** It means **that** a priest may **purchase with them slaves and lands and a non-kosher animal; and a lender takes them** as payment **of his debt; and** if the **wife** of a priest is divorced from him, she takes them as payment **of her marriage contract; and** a priest may purchase **a Torah scroll** with them.
+
+**8.**
+*Hebrew/Aramaic:* הָהוּא לֵיוָאָה דַּהֲוָה חָטֵף מַתְּנָתָא, אֲתוֹ אֲמַרוּ לֵיהּ לְרַב, אֲמַר לְהוּ: לָא מִסָּתְיֵיהּ דְּלָא שָׁקְלִינַן מִינֵּיהּ, אֶלָּא מִיחְטָף נָמֵי חָטֵיף?!
+*Translation:* § The Gemara relates: There was **a certain Levite who would snatch gifts** of the priesthood from children who were delivering them to the priests on their fathers’ behalf. **They came** and **told Rav** about this Levite. Rav **said to them: Is it not enough that** when he slaughters his own animals **we do not take** the gifts of the priesthood **from him, but he also snatches** gifts that are being delivered to priests?
+
+**9.**
+*Hebrew/Aramaic:* וְרַב, אִי אִיקְּרוֹ ״עַם״ – מִשְׁקָל נָמֵי לִשְׁקוֹל מִינַּיְיהוּ. אִי לָא אִיקְּרוֹ ״עַם״ – רַחֲמָנָא פַּטְרִינְהוּ!
+*Translation:* Rav’s comment indicates that in his opinion there are grounds to take the gifts from Levites, but nevertheless they are not taken. The Gemara asks: **And** what does **Rav** maintain in this regard? **If** he maintains that Levites **are called** part of the **“people,”** then **let one take** the foreleg, the jaw, and the maw **from them as well,** as the verse states: “From the people, from them that perform a slaughter, whether it be ox or sheep, they shall give to the priest the foreleg, and the jaw, and the maw” (Deuteronomy 18:3). **And if they are not called** part of the **people,** then **the Merciful One** has **exempted them** from giving those gifts, and there would be no grounds to take the gifts from them.
+
+**10.**
+*Hebrew/Aramaic:* מְסַפְּקָא לֵיהּ אִי אִיקְּרוֹ ״עַם״ אִי לָא אִיקְּרוֹ ״עַם״.
+*Translation:* The Gemara responds: Rav **is uncertain whether or not they are called** part of the **people.** Therefore, he exempts the Levites from giving their own gifts, in accordance with the principle that the burden of proof rests upon the claimant.
+
+**11.**
+*Hebrew/Aramaic:* יָתֵיב רַב פָּפָּא וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא, אֵיתִיבֵיהּ רַב אִידִי בַּר אָבִין לְרַב פָּפָּא: אַרְבַּע מַתְּנוֹת עֲנִיִּים שֶׁבַּכֶּרֶם – הַפֶּרֶט, וְהָעוֹלֵלוֹת, וְהַשִּׁכְחָה, וְהַפֵּאָה; וְשָׁלֹשׁ שֶׁבַּתְּבוּאָה – הַלֶּקֶט, וְהַשִּׁכְחָה, וְהַפֵּאָה; שְׁנַיִם שֶׁבָּאִילָן – הַשִּׁכְחָה וְהַפֵּאָה.
+*Translation:* The Gemara relates that **Rav Pappa was sitting and saying this *halakha*** in the name of Rav. **Rav Idi bar Avin raised an objection to Rav Pappa** from a *baraita*, with regard to the uncertainty of Rav: **Four gifts** are left **to the poor** from the produce **of a vineyard: The individual fallen** grapes **[*peret*], and the incompletely formed clusters** of grapes **[*olelot*], and the forgotten** clusters, **and *pe’a*. And three** gifts are left to the poor **from grain: The gleanings,** i.e., sheaves that fell during the harvest, **and the forgotten** sheaves, **and the *pe’a*. Two** gifts are left to the poor from the fruit **of a tree: The forgotten** fruits **and the *pe’a*.**
+
+**12.**
+*Hebrew/Aramaic:* כּוּלָּן אֵין בָּהֶם טוֹבַת הֲנָאָה לַבְּעָלִים, וַאֲפִילּוּ עָנִי שֶׁבְּיִשְׂרָאֵל מוֹצִיאִין מִיָּדוֹ.
+*Translation:* The *baraita* elaborates: With regard to **all of** these gifts, **the owner** of the produce **does not have the benefit of discretion.** This is the benefit accrued from giving a gift to an individual of one’s choice, e.g., giving *teruma* or tithes to whichever priest or Levite that one chooses. Instead, poor person who takes possession of these gifts becomes their rightful owner. **And even a poor person of Israel** who owns a vineyard, field, or tree must leave these gifts for all other poor people; and if he does not do so, **the court removes** them **from his possession.**
+
+**13.**
+*Hebrew/Aramaic:* מַעְשַׂר עָנִי הַמִּתְחַלֵּק בְּתוֹךְ בֵּיתוֹ – יֵשׁ בּוֹ טוֹבַת הֲנָאָה לַבְּעָלִים, וַאֲפִילּוּ עָנִי שֶׁבְּיִשְׂרָאֵל מוֹצִיאִין אוֹתוֹ מִיָּדוֹ, וּשְׁאָר מַתְּנוֹת כְּהוּנָּה, כְּגוֹן הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה – אֵין מוֹצִיאִין אוֹתָן מִיָּדוֹ, לֹא מִכֹּהֵן לְכֹהֵן וְלֹא מִלֵּוִי לְלֵוִי.
+*Translation:* By contrast, with regard to the **poor man’s tithe, which is distributed** from **within one’s house,** unlike other gifts to the poor that are left in the field for them to take, **the owner has the benefit of discretion. And even** in the case of **a poor person in Israel,** if he fails to separate the poor man’s tithe from his produce, **the court removes it from his possession. And** with regard to **other gifts of the priesthood, such as the foreleg, and the jaw, and the maw,** the court **does not remove them, neither from a priest** to give **to** another **priest, nor from a Levite** to give **to** another **Levite.**
+
+**14.**
+*Hebrew/Aramaic:* אַרְבַּע מַתָּנוֹת שֶׁבַּכֶּרֶם: הַפֶּרֶט, וְהָעוֹלֵלוֹת, וְהַשִּׁכְחָה, וְהַפֵּאָה, דִּכְתִיב: ״וְכַרְמְךָ לֹא תְעוֹלֵל וּפֶרֶט כַּרְמְךָ לֹא תְלַקֵּט״.
+*Translation:* Before Rav Idi bar Avin explains his objection, the Gemara cites the sources for the *halakhot* of the *baraita*: The *baraita* teaches that **four gifts** are left to the poor from the produce **of a vineyard: The *peret*, and the *olelot*, and the forgotten** clusters, **and the *pe’a*, as it is written: “And you shall not glean [*te’olel*] your vineyard, neither shall you gather the fallen fruit [*peret*] of your vineyard;** you shall leave them for the poor and for the stranger” (Leviticus 19:10).
+
+**15.**
+*Hebrew/Aramaic:* וּכְתִיב: ״כִּי תִבְצֹר כַּרְמְךָ לֹא תְעוֹלֵל אַחֲרֶיךָ״, אָמַר רַבִּי לֵוִי: ״אַחֲרֶיךָ״ – זוֹ שִׁכְחָה.
+*Translation:* **And** it **is** also **written: “When you gather the grapes of your vineyard, you shall not glean it [*te’olel*] after you;** it shall be for the stranger, for the fatherless, and for the widow” (Deuteronomy 24:21). And **Rabbi Levi says** that with regard to the term **“after you,” this** is a reference to **forgotten** clusters, as the *halakha* is that clusters that were passed over by the harvester have the status of forgotten clusters, whereas those that remain in front of him do not have that status.
+
+**16.**
+*Hebrew/Aramaic:* פֵּאָה – גָּמַר ״אַחֲרֶיךָ״ ״אַחֲרֶיךָ״ מִזַּיִת, דִּכְתִיב: ״כִּי תַחְבֹּט זֵיתְךָ לֹא תְפָאֵר אַחֲרֶיךָ״, וְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל: שֶׁלֹּא תִּטּוֹל תִּפְאַרְתּוֹ מִמֶּנּוּ.
+*Translation:* The *halakha* that the mitzva of ***pe’a*** applies to one’s vineyard is **derived** by a verbal analogy between the term **“after you”** in that verse and the term **“after you” from** another verse concerning **an olive** tree. **As it is written: “When you beat your olive tree, you shall not go over the boughs [*tefa’er*] after you;** it shall be for the stranger, for the fatherless, and for the widow” (Deuteronomy 24:20); **and the school of Rabbi Yishmael taught** that the term “You shall not go over the boughs” means **that you should not take** all of **its splendor [*tiferet*] from it;** rather, you should leave a portion of the olives for the poor. So too, one must leave a portion of one’s vineyard as *pe’a* for the poor.
+
+**17.**
+*Hebrew/Aramaic:* שְׁלֹשָׁה שֶׁבַּתְּבוּאָה: הַלֶּקֶט,
+*Translation:* The Gemara continues: The *baraita* teaches that **three** gifts are left to the poor **from grain: The gleanings,**

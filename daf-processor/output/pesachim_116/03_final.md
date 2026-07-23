@@ -1,4 +1,5 @@
 # Pesachim 116 — Daf Yomi Shiur
+[DAF:116a]
 
 ## Review: Kiddush–Karpas
 
@@ -15,6 +16,10 @@ Regarding how much to eat: the Ashkenazic practice is to eat less than a *kezayi
 As for what to dip it in — the Gemara does not specify. The Rambam understands that one dips in *charoset*, which carries the symbolism of slavery and is fitting if *maror* was the primary vegetable used for *karpas*. Tosafot and other Ashkenazic authorities hold that one dips in something else, such as salt water or vinegar. The related question of whether one eats *karpas* with or without *haseiba* (reclining) turns on the same axis: if the dipping is understood as a symbol of slavery, one eats without reclining; if it is understood as the Roman custom of dipping before a meal — a gesture of freedom — then one reclines. This question is the subject of debate.
 
 ### Removing the Seder Plate
+
+> **Hebrew/Aramaic:** לָמָּה עוֹקְרִין אֶת הַשּׁוּלְחָן? אָמְרִי דְּבֵי רַבִּי יַנַּאי: כְּדֵי שֶׁיַּכִּירוּ תִּינוֹקוֹת וְיִשְׁאֲלוּ. אַבָּיֵי הֲוָה יָתֵיב קַמֵּיהּ דְּרַבָּה, חֲזָא דְּקָא מַדְלִי תַּכָּא מִקַּמֵּיהּ, אֲמַר לְהוּ: עֲדַיִין לָא קָא אָכְלִינַן, אָתוּ קָא מְעַקְּרִי תַּכָּא מִיקַּמַּן?! אֲמַר לֵיהּ רַבָּה: פְּטַרְתַּן מִלּוֹמַר ״מָה נִּשְׁתַּנָּה״.
+>
+> **Translation:** The Gemara asks: **Why does one remove the table? The school of Rabbi Yannai say: So that the children will notice** that something is unusual **and they will ask:** Why is this night different from all other nights? The Gemara relates: **Abaye was sitting before Rabba** when he was still a child. **He saw that they were removing the table from before him, and he said to** those removing it: **We have not yet eaten, and you are taking the table away from us? Rabba said to him: You have exempted us from reciting** the questions of: **Why is** this night **different [*ma nishtana*],** as you have already asked what is special about the seder night.
 
 The last topic discussed previously was the removal of the *ke'arah*, the seder plate. Although the Mishnah speaks first of bringing what will be dipped and then bringing the *matzah*, *chazeret*, and *charoset*, the Gemara explains this second bringing in terms of removing the plate so that the *tinokot* will take notice. The Rashbam at the bottom of 115b writes:
 
@@ -34,7 +39,7 @@ In practice, right after *ha lachma anya* at the beginning of *maggid*, the plat
 
 Moving now to *yachatz*. Four lines from the bottom of the page, Shmuel states: *lechem she-onim alav devarim harbeh* — "bread over which many things are said." The *haggadah* is recited in relation to the *matzah*, which is why the *matzah* remains uncovered and exposed throughout the telling. It is the symbol around which the story is woven. The term *onim* literally suggests proclaiming, though it may equally connote responding — *v'anita v'amarta lifnei Hashem Elokecha* — since the entire structure of the evening is one of question and response: the child asks *mah nishtanah* and the father responds. Either interpretation fits: the *haggadah* is both proclaimed over the *matzah* and given in answer to the questions.
 
-### Lechem Oni Interpretation
+### Lechem Oni Interpretati…
 
 > **Hebrew/Aramaic:** אַף כָּאן בִּפְרוּסָה. דָּבָר אַחֵר: מָה דַּרְכּוֹ שֶׁל עָנִי הוּא מַסִּיק וְאִשְׁתּוֹ אוֹפָה, אַף כָּאן נָמֵי — הוּא מַסִּיק וְאִשְׁתּוֹ אוֹפָה.
 >
@@ -82,13 +87,13 @@ Rabbi Levi says: *zecher le-tapuach* — to recall the *tapuach*. This refers to
 
 Rabbi Yochanan offers a different rationale: *zecher le-tit* — to recall the mortar. The *charoset* is thick and heavy, resembling the mortar the slaves worked with. Abbaye draws both concerns together: *tzarich le-kahavuye* — it must be made pungent, *zecher le-tapuach*; and *tzarich le-samchu-e* — it must be made thick, *zecher le-tit*.
 
+A *baraita* consistent with Rabbi Yochanan's view adds: *tavlin zecher le-teven* — the spices recall the straw. There may be a wordplay here between *tavlin* and *teven*. The Rambam understands this literally, suggesting that one leaves whole pieces of spice — like cinnamon sticks — uncrushed, to more directly evoke straw. The *charoset* as a whole is described as *zecher le-tit*, recalling the mortar of Egyptian bondage.
+
 ### Charoset Preparation
 
-> **Hebrew/Aramaic:** תַּנְיָא כְּווֹתֵיהּ דְּרַבִּי יוֹחָנָן: תַּבְלִין זֵכֶר לַתֶּבֶן, חֲרוֹסֶת זֵכֶר לַטִּיט. אָמַר רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק, כָּךְ הָיוּ אוֹמְרִים תַּגָּרֵי חָרָךְ שֶׁבִּירוּשָׁלַיִם: בּוֹאוּ וּטְלוּ לָכֶם תַּבְלִין לְמִצְוָה.
+> **Hebrew/Aramaic:** תַּנְיָא כְווֹתֵיהּ דְּרַבִּי יוֹחָנָן: תַּבְלִין זֵכֶר לַתֶּבֶן, חֲרוֹסֶת זֵכֶר לַטִּיט. אָמַר רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק, כָּךְ הָיוּ אוֹמְרִים תַּגָּרֵי חָרָךְ שֶׁבִּירוּשָׁלַיִם: בּוֹאוּ וּטְלוּ לָכֶם תַּבְלִין לְמִצְוָה.
 >
 > **Translation:** It **was taught** in a *baraita* **in accordance with** the opinion of **Rabbi Yoḥanan:** The **spices** used in the *ḥaroset* are **in remembrance of the hay** that our forefathers used for building in Egypt, and the ***ḥaroset*** itself **is in remembrance of the mortar. Rabbi Elazar, son of Rabbi Tzadok, said:** When selling *ḥaroset*, **the small shopkeepers in Jerusalem would say as follows: Come and take spices for yourselves for** the **mitzva.**
-
-A *baraita* consistent with Rabbi Yochanan's view adds: *tavlin zecher le-teven* — the spices recall the straw. There may be a wordplay here between *tavlin* and *teven*. The Rambam understands this literally, suggesting that one leaves whole pieces of spice — like cinnamon sticks — uncrushed, to more directly evoke straw. The *charoset* as a whole is described as *zecher le-tit*, recalling the mortar of Egyptian bondage.
 
 Regarding the preparation: *tzarich le-kahavuye* and *tzarich le-samchu-e* — it must be pungent and thick. Tosafot adds *tzarich le-chapuyei* — it should also have a covering quality. The Yerushalmi notes: *ist avdi zecher le-dam* — there is also the symbolic recall of the blood, and this is why *charoset* is called a *mashkeh* — because wine is added, rendering it a liquid. At the time of eating, one dilutes the thick *charoset* somewhat with wine and vinegar, which is the reason it was already characterized as a *mashkeh* earlier in the discussion.
 
@@ -106,23 +111,23 @@ A remarkable point was raised: Tosafot lived in medieval Europe at a time when J
 >
 > **Translation:** MISHNA: The attendants **poured the second cup for** the leader of the seder, **and here the son asks his father** the questions about the differences between Passover night and a regular night. **And if the son does not have the intelligence** to ask questions on his own, **his father teaches him** the questions.
 
-> **Hebrew/Aramaic:** מָה נִשְׁתַּנָּה הַלַּיְלָה הַזֶּה מִכׇּל הַלֵּילוֹת. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה, הַלַּיְלָה הַזֶּה — כּוּלּוֹ מַצָּה. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת, הַלַּיְלָה הַזֶּה — מָרוֹר. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בָּשָׂר צָלִי שָׁלוּק וּמְבוּשָּׁל, הַלַּיְלָה הַזֶּה — כּוּלּוֹ צָלִי. שֶׁבְּכָל הַלֵּילוֹת אָנוּ מַטְבִּילִין פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים.
->
-> **Translation:** The mishna lists the questions: **Why is this night different from all other nights? As on all other nights we eat leavened bread and *matza*** as preferred; **on this night all** our bread is ***matza*. As on all other nights we eat other vegetables; on this night** we eat **bitter herbs.** The mishna continues its list of the questions. When the Temple was standing one would ask: **As on all other nights we eat** either **roasted, stewed,** or **cooked meat,** but **on this night all** the meat is the **roasted** meat of the Paschal lamb. The final question was asked even after the destruction of the Temple: **As on all other nights we dip** the vegetables in a liquid during the meal only **once;** however, **on this night** we dip **twice.**
-
 Moving now to the Mishnah on *maggid*: *mazgu lo kos sheni* — they pour the second cup of wine, after the *karpas* and *yachatz*, and now *v'kan haben sho'el* — the child asks. If the child does not know how to ask, the father prompts him. *Mah nishtanah halailah hazeh mikol haleilot?* — How is this night different from all other nights? The four distinctions enumerated in the Mishnah's version include: *chametz u'matzah* vs. *kulo matzah*; other vegetables vs. *maror*; roasted, boiled, and cooked meat vs. *kulo tzali*; and either *ein anu chayavin litbol* once or the question about dipping once vs. twice. We will see the Gemara's discussion of the dipping question shortly.
 
 It is worth noting that not all versions of the Mishnah have four questions. The Rif has only three, omitting the *maror* question and retaining *matzah*, *tzali*, and dipping. The *tzali* question is also noteworthy: the Rashbam explains it as belonging to the time of the Beit HaMikdash. However, there is reason to think that even after the *churban*, the practice of eating specifically roasted meat on *leil seder* — *zecher la-pesach* — persisted in some communities, since an earlier Mishnah references *gufo shel pesach* being brought before the participants. That tradition was ultimately set aside under the influence of the Bavli's concern that displaying roasted meat might appear like eating *kodshim bachutz*.
 
 ### Response Structure
 
-> **Hebrew/Aramaic:** וּלְפִי דַּעְתּוֹ שֶׁל בֵּן אָבִיו מְלַמְּדוֹ. מַתְחִיל בִּגְנוּת וּמְסַיֵּים בְּשֶׁבַח. וְדוֹרֵשׁ מֵ״אֲרַמִּי אוֹבֵד אָבִי״, עַד שֶׁיִּגְמוֹר כׇּל הַפָּרָשָׁה כּוּלָּהּ.
+> **Hebrew/Aramaic:** מָה נִשְׁתַּנָּה הַלַּיְלָה הַזֶּה מִכׇּל הַלֵּילוֹת. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה, הַלַּיְלָה הַזֶּה — כּוּלּוֹ מַצָּה. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת, הַלַּיְלָה הַזֶּה — מָרוֹר. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בָּשָׂר צָלִי שָׁלוּק וּמְבוּשָּׁל, הַלַּיְלָה הַזֶּה — כּוּלּוֹ צָלִי. שֶׁבְּכָל הַלֵּילוֹת אָנוּ מַטְבִּילִין פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים.
 >
-> **Translation:** **And according to the intelligence** and the ability **of** the **son, his father teaches him** about the Exodus. When teaching his son about the Exodus. **He begins with** the Jewish people's **disgrace and concludes with** their **glory. And he expounds from** the passage: **"An Aramean tried to destroy my father"** (Deuteronomy 26:5), the declaration one recites when presenting his first fruits at the Temple, **until he concludes** explaining **the entire section.**
+> **Translation:** The mishna lists the questions: **Why is this night different from all other nights? As on all other nights we eat leavened bread and *matza*** as preferred; **on this night all** our bread is ***matza*. As on all other nights we eat other vegetables; on this night** we eat **bitter herbs.** The mishna continues its list of the questions. When the Temple was standing one would ask: **As on all other nights we eat** either **roasted, stewed,** or **cooked meat,** but **on this night all** the meat is the **roasted** meat of the Paschal lamb. The final question was asked even after the destruction of the Temple: **As on all other nights we dip** the vegetables in a liquid during the meal only **once;** however, **on this night** we dip **twice.**
 
 The Mishnah continues: *lefi da'ato shel ben aviv melamdo* — the father teaches according to the capacity of the child. *Matchil bignut u'mesayem beshevach* — he begins with denigration and ends with praise. This is the foundational structural principle of the *haggadah*: a narrative arc from darkness to light, from shame to glory.
 
 ### Dorsh Me'Arami Oved Avi
+
+> **Hebrew/Aramaic:** וּלְפִי דַּעְתּוֹ שֶׁל בֵּן אָבִיו מְלַמְּדוֹ. מַתְחִיל בִּגְנוּת וּמְסַיֵּים בְּשֶׁבַח. וְדוֹרֵשׁ מֵ״אֲרַמִּי אוֹבֵד אָבִי״, עַד שֶׁיִּגְמוֹר כׇּל הַפָּרָשָׁה כּוּלָּהּ.
+>
+> **Translation:** **And according to the intelligence** and the ability **of** the **son, his father teaches him** about the Exodus. When teaching his son about the Exodus. **He begins with** the Jewish people's **disgrace and concludes with** their **glory. And he expounds from** the passage: **"An Aramean tried to destroy my father"** (Deuteronomy 26:5), the declaration one recites when presenting his first fruits at the Temple, **until he concludes** explaining **the entire section.**
 
 The Mishnah then states: *v'doresh me-arami oved avi ad she-yigmor kol haparsha kulo* — one expounds on *Arami oved avi* (Devarim 26:5) until he completes the entire passage. This is a remarkably open-ended, free-form structure. The basic components are: the *mah nishtanah* questions, a narrative from *avdut l'cheirut*, and the expounding of *Arami oved avi* as the textual framework.
 
@@ -134,7 +139,7 @@ This also connects to the broader concept of *talmud Torah*. The *Tosefta* speak
 
 The *mitzvah* of *haggadah* on *leil seder* is distinct from the daily obligation of *zecher li-yetziat mitzrayim* in several respects: it involves the symbols, it involves extended narration rather than mere mention, it involves expounding on verses. But perhaps the most significant distinction is the framework of questioning and responding. *Ki yishalcha bincha machar le-emor* — the *Torah* structures the transmission of the Exodus narrative as a response to a child's question. The entire apparatus of *kedei she-yish'alu ha-tinokot* — removing the plate, pouring the second cup — is constructed to elicit the question that the *Torah* itself expects. The type of engagement generated by genuine curiosity and responsive explanation is qualitatively different from any other mode of transmission.
 
-### Child Asking Before Seeing
+### Child Asking Before Seei…
 
 One might ask: how does the child ask questions about the *tzali* before he has seen it? He has not yet observed the roasted meat. Similarly, he has not yet experienced the second dipping — only one dipping has occurred. Tosafot's resolution is that when the plate is removed and the child asks what is happening, the father feeds him the cues: don't worry, there will be *maror*, there will be dipping, there will be more — and this prompts the child to formulate his questions in advance.
 
@@ -158,13 +163,9 @@ The Gemara: *tanu rabbanan — chacham beno shoalo*. If the son is capable of as
 
 ### Dipping Once vs. Twice
 
-> **Hebrew/Aramaic:** מָה נִשְׁתַּנָּה הַלַּיְלָה הַזֶּה מִכׇּל הַלֵּילוֹת, שֶׁבְּכָל הַלֵּילוֹת אָנוּ מַטְבִּילִין פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים. מַתְקֵיף לַהּ רָבָא: אַטּוּ כׇּל יוֹמָא לָא סַגִּיא דְּלָא מְטַבְּלָא חֲדָא זִימְנָא? אֶלָּא אָמַר רָבָא, הָכִי קָתָנֵי: שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ חַיָּיבִין לְטַבֵּל אֲפִילּוּ פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים.
+> **Hebrew/Aramaic:** מָה נִשְׁתַּנָּה הַלַּיְלָה הַזֶּה מִכׇּל הַלֵּילוֹת, שֶׁבְּכָל הַלֵּילוֹת אָנוּ מַטְבִּילִין פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים. מַתְקֵיף לַהּ רָבָא: אַטּוּ כׇּל יוֹמָא לָא סַגִּיא דְּלָא מְטַבְּלָא חֲדָא זִימְנָא? אֶלָּא אָמַר רָבָא, הָכִי קָתָנֵי: שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ חַיָּיבִין לְטַבֵּל אֲפִילּוּ פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים. מַתְקֵיף לַהּ רַב סָפְרָא: חִיּוּבָא לְדַרְדְּקֵי?! אֶלָּא אָמַר רַב סָפְרָא, הָכִי קָתָנֵי: אֵין אָנוּ מַטְבִּילִין אֲפִילּוּ פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים.
 >
-> **Translation:** The mishna states that one of the questions is: **Why is this night different from all other nights? As on all other nights we dip once;** however, **on this night** we dip **twice. Rava strongly objects to this** statement of the mishna: **Is that to say** that on **every** other **day there is no alternative** but to **dip once?** Is there an obligation to dip at all on other days, as indicated by the wording of the mishna? **Rather, Rava said** that **this is what** the mishna **is teaching: As on all other nights we are not obligated to dip even once;** however, **on this night** we are obligated to dip **twice.**
-
-> **Hebrew/Aramaic:** מַתְקֵיף לַהּ רַב סָפְרָא: חִיּוּבָא לְדַרְדְּקֵי?! אֶלָּא אָמַר רַב סָפְרָא, הָכִי קָתָנֵי: אֵין אָנוּ מַטְבִּילִין אֲפִילּוּ פַּעַם אֶחָת, הַלַּיְלָה הַזֶּה — שְׁתֵּי פְעָמִים.
->
-> **Translation:** **Rav Safra strongly objects to this** explanation: Is it **obligatory for the children?** As previously mentioned, the reason one dips twice is to encourage the children to ask questions. How can this be called an obligation? **Rather, Rav Safra said** that **this is what** the mishna **is teaching: We do not** normally **dip even once;** however, **on this night** we dip **twice.** This wording is preferable, as it indicates the performance of an optional act.
+> **Translation:** The mishna states that one of the questions is: **Why is this night different from all other nights? As on all other nights we dip once;** however, **on this night** we dip **twice. Rava strongly objects to this** statement of the mishna: **Is that to say** that on **every** other **day there is no alternative** but to **dip once?** Is there an obligation to dip at all on other days, as indicated by the wording of the mishna? **Rather, Rava said** that **this is what** the mishna **is teaching: As on all other nights we are not obligated to dip even once;** however, **on this night** we are obligated to dip **twice. Rav Safra strongly objects to this** explanation: Is it **obligatory for the children?** As previously mentioned, the reason one dips twice is to encourage the children to ask questions. How can this be called an obligation? **Rather, Rav Safra said** that **this is what** the mishna **is teaching: We do not** normally **dip even once;** however, **on this night** we dip **twice.** This wording is preferable, as it indicates the performance of an optional act.
 
 The Gemara then takes up the dipping question from the *mah nishtanah*: *she-bechol haleilot anu matbilin paam achat halailah hazeh shtei pe'amim*. Rava challenges this formulation: is one really obligated to dip once every night? *Atu kol yoma lo sagi delo matbe'ei chada zimna?* Therefore, says Rava, the correct reading is: *shebechol haleilot ein anu chayavin litbol afilu paam achat* — on all other nights we are not obligated to dip even once, whereas tonight we dip twice.
 
@@ -182,7 +183,7 @@ Rav Safra then challenges even this: *chiyuva le-dardakei* — does one speak of
 
 ### Shmuel's Approach
 
-Shmuel says: *avadim hayinu* — we were slaves. On this view, the story is about physical freedom and national liberation: from slavery to autonomy, from *avdut* to *cheirut*. Both approaches are present in the *haggadah* as we have it. Immediately after *mah nishtanah*, we recite *avadim hayinu le-Pharaoh be-Mitzrayim* — Shmuel's version, as the immediate and simple answer. Then, before the fuller elaboration, we say *mitchilah ovdei avodah zarah hayu avoteinu ve-achshav kervanu HaMakom la-avodasto* — Rav's version, introducing the theological framing of the narrative. The *keneged arba'ah banim* section appears between these two, perhaps because before launching into an elaborate retelling, one must first calibrate the story to the different people around the table.
+Shmuel says: *avadim hayinu* — we were slaves. On this view, the story is about physical freedom and national liberation: from slavery to autonomy, from *avdut* to *cheirut*. Both approaches are present in the *haggadah* as we have it. Immediately after *mah nishtanah*, we recite *avadim hayinu le-Pharaoh be-Mitzrayim* — Shmuel's version, as the immediate and simple answer. Then, before the fuller elaboration, we say *mitchilah ovdei avodah zarah hayu avoteinu ve-achshav kervanu HaMakom la-avodato* — Rav's version, introducing the theological framing of the narrative. The *keneged arba'ah banim* section appears between these two, perhaps because before launching into an elaborate retelling, one must first calibrate the story to the different people around the table.
 
 ### Rav Nachman Anecdote
 
@@ -206,10 +207,6 @@ Returning to the significance of *doresh me-arami oved avi* as a framework: the 
 >
 > **Translation:** MISHNA: **Rabban Gamliel would say: Anyone who did not say these three matters on Passover has not fulfilled his obligation:** The **Paschal lamb, *matza*, and bitter herbs.** When one mentions these matters, he must elaborate and explain them: The **Paschal lamb** is brought **because the Omnipresent passed over [*pasaḥ*] the houses of our forefathers in Egypt, as it is stated: "That you shall say: It is the sacrifice of the Lord's Paschal offering for He passed over** the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses" (Exodus 12:27).
 
-> **Hebrew/Aramaic:** מַצָּה — עַל שׁוּם שֶׁנִּגְאֲלוּ אֲבוֹתֵינוּ מִמִּצְרַיִם, [שֶׁנֶּאֱמַר: ״וַיֹּאפוּ אֶת הַבָּצֵק אֲשֶׁר הוֹצִיאוּ מִמִּצְרַיִם וְגוֹ׳״]. מָרוֹר — עַל שׁוּם שֶׁמֵּרְרוּ הַמִּצְרִיִּים אֶת חַיֵּי אֲבוֹתֵינוּ בְּמִצְרַיִם, שֶׁנֶּאֱמַר: [״וַיְמָרְרוּ אֶת חַיֵּיהֶם וְגוֹ׳״].
->
-> **Translation:** Rabban Gamliel continues to explain: The reason for ***matza*** is **because our forefathers were redeemed from Egypt, as it is stated: "And they baked the dough that they took out of Egypt** as cakes of *matzot*, for it was not leavened, as they were thrust out of Egypt and could not tarry, neither had they prepare for themselves any victual" (Exodus 12:39). The reason for **bitter herbs** is **because the Egyptians embittered our forefathers' lives in Egypt, as it is stated: "And they embittered their lives** with hard service, in mortar and in brick; in all manner of service in the field, all the service that they made them serve was with rigor" (Exodus 1:14).
-
 *Kol shelo amar shlosha devarim eilu ba-pesach lo yatza yeday chovaso* — whoever did not say these three things on Pesach did not fulfill his obligation. The *rishonim* debate whether this is meant literally or as rhetorical emphasis. But even granting the literal reading, one must identify which *chiyuv* has not been fulfilled. The most natural answer is the *chiyuv* of *haggadah* — the obligation to tell the story. The telling of the story requires explaining the symbolism of what one is eating. Some *rishonim*, however, suggest that not fulfilling this obligation may also mean that one has not properly discharged the *chiyuv* of *achilat matzah*, *achilat maror*, or *achilat pesach* — that the *mitzvah* of eating these foods is not complete without integrating them into the narrative and explicating their significance.
 
 ### Pesach Explanation
@@ -218,21 +215,25 @@ Returning to the significance of *doresh me-arami oved avi* as a framework: the 
 
 ### Matzah & Maror
 
+> **Hebrew/Aramaic:** מַצָּה — עַל שׁוּם שֶׁנִּגְאֲלוּ אֲבוֹתֵינוּ מִמִּצְרַיִם, [שֶׁנֶּאֱמַר: ״וַיֹּאפוּ אֶת הַבָּצֵק אֲשֶׁר הוֹצִיאוּ מִמִּצְרַיִם וְגוֹ׳״]. מָרוֹר — עַל שׁוּם שֶׁמֵּרְרוּ הַמִּצְרִיִּים אֶת חַיֵּי אֲבוֹתֵינוּ בְּמִצְרַיִם, שֶׁנֶּאֱמַר: [״וַיְמָרְרוּ אֶת חַיֵּיהֶם וְגוֹ׳״].
+>
+> **Translation:** Rabban Gamliel continues to explain: The reason for ***matza*** is **because our forefathers were redeemed from Egypt, as it is stated: "And they baked the dough that they took out of Egypt** as cakes of *matzot*, for it was not leavened, as they were thrust out of Egypt and could not tarry, neither had they prepared for themselves any victual" (Exodus 12:39). The reason for **bitter herbs** is **because the Egyptians embittered our forefathers' lives in Egypt, as it is stated: "And they embittered their lives** with hard service, in mortar and in brick; in all manner of service in the field, all the service that they made them serve was with rigor" (Exodus 1:14).
+
 *Matzah al shum she-nig'alu avoteinu, she-ne'emar vayofu et habatzek asher hotziu* — the *matzah* represents the moment of liberation, the dough that had no time to rise. At this point in the narrative, *matzah* emphasizes freedom rather than affliction. *Maror al shum she-mar'ru ha-mitzriyim et chayei avoteinu be-Mitzrayim* — some have *marorin* following the language of the *pasuk* *she-ne'emar vay'mar'ru et chayayhem*. The *maror* recalls the bitterness of slavery.
 
 ### Integration of Symbols
 
-> **Hebrew/Aramaic:** בְּכׇל דּוֹר וָדוֹר חַיָּיב אָדָם לִרְאוֹת אֶת עַצְמוֹ כְּאִילּוּ הוּא יָצָא מִמִּצְרַיִם, שֶׁנֶּאֱמַר: ״וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר בַּעֲבוּר זֶה עָשָׂה ה׳ לִי בְּצֵאתִי מִמִּצְרָיִם״.
->
-> **Translation:** The *tanna* of the mishna further states: **In each and every generation a person must view himself as though he** personally **left Egypt, as it is stated: "And you shall tell your son on that day, saying: It is because of this which the Lord did for me when I came forth out of Egypt"** (Exodus 13:8). In every generation, each person must say: "This which the Lord did for me," and not: This which the Lord did for my forefathers.
-
 The deeper point of *rabban gamliel* is that these symbols must be *pulled into the story* — not merely eaten, not merely displayed *b'fnei kol echad ve-echad*, but actively integrated into the telling and made part of the narrative itself. What he is requiring is not just the presence of the symbols but the articulation of their meaning in the context of the story of redemption.
-
-### Bekhol Dor VaDor
 
 Looking at the *haggadah*: after *tzei u'lemad* and the full *doresh me-arami oved avi*, after *dayenu* and the unfolding narrative, one arrives at *rabban gamliel omer kol shelo amar shlosha devarim eilu* — *pesach she-hayu*, *matzah zu*, *maror zeh* — and then, holding the *kos* and the *matzah*, one says *lefikhakh anachnu chayavim lehodot*. The story has been told, the symbols have been explained and integrated, and *therefore* — *lefikhakh* — one must break into praise, thanks, and *hallel*. This is the logical and experiential culmination of the *seder*'s first half.
 
+## Bekhol Dor VaDor
+
 ### Personal Redemption
+
+> **Hebrew/Aramaic:** בְּכׇל דּוֹר וָדוֹר חַיָּיב אָדָם לִרְאוֹת אֶת עַצְמוֹ כְּאִילּוּ הוּא יָצָא מִמִּצְרַיִם, שֶׁנֶּאֱמַר: ״וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר בַּעֲבוּר זֶה עָשָׂה ה׳ לִי בְּצֵאתִי מִמִּצְרָיִם״.
+>
+> **Translation:** The *tanna* of the mishna further states: **In each and every generation a person must view himself as though he** personally **left Egypt, as it is stated: "And you shall tell your son on that day, saying: It is because of this which the Lord did for me when I came forth out of Egypt"** (Exodus 13:8). In every generation, each person must say: "This which the Lord did for me," and not: This which the Lord did for my forefathers.
 
 *Bekhol dor vador chayav adam lirot et atzmo k'ilu hu yatza mi-Mitzrayim* — in every generation, a person is obligated to see himself as if he personally left Egypt. The *pasuk* cited is *she-ne'emar ve-higadeta le-vincha bayom hahu leimor ba'avur zeh asah Hashem li be-tzeiti mi-Mitzrayim* — "you shall tell your son on that day, saying: it is because of this that Hashem did for *me* when I left Egypt."
 
@@ -240,6 +241,7 @@ Looking at the *haggadah*: after *tzei u'lemad* and the full *doresh me-arami ov
 
 This *pasuk* is the source of the *mitzvah* of *haggadah* itself, and the word *li* — "for me" — is what makes the *mitzvah* personal. It is the directive to make the story one's own, to experience it not as ancient history but as present reality. This connects to the Darru story: only if one genuinely feels that he has been redeemed — has been a slave who was freed and given gold and silver — is he in a position to naturally express the obligation of thanks and praise.
 
+[DAF:116b]
 ### Lefikhakh to Hallel
 
 > **Hebrew/Aramaic:** לְפִיכָךְ אֲנַחְנוּ חַיָּיבִים לְהוֹדוֹת, לְהַלֵּל, לְשַׁבֵּחַ, לְפָאֵר, לְרוֹמֵם, לְהַדֵּר, לְבָרֵךְ, לְעַלֵּה וּלְקַלֵּס לְמִי שֶׁעָשָׂה לַאֲבוֹתֵינוּ וְלָנוּ אֶת כׇּל הַנִּסִּים הָאֵלּוּ. הוֹצִיאָנוּ מֵעַבְדוּת לְחֵרוּת, מִיָּגוֹן לְשִׂמְחָה, וּמֵאֵבֶל לְיוֹם טוֹב, וּמֵאֲפֵלָה לְאוֹר גָּדוֹל, וּמִשִּׁעְבּוּד לִגְאוּלָּה. וְנֹאמַר לְפָנָיו הַלְלוּיָהּ.
@@ -274,13 +276,13 @@ What accounts for this dispute? Beit Hillel's position is the more comprehensibl
 
 ### Tarfon's Version
 
-> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹמֵר: ״כֵּן ה׳ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ יַגִּיעֵנוּ לְמוֹעֲדִים וְלִרְגָלִים אֲחֵרִים הַבָּאִים לִקְרָאתֵנוּ לְשָׁלוֹם, שְׂמֵחִים בְּבִנְיַן עִירֶךָ, וְשָׂשִׂים בַּעֲבוֹדָתֶךְ. וְנֹאכַל שָׁם (מִן הַפְּסָחִים וּמִן הַזְּבָחִים) כּוּ׳״, עַד ״בָּרוּךְ אַתָּה ה׳ גָּאַל יִשְׂרָאֵל״.
->
-> **Translation:** **Rabbi Akiva says** that one recites a different version of this blessing: **So too, the Lord our God and the God of our forefathers will bring us to future holidays and Festivals in peace, happy over the building of Your city and joyous in Your service. And there we will eat from the Paschal lamb and other offerings, etc., until: Blessed are You, Lord, Who redeemed Israel.**
-
 *V'chosem bi-geulah* — the Mishnah requires concluding the first half of *hallel* with the *geulah* blessing. What is that *chatimah*? *Rabbi Tarfon omer: asher ge'alanu ve-ga'al et avoteinu mi-Mitzrayim* — and he did not conclude with a *chatimah*. On Rabbi Tarfon's view, this is a short *bracha* — *baruch atah Hashem elokeinu melech ha-olam asher ge'alanu ve-ga'al et avoteinu mi-Mitzrayim* — focused entirely on the past *geulah*, with no closing formula.
 
 ### Akiva's Version
+
+> **Hebrew/Aramaic:** רַבִּי עֲקִיבָא אוֹמֵר: ״כֵּן ה׳ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ יַגִּיעֵנוּ לְמוֹעֲדִים וְלִרְגָלִים אֲחֵרִים הַבָּאִים לִקְרָאתֵנוּ לְשָׁלוֹם, שְׂמֵחִים בְּבִנְיַן עִירֶךָ, וְשָׂשִׂים בַּעֲבוֹדָתֶךְ. וְנֹאכַל שָׁם (מִן הַפְּסָחִים וּמִן הַזְּבָחִים) כּוּ׳״, עַד ״בָּרוּךְ אַתָּה ה׳ גָּאַל יִשְׂרָאֵל״.
+>
+> **Translation:** **Rabbi Akiva says** that one recites a different version of this blessing: **So too, the Lord our God and the God of our forefathers will bring us to future holidays and Festivals in peace, happy over the building of Your city and joyous in Your service. And there we will eat from the Paschal lamb and other offerings, etc., until: Blessed are You, Lord, Who redeemed Israel.**
 
 Rabbi Akiva adds: *kein Hashem elokeinu ve-elokei avoteinu yagi'einu le-moadim u-le-regalim acherim ha-ba'im likrateinu le-shalom, semeichim be-vinyan irecha ve-sasim be-avodatecha, ve-nochal sham min ha-zevachim u-min ha-pesachim* — and he closes with *baruch atah Hashem ga'al Yisrael*. Rabbi Akiva does not merely lengthen the *bracha* — he adds an entirely new dimension: the orientation toward *future* redemption, toward the rebuilding of the *Beit HaMikdash*. This is deeply characteristic of Rabbi Akiva, who throughout the destruction period — and in the context of Bar Kochba — maintained a constant focus on future *geulah*. The *haggadah* on this view is not only a story culminating in *Har Sinai* but also a story pointing forward. How much the *seder* night's narrative incorporates the theme of future redemption is itself a significant question, and Rabbi Akiva answers it emphatically.
 

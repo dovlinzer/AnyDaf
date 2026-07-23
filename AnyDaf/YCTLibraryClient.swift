@@ -49,6 +49,28 @@ class YCTLibraryClient {
         fetchesTractateLevel: true
     )
 
+    /// Client for the "Iggros Moshe A to Z" podcast — a custom "audio" post type on
+    /// library.yctorah.org (same site/host as `shared`, so it shares the same reference
+    /// taxonomy term tree — hence the same `talmudTermID`).
+    ///
+    /// ⚠️ As of 2026-07-22 this post type is NOT exposed via the WordPress REST API at all
+    /// (confirmed via the site's full `/wp-json/` route index — no `audio` route of any name
+    /// exists yet). Every request through this client will fail until that's fixed on the
+    /// WordPress side (`show_in_rest` needs to be set on the post type's registration).
+    /// `restBase: "audio"` is a **guess** matching the post type's URL slug
+    /// (`library.yctorah.org/audio/[slug]/`) and WordPress's own default behavior of using
+    /// the post type slug as the REST base when none is explicitly configured — but the
+    /// theme/plugin code could set an explicit different `rest_base`. Once REST access is
+    /// enabled, check `/wp-json/wp/v2/types` for the real value and update this constant if
+    /// it differs. See "WordPress Audio Posts" in CLAUDE.md for full context.
+    static let audio = YCTLibraryClient(
+        baseURL: "https://library.yctorah.org/wp-json/wp/v2",
+        source: .audio,
+        talmudTermID: 1899,
+        fetchesTractateLevel: false,
+        restBase: "audio"
+    )
+
     let source: YCTSource
     /// When true, articles tagged directly on the tractate term (not a daf child) are
     /// also fetched and tagged as `.tractateWide(daf: 0)`.
@@ -72,16 +94,20 @@ class YCTLibraryClient {
     /// Term ID for the root "Talmud" node in the reference taxonomy.
     /// `nil` means tractate terms are at root level (no parent filter when searching).
     private let talmudTermID: Int?
+    /// The WordPress REST collection name for this post type (e.g. "posts", "audio").
+    private let restBase: String
 
     /// Per-session term ID caches.
     private var tractateTermCache: [String: Int] = [:]
     private var dafTermCache: [String: [Int: Int]] = [:]
 
-    init(baseURL: String, source: YCTSource, talmudTermID: Int?, fetchesTractateLevel: Bool) {
+    init(baseURL: String, source: YCTSource, talmudTermID: Int?, fetchesTractateLevel: Bool,
+         restBase: String = "posts") {
         self.baseURL = baseURL
         self.source = source
         self.talmudTermID = talmudTermID
         self.fetchesTractateLevel = fetchesTractateLevel
+        self.restBase = restBase
     }
 
     // MARK: - Term Lookup (with in-session caching)
@@ -165,7 +191,7 @@ class YCTLibraryClient {
     func fetchBulkArticles(allTermIDs: [Int], termToDaf: [Int: Int]) async throws -> [YCTArticle] {
         guard !allTermIDs.isEmpty else { return [] }
         let ids = allTermIDs.map(String.init).joined(separator: ",")
-        var components = URLComponents(string: "\(baseURL)/posts")!
+        var components = URLComponents(string: "\(baseURL)/\(restBase)")!
         components.queryItems = [
             URLQueryItem(name: "reference", value: ids),
             URLQueryItem(name: "per_page",  value: "100"),
@@ -192,11 +218,18 @@ class YCTLibraryClient {
 
             if nonEnglishSuffixes.contains(where: { slug.hasSuffix($0) }) { continue }
 
+            let contentRaw = (post["content"] as? [String: Any])?["rendered"] as? String ?? ""
+            let isAudio = contentRaw.range(of: "<audio", options: .caseInsensitive) != nil
+
             let title = stripHTML(titleRaw)
             var excerpt = stripHTML(excerptRaw)
-            if excerpt.isEmpty, let contentObj = post["content"] as? [String: Any],
-               let contentRaw = contentObj["rendered"] as? String {
-                let full = stripHTML(contentRaw)
+            if excerpt.isEmpty, !contentRaw.isEmpty {
+                // Audio posts (podcast episodes) embed a PowerPress player + link/subscribe
+                // boilerplate ahead of any real description — strip it so the fallback
+                // excerpt shows the actual episode blurb instead of "Podcast: Play in new
+                // window | Download ... Subscribe: RSS".
+                let cleaned = isAudio ? stripAudioPlayerBoilerplate(contentRaw) : contentRaw
+                let full = stripHTML(cleaned)
                 excerpt = full.count > 200 ? String(full.prefix(200)).trimmingCharacters(in: .whitespaces) + "…" : full
             }
             let authorName = authorName(from: post)
@@ -217,7 +250,8 @@ class YCTLibraryClient {
                 authorName: authorName,
                 matchType: .tractateWide(daf: primaryDaf),
                 additionalDafs: Array(additionalDafs),
-                source: source
+                source: source,
+                isAudio: isAudio
             ))
         }
 
@@ -228,7 +262,7 @@ class YCTLibraryClient {
 
     /// Fetches the full rendered HTML body of a single post by its WordPress ID.
     func fetchArticleContent(id: Int) async throws -> String {
-        var comps = URLComponents(string: "\(baseURL)/posts/\(id)")!
+        var comps = URLComponents(string: "\(baseURL)/\(restBase)/\(id)")!
         comps.queryItems = [URLQueryItem(name: "_fields", value: "id,content")]
         guard let url = comps.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)
@@ -236,7 +270,9 @@ class YCTLibraryClient {
               let content = json["content"] as? [String: Any],
               let rendered = content["rendered"] as? String
         else { throw YCTError.decodingError }
-        return rendered
+        // Some embedded media (older audio posts especially) still link http:// sources.
+        // App Transport Security blocks plain HTTP, so upgrade before it ever reaches a WebView.
+        return rendered.replacingOccurrences(of: "src=\"http://", with: "src=\"https://")
     }
 
     // MARK: - Private Helpers
@@ -266,6 +302,22 @@ class YCTLibraryClient {
         case .nearby:       return 1
         case .tractateWide: return 2
         }
+    }
+
+    /// Strips the PowerPress audio-player widget and its "Podcast: ... | Download ..." /
+    /// "Subscribe: RSS" link paragraphs from a post's raw content HTML, so an excerpt
+    /// derived from it (when the post has no WordPress excerpt) shows the real episode
+    /// description instead of that boilerplate.
+    private func stripAudioPlayerBoilerplate(_ html: String) -> String {
+        var s = html
+        let patterns = [
+            "(?s)<div class=\"powerpress_player\"[^>]*>.*?</div>",
+            "(?s)<p class=\"powerpress_links[^\"]*\"[^>]*>.*?</p>"
+        ]
+        for pattern in patterns {
+            s = s.replacingOccurrences(of: pattern, with: "", options: .regularExpression)
+        }
+        return s
     }
 
     private func stripHTML(_ html: String) -> String {

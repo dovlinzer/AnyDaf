@@ -4,7 +4,12 @@ import java.util.UUID
 
 // YCT Library Models
 
-enum class YCTSource { LIBRARY, PSAK }
+/** Which YCT site (and, for library.yctorah.org, which post type) an article comes from. */
+enum class YCTSource {
+    LIBRARY, // library.yctorah.org, regular "post" type (articles)
+    PSAK,    // psak.yctorah.org
+    AUDIO    // library.yctorah.org, "audio" custom post type (podcast episodes)
+}
 
 sealed class ResourceMatchType {
     data class Exact(val daf: Int) : ResourceMatchType()
@@ -36,7 +41,9 @@ data class YCTArticle(
     /** Additional daf references beyond the primary one (sorted ascending). */
     val additionalDafs: List<Int> = emptyList(),
     /** Which YCT site this article came from. */
-    val source: YCTSource = YCTSource.LIBRARY
+    val source: YCTSource = YCTSource.LIBRARY,
+    /** True when the post's content contains an embedded audio player (e.g. a podcast episode). */
+    val isAudio: Boolean = false
 )
 
 // Study Models

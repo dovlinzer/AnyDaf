@@ -44,15 +44,15 @@ What is the profound significance of this two-stage structure? If marriage begin
 
 ### Geonic Variants
 
-> **Hebrew/Aramaic:** מַאן דְּלָא חָתֵים, מִידֵּי דְּהָוֵה אַבִּרְכַּת פֵּרוֹת וְאַבִּרְכַּת מִצְוֹת. וּמַאן דְּחָתֵים, מִידֵּי דְּהָוֵה אַקִּידּוּשָׁא.
->
-> **Translation:** **One who does not conclude** the benediction of the betrothal in accordance with the opinion of Rav Aḥa, but instead recites it without a concluding blessing, deems the formula of this blessing **just as** the formula **is in the blessing** recited over **fruits and the blessing** recited over **mitzvot,** in which the words: Blessed are You, Lord, appear only at the beginning of the blessing. **And one who concludes** the benediction of the betrothal in accordance with the opinion of Rav Aḥa, deems the formula of this blessing **just as** the formula **is** in the blessing **of *kiddush*,** in which the words: Blessed are You, Lord, appears both at the beginning and the conclusion of the blessing.
-
 Returning to the text of the *bracha*: the formulation *mekadesh Yisrael al yedei chupa ve'kiddushin* raises an obvious question. We say *mekadesh Yisrael ve'hazmanim* in *kiddush*, but we do not ordinarily say *mekadesh Yisrael al yedei X* for any particular *mitzvah* — we do not say *mekadesh Yisrael al yedei tzitzis* and so on. The *geonim* therefore proposed an alternative reading: the *chasima* is simply *mekadesh Yisrael*, without the *al yedei*. That is a powerful statement on its own — that this *mitzvah* in particular is connected to *kedushas Yisrael*. Marriage and family life taking place within a framework of *kedusha* is what defines and hallows the people.
 
 As for the phrase *al yedei chupa ve'kiddushin* — in which *chupa* precedes *kiddushin* despite *kiddushin* coming first chronologically — the *geonim* offer an ingenious explanation. Originally, they suggest, the text read *be'kiddushin* with a *bet* rather than *ve'kiddushin* with a *vav*. Due to the phonological rules of *dagesh* following a *hey*, the *bet* loses its *dagesh* and becomes a *vet*, which was subsequently misread as a *vav*. The original meaning would therefore have been *chupa bi'kiddushin* — the *chupa* effected through the act of *kiddushin*. Regardless of whether one accepts that reading, the ordering does accomplish something important. By naming *chupa* first, the *bracha* points toward the ultimate destination of married life. And by concluding with *kiddushin*, the *bracha* ends on the word that describes what is actually happening now. Had it read *al yedei kiddushin ve'chupa*, a *birchas erusin* would have ended on the word *chupa* — and that would have been incongruous.
 
 ### Chasima Question
+
+> **Hebrew/Aramaic:** מַאן דְּלָא חָתֵים, מִידֵּי דְּהָוֵה אַבִּרְכַּת פֵּרוֹת וְאַבִּרְכַּת מִצְוֹת. וּמַאן דְּחָתֵים, מִידֵּי דְּהָוֵה אַקִּידּוּשָׁא.
+>
+> **Translation:** **One who does not conclude** the benediction of the betrothal in accordance with the opinion of Rav Aḥa, but instead recites it without a concluding blessing, deems the formula of this blessing **just as** the formula **is in the blessing** recited over **fruits and the blessing** recited over **mitzvot,** in which the words: Blessed are You, Lord, appear only at the beginning of the blessing. **And one who concludes** the benediction of the betrothal in accordance with the opinion of Rav Aḥa, deems the formula of this blessing **just as** the formula **is** in the blessing **of *kiddush*,** in which the words: Blessed are You, Lord, appears both at the beginning and the conclusion of the blessing.
 
 The *gemara* addresses the question of whether *birchas erusin* requires a *chasima* — a closing *baruch atta* at the end. Two positions emerge: *man de'lo chasim* holds that it is like *birchas hapeiros* and *birchas hamitzvos*, which are short *brachot* that do not require a *chasima*. *Man de'chasim* holds that it is like *kiddush*, which does conclude with a *chasima*.
 
@@ -76,7 +76,7 @@ The comparison to *birchas hapeiros*, finally, connects to the previous day's di
 
 > **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: מְבָרְכִין בִּרְכַּת חֲתָנִים בַּעֲשָׂרָה כׇּל שִׁבְעָה. אָמַר רַב יְהוּדָה: וְהוּא שֶׁבָּאוּ פָּנִים חֲדָשׁוֹת.
 >
-> **Translation:** **The Sages taught: One recites the benediction of the grooms in** a quorum of **ten** men **all seven** days of the wedding celebration. **Rav Yehuda said: And that is** the case only **when new faces** who did not previously participate in the festivities **came** to join the celebration.
+> **Translation:** § **The Sages taught: One recites the benediction of the grooms in** a quorum of **ten** men **all seven** days of the wedding celebration. **Rav Yehuda said: And that is** the case only **when new faces** who did not previously participate in the festivities **came** to join the celebration.
 
 The *gemara* states: *mevarachin birchas chasanim be'asara kol shiva* — we recite *birchas chasanim* with ten people throughout the seven days. Note that *birchas erusin* carries no requirement of *borei peri hagafen*. The *sheva brachos*, by contrast, do eventually incorporate wine — though this addition comes from the *geonic* period rather than the *gemara* itself. The reason *borei peri hagafen* became so intrinsic to *sheva brachos*, while the same is not true of *birchas erusin*, is likely because *sheva brachos* is anchored in the context of meals, and wine is the natural accompaniment of a *seudah*.
 
@@ -84,9 +84,13 @@ Rav Yehuda adds: *v'hu shebo panim chadashos* — this applies when new guests h
 
 ### Shehakol/Yotzer
 
-> **Hebrew/Aramaic:** מַאי מְבָרֵךְ? אָמַר רַב יְהוּדָה: ״בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁהַכֹּל בָּרָא לִכְבוֹדוֹ״. וְ״יוֹצֵר הָאָדָם״.
+> **Hebrew/Aramaic:** מַאי מְבָרֵךְ? אָמַר רַב יְהוּדָה: ״בָּרוּךְ אַתָּה ה׳ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁהַכֹּל בָּרָא לִכְבוֹדוֹ״.
 >
-> **Translation:** The Gemara asks: **What blessings does one recite? Rav Yehuda said** that these are the seven blessings: **Blessed are You, Lord our God, King of the universe, Who has created all for His glory.** **And** the second blessing is: Blessed are You…**Creator of mankind.**
+> **Translation:** The Gemara asks: **What blessings does one recite? Rav Yehuda said** that these are the seven blessings: **Blessed are You, Lord our God, King of the universe, Who has created all for His glory.**
+
+> **Hebrew/Aramaic:** וְ״יוֹצֵר הָאָדָם״.
+>
+> **Translation:** **And** the second blessing is: Blessed are You…**Creator of mankind.**
 
 Rav Yehuda then transmits the text of the *brachos* themselves. The first is *shehakol bara lichvodo* — God created everything for His honor. The second is *yotzer ha'adam* — You have created the human being.
 
@@ -132,7 +136,7 @@ Rashi notes the distinction between the *chasima* of the penultimate *bracha* �
 
 ### Baruch Opening
 
-The *gemara* states: *mevarachin birchas chasanim be'asara kol shiva* — we recite *birchas chasanim* with ten people throughout the seven days. A technical question arises: why do some of the *brachos* open with *Baruch atta* while others do not? Tosafos provides a clear answer. The general rule is that a *bracha* which follows immediately upon another — *samuch la'chavertah* — does not require its own opening *Baruch atta*. However, when two consecutive *brachos* are very short, they must each open with *Baruch atta* or they will simply sound like a single continuous *bracha*. If one were to say *Baruch atta Hashem Elokeinu melech ha'olam shehakol bara lichvodo yotzer ha'adam*, without a new *Baruch atta* at *yotzer ha'adam*, the listener would take it for one strange undifferentiated *bracha*. Similarly, if *asher yatzar es ha'adam betzalmo* did not open with *Baruch atta*, one would hear *Baruch atta Hashem yotzer ha'adam asher yatzar* as a single unit. The brevity of those *brachos* requires the explicit opening to signal that a new *bracha* has begun.
+A technical question arises: why do some of the *brachos* open with *Baruch atta* while others do not? Tosafos provides a clear answer. The general rule is that a *bracha* which follows immediately upon another — *samuch la'chavertah* — does not require its own opening *Baruch atta*. However, when two consecutive *brachos* are very short, they must each open with *Baruch atta* or they will simply sound like a single continuous *bracha*. If one were to say *Baruch atta Hashem Elokeinu melech ha'olam shehakol bara lichvodo yotzer ha'adam*, without a new *Baruch atta* at *yotzer ha'adam*, the listener would take it for one strange undifferentiated *bracha*. Similarly, if *asher yatzar es ha'adam betzalmo* did not open with *Baruch atta*, one would hear *Baruch atta Hashem yotzer ha'adam asher yatzar* as a single unit. The brevity of those *brachos* requires the explicit opening to signal that a new *bracha* has begun.
 
 Once *asher yatzar es ha'adam* is clearly a distinct, somewhat longer *bracha*, the shift to *sos tasis* with its entirely new theme is obviously a different *bracha*, and therefore *sos tasis* does not require its own *Baruch atta*.
 
@@ -192,13 +196,13 @@ Having established the *brachos* themselves, the *gemara* now turns to the condi
 
 ### Shehasimcha
 
-> **Hebrew/Aramaic:** מִשִּׁבְעָה וְעַד שְׁלֹשִׁים, בֵּין אָמַר לְהוּ מֵחֲמַת הִלּוּלָא, וּבֵין לָא אָמַר לְהוּ מֵחֲמַת הִלּוּלָא — מְבָרֵךְ ״שֶׁהַשִּׂמְחָה בִּמְעוֹנוֹ״. מִכָּאן וְאֵילָךְ, אִי אָמַר לְהוּ מֵחֲמַת הִלּוּלָא — מְבָרֵךְ ״שֶׁהַשִּׂמְחָה בִּמְעוֹנוֹ״, וְאִי לָא — לָא.
->
-> **Translation:** § Apropos the wedding blessings, the Gemara continues: **From seven** days after the wedding **until** the **thirtieth** day, **whether** the groom **said** to the guests that he is inviting them **due to the wedding celebration or whether he did not say to them** that he is inviting them **due to the wedding celebration, he recites the blessing: In Whose dwelling is joy. From this** point, thirty days after the wedding, **forward, if he said to them** that he is inviting them **due to the wedding celebration [*hillula*], he recites the blessing: In Whose dwelling is joy, and if not, he doesn't.**
-
 In that case, *mivarech she'hasimcha bimono* — one recites the addition of *she'hasimcha bimono* in the *zimmun*, the opening of *birchas hamazon*: *Baruch Elokeinu she'hasimcha bimono ve'she'achalnu mishelo*. And together with that, *asher bara* — the final *bracha* of the *sheva brachos* — is recited on its own. This is precisely why *asher bara sasson ve'simcha* opens with *Baruch atta*: it can be recited independently, as it is in this situation during the week when *panim chadashot* are absent. The fact that *she'hasimcha bimono* functions as an insertion in the *zimmun* anchors the whole structure in the context of the meal, and makes explicit what the *gemara* had previously left implicit: *sheva brachos* is a practice of the meal.
 
 ### Week 2 Month
+
+> **Hebrew/Aramaic:** מִשִּׁבְעָה וְעַד שְׁלֹשִׁים, בֵּין אָמַר לְהוּ מֵחֲמַת הִלּוּלָא, וּבֵין לָא אָמַר לְהוּ מֵחֲמַת הִלּוּלָא — מְבָרֵךְ ״שֶׁהַשִּׂמְחָה בִּמְעוֹנוֹ״. מִכָּאן וְאֵילָךְ, אִי אָמַר לְהוּ מֵחֲמַת הִלּוּלָא — מְבָרֵךְ ״שֶׁהַשִּׂמְחָה בִּמְעוֹנוֹ״, וְאִי לָא — לָא.
+>
+> **Translation:** § Apropos the wedding blessings, the Gemara continues: **From seven** days after the wedding **until** the **thirtieth** day, **whether** the groom **said** to the guests that he is inviting them **due to the wedding celebration or whether he did not say to them** that he is inviting them **due to the wedding celebration, he recites the blessing: In Whose dwelling is joy. From this** point, thirty days after the wedding, **forward, if he said to them** that he is inviting them **due to the wedding celebration [*hillula*], he recites the blessing: In Whose dwelling is joy, and if not, he doesn't.**
 
 *Mishiva ve'ad shloshim* — from after the first week until thirty days: *bein amruhu machmat hilula bein lo amruhu machmat hilula* — whether or not one specifies that the meal is in honor of the wedding, one adds *she'hasimcha bimono* in the *zimmun*. There is no *asher bara* recited independently during this period — at most, the *zimmun* addition. It is worth noting the parallel structure with *aveilus*: the stages of seven days, thirty days, and twelve months mirror the structure of mourning. Whether this reflects a general pattern of how significant life events recede over time, or whether the parallels are more pointed, the *gemara* will make explicit by comparing *birchas chasanim* and *birchas aveilim* directly.
 
@@ -212,9 +216,9 @@ After the first month: *ei amar lehu machmat hilula* — if one explicitly frame
 
 ### Early Erusin
 
-> **Hebrew/Aramaic:** רָבִינָא אִיעֲסַק לֵיהּ לִבְרֵיהּ בֵּי רַב חֲבִיבָא, וּבָרֵיךְ מִשְּׁעַת אֵירוּסִין. אָמַר: קִים לִי בְּגַוַּיְיהוּ דְּלָא הָדְרִי בְּהוּ. לָא אִסְתַּיַּיע מִילְּתָא וְהָדְרִי בְּהוּ.
+> **Hebrew/Aramaic:** רָבִינָא אִיעֲסַק לֵיהּ לִבְרֵיהּ בֵּי רַב חֲבִיבָא, וּבָרֵיךְ מִשְּׁעַת אֵירוּסִין. אָמַר: קִים לִי בְּגַוַּיְיהוּ דְּלָא הָדְרִי בְּהוּ. לָא אִסְתַּיַּיע מִילְּתָא וְהָדְרִי בְּהוּ. רַב תַּחְלִיפָא בַּר מַעְרְבָא אִיקְּלַע לְבָבֶל, בָּרֵיךְ שֵׁית אֲרִיכָתָא. וְלֵית הִלְכְתָא כְּווֹתֵיהּ.
 >
-> **Translation:** The Gemara relates: **Ravina arranged for his son** to marry a woman from **the house of Rav Ḥaviva and recited the blessing from the time of betrothal. He said: I am certain with regard to them, that they will not retract** their commitment and terminate the betrothal, and the wedding will take place on time. Nevertheless, **the matter was not to be, and** ultimately **they retracted** their commitment, and the wedding was canceled.
+> **Translation:** The Gemara relates: **Ravina arranged for his son** to marry a woman from **the house of Rav Ḥaviva and recited the blessing from the time of betrothal. He said: I am certain with regard to them, that they will not retract** their commitment and terminate the betrothal, and the wedding will take place on time. Nevertheless, **the matter was not to be, and** ultimately **they retracted** their commitment, and the wedding was canceled. The Gemara relates: **Rav Taḥlifa, from the West,** i.e., Eretz Yisrael, **happened** to come **to Babylonia,** and he elaborated on the themes of the wedding blessings **and recited six long blessings.** The Gemara concludes: **And the *halakha* is not in accordance with his** opinion. Rather, one must adhere to the formula coined by the Sages.
 
 The *gemara* then asks: from the earlier side, what is the earliest point from which one may begin reciting *she'hasimcha bimono*? The *gemara* considers whether it can be said even before the wedding, in anticipation of it. Rav Papa married off Abba Mar his son, and he recited *she'hasimcha bimono* from the time of *erusin* — at the engagement celebration, which was explicitly *leshem chatan ve'kallah*. The *gemara* responds: *shani Rav Papa de'hava tari'ach lei* — Rav Papa was different because he was wealthy and had people to manage all the preparations; there was no perceived obstacle between *erusin* and *nisuin*, and he was therefore genuinely already in the mode of *simcha*. Similarly, Ravina married off his son to the daughter of Rav Chaviva, and he too recited *she'hasimcha bimono* from the time of *erusin*, saying *kim li be'gavaihu de'la hadri behu* — I know they will not back out. As long as no obstacle is perceived, one is already in the mindset of *simcha* and may say *she'hasimcha bimono*. The *gemara* then adds with wry economy: *le'vasof lo istai'a milsa ve'hadru vehu* — in the end it did not work out and they did back out. The lesson: do not be overconfident.
 
@@ -238,10 +242,6 @@ Rav Nachman says in the name of Rav: *chassanim min haminyan* — the *chasan* c
 
 ### Aveilim Intro
 
-> **Hebrew/Aramaic:** כִּי תַּנְיָא הָהִיא — בְּבִרְכַּת הַמָּזוֹן, כִּי קָאָמַר רַבִּי יוֹחָנָן — בְּשׁוּרָה.
->
-> **Translation:** The Gemara answers: **When that** *baraita* **is taught,** it is **with regard to** combining with others to form a quorum of three to recite **Grace after Meals,** as a mourner is obligated to recite Grace after Meals. However, **when Rabbi Yoḥanan says** that mourners are not included in the tally, it is **with regard to** the quorum of ten men required to form **a line** to comfort the mourners following the burial.
-
 The *gemara* introduces a parallel: *ve'ein aveilim min haminyan* — but for *birchas aveilim*, the *avel* does not count toward the required ten. Here the logic is the inverse: at a house of mourning, there are clearly distinct roles — the *avel* is the mourner, and everyone else is there to console. The *menachamim* constitute the quorum; the *avel* is its recipient.
 
 ### Rav vs Braisa
@@ -250,24 +250,28 @@ The *gemara* raises an objection: a *baraisa* states *chassanim ve'aveilim min h
 
 ### Yitzchak/Yochanan
 
-> **Hebrew/Aramaic:** וְאֶלָּא הָא דְּאָמַר רַבִּי יִצְחָק אָמַר רַבִּי יוֹחָנָן: מְבָרְכִים בִּרְכַּת חֲתָנִים בַּעֲשָׂרָה, וַחֲתָנִים מִן הַמִּנְיָן. וּבִרְכַּת אֲבֵלִים בַּעֲשָׂרָה, וְאֵין אֲבֵלִים מִן הַמִּנְיָן. בְּרָכָה בְּשׁוּרָה מִי אִיכָּא? אֶלָּא כִּי קָאָמַר רַבִּי יוֹחָנָן בִּרְחָבָה.
->
-> **Translation:** **And** the Gemara raises an objection: **However, that which Rabbi Yitzḥak said** that **Rabbi Yoḥanan said: One recites the blessing of the grooms in** a quorum of **ten, and the grooms are included in the tally, and one recites the blessing of the mourners in** a quorum of **ten, and the mourners are not included in the tally. Is there a blessing** recited **in the line** formed to comfort the mourners? Clearly, this statement of Rabbi Yoḥanan cannot be explained as referring to the line. **Rather, when Rabbi Yoḥanan said** that mourners are not included in the tally, it was **with regard to** the blessing recited **in the square** adjacent to the cemetery, where the meal of comfort takes place and various blessings are recited to comfort the mourners. Mourners are not included in the requisite quorum of ten.
-
 The same positions are then attributed to Rav Yitzchak in the name of Rav Yochanan: *chassanim min haminyan ve'ein aveilim min haminyan*. Here too the *gemara* raises the *baraisa* stating that *aveilim* count. But since Rav Yochanan is an *amora*, the solution of *tanna u'palig* is less available, and the *gemara* must find another resolution.
 
 ### Shurah Context
+
+> **Hebrew/Aramaic:** כִּי תַּנְיָא הָהִיא — בְּבִרְכַּת הַמָּזוֹן, כִּי קָאָמַר רַבִּי יוֹחָנָן — בְּשׁוּרָה.
+>
+> **Translation:** The Gemara answers: **When that** *baraita* **is taught,** it is **with regard to** combining with others to form a quorum of three to recite **Grace after Meals,** as a mourner is obligated to recite Grace after Meals. However, **when Rabbi Yoḥanan says** that mourners are not included in the tally, it is **with regard to** the quorum of ten men required to form **a line** to comfort the mourners following the burial.
 
 The *gemara* distinguishes between two contexts. The *baraisa* that counts *aveilim* in the *minyan* refers to *birchas hamazon* — there is a form of *birchas aveilim* that occurs in the context of *birchas hamazon* at the meals during the week of *aveilus*, and there the *avel* does count. When Rav Yochanan says the *avel* does not count, he refers to the *shurah* — the two lines formed by the consolers when the mourners return from the graveside, through which the *avel* passes to receive words of *nichum*. In the *shurah*, the *avel* is clearly distinct from the participants and cannot count.
 
 ### First vs Later
 
-> **Hebrew/Aramaic:** וְאֶלָּא הָא דְּאָמַר רַבִּי יִצְחָק אָמַר רַבִּי יוֹחָנָן: מְבָרְכִין בִּרְכַּת חֲתָנִים בַּעֲשָׂרָה כׇּל שִׁבְעָה, וַחֲתָנִים מִן הַמִּנְיָן. וּבִרְכַּת אֲבֵלִים בַּעֲשָׂרָה כׇּל שִׁבְעָה, וְאֵין אֲבֵלִים מִן הַמִּנְיָן. בִּרְכַּת רְחָבָה כׇּל שִׁבְעָה מִי אִיכָּא? מַשְׁכַּחַתְּ לַהּ בְּפָנִים חֲדָשׁוֹת.
+> **Hebrew/Aramaic:** וְאֶלָּא הָא דְּאָמַר רַבִּי יִצְחָק אָמַר רַבִּי יוֹחָנָן: מְבָרְכִים בִּרְכַּת חֲתָנִים בַּעֲשָׂרָה, וַחֲתָנִים מִן הַמִּנְיָן. וּבִרְכַּת אֲבֵלִים בַּעֲשָׂרָה, וְאֵין אֲבֵלִים מִן הַמִּנְיָן. בְּרָכָה בְּשׁוּרָה מִי אִיכָּא? אֶלָּא כִּי קָאָמַר רַבִּי יוֹחָנָן בִּרְחָבָה.
 >
-> **Translation:** The Gemara asks: **However,** with regard to **that which Rabbi Yitzḥak said** that **Rabbi Yoḥanan said: One recites the blessing of the grooms in** a quorum of **ten all seven** days of celebration, **and the grooms are included in the tally; and one recites the blessing of the mourners all seven** days of mourning **in** a quorum of **ten, and the mourners are not included in the tally, is there a blessing** recited **in the square all seven** days? The meal of comfort and the associated blessings take place directly after the burial, not throughout the seven days of mourning. The Gemara answers: **You find** blessings recited throughout the seven-day mourning period **in** a case where **new faces** who did not attend the burial are present. In that case, eulogies and words of comfort are repeated, and the blessing of the mourners is recited again.
+> **Translation:** **And** the Gemara raises an objection: **However, that which Rabbi Yitzḥak said** that **Rabbi Yoḥanan said: One recites the blessing of the grooms in** a quorum of **ten, and the grooms are included in the tally, and one recites the blessing of the mourners in** a quorum of **ten, and the mourners are not included in the tally. Is there a blessing** recited **in the line** formed to comfort the mourners? Clearly, this statement of Rabbi Yoḥanan cannot be explained as referring to the line. **Rather, when Rabbi Yoḥanan said** that mourners are not included in the tally, it was **with regard to** the blessing recited **in the square** adjacent to the cemetery, where the meal of comfort takes place and various blessings are recited to comfort the mourners. Mourners are not included in the requisite quorum of ten.
 
 The *gemara* then asks: but the *baraisa* that excludes *aveilim* from the *minyan* specifically in the context of *birchas aveilim* — if *birchas aveilim* occurs at *birchas hamazon* and *aveilim* count there, where does this exclusion apply? The *gemara* answers: *ki ka'amar Rabbi Yochanan be'rachava* — Rav Yochanan refers to the *rachava*, the open space or street where the first meal is served to the mourners upon returning from the cemetery. At that first meal, the roles are maximally differentiated — those who feed and console on one side, the *avel* on the other — and therefore the *avel* does not count toward the ten. This is a distinct *bracha* associated with that initial meal, not the *birchas aveilim* of later meals during the week.
 
 ### Mourner Panim
+
+> **Hebrew/Aramaic:** וְאֶלָּא הָא דְּאָמַר רַבִּי יִצְחָק אָמַר רַבִּי יוֹחָנָן: מְבָרְכִין בִּרְכַּת חֲתָנִים בַּעֲשָׂרָה כׇּל שִׁבְעָה, וַחֲתָנִים מִן הַמִּנְיָן. וּבִרְכַּת אֲבֵלִים בַּעֲשָׂרָה כׇּל שִׁבְעָה, וְאֵין אֲבֵלִים מִן הַמִּנְיָן. בִּרְכַּת רְחָבָה כׇּל שִׁבְעָה מִי אִיכָּא? מַשְׁכַּחַתְּ לַהּ בְּפָנִים חֲדָשׁוֹת.
+>
+> **Translation:** The Gemara asks: **However,** with regard to **that which Rabbi Yitzḥak said** that **Rabbi Yoḥanan said: One recites the blessing of the grooms in** a quorum of **ten all seven** days of celebration, **and the grooms are included in the tally; and one recites the blessing of the mourners all seven** days of mourning **in** a quorum of **ten, and the mourners are not included in the tally, is there a blessing** recited **in the square all seven** days? The meal of comfort and the associated blessings take place directly after the burial, not throughout the seven days of mourning. The Gemara answers: **You find** blessings recited throughout the seven-day mourning period **in** a case where **new faces** who did not attend the burial are present. In that case, eulogies and words of comfort are repeated, and the blessing of the mourners is recited again.
 
 The *gemara* then asks: can there really be a *birchas rachava* throughout all seven days? The *baraisa* says *ein aveilim min haminyan* for *birchas aveilim kol shiva* — all seven days. But the *rachava* is only the first meal. The *gemara* answers: *meshkachas la be'panim chadashot* — you find it through *panim chadashot*. Just as *sheva brachos* continues throughout the week when new guests arrive to augment the *simcha*, so too *birchas aveilim* can recur throughout the week when new *menachamim* arrive — new consolers who were not present before. Their arrival creates a new instance of the *mitzvah* of *nichum aveilim*, and a new occasion for the *bracha*. In those cases, the *avel* does not count toward the ten, for the same reason as always: the *avel* and the *menachamim* occupy fundamentally distinct roles, and the quorum must consist of those performing the *mitzvah* of consolation, not its recipient.

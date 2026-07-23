@@ -29,6 +29,9 @@ struct StudyModeView: View {
     /// The header and tab pill are suppressed; used for the iPhone main-page text view.
     var textOnly: Bool = false
     let onDismiss: () -> Void
+    /// Called when an audio resource (e.g. a podcast episode) starts playing in the
+    /// article reader, so the caller can pause the app's main daf/shiur audio.
+    var onEpisodeAudioPlay: () -> Void = {}
     @State private var quizzedSectionIndices: Set<Int> = []
     /// Owned here so it survives loading-state transitions that unmount SectionStudyView.
     /// 0 = Translation, 1 = Summary, 2 = Quiz, 3 = Resources.
@@ -211,7 +214,8 @@ struct StudyModeView: View {
                         withAnimation(.spring(response: 0.35, dampingFraction: 0.85)) {
                             selectedArticle = nil
                         }
-                    }
+                    },
+                    onAudioPlay: onEpisodeAudioPlay
                 )
                 .transition(
                     .asymmetric(
@@ -1673,6 +1677,12 @@ struct SectionStudyView: View {
                         .multilineTextAlignment(.leading)
                     Spacer()
                     HStack(spacing: 4) {
+                        if article.isAudio {
+                            Image(systemName: "headphones")
+                                .font(.caption2)
+                                .foregroundStyle(fg.opacity(0.65))
+                                .accessibilityLabel("Audio episode")
+                        }
                         ForEach(
                             ([article.matchType.referencedDaf] + article.additionalDafs)
                                 .filter { $0 > 0 }.sorted(),

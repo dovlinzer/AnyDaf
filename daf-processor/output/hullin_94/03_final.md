@@ -1,18 +1,23 @@
 # Hullin 94 — Daf Yomi Shiur
+[DAF:94a]
 
 ## Butchers & Gid HaNasheh
 
 ### Trust in Butchers
 
-> **Hebrew/Aramaic:** אֵין הַטַּבָּחִין נֶאֱמָנִין [וְכוּ׳]. אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: חָזְרוּ לוֹמַר נֶאֱמָנִין.
+> **Hebrew/Aramaic:** מַתְנִי׳ שׁוֹלֵחַ אָדָם יָרֵךְ לְגוֹי שֶׁגִּיד הַנָּשֶׁה בְּתוֹכָהּ, מִפְּנֵי שֶׁמְּקוֹמוֹ נִיכָּר.
 >
-> **Translation:** § The mishna stated (89b): **Butchers are not deemed credible** to say that the sciatic nerve was removed; this is the statement of Rabbi Meir. And the Rabbis say: They are deemed credible about the sciatic nerve. **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The Rabbis initially held that butchers are not deemed credible about the sciatic nerve, and subsequently **they retracted** and **said** that butchers are **deemed credible** in this regard.
+> **Translation:** MISHNA: Although it is prohibited for Jews to eat the sciatic nerve, **a** Jewish **person** may **send** the **thigh** of an animal **to a gentile with the sciatic nerve in it,** without concern that the gentile will then sell the thigh to a Jew and the Jew will eat the sciatic nerve. This leniency is **due to** the fact **that the place** of the sciatic nerve **is conspicuous** in the thigh.
 
 The daf proper begins slightly before 94a, picking up at the Mishna on 93b. The Mishna presents a dispute regarding whether butchers may be trusted to have properly removed the *gid hanasheh* (sciatic nerve) from meat they sell. Rabbi Meir holds that they cannot be trusted, while the *Chachamim* hold that they can — reasoning that the removal is not particularly demanding and butchers can therefore be relied upon to perform it.
 
 ### Rabbinic Opinion Shift
 
-Against this backdrop, Rabbi Chiya bar Abba cites Rabbi Yochanan: *chazru lomar ne'emanim* — the Rabbis reversed their position and declared that butchers are indeed trustworthy. This statement of reversal, however, immediately draws a sharp challenge.
+> **Hebrew/Aramaic:** אֵין הַטַּבָּחִין נֶאֱמָנִין [וְכוּ׳]. אָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: חָזְרוּ לוֹמַר נֶאֱמָנִין.
+>
+> **Translation:** § The mishna stated (89b): **Butchers are not deemed credible** to say that the sciatic nerve was removed; this is the statement of Rabbi Meir. And the Rabbis say: They are deemed credible about the sciatic nerve. **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The Rabbis initially held that butchers are not deemed credible about the sciatic nerve, and subsequently **they retracted** and **said** that butchers are **deemed credible** in this regard.
+
+Against this backdrop, Rabbi Chiya bar Abba cites Rabbi Yochanan: the Rabbis reversed their position and declared that butchers are indeed trustworthy. This statement of reversal, however, immediately draws a sharp challenge.
 
 ### Rav Nachman's Challenge
 
@@ -20,11 +25,11 @@ Against this backdrop, Rabbi Chiya bar Abba cites Rabbi Yochanan: *chazru lomar 
 >
 > **Translation:** **Rav Naḥman said** to him: Have the later **generations improved** such that butchers are more reliable than they were in earlier generations? The Gemara answers: **Initially, when** the Rabbis **held in accordance with** the opinion of **Rabbi Meir** that one must scrape around the flesh in order to remove the roots of the sciatic nerve, butchers **were not deemed credible,** due to the exertion involved in this process. **But later** the Rabbis **held in accordance with** the opinion of **Rabbi Yehuda** that it is unnecessary to scrape around the flesh. Consequently, removing the sciatic nerve is not especially arduous, and butchers are deemed credible to say that they removed it.
 
-Rav Nachman responds with a pointed rhetorical question: *achshurei darei*? Do you really think that people have gotten frummer — that the generations have improved? This is a striking piece of *mussar*, particularly apt for *Erev Rosh Hashanah*: the assumption that people tend, over time, toward greater religious rigor runs against the grain of how the *Gemara* generally understands the direction of history.
+Rav Nachman responds with a pointed rhetorical question: Do you really think that people have gotten frummer — that the generations have improved? This is a striking piece of *mussar*, particularly apt for *Erev Rosh Hashanah*: the assumption that people tend, over time, toward greater religious rigor runs against the grain of how the *Gemara* generally understands the direction of history.
 
 ### Meir to Yehuda Shift
 
-The *Gemara* resolves the difficulty by reconstructing the historical trajectory. Originally, the ruling followed Rabbi Meir, who required digging after the *gid hanasheh* to remove all its tiny branches. Under this demanding standard, *me'ikara savruha k'Rabbi Meir*, butchers could not be trusted — the task was simply too exacting. Eventually, the ruling shifted to follow Rabbi Yehuda, whose standard required only the removal of the main *gid* without pursuing all the smaller branches. With this far simpler standard in place, butchers could indeed be trusted: *u'vesof savri k'Rabbi Yehuda*.
+The *Gemara* resolves the difficulty by reconstructing the historical trajectory. Originally, the ruling followed Rabbi Meir, who required digging after the *gid hanasheh* to remove all its tiny branches. Under this demanding standard, butchers could not be trusted — the task was simply too exacting. Eventually, the ruling shifted to follow Rabbi Yehuda, whose standard required only the removal of the main *gid* without pursuing all the smaller branches. With this far simpler standard in place, butchers could indeed be trusted.
 
 ### Yehuda to Meir Reverse
 
@@ -32,7 +37,13 @@ The *Gemara* resolves the difficulty by reconstructing the historical trajectory
 >
 > **Translation:** **There are those who teach** this discussion **with regard to the latter clause** of the mishna, as follows: **And the Rabbis say: They are deemed credible about** the sciatic nerve **and about the** forbidden **fat. Rabbi Ḥiyya bar Abba said** that **Rabbi Yoḥanan said: They** subsequently **retracted** this opinion and **said** that butchers **are not deemed credible. Rav Naḥman says: Today** the butchers **are deemed credible.**
 
-A parallel version of this discussion is applied to the end of the Mishna, where the *Chachamim* state that butchers are trusted both regarding the *gid* and regarding the *chelev* (forbidden fat). Rabbi Chiya bar Abba cites Rabbi Yochanan again, but this time in reverse: *chazru lomar ein ne'emanim* — they reversed their position and said butchers cannot be trusted. Then Rav Nachman adds that *bizman hazeh*, in the present era, *ne'emanim* — they can once again be trusted, returning to the original lenient standard. Rav Nachman's objection resurfaces: *achshurei darei*? How does one explain a return to a more lenient standard without implying that the generations have become more observant?
+A parallel version of this discussion is applied to the end of the Mishna, where the *Chachamim* state that butchers are trusted both regarding the *gid* and regarding the *chelev* (forbidden fat). Rabbi Chiya bar Abba cites Rabbi Yochanan again, but this time in reverse: they reversed their position and said butchers cannot be trusted. Then Rav Nachman adds that in the present era, they can once again be trusted, returning to the original lenient standard. Rav Nachman's objection resurfaces: How does one explain a return to a more lenient standard without implying that the generations have become more observant?
+
+> **Hebrew/Aramaic:** אִכַּשּׁוּר דָּרֵי? מֵעִיקָּרָא סַבְרוּהָ כְּרַבִּי יְהוּדָה, הֲדַר סַבְרוּהָ כְּרַבִּי מֵאִיר.
+>
+> **Translation:** The Gemara asks: Have the later **generations improved** such that butchers are more reliable than they were in earlier generations? The Gemara answers: **Initially they held** that the *halakha* is **in accordance with** the opinion of **Rabbi Yehuda** that one is not required to scrape around the flesh to remove the roots of the sciatic nerve, and therefore butchers were deemed credible to say that they removed it. The Rabbis **then** reversed their opinion and **held** that the *halakha* is **in accordance with** the opinion of **Rabbi Meir** that one is required to scrape around the flesh.
+
+The *Gemara* explains: originally the ruling followed Rabbi Yehuda's easier standard, so butchers were trusted. Subsequently, the ruling shifted to follow Rabbi Meir's more demanding standard — — and butchers were no longer trusted.
 
 ### Old Guard's Memory
 
@@ -40,15 +51,17 @@ A parallel version of this discussion is applied to the end of the Mishna, where
 >
 > **Translation:** As **long as** the butchers **remembered** the opinion **of Rabbi Yehuda** and did not scrape around the flesh to remove the roots of the sciatic nerve, **they were not deemed credible** to say that they removed it; **but now that they have forgotten** the opinion **of Rabbi Yehuda** and have grown accustomed to scraping around the flesh to remove the roots of the sciatic nerve, **they are deemed credible.**
 
-The *Gemara* explains: originally the ruling followed Rabbi Yehuda's easier standard, so butchers were trusted. Subsequently, the ruling shifted to follow Rabbi Meir's more demanding standard — *v'hashta savruha k'Rabbi Meir* — and butchers were no longer trusted.
-
-What makes this shift psychologically and sociologically interesting is the mechanism the *Gemara* identifies. Even after the ruling formally shifted to Rabbi Meir's standard, a segment of the butchering community still remembered the era of Rabbi Yehuda's leniency — *kamei dehava dechirei leih l'Rabbi Yehuda*. These older butchers, consciously or not, continued to perform only the minimal removal they had always known. They were unwilling or unable to adapt to the new and more demanding standard. As a result, during this transitional period, butchers as a class could not be relied upon: some were meeting Rabbi Meir's standard while others were quietly operating according to the older and lighter practice.
+What makes this shift psychologically and sociologically interesting is the mechanism the *Gemara* identifies. Even after the ruling formally shifted to Rabbi Meir's standard, a segment of the butchering community still remembered the era of Rabbi Yehuda's leniency. These older butchers, consciously or not, continued to perform only the minimal removal they had always known. They were unwilling or unable to adapt to the new and more demanding standard. As a result, during this transitional period, butchers as a class could not be relied upon: some were meeting Rabbi Meir's standard while others were quietly operating according to the older and lighter practice.
 
 ### Forgotten Mesorah
 
-Only once sufficient time passed — once the old guard died out and the lenient *mesorah* was no longer actively remembered — could butchers again be trusted. *V'hashta d'anshivah l'Rabbi Yehuda*: now that Rabbi Yehuda's teaching has been forgotten, the only standard any butcher knows is Rabbi Meir's, and therefore they can be assumed to be following it. The lenient *mesorah* was lost — and paradoxically, its loss is what enables trust to be restored.
+Only once sufficient time passed — once the old guard died out and the lenient *mesorah* was no longer actively remembered — could butchers again be trusted. Now that Rabbi Yehuda's teaching has been forgotten, the only standard any butcher knows is Rabbi Meir's, and therefore they can be assumed to be following it. The lenient *mesorah* was lost — and paradoxically, its loss is what enables trust to be restored.
 
 ### Halachic Ruling
+
+> **Hebrew/Aramaic:** וְעַל הַחֵלֶב – חֵלֶב, מַאן דְּכַר שְׁמֵיהּ? הָכִי קָאָמַר: אֵין נֶאֱמָנִין עָלָיו וְעַל הַחֵלֶב, וַחֲכָמִים אוֹמְרִים: נֶאֱמָנִין עָלָיו וְעַל הַחֵלֶב.
+>
+> **Translation:** § The mishna teaches that the Rabbis maintain that butchers are deemed credible about the sciatic nerve **and about the** forbidden **fat.** The Gemara asks: **Who mentioned anything about** forbidden **fat?** The topic of discussion in the mishna until this point is the sciatic nerve, not forbidden fat; why do the Rabbis mention forbidden fat? The Gemara answers: **This** is what the mishna **is saying:** The butchers **are not deemed credible about** the sciatic nerve **or about the** forbidden **fat;** this is the statement of Rabbi Meir. **But the Rabbis say:** The butchers **are deemed credible about** the sciatic nerve **and about the** forbidden **fat.**
 
 This analysis carries significant *halachic* weight. The first version of the history concludes that the ruling is like Rabbi Yehuda — the easier standard — and therefore butchers can be trusted because the task is manageable. The second version, as explained, concludes that the ruling is like Rabbi Meir, with the more demanding requirement to dig after all the branches. This is a substantial *nafka mina*. It is worth noting that as a general rule in *Shas*, when Rabbi Meir disputes another *Tanna* by name, the *halacha* almost never follows him — which makes this outcome surprising.
 
@@ -78,11 +91,7 @@ The Mishna's closing statement about *chelev* raises a natural question. The for
 
 ### Mishna Statement
 
-> **Hebrew/Aramaic:** מַתְנִי׳ שׁוֹלֵחַ אָדָם יָרֵךְ לְגוֹי שֶׁגִּיד הַנָּשֶׁה בְּתוֹכָהּ, מִפְּנֵי שֶׁמְּקוֹמוֹ נִיכָּר.
->
-> **Translation:** MISHNA: Although it is prohibited for Jews to eat the sciatic nerve, **a** Jewish **person** may **send** the **thigh** of an animal **to a gentile with the sciatic nerve in it,** without concern that the gentile will then sell the thigh to a Jew and the Jew will eat the sciatic nerve. This leniency is **due to** the fact **that the place** of the sciatic nerve **is conspicuous** in the thigh.
-
-The Mishna on daf 94a introduces a new case: *sholeach adam yerech lenachri vegid hanasheh besocha mipnei shemekomo nikar* — a person may send a thigh to a non-Jew without first removing the *gid hanasheh*, because the location of the *gid* is clearly visible. Since the *gid* is obvious, any Jew who subsequently encounters the meat will recognize that it has not been removed and will handle it accordingly.
+The Mishna on daf 94a introduces a new case: a person may send a thigh to a non-Jew without first removing the *gid hanasheh*, because the location of the *gid* is clearly visible. Since the *gid* is obvious, any Jew who subsequently encounters the meat will recognize that it has not been removed and will handle it accordingly.
 
 ### Treifa Concern
 
@@ -102,7 +111,7 @@ The broader social context is important for understanding the Mishna's logic. Th
 >
 > **Translation:** GEMARA: The mishna's statement that a Jew may send a thigh to a gentile indicates that if it is **whole, yes,** a Jew may send it to a gentile, but if the thigh has been **cut,** a Jew may **not** send it to a gentile. The Gemara asks: **What are we dealing with? If we say** that the mishna is referring **to a place where** all the butchers are Jewish but **they do not announce** publicly when they have sold to a gentile an animal that turns out to have a wound that will cause it to die within twelve months [*tereifa*], then it is prohibited for Jews to purchase any meat from gentiles, due to the possibility that it was from an animal that was a *tereifa*.
 
-The *Gemara* opens by sharpening the Mishna's rule. The Mishna permits sending a whole thigh to a non-Jew — but why does this not extend to chopped meat? The *Gemara* frames the question: *shleima in, chatukha lo* — a whole thigh, yes; a chopped one, no. The question then becomes: what precisely is the context in which this distinction operates?
+The *Gemara* opens by sharpening the Mishna's rule. The Mishna permits sending a whole thigh to a non-Jew — but why does this not extend to chopped meat? The *Gemara* frames the question: a whole thigh, yes; a chopped one, no. The question then becomes: what precisely is the context in which this distinction operates?
 
 ### Announcement Explanation
 
@@ -110,29 +119,33 @@ The *Gemara* opens by sharpening the Mishna's rule. The Mishna permits sending a
 >
 > **Translation:** Consequently, it should **also** be permitted **to send** to a gentile a thigh that has been **cut, because** Jews **will not come to purchase** it **from him. Rather,** if the mishna is referring **to a place where** all the butchers are Jewish, and **they announce** every time they sell a *tereifa* to a gentile, in which case Jews may purchase meat from the local gentiles when such an announcement is not made, one should **not** be permitted **to send even a whole** thigh to a gentile, due to the concern **that** he might **cut it up and sell it to** Jews who would not realize that it still contains the sciatic nerve.
 
-The *Gemara*'s first move is to identify what kind of community we are dealing with: *bemakom shemachrizin* — a place where announcements are made. These announcements are public notifications to the Jewish community that *treifot* have been sold to non-Jews on a given occasion. The practical effect is that community members know not to purchase meat from non-Jews for a reasonable period following such an announcement, until it can be safely assumed the non-kosher meat has been consumed.
+The *Gemara*'s first move is to identify what kind of community we are dealing with: a place where announcements are made. These announcements are public notifications to the Jewish community that *treifot* have been sold to non-Jews on a given occasion. The practical effect is that community members know not to purchase meat from non-Jews for a reasonable period following such an announcement, until it can be safely assumed the non-kosher meat has been consumed.
 
 ### Announcement Details
+
+> **Hebrew/Aramaic:** אִי בָּעֵית אֵימָא – בִּמְקוֹם שֶׁמַּכְרִיזִין, וְאִי בָּעֵית אֵימָא – בִּמְקוֹם שֶׁאֵין מַכְרִיזִין.
+>
+> **Translation:** The Gemara offers two answers: **If you wish, say** that the mishna is referring **to a place where they announce** every time they sell a *tereifa*; **and if you wish, say** that the mishna is referring **to a place where they do not announce** every time they sell a *tereifa*.
 
 In a community that makes such announcements, the baseline rule is that Jews *may* buy from non-Jews — the announcement system provides the safeguard. When no announcement is in effect, residents can proceed on the assumption that any meat a non-Jew possesses came from the kosher butcher and has not been flagged as *treif*.
 
 ### First Case Logic
 
-Given this framework, the *Gemara* asks: if the community makes announcements, why is there any restriction on selling chopped meat to a non-Jew? In a place with announcements, when no announcement has been made, Jews may freely buy from non-Jews. If the non-Jew then possesses chopped meat, a Jew may purchase it. And since Jews may purchase from non-Jews in this community, one cannot casually sell them meat with a *gid hanasheh* intact — because Jews will buy it back without detecting the *gid*. But then, the *Gemara* presses, why is whole meat permitted? If the non-Jew can simply chop the whole thigh himself and resell the pieces, the protection of the visible *gid* dissolves.
-
-### No Announcements Case
-
 > **Hebrew/Aramaic:** אִיבָּעֵית אֵימָא בִּמְקוֹם שֶׁמַּכְרִיזִין – חִיתּוּכָא דְּגוֹי מִידָּע יְדִיעַ.
 >
 > **Translation:** The Gemara explains: **If you wish, say** that the mishna is referring **to a place where they announce** every time they sell a *tereifa*, and nevertheless it is permitted to send a whole thigh of meat to a gentile. There is no concern that the gentile will sell the thigh to a Jew, because the Jew **would know** that it is non-kosher by the manner of **cutting of the gentile.** Jewish butchers would cut the meat in a distinctive manner that would not be replicated by a gentile who cut the meat.
 
-The *Gemara* therefore shifts to the second scenario: *bemakom she'ein machrizin* — a place where no announcements are made. In such a community, Jews never know whether non-Jews are in possession of *treifot*, and therefore Jews never buy from non-Jews at all. If Jews will never purchase from non-Jews regardless, then the entire concern about resale evaporates. One may freely sell a whole thigh — with or without the *gid* removed — because there is no realistic risk that a Jew will buy it back.
+Given this framework, the *Gemara* asks: if the community makes announcements, why is there any restriction on selling chopped meat to a non-Jew? In a place with announcements, when no announcement has been made, Jews may freely buy from non-Jews. If the non-Jew then possesses chopped meat, a Jew may purchase it. And since Jews may purchase from non-Jews in this community, one cannot casually sell them meat with a *gid hanasheh* intact — because Jews will buy it back without detecting the *gid*. But then, the *Gemara* presses, why is whole meat permitted? If the non-Jew can simply chop the whole thigh himself and resell the pieces, the protection of the visible *gid* dissolves.
 
-But this too generates a difficulty: if Jews never buy from non-Jews in this community, why does it matter whether the sold meat is whole or chopped? In a place where Jews categorically do not purchase from non-Jews, one could sell the non-Jew chopped meat as readily as whole meat. The restriction on chopped meat therefore demands a different explanation.
+### No Announcements Case
 
 > **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין – גְּזֵירָה שֶׁמָּא יִתְּנֶנָּה לוֹ בִּפְנֵי יִשְׂרָאֵל אַחֵר.
 >
 > **Translation:** **And if you wish, say** that the mishna is referring **to a place where they do not announce** every time they sell a *tereifa*, and nevertheless it is prohibited to give the gentile a thigh that has been cut up. The Sages issued a **decree** against doing so, **lest he give it to** the gentile **in the presence of another Jew,** who will think that it is kosher and purchase it from the gentile.
+
+The *Gemara* therefore shifts to the second scenario: a place where no announcements are made. In such a community, Jews never know whether non-Jews are in possession of *treifot*, and therefore Jews never buy from non-Jews at all. If Jews will never purchase from non-Jews regardless, then the entire concern about resale evaporates. One may freely sell a whole thigh — with or without the *gid* removed — because there is no realistic risk that a Jew will buy it back.
+
+But this too generates a difficulty: if Jews never buy from non-Jews in this community, why does it matter whether the sold meat is whole or chopped? In a place where Jews categorically do not purchase from non-Jews, one could sell the non-Jew chopped meat as readily as whole meat. The restriction on chopped meat therefore demands a different explanation.
 
 The first resolution the *Gemara* offers — *makom shemachrizin* — addresses the whole-versus-chopped distinction through the observational capacity of a knowledgeable buyer. In a community with announcements, when no announcement is in effect, Jews do buy from non-Jews. If the non-Jew possesses a whole thigh, a Jew who buys it will see the *gid hanasheh* and know to remove it. If, however, the meat has already been chopped, the *gid* is no longer visible. Moreover — and this is key — there was in that era a recognizable difference between the way Jewish butchers and non-Jewish butchers cut meat. If a Jew saw that pieces had been cut in the manner of a non-Jew, he would recognize that the butchering was done by a non-Jew and would accordingly be on guard: perhaps the *gid* was never removed. By contrast, if the whole thigh was purchased from the non-Jew, the Jew will see the *gid* clearly and act accordingly. This distinction operates in a community already attuned to such distinctions — precisely the kind of community that maintains an announcement system.
 
@@ -144,19 +157,17 @@ The second resolution — for *bemakom she'ein machrizin* — operates different
 >
 > **Translation:** **And if you wish, say** that there is an entirely different reason why one may not send a gentile a cut-up thigh without removing the sciatic nerve: **Because he** thereby **deceives** the gentile. The gentile will think that the Jew has exerted himself to cut up the leg and remove the sciatic nerve and that although the Jew could have eaten the meat himself he decided to send it to the gentile. The gentile will therefore be more appreciative of the gift than he would be if he realized that the sciatic nerve had not been removed. This is **as Shmuel said: It is prohibited to deceive people, and even** to deceive **a gentile.**
 
-The *Gemara* then introduces a third and entirely different explanation: *mishum dekaganiv lei leda'atei* — the concern is one of *gneivat da'at*, of misleading the non-Jew. This explanation sets aside the kashrut dimension entirely. In a community where Jews never buy from non-Jews — *makom she'ein machrizin* — there is no risk of resale. Yet the restriction on selling chopped meat remains. Why?
+The *Gemara* then introduces a third and entirely different explanation: the concern is one of *gneivat da'at*, of misleading the non-Jew. This explanation sets aside the kashrut dimension entirely. In a community where Jews never buy from non-Jews — *makom she'ein machrizin* — there is no risk of resale. Yet the restriction on selling chopped meat remains. Why?
 
 The non-Jew who receives meat from a Jewish butcher will naturally understand the social meaning of the transaction. When a Jewish butcher sends a whole thigh with the *gid* still intact, the non-Jew understands that he is receiving the piece the butcher could not sell to Jewish customers. The *gid* is visible; it is clearly the reason the piece has been redirected. The non-Jew has a realistic picture of what he has received and feels a proportionate sense of gratitude. If, however, the butcher sends chopped pieces from which the *gid* has not been removed but where its absence is no longer detectable, the non-Jew may believe he has received something the butcher could have sold to Jewish customers. He feels a greater degree of gratitude — a gratitude that is, in fact, undeserved, since the butcher was simply disposing of meat he could not sell. This creation of false gratitude is *gneivat da'at*, forbidden even toward a non-Jew.
 
-### Ulla & Yehuda Story
+The *Gemara* anchors this principle in a statement of Shmuel: it is forbidden to mislead people, including a non-Jew. This ruling was not stated explicitly by Shmuel but inferred from a story: Shmuel was crossing a river on a ferry and instructed his attendant to do something kind for the ferryman in appreciation. The attendant apparently gave the ferryman a *treifa* chicken — or, according to another version of the story, instructed him to give the ferryman a drink of *anpaka* (undiluted wine or a healthful beverage) but gave him diluted wine instead. Shmuel was displeased.
 
-> **Hebrew/Aramaic:** וְהָא דִּשְׁמוּאֵל, לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר. דִּשְׁמוּאֵל הֲוָה קָא עָבַר בְּמַבָּרָא, אֲמַר לֵיהּ לְשַׁמָּעֵיהּ: "פַּיְּיסֵיהּ לְמַבּוֹרֹיָה", פַּיְּיסֵיהּ, וְאִיקְּפַד.
+### Third Explanation
+
+> **Hebrew/Aramaic:** וְהָא דִּשְׁמוּאֵל, לָאו בְּפֵירוּשׁ אִיתְּמַר, אֶלָּא מִכְּלָלָא אִיתְּמַר. דִּשְׁמוּאֵל הֲוָה קָא עָבַר בְּמַבָּרָא, אֲמַר לֵיהּ לְשַׁמָּעֵיהּ: ״פַּיְּיסֵיהּ לְמַבּוֹרֹיָה״, פַּיְּיסֵיהּ, וְאִיקְּפַד.
 >
 > **Translation:** **And** the Gemara points out that **this** ruling **of Shmuel was not stated explicitly; rather, it was stated by inference,** i.e., it was inferred based upon the following incident: **Shmuel was** once **crossing** a river **in a ferry [*mavra*]. He said to his attendant: Compensate the ferryman** with an appropriate gift. The attendant **compensated him, but** Shmuel **became angry** with his attendant.
-
-The *Gemara* anchors this principle in a statement of Shmuel: *assur lignov da'at ha-beriyot va'afilu da'ato shel oved kochavim* — it is forbidden to mislead people, including a non-Jew. This ruling was not stated explicitly by Shmuel but inferred from a story: Shmuel was crossing a river on a ferry and instructed his attendant to do something kind for the ferryman in appreciation. The attendant apparently gave the ferryman a *treifa* chicken — or, according to another version of the story, instructed him to give the ferryman a drink of *anpaka* (undiluted wine or a healthful beverage) but gave him diluted wine instead. Shmuel was displeased.
-
-### Alternative Explanation
 
 > **Hebrew/Aramaic:** מַאי טַעְמָא אִיקְּפַד? אָמַר אַבָּיֵי: תַּרְנְגוֹלֶת טְרֵפָה הֲוַאי, וְיַהֲבַהּ נִיהֲלֵיהּ בְּמָר דִּשְׁחוּטָה. רָבָא אָמַר: אַנְפָּקָא אֲמַר לֵיהּ (לאשקויי) [לְאַשְׁקוֹיֵיהּ], וְאַשְׁקְיֵיהּ חַמְרָא מְזִיגָא.
 >
@@ -186,11 +197,11 @@ This framing also sheds light on a broader tension in the *sugyot* of *Bava Kamm
 >
 > **Translation:** § Apropos the prohibition against acting deceitfully, the Gemara cites other statements on this topic. **It is taught** in a *baraita* that **Rabbi Meir would say: A person may not importune [*yesarhev*] another to eat with him,** making it seem as though he genuinely wants his company, **but** in reality he entreats him only because **he knows that** the other **will not eat** with him, i.e., will not accept the invitation. **And** similarly, **one may not** send another person **many gifts** merely because **he knows that** the other **will not accept** them.
 
-A *tanya* introduces a series of teachings in the name of Rabbi Meir on the theme of *gneivat da'at*. Rabbi Meir teaches: a person should not press his friend to come eat with him *veyodeia bo she-eino so'ed* — when he knows that the friend is unable to accept the invitation. The critical factor is not whether the invitation is sincere in some general sense, but whether the host knows for certain that the friend cannot come. There is no prohibition against inviting someone to a celebration even knowing they will likely decline, if one genuinely wishes they could attend. The problem arises when the host issues the invitation knowing with certainty it will not be accepted, purely to generate an unearned sense of being honored or cared for.
+A *tanya* introduces a series of teachings in the name of Rabbi Meir on the theme of *gneivat da'at*. Rabbi Meir teaches: a person should not press his friend to come eat with him when he knows that the friend is unable to accept the invitation. The critical factor is not whether the invitation is sincere in some general sense, but whether the host knows for certain that the friend cannot come. There is no prohibition against inviting someone to a celebration even knowing they will likely decline, if one genuinely wishes they could attend. The problem arises when the host issues the invitation knowing with certainty it will not be accepted, purely to generate an unearned sense of being honored or cared for.
 
 ### Unwanted Gifts
 
-Similarly, a person should not send a large number of gifts *veyodeia she-eino mekabel* — knowing the recipient will not accept them, but expecting the recipient to feel a sense of gratitude or indebtedness nonetheless from the gesture itself.
+Similarly, a person should not send a large number of gifts knowing the recipient will not accept them, but expecting the recipient to feel a sense of gratitude or indebtedness nonetheless from the gesture itself.
 
 ### Pre-Sold Barrels
 
@@ -202,23 +213,27 @@ A person should not open barrels of wine for a guest when those barrels are alre
 
 ### Empty Vessel Cases
 
+> **Hebrew/Aramaic:** תָּנוּ רַבָּנַן: לֹא יֵלֵךְ אָדָם לְבֵית הָאֵבֶל, וּבְיָדוֹ לָגִין הַמִּתְקַשְׁקֵשׁ. וְלֹא יְמַלְּאֶנּוּ מַיִם, מִפְּנֵי שֶׁמַּתְעֵהוּ. וְאִם יֵשׁ שָׁם חֶבֶר עִיר – מוּתָּר.
+>
+> **Translation:** **The Sages taught** in a *baraita*: **A person may not go to a house of mourning with a** wine **jug [*lagin*] in his hand that** is mostly empty and where the small amount of wine **rattles** about, because the mourner will think that his visitor is bringing him a full jug of wine. **And he may not fill up** that jug of wine with **water, because he** thereby **misleads** the mourner into thinking he has brought him a full jug of undiluted wine. **But if there is a crowd of people [*ḥever ir*]** and the guest wants to honor the mourner in their presence, **it is permitted.**
+
 A person should not go to a mourner's house carrying a *lagin* — a container of wine — that is audibly or visibly not full, presenting it as a gift. And a person should not fill such a container with water and present it as wine. In both cases, the recipient will eventually discover the deception — in the second case almost immediately upon tasting. This raises a genuine analytical question: if the deception is so quickly exposed, what exactly is the *gneivat da'at*? The *Gemara* seems to be working with one of two possibilities: either even a momentary false impression of generosity constitutes *gneivat da'at*, since the recipient experienced an unearned gratitude however briefly; or the concern is that the recipient, being a mourner in a vulnerable state, will charitably assume the giver made an honest mistake, and some residual sense of goodwill therefore survives even after the discovery.
 
 ### Honor Exception
+
+An important exception is introduced: if the gesture is done for the recipient's honor, it is permitted. The classic illustration is opening a pre-sold barrel publicly, in front of assembled guests, so that the honoree is seen to be treated with great distinction. Even though the host suffers no real economic loss from the gesture, the guest receives something genuine and tangible: the public honor of being seen as important enough to warrant a freshly opened barrel. The benefit conferred is real, even if its cost to the host is zero. On this reading, the *bishvil kevodo* exception does not require disclosure — the honor being given is itself the substance of the gift, and the recipient benefits from it regardless of the economic mechanics.
+
+### Ulla & Yehuda Story
 
 > **Hebrew/Aramaic:** אִינִי? וְהָא עוּלָּא אִיקְּלַע לְבֵי רַב יְהוּדָה, פָּתַח לוֹ חָבִיּוֹת הַמְּכוּרוֹת לַחֶנְוָנִי! אוֹדוֹעֵי אוֹדְעֵיהּ, וְאִיבָּעֵית אֵימָא: שָׁאנֵי עוּלָּא דְּחַבִּיב לֵיהּ לְרַב יְהוּדָה, דִּבְלָאו הָכִי נָמֵי (פַּתּוֹחֵי) מִפְתָּח [הֲוָה פָּתַח] לֵיהּ.
 >
 > **Translation:** The Gemara asks: **Is that so? But didn't Ulla happen** to come **to the house of Rav Yehuda,** and Rav Yehuda **opened barrels** of wine **for** Ulla **that** had already been **sold to a storekeeper?** The Gemara answers: Rav Yehuda **notified** Ulla that he was not opening the barrels especially for him. **And if you wish, say** that **Ulla is different** from an ordinary guest **because he was** very **dear to Rav Yehuda, so that even without this,** i.e., even if he had not already sold the barrels to a storekeeper, Rav Yehuda would have **opened** the barrels **for him.**
 
-An important exception is introduced: *im bishvil kevodo mutar* — if the gesture is done for the recipient's honor, it is permitted. The classic illustration is opening a pre-sold barrel publicly, in front of assembled guests, so that the honoree is seen to be treated with great distinction. Even though the host suffers no real economic loss from the gesture, the guest receives something genuine and tangible: the public honor of being seen as important enough to warrant a freshly opened barrel. The benefit conferred is real, even if its cost to the host is zero. On this reading, the *bishvil kevodo* exception does not require disclosure — the honor being given is itself the substance of the gift, and the recipient benefits from it regardless of the economic mechanics.
-
-### Ulla & Yehuda Story
-
 The *Gemara* raises a challenge: was it not the case that Ulla came to the house of Rav Yehuda, and Rav Yehuda opened barrels that had already been pre-sold to the shopkeeper? This appears to violate the rule just stated. The *Gemara* resolves the challenge in two ways.
 
 ### Alternative Explanation
 
-The first resolution: *oduei odaiei* — Rav Yehuda told Ulla about it. Since Ulla was informed, there was no *gneivat da'at*. The second resolution: *shani Ulla dechaviv leh leRav Yehuda* — Ulla was especially beloved to Rav Yehuda, such that *debilav hachi nami patach leh* — he would have opened a new barrel for Ulla regardless of any pre-sale arrangement. If the host would have incurred the cost anyway out of genuine affection, the fact that circumstances made the gesture economically costless does not create a problem of *gneivat da'at*. The gratitude the guest feels is fully merited, since the host's willingness to sacrifice was real even if no actual sacrifice was made.
+The first resolution: Rav Yehuda told Ulla about it. Since Ulla was informed, there was no *gneivat da'at*. The second resolution: Ulla was especially beloved to Rav Yehuda, such that he would have opened a new barrel for Ulla regardless of any pre-sale arrangement. If the host would have incurred the cost anyway out of genuine affection, the fact that circumstances made the gesture economically costless does not create a problem of *gneivat da'at*. The gratitude the guest feels is fully merited, since the host's willingness to sacrifice was real even if no actual sacrifice was made.
 
 This second resolution raises an interesting practical question. A host who discloses such an arrangement to a guest — saying, for instance, "I want you to know I had already sold this wine, so opening it is no loss to me" — might inadvertently diminish the warmth of the moment rather than enhance it. Those who are *machmir* about *gneivat da'at* in such circumstances and make the disclosure are doing so out of genuine scruple, but it is worth appreciating the interpersonal complexity involved.
 
@@ -232,7 +247,7 @@ The *Gemara* cites a *braita*: a person should not sell his friend a sandal made
 
 ### Sandal Reasons
 
-The prohibition rests on two distinct grounds: first, *mipnei shemat'eihu* — it is straightforward misrepresentation, closer to commercial fraud than to *gneivat da'at* in the interpersonal sense; and second, *mipnei hasakana* — there is a concern about physical danger, since the body of an animal that died naturally may harbor disease or other harmful matter that could transfer to the wearer's foot through the leather.
+The prohibition rests on two distinct grounds: first, it is straightforward misrepresentation, closer to commercial fraud than to *gneivat da'at* in the interpersonal sense; and second, there is a concern about physical danger, since the body of an animal that died naturally may harbor disease or other harmful matter that could transfer to the wearer's foot through the leather.
 
 ### Oil on Wine Deception
 
@@ -240,7 +255,7 @@ The prohibition rests on two distinct grounds: first, *mipnei shemat'eihu* — i
 >
 > **Translation:** **And** furthermore **a person may not send a barrel of wine to another with oil floating at its mouth,** such that the recipient thinks that it is a barrel of oil. There was **an incident involving a certain** individual **who sent a barrel of wine to another with oil floating at its mouth, and that** recipient, thinking it was a barrel of oil, **went and invited guests** to share **it** with him, **and** the guests **arrived.** When the host went to bring them oil, **he found that it was** a barrel **of wine** rather than oil, **and** in his shame at not having oil for them, **he hanged himself** and died.
 
-A person should not send his friend, as a gift, a barrel of wine with a layer of oil floating on top — *chavis shel yayin v'shemen tzaf al piha*. Oil is more expensive than wine; oil also floats on wine, just as it floats on water. A recipient who opens such a barrel will see the oil on top and assume he has received a barrel of oil — a valuable gift. Only when he works through the barrel will he discover that it is predominantly wine. Once again the question arises: since the deception will ultimately be discovered, what exactly has been achieved? Several possibilities suggest themselves. One is that the recipient had the false impression for a period of time and acted on it — perhaps inviting guests, as in the story below, on the basis of the anticipated windfall. Another is that even once discovered, some residue of the initial positive feeling remains. A third, consistent with the *Rambam*'s framing, is that the problem is the act of deception itself — the engagement with dishonesty — regardless of whether it ultimately succeeds in producing lasting false gratitude.
+A person should not send his friend, as a gift, a barrel of wine with a layer of oil floating on top. Oil is more expensive than wine; oil also floats on wine, just as it floats on water. A recipient who opens such a barrel will see the oil on top and assume he has received a barrel of oil — a valuable gift. Only when he works through the barrel will he discover that it is predominantly wine. Once again the question arises: since the deception will ultimately be discovered, what exactly has been achieved? Several possibilities suggest themselves. One is that the recipient had the false impression for a period of time and acted on it — perhaps inviting guests, as in the story below, on the basis of the anticipated windfall. Another is that even once discovered, some residue of the initial positive feeling remains. A third, consistent with the *Rambam*'s framing, is that the problem is the act of deception itself — the engagement with dishonesty — regardless of whether it ultimately succeeds in producing lasting false gratitude.
 
 ### Oil-Wine Tragedy
 
@@ -252,7 +267,7 @@ The *Gemara* records a case in which someone sent a friend a barrel of wine with
 >
 > **Translation:** The *baraita* continues: **And guests are not permitted to give** some **of** the food **that is** placed **before them to the son or to the daughter of the host unless they** first **receive permission from the host.**
 
-The *baraita* transitions to a related category: guests may not give from the food placed before them to the children of the host — *ella im ken natlu reshut miba'al ha-bayis* — unless the host has explicitly granted permission. The reasoning is straightforward: the host has taken care to provide particular food for the honored guest, often at greater expense and effort than what the household children receive. The guest's food belongs, in a social sense, to the occasion and to the guest-host relationship. Redirecting it to the children without permission violates the host's intentions and the social meaning of the gesture, even if the food is technically in the guest's hands.
+The *Gemara* transitions to a related category: guests may not give from the food placed before them to the children of the host — unless the host has explicitly granted permission. The reasoning is straightforward: the host has taken care to provide particular food for the honored guest, often at greater expense and effort than what the household children receive. The guest's food belongs, in a social sense, to the occasion and to the guest-host relationship. Redirecting it to the children without permission violates the host's intentions and the social meaning of the gesture, even if the food is technically in the guest's hands.
 
 ### Egg Tragedy
 
@@ -268,7 +283,7 @@ The *Gemara* records a devastating illustration. Someone invited three guests du
 >
 > **Translation:** **Rabbi Eliezer ben Yaakov said: For this matter** of giving food to the child of the host, **three Jewish souls were killed.** The Gemara asks: **What does this** statement **teach us?** It is obvious from the incident that three people were killed. The Gemara answers: It teaches **that the entire** *baraita* **is** taught by **Rabbi Eliezer ben Yaakov.**
 
-Rabbi Elazar ben Yaakov concludes: *al davar zeh nehergu gimel nefashot m'Yisrael* — because of this transgression, three Jewish lives were lost. The *Gemara* asks: surely this is self-evident from the story just told, so why does Rabbi Elazar ben Yaakov bother stating it? The answer: his statement is not meant to add new information but to attribute the entire *braita* to Rabbi Elazar ben Yaakov, establishing him as its author by giving him the final word. This is the *Gemara*'s way of signaling that the teaching as a whole is his.
+Rabbi Elazar ben Yaakov concludes: because of this transgression, three Jewish lives were lost. The *Gemara* asks: surely this is self-evident from the story just told, so why does Rabbi Elazar ben Yaakov bother stating it? The answer: his statement is not meant to add new information but to attribute the entire *braita* to Rabbi Elazar ben Yaakov, establishing him as its author by giving him the final word. This is the *Gemara*'s way of signaling that the teaching as a whole is his.
 
 ---
 
@@ -284,7 +299,7 @@ A *braita* now revisits the rules regarding the *gid hanasheh* in the context of
 
 ### Non-Jew Exception
 
-For a non-Jew, the rule is different: *bein chatukha bein shleima eino tzarich litol heimenu gid hanasheh* — whether whole or chopped, one need not remove the *gid hanasheh* before sending or selling. The *braita* takes this as its baseline, the explanation for which the *Gemara* will shortly work out. The presumption appears to be that we are operating in a context where Jews do not purchase from non-Jews, so there is no risk that a Jew will receive the meat and be misled.
+For a non-Jew, the rule is different: whether whole or chopped, one need not remove the *gid hanasheh* before sending or selling. The *braita* takes this as its baseline, the explanation for which the *Gemara* will shortly work out. The presumption appears to be that we are operating in a context where Jews do not purchase from non-Jews, so there is no risk that a Jew will receive the meat and be misled.
 
 ### Treifa Prohibition
 
@@ -292,8 +307,9 @@ For a non-Jew, the rule is different: *bein chatukha bein shleima eino tzarich l
 >
 > **Translation:** **And** it was **due to two factors** that the Sages **said** that **one may not sell** meat from unslaughtered **animal carcasses or *tereifot* to a gentile: One, because it misleads him,** as he thinks that it is kosher meat, which is more desirable; **and another** factor is the concern **lest** the gentile **then sell** the meat **to another Jew,** who will think it is kosher since it originally was sold by a Jew.
 
-The *braita* then states: there are two reasons one may not sell *neveilot* (animals that died without proper slaughter) or *treifot* to non-Jews. The first reason is *mipnei shemat'eihu* — one misleads them, creating the false impression that they are receiving normal, sale-worthy meat when in fact they are receiving the butcher's discards. The second reason is *shema yachzor v'yimkarenah l'Yisrael acher* — one fears the non-Jew will turn around and sell it to another Jew. Here, in this *braita*, the *gneivat da'at* rationale appears explicitly alongside the resale concern — confirming that the concern about misleading the non-Jew regarding the quality of the gift is indeed operative.
+The *braita* then states: there are two reasons one may not sell *neveilot* (animals that died without proper slaughter) or *treifot* to non-Jews. The first reason is one misleads them, creating the false impression that they are receiving normal, sale-worthy meat when in fact they are receiving the butcher's discards. The second reason is one fears the non-Jew will turn around and sell it to another Jew. Here, in this *braita*, the *gneivat da'at* rationale appears explicitly alongside the resale concern — confirming that the concern about misleading the non-Jew regarding the quality of the gift is indeed operative.
 
+[DAF:94b]
 ### Don't Send Non-Jew
 
 > **Hebrew/Aramaic:** וְלֹא יֹאמַר אָדָם לְגוֹי ״קַח לִי בְּדִינָר זֶה בָּשָׂר״, מִפְּנֵי שְׁנֵי דְבָרִים:
@@ -304,7 +320,7 @@ The *braita* then states: there are two reasons one may not sell *neveilot* (ani
 >
 > **Translation:** **One** factor is **because of the oppressors,** i.e., the concern that perhaps the gentile will keep the money for himself and force the merchant to give him the meat without payment. **And another** factor is **lest** the merchant **sell him** meat from unslaughtered **carcasses or *tereifot*** without realizing that the gentile is purchasing the meat on behalf of a Jew.
 
-Finally, the *braita* states: a person should not send a non-Jew to a Jewish butcher with money to purchase meat on his behalf. Two concerns underlie this prohibition. First, *mipnei ha'anasim* — the concern about coercion: in the specific social context of the *braita*, where Roman domination was a reality, a non-Jew might use his position to compel the store owner to give him the meat without actually paying, pocketing the money for himself. Second, *shema yimkru lo neveilot u'treifot* — the butcher, seeing that the buyer is a non-Jew, may sell him non-kosher meat; the non-Jew will then bring that meat back to the Jew who sent him, who will consume it thinking it is kosher.
+Finally, the *braita* states: a person should not send a non-Jew to a Jewish butcher with money to purchase meat on his behalf. Two concerns underlie this prohibition. First, the concern about coercion: in the specific social context of the *braita*, where Roman domination was a reality, a non-Jew might use his position to compel the store owner to give him the meat without actually paying, pocketing the money for himself. Second, the butcher, seeing that the buyer is a non-Jew, may sell him non-kosher meat; the non-Jew will then bring that meat back to the Jew who sent him, who will consume it thinking it is kosher.
 
 ---
 
@@ -320,21 +336,25 @@ The *Gemara* now observes that the *braita* just cited creates a set of apparent
 
 ### Case One Logic
 
+> **Hebrew/Aramaic:** אֶלָּא פְּשִׁיטָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין, אֵימָא מְצִיעֲתָא: מִפְּנֵי שְׁנֵי דְבָרִים אָמְרוּ אֵין מוֹכְרִין נְבֵלוֹת וּטְרֵפוֹת לְגוֹי: אֶחָד מִפְּנֵי שֶׁמַּטְעֵהוּ, וְאֶחָד שֶׁמָּא יַחְזוֹר וְיִמְכְּרֶנָּה לְיִשְׂרָאֵל אַחֵר.
+>
+> **Translation:** **Rather,** it is **obvious** that it is referring **to a place where they do not announce** every time they sell non-kosher meat, and in such a place a Jew would not purchase meat from a gentile. But **say the middle clause** of the *baraita*: And it was **due to two factors** that the Sages **said** that **one may not sell** meat from unslaughtered **animal carcasses or *tereifot* to a gentile: One** is **because it misleads him; and another** is the concern **lest** the gentile **then sell** the meat **to another Jew,** who will think it is kosher since it originally was sold by a Jew.
+
 The first clause permits sending a non-Jew a whole thigh without removing the *gid hanasheh*. For this to make sense — that is, for there to be no concern that a Jew will subsequently buy the meat from the non-Jew and be misled by an unremoved *gid* — the operative assumption must be that Jews do *not* buy from non-Jews. The clause only works in a community where Jews never purchase from non-Jewish sources.
 
 ### Case Two Logic
 
-> **Hebrew/Aramaic:** אֶלָּא פְּשִׁיטָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין, אֵימָא מְצִיעֲתָא: מִפְּנֵי שְׁנֵי דְבָרִים אָמְרוּ אֵין מוֹכְרִין נְבֵילוֹת וּטְרֵפוֹת לְגוֹי: אֶחָד מִפְּנֵי שֶׁמַּטְעֵהוּ, וְאֶחָד שֶׁמָּא יַחְזוֹר וְיִמְכְּרֶנָּה לְיִשְׂרָאֵל אַחֵר.
+> **Hebrew/Aramaic:** וְאִי בִּמְקוֹם שֶׁאֵין מַכְרִיזִין – הָא לָא אָתֵי לְמִיזְבַּן מִינֵּיהּ! אֶלָּא פְּשִׁיטָא בִּמְקוֹם שֶׁמַּכְרִיזִין.
 >
-> **Translation:** **Rather,** it is **obvious** that it is referring **to a place where they do not announce** every time they sell non-kosher meat, and in such a place a Jew would not purchase meat from a gentile. But **say the middle clause** of the *baraita*: And it was **due to two factors** that the Sages **said** that **one may not sell** meat from unslaughtered **animal carcasses or *tereifot* to a gentile: One** is **because it misleads him; and another** is the concern **lest** the gentile **then sell** the meat **to another Jew,** who will think it is kosher since it originally was sold by a Jew.
+> **Translation:** **But if** the *baraita* is referring **to a place where they do not announce** every time they sell non-kosher meat to a gentile, a Jew **will not come to purchase** the meat **from** the gentile. **Rather,** it is **obvious** that the *baraita* is referring **to a place where they announce** every time they sell non-kosher meat.
 
 The second clause prohibits selling non-kosher meat to non-Jews, with one stated reason being the fear that the non-Jew will resell it to a Jew. For this concern to be operative, Jews must buy from non-Jews. The clause therefore presupposes a community in which Jews *do* purchase from non-Jewish sources.
 
 ### Case Three Logic
 
-> **Hebrew/Aramaic:** וְאִי בִּמְקוֹם שֶׁאֵין מַכְרִיזִין – הָא לָא אָתֵי לְמִיזְבַּן מִינֵּיהּ! אֶלָּא פְּשִׁיטָא בִּמְקוֹם שֶׁמַּכְרִיזִין.
+> **Hebrew/Aramaic:** אֵימָא סֵיפָא: לֹא יֹאמַר אָדָם לְגוֹי ״קַח לִי בְּדִינָר זֶה בָּשָׂר״ מִפְּנֵי שְׁנֵי דְבָרִים, אֶחָד – מִפְּנֵי הָאַנָּסִין, וְאֶחָד – שֶׁמָּא מוֹכְרִין לוֹ נְבֵילוֹת וּטְרֵפוֹת, וְאִי בִּמְקוֹם שֶׁמַּכְרִיזִין, אִי אִיתָא דַּהֲוָה טְרֵפָה – אַכְרוֹזֵי הֲווֹ מַכְרְזִי!
 >
-> **Translation:** **But if** the *baraita* is referring **to a place where they do not announce** every time they sell non-kosher meat to a gentile, a Jew **will not come to purchase** the meat **from** the gentile. **Rather,** it is **obvious** that the *baraita* is referring **to a place where they announce** every time they sell non-kosher meat.
+> **Translation:** But **say the latter clause:** And similarly, **a person may not say to a gentile: Purchase meat for me with this dinar, due to two factors. One** factor is **because of the oppressors, and another** factor is **lest** the merchant **sell him** meat from unslaughtered **carcasses or *tereifot*** without realizing that the gentile is purchasing the meat on behalf of a Jew. **But if** it is referring **to a place where they announce** every time non-kosher meat is sold, **if** it would happen **that it was a *tereifa*** the butchers **would have announced** the fact, and the Jew would know not to eat that meat.
 
 The third clause — prohibiting a Jew from sending a non-Jew to the butcher — includes as one of its concerns the fear that the butcher will sell the non-Jew *neveilot* or *treifot*, which will then be brought back to the Jew who commissioned the purchase. For this to be a real worry, Jews must actually receive and consume meat purchased by non-Jews on their behalf. Again, this implies that Jews are in practice obtaining meat through non-Jewish intermediaries — which assumes that Jews do buy from non-Jews.
 
@@ -342,11 +362,15 @@ The *Gemara* thus has before it a *braita* in which the first clause assumes Jew
 
 ### Abaye Resolution
 
+> **Hebrew/Aramaic:** אֶלָּא פְּשִׁיטָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין, רֵישָׁא וְסֵיפָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין, מְצִיעֲתָא בִּמְקוֹם שֶׁמַּכְרִיזִין!
+>
+> **Translation:** **Rather,** it is **obvious** that the *baraita* is referring **to a place where they do not announce** every time non-kosher meat is sold. But is it possible that **the first clause and the latter clause** of the *baraita* are referring **to a place where they do not announce** every time non-kosher meat is sold but **the middle clause** is referring **to a place where they** do **announce** every time non-kosher meat is sold?
+
 > **Hebrew/Aramaic:** אָמַר אַבָּיֵי: אִין, רֵישָׁא וְסֵיפָא בִּמְקוֹם שֶׁאֵין מַכְרִיזִין, מְצִיעֲתָא בִּמְקוֹם שֶׁמַּכְרִיזִין.
 >
 > **Translation:** **Abaye said: Yes, the first clause and the latter clause** of the *baraita* are referring **to a place where they do not announce** every time non-kosher meat is sold, and **the middle clause** is referring **to a place where they** do **announce** every time non-kosher meat is sold.
 
-Abaye accepts that the *braita* is genuinely inconsistent in its underlying assumptions and resolves it by assigning each clause to a different social context. The first and last clauses — the *reisha* and *seifa* — describe a community *bemakom she'ein machrizin*: a place where no announcements are ever made regarding *treifot* sold to non-Jews. In such a community, Jews never know whether the non-Jew possesses *treifa* meat, and therefore they never buy from non-Jews as a matter of policy. In this context, there is no risk of resale — which is why one may sell a non-Jew the *gid hanasheh* without removal; and there is no announcement system — which is why the butcher might attempt to sell the non-Jew non-kosher meat without community knowledge. The middle clause — the *metziata* — describes a community *bemakom shemachrizin*, where announcements are made and Jews ordinarily do buy from non-Jews when no announcement is in effect. In that context, one may not sell non-kosher meat to a non-Jew, because when no announcement is in effect, a Jew may purchase from the non-Jew and receive the *treifa* unknowingly.
+Abaye accepts that the *braita* is genuinely inconsistent in its underlying assumptions and resolves it by assigning each clause to a different social context. The first and last clauses — the *reisha* and *seifa* — describe a community a place where no announcements are ever made regarding *treifot* sold to non-Jews. In such a community, Jews never know whether the non-Jew possesses *treifa* meat, and therefore they never buy from non-Jews as a matter of policy. In this context, there is no risk of resale — which is why one may sell a non-Jew the *gid hanasheh* without removal; and there is no announcement system — which is why the butcher might attempt to sell the non-Jew non-kosher meat without community knowledge. The middle clause — the *metziata* — describes a community where announcements are made and Jews ordinarily do buy from non-Jews when no announcement is in effect. In that context, one may not sell non-kosher meat to a non-Jew, because when no announcement is in effect, a Jew may purchase from the non-Jew and receive the *treifa* unknowingly.
 
 ### Rava Resolution
 
@@ -354,7 +378,7 @@ Abaye accepts that the *braita* is genuinely inconsistent in its underlying assu
 >
 > **Translation:** **Rava said:** The **entire** *baraita* is referring **to a place where they announce** every time non-kosher meat is sold. **The first clause and the latter clause** are referring to days **when they announced** that non-kosher meat had been sold, and **the middle clause** is referring to a day **when they did not announce** that non-kosher meat had been sold.
 
-Rava offers a different resolution, one that does not require assigning different clauses to different communities. He holds that the entire *braita* describes a single community *bemakom shemachrizin* — a place where announcements are made. The variation among the clauses is not about place but about timing. The *reisha* and *seifa* describe situations in which an announcement *has been made* and is currently in effect. When the announcement is active, Jews know not to buy from non-Jews, and accordingly one may sell to non-Jews without fear of resale. The *metziata* — the middle clause about not selling *treifot* — describes a situation in which no announcement is currently in effect. At such a time, Jews are buying from non-Jews, and therefore one may not sell the non-Jew *treifa* meat, since it may find its way back to a Jewish buyer.
+Rava offers a different resolution, one that does not require assigning different clauses to different communities. He holds that the entire *braita* describes a single community a place where announcements are made. The variation among the clauses is not about place but about timing. The *reisha* and *seifa* describe situations in which an announcement *has been made* and is currently in effect. When the announcement is active, Jews know not to buy from non-Jews, and accordingly one may sell to non-Jews without fear of resale. The *metziata* — the middle clause about not selling *treifot* — describes a situation in which no announcement is currently in effect. At such a time, Jews are buying from non-Jews, and therefore one may not sell the non-Jew *treifa* meat, since it may find its way back to a Jewish buyer.
 
 ### Rav Ashi Resolution
 
@@ -362,7 +386,7 @@ Rava offers a different resolution, one that does not require assigning differen
 >
 > **Translation:** **Rav Ashi said:** The **entire** *baraita* is referring **to a place where they do not announce** every time non-kosher meat is sold. **And** the reason that **the middle clause** teaches that it is prohibited to sell meat from unslaughtered carcasses or *tereifot* to a gentile is due to **a** rabbinic **decree lest** the Jew **sell it** to the gentile **in the presence of** another **Jew,** who will think that this particular piece of meat is kosher.
 
-Rav Ashi offers a third approach, holding that the entire *braita* refers to a community *bemakom she'ein machrizin* — no announcements are ever made, and Jews categorically do not buy from non-Jews. On this reading, the first and last clauses are straightforward: since Jews do not buy from non-Jews, one may sell them a *gid hanasheh* without removal; and the store owner, not being constrained by the announcement system, may sell non-kosher meat to the non-Jew without community awareness. The middle clause — the prohibition on selling *treifot* — is then explained differently: it is a *gezeira*, a rabbinic precautionary decree. Even though in principle Jews in this community never buy from non-Jews, one should not sell *treifot* to a non-Jew because of the fear that a Jew might happen to see the transaction and draw incorrect conclusions.
+Rav Ashi offers a third approach, holding that the entire *braita* refers to a community no announcements are ever made, and Jews categorically do not buy from non-Jews. On this reading, the first and last clauses are straightforward: since Jews do not buy from non-Jews, one may sell them a *gid hanasheh* without removal; and the store owner, not being constrained by the announcement system, may sell non-kosher meat to the non-Jew without community awareness. The middle clause — the prohibition on selling *treifot* — is then explained differently: it is a *gezeira*, a rabbinic precautionary decree. Even though in principle Jews in this community never buy from non-Jews, one should not sell *treifot* to a non-Jew because of the fear that a Jew might happen to see the transaction and draw incorrect conclusions.
 
 ### Rashi Distinction
 

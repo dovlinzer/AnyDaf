@@ -90,6 +90,7 @@ object ResourcesDiskCache {
             obj.put("matchTypeTag", matchTypeTag(article.matchType))
             obj.put("matchTypeDaf", article.matchType.referencedDaf)
             obj.put("source", article.source.name)
+            obj.put("isAudio", article.isAudio)
             val dafsArr = JSONArray()
             article.additionalDafs.forEach { dafsArr.put(it) }
             obj.put("additionalDafs", dafsArr)
@@ -127,7 +128,8 @@ object ResourcesDiskCache {
                     authorName     = obj.optString("authorName", ""),
                     matchType      = matchType,
                     additionalDafs = additionalDafs,
-                    source         = source
+                    source         = source,
+                    isAudio        = obj.optBoolean("isAudio", false)
                 )
             )
         }

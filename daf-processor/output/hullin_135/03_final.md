@@ -1,4 +1,5 @@
 # Hullin 135 — Daf Yomi Shiur
+[DAF:134b]
 
 ## Reishit HaGez Intro
 
@@ -14,6 +15,7 @@ With the penultimate chapter of Masechet Chullin, the Mishnah introduces *reishi
 
 The Mishnah opens with a sweeping statement of applicability: *reishit hagez* applies both in *Eretz Yisrael* and outside of it, both when the *Beit HaMikdash* stands and when it does not. This broad applicability is unsurprising, since the obligation has no inherent connection to the Temple or to the Land. The Mishnah further specifies that the obligation applies only to non-sanctified animals (*chulin*), not to sanctified ones (*mukdashin*) — a ruling parallel to what we encountered with *zroa lechayayim veKeivah*.
 
+[DAF:135a]
 ### Zroa vs. Gez
 
 > **Hebrew/Aramaic:** חוֹמֶר בַּזְּרוֹעַ וּלְחָיַיִם וּבַקֵּבָה מֵרֵאשִׁית הַגֵּז – שֶׁהַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה נוֹהֲגִין בַּבָּקָר וּבַצֹּאן, בִּמְרוּבֶּה וּבְמוּעָט, וְרֵאשִׁית הַגֵּז אֵינוֹ נוֹהֵג אֶלָּא בִּרְחֵלוֹת, וְאֵינוֹ נוֹהֵג אֶלָּא בִּמְרוּבֶּה.
@@ -30,10 +32,6 @@ The Mishnah then enumerates the stringencies of *zroa lechayayim veKeivah* relat
 
 ### Tzon Etymology
 
-> **Hebrew/Aramaic:** וְכַמָּה הוּא מְרוּבֶּה, בֵּית שַׁמַּאי אוֹמְרִים: שְׁתֵּי רְחֵלוֹת, שֶׁנֶּאֱמַר: ״יְחַיֶּה אִישׁ עֶגְלַת בָּקָר וּשְׁתֵּי צֹאן״, וּבֵית הִלֵּל אוֹמְרִים: חָמֵשׁ, שֶׁנֶּאֱמַר: ״חָמֵשׁ צֹאן עֲשׂוּיוֹת״.
->
-> **Translation:** **And how many are numerous? Beit Shammai say:** It is at least **two sheep, as it is stated: "That a man shall rear a young cow, and two sheep [*tzon*]"** (Isaiah 7:21), indicating that two sheep are characterized as *tzon*; and the mitzva of the first sheared wool is written using the term "your flock [*tzonekha*]." **And Beit Hillel say:** It is at least **five** sheep, **as it is stated: "And five sheep [*tzon*] made"** (I Samuel 25:18).
-
 The Torah's formulation is *reishit gez tzoncha* — the first of the shearings of your flock. The word *tzon*, flock, is not the word for a single sheep. Just as "cattle" in English implies a group, *tzon* connotes a collective, a flock — not one lone animal. One would never refer to a single sheep as a *tzon*. Therefore, the obligation cannot apply to one sheep alone; by the very semantics of the verse, a plurality is required.
 
 ### Merubeh Requirement
@@ -42,9 +40,13 @@ The question then becomes: what is the minimum that qualifies as a *merubeh*, a 
 
 ### Two vs. Five
 
-*Beit Shammai* says two sheep suffice, as evidenced by the verse (Isaiah 7:21): *yichyeh ish egla bakar u-shtei tzon* — "a man shall raise a calf and two of the flock." The word *tzon* is applied there to just two, demonstrating that two animals can constitute a flock. In this instance, it is *Beit Shammai* who is more stringent, imposing the obligation even on a minimal flock of two.
+> **Hebrew/Aramaic:** וְכַמָּה הוּא מְרוּבֶּה, בֵּית שַׁמַּאי אוֹמְרִים: שְׁתֵּי רְחֵלוֹת, שֶׁנֶּאֱמַר: ״יְחַיֶּה אִישׁ עֶגְלַת בָּקָר וּשְׁתֵּי צֹאן״, וּבֵית הִלֵּל אוֹמְרִים: חָמֵשׁ, שֶׁנֶּאֱמַר: ״חָמֵשׁ צֹאן עֲשׂוּיוֹת״.
+>
+> **Translation:** **And how many are numerous? Beit Shammai say:** It is at least **two sheep, as it is stated: "That a man shall rear a young cow, and two sheep [*tzon*]"** (Isaiah 7:21), indicating that two sheep are characterized as *tzon*; and the mitzva of the first sheared wool is written using the term "your flock [*tzonekha*]." **And Beit Hillel say:** It is at least **five** sheep, **as it is stated: "And five sheep [*tzon*] made"** (I Samuel 25:18).
 
-*Beit Hillel* requires five, citing the verse (I Samuel 25:18): *chamesh tzon asuyot* — "five sheep ready," where the context of *tzon* appears alongside a quantity of five, laden with their wool. *Beit Hillel* finds the context more apt: not only does this verse invoke *tzon*, but the notion of animals laden with wool makes it specifically relevant to shearing.
+"a man shall raise a calf and two of the flock." The word *tzon* is applied there to just two, demonstrating that two animals can constitute a flock. In this instance, it is *Beit Shammai* who is more stringent, imposing the obligation even on a minimal flock of two.
+
+*Beit Hillel* requires five, citing the verse (I Samuel 25:18): "five sheep ready," where the context of *tzon* appears alongside a quantity of five, laden with their wool. *Beit Hillel* finds the context more apt: not only does this verse invoke *tzon*, but the notion of animals laden with wool makes it specifically relevant to shearing.
 
 ### Rabbi Dosa View
 
@@ -80,7 +82,7 @@ This raises a practical question about the cleaning process. Wool contains *lano
 
 ### Small Garment
 
-The Mishnah anchors the minimum amount through a functional criterion: the gift to the *kohen* must be enough to make a small garment. As the verse states, *titen lo* — you shall give to him — implying a gift of real usability and significance. The *kohen* must be able to do something with what he receives; the minimum is therefore the smallest meaningful garment, something like a small belt.
+The Mishnah anchors the minimum amount through a functional criterion: the gift to the *kohen* must be enough to make a small garment. As the verse states, you shall give to him — implying a gift of real usability and significance. The *kohen* must be able to do something with what he receives; the minimum is therefore the smallest meaningful garment, something like a small belt.
 
 ### Dyed Before Gift
 
@@ -126,7 +128,7 @@ The Mishnah introduces a further nuance. What if the seller had two distinct typ
 
 ### Separate Categories
 
-If the seller sold one category entirely — say, all the black wool — but retained the other category — say, all the white wool — one might think: the seller still has wool in his possession, so the entire obligation rests on him. The Mishnah rejects this. Because the two types of wool are considered distinct shearings, each category is treated independently. The buyer, who holds all the black wool, must give from his category; the seller, who holds all the white wool, gives from his. As the Mishnah formulates it: *zeh noten le-atzmo ve-zeh noten le-atzmo* — each one gives from his own.
+If the seller sold one category entirely — say, all the black wool — but retained the other category — say, all the white wool — one might think: the seller still has wool in his possession, so the entire obligation rests on him. The Mishnah rejects this. Because the two types of wool are considered distinct shearings, each category is treated independently. The buyer, who holds all the black wool, must give from his category; the seller, who holds all the white wool, gives from his. As the Mishnah formulates it: each one gives from his own.
 
 One might ask whether a *shutafut*, a partnership in a single flock, creates any comparable complexity — specifically, does the word *tzoncha*, "your sheep," in the singular, require sole ownership and thereby exempt partners? This question is explicitly raised and will be taken up by the Gemara.
 
@@ -152,7 +154,7 @@ The answer is derivational: the verse reads *tzoncha* — your sheep — which m
 >
 > **Translation:** The Gemara challenges: **The reason** for the exemption of sacrificial animals **is that the Merciful One writes "your flock,"** from which it may be inferred that **were that not** the case **I would say** that even with regard to **sacrificial** animals one is **obligated in** the mitzva of **the first sheared wool. But** this suggestion is impossible, since **they are not fit for shearing, as it is written** with regard to firstborn animals, which are consecrated: **"And you shall not shear the firstborn of your flock"** (Deuteronomy 15:19).
 
-The Gemara then asks why such a verse was necessary in the first place. Is it not obvious that one cannot shear sanctified animals? After all, the Torah explicitly states *lo tagoz bechor tzoncha* — you may not shear the firstborn of your sheep — and what applies to the *bechor* applies by extension to all sacrificial animals. The prohibition on shearing *kodshei mizbe'ach* is biblical. So why would anyone think the obligation of *reishit hagez* could apply?
+The Gemara then asks why such a verse was necessary in the first place. Is it not obvious that one cannot shear sanctified animals? After all, the Torah explicitly states you may not shear the firstborn of your sheep — and what applies to the *bechor* applies by extension to all sacrificial animals. The prohibition on shearing *kodshei mizbe'ach* is biblical. So why would anyone think the obligation of *reishit hagez* could apply?
 
 ### Kodshim Types
 
@@ -188,7 +190,7 @@ The Gemara now works through the precise scenario in which one might have though
 >
 > **Translation:** The Gemara objects: **But** when an animal is redeemed it **requires standing and valuation,** as it is written: "And he shall stand the animal before the priest, and the priest shall value it, whether it be good or bad; as the priest evaluates it, so shall it be" (Leviticus 27:11–12). Once the wool has been sheared this process cannot be performed, which means that the wool cannot be redeemed. The Gemara comments: **This works out well according to the one who said** that animals **consecrated** for **Temple maintenance were not included in** the requirement **of standing and valuation. But according to the one who said** that they **were** included in this requirement, **what can be said?**
 
-The Gemara immediately raises a difficulty: how could one even redeem the wool? The Torah requires that when redeeming a sanctified animal, *ve-he'emido ha-kohen ve-he'erich oto lifnei Hashem* — the priest shall stand it up and assess it before God. The rabbinic understanding of this verse is that sanctified animals can only be redeemed when they are alive and able to be "stood up." Shorn wool, having been separated from the living animal, cannot be stood up, and therefore arguably cannot be redeemed. This difficulty arises specifically according to the opinion that the requirement of *ha'amada ve-ha'aracha* — standing up and assessment — applies even to *kodshei bedek habayit*, not only to sacrificial animals. According to the opinion that *kodshei bedek habayit* do not require *ha'amada ve-ha'aracha*, the redemption path remains open; but according to the other opinion, even that path is foreclosed. Either way, the redemption route seems unavailable.
+The Gemara immediately raises a difficulty: how could one even redeem the wool? The Torah requires that when redeeming a sanctified animal, the priest shall stand it up and assess it before God. The rabbinic understanding of this verse is that sanctified animals can only be redeemed when they are alive and able to be "stood up." Shorn wool, having been separated from the living animal, cannot be stood up, and therefore arguably cannot be redeemed. This difficulty arises specifically according to the opinion that the requirement of *ha'amada ve-ha'aracha* — standing up and assessment — applies even to *kodshei bedek habayit*, not only to sacrificial animals. According to the opinion that *kodshei bedek habayit* do not require *ha'amada ve-ha'aracha*, the redemption path remains open; but according to the other opinion, even that path is foreclosed. Either way, the redemption route seems unavailable.
 
 ### Rav Mani Solution
 
@@ -196,13 +198,9 @@ The Gemara immediately raises a difficulty: how could one even redeem the wool? 
 >
 > **Translation:** **Rabbi Mani bar Pattish said in the name of Rabbi Yannai:** The statement **here** in the mishna is referring **to** a case where one **consecrated** the rest of **his animal for Temple maintenance except for its fleece,** which he reserved for himself. Because the owner did not consecrate the wool, it might **enter your mind to say: Let him shear** the sheep **and** be obligated to **give** the wool to the priest. Therefore, the **verse states: "Your flock,"** indicating that the mitzva applies to non-sacred animals, which belong to an individual, **and not** to **sheep that are consecrated** property.
 
-The Gemara resolves this impasse through a case constructed by *Rav Mani bar Patish* in the name of *Rabbi Yannai*. The operative scenario is one where the owner sanctified his animal to *bedek habayit* but explicitly excluded the wool from the sanctification: *makdish behemto le-bedek ha-bayit chutz mi-gizoteha* — "I am sanctifying my animal to the Temple treasury except for its shearings." By retaining ownership of the wool, the owner never transferred it to *hekdesh*. He then shears the wool — which he owns — and the question is whether he must give *reishit hagez* from that wool to a *kohen*.
+The Gemara resolves this impasse through a case constructed by *Rav Mani bar Patish* in the name of *Rabbi Yannai*. The operative scenario is one where the owner sanctified his animal to *bedek habayit* but explicitly excluded the wool from the sanctification: "I am sanctifying my animal to the Temple treasury except for its shearings." By retaining ownership of the wool, the owner never transferred it to *hekdesh*. He then shears the wool — which he owns — and the question is whether he must give *reishit hagez* from that wool to a *kohen*.
 
 ### Own Wool Exempt
-
-> **Hebrew/Aramaic:** אִי הָכִי, קׇדְשֵׁי מִזְבֵּחַ נָמֵי! כָּחֲשִׁי.
->
-> **Translation:** The Gemara raises a difficulty: **If so,** that the mishna is discussing a case where one consecrated an animal except for its fleece, one could say that it is **also** referring to animals **consecrated** for the **altar.** The Gemara answers: The mishna cannot be discussing animals consecrated for the altar, as it is prohibited to shear them even if their fleece was not consecrated. The reason is that this causes the animal to **become weakened,** which entails a loss of consecrated property.
 
 This is the scenario the verse addresses. Even though the owner retained possession of the wool, the sheep itself belongs to *hekdesh*. The verse *tzoncha* — your sheep — requires not only that the wool be yours but that the sheep be yours as well. Since the sheep is owned by the Temple treasury, the obligation of *reishit hagez* does not apply, even to the wool the owner legitimately retained. Hence the verse was needed.
 
@@ -212,27 +210,31 @@ This is the scenario the verse addresses. Even though the owner retained possess
 
 ### Sanctity Spreads
 
-> **Hebrew/Aramaic:** קׇדְשֵׁי בֶּדֶק הַבַּיִת נָמֵי כָּחֲשִׁי! דְּאָמַר: חוּץ מִגִּיזָּה וּכְחִישָׁה.
+> **Hebrew/Aramaic:** אִי הָכִי, קׇדְשֵׁי מִזְבֵּחַ נָמֵי! כָּחֲשִׁי.
 >
-> **Translation:** The Gemara objects: But animals **consecrated** for **Temple maintenance** are **also weakened** by shearing, and therefore it should be prohibited to shear them as well. The Gemara explains: The mishna is referring to a case **where** one **said** that he consecrates his animal for Temple maintenance **except for** both its **fleece and** its **weakening,** i.e., the loss of strength caused by shearing.
+> **Translation:** The Gemara raises a difficulty: **If so,** that the mishna is discussing a case where one consecrated an animal except for its fleece, one could say that it is **also** referring to animals **consecrated** for the **altar.** The Gemara answers: The mishna cannot be discussing animals consecrated for the altar, as it is prohibited to shear them even if their fleece was not consecrated. The reason is that this causes the animal to **become weakened,** which entails a loss of consecrated property.
 
 Having established why the verse is needed in the case of *kodshei bedek habayit*, the Gemara asks: why not apply the same reasoning — sanctifying the animal but retaining ownership of the wool — even to *kodshei mizbe'ach*, sacrificial animals? If that were possible, the same question would arise and the same verse would be needed for the same reason, without having to invoke *bedek habayit* at all. The Gemara answers: *kachshi* — it weakens the animal. Shearing is a physically diminishing act; it causes some degree of debilitation to the sheep. If the animal is a sacrifice, one cannot perform an act that impairs it, as that would impinge on the sanctity of the sacrifice and potentially constitute *me'ilah*. Therefore, the scenario of retaining ownership of the wool while sanctifying the animal cannot be constructed for *kodshei mizbe'ach*.
 
 ### Shearing Weakens
 
+> **Hebrew/Aramaic:** קׇדְשֵׁי בֶּדֶק הַבַּיִת נָמֵי כָּחֲשִׁי! דְּאָמַר: חוּץ מִגִּיזָּה וּכְחִישָׁה.
+>
+> **Translation:** The Gemara objects: But animals **consecrated** for **Temple maintenance** are **also weakened** by shearing, and therefore it should be prohibited to shear them as well. The Gemara explains: The mishna is referring to a case **where** one **said** that he consecrates his animal for Temple maintenance **except for** both its **fleece and** its **weakening,** i.e., the loss of strength caused by shearing.
+
+One might then ask: if the owner retains ownership not only of the wool but also of the animal's diminishment — "except for the shearing and the weakening" — couldn't one construct the scenario even for a sacrifice? The Gemara addresses this directly: no. With a sacrifice, one cannot play these games of subdivided ownership. The sanctity of a *korban* is not merely a matter of who legally owns which portion; it defines the very identity and nature of the animal. Once an animal is consecrated as a sacrifice, its entire being is defined as a *korban*, and one cannot carve out a retained interest in its diminishment as if that were a separable portion.
+
+### Temurah Proof
+
 > **Hebrew/Aramaic:** קׇדְשֵׁי מִזְבֵּחַ נָמֵי! דְּאָמַר: חוּץ מִגִּיזָּה וּכְחִישָׁה, אֲפִילּוּ הָכִי פָּשְׁטָה קְדוּשָּׁה בְּכוּלַּהּ.
 >
 > **Translation:** The Gemara further objects: The mishna could **also** be referring to animals **consecrated** for the **altar** in a case **where** one **said** that he consecrates the animal **except for** both its **fleece and** the **weakening,** i.e., the loss in strength caused by shearing. The Gemara explains: With regard to animals consecrated for the altar this stipulation is ineffective, as **even so,** i.e., despite his declaration, the **sanctity extends to the entire** animal, and therefore it is prohibited to shear it.
-
-One might then ask: if the owner retains ownership not only of the wool but also of the animal's diminishment — *chutz mi-giza ve-kechisha*, "except for the shearing and the weakening" — couldn't one construct the scenario even for a sacrifice? The Gemara addresses this directly: no. With a sacrifice, one cannot play these games of subdivided ownership. The sanctity of a *korban* is not merely a matter of who legally owns which portion; it defines the very identity and nature of the animal. Once an animal is consecrated as a sacrifice, its entire being is defined as a *korban*, and one cannot carve out a retained interest in its diminishment as if that were a separable portion.
-
-### Temurah Proof
 
 > **Hebrew/Aramaic:** וּמְנָא תֵּימְרָא, דְּאָמַר רַבִּי יוֹסֵי: וַהֲלֹא בְּמוּקְדָּשִׁין, הָאוֹמֵר ״רַגְלָהּ שֶׁל זוֹ עוֹלָה״ – כּוּלָּהּ עוֹלָה. וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּאָמַר אֵין כּוּלָּהּ עוֹלָה, הָנֵי מִילֵּי דְּאַקְדֵּישׁ דָּבָר שֶׁאֵין הַנְּשָׁמָה תְּלוּיָה בּוֹ, אֲבָל הִקְדִּישׁ דָּבָר שֶׁהַנְּשָׁמָה תְּלוּיָה בּוֹ – קָדְשָׁה.
 >
 > **Translation:** The Gemara explains: **And from where do you say** that if one consecrates an animal for the altar the sanctity extends to the entire animal? This is **as Rabbi Yosei said: Isn't it** the *halakha* **with regard to sacrificial** animals that if **one says: The leg of this** animal is consecrated as **a burnt offering,** then the **entire** animal is **a burnt offering,** as the sanctity of the leg spreads throughout the animal's body? **And even according to** the opinion of **Rabbi Meir** that **it is not entirely a burnt offering, that statement** of Rabbi Meir applies only **where he consecrated** its leg, which is **not a matter,** i.e., a limb, **upon which** the animal's **life depends.** It is possible for an animal to survive the removal of a leg. **But** if **one consecrated a matter upon which** the animal's **life depends,** everyone agrees that all of it **is consecrated.**
 
-The Gemara grounds this principle in a debate in Masechet Temurah. *Rabbi Yose* rules: *ha-omer raglah shel zo olah kulah olah* — if one declares "the leg of this animal is an *olah*," the entire animal becomes an *olah*. The sanctity of a sacrifice, once applied to any part, spreads to the whole. Even *Rabbi Meir*, who disagrees in the specific case of the leg — arguing that the leg, since the animal can survive without it, does not carry the soul of the animal and therefore sanctifying it does not sanctify the whole — would agree that if one sanctifies a part upon which the animal's life depends (*davar she-ha-neshamah teluyah bah*), then the entire animal becomes sanctified. The upshot is clear: by *kodshei mizbe'ach*, the identity of the animal as a *korban* is total and indivisible. Ownership subdivisions that are permissible for *bedek habayit* simply do not function for sacrificial animals. This is why the Gemara is forced to develop the scenario through *bedek habayit*, and why the verse *tzoncha* was needed.
+The Gemara grounds this principle in a debate in Masechet Temurah. *Rabbi Yose* rules: if one declares "the leg of this animal is an *olah*," the entire animal becomes an *olah*. The sanctity of a sacrifice, once applied to any part, spreads to the whole. Even *Rabbi Meir*, who disagrees in the specific case of the leg — arguing that the leg, since the animal can survive without it, does not carry the soul of the animal and therefore sanctifying it does not sanctify the whole — would agree that if one sanctifies a part upon which the animal's life depends (*davar she-ha-neshamah teluyah bah*), then the entire animal becomes sanctified. The upshot is clear: by *kodshei mizbe'ach*, the identity of the animal as a *korban* is total and indivisible. Ownership subdivisions that are permissible for *bedek habayit* simply do not function for sacrificial animals. This is why the Gemara is forced to develop the scenario through *bedek habayit*, and why the verse *tzoncha* was needed.
 
 ---
 
@@ -240,7 +242,15 @@ The Gemara grounds this principle in a debate in Masechet Temurah. *Rabbi Yose* 
 
 ### Challah Reishit
 
-> **Hebrew/Aramaic:** אֶלָּא ״צֹאנְךָ״ לְמַאי אֲתָא? לְכִדְתַנְיָא: בֶּהֱמַת הַשּׁוּתָּפִים חַיָּיב בְּרֵאשִׁית הַגֵּז, וְרַבִּי אִלְעַאי פּוֹטֵר.
+> **Hebrew/Aramaic:** רָבָא אָמַר: בְּמַקְדִּישׁ גִּיזָּה עַצְמָהּ, סָלְקָא דַּעְתָּךְ אָמֵינָא: לִיגְזוֹז וְלִיפְרוֹק וְלִיתֵּיב לֵיהּ,
+>
+> **Translation:** § **Rava said** that there is no need to interpret the mishna as discussing a case where one consecrated a whole animal apart from its fleece and the loss caused by shearing. Rather, the mishna is referring **to** one who **consecrates the fleece itself** to the treasury for Temple maintenance, but not the sheep. It might **enter your mind to say: Let him shear** the sheep **and redeem** the wool by giving its value to the Temple treasury, **and** then be required to **give** the wool **to** the priest.
+
+> **Hebrew/Aramaic:** אָמַר קְרָא: ״גֵּז צֹאנְךָ תִּתֶּן לוֹ״, מִי שֶׁאֵין מְחוּסָּר אֶלָּא גְּזִיזָה וּנְתִינָה, יָצָא זֶה שֶׁמְחוּסָּר גְּזִיזָה פְּדִיָּיה וּנְתִינָה.
+>
+> **Translation:** Therefore, the **verse states:** "The first sheared wool **of your flock, shall you give him"** (Deuteronomy 18:4), which indicates that there should be no additional action between shearing and giving the first sheared wool to the priest. In other words, the mitzva of first sheared wool applies to a sheep **that is lacking only shearing and giving,** which **excludes this** sheep **that is lacking shearing, redeeming, and giving.**
+
+> **Hebrew/Aramaic:** אֶלָּא ״צֹאנְךָ״ לְמַאי אֲתָא? לְכִדְתַנְיָא: בֶּהֱמַת הַשּׁוּתָּפִים חַיָּיב בְּרֵאשִׁית הַגֵּז, וְרַבִּי אִלְעַאי פּוֹטֵר. מַאי טַעְמָא דְּרַבִּי אִלְעַאי? אָמַר קְרָא ״צֹאנְךָ״, וְלֹא שֶׁל שׁוּתָּפוּת.
 >
 > **Translation:** The Gemara asks: **But** if this verse is the source of the exemption of consecrated animals, then **for what** purpose does the term **"your flock" come?** That term also indicates that certain sheep are excluded from the mitzva. The Gemara answers that it is necessary **for that which is taught** in a *baraita*: **An animal** owned by two **partners is obligated,** i.e., renders its owners obligated, **in the** mitzva of the **first sheared** wool, **but Rabbi Ilai exempts** them. **What is the reason for** the ruling **of Rabbi Ilai?** The reason is that the **verse states "your flock,"** using the singular pronoun, indicating that the mitzva applies to animals belonging to an individual, **but not** to sheep that are owned **in partnership.**
 
@@ -250,19 +260,31 @@ For *challah*, there is a potential analogy: the Torah uses the word *reishit* �
 
 ### Plural Challah
 
-> **Hebrew/Aramaic:** וְרַבָּנַן, לְמַעוֹטֵי שׁוּתָּפוּת גּוֹי. וְרַבִּי אִלְעַאי, שׁוּתָּפוּת גּוֹי מְנָא לֵיהּ?
+> **Hebrew/Aramaic:** חַלָּה, אַף עַל גַּב דִּכְתִיב ״רֵאשִׁית״, וְאִיכָּא לְמֵימַר: נֵילַף ״רֵאשִׁית״ ״רֵאשִׁית״ מֵרֵאשִׁית הַגֵּז – מָה לְהַלָּן דְּשׁוּתָּפוּת לָא, אַף כָּאן דְּשׁוּתָּפוּת לָא. כְּתַב רַחֲמָנָא ״עֲרִיסוֹתֵיכֶם״.
 >
-> **Translation:** The Gemara asks: **But** according to **the Rabbis,** who hold that joint owners of sheep are obligated in the mitzva of the first sheared wool, what is excluded by the term "your flock"? The Gemara answers that this serves **to exclude** an animal owned in **partnership** with **a gentile.** The Gemara asks: **And from where does Rabbi Ilai** derive that an animal owned in **partnership** with **a gentile** renders its Jewish owner exempt from the mitzva?
+> **Translation:** Similarly, with regard to ***ḥalla*,** the portion of dough that one is required to separate and give to a priest, Rabbi Ilai concedes that joint owners are obligated in this mitzva, **even though** one could claim otherwise, **as it is written:** "Of **the first** of your dough you shall set apart a cake for a gift" (Numbers 15:20), **and it is possible to say** that one **should derive** a verbal analogy between the term **"the first"** in this context and the term **"the first" from the first sheared wool: Just as there,** with regard to the first sheared wool, if the sheep are owned **in partnership** the owners are **not** obligated, **so too here,** with regard to *ḥalla*, if the dough is owned **in partnership** they are **not** obligated. Nevertheless, **the Merciful One writes: "Your dough,"** using a plural pronoun, indicating that even joint owners of dough are obligated to separate *ḥalla*.
 
-The response is that the Torah writes *arisoteichem* — your kneading troughs, in the plural — which overrides any exclusion of partnership. The plural possessive signals that even when multiple people are involved, the obligation applies.
+The response is that the Torah writes your kneading troughs, in the plural — which overrides any exclusion of partnership. The plural possessive signals that even when multiple people are involved, the obligation applies.
 
 ### Trough Amount
 
-The Gemara then asks: if the plural *arisoteichem* resolves the partnership question, what independent work does the word do? The answer is that *arisoteichem* comes to teach the minimum quantity that triggers the *challah* obligation — specifically, the amount equivalent to the *omer* of *man* that each person received in the wilderness (*omer le-gulgoles*). The Torah thus uses this word to anchor the size of the dough that obligates in *challah*.
+> **Hebrew/Aramaic:** אֶלָּא טַעְמָא דִּכְתִיב ״עֲרִיסוֹתֵיכֶם״, הָא לָאו הָכִי הֲוָה אָמֵינָא נֵילַף ״רֵאשִׁית״ ״רֵאשִׁית״ מֵרֵאשִׁית הַגֵּז? אַדְּרַבָּה, נֵילַף מִתְּרוּמָה!
+>
+> **Translation:** The Gemara challenges: **But** according to this claim, **the reason** joint owners of dough are obligated to separate *ḥalla* is **that it is written "your dough,"** using a plural pronoun. It can be inferred from here that **were that not** the case **I would say** that they are exempt, as **derived** by a verbal analogy between the term **"the first"** mentioned with regard to *ḥalla* and the term **"the first" from the first sheared wool. On the contrary,** one **should derive** a verbal analogy between the term "the first" with regard to *ḥalla* and the term "the first" **from *teruma*:** Just as the obligation to separate *teruma* applies to produce owned in partnership, so too, the obligation to separate *ḥalla* applies to dough owned in partnership. It is preferable to compare *ḥalla* to *teruma*, because their halakhic status is similar in that they are both prohibited to non-priests. If so, the inference from the term "your dough" is unnecessary.
+
+> **Hebrew/Aramaic:** הָכִי נָמֵי, אֶלָּא ״עֲרִיסוֹתֵיכֶם״ לְמָה לִי? כְּדֵי עֲרִיסוֹתֵיכֶם.
+>
+> **Translation:** The Gemara explains: It **is indeed so;** the obligation of produce owned in partnership in the case of *ḥalla* is derived from the case of *teruma*. **But** if so, **why do I** need the term **"your dough"?** This teaches that the quantity of dough to which the obligation of *ḥalla* applies **is equivalent to** the quantity of **your dough,** i.e., the quantity of dough kneaded daily by the Jewish people when they were in the Sinai Desert, when the mitzva was given. This is one *omer* for each person (see Exodus 16:16), which is a tenth of an ephah (see Exodus 16:36).
+
+The Gemara then asks: if the plural *arisoteichem* resolves the partnership question, what independent work does the word do? The answer is that *arisoteichem* comes to teach the minimum quantity that triggers the *challah* obligation — specifically, the amount equivalent to the *omer* of *man* that each person received in the wilderness (the omer per person). The Torah thus uses this word to anchor the size of the dough that obligates in *challah*.
 
 ### Peah Plural
 
-For *peah*, the Torah says *sadcha* — your field — in the singular, which might suggest sole ownership is required and partnership is excluded. But elsewhere the verse reads *u-ve-kutzrechem et ketzir artzechem* — "when you harvest the harvest of your land" — in the plural, which overrides the singular and includes partnerships.
+> **Hebrew/Aramaic:** פֵּאָה, אַף עַל גַּב דִּכְתִיב ״שָׂדְךָ״ – דִּידָךְ אִין, שׁוּתָּפוּת לָא – כְּתַב רַחֲמָנָא ״וּבְקֻצְרְכֶם אֶת קְצִיר אַרְצְכֶם״. אֶלָּא ״שָׂדְךָ״ לְמָה לִי? לְמַעוֹטֵי שׁוּתָּפוּת גּוֹי.
+>
+> **Translation:** Likewise, with regard to ***pe'a*,** produce in the corner of the field that is left for the poor, Rabbi Ilai concedes that the joint owners of produce are obligated, **even though it is written** in the verse cited below: **"Your field [*sadekha*],"** using a singular pronoun, from which it can be inferred that with regard to **your** field, **yes,** one is obligated, whereas with regard to that **which is** owned **in partnership,** one is **not** obligated. The reason is that **the Merciful One writes: "And when you reap [*uvekutzrekhem*] the harvest of your land,** you shall not entirely reap the corner of your field" (Leviticus 19:9). The term "when you reap" uses the plural pronoun, which indicates that even partners of land are obligated in *pe'a*. The Gemara asks: **But** if so, **why do I** need the term **"your field"** in the singular? The Gemara answers: This serves **to exclude** land owned in **partnership** with **a gentile** from the obligation of *pe'a*.
+
+For *peah*, the Torah says *sadcha* — your field — in the singular, which might suggest sole ownership is required and partnership is excluded. But elsewhere the verse reads "when you harvest the harvest of your land" — in the plural, which overrides the singular and includes partnerships.
 
 ### Peah Non-Jew
 
@@ -271,10 +293,6 @@ Nevertheless, *sadcha* in the singular still does meaningful work: it excludes p
 ---
 
 ## Kodshei Mizbe'ach (II)
-
-> **Hebrew/Aramaic:** נָפְקָא לֵיהּ מֵרֵישָׁא דִּקְרָא, ״רֵאשִׁית דְּגָנְךָ״, וְלֹא שׁוּתָּפוּת גּוֹי.
->
-> **Translation:** The Gemara answers: He **derives it from the beginning of** this **verse,** which states with regard to *teruma*: **"The first fruits of your grain,** of your wine, and of your oil" (Deuteronomy 18:4), using the singular pronoun. This indicates that only in the case of produce owned by a Jew is one obligated to separate *teruma*, **but not** with regard to that which is owned **in partnership** with **a gentile.**
 
 ### Part vs. Whole
 
@@ -290,15 +308,19 @@ But where the sanctified part is one upon which the animal's life depends — it
 
 ### Terumah Concession
 
-> **Hebrew/Aramaic:** וְרַבָּנַן: ״רֵאשִׁית״ (הַגֵּז) הִפְסִיק הָעִנְיָן.
+> **Hebrew/Aramaic:** אָמַר רָבָא: מוֹדֶה רַבִּי אִלְעַאי בִּתְרוּמָה, אַף עַל גַּב דִּכְתִיב ״דְּגָנְךָ״ – דִּידָךְ אִין, דְּשׁוּתָּפוּת לָא.
 >
-> **Translation:** The Gemara asks: **And** why do **the Rabbis,** who derive the exemption of sheep owned in partnership with a gentile from the term "your flock," not derive this from the term "your grain"? The Gemara answers that the repetition of the term "the first" with regard to the first sheared wool: "The first fruits of your grain, of your wine, and of your oil, and **the first sheared wool** of your flock, shall you give him" (Deuteronomy 18:4), is an indication that the verse **concluded** discussion of **the** previous **matter.** The superfluous mention of "first" signals that the two issues discussed in this verse, which are the first fruits, i.e., *teruma*, and the first sheared wool, are two separate matters. Therefore, one cannot derive the *halakhot* of one from the other.
+> **Translation:** § **Rava said** with regard to the dispute between the Rabbis and Rabbi Ilai: Although **Rabbi Ilai** holds that two partners who own a sheep are exempt from the first sheared wool, he **concedes** that jointly owned produce is obligated **in *teruma*.** This is the *halakha* **even though it is written** with regard to *teruma*: **"Your grain"** (Deuteronomy 18:4), using the singular pronoun, from which one may infer that with regard to **yours, yes,** one is obligated, whereas with regard to that **which is** owned **in partnership,** the partners are **not** obligated.
 
 The Gemara introduces *Rava*'s formulation: *Rabbi Elai* concedes that *terumah* does not require sole ownership — partnership in *terumah* still obligates.
 
 ### Plural Terumah
 
-Although the Torah writes *degancha* — your grain — in the singular, which by *Rabbi Elai*'s logic would exclude partnership, the Torah also writes *trumoteichem* — your plural *terumah* — which overrides the singular and includes partnership. The plural possessive functions as an explicit signal that the obligation extends to shared ownership.
+> **Hebrew/Aramaic:** כְּתַב רַחֲמָנָא ״תְּרוּמֹתֵיכֶם״, אֶלָּא ״דְּגָנְךָ״ לְמָה לִי? לְמַעוֹטֵי שׁוּתָּפוּת גּוֹי.
+>
+> **Translation:** The Gemara explains that the joint owners of produce are nevertheless obligated in *teruma*, as **the Merciful One writes:** "There will I require **your *terumot*"** (Ezekiel 20:40). The use of the plural pronoun in this verse indicates that even partners who own produce are obligated in *teruma*. The Gemara asks: **But** if so, **why do I** need the term: **"Your grain,"** using the singular pronoun? The Gemara answers: This serves **to exclude** produce owned in **partnership** with **a gentile.**
+
+Although the Torah writes *degancha* — your grain — in the singular, which by *Rabbi Elai*'s logic would exclude partnership, the Torah also writes your plural *terumah* — which overrides the singular and includes partnership. The plural possessive functions as an explicit signal that the obligation extends to shared ownership.
 
 ### Non-Jew Excluded
 
@@ -310,10 +332,6 @@ The singular *degancha* is not therefore without purpose: it excludes partnershi
 
 ### Wool Sanctified
 
-> **Hebrew/Aramaic:** וְרַבִּי אִלְעַאי: וָי״ו הֲדַר עָרְבֵיהּ.
->
-> **Translation:** The Gemara asks: **And** how does **Rabbi Ilai** respond to the Rabbis' claim? The Gemara answers: Rabbi Ilai holds that when the verse states: "And the first sheared wool," the conjunction **"and" goes back and combines** the two matters together.
-
 *Rava* introduces a distinct and simpler scenario: rather than sanctifying the animal to the Temple treasury while retaining the wool, what if a person sanctified only the wool itself — not the sheep at all — to *hekdesh*?
 
 ### Redeem Question
@@ -322,11 +340,7 @@ The Gemara asks: once the person wishes to shear the sheep, is he obligated to r
 
 ### Titen Excludes
 
-> **Hebrew/Aramaic:** אָמַר קְרָא: ״גֵּז צֹאנְךָ תִּתֶּן לוֹ״, מִי שֶׁאֵין מְחוּסָּר אֶלָּא גְּזִיזָה וּנְתִינָה, יָצָא זֶה שֶׁמְחוּסָּר גְּזִיזָה פְּדִיָּיה וּנְתִינָה.
->
-> **Translation:** Therefore, the **verse states:** "The first sheared wool **of your flock, shall you give him"** (Deuteronomy 18:4), which indicates that there should be no additional action between shearing and giving the first sheared wool to the priest. In other words, the mitzva of first sheared wool applies to a sheep **that is lacking only shearing and giving,** which **excludes this** sheep **that is lacking shearing, redeeming, and giving.**
-
-The answer derives from the word *titen* in the verse *titen lo* — you shall give to him. The Gemara reads this as establishing: *mi she-ein mechusar ela giza u-netina* — only in a case where nothing stands between you and giving it to the *kohen* except shearing and giving is one obligated. This excludes *ze she-mechusar giza pidya u-netina* — a case where, in addition to shearing and giving, one must also first perform an act of redemption. Where an intermediate step of redemption is required before the gift can be transferred to the *kohen*, the obligation does not apply.
+The answer derives from the word *titen* in the verse *titen lo* — you shall give to him. The Gemara reads this as establishing: only in a case where nothing stands between you and giving it to the *kohen* except shearing and giving is one obligated. This excludes a case where, in addition to shearing and giving, one must also first perform an act of redemption. Where an intermediate step of redemption is required before the gift can be transferred to the *kohen*, the obligation does not apply.
 
 ---
 
@@ -334,9 +348,9 @@ The answer derives from the word *titen* in the verse *titen lo* — you shall g
 
 ### Partnership Q
 
-> **Hebrew/Aramaic:** וְרַבָּנַן: לָא נִכְתּוֹב רַחֲמָנָא לָא וָי״ו וְלָא ״רֵאשִׁית״.
+> **Hebrew/Aramaic:** וְרַבָּנַן, לְמַעוֹטֵי שׁוּתָּפוּת גּוֹי. וְרַבִּי אִלְעַאי, שׁוּתָּפוּת גּוֹי מְנָא לֵיהּ?
 >
-> **Translation:** The Gemara asks further: **And** how do **the Rabbis** respond to Rabbi Ilai's claim? The Gemara answers: The Rabbis do not accept that the conjunction "and" goes back and combines the two matters together, as, if that were so, **let the Merciful One write neither "and" nor "the first."**
+> **Translation:** The Gemara asks: **But** according to **the Rabbis,** who hold that joint owners of sheep are obligated in the mitzva of the first sheared wool, what is excluded by the term "your flock"? The Gemara answers that this serves **to exclude** an animal owned in **partnership** with **a gentile.** The Gemara asks: **And from where does Rabbi Ilai** derive that an animal owned in **partnership** with **a gentile** renders its Jewish owner exempt from the mitzva?
 
 The Gemara now addresses the central question raised by the Mishnah's wording: what does *tzoncha* — your sheep — exclude? Does it exclude partnership with a non-Jew, partnership with a fellow Jew, or both?
 
@@ -346,43 +360,52 @@ The Gemara now addresses the central question raised by the Mishnah's wording: w
 
 ### Chachamim View
 
-> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: שׁוּתָּפוּת גּוֹי בִּתְרוּמָה, רַבָּנַן חַיּוֹבֵי מְחַיְּיבִי, דְּתַנְיָא: יִשְׂרָאֵל וְגוֹי שֶׁלָּקְחוּ שָׂדֶה בְּשׁוּתָּפוּת – טֶבֶל וְחוּלִּין מְעוֹרָבִים זֶה בָּזֶה, דִּבְרֵי רַבִּי. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: שֶׁל יִשְׂרָאֵל חַיָּיב, וְשֶׁל גּוֹי פָּטוּר.
+> **Hebrew/Aramaic:** נָפְקָא לֵיהּ מֵרֵישָׁא דִּקְרָא, ״רֵאשִׁית דְּגָנְךָ״, וְלֹא שׁוּתָּפוּת גּוֹי.
 >
-> **Translation:** The Gemara provides an alternative explanation as to why the Rabbis do not derive the exemption of sheep owned in partnership with a gentile from the case of *teruma*. **If you wish, say** instead that **with regard to *teruma*, the Rabbis** hold that one who owns produce in **partnership** with **a gentile** is in fact **obligated, as it is taught** in a *baraita*: If there were **a Jew and a gentile who purchased a field in partnership,** the produce grown in that field is considered to be **untithed produce,** which is subject to the *halakhot* of *terumot* and tithes, **and non-sacred** produce, which is exempt from the requirements of *terumot* and tithes, **mixed together;** this is **the statement of Rabbi** Yehuda HaNasi. **Rabban Shimon ben Gamliel says:** The portion **of the Jew is obligated** in *teruma* and tithes, **but** the portion **of the gentile is exempt.**
+> **Translation:** The Gemara answers: He **derives it from the beginning of** this **verse,** which states with regard to *teruma*: **"The first fruits of your grain,** of your wine, and of your oil" (Deuteronomy 18:4), using the singular pronoun. This indicates that only in the case of produce owned by a Jew is one obligated to separate *teruma*, **but not** with regard to that which is owned **in partnership** with **a gentile.**
 
 The *Chachamim* disagree. They read *tzoncha* more narrowly: the singular possessive excludes only partnership with a non-Jew, whose partial ownership renders the entire animal's status ambiguous in a way that discharges the obligation. Partnership with a fellow Jew, however, does not disrupt the obligation; both Jewish partners remain obligated, each giving from their respective portion.
 
 ### Reishit Separation
 
-The Sages support their reading from the structure of the verse itself. The Torah uses the word *reishit* twice — once in the context of *terumah* (*reishit degancha*) and once here (*reishit gez tzoncha*). Had the two been meant to be read as a single continuous obligation, the Torah could have written simply *reishit degancha ve-gez tzoncha titen lo*. By repeating *reishit*, the Torah separates the two categories into independent subjects. Therefore, one cannot transfer the exclusions derived from *terumah* to *reishit hagez*; each stands independently, and *tzoncha* by the shearings does no more than exclude the non-Jew.
+> **Hebrew/Aramaic:** וְרַבָּנַן, ״רֵאשִׁית״ (הַגֵּז) הִפְסִיק הָעִנְיָן.
+>
+> **Translation:** The Gemara asks: **And** why do the **Rabbis,** who derive the exemption of sheep owned in partnership with a gentile from the term "your flock," not derive this from the term "your grain"? The Gemara answers that the repetition of the term "the first" with regard to the first sheared wool: "The first fruits of your grain, of your wine, and of your oil, and **the first sheared wool** of your flock, shall you give him" (Deuteronomy 18:4), is an indication that the verse **concluded** discussion of **the** previous **matter.** The superfluous mention of "first" signals that the two issues discussed in this verse, which are the first fruits, i.e., *teruma*, and the first sheared wool, are two separate matters. Therefore, one cannot derive the *halakhot* of one from the other.
+
+The Sages support their reading from the structure of the verse itself. The Torah uses the word *reishit* twice — once in the context of *terumah* (*reishit degancha*) and once here (*reishit gez tzoncha*). Had the two been meant to be read as a single continuous obligation, the Torah could have written simply the first of your grain and the shearing of your flock, give to him. By repeating *reishit*, the Torah separates the two categories into independent subjects. Therefore, one cannot transfer the exclusions derived from *terumah* to *reishit hagez*; each stands independently, and *tzoncha* by the shearings does no more than exclude the non-Jew.
 
 ### Elai Counter
 
-> **Hebrew/Aramaic:** וְאִי בָּעֵית אֵימָא, תַּרְוַיְיהוּ לְרַבִּי אִלְעַאי מִ״צֹּאנְךָ״ נָפְקָא.
+> **Hebrew/Aramaic:** וְרַבִּי אִלְעַאי: וָי״ו הֲדַר עָרְבֵיהּ.
 >
-> **Translation:** The Gemara presents an alternative explanation of Rabbi Ilai's opinion: **If you wish, say** instead that Rabbi Ilai does not derive only the exemption of sheep owned in partnership with a Jew from the term "your flock" while he derives the exemption of sheep owned in partnership with a gentile from the term "your grain." Rather, **according to Rabbi Ilai both** exemptions are **derived from** the term **"your flock."**
+> **Translation:** The Gemara asks: **And** how does **Rabbi Ilai** respond to the Rabbis' claim? The Gemara answers: Rabbi Ilai holds that when the verse states: "And the first sheared wool," the conjunction **"and" goes back and combines** the two matters together.
 
-*Rabbi Elai* responds by invoking the *vav* that connects the two clauses: *ve-reishit gez tzoncha titen lo*. The conjunctive *vav* ties the law of *reishit hagez* back to the preceding discussion of *terumah*, allowing the exclusions already derived there — namely, that partnership with a non-Jew is excluded by *degancha* — to carry over to the case of shearings. Having already established the exclusion of non-Jewish partnership from *terumah*, when we reach *tzoncha* in the context of the shearings, that word is free to do additional work: it now excludes even Jewish partnership.
+*Rabbi Elai* responds by invoking the *vav* that connects the two clauses: and the first of the shearing of your flock, give to him. The conjunctive *vav* ties the law of *reishit hagez* back to the preceding discussion of *terumah*, allowing the exclusions already derived there — namely, that partnership with a non-Jew is excluded by *degancha* — to carry over to the case of shearings. Having already established the exclusion of non-Jewish partnership from *terumah*, when we reach *tzoncha* in the context of the shearings, that word is free to do additional work: it now excludes even Jewish partnership.
 
 ---
 
 ## Breira Debate
 
+[DAF:135b]
 ### Field Partnership
 
-> **Hebrew/Aramaic:** עַד כָּאן לָא פְּלִיגִי, אֶלָּא דְּמָר סָבַר יֵשׁ בְּרֵירָה, וּמַר סָבַר אֵין בְּרֵירָה, אֲבָל שׁוּתָּפוּת דְּגוֹי – דִּבְרֵי הַכֹּל חַיֶּיבֶת.
+> **Hebrew/Aramaic:** וְאִיבָּעֵית אֵימָא: שׁוּתָּפוּת גּוֹי בִּתְרוּמָה, רַבָּנַן חַיּוֹבֵי מְחַיְּיבִי, דְּתַנְיָא: יִשְׂרָאֵל וְגוֹי שֶׁלָּקְחוּ שָׂדֶה בְּשׁוּתָּפוּת – טֶבֶל וְחוּלִּין מְעוֹרָבִים זֶה בָּזֶה, דִּבְרֵי רַבִּי. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: שֶׁל יִשְׂרָאֵל חַיָּיב, וְשֶׁל גּוֹי פָּטוּר.
 >
-> **Translation:** The Gemara explains the inference. **They disagree only with regard to** the following issue: **That** one **Sage,** Rabban Shimon ben Gamliel, **holds** that **there is** retroactive **clarification,** which means that when they divide the produce it will be clarified who owned which produce from the outset; **and** one **Sage,** Rabbi Yehuda HaNasi, **holds** that **there is no** retroactive **clarification,** and because it grew in a mixed state, it retains that status even after they divide the produce. **But** with regard to produce that a Jew owns in **partnership** with **a gentile, everyone agrees** that it is **obligated** in *teruma*.
+> **Translation:** The Gemara provides an alternative explanation as to why the Rabbis do not derive the exemption of sheep owned in partnership with a gentile from the case of *teruma*. **If you wish, say** instead that **with regard to *teruma*, the Rabbis** hold that one who owns produce in **partnership** with **a gentile** is in fact **obligated, as it is taught** in a *baraita*: If there were **a Jew and a gentile who purchased a field in partnership,** the produce grown in that field is considered to be **untithed produce,** which is subject to the *halakhot* of *terumot* and tithes, **and non-sacred** produce, which is exempt from the requirements of *terumot* and tithes, **mixed together;** this is **the statement of Rabbi** Yehuda HaNasi. **Rabban Shimon ben Gamliel says:** The portion **of the Jew is obligated** in *teruma* and tithes, **but** the portion **of the gentile is exempt.**
 
 The Gemara now cites a *baraita* that examines a case of a Jew and non-Jew who jointly own a field and together harvest it. The central question is what happens to the *terumah* and *maaser* obligations of the grain they divide at harvest.
 
 ### Yesh Breira
 
-According to *Rabbi* (here understood to represent the position of *yesh breira* — retroactive assignment), when the two partners divide the harvest and each takes his portion, we say retroactively that each partner's share was always "meant" to come from his portion of the field. The Jew's 50 bushels grew from the Jewish half of the field; the non-Jew's 50 bushels grew from the non-Jew's half. The result is that the grain is intermingled in terms of obligation: the Jew's portion consists of grain that is partly *tevel* (obligated in *terumot u-ma'asrot*) and partly fully exempt, because his portion grew partly from the Jewish-owned half and partly — by the logic of this view — the non-Jew's portion is carved out separately.
+According to *Rabbi* (here understood to represent the position of retroactive assignment), when the two partners divide the harvest and each takes his portion, we say retroactively that each partner's share was always "meant" to come from his portion of the field. The Jew's 50 bushels grew from the Jewish half of the field; the non-Jew's 50 bushels grew from the non-Jew's half. The result is that the grain is intermingled in terms of obligation: the Jew's portion consists of grain that is partly *tevel* (obligated in *terumot u-ma'asrot*) and partly fully exempt, because his portion grew partly from the Jewish-owned half and partly — by the logic of this view — the non-Jew's portion is carved out separately.
 
 ### Ein Breira
 
-*Rabban Gamliel* holds *ein breira*: there is no retroactive assignment. The division at harvest is what determines ownership, and it is a clean division. Whatever the Jew took is fully in his possession, and since his ownership is total, his entire portion is obligated in *terumah* and *maaser*. The non-Jew's portion is entirely exempt. The two positions thus produce opposite practical outcomes: under *yesh breira*, the Jew's grain is a mixture of obligated and exempt; under *ein breira*, it is entirely obligated.
+> **Hebrew/Aramaic:** עַד כָּאן לָא פְּלִיגִי, אֶלָּא דְּמָר סָבַר יֵשׁ בְּרֵירָה, וּמַר סָבַר אֵין בְּרֵירָה, אֲבָל שׁוּתָּפוּת דְּגוֹי – דִּבְרֵי הַכֹּל חַיֶּיבֶת.
+>
+> **Translation:** The Gemara explains the inference. **They disagree only with regard to** the following issue: **That** one **Sage,** Rabban Shimon ben Gamliel, **holds** that **there is** retroactive **clarification,** which means that when they divide the produce it will be clarified who owned which produce from the outset; **and** one **Sage,** Rabbi Yehuda HaNasi, **holds** that **there is no** retroactive **clarification,** and because it grew in a mixed state, it retains that status even after they divide the produce. **But** with regard to produce that a Jew owns in **partnership** with **a gentile, everyone agrees** that it is **obligated** in *teruma*.
+
+*Rabban Gamliel* holds there is no retroactive assignment. The division at harvest is what determines ownership, and it is a clean division. Whatever the Jew took is fully in his possession, and since his ownership is total, his entire portion is obligated in *terumah* and *maaser*. The non-Jew's portion is entirely exempt. The two positions thus produce opposite practical outcomes: under *yesh breira*, the Jew's grain is a mixture of obligated and exempt; under *ein breira*, it is entirely obligated.
 
 ### Agreed Exempt
 

@@ -3,10 +3,11 @@ import SwiftUI
 
 // MARK: - YCT Library Models
 
-/// Which YCT site an article comes from
+/// Which YCT site (and, for library.yctorah.org, which post type) an article comes from
 enum YCTSource: String, Codable {
-    case library // library.yctorah.org
+    case library // library.yctorah.org, regular "post" type (articles)
     case psak    // psak.yctorah.org
+    case audio   // library.yctorah.org, "audio" custom post type (podcast episodes)
 }
 
 /// How closely an article matches the current daf
@@ -68,16 +69,18 @@ struct YCTArticle: Identifiable, Codable {
     var additionalDafs: [Int]
     /// Which YCT site this article came from.
     var source: YCTSource
+    /// True when the post's content contains an embedded audio player (e.g. a podcast episode).
+    var isAudio: Bool
 
     init(id: Int, title: String, excerpt: String, date: String, link: String,
          authorName: String, matchType: ResourceMatchType, additionalDafs: [Int] = [],
-         source: YCTSource = .library) {
+         source: YCTSource = .library, isAudio: Bool = false) {
         self.id = id; self.title = title; self.excerpt = excerpt; self.date = date
         self.link = link; self.authorName = authorName; self.matchType = matchType
-        self.additionalDafs = additionalDafs; self.source = source
+        self.additionalDafs = additionalDafs; self.source = source; self.isAudio = isAudio
     }
 
-    // Backward-compatible decoder: old cache files lack `additionalDafs` and `source`.
+    // Backward-compatible decoder: old cache files lack `additionalDafs`, `source`, `isAudio`.
     init(from decoder: Decoder) throws {
         let c = try decoder.container(keyedBy: CodingKeys.self)
         id             = try c.decode(Int.self,               forKey: .id)
@@ -89,6 +92,7 @@ struct YCTArticle: Identifiable, Codable {
         matchType      = try c.decode(ResourceMatchType.self, forKey: .matchType)
         additionalDafs = try c.decodeIfPresent([Int].self,    forKey: .additionalDafs) ?? []
         source         = try c.decodeIfPresent(YCTSource.self, forKey: .source) ?? .library
+        isAudio        = try c.decodeIfPresent(Bool.self,     forKey: .isAudio) ?? false
     }
 }
 

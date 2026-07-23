@@ -15,13 +15,17 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Headphones
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.HorizontalDivider
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.SuggestionChip
 import androidx.compose.material3.Text
@@ -45,7 +49,10 @@ fun ResourcesTab(
     studyFontSize: StudyFontSize = StudyFontSize.MEDIUM,
     onSizeChange: (StudyFontSize) -> Unit = {},
     printFontSize: StudyFontSize = StudyFontSize.SMALL,
-    printLineSpacing: Double = 1.15
+    printLineSpacing: Double = 1.15,
+    /** Called when an embedded <audio> element (podcast episode) starts playing, so the
+     *  caller can pause the app's main daf/shiur audio to avoid overlap. */
+    onAudioPlay: () -> Unit = {}
 ) {
     val exactArticles by viewModel.exactArticles.collectAsState()
     val nearbyArticles by viewModel.nearbyArticles.collectAsState()
@@ -160,7 +167,8 @@ fun ResourcesTab(
                     onSizeChange = onSizeChange,
                     onDismiss = { viewModel.dismissArticle() },
                     printFontSize = printFontSize,
-                    printLineSpacing = printLineSpacing
+                    printLineSpacing = printLineSpacing,
+                    onAudioPlay = onAudioPlay
                 )
             }
         }
@@ -221,8 +229,17 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                 )
                 Row(
                     horizontalArrangement = Arrangement.spacedBy(4.dp),
+                    verticalAlignment = Alignment.CenterVertically,
                     modifier = Modifier.padding(start = 8.dp)
                 ) {
+                    if (article.isAudio) {
+                        Icon(
+                            Icons.Default.Headphones,
+                            contentDescription = "Audio episode",
+                            tint = MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.size(14.dp)
+                        )
+                    }
                     (listOf(referencedDaf) + article.additionalDafs).filter { it > 0 }.sorted().forEach { d ->
                         SuggestionChip(
                             onClick = {},

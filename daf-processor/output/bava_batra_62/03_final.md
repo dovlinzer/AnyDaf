@@ -1,4 +1,5 @@
 # Bava Batra 62 — Daf Yomi Shiur
+[DAF:62a]
 
 ## Long & Short Boundary
 
@@ -6,7 +7,7 @@
 
 > **Hebrew/Aramaic:** מָצַר לוֹ מֶצֶר אֶחָד אָרוֹךְ וּמֶצֶר אֶחָד קָצָר – אָמַר רַב: לֹא קָנָה אֶלָּא כְּנֶגֶד הַקָּצָר.
 >
-> **Translation:** If in the bill of sale the seller **delineated one boundary line** on one side of the field **long, and the other boundary line** on the opposite side of the field he delineated **short, Rav said:** The buyer **acquires only** a width of land **corresponding to the short** border, as it is assumed that the short boundary line delineates the actual size of the field that was sold to him, while the long boundary line was merely intended to point to the field under discussion. That is to say, the seller delineated the boundaries in a broad manner, but did not intend to include everything found within those boundaries in the sale.
+> **Translation:** § The Gemara continues its examination of the concept of delineating boundaries in a wide manner, and considers the following case: If in the bill of sale the seller **delineated one boundary line** on one side of the field **long, and the other boundary line** on the opposite side of the field he delineated **short, Rav said:** The buyer **acquires only** a width of land **corresponding to the short** border, as it is assumed that the short boundary line delineates the actual size of the field that was sold to him, while the long boundary line was merely intended to point to the field under discussion. That is to say, the seller delineated the boundaries in a broad manner, but did not intend to include everything found within those boundaries in the sale.
 
 The daf opens in the context of a broader discussion about boundary language in land sales — specifically the principle of *metzarim hirchiv lo*, whereby a seller may have drawn wider boundaries than the plot he actually intended to convey, perhaps because the most convenient landmarks happened to extend beyond the property in question. Against this background, the Gemara now introduces several scenarios involving irregular or incomplete boundary descriptions and asks what is actually acquired in each case.
 
@@ -82,11 +83,12 @@ All three of these questions — *kranot*, *kemin gam*, and *beserugin* — rema
 
 ## Omitted 4th Boundary
 
+[DAF:62b]
 ### Rav: Except Final Furrow
 
 > **Hebrew/Aramaic:** מָצַר לוֹ מֶצֶר רִאשׁוֹן וּמֶצֶר שֵׁנִי וּמֶצֶר שְׁלִישִׁי, וּמֶצֶר רְבִיעִי לֹא מָצַר לוֹ – אָמַר רַב: קָנָה הַכֹּל, חוּץ מִמֶּצֶר רְבִיעִי. וּשְׁמוּאֵל אָמַר: אֲפִילּוּ מֶצֶר רְבִיעִי. וְרַב אַסִּי אָמַר: לֹא קָנָה אֶלָּא תֶּלֶם אֶחָד עַל פְּנֵי כּוּלָּהּ –
 >
-> **Translation:** If, in the bill of sale, the seller **delineated for** the buyer the field's **first boundary,** its **second boundary, and** its **third boundary, but he did not delineate** its **fourth boundary** at all, **Rav says:** The buyer **acquires the entire** field, **except for** the one furrow along which **the fourth boundary** runs, which is usually differentiated in some way from the field itself. **And Shmuel says:** The buyer acquires **even** the furrow along which **the fourth boundary** runs. **And Rav Asi says: He acquires only** the width of **one furrow along the entire** perimeter of the three boundaries specified by the seller.
+> **Translation:** § The Gemara raises a similar dilemma. If, in the bill of sale, the seller **delineated for** the buyer the field's **first boundary,** its **second boundary, and** its **third boundary, but he did not delineate** its **fourth boundary** at all, **Rav says:** The buyer **acquires the entire** field, **except for** the one furrow along which **the fourth boundary** runs, which is usually differentiated in some way from the field itself. **And Shmuel says:** The buyer acquires **even** the furrow along which **the fourth boundary** runs. **And Rav Asi says: He acquires only** the width of **one furrow along the entire** perimeter of the three boundaries specified by the seller.
 
 The Gemara now moves to a case that at first glance appears simple: a seller drew three of the four boundaries — say the northern, eastern, and southern — but did not draw the western boundary at all. Three full sides are defined. What is acquired?
 
@@ -104,7 +106,7 @@ Shmuel disagrees in the opposite direction: *afilu metzar revi'i* — even the f
 
 Rav Assi takes the most restrictive position of all: *lo kana ela telem echad al pnei kula* — the buyer acquires nothing more than a single furrow running along each of the three specified boundaries. This is extraordinarily limiting. The logic, as the Gemara explains, combines two principles: Rav Assi holds that the failure to draw the fourth boundary should be read like Rav's principle of *shura shura* — that something has been held back — and then extends this further with the rule *mid-shayar b'metzar shayar nami b'kulah*: if something is withheld at the boundary, one should assume a great deal is withheld throughout. The result is a near-total contraction: the buyer receives only the outermost furrow of each of the three sides, nothing more.
 
-### Rava: Conditional Exclusion
+### Rava: Conditional Exclus…
 
 > **Hebrew/Aramaic:** אָמַר רָבָא, הִלְכְתָא: קָנָה הַכֹּל חוּץ מִמֶּצֶר רְבִיעִי. וְלָא אֲמַרַן אֶלָּא דְּלָא מַבְלַע, אֲבָל מַבְלַע – קָנָה.
 >
@@ -130,23 +132,23 @@ But when the fourth boundary is *lo mivla* — it stands fully outside the three
 
 The Gemara presents a second version of Rava's ruling that inverts the structure in a telling way. In this second version, Rava rules *kana hakol v'afilu metzar revi'i* — everything is acquired, including the fourth boundary — and then specifies the conditions under which the fourth boundary is included. It is included *ella de-mivla*: only when it is absorbed. If it is not absorbed, *lo kanei* — it is not acquired at all. The nuance within the absorbed case: even when absorbed, the fourth boundary is acquired *only* if it lacks both *richva de-dikla* and the area of *tisha kavin*. If it is absorbed but has trees planted or is a large enough area, it is not acquired.
 
-> **Hebrew/Aramaic:** וְכִי מַבְלַע נָמֵי לָא אֲמַרַן אֶלָּא דְּלֵיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְלָא הָוֵי תִּשְׁעַת קַבִּין; אֲבָל אִיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְהָוֵי תִּשְׁעַת קַבִּין – לֹא קָנָה. מִכְּלָל דְּכִי לָא מוּבְלָע – אַף עַל גַּב דְּלֵיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְלָא הָוֵי תִּשְׁעַת קַבִּין – לָא קָנֵי.
->
-> **Translation:** Rava adds: **And even when it is included** within the adjoining boundaries, **we said** that the buyer acquires it **only** in a case **where there is no row of trees on it, and it is not** an area fit for sowing **nine *kav*** of seed. **But** where **there is a row of trees on it, or it is** an area fit for sowing **nine *kav*** of seed, the buyer **does not acquire** it. **By inference** one derives from here **that when** the fourth boundary **is not included** within the two adjacent boundaries, **even if there is no row of trees on it and it is not** an area fit for sowing **nine *kav*** of seed, the buyer **does not acquire** it.
-
 The two versions of Rava thus differ in an important structural way. In the first version, the primary case is exclusion of the fourth boundary, with absorption and lack of significance serving as grounds to *include* it. In the second version, the primary case is inclusion of the fourth boundary, with non-absorption serving as grounds to *exclude* it, and within the absorbed case, significance (*richva de-dikla* or *tisha kavin*) serving as a further basis for exclusion.
 
 ### Consensus & Dispute
+
+> **Hebrew/Aramaic:** וְכִי מַבְלַע נָמֵי לָא אֲמַרַן אֶלָּא דְּלֵיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְלָא הָוֵי תִּשְׁעַת קַבִּין; אֲבָל אִיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְהָוֵי תִּשְׁעַת קַבִּין – לֹא קָנָה. מִכְּלָל דְּכִי לָא מוּבְלָע – אַף עַל גַּב דְּלֵיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְלָא הָוֵי תִּשְׁעַת קַבִּין – לָא קָנֵי.
+>
+> **Translation:** Rava adds: **And even when it is included** within the adjoining boundaries, **we said** that the buyer acquires it **only** in a case **where there is no row of trees on it, and it is not** an area fit for sowing **nine *kav*** of seed. **But** where **there is a row of trees on it, or it is** an area fit for sowing **nine *kav*** of seed, the buyer **does not acquire** it. **By inference** one derives from here **that when** the fourth boundary **is not included** within the two adjacent boundaries, **even if there is no row of trees on it and it is not** an area fit for sowing **nine *kav*** of seed, the buyer **does not acquire** it.
 
 > **Hebrew/Aramaic:** שָׁמְעִינַן מִתַּרְוַיְיהוּ לִישָּׁנֵי דְּרָבָא, דִּבְשָׂדֶה לָא שַׁיַּיר וְלָא מִידֵּי. וְשָׁמְעִינַן נָמֵי, דְּהֵיכָא דְּמַבְלַע, וְלֵיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְלָא הָוֵי תִּשְׁעַת קַבִּין – קָנָה. לָא מַבְלַע, וְאִיכָּא עֲלֵיהּ רִיכְבָּא דְּדִיקְלָא, וְהָוֵי תִּשְׁעַת קַבִּין – לֹא קָנָה.
 >
 > **Translation:** **We conclude according to both versions** of the statement **of Rava that** even if the seller withheld something for himself along the fourth boundary, **he did not withhold anything at all in the field** itself. **And we also conclude** according to both versions **that where** the fourth boundary **is included** within the space defined by the two adjacent boundaries, **and there is no row of trees on it and it is not** an area fit for sowing **nine *kav*** of seed, the buyer **acquires** it. And furthermore, we conclude according to both versions that if the fourth boundary **is not included** within the two adjacent boundaries, **and there is a row of trees on it, or it is** an area fit for sowing **nine *kav*** of seed, the buyer **does not acquire** it.
 
-The Gemara maps out which outcomes are agreed upon by both versions of Rava and which are disputed. Both versions agree on two extreme cases. First, when the fourth boundary is absorbed and is also small and insignificant — lacking trees and below *tisha kavin* — both agree it is acquired. Second, when it is not absorbed and has both markers of significance — it is outside the drawn lines and has *richva de-dikla* or *tisha kavin* — both versions agree it is not acquired.
-
 > **Hebrew/Aramaic:** מַבְלַע וְאִיכָּא עֲלֵיהּ; לָא מַבְלַע וְלֵיכָּא עֲלֵיהּ – אִתְּמַר לַהּ לְהַאי גִּיסָא, וְאִתְּמַר לַהּ לְהַאי גִּיסָא. שׁוּדָא דְּדַיָּינֵי.
 >
 > **Translation:** If the fourth boundary **is included** within the two adjacent boundaries, **and there is** a row of trees **on it** or it is fit for sowing nine *kav* of seed, or if the fourth boundary **is not included** within the two adjacent boundaries, **and there is no** row of trees **on it** nor is it fit for sowing nine *kav*, the ruling in these cases **was stated in this direction,** that the land adjacent to the fourth boundary is acquired by the buyer, **and it was stated in that direction,** that this land is not acquired by the buyer, depending upon which version of Rava's statement is accepted. Since there is no clear ruling in these cases, the decision is left to **the discretion of the judges,** who must rule in accordance with what appears to them to be the intention of the seller.
+
+The Gemara maps out which outcomes are agreed upon by both versions of Rava and which are disputed. Both versions agree on two extreme cases. First, when the fourth boundary is absorbed and is also small and insignificant — lacking trees and below *tisha kavin* — both agree it is acquired. Second, when it is not absorbed and has both markers of significance — it is outside the drawn lines and has *richva de-dikla* or *tisha kavin* — both versions agree it is not acquired.
 
 The dispute concerns the middle cases: when the fourth boundary is absorbed but possesses markers of significance, or when it is not absorbed but is also small and without plantings. In those mixed cases, the two readings of Rava's position diverge, one treating the boundary as included and the other as excluded. The *halakha* in such cases is *shuda dedaynei* — it is left to the discretion of the judges, who must assess what the seller most plausibly intended. The Rashbam's explanation of this ruling is unusually long, as is the *Tosafot*, reflecting the complexity of the analysis. Notably, the Gemara does not resort to the ordinary default rules — neither *hamotzi mechavero alav hara'ayah* nor *kol dalim gavar* — but assigns the determination to judicial judgment about the seller's intent.
 
@@ -158,21 +160,21 @@ The dispute concerns the middle cases: when the fourth boundary is absorbed but 
 
 > **Hebrew/Aramaic:** אָמַר רַבָּה: ״פַּלְגָא דְּאִית לִי בְּאַרְעָא״ – פַּלְגָא. ״פַּלְגָא בְּאַרְעָא דְּאִית לִי״ – רִיבְעָא. אֲמַר לֵיהּ אַבָּיֵי: מַאי שְׁנָא הָכִי וּמַאי שְׁנָא הָכִי? אִישְׁתִּיק.
 >
-> **Translation:** **Rabba said:** If one owns a field in partnership with another, and he says to a third person: I am selling you **the half that I have in this land,** he means to sell him **half** of that field, i.e., his entire share. If he says to the buyer: I am selling you **half of the land that I have,** he means to sell him **one-quarter** of that field, i.e., half of his share. **Abaye said to him: What is different** about **this** wording **and what is different** about **that** wording, that you rule differently in the two cases? Rabba **was silent,** offering no reply.
+> **Translation:** § **Rabba said:** If one owns a field in partnership with another, and he says to a third person: I am selling you **the half that I have in this land,** he means to sell him **half** of that field, i.e., his entire share. If he says to the buyer: I am selling you **half of the land that I have,** he means to sell him **one-quarter** of that field, i.e., half of his share. **Abaye said to him: What is different** about **this** wording **and what is different** about **that** wording, that you rule differently in the two cases? Rabba **was silent,** offering no reply.
 
 The Gemara now turns to a distinct but related question about the precision of language in the sale of partnership land. Raba identifies a critical linguistic distinction. When Reuven and Shimon are partners in a field and Reuven wishes to sell his interest to Levi, there are two ways he might phrase the transaction. If Reuven says *palga de'is li be'ara* — "the half that I have in this land" — he has sold his entire half-interest. That is, he conveyed the half of the field that he owns. But if Reuven says *palga be'ara de'is li* — "half of the land that I have" — he has sold only half of his share, which is a quarter of the whole field, *riva*. The distinction is subtle: in the first formulation, Reuven identifies his *palga* — the half that is his — as the object of the sale. In the second formulation, he sells *palga* of what he has, which itself is already only a half.
 
 ### Abaye's Challenge
 
-> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, אֲנָא סָבְרִי: מִדְּאִישְׁתִּיק – קַבּוֹלֵי קַבְּלַהּ. וְלָא הִיא; חָזֵינָא הָנְהוּ שְׁטָרֵי דְּנָפְקִי מִבֵּי מָר, וּכְתִיב בְּהוּ הָכִי: ״פַּלְגָא דְּאִית לִי בְּאַרְעָא״ – פַּלְגָא, ״פַּלְגָא בְּאַרְעָא דְּאִית לִי״ – רִיבְעָא.
->
-> **Translation:** **Abaye said: I had assumed that since he was silent, he** must have **accepted** my opinion and retracted his statement; **but** that **is not so.** As on another occasion **I saw certain bills** of sale **that issued from** my **Master's house,** that is, they were issued under the auspices of my master Rabba, **in which it was written: The half that I have in this land,** and it was clear from another clause in the bill that **half** of the field was being sold. And there was another bill of sale in which it was written: **Half of the land that I have,** and it was clear from another clause in the bill that **one-quarter** of the field was being sold.
-
 Abaye challenged Raba directly: *mai shna hai u-mai shna hai* — what is really the difference? Abaye's view was that people do not speak with such precision, and in both phrasings Reuven means to convey his half-share. Abaye further reported that when Raba fell silent in response, he assumed that silence constituted concession: *ana savri mide'ishtik kibulei kibla* — I thought that since Raba was silent, he had accepted my argument. But Abaye was mistaken.
 
 ### Documentary Evidence
 
-Raba's silence was not concession — he simply did not feel it necessary to press the argument further. The documents from his court prove he never abandoned the distinction. Documents processed there (*shtarei dinfaku mibei Mar*) demonstrated that Raba consistently maintained the distinction in practice. A document reading *palga de'is li be'ara* was adjudicated as conveying the full half-interest; a document reading *palga be'ara de'is li* was adjudicated as conveying only a quarter.
+> **Hebrew/Aramaic:** אָמַר אַבָּיֵי, אֲנָא סָבְרִי: מִדְּאִישְׁתִּיק – קַבּוֹלֵי קַבְּלַהּ. וְלָא הִיא; חָזֵינָא הָנְהוּ שְׁטָרֵי דְּנָפְקִי מִבֵּי מָר, וּכְתִיב בְּהוּ הָכִי: ״פַּלְגָא דְּאִית לִי בְּאַרְעָא״ – פַּלְגָא, ״פַּלְגָא בְּאַרְעָא דְּאִית לִי״ – רִיבְעָא.
+>
+> **Translation:** **Abaye said: I had assumed that since he was silent, he** must have **accepted** my opinion and retracted his statement; **but** that **is not so.** As on another occasion **I saw certain bills** of sale **that issued from** my **Master's house,** that is, they were issued under the auspices of my master Rabba, **in which it was written: The half that I have in this land,** and it was clear from another clause in the bill that **half** of the field was being sold. And there was another bill of sale in which it was written: **Half of the land that I have,** and it was clear from another clause in the bill that **one-quarter** of the field was being sold.
+
+*Velo hi* — it was not so. The evidence came from Raba's own *beit din*. Documents processed there (*shtarei dinfaku mibei Mar*) demonstrated that Raba consistently maintained the distinction in practice. A document reading *palga de'is li be'ara* was adjudicated as conveying the full half-interest; a document reading *palga be'ara de'is li* was adjudicated as conveying only a quarter. Raba's silence was not concession — he simply did not feel it necessary to press the argument further. The documents from his court prove he never abandoned the distinction.
 
 ---
 
@@ -196,7 +198,7 @@ Again, Abaye objects: *mai shena hachi u-mai shena hachi* — what is the differ
 
 ### Boundaries Language Role
 
-> **Hebrew/Aramaic:** וְלָא הִיא, דְּאָמַר רַב יֵימַר בַּר שֶׁלְמְיָה: לְדִידִי מִפָּרְשָׁא לִי מִינֵּיהּ דְּאַבָּיֵי: בֵּין ״מֶצֶר אַרְעָא דְּמִינַּהּ פַּלְגָא״, וּבֵין ״מֶצֶר אַרְעָא דְּמִינַּהּ פְּסִיקָא״ – אִי אֲמַר לֵיהּ: ״אִלֵּין מִצְרָנַהָא״ – פַּלְגָא, לָא אֲמַר לֵיהּ: ״אִלֵּין מִצְרָנַהָא״ – תִּשְׁעָה קַבִּין.
+> **Hebrew/Aramaic:** וְלָא הִיא, דְּאָמַר רַב יֵימַר בַּר שֶׁלֶמְיָה: לְדִידִי מִפָּרְשָׁא לִי מִינֵּיהּ דְּאַבָּיֵי: בֵּין ״מֶצֶר אַרְעָא דְּמִינַּהּ פַּלְגָא״, וּבֵין ״מֶצֶר אַרְעָא דְּמִינַּהּ פְּסִיקָא״ – אִי אֲמַר לֵיהּ: ״אִלֵּין מִצְרָנַהָא״ – פַּלְגָא, לָא אֲמַר לֵיהּ: ״אִלֵּין מִצְרָנַהָא״ – תִּשְׁעָה קַבִּין.
 >
 > **Translation:** **But** that **is not so, as Rav Yeimar bar Shelemya said:** The matter **was explained to me by Abaye,** as follows: **Whether** the seller writes with regard to the fourth boundary: **The boundary** of the field is **the land through which** the field **is halved, or** he writes: **The boundary** of the field is **the land through which** a plot **can be set apart, if he said to** the buyer: **These are its boundaries,** he has sold him **half** of the field. But if **he did not say to** the buyer: **These are its boundaries,** he has sold him only an area fit for sowing **nine *kav*** of seed.
 

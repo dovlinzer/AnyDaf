@@ -1062,7 +1062,8 @@ struct ContentView: View {
                 readAloudManager: readAloudManager,
                 isAudioPlaying: !audioPlayer.isStopped,
                 textOnly: true,
-                onDismiss: { }
+                onDismiss: { },
+                onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } }
             )
         }
     }
@@ -1092,7 +1093,8 @@ struct ContentView: View {
                         studyManager.endSession()
                     }
                 }
-            }
+            },
+            onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } }
         )
     }
 

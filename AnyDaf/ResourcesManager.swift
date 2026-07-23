@@ -28,6 +28,7 @@ class ResourcesManager: ObservableObject {
 
     private let libraryClient = YCTLibraryClient.shared
     private let psakClient    = YCTLibraryClient.psak
+    private let audioClient   = YCTLibraryClient.audio
 
     // MARK: - Public API
 
@@ -38,20 +39,26 @@ class ResourcesManager: ObservableObject {
         // ── Step 1: re-categorise from in-memory cache (instant, no I/O) ────────────
         let libraryKey = cacheKey(.library, tractate)
         let psakKey    = cacheKey(.psak, tractate)
+        let audioKey   = cacheKey(.audio, tractate)
 
-        if let lib = allArticlesCache[libraryKey], let psak = allArticlesCache[psakKey] {
-            categorize(articles: lib + psak, forDaf: daf)
+        if let lib = allArticlesCache[libraryKey], let psak = allArticlesCache[psakKey],
+           let audio = allArticlesCache[audioKey] {
+            categorize(articles: lib + psak + audio, forDaf: daf)
             return
         }
 
         // ── Step 2: try disk cache ────────────────────────────────────────────────
+        // The audio client is NOT disk-cached: its endpoint is currently unexposed on the
+        // WordPress side (see YCTLibraryClient.audio), so every load re-fetches live —
+        // once it's fixed on the WP side, the next app launch picks it up immediately
+        // instead of waiting out a 7-day disk-cache TTL primed with an empty result.
         let cachedLib  = allArticlesCache[libraryKey] ?? ResourcesDiskCache.load(tractate: tractate, source: .library)
         let cachedPsak = allArticlesCache[psakKey]    ?? ResourcesDiskCache.load(tractate: tractate, source: .psak)
 
-        if let lib = cachedLib, let psak = cachedPsak {
+        if let lib = cachedLib, let psak = cachedPsak, let audio = allArticlesCache[audioKey] {
             allArticlesCache[libraryKey] = lib
             allArticlesCache[psakKey]    = psak
-            categorize(articles: lib + psak, forDaf: daf)
+            categorize(articles: lib + psak + audio, forDaf: daf)
             return
         }
 
@@ -67,8 +74,11 @@ class ResourcesManager: ObservableObject {
                                                         cached: cachedLib)
             async let psakFetch    = fetchAllFromClient(psakClient, tractate: tractate,
                                                         cached: cachedPsak)
+            // Swallows errors (the audio endpoint isn't live yet) so a broken/absent audio
+            // source never blocks or fails the library/psak fetch it runs alongside.
+            async let audioFetch   = fetchAllFromClientSafely(audioClient, tractate: tractate)
 
-            let (lib, psak) = try await (libraryFetch, psakFetch)
+            let (lib, psak, audio) = try await (libraryFetch, psakFetch, audioFetch)
 
             // Persist any newly fetched data
             if cachedLib == nil {
@@ -83,8 +93,10 @@ class ResourcesManager: ObservableObject {
             } else {
                 allArticlesCache[psakKey] = cachedPsak!
             }
+            allArticlesCache[audioKey] = audio
 
-            categorize(articles: (allArticlesCache[libraryKey] ?? []) + (allArticlesCache[psakKey] ?? []),
+            categorize(articles: (allArticlesCache[libraryKey] ?? []) + (allArticlesCache[psakKey] ?? [])
+                       + (allArticlesCache[audioKey] ?? []),
                        forDaf: daf)
 
         } catch {
@@ -99,6 +111,7 @@ class ResourcesManager: ObservableObject {
         switch article.source {
         case .library: return try await libraryClient.fetchArticleContent(id: article.id)
         case .psak:    return try await psakClient.fetchArticleContent(id: article.id)
+        case .audio:   return try await audioClient.fetchArticleContent(id: article.id)
         }
     }
 
@@ -160,6 +173,16 @@ class ResourcesManager: ObservableObject {
 
     private func cacheKey(_ source: YCTSource, _ tractate: String) -> String {
         "\(source.rawValue):\(tractate)"
+    }
+
+    /// Same as `fetchAllFromClient`, but never throws — any failure (e.g. the audio
+    /// endpoint not being live yet on the WordPress side) is swallowed and treated as
+    /// "no articles from this client" rather than failing the whole `loadResources` call.
+    private func fetchAllFromClientSafely(
+        _ client: YCTLibraryClient,
+        tractate: String
+    ) async -> [YCTArticle] {
+        (try? await fetchAllFromClient(client, tractate: tractate, cached: nil)) ?? []
     }
 
     /// Fetches all articles for a tractate from a single client in one bulk request,

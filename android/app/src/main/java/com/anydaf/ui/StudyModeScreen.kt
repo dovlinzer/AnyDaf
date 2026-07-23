@@ -156,6 +156,7 @@ fun StudyModeScreen(
             resourcesViewModel = resourcesViewModel,
             isAudioStopped = isAudioStopped,
             onComplete = onBack,
+            onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
             onPrintTranslation = {
                 val s = studyViewModel.session.value
                 if (s != null) {
@@ -188,6 +189,9 @@ fun StudyModeContent(
     onComplete: (() -> Unit)? = null,
     onStartStudy: (() -> Unit)? = null,
     onPrintTranslation: (() -> Unit)? = null,
+    /** Called when an embedded <audio> element (podcast episode) starts playing in the
+     *  Resources tab, so the caller can pause the app's main daf/shiur audio. */
+    onAudioPlay: () -> Unit = {},
     modifier: Modifier = Modifier
 ) {
     val session by studyViewModel.session.collectAsState()
@@ -528,7 +532,8 @@ fun StudyModeContent(
                                 studyFontSize = studyFontSize,
                                 onSizeChange = { contentViewModel.setStudyFontSize(it) },
                                 printFontSize = printFontSize,
-                                printLineSpacing = printLineSpacing
+                                printLineSpacing = printLineSpacing,
+                                onAudioPlay = onAudioPlay
                             )
                         }
                     }

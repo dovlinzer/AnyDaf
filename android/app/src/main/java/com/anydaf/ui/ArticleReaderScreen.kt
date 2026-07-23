@@ -3,6 +3,9 @@ package com.anydaf.ui
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
+import android.os.Handler
+import android.os.Looper
+import android.webkit.JavascriptInterface
 import android.webkit.WebResourceRequest
 import android.webkit.WebView
 import android.webkit.WebViewClient
@@ -61,7 +64,10 @@ fun ArticleReaderScreen(
     onSizeChange: (StudyFontSize) -> Unit,
     onDismiss: () -> Unit,
     printFontSize: StudyFontSize = StudyFontSize.SMALL,
-    printLineSpacing: Double = 1.15
+    printLineSpacing: Double = 1.15,
+    /** Called when an embedded <audio> element (podcast episode) starts playing, so the
+     *  caller can pause the app's main daf/shiur audio to avoid overlap. */
+    onAudioPlay: () -> Unit = {}
 ) {
     val context = LocalContext.current
     val darkTheme = isSystemInDarkTheme()
@@ -160,6 +166,12 @@ fun ArticleReaderScreen(
                             settings.javaScriptEnabled = true
                             settings.domStorageEnabled = false
                             setBackgroundColor(android.graphics.Color.TRANSPARENT)
+                            addJavascriptInterface(object {
+                                @JavascriptInterface
+                                fun onPlay() {
+                                    Handler(Looper.getMainLooper()).post { onAudioPlay() }
+                                }
+                            }, "AudioBridge")
                             webViewClient = object : WebViewClient() {
                                 override fun shouldOverrideUrlLoading(
                                     view: WebView,
@@ -315,7 +327,17 @@ private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean)
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <style>$css</style>
         </head>
-        <body>$bodyHtml</body>
+        <body>$bodyHtml
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('audio').forEach(function(a) {
+                a.addEventListener('play', function() {
+                    if (window.AudioBridge) { window.AudioBridge.onPlay(); }
+                });
+            });
+        });
+        </script>
+        </body>
         </html>
     """.trimIndent()
 }

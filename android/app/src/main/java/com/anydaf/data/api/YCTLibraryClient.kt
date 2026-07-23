@@ -18,7 +18,9 @@ class YCTLibraryClient(
     /** Term ID for the root "Talmud" node. null = tractate terms are at root level. */
     private val talmudTermID: Int?,
     /** When true, articles tagged directly on the tractate term are also fetched (daf = 0). */
-    val fetchesTractateLevel: Boolean
+    val fetchesTractateLevel: Boolean,
+    /** The WordPress REST collection name for this post type (e.g. "posts", "audio"). */
+    private val restBase: String = "posts"
 ) {
 
     companion object {
@@ -38,6 +40,30 @@ class YCTLibraryClient(
             source = YCTSource.PSAK,
             talmudTermID = null,
             fetchesTractateLevel = true
+        )
+
+        /**
+         * Client for the "Iggros Moshe A to Z" podcast — a custom "audio" post type on
+         * library.yctorah.org (same site/host as [library], so it shares the same reference
+         * taxonomy term tree — hence the same talmudTermID).
+         *
+         * WARNING: as of 2026-07-22 this post type is NOT exposed via the WordPress REST API
+         * at all (confirmed via the site's full /wp-json/ route index — no "audio" route of
+         * any name exists yet). Every request through this client will fail until that's fixed
+         * on the WordPress side (show_in_rest needs to be set on the post type's registration).
+         * restBase = "audio" is a GUESS matching the post type's URL slug
+         * (library.yctorah.org/audio/[slug]/) and WordPress's own default behavior of using the
+         * post type slug as the REST base when none is explicitly configured — but the
+         * theme/plugin code could set an explicit different rest_base. Once REST access is
+         * enabled, check /wp-json/wp/v2/types for the real value and update this constant if it
+         * differs. See "WordPress Audio Posts" in CLAUDE.md for full context.
+         */
+        val audio = YCTLibraryClient(
+            baseURL = "https://library.yctorah.org/wp-json/wp/v2",
+            source = YCTSource.AUDIO,
+            talmudTermID = 1899,
+            fetchesTractateLevel = false,
+            restBase = "audio"
         )
 
         private val anyDafToYCT = mapOf(
@@ -130,7 +156,7 @@ class YCTLibraryClient(
 
         val ids = allTermIDs.joinToString(",")
         val fields = "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"
-        val url = "$baseURL/posts?reference=$ids&per_page=100&_fields=${encode(fields)}&_embed=author"
+        val url = "$baseURL/$restBase?reference=$ids&per_page=100&_fields=${encode(fields)}&_embed=author"
         val body = fetchString(url) ?: return@withContext emptyList()
         val arr = JSONArray(body)
 
@@ -142,10 +168,18 @@ class YCTLibraryClient(
 
             if (nonEnglishSuffixes.any { slug.endsWith(it) }) continue
 
+            val contentRaw = post.optJSONObject("content")?.getString("rendered") ?: ""
+            val isAudio = contentRaw.contains("<audio", ignoreCase = true)
+
             val title = stripHtml(post.getJSONObject("title").getString("rendered"))
             var excerpt = stripHtml(post.getJSONObject("excerpt").getString("rendered"))
-            if (excerpt.isEmpty()) {
-                val full = stripHtml(post.optJSONObject("content")?.getString("rendered") ?: "")
+            if (excerpt.isEmpty() && contentRaw.isNotEmpty()) {
+                // Audio posts (podcast episodes) embed a PowerPress player + link/subscribe
+                // boilerplate ahead of any real description — strip it so the fallback
+                // excerpt shows the actual episode blurb instead of "Podcast: Play in new
+                // window | Download ... Subscribe: RSS".
+                val cleaned = if (isAudio) stripAudioPlayerBoilerplate(contentRaw) else contentRaw
+                val full = stripHtml(cleaned)
                 excerpt = if (full.length > 200) full.take(200).trimEnd() + "…" else full
             }
             val date = formatDate(post.optString("date", ""))
@@ -176,7 +210,8 @@ class YCTLibraryClient(
                 authorName = authorName,
                 matchType = ResourceMatchType.TractateWide(primaryDaf),
                 additionalDafs = additionalDafs,
-                source = source
+                source = source,
+                isAudio = isAudio
             ))
         }
 
@@ -186,10 +221,13 @@ class YCTLibraryClient(
     // MARK: - Article Content
 
     suspend fun fetchArticleContent(id: Int): String = withContext(Dispatchers.IO) {
-        val url = "$baseURL/posts/$id?_fields=id,content"
+        val url = "$baseURL/$restBase/$id?_fields=id,content"
         val body = fetchString(url) ?: return@withContext ""
         val json = JSONObject(body)
-        json.getJSONObject("content").getString("rendered")
+        val rendered = json.getJSONObject("content").getString("rendered")
+        // Some embedded media (older audio posts especially) still link http:// sources.
+        // WebView blocks cleartext by default, so upgrade before it ever reaches one.
+        rendered.replace("src=\"http://", "src=\"https://")
     }
 
     // MARK: - Private Helpers
@@ -210,6 +248,22 @@ class YCTLibraryClient(
     }
 
     private fun encode(value: String) = java.net.URLEncoder.encode(value, "UTF-8")
+
+    /** Strips the PowerPress audio-player widget and its "Podcast: ... | Download ..." /
+     * "Subscribe: RSS" link paragraphs from a post's raw content HTML, so an excerpt
+     * derived from it (when the post has no WordPress excerpt) shows the real episode
+     * description instead of that boilerplate. */
+    private fun stripAudioPlayerBoilerplate(html: String): String {
+        var s = html
+        val patterns = listOf(
+            "(?s)<div class=\"powerpress_player\"[^>]*>.*?</div>",
+            "(?s)<p class=\"powerpress_links[^\"]*\"[^>]*>.*?</p>"
+        )
+        for (pattern in patterns) {
+            s = s.replace(Regex(pattern), "")
+        }
+        return s
+    }
 
     private fun stripHtml(html: String): String {
         val spanned = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {

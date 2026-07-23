@@ -1,28 +1,25 @@
 # Zevachim 25 — Daf Yomi Shiur
+[DAF:24b]
 
 ## Right vs. Left Hand
 
 ### Rabbi Shimon & Kabbalah
 
-> **Hebrew/Aramaic:** וּלְרַבִּי שִׁמְעוֹן – דְּלָא בָּעֵי קִידּוּשׁ קוֹמֶץ; וּלְמַאן דְּאָמַר לְרַבִּי שִׁמְעוֹן נָמֵי בָּעֵי קִידּוּשׁ – קוֹמֶץ בִּשְׂמֹאל אַכְשׁוֹרֵי מַכְשַׁר; ״יָד״–״יָד״ דְּרָבָא לְמָה לִי?
->
-> **Translation:** According to Rabbi Shimon, who does not require sanctification of the handful, or according to the one who says that Rabbi Shimon also requires the sanctification of the handful but that he deems the sanctification fit when performed with the left hand, why do I need the verbal analogy of Rava between "hand" and "hand"?
-
 Our daf begins at the bottom of 24b, continuing the extended discussion of when the right hand is required for *avodah*. The central figure in this debate is Rabbi Shimon, who holds that the right hand is not required for *kabbalas ha-dam* — the catching of the blood. His position turns on a careful reading of a *pasuk* containing the word *be-etzba'o* ("with his finger"): the question is whether that word governs the first half of the verse, which speaks of catching the blood, or only the second half, which speaks of placing it. For Rabbi Shimon, the determinative word is *etzba* — "finger." The right hand is required only where that word appears explicitly.
 
 ### Etzba vs. Kohen
 
-> **Hebrew/Aramaic:** אִי לִקְמִיצָה עַצְמָהּ – מִדְּרַב יְהוּדָה בְּרֵיהּ דְּרַבִּי חִיָּיא נָפְקָא; דְּאָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַבִּי חִיָּיא: מַאי טַעְמָא דְּרַבִּי שִׁמְעוֹן? דְּאָמַר קְרָא: ״קֹדֶשׁ קָדָשִׁים הִיא כַּחַטָּאת וְכָאָשָׁם״;
+> **Hebrew/Aramaic:** אֶלָּא אָמַר רָבָא: אוֹ אֶצְבַּע, אוֹ כְּהוּנָּה.
 >
-> **Translation:** **If** one suggests that it is necessary to indicate that the **removal of** the **handful itself** must be performed with the right hand, this cannot be, since that is **derived from** the verse cited by **Rav Yehuda, son of Rabbi Ḥiyya. As Rav Yehuda, son of Rabbi Ḥiyya, says: What is the reason that Rabbi Shimon** does not require that the handful be sanctified in a service vessel? **As the verse states** with regard to the meal offering: **"It is most holy, as the sin offering, and as the guilt offering"** (Leviticus 6:10).
+> **Translation:** **Rather, Rava says:** This statement means that if the verse mentions **either a finger or** the **priesthood,** only the right hand may be used.
 
 The *Gemara*'s current position is that the *chachamim* derive the right-hand requirement from two distinct words: either *etzba* or *Kohen*. Wherever the *pasuk* uses the word *kohen* to describe an *avodah*, the *chachamim* read that as implicitly requiring the right hand. Rabbi Shimon, by contrast, recognizes only *etzba* as a trigger for that requirement.
 
 ### Chatas, Olah, Mincha
 
-> **Hebrew/Aramaic:** בָּא לְעוֹבְדָהּ בַּיָּד – עוֹבְדָהּ בְּיָמִין, כְּחַטָּאת; בָּא לְעוֹבְדָהּ בִּכְלִי – עוֹבְדָהּ בִּשְׂמֹאל, כְּאָשָׁם!
+> **Hebrew/Aramaic:** אֲמַר לֵיהּ אַבָּיֵי: הֲרֵי הוֹלָכַת אֵבָרִים לַכֶּבֶשׁ – דִּכְתִיב בְּהוּ כְּהוּנָּה, דִּכְתִיב: ״וְהִקְרִיב הַכֹּהֵן אֶת הַכֹּל [וְהִקְטִיר] הַמִּזְבֵּחָה״; וְאָמַר מָר: זוֹ הוֹלָכַת אֵבָרִים לַכֶּבֶשׁ; וּתְנַן: הָרֶגֶל שֶׁל יָמִין בִּשְׂמֹאלוֹ, וּבֵית עוֹרָהּ לַחוּץ!
 >
-> **Translation:** The verse compares the meal offering to a sin offering and a guilt offering. Therefore, if the priest **comes to perform** the burning of the handful **with** his **hand,** then **he performs it with** his **right** hand, **like a sin offering,** whose blood is sprinkled by hand. And if he **comes to perform it with a vessel,** i.e., if he first sanctifies the handful in a service vessel, then **he** may **perform it with** his **left** hand, **like a guilt offering,** whose blood is sprinkled from a vessel. Since the removal of the handful is performed by hand, the verse indicates that it must be performed with the right hand, and the verbal analogy is unnecessary.
+> **Translation:** **Abaye said to** Rava: But this is contradicted by the verse discussing **the conveyance of** the **limbs** of the daily burnt offering **to the ramp** of the altar, **as priesthood is written with regard to it, as it is written: "And the priest shall sacrifice the whole** and make it smoke **upon the altar"** (Leviticus 1:13), **and the Master said** that **this** verse is referring to the **conveyance of** the **limbs to the ramp. And** yet **we learned** in a mishna (*Tamid* 31b): When the priest conveys the limbs to the ramp, **the foot of** the **right** side of the offering is carried **in the left** hand **of** the priest, **and the place of its skin,** i.e., the side of the limb covered in skin, is held facing **outward.** Clearly, use of the left hand does not disqualify the conveyance of the limbs.
 
 The practical implications are as follows. By the *chatas*, everyone agrees that the placing of the blood on the *mizbei'ach* requires the right hand, since the verse says *be-etzba'o ve-natan* — the word *etzba* appears explicitly. The dispute concerns the catching of the blood, where the verse says *ve-lakach ha-kohen*: the *chachamim* say the word *kohen* demands the right hand; Rabbi Shimon says it does not. Similarly, by the *olah*, the throwing of the blood is described with *ve-zarak ha-kohen* — no mention of *etzba*. The *chachamim* again require the right hand; Rabbi Shimon does not.
 
@@ -34,9 +31,9 @@ One act that complicates Rabbi Shimon's position is the *kemitza* — taking the
 
 ### Rava's Yad Yad
 
-> **Hebrew/Aramaic:** לֹא נִצְרְכָא [אֶלָּא] לְקוֹמֵץ מִנְחַת חוֹטֵא; סָלְקָא דַּעְתָּךְ אָמֵינָא, הוֹאִיל וְאָמַר רַבִּי שִׁמְעוֹן שֶׁלֹּא יְהֵא קׇרְבָּנוֹ מְהוּדָּר – כִּי קָמַץ לַהּ בִּשְׂמֹאל נָמֵי תִּיתַּכְשַׁר; קָא מַשְׁמַע לַן.
+> **Hebrew/Aramaic:** אֶלָּא הָא דְּאָמַר רָבָא: ״יָד״–״יָד״ לִקְמִיצָה, ״רֶגֶל״–״רֶגֶל״ לַחֲלִיצָה, ״אֹזֶן״–״אֹזֶן״ לִרְצִיעָה; לְמָה לִי? מִדְּרַבָּה בַּר בַּר חָנָה נָפְקָא!
 >
-> **Translation:** The verbal analogy **is necessary only for the handful of a meal offering of a sinner,** to teach that it must be removed with the right hand. It might **enter your mind to say: Since Rabbi Shimon says** that this offering does not require oil and frankincense **so that his offering will not be of superior** quality, perhaps **when he removed the handful with** his **left** hand, which is an inferior manner, **it should be fit as well.** The verbal analogy therefore **teaches us** that the handful must always be removed with the right hand, even in the case of the meal offering of a sinner.
+> **Translation:** The Gemara asks: **But that which Rava says** with regard to the superfluous phrases in the passage discussing a leper: One derives a verbal analogy between **"hand"** and **"hand"** mentioned with regard **to the removal of a handful** from a meal offering, to indicate that the latter must also be performed with the right hand. Additionally, one derives a verbal analogy between **"foot"** and **"foot"** mentioned with regard **to** the ***ḥalitza*** ritual. And one derives a verbal analogy between **"ear"** and **"ear"** mentioned with regard **to** the **piercing** of a Hebrew slave's ear with an awl. One may ask: **Why do I** need the first analogy? The requirement that the handful be removed with the right hand can be **derived from** the statement **of Rabba bar bar Ḥana** above, since priesthood is mentioned in the verse describing it.
 
 The *Gemara* now introduces a teaching of Rava. By the *metzora*, there is a *pasuk* that details the placement of blood on the right earlobe, the thumb of the right hand, and the toe of the right foot. The *Gemara* understands these references as superfluous in their immediate context and therefore reads them as establishing right-hand requirements for other *halachot* by way of *gezerah shavah*. Rava formulates this as follows: *yad yad le-kemitza* — the word "hand" (*yad*) by the *metzora* teaches that the *kemitza* requires the right hand; *regel regel le-chalitza* — "foot" teaches that *chalitza* must use the right foot; *ozen ozen le-retzi'ah* — "ear" teaches that the ear piercing of a slave who chooses to remain in bondage must be the right ear.
 
@@ -46,7 +43,7 @@ For Rabbi Shimon, who cannot derive the right-hand requirement for *kemitza* fro
 
 > **Hebrew/Aramaic:** חַד לְקוֹמֵץ, וְחַד לְקִידּוּשׁ קוֹמֶץ.
 >
-> **Translation:** Both derivations are necessary, **one for** the removal of the **handful** from a meal offering, **and one for the sanctification of** the **handful,** i.e., placing it into a second service vessel. Both must be performed with the right hand.
+> **Translation:** The Gemara responds: Both derivations are necessary, **one for** the removal of the **handful** from a meal offering, **and one for the sanctification of** the **handful,** i.e., placing it into a second service vessel. Both must be performed with the right hand.
 
 The *Gemara* answers: *chad le-kometz ve-chad le-kiddush kometz* — one derivation is for the taking of the handful itself, and the other is for a second, distinct stage of the process. The *kemitza* involves two acts. First, the *kohen* reaches into the *mincha* vessel and removes the *kometz* — the handful. Second, he places that *kometz* into a *kli sharet* — a service vessel — which sanctifies it and elevates it to the level required for the *mizbei'ach*. This second act, the placing of the *kometz* into the *kli sharet*, is structurally analogous to *kabbalas ha-dam*: just as the blood must be caught in a vessel, so too the *kometz* must be received into a *kli sharet*. And just as *kabbalas ha-dam* requires the right hand according to the *chachamim*, so too this receiving into the *kli sharet* requires the right hand — the *kohen* holding that vessel must hold it in his right hand.
 
@@ -58,7 +55,12 @@ Thus, for the *chachamim*, the word *kohen* already establishes the right-hand r
 
 ## Mincha & Vessel Logic
 
+[DAF:25a]
 ### No Kiddush Kometz
+
+> **Hebrew/Aramaic:** וּלְרַבִּי שִׁמְעוֹן – דְּלָא בָּעֵי קִידּוּשׁ קוֹמֶץ; וּלְמַאן דְּאָמַר לְרַבִּי שִׁמְעוֹן נָמֵי בָּעֵי קִידּוּשׁ – קוֹמֶץ בִּשְׂמֹאל אַכְשׁוֹרֵי מַכְשַׁר; ״יָד״–״יָד״ דְּרָבָא לְמָה לִי?
+>
+> **Translation:** The Gemara asks: **And according to Rabbi Shimon, who does not require sanctification of** the **handful, or according to the one who says** that **Rabbi Shimon also requires** the **sanctification of** the **handful** but that **he deems** the sanctification **fit** when performed **with** the **left** hand, **why do I** need the verbal analogy **of Rava** between **"hand"** and **"hand"?**
 
 The *Gemara* now turns to Rabbi Shimon's position with greater precision. There is a separate *Gemara* teaching that according to Rabbi Shimon, the *kohen* does not require the stage of *kiddush kometz* — that is, he need not place the *kometz* into a *kli sharet* at all. Rabbi Shimon holds that the *kohen* may simply take the *kometz* directly from the *mincha* and walk it straight to the *mizbei'ach*, placing the entire handful on the altar without first depositing it into a vessel. The *shirayim* — the remainder of the flour — stays behind; the *kometz* alone goes on the altar, but it goes there directly from the *kohen*'s hand.
 
@@ -70,9 +72,17 @@ This leads to a conceptually elegant and recurring principle in Rabbi Shimon's t
 
 ### Kodesh Kodashim Drasha
 
+> **Hebrew/Aramaic:** אִי לִקְמִיצָה עַצְמָהּ – מִדְּרַב יְהוּדָה בְּרֵיהּ דְּרַבִּי חִיָּיא נָפְקָא; דְּאָמַר רַב יְהוּדָה בְּרֵיהּ דְּרַבִּי חִיָּיא: מַאי טַעְמָא דְּרַבִּי שִׁמְעוֹן? דְּאָמַר קְרָא: ״קֹדֶשׁ קָדָשִׁים הִיא כַּחַטָּאת וְכָאָשָׁם״;
+>
+> **Translation:** **If** one suggests that it is necessary **to** indicate that the **removal of** the **handful itself** must be performed with the right hand, this cannot be, since that is **derived from** the verse cited by **Rav Yehuda, son of Rabbi Ḥiyya. As Rav Yehuda, son of Rabbi Ḥiyya, says: What is the reason that Rabbi Shimon** does not require that the handful be sanctified in a service vessel? **As the verse states** with regard to the meal offering: **"It is most holy, as the sin offering, and as the guilt offering"** (Leviticus 6:10).
+
 The textual basis for Rabbi Shimon's position is derived from the verse that describes the *mincha* as *kodesh kodashim hi, k'chatas v'k'asham* — "it is holy of holies, like the *chatas* and like the *asham*." Why does the verse compare the *mincha* to both? Rabbi Shimon reads it as follows: *ba l'ovdah b'yad, ovdah b'yamin k'chatas* — if the *kohen* performs the service using his hand directly, it must be done with the right hand, as with the *chatas*; *ba l'ovdah b'kli, ovdah b'smol k'asham* — if he uses a vessel, it may be performed with the left hand, as with other *korbanot* such as the *asham*. The comparison to the *chatas* is not incidental: the *chatas* is the one *korban* where Rabbi Shimon unambiguously agrees the right hand is required, specifically for the placing of the blood with the finger. Since that act uses the body directly — *etzba* — the right hand is demanded. The *mincha* mirrors this: when the *kohen*'s own hand is the operative instrument, the analogy to the *chatas* kicks in and demands the right hand.
 
 ### Hand vs. Vessel
+
+> **Hebrew/Aramaic:** בָּא לְעוֹבְדָהּ בַּיָּד – עוֹבְדָהּ בְּיָמִין, כְּחַטָּאת; בָּא לְעוֹבְדָהּ בִּכְלִי – עוֹבְדָהּ בִּשְׂמֹאל, כְּאָשָׁם!
+>
+> **Translation:** The verse compares the meal offering to a sin offering and a guilt offering. Therefore, if the priest **comes to perform** the burning of the handful **with** his **hand,** then **he performs it with** his **right** hand, **like a sin offering,** whose blood is sprinkled by hand. And if he **comes to perform it with a vessel,** i.e., if he first sanctifies the handful in a service vessel, then **he** may **perform it with** his **left** hand, **like a guilt offering,** whose blood is sprinkled from a vessel. Since the removal of the handful is performed by hand, the verse indicates that it must be performed with the right hand, and the verbal analogy is unnecessary.
 
 The practical upshot of this *drasha* is clear. If the *kohen* takes the *kometz* and brings it directly to the altar with his own hand — without using a *kli* — he must use his right hand, just as the *kohen* uses his right finger when placing the blood of the *chatas*. If, however, he places the *kometz* into a *kli* and then brings the *kli* to the altar, the same logic that permits the left hand for *zerikah* by an *olah* or *asham* applies here as well, and the left hand suffices. It is worth noting the elegant parallel: just as by the *chatas* the finger is the operative instrument — and it is precisely the word *etzba* that triggers the right-hand requirement — so too by the *mincha* when the hand is the operative instrument, it must be the right. The verse's dual comparison thus encodes a complete and consistent system.
 
@@ -83,6 +93,10 @@ Implicit in this *drasha* is also the basis for Rabbi Shimon's right-hand requir
 ## Mincha Chotei
 
 ### Sinner's Mincha
+
+> **Hebrew/Aramaic:** לֹא נִצְרְכָא [אֶלָּא] לְקוֹמֵץ מִנְחַת חוֹטֵא; סָלְקָא דַּעְתָּךְ אָמֵינָא, הוֹאִיל וְאָמַר רַבִּי שִׁמְעוֹן שֶׁלֹּא יְהֵא קׇרְבָּנוֹ מְהוּדָּר – כִּי קָמַץ לַהּ בִּשְׂמֹאל נָמֵי תִּיתַּכְשַׁר; קָא מַשְׁמַע לַן.
+>
+> **Translation:** The Gemara responds: The verbal analogy **is necessary only for the handful of a meal offering of a sinner,** to teach that it must be removed with the right hand. It might **enter your mind to say: Since Rabbi Shimon says** that this offering does not require oil and frankincense **so that his offering will not be of superior** quality, perhaps **when he removed the handful with** his **left** hand, which is an inferior manner, **it should be fit as well.** The verbal analogy therefore **teaches us** that the handful must always be removed with the right hand, even in the case of the meal offering of a sinner.
 
 If Rabbi Shimon's *drasha* from *kodesh kodashim* already establishes that the *kemitza* requires the right hand, the *Gemara* asks: why is Rava's *yad yad* needed at all for Rabbi Shimon? The answer is that Rava's teaching is needed specifically for the *kometz minchas chotei* — the handful taken from the *mincha* of a sinner. The *minchas chotei* is described in Vayikra 5:11, the case of the *olah v'yored* offering for one who cannot afford an animal: a tenth of an *eifah* of fine flour is brought as a *chatas*, with no oil and no *levonah*. The Torah deliberately strips this offering of adornment because it is the *korban* of a sinner.
 
@@ -132,13 +146,19 @@ The *Gemara* cites a *Baraita*: *ve-lakach ha-kohen ha-mashiach mi-dam ha-par* �
 >
 > **Translation:** The *baraita* continues: When the verse states: **"From the blood of the bull,"** it should be interpreted as if it is written: **He shall collect the blood from the bull,** i.e., if the blood spills onto the floor before it is collected in a service vessel, it is disqualified. **As, if** it **enters your mind** that **"from the blood of the bull"** should be interpreted **as it is written,** i.e., that **"from the blood"** means that the priest may collect **even** only **a portion of the blood,** that is difficult: **But doesn't Rav say: One who slaughters** the offering **must collect all the blood of** the **bull, as it is stated: "And all the blood of the bull he shall pour out** on the base of the altar" (Leviticus 4:7)? The verse emphasizes that the priest must pour all the blood of the bull, which is possible only if he has collected all of it.
 
-> **Hebrew/Aramaic:** אֶלָּא ״מִדַּם הַפָּר״ – דָּם מֵהַפָּר יְקַבְּלֶנּוּ. וְקָסָבַר: גּוֹרְעִין וּמוֹסִיפִין וְדוֹרְשִׁין.
->
-> **Translation:** **Rather, "from the blood of the bull"** means that the priest **shall collect** the **blood from the bull. And** this Sage **holds** that the Sages **subtract and add and interpret homiletically,** i.e., one may take a letter from one word, insert it into a second word, and explain the phrase in that manner. In this case, the *mem* of *middam* is added to *happar*, so that the verse is interpreted as though it states: *Dam mehappar*, meaning: Blood from the bull.
-
 The *Gemara* then addresses the requirement that the blood be caught directly from the animal. The textual mechanism is a *gezerah shavah* built on the letter *mem*. The verse reads *mi-dam ha-par*. The *Gemara* rearranges the letters by a technique known as *gorin u-mosifin ve-dorshin* — you remove a letter from one word and add it to another, then expound. Taking the *mem* from *dam* and attaching it to *ha-par*, the verse is read as *dam me-ha-par yekablenu* — the blood must be received directly from the ox. It must flow from the animal into the vessel without interruption; it cannot be collected off the floor.
 
 One might object that the *mem* in *mi-dam* is needed to teach a different point: that only some of the blood — *mi-dam*, even a portion — need be caught. The *Gemara* addresses this by citing a teaching of Rav: *ha-shochet tzarich she-yekabel kol damo shel par* — ideally one must receive all the blood of the animal, as derived from *ve-et kol damo yishpoch*. Since the word *kol* — "all" — applies to the blood, the *mem* of *mi-dam* cannot be standing there to permit catching only a portion. The *Gemara* further resolves the verse *ve-et kol damo* by noting that this phrase, which speaks of spilling all the blood, cannot refer to the *shirayim* stage (where not all the blood remains), and must therefore be redirected to the act of *kabbalah* — teaching that ideally all the blood should be caught from the outset.
+
+---
+
+## Practical Requirements
+
+### Raising Knife
+
+> **Hebrew/Aramaic:** אֶלָּא ״מִדַּם הַפָּר״ – דָּם מֵהַפָּר יְקַבְּלֶנּוּ. וְקָסָבַר: גּוֹרְעִין וּמוֹסִיפִין וְדוֹרְשִׁין.
+>
+> **Translation:** **Rather, "from the blood of the bull"** means that the priest **shall collect** the **blood from the bull. And** this Sage **holds** that the Sages **subtract and add and interpret homiletically,** i.e., one may take a letter from one word, insert it into a second word, and explain the phrase in that manner. In this case, the *mem* of *middam* is added to *happar*, so that the verse is interpreted as though it states: *Dam mehappar*, meaning: Blood from the bull.
 
 > **Hebrew/Aramaic:** גּוּפָא – אָמַר רַב יְהוּדָה אָמַר רַב: הַשּׁוֹחֵט צָרִיךְ שֶׁיְּקַבֵּל אֶת כׇּל דָּמוֹ שֶׁל פַּר, שֶׁנֶּאֱמַר: ״וְאֵת כׇּל דַּם הַפָּר יִשְׁפֹּךְ״. וְהָא בְּשִׁירַיִים כְּתִיב!
 >
@@ -148,13 +168,7 @@ One might object that the *mem* in *mi-dam* is needed to teach a different point
 >
 > **Translation:** The Gemara responds: **If** this verse **is not** referring **to the matter of the remainder** of the blood after sprinkling, **as not all of the blood is** present for that rite since some of it has already been sprinkled, **apply it** instead to **the matter of collection** of the blood from the animal.
 
----
-
-## Practical Requirements
-
-### Raising Knife
-
-> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַשּׁוֹחֵט צָרִיךְ שֶׁיַּגְבִּיַּ סַכִּין לְמַעְלָה, שֶׁנֶּאֱמַר: ״וְלָקַח מִדַּם הַפָּר״ – וְלֹא מִדַּם הַפָּר וְדָבָר אַחֵר.
+> **Hebrew/Aramaic:** אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הַשּׁוֹחֵט צָרִיךְ שֶׁיַּגְבִּיהַּ סַכִּין לְמַעְלָה, שֶׁנֶּאֱמַר: ״וְלָקַח מִדַּם הַפָּר״ – וְלֹא מִדַּם הַפָּר וְדָבָר אַחֵר.
 >
 > **Translation:** **Rav Yehuda says** that **Shmuel says: One who slaughters** the offering **must hold the knife up** after slaughter, so that blood that is on the knife does not fall into the service vessel, **as it is stated: "And** the anointed priest **shall take from the blood of the bull,"** i.e., **and not from** a mixture of **the blood of the bull and something else,** such as the blood from the knife.
 
@@ -172,11 +186,16 @@ The status of blood that drips from the knife into the *kli sharet* is analogous
 
 Having established that the knife must be moved away, the *Gemara* asks: where does one wipe the blood off the knife? Abaye says: *bi-sfat mizrak* — on the outer lip of the *mizrak*, the *kli sharet* used to catch the blood. Rashi notes that the very word *mizrak*, which is cognate to *kiporei* (as in *kiporei zahav*), may itself carry a connotation of cleaning, suggesting that wiping the knife on the vessel's rim was indeed the intended practice. That said, the practical logic here is genuinely difficult to follow: it seems both halachically risky (the blood could accidentally fall back in) and physically inadequate (the outer lip is an imprecise surface for cleaning a blade). The *Gemara* does not elaborate further.
 
+[DAF:25b]
 ### Veins Positioning
 
-> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא אָמַר רַב יִרְמְיָה בַּר אַבָּא: הַשּׁוֹחֵט צָרִיךְ שֶׁיִּתֵּן וְרִידִין לְתוֹךְ הַכְּלִי. אִיתְּמַר נָמֵי, אָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: וְרִידִין צָרִיךְ שֶׁיִּרְאוּ אֲוִיר כְּלִי.
+> **Hebrew/Aramaic:** אָמַר רַב חִסְדָּא אָמַר רַב יִרְמְיָה בַּר אַבָּא: הַשּׁוֹחֵט צָרִיךְ שֶׁיִּתֵּן
 >
-> **Translation:** **Rav Ḥisda says** that **Rav Yirmeya bar Abba says: One who slaughters** the offering **must place the** **veins** of the offering **into the vessel,** so that all the blood will empty into it. **It was also stated: Rav Asi says** that **Rabbi Yoḥanan says:** The **veins must see the airspace of** the **vessel.**
+> **Translation:** **Rav Ḥisda says** that **Rav Yirmeya bar Abba says: One who slaughters** the offering **must place**
+
+> **Hebrew/Aramaic:** וְרִידִין לְתוֹךְ הַכְּלִי. אִיתְּמַר נָמֵי, אָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: וְרִידִין צָרִיךְ שֶׁיִּרְאוּ אֲוִיר כְּלִי.
+>
+> **Translation:** the **veins** of the offering **into the vessel,** so that all the blood will empty into it. **It was also stated: Rav Asi says** that **Rabbi Yoḥanan says:** The **veins must see the airspace of** the **vessel.**
 
 Rav Chisda citing Rav Yirmiya bar Abba adds another requirement: *ha-shochet tzarich she-yitein v'ridin l'toch ha-kli* — the *shochet* must position the jugular veins directly over the vessel. This does not mean physically inserting the neck into the vessel, but rather ensuring that the severed veins from which the blood flows are positioned directly above the opening of the vessel, so that the blood flows straight down into it. Rav Assi in the name of Rabbi Yochanan states similarly: *v'ridin tzerichin she-yiru avir kli* — the veins must have a clear line of sight into the airspace of the vessel. The concern being addressed is that if the neck is positioned to the side, the blood may arc through the air horizontally before descending, meaning the vessel is collecting blood not from directly below the neck but from blood that has already traveled through the air at some remove. The vessel must be directly beneath the cut veins.
 
@@ -212,8 +231,6 @@ This parallel is instructive: water in the open airspace above the barrel is tre
 >
 > **Translation:** The Gemara rejects this: **What is this** comparison? Rabbi Asi **raises a dilemma before** Rabbi Yoḥanan with regard to a case where an item enters the **airspace** of a vessel **that will not ultimately** allow it **to settle** inside, **and** Rabbi Yoḥanan **resolves** the dilemma by citing a case where the item enters the **airspace** of a vessel **that will ultimately** allow it **to settle** inside.
 
-The *Gemara* now examines this principle carefully, noting the distinction between two cases. The case of *avir she-sofo lanuach* — airspace above a vessel whose floor is intact, meaning the object (blood or water) will inevitably land in the vessel — is one thing. In that case, the *Gemara* is inclined to say *ke-munach dami* — it is treated as though it has already landed. But the original question was about *avir she-ein sofo lanuach* — airspace above a vessel whose floor has fallen out, so that the object will not in fact land in the vessel. Does the same principle apply?
-
 > **Hebrew/Aramaic:** תַּרְתֵּי קָא בָעֵי מִינֵּיהּ; אִם תִּימְצֵי לוֹמַר: אֲוִיר שֶׁאֵין סוֹפוֹ לָנוּחַ – לָאו כְּמוּנָּח דָּמֵי, אֲוִיר שֶׁסּוֹפוֹ לָנוּחַ מַאי?
 >
 > **Translation:** The Gemara responds: Rabbi Asi **raises two dilemmas before** Rabbi Yoḥanan: First, what is the *halakha* with regard to an item that will not come to rest in the vessel? Second, **if you say** that an item that enters the **airspace** of a vessel **that will not ultimately** allow it **to settle** inside is **not considered as** though it **settled** inside the vessel, **what** is the *halakha* with regard to an item that entered the **airspace** of a vessel **that will ultimately** allow it **to settle** inside?
@@ -226,7 +243,9 @@ The *Gemara* now examines this principle carefully, noting the distinction betwe
 >
 > **Translation:** **Rabba teaches** the exchange as follows: Rabbi Asi **raised the dilemma before** Rabbi Yoḥanan with regard to **a barrel, and** Rabbi Yoḥanan **resolved** the dilemma **for him** by citing the *halakha* concerning **a bowl** used to collect the blood in the Temple, saying: **Do you not concede with regard to the bowl that it is impossible to** collect the blood in **it without a stream** of blood flowing through the air from the animal's neck? If the air above the bowl is not considered part of the bowl, the blood would be considered to have entered the bowl from the air above rather than directly from the animal's neck, and all collected blood would be unfit. Therefore, the airspace must be considered part of the bowl, and the same holds for the barrel with regard to the water of purification.
 
-Three Amoraim — Rav Yosef, Rav Kahana, and Rava — transmit the exchange between Rav Assi and Rabbi Yochanan differently. Rav Yosef teaches that Rav Assi's question was about the blood of a *korban*, and the answer was derived from the *Para Aduma* case. Rav Kahana teaches the reverse: the question and answer were entirely within the *Para Aduma* discussion. Rava teaches a third version: the question was about *Para Aduma* and the answer was derived from the *mizrak* — the case of blood — with the argument that blood traveling from the neck of the animal does not literally fall straight down but moves in an arc (*it could not travel otherwise, since the kohen cannot always position the vessel to catch blood in a perfectly vertical drop*). According to Rava, the very fact that blood caught in the *mizrak* is considered *midam ha-par* — from the animal — even though some of the blood traveled horizontally before descending, demonstrates that the airspace of the vessel is what matters: the blood entered the airspace of the vessel directly from the neck, and that counts as direct receipt, even though the floor of the vessel received it only after a change of direction.
+The *Gemara* now examines this principle carefully, noting the distinction between two cases. The case of *avir she-sofo lanuach* — airspace above a vessel whose floor is intact, meaning the object (blood or water) will inevitably land in the vessel — is one thing. In that case, the *Gemara* is inclined to say *ke-munach dami* — it is treated as though it has already landed. But the original question was about *avir she-ein sofo lanuach* — airspace above a vessel whose floor has fallen out, so that the object will not in fact land in the vessel. Does the same principle apply?
+
+Three Amoraim — Rav Yosef, Rav Kahana, and Rava — transmit the exchange between Rav Assi and Rabbi Yochanan differently. Rav Yosef teaches that Rav Assi's question was about the blood of a *korban*, and the answer was derived from the *Para Aduma* case. Rav Kahana teaches the reverse: the question and answer were entirely within the *Para Aduma* discussion. Rava teaches a third version: the question was about *Para Aduma* and the answer was derived from the *mizrak* — the case of blood — with the argument that blood traveling from the neck of the animal does not literally fall straight down but moves in an arc. According to Rava, the very fact that blood caught in the *mizrak* is considered *midam ha-par* — from the animal — even though some of the blood traveled horizontally before descending, demonstrates that the airspace of the vessel is what matters: the blood entered the airspace of the vessel directly from the neck, and that counts as direct receipt, even though the floor of the vessel received it only after a change of direction.
 
 ### Indirect Vessel Entry
 
@@ -265,9 +284,5 @@ This *halacha* connects back to the *avir kli* principle in a precise way. The q
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי חִיָּיא בַּר אַבָּא: וְדִילְמָא בְּשׁוֹתֵת? אֲמַר לֵיהּ: תְּרָדָא! ״כְּדֵי שֶׁיַּעַבְרוּ מַיִם לֶחָבִית״ תְּנַן!
 >
 > **Translation:** **Rabbi Zeira said to Rabbi Ḥiyya bar Abba: But perhaps** the mishna is referring to a case **where** the water **flows weakly** straight from the hand into the vessel itself, since the hand is situated directly on the edge of the vessel, with no air separating them? Rabbi Ḥiyya bar Abba **said to him: Imbecile, we learned** in the mishna: **In order** to allow flowing **water to pass** through them **to** the **barrel.** This indicates that the water is traveling in a stream and will pass through the air before reaching the barrel.
-
-> **Hebrew/Aramaic:** וְאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: אֲוִיר כְּלִי כִּכְלִי דָּמֵי.
->
-> **Translation:** The Gemara concludes: **And Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The **airspace** of a vessel is legally equivalent to the **vessel** itself.
 
 The final proof for the *avir kli* principle in this context is provided by Rav Zeira, who challenges Rabbi Chiyya bar Abba: perhaps the water went straight from the hand into the vessel proper, without going through the airspace — in which case no inference about *avir kli* can be drawn. Rabbi Chiyya bar Abba responds: *tirdu — kedai she-ya'avru mayim le-chavit tenan* — the *Mishnah* uses the language "so that the water should pass into the barrel," implying a streaming or flowing motion through open air, not a drip directly onto the vessel floor. The word *ya'avru* ("pass") establishes that the water traversed open space before entering the vessel, and yet it is invalid — because that open space above the vessel is itself considered the vessel. *Avir kli ke-kli dami.* This is the final, conclusive statement of the principle: the airspace of a vessel is legally equivalent to the vessel itself.

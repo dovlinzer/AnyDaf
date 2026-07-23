@@ -1,4 +1,5 @@
 # Bekhorot 53 — Daf Yomi Shiur
+[DAF:53a]
 
 ## Ma'aser Behema Intro
 
@@ -32,10 +33,6 @@ The *Mishnah* further specifies that the obligation applies to *chullin* — non
 
 ### Rosh Chodesh Elul
 
-> **Hebrew/Aramaic:** בֶּחָדָשׁ וּבַיָּשָׁן, וְאֵינָן מִתְעַשְּׂרִים מִזֶּה עַל זֶה. שֶׁהָיָה בַּדִּין, וּמָה אִם הֶחָדָשׁ וְהַיָּשָׁן שֶׁאֵינָן כִּלְאַיִם זֶה בָּזֶה אֵינָם מִתְעַשְּׂרִים מִזֶּה עַל זֶה, כְּבָשִׂים וְעִזִּים שֶׁהֵן כִּלְאַיִם זֶה בָּזֶה — אֵינוֹ דִּין שֶׁלֹּא יְהוּ מִתְעַשְּׂרִים מִזֶּה עַל זֶה? תַּלְמוּד לוֹמַר: ״וְצֹאן״, מַשְׁמַע כׇּל צֹאן אֶחָד.
->
-> **Translation:** And it is in effect **with regard to** animals from **the new** flock **and with regard to** animals from **the old** flock, **but they are not tithed from one for the other. As by right, it should be** inferred: **If** in the case of animals from the **new** flock **and the old** flock, **which do not** carry the prohibition of mating **diverse kinds** when mated **with each other** because they are one species, **are** nevertheless **not tithed from one for the other,** then with regard to **sheep and goats, which do** carry the prohibition of mating **diverse kinds** when mated **with each other, is it not right that they will not be tithed from one for the other?** Therefore, **the verse states:** "And all the tithe of the herd **or the flock,** whatever passes under the rod, the tenth shall be sacred to the Lord" (Leviticus 27:32), indicating that with regard to animal tithe, **all** animals that are included in the term **flock** are **one** species.
-
 The *Mishnah* states that *ma'aser behema* applies to cattle and to flock. The operative structure is as follows: all animals born in a given year — with the *Rosh Hashanah* for *ma'aser behema* being Rosh Chodesh Elul, one of the four *rashei shanim* enumerated in the opening *Mishnah* of Rosh Hashanah — are gathered into a pen and counted out. The tenth animal to emerge receives the *kedusha* of *ma'aser behema*. Rosh Chodesh Elul marks the relevant annual boundary because it corresponds to the season in which animals typically become impregnated and begin a new cycle of births, analogously to the way Tishrei marks the new year for grain.
 
 ### Mixing Animals
@@ -43,6 +40,10 @@ The *Mishnah* states that *ma'aser behema* applies to cattle and to flock. The o
 The *Mishnah* specifies that cattle and flock cannot be combined for the purpose of *ma'aser* counting: *ve'ein mit'asrin mizeh al zeh*. If one owns ten cattle and ten sheep, one must count each species separately and may not give a sheep on behalf of cattle or vice versa. Within the category of flock, however, the *Mishnah* distinguishes: sheep and goats — *kevashim u've'izim* — may be counted together and *ma'aser* may be taken from one species on behalf of the other. Thus, a flock of nine goats and one sheep, if the sheep emerges tenth, yields a valid *ma'aser* of sheep on goats.
 
 ### Year Separation
+
+> **Hebrew/Aramaic:** בֶּחָדָשׁ וּבַיָּשָׁן, וְאֵינָן מִתְעַשְּׂרִין מִזֶּה עַל זֶה. שֶׁהָיָה בַּדִּין, וּמָה אִם הֶחָדָשׁ וְהַיָּשָׁן שֶׁאֵינָן כִּלְאַיִם זֶה בָּזֶה אֵינָם מִתְעַשְּׂרִין מִזֶּה עַל זֶה, כְּבָשִׂים וְעִזִּים שֶׁהֵן כִּלְאַיִם זֶה בָּזֶה — אֵינוֹ דִּין שֶׁלֹּא יְהוּ מִתְעַשְּׂרִין מִזֶּה עַל זֶה? תַּלְמוּד לוֹמַר: ״וְצֹאן״, מַשְׁמַע כׇּל צֹאן אֶחָד.
+>
+> **Translation:** And it is in effect **with regard to** animals from **the new** flock **and with regard to** animals from **the old** flock, **but they are not tithed from one for the other. As by right, it should be** inferred: **If** in the case of animals from the **new** flock **and the old** flock, **which do not** carry the prohibition of mating **diverse kinds** when mated **with each other** because they are one species, **are** nevertheless **not tithed from one for the other,** then with regard to **sheep and goats, which do** carry the prohibition of mating **diverse kinds** when mated **with each other, is it not right that they will not be tithed from one for the other?** Therefore, **the verse states:** "And all the tithe of the herd **or the flock,** whatever passes under the rod, the tenth shall be sacred to the Lord" (Leviticus 27:32), indicating that with regard to animal tithe, **all** animals that are included in the term **flock** are **one** species.
 
 The *Mishnah* further states that old animals and newly born animals of different years cannot be combined: *bachadash u'v'yashan umisasrin mizeh al zeh*. If one has procrastinated and failed to count from a previous year's flock, one must count the animals of each year separately. The animals born in one year may not be counted together with those of another year, even though this means that remainders — animals left over after the last group of ten — do not combine across years. This is ultimately a leniency, as it reduces the total number of animals subject to *ma'aser*, but it also means one cannot give a younger animal on behalf of an older year's flock.
 
@@ -56,7 +57,7 @@ The *Mishnah* itself engages in a brief *midrash halacha* to justify the rule pe
 
 ### Torah's Generic Use
 
-The *Torah*, however, does not say *kivsei u've'izzei* here but rather uses the generic term *tzon* — flock — without distinction: *mi-kol tzoncha*. By employing this undifferentiated term in the context of *ma'aser behema*, the *Torah* signals that for purposes of this particular *mitzvah*, all flock constitutes a single category. The *Mishnah* is not making a broader statement about the general equivalence of sheep and goats; to the contrary, it is noting that precisely because they are ordinarily so distinct, one would have expected them to be separated here as well — and therefore the *Torah*'s generic usage comes specifically to override that expectation and unite them for *ma'aser*. This applies only to *ma'aser behema* and carries no implications for other *halachot* such as the classification of wool.
+The *Torah*, however, does not say *kivsei u've'izzei* here but rather uses the generic term *tzon* — flock — without distinction: *mi-kol tzonecha*. By employing this undifferentiated term in the context of *ma'aser behema*, the *Torah* signals that for purposes of this particular *mitzvah*, all flock constitutes a single category. The *Mishnah* is not making a broader statement about the general equivalence of sheep and goats; to the contrary, it is noting that precisely because they are ordinarily so distinct, one would have expected them to be separated here as well — and therefore the *Torah*'s generic usage comes specifically to override that expectation and unite them for *ma'aser*. This applies only to *ma'aser behema* and carries no implications for other *halachot* such as the classification of wool.
 
 ---
 
@@ -89,8 +90,6 @@ One might ask whether there is any historical evidence bearing on Rabbi Akiva's 
 > **Translation:** The Gemara responds: **You** may **even say** that the mishna is in accordance with the opinion of **Rabbi Akiva,** as the *baraita* and the mishna are referring to different cases. The *baraita* **there** is referring to the requirement to bring the animal tithe to Jerusalem for it **to be sacrificed** on the altar. By contrast, the mishna **here** is speaking of the status of every tenth animal; these animals are **to be** separated and **consecrated.** The Gemara adds that the language of the *baraita* **is also precise,** as it **adduces a derivation** from the phrase **"and you shall bring there." Conclude from** this citation that the *baraita* is referring specifically to the requirement to bring the animal tithe and sacrifice it in Jerusalem.
 
 The *Gemara* attempts to reconcile the *Mishnah* — which rules that *ma'aser behema* applies in *chutz la'aretz* — with Rabbi Akiva's position. The proposed resolution is that Rabbi Akiva distinguishes between *lehakriv*, offering the animal as a *korban*, and *lekadesh*, sanctifying it. When the verse says *vahavatem shamma*, it addresses the act of *bringing* — that is, offering — and Rabbi Akiva rules that one does not bring *ma'aser behema* as a *korban* from outside Israel. But perhaps the obligation to *sanctify* the tenth animal still applies even in *chutz la'aretz*, and that is precisely what our *Mishnah* rules. The *Gemara* notes that this reading is supported by the language of the *braita* itself, which frames Rabbi Akiva's question as *yakhol ya'aleh adam veyakrivenu* — perhaps one could bring it up and *offer* it — suggesting that his ruling addresses the question of offering specifically, not the question of sanctification.
-
-### Resolution of Kedusha
 
 > **Hebrew/Aramaic:** אִי הָכִי, מֵאַחַר שֶׁאֵינוֹ קָרֵב, אַמַּאי קָדוֹשׁ? לְנֶאֱכָל בְּמוּמוֹ לַבְּעָלִים.
 >
@@ -136,13 +135,13 @@ One might object that education is always the proper response to the risk of err
 
 ### No Sanctifying Today
 
+The *Gemara* grounds this concern about *takala* in a broader principle established by a *braita*: *ein makdishin v'ein ma'arichin v'ein machrimim b'zman hazeh* — one should not nowadays sanctify objects to the *Beit HaMikdash*, whether through *hekdesh*, *arachin*, or *cherem*.
+
+### Me'ila Concern
+
 > **Hebrew/Aramaic:** וְאִם הִקְדִּישׁ וְהֶעֱרִיךְ וְהֶחְרִים, בְּהֵמָה — תֵּיעָקֵר, פֵּירוֹת כְּסוּת וְכֵלִים — יֵרָקְבוּ, מָעוֹת וּכְלֵי מַתָּכוֹת — יוֹלִיךְ לְיָם הַמֶּלַח. וְאֵיזֶהוּ עִיקּוּר? נוֹעֵל דֶּלֶת בְּפָנֶיהָ וְהִיא מֵתָה מֵאֵילֶיהָ.
 >
 > **Translation:** The *baraita* continues: **And if one did consecrate, or valuate, or dedicate** items for sacred use, the presence of these items might lead to the mishap of the violation of the prohibition against using consecrated property. Therefore, if one dedicated **an animal it should be destroyed.** If he dedicated **produce, garments, or vessels** made from materials that decompose, he should store them until **they decompose.** And if he dedicated **money or metal vessels, he should take them** and cast them **into the Dead Sea.** The Gemara adds: **And** in the case of an animal, **what** constitutes **uprooting? He locks the door before it, and it dies on its own** from hunger. This *baraita* indicates that animals that cannot be sacrificed nowadays must be left to die so that they are not used improperly.
-
-The *Gemara* grounds this concern about *takala* in a broader principle established by a *baraita*: *ein makdishin v'ein ma'arichin v'ein machrimim b'zman hazeh* — one should not nowadays sanctify objects to the *Beit HaMikdash*, whether through *hekdesh*, *arachin*, or *cherem*.
-
-### Me'ila Concern
 
 If one nevertheless goes ahead and does so, the object acquires *kedusha* with no available outlet. One cannot deliver it to any functioning *Beit HaMikdash*, cannot use it for personal benefit, and if one accidentally derives benefit from it, one has transgressed the prohibition of *me'ila* — misuse of *hekdesh*. The object becomes a sitting liability.
 
@@ -170,14 +169,15 @@ Returning to the case of inadvertently sanctified objects, the question remains:
 
 ### Bechor Auto Sanctify
 
-> **Hebrew/Aramaic:** הָכִי קָאָמַר: לִיקְנִינְהוּ לְאוּדְנַיְיהוּ לְגוֹיִם, דְּלָא לִיקְדֹּשׁ מֵעִיקָּרָא!
+> **Hebrew/Aramaic:** אִי הָכִי, בְּכוֹר נָמֵי לָא לִיקְדֹּשׁ! בְּכוֹר בְּדִידַן תַּלְיָא מִילְּתָא? בְּרֶחֶם קָדוֹשׁ! הָכִי קָאָמַר: לִיקְנִינְהוּ לְאוּדְנַיְיהוּ לְגוֹיִם, דְּלָא לִיקְדֹּשׁ מֵעִיקָּרָא!
 >
-> **Translation:** The Gemara answers that **this** is what the questioner **is saying: Let us sell the ears** of all firstborn animals **to gentiles** before their births, so **that they are not consecrated from the outset.** A firstborn animal that is jointly owned by a Jew and a gentile does not become consecrated as a firstborn.
+> **Translation:** The Gemara challenges: **If so,** then **a firstborn should also not be consecrated,** as this too could lead to a mishap. The Gemara responds: Does the **matter** of the consecration of **a firstborn depend on us?** The animal is automatically **consecrated upon** its exit from **the womb.** The Gemara answers that **this** is what the questioner **is saying: Let us sell the ears** of all firstborn animals **to gentiles** before their births, so **that they are not consecrated from the outset.** A firstborn animal that is jointly owned by a Jew and a gentile does not become consecrated as a firstborn.
 
 Having established that the concern of *takala* leads the Rabbis to instruct that *ma'aser behema* simply not be counted today, the *Gemara* asks: the same logic should apply to *bechor* — why not instruct that *bechor* also not receive *kedusha*? The answer is immediate: *bechor beyadan talya milsa? Merachem kadesh* — is the sanctification of a *bechor* in our hands? It becomes sanctified automatically through the womb. We have no power to prevent it. The parallel with *ma'aser behema* therefore breaks down at the most basic level: *ma'aser behema* requires an affirmative act of counting, which we can simply refrain from performing; *bechor* acquires *kedusha* whether we act or not.
 
 The *Gemara* then asks a reformulated question: given that *bechor* is automatically sanctified and given the genuine concern about *takala*, why not at least advise that one sell the ear of the pregnant mother to a non-Jew before birth, thereby ensuring the firstborn is jointly owned and never acquires *kedushat bechor* in the first place?
 
+[DAF:53b]
 ### Create Blemish
 
 > **Hebrew/Aramaic:** אֶפְשָׁר כִּדְרַב יְהוּדָה, דְּאָמַר רַב יְהוּדָה: מוּתָּר לוֹ לָאָדָם לְהַטִּיל מוּם בִּבְכוֹר קוֹדֶם שֶׁיָּצָא לַאֲוִיר הָעוֹלָם. הָכָא נָמֵי, אֶפְשָׁר דְּשָׁדֵי בֵּיהּ מוּמָא מֵעִיקָּרָא!
@@ -187,10 +187,6 @@ The *Gemara* then asks a reformulated question: given that *bechor* is automatic
 The *Gemara* responds that a better solution exists: *efshar k'de-Rav Yehuda* — follow the ruling of Rav Yehuda. Rav Yehuda rules that it is permitted to make a *mum* in the *bechor* before it enters the world — either by inserting one's hand into the womb and creating a wound, or by cutting the lip or ear of the animal as it emerges, before the majority of its head has appeared. A pre-birth blemish is permissible because the animal does not yet have *kedusha* at that moment, and once born blemished, it acquires *kedushat bechor* but may be given immediately to a *kohen* and slaughtered for consumption. The *takala* concern is resolved at once.
 
 ### Blemish Benefits
-
-> **Hebrew/Aramaic:** מִי יָדַע הֵי נָפֵיק? וְכִי תֵּימָא דְּמַפֵּיק לֵיהּ בְּרֵישׁ עַשְׂרָה — ״לֹא יְבַקֵּר בֵּין טוֹב לָרַע״ אָמַר רַחֲמָנָא.
->
-> **Translation:** The Gemara answers: **How** can one **know which** animal will **emerge** as the tenth? Since it is impossible to know this, one cannot inflict a blemish on the animal before it becomes consecrated. **And if you would say that** one should **bring out** the animal upon which he has inflicted the blemish **at the head of** the **ten** animals to ensure that it will be the tithed animal, this is not a valid option, as **the Merciful One states: "He shall not inquire whether it be good or bad"** (Leviticus 27:33). This means one may not plan in advance which animal will be the tenth.
 
 Why is this preferable to selling the ear? Three considerations favor the Rav Yehuda approach. First, the *kedusha* of the *bechor* is preserved — the animal becomes *kadosh*, it is given to a *kohen*, and the structure of the *mitzvah* is honored rather than circumvented. Second, the *kohen* receives the benefit of the animal: a *bechor* with a blemish yields a *kohen* a week's worth of meat. Selling the ear to a non-Jew prevents the *kohen* from ever receiving anything. Third, the concerns of *takala* are neutralized because the blemished *bechor* can be handled immediately.
 
@@ -204,13 +200,17 @@ Tosafot disagrees with this prioritization. Making a *mum* before birth is a com
 
 ### Which Is Tenth
 
-> **Hebrew/Aramaic:** וְכִי תֵּימָא: אֶפְשָׁר דְּשָׁדֵי בֵּיהּ מוּמָא בְּכוּלֵּיהּ עֶדְרֵיהּ — מְהֵרָה יִבָּנֶה בֵּית הַמִּקְדָּשׁ, וּבָעֵינַן בְּהֵמָה לְהַקְרָבָה וְלֵיכָּא.
+> **Hebrew/Aramaic:** מִי יָדַע הֵי נָפֵיק? וְכִי תֵּימָא דְּמַפֵּיק לֵיהּ בְּרֵישׁ עַשְׂרָה — ״לֹא יְבַקֵּר בֵּין טוֹב לָרַע״ אָמַר רַחֲמָנָא.
 >
-> **Translation:** **And if you would say it is possible to inflict a blemish on the entire herd** of animals and thereby ensure the tenth one will be blemished, that is also undesirable. The reason is that **soon the Temple will be rebuilt and we** will **require animals for offerings, and** there will be **none** remaining without a blemish.
+> **Translation:** The Gemara answers: **How** can one **know which** animal will **emerge** as the tenth? Since it is impossible to know this, one cannot inflict a blemish on the animal before it becomes consecrated. **And if you would say that** one should **bring out** the animal upon which he has inflicted the blemish **at the head of** the **ten** animals to ensure that it will be the tithed animal, this is not a valid option, as **the Merciful One states: "He shall not inquire whether it be good or bad"** (Leviticus 27:33). This means one may not plan in advance which animal will be the tenth.
 
 Having established that for *bechor* the Rav Yehuda approach is theoretically available, the *Gemara* considers whether the same strategy — creating a *mum* in advance of sanctification — could resolve the *takala* problem for *ma'aser behema* as well, allowing the *mitzvah* to be observed without the dangers of long-term unresolved *kedusha*. The first obstacle is immediate: *mi yadei hai napak* — who knows which animal will be the tenth? You cannot selectively blemish the would-be *ma'aser* animal in advance, because you do not know in advance which animal will emerge tenth from the pen.
 
 ### Blanket Blemish
+
+> **Hebrew/Aramaic:** וְכִי תֵּימָא: אֶפְשָׁר דְּשָׁדֵי בֵּיהּ מוּמָא בְּכוּלֵּיהּ עֶדְרֵיהּ — מְהֵרָה יִבָּנֶה בֵּית הַמִּקְדָּשׁ, וּבָעֵינַן בְּהֵמָה לְהַקְרָבָה וְלֵיכָּא.
+>
+> **Translation:** **And if you would say it is possible to inflict a blemish on the entire herd** of animals and thereby ensure the tenth one will be blemished, that is also undesirable. The reason is that **soon the Temple will be rebuilt and we** will **require animals for offerings, and** there will be **none** remaining without a blemish.
 
 The *Gemara* anticipates the obvious rejoinder: make a *mum* in every animal in the flock. If every animal is blemished before the counting begins, then whatever emerges tenth is already blemished, the *kedusha* of *ma'aser* descends upon a blemished animal, and the animal can be eaten immediately. The *mitzvah* is performed, the *kedusha* is preserved, and the *takala* is avoided.
 
@@ -220,17 +220,13 @@ This solution, however, runs into a different and weighty objection: *bimherah y
 
 ### Purchased Animals
 
-> **Hebrew/Aramaic:** הָכִי נָמֵי בִּבְכוֹר בְּהֵמָה, מְהֵרָה יִבָּנֶה בֵּית הַמִּקְדָּשׁ, וּבָעֵינַן בְּהֵמָה לְהַקְרָבָה וְלֵיכָּא! אֶפְשָׁר בִּפְשׁוּטִין.
+> **Hebrew/Aramaic:** הָכָא נָמֵי, אֶפְשָׁר בִּלְקוּחִין! כֵּיוָן דְּאִיהוּ שָׁדֵי בֵּיהּ מוּמָא בְּכוּלֵּיהּ עֶדְרֵיהּ, וּשְׁכִיחִי מוּמֵי דְּפָסְילִי בְּקָדָשִׁים, דַּאֲפִילּוּ דּוּקִּין שֶׁבָּעַיִן נָמֵי פָּסְלֵי — לָא שְׁכִיחִי.
 >
-> **Translation:** The Gemara asks: But **here too, with regard to a firstborn animal,** why not also say that **soon the Temple will be rebuilt and we** will **require animals for offerings and** there will be **none** remaining without a blemish? The Gemara answers: It is **possible** to bring the offerings **from ordinary** animals that are not firstborns.
+> **Translation:** The Gemara challenges: **Here too,** with regard to the animal tithe, **it is possible** to bring the offerings **from** animals **purchased** from another person, which are exempt from animal tithe, as taught in the mishna on 55b. The Gemara answers: **Since** anyone who has animals **inflicts a blemish on all of** the animals in **his herd** to avoid consecrating the tithe, there will be very few unblemished animals available for purchase. **And** furthermore, **blemishes that disqualify sacrificial** animals **are common, as even** if the blemish is small, e.g., **on the** animal's **eyelid, it disqualifies** the animal from being used for sacrifice. Therefore, it will **not** be **common** to find animals fit to be used as offerings. For this reason the Sages decreed that one should not tithe his animals in the present time.
 
 One might respond that we can always purchase animals from non-Jews. Indeed, purchased animals — *likuchim* — are in a separate category: the obligation of *ma'aser behema* applies only to animals born into one's flock, not to purchased animals. If one were to sell one's animals before the end of the year, one would be exempt, and the buyer, having acquired rather than bred them, would also be exempt. However, the *Gemara* points out that the blanket blemishing strategy still creates a serious practical problem: *keivan de'ihu shadi bemuma bechulei edrei* — since the owner blemishes his entire flock, and natural blemishes are in any case common (*dukin sheba'ayin* — cataracts alone suffice to disqualify an animal from *kodshim*), the cumulative effect would be that virtually no animal in circulation would be unblemished. Even accounting for purchased animals, the sheer prevalence of blemishes — both artificial and natural — would reduce the available pool of fit *korban* animals to a negligible number. That is an unacceptable state of affairs.
 
 ### Do Nothing Best
-
-> **Hebrew/Aramaic:** הָכָא נָמֵי, אֶפְשָׁר בִּלְקוּחִין! כֵּיוָן דְּאִיהוּ שָׁדֵי בֵּיהּ מוּמָא בְּכוּלֵּיהּ עֶדְרֵיהּ, וּשְׁכִיחִי מוּמֵי דְּפָסְילִי בְּקָדָשִׁים, דַּאֲפִילּוּ דּוּקִּין שֶׁבָּעַיִן נָמֵי פָּסְלִי — לָא שְׁכִיחִי.
->
-> **Translation:** The Gemara challenges: **Here too,** with regard to the animal tithe, **it is possible** to bring the offerings **from** animals **purchased** from another person, which are exempt from animal tithe, as taught in the mishna on 55b. The Gemara answers: **Since** anyone who has animals **inflicts a blemish on all of** the animals in **his herd** to avoid consecrating the tithe, there will be very few unblemished animals available for purchase. **And** furthermore, **blemishes that disqualify sacrificial** animals **are common, as even** if the blemish is small, e.g., **on the** animal's **eyelid, it disqualifies** the animal from being used for sacrifice. Therefore, it will **not** be **common** to find animals fit to be used as offerings. For this reason the Sages decreed that one should not tithe his animals in the present time.
 
 The *Gemara*'s conclusion is therefore that the best available course for *ma'aser behema* in the present era is to do nothing — *shev v'al ta'aseh*. The owner simply refrains from counting and never triggers the *kedusha*. The *mitzvah* is suspended, the animals remain *chullin*, and the stumbling block is avoided entirely. This is preferable to counting and dealing with long-term unresolved *kedusha*, and preferable to blanket blemishing that would compromise the nation's readiness for the rebuilt *Beit HaMikdash*.
 

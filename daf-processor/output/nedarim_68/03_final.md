@@ -4,10 +4,6 @@
 
 ### Na'arah Status
 
-> **Hebrew/Aramaic:** דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״בֵּין אִישׁ לְאִשְׁתּוֹ בֵּין אָב לְבִתּוֹ״, מִכָּאן לְנַעֲרָה הַמְאוֹרָסָה שֶׁאָבִיהָ וּבַעְלָהּ מְפִירִין נְדָרֶיהָ.
->
-> **Translation:** **The school of Rabbi Yishmael taught** a different source for the *halakha* in the mishna: The Torah states with regard to vows: "These are the statutes, which the Lord commanded Moses, **between a man and his wife, between a father and his daughter,** being in her youth, in her father's house" (Numbers 30:17). **From here** it is derived **with regard to a betrothed young woman that her father and her husband nullify her vows.**
-
 Today's daf is 68. As with yesterday, there is relatively little *gemara* text here — much of the page is occupied by *Ran* — and the substantive *halachic* discussion follows closely in the spirit of what we saw on the preceding daf.
 
 By way of review: the *mishnah* introduces the case of a girl who has not yet reached *bogeret* status, meaning she is still a *na'arah* — or in some circumstances even a *ketanah* whose *neder* is halakhically binding. Such a girl is considered, both physically and, more importantly, *halachically*, to be in her father's house. This remains true even after *kiddushin*, and continues until *nissu'in* — until the formal transfer at *chuppah* when she fully enters her husband's domain.
@@ -26,9 +22,9 @@ Counterintuitively, however, even though the *parasha* the *gemara* draws upon s
 
 ### Braita Reading
 
-> **Hebrew/Aramaic:** וּלְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל, ״אִם הָיוֹ תִהְיֶה לְאִישׁ״ מַאי עָבֵיד לֵיהּ? מוֹקֵים לְאִידַּךְ דְּרָבָא. וְרָבָא, הַאי דְּתָנֵי דְּבֵי רַבִּי יִשְׁמָעֵאל מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לוֹמַר שֶׁהַבַּעַל מֵיפֵר נְדָרִים שֶׁבֵּינוֹ לְבֵינָהּ.
+> **Hebrew/Aramaic:** דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״בֵּין אִישׁ לְאִשְׁתּוֹ בֵּין אָב לְבִתּוֹ״, מִכָּאן לְנַעֲרָה הַמְאוֹרָסָה שֶׁאָבִיהָ וּבַעְלָהּ מְפִירִין נְדָרֶיהָ. וּלְתָנָא דְּבֵי רַבִּי יִשְׁמָעֵאל, ״אִם הָיוֹ תִהְיֶה לְאִישׁ״ מַאי עָבֵיד לֵיהּ?
 >
-> **Translation:** The Gemara asks: **And according to the *tanna* of the school of Rabbi Yishmael, what does he do** with the words "and **if she be to a husband"** (Numbers 30:7)? The Gemara answers: According to him, he **establishes** it **to** teach the **other** statement **of Rava**: If her betrothed died without ratifying the vow, her father can nullify it on his own. The Gemara then asks: **And Rava,** who derives the *halakha* that the father and the betrothed of the young woman together nullify her vows from the phrase "and if she be to a husband" (Numbers 30:7), **what does he do with this** verse **that the school of Rabbi Yishmael taught** as the source for the father and the betrothed nullifying the young woman's vows? The Gemara answers: **He requires that** phrase: "Between a man and his wife" (Numbers 30:17), in order **to say that the husband can nullify** only **vows that are between him and her,** i.e., vows that negatively impact their marital relationship, but he cannot nullify any other type of vow.
+> **Translation:** **The school of Rabbi Yishmael taught** a different source for the *halakha* in the mishna: The Torah states with regard to vows: "These are the statutes, which the Lord commanded Moses, **between a man and his wife, between a father and his daughter,** being in her youth, in her father's house" (Numbers 30:17). **From here** it is derived **with regard to a betrothed young woman that her father and her husband nullify her vows.** The Gemara asks: **And according to the *tanna* of the school of Rabbi Yishmael, what does he do** with the words "and **if she be to a husband"** (Numbers 30:7)?
 
 At the top of 68a, the *gemara* cites a *braita*: *tanya devei Rabbi Ishmael* — from the school of Rabbi Ishmael the following was taught. The *pasuk* reads: *bein ish l'ishto bein av l'vito b'neureha beis aviha* — "between a man and his wife, between a father and his daughter, in her youth in her father's house." The question is posed: the *Torah* has already stated *av l'vito* — why add *b'neureha beis aviha*? The plain reading of the *pasuk* would be that the section about the father applies when she is in his house, and the section about the husband applies after she marries. What, then, is the additional phrase teaching?
 
@@ -37,6 +33,10 @@ The *braita* answers: *mikan l'na'arah murasah she'aviha u'va'alah mefirin nedar
 The *gemara* then asks: according to this *tanna* of the school of Rabbi Ishmael, what does he do with the other *pasuk* — *v'hayah tihyeh l'ish v'nedareha aleiha*? The answer is that he uses it for the other teaching of Rabbah, which we will encounter in approximately two *dafim*. That *drasha* addresses the case where one *arus* dies and she subsequently becomes betrothed to another: the double language of *v'hayah tihyeh* signals that the father's full authority over her — which he exercised before the first betrothal — is restored in the interval before the second.
 
 ### Inuy Nefesh
+
+> **Hebrew/Aramaic:** מוֹקֵים לְאִידַּךְ דְּרָבָא. וְרָבָא, הַאי דְּתָנֵי דְּבֵי רַבִּי יִשְׁמָעֵאל מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לוֹמַר שֶׁהַבַּעַל מֵיפֵר נְדָרִים שֶׁבֵּינוֹ לְבֵינָהּ.
+>
+> **Translation:** The Gemara answers: According to him, he **establishes** it **to** teach the **other** statement **of Rava**: If her betrothed died without ratifying the vow, her father can nullify it on his own. The Gemara then asks: **And Rava,** who derives the *halakha* that the father and the betrothed of the young woman together nullify her vows from the phrase "and if she be to a husband" (Numbers 30:7), **what does he do with this** verse **that the school of Rabbi Yishmael taught** as the source for the father and the betrothed nullifying the young woman's vows? The Gemara answers: **He requires that** phrase: "Between a man and his wife" (Numbers 30:17), in order **to say that the husband can nullify** only **vows that are between him and her,** i.e., vows that negatively impact their marital relationship, but he cannot nullify any other type of vow.
 
 The *gemara* proceeds to ask: and what does Rabbah himself do with the *pasuk* of *bein ish l'ishto bein av l'vito*? The answer is that he uses it to derive a crucial *halacha* about the scope of the husband's power of *hafara*: what categories of vows can a husband annul?
 
@@ -70,9 +70,9 @@ The *megez gayiz* position holds that each partner's act of *hafara* has an inde
 
 ### Two Olives Case
 
-> **Hebrew/Aramaic:** אִי אָמְרִינַן מִיגָּז גָּיֵיז — לָקְיָיא. אִי אָמְרִינַן מִקְלָישׁ קָלֵישׁ — אִיסּוּרָא בְּעָלְמָא הוּא.
+> **Hebrew/Aramaic:** אִי אָמְרִינַן מִיגָּז גָּיֵיז — לָקְיָיא. אִי אָמְרִינַן מִקְלָישׁ קָלֵישׁ — אִיסּוּרָא בְּעָלְמָא הוּא. מַאי?
 >
-> **Translation:** **If we say** that he **severs** his share of the vow, nullifying half of the prohibition, then one of the olives remains completely forbidden, and she **is flogged** for violating her vow. **If we say** that he **weakens** its force, she is not liable to be flogged, as eating the olives **is** now **merely a prohibition** that she has violated.
+> **Translation:** **If we say** that he **severs** his share of the vow, nullifying half of the prohibition, then one of the olives remains completely forbidden, and she **is flogged** for violating her vow. **If we say** that he **weakens** its force, she is not liable to be flogged, as eating the olives **is** now **merely a prohibition** that she has violated. If so, **what** is the ruling with regard to this question?
 
 The *gemara* illustrates the practical stakes with a concrete case. Suppose she took a vow not to eat two specific olives. The *arus* heard and performed *hafara*. She then ate both olives. If *megez gayiz* is correct — if he cut off half — then his *hafara* effectively released her from the prohibition on one of the two olives. She thus remained forbidden in one olive, ate it, and would be liable to *malkos*. But if *miklesh kalesh* is correct — if he only weakened the *neder* — then the entire prohibition remained in some attenuated form, and eating both olives would constitute a violation, but not one of sufficient weight to generate *malkos*.
 
@@ -86,9 +86,9 @@ One might raise a more fundamental objection: why assume that either partner's *
 
 ### Principle Statement
 
-> **Hebrew/Aramaic:** תָּא שְׁמַע: אֵימָתַי אָמְרוּ מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב — בִּזְמַן שֶׁלֹּא שָׁמַע הַבַּעַל קוֹדֶם שֶׁיָּמוּת, אוֹ שֶׁשָּׁמַע וְשָׁתַק, אוֹ שֶׁשָּׁמַע וְהֵפֵר וּמֵת בּוֹ בַּיּוֹם.
+> **Hebrew/Aramaic:** תָּא שְׁמַע: אֵימָתַי אָמְרוּ מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב — בִּזְמַן שֶׁלֹּא שָׁמַע הַבַּעַל קוֹדֶם שֶׁיָּמוּת, אוֹ שֶׁשָּׁמַע וְשָׁתַק, אוֹ שֶׁשָּׁמַע וְהֵפֵר וּמֵת בּוֹ בַּיּוֹם. זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב.
 >
-> **Translation:** The Gemara now cites a lengthy *baraita*, ultimately stating a proof to answer the previous question. **Come** and **hear** a *baraita* that will resolve the dilemma: **When did they say** that if **the husband** of a betrothed young woman **dies,** the **authority** to nullify her vows **reverts to the father,** who can then nullify her vows on his own? This occurs in a case **when the husband had not heard** her vow **before he died; or** in a case **where he heard and was silent; or where he heard and nullified** it **and died on the same day.**
+> **Translation:** The Gemara now cites a lengthy *baraita*, ultimately stating a proof to answer the previous question. **Come** and **hear** a *baraita* that will resolve the dilemma: **When did they say** that if **the husband** of a betrothed young woman **dies,** the **authority** to nullify her vows **reverts to the father,** who can then nullify her vows on his own? This occurs in a case **when the husband had not heard** her vow **before he died; or** in a case **where he heard and was silent; or where he heard and nullified** it **and died on the same day. This is what we learned** in the mishna, concerning a case of this kind (70a): If **the husband dies,** the **authority** to nullify vows **reverts to the father.**
 
 The *braita* opens by articulating the foundational principle: *met ha-ba'al nidrokna reshut la'av; met ha'av v'lo nidrokna reshut la'ba'al* — when the husband dies, his authority empties out to the father; when the father dies, his authority does not transfer to the husband. This is simply another formulation of the theme we have been developing: the father is the *anchor* of the *hafara* partnership. If the husband dies, full control reverts to the father — who was always the primary party anyway. But if the father dies, the husband is left without the essential partner, and his own rights cannot stand alone.
 
@@ -114,9 +114,9 @@ There are, however, two bad scenarios. The first is that the husband heard and p
 
 ### Father Hafara
 
-> **Hebrew/Aramaic:** שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק בַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת הָאָב — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הָאָב, לֹא נִתְרוֹקְנָה רְשׁוּת לַבַּעַל.
+> **Hebrew/Aramaic:** שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק בַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת הָאָב — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הָאָב, לֹא נִתְרוֹקְנָה רְשׁוּת לַבַּעַל. שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת הַבַּעַל — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הַבַּעַל, נִתְרוֹקְנָה רְשׁוּת לָאָב.
 >
-> **Translation:** If **her father heard** or was made aware of the vow **and nullified** it **for her but the husband did not manage to hear** of the vow **before the father died, this is what we learned** in the same mishna (70a): If **the father dies, the authority** over her vows **does not revert to the husband,** i.e., a young woman's betrothed cannot nullify her vows alone, without the father.
+> **Translation:** If **her father heard** or was made aware of the vow **and nullified** it **for her but the husband did not manage to hear** of the vow **before the father died, this is what we learned** in the same mishna (70a): If **the father dies, the authority** over her vows **does not revert to the husband,** i.e., a young woman's betrothed cannot nullify her vows alone, without the father. If **her husband heard** the vow **and nullified** it **for her, and the father did not manage to hear** of the vow **before the husband died, this is what we learned** in the mishna: **If the husband dies, the authority reverts to the father.**
 
 The *braita* now turns to the reverse scenario: the father dies and the husband cannot annul, even when the father had already performed active *hafara*. The case: the father heard the *neder* and performed *hafara*, but the husband did not hear about it before the father died. One might reason that this case is particularly strong for the *neder* being annulled — the husband was not yet in the picture at all, the father alone acted, and the father did everything he was supposed to do. Perhaps the husband can now simply finalize what was all but completed?
 
@@ -128,9 +128,9 @@ If she takes an entirely new *neder* after the father has died, the husband simi
 
 ### Partnership Required
 
-> **Hebrew/Aramaic:** שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת הַבַּעַל — זוֹ הִיא שֶׁשָּׁנִינוּ: מֵת הַבַּעַל, נִתְרוֹקְנָה רְשׁוּת לָאָב. שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת — אֵין הַבַּעַל יָכוֹל לְהָפֵר, שֶׁאֵין הַבַּעַל מֵיפֵר אֶלָּא בְּשׁוּתָּפוּת.
+> **Hebrew/Aramaic:** שָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הָאָב לִשְׁמוֹעַ עַד שֶׁמֵּת — אֵין הַבַּעַל יָכוֹל לְהָפֵר, שֶׁאֵין הַבַּעַל מֵיפֵר אֶלָּא בְּשׁוּתָּפוּת.
 >
-> **Translation:** If **her husband heard and nullified** the vow **for her, and the father did not manage to hear** of the vow **before the husband died, this is what we learned** in the mishna: **If the husband dies, the authority reverts to the father.** If **her husband heard** the vow **and nullified** it **for her, and the father did not manage to hear** of the vow **before he died, the husband cannot nullify** it, although she no longer has a father, **as the husband can nullify** vows **only in partnership** with the father.
+> **Translation:** If **her husband heard and nullified** the vow **for her, and the father did not manage to hear** of the vow **before he died, the husband cannot nullify** it, although she no longer has a father, **as the husband can nullify** vows **only in partnership** with the father.
 
 The *braita* continues with a case that uses the explicit language of *shutafut*: *she'ein ha-ba'al meifer ela b'shutafut* — the husband can only annul as part of a *partnership* with the father. Here the father heard the *neder* and performed *hafara*, but the husband had not heard, and then the father died. Since the vow was taken while both the father and the husband were in the picture — even if the husband had not yet engaged with it — there remains a portion of the *hafara* that conceptually belongs to the husband. The father cannot supply that on his own after the husband's death, and certainly the husband cannot supply the father's portion. Without the *shutafut*, the *hafara* is incomplete.
 
@@ -140,21 +140,17 @@ The *braita* continues with a case that uses the explicit language of *shutafut*
 
 ### Scenario Setup
 
-> **Hebrew/Aramaic:** שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הַבַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת — חוֹזֵר הָאָב וּמֵיפֵר חֶלְקוֹ שֶׁל בַּעַל.
->
-> **Translation:** If **her father heard and nullified** the vow **for her, and the husband did not manage to hear** of the vow **before he died, the father may go back and nullify** the **husband's portion,** and that will complete the nullification of her vow.
-
 The *braita* now reaches its final and most complex case. The father heard the *neder* and performed *hafara*. The husband, however, died without ever having heard the *neder* at all — not just without having responded to it, but without even knowing it existed. This is an extreme case of the husband's non-involvement. One might argue that since he was never in the picture at all, the father's *hafara* should simply operate as though there were no husband — as the dominant and essentially exclusive party.
 
 ### Shammai v. Hillel
 
+> **Hebrew/Aramaic:** שָׁמַע אָבִיהָ וְהֵפֵר לָהּ, וְלֹא הִסְפִּיק הַבַּעַל לִשְׁמוֹעַ עַד שֶׁמֵּת — חוֹזֵר הָאָב וּמֵפֵר חֶלְקוֹ שֶׁל בַּעַל. אָמַר רַבִּי נָתָן: הֵן הֵן דִּבְרֵי בֵּית שַׁמַּאי. בֵּית הִלֵּל אוֹמְרִים: אֵין יָכוֹל לְהָפֵר.
+>
+> **Translation:** If **her father heard and nullified** the vow **for her, and the husband did not manage to hear** of the vow **before he died, the father may go back and nullify** the **husband's portion,** and that will complete the nullification of her vow. **Rabbi Natan said: This** last ruling **is the statement of Beit Shammai,** but **Beit Hillel say** that **he cannot nullify** only the husband's share of the vow but must also nullify his own share again.
+
 This case is disputed by *Beis Shammai* and *Beis Hillel*.
 
 ### Shammai View
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי נָתָן: הֵן הֵן דִּבְרֵי בֵּית שַׁמַּאי. בֵּית הִלֵּל אוֹמְרִים: אֵין יָכוֹל לְהָפֵר.
->
-> **Translation:** **Rabbi Natan said: This** last ruling **is the statement of Beit Shammai,** but **Beit Hillel say** that **he cannot nullify** only the husband's share of the vow but must also nullify his own share again.
 
 *Beis Shammai* holds: *chozer ha-av u-meifer chelko shel ba'al* — the father goes back and annuls the husband's portion. Notably, even *Beis Shammai* does not say the *neder* is simply annulled automatically now that the husband is gone. Rather, there is still a distinct act required: the father must perform an additional *hafara* specifically for the portion that would have been the husband's. Since the *neder* was taken while there was a *arus*, there is a portion of it that had been under his purview. Even though he never acted on it, that portion was not dissolved by the father's initial *hafara*. Upon the husband's death, the father now assumes that right and can annul it with a further act.
 
@@ -172,9 +168,9 @@ Rabbi Natan clarifies: this is the position of *Beis Shammai*, not *Beis Hillel*
 
 ### Conclusion
 
-> **Hebrew/Aramaic:** שְׁמַע מִינַּהּ: לְבֵית שַׁמַּאי מִיגָּז גָּיֵיז, לְבֵית הִלֵּל מִקְלָשׁ קָלֵישׁ.
+> **Hebrew/Aramaic:** שְׁמַע מִינַּהּ: לְבֵית שַׁמַּאי מִיגָּז גָּיֵיז, לְבֵית הִלֵּל מִקְלָשׁ קָלֵישׁ. שְׁמַע מִינַּהּ.
 >
-> **Translation:** Having completed its citation of the *baraita*, the Gemara now states its proof: **Conclude from this** that, **according to** the opinion of **Beit Shammai,** whoever nullifies the vow first completely **severs** his half of the vow, and therefore the father needed only to nullify the part left by the husband. However, **according to** the opinion of **Beit Hillel,** his nullification **weakens** the general force of the vow, so the father's subsequent nullification must address the whole vow.
+> **Translation:** Having completed its citation of the *baraita*, the Gemara now states its proof: **Conclude from this** that, **according to** the opinion of **Beit Shammai,** whoever nullifies the vow first completely **severs** his half of the vow, and therefore the father needed only to nullify the part left by the husband. However, **according to** the opinion of **Beit Hillel,** his nullification **weakens** the general force of the vow, so the father's subsequent nullification must address the whole vow. The Gemara rules: **Conclude from this** *baraita* that the husband's nullification weakens the general force of the vow, as the *halakha* is in accordance with Beit Hillel.
 
 The *gemara* now returns to its original question about *hafara* mechanics and draws the answer directly from this *machloket*. *Shma mina leBeis Shammai megez gayiz, leBeis Hillel miklesh kalesh* — we may conclude from this debate: *Beis Shammai* holds *megez gayiz*, that each party's *hafara* cuts off his half; *Beis Hillel* holds *miklesh kalesh*, that each party's *hafara* merely weakens the *neder* as a whole. *Shma mina* — this is the resolution.
 

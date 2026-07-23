@@ -10,6 +10,9 @@ struct ArticleReaderView: View {
     /// `nil` while the content is still loading; set to HTML string once fetched.
     let html: String?
     let onDismiss: () -> Void
+    /// Called when an embedded `<audio>` element (podcast episode) starts playing,
+    /// so the caller can pause the app's main daf/shiur audio to avoid overlap.
+    var onAudioPlay: () -> Void = {}
 
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
@@ -89,7 +92,7 @@ struct ArticleReaderView: View {
 
                 // ── Content ───────────────────────────────────────────────────
                 if let html = html {
-                    ArticleWebView(html: html, fontSize: studyFontSize.articleFontSize, useWhiteBackground: useWhiteBackground)
+                    ArticleWebView(html: html, fontSize: studyFontSize.articleFontSize, useWhiteBackground: useWhiteBackground, onAudioPlay: onAudioPlay)
                 } else {
                     VStack(spacing: 12) {
                         ProgressView().tint(fg)
@@ -191,11 +194,17 @@ private struct ArticleWebView: UIViewRepresentable {
     let html: String
     let fontSize: CGFloat
     let useWhiteBackground: Bool
+    var onAudioPlay: () -> Void = {}
 
-    func makeCoordinator() -> Coordinator { Coordinator() }
+    func makeCoordinator() -> Coordinator { Coordinator(onAudioPlay: onAudioPlay) }
 
     func makeUIView(context: Context) -> WKWebView {
-        let webView = WKWebView()
+        let contentController = WKUserContentController()
+        contentController.add(context.coordinator, name: "audioBridge")
+        let config = WKWebViewConfiguration()
+        config.userContentController = contentController
+
+        let webView = WKWebView(frame: .zero, configuration: config)
         webView.navigationDelegate = context.coordinator
         webView.backgroundColor = .clear
         webView.isOpaque = false
@@ -264,7 +273,19 @@ private struct ArticleWebView: UIViewRepresentable {
         hr     { border: none; border-top: 1px solid \(hrColor); margin: 20px 0; }
         </style>
         </head>
-        <body>\(html)</body>
+        <body>\(html)
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('audio').forEach(function(a) {
+                a.addEventListener('play', function() {
+                    if (window.webkit && window.webkit.messageHandlers.audioBridge) {
+                        window.webkit.messageHandlers.audioBridge.postMessage('play');
+                    }
+                });
+            });
+        });
+        </script>
+        </body>
         </html>
         """
     }
@@ -273,9 +294,15 @@ private struct ArticleWebView: UIViewRepresentable {
 
     /// Tracks what the WebView last loaded so `updateUIView` can decide
     /// whether to do a full reload or a lightweight JS font update.
-    final class Coordinator: NSObject, WKNavigationDelegate {
+    /// Also bridges embedded `<audio>` play events back to native code.
+    final class Coordinator: NSObject, WKNavigationDelegate, WKScriptMessageHandler {
         var loadedHTML: String      = ""
         var loadedFontSize: CGFloat = 0
+        let onAudioPlay: () -> Void
+
+        init(onAudioPlay: @escaping () -> Void) {
+            self.onAudioPlay = onAudioPlay
+        }
 
         func webView(_ webView: WKWebView,
                      decidePolicyFor action: WKNavigationAction,
@@ -286,6 +313,13 @@ private struct ArticleWebView: UIViewRepresentable {
                 decisionHandler(.cancel)
             } else {
                 decisionHandler(.allow)
+            }
+        }
+
+        func userContentController(_ userContentController: WKUserContentController,
+                                    didReceive message: WKScriptMessage) {
+            if message.name == "audioBridge", (message.body as? String) == "play" {
+                onAudioPlay()
             }
         }
     }

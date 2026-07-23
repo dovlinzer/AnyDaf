@@ -924,6 +924,7 @@ fun ContentScreen(
                                             val s = studyViewModel.session.value
                                             if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value, s.precedingContext, s.followingContext), printFontSize, printLineSpacing)
                                         },
+                                        onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
                                         modifier = Modifier.fillMaxSize()
                                     )
                                 }
@@ -1016,6 +1017,7 @@ fun ContentScreen(
                                     val s = studyViewModel.session.value
                                     if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value), printFontSize, printLineSpacing)
                                 },
+                                onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
                                 modifier = Modifier.weight(1f).fillMaxWidth()
                             )
                         }

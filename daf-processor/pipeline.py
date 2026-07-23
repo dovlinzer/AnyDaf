@@ -13,6 +13,7 @@ from config import (
     SEGMENTATION_MAX_TOKENS, REWRITE_MAX_TOKENS, SOURCE_INSERTION_MAX_TOKENS,
     BATCH_POLL_INTERVAL, BATCH_TIMEOUT, DEFAULT_WORKERS,
 )
+from check_anchor_section_mismatch import check_dir as check_structure
 from find_amud_b import process_dir as detect_amud_b
 from prompts import segmentation_prompt, rewrite_prompt, cleanup_prompt, source_insertion_prompt
 from sefaria import fetch_daf_text, fetch_daf_tail, fetch_daf_head, identify_daf  # noqa: F401
@@ -267,6 +268,27 @@ class Pipeline:
             job_dir = self._job_dir(masechta, daf, amud)
             status = detect_amud_b(job_dir, dry_run=False, force=True)
             logger.info(f"  [{masechta} {daf}{amud or ''}] amud B: {status}")
+
+        # Free local structure/bold-markup audit — only meaningful once pass 3 has
+        # actually run. Purely a triage signal, not a verdict: a run of MISSING
+        # flags immediately following a blockquoted section is usually the
+        # legitimate "several sections share one indivisible Sefaria segment"
+        # case (see check_anchor_section_mismatch.py docstring), not lost content.
+        # An isolated MISSING/EXTRA flag, or any NO BOLD MARKUP flag, is worth a look.
+        if self._should_run(3):
+            for _, masechta, daf, amud in jobs:
+                job_dir = self._job_dir(masechta, daf, amud)
+                flags = check_structure(job_dir)
+                label = f"{masechta} {daf}{amud or ''}"
+                if flags is None:
+                    continue
+                elif flags:
+                    logger.warning(
+                        f"  [{label}] structure check: {len(flags)} flag(s) — "
+                        f"python check_anchor_section_mismatch.py {job_dir} for detail"
+                    )
+                else:
+                    logger.info(f"  [{label}] structure check: clean")
 
     # ------------------------------------------------------------------
     # Helpers

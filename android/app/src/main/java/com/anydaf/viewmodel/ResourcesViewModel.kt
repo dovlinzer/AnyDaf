@@ -58,6 +58,7 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
 
     private val libraryClient = YCTLibraryClient.library
     private val psakClient    = YCTLibraryClient.psak
+    private val audioClient   = YCTLibraryClient.audio
 
     private var lastLoaded: Pair<String, Int>? = null
 
@@ -70,27 +71,33 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         viewModelScope.launch {
             val libraryKey = cacheKey(YCTSource.LIBRARY, tractate)
             val psakKey    = cacheKey(YCTSource.PSAK, tractate)
+            val audioKey   = cacheKey(YCTSource.AUDIO, tractate)
 
             // Step 1: re-categorise from in-memory cache (instant, no I/O)
-            val memLib  = allArticlesCache[libraryKey]
-            val memPsak = allArticlesCache[psakKey]
-            if (memLib != null && memPsak != null) {
-                categorize(memLib + memPsak, daf)
+            val memLib   = allArticlesCache[libraryKey]
+            val memPsak  = allArticlesCache[psakKey]
+            val memAudio = allArticlesCache[audioKey]
+            if (memLib != null && memPsak != null && memAudio != null) {
+                categorize(memLib + memPsak + memAudio, daf)
                 return@launch
             }
 
-            // Step 2: try disk cache
+            // Step 2: try disk cache.
+            // The audio client is NOT disk-cached: its endpoint is currently unexposed on the
+            // WordPress side (see YCTLibraryClient.audio), so every load re-fetches live —
+            // once it's fixed on the WP side, the next app launch picks it up immediately
+            // instead of waiting out a 7-day disk-cache TTL primed with an empty result.
             val cachedLib  = memLib  ?: ResourcesDiskCache.load(context, tractate, YCTSource.LIBRARY)
             val cachedPsak = memPsak ?: ResourcesDiskCache.load(context, tractate, YCTSource.PSAK)
 
-            if (cachedLib != null && cachedPsak != null) {
+            if (cachedLib != null && cachedPsak != null && memAudio != null) {
                 allArticlesCache[libraryKey] = cachedLib
                 allArticlesCache[psakKey]    = cachedPsak
-                categorize(cachedLib + cachedPsak, daf)
+                categorize(cachedLib + cachedPsak + memAudio, daf)
                 return@launch
             }
 
-            // Step 3: cache miss — fetch from network (both sources in parallel)
+            // Step 3: cache miss — fetch from network (all sources in parallel)
             _isLoading.value = true
             _error.value = null
             _exactArticles.value = emptyList()
@@ -100,9 +107,13 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
             try {
                 val libraryDeferred = async { fetchAllFromClient(libraryClient, tractate, cachedLib) }
                 val psakDeferred    = async { fetchAllFromClient(psakClient,    tractate, cachedPsak) }
+                // Swallows errors (the audio endpoint isn't live yet) so a broken/absent audio
+                // source never blocks or fails the library/psak fetch it runs alongside.
+                val audioDeferred   = async { fetchAllFromClientSafely(audioClient, tractate) }
 
-                val lib  = libraryDeferred.await()
-                val psak = psakDeferred.await()
+                val lib   = libraryDeferred.await()
+                val psak  = psakDeferred.await()
+                val audio = audioDeferred.await()
 
                 if (cachedLib == null) {
                     allArticlesCache[libraryKey] = lib
@@ -116,10 +127,12 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
                 } else {
                     allArticlesCache[psakKey] = cachedPsak
                 }
+                allArticlesCache[audioKey] = audio
 
                 categorize(
                     (allArticlesCache[libraryKey] ?: emptyList()) +
-                    (allArticlesCache[psakKey]    ?: emptyList()),
+                    (allArticlesCache[psakKey]    ?: emptyList()) +
+                    (allArticlesCache[audioKey]   ?: emptyList()),
                     daf
                 )
 
@@ -152,6 +165,7 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
                 _articleHtml.value = when (article.source) {
                     YCTSource.LIBRARY -> libraryClient.fetchArticleContent(article.id)
                     YCTSource.PSAK    -> psakClient.fetchArticleContent(article.id)
+                    YCTSource.AUDIO   -> audioClient.fetchArticleContent(article.id)
                 }
             } catch (e: Exception) {
                 _articleHtml.value = "<p>Failed to load article.</p>"
@@ -207,6 +221,17 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
     // MARK: - Private
 
     private fun cacheKey(source: YCTSource, tractate: String) = "${source.name}:$tractate"
+
+    /**
+     * Same as [fetchAllFromClient], but never throws — any failure (e.g. the audio endpoint
+     * not being live yet on the WordPress side) is swallowed and treated as "no articles
+     * from this client" rather than failing the whole [loadResources] call.
+     */
+    private suspend fun fetchAllFromClientSafely(
+        client: YCTLibraryClient,
+        tractate: String
+    ): List<YCTArticle> =
+        runCatching { fetchAllFromClient(client, tractate, null) }.getOrDefault(emptyList())
 
     /**
      * Fetches all articles for a tractate from a single client in one bulk request,

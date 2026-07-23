@@ -1,4 +1,5 @@
 # Berakhot 49 — Daf Yomi Shiur
+[DAF:48b]
 
 ## HaTov VeHaMeitiv
 
@@ -54,17 +55,13 @@ It is worth noting that the blessing itself opens with multiple themes — *rach
 
 ### Exceptions
 
-> **Hebrew/Aramaic:** גּוּפָא. רַבִּי אוֹמֵר: אֵין חוֹתְמִין בִּשְׁתַּיִם. אֵיתִיבֵיהּ לֵוִי לְרַבִּי, ״עַל הָאָרֶץ וְעַל הַמָּזוֹן״! — אֶרֶץ דְּמַפְּקָא מָזוֹן. ״עַל הָאָרֶץ וְעַל הַפֵּירוֹת״! — אֶרֶץ דְּמַפְּקָא פֵּירוֹת. ״מְקַדֵּשׁ יִשְׂרָאֵל וְהַזְּמַנִּים״! — יִשְׂרָאֵל דְּקַדְּשִׁינְהוּ לִזְמַנִּים. ״מְקַדֵּשׁ יִשְׂרָאֵל וְרָאשֵׁי חֳדָשִׁים״! — יִשְׂרָאֵל דְּקַדְּשִׁינְהוּ לְרָאשֵׁי חֳדָשִׁים. ״מְקַדֵּשׁ הַשַּׁבָּת וְיִשְׂרָאֵל וְהַזְּמַנִּים״! — חוּץ מִזּוֹ.
+> **Hebrew/Aramaic:** גּוּפָא. רַבִּי אוֹמֵר: אֵין חוֹתְמִין בִּשְׁתַּיִם. אֵיתִיבֵיהּ לֵוִי לְרַבִּי, ״עַל הָאָרֶץ וְעַל הַמָּזוֹן״! — אֶרֶץ דְּמַפְּקָא מָזוֹן. ״עַל הָאָרֶץ וְעַל הַפֵּירוֹת״! — אֶרֶץ דְּמַפְּקָא פֵּירוֹת. ״מְקַדֵּשׁ יִשְׂרָאֵל וְהַזְּמַנִּים״! — יִשְׂרָאֵל דְּקַדְּשִׁינְהוּ לִזְמַנִּים. ״מְקַדֵּשׁ יִשְׂרָאֵל וְרָאשֵׁי חֳדָשִׁים״! — יִשְׂרָאֵל דְּקַדְּשִׁינְהוּ לְרָאשֵׁי חֳדָשִׁים. ״מְקַדֵּשׁ הַשַּׁבָּת וְיִשְׂרָאֵל וְהַזְּמַנִּים״! — חוּץ מִזּוֹ. וּמַאי שְׁנָא? הָכָא חֲדָא הִיא, הָתָם תַּרְתֵּי, כׇּל חֲדָא וַחֲדָא בְּאַפֵּי נַפְשָׁהּ. וְטַעְמָא מַאי אֵין חוֹתְמִין בִּשְׁתַּיִם? לְפִי שֶׁאֵין עוֹשִׂין מִצְוֹת חֲבִילוֹת חֲבִילוֹת.
 >
-> **Translation:** The Gemara discusses **the matter itself: Rabbi** Yehuda HaNasi **says: One may not conclude with two** themes. **Levi,** his student, **raised an objection to** the opinion of **Rabbi** Yehuda HaNasi based on the standard conclusions of various blessings. The second blessing of Grace after Meals concludes: **For the land and for the food.** Rabbi Yehuda HaNasi explained that the conclusion to that blessing is actually a single theme: **The land that produces food.** Levi raised a similar objection from the blessing that concludes: **For the land and for the fruit.** Rabbi Yehuda HaNasi explained that there, too, it means: **The land that produces fruit. Who sanctifies Israel and the seasons.** It means: **Who sanctifies Israel, who sanctify the seasons. Who sanctifies Israel and the New Moon.** It means: **Who sanctifies Israel, who sanctify the New Moons. Who sanctifies Shabbat, Israel, and the seasons.** Rabbi Yehuda HaNasi answered: **Except for that** one.
+> **Translation:** The Gemara discusses **the matter itself: Rabbi** Yehuda HaNasi **says: One may not conclude with two** themes. **Levi,** his student, **raised an objection to** the opinion of **Rabbi** Yehuda HaNasi based on the standard conclusions of various blessings. The second blessing of Grace after Meals concludes: **For the land and for the food.** Rabbi Yehuda HaNasi explained that the conclusion to that blessing is actually a single theme: **The land that produces food.** Levi raised a similar objection from the blessing that concludes: **For the land and for the fruit.** Rabbi Yehuda HaNasi explained that there, too, it means: **The land that produces fruit.** Levi cited two other blessings: **Who sanctifies Israel and the seasons.** It means: **Who sanctifies Israel, who sanctify the seasons. Who sanctifies Israel and the New Moon.** It means: **Who sanctifies Israel, who sanctify the New Moons.** Levi cited an additional blessing that concludes with two themes, the blessing recited when Shabbat coincides with a Festival: **Who sanctifies Shabbat, Israel, and the seasons.** Rabbi Yehuda HaNasi answered: **Except for that** one. The Gemara asks: **What is different** about this blessing? The Gemara answers: **Here,** the blessing thanks God **for one** matter, the sanctity of the day. However, **there,** in the conclusion of the third blessing of Grace after Meals, the building of Jerusalem and redemption of Israel are **two** themes, and **each one is distinct** from the other. The Gemara asks: **And what is the reason that one does not conclude** a blessing **with two** themes? The Gemara responds: **Because** there is a general principle: **One does not perform mitzvot in bundles;** rather, each mitzva must have its own blessing.
 
 The *gemara* tests the rule. Levi challenged Rabbi with examples that appear to use two themes in a *chatimah*: *al ha-aretz v'al ha-mazon*, *al ha-aretz v'al ha-peirot*, *mekadesh Yisrael v'ha-zmanim*, *mekadesh Yisrael v'roshei chodashim*. Rabbi answered each: *aretz d'mapka mazon* — the land that brings forth the food; *aretz d'mapka peirot* — the land that brings forth the fruit; *Yisrael d'kadshinhu l'zmanim* — Israel who sanctifies the times by establishing the calendar. In each case, what appears as two themes resolves into one: one entity, one act, one attribution to God.
 
 The case of *mekadesh ha-Shabbat v'Yisrael v'ha-zmanim*, which combines *Shabbat*, Israel, and the *moadim*, cannot be similarly resolved. Here the *gemara* says simply *chutz mi-zo* — this is an exception — and explains *hacha chada hi, hatam tarti*: here it is one, there it is two. Rashi explains that the formula means simply that God sanctifies — *hamekadesh* — and that single verb applies alike to *Shabbat*, to Israel, and to the *moadim*. It is one divine act of sanctification applied to multiple objects. By contrast, *moshia Yisrael u-voneh Yerushalayim* posits two distinct divine acts — redemption and construction — and is therefore genuinely *tarti*, two themes.
-
-> **Hebrew/Aramaic:** וּמַאי שְׁנָא? הָכָא חֲדָא הִיא, הָתָם תַּרְתֵּי, כׇּל חֲדָא וַחֲדָא בְּאַפֵּי נַפְשָׁהּ. וְטַעְמָא מַאי אֵין חוֹתְמִין בִּשְׁתַּיִם? לְפִי שֶׁאֵין עוֹשִׂין מִצְוֹת חֲבִילוֹת חֲבִילוֹת.
->
-> **Translation:** The Gemara asks: **What is different** about this blessing? The Gemara answers: **Here,** the blessing thanks God **for one** matter, the sanctity of the day. However, **there,** in the conclusion of the third blessing of Grace after Meals, the building of Jerusalem and redemption of Israel are **two** themes, and **each one is distinct** from the other. The Gemara asks: **And what is the reason that one does not conclude** a blessing **with two** themes? The Gemara responds: **Because** there is a general principle: **One does not perform mitzvot in bundles;** rather, each mitzva must have its own blessing.
 
 The objection was raised that *moshia Yisrael* and *boneh Yerushalayim* could similarly be treated as a single theme — the salvation of Israel leads to the building of Jerusalem, just as the land bringing forth food is one concept. But as the *gemara* makes clear, this analogy does not hold: in the other cases, one is ascribing a single action to God, with the second element being an effect or instrument of the first. Here, one is ascribing two distinct actions to God — saving Israel and building Jerusalem — making them genuinely two themes that should not be bundled.
 
@@ -74,19 +71,23 @@ The *gemara* closes this discussion with the principle: *lefi she-ein osin mitzv
 
 > **Hebrew/Aramaic:** מַאי הָוֵי עֲלַהּ? אָמַר רַב שֵׁשֶׁת: פָּתַח בְּ״רַחֵם עַל עַמְּךָ יִשְׂרָאֵל״ — חוֹתֵם בְּמוֹשִׁיעַ יִשְׂרָאֵל. פָּתַח בְּ״רַחֵם עַל יְרוּשָׁלָיִם״ — חוֹתֵם בְּ״בוֹנֵה יְרוּשָׁלָיִם״.
 >
-> **Translation:** The Gemara has yet to arrive at a clear conclusion regarding the conclusion of the third blessing of Grace after Meals. The Gemara asks: **What** conclusion was reached **about it? Rav Sheshet said:** If **he opened with: Have compassion on Your people, Israel,** mentioning redemption of Israel at the start, **he concludes with: Who redeems Israel;** if **he opened with: Have compassion on Jerusalem, he concludes with: Who builds Jerusalem.**
+> **Translation:** The Gemara has yet to arrive at a clear conclusion regarding the conclusion of the third blessing of Grace after Meals. The Gemara asks: **What** conclusion was reached **about it?** **Rav Sheshet said:** If **he opened with: Have compassion on Your people, Israel,** mentioning redemption of Israel at the start, **he concludes with: Who redeems Israel;** if **he opened with: Have compassion on Jerusalem, he concludes with: Who builds Jerusalem.**
 
 Rav Sheshet offers a practical resolution. The *chatimah* should mirror the opening theme. If one opened with *racheim al amcha Yisrael* — emphasizing the salvation of the people — one closes with *moshia Yisrael*. If one opened with *racheim al Yerushalayim* — emphasizing the city — one closes with *boneh Yerushalayim*. This is a notable position: it allows for the possibility that the entire *bracha*, from opening to closing, focuses not on Jerusalem but solely on the redemption of Israel, without any mention of *binyan Yerushalayim* in the *chatimah*. Given the *gemara*'s insistence that the land's goodness is bound up with the presence of the *Beit Ha-Mikdash*, this is a striking leniency.
 
 ### Rav Nachman
 
-> **Hebrew/Aramaic:** וְרַב נַחְמָן אָמַר: אֲפִילּוּ פָּתַח בְּ״רַחֵם עַל יִשְׂרָאֵל״ — חוֹתֵם בְּ״בוֹנֵה יְרוּשָׁלָיִם״, מִשּׁוּם שֶׁנֶּאֱמַר ״בּוֹנֵה יְרוּשָׁלַיִם ה׳ נִדְחֵי יִשְׂרָאֵל יְכַנֵּס״: אֵימָתַי בּוֹנֵה יְרוּשָׁלַיִם ה׳ — בִּזְמַן שֶׁנִּדְחֵי יִשְׂרָאֵל יְכַנֵּס.
+> **Hebrew/Aramaic:** וְרַב נַחְמָן אָמַר: אֲפִילּוּ פָּתַח בְּ״רַחֵם עַל יִשְׂרָאֵל״ — חוֹתֵם בְּ״בוֹנֵה יְרוּשָׁלָיִם״, מִשּׁוּם שֶׁנֶּאֱמַר ״בּוֹנֵה יְרוּשָׁלַיִם ה׳ נִדְחֵי יִשְׂרָאֵל יְכַנֵּס״:
 >
-> **Translation:** **Rav Naḥman said: Even if he opened with: Have compassion on Israel, he concludes with: Who builds Jerusalem, because it is stated: "The Lord builds Jerusalem; He gathers in the exiles of Israel"** (Psalms 147:2). This verse is interpreted to mean: **When does God build Jerusalem? When He gathers in the exiles of Israel.** The rebuilding of Jerusalem symbolizes Israel's redemption.
+> **Translation:** **Rav Naḥman said: Even if he opened with: Have compassion on Israel, he concludes with: Who builds Jerusalem, because it is stated: "The Lord builds Jerusalem; He gathers in the exiles of Israel"** (Psalms 147:2).
 
 Rav Nachman disagrees. Even if one opened with *racheim al Yisrael* — even when the opening theme is the people's salvation — one must still close with *boneh Yerushalayim*. This is our *nusach*. The basis is the verse: *boneh Yerushalayim Hashem nidchei Yisrael yekaneis* — God builds Jerusalem and gathers in the dispersed of Israel.
 
 ### Geulah Themes
+
+> **Hebrew/Aramaic:** אֵימָתַי בּוֹנֵה יְרוּשָׁלַיִם ה׳ — בִּזְמַן שֶׁנִּדְחֵי יִשְׂרָאֵל יְכַנֵּס.
+>
+> **Translation:** This verse is interpreted to mean: **When does God build Jerusalem? When He gathers in the exiles of Israel.** The rebuilding of Jerusalem symbolizes Israel's redemption.
 
 The *gemara* interprets this verse to mean: *eimatai boneh Yerushalayim Hashem? Bizman she-nidchei Yisrael yekaneis* — when does God build Jerusalem? When He gathers in the dispersed of Israel. On this reading, the building of Jerusalem is the culmination of the ingathering of exiles; one opens with the salvation of Israel and closes with *boneh Yerushalayim* because the latter is the ultimate goal to which the former leads.
 
@@ -110,13 +111,17 @@ The *gemara* now relates a significant incident. Rav Zeira said to Rav Chisda: c
 
 ### Rav Chananel
 
-> **Hebrew/Aramaic:** וְאַמַּאי לָא אֲמַרְתְּ? כִּדְרַב חֲנַנְאֵל אָמַר רַב, דְּאָמַר רַב חֲנַנְאֵל אָמַר רַב: לֹא אָמַר בְּרִית וְתוֹרָה וּמַלְכוּת — יָצָא. בְּרִית — לְפִי שֶׁאֵינָהּ בְּנָשִׁים. תּוֹרָה וּמַלְכוּת — לְפִי שֶׁאֵינָן לֹא בְּנָשִׁים וְלֹא בַּעֲבָדִים.
+> **Hebrew/Aramaic:** וְאַמַּאי לָא אֲמַרְתְּ? כִּדְרַב חֲנַנְאֵל אָמַר רַב, דְּאָמַר רַב חֲנַנְאֵל אָמַר רַב: לֹא אָמַר בְּרִית וְתוֹרָה וּמַלְכוּת — יָצָא.
 >
-> **Translation:** Rabbi Zeira wondered: **And why did you not mention** those themes? He answered that he did so **in accordance with** the opinion that **Rav Ḥananel** said that **Rav said, as Rav Ḥananel said** that **Rav said: If one does not mention covenant, Torah or sovereignty** in Grace after Meals, **he** nevertheless **fulfilled** his obligation because these themes are not applicable to all of Israel. **Covenant does not apply to women; Torah and sovereignty apply neither to women nor to slaves.**
+> **Translation:** Rabbi Zeira wondered: **And why did you not mention** those themes? He answered that he did so **in accordance with** the opinion that **Rav Ḥananel** said that **Rav said, as Rav Ḥananel said** that **Rav said: If one does not mention covenant, Torah or sovereignty** in Grace after Meals, **he** nevertheless **fulfilled** his obligation because these themes are not applicable to all of Israel.
 
 Rav Chisda explained that he had acted in accordance with the position of Rav Chananel citing Rav: *lo amar brit Torah u-malchut yatza* — if one did not say *brit*, *Torah*, or *malchus*, one has nevertheless fulfilled the obligation.
 
 ### Universal Application
+
+> **Hebrew/Aramaic:** בְּרִית — לְפִי שֶׁאֵינָהּ בְּנָשִׁים. תּוֹרָה וּמַלְכוּת — לְפִי שֶׁאֵינָן לֹא בְּנָשִׁים וְלֹא בַּעֲבָדִים.
+>
+> **Translation:** **Covenant does not apply to women; Torah and sovereignty apply neither to women nor to slaves.**
 
 The reasoning offered is striking: *brit* does not apply to women, who are not obligated in *brit milah*; *Torah* and *malchus* do not apply to women and slaves, who are not obligated in *talmud Torah* in the classical formulation, and for whom the laws of kingship do not apply in the same way. Since these elements are not universally applicable to all those obligated in *birkat ha-mazon*, they cannot be considered indispensable to the text. The implication is that a required component of a *bracha* must be one that is meaningful and applicable to every person obligated in that *bracha*.
 
@@ -142,33 +147,41 @@ Rav Zeira responded with a pointed challenge: *v'at shavkat kol hanei tannai v'a
 
 ### Malchus Rule
 
-> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: ״הַטּוֹב וְהַמֵּטִיב״ צְרִיכָה מַלְכוּת. מַאי קָא מַשְׁמַע לַן, כׇּל בְּרָכָה שֶׁאֵין בָּהּ מַלְכוּת — לֹא שְׁמָהּ בְּרָכָה? וְהָא אַמְרַהּ רַבִּי יוֹחָנָן חֲדָא זִימְנָא! אָמַר רַבִּי זֵירָא: לוֹמַר שֶׁצְּרִיכָה שְׁתֵּי מַלְכֻיוֹת, חֲדָא דִּידַהּ וַחֲדָא דְּ״בוֹנֵה יְרוּשָׁלָיִם״.
+> **Hebrew/Aramaic:** אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: ״הַטּוֹב וְהַמֵּטִיב״ צְרִיכָה מַלְכוּת. מַאי קָא מַשְׁמַע לַן, כׇּל בְּרָכָה שֶׁאֵין בָּהּ מַלְכוּת — לֹא שְׁמָהּ בְּרָכָה? וְהָא אַמְרַהּ רַבִּי יוֹחָנָן חֲדָא זִימְנָא!
 >
-> **Translation:** **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said:** The blessing: **Who is good and does good, requires** mention of God's **sovereignty.** The Gemara asks: **What is he teaching us** that we did not already know? If you say that he is teaching us that **any blessing that does not contain mention of** God's **sovereignty is not** considered a **blessing, didn't Rabbi Yoḥanan already say that** *halakha* **once? Rabbi Zeira said:** Rabba bar bar Ḥana **is saying that** the blessing: Who is good and does good, **requires two** mentions of **sovereignty, one for itself and one for** the blessing: **Who builds Jerusalem.**
+> **Translation:** **Rabba bar bar Ḥana said** that **Rabbi Yoḥanan said:** The blessing: **Who is good and does good, requires** mention of God's **sovereignty.** The Gemara asks: **What is he teaching us** that we did not already know? If you say that he is teaching us that **any blessing that does not contain mention of** God's **sovereignty is not** considered a **blessing, didn't Rabbi Yoḥanan already say that** *halakha* **once?**
 
 The *gemara* now returns to the question of *malchus* in *ha-tov ve-ha-meitiv* — here *malchus* in the sense of *melech ha-olam* — consistent with the earlier conclusion that *ha-tov ve-ha-meitiv* is an independent *bracha* and therefore requires *Elokeinu melech ha-olam*. The *gemara* invokes the principle already stated by Rabbi Yochanan: *kol bracha she-ein bah malchus lo shema bracha* — any *bracha* without *malchus* is not properly a *bracha*. But this principle was already stated once by Rabbi Yochanan. What then is the novel teaching here?
 
 ### Double Malchus Theory
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי זֵירָא: לוֹמַר שֶׁצְּרִיכָה שְׁתֵּי מַלְכֻיוֹת, חֲדָא דִּידַהּ וַחֲדָא דְּ״בוֹנֵה יְרוּשָׁלָיִם״.
+>
+> **Translation:** **Rabbi Zeira said:** Rabba bar bar Ḥana **is saying that** the blessing: Who is good and does good, **requires two** mentions of **sovereignty, one for itself and one for** the blessing: **Who builds Jerusalem.**
+
 Rav Zeira proposes: *lomar she-tzricha shtei malchuyot* — to say that *ha-tov ve-ha-meitiv* requires two expressions of *malchus*. One for itself — *chada didei* — and one in place of *boneh Yerushalayim* — *chada d'Vanei Yerushalayim* — since *boneh Yerushalayim* closes with *baruch atah Hashem boneh Yerushalayim* or *be-rachamav boneh Yerushalayim*, without *melech ha-olam*. Since that *malchus* was missing in *boneh Yerushalayim*, it is compensated for in *ha-tov ve-ha-meitiv*, which contains *ha-melech ha-tov ve-ha-meitiv la-kol*. This is reminiscent of Tuesday in the creation narrative receiving two *ki tov* because Monday had none.
 
 ### Objection
 
-> **Hebrew/Aramaic:** אִי הָכִי נִיבְעֵי תְּלָת: חֲדָא דִּידַהּ, וַחֲדָא דְּ״בוֹנֵה יְרוּשָׁלָיִם״, וַחֲדָא דְּבִרְכַּת הָאָרֶץ! אֶלָּא בִּרְכַּת הָאָרֶץ מַאי טַעְמָא לָא? מִשּׁוּם דְּהָוְיָיא לַהּ בְּרָכָה הַסְּמוּכָה לַחֲבֶרְתָּהּ, ״בּוֹנֵה יְרוּשָׁלָיִם״ נָמֵי לָא תִּבְעֵי, דְּהָוְיָא לַהּ בְּרָכָה הַסְּמוּכָה לַחֲבֶרְתָּהּ!
+> **Hebrew/Aramaic:** אִי הָכִי נִיבְעֵי תְּלָת: חֲדָא דִּידַהּ, וַחֲדָא דְּ״בוֹנֵה יְרוּשָׁלָיִם״, וַחֲדָא דְּבִרְכַּת הָאָרֶץ!
 >
-> **Translation:** The Gemara asks: **If so,** that God's sovereignty must be mentioned a second time in the blessing: Who is good and does good, to compensate for the fact that it was not mentioned in the blessing: Who builds Jerusalem, **it should require three** mentions; **one of its own, one for** the blessing: **Who builds Jerusalem, and one for the blessing of the land,** in which sovereignty is also not mentioned. **Rather,** in **the blessing of the land, what is the reason** that sovereignty is **not** mentioned? **Because it is a blessing juxtaposed to another** preceding blessing. **Who builds Jerusalem, should also not require** its own mention of God's sovereignty, **as it is a blessing juxtaposed to another** preceding blessing.
+> **Translation:** The Gemara asks: **If so,** that God's sovereignty must be mentioned a second time in the blessing: Who is good and does good, to compensate for the fact that it was not mentioned in the blessing: Who builds Jerusalem, **it should require three** mentions; **one of its own, one for** the blessing: **Who builds Jerusalem, and one for the blessing of the land,** in which sovereignty is also not mentioned.
 
 An objection is raised: if we are compensating for a missing *malchus*, should we not also compensate for *birkat ha-aretz*, which similarly omits *melech ha-olam*? That would require three expressions of *malchus* in *ha-tov ve-ha-meitiv* — one for itself, one for *boneh Yerushalayim*, and one for *birkat ha-aretz*.
 
 ### Response
 
-> **Hebrew/Aramaic:** הוּא הַדִּין דַּאֲפִילּוּ ״בּוֹנֵה יְרוּשָׁלָיִם״ נָמֵי לָא בָּעֲיָא. אַיְּידֵי דְּאָמַר מַלְכוּת בֵּית דָּוִד, לָאו אוֹרַח אַרְעָא דְּלָא אָמַר מַלְכוּת שָׁמַיִם. רַב פָּפָּא אָמַר, הָכִי קָאָמַר: צְרִיכָה שְׁתֵּי מַלְכֻיוֹת לְבַר מִדִּידַהּ.
+> **Hebrew/Aramaic:** אֶלָּא בִּרְכַּת הָאָרֶץ מַאי טַעְמָא לָא? מִשּׁוּם דְּהָוְיָיא לַהּ בְּרָכָה הַסְּמוּכָה לַחֲבֶרְתָּהּ, ״בּוֹנֵה יְרוּשָׁלָיִם״ נָמֵי לָא תִּבְעֵי, דְּהָוְיָא לַהּ בְּרָכָה הַסְּמוּכָה לַחֲבֶרְתָּהּ! הוּא הַדִּין דַּאֲפִילּוּ ״בּוֹנֵה יְרוּשָׁלָיִם״ נָמֵי לָא בָּעֲיָא. אַיְּידֵי דְּאָמַר מַלְכוּת בֵּית דָּוִד, לָאו אוֹרַח אַרְעָא דְּלָא אָמַר מַלְכוּת שָׁמַיִם.
 >
-> **Translation:** The Gemara responds: **The same is true even** with regard to the blessing: **Who builds Jerusalem,** that it **does not require** mention of sovereignty. However, **since he mentioned the royal house of David** in the blessing, **it would not be proper** if **he did not mention God's sovereignty** as well. On the other hand, **Rav Pappa said:** The blessing: Who is good and does good, **requires two** mentions of **sovereignty besides its own;** one to compensate for its lack of mention in the blessing: Who builds Jerusalem, and one for the blessing of the land.
+> **Translation:** **Rather,** in **the blessing of the land, what is the reason** that sovereignty is **not** mentioned? **Because it is a blessing juxtaposed to another** preceding blessing. **Who builds Jerusalem, should also not require** its own mention of God's sovereignty, **as it is a blessing juxtaposed to another** preceding blessing. The Gemara responds: **The same is true even** with regard to the blessing: **Who builds Jerusalem,** that it **does not require** mention of sovereignty. However, **since he mentioned the royal house of David** in the blessing, **it would not be proper** if **he did not mention God's sovereignty** as well.
 
 The *gemara* responds: *birkat ha-aretz* requires no such compensation because *mishum d'havya leh bracha semucha l'chavertah* — it is a *bracha samuch l'chavertah*, attached to the opening *bracha* which carried *malchus*. It was never independently required to have its own *malchus*, so there is nothing to compensate for. Extending the logic: *boneh Yerushalayim* is also *samuch l'chavertah*, and by the same reasoning should require no compensation either. The *gemara* accepts this: *hu ha-din d'afilu Bonei Yerushalayim nami lo ba'ei* — fine, even *boneh Yerushalayim* did not strictly require *malchus*.
 
 ### Rav Papa
+
+> **Hebrew/Aramaic:** רַב פָּפָּא אָמַר, הָכִי קָאָמַר: צְרִיכָה שְׁתֵּי מַלְכֻיוֹת לְבַר מִדִּידַהּ.
+>
+> **Translation:** On the other hand, **Rav Pappa said:** The blessing: Who is good and does good, **requires two** mentions of **sovereignty besides its own;** one to compensate for its lack of mention in the blessing: Who builds Jerusalem, and one for the blessing of the land.
 
 Rav Papa then reframes the entire matter. The two expressions of *malchus* in *ha-tov ve-ha-meitiv* are not a compensation for missing *malchus* in earlier *brachot*. Rather, *tzricha shtei malchuyot l'var mididei* — in addition to the *malchus* for itself, there are two more within the *bracha*. The text of *ha-tov ve-ha-meitiv* already contains *ha-melech ha-tov ve-ha-meitiv la-kol*, and additionally *el avinu malkenu* — so we have *melech* for *boneh Yerushalayim* and *malkeinu* for *birkat ha-aretz*, paying back the missing *malchus* of both earlier *brachot* simultaneously. This is a structurally elegant resolution that ties all four *brachot* together.
 
@@ -212,6 +225,7 @@ Rav Giddel then taught: if one forgot *Rosh Chodesh*, one says *baruch she-natan
 
 Giddel bar Minyumi was present before Rav Nachman when Rav Nachman himself forgot — apparently omitting *ya'aleh v'yavo* or *retzei* — and returned to the very beginning of *benching*, *hadar le-reisha*. When asked why, Rav Nachman cited a ruling: *ta'ah chozer le-rosh* — if one erred, one returns to the beginning. This was said in the name of Rav — the same Rav in whose name the special *bracha* was just taught. An apparent contradiction.
 
+[DAF:49b]
 ### Before HaTov VeHaMeitiv
 
 > **Hebrew/Aramaic:** וְהָא אָמַר רַב הוּנָא אָמַר רַב: טָעָה — אוֹמֵר ״בָּרוּךְ שֶׁנָּתַן״! אֲמַר לֵיהּ: לָאו אִיתְּמַר עֲלַהּ, אָמַר רַב מְנַשְּׁיָא בַּר תַּחְלִיפָא אָמַר רַב: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא פָּתַח בְּ״הַטּוֹב וְהַמֵּטִיב״, אֲבָל פָּתַח בְּ״הַטּוֹב וְהַמֵּטִיב״ — חוֹזֵר לָרֹאשׁ.
@@ -242,15 +256,15 @@ The *gemara* cites a ruling of Shmuel, transmitted through a chain of Rav Nachma
 
 > **Hebrew/Aramaic:** אֲמַר לֵיהּ רַב אָבִין לְרַב עַמְרָם: מַאי שְׁנָא תְּפִלָּה וּמַאי שְׁנָא בִּרְכַּת הַמָּזוֹן? אֲמַר לֵיהּ: אַף לְדִידִי קַשְׁיָא לִי וּשְׁאֵילְתֵּיהּ לְרַב נַחְמָן, וַאֲמַר לִי: מִינֵּיהּ דְּמָר שְׁמוּאֵל לָא שְׁמִיעַ לִי, אֶלָּא נֶחְזֵי אֲנַן: תְּפִלָּה דְּחוֹבָה הִיא — מַחֲזִירִין אוֹתוֹ. בִּרְכַּת מְזוֹנָא, דְּאִי בָּעֵי אָכֵיל אִי בָּעֵי לָא אָכֵיל — אֵין מַחֲזִירִין אוֹתוֹ.
 >
-> **Translation:** **Rav Avin said to Rav Amram** about this: **What is the difference between** the *Amida* **prayer and Grace after Meals? He said to him: That** question **was also difficult for me and I asked Rav Naḥman** about **it, and he said to me: I did not hear** the reason **from Mar Shmuel** himself, **but let us see** if we can analyze it ourselves. For the *Amida* **prayer, which is an obligation, we require him to return** to the beginning of the prayer and repeat it. For **Grace after Meals, which** is not an obligation, as **if he wants** to eat, **he eats and if he wants** not to eat, **he does not eat, we do not require him to return** to the beginning and repeat it.
+> **Translation:** **Rav Avin said to Rav Amram** about this: **What is the difference between** the *Amida* **prayer and Grace after Meals? He said to him: That** question **was also difficult for me and I asked Rav Naḥman** about **it, and he said to me: I did not hear** the reason **from Mar Shmuel** himself, **but let us see** if we can analyze it ourselves. For the *Amida* **prayer, which is an obligation, we require him to return** to the beginning of the prayer and repeat it. For **Grace after Meals, which** is not an obligation, as **if he wants** to eat, **he eats and if he wants** not to eat, **he does not eat, we do not require him to return** to the beginning and repeat it. Grace after Meals is not a full-fledged obligation; it is dependent upon eating, which is optional. Consequently, failure to mention the New Moon in Grace after Meals is not a source of concern.
 
 When Rav Amram was asked by Rav Avin for the reason behind this distinction, he replied that he too had been puzzled and had asked Rav Nachman, who told him that he had not heard the reason from Shmuel himself. They therefore worked it out independently: *tefillah de-chova hi* — prayer is an obligation; one is required to *daven* today regardless. The proper *nusach* for today includes the *Rosh Chodesh* insertion; if one omitted it, one has not fulfilled today's obligatory prayer and must repeat. *Birkat mezona de'i ba'ei achil, i ba'ei lo achil* — *birkat ha-mazon*, by contrast, arises only when one eats; no one was obligated to eat today specifically. Since the meal itself was optional, the *benching* associated with it is not *chova* in the same way, and the omission of *Rosh Chodesh* does not require repetition.
 
 ### Distinction
 
-> **Hebrew/Aramaic:** אֶלָּא מֵעַתָּה שַׁבָּתוֹת וְיָמִים טוֹבִים, דְּלָא סַגִּי דְּלָא אָכֵיל — הָכִי נָמֵי דְּאִי טָעֵי הָדַר? — אֲמַר לֵיהּ: אִין, דְּאָמַר רַבִּי שֵׁילָא אָמַר רַב: טָעָה — חוֹזֵר לָרֹאשׁ.
+> **Hebrew/Aramaic:** אֶלָּא מֵעַתָּה שַׁבָּתוֹת וְיָמִים טוֹבִים, דְּלָא סַגִּי דְּלָא אָכֵיל — הָכִי נָמֵי דְּאִי טָעֵי הָדַר? — אֲמַר לֵיהּ: אִין, דְּאָמַר רַבִּי שֵׁילָא אָמַר רַב: טָעָה — חוֹזֵר לָרֹאשׁ. וְהָא אָמַר רַב הוּנָא אָמַר רַב: טָעָה — אוֹמֵר ״בָּרוּךְ שֶׁנָּתַן״! — לָאו אִיתְּמַר עֲלַהּ: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא פָּתַח בְּ״הַטּוֹב וְהַמֵּטִיב״, אֲבָל פָּתַח בְּ״הַטּוֹב וְהַמֵּטִיב״ — חוֹזֵר לָרֹאשׁ.
 >
-> **Translation:** The Gemara asks: **If so, on Shabbatot and Festivals,** when there is a mitzva to eat and **when it is not possible to refrain from eating,** there **too, if he erred** and failed to mention them in Grace after Meals, would you say that **he must return** to the beginning and repeat it? **He said: Yes. As Rabbi Sheila said** that **Rav said: If one erred, he returns to the beginning** of Grace after Meals.
+> **Translation:** The Gemara asks: **If so, on Shabbatot and Festivals,** when there is a mitzva to eat and **when it is not possible to refrain from eating,** there **too, if he erred** and failed to mention them in Grace after Meals, would you say that **he must return** to the beginning and repeat it? **He said: Yes. As Rabbi Sheila said** that **Rav said: If one erred, he returns to the beginning** of Grace after Meals. The Gemara asks: **Didn't Rav Huna say** that **Rav said: If one erred, he recites: Blessed…Who gave?** The Gemara rejects this: **Wasn't it stated about this: They only taught that** one recites the short blessing in a case where **he did not** yet **begin** reciting: **Who is good and does good; however,** if **he** already **began** reciting: **Who is good and does good, he must return to the beginning** of Grace after Meals.
 
 The *gemara* then challenges: by that logic, on *Shabbat* and *Yom Tov*, where one is obligated to have a *seudah*, the *benching* should function like *tefillah* and require repetition if the *Shabbat* or *Yom Tov* theme was omitted. The answer is yes — and this is precisely the ruling of Rav: *ta'ah chozer le-rosh*, one returns to the beginning, qualified only by the caveat that one has not yet begun *ha-tov ve-ha-meitiv*. The two positions attributed to Rav are therefore not contradictory: the special *bracha* suffices on days where there is no *chiyuv seudah*; on *Shabbat* and *Yom Tov*, where the meal is obligatory, repeating the *benching* is required when the special insertion was forgotten.
 
@@ -264,9 +278,9 @@ The question arises about *Shabbat Rosh Chodesh*: one is obligated to eat on *Sh
 
 ### Textual Basis
 
-> **Hebrew/Aramaic:** תְּנַן: עַד כַּמָּה מְזַמְּנִין? בִּכְזַיִת. רַבִּי יְהוּדָה אוֹמֵר: בִּכְבֵיצָה.
+> **Hebrew/Aramaic:** עַד כַּמָּה מְזַמְּנִין וְכוּ׳. לְמֵימְרָא דְּרַבִּי מֵאִיר חָשֵׁיב לֵיהּ כְּזַיִת, וְרַבִּי יְהוּדָה כְּבֵיצָה? וְהָא אִיפְּכָא שָׁמְעִינַן לְהוּ, דִּתְנַן: וְכֵן מִי שֶׁיָּצָא מִיְּרוּשָׁלַיִם וְנִזְכַּר שֶׁהָיָה בְּיָדוֹ בְּשַׂר קֹדֶשׁ, אִם עָבַר צוֹפִים — שׂוֹרְפוֹ בִּמְקוֹמוֹ, וְאִם לָאו — חוֹזֵר וְשׂוֹרְפוֹ לִפְנֵי הַבִּירָה מֵעֲצֵי הַמַּעֲרָכָה. עַד כַּמָּה הֵם חוֹזְרִים? רַבִּי מֵאִיר אוֹמֵר: זֶה וְזֶה בִּכְבֵיצָה. וְרַבִּי יְהוּדָה אוֹמֵר: זֶה וְזֶה בִּכְזַיִת.
 >
-> **Translation:** We learned in a mishna: **How much must one eat to obligate those eating with him in a *zimmun*? An olive's bulk. Rabbi Yehuda says: An egg's bulk.**
+> **Translation:** There is a dispute in the mishna: **How much** must one eat **to obligate** those with whom they ate **in a *zimmun*?** An olive-bulk; Rabbi Yehuda says: An egg-bulk. The Gemara asks: **Is that to say that Rabbi Meir considers an olive-bulk significant and Rabbi Yehuda considers an egg-bulk significant? Didn't we hear them** say **the opposite** elsewhere? **As we learned** in a mishna: **And similarly, one who left Jerusalem and remembered that there was consecrated meat in his hand,** which may not be removed from Jerusalem, **if he passed** Mount **Scopus,** or anywhere that is a comparable distance from the Temple Mount, **he burns** the sanctified meat **at the site** where **he** is located; **and if** he has **not** yet traveled that distance, **he must return to burn it before the Temple with the wood of the arrangement** that was designated for burning consecrated items that were disqualified. The mishna continues: **How much** meat must be in their possession in order to obligate **them to return? Rabbi Meir says:** One must return **for an egg-bulk of this,** sanctified meat, **and that,** leaven mentioned there previously. **And Rabbi Yehuda says:** One must return **for an olive-bulk of this and that.** Their opinions there seem to contradict their opinions in our mishna.
 
 The *gemara* returns to the question of how much one must eat to be obligated in *zimmun* and *birkat ha-mazon*. The underlying debate turns on how to read the verse *v'achalta v'savata u-verachta* — you shall eat and be satisfied and bless. Rabbi Meir reads *v'achalta* as referring to eating and *v'savata* as referring to drinking — not full satiation but an accompaniment to eating that completes the act. On this reading, any significant act of eating triggers the obligation. Rabbi Yehuda reads *v'achalta v'savata* together as describing an eating that itself produces satiation — *achila she-yesh ba savia* — an eating that is inherently filling.
 
@@ -276,31 +290,25 @@ From this, in the context of the *mishnah* here, Rabbi Meir holds that a *kezayi
 
 ### Parallel Cases
 
-> **Hebrew/Aramaic:** הָא הָא קְקָא מִינַּהּ פְּלִיגִי, דִּתְנַן: וְכֵן מִי שֶׁיָּצָא מִיְּרוּשָׁלַיִם וְנִזְכַּר שֶׁהָיָה בְּיָדוֹ בְּשַׂר קֹדֶשׁ, אִם עָבַר צוֹפִים — שׂוֹרְפוֹ בִּמְקוֹמוֹ, וְאִם לָאו — חוֹזֵר וְשׂוֹרְפוֹ לִפְנֵי הַבִּירָה מֵעֲצֵי הַמַּעֲרָכָה. עַד כַּמָּה הֵם חוֹזְרִים? רַבִּי מֵאִיר אוֹמֵר: זֶה וְזֶה בִּכְבֵיצָה. וְרַבִּי יְהוּדָה אוֹמֵר: זֶה וְזֶה בִּכְזַיִת.
->
-> **Translation:** However, the *gemara* notes that in the *mishnah* in *Pesachim* — which discusses when one must return to Jerusalem to burn *basar kodesh* that was inadvertently taken outside the city, and when one may burn it where one stands — the positions appear reversed. Rabbi Meir there says one returns for a *kebeitzah*, and Rabbi Yehuda says one returns for a *kezayit*. This reversal creates an apparent contradiction with the positions in our *mishnah*.
-
 However, the *gemara* notes that in the *mishnah* in *Pesachim* — which discusses when one must return to Jerusalem to burn *basar kodesh* that was inadvertently taken outside the city, and when one may burn it where one stands — the positions appear reversed. Rabbi Meir there says one returns for a *kebeitzah*, and Rabbi Yehuda says one returns for a *kezayit*. This reversal creates an apparent contradiction with the positions in our *mishnah*.
-
-### Resolution
-
-> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מוּחְלֶפֶת הַשִּׁיטָה. אַבָּיֵי אָמַר: לְעוֹלָם לָא תֵּיפוֹךְ. הָכָא בִּקְרָאֵי פְּלִיגִי, רַבִּי מֵאִיר סָבַר: ״וְאָכַלְתָּ״ — זוֹ אֲכִילָה, ״וְשָׂבָעְתָּ״ — זוֹ שְׁתִיָּה, וַאֲכִילָה בִּכְזַיִת. וְרַבִּי יְהוּדָה סָבַר: ״וְאָכַלְתָּ וְשָׂבָעְתָּ״ — אֲכִילָה שֶׁיֵּשׁ בָּהּ שְׂבִיעָה, וְאֵיזוֹ זוֹ — כְּבֵיצָה.
->
-> **Translation:** To resolve this contradiction, **Rabbi Yoḥanan said: The opinions are reversed** in one of these sources and must be emended. **Abaye said: Actually do not reverse** them. **Here,** with regard to *zimmun*, **they disagree with regard to** the interpretation of **verses. Rabbi Meir holds: "And you shall eat," that is eating; "and be satisfied," that is drinking** after eating. The *halakha* is in accordance with the standard halakhic principle that **eating** is defined as the consumption of **an olive-bulk. And Rabbi Yehuda holds: "And you shall eat and be satisfied,"** refers to **eating that includes satisfaction. And what is** considered eating with satisfaction? The consumption of **an egg-bulk.**
 
 Rabbi Yochanan resolves it simply: *mukhlefet ha-shitah* — the names are transposed; simply switch them. Abaye rejects this approach. He says: *le'olam lo teipoch* — do not reverse them. The positions are internally consistent; the two debates are simply about different things.
 
 ### Meir's Reasoning
 
+> **Hebrew/Aramaic:** אָמַר רַבִּי יוֹחָנָן: מוּחְלֶפֶת הַשִּׁיטָה. אַבָּיֵי אָמַר: לְעוֹלָם לָא תֵּיפוֹךְ. הָכָא בִּקְרָאֵי פְּלִיגִי, רַבִּי מֵאִיר סָבַר: ״וְאָכַלְתָּ״ — זוֹ אֲכִילָה, ״וְשָׂבָעְתָּ״ — זוֹ שְׁתִיָּה, וַאֲכִילָה בִּכְזַיִת. וְרַבִּי יְהוּדָה סָבַר: ״וְאָכַלְתָּ וְשָׂבָעְתָּ״ — אֲכִילָה שֶׁיֵּשׁ בָּהּ שְׂבִיעָה, וְאֵיזוֹ זוֹ — כְּבֵיצָה.
+>
+> **Translation:** To resolve this contradiction, **Rabbi Yoḥanan said: The opinions are reversed** in one of these sources and must be emended. **Abaye said: Actually do not reverse** them. **Here,** with regard to *zimmun*, **they disagree with regard to** the interpretation of **verses. Rabbi Meir holds: "And you shall eat," that is eating; "and be satisfied," that is drinking** after eating. The *halakha* is in accordance with the standard halakhic principle that **eating** is defined as the consumption of **an olive-bulk. And Rabbi Yehuda holds: "And you shall eat and be satisfied,"** refers to **eating that includes satisfaction. And what is** considered eating with satisfaction? The consumption of **an egg-bulk.**
+
 In the context of *birkat ha-mazon* and *zimmun*, the *amoraim* explain that the dispute turns on the biblical text. Rabbi Meir holds *v'achalta zo achila, v'savata zo shtiya* — the verse addresses eating accompanied by drinking, and an act of eating is measured at a *kezayit*, the standard *shiur* for eating. Rabbi Yehuda holds that the verse requires an eating that produces satiation, which is the measure of a *kebeitzah*.
+
+In the context of the *Pesachim* case — when to return for meat or *chametz* — the dispute is not about biblical texts but about analogy. Rabbi Meir holds *chazarato k'tumato* — returning for the meat is analogous to the *shiur* for *tumah*, and *tumah* from food requires a *kebeitzah*. Therefore one returns for a *kebeitzah*.
 
 ### Yehuda's Reasoning
 
 > **Hebrew/Aramaic:** הָתָם בִּסְבָרָא פְּלִיגִי, רַבִּי מֵאִיר סָבַר: חֲזָרָתוֹ כְּטוּמְאָתוֹ, מָה טוּמְאָתוֹ בִּכְבֵיצָה — אַף חֲזָרָתוֹ בִּכְבֵיצָה. וְרַבִּי יְהוּדָה סָבַר: חֲזָרָתוֹ כְּאִיסּוּרוֹ, מָה אִיסּוּרוֹ בִּכְזַיִת — אַף חֲזָרָתוֹ בִּכְזַיִת.
 >
 > **Translation:** On the other hand, **there,** in the case of leaven and sanctified foods, **they disagree** not with regard to the interpretation of verses, but **with regard to logical reasoning. Rabbi Meir holds:** The requirement to **return** consecrated food **is analogous to its ritual impurity, and just as its** susceptibility to **ritual impurity is** only when it is the size of an **egg-bulk, so too,** the requirement to **return it is** only when it is the size of an **egg-bulk. And Rabbi Yehuda holds:** The requirement to **return** consecrated food **is analogous to its prohibition, and just as its prohibition is** only when it is the size of an **olive-bulk, so too,** the requirement to **return it is** only when it is the size of an **olive-bulk.**
-
-In the context of the *Pesachim* case — when to return for meat or *chametz* — the dispute is not about biblical texts but about analogy. Rabbi Meir holds *chazarato k'tumato* — returning for the meat is analogous to the *shiur* for *tumah*, and *tumah* from food requires a *kebeitzah*. Therefore one returns for a *kebeitzah*.
 
 Rabbi Yehuda holds *chazarato k'issuro* — returning is analogous to the *issur* of eating invalid *kodshim*, and the *shiur* for that *issur* is a *kezayit*. Therefore one returns for a *kezayit*. The cases of *chametz* and *kodshim* track together under one or the other model. It may be that each *tanna* took a different case as the paradigm — one anchoring the analysis in *tumah*, the other in *issur* — and then applied it to both.
 
@@ -328,13 +336,25 @@ With ten people, *Elokeinu* is added: *nevarech Elokeinu she-achalnu mishelo*. T
 
 ### Hundred People
 
-> **Hebrew/Aramaic:** בְּמֵאָה — הוּא אוֹמֵר ״נְבָרֵךְ ה׳ אֱלֹהֵינוּ״, בְּמֵאָה וָהוּא — אוֹמֵר ״בָּרְכוּ״. וּבְאֶלֶף — הוּא אוֹמֵר ״נְבָרֵךְ לַה׳ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל״, בְּאֶלֶף וָהוּא — אוֹמֵר ״בָּרְכוּ״. בְּרִבּוֹא — אוֹמֵר ״נְבָרֵךְ לַה׳ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי צְבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכַלְנוּ״, בְּרִבּוֹא וָהוּא — אוֹמֵר ״בָּרְכוּ״.
+> **Hebrew/Aramaic:** בְּמֵאָה — הוּא אוֹמֵר ״נְבָרֵךְ ה׳ אֱלֹהֵינוּ״, בְּמֵאָה וָהוּא — אוֹמֵר ״בָּרְכוּ״.
 >
-> **Translation:** **In** a group of **one hundred** people, the one reciting the *zimmun* **says: Let us bless the Lord our God. In** a group of **one hundred** people **and him,** the one reciting the *zimmun* **says: Bless** the Lord our God. **In** a group of **one thousand** people, the one reciting the *zimmun* **says: Let us bless the Lord our God, the God of Israel. In** a group of **one thousand** people **and him, he says: Bless** the Lord our God, the God of Israel. **In** a group of **ten thousand** people, the one reciting the *zimmun* **says: Let us bless the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten. In** a group of **ten thousand** people **and him,** the one reciting the *zimmun* **says: Bless** the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten.
+> **Translation:** **In** a group of **one hundred** people, the one reciting the *zimmun* **says: Let us bless the Lord our God. In** a group of **one hundred** people **and him,** the one reciting the *zimmun* **says: Bless** the Lord our God.
 
 At a hundred, *Hashem* is added: *nevarech Hashem Elokeinu she-achalnu mishelo*. The divine name is explicitly invoked as the assembly grows.
 
+### Thousand People
+
+> **Hebrew/Aramaic:** וּבְאֶלֶף — הוּא אוֹמֵר ״נְבָרֵךְ לַה׳ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל״, בְּאֶלֶף וָהוּא — אוֹמֵר ״בָּרְכוּ״.
+>
+> **Translation:** **In** a group of **one thousand** people, the one reciting the *zimmun* **says: Let us bless the Lord our God, the God of Israel. In** a group of **one thousand** people **and him, he says: Bless** the Lord our God, the God of Israel.
+
 At a thousand, one says *nevarech l'Hashem Elokeinu Elokei Yisrael* — God of Israel is added, reflecting the sense that so large a gathering of Israel represents the people as a whole in its collective identity.
+
+### Ten Thousand
+
+> **Hebrew/Aramaic:** בְּרִבּוֹא — אוֹמֵר ״נְבָרֵךְ לַה׳ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי צְבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכַלְנוּ״, בְּרִבּוֹא וָהוּא — אוֹמֵר ״בָּרְכוּ״.
+>
+> **Translation:** **In** a group of **ten thousand** people, the one reciting the *zimmun* **says: Let us bless the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten. In** a group of **ten thousand** people **and him,** the one reciting the *zimmun* **says: Bless** the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten.
 
 At ten thousand, the full formula is: *nevarech l'Hashem Elokeinu Elokei Yisrael Elokei Tzevaot Yoshev Ha-Keruvim al ha-mazon she-achalanu mishelo* — God of Hosts Who dwells upon the cherubim, for the food we ate from His table. The addition of *yoshev ha-keruvim* — a phrase that appears earlier in the *masechta* in the context of the *Kohen Gadol*'s proclamation in the *Beit Ha-Mikdash* — brings the language of the inner sanctum into the *zimmun* of a vast multitude, as if the *Shechinah* is fully present in so great a gathering of Israel. The *mishnah* notes that *echad asara v'echad asara ribo* — the text is the same whether it is ten or ten myriads, which we will see is the subject of dispute.
 
@@ -354,7 +374,7 @@ Whatever formula the leader uses, the assembled respond in kind, mirroring the e
 
 > **Hebrew/Aramaic:** רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר: לְפִי רוֹב הַקָּהָל הֵם מְבָרְכִים, שֶׁנֶּאֱמַר ״בְּמַקְהֵלוֹת בָּרְכוּ אֱלֹהִים ה׳ מִמְּקוֹר יִשְׂרָאֵל״.
 >
-> **Translation:** **Rabbi Yosei HaGelili says: According to the size of the crowd, they recite the blessing, as it is stated: "Bless you God in full assemblies, even the Lord, you who are from the fountain of Israel"** (Psalms 68:27).
+> **Translation:** On a similar note, **Rabbi Yosei HaGelili says: According to the size of the crowd, they recite the blessing, as it is stated: "Bless you God in full assemblies, even the Lord, you who are from the fountain of Israel"** (Psalms 68:27).
 
 Rabbi Yose HaGlili holds that the text of *zimmun* varies according to the size of the assembly — *lefi rov ha-kahal hen mivarchin* — deriving this from the verse *bi-mkhelot barchu Elohim mi-mekor Yisrael*: the congregational praise of God scales with the crowd. The expansive formulas of the *mishnah* — adding *Elokeinu*, then *Hashem*, then *Elokei Yisrael*, then *Elokei Tzevaot Yoshev Ha-Keruvim* — all reflect the position of Rabbi Yose HaGlili.
 
