@@ -28,6 +28,8 @@ AnyDaf/
       viewmodel/             # ViewModels
     res/                     # XML resources, colors, themes
   daf-processor/             # SRT → shiur processing pipeline (THE CORRECT DIRECTORY)
+  dedication-form.html       # Standalone admin tool for submitting/editing dedication rows
+  dedication-app-targeting-migration.sql  # One-time Supabase migration (run manually in SQL editor)
 ```
 
 ## Daf Processor (`AnyDaf/daf-processor/`)
@@ -212,6 +214,7 @@ One row per daf. Fields uploaded: `tractate`, `daf` (float), `segmentation` (ful
 | `AudioPlayer.swift` | AVFoundation audio playback |
 | `FeedManager.swift` | RSS/podcast feed (audio episode index) |
 | `TalmudPageManager.swift` | Daf image assets |
+| `DedicationService.swift` | Fetches + decodes the daily/weekly/monthly learning dedication banner |
 
 ## Android Key Files
 
@@ -229,6 +232,7 @@ One row per daf. Fields uploaded: `tractate`, `daf` (float), `segmentation` (ful
 | `viewmodel/AudioViewModel.kt` | Audio playback state |
 | `data/prefs/AppPreferences.kt` | DataStore; all persisted preferences |
 | `model/StudyModels.kt` | Enums mirroring iOS: `QuizMode`, `QuizSource`, `SourceDisplayMode`, `StudyMode` |
+| `data/api/DedicationService.kt` | Fetches + decodes the daily/weekly/monthly learning dedication banner |
 
 ### Android Tablet Layout (ContentScreen.kt)
 
@@ -582,6 +586,33 @@ Several non-obvious timing issues were worked out:
 
 - Identified by `(tractateIndex, daf, amud)`; optionally linked to a study section index
 - `BookmarkManager` (iOS) / `BookmarkViewModel` (Android)
+
+---
+
+## Dedications (daily/weekly/monthly learning banner)
+
+Shown once per day on app launch when an active row exists. Data source: public Supabase table
+`dedications` (project `zewdazoijdpakugfvnzt`, readable with the anon key already embedded in
+`DedicationService.swift`/`.kt`) — columns `date`, `dedicated_by`, `honoree_name`, `period`
+(`"today"`/`"week"`/`"month"`), `preposition`, `occasion`, `display_text` (optional override),
+`photo_url`, `status` (`"approved"`).
+
+- **App targeting**: three independent boolean columns — `for_anydaf`, `for_anytorah`,
+  `for_anytorah_web` — replacing an older single `app` text column (`"anydaf"`/`"anytorah"`/`"both"`)
+  that couldn't target AnyTorah Web independently of native AnyTorah. `DedicationService.swift`/`.kt`
+  here filter `for_anydaf=eq.true`; AnyTorah's native services filter `for_anytorah=eq.true`;
+  AnyTorahWeb's `app/api/dedication/route.ts` filters `for_anytorah_web=eq.true`. Migrated via
+  `dedication-app-targeting-migration.sql` (this repo's root) — run manually in the Supabase SQL
+  editor, since no service-role key is available to any of these codebases to run DDL
+  programmatically. The old `app` column is left in place, unused, after the migration.
+- **Admin submission form**: `dedication-form.html` (this repo's root) — a standalone HTML/JS tool
+  (not part of either app build) for creating/editing dedication rows, with three independent
+  checkboxes (AnyDaf / AnyTorah / AnyTorah Web) instead of the old three-way radio group.
+  `getAppFlags()`/`appLabel()` work identically against either live form state or a stored DB row.
+- **Known quirk (not a bug):** the `date` column has no timezone, and `isActiveToday` compares in
+  UTC (`Calendar.current`/`LocalDate.now()`, both effectively local — but the stored `date` itself
+  has no offset). A `period: "today"` dedication can roll out of its window before local midnight
+  for users west of UTC.
 
 ---
 
