@@ -43,6 +43,7 @@
       <div>
         <h1 class="text-xl font-bold leading-tight">Learning Dedication</h1>
         <p class="text-blue-200 text-sm">Submit a dedication to be displayed in the AnyDaf and AnyTorah apps</p>
+        <p class="text-blue-200/70 text-xs">Includes AnyTorah's web version — pick which app(s) below</p>
       </div>
     </div>
   </header>
@@ -121,11 +122,11 @@
         <!-- ─ App targeting ─ -->
         <fieldset>
           <legend class="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
-            Which App
+            Which App(s)
           </legend>
           <div class="flex gap-2">
             <label class="flex-1">
-              <input type="radio" name="app" id="app-anydaf" value="anydaf" class="sr-only peer" />
+              <input type="checkbox" id="app-anydaf" checked class="sr-only peer" />
               <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
                           peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
                           hover:border-gray-400 transition-colors select-none">
@@ -133,7 +134,7 @@
               </div>
             </label>
             <label class="flex-1">
-              <input type="radio" name="app" id="app-anytorah" value="anytorah" class="sr-only peer" />
+              <input type="checkbox" id="app-anytorah" checked class="sr-only peer" />
               <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
                           peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
                           hover:border-gray-400 transition-colors select-none">
@@ -141,11 +142,11 @@
               </div>
             </label>
             <label class="flex-1">
-              <input type="radio" name="app" id="app-both" value="both" checked class="sr-only peer" />
+              <input type="checkbox" id="app-anytorah-web" checked class="sr-only peer" />
               <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
                           peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
                           hover:border-gray-400 transition-colors select-none">
-                Both Apps
+                AnyTorah Web
               </div>
             </label>
           </div>
@@ -345,16 +346,28 @@ function today() { return new Date().toISOString().slice(0, 10); }
 function periodLabel(p) {
   return p === 'week' ? "This Week" : p === 'month' ? "This Month" : "Today";
 }
-function getApp() {
-  return document.querySelector('input[name="app"]:checked')?.value ?? 'both';
+function getAppFlags() {
+  return {
+    for_anydaf:       document.getElementById('app-anydaf').checked,
+    for_anytorah:     document.getElementById('app-anytorah').checked,
+    for_anytorah_web: document.getElementById('app-anytorah-web').checked,
+  };
 }
-function appLabel(app) {
-  return app === 'anydaf' ? 'AnyDaf' : app === 'anytorah' ? 'AnyTorah' : 'AnyDaf and AnyTorah';
+// Accepts either a row from the DB (has for_anydaf/for_anytorah/for_anytorah_web) or
+// the live getAppFlags() object — same shape either way.
+function appLabel(flags) {
+  const names = [];
+  if (flags.for_anydaf)       names.push('AnyDaf');
+  if (flags.for_anytorah)     names.push('AnyTorah');
+  if (flags.for_anytorah_web) names.push('AnyTorah Web');
+  if (names.length === 0) return '(no app selected)';
+  if (names.length === 1) return names[0];
+  return names.slice(0, -1).join(', ') + ' and ' + names[names.length - 1];
 }
 function buildMessage(row) {
   if (row.display_text) return row.display_text;
   const phrases = { today: "Today's learning", week: "This week's learning", month: "This month's learning" };
-  const parts = [`${phrases[row.period] ?? "Today's learning"} with ${appLabel(row.app)} is dedicated by ${row.dedicated_by}`];
+  const parts = [`${phrases[row.period] ?? "Today's learning"} with ${appLabel(row)} is dedicated by ${row.dedicated_by}`];
   if (row.preposition)  parts.push(row.preposition);
   if (row.honoree_name) parts.push(row.honoree_name);
   if (row.occasion)     parts.push(row.occasion);
@@ -383,7 +396,7 @@ function updatePreview() {
   const preposition = v('preposition');
   const honoreeName = v('honoree_name');
   const occasion = v('occasion');
-  const parts = [`${periodPhrases[period]} with ${appLabel(getApp())} is dedicated by ${dedicatedBy}`];
+  const parts = [`${periodPhrases[period]} with ${appLabel(getAppFlags())} is dedicated by ${dedicatedBy}`];
   if (preposition)  parts.push(preposition);
   if (honoreeName)  parts.push(honoreeName);
   if (occasion)     parts.push(occasion);
@@ -395,8 +408,8 @@ function updatePreview() {
   .forEach(id => document.getElementById(id).addEventListener('input', updatePreview));
 ['period', 'preposition', 'dedicated_by', 'honoree_name', 'occasion', 'display_text']
   .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
-document.querySelectorAll('input[name="app"]')
-  .forEach(r => r.addEventListener('change', updatePreview));
+['app-anydaf', 'app-anytorah', 'app-anytorah-web']
+  .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
 
 // Set date default
 document.getElementById('date').value = today();
@@ -571,7 +584,7 @@ document.getElementById('dedication-form').addEventListener('submit', async e =>
     dedicatee_email: v('dedicatee_email') || null,
     dedicatee_phone: v('dedicatee_phone') || null,
     photo_url:       photoUrl || null,
-    app:             getApp(),
+    ...getAppFlags(),
     status,
   };
 
@@ -658,7 +671,7 @@ function dedicationCard(row) {
           <div class="flex items-center gap-2 flex-wrap">
             <span class="font-medium text-sm">${esc(row.dedicated_by)}</span>
             <span class="text-xs text-gray-400">${row.date} · ${periodLabel(row.period)}</span>
-            <span class="text-xs bg-gray-100 text-gray-600 rounded-full px-2 py-0.5">${row.app === 'anydaf' ? 'AnyDaf' : row.app === 'anytorah' ? 'AnyTorah' : 'Both'}</span>
+            <span class="text-xs bg-gray-100 text-gray-600 rounded-full px-2 py-0.5">${appLabel(row)}</span>
             ${isPending
               ? '<span class="text-xs bg-amber-100 text-amber-700 rounded-full px-2 py-0.5">Pending</span>'
               : '<span class="text-xs bg-green-100 text-green-700 rounded-full px-2 py-0.5">Approved</span>'}
@@ -713,8 +726,9 @@ function startEdit(row) {
   set('dedicator_phone', row.dedicator_phone ?? '');
   set('dedicatee_email', row.dedicatee_email ?? '');
   set('dedicatee_phone', row.dedicatee_phone ?? '');
-  const appVal = row.app ?? 'both';
-  document.querySelectorAll('input[name="app"]').forEach(r => { r.checked = r.value === appVal; });
+  document.getElementById('app-anydaf').checked       = !!row.for_anydaf;
+  document.getElementById('app-anytorah').checked     = !!row.for_anytorah;
+  document.getElementById('app-anytorah-web').checked = !!row.for_anytorah_web;
   const approvedCheck = document.getElementById('create-approved');
   approvedCheck.checked = row.status === 'approved';
   document.getElementById('form-title').textContent = 'Edit Dedication';
