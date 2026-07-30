@@ -9,16 +9,19 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Pause
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Replay
 import androidx.compose.material.icons.filled.Stop
+import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.DropdownMenu
@@ -39,46 +42,87 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import coil.compose.AsyncImage
+import com.anydaf.ui.theme.AppBlue
 import com.anydaf.viewmodel.AudioViewModel
 import kotlin.math.roundToInt
 
+/**
+ * @param imageURL episode artwork (Resources-tab episodes only — daf/shiur audio has none).
+ *   When present, shown as a small leading thumbnail next to [nowPlayingLabel].
+ * @param useWhiteBackground drives an inverted, deliberately high-contrast surface (blue-on-white
+ *   or white-on-blue) rather than the ambient Material surface color — so the bar always reads
+ *   as a distinct floating control, not a panel that blends into whichever page theme (blue or
+ *   white) happens to be showing underneath.
+ */
 @Composable
-fun AudioPlayerBar(audioViewModel: AudioViewModel, nowPlayingLabel: String = "", onStop: () -> Unit = { audioViewModel.stop() }) {
+fun AudioPlayerBar(
+    audioViewModel: AudioViewModel,
+    nowPlayingLabel: String = "",
+    imageURL: String? = null,
+    useWhiteBackground: Boolean = false,
+    onStop: () -> Unit = { audioViewModel.stop() },
+    modifier: Modifier = Modifier
+) {
     val isPlaying by audioViewModel.isPlaying.collectAsState()
     val currentTime by audioViewModel.currentTime.collectAsState()
     val duration by audioViewModel.duration.collectAsState()
     val playbackRate by audioViewModel.playbackRate.collectAsState()
 
+    val barBg = if (useWhiteBackground) AppBlue else Color.White
+    val barFg = if (useWhiteBackground) Color.White else AppBlue
+
     Card(
-        modifier = Modifier.fillMaxWidth(),
-        elevation = CardDefaults.cardElevation(4.dp)
+        modifier = modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = barBg, contentColor = barFg),
+        elevation = CardDefaults.cardElevation(6.dp)
     ) {
         Column(modifier = Modifier.padding(horizontal = 8.dp, vertical = 2.dp)) {
 
-            // Now-playing label (tractate + daf)
-            if (nowPlayingLabel.isNotEmpty()) {
-                Text(
-                    text = nowPlayingLabel,
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.55f),
-                    maxLines = 1,
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(top = 2.dp),
-                    textAlign = TextAlign.Center
-                )
+            // Now-playing label (tractate + daf, or episode title + artwork)
+            if (nowPlayingLabel.isNotEmpty() || !imageURL.isNullOrEmpty()) {
+                Row(
+                    modifier = Modifier.fillMaxWidth().padding(top = 2.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = if (imageURL.isNullOrEmpty()) Arrangement.Center else Arrangement.Start
+                ) {
+                    if (!imageURL.isNullOrEmpty()) {
+                        AsyncImage(
+                            model = imageURL,
+                            contentDescription = null,
+                            contentScale = ContentScale.Crop,
+                            modifier = Modifier.size(20.dp).clip(RoundedCornerShape(4.dp))
+                        )
+                        Spacer(Modifier.width(6.dp))
+                    }
+                    Text(
+                        text = nowPlayingLabel,
+                        style = MaterialTheme.typography.labelSmall,
+                        color = barFg.copy(alpha = 0.75f),
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis,
+                        textAlign = if (imageURL.isNullOrEmpty()) TextAlign.Center else TextAlign.Start,
+                        modifier = if (imageURL.isNullOrEmpty()) Modifier.fillMaxWidth() else Modifier.weight(1f)
+                    )
+                }
             }
 
             // Progress row: show seek bar once duration is known; spinner for initial load only
             if (duration <= 0f) {
                 LinearProgressIndicator(
+                    color = barFg,
+                    trackColor = barFg.copy(alpha = 0.25f),
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(vertical = 4.dp)
@@ -88,6 +132,7 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, nowPlayingLabel: String = "",
                 SeekBar(
                     currentTime = currentTime,
                     duration = duration,
+                    color = barFg,
                     onSeek = { audioViewModel.seekTo(it) }
                 )
             }
@@ -139,6 +184,7 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, nowPlayingLabel: String = "",
                 Box {
                     TextButton(
                         onClick = { speedMenuOpen = true },
+                        colors = ButtonDefaults.textButtonColors(contentColor = barFg),
                         contentPadding = PaddingValues(horizontal = 6.dp, vertical = 0.dp)
                     ) {
                         Text("${playbackRate}x", style = MaterialTheme.typography.labelMedium)
@@ -173,6 +219,7 @@ fun AudioPlayerBar(audioViewModel: AudioViewModel, nowPlayingLabel: String = "",
 private fun SeekBar(
     currentTime: Float,
     duration: Float,
+    color: Color,
     onSeek: (Float) -> Unit
 ) {
     var isDragging by remember { mutableStateOf(false) }
@@ -180,8 +227,8 @@ private fun SeekBar(
     val displayFraction = if (isDragging) dragFraction else if (duration > 0) currentTime / duration else 0f
     val displayTime = if (isDragging) dragFraction * duration else currentTime
 
-    val primaryColor = MaterialTheme.colorScheme.primary
-    val trackColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f)
+    val primaryColor = color
+    val trackColor = color.copy(alpha = 0.25f)
 
     Row(
         modifier = Modifier.fillMaxWidth(),

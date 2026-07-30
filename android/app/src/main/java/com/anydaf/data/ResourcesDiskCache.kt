@@ -91,6 +91,7 @@ object ResourcesDiskCache {
             obj.put("matchTypeDaf", article.matchType.referencedDaf)
             obj.put("source", article.source.name)
             obj.put("isAudio", article.isAudio)
+            obj.put("imageURL", article.imageURL ?: JSONObject.NULL)
             val dafsArr = JSONArray()
             article.additionalDafs.forEach { dafsArr.put(it) }
             obj.put("additionalDafs", dafsArr)
@@ -129,7 +130,8 @@ object ResourcesDiskCache {
                     matchType      = matchType,
                     additionalDafs = additionalDafs,
                     source         = source,
-                    isAudio        = obj.optBoolean("isAudio", false)
+                    isAudio        = obj.optBoolean("isAudio", false),
+                    imageURL       = if (obj.isNull("imageURL")) null else obj.optString("imageURL").takeIf { it.isNotEmpty() }
                 )
             )
         }

@@ -44,21 +44,20 @@ struct ContentView: View {
     @AppStorage("lastShiurSegmentIndex") private var lastShiurSegmentIndex: Int = 0
     @AppStorage("lastShiurTractate") private var lastShiurTractate: String = ""
     @AppStorage("lastShiurDaf") private var lastShiurDaf: Double = 0
-    // One-shot flag: true once we've applied the initial shiur position restore on this launch.
-    @State private var shiurInitialRestoreDone = false
+    @AppStorage("shiurAutoScrollToAmudA") private var shiurAutoScrollToAmudA: Bool = false
     @State private var showSettings = false
     @State private var showBookmarkList = false
     @State private var showBookmarkEdit = false
     @State private var isFetchingDafYomi = false
     @State private var suppressTractateReset = false
-    /// Guards against re-running picker-driven side effects when selectedDaf/selectedSide are
-    /// set programmatically to mirror Study Mode's own daf/amud navigation (Prev Daf/Next Daf,
-    /// or crossing the amud A/B boundary while paging through sections). Without these, the
-    /// generic onChange(of: selectedDaf/selectedSide) handlers would redundantly restart the
-    /// study session (clobbering the position Study Mode just navigated to) or nudge shiur/audio
-    /// position, which Study Mode navigation should never touch.
+    /// Guards against re-running picker-driven side effects when selectedDaf is set
+    /// programmatically to mirror Study Mode's own daf navigation (Prev Daf/Next Daf). Without
+    /// this, the generic onChange(of: selectedDaf) handler would redundantly restart the study
+    /// session, clobbering the position Study Mode just navigated to. (selectedSide has no such
+    /// guard — the amud a/b buttons fire navigation directly from their own tap action rather
+    /// than reactively from an onChange(of: selectedSide), so programmatic readout-only
+    /// assignments to selectedSide elsewhere never trigger unwanted navigation in the first place.)
     @State private var suppressDafSessionSync = false
-    @State private var suppressSideSessionSync = false
     /// Prevents looping: only one automatic feed-refresh per play attempt.
     @State private var hasAutoRefreshedForAudio = false
     /// Tractate/daf frozen at the moment audio starts — stays fixed while picker freely moves.
@@ -247,7 +246,10 @@ struct ContentView: View {
         }
         .onAppear {
             imageDaf = Int(selectedDaf)
-            Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
+            Task {
+                await shiurClient.loadSegments(
+                    tractate: tractate.name, daf: selectedDaf, resolveInitialIndex: resolveInitialShiurIndex)
+            }
             // iPad: if last session was in study mode, auto-start the study panel on launch
             if horizontalSizeClass == .regular && iPadRightPanel == .study {
                 Task {
@@ -267,8 +269,10 @@ struct ContentView: View {
             }
         }
         .onChange(of: selectedDaf) { _, newDaf in
-            shiurInitialRestoreDone = true  // daf change is not a launch restore
-            Task { await shiurClient.loadSegments(tractate: tractate.name, daf: newDaf) }
+            Task {
+                await shiurClient.loadSegments(
+                    tractate: tractate.name, daf: newDaf, resolveInitialIndex: resolveInitialShiurIndex)
+            }
             if suppressDafSessionSync {
                 suppressDafSessionSync = false
             } else if (horizontalSizeClass == .regular && iPadRightPanel == .study)
@@ -299,7 +303,6 @@ struct ContentView: View {
             let sideChanged = newValue.side != selectedSide
             guard dafChanged || sideChanged else { return }
             if dafChanged { suppressDafSessionSync = true }
-            if sideChanged { suppressSideSessionSync = true }
             selectedDaf = newSelectedDaf
             storedDaf = newSelectedDaf
             imageDaf = newValue.daf
@@ -308,9 +311,11 @@ struct ContentView: View {
             storedSide = newValue.side
         }
         .onChange(of: selectedTractateIndex) { _, _ in
-            shiurInitialRestoreDone = true  // tractate change is not a launch restore
             if audioPlayer.isStopped { shiurClient.reset() }
-            Task { await shiurClient.loadSegments(tractate: tractate.name, daf: selectedDaf) }
+            Task {
+                await shiurClient.loadSegments(
+                    tractate: tractate.name, daf: selectedDaf, resolveInitialIndex: resolveInitialShiurIndex)
+            }
             if (horizontalSizeClass == .regular && iPadRightPanel == .study)
                 || (horizontalSizeClass != .regular && mainContentMode == .text) {
                 Task {
@@ -322,9 +327,17 @@ struct ContentView: View {
         }
         .onChange(of: audioPlayer.isStopped) { _, isStopped in
             if !isStopped {
-                audioLockedTractateIndex = selectedTractateIndex
-                audioLockedDaf = selectedDaf
-                shiurClient.snapshotAudioSegments()
+                // A Resources-tab episode has nothing to do with the selected daf: freezing the
+                // daf lock or snapshotting its shiur segments here would show the current daf's
+                // chapter pills over an unrelated episode and let episode playback time drive the
+                // shiur/text position. Clear the snapshot instead so the strip stays hidden.
+                if audioPlayer.isPlayingEpisode {
+                    shiurClient.clearAudioSegments()
+                } else {
+                    audioLockedTractateIndex = selectedTractateIndex
+                    audioLockedDaf = selectedDaf
+                    shiurClient.snapshotAudioSegments()
+                }
             }
         }
         // Mirror audio position into shiur/text only when viewing the same daf that is playing.
@@ -369,7 +382,7 @@ struct ContentView: View {
                        forRangeStarting: sefariaIdx, endingBefore: currentSectionRangeEnd()) {
                     shiurClient.currentSegmentIndex = segIdx
                 }
-                if let bIdx = shiurClient.amudBSegmentIndex {
+                if let bIdx = shiurClient.effectiveAmudBSegmentIndex {
                     // Sync picker to shiur's current position (reflects the jump above too).
                     let newSide = shiurClient.currentSegmentIndex >= bIdx ? 1 : 0
                     selectedSide = newSide
@@ -403,7 +416,7 @@ struct ContentView: View {
         }
         // Keep the a/b picker in sync as audio plays through the daf (both iPad and iPhone).
         .onChange(of: shiurClient.currentSegmentIndex) { _, newIdx in
-            guard let bIdx = shiurClient.amudBSegmentIndex else { return }
+            guard let bIdx = shiurClient.effectiveAmudBSegmentIndex else { return }
             let shiurVisible = horizontalSizeClass == .regular || mainContentMode == .shiur
             guard shiurVisible else { return }
             let newSide = newIdx >= bIdx ? 1 : 0
@@ -423,20 +436,23 @@ struct ContentView: View {
             lastShiurTractate = tractate.name
             lastShiurDaf = selectedDaf
         }
-        // On first segment load after launch, restore shiur position.
-        // shiurInitialRestoreDone prevents this from re-firing on subsequent daf changes.
-        .onChange(of: shiurClient.amudBSegmentIndex) { _, bIdx in
-            guard !shiurInitialRestoreDone else { return }
-            shiurInitialRestoreDone = true
-            guard mainContentMode == .shiur || horizontalSizeClass == .regular else { return }
-            guard shiurClient.currentSegmentIndex == 0 else { return }
-            let sameDaf = lastShiurTractate == tractate.name && lastShiurDaf == selectedDaf
-            if sameDaf && lastShiurSegmentIndex > 0 {
-                shiurClient.currentSegmentIndex = lastShiurSegmentIndex
-            } else if selectedSide == 1, let bIdx {
-                shiurClient.currentSegmentIndex = bIdx
-            }
+    }
+
+    /// Decides the shiur's initial segment position for a freshly-loaded daf. Passed into
+    /// ShiurClient.loadSegments as resolveInitialIndex — see that parameter's doc comment for
+    /// why this must run *inside* loadSegments (before the text publishes) rather than in a
+    /// separate onChange reacting to the load having finished.
+    private func resolveInitialShiurIndex(_ client: ShiurClient) -> Int? {
+        guard mainContentMode == .shiur || horizontalSizeClass == .regular else { return nil }
+        let sameDaf = lastShiurTractate == tractate.name && lastShiurDaf == selectedDaf
+        if sameDaf && lastShiurSegmentIndex > 0 {
+            return lastShiurSegmentIndex
+        } else if selectedSide == 1, let bIdx = client.effectiveAmudBSegmentIndex {
+            return bIdx
+        } else if shiurAutoScrollToAmudA {
+            return client.amudASegmentIndex
         }
+        return nil
     }
 
     // MARK: - iPad Two-Column Layout
@@ -700,8 +716,9 @@ struct ContentView: View {
                     currentSegmentIndex: shiurClient.currentSegmentIndex,
                     foreground: appFg,
                     useWhiteBackground: useWhiteBackground,
-                    amudBSegmentIndex: shiurClient.amudBSegmentIndex,
+                    amudBSegmentIndex: shiurClient.effectiveAmudBSegmentIndex,
                     amudBMicroTitle: shiurClient.amudBMicroTitle,
+                    amudASegmentIndex: shiurClient.amudASegmentIndex,
                     scrollRequest: $shiurForceScrollIndex,
                     onSegmentVisible: { idx in shiurClient.currentSegmentIndex = idx }
                 )
@@ -863,53 +880,20 @@ struct ContentView: View {
                 storedSide = side
             }
 
-            Picker("Amud", selection: $selectedSide) {
-                Text("a").tag(0)
-                Text("b").tag(1)
+            // Two explicit buttons rather than a segmented Picker: a UIKit-backed segmented
+            // control never fires onChange when tapping the already-selected segment, so
+            // pressing "a" while already on "a" would silently do nothing. Each button's own
+            // action always runs jumpToAmud, independent of whether selectedSide changes value —
+            // see the pickerRow's other custom-button toggle (Daf/Text/Shiur) for the same pattern.
+            HStack(spacing: 2) {
+                amudButton("a", value: 0)
+                amudButton("b", value: 1)
             }
-            .pickerStyle(.segmented)
-            .font(.footnote)
-            .frame(width: 40)
-            .onChange(of: selectedSide) { _, newVal in
-                storedSide = newVal
-                imageSide = newVal
-                if suppressSideSessionSync {
-                    suppressSideSessionSync = false
-                    return
-                }
-                // Jump the text view to the correct amud when the picker changes.
-                if mainContentMode == .text {
-                    Task {
-                        if newVal == 1 { await studyManager.jumpToAmudB() }
-                        else           { await studyManager.jumpToAmudA() }
-                    }
-                }
-                if let bIdx = shiurClient.amudBSegmentIndex {
-                    // Guard against the feedback loop: tapping a pill changes currentSegmentIndex,
-                    // which syncs selectedSide as a side-effect, which would then reset
-                    // currentSegmentIndex back to bIdx/0. Only navigate if the segment is NOT
-                    // already on the correct side — meaning this is a genuine user picker tap.
-                    let currentSide = shiurClient.currentSegmentIndex >= bIdx ? 1 : 0
-                    if currentSide != newVal {
-                        shiurClient.currentSegmentIndex = (newVal == 1) ? bIdx : 0
-                    }
-                    let isSameDaf = !audioPlayer.isStopped
-                        && selectedTractateIndex == audioLockedTractateIndex
-                        && selectedDaf == audioLockedDaf
-                    if isSameDaf {
-                        if newVal == 1 {
-                            let secs = shiurClient.amudBSeconds
-                                ?? (bIdx < shiurClient.segments.count ? shiurClient.segments[bIdx].seconds : nil)
-                            if let secs {
-                                audioPlayer.seek(to: secs / audioPlayer.duration)
-                            }
-                        } else {
-                            audioPlayer.skip(by: -audioPlayer.currentTime)
-                        }
-                    }
-                }
-            }
-
+            .padding(2)
+            .background(
+                RoundedRectangle(cornerRadius: 7, style: .continuous)
+                    .fill(appFg.opacity(0.08))
+            )
         }
         .tint(appFg)
         .colorScheme(useWhiteBackground ? .light : .dark)
@@ -938,6 +922,62 @@ struct ContentView: View {
         }
         .buttonStyle(.plain)
         .foregroundStyle(appFg)
+    }
+
+    /// Amud a/b button — always runs jumpToAmud on tap, even when `value == selectedSide`
+    /// already (see the comment at the call site for why this can't be a segmented Picker).
+    private func amudButton(_ label: String, value: Int) -> some View {
+        Button {
+            jumpToAmud(value)
+        } label: {
+            Text(label)
+                .font(.footnote)
+                .frame(minWidth: 18)
+                .padding(.vertical, 4)
+                .background(
+                    RoundedRectangle(cornerRadius: 5, style: .continuous)
+                        .fill(selectedSide == value ? appFg.opacity(0.25) : Color.clear)
+                )
+        }
+        .buttonStyle(.plain)
+        .foregroundStyle(appFg)
+    }
+
+    /// Moves the amud picker readout plus Daf image / Text mode / Shiur position to Amud A or B.
+    /// Called directly from amudButton's tap action so it always runs — unlike the old segmented
+    /// Picker's onChange(of: selectedSide), this doesn't depend on the value actually changing.
+    private func jumpToAmud(_ value: Int) {
+        selectedSide = value
+        storedSide = value
+        imageSide = value
+
+        if mainContentMode == .text {
+            Task {
+                if value == 1 { await studyManager.jumpToAmudB() }
+                else          { await studyManager.jumpToAmudA() }
+            }
+        }
+
+        let isSameDaf = !audioPlayer.isStopped
+            && selectedTractateIndex == audioLockedTractateIndex
+            && selectedDaf == audioLockedDaf
+
+        if value == 1 {
+            guard let bIdx = shiurClient.effectiveAmudBSegmentIndex else { return }
+            shiurClient.currentSegmentIndex = bIdx
+            if isSameDaf {
+                let secs = shiurClient.amudBSeconds
+                    ?? (bIdx < shiurClient.segments.count ? shiurClient.segments[bIdx].seconds : nil)
+                if let secs {
+                    audioPlayer.seek(to: secs / audioPlayer.duration)
+                }
+            }
+        } else {
+            shiurClient.currentSegmentIndex = shiurClient.amudASegmentIndex
+            if isSameDaf {
+                audioPlayer.skip(by: -audioPlayer.currentTime)
+            }
+        }
     }
 
     private var shiurDisplayText: String? {
@@ -1027,8 +1067,9 @@ struct ContentView: View {
                     currentSegmentIndex: shiurClient.currentSegmentIndex,
                     foreground: appFg,
                     useWhiteBackground: useWhiteBackground,
-                    amudBSegmentIndex: shiurClient.amudBSegmentIndex,
+                    amudBSegmentIndex: shiurClient.effectiveAmudBSegmentIndex,
                     amudBMicroTitle: shiurClient.amudBMicroTitle,
+                    amudASegmentIndex: shiurClient.amudASegmentIndex,
                     scrollRequest: $shiurForceScrollIndex,
                     onSegmentVisible: { idx in shiurClient.currentSegmentIndex = idx }
                 )
@@ -1063,7 +1104,9 @@ struct ContentView: View {
                 isAudioPlaying: !audioPlayer.isStopped,
                 textOnly: true,
                 onDismiss: { },
-                onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } }
+                onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } },
+                onPlayAudioTrack: { trackID, title, imageURL in playEpisode(trackID: trackID, title: title, imageURL: imageURL) },
+                audioPlayer: audioPlayer
             )
         }
     }
@@ -1094,7 +1137,9 @@ struct ContentView: View {
                     }
                 }
             },
-            onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } }
+            onEpisodeAudioPlay: { if audioPlayer.isPlaying { audioPlayer.togglePlayPause() } },
+            onPlayAudioTrack: { trackID, title, imageURL in playEpisode(trackID: trackID, title: title, imageURL: imageURL) },
+            audioPlayer: audioPlayer
         )
     }
 
@@ -1169,6 +1214,19 @@ struct ContentView: View {
 
             Spacer().frame(height: 6)
         }
+    }
+
+    /// Plays a Resources-tab episode by SoundCloud track ID. On resolution failure (e.g. a
+    /// stale SoundCloud client ID), refreshes the feed and retries once — scoped to this
+    /// episode, so it never falls back to daf/shiur audio the way `resolutionFailed` would.
+    private func playEpisode(trackID: String, title: String, imageURL: String?) {
+        guard let url = URL(string: "soundcloud-track://\(trackID)") else { return }
+        audioPlayer.play(url: url, title: title, isEpisode: true, imageURL: imageURL, onResolutionFailure: {
+            Task {
+                await feedManager.forceRefresh()
+                audioPlayer.play(url: url, title: title, isEpisode: true, imageURL: imageURL, onResolutionFailure: {})
+            }
+        })
     }
 
     private func syncToTodaysDaf() async {

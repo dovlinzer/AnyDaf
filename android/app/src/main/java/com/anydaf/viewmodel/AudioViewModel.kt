@@ -51,6 +51,13 @@ class AudioViewModel : ViewModel() {
     private val _currentTitle = MutableStateFlow("")
     val currentTitle: StateFlow<String> = _currentTitle.asStateFlow()
 
+    private val _currentImageURL = MutableStateFlow<String?>(null)
+    val currentImageURL: StateFlow<String?> = _currentImageURL.asStateFlow()
+
+    /** True while the loaded track is a Resources-tab podcast episode rather than daf/shiur audio. */
+    private val _isPlayingEpisode = MutableStateFlow(false)
+    val isPlayingEpisode: StateFlow<Boolean> = _isPlayingEpisode.asStateFlow()
+
     private val context get() = AnyDafApp.context
     private val audioManager get() = context.getSystemService(Context.AUDIO_SERVICE) as AudioManager
     private val httpClient = OkHttpClient.Builder().build()
@@ -69,12 +76,34 @@ class AudioViewModel : ViewModel() {
         }
     }
 
-    fun play(urlString: String, title: String = "", startAt: Float = 0f) {
+    /**
+     * @param onResolutionFailure when provided, called instead of setting [_resolutionFailed]
+     * on a SoundCloud resolution failure. [resolutionFailed] is watched by ContentScreen to
+     * auto-refresh the daf/shiur feed and replay the *current daf's* audio — correct for
+     * daf/shiur playback (the only caller that omits this), but wrong for any other track
+     * (e.g. a Resources-tab episode): it would silently hijack playback back to daf audio
+     * instead of the track that actually failed. Callers with their own recovery (or that
+     * just want a clean failure) should pass a handler here so the shared flag is never touched.
+     * @param isEpisode true for a Resources-tab podcast episode, false (default) for daf/shiur
+     * audio. Episodes are unrelated to the selected daf, so ContentScreen must NOT freeze the
+     * daf lock or snapshot the daf's shiur segments for them — see the Audio / Shiur Decoupling
+     * Architecture section in CLAUDE.md.
+     */
+    fun play(
+        urlString: String,
+        title: String = "",
+        startAt: Float = 0f,
+        isEpisode: Boolean = false,
+        imageURL: String? = null,
+        onResolutionFailure: (() -> Unit)? = null
+    ) {
         stop()
         _resolutionFailed.value = false
         _isStopped.value = false
         _isBuffering.value = true
         _currentTitle.value = title
+        _currentImageURL.value = imageURL
+        _isPlayingEpisode.value = isEpisode
         startAtMs = (startAt * 1000L).toLong()
 
         if (urlString.startsWith("soundcloud-track://")) {
@@ -82,12 +111,32 @@ class AudioViewModel : ViewModel() {
             resolveJob = viewModelScope.launch {
                 val resolved = resolveStreamUrl(trackId)
                 if (!isActive) return@launch          // cancelled by a subsequent stop()/play()
-                if (resolved != null) startPlayback(resolved)
-                else { _resolutionFailed.value = true; _isBuffering.value = false; _isStopped.value = true }
+                if (resolved != null) {
+                    startPlayback(resolved)
+                } else {
+                    _isBuffering.value = false
+                    _isStopped.value = true
+                    if (onResolutionFailure != null) onResolutionFailure() else _resolutionFailed.value = true
+                }
             }
         } else {
             startPlayback(urlString)
         }
+    }
+
+    /**
+     * Plays a Resources-tab episode by SoundCloud track ID. On resolution failure (e.g. a
+     * stale SoundCloud client ID), refreshes the feed and retries once — scoped to this
+     * episode, so it never falls back to daf/shiur audio the way [resolutionFailed] would.
+     */
+    fun playEpisode(trackId: String, title: String, imageURL: String? = null) {
+        val urlString = "soundcloud-track://$trackId"
+        play(urlString, title, isEpisode = true, imageURL = imageURL, onResolutionFailure = {
+            viewModelScope.launch {
+                FeedManager.forceRefresh()
+                play(urlString, title, isEpisode = true, imageURL = imageURL, onResolutionFailure = {})
+            }
+        })
     }
 
     fun togglePlayPause() {
@@ -128,6 +177,7 @@ class AudioViewModel : ViewModel() {
         _isPlaying.value = false
         _isBuffering.value = false
         _isStopped.value = true
+        _isPlayingEpisode.value = false
         _currentTime.value = 0f
         _duration.value = 0f
         startService(false)

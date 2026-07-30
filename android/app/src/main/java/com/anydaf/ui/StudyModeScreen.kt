@@ -157,6 +157,8 @@ fun StudyModeScreen(
             isAudioStopped = isAudioStopped,
             onComplete = onBack,
             onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
+            onPlayAudioTrack = { trackID, title, imageURL -> audioViewModel.playEpisode(trackID, title, imageURL) },
+            audioViewModel = audioViewModel,
             onPrintTranslation = {
                 val s = studyViewModel.session.value
                 if (s != null) {
@@ -192,6 +194,12 @@ fun StudyModeContent(
     /** Called when an embedded <audio> element (podcast episode) starts playing in the
      *  Resources tab, so the caller can pause the app's main daf/shiur audio. */
     onAudioPlay: () -> Unit = {},
+    /** Called when the user taps "Play Episode" for a resolved SoundCloud track —
+     *  (trackID, title) — so the caller can start it on the app's shared audio player. */
+    onPlayAudioTrack: (String, String, String?) -> Unit = { _, _, _ -> },
+    /** The app's shared player, so an episode started from Resources stays controllable
+     *  after the user leaves the article reader (it keeps playing in the background). */
+    audioViewModel: AudioViewModel? = null,
     modifier: Modifier = Modifier
 ) {
     val session by studyViewModel.session.collectAsState()
@@ -205,6 +213,7 @@ fun StudyModeContent(
     val printLineSpacing by contentViewModel.printLineSpacing.collectAsState()
     val useWhiteBackground by contentViewModel.useWhiteBackground.collectAsState()
     val appFg = if (useWhiteBackground) MaterialTheme.colorScheme.onBackground else Color.White
+    val appBg = if (useWhiteBackground) MaterialTheme.colorScheme.background else AppBlue
 
     // Phone Study mode (not textOnly, not inline): hide Text tab and start on Summary.
     val isPhoneStudy = !textOnly && !isInline
@@ -232,7 +241,8 @@ fun StudyModeContent(
         LocalStudyFontSize provides studyFontSize.spSize.sp,
         LocalIsBlueMode provides !useWhiteBackground
     ) {
-        Column(modifier = modifier.fillMaxSize()) {
+      Box(modifier = modifier.fillMaxSize()) {
+        Column(modifier = Modifier.fillMaxSize()) {
 
             // Inline tablet header — session info + A/B jumps
             if (isInline && sessionObj != null) {
@@ -533,7 +543,8 @@ fun StudyModeContent(
                                 onSizeChange = { contentViewModel.setStudyFontSize(it) },
                                 printFontSize = printFontSize,
                                 printLineSpacing = printLineSpacing,
-                                onAudioPlay = onAudioPlay
+                                onAudioPlay = onAudioPlay,
+                                onPlayAudioTrack = onPlayAudioTrack
                             )
                         }
                     }
@@ -623,6 +634,27 @@ fun StudyModeContent(
                 }
             }
         }
+
+        // Episode transport — layered ABOVE the article-reader overlay (rendered inside
+        // ResourcesTab below) so it stays reachable both inside the reader and after
+        // dismissing it. Episodes keep playing in the background, so this is the only way
+        // to pause/stop one without reopening the article.
+        if (audioViewModel != null) {
+            val episodePlaying by audioViewModel.isPlayingEpisode.collectAsState()
+            val episodeStopped by audioViewModel.isStopped.collectAsState()
+            val episodeTitle by audioViewModel.currentTitle.collectAsState()
+            val episodeImageURL by audioViewModel.currentImageURL.collectAsState()
+            if (episodePlaying && !episodeStopped) {
+                AudioPlayerBar(
+                    audioViewModel = audioViewModel,
+                    nowPlayingLabel = episodeTitle,
+                    imageURL = episodeImageURL,
+                    useWhiteBackground = useWhiteBackground,
+                    modifier = Modifier.align(Alignment.TopCenter).padding(horizontal = 8.dp, vertical = 4.dp)
+                )
+            }
+        }
+      }
     }
 }
 

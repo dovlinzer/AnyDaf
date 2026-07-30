@@ -94,6 +94,44 @@ Passes run in sequence: 1 → 2 → 2.5 → 3 → amud B detection. Use `--passe
 - Writes `amud_b_segment_index`, `amud_b_timestamp`, `amud_b_micro_title` into `01_segmentation.json`
 - Runs with `force=True` so it always re-detects (the segmentation may have been repaired)
 
+### Section headers are deliberately `display_title`, not `title` — and why
+
+**Read this before "fixing" short or truncated `##`/`###` headers.** They are short on purpose.
+
+Each macro/micro segment in `01_segmentation.json` carries two labels from pass 1:
+
+| Field | Length | Used for |
+|---|---|---|
+| `title` | unlimited | full descriptive title (pass 1 output; largely unused downstream) |
+| `display_title` | ≤25 chars | **navigation pill in the app AND the `##`/`###` header in the essay** |
+
+The essay header and the nav pill must be the *same string* so a user tapping a pill lands
+on a heading they recognise. That correspondence is enforced **after pass 2**, not by it:
+
+| Script | What it does |
+|---|---|
+| `apply_display_titles.py` | Overwrites `##`/`###` headings in `02_rewrite.md` and `03_final.md` with `display_title` values, **matched by position**. This is why 2,356 of 2,359 dafim have short headers. |
+| `sync_md_headers.py` | Propagates `display_title` *renames* into the `.md` files by targeted search-and-replace (safer than positional matching when the segmentation was re-run after the `.md` was generated) |
+| `check_segmentation.py --fix` | Repairs duplicate/near-duplicate `display_title`s in the JSON (appends " (II)", " (III)") |
+| `fix_h2_mismatch.py` | Demotes excess `##` headings to `###` when a daf has more `##` than macro segments |
+
+`rewrite_prompt()` also tells pass 2 to use `display_title` directly, so the essay is right
+the first time; `apply_display_titles.py` remains the corpus-wide normaliser. **The prompt
+previously referenced a `heading_title` field that exists in 0 of 2,359 segmentations** —
+pass 2 then guessed between `title` and `display_title`, which is harmless only because
+`apply_display_titles.py` overwrites the result. Fixed to name the real field.
+
+**Known open defect — mid-word truncation.** `pipeline.py`'s `_truncate_display_title()`
+hard-cuts anything over 25 chars at character 24 and appends "…", producing headers like
+`Arevim: Concept & Obliga…`. As of 2026-07-29 this affects **2,131 of 98,885 display_titles
+(2.2%) across 752 dafim** (worst: `avodah_zarah_36` 26, `sotah_3` 24, `bekhorot_22` 20).
+The fix is to regenerate a clean ≤25-char label from the segment's full `title` rather than
+chopping — not to lengthen the headers, which would break pill↔header correspondence.
+
+**Gotcha:** re-running pass 2 on a daf *after* `apply_display_titles.py` has run reverts
+that daf to whatever pass 2 wrote, silently breaking the correspondence. Re-run
+`apply_display_titles.py` for any daf whose `02_rewrite.md` is regenerated.
+
 ### Pass 3 prompt reliability — two known failure modes, both fixed
 
 Pass 3 juggles several sub-tasks in one call (insert blockquotes, preserve every `##`/`###` heading verbatim, strip HTML comments, preserve Sefaria's own `**bold**` markup, and produce nothing but the final document). Two silent-failure modes were found and fixed via `prompts.py`:
@@ -119,6 +157,217 @@ Checks:
 - **Missing bold markup** — flags any blockquote whose Translation line has zero `**` spans. No known false-positive mode.
 
 Only `OUT OF ORDER` still needs a skeptical read; the other four flag types (`FABRICATED`, `DUPLICATE`, header structure, bold markup) can be trusted directly.
+
+### Approach B — Sefaria-first assembly, replacing passes 2.5 and 3 (prototype, 2026-07-29)
+
+**Status: candidate is `prototype_text_first_v9.py`, under human review. Not yet wired into
+`pipeline.py`. Nothing uploaded.**
+
+**The problem it solves.** Pass 3 asks an LLM to reproduce the whole essay while inserting
+Sefaria blockquotes. LLMs are unreliable at lossless reproduction under volume, so text
+silently vanishes: measured across the 200 dafim that have all three files, **24 (12%) lose
+entire `##`/`###` sections between pass 2 and pass 3** (pass 2.5 loses none — pass 3 is
+where it happens). On a 5-daf sample pass 3 carried only **55% of the daf's Sefaria
+segments**; the same dafim assembled by B carried **77%**, with commentary retention at
+100% versus A's 99%.
+
+**The inversion.** Instead of inserting Sefaria text into the essay, make the Sefaria text
+the backbone and splice the essay's sections into it. The Gemara is then copied verbatim by
+Python string slicing and *cannot* be dropped or fabricated. Both invariants are asserted
+numerically before any file is written:
+  - every essay section emitted exactly once, in document order
+  - every in-span Sefaria segment emitted exactly once, in text order
+
+**Why it costs nothing.** Placement needs no LLM because three sequences are already
+time-indexed: the SRT carries timestamps, pass 1 timestamps every essay section, and the
+SRT itself contains the Hebrew the lecturer reads aloud — so "when was segment N recited"
+is local text matching, not comprehension. A full corpus run is ~5 minutes and $0. Pass 2
+(Sonnet) still runs; **2.5 and 3 disappear entirely** (2.5 exists only to plant HTML-comment
+anchors for 3, and only 201 of 2,363 dafim ever had it).
+
+**Pass 2's drops mostly stop mattering.** Of 24 confirmed pass-2 drops examined, **23 (96%)
+are Gemara recitation that B restores verbatim from Sefaria**. Only dropped *analysis* stays
+lost. `check_pass2_coverage.py` remains the detector for that residue — it is the one piece
+of the old repair machinery still worth keeping (`fix_pass2_gaps.py` is superseded).
+
+**Version lineage — each step came from a specific reported defect. Do not "simplify" these
+away; every one is a fix for something a reader actually hit:**
+
+| Version | Fix |
+|---|---|
+| v3 | Pool `sefaria_prev`/`sefaria.md`/`sefaria_next` into one index space — a shiur routinely runs past its own daf (Sanhedrin 6b continues into 7a; 10 of its 11 "missing" passages were there). Replace greedy forward matching with best-match-per-segment + longest chronologically-consistent run — one bad early guess had truncated 82% of bekhorot_10 |
+| v4 | Emit `heading -> Gemara -> commentary`, not `Gemara -> heading -> commentary`. Also fixes the downstream parser contract, since `upload_to_supabase.py` expects the blockquote right after the heading |
+| v5 | Assign segments to sections by monotonic DP over content agreement, replacing timestamp windows — pass 1's micro timestamps are approximate topic markers (two adjacent ones 8 seconds apart covering minutes of material) |
+| v6 | Never split a block mid-sentence; prefer starting a block at Sefaria's own `§` topic marker |
+| v7/v8 | Lateness penalty (place a passage where its discussion *starts*). **Rejected** — fixed Berakhot 31b's header-traversal problem but pulled unrelated Gemara into Gittin 18b's opening and stripped its tail |
+| **v9** | **v6 + the colon fix. The candidate.** |
+
+**Two calibration decisions, both from human review:**
+- **v9 over v8.** Reviewer rated v6 "almost perfect" on halakhic Gittin 18b and 90-95% on
+  aggadic Berakhot 31b with "not so noticeable" misses. v7's traversal fix was a bonus on
+  aggada that cost real damage on halakha. Aggadic dafim carry little lecture content
+  anyway, so v9 is the right trade.
+- **No auto-selector exists.** Four separate metrics all ranked Gittin-v6 *worse* than
+  Berakhot-v6 — the opposite of the reviewer's judgment. Content-overlap scores do not track
+  reading experience. Do not build a per-daf v6/v8 switch without many more labelled
+  examples.
+
+**Two subtle bugs worth remembering:**
+- **`:` is not a sentence terminator in Talmudic text** — it introduces quoted speech
+  ("*amar leih:*" then the reply). Treating it as terminal split quotations from their
+  speakers. 1.1% of segments.
+- **`WINDOW_ENTRIES` was 40, spanning a median of 2.0 minutes.** Two minutes of the lecturer
+  *reviewing* a sugya accumulates enough of its shared Hebrew vocabulary to "cover" segments
+  never recited. On Bava Batra 174b, whose opening recaps the previous daf, five separate
+  segments matched inside one minute (two at a perfect 1.00), putting six unrelated passages
+  ahead of the lecturer's first words. Now 20 (~1 minute), which requires the tight burst
+  that real recitation produces.
+
+#### What must be re-pointed when B replaces pass 3 — DO NOT SKIP
+
+Two post-pass-3 steps read `03_final.md` and **skip outright if it is missing**
+(`find_amud_b.py:134`, `find_sefaria_indices.py:143`). They write the fields that drive the
+amud A/B marker and the Text-view pill navigation, and both apps decode them
+(`ShiurClient.swift:93-96`, `ShiurClient.kt`). Dropping pass 3 without re-pointing these
+silently removes both features:
+
+| Script | Writes | Feature it powers |
+|---|---|---|
+| `find_amud_b.py` | `amud_b_segment_index`, `amud_b_timestamp`, `amud_b_micro_title` | the A/B marker in Shiur mode |
+| `find_sefaria_indices.py` | `sefaria_index` per macro, `amud_b_sefaria_index` | Text-view segment pills + Shiur↔Text position sync |
+
+**Verified 2026-07-29: both run correctly against B's output with no code change** — only
+the input filename differs. This works because v4 made B emit `heading -> blockquote`, the
+same shape these parsers expect. Tested on gittin_18, hullin_88, bava_batra_174: all `OK`.
+
+**`amud_b_sefaria_index` is unchanged** by the switch (16/10/15 under both) — it derives
+from `sefaria.md`'s own amud-A count, not from the essay. **`amud_b_segment_index` does
+shift** on some dafim (hullin_88: 4 → 6, gittin_18: 6 → 5) because it names the essay
+*section* containing the boundary, and B places blockquotes differently. Expected, not a
+regression — but spot-check the A/B marker on a familiar daf after the switch.
+
+Full wiring checklist: (1) `find_amud_b.py` input, (2) `find_sefaria_indices.py` input,
+(3) `upload_to_supabase.py`'s `final` source, (4) `pipeline.py` calls B instead of 2.5 + 3.
+
+#### Corpus-wide run order when B goes live — strict sequence
+
+No API cost at any step: everything below reads existing `02_rewrite.md` output.
+
+| # | Step | Why it sits here |
+|---|---|---|
+| 0 | `apply_display_titles.py --rewrite-only --only daf-processor/title_pass_aligned.txt` | **Must precede v9.** v9 copies `02_rewrite.md` headings verbatim, so a stale `…` heading gets baked into the final |
+| 1 | Back up `03_final.md` corpus-wide (`.bak_pass3`) | Step 3 overwrites 2,362 files |
+| 2 | `prototype_text_first_v9.py --all` (~5 min) | Watch for `COMPLETENESS ASSERTION FAILED` |
+| 3 | Promote `03_text_first_prototype_v9.md` → `03_final.md` | v9's filename is read by nothing downstream |
+| 4 | `find_sefaria_indices.py` | order-independent of step 5 |
+| 5 | `find_amud_b.py` | order-independent of step 4 |
+| 6 | `upload_to_supabase.py` | |
+
+The easy mistake is running v9 first because it looks like step 1. It is step 2, and getting
+that wrong means redoing the whole corpus.
+
+#### `apply_display_titles.py` matches POSITIONALLY — two flags exist to contain that
+
+It zips headings against segments by index, so on any daf whose counts differ it silently
+mislabels every heading after the first divergence. Added 2026-07-29:
+
+- `--only FILE` — restrict to daf directory names listed in `FILE`, one per line.
+- `--rewrite-only` — touch `02_rewrite.md` and leave `03_final.md` alone.
+
+`--rewrite-only` is not a nicety. Counting `02_rewrite.md` alone, **2,251 of 2,363** dafim are
+aligned; counting `03_final.md` too, only **1,458** are. The ~900 difference is *legitimate* —
+pass 3 split and merged sections, so the final's heading count is supposed to differ. Since
+step 3 above regenerates `03_final.md` anyway, its alignment is irrelevant and touching it
+would corrupt those 900. Regenerate the aligned list rather than trusting a stale one; 4
+dafim (`arakhin_3`, `bava_batra_128`, `bekhorot_25`, `zevachim_36`) have unreadable
+segmentation JSON and drop out of every count.
+
+The two lists are checked in as `daf-processor/title_pass_aligned.txt` (2,251) and
+`daf-processor/title_pass_mismatched.txt` (108, with each daf's counts). They are a snapshot
+— regenerate if `02_rewrite.md` or the segmentation changes.
+
+Applied 2026-07-29 to the 2,251 aligned set (863 changed, backups `.bak_before_titles`).
+Truncated headings in `02_rewrite.md`: **739 → 31**. Of the remaining 31, 30 are in the
+108-daf count-mismatched set and need a title-*string* pass, not a positional one;
+`sukkah_54` is the lone aligned holdout, carrying `Yom Tov & Shabbat… (II)` in the
+segmentation itself — the relabel job appears to skip rank-suffixed duplicates.
+
+### Corpus text cleanups applied 2026-07-29 (local, no reprocessing)
+
+All reversible via the noted backup files; all operate on `02_rewrite.md`, which is the
+point of departure for any future rerun.
+
+| Cleanup | Scope | Backup |
+|---|---|---|
+| Third-person "the lecturer" removed | 116 occurrences, 78 dafim — 44 regex deletions, 69 Haiku rewrites, 23 hand-corrections where Haiku produced stilted first person ("as I candidly note") | `.bak_before_lecturer_fix` |
+| Truncated `display_title`s regenerated | 2,131 across 752 dafim; now **0** ellipsis labels and **0** over 25 chars | `.bak_before_relabel` |
+| Pure page-navigation sentences deleted | 55 ("Today's daf is 174, and we pick up at the bottom of 173b at the two dots.") + 2 later stragglers, `niddah_60` and `bava_batra_103` | `.bak_before_nav_strip` |
+
+**Deliberately NOT removed: ~1,400 *embedded* location clauses** ("The Gemara, two lines
+from the top of 22a, asks:"). The author wants these — they orient a reader to where the
+passage sits. Only sentences that are *purely* a pointer were removed, since the inserted
+Gemara already anchors the reader. Three successive filter tightenings were needed to stop
+the script destroying content-bearing sentences like "The Gemara turns to a *baraita* at the
+top of 48a" — **if you rerun this, verify the match list before applying.**
+
+**`upload_to_supabase.py` timestamp bug (fixed).** Section headers are `display_title`, but
+the timestamp lookup keyed on the segmentation's `title` — matching **0 of 19,378 macros and
+0 of 79,507 micros**. Macros survived on a positional fallback; micros had none, so *every*
+micro row would have uploaded with a NULL timestamp. Now indexes both labels and gives
+micros the same positional fallback. Only affects `--sections` (AskAnyDaf), which has not
+been bulk-loaded yet.
+
+**Known corpus identity defects (not fixed):**
+- `output/pesachim_19` contains a segmentation labelled **Gittin 18b** — content and
+  directory disagree. Uploads under Pesachim 19.0, so no key collision, but the content is
+  wrong. Not in the documented "19 severe" list.
+- `eiruvin_33`/`eruvin_33` and `eiruvin_82`/`eruvin_82` are byte-identical duplicates from
+  the spelling migration and collide on the upload key. Harmless (same content) but the
+  `eruvin_*` copies are dead and can be deleted.
+- The `X`/`Xb` directory pairs (~27) do **not** collide: `parse_dir_name()` reads the amud
+  from the directory suffix, giving 40.0 vs 40.5. Do not "fix" this by reading the
+  segmentation's `amud` field — that field is the unreliable one (see `find_amud_b.py`).
+
+### Menachot 79 — the one SRT with zero Hebrew (open, 2026-07-29)
+
+`srt/processed/Menachot 79.srt` contains **0 Hebrew characters**. Scanning all 2,363 SRTs
+confirms it is a true singleton, not the tail of a distribution:
+
+| Hebrew density | Files |
+|---|---|
+| 0.00% | 1 — `Menachot 79.srt` |
+| 0.01–4.90% | **0** |
+| 4.91% (next lowest) | `Bava Batra 102.srt` |
+| median | 9.94% |
+
+The transcript is otherwise complete — 1,752 entries, 58 min, ends "Alright, we finished the
+daf." Transcription simply emitted Latin script throughout, including the Gemara
+recitations: it opens `Yes, it is Ayin-Tet, starting with some things on the bottom of
+Ayin-Tet Amud Bet.` Most likely a language-detection flip on this one file.
+
+The healthy pattern, for comparison (`Menachot 80.srt`, entry 43): conversational Hebrew
+terms stay transliterated (`einah teunah lechem`, `shene'emar`) and only the **recitation**
+switches to Hebrew script (`הקריב על זבח התודה...`). `best_match_times()` consumes only the
+recitations, so restoring those is what matters — terminology inside the English is invisible
+to it.
+
+**Consequences, all three passes affected:**
+- `01_segmentation.json` and `02_rewrite.md` are also at 0 Hebrew, and the rewrite lost the
+  italic transliteration convention (bare `Toda`, `Pasul` where other dafim have `*arevim*`).
+- v9 reports **`matched 0 segs`** and falls back to the full-daf span: the first two sections
+  get no Gemara and all 74 segments dump under one unrelated heading. Completeness still
+  holds (26/26, 74/74) — nothing is lost, it is only misplaced.
+
+**Fix path:** re-transcribe the audio, then rerun pass 1 + pass 2 + v9 for that daf.
+Repairing the SRT alone does *not* avoid the pass 1/2 API cost, since both ran on the
+Hebrew-free transcript. **After re-transcribing, verify Hebrew is actually present**
+(`grep -c '[֐-׿]' "Menachot 79.srt"`) — the same settings may reproduce the fault.
+
+Fallback if re-transcription fails: substitute the recitation runs by hand against
+`sefaria.md` (grounded in the real text, not invented), preserving each entry's timestamps.
+Success is measurable — `matched` should go 0 → ~20–30. Pilot on the first ten minutes before
+committing to all 1,752 entries. A wrong Hebrew word fails to match rather than mismatching,
+so the downside is bounded.
 
 ### Daf processing procedure — pass 2.5 → pass 3 → audit → fix → upload
 
@@ -1245,9 +1494,27 @@ Script upserts Episodes first, then resolves `display_label → episode_id` via 
 - Tagging project in progress: tagger uses `audio_tagger.xlsx`, uploads via script
 - Only `audio_talmud_refs` needed initially; SA and Rambam tables ready for future use
 
-### WordPress Audio Posts (Blocked — confirmed, 2026-07-22)
+### WordPress Audio Posts (Unblocked and verified working — 2026-07-30)
 
-library.yctorah.org has audio posts (the ~45-episode "Iggros Moshe A to Z" podcast, among others) at `/audio/[slug]/` URLs. This is a **custom WordPress post type, confirmed still not exposed via REST as of 2026-07-22**: fetching `/wp-json/` (the full route index) shows zero `audio`-related routes at all — no `/wp/v2/audio`, no alternate `rest_base` under any name. This is a stronger confirmation than the original note (which only checked `/wp/v2/types`) — the full route listing is authoritative and rules out an alternate route name entirely.
+library.yctorah.org has audio posts (the ~45-episode "Iggros Moshe A to Z" podcast, among others — actually 795 total `audio` posts across all shiur types on the site) at `/audio/[slug]/` URLs, a custom WordPress post type. **The webmaster enabled `show_in_rest` and it is now confirmed live and fully working end-to-end**, verified 2026-07-30 via direct curl against production:
+
+- `/wp-json/wp/v2/types` now lists `audio` with `rest_base: "audio"` — **the guessed `restBase: "audio"` in `YCTLibraryClient.swift`/`.kt` was correct; no code change needed.**
+- `reference` taxonomy is registered on the `audio` post type (confirmed via `/wp-json/wp/v2/taxonomies/reference`), and the exact query shape the app uses (`/wp/v2/audio?reference=<comma-joined-daf-term-ids>&per_page=100&...`) returns real results — e.g. querying all of Avodah Zarah's daf-level term IDs returned 10 real tagged episodes, including "Episode 32: Jewish Identity – The Kippah, Part 2" (post 14918) with an exact match on Avodah Zarah 18/19/20 (it's tagged with daf terms 3203/3205/1981 respectively, among many other refs).
+- As of 2026-07-30, **33 episodes are tagged so far** (out of ~45+), with tags spanning most of Shas. Many of those 33 include both tractate-root-level tags (e.g. "Avodah Zarah" generally) and specific daf-level tags (e.g. "Avodah Zarah 18") in the same post's `reference` array.
+- **`fetchesTractateLevel` flipped to `true` (2026-07-30)**, matching `psak`. It was originally `false` (copied from `library`), which would have made episodes tagged *only* at the tractate-root level (no specific daf) permanently invisible — the client would never query the root term ID, only its daf-level children. A full census of all 33 tagged episodes (as of 2026-07-30) found none were actually affected — every tagged episode already carries at least one daf-level tag alongside any general/root-level ones — so the flip is a forward-looking safety net rather than a fix for an observed problem. Root-only-tagged episodes now land in the "tractate-wide" bucket at daf 0, same as psak.
+- **Verified concrete in-app test case**: open Avodah Zarah daf 18, 19, or 20 in Study mode → Resources tab should show "Episode 32: Jewish Identity – The Kippah, Part 2" as an exact match, with the headphones badge.
+- If results don't appear in the app despite this: the audio client's results are session-memory-only (never disk-cached, see below) — a **full app restart** (force-quit, not just backgrounding) is required to clear any empty result cached from before the WP fix went live, since revisiting the same tractate/daf reuses the in-memory cache without refetching.
+
+**Bug found and fixed 2026-07-30 — real hits were being silently dropped by the parser**: after the WP fix landed, in-app testing on Avodah Zarah 18a still showed zero results despite the raw endpoint genuinely returning hits. A temporary debug banner (added to the Resources tab, both platforms — see below) proved the request itself was fine: `HTTP 200, raw array length=10` for the exact URL the app builds. The bug was downstream, in `fetchBulkArticles`'s per-post parsing:
+
+- The `audio` custom post type's `register_post_type()` doesn't declare excerpt support, so its REST response **omits the `excerpt` key entirely** — confirmed via curl: `keys present: [_embedded, _links, content, date, id, link, reference, slug, title]`, no `excerpt`.
+- Both platforms required `excerpt` as part of a single guard/get-chain per post (Swift: `guard let excerptObj = post["excerpt"] as? [String: Any], let excerptRaw = excerptObj["rendered"] as? String ... else { continue }`; Kotlin: `post.getJSONObject("excerpt").getString("rendered")`, which throws `JSONException` when the key is absent). Since every audio post lacks this key, every single one silently failed to parse and was dropped — 10 real hits in, 0 articles out, no error surfaced anywhere.
+- **Fix**: `excerpt` is now optional on both platforms, defaulting to `""` when the key is missing (Swift: `((post["excerpt"] as? [String: Any])?["rendered"] as? String) ?? ""`; Kotlin: `post.optJSONObject("excerpt")?.optString("rendered", "") ?? ""`). The existing content-derived-excerpt fallback (strip PowerPress boilerplate, truncate to 200 chars) already handles the "excerpt is empty" case, so this was the only change needed. Both platforms rebuilt clean.
+- **This was a pure app-side bug, not a WordPress config issue** — no further WP-side change needed for it. (Excerpt support *could* be added to the CPT registration too, but isn't necessary now that the app tolerates its absence.)
+
+**Debug banner (temporary, still in the code as of 2026-07-30 — remove once confirmed stable)**: `ResourcesManager`/`ResourcesViewModel` publish `audioDebugInfo` (a `@Published`/`StateFlow<String>`), rendered as a small orange monospace banner at the top of the Resources tab. It reports tractate-term resolution, daf-term count, raw hit count, and post-dedup count for the audio fetch specifically. On zero raw hits, it automatically re-runs the identical request through `fetchBulkArticlesDebugInfo` (a new diagnostic-only method added to `YCTLibraryClient` on both platforms) to report the true HTTP status and raw response array length/snippet — bypassing Android's `fetchString()`, which otherwise silently swallows all exceptions to `null` with no logging. This is what caught the excerpt-parsing bug above; without it the failure would have looked identical to a network problem from the outside.
+
+Historical context (now resolved) — as of 2026-07-22 this post type was confirmed via the full `/wp-json/` route index to have zero REST exposure at all, which is what originally blocked this feature:
 
 **Do not confuse these with the older regular-`post`-type entries** titled "Episode 1" through "Episode 15", "BONUS: Intro Episode", "Why Iggros Moshe A to Z?" (WordPress post IDs 14614–14630, living at plain `/2018/11/episode-N-.../` URLs, last modified 2020-02-27). Those are a separate, apparently-abandoned duplicate/legacy set from when the podcast launched — same episode content, different (and queryable) post type, but as of this writing **not** reference-tagged (confirmed empty `reference` array on all 17, freshly re-checked). Any reference-tagging effort aimed at surfacing this podcast in the app needs to target the real current episodes at `/audio/` — which the REST API cannot reach at all yet, tagged or not.
 

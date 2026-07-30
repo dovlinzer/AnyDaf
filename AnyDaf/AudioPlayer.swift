@@ -21,6 +21,10 @@ class AudioPlayer {
     private var timeObserver: Any?
     private var cancellables = Set<AnyCancellable>()
     var nowPlayingTitle = ""
+    /// Artwork URL for the loaded track, if any (Resources-tab episodes only).
+    var nowPlayingImageURL: String? = nil
+    /// True while the loaded track is a Resources-tab podcast episode rather than daf/shiur audio.
+    var isPlayingEpisode = false
     private var routeChangeObserver: NSObjectProtocol?
     private var currentPlayTask: Task<Void, Never>?
     private var startAtSeconds: Double = 0
@@ -32,11 +36,28 @@ class AudioPlayer {
 
     // MARK: - Public API
 
-    func play(url: URL, title: String = "", startAt: Double = 0) {
+    /// - Parameter onResolutionFailure: when provided, called instead of setting
+    ///   `resolutionFailed` on a SoundCloud resolution failure. `resolutionFailed` is
+    ///   watched by ContentView to auto-refresh the daf/shiur feed and replay the
+    ///   *current daf's* audio — correct for daf/shiur playback (the only caller that
+    ///   omits this), but wrong for any other track (e.g. a Resources-tab episode): it
+    ///   would silently hijack playback back to daf audio instead of the track that
+    ///   actually failed. Callers with their own recovery (or that just want a clean
+    ///   failure) should pass a handler here so the shared flag is never touched.
+    /// - Parameter isEpisode: `true` for a Resources-tab podcast episode, `false` (default) for
+    ///   the daf/shiur audio this player was originally built for. Episodes are unrelated to the
+    ///   selected daf, so `ContentView` must NOT freeze the daf lock or snapshot the daf's shiur
+    ///   segments for them — doing so would show the current daf's chapter pills over an episode
+    ///   and let episode playback time drive the shiur/text position. See the Audio / Shiur
+    ///   Decoupling Architecture section in CLAUDE.md.
+    func play(url: URL, title: String = "", startAt: Double = 0, isEpisode: Bool = false,
+              imageURL: String? = nil, onResolutionFailure: (() -> Void)? = nil) {
         stop()
         resolutionFailed = false
         isStopped = false
+        isPlayingEpisode = isEpisode
         nowPlayingTitle = title
+        nowPlayingImageURL = imageURL
         startAtSeconds = startAt
         isBuffering = true
 
@@ -45,9 +66,13 @@ class AudioPlayer {
             currentPlayTask = Task { @MainActor [weak self] in
                 guard let self else { return }
                 guard let resolved = await AudioPlayer.resolveStreamURL(trackID: trackID) else {
-                    // Signal failure so ContentView can auto-refresh the feed and retry
-                    self.resolutionFailed = true
                     self.stop()
+                    if let onResolutionFailure {
+                        onResolutionFailure()
+                    } else {
+                        // Signal failure so ContentView can auto-refresh the feed and retry
+                        self.resolutionFailed = true
+                    }
                     return
                 }
                 // Bail if a subsequent stop() or play() already cancelled us
@@ -118,6 +143,8 @@ class AudioPlayer {
         isPlaying = false
         isBuffering = false
         isStopped = true
+        isPlayingEpisode = false
+        nowPlayingImageURL = nil
         currentTime = 0
         duration = 0
         UIApplication.shared.isIdleTimerDisabled = false

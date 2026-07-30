@@ -22,9 +22,12 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.clickable
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
+import androidx.compose.material.icons.filled.HourglassEmpty
 import androidx.compose.material.icons.filled.OpenInBrowser
+import androidx.compose.material.icons.filled.PlayCircleFilled
 import androidx.compose.material.icons.filled.Print
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.HorizontalDivider
@@ -47,6 +50,8 @@ import androidx.compose.material3.LocalContentColor
 import androidx.compose.ui.graphics.Color
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.layout.ContentScale
+import coil.compose.AsyncImage
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
@@ -54,6 +59,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import com.anydaf.model.StudyFontSize
 import com.anydaf.model.YCTArticle
+import com.anydaf.model.YCTSource
 
 @Composable
 fun ArticleReaderScreen(
@@ -67,7 +73,12 @@ fun ArticleReaderScreen(
     printLineSpacing: Double = 1.15,
     /** Called when an embedded <audio> element (podcast episode) starts playing, so the
      *  caller can pause the app's main daf/shiur audio to avoid overlap. */
-    onAudioPlay: () -> Unit = {}
+    onAudioPlay: () -> Unit = {},
+    /** Resolved SoundCloud track ID for this article, if it's an audio episode and
+     *  resolution has completed. Null while resolving or if resolution failed. */
+    trackID: String? = null,
+    /** Called when the user taps "Play Episode" — (trackID, title, imageURL). */
+    onPlayAudioTrack: (String, String, String?) -> Unit = { _, _, _ -> }
 ) {
     val context = LocalContext.current
     val darkTheme = isSystemInDarkTheme()
@@ -153,6 +164,69 @@ fun ArticleReaderScreen(
         }
 
         HorizontalDivider(color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.15f))
+
+        // Play control (audio episodes only)
+        if (article.source == YCTSource.AUDIO) {
+            val enabled = trackID != null
+            if (!article.imageURL.isNullOrEmpty()) {
+                // SoundCloud-style artwork with a big play button centered on top.
+                Box(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .height(160.dp)
+                        .clickable(enabled = enabled) {
+                            trackID?.let { onPlayAudioTrack(it, article.title, article.imageURL) }
+                        },
+                    contentAlignment = Alignment.Center
+                ) {
+                    AsyncImage(
+                        model = article.imageURL,
+                        contentDescription = null,
+                        contentScale = ContentScale.Crop,
+                        modifier = Modifier.fillMaxSize()
+                    )
+                    Box(modifier = Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.25f)))
+                    if (enabled) {
+                        Icon(
+                            Icons.Default.PlayCircleFilled,
+                            contentDescription = "Play Episode",
+                            tint = Color.White,
+                            modifier = Modifier.size(56.dp)
+                        )
+                    } else {
+                        CircularProgressIndicator(color = Color.White)
+                    }
+                }
+            } else {
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.06f))
+                        .clickable(enabled = enabled) {
+                            trackID?.let { onPlayAudioTrack(it, article.title, article.imageURL) }
+                        }
+                        .padding(vertical = 10.dp),
+                    horizontalArrangement = Arrangement.Center,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    val tint = if (enabled) MaterialTheme.colorScheme.onSurface
+                               else MaterialTheme.colorScheme.onSurfaceVariant
+                    Icon(
+                        if (enabled) Icons.Default.PlayCircleFilled else Icons.Default.HourglassEmpty,
+                        contentDescription = null,
+                        tint = tint,
+                        modifier = Modifier.size(20.dp)
+                    )
+                    Spacer(Modifier.width(8.dp))
+                    Text(
+                        if (enabled) "Play Episode" else "Loading audio…",
+                        style = MaterialTheme.typography.titleSmall,
+                        color = tint
+                    )
+                }
+            }
+            HorizontalDivider(color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.15f))
+        }
 
         // Content area
         Box(modifier = Modifier.weight(1f).fillMaxWidth()) {
@@ -309,6 +383,13 @@ private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean)
         a { color: $linkColor; }
         h1,h2,h3,h4 { color: $headingColor; margin: 20px 0 8px; }
         p { margin: 0 0 14px; }
+        /* Older articles carry hardcoded inline colors from copy-pasted Word/Google Docs
+           content (e.g. <div style="color: black;">) that override the body color above —
+           only ever seen on plain wrapper/text elements, never on links, headings, blockquotes,
+           or the psak labels, so those keep their own distinct colors untouched. */
+        p, div, span, strong, em, b, i, font, ul, ol, li {
+            color: $bodyColor !important;
+        }
         blockquote {
             border-left: 3px solid $bqBorder;
             margin: 12px 0; padding-left: 14px;
@@ -317,6 +398,22 @@ private fun buildStyledHtml(bodyHtml: String, fontSize: Int, darkTheme: Boolean)
         ul,ol { padding-left: 20px; margin-bottom: 14px; }
         li { margin-bottom: 6px; }
         img { max-width: 100%; height: auto; }
+        .psak-qheader {
+            display: flex;
+            justify-content: flex-start;
+            align-items: baseline;
+            gap: 8px;
+            margin: 20px 0 12px;
+        }
+        .psak-qlabel, .psak-alabel {
+            font-weight: 600;
+            font-size: 1.05em;
+            color: $headingColor;
+            letter-spacing: 0.02em;
+        }
+        .psak-alabel { display: block; margin: 20px 0 12px; }
+        .psak-qloc { color: $bqColor; font-weight: 400; }
+        .psak-qloc::before { content: "| "; opacity: 0.6; margin-right: 6px; }
     """.trimIndent()
 
     return """

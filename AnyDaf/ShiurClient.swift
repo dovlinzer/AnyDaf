@@ -124,9 +124,21 @@ class ShiurClient: ObservableObject {
 
     private let edgeFunctionURL = "https://zewdazoijdpakugfvnzt.supabase.co/functions/v1/get-shiur"
 
-    private var loadedKey: String? = nil   // "Tractate-daf_float" — avoids redundant fetches
+    /// "Tractate-daf_float" — avoids redundant fetches; published so callers can observe
+    /// "a fresh daf's shiur just finished loading" (fires exactly once per successful load,
+    /// unlike amudBSegmentIndex which can coincidentally repeat across dafs).
+    @Published var loadedKey: String? = nil
 
-    func loadSegments(tractate: String, daf: Double) async {
+    /// `resolveInitialIndex`, if provided, is called once segments/amudB* are decoded but
+    /// *before* shiurRewrite/shiurFinal are published — returning a non-nil index sets
+    /// currentSegmentIndex to it at that point. This must happen before the text publishes:
+    /// ShiurTextView's `.task(id: rewriteText)` captures `currentSegmentIndex` synchronously
+    /// the instant the text changes, so setting the index via a separate onChange *after* the
+    /// text already changed loses the race — the pill ends up on the right segment (since it
+    /// reads currentSegmentIndex directly) but the initial scroll lands wherever the task's
+    /// stale captured value pointed, not where the index was moved to.
+    func loadSegments(tractate: String, daf: Double,
+                       resolveInitialIndex: ((ShiurClient) -> Int?)? = nil) async {
         let key = "\(tractate)-\(daf)"
         guard key != loadedKey else { return }
         segments = []
@@ -163,6 +175,10 @@ class ShiurClient: ObservableObject {
                 amudBSefariaIndex = decoded.amudBSefariaIndex
             }
 
+            if let resolved = resolveInitialIndex?(self) {
+                currentSegmentIndex = resolved
+            }
+
             shiurRewrite = first["rewrite"] as? String
             shiurFinal = first["final"] as? String
             loadedKey = key
@@ -171,10 +187,47 @@ class ShiurClient: ObservableObject {
         }
     }
 
+    /// Index of the first segment with a genuine (non-carried-forward) match into the current
+    /// daf's Sefaria text — i.e. where the shiur actually starts covering Amud A's real content,
+    /// as opposed to introductory material or leftover discussion of the previous daf's Amud B.
+    /// Segments before the first real match are always intro/carry-forward content (see
+    /// find_sefaria_indices.py's carry-forward rule), so this is a reliable anchor with no
+    /// backend changes needed. Falls back to 0 if no segment has been matched yet.
+    var amudASegmentIndex: Int {
+        segments.firstIndex(where: { $0.matched == true }) ?? 0
+    }
+
+    /// Amud B segment, falling back to a sefariaIndex-based lookup when find_amud_b.py couldn't
+    /// confidently place Amud B via its heading-text matching (amudBSegmentIndex is nil — a
+    /// "MISS" in that script's own terms) but find_sefaria_indices.py's coarser boundary
+    /// (amudBSefariaIndex) is available, which has much wider corpus coverage since it's just
+    /// the amud A item count, not a text-matching heuristic. Same "owning segment" pattern used
+    /// elsewhere (see ContentView.shiurSegmentIndex(forRangeStarting:)): the last segment with a
+    /// genuine match whose own sefariaIndex is ≤ the boundary.
+    var effectiveAmudBSegmentIndex: Int? {
+        if let amudBSegmentIndex { return amudBSegmentIndex }
+        guard let target = amudBSefariaIndex else { return nil }
+        var best: Int? = nil
+        for (idx, seg) in segments.enumerated() {
+            guard seg.matched != false, let sIdx = seg.sefariaIndex, sIdx <= target else { continue }
+            best = idx
+        }
+        return best
+    }
+
     /// Snapshot current segments as the audio segments; call when audio starts playing.
     func snapshotAudioSegments() {
         audioSegments = segments
         audioCurrentSegmentIndex = currentSegmentIndex
+    }
+
+    /// Drop the audio snapshot without touching the selected daf's own shiur state.
+    /// Used when playback starts on something that has no shiur segments at all (a
+    /// Resources-tab episode), so the chapter strip stays hidden rather than showing
+    /// whatever daf happened to be selected.
+    func clearAudioSegments() {
+        audioSegments = []
+        audioCurrentSegmentIndex = 0
     }
 
     /// Jump the audio chapter strip to a segment — does not affect shiur text.

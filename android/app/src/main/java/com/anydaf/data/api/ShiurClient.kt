@@ -202,6 +202,14 @@ object ShiurClient {
         _audioCurrentSegmentIndex.value = _currentSegmentIndex.value
     }
 
+    /** Drops the audio snapshot without touching the selected daf's own shiur state. Used when
+     *  playback starts on something with no shiur segments at all (a Resources-tab episode), so
+     *  the chapter strip stays hidden rather than showing whatever daf happened to be selected. */
+    fun clearAudioSegments() {
+        _audioSegments.value = emptyList()
+        _audioCurrentSegmentIndex.value = 0
+    }
+
     /** Jump the audio chapter strip to a segment (audio daf only — does not affect shiur text). */
     fun jumpToAudioSegment(index: Int) {
         _audioCurrentSegmentIndex.value = index.coerceIn(0, (_audioSegments.value.size - 1).coerceAtLeast(0))

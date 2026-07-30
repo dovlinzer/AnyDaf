@@ -43,7 +43,10 @@ data class YCTArticle(
     /** Which YCT site this article came from. */
     val source: YCTSource = YCTSource.LIBRARY,
     /** True when the post's content contains an embedded audio player (e.g. a podcast episode). */
-    val isAudio: Boolean = false
+    val isAudio: Boolean = false,
+    /** The post's featured-image URL (medium size), if WordPress has one. Used for episode
+     *  artwork on audio cards/reader/player-bar; null elsewhere is expected and fine. */
+    val imageURL: String? = null
 )
 
 // Study Models

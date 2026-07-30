@@ -13,6 +13,11 @@ struct ArticleReaderView: View {
     /// Called when an embedded `<audio>` element (podcast episode) starts playing,
     /// so the caller can pause the app's main daf/shiur audio to avoid overlap.
     var onAudioPlay: () -> Void = {}
+    /// Resolved SoundCloud track ID for this article, if it's an audio episode and
+    /// resolution has completed. `nil` while resolving or if resolution failed.
+    var trackID: String? = nil
+    /// Called when the user taps "Play Episode" — (trackID, title, imageURL).
+    var onPlayAudioTrack: (String, String, String?) -> Void = { _, _, _ in }
 
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
@@ -89,6 +94,61 @@ struct ArticleReaderView: View {
                 Rectangle()
                     .fill(divider)
                     .frame(height: 1)
+
+                // ── Play control (audio episodes only) ───────────────────────
+                if article.source == .audio {
+                    Button {
+                        if let trackID {
+                            onPlayAudioTrack(trackID, article.title, article.imageURL)
+                        }
+                    } label: {
+                        if let imageURL = article.imageURL, let url = URL(string: imageURL) {
+                            // SoundCloud-style artwork with a big play button centered on top.
+                            ZStack {
+                                AsyncImage(url: url) { phase in
+                                    switch phase {
+                                    case .success(let image):
+                                        image.resizable().aspectRatio(contentMode: .fill)
+                                    default:
+                                        Rectangle().fill(fg.opacity(0.08))
+                                    }
+                                }
+                                .frame(height: 160)
+                                .clipped()
+
+                                Color.black.opacity(0.25)
+
+                                if trackID != nil {
+                                    Image(systemName: "play.circle.fill")
+                                        .font(.system(size: 56))
+                                        .foregroundStyle(.white)
+                                        .shadow(radius: 4)
+                                } else {
+                                    ProgressView()
+                                        .tint(.white)
+                                        .scaleEffect(1.4)
+                                }
+                            }
+                            .frame(height: 160)
+                        } else {
+                            HStack(spacing: 8) {
+                                Image(systemName: trackID != nil ? "play.circle.fill" : "hourglass")
+                                Text(trackID != nil ? "Play Episode" : "Loading audio…")
+                            }
+                            .font(.subheadline.weight(.semibold))
+                            .foregroundStyle(trackID != nil ? fg : mutedFg)
+                            .frame(maxWidth: .infinity)
+                            .padding(.vertical, 10)
+                            .background(fg.opacity(0.08))
+                        }
+                    }
+                    .disabled(trackID == nil)
+                    .buttonStyle(.plain)
+
+                    Rectangle()
+                        .fill(divider)
+                        .frame(height: 1)
+                }
 
                 // ── Content ───────────────────────────────────────────────────
                 if let html = html {
@@ -261,6 +321,13 @@ private struct ArticleWebView: UIViewRepresentable {
         a               { color: \(linkColor); }
         h1, h2, h3, h4  { color: \(headingColor); margin: 20px 0 8px; }
         p               { margin: 0 0 14px; }
+        /* Older articles carry hardcoded inline colors from copy-pasted Word/Google Docs
+           content (e.g. <div style="color: black;">) that override the body color above —
+           only ever seen on plain wrapper/text elements, never on links, headings, blockquotes,
+           or the psak labels, so those keep their own distinct colors untouched. */
+        p, div, span, strong, em, b, i, font, ul, ol, li {
+            color: \(bodyColor) !important;
+        }
         blockquote {
             border-left: 3px solid \(bqBorder);
             margin: 12px 0;
@@ -271,6 +338,22 @@ private struct ArticleWebView: UIViewRepresentable {
         li     { margin-bottom: 6px; }
         img    { max-width: 100%; height: auto; }
         hr     { border: none; border-top: 1px solid \(hrColor); margin: 20px 0; }
+        .psak-qheader {
+            display: flex;
+            justify-content: flex-start;
+            align-items: baseline;
+            gap: 8px;
+            margin: 20px 0 12px;
+        }
+        .psak-qlabel, .psak-alabel {
+            font-weight: 600;
+            font-size: 1.05em;
+            color: \(headingColor);
+            letter-spacing: 0.02em;
+        }
+        .psak-alabel { display: block; margin: 20px 0 12px; }
+        .psak-qloc   { color: \(bqColor); font-weight: 400; }
+        .psak-qloc::before { content: "| "; opacity: 0.6; margin-right: 6px; }
         </style>
         </head>
         <body>\(html)

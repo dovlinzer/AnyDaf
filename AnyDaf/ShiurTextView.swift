@@ -27,6 +27,10 @@ struct ShiurTextView: View {
     /// When set, pressing B scrolls to this ### micro-segment title within the amud B macro segment.
     var amudBSegmentIndex: Int? = nil
     var amudBMicroTitle: String? = nil
+    /// Macro segment where Amud A's real content begins — may be > 0 when the shiur opens with
+    /// introductory material or leftover discussion of the previous daf. Drives the inline
+    /// "Amud A" divider; see ShiurClient.amudASegmentIndex.
+    var amudASegmentIndex: Int = 0
     /// Set by the caller to force-scroll to a specific segment index. Consumed (reset to nil) after scrolling.
     /// Using Binding<Int?> instead of a counter ensures onChange always fires (nil→N is always a change),
     /// avoids reading a potentially stale currentSegmentIndex, and cannot fire spuriously on view recreation.
@@ -162,28 +166,41 @@ struct ShiurTextView: View {
         switch item {
         case .h2(let id, let segIdx, let text):
             let isActive = segIdx == currentSegmentIndex
-            Text(text)
-                .font(.headline)
-                .foregroundStyle(isActive ? foreground : foreground.opacity(0.75))
-                .padding(.top, segIdx == 0 ? 0 : 20)
-                .padding(.bottom, 4)
-                .id(id)
-                .background(
-                    GeometryReader { geo in
-                        Color.clear.preference(
-                            key: SegmentAnchorKey.self,
-                            value: [segIdx: geo.frame(in: .named("shiurScroll")).minY]
-                        )
-                    }
-                )
+            VStack(alignment: .leading, spacing: 4) {
+                if segIdx == amudASegmentIndex {
+                    amudDivider("Amud A")
+                }
+                if segIdx == amudBSegmentIndex, amudBMicroTitle == nil {
+                    amudDivider("Amud B")
+                }
+                Text(text)
+                    .font(.headline)
+                    .foregroundStyle(isActive ? foreground : foreground.opacity(0.75))
+            }
+            .padding(.top, segIdx == 0 ? 0 : 20)
+            .padding(.bottom, 4)
+            .id(id)
+            .background(
+                GeometryReader { geo in
+                    Color.clear.preference(
+                        key: SegmentAnchorKey.self,
+                        value: [segIdx: geo.frame(in: .named("shiurScroll")).minY]
+                    )
+                }
+            )
 
         case .h3(_, let text):
-            Text(text)
-                .font(.subheadline.weight(.semibold))
-                .foregroundStyle(foreground.opacity(0.7))
-                .padding(.top, 12)
-                .padding(.bottom, 2)
-                .id("h3-\(text)")
+            VStack(alignment: .leading, spacing: 4) {
+                if text == amudBMicroTitle {
+                    amudDivider("Amud B")
+                }
+                Text(text)
+                    .font(.subheadline.weight(.semibold))
+                    .foregroundStyle(foreground.opacity(0.7))
+            }
+            .padding(.top, 12)
+            .padding(.bottom, 2)
+            .id("h3-\(text)")
 
         case .body(let id, let text):
             Text(italicLatinAttributedString(text, font: .body))
@@ -240,6 +257,19 @@ struct ShiurTextView: View {
     }
 
     // MARK: - Helpers
+
+    /// Inline "── AMUD A ──" / "── AMUD B ──" divider marking where an amud actually begins,
+    /// which may land a few paragraphs into the shiur rather than at its very start.
+    private func amudDivider(_ label: String) -> some View {
+        HStack(spacing: 6) {
+            Rectangle().fill(foreground.opacity(0.25)).frame(height: 1)
+            Text(label.uppercased())
+                .font(.caption2.weight(.bold))
+                .foregroundStyle(foreground.opacity(0.55))
+                .fixedSize()
+            Rectangle().fill(foreground.opacity(0.25)).frame(height: 1)
+        }
+    }
 
     private func containsHebrew(_ text: String) -> Bool {
         text.unicodeScalars.contains { $0.value >= 0x0590 && $0.value <= 0x05FF }

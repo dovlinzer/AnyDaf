@@ -224,11 +224,20 @@ fun ContentScreen(
     }
 
     // When audio starts, freeze the locked daf and snapshot the audio segments.
+    val isPlayingEpisode by audioViewModel.isPlayingEpisode.collectAsState()
     LaunchedEffect(isAudioStopped) {
         if (!isAudioStopped) {
-            audioLockedTractate = tractate.name
-            audioLockedDaf = selectedDaf
-            ShiurClient.snapshotAudioSegments()
+            // A Resources-tab episode has nothing to do with the selected daf: freezing the
+            // daf lock or snapshotting its shiur segments here would show the current daf's
+            // chapter pills over an unrelated episode and let episode playback time drive the
+            // shiur/text position. Clear the snapshot instead so the strip stays hidden.
+            if (isPlayingEpisode) {
+                ShiurClient.clearAudioSegments()
+            } else {
+                audioLockedTractate = tractate.name
+                audioLockedDaf = selectedDaf
+                ShiurClient.snapshotAudioSegments()
+            }
         }
     }
 
@@ -680,7 +689,8 @@ fun ContentScreen(
                             }
                             AudioPlayerBar(
                                 audioViewModel = audioViewModel,
-                                nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else ""
+                                nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else "",
+                                useWhiteBackground = useWhiteBackground
                             )
                         }
                         if (isAudioStopped) {
@@ -925,6 +935,8 @@ fun ContentScreen(
                                             if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value, s.precedingContext, s.followingContext), printFontSize, printLineSpacing)
                                         },
                                         onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
+                                        onPlayAudioTrack = { trackID, title, imageURL -> audioViewModel.playEpisode(trackID, title, imageURL) },
+                                audioViewModel = audioViewModel,
                                         modifier = Modifier.fillMaxSize()
                                     )
                                 }
@@ -1018,6 +1030,8 @@ fun ContentScreen(
                                     if (s != null) PrintHelper.print(context, PrintableContent.TalmudText(s.tractate, s.daf.toString(), s.sections, contentViewModel.textDisplayMode.value), printFontSize, printLineSpacing)
                                 },
                                 onAudioPlay = { if (audioViewModel.isPlaying.value) audioViewModel.togglePlayPause() },
+                                onPlayAudioTrack = { trackID, title, imageURL -> audioViewModel.playEpisode(trackID, title, imageURL) },
+                                audioViewModel = audioViewModel,
                                 modifier = Modifier.weight(1f).fillMaxWidth()
                             )
                         }
@@ -1233,7 +1247,8 @@ fun ContentScreen(
                 }
                 AudioPlayerBar(
                     audioViewModel = audioViewModel,
-                    nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else ""
+                    nowPlayingLabel = if (!isAudioStopped) "${audioLockedTractate} ${FeedManager.dafLabel(audioLockedDaf)}" else "",
+                    useWhiteBackground = useWhiteBackground
                 )
             }
         }

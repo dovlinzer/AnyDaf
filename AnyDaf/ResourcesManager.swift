@@ -74,8 +74,8 @@ class ResourcesManager: ObservableObject {
                                                         cached: cachedLib)
             async let psakFetch    = fetchAllFromClient(psakClient, tractate: tractate,
                                                         cached: cachedPsak)
-            // Swallows errors (the audio endpoint isn't live yet) so a broken/absent audio
-            // source never blocks or fails the library/psak fetch it runs alongside.
+            // Swallows errors (in case the audio endpoint has trouble) so a broken/absent
+            // audio source never blocks or fails the library/psak fetch it runs alongside.
             async let audioFetch   = fetchAllFromClientSafely(audioClient, tractate: tractate)
 
             let (lib, psak, audio) = try await (libraryFetch, psakFetch, audioFetch)
@@ -115,6 +115,14 @@ class ResourcesManager: ObservableObject {
         }
     }
 
+    /// Resolves an audio episode's SoundCloud track ID from its live page, for native
+    /// in-app playback via the app's existing `AudioPlayer` (see `extractSoundCloudTrackID`
+    /// for why this can't be done from the REST API's `content` field alone).
+    func fetchAudioTrackID(article: YCTArticle) async -> String? {
+        guard article.source == .audio else { return nil }
+        return await audioClient.extractSoundCloudTrackID(pageURL: article.link)
+    }
+
     func reset() {
         exactArticles = []
         nearbyArticles = []
@@ -134,6 +142,12 @@ class ResourcesManager: ObservableObject {
         var exact:    [YCTArticle] = []
         var nearby:   [YCTArticle] = []
         var tractate: [YCTArticle] = []
+
+        // Cross-source dedup: the same piece (e.g. a psak teshuvah also republished as a
+        // library essay) can appear once per source. Per-source dedup already ran when
+        // each source was fetched; re-run it here on the combined list to catch
+        // cross-source title duplicates too.
+        let articles = mergeAndDeduplicate(articles)
 
         for var article in articles {
             let d = article.matchType.referencedDaf
@@ -175,9 +189,9 @@ class ResourcesManager: ObservableObject {
         "\(source.rawValue):\(tractate)"
     }
 
-    /// Same as `fetchAllFromClient`, but never throws — any failure (e.g. the audio
-    /// endpoint not being live yet on the WordPress side) is swallowed and treated as
-    /// "no articles from this client" rather than failing the whole `loadResources` call.
+    /// Same as `fetchAllFromClient`, but never throws — any failure is swallowed and
+    /// treated as "no articles from this client" rather than failing the whole
+    /// `loadResources` call.
     private func fetchAllFromClientSafely(
         _ client: YCTLibraryClient,
         tractate: String

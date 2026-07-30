@@ -32,6 +32,13 @@ struct StudyModeView: View {
     /// Called when an audio resource (e.g. a podcast episode) starts playing in the
     /// article reader, so the caller can pause the app's main daf/shiur audio.
     var onEpisodeAudioPlay: () -> Void = {}
+    /// Called when the user taps the native "Play Episode" control for a resolved
+    /// SoundCloud track — (trackID, title) — so the caller can start it on the app's
+    /// shared `AudioPlayer` (which also takes over from any playing daf/shiur audio).
+    var onPlayAudioTrack: (String, String, String?) -> Void = { _, _, _ in }
+    /// The app's shared player, so an episode started from Resources stays controllable
+    /// after the user leaves the article reader (it keeps playing in the background).
+    var audioPlayer: AudioPlayer? = nil
     @State private var quizzedSectionIndices: Set<Int> = []
     /// Owned here so it survives loading-state transitions that unmount SectionStudyView.
     /// 0 = Translation, 1 = Summary, 2 = Quiz, 3 = Resources.
@@ -41,6 +48,8 @@ struct StudyModeView: View {
     @State private var selectedArticle: YCTArticle? = nil
     @State private var articleHTML: String = ""
     @State private var isLoadingArticle = false
+    /// Resolved SoundCloud track ID for the current audio-source article, if any.
+    @State private var episodeTrackID: String? = nil
 
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
@@ -153,6 +162,7 @@ struct StudyModeView: View {
                             selectedArticle = article
                             articleHTML = ""
                             isLoadingArticle = true
+                            episodeTrackID = nil
                             Task {
                                 do {
                                     let content = try await resourcesManager.fetchArticleContent(article: article)
@@ -161,6 +171,14 @@ struct StudyModeView: View {
                                     articleHTML = "<p style='color:rgba(255,255,255,0.6)'>Could not load article. Please use \"Open in Browser\" below.</p>"
                                 }
                                 isLoadingArticle = false
+                            }
+                            if article.source == .audio {
+                                Task {
+                                    let trackID = await resourcesManager.fetchAudioTrackID(article: article)
+                                    // Bail if the user tapped a different article while resolving.
+                                    guard selectedArticle?.id == article.id else { return }
+                                    episodeTrackID = trackID
+                                }
                             }
                         },
                         onJumpToSefariaIndex: { sefariaIndex in
@@ -215,7 +233,9 @@ struct StudyModeView: View {
                             selectedArticle = nil
                         }
                     },
-                    onAudioPlay: onEpisodeAudioPlay
+                    onAudioPlay: onEpisodeAudioPlay,
+                    trackID: episodeTrackID,
+                    onPlayAudioTrack: onPlayAudioTrack
                 )
                 .transition(
                     .asymmetric(
@@ -226,6 +246,16 @@ struct StudyModeView: View {
             }
         }
         .animation(.spring(response: 0.4, dampingFraction: 0.85), value: selectedArticle?.id)
+        // Episode transport — layered ABOVE the article-reader overlay so it stays reachable
+        // both inside the reader and after dismissing it. Episodes keep playing in the
+        // background, so this is the only way to pause/stop one without reopening the article.
+        .overlay(alignment: .top) {
+            if let audioPlayer, audioPlayer.isPlayingEpisode, !audioPlayer.isStopped {
+                EpisodePlayerBar(audioPlayer: audioPlayer, useWhiteBackground: useWhiteBackground)
+                    .transition(.move(edge: .top).combined(with: .opacity))
+            }
+        }
+        .animation(.easeInOut(duration: 0.25), value: audioPlayer?.isPlayingEpisode ?? false)
         // isLoadingText goes true→false once per startSession, on the OUTER VStack so it
         // fires even though SectionStudyView (where this logic was) doesn't exist while loading.
         // Also drives the initial Summary/Quiz load: SectionStudyView remounts fresh once
@@ -473,6 +503,168 @@ struct StudyModeView: View {
                     .buttonStyle(.borderedProminent)
             }
             Spacer()
+        }
+    }
+}
+
+private func formatSpeed(_ rate: Float) -> String {
+    switch rate {
+    case 0.5:  return "0.5×"
+    case 0.75: return "0.75×"
+    case 1.0:  return "1×"
+    case 1.25: return "1.25×"
+    case 1.5:  return "1.5×"
+    case 1.75: return "1.75×"
+    case 2.0:  return "2×"
+    default:   return String(format: "%.2g×", rate)
+    }
+}
+
+private func formatTime(_ seconds: Double) -> String {
+    guard seconds.isFinite, seconds >= 0 else { return "0:00" }
+    let mins = Int(seconds) / 60
+    let secs = Int(seconds) % 60
+    return "\(mins):\(String(format: "%02d", secs))"
+}
+
+// MARK: - Episode Player Bar
+
+/// Transport bar for a Resources-tab podcast episode — the only way to control one once the
+/// article reader has been dismissed, since playback continues in the background. Gives the
+/// same controls as the daf/shiur audio player (skip ±30s, speed, seek), not just play/stop.
+struct EpisodePlayerBar: View {
+    let audioPlayer: AudioPlayer
+    /// Deliberately inverted from the page's own appBg/appFg (rather than reusing them) so the
+    /// bar reads as a distinct floating surface rather than blending into whichever theme
+    /// (blue or white) the page happens to be in.
+    let useWhiteBackground: Bool
+
+    private var bg: Color { useWhiteBackground ? SplashView.background : .white }
+    private var fg: Color { useWhiteBackground ? .white : SplashView.background }
+
+    private var canSkip: Bool { audioPlayer.duration > 0 && !audioPlayer.isBuffering }
+
+    var body: some View {
+        VStack(spacing: 4) {
+            HStack(spacing: 10) {
+                artwork
+                    .frame(width: 32, height: 32)
+                    .clipShape(RoundedRectangle(cornerRadius: 6))
+
+                Text(audioPlayer.nowPlayingTitle)
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(fg)
+                    .lineLimit(1)
+
+                Spacer(minLength: 8)
+
+                Button {
+                    audioPlayer.stop()
+                } label: {
+                    Image(systemName: "xmark.circle.fill")
+                        .font(.system(size: 20))
+                        .foregroundStyle(fg.opacity(0.6))
+                }
+                .accessibilityLabel("Stop episode")
+            }
+
+            Slider(
+                value: Binding(
+                    get: { audioPlayer.duration > 0 ? audioPlayer.currentTime / audioPlayer.duration : 0 },
+                    set: { audioPlayer.seek(to: $0) }
+                )
+            )
+            .tint(fg)
+
+            HStack(alignment: .center, spacing: 0) {
+                Text(formatTime(audioPlayer.currentTime))
+                    .font(.caption2.monospacedDigit())
+                    .foregroundStyle(fg.opacity(0.7))
+
+                Spacer()
+
+                HStack(spacing: 16) {
+                    Button {
+                        audioPlayer.skip(by: -30)
+                    } label: {
+                        Image(systemName: "gobackward.30")
+                            .font(.system(size: 20))
+                            .foregroundStyle(canSkip ? fg.opacity(0.85) : fg.opacity(0.3))
+                    }
+                    .disabled(!canSkip)
+
+                    if audioPlayer.isBuffering {
+                        ProgressView().tint(fg).frame(width: 30, height: 30)
+                    } else {
+                        Button { audioPlayer.togglePlayPause() } label: {
+                            Image(systemName: audioPlayer.isPlaying ? "pause.circle.fill" : "play.circle.fill")
+                                .font(.system(size: 30))
+                                .foregroundStyle(fg)
+                        }
+                    }
+
+                    Button {
+                        audioPlayer.skip(by: 30)
+                    } label: {
+                        Image(systemName: "goforward.30")
+                            .font(.system(size: 20))
+                            .foregroundStyle(canSkip ? fg.opacity(0.85) : fg.opacity(0.3))
+                    }
+                    .disabled(!canSkip)
+                }
+
+                Spacer()
+
+                Menu {
+                    ForEach([Float(0.5), 0.75, 1.0, 1.25, 1.5, 1.75, 2.0], id: \.self) { rate in
+                        Button {
+                            audioPlayer.setRate(rate)
+                        } label: {
+                            if rate == audioPlayer.playbackRate {
+                                Label(formatSpeed(rate), systemImage: "checkmark")
+                            } else {
+                                Text(formatSpeed(rate))
+                            }
+                        }
+                    }
+                } label: {
+                    Text(formatSpeed(audioPlayer.playbackRate))
+                        .font(.caption2.monospacedDigit().bold())
+                        .foregroundStyle(fg)
+                        .padding(.horizontal, 6)
+                        .padding(.vertical, 2)
+                        .background(Capsule().fill(fg.opacity(0.25)))
+                }
+
+                Text(formatTime(audioPlayer.duration))
+                    .font(.caption2.monospacedDigit())
+                    .foregroundStyle(fg.opacity(0.7))
+            }
+        }
+        .padding(.horizontal, 12)
+        .padding(.vertical, 8)
+        .background(bg)
+        .clipShape(RoundedRectangle(cornerRadius: 14))
+        .shadow(color: .black.opacity(0.25), radius: 8, y: 3)
+        .padding(.horizontal, 10)
+        .padding(.top, 6)
+    }
+
+    @ViewBuilder private var artwork: some View {
+        if let urlString = audioPlayer.nowPlayingImageURL, let url = URL(string: urlString) {
+            AsyncImage(url: url) { phase in
+                switch phase {
+                case .success(let image): image.resizable().aspectRatio(contentMode: .fill)
+                default: Rectangle().fill(fg.opacity(0.15))
+                }
+            }
+        } else {
+            ZStack {
+                Rectangle().fill(fg.opacity(0.15))
+                Image(systemName: "headphones")
+                    .font(.caption)
+                    .foregroundStyle(fg.opacity(0.6))
+            }
         }
     }
 }
@@ -1669,19 +1861,33 @@ struct SectionStudyView: View {
         Button {
             onArticleTapped(article)
         } label: {
-            VStack(alignment: .leading, spacing: 6) {
-                HStack(alignment: .top) {
+            HStack(alignment: .top, spacing: 10) {
+                if let imageURL = article.imageURL, let url = URL(string: imageURL) {
+                    articleThumbnail(url: url, showPlayIcon: article.source == .audio)
+                }
+
+                VStack(alignment: .leading, spacing: 6) {
+                    // Title gets the full card width so it wraps normally — putting the
+                    // icon/daf-tag row on the same line as the title constrains every
+                    // wrapped line (not just the first) to the width left over after the
+                    // trailing content, wasting the rest of the card's width on long titles.
                     Text(article.title)
                         .font(.subheadline.bold())
                         .foregroundStyle(fg)
                         .multilineTextAlignment(.leading)
-                    Spacer()
+                        .fixedSize(horizontal: false, vertical: true)
+
                     HStack(spacing: 4) {
-                        if article.isAudio {
+                        if article.source == .audio {
                             Image(systemName: "headphones")
                                 .font(.caption2)
                                 .foregroundStyle(fg.opacity(0.65))
                                 .accessibilityLabel("Audio episode")
+                        } else if article.source == .psak {
+                            Image(systemName: "questionmark.bubble")
+                                .font(.caption2)
+                                .foregroundStyle(fg.opacity(0.65))
+                                .accessibilityLabel("Psak question")
                         }
                         ForEach(
                             ([article.matchType.referencedDaf] + article.additionalDafs)
@@ -1698,21 +1904,21 @@ struct SectionStudyView: View {
                                 )
                         }
                     }
+                    if !article.authorName.isEmpty {
+                        Text(article.authorName)
+                            .font(.caption)
+                            .foregroundStyle(fg.opacity(0.65))
+                    }
+                    if !article.excerpt.isEmpty {
+                        Text(article.excerpt)
+                            .font(.caption)
+                            .foregroundStyle(fg.opacity(0.75))
+                            .lineLimit(3)
+                    }
+                    Text(article.date)
+                        .font(.caption2)
+                        .foregroundStyle(fg.opacity(0.45))
                 }
-                if !article.authorName.isEmpty {
-                    Text(article.authorName)
-                        .font(.caption)
-                        .foregroundStyle(fg.opacity(0.65))
-                }
-                if !article.excerpt.isEmpty {
-                    Text(article.excerpt)
-                        .font(.caption)
-                        .foregroundStyle(fg.opacity(0.75))
-                        .lineLimit(3)
-                }
-                Text(article.date)
-                    .font(.caption2)
-                    .foregroundStyle(fg.opacity(0.45))
             }
             .padding()
             .background(
@@ -1721,6 +1927,29 @@ struct SectionStudyView: View {
             )
         }
         .opacity(opacity)
+    }
+
+    /// Article thumbnail, shown on any card whose post has a WordPress featured image
+    /// (library essays commonly do; psak posts rarely do). Audio episodes additionally get
+    /// a small play-button overlay, SoundCloud-style, so a listen reads as distinct from a read.
+    @ViewBuilder
+    private func articleThumbnail(url: URL, showPlayIcon: Bool) -> some View {
+        ZStack {
+            AsyncImage(url: url) { phase in
+                switch phase {
+                case .success(let image): image.resizable().aspectRatio(contentMode: .fill)
+                default: Rectangle().fill(fg.opacity(0.1))
+                }
+            }
+            if showPlayIcon {
+                Color.black.opacity(0.2)
+                Image(systemName: "play.circle.fill")
+                    .font(.system(size: 22))
+                    .foregroundStyle(.white)
+            }
+        }
+        .frame(width: 56, height: 56)
+        .clipShape(RoundedRectangle(cornerRadius: 8))
     }
 }
 

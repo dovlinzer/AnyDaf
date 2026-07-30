@@ -5,6 +5,7 @@ import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.slideInVertically
 import androidx.compose.animation.slideOutVertically
+import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -21,6 +22,8 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Headphones
+import androidx.compose.material.icons.filled.PlayCircleFilled
+import androidx.compose.material.icons.filled.QuestionAnswer
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -35,9 +38,13 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import coil.compose.AsyncImage
 import com.anydaf.model.ResourceMatchType
 import com.anydaf.model.StudyFontSize
 import com.anydaf.model.YCTArticle
@@ -52,7 +59,10 @@ fun ResourcesTab(
     printLineSpacing: Double = 1.15,
     /** Called when an embedded <audio> element (podcast episode) starts playing, so the
      *  caller can pause the app's main daf/shiur audio to avoid overlap. */
-    onAudioPlay: () -> Unit = {}
+    onAudioPlay: () -> Unit = {},
+    /** Called when the user taps "Play Episode" for a resolved SoundCloud track —
+     *  (trackID, title) — so the caller can start it on the app's shared audio player. */
+    onPlayAudioTrack: (String, String, String?) -> Unit = { _, _, _ -> }
 ) {
     val exactArticles by viewModel.exactArticles.collectAsState()
     val nearbyArticles by viewModel.nearbyArticles.collectAsState()
@@ -62,6 +72,7 @@ fun ResourcesTab(
     val selectedArticle by viewModel.selectedArticle.collectAsState()
     val articleHtml by viewModel.articleHtml.collectAsState()
     val isLoadingArticle by viewModel.isLoadingArticle.collectAsState()
+    val episodeTrackID by viewModel.episodeTrackID.collectAsState()
 
     val hasAny = exactArticles.isNotEmpty() || nearbyArticles.isNotEmpty() || tractateArticles.isNotEmpty()
 
@@ -168,7 +179,9 @@ fun ResourcesTab(
                     onDismiss = { viewModel.dismissArticle() },
                     printFontSize = printFontSize,
                     printLineSpacing = printLineSpacing,
-                    onAudioPlay = onAudioPlay
+                    onAudioPlay = onAudioPlay,
+                    trackID = episodeTrackID,
+                    onPlayAudioTrack = onPlayAudioTrack
                 )
             }
         }
@@ -208,34 +221,44 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
             containerColor = MaterialTheme.colorScheme.surfaceVariant
         )
     ) {
-        Column(modifier = Modifier.padding(12.dp)) {
-            val titleSize = fontSize
-            val bodySize = fontSize * 0.85f
-            val labelSize = fontSize * 0.75f
-            Row(
-                modifier = Modifier.fillMaxWidth(),
-                horizontalArrangement = Arrangement.SpaceBetween,
-                verticalAlignment = Alignment.Top
-            ) {
+        Row(modifier = Modifier.padding(12.dp), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+            if (!article.imageURL.isNullOrEmpty()) {
+                ArticleThumbnail(article.imageURL, showPlayIcon = article.source == com.anydaf.model.YCTSource.AUDIO)
+            }
+            Column(modifier = Modifier.weight(1f)) {
+                val titleSize = fontSize
+                val bodySize = fontSize * 0.85f
+                val labelSize = fontSize * 0.75f
+                // Title gets the full card width so it wraps normally — putting the
+                // icon/daf-tag row on the same line as the title constrains every wrapped
+                // line (not just the first) to the width left over after the trailing
+                // content, wasting the rest of the card's width on long titles.
                 Text(
                     text = article.title,
                     style = MaterialTheme.typography.titleSmall.copy(
                         fontSize = titleSize,
                         lineHeight = (titleSize.value * 1.35f).sp
                     ),
-                    modifier = Modifier.weight(1f),
+                    modifier = Modifier.fillMaxWidth(),
                     maxLines = 2,
                     overflow = TextOverflow.Ellipsis
                 )
+                Spacer(Modifier.height(4.dp))
                 Row(
                     horizontalArrangement = Arrangement.spacedBy(4.dp),
-                    verticalAlignment = Alignment.CenterVertically,
-                    modifier = Modifier.padding(start = 8.dp)
+                    verticalAlignment = Alignment.CenterVertically
                 ) {
-                    if (article.isAudio) {
+                    if (article.source == com.anydaf.model.YCTSource.AUDIO) {
                         Icon(
                             Icons.Default.Headphones,
                             contentDescription = "Audio episode",
+                            tint = MaterialTheme.colorScheme.onSurfaceVariant,
+                            modifier = Modifier.size(14.dp)
+                        )
+                    } else if (article.source == com.anydaf.model.YCTSource.PSAK) {
+                        Icon(
+                            Icons.Filled.QuestionAnswer,
+                            contentDescription = "Psak question",
                             tint = MaterialTheme.colorScheme.onSurfaceVariant,
                             modifier = Modifier.size(14.dp)
                         )
@@ -252,36 +275,64 @@ private fun ArticleCard(article: YCTArticle, onTap: () -> Unit) {
                         )
                     }
                 }
-            }
-            if (article.authorName.isNotEmpty()) {
-                Spacer(Modifier.height(2.dp))
+                if (article.authorName.isNotEmpty()) {
+                    Spacer(Modifier.height(2.dp))
+                    Text(
+                        text = article.authorName,
+                        style = MaterialTheme.typography.bodySmall.copy(
+                            fontSize = bodySize,
+                            lineHeight = (bodySize.value * 1.4f).sp
+                        ),
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                }
+                if (article.excerpt.isNotEmpty()) {
+                    Spacer(Modifier.height(4.dp))
+                    Text(
+                        text = article.excerpt,
+                        style = MaterialTheme.typography.bodySmall.copy(
+                            fontSize = bodySize,
+                            lineHeight = (bodySize.value * 1.4f).sp
+                        ),
+                        maxLines = 3,
+                        overflow = TextOverflow.Ellipsis,
+                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
+                    )
+                }
+                Spacer(Modifier.height(4.dp))
                 Text(
-                    text = article.authorName,
-                    style = MaterialTheme.typography.bodySmall.copy(
-                        fontSize = bodySize,
-                        lineHeight = (bodySize.value * 1.4f).sp
-                    ),
+                    text = article.date,
+                    style = MaterialTheme.typography.labelSmall.copy(fontSize = labelSize),
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
             }
-            if (article.excerpt.isNotEmpty()) {
-                Spacer(Modifier.height(4.dp))
-                Text(
-                    text = article.excerpt,
-                    style = MaterialTheme.typography.bodySmall.copy(
-                        fontSize = bodySize,
-                        lineHeight = (bodySize.value * 1.4f).sp
-                    ),
-                    maxLines = 3,
-                    overflow = TextOverflow.Ellipsis,
-                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.85f)
-                )
-            }
-            Spacer(Modifier.height(4.dp))
-            Text(
-                text = article.date,
-                style = MaterialTheme.typography.labelSmall.copy(fontSize = labelSize),
-                color = MaterialTheme.colorScheme.onSurfaceVariant
+        }
+    }
+}
+
+/** Article thumbnail, shown on any card whose post has a WordPress featured image (library
+ *  essays commonly do; psak posts rarely do). Audio episodes additionally get a small
+ *  play-button overlay, SoundCloud-style, so a listen reads as distinct from a read. */
+@Composable
+private fun ArticleThumbnail(imageURL: String, showPlayIcon: Boolean) {
+    Box(
+        modifier = Modifier
+            .size(56.dp)
+            .clip(RoundedCornerShape(8.dp))
+    ) {
+        AsyncImage(
+            model = imageURL,
+            contentDescription = null,
+            contentScale = ContentScale.Crop,
+            modifier = Modifier.fillMaxSize()
+        )
+        if (showPlayIcon) {
+            Box(modifier = Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.2f)))
+            Icon(
+                Icons.Filled.PlayCircleFilled,
+                contentDescription = null,
+                tint = Color.White,
+                modifier = Modifier.size(22.dp).align(Alignment.Center)
             )
         }
     }

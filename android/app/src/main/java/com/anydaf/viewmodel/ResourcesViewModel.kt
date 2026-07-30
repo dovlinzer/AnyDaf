@@ -51,6 +51,10 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
     private val _isLoadingArticle = MutableStateFlow(false)
     val isLoadingArticle: StateFlow<Boolean> = _isLoadingArticle
 
+    /** Resolved SoundCloud track ID for the current audio-source article, if any. */
+    private val _episodeTrackID = MutableStateFlow<String?>(null)
+    val episodeTrackID: StateFlow<String?> = _episodeTrackID
+
     // MARK: - Cache
 
     /** In-memory tractate-level article cache. Keyed by "<source>:<tractate>". */
@@ -107,8 +111,8 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
             try {
                 val libraryDeferred = async { fetchAllFromClient(libraryClient, tractate, cachedLib) }
                 val psakDeferred    = async { fetchAllFromClient(psakClient,    tractate, cachedPsak) }
-                // Swallows errors (the audio endpoint isn't live yet) so a broken/absent audio
-                // source never blocks or fails the library/psak fetch it runs alongside.
+                // Swallows errors (in case the audio endpoint has trouble) so a broken/absent
+                // audio source never blocks or fails the library/psak fetch it runs alongside.
                 val audioDeferred   = async { fetchAllFromClientSafely(audioClient, tractate) }
 
                 val lib   = libraryDeferred.await()
@@ -160,6 +164,7 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
         _selectedArticle.value = article
         _articleHtml.value = ""
         _isLoadingArticle.value = true
+        _episodeTrackID.value = null
         viewModelScope.launch {
             try {
                 _articleHtml.value = when (article.source) {
@@ -173,20 +178,36 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
                 _isLoadingArticle.value = false
             }
         }
+        if (article.source == YCTSource.AUDIO) {
+            viewModelScope.launch {
+                val trackID = audioClient.extractSoundCloudTrackID(article.link)
+                // Bail if the user selected a different article while resolving.
+                if (_selectedArticle.value?.id == article.id) {
+                    _episodeTrackID.value = trackID
+                }
+            }
+        }
     }
 
     fun dismissArticle() {
         _selectedArticle.value = null
         _articleHtml.value = ""
         _isLoadingArticle.value = false
+        _episodeTrackID.value = null
     }
 
     // MARK: - Categorisation
 
-    private fun categorize(articles: List<YCTArticle>, currentDaf: Int) {
+    private fun categorize(articlesIn: List<YCTArticle>, currentDaf: Int) {
         val exact    = mutableListOf<YCTArticle>()
         val nearby   = mutableListOf<YCTArticle>()
         val tractate = mutableListOf<YCTArticle>()
+
+        // Cross-source dedup: the same piece (e.g. a psak teshuvah also republished as a
+        // library essay) can appear once per source. Per-source dedup already ran when
+        // each source was fetched; re-run it here on the combined list to catch
+        // cross-source title duplicates too.
+        val articles = mergeAndDeduplicate(articlesIn)
 
         for (article in articles) {
             val d = article.matchType.referencedDaf
@@ -223,9 +244,9 @@ class ResourcesViewModel(application: Application) : AndroidViewModel(applicatio
     private fun cacheKey(source: YCTSource, tractate: String) = "${source.name}:$tractate"
 
     /**
-     * Same as [fetchAllFromClient], but never throws — any failure (e.g. the audio endpoint
-     * not being live yet on the WordPress side) is swallowed and treated as "no articles
-     * from this client" rather than failing the whole [loadResources] call.
+     * Same as [fetchAllFromClient], but never throws — any failure is swallowed and
+     * treated as "no articles from this client" rather than failing the whole
+     * [loadResources] call.
      */
     private suspend fun fetchAllFromClientSafely(
         client: YCTLibraryClient,

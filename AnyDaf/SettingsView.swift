@@ -6,6 +6,7 @@ struct SettingsView: View {
     @AppStorage("useWhiteBackground") private var useWhiteBackground: Bool = false
     @AppStorage("studyFontSize") private var studyFontSize: StudyFontSize = .medium
     @AppStorage("shiurShowSources") private var shiurShowSources: Bool = true
+    @AppStorage("shiurAutoScrollToAmudA") private var shiurAutoScrollToAmudA: Bool = false
     @AppStorage("printFontSize") private var printFontSize: StudyFontSize = .small
     @AppStorage("printLineSpacing") private var printLineSpacing: Double = 1.15
     @Environment(\.dismiss) private var dismiss
@@ -71,8 +72,11 @@ struct SettingsView: View {
 
                 Section {
                     Toggle("Include source text", isOn: $shiurShowSources)
+                    Toggle("Always start scrolled to Amud A", isOn: $shiurAutoScrollToAmudA)
                 } header: {
                     Text("Shiur")
+                } footer: {
+                    Text("When on, opening a daf's shiur skips past any introduction and starts at the beginning of Amud A.")
                 }
 
                 Section {

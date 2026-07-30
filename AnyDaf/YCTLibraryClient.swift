@@ -67,7 +67,7 @@ class YCTLibraryClient {
         baseURL: "https://library.yctorah.org/wp-json/wp/v2",
         source: .audio,
         talmudTermID: 1899,
-        fetchesTractateLevel: false,
+        fetchesTractateLevel: true,
         restBase: "audio"
     )
 
@@ -196,7 +196,7 @@ class YCTLibraryClient {
             URLQueryItem(name: "reference", value: ids),
             URLQueryItem(name: "per_page",  value: "100"),
             URLQueryItem(name: "_fields",   value: "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"),
-            URLQueryItem(name: "_embed",    value: "author"),
+            URLQueryItem(name: "_embed",    value: "author,wp:featuredmedia"),
         ]
         guard let url = components.url else { throw YCTError.invalidURL }
         let data = try await fetch(url)
@@ -210,11 +210,14 @@ class YCTLibraryClient {
                   let slug = post["slug"] as? String,
                   let titleObj = post["title"] as? [String: Any],
                   let titleRaw = titleObj["rendered"] as? String,
-                  let excerptObj = post["excerpt"] as? [String: Any],
-                  let excerptRaw = excerptObj["rendered"] as? String,
                   let date = post["date"] as? String,
                   let link = post["link"] as? String
             else { continue }
+
+            // The "audio" custom post type doesn't declare excerpt support, so the
+            // `excerpt` key is absent entirely from its REST response — fall back to ""
+            // (the existing content-derived-excerpt logic below fills it in from there).
+            let excerptRaw = ((post["excerpt"] as? [String: Any])?["rendered"] as? String) ?? ""
 
             if nonEnglishSuffixes.contains(where: { slug.hasSuffix($0) }) { continue }
 
@@ -232,14 +235,29 @@ class YCTLibraryClient {
                 let full = stripHTML(cleaned)
                 excerpt = full.count > 200 ? String(full.prefix(200)).trimmingCharacters(in: .whitespaces) + "…" : full
             }
+            if source == .psak {
+                // WordPress's auto-generated excerpt strips all HTML before we ever see it,
+                // so by this point "QUESTION"/"QUETSION" + the location are just flat text
+                // ("QUESTION Riverdale, NY Dear Rabbi Linzer, ...") — there's no h3/h4 left
+                // to target the way `formatPsakQuestionHeader` does for the full article.
+                // Strip the redundant "QUESTION <City, ST>" prefix so the card preview
+                // leads with the actual question instead.
+                excerpt = stripPsakExcerptPrefix(excerpt)
+            }
             let authorName = authorName(from: post)
+            let imageURL = featuredImageURL(from: post)
             let formattedDate = formatDate(date)
 
-            // Determine daf associations from the post's own reference term list
+            // Determine daf associations from the post's own reference term list.
+            // 0 is the tractate-root sentinel (from fetchesTractateLevel) — a post can be
+            // tagged with both the root term AND specific daf terms at once, so prefer any
+            // real daf number over 0 rather than letting 0 win just by being numerically
+            // smallest; only fall back to 0 when there's no daf-specific tag at all.
             let postRefIDs = post["reference"] as? [Int] ?? []
-            let dafs = postRefIDs.compactMap { termToDaf[$0] }.sorted()
-            let primaryDaf = dafs.first ?? 0
-            let additionalDafs = dafs.dropFirst().filter { $0 != primaryDaf }
+            let allDafs = postRefIDs.compactMap { termToDaf[$0] }
+            let specificDafs = Array(Set(allDafs.filter { $0 != 0 })).sorted()
+            let primaryDaf = specificDafs.first ?? 0
+            let additionalDafs = specificDafs.dropFirst()
 
             articles.append(YCTArticle(
                 id: id,
@@ -251,7 +269,8 @@ class YCTLibraryClient {
                 matchType: .tractateWide(daf: primaryDaf),
                 additionalDafs: Array(additionalDafs),
                 source: source,
-                isAudio: isAudio
+                isAudio: isAudio,
+                imageURL: imageURL
             ))
         }
 
@@ -272,10 +291,116 @@ class YCTLibraryClient {
         else { throw YCTError.decodingError }
         // Some embedded media (older audio posts especially) still link http:// sources.
         // App Transport Security blocks plain HTTP, so upgrade before it ever reaches a WebView.
-        return rendered.replacingOccurrences(of: "src=\"http://", with: "src=\"https://")
+        let httpsFixed = rendered.replacingOccurrences(of: "src=\"http://", with: "src=\"https://")
+        if source == .psak  { return formatPsakQuestionHeader(httpsFixed) }
+        if source == .audio { return stripSoundCloudEmbed(httpsFixed) }
+        return httpsFixed
+    }
+
+    /// Fetches the live page (not the REST API) for an audio episode and extracts its
+    /// SoundCloud track ID from the embedded player's iframe `src`. The REST API's
+    /// `content` field is NOT a reliable source for this: some episodes have the iframe
+    /// manually embedded in the post body (REST-visible), but others get it injected by
+    /// the WordPress theme from post meta that isn't exposed via REST at all — confirmed
+    /// by comparing `content.rendered` (no iframe) against the live page (iframe present)
+    /// for the same post. The live page always renders the player either way, so scraping
+    /// it directly is the only approach that works uniformly across all episodes.
+    func extractSoundCloudTrackID(pageURL: String) async -> String? {
+        guard let url = URL(string: pageURL) else { return nil }
+        guard let (data, _) = try? await URLSession.shared.data(from: url) else { return nil }
+        guard let html = String(data: data, encoding: .utf8) else { return nil }
+        guard let regex = try? NSRegularExpression(
+            pattern: "soundcloud\\.com[^\"']*?tracks(?:%2F|/)(\\d+)",
+            options: [.caseInsensitive]
+        ) else { return nil }
+        let range = NSRange(html.startIndex..., in: html)
+        guard let match = regex.firstMatch(in: html, range: range),
+              let idRange = Range(match.range(at: 1), in: html)
+        else { return nil }
+        return String(html[idRange])
     }
 
     // MARK: - Private Helpers
+
+    /// Strips a leading "QUESTION <City, ST>" (or "QUETSION", etc. — real editorial typos
+    /// exist on the site) prefix from a plain-text psak excerpt, so the card preview leads
+    /// with the actual question instead of running the label and location straight into it.
+    /// Best-effort: only matches a "City[, ...], XX" (2-letter state/region code) shape;
+    /// leaves the excerpt untouched if the location doesn't look like that (e.g. a country
+    /// name) rather than risk mangling real question text.
+    private func stripPsakExcerptPrefix(_ excerpt: String) -> String {
+        let range = NSRange(excerpt.startIndex..., in: excerpt)
+        // First try the full "QUESTION <City, ST>" shape (most common — a US city plus a
+        // 2-letter state code).
+        if let fullRegex = try? NSRegularExpression(
+            pattern: "^QUE[A-Za-z]*ION\\s+[^,]+,\\s*[A-Za-z]{2}\\.?\\s+",
+            options: [.caseInsensitive]
+        ), fullRegex.firstMatch(in: excerpt, range: range) != nil {
+            return fullRegex.stringByReplacingMatches(in: excerpt, range: range, withTemplate: "")
+        }
+        // Fallback: locations don't always fit that shape (e.g. "QUESTION Israel" — no
+        // comma, no state code), so just strip the redundant "QUESTION" label itself
+        // rather than risk mangling real question text by guessing further.
+        guard let labelRegex = try? NSRegularExpression(
+            pattern: "^QUE[A-Za-z]*ION\\s+",
+            options: [.caseInsensitive]
+        ) else { return excerpt }
+        return labelRegex.stringByReplacingMatches(in: excerpt, range: range, withTemplate: "")
+    }
+
+    /// Removes an embedded SoundCloud iframe from audio-episode content when present
+    /// (only true for episodes where it happens to be manually embedded in the post body
+    /// — see `extractSoundCloudTrackID`). The app now provides its own native "Play"
+    /// control backed by the extracted track ID, so leaving the iframe in would just show
+    /// a second, often non-functional-inside-a-WebView copy of the same player.
+    private func stripSoundCloudEmbed(_ html: String) -> String {
+        var s = html
+        let patterns = [
+            "(?is)<p>\\s*<iframe[^>]*soundcloud[^>]*>.*?</iframe>\\s*</p>",
+            "(?is)<iframe[^>]*soundcloud[^>]*>.*?</iframe>"
+        ]
+        for pattern in patterns {
+            s = s.replacingOccurrences(of: pattern, with: "", options: .regularExpression)
+        }
+        return s
+    }
+
+    /// Psak articles open with `<h3>QUESTION</h3>` immediately followed by
+    /// `<h4>Location</h4>`. Rendered with default heading styles these sit right on top of
+    /// the question text with no visual separation. Replace the pair with a single
+    /// right-aligned "QUESTION | Location" header block (styled in `styledHTML`), which
+    /// also guarantees the actual question text starts on a fresh line below it.
+    private func formatPsakQuestionHeader(_ html: String) -> String {
+        var result = html
+        // Match loosely on "QUE...ION" rather than an exact "QUESTION" string — the site
+        // has real editorial typos (e.g. "QUETSION") that would otherwise silently fail
+        // to match and leave the raw h3/h4 unstyled.
+        if let qRegex = try? NSRegularExpression(
+            pattern: "<h3>\\s*QUE[A-Za-z]*ION\\s*</h3>\\s*<h4>(.*?)</h4>",
+            options: [.caseInsensitive]
+        ) {
+            let range = NSRange(result.startIndex..., in: result)
+            result = qRegex.stringByReplacingMatches(
+                in: result, range: range,
+                withTemplate: "<div class=\"psak-qheader\"><span class=\"psak-qlabel\">QUESTION</span><span class=\"psak-qloc\">$1</span></div>"
+            )
+        }
+        // Normalize the "ANSWER" heading (also tolerating the "ANWER" typo seen on the
+        // site) to the same custom label class as QUESTION, so they render at the same
+        // size/weight instead of QUESTION being a styled div while ANSWER stays a plain,
+        // larger-by-default <h3>.
+        if let aRegex = try? NSRegularExpression(
+            pattern: "<h3>\\s*(?:<strong>)?AN[A-Za-z]*WER(?:</strong>)?\\s*</h3>",
+            options: [.caseInsensitive]
+        ) {
+            let range = NSRange(result.startIndex..., in: result)
+            result = aRegex.stringByReplacingMatches(
+                in: result, range: range,
+                withTemplate: "<div class=\"psak-alabel\">ANSWER</div>"
+            )
+        }
+        return result
+    }
 
     private func fetch(_ url: URL) async throws -> Data {
         do {
@@ -294,6 +419,25 @@ class YCTLibraryClient {
               let name      = authorArr.first?["name"] as? String
         else { return "" }
         return name
+    }
+
+    /// The post's featured-image URL, embedded via ?_embed=wp:featuredmedia and living at:
+    ///   post["_embedded"]["wp:featuredmedia"][0]["media_details"]["sizes"]["medium"|"thumbnail"]["source_url"]
+    /// Falls back to the media object's own top-level `source_url` (full size) if no sized
+    /// variant is present. Returns nil when the post has no featured image at all.
+    private func featuredImageURL(from post: [String: Any]) -> String? {
+        guard let embedded = post["_embedded"] as? [String: Any],
+              let mediaArr = embedded["wp:featuredmedia"] as? [[String: Any]],
+              let media    = mediaArr.first
+        else { return nil }
+        if let details = media["media_details"] as? [String: Any],
+           let sizes   = details["sizes"] as? [String: Any] {
+            if let medium = sizes["medium"] as? [String: Any],
+               let url = medium["source_url"] as? String { return url }
+            if let thumb = sizes["thumbnail"] as? [String: Any],
+               let url = thumb["source_url"] as? String { return url }
+        }
+        return media["source_url"] as? String
     }
 
     private func matchRank(_ type: ResourceMatchType) -> Int {
